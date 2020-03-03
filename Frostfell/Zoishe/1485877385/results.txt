@@ -2,10 +2,10 @@ Source:
 C:\ACEmulator\Logs Unpacked\gdrive (tfarley)\Zoishe\randomrunning1\pkt_2017-1-31_1485877342_log.pcap
 
 Alternate sources:
+C:\ACEmulator\Logs Unpacked\gdrive (tfarley)\Zoishe\sparking stone\pkt_2017-1-30_1485756135_log.pcap
+C:\ACEmulator\Logs Unpacked\gdrive (tfarley)\Zoishe\Preparation for the Ritus\pkt_2017-1-30_1485786303_log.pcap
 C:\ACEmulator\Logs Unpacked\gdrive (tfarley)\Zoishe\85.5N 43.4E on Aerlinthe\pkt_2017-1-30_1485788340_log.pcap
 C:\ACEmulator\Logs Unpacked\gdrive (tfarley)\Zoishe\exploration26\pkt_2017-1-30_1485813635_log.pcap
-C:\ACEmulator\Logs Unpacked\gdrive (tfarley)\Zoishe\Preparation for the Ritus\pkt_2017-1-30_1485786303_log.pcap
-C:\ACEmulator\Logs Unpacked\gdrive (tfarley)\Zoishe\sparking stone\pkt_2017-1-30_1485756135_log.pcap
 
 Partial Exports - Missing appraisal info:
 800DDDC2:Pack

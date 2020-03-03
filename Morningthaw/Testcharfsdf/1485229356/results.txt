@@ -3,10 +3,10 @@ C:\ACEmulator\Logs Unpacked\trello_datamining\115_training_hall_main_section.pca
 
 Alternate sources:
 C:\ACEmulator\Logs Unpacked\01-31-2017\Misc_User_Actions\new_char_enter_world_no_house.pcap
-C:\ACEmulator\Logs Unpacked\01-31-2017\Misc_User_Actions\training_hall_main_section.pcap
 C:\ACEmulator\Logs Unpacked\trello_datamining\149_enter_world_no_alleg_no_house.pcap
 C:\ACEmulator\Logs Unpacked\trello_datamining\150_enter_world_no_alleg_no_house.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\Misc_User_Actions\enter_world_no_alleg_no_house.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Misc_User_Actions\training_hall_main_section.pcap
 
 Partial Exports - Missing appraisal info:
 C610DE8A:Flared Shirt

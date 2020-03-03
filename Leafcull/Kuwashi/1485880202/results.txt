@@ -2,27 +2,27 @@ Source:
 C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-31_TwoPartTheEndonLeafcull\pkt_2017-1-31_1485880185_log.pcap
 
 Alternate sources:
-C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-29_runfromArwictoCragstone_1485734236\pkt_2017-1-29_1485734236_log.pcap
-C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-29_TravelBetweenSomeSouthernShoTowns1485742416\pkt_2017-1-29_1485742416_log.pcap
-C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-30_DungeonMuddy2ndPass1485807293\pkt_2017-1-30_1485807293_log.pcap
-C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-30_FacilityAcidAxe_1485818614\pkt_2017-1-30_1485818614_log.pcap
-C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-30_FacilityFrest-GreelvingMansion_1485816975\pkt_2017-1-30_1485816975_log.pcap
-C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-30_FacilityMountainSewer_1485814717\pkt_2017-1-30_1485814717_log.pcap
-C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-30_Level25FacilityHubQuests1485787773\pkt_2017-1-30_1485787773_log.pcap
-C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-30_PartialElysaFavor_1485836939\pkt_2017-1-30_1485836939_log.pcap
-C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-30_TravelBetweenNorthernShoTowns1485821949\pkt_2017-1-30_1485821949_log.pcap
-C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-31_AbandonedArena_1485874207\pkt_2017-1-31_1485874207_log.pcap
-C:\ACEmulator\Logs Unpacked\01-31-2017\MeatloafCat_2017-1-31_MurkWarrens1485875782\pkt_2017-1-31_1485875782_log.pcap
-C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-31_RunFromCragstoneToZaikhal1485841271\pkt_2017-1-31_1485841271_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-27_TumerokCaveTumerokSite1485542955_log\pkt_2017-1-27_1485542955_log.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\Matloafcat_2017-1-27_GreenMireGrave2parts\pkt_2017-1-27_1485547466_log.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\Matloafcat_2017-1-27_GreenMireGrave2parts\pkt_2017-1-27_1485568488_log.pcap
-C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-27_TumerokCaveTumerokSite1485542955_log\pkt_2017-1-27_1485542955_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-28_TibriSpearandsomeQalabarArea_1485614721_log\pkt_2017-1-28_1485614721_log.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-28_ForkingTrail_1485619202_log\pkt_2017-1-28_1485619202_log.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-28_LilithasBowandsomeTuskerstuff_1485621813\pkt_2017-1-28_1485621813_log.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-28_ridgecitadelandotherexploration_1485664893\pkt_2017-1-28_1485664893_log.pcap
-C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-28_TibriSpearandsomeQalabarArea_1485614721_log\pkt_2017-1-28_1485614721_log.pcap
-C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-29_HillsCitadel-Partial_1485745923\pkt_2017-1-29_1485745923_log.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-29_LeafcullGatheringWithPortalstorm_1485712139\pkt_2017-1-29_1485712139_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-29_runfromArwictoCragstone_1485734236\pkt_2017-1-29_1485734236_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-29_TravelBetweenSomeSouthernShoTowns1485742416\pkt_2017-1-29_1485742416_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-29_HillsCitadel-Partial_1485745923\pkt_2017-1-29_1485745923_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-30_Level25FacilityHubQuests1485787773\pkt_2017-1-30_1485787773_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-30_DungeonMuddy2ndPass1485807293\pkt_2017-1-30_1485807293_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-30_FacilityMountainSewer_1485814717\pkt_2017-1-30_1485814717_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-30_FacilityFrest-GreelvingMansion_1485816975\pkt_2017-1-30_1485816975_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-30_FacilityAcidAxe_1485818614\pkt_2017-1-30_1485818614_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-30_TravelBetweenNorthernShoTowns1485821949\pkt_2017-1-30_1485821949_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-30_PartialElysaFavor_1485836939\pkt_2017-1-30_1485836939_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-31_RunFromCragstoneToZaikhal1485841271\pkt_2017-1-31_1485841271_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-31_AbandonedArena_1485874207\pkt_2017-1-31_1485874207_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\MeatloafCat_2017-1-31_MurkWarrens1485875782\pkt_2017-1-31_1485875782_log.pcap
 
 Partial Exports - Missing appraisal info:
 AE76FE2C:Ust

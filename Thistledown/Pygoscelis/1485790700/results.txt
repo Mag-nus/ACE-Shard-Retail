@@ -2,18 +2,18 @@ Source:
 C:\ACEmulator\Logs Unpacked\trello_datamining\2_Pygoscelis-DesertedRuin.pcap
 
 Alternate sources:
+C:\ACEmulator\Logs Unpacked\trello_datamining\21_Pygoscelis-DerethOuterCoastline-01-03\Pygoscelis-DerethOuterCoastline-02.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\22_Pygoscelis-DerethOuterCoastline-04-05\Pygoscelis-DerethOuterCoastline-05.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\59_Pygoscelis-WhiteRabbit-CarenziRace-Casino.pcap
 C:\ACEmulator\Logs Unpacked\trello_datamining\23_Pygoscelis-DerethOuterCoastline-06-09\Pygoscelis-DerethOuterCoastline-06.pcap
 C:\ACEmulator\Logs Unpacked\trello_datamining\23_Pygoscelis-DerethOuterCoastline-06-09\Pygoscelis-DerethOuterCoastline-07.pcap
-C:\ACEmulator\Logs Unpacked\trello_datamining\23_Pygoscelis-DerethOuterCoastline-06-09\Pygoscelis-DerethOuterCoastline-08.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\1_Pygoscelis-LugianQuarry.pcap
 C:\ACEmulator\Logs Unpacked\trello_datamining\24_Pygoscelis-DerethInnerCoastline\Pygoscelis-DerethInnerCoastline-02.pcap
 C:\ACEmulator\Logs Unpacked\trello_datamining\24_Pygoscelis-DerethInnerCoastline\Pygoscelis-DerethInnerCoastline-02.pcap
 C:\ACEmulator\Logs Unpacked\trello_datamining\24_Pygoscelis-DerethInnerCoastline\Pygoscelis-DerethInnerCoastline-03.pcap
-C:\ACEmulator\Logs Unpacked\trello_datamining\1_Pygoscelis-LugianQuarry.pcap
-C:\ACEmulator\Logs Unpacked\trello_datamining\59_Pygoscelis-WhiteRabbit-CarenziRace-Casino.pcap
-C:\ACEmulator\Logs Unpacked\trello_datamining\197_Pygoscelis-DerethLandscape\DirelandsLandscape-TethSouthEast.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\23_Pygoscelis-DerethOuterCoastline-06-09\Pygoscelis-DerethOuterCoastline-08.pcap
 C:\ACEmulator\Logs Unpacked\trello_datamining\195_Pygoscelis-LumifestQuests\Pygoscelis-LostLoreQuest-HandIn.pcap
-C:\ACEmulator\Logs Unpacked\trello_datamining\21_Pygoscelis-DerethOuterCoastline-01-03\Pygoscelis-DerethOuterCoastline-02.pcap
-C:\ACEmulator\Logs Unpacked\trello_datamining\22_Pygoscelis-DerethOuterCoastline-04-05\Pygoscelis-DerethOuterCoastline-05.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\197_Pygoscelis-DerethLandscape\DirelandsLandscape-TethSouthEast.pcap
 
 Partial Exports - Missing appraisal info:
 80659A10:Blackmoor's Favor

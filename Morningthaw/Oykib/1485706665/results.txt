@@ -2,9 +2,9 @@ Source:
 C:\ACEmulator\Logs Unpacked\trello_datamining\0_Oykib-1-29-17-Chalicmere Castle\pkt_2017-1-29_1485706647_log.pcap
 
 Alternate sources:
-C:\ACEmulator\Logs Unpacked\trello_datamining\0_Oykib 1-28-17-Dungeon of Shadows\pkt_2017-1-28_1485614541_log.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\Oykib-1-25-17-1_log\pkt_2017-1-25_1485378470_log.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\Oykib-1-25-17-yanshi\pkt_2017-1-25_1485392373_log.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\0_Oykib 1-28-17-Dungeon of Shadows\pkt_2017-1-28_1485614541_log.pcap
 
 Partial Exports - Missing appraisal info:
 C5E32D93:Damp Scroll

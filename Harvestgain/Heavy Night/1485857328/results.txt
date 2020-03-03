@@ -2,16 +2,16 @@ Source:
 C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-31_1485857317_log.pcap
 
 Alternate sources:
-C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-28_1485597209_log.pcap
-C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485761098_log.pcap
 C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2-20170203071709\pkt_2017-1-28_1485588228_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-28_1485597209_log.pcap
 C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2-20170203071709\pkt_2017-1-28_1485598252_log.pcap
 C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2-20170203071709\pkt_2017-1-28_1485598252_log.pcap
 C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2-20170203071709\pkt_2017-1-28_1485599067_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps6\pkt_2017-1-29_1485683056_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps6\pkt_2017-1-29_1485683056_log.pcap
 C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2-20170203071709\pkt_2017-1-29_1485722632_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485761098_log.pcap
 C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps5\pkt_2017-1-30_1485769007_log.pcap
-C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps6\pkt_2017-1-29_1485683056_log.pcap
-C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps6\pkt_2017-1-29_1485683056_log.pcap
 
 Partial Exports - Missing appraisal info:
 811CE644:Golden Gromnie

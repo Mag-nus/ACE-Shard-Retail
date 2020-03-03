@@ -2,20 +2,20 @@ Source:
 C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-31_1485872097_log.pcap
 
 Alternate sources:
-C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485766296_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-26_1485427639_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-26_1485427639_log.pcap
 C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-26_1485461087_log.pcap
 C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-27_1485515049_log.pcap
 C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-27_1485526404_log.pcap
-C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-30_1485768370_log.pcap
-C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-30_1485768370_log.pcap
 C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-28_1485591058_log.pcap
 C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-28_1485591058_log.pcap
 C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-28_1485614877_log.pcap
-C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-30_1485776991_log.pcap
-C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-26_1485427639_log.pcap
-C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-26_1485427639_log.pcap
 C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-29_1485678323_log.pcap
 C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-29_1485724147_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485766296_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-30_1485768370_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-30_1485768370_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-30_1485776991_log.pcap
 
 Partial Exports - Missing appraisal info:
 C8398A61:Pyreal

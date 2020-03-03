@@ -2,7 +2,6 @@ Source:
 C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485835452_log.pcap
 
 Alternate sources:
-C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485826005_log.pcap
 C:\ACEmulator\Logs Unpacked\02-02-2017\sc-enlightenment\pkt_2017-1-20_1484971865_log.pcap
 C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-20_1484971865_log.pcap
 C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-23_1485212709_log.pcap
@@ -10,6 +9,7 @@ C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-23_1485213202_
 C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-29_1485680425_log.pcap
 C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485816418_log.pcap
 C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485824811_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485826005_log.pcap
 
 Partial Exports - Missing appraisal info:
 8F1E5D14:Colosseum Backpack

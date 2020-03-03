@@ -2,6 +2,8 @@ Source:
 C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-30_1485835732_log.pcap
 
 Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-20_1484950645_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-20_1484970274_log.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-21_1485019831_log.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-21_1485023279_log.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-21_1485052145_log.pcap
@@ -34,8 +36,6 @@ C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-29_1485749092_log.pc
 C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-29_1485749092_log.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-30_1485825107_log.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-30_1485828125_log.pcap
-C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-20_1484950645_log.pcap
-C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-20_1484970274_log.pcap
 
 Partial Exports - Missing appraisal info:
 ABAF0060:Bracelet

@@ -2,8 +2,8 @@ Source:
 C:\ACEmulator\Logs Unpacked\01-31-2017\randompktlogs\pkt_2017-1-30_1485833480_log.pcap
 
 Alternate sources:
-C:\ACEmulator\Logs Unpacked\01-31-2017\randompktlogs\pkt_2017-1-30_1485833480_log.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\randompktlogs\pkt_2017-1-21_1485054358_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\randompktlogs\pkt_2017-1-30_1485833480_log.pcap
 
 Partial Exports - Missing appraisal info:
 C5FB9B3E:Pyreal

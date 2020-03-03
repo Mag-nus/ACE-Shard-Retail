@@ -2,9 +2,9 @@ Source:
 C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-31_1485866853_log.pcap
 
 Alternate sources:
-C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-31_1485866853_log.pcap
 C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-5\pkt_2017-1-29_1485693803_log.pcap
 C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-5\pkt_2017-1-29_1485694704_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-31_1485866853_log.pcap
 
 Partial Exports - Missing appraisal info:
 CCAACBCC:Foci of Shadow

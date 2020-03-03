@@ -3,8 +3,8 @@ C:\ACEmulator\Logs Unpacked\01-31-2017\Loddy-OutdoorNorthRun\OutdoorRunNorth.pca
 
 Alternate sources:
 C:\ACEmulator\Logs Unpacked\01-31-2017\Loddy-LugianExcavations\Loddy-LugianExcavations.pcap
-C:\ACEmulator\Logs Unpacked\trello_datamining\0_Loddy-AncientLighthouse.pcap
 C:\ACEmulator\Logs Unpacked\trello_datamining\0_Loddy-LugianExcavations.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\0_Loddy-AncientLighthouse.pcap
 
 Partial Exports - Missing appraisal info:
 AE50AC99:Pack

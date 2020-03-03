@@ -2,9 +2,9 @@ Source:
 C:\ACEmulator\Logs Unpacked\01-31-2017\Cyberkiller2-01-31-2017-Random-Direlands-Spawns\pkt_2017-1-31_1485863288_log.pcap
 
 Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Cyberkiller2-01-31-2017-Random-Direlands-Spawns\pkt_2017-1-31_1485840486_log.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\Cyberkiller-01-31-2017-Random\pkt_2017-1-31_1485841890_log.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\Cyberkiller-01-31-2017-Random\pkt_2017-1-31_1485843595_log.pcap
-C:\ACEmulator\Logs Unpacked\01-31-2017\Cyberkiller2-01-31-2017-Random-Direlands-Spawns\pkt_2017-1-31_1485840486_log.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\Cyberkiller-01-31-2017-Random\pkt_2017-1-31_1485848223_log.pcap
 
 Partial Exports - Missing appraisal info:

@@ -2,12 +2,12 @@ Source:
 C:\ACEmulator\Logs Unpacked\02-01-2017\DataLog\DataLog\pkt_2017-1-29_1485738449_log.pcap
 
 Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\DataLog\DataLog\pkt_2017-1-23_1485229823_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\DataLog\DataLog\pkt_2017-1-23_1485229823_log.pcap
 C:\ACEmulator\Logs Unpacked\02-01-2017\DataLog\DataLog\pkt_2017-1-28_1485646413_log.pcap
 C:\ACEmulator\Logs Unpacked\02-01-2017\DataLog\DataLog\pkt_2017-1-29_1485738449_log.pcap
 C:\ACEmulator\Logs Unpacked\02-01-2017\DataLog\DataLog\pkt_2017-1-29_1485738449_log.pcap
 C:\ACEmulator\Logs Unpacked\02-01-2017\DataLog\DataLog\pkt_2017-1-29_1485738449_log.pcap
-C:\ACEmulator\Logs Unpacked\02-01-2017\DataLog\DataLog\pkt_2017-1-23_1485229823_log.pcap
-C:\ACEmulator\Logs Unpacked\02-01-2017\DataLog\DataLog\pkt_2017-1-23_1485229823_log.pcap
 
 Partial Exports - Missing appraisal info:
 805BDC0C:Iron Scarab

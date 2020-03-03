@@ -2,15 +2,15 @@ Source:
 C:\ACEmulator\Logs Unpacked\trello_datamining\0_Crater Lair.pcap
 
 Alternate sources:
-C:\ACEmulator\Logs Unpacked\trello_datamining\0_Matron Hive East (inside drop only).pcap
-C:\ACEmulator\Logs Unpacked\trello_datamining\38_Hunting around Danby_s Outpost.pcap
 C:\ACEmulator\Logs Unpacked\trello_datamining\47_AC-Dereth-Perimeter-Run_pt.1.pcap\AC-Dereth-Perimeter-Run_pt.1.pcap
-C:\ACEmulator\Logs Unpacked\trello_datamining\45_Valley of Death (running around the area).pcap
 C:\ACEmulator\Logs Unpacked\trello_datamining\48_AC-Dereth-Perimeter-Run_pt.2.pcap\AC-Dereth-Perimeter-Run_pt.2.pcap
 C:\ACEmulator\Logs Unpacked\trello_datamining\49_AC-Dereth-Perimeter-Run_pt.3.pcap\AC-Dereth-Perimeter-Run_pt.3.pcap
-C:\ACEmulator\Logs Unpacked\trello_datamining\5_Frore (part 4).pcap
 C:\ACEmulator\Logs Unpacked\trello_datamining\51_AC-Dereth-Perimeter-Run_pt.5.pcap\AC-Dereth-Perimeter-Run_pt.5.pcap
 C:\ACEmulator\Logs Unpacked\trello_datamining\0_Stone Tool.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\38_Hunting around Danby_s Outpost.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\5_Frore (part 4).pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\45_Valley of Death (running around the area).pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\0_Matron Hive East (inside drop only).pcap
 
 Partial Exports - Missing appraisal info:
 80F3BA4C:Pack

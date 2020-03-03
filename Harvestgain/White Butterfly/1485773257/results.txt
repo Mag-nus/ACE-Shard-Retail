@@ -2,8 +2,8 @@ Source:
 C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-30_1485771019_log.pcap
 
 Alternate sources:
-C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485763969_log.pcap
 C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-25_1485371656_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485763969_log.pcap
 
 Partial Exports - Missing appraisal info:
 81009A50:Ust

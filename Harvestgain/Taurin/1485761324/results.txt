@@ -2,9 +2,9 @@ Source:
 C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485761287_log.pcap
 
 Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-27_1485529072_log.pcap
 C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps-20170203071513\pkt_2017-1-27_1485529756_log.pcap
 C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2-20170203071709\pkt_2017-1-28_1485598252_log.pcap
-C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-27_1485529072_log.pcap
 
 Partial Exports - Missing appraisal info:
 810A645D:Foci of Artifice

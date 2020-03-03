@@ -2,16 +2,21 @@ Source:
 C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps3\pkt_2017-1-31_1485869518_log.pcap
 
 Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps1\pkt_2017-1-25_1485391608_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps1\pkt_2017-1-25_1485391608_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps1\pkt_2017-1-25_1485402896_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps1\pkt_2017-1-26_1485491082_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps1\pkt_2017-1-27_1485499639_log.pcap
 C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps1\pkt_2017-1-28_1485586574_log.pcap
 C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps1\pkt_2017-1-28_1485658916_log.pcap
 C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps1\pkt_2017-1-28_1485658916_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps1\pkt_2017-1-29_1485719326_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps1\pkt_2017-1-29_1485719326_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps1\pkt_2017-1-29_1485719326_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps1\pkt_2017-1-29_1485719326_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps1\pkt_2017-1-29_1485719326_log.pcap
 C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps1\pkt_2017-1-29_1485738401_log.pcap
-C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps1\pkt_2017-1-29_1485719326_log.pcap
-C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps1\pkt_2017-1-29_1485719326_log.pcap
 C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps1\pkt_2017-1-29_1485744711_log.pcap
-C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps1\pkt_2017-1-29_1485719326_log.pcap
-C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps1\pkt_2017-1-29_1485719326_log.pcap
-C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps1\pkt_2017-1-29_1485719326_log.pcap
 C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps1\pkt_2017-1-29_1485753653_log.pcap
 C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps2\pkt_2017-1-30_1485756587_log.pcap
 C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps2\pkt_2017-1-30_1485806224_log.pcap
@@ -35,11 +40,6 @@ C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps3\pkt_2017-1-31_1485869518_log.p
 C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps3\pkt_2017-1-31_1485869518_log.pcap
 C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps3\pkt_2017-1-31_1485869518_log.pcap
 C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps3\pkt_2017-1-31_1485869518_log.pcap
-C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps1\pkt_2017-1-25_1485391608_log.pcap
-C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps1\pkt_2017-1-25_1485391608_log.pcap
-C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps1\pkt_2017-1-25_1485402896_log.pcap
-C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps1\pkt_2017-1-26_1485491082_log.pcap
-C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps1\pkt_2017-1-27_1485499639_log.pcap
 
 Partial Exports - Missing appraisal info:
 85756330:Gonjoku's Mana Infusion

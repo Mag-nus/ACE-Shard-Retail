@@ -2,6 +2,7 @@ Source:
 C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-30_1485828125_log.pcap
 
 Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-20_1484970274_log.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-21_1485019831_log.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-22_1485100148_log.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-22_1485130223_log.pcap
@@ -10,7 +11,6 @@ C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-23_1485219811_log.pc
 C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-23_1485219811_log.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-25_1485403696_log.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-30_1485825107_log.pcap
-C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-20_1484970274_log.pcap
 
 Partial Exports - Missing appraisal info:
 A4D5CF81:Lead Scarab

@@ -2,9 +2,6 @@ Source:
 C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485827527_log.pcap
 
 Alternate sources:
-C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485825143_log.pcap
-C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485826315_log.pcap
-C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485827051_log.pcap
 C:\ACEmulator\Logs Unpacked\02-02-2017\sc-enlightenment\pkt_2017-1-20_1484971850_log.pcap
 C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-23_1485212422_log.pcap
 C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-24_1485300148_log.pcap
@@ -14,6 +11,9 @@ C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-24_1485302021_
 C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-29_1485680412_log.pcap
 C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485816405_log.pcap
 C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485824798_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485825143_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485826315_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485827051_log.pcap
 
 Partial Exports - Missing appraisal info:
 9250278D:Colosseum Backpack

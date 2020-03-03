@@ -2,53 +2,53 @@ Source:
 C:\ACEmulator\Logs Unpacked\02-01-2017\jojii2\pkt_2017-1-26_1485419821_log.pcap
 
 Alternate sources:
-C:\ACEmulator\Logs Unpacked\trello_datamining\1_lightless catacombs.pcap
-C:\ACEmulator\Logs Unpacked\trello_datamining\2_random temple of enlight.pcap
-C:\ACEmulator\Logs Unpacked\trello_datamining\1_malignant tabernacle.pcap
 C:\ACEmulator\Logs Unpacked\trello_datamining\4_random arwic.pcap
-C:\ACEmulator\Logs Unpacked\trello_datamining\5_bow of the quiddity.pcap
-C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\Apostate Excavation.pcap
-C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\bow of the quiddity.pcap
-C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\convergent median.pcap
-C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\dungeon binar.pcap
-C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\Dungeon Fern.pcap
-C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\Enkindled Souls.pcap
-C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\dungeon nye.pcap
-C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\dungeon of tatters.pcap
-C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\hebian-to.pcap
-C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\pkt_2017-1-17_1484723255_log.pcap
-C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\pkt_2017-1-18_1484726528_log.pcap
-C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\Incunabula Vault.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\random arwic.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\2_random temple of enlight.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\random temple of enlight.pcap
-C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\lightless catacombs.pcap
-C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\malignant tabernacle.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\hebian-to.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\0_hebian-to.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\Enkindled Souls.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\0_Enkindled Souls.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\dungeon of tatters.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\0_dungeon of tatters.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\dungeon nye.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\0_dungeon nye.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\tusker honeycombs.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\0_tusker honeycombs.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\pkt_2017-1-14_1484446611_log.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\pkt_2017-1-14_1484446611_log.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\pkt_2017-1-14_1484459082_log.pcap
-C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\tusker honeycombs.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\dungeon binar.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\0_dungeon binar.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\Dungeon Fern.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\0_Dungeon Fern.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\1_malignant tabernacle.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\malignant tabernacle.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\venemous nidus.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\0_venemous nidus.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\1_lightless catacombs.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\lightless catacombs.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\convergent median.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\0_convergent median.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\5_bow of the quiddity.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\bow of the quiddity.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\Incunabula Vault.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\0_Incunabula Vault.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\pkt_2017-1-15_1484524775_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\Apostate Excavation.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\pkt_2017-1-17_1484712015_log.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\pkt_2017-1-17_1484713182_log.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\pkt_2017-1-17_1484713261_log.pcap
-C:\ACEmulator\Logs Unpacked\trello_datamining\0_tusker honeycombs.pcap
-C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\venemous nidus.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\pkt_2017-1-17_1484719990_log.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\pkt_2017-1-17_1484721353_log.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\pkt_2017-1-17_1484722368_log.pcap
-C:\ACEmulator\Logs Unpacked\trello_datamining\0_venemous nidus.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\pkt_2017-1-17_1484723255_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\pkt_2017-1-18_1484726528_log.pcap
 C:\ACEmulator\Logs Unpacked\02-01-2017\jojii2\pkt_2017-1-22_1485127673_log.pcap
 C:\ACEmulator\Logs Unpacked\02-01-2017\jojii2\pkt_2017-1-22_1485132795_log.pcap
 C:\ACEmulator\Logs Unpacked\02-01-2017\jojii2\pkt_2017-1-22_1485133915_log.pcap
-C:\ACEmulator\Logs Unpacked\trello_datamining\0_convergent median.pcap
 C:\ACEmulator\Logs Unpacked\02-01-2017\jojii2\pkt_2017-1-22_1485141582_log.pcap
-C:\ACEmulator\Logs Unpacked\trello_datamining\0_dungeon binar.pcap
-C:\ACEmulator\Logs Unpacked\trello_datamining\0_Dungeon Fern.pcap
-C:\ACEmulator\Logs Unpacked\trello_datamining\0_dungeon nye.pcap
-C:\ACEmulator\Logs Unpacked\trello_datamining\0_dungeon of tatters.pcap
-C:\ACEmulator\Logs Unpacked\trello_datamining\0_Enkindled Souls.pcap
-C:\ACEmulator\Logs Unpacked\trello_datamining\0_hebian-to.pcap
-C:\ACEmulator\Logs Unpacked\trello_datamining\0_Incunabula Vault.pcap
 
 Partial Exports - Missing appraisal info:
 AAFFFE8A:Foci of Artifice

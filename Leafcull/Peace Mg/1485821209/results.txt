@@ -2,8 +2,8 @@ Source:
 C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-30_1485817520_log.pcap
 
 Alternate sources:
-C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-16_1484615451_log.pcap
 C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-14_1484443566_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-16_1484615451_log.pcap
 
 Partial Exports - Missing appraisal info:
 A6AD4BD0:Pyreal

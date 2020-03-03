@@ -2,8 +2,6 @@ Source:
 C:\ACEmulator\Logs Unpacked\02-02-2017\pkt_2017-1-30_1485836230_log-solclaim_final_pic_gathering\pkt_2017-1-30_1485836230_log-solclaim_final_pic_gathering.pcap
 
 Alternate sources:
-C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485835807_log.pcap
-C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485836151_log.pcap
 C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-22_1485125881_log.pcap
 C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-22_1485129960_log.pcap
 C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-22_1485130831_log.pcap
@@ -18,6 +16,8 @@ C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-28_1485661164_
 C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-29_1485676260_log.pcap
 C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485807300_log.pcap
 C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485807453_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485835807_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485836151_log.pcap
 
 Partial Exports - Missing appraisal info:
 803A43C2:Peerless Lockpick

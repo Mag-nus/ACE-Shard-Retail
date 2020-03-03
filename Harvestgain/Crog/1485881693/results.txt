@@ -2,6 +2,7 @@ Source:
 C:\ACEmulator\Logs Unpacked\02-01-2017\Crog_random\pkt_2017-1-31_1485881672_log.pcap
 
 Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Crog_random\pkt_2017-1-21_1485056947_log.pcap
 C:\ACEmulator\Logs Unpacked\02-01-2017\Crog_random\pkt_2017-1-28_1485662536_log.pcap
 C:\ACEmulator\Logs Unpacked\02-01-2017\Crog_random\pkt_2017-1-30_1485835306_log.pcap
 C:\ACEmulator\Logs Unpacked\02-01-2017\Crog_random\pkt_2017-1-30_1485836626_log.pcap
@@ -11,7 +12,6 @@ C:\ACEmulator\Logs Unpacked\02-01-2017\Crog_random\pkt_2017-1-31_1485874147_log.
 C:\ACEmulator\Logs Unpacked\02-01-2017\Crog_random\pkt_2017-1-31_1485881274_log.pcap
 C:\ACEmulator\Logs Unpacked\02-01-2017\Crog_random\pkt_2017-1-31_1485881431_log.pcap
 C:\ACEmulator\Logs Unpacked\02-01-2017\Crog_random\pkt_2017-1-31_1485881513_log.pcap
-C:\ACEmulator\Logs Unpacked\02-01-2017\Crog_random\pkt_2017-1-21_1485056947_log.pcap
 
 Partial Exports - Missing appraisal info:
 80554E11:Heart of the Innocent

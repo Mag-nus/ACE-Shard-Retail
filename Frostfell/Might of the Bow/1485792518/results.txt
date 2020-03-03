@@ -2,10 +2,10 @@ Source:
 C:\ACEmulator\Logs Unpacked\01-31-2017\Callaway-01-30-2017-BurQuests\pkt_2017-1-30_1485791858_log.pcap
 
 Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Callaway-01-10-2017-MountLetheGraveyard\pkt_2017-1-9_1484006624_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Callaway-01-10-2017-MountLetheGraveyard\pkt_2017-1-9_1484006624_log.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\Callaway-01-22-2017-ClutchofKingsReeshan\pkt_2017-1-22_1485076276_log.pcap
 C:\ACEmulator\Logs Unpacked\02-06-2017\Callaway-January2017-Account5\pkt_2017-1-22_1485076276_log.pcap
-C:\ACEmulator\Logs Unpacked\01-31-2017\Callaway-01-10-2017-MountLetheGraveyard\pkt_2017-1-9_1484006624_log.pcap
-C:\ACEmulator\Logs Unpacked\01-31-2017\Callaway-01-10-2017-MountLetheGraveyard\pkt_2017-1-9_1484006624_log.pcap
 C:\ACEmulator\Logs Unpacked\02-06-2017\Callaway-January2017-Account4\pkt_2017-1-22_1485076276_log.pcap
 
 Partial Exports - Missing appraisal info:

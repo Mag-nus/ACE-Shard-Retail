@@ -3,8 +3,8 @@ C:\ACEmulator\Logs Unpacked\01-31-2017\Pokn_1-28-17_Mamment_-Foundry-Mayoi\Mamme
 
 Alternate sources:
 C:\ACEmulator\Logs Unpacked\01-31-2017\Pokn-01-25-2017-Bandit_Castle_OHN_Bandit\pkt_2017-1-25_1485407259_log.pcap
-C:\ACEmulator\Logs Unpacked\01-31-2017\Pokn_1-28-17_Catacombs_of_Opposition\Catacombs of Opposition\pkt_2017-1-27_1485574175_log.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\Pokn-01-25-2017-Bandit_Deeper_Catacombs_pcap-only\pkt_2017-1-26_1485411669_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Pokn_1-28-17_Catacombs_of_Opposition\Catacombs of Opposition\pkt_2017-1-27_1485574175_log.pcap
 
 Partial Exports - Missing appraisal info:
 8063F90C:Pack
