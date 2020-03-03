@@ -1,0 +1,140 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\DataLog\DataLog\pkt_2017-1-29_1485738449_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\DataLog\DataLog\pkt_2017-1-23_1485225714_log.pcap
+
+Partial Exports - Missing appraisal info:
+8C1B7970:Foci of Strife
+8C1B7971:Foci of Enchantment
+8C1B7972:Foci of Verdancy
+8C1B7973:Copper Scarab
+8C1B7974:Prismatic Taper
+8C1B7975:Gold Scarab
+8C1B7976:Foci of Artifice
+8C1B7977:Blackmoor's Favor
+8C1B7978:Platinum Scarab
+8C1B7979:Lead Scarab
+8C1B797A:Armoredillo Hide
+8C1B797B:Intricate Carving Tool
+8C1B797C:Faran Robe with Hood
+8C1B7982:Pyreal Scarab
+8C1B7983:Four of Eyes
+8C1B7985:Princely Runed War Bow
+8C1B7987:Diadem
+8C1B7988:Teardrop Crown
+8C1B7989:Circlet
+8C1B798A:Coronet
+8C1B798B:Diadem
+8C1B798C:Coronet
+8C1B798D:Teardrop Crown
+8C1B798E:Coronet
+8C1B7990:Mechanical Scarab
+8C1B7994:Acid Nekode
+8C1B7991:Blunt Crossbow
+8C1B7992:Acid Crossbow
+8C1B7993:Nariyid Sleeves
+8C1B7995:Kite Shield
+8C1B7996:Tenassa Breastplate
+8C1B7997:Hood
+8C1B799C:Rust Gromnie Tooth
+8C1B7998:Celdon Breastplate
+8C1B7999:Celdon Breastplate
+8C1B799A:Koujia Breastplate
+8C1B799B:Salvage (78)
+8C1B799D:Four of Hands
+8C1B799E:Two of Eyes
+8C1B799F:Queen of Hands
+8C1B79A0:Ten of Hands
+8C1B79A1:Queen of Eyes
+8C1B79A2:Silver Scarab
+8C1B79A4:Crown
+8C1B79A5:Crown
+8C1B79A6:Crown
+8C1B79A7:Crown
+8C1B79BB:Diamond Scarab
+8C1B79A8:Circlet
+8C1B79A9:Circlet
+8C1B79AA:Teardrop Crown
+8C1B79AB:Teardrop Crown
+8C1B79AC:Teardrop Crown
+8C1B79AD:Signet Crown
+8C1B79AE:Signet Crown
+8C1B79AF:Teardrop Crown
+8C1B79B2:Coronet
+8C1B79B0:Signet Crown
+8C1B79B1:Teardrop Crown
+8C1B79B3:Coronet
+8C1B79B5:Coronet
+8C1B79B6:Teardrop Crown
+8C1B79B7:Teardrop Crown
+8C1B79B8:Heavy Bracelet
+8C1B79B9:Covenant Greaves
+8C1B79CD:Fiun Spellcasting Gloves
+8C1B79BA:Acid Bow
+8C1B79BF:Fire Sceptre
+8C1B79C0:Acid Bow
+8C1B79C2:Teardrop Crown
+8C1B79C3:Teardrop Crown
+8C1B79C5:Diadem
+8C1B79C8:Ring
+8C1B79C7:Chalice
+8C1B79C9:Crown
+8C1B79D9:Frost Jambiya
+8C1B79CA:Crown
+8C1B79CB:Crown
+8C1B79F1:Flaming Nekode
+8C1B79CF:Covenant Helm
+8C1B79D0:Leather Jerkin
+8C1B79D1:Stamina Philtre
+8C1B79D2:Minalim Plant
+8C1B79D3:Acid Trident
+8C1B79D6:Elaborate Field Rations
+8C1B79D7:Trident
+8C1B79DC:Acid Khanda-handled Mace
+8C1B79DE:Teardrop Crown
+8C1B7A0A:Iron Scarab
+8C1B79DF:Diadem
+8C1B79E0:Teardrop Crown
+8C1B79E1:Circlet
+8C1B79E2:Circlet
+8C1B79E3:Coronet
+8C1B79E4:Coronet
+8C1B79E5:Circlet
+8C1B79E6:Teardrop Crown
+8C1B79E7:Circlet
+8C1B79E8:Teardrop Crown
+8C1B79E9:Teardrop Crown
+8C1B79FA:Turban
+8C1B79EA:Signet Crown
+8C1B79EB:Signet Crown
+8C1B7A03:Alduressa Helm
+8C1B79EC:Frost Baton
+8C1B79ED:Fire Sceptre
+8C1B79EE:Koujia Sleeves
+8C1B79EF:Electric Compound Bow
+8C1B79F0:Knife
+8C1B79F2:Blunt Bow
+8C1B79F3:Fire Skeleton Samurai Essence
+8C1B79F4:Acid Spectre Essence (180)
+8C1B79F5:Koujia Breastplate
+8C1B79F6:Cloth Gloves
+8C1B79F7:Nariyid Sleeves
+8C1B79F9:Sedgemail Leather Sleeves
+8C1B79FB:Puzzle Box
+8C1B79FC:Viamontian Pants
+8C1B79FE:Chevron Cloak
+8C1B79FF:Smock
+8C1B7A00:Heavy Bracelet
+8C1B7A01:Olthoi Amuli Helm
+8C1B7A02:Tenassa Leggings
+8C1B7A04:Olthoi Alduressa Gauntlets
+8C1B7A05:Chiran Gauntlets
+8C1B7A06:Cloth Gloves
+8C1B7A07:Bordered Cloak
+8C1B7A08:Lace Shirt
+8C1B7A09:Chainmail Pauldrons
+8C1B7A0B:Tunic
+8C1B79FD:Amuli Coat
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,153 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\trello_datamining\0_Oykib-1-29-17-Chalicmere Castle\pkt_2017-1-29_1485706647_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\trello_datamining\0_Oykib 1-28-17-Dungeon of Shadows\pkt_2017-1-28_1485614541_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Oykib-1-25-17-1_log\pkt_2017-1-25_1485378470_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Oykib-1-25-17-yanshi\pkt_2017-1-25_1485392373_log.pcap
+
+Partial Exports - Missing appraisal info:
+C5E32D93:Damp Scroll
+C63920AE:Pyreal
+C5E32D94:A List of Raiding Creatures
+C5E32D9A:Writ of Refuge
+C5E32D9E:Aetheria
+C5E32DA0:Salvage (10)
+C5E32DA2:Pack Burun Kukuur
+C5E32DA5:Aetheria
+C5E32D9B:Fez
+C5E34751:Minalim Plant
+C5E32E2E:Coronet
+C62F3A20:Shoyanen's Portal Gem
+C63A3957:Candy Corn
+C63AE705:Chocolate Gromnie
+C63AE706:Licorice Rat
+C67A9397:Low-Stakes Gambling Token
+C66D8EFE:Cloth Gloves
+C5E32DC9:Bronze Coil from a Statue
+C67895A8:Strengthened Mana Forge Key
+C5E32DA8:Silver Scarab
+C5E32DA9:Lead Scarab
+C5E32DAA:Gold Scarab
+C5E32DAB:Diamond Scarab
+C5E32DAD:Ruined Amulet of Light Weapons
+C5E32DAF:Copper Scarab
+C5E32DB0:Iron Scarab
+C5E32DB1:Gold Scarab
+C5E32DB2:Pyreal Scarab
+C5E32DB3:Platinum Scarab
+C5E32DB6:Aligned Mana Stone
+C5E32DB9:Facility Hub Portal Gem
+C5E32DBA:Gem of Stillness
+C5E32DBB:Sezzherei's Lair
+C641540D:Titan Mana Charge
+C6231217:Strengthened Mana Forge Key
+C67E3213:Mana Scarab
+C655D26B:Mana Forge Key
+C655ECBD:Mana Forge Key
+C67B445F:Mana Forge Key
+C655ED0A:Mana Forge Key
+C5E32DC1:Foci of Enchantment
+C5E32DC2:Foci of Verdancy
+C5E32DC3:Foci of Strife
+C5E32DC4:Splitting Tool
+C5E32DC5:Foci of Artifice
+C5E32DCA:Potion of Healing
+C618B0D1:Salvage (95)
+C618B0F3:Salvage (7)
+C63AE4EF:Colosseum Ticket
+C63B98AE:Salvage (7)
+C6182CCB:Salvage (100)
+C65F0F3B:Moderate Mana Stone
+C63CAC06:Black Market Gem of Dispelling
+C5E32E09:Bracelet
+C697E2BC:Pyreal
+C5E32DF6:Elysa's Favor
+C6568B7C:Chocolate Gromnie
+C6568B7D:Licorice Rat
+C6568B7B:Candy Corn
+C6568ADA:Golden Gromnie
+C677E917:Salvage (45)
+C67BB612:Poison
+C5E32DD6:Seal
+C5E32DD7:Stonehold Rune Transcription
+C5E32DD8:Major Prismatic Stone
+C5E32DD9:Chorizite
+C5E32DDB:Salvaged  (85)
+C5E32DDC:Glittering Crystalline Key
+C5E32DDF:Ruined Amulet of Light Weapons
+C5E32DE3:Banderling Mask
+C5E32DE4:Salvaged  (39)
+C5E32DE5:Scroll of Sanctuary Recall
+C5E32DE7:Relanim Plant
+C5E32DEC:Salvaged  (96)
+C5E32DED:Salvaged  (100)
+C5E32DEE:Parchment
+C5E32DF1:Salvaged  (84)
+C5E32DF2:Salvaged  (100)
+C5E32DFF:Blighted Mana Crystal
+C5E32DF3:Salvaged  (84)
+C5E32DF4:Salvaged  (68)
+C5E32DF7:Blackmoor's Favor
+C5E32DF8:Argenory Plant
+C5E32DFA:Lytelthorpe Portal Gem
+C5E32E01:Aetheria Mana Stone
+C5E32E12:Aerfalle's Token
+C5E32E17:Ink of Conveyance
+C5E32E20:Black Coral Keyring
+C5E32E1A:Intricate Carving Tool
+C5E32E1E:Ink of Objectification
+C5FB7A27:A Large Mnemosyne
+C5E1F34A:Lapyan Plant
+C5F52264:Ring
+C5E32DEA:Salvaged  (46)
+C62563C2:Devastator Tusk
+C5E32E19:Ink of Formation
+C60D7FD2:Aetheria
+C5E32E18:Quill of Infliction
+C16913DF:Ink of Direction
+BF361A1A:Royal Runed Slashing Baton
+C6734D01:Stone Fists Token
+C63C934A:Enhanced Mana Elixir
+C676A1D5:Pristine Mana Shard
+C63D2B77:Glyph of Armor
+C67B6D96:Experimentation
+BDE65E79:Slashing Baton
+C62AC03D:Quill of Introspection
+C67E3B39:Agent of Arcanum List
+C63FCD44:Aetheria
+C225EBC8:Fire Sceptre
+C6522BD1:Coalesced Mana
+C697E2D0:Pyreal
+C6529ADC:Silyun Portal Gem
+C654BF16:Salvage (63)
+C67D6CF3:An Interesting Note
+C5E32DBE:Glyph of Run
+C65686C6:Enhanced Health Elixir
+C68F5A5F:Fenmalain Key
+C666B9F3:Red Monster Seed
+C6549C88:Encapsulated Spirit
+C65ECCA2:Bracelet
+C65C5C09:Glyph of Lockpick
+C67BD790:Health Philtre
+C67C72FF:Stamina Philtre
+C679B95F:A'nekshay Token
+C678212C:Cowl
+C67DAAA3:Beautiful key
+C66D8EFF:Cowl
+C697E2FF:Pyreal
+C697E2CF:Pyreal
+C6989BCA:High Mana Charge
+C69547EA:Enhanced Mucor
+C68B0756:Piercing Staff
+C6843F43:Diadem
+C68706E6:Crown
+C676A1FF:Olthoi Egg
+C69A76EA:Great Pumpkin
+C69F8623:First Half of a Battered Atlatl
+C6A0779D:Snow Lily
+C69F80EB:Verdalim Plant
+C69E054D:Upper Insatiable Eater Jaw
+C69976AE:Clutch of the Miser
+
+Missing Exports - Possessed items that were not found:

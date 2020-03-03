@@ -1,0 +1,186 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-07-2017\Asherons-Call-packets-includes-3-towers\pkt_2017-1-31_1485869183_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-07-2017\Asherons-Call-packets-includes-3-towers\pkt_2017-1-20_1484949631_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\Asherons-Call-packets-includes-3-towers\pkt_2017-1-27_1485543695_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\Asherons-Call-packets-includes-3-towers\pkt_2017-1-29_1485727319_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\Asherons-Call-packets-includes-3-towers\pkt_2017-1-30_1485819499_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\Asherons-Call-packets-includes-3-towers\pkt_2017-1-30_1485823896_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\Asherons-Call-packets-includes-3-towers\pkt_2017-1-30_1485829164_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\Asherons-Call-packets-includes-3-towers\pkt_2017-1-31_1485866260_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\Asherons-Call-packets-includes-3-towers\pkt_2017-1-31_1485867224_log.pcap
+
+Partial Exports - Missing appraisal info:
+8FA7E1BF:Sack
+8FA7E1C0:Ust
+9485BCCD:Society Gem of Dispelling
+9531E0A9:Broken Stone Tablet
+9894C83C:Solid Shard
+984507C9:Eldrytch Web Armor Writ
+92D56D98:Ultimate Singularity Scepter of Life Magic
+9947D4FE:Scored Shard
+99DE69C2:Plated Shard
+9527F726:Eldrytch Web Trade Token
+9ACDC1F2:Stipend
+9B2C0A1E:Enhanced Mana Elixir
+974DF688:Supplies for Massilor
+9C678E00:Brilliant Shard
+95624BCF:Nether Staff
+920DCFB2:Enhanced Assault Orb
+9EFF07E8:Pyreal
+974351DD:Deed
+91109758:Focusing Stone
+9C68A5B5:Crystal of Perception
+92D50EE7:Shadownether Isparian Wand
+9E527FC9:Massive Mana Charge
+9B2FAF71:Eldrytch Web Trade Token
+9AF1406D:Eldrytch Web Commendation Ribbon
+9E918CA1:Trade Note (250,000)
+8FC6185A:Pack
+9770F4D4:Prickly Pear
+975034CB:Pyre Skeleton Jaw
+974B8960:Ornate Bone Key
+9740A8DC:Archaeologist's Tracing Paper
+980E1717:Viridian Essence
+97FC6453:Engraved A'nekshay Bracers
+988CC8B9:Snow Tusker Blood Sample
+95108FD9:Corrupted Essence
+9896FC4F:Spirit of Izexi Gem
+95C5B4EF:Nether Baton
+95A516B1:Eldrytch Web Stronghold Portal Gem
+902F6366:Nether Sceptre
+9C4B4EF8:Massive Mana Charge
+9C55CBDD:Massive Mana Charge
+9DFC688A:Eldrytch Web Trade Token
+9EFBF450:Pyreal
+9EF5FE57:Prismatic Taper
+8F8CB3CA:Aetheria
+9F4C0D0D:Pyreal
+9F51A5CB:Pyreal
+9F51A5E6:Pyreal
+9F53ABD5:Pyreal
+9F4D6E6D:Pyreal
+A5971270:Lucky Gold Letter
+910BF127:Empyrean Sun Stone
+8FC3062C:Pack
+90F8DE0B:Major Sparking Stone
+9244D46A:Aetheria Mana Stone
+923FC735:Silver Scarab
+8FD3FD31:Pyreal Scarab
+8FD9393F:Diamond Scarab
+8FC57283:Blackmoor's Favor
+936CBB26:Chorizite
+910567EA:Major Smoldering Stone
+92CD6719:Major Stinging Stone
+948B0CBD:Gold Scarab
+936CD63F:Small Olthoi Venom Sac
+9004FC67:Colosseum Coin
+92B402F8:Stone Tool
+9529E135:Ancient Mhoire Coin
+95371B7B:A'nekshay Token
+95156F53:Ornate Gear Marker
+96AC4CBF:Copper Scarab
+96D4CEAF:Asheron's Lesser Benediction
+923925C7:Black Fire Atlan Stone
+9C22565C:Lead Scarab
+9101E14F:Major Shivering Stone
+9E9BA574:Platinum Scarab
+9EEDCB28:Mana Scarab
+9F51A5B6:Pyreal
+99B8873A:Pack
+9EFB9EA5:Major Mana Stone
+9DE5AE71:Aetheric Resonator
+9E797C5C:High-Stakes Gambling Token
+9EFD00C1:Major Mana Stone
+9DE75CD1:Sake
+9E9BA325:Prismatic Taper
+9F51A58B:Pyreal
+9F4BF742:Pyreal
+9F4F51A0:Pyreal
+9F4D4289:Pyreal
+9F4C3D4B:Pyreal
+9F4BFDAF:Pyreal
+9F4BF617:Pyreal
+9F4F0CED:Pyreal
+9F4D7C34:Pyreal
+900D818C:Olthoi Egg
+9E831EEE:Thorsten's Crystal
+9CB2208F:Miraculous Elixir
+9E89E55E:Imbuer's Crystal
+9F4BFDB8:Pyreal
+9F4B8AED:Pyreal
+9F4D16C8:Pyreal
+9F51A73A:Pyreal
+9BA4B724:Pack
+95321978:Heavy Bracelet
+9E6DF643:Mana Scarab
+994471F1:Nether-attuned Rynthid Tentacle Wand
+80668F6E:Fragment of the New Singularity
+9F4F4B1E:Pyreal
+8066A516:Decorative Bronze Statue 
+9227A0BB:Small Shadow Statue of the Hopeslayer
+901C4496:Empyrean Portalspace Stabilizer
+8136D877:Pack Bael'Zharon
+97FEB69B:Black Spear of Mukkir Strength
+8136D965:Pack Martine
+9F00E08B:Frost Compound Bow
+955BBC66:Gladiator Diemos Statue
+9C3AC2AD:Pack
+9EDD5BF7:Alchemist's Crystal
+9EC59FD9:Adherent's Crystal
+9EA20D71:Halved Cloak
+9EBD7F7B:Aetheria
+9E2513C5:Aetheria
+9E2610B7:Electric Baton
+9E103BC0:Aetheria
+9EEC400F:Major Mana Stone
+9E63A2C5:Warrior's Jewel
+9E6448B4:T'ing's Crystal
+9F4C3D3A:Pyreal
+9E8DD43E:Aetheria
+9C691A30:Banished Mace
+9F00E9E6:Encapsulated Spirit
+94CD2133:Burun Slaying Sceptre
+9F4C1218:Pyreal
+9EFE21C3:Converter's Crystal
+9EED0A60:Aetheria
+9F49EACD:Pyreal
+9F4B10B8:Pyreal
+9F4ECADA:Pyreal
+9F4D7CEA:Pyreal
+9F4D7A8A:Pyreal
+9F53AB32:Pyreal
+9F49E582:Pyreal
+9F4D54EE:Pyreal
+9F4B1C2E:Pyreal
+9F4BF745:Pyreal
+9F4C0E39:Pyreal
+9F4B9EA9:Pyreal
+9F51A615:Pyreal
+9F4C0791:Pyreal
+9F4B934C:Pyreal
+9F4F15EC:Pyreal
+9C3AC32A:Pack
+9E4DD19F:Prismatic Taper
+9E59BE7F:Pyreal
+9F02CFC0:Major Mana Stone
+9F0C7E8C:Salvage (23)
+9F4C07E2:Pyreal
+9F4C3D5C:Pyreal
+9F4BFA94:Pyreal
+9F4C3F0F:Pyreal
+9F4B8DF5:Pyreal
+9F4F6733:Pyreal
+9F51A61A:Pyreal
+99D63801:Trade Note (250,000)
+9ED05E60:Encapsulated Spirit
+9F00CFDE:Encapsulated Spirit
+A5567C1A:Skull of High Acolyte
+A594CD5D:Faran Robe
+A593C51B:Scholar's Crystal
+A5BF3657:Strengthened Mana Forge Key
+A5BAEAD1:Pyreal Mote
+9CFE881F:Pack
+
+Missing Exports - Possessed items that were not found:

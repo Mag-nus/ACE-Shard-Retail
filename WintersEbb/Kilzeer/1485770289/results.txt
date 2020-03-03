@@ -2,8 +2,8 @@ Source:
 C:\ACEmulator\Logs Unpacked\01-31-2017\Kilzeer-01-31-2017\pcapfiles\pkt_2017-1-30_1485770279_log.pcap
 
 Alternate sources:
-C:\ACEmulator\Logs Unpacked\01-31-2017\Kilzeer-01-31-2017\pcapfiles\pkt_2017-1-29_1485749812_log.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\Kilzeer-01-31-2017\pcapfiles\pkt_2017-1-30_1485764172_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Kilzeer-01-31-2017\pcapfiles\pkt_2017-1-29_1485749812_log.pcap
 
 Partial Exports - Missing appraisal info:
 80009435:Pack

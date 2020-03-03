@@ -2,8 +2,8 @@ Source:
 C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-packet-logs\pkt_2017-1-30_1485824307_log.pcap
 
 Alternate sources:
-C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-packet-logs\pkt_2017-1-30_1485808222_log.pcap
 C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-packet-logs\pkt_2017-1-30_1485810830_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-packet-logs\pkt_2017-1-30_1485808222_log.pcap
 
 Partial Exports - Missing appraisal info:
 AE325663:Pyreal

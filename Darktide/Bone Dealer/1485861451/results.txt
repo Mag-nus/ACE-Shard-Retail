@@ -1,0 +1,65 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-31_1485860015_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-2\pkt_2017-1-29_1485691343_log.pcap
+
+Partial Exports - Missing appraisal info:
+CD147D42:Pathwarden Helm
+CD147D41:Pathwarden Gauntlets
+CD147D3E:Pathwarden Sollerets
+CD147D3D:Pathwarden Yoroi Leggings
+CD2A0A9E:Academy Coat
+8009F0F1:Book Shelf
+CD2A076F:Blackmoor's Favor
+CD147D3C:Pathwarden Yoroi Hauberk
+CCAACBB8:Ust
+D3A9AA66:Lead Scarab
+CE1EE0DD:Pack
+D3A9AA86:Iron Scarab
+D3A9ACD7:Copper Scarab
+D3A9AAB4:Silver Scarab
+D3A97AC7:Gold Scarab
+D3A9AC91:Pyreal Scarab
+D3A975B6:Platinum Scarab
+D3A98135:Mana Scarab
+CCAACBBE:Prismatic Taper
+D4821394:Stipend
+D3A9AA15:Foci of Verdancy
+D3A9AA0F:Foci of Enchantment
+D3A9B440:Foci of Artifice
+D3AA6ABB:Foci of Shadow
+D3C47FB5:Blank Augmentation Gem
+D471C69A:Upper Insatiable Eater Jaw
+D4819BF4:Blank Augmentation Gem
+D5376A63:Upper Insatiable Eater Jaw
+D2D08D3B:Teardrop Crown
+D5376CE0:Blank Augmentation Gem
+D5FDAF10:Upper Insatiable Eater Jaw
+D5FA94C3:Blank Augmentation Gem
+8009F047:Great Jack o' Lantern
+8009F04B:Darker Heart
+8009F048:Great Pumpkin
+8009F049:The Healer's Heart
+8009F04A:The Healer's Heart
+8009F0E5:Living Tome
+8009F0E7:Outcast
+8009F0E4:Map of Auberean
+8009F0E6:Black Spear of Mukkir Strength
+8009F0EB:Large Gharu'ndim Rug
+8009F0F0:Thorsten's Armor
+8009F0EC:Bending Willow and Setting Sun
+8009F0E8:Falling Leaves
+8009F0EF:Tumerok Chair
+8009F0E9:Snow Lily
+8009F0EA:Chandelier
+8009F0F2:Jack o' Lantern
+8009F0F3:Silifi of Crimson Night
+8009F127:Ultimate Singularity Staff
+8009F125:Tumerok Torch
+8009F128:Into the Unknown
+8009F126:Gladiator Diemos Statue
+8009F0EE:Hearth
+8009F0ED:Couch
+
+Missing Exports - Possessed items that were not found:

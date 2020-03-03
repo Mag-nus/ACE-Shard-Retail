@@ -1,0 +1,79 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485764473_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps-20170203071513\pkt_2017-1-25_1485363128_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps-20170203071513\pkt_2017-1-26_1485458004_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-25_1485342403_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-25_1485342821_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-28_1485588633_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-28_1485588633_log.pcap
+
+Partial Exports - Missing appraisal info:
+801ADB30:Orb
+801ADB37:Teardrop Crown
+B020E9D4:Gem of Purity
+801ADB33:Massive Mana Charge
+801ADB3B:Foci of Artifice
+801ADB3C:Foci of Enchantment
+801ADB3E:Diamond Scarab
+801ADB3F:Platinum Scarab
+801ADB40:Pyreal Scarab
+801ADB41:Gold Scarab
+801ADB42:Silver Scarab
+801ADB43:Copper Scarab
+801ADB44:Iron Scarab
+801ADB45:Lead Scarab
+801ADB46:Prismatic Taper
+801ADB47:Monouga Laboratory Portal Attunement Gem
+801ADB48:Aphus Lassel Portal Gem
+801ADB49:Shoyanen's Portal Gem
+801ADB4A:Prismatic Taper
+801ADB4B:Mana Scarab
+801ADB55:Gem of Purity
+801ADB54:Gem of Stillness
+801ADB56:Ust
+B7B60F12:Wrapped Bundle of Deadly Fire Arrowheads
+811DDBC6:Dereth Map
+801ADB4E:Blackmoor's Favor
+801ADB4F:Asheron's Benediction
+801ADB57:Small Olthoi Venom Sac
+801ADB51:Shadow Lugian Stronghold Portal Gem
+811CBE74:Sunflower
+801ADB53:Intricate Carving Tool
+801ADB58:Facility Hub Portal Gem
+B06C5B6E:Greater Mana Stone
+801ADB85:Moderate Mana Stone
+801ADB5C:A'nekshay Token
+B06C6408:Greater Mana Stone
+B01F3C96:Ornate Gear Marker
+B0181293:Trade Note (250,000)
+B06A3EE7:Greater Mana Stone
+801ADB5D:Foci of Verdancy
+801ADB73:Dansha-Ki's Gem of Portal Recall
+B06A3D4B:Moderate Mana Stone
+B09C3D9B:Gem of Purity
+B0995E31:Gem of Stillness
+B7A6890F:Fletching Gem of Enlightenment
+C7FFBF5C:Stipend
+B7A1E424:Monarch's Crystal
+811BBFC5:Pack Asheron
+811D1562:Pack Bael'Zharon
+811DDBC5:Into the Unknown
+811DDBC7:Falling Leaves
+811DDBC8:Bending Willow and Setting Sun
+811DDBC9:Gharu'ndim Hanging Rug
+800BEAC0:The Plan
+80093E10:Font of Jojii
+801ADB64:Life Giver's Crystal
+B01F9C39:Smithy's Crystal
+811B47E8:Ancient Diamond Idol
+81183A54:K'nath Lair Portal
+811D156B:Pack Ancient Olthoi Queen
+811DDBC3:Decorative Bronze Statue
+811B55B6:Abominable Pack Snowman
+811DDBCA:Tipped Pack Cow
+811A8581:Pack Scold
+811DDBC1:Pack Asheron
+
+Missing Exports - Possessed items that were not found:

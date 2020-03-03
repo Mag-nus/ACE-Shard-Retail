@@ -1,0 +1,64 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485763545_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-25_1485371656_log.pcap
+
+Partial Exports - Missing appraisal info:
+80FE524F:Foci of Verdancy
+81011328:Foci of Strife
+80FF0CDD:Ust
+80FF0CDB:Pack
+80FF0B1D:Copper Scarab
+80FF0C74:Prismatic Taper
+80FE09A6:Lead Scarab
+80FC8D89:Aphus Lassel Portal Gem
+80FF0CC7:Gem of Stillness
+80F82DD3:Silver Scarab
+80FF0D79:Gold Scarab
+80FA72EE:Moderate Mana Stone
+80FA8868:Mana Stone
+80FE1346:Diamond Scarab
+80FEEE87:Moderate Mana Stone
+80FF0CC6:Greater Mana Stone
+80FF0DC3:Major Mana Stone
+80FE5334:Major Mana Stone
+80FC8AB8:Greater Mana Stone
+8BF8F9A2:Mechanical Scarab
+90D7C664:Splitting Tool
+90DB8BC8:Iron Scarab
+90DB0C43:Platinum Scarab
+90DCC1FB:Pyreal Scarab
+B0DED88C:Gem of Purity
+80FE2530:Foci of Artifice
+80FF0DBE:Foci of Enchantment
+80FE3D3B:Elysa's Favor
+80FDE5FC:Baron's Amulet of Life Giving
+80FB389F:Pack
+80F94F5F:Tusker Spit
+80FF0CC2:Melee Defense Tattoo
+80FE5379:Facility Hub Portal Gem
+80F58BF3:Frost Staff
+B9496420:Pyreal
+80FDB194:Silken Wrap
+B0DBDA10:Trade Note (250,000)
+80FF0BEB:Translated Virindi Envoy's Note
+80FCA394:Asheron's Benediction
+80FE33FB:Blackmoor's Favor
+80FA89A5:Hieromancer's Gauntlets
+B951EBF1:Pyreal
+80FE334B:Fire Sceptre
+80FE3553:Gem
+80FE3CFB:Kilif Zefir Sites
+C7FF772D:Stipend
+942FD294:Blank Augmentation Gem
+80FCB039:Slashing Sceptre
+942FD266:Blank Augmentation Gem
+80FF0CC4:Frost Sceptre
+942FD25C:Blank Augmentation Gem
+80FF0CA5:Princely Runed Slashing Baton
+80FE194E:Foci of Shadow
+80FE526A:Staff
+80FC365D:Sceptre
+
+Missing Exports - Possessed items that were not found:

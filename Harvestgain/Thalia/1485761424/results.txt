@@ -1,0 +1,66 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485761418_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485761372_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-27_1485529072_log.pcap
+
+Partial Exports - Missing appraisal info:
+811C4540:Sack
+811C362B:Copper Scarab
+811C456A:Font of Jojii
+811C3D94:Silver Scarab
+811C358A:Prismatic Taper
+811BFF84:Shield of Strathelar
+811B7C93:Flaming Simi
+811C4553:Ust
+811C878F:Letter From Home
+811C454B:Asheron's Benediction
+81120C99:Blackmoor's Favor
+811D59B0:Drudge Charm
+811B3FA0:Peppermint Stick
+811C4506:Brown Beans
+811C4525:Pack
+811C455B:Pyreal
+811D59C1:War Hammer
+811D59C0:Trade Note (10,000)
+811A871D:Foci of Artifice
+811C0C15:Diamond Shield
+810D2974:Hammer of Lightning 
+811D59C7:Shauraloi
+811C3A75:Unicorn's Grace
+811D59D3:Unicorn's Cavern
+811D59D2:Firebird's Splendor
+811D59CF:Stone of the Firebird
+811D57A0:Journey's End
+811D59D0:Pack
+811A74EB:Aphus Sun Guard
+811C4480:Aphus Wading Pants
+81123DEA:Aphus Wading Pants
+8111E2BB:Aphus Lounging Shirt
+811D268E:Aphus Lounging Shirt
+81124C7B:Tusker Spit
+811D59F1:Some Changes for February 2012
+811C4557:Clasp of the Arm
+811C4559:Mages Loop
+811C4555:Clasp of the Heart
+811D59D4:Ring of Enhancement
+811D59FE:Ring of Enchantment
+811D5A00:Frost Katar
+811D59DE:Quest Weapon Coin
+8119461C:Flaming Nekode
+811D59E8:Cestus
+811C4530:Diamond Shield
+C7FB0445:Stipend
+B0C93500:Scroll of Lhen's Flare
+811CE604:Scroll of Spirit Pacification
+811CE602:Scroll of Spirit Pacification
+811CE603:Scroll of Festering Curse VII
+811CE601:Scroll of Nether Streak VII
+B0DB689F:Scroll of Corrosion VI
+B0DB6860:Scroll of Sizzling Fury
+B0DA5F2E:Scroll of Shock Arc VII
+B0DC7FCA:Scroll of Icy Torment
+811CE535:Banderling Slayer Backpack
+
+Missing Exports - Possessed items that were not found:

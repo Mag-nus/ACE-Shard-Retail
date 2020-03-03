@@ -1,0 +1,68 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\random-running-around\pkt_2017-1-23_1485211701_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\random-running-around\pkt_2017-1-15_1484514962_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\random-running-around\pkt_2017-1-15_1484515348_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\random-running-around\pkt_2017-1-16_1484606290_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\random-running-around\pkt_2017-1-22_1485145389_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\random-running-around\pkt_2017-1-9_1484020191_log.pcap
+
+Partial Exports - Missing appraisal info:
+AAB45581:Sack
+B2FED852:Pyreal
+B2FED851:Pyreal
+B2FED850:Pyreal
+B2FED84F:Pyreal
+B2FED84E:Pyreal
+B2FED84D:Pyreal
+B2FED84C:Pyreal
+B3DC8FE0:Pyreal
+B3F54837:Pyreal
+B3F54836:Pyreal
+B3F54835:Pyreal
+B3F54834:Pyreal
+B3F54833:Pyreal
+B3F54832:Pyreal
+B3F54831:Pyreal
+B3F54830:Pyreal
+B3F5482F:Pyreal
+B3F5482E:Pyreal
+B3F5482D:Pyreal
+AAB45586:Foci of Strife
+B3EC573A:Salvage (90)
+B39F1E27:Salvage (68)
+AB24ECE4:Pack
+B408674A:Salvage (85)
+B37B75FD:Salvage (33)
+AF819436:Platinum Scarab
+AAB45587:Foci of Verdancy
+AAB45588:Foci of Enchantment
+AFF27992:Prismatic Taper
+B012F024:Trade Note (250,000)
+AB2DA93F:Silver Scarab
+AAB4558A:Lead Scarab
+ABE78078:Pyreal Scarab
+AB5BBF2C:Copper Scarab
+AAB45582:Ust
+AB638C62:Ornate Gear Marker
+B3F5482C:Pyreal
+B3F54860:Prismatic Taper
+B384AB1C:Prismatic Taper
+B3DC4F91:Salvage (55)
+AB24ED0F:Pack
+B37BD872:Encapsulated Spirit
+DC2BAC53:Dusty Volume
+DC1B715B:Scarlet Red Letter
+DC839CCD:Tethana's Response
+AB1E5249:Foci of Artifice
+DC8BF362:Scarlet Red Letter
+DC2AC5A0:Silver Pea
+DC82EFED:Diamond Powder
+DC8C846F:Dire Champion Token
+DC8C9037:Sturdy Steel Key
+DC8AECA4:Scarlet Red Letter
+DC8AECA5:Lucky Gold Letter
+DCAE8BB4:Durable Gromnie Hide
+
+Missing Exports - Possessed items that were not found:

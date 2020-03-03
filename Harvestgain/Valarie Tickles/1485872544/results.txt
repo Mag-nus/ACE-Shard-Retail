@@ -1,0 +1,151 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2\pkt_2017-1-31_1485872498_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2\pkt_2017-1-25_1485364908_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2\pkt_2017-1-27_1485524708_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2\pkt_2017-1-30_1485770030_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2\pkt_2017-1-30_1485770030_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2\pkt_2017-1-30_1485770030_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-25_1485339067_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2\pkt_2017-1-30_1485774937_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2\pkt_2017-1-30_1485774937_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485762415_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps5\pkt_2017-1-29_1485682466_log.pcap
+
+Partial Exports - Missing appraisal info:
+81012AF1:Muldaveus Sightings
+81012AF2:Ust
+81012B14:Greater Mana Stone
+81012AF6:Virindi Servant's Amulet
+81012AF8:Ring
+81012AF9:Whittling Knife
+81012AFA:Noodle Cutter
+81012AFB:Aphus Lassel Portal Gem
+81012B3E:Banderling Bone Ring
+81012B21:Greater Mana Stone
+81012B37:Slashing Baton
+81012B20:Moderate Mana Stone
+81012B4A:Some Changes for February 2012
+805F08A9:Puzzle Box
+805F08AE:Puzzle Box
+81012AFE:Foci of Artifice
+8A9C985B:Gold Moarsman Tooth
+8AA017C5:Gold Moarsman Tooth
+89824B16:Gold Moarsman Tooth
+8983AE1C:Gold Shallows Shredder Fin
+8983BA98:Gold Shallows Shredder Fin
+8A9D0C61:Gold Shallows Shredder Fin
+8A9B92D5:Gold Shallows Shredder Fin
+8A88674F:Gold Shallows Shredder Fin
+8AA1610A:Lesser Corrupted Essence
+8C48F5D8:Gold Shallows Shredder Fin
+8C4914F4:Gold Shallows Shredder Fin
+8C4F32C3:Gold Shallows Shredder Fin
+8DF8F662:Heavy Necklace
+8DFC2059:Bracelet
+8DFA6198:Ring
+8DEBFAE0:Loose Shirt
+8DF2BAAE:Shirt
+8DE0428D:Loose Breeches
+8DDBEDF6:Flared Tunic
+8DFBDAC6:Puzzle Box
+81012B05:Scroll of Stamina to Health Self VI
+81012B06:Scroll of Drain Stamina Other VI
+81012B07:Scroll of Harm Other VI
+81012B08:Scroll of Enfeeble Other VI
+81012B09:Scroll of Lightning Streak IV
+81012B0A:Scroll of Nullify Creature Magic Other
+81012B0B:Scroll of Frost Bolt VI
+81012B0C:Scroll of Drain Stamina Other VI
+81012B0D:Scroll of Drain Health Other VI
+81012B0E:Scroll of Nullify Life Magic Other
+81012B0F:Scroll of Clouded Motives
+81012B3A:Dame Tsaya's Letter to Sir Rylanan
+81012B3F:Ring
+81012B40:Ring
+81012B41:Heavy Bracelet
+81012B4D:Top
+81012B4E:Bracelet
+81012B50:Heavy Bracelet
+81012B4F:Heavy Bracelet
+81012B13:Aerfalle's Pallium
+81012B17:Festival Shirt
+81012B1A:Elysa's Favor
+81012B18:Festival Shirt
+81012B1B:Bracelet of Knowledge
+81012B1C:Sanguinary Aegis
+81012B4C:Chevron Cloak
+81012B52:Ring
+81012B55:Circlet
+805EAC77:Heavy Bracelet
+81012B25:Blackmoor's Favor
+81012B26:Asheron's Benediction
+81012B2A:Splitting Tool
+81012B2D:Shoyanen's Portal Gem
+81012B30:Facility Hub Portal Gem
+81012B56:Acid Scimitar
+81012B68:Large Round Shield
+81013D25:Blank Augmentation Gem
+81012B67:Frost Tachi
+81012B5C:Interview with the Mosswart
+81012B5D:Sturdy Iron Key
+805F08B0:Halved Cloak
+805F08B3:Halved Cloak
+805F08B5:Heavy Bracelet
+8C4BD2B0:Loafers
+88FF4BC1:Pantaloons
+8C992F9F:Necklace
+8C7ACEE2:Heavy Bracelet
+8C43BBE9:Diadem
+8C7B0975:Doublet
+8B5B1C2E:Nether Sceptre
+8C461F25:Tunic
+8C4768AB:Chevron Cloak
+81012B3D:Major Mana Stone
+8A184F8E:Ring
+8A9CC286:Ring
+805EF8E5:Cloak
+8DF8BBBA:Chainmail Tassets
+81026239:Shortbow
+B18C4B9F:Shortbow
+89BF78D6:Glacial Golem Heart
+81012B3C:Major Mana Stone
+805EAC7E:Coronet
+89BF0B39:Olthoi Celdon Sollerets
+8D45FF7B:Mana Forge Key
+89BF7A38:Heavy Bracelet
+87497259:Crown
+89CD3C07:Gorget
+89BF767A:Piercing Sceptre
+89D188A7:Alduressa Helm
+89D0F8D7:Lyceum Hood
+89CF7CE1:Acid Sceptre
+805EAC7D:Circlet
+805EAC7F:Crown
+8A4F205A:Amulet
+8A53E42D:Sollerets
+8A4EEB6D:Gorget
+8C4AFB11:Pyreal Golem Heart
+805F08AA:Smock
+8DFE6A55:Electric Baton
+8DFB45EE:Blunt Baton
+8DF941F0:Acid Sceptre
+8DE2089F:Puzzle Box
+8DD5B1E9:Heavy Bracelet
+8D1BB85B:Cloth Cap
+8DDB81A9:Chainmail Sleeves
+8DD9F84B:Covenant Sollerets
+805EC8D8:Pristine Mana Shard
+8D665DFF:Heavy Necklace
+89B4FEB8:Shoes
+8656AB97:Olthoi Tassets
+90C864E5:Acid Moar Essence (125)
+805EF909:Blunt Crossbow
+805EF906:Slashing Bow
+805EF90B:Slashing Compound Crossbow
+805EF90E:Fire Compound Bow
+805EF897:Quartered Cloak
+805EF8A5:Heaume
+
+Missing Exports - Possessed items that were not found:

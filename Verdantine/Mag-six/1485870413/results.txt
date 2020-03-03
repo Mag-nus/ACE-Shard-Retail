@@ -1,0 +1,119 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-31_1485869279_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-25_1485379923_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-25_1485380084_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-24_1485272371_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-27_1485521670_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-25_1485387946_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-25_1485389861_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-25_1485390115_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-25_1485390697_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-25_1485368139_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-25_1485377541_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-25_1485378067_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-25_1485378259_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-25_1485379353_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-28_1485658934_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-25_1485394805_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-31_1485869279_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-25_1485375873_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-30_1485810560_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-30_1485810560_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-30_1485810560_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-25_1485398786_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-28_1485641142_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-28_1485660096_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-28_1485660096_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-29_1485706549_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-29_1485706549_log.pcap
+
+Partial Exports - Missing appraisal info:
+91B3493F:Treated Healing Kit
+91ABF385:Treated Healing Kit
+91BA1403:Treated Healing Kit
+91BB6A13:Treated Healing Kit
+91BBF74F:Treated Healing Kit
+91B75DFB:Treated Healing Kit
+91BC1FE4:Treated Healing Kit
+91C1455F:Treated Healing Kit
+91CCE0F8:Treated Healing Kit
+91C80E67:Treated Healing Kit
+91CC4870:Treated Healing Kit
+91CB7FDE:Treated Healing Kit
+91C1CF37:Treated Healing Kit
+91C493D0:Treated Healing Kit
+91C530BE:Treated Healing Kit
+91C7AFCC:Treated Healing Kit
+91C6E2F6:Treated Healing Kit
+91CF8431:Treated Healing Kit
+91E7C441:Treated Healing Kit
+91DEB907:Treated Healing Kit
+8D40C4B3:Enhanced White Empyrean Ring
+8D41507E:Ust
+8D40C497:Enhanced Blue Empyrean Ring
+8D40C414:Frost Broad Sword
+8D40C472:Promissory Note
+8D40C309:Focusing Stone
+8D40C38F:Ultimate Singularity Axe
+8D40C496:Promissory Note
+8D418F23:Aegis of the Gold Gear
+8D40C4DD:Promissory Note
+8D40C4B7:Promissory Note
+8D40C421:Heart of the Innocent
+902C0982:Major Mana Stone
+8D40C502:Blackmoor's Favor
+8D40C452:Asheron's Lesser Benediction
+8D40C46F:Aetheria Mana Stone
+8D40C4B2:Greater Mukkir Slayer Stone
+8D40C447:Blank Augmentation Gem
+8D3FB2B2:Trade Note (250,000)
+8E4313BE:Trade Note (250,000)
+8F70E973:Trade Note (250,000)
+8D418F37:Aetheria
+9064269F:Trade Note (250,000)
+91B2D0B8:Trade Note (250,000)
+8D418F13:Aetheria
+91E4C5B7:Colosseum Coin
+91E7BFC7:Colosseum Coin
+91E7D763:Silver Pea
+91E7E2BC:Lugian's Pearl
+904942FC:Major Mana Stone
+90AFB9EC:Major Mana Stone
+90C95A81:Major Mana Stone
+90CE3681:Major Mana Stone
+90E121FA:Major Mana Stone
+90E8348B:Major Mana Stone
+90E8B6FD:Major Mana Stone
+90F811AC:Major Mana Stone
+90FDDB28:Major Mana Stone
+910CA2E5:Major Mana Stone
+914DBA7C:Major Mana Stone
+9150FA2E:Major Mana Stone
+9174568D:Major Mana Stone
+91BBFF9D:Major Mana Stone
+91CCDFE2:Major Mana Stone
+91CCE613:Major Mana Stone
+91E5EB04:Major Mana Stone
+8917D290:Major Mana Stone
+91E3FA82:Major Mana Stone
+91E4A482:Major Mana Stone
+91E4CA23:Major Mana Stone
+91E7BDDE:Major Mana Stone
+8D418F0F:Gold Scarab
+8D40C439:Diamond Scarab
+8D40C4BF:Copper Scarab
+8D40C4B4:Platinum Scarab
+8D40C451:Silver Scarab
+8D40C45F:Platinum Scarab
+8D3FB357:Health Tonic
+8D3FB281:Mana Scarab
+8D3FB3B5:Mana Scarab
+8D3FB3B4:Pink Taper
+8D40C37F:Celdiseth's Portal Gem
+8D40CA9F:Health Philtre
+8D40C428:Prismatic Taper
+8121D915:Prismatic Taper
+
+Missing Exports - Possessed items that were not found:

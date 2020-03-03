@@ -1,0 +1,240 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Crog_random\pkt_2017-1-31_1485881672_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Crog_random\pkt_2017-1-28_1485662536_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Crog_random\pkt_2017-1-30_1485835306_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Crog_random\pkt_2017-1-30_1485836626_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Crog_random\pkt_2017-1-30_1485839792_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Crog_random\pkt_2017-1-30_1485839792_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Crog_random\pkt_2017-1-31_1485874147_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Crog_random\pkt_2017-1-31_1485881274_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Crog_random\pkt_2017-1-31_1485881431_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Crog_random\pkt_2017-1-31_1485881513_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Crog_random\pkt_2017-1-21_1485056947_log.pcap
+
+Partial Exports - Missing appraisal info:
+80554E11:Heart of the Innocent
+80554E12:Ring of the Whispering Blade
+80554E13:Chorizite Fletching Tool
+80554E14:Prismatic Oil
+80554E16:Aetherium-infused Gear
+80554E17:Ornate Gear Marker
+80554E18:Ancient Mhoire Coin
+80554E19:Jester's Token
+80554E1A:Major Shivering Stone
+80554E1B:Black Fire Atlan Stone
+80554E1D:Stipend
+80554E1C:Enhanced Black Fire Atlan Stone
+80554E1E:Lord Cynreft's Ancient Emblem of Mhoire
+80554E1F:Hero Token
+80554E20:Quest Weapon Coin
+80554E21:A'nekshay Token
+80554E22:Hero Token
+80554E23:Gauntlet Coin
+80554E24:Eldrytch Web Trade Token
+80554E25:Attribute Reset Certificate
+80554E26:Colosseum Coin
+80554E27:Eldrytch Web Trade Token
+92F2E4B5:Promissory Note
+92EEBA63:Gauntlet Coin
+80554E29:Iron Scarab
+80554E2A:Ust
+80554E2B:Gold Scarab
+80554E2C:Lead Scarab
+80554E2D:Pyreal Scarab
+80554E2E:Silver Scarab
+80554E2F:Diamond Scarab
+80554E30:Copper Scarab
+80554E32:Platinum Scarab
+80554E33:Splitting Tool
+80554E34:Mortar and Pestle
+80554E39:Prismatic Taper
+80554E36:Facility Hub Portal Gem
+80554E37:Viridian Rise Deru Portal Sending Gem
+C7C1B048:Pyreal
+8075519F:Chorizite
+94730A9C:Mana Scarab
+80554E3D:Enhanced Chilling Isparian Crossbow
+80554E3F:Electric Compound Crossbow
+80554E40:Frost Crossbow
+80554EF0:Electric Crossbow
+92A95256:Raider Lightning Bolt
+80554E59:A Crabbed Note
+80554E46:Blunt Crossbow
+80554E3C:Frost Compound Crossbow
+80B401D2:Fire Crossbow
+80554EF5:Fire Crossbow
+80554E44:Acid Crossbow
+92A6D8D5:Spectral Chill Bolt
+92AC690E:Greater Deadly Armor Piercing Quarrel
+85D69C31:Gladiator Diemos Token
+8BA33B80:Gauntlet Vault Key
+8B6664F3:Gauntlet Vault Key
+8B6FCE2B:Gauntlet Vault Key
+8B267BC5:Gauntlet Vault Key
+8B4867D9:Gauntlet Vault Key
+8BA5179F:Gauntlet Vault Key
+8DF885E3:Gladiator Diemos Token
+8B007F56:Gladiator Diemos Token
+80971CB8:Gladiator Diemos Token
+813E9217:Gladiator Diemos Token
+842E3BC9:Gladiator Diemos Token
+84C32519:Gladiator Diemos Token
+86A3CCA4:Gladiator Diemos Token
+87836425:Gladiator Diemos Token
+8BD35D4C:Gladiator Diemos Token
+8CA98B20:Gladiator Diemos Token
+8F63B34E:Gladiator Diemos Token
+904450B4:Gladiator Diemos Token
+91B3A3F6:Gladiator Diemos Token
+920BD043:Gauntlet Vault Key
+921B9A59:Gauntlet Vault Key
+923FA8C7:Gauntlet Vault Key
+925DC187:Gauntlet Vault Key
+80554E50:Blackmoor's Favor
+80554E51:Asheron's Lesser Benediction
+80554E55:Legendary Token
+80554E52:Paradox-touched Olthoi Weapon Token
+80554E53:Lady Tairla's Ancient Emblem of Mhoire
+80554E56:Carefully rolled scroll
+80554E54:Paradox-touched Olthoi Weapon Token
+80554E57:A Page of the Book of Eibhil
+80554E58:Diplomatic Message from Harlune
+80554E5A:Book 4: Further Manipulations of Time
+80554E5B:Book 2: The Gurogs and the beginnings of the Plan
+80554E5C:Insatiable Eater Jaw
+80554E5D:Ornate Bone Key
+80554E5E:Message from Ler Rhan to Ter Shen.
+80554E5F:Dark Tusker Paw
+80554E60:Eldrytch Web Commendation Ribbon
+80554E61:Drudge Scrying Orb
+80554E62:Large Tome
+931165E2:Infused Amber Shard
+80554E6C:Lord Cynreft Mhoire's Signet Ring
+80554E70:Shattered Aetherium Core Sample
+80554E72:Shattered Master Bloodstone Shard
+91AC34C0:Daimyo Nobanuga's Shattered Helm
+80AEC7A9:Spirited Apathy Guard
+80554EDA:Rytheran's Jeweled Ring
+80554EE5:Book
+920927B5:Daimyo Idah's Tattered Mask
+800D6740:Corrupted Essence
+93115472:Empowered Amber: Breastplate of Life
+80038754:Corrupted Essence
+80B4892C:Book
+80554ED9:Idol of the Recluse
+93D6BEA8:Lesser Corrupted Essence
+80554EAC:Idol of the Recluse
+C7B71E03:Trade Note (100,000)
+80554EA8:Isparian Wand
+80554EA3:Weeping Wand
+80554E9D:Delicate Bloodstone Wand
+80554EA7:Life-attuned Rynthid Tentacle Wand
+80554E9B:Frozen Valley Portal Gem
+80554E97:Sake
+80554E9A:Burning Coal
+80554E9C:Aligned Mana Stone
+80554E88:Blank Augmentation Gem
+80554E98:Colosseum Master's Robe
+80554E89:Blank Augmentation Gem
+80554E8A:Blank Augmentation Gem
+80554E87:Blank Augmentation Gem
+92F9F684:Gauntlet Vault Key
+9273ED34:Gauntlet Vault Key
+92A95FE6:Gauntlet Vault Key
+80554E7F:Gladiator Diemos Token
+80554E80:Gladiator Diemos Token
+80554E81:Gladiator Diemos Token
+80554E82:Gladiator Diemos Token
+80554E83:Gladiator Diemos Token
+80554E84:Gladiator Diemos Token
+80554E85:Gladiator Diemos Token
+80554E86:Gladiator Diemos Token
+80554E8B:Gladiator Diemos Token
+80554E8C:Gladiator Diemos Token
+80554E8D:Gladiator Diemos Token
+80554E8E:Gladiator Diemos Token
+80554E8F:Gladiator Diemos Token
+80554E90:Gladiator Diemos Token
+80554E91:Gladiator Diemos Token
+80554E92:Gladiator Diemos Token
+80554E93:Gladiator Diemos Token
+80554ED6:Gladiator Diemos Token
+80554EF9:Gladiator Diemos Token
+833AA7A3:Gladiator Diemos Token
+887090CA:Gladiator Diemos Token
+8D3E1D06:Gladiator Diemos Token
+894E6339:Gladiator Diemos Token
+8EC079AC:Gladiator Diemos Token
+80554E95:Rynthid Energy Field
+80554E96:Brown Society Locket
+80554EA0:Eldrytch Web Armor Writ
+80554EA1:Whispering Blade Chapterhouse Recall Orb
+80554EA4:Plentiful Healing Kit
+80554EA5:Encapsulated Spirit
+80554EA6:Teleportation Device
+80554ED7:Upper Insatiable Eater Jaw
+80554EAB:Sealed Scroll for Commander Presk
+80554EEA:Eldrytch Web Trade Token
+80554EAD:Red Society Band
+80554EB1:Soul Bound Staff
+90EE4315:Gladiator Diemos Token
+80554EB2:Eldrytch Web Stronghold Portal Gem
+80554EB5:Aetheria Mana Stone
+91BC2C15:Eldrytch Web Trade Token
+80554EB9:Spectral Crystal of the Life Giver
+80554EC4:Trimmed Cloak
+80554ED8:Clasp of the Heart
+9254B526:Gladiator Diemos Token
+80554EDB:Upper Insatiable Eater Jaw
+80554EDC:Health Philtre
+80554EE0:Aetheria
+80554EE1:Aetheria
+80554EE2:Aetheria
+80554EE7:Plentiful Healing Kit
+80554EF6:Intricate Carving Tool
+80554EBC:Tusker Paw Wand
+80554E4E:Ring
+80B4840F:Mukkir Wings
+8003FD66:Bordered Cloak
+8B2A66D0:Spectral Missile Weapon Mastery Crystal
+80554EBB:Life-attuned Shadowfire Isparian Wand
+80554EC3:Burun Slaying Sceptre
+80554E79:Enhanced Yellow Empyrean Ring
+93C7F037:Snow Tusker Blood Sample
+93AD4845:Treated Healing Kit
+93D10604:Treated Healing Kit
+93D51ADD:Treated Healing Kit
+9AC58079:Sealed Tome
+9C1E4193:Coral Fragment
+9D1B42B2:Peerless Lockpick
+9D1FC44D:Peerless Lockpick
+9D1DA979:Peerless Lockpick
+9D0BE5EA:Peerless Lockpick
+9CFD6591:Peerless Lockpick
+9DC9BA6F:Small Olthoi Venom Sac
+9DEF8B97:Carapace Shard
+80554EE6:Torch
+92AC6AE3:Greater Deadly Blunt Quarrel
+80554EB6:Paradox-touched Olthoi Wand
+B0CA5DD8:Eldrytch Web Trade Token
+80554EB7:Scepter of the Portal Currents
+808973E1:Golden Gromnie
+B8BD767F:Alchemist's Crystal
+BCEC4423:Eldrytch Web Armor Writ
+A5BE96B0:Pack Gaerlan
+8057AC7D:Wandering Ghost
+8057AC7B:Pack Lugian
+8000EE3D:Sword Stamped Spectral Ingot
+80554EE8:Focusing Stone
+80554E4A:Greater Deadly Frog Crotch Quarrel
+80554E3E:Stormwood Crossbow
+80554E42:Enhanced Assault Crossbow
+80554E45:Acid Compound Crossbow
+80554E43:Paradox-touched Olthoi Crossbow
+81CEB373:Pathwarden Trinket
+83926A6D:Flag
+C8562BCF:Rogue's Crystal
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,48 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Miach-Skills-Training-Leveling-Commands-pcap-Mag\Miach-New-Character-Stuff-Misc-pcap\pkt_2017-1-29_1485727198_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Miach-Skills-Training-Leveling-Commands-pcap-Mag\Miach-Training-Academy-Yaraq-pcap\pkt_2017-1-29_1485720960_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Miach-Training-Academy-Yaraq-pcap\pkt_2017-1-29_1485720960_log.pcap
+
+Partial Exports - Missing appraisal info:
+AB9C442F:Loose Tunic
+AB9C4430:Loose Pants
+AB9C4432:Pyreal
+AB9C4433:Sack
+AB9C4434:Ust
+AB9C4435:Calling Stone
+AB9C4438:Arrow
+AB9C4439:Training Wand
+AB9C443A:Foci of Artifice
+AB9C443B:Prismatic Taper
+AB9C443C:Lead Scarab
+AB9C4445:Apple
+AB9C443D:Handy Healing Kit
+AB9C443E:Bundle of Arrowshafts
+AB9C443F:Bundle of Arrowheads
+AB9C4441:Bundle of Arrowheads
+AB9C4443:Bundle of Arrowheads
+AB9C4444:Letter From Home
+ABDF1575:Blackmoor's Favor
+ABDF16AF:Bruised Apple
+ABDF165D:Restoring the Training Academies
+AB0E1A00:Potion of Healing
+AB0E19C4:Stamina Potion
+AB0E17EA:Mana Potion
+ABDBD453:Academy Library Key
+ABDF2C26:Guide to Chat
+ABDD75D4:Pack
+ABD98B63:Arrow
+ABDF3782:Facility Hub Portal Gem
+ABDF4D98:Pyreal
+ABCD0EDB:Pathwarden Scale Hauberk
+ABCD0E70:Pathwarden Scale Leggings
+ABCD0E40:Pathwarden Sollerets
+ABCD0904:Pathwarden Gauntlets
+ABCCFAE4:Great Mana Charge
+ABCCFB51:Pathwarden Helm
+ABCCFB0F:Pathwarden Trinket
+ABDF2AA9:Academy Shortbow
+
+Missing Exports - Possessed items that were not found:

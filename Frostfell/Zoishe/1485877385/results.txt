@@ -1,0 +1,268 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\gdrive (tfarley)\Zoishe\randomrunning1\pkt_2017-1-31_1485877342_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\gdrive (tfarley)\Zoishe\85.5N 43.4E on Aerlinthe\pkt_2017-1-30_1485788340_log.pcap
+C:\ACEmulator\Logs Unpacked\gdrive (tfarley)\Zoishe\exploration26\pkt_2017-1-30_1485813635_log.pcap
+C:\ACEmulator\Logs Unpacked\gdrive (tfarley)\Zoishe\Preparation for the Ritus\pkt_2017-1-30_1485786303_log.pcap
+C:\ACEmulator\Logs Unpacked\gdrive (tfarley)\Zoishe\sparking stone\pkt_2017-1-30_1485756135_log.pcap
+
+Partial Exports - Missing appraisal info:
+800DDDC2:Pack
+AA05DF84:Fire Wisp Essence (80)
+941609A2:Iolite Gem
+8007524B:Intricate Carving Tool
+8007527E:Impious Staff
+DB6D9C4B:Empowered Breastplate of the Perfect Light
+DBB7DC89:Titan Mana Charge
+9A30C3E0:Empowered Pauldrons of the Perfect Light
+DBB7DC8B:Titan Mana Charge
+DBB7DC8C:Titan Mana Charge
+DBB7DD3D:Titan Mana Charge
+DBB7DC4A:Titan Mana Charge
+80691555:Pack Aerbax
+8005C6E2:Rare Red Pack Idol
+800DDD5D:The Healer's Heart
+80680659:Ursuin Cub Kennel
+DCFC6B2D:Massive Mana Charge
+DCFC8CA2:Massive Mana Charge
+BEF55A7E:Trade Note (250,000)
+D3D79461:Trade Note (250,000)
+DCFDBA3F:Exquisite Casino Key
+C3AE73EB:Trade Note (250,000)
+DCF53FC2:Exquisite Casino Key
+DCFC6AEF:Exquisite Casino Key
+8007F728:Pack
+800DD46C:Diamond Scarab
+800DC279:Gold Pea
+800DDDA3:Iron Scarab
+80075257:Gold Scarab
+80075256:Silver Scarab
+800DD09D:Silver Pea
+940C54CB:Lead Pea
+93E75587:Copper Scarab
+8007525E:Splitting Tool
+800DD281:Pyreal Pea
+990E7736:Prismatic Taper
+9C7DDAD1:Platinum Scarab
+9705AFEF:Copper Pea
+9C6C6B46:Pyreal Scarab
+800DDD7D:Imbue Swap Coin
+A403A98C:Trade Note (250,000)
+DBB7D2F6:Pet Penguin Igloo
+96710BB6:Trade Note (250,000)
+CEC54DC4:Trade Note (250,000)
+DCEE13B2:Pyreal
+DCEE13B3:Pyreal
+DCFC6B56:Exquisite Casino Key
+800DD2EC:Pack
+800DD2ED:Ust
+800DD2EB:Aligned Mana Stone
+800DD30B:Deed
+800DD309:Blackmoor's Favor
+800DDD58:Aetheria Mana Stone
+800DDDC0:Ancient Mhoire Coin
+A1FFC8E5:Dire Champion Token
+8BC294EB:A'nekshay Token
+97438C2B:Frozen Fortress Laboratory Attunement Shard (Level 180+)
+9C90CC7D:Adventurer's Token
+800DDDD3:Colosseum Coin
+8007527A:Heart of the Innocent
+800DDA53:Black Coral
+DB7D117A:Gem of Inner Will
+DB651E39:Pale Crystal
+DBB7DC77:Titan Mana Charge
+DBB7DC72:Titan Mana Charge
+DBB7DC83:Titan Mana Charge
+DBB7DAA4:Titan Mana Charge
+DBB7DAEA:Titan Mana Charge
+DCFC6B4F:Massive Mana Charge
+DCFDB967:Massive Mana Charge
+DCFC8C9D:Exquisite Casino Key
+DCFC87E2:Exquisite Casino Key
+97168522:Pack
+9A9A66C2:Fire Elemental Essence (80)
+DBB7DBC3:Titan Mana Charge
+8068A9EF:Baby Thrungus Crate
+8068A9EE:Armoredillo Egg
+8068A9AF:Sprouting Pumpkin Vine
+DBB7DC4D:Titan Mana Charge
+DBB7DC4C:Titan Mana Charge
+DBB7DC45:Titan Mana Charge
+DBB7DC51:Titan Mana Charge
+DBB7DC29:Titan Mana Charge
+DBB7C9B1:Titan Mana Charge
+DBB7DBBD:Titan Mana Charge
+DBB6289B:Titan Mana Charge
+DBB7DC53:Titan Mana Charge
+DBB7DC3F:Titan Mana Charge
+DBB7DB7F:Titan Mana Charge
+DBB7DB66:Titan Mana Charge
+DBB7DB3F:Titan Mana Charge
+800DD4A8:Weeping Wand
+DCB95BA6:Blank Augmentation Gem
+CCB256C5:Trade Note (250,000)
+C3AE715D:Trade Note (250,000)
+9746AF6D:Pack
+9C5FB501:Trade Note (250,000)
+C3AE7246:Trade Note (250,000)
+DB7B6CEF:Enduring Calm
+9C7D0FED:Halved Cloak
+806915B2:Puzzle Box
+DBB7DC8F:Titan Mana Charge
+800DD48E:Acid Baton
+DBB7DC7E:Titan Mana Charge
+DBB7DC69:Titan Mana Charge
+DBB7DC79:Titan Mana Charge
+DBB7DD24:Titan Mana Charge
+DBB7DC40:Titan Mana Charge
+DBB7DC48:Titan Mana Charge
+DBB7DC6A:Titan Mana Charge
+DBB7DBEC:Titan Mana Charge
+DC3B4E33:Peppermint Monougat Chew
+DBB7DD41:Titan Mana Charge
+DBB7DBBC:Titan Mana Charge
+DCFDB968:Massive Mana Charge
+CAD98CC3:Trade Note (250,000)
+AE7455E9:Trade Note (250,000)
+879179E0:Trade Note (250,000)
+C5B400DE:Trade Note (250,000)
+97328161:Pack
+CCB25788:Trade Note (250,000)
+8BC29A51:Heavy Necklace
+A403A9E8:Aged Legendary Key
+968614E9:Ring
+A400E307:Aged Legendary Key
+A634BF61:Aged Legendary Key
+A400E308:Aged Legendary Key
+A3FD2585:Aged Legendary Key
+A403A98D:Aged Legendary Key
+9F5C8C16:Aged Legendary Key
+A400DAF6:Aged Legendary Key
+A403A992:Aged Legendary Key
+A403A1CE:Aged Legendary Key
+A403A9E6:Aged Legendary Key
+91268B21:Burning Sands Keyring
+912A1B68:Burning Sands Keyring
+8FFE1DDC:Burning Sands Keyring
+912BC10A:Burning Sands Keyring
+9F5C8EF6:Aged Legendary Key
+A403A991:Aged Legendary Key
+A400E30A:Aged Legendary Key
+A403D6FE:Aged Legendary Key
+A400E50E:Aged Legendary Key
+A400E309:Aged Legendary Key
+97AFFC7F:Ring
+DB6B0AE2:A Page of the Book of Eibhil
+B7128DD4:White Bunny Slippers
+B7128DCA:Olthoi Breastplate
+B7128DD3:Olthoi Girth
+DBB7DACE:Titan Mana Charge
+B7128DCD:Bracelet
+BC913494:Aetheria
+DBD4E9A3:Pack
+BC913493:Aetheria
+D8D3DB91:Quartered Cloak
+DB5C065D:Mana Scarab
+9A296D46:Empowered Helm of the Perfect Light
+BC913495:Aetheria
+800DB020:Yellow Monster Seed
+D00AC9A2:Viamontian Pants
+C294C25A:Baggy Shirt
+970DECAA:Fire Sceptre
+DB99BE62:Exarch Plate Leggings
+DC582F08:Fine Metal Scraps
+DB99BE1F:Exarch Plate Coat
+DB99BE8A:Exarch Plate Girth
+DCB415C7:Spirit of Izexi Gem
+DCE960B2:Leatherworking Chest Key
+DCEB1169:Blacksmithing Chest Key
+800DD252:Book
+800DDDBF:Lightweight Tome
+DCEBE117:Hyssop
+800DDD18:Yellow Virindi Wand
+DCC49501:Fiery Shield
+80F7300D:Hero Token
+800DD4B3:White Virindi Wand
+DB4B3527:Intricate Mukkir Orb
+80074717:Faran Robe with Hood
+D9FEB4CA:Celdiseth's Portal Gem
+CF469980:Lytelthorpe Portal Gem
+DB76064B:Town Network Portal Gem
+DCA2F9E5:Tome of Chill
+DB48A6DD:Orb of the Bunny Booty
+DCFF8966:Note from a Scout
+800DDE58:Attenuated Awakener
+800DDD5E:Blue Orb
+800DDD09:Dark Sorcerer's Phylactery
+DD217207:Lady Aerfalle's Charm
+DD1B248D:Aerfalle's Embossed Token
+DD1B2490:Mana-infused Acid War Staff of Aerfalle
+DD1B248F:Aerfalle's Mana-infused Pallium
+8005C6EB:Globe of Auberean
+A400E30B:Aged Legendary Key
+A634BF5F:Aged Legendary Key
+A402E6D4:Durable Legendary Key
+B7128DD0:Olthoi Helm
+B7128DD5:Olthoi Bracers
+DB919A35:Glowing Box
+B7128DD1:Olthoi Pauldrons
+B7128DD7:Olthoi Gauntlets
+DBB7DAE7:Titan Mana Charge
+B7128DD2:Olthoi Tassets
+B7128DD6:Olthoi Greaves
+DC59A1DE:Fine Leather Scraps
+916C3237:Chevron Cloak
+DB772C36:Elysa's Phantasmal Arrow
+BF0B65B2:Writ of Refuge
+8005C730:Flaming Skull
+91DA0543:Imbue Swap Coin
+A403AA5B:Spirit of Izexi Gem
+DB769989:A Certificate of Permission
+CCB25780:Trade Note (250,000)
+A3D4C118:Trade Note (250,000)
+CAD98CC5:Trade Note (250,000)
+C3AE71A0:Trade Note (250,000)
+DCFD08B7:Exquisite Casino Key
+CB2285B3:Trade Note (250,000)
+C3AE749B:Trade Note (250,000)
+DCB9A4D4:Superior Helmet
+9179A956:Puzzle Box
+9C7A5994:Heavy Bracelet
+DCEAFBA1:Man-At-Arms Thrasher Plaque
+8005C731:Wi Flag
+DCEAE390:A Note From Ciandra
+DCEE13C9:Peerless Lockpick
+DCEE13D6:Peerless Lockpick
+DCF0946F:Red Fire Infusion
+DCF737F2:Prismatic Taper
+DCF5830F:Chocolate Gromnie
+DCF58310:Licorice Rat
+DCF97345:Enhanced Health Elixir
+DCFAE2A3:Burning Coal
+DCFDB8FF:Candy Corn
+DCFDB900:Chocolate Gromnie
+DCF5A5D6:The Orphanage
+DCFAEB92:Enhanced Mana Elixir
+DD003A76:Textbook
+82399738:Colosseum Ticket
+DCFCEA51:Promissory Note
+DCFD0A6B:Lugian Commander's Insignia
+DCFCADF6:Greater Mana Kit
+800DD4FC:Essence Flare
+DB42BD44:Sword of Lost Light
+DD002C19:Major Stinging Stone
+DD036711:Textbook
+DD035D74:Major Sparking Stone
+DB760410:Town Network Portal Gem
+DB698DC9:Shoyanen's Portal Gem
+DD1B2485:Enhanced Black Fire Atlan Stone
+DD1B2491:Unreadable Scroll
+DD1B248E:Reforged Ashbane
+CC684A7D:Salvage (100)
+DD32DD56:Colban Plant
+DD382283:Corrupted Essence
+8000B289:Focusing Stone
+800DD4E8:Casting Stein
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,145 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps3\pkt_2017-1-31_1485869518_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps1\pkt_2017-1-28_1485658916_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps1\pkt_2017-1-29_1485719326_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps1\pkt_2017-1-29_1485719326_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps1\pkt_2017-1-29_1485719326_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps2\pkt_2017-1-30_1485756587_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps2\pkt_2017-1-30_1485806224_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps2\pkt_2017-1-30_1485806224_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps2\pkt_2017-1-30_1485806224_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps2\pkt_2017-1-30_1485806224_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps2\pkt_2017-1-30_1485806224_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps2\pkt_2017-1-30_1485806224_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps2\pkt_2017-1-30_1485806224_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps2\pkt_2017-1-30_1485806224_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps2\pkt_2017-1-30_1485806224_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps2\pkt_2017-1-30_1485806224_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps3\pkt_2017-1-31_1485843405_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps3\pkt_2017-1-31_1485843405_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps3\pkt_2017-1-31_1485843405_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps3\pkt_2017-1-31_1485843405_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps3\pkt_2017-1-31_1485843405_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps3\pkt_2017-1-31_1485843405_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps3\pkt_2017-1-31_1485843405_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps3\pkt_2017-1-31_1485843405_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps3\pkt_2017-1-31_1485869518_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps3\pkt_2017-1-31_1485869518_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps1\pkt_2017-1-25_1485391608_log.pcap
+
+Partial Exports - Missing appraisal info:
+80020BB8:Pack
+80020B93:Nanto Town Stamp
+80020CE3:Pyreal
+80020BA0:Yanshi Town Stamp
+80020BAE:Samsur Town Stamp
+80020B79:Al Arqas Town Stamp
+80020BCC:Lytelthorpe Town Stamp
+80020BB7:Rithwic Town Stamp
+80020B92:Heavy Necklace
+80020BF4:Orb
+80020B9F:Orb
+80020BCB:Bracelet
+80020C02:Orb
+80020BB6:Mosswart Thanking Stone
+80020B9E:The Healer's Heart
+80020BB5:Karenua's Key
+80020B9D:Incomparable Lense
+80020C0F:Pack
+80020C00:Lead Scarab
+80020BC9:Iron Scarab
+80020BB4:Copper Scarab
+80020BF1:Silver Scarab
+80020BAA:Gold Scarab
+80020C0E:Pyreal Scarab
+80020BFF:Deadly Hollow Sword
+80020BC8:Phantom Sword
+80020BB3:Prismatic Taper
+80020BF0:Book
+80020C0D:Diamond Scarab
+80020BFE:Empyrean Sun Stone
+80020BEF:High Mana Charge
+80020C21:High Mana Charge
+800136FE:Platinum Scarab
+80020C0B:Pack
+80020BFC:Bracelet
+80020C20:Sceptre
+80020BED:Ornamental Bowl
+80020C2F:Ornamental Bowl
+80020C2A:Ust
+80020C0A:Heavy Bracelet
+80020BFB:Cestus
+80020C35:Foci of Artifice
+80020C1F:Heavy Bracelet
+80020C2E:Heavy Necklace
+80020C46:Pack
+80020C39:Piercing Baton
+80020C1E:Heavy Bracelet
+AC011890:Titan Mana Charge
+80020C08:Piercing Sceptre
+80020C1D:Ornamental Bowl
+AC011880:Titan Mana Charge
+80020C61:Gem of Greater Acid Protection
+80020C45:Gem of Greater Lightning Protection
+80020C28:Gem of Greater Fire Protection
+80020C69:Plentiful Healing Kit
+AC01188F:Titan Mana Charge
+80020C33:Plentiful Healing Kit
+80020C60:Trade Note (50,000)
+80020C68:Blackmoor's Favor
+80020C32:Asheron's Benediction
+80020C5F:Health Tincture
+80020C7B:Banderling Slayer Backpack
+80020C43:Gem of Purity
+80020BAD:Electric Sceptre
+AC011915:Titan Mana Charge
+AC011889:Titan Mana Charge
+AC011927:Titan Mana Charge
+AC0118C1:Titan Mana Charge
+AC01183E:Titan Mana Charge
+AC011817:Titan Mana Charge
+80020C94:Bracelet of Knowledge
+80020C9B:Sublime Necklace of Acid and Piercing Protection
+80020C93:Gem of Stillness
+840FF2A7:Pyreal
+80020C75:Sublime Ring of Piercing Protection
+80020CD2:Lesser Mana Kit
+80020C91:Facility Hub Portal Gem
+80020C88:Health Tonic
+80020CD4:Casting Stein
+80020C87:Seasoned Explorer Helm
+80020CE6:Frost Ken
+80020CC7:Greater Stamina Kit
+80020D24:Renegade Herbal Kit
+80020CE2:Ornate Gear Marker
+80020D23:Foci of Enchantment
+80020CE1:Shoyanen's Portal Gem
+80020CE0:Major Shivering Stone
+80020D22:Major Sparking Stone
+80020D08:Major Stinging Stone
+80020CDF:Major Smoldering Stone
+80020D4E:Black Fire Atlan Stone
+80020D07:Stone Tool
+80020D74:Elaborate Field Health Rations
+80020D60:Elaborate Field Mana Rations
+80020D67:Elysa's Wondrous Orb
+803362E8:Town Network Portal Gem
+AC011A7F:Pyreal
+80020D1D:Raudaloi
+80020C78:Ursuin Rug
+80020D73:Tachi
+948929FB:Stipend
+ABE291FC:Treated Healing Kit
+ABF2D004:Blue Society Band
+85FFF704:Prismatic Taper
+ABFEF49A:Mana Scarab
+AC011A49:Pyreal
+AC011A95:Pyreal
+955B6544:Burning Coal
+AC00219C:Blackfire Shivering Atlan Sword
+AC01DAE8:Minalim Plant
+AC044657:Pack Harbinger
+
+Missing Exports - Possessed items that were not found:

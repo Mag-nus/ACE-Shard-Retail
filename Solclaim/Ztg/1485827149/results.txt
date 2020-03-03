@@ -1,0 +1,114 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485827143_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485825628_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-24_1485302724_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-28_1485663605_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-29_1485680452_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485816444_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485824837_log.pcap
+
+Partial Exports - Missing appraisal info:
+8F25F3A6:Colosseum Backpack
+988FE6D6:Pyreal
+9010CBF3:Colosseum Backpack
+8DAA1A41:Ust
+95C32D7A:Burning Coal
+9A711898:Wrapped Bundle of Burning Sands Arrowheads
+99B905B1:Duke Raoul's Distillation
+99B9061B:Bobo's Stout
+99B55A06:Hunter's Stock Amber
+9ADB2BD5:Amber Ape
+9ADE9A65:Tusker Spit Ale
+93AF0ADD:Armor Layering Tool (Top)
+8FC7ECDC:Facility Hub Portal Gem
+9B122101:Marshmallow Ghost
+9B12F05E:Prismatic Taper
+9013396E:Colosseum Backpack
+8F5BB910:Frost Wisp Essence (180)
+97D89AFA:Renegade Herbal Kit
+97D7F617:Renegade Herbal Kit
+97D026D5:Renegade Herbal Kit
+97DBAFA1:Renegade Herbal Kit
+97DA2B37:Renegade Herbal Kit
+97D5B6EA:Renegade Herbal Kit
+97DE1161:Renegade Herbal Kit
+96693448:Corrosion Wisp Essence
+90149D03:Lesser Corrupted Essence
+99D65D60:Wrapped Bundle of Arrowshafts
+99D65937:Wrapped Bundle of Deadly Prismatic Arrowheads
+8029C507:Fire Child Essence (180)
+9A7050ED:K'nath B'orret Essence
+996F493F:Essence of Cave Penguin
+80A62E64:Encapsulated Spirit
+926CB1F1:Lightning K'nath Essence (180)
+9787BC98:Voltaic Wisp Essence
+90138E81:Colosseum Backpack
+97DE115D:Renegade Herbal Kit
+97DE1162:Renegade Herbal Kit
+97DE1165:Renegade Herbal Kit
+97DE1160:Renegade Herbal Kit
+97DE115F:Renegade Herbal Kit
+97DE1164:Renegade Herbal Kit
+9A01BDB0:Renegade Herbal Kit
+9A056E99:Renegade Herbal Kit
+9AEFEFE5:Gem of Lesser Luminance
+9AE2E5F5:Celdiseth's Portal Gem
+80EEF9C4:Armor Layering Tool (Bottom)
+9A8ADE46:Spirit of Izexi Gem
+9932D25B:Rage of Grael Gem
+96870C8B:Chorizite
+92EC73AB:Colosseum Backpack
+96887286:Chorizite
+9A4A06D6:Prismatic Taper
+989E4D52:Diamond Scarab
+988B19C7:Diamond Scarab
+96873BFD:Chorizite
+989E4856:Diamond Scarab
+8DAA1AD0:Platinum Scarab
+90957436:Platinum Scarab
+987D6D49:Chorizite
+99179E25:Iron Scarab
+988C9D44:Diamond Scarab
+9687676F:Chorizite
+96889086:Chorizite
+8DA7CEC0:Copper Scarab
+8DAC09C0:Gold Scarab
+8DAA1B05:Lead Scarab
+8DAA1AA6:Platinum Scarab
+8FC639C5:Diamond Scarab
+8DA7CF36:Pyreal Scarab
+979176A3:Mana Scarab
+8DABB07B:Hawthorn
+9395DF41:Silver Scarab
+8DA9E330:Platinum Scarab
+9A0B986D:Mana Scarab
+9A056E9F:Renegade Herbal Kit
+9301963C:Colosseum Backpack
+9931BB62:Wrapped Bundle of Burning Sands Arrowheads
+9A711284:Wrapped Bundle of Burning Sands Arrowheads
+975B3546:Wrapped Bundle of Deadly Prismatic Arrowheads
+9A042292:Renegade Herbal Kit
+9A056E9C:Renegade Herbal Kit
+9AFCBE5B:Massive Mana Charge
+9AFCBDAE:Massive Mana Charge
+9AFCBED8:Massive Mana Charge
+9AFCBDE6:Massive Mana Charge
+9AFCBD9D:Massive Mana Charge
+9AFCBE34:Massive Mana Charge
+9AFCBE2B:Massive Mana Charge
+9AFCBE9A:Massive Mana Charge
+9AFCBEB1:Massive Mana Charge
+9AFCBD84:Massive Mana Charge
+9AFCBDBB:Massive Mana Charge
+9AFCBEC9:Massive Mana Charge
+93597C53:Colosseum Backpack
+9A915A67:Promissory Note
+9AF2FA45:Trade Note (250,000)
+95EC526C:Trade Note (250,000)
+93E9F0C4:Wrapped Bundle of Deadly Prismatic Arrowheads
+9014560E:Lesser Corrupted Essence
+99A9EA0E:Colosseum Backpack
+
+Missing Exports - Possessed items that were not found:

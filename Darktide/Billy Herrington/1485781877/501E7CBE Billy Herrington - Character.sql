@@ -1,0 +1,40 @@
+INSERT INTO `character` (`id`, `account_Id`, `name`, `is_Plussed`, `is_Deleted`, `delete_Time`, `last_Login_Timestamp`, `total_Logins`, `character_Options_1`, `character_Options_2`, `gameplay_Options`, `spellbook_Filters`, `hair_Texture`, `default_Hair_Texture`)
+VALUES (1344175294, 0, 'Billy Herrington', False, False, 0, 0, 0, 1892984130, 43288320, NULL, 13427, 0, 0);
+
+INSERT INTO `character_properties_shortcut_bar` (`character_Id`, `shortcut_Bar_Index`, `shortcut_Object_Id`)
+VALUES (1344175294, 0, 3628257642)
+     , (1344175294, 1, 1344175294)
+     , (1344175294, 2, 3627805431)
+     , (1344175294, 3, 3628578439)
+     , (1344175294, 4, 3629724290)
+     , (1344175294, 5, 3629545280)
+     , (1344175294, 6, 3628581301)
+     , (1344175294, 7, 3628239181)
+     , (1344175294, 8, 3629551799);
+
+INSERT INTO `character_properties_spell_bar` (`character_Id`, `spell_Bar_Number`, `spell_Bar_Index`, `spell_Id`)
+VALUES (1344175294, 0, 0, 1613)
+     , (1344175294, 0, 1, 1589)
+     , (1344175294, 0, 2, 1624)
+     , (1344175294, 0, 3, 1602)
+     , (1344175294, 0, 4, 1612)
+     , (1344175294, 0, 5, 1588)
+     , (1344175294, 0, 6, 1623)
+     , (1344175294, 0, 7, 1601)
+     , (1344175294, 0, 8, 6000)
+     , (1344175294, 0, 9, 5991)
+     , (1344175294, 0, 10, 6008)
+     , (1344175294, 0, 11, 6025)
+     , (1344175294, 0, 12, 1482)
+     , (1344175294, 0, 13, 1494)
+     , (1344175294, 0, 14, 1558)
+     , (1344175294, 0, 15, 1512)
+     , (1344175294, 0, 16, 1548)
+     , (1344175294, 0, 17, 1524)
+     , (1344175294, 0, 18, 1536)
+     , (1344175294, 0, 19, 1570);
+
+INSERT INTO `character_properties_title_book` (`character_Id`, `title_Id`)
+VALUES (1344175294, 1)
+     , (1344175294, 30)
+     , (1344175294, 58);

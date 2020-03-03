@@ -1,0 +1,206 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Arwic-Portal-Storms-Subway-and-misc-logins\pkt_2017-1-31_1485879489_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Grievous-Vault-unless-I-did-something-wrong\pkt_2017-1-30_1485824201_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Grievous-Vault-unless-I-did-something-wrong\pkt_2017-1-30_1485824201_log.pcap
+
+Partial Exports - Missing appraisal info:
+9E63D90A:Alloy Turbine
+9E63D8FC:Pack
+9E63D8FD:Linaural Urilaentai
+9E63D900:Prismatic Taper
+9E63D901:Copper Scarab
+9E63D902:Silver Scarab
+9E63D903:Gold Scarab
+9E63D904:Pyreal Scarab
+9E63D905:Platinum Scarab
+9E63D906:Diamond Scarab
+AD6F0F11:Stone Tool
+AD7F6659:Major Sparking Stone
+AD73A8CA:Major Smoldering Stone
+AD8363B9:Major Shivering Stone
+AD836BF0:Major Stinging Stone
+AD8AF294:Orb
+AD83614B:Wand
+9E63D924:Major Prismatic Stone
+AD9CF6BE:The Healer's Heart
+9E63D8FF:Focusing Stone
+9E63D8FE:Orb of the Bunny Booty
+9E63D908:Pack
+9E63D914:Writ of Apology
+9E63D915:Blackmoor's Favor
+9E63D916:Baby Drudge Crate
+AD6BB9E8:Facility Hub Portal Gem
+9E63D959:Bronze Gearknight Gear
+AD7D9488:Excellent Lockpick
+AD8A01F3:Battered Old Mace
+AD8AD6C9:Battered Old Axe
+AD9E4BC1:Sword of Frozen Fury
+9E63D907:Runic Helm of Knorr
+AD8CAA9F:Mask of the Depths
+AD704ED3:Quartered Cloak
+9E63E2E2:Overlord's Sword
+AEB9B9E6:Atlan Sword
+ADFC4ABD:Buckler
+AD896507:Tachi of Grace
+9E63E61B:Covenant Shield
+AEC573C7:Superb Lockpick
+AEC65100:Superb Lockpick
+ADA20958:Shield of Yanshi
+9E63D917:Pack
+9E63D918:Ust
+9E63D919:Salvaged  (54)
+9E63D91A:Salvaged  (6)
+AD7E62D0:Blighted Mana Crystal
+9E63D91C:Salvaged  (5)
+9E63D91D:Salvaged  (13)
+9E63D933:Thorsten's Armor
+AD833CAE:Salvage (60)
+AD9CECB5:Shoyanen's Portal Gem
+9E63D930:Massive Mana Charge
+9E63D936:Massive Mana Charge
+AD9D4F82:Massive Mana Charge
+AD9D4F80:Massive Mana Charge
+9E63D92B:Massive Mana Charge
+9E63D934:Massive Mana Charge
+9E63D92F:Massive Mana Charge
+AD9D4F84:Massive Mana Charge
+9E63D92D:Massive Mana Charge
+9E63D935:Massive Mana Charge
+9E63D932:Massive Mana Charge
+AD9D4F83:Massive Mana Charge
+AEBB17F1:Letter of Request 
+AD9D4F81:Massive Mana Charge
+9E63D91F:Foci of Artifice
+9E63D920:Foci of Enchantment
+9E63D921:Pack
+9E63D922:Crown
+9E63D923:Snowman Snowglobe
+9E63D928:Akiekie Ember
+9E63D929:Glittering Crystalline Key
+AD800AA9:Deed
+9E63D927:Incalescent Bracelet
+AD73AB46:Gorget
+AD7F17A5:Ring
+AD7E06DC:Sublime Necklace of Acid and Piercing Protection
+AD7B6BA1:Trimmed Cloak
+ADAAE658:Stipend
+AD9FD14D:Compass
+AD7EE4D2:Sublime Ring of Piercing Protection
+9E63D958:A List of Items
+AD841C02:Heavy Bracelet
+9E63D926:Frigid Bracelet
+AD990A8B:Repugnant Eater Ripper Plaque
+9E63D925:Ebuillant Bracelet
+ADA1E212:Writ of Refuge
+9E63D93D:Foci of Verdancy
+9E63D95A:A Small Mnemosyne
+AD7AF058:Top
+AD7F1085:Treated Healing Kit
+AD7E062F:Treated Healing Kit
+AD7E04DE:Treated Healing Kit
+AD7874C6:Treated Healing Kit
+AD8344C3:List of Hunted Creatures
+AD841CC0:Greater Mana Stone
+AD823C65:Halaetan Magic Page 6
+AD84F568:A Large Mnemosyne
+AD84F513:A Large Mnemosyne
+AD7E07DB:Gem of Stillness
+AD7AE4F0:Lucky Gold Letter
+AD84478E:Lucky Gold Letter
+AD837324:A Large Mnemosyne
+AD837004:A Large Mnemosyne
+AD83752B:A Large Mnemosyne
+AD699601:Sturdy Iron Key
+AD837018:Sturdy Iron Key
+AD7AF9D3:Ring
+AD881821:A Large Mnemosyne
+AD88179B:A Large Mnemosyne
+AD884D31:A Large Mnemosyne
+AD8857AA:Muddy Towel
+AD887476:Fire Elemental Essence (50)
+AD88F250:Idol Gem
+AD8A5410:Greater Mana Stone
+AD87F953:Imaging Crystal
+AD7E0553:Treated Healing Kit
+AD7DB44F:Treated Healing Kit
+AD77E4F1:Treated Healing Kit
+9E63D90D:Treated Healing Kit
+AD7E0641:Treated Healing Kit
+AD7B5C56:Treated Healing Kit
+AD8C0C44:Trade Note (250,000)
+AD86BC63:Major Mana Stone
+AD8A6229:Virindi Singularity Key
+AD8D979B:White Fire Infusion
+AD888A59:Pyreal Forge Bellows
+AD88A2DC:Major Mana Stone
+AD88822C:Greater Mana Stone
+AD736481:Sluice Gate Bar
+AD8E6896:Blue Fire Infusion
+AD9D2153:Sturdy Steel Key
+AD9D416A:Silk
+AD9D483D:Forager Captain's Resonator
+AD9E0237:Iron Pea
+AD9E0236:Copper Pea
+9E63E2C6:Nuhmudira's Bestowment of Quickness and Armor Defense
+9A901A40:Silver Pea
+AD97BC86:Sturdy Iron Key
+ADA08D18:Lucky Gold Letter
+AD9DBC6D:Tear-Stained Parchment
+AD9CA4A0:Damp Scroll
+ADE5309A:Imbue Swap Coin
+ADE535A2:Coalesced Mana
+ADF9BD57:Major Mana Stone
+ADE4EABD:Forager Captain's Resonator
+ADFEB99F:Lead Pea
+ADFB31F6:Forager Captain's Resonator
+ADFC8C29:A Huge Lump of Coal
+ADF9272C:Poofy Snowball
+ADFEB9CD:Skull of High Acolyte
+9E63D93B:Sollerets
+9E63D939:Platemail Leggings
+ADF9C21E:Gold Pea
+9E63D93C:Platemail Hauberk
+9E63D938:Platemail Gauntlets
+9E63D93A:Realaidain Raiment
+ADF7B8D6:Pyreal Pea
+ADF7B669:Major Mana Stone
+AE4CCB0C:Trade Note (5,000)
+9E63D946:Horned Helm
+AEB8F11C:A Tiny Mnemosyne
+AEB8F119:A Tiny Mnemosyne
+AEB2F8D2:The Ruby Mahwan
+AEA21F2A:Lich Skull
+AEBA61A8:Alloy Mechanism
+AEADD98E:Amuli Coat
+AEBAC974:Monougat
+AEB587F5:Pyreal
+AEB587AF:Pyreal
+808E36C4:Sturdy Iron Key
+AEC74A57:Brief Letter
+808E36C6:Sturdy Iron Key
+808E36C0:Sturdy Iron Key
+808E36C5:Sturdy Iron Key
+AD837562:Seal
+9E63E968:Seal
+AEC5467E:Heavy Bracelet
+AEC54F87:Ink of Formation
+AEC5527B:Cloth Gloves
+AEC6792B:Stamina Philtre
+ADA0B612:Shirt
+ADA0B60F:The Healer's Heart
+AEC74D3C:Translated Letter
+AEC76203:Smelting Pot
+AEC7FE5D:Skull of High Acolyte
+AEC731A4:Brodor's Epitaph
+AEC73176:A Small Mnemosyne
+AEC731AC:A Small Mnemosyne
+AEC72F48:Note from Mi Krau-Li
+AEC714B6:Mi Krau-Li's Jitte
+AEC99B2F:Relanim Plant
+AEC9C36B:The Ruby Al-Shajar
+ADE53E1D:Paradox-touched Olthoi Sword
+9E63D95D:Wand
+
+Missing Exports - Possessed items that were not found:

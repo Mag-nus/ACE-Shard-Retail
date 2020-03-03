@@ -1,0 +1,147 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-31_1485848674_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT01_20170131\pkt_2017-1-24_1485321479_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT01_20170131\pkt_2017-1-24_1485321782_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT01_20170131\pkt_2017-1-24_1485321859_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT01_20170131\pkt_2017-1-26_1485473687_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT01_20170131\pkt_2017-1-26_1485474963_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT01_20170131\pkt_2017-1-26_1485475546_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT01_20170131\pkt_2017-1-26_1485475883_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT01_20170131\pkt_2017-1-26_1485480502_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT01_20170131\pkt_2017-1-26_1485491939_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT01_20170131\pkt_2017-1-26_1485492288_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT01_20170131\pkt_2017-1-29_1485673392_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT01_20170131\pkt_2017-1-29_1485749803_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT01_20170131\pkt_2017-1-29_1485749960_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT01_20170131\pkt_2017-1-29_1485750268_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-30_1485823052_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-30_1485823052_log.pcap
+
+Partial Exports - Missing appraisal info:
+AA5C5B83:Sturdy Iron Key
+AA645BB6:Sturdy Iron Key
+AA639510:Trade Note (100,000)
+A5951C70:Trade Note (250,000)
+AA88248A:A Tiny Mnemosyne
+AA61E760:Trade Note (250,000)
+AA87204B:Trade Note (150,000)
+AA87A7E3:A Tiny Mnemosyne
+AA87A7B5:A Tiny Mnemosyne
+AA87A7FC:A Tiny Mnemosyne
+AA8822FF:A Tiny Mnemosyne
+AA943B77:A Tiny Mnemosyne
+AA880EFE:A Tiny Mnemosyne
+AA880DF1:A Tiny Mnemosyne
+AA87B32A:A Tiny Mnemosyne
+AA87A7A9:A Small Mnemosyne
+AA87B6D6:A Small Mnemosyne
+AA9F75C1:Sturdy Iron Key
+AA9A8D31:Sturdy Iron Key
+AB13ADB1:Trade Note (75,000)
+AA31B54D:Ust
+AA31B552:Training Wand
+AA31B553:Foci of Artifice
+AA31B554:Prismatic Taper
+AAFCD2EE:Health Tonic
+A1618A94:Plentiful Healing Kit
+A1623C94:Plentiful Healing Kit
+ABB92D1A:White Phyntos Wasp Wing
+AA5C583D:Sturdy Iron Key
+AA5C907C:Facility Hub Portal Gem
+AA620448:Pack
+AAA22CF3:Gem
+AAE396D5:Gem
+AAE431D9:Gem
+AB0F37DE:Gem
+AB13AF87:Gem
+AB1B78B1:Gem
+AB1B99B0:Gem
+AB320B55:Gem
+AB2D1E10:Gem
+AB368E86:Gem
+AB36CF0C:Acid Trident
+AB36CF1E:Frost Long Sword
+AB4E086B:Gem
+AB323A7A:Flaming Dirk
+AB22A0E6:Flaming Dirk
+AB174CC5:Pyreal
+AA9AF8EE:Heavy Bracelet
+AB42837C:Bracelet
+AB548E48:Gem
+AB368028:Baggy Breeches
+AB62E66D:Dirk
+AB645885:Gem
+AA880F59:Iron Pea
+AA85086C:Trimmed Cloak
+AA97C022:Inscribed Purple Gem
+AAA07D38:Excellent Lockpick
+AAA06654:Gem of Purity
+AAE432BB:Silver Pea
+AAE9DB53:Lead Pea
+AB110E1A:Scroll of Brogard's Defiance
+AB1B7B1D:Scroll of Archer's Bane
+AA993BD4:Mechanical Scarab
+AB1E55E4:Aura of Infected Spirit Caress Scroll
+AB186B62:Loose Breeches
+AB204830:Heavy Bracelet
+AB28AB1F:Dread Mattekar Paw
+AB28AB2E:Clay Figurine
+AB2C90DD:Ring
+AB0BFF56:Ruined Amulet of the Two Hander
+AB420110:Aphus Lassel Portal Gem
+AB658B22:Greater Mana Stone
+AB39F59B:Gem of Purity
+AB2F9E3C:Gem of Stillness
+AB32FA2C:Gold Pea
+AB4D80A8:Glittering Necklace of Acid and Piercing Protection
+AB4DF715:Mechanical Scarab
+AB4DF30B:Health Elixir
+AB4DECA3:Platemail Vambraces
+AB4E0F07:Sollerets
+AB8CBE7A:Worn Odd Key
+AB5C2DF4:Platemail Cuirass
+AB5ECBA7:Trousers
+ABD3D91B:Alloy Fan
+AB5D8643:Heaume
+AB5C43EF:Health Tincture
+AB900F23:Tattered Disgusting Moarsman Ritual
+9FF4D62F:Scroll of Adja's Boon
+AB30DD72:Instructions
+9FF87E1B:Tenassa Breastplate
+ABA7190C:Agent of Arcanum List
+ABA719FC:List of Hunted Creatures
+ABA7154C:Barnar the Tinker's Note
+AB9D810B:List of Hunted Creatures
+ABB9134E:Mana Stone
+ABB90FF9:Moderate Mana Stone
+ABB90FDB:Royal Atlatl
+ABAF5F21:Necklace
+AA85BE89:Loose Shirt
+ABB3EBE8:Excellent Healing Kit
+ABB91B3B:Ornamental Bowl
+ABB9B910:Flaming Kaskara
+ABD4FB1C:Pack
+ABB97911:Diforsa Greaves
+8786D955:Lightning Khanda-handled Mace
+ABEFA0B8:Greater Mana Stone
+ABAEBA61:Compass
+ABD20BA1:Trade Note (50,000)
+ABD1AE39:Pyreal Forge Bellows
+AB055145:Staff
+ABD56904:Torn Journal Page - Page 1
+ABE863CD:Tumerok Gladiator's Key
+ABE6D738:Major Mana Stone
+ABEB8920:Greater Mana Stone
+ABEF9FB4:Sluice Gate Bar
+ABF8352E:Heavy Necklace
+ABF5BA74:Glittering Necklace of Acid and Piercing Protection
+ABF5BA70:Trade Note (75,000)
+ABF5B92B:Treated Healing Kit
+ABF40433:Treated Healing Kit
+ABF2CDB6:Gem of Purity
+ABF9856C:Sacrificial Dagger
+ABEFA0B7:Blunt Sceptre
+
+Missing Exports - Possessed items that were not found:

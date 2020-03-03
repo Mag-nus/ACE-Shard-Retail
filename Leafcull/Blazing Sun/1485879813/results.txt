@@ -1,0 +1,88 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-31_1485879802_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-18_1484787207_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-26_1485478943_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-26_1485480280_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-27_1485561898_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-29_1485733024_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-30_1485817084_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-30_1485817520_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-30_1485817520_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-30_1485822831_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-30_1485829727_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-31_1485871628_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-31_1485871628_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-31_1485871628_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-9_1483998935_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-9_1484005659_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-9_1484009192_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-16_1484572578_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-16_1484604586_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-16_1484615451_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-16_1484615451_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-16_1484616248_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-16_1484616311_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-17_1484687397_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-13_1484344108_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-13_1484351142_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-14_1484396435_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-14_1484435135_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-14_1484435180_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-17_1484689885_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-14_1484443566_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-17_1484695780_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-17_1484702514_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-18_1484753790_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-18_1484776198_log.pcap
+
+Partial Exports - Missing appraisal info:
+A802D09C:Belt Pouch
+A687AD2D:Platinum Scarab
+A6772CA1:Silver Scarab
+A68A08F3:Copper Scarab
+A68917A7:Iron Scarab
+A6891153:Lead Scarab
+A825AD12:Pyreal Scarab
+A825AD13:Gold Scarab
+A852C511:Diamond Scarab
+A7D5E9DA:Turquoise Taper
+AC50E277:Town Network Portal Gem
+A99A5604:Chorizite
+ACD507F9:Chorizite
+A68BFAD7:Celdiseth's Portal Gem
+ADA1ECE1:Aetheria Mana Stone
+ADAD4451:Mana Scarab
+AE5253D8:Prismatic Taper
+AE52F20A:Splitting Tool
+ADB4E927:Imbue Swap Coin
+ACEAEF7E:Promissory Note
+ADB08F7C:Lesser Corrupted Essence
+AE5C0C1F:Large Lugian Sinew
+AE575426:Diamond Heart
+A68B8356:Ust
+AE880DCD:Massive Mana Charge
+AD990110:Red Rune Silveran Bow
+AE868FEF:Massive Mana Charge
+830862EB:Sturdy Steel Keyring
+AE86AB59:Massive Mana Charge
+AE86AA92:Massive Mana Charge
+AE868DB3:Massive Mana Charge
+AE8396C3:Massive Mana Charge
+AC43FBC0:Trade Note (250,000)
+AEAAFFB7:Pyreal
+A68A0D7E:Peerless Lockpick
+A68B7FBD:Peerless Lockpick
+AE880ECB:Pack
+ACC5897E:Intricate Carving Tool
+A68A0AA5:Peerless Lockpick
+AC069D38:Encapsulated Spirit
+AEA8E36D:Strengthened Mana Forge Key
+AEA613FA:Massive Mana Charge
+AEA604AF:Massive Mana Charge
+AEAE896A:Pyreal
+AEB3B388:Massive Mana Charge
+906FEDEE:Knath Head
+
+Missing Exports - Possessed items that were not found:

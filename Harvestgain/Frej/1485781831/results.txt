@@ -1,0 +1,90 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps4\pkt_2017-1-30_1485781822_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485763445_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-25_1485371656_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-30_1485771019_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-30_1485771019_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-30_1485771019_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-29_1485681570_log.pcap
+
+Partial Exports - Missing appraisal info:
+80FE58A3:Signet Crown
+80FFE56E:Crown
+80FFE544:Teardrop Crown
+80FFE530:Circlet
+80FF0BA1:Coronet
+80FE15FE:Crown
+80FFE562:Teardrop Crown
+80F83B56:Diadem
+80FF1D2B:Teardrop Crown
+80FE65E3:Diadem
+80FD809F:Crown
+801AB3A1:Massive Mana Charge
+801AB3A4:Massive Mana Charge
+80FFE5B5:Elysa's Crystal
+80FCCC20:Brawler's Crystal
+80FE52BC:Circlet
+80FAD7F9:Diadem
+80FFE5C7:Crown
+81011683:Signet Crown
+80FFE561:Signet Crown
+801AB395:Massive Mana Charge
+80FE67E6:Signet Crown
+91E0BBCF:Scholar's Crystal
+81011682:Ust
+9F932058:Monarch's Crystal
+81011681:Foci of Verdancy
+81011684:Foci of Enchantment
+80FE4BE1:Foci of Artifice
+8101166A:Lead Scarab
+80FF0BBB:Pyreal Scarab
+80FE52AE:Gold Scarab
+80FE5E29:Silver Scarab
+80FA8114:Copper Scarab
+80FE5868:Iron Scarab
+80FE4CCC:Wrapped Bundle of Arrowshafts
+80FE1BA7:Aphus Lassel Portal Gem
+80FFE416:Diamond Scarab
+80FF1E8B:Wrapped Bundle of Deadly Frog Crotch Arrowheads
+80FF1EA5:Splitting Tool
+80FFE5E5:Wrapped Bundle of Deadly Lightning Arrowheads
+91E4DD79:Prismatic Taper
+93AF087A:Gem of Stillness
+C84D1380:Prismatic Taper
+C84C4A57:Shoyanen's Portal Gem
+C7FF91E6:Stipend
+80FE2E76:Asheron's Benediction
+80FFE5C2:Blackmoor's Favor
+80FFE59F:Dansha-Ki's Gem of Portal Recall
+80FE5C61:Facility Hub Portal Gem
+80F7740B:Cavernous Olthoi Chasm
+B8596C5B:Blank Augmentation Gem
+80FC284F:Ancient Temple
+80FDB09F:Oubliette
+801A9617:Mukkir Nest Portal Gem
+80FFE5CC:Chainmail Breastplate
+80FE48C2:Circlet
+80FFE533:Studded Leather Pauldrons
+810115B9:Studded Leather Bracers
+80FE5CA8:Necklace
+80FF1B04:Goggles
+80FE706D:Heavy Bracelet
+810115BA:Ring
+B855D209:Heavy Bracelet
+80FFE57C:Leather Girth
+80FA783D:Studded Leather Tassets
+80FF1C53:Diforsa Sollerets
+81011576:Loose Breeches
+80FE2C9C:Halved Cloak
+801B0C00:Hyssop
+80583086:Greater Deadly Blunt Arrow
+801AB387:Artificer's Crystal
+80FFE5B6:Smithy's Crystal
+80583091:Deadly Arrow
+811D27C9:Wrapped Bundle of Deadly Frog Crotch Arrowheads
+811D27CA:Wrapped Bundle of Deadly Blunt Arrowheads
+C84C98F0:Trade Note (250,000)
+
+Missing Exports - Possessed items that were not found:

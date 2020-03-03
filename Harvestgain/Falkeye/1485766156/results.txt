@@ -1,0 +1,23 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485766105_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-25_1485343185_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-26_1485461087_log.pcap
+
+Partial Exports - Missing appraisal info:
+92CA1BF8:Lead Scarab
+92CC18C0:Iron Scarab
+92CC1CB0:Copper Scarab
+92CDE50E:Gold Scarab
+92CCB0AF:Silver Scarab
+92CDE50F:Pyreal Scarab
+92CDE510:Platinum Scarab
+92CA2318:Prismatic Taper
+92CB004E:Splitting Tool
+92CD221A:Pyreal
+92CC1FEB:Foci of Artifice
+801A484E:Lucky White Rabbit's Foot
+801AA490:Grand Casino Golden Keyring
+
+Missing Exports - Possessed items that were not found:

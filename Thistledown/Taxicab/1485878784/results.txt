@@ -1,0 +1,83 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-31_1485878775_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-30_1485790176_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-30_1485790243_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT01_20170131\pkt_2017-1-29_1485750613_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT01_20170131\pkt_2017-1-30_1485756792_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT01_20170131\pkt_2017-1-30_1485756884_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-30_1485793578_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-30_1485799008_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT01_20170131\pkt_2017-1-30_1485757280_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-31_1485844040_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-31_1485845020_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-30_1485803073_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-31_1485847511_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-30_1485821350_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-30_1485822859_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-31_1485848674_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-31_1485854098_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-31_1485855647_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-31_1485855647_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-31_1485855647_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-31_1485855647_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-31_1485855647_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-31_1485855647_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-31_1485855647_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-31_1485873512_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-31_1485878679_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-30_1485823052_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-30_1485823052_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-30_1485840051_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT01_20170131\pkt_2017-1-17_1484717645_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT01_20170131\pkt_2017-1-21_1485062862_log.pcap
+
+Partial Exports - Missing appraisal info:
+AB517A7E:Pyreal
+AB517A84:Foci of Strife
+AB517A85:Foci of Verdancy
+AB84E264:Pack
+AB84E252:Pack
+AB84462B:Facility Hub Portal Gem
+AB91828E:Foci of Enchantment
+ABEBF14F:Gold Scarab
+ABF333C9:Crystal Fragment
+ABFC5C37:Platinum Scarab
+ABFC5B88:Prismatic Taper
+ABFE7C0D:Red Fire Infusion
+ABEAA0E2:Reliable Lockpick
+ABEA3BF8:Pyreal
+ABF005DA:Good Lockpick
+ABEDCA32:Pyreal
+ABF05B5B:Tiny Shard
+ABE98D62:Pyreal
+ABF2DA00:Fenmalain Portal Gem
+ABF2DA37:Fenmalain Portal Gem
+ABF4B956:Fenmalain Crystal Bow
+ABFB5193:Trade Note (50,000)
+ABFE7C39:Black Boulder
+ABFE1CF8:Burning Coal
+ABEFA311:Titan Mana Charge
+AA359979:Trade Note (50,000)
+ABF99655:Glittering Necklace of Acid and Piercing Protection
+ABF9963C:Trade Note (75,000)
+ABF99652:Treated Healing Kit
+ABFAE0D8:Treated Healing Kit
+ABFBF6B8:Gem of Purity
+ABFE21F4:A Scribbled Note
+ABFE21F5:A Scribbled Note
+ABA1A575:A Scribbled Note
+ABFE248B:Worn Key
+ABEFAAC1:A Scribbled Note
+ABFF979D:Wood Heart
+ABFF97A9:Wood Heart
+AC00E174:Wood Heart
+AC00E405:An odd note 
+ABFFCFAF:A Folded Note
+ABFFD00C:Copper Heart
+ABFFD004:Copper Heart
+ABFFD10C:Copper Heart
+AC062DC0:Torn Journal
+
+Missing Exports - Possessed items that were not found:

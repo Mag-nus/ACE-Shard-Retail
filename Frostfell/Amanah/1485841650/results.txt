@@ -1,0 +1,105 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\trello_datamining\194_Ridley-Amanah-Final-Random-2\pkt_2017-1-31_1485841615_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ridley-01-30-2017-olthoi-horde-nest-bandit-castle\pkt_2017-1-29_1485743130_log.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\194_Ridley-Amanah-Final-Random-2\pkt_2017-1-29_1485743130_log.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\194_Ridley-Amanah-Final-Random-2\pkt_2017-1-30_1485829974_log.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\194_Ridley-Amanah-Final-Random-2\pkt_2017-1-30_1485830392_log.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\194_Ridley-Amanah-Final-Random-2\pkt_2017-1-30_1485830392_log.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\194_Ridley-Amanah-Final-Random-2\pkt_2017-1-30_1485830392_log.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\1_Ridley-01-30-2017-olthoi-horde-nest-bandit-castle\pkt_2017-1-29_1485743130_log.pcap
+
+Partial Exports - Missing appraisal info:
+850A1D4E:Sack
+850A1D4D:Blackmoor's Favor
+850A1D4C:Lead Scarab
+850A1D4B:Iron Scarab
+850A1D4A:Copper Scarab
+850A1D49:Gold Scarab
+850A1D48:Silver Scarab
+850A1D47:Pyreal Scarab
+850A1D46:Facility Hub Portal Gem
+850A1D45:Diamond Scarab
+850A1D41:Mana Scarab
+850A1D44:Gem of Stillness
+850A1D43:Aphus Lassel Portal Gem
+850A1D2C:Ust
+850A1D42:Chorizite
+850A1D40:Prismatic Taper
+850A1D3D:Platinum Scarab
+850A1D3E:Frost Staff
+850A1D3C:Shoyanen's Portal Gem
+850A1D02:Pyreal
+850A1D39:Slashing Sceptre
+C2693AFB:Prismatic Taper
+850A1D36:Foci of Strife
+C308C029:Trade Note (250,000)
+850A1D29:Trade Note (250,000)
+850A1D35:Foci of Verdancy
+850A1D3B:Piercing Baton
+850A1D38:Electric Sceptre
+C309F9D3:Pyreal
+850A1D3A:Fire Sceptre
+850A1D34:Pathwarden Trinket
+850A1D33:Foci of Artifice
+850A1D32:Pack
+850A1D31:Ancient Mhoire Coin
+850A1D30:Aligned Mana Stone
+850A1D2F:Aetheria Mana Stone
+850A1D2E:Medicated Mana Kit
+850A1D2D:Adventurer's Token
+850A1D2B:Blighted Mana Crystal
+850A1D2A:Ring
+850A1D24:Ring
+850A1D22:Electric Staff
+850A1D21:Slashing Staff
+DD08A9BA:Pyreal
+850A1D20:Foci of Enchantment
+850A1D1F:Pack
+850A1D1E:Sturdy Steel Keyring
+850A1D1D:Sezzherei's Lair
+850A1D1C:Aetheria
+C30A5047:Aged Legendary Key
+C30A7068:Aged Legendary Key
+C30A7004:Aged Legendary Key
+C30A7005:Aged Legendary Key
+C28A270D:Aged Legendary Key
+C284133D:Aged Legendary Key
+C28A3D9E:Aged Legendary Key
+C28A269E:Aged Legendary Key
+C30A7006:Aged Legendary Key
+C30A5048:Aged Legendary Key
+C30A6FFC:Aged Legendary Key
+C30A6FFB:Aged Legendary Key
+850A1D1B:Chevron Cloak
+850A1D1A:Chainmail Tassets
+850A1D19:Baggy Breeches
+DD08A804:Pyreal
+850A1D18:Tunic
+850A1D17:Heavy Bracelet
+DD0AFA00:Pyreal
+850A1D16:Chainmail Greaves
+850A1D15:Ring
+DD0AF9FF:Pyreal
+850A1D12:Heavy Necklace
+850A1D11:Yoroi Pauldrons
+DD0AF9FE:Pyreal
+850A1D10:Heavy Bracelet
+850A1D0D:Sollerets
+DD0AF9FD:Pyreal
+850A1D0C:Olthoi Amuli Helm
+850A1D0A:Chainmail Girth
+DD23D8A8:Pyreal
+850A1CF4:Chiran Gauntlets
+850A1D0E:Ring
+DD23D8A7:Pyreal
+850A1D13:Haebrean Breastplate
+850A1D0B:Leather Bracers
+DD23D8A6:Pyreal
+850A1D14:Aetheria
+DD23D8A5:Pyreal
+C24E60A7:Tome of Flame
+850A1CD5:Blunt Staff
+
+Missing Exports - Possessed items that were not found:

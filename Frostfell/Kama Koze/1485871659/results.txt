@@ -1,0 +1,143 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\DataLog\DataLog\pkt_2017-1-31_1485871649_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\DataLog\DataLog\pkt_2017-1-27_1485552007_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\DataLog\DataLog\pkt_2017-1-22_1485140612_log.pcap
+
+Partial Exports - Missing appraisal info:
+D9A6E664:Relanim Plant
+D8DAC150:Sceptre
+D95162E0:Loafers
+D9E4BD5C:Haebrean Girth
+D9E13689:Glyph of Alchemy
+CD28C277:Greater Mana Stone
+D7C80178:Circlet
+D985EB53:Turban
+D984AE85:Cloth Gloves
+D786E26D:Turban
+D9E1457D:Glyph of Cooking
+DCAF9FB2:Small Shard
+D3854187:Seasoned Explorer Necklace Of Focus
+D9DDBCD6:Glyph of Lockpick
+D244FC1F:Ust
+DBA6BB8F:Olthoi Ripper Reducer Plaque
+D62AD9F3:Encapsulated Spirit
+DC53CB0A:Olthoi Ripper Reducer Plaque
+8F767024:Pack
+D954005B:Aetheria
+DABA0A9B:Platinum Scarab
+DB0954DA:Pyreal Scarab
+D9573C98:Heavy Bracelet
+D9A48CA7:Cloth Gloves
+AC1ACDD4:Slippers
+D9A48CB0:Loafers
+DAFB7853:Quill of Infliction
+DAE842FF:Sturdy Steel Key
+D9DD8B52:Alacritous Ink
+D2AD6F7A:Pathwarden Trinket
+DB1B2EEC:Mana Scarab
+9DCF96AF:Ring
+92B114F1:Heavy Bracelet
+DB3CF6F4:Circlet
+DC078324:Olthoi Ripper Reducer Plaque
+DBCB8C5F:Circlet
+DC42A2E9:Massive Mana Charge
+DC1CD60B:Diadem
+DC7611BA:Blank Augmentation Gem
+DCC61369:Diamond Heart
+DCC6136B:Pyreal Mote
+DC054237:Circlet
+D3630FB5:Pack
+D4990495:Stamina Philtre
+D7190323:The Healer's Heart
+D259569A:Alloy Tool
+DB4744DF:Pyreal
+DC187117:Wooden Tablet
+DC097169:Diadem
+DBD79A01:Heart of the Innocent
+D9A835F2:Colosseum Coin
+DCF43608:Olthoi Ripper Reducer Plaque
+DC00AFF1:Coronet
+DB9B5F34:Comfrey
+D7D8866E:Focusing Stone
+DBBC8F75:Celdiseth's Portal Gem
+D25EDC79:Imbue Swap Coin
+DC0986FB:Crown
+DBEC0BA2:Signet Crown
+DBF3613A:Salvage (100)
+DC052501:Ancient Falatacot Trinket
+DBFDE6D4:Coronet
+DC00AB3A:Fez
+DC052983:Salvage (100)
+DC097E48:Teardrop Crown
+D4C04AF1:Foci of Enchantment
+D78C784A:Foci of Verdancy
+DC15011F:Coronet
+DC097C4C:Signet Crown
+DC025222:Salvage (28)
+DC098CCC:Crown
+DC1508E4:Salvage (44)
+DBFDDBF3:Salvage (49)
+DC02E22D:Heavy Bracelet
+DBFDDBDC:Teardrop Crown
+DBDC220D:Circlet
+DC1CD795:Teardrop Crown
+DC05424E:Encapsulated Spirit
+DBA61047:Circlet
+DC0E6DF4:Signet Crown
+DC1CE025:Circlet
+DBFDED6D:Yoroi Tassets
+DBDC2AE9:Teardrop Crown
+DC2C59D3:Salvage (78)
+DC1EE404:Salvage (72)
+DC1EE95C:Salvage (73)
+DC42A1DC:Town Network Portal Gem
+DC3F1845:Frost Skeleton Bushi Essence (125)
+DC41ECE5:Acid Grievver Essence (100)
+DC25CD59:Fire Elemental Essence (100)
+DC2685A5:Fire Child Essence (125)
+DC40D42F:Lightning Child Essence (125)
+DC40D44C:Fire Wisp Essence (125)
+DC529168:Lightning Wisp Essence (125)
+DC53A5C1:Acid Phyntos Wasp Essence (100)
+D97629E0:Rynthid Tentacle Spear
+DCD2F8E2:Salvage (10)
+DCEA9EC8:Celdiseth's Portal Gem
+
+Missing Exports - Possessed items that were not found:
+D244FC25
+D35E2B0C
+D365C411
+DCF1BC9B
+D90724F1
+D992E5A5
+D893AD2B
+D898E941
+D86D620A
+D8AD270A
+D83979FD
+DC4DE140
+DC1CC9B2
+DC1C4851
+DBF3ACDB
+DBC948BF
+D9E4BBF2
+D4CC40C6
+D4278221
+D8B0507F
+D7808A26
+D6C2759B
+D7C048AD
+D7896E5C
+D7AA75CE
+D4BE5C58
+D4BDF76E
+D4994184
+D4A62DF1
+D2A29BFF
+D7A84387
+D4DF3AA4
+D364FCF6
+D364350F
+D244FC27

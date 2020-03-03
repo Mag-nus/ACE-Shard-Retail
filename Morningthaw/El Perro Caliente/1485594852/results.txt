@@ -2,8 +2,8 @@ Source:
 C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-28_1485593171_log.pcap
 
 Alternate sources:
-C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-22_1485136357_log.pcap
 C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-22_1485149828_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-22_1485136357_log.pcap
 
 Partial Exports - Missing appraisal info:
 8047B16B:Foci of Artifice

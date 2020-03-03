@@ -1,0 +1,95 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Random_Logs\pkt_2017-1-29_1485736488_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\Random_Logs\pkt_2017-1-28_1485667011_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Random_Logs\pkt_2017-1-29_1485710052_log.pcap
+
+Partial Exports - Missing appraisal info:
+C833EFD6:Studded Leather Pauldrons
+C83076C4:Academy Dirk
+C8311395:Handy Healing Kit
+C82E9700:Ring
+C830CBC9:Lightning Claw
+C7FD59BD:Fishing Made Easy
+C8327139:Lace Shirt
+C7B8AAFA:Leather Shorts
+C8344AB1:Plain Lockpick
+C830091A:Lancet
+C8344C8C:Fire Spectre Essence (50)
+C8344C8E:Gem
+C8344C8F:Plain Lockpick
+C83165CB:Bracelet
+C831C29D:Loafers
+C8344F61:Ring
+C8345779:Gem
+C834C2A0:Lightning K'nath Essence (50)
+C834C2A1:Loose Tunic
+C834C2A2:Ring
+C834C4A9:Scroll of Summoning Mastery Self III
+C834C4AA:Long Leather Gauntlets
+C834CBD5:Board with Nail
+C834CBD3:Yaoji
+C834C8D6:Adept Healing Kit
+C834C8D9:Crown
+C834C8D8:Amulet
+C834CCF2:Peppermint Stick
+C834C5AA:Mug
+C834C5A9:Ewer
+C83AB874:Scroll of Cooking Ineptitude Other II
+C83A701D:Chainmail Gauntlets
+C83A7045:Plain Lockpick
+C83AB872:Chainmail Basinet
+C83AB846:Studded Leather Bracers
+C83AB877:Spada
+C83B83AF:Hammer
+C83B83B0:Long Sword
+C8394D2F:Verdalim Plant
+C7EBE499:Round Shield
+C83454B2:Frost Spiked Club
+
+Missing Exports - Possessed items that were not found:
+C834BA6E
+C834BA6D
+C833EFD7
+C833EFD5
+C8326097
+C830C8A4
+C830C8A3
+C833E97A
+C833E634
+C833AB29
+C833AB28
+C833A99D
+C8332964
+C8315865
+C8315864
+C82DAA84
+C8332965
+C831E935
+91A9C7C2
+8E835EC2
+8CF3BDA3
+C830922F
+C831EE52
+C8332E24
+C831E844
+C7EBE49C
+C7EBE49B
+C7EBE49A
+C7EBE497
+C7EBE493
+C7EBE491
+C7EBE492
+C82F587A
+C833E979
+C7EBE498
+C833E636
+C833E635
+C8325D91
+C82F60AE
+C833AB2A
+C83158E9
+C8315867
+C8315866
+C83104A2

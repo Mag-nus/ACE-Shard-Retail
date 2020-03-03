@@ -1,0 +1,157 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\randompktlogs\pkt_2017-1-30_1485833480_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\randompktlogs\pkt_2017-1-30_1485833480_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\randompktlogs\pkt_2017-1-21_1485054358_log.pcap
+
+Partial Exports - Missing appraisal info:
+C5F2E48F:Lead Scarab
+C5F69C34:Silver Scarab
+C5F97224:Gold Scarab
+C5FCADE9:Pyreal Scarab
+C5F96218:Prismatic Taper
+C5FC8B91:Fragment of the Fire Prism
+C5FCADF4:Blue Taper
+C5FCADE8:Acid Dagger
+C5FCADF3:Excellent Lockpick
+C5FCAE2F:Incalescent Bracelet
+C5FCADE7:Copper Scarab
+C5FCADF2:Yew Talisman
+C5FCADE6:Gypsum
+C5F4E758:Quicksilver
+C5FCADF1:Willow Talisman
+C5FCAE34:Powdered Amber
+C5FCAE31:Saffron
+C5FCADFD:Treated Healing Kit
+C5FCADF0:An Unlocked Large Mnemosyne
+C5F97220:Treated Healing Kit
+C5FCAE06:Ring
+C5FCAE05:Excellent Lockpick
+C5FCAE04:Treated Healing Kit
+C5FCADE2:Gem of Purity
+C5FCAE0E:Necklace
+C5FCAE16:Fragment of the Ice Prism
+C5FB2583:Snowball
+C5FCAE02:Oswald's Dagger
+C5FCADE3:Poofy Snowball
+C5FCAE17:Frost Dagger
+C5F9BF71:Peppermint Stick
+C5FCAE0B:A Large Mnemosyne
+C5F69BFE:A Large Mnemosyne
+C5FCAE1F:Pack Levistras
+C5FCAE15:Suikan War Master Robe
+C5FCAE01:Suikan Item Master Robe
+C5FCAE20:Pyreal
+C5F9BF83:Cracked Shard
+C5FCAE1E:Totem of Tanae
+C5FCAE07:Totem of Tanae
+C5FCAE14:Totem of Volkama
+C5FCAE00:Totem of Volkama
+C5FCADE1:Heavy Necklace
+C5FCAE22:A Large Mnemosyne
+C5FCAE0D:Ring
+C5FCAE0C:A Large Mnemosyne
+C5FCAE13:A Large Mnemosyne
+C5FCAE54:Flaming Bandit Dagger
+C5FCAE23:Lead Pea
+C5FCADFF:Adept Healing Kit
+C5FCAE21:Adept Healing Kit
+C5FCADDF:Sharp Tusker Slave Tusk
+C5F9BF7A:Blackmoor's Favor
+C5FCAE27:Scroll of Blade Bane VI
+C5FCAE1B:Cap
+C5F456C4:Frigid Bracelet
+C5F752A4:A Bracelet of Piercing Protection
+C5F95F79:Intricate Carving Tool
+C5FCAE1A:An Unlocked Large Mnemosyne
+C5F9B7DC:Trade Note (100,000)
+C5FCAE56:Pyreal Pea
+C5FCAE10:Necklace
+C5FCAE26:Sake
+C5F981E3:Pack
+C5FCAE19:Salvaged  (100)
+C5FCAE0F:Hearty Healing Applesauce
+C5FCAE08:Scroll of Horizon's Blades
+C5FB405A:Brimstone
+C5FCAE18:Scroll of Hammering Crawler
+C5FB4735:Frost Dagger
+C5FCAE09:Doublet
+C5F977DA:Health Elixir
+C5F98215:Shoyanen's Portal Gem
+C5FCAE29:Gloves
+C5FCAE28:Treated Healing Kit
+C5F9BF6C:Frost Bandit Khanjar
+C5F94487:Treated Healing Kit
+C5EB24A6:Treated Healing Kit
+C5F97225:Treated Healing Kit
+C5F98176:Treated Healing Kit
+C5F9818B:Treated Healing Kit
+C5F9BFA1:Treated Healing Kit
+C5F981E5:Treated Healing Kit
+C5FCAE2D:Splitting Tool
+C5F9BF40:Gem of Stillness
+C5F9BF38:Deadly Blunt Quarrel
+C5FD1442:Major Mana Stone
+C5FCAC4A:Tunic
+C5FCAE3E:Acid Mace
+C5FCAE35:Some Changes for February 2012
+C5FCAE51:Mazule
+C5F9BF4B:Foci of Artifice
+C5F9BFA2:Pack
+C5FCAE38:Pack Virindi
+C5FCAE37:Piercing Compound Bow
+C5F7697F:Bandit Dagger
+C5FADCD2:Diamond Shield
+C5F9BF93:Salvage (100)
+C5FCAE3C:Amulet
+C5F9BF68:Salvage (100)
+C5F97227:Flared Pants
+C5F1ED85:Salvage (100)
+C5F9BF30:Salvage (100)
+C5FCAE44:Salvage (100)
+C5FCAE3B:Salvage (100)
+C5F9BF4A:Mana Forge Key
+C5FCAE45:Salvage (100)
+C5F73708:Salvage (100)
+C5F9BF56:Acid Mace
+C5FCAE43:Salvage (100)
+C5FCAE47:Salvage (100)
+C5FCAE50:Acid Morning Star
+C5FCAE3A:Salvage (100)
+C5FCAE42:Salvage (100)
+C5F42A7D:Acid Mace
+C5FCAE39:Salvage (100)
+C5FCAE41:Salvage (100)
+C5FCAE4D:Flaming Mace
+C5F9BF90:Salvage (100)
+C5FCAE53:Salvage (100)
+C5F69C4B:Acid Morning Star
+C5FCAE4B:Salvage (100)
+C5FCAE40:Salvage (100)
+C5FCAE67:Frost Morning Star
+C5F9BF49:Salvage (100)
+C5F9B7DB:Salvage (100)
+C5F5119C:Salvage (100)
+C5FCAE55:Salvage (100)
+C5FCAE52:Salvage (100)
+C5FCAE3F:Salvage (100)
+C5F9BF8F:Flanged Mace
+C5F9BFDA:Gorget
+C5FCAE3D:Top
+C5FCAE4F:Lightning Mazule
+C5F9C03E:Heavy Bracelet
+C5F9BFC5:Ring
+C5FCAE4E:Flanged Mace
+C5F9BF74:Flanged Mace
+C5F9C01D:Covenant Shield
+C5FCAE79:Morning Star
+C5FCAE68:Heavy Bracelet
+C5FCAE66:Flaming Morning Star
+C5FCAE60:Heavy Bracelet
+C5FB474A:Ring
+C5FCAE6D:Gorget
+C5FCAE4C:Lightning Flanged Mace
+C5FCAE6E:Heavy Bracelet
+
+Missing Exports - Possessed items that were not found:

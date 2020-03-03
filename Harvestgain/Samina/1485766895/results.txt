@@ -1,0 +1,49 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485766854_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps-20170203071513\pkt_2017-1-27_1485526251_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-25_1485344329_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2-20170203071709\pkt_2017-1-29_1485715909_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-25_1485372631_log.pcap
+
+Partial Exports - Missing appraisal info:
+811BFCC5:Foci of Artifice
+811C2DC1:Pants
+811BFD00:Pyreal
+811C2DC0:Nuhmudira's Bestowment of Endurance
+811B59D8:Parchment
+8111886F:Pyreal
+801AEFF6:Perfect Diamond Infused Pyreal Ingot
+81176E54:Badlands Siraluun Dress
+811803E1:Pyreal
+811CC40E:Silken Wrap
+811A3203:Black Marrow Key
+83C08650:Thief's Crystal
+801A489C:Fletcher's Crystal
+8101F1B2:Vaulter's Crystal
+8ADBA445:Monarch's Crystal
+8C59A9EA:Pyreal
+811BE8E4:Some Changes for February 2012
+811CE632:Ring
+811CE636:Sceptre
+811CE618:T'ing's Crystal
+8101F1B1:Converter's Crystal
+811CE609:Scroll of Raven Fury
+810070C2:Flared Pants
+811CE594:Ishaq's Mace
+801A483F:Pack Bael'Zharon
+811CE63D:Qafiya
+811CE641:Lich's Pearl
+811CE63B:Glyph of Magic Item Tinkering
+811CE63C:Glyph of Lockpick
+811CE63A:Converter's Crystal
+811CE639:Slashing Staff
+811CE634:Staff
+811CE60F:Fertilized Fly Trap
+811CE637:Slashing Baton
+811CE638:Fire Baton
+811CE60A:Gem of Balance
+811CE663:Silifi
+
+Missing Exports - Possessed items that were not found:

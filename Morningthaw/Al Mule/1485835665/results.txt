@@ -1,0 +1,181 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\randompktlogs\pkt_2017-1-30_1485833480_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\randompktlogs\pkt_2017-1-30_1485833480_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\randompktlogs\pkt_2017-1-30_1485833480_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\randompktlogs\pkt_2017-1-21_1485054358_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\randompktlogs\pkt_2017-1-30_1485830588_log.pcap
+
+Partial Exports - Missing appraisal info:
+C64A943F:Cinnabar
+C64A9509:Pyreal
+C64A9440:Colcothar
+C64A9441:Gypsum
+C64A9443:Realgar
+C64A9442:Quicksilver
+C64A9444:Turpeth
+C64A9447:Eye Dropper
+C64A9445:Verdigris
+C64A9446:Vitriol
+C64A944B:Stibnite Pea
+C64A9448:Health Infusion
+C64A9449:Fire Infusion
+C64A944A:Bloodseeker Infusion
+C64A944C:Chorizite
+C64A946C:Little Green Seeds
+C64A944D:Chorizite
+C64A944E:Wrapped Bundle of Deadly Armor Piercing Arrowheads
+C64A944F:Wrapped Bundle of Deadly Chorizite Arrowheads
+C64A9456:Cured Large Lugian Sinew
+C64A9454:Wrapped Bundle of Armor Piercing Arrowheads
+C64A9455:Wrapped Bundle of Frog Crotch Arrowheads
+C64A9458:Gypsum Pea
+C64A9459:Turpeth Pea
+C64A945A:Turpeth Pea
+C64A945B:Turpeth Pea
+C64A945C:Turpeth Pea
+C64A945D:Turpeth Pea
+C64A945E:Turpeth Pea
+C64A945F:Turpeth Pea
+C64A9460:Turpeth Pea
+C64A9461:Colcothar Pea
+C64A9462:Colcothar Pea
+C64A9463:Brimstone Pea
+C64A9464:Brimstone Pea
+C64A9465:Stibnite Pea
+C64A9466:Colcothar Pea
+C64A9467:Colcothar Pea
+C64A9468:Stibnite Pea
+C64A9469:Cobalt Pea
+C64A946A:Stibnite Pea
+C64A946B:Bloodseeker Oil
+C64A946D:Minalim Plant
+C64A9470:Singularity Keyring
+C64A9471:Wrapped Bundle of Quarrelshafts
+C64A9473:Treated Healing Kit
+C64A9474:Treated Healing Kit
+C64A9475:Treated Healing Kit
+C64A9476:Treated Healing Kit
+C64A9477:Cobalt Pea
+C64A9478:Concentrated Aqua Incanta
+C64A9479:Concentrated Aqua Incanta
+C64A947A:Concentrated Aqua Incanta
+C64A950A:Pyreal
+C64A947B:Concentrated Aqua Incanta
+C64A9480:Singularity Key
+C64A9483:Little Green Seeds
+C64A9484:Little Green Seeds
+C64A9485:Thananim Plant
+C64A948B:Pack Golem
+C64A948C:Pack Golem
+C64A948E:Braided Drudge Ravener Guts
+C64A948F:Brown Lump
+C64A9492:Salvaged  (100)
+C64A9490:Pack Scarecrow
+C64A9493:Salvaged  (100)
+C64A94B0:Heavy Grinder
+C64A9496:Wrapped Bundle of Deadly Lightning Arrowheads
+C64A9497:Wrapped Bundle of Deadly Blunt Arrowheads
+C64A9498:Salvaged  (84)
+C64A949E:Relanim Plant
+C64A94A9:Ursuin Scalp
+C64A94A4:Monougat
+C64A94A5:Red Monster Seed
+C64A94A6:Stibnite Pea
+C64A94A7:Stibnite Pea
+C64A94A8:Brimstone Pea
+C64A94AA:Large Sclavus Hide
+C64A94AB:Concentrated Aqua Incanta
+C64A94B1:Cooking Pot
+C64A94AC:Concentrated Aqua Incanta
+C64A94AE:Wrapped Bundle of Arrowheads
+C64A94AF:Wrapped Bundle of Arrowheads
+C64A94EC:Grievver Tibia
+C64A94B3:Sturdy Iron Keyring
+C64A94BA:Treated Healing Kit
+C64A94B5:Wrapped Bundle of Deadly Acid Arrowheads
+C64A94B6:Wrapped Bundle of Deadly Frost Arrowheads
+C64A94B7:Berimphur Plant
+C64A94BB:Treated Healing Kit
+C64A94BD:Brimstone
+C64A94BE:Cadmia
+C64A94BF:Stibnite
+C64A94C0:Bundle of Greater Fire Arrowheads
+C64A94C2:Alembic
+C64A94C1:Hyssop
+C64A94C4:Quicksilver Pea
+C64A94C5:Quicksilver Pea
+C64A94C6:Quicksilver Pea
+C64A94C7:Quicksilver Pea
+C64A94C8:Quicksilver Pea
+C64A94C9:Quicksilver Pea
+C64A94CA:Quicksilver Pea
+C64A94CB:Quicksilver Pea
+C64A94CC:Quicksilver Pea
+C64A94CD:Quicksilver Pea
+C64A94CE:Pyreal Sliver
+C64A94CF:Pyreal Mote
+C64A94D0:Verdalim Plant
+C64A94D1:Colban Plant
+C64A94D3:Barbed Fletching Tool
+C64A94D4:Ebon Mattekar Hide
+C64A94D5:Turpeth Pea
+C64A94D6:Wrapped Bundle of Arrowshafts
+C64A94D7:Iron Pea
+C64A94D9:Cooking Pot
+C64A94DA:Simple Dried Rations
+C64A94DB:Hot Sauce
+C64A94DC:Mortar and Pestle
+C64A94DD:Cinnamon
+C64A94DE:Hot Pepper
+C64A94E0:Brimstone Pea
+C64A94E1:Cobalt Pea
+C64A94E2:Stibnite Pea
+C64A94E3:Stibnite Pea
+C64A94E4:Stibnite Pea
+C64A94E5:Ivory Gromnie Tooth
+C64A94E6:Skull of a Skeletal Hero
+C64A94E9:Yellow Jewel
+C64A94EA:Yellow Jewel
+C64A94ED:Ball of Gunk
+C64A94EE:Snow Lily
+C64A94EF:Pyreal Bar
+C64A94F0:Pyreal Bar
+C64A94F1:Pyreal Bar
+C64A94F2:Pyreal Bar
+C64A94F3:Pyreal Bar
+C64A94F4:Peppermint Stick
+C64A94F5:Wrapped Bundle of Blunt Arrowheads
+C64A94F6:Ball of Gunk
+C64A94F7:Ball of Gunk
+C64A94F8:Ball of Gunk
+C64A94F9:Skull of a Skeletal Hero
+C64A94FF:Pyreal Bar
+C64A9500:Tusker Spit
+C64A9501:Argenory Plant
+C64A9504:Lapyan Plant
+C64A9505:Wrapped Bundle of Arrowheads
+C64A9506:Wrapped Bundle of Arrowheads
+C64A9507:Wrapped Bundle of Arrowheads
+C64A9508:Wrapped Bundle of Arrowheads
+C64A950F:Pack Ancient Olthoi Queen
+C64A9510:Pack Burun Kukuur
+C64A9515:Pack Bael'Zharon
+C64A9517:Pack Asheron
+C64A9518:Pack Gaerlan
+C64A951B:Pack Golem
+C64A9519:Pack Martine
+C64A951D:Skull of Avoren Palacost
+C64A9520:Singularity Key
+C64A951C:Pack Scarecrow
+C64A952B:Mattekar Hide
+C6BFD4AF:Quality Pyreal Ingot
+C64A952F:Wrapped Bundle of Deadly Fire Arrowheads
+C64A953C:Salvage (100)
+C6BB92D4:Aqua Vitae
+C64A953D:Salvage (100)
+C64A953E:Salvage (100)
+C6BC6876:Aqua Vitae
+
+Missing Exports - Possessed items that were not found:

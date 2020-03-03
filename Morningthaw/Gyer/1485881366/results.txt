@@ -1,0 +1,236 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\randompktlogs\pkt_2017-1-31_1485881357_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\randompktlogs\pkt_2017-1-25_1485368827_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\randompktlogs\pkt_2017-1-29_1485671409_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\randompktlogs\pkt_2017-1-30_1485833480_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\randompktlogs\pkt_2017-1-30_1485833480_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\randompktlogs\pkt_2017-1-22_1485104355_log.pcap
+
+Partial Exports - Missing appraisal info:
+87813DF2:Pack
+87813DF3:Marble Keyring
+87813DF4:Trade Note (250,000)
+87813DF5:Peerless Lockpick
+87813DF6:Sturdy Steel Key
+87813DF7:Peerless Lockpick
+87813DF8:Singularity Keyring
+87813DF9:Aerfalle's Pallium
+87813DFD:Peerless Lockpick
+87813DFB:Stamina Tincture
+87813DFC:Blackmoor's Favor
+87813DFE:Singularity Keyring
+87813DFF:Sturdy Iron Keyring
+87813E00:A Broken Insignia Ring
+87813E01:Karenua's Key
+87813E02:Phantom Axe
+87813E03:Clean Towel
+87813E04:Ring
+87813E05:Note from a Scout
+87813E06:Sturdy Iron Keyring
+87813E07:Mana Tincture
+87813E08:Pack Bael'Zharon
+87813E09:Intricate Carving Tool
+87813E0B:Pack
+87813E0C:Gold Scarab
+87813E0D:Copper Scarab
+87813E0E:Lead Scarab
+87813E0F:Silver Scarab
+87813E10:Quicksilver
+87813E11:Brimstone
+87813E12:Cobalt
+87813E13:Willow Talisman
+87813E14:Powdered Amber
+87813E15:Saffron
+87813E16:Pyreal Scarab
+87813E17:Iron Scarab
+87813E18:Prismatic Taper
+87813E19:Platinum Scarab
+87813E1A:Peerless Lockpick
+87813E1B:Diamond Scarab
+87813E1C:A Large Mnemosyne
+87813E1D:A Large Mnemosyne
+87813E1E:Loose Breeches
+87813E1F:Vest
+87813E20:Dark Revenant Thighbone
+87813E21:Cowl
+87813E23:Pyreal Mote
+87813E24:Pack
+87813E25:Granite Keyring
+87813E26:Sturdy Iron Keyring
+87813E27:Singularity Keyring
+87813E28:Scroll of Light Weapon Mastery Other VII
+87813E29:Stamina Brew
+87813E2A:Ust
+87813E2B:Fishing Pole
+87813E2C:Peerless Lockpick
+87813E2D:Peerless Lockpick
+87813E2E:Monty's High-Stakes Gambling Token
+87813E2F:Necklace
+87813E31:War Hammer
+87813E30:Ring
+87813E32:Tunic
+87813E3A:Scroll of Eradicate Item Magic
+87813E33:Ring
+87813E34:Acid Battle Axe
+87813E35:Stamina Elixir
+87813E36:Shoes
+87813E37:Necklace
+87813E39:Covenant Gauntlets
+87813E3B:Breeches
+87813E3D:Pack
+87813E3E:Slasher Reedshark Hide
+87813E3F:Coalesced Mana
+87813E4D:Pyreal
+87813E40:Dire Champion Token
+87813E42:Gem
+87813E43:Bracelet
+87813E44:Gem
+87813E45:Ring
+87813E46:Scroll of Swordsman's Bane
+87813E47:Red Monster Seed
+87813E48:Scroll of Vagabond's Gift
+87813E49:Silifi
+87813E4A:Gold Pea
+87813E4B:Scroll of Luminous Wrath
+87813E4C:Scroll of Eye of the Storm
+87813E4E:A Note From Ciandra
+87813E4F:Scroll of Fire Protection Self VI
+87813E50:Acid War Axe
+87813E51:Chilled Shard
+87813E52:The Temple of Enlightenment
+87813E53:Lugian Hammer
+87813E54:Vapor Golem Heart
+87813E55:Aura of Spirit Drinker Other VII
+87813E56:Foci of Artifice
+87813E57:Pack
+87813E58:Citadel Portal Gem
+87813E59:Resting Place
+87813E5A:Bracelet
+87813E5C:Armoredillo Egg
+87813E5B:Lesser Mukkir Slayer Stone
+87813E5D:Half-Digested Virindi Mask
+87813E5E:Heavy Bracelet
+87813E5F:Lapyan Plant
+87813E60:Swamp Stone
+87813E61:Swamp Stone
+87813E62:Swamp Stone
+87813E63:Sturdy Iron Keyring
+87813E65:Lead Pea
+87813E67:Heavy Bracelet
+87813E68:Some Changes for February 2012
+87813E69:The Temple of Forgetfulness
+87813E6A:The Temple of Forgetfulness
+87813E6B:Twisted Dark Key
+87813E6C:Frost Dolabra
+87813E6D:A Note From Ciandra
+87813E6F:Colban Plant
+87813E70:Coalesced Mana
+87813E71:Sharp Tusker Slave Tusk
+87813E72:Great Pumpkin
+87813E73:Jack o' Lantern
+87813E74:Pyreal Mote
+87813E75:Diamond Heart
+87813E76:Diamond Powder
+87813E77:Argenory Plant
+87813E78:Wide Breeches
+87813E7B:Flaming War Axe
+87813E7C:Smock
+87813541:Major Mana Stone
+87813E7D:Gem
+87813E7E:A Note From Ciandra
+87813E80:Heavy Necklace
+87813E82:Flaming Silifi
+87813E83:A Note From Ciandra
+87813E84:War Axe
+87813E85:The Temple of Enlightenment
+87813E86:Second Half of a Worn Dagger
+87813E99:Moderate Mana Stone
+87813E9A:Aura of Defender Other VI
+87813E95:Stamina Tonic
+87813E9B:A Large Mnemosyne
+87813E93:Chevron Cloak
+87813EAD:Greater Mana Stone
+87813E96:Scroll of Nullify Life Magic Self
+87813E97:Scroll of Two Handed Weapon Mastery Other VI
+87813E98:Mana Tonic
+87813EA4:Cloak
+87813EAB:Ornate Gear Marker
+87813EAE:Salvage (6)
+87813EAF:Yellow Jewel
+87813EB0:Greater Mana Stone
+87813EB1:Salvage (10)
+87813EB2:Heavy Bracelet
+87813EB3:Sturdy Iron Key
+87813EB4:Salvage (7)
+87813EB5:Sturdy Iron Key
+87813EB6:Copper Pea
+87813EB7:Silver Pea
+87813EB8:Diamond Heart
+87813EB9:Iron Pea
+87813EBA:Diamond Powder
+87813EBB:Salvage (13)
+87813EBF:Diamond Heart
+87813EC0:Diamond Powder
+87813EC1:Salvage (12)
+87813EC2:Pyreal Nugget
+87813EC4:Sturdy Iron Key
+87813EC5:Sturdy Iron Key
+87813EC6:Mechanical Scarab
+87813EC7:Salvage (12)
+87813EDB:Sclavus
+87813EC8:Salvage (38)
+87813EC9:Salvage (14)
+87813EDE:A Large Mnemosyne
+87813ECA:Salvage (8)
+87813ECB:Tunic
+87813EDF:A Large Mnemosyne
+87813ECC:Salvage (16)
+87813ECE:Salvage (26)
+87813EE1:A Large Mnemosyne
+87813ECF:Salvage (33)
+87813ED0:Salvage (24)
+8782F277:Adept Healing Kit
+87813ED1:Salvage (8)
+87813ED2:Salvage (23)
+87763A2C:Excellent Healing Kit
+87813ED3:Salvage (18)
+87813ED4:Salvage (85)
+87813EDA:Black Spear of Ruschk Protection
+87813ED5:Salvage (9)
+87813ED6:Salvage (37)
+87791E45:Prismatic Taper
+87813ED7:Loose Shirt
+87813ED8:Salvage (22)
+87813EDD:Heavy Bracelet
+87813EE2:Pantaloons
+87782BFE:Excellent Healing Kit
+87813EE5:Ring
+87813EE6:Doublet
+C67A6749:Excellent Lockpick
+875B9114:Heavy Bracelet
+8773E09D:Necklace
+87813EBC:Slippers
+87813E66:Necklace
+87813E38:Circlet
+87813EC3:Slippers
+87813E7F:Observer's Crystal
+87813EA6:Chef's Crystal
+87813EA7:Artificer's Crystal
+87813EA8:Dodger's Crystal
+87813EAC:Hunter's Crystal
+87813EDC:Hieromancer's Crystal
+87813EE0:Artist's Crystal
+87813592:Fletcher's Crystal
+87813E79:Bracelet
+87813E7A:Signet Crown
+8781D107:The Rise and Fall of the Tanada
+87813AFA:Puffy Tunic
+875B9A0B:Gorget
+8785C272:Channeled Tanada Medallion
+8785C6AE:Copy of Tanada House of Water Orders
+C665ECFA:Small Carved Key
+C6657980:A silvery, mysterious key
+
+Missing Exports - Possessed items that were not found:

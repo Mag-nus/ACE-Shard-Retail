@@ -1,0 +1,101 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485761007_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps-20170203071513\pkt_2017-1-27_1485529756_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2-20170203071709\pkt_2017-1-28_1485588228_log.pcap
+
+Partial Exports - Missing appraisal info:
+811D94E5:Copper Scarab
+811D94E6:Silver Scarab
+811D94E7:Gold Scarab
+811D94E8:Pyreal Scarab
+811D94E9:Platinum Scarab
+811D94EA:Diamond Scarab
+811D94EB:Chorizite
+811D94EC:Suikan War Master Robe
+811D952A:Twisted Dark Key
+811D94ED:Faran Creature Master Robe
+811D94EE:Suikan War Master Robe
+811D94EF:Suikan Creature Master Robe
+811D94F1:Dho Item Master Robe
+811D94F2:Faran Creature Master Robe
+811D94F5:Karenua's Key
+811D94FC:Prismatic Taper
+811D94F8:Heavy Bracelet
+811D94F9:Faran Creature Master Robe
+800BEAAA:Aluvian Lamp
+811D94FB:Crown
+811D94FD:Foci of Enchantment
+811D94FE:Foci of Artifice
+811D94FF:Foci of Verdancy
+811D952E:Ust
+811D950A:Sturdy Iron Key
+811D950B:Sturdy Iron Key
+811D950C:Sturdy Iron Key
+811D950D:Sturdy Iron Key
+811D950E:Sturdy Iron Key
+811D950F:Sturdy Iron Key
+811D9510:Peerless Lockpick
+811D9511:Sturdy Steel Keyring
+811D9512:Sturdy Steel Keyring
+811D9514:Suikan Item Master Robe
+811D9516:Oswald's Crystal
+811D9517:Alchemist's Crystal
+811D9518:Thorsten's Crystal
+811D9519:Ornate Gear Marker
+811D951A:Sturdy Steel Keyring
+811D9523:Green Mire Yari
+811D9522:Heart of the Innocent
+811D9524:Lance of the Bloodletter
+811D9527:Asheron's Benediction
+811D9528:Niffis Fighting Pits
+811D9529:Cavernous Olthoi Chasm
+811D952B:Twisted Dark Key
+811D952C:Jaleh's Necklace
+800BEACB:Pedestal with a Floral Arrangement
+800BEACC:Pedestal with a Floral Arrangement
+800BEAC7:Pack Levistras
+80011C8F:Homecoming Pennant
+800BEAAD:Quadruple-bladed Axe
+811D9531:Covenant Breastplate
+811D9530:Celdon Sleeves
+811D9532:Platemail Leggings
+811D9533:Celdon Breastplate
+811D9536:Necklace
+811D9537:Celdon Sleeves
+811D9538:Covenant Girth
+811D9561:Major Mana Stone
+811D9539:Covenant Greaves
+811D953A:Covenant Pauldrons
+897643A9:Blank Augmentation Gem
+811D953C:Heavy Bracelet
+811D953F:Covenant Tassets
+811D953D:Thorsten's Crystal
+811D953E:Observer's Crystal
+811D9540:Nariyid Sleeves
+811D9541:Silken Wrap
+AFFBFC25:Blank Augmentation Gem
+811D9542:Covenant Pauldrons
+811D9543:Beret
+811D9547:Gloves
+811D9544:Chainmail Tassets
+811D9545:Pants
+811D9546:Festival Robe
+811D954F:Discus
+811D9552:Orb
+811D9554:Scalemail Coif
+811D9555:Round Shield
+811D9556:Gorget
+811D9557:Whittling Knife
+811D9558:Jungle Phyntos Wasp Wing
+811D9559:Ring
+811D955A:Intricate Carving Tool
+811D955C:Budiaq
+811D955E:Covenant Shield
+811D955F:Monarch's Crystal
+811D9560:Thief's Crystal
+811D9565:Some Changes for February 2012
+811D9569:Round Shield
+
+Missing Exports - Possessed items that were not found:

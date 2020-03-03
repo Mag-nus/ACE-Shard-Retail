@@ -1,0 +1,59 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485764337_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps-20170203071513\pkt_2017-1-25_1485363128_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps-20170203071513\pkt_2017-1-26_1485458004_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps-20170203071513\pkt_2017-1-27_1485514690_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps-20170203071513\pkt_2017-1-27_1485521556_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2-20170203071709\pkt_2017-1-29_1485717981_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-28_1485588633_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-28_1485588633_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-29_1485724108_log.pcap
+
+Partial Exports - Missing appraisal info:
+801A9B20:Foci of Shadow
+801A9B24:Foci of Verdancy
+801A9B25:Foci of Artifice
+801A9B26:Foci of Enchantment
+801A9B29:Facility Hub Portal Gem
+801A9B3B:Mana Scarab
+801A9B2A:Asheron's Benediction
+801A9B2B:Blackmoor's Favor
+8F94412E:Prismatic Taper
+801A9B2C:Gem of Purity
+801A9B2D:Gem of Stillness
+801A9B37:Ust
+801A9B2E:Shoyanen's Portal Gem
+801A9B39:Aphus Lassel Portal Gem
+801A9B34:Splitting Tool
+801A9B19:Pyreal Scarab
+801A9B18:Lead Scarab
+8DF5988C:Iron Scarab
+801A9B1A:Diamond Scarab
+801A9B1B:Gold Scarab
+8DF3894C:Copper Scarab
+801A9B1C:Silver Scarab
+801A9B1D:Platinum Scarab
+AF322F34:Ring
+B72DADE3:Prismatic Taper
+B06A78A6:Intricate Carving Tool
+B01D7F08:A'nekshay Token
+B06F74A3:Colosseum Coin
+801A9B3A:War Magic Gem of Enlightenment
+801A9B32:Ornate Gear Marker
+801A95E7:Circlet
+801A95EE:Circlet
+B38BE870:Ancient Mhoire Coin
+801A9B57:Yoroi Pauldrons
+C7FC9C1C:Stipend
+B190706A:Fire K'nath Essence (50)
+B435943D:Acid K'nath Essence (50)
+B520E8D4:Gonjoku's Mana Infusion
+B755C4BB:Blank Augmentation Gem
+B84B864B:Orb
+C81858BE:Gonjoku's Mana Infusion
+C8405608:Trade Note (75,000)
+C83CFB2C:Trade Note (100,000)
+
+Missing Exports - Possessed items that were not found:

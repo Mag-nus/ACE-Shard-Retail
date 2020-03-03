@@ -1,0 +1,119 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-31_1485857317_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-28_1485597209_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485761098_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2-20170203071709\pkt_2017-1-28_1485588228_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2-20170203071709\pkt_2017-1-28_1485598252_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2-20170203071709\pkt_2017-1-28_1485598252_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2-20170203071709\pkt_2017-1-28_1485599067_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2-20170203071709\pkt_2017-1-29_1485722632_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps5\pkt_2017-1-30_1485769007_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps6\pkt_2017-1-29_1485683056_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps6\pkt_2017-1-29_1485683056_log.pcap
+
+Partial Exports - Missing appraisal info:
+811CE644:Golden Gromnie
+811CE65B:Golden Gromnie
+811CE64E:Golden Gromnie
+811CE640:Golden Gromnie
+811CE642:Golden Gromnie
+811CE643:Golden Gromnie
+811CE645:Golden Gromnie
+811CE65A:Golden Gromnie
+811CE65C:Golden Gromnie
+C35710DB:Golden Gromnie
+C34B778F:Golden Gromnie
+C355D77D:Golden Gromnie
+C35704ED:Golden Gromnie
+811D725F:Golden Gromnie
+811D725E:Golden Gromnie
+811CE619:Golden Gromnie
+811D7264:Golden Gromnie
+811CE612:Golden Gromnie
+811CE605:Golden Gromnie
+811CE606:Golden Gromnie
+811CE64F:Golden Gromnie
+811CE65D:Golden Gromnie
+811CE65E:Golden Gromnie
+811CE65F:Golden Gromnie
+C804F4B4:Lucky Gold Letter
+C8378C0B:Lucky Gold Letter
+C83563B0:Lucky Gold Letter
+C830ED74:Lucky Gold Letter
+C83882B0:Lucky Gold Letter
+C8069BC0:Lucky Gold Letter
+811AF455:Lucky Gold Letter
+811CE656:Lucky Gold Letter
+811CE652:Lucky Gold Letter
+811CE651:Lucky Gold Letter
+811CE650:Lucky Gold Letter
+811CE64D:Lucky Gold Letter
+811CE64C:Lucky Gold Letter
+811CE658:Lucky Gold Letter
+8A25CAB5:Lucky Gold Letter
+811CE659:Lucky Gold Letter
+811CE649:Lucky Gold Letter
+811CE64A:Lucky Gold Letter
+C80257AB:Lucky Gold Letter
+C8392716:Lucky Gold Letter
+C83A15B4:Lucky Gold Letter
+811CE655:Lucky Gold Letter
+811CE654:Lucky Gold Letter
+811CE657:Lucky Gold Letter
+811B53DD:Idol Gem
+811D725A:Idol Gem
+811D725C:Idol Gem
+811D725B:Idol Gem
+811D7259:Idol Gem
+811CC3FA:Idol Gem
+811CE63E:Idol Gem
+801A4834:Idol Gem
+811CE63F:Idol Gem
+811D725D:Idol Gem
+811CC3F9:Idol Gem
+811CC3F8:Idol Gem
+811CE661:Golden Gromnie
+811CE662:Golden Gromnie
+811CE660:Golden Gromnie
+811CE64B:Lucky Gold Letter
+811CE653:Lucky Gold Letter
+800BEABA:Aluvian Rug
+811CC414:Pyreal Bell
+811CC3D2:Pyreal Bell
+811C135E:Pyreal Bell
+811CC3CD:Pyreal Bell
+800BEAB1:Chandelier
+800BEAAB:Bending Willow and Setting Sun
+800BEAAC:Falling Leaves
+800BEACA:Dereth Map
+800BEAB8:The Studious Mind
+800BEABF:Hearth
+800BEAB7:Outcast
+800BEAB9:Through the Portal Years
+811CC412:Pyreal Bell
+811CE5DA:Decorative Bronze Statue 
+811CC411:Pyreal Bell
+811CC3CF:Pyreal Bell
+811CC416:Pyreal Bell
+811CC415:Pyreal Bell
+80093E25:Bench
+811CC3CE:Pyreal Bell
+800BEABC:Lesser Direlands Device
+800BEABD:Citadels Portal Device
+815996D0:Portal to Kivik Lir's Temple
+800EA655:K'nath Lair Portal
+800BEAA8:Large Gharu'ndim Rug
+800BEAA9:Holiday Hearth
+800BEAAE:Alloy Machine
+8006B4CA:Set Dinner Table
+811CE585:Skeleton
+811CE584:Pack Drudge
+800BEAC5:Portal to Kivik Lir's Temple
+800BEAC4:Portal to Izji Qo's Temple
+C838EEA3:Aphus Lassel Portal Gem
+811B4796:Strathelar Pennant
+C84CB8C2:Pyreal
+
+Missing Exports - Possessed items that were not found:

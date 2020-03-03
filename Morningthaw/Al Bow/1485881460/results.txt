@@ -1,0 +1,140 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\randompktlogs\pkt_2017-1-31_1485881453_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\randompktlogs\pkt_2017-1-29_1485711340_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\randompktlogs\pkt_2017-1-30_1485810820_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\randompktlogs\pkt_2017-1-30_1485833480_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\randompktlogs\pkt_2017-1-31_1485862508_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\randompktlogs\pkt_2017-1-30_1485815229_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\randompktlogs\pkt_2017-1-30_1485830588_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\randompktlogs\pkt_2017-1-22_1485104355_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\randompktlogs\pkt_2017-1-22_1485104659_log.pcap
+
+Partial Exports - Missing appraisal info:
+C5E1E0D3:Lead Scarab
+C5E1E0D4:Iron Scarab
+C5E1E0D5:Copper Scarab
+C5E1E0D6:Silver Scarab
+C5E1E0D7:Brood Matron Claw
+C5E1E0D8:Pyreal Scarab
+C5E1E0D9:Gold Scarab
+C5E1E0DA:Platinum Scarab
+C5E1E0DB:Pyreal Pea
+C5E1E0DC:Alloy Turbine
+C5E1E0DD:Splitting Tool
+C5E1E0DE:Scroll of Replenish
+C5E1E0DF:Singularity Keyring
+C5E1E0E2:Silver Pea
+C5E1E0E3:Trade Note (250,000)
+C5E1E0E4:Iron Pea
+C5E1E0E5:Lead Pea
+C5E1E0E6:Titan Mana Charge
+C5E1E0E7:Shoyanen's Portal Gem
+C5E1E0E8:Sturdy Iron Key
+C5E1E0E9:Sturdy Iron Key
+C5E1E0ED:An Unlocked Large Mnemosyne
+C5E1E0EE:Gem of Stillness
+C5E1E0F1:Forager Captain's Resonator
+C5E1E0F2:Sir Martine's Journal
+C5E1E0F3:Enchanted Mana Stone
+C5E1E0F4:Broken Virindi Observer Mask
+C5E1E0F9:Disgusting Sea Invasion Key
+C5E1E0F8:Intricate Carving Tool
+C5E1E0FC:Sturdy Steel Keyring
+C5E1E0FD:Sturdy Iron Keyring
+C5E1E0FE:Gold Shallows Shredder Fin
+C5E1E100:Sturdy Iron Keyring
+C5E1E101:Prismatic Taper
+C5E1E103:Sturdy Steel Key
+C5E1E105:Shendolain Key
+C5E1E106:Moarsmuck
+C5E1E107:Trade Note (150,000)
+C5E1E108:Storytelling
+C5E1E109:A Journal by Martine
+C5E1E10B:Coalesced Mana
+C5E1E10C:Coalesced Mana
+C5E1E111:Virindi Directive Key
+C5E1E11B:Gold Shallows Shredder Fin
+C5E18A6E:Gold Shallows Shredder Fin
+C6A74847:Major Mana Stone
+C5E1E11E:Baby Thrungus Crate
+C5E1E11F:Trade Note (100,000)
+C5E1E120:Forager Captain's Resonator
+C5E1E121:Trade Note (50,000)
+C5E1E122:Slithe Tradittor's Notes
+C5E1E123:Stamina Philtre
+C5E1E125:Coalesced Mana
+C5E1E127:Copper Pea
+C5E1E128:K'nath Key
+C5E1E12C:Celdiseth's Portal Gem
+C5E1E12D:Quill of Infliction
+C5E1E12E:Gold Shallows Shredder Fin
+C5E1E130:Gold Shallows Shredder Fin
+C5E1E132:Ancient Falatacot Trinket
+C5E1E134:Salvage (7)
+C5E1E135:Salvage (14)
+C6A46E2C:Bloodied Burun Hide
+C6A797C2:Brawler's Crystal
+C5E1E137:Polar Ursuin Pounder Plaque
+C5E1E138:Abayar's Research Notes
+C5E1E13A:Invitation Ithaenc Cathedral
+C5E1E13C:Major Mana Stone
+C5E1E13D:Major Mana Stone
+C5E1E13E:Major Mana Stone
+C5E1E13F:Major Mana Stone
+C5E1E140:Major Mana Stone
+C5E1E141:Major Mana Stone
+C5E1E142:Greater Mana Stone
+C5E1E143:Aligned Mana Stone
+C5E1E144:Peerless Lockpick
+C5E1E147:Pyreal
+C5E1E14A:Great Pumpkin
+C5E1E14B:Pumpkin
+C5E1E14C:Salvage (7)
+C5E1E14E:Gold Shallows Shredder Fin
+C5E1E150:Blackmoor's Favor
+C5E1E151:Ust
+C5E1E152:Major Mana Stone
+C5E1E153:Major Mana Stone
+C5E1E154:Major Mana Stone
+C5E1E155:Major Mana Stone
+C5E1E156:Major Mana Stone
+C5E1E157:Whittling Knife
+C5E1E158:Peerless Lockpick
+C5E1E15B:Ancient Empyrean Trinket
+C5E1E15E:Tusker Head
+C5E1E15C:Stamina Tincture
+C5E1E15D:Tusker Spit
+C5E1E160:Salvage (6)
+C5E1E161:Gold Shallows Shredder Fin
+C5E1E167:Glyph of Armor Tinkering
+C6BC334D:Chicken
+C5E1E17C:Treated Healing Kit
+C5E1E181:Gold Shallows Shredder Fin
+C5E024F1:Peerless Lockpick
+C4974FC1:Major Mana Stone
+C5E1E180:Salvage (8)
+C6BD09B9:Gem
+C6BC4945:Pyreal Mote
+C6BC4696:Salvage (12)
+C6B75430:Gem
+C6BC3FA9:Tiny Shard
+C6B75086:Gem
+C6BC3FC5:Brown Beans
+C6B8E2CC:Salvage (4)
+C6B8064C:Gem
+C6B8EA0B:Gem
+C6BB58DF:Salvage (12)
+C6BD0F4F:Salvage (19)
+C6BD09BA:Gem
+C6B1FA94:Gem
+C6BFC237:Salvage (25)
+C6BB231A:Salvage (18)
+C6BFD196:Lightning Spadone
+C6BC7AFD:Salvage (13)
+C6BC9D9E:Gem
+C6BC8977:Salvage (27)
+C6BFD16F:Pyreal Mote
+
+Missing Exports - Possessed items that were not found:

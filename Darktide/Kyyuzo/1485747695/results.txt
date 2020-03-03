@@ -1,0 +1,46 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-29-2017-ShoushiMtnLS_SawatoSwampLS_OHNBanditCastle_RidgeCitadel\pkt_2017-1-29_1485747652_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-29-2017-ShoushiShrethHive\pkt_2017-1-29_1485739432_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-29-2017-ShoushiShrethHive\pkt_2017-1-29_1485739739_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-29-2017-ShoushiShrethHive\pkt_2017-1-29_1485739739_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-29-2017-ShoushiShrethHive\pkt_2017-1-29_1485742412_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-29-2017-ShoushiShrethHive\pkt_2017-1-29_1485742540_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-29-2017-ShoushiShrethHive\pkt_2017-1-29_1485734402_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-29-2017-ShoushiShrethHive\pkt_2017-1-29_1485734402_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-29-2017-ShoushiShrethHive\pkt_2017-1-29_1485734402_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-29-2017-ShoushiShrethHive\pkt_2017-1-29_1485734402_log.pcap
+
+Partial Exports - Missing appraisal info:
+801774A0:Ust
+801774A3:Prismatic Taper
+801774A4:Lead Scarab
+D86B526C:Pack
+D86B526B:Pack
+D86B526A:Pack
+D86B50CE:Foci of Artifice
+D866893F:Ancient Empyrean Trinket
+D8675EF0:Pyreal
+D8668959:Stamina Tonic
+B2F53342:Pack
+B33125D4:Covenant Sollerets
+B304B4BF:Diforsa Gauntlets
+B308F280:Leather Gauntlets
+B3523B1A:Diadem
+B306705E:Kote
+B3014220:Studded Leather Cowl
+B3264601:Sollerets
+B30EB2F9:Sedgemail Leather Shoes
+B3085478:Covenant Sollerets
+B3080A71:Covenant Sollerets
+B3080177:Covenant Sollerets
+B325F943:Covenant Sollerets
+B308B3CD:Knorr Academy Boots
+D8672DD6:Shoushi Portal Gem
+D86A60DA:Buckler
+D86F5F9E:Shoes
+D8675EA6:Mana Potion
+D86FB6BC:Armor Piercing Arrow
+
+Missing Exports - Possessed items that were not found:

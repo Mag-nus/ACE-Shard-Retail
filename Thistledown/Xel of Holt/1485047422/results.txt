@@ -1,0 +1,52 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\jojii2\pkt_2017-1-21_1485047395_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\jojii2\pkt_2017-1-19_1484891826_log.pcap
+
+Partial Exports - Missing appraisal info:
+AB517BAA:Wide Breeches
+AB517BAB:Leather Boots
+AB517BAD:Sack
+AB517BAE:Ust
+AB517BB3:Handy Healing Kit
+AB517BB4:Letter From Home
+AB517BB5:Bread
+AB652D6E:Oil of Rendering
+AB64B4D5:Academy Coat
+AB65193D:Facility Hub Portal Gem
+AB65396B:Pathwarden Plate Hauberk
+AB606157:Great Mana Charge
+AB6516B2:Pathwarden Robe
+AB64E423:Pathwarden Trinket
+AB6BBBCD:Plain Lockpick
+AB5D1611:Shoes
+AB639D1C:Adept Healing Kit
+AB5EB22D:Bracelet
+AB637F34:Acid Dirk
+AB6BBBDF:Handy Healing Kit
+AAF046D0:Smock
+AB6B8244:Lesser Mana Stone
+AAF046CA:Amulet
+AB672F99:Frost Dericost Blade
+AB6930B8:Sturdy Iron Key
+AB6B7ECE:Frost Zombie Essence (50)
+AB6B914F:Chainmail Girth
+AB68FF11:Salvage
+AB66CC8D:Salvage
+AB59A25A:Ring
+AB67CF32:Studded Leather Leggings
+AB6B4B2F:Leather Gauntlets
+AB6629C3:A List of Items
+AB6B9F32:Chainmail Greaves
+AB6BDD14:Mechanical Scarab
+AB6C869E:Leather Tassets
+AB6BBBCF:Academy Dirk
+AB6C90CC:Stamina Tincture
+AB6C96C8:Leather Gauntlets
+AB65F2E8:Directions to the Cave of Alabree
+AB6932EA:Salvage
+
+Missing Exports - Possessed items that were not found:
+AB517BA9
+AB517BAC

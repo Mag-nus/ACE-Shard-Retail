@@ -1,0 +1,105 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\pkt_2017-1-30_1485836230_log-solclaim_final_pic_gathering\pkt_2017-1-30_1485836230_log-solclaim_final_pic_gathering.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485835807_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485836151_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-22_1485125881_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-22_1485129960_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-22_1485130831_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-22_1485131095_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-22_1485139320_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-23_1485152343_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-23_1485152423_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-23_1485156448_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-28_1485651517_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-28_1485661080_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-28_1485661164_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-29_1485676260_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485807300_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485807453_log.pcap
+
+Partial Exports - Missing appraisal info:
+803A43C2:Peerless Lockpick
+80379288:Peerless Lockpick
+8036169C:Peerless Lockpick
+803A43BC:Ust
+8037928F:Peerless Lockpick
+97DE0EC7:Renegade Herbal Kit
+9015D18C:Lesser Corrupted Essence
+8CF4F335:Intricate Carving Tool
+98D0B99E:Pyreal
+901D7D4E:Lesser Corrupted Essence
+8CF0A552:Renegade Herbal Kit
+8CF0BA8D:Renegade Herbal Kit
+803A43A0:Yaraq Portal Gem
+803A439C:Pyreal Medal of Vigor
+87896E0F:Peerless Lockpick
+803A4387:Aetheria Mana Stone
+803A43BF:Virindi Consul Essence
+9317546B:Armor Tailoring Kit
+803A433F:Wrapped Bundle of Deadly Prismatic Arrowheads
+803A43BE:Shoyanen's Portal Gem
+8DD105F8:Shoyanen's Portal Gem
+813C31E7:Town Network Portal Gem
+8CE7CDEA:Renegade Herbal Kit
+9A0420A1:Renegade Herbal Kit
+80367457:Peerless Lockpick
+803673F3:Peerless Lockpick
+97DE0EC3:Renegade Herbal Kit
+97DE0EC5:Renegade Herbal Kit
+8CF0BA67:Renegade Herbal Kit
+8CE6DA18:Renegade Herbal Kit
+8CF0BAB6:Renegade Herbal Kit
+80366A71:Peerless Lockpick
+803A43C6:Sake
+906FADC4:Celdiseth's Portal Gem
+803A43F4:Pyreal Medal of Intellect
+803A43D7:Facility Hub Portal Gem
+803A4341:Yaraq Portal Gem
+97DE0EC1:Renegade Herbal Kit
+803A436A:Wrapped Bundle of Deadly Armor Piercing Arrowheads
+97DE0EBE:Renegade Herbal Kit
+97DE0EC2:Renegade Herbal Kit
+8DD31DED:Ancient Journal
+97DE0EC6:Renegade Herbal Kit
+97DE0EBF:Renegade Herbal Kit
+8D03E18C:Chorizite
+803A43DF:Diamond Scarab
+8D07C77F:Chorizite
+803A43E0:Chorizite
+803A439E:Lead Scarab
+8E6B4EE8:Hawthorn
+803A4348:Chorizite
+803A43FF:Platinum Scarab
+803A43C5:Chorizite
+80EEE47B:Mana Scarab
+803A4358:Silver Scarab
+9688B10A:Prismatic Taper
+803A439F:Pyreal Scarab
+803A432D:Mana Scarab
+803A43C4:Copper Scarab
+96863F1C:Mana Scarab
+803A43BD:Gold Scarab
+9017E961:Lesser Corrupted Essence
+9A041E2F:Renegade Herbal Kit
+97DE0EC0:Renegade Herbal Kit
+9A0425D2:Renegade Herbal Kit
+803A4365:Wrapped Bundle of Gear Blade Slashing Arrowheads
+803A43D8:Peerless Lockpick
+8FEAA6C7:Massive Mana Charge
+9688B496:Massive Mana Charge
+9A056D5E:Renegade Herbal Kit
+803A4366:Wrapped Bundle of Greater Deadly Blunt Arrowheads
+8E70D638:Pyreal Pea
+8FF08D8F:Colosseum Ticket
+9A056D5D:Renegade Herbal Kit
+9A0567C9:Renegade Herbal Kit
+9A056D58:Renegade Herbal Kit
+9A0425D6:Renegade Herbal Kit
+9821FECA:Trade Note (250,000)
+803A430D:Trade Note (250,000)
+807B985C:Encapsulated Spirit
+
+Missing Exports - Possessed items that were not found:
+803A440D

@@ -1,0 +1,193 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\DataLog\DataLog\pkt_2017-1-31_1485871566_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\DataLog\DataLog\pkt_2017-1-28_1485640435_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\DataLog\DataLog\pkt_2017-1-30_1485817349_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\DataLog\DataLog\pkt_2017-1-23_1485225032_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\DataLog\DataLog\pkt_2017-1-23_1485228834_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\DataLog\DataLog\pkt_2017-1-23_1485228834_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\DataLog\DataLog\pkt_2017-1-24_1485303991_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\DataLog\DataLog\pkt_2017-1-25_1485345564_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\DataLog\DataLog\pkt_2017-1-25_1485395112_log.pcap
+
+Partial Exports - Missing appraisal info:
+D8D69409:Unstable Mana Stone
+D0AF2A27:Silver Scarab
+D0BC290B:Iron Scarab
+D0BC28B4:Copper Scarab
+D7A0E6AF:Sandals
+D84D23E0:Coronet
+D95733B1:Teardrop Crown
+D9572E2E:Crown
+DBABCC08:Mana Scarab
+D7AC16D2:Blunt Sceptre
+DAEC761A:Small Olthoi Venom Sac
+D8AFAC81:Gold Scarab
+DA65FBA4:Platinum Scarab
+D5356625:Platinum Scarab
+CEC556BF:Trade Note (250,000)
+D60CD52C:The Healer's Heart
+DC85155B:Pyreal Scarab
+DBBEC1B8:Ishaq's Lost Key
+DC0526DB:Upper Insatiable Eater Jaw
+D86D6CED:Signet Crown
+DC9A8A77:Upper Insatiable Eater Jaw
+DCD73A4F:Agent of Arcanum List
+D88D378D:Winter Orb
+CFE32AF7:Foci of Strife
+CFE32AF8:Foci of Verdancy
+D0C8996E:Foci of Artifice
+D0A5E72E:Facility Hub Portal Gem
+D97ABCC1:Colosseum Coin
+B997C28A:Blackmoor's Favor
+D883064E:Nether Sceptre
+D5933E79:Deed
+D9040CDF:Aligned Mana Stone
+D8FD5ACE:Aetheria Mana Stone
+D953E421:Slippers
+D9564815:Knorr Academy Boots
+D9327A3C:Shoes
+DBAF731C:Aerbax Mask Shard
+D96CA831:Loafers
+D9450869:Shoes
+D8629148:Heavy Bracelet
+D956AE2D:Loafers
+DAEBF394:Cloth Gloves
+CCB253F5:Trade Note (250,000)
+D34F5D97:Trade Note (250,000)
+CEC54E97:Trade Note (250,000)
+DC267062:Colban Plant
+DCD0C08B:Benedino's Letter
+8187E7F7:Gold Shallows Shredder Fin
+8187E7E4:Gold Shallows Shredder Fin
+91FCC4D2:Drudge Scrying Orb
+D1FD95E5:Foci of Enchantment
+D32C0257:Gem of Purity
+CFE32AF3:Ust
+D8E3107A:Ornate Gear Marker
+D8DCC1DC:Signet Crown
+D7D400E8:Crown
+D840D29D:Diadem
+D6AD7FA0:Crown
+D80A2E73:Teardrop Crown
+D7CB9BAF:Circlet
+D7CE1E5B:Crown
+DA4B0082:A'nekshay Token
+D9536E78:Teardrop Crown
+D8264D27:Signet Crown
+DAE84F68:Upper Insatiable Eater Jaw
+D9863ACA:Teardrop Crown
+DA93D736:Shoyanen's Portal Gem
+DB8A206E:Upper Insatiable Eater Jaw
+820C464A:Frost Sceptre
+DC108D08:Trade Note (250,000)
+DCC4978F:Adept's Treasure Key
+DCC96B3C:Pyreal
+8187E7E1:Gold Shallows Shredder Fin
+8187E7E8:Gold Shallows Shredder Fin
+D5DFA53F:Tumerok Salted Meat
+DC2CBEB6:Weeping Wand
+889AD39B:Soul Staff
+DC55539A:Verdalim Plant
+DCC6494B:Mana Forge Key
+DCEFFC75:Diamond Powder
+DCCE4F14:Prismatic Taper
+D880837E:Orb of the Bunny Booty
+DAE53CE4:Acid Phyntos Wasp Essence (180)
+DAAB75DA:Fire Zombie Essence (180)
+DAE8D023:Fire Spectre Essence (180)
+DAE50FDD:K'nath B'orret Essence
+D96911B5:Volcanic Moar Essence
+DBDC1F82:Fire Moar Essence (100)
+DC44DFDB:Lyceum Hood
+DCF4CB03:Prismatic Taper
+D9E33BED:Slice of Royal Wedding Cake
+A9BC8078:Frost Baton
+D8ABBC51:Ancient Mhoire Coin
+DD2A49F3:Titan Mana Charge
+DA7D9123:Asheron's Lesser Benediction
+DAEC760C:Chalice
+DCF4D1BE:Prismatic Taper
+DAEC7614:Crown
+DD2A49F6:Titan Mana Charge
+DB05CE57:Signet Crown
+DA660E42:Globe of Auberean
+D0A78EE9:Branith's Staff
+DA4BF7D6:Aerbax's Defeat
+D8D32B5E:Acid Sceptre
+DD0CB609:Bow of the Fallen
+DBA75029:Encapsulated Spirit
+DD2A4C35:Titan Mana Charge
+DBB9DAF0:Honeyed Mana Mead
+DBB52C78:Celdiseth's Portal Gem
+DBD0DCB7:Modified Taulandoi
+D6314011:Focusing Stone
+D8B78080:Diamond Scarab
+DC0A43A5:Heart of the Innocent
+82D469E8:Blunt Baton
+CFE32AFA:Lead Scarab
+DC2E0ADF:Atlan Wand
+DCB2632F:Lightning Knife
+DAE5D5CD:Lightning Skeleton Bushi Essence (180)
+DC6F2FD2:Chorizite
+DCA1B441:Empowered Amber: Bracers of Life
+DCAFF45F:Viamontian Pants
+DD2A4C3E:Titan Mana Charge
+DCD30633:Society Gem of Dispelling
+DD2A4C43:Titan Mana Charge
+DCD44C65:Small Shard
+DCD2620E:Society Gem of Dispelling
+DD2A4C4F:Titan Mana Charge
+84660BE7:Ancient Falatacot Trinket
+84660BE6:Ancient Empyrean Trinket
+DA432483:Aged Legendary Key
+D6D3459B:Ring
+D8B79A62:Imbue Swap Coin
+D8E31070:Flared Pants
+D8CA94EF:Stocking Cap
+D8C1F7A5:Baron's Amulet of Life Giving
+808C3029:Ultimate Singularity Scepter of War Magic
+DCE349B8:Olthoi Ripper Reducer Plaque
+DCF19067:Mud Golem Heart
+DCDA71C1:Pyreal Nugget
+8579DB74:Virindi Mask
+D8E153B8:Blunt Bow
+DA4A46ED:Head of the Homunculus
+DD2A4D34:Titan Mana Charge
+DA655938:Exarch Plate Coat
+DA6672CB:Exarch Plate Leggings
+DCD30643:Salvage (14)
+DD2A4C5C:Titan Mana Charge
+DCCC341C:Zefir's Crystal
+DCFB9AF8:Thorsten's Crystal
+DCFBA346:Ben Ten's Crystal
+DD0CB60A:Sezzherei's Lair
+820BC2CB:Helm of Isin Dule
+DCD616BE:Trade Note (100,000)
+DB07F7F3:Frost Bow
+DD2A4C73:Titan Mana Charge
+B674A7C5:Corrupted Amber: Weapon of the Corrupted Heart.
+BAA29991:Empowered Amber: Breastplate of Life
+D8D57E17:Cestus
+D8CFFA58:Four of Hands
+D8D7880B:Acid Compound Bow
+D8E798CA:Acid Slingshot
+D8E753FC:Acid Tachi
+D8E762C9:Piercing Crossbow
+DA69A6B4:Exarch Plate Girth
+D3DB74C8:Dodger's Crystal
+D8DFBDA4:Evader's Crystal
+D8B7F6C8:Scholar's Crystal
+DB0141A9:Smithy's Crystal
+DB35A590:Pearl of Blood Drinking
+80A83F10:Tinker's Crystal
+80A83F0C:Tinker's Crystal
+AA82C8F1:Staff
+DD2A4CCF:Massive Mana Charge
+DD2A4D14:Massive Mana Charge
+DD2A4D35:Titan Mana Charge
+DD2A4D36:Titan Mana Charge
+DD2A4D3A:Titan Mana Charge
+
+Missing Exports - Possessed items that were not found:

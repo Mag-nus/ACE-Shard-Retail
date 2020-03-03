@@ -1,0 +1,166 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\randompktlogs\pkt_2017-1-30_1485833480_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\randompktlogs\pkt_2017-1-30_1485833480_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\randompktlogs\pkt_2017-1-30_1485833480_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\randompktlogs\pkt_2017-1-21_1485054358_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\randompktlogs\pkt_2017-1-30_1485832105_log.pcap
+
+Partial Exports - Missing appraisal info:
+C64A1AC9:Pyreal
+C64D5049:Ust
+C64D502F:Prismatic Taper
+C64D5079:Lead Scarab
+C64D5051:Handy Healing Kit
+C64D5040:Letter From Home
+C64D509E:Eviscerator Head
+C64D5084:Lead Pea
+C64D508C:Iron Pea
+C64D506D:Some Changes for February 2012
+C64D5065:Wide Breeches
+C64D5077:Red Monster Seed
+C64D505C:The Temple of Enlightenment
+C64D507E:Pack Burun Kukuur
+C64D50F5:Dereth Map
+C64D50B9:Sturdy Iron Key
+C64D50EE:Sturdy Iron Key
+C64D50E2:White Jewel
+C647D4F3:Arcane Pedestal
+C64D50D9:Sturdy Iron Key
+C64D50B5:Salvage (100)
+C64D50C7:Salvage (100)
+C64D50BE:Salvage (100)
+C64D50A2:Salvage (100)
+C64A1DC1:Diamond Heart
+C64A1DD7:Salvage (100)
+C64D50CC:Salvage (100)
+C64D5085:Salvage (100)
+C64D50B4:Salvage (100)
+C64D50F9:Sturdy Steel Key
+C64D50C6:Salvage (100)
+C64D50BD:Salvage (100)
+C64D50B0:Salvage (100)
+C64D50AF:Salvage (100)
+C64D50E1:Sturdy Steel Key
+C64D50AE:Salvage (100)
+C64D50AD:Salvage (100)
+C6473484:Sturdy Iron Key
+C64D50AC:Salvage (100)
+C64D50AB:Salvage (100)
+C64D50C1:Sturdy Iron Key
+C64D50AA:Salvage (100)
+C64D50A9:Salvage (100)
+C64D50F8:Sturdy Iron Key
+C64D50A8:Salvage (100)
+C64D50A7:Salvage (100)
+C64D50FA:Some Changes for February 2012
+C64D50A1:Salvage (100)
+C64D50D4:Salvage (100)
+C64A1DC2:Atuakeh Plant
+C64D50CB:Salvage (100)
+C64D50B3:Salvage (100)
+C64D5107:Coral Heart
+C64D50C5:Salvage (100)
+C64D50BC:Salvage (100)
+C6482BF5:Gold Shallows Shredder Fin
+C649890E:Salvage (100)
+C64D50D3:Salvage (100)
+C64D50D6:Gold Shallows Shredder Fin
+C64D50EC:Salvage (100)
+C64D50E4:Salvage (100)
+C64D50CD:Diamond Powder
+C64D50CA:Salvage (100)
+C64D33C4:Salvage (100)
+C64D33C3:Salvage (100)
+C64D50B2:Salvage (100)
+C64D50DE:Gold Shallows Shredder Fin
+C64D50C4:Salvage (100)
+C64A1DC3:Salvage (100)
+C64D511F:Gold Shallows Shredder Fin
+C64D50DB:Salvage (100)
+C64D50D2:Salvage (100)
+C64D5106:Gold Shallows Shredder Fin
+C64D50BB:Salvage (100)
+C64D50EB:Salvage (100)
+C64D50E3:Salvage (100)
+C64D50C9:Salvage (100)
+C64D50B1:Salvage (100)
+C64D50EF:Salvage (100)
+C64D50DA:Salvage (100)
+C64D50C3:Salvage (100)
+C64D5128:Gold Shallows Shredder Fin
+C64D50BA:Salvage (100)
+C64D50D1:Salvage (100)
+C64D50D0:Pyreal Mote
+C64A1CCC:Salvage (100)
+C64D50D8:Salvage (100)
+C64D50CF:Salvage (100)
+C64D5103:Sturdy Iron Key
+C64D50E8:Salvage (100)
+C64D50E0:Salvage (100)
+C64D50F2:Sturdy Iron Key
+C64A14A0:Salvage (100)
+C6446094:Salvage (100)
+C64D5113:Sturdy Iron Key
+C64D50D7:Salvage (100)
+C64D50FE:Salvage (100)
+C64D50FD:Salvage (100)
+C64D50FC:Salvage (100)
+C64D511E:Salvage (100)
+C64D5105:Salvage (100)
+C644B2F6:Salvage (100)
+C64D5115:Salvage (100)
+C64D510D:Salvage (100)
+C64D50F4:Salvage (100)
+C64D5127:Salvage (100)
+C64D511D:Salvage (100)
+C64D5104:Salvage (100)
+C649565D:Salvage (100)
+C64D5114:Salvage (100)
+C64D510C:Salvage (100)
+C64D50F3:Salvage (100)
+C64D5126:Salvage (100)
+C64D5130:Salvage (100)
+C64D5142:Salvage (100)
+C64D511C:Salvage (100)
+C64D510B:Salvage (100)
+C64D5149:Salvage (100)
+C64D5125:Salvage (100)
+C64D5141:Salvage (100)
+C64D512F:Candeth Keep Stamp
+C64D511B:Salvage (100)
+C64D5102:Salvage (100)
+C64D5112:Salvage (100)
+C64D510A:Salvage (100)
+C64D5148:Salvage (100)
+C64D5124:Salvage (100)
+C64D512E:Salvage (100)
+C64D511A:Salvage (100)
+C64D5140:Salvage (100)
+C64D5101:Salvage (100)
+C64D5111:Salvage (100)
+C64D5109:Salvage (100)
+C64D5147:Salvage (100)
+C64D5123:Salvage (100)
+C64D512D:Salvage (100)
+C64D513F:Salvage (100)
+C64D5119:Salvage (100)
+C64D5100:Salvage (100)
+C64D5108:Salvage (100)
+C64D5110:Salvage (100)
+C64EC56A:Salvage (100)
+C64EC56B:Salvage (100)
+C64EC56C:Salvage (100)
+C64EC56D:Salvage (100)
+C64EC56E:Salvage (100)
+C64EC56F:Salvage (100)
+C64EC570:Salvage (100)
+C64EC571:Salvage (100)
+C64EC572:Salvage (100)
+C64EC573:Salvage (100)
+C64EC574:Salvage (100)
+C64EC575:Salvage (100)
+C64EC576:Salvage (100)
+
+Missing Exports - Possessed items that were not found:

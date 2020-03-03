@@ -1,0 +1,165 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-31_1485860015_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-26_1485446587_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-27_1485525580_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-27_1485526705_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-29_1485680244_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-29_1485689297_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-30_1485772621_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-30_1485772746_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-30_1485799163_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-30_1485799672_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-31_1485853628_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-31_1485860015_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-2\pkt_2017-1-29_1485691343_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-2\pkt_2017-1-29_1485691343_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-2\pkt_2017-1-29_1485719823_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-2\pkt_2017-1-29_1485721162_log.pcap
+
+Partial Exports - Missing appraisal info:
+C475ADD5:Burning Sands Keyring
+C906819F:Burning Sands Keyring
+8009F113:Burning Sands Keyring
+CA79493B:Burning Sands Keyring
+CAB163B0:Burning Sands Keyring
+CB45AC2B:Burning Sands Keyring
+CB45A6C8:Burning Sands Keyring
+C480F6F6:Burning Sands Keyring
+CD7B8D73:Major Mana Stone
+CB1307E3:Major Mana Stone
+C849E1E1:Major Mana Stone
+CF72E491:Colosseum Backpack
+808064CF:Ust
+CA77963C:Major Mana Stone
+CD29930B:Platinum Medal of Intellect
+D31125B0:Blank Augmentation Gem
+8080645E:Lead Scarab
+C97250D2:Major Mana Stone
+8080646C:Yanshi Portal Gem
+8080646B:Samsur Portal Gem
+CB4086F9:Major Mana Stone
+8080646E:Rithwic Portal Gem
+80806462:Vissidal Island Portal Gem
+80806466:Sanamar Portal Gem
+8080646D:Celdiseth's Portal Gem
+8080645F:Iron Scarab
+80806463:Copper Scarab
+8080645D:Silver Scarab
+8080645C:Gold Scarab
+80806467:Pyreal Scarab
+80806461:Platinum Scarab
+CE348A61:Mana Scarab
+CD9F863F:Prismatic Taper
+CD9F864F:Prismatic Taper
+BC919493:Dark Monolith Caverns
+D70774CE:Prismatic Taper
+C8E528D3:Sezzherei's Lair
+CD72E796:Major Mana Stone
+D3207EEC:Nanto Portal Gem
+D3206006:Shoushi Portal Gem
+C94F0EB5:Major Mana Stone
+D31EFDA4:Yaraq Portal Gem
+D7A331EE:Prismatic Taper
+D7A32EE4:Massive Mana Charge
+D7A3304B:Massive Mana Charge
+CC04C4DA:Massive Mana Charge
+BF098067:Massive Mana Charge
+D88081DF:Massive Mana Charge
+A452C5D1:Massive Mana Charge
+C1E656EE:Massive Mana Charge
+A43B7CC2:Massive Mana Charge
+D88081E6:Massive Mana Charge
+D7A3311A:Massive Mana Charge
+BA302184:Massive Mana Charge
+D88081E0:Massive Mana Charge
+CD5D7379:Major Mana Stone
+CD68DEF4:Major Mana Stone
+CD72D894:Major Mana Stone
+CD72264C:Major Mana Stone
+CD71F35F:Major Mana Stone
+CD7B52C2:Major Mana Stone
+CB86B525:Major Mana Stone
+CB50DA97:Major Mana Stone
+CB4790AC:Major Mana Stone
+CD8290E7:Major Mana Stone
+CB4C130B:Major Mana Stone
+CD5ED3CA:Major Mana Stone
+C7418B62:Major Mana Stone
+CD721635:Major Mana Stone
+CDC9051B:Major Mana Stone
+CD624BAA:Major Mana Stone
+C365D418:Major Mana Stone
+CD829306:Major Mana Stone
+C976870D:Major Mana Stone
+CD98346B:Major Mana Stone
+CDC8F9EC:Major Mana Stone
+D2E52AAD:Massive Mana Charge
+BCD5790D:Exhumed Bones
+8080644B:Falatacot Battle Report
+8080644D:Black Coral Golem Chunk
+80806450:Supplies for Massilor
+80806455:Coruscating Olthoi Scent Gland
+80806451:Crystal of Perception
+B3C2F746:Crystals of Grace
+B3C33C85:Rock of Splendor
+B35265A2:Empyrean Sun Stone
+80806496:Brilliant Shard
+80806494:Inner Chamber Key
+BB9C14E1:Ornate Bone Key
+BFE1B0DA:Ornate Bone Key
+80806458:Aetheric Resonator
+80806476:Blackmoor's Favor
+80806475:Asheron's Lesser Benediction
+808064D1:Splitting Tool
+800DBDBE:Intricate Carving Tool
+C8249647:Barbed Fletching Tool
+808064D0:Deed
+80806448:Engraved A'nekshay Bracers
+8080644F:Mutated Olthoi Gland
+CF835EEA:Colosseum Coin
+D2FE296B:Society Gem of Dispelling
+CF745B15:Colosseum Backpack
+C7B65D46:Eldrytch Web Trade Token
+80806447:Dire Champion Token
+C6697F96:Ancient Mhoire Coin
+80806446:Jester's Token
+C786EE9D:Enhanced Black Fire Atlan Stone
+C75FDF6D:Black Fire Atlan Stone
+A74BC96C:Society Gem of Lesser Luminance
+C7B28617:Eldrytch Web Armor Writ
+8080644A:Prickly Pear
+D8644AF1:Pitted Slag
+80806454:Eldrytch Web Commendation Ribbon
+BFE363F7:A'nekshay Token
+80806449:Broken Stone Tablet
+8080648D:Quest Weapon Coin
+AF718676:Missile Defense Weapon Augmentation
+8080644C:Unstable Mana Stone
+CD9EE212:Silver Pea
+CBAABE42:Gold Pea
+80806490:Pyreal Pea
+C74880A3:Deck of Eyes
+80806444:Aligned Mana Stone
+80806453:Aetheria Mana Stone
+982B9CCE:Trade Note (250,000)
+D2F15031:Small Olthoi Venom Sac
+D83FA113:Stipend
+CA773086:Major Mana Stone
+CB563FA4:Major Mana Stone
+CD7C26E8:Major Mana Stone
+D864863A:Major Mana Stone
+D7FCFD7C:Major Mana Stone
+D75A1D21:Superb Mana Charge
+D7153367:Encapsulated Spirit
+D75A1C88:Superb Mana Charge
+D8611739:Infused Amber Shard
+D7161482:Superb Mana Charge
+D85D084E:Superb Mana Charge
+D7161453:Superb Mana Charge
+D7590655:Superb Mana Charge
+D75A1D1C:Superb Mana Charge
+D763F9CA:Lesser Corrupted Essence
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,214 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Tiderius-playthrough-early-level-pcap-2017-01\pkt_2017-1-14_1484425883_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\Tiderius-playthrough-early-level-pcap-2017-01\pkt_2017-1-2_1483413880_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Tiderius-playthrough-early-level-pcap-2017-01\pkt_2017-1-2_1483413880_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Tiderius-playthrough-early-level-pcap-2017-01\pkt_2017-1-2_1483413880_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Tiderius-playthrough-early-level-pcap-2017-01\pkt_2017-1-3_1483502830_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Tiderius-playthrough-early-level-pcap-2017-01\pkt_2017-1-3_1483504905_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Tiderius-playthrough-early-level-pcap-2017-01\pkt_2017-1-4_1483599347_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Tiderius-playthrough-early-level-pcap-2017-01\pkt_2017-1-4_1483599347_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Tiderius-playthrough-early-level-pcap-2017-01\pkt_2017-1-5_1483604912_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Tiderius-playthrough-early-level-pcap-2017-01\pkt_2017-1-5_1483604912_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Tiderius-playthrough-early-level-pcap-2017-01\pkt_2017-1-6_1483733336_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Tiderius-playthrough-early-level-pcap-2017-01\pkt_2017-1-6_1483741951_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Tiderius-playthrough-early-level-pcap-2017-01\pkt_2017-1-6_1483748069_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Tiderius-playthrough-early-level-pcap-2017-01\pkt_2017-1-6_1483751674_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Tiderius-playthrough-early-level-pcap-2017-01\pkt_2017-1-6_1483769350_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Tiderius-playthrough-early-level-pcap-2017-01\pkt_2017-1-6_1483769351_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Tiderius-playthrough-early-level-pcap-2017-01\pkt_2017-1-6_1483769720_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Tiderius-playthrough-early-level-pcap-2017-01\pkt_2017-1-8_1483902288_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Tiderius-playthrough-early-level-pcap-2017-01\pkt_2017-1-8_1483902342_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Tiderius-playthrough-early-level-pcap-2017-01\pkt_2017-1-9_1483960333_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Tiderius-playthrough-early-level-pcap-2017-01\pkt_2017-1-9_1484034744_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Tiderius-playthrough-early-level-pcap-2017-01\pkt_2017-1-11_1484203349_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Tiderius-playthrough-early-level-pcap-2017-01\pkt_2017-1-11_1484206044_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Tiderius-playthrough-early-level-pcap-2017-01\pkt_2017-1-1_1483339795_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Tiderius-playthrough-early-level-pcap-2017-01\pkt_2017-1-10_1484061622_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Tiderius-playthrough-early-level-pcap-2017-01\pkt_2017-1-10_1484062492_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Tiderius-playthrough-early-level-pcap-2017-01\pkt_2017-1-10_1484065178_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Tiderius-playthrough-early-level-pcap-2017-01\pkt_2017-1-10_1484065962_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Tiderius-playthrough-early-level-pcap-2017-01\pkt_2017-1-10_1484108043_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Tiderius-playthrough-early-level-pcap-2017-01\pkt_2017-1-2_1483389662_log.pcap
+
+Partial Exports - Missing appraisal info:
+DB0A2BBA:Pyreal
+DA72C7F2:Ust
+DA72C7FF:Letter From Home
+DB088CE6:Pyreal
+DA72C800:Bread
+DAF10E0B:Restoring the Training Academies
+DA72C7F9:Bundle of Arrowshafts
+DA72C7FA:Bundle of Arrowheads
+DA8A0652:Iron Ore
+DB06D1CA:Bundle of Prismatic Arrowheads
+DB065A21:Bundle of Arrowshafts
+DB0B5563:Wrapped Bundle of Arrowshafts
+DA0DFA60:Crimped Hat
+DB0B558A:Wrapped Bundle of Prismatic Arrowheads
+DB59A728:Bundle of Deadly Prismatic Arrowheads
+D79228E6:Blunt Compound Bow
+CA10570F:Piercing Bow
+CA40B68A:Fire Bow
+D5247121:Acid Bow
+D8C106C3:Frost Crossbow
+D947EBEF:Electric Compound Crossbow
+DA0DFA45:Dapper Suit
+DB0453F0:A Small Mnemosyne
+DB089DAA:Letter to Bretself the Translator
+DAD1C0C2:A Crumpled Letter
+DB0AC3BE:Aphus Lassel Portal Gem
+DB20F88C:Stipend
+DAF50A8B:Sturdy Iron Key
+DAF50A5E:Sturdy Iron Key
+DB09B0DA:Sturdy Iron Key
+DAFC56EE:Small Sclavus Hide
+DABCD6F6:Tusker Spit
+DB045365:Skeleton's Skull
+DAEBD284:Drudge Charm
+DB205EBC:Olthoi Claw
+DAEBCB44:Swamp Stone
+DB085121:Olthoi Ichor
+DB21C74E:Copper Heart
+DB21C6EE:Obsidian Heart
+DB1991B0:Fire Auroch Horn
+DB59E0DB:Deed
+DAE9B493:Undead Thighbone
+DB582608:Broken Virindi Mask
+DB07D6C6:Sturdy Iron Key
+C3AE785B:Trade Note (250,000)
+DAA1A5AC:Ash Gromnie Tooth
+DB2917C1:Lucky Gold Letter
+DB2D8A57:Lucky Gold Letter
+DB553228:White Jewel
+DBC41A01:Prismatic Taper
+DBC419AC:Platinum Scarab
+DB22B24B:Treated Healing Kit
+DB20AE1E:Treated Healing Kit
+DB22B21B:Treated Healing Kit
+DB20ADFF:Treated Healing Kit
+DB1E5F3E:Treated Healing Kit
+DB1D71F8:Treated Healing Kit
+DB08C8D8:Treated Healing Kit
+DB076556:Treated Healing Kit
+DB22B2E7:Treated Healing Kit
+DB22B2E6:Treated Healing Kit
+DB039E81:Treated Healing Kit
+DB09A712:Treated Healing Kit
+DB091FA7:Treated Healing Kit
+DB091F9E:Treated Healing Kit
+DB0594D4:Treated Healing Kit
+DB039C79:Treated Healing Kit
+DAFF8A2C:Treated Healing Kit
+DAF98D51:Treated Healing Kit
+DB09A456:Treated Healing Kit
+DB086578:Treated Healing Kit
+DB099FD2:Treated Healing Kit
+DB0AB107:Treated Healing Kit
+DAF86DC0:Treated Healing Kit
+DB59A8B4:Chainmail Leggings
+DB5A7B44:Chainmail Girth
+DB59A7C5:Studded Leather Boots
+DB0AAE20:Treated Healing Kit
+DB07277A:Treated Healing Kit
+DB09A40D:Treated Healing Kit
+DB09A0CF:Treated Healing Kit
+D9204157:Massive Mana Charge
+D901A349:Massive Mana Charge
+D9203F2C:Massive Mana Charge
+DB5AD0EA:Copper Golem Essence
+DB09A61B:Treated Healing Kit
+DB09A5AE:Treated Healing Kit
+80333C1B:Pyreal Nugget
+800B3A09:Pyreal Mote
+DB587440:Invitation Plateau
+DB5585E8:Blue Jewel
+DB553E5C:White Jewel
+DB38BB75:Virindi Singularity Key
+DB536926:Virindi Master Key
+DB5A40F3:Virindi Singularity Key
+DB54AFEC:Greater Mana Stone
+DB55596B:Greater Mana Stone
+DB560DF1:Obsidian Shard
+DAE75FD2:Adept Healing Kit
+DAEBD320:Encapsulated Spirit
+DAE9B97A:Coalesced Mana
+DAF350F0:Little Green Seeds
+DB05ACFF:A Small Mnemosyne
+DAF50B4D:Salvage
+DAF50B05:Salvage
+DB030D35:Note from Mi Krau-Li
+DB0A199F:Journal of Frest Greelving
+DB0B041A:Foci of Artifice
+DB03657B:Dansha-Ki's Gem of Portal Recall
+DB08C941:Gem of Purity
+DB2D8C51:Scarlet Red Letter
+DB18DC2C:Salvage (4)
+DB21F98F:Salvage (6)
+DB21CB28:Iron Pea
+DB0AF3A2:Coalesced Mana
+DB12924E:Gem
+DB18DA54:Scroll of Nether Streak VII
+DB21DA39:Copper Pea
+DB1EC0D5:Ruminations and Warnings on Portal Creation
+819C480B:Sturdy Steel Keyring
+DB38D18B:Salvage (100)
+DB37EFA4:Salvage (24)
+DB100495:Salvage (100)
+DB18E872:Silver Pea
+DB1404ED:Salvage (100)
+DB11A7D5:Stamina Tonic
+DB2D8BDD:Scarlet Red Letter
+DB329EA2:Gem
+DB2B97FA:Tusker Guard Tusk
+81987E3E:Diamond Heart
+DB589381:Sturdy Iron Key
+DB589685:Flaming Jo
+DB589383:Sturdy Iron Key
+DB58980A:Coalesced Mana
+DB58FBE1:Swamp Stone
+DB58FBEF:Jungle Phyntos Wasp Wing
+DB548A37:Ruined Amulet of Heavy Weapons
+DB4F6741:Ravener Guts
+DB36DC94:Dark Shard
+DB4D3818:Fire K'nath Essence (50)
+DB46FE4D:Frost Baton
+DB4901F0:Gold Pea
+DB553A4C:Virindi Directive Key
+DB52E9AC:Yellow Jewel
+DAE9AB5E:Wand
+DB4C249A:Invitation to Master Fletchers
+DB5640D3:Sturdy Iron Key
+DB5374EC:Gem
+DB53801A:Gem
+DB564D63:Gem
+DB565345:Gem
+DB563BEF:Sturdy Iron Key
+DB505A32:Dire Champion Token
+DB536AF5:Blue Jewel
+DB55733B:Lucky Gold Letter
+DB55B29C:Gem
+DB5599A7:Mystic Drudge Charm
+DAB1F688:Major Mana Stone
+DB559FA3:Fire K'nath Essence (125)
+DB5AD0DA:Copper Golem Essence
+DB5A39E9:Candy Corn
+DB1E7FCA:Gem
+D95B7866:Wand
+DA73351E:Pyreal Bar
+DB8D2800:Tiny Shard
+D9CC89F9:Fortified Mana Forge Key
+D3B5624E:Staff
+DBC43BC3:Scarlet Red Letter
+D3263B05:Trade Note (250,000)
+DBC41C0A:Town Network Portal Gem
+DBC41B8A:Shoyanen's Portal Gem
+DBC41A63:Splitting Tool
+DBACA70E:A Note From Ciandra
+DBC419DD:Hyssop
+DBBF0EA4:The Temple of Enlightenment
+DBB12435:Token of Modification
+DB59AC52:Deadly Prismatic Arrow
+
+Missing Exports - Possessed items that were not found:

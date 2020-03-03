@@ -2,9 +2,6 @@ Source:
 C:\ACEmulator\Logs Unpacked\01-31-2017\Uncle-P-Leafcull-Singular-Rep-Blighted-Moarsman-Tunnels-Low-Level-Zaikal\pkt_2017-1-31_1485846179_log.pcap
 
 Alternate sources:
-C:\ACEmulator\Logs Unpacked\01-31-2017\Uncle-P-Leafcull-1-26-2017-Vesayen-Dark-Mosswart-Hall-Kara-Kryst\pkt_2017-1-24_1485240095_log.pcap
-C:\ACEmulator\Logs Unpacked\01-31-2017\Uncle-P-Leafcull-1-26-2017-Vesayen-Dark-Mosswart-Hall-Kara-Kryst\pkt_2017-1-25_1485399297_log.pcap
-C:\ACEmulator\Logs Unpacked\01-31-2017\Uncle-P-Leafcull-1-26-2017-Vesayen-Dungeons-Partial\pkt_2017-1-25_1485402970_log.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\Uncle-P-Leafcull-1-28-2017-Marae-Outer-Ring-Run-Ahurenga-Martinate-Holding-Empyrean-Mansion-Dark-Lair-Freehold\pkt_2017-1-27_1485566475_log.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\Uncle-P-Leafcull-1-28-2017-Marae-Outer-Ring-Run-Ahurenga-Martinate-Holding-Empyrean-Mansion-Dark-Lair-Freehold\pkt_2017-1-28_1485580339_log.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\Uncle-P-Leafcull-1-28-2017-Marae-Outer-Ring-Run-Ahurenga-Martinate-Holding-Empyrean-Mansion-Dark-Lair-Freehold\pkt_2017-1-28_1485586854_log.pcap
@@ -16,6 +13,9 @@ C:\ACEmulator\Logs Unpacked\01-31-2017\Uncle-P-Leafcull-Singular-Rep-Blighted-Mo
 C:\ACEmulator\Logs Unpacked\01-31-2017\Uncle-P-Leafcull-Singular-Rep-Blighted-Moarsman-Tunnels-Low-Level-Zaikal\pkt_2017-1-31_1485843637_log.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\Uncle-P-Leafcull-1-26-2017-Blue-Red-Green-Spire-Timaru\pkt_2017-1-26_1485489706_log.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\Uncle-P-Leafcull-1-26-2017-Vesayen-Dark-Mosswart-Hall-Kara-Kryst\pkt_2017-1-23_1485221995_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Uncle-P-Leafcull-1-26-2017-Vesayen-Dark-Mosswart-Hall-Kara-Kryst\pkt_2017-1-24_1485240095_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Uncle-P-Leafcull-1-26-2017-Vesayen-Dark-Mosswart-Hall-Kara-Kryst\pkt_2017-1-25_1485399297_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Uncle-P-Leafcull-1-26-2017-Vesayen-Dungeons-Partial\pkt_2017-1-25_1485402970_log.pcap
 
 Partial Exports - Missing appraisal info:
 80418205:Prismatic Taper

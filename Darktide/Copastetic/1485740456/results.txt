@@ -1,0 +1,250 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\DataLog\DataLog\pkt_2017-1-29_1485738449_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\DataLog\DataLog\pkt_2017-1-28_1485646413_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\DataLog\DataLog\pkt_2017-1-29_1485738449_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\DataLog\DataLog\pkt_2017-1-29_1485738449_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\DataLog\DataLog\pkt_2017-1-29_1485738449_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\DataLog\DataLog\pkt_2017-1-23_1485229823_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\DataLog\DataLog\pkt_2017-1-23_1485229823_log.pcap
+
+Partial Exports - Missing appraisal info:
+805BDC0C:Iron Scarab
+805BDC0D:Copper Scarab
+805BDC0E:Silver Scarab
+805BDC0F:Lead Scarab
+805BDC10:Asheron's Lesser Benediction
+805BDC11:Blackmoor's Favor
+805BDC13:Heart of the Innocent
+805BDC12:Quest Weapon Coin
+805BDC14:Gold Scarab
+805BDC17:Encrusted Bloodstone Jewel
+805BDC18:Sezzherei's Lair
+805BDC19:Sezzherei's Lair
+805BDC1E:Paradox-touched Olthoi Egg
+805BDC1A:Sezzherei's Lair
+805BDC1B:Society Gem of Dispelling
+D04A0BDB:Pyreal
+805BDC1C:Society Gem of Dispelling
+805BDC1D:Society Gem of Dispelling
+805BDC1F:Fadsahil's Portal Gem
+805BDC23:Letter from Mouf
+805BDBF6:Chorizite
+D5CE8543:Aged Legendary Key
+D5CE8544:Aged Legendary Key
+D5CE853B:Aged Legendary Key
+D5CE88C7:Aged Legendary Key
+805BDBF5:Chorizite
+805BDC02:Heavy Bracelet
+8004A50B:Salvage (100)
+AC7D0934:Massive Mana Charge
+C9CBF4A6:Massive Mana Charge
+CAF16AAF:Massive Mana Charge
+C49847F9:Massive Mana Charge
+D4A43FEE:Massive Mana Charge
+D5CE8809:Aged Legendary Key
+D5CE8814:Aged Legendary Key
+B498EB95:Massive Mana Charge
+B498EBAE:Massive Mana Charge
+B498EBB1:Massive Mana Charge
+B498EBA3:Massive Mana Charge
+C6F4ED33:A Large Mnemosyne
+C6F5856A:A Large Mnemosyne
+D05032DF:A Large Mnemosyne
+805BDC57:Pyreal Scarab
+8004A50A:Salvage (100)
+80A3581D:Encapsulated Spirit
+805ADAEF:Aetheria
+805BDC22:Nether-attuned Rynthid Tentacle Wand
+80C1A11F:Colosseum Coin
+848D4211:Blank Augmentation Gem
+8ED71904:Celdiseth's Portal Gem
+805BDC27:Brown Taper
+A587AF40:Empowered Helm of the Perfect Light
+C6F5856B:Seal
+C6AEEED5:Armor Tailoring Kit
+C7508FC0:Honeyed Life Mead
+C6AEE769:Armor Main Reduction Tool
+C6AEE99A:Armor Main Reduction Tool
+D4A91087:Massive Mana Charge
+B1303932:Coronet
+8C1B79C4:Teardrop Crown
+BE8EEC4C:Signet Crown
+C6492BF6:Signet Crown
+84FD9E4D:Diadem
+84FD967C:Signet Crown
+84FD9E4F:Circlet
+A439FB21:Diadem
+A61CE689:Crown
+98D9209E:Circlet
+C13BF6B8:Diadem
+A45E492B:Circlet
+D03CA255:Massive Mana Charge
+D03CAF22:Massive Mana Charge
+C48C7BAA:Massive Mana Charge
+B996D922:Massive Mana Charge
+CFEA26C3:Massive Mana Charge
+D2C27A3B:Massive Mana Charge
+D4C70C66:Massive Mana Charge
+C1E99C70:Massive Mana Charge
+D03D71D2:Black Coral
+D4CADA15:Massive Mana Charge
+D122A970:Massive Mana Charge
+805BDC88:Pack
+C1C8068C:Crown
+B9AED0B7:Diadem
+91415CEA:Crown
+C870E858:Teardrop Crown
+C8F03135:Crown
+C8EBDAFF:Circlet
+964E889E:Massive Mana Charge
+BE52B980:Massive Mana Charge
+D4C34BD2:Massive Mana Charge
+D4C70AE2:Massive Mana Charge
+81A4F66B:Bandana
+819C4E2E:Bandana
+C942F1F3:Massive Mana Charge
+BCACABA6:Massive Mana Charge
+D0404D3A:Massive Mana Charge
+CAE09EA6:Stipend
+C6AEE71B:Armor Layering Tool (Bottom)
+C94447D7:Massive Mana Charge
+CC1C8B61:Massive Mana Charge
+D63C08A1:Massive Mana Charge
+CB2466DB:Massive Mana Charge
+A56748F0:Massive Mana Charge
+C9CBF4A9:Massive Mana Charge
+880AD587:Foci of Strife
+A97296E9:Brown Society Locket
+805BDC43:Rytheran's Jeweled Ring
+C59571FA:Corrupted Amber: Pauldrons of the Corrupted Heart.
+881CF059:Ring
+C5B5FC1E:Greater Mukkir Slayer Stone
+C5D8EDA7:Armor Layering Tool (Top)
+C5B5FC24:Greater Mukkir Slayer Stone
+C5E64B8D:Brown Society Locket
+CBDBE129:Massive Mana Charge
+C638BEF2:Celdiseth's Portal Gem
+C638BEE8:Celdiseth's Portal Gem
+C638BEFA:Holtburg Portal Gem
+805BDC00:Platinum Scarab
+8B7A84C8:Green Empyrean Ring
+805BDBFD:Yellow Empyrean Ring
+805BDBFF:Celestial Hand Stronghold Portal Gem
+805BDC47:Lord Cynreft's Ancient Emblem of Mhoire
+9D6989E1:Shattered Aetherium Core Sample
+805BDC45:Carapace Shard
+805BDC42:Spectral Amber Shard
+801615E4:Acid Sceptre
+80161523:Virindi Consul Essence
+80161606:Blunt Sceptre
+80161529:Chorizite
+805BDC41:Diamond Scarab
+805BDC3E:Society Gem of Dispelling
+C8FD8877:Signet Crown
+C7C2DEF3:Massive Mana Charge
+CFC3CFD7:Massive Mana Charge
+9A83275C:Massive Mana Charge
+81A4F663:Shoes
+CAFF4C73:Massive Mana Charge
+D6A90057:Massive Mana Charge
+911012C8:Massive Mana Charge
+C52DA484:Massive Mana Charge
+D736778A:Massive Mana Charge
+D6E95863:Massive Mana Charge
+D6A883ED:Massive Mana Charge
+D78A4D54:Massive Mana Charge
+D7755476:Massive Mana Charge
+D7754646:Massive Mana Charge
+D0404D3B:Massive Mana Charge
+B498EB9A:Massive Mana Charge
+CA06C79B:Massive Mana Charge
+CB1410A7:Massive Mana Charge
+D28377F6:Massive Mana Charge
+AA463BC5:Massive Mana Charge
+D4A44395:Massive Mana Charge
+B498EB9C:Massive Mana Charge
+D4C81703:Massive Mana Charge
+8001D2D3:Massive Mana Charge
+D73640F0:Massive Mana Charge
+CA0E618A:Massive Mana Charge
+C6CEDDF5:Platemail Gauntlets
+98DA579A:Diadem
+C475A903:Massive Mana Charge
+83F2EE54:Massive Mana Charge
+CFE1140F:Massive Mana Charge
+D5C2F3C9:Titan Mana Charge
+D5C2F3D0:Titan Mana Charge
+D5A0EE73:Titan Mana Charge
+C77E56F9:Chainmail Greaves
+C8F0ABFF:Teardrop Crown
+C9372FC0:Coronet
+847B5636:Invitation to Master Fletchers
+90B53CFE:Massive Mana Charge
+B498EBB6:Massive Mana Charge
+BDD96A1A:Massive Mana Charge
+D7754D56:Massive Mana Charge
+C7575F28:Massive Mana Charge
+905B18B7:Massive Mana Charge
+C715736C:Massive Mana Charge
+C62373A5:Massive Mana Charge
+CCDDFE3A:Massive Mana Charge
+CAFF4CA2:Massive Mana Charge
+81C4199F:Heavy Necklace
+C9A0F28A:Encapsulated Spirit
+CB781B6C:Plentiful Healing Kit
+C930F5B5:Ancient Falatacot Trinket
+C8E49AAB:Encapsulated Spirit
+D03D4F8D:Lugian Commander's Insignia
+A7116013:Gem of Greater Luminance
+C9EA7128:Noble Relic Leggings of Health
+D03E1270:Renegade Herbal Kit
+C4DD3BFA:Crown
+D038D959:Ancient Mhoire Coin
+D0404A6E:Renegade Herbal Kit
+D0375D64:Chainmail Breastplate
+D034259B:Stick
+D0404BE3:Renegade Herbal Kit
+D03F7D88:Enhanced Mana Elixir
+D03F7D60:Enhanced Health Elixir
+C71833A7:Prismatic Taper
+D04CAEBB:Lucky Gold Letter
+D04CB1F2:Tanada Clan Master's Medallion
+D04CBA39:Berimphur Plant
+D050F06D:Little Green Seeds
+D04FD453:Prismatic Taper
+D04FD433:Prismatic Taper
+D050F456:Warding Ring
+D0506EF5:Sake
+D04ABB7E:Pyreal Nugget
+D38C5920:Red Monster Seed
+B498FBEC:Ring
+D38C5309:Coronet
+D5C39DDA:Titan Mana Charge
+D5C2F3CE:Titan Mana Charge
+D4D8D8F3:Burning Coal
+D7167E73:Celestial Hand Trade Token
+D11C5942:Trade Note (10,000)
+D6D506D1:Holtburg Portal Gem
+D70A7A72:A'nekshay Token
+D70D1C40:Trade Note (250,000)
+D7172622:Aged Legendary Key
+D71726EE:Aged Legendary Key
+D7172695:Aged Legendary Key
+D7167E72:Celestial Hand Commendation Ribbon
+D7135BBE:Adventurer's Token
+8EECB763:Mana Scarab
+8004A4FA:Salvage (100)
+CCB0BBB7:Massive Mana Charge
+AA463B55:Massive Mana Charge
+C67A07C7:Massive Mana Charge
+C95E0D4E:Massive Mana Charge
+CBDA8642:Massive Mana Charge
+CBE39856:Massive Mana Charge
+C9CBF4AA:Massive Mana Charge
+C94303CB:Massive Mana Charge
+A9D2FC29:Massive Mana Charge
+D04FD422:Massive Mana Charge
+
+Missing Exports - Possessed items that were not found:

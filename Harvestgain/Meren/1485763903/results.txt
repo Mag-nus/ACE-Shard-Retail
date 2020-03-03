@@ -1,0 +1,54 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485763859_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-25_1485371656_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-29_1485718203_log.pcap
+
+Partial Exports - Missing appraisal info:
+8100FB7D:Foci of Enchantment
+8100FB4D:Foci of Artifice
+8100FB79:Lorica Gauntlets
+8100FA01:Diforsa Sollerets
+80FC34BD:Amuli Leggings
+8100F856:Chiran Coat
+8100FB4C:Ust
+8058304B:Heavy Bracelet
+80FC9442:Large Round Shield
+80FDDD20:Some Changes for February 2012
+8100FB7C:Blackmoor's Favor
+80FDE635:Blackmoor's Favor
+80FD8F70:Asheron's Benediction
+8D3CC285:Evil Couch
+80FC8DBC:Broad Sword
+80ED3D21:Light Weapons Specialist's Gauntlets
+811D27EA:Ursuin Head
+8100FB56:Crown
+80FECBA0:Coronet
+80FDCED7:Lead Scarab
+80FDD157:Prismatic Taper
+8100FB82:Silver Scarab
+80FDA2D0:Copper Scarab
+8100FB84:Iron Scarab
+8100FB83:Shoyanen's Portal Gem
+8100FB78:Platinum Scarab
+80FEE0C2:Pyreal Scarab
+8100FB8E:Gold Scarab
+8100FB8F:Splitting Tool
+80358307:Gem of Purity
+8100FB92:Pyreal
+8100FB8D:Foci of Verdancy
+8100FB85:Pyreal
+8100FB76:Dansha-Ki's Gem of Portal Recall
+8100FBE2:Dansha-Ki's Gem of Portal Recall
+80FCED04:Knuckles
+80FDE39F:Flaming Nekode
+8003EA8A:Pack Golem
+80FD2429:Nekode
+9A6BFA6C:Blank Augmentation Gem
+8100FB5E:Nekode
+B952682A:Blank Augmentation Gem
+C630F112:Blank Augmentation Gem
+C7FF612E:Stipend
+
+Missing Exports - Possessed items that were not found:

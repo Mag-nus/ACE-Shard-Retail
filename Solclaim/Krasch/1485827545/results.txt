@@ -1,0 +1,96 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485827527_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485825143_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485826315_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485827051_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-enlightenment\pkt_2017-1-20_1484971850_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-23_1485212422_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-24_1485300148_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-24_1485300449_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-24_1485301827_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-24_1485302021_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-29_1485680412_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485816405_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485824798_log.pcap
+
+Partial Exports - Missing appraisal info:
+9250278D:Colosseum Backpack
+8FBD109B:Aetheria Mana Stone
+9999900B:Pyreal
+80E8000C:Facility Hub Portal Gem
+9A0568C1:Renegade Herbal Kit
+93C9737F:Celdiseth's Portal Gem
+80EC7565:Virindi Consul Essence
+9932D0C2:Rage of Grael Gem
+9A0BB7D8:Celdiseth's Portal Gem
+9B01874E:Gem of Lesser Luminance
+937CAF68:Ust
+9B0192CC:Gem of Greater Luminance
+9995AA9C:Spirit of Izexi Gem
+8029C686:Colosseum Backpack
+9A7D9E1A:Silver Pea
+8F120379:Lightning K'nath Essence (180)
+97E56540:Blizzard Wisp Essence
+9ADE3521:Intricate Carving Tool
+9A0B89DC:Corrosion Wisp Essence
+98851D8B:Corrosion Wisp Essence
+80348024:Fire K'nath Essence (180)
+9A72CEB4:Encapsulated Spirit
+9A01BD68:Renegade Herbal Kit
+9A056E09:Renegade Herbal Kit
+9A056917:Renegade Herbal Kit
+9A05692E:Renegade Herbal Kit
+9A056919:Renegade Herbal Kit
+9A056918:Renegade Herbal Kit
+9A0425B8:Renegade Herbal Kit
+9A05692D:Renegade Herbal Kit
+9A042477:Renegade Herbal Kit
+9B124BC3:Galvanic Knight Essence
+9A01C347:Renegade Herbal Kit
+975CCC0B:Wrapped Bundle of Deadly Prismatic Arrowheads
+975C5BB6:Wrapped Bundle of Arrowshafts
+99D65D8C:Wrapped Bundle of Arrowshafts
+9A056EEB:Renegade Herbal Kit
+99D5A276:Wrapped Bundle of Deadly Prismatic Arrowheads
+99FB5FBC:Renegade Herbal Kit
+9B12F9EF:Prismatic Taper
+92502080:Colosseum Backpack
+90672F66:Renegade Herbal Kit
+9060EDD5:Renegade Herbal Kit
+97DE0C43:Renegade Herbal Kit
+933B7AB9:Gold Scarab
+9A0B95CC:Mana Scarab
+80ED22E9:Platinum Scarab
+9613C8F7:Copper Scarab
+80EFE6A6:Pyreal Scarab
+9A7CDFBC:Prismatic Taper
+909574DA:Platinum Scarab
+92FB638E:Mana Scarab
+99176F4F:Lead Scarab
+80ED245A:Silver Scarab
+80ED271F:Diamond Scarab
+99172C42:Iron Scarab
+99C245FD:Prismatic Taper
+987CF9B5:Chorizite
+8F1235D0:Mana Scarab
+925026C7:Colosseum Backpack
+95C6F8B1:Wrapped Bundle of Deadly Prismatic Arrowheads
+92156BFD:Greater Stamina Kit
+9918FECD:Hunter's Stock Amber
+95C3191C:Burning Coal
+9ADA3551:Amber Ape
+9B0BCD01:Platinum Spirits
+92FB6CD8:Colosseum Backpack
+9A06C206:Major Mana Stone
+9AFCCA54:Massive Mana Charge
+90152D83:Lesser Corrupted Essence
+9301985F:Colosseum Backpack
+9880B825:Trade Note (250,000)
+93677ABB:Trade Note (250,000)
+99D717B3:Promissory Note
+9B061965:Trade Note (250,000)
+99B5AA2D:Colosseum Backpack
+
+Missing Exports - Possessed items that were not found:

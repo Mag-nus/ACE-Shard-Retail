@@ -1,0 +1,52 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2-20170203071709\pkt_2017-1-30_1485786506_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps-20170203071513\pkt_2017-1-27_1485526251_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485766599_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2-20170203071709\pkt_2017-1-29_1485715909_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-26_1485460085_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-26_1485460085_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-27_1485518644_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-25_1485372631_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-26_1485447567_log.pcap
+
+Partial Exports - Missing appraisal info:
+811C3623:Pack Gaerlan
+8119399E:Pack Burun Kukuur
+811C361A:Pack Ancient Olthoi Queen
+811C3626:Pack Bael'Zharon
+811D284D:Pack Martine
+811C361D:Pack Asheron
+811D25A0:Oxidized Statue
+811CE665:Couch
+811CE666:Footstool
+811CE664:Gharu'ndim Lamp
+80FC8819:Bed
+810BA383:Book Shelf
+81162C3B:Book Shelf
+81163F9B:Couch
+8116C6C5:Hearth
+81160645:Ice Box
+811870B6:Fletching Table
+811C3D2E:Trunk of Bones
+811C34AF:Gharu'ndim Hanging Rug
+811CE568:Trunk of Bones
+811CE566:Treasure
+811D59D1:Font of Jojii
+811D2DE2:Replica of a Tursh Totem
+811C4562:Decorative Ursuin Head
+800BEAB0:Gharu'ndim Lamp
+811D59FF:The Hero
+810BF28A:The Hammer
+811798F3:Falling Leaves
+811C361B:Yard Balloons
+811C364E:The Studious Mind
+8119E94E:Map to Burun Lair
+811C3628:Bending Willow and Setting Sun
+811D2DF3:I survived the Tusker Emporium
+80093DFF:Strathelar Pennant
+811B5B60:Yard Balloons
+81169762:Wreath
+
+Missing Exports - Possessed items that were not found:

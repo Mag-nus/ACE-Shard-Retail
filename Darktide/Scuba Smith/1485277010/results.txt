@@ -1,0 +1,105 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-24_1485276848_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-24_1485272701_log.pcap
+
+Partial Exports - Missing appraisal info:
+D81E53BB:Shirt
+D81E53BC:Pants
+D81E53BD:Sack
+D81E53BE:Lead Scarab
+D81E53BF:Prismatic Taper
+D81E53C0:Copper Scarab
+D81E53C1:Ust
+D81E53C2:Foci of Artifice
+D81E53C3:Letter From Home
+D81E53C4:Blackmoor's Favor
+D81E53C5:Pathwarden Plate Hauberk
+D81E53C6:Pathwarden Plate Leggings
+D81E53C7:Pathwarden Gauntlets
+D81E53C8:Pathwarden Helm
+D81E53CA:Bracelet
+D81E53C9:Pathwarden Sollerets
+D81E53CB:Necklace
+D81E53CD:Shortbow
+D81E53CC:Academy Dirk
+D81E53CE:Adept Healing Kit
+D81E53CF:Adept Healing Kit
+D81E53D0:Tunic
+D81E53D1:Scroll of Finesse Weapon Mastery Self III
+D81E53D2:Adept Healing Kit
+D81E53D3:Acid Dirk
+D81E53D4:Adept Healing Kit
+D81E53D5:Adept Healing Kit
+D81E53D6:Foci of Verdancy
+D81E53D7:Training Wand
+D81E53D8:Poniard
+D81E53D9:Lancet
+D81E53DA:Circlet
+D81E53DB:Spada
+D81E53DC:A Small Mnemosyne
+D81E53DD:Sceptre
+D81E53DE:Sceptre
+D81E53DF:Frost Dirk
+D81E53E0:A Small Mnemosyne
+D81E53E1:Superior Helmet
+D81E53E2:Superior Helmet
+D81E53E3:Flaming Dirk
+D81E53E4:Poniard
+D81E53E5:Sollerets
+D81E53E6:Flaming Dirk
+D81E53E7:Ring
+D81E53E8:Iron Heart
+D81E53E9:Lead Pea
+D81E53EA:Circlet
+D81E53EB:A Large Mnemosyne
+D81E53EC:Kite Shield
+D81E53ED:White Phyntos Wasp Wing
+D81E53EE:A Small Mnemosyne
+D81E53EF:Acid Lancet
+D81E53F0:Circlet
+D81E53F1:Circlet
+D81E53F2:Steel Toed Boots
+D81E5402:Great Mana Charge
+D81E53F3:Crown
+D81E53F4:Doublet
+D81E53F5:Staff
+D81E53F6:Blue Jewel
+D81E53F7:Acid Lancet
+D81E53F8:Acid Lancet
+D81E53F9:Drudge Championship Belt
+D81E53FC:Flaming Dirk
+D81E53FA:Studded  Breastplate
+D81E53FB:Studded  Breastplate
+D81E5407:Pyreal
+D81E53FE:Silver Scarab
+D81E53FF:Platemail Hauberk
+D81E5403:Great Mana Charge
+D81E5400:Platemail Leggings
+D81E5401:Chainmail Hauberk
+D81E5408:Pyreal
+D81E5404:Great Mana Charge
+D81E5405:Great Mana Charge
+D81E5406:Pack
+D81E5409:Great Mana Charge
+D81E540A:Great Mana Charge
+D81E540B:Academy Wand
+D81E540C:Pack
+D81E540D:Pack
+D81E540E:Sturdy Iron Key
+D81E540F:Sturdy Iron Key
+D81E5410:Sturdy Iron Key
+D81E5411:Sturdy Iron Key
+D81E5412:Sturdy Iron Key
+D81E5413:Sturdy Iron Key
+D81E5414:Sturdy Iron Key
+D81E5415:Sturdy Iron Key
+D81E5416:Sturdy Iron Key
+D81E5417:Sturdy Iron Key
+D81E5418:Wand
+D81E5419:Frost Poniard
+D81E541A:Some Changes for February 2012
+D81E541B:Lancet
+
+Missing Exports - Possessed items that were not found:

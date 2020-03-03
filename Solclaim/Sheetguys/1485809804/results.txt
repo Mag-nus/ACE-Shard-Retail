@@ -1,0 +1,78 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-30_1485809572_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Mavness-02-01-2017-pcap\pcap\pkt_2017-1-16_1484622971_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Mavness-02-01-2017-pcap\pcap\pkt_2017-1-16_1484622971_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Mavness-02-01-2017-pcap\pcap\pkt_2017-1-16_1484622971_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Mavness-02-01-2017-pcap\pcap\pkt_2017-1-23_1485235072_log.pcap
+C:\ACEmulator\Logs Unpacked\Mag and Zach Logs\AC WireSharks\AC WireSharks\Boomah\Logging in as SheetGuys into Colo Lobby.pcapng
+C:\ACEmulator\Logs Unpacked\02-01-2017\Mavness-02-01-2017-pcap\pcap\pkt_2017-1-12_1484277002_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Mavness-02-01-2017-pcap\pcap\pkt_2017-1-12_1484278287_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Mavness-02-01-2017-pcap\pcap\pkt_2017-1-14_1484457360_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Mavness-02-01-2017-pcap\pcap\pkt_2017-1-24_1485269190_log.pcap
+
+Partial Exports - Missing appraisal info:
+880EF9E4:Adventurer's Token
+880C469F:Foci of Verdancy
+8810E344:Foci of Artifice
+8811A2EE:Foci of Enchantment
+880E9250:Platinum Scarab
+880E7097:Small Olthoi Venom Sac
+880ECDEC:Small Olthoi Venom Sac
+88119EDA:Coruscating Olthoi Scent Gland
+880EEBC1:Small Olthoi Venom Sac
+88119ECE:Small Olthoi Venom Sac
+8815BC52:Ancient Mhoire Coin
+880E7B53:Colosseum Coin
+8804D940:Small Olthoi Venom Sac
+8811A0A9:Iron Scarab
+880E5E9B:Silver Scarab
+880EEE33:Lead Scarab
+8811A169:Gold Scarab
+880E8796:Platinum Scarab
+880ED2B6:Lord Cynreft's Ancient Emblem of Mhoire
+8808882D:Blank Augmentation Gem
+8811A58A:Pristine Mana Shard
+9C7925D6:Prismatic Taper
+9C974ECF:Copper Scarab
+88119F07:Platinum Scarab
+880BA1CF:Trade Note (250,000)
+880BA8F8:Upper Insatiable Eater Jaw
+880E80A4:Paradox-touched Olthoi Egg
+880EF1CB:Ink of Conveyance
+8815BB86:Salvaged  (100)
+88090206:Pyreal
+88092C8D:Salvaged  (100)
+8811A59A:Salvaged  (100)
+88090D40:Black Coral Golem Chunk
+8809443C:Silver Pea
+8811A60A:Salvaged  (100)
+8811A58D:Glissnal Sleech Shell
+880BCD9F:Black Coral Golem Chunk
+880939C7:Ust
+8809579C:Gold Pea
+9C792594:Pyreal
+880C61DE:Black Coral Heart
+880F5778:Quill of Infliction
+880ED4D8:Pyreal Pea
+880EE44A:Salvaged  (100)
+880ED1C5:Salvaged  (100)
+9C975084:Prismatic Taper
+880EEEC6:Salvaged  (100)
+880A9790:Salvaged  (100)
+9C97507E:Prismatic Taper
+880EEFFD:Salvaged  (100)
+8815BFF7:Salvaged  (56)
+8815BFA0:Salvaged  (56)
+9C791762:Pyreal Pea
+9C974F70:Prismatic Taper
+9C61B680:Salvage (100)
+9C975050:Trade Note (250,000)
+9C974E43:Trade Note (250,000)
+88B900C8:Salvaged  (100)
+88B900A3:Salvaged  (100)
+88B34659:Salvaged  (100)
+88B900B7:Salvaged  (100)
+
+Missing Exports - Possessed items that were not found:

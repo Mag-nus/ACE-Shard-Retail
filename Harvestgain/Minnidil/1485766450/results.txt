@@ -1,0 +1,113 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485766404_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-27_1485515049_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-27_1485515049_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-27_1485526404_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-26_1485427639_log.pcap
+
+Partial Exports - Missing appraisal info:
+801AA436:Diadem
+801AB538:Ust
+801AA43C:Crown
+801AA432:Circlet
+801AA440:Teardrop Crown
+801AB521:Signet Crown
+801AA43E:Circlet
+801AA43B:Coronet
+801AA443:Coronet
+801AA43F:Teardrop Crown
+801AA446:Teardrop Crown
+89BD536C:Circlet
+801AA445:Diadem
+875174B1:Crown
+801AA43A:Coronet
+890D5509:Teardrop Crown
+801AA444:Heavy Bracelet
+801AA438:Signet Crown
+8A311508:Coronet
+801AA442:Circlet
+8A1B35FE:Signet Crown
+801AA439:Teardrop Crown
+B17FAFA8:Coronet
+B17B1F9B:Crown
+89BEBDEF:Coronet
+801AB522:Foci of Verdancy
+801AB523:Foci of Artifice
+801AB527:Iron Scarab
+801AB529:Silver Scarab
+801AB52A:Copper Scarab
+801AB52B:Pyreal Scarab
+801AB52C:Gold Scarab
+801AB52E:Platinum Scarab
+801AB52F:Aphus Lassel Portal Gem
+801AB534:Ornate Gear Marker
+801AB53F:Dansha-Ki's Gem of Portal Recall
+8D2D071A:Prismatic Taper
+801AB53A:Facility Hub Portal Gem
+801AB539:Blackmoor's Favor
+8E01B7B3:Colosseum Coin
+801AB53C:Gem of Purity
+801AB53E:Gem of Stillness
+928484B6:Deed
+8A94805C:Small Olthoi Venom Sac
+8E355032:Sho Gem of Worth
+8E9E7064:A'nekshay Token
+B18EF94B:Prismatic Taper
+801AB53B:Heavy Necklace
+B4F54079:Dire Champion Token
+801AB528:Splitting Tool
+801AB525:Faran Over-robe
+801AB540:Foci of Enchantment
+B4F37E10:Pyreal
+801AB536:Paradox-touched Olthoi Staff
+801ADB8A:Fire Spine Glaive
+B4F2119C:Pyreal
+8D50C41C:Ben Ten's Crystal
+B19228F8:Alchemist's Crystal
+8F630FC6:Moderate Mana Stone
+8F61BE48:Greater Mana Stone
+8E3B59B2:Moderate Mana Stone
+B4FAB29C:Greater Mana Stone
+B4F8A601:Major Mana Stone
+B4F8A4CD:Major Mana Stone
+B4FB5477:Major Mana Stone
+B8596CE1:Blank Augmentation Gem
+C80E35B4:Stipend
+80036E3C:Hollow Minion's Face
+801A48A2:Ice Badge
+82018A46:Fireworks
+807208B5:Holiday Feast
+B7232333:Monarch's Crystal
+801A4837:Holiday Lights
+801A48A3:Buckler
+8058303E:Coffin
+82018AB5:Fertilized Sundew
+807133F2:Doll House
+806CBBEF:Holiday Hearth
+80583040:Through the Portal Years
+82018AB0:Fertilized Pitcher Plant
+82018AAD:Font of Jojii
+8071C232:Ursuin Toy
+82018B07:Set Dinner Table
+807133F7:Decorative Bronze Statue
+80036E59:Caliginous Aegis
+82018AB7:Evil Couch
+807208B9:Pack T'thuun
+82018B06:Fertilized Fly Trap
+807133F5:Living Tome
+80036E6C:Elemental Master Robe
+815C048C:Tiki Torch
+8003EA84:Garden Drudge
+B110212C:Nekode
+801A65CC:Stick
+801AB3B0:Stick
+8003EA96:Ursuin Head
+801AB3B1:Frost Trident
+91212CDF:Electric Trident
+8575147F:Acid Cestus
+801AABCB:Frost Stick
+801A92A5:Wrapped Bundle of Arrowshafts
+
+Missing Exports - Possessed items that were not found:

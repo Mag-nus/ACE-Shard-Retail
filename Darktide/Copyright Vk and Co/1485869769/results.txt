@@ -1,0 +1,286 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-31_1485869588_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-29_1485691083_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-31_1485865219_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-31_1485865219_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-3\pkt_2017-1-31_1485867168_log.pcap
+
+Partial Exports - Missing appraisal info:
+870BB5ED:Blackmoor's Favor
+870BB307:Quest Weapon Coin
+BA9C2129:Pack
+C83D911E:Major Mana Stone
+AC82F41C:Massive Mana Charge
+A5603B25:Massive Mana Charge
+93FF1999:Massive Mana Charge
+BB2CFAC4:Massive Mana Charge
+BCCBF8C3:Massive Mana Charge
+BCCBF8C1:Massive Mana Charge
+BCCBF879:Massive Mana Charge
+BCCBF878:Massive Mana Charge
+BCCBF8C5:Massive Mana Charge
+B52F6131:Massive Mana Charge
+A74A7D14:Massive Mana Charge
+BB4F2F03:Massive Mana Charge
+80193170:Massive Mana Charge
+BB39341C:Massive Mana Charge
+8DE9A7C5:Massive Mana Charge
+CEBEDDD6:Massive Mana Charge
+D316529E:Massive Mana Charge
+D31650E7:Massive Mana Charge
+D31652A8:Massive Mana Charge
+C844B89B:Massive Mana Charge
+D1E815EE:Massive Mana Charge
+D3B4DE77:Massive Mana Charge
+D1700ECC:Massive Mana Charge
+D3B4DE7B:Massive Mana Charge
+BA9B60CF:Pack
+BB161855:Massive Mana Charge
+AD6173CC:Massive Mana Charge
+BAAD8979:Massive Mana Charge
+BB2CFABC:Massive Mana Charge
+97FA608E:Massive Mana Charge
+A88C6B50:Massive Mana Charge
+BADFE471:Massive Mana Charge
+BB2CFABB:Massive Mana Charge
+BAC0DC77:Massive Mana Charge
+BB2CFF8B:Massive Mana Charge
+91CA5D8A:Massive Mana Charge
+BAB3C9B2:Massive Mana Charge
+95CC1CE3:Massive Mana Charge
+9834EB32:Massive Mana Charge
+92F0C10C:Massive Mana Charge
+814592D8:Massive Mana Charge
+9BC43117:Massive Mana Charge
+A19F755A:Massive Mana Charge
+B722816B:Massive Mana Charge
+ABA1B470:Massive Mana Charge
+BB1E8DB7:Massive Mana Charge
+84814582:Massive Mana Charge
+BA6E0658:Massive Mana Charge
+BA6DF338:Massive Mana Charge
+BD0924BB:Shoushi Portal Gem
+BE7BE8FA:The Hero
+BE2DB0CF:Upper Insatiable Eater Jaw
+BF0B28EA:Upper Insatiable Eater Jaw
+BFD5A34C:Upper Insatiable Eater Jaw
+C092AF1E:Upper Insatiable Eater Jaw
+C094A88C:Deck of Eyes
+C365D6A7:Upper Insatiable Eater Jaw
+C3FF9673:Upper Insatiable Eater Jaw
+C4219A92:Upper Insatiable Eater Jaw
+C62A5B2F:Upper Insatiable Eater Jaw
+C7160F21:Upper Insatiable Eater Jaw
+C7821025:Upper Insatiable Eater Jaw
+C79AFF6E:Upper Insatiable Eater Jaw
+C921343A:Upper Insatiable Eater Jaw
+CA348767:Upper Insatiable Eater Jaw
+C94ADF08:Major Mana Stone
+C9501AD7:Major Mana Stone
+C94E0EF4:Major Mana Stone
+9C5356E7:Wrapped Bundle of Deadly Frog Crotch Arrowheads
+CA41472C:Wrapped Bundle of Quarrelshafts
+8009F078:Pack
+BD2A0C2E:Iron Scarab
+BD2DB0C6:Lead Scarab
+BD2DB0AE:Copper Scarab
+BD2C5E2C:Gold Scarab
+AFC7AEAC:Pyreal Scarab
+BD24715A:Pyreal Scarab
+BD387F98:Mana Scarab
+80806469:Prismatic Taper
+BD2A089C:Silver Scarab
+BD246EE3:Platinum Scarab
+CC46EEA5:Upper Insatiable Eater Jaw
+CC46ED6E:Major Mana Stone
+CD6AE3B3:Moderate Item Tinkering Armature
+CD6C1E28:Moderate Item Tinkering Armature
+CD6C1E29:Minor Item Tinkering Armature
+CDB8E4EC:Upper Insatiable Eater Jaw
+CD6A937B:Minor Item Tinkering Armature
+8009F100:Pack
+D31A93F9:Carefully rolled scroll
+9C53568E:Encapsulated Spirit
+BB601572:Encapsulated Spirit
+D47E6288:Stipend
+C07E9CD8:Encapsulated Spirit
+808064F1:Encapsulated Spirit
+CDDF8E84:Black Luster Pearl
+B9FB050A:Encapsulated Spirit
+C50AC181:Encapsulated Spirit
+CDE1959A:Black Luster Pearl
+9C53568F:Encapsulated Spirit
+C6CB61A3:Encapsulated Spirit
+CDE196C8:Black Luster Pearl
+C73E88B4:Encapsulated Spirit
+C9317ABB:Encapsulated Spirit
+CDE191BF:Black Luster Pearl
+CB524D6F:Encapsulated Spirit
+982B9CD0:Trade Note (250,000)
+CDE196D8:Black Luster Pearl
+9C5356E8:Wrapped Bundle of Deadly Lightning Arrowheads
+D05CB838:Upper Insatiable Eater Jaw
+D10F3BFB:Blank Augmentation Gem
+D109AA97:Upper Insatiable Eater Jaw
+D1B73D01:Blank Augmentation Gem
+D26C450C:Blank Augmentation Gem
+D26C46B6:Major Mana Stone
+9C5356EE:Deadly Lightning Quarrel
+D3112771:Blank Augmentation Gem
+BA9B60CE:Pack
+D394DCC3:Upper Insatiable Eater Jaw
+C0872A60:Diadem
+9D58959D:Salvage (100)
+BD2C5878:Circlet
+9D58959B:Salvage (100)
+9D58959A:Salvaged  (100)
+D34A8C95:Massive Mana Charge
+BA0D111C:Teardrop Crown
+B8FFD5BB:Teardrop Crown
+BDCE015D:Circlet
+AE1B128D:Teardrop Crown
+B9F9ACC2:Crown
+C0863648:Circlet
+B8AB16B1:Crown
+CA1099D0:Crown
+D3B4E0EB:Massive Mana Charge
+B9F2D1B9:Teardrop Crown
+A413CF3E:Coronet
+BA0EEE3D:Coronet
+C012B4B0:Circlet
+C0750A0F:Circlet
+BFF3241B:Teardrop Crown
+BE728550:Shoes
+B390C244:Loafers
+802E4B65:Loafers
+AD617244:Knorr Academy Boots
+BCF5842E:Loafers
+D34A8BC1:Massive Mana Charge
+B91E83A9:Loafers
+BDA0D36B:Sandals
+B6EA6A36:Sandals
+D347CD30:Massive Mana Charge
+D3B6BAE2:Massive Mana Charge
+D347CD38:Massive Mana Charge
+D3B6BB06:Massive Mana Charge
+D3B6BB22:Massive Mana Charge
+D35A1181:Massive Mana Charge
+BB5C70BB:Massive Mana Charge
+C844BA8F:Massive Mana Charge
+CEBE3854:Massive Mana Charge
+D2037047:Massive Mana Charge
+8A0887E4:Top
+D3AEE2C5:Blank Augmentation Gem
+D46EF781:Upper Insatiable Eater Jaw
+D4819BF5:Blank Augmentation Gem
+D52D5252:Upper Insatiable Eater Jaw
+D5376CE4:Blank Augmentation Gem
+D603C5EF:Upper Insatiable Eater Jaw
+D5FAA02F:Blank Augmentation Gem
+A70ABA58:Purple Society Band
+C94A5215:Gauntlet Backpack
+A70ABA5A:Purple Society Band
+CDDEC97C:Tumerok Salted Meat
+A70ABA60:Purple Society Band
+BABBD6D0:Aetheria
+D0971435:Aetheria
+D2F6E10B:Brown Society Locket
+D30B69FD:Blue Society Band
+C872E927:Deck of Eyes
+CDDECA6A:Purple Society Band
+CDDECA68:Purple Society Band
+C7B41309:Deck of Hands
+A70ABA5B:Purple Society Band
+A70ABA59:Purple Society Band
+C014BB4C:The Jester
+CDDECA69:Purple Society Band
+D309731E:Brown Society Locket
+CDDEC974:Diamond Scarab
+D0971437:Aetheria
+A715E439:Aetheria
+9897EEFF:Aetheria
+BABBD6D3:Sparring Shirt
+D712B87B:Fadsahil's Portal Gem
+AD6A509E:Scroll of Raven Fury
+D7208C11:Ancient Falatacot Trinket
+804DA248:Olthoi Amuli Helm
+BABBD84C:Promissory Note
+B8EDB6A3:Lorica Gauntlets
+CBDEDC2F:Mana-infused Acid War Staff of Aerfalle
+D58F5DC7:Hyssop
+B6985356:Gauntlet Backpack
+BABBD84D:Promissory Note
+CDDEC975:Writ of Refuge
+9804E0E5:Trade Note (250,000)
+B007FFF1:Trade Note (250,000)
+9855E23C:Aetheria
+A70AAE02:Aetheria
+CDDECA6B:Imbue Swap Coin
+A7116019:Gem of Greater Luminance
+A7116010:Gem of Greater Luminance
+A7116011:Gem of Greater Luminance
+A716E7C5:Gem of Greater Luminance
+A716E7C3:Gem of Greater Luminance
+D0971431:Pants
+BABBD84E:Promissory Note
+BABBD84F:Promissory Note
+BABBD850:Promissory Note
+BABBD851:Promissory Note
+BABBD852:Promissory Note
+BABBD854:Promissory Note
+BABBD855:Promissory Note
+BABBD856:Promissory Note
+BABBD858:Promissory Note
+BABBD85A:Promissory Note
+BABBD85C:Promissory Note
+BABBD861:Promissory Note
+9C56DD52:Amuli Leggings
+9C56DD51:Amuli Coat
+BABBD853:Promissory Note
+BABBD860:Promissory Note
+BABBD867:Promissory Note
+BABBD862:Promissory Note
+800DBE1C:Quiddity Orb
+808077F1:Sollerets
+8009F1B6:Kithless Siraluun Headdress
+C6DF339C:Sparring Pants
+80806506:Trousers
+800DBE48:Awakener
+80AB1FAE:Casino Exquisite Keyring
+CDDEC979:Imbue Swap Coin
+C54EAD95:Heavy Bracelet
+D309A4EE:Acid Stick
+C8486E06:Flared Shirt
+CE66AA4B:Pathwarden Trinket
+9C54D90D:Dansha-Ki's Gem of Portal Recall
+D5706952:Casino Exquisite Keyring
+8009F16B:Mechanical Scarab
+C0556DD9:Gauntlet Backpack
+9897EF03:Sparring Shirt
+9855E23F:Loose Pants
+808064F8:Virindi Inquisitor's Mask
+B7733B33:Shimmering Skeleton Key
+D5706953:Shimmering Skeleton Key
+CE3296B2:Resister's Crystal
+CDDEC97B:Pearl of Blood Drinking
+D570695D:Lugian's Pearl
+D570695F:Ursuin's Pearl
+D570695B:Wayfarer's Pearl
+D570695A:Sprinter's Pearl
+D570695C:Magus's Pearl
+D5706959:Lich's Pearl
+D5706966:Evader's Crystal
+D5706963:Scholar's Crystal
+D5706968:Smithy's Crystal
+D5706962:Imbuer's Crystal
+D5706965:Tinker's Crystal
+D5706964:Artist's Crystal
+D570695E:Monarch's Crystal
+D5706960:Adherent's Crystal
+D570696B:Baggy Shirt
+D5706961:Resister's Crystal
+98702D21:Pearl of Blood Drinking
+
+Missing Exports - Possessed items that were not found:

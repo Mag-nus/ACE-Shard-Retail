@@ -1,0 +1,120 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ragan-01-30-2017-randomexploration\pkt_2017-1-30_1485822721_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ragan-01-26-2017-randomexploration\pkt_2017-1-26_1485462509_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ragan-01-26-2017-randomexploration\pkt_2017-1-26_1485489768_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ragan-01-27-2017-randomexploration\pkt_2017-1-27_1485541103_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ragan-01-27-2017-randomexploration\pkt_2017-1-27_1485541103_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ragan-01-27-2017-randomexploration\pkt_2017-1-27_1485574044_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ragan-01-28-2017-randomexploration\pkt_2017-1-28_1485651923_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ragan-01-29-2017-randomexploration\pkt_2017-1-29_1485738783_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ragan-1-25-2017-randomexploration\pkt_2017-1-25_1485377951_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ragan-1-25-2017-randomexploration\pkt_2017-1-25_1485382399_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ragan-1-25-2017-randomexploration\pkt_2017-1-25_1485394121_log.pcap
+
+Partial Exports - Missing appraisal info:
+AB9C4069:Pyreal
+AB9C406A:Sack
+AB9C406B:Ust
+AB9C4072:Flour
+AB9C4073:Water
+AB9C4074:Letter From Home
+AB9C4075:Bread
+ABAC9FDC:Blackmoor's Favor
+ABAB5DB5:Restoring the Training Academies
+AB5F95DE:Stamina Potion
+ABACBF4E:Academy Library Key
+ABAB966D:Pack
+ABAE32A0:Pack
+ABAA94E2:Pack
+ABA78307:Pack
+ABAB8B11:Pack
+AB713BCE:Gem
+ABC26368:Mana Stone
+ABB875E4:Necklace
+ABAA9B0D:Guide to Chat
+ABACC6C5:Academy Coat
+ABAB1116:Pathwarden Robe
+ABAC939F:Pathwarden Trinket
+ABACD891:Peppermint Stick
+ABAF7CD2:Plain Lockpick
+ABAF7F73:Adept Healing Kit
+ABB07C0F:Handy Healing Kit
+ABB07D22:Plain Lockpick
+ABB37A53:An old note 
+ABB388BD:Fishing Made Easy
+ABB2F617:Gem
+ABBAAFE3:Gem
+ABB7F4EE:Academy Stamp
+ABB82573:Orb
+ABBBCBD5:Pyreal
+ABBD4C29:Snowball
+ABBEA489:Poofy Snowball
+ABC09DDF:Agent of Arcanum List
+ABB9ABB6:Refurbisher's Tally
+ABC25B06:Heavy Bracelet
+ABC2601F:Gem
+ABC25BFC:Heavy Bracelet
+ABC28043:Gem
+ABC27A22:Bracelet
+ABC28AC7:Bracelet
+ABB84C4F:Bracelet
+ABB50660:Gem
+AB6DA5C0:The Baron's Key
+ABB5009F:Ring
+ABB4FB7A:Gem
+ABBBDF5E:Ring
+ABB84EFA:Gem
+ABC2ED3E:Gem
+ABC1B415:Scratched Key
+ABC2FA9B:Gem
+ABC2FA4C:Gem
+ABC1CB0C:Gem
+ABC30289:Gem
+AB7269D2:Gem
+AB7120EB:Baron's Amulet of Life Giving
+ABC57D31:Minor Mana Stone
+ABBEB4E1:Gem
+ABC6AB30:Minor Mana Stone
+ABC6BD58:Lesser Mana Stone
+ABE42EF8:Pyreal
+ABE42EF9:Pyreal
+ABE45479:Cloth Gloves
+ABE45E32:Bracelet
+ABE378E3:Scalemail Coif
+ABE378E5:Studded Leather Girth
+ABE24046:Minor Mana Stone
+ABE44D83:Flaming Knife
+ABE47AD8:Chainmail Breastplate
+ABE4BD22:Amulet
+ABE4B8EB:Chainmail Bracers
+ABE4B8EA:Chainmail Breastplate
+ABE45E33:Lightning Knife
+ABE4CE31:Metal Cap
+ABE5126B:Slippers
+ABE4C114:Fire Naginata
+ABE50969:Loose Shirt
+ABE4720F:Mazule
+ABE53EF2:Cloth Gloves
+ABE5A855:Amulet
+ABE55118:Electric Trident
+ABE3FF6F:Chainmail Tassets
+ABE45E30:Leather Tassets
+ABE428A0:Scalemail Hauberk
+ABE546C0:Ring
+ABE61830:Heavy Bracelet
+ABE610DF:Necklace
+ABE51B63:Crown
+ABE47AD7:Baggy Breeches
+ABE53B1A:Smock
+ABE4A377:Bracelet
+ABE61602:Ring
+ABE4E00C:Leather Greaves
+ABE63C72:Studded Leather Tassets
+ABE66700:Leather Bracers
+ABE4A232:Studded Leather Gauntlets
+ABE53202:Steel Toed Boots
+ABE51B64:Flaming War Axe
+
+Missing Exports - Possessed items that were not found:

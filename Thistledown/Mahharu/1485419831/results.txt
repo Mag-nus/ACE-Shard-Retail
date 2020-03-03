@@ -1,0 +1,155 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\jojii2\pkt_2017-1-26_1485419821_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\trello_datamining\1_lightless catacombs.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\2_random temple of enlight.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\1_malignant tabernacle.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\4_random arwic.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\5_bow of the quiddity.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\Apostate Excavation.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\bow of the quiddity.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\convergent median.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\dungeon binar.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\Dungeon Fern.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\Enkindled Souls.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\dungeon nye.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\dungeon of tatters.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\hebian-to.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\pkt_2017-1-17_1484723255_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\pkt_2017-1-18_1484726528_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\Incunabula Vault.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\random arwic.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\random temple of enlight.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\lightless catacombs.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\malignant tabernacle.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\pkt_2017-1-14_1484446611_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\pkt_2017-1-14_1484446611_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\pkt_2017-1-14_1484459082_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\tusker honeycombs.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\pkt_2017-1-15_1484524775_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\pkt_2017-1-17_1484712015_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\pkt_2017-1-17_1484713182_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\pkt_2017-1-17_1484713261_log.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\0_tusker honeycombs.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\venemous nidus.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\pkt_2017-1-17_1484719990_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\pkt_2017-1-17_1484721353_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\pkt_2017-1-17_1484722368_log.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\0_venemous nidus.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\jojii2\pkt_2017-1-22_1485127673_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\jojii2\pkt_2017-1-22_1485132795_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\jojii2\pkt_2017-1-22_1485133915_log.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\0_convergent median.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\jojii2\pkt_2017-1-22_1485141582_log.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\0_dungeon binar.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\0_Dungeon Fern.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\0_dungeon nye.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\0_dungeon of tatters.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\0_Enkindled Souls.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\0_hebian-to.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\0_Incunabula Vault.pcap
+
+Partial Exports - Missing appraisal info:
+AAFFFE8A:Foci of Artifice
+AAFFFE89:Foci of Verdancy
+AAFFFE86:Grand Mother's Medallion
+AAFFFE84:Empyrean Sun Stone
+AAFFFE83:Olthoi Ichor
+AAFFFE81:Adventurer's Token
+AAFFFE7E:Ust
+AAFFFE7D:Salvaged  (9)
+AAFFFE7B:Salvaged Reedshark Hide (34)
+AAFFFE76:Swamp Stone
+AAFFFE7A:Salvaged  (49)
+AAFFFE75:Pyreal Bar
+AAFFFE5F:Hidden Note
+AAF720AE:Lightning Mazule
+AAFFFE6E:Foci of Enchantment
+AAFFFE6C:Wrapped Bundle of Deadly Acid Arrowheads
+AAFFFE2A:Pyreal
+AAFFFE69:Wrapped Bundle of Deadly Fire Arrowheads
+AAFFFE68:Wrapped Bundle of Deadly Frog Crotch Arrowheads
+AAFFFE67:Lead Scarab
+AAFFFE66:Iron Scarab
+AAFFFE65:Pyreal Scarab
+AAFFFE64:Gold Scarab
+AAFFFE62:Silver Scarab
+AAFFFE5E:Key to Jaleh's Chest
+AAFFFE61:Wrapped Bundle of Deadly Frost Arrowheads
+AAFFFE5B:Empowered Empyrean Robe
+AAFFFE59:Wrapped Bundle of Deadly Armor Piercing Arrowheads
+AAFFFDF6:Blank Augmentation Gem
+AAFFFE1C:Blank Augmentation Gem
+AB83C693:Ring
+A767FDBF:Cloth Gloves
+AB83C656:Coalesced Aetheria
+AAFFFE50:Salvaged  (5)
+AAFFFE4D:Pristine White Mattekar Hide
+AAFFFE4C:Salvaged  (90)
+AAFFFE4B:Salvaged  (26)
+AB86FA5F:Blank Augmentation Gem
+AAFFFE41:Ancient Mhoire Coin
+AB2AB82D:Pyreal Mote
+AAFFFDE9:Ink of Formation
+AB4EDE23:Electric Slingshot
+AB4EDE24:Piercing Baton
+AB25EBAE:Alloy Utensil
+AB83C668:Loafers
+AB2626BA:Alloy Cylinder
+AAFFFE2E:Salvaged  (100)
+AAFFFE2D:Salvaged  (72)
+AAFFFE2C:Salvaged  (55)
+AAFFFE2B:Salvaged  (78)
+AAFFFE29:Salvaged  (99)
+AAFFFDF9:Piece of K'nath Core
+AAFFFE27:Salvaged  (50)
+AAFFFE24:Salvaged  (66)
+AAFFFE23:Salvaged  (100)
+AAFFFDDD:Scroll of Koga's Blessing
+AAFFFE22:Salvaged  (90)
+AAFFFE21:Salvaged  (60)
+AAFFFE20:Salvaged  (100)
+AAFFFE1D:Salvaged  (7)
+AAFFFDCB:Coruscating Olthoi Scent Gland
+AAFFFE3F:Salvaged  (20)
+AAFFFE3E:Salvaged  (53)
+AAFFFE3D:Salvaged  (100)
+AAFFFE44:Salvaged  (64)
+AAFFFDCA:Some Changes for February 2012
+AAFFFE48:Salvaged  (7)
+AAFFFDCD:Platinum Scarab
+AAF720B0:Tetsubo
+AB26C2B0:Alloy Dynamo
+AB18154B:A Note From Ciandra
+AB18154C:The Temple of Enlightenment
+AAFFFDF5:Salvaged  (7)
+AB1F789E:Agent of Arcanum List
+AB2CBF1B:Seal
+AB2626F5:Caulnalain Key
+AB2C52DD:Ravener Guts
+8E22B160:Splintered Staff
+A118BE0A:Flaming Claw
+AB3A1E24:Major Stinging Stone
+AB39738D:Textbook
+AB406F31:Sake
+AB4A0247:Chevron Cloak
+AB541EB9:Major Mana Stone
+AB557250:Salvage (100)
+AB5A17FE:Pyreal
+AB566A27:Pyreal
+AAFFFE6F:Alembic
+AB870481:Sho Brain
+AB8BCF0B:Steel Toed Boots
+AB8E75D7:Wrapped Bundle of Arrowshafts
+AB8705ED:Fists of Stone
+AB8DC922:Phial of Chorizite
+AB86FAA9:Deadly Lightning Arrow
+AB85365F:Scrap of Paper
+AB396724:Deadly Frog Crotch Arrow
+AB8C98F9:Deadly Acid Arrow
+AAF720AC:Frost Sceptre
+AB4EDE21:Frost Slingshot
+99506C83:Burning Sands Keyring
+
+Missing Exports - Possessed items that were not found:

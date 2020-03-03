@@ -16,14 +16,14 @@ Morningthaw IntersectWith Solclaim
 Morningthaw IntersectWith Harvestgain
 801A56A3
 
-Verdantine IntersectWith Solclaim
-801D3EF1
-
-Verdantine IntersectWith Darktide
-801D4B4B
-
-Solclaim IntersectWith Thistledown
+Thistledown IntersectWith Solclaim
 500A849D
+
+Solclaim IntersectWith Verdantine
+801D3EF1
 
 Solclaim IntersectWith Darktide
 8034867A
+
+Verdantine IntersectWith Darktide
+801D4B4B

@@ -1,0 +1,46 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-31_1485855647_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-31_1485845020_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-31_1485845020_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-31_1485855647_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-31_1485855647_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-31_1485855647_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-31_1485855647_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-30_1485823052_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-30_1485823052_log.pcap
+
+Partial Exports - Missing appraisal info:
+AA7D3C70:Calling Stone
+AA7D3C71:Pathwarden Token
+AA7D3C77:Foci of Artifice
+AAB77614:Blackmoor's Favor
+AAB4F040:Oil of Rendering
+AAB4C548:Oil of Rendering
+AAB70DA3:Shoes
+AAB79317:Facility Hub Portal Gem
+AAB84FDD:Platemail Breastplate
+AAB98CE2:Platemail Cuirass
+AAE467BF:Celdon Breastplate
+AAE32872:Platemail Cuirass
+AA956EEC:Loafers
+AAEEBDFD:Diforsa Sollerets
+AAB065E9:Loafers
+AAEA0031:Diforsa Sollerets
+AAEB0F98:Covenant Sollerets
+AB0BEA2B:Circlet
+AAC6EB1C:Covenant Sollerets
+AB138FAE:Platemail Breastplate
+AB0FD5A6:Tenassa Leggings
+AB16BA14:Gem
+AAF8B4AE:Loafers
+AAFF38F9:Loafers
+AAF5CE22:Loafers
+AB0E16BB:Slippers
+AB3062BA:Gem
+AA87CE18:Slippers
+AAF634F4:Shoes
+AB31FE07:Gem
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,135 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485764183_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps-20170203071513\pkt_2017-1-25_1485363128_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-28_1485588633_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-28_1485588633_log.pcap
+
+Partial Exports - Missing appraisal info:
+801A5DE3:Foci of Artifice
+801A5DE6:Prismatic Taper
+801A5DE5:Silyun Portal Gem
+801A5DE7:Copper Scarab
+801A5DE8:Silver Scarab
+801A5DE9:Gold Scarab
+801A5DEA:Asheron's Benediction
+801A5DEB:Blackmoor's Favor
+801A5DEC:Shoyanen's Portal Gem
+801A5DED:Iron Scarab
+801A5DEF:7th Anniversary Night Club Ticket
+801A5DEE:Invitation Ithaenc Cathedral
+801A5DF0:7th Anniversary Night Club Ticket
+801A5DF2:Lead Scarab
+801A5DF1:Invitation Wedding Hall
+801A5DF3:Pyreal Scarab
+801A5DF4:Platinum Scarab
+801A5DF5:Ahruenga Portal Gem
+801AA495:Grand Casino Golden Keyring
+82018AA2:Alchemy Table
+801A5DFC:Splitting Tool
+90A5A858:Warrior's Crystal
+82018AA1:Hearth
+B6E97F2A:Aphus Lassel Portal Gem
+801A5E00:Gem of Purity
+801A658A:Armet
+801A5E01:Gem of Stillness
+801A8CE1:Facility Hub Portal Gem
+801AA498:Suikan Over-robe
+801A65A3:Chainmail Girth
+C823B9D8:Pyreal
+801A65A5:Leather Bracers
+801A65A4:Studded Leather Pauldrons
+801A5DFF:Ust
+801A6596:Chainmail Gauntlets
+801A6591:Studded Leather Tassets
+801A5DF8:Alembic
+801A6595:Yoroi Greaves
+801A6589:Studded Leather Boots
+801A5DFA:Eye Dropper
+801A6593:Pants
+801304DA:Tumerok Chair
+801A65AB:Heavy Bracelet
+801A9B21:Ring
+801A65B3:Top
+801A65A9:Heavy Bracelet
+801A65B2:Ring
+801A9280:Gem of Perfect Speed
+801A92B3:Aphus Lassel Portal Gem
+80036E5A:Pack Pumpkin Lord
+805830A5:Colcothar Pea
+805830A4:Colcothar Pea
+805830A3:Colcothar Pea
+805830A2:Gypsum Pea
+805830A1:Vitriol Pea
+8058309F:Cobalt Pea
+801A5DF9:Mortar and Pestle
+801A5DFB:Skewer
+801A5DFD:Intricate Carving Tool
+B46A895B:Quicksilver Pea
+8058309E:Cobalt Pea
+805830AD:Concentrated Frost Oil
+805830A0:Turpeth Pea
+801A65BB:Massive Mana Charge
+805830A7:Stibnite Pea
+B45EBEAD:Concentrated Aqua Incanta
+801A65BA:Massive Mana Charge
+B7A99B5D:Concentrated Fire Oil
+B7B5F681:Wrapped Bundle of Greater Arrowheads
+B7B012C2:Wrapped Bundle of Blunt Arrowheads
+801A65B9:Massive Mana Charge
+801A65C7:Teardrop Crown
+801A65C6:Teardrop Crown
+801A65C4:Diadem
+801A65C5:Teardrop Crown
+801A65C3:Diadem
+801A65C2:Signet Crown
+801A65B8:Massive Mana Charge
+801A9634:Scholar's Crystal
+95E41534:Diadem
+8DF3F204:Fletcher's Crystal
+93BC9AA5:Font of Jojii
+80036E6E:Tome of Blood and Bone
+82018A9E:Alloy Machine
+81FF9742:Head of the Homunculus
+82018A9D:Decorative Bronze Statue 
+801843DF:Pack Gaerlan
+82018A9F:Holiday Feast
+807133F6:Tome of Blood and Bone
+8019A574:Pack Martine
+801A65B7:Foci of Enchantment
+801A65B6:Foci of Verdancy
+801A65BC:Massive Mana Charge
+801A65BD:Massive Mana Charge
+801A65BF:Massive Mana Charge
+801A65C0:Massive Mana Charge
+801A65C1:Massive Mana Charge
+801AB3AF:Lightning Dericost Blade
+801A65CE:An Unlocked Small Mnemosyne
+801A65A2:Greater Mana Stone
+801A65B1:Hyssop
+801A65AD:Moderate Mana Stone
+801A65AC:Moderate Mana Stone
+801A65A8:Moderate Mana Stone
+8FF1C6CC:Greater Mana Stone
+8101F1C5:Essence of a Phantasm
+8101F1C6:Chorizite
+92CA34C0:Quality Pyreal Ingot
+801AB37B:Takuba
+912EB57E:Moderate Mana Stone
+912B1AC9:Greater Mana Stone
+91699CEC:Major Mana Stone
+B6A4C49C:Artificer's Crystal
+B75922AB:Blank Augmentation Gem
+C823B950:Pyreal
+C01C8CE5:Blank Augmentation Gem
+90471D01:Wrapped Bundle of Arrowheads
+81FCEED1:Snowmaker
+811D727D:Fireworks
+C823B816:Pyreal
+C823B726:Pyreal
+C824BB3D:Pyreal
+C7EBE3DF:Pyreal
+AD6FB931:Pyreal
+
+Missing Exports - Possessed items that were not found:

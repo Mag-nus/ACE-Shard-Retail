@@ -1,0 +1,227 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485767017_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2-20170203071709\pkt_2017-1-29_1485715909_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-25_1485372631_log.pcap
+
+Partial Exports - Missing appraisal info:
+811CBB9E:Marble Key
+811CBB99:Blackmoor's Favor
+811CBB9A:Asheron's Benediction
+811CBB9F:Marble Key
+811CBB9D:Pack
+811CBBA0:Marble Key
+811CBBA1:Uncooked Rice
+811CBBA2:Cookie Cutter
+811CBBA3:Dried Yeast
+811CBBA4:Ursuin Guise
+811CBBA6:Ginger
+811CBBA8:Noodle Cutter
+811CBBAA:Amber Barley
+811CBBAB:Plain Barley
+811CBBAC:Roasted Barley
+811CBBB0:Honey
+811CBBAD:Ultra Green Hops
+811CBBAE:Cinnamon
+811CBBB3:Peerless Drudge Charm
+811CBBAF:Cinnamon
+811CBBB1:Island Armoredillo Spine
+811CBBB4:Pack
+811CBBB2:Sandy Armoredillo Spine
+811CBBB5:Royal Oil
+811CBBB6:Greater Amuli Shadow Leggings
+811CBBB8:Potion of Destiny's Wind
+811CBBB9:Ancient Armored Long Boots
+811CBBBA:Ancient Armored Leggings
+811CBBBB:Ancient Armored Gauntlets
+811CBBBC:Ancient Armored Bracers
+811CBBC2:Brew Kettle
+811CBBBD:Hot Sauce
+811CBBBE:Hot Sauce
+811CBBBF:Cinnamon
+811CBBC0:Magic Iceball
+811CBBC1:Magic Iceball
+811CBBC3:Brew Kettle
+811CBBC4:Hot Sauce
+811CBBC5:Chocolate Liquor
+811CBBC6:Concentrated Health Oil
+811CBBC7:Concentrated Mana Oil
+811CBBC8:Lightning Mace
+811CBBC9:Banderling Savage Arm
+811CBBCA:Lightning Broad Sword
+811CBBCB:Flaming Takuba
+811CBBCC:Takuba
+811CBBCD:Pack
+811CBBCF:Scroll of Sizzling Fury
+811CBBD0:Scroll of Ilservian's Flame
+811CBBD1:Scroll of Ilservian's Flame
+811CBBD2:Scroll of Flame Arc VII
+811CBBD3:Scroll of Ilservian's Flame
+811CBBD4:Scroll of Sizzling Fury
+811CBBD5:Scroll of Sizzling Fury
+811CBBD6:Scroll of Ilservian's Flame
+811CBBD7:Scroll of Ilservian's Flame
+811CBBD8:Scroll of Ilservian's Flame
+811CBBD9:Scroll of Sizzling Fury
+811CBBDA:Scroll of Sizzling Fury
+811CBBDB:Scroll of Sizzling Fury
+811CBBDC:Scroll of Ilservian's Flame
+811CBBDD:Scroll of Ilservian's Flame
+811CBBDE:Scroll of Sizzling Fury
+811CBBDF:Scroll of Flame Arc VII
+811CBBE0:Scroll of Flame Arc VII
+811CBBE1:Scroll of Sizzling Fury
+811CBBE2:Scroll of Ilservian's Flame
+811CBBE3:Scroll of Ilservian's Flame
+811CBBE4:Scroll of Ilservian's Flame
+811CBBE5:Scroll of Ilservian's Flame
+811CBBE6:Pack
+811CBBE7:Scroll of Blade Arc VII
+811CBBE8:Scroll of Blade Arc VII
+811CBBE9:Scroll of Blade Arc VII
+811CBBEA:Scroll of Blade Arc VII
+811CBBEB:Scroll of Blade Arc VII
+811CBBEC:Scroll of Blade Arc VII
+811CBBED:Scroll of Blade Arc VII
+811CBBEE:Scroll of Rending Wind
+811CBBEF:Scroll of Rending Wind
+811CBBF0:Scroll of Blade Arc VII
+811CBBF1:Scroll of Evisceration
+811CBBF2:Scroll of Blade Arc VII
+811CBBF3:Scroll of Blade Arc VII
+811CBBF4:Scroll of Evisceration
+811CBBF5:Scroll of Evisceration
+811CBBF6:Scroll of Evisceration
+811CBBF7:Scroll of Rending Wind
+811CBBF8:Scroll of Blade Arc VII
+811CBBF9:Scroll of Evisceration
+811CBBFA:Scroll of Blade Arc VII
+811CBBFB:Scroll of Blade Arc VII
+811CBC40:Scroll of Blade Arc VII
+811CBC0F:Scroll of Evisceration
+811CBBFF:Scroll of Disintegration
+811CBC00:Scroll of Disintegration
+811CBC01:Scroll of Disintegration
+811CBC02:Scroll of Disintegration
+811CBC03:Scroll of Acid Arc VII
+811CBC04:Scroll of Disintegration
+811CBC05:Scroll of Disintegration
+811CBC06:Scroll of Acid Arc VII
+811CBC07:Scroll of Acid Arc VII
+811CBC08:Scroll of Disintegration
+811CBC09:Scroll of Acid Arc VII
+811CBC0A:Scroll of Acid Arc VII
+811CBC0B:Scroll of Acid Arc VII
+811CBC0C:Scroll of Acid Arc VII
+811CBC0D:Scroll of Acid Arc VII
+811CBC0E:Scroll of Acid Arc VII
+811CBC10:Scroll of Blade Arc VII
+811CBC11:Scroll of Blade Arc VII
+811CBC12:Scroll of Blade Arc VII
+811CBC13:Scroll of Evisceration
+811CBC14:Scroll of Evisceration
+811CBC15:Scroll of Icy Torment
+811CBBCE:Scroll of Ilservian's Flame
+811CBC17:Dho Vest and Robe
+811CBC1B:Heaume
+811CBC18:Suikan Robe
+811CBC19:Walking Boots
+811CBC2E:Rubble
+811CBC1A:Covenant Helm
+811CBC1D:Energy Crown
+811CBC1E:Life Giver's Gauntlets
+811CBC1F:Enchanter's Gauntlets
+811CBC21:Luminous Robe
+811CBC22:Fiun Spellcasting Gloves
+811CBC24:Skull Mask
+811CBC23:Flaming Stick
+811CBC25:Princely Runed Slashing Baton
+811CBC26:Princely Runed Slashing Baton
+811CBC27:Royal Runed Mazule
+811CBC2B:Burun Kukuur Floatee
+811CBC28:Paradox-touched Olthoi Sword
+811CBC29:Pack Pumpkin Lord
+811CBC2C:Spear of the Fallen
+811CBC2D:Stiletto
+811CBC2F:Scroll of Sizzling Fury
+811CBC30:Scroll of Ilservian's Flame
+811CBC31:Scroll of The Spike
+811CBC32:Scroll of The Spike
+811CBC33:Scroll of Force Arc VII
+811CBC34:Scroll of The Spike
+811CBC35:Scroll of The Spike
+811CBC36:Scroll of The Spike
+811CBC37:Scroll of Force Arc VII
+811CBC38:Scroll of Force Arc VII
+811CBC39:Scroll of Force Arc VII
+811CBC3A:Scroll of Force Arc VII
+811CBC3B:Scroll of The Spike
+811CBC3C:Scroll of Sudden Frost
+811CBC3D:Scroll of Force Arc VII
+811CBC3E:Scroll of The Spike
+811CBC3F:Scroll of The Spike
+811CBC41:Scroll of Sudden Frost
+811CBC44:Scroll of Frost Arc VII
+811CBC45:Scroll of Sudden Frost
+811CBC46:Scroll of Sudden Frost
+811CBC47:Scroll of Sudden Frost
+811CBC48:Scroll of Sudden Frost
+811CBC49:Scroll of Ilservian's Flame
+811CBC4A:Scroll of Sudden Frost
+811CBC4B:Scroll of Sudden Frost
+811CBC4C:Scroll of Sudden Frost
+811CBC4D:Scroll of Sudden Frost
+811CBC4E:Scroll of Sudden Frost
+811CBC4F:Scroll of Icy Torment
+811CBC50:Scroll of Sudden Frost
+811CBC51:Scroll of Icy Torment
+811CBC52:Scroll of Alset's Coil
+811CBC54:Armoredillo Hide
+811CBC55:Armoredillo Hide
+811CBC56:Plate Armoredillo Hide
+811CBC57:Slasher Reedshark Hide
+811CBC58:Reedshark Hide
+811CBC59:Small Reedshark Hide
+811CBC5A:Rugged Gromnie Hide
+811CBC5B:Hardy Gromnie Hide
+811CBC5C:Carenzi Stalker Pelt
+811CBC5D:Mattekar Hide
+811CBC5E:Ruddy Gromnie Hide
+811CBC5F:Ursuin Scalp
+811CBC61:Scroll of The Spike
+811CBC62:Scroll of Crushing Shame
+811CBC63:Scroll of Crushing Shame
+811CBC64:Scroll of Crushing Shame
+811CBC65:Scroll of Cameron's Curse
+811CBC66:Scroll of Cameron's Curse
+811CBC67:Scroll of Icy Torment
+811CBC68:Scroll of Sizzling Fury
+811CBC6A:Scroll of Crushing Shame
+811CBC6B:Scroll of Ilservian's Flame
+811CBC6C:Scroll of Evisceration
+811CBC6F:Scroll of Turn Blade VI
+811CBC75:Scroll of Alset's Coil
+811CBC76:Scroll of Lhen's Flare
+811CBC77:Scroll of Alset's Coil
+811CBC78:Scroll of Icy Torment
+811CBC79:Scroll of Lhen's Flare
+811CBC7A:Scroll of Lhen's Flare
+811CBC7B:Scroll of Lhen's Flare
+811CBC7C:Scroll of Alset's Coil
+811CBC7D:Scroll of Lhen's Flare
+811CBC7E:Scroll of Lhen's Flare
+811CBC7F:Scroll of Alset's Coil
+811CBC80:Scroll of Alset's Coil
+811CBC81:Scroll of Alset's Coil
+811CBC82:Scroll of Alset's Coil
+811CBC83:Scroll of Alset's Coil
+811CBC84:Scroll of Alset's Coil
+811CBC85:Scroll of Alset's Coil
+811CBC86:Scroll of Alset's Coil
+811CBC87:Scroll of Alset's Coil
+811CBC43:Scroll of Sizzling Fury
+811CBC42:Scroll of The Spike
+C7FD9767:Stipend
+
+Missing Exports - Possessed items that were not found:

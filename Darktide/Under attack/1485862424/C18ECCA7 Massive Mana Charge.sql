@@ -1,0 +1,44 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (3247361191, 27329, 37, 2150720) /* ManaStone */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (3247361191,   1,     524288) /* ItemType - ManaStone */
+     , (3247361191,   5,         50) /* EncumbranceVal */
+     , (3247361191,  16,     655368) /* ItemUseable - SourceContainedTargetSelfOrContained */
+     , (3247361191,  18,          1) /* UiEffects - Magical */
+     , (3247361191,  19,      65000) /* Value */
+     , (3247361191,  65,        101) /* Placement - Resting */
+     , (3247361191,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (3247361191,  94,      35103) /* TargetType - Jewelry, Creature, Gem, RedirectableItemEnchantmentTarget */
+     , (3247361191, 107,      10000) /* ItemCurMana */
+     , (3247361191, 151,          2) /* HookType - Wall */
+     , (3247361191, 9015,         15) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (3247361191,   1, False) /* Stuck */
+     , (3247361191,  11, True ) /* IgnoreCollisions */
+     , (3247361191,  13, True ) /* Ethereal */
+     , (3247361191,  14, True ) /* GravityStatus */
+     , (3247361191,  19, True ) /* Attackable */
+     , (3247361191,  22, True ) /* Inscribable */
+     , (3247361191,  69, False) /* IsSellable */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (3247361191,  87,       1) /* ItemEfficiency */
+     , (3247361191, 137,       1) /* ManaStoneDestroyChance */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (3247361191,   1, 'Massive Mana Charge') /* Name */
+     , (3247361191,  14, 'Use on a magic item to give the stone''s stored Mana to that item.') /* Use */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (3247361191,   1,   33555641) /* Setup */
+     , (3247361191,   8,  100676403) /* Icon */
+     , (3247361191, 8001,  271073432) /* PCAPRecordedWeenieHeader - Value, Usable, UiEffects, Container, TargetType, Burden, HookType */
+     , (3247361191, 8003,         18) /* PCAPRecordedObjectDesc - Inscribable, Attackable */
+     , (3247361191, 8005,     131073) /* PCAPRecordedPhysicsDesc - CSetup, AnimationFrame */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (3247361191,   1, 3479450492) /* Owner */
+     , (3247361191,   2, 3479450492) /* Container */
+     , (3247361191, 8000, 3247361191) /* PCAPRecordedObjectIID */;

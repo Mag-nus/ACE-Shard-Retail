@@ -1,0 +1,165 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-31_1485881562_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\wireshark exported pcaps\frore2.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\wireshark exported pcaps\funtimes.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\wireshark exported pcaps\holtburg.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\wireshark exported pcaps\holtburg2.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\wireshark exported pcaps\more testing.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\wireshark exported pcaps\mp1.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\wireshark exported pcaps\mp2.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\wireshark exported pcaps\mulingcomps.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\wireshark exported pcaps\mulingcomps.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\wireshark exported pcaps\mulingcomps.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\wireshark exported pcaps\random1.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\wireshark exported pcaps\random3.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\wireshark exported pcaps\random3.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\wireshark exported pcaps\random3.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\wireshark exported pcaps\random4.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\1_pkt_2017-1-29_1485716480_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\wireshark exported pcaps\random5.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\wireshark exported pcaps\random6.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\wireshark exported pcaps\random7.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\wireshark exported pcaps\random7.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\wireshark exported pcaps\random8.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\wireshark exported pcaps\random8.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\wireshark exported pcaps\skilling up.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\wireshark exported pcaps\test easham lifestone.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-10_1484109941_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-11_1484118331_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-11_1484123052_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-12_1484197326_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-12_1484197326_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-14_1484445512_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\test\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-14_1484393785_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-12_1484283512_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-14_1484447394_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-14_1484447394_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-14_1484447394_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-15_1484466483_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-13_1484369610_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-15_1484505622_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-15_1484539025_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-15_1484505622_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-14_1484393785_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-15_1484511470_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-17_1484701017_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-17_1484715140_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\test\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-14_1484423472_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\test\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-14_1484423472_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\test\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-14_1484443687_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-28_1485586565_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-28_1485591560_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-15_1484539370_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\test\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-10_1484109941_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\test\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-14_1484445512_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-16_1484628610_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\test\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-11_1484118331_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-23_1485148861_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-28_1485617520_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\test\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-11_1484123052_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-14_1484423472_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-14_1484423472_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-14_1484443687_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-18_1484801417_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-28_1485630319_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\wireshark exported pcaps\firstcap.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-17_1484631317_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-28_1485640726_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\test\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-12_1484197326_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\test\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-12_1484197326_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-15_1484512777_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\test\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-14_1484447394_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\test\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-14_1484447394_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\test\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-14_1484447394_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-28_1485646176_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-20_1484892824_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-23_1485233210_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-28_1485657260_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\wireshark exported pcaps\frore1.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-15_1484535255_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\test\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-15_1484466483_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-20_1484974320_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-21_1485028198_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-21_1485028583_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\test\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-15_1484505622_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\test\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-15_1484505622_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-30_1485837965_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\test\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-15_1484511470_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\test\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-12_1484283512_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-31_1485857753_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-21_1485031724_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-21_1485031724_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-21_1485031724_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-21_1485031724_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-24_1485319785_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-24_1485319785_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-28_1485659343_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\test\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-13_1484369610_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-31_1485877963_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-31_1485881402_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-31_1485881486_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-29_1485676066_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\test\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-15_1484512777_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-29_1485708543_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-29_1485715956_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-29_1485716480_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-21_1485049407_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-26_1485407548_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-21_1485054922_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-9_1484023507_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-9_1484023507_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-22_1485062740_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\wireshark exported pcaps\275orbust.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\wireshark exported pcaps\275orbust.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\wireshark exported pcaps\275orbust.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\wireshark exported pcaps\275orbust.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\wireshark exported pcaps\275orbust.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-22_1485105077_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\wireshark exported pcaps\aerfalle1.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-22_1485122914_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\wireshark exported pcaps\arwic.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\wireshark exported pcaps\bunny.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-22_1485134205_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\wireshark exported pcaps\caul1.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\wireshark exported pcaps\chorizite.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\wireshark exported pcaps\chorizite.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\wireshark exported pcaps\chorizite.pcap
+
+Partial Exports - Missing appraisal info:
+DC928302:Key
+DC9288F3:Excellent Lockpick
+DB08DD8E:Key
+DC8DA834:Seal
+DB09D4AA:Key
+DACFBFF4:Silver Key
+DC9AFC4F:Worn Small Key
+DC96DDAC:Worn Strange Key
+DC987075:Worn Plain Key
+DC9B0919:Worn Old Key
+DC900A2C:Worn Rusty Key
+DC900A20:Worn Odd Key
+DC8DB15B:Carved Key
+DC8DAFEB:Small Carved Key
+DC8DADFA:A silvery, mysterious key
+DCA222FF:Moderate Mana Stone
+D31E474B:Greater Gem of Knowledge
+DCC946A3:Modified Iasparailaun
+DBD408DF:Greater Mana Stone
+DCCD3771:Martine's Mask
+DCCD3770:Martine's Robe
+DCF3E658:Promissory Note
+DCFA7DD6:Greater Mana Stone
+DD0CD3CC:Prismatic Taper
+DD2A07B7:Greater Mana Stone
+DD2B7D11:Health Philtre
+DCF7F3E7:Salvager's Helm
+DD2A0876:Stamina Philtre
+DD2B79DF:Glyph of Mana Conversion
+DD3151FE:Great Mana Charge
+DD315200:Great Mana Charge
+DBE5F3F1:Ale
+DBE815B8:Nefane Pearl
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,40 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-31_1485866741_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-4\pkt_2017-1-29_1485693214_log.pcap
+
+Partial Exports - Missing appraisal info:
+8009F18C:The Hero
+CE66AA4E:Pathwarden Helm
+CDC6522F:Stipend
+CE66AA59:Pathwarden Sollerets
+8A01EE15:Blackmoor's Favor
+CE67D3F4:Deed
+B0908ECB:Pack
+BABBD868:Gauntlet Backpack
+8009F03C:Black Spear of Mukkir Strength
+98F11F07:Impious Staff
+8009F040:Wallbound Niffis
+8009F03E:Mystical Mug
+8009F186:Tome of Blood and Bone
+8009F187:Font of Jojii
+8009F18A:Gharu'ndim Lamp
+8009F18B:Chalk Board
+8009F188:Branith's Staff
+8009F189:The Hammer
+8009F193:Hearth
+8009F190:Decorative Ursuin Head
+8009F192:Pyreal Bell
+8009F18F:Chandelier
+8009F194:Ursuin Toy
+8009F18E:Evil Couch
+8009F18D:The Studious Mind
+8009F191:Aluvian Rug
+8009F196:Arcane Pedestal
+8009F197:Gharu'ndim Lamp
+8009F1C3:Hearth
+8009F1C5:Into the Unknown
+8009F1C4:Gladiator Diemos Statue
+
+Missing Exports - Possessed items that were not found:

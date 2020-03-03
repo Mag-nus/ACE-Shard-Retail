@@ -2,16 +2,16 @@ Source:
 C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-30-to-1-31\Bliz 1-30 to 1-31\pkt_2017-1-31_1485855215_log.pcap
 
 Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-24-to-1-29\Bliz 1-24 to 1-29\pkt_2017-1-24_1485331069_log.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-24-to-1-29\Bliz 1-24 to 1-29\pkt_2017-1-24_1485288542_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-24-to-1-29\Bliz 1-24 to 1-29\pkt_2017-1-25_1485385034_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-24-to-1-29\Bliz 1-24 to 1-29\pkt_2017-1-25_1485385034_log.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-24-to-1-29\Bliz 1-24 to 1-29\pkt_2017-1-24_1485326283_log.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-24-to-1-29\Bliz 1-24 to 1-29\pkt_2017-1-24_1485329421_log.pcap
-C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-24-to-1-29\Bliz 1-24 to 1-29\pkt_2017-1-24_1485331069_log.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-24-to-1-29\Bliz 1-24 to 1-29\pkt_2017-1-27_1485586502_log.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-24-to-1-29\Bliz 1-24 to 1-29\pkt_2017-1-29_1485760870_log.pcap
-C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-24-to-1-29\Bliz 1-24 to 1-29\pkt_2017-1-25_1485385034_log.pcap
-C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-24-to-1-29\Bliz 1-24 to 1-29\pkt_2017-1-25_1485385034_log.pcap
-C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-30-to-1-31\Bliz 1-30 to 1-31\pkt_2017-1-30_1485830930_log.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-24-to-1-29\Bliz 1-24 to 1-29\pkt_2017-1-25_1485402415_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-30-to-1-31\Bliz 1-30 to 1-31\pkt_2017-1-30_1485830930_log.pcap
 
 Partial Exports - Missing appraisal info:
 80587E38:Pack

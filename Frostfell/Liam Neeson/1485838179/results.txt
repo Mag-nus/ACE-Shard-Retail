@@ -1,0 +1,216 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\Callaway-January2017-Account2\pkt_2017-1-30_1485831406_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-06-2017\Callaway-January2017-Account3\pkt_2017-1-21_1484988242_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\Callaway-January2017-Account3\pkt_2017-1-22_1485062483_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\Callaway-January2017-Account3\pkt_2017-1-22_1485141984_log.pcap
+C:\ACEmulator\Logs Unpacked\02-09-2017\Callaway-1-17-29-2017-Misc2\pkt_2017-1-18_1484716842_log.pcap
+C:\ACEmulator\Logs Unpacked\02-09-2017\Callaway-1-17-29-2017-Misc2\pkt_2017-1-18_1484716842_log.pcap
+C:\ACEmulator\Logs Unpacked\02-09-2017\Callaway-1-17-29-2017-Misc2\pkt_2017-1-18_1484772249_log.pcap
+C:\ACEmulator\Logs Unpacked\02-09-2017\Callaway-1-17-29-2017-Misc2\pkt_2017-1-18_1484772249_log.pcap
+C:\ACEmulator\Logs Unpacked\02-09-2017\Callaway-1-17-29-2017-Misc2\pkt_2017-1-18_1484772249_log.pcap
+C:\ACEmulator\Logs Unpacked\02-09-2017\Callaway-1-17-29-2017-Misc2\pkt_2017-1-19_1484830155_log.pcap
+C:\ACEmulator\Logs Unpacked\02-09-2017\Callaway-01-17-31-2017-QuidditySeedMisc\pkt_2017-1-20_1484931059_log.pcap
+
+Partial Exports - Missing appraisal info:
+DC43813D:Salvage (100)
+DC3A5BAB:Salvage (100)
+DC43871F:Salvage (100)
+DC4384CA:Salvage (100)
+DC3A5CD0:Salvage (100)
+DC49A60D:Salvage (100)
+DC5E1D69:Quiddity Ingot
+DC3FBC51:Salvage (100)
+DC437ABB:Salvage (100)
+DBABDB44:Pathwarden Robe
+DC364CE4:Salvage (100)
+DC3FDB55:Salvage (100)
+DC3651A7:Salvage (100)
+DC44E09E:Salvage (100)
+DC3FC9C2:Salvage (100)
+DC438242:Salvage (100)
+DC30348F:Orange Monster Seed
+DC3FD4A8:Salvage (100)
+DC3A4D31:Salvage (100)
+DC1E34FC:Quality Pyreal Ingot
+DC3A56F4:Salvage (100)
+DC3FCC42:Salvage (100)
+DB71A1EC:Snow Lily
+DC3FDB6F:Salvage (100)
+DC365A24:Salvage (100)
+DC3A5566:Salvage (100)
+DC49B0E3:Salvage (100)
+DC3A4571:Salvage (100)
+DC3FCAC2:Salvage (100)
+DBA1F696:Pyreal
+DC31B19C:Moons Stamp
+DC325A33:Moons Stamp
+8BAB9D02:Tiriun Mushroom Stalk
+DBA1F698:Ust
+DC4B2C7D:Foolproof Sunstone
+DC366139:Salvage (100)
+DC5C2BA0:Mana Forge Key
+DC49A425:Salvage (100)
+DC368755:Salvage (100)
+DC366145:Salvage (100)
+DC5CD5A4:Braced Mana Forge Key
+DC3A46CF:Salvage (100)
+DC5C1885:Mana Forge Key
+DC49B2BC:Salvage (100)
+DC365027:Salvage (100)
+DC553BE1:Sturdy Steel Key
+DC3FDC0B:Salvage (100)
+DC364E0E:Salvage (100)
+DC5C5B24:Braced Mana Forge Key
+DC366A2E:Salvage (100)
+DC3A0F7F:Salvage (100)
+DC7C9768:Swamp Stone
+DC3F5B1E:Glyph of Life Magic
+DC65CA77:Evader's Crystal
+DC5A5F73:Salvage (100)
+DC65DCC4:Salvage (100)
+DC761056:Salvage (100)
+DC7C342D:Dire Mattekar Paw
+DC762C39:Salvage (100)
+DC5A4DF8:Salvage (100)
+DC5E7FD9:Quiddity Ingot
+DC799077:Salvage (100)
+DC5719D8:Heavy Bracelet
+DC4B7D44:Pocket Watch
+DBA1F6A1:Prismatic Taper
+DB6FA6F8:Half-Digested Virindi Mask
+DC745264:Sturdy Iron Key
+DCA499CB:Olthoi Girth
+DD14B6E7:Carrot
+DBB12374:Oil of Rendering
+DC3FDD2D:Salvage (100)
+DC55755D:Salvage (100)
+DC5580CC:Salvage (100)
+DC5CD02E:Quiddity Ingot
+DC3FBC9E:Salvage (100)
+DC364D81:Salvage (100)
+DBA1F6A2:Lead Scarab
+DC5572BA:Salvage (100)
+DC4384EE:Salvage (100)
+DC49C82C:Salvage (100)
+DC3FD277:Salvage (100)
+DC3F2FD6:Thick Gromnie Hide
+DC49AACD:Salvage (100)
+DC5A50CD:Salvage (100)
+DCA6402F:Harbinger's Foci
+DC65B816:Salvage (100)
+DC65D084:Salvage (100)
+DC9E2659:Purple Jewel
+DC5FAA69:Salvage (100)
+DC65B896:Salvage (100)
+B456744F:Wood Heart
+DC6740D3:Salvage (100)
+DC55352C:Salvage (100)
+DD0A29BD:Grub Bite
+DC549A10:Salvage (100)
+DC49B201:Salvage (100)
+DD149D2C:Floating Candle
+DC5A61E4:Salvage (100)
+DC65D156:Salvage (100)
+DD1516C1:Lightning Scimitar
+DC3FBD74:Salvage (100)
+DC570E72:Salvage (100)
+B30A0221:Head of the Paradox-touched Olthoi Queen
+DC557B32:Thief's Crystal
+DC558825:Salvage (100)
+DC49BCC9:Salvage (100)
+DC5A49FD:Salvage (100)
+B0D7B0C1:Burun Guruk Mask
+DC65DAEB:Salvage (100)
+DD14FA97:Acid Jambiya
+DC65DD93:Salvage (100)
+DC557848:Salvage (100)
+DC484670:Pack T'thuun
+DCD0CD77:Sword of Lost Light
+DAE9C972:Bow of the Fallen
+DC760C02:Salvage (100)
+DC65D8BB:Salvage (100)
+DC77E108:Hennacin Plant
+DBCD3467:Oil of Rendering
+DC55306C:Salvage (100)
+DC43793A:Salvage (100)
+DC5A5A91:Salvage (100)
+DC5A6688:Salvage (100)
+DC551F4C:Salvage (100)
+DC49B90A:Salvage (100)
+DC65C70C:Salvage (100)
+DC7BCA35:Knight's Crystal
+DC57BD98:Salvage (100)
+DC36475B:Salvage (100)
+DC7490AA:Salvage (100)
+DC760E3F:Salvage (100)
+DC5C9185:Amulet
+DC5A4E4B:Salvage (100)
+DC5583BF:Salvage (100)
+DC553844:Salvage (100)
+DC5520CA:Salvage (100)
+DC7C3FE0:A Huge Lump of Coal
+DC7AD335:Encapsulated Spirit
+DC748EB6:Hunter's Crystal
+DC8DDACF:Corruptor's Crystal
+DC761D5D:Wand
+DC67558F:Salvage (100)
+DD0B4FC6:Scribe's Quill
+DC7618F8:Salvage (100)
+DC553AEA:Salvage (100)
+DBFFA600:Princely Runed Poniard
+DC57BC45:Encapsulated Spirit
+DCA78A08:Gem of Harbinger's Frost Barrier
+DCA7205E:Gem of Harbinger's Acid Barrier
+DCA78A07:Harbinger Blood Infusion
+DD14AF85:Writ of Refuge
+DD146E4D:Niffis Shell
+DD0612D9:Niffis Shell Helm
+DD13D1E4:Olthoi Stamp
+DCFBACC1:White Rabbit Girth
+DD14E58B:Suzuhara's Girth of Flame Protection
+DD14B6E6:A Perfect Snowman Eye
+DD00AE49:Poofy Snowball
+DD15169F:Gorget
+DD013DE1:Baggy Pants
+DD1516C6:Compass
+DD14FB2F:Kasa
+DD14FAC7:Heavy Necklace
+DD11C14F:Lightning War Hammer
+B0D7ADFC:Salvage (89)
+B0BCE467:Salvage (100)
+B0DACE50:Salvage (100)
+B0A1A2BB:Salvage (100)
+B0B21C1A:Salvage (100)
+B0DEE976:Salvage (100)
+B0C47613:Salvage (71)
+DB5BDDD3:Magic Iceball
+B0C4742F:Silifi of Crimson Night
+DD14FAB9:Loose Shirt
+DD14FA2D:Poet's Shirt
+DD14F827:Sedgemail Leather Cowl
+DD14F3F8:Olthoi Girth
+DD1513DD:Studded Leather Greaves
+DD1512B8:Frost Lugian Hammer
+DD1512B1:Frost Claw
+DD1511FE:Metal Cap
+DD1511FD:Top
+DD1511F1:Frost Board with Nail
+DB5041B7:Heavy Bracelet
+DD151116:Puzzle Box
+DD104FAB:Electric Spine Glaive
+DD151071:Board with Nail
+DD15106A:Heavy Bracelet
+DD150F7F:Orb
+DCEC3B6B:Superior Shield
+DC950D59:Nariyid Girth
+DAAB811C:Slashing Staff
+DAAF0830:Heavy Bracelet
+819C350B:Drudge Championship Belt
+B0B9412F:Salvage (97)
+B0B5761F:Salvage (89)
+B0D7AFE1:Flaming Corsesca
+DC5BC773:Superior Shield
+
+Missing Exports - Possessed items that were not found:

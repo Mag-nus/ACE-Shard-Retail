@@ -1,0 +1,282 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\trello_datamining\2_Pygoscelis-DesertedRuin.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\trello_datamining\23_Pygoscelis-DerethOuterCoastline-06-09\Pygoscelis-DerethOuterCoastline-06.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\23_Pygoscelis-DerethOuterCoastline-06-09\Pygoscelis-DerethOuterCoastline-07.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\23_Pygoscelis-DerethOuterCoastline-06-09\Pygoscelis-DerethOuterCoastline-08.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\24_Pygoscelis-DerethInnerCoastline\Pygoscelis-DerethInnerCoastline-02.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\24_Pygoscelis-DerethInnerCoastline\Pygoscelis-DerethInnerCoastline-02.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\24_Pygoscelis-DerethInnerCoastline\Pygoscelis-DerethInnerCoastline-03.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\1_Pygoscelis-LugianQuarry.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\59_Pygoscelis-WhiteRabbit-CarenziRace-Casino.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\197_Pygoscelis-DerethLandscape\DirelandsLandscape-TethSouthEast.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\195_Pygoscelis-LumifestQuests\Pygoscelis-LostLoreQuest-HandIn.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\21_Pygoscelis-DerethOuterCoastline-01-03\Pygoscelis-DerethOuterCoastline-02.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\22_Pygoscelis-DerethOuterCoastline-04-05\Pygoscelis-DerethOuterCoastline-05.pcap
+
+Partial Exports - Missing appraisal info:
+80659A10:Blackmoor's Favor
+80659A0F:Facility Hub Portal Gem
+80659A0E:Sack
+80659A0D:Trade Note (250,000)
+80659A06:Trade Note (250,000)
+80659A00:Aetheria
+80659A01:Trade Note (250,000)
+806599FE:Trade Note (250,000)
+8FC10108:Pyreal
+9A6D0612:Trade Note (250,000)
+806599B5:Colosseum Coin
+806599C2:Adventurer's Token
+806599B7:Stipend
+806599B8:Ancient Mhoire Coin
+806599BD:A'nekshay Token
+9C08E204:Trade Note (250,000)
+9B72EFB7:Aetheria
+9D056634:Aetheria
+9D07795B:Trade Note (250,000)
+806599FC:Aetheria Mana Stone
+9E38FA37:Pyreal
+A10333DB:Converter's Crystal
+AB7F155A:Resister's Crystal
+AB734484:Thief's Crystal
+9E21D745:T'ing's Crystal
+806599C4:Olthoi Egg
+806599FA:Aphus Lassel Portal Gem
+806599F1:Salvage (20)
+87C4AAFC:Salvage (10)
+8ED1597B:Salvage (30)
+806599DE:Sack
+8FA9863E:Salvage (100)
+8E521995:Salvage (10)
+9D069198:Flaming Scimitar
+8E54700B:Salvage (17)
+8ECC5D3E:Salvage (16)
+9039C0AF:Salvage (10)
+99846888:Salvage (9)
+806599C3:Blighted Mana Crystal
+9A7F6B70:Salvage
+9A50ADEC:Salvage (100)
+806599C6:Coronet
+9A91736C:Salvage
+9B080C73:Salvage (100)
+806599D6:Diadem
+9B085E7B:Salvage (100)
+9B056162:Salvage (21)
+806599BF:Charged Shard
+9B511D14:Salvage (100)
+9B705CD2:Salvage (75)
+806599B4:Glimmering Gem
+9BEF7FCA:Salvage (18)
+9C8F54AE:Salvage (100)
+806599B3:Shadow Fragment
+9E2BCA98:Salvage (36)
+9E265881:Salvage (38)
+9A18EA28:Gold Shallows Shredder Fin
+AB83F121:Salvage
+AB8F11F0:Salvage (36)
+806599DC:Diadem
+806599CD:Coronet
+806599CA:Coronet
+806599DD:Teardrop Crown
+9A04C174:Coronet
+9BCD2E2F:Teardrop Crown
+9A6AD355:Cloak
+9BCD345E:Flaming Bastone
+9B863949:Shou-ono
+806599F4:Brass Knuckles
+9C91F9F5:Electric Naginata
+9CFFA51E:Scimitar
+9B4FEE9D:Swamp Stone
+80659951:Slashing Baton
+80659991:Quartered Cloak
+8065997F:Major Mana Stone
+9C09B8DD:Focusing Stone
+80659A07:Ancient Relic Gauntlets
+9B085402:Shadow Fragment
+9B809A4B:Knight's Crystal
+A82DBF4F:Warrior's Crystal
+A9C3F5F6:Brawler's Crystal
+806599F3:Baron's Amulet of Life Giving
+9996373A:Major Mana Stone
+9B0853EE:Shadow Fragment
+9B04E86A:Shadow Fragment
+9B078B6B:Shadow Fragment
+9AFDBEF4:Dark Revenant Thighbone
+9A6F1032:Plated Shard
+9B7A5268:Sezzherei's Lair
+9B882925:Black Skull of Xikma
+9D0763BB:Snow Tusker Blood Sample
+9F9C586F:Blank Augmentation Gem
+A4C94167:Blank Augmentation Gem
+A53AD332:Blank Augmentation Gem
+A5B2B285:Blank Augmentation Gem
+A626D17B:Blank Augmentation Gem
+A8AF89E9:Blank Augmentation Gem
+806599AB:Licorice Rat
+806599AA:Candy Corn
+806599A8:Pet Penguin Igloo
+806599A3:Chocolate Gromnie
+806599A2:Baggy Shirt
+806599A1:Antiquated Compass
+806599A0:Pack Golem
+8065999E:Fadsahil's Portal Gem
+80659998:Mukkir Nest Portal Gem
+80659990:Gem of Stillness
+8065998C:Heavy Bracelet
+80659984:Upgraded Noble Relic Sollerets of Speed
+80659982:Splitting Tool
+9A6CF1F8:Sack
+80659981:Ring
+80659980:Enhanced Mana Elixir
+8065996E:Potion of Black Fire
+8065997E:Dark Monolith Caverns
+8065997B:Enhanced Health Elixir
+80659979:Pack Golem
+80659978:Pack Golem
+80659977:Pack Golem
+80659976:Pack Golem
+80659975:Dark Monolith Caverns
+8065996C:Ring
+8065996D:Licorice Rat
+80659960:The Orphanage
+8065995D:Aetheria
+8065995E:Aetheria
+87C52734:Aetheria
+8028B476:Pantaloons
+8D7C8363:Ring
+9D066307:Prismatic Taper
+8060C69D:Flared Pants
+92FAD281:Pants
+80659955:Ust
+99F2244E:Asheron's Lesser Benediction
+8065997A:Aetheria
+806599F9:Diamond Scarab
+9A019649:Spirit of Izexi Gem
+9A18F12B:Vissidal Island Portal Gem
+9A8B86C8:Major Mana Stone
+806599FB:Pyreal Scarab
+806599A9:Platinum Scarab
+9997E5C1:Silver Scarab
+80659A11:Lead Scarab
+806599AC:Copper Scarab
+9B0A4E4B:Salvage (13)
+9B0C8EFB:Salvage
+9B0CA187:Salvage (16)
+9BFDE6A8:Gold Scarab
+9B07C8A0:Salvage (13)
+9AFA3A00:Salvage
+9CEF5400:Mana Scarab
+9B05EA0D:Salvage (10)
+9B060744:Salvage (18)
+9B0786BB:Sack
+9B835339:Salvage
+9B719078:Salvage
+9ED57797:Ring
+9BF00F36:Salvage (25)
+9C083164:Salvage (36)
+9BEC7FD6:Lesser Corrupted Essence
+9E2285F2:Chorizite
+9A62E8D9:Chocolate Gromnie
+9A6FB8DC:Aetheria
+9A7C004D:K'nath T'soct Essence
+9A85DA70:Encapsulated Spirit
+ABBF2D62:Writings
+9A8F7736:Fire Child Essence (150)
+9AF8E316:Acid Elemental Essence (100)
+9BDE7D33:Lesser Corrupted Essence
+9BDE1A7E:Lesser Corrupted Essence
+9BA774D1:Lesser Corrupted Essence
+9BCA60E7:Lesser Corrupted Essence
+9BCCA010:Corrupted Essence
+9BEDCA64:Lesser Corrupted Essence
+9BEF7FC5:Salvage (58)
+9BED11AD:Decanter of Essence
+9C88259F:Major Mana Stone
+9C083163:Salvage (11)
+9B6FCF14:Salvage (11)
+8065998F:Pathwarden Trinket
+9C05A216:Salvage
+9C1D3CD7:Salvage
+9D18C381:Salvage
+9C7F057E:Salvage
+9D072BD3:Salvage
+9CF089AF:Ring
+9D042C4E:Salvage (71)
+A9BCFA08:Blank Augmentation Gem
+9D161E3E:Salvage (13)
+AB83B84B:Pack
+9E33ABBC:Salvage (33)
+9E33B7A0:Salvage (12)
+AB7AC7F1:Mana Forge Key
+A015F20B:Salvage (63)
+9B09AB5B:Frost K'nath Essence (100)
+9B06F7ED:Frost K'nath Essence (125)
+837E6150:Galvanic Knight Essence
+9B6DB47A:Lightning Wisp Essence (150)
+9B72EFB6:Aetheria
+9B720E6C:Fire Child Essence (125)
+9B80AA73:Acid K'nath Essence (150)
+80659988:Upgraded Noble Relic Coat of Brilliance
+8065996F:Upgraded Noble Relic Helm of Will
+9BCC57BB:Fire Wisp Essence (125)
+9BCD3010:Frost K'nath Essence (150)
+9BC51546:Fire Child Essence (150)
+9BCA281F:Iron Golem Essence
+9BDB0811:Fire Wisp Essence (150)
+9BEBFD28:Lightning Child Essence (125)
+9C03122F:Lightning Wisp Essence (125)
+9C02DB0B:Chevron Cloak
+80659986:Upgraded Noble Relic Gauntlets of Strength
+ABA2924A:Drudge Key
+9C6618D4:Heavy Bracelet
+806599FF:Aetheria
+AB82DDC1:Mana Forge Key
+9D1516E5:Flared Shirt
+9E271E80:Heavy Bracelet
+ABB0C0E0:Viamontian Pennant
+8065995F:Sceptre
+9BDC6380:Lightning Child Essence (150)
+9D1A1AC5:Lightning Child Essence (150)
+9BCD41C0:Acid K'nath Essence (125)
+9D074FFB:Fire Wisp Essence (180)
+A4C868C7:Fire Zombie Essence (150)
+9C0635DA:Frost Child Essence (180)
+AB82EB52:Acid Child Essence (125)
+ABAC6AE5:Banished Axe
+ABEBF3EA:Te Ven's Key
+AB7E8640:Lightning Wisp Essence (180)
+AB88D383:Diamond Heart
+ABA97165:White Jewel
+800B9E27:Slashing Sceptre
+ABA7BB94:Orb of the Bunny Booty
+ABA7BE63:Pack
+ABD78897:Aphus Lassel Portal Gem
+ABD983E1:Trade Note (150,000)
+ABD7D299:Trade Note (100,000)
+ABD98406:Trade Note (50,000)
+ABEDC0D4:Dagger of Frozen Fury
+ABD983DA:Gem of Stillness
+ABD7D2E6:Trade Note (200,000)
+ABA1E9F3:Banished Atlatl
+ABEC916A:Trade Note (250,000)
+ABECE986:Health Tonic
+ABEB6364:Mid-Stakes Gambling Token
+ABAAC55E:Living Tome
+80659952:Electric Sceptre
+ABB48375:Tumerok Record Book
+ABD6170F:Bunch of Nanners
+ABD4DB0E:Virindi Singularity Key
+ABD8C090:Letter from Uber P
+ABD686EA:Staff of the Painbringer
+80659953:Acid Baton
+ABD933A6:Bordered Cloak
+ABDB2F2E:Lightning Wisp Essence (125)
+ABDB2FD6:Acid K'nath Essence (150)
+ABA459B4:Blizzard Wisp Essence
+ABE294C3:Broken Haft
+9B4B06C5:Ultimate Singularity Scepter of War Magic
+ABC3015D:Rithwic Town Stamp
+ABBF2C3E:Yanshi Town Stamp
+
+Missing Exports - Possessed items that were not found:

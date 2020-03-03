@@ -2,9 +2,9 @@ Source:
 C:\ACEmulator\Logs Unpacked\02-01-2017\baron-of-colier-random-last-day-3\pkt_2017-1-30_1485836922_log.pcap
 
 Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\baron-of-colier-random-last-day-2\pkt_2017-1-30_1485815045_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\baron-of-colier-random-last-day-2\pkt_2017-1-30_1485815045_log.pcap
 C:\ACEmulator\Logs Unpacked\02-01-2017\baron-of-colier-random-last-day-3\pkt_2017-1-30_1485836315_log.pcap
-C:\ACEmulator\Logs Unpacked\02-01-2017\baron-of-colier-random-last-day-2\pkt_2017-1-30_1485815045_log.pcap
-C:\ACEmulator\Logs Unpacked\02-01-2017\baron-of-colier-random-last-day-2\pkt_2017-1-30_1485815045_log.pcap
 C:\ACEmulator\Logs Unpacked\02-01-2017\baron-of-colier-random-last-day-3\pkt_2017-1-30_1485836922_log.pcap
 
 Partial Exports - Missing appraisal info:

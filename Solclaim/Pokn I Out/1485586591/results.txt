@@ -1,0 +1,163 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Pokn_1-28-17_Mamment_-Foundry-Mayoi\Mamment  Foundry - Mayoi\pkt_2017-1-28_1485586589_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Pokn-01-25-2017-Bandit_Castle_OHN_Bandit\pkt_2017-1-25_1485407259_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Pokn_1-28-17_Catacombs_of_Opposition\Catacombs of Opposition\pkt_2017-1-27_1485574175_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Pokn-01-25-2017-Bandit_Deeper_Catacombs_pcap-only\pkt_2017-1-26_1485411669_log.pcap
+
+Partial Exports - Missing appraisal info:
+8063F90C:Pack
+8063F377:Ust
+8063F96F:Habitat Portal Gem
+805F454A:Gem of Stillness
+8063FA94:Thorsten's Armor
+805EABBC:Aphus Lassel Portal Gem
+8063FA8D:Blighted Mana Crystal
+805EABB2:Eldrytch Web Commendation Ribbon
+8063F9BD:Rare Crystalline Shard
+8063F93D:Eldrytch Web Trade Token
+805B9262:Prismatic Taper
+8063F9C4:Vissidal Island Portal Gem
+8063F9DD:Sneak Attack Gem of Enlightenment
+8063F9CA:Adventurer's Token
+8063FA56:Sollerets
+8063F9A3:Grand Casino Key
+8063F9AC:Grand Casino Key
+80632D83:Pathwarden Trinket
+80685BBB:Stone Fists Token
+8063FA03:Blackmoor's Favor
+80685BBA:Foci of Artifice
+80685BBD:Pack
+80685BB8:Bandit Dagger
+80685BB7:Ravenous Dagger
+8063F92E:Greater Mana Kit
+805B52F2:Left-hand Tether Remover
+8063C666:Snow Tuskie Kennel
+8063FA20:Focusing Stone
+8063C50F:Virindi Singularity Key
+8059112C:Frost Poniard
+8063F9D7:Mana Forge Key
+8063F9D3:Lightning Claw
+805B9294:Electric Naginata
+9C9F5F8F:Olthoi Acid Katar
+80645CD1:Flaming Dirk
+80645CD0:Ultimate Singularity Dagger
+805B92E0:Sack
+80645D86:Flaming Lancet
+9CA083EB:Ancient Empyrean Trinket
+8063FA45:Explorer Title Token
+8063FAC0:Dirk
+80631A05:Dirk
+8063BBE1:Aligned Mana Stone
+8063F96D:Heart of the Innocent
+8063FA55:Energy Crystal
+805FE881:Blank Augmentation Gem
+8063FA4B:Blank Augmentation Gem
+8063FA3D:Altered Dark Remoran Fin
+8063F96E:Pyre Shroud
+8063F9C6:Unstable Mana Stone
+8063F9AB:Enchanted Mana Stone
+8063FA9D:Aetheria Mana Stone
+8063FA49:Stipend
+8063F9CE:Major Mana Stone
+8063FA65:Aetheria
+805CDB8E:Major Mana Stone
+80645E4D:Coruscating Olthoi Scent Gland
+805E4839:Pack
+8063FAB3:Amber Ape
+805B928E:Bobo's Stout
+805D5192:Ursuin Rug
+805B912E:Tusker Spit Ale
+8063F9C5:Duke Raoul's Distillation
+8063FA62:Trade Mana Elixir
+805B9205:Apothecary Zongo's Stout
+8063FA32:Thorsten's Armor
+8063FA35:Glorious Lager
+805B6CDD:Ring
+8063FAAF:Inscribed Purple Gem
+8063BC26:Chevron Cloak
+806172F2:Lorica Helm
+8063F9AF:Rez'arean Ore
+80617A88:Gauntlets
+8063FA29:Ring
+8063FAA6:Sedgemail Leather Vest
+8063C579:Loafers
+805B5EA4:Pyreal
+8063FA3B:Trade Note (250,000)
+805B94FD:Shoyanen's Portal Gem
+8063F9BF:Massive Mana Charge
+805B926D:Staff
+8063FA04:Orb
+8063F9D8:A Horn of Vigilance
+8063BC28:Orb
+8059A3EE:Chalice
+8063FA06:Pathwarden Trinket
+80125476:Orb
+8063F9BC:Foci of Verdancy
+8063F9F2:Foci of Enchantment
+8063FA8E:Bracelet of Dark Essence
+805B956E:Diforsa Pauldrons
+80645CCC:Gold Scarab
+8063FA08:Celdon Girth
+8063F8D0:Heavy Bracelet
+8063FA26:Excellent Healing Kit
+8063FB45:Scalemail Bracers
+8063FA14:Pants
+8063FAB9:Untranslated Note
+8063FA85:Condensed Dispel Potion
+8063F8D4:Combined Kukuur Hides
+8063F9AE:Silver Scarab
+805E43E4:Platinum Scarab
+8063FB71:Ancient Mhoire Coin
+8063FA36:Iron Scarab
+805B9459:Protective Drudge Charm
+8063FA39:Scalemail Tassets
+8063FA4F:Pyreal Scarab
+8063FAB7:Mana Scarab
+8063FA43:Shirt
+8063C652:Lead Scarab
+805CD551:Diamond Scarab
+805EAB7A:Copper Scarab
+805B6780:Ring
+8063FA97:Tumerok Salted Meat
+805B92B6:Jester's Marbles
+80628AED:Renegade Herbal Kit
+8063C613:A Crumpled Letter
+805B9583:Ruschk Scalp
+805B8E43:Covenant Greaves
+80633A4A:Pyreal
+80646551:Pyreal
+8E824668:Penguin Wing
+9C8CC8F1:Greater Mana Stone
+9C8C9B8A:Olthoi Claw
+9C8739DF:Encapsulated Spirit
+9C8B3DBB:Scarlet Red Letter
+9C8C9B5E:Scarlet Red Letter
+9C892A44:Lucky Gold Letter
+9C8C9B8E:Olthoi Claw
+9C7F9E3A:Deceiver's Crystal
+9C8B3E3D:Olthoi Claw
+9CA084A8:Olthoi Claw
+9CA083D5:Olthoi Head
+9CA08316:Scarlet Red Letter
+9CA0833D:Olthoi Stab Claw
+9CA083A3:Scarlet Red Letter
+9C9A1895:A Note from a Scout
+9C93ED30:Olthoi Head
+9C8FB951:Olthoi Head
+9C93A6CD:Olthoi Claw
+9C9F647E:Pyreal
+8063BD90:Staff
+9C9F6838:Pyreal
+9C9F6871:Pyreal
+9C9F6833:Pyreal
+9CA0C7EB:Agent of Arcanum List
+9CA187BB:Bronze Spring from a Statue
+8062877A:Lancet
+80645F1E:Board with Nail
+9CA1904A:Iron Pea
+80628E02:Acid Stiletto
+80596C9A:Acid Dirk
+
+Missing Exports - Possessed items that were not found:

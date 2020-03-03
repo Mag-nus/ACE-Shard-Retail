@@ -1,0 +1,113 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485766599_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps-20170203071513\pkt_2017-1-27_1485526251_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-25_1485372631_log.pcap
+
+Partial Exports - Missing appraisal info:
+810C6335:Foci of Strife
+811A759C:Sack
+8119D33F:Artist's Crystal
+81133E09:Zefir's Crystal
+80FC7F9E:Chef's Crystal
+81095BF1:Elysa's Crystal
+810C376A:Foci of Verdancy
+811B611B:Superb Mana Charge
+80FBC4E6:Foci of Artifice
+811A91B4:Seal
+810E10B8:Prismatic Taper
+811C0444:Superb Mana Charge
+811B74BF:Ust
+8119E958:Platemail Gauntlets
+811A371D:Asheron's Benediction
+811A80DB:Pack
+8118CE1E:Blackmoor's Favor
+811B78EB:Blackmoor's Favor
+811B60F6:Silver Scarab
+811BFFFC:Copper Scarab
+811B7473:Diamond Scarab
+811A7C30:Prismatic Taper
+811C0178:Hyssop
+811A9017:Gold Scarab
+811A7787:Pyreal Scarab
+811848DB:Iron Scarab
+811A3A57:Asheron's Supreme Raiment
+811C3212:Brown Beans
+811D23E5:Carving Knife
+8111C268:Elaborate Dried Rations
+811D23E3:Granite Keyring
+811D23E4:Eye Dropper
+8111A838:Lead Scarab
+811D23E7:Pack
+811D23E8:Shortbow
+811D23E9:Scroll of Drain Mana Other VI
+811D23EA:Banished Spear
+811D23EB:Pack Bael'Zharon
+811D23ED:Pack Golem
+811D23EF:Pack Asheron
+811D23F0:Pack Levistras
+811D23F2:Oxidized Statue 
+811D23F3:Pack Gaerlan
+811D23F4:Pack Martine
+811D23F5:Ursuin Hide Helmet
+811D23F6:Veil of Darkness
+811D23FD:Pack Golem
+811D23F7:Oxidized Statue
+811D23FE:Pack Pumpkin Lord
+811D23FB:Velveteen Olthoi
+811D23FC:Ancient Diamond Idol
+811D23FF:Pack Scarecrow
+811D2403:Pack Levistras
+811D2400:Pack Lugian
+811D2409:Pack Bael'Zharon
+811D2401:Pack Ursuin
+811D2402:Pack Virindi
+811D2404:Plush Tusker
+811D2419:Tome
+811D2405:Pack Grievver
+811D2406:Golden Gromnie
+811D2407:Pack Idol
+811D2408:Pack Ancient Olthoi Queen
+811D240A:Pack Grael
+811D240B:Pack Scold
+811D240C:Pack Burun Kukuur
+811D240E:Pack P.
+811D240F:Pack Drudge
+811D2410:Tipped Pack Cow
+811D2411:Pack Cow
+811D2433:Pyreal
+811D2412:Pack Martine
+811D2413:Pack Gaerlan
+811D2414:Pack Asheron
+811D2416:Pack Tower Guardian
+811D2415:Pack Mosswart
+811D241C:Parchment
+811D2417:Koujia Sleeves
+811D2418:Covenant Gauntlets
+811D241B:Ursuin Cub Kennel
+811D241E:Luminous Robe
+811D241F:Teardrop Crown
+811D2420:White Bunny Slippers
+811D2421:White Rabbit Girth
+811D2422:Ring
+811D2423:Lucky Rabbit's Foot
+811D2425:Baggy Tunic
+811D2426:Flared Pants
+811D242F:Snowflower
+811D2427:A Huge Lump of Coal
+811CC3FF:Book Shelf
+811D2431:The Founding of Kor-Gursha
+811D242C:Piercing Sceptre
+811CE558:Pack Asheron
+811D242D:Acid Sceptre
+811D242E:Piercing Sceptre
+811CE556:Pack Gaerlan
+B7852AB2:Pyreal
+811CE559:Pack Ancient Olthoi Queen
+811CE554:Oxidized Statue
+811CE557:Pack Scarecrow
+C8001A6E:Stipend
+8103289F:Pack
+
+Missing Exports - Possessed items that were not found:

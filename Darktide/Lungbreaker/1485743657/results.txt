@@ -1,0 +1,94 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-29_1485743653_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-24_1485276475_log.pcap
+
+Partial Exports - Missing appraisal info:
+D81F8A9C:Smock
+D81F8A9D:Pants
+D81F8A9E:Pyreal
+D81F8A9F:Sack
+D81F8AA0:Prismatic Taper
+D81F8AA1:Lead Scarab
+D81F8AA2:Copper Scarab
+D81F8AA3:Silver Scarab
+D81F8AA4:Iron Scarab
+D81F8AA5:Ust
+D81F8AA6:Foci of Artifice
+D81F8AA7:Asheron's Benediction
+D81F8AA8:Blackmoor's Favor
+D81F8AA9:Pack
+D81F8AAA:Pathwarden Trinket
+D81F8AAB:Pathwarden Gauntlets
+D81F8AAC:Pathwarden Sollerets
+D81F8AAD:Sturdy Iron Key
+D81F8AAE:Teleportation Device
+D81F8AAF:A List of Items
+D81F8AB0:Academy Dirk
+D81F8AB1:Acid Dirk
+D81F8AB2:Pants
+D81F8AB4:Training Wand
+D81F8AB3:Necklace
+D81F8AB5:Gem
+D81F8AB6:Gem
+D81F8AB7:Lead Pea
+D81F8AB8:Wood Heart
+D81F8AB9:Dull Dagger
+D81F8ABA:Superior Helmet
+D81F8ABB:Baron's Amulet of Life Giving
+D81F8ABC:Stone of Rez'arel
+D81F8ABD:Lightning Dirk
+D81F8ABE:Salvage
+D81F8ABF:Wand
+D81F8AC0:Falcon Banner
+D81F8AC1:Flaming Dirk
+D81F8AC2:Studded  Gauntlets
+D81F8AC3:Foci of Verdancy
+D81F8AC4:Foci of Enchantment
+D81F8AC6:Pack
+D81F8AC5:An Explorer Dagger
+D81F8AC7:Sceptre
+D81F8ACD:Sturdy Iron Key
+D81F8AC8:Platemail Sleeves
+D81F8AC9:Chainmail Girth
+D81F8ACE:Sturdy Iron Key
+D81F8ACA:Chainmail Tassets
+D81F8ACB:Steel Toed Boots
+D81F8ADA:Pyreal
+D81F8ACC:Chainmail Breastplate
+D81F8ACF:Trade Note (150,000)
+D81F8AD0:Note from Mi Krau-Li
+D81F8AD1:Mi Krau-Li's Jitte
+D81F8AD2:A Battered Leather Journal
+D81F8AD3:Chainmail Greaves
+D81F8AD4:Platemail Girth
+D81F8AD5:Mace of the Explorer
+D81F8AD8:Journal of Frest Greelving
+D81F8AD6:Ruschk Hunter Leggings
+D81F8AD7:Scalemail Cuirass
+D81F8AD9:Silver Atlatl
+D81F8ADB:Tetsubo Slugger
+D81F8ADF:Adept Healing Kit
+D81F8ADC:Ornate Nekode
+D81F8ADD:Steel Toed Boots
+D81F8AEA:Evil Couch
+D81F8ADE:Branith's Shirt
+D81F8AE0:Mite Queen's Staff
+D81F8AE1:Discus
+D81F8AE2:Long  Gauntlets
+D81F8AE3:Shirt
+D81F8AE9:Torch
+D81F8AE4:Ancient Arbalest
+D81F8AE5:Letter to Bretself the Translator
+D81F8AE6:Trade Note (10,000)
+D81F8AE7:Chronicle of Archeological Site Celadon
+D81F8AE8:Portal Chamber Key
+D81F8AEB:Teleportation Device
+D81F8AEC:Some Changes for February 2012
+D81F8AED:Branith's Staff
+D81F8AEE:Dagger of Tikola
+D81F8AEF:Fiery Shield
+D81F8AF0:Frost Stiletto
+
+Missing Exports - Possessed items that were not found:

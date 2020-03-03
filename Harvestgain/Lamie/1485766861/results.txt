@@ -1,0 +1,104 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485766854_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps-20170203071513\pkt_2017-1-27_1485526251_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-25_1485344329_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-26_1485460085_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-25_1485372631_log.pcap
+
+Partial Exports - Missing appraisal info:
+811D1850:Ust
+811D1851:Pyreal
+811D1852:Asheron's Benediction
+811D1853:Trade Note (10,000)
+811D1854:Trade Note (50,000)
+811D1857:Trade Note (250,000)
+811D1858:Pyreal
+811D185D:Pyreal
+811D185E:Pyreal
+92D826F5:Pyreal
+92DE5F07:Pyreal
+B713E857:Gem of Stillness
+811D1866:Foci of Artifice
+811D1868:Lead Scarab
+811D1869:Copper Pea
+811D186A:Silver Pea
+811D186C:Copper Scarab
+811D186D:Iron Scarab
+811D186E:Silver Scarab
+811D186F:Gold Scarab
+811D1876:Moderate Mana Charge
+811D1877:Letter From Home
+811D1879:Small Bundle of Strand Siraluun Feathers
+811D187A:Small Bundle of Strand Siraluun Feathers
+811D187B:Small Bundle of Tidal Siraluun Feathers
+811D187D:Moderate Mana Stone
+811D187E:Water Golem Heart
+811D187F:Ring
+811D18AD:Alloy Tool
+811C2805:Couch
+811C2803:Footstool
+811CC3EF:Snowflower
+811CE55A:Snowy Cabin Snowglobe
+811CC401:Alchemy Table
+80184C30:Pack Asheron
+811D1899:Ring
+811D189A:Heavy Bracelet
+811D189B:Ring
+811D189C:Studded Leather Gauntlets
+811D189F:Cloth Cap
+811D189D:Chainmail Gauntlets
+811D189E:Loose Pants
+80184BBB:Floating Candle
+811D18A0:Halved Cloak
+811D18A1:Jerkin
+811CC3F1:Treasure
+811D18A2:Baggy Shirt
+811D18A3:Pathwarden Robe
+811CC400:Divan
+811D18A5:Halved Cloak
+811CC405:Garden Drudge
+811D18A6:Cloak
+811D18A7:Facility Hub Portal Gem
+B5EDD829:Basalt Blade
+811D18A8:Deadly Blunt Arrow
+811D18A9:Deadly Blunt Arrow
+811D18AE:Note from Hea Toneawa to Aun Mariona
+811D18AA:Deadly Fire Arrow
+811D18AB:Wrapped Bundle of Greater Blunt Arrowheads
+811D18AC:Wrapped Bundle of Arrowshafts
+811D23F8:Pack Burun Kukuur
+811D2120:Font of Jojii
+811CC406:Small Pine Tree
+811D240D:Ursuin Toy
+811CC3F7:Gharu'ndim Hanging Rug
+8046B0F6:Homecoming Pennant
+811CC3F0:Pack Asheron
+C818F786:Dusky Winged Coat
+8046B0F4:Homecoming Pennant
+811CC403:Globe of Auberean
+811CC402:Ursuin Mask
+811D23EE:Oxidized Statue
+811C2804:Gharu'ndim Rug
+811D23FA:Head of the Olthoi Queen
+8018D53B:Pack Gaerlan
+B504E0B3:Canescent Mattekar Pelt
+811D23EC:Oxidized Statue
+80FD84A0:Blunt Baton
+811D23F1:Carved Tusker Statue
+811D23F9:Oxidized Statue 
+B3E3BA02:Nether Sceptre
+811CBE4A:Trident
+811CBE48:Trident
+811CBE4B:Trident
+811CBE4E:Frost Trident
+811CBE49:Trident
+811CBE4F:Electric Trident
+B06F8CC3:Acid Staff
+81008B58:Slashing Sceptre
+C76D5E84:Enchanter's Crystal
+B33D9009:Scholar's Crystal
+B6F9E278:Deceiver's Crystal
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,276 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-09-2017\Callaway-01-17-31-2017-QuidditySeedMisc\pkt_2017-1-19_1484885392_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-09-2017\Callaway-1-17-29-2017-Misc2\pkt_2017-1-18_1484772249_log.pcap
+
+Partial Exports - Missing appraisal info:
+B6178E77:Sack
+DAAD176D:Dark Shard
+DA84C3B2:Pyreal Nugget
+DAC8E37F:Pyreal Nugget
+DA8253A5:Pyreal Mote
+DAA1B666:Pyreal Mote
+B493BDEF:Diamond Heart
+B4450A5E:Diamond Heart
+DAAF2ACC:Stipend
+DAC79DA5:Relanim Plant
+DAACC3E2:Coral Heart
+DAAC12CC:Half-Digested Virindi Mask
+DBC52C05:Diamond Heart
+DBC58AB9:Ivory Gromnie Tooth
+DBC58ABB:Azure Gromnie Tooth
+DBC58ABC:Thin Gromnie Hide
+DBC52BF7:Pyreal Mote
+DBC58AB7:Rust Gromnie Tooth
+B6178E76:Pyreal
+B6178E78:Ust
+B6178E7F:Prismatic Taper
+B6178E80:Lead Scarab
+B66F42A7:Blackmoor's Favor
+B67C2E46:Facility Hub Portal Gem
+DAAB7D2F:Acid Yaoji
+DAAF0F9F:Amulet
+DAAB9E2A:Kasrullah
+DAAF0E05:Acid Club
+DAAF0223:Frost Quarter Staff
+DAAF1D22:Electric Slingshot
+DAD521FD:Neydisa Snowglobe
+DAAC46C9:Acid Naginata
+DAAC3EB9:Flaming Yari
+DBC41C65:Small Belt Pouch
+DAAF0682:Frost Spiked Club
+DAAC3DDB:Bracelet
+DBF8C8BD:Halaetan Magic Page 10
+DAAEE808:Acid Hand Axe
+DAAEE809:Jitte
+D950A37B:Reforged Ashbane
+81983390:Artist's Crystal
+B3E8F577:Platemail Hauberk
+DBBC82D0:Pack
+DAAF0F9D:Frigid Zombie Essence
+B67D228D:Sturdy Iron Key
+DAAC3E78:Electrified Moar Essence
+DAAEF410:Lightning Skeleton Samurai Essence
+DAAF0191:Incendiary Wisp Essence
+DAAD2D55:Galvanic Knight Essence
+DAAB8DF2:Glacial Knight Essence
+DAAD313C:Acid Skeleton Samurai Essence
+DAADD9DB:Caustic Knight Essence
+DAAB7D2B:Electrified Moar Essence
+DAAF1D1F:Fire Skeleton Samurai Essence
+DAAC46CA:Shocked Zombie Essence
+DB112197:Strengthened Mana Forge Key
+DB1F9008:Strengthened Mana Forge Key
+DB1121A5:Strengthened Mana Forge Key
+DB3DFA8A:Strengthened Mana Forge Key
+DB1B4FE1:Strengthened Mana Forge Key
+DB28FA6D:Strengthened Mana Forge Key
+DB51578C:Strengthened Mana Forge Key
+DBF7F0C3:Writ of Refuge
+8BAB9C8D:Halved Cloak
+DB96A769:Gelidite Robe
+DBF75818:Lugian Armor
+DAAC467D:Fortified Mana Forge Key
+DBA375AB:Golden Gromnie
+DB290DE0:Golden Gromnie
+DBA3CF1D:Golden Gromnie
+DB915A5E:Salvage
+DBA33156:Salvage
+DB3B152A:Salvage
+DB72F0E0:Salvage
+DB57112E:Salvage
+DBB6BF54:Salvage
+DB3B13DC:Salvage
+DB10B001:Salvage
+DBF5C8E8:Yellow Jewel
+DBF5C97B:Yellow Jewel
+DBD740A1:Buckler
+DBBCB794:Corruptor's Crystal
+DBD5864D:Trimmed Cloak
+DB06FAC7:Halved Cloak
+DB808FE8:Buckler
+DBE7A738:Gold Pea
+DBDC2919:Olthoi Shield
+DC0121E4:Koujia Breastplate
+DBFEFDB7:Nariyid Breastplate
+DBC41A2E:Pack
+DB8A6407:Golden Gromnie
+DBEB0FAD:Chevron Cloak
+DAAF082B:Chevron Cloak
+DBF04696:Decorative Ursuin Head
+DB3A6243:Quartered Cloak
+DB4EA206:Chevron Cloak
+DBFACAF5:Renegade Insignia Ring
+8BAB9CC1:Quartered Cloak
+DAC57A4C:Golden Gromnie
+DB1121BD:Golden Gromnie
+DBA3752C:Strengthened Mana Forge Key
+DB13755B:Strengthened Mana Forge Key
+DB11212D:Strengthened Mana Forge Key
+DB29059B:Strengthened Mana Forge Key
+DBFF3A6B:Baggy Shirt
+DBBFD2AD:Small Belt Pouch
+DBFE6455:Covenant Gauntlets
+DBFF2FEA:Lorica Helm
+DB9B0D8F:Mana Forge Key
+DBFEF784:Olthoi Greaves
+DBFE6494:Studded Leather Breastplate
+DAAF0E00:Aetheria
+DBFC41A7:Crest of Kings
+DBDC1C10:Ancient Falatacot Trinket
+DAAEF18E:Quarter Staff
+DBA33175:Salvage
+DBBC76B9:Pack
+DBB6BE87:Salvage
+DB570EB0:Salvage
+DB27B2EB:Salvage
+DB570678:Salvage
+DBA33160:Salvage
+DB4C1D3B:Salvage
+DAF75DC0:Salvage
+DB126247:Salvage
+DAF023A3:Salvage
+DBB6BE80:Salvage
+DB3D8AA8:Salvage
+DBB6BE99:Salvage
+DB27B29C:Salvage
+DB27B30A:Salvage
+DB8DB414:Salvage
+DB521E67:Salvage
+DBA33173:Salvage
+DB3D8371:Salvage
+DB915ADC:Salvage
+DB126243:Salvage
+DB8F1486:Salvage
+DBA33162:Salvage
+DAFA8911:Salvage
+DBE73844:Yellow Jewel
+DBE71A66:Sturdy Steel Key
+DBFDE776:Sturdy Steel Key
+DBDC29C9:Sturdy Steel Key
+DC0535AF:Sturdy Steel Key
+DBF353D9:Sturdy Steel Key
+DBD5A598:Sturdy Steel Key
+DBF35254:Sturdy Steel Key
+DBCFBEAF:Sturdy Steel Key
+B0CEC4DF:Royal Runed Slashing Baton
+DB7AA984:Princely Runed Flamberge
+DA041B4D:Royal Runed Flamberge
+DBC1F8AE:Granite Key
+AB514ABF:Princely Runed Knuckles
+DBE76647:Royal Runed Slashing Baton
+DC02FED8:Princely Runed Bastone
+DAAEFD3F:Khanjar
+DBBFDA96:Small Belt Pouch
+DAAD2BA4:Frost Compound Bow
+DBD81C6E:Royal Olthoi Jelly
+DAAAD47B:Sceptre
+DAAB18C5:Slashing Compound Crossbow
+DBF5C0FA:Twisted Dark Key
+DAAEF416:Bastone
+DAAC311E:Tofun
+D950A3EB:Ink of Conveyance
+DAAF161D:Frost Staff
+DAC67F66:Glyph of Weapon Tinkering
+DA8AF2D0:Glyph of Damage
+DAC7373C:Glyph of Bludgeoning
+DAC72E9E:Glyph of Corrosion
+DAC87765:Glyph of Lightning
+DAAB9BDB:Glyph of Armor
+DA8AF2CE:Glyph of Monster Appraisal
+DAC01C28:Glyph of Finesse Weapons
+DBE7A909:Pyreal Pea
+DAAAD1B6:Mana Forge Key
+DBFD8142:A Perfect Snowman Eye
+DAAB64F6:Mana Forge Key
+DA92F8EB:Mana Forge Key
+DAAAB8EC:Mana Forge Key
+DAAC466F:Fortified Mana Forge Key
+DBEC6AFB:Covenant Shield
+DBF80B22:Olthoi Girth
+DAAEF193:Acid Claw
+DAAB8DF8:Fire Bow
+DAAD2E42:Acid Claw
+DAA99DA3:Blunt Atlatl
+DAA25DD1:Slashing Crossbow
+DAAB7D1E:Acid Slingshot
+DBC58E30:Brown Lump
+DBC4DBCB:Small Shadow Statue of the Hopeslayer
+DBBC559D:Small Shadow Statue of the Hopeslayer
+DBBC5E0D:Flaming Spada
+DBC675EB:Acid Dagger
+DBC677F2:Covenant Helm
+DBC675ED:Chiran Helm
+DBB77DB4:Ring
+DBD7D0BC:Nine of Eyes
+DBDB9541:Covenant Shield
+DBDA810B:Buckler
+DBD687D5:Covenant Shield
+DBD2CAE4:Covenant Shield
+DBEED9E3:Renegade Mace
+DBE2835F:Kite Shield
+DBE340B8:Large Round Shield
+DBFDFEA0:Mattekar Hide
+DBE6181B:Yoroi Tassets
+DBDA0DEF:Large Kite Shield
+DB96A768:Hammer of Frore
+DC0124D4:Lightning Scimitar
+DB6694CC:Radiant Blood Vambraces
+DB667941:Radiant Blood Vambraces
+DC03EA98:Mana Forge Key
+DB9663E5:Radiant Blood Breastplate
+DA76C61D:Radiant Blood Girth
+DA76C663:Radiant Blood Girth
+DB9663E6:Radiant Blood Breastplate
+DB6DC464:Radiant Blood Pauldrons
+DB6DC369:Radiant Blood Pauldrons
+DB96A767:Ice Heaume of Frore
+DBFCC099:Royal Runed Dolabra
+DC04095F:Yellow Jewel
+DC038EC3:Wrapped Bundle of Raider Lightning Arrowheads
+DBFE80C1:Lightning Nodachi
+DB3D3876:Lightning Khanda-handled Mace
+B4C1136C:Frost Great Star Mace
+DBAFA89E:Acid Mace
+DBB095FB:Lightning Dirk
+DBFEFAD2:Morning Star
+8BAB9D2F:Acid Dirk
+B4EF9B3B:Acid Flamberge
+DB3D2E3A:Acid Tetsubo
+DBC67F99:Frost Morning Star
+DB508E62:Nekode
+B423FAE0:Flaming Nekode
+DBAFA33A:Broad Sword
+DB3D1CC3:Nekode
+DB9CBD8F:Sterile Sword
+DBFF3A66:Flamberge
+819CE4A1:Acid Lugian Hammer
+8BAB9D0F:Frost Greataxe
+8BAB9D00:Lightning Great Star Mace
+DC08719D:Bracelet
+DC08719E:Electric Baton
+DC28EEE6:Mana Forge Key
+DC006788:Haebrean Breastplate
+DC006787:Frost Mazule
+DC0868BA:Acid Claw
+DC0B5C91:Mana Forge Key
+DC086336:Orb
+DB7141D5:Buckler
+DC29A179:Scalemail Coif
+DC2A7542:Olthoi Celdon Gauntlets
+DC1D39A1:Heavy Necklace
+DB31DABA:Piercing Baton
+DBFEE360:Aetheria
+DBFEE362:Aetheria
+DB31DABF:Hand Wraps
+DC1436E8:Pants
+DBE5D5CE:Virindi Shroud
+DC090A09:Encapsulated Spirit
+DA2D413B:Acid Crossbow
+DA2D413C:Electric Compound Bow
+D8A938C9:Olthoi Sollerets
+DC2B846F:Club
+DC2012F0:Olthoi Amuli Sollerets
+
+Missing Exports - Possessed items that were not found:

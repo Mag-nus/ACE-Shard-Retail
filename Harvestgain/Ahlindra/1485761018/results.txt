@@ -1,0 +1,119 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485761007_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-27_1485529072_log.pcap
+
+Partial Exports - Missing appraisal info:
+811D7208:Pack
+811D7209:Ring
+811D720A:Singularity Key
+811D720C:Bunny Slippers
+811D720D:Impious Staff
+811D720E:Ust
+811D720F:Robe of the Tundra
+811D7210:Ring
+811D7214:Parchment
+811D7211:Orb
+811D7212:Gorget
+811D7215:Tusker Island Shirt
+811D7217:Virindi Profatrix Mask
+811D7224:Obsidian Heart
+811D721A:Pack
+811D721C:Glowing Wisp Heart
+811D721D:Dho Vest and Robe
+811D721E:Dho Vest and Robe
+811D7225:Sunflower
+811D721F:Dho Vest and Robe
+811D7220:Dho Vest and Robe
+811D7226:Snowflower
+811D7221:Gelidite Robe
+811D7276:Snowman Snowglobe
+811D7223:Faran Robe
+811D7227:Wedding Band
+811D7228:Ring
+811D7229:Ring
+811D722A:Ring
+811D722C:Ring
+811D722D:Ring
+811D7230:Imbued Asteliary Orb
+811D7232:Pantaloons
+811D7231:Aerlinthe Monarch Shirt
+811D7233:Bunny Slippers
+811D7234:Platinum Golem Heart
+811D7235:Vapor Golem Heart
+811D7236:Vapor Golem Heart
+811D7237:Vapor Golem Heart
+811D7238:Vapor Golem Heart
+811D7239:Large Lugian Sinew
+811D723A:Dark Revenant Thighbone
+811D723B:Dark Revenant Thighbone
+811D723C:Dark Revenant Thighbone
+811D723D:Staff of the Painbringer
+811D723E:Sturdy Iron Keyring
+811D723F:Sturdy Iron Keyring
+811D7240:Sturdy Iron Keyring
+811D7241:Sturdy Iron Keyring
+811D7243:Pack
+811D7244:Nefane Pearl
+811D7245:Untamed Siraluun Dress
+811D7247:Beret
+811D7246:Bandana
+811D7248:Sleek Dress
+811D7249:Crimped Hat
+811D724A:Sanguinary Aegis
+811D724E:Eye of the Fallen
+811D724C:Staff of Aerfalle
+811D724D:Quiddity Orb
+811D724F:Buadren
+811D7250:Adjanite Crown
+811D7252:Kireth Gown with Band
+811D7253:Tessera Gown
+811D7254:Asheron's Benediction
+811D7258:Diamond Heart
+811D7255:Blackmoor's Favor
+811D7256:Blackmoor's Favor
+811D7257:Peculiar Old Dagger
+811D7260:Sturdy Steel Keyring
+811D7261:Sturdy Steel Keyring
+811D7262:Sturdy Iron Keyring
+811D7263:Sturdy Iron Keyring
+811D7268:Amuli Leggings
+811D726A:Pack
+811D7269:Amuli Leggings
+811D7277:Bottle of Crystal Champagne
+811D726C:Faran Robe with Hood
+811D726D:Aerlinthe Monarch Shirt
+811D7291:Pyreal
+811D726E:Aphus Wading Pants
+811D726F:Aphus Lounging Shirt
+811D7274:Swamp Lord's War Paint
+811D7270:Studded Leather Boots
+811D7271:Girth
+811D7272:Energy Crown
+811D7273:Energy Crown
+811D7275:Olthoi Stamp
+811D7278:Moons Stamp
+811D7279:Alchemy Stamp
+811D727A:Skull Flag
+811D7282:Pack
+811D727B:Fish Flag
+811D727C:Fish Flag
+811D7283:Pack
+811D727E:Bathrobe
+811D7280:Kireth Gown with Band
+811D7281:Hoary Mattekar Robe
+811D7284:Celdon Breastplate
+811D7285:Tenassa Leggings
+811D7286:Hoary Mattekar Robe
+811D7287:Hoary Mattekar Robe
+811D7288:Chainmail Gauntlets
+811D7289:Chainmail Basinet
+811D728C:Some Changes for February 2012
+811D728A:Amuli Leggings
+811D728B:Amuli Leggings
+811D728D:Elemental Master Robe
+811D7290:Energy Crown
+811D728F:Dark Sorcerer's Phylactery
+
+Missing Exports - Possessed items that were not found:

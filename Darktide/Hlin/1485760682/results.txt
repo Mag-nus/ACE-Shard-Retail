@@ -1,0 +1,107 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\MrBoomBoom-01-22-2017-SeveralLegendaryQuests\pkt_2017-1-29_1485760411_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\MrBoomBoom-01-22-2017-SeveralLegendaryQuests\pkt_2017-1-29_1485678114_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\MrBoomBoom-01-22-2017-SeveralLegendaryQuests\pkt_2017-1-29_1485719449_log.pcap
+
+Partial Exports - Missing appraisal info:
+D56F0FB8:Pyreal
+D56F0FB9:Sack
+D56F0FBA:Ust
+D56F0FC1:Foci of Artifice
+D56F0FC2:Prismatic Taper
+D56F0FC3:Lead Scarab
+D56F0FC4:Handy Healing Kit
+D56F0FC5:Bread
+D5F3A6CA:Blackmoor's Favor
+D5FAAC8A:Academy Coat
+D5FAAC89:Facility Hub Portal Gem
+D5F8FB4A:Great Mana Charge
+D5FF8E7C:Salvage
+D5FF8E8B:Sturdy Iron Key
+D5FA35EA:Salvage
+D5FF8E8F:Sturdy Iron Key
+D6001950:Thrungus Hovel Locations
+D5FEE18E:Adept Healing Kit
+D5FEE18F:Adept Healing Kit
+D5FEE190:Adept Healing Kit
+D5FEE4D7:Lorca Sammel's Gauntlets
+D596490F:Dull Dagger
+D5FF90B4:Ruminations on Portal Creation
+D5B9C830:Goldenback Tusker Tusk
+D5E6C0EE:Salvage (2)
+D5A1300F:Chainmail Greaves
+CBAE0590:Sake
+D5EE3708:Salvage (6)
+CBACFD12:Pack
+CBACA1DC:Black Spear of Mukkir Strength
+CBDAA3C8:Trade Note (10,000)
+C831F2C0:Quarter Staff
+CB9C9564:Portal to Kivik Lir's Temple
+CC26CDC8:Invitation to the Battle Burrows
+CEE1AB20:Sanamar Portal Gem
+D10B7647:Burning Coal
+CBDAA3A8:Xarabydun Portal Summoning Gem
+CBDAA3CC:Aphus Lassel Portal Gem
+CC1E9102:Dark Monolith
+CC01CC25:Platinum Scarab
+D5758ECA:Prismatic Taper
+D5741DF3:Prismatic Taper
+D5BEF430:Chorizite
+CBB6E0DE:Portal to Kivik Lir's Temple
+D5CCEDBF:Invigorating Elixir
+D5D2337C:Zefir's Crystal
+D5CC9340:Braced Mana Forge Key
+D08EAE41:Pristine Mana Shard
+D6126800:Warrior's Crystal
+D613E165:Life Giver's Crystal
+D6316732:Brawler's Crystal
+D63F17C3:Niffis Fighting Pits
+83153513:Desk
+D7BAEBAF:Rogue's Crystal
+D7F677CB:Renegade Leggings
+CBBCC4EA:The Plan
+D5F18ED0:Olthoi Amuli Coat
+D7B47ED8:Chef's Crystal
+D65B1122:Adherent's Crystal
+CE65F869:Imbue Swap Coin
+D05A17E3:Enchanted Seedling
+CC1FBC4E:Ancient Empyrean Trinket
+D585FDA4:Ancient Falatacot Trinket
+CC24A9D4:Caliginous Aegis
+D4FB6C6B:Encapsulated Spirit
+CE24D57F:High-Stakes Gambling Token
+D000D942:Greater Mana Kit
+CFFD6E42:Black Luster Pearl
+B08D2EE7:Jerkin
+D163D87E:Platinum Scarab
+CBDAA3BA:Empowered Empyrean Robe
+9C5F50DA:Mana Scarab
+CBDAA320:Tumerok Salted Meat
+CBA64212:Ground Chorizite
+CB9F47E0:Red Rune Silveran Bow
+D5C40A8C:Quill of Infliction
+D5BD08B3:Ink of Formation
+994CD22F:Pack Scarecrow
+CBACD3C3:Tethana Manifesto
+CE9C8412:Shield of Yanshi
+CD0416E7:Golden Gromnie
+9D5C437B:Empyrean Spherule
+8315350E:Assault Axe
+CBACD3B5:Tome of Blood and Bone
+CDC28120:Chocolate Gromnie
+CBBAD57D:Empyrean Portalspace Stabilizer
+CBDB59F8:Pack T'thuun
+CBB6DF4F:Pack T'thuun
+8315350F:Frost Compound Crossbow
+CBA921AD:Holiday Lights
+83153511:Fire Compound Crossbow
+83153512:Blunt Crossbow
+CBA63F74:Repaired Shadow Stone
+8300E4B2:Dauloirae
+83153510:Chandelier
+8150D6D6:Oxidized Statue
+80030F3C:Gladiator Diemos Statue
+
+Missing Exports - Possessed items that were not found:

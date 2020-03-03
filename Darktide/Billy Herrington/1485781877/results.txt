@@ -1,0 +1,131 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-30_1485781607_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-28_1485659469_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-28_1485659469_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-29_1485719049_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-29_1485719049_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-29_1485719049_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-29_1485719049_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-30_1485781607_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-27_1485539039_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-27_1485539039_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-28_1485620348_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-27_1485557019_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-27_1485562034_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-28_1485651614_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-27_1485568246_log.pcap
+
+Partial Exports - Missing appraisal info:
+D81A7D1C:Shirt
+D852B12E:Prismatic Taper
+D852B112:Iron Scarab
+D852B038:Copper Scarab
+D81A7D21:Ust
+D81A7D27:Bread
+D844A47F:Asheron's Benediction
+D8463AA4:Oil of Rendering
+D8251972:Pathwarden Robe
+D8475C29:A List of Items
+D82519B2:Pathwarden Trinket
+D8369F9C:Blackmoor's Favor
+D8475BA1:Scroll of Magic Item Tinkering Expertise Other III
+D8475C3A:Scroll of Finesse Weapon Ineptitude Other II
+D8475C37:Minor Mana Stone
+D8475C82:Ring
+D84357AA:Brown Rat Tail
+D8435735:Bracelet
+D847B6C7:Loose Breeches
+D8348EBA:Bulletin
+D847B6CE:Heavy Bracelet
+D847B6F2:Ring
+D8427D0E:Ring
+D846F41C:Mara's Healing Pie
+D81AD509:Acid Nodachi
+D84A91B7:Undead Thighbone
+D847C279:Key
+D842878E:Key
+D5D6516B:Studded Leather Gauntlets
+D8428786:Key
+D856CFCB:Studded Leather Boots
+D852AF64:Pyreal
+D856CE21:Cell Key
+D856CE23:Drudge Charm
+D856D0E6:Studded Leather Boots
+D856CF44:Small Rusted Key
+D856D4FF:Leather Cuirass
+D84E7ADC:The Baron's Key
+D83D355E:Iron Pea
+D837BAE6:Moderate Mana Stone
+D852AF92:Foci of Artifice
+D852AFAE:Scroll of Secondary Portal Tie
+D852AFB8:Scroll of Primary Portal Tie
+D84FB68E:Chainmail Sleeves
+D8567740:Frost Khanda-handled Mace
+D8521D1C:Torch
+D7CEE9DF:Leather Leggings
+D857703E:Trothyr's Rest Key
+D85690B9:A Ring of Acid Protection
+D852AFD7:Pyreal
+D85690B7:Treated Healing Kit
+D7A0979F:Platemail Sleeves
+D852AF6A:Pyreal
+D8567720:Ring of Piercing Protection
+D840F343:Pack
+D8567362:Stone of Detachment
+D856D500:Steel Toed Boots
+D8379854:Covenant Helm
+D84FD7D7:Renegade Herbal Kit
+D7DD45FD:Ewer
+D852A400:Bordered Cloak
+D84FD7F1:Renegade Herbal Kit
+D856D0AD:Great Mattekar Horn
+D842D16A:Renegade Herbal Kit
+CBFE4F96:Massive Mana Charge
+CBFE4FB6:Massive Mana Charge
+CBF9E380:Massive Mana Charge
+C8C76514:Massive Mana Charge
+D795DC38:Massive Mana Charge
+D80E36CE:Massive Mana Charge
+D80E36D3:Massive Mana Charge
+D7D860B6:Massive Mana Charge
+D840F326:Sack
+D840F3A2:Sack
+D8590DE1:Tachi
+D8590DE0:Frost Spine Glaive
+D8590DDA:Scroll of Cabalastic Ostracism
+D8590DE2:Diforsa Gauntlets
+D8590DDC:Olthoi Helm
+D8590DDD:Long Leather Gauntlets
+D8590DD5:Olthoi Koujia Leggings
+D8590DD0:Acid Stiletto
+D8590DD3:Fire Naginata
+D8590DDF:Scroll of Caustic Boon
+D8590DCF:Acid Shamshir
+D8590DD7:Lightning Jambiya
+D8590DD1:Lightning Nabut
+D8590DCE:Fire Grievver Essence (180)
+D84B452E:Black Luster Pearl
+D84B4D3A:Candy Corn
+D84B4D0C:Chocolate Gromnie
+D84FD4D0:Black Luster Pearl
+D84B4571:Licorice Rat
+D84FD75D:Greater Stamina Kit
+D84FD7AB:Enhanced Mana Elixir
+D84FD7AA:Enhanced Health Elixir
+D8549C19:Gem of Lesser Luminance
+D84FE019:Lugian Commander's Insignia
+D84FDFC0:Mana Forge Key
+D84FDF66:Ivory Gromnie Wings
+D84FD78B:Greater Mana Kit
+D8590DE3:A'nekshay Token
+D8590DDE:Nekode
+D8590DDB:Partizan
+D8590DD9:Ring
+D8590DD6:Loafers
+D8590DD4:Dinner Plate
+D8590DD2:Scroll of Outlander's Insolence
+D8590DD8:Leather Bracers
+
+Missing Exports - Possessed items that were not found:

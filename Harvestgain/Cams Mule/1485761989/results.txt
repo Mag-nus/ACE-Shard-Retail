@@ -1,0 +1,63 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485761982_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2-20170203071709\pkt_2017-1-29_1485697980_log.pcap
+
+Partial Exports - Missing appraisal info:
+81034D5D:Princely Runed Dolabra
+81034D5E:Rennet
+81034D5F:Ust
+81034D60:Pathwarden Token
+81034D61:Foci of Enchantment
+81034D64:Asheron's Benediction
+81034D6A:Tall Stocking Cap
+81034D6D:Salvaged  (100)
+81034D8B:Marble Keyring
+81034D6E:Blackmoor's Favor
+81034D70:Aphus Lassel Portal Gem
+81034D76:Elysa's Crystal
+81034D63:Lead Scarab
+81034D77:Thorsten's Crystal
+81034D78:Thorsten's Crystal
+81034D79:Oswald's Crystal
+81034D7A:Converter's Crystal
+81034D7B:Observer's Crystal
+81034D7C:Elysa's Crystal
+81034D7D:Fletcher's Crystal
+81034D7E:Ben Ten's Crystal
+81034D7F:Thief's Crystal
+81034D80:Enchanter's Crystal
+81034D81:Vaulter's Crystal
+81034D82:Elysa's Crystal
+81034D9F:Pyreal
+81034D83:Adherent's Crystal
+81034D84:Pearl of Flame Baning
+81034D85:Pearl of Acid Baning
+81034D86:Pearl of Impenetrability
+80FDE049:Thorsten's Crystal
+81034D62:Prismatic Taper
+8DB65275:Copper Scarab
+8DB65B47:Gold Scarab
+8DB5E19E:Silver Scarab
+8DB6BE66:Iron Scarab
+81034D8E:Aquamarine Pigmentation Apparatus
+81034D8F:Malfunctioning Pigmentation Apparatus
+81034D90:Argentate Pigmentation Apparatus
+81034D91:Ochre Pigmentation Apparatus
+81034D92:Red Shadow Dye
+81034D93:Quiddity Ingot
+81034D94:Elaborate Dried Rations
+81034D95:Elaborate Dried Mana Rations
+81034D96:Smock
+81034D98:Princely Runed Partizan
+81034D99:Elaborate Dried Health Rations
+81034D9B:Blue Jewel
+81034D9C:Shadow Fragment
+81034D9E:Helm of the Elements
+81034DA0:Paradox-touched Olthoi Sword
+8DB73CA2:Foci of Artifice
+80EDB651:Katar
+81034DA5:Large Kite Shield
+
+Missing Exports - Possessed items that were not found:
