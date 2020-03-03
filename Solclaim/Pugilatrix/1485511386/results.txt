@@ -1,0 +1,107 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\LordR\pkt_2017-1-27_1485511356_log.pcap
+
+Partial Exports - Missing appraisal info:
+93E17B10:Pack
+93E17B1E:Sturdy Iron Keyring
+93E17BD1:Suikan War Master Robe
+95D8CB9A:Ebon Gromnie Tooth
+9618DFE0:Shendolain Key
+974C223F:Shadow Lugian Stronghold Portal Gem
+93E17B78:Ust
+9583BE7A:Aetheria Mana Stone
+98F905BF:Trade Note (250,000)
+995CAD07:Encapsulated Spirit
+994E8BCF:Treated Healing Kit
+9952BF38:Treated Healing Kit
+995143F7:Treated Healing Kit
+994CDC98:Treated Healing Kit
+9952C861:Treated Healing Kit
+994F0039:Treated Healing Kit
+99104D91:Greater Mana Stone
+93E17B24:Pack
+93E17B26:Stone Tool
+93E17B31:Golden Key
+93E17B99:Pack Burun Kukuur
+93E17BB1:Cestus
+9813B4E4:Fire Sceptre
+97B07297:Ring
+945A49B1:Imbue Swap Coin
+97CB1673:Forging Gloves
+9852A6DE:Flaming Knuckles
+93E17B3C:Pack
+93E17B3E:Iron Scarab
+93E17B3F:Gold Scarab
+93E17B40:Silver Scarab
+93E17B42:Copper Scarab
+93E17B43:Lead Scarab
+93E17B8D:Fishing Pole
+964CDF9D:Pyreal
+979E914F:Pyreal Scarab
+93E17BCF:A Horn of Vigilance
+97DB079B:Splitting Tool
+98B3B610:Gold Pea
+98A9F85E:Pyreal Pea
+98FFD34C:Prismatic Taper
+98FCA8A1:Platinum Scarab
+96550D52:Celdiseth's Portal Gem
+991824F7:Copper Pea
+9910D96B:Silver Pea
+93E17B56:Pack
+93E17B84:Aphus Lassel Portal Gem
+954F13A1:Lugian Pick Axe
+9520F990:Gem of Stillness
+93E17B4C:Splitting Tool
+98B2BE55:Major Mana Stone
+98B2B4D4:Silifi
+98B23D10:Quarter Staff
+98B3CFBA:Greater Mana Stone
+966E77F9:Bracelet
+98C084F0:Stamina Philtre
+99548C8B:Salvage (100)
+9954A4AA:Salvage (100)
+995BE658:Salvage (100)
+99530C53:Salvage (100)
+966E7869:Amulet
+97DC72D5:Lightning Katar
+93E17BD7:Buckler
+92F6CF0D:Viamontian Pants
+98AD7F90:Cloak
+97DD7B8E:Luminance, and the Paths of the Empyrean
+9875F0A9:Bracelet
+9852B92E:Salvage (5)
+98AEAE50:Dagger
+98B71DEE:Heavy Necklace
+98B066E3:Baggy Shirt
+98C9521A:Salvage (19)
+98C937B0:Coronet
+98C0E862:Blunt Baton
+98D39D7C:Infused Amber Shard
+98E6B7FB:Slashing Staff
+98E8539A:Glorious Stout
+97DD6AF9:Plentiful Healing Kit
+990BDCD1:Salvage (38)
+990BD011:Salvage (41)
+991702CC:Salvage (18)
+993B623F:Salvage (10)
+9951F8B8:Enhanced Mucor
+99525D72:Coalesced Aetheria
+994BA98C:Treated Healing Kit
+99531AD8:Ancient Falatacot Trinket
+99520B60:Salvage (36)
+9964A55E:Mana Scarab
+995253FD:Salvage (24)
+99557243:Strengthened Mana Forge Key
+9954CE5C:Salvage (32)
+995BFAD0:Salvage (14)
+99549FCA:Salvage (80)
+995C9E07:Salvage (48)
+9954C71F:Salvage (99)
+994845B1:Salvage (84)
+995BE040:Salvage (84)
+99BB4824:Archer's Jewel
+94EE36DB:Knuckles
+93E17BCC:Cestus
+97AF3245:War Hammer
+
+Missing Exports - Possessed items that were not found:

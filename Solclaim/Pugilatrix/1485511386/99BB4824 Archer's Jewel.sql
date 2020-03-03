@@ -1,0 +1,50 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (2579187748, 30231, 38, 6340929) /* Gem */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (2579187748,   1,       2048) /* ItemType - Gem */
+     , (2579187748,   5,          5) /* EncumbranceVal */
+     , (2579187748,  11,        100) /* MaxStackSize */
+     , (2579187748,  12,          1) /* StackSize */
+     , (2579187748,  16,          8) /* ItemUseable - Contained */
+     , (2579187748,  18,          1) /* UiEffects - Magical */
+     , (2579187748,  65,        101) /* Placement - Resting */
+     , (2579187748,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (2579187748,  94,         16) /* TargetType - Creature */
+     , (2579187748, 151,         11) /* HookType - Floor, Wall, Yard */
+     , (2579187748, 9015,         10) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (2579187748,   1, False) /* Stuck */
+     , (2579187748,  11, True ) /* IgnoreCollisions */
+     , (2579187748,  13, True ) /* Ethereal */
+     , (2579187748,  14, True ) /* GravityStatus */
+     , (2579187748,  19, True ) /* Attackable */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (2579187748,   1, 'Archer''s Jewel') /* Name */
+     , (2579187748,  20, 'Archer''s Jewels') /* PluralName */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (2579187748,   1,   33554809) /* Setup */
+     , (2579187748,   3,  536870932) /* SoundTable */
+     , (2579187748,   8,  100686696) /* Icon */
+     , (2579187748,  22,  872415275) /* PhysicsEffectTable */
+     , (2579187748,  28,       3729) /* Spell - PiercingProtectionRare */
+     , (2579187748,  50,  100686678) /* IconOverlay */
+     , (2579187748,  52,  100686604) /* IconUnderlay */
+     , (2579187748, 8001, 1349021841) /* PCAPRecordedWeenieHeader - PluralName, Usable, UiEffects, StackSize, MaxStackSize, Container, TargetType, Burden, Spell, HookType, IconOverlay */
+     , (2579187748, 8002,          1) /* PCAPRecordedWeenieHeader2 - IconUnderlay */
+     , (2579187748, 8003,  335544336) /* PCAPRecordedObjectDesc - Attackable, IncludesSecondHeader, VolatileRare */
+     , (2579187748, 8005,     137217) /* PCAPRecordedPhysicsDesc - CSetup, STable, PeTable, AnimationFrame */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (2579187748,   1, 1342605192) /* Owner */
+     , (2579187748,   2, 1342605192) /* Container */
+     , (2579187748, 8000, 2579187748) /* PCAPRecordedObjectIID */;
+
+INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
+VALUES (2579187748, 0, 83890391, 83890391, 0);
+
+INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, `order`)
+VALUES (2579187748, 0, 16779181, 0);

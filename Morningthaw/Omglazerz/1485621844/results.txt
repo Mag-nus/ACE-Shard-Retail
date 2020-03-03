@@ -1,0 +1,115 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203181532\pkt_2017-1-28_1485621819_log.pcap
+
+Partial Exports - Missing appraisal info:
+8BD1E6C4:Lead Scarab
+8BD1E6C5:Iron Scarab
+8BD1E6C6:Copper Scarab
+8BD1E6C7:Silver Scarab
+8BD1E6C9:Splitting Tool
+8BD1E6CB:Chorizite
+8BD1E6CC:Gold Scarab
+8BD1E6CD:Pristine Mana Shard
+8BD1E6CE:Platinum Scarab
+8BD1E6CF:Facility Hub Portal Gem
+8BD1E6D2:Pyreal Scarab
+8BD1E6D4:Radiant Blood Trade Token
+8BD1E716:Adventurer's Token
+8BD1E717:Ancient Empyrean Trinket
+8BD1E72A:Ancient Falatacot Trinket
+8BD1E713:A'nekshay Token
+8BD1E6D8:Foci of Strife
+8BD1E6D9:Foci of Verdancy
+8BD1E6DB:Blackmoor's Favor
+8BD1E6DC:Shoyanen's Portal Gem
+8BD1E6E1:Teleportation Device
+8BD1E6E4:Ust
+8BD1E6E6:Coruscating Olthoi Scent Gland
+8BD1E6E7:Aetheria Mana Stone
+8BD1E6E8:Sturdy Iron Keyring
+8BD1E6EA:Empowered Helm of the Perfect Light
+8BD1E6E9:Corcima Castle Platinum Ward Portal Gem
+8BD1E6EB:Empowered Tassets of the Perfect Light
+8BD1E6EC:Empowered Girth of the Perfect Light
+8BD1E6ED:Empowered Greaves of the Perfect Light
+B72D93F4:Pyreal
+8BD1E70D:Stone Tool
+8BD1E722:Trimmed Cloak
+8BD1E6F2:Foci of Artifice
+8BD1E6F3:Foci of Enchantment
+9A4D9F20:Stipend
+8BD1E6F7:Colosseum Master's Robe
+8BD1E6FE:Fire Grievver Essence (125)
+8BD1E709:Pyre Shroud
+8BD1E71C:Ring
+8BD1E721:Ring
+8BD1E70A:Crystal of Spectral Blood
+8BD1E70B:Skull of One Thousand Torments
+8BD1E708:Gold Shallows Shredder Fin
+8BD1E707:Black Coral
+C3AEF354:Blue Empyrean Ring
+C3B24952:Red Empyrean Ring
+C21377B4:White Empyrean Ring
+C3AC8F18:Quill of Infliction
+8BD1E704:Olthoi Ichor
+C3A9AA8C:Glyph of Flame
+8BD1E715:Glyph of Lightning
+B77DEA26:Tusker Guard Tusk
+92E4E6B8:Glyph of Bludgeoning
+92E4E6AD:Glyph of Piercing
+8BD1E703:Coalesced Mana
+B9540C73:Major Mana Stone
+8BD1E706:Aligned Mana Stone
+8BD1E718:Snow Tusker Blood Sample
+8BD1E719:Encapsulated Spirit
+8BD1E71B:Fire Zombie Essence (125)
+8BD1E724:Enhanced Health Elixir
+8BD1E728:Black Market Gem of Dispelling
+8BD1E729:Black Luster Pearl
+8BD1E72B:Gem of Lesser Luminance
+8BD1E72C:Lugian Commander's Insignia
+941AEB3E:Strengthened Mana Forge Key
+8BD1E735:Gem of Greater Luminance
+8BD1E747:Salvage (98)
+94199AEC:Sturdy Steel Key
+8BD1E748:Salvage (65)
+8BD1E74A:Salvage (48)
+B6676E07:Promissory Note
+8BD1E74B:Salvage (37)
+B950637F:A Page of the Book of Eibhil
+975B7DA1:Trade Note (250,000)
+8BD1E736:Drudge Scrying Orb
+8BD1E6E2:Dire Champion Token
+92E4E684:Treated Healing Kit
+C12567D0:Aetheria
+92E4E683:Treated Healing Kit
+92E4E682:Treated Healing Kit
+92E4E681:Treated Healing Kit
+8BD1E70F:Writ of Refuge
+C438A975:Encapsulated Spirit
+C43F3573:Salvage (100)
+C4399858:Salvage (100)
+C43B2AA1:Salvage (100)
+C473E4FF:Pyreal Bar
+C448AC27:Salvage (100)
+C44ABC3D:Salvage (100)
+C0345848:Prismatic Taper
+C4372AF9:Salvage (55)
+C437821D:Circlet
+C44778AC:Salvage (100)
+C44B9A99:Salvage (100)
+C45014E9:Crown
+C44448CB:Salvage (100)
+BF4CBDD3:Northern Quiddity Fragment
+B6F69056:Southern Quiddity Fragment
+C4742690:Pyreal Nugget
+C5E61855:Salvage (100)
+C5E7E4B7:Salvage (100)
+C5EA80E3:Salvage (100)
+C5E74427:Salvage (7)
+C5EA960D:Salvage (83)
+C5E861FB:Salvage (99)
+C5EAF176:Salvage (34)
+C5E9EB16:Brawler's Crystal
+
+Missing Exports - Possessed items that were not found:

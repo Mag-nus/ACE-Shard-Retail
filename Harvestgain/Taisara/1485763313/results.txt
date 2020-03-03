@@ -1,0 +1,228 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485763306_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2\pkt_2017-1-29_1485708485_log.pcap
+
+Partial Exports - Missing appraisal info:
+805F0796:Blunt Sceptre
+805F0797:Electric Sceptre
+805F0798:Acid Sceptre
+805F0799:Electric Sceptre
+805F079A:Electric Sceptre
+805F079B:Frost Sceptre
+805F07A5:Fire Sceptre
+805F07B4:Fire Sceptre
+805F07B6:Fire Sceptre
+805F07A4:Electric Sceptre
+805F07A6:Acid Sceptre
+805F07A7:Piercing Sceptre
+805F07E5:Drudge Charm
+805F07A9:Acid Baton
+805F07AA:Piercing Baton
+805F07EF:Intricate Copper Key
+805F07AB:Electric Sceptre
+805F07AC:Piercing Sceptre
+81026C0C:Lorica Breastplate
+805F07AE:Fire Sceptre
+805F07F0:Intricate Wooden Key
+805F07AF:Fire Sceptre
+805F07B0:Electric Sceptre
+805F07E2:Cabalist Charm Necklace
+805F07B2:Acid Sceptre
+805F07B7:Blunt Sceptre
+805F07B3:Electric Sceptre
+805F07B5:Electric Sceptre
+805F07E4:Bloodletter Charm Necklace
+805F07B8:Acid Sceptre
+805F07B9:Frost Sceptre
+805F07BB:Blunt Sceptre
+805F07BA:Electric Sceptre
+805F07BC:Fire Sceptre
+805F07E3:Peerless Drudge Charm Necklace
+805F07BD:Frost Sceptre
+805F07BE:Frost Sceptre
+805F07C3:Blunt Sceptre
+805F07BF:Slashing Sceptre
+805F07C0:Piercing Baton
+805F07FE:Red Taper
+805F07C1:Slashing Baton
+805F07C2:Electric Sceptre
+805F07E7:Dirk
+805F07C4:Blunt Sceptre
+805F07C5:Acid Sceptre
+805F07C8:Frost Sceptre
+805F07C7:Piercing Sceptre
+805F07C9:Electric Sceptre
+805F07E8:Dirk
+805F07CA:Fire Sceptre
+805F07CB:Acid Sceptre
+805F07CC:Acid Sceptre
+805F07CD:Slashing Sceptre
+805F07CE:Fire Sceptre
+805F07E6:Gorget
+805F07CF:Electric Sceptre
+805F07D0:Fire Sceptre
+805F07D1:Fire Sceptre
+805F07D2:Fire Sceptre
+805F07D3:Piercing Sceptre
+805F07E9:Dirk
+805F07D4:Electric Sceptre
+805F07D5:Fire Sceptre
+805F07D6:Piercing Sceptre
+805F07D7:Fire Sceptre
+805F07D8:Blunt Baton
+805F07D9:Frost Baton
+805F07DA:Piercing Sceptre
+805F07FA:Copper Scarab
+805F07DB:Blunt Sceptre
+805F07DC:Fire Sceptre
+805F07DD:Fire Sceptre
+805F07DE:Slashing Sceptre
+805F07FF:Orange Taper
+805F07EA:Lightning Dirk
+805F0804:Pink Taper
+805F07EB:Frost Dirk
+805F07EC:Frost Bow
+805F07EE:Piercing Bow
+805F07F1:Frost Bow
+805F07F5:Piercing Bow
+805F07F2:Electric Compound Bow
+805F07F3:Piercing Compound Bow
+805F0810:Sunflower
+805F07F4:Electric Compound Bow
+805F0800:Rowan Talisman
+805F07F7:Acid Baton
+805F07F8:Electric Sceptre
+805F0802:Indigo Taper
+805F0F7D:Electric Compound Bow
+805F07FB:Comfrey
+805F0803:White Taper
+805F07FC:Powdered Malachite
+805F07FD:Colcothar
+805F0805:Hazel Talisman
+805F0801:Turpeth
+805F0806:Dragonsblood
+805F0807:Yellow Taper
+805F0808:Quicksilver
+805F0809:Green Taper
+805F080A:Grey Taper
+805F080B:Yarrow
+805F080C:Blue Taper
+805F080D:Silver Scarab
+805F080E:Gypsum
+805F0F8C:Platinum Golem Heart
+805F0FDF:Blackmoor's Favor
+805F0FDD:Acid Crossbow
+805F0FD5:Acid Sceptre
+805F0FCA:Fire Sceptre
+805F0FC9:Frost Sceptre
+805F0FC8:Blunt Sceptre
+805F0FBE:Frost Bow
+805F0FBD:Piercing Bow
+805F0FBC:Lightning Scimitar
+805F0FE0:Asheron's Benediction
+81026C0F:Coat of the Zaikhal Defender
+805F0F9B:Ken
+81026C18:Coat of the Zaikhal Defender
+805F0FBB:Frost Shamshir
+805F0FB5:Shamshir
+805F0FB4:Shield of Yanshi
+805F0FE1:Pants
+805F0FDE:Frost Crossbow
+805F0F90:Seared Shard
+805F0FDC:Blunt Compound Crossbow
+805F0FDB:Frost Compound Crossbow
+805F0FD9:Electric Baton
+805F0FD8:Piercing Sceptre
+805F0FA5:Flaming Ken
+805F0FD7:Piercing Sceptre
+805F0FD6:Blunt Baton
+805F0F8B:Peerless Drudge Charm
+805F0FD4:Frost Baton
+805F0FD3:Frost Baton
+9CC74F46:Stipend
+805F0FD2:Electric Sceptre
+805F0FD1:Piercing Baton
+805F0F97:Frost Scimitar
+805F0FD0:Slashing Baton
+805F0FCF:Slashing Baton
+805F0FCE:Electric Sceptre
+805F0FCD:Slashing Baton
+805F0FA0:Pyreal Golem Heart
+805F0FCC:Electric Baton
+805F0FCB:Electric Sceptre
+805F0F9F:Pyreal Golem Heart
+805F0FC7:Frost Sceptre
+805F0FC6:Piercing Baton
+805F0F8F:Yellow Jewel
+805F0FC5:Piercing Baton
+805F0FC4:Frost Sceptre
+805F0F87:Shield of Isin Dule
+805F0FC3:Slashing Sceptre
+805F0FC2:Fire Baton
+805F0F75:Some Changes for February 2012
+805F0FC1:Piercing Sceptre
+805F0FC0:Piercing Sceptre
+805F0FAB:Broad Sword
+805F0FBF:Nariyid Sleeves
+805F0FBA:Blunt Baton
+805F0FAA:Slashing Bow
+805F0FA2:Tenassa Leggings
+805F0FA1:Piercing Baton
+805F0F98:Piercing Compound Crossbow
+805F0F96:Acid Baton
+805F0F92:Ancient Armored Bracers
+805F0F8A:Studded  Leggings
+805F0F89:Acid Dericost Blade
+805F0F79:Nariyid Gauntlets
+805F0F77:Cap
+81026B91:Heavy Crossbow
+81026B92:Heavy Crossbow
+81026B8F:Heavy Crossbow
+81026B8E:Heavy Crossbow
+B33DFD30:Silifi of Crimson Night
+805F0FB8:Tachi
+805F0FB7:Acid Flamberge
+805F0FAF:Covenant Shield
+805F0FB6:Dericost Blade
+805F0FB3:Diforsa Cuirass
+805F0F9E:Pyreal Golem Heart
+805F0FB2:Leather Sleeves
+805F0FB1:Covenant Gauntlets
+805F0FB0:Koujia Leggings
+805F0FAE:Coronet
+805F0FAD:Teardrop Crown
+805F0FAC:Noble Sollerets of Speed
+805F0FA9:Fire Bow
+805F0FA7:Slashing Compound Bow
+805F0FA6:Piercing Compound Bow
+805F0FA4:Flaming Dericost Blade
+805F0FA3:Celdon Breastplate
+805F0F9D:Morning Star
+805F0F9C:Frost Dericost Blade
+805F0F9A:Gorget
+805F0F99:Tunic
+805F0F7F:Takuba
+805F0F95:Acid Sceptre
+805F0F94:Dericost Blade
+805F0F93:Flamberge
+805F0F88:Chainmail Bracers
+805F0F86:Gorget
+805F0F85:Dabus
+805F0F83:Flaming Shamshir
+805F0F82:Flaming Long Sword
+805F0F81:Acid Flamberge
+805F0F80:Life Giver's Gauntlets
+805F0F78:Vestiri Robe
+805F0F7E:Evil Jack o' Lantern
+805F0F7C:Chiran Leggings
+805F0F7B:Scalemail Tassets
+805F0F7A:Celdon Sleeves
+81026B90:Light Crossbow
+B341018D:Missile Defense Weapon Augmentation
+B340EE57:Missile Defense Weapon Augmentation
+B33E6377:Missile Defense Weapon Augmentation
+B3410037:Missile Defense Weapon Augmentation
+
+Missing Exports - Possessed items that were not found:

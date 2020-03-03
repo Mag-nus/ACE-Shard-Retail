@@ -1,0 +1,58 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (3441237291, 31803, 3, 6476097) /* MissileLauncher */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (3441237291,   1,        256) /* ItemType - MissileWeapon */
+     , (3441237291,   5,        551) /* EncumbranceVal */
+     , (3441237291,   9,    4194304) /* ValidLocations - MissileWeapon */
+     , (3441237291,  16,          1) /* ItemUseable - No */
+     , (3441237291,  18,        129) /* UiEffects - Magical, Frost */
+     , (3441237291,  19,      12839) /* Value */
+     , (3441237291,  50,          1) /* AmmoType - Arrow */
+     , (3441237291,  51,          2) /* CombatUse - Missle */
+     , (3441237291,  65,        101) /* Placement - Resting */
+     , (3441237291,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (3441237291, 131,         51) /* MaterialType - Ivory */
+     , (3441237291, 151,          2) /* HookType - Wall */
+     , (3441237291, 9015,          6) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (3441237291,   1, False) /* Stuck */
+     , (3441237291,  11, True ) /* IgnoreCollisions */
+     , (3441237291,  13, True ) /* Ethereal */
+     , (3441237291,  14, True ) /* GravityStatus */
+     , (3441237291,  19, True ) /* Attackable */
+     , (3441237291,  22, True ) /* Inscribable */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (3441237291,  39, 1.10000002384186) /* DefaultScale */
+     , (3441237291, 8004,       9) /* PCAPRecordedWorkmanship */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (3441237291,   1, 'Frost Compound Bow') /* Name */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (3441237291,   1,   33559667) /* Setup */
+     , (3441237291,   3,  536870932) /* SoundTable */
+     , (3441237291,   6,   67116700) /* PaletteBase */
+     , (3441237291,   8,  100688050) /* Icon */
+     , (3441237291,  22,  872415275) /* PhysicsEffectTable */
+     , (3441237291, 8001, 2434876312) /* PCAPRecordedWeenieHeader - Value, Usable, UiEffects, AmmoType, CombatUse, Container, ValidLocations, Burden, Workmanship, HookType, MaterialType */
+     , (3441237291, 8003,         18) /* PCAPRecordedObjectDesc - Inscribable, Attackable */
+     , (3441237291, 8005,     137345) /* PCAPRecordedPhysicsDesc - CSetup, ObjScale, STable, PeTable, AnimationFrame */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (3441237291,   1, 3441680762) /* Owner */
+     , (3441237291,   2, 3441680762) /* Container */
+     , (3441237291, 8000, 3441237291) /* PCAPRecordedObjectIID */;
+
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
+VALUES (3441237291, 67116700, 1, 100)
+     , (3441237291, 67116705, 201, 55)
+     , (3441237291, 67116709, 101, 100);
+
+INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
+VALUES (3441237291, 0, 83897331, 83897331, 0);
+
+INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, `order`)
+VALUES (3441237291, 0, 16792608, 0);

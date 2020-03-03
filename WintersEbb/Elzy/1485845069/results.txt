@@ -1,0 +1,199 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-31_1485843061_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-31_1485840494_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-31_1485840494_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-31_1485840494_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-31_1485843061_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-31_1485843061_log.pcap
+
+Partial Exports - Missing appraisal info:
+A5AFDB4D:Heavy Bracelet
+A5AFDB4E:Virindi Shroud
+A5AFDB5B:Snowflower
+A5AFDB4F:Asteliary Orb
+A5AFDB50:Pack
+A5AFDB51:Copper Scarab
+A5AFDB52:Iron Scarab
+A5AFDB53:Lead Scarab
+A5AFDB54:Lead Pea
+A5AFDB55:Gold Pea
+A5AFDB56:Silver Pea
+A5AFDB57:Iron Pea
+A5AFDB58:Copper Pea
+A5AFDB59:Calling Stone
+A5AFDB5A:Slippers
+A5AFDB5C:Heavy Bracelet
+A5AFDB5D:Ring
+A5AFDB5E:Dagger
+A5AFDB5F:Prismatic Taper
+A5AFDB60:Pyreal Scarab
+A5AFDB61:Sceptre
+A5AFDB62:Gold Scarab
+A5AFDB63:Silver Scarab
+A5AFDB64:Salvaged  (10)
+A5AFDB65:Diamond Scarab
+A5AFDB67:Yellow Virindi Wand
+A5AFDB68:Yag
+A5AFDB69:Foci of Verdancy
+A5AFDB6A:Foci of Artifice
+A5AFDB6B:Tunic
+A5AFDB6C:Obsidian Sphere
+A5AFDB71:Sho Wand
+A5AFDB6D:Bracelet
+A5AFDB6E:Orb
+A5AFDB72:Gem of Black Fire
+A5AFDB6F:Staff
+A5AFDB70:Heavy Necklace
+A5AFDB73:Amulet
+A5AFDB74:Sunflower
+A5AFDB75:Sunflower
+A5AFDB76:Salvaged  (6)
+A5AFDB77:Slithe Tradittor's Notes
+A5AFDB78:Gold Tumerok Insignia
+A5AFDB79:Parts List for Arcane Pedestal
+A5AFDB7A:Ring of the Watchman
+A5AFDB7B:Copy of Witshire's Key
+A5AFDB7C:Shirt
+A5AFDB7D:Heavy Bracelet
+A5AFDB7E:Sollerets
+A5AFDB80:Skeleton's Skull
+A5AFDB7F:Elysa's Favor
+A5AFDB81:Lightning Dirk
+A5AFDB82:Lightning Dirk
+A5AFDB83:Acid Dirk
+A5AFDB84:Frost Dirk
+A5AFDB85:Acid Dirk
+A5AFDB86:Dagger
+A5AFDB87:Grievver Tibia
+A5AFDB88:Dagger
+A5AFDB89:Fire Auroch Horn
+A5AFDB8A:Sunflower
+A5AFDB8B:Auroch Horn
+A5AFDB8C:Auroch Horn
+A5AFDB8D:Sunflower
+A5AFDB8E:Ring
+A5AFDB8F:Ring
+A5AFDB90:Holiday Pole
+A5AFDB91:Blade Protection Gem
+A5AFDB92:Ring
+A5AFDB93:Ring
+A5AFDB94:Ring
+A5AFDB95:Staff
+A5AFDB96:Fire Protection Gem
+A5AFDB9D:Foci of Strife
+A5AFDB97:Bludgeon Protection Gem
+A5AFDB98:Acid Protection Gem
+A5AFDBA0:Bunny Slippers
+A5AFDB99:Armor Protection Gem
+A5AFDB9A:Lighning Protection Gem
+A5AFDBA2:Flaming Dagger
+A5AFDB9B:Shirt
+A5AFDB9C:Smock
+A5AFDBDA:Sunflower
+A5AFDB9E:Foci of Enchantment
+A5AFDB9F:Qafiya
+A5AFDBA1:Buckler
+A5AFDBA3:Calling Stone
+A5AFDBA4:Pants
+A5AFDBAB:Dirk
+A5AFDBA5:Shirt
+A5AFDBA6:Hearty Healing Green Tea Ice Cream
+A5AFDBA7:Hearty Green Tea Ice Cream
+A5AFDBA8:Hearty Mana Green Tea Ice Cream
+A5AFDBA9:Martine's Robe
+A5AFDBAA:Platemail Gauntlets
+A5AFDBDE:Snowflower
+A5AFDBAC:Focusing Stone
+A5AFDBAD:Virindi Profatrix Mask
+A5AFDBAE:Pack
+A5AFDBAF:Gem of Stillness
+A5AFDBB0:Academy Stamp
+A5AFDBC9:Peerless Lockpick
+A5AFDBB1:Herald Stamp
+A5AFDBB2:Buckler
+A5AFDBB3:Sollerets
+A5AFDBB4:Elemental Master Robe
+A5AFDBB5:Crown
+A5AFDBE1:Snowflower
+A5AFDBB6:Blue Jewel
+A5AFDBB7:Shoes
+A5AFDBBD:Sollerets
+A5AFDBB8:Mattekar Hide Coat
+A5AFDBB9:Suikan Item Master Robe
+A5AFDBBA:Suikan War Master Robe
+A5AFDBBB:Suikan Life Master Robe
+A5AFDBBC:Suikan War Master Robe
+A5AFDBBE:Heavy Ursuin Coat
+A5AFDBBF:Salvaged  (100)
+A5AFDBC0:Vapor Golem Heart
+A5AFDBC1:Diamond Heart
+A5AFDBC2:Great Pumpkin
+A5AFDBC3:Great Jack o' Lantern
+A5AFDBC7:Baron's Amulet of Life Giving
+A5AFDBCA:Peerless Lockpick
+A5AFDBCB:Peerless Lockpick
+A5AFDBCC:Peerless Lockpick
+A5AFDBCD:Peerless Lockpick
+A5AFDBCE:Peerless Lockpick
+A5AFDBCF:Peerless Lockpick
+A5AFDBD0:Peerless Lockpick
+A5AFDBD1:Peerless Lockpick
+A5AFDBD2:Breeches
+A5AFDBD4:Heavy Bracelet
+A5AFDBD3:Aerlinthe Patron Shirt
+A5AFDBD6:Fish Stamp
+A5AFDBD7:Martine's Mask
+A5AFDBD9:Luminescent Runic Helm
+A5AFDBDB:Mace
+A5AFDBDC:Salvaged  (100)
+A5AFDBDD:Salvaged  (100)
+A5AFDBE0:Potion of Black Fire
+A5AFDBE2:Blue Orb
+A5AFDBE3:Taulandoi
+A5AFDBE4:Stamina Elixir
+A5AFDBE5:Frost Jambiya
+A5AFDBE6:Heavy Necklace
+A5AFDBE7:Staff
+A5AFDBE8:Orb
+A5AFDBE9:Shoyanen's Portal Gem
+A5AFDBF2:Taulandoi
+A5AFDBEA:Heavy Necklace
+A5AFDBEB:Orb
+A5AFDBEC:Acid Budiaq
+A5AFDBED:Longbow
+A5AFDBEE:Chainmail Gauntlets
+A5AFDBEF:Raeta's Necklace
+A5AFDBF0:Elemental Master Robe
+A5AFDBF1:Banderling Bone Ring
+A5AFDBF6:Taulandoi
+A5AFDBF3:Orb
+A5AFDBF4:Gem of Stillness
+A5AFDBF5:Elemental Master Robe
+A5AFDBF7:Covenant Breastplate
+A5AFDBF8:Koujia Leggings
+A5AFDBF9:Yoroi Pauldrons
+A5AFDBFA:Koujia Leggings
+A5AFDBFB:Pack Burun Kukuur
+A5AFDBFE:Electric Bow
+A5AFDBFC:Monty's High-Stakes Gambling Token
+A5AFDBFD:Salvaged  (100)
+A5AFDBFF:Eye of the Quiddity
+A5AFDC01:Swamp Lord's War Paint
+A5AFDC02:Clasp of the Heart
+A5AFDC03:Mages Loop
+A5AFDC04:Asheron's Benediction
+A5AFDC05:Blackmoor's Favor
+A5AFDC06:Slashing Bow
+A5AFDC07:Celdon Shadow Leggings
+A5AFDC0E:Some Changes for February 2012
+A5AFDC08:Celdon Shadow Girth
+A5AFDC09:Celdon Shadow Breastplate
+A5AFDC0A:Celdon Shadow Sleeves
+A5AFDC0B:Nether Sceptre
+A5AFDC0C:Nether Sceptre
+A5AFDC0D:Nether Baton
+A5AFDC0F:Taulandoi
+
+Missing Exports - Possessed items that were not found:

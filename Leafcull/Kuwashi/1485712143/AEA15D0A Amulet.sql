@@ -1,0 +1,53 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (2929810698, 294, 1, 6476097) /* Generic */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (2929810698,   1,          8) /* ItemType - Jewelry */
+     , (2929810698,   5,        100) /* EncumbranceVal */
+     , (2929810698,   9,      32768) /* ValidLocations - NeckWear */
+     , (2929810698,  16,          1) /* ItemUseable - No */
+     , (2929810698,  18,          1) /* UiEffects - Magical */
+     , (2929810698,  19,       2033) /* Value */
+     , (2929810698,  65,        101) /* Placement - Resting */
+     , (2929810698,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (2929810698, 131,         58) /* MaterialType - Bronze */
+     , (2929810698, 9015,          4) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (2929810698,   1, False) /* Stuck */
+     , (2929810698,  11, True ) /* IgnoreCollisions */
+     , (2929810698,  13, True ) /* Ethereal */
+     , (2929810698,  14, True ) /* GravityStatus */
+     , (2929810698,  19, True ) /* Attackable */
+     , (2929810698,  22, True ) /* Inscribable */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (2929810698,  39, 0.800000011920929) /* DefaultScale */
+     , (2929810698, 8004,       4) /* PCAPRecordedWorkmanship */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (2929810698,   1, 'Amulet') /* Name */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (2929810698,   1,   33554680) /* Setup */
+     , (2929810698,   3,  536870932) /* SoundTable */
+     , (2929810698,   6,   67111919) /* PaletteBase */
+     , (2929810698,   8,  100668611) /* Icon */
+     , (2929810698,  22,  872415275) /* PhysicsEffectTable */
+     , (2929810698, 8001, 2166440088) /* PCAPRecordedWeenieHeader - Value, Usable, UiEffects, Container, ValidLocations, Burden, Workmanship, MaterialType */
+     , (2929810698, 8003,         18) /* PCAPRecordedObjectDesc - Inscribable, Attackable */
+     , (2929810698, 8005,     137345) /* PCAPRecordedPhysicsDesc - CSetup, ObjScale, STable, PeTable, AnimationFrame */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (2929810698,   1, 2929063306) /* Owner */
+     , (2929810698,   2, 2929063306) /* Container */
+     , (2929810698, 8000, 2929810698) /* PCAPRecordedObjectIID */;
+
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
+VALUES (2929810698, 67111926, 0, 0);
+
+INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
+VALUES (2929810698, 0, 83886719, 83886719, 0);
+
+INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, `order`)
+VALUES (2929810698, 0, 16778348, 0);

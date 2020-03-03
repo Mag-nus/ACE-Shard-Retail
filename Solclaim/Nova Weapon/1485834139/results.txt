@@ -1,0 +1,128 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-30_1485823012_\pkt_2017-1-30_1485823012_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-26_1485490272_\pkt_2017-1-26_1485490272_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-27_1485546237_\pkt_2017-1-27_1485546237_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-27_1485573948_\pkt_2017-1-27_1485573948_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-27_1485573948_\pkt_2017-1-27_1485573948_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-27_1485573948_\pkt_2017-1-27_1485573948_log.pcap
+
+Partial Exports - Missing appraisal info:
+808A138B:Pyreal
+808A1381:Pantaloons
+808A1378:Pyreal
+808A1395:Shirt
+808A1382:Pyreal
+808A1396:Shoyanen's Portal Gem
+808A138D:Drudge Mask
+808A1384:Scroll of Force Bolt VI
+808917C6:Scroll of Frost Bolt VI
+808917A0:Scroll of Acid Stream VI
+808A138E:Scroll of Shock Wave Streak VI
+808A1398:Scroll of Force Bolt VI
+808A1370:Scroll of Lightning Bolt VI
+808A137B:Scroll of Flame Bolt VI
+808A1385:Scroll of Frost Bolt VI
+808A1371:Scroll of Acid Stream VI
+808A138F:Scroll of Whirling Blade Streak VI
+808A137C:Scroll of Frost Bolt VI
+808A1386:Scroll of Whirling Blade VI
+808A1390:Scroll of Acid Stream VI
+808A1372:Scroll of Acid Stream VI
+808A137D:Scroll of Acid Bane VI
+808A1387:Scroll of Acid Bane VI
+808A1359:Scroll of Flame Bolt VI
+808A1373:Scroll of Frost Bolt VI
+808A137E:Scroll of Force Bolt VI
+808A1388:Scroll of Lightning Bolt VI
+808A1351:Scroll of Shock Wave VI
+808A1374:Scroll of Whirling Blade Streak VI
+808A135A:Scroll of Acid Streak VI
+808A1352:Scroll of Piercing Vulnerability Other VI
+808A135B:Scroll of Heal Self VI
+808A1375:Scroll of Lightning Vulnerability Other VI
+808A1345:Scroll of Fire Vulnerability Other VI
+808A1353:Scroll of Revitalize Self VI
+80874A11:Scroll of Cold Vulnerability Other VI
+80891A8B:Scroll of Acid Protection Other VI
+808749A7:Scroll of Lightning Protection Other VI
+808749B3:Scroll of Regenerate Self VI
+807D5672:Scroll of Light Weapon Mastery Self VI
+808A133D:Scroll of Person Attunement Self VI
+808A135C:Scroll of Health to Mana Self VI
+808A1376:Scroll of Heavy Weapon Mastery Self VI
+808A1346:Scroll of Creature Enchantment Mastery Other VI
+808A1354:Scroll of Cooking Mastery Other VI
+808A1335:Scroll of Health to Mana Self VI
+808A133E:Key
+808A1347:Scroll of Healing Mastery Other VI
+808A1355:Scroll of Fealty Other VI
+808A1336:Scroll of Missile Weapon Mastery Self VI
+808A133F:Scroll of Leadership Mastery Self VI
+808A1340:Sollerets
+808A135F:Tunic
+808A1349:Scroll of War Magic Ineptitude VI
+808A132A:Scroll of Shock Wave VI
+808A1357:Scroll of Frost Bolt VI
+808A1338:Scroll of Revitalize Self VI
+808A1341:Scroll of Life Magic Mastery Other VI
+808A1360:Scroll of Impregnability Other VI
+808A134A:Scroll of Creature Enchantment Mastery Other VI
+808A1358:Scroll of Alchemy Mastery Other VI
+808A132B:Scroll of Jumping Mastery Other VI
+808A1339:Scroll of War Magic Mastery Other VI
+808A1319:Calling Stone
+808A1342:Scroll of Jahannan's Blessing
+808A134B:Bone Handle
+808A132C:Shendolain Key
+808A133A:Shendolain Key
+808A1323:Scroll of Endurance Other VI
+808A1343:Scroll of Quickness Other VI
+808A131A:Scroll of Shock Wave VI
+808A134C:Scroll of Item Enchantment Mastery Other VI
+808A132D:Scroll of Light Weapon Mastery Self VI
+808A133B:Scroll of Regenerate Other VI
+808A1324:Scroll of Life Magic Ineptitude VI
+808A1344:Scroll of Coordination Other VI
+808A132E:Heavy Bracelet
+808A133C:Heavy Bracelet
+808A1325:Scroll of Cold Protection Self VI
+808A131D:Scroll of Blistering Creeper
+808A1330:Scroll of Alset's Coil
+808A1311:Scroll of Ilservian's Flame
+808A1327:Scroll of Sudden Frost
+808A131E:Scroll of Self Loathing
+808A1312:Scroll of The Spike
+808A131F:Scroll of Vagabond's Gift
+808A1328:Major Smoldering Stone
+808A1313:Pyreal Mote
+808A1307:Devana's Note
+808A12F3:Dark Sliver
+808A12F4:Cabalist Drudge Charm
+808A12EB:Shendolain Key
+808A12F7:Scroll of Senescence
+808A1300:Scroll of Item Tinkering Expertise Self VI
+808A12DB:Scroll of Quickness Other VI
+808A12E5:Scroll of Light Weapon Mastery Self VI
+808936C9:Scroll of Acid Bane VI
+80874385:Scroll of Cooking Mastery Self VI
+808A12D3:Scroll of Rejuvenate Other VI
+808A1270:Treated Healing Kit
+808A12EE:Treated Healing Kit
+808A1301:Treated Healing Kit
+808A126F:Treated Healing Kit
+808A127C:Treated Healing Kit
+808A127D:Treated Healing Kit
+808A12CB:Treated Healing Kit
+808A1271:Treated Healing Kit
+808A12DC:Treated Healing Kit
+808A12E6:Treated Healing Kit
+808A12D4:Treated Healing Kit
+808A1262:Treated Healing Kit
+808A1261:Diamond Heart
+808A1260:Shadow Fragment
+808A12F9:Some Changes for February 2012
+808A1272:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

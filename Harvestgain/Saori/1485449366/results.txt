@@ -1,0 +1,123 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-26_1485449335_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485761806_log.pcap
+
+Partial Exports - Missing appraisal info:
+811D6F6B:Foci of Verdancy
+811D6F9D:Major Mana Stone
+811D6F6C:Foci of Artifice
+811D6F6D:Foci of Enchantment
+811D6F6E:Foci of Strife
+811D6F71:Pack
+811D6F72:Goblet
+811D6F73:Orb
+811D6F74:Orb
+811D6F75:Suikan War Master Robe
+811D6F76:Suikan Item Master Robe
+811D6F77:Suikan War Master Robe
+811D6F79:Faran War Master Robe
+811D6F7A:Suikan Item Master Robe
+811D6F7B:Suikan War Master Robe
+811D6F7C:Soul Stone
+811D6F7D:Heart of the Innocent
+811D6F7E:Intricate Carving Tool
+811D6F88:Jaleh's Necklace
+811D6F80:Aphus Lassel Portal Gem
+811D6F81:Suikan Creature Master Robe
+811D6F82:Suikan Item Master Robe
+811D6F83:Gem of Stillness
+811D6F84:Gem of Purity
+811D6FA7:Granite Key
+811D6F85:Greater Olthoi Brood Queen Helm
+811D6FB0:Sunflower
+811D6F87:Flared Shirt
+811D6F8B:Royal Color
+811D6F8E:Glacial Golem Heart
+811D6F8F:Calling Stone
+811D6F91:Virindi Stamp
+811D6F95:Blackmoor's Favor
+811D6F92:Fire Sceptre
+811D6F96:Doppelganger Shield
+811D6F94:Asheron's Benediction
+811D6FA9:Massive Mana Charge
+811D6F9A:Hyssop
+811D6F9B:Gem
+811D6F9C:Salvaged  (16)
+811D6F9F:Slashing Baton
+811D6FAB:Massive Mana Charge
+811D6FA0:Vapor Golem Heart
+811D6FA1:Amulet of Dark Rage
+811D6FA2:Black Rat Tail
+811D6FA3:Ring
+811D6FA4:Electric Sceptre
+811D6FAC:Niffis Shell
+811D6FA5:Electric Baton
+811D6FB3:Pumpkin
+811D6FAA:Orb
+811D6FAD:Vapor Golem Heart
+811D6FAE:Idol Gem
+811D6FAF:Diamond Heart
+811D6FB1:Aphus Lassel Portal Gem
+811D6FB2:Golden Pumpkin
+811D6FB4:Ursuin Toy
+811D6FB5:Snowflower
+811D6FB6:Princely Runed Arbalest
+811D6FB7:Sprouting Pumpkin Vine
+811D6FB8:Sturdy Steel Key
+811D6FB9:Sturdy Steel Key
+811D6FBA:Sturdy Steel Key
+811D6FBB:Darling's Collar
+811D6FBC:Pack
+811D6FBD:Gold Scarab
+811D6FBE:Diamond Scarab
+811D6FBF:Pyreal Scarab
+811D6FC0:Chorizite
+811D6FC2:Silver Scarab
+811D6FC3:Copper Scarab
+811D6FC4:Platinum Scarab
+811D6FC5:Prismatic Taper
+811D6FC7:Trade Note (250,000)
+811D6FCA:Trade Note (100,000)
+811D6FCC:Pack
+811D6FCB:Facility Hub Portal Gem
+811D6FCD:Katar of the Fallen
+811D6FCE:Flaming Cestus
+811D6FCF:Phantom Dagger
+811D6FD0:Hollow Dagger
+811D6FD1:Shamshir
+811D6FD2:Flaming Dirk
+811D6FD5:Electric Naginata
+811D6FD6:Flaming Battle Axe
+811CE55E:Staff
+811CE55F:Niffis Shell
+811CE560:Soul Staff
+80036E5B:Pack Bael'Zharon
+801A483D:Pack Asheron
+801A483C:Pack Gaerlan
+801A483A:Pack Golem
+801A4835:Insidious Monouga Idol
+801A4833:Pack Drudge
+80036E65:Pack Bael'Zharon
+801A4841:Pack Mosswart
+9B3C0307:Pyreal
+80036E66:Ancient Diamond Idol
+8101F1E3:Baby Drudge Crate
+801A484B:Sturdy Iron Key
+80036E58:Oxidized Statue 
+811D6FD7:Some Changes for February 2012
+811D6FDF:Pants
+9B3FFAD9:Pyreal
+811D6FE0:Lace Shirt
+811D6FE1:Steel Toed Boots
+811D6FE3:Chiran Leggings
+811D6FE4:Amuli Coat
+811D6FE5:Heaume
+8122A565:Sandy Armoredillo Spine
+8122A566:Sandy Armoredillo Spine
+8122A567:Sandy Armoredillo Spine
+BA09A41A:Blank Augmentation Gem
+C7FC30D0:Stipend
+
+Missing Exports - Possessed items that were not found:

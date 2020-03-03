@@ -1,0 +1,13 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\pkt_2017-1-30_1485843220_desc\pkt_2017-1-30_1485842946_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-06-2017\pkt_2017-1-30_1485843220_desc\pkt_2017-1-30_1485842685_log.pcap
+
+Partial Exports - Missing appraisal info:
+C8597114:Pack Burun Kukuur
+C85CA0BA:Pack Drudge
+C84F78AB:Some Changes for February 2012
+C8597242:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

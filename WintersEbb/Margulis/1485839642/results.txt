@@ -1,0 +1,84 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485839309_log.pcap
+
+Partial Exports - Missing appraisal info:
+9153E86B:Pyreal
+9153FB13:Ust
+9154E032:Pathwarden Token
+9153F2AF:Foci of Verdancy
+9153FB24:Foci of Shadow
+91526DF5:Blackmoor's Favor
+91526B10:Idol Gem
+9154E23B:Teleportation Device
+9153FB59:Idol Gem
+9154E21E:Idol Gem
+9154E21F:Ring of Intellect
+9154E25F:Sturdy Steel Key
+9153E871:Asheron's Supreme Raiment
+924706FF:Little Green Seeds
+9154E046:Aphus Lassel Portal Gem
+914DD686:Sturdy Steel Key
+9153E87E:Superb Isparian Bow
+9153E87D:Isparian Weapons Modifying Tool
+9158D2C9:Pack
+923CDCBA:Salvage (100)
+923E6EE9:Salvage (100)
+923EA613:Salvage (100)
+92445BD7:Yellow Monster Seed
+920E8E9F:Salvage (100)
+922B879E:Salvage (100)
+928483DC:Renegade Herbal Kit
+922BDB3C:Salvage (100)
+92449DC4:Salvage (100)
+928480EC:Renegade Herbal Kit
+92471399:Salvage (100)
+923BF222:Salvage (100)
+928481B7:Renegade Herbal Kit
+91F0A897:Salvage (100)
+92324FB1:Ancient Empyrean Trinket
+92CA2487:Mana Forge Key
+923413D5:Ancient Falatacot Trinket
+923B10BF:Salvage (100)
+92CA24B6:Mana Forge Key
+924C1AAB:Salvage (100)
+924C03A3:Salvage (100)
+92C39055:Pyreal Pea
+927D4690:Salvage (100)
+92A3CF12:Salvage (100)
+928483FB:Burning Coal
+929372D8:Salvage (100)
+928E3126:Salvage (100)
+93251BD0:Inscription of Blade Arc
+9255A12F:Salvage (100)
+929C2201:Salvage (100)
+93289378:Inscription of Flame Arc
+9276A372:Salvage (100)
+923C7E71:Studded Leather Cowl
+92422115:Lorica Leggings
+923FA4DA:Ring
+922EDA15:Electric Staff
+923B6C84:Chainmail Breastplate
+923C6BEA:Fletcher's Crystal
+921DB5A1:Top
+92680300:Tenassa Sleeves
+9156ECB7:Celdon Sleeves
+915359BD:Koujia Sleeves
+9208B48D:Chainmail Pauldrons
+92B9F950:Pyreal Sliver
+929292C2:Olthoi Amuli Leggings
+92BB8514:Celdon Leggings
+92BF7124:Baggy Pants
+9284B329:Heavy Bracelet
+92C29601:Heavy Bracelet
+928303DD:Golden Gromnie
+927F5D89:Zefir's Crystal
+929776DE:Pearl of Defending
+929E6BD7:Tinker's Crystal
+929731C1:Warrior's Crystal
+92831D24:Golden Gromnie
+80923843:War Bow
+91AFF8B8:Celdon Girth
+8093C944:Blunt Compound Crossbow
+93278627:Frost Baton
+
+Missing Exports - Possessed items that were not found:

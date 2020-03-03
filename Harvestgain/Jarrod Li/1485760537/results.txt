@@ -1,0 +1,64 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485760389_log.pcap
+
+Partial Exports - Missing appraisal info:
+811E216D:Pack
+811E216E:Shoes
+811E216F:Peerless Atlan Sword
+811E2170:Clean, Dry Towel
+811E2173:Gloves
+811E2172:Faran Life Master Robe
+811E2174:The Story of Koji's Sword
+811E2176:The Emperor's Blade
+811E2175:On the Four Stones and Three Elders
+811E2177:Cap
+811E2179:Loka Jii Learns to Hunt
+811E217A:The Journal of Nandesu Ka
+811E217B:Blackmoor's Favor
+811E217D:Pack
+811E217E:Gloves
+811E217F:Shirt
+811E2180:Doublet
+811E2181:Sollerets
+811E2188:Worn Old Key
+811E2184:Acid Takuba
+811E2185:Suikan Creature Master Robe
+811E2186:Chiran Gauntlets
+811E2187:Tower Shield
+811E218C:Bundle of Arrowshafts
+811E218A:Pants
+811E218B:Tunic
+811E219C:Polestar
+811E218D:Gem of Stillness
+811E218E:Chiran Coat
+811E218F:Chiran Coat
+811E2190:Scalemail Leggings
+811E219F:Tome
+811E219A:Frost Compound Bow
+8002A1D6:Isparian Arms
+811E2195:Celdon Breastplate
+811E2196:Celdon Sleeves
+811E2197:Celdon Girth
+C01E492F:Stipend
+811E2199:Celdon Leggings
+811E219B:First Half of a Battered Bow
+811E219D:Shadow Wings Breastplate
+82018AFF:Ursuin Scalp
+9301935A:Asheron's Lesser Raiment
+8002A1A2:Pack
+93019640:Trade Note (100,000)
+8002A1E2:Writ of Refuge
+811C1A3D:Deadly Blunt Arrow
+8002A1C5:Pragmatic Guide to Atlan Weapons
+8A2588A5:Deadly Fire Arrow
+8A226313:Deadly Fire Arrow
+C375B413:Stipend
+8002A1C6:Imbue Swap Coin
+8002A1D5:Suikan Over-robe
+8002A1D2:Olthoi Koujia Kabuton
+8002A1C1:Olthoi Koujia Sleeves
+8002A1EB:Celdon Sleeves
+8002A1E3:Cloth Gloves
+811C19EA:Slashing Compound Bow
+
+Missing Exports - Possessed items that were not found:

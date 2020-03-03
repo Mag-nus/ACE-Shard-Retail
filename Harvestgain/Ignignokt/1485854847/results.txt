@@ -1,0 +1,68 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\AC-Packet-Captures\AC Packet Captures\pkt_2017-1-30_1485831673_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-06-2017\AC-Packet-Captures\AC Packet Captures\pkt_2017-1-28_1485601848_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\AC-Packet-Captures\AC Packet Captures\pkt_2017-1-30_1485809433_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\AC-Packet-Captures\AC Packet Captures\pkt_2017-1-30_1485809433_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\AC-Packet-Captures\AC Packet Captures\pkt_2017-1-30_1485809433_log.pcap
+
+Partial Exports - Missing appraisal info:
+92BA6E7A:Foci of Artifice
+92B22532:Foci of Verdancy
+92BC73A8:Ust
+92BA6EB2:Gold Scarab
+92B9E23B:Platinum Scarab
+92BB6C60:Diamond Scarab
+92B7BD3B:Pyreal Scarab
+92B75FE8:Chorizite
+92B3F3CD:Lead Scarab
+92B30AE8:Silver Scarab
+92B4CA8F:Copper Scarab
+92B9DB6E:Iron Scarab
+92B7AC76:Quest Weapon Coin
+92B18977:Prismatic Taper
+92BA71AB:Superb Mana Charge
+92ACF24F:Titan Mana Charge
+92BB6C5F:Titan Mana Charge
+92A5C3D7:Titan Mana Charge
+92B7870A:Prismatic Taper
+92B78755:Prismatic Taper
+92B9C515:Splitting Tool
+929C30FE:Titan Mana Charge
+92B75CA0:Titan Mana Charge
+92B4C504:Titan Mana Charge
+92B72BC7:Titan Mana Charge
+92B72A36:Titan Mana Charge
+92BACF96:Titan Mana Charge
+92BA6EDA:Titan Mana Charge
+92BA724B:Titan Mana Charge
+92B18051:Titan Mana Charge
+92B7597D:Titan Mana Charge
+92B7BE9D:Titan Mana Charge
+92BC73BF:Pyreal
+92BACF94:Titan Mana Charge
+92BACF81:Titan Mana Charge
+92B4D0D4:Titan Mana Charge
+92BACE12:Titan Mana Charge
+92BA7221:Superb Mana Charge
+92B18A3B:Superb Mana Charge
+92B7B649:Superb Mana Charge
+92BACF82:Superb Mana Charge
+92BC73B0:Trade Note (100,000)
+92BC73C0:Stipend
+92BC73B5:Trade Note (250,000)
+92BC73B6:Titan Mana Charge
+92BC73C1:Copper Pea
+92BC73C2:Salvage (6)
+92BC73C4:Gold Pea
+92BC73C5:Salvage (8)
+92BC73C6:Salvage (6)
+92BC73C7:Salvage (7)
+92BC73CA:Silver Pea
+9CAB67BE:Salvage (7)
+A6A83094:Salvage (6)
+A6B0F057:Salvage (15)
+92BC73A6:Intricate Carving Tool
+
+Missing Exports - Possessed items that were not found:

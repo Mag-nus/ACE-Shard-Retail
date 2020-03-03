@@ -1,0 +1,121 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485323961_log\pkt_2017-1-24_1485323961_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+
+Partial Exports - Missing appraisal info:
+C09A77BC:Pack
+C09A77BE:Mattekar Claw
+C09A77BF:Peerless Shivering Atlan Claw
+C09A77C0:Peerless Sparking Atlan Claw
+C09A77C6:Trade Note (75,000)
+C09A77CA:Perfect Chilling Isparian Claw
+C09A77CB:Peerless Smoldering Atlan Claw
+C09A77CD:Polar Ursuin Lair
+C09A77D1:Pack T'thuun
+C09A77D2:Saulandoi
+C09A77D3:Trade Note (250,000)
+C09A7892:Some Changes for February 2012
+C09A77C5:Trade Note (100,000)
+C09A77D6:Pack
+C09A77D7:Silver Scarab
+C09A77D8:Lead Scarab
+C09A77D9:Copper Scarab
+C09A77DA:Iron Scarab
+C09A77DB:Gold Scarab
+C09A77DC:Pyreal Scarab
+C09A77DD:Intricate Carving Tool
+C09A77DE:Diamond Scarab
+C09A77DF:Chorizite
+C09A77E0:Prismatic Taper
+C09A77E1:Splitting Tool
+C09A77E3:Platinum Scarab
+C09A77E4:Ust
+C09A77E5:Elaborate Field Rations
+C09A77E7:Health Philtre
+C09A77E8:Plentiful Healing Kit
+C6300A4E:Plentiful Healing Kit
+C09A77C8:Gem of Purity
+C09A77C7:Gem of Stillness
+C09A77ED:Pack
+C09A7806:Pack
+C09A77EE:Lightning Claw
+C09A77EF:Lightning Nekode
+C09A7802:Flaming Cestus
+C09A77F0:Acid Claw
+C09A77F6:Claw
+C09A77F7:Acid Crossbow
+C09A77F8:Electric Crossbow
+C09A77F9:Acid Claw
+C09A77FA:Wrapped Bundle of Quarrelshafts
+C09A77FB:Wrapped Bundle of Deadly Blunt Arrowheads
+C09A77FC:Wrapped Bundle of Deadly Fire Arrowheads
+C09A77FD:Frost Claw
+C09A77FE:Fire Crossbow
+C09A77FF:Blunt Crossbow
+C09A7800:Claw
+C09A7801:Acid Compound Crossbow
+C09A7803:Flaming Cestus
+C09A7804:Nefane Shield
+C09A7809:Celdiseth's Portal Gem
+C09A780A:Shoyanen's Portal Gem
+C82D544C:Pyreal
+C09A7814:Vissidal Island Portal Gem
+C09A77E2:Aphus Lassel Portal Gem
+C83164A5:Town Network Portal Gem
+C09A7831:Major Mana Stone
+C09A7843:Major Mana Stone
+C09A7828:Stiletto
+C09A782A:Fire Compound Bow
+C09A787C:Pyreal
+C09A782D:Fire Compound Bow
+C09A7844:Major Mana Stone
+C09A7849:Major Mana Stone
+C09A783C:Lightning Poniard
+C09A7840:Pyreal Pea
+C09A7845:Piercing Baton
+C09A7848:Frost Bow
+C09A7850:Major Mana Stone
+C09A784B:Acid Baton
+C09A784E:Frost Sceptre
+C09A7853:Duke Raoul's Distillation
+C09A7854:Tusker Spit Ale
+C09A7858:Acid Sceptre
+C09A7867:Slashing Crossbow
+C09A787E:Major Mana Stone
+C09A786E:Covenant Shield
+C09A7890:Shield of Perfect Light
+C09A6F6B:Lightning Nekode
+C09A7881:Deadly Fire Quarrel
+C09A7882:Fire Compound Crossbow
+C09A7886:Blunt Compound Bow
+8306FDB2:Pyreal
+C8361F86:Pack
+C09A788C:Blunt Compound Crossbow
+C09A788F:Claw
+8306FDB3:Pyreal
+C76D7C49:Imbue Swap Coin
+C09A6F6C:Frost Nodachi
+C74C604C:Acid Dirk
+C74B53A5:Fire Compound Crossbow
+C7832483:Dericost Blade
+C6B71D48:Blunt Compound Bow
+C6AC5BC5:Blunt Bow
+C7FAFFA3:Electric Sceptre
+C7E741CC:Blunt Baton
+C81BF7CB:Blunt Sceptre
+C09A77F5:Sturdy Reedshark Robe
+C09A77F4:Robe of the Tundra
+C09A77F3:Elemental Master Robe
+C09A77F2:Elemental Master Robe
+C09A77F1:Aerfalle's Pallium
+C8361F97:Pack
+C8304134:Saffron
+C8339B6B:Piercing Bow
+
+Missing Exports - Possessed items that were not found:

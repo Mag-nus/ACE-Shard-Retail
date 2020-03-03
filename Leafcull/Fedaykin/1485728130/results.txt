@@ -1,0 +1,81 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-07-2017\Asherons-Call-packets-includes-3-towers\pkt_2017-1-29_1485727927_log.pcap
+
+Partial Exports - Missing appraisal info:
+AEA7054F:Lautaloi
+AEA70548:Foci of Artifice
+AEA7054C:Pack
+AEA7054D:Pack
+AEA70550:Shadow Lugian Stronghold Portal Gem
+AEA70552:Golden Pumpkin
+AEA70557:Pack
+AEA70555:Scarecrow Stand
+AEA70556:Scarecrow Torso
+AEA7056E:Bunny Slippers
+AEA7056B:Gold Phyntos Wasp Wing
+AEA7055C:Frost Bow
+AEA70567:Pack
+AEA70562:Fire Bow
+AEA70568:Pack
+AEA70569:Jungle Phyntos Wasp Wing
+AEA7056A:Peppermint Monougat Chew
+AEA7056C:Ash Gromnie Tooth
+AEA7056F:Pack Burun Kukuur
+AEA70570:Pack Grael
+AEA70574:Undead Femur bone
+AEA70572:Crude Lockpick
+AEA70573:Jungle Phyntos Wasp Wing
+AEA70575:Gold Phyntos Wasp Wing
+AEA70576:Great Mattekar Horn
+AEA70577:Moarsmuck
+AEA70578:Copper Heart
+AEA70579:Yellow Jewel
+AEA7057A:Large Lugian Sinew
+AEA7057B:Ghost Guise
+AEA7057C:Banderling Predator Scalp
+AEA7057D:Banderling Scalp
+AEA7057E:Large Armoredillo Hide
+AEA7057F:Iron Heart
+AEA70580:White Jewel
+AEA70583:Gloves
+AEA70584:Some Changes for February 2012
+AEA70585:Academy Wand
+AEA70586:Marble Key
+AEA70587:Virindi Profatrix Mask
+AEA70588:Pack Pumpkin Lord
+AEA70589:Decorative Bronze Statue 
+AEA7058A:Pack Grael
+AEA7058B:Pack Bael'Zharon
+AEA7058D:Teleportation Device
+AEA7058C:Zombie Butler
+AEA7058E:Rock
+AEA7058F:Aetheria Mana Stone
+AEA70590:Wrapped Bundle of Deadly Frog Crotch Arrowheads
+AEA70594:Pyreal
+AEA70591:Wrapped Bundle of Burning Sands Arrowheads
+AEA70592:Little Green Seeds
+AEA70593:Wrapped Bundle of Deadly Blunt Arrowheads
+AEA70595:Wrapped Bundle of Deadly Acid Arrowheads
+AEA70596:Virindi Shroud
+AEA70597:Wrapped Bundle of Olthoi Acid Arrowheads
+AEA70598:Wrapped Bundle of Deadly Armor Piercing Arrowheads
+AEA70599:Wrapped Bundle of Deadly Fire Arrowheads
+AEA7059A:Wrapped Bundle of Deadly Acid Arrowheads
+AEA7059B:Wrapped Bundle of Deadly Blunt Arrowheads
+AEA7059C:Pack
+AEA7059D:Jack o' Lantern
+AEA705A0:Seal
+AEA7059E:Wrapped Bundle of Deadly Frost Arrowheads
+AEA7059F:Wrapped Bundle of Deadly Frost Arrowheads
+AEA705A1:Intricate Copper Key
+AEA705A2:Intricate Obsidian Key
+AEA705A3:Dark Revenant Thighbone
+AEA705A4:Diamond Heart
+AEA705A5:Superior Shield
+AEA705A6:Diamond Heart
+AEA705A7:Diamond Heart
+AEA705A8:Diamond Heart
+AEA705A9:Diamond Heart
+AEA705AA:Diamond Heart
+
+Missing Exports - Possessed items that were not found:

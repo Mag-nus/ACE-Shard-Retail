@@ -1,0 +1,16 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-28_1485657507_\pkt_2017-1-28_1485657507_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-28_1485651516_\pkt_2017-1-28_1485651516_log.pcap
+
+Partial Exports - Missing appraisal info:
+D81A7F13:Pyreal
+D81A7F14:Sack
+D81A7F15:Ust
+D81A7F1C:Letter From Home
+D856B631:Great Mana Charge
+D84FB63E:Stone of Discipline
+D84F58EA:Stone of Detachment
+
+Missing Exports - Possessed items that were not found:

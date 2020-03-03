@@ -1,0 +1,216 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\Dr_Doom_Random_Running_Around\pkt_2017-1-28_1485658855_log.pcap
+
+Partial Exports - Missing appraisal info:
+80A58463:Pack
+80B1B7D3:Bronze Gearknight Gear
+80B1B7CC:Shoyanen's Portal Gem
+832DBFD4:Coruscating Olthoi Scent Gland
+82443C7C:Gem of Lowering Strength
+80B1B8D7:Composite Bow with Superb Handle
+80B1B895:Orb
+824481B7:Token of Modification
+807DF641:Royal Runed War Bow
+81A5C5DC:Greater Mana Stone
+8A02C9B9:Moderate Mana Stone
+8A9C25FF:Greater Mana Stone
+8A9C4F4D:Health Philtre
+8B2D976E:Major Mana Stone
+8B40C55C:Dire Champion Token
+8BB20834:Major Mana Stone
+8BEF7B4D:Major Mana Stone
+8BF4D9F5:Major Mana Stone
+8BB6D253:Major Mana Stone
+8C0F4CF2:Major Mana Stone
+8C2EF52C:Major Mana Stone
+8C2EF214:Major Mana Stone
+8C2CC095:Treated Healing Kit
+8C66E8B5:Major Mana Stone
+80ADC83A:Focusing Stone
+80B1B821:Pack
+80B1B94E:Copper Scarab
+80B1B94F:Silver Scarab
+80B1B6E7:Gold Scarab
+80B16D1D:Pyreal Scarab
+80B16D1E:Black Fire Atlan Stone
+80B1B6A1:Stone Tool
+80B1B6A0:Blackmoor's Favor
+80B1B69F:Quest Weapon Coin
+80B1B81D:Platinum Scarab
+80AE18A6:Diamond Scarab
+80AE182D:Titan Mana Charge
+80B1B802:Titan Mana Charge
+80A797F5:Titan Mana Charge
+8329760A:Lead Scarab
+832D695A:Coalesced Mana
+8A66C728:Asheron's Lesser Benediction
+8A7F5717:Aetheria Mana Stone
+8A7AFBC9:Aligned Mana Stone
+8BB29CBE:Mana Scarab
+8A7C8BC5:Prismatic Taper
+8A784722:Prismatic Taper
+8BB468A7:Pyreal Pea
+8C2D75BD:Silver Pea
+8C69E901:Copper Pea
+80AA2408:Foci of Artifice
+80B1B815:Pack
+80B1B816:Chocolate Gromnie
+80B1B817:Chocolate Gromnie
+80B1B818:Caramel Kukuur
+80B1B819:Candy Corn
+80B1B81A:Colosseum Coin
+80B1B81B:Ancient Mhoire Coin
+80B1B8AB:Small Olthoi Venom Sac
+823F4CDE:Tattered Virindi Cloak
+80AFF87C:Teleportation Device
+80B1B8FB:Buadren
+80B1B89E:Casting Stein
+876F8524:Upper Insatiable Eater Jaw
+882E8FB2:Upper Insatiable Eater Jaw
+88E114F0:Upper Insatiable Eater Jaw
+85D7D46A:Upper Insatiable Eater Jaw
+850126F5:Upper Insatiable Eater Jaw
+8A6113AE:Upper Insatiable Eater Jaw
+8B3A9695:Upper Insatiable Eater Jaw
+8BB592FA:Treated Healing Kit
+8BB40D7B:Treated Healing Kit
+80B5AF0F:Treated Healing Kit
+8AA1E519:Treated Healing Kit
+8BF3DADA:Upper Insatiable Eater Jaw
+8C926178:Upper Insatiable Eater Jaw
+80B1B878:Pack
+80AE0324:Blighted Mana Crystal
+80B1B6DA:Polar Ursuin Lair
+80AFDF30:Ust
+80AFE0EA:Whittling Knife
+80AE18AA:Wrapped Bundle of Deadly Blunt Arrowheads
+8C880950:Pyreal
+80AA1F13:Gem of Stillness
+80B1B80E:Ring
+80ABDD76:Black Rock
+80B1B80B:Coalesced Mana
+80B1B80C:Aphus Lassel Portal Gem
+8D3BC7A4:Pyreal
+80B1B80F:Coalesced Mana
+80B1B810:Vial of Organic Acid
+8D3BC7A3:Pyreal
+8327D30E:Stamina Brew
+8245C656:Forager Captain's Resonator
+80B1B8C7:Intricate Carving Tool
+823B3204:Wrapped Bundle of Deadly Prismatic Arrowheads
+80B1B855:Wrapped Bundle of Arrowshafts
+8A7C170F:Trade Note (250,000)
+8A490968:Trade Note (5,000)
+83678755:Trade Note (50,000)
+8C2D886D:Gold Pea
+8CAA1146:Wrapped Bundle of Deadly Prismatic Arrowheads
+8012914E:Tiki Torch
+832974DF:Trade Note (10,000)
+814A7A0E:Foci of Verdancy
+814BC836:Foci of Enchantment
+8007959B:Chevron Cloak
+824054C3:Upgraded Noble Relic Sollerets of Speed
+80B3A436:Ice Box
+823C084A:Upgraded Noble Relic Leggings of Health
+823C0AA6:Upgraded Noble Relic Helm of Will
+8241A794:Upgraded Noble Relic Coat of Brilliance
+80079590:Bracelet
+8C8A7461:Major Mana Stone
+8007959A:Puzzle Box
+8007958A:Heavy Necklace
+8C8CFC78:Major Mana Stone
+8007958F:Bracelet
+8007958E:Ring
+80ABF7AA:Ring
+8007958D:Baggy Pants
+8007958C:Flared Shirt
+82438195:Upgraded Noble Relic Gauntlets of Strength
+85DBC284:Aetheria
+8C8E1615:Major Mana Stone
+8B309EF8:Aetheria
+80B38904:Aetheria
+8C8D0F14:Treated Healing Kit
+8BF64302:Piercing Compound Bow
+8C8F0C04:Major Mana Stone
+8CADB516:Olthoi Ripper Spine
+8C54B0AB:Blunt Bow
+8C684E87:Red Empyrean Ring
+800D3D90:Fertilized Sundew
+8CE5CCB8:Olthoi Slayer Carapace
+8CE66833:Salvage (19)
+8CEBDE76:Circlet
+8CEBDC8C:Salvage (27)
+8CEFA6C3:Salvage (49)
+8D3BABDD:Upper Insatiable Eater Jaw
+8CEFC259:Salvage (92)
+8BDDE7B5:Fire Compound Bow
+80B3A3F1:Font of Jojii
+8B98BC02:Paradox-touched Olthoi Bow
+8BF16645:Acid Compound Bow
+800D3D8F:Fertilized Fly Trap
+8C44FCBB:Frost Compound Bow
+8D3BBC3D:Encapsulated Spirit
+8C1255C5:Slashing Bow
+8CEFC3CA:Deadly Prismatic Arrow
+8C351FE8:Electric Compound Bow
+800D3D93:Holiday Lights
+800D3D91:Shield of Perfect Light
+800D3D92:Shield of Perfect Light
+80129126:Black Spear of Mukkir Strength
+80129125:Festival Lights
+80129127:Gladiator Diemos Statue
+80B3A3F8:Pack Gaerlan
+80B3A3F4:Pack Ancient Olthoi Queen
+80B3A3F3:Tremendous Monouga Pack Doll
+80129128:Pile of Presents
+80129129:Festival Lights
+80B3A3F2:Pack Burun Kukuur
+80B3A3F7:Scarecrow Guise
+80B3A431:Great Pumpkin
+80B3A437:Ice Badge
+84A742A9:Isparian Weapons Modifying Tool
+894A9153:Trade Note (250,000)
+842C7601:Trade Note (100,000)
+80129133:Writ of Refuge
+80129140:Imbue Swap Coin
+8C4B786C:Shadow Fragment
+8CEBD2E2:Salvage (100)
+8CEDAA12:Salvage (100)
+8CECD97E:Salvage (100)
+8B9BFBD5:Braced Mana Forge Key
+8CA41C1B:Salvage (100)
+8CEE18B5:Salvage (100)
+8B9BFCD5:Braced Mana Forge Key
+8CE65F8F:Salvage (100)
+8CADCD11:Blunt Crossbow
+8BF1DD5A:Treated Healing Kit
+80079596:Blunt Compound Crossbow
+8CA2F196:Salvage (100)
+8B95C901:Crystalline Shard
+89624CE6:Coronet
+8BEFC412:Treated Healing Kit
+896F9CCA:Diadem
+8C651098:Encapsulated Spirit
+8B902F02:Fortified Mana Forge Key
+8BF1FF40:Treated Healing Kit
+8BF25573:Treated Healing Kit
+8B9618A8:Treated Healing Kit
+8CECB80B:Salvage (100)
+88729540:Bordered Cloak
+834E2099:Stipend
+8CEBE7E2:Smithy's Crystal
+8CEDBD94:Salvage (100)
+8CF0AA71:Slashing Staff
+8CE9AF99:Salvage (100)
+88CCC978:Elaborate Dried Rations
+88946E52:Elaborate Field Health Rations
+80B388FB:Elaborate Field Mana Rations
+80B388F7:Hunter's Stock Amber
+80B388F4:Bobo's Stout
+80B388F2:Apothecary Zongo's Stout
+80B388F5:Amber Ape
+80B388F0:Duke Raoul's Distillation
+80B388EF:Tusker Spit Ale
+800795A0:Sceptre
+
+Missing Exports - Possessed items that were not found:

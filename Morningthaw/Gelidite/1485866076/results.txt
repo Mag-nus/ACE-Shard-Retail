@@ -1,0 +1,112 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-31_1485865620_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-27_1485531435_log.pcap
+
+Partial Exports - Missing appraisal info:
+C6936E49:Foci of Artifice
+C6936E9C:Pathwarden Trinket
+C6936E85:Foci of Enchantment
+C6936EA5:Pack
+C6936E60:Prismatic Taper
+C6936E51:Silver Scarab
+C6936EC3:Copper Scarab
+C6936E68:Lead Scarab
+C6936E40:Lightning Corsesca
+C6936E7A:Acid Great Star Mace
+C6936E91:Dansha-Ki's Gem of Portal Recall
+C6936E48:Stone of Rez'arel
+C6936ECF:Chunk of Ore
+C6936EAF:Chunk of Ore
+C6936E84:Pyreal Mote
+C6936ED8:Colban Plant
+C6936EB9:Platinum Scarab
+C6936EA4:Pyreal Scarab
+C6936E9B:Gold Scarab
+C6936E5F:Iron Scarab
+C6936E50:Salvaged  (100)
+C6936E67:Belt Pouch
+C6936EC2:Salvaged  (100)
+C6936E90:Shoyanen's Portal Gem
+C6936EEF:Basket
+C6936E79:Heavy Bracelet
+C6936EE3:Heavy Necklace
+C6931A62:Flaming Jo
+C6936ECE:Dho Life Master Robe
+C6936EAE:Suikan Life Master Robe
+C6936E9A:Suikan Item Master Robe
+C6936E83:Dho Creature Master Robe
+C6931A61:Suikan War Master Robe
+C69050EF:Acid War Hammer
+C6936EF7:Treated Healing Kit
+C6931A60:Faran War Master Robe
+C6936ED7:Faran Item Master Robe
+C6936EB8:Dho War Master Robe
+C6936EA3:Fadsahil's Portal Gem
+C6936EEB:Pyreal
+C6936E5E:Suikan War Master Robe
+C6936E66:Lightning Takuba
+C6936E8F:Treated Healing Kit
+C6936EC1:Crown
+C6936E78:Treated Healing Kit
+C6936F00:Treated Healing Kit
+C6936EE2:Treated Healing Kit
+C6936ED6:Sturdy Steel Keyring
+C6936ECD:Ust
+C6936EAD:Scroll of Eye of the Storm
+C6936E99:Teleportation Device
+C6936E82:Treated Healing Kit
+C6936EB7:Treated Healing Kit
+C6936EA2:Treated Healing Kit
+C6936EC0:Treated Healing Kit
+C6936EEE:Pack
+C6936E77:Salvaged  (100)
+C6936EF6:Blackmoor's Favor
+C6936E8E:Asheron's Benediction
+C6936F0E:Sturdy Iron Key
+C6936EFF:Sturdy Iron Key
+C6936EE1:Jungle Phyntos Wasp Wing
+C6936ECC:Superb Mana Charge
+C6936EAC:Titan Mana Charge
+C6936E81:Titan Mana Charge
+C6936ED5:Red Monster Seed
+C6936EB6:Gelidite Robe
+C6936E98:Bloodletter Charm Necklace
+C6936F0D:Sturdy Steel Key
+C6936EBF:Salvaged  (12)
+C6936EED:Salvaged  (17)
+C6936EE0:Torch
+C6936E76:Salvaged  (36)
+C6936EF5:Salvaged  (51)
+C6936EA0:Diamond Heart
+C6936E8D:Trade Health Elixir
+C6936ECB:Protective Drudge Charm
+C6936E97:Salvaged  (54)
+C6936EBE:A Tiny Mnemosyne
+C6936F1A:Frost Magari Yari
+C6936E8C:Amulet
+C6936EEC:Salvaged  (100)
+C6936F22:Health Draught
+C6936EF4:Puzzle Box
+C6936F0C:Scroll of Light Weapon Mastery Self III
+C6936EFD:Pyreal Sliver
+C6936EAA:White Phyntos Wasp Wing
+C6936EDF:Holtburg Portal Gem
+C6936ECA:Lytelthorpe Portal Gem
+C6936E96:White Phyntos Wasp Wing
+C6936F19:Salvaged  (39)
+C6936ED3:Salvaged  (29)
+C6936EB4:Salvaged  (59)
+C6936E9F:Salvaged  (85)
+C6936EDE:Some Changes for February 2012
+C6936EBD:Pyreal Mote
+C6936F32:Shield of the Simulacra
+C6936F21:Imbued Asteliary Orb
+C6936F2A:Salvaged  (27)
+C6936EF3:Salvaged  (78)
+C6936F0B:Salvaged  (75)
+C6936EA9:Bracelet
+C6936EFC:Khanda-handled Mace
+
+Missing Exports - Possessed items that were not found:

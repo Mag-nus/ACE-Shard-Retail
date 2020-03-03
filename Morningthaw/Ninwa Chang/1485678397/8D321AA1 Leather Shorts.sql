@@ -1,0 +1,84 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (2368871073, 25650, 2, 7524673) /* Clothing */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (2368871073,   1,          2) /* ItemType - Armor */
+     , (2368871073,   4,       2048) /* ClothingPriority - OuterwearAbdomen */
+     , (2368871073,   5,        270) /* EncumbranceVal */
+     , (2368871073,   9,       1024) /* ValidLocations - AbdomenArmor */
+     , (2368871073,  16,          1) /* ItemUseable - No */
+     , (2368871073,  18,          1) /* UiEffects - Magical */
+     , (2368871073,  19,       7554) /* Value */
+     , (2368871073,  28,        151) /* ArmorLevel */
+     , (2368871073,  65,        101) /* Placement - Resting */
+     , (2368871073,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (2368871073, 105,          5) /* ItemWorkmanship */
+     , (2368871073, 106,        249) /* ItemSpellcraft */
+     , (2368871073, 107,        781) /* ItemCurMana */
+     , (2368871073, 108,        781) /* ItemMaxMana */
+     , (2368871073, 109,         92) /* ItemDifficulty */
+     , (2368871073, 110,          0) /* ItemAllegianceRankLimit */
+     , (2368871073, 115,        188) /* ItemSkillLevelLimit */
+     , (2368871073, 131,         55) /* MaterialType - ReedSharkHide */
+     , (2368871073, 172,          3) /* AppraisalLongDescDecoration */
+     , (2368871073, 176,          7) /* AppraisalItemSkill */
+     , (2368871073, 188,          1) /* HeritageGroup - Aluvian */
+     , (2368871073, 9015,          3) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (2368871073,   1, False) /* Stuck */
+     , (2368871073,  11, True ) /* IgnoreCollisions */
+     , (2368871073,  13, True ) /* Ethereal */
+     , (2368871073,  14, True ) /* GravityStatus */
+     , (2368871073,  19, True ) /* Attackable */
+     , (2368871073,  22, True ) /* Inscribable */
+     , (2368871073, 100, True ) /* Dyable */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (2368871073,   5,   -0.05) /* ManaRate */
+     , (2368871073,  13, 1.20000004768372) /* ArmorModVsSlash */
+     , (2368871073,  14, 0.800000011920929) /* ArmorModVsPierce */
+     , (2368871073,  15,       1) /* ArmorModVsBludgeon */
+     , (2368871073,  16,     0.5) /* ArmorModVsCold */
+     , (2368871073,  17,     0.5) /* ArmorModVsFire */
+     , (2368871073,  18, 0.300000011920929) /* ArmorModVsAcid */
+     , (2368871073,  19, 0.800000011920929) /* ArmorModVsElectric */
+     , (2368871073, 165,       1) /* ArmorModVsNether */
+     , (2368871073, 8004,       5) /* PCAPRecordedWorkmanship */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (2368871073,   1, 'Leather Shorts') /* Name */
+     , (2368871073,  16, 'Leather Shorts of Rejuvenation') /* LongDesc */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (2368871073,   1,   33554647) /* Setup */
+     , (2368871073,   3,  536870932) /* SoundTable */
+     , (2368871073,   6,   67108990) /* PaletteBase */
+     , (2368871073,   8,  100675406) /* Icon */
+     , (2368871073,  22,  872415275) /* PhysicsEffectTable */
+     , (2368871073, 8001, 2166702232) /* PCAPRecordedWeenieHeader - Value, Usable, UiEffects, Container, ValidLocations, Priority, Burden, Workmanship, MaterialType */
+     , (2368871073, 8003,         18) /* PCAPRecordedObjectDesc - Inscribable, Attackable */
+     , (2368871073, 8005,     137217) /* PCAPRecordedPhysicsDesc - CSetup, STable, PeTable, AnimationFrame */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (2368871073,   1, 2368871052) /* Owner */
+     , (2368871073,   2, 2368871052) /* Container */
+     , (2368871073, 8000, 2368871073) /* PCAPRecordedObjectIID */;
+
+INSERT INTO `biota_properties_spell_book` (`object_Id`, `spell`, `probability`)
+VALUES (2368871073,   191,      2) 
+     , (2368871073,  1485,      2) 
+     , (2368871073,  1498,      2) 
+     , (2368871073,  1526,      2) 
+     , (2368871073,  1538,      2) ;
+
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
+VALUES (2368871073, 67114613, 72, 24)
+     , (2368871073, 67114613, 136, 24);
+
+INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
+VALUES (2368871073, 0, 83889072, 83894829, 0)
+     , (2368871073, 0, 83889342, 83894833, 1);
+
+INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, `order`)
+VALUES (2368871073, 0, 16778376, 0);

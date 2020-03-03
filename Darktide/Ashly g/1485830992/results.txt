@@ -1,0 +1,91 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-30-2017-AerfalleAndDungeons\pkt_2017-1-30_1485830968_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-30-2017-AerfalleAndDungeons\pkt_2017-1-30_1485805620_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-30-2017-AerfalleAndDungeons\pkt_2017-1-30_1485805620_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-30-2017-AerfalleAndDungeons\pkt_2017-1-30_1485825566_log.pcap
+
+Partial Exports - Missing appraisal info:
+8B52DB2B:Foci of Verdancy
+C55CE39F:Shoes
+C567CC33:Cowl
+C56A8D7A:Olthoi Slasher Carapace
+C567DFEC:Ring
+C545F847:Olthoi Slayer Carapace
+C5604B4E:Heavy Bracelet
+C38C5ED5:Ring
+9512D1AD:Pyreal
+D8647BC6:Alembic
+8B52DB32:Ust
+D87A84B1:Pyreal
+C1E3066B:Dark Monolith Caverns
+BFB57FE6:Salvage (7)
+B41D69F7:Iron Scarab
+B40A2C9A:Gold Scarab
+AB09777D:Silver Scarab
+D8647AAC:Smelting Pot
+951B0DC6:Colosseum Coin
+8B52DB29:Lead Scarab
+D87A849B:Copper Scarab
+D87829F3:Gypsum
+D8782B8D:Cobalt
+AB0BA7AE:Foci of Artifice
+B0E9E023:Lesser Mana Kit
+B83E0085:Prismatic Taper
+C28F093D:Kasa
+89D3370C:Loafers
+8988E4C7:Loafers
+C2D67D7C:Shoes
+C2CED828:Shoes
+D87A850A:Pyreal
+D87A8576:Pyreal
+BDD14EEC:Beret
+B1116194:Foci of Enchantment
+D8647BC8:Eye Dropper
+D87A85D1:Superb Mana Charge
+D8782AB8:Alloy Fan
+D859C8E1:Pyreal
+D868BC41:Skeleton's Skull
+D87961FE:Pyreal
+D87BAD84:Sunflower
+D8647BCA:Mortar and Pestle
+9709A108:Salvage (100)
+96BBF5DB:Salvage (100)
+96C158DB:Salvage (100)
+9CE22735:Salvage (100)
+D86C5559:Peerless Lockpick
+9D0C10F3:Salvage (100)
+9CCF09BA:Salvage (100)
+D877BBCC:Gem
+873650F5:Salvage (100)
+9CADCCA8:Salvage (100)
+D8782A3F:Gem
+9CBE9D27:Salvage (100)
+9CBAF45F:Salvage (100)
+D877BBD2:Gem
+87046703:Salvage (100)
+D877BC24:Brimstone
+8023F925:Ancient Falatacot Trinket
+D3B4E5EF:Unreadable Scroll
+D877BBC3:Cadmia
+D8782B9D:Gem
+D86FE147:Gem
+D87D1FCE:A Scribbled Note
+91FA9C70:Trade Note (250,000)
+B4746296:Scalemail Leggings
+D878226F:Red Fire Infusion
+D86A3155:Laboratory Key
+D86C1CF1:Colban Plant
+D86C1FAE:White Fire Infusion
+D87961FA:Trade Note (50,000)
+D87B6191:Black Boulder
+D880C7FA:Red Monster Seed
+D8810C56:Blue Fire Infusion
+D8377747:Mana Tonic
+D3B36952:Shoes
+D3B4E614:Covenant Tassets
+D3B377DC:Studded Leather Pauldrons
+D3B210C9:Frost Skeleton Minion Essence (80)
+
+Missing Exports - Possessed items that were not found:

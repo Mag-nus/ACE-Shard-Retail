@@ -1,0 +1,170 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-30-to-1-31\Bliz 1-30 to 1-31\pkt_2017-1-31_1485855215_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-24-to-1-29\Bliz 1-24 to 1-29\pkt_2017-1-24_1485288542_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-24-to-1-29\Bliz 1-24 to 1-29\pkt_2017-1-24_1485326283_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-24-to-1-29\Bliz 1-24 to 1-29\pkt_2017-1-24_1485329421_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-24-to-1-29\Bliz 1-24 to 1-29\pkt_2017-1-24_1485331069_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-24-to-1-29\Bliz 1-24 to 1-29\pkt_2017-1-27_1485586502_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-24-to-1-29\Bliz 1-24 to 1-29\pkt_2017-1-29_1485760870_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-24-to-1-29\Bliz 1-24 to 1-29\pkt_2017-1-25_1485385034_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-24-to-1-29\Bliz 1-24 to 1-29\pkt_2017-1-25_1485385034_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-30-to-1-31\Bliz 1-30 to 1-31\pkt_2017-1-30_1485830930_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-24-to-1-29\Bliz 1-24 to 1-29\pkt_2017-1-25_1485402415_log.pcap
+
+Partial Exports - Missing appraisal info:
+80587E38:Pack
+8058759E:Platinum Scarab
+8058759F:Pyreal Scarab
+80559F3D:Gold Scarab
+8058759D:Silver Scarab
+80587E33:Iron Scarab
+803BE0C1:Lead Scarab
+8037D797:Copper Scarab
+8038FA97:Diamond Scarab
+802EF1FF:Mana Scarab
+80587E32:Eldrytch Web Commendation Ribbon
+80587F8F:Pyreal Pea
+803C5F5E:Eldrytch Web Trade Token
+80587E79:Ancient Mhoire Coin
+80587E78:Colosseum Coin
+80587E75:Chorizite
+80587E73:Ornate Gear Marker
+80587E72:Small Olthoi Venom Sac
+80587E67:Prismatic Taper
+80587E5C:Eldrytch Web Trade Token
+804C717D:Eldrytch Web Trade Token
+ABA48F5B:Prismatic Taper
+80587D9D:Pyreal
+805407FD:Pack
+80587E5B:Pristine Mana Shard
+80587E22:Massive Mana Charge
+80587E25:Massive Mana Charge
+80587E4B:Massive Mana Charge
+80587E21:Shoes
+80587E28:Loafers
+80587E1F:Massive Mana Charge
+88267582:Durable Legendary Key
+88297135:Durable Legendary Key
+8827CAAF:Durable Legendary Key
+882AE2D0:Durable Legendary Key
+88289AB3:Durable Legendary Key
+882AE4C6:Durable Legendary Key
+88299DCC:Durable Legendary Key
+8821930E:Durable Legendary Key
+80587610:Carved Gemstone Lockpicks
+80587EC2:Pack
+80506A52:Inactive Lockpicker's Golem
+80587E3C:Trade Note (250,000)
+80507C09:Trade Note (250,000)
+8054045B:Cowl
+80469CA6:Trimmed Cloak
+805407AA:Eldrytch Web Cloak
+80587E19:Trade Note (250,000)
+804679D9:Trade Note (250,000)
+80587E3A:Major Mana Stone
+80587E0B:Major Mana Stone
+80587EC0:Major Mana Stone
+80587E37:Major Mana Stone
+80587E12:Ring
+80585F56:Heavy Bracelet
+8055C0AA:Pack
+80587E8E:Snow Tuskie Kennel
+80587E0A:Blue Empyrean Ring
+803C59A2:Peerless Lockpick
+8055B1C3:Aerfalle's Supreme Pallium
+80587E5E:White Bunny Slippers
+80587DFC:Peerless Lockpick
+80587DF7:Jaleh's Necklace
+80587DEB:Ring of the Whispering Blade
+80587E39:Green Empyrean Ring
+80587DE9:Peerless Lockpick
+8053F67D:Pack
+A7C4FCAF:Pyreal
+8053F642:Prickly Pear
+8053F5B3:Ust
+8041D004:Legendary Token
+80587E14:Imbue Swap Coin
+80508558:Encapsulated Spirit
+8055AE64:Mana-Infused Jungle Flower
+805861C6:Broken Stone Tablet
+80469A97:Adventurer's Token
+8055AF81:Exhumed Bones
+8054070F:Red Veined Grub
+8041E5BA:Engraved A'nekshay Bracers
+80587DDB:Pet Mouf Igloo
+80587E05:Purified Crimson Scarab
+80587DD2:Final Gate Key
+80587DD1:Middle Gate Key
+804C6898:Pyre Skeleton Jaw
+805875A7:Pyre Shroud
+80406961:Pack
+80587DCD:Crystalline Shard
+80587DF6:Hulking Rabbit Pelt
+80587DCB:Mukkir Wings
+80587DD0:Snow Tuskie Kennel
+80587F12:Spirited Bloodlust Guard
+805875AF:Blank Augmentation Gem
+80587DCE:Green Society Band
+805875B0:Blank Augmentation Gem
+8053F5BA:Upper Insatiable Eater Jaw
+80587DBA:Decaying Zombie Brain Portion
+805875B7:Pack
+805875BA:Titan Mana Charge
+805875BB:Titan Mana Charge
+805875B9:Titan Mana Charge
+804782D8:Titan Mana Charge
+80587DA9:Titan Mana Charge
+80587DDD:Titan Mana Charge
+80587DB4:Titan Mana Charge
+80587E65:Titan Mana Charge
+805875C0:Titan Mana Charge
+805875C4:Lesser Corrupted Essence
+80587D9F:Pack
+80587D70:Shoes
+80587D5E:Ring
+80587E70:Aerbax Mask Shard
+8058761B:Shoes
+80587D6E:Ring
+8058761F:Ring
+805875E1:Trousers
+8053F49C:Deed
+80587D6F:Heavy Bracelet
+80587D6C:Baggy Pants
+ABA0D6A2:Pyreal
+8058761A:Heavy Bracelet
+80587E64:Bracelet
+80587DA3:Infused Amber Shard
+ABB30F6C:Pyreal
+80540799:Red Empyrean Ring
+80587EC3:Lesser Corrupted Essence
+80587E9A:Viridian Essence
+805875CA:Blue Society Band
+80587D91:Purple Society Band
+805875CF:Eldrytch Web Armor Writ
+80587E62:Stipend
+80587D95:Society Gem of Lesser Luminance
+ABB0E7C2:Lightweight Tome
+80587E8F:Intricate Carving Tool
+80587DA8:Sealed Scroll for Commander Presk
+80587D89:Burning Sands Keyring
+80587EC1:Burning Sands Keyring
+886835FA:Unreadable Falatacot Volume
+805875DF:Relanim Plant
+A9C3D705:Glowing Box
+A9CAF510:Writ of Refuge
+ABA719BD:Minalim Plant
+AAB65EF5:Legendary Robe of Utter Darkness
+ABA80647:Sea Grey Kindling Stone
+ABA3049A:Silver Kindling Stone
+ABA763C5:Globe of Auberean
+ABA49C5F:Exarch Plate Leggings
+ABA01EF2:Exarch Plate Girth
+ABB310C1:Trade Note (100,000)
+A979511D:Hammer of Frore
+A9C63884:Gelidite Robe
+A9C639CB:Ice Heaume of Frore
+80E28802:Scholar's Crystal
+
+Missing Exports - Possessed items that were not found:

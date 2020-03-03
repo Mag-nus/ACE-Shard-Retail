@@ -1,0 +1,253 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485762725_log.pcap
+
+Partial Exports - Missing appraisal info:
+805EBBD7:Pack
+805EBB9F:Ust
+805EBBD6:Prismatic Taper
+805EBBD5:Copper Scarab
+805EBBD4:Ornamental Bowl
+805EBBD3:Gorget
+805EBBD2:Ornamental Bowl
+805EBBD1:Silver Scarab
+805EBBD0:Platinum Scarab
+805EBBCF:Leatherworking Chest Key
+805EBBCE:Blacksmithing Chest Key
+805EBBCD:A List of Items
+805EBBCC:Nanner Island Portal Gem
+805EBBCB:Iasparailaun
+805EBBCA:Iasparailaun
+805EBBC9:Iasparailaun
+805EBBC8:Iasparailaun
+805EBBC7:Iasparailaun
+805EBBC6:Gold Scarab
+805EBBC5:Sclavus Tongue
+805EBBC4:Heavy Necklace
+805EBBC3:Stocking Cap
+805EBBC2:Iasparailaun
+805EBBC1:Dark Sliver
+805EBBC0:Ring
+805EBBBE:Foci of Artifice
+805EBBBF:Amuli Leggings
+805EBBBD:Pack
+805EBBBA:Frost Cestus
+805EBBBC:Gem of Stillness
+805EBBBB:Ornamental Bowl
+805EBB68:Drudge Head
+805EBBB9:Orb
+805EBBB8:Flared Pants
+805EBBB4:Flaming Katar
+805EBBB7:Elysa's Favor
+805EBBB6:Elysa's Favor
+805EBBB5:Sollerets
+805EBBB3:Breeches
+805EBBB2:Shirt
+805EBB82:Pumpkin
+805EBBB1:Gorget
+805EBBB0:Lightning Katar
+805EBBAF:Nekode
+805EBBAE:Bracelet of Dark Essence
+805EBBAD:Refulgent Bracelet
+805EBBAC:Elysa's Favor
+805EBBAB:Elysa's Favor
+805EBBAA:Armet
+805EBBA9:Doppelganger Shield
+805EBBA8:Cestus
+805EBBA7:Sollerets
+805EBBA0:Saulandoi
+805EBBA6:Asheron's Greater Raiment
+805EBBA5:Chiran Sandals
+805EBB6A:Drudge Charm
+805EBB9D:Pack
+805EBB9C:Piercing Sceptre
+805EBB9B:Piercing Sceptre
+805EBB84:Pack
+805EBB99:Fire Sceptre
+805EBB98:Slashing Sceptre
+805EBB97:Fire Sceptre
+805EBB96:Fire Baton
+805EBB95:Piercing Sceptre
+805EBB83:Brewmaster's Spine
+805EBB94:Acid Sceptre
+805EBB93:Acid Sceptre
+805EBB92:Frost Sceptre
+805EBB91:Blunt Sceptre
+805EBB90:Frost Sceptre
+805EBB8D:Frost Sceptre
+805EBB8F:Frost Sceptre
+805EBB8E:Slashing Baton
+805EBB6F:Niffis Pearl
+805EBB8C:Frost Sceptre
+805EBB8B:Fire Baton
+805EBB85:Fire Sceptre
+805EBB8A:Fire Sceptre
+805EBB89:Piercing Baton
+805EBB64:Thorsten's Armor
+805EBB88:Frost Sceptre
+805EBB87:Slashing Sceptre
+805EBB7F:Elegant Flower Bouquet
+805EBB86:Fire Sceptre
+805EBB81:Covenant Gauntlets
+805EBB7D:Helmet
+805EBB80:Pants
+805EBB7E:Teardrop Crown
+805EBB55:The Viamontian Conflict
+805EBB7C:Salvaged  (100)
+805EBB7B:Salvaged  (100)
+805EBB54:Sack
+805EBB7A:Salvaged  (100)
+805EBB79:Salvaged  (100)
+805EBB40:Squalid Shield
+805EBB78:Salvaged  (100)
+805EBB77:Salvaged  (100)
+805EBBA2:Greater Mana Stone
+805EBB76:Salvaged  (100)
+805EBB75:Salvaged  (100)
+805EBB39:Great Mana Charge
+805EBB6E:Slippers
+805EBB6D:Amuli Coat
+805EBB01:Gharun'dim Lantern
+805EBAD8:Amuli Coat
+805EBAD7:Amuli Coat
+805EBAD9:Chiran Leggings
+805EBADF:Baggy Tunic
+805EBAEC:Celdon Breastplate
+805EBB6B:Pack
+805EBB69:Alduressa Helm
+805EBB67:Pulsating Wisp Heart
+805EBB66:Gem of Stillness
+805EBB65:Crown
+805EBB37:Great Mana Charge
+805EBB63:Astyrrian's Jewel
+805EBB62:Duelist's Jewel
+805EBB61:Tusker's Jewel
+805EBB60:Elysa's Crystal
+805EBB5F:Thief's Crystal
+805EBB5E:Hieromancer's Crystal
+805EBB5D:Artificer's Crystal
+805EBB5C:Physician's Crystal
+805EBB5B:Deceiver's Crystal
+805EBB5A:Elysa's Crystal
+805EBB59:Deceiver's Crystal
+805EBB58:Monarch's Crystal
+805EBB57:Piercing Bow
+805EBB56:Oswald's Crystal
+805EBB35:Treated Healing Kit
+805EBADB:Olthoi Amuli Leggings
+805EBADA:Haebrean Girth
+805EBB53:Trade Note (100,000)
+805EBB4E:Trade Note (50,000)
+805EBB44:Bloodied Burun Hide
+805EBB4D:Salvaged  (100)
+805EBB4C:Salvaged  (100)
+805EBB34:Treated Healing Kit
+805EBB4B:Salvaged  (100)
+805EBB4A:Salvaged  (100)
+805EBB32:Tumerok Salted Meat
+805EBB49:Salvaged  (100)
+805EBB48:Salvaged  (100)
+805EBB30:Acid Spear
+805EBB47:Salvaged  (100)
+805EBB43:Bloodied Burun Hide
+805EBB42:Bloodied Burun Hide
+805EBB41:Heavy Bracelet
+805EBB3F:Elegant Flower Bouquet
+805EBB3E:Heavy Bracelet
+805EBB3D:Trade Note (200,000)
+805EBB3C:Amuli Coat
+805EF4C2:Pyreal Golem Heart
+805EF4C3:Pyreal Golem Heart
+805EBBA4:Blackmoor's Favor
+805EBBA3:Asheron's Benediction
+8A1643B6:Small Mattekar Hide
+805EBB31:Renegade Bone Charm
+805EBB33:Potion of Healing
+805EBB2F:Salvaged  (100)
+805EBAFB:Pack Gaerlan
+805EBB2E:Salvaged  (100)
+805EBB2D:Salvaged  (100)
+805EBAE8:Jitte of Law
+805EBB2C:Salvaged  (100)
+805EBB2B:Salvaged  (100)
+805EBB2A:Salvaged  (100)
+805EBB29:Salvaged  (100)
+B1EF077F:Stipend
+805EBB28:Salvaged  (100)
+805EBB27:Salvaged  (100)
+81027B99:Ishaq's Mace
+805EBB26:Salvaged  (100)
+805EBB25:Salvaged  (100)
+8A174B48:Dire Mattekar Paw
+805EBB24:Salvaged  (100)
+805EBB23:Salvaged  (100)
+805EBB22:Salvaged  (100)
+805EBB21:Salvaged  (100)
+805EBB20:Salvaged  (100)
+805EBB1F:Salvaged Reedshark Hide (100)
+805EBB1E:Salvaged  (100)
+805EBB1D:Salvaged  (100)
+805EBB1C:Studded  Leggings
+805EBB1B:Bracelet
+805EBB06:Yellow Jewel
+805EBB1A:Salvaged  (100)
+805EBB19:Salvaged  (100)
+805EBB18:Salvaged  (100)
+805EBB15:Amber Ape
+805EBB0C:Major Sparking Stone
+805EBB0B:Major Sparking Stone
+805EBB0A:Major Smoldering Stone
+805EBB02:Flaming Shamshir
+805EBB00:Moarsmuck
+805EBAFD:Flamberge
+805EBAFC:Focusing Stone
+805EBAFA:Beret
+805EBAF3:Slashing Compound Bow
+805EBAF2:Diforsa Cuirass
+805EF8FF:Piercing Compound Crossbow
+81027B63:Koujia Sleeves
+81027B64:Frost Spine Glaive
+805EF8DD:Sollerets
+81027B88:Covenant Gauntlets
+81027B91:Covenant Gauntlets
+805EBB14:Tusker Spit Ale
+805EBB09:Major Stinging Stone
+805EBB08:Major Shivering Stone
+805EBB05:Yellow Jewel
+805EBB07:Fire Baton
+805EBB04:Vapor Golem Heart
+805EBB03:Heavy Bracelet
+805EBAFF:Acid Baton
+805EBAFE:Salvaged  (100)
+805EBAF8:Frost Bow
+805EBAF7:Frost Compound Bow
+805EBAF4:Frost Bow
+805EBAF6:Electric Bow
+805EBAF5:Blunt Compound Bow
+805EBAEF:Whispering Blade Boots
+805EBAF1:Yoroi Tassets
+805EBAF0:Asheron's Supreme Raiment
+805EBAEE:Walking Boots
+805EBAED:Asheron's Supreme Raiment
+805EBAE7:Daulan Faur
+805EBAE6:Acid Dericost Blade
+805EBAE5:Piercing Compound Bow
+805EBAE4:Orb
+805EBADE:Mechanical Scarab
+805EBADD:Frost Stick
+805EBADC:Dericost Blade
+8EBE82D4:Fire Bow
+8EC000C6:Frost Bow
+8A809A68:Frost Compound Bow
+8A9AB354:Blunt Bow
+8E5E1388:Fire Compound Bow
+8EBE08D7:Slashing Bow
+81027B7B:Sanguinary Aegis
+8E4E5DCF:Chainmail Hauberk
+81027B6D:Platemail Hauberk of the Ogre
+81027B92:Diforsa Sleeves
+81027B65:Flanged Mace
+8E4AF236:Tenassa Leggings
+ADE252FC:Knorr Academy Helm
+81027B89:Covenant Gauntlets
+
+Missing Exports - Possessed items that were not found:

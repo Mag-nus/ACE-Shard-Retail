@@ -1,0 +1,124 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\pkt_2017-1-30_1485843220_desc\pkt_2017-1-30_1485840494_log.pcap
+
+Partial Exports - Missing appraisal info:
+DBB14BB7:Pack
+DBB14BB8:Mandrake
+DBB14BCB:Pack
+DBB14BB9:Stibnite
+DBB14BBA:Verdigris
+DBB14BBB:Cadmia
+DBB14BBC:Vitriol
+DBB14BBD:Saffron
+DBB14BC3:Gypsum
+DBB14BBE:Colcothar
+DBB14BBF:Cinnabar
+DBB14BC8:Cobalt
+DBB14BC0:Quicksilver
+DBB14BC1:Turpeth
+DBB14BCC:Poplar Talisman
+DBB14BC2:Wormwood
+DBB14BC4:Realgar
+DBB14BCF:Ashwood Talisman
+DBB14BC5:Comfrey
+DBB14BC6:Eyebright
+DBB14BD0:Iron Scarab
+DBB14BC7:Hawthorn
+DBB14BC9:Brimstone
+DBB14BD1:Rowan Talisman
+DBB14BCA:Hyssop
+DBB14BCD:Powdered Carnelian
+DBB14BD4:Cedar Talisman
+DBB14BCE:Powdered Onyx
+DBB14BD2:Powdered Hematite
+DBB14BD5:Willow Talisman
+DBB14BD3:Powdered Moonstone
+DBB14BD6:Powdered Agate
+DBB14C01:Sack
+DBB14BD7:Yew Talisman
+DBB14BD8:Powdered Turquoise
+DBB14BDA:Powdered Amber
+DBB14BD9:Powdered Bloodstone
+DBB14BDB:Powdered Lapis Lazuli
+DBB14C26:Pyreal
+DBB14BDC:Powdered Malachite
+DBB14BDD:Birch Talisman
+DBB14BDF:Alder Talisman
+DBB14BDE:Powdered Quartz
+DBB14BE0:Hazel Talisman
+DBB14BE1:Copper Scarab
+DBB14BE2:Lead Scarab
+DBB14BE3:Ebony Talisman
+DBB14BE4:Pack
+DBB14BE5:Pyreal Mote
+DBB14BE6:Wand
+DBB14BE8:Ring
+DBB14BE7:Smock
+DBB14BE9:Amulet
+DBB14BEA:Pack
+DBB14BEB:Trade Note (1,000)
+DBB14BEC:Trade Note (1,000)
+DBB14BED:Trade Note (1,000)
+DBB14BEE:Trade Note (1,000)
+DBB14BEF:Trade Note (5,000)
+DBB14BF0:Trade Note (5,000)
+DBB14BF1:Trade Note (5,000)
+DBB14BF2:Trade Note (10,000)
+DBB14BF3:Trade Note (1,000)
+DBB14BF4:Trade Note (10,000)
+DBB14BF5:Trade Note (10,000)
+DBB14BF6:Trade Note (5,000)
+DBB14BF7:Trade Note (10,000)
+DBB14BF8:Trade Note (10,000)
+DBB14BFA:Trade Note (1,000)
+DBB14BF9:Trade Note (10,000)
+DBB14BFB:Trade Note (500)
+DBB14BFC:Trade Note (500)
+DBB14BFD:Trade Note (1,000)
+DBB14BFE:Pants
+DBB14C02:Green Taper
+DBB14BFF:Sollerets
+DBB14C00:Bracelet
+DBB14C03:Turquoise Taper
+DBB14C04:Blue Taper
+DBB14C05:White Taper
+DBB14C06:Violet Taper
+DBB14C07:Grey Taper
+DBB14C08:Pink Taper
+DBB14C09:Brown Taper
+DBB14C0A:Orange Taper
+DBB14C0B:Yellow Taper
+DBB14C0C:Indigo Taper
+DBB14C0D:Sack
+DBB14C0E:Small Mana Charge
+DBB14C0F:Small Mana Charge
+DBB14C10:Small Mana Charge
+DBB14C11:Arrow
+DBB14C12:Arrow
+DBB14C13:Arrow
+DBB14C14:Arrow
+DBB14C15:Sack
+DBB14C16:Stamina Potion
+DBB14C17:Mana Draught
+DBB14C18:Ring
+DBB14C19:Fire Infusion
+DBB14C1A:Heavy Necklace
+DBB14C21:Arrow
+DBB14C1B:Necklace
+DBB14C1C:Chainmail Gauntlets
+DBB14C1E:Helmet
+DBB14C1D:Bracelet
+DBB14C1F:Wand
+DBB14C20:Wand
+DBB14C22:Yumi
+DBB14C23:Sceptre
+DBB14C24:Orb
+DBB14C25:Wand
+DBB14C27:Scalemail Leggings
+DBB14C2C:Some Changes for February 2012
+DBB14C28:Mattekar Hide Coat
+DBB14C29:Pack Grievver
+DBB14C2A:Pack Ancient Olthoi Queen
+DBB14C2B:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

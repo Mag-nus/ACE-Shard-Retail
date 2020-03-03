@@ -1,0 +1,59 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (2174514679, 7772, 6, 6476097) /* MeleeWeapon */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (2174514679,   1,          1) /* ItemType - MeleeWeapon */
+     , (2174514679,   5,        408) /* EncumbranceVal */
+     , (2174514679,   9,    1048576) /* ValidLocations - MeleeWeapon */
+     , (2174514679,  16,          1) /* ItemUseable - No */
+     , (2174514679,  18,          1) /* UiEffects - Magical */
+     , (2174514679,  19,      10341) /* Value */
+     , (2174514679,  51,          1) /* CombatUse - Melee */
+     , (2174514679,  65,        101) /* Placement - Resting */
+     , (2174514679,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (2174514679, 131,         60) /* MaterialType - Gold */
+     , (2174514679, 151,          2) /* HookType - Wall */
+     , (2174514679, 9015,         69) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (2174514679,   1, False) /* Stuck */
+     , (2174514679,  11, True ) /* IgnoreCollisions */
+     , (2174514679,  13, True ) /* Ethereal */
+     , (2174514679,  14, True ) /* GravityStatus */
+     , (2174514679,  19, True ) /* Attackable */
+     , (2174514679,  22, True ) /* Inscribable */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (2174514679,  39, 1.20000004768372) /* DefaultScale */
+     , (2174514679, 8004,       6) /* PCAPRecordedWorkmanship */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (2174514679,   1, 'Trident') /* Name */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (2174514679,   1,   33556641) /* Setup */
+     , (2174514679,   3,  536870932) /* SoundTable */
+     , (2174514679,   6,   67111919) /* PaletteBase */
+     , (2174514679,   8,  100670762) /* Icon */
+     , (2174514679,  22,  872415275) /* PhysicsEffectTable */
+     , (2174514679,  52,  100676443) /* IconUnderlay */
+     , (2174514679, 8001, 2434876056) /* PCAPRecordedWeenieHeader - Value, Usable, UiEffects, CombatUse, Container, ValidLocations, Burden, Workmanship, HookType, MaterialType */
+     , (2174514679, 8002,          1) /* PCAPRecordedWeenieHeader2 - IconUnderlay */
+     , (2174514679, 8003,   67108882) /* PCAPRecordedObjectDesc - Inscribable, Attackable, IncludesSecondHeader */
+     , (2174514679, 8005,     137345) /* PCAPRecordedPhysicsDesc - CSetup, ObjScale, STable, PeTable, AnimationFrame */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (2174514679,   1, 1343493339) /* Owner */
+     , (2174514679,   2, 1343493339) /* Container */
+     , (2174514679, 8000, 2174514679) /* PCAPRecordedObjectIID */;
+
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
+VALUES (2174514679, 67111919, 0, 0);
+
+INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
+VALUES (2174514679, 0, 83889235, 83889235, 0)
+     , (2174514679, 0, 83886709, 83886709, 1)
+     , (2174514679, 0, 83888778, 83888778, 2);
+
+INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, `order`)
+VALUES (2174514679, 0, 16784608, 0);

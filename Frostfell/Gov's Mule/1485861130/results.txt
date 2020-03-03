@@ -1,0 +1,238 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Cyberkiller-01-31-2017-Random\pkt_2017-1-31_1485861002_log.pcap
+
+Partial Exports - Missing appraisal info:
+DD28FEE4:Blackmoor's Favor
+DD2BFD92:Pack
+DD28FF86:Ivory Tooth Dart
+DD28FC3F:Decanter of Essence
+DD2B7C07:Shoes
+DD2BFE4B:Heavy Necklace
+DD2BFE4D:Kasa
+DD2B7C13:Gorget
+DCE613B6:Slashing Atlatl
+DD2D2033:Heavy Necklace
+DD28FEEC:Pack
+DD2BFE48:Scalemail Pauldrons
+DD2BFF3A:Pack
+DD2BFD32:Cloth Gloves
+DD2BFDC5:Leather Vest
+DD25AFDD:Salvaged  (100)
+DD289F92:Salvaged  (100)
+DD28F396:Salvaged  (100)
+DD2BFDFC:Salvaged  (100)
+DD2BFE12:Salvaged  (100)
+DCE61A1A:Salvaged  (100)
+DD2BFDFB:Salvaged  (100)
+DD2A121F:Salvaged  (100)
+DD2BFE07:Salvaged  (100)
+DD2BFE06:Salvaged  (100)
+DD2B7BF5:Salvaged  (100)
+DD28FEE3:Salvaged  (100)
+DD28FF74:Salvaged  (100)
+DD2BFE22:Salvaged  (100)
+DD2BFE23:Salvaged  (100)
+DD2B7BE6:Salvaged  (100)
+DD1ED00E:Salvaged  (100)
+DD2BF94E:Salvaged  (100)
+DD2BF94C:Salvaged  (100)
+DD2BFE42:Salvaged  (100)
+DD28FF83:Salvaged  (100)
+DD2BFF57:Salvaged  (100)
+DD2BEF23:Salvaged  (100)
+DD2BFF3C:Salvaged  (100)
+DD2BFF82:Salvage (100)
+DD2B7CB7:Salvage (100)
+DD2E186A:Salvage (100)
+DD2BF110:Pack
+DBB99831:Salvage (100)
+DD2B791F:Salvage (100)
+DD2BF447:Pack
+DD28A2E7:Salvage (100)
+DD2B7E2B:Salvage (100)
+DD28A149:Salvaged  (100)
+DD28A2E8:Salvaged  (100)
+DD213ADE:Salvaged  (100)
+DD2BB3E7:Salvaged  (100)
+DD28A131:Salvaged  (100)
+DD2B791D:Salvaged  (100)
+DD2B79A9:Salvaged  (100)
+DD2A72B0:Salvaged  (100)
+DD2BBAD2:Salvaged  (100)
+DD2BAC6B:Salvaged  (100)
+DD2BF02F:Salvaged  (100)
+DD21393B:Salvaged  (100)
+DD2BEE1E:Salvaged Reedshark Hide (100)
+DD2BC0B0:Salvaged Reedshark Hide (100)
+DD2BEEC9:Salvaged  (100)
+DD2B7FC8:Salvaged  (100)
+DD2A7440:Salvaged  (100)
+DD2BB67A:Salvaged  (100)
+DD258710:Salvaged  (100)
+DD2BF065:Salvaged  (100)
+DD21E9D4:Salvaged  (100)
+DD2BF1C3:Salvage (100)
+DD2D0964:Salvage (100)
+DD2BB3B6:Salvage (100)
+DD2B8123:Pack
+DD2BB9C4:Olthoi Celdon Sleeves
+DD2BB1FC:Ring
+DD2BEF26:Qafiya
+DD1F5E55:Ring
+DD2BF283:Poet's Shirt
+DD243707:Nariyid Leggings
+DD2BB3B9:Viamontian Pants
+DD1F5E4E:Lorica Gauntlets
+DD2BF5DE:Protective Drudge Charm
+DD2E1E68:Cloth Gloves
+DD2B7B52:Tenassa Sleeves
+DD28A4B6:Pack
+DD2BF324:Koujia Leggings
+DD2BBADC:Loose Pants
+DD2BF6B7:Heavy Necklace
+DD2D18CA:Empyrean Robe
+DD2D1885:Studded Leather Sleeves
+DD28784F:Haebrean Pauldrons
+DD2BA4D6:Loafers
+DD28A4C2:Staff of Nullification
+DD210852:Olthoi Celdon Leggings
+DD28F4B4:Olthoi Koujia Gauntlets
+DD2B7BC8:Bracelet
+DD2B80F3:Sollerets
+DD2B8129:Cloth Gloves
+8220B876:Leather Vest
+DD2B80F8:Olthoi Celdon Gauntlets
+DD2B7BCA:Celdon Sleeves
+DD2B8131:Chainmail Girth
+DD2B811B:Tenassa Leggings
+DD28A5D8:Leather Tassets
+DD2B8147:Olthoi Alduressa Gauntlets
+DD2B7BD4:Olthoi Amuli Gauntlets
+DD2A11AB:Olthoi Celdon Breastplate
+8220B7FA:Electric Compound Crossbow
+DD2B80CE:Puzzle Box
+DD2B811D:Diadem
+DD28A5CA:Studded Leather Leggings
+DD28A4AA:Chainmail Tassets
+DD2B811A:Metal Cap
+DD2B813E:Turban
+DD2A11AD:Studded Leather Girth
+DD2B7BDA:Haebrean Vambraces
+DD2B8132:Lorica Boots
+DD2B80C9:Haebrean Helm
+DD2B811F:Haebrean Boots
+DD2B8145:Nariyid Gauntlets
+DD2B8153:Pyreal Nugget
+DD28A4B7:Chainmail Pauldrons
+DD2A116E:Studded Leather Leggings
+DD2B812A:Yoroi Leggings
+DD2B8144:Viamontian Pants
+DD2A07B6:Nariyid Helm
+DD2A1172:Empowered Helm of the Perfect Light
+DD2B7BC2:Empowered Girth of the Perfect Light
+DD2B7BC5:Studded Leather Bracers
+DD2B8155:Tenassa Breastplate
+DD2B8157:Chainmail Sleeves
+DD2B7C47:Chainmail Greaves
+DD2B814E:Bracelet
+DD2B7C32:Ring
+DD2B7C6B:Cloth Cap
+DD2B7C31:Circlet
+DD2B815C:Amuli Coat
+DD2B815D:Chainmail Pauldrons
+DD2B8158:Studded Leather Bracers
+DD2B7FDF:Heavy Necklace
+DD2B8154:Hood
+DD2B8156:Lorica Boots
+DD2B7C33:Colban Plant
+DD2B7C4C:Alduressa Leggings
+DD2B7E24:Studded Leather Breastplate
+DD2B7E23:Olthoi Koujia Leggings
+DD28A4BF:Piercing Crossbow
+DD2B7C62:Frost Trident
+DD2B7C30:Frost Compound Bow
+DD2B7C66:Lapyan Plant
+DD2B7C6E:Converter's Crystal
+DD28A4BA:Aetheria
+DD2B7C65:Aetheria
+DD28A0CB:Fire Bow
+DD2B80C0:Trimmed Cloak
+DD2B8179:Stiletto
+DD2B8182:Olthoi Amuli Helm
+DD2B818D:Leather Pants
+DD2B818E:Ring
+DD2B80CB:Circlet
+DD2B7C95:Aetheria
+DD2B8111:Piercing Bow
+DD2B7C92:Slashing Compound Bow
+DCE98EE8:Sedgemail Leather Shoes
+DD2B8198:Faran Over-robe
+DD2B7ED7:Leather Sleeves
+DD2B7C93:Heavy Bracelet
+DD2B8197:Olthoi Koujia Sleeves
+DD2B8195:Baggy Pants
+DD2B7EC7:Studded Leather Leggings
+DD2B7EC1:Olthoi Amuli Gauntlets
+DD2B8196:Ring
+DD2B80E9:Trousers
+A78F5735:Olthoi Amuli Sollerets
+A7A20120:Pants
+DCF80008:Teardrop Crown
+DD2B7C9F:Ring
+DD2B80BE:Lightning Grievver Essence (180)
+DD2B7EBA:Pants
+DD2B7EE9:Trousers
+DD2B7CA0:Alduressa Leggings
+DD28A4D4:Nether Baton
+DD2B819A:Chiran Coat
+DD28A4D5:Studded Leather Boots
+DD2B819B:Trousers
+DD2B7EE8:Shoes
+DD28A4C5:Nariyid Girth
+DD2B7CA1:Aetheria
+DD2B8199:Cloak
+DD2B81BE:Heavy Necklace
+DD2B819D:Heavy Necklace
+DD29C8BB:Lace Shirt
+DD28A4C4:Leather Bracers
+DD2B819C:Ring
+DB05F9D6:Frost Spectre Essence (180)
+DC32F3AB:Pocket Watch
+DD2B81BD:Heavy Bracelet
+DD2B8113:Necklace
+DD2B816E:Heavy Bracelet
+DD2B81E1:Salvage
+DD2B81EF:Acid Compound Bow
+DD2B81E3:Fire Bow
+DD2B8208:Ring
+80353756:Fire Phyntos Wasp Essence (180)
+DD2B81BC:Writ of Refuge
+DD2B81C6:Salvage
+DD28A4D6:Alduressa Gauntlets
+DD28A4D3:Ring
+DD2B81BB:Chiran Gauntlets
+DD2B8112:Leather Shorts
+DD2B8240:Knorr Academy Pauldrons
+DD2B8271:Slashing Sceptre
+DD2B7BB9:Yoroi Tassets
+DD2A12C1:Baggy Pants
+DD2B83F1:Acid Phyntos Wasp Essence (180)
+DD28A4D7:Yoroi Breastplate
+DD2B83DA:Olthoi Amuli Coat
+DD1283FD:Heavy Necklace
+DD20137C:Olthoi Celdon Girth
+DD20137D:Alduressa Coat
+DD2B8242:Amuli Leggings
+9F3C527B:Olthoi Alduressa Helm
+DD20137E:Frost Compound Bow
+DD20137B:Aetheria
+DD2A1171:Heavy Bracelet
+DD2B8403:Top
+DCF72B6E:Fez
+DCF72B73:Baggy Pants
+DD28A2C8:Flared Pants
+DD1B01E8:Ring
+DD2B80C8:Lorica Boots
+DD2B80E6:Chiran Sandals
+
+Missing Exports - Possessed items that were not found:

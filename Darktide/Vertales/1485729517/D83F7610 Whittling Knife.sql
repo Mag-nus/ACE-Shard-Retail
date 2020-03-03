@@ -1,0 +1,43 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (3628037648, 5778, 44, 2150720) /* CraftTool */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (3628037648,   1,    4194304) /* ItemType - CraftCookingBase */
+     , (3628037648,   5,         50) /* EncumbranceVal */
+     , (3628037648,  11,        100) /* MaxStackSize */
+     , (3628037648,  12,          1) /* StackSize */
+     , (3628037648,  16,     524296) /* ItemUseable - SourceContainedTargetContained */
+     , (3628037648,  19,         25) /* Value */
+     , (3628037648,  65,        101) /* Placement - Resting */
+     , (3628037648,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (3628037648,  94,  138413472) /* TargetType - Food, Misc, MissileWeapon, Useless, CraftCookingBase, CraftFletchingIntermediate */
+     , (3628037648, 151,          2) /* HookType - Wall */
+     , (3628037648, 9015,          8) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (3628037648,   1, False) /* Stuck */
+     , (3628037648,  11, True ) /* IgnoreCollisions */
+     , (3628037648,  13, True ) /* Ethereal */
+     , (3628037648,  14, True ) /* GravityStatus */
+     , (3628037648,  19, True ) /* Attackable */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (3628037648,  39,     0.5) /* DefaultScale */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (3628037648,   1, 'Whittling Knife') /* Name */
+     , (3628037648,  20, 'Whittling Knives') /* PluralName */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (3628037648,   1,   33555971) /* Setup */
+     , (3628037648,   3,  536870932) /* SoundTable */
+     , (3628037648,   8,  100670317) /* Icon */
+     , (3628037648,  22,  872415275) /* PhysicsEffectTable */
+     , (3628037648, 8001,  271085593) /* PCAPRecordedWeenieHeader - PluralName, Value, Usable, StackSize, MaxStackSize, Container, TargetType, Burden, HookType */
+     , (3628037648, 8003,         16) /* PCAPRecordedObjectDesc - Attackable */
+     , (3628037648, 8005,     137345) /* PCAPRecordedPhysicsDesc - CSetup, ObjScale, STable, PeTable, AnimationFrame */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (3628037648,   1, 3422573831) /* Owner */
+     , (3628037648,   2, 3422573831) /* Container */
+     , (3628037648, 8000, 3628037648) /* PCAPRecordedObjectIID */;

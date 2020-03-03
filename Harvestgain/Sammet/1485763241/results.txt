@@ -1,0 +1,247 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485763198_log.pcap
+
+Partial Exports - Missing appraisal info:
+805F00E8:The Song of Grael
+805F00E1:Pack
+805F00E2:Bathrobe
+805F00E3:Yellow Jewel
+805F00E4:Yellow Jewel
+805F00E5:Yellow Jewel
+805F00E6:Primeval Skeleton Shin Bone
+805F00E7:The Grael Rebellion
+805F00E9:Yellow Jewel
+805F00EA:Ursuin Head
+805F00EB:Yellow Jewel
+805F00EC:Yellow Jewel
+805F00ED:Yellow Jewel
+805F00EE:Yellow Jewel
+805F00EF:Yellow Jewel
+805F00F0:Some Changes for February 2012
+805F00F1:Heavy Necklace
+805F00F2:Ring of Intellect
+805F00F3:Grievver Tibia
+805F00F4:Peerless Lockpick
+805F00F5:Peerless Lockpick
+805F00F6:Peerless Lockpick
+805F00F7:Peerless Lockpick
+805F00F8:Bow Tattoo
+B46B6AFA:Shoyanen's Portal Gem
+805F00FA:Pack
+805F00FB:Ivory Gromnie Tooth Pick
+805F00FC:Azure Gromnie Tooth Paste
+805F00FD:Peerless Lockpick
+805F00FF:Totem of Volkama
+805F0101:Covenant Gauntlets
+805F0102:Ancient Armored Leggings
+805F0103:Blue Jewel
+805F0104:Wrapped Bundle of Blunt Arrowheads
+805F0105:Wrapped Bundle of Blunt Arrowheads
+805F0106:Telumiat Hollow Minion Essence
+805F0107:Orb
+805F0108:Orb
+805F0109:Sceptre
+805F010A:Wand
+805F010C:Grievver Tibia
+805F010B:Concentrated Lightning Oil
+805F010D:Wrapped Bundle of Greater Arrowheads
+805F010E:Wrapped Bundle of Greater Frog Crotch Arrowheads
+805F0122:Drudge Charm
+805F011B:Sunflower Oil
+805F0116:Cabalist Charm Necklace
+805F0124:Bloodletter Drudge Charm
+805F0115:Bloodletter Drudge Charm
+805F011C:Bloodletter Drudge Charm
+805F0114:Pack
+805F0118:Silver Scarab
+805F011D:Staff of the Fallen
+805F011E:Heavy Grinder
+805F011F:Staff of Aerfalle
+805F0120:Aviator's Cap
+805F0123:Peerless Drudge Charm
+805F0126:Trade Note (250,000)
+AE5F75E0:Trade Note (100,000)
+AFF2445A:Iron Scarab
+AFF63190:Lead Scarab
+805F015A:Copper Scarab
+805F0159:Prismatic Taper
+ADF277F9:Invitation to Master Fletchers
+AFF6D6B2:Platinum Scarab
+AD496E45:Gold Scarab
+AFF6D6B5:Pyreal Scarab
+AFF143FF:Prismatic Taper
+B46A0EAD:Pyreal
+B469F566:Pyreal
+805F017C:Parchment
+B4E73EAD:Trade Note (75,000)
+805F012D:Pack
+805F012E:Saulandoi
+805F012F:Simple Flower Bouquet
+805F0130:An Unlocked Small Mnemosyne
+805F0132:Blue Orb
+805F0133:Azure Gromnie Wings
+805F0134:Platemail Greaves
+805F0135:Studded Leather Boots
+805F0136:Renegade Bone Charm
+805F0147:Embroidered Bag
+805F0137:Huge Snowball
+805F0138:Virindi Inquisitor's Mask
+805F013C:Gorget
+805F0139:Niffis Fighting Pits
+805F013A:Corcima Castle Platinum Ward Portal Gem
+805F013B:Heavy Bracelet
+805F013D:Covenant Shield
+90AC7FD1:Ring
+8CFDCBAD:Pants
+8103669A:Shirt
+805F014E:Embroidered Bag
+805F00F9:Gorget
+8CF6CE44:Coronet
+8D06DCE0:Crown
+805F0110:Loafers
+B4EA79A8:Trade Note (50,000)
+805F0146:Pack
+805F0148:Embroidered Bag
+805F014B:Small Bundle of Kithless Siraluun Feathers
+805F014C:Small Bundle of Kithless Siraluun Feathers
+805F014D:Embroidered Bag
+805F014F:Embroidered Bag
+805F0150:Small Bundle of Kithless Siraluun Feathers
+805F0151:Small Bundle of Kithless Siraluun Feathers
+805F0152:Small Bundle of Strand Siraluun Feathers
+805F0153:Small Bundle of Strand Siraluun Feathers
+805F0166:Alembic
+805F0154:Vial of Thananim Dye
+805F0156:Abominable Pack Snowman
+805F0157:Pack Scold
+8904C3C5:Archer's Jewel
+AE4DB1EF:Vaulter's Crystal
+9CF93C07:Olthoi's Jewel
+8A7F780F:Coronet
+B0B6C800:Diadem
+805F0129:Chalice
+8891E856:Teardrop Crown
+805F0112:Orb
+805F0158:Pack
+805F015B:Luminous Robe
+805F015C:Reshalra's Collar
+805F015D:Missile Specialist's Gauntlets
+805F015E:Moarsmuck
+805F0160:Celdon Girth
+805F0198:Swamp Stone
+805F0161:Covenant Breastplate
+805F0162:Heavy Bracelet
+805F0177:Copper Pea
+805F0163:Shoes
+805F0164:Kasa
+805F0165:Aphus Sun Guard
+88FFF34E:Leather Cuirass
+805F012A:Diadem
+805F017F:Eye Dropper
+805F0111:Chalice
+805F0121:Heavy Bracelet
+805F0168:Clasp of the Arm
+805F0144:Ben Ten's Crystal
+805F0145:T'ing's Crystal
+9CC3DFAE:Stipend
+805F012B:Scholar's Crystal
+805F013E:Elysa's Crystal
+805F013F:Zefir's Crystal
+805F0140:Pearl of Blade Baning
+805F0141:Alchemist's Crystal
+805F0142:Inferno's Jewel
+805F0143:Fletcher's Crystal
+805F0169:Ring of Enhancement
+805F016A:Mages Loop
+805F016B:Clasp of the Heart
+805F016C:Ring of Enchantment
+805F016D:Blackmoor's Favor
+805F016E:Asheron's Benediction
+805F0173:Antiquated Compass
+805F0172:Singularity Caul Asylum
+805F0186:Agent of Arcanum List
+805F0175:Focusing Stone
+805F0176:Chalice
+805F017A:Specimen 1347 Report #1
+805F0178:Singularity Keyring
+805F0179:Dardante's Viamontian Propaganda
+805F017B:Translated Bound Falatacot Fragment
+805F017D:Invitation Plateau
+805F0181:Neutral Balm
+805F0183:Moarsmuck
+805F0184:Essence of Cave Penguin
+805F0185:Tusker Spit
+805F018B:Foolproof Jet
+805F0188:Foolproof Imperial Topaz
+805F0189:Foolproof Red Garnet
+805F018A:Foolproof White Sapphire
+805F018C:Foolproof Black Garnet
+805F018D:Foolproof Imperial Topaz
+805F018E:Soul Bound Sword
+805F0191:Treated Healing Kit
+805F0193:Dark Heart
+805F0196:Assault Greatsword
+805F0199:Sandals
+805F0197:Facility Hub Portal Gem
+805F019A:Beret
+80EC877A:Bow of the Fallen
+805F019B:Ring
+805F019D:Ring
+805F01B3:Puzzle Box
+805F01AF:Quartered Cloak
+88E3017D:Trimmed Cloak
+81026C07:Armet
+88F6C6B0:Empyrean Over-robe
+890141DB:Empyrean Over-robe
+8A78BD19:Teardrop Crown
+805F010F:Gorget
+AFF4ACE7:Pack
+805EF04A:Nayin
+81026C37:Asheron's Lesser Raiment
+81026C45:Asheron's Raiment
+81026C39:Asheron's Raiment
+81026BE8:Asheron's Supreme Raiment
+805EF017:Koujia Leggings
+805EF03D:Elemental Master Robe
+805EF049:Fire Compound Bow
+805EF04B:Nayin
+80FF36C9:Yumi
+80FB58D6:Longbow
+80FF3134:Regal Longbow
+81026C36:Flanged Mace
+81026C35:Flaming Mace
+805EF095:Covenant Gauntlets
+805EF03E:Chorizite
+81026C55:Lesser Olthoi Sollerets
+805EF064:Silifi
+805EF07D:Silifi
+81026C62:Greater Olthoi Tassets
+AFF04262:Pack
+81026C5F:Greater Olthoi Bracers
+81026C34:Mazule
+810328BA:Shortbow
+80F0ADA7:Blunt Bow
+81010794:Blunt Compound Bow
+B0C2B051:Chevron Cloak
+B0E2D40C:Amuli Coat
+B0C7929F:Heavy Bracelet
+B0C2AA57:Ring
+AE49C00C:Chevron Cloak
+B0C2A779:Baggy Breeches
+AE38DE33:Wrapped Bundle of Greater Deadly Blunt Arrowheads
+AE38DE9D:Wrapped Bundle of Greater Deadly Frog Crotch Arrowheads
+805F01AC:Wrapped Bundle of Arrowshafts
+9CF81C68:Amuli Coat
+AF7E9BDE:Insatiable Eater Jaw
+B0AF296C:Insatiable Eater Jaw
+B35F0FC2:Insatiable Eater Jaw
+805F019E:Asheron's Raiment
+B4DB9284:Insatiable Eater Jaw
+B717DF08:Blank Augmentation Gem
+C71E543E:Blank Augmentation Gem
+B35FB0F3:Flared Pants
+B33EB5E7:Heavy Bracelet
+805F0174:Ring
+B7269A2E:Chef's Crystal
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,57 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2-20170203071709\pkt_2017-1-30_1485768319_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps-20170203071513\pkt_2017-1-25_1485363128_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps-20170203071513\pkt_2017-1-26_1485427571_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps-20170203071513\pkt_2017-1-26_1485427571_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps-20170203071513\pkt_2017-1-26_1485427571_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485764070_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485764070_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2-20170203071709\pkt_2017-1-29_1485688887_log.pcap
+
+Partial Exports - Missing appraisal info:
+801A4D5B:Lead Scarab
+801A4D5C:Aphus Lassel Portal Gem
+801A4D5D:Copper Scarab
+801A4D5E:Iron Scarab
+801A4D5F:Shoyanen's Portal Gem
+801A4D60:Prismatic Taper
+801A4D62:Silver Scarab
+801A4D63:Gold Scarab
+801A4D64:Pyreal Scarab
+801A4D65:Splitting Tool
+8C73630E:Ornate Gear Marker
+8CEBB193:Dansha-Ki's Gem of Portal Recall
+801A4D82:Carved Gemstone Lockpicks
+801A4D69:Ust
+91B71611:Colosseum Coin
+B528B489:Gem of Stillness
+B534F046:Gem of Purity
+801A4D67:Foci of Artifice
+801A4D70:Wrapped Bundle of Deadly Fire Arrowheads
+801A4D72:Wrapped Bundle of Arrowshafts
+80583092:Wrapped Bundle of Deadly Lightning Arrowheads
+801A4D6C:Blackmoor's Favor
+C836D1D9:Trade Note (100,000)
+C838C60B:Trade Note (250,000)
+801A4D79:Coronet
+801A4D78:Teardrop Crown
+801A4D7C:Diadem
+801A4D91:Brawler's Crystal
+801A4D8E:Elysa's Crystal
+937AE3A0:Artificer's Crystal
+AE7B3413:Ben Ten's Crystal
+B7216AD9:Adherent's Crystal
+801A4D76:Crown
+801A4D7A:Crown
+801A4D7D:Diadem
+801A4D7E:Teardrop Crown
+801A4D7B:Diadem
+801A4D77:Teardrop Crown
+801A4D86:Foci of Verdancy
+801A4D87:Foci of Enchantment
+C838FD06:Gonjoku's Mana Infusion
+B12E0BC8:Deadly Lightning Arrow
+
+Missing Exports - Possessed items that were not found:

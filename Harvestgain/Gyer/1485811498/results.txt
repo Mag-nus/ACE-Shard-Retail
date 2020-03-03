@@ -1,0 +1,26 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\randompktlogs\pkt_2017-1-30_1485811480_log.pcap
+
+Partial Exports - Missing appraisal info:
+C7519534:Apple
+C7519532:Bundle of Arrowshafts
+C7519531:Bundle of Quarrelshafts
+C751952F:Bundle of Arrowheads
+C7519530:Bundle of Atlatl Dart Shafts
+C751952E:Sack
+C751952D:Bundle of Wrapped Spiketails
+C751952C:Bundle of Spiketails
+C751952B:Welcome Letter
+C751952A:Greeter's Key
+C7519528:Mana Draught
+C7519527:Mana Potion
+C7519525:Restoring the Training Academies
+C7519523:Pyreal
+C7519522:Quartermaster's Workshop Key
+C7519521:Pyreal
+C751951E:Iron Scarab
+C751951D:Pack Gaerlan
+C751951C:Blackmoor's Favor
+C7519516:Some Changes for February 2012
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,78 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-30_1485809471_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Mavness-02-01-2017-pcap\pcap\pkt_2017-1-23_1485228103_log.pcap
+
+Partial Exports - Missing appraisal info:
+9C2DE6F3:Pyreal
+9C2DE68A:Coruscating Olthoi Scent Gland
+9C2DE68D:Colosseum Coin
+9C2DE687:Colosseum Backpack
+9C2DE688:Aetheria Desiccant
+9C2DE68B:Gold Pea
+9C2DE68C:Small Olthoi Venom Sac
+9C2DE6F0:Blank Augmentation Gem
+9C2DE68E:Pyreal Pea
+9C2DE68F:Coruscating Olthoi Scent Gland
+9C2DE690:Ancient Mhoire Coin
+9C2DE691:Trade Note (250,000)
+9C2DE692:Trade Note (10,000)
+9C2DE693:Silver Pea
+9C2DE6F1:Blank Augmentation Gem
+9C2DE71B:Some Changes for February 2012
+9C2BDA0F:Hyssop
+9C284950:The Temple of Enlightenment
+9C289868:A Note From Ciandra
+9C2DE694:Colosseum Backpack
+9C2DE698:Ust
+9C38C9CB:Treated Healing Kit
+9C48578A:Treated Healing Kit
+9C4C4E58:Colosseum Vault Key
+9C2DE69A:Colosseum Backpack
+9C47C0B2:Grey Taper
+9C4242C2:Brown Taper
+9C47C272:Violet Taper
+9C2DE69B:Colosseum Backpack
+9C2DE6AD:Shambling Ruschk Arm
+9C2DE6AC:Colosseum Backpack
+9C2DE6AE:Shambling Ruschk Arm
+9C2DE6AF:Black Coral Golem Chunk
+9C2DE6B0:Shambling Ruschk Arm
+9C2DE6B1:Shambling Ruschk Arm
+9C2DE6B3:Glissnal Sleech Shell
+9C2DE6B4:Black Coral Golem Chunk
+9C2DE6B5:Glissnal Sleech Shell
+9C2DE6B9:Colosseum Backpack
+9C2DE6BF:Treated Healing Kit
+9C2DE6C0:Treated Healing Kit
+9C2DE6C1:Treated Healing Kit
+9C2DE6C2:Treated Healing Kit
+9C2DE6C3:Treated Healing Kit
+9C2DE6C4:Treated Healing Kit
+9C2DE6C5:Treated Healing Kit
+9C2DE6C6:Treated Healing Kit
+9C2DE6C7:Treated Healing Kit
+9C2DE6C8:Treated Healing Kit
+9C2DE6C9:Treated Healing Kit
+9C2DE6CA:Treated Healing Kit
+9C2DE6CC:Treated Healing Kit
+9C2DE6CD:Treated Healing Kit
+9C2DE6CE:Treated Healing Kit
+9C2DE6CF:Treated Healing Kit
+9C2DE6D0:Treated Healing Kit
+9C2DE6D1:Treated Healing Kit
+9C2DE6DC:Colosseum Backpack
+9C2DE6DD:Diamond Scarab
+9C2DE6DE:Platinum Scarab
+9C2DE6DF:Platinum Scarab
+9C2DE6E0:Prismatic Taper
+9C2DE6E1:Gold Scarab
+9C2DE6E2:Prismatic Taper
+9C2DE6E4:Platinum Scarab
+9C2DE6E6:Silver Scarab
+9C2DE6E7:Copper Scarab
+9C2DE6E8:Pyreal Scarab
+9C2DE6E9:Colosseum Backpack
+
+Missing Exports - Possessed items that were not found:

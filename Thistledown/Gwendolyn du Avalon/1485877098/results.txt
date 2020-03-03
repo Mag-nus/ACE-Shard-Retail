@@ -1,0 +1,204 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-05-2017\pkt_2017-1-31_1485877084_log\pkt_2017-1-31_1485877084_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-05-2017\pkt_2017-1-21_1485019808_log\pkt_2017-1-21_1485014801_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\pkt_2017-1-24_1485289753_log\pkt_2017-1-24_1485289753_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\pkt_2017-1-31_1485877084_log\pkt_2017-1-31_1485857141_log.pcap
+
+Partial Exports - Missing appraisal info:
+800769AA:Pack
+800769CD:Book
+800769AE:Armor Tailoring Kit
+800769AF:Weapon Tailoring Kit
+800769B0:Pack
+800769D0:Pet Mouf Igloo
+800769D2:Pyre Shroud
+800769C9:Explorer's Backpack
+800769CC:Inactive Alchemist's Golem
+800769CA:Aligned Mana Stone
+800769CE:Attuned Essence Gem
+800769CF:Falatacot Battle Report
+800769D1:Major Prismatic Stone
+800769D3:Sake
+800769D4:Wah Chon's Winter Lager
+800769D5:Elemental Talisman
+800769D6:Ust
+800769D7:Coruscating Olthoi Scent Gland
+80076A23:Engraved A'nekshay Bracers
+80076A24:Ancient Mhoire Coin
+80076A9C:Major Mana Stone
+80076A25:A'nekshay Token
+80076A26:Eldrytch Web Commendation Ribbon
+80076A2A:Imbue Swap Coin
+80076A2D:Eldrytch Web Trade Token
+80076A2E:Trade Note (250,000)
+80076A2F:Eldrytch Web Trade Token
+80076A30:Lord Cynreft's Ancient Emblem of Mhoire
+80076A31:Mortar and Pestle
+80076A32:Cooking Pot
+80076A33:Aetheria Mana Stone
+80076A34:Trade Note (10,000)
+80076A35:Trade Note (250,000)
+80076A36:Promissory Note
+80076A37:Pack
+80076A38:Prickly Pear
+80076A39:Supplies for Massilor
+80076A3A:Archaeologist's Tracing Paper
+80076A3B:Pyre Skeleton Jaw
+80076A3C:Bloodroot Vine
+80076A3D:Message from Ler Rhan to Ter Shen.
+80076A3E:Crystal of Perception
+80076A3F:Ancient Falatacot Trinket
+80076A40:Aetherium Power Core
+80076A41:Blood of the Hopeslayer
+80076A42:Aetherium-infused Gear
+80076A43:Lesser Corrupted Essence
+80076A44:Writ of Refuge
+80076A45:Society Gem of Lesser Luminance
+80076A4D:Gladiator Diemos Token
+80076A46:Eldrytch Web Stronghold Portal Gem
+80076A48:Lesser Corrupted Essence
+80076A49:Lesser Corrupted Essence
+80076A4A:Lesser Corrupted Essence
+80076A4B:Lesser Corrupted Essence
+80076A4C:Lesser Corrupted Essence
+80076A59:Scroll of Spectral Flame
+80076A5A:Invitation Ithaenc Cathedral
+80076A60:Invitation Plateau
+80076A5B:Invitation Ithaenc Cathedral
+80076A5C:Invitation Ithaenc Cathedral
+80076A89:Quality Pyreal Ingot
+80076A5D:Invitation Ithaenc Cathedral
+80076A5E:Invitation Ithaenc Cathedral
+80076A5F:Invitation Ithaenc Cathedral
+80076A61:Invitation Plateau
+80076A85:Eldrytch Web Armor Writ
+80076A62:Invitation Plateau
+80076A63:Invitation Plateau
+80076A64:Invitation Plateau
+80076A65:Invitation Plateau
+80076A66:Invitation Wedding Hall
+80076A67:Invitation Wedding Hall
+80076A68:Invitation Wedding Hall
+80076A69:Invitation Wedding Hall
+80076A6A:Invitation Wedding Hall
+80076A6B:Invitation Wedding Hall
+80076A6C:Fadsahil's Portal Gem
+80076A98:Snow Tuskie Kennel
+80076A6D:Yaraq Portal Gem
+80076A6E:Yanshi Portal Gem
+80076AA0:Major Mana Stone
+80076A6F:Xarabydun Portal Summoning Gem
+80076A70:Vissidal Island Portal Gem
+80076A88:Pyreal Mote
+80076AA2:Aged Legendary Key
+80076A8C:Crystal of Frozen Elemental Essence
+ABA6D3B8:Promissory Note
+80076A99:Eldrytch Web Armor Writ
+80076A9B:Artist's Crystal
+80076A9D:Dansha-Ki's Gem of Portal Recall
+80076A9E:Vaulter's Crystal
+80076AA1:Berimphur Plant
+80076AA3:Al-Arqas Portal Gem
+80076AA4:Holtburg Portal Gem
+80076AA5:Lytelthorpe Portal Gem
+80076AA6:Yanshi Portal Gem
+80076AA7:Nanto Portal Gem
+80076AA8:Shoushi Portal Gem
+80076AA9:Yaraq Portal Gem
+80076AAA:Thief's Crystal
+80076AAB:Alchemist's Crystal
+80076AB2:Colban Plant
+80076AB1:Tremendous Monouga Pack Doll
+83FD1F53:Celdiseth's Portal Gem
+800769E9:Platinum Scarab
+ABA6CD96:Colosseum Ticket
+ABA710B0:Foolproof Red Garnet
+ABA71294:Foolproof Imperial Topaz
+800769D8:Cookie
+800769D9:Coruscating Olthoi Scent Gland
+800769DA:Pack
+800769DB:Pyreal Scarab
+800769DC:Society Gem of Dispelling
+800769F2:Major Mana Stone
+800769DD:Diamond Scarab
+800769DE:Copper Scarab
+800769DF:Condensed Dispel Potion
+800769E0:Gold Scarab
+800769E1:Condensed Dispel Potion
+800769E4:Blackmoor's Favor
+800769E2:Society Gem of Dispelling
+800769E3:Society Gem of Dispelling
+800769E5:Mana Scarab
+800769E6:Eldrytch Web Stronghold Portal Gem
+81DB88E4:Prismatic Taper
+800769E7:Asheron's Lesser Benediction
+800769E8:Silver Scarab
+800769EC:Chorizite
+800769EA:Facility Hub Portal Gem
+800769EB:Town Network Portal Gem
+800769ED:Virindi Consul Essence
+81C73C96:Prismatic Taper
+9C5AECE5:Platinum Scarab
+81DD3589:Prismatic Taper
+81E29729:Prismatic Taper
+842661ED:Prismatic Taper
+800769F1:Pack
+800769F3:Major Mana Stone
+800769F4:Major Mana Stone
+800769F5:Major Mana Stone
+800769F6:Major Mana Stone
+800769F7:Major Mana Stone
+800769F8:Major Mana Stone
+800769F9:Major Mana Stone
+800769FA:Major Mana Stone
+800769FB:Major Mana Stone
+800769FC:Major Mana Stone
+800769FD:Major Mana Stone
+800769FE:Massive Mana Charge
+800769FF:Massive Mana Charge
+80076A00:Massive Mana Charge
+80076A01:Massive Mana Charge
+80076A02:Massive Mana Charge
+80076A03:Massive Mana Charge
+80076A04:Massive Mana Charge
+80076A05:Massive Mana Charge
+80076A06:Massive Mana Charge
+80076A07:Massive Mana Charge
+80076A08:Massive Mana Charge
+80076A09:Massive Mana Charge
+80076A0A:Pack
+80076A0E:Magic Defense Weapon Augmentation Gem
+80076A2B:Alembic
+80076A1E:Pack
+80076A27:Dire Champion Token
+80076A28:Adventurer's Token
+80076A1F:Tiriun Cap Wafer
+80076A20:Tiriun Stalk Jerky
+80076A29:Pristine Mana Shard
+80076A21:Tiriun Spore Powder
+80076A22:Luminous Crystal of Towering Defense
+80076A71:Town Network Portal Gem
+80076A72:Silyun Portal Gem
+80076A73:Shoushi Portal Gem
+80076A74:Sanamar Portal Gem
+AB8D6AED:Parchment
+8AD62721:Samsur Portal Gem
+80076A76:Rithwic Portal Gem
+80076A77:Redspire Portal Gem
+80076A78:Nanto Portal Gem
+80076A79:Lytelthorpe Portal Gem
+80076A7A:Linvak Tukal Portal Gem
+80076A7B:Holtburg Portal Gem
+80076A7C:Fort Tethana Portal Gem
+80076A7D:Corcima Castle Platinum Ward Portal Gem
+80076A7E:Al-Arqas Portal Gem
+80076A7F:Ahruenga Portal Gem
+80076A80:Town Network Portal Gem
+81D2DCC2:Town Network Portal Gem
+80076A82:Vial of Thananim Dye
+80076A83:Vial of Lapyan Dye
+801E62E9:Titan Mana Charge
+
+Missing Exports - Possessed items that were not found:

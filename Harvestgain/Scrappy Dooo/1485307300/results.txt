@@ -1,0 +1,19 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\pkt_2017-1-24_1485307067_log\pkt_2017-1-24_1485307067_log.pcap
+
+Partial Exports - Missing appraisal info:
+C7F312D6:Baggy Shirt
+C7F46258:Flared Pants
+C7F49476:Apple
+C7F494B6:Leather Boots
+C7EE41C3:Handy Healing Kit
+C7F49582:Handy Healing Kit
+C7F46223:Welcome Letter
+C7F46249:Sack
+C7F59B83:Calling Stone
+C7F4618B:Pack Ancient Olthoi Queen
+C7F49499:Some Changes for February 2012
+C7F494E9:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:
+C7F494C6

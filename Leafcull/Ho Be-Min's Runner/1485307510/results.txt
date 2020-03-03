@@ -1,0 +1,36 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\pkt_2017-1-24_1485307411_log\pkt_2017-1-24_1485307411_log.pcap
+
+Partial Exports - Missing appraisal info:
+AE7C239A:Pyreal
+AE7C2398:Doublet
+AE7C2399:Flared Pants
+AE7C239B:Apple
+AE7C239C:Sack
+AE7C239F:Scalemail Pauldrons
+AE7C23A0:Chainmail Girth
+AE7C23AD:Skull Mask
+AE7C23A1:Yoroi Breastplate
+AE7C23A2:Scalemail Basinet
+AE7C23B2:Celdon Girth
+AE7C23BC:Skull Mask
+AE7C23B7:Yumi
+AE7C23B8:Yumi
+AE7C23B9:Peculiar Old Dagger
+AE7C23BA:Yumi
+AE7C23BE:Cap
+AE7C23BF:Shoes
+AE7C23C0:Ring
+AE7C23C1:Ring
+AE7C23C3:Ring
+AE7C23C4:Ring
+AE7C23C5:Heavy Bracelet
+AE7C23C8:Gorget
+AE7C23CC:Celdon Leggings
+AE7C23CD:Sollerets
+AE7C23CE:Sclavus Skin Helmet
+AE7C23D0:Pack Ancient Olthoi Queen
+AE7C23D1:Some Changes for February 2012
+AE7C23D2:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,246 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Cyberkiller-01-31-2017-Random\pkt_2017-1-31_1485861002_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Cyberkiller-01-31-2017-Random\pkt_2017-1-31_1485860590_log.pcap
+
+Partial Exports - Missing appraisal info:
+DD30E5E1:Calling Stone
+DD30E5E3:Oil of Rendering
+DD30E5E4:Pack
+DD30E5E5:Pack Mosswart
+DD30E5E7:Pack Ancient Olthoi Queen
+DD30E5E8:Oxidized Statue
+DD30E5E9:Ancient Diamond Idol
+DD30E5EA:Fire Compound Crossbow
+DD30E5FD:Pack
+DD30E67B:Banished Spear
+DD30E5F1:Chainmail Tassets
+DD30E633:Koji's Beast
+DD30E5F3:Cloth Gloves
+DD30E5F4:Chainmail Bracers
+DD30E616:Pack
+DD30E5FA:Bracelet
+DD30E5FB:Alduressa Leggings
+DD30E5FC:Top
+DD30E5FF:Princely Runed War Bow
+DD30E607:Royal Runed Poniard
+DD30E603:Royal Runed Dart Flinger
+DD30E627:Flaming Katar
+DD30E604:Princely Runed Flamberge
+DD30E629:Rust Gromnie Tooth
+DD30E606:Royal Runed Dolabra
+DD30E609:Flaming Claw
+DD30E634:Flaming Nekode
+DD30E60A:Slashing Slingshot
+DD30E60B:Slashing Compound Bow
+DD30E6A4:Lightning Cloud
+DD30E60C:Frost Compound Bow
+DD30E60D:Crown
+DD30E67E:Dark Shard
+DD30E60E:Ring
+DD30E60F:Chainmail Gauntlets
+DD30E62A:Pyreal Nugget
+DD30E610:Olthoi Koujia Leggings
+DD30E611:Lyceum Hood
+DD30E612:Scalemail Shirt
+DD30E613:Leather Vest
+DD30E614:Crown
+DD30E615:Koujia Sleeves
+DD30E681:Scroll of Stinging Needles
+DD30E617:Trade Note (250,000)
+DD30E618:Trade Note (250,000)
+DD30E628:Hennacin Plant
+DD30E619:Trade Note (250,000)
+DD30E61A:Trade Note (250,000)
+DD30E62B:Pyreal Mote
+DD30E61B:Trade Note (250,000)
+DD30E61C:Trade Note (250,000)
+DD30E62F:Pack
+DD30E61D:Trade Note (250,000)
+DD30E61E:Trade Note (250,000)
+DD30E631:Frost Poniard
+DD30E61F:Trade Note (250,000)
+DD30E620:Trade Note (250,000)
+DD30E636:Diadem
+DD30E621:Trade Note (250,000)
+DD30E622:Trade Note (250,000)
+DD30E637:Cap
+DD30E623:Trade Note (250,000)
+DD30E624:Trade Note (250,000)
+DD30E63B:Top
+DD30E625:Trade Note (250,000)
+DD30E626:Trade Note (250,000)
+DD30E63D:Loafers
+DD30E62C:Chainmail Hauberk
+DD30E62D:Leather Cuirass
+DD30E62E:Heavy Necklace
+DD30E630:Sceptre
+DD30E648:Pack
+DD30E635:Platemail Greaves
+DD30E649:Obsidian Heart
+DD30E638:Olthoi Shield
+DD30E639:Frost Claw
+DD30E69E:Identification Plate
+DD30E63A:Piercing Slingshot
+DD30E63C:Studded Leather Boots
+DD30E63E:Lorica Sleeves
+DD30E63F:Puffy Shirt
+DD30E641:Signet Crown
+DD30E6A0:Olthoi Resurgent
+DD30E642:Leather Shirt
+DD30E643:Ring
+DD30E644:Chainmail Pauldrons
+DD30E645:Flared Shirt
+DD30E646:Leather Pauldrons
+DD30E647:Smock
+DD30E64A:Dericost Blade
+DD30E64B:Piercing Bow
+DD30E64C:Lightning Katar
+DD30E64D:Slashing Bow
+DD30E64E:Lightning Claw
+DD30E651:Yellow Jewel
+DD30E64F:Acid Poniard
+DD30E650:Cestus
+DD30E655:Frost Morning Star
+DD30E652:Covenant Breastplate
+DD30E653:Blunt Compound Crossbow
+DD30E654:Aphus Lassel Portal Gem
+DD30E656:Kite Shield
+DD30E661:Pack
+DD30E657:Electric Crossbow
+DD30E658:Acid Dirk
+DD30E65E:Hood
+DD30E659:Celdon Sleeves
+DD30E65A:Olthoi Koujia Gauntlets
+DD30E65B:Olthoi Celdon Gauntlets
+DD30E65C:Olthoi Amuli Leggings
+DD30E65D:Studded Leather Girth
+DD30E65F:Diforsa Greaves
+DD30E660:Lorica Sleeves
+DD30E662:Piercing Compound Bow
+DD30E663:Cestus
+DD30E665:Blunt Bow
+DD30E666:Faran War Apprentice Robe
+DD30E667:Frost Claw
+DD30E668:Stiletto
+DD30E669:Frost Poniard
+DD30E66C:Olthoi Alduressa Helm
+DD30E66A:Studded Leather Girth
+DD30E66B:Shirt
+DD30E66D:Empyrean Over-robe
+DD30E66F:Alduressa Coat
+DD30E670:Bandana
+DD30E67A:Pack
+DD30E671:Chainmail Greaves
+DD30E672:Alduressa Coat
+DD30E673:Olthoi Amuli Leggings
+DD30E674:Alduressa Leggings
+DD30E675:Studded Leather Tassets
+DD30E676:Olthoi Celdon Gauntlets
+DD30E678:Ring
+DD30E67C:Hennacin Plant
+DD30E679:Studded Leather Sleeves
+DD30E67D:Brown Beans
+DD30E67F:Yellow Jewel
+DD30E680:Quintessence Sickle
+DD30E682:Scroll of Outlander's Insolence
+DD30E683:Water Golem Heart
+DD30E684:Small Ursuin Hide
+DD30E685:Small Bundle of Littoral Siraluun Feathers
+DD30E686:Glimmering Gem
+DD30E687:Iron Heart
+DD30E688:Jungle Phyntos Wasp Wing
+DD30E689:Dirk
+DD30E68A:Frost Dirk
+DD30E68B:Flaming Dirk
+DD30E68C:Piercing Bow
+DD30E68D:Flaming Long Sword
+DD30E68E:Lightning Long Sword
+DD30E68F:Scalemail Shirt
+DD30E690:Studded Leather Basinet
+DD30E691:Viamontian Pants
+DD30E692:Olthoi Koujia Leggings
+DD30E694:Fire Bow
+DD30E698:Large Sclavus Hide
+DD30E695:Frost Long Sword
+DD30E696:Heaume
+DD30E697:Slashing Bow
+DD30E699:Fire Sceptre
+DD30E69A:Crystal Sword
+DD30E6A1:Pack T'thuun
+DD30E69B:Pack Levistras
+DD30E69D:Olthoi Ripper Reducer Plaque
+DD30E6A2:Homecoming Pennant
+DD30E69C:Pack Ancient Olthoi Queen
+DD30E69F:Mukkir Nest Portal Gem
+DD30E6A3:Hoary Mattekar Robe
+DD30E6A7:Salvage
+DD30E6A8:Salvage
+DD30E6AA:Salvage
+DD30E6AB:Salvage
+DD30E6AC:Salvage
+DD30E6AD:Aetheria
+DD30E6AE:Aetheria
+DD30E6AF:Aetheria
+DD30E6B0:Aetheria
+DD30E6B1:Aetheria
+DD30E6B3:Aetheria
+DD30E6B4:Aetheria
+DD30E6B5:Aetheria
+DD30E6B6:Poet's Shirt
+DD30E6B7:Gorget
+DD30E6B8:Shoes
+DD30E6BA:Crown
+DD30E6B9:Lyceum Hood
+DD30E6BB:Cloth Cap
+DD30E6BC:Olthoi Amuli Coat
+DD30E6BD:Crown
+DD30E6BE:Leather Tassets
+DD30E6BF:Celdon Breastplate
+DD30E6C1:Ring
+DD30E6C6:Diadem
+DD30E6C2:Haebrean Helm
+DD30E6C3:Nariyid Boots
+DD30E6C4:Olthoi Koujia Breastplate
+DD30E6C5:Leather Shorts
+DD30E6C7:Long Leather Gauntlets
+DD30E6C8:Studded Leather Gauntlets
+DD30E6C9:Studded Leather Greaves
+DD30E6CA:Sedgemail Leather Shoes
+DD30E6CB:Leather Vest
+DD30E6CC:Crown
+DD30E6CD:Nariyid Helm
+DD30E6CE:Studded Leather Tassets
+DD30E6CF:Nariyid Gauntlets
+DD30E6D0:Sedgemail Leather Sleeves
+DD30E6D1:Diadem
+DD30E6D2:Bandana
+DD30E6D3:Teardrop Crown
+DD30E6D4:Chainmail Greaves
+DD30E6D5:Piercing Sceptre
+DD30E6D6:Alduressa Boots
+DD30E6D7:Lightning Moar Essence (180)
+DD30E6D8:Salvage (100)
+DD30E6D9:Salvage (100)
+DD30E6DA:Salvage (100)
+DD30E6DB:Olthoi Koujia Gauntlets
+DD30E6DC:Fire Skeleton Bushi Essence (180)
+DD30E6DD:Frost Zombie Essence (180)
+DD30E6DE:Oswald's Crystal
+DD30E6DF:Studded Leather Shirt
+DD30E6E0:Loafers
+DD30E6E1:Faran Over-robe
+DD30E6E2:Leather Pants
+DD30E6E3:Diforsa Pauldrons
+DD30E6E5:Leather Cap
+DD30E6E6:Olthoi Koujia Gauntlets
+DD30E6E7:Olthoi Amuli Helm
+DD30E6E8:Flared Shirt
+DD30E6E9:Olthoi Celdon Helm
+DD30E6EA:Frost Baton
+DD30E6EB:Viamontian Laced Boots
+DD30E6EC:Celdon Girth
+DD30E6ED:Koujia Leggings
+
+Missing Exports - Possessed items that were not found:

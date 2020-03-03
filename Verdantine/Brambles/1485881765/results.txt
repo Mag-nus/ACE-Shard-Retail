@@ -1,0 +1,56 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap3\pkt_2017-1-31_1485881661_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap5\pkt_2017-1-27_1485565850_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap1\pkt_2017-1-27_1485580585_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap1\pkt_2017-1-27_1485585422_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap1\pkt_2017-1-28_1485636454_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap1\pkt_2017-1-28_1485651742_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap1\pkt_2017-1-28_1485664574_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap1\pkt_2017-1-28_1485671031_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap1\pkt_2017-1-29_1485679525_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap1\pkt_2017-1-29_1485686988_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap1\pkt_2017-1-29_1485687299_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap1\pkt_2017-1-29_1485687435_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap1\pkt_2017-1-29_1485687435_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap1\pkt_2017-1-29_1485721132_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap2\pkt_2017-1-31_1485852441_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap2\pkt_2017-1-31_1485864896_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap2\pkt_2017-1-29_1485739902_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap2\pkt_2017-1-29_1485739902_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap2\pkt_2017-1-29_1485739902_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap2\pkt_2017-1-29_1485739902_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap2\pkt_2017-1-30_1485809700_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap2\pkt_2017-1-30_1485813377_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap2\pkt_2017-1-30_1485813377_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap2\pkt_2017-1-30_1485823307_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap2\pkt_2017-1-30_1485823597_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap2\pkt_2017-1-30_1485823597_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap3\pkt_2017-1-31_1485869356_log.pcap
+
+Partial Exports - Missing appraisal info:
+91F6B9DB:Titan Mana Charge
+85FE257F:Refreshing Water
+800166EB:Caramel Kukuur
+800166DD:Lair of The Homunculus
+91F219C5:Salvage (100)
+91F218F9:Salvage (84)
+91F34102:Account of the Spear of Mukkir
+91F21A6C:Glyph of Summoning
+91E2F109:Salvage (71)
+91E3084D:Pyreal Mote
+91F3D779:Journal of High Archon Kraest
+91E3193C:Salvage (45)
+91E3153E:Salvage (97)
+91F32D4D:Journal of High Archon Kraest
+91E31A2D:Salvage (48)
+91E31B5C:Salvage (10)
+91F32557:Account of the Spear of Mukkir
+91F20D09:The Empyrean Temples
+91EF7840:Translated Tomb Writings
+91E4682F:Dark Monolith Caverns
+80F04123:Scholar's Crystal
+80F0411B:Elysa's Crystal
+
+Missing Exports - Possessed items that were not found:

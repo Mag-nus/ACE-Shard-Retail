@@ -1,0 +1,64 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-07-2017\packet_logs_20170123-2017-0130\pkt_2017-1-23_1485231173_log.pcap
+
+Partial Exports - Missing appraisal info:
+9C6C1546:Pyreal
+9C6C1539:Small Shard
+9C6C1516:Small Shard
+9C6C1541:Small Shard
+9C6C151F:Small Shard
+9C684DE9:Small Shard
+9C696F1D:Small Shard
+9C6A87B5:Small Shard
+9C6C155C:Small Shard
+9C6C1549:Small Shard
+9C6C1530:Small Shard
+9C697358:Small Shard
+9C69765A:Small Shard
+9C6C1562:Small Shard
+9C6C1538:Small Shard
+9C6C1515:Small Shard
+9C6C1540:Small Shard
+9C6C151E:Small Shard
+9C6C155B:Tiny Shard
+9C6C1548:Small Shard
+9C6C152F:Pack
+9C6C1564:A Crumpled Note
+9C6C1550:Pack
+9C6C155A:Blackmoor's Favor
+9C6C1547:Salvaged  (76)
+9C6C152E:Salvaged  (100)
+9C6C1536:Diamond Powder
+9C651FD9:Salvaged  (100)
+9C64995D:Salvaged  (100)
+9C6C14E2:Treated Healing Kit
+9C63BB84:Salvaged  (100)
+9C69762A:Salvaged  (100)
+9C61BFA7:Treated Healing Kit
+9C67967C:Treated Healing Kit
+9C6C153E:Treated Healing Kit
+9C6C1559:Treated Healing Kit
+9C64EC63:Treated Healing Kit
+9C6C156B:Fists of Stone
+9C6C07F8:Treated Healing Kit
+9C6BCB15:Chiran Helm
+9C6C156D:Salvaged  (100)
+9C6A8F25:Pyreal
+9C6C154E:Celdon Sleeves
+9C6C154D:Pyreal
+9C6C1557:Pyreal
+9C6C1558:Sollerets
+9C6C1545:Wrapped Bundle of Arrowshafts
+9C6C1569:Pyreal
+9C6C156E:Wrapped Bundle of Greater Blunt Arrowheads
+9C6C156A:Wrapped Bundle of Deadly Fire Arrowheads
+9C697A1B:Pyreal
+9C6C0C40:Stamina Tincture
+9C6C1574:Longbow
+9C6979F9:Nayin
+9C6C1556:Longbow
+9C6C1568:Flaming Dericost Blade
+9C6C1567:Mana Stone
+9C697A0C:Moderate Mana Stone
+
+Missing Exports - Possessed items that were not found:

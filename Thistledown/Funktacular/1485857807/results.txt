@@ -1,0 +1,38 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-31_1485855647_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-31_1485845020_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-31_1485845020_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-31_1485855647_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-31_1485855647_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-31_1485855647_log.pcap
+
+Partial Exports - Missing appraisal info:
+AA479597:Jungle Phyntos Wasp Wing
+AA4795C5:Drudge Mask
+AA4795BC:Tusker Mask
+AA479571:Pants
+AA479570:Tunic
+AA47956F:Shirt
+AA47956C:Breeches
+AA47956B:Smock
+AA47956A:Pantaloons
+AA4795D9:Trousers
+AA47952C:Breeches
+AA47952B:Tunic
+AA479527:Shirt
+AA479526:Pantaloons
+AA4795F6:Jerkin
+AA4795C2:Tunic
+AA4795E8:Shirt
+AA4795FB:Tunic
+AA4795D8:Tunic
+AA479550:Shirt
+AA47954F:Breeches
+AA479589:Some Changes for February 2012
+AA479591:Faran Robe
+AA4795B0:Blackmoor's Favor
+AA47958A:Pack Martine
+
+Missing Exports - Possessed items that were not found:

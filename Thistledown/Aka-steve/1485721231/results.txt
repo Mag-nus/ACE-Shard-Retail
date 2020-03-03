@@ -1,0 +1,33 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Miach-Training-Academy-Yaraq-pcap\pkt_2017-1-29_1485720960_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Miach-Skills-Training-Leveling-Commands-pcap-Mag\Miach-New-Character-Stuff-Misc-pcap\pkt_2017-1-29_1485727198_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Miach-Skills-Training-Leveling-Commands-pcap-Mag\Miach-Training-Academy-Yaraq-pcap\pkt_2017-1-29_1485720960_log.pcap
+
+Partial Exports - Missing appraisal info:
+AB9C442F:Loose Tunic
+AB9C4430:Loose Pants
+AB9C4432:Pyreal
+AB9C4433:Sack
+AB9C4434:Ust
+AB9C4435:Calling Stone
+AB9C4436:Pathwarden Token
+AB9C4438:Arrow
+AB9C4437:Training Shortbow
+AB9C4439:Training Wand
+AB9C443D:Handy Healing Kit
+AB9C443A:Foci of Artifice
+AB9C443B:Prismatic Taper
+AB9C443C:Lead Scarab
+AB9C443E:Bundle of Arrowshafts
+AB9C443F:Bundle of Arrowheads
+AB9C4440:Bundle of Quarrelshafts
+AB9C4441:Bundle of Arrowheads
+AB9C4442:Bundle of Atlatl Dart Shafts
+AB9C4444:Letter From Home
+AB9C4443:Bundle of Arrowheads
+AB9C4445:Apple
+ABDF1575:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

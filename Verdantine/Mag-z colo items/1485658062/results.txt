@@ -1,0 +1,213 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-28_1485646739_log.pcap
+
+Partial Exports - Missing appraisal info:
+8D408990:Empyrean Crystal
+8D4167C0:Empyrean Crystal
+8D4105C9:Empyrean Crystal
+8D4084BD:Empyrean Crystal
+8D408A10:Empyrean Crystal
+8D3EEAE4:Empyrean Crystal
+8D3EBDAE:Empyrean Crystal
+8D4089D5:Empyrean Crystal
+8D3EBCE1:Empyrean Crystal
+8D3EBDC2:Empyrean Crystal
+8D3ED24C:Empyrean Crystal
+8D401765:Empyrean Crystal
+8D4105CA:Empyrean Crystal
+8D4105CD:Empyrean Crystal
+8D4089ED:Empyrean Crystal
+8D407B15:Empyrean Crystal
+8D41E5C9:Empyrean Crystal
+8D4167CF:Empyrean Crystal
+8D408993:Empyrean Crystal
+8D3EEB16:Empyrean Crystal
+8D41E39E:Empyrean Crystal
+8D401762:Empyrean Crystal
+8D3EBC61:Empyrean Crystal
+8D4105C2:Empyrean Crystal
+8D3EC801:Pack
+8D401758:Empyrean Crystal
+8D3EEB5F:Empyrean Crystal
+8D4017F3:Empyrean Crystal
+8D4167D0:Empyrean Crystal
+8D3E1E55:Empyrean Crystal
+8D4167CB:Empyrean Crystal
+8D3EBCBC:Empyrean Crystal
+8D4105CB:Empyrean Crystal
+8D4167C1:Empyrean Crystal
+8D30AA68:Empyrean Crystal
+8D41DFFF:Empyrean Crystal
+8D3EE0E2:Empyrean Crystal
+8D3A1540:Empyrean Crystal
+8D401756:Empyrean Crystal
+8D40175E:Empyrean Crystal
+8D3EEB64:Empyrean Crystal
+8D3EEAF6:Empyrean Crystal
+8D3C9DB7:Empyrean Crystal
+8D4105ED:Empyrean Crystal
+8D3C8587:Empyrean Crystal
+8D4089BF:Empyrean Crystal
+8D4010C2:Pack
+8D3EEB7F:Armor Upgrade Kit Containment Gem
+8D3C9D81:Pack
+8D40177F:Armor Upgrade Kit Containment Gem
+8D4167C8:Armor Upgrade Kit Containment Gem
+8D3EEAA3:Armor Upgrade Kit Containment Gem
+8D3EEBB9:Armor Upgrade Kit Containment Gem
+8D408696:Armor Upgrade Kit Containment Gem
+8D4105C4:Armor Upgrade Kit Containment Gem
+8D3EEB77:Armor Upgrade Kit Containment Gem
+8D3ED84D:Armor Upgrade Kit Containment Gem
+8D408A01:Armor Upgrade Kit Containment Gem
+8D3EEB76:Armor Upgrade Kit Containment Gem
+8D3EEB3D:Armor Upgrade Kit Containment Gem
+8D4089F4:Armor Upgrade Kit Containment Gem
+8D3EEAC0:Armor Upgrade Kit Containment Gem
+8D401768:Armor Upgrade Kit Containment Gem
+8D4017AB:Armor Upgrade Kit Containment Gem
+8D3B3CA2:Armor Upgrade Kit Containment Gem
+8D3EEB6F:Armor Upgrade Kit Containment Gem
+8D4105C7:Armor Upgrade Kit Containment Gem
+8D3EE71E:Armor Upgrade Kit Containment Gem
+8D3EBD9E:Armor Upgrade Kit Containment Gem
+8D41E5CF:Armor Upgrade Kit Containment Gem
+8D3ECE34:Armor Upgrade Kit Containment Gem
+8D3EE687:Armor Upgrade Kit Containment Gem
+8D3EEB48:Armor Upgrade Kit Containment Gem
+8D3EE639:Armor Upgrade Kit Containment Gem
+8D408971:Armor Upgrade Kit Containment Gem
+8D40177B:Armor Upgrade Kit Containment Gem
+8D3EE6D7:Armor Upgrade Kit Containment Gem
+8D3EEA61:Armor Upgrade Kit Containment Gem
+8D401732:Armor Upgrade Kit Containment Gem
+8D3EE6F1:Armor Upgrade Kit Containment Gem
+8D3DB0C4:Armor Upgrade Kit Containment Gem
+8D3EE650:Armor Upgrade Kit Containment Gem
+8D3EEB7E:Armor Upgrade Kit Containment Gem
+8D3CA1C8:Armor Upgrade Kit Containment Gem
+8D3ED2A8:Armor Upgrade Kit Containment Gem
+8D3EE65A:Armor Upgrade Kit Containment Gem
+8D41025B:Armor Upgrade Kit Containment Gem
+8D4089FE:Armor Upgrade Kit Containment Gem
+8D3EC795:Armor Upgrade Kit Containment Gem
+8D3C9B94:Armor Upgrade Kit Containment Gem
+8D41E5A4:Armor Upgrade Kit Containment Gem
+8D3EE68D:Armor Upgrade Kit Containment Gem
+8D3BD052:Armor Upgrade Kit Containment Gem
+8D3EEB54:Armor Upgrade Kit Containment Gem
+8D3EEB35:Armor Upgrade Kit Containment Gem
+8D3EEB82:Armor Upgrade Kit Containment Gem
+8D3ED178:Pack
+8D408A1B:Pack
+8D3EE5F6:Weapon Upgrade Kit Containment Gem
+8D41E5CD:Weapon Upgrade Kit Containment Gem
+8D3EEBB6:Weapon Upgrade Kit Containment Gem
+8D3C9DB2:Weapon Upgrade Kit Containment Gem
+8D3EE660:Weapon Upgrade Kit Containment Gem
+8D40153E:Weapon Upgrade Kit Containment Gem
+8D4089F8:Weapon Upgrade Kit Containment Gem
+8D3EEB97:Weapon Upgrade Kit Containment Gem
+8D4089F5:Weapon Upgrade Kit Containment Gem
+8D37F1B0:Weapon Upgrade Kit Containment Gem
+8D41E5CE:Weapon Upgrade Kit Containment Gem
+8D3EEB63:Weapon Upgrade Kit Containment Gem
+8D3EEC71:Weapon Upgrade Kit Containment Gem
+8D3EEB6C:Weapon Upgrade Kit Containment Gem
+8D3EBD8C:Weapon Upgrade Kit Containment Gem
+8D3EEC98:Weapon Upgrade Kit Containment Gem
+8D4105E8:Weapon Upgrade Kit Containment Gem
+8D41E5C6:Weapon Upgrade Kit Containment Gem
+8D408A02:Weapon Upgrade Kit Containment Gem
+8D4105E4:Weapon Upgrade Kit Containment Gem
+8D3EEBA6:Weapon Upgrade Kit Containment Gem
+8D401784:Weapon Upgrade Kit Containment Gem
+8D41E5C4:Weapon Upgrade Kit Containment Gem
+8D41E5CC:Weapon Upgrade Kit Containment Gem
+8D3D2FF4:Weapon Upgrade Kit Containment Gem
+8D4089EA:Weapon Upgrade Kit Containment Gem
+8D3EBEE7:Weapon Upgrade Kit Containment Gem
+8D41E5C5:Weapon Upgrade Kit Containment Gem
+8D3ED27D:Weapon Upgrade Kit Containment Gem
+8D401779:Weapon Upgrade Kit Containment Gem
+8D4018C0:Weapon Upgrade Kit Containment Gem
+8D3EEBA8:Weapon Upgrade Kit Containment Gem
+8D4105F0:Weapon Upgrade Kit Containment Gem
+8D3EEBF2:Weapon Upgrade Kit Containment Gem
+8D3EEB9A:Weapon Upgrade Kit Containment Gem
+8D4105EB:Weapon Upgrade Kit Containment Gem
+8D3EEBC9:Weapon Upgrade Kit Containment Gem
+8D3EA3F6:Weapon Upgrade Kit Containment Gem
+8D3EB9D7:Weapon Upgrade Kit Containment Gem
+8D3EEB92:Weapon Upgrade Kit Containment Gem
+8D41E170:Weapon Upgrade Kit Containment Gem
+8D41E227:Weapon Upgrade Kit Containment Gem
+8D41E1BD:Weapon Upgrade Kit Containment Gem
+8D3EC8DB:Weapon Upgrade Kit Containment Gem
+8D41E214:Weapon Upgrade Kit Containment Gem
+8D401785:Weapon Upgrade Kit Containment Gem
+8D40177A:Weapon Upgrade Kit Containment Gem
+8D4017A9:Weapon Upgrade Kit Containment Gem
+8D41D49C:Pack
+8D3ED277:Scroll of Tusker Fists
+8D4089F3:Scroll of Tusker Fists
+8D4105E3:Scroll of Tusker Fists
+8D3EBDF6:Scroll of Tusker Fists
+8D3ED2F6:Scroll of Tusker Fists
+8D401546:Scroll of Tusker Fists
+8D41E1DF:Scroll of Tusker Fists
+8D410437:Scroll of Tusker Fists
+8D3EEBBF:Scroll of Tusker Fists
+8D3EBDDF:Scroll of Tusker Fists
+8D3A88E8:Scroll of Tusker Fists
+8D40178B:Scroll of Tusker Fists
+8D3EEBE7:Scroll of Tusker Fists
+8D3ED1EC:Scroll of Tusker Fists
+8D3EE647:Scroll of Tusker Fists
+8D4105E0:Scroll of Tusker Fists
+8D3CD4C7:Scroll of Tusker Fists
+8D4105EC:Scroll of Tusker Fists
+8D3ED381:Scroll of Tusker Fists
+8D401773:Scroll of Tusker Fists
+8D401799:Scroll of Tusker Fists
+8D3EEB49:Scroll of Tusker Fists
+8D3CB738:Scroll of Tusker Fists
+8D408A0F:Scroll of Tusker Fists
+8D408A00:Gladiatorial Tunic
+8D4105DB:Gladiatorial Tunic
+8D4105DF:Gladiatorial Leggings
+8D3EEB9E:Gladiatorial Leggings
+8D4089F2:Gladiatorial Leggings
+8D3B233F:Gladiatorial Leggings
+8D401793:Gladiatorial Leggings
+8D3EE698:Gladiatorial Tunic
+8D401783:Gladiatorial Tunic
+8D3EEB8D:Gladiatorial Tunic
+8D401752:Tome of Flame
+8D3EEBC7:Wrapped Dark Sliver
+8D3EEBB3:Wrapped Dark Sliver
+8D401782:Wrapped Dark Sliver
+8D3EEBC3:Wrapped Dark Sliver
+8D41E1EC:Wrapped Dark Sliver
+8D41E20D:Wrapped Dark Sliver
+8D41E20A:Wrapped Cracked Shard
+8D4089E8:Wrapped Cracked Shard
+8D407D55:Wrapped Cracked Shard
+8D4105E1:Wrapped Cracked Shard
+8D3EEBD6:Wrapped Cracked Shard
+8D40177E:Wrapped Cracked Shard
+8D3EEBCE:Tome of Flame
+8D3EEBD8:Tome of Flame
+8D408A0D:Tome of Flame
+8D41E5C3:Tome of Flame
+8D4089F1:Tome of Flame
+8D401791:Tome of Flame
+8D3EEBB4:Tome of Flame
+8D401781:Tome of Flame
+8D3EEC96:Tome of Flame
+8D3EF578:Tome of Flame
+8D4089EC:Tome of Flame
+8D408A1C:Gladiatorial Leggings
+8D408A1A:Gladiatorial Tunic
+
+Missing Exports - Possessed items that were not found:

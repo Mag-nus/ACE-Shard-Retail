@@ -1,0 +1,103 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\delune2\pkt_2017-1-31_1485877085_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Delune-01-24-2017-packetlogging\pkt_2017-1-24_1485320277_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\delune2\pkt_2017-1-30_1485817432_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\delune2\pkt_2017-1-30_1485817432_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\delune2\pkt_2017-1-30_1485817432_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\delune2\pkt_2017-1-31_1485877085_log.pcap
+
+Partial Exports - Missing appraisal info:
+8034095A:Blackmoor's Favor
+8034095B:Ancient Mhoire Coin
+8034095C:Polar Ursuin Lair
+8034095D:Quest Weapon Coin
+8034095E:Ust
+80340961:Promissory Note
+80340962:Gem of Lesser Luminance
+80340963:Imbue Swap Coin
+80340967:Aetherium Power Core
+80340966:Writ of Refuge
+80340968:Singularity Key
+8034096B:A'nekshay Token
+8034096C:Colosseum Ticket
+8034096D:Trade Note (250,000)
+8034096E:Foci of Enchantment
+8034096F:Foci of Verdancy
+80340970:Foci of Artifice
+80340973:Reliable Lockpick
+80340974:Reliable Lockpick
+80340975:Reliable Lockpick
+80340976:Excellent Lockpick
+80340983:Pyreal
+80340985:Iron Scarab
+80340986:Lead Scarab
+80340987:Copper Scarab
+80340988:Silver Scarab
+80340989:Copper Pea
+8034098A:Silver Pea
+8034098B:Gold Scarab
+8034098C:Pyreal Scarab
+8034098E:Gold Pea
+8034098D:Black Market Gem of Dispelling
+8034098F:Splitting Tool
+803409C3:Pyreal
+80340990:Chorizite
+80340992:Platinum Scarab
+80340993:Prismatic Taper
+80340994:Mana Scarab
+80340997:Foci of Shadow
+803409A0:Superb Mana Charge
+8034099B:Elysa's Favor
+8034099F:Tanada Clan Master's Medallion
+803409A1:Superb Mana Charge
+803409A2:Superb Mana Charge
+803409A3:Superb Mana Charge
+803409A4:Superb Mana Charge
+803409A5:Superb Mana Charge
+803409A6:Superb Mana Charge
+803409A7:Superb Mana Charge
+803409A8:Superb Mana Charge
+803409A9:Superb Mana Charge
+803409AA:Superb Mana Charge
+803409AC:Superb Mana Charge
+803409AD:Superb Mana Charge
+803409AE:Superb Mana Charge
+803409AF:Superb Mana Charge
+803409B0:Titan Mana Charge
+803409B1:Superb Mana Charge
+803409B2:Superb Mana Charge
+803409B3:Superb Mana Charge
+803409B4:Superb Mana Charge
+803409B5:Superb Mana Charge
+803409B6:Superb Mana Charge
+803409B7:Superb Mana Charge
+803409BA:Superb Mana Charge
+803409BB:Superb Mana Charge
+803409BD:Salvage (4)
+803409BE:Salvage (5)
+803409C0:Salvage (6)
+803409C5:Sawato Bandit's Mask
+803409C7:Salvage (6)
+803409CB:Pyreal
+803409C8:Enhanced Health Elixir
+803409D4:Salvage (56)
+803409D5:Superb Mana Charge
+803409D6:Superb Mana Charge
+803409D7:Superb Mana Charge
+803409D8:Superb Mana Charge
+803409D9:Superb Mana Charge
+803409DA:Superb Mana Charge
+A580F096:Undead Femur bone
+A583401B:Swamp Stone
+803409E5:Deadly Prismatic Arrow
+A5B9F7FF:Melee Defense Gem of Enlightenment
+803409E7:Energy Crystal
+A5B52710:Sake
+803409C4:Hood
+803409E6:Princely Runed War Bow
+803409E4:Nether Sceptre
+80340979:Intricate Carving Tool
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,65 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-09-2017\Callaway-1-17-29-2017-Misc2\pkt_2017-1-18_1484772249_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-09-2017\Callaway-1-17-29-2017-Misc2\pkt_2017-1-18_1484716842_log.pcap
+C:\ACEmulator\Logs Unpacked\02-09-2017\Callaway-1-17-29-2017-Misc2\pkt_2017-1-18_1484772249_log.pcap
+C:\ACEmulator\Logs Unpacked\02-09-2017\Callaway-1-17-29-2017-Misc2\pkt_2017-1-18_1484772249_log.pcap
+
+Partial Exports - Missing appraisal info:
+DBEA9AD7:Pants
+DBEA9AD6:Doublet
+DBEA9AD8:Viamontian Laced Boots
+DBEA9AD9:Pyreal
+DBEA9ADB:Ust
+DBEA9AE1:Foci of Artifice
+DBEA9AE2:Prismatic Taper
+DBEA9AE3:Lead Scarab
+DBEA9AE4:Handy Healing Kit
+DBEA9AE5:Letter From Home
+DC1C01B1:Blackmoor's Favor
+DC1C65DA:Oil of Rendering
+DBD6A760:Pathwarden Diforsa Hauberk
+DC1BA6CE:Facility Hub Portal Gem
+DBD6A987:Pathwarden Diforsa Leggings
+B0E3AF86:Sack
+DBD52ECB:Pathwarden Sollerets
+DBD861A0:Pathwarden Helm
+DBD8619E:Pathwarden Robe
+DC2CC046:Stipend
+DC2D4301:Wrapped Bundle of Prismatic Arrowheads
+DC2E53E7:Wrapped Bundle of Arrowshafts
+DC2E53E8:Wrapped Bundle of Quarrelshafts
+DC2EF7A1:Sharp Tusker Slave Tusk
+DC2B81F7:A Book of Quests for Young Explorers
+DC2E1004:Aphus Lassel Portal Gem
+DC2B54CB:Al Arqas Town Stamp
+DC2F9E10:Mid-Stakes Gambling Token
+DC2F9E11:Health Tonic
+DC4B8A9D:Electric Compound Bow
+DC4B24F7:Blunt Compound Bow
+DC0092C1:Sturdy Steel Key
+DC05465C:Sturdy Steel Key
+DBFDE91C:Sturdy Steel Key
+DC00924B:Sturdy Steel Key
+DC0966DD:Sturdy Steel Key
+DBFDE362:Sturdy Steel Key
+DC052134:Sturdy Steel Key
+DBF8E0A3:Sturdy Steel Key
+DBEC17DE:Sturdy Steel Key
+DBEC00D6:Sturdy Steel Key
+DC0094E5:Sturdy Steel Key
+DC0538E8:Sturdy Steel Key
+DBDC3C02:Sturdy Steel Key
+DBD591D5:Sturdy Steel Key
+DC052246:Sturdy Steel Key
+DBFDE31D:Sturdy Steel Key
+DBFDD8C5:Sturdy Steel Key
+DBF360DB:Sturdy Steel Key
+DC009A5B:Sturdy Steel Key
+DBFABA56:Sturdy Steel Key
+DC054766:Sturdy Steel Key
+DBDF0CED:Sturdy Steel Key
+DC3C34C9:Pack T'thuun
+
+Missing Exports - Possessed items that were not found:

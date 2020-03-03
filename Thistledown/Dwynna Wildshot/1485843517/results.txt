@@ -1,0 +1,199 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Dwynna_2017_01_31_pcap\pkt_2017-1-31_1485843511_log.pcap
+
+Partial Exports - Missing appraisal info:
+ABFCC21A:Pack
+ABFCC21B:Wand
+ABFCC21D:Ring
+ABFCC21E:Ring
+ABFCC21F:Shoes
+ABFCC224:Ring
+ABFCC232:Pack
+ABFCC225:Heavy Bracelet
+ABFCC226:Ring
+ABFCC229:Fez
+ABFCC2A4:Parchment
+ABFCC233:Peerless Healing Kit
+ABFCC234:Peerless Lockpick
+ABFCC235:Hearty Healing Chicken Pie
+ABFCC236:Treated Healing Kit
+ABFCC237:Treated Healing Kit
+ABFCC238:Hearty Healing Rabbit Pie
+ABFCC239:Stamina Elixir
+ABFCC23A:Superb Lockpick
+ABFCC23B:Peerless Healing Kit
+ABFCC23C:Health Elixir
+ABFCC23D:Excellent Healing Kit
+ABFCC23E:Treated Healing Kit
+ABFCC23F:Treated Healing Kit
+ABFCC240:Treated Healing Kit
+ABFCC241:Treated Healing Kit
+ABFCC242:Treated Healing Kit
+ABFCC243:Treated Healing Kit
+ABFCC244:Treated Healing Kit
+ABFCC245:Treated Healing Kit
+ABFCC246:Treated Healing Kit
+ABFCC247:Treated Healing Kit
+ABFCC248:Treated Healing Kit
+ABFCC249:Pack
+ABFCC24A:Lead Scarab
+ABFCC24B:Copper Scarab
+ABFCC24C:Silver Scarab
+ABFCC24D:Saffron
+ABFCC24E:Quicksilver
+ABFCC24F:Brimstone
+ABFCC250:Iron Scarab
+ABFCC251:Willow Talisman
+ABFCC252:Orb
+ABFCC253:Gem of Purity
+ABFCC259:Prismatic Taper
+ABFCC254:Gem of Purity
+ABFCC255:Powdered Amber
+ABFCC25A:Pyreal Pea
+ABFCC256:Gem of Purity
+ABFCC257:Gem of Purity
+ABFCC260:Bandit Blade Hilt
+ABFCC258:Gem of Purity
+ABFCC25B:Gem of Stillness
+ABFCC265:High Mana Charge
+ABFCC25C:Gem of Stillness
+ABFCC25D:Ring
+ABFCC278:Skull of High Acolyte
+ABFCC25E:Goblet
+ABFCC25F:Pack
+ABFCC266:Gem of Purity
+ABFCC261:Gem of Stillness
+ABFCC262:Gem of Stillness
+ABFCC2CF:Pyreal
+ABFCC263:Gem of Stillness
+ABFCC264:Gem of Stillness
+ABFCC2EF:Pyreal
+ABFCC267:Gem of Purity
+ABFCC268:Gem of Purity
+ABFCC269:Gem of Purity
+ABFCC26A:Gem of Purity
+ABFCC26B:Gem of Purity
+ABFCC26C:Gem of Purity
+ABFCC290:Eye Dropper
+ABFCC26D:Gem of Purity
+ABFCC26E:Gem of Purity
+ABFCC291:Alembic
+ABFCC26F:Fadsahil's Portal Gem
+ABFCC270:Shoyanen's Portal Gem
+ABFCC271:Al-Arqas Portal Gem
+ABFCC272:Pack
+ABFCC273:Scroll of Deception Mastery Self IV
+ABFCC274:Mortar and Pestle
+ABFCC275:Gloves
+ABFCC276:Throwing Lightning Dart
+ABFCC277:Iceball
+ABFCC279:Gem of Purity
+ABFCC289:Pack
+ABFCC27A:Gem of Purity
+ABFCC2A3:Dirrich's Journal
+ABFCC27C:Obsidian Dagger
+ABFCC27E:Caulnalain Crystal Bow
+ABFCC281:Dagger of Tikola
+ABFCC283:Buckler
+ABFCC29B:Gloves
+ABFCC2A5:Caulnalain Gem
+ABFCC28A:Whittling Knife
+ABFCC28B:Wrapped Bundle of Greater Frog Crotch Arrowheads
+ABFCC28C:Wrapped Bundle of Greater Blunt Arrowheads
+ABFCC28D:Wrapped Bundle of Arrowshafts
+ABFCC28E:Wrapped Bundle of Greater Fire Arrowheads
+ABFCC28F:Wrapped Bundle of Greater Armor Piercing Arrowheads
+ABFCC292:Concentrated Health Infusion
+ABFCC293:Concentrated Victual Infusion
+ABFCC294:Mana Infusion
+ABFCC295:Concentrated Mana Infusion
+ABFCC296:Intricate Carving Tool
+ABFCC297:Victual Infusion
+ABFCC2A6:A Tiny Mnemosyne
+ABFCC298:Concentrated Aqua Incanta
+ABFCC299:Bundle of Greater Frog Crotch Arrowheads
+ABFCC29A:Bundle of Greater Fire Arrowheads
+ABFCC29C:Bundle of Greater Armor Piercing Arrowheads
+ABFCC29D:Bundle of Greater Blunt Arrowheads
+ABFCC29E:Cap
+ABFCC2A9:Puppet Show
+ABFCC29F:Health Infusion
+ABFCC2A0:Cap
+ABFCC2A7:Scroll of Missile Weapon Mastery Self III
+ABFCC2A1:Focusing Stone
+ABFCC2A2:Shackles of Obedience
+ABFCC2A8:Scroll of Slowness Other III
+ABFCC2AA:Asheron's Second Missive
+ABFCC2AB:Torch
+ABFCC2AC:Jack o' Lantern
+ABFCC2AD:Treated Healing Kit
+ABFCC2AE:Treated Healing Kit
+ABFCC2AF:Treated Healing Kit
+ABFCC2B0:Treated Healing Kit
+ABFCC2B1:Treated Healing Kit
+ABFCC2B2:Treated Healing Kit
+ABFCC2B3:Treated Healing Kit
+ABFCC2B4:Treated Healing Kit
+ABFCC2B5:Shadows of My Doubts
+ABFCC2B6:Loka Jii Learns to Hunt
+ABFCC2B7:Peerless Healing Kit
+ABFCC2B8:Peerless Lockpick
+ABFCC2B9:Treated Healing Kit
+ABFCC2BA:Treated Healing Kit
+ABFCC2BB:Treated Healing Kit
+ABFCC2BC:Treated Healing Kit
+ABFCC2BD:Treated Healing Kit
+ABFCC2BE:Treated Healing Kit
+ABFCC2BF:Treated Healing Kit
+ABFCC2C0:Treated Healing Kit
+ABFCC2C1:Treated Healing Kit
+ABFCC2C2:Treated Healing Kit
+ABFCC2C3:Treated Healing Kit
+ABFCC2C4:Treated Healing Kit
+ABFCC2C5:Foci of Artifice
+ABFCC2C6:Pants
+ABFCC2C7:A Large Mnemosyne
+ABFCC2C8:A Large Mnemosyne
+ABFCC2C9:A Large Mnemosyne
+ABFCC2CB:Olthoi Stamp
+ABFCC2CC:Smock
+ABFCC2CD:A Large Mnemosyne
+ABFCC2CE:A Large Mnemosyne
+ABFCC2D0:Staff
+ABFCC2D1:Treated Healing Kit
+ABFCC2D2:Treated Healing Kit
+ABFCC2D3:Treated Healing Kit
+ABFCC2D4:Treated Healing Kit
+ABFCC2D5:Treated Healing Kit
+ABFCC2D6:Mosswart Head
+ABFCC2D7:Amaranth
+ABFCC2D8:Bistort
+ABFCC2D9:Mugwort
+ABFCC2E1:Undead Body with one Leg
+ABFCC2DA:Hyssop
+ABFCC2DB:Frankincense
+ABFCC2E8:Gold Phyntos Wasp Wing
+ABFCC2DC:Eyebright
+ABFCC2DD:Wormwood
+ABFCC2F1:Homecoming Pennant
+ABFCC2DE:Dragonsblood
+ABFCC2DF:Henbane
+ABFCC2F2:Pack Gaerlan
+ABFCC2E0:Bundle of Arrowshafts
+ABFCC2E2:Greater Frog Crotch Arrow
+ABFCC2F7:Quality Pyreal Ingot
+ABFCC2E3:Concentrated Fire Oil
+ABFCC2E4:Greater Frost Arrow
+ABFCC2E5:Wrapped Bundle of Armor Piercing Arrowheads
+ABFCC2E9:Greater Blunt Arrow
+ABFCC2EB:Sollerets
+ABFCC2F8:Some Changes for February 2012
+ABFCC2EC:Gem of Stillness
+ABFCC2ED:Gem of Stillness
+ABFCC2F0:Realaidain Raiment
+ABFCC2F3:Asheron's Benediction
+ABFCC2F4:Blackmoor's Favor
+ABFCC2F5:Trade Note (100,000)
+ABFCC2F6:Bronze Armoredillo Spine
+
+Missing Exports - Possessed items that were not found:

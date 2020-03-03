@@ -1,0 +1,39 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (3321360456, 6876, 22, 2146624) /* Key */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (3321360456,   1,      16384) /* ItemType - Key */
+     , (3321360456,   5,         50) /* EncumbranceVal */
+     , (3321360456,  16,    2097160) /* ItemUseable - SourceContainedTargetRemote */
+     , (3321360456,  19,         25) /* Value */
+     , (3321360456,  65,        101) /* Placement - Resting */
+     , (3321360456,  91,          1) /* MaxStructure */
+     , (3321360456,  92,          1) /* Structure */
+     , (3321360456,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (3321360456,  94,        640) /* TargetType - LockableMagicTarget */
+     , (3321360456, 9015,          4) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (3321360456,   1, False) /* Stuck */
+     , (3321360456,  11, True ) /* IgnoreCollisions */
+     , (3321360456,  13, True ) /* Ethereal */
+     , (3321360456,  14, True ) /* GravityStatus */
+     , (3321360456,  19, True ) /* Attackable */
+     , (3321360456,  22, True ) /* Inscribable */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (3321360456,   1, 'Sturdy Iron Key') /* Name */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (3321360456,   1,   33554784) /* Setup */
+     , (3321360456,   3,  536870932) /* SoundTable */
+     , (3321360456,   8,  100671187) /* Icon */
+     , (3321360456,  22,  872415275) /* PhysicsEffectTable */
+     , (3321360456, 8001,    2640920) /* PCAPRecordedWeenieHeader - Value, Usable, Structure, MaxStructure, Container, TargetType, Burden */
+     , (3321360456, 8003,         18) /* PCAPRecordedObjectDesc - Inscribable, Attackable */
+     , (3321360456, 8005,     137217) /* PCAPRecordedPhysicsDesc - CSetup, STable, PeTable, AnimationFrame */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (3321360456,   1, 1343131443) /* Owner */
+     , (3321360456,   2, 1343131443) /* Container */
+     , (3321360456, 8000, 3321360456) /* PCAPRecordedObjectIID */;

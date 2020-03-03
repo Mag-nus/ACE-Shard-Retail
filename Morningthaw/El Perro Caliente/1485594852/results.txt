@@ -1,0 +1,99 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-28_1485593171_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-22_1485136357_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-22_1485149828_log.pcap
+
+Partial Exports - Missing appraisal info:
+8047B16B:Foci of Artifice
+8047B16A:Foci of Verdancy
+8047B167:Ust
+8047B169:Foci of Enchantment
+8047B168:Pack
+8047B161:Abayar's Research Notes
+C0F8CEA7:Deed
+8047B145:Bloodroot Vine
+8047B15D:Gem of Stillness
+95CF1730:Pyreal
+80A1F115:Kithless Siraluun Claw
+8047B150:Iron Scarab
+C0F6ED78:Trade Note (100,000)
+83BC09A8:Trade Note (50,000)
+8047B151:Pack
+8047B14F:Lead Scarab
+8047B14E:Diamond Scarab
+8047B14D:Platinum Scarab
+8047B14C:Copper Scarab
+8047B14B:Silver Scarab
+8047B14A:Gold Scarab
+8047B149:Pyreal Scarab
+8047B146:Mana Scarab
+8047B144:Prismatic Taper
+8A361F71:Trade Note (250,000)
+AA59B7C4:Prismatic Taper
+B225C067:Prismatic Taper
+83BC0991:Trade Note (10,000)
+B2275C8C:Heavy Bracelet
+8047B13B:Pack
+8047B13A:Shoyanen's Portal Gem
+C5F052BE:Pyreal
+8047B137:Faran War Master Robe
+C5EEA8CC:Pyreal
+8047B136:Suikan Item Master Robe
+AF380E7A:Major Mana Stone
+8047B12F:Massive Mana Charge
+8047B12D:Massive Mana Charge
+8047B12C:Heavy Necklace
+8047B12B:Massive Mana Charge
+8047B12A:Massive Mana Charge
+8047B128:Ring
+8047B126:Massive Mana Charge
+8047B125:Massive Mana Charge
+8047B124:Beret
+8047B134:Faran Item Master Robe
+8047B121:Foci of Strife
+B212EDD9:Major Mana Stone
+8047B115:Red Monster Seed
+8047B108:Treated Herbs
+8047B103:Large Sclavus Hide
+B211D55D:Singularity Key
+B211D1DB:Singularity Key
+B2275C81:Singularity Key
+B21FE494:Intricate Carving Tool
+B229D4C8:Silver Pea
+B229D9ED:Scroll of Battlemage's Boon
+B229E446:Pyreal Nugget
+B229F250:Major Mana Stone
+B22A4BDC:Salvage (23)
+B22A4BDD:Salvage (30)
+C5EC7A5D:Pyreal
+B22A4BDE:Salvage (22)
+B22A4BDF:Salvage (82)
+C5F795B5:Pyreal
+B22A4BE0:Salvage (88)
+B22A4BE1:Salvage (21)
+B22A4BE2:Salvage (41)
+B22A4BE3:Salvage (100)
+B22A4BE4:Salvage (75)
+B22A4BE5:Salvage (6)
+B22A4BE6:Salvage (14)
+B22A4BE7:Salvage (31)
+B22A4BE8:Salvage (39)
+B22A4BE9:Salvage (55)
+B22A4BEA:Salvage (8)
+B22A4BEB:Salvage (31)
+B22A4BEC:Salvage (24)
+B22A4BED:Salvage (65)
+B22A4BEE:Salvage (40)
+B22A4BEF:Salvage (6)
+B22A4BF0:Salvage (52)
+B22A4BF1:Salvage (14)
+B22A4BF2:Salvage (77)
+B22A4BF3:Salvage (100)
+B22A4BF4:Salvage (50)
+B22A4BF6:Salvage (8)
+B22A4BF7:Salvage (20)
+8047B13C:Baggy Tunic
+
+Missing Exports - Possessed items that were not found:

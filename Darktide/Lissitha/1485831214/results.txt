@@ -1,0 +1,157 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-30_1485831202_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-27_1485536327_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-27_1485561877_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-28_1485614827_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-28_1485614827_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-28_1485614827_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-29_1485718290_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-29_1485718290_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-29_1485718290_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-29_1485718290_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-29_1485718290_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-29_1485718290_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-30_1485816738_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-30_1485816738_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-30_1485816738_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-30_1485816738_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-30_1485816738_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-30_1485816738_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-30_1485816738_log.pcap
+
+Partial Exports - Missing appraisal info:
+CBFEC4CA:Foci of Verdancy
+CBFEC4C9:Pathwarden Trinket
+CBFEC592:Lead Scarab
+CBFEC4E7:Silver Scarab
+CBFEC4E6:Copper Scarab
+CBFEC4E5:Iron Scarab
+CBFEC4E4:Pyreal Scarab
+CBFEC4E3:Platinum Scarab
+CBFEC4E0:Ust
+CBFEC4DF:Prismatic Taper
+CBFEC4E9:Battle Pants
+CBFC7533:Battle Pants
+CBFEC53D:Battle Pants
+CBFA9CF8:Battle Pants
+CBFEC55D:Battle Pants
+CBFEC4F2:Pyreal Golem Heart
+CBFEC4F1:The Orphanage
+CBFECD81:Salvage (100)
+CBFECD80:Salvage (100)
+CBFEC500:Salvage (100)
+CBFEC4FF:Salvage (100)
+CBFEC4FE:Salvage (100)
+CBFEC51D:Gifted Healing Kit
+CBFEC4FD:Salvage (100)
+CBFEC4FC:Salvage (100)
+CBFEC51C:Gifted Healing Kit
+CBFEC4FB:Salvage (100)
+CBFECD6D:Salvage (100)
+CBFECD6A:Salvage (100)
+CBFEC536:Gifted Healing Kit
+CBFEC50A:Battle Pants
+CBFEC4F5:Battle Pants
+CBFEC515:Battle Pants
+CBFEC522:Battle Pants
+CBFEC520:Battle Pants
+CBFEC50F:Battle Pants
+CBFECD24:Battle Pants
+CBFEC549:Battle Pants
+CBFEC517:Battle Pants
+CBFECD06:Foci of Enchantment
+CBFEC52F:Foci of Artifice
+CBFEC52E:Greater Stamina Kit
+CBFEC52D:Lytelthorpe Portal Gem
+CBFEC534:Gifted Healing Kit
+CBFADC3B:Greater Stamina Kit
+CBFEC533:Gifted Healing Kit
+CBF43ACC:Pants
+CBFA95C7:Pyreal
+CBFEC532:Gifted Healing Kit
+CBFEC531:Gifted Healing Kit
+CBFEC530:Gifted Healing Kit
+CBFC7527:Gifted Healing Kit
+CBFECCF4:Gifted Healing Kit
+CBFEC565:Gifted Healing Kit
+CBFEC541:Gifted Healing Kit
+CBFEC540:Gifted Healing Kit
+CBFEC526:Battle Pants
+CBFEC580:Battle Pants
+CBFEC2D0:Battle Pants
+CBFEC53A:Cloak
+CBFEC539:Treated Healing Kit
+CBFEC547:Treated Healing Kit
+CBFEC546:Treated Healing Kit
+CBFEC545:Treated Healing Kit
+CBF78B1C:Treated Healing Kit
+CBFEC543:Wrapped Bundle of Arrowshafts
+CBFC752B:Quiddity Ingot
+CBFC7531:Wrapped Bundle of Deadly Prismatic Arrowheads
+CBFEC55A:Hero Token
+CBFECCE6:Facility Hub Portal Gem
+CBFEC552:Battle Pants
+CBFEC550:Greater Stamina Kit
+CBFEC551:Invitation to Master Fletchers
+CBFEC559:Plentiful Healing Kit
+CBFEC561:Diamond Scarab
+CBFEC556:Writ of Refuge
+CBFEC57C:Hollow Bow
+D84F9C18:Key
+D84F9C1A:Gold Key
+CBFEC575:Chorizite Fletching Tool
+CBFEC573:Wrapped Bundle of Arrowheads
+CBFECCAD:Teleportation Device
+D7FCFD7D:Mutated Olthoi Gland
+D7FCFC5B:Scroll of Cabalastic Ostracism
+D8449A82:Ginseng
+CC002446:Horned Helm
+D869ED6A:Pyreal
+D866E2A8:Excellent Healing Kit
+D866E100:Gold Tumerok Insignia
+D86A4BC1:Gold Scarab
+D8686A46:Notes on Chorizite Distillation
+D868D526:Rithwic Portal Gem
+CBFEC584:Sanguinary Aegis
+D86ADCE1:Mana Tonic
+D8696BEC:Berimphur Plant
+D8666A82:Steel Toed Boots
+D86A2EB8:Stamina Brew
+D7368455:Signet Crown
+D7321793:Frost Tachi
+C7C4EAD7:Steel Toed Boots
+C7D01C93:Leather Gauntlets
+D87F4BC8:Nalicana's Test (Level 200+)
+D862087C:Frost Lugian Hammer
+9B8FE599:Ring
+9A4FD934:Coalesced Aetheria
+D86ADBCC:Sanguinary Aegis
+D834EB90:Ewer
+9A16EA0A:Battle Pants
+D834F170:Bandana
+D7EBAE64:Signet Crown
+CBFD8DE7:Fire Bow
+D86AB9D9:Massive Mana Charge
+C79E2294:Studded Leather Boots
+D86AB9B4:Massive Mana Charge
+CBFEA907:Fire Compound Bow
+D86AB9B5:Massive Mana Charge
+97E519E2:Trade Note (250,000)
+B51F02D0:Trade Note (250,000)
+D86AB95C:Massive Mana Charge
+D863DE2B:Deadly Prismatic Arrow
+D86AB95B:Massive Mana Charge
+D86AB9E1:Massive Mana Charge
+D86AB9D7:Massive Mana Charge
+D86AB9D6:Massive Mana Charge
+D86AB9DE:Massive Mana Charge
+D86AB960:Massive Mana Charge
+D8784B7E:Glyph of Flame
+C97CB01F:Massive Mana Charge
+D86AB9B1:Massive Mana Charge
+D88242A1:Treated Healing Kit
+D2DBECD1:Massive Mana Charge
+
+Missing Exports - Possessed items that were not found:

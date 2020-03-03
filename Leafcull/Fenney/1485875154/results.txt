@@ -1,0 +1,26 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap2\pkt_2017-1-31_1485871198_log.pcap
+
+Partial Exports - Missing appraisal info:
+AEC7C576:Pyreal
+AEC7C57A:Handy Healing Kit
+AEC7C577:Foci of Artifice
+AEC7C578:Prismatic Taper
+AEC7C579:Lead Scarab
+AEC7C57B:Welcome Letter
+AEC7C57C:Sack
+AEC7C57D:Calling Stone
+AEC7C57E:Greeter's Key
+AEC7C57F:Academy Healing Potion
+AEC7C580:Academy Mana Potion
+AEC7C581:Lead Pea
+AEC7C582:Quartermaster's Workshop Key
+AEC7C588:Scroll of Extinguish Life Magic Other
+AEC7C587:Carenzi Pouchling Pelt
+AEC7C589:Scroll of Mana Mastery Self III
+AEC7C58A:Scroll of Piercing Vulnerability Other III
+AEC7C58C:Some Changes for February 2012
+AEC7C58D:Blackmoor's Favor
+AEC7C58E:Pack Gaerlan
+
+Missing Exports - Possessed items that were not found:

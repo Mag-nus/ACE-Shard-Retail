@@ -1,0 +1,198 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\CatDevnull-Dont-Remember-1\pkt_2017-1-30_1485795672_log.pcap
+
+Partial Exports - Missing appraisal info:
+A1315134:Sack
+A131ED91:Facility Hub Portal Gem
+A1426CE2:Blackmoor's Favor
+A131513B:Prismatic Taper
+A1315136:Calling Stone
+A1315135:Ust
+A22DC66C:Copper Scarab
+A228E18F:Silver Scarab
+A24AA502:Aphus Lassel Portal Gem
+A229801F:Tipped Pack Cow
+A259A140:Treated Healing Kit
+A2598D3F:Stamina Tonic
+A33FF3C5:Ancient Mhoire Coin
+A2543226:Lesser Mana Kit
+98F2B596:Pathwarden Trinket
+A259A031:Black Page of Salt and Ash
+BD3D2EF3:Encapsulated Spirit
+A131513A:Foci of Artifice
+A14D60A1:Pack
+802D8504:Salvage
+A429995A:Salvage
+9C48859E:Salvage
+9C4A7ED9:Salvage
+A3560AE5:Salvage
+A5C969FF:Salvage
+9867BF1D:Salvage
+A608A5EA:Salvage
+A6053989:Salvage
+A0CEF391:Salvage
+9867BEE8:Salvaged  (100)
+A14B96A3:Pack
+9867BEE7:Salvaged  (100)
+9867BEC9:Salvaged  (100)
+A3597A05:Belt Pouch
+9867BECA:Salvaged  (100)
+92BC50D0:Salvage (100)
+B93FF4EB:Salvage
+B60F77E8:Salvage (100)
+A22DBA62:Pack
+B6192C85:Salvage (100)
+B616537B:Salvage (100)
+9867BEA4:Pack
+B61AA254:Salvage (100)
+B60DB974:Salvage (100)
+B60ED3F6:Salvage (100)
+B618A487:Salvage (100)
+B618AB0B:Salvage (100)
+A7DCABEF:Salvage (100)
+A82D8E7B:Salvage (100)
+A8338707:Salvage (100)
+A8273D9E:Salvage (100)
+A827426C:Salvage (100)
+A82ADC85:Salvage (100)
+A83CE482:Salvage (100)
+9867BED6:Salvaged  (100)
+B0D5FB6C:Salvage (100)
+A60267BD:Salvage
+A608A5EB:Salvage
+AAEADDB0:Salvage
+A4A93485:Salvage (100)
+A1B656C0:Salvage (100)
+A1CB39A1:Salvage (100)
+A212A116:Salvage (100)
+B61908AD:Salvage (100)
+B60F3BC7:Salvage (100)
+B619A892:Salvage (100)
+B616AF24:Salvage (100)
+B61B246C:Salvage (100)
+B612998E:Salvage (100)
+B60F681A:Salvage (100)
+9867BEEE:Foolproof Zircon
+9867BEDE:Foolproof
+A7DDF775:Foolproof Imperial Topaz
+A9D413AA:Foolproof Aquamarine
+92E007A2:Foolproof Yellow Topaz
+92E28D7D:Salvage (100)
+92E5D28F:Salvage (100)
+92BD7F8A:Salvage (100)
+92C0DAC8:Salvage (100)
+92BC515D:Salvaged  (100)
+A60366F4:Salvage
+A7D978F0:Salvage (100)
+A7DF44D8:Salvage (100)
+A5467D1F:Salvage (100)
+A6B24358:Salvage (100)
+A69D043C:Salvage (100)
+A47E10B5:Salvage (100)
+B4DE33FC:Salvage
+BBD8973D:Foolproof Fire Opal
+BF3ADEA4:Foolproof Black Garnet
+C7EFAF64:Foolproof Black Garnet
+C7EF521A:Foolproof Red Garnet
+C7ED597A:Foolproof Peridot
+ADA34806:Salvage (100)
+ADA99416:Salvage (100)
+ADA8EBE2:Salvage (100)
+AD968132:Salvage (100)
+AD9782EA:Salvage (100)
+AD91661E:Salvage (100)
+AD988E67:Salvage (100)
+AD983F86:Salvage (100)
+AD972793:Salvage (100)
+AD97E943:Salvage (100)
+AD9AB394:Salvage (100)
+AC41F1E8:Salvage (100)
+AC40B144:Salvage (100)
+AC469494:Salvage (100)
+AC3B66CE:Salvage (100)
+ACDFEB8B:Salvage
+ACB07EFB:Salvage
+ACAA60EA:Salvage
+B432B796:Salvage
+B40D60E6:Salvage
+B4110D78:Salvage
+B4318F5F:Salvage
+B474FC19:Salvage
+B34C445F:Salvage
+B634830D:Salvage
+B53DA030:Salvage
+B1B7E54B:Salvage
+B2219FFD:Salvage
+B1D76836:Salvage
+B0DD7FF9:Salvage
+B14C1C08:Salvage
+B02ED150:Salvage
+B0C5C77F:Salvage
+AF4C5DDC:Salvage
+AF77EBDA:Salvage
+AF127A68:Salvage
+AE9F1384:Salvage
+AEA2E439:Salvage
+AE55E79C:Salvage
+AE501B5F:Salvage (100)
+ACDFED53:Salvage
+AE518F50:Salvage (100)
+AE299362:Salvage (100)
+AE352D6B:Salvage (100)
+ADA94883:Salvage (100)
+B1F4CB77:Salvage
+B4E09341:Salvage
+BB5EB25E:Salvage
+B61C3AB1:Salvage (100)
+B61C1A04:Salvage (100)
+B601B910:Salvage (100)
+B61215A3:Salvage (100)
+B60471BA:Salvage (100)
+BA323988:Salvage
+B9F88B06:Salvage
+BAABCDEF:Salvage
+BAABDA48:Salvage
+BACC726E:Salvage
+BAC9E40B:Salvage
+BB7C9D0B:Salvage
+BB5ED1FA:Salvage
+BCA37A81:Salvage
+BCBADBDF:Salvage
+BCB9D0FF:Salvage
+BE19DE08:Salvage
+BEB13C28:Salvage
+BEC3E337:Salvage
+BEF0CE94:Salvage
+BF6F7BE1:Salvage
+BF6F4B0E:Salvage
+BF96873B:Salvage
+BF9683C7:Salvage
+BF939C7E:Salvage
+BFCCE3CC:Salvage
+C0F0AC64:Salvage
+C15C7BFC:Salvage
+C1659607:Salvage
+C17CEA78:Salvage
+C18244C9:Salvage
+C1A93633:Salvage
+C1AA633A:Salvage
+C285E709:Salvage
+C304698A:Salvage
+C31E1DD7:Salvage
+C3046BF9:Salvage
+C302D0FD:Salvage
+C3210411:Salvage
+C0A9EBF6:Salvage
+BF4AAB0D:Salvage
+C1AA6488:Salvage
+C2B625DA:Salvage
+804896F6:Salvage (100)
+805AACEA:Salvage (100)
+805AC487:Salvage (100)
+804CF03E:Salvage (100)
+8049B7F9:Salvage (100)
+B616B70D:Salvage (100)
+C55A4120:Foolproof Black Opal
+B61A59D5:Salvage (100)
+
+Missing Exports - Possessed items that were not found:

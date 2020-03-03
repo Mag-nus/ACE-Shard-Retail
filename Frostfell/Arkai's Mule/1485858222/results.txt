@@ -1,0 +1,191 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Cyberkiller-01-31-2017-Random\pkt_2017-1-31_1485858208_log.pcap
+
+Partial Exports - Missing appraisal info:
+DD3238D1:Ust
+DD3238D2:Calling Stone
+DD3238D4:Black Rock
+DD3238D6:A Lump of Coal
+DD3238D7:Pack
+DD3238D8:Acid Bow
+DD3238DD:Cestus
+DD3238E2:Lightning Nekode
+DD3238E3:Bloodhunter Oil
+DD3238E8:Hero Token
+DD3238E4:Pyreal Bar
+DD3238E5:Pyreal Bar
+DD3238E6:Pyreal Bar
+DD3238E7:Pyreal Bar
+DD3238EB:Virindi Essence
+DD3238EC:Virindi Essence
+DD3238ED:Virindi Essence
+DD3238EE:Bow Stamped Spectral Ingot
+DD3238EF:Ginger
+DD3238F0:Pack
+DD3238F1:Intricate Carving Tool
+DD3238F4:Splitting Tool
+DD3238F6:Pack Levistras
+DD3238F9:Benedino's Letter
+DD3238FB:Misshapen Bone Fragment
+DD3238FE:Lightning Kaskara
+DD323902:Amulet
+DD323906:Cloth Gloves
+DD323907:Ring
+DD323909:Pack
+DD32390A:Thorsten's Crystal
+DD32391C:Pack Bael'Zharon
+DD32390B:Thorsten's Crystal
+DD323910:Medicated Stamina Kit
+DD323911:Thorsten's Crystal
+DD323912:Elysa's Crystal
+DD323914:Elysa's Crystal
+DD323915:Thorsten's Crystal
+DD323919:Chef's Crystal
+DD32391B:T'ing's Crystal
+DD32391D:Tinker's Crystal
+DD32391E:Smithy's Crystal
+DD323921:Hieromancer's Crystal
+DD323922:Pack
+DD323924:Knuckles
+DD323925:Pack Bael'Zharon
+DD323926:Frost Cestus
+DD323927:Acid Bastone
+DD323930:Acid Atlatl
+DD323934:Minalim Plant
+DD323937:Claw
+DD323938:Wandering Ghost
+DD32393B:Pack
+DD323939:Pack Ancient Olthoi Queen
+DD32393D:Board with Nail
+DD32393E:Frost Nekode
+DD323941:Claw
+DD323948:Cloth Gloves
+DD323942:Frost Compound Bow
+DD323944:Acid Epee
+DD323945:Piercing Compound Bow
+DD323947:Acid Baton
+DD323949:Tenassa Breastplate
+DD32394A:Fez
+DD32394E:Bracelet
+DD32394B:Suikan Over-robe
+DD32394C:Lyceum Hood
+DD32394F:Studded Leather Breastplate
+DD323950:Ring
+DD323951:Loafers
+DD323954:Pack
+DD323952:Olthoi Alduressa Leggings
+DD323953:Olthoi Amuli Gauntlets
+DD323955:Warrior's Jewel
+DD323956:Adherent's Crystal
+DD323957:Enchanter's Crystal
+DD323958:Deceiver's Crystal
+DD323959:Observer's Crystal
+DD32395A:Fletcher's Crystal
+DD32395B:Pearl of Swift Killing
+DD32395C:Scholar's Crystal
+DD32395D:Thief's Crystal
+DD32395E:Oswald's Crystal
+DD32395F:Zefir's Crystal
+DD323960:Thorsten's Crystal
+DD323961:Artist's Crystal
+DD323962:Artificer's Crystal
+DD323963:Pearl of Lightning Baning
+DD323964:Pearl of Blood Drinking
+DD323965:Alchemist's Crystal
+DD323966:Imbuer's Crystal
+DD323967:Pearl of Blade Baning
+DD323968:Lugian's Pearl
+DD323969:Executor's Jewel
+DD32396A:Astyrrian's Jewel
+DD32396B:Brawler's Crystal
+DD32396C:Knight's Crystal
+DD32396D:Pack
+DD32396F:Large Round Shield
+DD323971:Scalemail Coif
+DD323978:Ring
+DD323972:Sedgemail Leather Shoes
+DD323974:Leather Cuirass
+DD323975:Olthoi Celdon Breastplate
+DD323976:Lorica Breastplate
+DD323979:Ring
+DD32397B:Scalemail Gauntlets
+DD32397C:Loose Pants
+DD32397E:Olthoi Koujia Sollerets
+DD32397F:Suikan Over-robe
+DD323980:Cloth Gloves
+DD323982:Chainmail Breastplate
+DD323983:Olthoi Alduressa Boots
+DD323984:Heavy Bracelet
+DD323986:Alduressa Coat
+DD323987:Olthoi Amuli Gauntlets
+DD323989:Bandana
+DD32398A:Chiran Helm
+DD32398C:Sollerets
+DD32398D:Celdon Girth
+DD32398E:Olthoi Koujia Leggings
+DD32398F:Olthoi Celdon Gauntlets
+DD323990:Loafers
+DD323992:Yoroi Girth
+DD323993:Nariyid Sleeves
+DD323995:Loose Shirt
+DD323996:Cloth Gloves
+DD323997:Celdon Sleeves
+DD323998:Amuli Coat
+DD323999:Leather Bracers
+DD32399A:Celdon Leggings
+DD32399D:Coronet
+DD32399F:Studded Leather Breastplate
+DD3239A0:Tenassa Breastplate
+DD3239A1:Cloth Gloves
+DD3239B1:Amulet
+DD3239A3:Puffy Shirt
+DD3239A4:Tenassa Sleeves
+DD3239A6:Bordered Cloak
+DD3239A7:Teardrop Crown
+DD3239A8:Top
+DD3239AA:Studded Leather Cuirass
+DD3239AB:Chiran Gauntlets
+DD3239AD:Shoes
+DD3239B0:Aetheria
+DD3239AE:Chainmail Bracers
+DD3239B3:Nariyid Sleeves
+DD3239B4:Salvage
+DD3239B5:Salvage
+DD3239B6:Golden Gromnie
+DD3239B9:Chiran Helm
+DD3239BA:Platemail Gauntlets
+DD3239BB:Olthoi Celdon Girth
+DD3239BD:Leather Greaves
+DD3239BE:Olthoi Koujia Kabuton
+DD3239C1:Leather Pauldrons
+DD3239C2:Empyrean Over-robe
+DD3239C4:Studded Leather Greaves
+DD3239C5:Steel Toed Boots
+DD3239C7:Slippers
+DD3239C8:Bandana
+DD3239C9:Tenassa Leggings
+DD3239CA:Knorr Academy Boots
+DD3239CB:Puzzle Box
+DD3239CC:Leather Shorts
+DD3239CE:Diforsa Gauntlets
+DD3239CF:Koujia Leggings
+DD3239D0:Haebrean Pauldrons
+DD3239D1:Chainmail Coif
+DD3239D2:Chiran Sandals
+DD3239D3:Chiran Leggings
+DD3239D4:Koujia Breastplate
+DD3239D5:Fire Bow
+DD3239D6:Diforsa Pauldrons
+DD3239D7:Sedgemail Leather Sleeves
+DD3239D8:Scalemail Greaves
+DD3239DA:Diforsa Pauldrons
+DD3239DB:Diforsa Sleeves
+DD3239E0:Loafers
+DD3239DD:Studded Leather Sleeves
+DD3239DE:Metal Cap
+DD3239DF:Studded Leather Pauldrons
+DD3239E1:Golden Gromnie
+DD3239E2:Golden Gromnie
+DD3239E3:Pack Scarecrow
+
+Missing Exports - Possessed items that were not found:

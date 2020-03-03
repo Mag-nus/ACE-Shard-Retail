@@ -1,0 +1,57 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap4\pkt_2017-1-29_1485688049_log.pcap
+
+Partial Exports - Missing appraisal info:
+85FE7DDD:Sack
+85FE7DE1:Ust
+85FE7DE6:Handy Healing Kit
+85FE7DFD:Pyreal
+85FE7DEA:Facility Hub Portal Gem
+85FE7DEB:Pack
+85FE7DED:Gem
+85FE7DF6:Pack
+85FE7DEE:Verdalim Plant
+85FD5992:Vaulter's Crystal
+85FE7DF8:Town Network Portal Gem
+85FE7E03:Dark Shard
+85FE7DFF:Pack
+85FE7E02:Shadow Fragment
+85FE7E0F:Sturdy Steel Key
+85FE7E09:Pack
+85FE7E0C:Gem
+85FE7E0D:Ivory Gromnie Wings
+85FE7E11:Pack Scarecrow
+85FE7E13:Pack
+85FE7E15:Mana Forge Key
+85FE7E17:Pyreal Sliver
+85FE7E18:Shadow Fragment
+85FE7E3C:Instructions
+85FE7E3D:Treated Healing Kit
+85FE7E29:Mana Forge Key
+85FE7E3F:Mite Leg Bone
+85FE7E38:Salvage (100)
+85FE7E39:Salvage (100)
+85FE7E3A:Salvage (100)
+85FE7E3B:Inscription of Bludgeoning Protection Self
+85FE7E40:Glyph of Finesse Weapons
+85FE7E41:Glyph of Salvaging
+85FE7E42:Glyph of Damage
+85FE7E43:Glyph of Shield
+85FE7E44:Glyph of Magic Item Tinkering
+85FE7E45:Glyph of Monster Appraisal
+85FE7E46:Glyph of Armor Tinkering
+85FE7E47:Glyph of Dirty Fighting
+85FE7E48:Glyph of Weapon Tinkering
+85FE7E49:Glyph of Alchemy
+85FE7E4A:Glyph of Dual Wield
+85FE7E4B:Glyph of Person Appraisal
+85FE7E4C:Glyph of Loyalty
+85FE7E4D:Glyph of Two Handed Combat
+85FE7E4E:Glyph of Creature Enchantment
+85FE7E4F:Glyph of Leadership
+85FE7E50:Glyph of Item Tinkering
+85FE7E51:Glyph of Void Magic
+85FE7E75:Deceiver's Crystal
+85FE7E76:Flaming Weeping Sword
+
+Missing Exports - Possessed items that were not found:

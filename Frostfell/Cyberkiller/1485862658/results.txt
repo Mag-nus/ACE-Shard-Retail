@@ -1,0 +1,64 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Cyberkiller-01-31-2017-Random\pkt_2017-1-31_1485862648_log.pcap
+
+Partial Exports - Missing appraisal info:
+DD30F486:Gifted Healing Kit
+DD30F485:Gifted Healing Kit
+DD30F481:Parchment
+DD30F479:Pyreal
+DD30F476:Book
+DD30F475:Pyreal
+DD30F464:Pack
+DD30F463:Ravener Guts
+DD30F462:Ravener Guts
+DD30F461:Ash Gromnie Tooth
+DD30F460:Verdalim Plant
+DD30F45F:Tusker Head
+DD30F45E:Skeleton's Skull
+DD30F45D:Skeleton's Skull
+DD30F45C:Sturdy Iron Key
+DD30F45B:Tusker Head
+DD30F45A:Sturdy Iron Key
+DD30F450:Sturdy Iron Key
+DD30F44F:Sturdy Iron Key
+DD30F44E:Sturdy Iron Key
+DD30F44D:Sturdy Iron Key
+DD30F44C:Pack
+DD30F436:Pack
+DD30F426:Stamina Elixir
+DD30F425:Aura of Blood Drinker Self III
+DD30F420:Mortar and Pestle
+DD30F41E:Trade Note (10,000)
+DD30F41D:Trade Note (1,000)
+DD30F41C:Pack
+DD30F41A:Scroll of Focus Self V
+DD30F417:Scroll of Light Weapon Ineptitude Other V
+DD30F412:Shendolain Key
+DD30F410:Pack
+DD30F40F:Bone Handle
+DD30F40B:Bone Handle
+DD30F403:Seal
+DD30F3F6:Scroll of Cooking Mastery Self VI
+DD30F3F5:Scroll of Missile Weapon Mastery Self VI
+DD30F3F2:Scroll of Flame Lure VI
+DD30F3F7:Scroll of Light Weapon Ineptitude Other VI
+DD30F3F4:Scroll of Magic Item Tinkering Expertise Other VI
+DD30F3F3:Scroll of Heavy Weapon Mastery Self VI
+DD30F3F1:Scroll of Fire Protection Self VI
+DD30F3F0:Scroll of Force Bolt VI
+DD30F3EF:Fenmalain Key
+DD30F3EE:Fenmalain Key
+DD30F3ED:Pyreal Mote
+DD30F3EB:Black Stone
+DD30F3E6:Pyreal Mote
+DD30F3E5:Pyreal Mote
+DD30F3E2:Pack
+DD30F3DC:Pack
+DD30F3DB:Pyreal Mote
+DD30F3DA:Pyreal Mote
+DD30F3D9:Pyreal Mote
+DD30F3D8:Sturdy Iron Key
+DD30F3D3:Some Changes for February 2012
+DD30F3D4:Pack Ancient Olthoi Queen
+
+Missing Exports - Possessed items that were not found:

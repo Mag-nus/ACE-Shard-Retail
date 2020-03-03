@@ -1,0 +1,128 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap2\pkt_2017-1-31_1485871198_log.pcap
+
+Partial Exports - Missing appraisal info:
+ADDE5895:Pack
+ADDE5896:Iron Scarab
+ADDE5924:Pyreal
+ADDE5897:Mugwort
+ADDE5898:Stibnite
+ADDE5899:Cadmia
+ADDE589A:Willow Talisman
+ADDE589B:Powdered Carnelian
+ADDE589F:Gypsum
+ADDE589C:Verdigris
+ADDE589D:Comfrey
+ADDE58A1:Copper Scarab
+ADDE589E:Powdered Turquoise
+ADDE58A0:Dragonsblood
+ADDE58DF:Scroll of Bludgeon Bane IV
+ADDE58A2:Hyssop
+ADDE58A3:Mandrake
+ADDE58A6:Silver Scarab
+ADDE58A4:Powdered Amber
+ADDE58A5:Saffron
+ADDE58A7:Yew Talisman
+ADDE58A8:Ashwood Talisman
+ADDE58A9:Vitriol
+ADDE58AA:Realgar
+ADDE58AB:Alder Talisman
+ADDE58AC:Ebony Talisman
+ADDE58AD:Cinnabar
+ADDE58AE:Pack
+ADDE58C5:Pack
+ADDE58C7:Hazel Talisman
+ADDE58C9:Elder Talisman
+ADDE58CA:Rowan Talisman
+ADDE58CB:Willow Talisman
+ADDE58CC:Lead Scarab
+ADDE58D3:Cobalt
+ADDE58D6:Gold Scarab
+ADDE58D9:Cedar Talisman
+ADDE58DC:Pack
+ADDE58C6:Colcothar
+ADDE58C8:Verdigris
+ADDE58DD:Scroll of War Magic Mastery Self V
+ADDE58CD:Powdered Amber
+ADDE58CE:Saffron
+ADDE58E0:Scroll of Frost Bolt VI
+ADDE58CF:Damiana
+ADDE58D0:Quicksilver
+ADDE58E3:Scroll of Frailty Other VI
+ADDE58D1:Brimstone
+ADDE58D2:Vitriol
+ADDE58E1:Scroll of Heavy Weapon Mastery Self VI
+ADDE58D4:Turpeth
+ADDE58D5:Powdered Malachite
+ADDE58E4:Scroll of Alchemy Mastery Other VI
+ADDE58D7:Wormwood
+ADDE58D8:Ginseng
+ADDE58E5:Scroll of Harm Other III
+ADDE58DA:Yarrow
+ADDE58DB:Powdered Onyx
+ADDE58E6:Scroll of Health to Stamina Self III
+ADDE58FB:Mana Stone
+ADDE58F3:Pack
+ADDE58F4:Pink Taper
+ADDE58F5:Turquoise Taper
+ADDE58F6:Brown Taper
+ADDE58F7:Green Taper
+ADDE58F8:Indigo Taper
+ADDE58F9:Violet Taper
+ADDE58FA:Grey Taper
+ADDE58FC:Greater Mana Stone
+ADDE58FF:White Taper
+ADDE5900:Red Taper
+ADDE5901:Orange Taper
+ADDE5902:Yellow Taper
+ADDE5903:Pack
+ADDE5904:Golden Key
+ADDE5905:A Small Mnemosyne
+ADDE5906:Fenmalain Key
+ADDE5907:Tumerok Taskmaster's Key
+ADDE5908:Serpent Banner
+ADDE5909:A Large Mnemosyne
+ADDE590A:Falcon Banner
+ADDE590B:Directive Key
+ADDE590C:A Small Mnemosyne
+ADDE590D:A Large Mnemosyne
+ADDE590E:Falcon Banner
+ADDE590F:Dark Revenant Thighbone
+ADDE5910:Little Green Seeds
+ADDE5911:Tumerok Priest's Key
+ADDE5912:Falcon Crest
+ADDE5913:A Small Mnemosyne
+ADDE5914:A Tiny Mnemosyne
+ADDE5915:A Small Mnemosyne
+ADDE5916:A Tiny Mnemosyne
+ADDE5917:A Small Mnemosyne
+ADDE5918:Fenmalain Key
+ADDE5919:Pack
+ADDE5925:Hemlock Talisman
+ADDE5926:Copy of Witshire's Key
+ADDE5927:Scroll of Strengthen Lock VI
+ADDE5928:Scroll of Regenerate Other VI
+ADDE5929:Scroll of Infuse Health II
+ADDE592A:Super Cheese
+ADDE592B:Parchment
+ADDE592C:A torn note 
+ADDE592D:Scroll of Enfeeble Other III
+ADDE593F:Mana Stone
+ADDE5931:Virindi Directive Key
+ADDE5933:Gifted Healing Kit
+ADDE5938:Northern Infiltrator Message Shard
+ADDE5939:Trade Note (1,000)
+ADDE593B:Excellent Healing Kit
+ADDE593C:Gifted Healing Kit
+ADDE593D:Shoyanen's Portal Gem
+ADDE5940:Large Lugian Sinew
+ADDE5941:Pyreal
+ADDE5942:Pyreal
+ADDE5943:Pyreal
+ADDE5944:Pyreal
+ADDE5950:Blue Taper
+ADDE5955:Some Changes for February 2012
+ADDE5954:Pack Levistras
+ADDE5956:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

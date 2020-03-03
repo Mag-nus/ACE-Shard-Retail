@@ -1,0 +1,46 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Arwic-Portal-Storms-Subway-and-misc-logins\pkt_2017-1-31_1485880598_log.pcap
+
+Partial Exports - Missing appraisal info:
+C2656B2A:Foci of Enchantment
+C2656B2F:Prismatic Taper
+C2656B2B:Foci of Artifice
+C2656B2C:Foci of Verdancy
+C2656B2D:Foci of Strife
+C2656B2E:Pack
+C2656B30:Lead Scarab
+C2656B31:Iron Scarab
+C2656B32:Copper Scarab
+C2656B33:Silver Scarab
+C2656B34:Gold Scarab
+C2656B35:Pyreal Scarab
+C2656B36:Letter From Home
+C2656B37:Al-Arqas Portal Gem
+C2656B38:Pack
+C2656B39:Drudge Charm
+C2656B3A:Reedshark Banner
+C2656B3B:Reedshark Crest
+C2656B3C:Potion of Healing
+C2656B3D:Pyreal
+C2656B3E:Chainmail Girth
+C2656B3F:Dinner Plate
+C2656B40:Bracelet
+C2656B41:Scalemail Gauntlets
+C2656B43:Necklace
+C2656B42:Platemail Gauntlets
+C2656B44:Gloves
+C2656B48:Iron Pea
+C2656B45:Necklace
+C2656B46:Steel Toed Boots
+C2656B47:Studded  Tassets
+C2656B49:Copper Pea
+C2656B4B:Sollerets
+C2656B4A:Chainmail Coif
+C2656B4C:A Pair Of Society Leather Leggings
+C2656B4D:Mattekar Hide Coat
+C2656B4E:Reinforced Reedshark Banner with Symbol
+C2656B4F:Some Changes for February 2012
+C2656B50:Blackmoor's Favor
+C2656B51:Focusing Stone
+
+Missing Exports - Possessed items that were not found:

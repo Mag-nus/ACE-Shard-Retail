@@ -1,0 +1,131 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\gdrive (tfarley)\Zoishe\sparking stone\pkt_2017-1-30_1485756135_log.pcap
+
+Partial Exports - Missing appraisal info:
+80691945:Pack
+80691946:Copper Scarab
+80691947:Silver Scarab
+80691948:Iron Scarab
+80691949:Iron Pea
+8069194B:Silver Pea
+8069194C:Splitting Tool
+8069194D:Copper Pea
+8069194E:Lead Pea
+8069194F:Pyreal Pea
+80691950:Ust
+80691951:Greeter's Key
+91C49EE1:Pyreal
+80691953:Platinum Scarab
+80691955:Prismatic Taper
+80691956:Major Mana Stone
+80691957:Major Mana Stone
+80691958:Major Mana Stone
+80691959:Major Smoldering Stone
+8069195A:Forager Captain's Resonator
+8069195B:Virindi Singularity Key
+8069195C:Major Mana Stone
+8069195D:Foci of Artifice
+8069195E:Foci of Verdancy
+8069195F:Foci of Enchantment
+80691960:Pack
+80691961:Tunic
+80691962:Gloves
+80691963:Tiriun Mushroom Cap
+80691966:Sturdy Iron Keyring
+80691967:Demon Swarm Matron Token
+80691968:Kabuton
+8069196B:Silver Pea
+8069196C:Elaborate Field Rations
+8069196D:Renegade Herbal Kit
+8069196E:Plentiful Healing Kit
+8069196F:Plentiful Healing Kit
+80691971:Blackmoor's Favor
+80691954:Major Mana Stone
+80691975:Heavy Necklace
+80691976:Abayar's Research Notes
+80691977:Gloves
+80691978:Asheron's Supreme Raiment
+8069197A:Tome
+80691979:Gorget
+8069197B:Blighted Mana Crystal
+8069197C:Tunic
+8069197D:Ring
+8069197E:Sturdy Iron Keyring
+8069197F:Carved Gemstone Lockpicks
+80691980:Ring
+80691981:Alduressa Gauntlets
+80691982:Ring
+80691983:Board with Nail
+80691984:Ornate Ashen Key
+80691987:Pack
+806919CB:Book
+80691991:Olthoi Larvae Steak
+806919CD:Sho Cookbook
+8069198C:Medicated Stamina Kit
+8069198D:Renegade Hauberk
+8069198E:Renegade Leggings
+8069198F:Covenant Helm
+80691993:Frost Mace
+80691990:Loafers
+80691992:Invitation to Master Fletchers
+8069199C:Fiun Spellcasting Gloves
+80691994:Goggles
+80691995:Heavy Bracelet
+80691996:Gloves
+80691997:Studded  Tassets
+80691998:Tenassa Sleeves
+806919CC:Book
+80691999:Halved Cloak
+8069199A:Heavy Bracelet
+806919A5:Diamond Heart
+8069199B:Ring
+8069199D:Bandana
+806919AF:Diamond Scarab
+8069199E:Puffy Shirt
+806919A6:Red Fire Infusion
+806919AC:Shoyanen's Portal Gem
+806919B1:Quest Weapon Coin
+96E9C4CC:Empyrean Sun Stone
+806919D0:Aerfalle's Pallium
+806919D1:Staff of Aerfalle
+B3A31C98:Stipend
+806919D2:Diamond Heart
+806919D3:Jerkin
+8A270321:Trade Note (250,000)
+80691970:Superior Jack o' Lantern
+90F9601B:Acid Katar
+DB2A5122:Burning Coal
+91BA42A9:Pearl of Blood Drinking
+91CA48B5:Coral Heart
+DC6D1755:Gumshoe Token
+91CAA6C1:Coronet
+93F47B40:Quarter Staff
+968754A2:Lightning Dagger
+801C4D9A:Flaming War Hammer
+801C4D9B:Frost Mace
+801C4D9C:Frost Cestus
+963E603D:Fire Spiked Club
+801C4D96:Flaming War Hammer
+DB7C7A3D:Upper Insatiable Eater Jaw
+DB8A006D:Acid Zombie Essence (150)
+806919A2:Electric Board with Nail
+DBA5F8AA:Enduring Enchantment
+961655BB:Covenant Shield
+DC6E0175:Trade Note (100)
+DB32A484:Durable Legendary Key
+DC6C786C:Leather Greaves
+DC6E438A:Sleek Dress
+DC715F0B:Blunt Atlatl
+DC715FAA:Crimped Hat
+DCD0F8E3:Sacrificial Dagger
+DC6E110A:Pocket Watch
+806919A8:Princely Runed Flamberge
+806919A9:Frost Mace
+806919AB:Kite Shield
+806919A0:Morning Star
+806919AA:Flaming Kasrullah
+806919D5:Focusing Stone
+80691986:Flaming Shou-ono
+80691985:Sanguinary Aegis
+
+Missing Exports - Possessed items that were not found:

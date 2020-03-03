@@ -1,0 +1,52 @@
+INSERT INTO `character` (`id`, `account_Id`, `name`, `is_Plussed`, `is_Deleted`, `delete_Time`, `last_Login_Timestamp`, `total_Logins`, `character_Options_1`, `character_Options_2`, `gameplay_Options`, `spellbook_Filters`, `hair_Texture`, `default_Hair_Texture`)
+VALUES (1343535071, 0, 'Rage of the Darkness', False, False, 0, 0, 0, 1891689826, 9471744, NULL, 2036, 0, 0);
+
+INSERT INTO `character_properties_fill_comp_book` (`character_Id`, `spell_Component_Id`, `quantity_To_Rebuy`)
+VALUES (1343535071, 686, 20)
+     , (1343535071, 688, 20)
+     , (1343535071, 691, 10)
+     , (1343535071, 20631, 500);
+
+INSERT INTO `character_properties_shortcut_bar` (`character_Id`, `shortcut_Bar_Index`, `shortcut_Object_Id`)
+VALUES (1343535071, 2, 3261430927);
+
+INSERT INTO `character_properties_spell_bar` (`character_Id`, `spell_Bar_Number`, `spell_Bar_Index`, `spell_Id`)
+VALUES (1343535071, 0, 0, 25)
+     , (1343535071, 0, 1, 6)
+     , (1343535071, 0, 2, 5)
+     , (1343535071, 0, 3, 1676)
+     , (1343535071, 0, 4, 1678)
+     , (1343535071, 1, 0, 6)
+     , (1343535071, 1, 1, 5)
+     , (1343535071, 3, 0, 1136)
+     , (1343535071, 3, 1, 1021)
+     , (1343535071, 3, 2, 518)
+     , (1343535071, 3, 3, 1069)
+     , (1343535071, 4, 0, 1329)
+     , (1343535071, 4, 1, 1351)
+     , (1343535071, 4, 2, 1375)
+     , (1343535071, 4, 3, 1399)
+     , (1343535071, 4, 4, 1423)
+     , (1343535071, 4, 5, 1447)
+     , (1343535071, 4, 6, 246)
+     , (1343535071, 4, 7, 559)
+     , (1343535071, 4, 8, 583)
+     , (1343535071, 4, 9, 607)
+     , (1343535071, 4, 10, 655)
+     , (1343535071, 5, 0, 1613)
+     , (1343535071, 5, 1, 1589)
+     , (1343535071, 5, 2, 1602)
+     , (1343535071, 5, 3, 1624)
+     , (1343535071, 5, 4, 1483)
+     , (1343535071, 5, 5, 1590)
+     , (1343535071, 5, 6, 1603)
+     , (1343535071, 6, 0, 1635)
+     , (1343535071, 6, 1, 2644)
+     , (1343535071, 6, 2, 2645)
+     , (1343535071, 6, 3, 48)
+     , (1343535071, 6, 4, 2647)
+     , (1343535071, 6, 5, 47)
+     , (1343535071, 6, 6, 2646);
+
+INSERT INTO `character_properties_title_book` (`character_Id`, `title_Id`)
+VALUES (1343535071, 1);

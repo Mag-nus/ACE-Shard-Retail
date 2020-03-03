@@ -1,0 +1,80 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-29_1485736061_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-27_1485531801_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-27_1485536327_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-27_1485536327_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-27_1485539328_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-27_1485539328_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-27_1485541031_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-27_1485541031_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-27_1485546030_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-27_1485561877_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-28_1485614827_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-28_1485614827_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-29_1485718290_log.pcap
+
+Partial Exports - Missing appraisal info:
+D81A7D06:Pyreal
+D81A7D07:Sack
+D81A7D08:Ust
+D81A7D0E:Letter From Home
+D846ACAD:Pathwarden Trinket
+D83C5240:Lead Pea
+D83C5242:Crown
+CC00209D:Massive Mana Charge
+CC002089:Pack
+CC00208A:Massive Mana Charge
+CC00208B:Massive Mana Charge
+CC00208C:Massive Mana Charge
+CC00208D:Massive Mana Charge
+CC00208E:Massive Mana Charge
+CC00208F:Massive Mana Charge
+CC002090:Massive Mana Charge
+CC002091:Massive Mana Charge
+CC002092:Massive Mana Charge
+CC002093:Massive Mana Charge
+CC002094:Massive Mana Charge
+CC002095:Massive Mana Charge
+CC002096:Massive Mana Charge
+CC002097:Massive Mana Charge
+CC002098:Massive Mana Charge
+CC002099:Massive Mana Charge
+CC00209A:Massive Mana Charge
+CC00209B:Massive Mana Charge
+CC00209C:Massive Mana Charge
+CC00209E:Massive Mana Charge
+CC00209F:Massive Mana Charge
+CC0020A0:Massive Mana Charge
+CC0020A1:Massive Mana Charge
+CC002110:Teardrop Crown
+CC002115:Teardrop Crown
+CC002116:Teardrop Crown
+CC002117:Circlet
+CC002118:Diadem
+CC00212D:Circlet
+CC00212E:Coronet
+CC00212F:Teardrop Crown
+CC002130:Circlet
+CC002131:Circlet
+CC002132:Signet Crown
+D84357B3:Celdiseth's Portal Gem
+D840F56D:Steel Toed Boots
+D8474AA6:Salvage
+D849226C:Salvage
+D846CD9C:Sturdy Iron Key
+D839E017:Salvage
+D8474AA5:Sturdy Iron Key
+D83E1787:Peerless Healing Kit
+D844B386:Stipend
+D84DF46E:Adept Healing Kit
+D84DF48D:Adept Healing Kit
+D851E5BA:Chainmail Basinet
+D84DF840:Banderling Scalp
+D84DFA24:Minor Mana Stone
+D84B3A8E:Potion of Healing
+D84B3A9D:Stamina Tincture
+D35F0D60:Metal Round Shield
+
+Missing Exports - Possessed items that were not found:

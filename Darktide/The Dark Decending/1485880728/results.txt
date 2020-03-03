@@ -1,0 +1,116 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Arwic-Portal-Storms-Subway-and-misc-logins\pkt_2017-1-31_1485880598_log.pcap
+
+Partial Exports - Missing appraisal info:
+D85B928B:Pack
+D8684C0A:Armet
+D85B928C:Armet
+D85B95F4:Olthoi Helm
+D85B9496:Emblem of Marriage
+D85B9110:Ursuin Hide Helmet
+D859114F:Kite Shield
+D85B912E:A Society Buckler
+D85B9357:Rapier
+D85B8EC1:Rapier
+D85B9315:Heavy Crossbow
+D85B9310:Dho Vest and Robe
+D8591133:Academy Cestus
+D8684BEF:Cestus
+D85B94E0:Yaoji
+D85911F8:Sollerets
+D85E0E9C:Reedshark Symbol
+D8684C11:Sturdy Banner Haft
+D85B930C:Fire Shreth Hide
+D85B959D:Minor Sparking Stone
+D85B9532:Minor Shivering Stone
+D8591196:Reedshark Crest
+D859118C:Southern Infiltrator Message Shard
+D859116C:Northern Infiltrator Message Shard
+D85B90DB:Academy Stamp
+D85B9215:Cooking Stamp
+D85910FD:Pack
+D85B93DD:Fletching Stamp
+D85B93F8:Moons Stamp
+D85B92A3:Gelidite Dais
+D85B9287:Herald Stamp
+D85B9354:Platemail Gauntlets
+D85B92B1:Snowman
+D85B937F:Gharu'ndim Gem of Worth
+D85B9361:Aluvian Gem of Worth
+D85B9556:Excellent Oiled String
+D85B9344:Aluvian Gem of Worth
+D85B9337:Aluvian Gem of Worth
+D85B942F:Excellent Oiled String
+D85B9365:Excellent Oiled String
+D85B93F3:Little Green Seeds
+D85B91D5:Little Green Seeds
+D85B92A5:Skull Wand
+D85B95F1:Idol Gem
+D85B935F:Heavy Crossbow
+D85B9150:Heavy Crossbow
+D85B960D:Heavy Bracelet
+D85B960F:Bracelet
+D8591167:Ring
+D85B934F:A Society Necklace Of Focus
+D85B90F4:Ring
+D85B9312:Pack
+D8657011:Reedshark Crest
+D85B9601:Doll Mask
+D85B95FB:Obsidian Shard
+D85B90EF:Diamond Scarab
+D85B9375:Scimitar
+D85B95E5:Lightning Tachi
+D8657098:Frost Scimitar
+D85B93E2:Acid Broad Sword
+D85B92F2:Kaskara
+D85B93D7:A Society Leather Girth
+D85911DB:Olthoi Helm
+D85B90F3:Superior Helmet
+D85B938E:Gharu'ndim Wand
+D85B91FE:Aluvian Wand
+D85911DE:Large Round Shield
+D85B934D:Seal
+D85B9384:Drudge Head
+D85B94BD:Platemail Gauntlets
+D8657058:Fletching Stamp
+D865702A:A Bar Tab
+D85B91E7:Strange Stick
+D85B9397:Pack
+D8684BF1:Chainmail Basinet
+D865707D:Scalemail Basinet
+D85B92AA:Gloves
+D85B9133:Wand
+D85B9417:Mosswart Mask
+D85B92B2:Evil Couch
+D85911D4:Lightning Cestus
+D85B925F:A Pair Of Society Leather Boots
+D85B9290:Martine's Robe
+D85911DC:Martine's Mask
+D85B95EF:Faran Robe
+D85B940C:Clean, Dry Towel
+D85B94BA:Crimped Hat
+D85B93A6:Sturdy Banner Haft
+D85B93F7:Sturdy Banner Haft
+D85B91F0:Reedshark Symbol
+D85B914B:Reedshark Symbol
+D85B93C5:Reedshark Spear-Head
+D85B937E:Reedshark Crest
+D85B95E8:Sturdy Banner Haft
+D865705F:Blunt Sceptre
+D85B93BE:Academy Wand
+D8591195:Carrot
+D85B94FA:A Lump of Coal
+D85B9495:Shirt
+D8684C08:Sickly Wisp Heart
+D85B936E:Plated Banner Haft
+D85B9605:Sclavus Head
+D85B95E4:Chainmail Gauntlets
+D85911E5:Unarmed Snowman
+D8591113:Light Crossbow
+D85B9440:Light Crossbow
+D85C1E03:Some Changes for February 2012
+D85B95EB:Blackmoor's Favor
+D85911F7:Fiery Shield
+D85B93F2:Jack o' Lantern
+
+Missing Exports - Possessed items that were not found:

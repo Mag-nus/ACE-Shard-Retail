@@ -1,0 +1,227 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485763099_log.pcap
+
+Partial Exports - Missing appraisal info:
+805F092B:Pack
+805F092A:Silver Scarab
+805F0929:Gold Scarab
+805F0928:Pyreal Scarab
+805F0927:Lead Scarab
+805F0926:Diamond Scarab
+805F0925:Copper Scarab
+805F0924:Iron Scarab
+805F0922:Heavy Necklace
+805F0921:Crown
+805F0920:Chalice
+805F091F:Ring
+805F091D:Mana Scarab
+805F091E:Wand
+805F091C:Coronet
+805F0918:Heavy Necklace
+805F091B:Crown
+805F091A:Ornamental Bowl
+805F0919:Crown
+805F0917:Sceptre
+805F0916:Gorget
+805F0915:Ornamental Bowl
+AF085404:Prismatic Taper
+C8372211:Platinum Scarab
+805F0909:Pack
+805F0908:Sezzherei's Lair
+805F0901:Silver Pea
+805F0907:Sezzherei's Lair
+805F0906:Seat of Knorr Portal Gem
+805F0900:Gold Pea
+805F0903:Suikan Robe
+805F0902:Vissidal Island Portal Gem
+805F08FF:The Healer's Heart
+B4FE0EF8:Underminer Notes
+805F08FE:Trade Note (100,000)
+805F08FD:Copper Pea
+805F08FC:Salvager's Helm
+805F08FB:Trade Note (10,000)
+805F08FA:Trade Note (50,000)
+805F08F7:Pyreal Pea
+805F08F9:Trade Note (250,000)
+805F08F8:Trade Note (75,000)
+805F08F4:Blackmoor's Favor
+805F08F5:Asheron's Benediction
+805F08F3:Facility Hub Portal Gem
+B4E28F5E:Insatiable Eater Jaw
+805F08F1:Focusing Stone
+8D8BF011:Shoyanen's Portal Gem
+B0CA5289:Insatiable Eater Jaw
+805F08F0:Pack
+805F08EF:Enchanter's Gauntlets
+805F08EE:Life Giver's Gauntlets
+805F08ED:Elysa's Favor
+805F08EC:Elysa's Favor
+805F08E9:White Bunny Slippers
+805F08E8:Refulgent Bracelet
+805F08E4:Coronet
+805F08E3:Orb
+805F08E1:Bracelet of Dark Essence
+805F08E0:Chevron Cloak
+805F08DB:Adjanite Mana Stone
+805F08DE:Whispering Blade Chapterhouse Recall Orb
+805F08DC:Zefir's Crystal
+805F08DA:Ring of the Whispering Blade
+805F08B7:Nuhmudira's Bestowment of Quickness and Fire Defense
+B37445A0:Insatiable Eater Jaw
+805F08EB:Pants
+805F08EA:Tusker Island Shirt
+805F090A:Watcher Token
+AF8D7073:Chevron Cloak
+B36E7BD0:Quartered Cloak
+805F0898:Flaming Nekode
+805F08D4:Runic Helm of Knorr
+B4DB99FC:Jerkin
+805F0899:Gem
+805F08D9:Piercing Baton
+805F08CF:Sceptre
+B1F71140:Insatiable Eater Jaw
+805F08C2:Frost Baton
+805F08C0:Acid Sceptre
+90BCA81E:Insatiable Eater Jaw
+805F08BE:Electric Sceptre
+AF860E80:Insatiable Eater Jaw
+805F08DD:Insatiable Eater Jaw
+B3F3BE8E:Pack
+805F08E6:Insatiable Eater Jaw
+805F0897:Frost Long Sword
+805F08E7:Scroll of Heavy Weapon Mastery Other VII
+805F0893:Fire Sceptre
+805F08E2:Insatiable Eater Jaw
+8A3275C9:Insatiable Eater Jaw
+88FF3692:Blank Augmentation Gem
+805F08B2:Blank Augmentation Gem
+8C9243A2:Frost Baton
+805F0911:Ust
+805F0910:Jaleh's Necklace
+805F090F:Burun Soaked Soul Stone
+805F08D1:Taulandoi
+805F090D:Ultimate Singularity Scepter of War Magic
+805F08D8:Weeping Wand
+805F08CD:Ornate Gear Marker
+B3F9204F:Pack
+B3752524:Bracelet
+B36B4096:Heavy Bracelet
+805F08BF:Intricate Carving Tool
+B3E2E473:Gem of Stillness
+805F0913:A Small Mnemosyne
+805F08D5:Gem of Stillness
+9CBF1471:Stipend
+805EC7A0:Pocket Watch
+805EC79D:Corruptor's Crystal
+8102D1D2:Pyreal
+805EC7AB:Orb
+805EC7AA:Heavy Bracelet
+805EC75D:Splitting Tool
+805EC75F:Yellow Monster Seed
+805EC760:Orange Monster Seed
+805EC761:Red Monster Seed
+805EC755:Puzzle Box
+805EC756:Chevron Cloak
+805F08B9:Fiun Spellcasting Gloves
+805EC74B:Lace Shirt
+805EC74D:Suikan Creature Master Robe
+8102D12A:Lead Pea
+805F0892:Buadren
+8102D125:Hyssop
+805F08A7:Blank Augmentation Gem
+8D092601:Blank Augmentation Gem
+805F08A6:Blank Augmentation Gem
+8F2CCE9C:Blank Augmentation Gem
+805F0890:Blank Augmentation Gem
+8BD6A5CE:Blank Augmentation Gem
+8DD96C8A:Blank Augmentation Gem
+AE49B953:Ben Ten's Crystal
+B0B1E9EA:Oswald's Crystal
+8D6D231F:Smithy's Crystal
+8E4E4E7A:Ursuin's Pearl
+8A31A112:Lich's Pearl
+805F08A0:Pyreal
+B3F901A4:Pack
+805F08BB:Auroric Runic Helm
+805F08D6:Harbinger Arm Token
+805F08D7:Grand Mother's Medallion
+805F08D3:Mukkir Slayer Stone
+805F08D0:Energy Crystal
+805F08C1:Red Rune Slashing Silveran Wand
+805F08CC:A'nekshay Token
+805F08C8:Ruschk Iceberg Key
+805F08CA:Small Olthoi Venom Sac
+805F08C7:Runic Skull
+805F08CB:Colosseum Coin
+805F08C9:Ancient Mhoire Coin
+AEFA58DE:Rugged Gromnie Hide
+AF08D1CC:Rugged Gromnie Hide
+8E4B6B27:Piercing Staff
+805F08C3:Black Page of Salt and Ash
+B008E785:Trousers
+8C4B7783:Baggy Pants
+805EC75E:Ust
+805F0894:Aphus Lassel Portal Gem
+805F08BC:Ruschk Scalp
+805F0912:Aerfalle's Pallium
+805F090B:Splitting Tool
+B4CBF642:Major Mana Stone
+AFFC064E:Writ of Refuge
+805F08AB:Heavy Bracelet
+B4C8EC41:Major Mana Stone
+B4CF2481:Major Mana Stone
+B4F7F486:Mechanical Scarab
+805F090C:Saulandoi
+C7D935C1:Insatiable Eater Jaw
+C804603F:Berimphur Plant
+C7FE2E19:Gorget
+805EC790:Pocket Watch
+805EC79A:Acid Grievver Essence (125)
+805EC799:Helm of Gratitude
+805EC78F:Sack
+805EC7A4:Heavy Bracelet
+805EC7A3:Circlet
+805EC7A2:Heavy Bracelet
+805EC79C:Enchanter's Crystal
+805EC7B3:Heavy Bracelet
+B00A9612:Pyreal
+805EC7B1:Heavy Bracelet
+805EC7BE:Ring
+805EC7BD:Ring
+805EC7AC:Slashing Sceptre
+805EC7AF:Nether Sceptre
+8102D10F:Pyreal
+805EC765:Heavy Necklace
+805EC766:Covenant Helm
+805EC773:Ring
+805EC775:Heavy Bracelet
+805EC76C:Electric Baton
+8102D113:Pyreal
+805EC771:Ring
+805EC76E:Gorget
+805EC774:Heavy Bracelet
+805EC776:Glyph of Frost
+805EC772:Shirt
+89953638:Pyreal
+805EC769:Puzzle Box
+B35F9BFC:Puffy Shirt
+B35F94CF:Loose Breeches
+805EC753:Ring
+805EC744:Pack
+805EC74E:Suikan War Master Robe
+AFCE9636:Trousers
+805EC768:Chiran Gauntlets
+805EC76A:Olthoi Koujia Gauntlets
+805EC76F:Long  Gauntlets
+805EC749:Covenant Sollerets
+805EC746:Aphus Lassel Portal Gem
+805EC79F:Amuli Coat
+805EC7A1:Beret
+805EC7A7:Trimmed Cloak
+8102D10A:Pyreal Pea
+805EC7AD:Quartered Cloak
+8102D10B:Gold Pea
+8102D10C:Silver Pea
+805F0895:Blunt Sceptre
+
+Missing Exports - Possessed items that were not found:

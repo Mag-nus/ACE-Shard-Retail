@@ -1,0 +1,83 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\Callaway-January2017-Account2\pkt_2017-1-30_1485831406_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-06-2017\Callaway-January2017-Account2\pkt_2017-1-30_1485831406_log.pcap
+
+Partial Exports - Missing appraisal info:
+DCE4B2BB:Prismatic Taper
+DD0AF761:Blackmoor's Favor
+DD0F6C2C:Facility Hub Portal Gem
+DD16F696:Pyreal
+DD16A235:Pack
+DD16F7D1:Salvage
+DD16F7EA:Salvage
+DD16FB52:Pack
+DD16A282:Pack
+9E882CA3:Trade Note (250,000)
+CEC553A4:Trade Note (250,000)
+C3AE7674:Trade Note (250,000)
+B05C78F5:Trade Note (250,000)
+DCA72FC4:Yellow Jewel
+D1DB26EA:Trade Note (250,000)
+C3AE798D:Trade Note (250,000)
+A204BBD2:Muddy Towel
+CCB25836:Trade Note (250,000)
+C3AE798C:Trade Note (250,000)
+DC9E6EB0:Pyreal Mote
+9E83FEE6:Trade Note (250,000)
+CAD98EEF:Trade Note (250,000)
+DD159205:Blueprints for a Burun Fortress
+D42E0658:Trade Note (250,000)
+CAD98EF3:Trade Note (250,000)
+DD15A464:Morgluuk's Trophy Head
+D570BC5D:Trade Note (250,000)
+9E882CBE:Trade Note (250,000)
+DD0E26A9:Gelidite Dais
+D45E8892:Trade Note (250,000)
+C44A22D9:Trade Note (250,000)
+98CEAB89:Trade Note (250,000)
+C8B797B3:Trade Note (250,000)
+C203F412:Great Mattekar Horn
+DD14C5B6:Vanguard Leader's Amulet
+DD09BEC9:Mana Forge Key
+DD14C58B:Vanguard Leader's Crossbow
+88E4BF51:Minalim Plant
+DC250B06:Tumerok Priest's Key
+9EB4CC98:Encapsulated Spirit
+DD1E248C:Nanner Cream Pie
+8220C032:Salvage (100)
+8220C037:Salvage (100)
+905940F9:White Rabbit Carcass
+8220C02A:Salvage (100)
+8220C03A:Salvage (100)
+80376E74:Font of Jojii
+8220C02D:Salvage (100)
+8220C96B:Chainmail Gauntlets
+80279C17:Wallbound Niffis
+80C6EF56:Verdalim Plant
+9062CDE7:Pack Levistras
+804CB00C:Aluvian Leg
+8220B7EC:Treated Mandrake
+8220CE0B:Coffin
+803E738F:Inscription of Lightning Streak
+DD1B8287:Scholar's Crystal
+DD1A3583:Life Giver's Crystal
+DD0EBDF8:Superior Great Jack o' Lantern
+DD03A0D3:White Rabbit Girth
+DD0F60C4:Pyreal Sliver
+DD0F5BF1:Infused Blood Golem Heart
+DD02794A:Bone Crossbow
+DD026CF5:Bone Dagger
+DCEFA044:Bone Sword
+DD0F537D:Stone Hatchet
+DD0F51CB:Repugnant Melee Staff
+DD0F51DE:Stone Mace
+DD0285CE:Bone Bow
+DD0F51C9:Stone Spear
+DD0EC45A:Pyreal Mote
+CDE5A2FE:Trade Note (250,000)
+88752469:Trade Note (250,000)
+804B5C96:Skeletal Falatacot Key
+
+Missing Exports - Possessed items that were not found:

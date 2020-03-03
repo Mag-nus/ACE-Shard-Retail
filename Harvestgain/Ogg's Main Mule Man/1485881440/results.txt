@@ -1,0 +1,250 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ogg-Cave-Man-01-31-2017-PacketLogging\pkt_2017-1-31_1485879406_log.pcap
+
+Partial Exports - Missing appraisal info:
+806D7C2F:Tome
+806D7BF3:Pack
+806D7BF2:Cestus
+806C939C:Cestus
+806D7AF0:Katar
+8069E5EA:Cestus
+8069B0CB:Translated History Book
+806D7BEC:Cestus
+806D7C18:Katar
+80651362:Heavy Bracelet
+806D7C10:Cestus
+8069EA65:Katar
+806C87AC:Ring
+806D5C22:Cestus
+806D5BA6:Cestus
+805E9CB8:Brentsella's Key
+806C93AB:Katar
+806C93A4:Cestus
+80668551:Flaming Hammer
+806C6156:Cestus
+806C9276:Katar
+805CEF91:Pack
+806D7C2E:Nekode
+806D7C3F:Nekode
+806D7C34:Swamp Gem
+806D7C2B:Nekode
+806C92CB:Nekode
+806D7C35:Tart Apple
+80681A9C:Gem
+806856C7:
+806684F1:Alembic
+806846E5:Gem
+806D7C54:Superb Lockpick
+806D7C66:Excellent Lockpick
+80661C09:Key to Hamud's Chambers
+806D7C55:Key to Hamud's Chambers
+806D7C58:Key to Hamud's Chambers
+806D7C57:Key to Hamud's Chambers
+8062527A:Reliable Lockpick
+806C8808:Good Lockpick
+8066C4F7:Excellent Lockpick
+806C92E1:Acid Katar
+8A6E3AFF:Penguin
+8A64A86D:Olthoi Egg
+8A62EB5B:Knath'taed
+800BA2C2:Log Table
+800BA254:Scarecrow
+806C8822:Flaming Assagai
+8069B434:Slashing Bow
+80668008:Book
+80685C38:Fire Compound Bow
+806C92D6:Pack
+806C87FA:Pack
+806C92D2:Chalice
+806D7C64:Goblet
+8069B043:Stoup
+806711B8:Chalice
+8066BA77:Flagon
+8069A53C:Mug
+806628CC:Goblet
+80684583:Chalice
+806C7B25:Cup
+8067C23C:Tankard
+8068457B:Chalice
+8069B43A:Red Gem
+806C92D8:Goblet
+806C60AB:Goblet
+806C8324:Mug
+806C9123:Ornamental Bowl
+806C6C72:Dinner Plate
+8061D4BA:Pyreal
+8066BA09:Goblet
+806C92D3:Goblet
+8069B3AC:Chalice
+806C92D7:Chalice
+806C92D4:Dinner Plate
+806C742E:
+806C689B:Ornamental Bowl
+806C9121:Goblet
+806B5794:
+806C87F8:Dinner Plate
+806C87F9:Shirt
+8267C4DB:Olthoi
+8069A56B:Nekode
+80651475:Nekode
+8068579C:Ring
+80685D47:Light Crossbow
+8069B41C:Pack Asheron
+806C9323:Blackmoor's Favor
+806C93B2:Some Changes for February 2012
+806C9340:Bracelet
+806C93CF:Acid Takuba
+8067C519:Acid Bow
+806D7C65:Lorica Boots
+80685D67:Vagurat's Hand
+8069B2F8:Minor Item Tinkering Armature
+80688BB0:Bludgeoning Sword
+806C93DE:Club
+8069B497:Swamp Lord's War Paint
+80688B6E:Leerargh's Necklace
+806C9330:Ring
+80689376:Pack
+806C9332:Ring
+8069B394:The Eye of Drageerg
+806891E8:Top
+806F63A4:Acid Dagger
+8066BA62:Flaming Pike
+8068526C:Flaming Spadone
+8A6E3C97:Potion of Black Fire
+8069B240:Nodachi
+80684756:Frost Greataxe
+8A645B5B:Lesser Mana Kit
+805A7D3B:Corsesca
+805C639A:Flaming Nodachi
+8A6AB2D8:Lesser Mana Kit
+800BA275:Small Pine Tree
+806F63A2:Acid Assagai
+806F63A3:Frost Nodachi
+8267C4D9:Gearknight
+806F63A5:Ring
+806F63A6:Bordered Cloak
+806F63A7:Ring
+806F63A8:Frost Baton
+8A6E3C2C:Stout Lugian Ale
+8A6E3BD7:Thick Lugian Stew
+8A6E3B8B:Antiquated Compass
+806B5A90:Pack
+805FB423:Katar
+8069B39F:Verdalim Plant
+806B5B15:Salvage (100)
+806C8823:Medicated Health Kit
+806098F5:White Virindi Wand
+806C93C9:Flared Shirt
+8267C4D8:Cow
+806C9277:Knife
+8069B4B9:Warrior's Crystal
+8267C4D7:Olthoi
+8063F0FF:Resister's Crystal
+806C87EC:Thorsten's Crystal
+80698932:Corruptor's Crystal
+80667117:Vaulter's Crystal
+806C87FD:Oswald's Crystal
+806D6545:T'ing's Crystal
+800BA257:Treated Wood
+806528E7:Fletcher's Crystal
+8A6AF0DD:Turquoise Winged Helmet
+8267C4D6:Statue
+8A6DC774:Turquoise Winged Helmet
+8A68E23B:Turquoise Winged Helmet
+8A6DC6A4:Dusky Winged Coat
+8A6DBA8D:Pack Golem
+8A6AAEBE:Pack Golem
+8267C4DA:Candy Corn
+8A6DB563:Lesser Mana Kit
+8A6AA5CD:Renegade Herbal Kit
+8069B48D:Small Belt Pouch
+8069EA2E:Blunt Atlatl
+80685203:Quest Weapon Coin
+805CFB36:Bracelet
+806C61B8:Lightning Flanged Mace
+8067DC80:Ring
+8A6A61E5:Renegade Herbal Kit
+80689082:Blunt Bow
+806846D4:Wrapped Bundle of Olthoi Acid Arrowheads
+8A6DBA9D:Renegade Herbal Kit
+8A655737:Renegade Herbal Kit
+8A669F51:Vesayen Style Fried Olthoi Egg
+8267C501:Pristine Mana Shard
+8A609C8D:Adjanite Mana Stone
+8957E40E:I survived the Tusker Emporium
+800BA276:Pack Drudge
+8267C57B:Yoroi Tassets
+894CF3C0:Carved Tusker Statue
+8267C4D4:Carenzi
+894F829B:Carved Tusker Statue
+8267C4D1:Gearknight
+8267C579:Kote
+8267C556:Mana Forge Key
+8267C55F:Braced Mana Forge Key
+8267C559:Strengthened Mana Forge Key
+8267C4D3:Renegade Herbal Kit
+8267C527:Mana Forge Key
+8267C525:Tipped Pack Cow
+8267C511:Renegade Herbal Kit
+8267C512:Renegade Herbal Kit
+8267C510:Lesser Mana Kit
+8267C50E:Renegade Herbal Kit
+8267C50C:Pack Golem
+8267C50B:Lesser Mana Kit
+8267C509:Priceless Ore
+8267C500:Lesser Stamina Kit
+8267C4FF:Lesser Stamina Kit
+8267C4DC:Renegade Herbal Kit
+8267C4DF:Cloth Gloves
+8267C4CE:Lugian
+8267C4CD:Scarecrow
+8267C4CC:Undead
+8267C4CB:Candy Corn
+8267C4D2:Pack Drudge
+806C92E4:Nekode
+8267C4D0:Pack Drudge
+BE2F391E:Leather Cowl
+8267C4CF:Pack Drudge
+BD263CE2:Circlet
+BE376630:Haebrean Boots
+BE393439:Studded Leather Tassets
+BE34CD6B:Olthoi Alduressa Leggings
+BE21948E:Dagger
+BE32FD1E:Celdon Girth
+C534F388:Stipend
+BE27BFDD:Acid Flanged Mace
+BE2F3FEA:Amuli Coat
+BE2D16E8:Studded Leather Sleeves
+BD113A19:Alduressa Leggings
+BD152607:Chainmail Sleeves
+BD2D4F24:Lorica Leggings
+BD4F05D9:Studded Leather Boots
+BD158342:Tenassa Leggings
+C5374BC8:Promissory Note
+BD191492:Empyrean Over-robe
+BD42B8A9:Scalemail Hauberk
+BD493614:Leather Boots
+BD4E4036:Amuli Leggings
+BD0DEFA4:Olthoi Alduressa Helm
+BD5E70F5:Studded Leather Tassets
+BD48CA9C:Platemail Hauberk
+BCFBE046:Crown
+BD061BE9:Alduressa Coat
+BD465E2A:Empyrean Over-robe
+BD037CE7:Nariyid Leggings
+8011645C:Shou-jen Shozoku Mask
+BD4DF5F2:Lightning Hammer
+BD56C1CB:Yoroi Cuirass
+BD4223D2:Studded Leather Shirt
+BD42C2F7:Olthoi Celdon Gauntlets
+BD395AF5:Studded Leather Pauldrons
+BD42B8EF:Chainmail Girth
+BD1499A3:Chainmail Greaves
+BD17AF86:Lorica Boots
+BD15C285:Teardrop Crown
+BD075D52:Leather Pauldrons
+BD075EBD:Lorica Gauntlets
+BD08DA3F:Morning Star
+BD58E64D:Dirk
+
+Missing Exports - Possessed items that were not found:

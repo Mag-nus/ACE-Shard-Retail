@@ -1,0 +1,70 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\pkt_2017-1-24_1485307411_log\pkt_2017-1-24_1485307411_log.pcap
+
+Partial Exports - Missing appraisal info:
+AE7C1A11:Pyreal
+AE7C19F8:Loose Tunic
+AE7C19F9:Flared Pants
+AE7C19FD:Library Key
+AE7C19FA:Pack
+AE7C19FB:Pack
+AE7C19FC:Powdered Lapis Lazuli Pea
+AE7C19FE:A Book of Quests for Young Explorers
+AE7C19FF:Yanshi Information Guide
+AE7C1A00:Thank You Note
+AE7C1A01:Thank You Note
+AE7C1A02:Thank You Note
+AE7C1A03:Thank You Note
+AE7C1A04:Thank You Note
+AE7C1A05:Thank You Note
+AE7C1A06:Thank You Note
+AE7C1A07:Thank You Note
+AE7C1A08:Thank You Note
+AE7C1A09:Thank You Note
+AE7C1A0A:Thank You Note
+AE7C1A0B:Powdered Hematite
+AE7C1A0C:Hyssop
+AE7C1A0D:Powdered Moonstone
+AE7C1A0E:Leather Gauntlets
+AE7C1A1B:Wood Heart
+AE7C1A0F:Turpeth
+AE7C1A10:Mana Beef Stew
+AE7C1A12:Rowan Talisman
+AE7C1A13:Realgar
+AE7C1A14:Lead Scarab
+AE7C1A15:Poplar Talisman
+AE7C1A16:Pack
+AE7C1A17:Pack
+AE7C1A18:Copper Heart
+AE7C1A19:Copper Heart
+AE7C1A1A:Copper Heart
+AE7C1A1C:Olthoi Head
+AE7C1A1D:Vial of Verdalim Dye
+AE7C1A1E:Seal
+AE7C1A1F:Seal
+AE7C1A20:Seal
+AE7C1A21:Wood Heart
+AE7C1A22:Cookie
+AE7C1A23:Hearty Mana Green Tea Ice Cream
+AE7C1A24:Red Wine
+AE7C1A25:Swamp Stone
+AE7C1A26:Old Scarlet Red Letter
+AE7C1A27:Sho Wand
+AE7C1A28:Pack
+AE7C1A29:Yari
+AE7C1A2A:Rapier
+AE7C1A2B:White Virindi Wand
+AE7C1A2C:Staff
+AE7C1A2D:Staff
+AE7C1A30:Tower Shield
+AE7C1A2E:Horned Helm
+AE7C1A2F:Clean, Dry Towel
+AE7C1A31:Kote
+AE7C1A32:Yoroi Pauldrons
+AE7C1A33:Yoroi Breastplate
+AE7C1A35:Pack Asheron
+AE7C1A34:Amuli Leggings
+AE7C1A36:Some Changes for February 2012
+AE7C1A37:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

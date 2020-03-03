@@ -1,0 +1,62 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485839341_log.pcap
+
+Partial Exports - Missing appraisal info:
+9197BECD:Pack
+9197BDD7:Treated Healing Kit
+9197BDD6:Treated Healing Kit
+918EE123:Treated Healing Kit
+9197B533:Treated Healing Kit
+91960667:Treated Healing Kit
+9197BDDB:Treated Healing Kit
+9192A40A:Treated Healing Kit
+9196EE2D:Stamina Elixir
+9197BF10:Hearty Healing Cake
+9196EC69:Treated Healing Kit
+91960C23:Treated Healing Kit
+9197BD82:Treated Healing Kit
+9197BD83:Pack
+9197BD84:Faran Robe with Hood
+9197BD85:Faran Robe with Hood
+9197BD86:Faran Robe with Hood
+9197BD69:Pyreal
+9197BD87:Kireth Gown with Band
+9196E155:Greater Mana Stone
+9197B540:Pack
+9197B541:Bundle of Deadly Lightning Arrowheads
+9197B542:Bundle of Deadly Blunt Arrowheads
+9197B53F:Wrapped Bundle of Deadly Fire Arrowheads
+9197B545:Whittling Knife
+9197B544:Deadly Fire Arrow
+9197BE50:Wrapped Bundle of Deadly Armor Piercing Arrowheads
+9197B548:Deadly Frost Arrow
+9192B53B:Pack
+9192A413:Gold Scarab
+9196EE5A:Lead Scarab
+9196E86E:Iron Scarab
+9197BF2B:Copper Scarab
+9197BE8D:Silver Scarab
+9197BEA2:Pyreal Scarab
+9197B54D:Prismatic Taper
+9197B54E:Diamond Scarab
+9197B54F:Pack
+9197B54C:Ring
+9197BED7:Gorget
+9196EE70:Shoyanen's Portal Gem
+9196E252:Shoyanen's Portal Gem
+9197BD7F:Shoyanen's Portal Gem
+917DCDCC:Heavy Necklace
+9197A3E7:Pouch of Dried Meat
+9197B556:Foci of Artifice
+9197B557:Foci of Verdancy
+9197BF02:Pouch of Dried Meat
+9197BEAD:Hearty Mana Green Tea Ice Cream
+9196E253:Greater Mana Stone
+9196AE69:Ashbane
+9197BDD4:Mana Elixir
+9196EE7C:Stamina Elixir
+9197BF39:Health Elixir
+9197BF0E:Some Changes for February 2012
+9197BF27:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

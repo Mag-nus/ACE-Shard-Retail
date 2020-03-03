@@ -1,0 +1,135 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-28_1485591058_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485766492_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-26_1485461087_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-27_1485515049_log.pcap
+
+Partial Exports - Missing appraisal info:
+80195325:Blackmoor's Favor
+8019A3AE:Ust
+8014498C:Facility Hub Portal Gem
+80165282:Iron Scarab
+801952E6:Fire Spine Glaive
+8018D4FC:Pyreal Scarab
+801947FC:Gold Scarab
+8015EAD7:Lead Scarab
+8018C8D9:Silver Scarab
+8010FF09:Copper Scarab
+801448DB:Shoyanen's Portal Gem
+80173779:Aphus Lassel Portal Gem
+C81981A3:Stipend
+8019A52A:Dansha-Ki's Gem of Portal Recall
+8011906E:Prismatic Taper
+80163D18:Splitting Tool
+801849A7:Foci of Artifice
+801A9B3C:Compass
+80583052:Compass
+801C475B:Compass
+8E997E54:Electric Bow
+8C92438D:Electric Compound Bow
+91681FB2:Fire Bow
+B6698076:Frost Bow
+8EEC7D82:Mechanical Scarab
+801AA489:Messenger's Collar
+801B0BFE:Pocket Watch
+B66B4802:Goggles
+8100918E:Mechanical Scarab
+8058305F:Top
+801A9B4D:Top
+801A9716:Top
+B3D3E45C:Top
+B51E693F:Acid Moar Essence (100)
+B60F5E85:Lightning Wisp Essence (150)
+801A9182:Top
+801A92A6:Top
+801AEF4E:Top
+B49B3C31:Salvage
+8101F1E5:Darling's Collar
+8018B652:Messenger's Collar
+801AF026:Renegade Pendant
+811D27CF:Concentrated Aqua Incanta
+811D27DA:Covenant Pauldrons
+811D27D5:Breeches
+801A9640:Pristine Mana Shard
+811D27E1:Electric Bow
+811D27E5:Frost Bow
+811D27E4:Composite Bow with Handle
+811D27E2:Longbow
+80180D8B:Salvage (54)
+8101F1D2:Fire Compound Bow
+B1DA1A3D:Salvage (100)
+B4879D8A:Salvage (100)
+B1D0267A:Salvage (100)
+B1A8489A:Salvage (100)
+AFDC6139:Salvage (100)
+AFDC9F70:Salvage (100)
+AFFC02FD:Salvage (100)
+811D2790:Salvaged  (100)
+910560AE:Heavy Necklace
+801A9B23:Heavy Necklace
+8ABEE40E:Amulet
+801AF02F:Heavy Necklace
+801A4863:Heavy Necklace
+801A9638:Amulet
+801AA287:Heavy Necklace
+8102D7D0:Amulet
+801A92BB:Heavy Necklace
+B5C784D7:Amulet
+801A9281:Necklace
+B4F7B230:Heavy Necklace
+B66B67CF:Heavy Necklace
+801952AF:Heavy Necklace
+8101F1E8:Gorget
+B707B449:Heavy Necklace
+801ADB65:Heavy Necklace
+B66DDD69:Loafers
+801AF00B:Heavy Necklace
+801AA441:Heavy Necklace
+801AABCD:Mechanical Scarab
+B771A939:Puzzle Box
+8100B9DD:Heavy Bracelet
+B48873FA:Long Sword
+B4567CFA:Nabut
+B673F649:Pack Scarecrow
+B6750BB6:Flared Pants
+B661C915:Baggy Pants
+B666A8DB:Crown
+B672508B:Nabut
+B66B65CB:Olthoi Shield
+B66823D5:Olthoi Celdon Sollerets
+801A96E6:Doublet
+B6675416:Olthoi Alduressa Boots
+B6714BC4:Kote
+B65C606A:Cloth Cap
+B66ACD51:Chainmail Greaves
+B35FA20E:Diadem
+801A9B51:Shirt
+8018D636:Leather Greaves
+801446A8:Knorr Academy Gauntlets
+801A5C14:Gorget
+B17F9717:Diadem
+801AB37C:Chevron Cloak
+801A92AE:Diforsa Pauldrons
+801A92BC:Shirt
+801A9276:Circlet
+801A928F:Intricate Carving Tool
+811D6709:Salvaged  (100)
+801A92B6:Oswald's Crystal
+B722AF4E:Heavy Bracelet
+8F543D1B:Salvage
+B3E6DA0C:Large Kite Shield
+B6601529:Cloth Gloves
+8ADD7AA6:Round Shield
+801A9277:Coronet
+801A9736:Cloth Gloves
+801A973B:Kasa
+B4B1692F:Amulet
+801A9739:Tenassa Breastplate
+B7BFDE14:Chiran Helm
+B7C0B45F:Puffy Shirt
+B664C63C:Studded Leather Greaves
+801AB376:Compass
+
+Missing Exports - Possessed items that were not found:

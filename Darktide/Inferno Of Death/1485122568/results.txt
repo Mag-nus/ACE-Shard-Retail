@@ -1,0 +1,116 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-22_1485122558_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-22_1485116155_log.pcap
+
+Partial Exports - Missing appraisal info:
+D7EDE02F:Pyreal
+D7ECE597:Cloth Cap
+D7EEA200:Baggy Shirt
+D7EDDF39:Shoes
+D7EDDF4B:Trousers
+D7EA31E9:Quicksilver
+D7F380A8:Bread
+D7EDE012:Powdered Turquoise
+D7EDDF53:Stibnite
+D7EDDF16:Ashwood Talisman
+D7EDDF67:Vitriol
+D7EDDF98:Yew Talisman
+D7EBD21E:Cedar Talisman
+D7EDDF9B:Hyssop
+D7EDDFE2:Powdered Amber
+D7EDE048:Willow Talisman
+D7E85028:Colcothar
+D7EDDF00:Cobalt
+D7EDDEEB:Ebony Talisman
+D7EDDF9E:Great Mana Charge
+D7EEA1BE:Great Mana Charge
+D7EDDFBD:Great Mana Charge
+D7EDDF71:Buckler
+D7EEA1CB:Great Mana Charge
+D7EDDF93:Scalemail Hauberk
+D7EDE03D:Trade Note (50,000)
+D7EDDF72:Chainmail Shirt
+D7EDDFAF:Calling Stone
+D7ECE599:A Crumpled Note
+D7EDDFDC:Red Taper
+D7EDD5CC:Orange Taper
+D7EDE00A:Pink Taper
+D7EDE00E:Blue Taper
+D7EDDFDD:Green Taper
+D7EDE006:Scroll of Mana Renewal Other IV
+D7EDDFED:Scroll of Magic Item Tinkering Expertise Self IV
+D7EDDFC6:Scroll of Sprint Self IV
+D7EDDF4A:Amulet
+D7EDDFE1:Wand
+D7EDE005:Treated Healing Kit
+D7EDDF9D:Treated Healing Kit
+D7EDDFD5:Treated Healing Kit
+D7EDE023:Treated Healing Kit
+D7EDE0DF:A Ring of Acid Protection
+D7EDDF91:Treated Healing Kit
+D7EDDFB5:Treated Healing Kit
+D7EDCE22:Chainmail Gauntlets
+D7EBCB8B:Suikan Robe
+D7EDDFF5:Fenmalain Key
+D7EDDF69:Studded Leather Cowl
+D7EDE00B:Gloves
+D7EDDF6C:Ring
+D7EDE015:Ring
+D7EDDF8D:Wand
+D7EDDF7A:Old Lucky Gold Letter
+D7EDDEE9:Health Infusion
+D7EDDF59:Old Lucky Gold Letter
+D7EDE01A:Old Scarlet Red Letter
+D7EDA26E:Flaming Katar
+D7EDDFF1:Jack o' Lantern
+D7EDDF57:Treated Healing Kit
+D7EDDFA9:Treated Healing Kit
+D7EDE07D:Treated Healing Kit
+D7EDE00C:Treated Healing Kit
+D7EDE016:Treated Healing Kit
+D7EDDF8C:Treated Healing Kit
+D7EDDFC9:Treated Healing Kit
+D7EDE01F:Treated Healing Kit
+D7EDDFAA:Treated Healing Kit
+D7EDDFBC:Treated Healing Kit
+D7EDDF9F:Treated Healing Kit
+D7EC130E:Treated Healing Kit
+D7EDDFF3:Treated Healing Kit
+D7EBDA1C:Treated Healing Kit
+D7EDDFEB:Treated Healing Kit
+D7EDDFCD:Treated Healing Kit
+D7EDDFB3:Frost Nekode
+D7EDDF49:Great Mana Charge
+D7EDDFC5:Scroll of Alchemy Mastery Other VI
+D7EDDFA7:Scroll of Leadership Ineptitude VI
+D7EDE135:Scroll of Light Weapon Mastery Self VI
+D7EDDF82:Scroll of Person Attunement Self VI
+D7EDDF31:Scroll of Bludgeon Lure VI
+D7EDDFD8:Aura of Hermetic Link Self VI
+D7EDE037:Scroll of Light Weapon Mastery Self VI
+D7EDE051:Academy Stamina Potion
+D7EDDFB1:Scroll of Light Weapon Ineptitude Other VI
+D7EDDFA1:Scroll of Arcane Benightedness VI
+D7EDE05B:Great Mana Charge
+D7ECDF38:Great Mana Charge
+D7EDE00D:Relanim Plant
+D7EDE025:Chainmail Gauntlets
+D7EDDFB2:Great Mana Charge
+D7EDDFEA:Great Mana Charge
+D7EDDF80:Treated Healing Kit
+D7EDDFF6:Platemail Cuirass
+D7EDE047:Katar
+D7EDE013:Scroll of Revitalize Other VI
+D7EDDF8B:Virindi Implant
+D7EDDFCF:Intricate Carving Tool
+D7EDDFB8:Intricate Carving Tool
+D7EE7E06:Pack Bael'Zharon
+D7EDE06A:Tunic
+D7EDE01C:Intricate Carving Tool
+D7EDE09B:Intricate Carving Tool
+D7EDE091:Intricate Carving Tool
+D7EDE050:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

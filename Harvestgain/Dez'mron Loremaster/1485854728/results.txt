@@ -1,0 +1,104 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\AC-Packet-Captures\AC Packet Captures\pkt_2017-1-31_1485854720_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-06-2017\AC-Packet-Captures\AC Packet Captures\pkt_2017-1-28_1485658926_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\AC-Packet-Captures\AC Packet Captures\pkt_2017-1-28_1485658926_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\AC-Packet-Captures\AC Packet Captures\pkt_2017-1-28_1485658926_log.pcap
+
+Partial Exports - Missing appraisal info:
+92B6A247:Pyreal
+92B6A5B4:Prismatic Taper
+929C7CE2:Lead Scarab
+92B66C3E:Ust
+92BBF5B9:Training Wand
+92BBF5B2:Floating Candle
+92BBF5B1:Floating Candle
+92BBF5B4:Tusker Mask
+92BB154C:Drudge Mask
+92B7164F:Skull Mask
+92BBF5A8:Festival Shirt
+92BBF5A7:Drudge Mask
+92BBF5A9:Skull Mask
+92BBF5A4:Skull Mask
+92BBF5A3:Zombie Mask
+92BBF5A2:Chocolate Gromnie
+92BBF5A5:Gummy Golem
+92BC2E07:Caramel Kukuur
+92B69C0E:Rock Candy Knath
+92B6A51F:Mistletoe
+92B66B85:Holiday Present
+92BC2DDE:Pack Burun Kukuur
+92B70235:Licorice Rat
+92B485AC:Rock Candy Knath
+92B716AA:Gummy Golem
+92BC2DE7:Rock Candy Knath
+92BC2DE5:Licorice Rat
+92B67943:Caramel Kukuur
+92B6A4C8:Licorice Rat
+92BC2E10:Caramel Kukuur
+92BB1553:Licorice Rat
+92B28156:Chocolate Gromnie
+92BC2DC8:Licorice Rat
+92BBF63A:Chocolate Gromnie
+92BC2DE9:Licorice Rat
+92B66C2A:Gummy Ghoul
+92BC2603:Licorice Rat
+92B66AFF:Rock Candy Knath
+92B48407:Gummy Golem
+92AF4BAE:Caramel Kukuur
+92BC2DD2:Candy Corn
+92BC2DD3:Chocolate Gromnie
+92BC2DD4:Caramel Kukuur
+92AFBE58:Licorice Rat
+92B67A1F:Chocolate Gromnie
+92BB1506:Chocolate Gromnie
+92BC2E1A:Plate Armoredillo Punisher Plaque
+92B64D4D:Shadow Stone Necklace
+92B68D86:Chef's Hat
+92BC2E00:Skeletal Arm
+92B64C16:A Portal-Jumper's Guide to Dereth
+92B63D94:Candeth Keep Stamp
+92B644CF:Blue Orb
+92B4201F:Clean, Dry Towel
+92B34324:Wet Towel
+92B58487:Globe of Auberean
+92B62792:Gelidite Dais
+92B27177:Channeling Bone Sword
+92AFBD72:Frozen Weeping Sword
+92B474CA:Acidic Weeping Sword
+92B5F1C6:Scribe's Quill
+92B9B539:Scribe's Quill
+92B62A54:Peculiar Old Dagger
+92BC2DEB:Shield of Truth
+92B71AAA:Blue Empyrean Ring
+92B71AA5:White Empyrean Ring
+92BC2DF5:Red Empyrean Ring
+92BC2DFE:Armored Undead Legs
+92BC2DFF:Armored Undead Legs
+92BC2E01:Undead Arm
+92B9AB2D:Scarecrow Torso
+9249A956:Bats
+92BC2832:Scarecrow Torso
+92BC2E02:Golden Gromnie
+92BC2E05:Golden Pumpkin
+92BC2E06:Pack Drudge
+92B64CAA:Pack Drudge
+92BC2708:Blighted Sword
+92BBF8B0:Stupid Jack o' Lantern
+92B46626:Puzzled Jack o' Lantern
+92B71A9F:Scared Jack o' Lantern
+92BC2E08:Evil Jack o' Lantern
+92B614C7:Poofy Snowball
+92BC2DB4:Mana-infused Acid War Staff of Aerfalle
+92B3431D:Weapon Tailoring Kit
+C7CEABF5:Durable Legendary Key
+92BC7EA9:Vial of Thananim Dye
+92B7DCF7:Blooded Platinum Invader Lord Helm
+802D84DC:Condensed Dispel Potion
+802D84E0:Neutral Balm
+802D84DF:Condensed Dispel Potion
+BFA85EE9:Observer's Crystal
+BFA8615E:Glyph of Slashing
+
+Missing Exports - Possessed items that were not found:

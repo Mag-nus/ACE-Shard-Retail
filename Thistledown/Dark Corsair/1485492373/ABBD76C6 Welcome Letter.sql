@@ -1,0 +1,38 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (2881320646, 1077, 8, 2150720) /* Book */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (2881320646,   1,       8192) /* ItemType - Writable */
+     , (2881320646,   5,         25) /* EncumbranceVal */
+     , (2881320646,  16,          8) /* ItemUseable - Contained */
+     , (2881320646,  65,        101) /* Placement - Resting */
+     , (2881320646,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (2881320646, 9015,          4) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (2881320646,   1, False) /* Stuck */
+     , (2881320646,  11, True ) /* IgnoreCollisions */
+     , (2881320646,  13, True ) /* Ethereal */
+     , (2881320646,  14, True ) /* GravityStatus */
+     , (2881320646,  19, True ) /* Attackable */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (2881320646,  39, 1.22000002861023) /* DefaultScale */
+     , (2881320646,  54, 0.200000002980232) /* UseRadius */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (2881320646,   1, 'Welcome Letter') /* Name */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (2881320646,   1,   33554773) /* Setup */
+     , (2881320646,   3,  536870932) /* SoundTable */
+     , (2881320646,   8,  100672431) /* Icon */
+     , (2881320646,  22,  872415275) /* PhysicsEffectTable */
+     , (2881320646, 8001,    2113584) /* PCAPRecordedWeenieHeader - Usable, UseRadius, Container, Burden */
+     , (2881320646, 8003,        272) /* PCAPRecordedObjectDesc - Attackable, Book */
+     , (2881320646, 8005,     137345) /* PCAPRecordedPhysicsDesc - CSetup, ObjScale, STable, PeTable, AnimationFrame */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (2881320646,   1, 1342921671) /* Owner */
+     , (2881320646,   2, 1342921671) /* Container */
+     , (2881320646, 8000, 2881320646) /* PCAPRecordedObjectIID */;

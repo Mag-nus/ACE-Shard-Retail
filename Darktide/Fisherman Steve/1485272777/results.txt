@@ -1,0 +1,89 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-24_1485272701_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-24_1485276848_log.pcap
+
+Partial Exports - Missing appraisal info:
+D81E57A7:Ust
+D81E57AB:Sack
+D81E57A8:Foci of Artifice
+D81E57A9:Foci of Verdancy
+D81E57AA:Academy Wand
+D81E57AC:Excellent Healing Kit
+D81E57AD:Adept Healing Kit
+D81E57AE:Gifted Healing Kit
+D81E57AF:Treated Healing Kit
+D81E57B0:Treated Healing Kit
+D81E57B1:Treated Healing Kit
+D81E57B2:Treated Healing Kit
+D81E57B3:Gifted Healing Kit
+D81E57B4:Treated Healing Kit
+D81E57B5:Excellent Lockpick
+D81E57B6:Good Lockpick
+D81E57B7:Excellent Lockpick
+D81E57B8:Excellent Lockpick
+D81E57B9:Copper Scarab
+D81E57BA:Prismatic Taper
+D81E57BB:Silver Scarab
+D81E57BC:Iron Scarab
+D81E57BD:Lead Scarab
+D81E57BE:Pack
+D81E57BF:Studded  Coat
+D81E57D7:Pyreal
+D81E57C0:Jerkin
+D81E57C1:Bandana
+D81E57CA:An Unlocked Small Mnemosyne
+D81E57C2:Shoes
+D81E57C3:Circlet
+D81E57C4:Sollerets
+D81E57C5:Crown
+D81E57C6:Ring
+D81E57C7:Gloves
+D81E57C8:Steel Toed Boots
+D81E57C9:Leather Jerkin
+D81E57CB:Master Key
+D81E57CC:Master Key
+D81E57CD:Master Key
+D81E57CE:Foci of Enchantment
+D81E57CF:An Unlocked Large Mnemosyne
+D81E57D0:An Unlocked Large Mnemosyne
+D81E57D1:An Unlocked Large Mnemosyne
+D81E57D2:Peerless Lockpick
+D81E57D3:Health Tincture
+D81E57D4:Fire Trident
+D81E57D5:Trident
+D81E57D6:Health Elixir
+D81E57D8:Master Key
+D81E57DA:Pyreal
+D81E57DB:Ravener Guts
+D81E57DC:Steel Toed Boots
+D81E57DD:Scroll of Ilservian's Flame
+D81E57DE:Excellent Healing Kit
+D81E57DF:Chainmail Breastplate
+D81E57E0:Pack
+D81E57E1:Blackmoor's Favor
+D81E57E2:Treated Healing Kit
+D81E57E3:Treated Healing Kit
+D81E57E4:Treated Healing Kit
+D81E57E5:Scroll of Brogard's Defiance
+D81E57E6:Amuli Coat
+D81E57E7:Pack
+D81E57E9:Tenassa Leggings
+D81E57EA:Wand
+D81E57EB:Wand
+D81E57EC:Wand
+D81E57F0:Sceptre
+D81E57F1:Flared Shirt
+D81E57F3:Cask
+D81E57F2:Loose Pants
+D81E57F4:Fire Trident
+D81E57FC:Some Changes for February 2012
+D81E57F6:Amuli Coat
+D81E57F7:Pathwarden Sollerets
+D81E57F8:Pathwarden Gauntlets
+D81E57FA:Staff
+D81E57F9:Pathwarden Helm
+D81E57FE:Buckler
+
+Missing Exports - Possessed items that were not found:

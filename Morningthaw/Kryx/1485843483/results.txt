@@ -1,0 +1,51 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\pkt_2017-1-30_1485843220_desc\pkt_2017-1-30_1485843426_log.pcap
+
+Partial Exports - Missing appraisal info:
+C6C69DD4:Powdered Moonstone
+C6C69DD5:Poplar Talisman
+C6C69DD6:Lead Scarab
+C6C69DD7:Hyssop
+C6C69DD8:Powdered Hematite
+C6C69DD9:Realgar
+C6C69DDA:Rowan Talisman
+C6C69DDB:Sack
+C6C69DDC:Holtburg Town Stamp
+C6C69DDD:Holtburg Information Guide
+C6C69DDE:A Book of Quests for Young Explorers
+C6C69DDF:Tumerok Key
+C6C69DE0:Trade Note (500)
+C6C69DE1:Studded Leather Boots
+C6C69DE2:Shirt
+C6C69DF0:Gem
+C6C69DE3:Chainmail Gauntlets
+C6C69DE4:Wormwood
+C6C69DE6:Lead Scarab
+C6C69DE5:Chainmail Leggings
+C6C69DE7:Lead Scarab
+C6C69DE8:Lead Scarab
+C6C69DE9:Powdered Moonstone
+C6C69DEA:Vitriol
+C6C69DEB:Rowan Talisman
+C6C69DEC:Powdered Hematite
+C6C69DED:Realgar
+C6C69DF5:Adept Healing Kit
+C6C69DEE:Chainmail Basinet
+C6C69DEF:Chainmail Hauberk
+C6C69DFB:Pyreal
+C6C69DF1:Mandrake
+C6C69DF2:Ginseng
+C6C69DF8:Cheese
+C6C69DF3:Trade Note (100)
+C6C69DF4:Hawthorn
+C6C69DF6:Trade Note (100)
+C6C69DF7:Bundle of Quarrelshafts
+C6C69DF9:Large Kite Shield
+C6C69DFA:Aluvian Wand
+C6C69DFC:Pack Scarecrow
+C6C69DFD:Dagger
+C6C69DFE:Pack Bael'Zharon
+C6C69DFF:Some Changes for February 2012
+C6C69E00:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

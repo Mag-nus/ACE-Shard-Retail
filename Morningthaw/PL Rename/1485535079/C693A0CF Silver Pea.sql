@@ -1,0 +1,50 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (3331563727, 8331, 32, 6476097) /* SpellComponent */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (3331563727,   1,       4096) /* ItemType - SpellComponents */
+     , (3331563727,   5,         10) /* EncumbranceVal */
+     , (3331563727,  11,        100) /* MaxStackSize */
+     , (3331563727,  12,          1) /* StackSize */
+     , (3331563727,  16,          1) /* ItemUseable - No */
+     , (3331563727,  19,      12500) /* Value */
+     , (3331563727,  65,        101) /* Placement - Resting */
+     , (3331563727,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (3331563727, 9015,         15) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (3331563727,   1, False) /* Stuck */
+     , (3331563727,  11, True ) /* IgnoreCollisions */
+     , (3331563727,  13, True ) /* Ethereal */
+     , (3331563727,  14, True ) /* GravityStatus */
+     , (3331563727,  19, True ) /* Attackable */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (3331563727,  39, 0.330000013113022) /* DefaultScale */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (3331563727,   1, 'Silver Pea') /* Name */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (3331563727,   1,   33555211) /* Setup */
+     , (3331563727,   3,  536870932) /* SoundTable */
+     , (3331563727,   6,   67111919) /* PaletteBase */
+     , (3331563727,   8,  100671085) /* Icon */
+     , (3331563727,  22,  872415275) /* PhysicsEffectTable */
+     , (3331563727, 8001,    2125848) /* PCAPRecordedWeenieHeader - Value, Usable, StackSize, MaxStackSize, Container, Burden */
+     , (3331563727, 8003,         16) /* PCAPRecordedObjectDesc - Attackable */
+     , (3331563727, 8005,     137345) /* PCAPRecordedPhysicsDesc - CSetup, ObjScale, STable, PeTable, AnimationFrame */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (3331563727,   1, 1343109067) /* Owner */
+     , (3331563727,   2, 1343109067) /* Container */
+     , (3331563727, 8000, 3331563727) /* PCAPRecordedObjectIID */;
+
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
+VALUES (3331563727, 67111922, 0, 0);
+
+INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
+VALUES (3331563727, 0, 83890047, 83890047, 0);
+
+INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, `order`)
+VALUES (3331563727, 0, 16780734, 0);

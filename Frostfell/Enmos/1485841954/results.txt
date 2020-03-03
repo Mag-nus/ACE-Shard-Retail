@@ -1,0 +1,141 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485841816_log.pcap
+
+Partial Exports - Missing appraisal info:
+B3BBDB81:Pathwarden Trinket
+B3BBDB82:Pack
+B3BBDB7D:Ust
+B3BBDB83:Silver Scarab
+B3BBDB84:Copper Scarab
+B3BBDB86:Pyreal Scarab
+B4454660:Gold Scarab
+B44335CC:Platinum Scarab
+B4454D03:Silver Scarab
+B5694B9D:Black Market Gem of Dispelling
+B3BBDBB0:Stipend
+B3BBDB8F:Adventurer's Token
+B547634D:Aetherium-infused Gear
+B547634A:Ornate Gear Marker
+B5227879:Celestial Hand Trade Token
+B5662A0C:Ancient Mhoire Coin
+B56D2AB7:Small Olthoi Venom Sac
+B56E97DC:Colosseum Coin
+B56C6397:A'nekshay Token
+B58C89FC:Black Page of Salt and Ash
+B56EA439:Pyreal
+B56950A7:Greater Stamina Kit
+B560AB9A:Renegade Herbal Kit
+B49154F5:Greater Stamina Kit
+B4915167:Greater Stamina Kit
+B49152FA:Greater Stamina Kit
+B613AA67:Prismatic Taper
+B613AA68:Prismatic Taper
+B3BBDBA7:Pack
+B3BBC059:Crown
+B3BBC060:Crown
+B3BBC05F:Coronet
+B3BBC05E:Loafers
+B3B9A794:Coronet
+B3BBC05B:Crown
+B3BBDBA8:Coronet
+B56D2AAD:Teardrop Crown
+B3BBC05A:Teardrop Crown
+B3BBC05D:Circlet
+B589BD0E:Coronet
+B56FE4DD:Diadem
+B58CA7CD:Diadem
+B589BCF0:Coronet
+B589BE3A:Coronet
+B58F3E5E:Crown
+B589BE41:Crown
+B3BBDBA1:Turban
+B2B04874:Signet Crown
+B589BE40:Crown
+B3BBDB57:Diadem
+B2B04872:Diadem
+B3BBD5CA:Crown
+B58A1FDD:Diadem
+B3BBDB9C:Foci of Artifice
+B3B9E77E:Foci of Enchantment
+B3BBC065:Pack
+B3BBDB9A:Blackmoor's Favor
+B3BBDD00:Facility Hub Portal Gem
+B3BBDB8C:Aligned Mana Stone
+B41E0F36:A Large Mnemosyne
+B3BBCB1C:Frost Mace
+B3BBDB90:Aetheria Mana Stone
+B3BBCF06:Aetheria Desiccant
+B3BA0395:Enhanced Assault Axe
+B3B9E275:Enhanced Assault Axe
+B5F0369A:Pyreal
+B58C9B53:Acid Morning Star
+B5687F27:Acid Morning Star
+B528B23C:Aetherium Power Core
+B58C9B52:Frost Trident
+B27D79EB:Frost Dirk
+B617F31C:Pyreal
+B3BB3683:Halved Cloak
+B3853A21:Baggy Pants
+B566A8C0:Aetherium Ore
+B3BA084B:Aetheria
+B3BBCCC9:Heavy Necklace
+B3B9B3D2:Pack
+B3BA02E0:Aetheria
+B3B9E3B4:Bracelet
+B3BBDB61:Ring
+B3B800C8:Ring
+B3BBDB58:Bracelet
+B5246295:Pack
+B2A4CDE3:Salvage (44)
+B5F35DF2:Salvage (78)
+B526A27F:Celestial Hand Initiate Armor Writ
+B5D6D4D0:Salvage (43)
+B4F8C932:Trade Note (250,000)
+B566A87E:Rez'arean Ore
+B5677210:Altered Dark Remoran Fin
+B560E5F3:Pyre Shroud
+B54FBCBF:Unstable Mana Stone
+B58E0BA9:Pristine Mana Shard
+B4454561:Splitting Tool
+B5EA6B0E:Salvage (100)
+B5F4E775:Silver Pea
+B5C227E4:Salvage (100)
+B5F1FC5D:Salvage (100)
+B5EA7721:Silver Pea
+B5F2251E:Ancient Empyrean Trinket
+B6006F17:Salvage (100)
+B6107EB0:Gold Pea
+B5EDC590:Salvage (100)
+B3BBDBAF:Studded Leather Cowl
+B617F31D:Pyreal
+B383CFAB:Diforsa Gauntlets
+B3843C1A:Diforsa Tassets
+B60255F2:Silver Pea
+B56A787A:Covenant Pauldrons
+B3B9E274:Baggy Shirt
+B617F31E:Pyreal
+B3BBDB64:Olthoi Girth
+B56A8B4E:Leather Vest
+B3BB3798:Yoroi Greaves
+B3BBDB66:Knorr Academy Vambraces
+B37B77CB:Studded Leather Boots
+B5C8F7E7:Quartered Cloak
+B6107F4F:Salvage (69)
+B6107EE2:Salvage (49)
+B5F23D27:Gold Pea
+B6076617:Salvage (51)
+B600BDE7:Salvage (42)
+B5C215B2:Gold Pea
+B60B3EBD:Salvage (37)
+B60B272A:Copper Pea
+B60B4B49:Salvage (50)
+B5FFB43D:Salvage (76)
+B60B3AE2:Salvage (98)
+B5FEE0C3:Salvage (100)
+B567C350:Lapyan Plant
+B617F866:Salvage (27)
+B6027129:Salvage (72)
+B610889A:Salvage (41)
+B567C347:Minalim Plant
+
+Missing Exports - Possessed items that were not found:

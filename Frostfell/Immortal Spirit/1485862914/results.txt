@@ -1,0 +1,44 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Cyberkiller-01-31-2017-Random\pkt_2017-1-31_1485862648_log.pcap
+
+Partial Exports - Missing appraisal info:
+DD26A34C:Pyreal
+DD26A326:Quicksilver
+DD2C1F82:Greeter's Key
+DD26A425:Powdered Turquoise
+DD26A333:Stibnite
+DD26A441:Ashwood Talisman
+DD26A3A2:Vitriol
+DD26A3B3:Yew Talisman
+DD1196EB:Cedar Talisman
+DCFFC030:Hyssop
+DD26A4AB:Willow Talisman
+DD11F583:Wormwood
+DD2C2F11:Ginseng
+DD26A336:Powdered Onyx
+DD26A3B0:Ebony Talisman
+DD26A343:Damiana
+DD26A30B:Alder Talisman
+DD26A33F:Lead Scarab
+DD26A36A:Mandrake
+DD26A32F:Powdered Amber
+DD26A3D5:Hemlock Talisman
+DD26A359:Colcothar
+DD26A437:A Crumpled Note
+DD11F574:Diamond Powder
+DD26A322:Diamond Powder
+DD26A36B:Trade Note (100,000)
+DD26A418:Treated Healing Kit
+DD26A39F:Copper Scarab
+DD26A007:Comfrey
+DD11F5BE:Rowan Talisman
+DD26A39D:Orange Taper
+DD26A3D1:Yellow Taper
+DD0435D5:Violet Taper
+DD26A407:Brown Taper
+DD26A3B7:Cobalt
+DCFFC588:Treated Healing Kit
+DD04357C:Pack Bael'Zharon
+DD26A356:Some Changes for February 2012
+
+Missing Exports - Possessed items that were not found:

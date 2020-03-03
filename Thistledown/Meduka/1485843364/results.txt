@@ -1,0 +1,161 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps2\pkt_2017-1-31_1485843349_log.pcap
+
+Partial Exports - Missing appraisal info:
+800A6861:Sack
+83F17581:Town Network Portal Gem
+8458D2FA:Diamond Scarab
+800A673F:Blackmoor's Favor
+83AFE9D2:Colosseum Coin
+838982E6:Shoyanen's Portal Gem
+844ECB77:Grey Taper
+83FE58D0:Wrapped Bundle of Raider Lightning Arrowheads
+800A6740:Pyreal
+83FCA241:Wrapped Bundle of Olthoi Acid Arrowheads
+8402ECA4:Wrapped Bundle of Burning Sands Arrowheads
+84570991:Spectral Chill Arrow Bundle
+8457653C:Red Taper
+844CD944:Yellow Empyrean Ring
+82632DCE:Aetheria
+800A6742:Pathwarden Trinket
+80089CE3:Pack
+800BB9DB:Lead Scarab
+800BC3E1:Iron Scarab
+800BC60E:Copper Scarab
+800D9D56:Silver Scarab
+800D9D57:Gold Scarab
+800D9D58:Pyreal Scarab
+8008C55F:Platinum Scarab
+84006158:Wrapped Bundle of Arrowshafts
+843FDBF7:Prismatic Taper
+845FBB54:Red Empyrean Ring
+8506EE6F:Radiant Blood Initiate Armor Writ
+84F19295:Asheron's Lesser Benediction
+85D9045E:Mana Scarab
+93D801FC:Ornate Gear Marker
+83B65437:Small Belt Pouch
+8402C8E6:Wrapped Bundle of Greater Deadly Armor Piercing Arrowheads
+83FBF002:Wrapped Bundle of Greater Deadly Blunt Arrowheads
+84013DAF:Wrapped Bundle of Greater Deadly Armor Piercing Arrowheads
+8402D106:Wrapped Bundle of Greater Deadly Blunt Arrowheads
+84057ACE:Wrapped Bundle of Greater Deadly Armor Piercing Arrowheads
+8402D19E:Wrapped Bundle of Greater Deadly Blunt Arrowheads
+840581CA:Wrapped Bundle of Greater Deadly Armor Piercing Arrowheads
+83FFE6C8:Wrapped Bundle of Greater Deadly Blunt Arrowheads
+84058008:Wrapped Bundle of Greater Deadly Armor Piercing Arrowheads
+8400562A:Wrapped Bundle of Greater Deadly Blunt Arrowheads
+84057B36:Wrapped Bundle of Greater Deadly Armor Piercing Arrowheads
+8402D57C:Wrapped Bundle of Greater Deadly Blunt Arrowheads
+84005192:Wrapped Bundle of Greater Deadly Armor Piercing Arrowheads
+8400207A:Wrapped Bundle of Greater Deadly Blunt Arrowheads
+84004EB5:Wrapped Bundle of Greater Deadly Armor Piercing Arrowheads
+840056EF:Wrapped Bundle of Greater Deadly Blunt Arrowheads
+84021885:Wrapped Bundle of Greater Deadly Frog Crotch Arrowheads
+8402D974:Wrapped Bundle of Greater Deadly Frog Crotch Arrowheads
+84013D3B:Wrapped Bundle of Greater Deadly Frog Crotch Arrowheads
+8402D8B1:Wrapped Bundle of Greater Deadly Frog Crotch Arrowheads
+83F56E9B:Wrapped Bundle of Greater Deadly Frog Crotch Arrowheads
+84058376:Wrapped Bundle of Greater Deadly Frog Crotch Arrowheads
+83F82D4B:Wrapped Bundle of Greater Deadly Frog Crotch Arrowheads
+840583CD:Wrapped Bundle of Greater Deadly Frog Crotch Arrowheads
+805C3588:Heavy Bracelet
+82FA59B6:Heavy Bracelet
+85FD7DA4:Pack
+805A6A08:Flared Tunic
+8327D00A:Loose Pants
+800396FD:Goggles
+800AF015:Aetheria
+8688025B:Stipend
+805BDEEB:Fire Spectre Essence (180)
+80C82792:Frost Spectre Essence (180)
+85E2337E:Acid Spectre Essence (180)
+8003A673:Lightning Spectre Essence (180)
+84651596:Aligned Mana Stone
+860D0392:Aetheria
+846556EA:Aetheria Mana Stone
+8001D47D:Halved Cloak
+800AF328:Lightning Maiden Essence
+959C9C16:Pyreal
+800AF22D:Frost Maiden Essence
+868AFBAE:Spectral Crystal of the Life Giver
+868F2E76:Spectral Missile Weapon Mastery Crystal
+8660233F:Aetheria
+93795373:Radiant Blood Trade Token
+938431FB:Trade Note (250,000)
+945E1996:Lesser Corrupted Essence
+94667E37:Purple Society Band
+949E23B1:Lord's Treasure Key
+949A11DD:Yellow Society Locket
+8D37C445:Encapsulated Spirit
+952BD0B5:Pack
+869505C0:Focus To Quickness Gem
+869505A0:Focus To Quickness Gem
+86950593:Quickness To Focus Gem
+847C40C9:Gem of Harbinger's Lightning Barrier
+869E1B71:Gauntlet Coin
+94EE50FD:A'nekshay Token
+81C26A96:Halved Cloak
+953840E2:Pack
+95AD7BE5:Titan Mana Charge
+95B5C4BB:Titan Mana Charge
+95AFEEEA:Titan Mana Charge
+95AA3921:Titan Mana Charge
+95B2A885:Titan Mana Charge
+9534EC05:Radiant Blood Trade Token
+953F2CF0:Colosseum Coin
+954C0DA5:The Master Token
+95414F68:Colosseum Coin
+955D2BA4:Trimmed Cloak
+955F3713:Burning Coal
+95605AFF:Brown Society Locket
+95708B56:Colosseum Coin
+9582A26D:Colosseum Coin
+9589935A:Gauntlet Treasure Key
+9588D145:Blue Society Band
+95933150:Colosseum Coin
+95AAC4EA:Strengthened Mana Forge Key
+95AAE373:Treated Healing Kit
+95ADDD2C:Green Society Band
+95ADDC60:Heavy Bracelet
+95B143CA:Trade Note (250,000)
+95B0A400:Arbitrator's Augmentation Token
+95A831AC:Ancient Mhoire Coin
+959FC010:Lady Tairla Mhoire's Signet Ring
+95B5C638:Titan Mana Charge
+95B5C4C8:Titan Mana Charge
+95B5C4FA:Titan Mana Charge
+95AD91C3:Titan Mana Charge
+95AFEEE9:Titan Mana Charge
+959C36C2:Colosseum Coin
+85D95BEA:Enhanced Assault Bow
+867C8861:Burun Slaying Sceptre
+86956DAC:Tusker Paw Wand
+8689142C:Life-attuned Shadowfire Isparian Wand
+940EFD99:Dark Blunt Bow
+958C03F9:Olthoi Acid Arrow
+95AED97E:Greater Deadly Armor Piercing Arrow
+958449BD:Spectral Chill Arrow
+86199CEB:Frost Bow
+95AAAB28:Greater Deadly Frog Crotch Arrow
+824F6050:Fire Bow
+805C3CE1:Electric Bow
+ABF61F0B:Adherent's Crystal
+959D859E:Raider Lightning Arrow
+95BF13A6:Burning Sands Arrow
+83104041:Paradox-touched Olthoi Bow
+95BE5D14:Greater Deadly Blunt Arrow
+805BB8C0:Blunt Compound Bow
+ABFC45A9:Flaming Hammer
+ABFC4678:Goggles
+ABFAC3DA:Ring
+ABF8304B:Heavy Bracelet
+AA9D8EC5:Diforsa Breastplate
+ABFC4EB8:Gorget
+ABF83487:Puzzle Box
+ABFC4CF4:Spadone
+ABFC64F1:Ring
+ABFC53A7:Frost Dirk
+ABFB1A12:Haebrean Boots
+ABFB5880:Flared Shirt
+
+Missing Exports - Possessed items that were not found:

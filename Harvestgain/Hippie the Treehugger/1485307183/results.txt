@@ -1,0 +1,18 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\pkt_2017-1-24_1485307067_log\pkt_2017-1-24_1485307067_log.pcap
+
+Partial Exports - Missing appraisal info:
+C7F4843E:Cloth Cap
+C7F46F4B:Pyreal
+C7F4843F:Flared Shirt
+C7F4844C:Flared Pants
+C7F0A08E:Apple
+C7F46F5D:Leather Boots
+C7F4844D:Welcome Letter
+C7F2A5E4:Sack
+C7DB424A:Calling Stone
+C7F45729:Pack Asheron
+C7F2A5DE:Some Changes for February 2012
+C7F345CB:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

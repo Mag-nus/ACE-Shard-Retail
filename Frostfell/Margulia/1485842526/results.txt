@@ -1,0 +1,18 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485841816_log.pcap
+
+Partial Exports - Missing appraisal info:
+B37AAD2A:Pyreal
+B3B3577C:Ust
+B38A66EB:Sack
+B37A95F8:Prismatic Taper
+B3AE18D9:Lead Scarab
+B3B35782:Blackmoor's Favor
+B3B35884:Foci of Strife
+B37ECA77:Foci of Verdancy
+B3B3579A:Viamont Toast
+B3B35792:Oil of Rendering
+B3B35778:Facility Hub Portal Gem
+B3B35786:Great Mana Charge
+
+Missing Exports - Possessed items that were not found:

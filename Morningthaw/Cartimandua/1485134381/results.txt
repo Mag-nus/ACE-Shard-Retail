@@ -1,0 +1,43 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-22_1485134283_log.pcap
+
+Partial Exports - Missing appraisal info:
+807D39F5:Sack
+807D15C8:Letter From Home
+807D1644:Ust
+8080AB69:Pathwarden Trinket
+8080AB6A:Salvage
+807D0940:Salvage
+8080AB68:Sturdy Iron Key
+807F388B:Sturdy Iron Key
+807D39BD:Coalesced Mana
+8080AA63:Pathwarden Robe
+807D170F:Lead Pea
+807B4EE0:Salvage
+807884E6:Foci of Artifice
+807D16B9:Pack
+807D170C:Iron Pea
+807CF553:Lead Scarab
+807B532E:Mechanical Scarab
+80799126:Carenzi Stalker Pelt
+B227CD3D:Intricate Carving Tool
+C0FA6EAC:Salvage (42)
+B2279E09:Pyreal
+C0FA7767:Granite Heart
+807CF0FC:Pack
+8080AB82:Adept Healing Kit
+8080AB87:Adept Healing Kit
+8080B1E7:Gifted Healing Kit
+807D1605:Pack
+B227A76B:Wrapped Bundle of Arrowshafts
+B227A40B:Wrapped Bundle of Broad Arrowheads
+B223BA13:Pyreal
+B227A2C0:Wrapped Bundle of Blunt Arrowheads
+807D1E86:Black Coral Keyring
+800D8DD6:Caulnalain Key
+807B4E7B:Trade Note (5,000)
+C0DE7B93:Scroll of Shock Wave Streak IV
+C0F39345:Pyreal
+C0F9E747:Goggles
+
+Missing Exports - Possessed items that were not found:

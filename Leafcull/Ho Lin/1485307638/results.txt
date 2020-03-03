@@ -1,0 +1,111 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\pkt_2017-1-24_1485307411_log\pkt_2017-1-24_1485307411_log.pcap
+
+Partial Exports - Missing appraisal info:
+AE7C3AAF:Kabuton
+AE7C3AB0:Pack
+AE7C3AB1:Powdered Amber
+AE7C3AB2:Powdered Onyx
+AE7C3AB3:Yew Talisman
+AE7C3AB4:Ashwood Talisman
+AE7C3AB5:Cedar Talisman
+AE7C3AB6:Cinnabar
+AE7C3AB7:Mugwort
+AE7C3AB8:Wormwood
+AE7C3ABB:Lead Scarab
+AE7C3ABA:Powdered Turquoise
+AE7C3ABF:Pack
+AE7C3ABC:Cobalt
+AE7C3ABD:Colcothar
+AE7C3AC0:Bracelet
+AE7C3ABE:Quicksilver
+AE7C3AC1:Bracelet
+AE7C3AC2:Ring
+AE7C3AC3:Heavy Necklace
+AE7C3AC4:A Society Ring Of Quickness
+AE7C3AC5:Greater Mana Stone
+AE7C3AC6:Greater Mana Stone
+AE7C3AC7:Pack
+AE7C3AC8:Trade Note (10,000)
+AE7C3AC9:Trade Note (10,000)
+AE7C3ACA:Trade Note (10,000)
+AE7C3AE0:Sho Wand
+AE7C3ACB:Trade Note (10,000)
+AE7C3ACC:Trade Note (10,000)
+AE7C3AE1:Pack
+AE7C3ACD:Trade Note (10,000)
+AE7C3ACE:Trade Note (10,000)
+AE7C3AE2:Nekode
+AE7C3ACF:Trade Note (10,000)
+AE7C3AD0:Trade Note (10,000)
+AE7C3AE7:Lightning Nekode
+AE7C3AD1:Trade Note (10,000)
+AE7C3AD2:Trade Note (10,000)
+AE7C3AE8:Flaming Katar
+AE7C3AD3:Trade Note (10,000)
+AE7C3AD4:Trade Note (10,000)
+AE7C3AE9:Flaming Nekode
+AE7C3AD5:Trade Note (10,000)
+AE7C3AD6:Trade Note (10,000)
+AE7C3AED:Lightning Katar
+AE7C3AD7:Trade Note (10,000)
+AE7C3AD8:Trade Note (10,000)
+AE7C3AEE:Pack
+AE7C3AD9:Trade Note (10,000)
+AE7C3ADA:Trade Note (10,000)
+AE7C3AEF:Sturdy Iron Key
+AE7C3ADB:Trade Note (10,000)
+AE7C3ADC:Trade Note (10,000)
+AE7C3AF0:Sturdy Iron Key
+AE7C3ADD:Trade Note (10,000)
+AE7C3ADE:Trade Note (10,000)
+AE7C3AF1:Pyreal Mote
+AE7C3ADF:Trade Note (10,000)
+AE7C3AE3:Katar
+AE7C3AF2:Pyreal Mote
+AE7C3AE4:Nekode
+AE7C3AE5:Cestus
+AE7C3AF3:Gloves
+AE7C3AE6:Nekode
+AE7C3AEA:Nekode
+AE7C3AF4:Gloves
+AE7C3AEB:Nekode
+AE7C3AEC:Katar
+AE7C3B04:Pack
+AE7C3AF5:Tunic
+AE7C3AF6:Tunic
+AE7C3B0D:Greater Mana Stone
+AE7C3AF7:Pants
+AE7C3AF8:Pants
+AE7C3B0C:Old Lucky Gold Letter
+AE7C3AF9:Breeches
+AE7C3AFA:Healing Beef Stew
+AE7C3B0E:Pyreal
+AE7C3AFB:Shirt
+AE7C3AFC:Pants
+AE7C3B10:Greater Mana Stone
+AE7C3AFD:Slippers
+AE7C3AFE:Clean, Dry Towel
+AE7C3B05:Pack
+AE7C3AFF:Buckler
+AE7C3B00:Large Round Shield
+AE7C3B0F:Health Draught
+AE7C3B01:Sollerets
+AE7C3B02:Scalemail Gauntlets
+AE7C3B14:Pyreal
+AE7C3B03:Mattekar Hide Coat
+AE7C3B06:Trade Note (100,000)
+AE7C3B07:Trade Note (50,000)
+AE7C3B08:Trade Note (10,000)
+AE7C3B12:Muddy Towel
+AE7C3B09:Trade Note (10,000)
+AE7C3B0A:Trade Note (10,000)
+AE7C3B15:Pack Gaerlan
+AE7C3B0B:Trade Note (10,000)
+AE7C3B11:Celdon Leggings
+AE7C3B13:Steel Toed Boots
+AE7C3B16:Some Changes for February 2012
+AE7C3B18:Blackmoor's Favor
+AE7C3B17:Mattekar Claw
+
+Missing Exports - Possessed items that were not found:

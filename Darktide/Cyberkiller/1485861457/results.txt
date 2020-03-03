@@ -1,0 +1,67 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Cyberkiller-01-31-2017-Random\pkt_2017-1-31_1485861451_log.pcap
+
+Partial Exports - Missing appraisal info:
+9280984D:Pack
+9280984F:Diamond Scarab
+92809850:Silver Scarab
+92809851:Copper Scarab
+92809852:Iron Scarab
+92809853:Lead Scarab
+92809854:Gold Scarab
+92809855:Lead Scarab
+92809856:Pyreal Scarab
+92809857:Platinum Scarab
+9280985E:Prismatic Taper
+92809868:Ust
+9280985C:Trade Note (250,000)
+9280985D:Platinum Scarab
+9280985F:Prismatic Taper
+92809861:Prismatic Taper
+92809862:Prismatic Taper
+92809863:Prismatic Taper
+92809864:Foci of Verdancy
+92809865:Foci of Enchantment
+92809866:Foci of Strife
+92809867:Foci of Artifice
+9280986A:Adventurer's Token
+92809870:Rampager Tusk
+92809872:Pack
+92809882:Titan Mana Charge
+92809883:Titan Mana Charge
+92809884:Titan Mana Charge
+92809885:Titan Mana Charge
+92809886:Titan Mana Charge
+92809887:Titan Mana Charge
+92809888:Titan Mana Charge
+9280988F:Blighted Mana Crystal
+92809890:Farmer Kao's Shovel
+92809899:Pack
+928098AE:Titan Mana Charge
+928098AF:Titan Mana Charge
+928098B0:Titan Mana Charge
+928098B1:Titan Mana Charge
+928098B7:Black Coral Golem Chunk
+928098BA:Pyreal Mote
+928098BB:Pyreal Sliver
+928098B6:Rare Crystalline Shard
+928098BE:Radiant Blood Trade Token
+928098C4:Pyreal
+928098BC:Radiant Blood Initiate Armor Writ
+928098BD:Initiate's Treasure Key
+928098C0:Western Gate Key
+928098C1:Dire Champion Token
+928098C2:Northern Gate Key
+928098C3:Northern Gate Key
+928098C9:Western Gate Key
+928098CA:Copper Pea
+928098CB:Iron Pea
+928098D0:Aggregate Crystalline Shard
+928098D1:Rare Crystalline Shard
+928098D2:Empyrean Notebook
+928098D3:Pyreal
+928098D4:Blank Augmentation Gem
+928098D5:Crystalline Shard
+928098D9:Some Changes for February 2012
+
+Missing Exports - Possessed items that were not found:

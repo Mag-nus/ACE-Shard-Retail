@@ -1,0 +1,23 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-PCAP-Absolutely-Random-Gameplay\AC-pcap\pkt_2017-1-29_1485706563_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-PCAP-Absolutely-Random-Gameplay\AC-pcap\pkt_2017-1-29_1485706563_log.pcap
+
+Partial Exports - Missing appraisal info:
+9C75536A:Pyreal
+9C75536B:Sack
+9C75536C:Ust
+9C75536D:Calling Stone
+9C75536E:Pathwarden Token
+9C755372:Quarrel
+9C755374:Foci of Artifice
+9C755375:Prismatic Taper
+9C755376:Lead Scarab
+9C755377:Crude Lockpick
+9C755378:Handy Healing Kit
+9C755379:Letter From Home
+9C75537A:Viamont Toast
+9CA35687:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

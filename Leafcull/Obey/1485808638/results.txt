@@ -1,0 +1,93 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-packet-logs\pkt_2017-1-30_1485808222_log.pcap
+
+Partial Exports - Missing appraisal info:
+AE4D931E:Olthoi Slayer Carapace
+AE4D9318:Foci of Artifice
+AE4D9319:Pack
+AE4D931A:Blackmoor's Favor
+AE4D931B:Shoyanen's Portal Gem
+AE4D931C:Saffron
+AE4D9320:Pyreal
+AE4D931D:Trade Note (250,000)
+AE4D931F:Olthoi Slasher Carapace
+AE4D9321:Pyreal Pea
+AE4D9322:Gold Pea
+AE4D9325:Upper Insatiable Eater Jaw
+AE4D9326:Relanim Plant
+AE4D932A:Encapsulated Spirit
+AE4D932B:Salvage (100)
+AE4D932E:Pyreal
+AE4D932C:Upper Insatiable Eater Jaw
+AE4D932F:Major Mana Stone
+AE4D9330:Head of the Homunculus
+AE4D9332:Pack
+AE4D9333:Gem of Stillness
+AE4D9334:Plentiful Healing Kit
+AE4D9335:Plentiful Healing Kit
+AE4D9336:Plentiful Healing Kit
+AE4D9337:Plentiful Healing Kit
+AE4D9338:Plentiful Healing Kit
+AE4D9339:Plentiful Healing Kit
+AE4D933A:Faran War Master Robe
+AE4D933F:Stipend
+AE4D933B:Faran Creature Master Robe
+AE4D933C:Faran Item Master Robe
+AE4D933D:Faran War Master Robe
+AE4D933E:Faran Life Master Robe
+AE4D9340:Diamond Shield
+AE4D9341:Prismatic Taper
+AE4D9342:Shadow Fragment
+AE4D9344:Glyph of Damage
+AE4D9345:Mana Scarab
+AE4D9346:Massive Mana Charge
+AE4D9347:Massive Mana Charge
+AE4D9348:Massive Mana Charge
+AE4D9349:Silver Pea
+AE4D934A:Pack
+AE4D934B:Copper Heart
+AE4D934C:Major Mana Stone
+AE4D934D:Major Mana Stone
+AE4D934E:Heavy Bracelet
+AE4D9350:Massive Mana Charge
+AE4D9351:Massive Mana Charge
+AE4D9352:Massive Mana Charge
+AE4D9353:Massive Mana Charge
+AE4D9354:Massive Mana Charge
+AE4D9355:Massive Mana Charge
+AE4D9356:Silk
+AE4D9357:Banished Atlatl
+AE4D9358:Upper Insatiable Eater Jaw
+AE4D9359:Fletcher's Crystal
+AE4D935A:Lucky Gold Letter
+AE4D935B:Scarlet Red Letter
+AE4D935D:Scarlet Red Letter
+AE4D935E:Scarlet Red Letter
+AE4D935F:Pack
+AE4D9362:Book of Memories
+AE4D9363:Chef's Hat
+AE4D9364:Insatiable Eater Jaw
+AE4D9365:Trade Note (50,000)
+AE4D9366:Celdiseth's Portal Gem
+AE4D9367:Copper Scarab
+AE4D9368:Platinum Scarab
+AE4BE050:Lead Scarab
+AE4D9369:Iron Scarab
+AE4D936A:Silver Scarab
+AE4D936B:Gold Scarab
+AE4D936C:Pyreal Scarab
+AE4D936D:Spectral Skull
+AE4D936E:Town Network Portal Gem
+AE7BD2F1:A Large Mnemosyne
+AE4D9370:Foci of Enchantment
+AE4D9371:Foci of Verdancy
+AE4D9386:Scarlet Red Letter
+AE4D9387:Scarlet Red Letter
+AE7B5EE6:Second Half of a Worn Dagger
+AE4D9388:Strengthened Mana Forge Key
+AE7BD571:Virindi Singularity Key
+AE7B66B3:Brawler's Crystal
+AE7BD70D:Dark Sliver
+AE7B6553:Blighted Mana Crystal
+
+Missing Exports - Possessed items that were not found:

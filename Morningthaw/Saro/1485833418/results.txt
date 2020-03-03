@@ -1,0 +1,107 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\TheFallen_MT_01-30-17_CraterCaves\TheFallen_MT_01-30-17_CraterCaves.pcap
+
+Partial Exports - Missing appraisal info:
+C6C0874D:Pack
+C6C0874E:Lead Scarab
+C6C0874F:Copper Scarab
+C6C08750:Silver Scarab
+C6C08751:Gold Scarab
+C6C08752:Pyreal Scarab
+C6C08753:Platinum Scarab
+C6C08754:Quest Weapon Coin
+C6C08755:Writ of Apology
+C6C08756:Intricate Carving Tool
+C6C08757:Health Philtre
+C6C08758:Stamina Tonic
+C6C08759:Mana Tonic
+C6C0875A:Blackmoor's Favor
+C6C0875C:Reliable Lockpick
+C6C0875B:Facility Hub Portal Gem
+C6C0875D:Ust
+C6C0875E:Trade Note (250,000)
+C6C0875F:Prismatic Taper
+C6C08760:Stipend
+C6C08761:Gem of Stillness
+C6C08762:Gem of Stillness
+C6C08763:Gem of Stillness
+C6C087A5:Pyreal
+C6C08764:Gem of Stillness
+C6C08765:Ancient Empyrean Trinket
+C6C08772:Treated Healing Kit
+C6C08766:Pack
+C6C08767:Suikan War Master Robe
+C6C08773:Treated Healing Kit
+C6C08768:Suikan War Master Robe
+C6C08769:Suikan War Master Robe
+C6C0876A:Suikan War Master Robe
+C6C0876B:Crystalline Shard
+C6C087C0:Pyreal
+C6C0876C:Chevron Cloak
+C6C0876D:Aetheria Powder
+C6C08774:Treated Healing Kit
+C6C0876E:Cloth Gloves
+C6C0876F:Signet Crown
+C6C08770:Coronet
+C6C08771:Suikan War Master Robe
+C6C08775:Coronet
+C6C08778:Treated Healing Kit
+C6C08776:Crown
+C6C08777:Diadem
+C6C08779:Treated Healing Kit
+C6C078E6:Corruptor's Crystal
+C6C078E7:Greater Mana Stone
+C6C06CA1:Pyreal Mote
+C6C0877A:Pack
+C6C0877B:Salvage (100)
+C6C0877C:Salvage (100)
+C6C0877D:Salvage (100)
+C6C0877E:Salvage (100)
+C6C08787:Pack
+C6C0877F:Salvage (100)
+C6C08780:Salvage (100)
+C6C08790:Scarlet Red Letter
+C6C08781:Salvage (100)
+C6C08782:Salvage (100)
+C6C08791:Scarlet Red Letter
+C6C08783:Salvage (100)
+C6C08784:Salvage (100)
+C6C08794:Pack
+C6C08785:Salvage (100)
+C6C08786:Salvage (100)
+C6C08788:Merciless Monouga Idol
+C6C08789:Thief's Crystal
+C6C0878A:Greataxe
+C6C0878B:Converter's Crystal
+C6C0878C:Flaming Spadone
+C6C0878D:Chef's Crystal
+C6C0878E:Flaming Spadone
+C6C0878F:Amuli Leggings
+C6C08792:Foci of Verdancy
+C6C08793:Foci of Artifice
+C6C08795:Trade Note (100,000)
+C6C087A1:Sturdy Iron Keyring
+C6C087A4:Salvage (5)
+C6C087A6:Salvage (8)
+C6C087BD:Aetheria Desiccant
+C6C087A8:Salvage (94)
+C6C087A9:Salvage (25)
+C6C087AA:Acid Spadone
+C6C087AC:Lightning Nodachi
+C6C087AD:Salvage (68)
+C6C087AE:Salvage (82)
+C6C087AF:Salvage (8)
+C6C087B0:Salvage (36)
+C6C087B1:Salvage (10)
+C6C087B2:Salvage (37)
+C6C087B3:Salvage (97)
+C6C087B4:Salvage (78)
+C6C087B5:Salvage (50)
+C6C087B6:Salvage (81)
+C6C087B7:Salvage (88)
+C6C087B8:Salvage (17)
+C6C087B9:Salvage (32)
+C6C087BA:Salvage (21)
+C6C087BB:Salvage (82)
+
+Missing Exports - Possessed items that were not found:

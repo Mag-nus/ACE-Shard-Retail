@@ -1,0 +1,157 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\Random11.pcap
+
+Partial Exports - Missing appraisal info:
+C4A09162:Smock
+C4A09163:Trousers
+C4A09164:Ust
+C4A09165:Calling Stone
+C4A09166:Foci of Artifice
+C4A09167:Handy Healing Kit
+C4A09168:Letter From Home
+C4A09169:Baron's Amulet of Life Giving
+C4A0916A:Chevron Cloak
+C4A0916E:Sturdy Iron Key
+C4A0916B:Pack
+C4A0916C:Trade Note (250,000)
+C4A0916D:Pathwarden Token
+C4A0916F:Aluvian Gem of Worth
+C4A09170:Silver Scarab
+C4A09171:Blackmoor's Favor
+C4A09172:Chilled Shard
+C4A09173:Small Olthoi Venom Sac
+C4A09174:Invitation to Master Fletchers
+C4A09175:Gem of Purity
+C4A09176:Writ of Refuge
+C4A09177:Enchanted Seedling
+C5485141:Dark Shard
+C4A091A1:Forager Captain's Resonator
+C4A091A9:Enchanted Bone Fragment
+C4A091A0:Enchanted Bone Fragment
+C54CFFF9:Scroll of Raven Fury
+C4A09178:Pack
+C4A09179:Wrapped Bundle of Deadly Frog Crotch Arrowheads
+C4A0917A:Wrapped Bundle of Arrowshafts
+C4A0917B:Wrapped Bundle of Deadly Armor Piercing Arrowheads
+C4A0917C:Wrapped Bundle of Deadly Blunt Arrowheads
+C4A0917D:Concentrated Fire Oil
+C4A0917E:Ruined Amulet of Missile Weapons
+C4A091B0:Pyreal
+C4A0917F:Wrapped Bundle of Greater Deadly Frog Crotch Arrowheads
+C4A09180:Wrapped Bundle of Greater Deadly Blunt Arrowheads
+C4A09181:Wrapped Bundle of Greater Deadly Armor Piercing Arrowheads
+C4A09182:Bundle of Prismatic Arrowheads
+C4A09183:Coalesced Mana
+C4A09185:Asheron's Supreme Raiment
+C530E8F9:Koujia Leggings
+C4A09186:Pack
+C4A09188:Massive Mana Charge
+C4A09187:Festival Robe
+C4A09189:Massive Mana Charge
+C4A0918A:Massive Mana Charge
+C4A0918B:Massive Mana Charge
+C4A0918C:Massive Mana Charge
+C4A0918D:Massive Mana Charge
+C4A0918E:Massive Mana Charge
+C4A0918F:Massive Mana Charge
+C4A09190:Massive Mana Charge
+C4A09192:Massive Mana Charge
+C4A09193:Town Network Portal Gem
+C54D0124:Pack Golem
+C4D0FA47:Dansha-Ki's Gem of Portal Recall
+C4A09194:Pack
+C4A09195:Copper Scarab
+C4A09196:Prismatic Taper
+C4A09197:Lead Scarab
+C4A09198:Aphus Lassel Portal Gem
+C4A09199:Blighted Mana Crystal
+C4BAF436:Treated Healing Kit
+C548951D:Treated Healing Kit
+C548541B:Treated Healing Kit
+C4A091E4:Treated Healing Kit
+C4A091E3:Treated Healing Kit
+C4CFBE91:Treated Healing Kit
+C4D0FE4B:Gem of Balance
+C4A0919A:Bone Engraved Key
+C4A0919B:Plentiful Healing Kit
+C4A0919C:Treated Healing Kit
+C4A0919D:Treated Healing Kit
+C4A0919E:A Large Mnemosyne
+C4A091A2:Key
+C4A091A3:Copper Scarab
+C4A091A4:Mechanical Scarab
+C4A091A5:Foci of Verdancy
+C4A091A8:Stamina Tonic
+C4A091A6:Verdalim Plant
+C4A091A7:Golden Gromnie
+C4A091AA:Massive Mana Charge
+C4A091AB:Brown Beans
+C4A091AC:Health Philtre
+C4A091AD:Crown
+C4A091AE:Shoes
+C4A091AF:Studded Leather Gauntlets
+C4A091B1:Gifted Healing Kit
+C4A091B2:Gifted Healing Kit
+C4A091B3:Gifted Healing Kit
+C4A091B4:Gifted Healing Kit
+C4A091B5:Gifted Healing Kit
+C4A091B6:Coalesced Mana
+C4A091B7:Treated Healing Kit
+C4A091B8:Scratched Gear
+C4A091B9:Treated Healing Kit
+C4A091BA:Golden Gromnie
+C4A091BB:Alb'arean Ore
+C4A091BC:A Note From Ciandra
+C4A091BE:Renegade Herbal Kit
+C4A091BF:Colban Plant
+C4A091C0:Amuli Coat
+C4A091CC:Pyreal
+C4A091C3:Excellent Lockpick
+C4A091C4:Licorice Rat
+C4A091C6:Sturdy Steel Key
+C4A091C8:Pyreal Golem Heart
+C4A091C9:Diamond Powder
+C4A091CA:Diamond Powder
+C4A091CB:Pyreal Nugget
+C4A091CF:Pyreal
+C4A091D0:Gold Golem Heart
+C4A091D2:Small Shard
+C4A091D3:Virindi Singularity Key
+C4A091D4:Edicts of the Quiddity
+C4A091D7:Shendolain Key
+C4A091D8:Yellow Jewel
+C4A091D9:Sturdy Iron Key
+C4A091DA:Glittering Necklace of Acid and Piercing Protection
+C4A091DB:Treated Healing Kit
+C4A091DC:Treated Healing Kit
+C4A091DF:Olthoi Ichor
+C4A091E1:Glittering Necklace of Acid and Piercing Protection
+C4A091E2:Trade Note (75,000)
+C4A091E5:Gem of Purity
+C4CFA420:Refreshing Water
+C4A091E6:Rogue's Crystal
+C4A091E8:Amuli Leggings
+C4CB9CC1:Warrior's Crystal
+C4CFBE7F:Glittering Necklace of Acid and Piercing Protection
+DB9D41F2:Pyreal
+C4D0F164:Aphus Lassel Portal Gem
+C4D0FCA4:Stamina Tonic
+C4D26D8C:Yellow Monster Seed
+C4C8F383:Zefir's Crystal
+C4A091E0:Greater Deadly Blunt Arrow
+C4A091D1:Merciless Monouga Idol
+C54BC32E:Trade Note (150,000)
+C54CF09B:Empty Book Binding
+C54A9E8D:Mana Forge Key
+C54A9E8E:Ornate Gear Marker
+C54D04F7:Salvage
+C54D04F6:Salvage
+C4A091EA:Teleportation Device
+DB9D38C1:A Certificate of Permission
+DB9D38C4:A Bronze Key
+DB9D4197:A List of Items
+DB986C46:Facility Hub Portal Gem
+C4A091E7:Greater Deadly Armor Piercing Arrow
+C4A091E9:Composite Bow with Fine Handle
+
+Missing Exports - Possessed items that were not found:

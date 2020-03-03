@@ -1,0 +1,141 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-09-2017\Callaway-01-17-31-2017-QuidditySeedMisc\pkt_2017-1-17_1484699075_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Callaway-01-10-2017\pkt_2017-1-10_1484102909_log.pcap
+
+Partial Exports - Missing appraisal info:
+B0E3AF10:Pyreal
+B0E3AF0F:Viamontian Laced Boots
+B0E3AF11:Ust
+B0E3AF13:Prismatic Taper
+B0E3AF14:Lead Scarab
+B0E3AF16:Academy Coat
+B0E3AF7F:Pyreal
+B0E3AF18:Pack
+B0E3AF19:Salvaged  (100)
+B0E3AF1A:Salvaged  (100)
+B0E3AF1B:Salvaged  (100)
+B0E3AF40:Banished Bow
+B0E3AF1C:Salvaged  (100)
+B0E3AF1D:Salvaged  (100)
+B0E3AF46:Skeletal Atlatl
+B0E3AF1E:Salvaged  (100)
+B0E3AF1F:Salvaged  (100)
+B0E3AF47:Banished Atlatl
+B0E3AF20:Salvaged  (100)
+B0E3AF21:Salvaged  (100)
+B0E3AF4B:Ebon Spine Harpoon
+B0E3AF22:Salvaged  (100)
+B0E3AF23:Salvaged  (100)
+B0E3AF4D:Olthoi Spear
+B0E3AF24:Salvaged  (100)
+B0E3AF25:Salvaged  (100)
+B0E3AF52:Tachi of Grace
+B0E3AF26:Salvaged  (100)
+B0E3AF27:Salvaged  (100)
+B0E3AF54:Brass Knuckles
+B0E3AF28:Salvaged  (100)
+B0E3AF29:Salvaged  (100)
+B0E3AF56:Overlord's Sword
+B0E3AF2A:Salvaged  (100)
+B0E3AF2B:Salvaged  (100)
+B0E3AF57:Crescent Moons
+B0E3AF2C:Salvaged  (100)
+B0E3AF2D:Salvaged  (100)
+B0E3AF5A:Brass Knuckles
+B0E3AF2E:Salvaged  (100)
+B0E3AF32:Pack
+B0E3AF3F:Pack
+B0E3AF33:Salvaged  (100)
+B0E3AF34:Salvaged  (100)
+B0E3AF5B:Osseous Mace
+B0E3AF35:Salvaged  (100)
+B0E3AF36:Salvaged  (100)
+B0E3AF5F:Banished Blade
+B0E3AF37:Salvaged  (100)
+B0E3AF38:Salvaged  (100)
+B0E3AF39:Salvaged  (100)
+B0E3AF3A:Salvaged  (100)
+B0E3AF64:Serpent's Fang
+B0E3AF3B:Salvaged  (100)
+B0E3AF3C:Salvaged  (100)
+B0E3AF6A:Renegade Mace
+B0E3AF3D:Salvaged  (100)
+B0E3AF3E:Salvaged  (100)
+B0E3AF6F:Oswald's Dagger
+B0E3AF41:Royal Runed Arbalest
+B0E3AF42:Princely Runed War Bow
+B0E3AF45:Eyeslayer (Large)
+B0E3AF44:Princely Runed Dart Flinger
+B0E3AF48:Oswald's Throwing Dagger
+B0E3AF7A:Doppelganger Shield
+B0E3AF49:Discus
+B0E3AF4A:Pack
+B0E3AF4C:Princely Runed Partizan
+B0E3AF4E:Burnja's Board with Nails
+B0E3AF4F:Seasoned Explorer Stick
+B0E3AF51:Hammer of Frore
+B0E3AF50:Princely Runed Bastone
+B0E3AF53:Sword of Frozen Fury
+B0E3AF55:Royal Runed Partizan
+B0E3AF58:Royal Runed Bastone
+B0E3AF59:Royal Runed Poniard
+B0E3AF5C:Pack
+B0E3AF5D:Fist of Enlightenment
+B0E3AF5E:Princely Runed Mazule
+B0E3AF62:Scepter of Thunderous Might
+B0E3AF63:Replica Sword of Bellenesse
+B0E3AF65:Pack
+B0E3AF66:Club of Surprising Cunning
+B0E3AF67:Royal Runed Dolabra
+B0E3AF68:Princely Runed Dolabra
+B0E3AF69:Quintessence Sickle
+B0E3AF6D:Staff of the Nomads
+B0E3AF6B:Hamud's Pyreal Katar
+B0E3AF6C:Crystal Sword
+B0E3AF6E:Cyphis Suldow's Half Moon Spear
+B0E3AF70:Royal Runed Knuckles
+B0E3AF71:Princely Runed Knuckles
+B0E3AF72:Asheron's Supreme Raiment
+B0E3AF73:Royal Runed Two Handed Corsesca
+B0E3AF74:Princely Runed Two Handed Corsesca
+B0E3AF76:First Half of a Battered Staff
+B0E3AF77:Imbue Swap Coin
+B0E3AF78:Chorizite Veined Shield
+B0E3AF79:Bandit Shield
+B0E3AF7B:Shield of Strathelar
+B0E3AF7C:Squalid Shield
+B0E3AF7D:Diamond Shield
+B0E3AF7E:Training Mace
+B0E3AF81:Facility Hub Portal Gem
+DBEA9ADA:Sack
+B0E3AF85:Aphus Lassel Portal Gem
+B0E3AF8C:Tibri's Fire Spear
+B0E3AFA1:Shield of the Strathelar Elite
+B0E3DE81:Shield of Truth
+B0E3AF94:Acid Axe
+B0E3B770:Shield of Yanshi
+B0E3B76F:Ixir's Staff of Eyes
+B0E3AF43:Princely Runed Arbalest
+B0D1A331:Yoroi Leggings
+B0E3AF96:Axe Head Helm
+B69B36D4:Trade Note (250,000)
+B0E3AF99:Ice Tachi
+B0E3AF8A:Dagger of Tikola
+B0E3AF8B:Platemail Hauberk of the Ogre
+B0E3AF89:Green Mire Yoroi Cuirass
+B0E3AF8D:Trothyr's War Hammer
+B0E3AF8E:Lilitha's Bow
+B0E3AF8F:Ruschk Hunter Leggings
+B0E3AF90:Mace of the Explorer
+B0E3AF91:Ancient Arbalest
+B0E3AF92:Branith's Shirt
+B0E3AF93:Silver Atlatl
+B0E3AF95:Quarter Staff of Fire
+B0E3AF87:Fiery Shield
+B0E3AF9B:Hammer of Lightning 
+B0E3AF97:Crown of Bone
+B0E3AF98:Dansha-Ki's Ring
+
+Missing Exports - Possessed items that were not found:

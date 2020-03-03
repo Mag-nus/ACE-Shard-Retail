@@ -1,0 +1,160 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\gdrive (tfarley)\Eichy\AC\pkt_2017-1-30_1485825533_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\gdrive (tfarley)\Eichy\AC\pkt_2017-1-30_1485824845_log.pcap
+
+Partial Exports - Missing appraisal info:
+DC4327B0:Loose Shirt
+DC3F1BC3:Baggy Pants
+DC428B63:Slippers
+DC43193C:Pyreal
+DC41E12C:Sack
+DC432076:Ust
+DC431957:Training Stick
+DC41E36D:Handy Healing Kit
+DC432077:Bundle of Arrowheads
+DC43193E:Bundle of Quarrelshafts
+DC427AC1:Bundle of Arrowheads
+DC432084:Bundle of Atlatl Dart Shafts
+DC369B9D:Gem
+DC432082:Mortar and Pestle
+DC41294B:Gem
+DC431955:Gem
+DC3F03D9:Letter From Home
+DC427AAB:Bread
+DC4280D6:Blackmoor's Favor
+DC4329D4:Academy Exit Token
+DC41E8F2:Leather Gauntlets
+DC428B30:Leather Leggings
+DC4328C5:Leather Cap
+DC3662B0:Academy Library Key
+DC3A5910:Mana Potion
+DC3D5895:Stamina Potion
+DC44C332:Potion of Healing
+DC390948:Thrungus Hovel Locations
+DC3D6321:Academy Coat
+DC432770:Scroll of Primary Portal Tie
+DC44C635:Greater Mana Stone
+DC3F19D6:Scroll of Primary Portal Recall
+DC44C631:Amuli Coat
+DC415FF4:Major Mana Stone
+DC427915:Amuli Leggings
+DC3A59A9:Horned Helm
+DC41E494:Couch
+DC43282B:Arrow
+DC42788D:Arrow
+DC3D58DF:Academy Shortbow
+DC3A57E7:Deadly Armor Piercing Arrow
+DC432834:Deadly Lightning Arrow
+DC30F067:The Studious Mind
+DC3D4DB8:Deadly Fire Arrow
+DC44C638:Deadly Lightning Arrow
+DC4278E8:Arcane Pedestal
+DC44C637:Arrow
+DC44C639:Small Shard
+DC44C630:Claw
+DC4649BE:Pack
+DC431DC5:Concentrated Bloodseeker Oil
+DC4282D8:Concentrated Acid Oil
+DC428366:Concentrated Frost Oil
+DC428093:Concentrated Lightning Oil
+DC464A12:Concentrated Bloodhunter Oil
+DC3DA9B4:Concentrated Bloodhunter Oil
+DC3DBC0E:Concentrated Bloodseeker Oil
+DC3D4BDB:Concentrated Bloodseeker Oil
+DC44C338:Ring
+DC44C339:Pants
+DC44C33A:Large Kite Shield
+DC4318FF:Dark Shard
+DC44C33B:Pants
+DC3A615C:Heavy Bracelet
+DC3F0F25:Lightning Ken
+DC433135:Sollerets
+DC413077:Slashing Bow
+DC44C634:Blunt Bow
+DC368C23:Amuli Coat
+DC4330FE:Ring
+DC42803B:Small Pine Tree
+DC432829:Bracelet
+DC4327DE:Covenant Sollerets
+DC4330EC:Scimitar
+DC41E492:Heavy Bracelet
+DC42802A:Glacial Golem Heart
+DC41F023:Ring
+DC3F0F23:Pants
+DC383118:Doublet
+DC4118E7:Resister's Crystal
+DC36B0EB:Fletcher's Crystal
+DC42725C:Enchanter's Crystal
+DC41E12B:Seal
+DC433190:Fireworks
+DC432EF0:Salvaged  (100)
+DC4649BB:Salvaged  (100)
+DC428383:Pack Gaerlan
+DC43220A:Pack
+DC3F1793:Pants
+DC412F42:Gorget
+DC43DFA4:Acid Claw
+DC42834D:Shirt
+DC411DD5:Pack Asheron
+DC43DF34:Nekode
+DC3D9B90:Lightning Katar
+DC43DFAB:Nekode
+DC43D904:Lightning Claw
+DC369B80:Frost Cestus
+DC4649BC:Knuckles
+DC41E906:Elemental Master Robe
+DC432898:Frost Claw
+DC431BD2:Ring
+DC4278D8:Argenory Plant
+DC414E42:Katar
+DC432053:Katar
+DC431945:Lightning Claw
+DC3DA95F:Flaming Cestus
+DC4318B8:Salvaged  (15)
+DC4160BD:Salvaged  (70)
+DC14F114:Pack Asheron
+DC4160BC:Salvaged  (21)
+DC4160BE:Salvaged  (36)
+DC432A4E:Festival Lights
+DC431937:Salvaged  (11)
+DC43194E:Salvaged  (30)
+DC432A4B:Crystal Vase with a Snowflower
+DC408910:Salvaged  (100)
+DC416097:Pants
+DC3D4C52:Carrot
+DC464A0F:Electric Bow
+DC42EADB:Heavy Necklace
+DC3D58F0:Heavy Bracelet
+DC41E918:Studded  Gauntlets
+DC432B12:Tunic
+DC432890:Claw
+DC41230C:Pants
+DC42872B:Pack Bael'Zharon
+DC43287F:Heavy Bracelet
+DC433188:Flaming Claw
+DC3D56BE:Longbow
+DC432A41:Fire Bow
+DC43317B:Celdon Leggings
+DC367CB8:Some Changes for February 2012
+DC43DFB9:Platemail Sleeves
+DC427560:Nariyid Gauntlets
+DC4161CC:Sollerets
+DC4278E7:Ring
+DC35CEA5:Bracelet
+DC41E93B:Chiran Leggings
+DC41E8D3:Salvaged  (34)
+DC41E440:Salvaged  (79)
+DC42E60E:Salvaged  (35)
+DC365017:Salvaged  (39)
+DC4326CD:Salvaged  (56)
+DC43318E:Salvaged  (12)
+DC41EFD7:Salvaged  (5)
+DC41E037:Pack Martine
+DC432895:Pack Levistras
+DC432A4A:Pack Martine
+DC28ABCE:Pack Ancient Olthoi Queen
+DC41E93A:Pack Martine
+
+Missing Exports - Possessed items that were not found:

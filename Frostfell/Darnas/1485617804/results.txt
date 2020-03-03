@@ -1,0 +1,220 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\pkt_2017-1-28_1485616386_log\pkt_2017-1-28_1485617791_log.pcap
+
+Partial Exports - Missing appraisal info:
+DA065B32:Ust
+DA065B33:Blackmoor's Favor
+DA065B34:Pyreal
+DA065B35:Pyreal
+DA065B37:Trothyr's Shield
+DA065B38:Ring
+DA065B3B:Stipend
+DA065B3C:Quest Weapon Coin
+DA065B3D:Breastplate of Grace
+DA065B3E:Fiun Spellcasting Gloves
+DA065B3F:Small Belt Pouch
+DA065B40:Electric Sceptre
+DA065B42:Blunt Sceptre
+DA065B41:Fire Baton
+DA065B44:Electric Sceptre
+DA065B45:Slashing Staff
+DA065B46:Fire Staff
+DA065B47:Fire Baton
+DA065B48:Electric Sceptre
+DA065B49:Fire Sceptre
+DA065B4A:Acid Baton
+DA065B9C:Small Belt Pouch
+DA065B4B:Piercing Staff
+DA065B4C:Electric Sceptre
+DA065B4D:Piercing Sceptre
+DA065B4E:Slashing Baton
+DA065B4F:Wand
+DA065B50:Electric Staff
+DA065BB5:Small Belt Pouch
+DA065B51:Nether Staff
+DA065B52:Pack
+DA065B6B:Pack
+DA065B53:Ring
+DA065B54:Ring
+DA065B55:Ring
+DA065B56:Ring
+DA065B57:Ring
+DA065B58:Necklace
+DA065B59:Ring
+DA065B5A:Bracelet
+DA065B5B:Amulet
+DA065B5C:Heavy Bracelet
+DA065B5D:Ring
+DA065B5E:Bracelet
+DA065B5F:Necklace
+DA065B60:Ring
+DA065B61:Necklace
+DA065B62:Gorget
+DA065B63:Ring
+DA065B64:Heavy Bracelet
+DA065B65:Ring
+DA065B66:Bracelet
+DA065B67:Ring
+DA065B68:Ring
+DA065B69:Ring
+DA065B6A:Ring
+DA065B6C:Salvage (100)
+DA065B6E:Salvage (100)
+DA065B84:Pack
+DA065B6F:Salvage (100)
+DA065B71:Salvage (100)
+DA065BCA:Pack
+DA065B73:Salvage (100)
+DA065B75:Salvage (100)
+DA065BED:Armet
+DA065B76:Salvage (100)
+DA065B77:Salvage (100)
+DA065B79:Salvage (100)
+DA065B7A:Salvage (100)
+DA065B7B:Salvage (100)
+DA065B7F:Salvage (100)
+DA065B80:Salvage (100)
+DA065B81:Salvage (100)
+DA065B85:Asheron's Greater Raiment
+DA065B86:Asheron's Greater Raiment
+DA065B87:Platemail Greaves
+DA065B88:Studded Leather Girth
+DA065B89:Studded Leather Basinet
+DA065B8A:Studded Leather Pauldrons
+DA065B8B:Nariyid Breastplate
+DA065B8C:Horned Helm
+DA065B8D:Lorica Leggings
+DA065B8E:Nariyid Boots
+DA065B8F:Chiran Helm
+DA065B90:Yoroi Sleeves
+DA065B91:Leather Leggings
+DA065B92:Alduressa Leggings
+DA065B93:Olthoi Koujia Sleeves
+DA065B94:Olthoi Celdon Gauntlets
+DA065B95:Sedgemail Leather Sleeves
+DA065B96:Leather Pants
+DA065B97:Celdon Breastplate
+DA065B98:Haebrean Gauntlets
+DA065B99:Chainmail Tassets
+DA065B9A:Haebrean Boots
+DA065B9B:Chainmail Greaves
+DA065B9D:Salvage (100)
+DA065B9E:Salvage (100)
+DA065B9F:Salvage (100)
+DA065BA0:Salvage (100)
+DA065BA1:Salvage (100)
+DA065BA2:Salvage (100)
+DA065BA3:Salvage (100)
+DA065BA4:Salvage (100)
+DA065BA5:Salvage (100)
+DA065BA6:Salvage (100)
+DA065BA7:Salvage (100)
+DA065BA8:Salvage (100)
+DA065BB6:Fire Baton
+DA065BB7:Fire Baton
+DA065BB8:Piercing Sceptre
+DA065BB9:Sceptre
+DA065BBA:Fire Baton
+DA065BBB:Frost Staff
+DA065BBC:Fire Staff
+DA065BBD:Blunt Sceptre
+DA065BBE:Acid Baton
+DA065BBF:Acid Sceptre
+DA065BC0:Slashing Staff
+DA065BC1:Wand
+DA065BC2:Slashing Staff
+DA065BC3:Fire Sceptre
+DA065BC4:Piercing Staff
+DA065BC5:Frost Sceptre
+DA065BC6:Nether Baton
+DA065BC7:Blunt Baton
+DA065BC8:Fire Staff
+DA065BC9:Frost Sceptre
+DA065BCB:Shirt
+DA065BCC:Smock
+DA065BCD:Trousers
+DA065BCE:Loose Shirt
+DA065BCF:Loose Pants
+DA065BD0:Poet's Shirt
+DA065BD1:Puffy Shirt
+DA065BD2:Pantaloons
+DA065BD3:Smock
+DA065BD4:Baggy Pants
+DA065BD5:Ring
+DA065BD6:Ring
+DA065BD7:Gorget
+DA065BD8:Ring
+DA065BD9:Halved Cloak
+DA065BDA:Chevron Cloak
+DA065BDB:Bordered Cloak
+DA065BDC:Chevron Cloak
+DA065BDD:Chevron Cloak
+DA065BDE:Bordered Cloak
+DA065BDF:Ring
+DA065BE0:Heavy Bracelet
+DA065BE1:Heavy Necklace
+DA065BE2:Bracelet
+DA065BE3:Salvage (100)
+DA065BEE:Aetheria
+DA065BE4:Olthoi Koujia Sleeves
+DA065BE5:Heavy Bracelet
+DA065BE6:Leather Boots
+DA065BE7:Platemail Breastplate
+DA065BE8:Haebrean Girth
+DA065BE9:Nekode
+DA065BEA:Stiletto
+DA065BEB:Chiran Gauntlets
+DA065C0D:Loafers
+DA065BEC:Flaming Nabut
+DA065BEF:Nether Baton
+DA065BF0:Blunt Baton
+DA065BF1:Blunt Staff
+DA065BF2:Aetheria
+DA065BF3:Salvage (100)
+DA065C02:Top
+DA065BF4:Chevron Cloak
+DA065BF5:Flared Pants
+DA065BF6:Salvage (100)
+DA065BF7:Salvage (100)
+DA065BF8:Salvage (100)
+DA065BF9:Cestus
+DA065BFA:Salvage (100)
+DA065BFB:Salvage (100)
+DA065BFC:Salvage (100)
+DA065BFD:Salvage (100)
+DA065BFE:Salvage (100)
+DA065BFF:Salvage (100)
+DA065C00:Electric Baton
+DA065C01:Shirt
+DA065C03:Heavy Bracelet
+DA065C04:Ring
+DA065C05:Necklace
+DA065C06:Chainmail Pauldrons
+DA065C07:Studded Leather Cuirass
+DA065C08:Studded Leather Greaves
+DA065C09:Olthoi Alduressa Coat
+DA065C0A:Puffy Shirt
+DA065C0B:Loose Breeches
+DA065C0C:Slashing Staff
+DA065C0E:Leather Cuirass
+DA065C0F:Leather Jerkin
+DA065C10:Aetheria
+DA065C11:Tenassa Leggings
+DA065C12:Heavy Necklace
+DA065C13:Heavy Necklace
+DA065C14:Baggy Shirt
+DA065C15:Pants
+DA065C16:Poet's Shirt
+DA065C17:Alduressa Gauntlets
+DA065C18:Salvage (100)
+DA065C19:Salvage (100)
+DA065C1A:Salvage (100)
+DA065C1B:Salvage (100)
+DA065C1C:Pants
+DA065C1D:Salvage (100)
+DA065C1E:Salvage (100)
+DA065C1F:Aetheria
+DA065C20:Aetheria
+DA065C21:Aetheria
+
+Missing Exports - Possessed items that were not found:

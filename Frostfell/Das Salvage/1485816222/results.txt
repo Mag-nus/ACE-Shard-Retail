@@ -1,0 +1,26 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\imtrippin-01-30-2017-empyrean-workshop-and-more\pkt_2017-1-30_1485816108_log.pcap
+
+Partial Exports - Missing appraisal info:
+9F719CA2:Ust
+9F719A63:Pathwarden Token
+9F6F2DBF:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:
+9F7896B9
+9F847797
+9F595B47
+9F84E724
+9F57FC70
+9F789877
+9F8B077B
+9F92BDC9
+9F719434
+9F48F0F1
+9F7180F5
+9F719483
+9F7799DA
+9F8DEEAE
+9F82DB9F
+9F4B4B9E
+9F75A844

@@ -1,0 +1,233 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Cyberkiller-01-31-2017-Random\pkt_2017-1-31_1485861002_log.pcap
+
+Partial Exports - Missing appraisal info:
+DD30E912:Calling Stone
+DD30E914:Pack
+DD30E916:Frost Knuckles
+DD30E918:Frost Nekode
+DD30E91A:Heavy Necklace
+DD30E91B:Ring
+DD30E91C:Shoes
+DD30E91E:Puffy Shirt
+DD30E91F:Chainmail Gauntlets
+DD30E977:Blue Blanket
+DD30E921:Lace Shirt
+DD30E978:Floating Candle
+DD30E923:Cloth Gloves
+DD30E98A:Frost Nekode
+DD30E925:Sedgemail Leather Sleeves
+DD30E926:Loafers
+DD30E98E:Floating Candle
+DD30E927:Loafers
+DD30E92D:Pack
+DD30E92A:Alduressa Gauntlets
+DD30E92B:Signet Crown
+DD30E92C:Celdon Leggings
+DD30E992:Pumpkin
+DD30E92E:Frost Poniard
+DD30E92F:Fire Crossbow
+DD30E931:Electric Atlatl
+DD30E930:Flaming Claw
+DD30E932:Shou-jen Shozoku Mask
+DD30E933:Acid Bow
+DD30E934:Loose Pants
+DD30E935:Aetheria
+DD30E9CA:Dark Shard
+DD30E936:Diforsa Girth
+DD30E937:Orb
+DD30E939:Loafers
+DD30E938:Sedgemail Leather Shoes
+DD30E93A:Studded Leather Basinet
+DD30E93B:Vestiri Over-robe
+DD30E93C:Olthoi Alduressa Gauntlets
+DD30E93D:Scalemail Sleeves
+DD30E93E:Cowl
+DD30E946:Pack
+DD30E93F:Alduressa Coat
+DD30E941:Celdon Girth
+DD30E942:Olthoi Koujia Gauntlets
+DD30E943:Olthoi Alduressa Gauntlets
+DD30E944:Haebrean Greaves
+DD30E945:Celdon Sleeves
+DD30E947:Flaming Takuba
+DD30E949:Dirk
+DD30E948:Frost Compound Bow
+DD30E94A:Acid Lancet
+DD30E94B:Blunt Bow
+DD30E94C:Covenant Shield
+DD30E94D:Electric Bow
+DD30E94E:Frost Poniard
+DD30E94F:Acid Compound Bow
+DD30E951:Dirk
+DD30E950:Frost Dirk
+DD30E952:Piercing Crossbow
+DD30E953:Diadem
+DD30E954:Faran Over-robe
+DD30E955:Circlet
+DD30E956:Leather Shorts
+DD30E957:Nariyid Breastplate
+DD30E958:Chainmail Coif
+DD30E959:Loafers
+DD30E95A:Cloak
+DD30E95B:Knorr Academy Vambraces
+DD30E95C:Leather Girth
+DD30E95D:Leather Shorts
+DD30E95E:Leather Helm
+DD30E95F:Pack
+DD30E960:Lightning Katar
+DD30E961:Nekode
+DD30E962:Frost Shamshir
+DD30E963:Lancet
+DD30E964:Lightning Stiletto
+DD30E965:Qafiya
+DD30E966:Amuli Coat
+DD30E967:Baggy Shirt
+DD30E968:Cloth Cap
+DD30E969:Leather Helm
+DD30E96A:Cloth Gloves
+DD30E96B:Cloth Gloves
+DD30E96C:Olthoi Celdon Sollerets
+DD30E96D:Sedgemail Leather Shoes
+DD30E96F:Flaming Claw
+DD30E970:Pack
+DD30E971:Frost Cestus
+DD30E972:Lightning Katar
+DD30E973:Covenant Shield
+DD30E976:Golden Pumpkin
+DD30E974:Lightning Dericost Blade
+DD30E975:Light Weapons Specialist's Gauntlets
+DD30E979:Frost Long Sword
+DD30E97A:Rapier
+DD30E97B:Aetheria
+DD30E97C:Aetheria
+DD30E97D:Aetheria
+DD30E97E:Heavy Bracelet
+DD30E97F:Aetheria
+DD30E980:Shoes
+DD30E981:Aetheria
+DD30E982:Aetheria
+DD30E983:Aetheria
+DD30E984:Aetheria
+DD30E986:Aetheria
+DD30E987:Aetheria
+DD30E988:Pack
+DD30E989:Covenant Shield
+DD30E98B:Khanjar
+DD30E98C:Frost Bow
+DD30E98D:Piercing Compound Crossbow
+DD30E98F:Pack Dark Remoran
+DD30E990:Scarecrow Torso
+DD30E991:Blue Anniversary Sparkler
+DD30E993:Acid Slingshot
+DD30E996:Wand
+DD30E994:Piercing Compound Crossbow
+DD30E995:Heavy Bracelet
+DD30E997:Small Shard
+DD30E998:Poniard
+DD30E999:Poniard
+DD30E99A:Shirt
+DD30E99B:Pack
+DD30E9BB:Amulet
+DD30E99C:Sedgemail Leather Pants
+DD30E99D:Olthoi Alduressa Leggings
+DD30E99E:Alduressa Leggings
+DD30E99F:Chainmail Pauldrons
+DD30E9A0:Quartered Cloak
+DD30E9A1:Heavy Bracelet
+DD30E9A2:Aetheria
+DD30E9A3:Aetheria
+DD30E9A4:Aetheria
+DD30E9A5:Aetheria
+DD30E9A6:Koujia Sleeves
+DD30E9A7:Kasa
+DD30E9A8:Leather Pauldrons
+DD30E9AA:Teardrop Crown
+DD30E9AF:Chiran Helm
+DD30E9AB:Chainmail Leggings
+DD30E9AC:Alduressa Leggings
+DD30E9AD:Chiran Gauntlets
+DD30E9AE:Amuli Leggings
+DD30E9B0:Koujia Sleeves
+DD30E9B1:Long Leather Gauntlets
+DD30E9B2:Chiran Sandals
+DD30E9B3:Chiran Helm
+DD30E9C9:Diforsa Helm
+DD30E9B4:Chainmail Girth
+DD30E9B5:Salvage (100)
+DD30E9B6:Salvage (100)
+DD30E9B7:Salvage (100)
+DD30E9B8:Salvage (100)
+DD30E9B9:Salvage (100)
+DD30E9BA:Salvage (100)
+DD30E9BC:Aetheria
+DD30E9C5:Cloth Cap
+DD30E9BD:Alduressa Leggings
+DD30E9BE:Flared Pants
+DD30E9BF:Celdon Sleeves
+DD30E9C1:Olthoi Celdon Sollerets
+DD30E9C2:Hood
+DD30E9C3:Studded Leather Greaves
+DD30E9C4:Sedgemail Leather Gauntlets
+DD30E9C6:Celdon Leggings
+DD30E9C7:Piercing Sceptre
+DD30E9C8:Shirt
+DD30E9CB:Qafiya
+DD30E9CC:Slippers
+DD30E9CD:Empyrean Over-robe
+DD30E9CE:Olthoi Koujia Gauntlets
+DD30E9CF:Lightning Child Essence (180)
+DD30E9D0:Leather Boots
+DD30E9D1:Chiran Helm
+DD30E9D2:Chiran Coat
+DD30E9D3:Salvage
+DD30E9D4:Chainmail Leggings
+DD30E9D5:Chainmail Greaves
+DD30E9D6:Olthoi Amuli Gauntlets
+DD30E9D7:Studded Leather Breastplate
+DD30E9D8:Mechanical Scarab
+DD30E9D9:Olthoi Celdon Sleeves
+DD30E9DA:Alduressa Coat
+DD30E9DB:Olthoi Celdon Girth
+DD30E9DC:Alduressa Helm
+DD30E9DD:Slippers
+DD30E9DF:Alduressa Gauntlets
+DD30E9DE:Studded Leather Gauntlets
+DD30E9E0:Olthoi Alduressa Helm
+DD30E9E1:Olthoi Celdon Gauntlets
+DD30E9E2:Yoroi Pauldrons
+DD30E9E3:Nariyid Boots
+DD30E9E4:Chainmail Gauntlets
+DD30E9E5:Diforsa Sollerets
+DD30E9E6:Chiran Helm
+DD30E9E8:Puzzle Box
+DD30E9E7:Leather Pauldrons
+DD30E9E9:Chevron Cloak
+DD30E9EA:Ring
+DD30E9EB:Leather Girth
+DD30E9F1:Coronet
+DD30E9EC:Steel Toed Boots
+DD30E9ED:Olthoi Celdon Girth
+DD30E9EF:Diforsa Greaves
+DD30E9F0:Olthoi Celdon Sleeves
+DD30E9F2:Empyrean Over-robe
+DD30E9F3:Celdon Breastplate
+DD30E9F4:Crown
+DD30E9F5:Nariyid Helm
+DD30E9F6:Olthoi Koujia Kabuton
+DD30E9F7:Studded Leather Girth
+DD30E9F8:Chainmail Greaves
+DD30E9F9:Alduressa Gauntlets
+DD30E9FA:Olthoi Koujia Sleeves
+DD30E9FB:Long Leather Gauntlets
+DD30E9FC:Chiran Leggings
+DD30E9FD:Chainmail Shirt
+DD30E9FE:Studded Leather Sleeves
+DD30E9FF:Chainmail Coif
+DD30EA00:Olthoi Alduressa Helm
+DD30EA01:Frost Compound Bow
+DD30EA02:Studded Leather Tassets
+DD30EA03:Diforsa Cuirass
+DD30EA04:Studded Leather Breastplate
+
+Missing Exports - Possessed items that were not found:

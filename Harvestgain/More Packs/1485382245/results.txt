@@ -1,0 +1,283 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Blade_Random_Travels_and_Faction_Quests\pkt_2017-1-25_1485381520_log.pcap
+
+Partial Exports - Missing appraisal info:
+80B09DE8:Jitte of Law
+80B09DC7:Jitte of Law
+80B33881:Acid Sabra
+80A4A4EC:Noble Stilleto
+80B09DD6:Sword of Frozen Fury
+80B33934:Flaming Mazule
+80B33880:Ancient Empyrean Trinket
+80B338FD:Aetheria
+80B09DCE:Pack
+80B338AC:Crystal Sword
+80B338AB:Salvage (100)
+80B3388C:Polestar
+80B3387F:Salvage (100)
+80B33873:Salvage (100)
+80B33879:Platinum Scarab
+80B33874:Salvage (100)
+80B33875:Salvage (100)
+808C611E:Massive Mana Charge
+80B33876:Salvage (100)
+80B33877:Relanim Plant
+80B33878:Lapyan Plant
+80B338BE:Renegade Bone Charm
+80B338AD:Teardrop Crown
+80B338A4:Diadem
+80B338A5:Teardrop Crown
+80B31841:Teardrop Crown
+80AF90FF:Pack
+8859192C:Salvage (100)
+80B33908:Salvage (84)
+80A720E4:Pack
+80AD08F9:Salvage (7)
+87C70A45:Salvage (66)
+80AF128E:Pack
+80B095EB:Flared Pants
+80B33928:Pants
+80B30D90:Pyreal
+80AB24D6:Doublet
+80B33945:Baggy Shirt
+80AEF203:Pyreal
+80B3395B:Doublet
+80B33895:Trousers
+80B33919:Pyreal
+80B33894:Loose Breeches
+80B33893:Shirt
+80B338F1:Stipend
+80B3387E:Loose Tunic
+80B338BD:Trousers
+80B338A8:Puffy Tunic
+80B338AA:Shirt
+80B338A3:Tunic
+80B3355B:Pantaloons
+80B338B0:Flared Pants
+80B338AF:Loose Breeches
+80B338AE:Baggy Shirt
+80AC9E44:Smock
+80B3387D:Doublet
+80B095C8:Viamontian Pants
+80B095C7:Tunic
+80ACB386:Pantaloons
+80B300C7:Trousers
+80B095C9:Puffy Tunic
+80B338BC:Baggy Tunic
+80B338C7:Amulet
+8287C8D8:Dark Revenant Thighbone
+80A8D664:Gorget
+80B338CC:Gorget
+80B338BB:Amulet
+80B333FC:Heavy Necklace
+80B338B3:Heavy Necklace
+80A9658E:Amulet
+80B338B2:Heavy Necklace
+80B338B1:Heavy Necklace
+80B3102E:Gorget
+80B097A4:Amulet
+80AC9D4F:Gorget
+80A96518:Gorget
+80ACA9C6:Gorget
+80B33925:Heavy Necklace
+80B33933:Heavy Bracelet
+80B3391A:Bracelet
+80B3392A:Heavy Bracelet
+80AB17B5:Heavy Bracelet
+80AC8448:Ring
+80B338F5:Ring
+80B338D1:Protective Drudge Charm
+885106B6:Ring
+8872C1F3:Ring
+80A57959:Heavy Bracelet
+80ACB588:Heavy Bracelet
+80ADF978:Heavy Bracelet
+80B338BA:Bracelet
+80AF13E6:Heavy Bracelet
+80A7D9E7:Heavy Bracelet
+80B3398A:Bracelet
+80B33899:Heavy Bracelet
+80B3389A:Heavy Bracelet
+80B315C0:Bracelet
+80B3389B:Heavy Bracelet
+80B3389C:Heavy Bracelet
+80B338CF:Bracelet
+80B3389D:Heavy Bracelet
+80B3389E:Heavy Bracelet
+80B338E6:Pack
+80B3389F:Heavy Bracelet
+80B338DB:Heavy Bracelet
+80B207C8:Ring
+80B338CD:Heavy Bracelet
+80B3398B:Heavy Bracelet
+80B338E5:Ring
+80B338C1:Heavy Bracelet
+80B338DD:Heavy Bracelet
+80B338CE:Ring
+80B338DC:Heavy Bracelet
+80B095ED:Heavy Bracelet
+80B339A0:Ring
+80B095EC:Heavy Bracelet
+80B339AA:Ring
+80B05A96:Ring
+80B2DE44:Ring
+80B338E8:Ring
+80B30D1F:Ring
+80B30D20:Ring
+80B30D1E:Ring
+80B338E4:Ring
+80B338DE:Ring
+80A766E5:Ring
+80A21951:Ring
+80ACCC9E:Ring
+80B049C4:Ring
+80AE91F5:Ring
+80B0DB50:Ring
+80AD0906:Ring
+80B338E3:Ring
+80B3395E:Ring
+80B094AF:Ring
+80B095EE:Ring
+80B338F0:Mechanical Scarab
+80B338EF:Acid Sceptre
+80B33905:Gold Pea
+80B339C2:Pocket Watch
+80B2C368:Compass
+80B338EE:Copper Heart
+80B338FA:Electric Baton
+80B338E2:Piercing Staff
+8328D04D:Gold Tumerok Insignia
+80AF1AA6:Wand
+80B338C6:Orb
+80AB12C0:Aetheria
+80B339D5:Mechanical Scarab
+80B338FB:Crown
+827B1CE1:Red Monster Seed
+80B339D6:Nether Baton
+80B338D2:Aetheria
+886CC2DF:Scarlet Red Letter
+80B338D3:Nether Staff
+80B338D4:Frost Baton
+808C56EF:Banished Point
+80B338D5:Blunt Baton
+80B338D6:Compass
+886B7E37:Scarlet Red Letter
+80B338D8:Puzzle Box
+80B338F9:Goggles
+80B338F3:Top
+80B338E1:Pocket Watch
+80B33904:Puzzle Box
+80AF33B2:Health Tonic
+80B338DF:Doublet
+80B338E0:Pocket Watch
+886ED1E5:Scarlet Red Letter
+80B339EA:Shirt
+80B33907:Puzzle Box
+886ED222:Scarlet Red Letter
+80AEF204:Tunic
+80AC9D80:Pocket Watch
+886DF071:Scarlet Red Letter
+80AAD725:Acid Baton
+80AC8A81:Shirt
+80B31193:Fire Baton
+80A8A5E8:Vest
+88918A68:Flaming Jitte
+80B33900:Shou-jen Shozoku Jacket
+80B338F7:Mechanical Scarab
+80B33906:Wand
+80B33916:Slashing Staff
+886D93A9:Brown Beans
+80B338ED:Frost Sceptre
+80B338EC:Board with Nail
+808C56E6:Sword of Frozen Fury
+80B3391C:Flaming Quarter Staff
+80A4822A:Electric Compound Crossbow
+80B338F4:Frost Baton
+80B3391B:Pocket Watch
+80B33929:Baggy Tunic
+80AAD6E8:Salvage (42)
+80B33A24:Smock
+80A44FDF:Electric Baton
+80B1F34A:Poet's Shirt
+80A80083:Chevron Cloak
+80AD18E2:Electric Baton
+880EF189:Fire Baton
+8869CB75:Northern Quiddity Fragment
+885106B1:Electrified Moar Essence
+88515A90:Blunt Crossbow
+88515BB1:Morning Star
+88590D18:Slashing Staff
+884913C2:Chainmail Girth
+884A82D1:Flaming Knife
+884C6754:Doublet
+890AF820:Acid Shou-ono
+8852892C:Olthoi Amuli Sollerets
+80645ACD:Slashing Atlatl
+88914661:Yoroi Tassets
+88918F0C:Olthoi Koujia Sollerets
+8892A56B:Haebrean Tassets
+888AC79B:Shou-jen Shozoku Mask
+890AF825:Gorget
+88892396:Shou-jen Jika-Tabi
+808C56E7:Ring
+890AFB91:Flaming Knife
+88515441:Blistering Moar Essence
+884C5AA2:Lightning Skeleton Samurai Essence
+8850F596:Fire Skeleton Samurai Essence
+884A7A8C:Voltaic Wisp Essence
+8908B1F4:Fire Naginata
+8907CB72:Nabut
+8908FE52:Acid Trident
+890AFA53:Flaming Quarter Staff
+890AFA50:Trident
+890AFCB8:Lightning Jo
+8907129B:Olthoi Amuli Gauntlets
+88514F9D:Flared Tunic
+80B095F7:Academy Spadone
+
+Missing Exports - Possessed items that were not found:
+80B3385A
+80B3385F
+80B33864
+80B33861
+80B33860
+80B09DD3
+80A4318B
+80B09DD5
+80B09DEA
+80B30CA9
+80B30CAC
+80B30CAB
+80B30CAA
+80B3386F
+80B095D8
+80B09CF8
+80B33883
+80B33882
+80B3385D
+80B3385C
+80B3385B
+80AD0989
+80AF33BB
+88EAD491
+80B2A403
+80B339F9
+80B338C0
+80B338F6
+80B33859
+80B33858
+80B33857
+80AF438D
+80B3386E
+80B3391E
+80B3387B
+80B33918
+80ACB43C
+80B33917
+80B20832
+80B33869
+80B3386A
+80AD1025
+80AAD938
+80B3386B
+80B3386C

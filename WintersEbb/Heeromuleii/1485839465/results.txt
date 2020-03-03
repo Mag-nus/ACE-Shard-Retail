@@ -1,0 +1,109 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485839309_log.pcap
+
+Partial Exports - Missing appraisal info:
+9153D507:Foci of Artifice
+9153EA77:Foci of Verdancy
+9152747F:Pack
+9153EB59:Fine Olthoi Greaves
+9153EB7B:Fine Olthoi Brood Queen Helm
+9153EB84:Pack Grael
+9153EB72:Fine Olthoi Gauntlets
+9153EB6A:Fine Olthoi Pauldrons
+9153EB6F:Orb of the Bunny Booty
+9153EB45:Fine Olthoi Breastplate
+915268B5:Fine Olthoi Bracers
+9153EB67:Fine Olthoi Girth
+9153E17B:Fine Olthoi Tassets
+9153CB32:Pack Bael'Zharon
+9153D400:Weeping Mace
+9153D344:Rare Red Pack Idol
+91538586:Head of the Olthoi Queen
+9153D3E8:Pack Ancient Olthoi Queen
+90E5C7ED:Tipped Pack Cow
+9153BCA0:Pack Ancient Olthoi Queen
+9153BC76:Shoyanen's Portal Gem
+9153BCAE:Celdiseth's Portal Gem
+9153EC8B:Combined Hyssop and Mandrake
+914D60A9:Soft Bandages
+914D55F6:Katar
+9153D3EF:Lightning Claw
+9154DB64:Pack
+9154DB65:Ahruenga Portal Gem
+9153EBA2:Pack
+9153EC9D:Ahruenga Portal Gem
+9153EC4E:Gem of Dispersal
+9153AEE4:Abandoned Mines Portal Sending Gem
+9153EB2F:Lytelthorpe Portal Gem
+9153BCEB:Shoushi Portal Gem
+9153BC8B:Blackmoor's Favor
+9153EB98:Buadren
+9153EC05:Chorizite
+9153D428:Small Olthoi Grub
+9153E191:Pack
+9153E1BC:Shadow Fragment
+9153EBFE:Pyreal Bar
+9158D12E:Pyreal Bar
+9158D12F:Quality Pyreal Ingot
+9158D130:Quality Pyreal Ingot
+9158D131:Imbued Pyreal Nugget
+9158D132:Pyreal Mote
+9158D133:Shadow Fragment
+9158D134:Shadow Fragment
+9158D139:Shadow Fragment
+9158D13A:Pyreal Nugget
+9158D13B:Sturdy Steel Key
+9158D13C:Sturdy Steel Key
+9158D13E:Scalemail Gauntlets
+9158D13F:Pack
+9158D14B:Salvaged  (100)
+9158D14D:Salvaged  (41)
+9158D153:Peerless Stinging Atlan Claw
+9158D156:Peerless Stinging Atlan Dagger
+9158D157:Basalt Blade
+9158D158:Sword of Lost Light
+9158D159:Lugian Scepter
+9158D15A:Golden Gromnie
+9158D15D:Scepter of Thunderous Might
+9158D15E:Wedding Cake
+9158D160:Virindi Profatrix Mask
+9158D162:Bloodied Burun Hide
+9158D163:Large Sclavus Hide
+9158D164:Crystal Nodule
+9158D166:I survived the Tusker Emporium
+9158D167:Olthoi Celdon Helm
+9158D168:Sedgemail Leather Sleeves
+9158D169:Chiran Gauntlets
+9153D467:Etheric Seal
+9158D16A:Olthoi Gauntlets
+9158D16B:Bracelet
+9158D16C:Baggy Shirt
+9158D16D:Heavy Bracelet
+9158D17A:Undead Guise
+9158D16F:Martine's Mask
+9158D170:Martine's Mask
+9158D171:Martine's Robe
+9158D172:Martine's Robe
+9158D173:Martine's Robe
+9158D174:Elemental Master Robe
+9158D175:Elemental Master Robe
+9158D176:Ogre Mask
+9158D177:Crimped Hat
+9158D178:Dapper Suit
+9158D179:Zombie Mask
+9158D17B:Skull Mask
+9158D17C:Ghost Guise
+9158D17D:Fletcher's Cap
+9158D17E:Pack Pumpkin Lord
+9158D17F:Pack Pumpkin Lord
+9158D180:Frosty Celdon Leggings
+9158D181:Charged Celdon Leggings
+9158D188:White Rabbit Carcass
+9158D183:Ruddy Winged Boots
+9158D185:Aphus Lounging Shirt
+9158D186:Aphus Wading Pants
+9158D187:Aphus Sun Guard
+9158D18A:Burnja's Board with Nails
+9158D18C:Pink Marshmallow Eep
+
+Missing Exports - Possessed items that were not found:

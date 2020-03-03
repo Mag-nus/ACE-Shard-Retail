@@ -1,0 +1,9 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\Asherons-Call-20170203024646\pkt_2017-1-21_1485024620_log.pcap
+
+Partial Exports - Missing appraisal info:
+DC36237B:Olthoi Fibrous Healing Tissue
+DC36237C:Acidic Infusion
+DC84C033:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

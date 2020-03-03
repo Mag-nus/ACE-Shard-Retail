@@ -1,0 +1,12 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-21_1485031724_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-21_1485028583_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-21_1485031724_log.pcap
+
+Partial Exports - Missing appraisal info:
+DC8BD283:Pack
+D447D8EE:Blunt Compound Bow
+
+Missing Exports - Possessed items that were not found:

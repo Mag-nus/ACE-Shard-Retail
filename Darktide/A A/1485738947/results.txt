@@ -1,0 +1,222 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\DataLog\DataLog\pkt_2017-1-29_1485738449_log.pcap
+
+Partial Exports - Missing appraisal info:
+819C502C:Glyph of Missile Weapons
+81A4F659:Glyph of Armor Tinkering
+81A4F651:Glyph of Item Enchantment
+81A4F662:Glyph of Health
+81A4F66A:Glyph of Cooking
+81A4F652:Loafers
+81A4F640:Signet Crown
+81A4F65A:Crown
+81A4F620:Crown
+D03CA649:Mana Forge Key
+81A4F618:Crown
+819C4F34:Pack
+81A4F62E:Cloth Gloves
+81A4F65D:Alacritous Ink
+81A4F649:Reinforced Shou-jen Shozoku Jacket
+819C4F35:Reinforced Shou-jen Jika-Tabi
+81A4F621:Reinforced Shou-jen Shozoku Mask
+81A4F65B:Reinforced Shou-jen Shozoku Gauntlets
+81A4F680:Chainmail Gauntlets
+81A4F66E:Parabolic Ink
+81A4F642:Studded Leather Girth
+81A4F64A:Lorica Gauntlets
+81A4F625:Stipend
+81A4F65C:Leather Shirt
+81A4F61A:Chiran Sandals
+81A4F665:Lorica Helm
+81A4A082:Winter Orb
+81A4F66D:Yoroi Cuirass
+81A4E797:Chiran Leggings
+819C4E2D:Sedgemail Leather Vest
+81A4F681:Lyceum Hood
+819C4EBB:Olthoi Alduressa Helm
+81A4A07F:Blue Jewel
+819C4DE3:Olthoi Girth
+81A4F607:Quill of Infliction
+81A4F746:Glyph of Frost
+D038CE85:Mana Forge Key
+819C4DEB:Glyph of Lockpick
+81A4F5F7:Ink of Conveyance
+D038D95A:Aged Legendary Key
+81A4F61B:Glyph of Corrosion
+81A4F623:Ink of Partition
+81A4F655:Ink of Separation
+81A4F666:Glyph of Flame
+81A4F62C:Pack
+819C4EBD:Glyph of Damage
+81A4F62A:Glyph of Self
+81A4F694:Glyph of Endurance
+81A4F5FB:Glyph of Arcane Lore
+81A4F608:Glyph of Item Tinkering
+81A4F644:Gorget
+81A4F64C:Ring
+81A4F624:Ring
+81A4F61C:Ring
+81A4F62F:Ring
+81A4F5FC:Bracelet
+81A4A072:Trident
+81A4A8A6:Glyph of Run
+81A4A073:Heavy Bracelet
+81A4F5A6:Pack
+81A4A074:Glyph of Monster Appraisal
+81A4A071:Ink of Direction
+81A4F5D3:Glyph of Summoning
+81A4F609:Glyph of Salvaging
+81A4F645:The Orphanage
+81A4F64D:Glyph of Piercing
+81A4F5DA:Quill of Introspection
+819C4DCC:Blunt Compound Crossbow
+81A4F61D:Lightning War Axe
+81A4F5C9:Large Kite Shield
+81A4F5E3:Celdon Sleeves
+81A4F5B9:Chainmail Girth
+81A4F5DB:Olthoi Celdon Sleeves
+81A4F626:Brilliant Celdon Leggings
+81A4F5E4:Leather Pants
+81A4F5B1:Olthoi Amuli Leggings
+81A4F5C2:Celdon Breastplate
+81A4F5CA:Celdon Breastplate
+81A4F5FE:Sedgemail Leather Vest
+81A4F62D:Olthoi Amuli Helm
+81A4A080:Alduressa Helm
+81A49652:Aetheria Mana Stone
+81A4A081:Celdon Breastplate
+81A4A084:Fire Spectre Essence (180)
+81A4A085:Frost Child Essence (150)
+81A4F5D5:Studded Leather Girth
+81A4F5D2:Studded Leather Bracers
+81A4F5DC:Knorr Academy Breastplate
+81A4F61F:Celdon Sleeves
+81A4F5B2:Koujia Breastplate
+81A4F5E5:Chiran Gauntlets
+81A4F628:Studded Leather Pauldrons
+81A4F62B:Kote
+81A4F5DD:Slashing Sceptre
+81A4F60C:Puzzle Box
+81A4F5E6:Lorica Breastplate
+81A4F5B3:Celdon Breastplate
+81A4F5C4:Hood
+81A4F5CC:Health Philtre
+81A4F600:Glyph of Two Handed Combat
+81A4F5A8:Glyph of Void Magic
+81A4F5BC:Glyph of Dirty Fighting
+81A4F60D:Ink of Objectification
+81A4F5DE:Glyph of Bludgeoning
+81A4F5E7:Glyph of Sneak Attack
+819C5176:Glyph of Magic Defense
+81A4F5B4:Glyph of Missile Defense
+81A4F5CD:Glyph of Shield
+81A4F601:Glyph of Mana Regeneration
+81A4F5A9:Ink of Nullification
+81A4F5BD:Glyph of Life Magic
+81A4F5C5:Quill of Extraction
+81A4F5DF:Heavy Bracelet
+819C526D:Glyph of Stamina Regeneration
+819C5E88:Glyph of Finesse Weapons
+81A4F5E8:Glyph of Lightning
+819C5179:Glyph of Armor
+81A4F5B5:Quill of Benevolence
+81A4F5C6:Ink of Formation
+81A4F5CE:Glyph of Quickness
+819C4E5A:Glyph of Jump
+81A4F5BE:Ancient Falatacot Trinket
+81A4F5E0:Ancient Empyrean Trinket
+81A4F5E9:Black Luster Pearl
+D03DB0E1:Glyph of Regeneration
+
+Missing Exports - Possessed items that were not found:
+81A4F647
+81A4F68A
+81A4F689
+81A4F650
+81A4F67B
+81A4F660
+81A4F658
+81A4F65F
+81A4F668
+81A4F63F
+81A4F657
+81A4F669
+814E2DF8
+81A4F67D
+81A4F688
+81A4F661
+81A4F67C
+81A4F64F
+81A4F667
+81A4F69F
+819C5F0D
+81A4A027
+D03CAF0E
+819C5EA9
+819C5E8D
+81A4F6CA
+81A4F6DC
+81A4F6B9
+81A4F6B1
+819C5E94
+81A4F6A0
+819C5E80
+81A4F6C9
+81A4F6D1
+81A49FFD
+81A49FFF
+81A49FFE
+81A4F6DB
+81A4F6B8
+81A4F6B0
+81A4F6F1
+81A4F6E9
+819C5E20
+81A49FF2
+81A49FF4
+81A49FF3
+81A4A026
+81A4F6BC
+814F2AE8
+81A4F6A3
+81A4F685
+81A48E3E
+81A4A017
+81A4A01B
+81A4A01A
+81A4A019
+81A4A018
+81A4F6D4
+81A4F6BB
+81A4F6B3
+81A4F6A2
+81A4F684
+81A4F6CB
+81A4F6CC
+81A4F6D3
+81A4F6DD
+81A4F6BA
+81A4F6B4
+81A4F6B2
+81A4F6A1
+D0404BB8
+D0404A31
+D03F7D73
+81A4F6A5
+81A4F687
+81A4F673
+81A4F66F
+81A4A02E
+81A4A031
+81A4A030
+81A4A02F
+81A4F67A
+81A4F686
+81A4A029
+819F8632
+81A4A02D
+81A4A02C
+81A4A02B
+81A4A02A
+81A4A028
+81A4F671

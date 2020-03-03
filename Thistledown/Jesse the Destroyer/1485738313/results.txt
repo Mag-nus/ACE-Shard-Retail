@@ -1,0 +1,120 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps1\pkt_2017-1-29_1485719326_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps1\pkt_2017-1-29_1485738401_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps1\pkt_2017-1-29_1485744711_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps1\pkt_2017-1-29_1485753653_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps2\pkt_2017-1-30_1485756587_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps2\pkt_2017-1-30_1485806224_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps2\pkt_2017-1-30_1485806224_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps2\pkt_2017-1-30_1485806224_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps2\pkt_2017-1-30_1485806224_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps2\pkt_2017-1-30_1485806224_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps2\pkt_2017-1-30_1485806224_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps2\pkt_2017-1-30_1485806224_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps2\pkt_2017-1-30_1485806224_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps3\pkt_2017-1-31_1485843405_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps3\pkt_2017-1-31_1485843405_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps3\pkt_2017-1-31_1485843405_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps3\pkt_2017-1-31_1485843405_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps3\pkt_2017-1-31_1485843405_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps3\pkt_2017-1-31_1485843405_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps3\pkt_2017-1-31_1485843405_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps3\pkt_2017-1-31_1485843405_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps3\pkt_2017-1-31_1485843405_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps3\pkt_2017-1-31_1485869518_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps3\pkt_2017-1-31_1485869518_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps3\pkt_2017-1-31_1485869518_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps3\pkt_2017-1-31_1485869518_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps3\pkt_2017-1-31_1485869518_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps1\pkt_2017-1-25_1485391608_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps1\pkt_2017-1-25_1485391608_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps1\pkt_2017-1-25_1485402896_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps1\pkt_2017-1-26_1485491082_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps1\pkt_2017-1-27_1485499639_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps1\pkt_2017-1-28_1485586574_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps1\pkt_2017-1-28_1485658916_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps1\pkt_2017-1-28_1485658916_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps1\pkt_2017-1-29_1485719326_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps1\pkt_2017-1-29_1485719326_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps1\pkt_2017-1-29_1485719326_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps1\pkt_2017-1-29_1485719326_log.pcap
+
+Partial Exports - Missing appraisal info:
+951D4A0E:Pyreal
+856DEFF0:Cave Penguin Cake
+85756330:Gonjoku's Mana Infusion
+8001D457:Ust
+82AC6613:Halved Cloak
+94D857E0:Shoyanen's Portal Gem
+959CD264:Prismatic Taper
+8001CC79:Town Network Portal Gem
+8001CC85:Imbue Swap Coin
+8001CC8E:Spirit of Izexi Gem
+8001D434:Drudge Scrying Orb
+940F9978:Prismatic Taper
+8001CC9E:Lead Scarab
+8001CC9F:Iron Scarab
+8001CCA0:Silver Scarab
+8001CCA1:Platinum Scarab
+8001CCA2:Diamond Scarab
+8001CCA3:Copper Scarab
+8001CCA4:Gold Scarab
+8001CCA5:Pyreal Scarab
+8001CCAB:Mana Scarab
+83693398:Chorizite
+8001D46E:Platinum Medal of Intellect
+8001D46F:Platinum Medal of Vigor
+9400D310:Prismatic Taper
+8001CCC5:Bronze Gearknight Gear
+819CA4DB:Trade Note (250,000)
+8001CCE0:Cloak
+8001CCE1:Chevron Cloak
+8001CCE2:Halved Cloak
+828335DF:Superb Lockpick
+851294F2:Peerless Lockpick
+8001CCB7:Attenuated Awakener
+84A8976A:Tusker Spit Ale
+9518EA33:Treated Healing Kit
+84A897C2:Bobo's Stout
+84A89712:Amber Ape
+92ED1239:Duke Raoul's Distillation
+92EFF195:Apothecary Zongo's Stout
+8001D45A:Aetheria Mana Stone
+9383B2E5:Major Mana Stone
+858C3E97:Refreshing Water
+8001D47E:Lightning Wisp Essence (180)
+8001D482:Acid K'nath Essence (180)
+8001D455:Ring
+9515F5C2:Infused Amber Shard
+9530EFB3:Promissory Note
+861F7087:Aetheria
+800A65C2:Renegade Herbal Kit
+8001D47C:Invoker
+8001CC70:Elaborate Field Health Rations
+95B27CA1:Titan Mana Charge
+8001D47F:Halved Cloak
+93FC2971:Essence of Wind Fury
+858FD5C4:Essence of Cave Penguin
+95B27A81:Titan Mana Charge
+95B27ABE:Titan Mana Charge
+95B5BD53:Titan Mana Charge
+805C3502:Ring
+8001CCBA:Armoredillo Egg
+945E1AC3:Lesser Corrupted Essence
+8001D42F:Red Rune Silveran Bow
+92D45797:Ring
+80108F1D:Frost Cestus
+805BDEFF:Flaming Nabut
+95B28391:Titan Mana Charge
+95B5BE50:Titan Mana Charge
+94010092:Voltaic Wisp Essence
+8001D44D:Lightning Morning Star
+8003A617:Ring
+8001D454:Enhanced Assault Axe
+82F6C54E:Intricate Carving Tool
+8206EBC0:Intricate Carving Tool
+ABD3D181:Modified Iasparailaun
+
+Missing Exports - Possessed items that were not found:

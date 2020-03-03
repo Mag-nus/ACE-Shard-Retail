@@ -1,0 +1,119 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-25-2017-Skull-of-High-Acolyte\pkt_2017-1-25_1485403728_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-23-2017-HuntingEastwatchPart2\pkt_2017-1-23_1485232803_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-23-2017-HuntingEastwatchPart2\pkt_2017-1-23_1485232803_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-23-2017-HuntingEastwatchPart2\pkt_2017-1-23_1485232803_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-23-2017-HuntingEastwatchPart2\pkt_2017-1-23_1485232803_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-24-2017-First5PincersYaraqGambling\pkt_2017-1-24_1485313880_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-24-2017-First5PincersYaraqGambling\pkt_2017-1-24_1485313880_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-24-2017-First5PincersYaraqGambling\pkt_2017-1-24_1485322899_log.pcap
+
+Partial Exports - Missing appraisal info:
+D7ADE126:Pyreal
+D7ADE128:Ust
+D7FC0608:Pack
+D8298DD2:Treated Healing Kit
+D8298E31:Treated Healing Kit
+D8298DDC:Treated Healing Kit
+D8298DD5:Treated Healing Kit
+D8298DC3:Treated Healing Kit
+D7FEF627:Treated Healing Kit
+D7F9D0E6:Treated Healing Kit
+D7E85002:Treated Healing Kit
+D82992CE:Treated Healing Kit
+D82992FF:Treated Healing Kit
+D8298DCB:Treated Healing Kit
+D8257105:Treated Healing Kit
+D82572C6:Treated Healing Kit
+D81F8310:Treated Healing Kit
+D81F849D:Treated Healing Kit
+D81D7F20:Treated Healing Kit
+D81D7FB3:Treated Healing Kit
+D81D802E:Treated Healing Kit
+D81F8452:Treated Healing Kit
+D7FDE35F:Pack
+D81D7FD7:Isparian
+D81D7FB8:Golden Gromnie
+D81F8442:Pack Drudge
+D7FC060A:Pack
+D81F84D5:Pack Drudge
+D80DEF7D:Scroll of Caustic Blessing
+D81F8474:Pack Drudge
+D8111ADB:Scroll of Twisted Digits
+D81D7FDA:Pack Drudge
+D81115A6:Scroll of Avalenne's Boon
+D81F833A:Pack Drudge
+D810FF54:Scroll of Gelidite's Gift
+D81F82A0:Pack Drudge
+D810E507:Scroll of Heavy Weapon Mastery Self VII
+D80EF105:Copper Gromnie Tooth
+D8297810:Sturdy Iron Key
+D8297835:Olthoi Claw
+D812D8B6:Coral Heart
+D810F89C:Copper Gromnie Tooth
+D7F56962:Scroll of Alset's Coil
+D8112A21:Scroll of The Spike
+D8111C92:Scroll of Tusker Bait
+D810CBD6:Scroll of Perseverance
+D7FEF865:Rabid Carenzi Pelt
+D7FF2B12:Lucky Gold Letter
+D7FF0069:Scroll of Might of the Lugians
+D810EE05:Rugged Gromnie Hide
+D81D79BB:Golden Gromnie
+D81D77B6:Pack Drudge
+D7FDE360:Pack
+D822DF61:Olthoi Egg
+8117F2BC:Viamontian Laced Boots
+D7FDE361:Pack
+8020FCDA:Pack
+B3586DFC:Massive Mana Charge
+B35941F9:Massive Mana Charge
+B359426F:Massive Mana Charge
+B3715820:Massive Mana Charge
+B3594268:Massive Mana Charge
+D80B19D9:Massive Mana Charge
+D80E0ABC:Massive Mana Charge
+D822E30F:Olthoi Egg
+D81F845A:Golden Key
+D8237B09:Foci of Artifice
+D8257374:Health Tonic
+D8253D71:Mana Forge Key
+D81D784A:Stamina Tonic
+D81D7FCD:Health Tonic
+D81D7EE8:Stamina Tonic
+D81F82A3:Mana Tonic
+D822DDD9:Olthoi Slasher Carapace
+D822DE14:Lesser Stamina Kit
+D822D977:Azure Gromnie Wings
+D822DF40:Grand Casino Key
+D822E49D:Stamina Philtre
+D822E59A:Scroll of Raven Fury
+D822E95D:Grand Casino Key
+D822F343:Lesser Mana Kit
+D822F50E:Renegade Herbal Kit
+D822F698:Adjanite Mana Stone
+D822EE18:Pack Golem
+922D56F3:Renegade Herbal Kit
+D822FAAE:Potion of Destiny's Wind
+D822FBB2:Golden Gromnie
+D822FC83:Renegade Herbal Kit
+D822FBED:Potion of Destiny's Wind
+D822F9A4:Pickled Olthoi Egg
+D822FCA1:Mana Forge Key
+D8230340:Adjanite Mana Stone
+D822F736:Olthoi Slasher Carapace
+D822F706:Pack Golem
+D82301F9:Pack Golem
+D7E26894:Lesser Stamina Kit
+D7E26899:Golden Gromnie
+
+Missing Exports - Possessed items that were not found:
+D81F051E
+D7FEF626
+D8238439
+D82354E1
+8020FCF1
+D82992F7
+D80EBCB4

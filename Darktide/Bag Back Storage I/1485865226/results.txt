@@ -1,0 +1,144 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-31_1485865219_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-29_1485716588_log.pcap
+
+Partial Exports - Missing appraisal info:
+CDC68CB8:Pyreal
+AD6116C7:Sack
+AD6447D3:Blackmoor's Favor
+AD5F22AC:Calling Stone
+AD5FE213:Quest Weapon Coin
+AD644A9A:Pack
+AD5FE18E:Durable Legendary Key
+AD5FE192:Durable Legendary Key
+AD5FE190:Durable Legendary Key
+AD5FE185:Durable Legendary Key
+AD5FE183:Durable Legendary Key
+AD5FE526:Durable Legendary Key
+AD63E350:Pack
+AD63E351:Durable Legendary Key
+AD63E352:Durable Legendary Key
+AD63E34F:Durable Legendary Key
+AD5FE4DE:Durable Legendary Key
+AD5FE4DC:Durable Legendary Key
+AD5FE172:Durable Legendary Key
+AD5FE4AA:Durable Legendary Key
+AD6445CD:Durable Legendary Key
+AD5FE4AB:Durable Legendary Key
+AD5FE173:Durable Legendary Key
+AD5F2258:Durable Legendary Key
+AD5FE49E:Durable Legendary Key
+AD6445DC:Durable Legendary Key
+AD5FE49F:Durable Legendary Key
+AD61722A:Durable Legendary Key
+AD5FE170:Durable Legendary Key
+AD5FE174:Durable Legendary Key
+AD61722C:Durable Legendary Key
+AD617229:Durable Legendary Key
+AD5FE16C:Durable Legendary Key
+AD61825C:Durable Legendary Key
+AD5FE16F:Durable Legendary Key
+AD5FE167:Durable Legendary Key
+AD5FE165:Durable Legendary Key
+AD5FE4B2:Pack
+AD5FE153:Durable Legendary Key
+AD644783:Durable Legendary Key
+AD634744:Durable Legendary Key
+AD63E616:Durable Legendary Key
+AD5EFDC0:Durable Legendary Key
+AD61721E:Durable Legendary Key
+AD61723B:Durable Legendary Key
+AD644B5F:Durable Legendary Key
+AD644B61:Durable Legendary Key
+AD64474C:Durable Legendary Key
+AD644B62:Durable Legendary Key
+AD644B64:Durable Legendary Key
+AD63A189:Durable Legendary Key
+AC210088:Durable Legendary Key
+AD5FE46D:Durable Legendary Key
+AD5FE46C:Durable Legendary Key
+AD5FE46E:Durable Legendary Key
+AD644B5E:Durable Legendary Key
+AD644B66:Durable Legendary Key
+AD644B67:Durable Legendary Key
+AD64481B:Durable Legendary Key
+AD5FE456:Durable Legendary Key
+AD5FE45C:Durable Legendary Key
+AD5FE462:Durable Legendary Key
+AD5FE455:Pack
+AD644B69:Durable Legendary Key
+AD644B6A:Durable Legendary Key
+AD644B6F:Durable Legendary Key
+AD5FE537:Durable Legendary Key
+AD644B71:Durable Legendary Key
+AD644792:Durable Legendary Key
+AD644B7A:Durable Legendary Key
+AD643E5B:Durable Legendary Key
+AD643E2C:Durable Legendary Key
+AD5F2430:Durable Legendary Key
+AD644B91:Durable Legendary Key
+AD643E3D:Durable Legendary Key
+AD5FE7A0:Durable Legendary Key
+AD643EEA:Durable Legendary Key
+AD643EEC:Durable Legendary Key
+AD643EEE:Durable Legendary Key
+AD6440DF:Durable Legendary Key
+AD6440DD:Durable Legendary Key
+AD644B77:Durable Legendary Key
+AD644BFD:Durable Legendary Key
+AD6443A6:Durable Legendary Key
+AD644B78:Durable Legendary Key
+AD644C1C:Durable Legendary Key
+AD61722B:Durable Legendary Key
+AD644C28:Pack
+AD644BBE:Durable Legendary Key
+AD5EB1A5:Durable Legendary Key
+AD5EB1BB:Durable Legendary Key
+AD5FE0D0:Durable Legendary Key
+AD6443D1:Durable Legendary Key
+AD644C2A:Durable Legendary Key
+AD644C2C:Durable Legendary Key
+AD644C2D:Durable Legendary Key
+AD644C2B:Durable Legendary Key
+AD644C29:Durable Legendary Key
+AD5FE42B:Durable Legendary Key
+AD5FE42A:Durable Legendary Key
+AD5FE428:Durable Legendary Key
+AD61856A:Durable Legendary Key
+AD5FE429:Durable Legendary Key
+AD6443D2:Durable Legendary Key
+AD5FE0BC:Durable Legendary Key
+AD6443A8:Durable Legendary Key
+AD644C2E:Durable Legendary Key
+AD5FE418:Durable Legendary Key
+AD5FE0D3:Durable Legendary Key
+AD644C48:Durable Legendary Key
+AD645487:Durable Legendary Key
+AD645486:Durable Legendary Key
+AD5FE199:Pack
+AD5FE18A:Durable Legendary Key
+CD287FE3:Pathwarden Trinket
+AD63E181:Durable Legendary Key
+AD5FE188:Durable Legendary Key
+AD644B44:Durable Legendary Key
+AD617218:Durable Legendary Key
+AD5F22AA:Durable Legendary Key
+AD63F6E5:Durable Legendary Key
+AD63E183:Durable Legendary Key
+AD63F6B1:Durable Legendary Key
+AD5F778E:Durable Legendary Key
+AD6A98A3:Ghost Guise
+CDE2D386:Massive Mana Charge
+BAF948D9:Stamina Philtre
+AD6A49E0:Health Tonic
+AD6A49DF:Health Philtre
+CDE2D385:Massive Mana Charge
+CDE2D69E:Teardrop Crown
+CDE2D602:Teardrop Crown
+CDE2D575:Coronet
+CDE2D572:Crown
+CDE2D6A0:Crown
+
+Missing Exports - Possessed items that were not found:

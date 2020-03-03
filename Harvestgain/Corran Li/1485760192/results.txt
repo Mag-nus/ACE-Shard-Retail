@@ -1,0 +1,111 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485760159_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-25_1485333134_log.pcap
+
+Partial Exports - Missing appraisal info:
+811E1B66:Blackmoor's Favor
+811E1B6A:Crushed Ice
+811E1B6B:Skewer
+811E1B6C:Honey
+811E1B6D:Magic Iceball
+811E1B6E:Brown Beans
+811E1B6F:Frying Pan
+811E1B70:Raw Egg Noodles
+811E1B71:Chocolate Liquor
+811E1B8E:Bone Handle
+811E1B72:Oregano
+811E1B74:Cinnamon
+811E1B75:Hot Pepper
+811E1B76:Concentrated Fire Infusion
+811E1B91:Undead Thighbone
+811E1B77:Concentrated Health Infusion
+811E1B93:Baking Pan
+811E1B79:Realgar
+811E1B7A:Turpeth
+811E1B7B:Cobalt
+811E1B7C:Gypsum
+811E1B7D:Brimstone
+811E1B7E:Colcothar
+811E1B7F:Cinnabar
+811E1B80:Cadmia
+811E1B82:Verdigris
+811E1B81:Victual Infusion
+811E1B83:Vitriol
+811E1B8D:Oiled String
+811E1B84:Stibnite
+811E1B85:Frost Infusion
+811E1B8A:Vitriol Pea
+811E1B86:Lightning Infusion
+811E1B87:Quicksilver
+811E1B92:Heavy Grinder
+811E1B88:Concentrated Health Infusion
+811E1B89:Health Infusion
+811E1B8B:Turpeth Pea
+811E1B8F:Cured Lugian Sinew
+811E1B90:Cured Lugian Sinew
+811E1B94:Mortar and Pestle
+811E1B95:Metal Press
+811E1B96:Noodle Cutter
+811E1B97:Carving Knife
+811E1B98:Bone Handle
+811E1B99:Ust
+811E1B9A:Splitting Tool
+811E1B9B:Cured Large Lugian Sinew
+811E1B9C:Cured Large Lugian Sinew
+811E1B9D:Whittling Knife
+811E1B9E:Wedding Cake Knife
+811E1B9F:Dark Revenant Thighbone
+811E1BA0:Dark Revenant Thighbone
+811E1BA1:Ravener Guts
+811E1BA2:Large Lugian Sinew
+811E1BA6:Wrapped Bundle of Arrowshafts
+811E1BA8:Eye Dropper
+811E1BA9:Peppermint Stick
+811E1BAA:Ust
+811E1BB0:Alembic
+811E1BB2:Wrapped Bundle of Deadly Fire Arrowheads
+811E1BB8:Tome
+811E1BB3:Wrapped Bundle of Greater Fire Arrowheads
+811E1BB4:Bundle of Greater Fire Arrowheads
+811E1BBD:Rennet
+811E1BBE:Brine
+811E1BC0:Fire Oil
+811E1BC5:Dried Yeast
+811E1BC7:Stibnite
+811E1BC8:Empty Flask
+811E1BC9:Brew Kettle
+811E1BCA:Health Oil
+811E1BCB:Ultra Green Hops
+811E1BCC:Amber Barley
+811E1BD4:Pumpkin
+811E1BCD:Bloodhunter Oil
+811E1BCE:Mana Oil
+92885C1C:Pyreal
+811E1BD0:Concentrated Aqua Incanta
+811E1BD1:Concentrated Fire Oil
+811E1BD2:Tusker Spit
+811E1BD3:Elaborate Dried Rations
+811E1BD5:Golden Pumpkin
+811E1BD7:Pumpkin Cookie Cutter
+811E1BDA:Pumpkin Cookie Cutter
+811E1BDB:Concentrated Lightning Oil
+811E1BDC:Concentrated Health Oil
+811E1BDD:Cobalt Pea
+811E1BE1:Cooking Pot
+811E1BDE:Concentrated Lightning Infusion
+811E1BE0:Neutral Balm
+811E1BE2:Plain Barley
+811E1BE3:Some Changes for February 2012
+811E1BE6:Wrapped Bundle of Armor Piercing Arrowheads
+811E1BE7:Concentrated Frost Oil
+811E1BE8:Wrapped Bundle of Fire Arrowheads
+811E1BE9:Aqua Incanta
+811E1BEA:Bloodhunter Oil
+811E1BEB:Wrapped Bundle of Arrowheads
+811E1BEC:Bloodseeker Oil
+811E1BED:Wrapped Bundle of Frog Crotch Arrowheads
+811E1BEE:Wrapped Bundle of Acid Arrowheads
+
+Missing Exports - Possessed items that were not found:

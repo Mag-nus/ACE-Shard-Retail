@@ -1,0 +1,218 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\pkt_2017-1-30_1485843220_desc\pkt_2017-1-30_1485841312_log.pcap
+
+Partial Exports - Missing appraisal info:
+AB171174:Loose Breeches
+AB17121F:Chainmail Hauberk
+AB171163:Chainmail Gauntlets
+AB17114D:Platemail Leggings
+AB17124D:Steel Toed Boots
+AB171204:Pyreal
+AB171156:Pack
+AB171175:Birch Talisman
+AB171164:Blackthorn Talisman
+AB17121B:Green Taper
+AB17122E:Alder Talisman
+AB17124A:Willow Talisman
+AB171157:Cedar Talisman
+AB171184:Yew Talisman
+AB171176:Ashwood Talisman
+AB171165:Poplar Talisman
+AB1711E0:Rowan Talisman
+AB17115D:Ebony Talisman
+AB17117F:Indigo Taper
+AB171158:Turquoise Taper
+AB171185:Yellow Taper
+AB17116A:White Taper
+AB17114E:Violet Taper
+AB171214:Red Taper
+AB17115E:Pink Taper
+AB171180:Orange Taper
+AB171159:Grey Taper
+AB171186:Brown Taper
+AB17116B:Blue Taper
+AB17114F:Pack
+AB171143:Colcothar
+AB17115F:Powdered Amber
+AB171151:Cobalt
+AB171181:Powdered Onyx
+AB17115A:Vitriol
+AB171195:Gypsum
+AB171187:Powdered Turquoise
+AB17116C:Stibnite
+AB171197:Pack
+AB171160:Quicksilver
+AB17117C:Realgar
+AB1711AB:Lead Scarab
+AB17118E:Powdered Hematite
+AB171189:Powdered Agate
+AB17119B:A Tiny Mnemosyne
+AB17116D:Powdered Moonstone
+AB17117D:Cinnabar
+AB17118C:Wood Heart
+AB17118F:Cadmia
+AB17118A:Brimstone
+AB171190:Verdigris
+AB17116E:Powdered Quartz
+AB171196:Powdered Carnelian
+AB1711A6:Gold Tumerok Insignia
+AB17117E:Powdered Bloodstone
+AB171253:Turpeth
+AB171183:Old Scarlet Red Letter
+AB171252:Hawthorn
+AB171192:Mandrake
+AB1711A4:Mud Golem Heart
+AB171199:Ginseng
+AB1711A3:Wormwood
+AB171257:Sclavus Tongue
+AB171193:Hyssop
+AB17119C:Damiana
+AB17119D:Pack
+AB17119A:Comfrey
+AB1711BA:Wand
+AB1711A0:Old Lucky Gold Letter
+AB1711A5:Academy Cestus
+AB171256:Studded Leather Gauntlets
+AB1711BC:Frost Katar
+AB17119E:Bracelet
+AB1711BB:Fire Infusion
+AB1711BD:Flaming Katar
+AB17118D:Nekode
+AB1711A7:Nekode
+AB1711A8:Frost Katar
+AB1711A1:Nekode
+AB17128D:Nekode
+AB1711A2:Acid Katar
+AB170A4A:Lightning Nekode
+AB1711A9:Nekode
+AB1711C0:Pack
+AB171287:Doublet
+AB171245:Ring
+AB171268:Small Mana Charge
+AB1711AA:Small Mana Charge
+AB171284:Heavy Bracelet
+AB1711C1:Ring
+AB1711C9:Amulet
+AB171265:Ring
+AB1711B5:Ring
+AB1711C2:Ring
+AB1711CA:Ring
+AB17125D:Ring
+AB1711C3:Bracelet
+AB1711B6:Amulet
+AB1711CB:Amulet
+AB1711B7:Ring
+AB1711C4:Ring
+AB1711D0:Bracelet
+AB1711CC:Bracelet
+AB1711C5:Ring
+AB1711B8:Bracelet
+AB1711D1:Orb
+AB1711CD:Orb
+AB1711AE:Shoes
+AB1711B9:Orb
+AB17129D:Pack
+AB1711D2:Gifted Healing Kit
+AB1711CE:Excellent Healing Kit
+AB17127E:Peerless Healing Kit
+AB1711D4:Excellent Healing Kit
+AB1711BE:Peerless Healing Kit
+AB1711D8:Excellent Healing Kit
+AB1711D5:Gifted Healing Kit
+AB1711BF:Excellent Healing Kit
+AB1711E3:Gifted Healing Kit
+AB1711D9:Gifted Healing Kit
+AB1711D6:Gifted Healing Kit
+AB1711E4:Gifted Healing Kit
+AB1711F2:Excellent Healing Kit
+AB1711DA:Gifted Healing Kit
+AB1711FB:Excellent Healing Kit
+AB1711C7:Gifted Healing Kit
+AB171203:Academy Mana Potion
+AB1711E5:Academy Mana Potion
+AB1711F3:Excellent Healing Kit
+AB1711DB:Gifted Healing Kit
+AB1711C8:Adept Healing Kit
+AB1711FC:Pack
+AB1711E7:Trade Note (10,000)
+AB1711F4:Gifted Healing Kit
+AB1711DC:Ring
+AB171215:Adept Healing Kit
+AB1711FD:Reliable Lockpick
+AB171205:Heaume
+AB1711EA:Wand
+AB1711E8:Doublet
+AB171216:An odd note 
+AB1711DD:Flaming Cestus
+AB1711FE:Dagger
+AB1711F6:Pyreal
+AB1711EB:Cestus
+AB1711DE:Large Kite Shield
+AB1711D7:Takuba
+AB1712B7:Nekode
+AB1711F7:Yoroi Leggings
+AB1711DF:Acid Broad Sword
+AB1712AC:Yoroi Leggings
+AB1711EC:Amuli Leggings
+AB1712C6:Undead Thighbone
+AB1712D9:Heavy Crossbow
+AB1711EF:Horned Helm
+AB17121C:Ursuin Hide Helmet
+AB1711F8:Frost Arrow
+AB1711E1:Celdon Girth
+AB1711E2:Undead Femur bone
+AB171208:Sollerets
+AB1711F0:Celdon Sleeves
+AB171315:Lightning Scimitar
+AB1711F9:Sollerets
+AB1711FF:Yumi
+AB1711F1:Yumi
+AB17121D:Mana Stone
+AB171209:Excellent Lockpick
+AB1711FA:Heavy Crossbow
+AB171312:Greater Acid Arrow
+AB171200:Longbow
+AB17121E:Longbow
+AB17120A:Longbow
+AB17124B:Heavy Crossbow
+AB17123B:Fire Quarrel
+AB171201:Amuli Coat
+AB17120F:Amuli Leggings
+AB17120B:Greater Mana Stone
+AB17124C:Greater Mana Stone
+AB17123C:Gorget
+AB171210:Katar
+AB17120C:Katar
+AB17123D:Amulet
+AB17132C:Katar
+AB17132F:Heavy Bracelet
+AB17120D:Bracelet
+AB171211:Sceptre
+AB17132B:Wand
+AB17124F:Ring
+AB17123E:Amulet
+AB171206:Gorget
+AB171212:Amulet
+AB17126C:Trade Note (50,000)
+AB171250:Acid Cestus
+AB17123F:Nekode
+AB171207:Katar
+AB171213:Wand
+AB171251:Bracelet
+AB17126D:Pyreal Mote
+AB171240:Trade Note (50,000)
+AB17126E:Amulet
+AB171246:Trade Note (50,000)
+AB171282:Dagger
+AB171342:Amulet
+AB17128E:Ring
+AB171247:Acid Dagger
+AB17126F:Ring
+AB171283:Ring
+AB171272:Pack Burun Kukuur
+AB17128F:Some Changes for February 2012
+AB171248:Blackmoor's Favor
+AB1712B3:Cestus
+AB171217:Orb
+
+Missing Exports - Possessed items that were not found:

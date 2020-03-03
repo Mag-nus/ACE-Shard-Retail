@@ -1,0 +1,24 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-30_1485820096_log.pcap
+
+Partial Exports - Missing appraisal info:
+ABF22759:Trousers
+ABF22782:Pyreal
+ABF47527:Ust
+ABF47528:Calling Stone
+ABF47529:Letter From Home
+ABF4752A:Bread
+ABF4752B:Blackmoor's Favor
+ABF4752C:Oil of Rendering
+ABF4752D:Oil of Rendering
+ABF4752E:Facility Hub Portal Gem
+ABF47531:Sturdy Iron Key
+ABF4752F:Pathwarden Trinket
+ABF47530:Salvage
+ABF47532:Sturdy Iron Key
+ABF47533:Sollerets
+ABF47534:Chiran Sandals
+ABF47537:Leather Gauntlets
+ABF47538:Olthoi Pauldrons
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,208 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\pkt_2017-1-30_1485843220_desc\pkt_2017-1-30_1485831600_log.pcap
+
+Partial Exports - Missing appraisal info:
+A50B231C:Pack
+A50B230A:Wormwood
+A50B230B:Lead Scarab
+A50B2207:Iron Scarab
+A50B2241:Hawthorn
+A50B22A5:Ginseng
+A508A12A:Saffron
+A50B232C:Copper Scarab
+A50B2340:Mugwort
+A50B2327:Mandrake
+A50B22F5:Copper Pea
+A50B2275:Dragonsblood
+A50B233F:Eyebright
+A50B2324:Greater Mana Stone
+A50B234F:Amaranth
+A50B22A8:Yarrow
+A50B231A:Peerless Atlan Claw
+A50B22A6:Damiana
+A50B2397:Comfrey
+A50B2319:Pack
+A50AF36E:Hyssop
+A50B2361:Bracelet
+A50B232E:Bracelet
+A50B2380:Gem of Cleansing
+A50B233D:Bracelet
+A50B2355:Pink Taper
+A50B2314:Colcothar
+A50AF3AA:Brimstone
+A50B2316:Gypsum
+A50B2378:Realgar
+A50B2293:Verdigris
+A50B2360:Cobalt
+A50B231B:Turpeth
+A50B2349:Quicksilver
+A50B234E:Mana Potion
+A50B2350:Powdered Onyx
+A508B8C7:Stibnite
+A50B2388:Cadmia
+A50AF3BB:Vitriol
+A50B2347:Powdered Bloodstone
+A50B2391:Grey Taper
+A50B2317:Powdered Amber
+A50B22D1:Cinnabar
+A50B23A0:Pack
+A50B2344:Powdered Hematite
+A50B235E:Powdered Agate
+A50B232D:Ebony Talisman
+A50B2330:Powdered Malachite
+A50B1DD8:Powdered Moonstone
+A50B238B:Blue Taper
+A50B2313:Powdered Turquoise
+A50B22FF:Powdered Carnelian
+A50B2399:Orange Taper
+A50B2389:Powdered Quartz
+A50B2358:Powdered Lapis Lazuli
+A50B2359:Red Taper
+A50B23A9:Alder Talisman
+A50B22F6:Willow Talisman
+A50B2384:Birch Talisman
+A50B2369:Rowan Talisman
+A50B2364:Cedar Talisman
+A50B236F:Ashwood Talisman
+A50B2348:Hemlock Talisman
+A50B235D:Yew Talisman
+A50B239D:Cinnabar
+A50B2450:Blackthorn Talisman
+A50B2377:Indigo Taper
+A50B2398:Violet Taper
+A50B23C0:White Taper
+A50B23F1:Yellow Taper
+A50B2390:Brown Taper
+A50B2325:Turquoise Taper
+A50B2365:Green Taper
+A50B2343:Poplar Talisman
+A50B234D:Pack
+A50B23D0:A Small Mnemosyne
+A50B23CF:Refined Low-Grade Chorizite
+A509845D:A Small Mnemosyne
+A50B23DF:A Small Mnemosyne
+A50B238D:Acid Nekode
+A50B2342:Frost Nekode
+A50B23B0:A Small Mnemosyne
+A50B245E:A Small Mnemosyne
+A50B23BB:Wand
+A50B23C4:Amulet
+A50B23A5:Bracelet
+A50B23B6:Nekode
+A50B23C9:Pack
+A50B23EE:Mana Elixir
+A50B23AE:Excellent Healing Kit
+A50B2373:Excellent Healing Kit
+A50B23B1:Excellent Healing Kit
+A50B23C6:Excellent Healing Kit
+A50B23B7:Excellent Healing Kit
+A50B23D5:Excellent Healing Kit
+A50B2407:Excellent Healing Kit
+A50B2387:Excellent Healing Kit
+A50B0D3B:Excellent Healing Kit
+A50B23BD:Excellent Healing Kit
+A50B2385:Excellent Healing Kit
+A50B23C5:Excellent Healing Kit
+A50B2370:Excellent Healing Kit
+A50B2332:Excellent Healing Kit
+A50B237D:Excellent Healing Kit
+A50B233B:Excellent Healing Kit
+A50B235B:Excellent Healing Kit
+A50B2393:Potion of Healing
+A50B246D:Mana Draught
+A50B2408:Excellent Healing Kit
+A50B23CB:Peerless Healing Kit
+A50B236C:Pack
+A50B232A:Pyreal
+A50B2392:Trade Note (10,000)
+A50B23C8:Necklace
+A50B23C1:Trade Note (10,000)
+A50B2382:Trade Note (1,000)
+A50B239C:Trade Note (1,000)
+A50B23C7:Trade Note (10,000)
+A50B23ED:Trade Note (1,000)
+A50B23E0:Trade Note (10,000)
+A50B238A:Trade Note (10,000)
+A50B2354:Acid Katar
+A50B23BC:Nekode
+A50B23B4:Shirt
+A50B237B:A Small Mnemosyne
+A50B23D9:Orb
+A50B23E1:Pants
+A50B2374:A Small Mnemosyne
+A50B23D7:Gloves
+A50B2383:Trade Note (5,000)
+A50B23F7:A Small Mnemosyne
+A50B234A:A Small Mnemosyne
+A50B23BE:Lightning Katar
+A50B23A7:Peerless Healing Kit
+A50B23A6:Skull of High Acolyte
+A50B23B3:Tunic
+A50B2363:Pantaloons
+A50B237E:Orb
+A50B23FE:Skeleton's Skull
+A50B23AC:Ring
+A50B234C:Bracelet
+A50B23A4:Wand
+A50B236B:Sceptre
+A50B23B9:Orb
+A50B1C3F:Orb
+A50B23CC:Ring
+A50B23D2:Yoroi Sleeves
+A50B23FB:Nekode
+A50B23B5:Gifted Healing Kit
+A50B2420:Bracelet
+A50B23E6:Heavy Bracelet
+A50B23AB:Ring
+A50B238E:Sollerets
+A50B236A:Orb
+A50B23F0:Ring
+A50B23B2:Platemail Leggings
+A50B23C2:Wand
+A50B239A:Gifted Healing Kit
+A50B23BF:Shirt
+A50B237A:Trade Note (5,000)
+A50B23D6:Pyreal
+A50B2404:Trade Note (50,000)
+A50B239B:Trade Note (10,000)
+A50B2406:Stamina Elixir
+A50B23F8:Trade Note (10,000)
+A50B23DC:Potion of Healing
+A50B23F9:Gifted Healing Kit
+A50B23FD:Stamina Potion
+A50B2418:Chainmail Gauntlets
+A50B2440:Excellent Healing Kit
+A50B23B8:Acid Nekode
+A50B23D8:Gifted Healing Kit
+A50B2414:Gifted Healing Kit
+A50B238C:Gifted Healing Kit
+A50B235C:Gifted Healing Kit
+A50B23FF:Peerless Healing Kit
+A50B2394:Gifted Healing Kit
+A50B2400:Gifted Healing Kit
+A50B23E4:Acid Cestus
+A50B2430:Katar
+A50B23BA:Heaume
+A50B0D5F:Flaming Nekode
+A50B2402:Moderate Mana Charge
+A50B2417:Moderate Mana Charge
+A50B23CD:Small Mana Charge
+A50B23E7:Shirt
+A50B23A2:Platemail Cuirass
+A50B2352:Ring
+A50B2416:Trousers
+A50B2458:Scroll of Flame Streak IV
+A50B2372:Bracelet
+A50B23EC:Bracelet
+A50B23E2:Necklace
+A50B23D3:Heavy Necklace
+A50B23F5:Moderate Mana Charge
+A50B23AD:Moderate Mana Charge
+A50B23D4:Sceptre
+A50B2395:Nekode
+A50B23EF:Pack Bael'Zharon
+A50B23F2:Large Round Shield
+A50B2435:Blackmoor's Favor
+A50B2428:Some Changes for February 2012
+
+Missing Exports - Possessed items that were not found:

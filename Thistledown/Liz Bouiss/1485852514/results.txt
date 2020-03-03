@@ -1,0 +1,19 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-31_1485852230_log.pcap
+
+Partial Exports - Missing appraisal info:
+AB9C4851:Doublet
+AB9C4852:Loose Pants
+AB9C4854:Pyreal
+AB9C4855:Sack
+AB9C4856:Ust
+AB9C4858:Pathwarden Token
+AB9C485B:Training Shortbow
+AB9C485E:Foci of Artifice
+AB9C485F:Prismatic Taper
+AB9C4860:Lead Scarab
+AB9C4861:Crude Lockpick
+AB9C4862:Handy Healing Kit
+AB9C4863:Letter From Home
+
+Missing Exports - Possessed items that were not found:

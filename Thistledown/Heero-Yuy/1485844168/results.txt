@@ -1,0 +1,90 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485843573_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485843573_log.pcap
+
+Partial Exports - Missing appraisal info:
+ABC251E9:Pack
+ABC24A50:Pack
+ABC24BBC:Pack
+ABC24A74:Excellent Healing Kit
+ABC20EF3:Excellent Healing Kit
+ABC2574E:Bundle of Frog Crotch Arrowheads
+ABC24D6E:Bundle of Arrowshafts
+ABC24B2D:Whittling Knife
+ABC246F5:Pack
+ABC1ADE7:Pants
+ABC24D7A:Shirt
+ABC24BA5:Ring
+ABC144C1:Pyreal
+ABC24A9C:Shirt
+ABC212BD:Tunic
+ABC3C6F4:Pyreal
+ABC258AF:Shirt
+ABC24B1B:Pants
+ABC24B26:Pyreal
+ABC246EB:Tunic
+ABC3C6F3:Shirt
+ABC3C73C:Gloves
+ABC24B1C:Gloves
+ABC3C73A:Breeches
+ABC24B40:Trousers
+ABC246FD:Pack
+ABC20A0B:Brown Taper
+ABC3C6EB:Violet Taper
+ABC24BCE:Red Taper
+ABC3C73B:Blue Taper
+ABC24B12:Yellow Taper
+ABC1AE8E:Powdered Turquoise
+ABC24D6F:White Taper
+ABC24B13:Yarrow
+ABC3A079:Indigo Taper
+ABC24BBB:Orange Taper
+ABC3C6EC:Turquoise Taper
+ABC258B8:Green Taper
+ABC24B2E:Realgar
+ABC14465:Cinnabar
+ABC24D5C:Powdered Quartz
+ABC3C739:Pack
+ABC1F7DD:Colcothar
+ABC3C6ED:Silver Scarab
+ABBFBDFC:Lead Scarab
+ABC25900:Gypsum
+ABC257FA:Saffron
+ABC3C744:Alder Talisman
+ABC3C6FB:Powdered Amber
+ABC3C70A:Comfrey
+ABC3C711:Rowan Talisman
+ABC3C6EE:Powdered Malachite
+ABC3C702:Blackthorn Talisman
+ABC24E50:Willow Talisman
+ABC1A7C9:Powdered Hematite
+ABC258E2:Mandrake
+ABC24B46:Copper Scarab
+ABC3C6FC:Quicksilver
+ABC3C70B:Hyssop
+ABC3C6EF:Ashwood Talisman
+ABC3C712:Poplar Talisman
+ABC3C703:Ebony Talisman
+ABC24D65:Wormwood
+ABC3C6FD:Powdered Moonstone
+ABC24E63:Powdered Onyx
+ABC3C705:Virindi Mask
+ABC24B3E:Cobalt
+ABC3C704:Ring
+ABC24D82:Ring
+ABC24B2B:Pack
+ABC3C71F:Monougat
+ABC3C6FF:Gloves
+ABC3C746:Wood Heart
+ABC3C6F2:Stamina Elixir
+ABC3C715:Vitriol
+ABC3C706:Frog Crotch Arrow
+ABC3C70D:Blackmoor's Favor
+ABC3C720:Frog Crotch Arrow
+ABC3C74C:Some Changes for February 2012
+ABC3C721:Frog Crotch Arrow
+ABC3C6E9:Pack Martine
+
+Missing Exports - Possessed items that were not found:

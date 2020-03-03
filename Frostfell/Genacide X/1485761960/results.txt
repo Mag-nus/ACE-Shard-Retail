@@ -1,0 +1,146 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\gdrive (tfarley)\Zoishe\sparking stone\pkt_2017-1-30_1485756135_log.pcap
+
+Partial Exports - Missing appraisal info:
+8068A9F6:Fishing Made Easy
+8068A9F5:Ust
+82131E86:Pyreal
+8068A9F9:Olthoi Ichor
+8068A9F8:Major Prismatic Stone
+8068A9F7:Major Shivering Stone
+8068A9F4:Wrapped Bundle of Quarrelshafts
+8068A9F2:Olthoi Ichor
+8068A9F1:Blackmoor's Favor
+8068A9F0:Gem of Stillness
+8068A9D3:Prismatic Taper
+8068A9EB:Ahruenga Portal Gem
+8068A9E7:Copper Scarab
+8068A9E6:Lead Pea
+8068A9E5:Iron Scarab
+8068A9E4:Silver Scarab
+8068A9E3:Lead Scarab
+8068A9E2:Gold Scarab
+8068A9E1:Gold Pea
+8068A9E0:Silver Pea
+8068A9DF:Iron Pea
+8068A9DE:Copper Pea
+8068A9DD:Platinum Scarab
+8068A9DC:Pyreal Scarab
+8068A9DB:Pyreal Pea
+8068A9D4:Celdiseth's Portal Gem
+8068A9DA:Wrapped Bundle of Deadly Fire Arrowheads
+8068A9D9:Wrapped Bundle of Greater Broad Arrowheads
+8068A9D8:Wrapped Bundle of Deadly Broad Arrowheads
+8068A9D7:Wrapped Bundle of Deadly Arrowheads
+8068A9D6:Wrapped Bundle of Frog Crotch Arrowheads
+8068A9D5:Wrapped Bundle of Deadly Barbed Arrowheads
+8068A9D2:Ring
+8068A9CF:Caulnalain Portal Gem
+8068A9CE:Caulnalain Portal Gem
+8068A9CD:Caulnalain Portal Gem
+8068A9BA:Caulnalain Key
+8068A9CC:Caulnalain Portal Gem
+8068A9CB:Caulnalain Portal Gem
+8068A9B9:Biting Ballistae
+8068A9CA:Caulnalain Portal Gem
+8068A9C9:Caulnalain Portal Gem
+8068A9B6:Foci of Verdancy
+8068A9C8:Caulnalain Portal Gem
+8068A9C7:Caulnalain Portal Gem
+8068A9B5:Foci of Artifice
+8068A9C6:Caulnalain Portal Gem
+8068A9C5:Caulnalain Portal Gem
+8068A9B3:Treated Healing Kit
+8068A9C4:Caulnalain Portal Gem
+8068A9C2:Caulnalain Portal Gem
+8068A9C1:Caulnalain Portal Gem
+8068A9C0:Caulnalain Portal Gem
+8068A9AB:Treated Healing Kit
+8068A9BF:Caulnalain Portal Gem
+8068A9BE:Caulnalain Portal Gem
+8068A9AA:Caulnalain Gem
+8068A9BD:Caulnalain Portal Gem
+8068A9BC:Caulnalain Portal Gem
+8068A9A9:Caulnalain Key
+8068A9BB:Yaraq Portal Gem
+8068A9B7:Foci of Enchantment
+8068A996:Torch
+8068A9B0:Shirt
+8068A9AC:Silyun Portal Gem
+8068A98B:Greater Mana Stone
+8068A9A8:Splitting Tool
+8068A9A7:Aligned Mana Stone
+8068A9A6:Ring
+8068A9A5:Vissidal Island Portal Gem
+8068A9A4:Orb
+8068A98A:Moderate Mana Stone
+8068A9A3:Aetheria Mana Stone
+8068A9A1:Heaume
+8068A9A0:Oak Golem Essence
+8068A99F:Loose Pants
+A631331D:Pyreal
+8068A99D:Sublime Bracelet of Acid Protection
+8068A99C:Elysa's Favor
+8068A989:Major Mana Stone
+8068A998:Sollerets
+8068A997:Smock
+8068A988:Major Mana Stone
+8068A995:Elaborate Field Rations
+8068A994:Heavy Necklace
+8068A983:Plentiful Healing Kit
+8068A993:Baron's Amulet of Life Giving
+8068A992:Sublime Ring of Piercing Protection
+800DC6E3:Greater Mana Stone
+8068A990:Trade Note (50,000)
+8068A982:Plentiful Healing Kit
+8068A981:Plentiful Healing Kit
+801C4D41:Ring
+801C4D44:Heavy Bracelet
+800DDD42:Moderate Mana Stone
+800DD14E:Moderate Mana Stone
+800DDF77:Greater Mana Stone
+8E9E83E0:Lightning Child Essence (125)
+8068A977:Ring
+8068A9D1:Beret
+8068A986:Cloth Gloves
+8068A9EA:Coronet
+91C70D70:Frost Cestus
+91C8AD4C:Flaming Claw
+91C72442:Covenant Pauldrons
+DBA28C80:Clutch of the Miser
+92444A52:Cloth Gloves
+9233DC5A:Fire Naginata
+DBA67566:Stipend
+9249754E:Trade Note (250,000)
+8068A97B:Acid Crossbow
+974C6DDD:Ring
+9798EB67:Circlet
+802C9A6B:Salvage
+8062380B:Salvage
+8012281D:Salvaged  (100)
+8167B371:Health Philtre
+802C9A6D:Salvage
+8074F8D8:Salvage
+8068A9B1:Amulet
+8068A971:The Healer's Heart
+800DD251:Coronet
+97AC2798:Slashing Slingshot
+93B3EA18:Signet Crown
+DBA695B1:Enduring Enchantment
+93DB43D5:Diadem
+8068A97D:Orb
+8068A979:Slippers
+DBA25221:Thief's Crystal
+8068A975:Focusing Stone
+8068A9AE:Dark Sorcerer's Phylactery
+DBA252BF:Deadly Barbed Quarrel
+93EA8FB7:Acid Claw
+8FF57D42:Mechanical Scarab
+8068A97A:Cloth Gloves
+8068A978:Shoes
+DBA805B9:Trade Note (250,000)
+801C4D62:Heavy Crossbow
+801C4D63:Heavy Crossbow
+8068A972:Fire Crossbow
+
+Missing Exports - Possessed items that were not found:

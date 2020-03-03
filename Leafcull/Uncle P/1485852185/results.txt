@@ -1,0 +1,53 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Uncle-P-Leafcull-Singular-Rep-Blighted-Moarsman-Tunnels-Low-Level-Zaikal\pkt_2017-1-31_1485846179_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Uncle-P-Leafcull-1-26-2017-Vesayen-Dark-Mosswart-Hall-Kara-Kryst\pkt_2017-1-24_1485240095_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Uncle-P-Leafcull-1-26-2017-Vesayen-Dark-Mosswart-Hall-Kara-Kryst\pkt_2017-1-25_1485399297_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Uncle-P-Leafcull-1-26-2017-Vesayen-Dungeons-Partial\pkt_2017-1-25_1485402970_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Uncle-P-Leafcull-1-28-2017-Marae-Outer-Ring-Run-Ahurenga-Martinate-Holding-Empyrean-Mansion-Dark-Lair-Freehold\pkt_2017-1-27_1485566475_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Uncle-P-Leafcull-1-28-2017-Marae-Outer-Ring-Run-Ahurenga-Martinate-Holding-Empyrean-Mansion-Dark-Lair-Freehold\pkt_2017-1-28_1485580339_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Uncle-P-Leafcull-1-28-2017-Marae-Outer-Ring-Run-Ahurenga-Martinate-Holding-Empyrean-Mansion-Dark-Lair-Freehold\pkt_2017-1-28_1485586854_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Uncle-P-Leafcull-1-29-2017-Beach-Fort-Mayoi-Tufa-Moarsman-Egg-New-Character\pkt_2017-1-28_1485651687_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Uncle-P-Leafcull-1-29-2017-Beach-Fort-Mayoi-Tufa-Moarsman-Egg-New-Character\pkt_2017-1-28_1485653421_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Uncle-P-Leafcull-1-29-2017-Beach-Fort-Mayoi-Tufa-Moarsman-Egg-New-Character\pkt_2017-1-29_1485676218_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Uncle-P-Leafcull-1-30-2017-Random-Eastwatch-Silyun-Xara-Hilltop-Tusker-Honeycombs\pkt_2017-1-29_1485734254_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Uncle-P-Leafcull-Singular-Rep-Blighted-Moarsman-Tunnels-Low-Level-Zaikal\pkt_2017-1-30_1485835223_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Uncle-P-Leafcull-Singular-Rep-Blighted-Moarsman-Tunnels-Low-Level-Zaikal\pkt_2017-1-31_1485843637_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Uncle-P-Leafcull-1-26-2017-Blue-Red-Green-Spire-Timaru\pkt_2017-1-26_1485489706_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Uncle-P-Leafcull-1-26-2017-Vesayen-Dark-Mosswart-Hall-Kara-Kryst\pkt_2017-1-23_1485221995_log.pcap
+
+Partial Exports - Missing appraisal info:
+80418205:Prismatic Taper
+804181FB:Copper Scarab
+804181FC:Silver Scarab
+804181FD:Gold Scarab
+804181FE:Pyreal Scarab
+804181FF:Iron Scarab
+80418202:Lead Scarab
+80418203:Diamond Scarab
+80418204:Platinum Scarab
+80418206:Platinum Scarab
+AEBE84D0:Prismatic Taper
+AEBE85A3:Prismatic Taper
+80418208:Blackmoor's Favor
+80418214:Foci of Enchantment
+80418215:Foci of Artifice
+80418216:Foci of Verdancy
+80418219:Foci of Strife
+80418236:Greater Mana Stone
+80418254:Moderate Mana Stone
+8041825B:Moderate Mana Stone
+874290BE:Moderate Mana Stone
+8742CA1C:Greater Mana Stone
+8742CA1B:Moderate Mana Stone
+93ABA7D7:Mana Stone
+9466B046:Moderate Mana Stone
+94692633:Greater Mana Stone
+AE953774:Moderate Mana Stone
+AE90EA4B:Moderate Mana Stone
+AEA03FBE:Pyreal
+AEA03FBD:Pyreal
+AE99B557:Small Tainted Egg
+
+Missing Exports - Possessed items that were not found:

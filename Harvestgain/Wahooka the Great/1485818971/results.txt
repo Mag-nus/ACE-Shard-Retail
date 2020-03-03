@@ -1,0 +1,58 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\AC-Packet-Captures\AC Packet Captures\pkt_2017-1-30_1485809433_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-06-2017\AC-Packet-Captures\AC Packet Captures\pkt_2017-1-28_1485601848_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\AC-Packet-Captures\AC Packet Captures\pkt_2017-1-28_1485659148_log.pcap
+
+Partial Exports - Missing appraisal info:
+92B7F6AB:Splitting Tool
+92B828DC:Health Elixir
+92B804E4:Prismatic Taper
+92B7C55F:Diamond Scarab
+92B8F33D:Platinum Scarab
+92B82BCA:Pyreal Scarab
+92B7F54A:Gold Scarab
+92B2918B:Silver Scarab
+92B7F9DB:Copper Scarab
+92BAE68C:Lead Scarab
+92B7F95F:Elaborate Field Rations
+92B7F963:Elaborate Field Health Rations
+92B9F564:Iron Scarab
+92B95EAE:Pyreal Pea
+9276B072:Ust
+92B829C1:Pyreal
+92B7F9AD:Pack
+92BA8842:Greater Mana Stone
+92B7F98E:Greater Mana Stone
+92B829D2:Greater Mana Stone
+92B8288A:Greater Mana Stone
+92B829B8:Greater Mana Stone
+92B81020:Greater Mana Stone
+92B82954:Moderate Mana Stone
+92B82ADC:Greater Mana Stone
+92BA7B2F:Moderate Mana Stone
+92B19A9C:Greater Mana Stone
+92974572:Foci of Artifice
+92B9E5A5:Foci of Strife
+92A92A2B:Treated Healing Kit
+92B95CF5:Treated Healing Kit
+92B8F006:Treated Healing Kit
+92B829EC:Treated Healing Kit
+92BA87B6:Treated Healing Kit
+92B7DADC:Treated Healing Kit
+92B35889:Treated Healing Kit
+92B8284E:Treated Healing Kit
+92B82972:Treated Healing Kit
+92B74100:Treated Healing Kit
+92B961AE:Treated Healing Kit
+92B3F813:Foci of Enchantment
+92B948FD:Trade Note (250,000)
+92B82B31:Trade Note (50,000)
+A6B10ECD:Silver Pea
+A6971768:Gold Pea
+92B51C21:Luminescent Thaumaturgic Girth
+92BB1F8C:Luminescent Thaumaturgic Coat
+92B51ED9:Mattekar Arm Guard
+
+Missing Exports - Possessed items that were not found:

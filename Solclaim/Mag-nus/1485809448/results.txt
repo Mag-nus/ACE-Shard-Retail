@@ -1,0 +1,169 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-30_1485809436_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Mavness-02-01-2017-pcap\pcap\pkt_2017-1-23_1485228086_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-25_1485367703_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Mavness-02-01-2017-pcap\pcap\pkt_2017-1-24_1485238933_log.pcap
+
+Partial Exports - Missing appraisal info:
+9C2B9DC7:Colosseum Coin
+9C2B9E4D:Pyreal
+9C2B9DFF:Trade Note (250,000)
+9C2B9D30:Colosseum Backpack
+9C2B9DC5:Trade Note (250,000)
+9C2B9E16:Blank Augmentation Gem
+9C2B9DF2:Trade Note (250,000)
+9C2B9E50:Salvage
+9C2B9E68:Health Philtre
+9C2B9E09:Salvage
+9C2B9E12:Salvage
+9C2B9E2A:Treated Healing Kit
+9C2B9E1C:Treated Healing Kit
+9C2B9EBE:Treated Healing Kit
+9C2B9E54:Treated Healing Kit
+9C2B9E17:Treated Healing Kit
+9C2B9E30:Treated Healing Kit
+9C2B9E18:Blank Augmentation Gem
+9C2B9EAC:Treated Healing Kit
+9C2B9DED:Treated Healing Kit
+9C2B9E23:Treated Healing Kit
+9C2B9EBD:Treated Healing Kit
+9C2B9E96:Treated Healing Kit
+9C2B9E10:Treated Healing Kit
+9C2B9E70:Treated Healing Kit
+9C2B9D76:Colosseum Backpack
+9C2B9E03:Ornate Bone Key
+9C2B9D58:Ornate Bone Key
+9C2B9D2E:Celestial Hand Trade Token
+9C269CD9:Asheron's Lesser Benediction
+9C2B9DCA:Ancient Mhoire Coin
+9C2B9DA4:Celestial Hand Trade Token
+9C2B9D89:Greater Mukkir Slayer Stone
+9C2B9D48:Coruscating Olthoi Scent Gland
+9C2B9D38:Blackmoor's Favor
+9C2B9D6F:Jester's Token
+9C2B9DCB:Lo Shoen's Rat Bait
+9C2B9D9B:Coruscating Olthoi Scent Gland
+9C2B9DFA:Ust
+9C2B9DCF:Ornate Bone Key
+9C2B9D59:Colosseum Medallion of Honor
+9C2B9D86:Celestial Hand Commendation Ribbon
+9C2B9DC2:Society Gem of Dispelling
+9C2B9D57:Celestial Hand Stronghold Portal Gem
+9C2B9E8D:Treated Healing Kit
+9C2B9E45:Treated Healing Kit
+9C2B9E5A:Treated Healing Kit
+9C2B9E69:Treated Healing Kit
+9C2B9E6A:Treated Healing Kit
+9C2B9E29:Treated Healing Kit
+9C2B9E82:Treated Healing Kit
+9C2B9D73:Colosseum Backpack
+9C2B9D6A:Treated Healing Kit
+9C2B9D83:Treated Healing Kit
+9C2B9DB5:Treated Healing Kit
+9C2B9DCD:Treated Healing Kit
+9C2B9E0B:Treated Healing Kit
+9C2B9D9C:Treated Healing Kit
+9C2B9DE5:Treated Healing Kit
+9C2B9E0C:Treated Healing Kit
+9C2B9E38:Treated Healing Kit
+9C2B9E7D:Treated Healing Kit
+9C2B9E39:Treated Healing Kit
+9C2B9EE3:Treated Healing Kit
+9C2B9E81:Treated Healing Kit
+9C2B9EAD:Treated Healing Kit
+9C2B9EA6:Treated Healing Kit
+9C2B9E2E:Major Mana Stone
+9C2B9EB6:Major Mana Stone
+9C2B9E06:Major Mana Stone
+9C2B9E65:Viamont Staging Area Key
+9C2B9EA2:Gold Pea
+9C2BD8E4:Hyssop
+9C2B9E04:Colosseum Backpack
+9C2B9D4F:Shambling Ruschk Arm
+9C2B9D50:Shambling Ruschk Arm
+9C2B9D9A:Shambling Ruschk Arm
+9C2B9D9D:Shambling Ruschk Arm
+9C2B9DA6:Shambling Ruschk Arm
+9C2B9DA7:Shambling Ruschk Arm
+9C2B9DC1:Black Coral Golem Chunk
+9C2B9E25:Black Coral Golem Chunk
+9C2B9DBB:Shambling Ruschk Arm
+9C2B9DFD:Black Coral Golem Chunk
+9C2B9D71:Black Coral Golem Chunk
+9C2B9DB0:Black Coral Golem Chunk
+9C2B9D8C:Shambling Ruschk Arm
+9C2B9E51:Fouled Remoran Fin
+9C2B9DE1:Black Coral Golem Chunk
+9C2B9D88:Shambling Ruschk Arm
+9C2B9DA5:Shambling Ruschk Arm
+9C2B9D8B:Black Coral Golem Chunk
+9C2B9DDA:Glissnal Sleech Shell
+9C2892C9:The Temple of Enlightenment
+9C289258:A Note From Ciandra
+9C2B9DEB:Treated Healing Kit
+9C2B9DC6:Colosseum Backpack
+9C2B9E0A:Treated Healing Kit
+9C2B9E2D:Treated Healing Kit
+9C2B9DF1:Treated Healing Kit
+9C2B9D81:Treated Healing Kit
+9C2B9E1B:Treated Healing Kit
+9C2B9DDC:Treated Healing Kit
+9C2B9DBA:Treated Healing Kit
+9C2B9DCE:Treated Healing Kit
+9C2B9E11:Treated Healing Kit
+9C2B9E3D:Treated Healing Kit
+9C2B9E14:Treated Healing Kit
+9C2B9D61:Treated Healing Kit
+9C2B9D6B:Treated Healing Kit
+9C2B9DE6:Treated Healing Kit
+9C2B9E4F:Treated Healing Kit
+9C2B9DF3:Treated Healing Kit
+9C2B9E24:Treated Healing Kit
+9C2B9DDB:Treated Healing Kit
+9C2B9DB1:Treated Healing Kit
+9C2B9E57:Treated Healing Kit
+9C2B9E6C:Treated Healing Kit
+9C2B9E20:Treated Healing Kit
+9C2B9DC4:Treated Healing Kit
+9C2B9DE4:Treated Healing Kit
+9C2B9E3A:Minor Item Tinkering Armature
+9C2B9DAF:Aetheria Desiccant
+9C47CD78:Grey Taper
+9C4242F0:Violet Taper
+9C47C84C:Pink Taper
+9C424FFC:Colosseum Vault Key
+9C2B54B5:Prismatic Taper
+9C2B9E9E:Massive Mana Charge
+9C2B9E1E:Colosseum Backpack
+9C2B9E32:Shoyanen's Portal Gem
+9C2B549A:Mana Scarab
+9C2B54FB:Chorizite
+9C2B487C:Mana Scarab
+9C2B486B:Platinum Scarab
+9C2B54BE:Diamond Scarab
+9C2B9E15:Platinum Scarab
+9C2B9E8C:Prismatic Taper
+9C2B9E61:Copper Scarab
+9C2B9DC9:Gold Scarab
+9C2B9E7C:Silver Scarab
+9C2B9E0E:Pyreal Scarab
+9C2B9E4A:Prismatic Taper
+9C2B9DEE:Celdiseth's Portal Gem
+9C2B9E37:Colosseum Backpack
+9C2B9E5E:Massive Mana Charge
+9C2B9E08:Massive Mana Charge
+9C2B9DD1:Massive Mana Charge
+9C2B9E46:Massive Mana Charge
+9C2B9E6D:Massive Mana Charge
+9C2B9E36:Major Mana Stone
+9C2B9DE2:Major Mana Stone
+9C2B9E05:Major Mana Stone
+9C2B9E60:Major Mana Stone
+9C2B9E75:Major Mana Stone
+9C2B9E4B:Major Mana Stone
+9C623AB9:Scroll of Dual Wield Mastery Self VII
+9C895E21:Silver Pea
+
+Missing Exports - Possessed items that were not found:

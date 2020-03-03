@@ -1,0 +1,138 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485823558_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485823558_log.pcap
+
+Partial Exports - Missing appraisal info:
+931F95EB:Pack
+87C4D3D5:Rynthid Minion of Torment's Mask
+9596D3EC:Rynthid Minion of Torment's Mask
+80341128:Licorice Rat
+803A43B4:Yoroi Breastplate
+80EED928:Elaborate Field Rations
+87C37B9B:Pack Asheron
+9649B542:Rynthid Minion of Torment's Mask
+99243B1A:Canescent Mattekar Pelt
+9A04848C:Ursuin Toy
+99E9044F:Loose Shirt
+8CF650F7:Studded Leather Tassets
+92E3FCE1:Pyreal
+9686FB7F:Baggy Shirt
+80EEDF60:Chainmail Gauntlets
+9936C658:Ust
+99E39CB0:Ring
+97DCD9B7:Ring
+9923CEC1:Great Elariwood Idol
+987DC209:Mortar and Pestle
+87C4C62F:Olthoi Alduressa Helm
+92E3FCE2:Sack
+94FADF8E:Nariyid Helm
+926BA8BB:Heavy Bracelet
+931E963A:Pack
+906AC5A6:Alduressa Leggings
+99ED0796:Pants
+8EA087F6:Tuning Fork
+8026A915:Heavy Bracelet
+9A112703:Salvage (100)
+931F8F3E:Pack
+9A2156CC:Salvage (100)
+9A1F27E9:Salvage (100)
+931A5A61:Pack
+9A2A7530:Salvage (100)
+9A206942:Salvage (100)
+931F961C:Pack
+9A20FF1C:Salvage (100)
+9A214B17:Salvage (100)
+931F9648:Pack
+9A1AC6D5:Salvage (100)
+9A207AD0:Salvage (100)
+9A23E3FC:Salvage (100)
+9A308023:Salvage (100)
+98FE9C6E:Brown Lump
+9A34F4EB:Salvage (100)
+9A229B83:Salvage (100)
+9916DBD0:Dangerous Portal Device
+9A11DB44:Salvage (100)
+9A27594A:Salvage (100)
+9A36A3E5:Salvage (100)
+9A3C19F6:Salvage (100)
+9A2FB9C5:Salvage (100)
+9A3AF64C:Salvage (100)
+9A30D3D0:Salvage (100)
+9A2A0909:Salvage (100)
+9A346F16:Salvage (100)
+9A3B54CC:Salvage (100)
+9A3C507E:Salvage (100)
+9A3C5C80:Salvage (100)
+9A3CC554:Salvage (100)
+9A3D54A2:Salvage (100)
+9A3D753E:Salvage (100)
+9A3F06DB:Salvage (100)
+9A391EAC:Salvage (100)
+9A3CEBDF:Salvage (100)
+9A3CCEAA:Salvage (100)
+9A3CE27E:Salvage (100)
+9A3D9909:Salvage (100)
+9A3EA587:Salvage (100)
+9A3D0513:Salvage (100)
+9A3D3A56:Salvage (100)
+9A3E621D:Salvage (100)
+9A3D319D:Salvage (100)
+9A3E6AC6:Salvage (100)
+9A6D93AE:Heavy Bracelet
+9936C65A:Pathwarden Token
+9A70BF30:Frost Bow
+9A70A4A3:Chainmail Tassets
+9A71F9BB:Nether Baton
+9A7045F6:Frost Bow
+9A7057A4:Flared Shirt
+9A71EFAA:Leather Pants
+9A68A585:Shoes
+9A705A11:Piercing Bow
+9A6FAAE1:Olthoi Celdon Girth
+9A71CFE7:Viamontian Pants
+9A719173:Piercing Baton
+9A707363:Heavy Bracelet
+9A705EB2:Fire Bow
+9A708334:Acid Bow
+9A6D8F05:Shirt
+9A709C78:Heavy Bracelet
+9A70CC59:Baggy Shirt
+9A70C69F:Heavy Bracelet
+9A6E7D96:Sollerets
+9A70F512:Slashing Bow
+9A715699:Acid Bow
+9A70AB64:Olthoi Alduressa Gauntlets
+8DAA2A94:Pack Levistras
+8DABCB7F:Aphus Lassel Portal Gem
+92B50F01:Sollerets
+92B3700C:Yoroi Leggings
+80EEE4A1:Burning Sands Keyring
+993D587B:Blackmoor's Favor
+993D59BC:Oil of Rendering
+993D59E7:Oil of Rendering
+993D59E6:Facility Hub Portal Gem
+9886165F:Rynthid Sorcerer of Rage's Mask
+9552CB61:Rynthid Sorcerer of Rage's Mask
+93BE73EA:Heavy Necklace
+9A7022D2:Loafers
+976C8A4A:Tusker Spit
+9A6C9E04:Slashing Bow
+9A57847F:Fire Bow
+9A5FBCC6:Electric Baton
+9A578CC0:Electric Staff
+9A7052DD:Blunt Baton
+9A70134E:Nether Baton
+9A71D365:Nether Baton
+9A71B111:Piercing Baton
+9A718B43:Piercing Bow
+9A716DD6:Nether Baton
+9A6E806A:Celdon Leggings
+9A70E619:Acid Bow
+9A7089CC:Slashing Bow
+9A6CFF33:Acid Bow
+9A708C9E:Olthoi Alduressa Coat
+9A707629:Shirt
+
+Missing Exports - Possessed items that were not found:

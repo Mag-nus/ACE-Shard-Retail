@@ -1,0 +1,237 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485763198_log.pcap
+
+Partial Exports - Missing appraisal info:
+805EC849:Sack
+805EC84B:Ust
+805EC84D:Letter From Home
+805EC84E:Academy Library Key
+805EC84F:Asheron's Benediction
+805EC850:Facility Hub Portal Gem
+805EC852:A List of Items
+805EC854:Blackmoor's Favor
+805EC857:Potion of Healing
+805EC858:Dansha-Ki's Gem of Portal Recall
+805EC859:Little Green Seeds
+805EC85A:Sturdy Iron Key
+805EC85B:Messenger's Collar
+805EC85C:Some Changes for February 2012
+805EC90D:Diamond Heart
+805EC927:Greater Mana Stone
+805EC8AC:Antiquated Compass
+81026C22:Covenant Sollerets
+81026C23:Covenant Sollerets
+81026C38:Doppelganger Shield
+81026C21:Covenant Sollerets
+81026C20:Covenant Sollerets
+805EC867:Olthoi Egg
+81026C1F:Sollerets
+81026C1E:Chiran Sandals
+805EC863:Pack
+81026C30:Steel Toed Boots
+805EC862:Foci of Artifice
+805EC87A:Scroll of Raven Fury
+805EC86A:Diamond Scarab
+805EC86B:Pyreal Scarab
+805EC86C:Argenory Plant
+805EC86D:Minalim Plant
+805EC86E:Academy Stamp
+805EC86F:Academy Stamp
+805EC870:Encapsulated Spirit
+805EC872:Aphus Lassel Portal Gem
+805EC874:Potion of Black Fire
+805EC873:Dansha-Ki's Gem of Portal Recall
+805EC875:Licorice Rat
+805EC876:Sho Gem of Worth
+805EC877:Thick Lugian Stew
+805EC879:Gem of Balance
+805EC878:Black Page of Salt and Ash
+805EC8AF:Salvage
+805EC8B0:Salvage
+81026C33:Covenant Shield
+805EC871:Dark Shard
+81026C68:Amuli Coat
+805EC87C:Pack
+805EC8D7:Wallbound Niffis
+805EC92A:Lugian Hammer
+805EC929:Flaming War Axe
+805EC8D5:Turquoise Winged Helmet
+805EC8D6:Gonjoku's Mana Infusion
+805EC8DC:Trident
+805EC8E2:Stick
+805EC8E3:Pocket Watch
+805EC898:Scroll of Nether Bolt VII
+805EC8E1:Teardrop Crown
+805EC8E4:Cloak
+805EC8E6:Mazule
+805EC8E5:Yoroi Sleeves
+805EC8E7:Puzzle Box
+805EC893:Pack
+805EC8E9:Trousers
+805EC8EA:Loose Breeches
+805EC896:Scroll of Astyrrian's Gift
+805EC8EB:Leather Gauntlets
+805EC8EC:Chevron Cloak
+805EC894:Scroll of Nether Bolt VI
+805EC907:Chevron Cloak
+805EF922:Cloak
+805EF896:Cloak
+81026C60:Greater Olthoi Breastplate
+81026C61:Greater Olthoi Girth
+8AA62912:Mana Forge Key
+81026C2F:Greater Olthoi Girth
+81026C6A:Wedding Raiment
+805EC8FA:Treated Healing Kit
+805EC89E:Vaulter's Crystal
+805EC89B:Ben Ten's Crystal
+805EC89A:Thorsten's Crystal
+805EC89C:Thief's Crystal
+805EC89D:Magus's Pearl
+805EC89F:Adherent's Crystal
+805EC8A0:Smithy's Crystal
+8A999D10:Mana Forge Key
+805EC931:Flaming Nekode
+805EC937:Electric Board with Nail
+805EC936:Frost Trident
+805EC934:Acid Great Star Mace
+805EC932:Nabut
+805EC8FB:Treated Healing Kit
+805EC925:War Axe
+805EC8C7:Sturdy Iron Key
+805EC924:Lugian Hammer
+805EC921:Acid Spine Glaive
+805EC912:Sublime Necklace of Acid and Piercing Protection
+805EC8F3:Academy Cestus
+A740BBBF:Stipend
+805EC8F1:Academy Cestus
+805EC8AB:Pack
+805EC92F:Ken
+805EC935:Dirk
+805EC92C:War Axe
+805EC8C8:Sturdy Iron Key
+805EC92D:Takuba
+805EC92B:Flamberge
+805EC926:Flaming Long Sword
+805EC92E:Flaming Takuba
+805EC8F4:Flaming Dirk
+805EC8DB:Flaming Takuba
+805EC8F2:Flaming Long Sword
+805EC8E8:Lightning Dirk
+805EC8C9:Sturdy Iron Key
+805EC8E0:Flaming Shamshir
+805EC8DF:Ken
+805EC904:Scroll of Summon Secondary Portal I
+81026C1C:Dinner Plate
+81026C1D:Dinner Plate
+805EC8CA:Sturdy Iron Key
+81026C24:Nariyid Gauntlets
+81026C25:Platemail Gauntlets
+805EC8CB:Sturdy Iron Key
+81026C26:Lorica Gauntlets
+81026C27:Lorica Gauntlets
+805EC8BE:Pack
+81026C28:Covenant Gauntlets
+81026C29:Virindi Inquisitor's Mask
+805EC8BF:Ring
+81026C32:Scarecrow Guise
+81026C2A:Doppelganger Robe
+805EC8C0:Shirt
+805EC8C1:Covenant Breastplate
+805EC8C2:Shirt
+805EC8C3:Heavy Bracelet
+805EC8CC:Sturdy Iron Key
+805EC8C4:Flared Shirt
+805EC8C5:Olthoi Celdon Gauntlets
+805EC8C6:Fire Baton
+805EC8CD:Sturdy Iron Key
+805EC8CF:Blooded Platinum Invader Lord Helm
+805EC8CE:Amuli Coat
+805EC8D0:Steel Toed Boots
+805EC8D1:Snake Skin Coat
+805EC8D2:Berzerker's Crystal
+805EC8D3:Training Wand
+805EC903:Scroll of Summon Primary Portal I
+805EC8F6:Ebon Gromnie Tooth
+805EC8FD:Fried Olthoi Egg
+805EC8D9:Salvage
+805EC8DA:Coral Heart
+805EC8DE:Adherent's Crystal
+805EC8FE:Tasty Pudding
+805EC8FF:Hearty Lugian Loaf
+805EC900:Gonjoku's Mana Infusion
+805EC901:Cave Penguin Cake
+805EC905:Candy Corn
+805EC908:Acid Compound Bow
+805EC909:Electric Bow
+805EC90A:Fire Bow
+805EC90B:Slashing Bow
+805EC90C:Fire Bow
+805EC90E:Yag
+81026BA8:Eye of the Fallen
+915B57E2:Stamina Tonic
+81026BAB:Dusky Winged Coat
+81026BAA:Lustrous Winged Leggings
+B0211075:Mana Tonic
+81026BA9:Platemail Hauberk
+81026BA7:Alduressa Coat
+81026BA4:Covenant Tassets
+81026BA5:Covenant Girth
+915C535E:Health Tonic
+81026BAE:Celdon Girth
+81026BA6:Squalid Leggings
+B020198E:Mana Philtre
+81026BA3:Celdon Sleeves
+81026BA2:Platemail Leggings
+81026BAD:Platemail Leggings
+81026BAC:Squalid Coat
+81026C2E:Kithless Siraluun Headdress
+81026C2D:Kithless Siraluun Dress
+81026C2C:Untamed Siraluun Dress
+81026C2B:Strand Siraluun Dress
+81026B8A:Deadly Lightning Arrow
+89D50B3F:Brawler's Crystal
+8A82CF93:Foolproof Jet
+8A857031:Salvage (20)
+89819CD5:Salvage (100)
+89786A5E:Salvage (100)
+8A853BC7:Salvage (100)
+81012B1E:Gem of Purity
+B4B2C991:Pyreal Mote
+C7474504:Mire Witch's Loincloth
+8D06F553:Coalesced Aetheria
+805EC887:Coalesced Aetheria
+805C29BC:Coalesced Aetheria
+805EC890:Coalesced Aetheria
+805EC889:Coalesced Aetheria
+805C266C:Coalesced Aetheria
+8A53E42A:Coalesced Aetheria
+805EC88A:Coalesced Aetheria
+805EC88C:Coalesced Aetheria
+B021238C:Coalesced Aetheria
+805EC87F:Coalesced Aetheria
+805EC886:Coalesced Aetheria
+805EC88B:Coalesced Aetheria
+805EC888:Coalesced Aetheria
+805EC87E:Coalesced Aetheria
+805EC880:Coalesced Aetheria
+805EC88D:Coalesced Aetheria
+805EC87D:Coalesced Aetheria
+805EC881:Coalesced Aetheria
+805EC882:Coalesced Aetheria
+805EC883:Coalesced Aetheria
+805EC884:Coalesced Aetheria
+805EC885:Coalesced Aetheria
+805EC88F:Coalesced Aetheria
+805EC88E:Coalesced Aetheria
+B363800F:Chevron Cloak
+B1DD1165:Halved Cloak
+805EC7C0:Trimmed Cloak
+805EC7BF:Bordered Cloak
+B6EB7661:Quartered Cloak
+805F08E5:Halved Cloak
+B0C78249:Quartered Cloak
+B0BBA475:Halved Cloak
+B408EB7F:Chevron Cloak
+B7A28A2F:Bordered Cloak
+
+Missing Exports - Possessed items that were not found:

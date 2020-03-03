@@ -1,0 +1,199 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap1\pkt_2017-1-26_1485462351_log.pcap
+
+Partial Exports - Missing appraisal info:
+801D4B59:Cloth Cap
+801D4B56:Shoes
+801D4B54:Pyreal
+801D4B53:Ust
+801D4B4F:Prismatic Taper
+801D4B4E:Lead Scarab
+801D4B4D:Handy Healing Kit
+801D4B4C:Letter From Home
+801D4B4B:Bread
+801D4B47:Academy Coat
+801D4AEE:Snow Lily
+801D4B46:Facility Hub Portal Gem
+801D4B3D:Sturdy Iron Key
+801D4B43:Haebrean Girth
+801D4B42:Chiran Leggings
+801D4B41:Flared Shirt
+801D4B40:Chiran Sandals
+801D4B3F:Tenassa Leggings
+801D4B3E:Tenassa Leggings
+801D4B3B:Pack
+801D4B3A:Academy Coat
+801D4B38:Haebrean Pauldrons
+801D4AD7:Sack
+801D4B37:Olthoi Greaves
+801D4B36:Kasa
+801D4AFD:Eye Patch
+801D4B35:Lightning Zombie Essence (100)
+801D4B34:Leather Shorts
+801D4B33:Koujia Breastplate
+801D4B32:Haebrean Helm
+801D4ABB:Sturdy Iron Key
+801D4B31:Salvage (100)
+801D4B30:Smithy's Crystal
+801D4B2F:Salvaged  (100)
+801D4B2E:Salvage (100)
+801D4AE9:Katar of the Fallen
+801D4B2D:Dark Ruby Ring
+801D4B2C:Olthoi Tassets
+801D4B22:Pack
+801D4B2B:Heavy Bracelet
+801D4B27:Salvage (100)
+801D4B09:Pack
+801D4B26:Salvage (100)
+801D4B25:Salvage (100)
+801D4AF0:Pack
+801D4B23:Oswald's Crystal
+801D4B24:Celdon Breastplate
+801D4B28:Amuli Coat
+801D4B29:Amuli Coat
+801D4B21:Olthoi Celdon Girth
+801D4B20:Platemail Vambraces
+801D4B1F:Diforsa Greaves
+801D4B1E:Studded Leather Tassets
+801D4A8D:Banished Atlatl
+801D4B1D:Jerkin
+801D4B1C:Salvage (100)
+801D4AE2:Katar of the Fallen
+801D4B1B:Chainmail Bracers
+801D4B1A:Wide Breeches
+801D4AD4:Scroll of Brogard's Defiance
+801D4B19:Pantaloons
+801D4B18:Celdon Sleeves
+801D4B17:Olthoi Celdon Sleeves
+801D4B16:Olthoi Koujia Leggings
+801D4B15:Amuli Leggings
+801D4B14:Olthoi Tassets
+801D4B13:Salvage (100)
+801D4B12:Slippers
+801D4AF2:Ring
+801D4B11:Sandals
+801D4B10:Olthoi Pauldrons
+801D4AD3:Scroll of Executor's Blessing
+801D4B0F:Olthoi Koujia Sleeves
+801D4B0A:Amuli Coat
+801D4B0E:Amuli Coat
+801D4B0D:Celdon Breastplate
+801D4B0B:Lorica Breastplate
+801D4B0C:Koujia Breastplate
+801D4B08:Haebrean Breastplate
+801D4B07:Olthoi Koujia Sleeves
+801D4B06:Covenant Pauldrons
+801D4B05:Salvage (100)
+801D4AA4:Bloodletter Drudge Charm
+801D4B04:Salvage (100)
+801D4B03:Salvage (100)
+801D4AED:Health Philtre
+801D4B02:Salvage (100)
+801D4B01:Salvage (100)
+801D4AD5:Orange Monster Seed
+801D4B00:Olthoi Celdon Sleeves
+801D4AFF:Knorr Academy Breastplate
+801D4AFE:Leather Bracers
+801D4AFB:Haebrean Helm
+801D4AE7:Gorget
+801D4AFA:Circlet
+801D4AF9:Leather Tassets
+801D4AD1:Elysa's Bangle
+801D4AF8:Olthoi Amuli Helm
+801D4AF7:Buckler
+801D4AA1:Red Monster Seed
+801D4AF6:Duelist's Jewel
+801D4AF5:Salvage (100)
+801D4AF4:Salvage (100)
+801D4AF3:Salvage (100)
+801D4A92:Ken
+801D4AF1:Salvage (100)
+801D4AEF:Facility Hub Portal Gem
+801D4AEC:Flared Pants
+801D4AEB:Lightning Skeleton Minion Essence (100)
+801D4AEA:Fire Zombie Essence (80)
+801D4AE6:Bracelet
+801D4AE5:Electric Naginata
+801D4AE4:Quartered Cloak
+801D4AE3:Top
+801D4AE1:Shirt
+801D4AD0:Daulan Faur
+801D4AE0:Salvage (100)
+801D4ADF:Salvage (100)
+801D4A91:Flaming Katar
+801D4ADE:Salvage (100)
+801D4ADD:Salvage (100)
+801D4A8E:Yumi
+801D4ADC:Salvage (100)
+801D4ADB:Salvage (100)
+801D4A88:Training Wand
+801D4ADA:Salvage (100)
+801D4AD9:Salvage (100)
+801D4AD8:Salvage (100)
+801D4AD6:Bastone
+801D4A8F:Flaming Hand Axe
+801D4ACF:Thorsten's Crystal
+801D4ACE:Knight's Crystal
+801D4ACD:Vaulter's Crystal
+801D4ACC:A Huge Lump of Coal
+801D4ACB:Slashing Atlatl
+801D4ACA:Slashing Bow
+801D4AC9:Frost Compound Bow
+801D4AC8:Frost Bow
+801D4AC7:Dagger
+801D4AC6:Salvage (100)
+801D4AC5:Salvage (100)
+801D4AC4:Salvage (100)
+801D4AC3:Salvage (100)
+801D4AC2:Salvage (100)
+801D4AC1:Salvage (100)
+801D4AC0:Salvage (100)
+801D4ABF:Salvage (100)
+801D4ABE:Lorica Leggings
+801D4ABD:Salvage (100)
+801D4ABC:Salvage (100)
+801D4ABA:Salvage (100)
+801D4AB9:Salvaged  (100)
+801D4AB8:Salvage (100)
+801D4AB7:Salvage (100)
+801D4AB6:Salvage (100)
+801D4AB5:Salvage (100)
+801D4AB4:Salvage (100)
+801D4AB3:Salvage (100)
+801D4AB2:Salvage (100)
+801D4AB1:Salvage (100)
+801D4AB0:Salvage (100)
+801D4AAF:Salvage (100)
+801D4AAE:Salvage (100)
+801D4AAD:Salvage (100)
+801D4AAC:Salvage (100)
+801D4AAB:Frost Skeleton Samurai Essence
+801D4AAA:Salvage
+801D4AA9:Salvage
+801D4AA3:Salvage (100)
+801D4AA2:Salvage (100)
+801D4AA0:Salvaged  (100)
+801D4A9F:Flaming Claw
+801D4A9E:Long Sword
+801D4A9D:Frost Dirk
+801D4A9C:Acid Compound Bow
+801D4A9B:Flaming War Axe
+801D4A9A:Spada
+801D4A99:Shamshir
+801D4A98:Frost Dirk
+801D4A97:Long Sword
+801D4A96:Tungi
+801D4A95:Frost Stick
+801D4A94:Lightning Dirk
+801D4A93:Ken
+801D4A90:Hand Axe
+801D4A8C:Acid Compound Crossbow
+801D4A8B:Acid Compound Bow
+801D4A8A:Slashing Baton
+801D4A89:Ben Ten's Crystal
+801D4AA8:Salvage
+801D4AA7:Salvage (100)
+801D4AA6:Salvage (100)
+801D4AA5:Salvage (100)
+
+Missing Exports - Possessed items that were not found:

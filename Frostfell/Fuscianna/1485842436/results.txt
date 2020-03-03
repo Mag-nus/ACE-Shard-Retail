@@ -1,0 +1,157 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485841816_log.pcap
+
+Partial Exports - Missing appraisal info:
+B37D0CC7:Pyreal
+B3AE056C:Sack
+B3AE1F64:Lead Scarab
+B3AE6387:Blackmoor's Favor
+B37D2D98:Academy Wand
+B37DFBE8:Prismatic Taper
+B37D27F4:Facility Hub Portal Gem
+B3AE6160:Great Mana Charge
+B36F4166:Arrow
+B38A6140:Academy Shortbow
+B37E3618:Ust
+B2B04FCB:Pack Golem
+B2B04FC7:Pack Drudge
+B2B04FD6:Welcome Letter
+B2B04FCA:Pack Drudge
+B2B04FCF:Large Armoredillo Hide
+B2B04FC8:Pack Drudge
+B2B04FC6:Sake
+B2B04FC9:Pack Drudge
+B2A4DB9B:Black Luster Pearl
+B2A4DBB8:Black Luster Pearl
+B2944312:The Orphanage
+B37DF916:Foci of Verdancy
+B2B04F7E:Pack
+B2B04F7F:Gonjoku's Mana Infusion
+B2B04F80:Thick Lugian Stew
+B2B04F81:Refreshing Water
+B2B04F82:Stout Lugian Ale
+B2B04F83:Priceless Ore
+B2B04F84:Antiquated Compass
+B2B04F85:Gem of Purity
+B2B04F88:Scroll of Raven Fury
+B2B04F89:Dansha-Ki's Gem of Portal Recall
+B2B04F8A:Olthoi Egg
+B2B04F8D:Elaborate Field Health Rations
+B2B04FF0:Diamond Powder
+B2B05039:Pyreal Sliver
+B2B05017:Pyreal Mote
+B43B756B:Twisted Dark Key
+B2B04F7D:Frost Spine Glaive
+B2B04FF4:Marble Keyring
+B2B04FF5:Gold Golem Heart
+B2B04FF3:Black Marrow Keyring
+B2B04FF1:Pyreal Golem Heart
+B2B04FF2:Pyreal Golem Heart
+B2B04F91:Pack
+B45BC959:Dark Shard
+B4146226:Sparkling Gem
+B384730B:Sparkling Gem
+B45350CF:Sparkling Gem
+B459C7EA:Sparkling Gem
+B4323080:Sparkling Gem
+B4322C82:Sparkling Gem
+B41B6F92:Sparkling Gem
+B436B1FE:Rage of Grael Gem
+B443EED8:Crystal Fragment
+B454A806:Crystal Fragment
+B45C271A:Crystal Fragment
+B443F4D4:Crystal Fragment
+B454A7AE:Crystal Fragment
+B443E1B1:Crystal Fragment
+B45C2749:Crystal Fragment
+B45513A7:Crystal Fragment
+B45AA7CD:Crystal Fragment
+B458E233:Crystal Fragment
+B454A804:Crystal Fragment
+B459084D:Crystal Fragment
+B443F865:Crystal Fragment
+B2B04FAA:Pack
+B2B05026:Aetheria
+B2B05027:Aetheria
+B2B04F7A:Aetheria
+B2B04F79:Aetheria
+B2B04F78:Aetheria
+B2B04FC2:Aetheria
+B29E4619:Aetheria
+B2A4E849:Aetheria
+B2A4E974:Aetheria
+B294434F:Aetheria
+B294437F:Coalesced Aetheria
+B2A4DC01:Coalesced Aetheria
+B293E261:Coalesced Aetheria
+B56F6E26:Pack
+B27DBC79:Aetheria
+B2943F86:Aetheria
+B29E4907:Coalesced Aetheria
+B2A76D94:Aetheria
+B2A4DB5D:Soul Bound Sword
+B2A4DB8D:Dark Ruby Ring
+B2943FCB:Crystalline Shard
+B2A4DA4C:Paradox-touched Olthoi Sword
+B294406D:Crescent Moons
+B2943FBF:Pack T'thuun
+B28CD494:Quintessence Sickle
+B282969F:Weeping Axe
+B4914B35:Golden Gromnie
+B2A4DAD2:Pack Asheron
+B2A4DBDE:Tipped Pack Cow
+B2944252:Golden Gromnie
+B29442F2:Golden Gromnie
+B48EEC00:Golden Gromnie
+B48F0A68:Golden Gromnie
+B45ECCB4:Golden Gromnie
+B27F5D5A:Golden Gromnie
+B29443A0:Golden Gromnie
+B29442F0:Golden Gromnie
+B2A4DAB9:Golden Gromnie
+B28C350D:Golden Gromnie
+B2A4D97A:Golden Gromnie
+B2943DAC:Golden Gromnie
+B3AE6CB9:Pack
+B4440ABD:Crystal Fragment
+B4566B45:Crystal Fragment
+B43CE2C6:Crystal Fragment
+B454A252:Crystal Fragment
+B281C9A9:Crystal Fragment
+B4566E4E:Crystal Fragment
+B43DAB4D:Crystal Fragment
+B456591D:Crystal Fragment
+B45C26CB:Crystal Fragment
+B45B06DF:Crystal Fragment
+B458E26B:Crystal Fragment
+B456660D:Crystal Fragment
+B4566B1B:Crystal Fragment
+B45C26FC:Crystal Fragment
+B45C26E0:Crystal Fragment
+B4535E2E:Crystal Fragment
+B4420F23:Crystal Fragment
+B437706C:Crystal Fragment
+B45C276A:Crystal Fragment
+B2B0489C:Skeletal Falatacot Key
+B2943F93:Pack Drudge
+B2838E57:Pack Asheron
+B4566453:Crystal Fragment
+B43A5BEE:Crystal Fragment
+B435DCC7:Golden Gromnie
+B2B04863:Shoyanen's Portal Gem
+B40F1DC4:Encapsulated Spirit
+B2B04880:Treated Healing Kit
+B432CC9A:Golden Gromnie
+B42E3779:Golden Gromnie
+B4363B3D:Golden Gromnie
+B27D0EBE:Sho Wand
+B3DF9DEB:Treated Healing Kit
+B2B0488D:Treated Healing Kit
+B431757E:Greater Stamina Kit
+B3E61F5F:Greater Mana Kit
+B42D0CF0:Black Luster Pearl
+B3E558B3:Burning Coal
+B42EA228:Shendolain Crystal Orb
+B42BFF14:The Orphanage
+
+Missing Exports - Possessed items that were not found:

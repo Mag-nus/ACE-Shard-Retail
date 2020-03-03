@@ -1,0 +1,115 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-PCAP-Absolutely-Random-Gameplay\AC-pcap\pkt_2017-1-30_1485795178_log.pcap
+
+Partial Exports - Missing appraisal info:
+802EF86D:Pack
+802EF86C:Ust
+802EF86B:Blackmoor's Favor
+802EF869:Diamond Scarab
+802EF868:Pyreal Scarab
+802EF867:Gold Scarab
+802EF866:Silver Scarab
+802EF865:Copper Scarab
+802EF863:Asheron's Lesser Benediction
+802EF862:Prismatic Taper
+802EF861:Prismatic Taper
+802EF860:Platinum Scarab
+802EF858:Tiriun Cap Wafer
+802EF85D:Celestial Hand Stronghold Portal Gem
+802EF859:Society Gem of Dispelling
+803AE97F:Town Network Portal Gem
+803BEFAC:Mana Scarab
+83F8674B:Stipend
+839D7713:Grey Taper
+839D774F:Red Taper
+84270532:Celdiseth's Portal Gem
+9A58FA16:Deed
+8391BFD5:Pyreal
+9B323D71:Diamond Scarab
+9C61F34C:Prismatic Taper
+802EF857:Pack
+802EF800:Black Coral
+8319E34A:Letter from Uber P
+9C6957F6:Titan Mana Charge
+9B3A221D:Prismatic Taper
+8BA3EAA2:Writ of Refuge
+9C64D556:Titan Mana Charge
+9C64D54D:Titan Mana Charge
+9C64D553:Titan Mana Charge
+9C64D54A:Titan Mana Charge
+802EF833:Halved Cloak
+9C6A2674:Pyreal
+802EF847:Pack
+802EF846:Aetheria Mana Stone
+802EF83C:Diplomatic Message from Harlune
+802EF845:Scorched Grievver Essence
+802EF844:Scorched Grievver Essence
+802EF843:Volcanic Moar Essence
+802EF842:Lightning Phyntos Swarm Essence
+802EF83B:Platinum Spirits
+802EF83A:Writ of Refuge
+802EF839:Rage of Grael Gem
+8396C19C:Trade Note (250,000)
+84A12D79:Encapsulated Spirit
+84D39040:Upper Insatiable Eater Jaw
+802EF7FF:Celestial Hand Commendation Ribbon
+84CEF85C:Blank Augmentation Gem
+9B295EE5:Flaming Jo
+9B296BD6:Monougat
+993AC456:Trade Note (250,000)
+802EF83E:Trade Note (100,000)
+9C626444:Platemail Breastplate
+9C581EEF:Dire Champion Token
+9C6845D6:Halved Cloak
+9C62218E:Amuli Leggings
+9C695BB3:Titan Mana Charge
+9C6A2675:Pyreal
+802EF811:Pack
+9C6A2676:Pyreal
+9C6957F8:Titan Mana Charge
+9C6A2677:Pyreal
+802EF83D:Ancient Diamond Idol
+802EF819:Paradox-touched Olthoi Wand
+802EF837:Focusing Stone
+802EF817:Hammer of the Fallen
+9B3ACB8B:Orb
+9C65428B:Platemail Hauberk
+9C637036:Platemail Leggings
+9C68D6BC:Prismatic Taper
+9C68D025:Prismatic Taper
+9C680DCF:Titan Mana Charge
+9C6957FE:Titan Mana Charge
+9C6A1D23:Titan Mana Charge
+802EF832:Aetheria
+802EF831:Aetheria
+802EF80F:Pack
+802EF80C:Ancient Mhoire Coin
+802EF80B:Celestial Hand Trade Token
+802EF80A:Celestial Hand Trade Token
+802EF809:Small Olthoi Venom Sac
+802EF808:Promissory Note
+802EF807:Celestial Hand Trade Token
+802EF806:Celestial Hand Trade Token
+802EF7F8:Greater Mukkir Slayer Stone
+849C4F39:Aetherium-infused Gear
+83B82A64:Colosseum Coin
+84B369A4:Dire Champion Token
+84B5D21A:Dire Champion Token
+9B35CE52:Dire Champion Token
+802EF830:Aetheria
+9C9488FB:Burning Coal
+844B5AAE:Pack
+9B3937DC:Sake
+9C64D54B:Titan Mana Charge
+9B2E479A:Wah Chon's Winter Lager
+844B5D50:Pack
+9C64D54E:Titan Mana Charge
+9C64D551:Titan Mana Charge
+9C64D554:Titan Mana Charge
+844B5D58:Pack
+9B3AD526:Ancient Empyrean Trinket
+9B3AF170:Dire Champion Token
+9C616AD8:Dire Champion Token
+9C6508C4:Bordered Cloak
+
+Missing Exports - Possessed items that were not found:

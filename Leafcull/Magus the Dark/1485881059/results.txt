@@ -1,0 +1,66 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Arwic-Portal-Storms-Subway-and-misc-logins\pkt_2017-1-31_1485881050_log.pcap
+
+Partial Exports - Missing appraisal info:
+9E63E037:Pack
+9E63E038:Ust
+9E63E043:Tusker Title Token
+9E63E039:Prismatic Taper
+9E63E03A:Lead Scarab
+9E63E03B:Iron Scarab
+9E63E03C:Copper Scarab
+9E63E03D:Silver Scarab
+9E63E03E:Gold Scarab
+9E63E03F:Pyreal Scarab
+9E63E040:Diamond Scarab
+9E63E041:Impious Staff
+9E63E042:Staff of Aerfalle
+9E63E044:Foci of Strife
+9E63E045:Foci of Artifice
+9E63E046:Foci of Verdancy
+9E63E047:Foci of Enchantment
+9E63E048:Pack
+9E63E049:Greater Mana Stone
+9E63E04A:Major Prismatic Stone
+9E63E04B:Intricate Obsidian Key
+9E63E04C:Trade Note (100,000)
+9E63E04D:Pack
+9E63E04F:Aphus Lassel Portal Gem
+9E63E050:Aphus Lassel Portal Gem
+9E63E051:Suikan Item Master Robe
+9E63E053:Pyreal
+9E63E056:Pyreal
+9E63E057:Suikan Creature Master Robe
+9E63E05B:Sollerets
+9E63E058:Suikan War Master Robe
+9E63E059:Suikan Life Master Robe
+9E63E05A:Asheron's Lesser Raiment
+9E63E05C:Platemail Leggings
+9E63E060:Pyreal
+9E63E05D:Scalemail Gauntlets
+9E63E05F:Heaume
+9E63E062:Pyreal
+9E63E064:Staff
+9E63E065:Iron Pea
+9E63E069:Gem
+9E63E066:Chainmail Hauberk
+9E63E067:Studded  Cuirass
+9E63E068:Platemail Hauberk
+9E63E06A:Poet's Shirt
+9E63E06B:Siraluun Matihao
+9E63E06C:Excellent Healing Kit
+9E63E06D:Excellent Healing Kit
+9E63E06E:Gem of Cleansing
+9E63E06F:Copper Pea
+9E63E070:Ebon Tooth Katar
+9E63E071:White Phyntos Wasp Wing
+9E63E072:Amulet
+9E63E073:Gorget
+9E63E074:Ring
+9E63E075:Some Changes for February 2012
+9E63E076:Blackmoor's Favor
+9E63E077:Orb
+9E63E078:Stipend
+9E63E07D:Focusing Stone
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,233 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-31_1485856541_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-31_1485854086_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-31_1485854086_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-31_1485854086_log.pcap
+
+Partial Exports - Missing appraisal info:
+AD8153E2:Smock
+AD8153E3:Doublet
+AD81540A:Pyreal
+AD8153E4:Tunic
+AD8153E5:Smock
+AD81546E:Gharu'ndim Arm
+AD8153E6:Tunic
+AD8153E7:Doublet
+AD8154A3:Penguin Wing
+AD8153E8:Smock
+AD8153E9:Shirt
+AD8154A4:Gharu'ndim Arm
+AD8153EA:Doublet
+AD8153EB:Tunic
+AD8154A5:Penguin Wing
+AD8153EC:Shirt
+AD8153ED:Tunic
+AD8154B9:Penguin Wing
+AD8153EE:Shirt
+AD8153EF:Shirt
+AD8154BB:Aluvian Leg
+AD8153F0:Jerkin
+AD8153F1:Jerkin
+AD8153FE:Treated Healing Kit
+AD8153F2:Tunic
+AD8153F3:Tunic
+AD8153F4:Crown
+AD8153F5:Shirt
+AD8153FF:Treated Healing Kit
+AD8153F6:Ring
+AD8153F7:Iron Scarab
+AD8153F8:Pack Bael'Zharon
+AD8153F9:Small Shard
+AD8153FA:Pack
+AD8153FB:Trade Note (75,000)
+AD8153FD:Gem of Purity
+AD815400:Treated Healing Kit
+AD815401:Trade Note (100,000)
+AD815402:Gem of Stillness
+AD815403:Treated Healing Kit
+AD815404:Treated Healing Kit
+AD815405:Treated Healing Kit
+AD815406:Treated Healing Kit
+AD815407:Treated Healing Kit
+AD815408:Treated Healing Kit
+AD815409:Treated Healing Kit
+AD81540B:Treated Healing Kit
+AD81540C:Olthoi Stamp
+AD81540E:Ring
+AD81540F:Solid Shard
+AD815410:Pack
+AD815411:Renegade Stone Clasp
+AD815414:Covenant Sollerets
+AD815415:Red Monster Seed
+AD815416:Relanim Plant
+AD815418:Ash Gromnie Tooth
+AD815417:Vaulter's Crystal
+AD815419:Sceptre
+AD81541B:Treated Healing Kit
+AD81541A:Lapyan Plant
+AD81541C:Renegade Herbal Kit
+AD81541D:Renegade Herbal Kit
+AD81541E:Renegade Herbal Kit
+AD81541F:Sturdy Steel Key
+AD815420:Renegade Herbal Kit
+AD815421:Gem of Stillness
+AD815422:Dark Shard
+AD815423:Gifted Healing Kit
+AD815424:Golden Gromnie
+AD815425:Ash Gromnie Tooth
+AD815426:Armet
+AD815427:Ice Heaume of Frore
+AD815428:War Hammer
+AD815429:Pack
+AD81542A:Pants
+AD81543E:Gloves
+AD81542B:Pants
+AD81542C:Pants
+AD815457:Sack
+AD81542D:Pants
+AD81542E:Breeches
+AD815467:Sturdy Steel Key
+AD81542F:Trousers
+AD815430:Pants
+AD81547E:Olthoi Claw
+AD815431:Breeches
+AD815432:Pants
+AD81547F:Olthoi Claw
+AD815433:Pants
+AD815434:Pants
+AD815483:Renegade Herbal Kit
+AD815435:Breeches
+AD815436:Pants
+AD815481:Ebon Spine Harpoon
+AD815437:Shirt
+AD815438:Tunic
+AD815439:Breeches
+AD81543A:Doublet
+AD815492:Renegade Herbal Kit
+AD81543B:Tunic
+AD81543C:Jerkin
+AD81543D:Jerkin
+AD81543F:Scroll of Summon Primary Portal III
+AD815440:Pack
+AD815441:Heavy Necklace
+AD815442:Amulet
+AD815443:Utelari's Collar
+AD815444:Reshalra's Collar
+AD815445:Necklace
+AD815446:Amulet
+AD815447:Reshalra's Collar
+AD815448:Manuaka's Collar
+AD815449:Sahkurea's Collar
+AD81544A:Gorget
+AD81544B:Heavy Bracelet
+AD81544C:Heavy Bracelet
+AD81544D:Ring
+AD81544E:Heavy Bracelet
+AD81544F:Ring
+AD815450:Ring
+AD815451:Ring
+AD815452:Ring
+AD815453:Ring
+AD815454:Ring
+AD815455:Ring
+AD815456:Ring
+AD815458:Orb
+AD81545A:Bracelet
+AD81545B:Amulet
+AD81545C:Ring
+AD81545D:Ring
+AD81545E:Ring
+AD81545F:Ring
+AD815460:Ring
+AD815461:Ring
+AD815462:Ring
+AD815463:Ring
+AD815464:Heavy Bracelet
+AD815465:Heavy Necklace
+AD815468:Niffis Pearl
+AD815469:Lapyan Plant
+AD81546A:Bracelet
+AD81546B:Fez
+AD81546D:Virindi Mask
+AD81546C:Tunic
+AD81546F:Amuli Leggings
+AD815470:Shirt
+AD815471:Covenant Greaves
+AD815493:Renegade Herbal Kit
+AD815472:Covenant Bracers
+AD815475:Heavy Gromnie Hide Coat
+AD815476:Heavy Gromnie Hide Coat
+AD815494:Renegade Herbal Kit
+AD815477:Heavy Gromnie Hide Coat
+AD81547B:Hardy Gromnie Hide
+AD81547A:Neydisa Hauberk
+AD81547C:Thin Gromnie Hide
+AD81547D:Artificer's Crystal
+AD815495:Renegade Herbal Kit
+AD815480:Ebon Spine Harpoon
+AD815482:Acid Dirk
+AD815484:Knuckles
+AD815485:Jack o' Lantern
+AD815486:Diamond Heart
+AD815488:Covenant Gauntlets
+AD815487:Bundle of Frost Arrowheads
+AD815489:Deadly Fire Arrow
+AD815496:Renegade Herbal Kit
+AD81548A:Salvaged  (100)
+AD81548D:Covenant Helm
+AD81548C:Steel Toed Boots
+AD81548E:Tenassa Sleeves
+AD81548F:Covenant Helm
+AD815497:Renegade Herbal Kit
+AD815498:Renegade Herbal Kit
+AD815499:Imbued Asteliary Orb
+AD81549A:Renegade Herbal Kit
+AD81549B:Renegade Herbal Kit
+AD81549C:Renegade Herbal Kit
+AD81549D:Renegade Herbal Kit
+AD81549E:Renegade Herbal Kit
+AD81549F:Renegade Herbal Kit
+AD8154A0:Frost Khanjar
+AD8154A1:Acid Dirk
+AD8154A2:Poniard
+AD8154A6:Salvaged  (100)
+AD8154A7:Salvaged  (100)
+AD8154B7:Hardy Gromnie Hide
+AD8154A8:Salvaged  (100)
+AD8154A9:Barbed Fletching Tool
+AD8154AD:Flaming Dagger
+AD8154AA:Wayfarer's Pearl
+AD8154AE:Ring
+AD8154AF:Ice Heaume of Frore
+AD8154B0:Salvaged  (100)
+AD8154B2:Sliver of Singular Chorizite
+AD8154B4:Sliver of Singular Chorizite
+AD8154B5:Sliver of Singular Chorizite
+AD8154B6:Sliver of Singular Chorizite
+AD8154B8:Fresh Zombie Leg
+AD8154BC:Fresh Zombie Leg
+AD8154BE:Fresh Zombie Head
+AD8154C0:Superior Helmet
+AD8154C1:Some Changes for February 2012
+AD8154C2:Salvaged  (30)
+
+Missing Exports - Possessed items that were not found:
+AD8153DF
+AD8153E0
+AD8153DE
+AD8153DD
+AD8153DC
+AD8153DB
+AD8153DA
+AD8153D9
+AD8153D7
+AD8153D6
+AD8153D5
+AD8153D8
+AD8153E1
+AD8153D4
+AD8153D3
+AD8153D2
+AD8153FC

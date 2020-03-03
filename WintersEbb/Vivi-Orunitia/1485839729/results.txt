@@ -1,0 +1,87 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485839309_log.pcap
+
+Partial Exports - Missing appraisal info:
+9158DBD0:Pack
+9158DBD1:Iron Scarab
+9158DBD2:Silver Scarab
+9158DBD3:Copper Scarab
+9158DBD4:Diamond Scarab
+9158DBD5:Major Smoldering Stone
+9158DBD6:Platinum Scarab
+9158DBD7:Pyreal Scarab
+9158DBD8:Gold Scarab
+9158DBD9:Lead Scarab
+9158DBDB:Prismatic Taper
+926183C0:Salvage (7)
+9158DBF4:Ornate Gear Marker
+9158DBF2:Colosseum Coin
+9158DBF3:Ancient Mhoire Coin
+9158DBF1:A'nekshay Token
+9158DBFA:Small Olthoi Venom Sac
+9158DBF5:Ust
+9158DBFD:Intricate Carving Tool
+9158DBF7:Blackmoor's Favor
+9158DBFE:Pristine Mana Shard
+9283E15D:Prismatic Taper
+9158DBE2:Pack
+8091CD2D:Chocolate Gromnie
+92735676:Treated Healing Kit
+927356BF:Treated Healing Kit
+9276AB34:Treated Healing Kit
+927C84AF:Treated Healing Kit
+92735686:Treated Healing Kit
+925B5576:Treated Healing Kit
+9273560E:Treated Healing Kit
+9278604B:Treated Healing Kit
+9276AB53:Treated Healing Kit
+92735561:Treated Healing Kit
+92734960:Treated Healing Kit
+9273556D:Treated Healing Kit
+92731328:Treated Healing Kit
+9273553B:Treated Healing Kit
+9272B90D:Treated Healing Kit
+9158DBFF:Gem of Purity
+92774324:Salvage (9)
+9282377D:Salvage (16)
+9158DBF0:Pack
+9158DBED:Foci of Verdancy
+9158DBEE:Foci of Enchantment
+9158DBEF:Foci of Artifice
+9276A59F:Salvage (9)
+9158DC01:Pack
+9158DC03:Pyreal
+9158DC09:Suikan War Master Robe
+9158DC0D:Massive Mana Charge
+9158DC11:Massive Mana Charge
+9158DC14:Suikan Item Master Robe
+91F04EFF:Diadem
+8FCAB523:Massive Mana Charge
+9281B9D0:Signet Crown
+9158DC19:Shou-jen Shozoku Mask
+91D7A0A7:Teardrop Crown
+9158DC0C:Massive Mana Charge
+918532A1:Teardrop Crown
+9158DC1B:Ring
+9275E8A1:Cloth Gloves
+9158DC17:Shou-jen Shozoku Trousers
+9158DC10:Massive Mana Charge
+9158DC1C:Heavy Bracelet
+92223A6A:Massive Mana Charge
+9158DC1E:Ring of Intellect
+9158DC1F:Jaleh's Necklace
+9158DC20:Asheron's Supreme Raiment
+9158DC21:Studded Leather Gauntlets
+9158DBF8:Wrapped Bundle of Deadly Frog Crotch Arrowheads
+9158DBF9:Wrapped Bundle of Arrowshafts
+927B6B60:Deadly Frog Crotch Arrow
+927B6C83:Deadly Frog Crotch Arrow
+927DF0F5:Salvage (8)
+92732270:Salvage (15)
+927F91F1:Deadly Frog Crotch Arrow
+9367A874:Trousers
+92F4F8A9:Loose Shirt
+9368777C:Olthoi Pauldrons
+9358A70E:Trade Note (250,000)
+
+Missing Exports - Possessed items that were not found:

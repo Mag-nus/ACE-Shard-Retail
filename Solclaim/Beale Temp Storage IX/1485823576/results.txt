@@ -1,0 +1,69 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485823558_log.pcap
+
+Partial Exports - Missing appraisal info:
+92B4B726:Pack
+80489357:Baggy Tunic
+9696BB05:Yoroi Pauldrons
+9936C6BE:Ust
+9697AF91:Heavy Bracelet
+96972D73:Yoroi Breastplate
+96697A3E:Pack
+8DA87FF1:Doll Leader's Charm
+993E6067:Facility Hub Portal Gem
+8DA88054:Salvaged  (100)
+9936C6BC:Pyreal
+8DA88042:Salvaged  (100)
+924DCDAF:Pack
+966A78BD:Orb
+966BD5BD:Yoroi Cuirass
+966C6C43:Heavy Bracelet
+87C4D3EF:Small Belt Pouch
+94BC2B9B:Heavy Bracelet
+94FAEA56:Bracelet
+92B4AB29:Pack
+942471F8:Bracelet
+87C4D3E0:Pumpkin Cookie Cutter
+87C4CC8C:Candy Corn
+9691A6CB:Heavy Bracelet
+9690E55F:Bracelet
+968CB230:Heavy Bracelet
+968C8DB3:Chainmail Gauntlets
+968C8C37:Chainmail Gauntlets
+8D6DE3A4:White Bunny Slippers
+9683F7C6:Platemail Gauntlets
+8DA8806C:Pack
+8D6E8637:Orb of the Bunny Booty
+8DA8801C:Aphus Lassel Portal Gem
+8D6DE346:Horned Helm
+8DA87FF2:Pack
+8D6DE3A5:Aerfalle's Pallium
+8E32E130:Cured Large Lugian Sinew
+8E32E1A1:Hea Totem
+8E309924:Salvaged  (100)
+8E30954C:Salvaged  (100)
+8E32E9B6:Bloodletter Drudge Charm
+97898083:Ring
+9785F38D:Heavy Bracelet
+978568DE:Bracelet
+9785A07E:Heavy Bracelet
+9786304B:Ring
+97894C7F:Necklace
+978AC27D:Scalemail Gauntlets
+9788C160:Flaming Katar
+9692569A:Heavy Bracelet
+96968A97:Heavy Bracelet
+978D4831:Celdon Leggings
+8E330189:Mutilator Head
+8E32E176:Nariyid Helm
+8E32E1B4:Salvaged  (100)
+8E30B5DD:Mages Loop
+8E305513:Olthoi Helm
+8E305520:Jaleh's Necklace
+8E33024D:Virindi Profatrix Mask
+8E311702:Armoredillo Hide Coat
+8E32F94A:Monougat
+8E30AF5D:Basalt Blade
+8E330212:Renegade Bone Charm
+
+Missing Exports - Possessed items that were not found:

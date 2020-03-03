@@ -1,0 +1,51 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (3692342302, 4914, 35, 6472001) /* Caster */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (3692342302,   1,      32768) /* ItemType - Caster */
+     , (3692342302,   5,        125) /* EncumbranceVal */
+     , (3692342302,   9,   16777216) /* ValidLocations - Held */
+     , (3692342302,  16,    6291460) /* ItemUseable - SourceWieldedTargetRemoteNeverWalk */
+     , (3692342302,  18,          1) /* UiEffects - Magical */
+     , (3692342302,  19,         10) /* Value */
+     , (3692342302,  65,        101) /* Placement - Resting */
+     , (3692342302,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (3692342302,  94,         16) /* TargetType - Creature */
+     , (3692342302, 151,          2) /* HookType - Wall */
+     , (3692342302, 9015,          3) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (3692342302,   1, False) /* Stuck */
+     , (3692342302,  11, True ) /* IgnoreCollisions */
+     , (3692342302,  13, True ) /* Ethereal */
+     , (3692342302,  14, True ) /* GravityStatus */
+     , (3692342302,  19, True ) /* Attackable */
+     , (3692342302,  22, True ) /* Inscribable */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (3692342302,   1, 'Aluvian Wand') /* Name */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (3692342302,   1,   33554812) /* Setup */
+     , (3692342302,   3,  536870932) /* SoundTable */
+     , (3692342302,   6,   67111919) /* PaletteBase */
+     , (3692342302,   8,  100668792) /* Icon */
+     , (3692342302,  22,  872415275) /* PhysicsEffectTable */
+     , (3692342302, 8001,  271138968) /* PCAPRecordedWeenieHeader - Value, Usable, UiEffects, Container, ValidLocations, TargetType, Burden, HookType */
+     , (3692342302, 8003,         18) /* PCAPRecordedObjectDesc - Inscribable, Attackable */
+     , (3692342302, 8005,     137217) /* PCAPRecordedPhysicsDesc - CSetup, STable, PeTable, AnimationFrame */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (3692342302,   1, 1343133073) /* Owner */
+     , (3692342302,   2, 1343133073) /* Container */
+     , (3692342302, 8000, 3692342302) /* PCAPRecordedObjectIID */;
+
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
+VALUES (3692342302, 67111919, 0, 0);
+
+INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
+VALUES (3692342302, 0, 83889679, 83889679, 0)
+     , (3692342302, 0, 83889356, 83889356, 1);
+
+INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, `order`)
+VALUES (3692342302, 0, 16778603, 0);

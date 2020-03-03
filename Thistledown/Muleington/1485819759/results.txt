@@ -1,0 +1,101 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-30_1485818713_log.pcap
+
+Partial Exports - Missing appraisal info:
+ABF32DF6:Pyreal
+ABF32DF3:Baggy Shirt
+ABF32DF4:Trousers
+ABF32DF7:Ust
+ABF32DF5:Leather Boots
+ABF32DF8:Calling Stone
+ABF32DF9:Bread
+ABF32DFA:Blackmoor's Favor
+ABF32DFB:Oil of Rendering
+ABF32DFC:Oil of Rendering
+ABF32DFE:Facility Hub Portal Gem
+ABF32DFF:Pathwarden Trinket
+ABF32E00:Sturdy Iron Key
+ABF32E01:Salvage
+ABF32E02:Sturdy Iron Key
+ABF32E03:Sturdy Iron Key
+ABF32E04:Salvage
+ABF32E12:Mattekar
+ABF32E07:Crown
+ABF32E08:Leather Boots
+ABF32E09:Salvage
+ABF32E0A:Leather Boots
+ABF32E0B:Scroll of Sneak Attack Ineptitude Other VII
+ABF32E0C:Scroll of Dual Wield Ineptitude Other VII
+ABF32E0E:Scroll of Recklessness Mastery Self VII
+ABF32E0D:Acid Bow
+ABF32E0F:Scroll of Light Weapon Mastery Self VII
+ABF32E10:Scroll of Robustification
+ABF32E11:Scroll of Eye of the Grunt
+ABF32E13:Spear
+ABF32E14:Frost Yari
+ABF32E15:Piercing Bow
+ABF32E16:Letter From Home
+ABF32E1F:Pack
+ABF32E18:Knorr Academy Helm
+ABF32E47:Penguin
+ABF32E19:Fire Baton
+ABF32E1A:Blunt Bow
+ABF32E1B:Blunt Bow
+ABF32E1C:Slashing Bow
+ABF32E1D:Slashing Staff
+ABF32E20:Scroll of Might of the Lugians
+ABF32E21:Scroll of Dirty Fighting Mastery Self VII
+ABF32E22:Scroll of Blessing of the Mace Turner
+ABF32E23:Scroll of Evisceration
+ABF32E24:Scroll of Corruption VII
+ABF32E25:Aura of Swift Killer Other VII
+ABF32E26:Scroll of Web of Deflection
+ABF32E27:Chainmail Bracers
+ABF32E28:Platemail Leggings
+ABF32E29:Celdon Girth
+ABF32E2A:Olthoi Girth
+ABF32E36:Sturdy Iron Key
+ABF32E2B:Olthoi Celdon Helm
+ABF32E2C:Olthoi Koujia Sollerets
+ABF32E2D:Scalemail Pauldrons
+ABF32E2E:Pack
+ABF32E37:A Bronze Key
+ABF32E2F:Olthoi Amuli Leggings
+ABF32E30:Koujia Leggings
+ABF32E31:Yoroi Breastplate
+ABF32E32:Haebrean Breastplate
+ABF32E4C:Scroll of The Spike
+ABF32E35:Olthoi Alduressa Boots
+ABF32E38:Mana Forge Key
+ABF32E39:Mana Forge Key
+ABF32E3A:Mana Forge Key
+ABF32E3B:Mana Forge Key
+ABF32E3C:Coral Heart
+ABF32E3D:Gold Golem Heart
+ABF32E3F:First Half of a Worn Crossbow
+ABF32E40:Lapyan Plant
+ABF32E41:Minalim Plant
+ABF32E42:Colban Plant
+ABF32E43:Gold Golem Heart
+ABF32E44:Golden Gromnie
+ABF32E45:Gem of Balance
+ABF32E46:Coalesced Aetheria
+ABF32E48:Scroll of Blessing of the Mace Turner
+ABF32E49:Scroll of Blade Lure VI
+ABF32E4A:Scroll of Hieromancer's Blessing
+ABF32E4B:Scroll of Might of the Lugians
+ABF32E4D:Scroll of Sneak Attack Ineptitude Other VII
+ABF32E4E:Scroll of Battlemage's Blessing
+ABF32E4F:Pack
+ABF32E50:Scroll of Harlune's Blessing
+ABF32E51:Scroll of Eradicate Creature Magic Other
+ABF32E52:Treated Healing Kit
+ABF32E53:Treated Healing Kit
+ABF32E54:Treated Healing Kit
+ABF32E55:Treated Healing Kit
+ABF32E56:Treated Healing Kit
+ABF32E57:Treated Healing Kit
+ABF32E58:Treated Healing Kit
+ABF32E59:Heavy Bracelet
+
+Missing Exports - Possessed items that were not found:

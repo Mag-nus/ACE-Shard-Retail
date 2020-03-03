@@ -1,0 +1,189 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Crog_random\pkt_2017-1-30_1485836626_log.pcap
+
+Partial Exports - Missing appraisal info:
+80ACD1A8:Pack
+802C1A31:Lead Scarab
+800812AC:Iron Scarab
+802FFBC5:Copper Scarab
+80AB06C4:Silver Scarab
+80972115:Gold Scarab
+80ACBAC1:Diamond Scarab
+80ACDEB9:Silver Pea
+80AB0B5E:Pyreal Scarab
+80A92D7E:Trade Note (50,000)
+80A782C4:Trade Note (75,000)
+80A92CAE:Trade Note (200,000)
+80865B1A:Ust
+80ACCC20:Trade Note (100,000)
+808244CE:Platinum Scarab
+8090EE2D:Mana Scarab
+80A7862F:Prismatic Taper
+80A78979:Chorizite
+93C018E1:Trade Note (250,000)
+80A76A0F:Pack
+80677163:Greater Mukkir Slayer Stone
+809383CD:Message from Ler Rhan to Ter Shen.
+80A225A9:Greater Mukkir Slayer Stone
+8047A261:Pyreal
+80A92AB1:Greater Mukkir Slayer Stone
+80ACDE5B:Mana Philtre
+80A92E57:Major Shivering Stone
+8090ED6A:Asheron's Lesser Benediction
+80A78A9C:Black Fire Atlan Stone
+8090F134:Pack
+80A92CCF:Enhanced Black Fire Atlan Stone
+80ACD8DC:Ancient Mhoire Coin
+808658AC:Aetherium-infused Gear
+80ACD8DD:Heart of the Innocent
+80ACD8DE:Eldrytch Web Commendation Ribbon
+80971EA4:Adventurer's Token
+80A789C5:Ancient Mhoire Coin
+80ACDA23:A'nekshay Token
+80733845:Elemental Talisman
+808378EC:Ornate Bone Key
+808668D6:Ornate Bone Key
+80A768D2:Jester's Token
+80A0B8C2:Small Olthoi Venom Sac
+80A78A45:Imbue Swap Coin
+80A7822A:Inactive Alchemist's Golem
+80A78267:Aetheria Powder
+80A0ACDF:Ornate Gear Marker
+80A0C393:Ornate Bone Key
+80ACD1A9:Colosseum Coin
+80AB0500:Pack
+80AB0501:Gladiator Diemos Token
+806F4A66:Gladiator Diemos Token
+80961288:Gladiator Diemos Token
+806CD89D:Gladiator Diemos Token
+8090F1A4:Gladiator Diemos Token
+80AB0525:Gladiator Diemos Token
+80836248:Gladiator Diemos Token
+80A20EB6:Gladiator Diemos Token
+8097261E:Gladiator Diemos Token
+8086640E:Gladiator Diemos Token
+80A76AC7:Gladiator Diemos Token
+80A0C5CF:Gladiator Diemos Token
+80ACD1B9:Gladiator Diemos Token
+80ACD1BA:Gladiator Diemos Token
+80ACD88A:Gladiator Diemos Token
+80AB0A8F:Gladiator Diemos Token
+80A782D9:Gladiator Diemos Token
+80A76BEA:Gladiator Diemos Token
+80ACD1C0:Gladiator Diemos Token
+80ACD1BD:Gladiator Diemos Token
+8871C007:Gladiator Diemos Token
+8793CC26:Gladiator Diemos Token
+894E6338:Gladiator Diemos Token
+8B0088D3:Gladiator Diemos Token
+80ACD1BF:Pack
+8BD69678:Gladiator Diemos Token
+84F84E0D:Gladiator Diemos Token
+84245C31:Gladiator Diemos Token
+83452A99:Gladiator Diemos Token
+85D138E9:Gladiator Diemos Token
+815DD22A:Gladiator Diemos Token
+80B0CCA5:Gladiator Diemos Token
+80971013:Gladiator Diemos Token
+86A3C9B6:Gladiator Diemos Token
+8CA98B21:Gladiator Diemos Token
+918DD66E:Gladiator Diemos Token
+9101C53A:Gladiator Diemos Token
+8D3E1D07:Gladiator Diemos Token
+904450B1:Gladiator Diemos Token
+8F69C8EA:Gladiator Diemos Token
+8EC079AE:Gladiator Diemos Token
+8DF46A53:Gladiator Diemos Token
+80A78A39:Pack
+80A93694:Treated Healing Kit
+80A76B3C:Treated Healing Kit
+806F52DE:Treated Healing Kit
+80A92B39:Treated Healing Kit
+8096D412:Treated Healing Kit
+807ACF3D:Pack
+80A93741:Aphus Lassel Portal Gem
+809A72F3:Geraine's Tome (3)
+80733787:Greater Mana Kit
+80AB0C08:Large Tome
+80A92DB9:Grand Casino Key
+80A76A1F:Blank Augmentation Gem
+80A92C99:Enchanted Olthoi Egg
+80AB0D10:Health Philtre
+80A93049:Tiriun Stalk Jerky
+80A92C96:Pack
+80AB04CB:Crystallized Essence of Strife
+80972266:Crystallized Essence of Enchantment
+80A788C0:Crystallized Essence of Artifice
+80AB0A62:Crystallized Essence of Verdancy
+80943491:Elemental Talisman
+808403BF:Gem of Harbinger's Lightning Barrier
+80872201:Blank Augmentation Gem
+807AC157:Blackmoor's Favor
+80ACE148:Enhanced Mucor
+80818B31:A Page of the Book of Eibhil
+80971B34:Colosseum Master's Robe
+80ACD682:Major Mana Stone
+80ACD683:A Large Mnemosyne
+80ACD681:Lady Aerfalle's Charm
+80A0B967:Enhanced Red Empyrean Ring
+80A76825:Trimmed Cloak
+80A39DD5:Amber Ape
+80A78817:Eldrytch Web Armor Writ
+8096E7B4:Apothecary Zongo's Stout
+80AB0CC3:Pyreal
+8096DA10:Pyreal
+80ACDB97:Eldrytch Web Trade Token
+80A932FC:Pyre Skeleton Jaw
+80A7881B:Heavy Necklace
+80A93685:Demon Swarm Matron Token
+80AB0502:Gold Pea
+80ACD740:Aetheria Mana Stone
+80A20C78:Legendary Token
+80A78962:Carefully rolled scroll
+80A92AA4:Spirited Bloodlust Guard
+80AB04FE:Berimphur Plant
+80A78A1D:Plentiful Healing Kit
+8049C982:Empowered Robe of the Perfect Light
+807CBA5B:Major Mana Stone
+80ACD55B:Casting Stone
+807AAFAC:Spirited Apathy Guard
+80A78978:Greater Olthoi Shield
+80AB0BAA:Purified Crimson Scarab
+80AB0BF9:Society Gem of Dispelling
+80972483:Empowered Robe of the Perfect Light
+805CC07A:Sealed Scroll for Commander Presk
+80A0B705:Aetheria
+80AB0D0F:Mechanical Scarab
+80ACD8D2:Empowered Robe of the Perfect Light
+921E78D8:Gauntlet Coin
+80961965:Eldrytch Web Trade Token
+808730B6:Eldrytch Web Armor Writ
+8097196E:Small Olthoi Grub
+80A92014:Treated Healing Kit
+80971078:Treated Healing Kit
+80A78467:Treated Healing Kit
+80ACDB73:Eldrytch Web Trade Token
+80A923B9:Pyreal Sliver
+8D3BBD74:Eldrytch Web Trade Token
+921EA1D3:Gauntlet Vault Key
+923FC699:Gauntlet Vault Key
+9259085C:Gauntlet Vault Key
+925F4091:Gladiator Diemos Token
+927CFC68:Gauntlet Vault Key
+92A974D8:Gauntlet Vault Key
+92C69697:Gauntlet Vault Key
+92F4ECF1:Gauntlet Vault Key
+9342EB5F:Gauntlet Vault Key
+9354D2D0:Gauntlet Vault Key
+93DE006D:Gauntlet Vault Key
+80972061:Olthoi Shield
+9D0641D2:Stipend
+96187000:Society Gem of Lesser Luminance
+A05D6CF9:Dark Shard
+80643BC9:Dark Speck
+A7984652:Eldrytch Web Trade Token
+A797A0C6:Society Gem of Lesser Luminance
+B6576099:Society Gem of Lesser Luminance
+C160BE79:Eldrytch Web Trade Token
+
+Missing Exports - Possessed items that were not found:

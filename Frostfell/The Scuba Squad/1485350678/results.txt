@@ -1,0 +1,61 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-25_1485348011_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-24_1485277486_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-24_1485277486_log.pcap
+
+Partial Exports - Missing appraisal info:
+DC6951A1:Flared Shirt
+DC6A43DC:Loose Pants
+DC695524:Pyreal
+DC6A3DDF:Sack
+DC6A3DE1:Ust
+DC6574C1:Foci of Artifice
+DC657E02:Letter From Home
+DC64F802:Asheron's Benediction
+DC6959A2:Great Mana Charge
+DC6954EB:Pathwarden Helm
+DC67B20C:Pathwarden Gauntlets
+DC462307:Pathwarden Sollerets
+DC6862E4:Pathwarden Scale Leggings
+DC6862E5:Pathwarden Scale Hauberk
+DC6862E6:Pyreal
+DC6862E7:Blackmoor's Favor
+DC695339:Pack
+DC658689:Pack
+DC6AB788:Treated Healing Kit
+DC6AB78B:Pack
+DC6AB78C:Lead Scarab
+DC6AB78D:Silver Scarab
+DC6AB78E:Copper Scarab
+DC6AB78F:Gold Scarab
+DC6AB790:Prismatic Taper
+DC6AB791:Prismatic Taper
+DC6AB794:Horned Helm
+DC6AB795:Pyreal
+DC6AB796:Pyreal
+DC6AB797:Pyreal
+DC6AB798:Pyreal
+DC6AB799:Orb
+DC6AB79A:Bracelet
+DC6AB79B:Pyreal
+DC6AB79C:Royal Atlatl
+DC6AB79D:Royal Atlatl
+DC6AB7A0:Sturdy Iron Key
+DC6AB79E:Royal Atlatl
+DC6AB7A1:Tower Shield
+DC6AB7A2:Gorget
+DC6AB7A3:Sturdy Iron Key
+DC6AB7A4:Katar
+DC6AB7A5:Sturdy Iron Key
+DC6AB7A6:Wand
+DC6AB7A7:Sturdy Iron Key
+DC6AB7A8:Pyreal
+DC6AB7A9:Pyreal
+DC6AB7AA:Salvaged  (15)
+DC6AB7AB:Quintessence Sickle
+DC6AB7AC:Handy Healing Kit
+DC6AB7AD:Some Changes for February 2012
+
+Missing Exports - Possessed items that were not found:

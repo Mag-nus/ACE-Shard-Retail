@@ -1,0 +1,186 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-30-to-1-31\Bliz 1-30 to 1-31\pkt_2017-1-30_1485835515_log.pcap
+
+Partial Exports - Missing appraisal info:
+86C9299D:Baggy Shirt
+86C9299E:Pants
+86C9299F:Shoes
+86C929A0:Pyreal
+86C929A1:Blackmoor's Favor
+86C929A2:Pack
+86C929A6:Tanami's Crossbow
+86C929A8:Good Isparian Crossbow
+86C929A9:Orb of Black Fire
+86C929AA:Saulandoi
+86C929AB:Piercing Sceptre
+86C929AC:Electric Sceptre
+86C929AE:Banished Atlatl
+86C929AF:Yellow Anniversary Sparkler
+86C929B0:Wand
+86C929B1:Saulandoi
+86C929B2:Slashing Sceptre
+86C929B3:Frost Sceptre
+86C929B5:Staff of Clarity
+86C929B6:Fire Staff
+86C929B7:Lautaloi
+86C929B8:Blunt Compound Bow
+86C929BB:Pack
+86C929B9:Frost Crossbow
+86C929BA:Electric Sceptre
+86C92A5C:Stipend
+86C929BC:Slashing Baton
+86C929BD:Frost Baton
+86C929C8:Banished Orb
+86C929BE:Nether Sceptre
+86C929BF:Nether Baton
+86C929CA:Banished Crossbow
+86C929C0:Fire Baton
+86C929C1:Piercing Baton
+86C929CD:Banished Bow
+86C929C2:Piercing Sceptre
+86C929C3:Frost Slingshot
+86C929DB:Taulandoi
+86C929C4:Slashing Staff
+86C929C5:Electric Baton
+86C929EC:Blue Orb
+86C929C6:Acid Staff
+86C929C7:Nether Sceptre
+86C929CF:Pack
+86C929C9:Fire Staff
+86C929CB:Blunt Baton
+86C929ED:Blue Orb
+86C929CC:Piercing Baton
+86C929CE:Nether Baton
+86C929D0:Fire Compound Crossbow
+86C929D1:Piercing Baton
+86C929D2:Blunt Compound Crossbow
+86C929D3:Slashing Staff
+86C929D4:Electric Compound Crossbow
+86C929D5:Sceptre
+86C929D6:Nether Baton
+86C929D7:Blunt Staff
+86C929E3:Perfect Isparian Wand
+86C929D8:Frost Atlatl
+86C929D9:Blunt Crossbow
+86C929DA:Slashing Staff
+86C929DC:Piercing Baton
+86C929DD:Piercing Atlatl
+86C929E8:Virindi Implant
+86C929DE:Blunt Baton
+86C929DF:Acid Crossbow
+86C929E7:Pack
+86C929E0:Fire Staff
+86C929E1:Piercing Baton
+86C929E2:Fire Compound Bow
+86C929E4:Fire Staff
+86C929EA:Tumerok Hunting Brace
+86C929E5:Frost Staff
+86C929E6:Slashing Staff
+86C929E9:Dark Sorcerer's Phylactery
+86C929EB:Poofy Snowball
+86C929EE:Blue Orb
+86C929EF:The Healer's Heart
+86C929F0:The Healer's Heart
+86C929F1:The Healer's Heart
+86C929F2:Saulandoi
+86C929F4:Gear Crossbow
+86C929F5:Vortex Thorn
+86C929F6:Orb
+86C929F8:Heavy Crossbow
+86C929F9:Heavy Crossbow
+86C929F3:Blue Anniversary Sparkler
+86C929FB:Pack
+86C929FC:Blue Orb
+86C929FD:White Virindi Wand
+86C929FE:Egg Launcher
+86C929FF:Pursuit Orb
+86C92A00:Awakener
+86C92A01:Essence Flare
+86C92A02:Worn Old Bow
+86C92A03:The Healer's Heart
+86C92A04:Drudge Scrying Orb
+86C92A05:Pack
+86C92A06:Pack
+86C92A07:Awakener
+86C92A08:Ebon Spine Harpoon
+86C92A0A:Slashing Sceptre
+86C92A09:Blunt Crossbow
+86C92A0B:Piercing Baton
+86C92A0C:Fire Sceptre
+86C92A0D:Piercing Sceptre
+86C92A0E:Electric Compound Bow
+86C92A0F:Blunt Baton
+86C92A10:Blunt Staff
+86C92A11:Piercing Compound Crossbow
+86C92A12:Nether Baton
+86C92A13:Nether Baton
+86C92A14:Electric Sceptre
+86C92A15:Fire Baton
+86C92A16:Awakener
+86C92A17:Piercing Compound Crossbow
+86C92A18:Dark Sorcerer's Phylactery
+86C92A19:Royal Runed Slashing Baton
+86C92A1A:Drudge Scrying Orb
+86C92A1B:Drudge Scrying Orb
+86C92A1C:Slashing Staff
+86C92A1D:Piercing Staff
+86C92A1E:Electric Crossbow
+86C92A1F:Fire Compound Bow
+86C92A20:Electric Bow
+86C92A21:Fire Compound Bow
+86C92A22:Piercing Compound Bow
+86C92A23:Electric Sceptre
+86C92A24:Piercing Compound Crossbow
+86C92A25:Electric Compound Bow
+86C92A26:Electric Compound Bow
+86C92A27:Fire Compound Crossbow
+86C92A28:Electric Bow
+86C92A29:Piercing Bow
+86C92A2B:Electric Compound Crossbow
+86C92A2C:Frost Sceptre
+86C92A2D:Piercing Bow
+86C92A2E:Piercing Compound Bow
+86C92A2F:Staff
+86C92A30:Frost Baton
+86C92A32:Eyeslayer (Giant)
+86C92A33:Eyeslayer (Large)
+86C92A34:Eyeslayer (Huge)
+86C92A36:Composite Stave
+86C92A37:Braided Drudge Ravener Guts
+86C92A38:Virindi Implant
+86C92A39:Eye of the Quiddity
+86C92A3A:Frost Bow
+86C92A3B:Sceptre
+86C92A3C:Renegade Bow
+86C92A3D:Frost Staff
+86C92A3E:Kalindan of Palenqual
+86C92A3F:Ixir's Staff of Eyes
+86C92A40:Dark Sorcerer's Phylactery
+86C92A41:Dark Sorcerer's Phylactery
+86C92A43:Flaming Skull
+86C92A42:Superior Great Jack o' Lantern
+86C92A46:Impious Staff
+86C92A47:Sceptre
+86C92A49:Dark Sorcerer's Phylactery
+86C92A48:Yellow Virindi Wand
+86C92A4A:Drudge Scrying Orb
+86C92A4B:Casting Jack o' Lantern
+86C92A4C:Casting Jack o' Lantern
+86C92A4D:Casting Jack o' Lantern
+86C92A4E:Casting Jack o' Lantern
+86C92A4F:Casting Jack o' Lantern
+86C92A50:Assault Orb
+86C92A53:Virindi Implant
+86C92A54:Essence Flare
+86C92A56:Acid Atlatl
+86C92A57:Nether Baton
+86C92A58:Fire Staff
+86C92A59:Frost Staff
+86C92A5A:Rynthid Tentacle Bow
+86C929B4:Staff
+86C92A55:Darker Heart
+86C92A2A:Staff
+89AC60FE:Piercing Compound Bow
+87BEA1E5:Nether Staff
+
+Missing Exports - Possessed items that were not found:

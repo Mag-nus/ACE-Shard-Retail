@@ -1,0 +1,9 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\trello_datamining\196_OlthoiPlayArwic\OlthoiPlayArwic.pcap
+
+Partial Exports - Missing appraisal info:
+D7ADE19E:Olthoi Fibrous Healing Tissue
+D7ADE19F:Acidic Infusion
+D800F969:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

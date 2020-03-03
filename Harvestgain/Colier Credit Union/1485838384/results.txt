@@ -1,0 +1,141 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\baron-of-colier-random-last-day-3\pkt_2017-1-30_1485836922_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\baron-of-colier-random-last-day-2\pkt_2017-1-30_1485829572_log.pcap
+
+Partial Exports - Missing appraisal info:
+83EED26E:Ust
+84AE343C:Blackmoor's Favor
+84AD5E57:Facility Hub Portal Gem
+84AF8719:Sturdy Iron Key
+84AC2595:Sturdy Iron Key
+84AF93DE:Pack
+9CCC4732:Shimmering Skeleton Key
+AEF545E7:Ancient Falatacot Trinket
+BB761408:Ancient Falatacot Trinket
+85785444:Prismatic Taper
+BBBCE932:Ancient Empyrean Trinket
+C4213BD8:Shimmering Skeleton Key
+857855FE:Copper Scarab
+85771AC7:Elaborate Field Health Rations
+8573D929:Aphus Lassel Portal Gem
+842383C6:Renegade Herbal Kit
+85786279:Foci of Artifice
+888D10C8:Stipend
+84AAC099:Pack
+B3A74C80:Ten of Hands
+B3F763A8:Eight of Hands
+8004819E:Two of Hands
+B401585A:Five of Eyes
+AE4BC7C5:Four of Eyes
+AE18CE46:Ten of Eyes
+A3B2F516:Jack of Eyes
+B35C06CA:Three of Eyes
+B324B269:Two of Eyes
+ADB99354:King of Hands
+ADE63A3E:Seven of Hands
+ADE25383:Four of Hands
+9FA18684:Jack of Hands
+80451FB0:Three of Hands
+A3B6439A:Nine of Hands
+AE473AF9:Five of Hands
+AE3A8C82:Ace of Hands
+BF1F80B3:Queen of Eyes
+B608C68A:Six of Hands
+8A1D146B:Armor Upgrade Kit
+8A1D0C56:Armor Upgrade Kit
+8326C9D4:Pack
+BB831E9C:Trade Note (250,000)
+BC8DF4C1:Trade Note (250,000)
+84AF93D1:Pack
+BBF43A36:Trade Note (250,000)
+BD2647C1:Trade Note (250,000)
+93DD1C5B:Scroll of Cassius' Ring of Fire
+AB98C98F:Trade Note (250,000)
+BC66E533:Trade Note (250,000)
+9385B992:Scroll of Slithering Flames
+BAF834B8:Trade Note (250,000)
+BB82D39E:Trade Note (250,000)
+93DD19A1:Scroll of Foon-Ki's Glacial Floe
+C2181E79:Trade Note (250,000)
+C2DE9437:Trade Note (250,000)
+93A56976:Scroll of Halo of Frost
+9E00F498:Trade Note (250,000)
+BDC4C603:Trade Note (250,000)
+BDC21B39:Trade Note (250,000)
+BDB42C45:Trade Note (250,000)
+BD870B8C:Trade Note (250,000)
+BD6B431B:Trade Note (250,000)
+AB2250F6:Promissory Note
+A107E7EE:Trade Note (250,000)
+9A8B630C:Trade Note (250,000)
+807584EE:Promissory Note
+BA7B9E16:Trade Note (250,000)
+9A8B63A9:Trade Note (250,000)
+AC365B15:Burning Coal
+8DB7F7B7:Trade Note (250,000)
+9A8B63A6:Trade Note (250,000)
+AB3309C9:Burning Coal
+B182924A:Trade Note (250,000)
+B0D89D0F:Trade Note (250,000)
+AB37AF65:Burning Coal
+938EE3EC:Foolproof
+938D2D47:Foolproof Fire Opal
+AB31650A:Burning Coal
+938C9A64:Foolproof Fire Opal
+938C9A3C:Foolproof Fire Opal
+938C9A71:Foolproof Fire Opal
+AF3303D3:Foolproof Black Opal
+938C378C:Foolproof
+938C9A6F:Foolproof Aquamarine
+938EE425:Foolproof Aquamarine
+938EE43F:Foolproof
+938EE3FA:Foolproof
+937F5D36:Foolproof
+938EE3F4:Foolproof
+938C99EC:Foolproof Sunstone
+938C9881:Foolproof Sunstone
+AF2B672D:Foolproof Emerald
+A61E882D:Burning Sands Keyring
+949001B0:Imbue Swap Coin
+A61E8837:Burning Sands Keyring
+A61E8903:Burning Sands Keyring
+A61E8B74:Burning Sands Keyring
+90B3F384:Dansha-Ki's Gem of Portal Recall
+90AFCFB4:Gem of Balance
+90B3F453:Gem of Purity
+9A5D4A3E:Trade Note (50,000)
+AE5801DE:Treated Hyssop
+AE5E9B74:Treated Mandrake
+BEF62445:Silver Scarab
+AE5BDBD6:Soft Bandages
+AE52E5C9:Treated Hyssop
+AE595625:Treated Mandrake
+AE55677F:Soft Bandages
+C471EAC5:Diamond Scarab
+B35B50B3:Casting Staff Stamped Spectral Ingot
+B35B5021:Casting Staff Stamped Spectral Ingot
+B35B517A:Bow Stamped Spectral Ingot
+B35B50E0:Bow Stamped Spectral Ingot
+B64E1AA1:Encapsulated Spirit
+A9D46A68:Burning Sands Keyring
+BAE17915:Spear Stamped Spectral Ingot
+C39BB95E:Pack
+C326251D:Diamond Scarab
+9A8B6101:Trade Note (250,000)
+9A8B6090:Trade Note (250,000)
+9A4E5502:Trade Note (250,000)
+ACEFDA89:Trade Note (250,000)
+B1141DD8:Trade Note (250,000)
+C189DD97:Trade Note (250,000)
+C32DA0D7:Trade Note (250,000)
+C3646528:Trade Note (250,000)
+C46FEB07:Trade Note (250,000)
+C37B36C3:Trade Note (250,000)
+C338FAEC:Hunter's Crystal
+88CC5901:Treated Hyssop
+88A03D8B:Soft Bandages
+88CC5902:Treated Mandrake
+
+Missing Exports - Possessed items that were not found:

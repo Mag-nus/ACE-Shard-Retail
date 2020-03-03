@@ -1,0 +1,77 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-30_1485823012_\pkt_2017-1-30_1485823012_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-26_1485490272_\pkt_2017-1-26_1485490272_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-27_1485546237_\pkt_2017-1-27_1485546237_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-27_1485565984_\pkt_2017-1-27_1485565984_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-28_1485579615_\pkt_2017-1-28_1485579615_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-29_1485669423_\pkt_2017-1-29_1485669423_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-29_1485742527_\pkt_2017-1-29_1485742527_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-29_1485743866_\pkt_2017-1-29_1485743866_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-30_1485823012_\pkt_2017-1-30_1485823012_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-30_1485823012_\pkt_2017-1-30_1485823012_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-30_1485823012_\pkt_2017-1-30_1485823012_log.pcap
+
+Partial Exports - Missing appraisal info:
+808795FA:Calling Stone
+808301F7:Peerless Healing Kit
+8087966E:Lead Scarab
+9C9CD508:Pyreal Scarab
+9CC61091:Prismatic Taper
+80879782:An Unlocked Large Mnemosyne
+8087964E:An Unlocked Large Mnemosyne
+8087978E:An Unlocked Large Mnemosyne
+807D94FB:An Unlocked Large Mnemosyne
+808791C0:An Unlocked Large Mnemosyne
+80821202:An Unlocked Large Mnemosyne
+8082124A:An Unlocked Large Mnemosyne
+8081BA4A:An Unlocked Large Mnemosyne
+808797C5:An Unlocked Large Mnemosyne
+8082D3AB:An Unlocked Large Mnemosyne
+80879673:Treated Healing Kit
+808796BD:Treated Healing Kit
+80820F33:Treated Healing Kit
+80894C5F:Treated Healing Kit
+808797EA:Treated Healing Kit
+80879653:Treated Healing Kit
+807F6A91:Treated Healing Kit
+807D51E2:Treated Healing Kit
+80879736:Health Elixir
+8087973C:An Unlocked Large Mnemosyne
+808796C5:An Unlocked Large Mnemosyne
+808796A6:An Unlocked Large Mnemosyne
+807D1F93:Treated Healing Kit
+80821118:Ust
+8087899D:Salvaged  (11)
+80892DB1:Salvaged  (7)
+807A9465:Salvaged  (9)
+807ED7BA:Salvaged  (4)
+808A143C:Major Stinging Stone
+808796FA:Salvaged  (3)
+8085BC68:Salvaged  (6)
+8085BC66:Treated Healing Kit
+8087977E:Salvaged  (4)
+80879710:Salvaged  (5)
+8087987F:Eviscerator Token
+807F6AD0:Salvaged  (14)
+8085BC62:Blackmoor's Favor
+80879783:Staff of Aerfalle
+9C9BB9F0:Salvage (7)
+9C9E5CE0:Mana Stone
+9C9E5CE1:Lesser Mana Stone
+9C9C3B57:Encapsulated Spirit
+9C9E6010:Moderate Mana Stone
+9C95B1D6:Wand
+9C9E6D7A:Salvage (28)
+9CCCB10D:Major Mana Stone
+9CAC9E2E:Acid Wisp Essence (50)
+9CA8ECC7:Frost Phyntos Wasp Essence (50)
+9CA55E79:Acid Moar Essence (50)
+9CAAF41B:Coalesced Mana
+9CABF1EE:Metal Cap
+9CC4ED1B:Trade Note (250,000)
+9CCB77B8:Lapyan Plant
+9CCEC2B8:Quality Pyreal Ingot
+
+Missing Exports - Possessed items that were not found:

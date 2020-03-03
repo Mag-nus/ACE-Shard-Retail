@@ -1,0 +1,56 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (3698187726, 8133, 2, 6472001) /* Clothing */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (3698187726,   1,          4) /* ItemType - Clothing */
+     , (3698187726,   4,      81664) /* ClothingPriority - OuterwearUpperLegs, OuterwearLowerLegs, OuterwearChest, OuterwearAbdomen, OuterwearUpperArms, OuterwearLowerArms, Feet */
+     , (3698187726,   5,        200) /* EncumbranceVal */
+     , (3698187726,   9,      32512) /* ValidLocations - Armor */
+     , (3698187726,  16,          1) /* ItemUseable - No */
+     , (3698187726,  18,          1) /* UiEffects - Magical */
+     , (3698187726,  19,      10710) /* Value */
+     , (3698187726,  65,        101) /* Placement - Resting */
+     , (3698187726,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (3698187726, 151,          2) /* HookType - Wall */
+     , (3698187726, 9015,          0) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (3698187726,   1, False) /* Stuck */
+     , (3698187726,  11, True ) /* IgnoreCollisions */
+     , (3698187726,  13, True ) /* Ethereal */
+     , (3698187726,  14, True ) /* GravityStatus */
+     , (3698187726,  19, True ) /* Attackable */
+     , (3698187726,  22, True ) /* Inscribable */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (3698187726,   1, 'Aerfalle''s Pallium') /* Name */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (3698187726,   1,   33554854) /* Setup */
+     , (3698187726,   3,  536870932) /* SoundTable */
+     , (3698187726,   6,   67108990) /* PaletteBase */
+     , (3698187726,   8,  100672444) /* Icon */
+     , (3698187726,  22,  872415275) /* PhysicsEffectTable */
+     , (3698187726, 8001,  271024280) /* PCAPRecordedWeenieHeader - Value, Usable, UiEffects, Wielder, ValidLocations, CurrentlyWieldedLocation, Priority, Burden, HookType */
+     , (3698187726, 8003,         18) /* PCAPRecordedObjectDesc - Inscribable, Attackable */
+     , (3698187726, 8005,     137217) /* PCAPRecordedPhysicsDesc - CSetup, STable, PeTable, AnimationFrame */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (3698187726,   1, 1342998513) /* Owner */
+     , (3698187726,   2, 1342998513) /* Container */
+     , (3698187726, 8000, 3698187726) /* PCAPRecordedObjectIID */;
+
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
+VALUES (3698187726, 67109945, 96, 12)
+     , (3698187726, 67110385, 116, 12)
+     , (3698187726, 67112954, 40, 40)
+     , (3698187726, 67112954, 80, 12);
+
+INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
+VALUES (3698187726, 0, 83887061, 83892348, 0)
+     , (3698187726, 0, 83887060, 83892349, 1)
+     , (3698187726, 0, 83889072, 83892345, 2)
+     , (3698187726, 0, 83889342, 83892344, 3);
+
+INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, `order`)
+VALUES (3698187726, 0, 16778367, 0);

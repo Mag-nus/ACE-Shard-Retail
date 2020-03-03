@@ -1,0 +1,12 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-15_1484527222_log.pcap
+
+Partial Exports - Missing appraisal info:
+DBF3A028:Pyreal
+DC06A551:Foci of Artifice
+DBF3975C:Sack
+DC0E875C:Trousers
+DC0E939F:Some Changes for February 2012
+DC0E8D4B:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

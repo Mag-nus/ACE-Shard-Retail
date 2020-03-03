@@ -1,0 +1,14 @@
+INSERT INTO `character` (`id`, `account_Id`, `name`, `is_Plussed`, `is_Deleted`, `delete_Time`, `last_Login_Timestamp`, `total_Logins`, `character_Options_1`, `character_Options_2`, `gameplay_Options`, `spellbook_Filters`, `hair_Texture`, `default_Hair_Texture`)
+VALUES (1344175085, 0, 'Zap Pa', False, False, 0, 0, 0, 1355064650, 43288320, NULL, 16383, 0, 0);
+
+INSERT INTO `character_properties_spell_bar` (`character_Id`, `spell_Bar_Number`, `spell_Bar_Index`, `spell_Id`)
+VALUES (1344175085, 0, 0, 27)
+     , (1344175085, 0, 1, 86)
+     , (1344175085, 0, 2, 28)
+     , (1344175085, 0, 3, 64)
+     , (1344175085, 0, 4, 75)
+     , (1344175085, 0, 5, 92)
+     , (1344175085, 0, 6, 58);
+
+INSERT INTO `character_properties_title_book` (`character_Id`, `title_Id`)
+VALUES (1344175085, 1);

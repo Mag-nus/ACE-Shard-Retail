@@ -1,0 +1,185 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\AC-Packet-Data-Jungle-Souljah-LC\pkt_2017-1-29_1485691384_log.pcap
+
+Partial Exports - Missing appraisal info:
+86A2A1B1:Pack
+86A2A1B2:Wrapped Bundle of Armor Piercing Arrowheads
+86A2A1B3:Concentrated Fire Oil
+86A2A1B4:Faran Robe with Hood
+86A2A1B5:Concentrated Frost Oil
+86A2A1B6:Wrapped Bundle of Deadly Fire Arrowheads
+86A2A1B7:Concentrated Lightning Oil
+86A2A1B8:Health Elixir
+86A2A1B9:Ust
+86A2A1BA:Deadly Armor Piercing Arrow
+86A2A1BB:Wrapped Bundle of Deadly Armor Piercing Arrowheads
+86A2A1BC:Wrapped Bundle of Arrowshafts
+86A2A1BD:Fez
+86A2A1BE:Yag
+86A2A1BF:Missile Specialist's Gauntlets
+86A2A1C0:Orb
+86A2A1C1:Gloves
+86A2A1C2:Exquisite Elari Wood Bow
+86A2A1C3:Horned Helm
+86A2A1C4:Haebrean Boots
+86A2A222:Pyreal
+86A2A1C5:Blackmoor's Favor
+86A2A1C6:Pack
+86A2A1C7:Colban Dye Pot
+86A2A1C8:Cooking Pot
+86A2A1C9:Cooking Pot
+86A2A1CA:Cooking Pot
+86A2A1CB:Cooking Pot
+86A2A1CC:Cooking Pot
+86A2A1CD:Cooking Pot
+86A2A1CE:Elaborate Dried Rations
+86A2A1CF:Cocoa Powder
+86A2A1D1:Carving Knife
+86A2A1D0:Whittling Knife
+86A2A1D2:Peppermint Stick
+86A2A1D3:Monougat
+86A2A1D4:Spiced Lump
+86A2A1D5:Brown Lump
+86A2A1D6:Pack
+86A2A1D7:Quicksilver Pea
+86A2A1D8:Vitriol Pea
+86A2A1D9:Colcothar Pea
+86A2A1DA:Verdigris Pea
+86A2A1DB:Cobalt Pea
+86A2A1DC:Turpeth Pea
+86A2A1DD:Cinnabar Pea
+86A2A1DE:Cadmia Pea
+86A2A1DF:Realgar Pea
+86A2A1E0:Aqua Vitae
+86A2A1E1:Wrapped Bundle of Blunt Arrowheads
+86A2A1E8:Superb Mana Charge
+86A2A1E2:Neutral Balm
+86A2A1E4:Oil of Nullification
+86A2A1E7:Pack
+86A2A1E5:Decanter of Essence
+86A2A1E6:Concentrated Aqua Incanta
+86A2A260:Pyreal
+86A2A1E9:Superb Mana Charge
+86A2A1EA:Superb Mana Charge
+86A2A1EB:Superb Mana Charge
+86A2A1EC:Alembic
+86A2A1ED:Ruined Amulet of Heavy Weapons
+86A2A1EE:Rithwic Portal Gem
+86A2A1EF:Aphus Lassel Portal Gem
+86A2A1F0:Ruined Amulet of Heavy Weapons
+86A2A1F5:Treated Healing Kit
+86A2A1F1:Ruined Amulet of Light Weapons
+86A2A1F2:Shoyanen's Portal Gem
+86A2A23F:Metal Press
+86A2A1F3:Fadsahil's Portal Gem
+86A2A1F4:Celdiseth's Portal Gem
+86A2A262:Pyreal
+86A2A1F6:Treated Healing Kit
+86A2A1F7:Treated Healing Kit
+86A2A1F8:Treated Healing Kit
+86A2A1FA:Foci of Artifice
+86A2A1FB:Pyreal Scarab
+86A2A1FC:Salvaged  (8)
+86A2A1FD:Salvaged  (17)
+86A2A200:Silver Scarab
+86A2A1FE:Salvaged  (6)
+86A2A1FF:Salvaged  (5)
+86A2A201:Copper Scarab
+86A2A202:Prismatic Taper
+86A2A203:Salvaged  (100)
+86A2A205:Salvaged  (14)
+86A2A204:Sasalia's Dress
+86A2A206:Salvaged  (25)
+86A2A227:Renegade Herbal Kit
+86A2A207:Salvaged  (100)
+86A2A208:Salvaged  (100)
+86A2A21A:Mutilator Helm
+86A2A209:Salvaged  (100)
+86A2A228:Renegade Herbal Kit
+86A2A22D:Taulandoi
+86A2A20E:Salvaged  (100)
+86A2A20F:Salvaged  (100)
+86A2A210:Salvaged  (100)
+86A2A23E:Eye Dropper
+86A2A211:Salvaged  (69)
+86A2A212:Salvaged  (100)
+86A2A21C:Diamond Heart
+86A2A213:Salvaged  (100)
+86A2A214:Salvaged  (100)
+86A2A240:Crucible
+86A2A215:Salvaged  (100)
+86A2A216:Salvaged  (100)
+86A2A241:Frying Pan
+86A2A217:Salvaged  (100)
+86A2A263:Pyreal
+86A2A21B:Banderling Predator Backpack
+86A2A21D:Diamond Heart
+86A2A21F:Diamond Heart
+86A2A220:Diamond Heart
+86A2A221:Diamond Heart
+86A2A223:Light Crossbow
+86A2A224:Nayin
+86A2A225:Electric Atlatl
+86A2A242:Cookie Cutter
+86A2A226:Shortbow
+86A2A229:Salvaged  (100)
+86A2A22E:Sollerets
+86A2A243:Cookie Cutter
+86A2A22C:Wedding Raiment
+86A2A22F:Studded Leather Gauntlets
+86A2A244:Baking Pan
+86A2A230:Pack
+86A2A231:Mortar and Pestle
+86A2A232:Bael'Zharon Stamp
+86A2A233:Bael'Zharon Stamp
+86A2A234:Bael'Zharon Stamp
+86A2A247:Heavy Grinder
+86A2A235:Virindi Stamp
+86A2A236:Virindi Stamp
+86A2A248:Stipend
+86A2A237:Cooking Stamp
+86A2A238:Academy Stamp
+86A2A24B:Agent of Arcanum List
+86A2A239:Candeth Keep Stamp
+86A2A23A:Royal Coat of Arms Stamp
+86A2A25C:Renegade Herbal Kit
+86A2A23B:Skull Stamp
+86A2A23C:Virindi Stamp
+86A2A24C:Emerald Gromnie Eye
+86A2A23D:Skull Stamp
+86A2A245:Virindi Flag
+86A2A24D:Pyreal Golem Heart
+86A2A246:Olthoi Flag
+86A2A264:Pyreal
+86A2A24A:Staff
+86A2A24E:Salvage (100)
+86A2A24F:Red Monster Seed
+86A2A250:Necklace
+86A2A251:Renegade Bone Charm
+86A2A252:Gold Scarab
+86A2A253:Pulsating Wisp Heart
+86A2A254:Yellow Jewel
+86A2A255:Halved Cloak
+86A2A256:Aphus Lassel Portal Gem
+86A2A257:Pyreal Bar
+86A2A258:Salvage (100)
+86A2A259:Salvage (100)
+86A2A25E:Pyreal Bar
+86A2A25D:Pyreal Mote
+86A2A261:Trade Note (250,000)
+86A2A265:Pyreal
+86A2A266:Pyreal
+86A2A267:Pyreal
+86A2A268:Pyreal
+86A2A269:Stibnite Pea
+86A2A26A:Concentrated Bloodseeker Oil
+86A2A26B:Wrapped Bundle of Greater Blunt Arrowheads
+86A2A26C:Ancient Diamond Idol
+86A2A26D:Lead Scarab
+86A2A26E:Lead Scarab
+86A2A26F:Iron Scarab
+86A2A270:Prismatic Taper
+86A2A2A0:Stipend
+8F2307B9:Pyreal Bar
+
+Missing Exports - Possessed items that were not found:

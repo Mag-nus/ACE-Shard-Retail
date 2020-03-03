@@ -1,0 +1,87 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-30_1485830831_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-15_1484523691_log.pcap
+
+Partial Exports - Missing appraisal info:
+C5F987FC:Loose Pants
+C5EF1FE0:Leather Boots
+C5F512EF:Pyreal
+C5F5136D:Sack
+C5950F0D:Flared Shirt
+C5F512A1:Copper Scarab
+C5F512C3:Ust
+C5F513B1:Foci of Verdancy
+C5F513D3:Prismatic Taper
+C5F512E3:Lead Scarab
+C5F98749:Letter From Home
+C5F5154E:Apple
+C5F98748:Academy Library Key
+C5F51479:A List of Items
+C5F512C2:Directions to Nen Ai's House
+C5F9873F:Directions to the Shreth Hive
+C5F9873E:Handy Healing Kit
+C5F9873A:Handy Healing Kit
+C5F9873C:Salvage
+C5F9873B:Lace Shirt
+C5F98738:Second Half of a Battered Mace
+C5F98737:A Book of Quests for Young Explorers
+C5F98736:Nexus Town Information Guide
+C5F98735:Fire Auroch Horn
+C5F98741:Torn Cloth Scrap
+C5F98740:Torn Cloth Scrap
+C5F98747:Torn Cloth Scrap
+C5F9876E:Torn Cloth Scrap
+C5F504B8:Torn Cloth Scrap
+C5F98807:Torn Cloth Scrap
+C5F9880D:Torn Cloth Scrap
+C5F98810:Torn Cloth Scrap
+C5F5126E:Torn Cloth Scrap
+C5F5157F:Torn Cloth Scrap
+C5F51259:Torn Cloth Scrap
+C5F98782:Torn Cloth Scrap
+C5F51551:Torn Cloth Scrap
+C5F514A3:Trade Note (100,000)
+C5F5137B:Virindi Singularity Key
+C5F98816:Virindi Singularity Key
+C5F513FC:Sturdy Iron Key
+C5F92E75:Sturdy Iron Key
+C5F98781:Sturdy Iron Key
+C5F98745:Cull the Drudges
+C5F98770:Pathwarden Gauntlets
+C5F51499:Flaming Nekode
+C5F5160A:Acid Claw
+C5F51257:Lightning Claw
+C5F51235:Cestus
+C5F5149C:Nanto Portal Gem
+C5F513C7:Gifted Healing Kit
+C5F38A59:Rithwic Portal Gem
+C5F514B0:Pyreal
+C5F98780:Gifted Healing Kit
+C5F98744:Pyreal
+C5F511E9:Flaming Claw
+C5F9876B:Pyreal
+C5F511B0:Training Wand
+C5F512B2:Drudge Championship Belt
+C5F98754:Foci of Artifice
+C5F98753:Potion of Healing
+C5F98752:Stamina Tincture
+C5F9874E:Virindi Master Key
+C5F98751:Greater Lightning Arrow
+C5F98750:Frost Claw
+C5F9874C:Reliable Lockpick
+C5F9874F:Circlet
+C5F9874D:Broken Virindi Mask
+C5F9877F:Reliable Lockpick
+C5F504DE:Good Lockpick
+C5F512FE:Sollerets
+C5F511DC:Pyreal
+C5F9879E:Large Kite Shield
+C5F5120E:Throwing Dart
+C5F98756:Sceptre
+C5F98755:Academy Cestus
+C5F37F63:Some Changes for February 2012
+C5F9877E:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

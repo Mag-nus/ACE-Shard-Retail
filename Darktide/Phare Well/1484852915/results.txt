@@ -1,0 +1,11 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\AC-Packet-Data-Jungle-Souljah-LC\pkt_2017-1-19_1484852528_log.pcap
+
+Partial Exports - Missing appraisal info:
+D7ADD685:Pyreal
+D7ADD686:Sack
+D7ADD687:Ust
+D7ADD689:Pathwarden Token
+D7ADD68C:Letter From Home
+
+Missing Exports - Possessed items that were not found:

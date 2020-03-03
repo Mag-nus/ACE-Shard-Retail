@@ -1,0 +1,14 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap6\pkt_2017-1-28_1485657902_log.pcap
+
+Partial Exports - Missing appraisal info:
+DCE4ACB9:Pyreal
+DCE4ACBA:Sack
+DCE4ACBB:Ust
+DCE4ACBD:Pathwarden Token
+DCE4ACC1:Foci of Artifice
+DCE4ACC2:Prismatic Taper
+DCE4ACC3:Lead Scarab
+DCE4ACC5:Letter From Home
+
+Missing Exports - Possessed items that were not found:

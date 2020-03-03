@@ -1,0 +1,132 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485839309_log.pcap
+
+Partial Exports - Missing appraisal info:
+9158C765:Foci of Verdancy
+9158C76D:Pack
+9158C76E:Blackmoor's Favor
+9158C76F:Salvage (100)
+9158C770:Salvage (100)
+9158C772:Salvage (100)
+9158C786:Pack
+9158C779:Salvage (100)
+9158C782:Salvage (100)
+9158C79F:Pack
+9158C785:Salvage (100)
+9158C788:Salvage (100)
+9158C7B9:Pack
+9158C789:Salvage (100)
+9158C78C:Salvage (100)
+9158C7D3:Pack
+9158C78D:Salvage (100)
+9158C78E:Salvage (100)
+9158CEA2:Pack
+9158C790:Salvage (100)
+9158C791:Salvaged  (100)
+917F8AD9:Pathwarden Trinket
+9158C792:Salvaged  (100)
+9158C793:Salvaged  (100)
+9158C794:Salvage (100)
+9158C795:Salvage (100)
+9158C796:Salvage (100)
+9158C797:Salvage (100)
+9158C798:Salvage (100)
+9158C79A:Salvage (100)
+9158C79C:Salvage (100)
+9158C79D:Salvage (100)
+9158C77D:Salvage (100)
+9158C77F:Salvage (100)
+9158C77C:Salvage (100)
+9158C781:Salvage (100)
+9158C77A:Salvage (100)
+9158C778:Salvage (100)
+9158C773:Salvage (100)
+9158C7A0:Salvaged  (100)
+9158C7A1:Salvage (100)
+9158C7A2:Salvage (100)
+9158C7A3:Salvage (100)
+9158C7A4:Salvaged  (100)
+9158C7A5:Salvage (100)
+9158C7A6:Salvage (100)
+9158C7A7:Salvage (100)
+9158C7A8:Salvage (100)
+9158C7A9:Salvage (100)
+9158C7AA:Salvage (100)
+9158C7AB:Salvaged  (100)
+9158C7AC:Salvage (100)
+9158C7AD:Salvage (100)
+9158C7AE:Salvage (100)
+9158C7AF:Salvage (100)
+9158C7B0:Salvage (100)
+9158C7B1:Salvage (100)
+9158C7B2:Salvage (100)
+9158C7B3:Salvage (100)
+9158C7B4:Salvage (100)
+9158C7B5:Salvage (100)
+9158C7B6:Salvage (100)
+9158C7B7:Salvage (100)
+916C706B:Aetheria
+9158C7BB:Salvage (100)
+9158C7BD:Salvage (100)
+9158C7BE:Salvage (100)
+9158C7BF:Salvage (100)
+9158C7C0:Salvage (100)
+9158C7C2:Salvage (100)
+9158C7C3:Salvaged  (100)
+9158C7C4:Salvage (100)
+9158C7C5:Salvaged  (100)
+9158C7C6:Salvaged  (100)
+9158C7C7:Salvaged  (100)
+9158C7C8:Salvage (100)
+9158C7CD:Salvage (100)
+9158C7CC:Salvage (100)
+9158C7CE:Salvage (100)
+9158C7CB:Salvage (100)
+9158C7CF:Salvage (100)
+9158C7CA:Salvage (100)
+9158C7D1:Salvaged  (100)
+9158C7C9:Salvage (100)
+9158C7D6:Salvage (100)
+9158C7DD:Salvage (100)
+9158C7DA:Salvage (100)
+9158C7D4:Salvage (100)
+9158C767:Salvage (100)
+9158C768:Salvage (100)
+9158C76A:Salvage (100)
+9158C769:Salvage (100)
+9158C76B:Salvage (100)
+9158C7E2:Salvage (100)
+9158C7DF:Salvage (100)
+9158C7E6:Salvage (100)
+9158C7E5:Salvage (100)
+9158C7E3:Salvage (100)
+9158C7E4:Salvage (100)
+9158C7E1:Salvage (100)
+916DB7A2:Aetheria
+916D97E4:Aetheria
+9163CB9F:Aetheria
+9177B2DE:Aetheria
+9169BE8C:Aetheria
+916CBD93:Aetheria
+916B4276:Aetheria
+91A5A49A:Aetheria
+91F065F9:Sollerets
+92E491AE:Salvage (100)
+92E6DCF9:Salvage (100)
+92E6DD07:Salvage (100)
+92E6DD0D:Salvage (100)
+92E6DD0E:Salvage (100)
+92E6DD18:Salvage (100)
+923F532A:Ancient Falatacot Trinket
+92E64C20:Ancient Empyrean Trinket
+92C8C613:Salvage (100)
+92D2D952:Salvage (100)
+92DDA471:Salvage (100)
+92B7399A:Salvage (100)
+92E3F00C:Knight's Crystal
+92E329B8:Berzerker's Crystal
+92982500:Dodger's Crystal
+91A7A5C8:Aetheria
+915C18EB:Aetheria
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,51 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap4\pkt_2017-1-29_1485688049_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap5\pkt_2017-1-27_1485580183_log.pcap
+
+Partial Exports - Missing appraisal info:
+85FE90DB:Pack
+85FE90DA:Treatise on Essence
+85FE90D9:The Temple of Enlightenment
+85FE90D8:Mnemosynes and the Art of Lockpicking
+85FE90D7:Innate Ability Switching
+85FE90D6:Tinkering
+85FE90D5:Carving Keys and Keyrings
+85FE90D4:On the Abilities of Salvaged Ivory
+85FE90D3:Luminance, and the Paths of the Empyrean
+85FE90D2:Malsivir's Journal
+85FE90D1:A Portal-Jumper's Guide to Dereth
+85FE90D0:Dire Mattekar Paw
+85FE90CF:Shadow Lugian Stronghold Portal Gem
+85FE90CE:Perfect Diamond Infused Pyreal Ingot
+85FE90CA:Scarlet Red Letter
+85FE90CD:Crystalline Shard
+85FE90C6:Pyreal
+85FE90CB:Pyreal Sliver
+85FE90C9:Gold Pea
+85FE90C8:Small Shard
+85FE90C7:Sturdy Iron Key
+85FE90C5:Ust
+85FE90C2:Pack
+85FE90C1:Prismatic Taper
+85FE90C0:Lead Scarab
+85FE90BF:Bread
+85FE90BA:Mattekar
+85FE90BB:Facility Hub Portal Gem
+85FE90B9:Gearknight
+85FE90B8:Moarsman
+85FE90B7:Cow
+85FE90B6:Banderling
+85FE90B5:Fiun
+85FE90B4:Slithis
+85FE90B3:Snowman
+85FE90A9:Pack
+85FE9099:Gem of Inner Brilliance
+85FE9090:Pack
+85FE9080:Pack
+85FE9049:Pyreal Scarab
+85FE9048:Copper Scarab
+85FE9046:Silver Scarab
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,91 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-31-2017-pkt_2017-1-31_1485847270_log\pkt_2017-1-31_1485847270_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-31-2017-pkt_2017-1-31_1485847270_log\pkt_2017-1-31_1485847270_log.pcap
+
+Partial Exports - Missing appraisal info:
+C7BFB1AB:Sack
+C7BFB1AC:Foci of Artifice
+C7BFB1AD:Pack
+C7BFB1AE:Silver Scarab
+C7BFB1AF:Lead Scarab
+C7BFB1B0:Iron Scarab
+C7BFB1B1:Copper Scarab
+C7BFB1B2:Coalesced Mana
+C7BFB1B4:Prismatic Taper
+C7BFB1B3:Coalesced Mana
+C7BFB1B5:Pathwarden Token
+C7BFB1B6:Ust
+C7BFB1B7:Asheron's Benediction
+C7BFB1B8:Aphus Lassel Portal Gem
+C7BFB1BA:Pack
+C7BFB1B9:Blackmoor's Favor
+C7BFB1BB:Coalesced Aetheria
+C7BFB1BC:Heart of the Innocent
+C7BFB1BD:Coalesced Aetheria
+C7BFB1BE:Scroll of Swordsman's Gift
+C7BFB1BF:Scroll of Missile Weapon Mastery Self VII
+C7BFB1C0:Scroll of Celcynd's Blessing
+C7BFB1C1:Scroll of Eradicate Creature Magic Self
+C7BFB1C2:Scroll of Celcynd's Blessing
+C7BFB1C3:Scroll of Light Weapon Mastery Other VII
+C7BFB1C4:Coalesced Aetheria
+C7BFB1C7:Scroll of Evisceration
+C7BFB1C5:Coalesced Aetheria
+C7BFB1C6:Coalesced Aetheria
+C7BFB1C8:Scroll of Unfortunate Appraisal
+C7BFB1C9:Scroll of Tenaciousness
+C7BFB1CA:Scroll of Tusker's Gift
+C7BFB1CB:Minalim Plant
+C7BFB1CC:Scroll of Meditative Trance
+C7BFB1CD:Scroll of Caustic Blessing
+C7BFB1CE:Pack
+C7BFB1CF:Platemail Gauntlets
+C7BFB1D0:Pants
+C7BFB1DB:Pack
+C7BFB1D1:Haebrean Pauldrons
+C7BFB1D2:Astyrrian's Jewel
+C7BFB1EC:Pyreal
+C7BFB1D3:Alchemist's Crystal
+C7BFB1D4:Heavy Bracelet
+C7BFB1ED:Pyreal
+C7BFB1D5:Jaleh's Necklace
+C7BFB1D7:Nariyid Gauntlets
+C7BFB1DA:Phantom Two Handed Spear
+C7BFB1D8:Trousers
+C7BFB1D9:Doublet
+C7BFB1F0:Pyreal
+C7BFB1DC:Gifted Healing Kit
+C7BFB1DD:Teleportation Device
+C7BFB1DE:Salvaged  (100)
+C7BFB1DF:Treated Healing Kit
+C7BFB1E0:Treated Healing Kit
+C7BFB1E1:Treated Healing Kit
+C7BFB1E2:Gifted Healing Kit
+C7BFB1E3:Gifted Healing Kit
+C7BFB1E4:Gifted Healing Kit
+C7BFB1E5:Gifted Healing Kit
+C7BFB1E6:Gifted Healing Kit
+C7BFB1E7:Stamina Elixir
+C7BFB1E8:Health Tincture
+C7BFB1E9:Reinforced Falcon Banner with Symbol
+C7BFB1F4:Writ of Refuge
+C7BFB1EA:Rare Crystalline Shard
+C7BFB1EB:Rare Crystalline Shard
+C7BFB1FA:Pyreal
+C7BFB1EE:Trade Note (250,000)
+C7BFB1EF:Crystalline Shard
+C7BFB1FC:Pyreal
+C7BFB1F3:Aggregate Crystalline Shard
+C7BFB1F5:Greataxe
+C7BFB1FD:Pyreal
+C7BFB1F6:Some Changes for February 2012
+C7BFB1F7:Great Star Mace
+C7BFB1F9:Quest Weapon Coin
+C7BFB1FE:Imbue Swap Coin
+C7BFB200:Pathwarden Trinket
+C7BFB201:Daulan Faur
+C7BFB1D6:The Poet's Mask
+
+Missing Exports - Possessed items that were not found:

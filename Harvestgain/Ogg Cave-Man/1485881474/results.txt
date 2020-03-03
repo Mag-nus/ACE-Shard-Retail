@@ -1,0 +1,279 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ogg-Cave-Man-01-31-2017-PacketLogging\pkt_2017-1-31_1485879406_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ogg-Cave-Man-01-31-2017-PacketLogging\pkt_2017-1-31_1485876445_log.pcap
+
+Partial Exports - Missing appraisal info:
+8011007A:Pack
+8011007B:Iron Scarab
+8011007C:Blackmoor's Favor
+8011007D:Silver Scarab
+8011007E:Pyreal Scarab
+8011007F:Gold Scarab
+80110081:Asheron's Lesser Benediction
+80110085:Combined Hyssop and Mandrake
+909EF590:Campfire
+80110087:Intricate Carving Tool
+8011008A:Treated Healing Kit
+8011008C:Sho Gem of Worth
+8F111FF4:Strange Jewel
+B82BFC06:Burning Coal
+80110094:Enhanced Dissolving Isparian Spear
+B8BCB711:Gold Pea
+B9C39A16:Egg
+84B28839:Frost Grievver Essence (150)
+B97F73EA:Five Cards from the Deck of Hands
+84D314A1:Frost Moar Essence (150)
+80137191:Lightning Moar Essence (180)
+BA0250AF:Pyreal
+8011016F:Shield of Isin Dule
+80110091:Pack
+80110098:Virindi Inquisitor Essence
+801100A1:Treated Healing Kit
+801100A5:Treated Healing Kit
+8F3EF983:Journal of a Soldier
+8F4FB608:Torn Note
+8F4FCDC1:Carefully rolled scroll
+90B4700D:Treated Healing Kit
+90B5CA1D:Misshapen Bone Fragment
+9FD43658:Treated Healing Kit
+A25635E9:Pyreal Sliver
+8F174158:Treated Healing Kit
+90E706B2:Ornate Gear Marker
+919A1FF8:Celestial Hand Trade Token
+B88BAC92:Treated Healing Kit
+A3123ED9:Celestial Hand Commendation Ribbon
+B972BF91:Plentiful Healing Kit
+B96F541D:Plentiful Healing Kit
+B976F411:Spectral Heavy Weapon Mastery Crystal
+B90B36CE:Ornate Bone Key
+A0205B0C:Snowman
+B9172AD4:Ornate Bone Key
+B91BE64B:Deck of Eyes
+A068F0F2:Five of Eyes
+B8558CD6:Ace of Eyes
+84E9E735:Acid Moar Essence (150)
+801100B2:Ornate Bone Key
+801100A8:Pack
+801100A9:Enhanced Black Fire Atlan Stone
+801100AA:Heart of the Innocent
+801100AB:Lord Cynreft's Ancient Emblem of Mhoire
+801100AC:Aetheria Powder
+801100AF:Sprouting Pumpkin Vine
+801100AD:Aetheria Powder
+801100B0:Exhumed Bones
+801100B4:Burning Sands Keyring
+801100B7:Fire Skeleton Bushi Essence (150)
+801100B8:Fire Zombie Essence (150)
+801100BA:Quartered Cloak
+8A375822:Blue Jewel
+8A4B7130:Yellow Jewel
+B82F1CB4:Treated Healing Kit
+B96C99F7:Ornate Bone Key
+80110100:Enhanced Sparking Atlan Mace
+B97D7756:Spectral Crystal of the Hieromancer
+B96A5DAF:Ornate Bone Key
+B968B16E:Ornate Bone Key
+B8C2B460:Ornate Bone Key
+B8F45CCB:Pyre Shroud
+84EE72C8:Fire Moar Essence (150)
+801100C0:Pack
+801100C1:Diamond Scarab
+801100C4:Aetheria Desiccant
+801100C8:Splitting Tool
+801100C9:Platinum Scarab
+80110140:Frost Grievver Essence (180)
+801100D5:Ust
+80110168:Encapsulated Spirit
+8267C550:Fire Grievver Essence (125)
+90AFE2CD:Lightning Moar Essence (150)
+80110149:Frost Phyntos Wasp Essence (180)
+A0D30549:Pile of Gearknight Parts
+801100BE:Lesser Corrupted Essence
+801100C2:Engraved A'nekshay Bracers
+B8F3B084:Ornate Bone Key
+A321769E:Mana-Infused Jungle Flower
+A3422EEC:Damaged Radiant Blood Commendation Ribbon
+B9425BC7:Major Mana Stone
+B86C2DA9:Ancient Falatacot Trinket
+B87BD52B:Ornate Bone Key
+B90F3B25:Ornate Bone Key
+B96F3DCE:Two of Eyes
+A085ECB6:Nine of Hands
+801100D4:Pack
+801100D6:Mhoire Castle Treasury Key
+801100D7:Copper Scarab
+801100D8:Mhoire Signet Ring
+801100D9:Black Fire Atlan Stone
+801100DA:Soft Bandages
+801100DE:Deadly Hollow Katar
+801100DF:Sanguinary Aegis
+801100D3:Health Philtre
+801047FA:A'nekshay Token
+80110103:Enhanced Stinging Atlan Mace
+B9293A70:Major Mana Stone
+801100DD:Enhanced Coruscating Isparian Spear
+A3442EA5:Damaged Celestial Hand Commendation Ribbon
+B8556220:Aetheria
+8011011B:Enhanced Assault Dirk
+B88DAC48:Ornate Bone Key
+85DA517F:Frost Grievver Essence (150)
+85DE5A2A:Acid Moar Essence (150)
+B981B79B:Acid Grievver Essence (180)
+801100EC:Pack
+801100ED:Lead Scarab
+801100EE:Aphus Lassel Portal Gem
+801100F0:Lord Cynreft Mhoire's Signet Ring
+801100FC:Sturdy Iron Key
+801100F1:Enhanced Black Fire Atlan Stone
+800C18CA:Invitation to the Battle Burrows
+8F23DA12:Treated Healing Kit
+801047FD:Salvage (81)
+801100FA:Vissidal Island Portal Gem
+80110105:Jester's Token
+90CE8CC4:Aetherium Power Core
+90B60746:Aetherium-infused Gear
+964DC3F1:Trade Note (100,000)
+800D51D8:Writ of Refuge
+801100C3:Desert Flower
+A0F9FCF4:Invigorating Elixir
+8011010D:Whispering Blade Chapterhouse Recall Orb
+80110083:Prickly Pear
+80110120:Enhanced Smoldering Atlan Mace
+B94A7D20:Society Gem of Dispelling
+8F6474C9:Blistering Moar Essence
+85ED1C0E:Fire Phyntos Wasp Essence (150)
+85F061C5:Lightning Phyntos Wasp Essence (150)
+80110104:T-Mon BackPack
+80110106:Master's Treasure Key
+80110107:Black Page of Salt and Ash
+80110108:Small Olthoi Venom Sac
+80110110:Peerless Healing Kit
+80110124:Habitat Portal Gem
+80110161:Paradox-touched Olthoi Axe
+8F481913:Diamond Powder
+87AB1D8D:Adventurer's Token
+9F6470E2:Celestial Hand Stronghold Portal Gem
+80110084:Broken Stone Tablet
+80110092:Enhanced Flaming Isparian Spear
+B8CAA9E8:Ornate Bone Key
+8011009E:Enhanced Shivering Atlan Mace
+B94D34C0:Society Gem of Dispelling
+B94D34E1:Society Gem of Dispelling
+B95E1D6D:Salvage (19)
+B6BD15D3:Lightning Phyntos Wasp Essence (180)
+B852CB31:Ten of Hands
+A26FEC9D:Six of Eyes
+B965CA12:Fire Moar Essence (180)
+8F523A09:Sack
+80110126:Mana Scarab
+A0E2CEC0:Coral Fragment
+8D15F579:A Page of the Book of Eibhil
+B8EC9034:Major Mana Stone
+8011015E:Chimeric Bow of the Quiddity Summoning Gem
+801100CE:Acid Zombie Essence (180)
+80110123:Frost Spectre Essence (150)
+8011010B:Empowered Olthoibane Infusion
+8F752E67:Frost Phyntos Wasp Essence (180)
+8F7B6ACF:Volcanic Moar Essence
+A00FEC83:Black Skull of Xikma
+9FB059DF:Frigid Zombie Essence
+8011015D:Focusing Stone
+80110093:Enhanced Chilling Isparian Spear
+B9044E07:Major Mana Stone
+A34680E0:Damaged Eldrytch Web Commendation Ribbon
+B9621292:Black Luster Pearl
+B966AF07:Pyre Skeleton Jaw
+B9629B18:Caustic Grievver Essence
+B82DB17C:Four of Eyes
+80110088:Colosseum Coin
+8F5F37BE:Frost Phyntos Swarm Essence
+8F647FCB:Acid Grievver Essence (180)
+8AC54966:Frost Moar Essence (150)
+A11F208F:Scorched Grievver Essence
+B806C33A:Acid Phyntos Wasp Essence (150)
+8F817A75:Acid Moar Essence (180)
+8F8190EA:Fire Phyntos Wasp Essence (180)
+8F81A524:Electrified Moar Essence
+8F81B25C:Frost Phyntos Swarm Essence
+B9683FC1:Frost Moar Essence (180)
+B96EEFB2:Lightning Phyntos Wasp Essence (180)
+B96EC1A9:Lightning Moar Essence (180)
+B96C9277:Lightning Grievver Essence (180)
+B90A770F:Frost Phyntos Swarm Essence
+B92F54C9:Excited Grievver Essence
+B98386F1:Frost K'nath Essence (180)
+B981F51A:Lightning Grievver Essence (180)
+B985B5CE:Leather Tassets
+B97FE8A0:Spine Glaive
+80110129:Ancient Mhoire Coin
+B88748F0:Prismatic Taper
+90841FD8:Eight of Hands
+B9709456:Queen of Eyes
+B894D976:Jack of Eyes
+B88019B1:Eight of Eyes
+B8823DCA:Seven of Eyes
+B88CEA35:Four of Hands
+B875FAA9:Two of Hands
+B8B95127:Five of Hands
+B8FA66FB:Seven of Hands
+B878582D:King of Hands
+B8865821:Queen of Hands
+B89CCC41:Jack of Hands
+8011012B:Trade Note (250,000)
+B9EFD13E:Spine Glaive
+B9EFFB80:Colosseum Ticket
+A0E471E8:Three of Eyes
+BA039F47:Prismatic Taper
+8BD37129:Celestial Hand Armor Writ
+BAAD3FCE:Lyceum Hood
+BAB3E913:Blue Empyrean Ring
+BB03C6DC:Major Mana Stone
+BAB4651A:Tunic
+BAAC2DA5:Ring
+BAACE670:Frost Simi
+BAA995AC:Compass
+BAAD43FA:Flaming Pike
+BB06B7C3:Major Mana Stone
+BAEF4378:Green Empyrean Ring
+BAED8114:Glyph of Lockpick
+BA599042:Treasure Chest Key
+BAEC5A58:Glyph of Mana
+BB03C48C:Major Item Tinkering Armature
+BB27B55B:Empyrean Sun Stone
+B907F7AE:Encapsulated Spirit
+B9788347:Encapsulated Spirit
+BAA99D1D:Flaming Hammer
+BB2A6F1C:Red Empyrean Ring
+BB9BD3C3:Titan Mana Charge
+BB25751D:White Empyrean Ring
+BB1DA88E:Blue Empyrean Ring
+BBC7CC96:Titan Mana Charge
+BB1ADF4D:Acid Spectre Essence (180)
+BB2D4F7F:Town Network Portal Gem
+BBD78ACF:Titan Mana Charge
+BC2AFD3C:Upper Insatiable Eater Jaw
+B58722F5:Promissory Note
+C25EB02A:Upper Insatiable Eater Jaw
+C398C4D8:Upper Insatiable Eater Jaw
+C4965CFB:Upper Insatiable Eater Jaw
+C72B59EF:Gem of Knowledge
+C85ACE99:Birch Talisman
+C8540E31:Reliable Lockpick
+C8598DD4:Lucky Gold Letter
+C85AD653:Gold Key
+C85CC597:Tart Apple
+801100FD:Shadowfire Isparian Spear
+C860405F:Sake
+C86B2E3F:Diamond Shield
+C86B2E3E:Pyreal Mote
+C86B2E3D:Diamond Heart
+C26A8912:Imbuer's Crystal
+C86C4F9F:Trothyr's Rest Rumor
+B6D03DC1:Life Giver's Crystal
+C86CD33C:Dark Sorcerer's Phylactery
+C86E5263:Trothyr's Rest Rumor
+C86EBE95:Blue Fire Infusion
+
+Missing Exports - Possessed items that were not found:

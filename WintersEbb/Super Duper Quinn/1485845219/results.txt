@@ -1,0 +1,272 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-31_1485843061_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-30_1485801914_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-31_1485840494_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-31_1485840494_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-31_1485840494_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-31_1485843061_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-31_1485843061_log.pcap
+
+Partial Exports - Missing appraisal info:
+A2568A08:Sack
+A2568A09:Old Lucky Gold Letter
+A2568A0A:Letter From Home
+A2568A0B:Peppermint Stick
+A2568A0C:Old Scarlet Red Letter
+A2568A0D:Ring
+A2568A0F:Handy Healing Kit
+A2568A10:Prismatic Taper
+A2568A11:Scroll of Drain Mana Other III
+A2568A12:Scroll of Rejuvenate Self III
+A2568A13:Scroll of Drain Mana Other III
+A2568A14:Scroll of Lightning Vulnerability Other III
+A2568A15:Scroll of Drain Health Other III
+A2568A16:Scroll of Martyr's Hecatomb III
+A2568A17:Amulet
+A2568A18:Reliable Lockpick
+A2568A1A:Ring
+A2568A1C:Diamond Heart
+A2568A1D:Salvage
+A2568A1E:Salvage
+80578B3F:Shoes
+A2568A1F:Salvaged  (100)
+A2568A20:Foci of Strife
+A255E4CF:Training Wand
+A255E870:Asheron's Benediction
+A255333F:Ring
+A25531AF:Blackmoor's Favor
+A255E807:Ring
+A2553207:Pack
+A24EDCED:Ring
+A2553223:Jaleh's Necklace
+A255E89B:Strong Iron Key
+A25532DE:Sublime Ring of Piercing Protection
+A255E806:Sublime Bracelet of Acid Protection
+A2513A2E:Clasp of the Arm
+A253A140:Travel Log
+A255E826:Halaetan Magic Page 1
+A2552B36:Ciandra's Stone Infuser Instructions
+A2568A21:Hennacin Plant
+A2568A22:Lapyan Plant
+A2568A23:Colban Plant
+A2568A24:Relanim Plant
+A2568A25:Minalim Plant
+A2568A26:Argenory Plant
+A2568A27:Berimphur Plant
+A2568A28:Scroll of Lightning Vulnerability Other II
+A2568A29:A Field Guide to Tainted Nodes
+A2568A2A:Verdalim Plant
+A2568A2B:Pack Asheron
+A2568A2C:Pack Martine
+80578808:Gold Shallows Shredder Fin
+92CBC930:Wood Heart
+A520981E:Scarlet Red Letter
+A2568A2D:Pack
+A2568A2E:Gem
+A2568A30:Ring
+A2568A31:Necklace
+A2568A32:Handy Healing Kit
+A2568A33:Bundle of Arrowheads
+A2568A34:Chicken
+A2568A35:Adept Healing Kit
+A2568A36:Plain Lockpick
+A2568A37:Yellow Jewel
+A2568A38:Vanguard Leader's Amulet
+A2568A39:Ash Gromnie Tooth
+A2568A3A:Scored Shard
+A2568A3C:Treated Healing Kit
+A2568A3E:Treated Healing Kit
+A2568A3F:Yellow Jewel
+A2568A40:A Huge Lump of Coal
+A2568A41:Gem
+A2568A42:Major Mana Stone
+8057882F:Gold Tumerok Insignia
+8057882E:Gold Tumerok Insignia
+A3FCAAEB:Poofy Snowball
+805787C5:Black Coral Keyring
+805787C6:Black Coral Keyring
+80578815:Great Jack o' Lantern
+A2568A43:Pack
+A2568A44:Handy Healing Kit
+A2568A45:Peerless Drudge Charm
+A2568A46:Crown
+A2568A47:Empty Flask
+A2568A48:Scroll of Light Weapon Mastery Other III
+A2568A49:Ring
+A2568A4A:Plain Lockpick
+A2568A4B:Lead Pea
+A2568A4C:Bracelet
+A2568A4D:Orange Monster Seed
+A2568A4E:Dark Shard
+A2568A4F:Celdiseth's Portal Gem
+A2568A50:Peerless Drudge Charm
+A2568A51:Chiran Sandals
+A2568A52:Ring
+A2568A54:Pumpkin
+A2568A53:Studded  Gauntlets
+A2568A55:Red Monster Sprout
+A2568A57:Scroll of Lockpick Mastery Self VI
+A2568A58:Major Mana Stone
+8057879C:Caliginous Aegis
+8001E881:Wrapped Bundle of Olthoi Acid Arrowheads
+A5AF2298:Scroll of Nether Streak VII
+A2568A5F:Swamp Stone
+A2568A5A:Viamontian Guardian Bracelet
+A2568A5B:Virindi Mask
+A2568A5D:Ring
+A2568A5E:Ring
+A2568A61:Ring
+A2568A60:Gem of Stillness
+A2568A62:Leerargh's Necklace
+A2568A65:Vagurat's Hand
+A2568A63:Pants
+A2568A64:Swamp Lord's War Paint
+A2568A66:Mire Witch's Loincloth
+A2568A67:Isparian Arms
+A2568A68:Salvaged  (100)
+A2568A69:Salvaged  (100)
+A2568A6A:Salvaged  (100)
+A2568A6B:Salvaged  (100)
+A2568A6F:Sunflower
+A2568A6C:Salvaged  (100)
+A2568A6D:Salvaged  (100)
+805786D3:Iasparailaun
+A2568A6E:Salvaged  (100)
+80578827:Frost Moar Essence (80)
+A2568AB4:Snowflower
+80578826:Lightning Moar Essence (50)
+A2568A70:Loafers
+A2568A74:Drudge Charm
+A2568A72:Bracelet
+A2568A73:Empty Flask
+A2568A75:Plain Lockpick
+A2568A76:Reliable Lockpick
+A2568A77:Training Dirk
+A2568A78:Pack
+A2568A79:Reliable Lockpick
+A2568A7A:Adept Healing Kit
+A2568A7B:Hoary Armoredillo Spine
+A2568A7C:Yellow Monster Seed
+A2568A7D:First Half of a Worn Crossbow
+A2568A7E:Medicated Mana Kit
+A2568A7F:Dastardly Dirk
+A2568A80:Gloves
+A2568A81:Ring
+A2568A83:Salvage
+A2568A84:Salvaged  (100)
+A5B4B3D8:Lucky Gold Letter
+A2568A85:Salvaged  (100)
+A2568A86:Salvage
+A2568A91:Spring Cleaner Title Token
+A2568A87:Salvaged  (100)
+A2568A88:Salvaged  (100)
+A2568A92:Handy Healing Kit
+A2568A89:Salvaged  (100)
+A2568A8A:Salvaged  (100)
+A2568A94:Scroll of Lightning Bane III
+A2568A8B:Salvaged  (100)
+A2568A8C:Salvaged  (100)
+A2568A95:Scroll of Turn Blade II
+A2568A8D:Salvaged  (100)
+A2568A8E:Salvaged  (100)
+A2568A98:Scroll of Force Bolt
+A2568A8F:Salvaged  (100)
+A2568A90:Salvaged  (100)
+A2568A99:Old Lucky Gold Letter
+A2568A93:Buckler
+A2568A96:Ruined Amulet of Missile Weapons
+A2568A9B:Scroll of Weapon Tinkering Ignorance II
+A2568A97:Wand
+A2568A9A:Bracelet
+A2568A9C:Cowl
+A2568A9D:Shoes
+A2568A9E:Amulet
+A2568A9F:Heaume
+A2568AA0:Platemail Breastplate
+A2568AA1:Long Sword
+A2568AA6:Ring
+A2568AA2:Dho War Apprentice Robe
+A2568AA3:Dho Creature Apprentice Robe
+A2568AA4:Dho War Apprentice Robe
+A2568AA5:Dho Life Apprentice Robe
+A2568AA7:Tassets
+A2568AA8:Chainmail Greaves
+A2568AB1:Story of Lunnum's Pyre
+A2568AA9:Shouken
+A2568AAA:Pantaloons
+A2568AB2:Ring
+A2568AAC:Studded Leather Girth
+A2568AAD:Celdon Sleeves
+A2568AAE:Chainmail Gauntlets
+A2568AAF:Necklace
+A2568AB3:Floating Candle
+A2568AB0:Fire Compound Bow
+A2568AB5:Elemental Master Robe
+A2568AB6:Fishing Pole
+A2568AB8:Heavy Necklace
+A2568AB9:Dauloirae
+A2568ABA:Dire Mattekar Paw
+A2568ABB:Diamond Shield
+A2568ABC:Slashing Bow
+A2568ABE:Plentiful Healing Kit
+A2568ABF:Interview with the Mosswart
+A2568AC0:Salvaged  (100)
+A2568AC1:Salvaged  (100)
+A2568AC2:Salvaged  (100)
+A2568AC7:Hardened Shard
+A2568AC3:Salvaged  (100)
+A2568AC4:Salvaged  (100)
+A2568ACA:Lesser Direlands Device
+A2568AC5:Salvaged  (100)
+A2568ACB:Old Lucky Gold Letter
+A2568AC8:Salvaged  (100)
+A2568ACC:Drudge Charm
+A2568ACD:Compass
+A2568ACF:Textbook
+A2568A71:Handy Healing Kit
+A2568AB7:Slashing Compound Bow
+A2568A5C:Staff
+A2568A82:Shoes
+97AADC49:T'ing's Crystal
+92C943A8:Life Giver's Crystal
+805786FB:Orb
+805787A3:Homecoming Pennant
+A3FCAAE9:Snowball
+A5A29679:Diamond Powder
+A5AC2AD3:Diamond Powder
+97AAD97F:Scroll of Nuhmudira's Boon
+805786D8:Singularity Keyring
+A256DA57:Fenmalain Key
+805787AA:Ursuin Cub Kennel
+80578831:Puzzle Box
+8057880F:Gold Shallows Shredder Fin
+92CD14BE:Slasher Reedshark Hide
+805786CE:Scroll of Ring around the Rabbit
+80578816:Studded Leather Gauntlets
+80578817:Skull of Avoren Palacost
+8057876B:Ring
+80578812:Piercing Bow
+97CE5DB1:Scarlet Red Letter
+8057882C:True Strike Bow
+80578800:Piercing Compound Bow
+A5B274DA:Disturbing Rumor
+8057881C:Fire Compound Bow
+8057881A:Electric Bow
+805786ED:Slashing Compound Bow
+805787F3:Heavy Necklace
+A5BE8238:An Unlocked Small Mnemosyne
+805787E9:Orb
+805787C0:Singularity Keyring
+805787B9:Heavy Bracelet
+805786E0:Piercing Compound Bow
+805786E2:Blunt Compound Bow
+9785FE00:Island Armoredillo Spine
+80578820:Noble Relic Coat of Brilliance
+805787FC:Ancient Armored Leggings
+805787FB:Ancient Armored Long Boots
+A5B571E2:Crystal Fragment
+A2568AD1:Longbow
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,14 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-31_1485851098_log.pcap
+
+Partial Exports - Missing appraisal info:
+DCE4BDC4:Pyreal
+DCE4BDC5:Sack
+DCE4BDC6:Ust
+DCE4BDC8:Pathwarden Token
+DCE4BDD1:Letter From Home
+DCE4BDCE:Foci of Artifice
+DCE4BDCF:Prismatic Taper
+DCE4BDD0:Lead Scarab
+
+Missing Exports - Possessed items that were not found:

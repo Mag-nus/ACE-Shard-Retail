@@ -1,0 +1,201 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Cyberkiller-01-31-2017-Random\pkt_2017-1-31_1485860308_log.pcap
+
+Partial Exports - Missing appraisal info:
+DD30DE10:Pyreal
+DD30DD3F:Calling Stone
+DD30DD41:Pack
+DD30DD42:Eye Dropper
+DD30DD43:Mortar and Pestle
+DD30DD44:Pumpkin Cookie Cutter
+DD30DD45:Splitting Tool
+DD30DD46:Alembic
+DD30DD47:Neutral Balm
+DD30DD48:Cobalt Pea
+DD30DD49:Gem
+DD30DD4A:Gem
+DD30DD4B:Gem
+DD30DD4C:Thananim Plant
+DD30DD4D:Cooking Pot
+DD30DD4E:Mortar and Pestle
+DD30DD4F:Cooking Pot
+DD30DD50:Neutral Balm
+DD30DD52:Beret
+DD30DD5A:Pack
+DD30DD55:Platemail Leggings
+DD30DD5F:Cooking Pot
+DD30DD5B:Cobalt Pea
+DD30DD5C:Concentrated Frost Oil
+DD30DD5D:Vitriol Pea
+DD30DD5E:Vitriol Pea
+DD30DD60:Armor Main Reduction Tool
+DD30DD61:Faran Robe
+DD30DD69:Leather Girth
+DD30DD6C:Knorr Academy Tassets
+DD30DD72:Ring
+DD30DD75:Pack
+DD30DD76:Baggy Pants
+DD30DD8E:Pack
+DD30DD78:Turban
+DD30DD7B:Tenassa Sleeves
+DD30DD7C:Chainmail Sleeves
+DD30DD80:Nariyid Helm
+DD30DDA7:Pack
+DD30DD82:Pocket Watch
+DD30DD84:Studded Leather Basinet
+DD30DD92:Loafers
+DD30DD89:Kasa
+DD30DD8A:Heavy Bracelet
+DD30DD99:Loafers
+DD30DD8C:Studded Leather Coat
+DD30DD90:Chainmail Tassets
+DD30DDC0:Pack
+DD30DD97:Lorica Boots
+DD30DD98:Smock
+DD30DD9D:Scalemail Girth
+DD30DDA8:Quicksilver Pea
+DD30DD9F:Pants
+DD30DDA1:Ring
+DD30DDA5:Tenassa Sleeves
+DD30DDA6:Amuli Coat
+DD30DDAA:Alduressa Helm
+DD30DDAB:Hood
+DD30DDAD:Loafers
+DD30DDAE:Sollerets
+DD30DDAF:Platemail Breastplate
+DD30DDB0:Sedgemail Leather Gauntlets
+DD30DDB1:Chainmail Girth
+DD30DDB3:Chainmail Tassets
+DD30DDB4:Chainmail Bracers
+DD30DDB6:Necklace
+DD30DDB7:Leather Greaves
+DD30DDBE:Loafers
+DD30DDB8:Lorica Gauntlets
+DD30DDB9:Olthoi Celdon Gauntlets
+DD30DDBA:Piercing Bow
+DD30DDBB:Circlet
+DD30DDBC:Alduressa Coat
+DD30DDBD:Lorica Breastplate
+DD30DDC1:Concentrated Aqua Incanta
+DD30DDC2:Concentrated Aqua Incanta
+DD30DDC3:Concentrated Aqua Incanta
+DD30DDC4:Concentrated Aqua Incanta
+DD30DDC5:Concentrated Aqua Incanta
+DD30DDC6:Studded Leather Pauldrons
+DD30DDC7:Haebrean Boots
+DD30DDC8:Leather Boots
+DD30DDC9:Hood
+DD30DDCA:Necklace
+DD30DDCB:Haebrean Vambraces
+DD30DE11:Pack
+DD30DDCC:Cloth Gloves
+DD30DDD4:Bracelet
+DD30DDCE:Amuli Leggings
+DD30DDCF:Nariyid Sleeves
+DD30DDD0:Olthoi Girth
+DD30DDD1:Trousers
+DD30DDD2:Platemail Girth
+DD30DDD3:Chiran Sandals
+DD30DDD5:Bracelet
+DD30DDD7:Leather Bracers
+DD30DDD8:Studded Leather Coat
+DD30DDDA:Chiran Sandals
+DD30DDDB:Nariyid Boots
+DD30DDDC:Haebrean Boots
+DD30DDDD:Studded Leather Bracers
+DD30DDDE:Cloth Gloves
+DD30DDDF:Chainmail Greaves
+DD30DDE0:Alduressa Leggings
+DD30DDE1:Sedgemail Leather Cowl
+DD30DDE2:Hood
+DD30DDE3:Alduressa Boots
+DD30DDF6:Ring
+DD30DDE5:Olthoi Celdon Leggings
+DD30DDE6:Leather Bracers
+DD30DDE8:Platemail Breastplate
+DD30DDE9:Chainmail Basinet
+DD30DDEA:Viamontian Pants
+DD30DDEB:Yoroi Leggings
+DD30DDEC:Flared Shirt
+DD30DDED:Olthoi Alduressa Boots
+DD30DDEF:Leather Girth
+DD30DDF1:Olthoi Celdon Leggings
+DD30DDF2:Haebrean Girth
+DD30DDF3:Trousers
+DD30DDF4:Knorr Academy Pauldrons
+DD30DDF5:Leather Sleeves
+DD30DDF8:Chainmail Gauntlets
+DD30DDF9:Fire Bow
+DD30DDFB:Ring
+DD30DDFC:Slashing Sceptre
+DD30DDFE:Cloth Cap
+DD30DE00:Aetheria
+DD30DDFF:Pants
+DD30DE01:Aetheria
+DD30DE02:Empyrean Robe
+DD30DE03:Frost Spectre Essence (180)
+DD30DE04:Chiran Helm
+DD30DE05:Salvage (100)
+DD30DE23:Cloak
+DD30DE06:Salvage (100)
+DD30DE07:Salvage (100)
+DD30DE08:Salvage (100)
+DD30DE09:Empyrean Robe
+DD30DE0A:Nariyid Gauntlets
+DD30DE0B:Chef's Crystal
+DD30DE0C:Coronet
+DD30DE0D:Olthoi Celdon Leggings
+DD30DE0E:Tenassa Leggings
+DD30DE0F:Salvage (100)
+DD30DE12:Frost Wisp Essence (180)
+DD30DE13:Lightning K'nath Essence (180)
+DD30DE15:Acid Moar Essence (180)
+DD30DE16:Lightning Zombie Essence (180)
+DD30DE17:Lightning Phyntos Wasp Essence (180)
+DD30DE18:Fire Phyntos Wasp Essence (180)
+DD30DE19:Lightning Spectre Essence (180)
+DD30DE1A:Lightning Skeleton Bushi Essence (180)
+DD30DE1C:Frost Moar Essence (180)
+DD30DE1D:K'nath R'ajed Essence
+DD30DE1F:Chevron Cloak
+DD30DE20:Quartered Cloak
+DD30DE21:Chevron Cloak
+DD30DE24:Bordered Cloak
+DD30DE25:Salvage (100)
+DD30DE26:Salvage (100)
+DD30DE27:Salvage (100)
+DD30DE28:Salvage (100)
+DD30DE29:Baggy Pants
+DD30DE2A:Puffy Shirt
+DD30DE2B:Ring
+DD30DE2D:Heavy Bracelet
+DD30DE2E:Bracelet
+DD30DE2F:Necklace
+DD30DE30:Pocket Watch
+DD30DE31:Amuli Leggings
+DD30DE33:Celdon Sleeves
+DD30DE34:Studded Leather Leggings
+DD30DE36:Tenassa Sleeves
+DD30DE37:Chiran Sandals
+DD30DE38:Leather Shorts
+DD30DE39:Suikan Over-robe
+DD30DE3A:Casting Staff Stamped Spectral Ingot
+DD30DE3B:Bow Stamped Spectral Ingot
+DD30DE3C:Olthoi Alduressa Helm
+DD30DE3D:Sandals
+DD30DE3E:Salvage
+DD30DE3F:Salvage
+DD30DE41:Sceptre
+DD30DE42:Leather Shorts
+DD30DE44:Scalemail Tassets
+DD30DE45:Cloth Gloves
+DD30DE46:Salvage (100)
+DD30DE47:Tenassa Leggings
+DD30DE48:Sedgemail Leather Gauntlets
+DD30DE49:Haebrean Helm
+DD30DE4A:Elysa's Crystal
+DD30DE4B:Slippers
+DD30DE4C:Acid Wisp Essence (180)
+DD30DE4D:Salvage (100)
+
+Missing Exports - Possessed items that were not found:

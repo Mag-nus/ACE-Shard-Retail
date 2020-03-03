@@ -1,0 +1,33 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-25_1485403040_log.pcap
+
+Partial Exports - Missing appraisal info:
+9C8BC0C1:Pyreal
+9C8BC0BD:Cloth Cap
+9C8BC0BE:Baggy Shirt
+9C8BC0C3:Cobalt
+9C8BC0BF:Loose Pants
+9C8BC0C0:Leather Boots
+9C8BC0C6:Lead Scarab
+9C8BC0C2:Quicksilver
+9C8BC0C4:Powdered Turquoise
+9C8BC0CC:Apple
+9C8BC0C5:Stibnite
+9C8BC0C7:Hyssop
+9C8BC0CA:Ashwood Talisman
+9C8BC0C8:Powdered Onyx
+9C8BC0C9:Vitriol
+9C8BC0CB:Sho Wand
+9C8BC0CD:Starter Crossbow
+9C8BC0CE:Quarrel
+9C8BC0CF:Starter Knife
+9C8BC0D0:Handy Healing Kit
+9C8BC0D1:Crude Lockpick
+9C8BC0D2:Welcome Letter
+9C8BC0D3:Sack
+9C8BC0D4:Calling Stone
+9C8BC0D5:Pack Bael'Zharon
+9C8BC0D6:Some Changes for February 2012
+9C8BC0D7:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

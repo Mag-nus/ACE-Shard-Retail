@@ -1,0 +1,80 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485295086_log\pkt_2017-1-24_1485295086_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485323961_log\pkt_2017-1-24_1485323961_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485323961_log\pkt_2017-1-24_1485323961_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485323961_log\pkt_2017-1-24_1485323961_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485323961_log\pkt_2017-1-24_1485323961_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+
+Partial Exports - Missing appraisal info:
+C09A887C:Polar Ursuin Lair
+C09A888D:Trade Note (75,000)
+C09A888A:Gem of Purity
+C09A8889:Gem of Stillness
+C09A886A:Ust
+C09A8883:Ahruenga Portal Gem
+C09A8882:Vissidal Island Portal Gem
+C09A887D:Pack T'thuun
+C09A8849:Shoyanen's Portal Gem
+C09A87F3:Some Changes for February 2012
+C71EDC2D:Trade Note (250,000)
+C754CEBC:Aetheria Mana Stone
+C7CBA285:Sanamar Portal Gem
+C810AAD5:Town Network Portal Gem
+C09A8868:Prismatic Taper
+C09A8879:Lead Scarab
+C09A8878:Iron Scarab
+C09A8877:Copper Scarab
+C09A8876:Silver Scarab
+C09A8875:Diamond Scarab
+C09A8874:Gold Scarab
+C09A8873:Splitting Tool
+C09A8871:Aphus Lassel Portal Gem
+C09A8870:Chorizite
+C09A886F:Intricate Carving Tool
+C09A886E:Stamina Philtre
+C09A886D:Mana Philtre
+C09A886C:Pyreal Scarab
+C09A886B:Health Philtre
+C09A8867:Prismatic Taper
+C7A3EB60:Prismatic Taper
+C7A3E8D9:Prismatic Taper
+C7EEC60D:Prismatic Taper
+C09A8862:Pyreal Pea
+C09A8861:Pack
+C09A8853:Shield of Perfect Light
+C7A60AB4:Saffron
+C09A883B:Slashing Sceptre
+C09A8839:Acid Sceptre
+C09A883A:Electric Baton
+C09A8838:Piercing Sceptre
+800B3F6E:Virindi Essence
+C09A8837:Frost Baton
+C09A87FA:Piercing Sceptre
+C7556C53:Major Mana Stone
+C0927B01:Major Mana Stone
+800B3F6D:Virindi Essence
+C09AC9F3:Major Mana Stone
+C7915E2F:Major Mana Stone
+C7561AEB:Major Mana Stone
+8B9C7DC8:Empowered Amber: Tassets of Life
+C76825BB:Aetheria Powder
+C767679E:Imbue Swap Coin
+C7C8396E:Major Mana Stone
+C7D1E4CB:Major Mana Stone
+C7D1CDDD:Major Mana Stone
+84EBA915:Empowered Amber: Shield Reinforcement
+C7D1CDE6:Major Mana Stone
+C7D4B5B0:Salvage (72)
+C7F3ED8A:Salvage (84)
+C7EEE936:Salvage (97)
+C80EFBA3:Salvage (10)
+C83207A4:Salvage (19)
+
+Missing Exports - Possessed items that were not found:

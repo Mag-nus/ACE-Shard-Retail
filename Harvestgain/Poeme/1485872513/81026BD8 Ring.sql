@@ -1,0 +1,66 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (2164419544, 297, 1, 7524673) /* Generic */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (2164419544,   1,          8) /* ItemType - Jewelry */
+     , (2164419544,   5,         15) /* EncumbranceVal */
+     , (2164419544,   9,     786432) /* ValidLocations - FingerWear */
+     , (2164419544,  16,          1) /* ItemUseable - No */
+     , (2164419544,  18,          1) /* UiEffects - Magical */
+     , (2164419544,  19,      13308) /* Value */
+     , (2164419544,  65,        101) /* Placement - Resting */
+     , (2164419544,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (2164419544, 105,         10) /* ItemWorkmanship */
+     , (2164419544, 106,        238) /* ItemSpellcraft */
+     , (2164419544, 107,       2521) /* ItemCurMana */
+     , (2164419544, 108,       2521) /* ItemMaxMana */
+     , (2164419544, 109,        238) /* ItemDifficulty */
+     , (2164419544, 110,          0) /* ItemAllegianceRankLimit */
+     , (2164419544, 115,          0) /* ItemSkillLevelLimit */
+     , (2164419544, 131,         16) /* MaterialType - BlackOpal */
+     , (2164419544, 172,          3) /* AppraisalLongDescDecoration */
+     , (2164419544, 9015,         12) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (2164419544,   1, False) /* Stuck */
+     , (2164419544,  11, True ) /* IgnoreCollisions */
+     , (2164419544,  13, True ) /* Ethereal */
+     , (2164419544,  14, True ) /* GravityStatus */
+     , (2164419544,  19, True ) /* Attackable */
+     , (2164419544,  22, True ) /* Inscribable */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (2164419544,   5, -0.0555555555555556) /* ManaRate */
+     , (2164419544,  39,     0.5) /* DefaultScale */
+     , (2164419544, 8004,      10) /* PCAPRecordedWorkmanship */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (2164419544,   1, 'Ring') /* Name */
+     , (2164419544,  16, 'Ring of Lightning Protection') /* LongDesc */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (2164419544,   1,   33554691) /* Setup */
+     , (2164419544,   3,  536870932) /* SoundTable */
+     , (2164419544,   6,   67111919) /* PaletteBase */
+     , (2164419544,   8,  100668670) /* Icon */
+     , (2164419544,  22,  872415275) /* PhysicsEffectTable */
+     , (2164419544, 8001, 2166440088) /* PCAPRecordedWeenieHeader - Value, Usable, UiEffects, Container, ValidLocations, Burden, Workmanship, MaterialType */
+     , (2164419544, 8003,         18) /* PCAPRecordedObjectDesc - Inscribable, Attackable */
+     , (2164419544, 8005,     137345) /* PCAPRecordedPhysicsDesc - CSetup, ObjScale, STable, PeTable, AnimationFrame */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (2164419544,   1, 2164419531) /* Owner */
+     , (2164419544,   2, 2164419531) /* Container */
+     , (2164419544, 8000, 2164419544) /* PCAPRecordedObjectIID */;
+
+INSERT INTO `biota_properties_spell_book` (`object_Id`, `spell`, `probability`)
+VALUES (2164419544,  1071,      2) ;
+
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
+VALUES (2164419544, 67111925, 0, 0);
+
+INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
+VALUES (2164419544, 0, 83889680, 83889680, 0);
+
+INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, `order`)
+VALUES (2164419544, 0, 16778344, 0);

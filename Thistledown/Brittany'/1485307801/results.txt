@@ -1,0 +1,51 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-24-2017-pkt_2017-1-24_1485307505_log\pkt_2017-1-24_1485307505_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-24-2017-pkt_2017-1-24_1485305851_log\pkt_2017-1-24_1485305851_log.pcap
+
+Partial Exports - Missing appraisal info:
+AB842EB0:Pyreal
+AB842ED3:Foci of Artifice
+AB842E97:Foci of Verdancy
+AB842EE3:Prismatic Taper
+AB842EDB:Lead Scarab
+AB842EBA:Sack
+AB842EEB:Greeter's Key
+AB842EF3:Oil of Rendering
+AB842EA7:Tusker Head
+AB842E9F:Pyreal Scarab
+AB842EAF:Chainmail Leggings
+AB84287F:Chainmail Pauldrons
+AB842E96:Chainmail Bracers
+AB842ED2:Scalemail Gauntlets
+AB842EDA:Acid Nabut
+AB842EE2:Platemail Cuirass
+AB842EB9:Pyreal
+AB842EFB:Nekode
+AB842EEA:Flared Shirt
+AB842E9E:Sollerets
+AB842F13:Pyreal
+AB842EA6:Flared Pants
+AB842EF2:Gold Scarab
+AB842EAE:Sho Wand
+AB842F04:Olthoi Stamp
+AB842EFC:Covenant Sollerets
+AB842EFA:Armet
+AB842EE1:Nekode
+AB842ED9:Academy Coat
+AB842ED1:Virindi Stamp
+AB842EB8:Celdon Girth
+AB842F0B:Scalemail Sleeves
+AB842F03:Academy Mana Potion
+AB842F1B:Academy Mana Potion
+AB842ED8:Some Changes for February 2012
+AB842EE0:Pack Ancient Olthoi Queen
+AB842F2B:Asheron's Benediction
+ABA45600:Blackmoor's Favor
+ABA460F5:Quest Weapon Coin
+ABA46A78:Imbue Swap Coin
+AB842ED0:Academy Cestus
+AB842F33:Large Kite Shield
+
+Missing Exports - Possessed items that were not found:

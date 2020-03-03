@@ -1,0 +1,67 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Cyberkiller-01-31-2017-Random\pkt_2017-1-31_1485862412_log.pcap
+
+Partial Exports - Missing appraisal info:
+DD324246:Foci of Shadow
+DD324248:Pack
+DD32424A:Ust
+DD32424B:Deed
+DD32424C:Ornate Bone Key
+DD30B516:Ornate Bone Key
+DD2DDB78:Ornate Bone Key
+DD32424E:Ornate Bone Key
+DD31C694:Ornate Bone Key
+DD31A140:Ornate Bone Key
+DD31A149:Ancient Mhoire Coin
+DD31A12F:Ornate Bone Key
+DD31A16C:Ornate Bone Key
+DD31A152:Ornate Bone Key
+DD31A137:Ornate Bone Key
+DD31A174:Ornate Bone Key
+DD31A17C:Prismatic Taper
+DD31A164:Prismatic Taper
+DD324259:Ornate Bone Key
+DD32425B:Pack
+DD31A161:Lead Scarab
+DD31A146:Pyreal Scarab
+DD31A169:Copper Scarab
+DD31A14F:Diamond Scarab
+DD31A179:Platinum Scarab
+DD31A171:Mana Scarab
+DD31A157:Silver Scarab
+DD31A158:Pack
+DD31C68C:Foci of Verdancy
+DD32425D:Foci of Enchantment
+DD32426E:Foci of Artifice
+DD32425F:Town Network Portal Gem
+DD324278:Celestial Hand Initiate Armor Writ
+DD324279:Initiate's Treasure Key
+DD31C691:Trade Note (50,000)
+DD323F1E:Bag of Life Stone Chips
+DD323F1F:Bag of Life Stone Chips
+DD31A3BB:Blank Augmentation Gem
+DD324294:Gold Pea
+DD31C6E6:Stipend
+DD31C69F:Trade Note (250,000)
+DD31C70D:Salvage (70)
+DD324295:Pyreal Pea
+DD31A3E1:Salvage (82)
+DD324296:Blank Augmentation Gem
+DD31C6C7:Salvage (32)
+DD31C6CE:Bag of Life Stone Chips
+DD31C633:Trade Note (150,000)
+DD3242D7:Blank Augmentation Gem
+DD31C706:Silver Pea
+DD3242B3:Bag of Life Stone Chips
+DD31C732:Salvage (18)
+DD3242C5:A Page of the Book of Eibhil
+DD3242AE:Bag of Life Stone Chips
+DD3242AF:Bag of Life Stone Chips
+DD3242B0:Trade Note (250,000)
+DD3242B2:Bag of Life Stone Chips
+DD3242B4:Encapsulated Spirit
+DD3242B5:Bag of Life Stone Chips
+DD324314:Upper Insatiable Eater Jaw
+DD2F6F75:Blank Augmentation Gem
+
+Missing Exports - Possessed items that were not found:

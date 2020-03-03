@@ -1,0 +1,121 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap2\pkt_2017-1-31_1485871198_log.pcap
+
+Partial Exports - Missing appraisal info:
+ADDE5759:Sack
+ADDE5760:Pack
+ADDE5762:Blue Taper
+ADDE5763:Swamp Gem
+ADDE5767:Gem
+ADDE5768:Gem
+ADDE5769:Health Draught
+ADDE576B:Gem
+ADDE576C:Dryreach Key
+ADDE576D:Large Lugian Sinew
+ADDE576F:Grey Rat Tail
+ADDE5770:Beautiful key
+ADDE5773:Trade Note (1,000)
+ADDE5778:Introduction to Devana
+ADDE5777:Pack
+ADDE5779:Parchment
+ADDE577A:Parchment
+ADDE577B:Musansayn's House Directions
+ADDE577C:Parchment
+ADDE577D:Directions to Bandit Castle
+ADDE577E:Parchment
+ADDE577F:Tome
+ADDE5780:The Hundred Trackless Paths
+ADDE5781:Directions to Fort Witshire
+ADDE5783:Directions to the Cave of Alabree
+ADDE5784:Armoredillo Lair Directions
+ADDE5785:Directions to the Pillars of the Inner Sea
+ADDE5786:Yaraq Tunnels Directions
+ADDE5787:Directions to the Sea Temple Catacombs
+ADDE5788:Parchment
+ADDE5789:Scrawled Note
+ADDE578A:Pumpkin
+ADDE578B:Directions to Lugian post
+ADDE578C:Gifted Healing Kit
+ADDE578D:Pack
+ADDE578E:Scroll of Acid Bane II
+ADDE578F:Key
+ADDE5790:Key
+ADDE5791:Scroll of Flame Lure II
+ADDE5792:Drudge Charm
+ADDE5793:Dungeon Binar Directions
+ADDE5794:Directions to Web Maze
+ADDE5795:Introduction to Devana
+ADDE5797:Green Tea
+ADDE5799:Scroll of Weapon Tinkering Ignorance II
+ADDE579A:Trade Note (100)
+ADDE579B:Trade Note (100)
+ADDE579C:Pack
+ADDE579D:Parchment
+ADDE579E:Gem
+ADDE579F:Parchment
+ADDE57A0:Mana Stone
+ADDE57A1:Iron Scarab
+ADDE57A2:Gem
+ADDE57A4:Trade Note (100)
+ADDE57A5:Lead Scarab
+ADDE57A9:Zarea's Notes on Geomancy
+ADDE57AA:Dryreach Key
+ADDE57B1:Pack
+ADDE57AE:Trade Note (100)
+ADDE57B2:Argenory Plant
+ADDE57B3:Gem
+ADDE57B4:Asheron's Missive
+ADDE57B5:Copy of Witshire's Key
+ADDE57B6:Red Taper
+ADDE57B7:Scroll of Exhaustion Other II
+ADDE57B9:Brimstone
+ADDE57BA:Large Lugian Sinew
+ADDE57BB:Parchment
+ADDE57BC:Sword Glyph
+ADDE57BD:Trade Note (100)
+ADDE57BE:Trade Note (100)
+ADDE57BF:Trade Note (100)
+ADDE57C2:Scroll of Frailty Other IV
+ADDE57C7:Pack
+ADDE57C8:Old Scarlet Red Letter
+ADDE57C9:Copy of Witshire's Key
+ADDE57CA:Scroll of Item Tinkering Expertise Other II
+ADDE57CB:Dryreach Rumor
+ADDE57CC:Parchment
+ADDE57D1:Excellent Lockpick
+ADDE57D4:Scroll of Acid Stream V
+ADDE57D5:Trade Note (1,000)
+ADDE57E3:Calling Stone
+ADDE57EE:Textbook
+ADDE57F4:Minalim Plant
+ADDE57F5:Verdalim Plant
+ADDE57F6:Lapyan Plant
+ADDE57FA:Scroll of Regenerate Other V
+ADDE57FB:Scroll of Missile Weapon Mastery Self III
+ADDE57FF:Cell Key
+ADDE5800:Small Rusted Key
+ADDE5807:Mandrake Pea
+ADDE5809:Violet Pea
+ADDE580A:Gem
+ADDE5812:Turpeth Pea
+ADDE5813:Sickly Wisp Heart
+ADDE581C:Key to Hamud's Chambers
+ADDE581D:Fire Auroch Horn
+ADDE581E:Argenory Plant
+ADDE5820:Arm, Mind, Heart
+ADDE5821:Puzzle Box
+ADDE582A:Gem
+ADDE582D:Parchment
+ADDE582E:Berimphur Dye Pot
+
+Missing Exports - Possessed items that were not found:
+ADDE575F
+ADDE575E
+ADDE575D
+ADDD7CFC
+ADDDE447
+ADDDE449
+ADDDE448
+ADDE575B
+ADDE575A
+ADDE575C

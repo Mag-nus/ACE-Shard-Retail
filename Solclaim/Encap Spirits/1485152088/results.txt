@@ -1,0 +1,20 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-23_1485152082_log.pcap
+
+Partial Exports - Missing appraisal info:
+9A8174DD:Sack
+9A8174DC:Pyreal
+9A8174DE:Ust
+9A8174DF:Calling Stone
+9ACBE91E:Oil of Rendering
+9ACCB325:Oil of Rendering
+9ACBDD49:Blackmoor's Favor
+9ACCB8C6:Pathwarden Supply Key
+9ACCDCA5:Pack
+9ACCCD50:Pack
+9AC450B2:Pack
+9AC450AA:Pack
+9ACCDD22:Pack
+9ACC8BA3:Pack
+
+Missing Exports - Possessed items that were not found:

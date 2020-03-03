@@ -1,0 +1,79 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (2461310346, 30950, 2, 3331392) /* Clothing */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (2461310346,   1,          2) /* ItemType - Armor */
+     , (2461310346,   4,      65536) /* ClothingPriority - Feet */
+     , (2461310346,   5,        359) /* EncumbranceVal */
+     , (2461310346,   9,        256) /* ValidLocations - FootWear */
+     , (2461310346,  16,          1) /* ItemUseable - No */
+     , (2461310346,  18,          1) /* UiEffects - Magical */
+     , (2461310346,  19,       9350) /* Value */
+     , (2461310346,  28,        603) /* ArmorLevel */
+     , (2461310346,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (2461310346, 105,          6) /* ItemWorkmanship */
+     , (2461310346, 106,        285) /* ItemSpellcraft */
+     , (2461310346, 107,        938) /* ItemCurMana */
+     , (2461310346, 108,       1198) /* ItemMaxMana */
+     , (2461310346, 109,        285) /* ItemDifficulty */
+     , (2461310346, 110,          0) /* ItemAllegianceRankLimit */
+     , (2461310346, 115,          0) /* ItemSkillLevelLimit */
+     , (2461310346, 131,         62) /* MaterialType - Pyreal */
+     , (2461310346, 171,          7) /* NumTimesTinkered */
+     , (2461310346, 172,          3) /* AppraisalLongDescDecoration */
+     , (2461310346, 9015,         55) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (2461310346,   1, False) /* Stuck */
+     , (2461310346,  11, True ) /* IgnoreCollisions */
+     , (2461310346,  13, True ) /* Ethereal */
+     , (2461310346,  14, True ) /* GravityStatus */
+     , (2461310346,  19, True ) /* Attackable */
+     , (2461310346,  22, True ) /* Inscribable */
+     , (2461310346, 100, True ) /* Dyable */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (2461310346,   5, -0.0555555559694767) /* ManaRate */
+     , (2461310346,  13, 2.79999995231628) /* ArmorModVsSlash */
+     , (2461310346,  14,       1) /* ArmorModVsPierce */
+     , (2461310346,  15,       1) /* ArmorModVsBludgeon */
+     , (2461310346,  16, 1.23619723320007) /* ArmorModVsCold */
+     , (2461310346,  17, 1.25236093997955) /* ArmorModVsFire */
+     , (2461310346,  18, 0.8574538230896) /* ArmorModVsAcid */
+     , (2461310346,  19, 2.6389422416687) /* ArmorModVsElectric */
+     , (2461310346, 165,       1) /* ArmorModVsNether */
+     , (2461310346, 8004,       6) /* PCAPRecordedWorkmanship */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (2461310346,   1, 'Alduressa Boots') /* Name */
+     , (2461310346,  16, 'Alduressa Boots of Sword Mastery') /* LongDesc */
+     , (2461310346,  39, 'Camomille') /* TinkerName */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (2461310346,   1,   33559344) /* Setup */
+     , (2461310346,   3,  536870932) /* SoundTable */
+     , (2461310346,   6,   67108990) /* PaletteBase */
+     , (2461310346,   8,  100686347) /* Icon */
+     , (2461310346,  22,  872415275) /* PhysicsEffectTable */
+     , (2461310346, 8001, 2166702232) /* PCAPRecordedWeenieHeader - Value, Usable, UiEffects, Container, ValidLocations, Priority, Burden, Workmanship, MaterialType */
+     , (2461310346, 8003,         18) /* PCAPRecordedObjectDesc - Inscribable, Attackable */
+     , (2461310346, 8005,       6145) /* PCAPRecordedPhysicsDesc - CSetup, STable, PeTable */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (2461310346,   1, 1342178494) /* Owner */
+     , (2461310346,   2, 1342178494) /* Container */
+     , (2461310346, 8000, 2461310346) /* PCAPRecordedObjectIID */;
+
+INSERT INTO `biota_properties_spell_book` (`object_Id`, `spell`, `probability`)
+VALUES (2461310346,  1562,      2) 
+     , (2461310346,  2108,      2) 
+     , (2461310346,  2110,      2) 
+     , (2461310346,  2309,      2) ;
+
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
+VALUES (2461310346, 67116101, 160, 8);
+
+INSERT INTO `biota_properties_enchantment_registry` (`object_Id`, `enchantment_Category`, `spell_Id`, `layer_Id`, `has_Spell_Set_Id`, `spell_Category`, `power_Level`, `start_Time`, `duration`, `caster_Object_Id`, `degrade_Modifier`, `degrade_Limit`, `last_Time_Degraded`, `stat_Mod_Type`, `stat_Mod_Key`, `stat_Mod_Value`, `spell_Set_Id`)
+VALUES (2461310346, 0, 1562, 0, False, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)
+     , (2461310346, 0, 2108, 0, False, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)
+     , (2461310346, 0, 2110, 0, False, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);

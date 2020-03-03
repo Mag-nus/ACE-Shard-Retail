@@ -1,0 +1,202 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\pkt_2017-1-28_1485616386_log\pkt_2017-1-28_1485617791_log.pcap
+
+Partial Exports - Missing appraisal info:
+DA0654E4:Pyreal
+DA0654E5:Ust
+DA0654E6:Handy Healing Kit
+DA0654E7:Calling Stone
+DA0654E8:Greeter's Key
+DA0654E9:Untranslated Page #11
+DA0654EB:Blackmoor's Favor
+DA0654EA:Pack Ancient Olthoi Queen
+DA0654EC:Quest Weapon Coin
+DA065505:Shirt
+DA06550A:Pack Bael'Zharon
+DA065506:Shirt
+DA065507:Loose Shirt
+DA065508:Poet's Shirt
+DA065509:Pack Martine
+DA065522:Small Belt Pouch
+DA065523:Celdon Leggings
+DA065524:Celdon Leggings
+DA065525:Celdon Breastplate
+DA065526:Flaming War Axe
+DA065527:Frost Flamberge
+DA065528:Flaming Long Sword
+DA065533:Gorget
+DA065529:Slashing Staff
+DA06552A:Empyrean Over-robe
+DA06552B:Celdon Girth
+DA06552C:Olthoi Helm
+DA065553:Sack
+DA06552D:Chevron Cloak
+DA06552E:Baggy Shirt
+DA06552F:Baggy Tunic
+DA065530:Lace Shirt
+DA065531:Lace Shirt
+DA065532:Poet's Shirt
+DA065571:Small Belt Pouch
+DA065534:Flared Shirt
+DA065535:Heavy Bracelet
+DB4DF763:Small Belt Pouch
+DA065536:Gorget
+DA065537:Heavy Bracelet
+DA065538:Aetheria
+DA06553A:Pack
+DA06553B:Salvage (100)
+DA06553C:Salvage (100)
+DA06553D:Salvage (100)
+A871DE41:Pack
+DA06553E:Salvage (100)
+DA06553F:Flaming Khanda-handled Mace
+DA065540:Corsesca
+DA065541:Lightning Khanda-handled Mace
+DA065542:Lightning Dagger
+DA065543:Acid Khanda-handled Mace
+DA065544:Compass
+DA065545:Shou-jen Shozoku Sleeve Gauntlets
+DA065547:Bandana
+DA065548:Chainmail Girth
+DA06556F:Buckler
+DA065549:Loose Shirt
+DA06554A:Flared Pants
+DA06554B:Slippers
+DA06554C:Koujia Sleeves
+DA06554D:Tenassa Sleeves
+DA06554E:Shoes
+DA06558A:Ring
+DA06554F:Heavy Bracelet
+DA065550:Heavy Bracelet
+DA06556C:Ring
+DA065551:Cloth Gloves
+DA065552:Leather Vest
+DB4DF770:Ring
+DA065554:Salvage (100)
+DA065555:Salvage (100)
+DB4DF74A:Pack
+DA065556:Salvage (100)
+DA065557:Salvage (100)
+DA065558:Salvage (100)
+DA065559:Salvage (100)
+DA06555A:Salvage
+DA06555B:Salvage
+DA06556E:Ring
+DA06555C:Salvage
+DA06555D:Salvage (100)
+DB4DF774:Amulet
+DA06555E:Salvage (100)
+DA06555F:Salvage (100)
+DA065560:Salvage (100)
+DA065563:Piercing Baton
+DA065564:Trident
+DA065565:Electric Sceptre
+DA065566:Acid Khanda-handled Mace
+DA065567:Salvage (100)
+DA065568:Salvage (100)
+DA065569:Salvage (100)
+DA06556A:Salvage (100)
+DA06556B:Sedgemail Leather Shoes
+DA06556D:Chainmail Tassets
+DA065570:Flared Shirt
+DA065572:Salvage (100)
+DA065573:Salvage (100)
+DA065574:Salvage (100)
+DA065575:Salvage (100)
+DA065576:Salvage (100)
+DA065577:Salvage (100)
+DA065578:Salvage (100)
+DA065579:Salvage (100)
+DA06557A:Salvage (100)
+DA06557B:Salvage (100)
+DA06557C:Salvage (100)
+DA06557D:Salvage (100)
+DA06557E:Salvage (100)
+DA06557F:Salvage (100)
+DA065580:Salvage (100)
+DA065581:Salvage (100)
+DA065582:Salvage (100)
+DA065583:Salvage (100)
+DA065584:Salvage (100)
+DA065585:Salvage (100)
+DA065586:Salvage (100)
+DA065587:Salvage (100)
+DA065588:Salvage (100)
+DA065589:Salvage (100)
+DA06558B:Ring
+DA06558C:Chevron Cloak
+B354C517:Shoes
+DA06558D:Smock
+DA06558E:Flared Pants
+DA06558F:Flared Pants
+B3BD429E:Frost Bow
+B4ED54B0:Acid Bow
+B60DAF38:Studded Leather Breastplate
+B614A7C0:Lightning Stick
+91D2539C:Puzzle Box
+B6FB5CE7:Chainmail Breastplate
+B6FFE5D9:Celdon Sleeves
+B6FFE827:Amuli Leggings
+B70007FE:Circlet
+B7513F53:Fire Baton
+B8B9625A:Celdon Girth
+B8B97A6C:Lightning Child Essence (180)
+B8B9771E:Teardrop Crown
+B8B80EE0:K'nath T'soct Essence
+B8B9CF26:Loose Shirt
+B8BA66F4:Chainmail Pauldrons
+B8B83EC4:Leather Pauldrons
+B8B87CD7:Heavy Necklace
+BAD3915A:Chainmail Gauntlets
+BAD5EABF:Frost Tachi
+BAD5EABB:Horned Helm
+BAD61F49:Chevron Cloak
+BAD643D9:Electric Compound Bow
+DB4DF764:Heavy Necklace
+DB4DF765:Mechanical Scarab
+DB4DF766:Loose Shirt
+DB4DF767:Puffy Shirt
+DB4DF768:Trousers
+DB4DF769:Smock
+DB4DF76A:Trousers
+DB4DF76B:Loose Shirt
+DB4DF76C:Baggy Shirt
+DB4DF76D:Smock
+DB4DF76E:Flared Pants
+DB4DF76F:Heavy Bracelet
+DB4DF771:Ring
+DB4DF772:Heavy Bracelet
+DB4DF773:Heavy Necklace
+DB4DF775:Trousers
+DB4DF776:Doublet
+DB4DF777:Diforsa Pauldrons
+DB4DF778:Horned Helm
+DB4DF779:Koujia Breastplate
+DB4DF77A:Nariyid Gauntlets
+DB4DF77B:Heavy Bracelet
+DB4DF75B:Medicated Mana Kit
+DB4DF74B:Enchanter's Crystal
+DB4DF74C:Dodger's Crystal
+DB4DF74D:Deceiver's Crystal
+DB4DF74E:Brawler's Crystal
+DB4DF74F:Resister's Crystal
+DB4DF750:Zefir's Crystal
+DB4DF751:Rogue's Crystal
+DB4DF752:Oswald's Crystal
+DB4DF753:Warrior's Crystal
+DB4DF754:Corruptor's Crystal
+DB4DF755:Tusker's Jewel
+DB4DF756:Smithy's Crystal
+DB4DF757:Elysa's Crystal
+DB4DF758:Vaulter's Crystal
+DB4DF759:Tinker's Crystal
+DB4DF75A:Ben Ten's Crystal
+DB4DF75C:Evader's Crystal
+DB4DF75D:Invigorating Elixir
+DB4DF75E:Repugnant Eater Ripper Plaque
+DB4DF75F:Olthoi Ripper Reducer Plaque
+DB4DF760:Queen of Hands
+DB4DF761:Astyrrian's Jewel
+DB4DF762:Medicated Stamina Kit
+
+Missing Exports - Possessed items that were not found:

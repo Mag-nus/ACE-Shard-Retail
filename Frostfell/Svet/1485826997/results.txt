@@ -1,0 +1,87 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\random-running-around\partial_serpent_clan_training_camp.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\trello_datamining\1_pkt_2017-1-23_1485219113_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\random-running-around\pkt_2017-1-23_1485219113_log.pcap
+
+Partial Exports - Missing appraisal info:
+A85895F2:Foci of Strife
+A85895F3:Foci of Verdancy
+AA218CD3:Pyreal
+A85895F4:Foci of Enchantment
+A9E25C42:A List of Items
+A9F6FB57:Dansha-Ki's Gem of Portal Recall
+AA9AB3E0:Black Page of Salt and Ash
+AA91503E:Ancient Mhoire Coin
+A85895EE:Ust
+AADA318B:Splitting Tool
+A8EF60A5:Blackmoor's Favor
+AF42A970:Fez
+AF42A977:Fez
+AF48EC4B:Cloth Gloves
+AB2BC0ED:Cloth Gloves
+B1130320:Prismatic Taper
+AAF3E57E:Cloth Gloves
+B18B834E:Platinum Scarab
+B2FF25D1:Pyreal
+B3845DF8:Salvage (100)
+B37A7BD3:Blunt Baton
+B24CF728:Stipend
+B3E417F9:Acid Sceptre
+B37AF4E4:Salvage (27)
+B3F1E998:Pyreal
+B3E4B246:Ring
+DCB0A1C3:Staff
+B379FF0E:Chainmail Coif
+B0824C82:Trade Note (250,000)
+B3F1E446:Pyreal
+B388B72D:Prismatic Taper
+B370C2A5:Prismatic Taper
+B3CB3567:Nether Sceptre
+B3B6EFB5:Blunt Sceptre
+DCAF409D:Plain Lockpick
+B389961C:Salvage (100)
+B3EBC272:Salvage (40)
+B3EBC141:Salvage (76)
+B3C1ACBD:Salvage (44)
+A908A5B1:Lead Scarab
+B3E8747A:Slashing Sceptre
+B3EC5AE0:Olthoi Celdon Breastplate
+B3B35D7A:Olthoi Celdon Helm
+B335F4A7:Fire Baton
+B3E4104F:Frost Baton
+B3C1C85A:Encapsulated Spirit
+B3EBEF2B:Frost Sceptre
+DCAF404B:Reliable Lockpick
+B36DADDA:Baggy Shirt
+B385D8B3:Alduressa Leggings
+B3EBA15A:Salvage (100)
+B380A1A4:Sandals
+A90D1165:Copper Scarab
+A90E699E:Iron Scarab
+A9A58B90:Silver Scarab
+A9CAB3B7:Gold Scarab
+AADA6940:Pyreal Scarab
+B3E068FC:Slashing Baton
+DCAF307D:Large Armoredillo Hide
+B3838CD2:Nether Baton
+B3EC3E2A:Acid Baton
+B3720DEB:Electric Sceptre
+B3BBA09E:Electric Sceptre
+DCA915BA:Superb Lockpick
+B38AFB2C:Staff
+B3CFD42D:Salvage (65)
+AF42AD7A:Shoes
+AB2EA430:Qafiya
+B3E4000C:Teardrop Crown
+B3E40325:Slashing Staff
+B3CC4FB0:Acid Staff
+AF3FC100:Cloth Gloves
+B3E06DD8:Slashing Staff
+A9B3F0D4:Foci of Artifice
+DCB44464:Lilitha's Bow
+DCB2C47C:Brawler's Crystal
+DCAF4A5E:Blunt Sceptre
+
+Missing Exports - Possessed items that were not found:

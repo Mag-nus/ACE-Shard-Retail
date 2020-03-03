@@ -1,0 +1,155 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485839309_log.pcap
+
+Partial Exports - Missing appraisal info:
+9158D4D6:Sack
+9158D4D8:Blackmoor's Favor
+927E70A8:Mana Forge Key
+9158D51C:Pack
+92355CC7:Salvage (100)
+921F57C2:Salvage (100)
+924C722F:Salvage (100)
+92694E5D:Salvage (100)
+92741AA9:Aetheria
+926A6CAB:Aetheria
+91AE479F:Aetheria Mana Stone
+9265A38F:Gem of Stillness
+926480A9:Aphus Lassel Portal Gem
+91DA9503:Renegade Herbal Kit
+9252A3E0:Salvage (84)
+9158D51F:Glyph of Monster Appraisal
+9158D520:Glyph of Nether
+9158D528:Ink of Nullification
+91DA9C99:Renegade Herbal Kit
+9158D531:Pack
+91D2D9F2:Coalesced Aetheria
+9309DAE5:Olthoi Celdon Helm
+91DAFEDF:Life Giver's Crystal
+930BD334:Oswald's Crystal
+92F612FD:Observer's Crystal
+92F23CCB:Large Round Shield
+916DBD1A:Fire Staff
+930CD12F:Diforsa Gauntlets
+930586FA:Alacritous Ink
+916D1E62:Electric Staff
+916D060A:Electric Baton
+91B048F3:Electric Baton
+916DB6F9:Blunt Sceptre
+916CFF59:Blunt Sceptre
+9273B61A:Piercing Staff
+92669AD4:Lorica Boots
+9158D542:Glyph of Fletching
+9363340B:Parabolic Ink
+9158D543:Glyph of Heavy Weapons
+9158D544:Quill of Benevolence
+9158D546:Glyph of Item Tinkering
+9158D547:Ink of Separation
+9158D549:Glyph of Missile Weapons
+9158D54D:Glyph of Magic Item Tinkering
+9158D521:Ink of Conveyance
+91EE874B:Infused Quill of Introspection
+92EC86DE:Lucky Gold Letter
+9158C766:Pack
+91C226A2:Studded Leather Shirt
+91C1D18F:Crown
+91C40637:Alduressa Coat
+92F5F23F:Lucky Gold Letter
+91AC111B:Puzzle Box
+91AF311F:Lorica Breastplate
+92F9E84F:Lucky Gold Letter
+91B057D4:Coalesced Aetheria
+9156ECB3:Heavy Necklace
+9156ECB2:Yumi
+91DA9765:Leather Jerkin
+91DC0686:Cloth Gloves
+916C98A7:Olthoi Celdon Girth
+91D57546:Studded Leather Cuirass
+91EA9FE5:Olthoi Tassets
+91EB0C7C:Tenassa Sleeves
+92F4A0FF:Lucky Gold Letter
+91EBEB33:Chiran Helm
+91E620A8:Diforsa Girth
+91F46246:Ink of Direction
+9226FB03:Glyph of Leadership
+923A93EA:Glyph of Lockpick
+9241BC6D:Glyph of Void Magic
+92789671:Glyph of Dual Wield
+92E5710F:Glyph of Recklessness
+92C777CD:Glyph of Weapon Tinkering
+92C6CFE3:Glyph of Two Handed Combat
+930C7932:Glyph of Person Appraisal
+93091848:Glyph of Armor Tinkering
+93058290:Glyph of Shield
+93085CEF:Glyph of Summoning
+92FC0063:Glyph of Cooking
+92FC81DA:Glyph of Light Weapons
+9308B43E:Quill of Extraction
+92FA731F:Lucky Gold Letter
+92F3F999:Lucky Gold Letter
+92C0D798:Ancient Empyrean Trinket
+9177CA5C:Electric Staff
+9158D50D:Pack
+9156EC9B:Helmet
+92EE85EE:Scalemail Greaves
+916CD7CC:Olthoi Amuli Gauntlets
+92F56949:Olthoi Celdon Sollerets
+92F1F5F8:Round Shield
+92F5694E:Ring
+92F4237F:Olthoi Celdon Sleeves
+928493E5:Pants
+928493E6:Wide Breeches
+927195DA:Olthoi Sollerets
+9253EB62:Haebrean Tassets
+9258290A:Olthoi Celdon Sollerets
+92679F64:Celdon Girth
+9278012F:Slippers
+9269290A:Heavy Bracelet
+926948B4:Ring
+9259E35C:Pants
+9158CECD:Amuli Coat
+926BC93D:Olthoi Amuli Sollerets
+92592427:Olthoi Pauldrons
+927C8442:Scalemail Tassets
+920892C3:Loafers
+93642910:Ring
+932972E6:Baggy Breeches
+916DAA87:Slashing Sceptre
+9158D553:Glyph of Sneak Attack
+9158D54C:Glyph of Dirty Fighting
+9158D548:Glyph of Jump
+9158D51B:Glyph of Run
+9158D54E:Glyph of Melee Defense
+9158D51D:Glyph of Magic Defense
+9158D554:Glyph of Item Enchantment
+9158D52C:Glyph of Healing
+9158D552:Glyph of Missile Defense
+92160678:Glyph of Endurance
+9158D51E:Glyph of Health
+9305604D:Glyph of Strength
+930CBDA0:Glyph of Coordination
+9158D525:Glyph of Frost
+9158D519:Glyph of Slashing
+9158D51A:Glyph of Regeneration
+9158D545:Glyph of Mana
+9158D551:Glyph of Damage
+93242F04:Inflictive Quill of Partition
+9308DC12:Glyph of Armor
+91F44AA1:Quill of Introspection
+932518F3:Introspective Quill of Objectification
+9158D524:Glyph of Bludgeoning
+9158D522:Ink of Objectification
+9158D555:Ink of Formation
+9158D52D:Ink of Partition
+932A1349:Inscription of Swift Killer Self
+9158D541:Glyph of Quickness
+9158D54B:Glyph of Stamina
+9158D52A:Glyph of Mana Regeneration
+930DA959:Glyph of Self
+9158D518:Glyph of Stamina Regeneration
+9158D523:Quill of Infliction
+9367A875:Frost Cestus
+921C9148:Goggles
+9268184A:Olthoi Bracers
+9306D419:Dirk
+
+Missing Exports - Possessed items that were not found:

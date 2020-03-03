@@ -1,0 +1,204 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Immortalbob-1-31-17-Random-Pcaps-4\pkt_2017-1-30_1485824962_log.pcap
+
+Partial Exports - Missing appraisal info:
+800077BC:Pyre Shroud
+800077BA:Explorer's Backpack
+800077BB:Ancient Mhoire Coin
+800077BD:Hero Token
+800077BE:Eldrytch Web Trade Token
+800077BF:Hero Token
+800077C0:Ornate Gear Marker
+800077C1:Splitting Tool
+800077C2:Eldrytch Web Trade Token
+800077C3:Mhoire Castle Treasury Key
+800077C4:Arbitrator's Augmentation Token
+800077C5:Gladiator Diemos Token
+800077C6:Mhoire Castle Treasury Key
+800077C9:Mhoire Castle Treasury Key
+800077CB:Mhoire Castle Treasury Key
+800077CC:Dire Champion Token
+800077CD:Gladiator Diemos Token
+800077CE:Gladiator Diemos Token
+800077CF:A'nekshay Token
+800077D1:Small Olthoi Venom Sac
+800077D3:Stipend
+B877CAD2:Gauntlet Vault Key
+C25841EA:Colosseum Coin
+B9CDE2D5:Gauntlet Vault Key
+C2061B05:Gauntlet Vault Key
+BA8356DE:Gauntlet Vault Key
+C2493C2A:Gauntlet Vault Key
+B9EE2490:Gauntlet Vault Key
+C1B7C663:Gauntlet Vault Key
+C1699A5E:Gauntlet Vault Key
+C1E2BD96:Gauntlet Vault Key
+800077D7:Enhanced Red Empyrean Ring
+800077D9:Pack
+800077DA:Encrusted Bloodstone Jewel
+800077DB:Aetheria Desiccant
+800077DC:Elemental Talisman
+800077DD:Aetheria Powder
+800077DE:Ust
+800077DF:Pyreal Scarab
+800077E0:Silver Scarab
+800077E1:Platinum Scarab
+800077E2:Iron Scarab
+800077E3:Gold Scarab
+800077E4:Copper Scarab
+800077E7:Diamond Scarab
+800077E8:Chorizite
+800077E9:Platinum Scarab
+800077EA:Lead Scarab
+800077EB:Blue Taper
+800077EC:Prismatic Taper
+B7DBA78C:Mana Scarab
+C1D9C6DC:Silver Pea
+C2AFFC9C:Pyreal Pea
+800077F2:Pack
+800077F4:Broken Stone Tablet
+800077F3:Engraved A'nekshay Bracers
+800077F5:Amelia's Gargoyle Amulet
+800077FA:Titan Mana Charge
+800077F8:Enhanced Blue Empyrean Ring
+800077F9:Olthoi Slayer Carapace
+800077FB:Titan Mana Charge
+800077FC:Greater Mana Stone
+800077FD:Greater Mana Stone
+800077FE:Greater Mana Stone
+C0C6355D:Pyreal
+800077FF:Titan Mana Charge
+B972667B:Titan Mana Charge
+B9726469:Titan Mana Charge
+B9726479:Titan Mana Charge
+B97264B1:Titan Mana Charge
+BFFCAF14:Major Mana Stone
+C0D0E464:Major Mana Stone
+C15D4479:Major Mana Stone
+C2463B58:Major Mana Stone
+C0C6355C:Pyreal
+80007808:Pack
+8000780D:A Page of the Book of Eibhil
+80007819:Ornate Bone Key
+8D034C93:Gauntlet Coin
+8000781F:Pack
+8000781D:Soul Bound Staff
+8000782B:Rossu Morta Chapterhouse Recall Orb
+80007823:Weeping Wand
+8000784E:Pet Mouf Igloo
+80007895:Sturdy Bloodstone Wand
+80007821:Delicate Bloodstone Wand
+8000784F:Blank Augmentation Gem
+80007852:Ornate Bone Key
+80007853:Prickly Pear
+80007846:Colosseum Backpack
+C2E85731:Pyreal
+8000784D:Lady Tairla's Ancient Emblem of Mhoire
+BFAC7505:Major Mana Stone
+80007851:Eldrytch Web Commendation Ribbon
+80007856:Jester's Token
+80007857:Quest Weapon Coin
+80007858:Snow Tusker Blood Sample
+8000785A:Chunk of Ore
+8000785B:Adventurer's Token
+8000785D:Encapsulated Spirit
+8000785E:Marked Candy Wrapper
+8000785F:Lord Cynreft Mhoire's Signet Ring
+800077F6:Ornate Gear Marker
+80007817:The Master Token
+8000785C:Shard of the Curator of Torment's Mask
+8000780B:Lord Cynreft's Ancient Emblem of Mhoire
+80007859:Shard of the Curator of Torment's Mask
+80007862:Major Prismatic Stone
+8778D008:Shard of the Curator of Torment's Mask
+80007811:Shard of the Curator of Torment's Mask
+80007861:Colosseum Backpack
+80007866:Brine
+80007863:Heart of the Innocent
+80007865:Lesser Corrupted Essence
+80007869:Greater Mukkir Slayer Stone
+80007867:Luminous Pearl of Defending
+80007868:Luminous Crystal of Towering Defense
+8000786A:Aetheria Mana Stone
+8000786B:Asheron's Benediction
+80007874:Blackmoor's Favor
+8000786C:Luminous Pearl of Spirit Drinking
+8000786D:Society Gem of Lesser Luminance
+8000786E:Society Gem of Lesser Luminance
+8000786F:Greater Mukkir Slayer Stone
+80007870:Fadsahil's Portal Gem
+80007871:Eldrytch Web Stronghold Portal Gem
+80007872:Greater Mukkir Slayer Stone
+80007873:Society Gem of Lesser Luminance
+80007875:Greater Mukkir Slayer Stone
+80007876:Black Page of Salt and Ash
+80007877:Town Network Portal Gem
+80007878:Luminous Crystal of Surging Strength
+80007879:Celdiseth's Portal Gem
+80007813:Melee Defense Gem of Enlightenment
+BA184FFF:Lesser Corrupted Essence
+B84596C1:Spectral Crystal of the Life Giver
+B84B4E24:Maelstrom of Souls Gem
+85F68B75:Shard of the Curator of Torment's Mask
+886AC68B:Salvage (57)
+B97D7A07:Gauntlet Vault Key
+800077D5:Shard of the Curator of Torment's Mask
+8000780F:Shard of the Curator of Torment's Mask
+BAA93E6D:Gauntlet Vault Key
+80007812:Shard of the Curator of Torment's Mask
+80007818:Shard of the Curator of Torment's Mask
+C13DE873:Gauntlet Vault Key
+80007815:Shard of the Curator of Torment's Mask
+C1A00B78:Gauntlet Vault Key
+8E28CABD:Salvage (50)
+B8EC139F:Gauntlet Vault Key
+8E778260:Salvage (84)
+8F649474:Salvage (84)
+B9590758:Gauntlet Vault Key
+92EF1FBD:Salvage (88)
+93214D05:Salvage (31)
+B934B1C2:Gauntlet Vault Key
+B733D540:Salvage (31)
+BA111DD9:Gauntlet Vault Key
+B9AB87D0:Salvage (84)
+C2925957:Major Mana Stone
+80007820:Intricate Carving Tool
+B9D46D23:Luminous Crystal of Vitality
+BCC52BC6:Salvage (25)
+BD3362F5:Salvage (57)
+C2E67647:Gauntlet Vault Key
+C15D4E79:Salvage (56)
+C18F14FF:Spectral Crystal of the Corruptor
+C24A85D9:Gauntlet Backpack
+8C6396BC:Green Society Band
+C37727A7:Major Mana Stone
+8BFDCFE8:Yellow Society Locket
+C2A85EF2:Salvage (31)
+C374CF3E:Mana Scarab
+C2982AC8:Trade Note (250,000)
+C34233F2:Salvage (70)
+C37A5F01:Gauntlet Vault Key
+C3408ABD:Salvage (16)
+C33EAABE:Salvage (91)
+C37A5EFE:Gauntlet Coin
+C43E46C2:Gauntlet Vault Key
+C45A40BA:Prismatic Taper
+C45A4184:Major Mana Stone
+C45A4185:Major Mana Stone
+C45A4186:Major Mana Stone
+C46A5331:Contract for Kill: Rynthid Rare Boss
+C4A3C586:Gauntlet Vault Key
+C5109E37:Gauntlet Vault Key
+C57493AC:Gauntlet Vault Key
+8CFDCFAF:Salvage (31)
+BAD52D66:Gauntlet Vault Key
+8DD73CAE:Scroll of Radiant Blood Recall
+C3411F4F:Gold Pea
+C3B2B17F:Gauntlet Vault Key
+C3C3348C:Gauntlet Vault Key
+C4214F3D:Gauntlet Vault Key
+C46A50C8:Durable Legendary Key
+C467B6C5:Contract for Kill: Empowered Wisps
+C47A8289:Gauntlet Vault Key
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,82 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-30_1485820096_log.pcap
+
+Partial Exports - Missing appraisal info:
+ABF4785D:Loose Tunic
+ABF4785E:Flared Pants
+ABF4785F:Foci of Artifice
+ABF47860:Blackmoor's Favor
+ABF47862:Pathwarden Trinket
+ABF47861:Facility Hub Portal Gem
+ABF47863:Coalesced Mana
+ABF47864:Excellent Healing Kit
+ABF47865:Adept Healing Kit
+ABF47866:Pyreal
+ABF47867:Pyreal
+ABF47868:Salvage
+ABF47869:Sturdy Iron Key
+ABF4786A:A Ring of Acid Protection
+ABF4786B:Ring of Piercing Protection
+ABF4786C:Halved Cloak
+ABF47870:Tumerok Priest's Key
+ABF4786D:Chainmail Gauntlets
+ABF4786E:Holtburg Dungeon Directions
+ABF47872:Bone Engraved Key
+ABF47871:Faran Over-robe
+ABF47873:Bloodied Burun Hide
+ABF47874:Bloodied Burun Hide
+ABF47875:Bloodied Burun Hide
+ABF47876:Inscribed Purple Gem
+ABF47877:Pack T'thuun
+ABF47878:Morgluuk's Orders
+ABF47879:Pack
+ABF4787A:Pack
+ABF4787B:Treated Healing Kit
+ABF4787C:Treated Healing Kit
+ABF4787D:Treated Healing Kit
+ABF4787E:Treated Healing Kit
+ABF4787F:Spear
+ABF47880:Spada
+ABF47881:Treated Healing Kit
+ABF47882:Aphus Lassel Portal Gem
+ABF47883:Lytelthorpe Town Stamp
+ABF47884:Scarred Fleshy Journal
+ABF47885:Jexki Ki's Journal
+ABF47886:Cave Penguin Cake
+ABF47887:Crown
+ABF47888:A Certificate of Permission
+ABF47889:A Bronze Key
+ABF4788A:Koujia Sleeves
+ABF4788B:Facility Hub Portal Gem
+ABF4788C:K'nath Key
+ABF4788F:Health Tonic
+ABF4788D:Leather Boots
+ABF4788E:Knight's Crystal
+ABF47890:A Book of Quests for Young Explorers
+ABF47891:Key
+ABF47892:Small Rusted Key
+ABF47893:Cell Key
+ABF47894:Reliable Lockpick
+ABF47895:Scratched Key
+ABF47896:Frost Katar
+ABF47897:Sturdy Iron Key
+ABF47898:Sturdy Iron Key
+ABF47899:Flaming Spear
+ABF4789A:Flaming Knuckles
+ABF4789C:Superb Lockpick
+ABF4789B:Artificer's Crystal
+ABF4789D:Reliable Lockpick
+ABF4789E:Key
+ABF4789F:Health Tonic
+ABF478A0:Treated Healing Kit
+ABF478A1:Stamina Tonic
+ABF478A2:Koujia Breastplate
+ABF478A3:Tenassa Sleeves
+ABF478A4:Lancet
+ABF478A5:Aphus Lassel Portal Gem
+ABF478A7:Trade Note (50,000)
+ABF478A8:Trade Note (250,000)
+ABF478A9:Seasoned Explorer Katar
+ABF478AA:Amateur Explorer Yari
+
+Missing Exports - Possessed items that were not found:

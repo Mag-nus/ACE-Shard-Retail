@@ -1,0 +1,157 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-22_1485123130_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-22_1485122829_log.pcap
+
+Partial Exports - Missing appraisal info:
+D7FD42AC:Shoes
+D7FD42AA:Flared Shirt
+D7FD42AB:Flared Pants
+D7FD42AD:Pyreal
+D7FD42AE:Apple
+D7FD42AF:Greeter's Key
+D7FD42B0:Quartermaster's Workshop Key
+D7FD42B1:Treated Healing Kit
+D7FD42B2:Treated Healing Kit
+D7FD42B3:A Ring of Acid Protection
+D7FD42B4:Greater Mana Stone
+D7FD42B5:Old Scarlet Red Letter
+D7FD42B6:Large Round Shield
+D7FD42B7:Cloth Cap
+D7FD42B8:Treated Healing Kit
+D7FD42B9:Flaming Long Sword
+D7FD42BA:Treated Healing Kit
+D7FD42BB:Treated Healing Kit
+D7FD42BC:Treated Healing Kit
+D7FD42BD:Chainmail Gauntlets
+D7FD42BE:Gloves
+D7FD42BF:Shirt
+D7FD42C1:Pack
+D7FD42C0:Shirt
+D7FD42C2:Iron Heart
+D7FD42C3:Hammer of Frore
+D7FD42C4:Gromnie Hide Shirt
+D7FD42C5:Dho War Apprentice Robe
+D7FD42C6:Rabbit Carcass
+D7FD42C7:Studded Leather Leggings
+D7FD42C8:Shendolain Key
+D7FD42C9:Yifan Dress
+D7FD42CA:Treated Healing Kit
+D7FD42CB:Obsidian Jewel
+D7FD42CC:Jo
+D7FD42CD:Gromnie Hide Shirt
+D7FD42D1:Treated Healing Kit
+D7FD42CE:Obsidian Jewel
+D7FD42CF:Obsidian Jewel
+D7FD42D0:Frost Yaoji
+D7FD42D2:Treated Healing Kit
+D7FD42D3:Iron Heart
+D7FD42D4:Pack
+D7FD42D5:Orange Taper
+D7FD42D6:Green Taper
+D7FD42D7:Yellow Taper
+D7FD42D8:Indigo Taper
+D7FD42D9:Grey Taper
+D7FD42DA:White Taper
+D7FD42DB:Violet Taper
+D7FD42DC:Red Taper
+D7FD42DD:Pink Taper
+D7FD42DE:Turquoise Taper
+D7FD42DF:Blue Taper
+D7FD42E0:Pack
+D7FD42E1:Iron Scarab
+D7FD42E2:Copper Scarab
+D7FD42E3:Silver Scarab
+D7FD42E4:Gold Scarab
+D7FD42E5:Poplar Talisman
+D7FD42E6:Lead Scarab
+D7FD42E7:Hemlock Talisman
+D7FD42E8:Alder Talisman
+D7FD42E9:Yew Talisman
+D7FD42EA:Willow Talisman
+D7FD42EB:Cedar Talisman
+D7FD42EC:Ebony Talisman
+D7FD42ED:Ashwood Talisman
+D7FD42EE:Rowan Talisman
+D7FD42EF:Hazel Talisman
+D7FD42F0:Birch Talisman
+D7FD42F1:Blackthorn Talisman
+D7FD42F2:Pack
+D7FD42F3:Cinnabar
+D7FD42F4:Vitriol
+D7FD42F8:Cobalt
+D7FD42F5:Realgar
+D7FD42F6:Quicksilver
+D7FD42FF:Pack
+D7FD42F7:Verdigris
+D7FD42F9:Turpeth
+D7FD42FA:Cadmia
+D7FD42FB:Gypsum
+D7FD42FC:Colcothar
+D7FD42FD:Stibnite
+D7FD42FE:Brimstone
+D7FD4300:Dragonsblood
+D7FD4317:Pyreal
+D7FD4301:Wormwood
+D7FD4302:Comfrey
+D7FD430B:Pack
+D7FD4303:Mugwort
+D7FD4304:Mandrake
+D7FD4316:Pack
+D7FD4305:Saffron
+D7FD4306:Damiana
+D7FD4318:Diamond Heart
+D7FD4307:Ginseng
+D7FD4308:Bistort
+D7FD4319:Diamond Heart
+D7FD4309:Hawthorn
+D7FD430A:Yarrow
+D7FD431A:Diamond Heart
+D7FD430C:Powdered Moonstone
+D7FD430D:Powdered Agate
+D7FD430E:Powdered Bloodstone
+D7FD430F:Powdered Onyx
+D7FD431E:Scroll of Quickness Other VI
+D7FD4310:Powdered Quartz
+D7FD4311:Powdered Amber
+D7FD4320:Treated Healing Kit
+D7FD4312:Powdered Turquoise
+D7FD4313:Powdered Hematite
+D7FD4321:Treated Healing Kit
+D7FD4314:Powdered Carnelian
+D7FD4315:Powdered Malachite
+D7FD4322:Treated Healing Kit
+D7FD431C:Scroll of Light Weapon Mastery Other VI
+D7FD431D:Scroll of Heavy Weapon Mastery Self VI
+D7FD431F:Scroll of Missile Weapon Mastery Other VI
+D7FD4323:Treated Healing Kit
+D7FD4324:Treated Healing Kit
+D7FD4325:Treated Healing Kit
+D7FD4326:Treated Healing Kit
+D7FD4327:Treated Healing Kit
+D7FD4328:Intricate Carving Tool
+D7FD4329:Intricate Carving Tool
+D7FD432A:Orb
+D7FD4332:Cloth Cap
+D7FD432B:Heavy Bracelet
+D7FD432C:Dho Item Master Robe
+D7FD4337:Red Taper
+D7FD432D:Dho Item Master Robe
+D7FD432E:Dho Creature Master Robe
+D7FD432F:Dho Item Master Robe
+D7FD4330:Dho Creature Master Robe
+D7FD4331:Dho Creature Master Robe
+D7FD4336:Fadsahil's Portal Gem
+D7FD433A:Scrawled Note
+D7FD433C:Long Sword
+D7FD433D:Shoes
+D7FD433F:Green Taper
+D7FD4340:Hyssop
+D7FD4341:Chainmail Leggings
+D7FD4346:Some Changes for February 2012
+D7FD4342:Chainmail Hauberk
+D7FD4343:Chainmail Coif
+D7FD4348:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

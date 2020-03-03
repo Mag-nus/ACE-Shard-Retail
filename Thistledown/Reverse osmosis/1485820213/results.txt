@@ -1,0 +1,23 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-30_1485820096_log.pcap
+
+Partial Exports - Missing appraisal info:
+A0822432:Pyreal
+A084CE1C:Ust
+A084A9A8:Calling Stone
+A0849DE3:Mortar and Pestle
+A0848314:Blackmoor's Favor
+A0849DE0:Oil of Rendering
+A0849DE2:Oil of Rendering
+A0829913:Facility Hub Portal Gem
+A084C43F:Pyreal
+A0829907:Pathwarden Supply Key
+A084C440:Academy Coat
+A084C43E:Alembic
+A084C61F:Sack
+A084C460:Concentrated Aqua Incanta
+A084C45F:Colcothar Pea
+A084C461:Brimstone Pea
+A084C459:Cobalt Pea
+
+Missing Exports - Possessed items that were not found:

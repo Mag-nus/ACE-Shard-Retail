@@ -1,0 +1,58 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-packet-logs\pkt_2017-1-30_1485824307_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-packet-logs\pkt_2017-1-30_1485808222_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-packet-logs\pkt_2017-1-30_1485810830_log.pcap
+
+Partial Exports - Missing appraisal info:
+AE325663:Pyreal
+AE325664:Sack
+AE325665:Ust
+AE32566B:Letter From Home
+AE32566C:Bread
+AE60899E:Blackmoor's Favor
+AE5FF015:Facility Hub Portal Gem
+AE534919:Peerless Shivering Atlan Staff
+AE5BE877:Acid Axe
+AE5F5955:Pyreal Bar
+AE5F594F:Pyreal Bar
+AE5F8F9D:Frost Stick
+808032CA:Renegade Herbal Kit
+808032CB:Renegade Herbal Kit
+808032CD:Trade Note (250,000)
+AE5CD33E:Pack
+AE5CD357:Platemail Hauberk of the Ogre
+AE5CD33D:Dull Dagger
+AE597E94:Ice Tachi
+AE4B4956:Green Mire Yoroi Cuirass
+AE5032E8:Tibri's Fire Spear
+AE594294:Baron's Amulet of Life Giving
+AE56DC4A:Superior Helmet
+AE5CD392:Mace of the Explorer
+AE5CD345:Ruschk Hunter Leggings
+AE5CCD05:Trothyr's War Hammer
+AE5B73CF:Lilitha's Bow
+AE5CCD0E:Quarter Staff of Fire
+AE5CD462:Axe Head Helm
+AE5B7504:Ancient Arbalest
+AE5CD38F:Branith's Staff
+AE5CD378:Tetsubo Slugger
+AE5BEB32:Hammer of Lightning 
+AE5CD3DA:Crown of Bone
+AE5CD3FE:Dansha-Ki's Ring
+AE5CD390:Elysa's Wristlet
+AE5F8F9C:Acid Stick
+AE5F8F9B:Flaming Nabut
+AE5F8F9A:Acid Stick
+AE5D7E76:Aphus Lassel Portal Gem
+AE618D36:Aphus Lassel Portal Gem
+AE4683EF:Robe of the Tundra
+AE5CD2F1:Gloves
+AE59690F:Thorsten's Crystal
+AE59427E:Pearl of Defending
+AE623201:Pearl of Heart Seeking
+AE62DCDD:Evader's Crystal
+AE4A4346:Pearl of Blood Drinking
+
+Missing Exports - Possessed items that were not found:

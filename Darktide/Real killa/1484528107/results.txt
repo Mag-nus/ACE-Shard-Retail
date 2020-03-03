@@ -1,0 +1,25 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-15_1484528069_log.pcap
+
+Partial Exports - Missing appraisal info:
+D79B79AD:Baggy Shirt
+D79B79BB:Trousers
+D79B79AF:Leather Boots
+D79BC87A:Pyreal
+D79BC87B:Foci of Strife
+D79BC87C:Prismatic Taper
+D79BC87D:Lead Scarab
+D79BC87E:Bread
+D79BC880:Sack
+D79BC881:Greeter's Key
+D79BC882:Quartermaster's Workshop Key
+D79BC883:A Crumpled Note
+D79BC884:Studded  Basinet
+D79BC885:Chainmail Tassets
+D79BC886:Leather Breastplate
+D79BC887:Pack Bael'Zharon
+D79BC888:Some Changes for February 2012
+D79BC889:Blackmoor's Favor
+D79BC88A:Academy Wand
+
+Missing Exports - Possessed items that were not found:

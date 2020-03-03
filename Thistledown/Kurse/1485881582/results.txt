@@ -1,0 +1,133 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-31_1485881573_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT01_20170131\pkt_2017-1-25_1485403469_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-31_1485845020_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-31_1485845020_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-31_1485845020_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-31_1485855647_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-31_1485855647_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-31_1485855647_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-31_1485855647_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-31_1485855647_log.pcap
+
+Partial Exports - Missing appraisal info:
+AA3E80FA:Pyreal Scarab
+AA3E5244:Gold Scarab
+AA3E8121:Silver Scarab
+AA3E8106:Copper Scarab
+AA3E816F:Iron Scarab
+AA3F3979:Diamond Scarab
+AA3B4DDC:Lead Scarab
+AA3E8293:Splitting Tool
+AA3E8136:Prismatic Taper
+AA3E49A9:Gem of Stillness
+AA3E817C:Gem of Stillness
+AA3E821F:Pyreal
+AA3E50ED:Gem of Stillness
+AA3E50FD:Platinum Scarab
+AA430732:Drudge Charm
+AA3E3AB6:Copy of Witshire's Key
+AA3E813D:Blackmoor's Favor
+AA3E8271:Pack
+AA3E8172:Major Sparking Stone
+AA3E2B1C:Major Stinging Stone
+AA3E51C7:Major Shivering Stone
+AA420494:Black Fire Atlan Stone
+AA3E814C:Major Smoldering Stone
+AA40E816:Ring
+AA383BF7:Orb
+AA3E80EF:Lyceum Recall Gem
+AA40E31D:Aphus Lassel Portal Gem
+AA3394F4:Aphus Lassel Portal Gem
+AA430734:Excellent Healing Kit
+AA3E8072:Orb
+AA3E47E0:Orb
+AA420495:Excellent Healing Kit
+AA3E3B5F:Orb
+AA392F91:Excellent Healing Kit
+AA3E3081:Trade Note (100,000)
+AA3E527B:Treated Healing Kit
+AA3E819B:Treated Healing Kit
+AA413E91:Treated Healing Kit
+AA3E812D:High Mana Charge
+AA3E3B00:High Mana Charge
+AA3E80F1:High Mana Charge
+AA4318F9:High Mana Charge
+AA3E2E42:High Mana Charge
+AA3E50C2:High Mana Charge
+AA3E72E6:High Mana Charge
+AA3E7F65:Treated Healing Kit
+AA3E80B9:Treated Healing Kit
+AA3E8103:Stamina Elixir
+AA3E812A:Stamina Elixir
+AA3E821D:Pyreal
+AA3E820C:Pyreal
+AA3E3AC2:Pyreal
+AA3AF35E:Little Green Seeds
+AA3E819D:Fadsahil's Portal Gem
+AA3E3B10:Fadsahil's Portal Gem
+AA40E81F:Shoyanen's Portal Gem
+AA3E5252:Fadsahil's Portal Gem
+AA430739:Shoyanen's Portal Gem
+AA3DFAE6:Fadsahil's Portal Gem
+AA4175C5:Shoyanen's Portal Gem
+AA3E8127:Shoyanen's Portal Gem
+AA3E81C0:Fadsahil's Portal Gem
+AA3E80F3:Shoyanen's Portal Gem
+AA3E819E:Fadsahil's Portal Gem
+AA3E3D73:Ring
+AA3E48FB:Virindi Servant's Amulet
+AA47958D:Kabuton
+AA3D14F5:Heavy Bracelet
+AA3DFAE2:Focusing Stone
+AA479596:Hammer of Frore
+AA404E95:Sollerets
+AA3D1522:Sollerets
+ABF405CF:Sollerets
+AA3E81DE:Sturdy Iron Key
+AA3E80B6:Sturdy Iron Key
+AA3E8130:Sturdy Iron Key
+AA3E5196:Sturdy Iron Key
+AA3E3B26:Sturdy Iron Key
+AA3E5197:Sturdy Iron Key
+AA3E80B4:Sturdy Iron Key
+AA3E8089:Sturdy Iron Key
+AA3E8124:Sturdy Iron Key
+AA393E54:Sturdy Iron Key
+AA3E3B07:Sturdy Iron Key
+AA3E8077:Sturdy Iron Key
+AA420481:Sturdy Iron Key
+AA3A65DA:Sturdy Iron Key
+AA3B4C0B:Sturdy Iron Key
+AA3E8119:Sturdy Iron Key
+AA3E508C:Sturdy Iron Key
+AA3E81C2:Sturdy Iron Key
+AB12D0B8:Sollerets
+AA979913:Sollerets
+AAFCD624:Sollerets
+AAF97224:Sollerets
+AB05F8A6:Sollerets
+AB019199:Sollerets
+AA99B77C:Sollerets
+AAB0DE32:Sollerets
+AADFD000:Sollerets
+AAEADBD2:Sollerets
+AA8631A4:Sollerets
+AA991BA2:Sollerets
+AA63AC61:Sollerets
+AAE967CC:Sollerets
+AAEF4154:Sollerets
+AA647093:Sollerets
+AA884AAB:Sollerets
+AADFA48D:Sollerets
+AA9B6FA9:Sollerets
+AAE4344B:Sollerets
+AB0C0243:Sollerets
+AA86F17D:Sollerets
+AAC1C4B1:Sollerets
+AA479486:Sollerets
+AA4795F4:Sollerets
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,67 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-30_1485809504_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Mavness-02-01-2017-pcap\pcap\pkt_2017-1-23_1485228175_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-30_1485809504_log.pcap
+
+Partial Exports - Missing appraisal info:
+9C47E152:Pyreal
+9C484B17:Pyreal Scarab
+9C484B2A:Prismatic Taper
+9C484B3C:Colosseum Backpack
+9C48C356:Blank Augmentation Gem
+9C484B32:Platinum Scarab
+9C484B0D:Platinum Scarab
+9C484B05:Platinum Scarab
+9C484B20:Aetheria Desiccant
+9C484B18:Copper Scarab
+9C484B2B:Silver Scarab
+9C48C30D:Gold Scarab
+9C48C357:Blank Augmentation Gem
+9C48C35A:Colosseum Coin
+9C4480B5:A Note From Ciandra
+9C48C35C:Some Changes for February 2012
+9C48C310:Swamp Stone
+9C44447A:The Temple of Enlightenment
+9C48C312:Ust
+9C489329:Hennacin Plant
+9C49F2B3:Argenory Plant
+9C49FC67:Lapyan Plant
+9C48C30E:Colosseum Backpack
+9C48C311:Trade Note (250,000)
+9C48C315:Coruscating Olthoi Scent Gland
+9C48C313:Trade Note (10,000)
+9C48C316:Coruscating Olthoi Scent Gland
+9C48C319:Coruscating Olthoi Scent Gland
+9C4A083F:Minalim Plant
+9C424373:Indigo Taper
+9C47C194:Violet Taper
+9C48C31A:Colosseum Backpack
+9C48C31B:Colosseum Backpack
+9C48C32A:Colosseum Backpack
+9C48C32B:Colosseum Backpack
+9C48C331:Treated Healing Kit
+9C48C332:Treated Healing Kit
+9C48C333:Treated Healing Kit
+9C48C334:Treated Healing Kit
+9C48C335:Treated Healing Kit
+9C48C336:Treated Healing Kit
+9C48C337:Treated Healing Kit
+9C48C338:Treated Healing Kit
+9C48C339:Treated Healing Kit
+9C48C33A:Treated Healing Kit
+9C48C33B:Treated Healing Kit
+9C48C33C:Treated Healing Kit
+9C48C33D:Treated Healing Kit
+9C48C33E:Treated Healing Kit
+9C48C33F:Treated Healing Kit
+9C48C340:Treated Healing Kit
+9C48C341:Treated Healing Kit
+9C48C342:Treated Healing Kit
+9C48C343:Treated Healing Kit
+9C48C344:Treated Healing Kit
+9C48C354:Colosseum Backpack
+9C48C355:Colosseum Backpack
+
+Missing Exports - Possessed items that were not found:

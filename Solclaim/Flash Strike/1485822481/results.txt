@@ -1,0 +1,22 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-PCAP-Absolutely-Random-Gameplay\AC-pcap\pkt_2017-1-30_1485822424_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-PCAP-Absolutely-Random-Gameplay\AC-pcap\pkt_2017-1-30_1485818240_log.pcap
+
+Partial Exports - Missing appraisal info:
+8A811866:Sack
+8A810EB4:Ust
+8A7D14C5:Handy Healing Kit
+8A7D14FD:Handy Healing Kit
+8A811829:Blackmoor's Favor
+8A811814:Facility Hub Portal Gem
+8A811849:Pathwarden Trinket
+8A810F27:Great Mana Charge
+8A7D142C:Pathwarden Helm
+8A7D14BE:Pathwarden Gauntlets
+
+Missing Exports - Possessed items that were not found:
+8A7D185F
+8A8110F4
+8A8117E7

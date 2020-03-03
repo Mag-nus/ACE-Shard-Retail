@@ -1,0 +1,17 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\gdrive (tfarley)\Eichy\AC\pkt_2017-1-30_1485826049_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\gdrive (tfarley)\Eichy\AC\pkt_2017-1-30_1485825299_log.pcap
+
+Partial Exports - Missing appraisal info:
+DCD386F4:Qafiya
+DCD386F3:Puffy Tunic
+DCD386F2:Pantaloons
+DCD386F1:Leather Boots
+DCD386F0:Pack
+DCD386EF:Pack Levistras
+DCD386EE:Some Changes for February 2012
+DCD386ED:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

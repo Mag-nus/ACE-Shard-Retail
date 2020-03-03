@@ -1,0 +1,149 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485839402_log.pcap
+
+Partial Exports - Missing appraisal info:
+9159CF18:Foci of Artifice
+9159CF17:Foci of Verdancy
+9159CF16:Foci of Enchantment
+9159CF13:Pack
+9159CF12:Lead Scarab
+9159CF11:Iron Scarab
+9159CF10:Copper Scarab
+9159CF0F:Silver Scarab
+9159CF0C:Gold Scarab
+9159CEBD:Stipend
+8FC83F6D:Platinum Scarab
+9159CEE9:Blackmoor's Favor
+9159CF0E:Pyreal Scarab
+833F77EA:Long Sword
+833F781E:Long Sword
+93FFB9B7:Prismatic Taper
+93E31E43:Crown
+9159CF07:Pack
+9159CEE8:Ust
+92F29E35:Aetheria Mana Stone
+91C6F768:Massive Mana Charge
+93691A5C:Massive Mana Charge
+93691A92:Massive Mana Charge
+93691AA5:Massive Mana Charge
+9159CED1:Massive Mana Charge
+92F6967F:Aligned Mana Stone
+92F71BC1:Flaming Nekode
+93691ABF:Massive Mana Charge
+92E333D0:Flaming Morning Star
+942BFB05:Coalesced Aetheria
+94326614:Coalesced Aetheria
+94323F87:Signet Crown
+94313EF5:Diadem
+9430D95C:Coalesced Aetheria
+942BFB46:Crown
+9159CEF4:Pack
+93E28B99:Diadem
+93E20FF7:Signet Crown
+93E10EE7:Diadem
+93E05A73:Circlet
+93E07F06:Teardrop Crown
+93E2064E:Teardrop Crown
+93DFE9C3:Teardrop Crown
+93D8FEA6:Teardrop Crown
+93CABB42:Diadem
+93D09CF3:Crown
+93D24B15:Circlet
+93CB0BB2:Coronet
+93CB0194:Teardrop Crown
+93DACA12:Teardrop Crown
+93D23682:Signet Crown
+93D0650B:Teardrop Crown
+93D11EED:Crown
+93EF014D:Teardrop Crown
+9309DAD8:Signet Crown
+92652B70:Coronet
+930C8AA0:Teardrop Crown
+920B20D6:Teardrop Crown
+924A2C11:Pack
+930562E8:Teardrop Crown
+93E8398A:Teardrop Crown
+940620BD:Circlet
+93CA8304:Pyreal
+915AF186:Ring
+940E1908:Coronet
+916D6808:Ring
+915B5994:Loose Breeches
+91CE5E28:Pyreal
+916DBD0A:Quartered Cloak
+91EB9855:Sedgemail Leather Cowl
+9405D401:Pyreal
+916D280C:Long Leather Gauntlets
+9204522C:Olthoi Amuli Sollerets
+92279546:Mechanical Scarab
+930DA990:Salvage (11)
+940D01B6:Prismatic Taper
+940388F7:Trade Note (250,000)
+93FDB0DE:Teardrop Crown
+9418F354:Circlet
+940F202B:Teardrop Crown
+9416EF2B:Signet Crown
+93F9A0FC:Coronet
+94103401:Teardrop Crown
+9419F5C1:Teardrop Crown
+940FEC38:Diadem
+9409A797:Teardrop Crown
+941379FB:Coalesced Aetheria
+9406EB66:Prismatic Taper
+94121B2A:Coalesced Aetheria
+9409FF92:Crown
+9400C2D2:Prismatic Taper
+94077961:Teardrop Crown
+9402B5BF:Adherent's Crystal
+941A5B33:Oswald's Crystal
+9169EC34:Amuli Leggings
+92F71BC2:Heavy Bracelet
+92D88987:Heavy Bracelet
+940024F3:Prismatic Taper
+929556C7:Aetheria
+917A31B8:Aetheria
+941FEA03:Diadem
+94058FE2:Glyph of Armor Tinkering
+92BD501A:Aetheria
+93FE2008:Salvage (100)
+94061B18:Ancient Falatacot Trinket
+9158C4BD:Bronze Longbow
+93F7C177:Salvage (100)
+93E38D83:Halved Cloak
+93FE64F0:Salvage (77)
+940E1A68:Salvage (100)
+940C1474:Salvage (100)
+9408CF2F:Salvage (100)
+940D36BD:Salvage (100)
+9411DE5F:Salvage (100)
+9412217C:Salvage (100)
+9412D98B:Salvage (77)
+94116268:Salvage (100)
+94165A57:Coalesced Aetheria
+94163E78:Salvage (100)
+9417A976:Salvage (100)
+9416D367:Salvage (100)
+941DC6AB:Salvage (100)
+941ED400:Salvage (100)
+941FEA01:Coalesced Aetheria
+9419DE44:Signet Crown
+941F5293:Salvage (100)
+941FE8A5:Coalesced Aetheria
+94202043:Salvage (40)
+94161DEE:Salvage (100)
+9428E08E:Salvage (20)
+942BEEB6:Salvage (100)
+9430F144:Salvage (100)
+9430B5FF:Salvage (41)
+94329664:Salvage (44)
+943299CB:Salvage (100)
+942D338C:Salvage (63)
+94319CA3:Salvage (69)
+9432B741:Salvage (100)
+942BF6CF:Salvage (16)
+9430CAEC:Salvage (100)
+9159CEB2:Enhanced Assault Axe
+9158C4C1:Bronze Cestus
+9158C4C0:Bronze Morning Star
+
+Missing Exports - Possessed items that were not found:

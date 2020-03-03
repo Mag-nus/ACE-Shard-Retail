@@ -1,0 +1,21 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Random_Logs\pkt_2017-1-29_1485730909_log.pcap
+
+Partial Exports - Missing appraisal info:
+C7EBE562:Tunic
+C7EBE563:Pants
+C7EBE564:Shoes
+C7EBE566:Sack
+C7EBE567:Ust
+C7EBE568:Calling Stone
+C7EBE569:Pathwarden Token
+C7EBE56A:Training Ken
+C7EBE56B:Training Shortbow
+C7EBE56C:Arrow
+C7EBE56D:Round Shield
+C7EBE56E:Handy Healing Kit
+C7EBE56F:Bread
+9CA12CF0:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:
+C7EBE565

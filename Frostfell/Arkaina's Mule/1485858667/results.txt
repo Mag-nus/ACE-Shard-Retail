@@ -1,0 +1,161 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Cyberkiller-01-31-2017-Random\pkt_2017-1-31_1485858208_log.pcap
+
+Partial Exports - Missing appraisal info:
+DD30D44B:Calling Stone
+DD30D44D:Oil of Rendering
+DD30D44F:Pack
+DD30D451:Sanguinary Aegis
+DD30D45D:Chandelier
+DD30D45E:Fireworks
+DD30D458:Platemail Greaves
+DD30D45B:Buckler
+DD30D45C:Cowl
+DD30D460:Ornate Fountain
+DD30D466:Holiday Feast
+DD30D463:Academy Stamp
+DD30D465:Orb
+DD30D467:Bedroll
+DD30D468:Pack
+DD30D46B:Tower Shield
+DD30D477:Evil Couch
+DD30D473:Shadowfire Isparian Claw
+DD30D474:Holiday Lights
+DD30D475:Silken Wrap
+DD30D479:Yard Balloons
+DD30D47A:Screen
+DD30D47B:Wi Stamp
+DD30D47C:Flaming Katar
+DD30D47E:Bael'Zharon Stamp
+DD30D47F:Skull Stamp
+DD30D480:Skeleton's Skull
+DD30D481:Pack
+DD30D48A:Garden Drudge
+DD30D484:Flaming Long Sword
+DD30D48B:Doll House
+DD30D48C:Chalk Board
+DD30D48D:Faran Item Master Robe
+DD30D48E:Faran Item Master Robe
+DD30D48F:Faran Item Master Robe
+DD30D490:Tusker Head
+DD30D492:Virindi Essence
+DD30D493:Frost Claw
+DD30D494:Casting Staff Stamped Spectral Ingot
+DD30D4A7:Sunflower
+DD30D495:Ravener Guts
+DD30D496:Aerfalle's Pallium
+DD30D497:Empyrean Spherule
+DD30D49A:Pack
+DD30D49C:Tusker Bone Sword
+DD30D4A1:Mages Loop
+DD30D4A0:Ring of Enchantment
+DD30D4A3:Clasp of the Heart
+DD30D4A4:Report to Niarltah
+DD30D4A5:Armored Sclavus Head
+DD30D4A6:Piercing Compound Bow
+DD30D4A8:Doorbell
+DD30D4AA:Through the Portal Years
+DD30D4AD:Wand of Black Fire
+DD30D4AE:Abominable Pack Snowman
+DD30D4AF:Abominable Pack Snowman
+DD30D4BA:Skeleton's Skull
+DD30D4B3:Pack
+DD30D4B4:Electric Board with Nail
+DD30D4BB:Twisted Dark Key
+DD30D4B7:Frost Atlatl
+DD30D4BE:Lapyan Plant
+DD30D4C2:Pack
+DD30D4C3:Gem of Harbinger's Acid Barrier
+DD30D4C5:Slashing Compound Bow
+DD30D4DC:Twisted Dark Key
+DD30D4DB:Pack
+DD30D4C9:Studded Leather Pauldrons
+DD30D4CC:Heavy Bracelet
+DD30D4CE:Loafers
+DD30D4CF:Leather Tassets
+DD30D4D1:Empyrean Over-robe
+DD30D4D5:Studded Leather Breastplate
+DD30D4D7:Ring
+DD30D4DE:Slashing Bow
+DD30D4E0:Crown
+DD30D4E1:Beret
+DD30D4E3:Olthoi Alduressa Boots
+DD30D4E5:Cloth Gloves
+DD30D4E6:Sedgemail Leather Sleeves
+DD30D4E8:Chainmail Gauntlets
+DD30D4E9:Lorica Boots
+DD30D4EA:Sedgemail Leather Pants
+DD30D4EB:Olthoi Koujia Gauntlets
+DD30D4EC:Knorr Academy Tassets
+DD30D4ED:Tenassa Sleeves
+DD30D4F1:Crown
+DD30D4F2:Leather Vest
+DD30D4F3:Turban
+DD30D4F4:Heavy Bracelet
+DD30D4F5:Heavy Necklace
+DD30D4F6:Heavy Necklace
+DD30D4FF:Cloak
+DD30D4F9:Frost Moar Essence (180)
+DD30D4FB:Acid Skeleton Bushi Essence (180)
+DD30D4FC:Frost Spectre Essence (180)
+DD30D4FE:Quartered Cloak
+DD30D500:Quartered Cloak
+DD30D501:Chevron Cloak
+DD30D502:Chevron Cloak
+DD30D503:Quartered Cloak
+DD30D504:Halved Cloak
+DD30D507:Heavy Bracelet
+DD30D509:Gorget
+DD30D50A:Ring
+DD30D50C:Ring
+DD30D50D:Baggy Pants
+DD30D50E:Alduressa Boots
+DD30D50F:Yoroi Breastplate
+DD30D510:Chiran Sandals
+DD30D512:Long Leather Gauntlets
+DD30D513:Lorica Breastplate
+DD30D515:Alduressa Coat
+DD30D516:Olthoi Koujia Sollerets
+DD30D517:Fez
+DD30D518:Olthoi Celdon Sleeves
+DD30D519:Platemail Cuirass
+DD30D51A:Lyceum Hood
+DD30D51C:Olthoi Alduressa Helm
+DD30D51D:Lyceum Hood
+DD30D51F:Platemail Vambraces
+DD30D520:Haebrean Breastplate
+DD30D521:Olthoi Alduressa Coat
+DD30D523:Olthoi Koujia Sollerets
+DD30D524:Studded Leather Shirt
+DD30D525:Tenassa Breastplate
+DD30D526:Olthoi Amuli Coat
+DD30D527:Scalemail Girth
+DD30D528:Studded Leather Bracers
+DD30D52A:Chainmail Greaves
+DD30D52B:Yaoji
+DD30D52D:Chainmail Leggings
+DD30D52E:Diforsa Helm
+DD30D530:Diadem
+DD30D531:Nariyid Boots
+DD30D533:Lorica Leggings
+DD30D534:Olthoi Amuli Coat
+DD30D536:Chainmail Gauntlets
+DD30D537:Chainmail Leggings
+DD30D539:Knorr Academy Helm
+DD30D53A:Kasa
+DD30D53B:Frost Compound Bow
+DD30D53C:Frost Wisp Essence (180)
+DD30D53E:Chevron Cloak
+DD30D541:Olthoi Koujia Sleeves
+DD30D542:Leather Pants
+DD30D54F:Ring
+DD30D544:Koujia Breastplate
+DD30D545:Cloth Cap
+DD30D547:Lightning Skeleton Bushi Essence (180)
+DD30D548:Lightning Skeleton Bushi Essence (180)
+DD30D549:Necklace
+DD30D54A:Ring
+DD30D54C:Compass
+DD30D54E:Ring
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,27 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-31_1485852621_log.pcap
+
+Partial Exports - Missing appraisal info:
+AE7701B3:Lead Scarab
+AE7701B4:Crude Lockpick
+AE7701B5:Handy Healing Kit
+AE7701B6:Letter From Home
+AE7701B7:Bread
+AEC25E05:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:
+AE7701B2
+AE7701B0
+AE7701AF
+AE7701AE
+AE7701AD
+AE7701AC
+AE7701AB
+AE7701AA
+AE7701A9
+AE7701A7
+AE7701B1
+AE7701A8
+AE7701A6
+AE7701A5
+AE7701A4

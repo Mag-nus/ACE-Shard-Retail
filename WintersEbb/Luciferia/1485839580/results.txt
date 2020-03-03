@@ -1,0 +1,119 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485839309_log.pcap
+
+Partial Exports - Missing appraisal info:
+9156ECB8:Pathwarden Trinket
+9156ECB6:Cloak
+9156ECB5:Platemail Gauntlets
+9156ECB4:Pack
+9156EC74:Salvage (100)
+919BF4A6:Salvage (100)
+9156ECA7:Pack
+91D08466:Salvage (100)
+91B9DAAF:Salvage (100)
+91802E41:Mana Forge Key
+9156EC6B:Salvage (100)
+917C7724:Salvage (100)
+93269DD5:Promissory Note
+91B297DA:Salvage (100)
+9156EC68:Salvage (100)
+9156EC99:Pack
+91B585AA:Salvage (100)
+918C6696:Salvage (33)
+9156ECA5:Lead Scarab
+91A94CAE:Salvage (100)
+91C853F4:Salvage (100)
+9156ECA3:Iron Scarab
+91B02250:Gorget
+9158C7D8:Salvage (100)
+9156EC9D:Foci of Verdancy
+9156EC63:Salvage (89)
+9156EC61:Salvage (76)
+9156ECA4:Copper Scarab
+9156EC62:Salvage (55)
+91C84B8E:Salvage (100)
+9156ECA6:Silver Scarab
+91A5DCBB:Salvage (100)
+91B13744:Salvage (100)
+9156EC9E:Prismatic Taper
+9190FB7F:Salvage (100)
+91B28577:Salvage (100)
+9156EC5E:Platinum Scarab
+91C84A0B:Salvage (100)
+91AA727D:Salvage (100)
+9156EC92:Pack
+91C3E0F0:Salvage (100)
+91CBA461:Salvage (100)
+91B6A3F7:Salvage (100)
+91D55644:Salvage (100)
+91C4322D:Salvage (100)
+91DD13ED:Salvage (100)
+9156EC89:Stipend
+91B00F39:Nariyid Breastplate
+9156EC9A:Foci of Artifice
+9156EC84:Iasparailaun
+918625AC:Salvage (100)
+91DAC9FB:Salvage (100)
+9156EC80:Ust
+91D985A5:Salvage (100)
+91C407B6:Salvage (100)
+9156EC7C:Alembic
+91D5A695:Salvage (100)
+9156EC91:Suikan Life Master Robe
+9156EC5D:Pyreal
+9156EC8E:Trade Health Elixir
+9156EC85:Ring
+9156EC8B:Chevron Cloak
+9156EC88:Suikan War Master Robe
+9156EC87:Chalice
+9156EC83:Concentrated Bloodseeker Oil
+9156EC82:Concentrated Bloodhunter Oil
+9156EC7F:Concentrated Aqua Incanta
+9156EC7E:Wrapped Bundle of Deadly Armor Piercing Arrowheads
+9156EC7D:Wrapped Bundle of Deadly Blunt Arrowheads
+9156EC7B:Life Magic Gem of Enlightenment
+9156EC7A:Blackmoor's Favor
+9156EC78:Pack
+9156EC76:Salvage (100)
+9156EC75:Salvage (100)
+9156ECA9:Titan Mana Charge
+9156EC73:Salvage (100)
+9156EC70:Salvage (100)
+9156ECAF:Titan Mana Charge
+9156EC6D:Salvage (100)
+9156EC6C:Salvage (100)
+9156ECAA:Titan Mana Charge
+9156EC6A:Salvage (100)
+9156EC69:Salvage (100)
+9156ECAB:Titan Mana Charge
+91861D7A:Salvage (100)
+9166C73F:Salvage (100)
+9156ECAE:Titan Mana Charge
+9156EC59:Salvage (100)
+9156EC6F:Salvaged  (100)
+9156ECAD:Titan Mana Charge
+9247F35B:Salvage (100)
+92616865:Salvage (100)
+9227DBD1:Gem of Lowering Quickness
+9156EC81:Imbue Swap Coin
+9158C784:Salvage (100)
+9227DBCE:Gem of Lowering Quickness
+9210EA91:Salvage (100)
+923C8B31:Leather Helm
+9253AD34:Salvage (100)
+926BBD5A:Celdon Leggings
+925859E7:Studded Leather Pauldrons
+9250F29F:Salvage (100)
+9249B4AA:Salvage (100)
+927E4D6B:Salvage (11)
+92836902:Salvage (21)
+927C7FF8:Salvage (8)
+927D57AC:Salvage (8)
+92BD4067:Salvage (87)
+92AB85AE:Salvage (100)
+92D05AC1:Salvage (100)
+92CC3CD0:Salvage (100)
+92D58029:Salvage (100)
+9357DEBE:Shoes
+
+Missing Exports - Possessed items that were not found:

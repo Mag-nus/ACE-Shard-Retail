@@ -1,0 +1,14 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\pkt_2017-1-30_1485843220_desc\pkt_2017-1-30_1485843426_log.pcap
+
+Partial Exports - Missing appraisal info:
+C6C69F52:Sack
+C6C69F53:Old Stamped Holtburg Scarlet Red Letter
+C6C69F54:Gharu'ndim Wand
+C6C69F55:Aluvian Wand
+C6C69F58:Some Changes for February 2012
+C6C69F56:Pack Scarecrow
+C6C69F57:Pack Levistras
+C6C69F59:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

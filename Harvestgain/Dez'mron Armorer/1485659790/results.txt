@@ -1,0 +1,25 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\AC-Packet-Captures\AC Packet Captures\pkt_2017-1-28_1485658926_log.pcap
+
+Partial Exports - Missing appraisal info:
+92BCB703:Pyreal
+92BCB70B:Ust
+92BCB70D:Core Plating Integrator
+92BCB70E:Core Plating Deintegrator
+92BCB716:Pack
+92BCB719:Covenant Shield
+92BCB71A:Covenant Shield
+92C89A08:Covenant Shield
+92BCB72A:Training Wand
+92BCB71E:Crown
+92BCB720:Cloth Gloves
+92BCB721:Lorica Sleeves
+92BCB723:Tenassa Leggings
+92BCB724:Tenassa Leggings
+92BCB72B:Lead Scarab
+92BCB725:Diadem
+92BCB727:Nariyid Breastplate
+90E08921:Alduressa Boots
+92DE0132:Chainmail Girth
+
+Missing Exports - Possessed items that were not found:

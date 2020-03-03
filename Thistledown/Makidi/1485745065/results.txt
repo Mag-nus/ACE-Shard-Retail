@@ -1,0 +1,177 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\trello_datamining\1_Ridley-01-30-2017-olthoi-horde-nest-bandit-castle\pkt_2017-1-29_1485744527_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ridley-01-30-2017-olthoi-horde-nest-bandit-castle\pkt_2017-1-29_1485744527_log.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\194_Ridley-Amanah-Final-Random-2\pkt_2017-1-29_1485744527_log.pcap
+
+Partial Exports - Missing appraisal info:
+823D4644:Heart of Shadow
+823D4645:Skull of Avoren Palacost
+823D4646:Party Hat
+823D4647:Decanter of Essence
+823D4648:Decanter of Essence
+823D4649:Olthoi Atlatl
+823D464A:Assault Atlatl
+823D464B:Skeletal Atlatl
+823D464C:Tumerok Hunting Brace
+823D464D:Realaidain Raiment
+823D464E:Fishing Pole
+823D464F:Olthoi Resurgent
+823D4650:Taulandoi
+823D4652:Elemental Master Robe
+823D4653:Elemental Master Robe
+823D4696:Pyreal
+823D4654:Martine's Robe
+823D4655:Martine's Mask
+823D4659:Chicken Hat
+823D4656:Thaumaturgic Plate Leggings
+823D4657:Thaumaturgic Plate Girth
+823D4658:Heavy Weapons Specialist's Gauntlets
+823D465A:Ancient Diamond Idol
+823D465B:Pack Bael'Zharon
+823D465C:Rare Red Pack Idol
+823D465D:Pack
+823D465E:Shadow Fragment
+823D465F:Dark Shard
+823D4660:Dark Sliver
+823D4661:Caulnalain Key
+823D4662:Small Shard
+823D4663:Pack
+823D4664:Overlord's Sword
+823D4665:Royal Runed Flamberge
+823D4666:Banished Blade
+823D4667:Enhanced Crystal Sword
+823D4668:Iasparailaun
+823D466A:Rusted Tachi
+823D466D:Copper Cutlass
+823D466F:Blade of the Fallen
+823D4670:Assault Sword
+823D4671:Ice Tachi
+823D4673:Blade of the Quiddity
+823D4674:Pack
+823D4675:Salvage (100)
+823D4676:Salvage (100)
+823D4677:Salvage (100)
+823D4678:Salvage (100)
+823D4685:Pack
+823D4679:Salvage (100)
+823D467A:Salvage (100)
+823D4687:Deadly Hollow Sword
+823D467B:Salvage (100)
+823D467C:Salvage (100)
+823D4688:Phantom Sword
+823D467D:Salvage (100)
+823D467E:Salvage (100)
+823D4689:Battered Old Sword
+823D467F:Salvage (100)
+823D4680:Salvage (100)
+823D468D:Sword of Frozen Fury
+823D4681:Salvage (100)
+823D4682:Salvage (100)
+823D468E:Bandit Simi
+823D4683:Salvage (100)
+823D4684:Salvage (100)
+823D468F:Tachi of Grace
+823D468A:Princely Runed Flamberge
+823D468B:Palenqual's Ukira of the Vortex
+823D46B3:Worn Plain Key
+823D4690:Ultimate Singularity Sword
+823D4691:Perfect Isparian Sword
+823D4693:Bludgeoning Sword
+823D4692:Crystal Sword
+823D4695:Pack Asheron
+823D4697:Pack Burun Kukuur
+823D4698:Asheron's Supreme Raiment
+823D4699:Pack
+823D469E:Ruddy Gromnie Hide
+823D469A:Hoary Mattekar Hide
+823D469B:Bronze Armoredillo Spine
+823D469D:Carenzi Stalker Pelt
+823D469C:Bronze Armoredillo Spine
+823D469F:Rust Gromnie Tooth
+823D46A0:Small Armoredillo Hide
+823D46A1:Reedshark Hide
+823D46A2:Reedshark Hide
+823D46A3:Idol Gem
+823D46A4:Bloodied Burun Hide
+823D46A5:Idol Gem
+823D46A6:Idol Gem
+823D46A7:Island Armoredillo Spine
+823D46A8:Island Armoredillo Spine
+823D46AC:Ruddy Gromnie Hide
+823D46A9:Island Armoredillo Spine
+823D46AA:Island Armoredillo Spine
+823D46AD:Ivory Tooth Dart
+823D46AB:Sturdy Armoredillo Hide
+823D46AE:Large Sclavus Hide
+823D46AF:Pack Gaerlan
+823D46B0:Homecoming Pennant
+823D46B1:Olthoi Flag
+823D46B4:Worn Odd Key
+823D46B2:Aerfalle's Pallium
+823D46B5:Worn Old Key
+823D46B6:Worn Small Key
+823D46B7:Worn Strange Key
+823D46B8:Worn Rusty Key
+823D46B9:A silvery, mysterious key
+823D46BA:Pack Scarecrow
+823D46BB:Pack Grael
+823D46BC:Pack Martine
+823D46BD:Elysa's Favor
+823D46BE:Saulandoi
+823D46C0:Ursuin Toy
+823D46C2:Faran Robe with Hood
+823D46BF:Tipped Pack Cow
+823D46C1:Pack Lugian
+823D46C3:Pack Levistras
+823D46C4:Pack Pumpkin Lord
+823D46C5:Abominable Pack Snowman
+823D46C6:Pack Scold
+823D46C7:Pack Tower Guardian
+823D46C8:Holiday Lights
+823D46C9:Globe of Auberean
+823D46CA:Pack
+823D46CF:Ring of Enchantment
+823D46CB:Asheron's Supreme Raiment
+823D46CC:Asheron's Supreme Raiment
+823D46CD:Hearty Reedshark Robe
+823D46CE:Hearty Reedshark Robe
+823D46D0:Clasp of the Heart
+823D46D1:Clasp of the Arm
+823D46D2:Cabalist Charm Necklace
+823D46D3:Peerless Drudge Charm Necklace
+823D46D4:Sprinter's Pearl
+823D46D5:Bunny Slippers
+823D46D6:Piercing Crossbow
+823D46D7:Tusker Spit Ale
+823D46E2:Ursuin Cub Kennel
+823D46D8:Amber Ape
+823D46D9:Bobo's Stout
+823D46E0:Baby Thrungus Crate
+823D46DA:Blunt Compound Crossbow
+823D46DB:Butter Knife of Slaying
+823D46E1:Sprouting Pumpkin Vine
+823D46DC:Heavy Crossbow
+823D46DD:Heavy Crossbow
+823D46E3:Baby Drudge Crate
+823D46DE:Huge Snowball
+823D46E4:Armoredillo Egg
+823D46E5:Realaidain Raiment
+823D46E6:Elysa's Favor
+823D46E7:Hulking Bunny Slippers
+823D46E8:Son of Pooky's Den
+823D46E9:Pack P.
+823D46EA:Diamond Powder
+823D46EC:Some Changes for February 2012
+823D46ED:Chicken?
+823D46EE:Homecoming Pennant
+823D46F0:Empowered Helm of the Perfect Light
+823D46EF:Thaumaturgic Plate Coat
+823D46F1:Nefane Shield
+823D46F2:Egg Launcher
+823D46F3:Luminance, and the Paths of the Empyrean
+823D46F4:Marble Keyring
+823D46F5:Stipend
+
+Missing Exports - Possessed items that were not found:

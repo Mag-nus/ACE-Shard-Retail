@@ -1,0 +1,17 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\pkt_2017-1-23_1485228129_log\pkt_2017-1-23_1485228129_log.pcap
+
+Partial Exports - Missing appraisal info:
+A53B1A7F:Pyreal
+A53B1A80:Sack
+A53B1A81:Ust
+A53B1A82:Calling Stone
+A53B1A83:Pathwarden Token
+A53B1A84:Training Wand
+A53B1A85:Foci of Strife
+A53B1A86:Prismatic Taper
+A53B1A87:Lead Scarab
+A53B1A88:Bread
+A5664B45:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

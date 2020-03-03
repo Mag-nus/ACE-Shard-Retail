@@ -1,0 +1,171 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485323961_log\pkt_2017-1-24_1485323961_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485323961_log\pkt_2017-1-24_1485323961_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485323961_log\pkt_2017-1-24_1485323961_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485323961_log\pkt_2017-1-24_1485323961_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485323961_log\pkt_2017-1-24_1485323961_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485323961_log\pkt_2017-1-24_1485323961_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485323961_log\pkt_2017-1-24_1485323961_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485323961_log\pkt_2017-1-24_1485323961_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485323961_log\pkt_2017-1-24_1485323961_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485323961_log\pkt_2017-1-24_1485323961_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485323961_log\pkt_2017-1-24_1485323961_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485323961_log\pkt_2017-1-24_1485323961_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485323961_log\pkt_2017-1-24_1485323961_log.pcap
+
+Partial Exports - Missing appraisal info:
+C632215B:Training Wand
+C67244BC:Facility Hub Portal Gem
+C6DAA833:Pants
+C62AEAE3:Heavy Bracelet
+C743C9DF:Colosseum Ticket
+C5EF2AB7:Gorget
+C62C4379:Gorget
+C60F21E8:Baggy Tunic
+C6DAA986:Heavy Bracelet
+C6250841:Wide Breeches
+C702F57D:Heavy Bracelet
+C749CCA9:Candy Corn
+C6D0EB76:Heavy Bracelet
+C6CC8BD8:Baggy Breeches
+C7013C37:Bracelet
+C5E08F44:Baggy Tunic
+C6252401:Chiran Gauntlets
+C72B6D84:Baggy Shirt
+C72B6DEB:Ring
+C63881C4:Heavy Necklace
+C70469D5:Bracelet
+C703A361:Alduressa Gauntlets
+C71A8609:Pants
+C098096D:Celestial Hand Sollerets
+C7320066:Heavy Bracelet
+C6386F37:Doublet
+C64C6C61:Olthoi Koujia Kabuton
+C66DEEAC:Chainmail Breastplate
+C6ED7803:Loose Shirt
+C64F8959:Pants
+C6F3B89B:Trousers
+C702E1D1:Lorica Helm
+C7154BD5:Chainmail Girth
+C7615549:Alduressa Boots
+C7C832AC:Studded Leather Tassets
+C6B71AB4:Long Leather Gauntlets
+C6B65B5D:Diforsa Sollerets
+C6ED7A61:Chainmail Breastplate
+C6E4AC39:Olthoi Amuli Helm
+C65B7D40:Doublet
+C619837F:Alduressa Gauntlets
+C6F0399A:Olthoi Koujia Breastplate
+C7197300:Chainmail Pauldrons
+C72B4DE2:Tunic
+C7199700:Olthoi Celdon Breastplate
+C721871E:Celdon Girth
+C71AA694:Nariyid Boots
+C6382042:Studded Leather Boots
+C76AD836:Leather Shorts
+C63F069C:Leather Greaves
+C7ABAD0F:Haebrean Boots
+C7ABBD1B:Olthoi Celdon Girth
+C75B4DC5:Olthoi Alduressa Gauntlets
+C7AF1DB1:Diforsa Pauldrons
+C7B50576:Puffy Tunic
+C6BEBBFB:Koujia Breastplate
+C6B0CF4A:Vest
+C6F02647:Chainmail Breastplate
+C701404F:Studded Leather Greaves
+C76821DC:Celdon Breastplate
+C62500A8:Celdon Girth
+C71A8F31:Olthoi Alduressa Gauntlets
+C7B03701:Viamontian Pants
+C795E4B6:Shoes
+C7C51D3F:Wide Breeches
+C63AD48E:Sollerets
+C7CC91FD:Viamontian Pants
+C7B65C8C:Leather Greaves
+C7E7E246:Circlet
+C5F28880:Alduressa Boots
+C6BEB557:Tunic
+C70CD73D:Viamontian Pants
+C718C53F:Leather Boots
+C71A8921:Chainmail Pauldrons
+C73675ED:Loose Pants
+C795E123:Leather Bracers
+C7A7C038:Leather Pauldrons
+C7AE724E:Flared Pants
+C7B7EE22:Chainmail Breastplate
+C7197986:Tunic
+C6C2FB9A:Shoes
+C6CD040B:Sedgemail Leather Gauntlets
+C709EF01:Olthoi Amuli Helm
+C709F9A7:Olthoi Celdon Gauntlets
+C70132A9:Pants
+C6E73805:Olthoi Alduressa Gauntlets
+C7217F0D:Leather Boots
+C736973C:Baggy Pants
+C70A0191:Chiran Sandals
+C7914EDA:Sedgemail Leather Gauntlets
+C7233DF2:Leather Gauntlets
+C7915992:Slippers
+C5E737BC:Loafers
+C7B65762:Pants
+C7C24695:Cloth Cap
+C7D1E4FC:Long Leather Gauntlets
+C7CDC543:Flared Tunic
+C7C52FFE:Diforsa Sollerets
+C6AA26CC:Cloth Gloves
+C6CD0A1D:Olthoi Celdon Breastplate
+C6E4BD94:Chainmail Girth
+C6F03EF2:Loose Shirt
+C709ECD5:Chainmail Bracers
+C6F71659:Baggy Tunic
+C6FB3679:Olthoi Alduressa Helm
+C7048306:Nariyid Girth
+C6C5B476:Shoes
+C70136E0:Koujia Breastplate
+C7235527:Trousers
+C71535A3:Wide Breeches
+C7655113:Chainmail Tassets
+C6ED780D:Studded Leather Tassets
+C6AE7953:Cloth Gloves
+C6F03980:Studded Leather Tassets
+C7197E97:Olthoi Koujia Kabuton
+C73CDE87:The Orphanage
+C73B4B25:Licorice Rat
+C7AEFE2F:Ring
+C7D76F07:Heavy Bracelet
+C64C6075:Gorget
+C6198A13:Heavy Necklace
+C7AEB0AF:Heavy Necklace
+C6D0F74D:Heavy Necklace
+C741C74E:Amulet
+C7CDBDE7:Heavy Necklace
+C7DE80E8:Gorget
+C71537F5:Heavy Necklace
+C7EEE714:Amulet
+C7E7C3AB:Bracelet
+C7CC7DC1:Bracelet
+C7DEF43C:Ring
+C7723F2B:Tenassa Breastplate
+C76824AC:Koujia Breastplate
+C70485EF:Knorr Academy Breastplate
+C6C2F183:Sedgemail Leather Vest
+C7276F2E:Lorica Breastplate
+C63830C7:Nariyid Breastplate
+C7197E70:Olthoi Celdon Breastplate
+C719E04C:Celdon Breastplate
+C6DDBCD9:Yoroi Cuirass
+C70476D3:Olthoi Koujia Breastplate
+C6E4A758:Lorica Breastplate
+C6F024A2:Diforsa Breastplate
+C7D4CBA6:Yoroi Breastplate
+C6CCB07E:Studded Leather Breastplate
+C625062D:Chainmail Breastplate
+C6252524:Koujia Breastplate
+C70473D7:Tenassa Breastplate
+C72B2CCE:Celdon Breastplate
+C6BEBF26:Celdon Breastplate
+C65D309B:Nariyid Breastplate
+
+Missing Exports - Possessed items that were not found:

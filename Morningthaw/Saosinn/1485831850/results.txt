@@ -1,0 +1,32 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-30_1485830831_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-15_1484523691_log.pcap
+
+Partial Exports - Missing appraisal info:
+C5F38B31:Doublet
+C5EFF574:Loose Pants
+C5F4F8FE:Shoes
+C5F3A26B:Pyreal
+C5EF354E:Ust
+C5F3A2BD:Calling Stone
+C5F3A7CA:Handy Healing Kit
+C5F7EB46:Letter From Home
+C5F13604:Apple
+C5F7E533:Academy Library Key
+C5F4EF9D:Pack
+C5F4F341:Pack
+C5F3AEB5:Pack
+C5F7B0DB:Pack
+C5F7799D:Great Mana Charge
+C5F7B136:Salvage
+C5F7F1C2:Sturdy Iron Key
+C5F7F048:Sturdy Iron Key
+C5F7F09E:Salvage
+C5F4F05B:Salvage
+C5F7EB4A:Some Changes for February 2012
+C5F3B049:Blackmoor's Favor
+C5F7FC9D:Academy Cestus
+
+Missing Exports - Possessed items that were not found:

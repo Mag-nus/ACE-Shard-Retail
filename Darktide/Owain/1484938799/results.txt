@@ -1,0 +1,174 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\trello_datamining\0_Loddy-LugianExcavations.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Loddy-LugianExcavations\Loddy-LugianExcavations.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Loddy-OutdoorNorthRun\OutdoorRunNorth.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\0_Loddy-AncientLighthouse.pcap
+
+Partial Exports - Missing appraisal info:
+AE50AC99:Pack
+AE50AC97:Massive Mana Charge
+AE50AC98:Slippers
+AE50AC96:Massive Mana Charge
+AE50AC95:Massive Mana Charge
+AE50AC94:Massive Mana Charge
+AE50AC93:Massive Mana Charge
+AE50AC92:Massive Mana Charge
+AE50AC91:Massive Mana Charge
+AE50AC90:Massive Mana Charge
+AE50AC8F:Massive Mana Charge
+AE50AC8E:Massive Mana Charge
+AE50AC8D:Massive Mana Charge
+AE50AC8C:Teardrop Crown
+AE50AC8B:Studded Leather Boots
+AE50AC8A:Massive Mana Charge
+AE50AC89:Massive Mana Charge
+AE50AC88:Massive Mana Charge
+AE50AC87:Sandals
+AE50AC86:Diadem
+AE50AC85:Teardrop Crown
+AE814718:Massive Mana Charge
+AE814710:Massive Mana Charge
+AE50AC84:Pack
+AE50AC83:Circlet
+AE50AC81:Coronet
+AE50AC82:Steel Toed Boots
+AE50AC80:Cowl
+AE50AC69:Ust
+AE50AC7F:Kasa
+AE50AC7E:Loafers
+AE50AC7D:Massive Mana Charge
+AE50AC7C:Coronet
+AE50AC7B:Circlet
+AE50AC7A:Bracelet
+AE50AC79:Signet Crown
+AE50AC78:Signet Crown
+AE50AC74:Diadem
+AE50AC77:Teardrop Crown
+AE50AC76:Slippers
+AE50AC73:Teardrop Crown
+AE50AC75:Crown
+AE50AC72:Massive Mana Charge
+AE50AC71:Massive Mana Charge
+AE50AC70:Massive Mana Charge
+AE50AC6F:Crown
+AE50AC6E:Crown
+AE8147A0:Massive Mana Charge
+AE8145D9:Massive Mana Charge
+AE50AC6D:Pack
+AE50AC6C:Rithwic Portal Gem
+AE50AC6B:A'nekshay Token
+AE50AC5D:Colosseum Coin
+AE50AC6A:Ornate Gear Marker
+AE50AC68:Lytelthorpe Portal Gem
+AE50AC57:Massive Mana Charge
+AE50AC67:Al-Arqas Portal Gem
+AE50AC66:Ancient Mhoire Coin
+AE8363C2:Massive Mana Charge
+AE50AC65:Blackmoor's Favor
+AE50AC64:Xarabydun Portal Summoning Gem
+AE3565D2:Massive Mana Charge
+AE50AC63:Yanshi Portal Gem
+AE50AC62:Yaraq Portal Gem
+AE50AC08:Pyreal
+AE50AC61:Yaraq Portal Gem
+AE50AC60:Asheron's Lesser Benediction
+AE8363BE:Massive Mana Charge
+AE50AC5F:Celdiseth's Portal Gem
+AE50AC5E:Samsur Portal Gem
+AE50AC5C:Black Coral Keyring
+AE50AC5B:Celestial Hand Stronghold Portal Gem
+AE50AC39:Ancient Necklace
+AE50AC5A:Mana Scarab
+AE50AC59:Prismatic Taper
+AE50AC58:Platinum Scarab
+AE50AC56:Foci of Artifice
+AE50AC55:Foci of Enchantment
+AE50AC54:Foci of Verdancy
+AE50AC53:Pack
+AE50AC52:Silver Scarab
+AE50AC51:Baggy Shirt
+AE50AC50:Dire Champion Token
+AE50AC4F:Pyreal Scarab
+AE50AC4E:Gold Scarab
+AE50AC4D:Iron Scarab
+AE50AC4C:Lead Scarab
+AE50AC4B:Copper Scarab
+AE50AC4A:Diamond Scarab
+AE50AC49:Nanto Portal Gem
+AE31E4B8:Massive Mana Charge
+AE33AD21:Massive Mana Charge
+AE31E91A:Massive Mana Charge
+AE8363C0:Massive Mana Charge
+AE3565D1:Massive Mana Charge
+AE8363C1:Massive Mana Charge
+AE81470A:Massive Mana Charge
+AE50AC42:Aligned Mana Stone
+AE50AC41:Aetheria Mana Stone
+AE50AC3E:Pyre Skeleton Jaw
+AE50AC3D:Principles of the Celestial Hand
+AE50AC3C:Celestial Hand Initiate Armor Writ
+AE50AC38:Altered Dark Remoran Fin
+AE50AC3A:Small Olthoi Venom Sac
+AE50AC37:Carefully rolled scroll
+AE50AC36:Luminance, and the Paths of the Empyrean
+AE50AC35:Ornate Bone Key
+AE50AC33:Heavy Bracelet
+AE50AC32:Town Network Portal Gem
+AE50AC31:Heavy Necklace
+AE50AC13:Stipend
+AE50AC2F:Shoushi Portal Gem
+AE50AC2A:Colosseum Ticket
+AE50AC2D:The Orphanage
+AE50AC19:A Page of the Book of Eibhil
+AE50AC2C:Black Market Gem of Dispelling
+AE50AC2B:Gem of Lesser Luminance
+AE50AC18:Ring
+AE50ABEF:Major Mana Stone
+AE50AC16:Snow Tusker Blood Sample
+AE50ABEE:Major Mana Stone
+AE50ABED:Major Mana Stone
+AE50AC1A:Heavy Bracelet
+AE50AC15:Upper Insatiable Eater Jaw
+AE50AC14:Pathwarden Trinket
+AE50AC11:Sake
+AE50AC0F:Torn Strip of Parchment
+AE50AC0E:Torn Strip of Parchment
+AE50AC0B:Moderate Mana Stone
+AE50AC0C:Salvage (100)
+AE50AC0A:Moderate Mana Stone
+AE50AC09:Salvage (30)
+AE50AC07:Plentiful Healing Kit
+AE50AC06:Plentiful Healing Kit
+AE50AC05:Diadem
+AE50AC04:Nether Sceptre
+AE50AC03:Encapsulated Spirit
+AE50ABF4:Massive Mana Charge
+AE50AC02:Teardrop Crown
+AE50AC01:Diadem
+AE50AC00:Apostate Excavation Master's Orders
+AE50ABFF:Virindi Singularity Key
+AE50ABF3:Massive Mana Charge
+AE50ABFA:Trade Note (250,000)
+AE50ABF7:Encapsulated Spirit
+AE50ABF2:Massive Mana Charge
+AE50ABF1:Trade Note (50,000)
+AE50ABF0:Thief's Crystal
+AE50ABEC:Major Mana Stone
+AE50ABEB:Major Mana Stone
+AE50ABEA:Tusker Spit
+AE50ABE9:Little Green Seeds
+AE50ABE8:Town Network Portal Gem
+AE50ABE7:Thorsten's Crystal
+AE50ABE6:Major Mana Stone
+AE50ABE5:Diamond Heart
+AE50ABE4:Major Mana Stone
+AE50ABE2:Warding Ring
+D7D9887A:Agent of Arcanum List
+D7D99454:Small Shard
+D7AFB76A:Sturdy Iron Key
+D7D200AA:Scholar's Crystal
+D7D1FFA7:Chunk of High-Grade Chorizite
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,12 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485843573_log.pcap
+
+Partial Exports - Missing appraisal info:
+ABC07E01:Pyreal
+ABC61BB6:Apple
+ABC61B9D:Foci of Verdancy
+ABC61BB5:Foci of Strife
+ABC61BA5:Lead Scarab
+ABC6140A:Sack
+
+Missing Exports - Possessed items that were not found:

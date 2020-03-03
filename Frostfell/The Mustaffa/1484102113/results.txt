@@ -1,0 +1,106 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Callaway-01-10-2017\pkt_2017-1-10_1484075521_log.pcap
+
+Partial Exports - Missing appraisal info:
+B0E0DC50:Pyreal
+B0E0DCD1:Ust
+B0E0DCC9:Calling Stone
+B0E0DCD9:Handy Healing Kit
+B0CF2364:Prismatic Taper
+B0E0DC7D:Lead Scarab
+B0E0DCAD:Blackmoor's Favor
+B0D2320A:Stipend
+B0E0DCA4:Heavy Bracelet
+B0E0DCB0:Renegade Herbal Kit
+B0E0DCE8:Ring
+B0E0DCD8:Amulet
+B0E0DCAC:Ring
+B0E0DC97:Heavy Bracelet
+B0D23140:Heavy Bracelet
+B0D23131:Tunic
+90C53116:Renegade Herbal Kit
+B0E0DCD7:Gorget
+B0E0DD08:Heavy Bracelet
+B0E0DCCF:Heavy Necklace
+B0E0DC96:Ring
+B0E0DCEF:Breeches
+B0E0DCB3:Trousers
+B0DF766D:Loafers
+B0E0DD0A:Cloth Gloves
+B0E0DCD4:Copper Scarab
+B0E0DCCE:Bracelet
+B0E0DCA8:Top Hat
+B0E0DD07:Gorget
+B0E0DCD6:Heavy Necklace
+B0E0DCAA:Ring
+B0E0DC95:Ring
+B0CF1C8D:Heavy Bracelet
+B0E0DDA4:Gloves
+B0E0DCF6:Bracelet
+B0CF42C1:Gold Scarab
+B0E0DCC2:Heavy Necklace
+B0E0DCCD:Heavy Necklace
+B0D23155:Heavy Bracelet
+B0E0DCA1:Shirt
+B0E0DCA9:Heavy Bracelet
+B0E0DCF5:Bracelet
+B0E0DCED:Pantaloons
+B0E0DCDE:Pants
+B0D2314E:Elaborate Dried Rations
+B0E0DCEC:Diamond Shield
+B0E0DCF4:Tunic
+B56B02D5:Crystal Fragment
+B0E0DCDD:Ring
+B0E0DCB8:Ring
+B0CF1EF1:Salvage (100)
+B0DF43D8:Salvage (100)
+B56D6F68:Crystal Fragment
+B0E0DD04:Salvage (100)
+B0E0DCD3:Salvage (100)
+B5573804:Crystal Fragment
+B0E0DCF3:Slashing Baton
+B0CF1F4A:Aetheria
+B0E0DCCA:Nether Baton
+B56AF0F6:Crystal Fragment
+B0E0DCD2:Electric Staff
+B0E0DD03:Aetheria
+B0E0DCEA:Piercing Sceptre
+B0D2317F:Nether Baton
+B0E0D778:Salvage (100)
+B56AF2D3:Crystal Fragment
+B0E0DD02:Salvage (100)
+B0E0DCE9:Salvage (100)
+B56AEF69:Crystal Fragment
+B0E0DCF1:Salvage (100)
+B0D23181:Salvage (100)
+B573DFB0:Crystal Fragment
+B0E0DD0B:Salvage (100)
+B0E0DD01:Salvage (100)
+B57159E8:Crystal Fragment
+B0CF10E4:Salvage (100)
+B50A92AD:Crystal Fragment
+B6777919:Crystal Fragment
+B5717662:Crystal Fragment
+B56AF144:Crystal Fragment
+B576391C:Crystal Fragment
+B5763941:Crystal Fragment
+B483593C:Small Shard
+B67A2BE7:Crystal Fragment
+B66F84A5:Small Shard
+92501E05:Slashing Compound Crossbow
+924FF27B:Piercing Compound Crossbow
+92501E10:Yaoji
+9242EBC0:Fire Crossbow
+9242EBBF:Slashing Sceptre
+924E4F52:Fire Sceptre
+B0E0DCB4:Baggy Breeches
+905C141B:Encapsulated Spirit
+91DBC490:Piercing Bow
+903DAEF3:Encapsulated Spirit
+90D2684B:Wrapped Bundle of Deadly Armor Piercing Arrowheads
+B0CEADBB:Hieromancer's Crystal
+B424A673:Poniard
+B424994C:Acid Atlatl
+B3EC5A9E:Piercing Atlatl
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,74 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\High-Voltage-01-29-2017\pkt_2017-1-29_1485707488_log.pcap
+
+Partial Exports - Missing appraisal info:
+D486268D:Foci of Verdancy
+D486268E:Foci of Enchantment
+D486268F:Foci of Artifice
+D53BDAF4:Trade Note (250,000)
+D53C150B:Pyreal
+D539FF8B:Pack
+BCE6EA2F:Renegade Herbal Kit
+D545A6F6:Pack
+D53C1673:Titan Mana Charge
+D53C166A:Titan Mana Charge
+D53C166F:Titan Mana Charge
+D53C1662:Titan Mana Charge
+D53C1670:Titan Mana Charge
+D53C1667:Titan Mana Charge
+D53C1675:Titan Mana Charge
+D53C1676:Titan Mana Charge
+D4EFAE2B:Titan Mana Charge
+D53C166D:Titan Mana Charge
+D53C1664:Titan Mana Charge
+D53C1672:Titan Mana Charge
+D53C1669:Titan Mana Charge
+D53C1677:Titan Mana Charge
+D53C166E:Titan Mana Charge
+D53C1665:Titan Mana Charge
+D53C1663:Titan Mana Charge
+D546507F:Pack
+D5266FC8:Stipend
+D4862688:Ust
+D531B60A:Blackmoor's Favor
+D531B8CD:Facility Hub Portal Gem
+D5DA94BF:Colosseum Coin
+D54703CE:Pack
+D539A23D:Prismatic Taper
+D4862691:Lead Scarab
+D5383043:Mana Scarab
+D539A23A:Prismatic Taper
+D53BE04D:Copper Scarab
+D539A596:Diamond Scarab
+D534E3F2:Gold Scarab
+D5397932:Silver Scarab
+D53BE10E:Platinum Scarab
+D53C174E:Prismatic Taper
+D537B218:Iron Scarab
+D4862690:Prismatic Taper
+D53C174F:Prismatic Taper
+D53C1750:Prismatic Taper
+D53BE15A:Pyreal Scarab
+D53BE213:Shoyanen's Portal Gem
+D5FB23A5:Pyreal
+D5FB8FAB:Turquoise Taper
+D5D43429:Encapsulated Spirit
+D61EAA63:Salvage (8)
+D609F479:Ancient Empyrean Trinket
+D5CF41BA:Colosseum Vault Key
+D61CE70A:Blue Empyrean Ring
+D60D1AB5:Red Empyrean Ring
+D6023EFF:Khanda-handled Mace
+D60CFF2D:Yellow Empyrean Ring
+D5E4C2C0:White Empyrean Ring
+D5E2A9CA:Green Empyrean Ring
+D5945124:Blue Empyrean Ring
+D62BA226:Yellow Empyrean Ring
+D62BA2C5:Green Empyrean Ring
+D62BA3CE:Yellow Empyrean Ring
+D62BA48A:Green Empyrean Ring
+D62BA568:Yellow Empyrean Ring
+D62BA623:White Empyrean Ring
+D62BA686:Red Empyrean Ring
+
+Missing Exports - Possessed items that were not found:

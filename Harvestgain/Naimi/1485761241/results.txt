@@ -1,0 +1,140 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485761194_log.pcap
+
+Partial Exports - Missing appraisal info:
+811CDBE7:Foci of Artifice
+811CDBE6:Pack
+811CDBE8:Sceptre
+811C1E29:Ring
+811B442F:Blackmoor's Favor
+8118B98B:Chalice
+811B4790:Suikan Item Master Robe
+811D12A2:Pyreal
+811BD944:Shoyanen's Portal Gem
+811D1278:Suikan Item Master Robe
+811BE823:Asheron's Benediction
+811C2518:Thorsten's Armor
+811C2503:Chalice
+811BD943:Thorsten's Armor
+8119EB77:Suikan Life Master Robe
+811B24E1:Heavy Bracelet
+811C40E5:Crown
+811A3213:Dirk
+811BCB0A:Suikan Life Master Robe
+811BCAEA:Heavy Bracelet
+811BCABC:A Small Mnemosyne
+811BCAED:Suikan War Master Robe
+811BCAEC:Suikan War Master Robe
+811D1279:Chalice
+811BCAEB:Dirk
+810C3187:Atlatl
+8119F439:Pack
+8118BFD1:Pyreal Golem Heart
+8111989B:Electric Trident
+81179C90:Quarter Staff
+811BD8F2:Marble Keyring
+811D1136:Sanguinary Aegis
+811B3BCE:Jaleh's Necklace
+811D126E:Orb
+811D129F:Tenassa Leggings
+811C0E5D:Katar
+811D12A9:Crescent Moons
+810C2A4D:Gauraloi
+811BCABD:A Large Mnemosyne
+811BCCF3:Chalice
+811C1F52:Coronet
+8118CCA9:Diamond Heart
+8116CE12:Robe of the Tundra
+811D10A9:The Healer's Heart
+8116E3B8:Ust
+81180F2B:Moarsmuck
+81181118:Covenant Shield
+8119F7E0:Swamp Lord's War Paint
+811A4785:Nuhmudira's Bestowment of Quickness
+811A478C:Brown Beans
+8118BDC7:Pack
+811D1298:Lead Scarab
+810C18CB:Prismatic Taper
+811D1273:Copper Scarab
+811D1274:Gold Scarab
+811D1275:Silver Scarab
+811D1276:Pyreal Scarab
+811A2712:Realaidain Raiment
+811B51E7:Sturdy Iron Key
+81178EB4:Heart of the Innocent
+811A3E3A:First Half of a Worn Cestus
+81119852:Plentiful Healing Kit
+811BE01D:Plentiful Healing Kit
+811A79A6:Health Philtre
+8118B9AB:Intricate Carving Tool
+811D1169:Platinum Scarab
+810C34E1:Iron Scarab
+811165E5:Gem of Stillness
+811BC9E7:Invitation Plateau
+811BE01F:Saulandoi
+811BC9EA:Invitation Ithaenc Cathedral
+811BC9E8:Invitation Ithaenc Cathedral
+811CDBC2:Blank Augmentation Gem
+811BDF92:Pack
+811CDBC4:Blank Augmentation Gem
+847CE328:Blank Augmentation Gem
+A45AC43E:Blank Augmentation Gem
+811BE26A:Mukkir Slayer Stone
+811D127E:Foci of Verdancy
+811BDF89:Piercing Sceptre
+811BE7AA:Virindi Shard
+811BE24A:Gaerlan's Diary
+811566FB:Ruined Amulet of the Heart
+811D12A0:Major Mana Stone
+811B1E23:Lightning Nekode
+811C254C:Thorsten's Crystal
+811CE55C:Strathelar Pennant
+811B51E8:Copper Pea
+811B2571:Thorsten's Crystal
+811BE245:Some Changes for February 2012
+811C257C:Zefir's Crystal
+811A4403:Tinker's Crystal
+811B3A21:Mire Phyntos Wasp Wing
+811BE1FD:Sturdy Iron Keyring
+8119A1DF:Hyssop
+81194B96:Foci of Enchantment
+811A8C43:Superb Mana Charge
+811B429B:Superb Mana Charge
+8119F843:Superb Mana Charge
+8107B13F:Lytelthorpe Portal Gem
+811C251C:Life Giver's Gauntlets
+81195EC4:Gorget
+811B3A51:Bracelet of Knowledge
+811BE04A:Frost Sceptre
+811D0FD1:Amuli Coat
+811C253C:Flaming Claw
+811D12A3:Pyreal
+811D1297:Vissidal Island Portal Gem
+811B9193:Focusing Stone
+811B3AA3:Major Mana Stone
+811C2536:Major Mana Stone
+811B4F1C:Scholar's Crystal
+8119F265:Frost Katar
+C590C309:Stipend
+81120D4D:Thief's Crystal
+811C19CC:Trade Note (250,000)
+C7FB1B9B:Stipend
+810C0EDB:Deceiver's Crystal
+811A2F64:Acid Knuckles
+811B3AEB:Gold Pea
+811B42E8:Silver Pea
+811D12AA:Pyreal Pea
+811CCBC9:Teardrop Crown
+811D12A1:Gelidite Robe
+811CDBC3:Acid Katar
+811BE26B:Katar
+811CE54E:Platinum Golem Heart
+811CE54F:Pyreal Golem Heart
+811CE550:Pyreal Golem Heart
+811CE551:Pyreal Golem Heart
+811CE55B:Olthoi Flag
+80FECD14:Long Sword
+811D12A4:Wand
+811D12A6:Kite Shield
+
+Missing Exports - Possessed items that were not found:

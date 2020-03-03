@@ -1,0 +1,139 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-29_1485706601_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-28_1485657573_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-30_1485810611_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-29_1485706601_log.pcap
+
+Partial Exports - Missing appraisal info:
+8D3ABFA1:Acid Staff
+8D4097B5:Electric Sceptre
+8D3F260D:Fire Sceptre
+8D40193B:Frost Ken
+8D41059B:Electric Sceptre
+8D3E1CFF:Slashing Sceptre
+8D3EE897:Piercing Sceptre
+8D401769:Slashing Sceptre
+8D4097AA:Piercing Sceptre
+8D3F2A83:Slashing Sceptre
+8D401B62:Fire Sceptre
+8D3C9419:Piercing Sceptre
+8D3EE63A:Electric Sceptre
+8D3EE8C9:Shamshir
+8D41E5A0:Dericost Blade
+8D4018D3:Lightning Dericost Blade
+8D3F2A42:Lightning Ken
+8D368FFF:Shamshir
+8D3F25EB:Kaskara
+8D42F2F1:Scimitar
+8D42DEE1:Takuba
+8D42F2EF:Long Sword
+8D408995:Long Sword
+8D3EEADC:Dericost Blade
+8D3F2662:Dericost Blade
+8D3F2A76:Lightning Scimitar
+8D3F1F61:Flamberge
+8D3F2CBA:Acid Takuba
+8D3F2BD4:Blunt Sceptre
+8D4097FE:Piercing Baton
+8D410FA4:Fire Baton
+8D402091:Acid Baton
+8D3F2BCE:Frost Sceptre
+8D3EF449:Frost Baton
+8D3EDF1C:Blunt Baton
+8D41DF90:Slashing Baton
+8D3F219F:Piercing Sceptre
+8D408BEE:Blunt Baton
+8D3F0FA9:Slashing Baton
+8D3F2120:Electric Sceptre
+8D3F2C34:Blunt Baton
+8D3F2AE4:Fire Sceptre
+8D3E43D2:Frost Baton
+8D3CAFEF:Frost Baton
+8D3EDFDF:Electric Sceptre
+8D3ED8B9:Acid Sceptre
+8D3F2C2B:Fire Baton
+8D4118A6:Acid Baton
+8D3EFB54:Slashing Sceptre
+8D3F2280:Acid Baton
+8D3EDFB6:Blunt Baton
+8D3E8AED:Blunt Baton
+8D41DF9E:Frost Sceptre
+8D41E041:Acid Baton
+8D3EF9E8:Acid Baton
+8D3F2B5F:Acid Baton
+8D3CB025:Acid Sceptre
+8D411830:Fire Baton
+8D41DF8D:Acid Baton
+8D41DF6D:Electric Sceptre
+8D3F2B0F:Slashing Sceptre
+8D41DF8E:Slashing Sceptre
+8D4118B3:Fire Sceptre
+8D3F2C3A:Fire Sceptre
+8D41E7C7:Slashing Baton
+8D402817:Electric Baton
+8D3EF831:Slashing Sceptre
+8D410387:Blunt Sceptre
+8D40959A:Frost Baton
+8D40958A:Acid Sceptre
+8D4118B4:Electric Baton
+8D41E87E:Electric Sceptre
+8D41E7C5:Frost Baton
+8D413FE1:Piercing Baton
+8D3F2317:Piercing Baton
+8D41E9AC:Electric Sceptre
+8D3F2473:Piercing Sceptre
+8D3F2D91:Blunt Sceptre
+8D3E1E73:Electric Sceptre
+8D4167C4:Acid Baton
+8D4167C5:Acid Baton
+8D3EEAD8:Electric Sceptre
+8D4105A9:Slashing Sceptre
+8D40898A:Piercing Baton
+8D3F21D7:Acid Baton
+8D411833:Fire Baton
+8D3F2B61:Acid Baton
+8D402166:Frost Sceptre
+8D409579:Blunt Baton
+8D3F2B3C:Acid Sceptre
+8D409581:Frost Sceptre
+8D4117C0:Acid Sceptre
+8D3F233D:Electric Baton
+8D41184A:Fire Baton
+8D411831:Frost Baton
+8D3EDF12:Slashing Sceptre
+8D3F250E:Slashing Baton
+8D3F2C69:Electric Sceptre
+8D3EA1C1:Slashing Baton
+8D3F259B:Electric Staff
+8D3F2659:Electric Staff
+8D3EDF8D:Electric Sceptre
+8D40956B:Frost Sceptre
+8D41DF94:Electric Staff
+8D4020AB:Electric Staff
+8D4095F9:Electric Staff
+8D3EE014:Slashing Staff
+8D3C1507:Electric Baton
+8D3B1E23:Electric Sceptre
+8D3C15B5:Electric Baton
+8D37BD8B:Electric Baton
+8D3EE00D:Fire Sceptre
+8D41181E:Frost Staff
+8D41E7C6:Electric Staff
+8D41DFD7:Electric Staff
+8D41DF9B:Slashing Sceptre
+8D411812:Slashing Baton
+8D4169B0:Slashing Staff
+8D3F27BC:Slashing Staff
+8D41E830:Slashing Staff
+8D3F2D61:Slashing Staff
+8D3F2762:Slashing Staff
+8D411865:Slashing Sceptre
+8D3F2C5B:Slashing Staff
+8D3F260F:Slashing Staff
+8D3F2C9E:Acid Baton
+8D3CB069:Nether Baton
+8D3F2C63:Frost Sceptre
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,56 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-30-to-1-31\Bliz 1-30 to 1-31\pkt_2017-1-30_1485843085_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-30-to-1-31\Bliz 1-30 to 1-31\pkt_2017-1-30_1485832126_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-30-to-1-31\Bliz 1-30 to 1-31\pkt_2017-1-30_1485834464_log.pcap
+
+Partial Exports - Missing appraisal info:
+AB9C4777:Flared Shirt
+AB9C477A:Pyreal
+AB9C4778:Viamontian Leggings
+AB9C477B:Sack
+ABF7E718:Item Tinkering Gem of Enlightenment
+AB9C477C:Ust
+AB9C4781:Foci of Verdancy
+AB9C4782:Foci of Shadow
+AB9C4783:Prismatic Taper
+AB9C4784:Lead Scarab
+AB9C4786:Viamont Toast
+ABF77922:Blackmoor's Favor
+ABF63EED:Facility Hub Portal Gem
+ABF32D07:Great Mana Charge
+ABF32D05:Pathwarden Trinket
+ABF78944:Trade Note (250,000)
+83B75627:Cloth Gloves
+83B75633:Hulking Bunny Slippers
+83B749BF:Exarch Plate Leggings
+ABF73C3B:Pyreal
+83B7422A:Exarch Plate Coat
+83B75635:Exarch Plate Girth
+83B7422B:Chiran Helm
+83B5DA60:Pack
+83B75E06:Massive Mana Charge
+83B755D0:Massive Mana Charge
+83B755E2:Massive Mana Charge
+83B7563F:Massive Mana Charge
+83B755D9:Massive Mana Charge
+83B15911:Massive Mana Charge
+83B75762:Massive Mana Charge
+83B750B5:Massive Mana Charge
+83B75DC3:Massive Mana Charge
+83B755EE:Frost Shashqa
+ABF500AD:Sandstone Golem Essence
+83B75532:Baron's Amulet of Life Giving
+ABF73C3C:Pyreal
+ABF85370:Pack
+ABF8536D:Pack
+ABF8536C:Pack
+ABF8683F:Gold Scarab
+ABF75598:Pyreal
+ABF73EDD:Celdiseth's Portal Gem
+ABF75311:Town Network Portal Gem
+83B5A7E0:Bloodmark Crossbow
+ABFA85BB:Greater Blunt Quarrel
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,37 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (2148264617, 34400, 1, 2146624) /* Generic */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (2148264617,   1,       1024) /* ItemType - Useless */
+     , (2148264617,   5,       5000) /* EncumbranceVal */
+     , (2148264617,  16,          1) /* ItemUseable - No */
+     , (2148264617,  19,      10000) /* Value */
+     , (2148264617,  65,        101) /* Placement - Resting */
+     , (2148264617,  93,      66580) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, HasPhysicsBSP */
+     , (2148264617, 151,          1) /* HookType - Floor */
+     , (2148264617, 9015,          8) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (2148264617,   1, False) /* Stuck */
+     , (2148264617,  11, True ) /* IgnoreCollisions */
+     , (2148264617,  13, True ) /* Ethereal */
+     , (2148264617,  14, True ) /* GravityStatus */
+     , (2148264617,  19, True ) /* Attackable */
+     , (2148264617,  22, True ) /* Inscribable */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (2148264617,   1, 'Holiday Hearth') /* Name */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (2148264617,   1,   33560162) /* Setup */
+     , (2148264617,   3,  536870932) /* SoundTable */
+     , (2148264617,   8,  100672429) /* Icon */
+     , (2148264617,  22,  872415275) /* PhysicsEffectTable */
+     , (2148264617, 8001,  270549016) /* PCAPRecordedWeenieHeader - Value, Usable, Container, Burden, HookType */
+     , (2148264617, 8003,         18) /* PCAPRecordedObjectDesc - Inscribable, Attackable */
+     , (2148264617, 8005,     137217) /* PCAPRecordedPhysicsDesc - CSetup, STable, PeTable, AnimationFrame */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (2148264617,   1, 2166169224) /* Owner */
+     , (2148264617,   2, 2166169224) /* Container */
+     , (2148264617, 8000, 2148264617) /* PCAPRecordedObjectIID */;

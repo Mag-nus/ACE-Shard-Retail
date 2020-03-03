@@ -1,0 +1,18 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-31_1485856541_log.pcap
+
+Partial Exports - Missing appraisal info:
+C494892F:Pyreal
+C4959B4C:Ust
+C4959B4B:Sack
+C4959B4D:Calling Stone
+C4959B4E:Pathwarden Token
+C4959B50:Foci of Strife
+C4959B51:Foci of Verdancy
+C4959B52:Prismatic Taper
+C4959B53:Lead Scarab
+C4959B54:Letter From Home
+C4959B55:Viamont Toast
+C4959B56:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,18 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\asherons-call-newer\pkt_2017-1-31_1485848727_log.pcap
+
+Partial Exports - Missing appraisal info:
+AEC10563:Slippers
+AEC10564:Pyreal
+AEC10565:Ust
+AEC10504:Mortar and Pestle
+AEC1C350:Gem
+AEC1C351:Gem
+AEC1C352:Flour
+AEC1C354:Sack
+AEC1C355:Greeter's Key
+AEC1C359:Apple
+AEC1C35D:Pack Asheron
+AEC1C35E:Some Changes for February 2012
+
+Missing Exports - Possessed items that were not found:

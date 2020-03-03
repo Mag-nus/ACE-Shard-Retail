@@ -1,0 +1,118 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Delune-01-24-2017-packetlogging\pkt_2017-1-24_1485320277_log.pcap
+
+Partial Exports - Missing appraisal info:
+A52EBEE8:Foci of Artifice
+A52EBED6:Foci of Verdancy
+A52EBEC4:Foci of Enchantment
+A52EBEBC:Galvanic Bracelet
+A52EBECC:Handbook of the Bestowers' Guild
+A52EBEB3:Blackmoor's Favor
+A52EBEE7:Vial of Organic Acid
+A52EBEF8:Akiekie Ember
+A52EBED5:Incalescent Bracelet
+A52EBEC3:Titan Mana Charge
+A52EBEBB:Superb Mana Charge
+A52EBECB:Superb Mana Charge
+A52EBF01:Superb Mana Charge
+A52EBEEF:Superb Mana Charge
+A52EBEDD:Superb Mana Charge
+A52EBEF7:Superb Mana Charge
+A52EBEE6:Superb Mana Charge
+A52EBED4:Superb Mana Charge
+A52EBF12:Superb Mana Charge
+A52EBF0A:Superb Mana Charge
+A52E26F8:Superb Mana Charge
+A52CF980:Superb Mana Charge
+A52EBF1A:Superb Mana Charge
+A52EBF22:Superb Mana Charge
+A52EBECA:Superb Mana Charge
+A52EBF00:Superb Mana Charge
+A52EBEEE:Sclavus Skin Helmet
+A52EBF09:Frigid Bracelet
+A52EB7A4:Pyreal
+A52EBF21:Pyreal
+A52EBF19:Prismatic Taper
+A52EBEFF:Diamond Heart
+A52EBEED:Superb Mana Charge
+A52EBEDB:Superb Mana Charge
+A52EBEC9:Superb Mana Charge
+A52EBEEC:Salvage (100)
+A52EBF42:Salvaged  (77)
+A52EBEE3:Salvaged  (100)
+A52EBEF4:Salvaged  (100)
+A52EBF1E:Baking Pan
+A52EBF31:Salvaged  (100)
+A52EBF0F:Salvaged  (100)
+A52EBF07:Salvaged  (100)
+A52EBF3A:Salvaged  (100)
+A52EBF27:Ginger
+A52EBF17:Salvaged  (100)
+A52EBF28:Salvaged  (100)
+A52EBEFD:Salvaged  (100)
+A52EBF26:Cooking Pot
+A52EBEE2:Salvage
+A52EBF4A:Salvage (100)
+A52EBF06:Foolproof Black Garnet
+A52EBEF3:Salvage (100)
+A52EBF30:Salvage (100)
+A52EBF38:Hot Pepper
+A52EBF0E:Foolproof Red Garnet
+A52EBF41:Tusker Spit
+A52EBEFC:Whittling Knife
+A52EBF49:Minalim Plant
+A52EBEF2:Vial of Relanim Dye
+A52EBF2F:Colban Plant
+A52EBF0C:Carrot
+A52EBF52:Vial of Minalim Dye
+A52EBF15:Berimphur Plant
+A52EBF04:Mattekar Hide
+A52EBF5A:Cinnamon
+A52EBEFB:Hennacin Plant
+A52EBF14:Wrapped Bundle of Prismatic Arrowheads
+A52EBF3F:Wrapped Bundle of Atlatl Dartshafts
+A52EBF1C:Wrapped Bundle of Arrowheads
+A52EBF59:Wrapped Bundle of Quarrelshafts
+A52EBF25:Wrapped Bundle of Blunt Arrowheads
+A52EBF47:Chorizite Fletching Tool
+A52EBF03:Concentrated Bloodseeker Oil
+A52EBF2D:Wrapped Bundle of Arrowshafts
+A52EBF0B:Concentrated Aqua Incanta
+A52EBF50:Aqua Incanta
+A52EBF36:Neutral Balm
+A52EBF3E:Ginseng Pea
+A52EBF1B:Concentrated Fire Oil
+A52EBF2C:Bloodseeker Oil
+A52EBF3D:Pyreal Pea
+A52EBF78:Relanim Plant
+A52EBF61:Swamp Stone
+A52EBF6F:Archer's Jewel
+A52EBF3C:Imbuer's Crystal
+A52EBF56:Lich's Pearl
+A52EBF77:Lugian's Pearl
+A52EBF60:Magus's Pearl
+A52EBF88:Shoes
+A52EBF6E:Replica of a Tursh Totem
+A52EBF5F:Idol Gem
+A52EBF43:Salvage
+A52EBF4C:Salvaged  (100)
+A52EBF6D:Salvage
+A52EBF54:Salvage
+A52EBF8F:Salvage (100)
+A52EBF86:Salvage (100)
+A52EBF5E:Salvage
+A52EBF99:Salvage
+A52EBF53:Salvage
+A52EBF8E:Salvage (50)
+A52EBF8D:Carenzi Stalker Pelt
+A52EBF74:Salvage (57)
+A52EBF5D:Salvage (50)
+A52EBFA1:Monarch's Crystal
+A52EBF85:Salvage (44)
+A52EBF7C:Salvage (63)
+A52EBF6B:Salvaged  (100)
+A52EBF73:Salvage (44)
+A52EBFA0:Adherent's Crystal
+A52EBF84:Carenzi Stalker Pelt
+
+Missing Exports - Possessed items that were not found:

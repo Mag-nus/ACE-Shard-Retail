@@ -1,0 +1,135 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-07-2017\packet_logs_20170123-2017-0130\pkt_2017-1-23_1485231173_log.pcap
+
+Partial Exports - Missing appraisal info:
+9C6D3968:Doublet
+9C6D3969:Flared Pants
+9C6D396A:Shoes
+9C6D396B:Pyreal
+9C6D3971:Fire Baton
+9C6D396E:Koujia Leggings
+9C6D397B:Ust
+9C6D3970:Olthoi Tassets
+9C6D3972:Empyrean Spherule
+9C6D3975:Fire Baton
+9C6D3979:Wrapped Bundle of Deadly Armor Piercing Arrowheads
+9C6D397A:Wrapped Bundle of Greater Blunt Arrowheads
+9C6D39C3:Pyreal
+9C6D397E:Training Wand
+9C6D397F:Foci of Verdancy
+9C6D3980:Foci of Artifice
+9C6D3981:Prismatic Taper
+9C6D3982:Letter From Home
+9C6D3983:Blackmoor's Favor
+9C6D3984:Academy Coat
+9C6D39AE:Fists of Stone
+9C6D3986:Tofun
+9C6D3987:Ink of Conveyance
+9C6D3989:Flaming Spada
+9C6D398A:Flamberge
+9C6D398B:Lightning Long Sword
+9C6D398C:Lightning Short Sword
+9C6D398D:Flaming Spada
+9C6D3990:Frost Broad Sword
+9C6D398E:Lightning Nabut
+9C6D398F:Broad Sword
+9C6D3993:Aerfalle's Pallium
+9C6D3994:Osseous Mace
+9C6D3996:Scalemail Girth
+9C6D3997:Diforsa Leggings
+9C6D3998:Heavy Ursuin Coat
+9C6D3999:Ring
+9C6D399A:Ring
+9C6D399B:Ring
+9C6D399D:Lightning Broad Sword
+9C6D399C:Covenant Pauldrons
+9C6D399E:Kaskara
+9C6D39A2:Sollerets
+9C6D399F:Studded  Basinet
+9C6D39A0:Olthoi Amuli Sollerets
+9C6D39A1:Olthoi Celdon Leggings
+9C6D39A3:Relic Alduressa Helm
+9C6D39A5:Shadow Fragment
+9C6D39A4:Scalemail Basinet
+9C6D39A6:Platemail Gauntlets
+9C6D39AF:Fists of Stone
+9C6D39A7:Flaming Cestus
+9C6D39AA:Knuckles
+9C6D39B0:Fists of Stone
+9C6D39B1:Fists of Stone
+9C6D39B2:Fists of Stone
+9C6D39B3:Sickle of Azaxis
+9C6D39B4:Fists of Stone
+9C6D39B5:Sickle of Azaxis
+9C6D39B6:Fists of Stone
+9C6D39B7:Fists of Stone
+9C6D39B8:Fists of Stone
+9C6D39B9:Sickle of Azaxis
+9C6D39BB:Sickle of Azaxis
+9C6D39BC:Sickle of Azaxis
+9C6D39C0:Sickle of Azaxis
+9C6D39C6:Relanim Plant
+9C6D39C2:Sickle of Azaxis
+9C6D39C5:Berimphur Plant
+9C6D39C9:Colban Plant
+9C6D39D8:Serpent's Fang
+9C6D39D3:Covenant Girth
+9C6D39D4:Glyph of Loyalty
+9C6D39DE:Sturdy Steel Key
+9C6D39D5:Olthoi Celdon Sollerets
+9C6D39D6:Lorica Boots
+9C6D39D7:Dericost Blade
+9C6D39DA:Copper Scarab
+9C6D39DB:Copper Scarab
+9C6D39DF:Singularity Key
+9C6D39E0:Singularity Key
+9C6D39E5:Dark Shard
+9C6D39E6:Kite Shield
+9C6D3A05:Alacritous Ink
+9C6D39E7:Olthoi Tassets
+9C6D39E8:Lightning Silifi
+9C6D39F7:Helmet
+9C6D39E9:Frost Dericost Blade
+9C6D39EA:Olthoi Alduressa Leggings
+9C6D39EB:Ring of Intellect
+9C6D39EC:Salvaged  (100)
+9C6D39F9:Relic Alduressa Coat
+9C6D39ED:Salvaged  (100)
+9C6D39EE:Salvaged  (100)
+9C6D3A07:Parabolic Ink
+9C6D39EF:Salvaged  (100)
+9C6D39F0:Salvaged  (100)
+9C6D39F1:Salvaged  (100)
+9C6D39F2:Salvaged  (100)
+9C6D39F3:Salvaged  (100)
+9C6D39F4:Salvaged  (100)
+9C6D39F5:Salvaged  (100)
+9C6D39F6:Salvaged  (100)
+9C6D39F8:Ring
+9C6D39FA:Alduressa Boots
+9C6D39FB:Electric Sceptre
+9C6D39FC:Fire Compound Bow
+9C6D39FD:Glyph of Run
+9C6D39FE:Glyph of Cooking
+9C6D39FF:Glyph of Creature Enchantment
+9C6D3A00:Glyph of Magic Item Tinkering
+9C6D3A01:Ink of Nullification
+9C6D3A02:Glyph of Item Enchantment
+9C6D3A04:Glyph of Missile Defense
+9C6D3A08:Glyph of Focus
+9C6D3A0B:Scimitar
+9C6D3A0C:Platemail Gauntlets
+9C6D3A0D:Studded Leather Shirt
+9C6D3A0E:Ring
+9C6D3A0F:Ring
+9C6D3A10:Chainmail Gauntlets
+9C6D3A15:Salvage
+9C6D3A16:Salvaged  (100)
+9C6D3A17:Salvaged  (100)
+9C6D3A1B:Fire Staff
+9C6D3A1D:Electric Sceptre
+9C6D3A1E:Frost Stick
+9C6D3A1F:Ink of Objectification
+9C6D3A20:Pantaloons
+
+Missing Exports - Possessed items that were not found:

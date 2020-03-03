@@ -1,0 +1,116 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap1\pkt_2017-1-28_1485651497_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap1\pkt_2017-1-26_1485462351_log.pcap
+
+Partial Exports - Missing appraisal info:
+85FBFC1A:Sack
+85FBDAA7:Pyreal
+85FE6D3D:Ust
+85FFFF72:Training Atlatl
+85FBFC42:Atlatl Dart
+85FC953A:Prismatic Taper
+85FE8AEE:Lead Scarab
+85FE66AC:Crude Lockpick
+85FCFEE3:Handy Healing Kit
+85FA1CAA:Academy Coat
+85FBE2E5:Sunflower
+85FA3B6E:Facility Hub Portal Gem
+85FED9A5:Coronet
+85FBFC35:Ursuin Toy
+85FA4A09:Amuli Coat
+85FBFBF5:Inscription of Cold Protection Self
+85FE6700:Diamond Powder
+85FE6713:Shoes
+85FBFC3C:Salvage (100)
+86004440:Stamina Philtre
+85FA4B6D:Pack
+86005849:Salvage (100)
+85FBABFD:Salvage (100)
+85F9BBD9:Salvage (100)
+85FEE048:Iron Heart
+85FA4B6F:Salvage (100)
+85FBFAC9:Salvage (100)
+85FBFC1E:Iron Heart
+85FE6D4D:Salvage (100)
+85FE6D4F:Salvage (100)
+85FE64C4:Water Golem Heart
+85FE6869:Salvage (100)
+85FA4475:Salvage (100)
+85FCC183:Pack
+85FBFC77:Salvage (100)
+85FA27B5:Salvage (100)
+85FF0BB6:Pack
+85FD5C57:Ursuin's Pearl
+85FBF443:Gelid's Jewel
+85FBF606:Sunflower
+8600584E:Salvage (100)
+85FE8B42:Aphus Lassel Portal Gem
+85FE6759:Pack
+85FBFCB2:Olthoi Pauldrons
+85FF0BB5:Covenant Gauntlets
+85FBFD79:Sunflower
+85FE652E:Celestial Hand Sollerets
+85FBFA49:Celestial Hand Sollerets
+85FBC572:Snowflower
+85FBFD94:Olthoi Koujia Sleeves
+86005853:Salvage (100)
+85FBE067:Amphorae
+85FE844A:Aetheria
+85FBFCC3:Salvage (100)
+86004442:Pack
+85FBFC97:Salvage (100)
+8600443D:Salvage (100)
+85FBDA2D:Health Philtre
+85FD557F:Salvage (100)
+85FC57CF:Quill of Extraction
+85FE65EB:Log Stool
+91E5329F:Thorsten's Crystal
+86005840:Salvage (100)
+8600584C:Salvage (100)
+85FBBFB4:Salvage (100)
+85FBFC31:Orange Monster Seed
+85F9D434:Salvage (100)
+85FBFCEB:Salvage (100)
+86004444:Parabolic Ink
+85FBFC99:Salvage (100)
+8600584A:Quill of Introspection
+85FF1EB2:Holiday Hearth
+85FBFCE7:Quill of Infliction
+85FE67CA:Quill of Benevolence
+85FE894D:Ink of Conveyance
+85FBE502:Salvage (100)
+85FD54BE:Salvage (100)
+8600443E:Salvage (100)
+86005842:Salvage (100)
+85FBFC04:Training Wand
+85FE6621:Salvage
+85FA41FB:Salvage (100)
+86005845:Salvage (100)
+85FBC5E2:Salvage (100)
+85FE663E:Salvage (100)
+85FED85F:Salvage (100)
+85FBE09C:Salvage (100)
+85FED8B7:Salvage (100)
+85FBACB6:Ink of Objectification
+85FE65AA:Ink of Separation
+85FBADDE:Ink of Nullification
+85FBFBF6:Ink of Partition
+85FE6CEB:Ink of Direction
+86005866:Glyph of Lockpick
+85F97BB4:Glyph of Void Magic
+85FA3DCE:Glyph of Armor Tinkering
+85FE673B:Glyph of Magic Item Tinkering
+85FBFC49:Glyph of Alchemy
+85FE6743:Glyph of Cooking
+85FCFE22:Glyph of Nether
+86005848:Glyph of Strength
+85FBF755:Glyph of Self
+85FFF0B9:Glyph of Creature Enchantment
+85FEFF1C:Frost Corsesca
+8600512B:Aetheria
+85FE66C8:Aetheria
+85FE6698:Aetheria
+
+Missing Exports - Possessed items that were not found:

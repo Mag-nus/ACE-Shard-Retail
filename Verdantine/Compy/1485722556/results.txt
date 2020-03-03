@@ -1,0 +1,253 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap1\pkt_2017-1-29_1485721132_log.pcap
+
+Partial Exports - Missing appraisal info:
+801CAB5F:Salvage (100)
+801CAB62:Pristine Message Shard
+801566FF:Salvage (100)
+801CB14C:Aerbax's Message Shard
+801CAB5C:Corroding Message Shard
+801CAB5B:Misty Message Shard
+801CAB5D:Warped Message Shard
+8826CC7C:Salvage (100)
+801D3F13:Salvage (100)
+801D3F33:Salvage (100)
+801D3F0F:Salvage (100)
+801CB13B:Pack
+801CA4AF:Chipped Message Shard
+801B5742:Twisted Message Shard
+801CB155:Letter to Bretself the Translator
+801CA4AC:Salvage (100)
+801CB161:Salvage (100)
+801B51E2:Salvage (100)
+801CAB56:Aetherium Vault Key
+801CAB55:Salvage (100)
+801CAB57:Salvage (100)
+8014F674:Potion of Black Fire
+801AB68A:Salvage
+801B5670:Salvage (100)
+801B568D:Salvage (100)
+801B570C:Salvage (100)
+801CB152:Hearty Lugian Loaf
+8018B63B:Salvage (100)
+801B56E5:Salvage (100)
+801B63DC:Pack
+801CB175:Salvage (100)
+801B4E1F:Salvage (100)
+801B512C:Thick Lugian Stew
+801D3F0A:Salvage (100)
+801D3EE3:Salvage (100)
+801CAB50:Pack Golem
+88337327:Salvage (100)
+801D3F0C:Salvage (100)
+801CB16E:Pack
+801CAB51:Writ of Refuge
+801CAB53:Salvage (100)
+801CB2E9:Viamontian Torso
+801D3EF2:Monouga
+801D3EC2:Yellow Jewel
+801D3ED6:Dark Shard
+801D3EF3:Snowman
+801D3EE2:Salvage (100)
+8017BE35:Golden Gromnie
+801B5D27:Pack Drudge
+801CB179:Golden Gromnie
+801CA86E:Pack Drudge
+801C7F22:Golden Gromnie
+801B56FE:Pack Drudge
+8013C17E:Stamina Philtre
+801B2BAC:Pack Drudge
+801CB2CE:Pack
+801CB17C:Pack Drudge
+801CAB03:Pack
+801B63E7:Pack Drudge
+801D3ECA:Pack
+801CAB3B:Pack Drudge
+801D3ECD:Salvage
+801CAB3A:Pack Drudge
+801D3ECE:Salvage
+801CAB39:Pack Drudge
+801D3ECF:Salvage
+801CAB3C:Pack Drudge
+801D3ED0:Salvage
+801CB183:Pack Drudge
+801D3ED1:Salvage
+801CB185:Pack Drudge
+801D3ED2:Salvage
+801D3EF7:Coral Fragment
+801C7520:Salvage (100)
+801CB188:Salvage (100)
+801D3ED3:Ruddy Gromnie Hide
+801B4C52:Salvage (100)
+801B6402:Salvage (100)
+801885E0:Health Philtre
+801AB62A:Salvage (100)
+801CB2CF:Salvage (100)
+801B506B:Salvage (100)
+80163D53:Health Philtre
+801B4D01:Salvage (100)
+801CB196:Salvage (100)
+801CB194:Salvage (100)
+801C8753:Salvage (100)
+801C8763:Salvage (100)
+801CB193:Salvage (100)
+801CB2DE:Salvage (100)
+801CB195:Salvage (100)
+801CB2C9:Salvage (100)
+801CB192:Salvage (100)
+801CAB0D:Salvage (100)
+801CAB0C:Salvage (100)
+801CAB0B:Salvage (100)
+801CAB0E:Salvage (100)
+801CAB07:Salvage (100)
+801CAB06:Salvage (100)
+801CAB05:Salvage (100)
+801CAB08:Salvage (100)
+801CAB02:Salvage (100)
+801CAB01:Salvage (100)
+801D3EFB:Salvage (100)
+801CB2FA:Salvage (100)
+801CB2D5:Salvage (100)
+801CB197:Salvage (100)
+801D3EB9:Salvage (100)
+801D3EBA:Salvage (100)
+801D3EBB:Salvage (100)
+801D3EBC:Salvage (100)
+801D3EBD:Salvage (100)
+801D3EBE:Salvage (100)
+801D3EBF:Salvage (100)
+801D3EC0:Salvage (100)
+801D3EC1:Salvage (100)
+801D3EC3:Salvage (100)
+801D3EC4:Salvage (100)
+801D3EC5:Salvage (100)
+801D3EC6:Salvage (100)
+801D3EC7:Dark Monolith Caverns
+801D3EC8:Salvage (100)
+801D3EC9:Salvage (100)
+882D9118:Salvage (100)
+882F15F0:Salvage (100)
+801D3ECB:Salvage (100)
+801D3ECC:Salvage (100)
+801D3ED4:Salvage
+801D3ED5:Salvage
+801D3ED7:Scholar's Crystal
+801D3ED8:Oubliette
+801D3ED9:Moarsmuck
+801D3EDA:Salvage (100)
+801D3EDB:Salvage (100)
+801D3EDC:Salvage (100)
+801D3EDD:Salvage (100)
+801D3F17:Salvage (100)
+801D3F1F:Salvage (100)
+801D3F15:Salvage (100)
+801D3F1A:Salvage (100)
+801D3EFC:Salvage (100)
+801D3EDF:Salvage (100)
+801D3EE0:Salvage (100)
+801D3EE1:Salvage (100)
+801D3EE4:Salvage (100)
+801D3EE5:Salvage (100)
+801D3EE6:Salvage (100)
+801D3EE7:Salvage (100)
+801D3EE8:Salvage (100)
+801D3EE9:Salvage (100)
+801D3EEA:Salvage (100)
+801D3EEB:Salvage (100)
+801D3EEC:Salvage (100)
+801D3EED:Salvage (100)
+801D3EEE:Salvage (100)
+801D3EEF:Salvage (100)
+801D3EF0:Salvage (100)
+801D3EF1:Salvage (100)
+801D3EF4:Verdalim Plant
+801D3EF8:Salvage (100)
+801D3EF9:Salvage (100)
+801D3EFA:Salvage (100)
+801D3EFD:Salvage (100)
+801D3EFE:Salvage (100)
+801D3EFF:Salvage (100)
+801D3F00:Salvage (100)
+801D3F01:Salvage (100)
+801D3F02:Salvage (100)
+801D3F03:Salvage (100)
+801D3F04:Salvage (100)
+801D3F05:Salvage (100)
+801D3F06:Salvage (100)
+801D3F07:Salvage (100)
+801D3F08:Salvage (100)
+801D3F09:Salvage (100)
+801D3F0B:Salvage (100)
+801D3F0D:Salvage (100)
+801D3F0E:Salvage (100)
+801D3F10:Salvage (100)
+801D3F11:Salvage (100)
+801D3F12:Salvage (100)
+801D3F14:Salvage (100)
+801D3F16:Salvage (100)
+801D3F18:Salvage (100)
+801D3F19:Salvage (100)
+801D3F1B:Salvage (100)
+801D3F1C:Salvage (100)
+801D3F1D:Salvage (100)
+801D3F1E:Salvage (100)
+801D3F20:Salvage (100)
+801D3F21:Salvage (100)
+801D3F22:Salvage (100)
+801D3F23:Salvage (100)
+801D3F24:Salvage (100)
+801D3F25:Salvage (100)
+801D3F26:Salvage (100)
+801D3F27:Salvage (100)
+801D3F30:Salvage (100)
+801D3F31:Salvage (100)
+801D3F32:Glyph of Dirty Fighting
+801D3F34:Glyph of Regeneration
+84BF9F4D:Salvage (100)
+8832E3B3:Salvage (100)
+882CCEA5:Salvage (100)
+88330B17:Salvage (100)
+882DBD08:Salvage (100)
+8827AFDD:Salvage (100)
+882EA230:Salvage (100)
+882C44A7:Salvage (100)
+883380E7:Salvage (100)
+88238F82:Salvage (100)
+8826D1CD:Salvage (100)
+801DB9A2:Salvage (100)
+8629ADC3:Salvage (100)
+84C0CE5F:Salvage (100)
+883033AC:Salvage (100)
+801DB99F:Salvage (100)
+8806F6A3:Salvage (100)
+801DB995:Salvage (100)
+883486CC:Salvage (100)
+8018A5BD:Salvage (100)
+88372D0E:Salvage (100)
+80532256:Salvage (100)
+801D3F28:Salvage (100)
+801D3F29:Salvage (100)
+801D3F2A:Salvage (100)
+801D3F2B:Salvage (100)
+801D3F2C:Salvage (100)
+801D3F2D:Salvage (100)
+801D3F2E:Salvage (100)
+801D3F2F:Salvage (100)
+805321BD:Salvage (100)
+8018A5A8:Salvage (100)
+88403DD6:Salvage (100)
+801DB992:Salvage (100)
+801DB9A5:Salvage (100)
+
+Missing Exports - Possessed items that were not found:
+801CAB6B
+801C8497
+801CB13C
+801C71F0
+801C7BC1
+801CAB67
+801CAB64
+801CAB65
+801CAB66
+80157C88
+80199797

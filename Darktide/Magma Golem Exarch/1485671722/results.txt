@@ -1,0 +1,192 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-04-2017\pkt_2017-1-28_1485653391_desc\pkt_2017-1-29_1485671707_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-04-2017\pkt_2017-1-28_1485653391_desc\pkt_2017-1-28_1485653391_log.pcap
+
+Partial Exports - Missing appraisal info:
+8390D3A8:Foci of Artifice
+8390D3A9:Foci of Enchantment
+8390D3AA:Sack
+8390D3AB:Pyreal Scarab
+8390D3AC:Gold Scarab
+8390D3AD:Silver Scarab
+8390D3AE:Iron Scarab
+8390D3AF:Lead Scarab
+8390D3B0:Lugian Sentinel's Insignia
+8390D3B1:Platinum Scarab
+8390D3B2:Paradox-touched Olthoi Egg
+8390D3B3:Calling Stone
+8390D3B4:Ust
+8390D3B5:Blackmoor's Favor
+8390D3B6:Asheron's Lesser Benediction
+8390D3B7:War Magic Gem of Enlightenment
+8390D3B8:Mana Scarab
+8390D3B9:A Large Mnemosyne
+8390D3BA:Copper Scarab
+8390D3BB:Diamond Scarab
+8390D3BC:Prismatic Taper
+8390D3BD:Prismatic Taper
+8390D3BE:Ust
+8390D3BF:Core Plating Integrator
+8390D3C0:Sawato Bandit's Mask
+8390D3C1:Mi Krau-Li's Jitte
+8390D3C2:Phantom Bow
+8390D3C3:Pack
+8390D3C4:Hunter's Stock Amber
+8390D3C7:Upper Insatiable Eater Jaw
+8390D3C5:Apothecary Zongo's Stout
+8390D3C6:Duke Raoul's Distillation
+8390D3C8:Broken Stone Tablet
+8390D3C9:Engraved A'nekshay Bracers
+8390D3CA:Desert Flower
+8390D3CB:Wrapped Bundle of Gear Blade Slashing Arrowheads
+8390D3CC:Burning Sands Keyring
+8390D3CD:Enchanted Mana Phial Pea
+8390D3CE:Aetheric Resonator
+8390D3D4:Massive Mana Charge
+8390D3CF:Amber Ape
+8390D3D0:Bobo's Stout
+8390D3D5:Gem of Raising Quickness
+8390D3D1:Tusker Spit Ale
+8390D3D2:Fadsahil's Portal Gem
+8390D44B:Pyreal
+8390D3D3:Celdiseth's Portal Gem
+8390D3D6:Massive Mana Charge
+8390D3D7:Lesser Corrupted Essence
+8390D3D8:Lesser Corrupted Essence
+8390D3D9:Greater Stamina Kit
+D854DA35:Blighted Mana Crystal
+D84EA449:Evader's Crystal
+8390D3DA:Enhanced Red Empyrean Ring
+8390D44C:Pyreal
+8390D3DB:Enhanced White Empyrean Ring
+8390D3DC:Pack
+8390D3DD:Massive Mana Charge
+8390D3DE:Massive Mana Charge
+8390D3DF:Massive Mana Charge
+8390D3E0:Massive Mana Charge
+8390D3E1:Massive Mana Charge
+8390D3E2:Massive Mana Charge
+8390D3E3:Massive Mana Charge
+8390D3E4:Massive Mana Charge
+8390D3E5:Massive Mana Charge
+8390D3E6:Massive Mana Charge
+8390D3E7:Massive Mana Charge
+8390D3E8:Massive Mana Charge
+8390D3E9:Massive Mana Charge
+8390D3EA:Massive Mana Charge
+8390D3EB:Hollow Bow
+8390D3EC:Greater Mana Kit
+8390D3ED:Enhanced Health Elixir
+8390D3EE:Studded Leather Cuirass
+8390D3EF:Long  Gauntlets
+8390D3F0:Chainmail Tassets
+8390D3FE:Small Belt Pouch
+8390D3F1:Yoroi Pauldrons
+8390D3F2:Tenassa Sleeves
+8390D404:Token of Modification
+8390D3F3:Gorget
+8390D3F4:Bracelet
+8390D3F6:Shoes
+8390D3F5:Puzzle Box
+8390D3F7:Pants
+8390D406:Token of Modification
+8390D3F8:Cloak
+8390D3F9:Diforsa Greaves
+8390D3FF:Olthoi Ripper Spine
+8390D3FA:Heavy Bracelet
+8390D3FB:Baggy Tunic
+8390D43F:Deed
+8390D3FC:Knorr Academy Girth
+8390D3FD:Coronet
+8390D409:Token of Modification
+8390D400:Mutated Olthoi Gland
+8390D401:Battle Pants
+8390D402:Battle Pants
+8390D403:Enchanted Mana Stone
+8390D405:Aligned Mana Stone
+8390D407:Olthoi Slayer Carapace
+8390D408:Missile Defense Gem of Enlightenment
+8390D40A:Token of Modification
+8390D40B:Peerless Lockpick
+8390D40C:Paradox-touched Olthoi Bow
+8390D40D:Intricate Carving Tool
+8390D413:Plentiful Healing Kit
+8390D40E:Ornate Gear Marker
+8390D40F:Wrapped Bundle of Quarrelshafts
+8390D417:Massive Mana Charge
+8390D410:Wrapped Bundle of Olthoi Acid Arrowheads
+8390D411:Concentrated Acid Oil
+8390D412:Concentrated Bloodseeker Oil
+8390D414:Lesser Corrupted Essence
+8390D44D:Pyreal
+8390D415:Plentiful Healing Kit
+8390D416:Pack
+8390D418:Massive Mana Charge
+8390D419:Massive Mana Charge
+8390D41A:Massive Mana Charge
+8390D41B:Massive Mana Charge
+8390D41C:Massive Mana Charge
+8390D41D:Massive Mana Charge
+8390D41E:Massive Mana Charge
+8390D41F:Massive Mana Charge
+8390D420:Massive Mana Charge
+8390D421:Massive Mana Charge
+8390D422:Massive Mana Charge
+8390D423:Massive Mana Charge
+8390D424:Massive Mana Charge
+8390D425:Massive Mana Charge
+8390D426:Plentiful Healing Kit
+8390D427:Enhanced Mana Elixir
+8390D428:Lugian Commander's Insignia
+8390D429:Massive Mana Charge
+8390D42A:Massive Mana Charge
+8390D42B:Aetheria
+8390D42C:Aetheria
+8390D42E:Niffis Pearl
+8390D42D:Aetheria
+8390D42F:Pack
+8390D430:Aetheria Mana Stone
+8390D431:Writ of Refuge
+8390D432:Burning Sands Keyring
+8390D434:Jitte of Law
+8390D433:Mana Phial of Acid Vulnerability
+8390D435:Phantom Dagger
+8390D44E:Pyreal
+8390D436:Black Page of Salt and Ash
+8390D437:A'nekshay Token
+8390D44F:Pyreal
+8390D438:Coalesced Mana
+8390D439:Black Market Gem of Dispelling
+8390D43A:Enhanced Mana Elixir
+8390D43B:Eldrytch Web Trade Token
+8390D43C:Colosseum Coin
+8390D43D:Small Olthoi Venom Sac
+8390D43E:Ancient Mhoire Coin
+8390D444:Tumerok Salted Meat
+8390D443:Enhanced Health Elixir
+8390D445:Sawato Bandit's Mask
+8390D450:Pyreal
+8390D446:Shield of Truth
+8390D447:Breastplate of Power
+8390D451:Pyreal
+8390D448:Sawato Bandit's Mask
+8390D449:Black Page of Salt and Ash
+8390D452:Pyreal
+8390D44A:Trade Note (250,000)
+8390D453:Pyreal
+8390D454:Pyreal
+8390D455:Teleportation Device
+8390D440:Focusing Stone
+8390D456:Jitte of Law
+8004A422:Trade Note (250,000)
+8004A42D:Leggings of Darkness
+8004A42C:Coat of Darkness
+8004A42E:Sollerets of Darkness
+8004A42B:Helm of Darkness
+8004A42F:Gauntlets of Darkness
+8390D441:Olthoi Acid Bolt
+8390D442:Acid Compound Crossbow
+
+Missing Exports - Possessed items that were not found:

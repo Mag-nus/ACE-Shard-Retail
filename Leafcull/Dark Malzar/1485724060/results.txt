@@ -1,0 +1,97 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-05-2017\AC_Logs_Leafcull_Dark_Noble_SimonF\pkt_2017-1-29_1485723556_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-05-2017\AC_Logs_Leafcull_Dark_Noble_SimonF\pkt_2017-1-20_1484951342_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\AC_Logs_Leafcull_Dark_Noble_SimonF\pkt_2017-1-23_1485229932_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\AC_Logs_Leafcull_Dark_Noble_SimonF\pkt_2017-1-23_1485229932_log.pcap
+
+Partial Exports - Missing appraisal info:
+ADACF7DC:Foci of Strife
+ADACF7DD:Foci of Verdancy
+AE20DE2F:Pyreal
+ADC8698B:Pathwarden Trinket
+ADDC5E19:Pack
+ADCFF03B:Lucky Gold Letter
+ADDE8DCF:Sharp Tusker Slave Tusk
+ADE8079E:Scroll of Summon Primary Portal II
+ADE807A0:Scroll of Summon Secondary Portal II
+80F45699:Acid Lancet
+ADDE28B4:Scroll of Impenetrability VI
+ADE05B7C:Greater Mana Stone
+ADE8E30B:Treated Healing Kit
+ADE7D1E8:Treated Healing Kit
+ADEB1A4D:Pack Levistras
+ADACF7D8:Ust
+ADD84AA8:Iron Scarab
+ADD9D934:Academy Library Key
+AE1CA54D:Sturdy Iron Key
+ADDC5E11:Lead Scarab
+ADACF7D9:Calling Stone
+ADDC8985:Silver Scarab
+ADD9DEF5:Facility Hub Portal Gem
+AE1E3BDA:Gold Pea
+ADDE9FB4:Suikan Creature Master Robe
+ADDBC24D:Major Mana Stone
+AE74602A:Prismatic Taper
+ADDC5E18:Pack
+ADE942FB:Treated Healing Kit
+ADE942FC:Treated Healing Kit
+ADE8EA04:Treated Healing Kit
+AE109DFB:Silver Pea
+AE17E1F7:Pyreal Mote
+AE1C926F:Pyreal Mote
+AE0CCAF2:Pyreal Mote
+AE1F8D78:Cracked Shard
+AE1FFA62:Gem
+AE1FFDD0:Pyreal Nugget
+AE208CA7:Ravener Guts
+AE1F3739:Lucky Gold Letter
+ADDEF89C:Lucky Gold Letter
+ADE0224D:Lucky Gold Letter
+ADD92C6E:Lucky Gold Letter
+ADD8F4FA:Suikan War Apprentice Robe
+ADE887F5:Deed
+ADE0783A:Great Mana Charge
+ADDFE76E:Great Mana Charge
+ADE0E86B:Great Mana Charge
+ADDED4D5:Gold Scarab
+ADD9A849:Blackmoor's Favor
+AE749DB1:Pyreal Scarab
+ADDF5AE4:Foci of Artifice
+ADEABD2B:Pack
+ADF99CE1:Snowflower
+AE082EAC:Iron Ore
+ADF9D7C0:Lapyan Plant
+ADFAF468:Undead Thighbone
+AE096790:Excellent Lockpick
+AE096858:Superb Lockpick
+AE096897:Peerless Lockpick
+AE0707F5:Obsidian Heart
+AE09BB4D:Obsidian Heart
+ADFC5E99:Copper Heart
+AE0A2FEE:Obsidian Heart
+AE071613:Obsidian Heart
+AE0CEC1D:Copper Heart
+AE1B909A:Trade Note (50,000)
+ADE97662:Low-Stakes Gambling Token
+AE20EC39:Pyreal
+ADDD766F:Pyreal Scarab
+ADDD9835:Prismatic Taper
+ADE7C039:Copper Scarab
+AE0C78D3:Obsidian Heart
+ADF8D68A:Platemail Gauntlets
+AE200DD5:Pyreal
+80044452:Pyreal
+AE7443FA:Pack
+AE744708:Large Armoredillo Hide
+AE7475F2:Glittering Necklace of Acid and Piercing Protection
+AE7475F3:Trade Note (75,000)
+AE7475F4:Treated Healing Kit
+AE7475F5:Treated Healing Kit
+AE7475F6:Gem of Purity
+AE750824:Aphus Lassel Portal Gem
+ADBD275A:Scroll of Frailty Other VI
+ADE8AA9A:Assault Orb
+
+Missing Exports - Possessed items that were not found:

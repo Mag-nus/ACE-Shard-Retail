@@ -1,0 +1,32 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-22_1485139320_log.pcap
+
+Partial Exports - Missing appraisal info:
+813C2A81:Sack
+813FD094:Egg
+813C2AB4:Prismatic Taper
+813C2A7E:Facility Hub Portal Gem
+813FD093:Pack
+813C2BB2:Mana Scarab
+81392E57:Pack
+813A5443:Virindi Consul Essence
+813C2BF5:Greater Mana Stone
+813C2ACA:Lead Scarab
+813C2A8E:Greater Mana Stone
+81391EA6:Gold Scarab
+813C2A76:Platinum Scarab
+813C2AFD:Pack
+813C2AE0:Major Mana Stone
+813C2ADE:Pyreal
+813FD01B:Copper Scarab
+813C2AD7:Gem of Stillness
+813C2AF3:Diamond Scarab
+813C2B12:Ust
+813C2ADC:Pack
+81394113:Pack
+813C2B1B:Pack
+813C2AC4:Silver Scarab
+813CC7BA:Aetheria Mana Stone
+9970C042:Encapsulated Spirit
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,49 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-30-to-1-31\Bliz 1-30 to 1-31\pkt_2017-1-30_1485830059_log.pcap
+
+Partial Exports - Missing appraisal info:
+86398B92:Flared Shirt
+86398B95:Pyreal
+86398B93:Loose Pants
+86398B96:Sack
+86398B9F:Lead Scarab
+86398B9E:Prismatic Taper
+86F3FFA0:Pyreal Scarab
+86F3FEBA:Gold Scarab
+82148759:Silver Scarab
+86F39D6F:Copper Scarab
+86F6026C:Iron Scarab
+86398B97:Ust
+86398B9C:Foci of Strife
+86398B9D:Foci of Verdancy
+86F07A99:Asheron's Benediction
+86F12AEC:Facility Hub Portal Gem
+86D63DD9:Pyreal
+86F31A92:Trade Note (250,000)
+86F359E1:Blackmoor's Favor
+86C5ED08:Pyreal
+86F6EDAC:Pack
+86F29544:Pathwarden Trinket
+86F6EDBD:Pack
+86F6EDBF:Pack
+86FC920B:Sollerets
+86F347E2:Chainmail Gauntlets
+86FC94A9:Kasa
+86F33DA1:Hood
+86FA6EA5:High Mana Charge
+86FB97A4:Diforsa Hauberk
+86F4735D:Ghost Guise
+86FA6EB3:High Mana Charge
+86F34C62:Encapsulated Spirit
+86FBC6FF:Fire Baton
+870E2D8E:Lucky Gold Letter
+87110974:Scarlet Red Letter
+8711184C:Scarlet Red Letter
+871167A3:Dansha-Ki's Ring
+871167A1:Dansha-Ki's Gem of Portal Recall
+87118D70:Foci of Artifice
+870ED51F:Ibrexi Jikti's Journal
+870ED1EC:A Book of Quests for Young Explorers
+86C92A44:Taulandoi
+
+Missing Exports - Possessed items that were not found:

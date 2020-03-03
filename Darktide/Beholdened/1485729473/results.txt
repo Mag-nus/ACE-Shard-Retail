@@ -1,0 +1,106 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-29_1485718290_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-27_1485536327_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-28_1485614827_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-29_1485718290_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-29_1485718290_log.pcap
+
+Partial Exports - Missing appraisal info:
+CBFF6880:Pyreal
+CBFF687E:Doublet
+CBFF687D:Trousers
+CBFDBA7A:Ust
+CBFDBA7D:Calling Stone
+CBFDBA7E:Blackmoor's Favor
+CBFDB2D0:Pathwarden Gauntlets
+CBFDBA80:Facility Hub Portal Gem
+CBFDBA79:Pathwarden Helm
+CBFF2CC3:Sack
+CBFDBA78:Lytelthorpe Portal Gem
+CBFDBA76:Pyreal
+CBFDBA7B:Quartered Cloak
+CBFDAABF:Second Half of a Battered Crossbow
+CBFDAABE:Ursuin Body
+CBFDAAB9:Trousers
+CBFDBA74:Titan Mana Charge
+CBFDBA71:Noble Relic Sollerets of Speed
+CBFDBA63:Heavy Bracelet
+CBFA43D6:Olthoi Alduressa Boots
+CBF97AB8:Darling's Collar
+CBFCB2CA:Noble Relic Sollerets of Speed
+CBFA6869:Ursuin Scalp
+CBFDBA5C:Shirt
+CBFDBA57:Chiran Leggings
+CBFF2CBB:Olthoi Helm
+CBFDBADB:Olthoi Helm
+CBFDAAD9:Chiran Helm
+CBFDAAD8:Acid Compound Bow
+CBFDBA59:Blunt Compound Bow
+CBFDBA58:Electric Bow
+CBFDB9D0:Acid Bow
+CBFDB9D1:Fire Bow
+CBFDBA5E:Frost Bow
+CBFF2BDE:Slashing Bow
+CBFDB9E9:Frost Bow
+CBFDBA73:Pristine Mana Shard
+CBFDBA72:Acid Bow
+CBFDB9E8:Olthoi Celdon Gauntlets
+CBFDB954:Electric Crossbow
+CBFDB9FB:Salvage (100)
+CBFDAF15:Assault Bow
+CBFF2CCD:Salvage (100)
+CBFF2CBF:Salvage (100)
+CBFDB958:Assault Bow
+CBFDAAFF:Salvage (100)
+CBFDAB00:Salvage (100)
+CBFDB3D4:Renegade Bow
+CBFF2BA5:Small Bundle of Littoral Siraluun Feathers
+CBFDAAFE:First Half of a Battered Atlatl
+CBFDB88A:Sublime Elari Wood Bow
+CBFDBA5F:Pack Scarecrow
+CBFDAF30:Greater Lightning Arrow
+CBFF2CD4:Royal Runed Arbalest
+CBF0DF78:Longbow
+CBFDBA64:Acid Compound Bow
+CBFF9483:Blunt Compound Bow
+CBFF2CB9:Massive Mana Charge
+CBFDB908:Bladed Bow of Impaling
+CBF0E396:Electric Bow
+CBFF2CBA:Electric Bow
+CBFDB88D:Electric Compound Bow
+CBFDB891:Blunt Bow
+CBFF2CD3:Royal Runed Flamberge
+CBFDB0FA:Lesser Olthoi Girth
+CBFDB106:Massive Mana Charge
+CBFDB10C:Lesser Olthoi Tassets
+CBFDB86E:Lesser Olthoi Breastplate
+CBFF2CDA:Teardrop Crown
+CBFDBA6E:Pathwarden Robe
+CBFDB0FD:Massive Mana Charge
+CBFDABA1:Excellent Oiled String
+CBF47AD3:Crystal Fragment
+CBFDBA6B:Concentrated Bloodseeker Oil
+CBFDBA6D:Concentrated Bloodhunter Oil
+CBFF2CE9:Sparkling Gem
+CBFDB0FB:Crown
+CBFDBA6C:Massive Mana Charge
+CBFDB0FE:Massive Mana Charge
+CBFDB100:Jerkin
+CBFDB101:Heavy Bracelet
+CBFDB109:Pocket Watch
+CBFF66C7:Nariyid Girth
+CBFDB858:Reedshark Hide
+CBFF66C6:Noble Relic Coat of Brilliance
+CBFF66C8:Noble Relic Leggings of Health
+CBFF2CDE:Lorica Sleeves
+CBFF2CDC:Pantaloons
+CBFDBA6A:Studded Leather Gauntlets
+CBFDB12F:Ring
+CBFF2CBD:Dark Monolith Caverns
+CBFF2C1E:Gem of Stillness
+CBFF2C1F:Dho Item Master Robe
+CBFF2C1D:Alduressa Boots
+
+Missing Exports - Possessed items that were not found:

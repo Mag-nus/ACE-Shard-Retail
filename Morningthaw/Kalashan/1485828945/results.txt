@@ -1,0 +1,174 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\TheFallen_MT_01-30-17_GreenMireGrave\TheFallen_MT_01-30-17_GreenMireGrave.pcap
+
+Partial Exports - Missing appraisal info:
+C6BF93C5:Pack
+C6BF93D8:Low-Stakes Gambling Token
+C6BF93D7:Mid-Stakes Gambling Token
+C6BF93D6:Shashqa
+C6BF93CF:Smithy's Crystal
+C6BF93CE:Flaming Nodachi
+C6BF93CD:Pack
+C6BF93D4:Ust
+C6BF93D3:Copper Scarab
+C6BF93D1:Prismatic Taper
+C6BF93D0:Silver Scarab
+C6BF94A1:Stipend
+C6BF93E2:Trade Note (250,000)
+C6BF93E1:Iron Scarab
+C6BF93DF:Lead Scarab
+C6BF93DE:Gem of Purity
+C6BF93DD:Gold Scarab
+C6BF93DC:Pyreal Scarab
+C6BF93DB:Blackmoor's Favor
+C6BF94CB:Facility Hub Portal Gem
+C6BF93E6:Great Mana Charge
+C6BF94D4:Health Tonic
+C6BF94D7:Mana Tonic
+C6BF93E8:Gem of Stillness
+C6BF93E7:Pack
+C6BC1145:Chevron Cloak
+C6BC026F:Treated Healing Kit
+C6BC1268:Treated Healing Kit
+C6BF93EB:Treated Healing Kit
+C6BF93EA:Treated Healing Kit
+C6BF93E9:Faran Item Master Robe
+C6BC1267:Faran Life Master Robe
+C6BC1282:Faran Life Master Robe
+C6BBCDF4:Faran Life Master Robe
+C6BC10F3:Treated Healing Kit
+C6B437FA:Treated Healing Kit
+C6BF94E6:Studded Leather Boots
+C6BF94EE:Treated Healing Kit
+C6BF93EF:Treated Healing Kit
+C6BF93EE:Pack
+C6BF93ED:Cloth Gloves
+C6BF94F0:Crown
+C6BF93F3:Coronet
+C6BF94F3:Circlet
+C6BF93F4:Coronet
+C6BF93F1:Coronet
+C6BF93F0:Diadem
+C6BF93FB:Salvage (100)
+C6BF93F6:Trade Note (100,000)
+C6BF93FA:Salvage (100)
+C6BF93F9:Salvage (100)
+C6BF93FF:Pack
+C6BF93F8:Salvage (100)
+C6BF93F7:Salvage (100)
+C6BF9428:Sturdy Steel Key
+C6BF9403:Trade Note (50,000)
+C6BF9402:Salvage (100)
+C6BF9427:Sturdy Steel Key
+C6BF9401:Salvage (100)
+C6BF93FE:Salvage (100)
+C6BF9426:Sturdy Steel Key
+C6BF93FD:Salvage (100)
+C6BF951E:Salvage (100)
+C6BF9431:Sturdy Iron Keyring
+C6BC12BA:Salvage (100)
+C6BF9406:Salvage (100)
+C6BF9639:Pyreal
+C6BF9405:Salvage (100)
+C6BF9404:Salvage (100)
+C6BF963A:Pyreal
+C6BF940B:Salvage (100)
+C6BF940A:Salvage (100)
+C6BF944E:Pyreal
+C6BF9408:Salvage (100)
+C6BF9407:Salvage (100)
+C6BF944D:Pyreal
+C6BF9413:Salvage (100)
+C6BF9412:Salvage (100)
+C6BF944C:Pyreal
+C6BF9411:Salvage (100)
+C6BF940F:Salvage (100)
+C6BF9676:Untranslated Note
+C6BF940E:Salvage (100)
+C6BF940D:Salvage (100)
+C6BF945E:Lucky Gold Letter
+C6BF941A:Salvage (100)
+C6BF9419:Salvage (100)
+C6BF9694:Scarlet Red Letter
+C6BF9418:Salvage (100)
+C6BF9416:Coronet
+C6BF941C:Foci of Artifice
+C6BF9415:Salvage (100)
+C6BF9414:Salvage (100)
+C6BF948F:Untranslated Note
+C6BF9580:Salvage (100)
+C6B5BFA8:Salvage (5)
+C6BF948D:Diamond Shield
+C6BC1283:Peerless Sparking Atlan Sword
+C6BF941E:Peerless Stinging Atlan Sword
+C6BF941D:Foci of Verdancy
+C6BBFBEA:Mazule
+C6BF9423:Salvage (4)
+C6BF942E:Salvage (94)
+C6BF942D:Coalesced Aetheria
+C6BF942C:Salvage (20)
+C6BF942A:Coalesced Aetheria
+C6BF9429:Seasoned Explorer Morning Star
+C6BC125E:Lightning Flanged Mace
+C6BC1271:Flanged Mace
+C6BBFC13:Flaming Flanged Mace
+C6BBFC1B:Nabut
+C6BC1272:Lightning Morning Star
+C6BF943E:Lightning Long Sword
+C6BF943D:Flaming Long Sword
+C6BF943C:Lightning Tachi
+C6BF943B:Frost Mace
+C6BF943A:Lightning Flamberge
+C6BF9439:Acid Morning Star
+C6BF9437:Coalesced Aetheria
+C6BF9436:Acid Morning Star
+C6BC12A7:Partizan
+C6BF943F:Flaming Mace
+C6BF944B:Tachi
+C6BF944A:Flaming Tachi
+C6BF9449:Coalesced Aetheria
+C6BF9448:Coalesced Aetheria
+C6BF9447:Salvage (100)
+C6BF9446:Dirk
+C6BF9456:Dirk
+C6BF9455:Coalesced Aetheria
+C6BF9453:Lightning Long Sword
+C6BF9450:Coalesced Aetheria
+C6BF9467:Qafiya
+C6BF9452:Salvage (100)
+C6BF9451:Flanged Mace
+C6BF9664:Coalesced Aetheria
+C6BF9459:Salvage (5)
+C6BF9458:Salvage (100)
+C6BC112A:Salvage (32)
+C6BF9679:Salvage (81)
+C6BF945D:Salvage (100)
+C6BF945B:Salvage (36)
+C6BF945A:Nekode
+C6BF9695:Seasoned Explorer Ken
+C6BF9468:Salvage (20)
+C6BF9466:Coalesced Aetheria
+C6BF9465:Salvage (72)
+C6BF9464:Salvage (16)
+C6BF9463:Salvage (69)
+C6BF9462:Electric Trident
+C6BF9461:Coronet
+C6BF9460:Salvage (10)
+C6BF96B8:Cloth Cap
+C6BF96BB:Schlager
+C6BF96CF:Salvage (43)
+C6BF96D2:Salvage (100)
+C6BF9486:Salvage (71)
+C6BF9485:Salvage (100)
+C6BF9484:Salvage (51)
+C6BF9483:Salvage (7)
+C6BF9482:Salvage (43)
+C6BF9481:Salvage (10)
+C6BF9480:Heavy Necklace
+C6BF947F:Crown
+C6BF947E:Salvage (88)
+C6BF96DA:Salvage (61)
+C6BF9490:Crown
+C6BF948E:Seasoned Explorer Stick
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,146 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\random-running-around\pkt_2017-1-22_1485145389_log.pcap
+
+Partial Exports - Missing appraisal info:
+AF37F45F:Golden Gromnie
+AF3EC4A1:Golden Gromnie
+AF35B579:Gem of Balance
+AF3F718D:Golden Gromnie
+AF406111:Mana Forge Key
+AE746411:Ancient Empyrean Trinket
+AF39A1FA:Bandana
+AF3AD885:Crown
+AF3D49C2:Electric Sceptre
+AF384153:Haebrean Vambraces
+AF3AC3D8:Salvage
+AF3D49D4:Turban
+AF353758:Ring
+AF3D49BF:Crown
+AF3D49C4:Qafiya
+AF3DDD79:Frost Baton
+AF41A1C2:Diadem
+ACA899C5:Pristine Mana Shard
+AF41A1D9:Teardrop Crown
+AF412D6E:Coronet
+AF428D95:Diadem
+AF414B0C:Kasa
+AF428D9E:Ring
+AF39A626:Cloth Gloves
+AF3DDD7B:Bracelet
+AF412D7F:Studded Leather Boots
+AF3DE18C:Blunt Baton
+AF40F29F:Smock
+AF40F2A3:Koujia Breastplate
+AF413235:Salvage
+AF2F4D69:Fire Bow
+AF3F60BD:Cloth Cap
+AF3F624B:Blunt Compound Crossbow
+AF3F5E77:Cloth Cap
+AF38C1CE:Cloth Cap
+AF3F74B4:Coalesced Aetheria
+AF30E0E7:Shoes
+AF42988E:Acid Compound Crossbow
+AF3F7511:Lyceum Hood
+AF3F7510:Acid Baton
+AF30DAAA:Cloth Cap
+AF3C889B:Lightning Knife
+AF42AD8F:Halved Cloak
+AF42AD7D:Loafers
+AF42AD7E:Hood
+AF2CACE2:Loafers
+AF3385EC:Salvage
+AF3FA7BC:Piercing Slingshot
+AF21C7A0:Salvage
+AF42EADC:Slashing Atlatl
+AF42EADD:Heavy Bracelet
+AF42EAE4:Piercing Slingshot
+AF443E84:Fire Compound Bow
+AF3EB0C8:Slashing Slingshot
+AF3819EC:Hood
+AF48EC5F:Loafers
+AF48EC5B:Circlet
+AF48EC4A:Sandals
+AF48EC5D:Fire Compound Crossbow
+AF444970:Crown
+AF483501:Coalesced Aetheria
+AF461D87:Salvage
+AC6A3C02:Golden Gromnie
+B19154CD:Salvage (100)
+B18D6562:Salvage (100)
+B0EE41EE:Salvage (100)
+AF3A3910:Pack
+B1185126:Salvage (100)
+B106A92A:Salvage (100)
+AF375216:Pack
+B107C3AF:Salvage (100)
+B113E41C:Salvage (100)
+B182E5A7:Salvage (100)
+B186F984:Salvage (100)
+B19F6EC9:Salvage (100)
+B19DF4B5:Salvage (100)
+B19CB8E8:Salvage (100)
+B1817DEC:Salvage (100)
+B1923363:Salvage (100)
+B1A08377:Salvage (100)
+B197324E:Salvage (100)
+B1C0D96A:Salvage (100)
+B1BB1E96:Salvage (100)
+B1A6F084:Salvage (100)
+B1957E1C:Salvage (100)
+B1A30A60:Salvage (100)
+B1B40EF2:Salvage (100)
+B1A61565:Salvage (100)
+80068738:Salvage (100)
+B1C6E685:Salvage (100)
+B1BF85D2:Salvage (100)
+B1D42AF2:Salvage (100)
+B1CDEE0F:Salvage (100)
+B1C3F12B:Salvage (100)
+B1C8239E:Salvage (100)
+B1D41958:Salvage (100)
+B1CCCD5D:Salvage (100)
+B1CD4962:Salvage (100)
+B1D645F9:Salvage (100)
+B1D79BA5:Salvage (100)
+B106C651:Salvage (100)
+B0F1E864:Salvage (100)
+B1841318:Salvage (100)
+B0F76705:Salvage (100)
+B1131FC4:Salvage (100)
+B1B9C4CE:Salvage (100)
+B1B9B434:Salvage (100)
+B1907291:Salvage (100)
+B1C40188:Salvage (100)
+B1904472:Elysa's Crystal
+B155B1ED:Salvage (100)
+B17BBE5C:Ring
+B1D4DDE4:Bracelet
+B115E15B:Rogue's Crystal
+ABA38982:Coalesced Aetheria
+AB9F86CA:Heavy Bracelet
+ABB3907E:Longbow
+AC97F19E:Staff
+ABB148F6:Shortbow
+B1F3B120:Yoroi Girth
+B1DA7B7C:Encapsulated Spirit
+B1DC46FE:Heavy Bracelet
+B1AF07C8:Gorget
+B1CD86FC:Ring
+B1AF08A1:Scholar's Crystal
+B1B9C51C:Electric Baton
+B18168B7:Heavy Bracelet
+B08D17D5:Ring
+B1914950:Salvage (100)
+B18A3E81:Vaulter's Crystal
+AF429897:Salvage
+AF42945A:Salvage
+AF414B04:Salvage
+AF41A1DE:Salvage
+AF41A1DD:Salvage
+AF40AAFA:Salvage
+AF40AAFB:Salvage
+AF40F0FC:Salvage
+AF353BE5:Salvage
+AF4445CB:Gem of Knowledge
+
+Missing Exports - Possessed items that were not found:

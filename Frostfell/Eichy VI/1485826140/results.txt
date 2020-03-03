@@ -1,0 +1,15 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\gdrive (tfarley)\Eichy\AC\pkt_2017-1-30_1485826049_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\gdrive (tfarley)\Eichy\AC\pkt_2017-1-30_1485825299_log.pcap
+
+Partial Exports - Missing appraisal info:
+DCD387E2:Loose Shirt
+DCD38878:Loose Pants
+DCD3887C:Shoes
+DCD3887D:Pack Asheron
+DCD387D1:Some Changes for February 2012
+DCD387D0:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

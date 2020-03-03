@@ -1,0 +1,26 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-20_1484972870_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-enlightenment\pkt_2017-1-20_1484972870_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-enlightenment\pkt_2017-1-20_1484972870_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-20_1484972870_log.pcap
+
+Partial Exports - Missing appraisal info:
+99DCCAAA:Sack
+99E4B99E:Pack
+99E4B9A2:Pack
+99E2D410:Pack
+9888490B:Salvage (100)
+988BC5BE:Salvage (100)
+99E4B9A4:Pack
+988BD81E:Salvage (100)
+98815BD4:Salvage (100)
+99E4B9A5:Pack
+9889FB65:Salvage (100)
+9832FF8B:Salvage (100)
+99E22B15:Pack
+9832F9BD:Salvage (100)
+9832E714:Salvage (100)
+
+Missing Exports - Possessed items that were not found:

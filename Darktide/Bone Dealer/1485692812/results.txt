@@ -1,0 +1,40 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-2\pkt_2017-1-29_1485691343_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-31_1485860015_log.pcap
+
+Partial Exports - Missing appraisal info:
+CD147D42:Pathwarden Helm
+CD147D41:Pathwarden Gauntlets
+CD147D3E:Pathwarden Sollerets
+CD147D3D:Pathwarden Yoroi Leggings
+CD2A0A9E:Academy Coat
+CD2A076F:Blackmoor's Favor
+CD147D3C:Pathwarden Yoroi Hauberk
+CCAACBB8:Ust
+D3A9AA66:Lead Scarab
+CE1EE0DD:Pack
+D3A9AA86:Iron Scarab
+D3A9ACD7:Copper Scarab
+D3A9AAB4:Silver Scarab
+D3A97AC7:Gold Scarab
+D3A9AC91:Pyreal Scarab
+D3A975B6:Platinum Scarab
+D3A98135:Mana Scarab
+CCAACBBE:Prismatic Taper
+D4821394:Stipend
+D3A9AA15:Foci of Verdancy
+D3A9AA0F:Foci of Enchantment
+D3A9B440:Foci of Artifice
+D3AA6ABB:Foci of Shadow
+D3C47FB5:Blank Augmentation Gem
+D471C69A:Upper Insatiable Eater Jaw
+D4819BF4:Blank Augmentation Gem
+D5376A63:Upper Insatiable Eater Jaw
+D2D08D3B:Teardrop Crown
+D5376CE0:Blank Augmentation Gem
+D5FDAF10:Upper Insatiable Eater Jaw
+D5FA94C3:Blank Augmentation Gem
+
+Missing Exports - Possessed items that were not found:

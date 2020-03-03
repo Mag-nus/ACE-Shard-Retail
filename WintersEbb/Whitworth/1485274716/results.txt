@@ -1,0 +1,25 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-24_1485274685_log.pcap
+
+Partial Exports - Missing appraisal info:
+A57AC6AC:Baggy Shirt
+A57AC6A9:Loose Pants
+A57AC6AB:Leather Boots
+A57B3E6E:Pyreal
+A57AC6AD:Sack
+A57AC6AE:Ust
+A57AC46C:Training Mace
+A57AC46D:Training Cestus
+A57AC46E:Training Wand
+A57AC46F:Foci of Artifice
+A57AC470:Prismatic Taper
+A57AC471:Lead Scarab
+A57AC472:Handy Healing Kit
+A57AC46B:Letter From Home
+A57AC6B7:Asheron's Benediction
+A57AC6B1:Oil of Rendering
+A57AC6B8:Academy Coat
+A57AC476:Blackmoor's Favor
+A57AC6BB:Some Changes for February 2012
+
+Missing Exports - Possessed items that were not found:

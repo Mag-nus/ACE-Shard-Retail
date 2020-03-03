@@ -1,0 +1,22 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\Asherons-Call-20170203024646\pkt_2017-1-21_1485024620_log.pcap
+
+Partial Exports - Missing appraisal info:
+DC362380:Pyreal
+DC36237D:Shirt
+DC36237E:Wide Breeches
+DC362381:Sack
+DC36237F:Leather Boots
+DC362382:Ust
+DC362383:Calling Stone
+DC362384:Pathwarden Token
+DC362385:Training Battle Axe
+DC362386:Training Wand
+DC362387:Foci of Verdancy
+DC362388:Foci of Enchantment
+DC362389:Foci of Artifice
+DC36238A:Prismatic Taper
+DC36238B:Lead Scarab
+DC77C425:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

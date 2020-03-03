@@ -1,0 +1,203 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Granis-2017-01-31_last_hours\pkt_2017-1-31_1485873635_log.pcap
+
+Partial Exports - Missing appraisal info:
+AF72ABFC:Baggy Pants
+AF72ABFD:Loose Shirt
+AF72ACAE:Pyreal
+AF72AC00:Singularity Keyring
+AF72AC01:Singularity Keyring
+AF72AC02:Singularity Keyring
+AF72AC03:Singularity Keyring
+AF72AC04:Singularity Keyring
+AF72AC05:Singularity Keyring
+AF72AC06:Singularity Keyring
+AF72AC07:Singularity Keyring
+AF72AC08:Singularity Keyring
+AF72AC09:Singularity Keyring
+AF72AC0B:Singularity Keyring
+AF72AC0C:Singularity Keyring
+AF72AC0D:Singularity Keyring
+AF72AC0E:Singularity Keyring
+AF72AC0F:Singularity Keyring
+AF72AC10:Singularity Keyring
+AF72AC11:Singularity Keyring
+AF72AC12:Singularity Keyring
+AF72AC13:Singularity Keyring
+AF72AC14:Singularity Keyring
+AF72AC16:Singularity Keyring
+AF72AC17:Singularity Keyring
+AF72AC18:Singularity Keyring
+AF72AC19:Singularity Keyring
+AF72AC1B:Sturdy Iron Keyring
+AF72AC1C:Sturdy Iron Keyring
+AF72AC1D:Sturdy Iron Keyring
+AF72AC1E:Sturdy Iron Keyring
+AF72AC1F:Sturdy Iron Keyring
+AF72AC20:Sturdy Iron Keyring
+AF72AC21:Sturdy Iron Keyring
+AF72AC22:Sturdy Iron Keyring
+AF72AC26:Sturdy Iron Keyring
+AF72AC27:Sturdy Iron Keyring
+AF72AC28:Sturdy Iron Keyring
+AF72AC2A:Intricate Carving Tool
+AF72AC2B:Sturdy Iron Keyring
+AF72AC2D:Sturdy Iron Keyring
+AF72AC2E:Sturdy Iron Keyring
+AF72AC2F:Marble Key
+AF72AC30:Marble Key
+AF72AC31:Marble Key
+AF72ACAF:Pyreal
+AF72AC32:Marble Key
+AF72AC33:Marble Key
+AF72AC34:Marble Key
+AF72ACB1:Pyreal
+AF72AC35:Marble Key
+AF72AC36:Marble Key
+AF72ACB2:Pyreal
+AF72AC3A:Granite Key
+AF72AC3B:Granite Key
+AF72AC3D:Platinum Scarab
+AF72AC3E:Platinum Scarab
+AF72AC3F:Platinum Scarab
+AF72AC40:Platinum Scarab
+AF72AC41:Platinum Scarab
+AF72AC42:Platinum Scarab
+AF72AC43:Platinum Scarab
+AF72AC44:Platinum Scarab
+AF72AC45:Platinum Scarab
+AF72AC46:Platinum Scarab
+AF72AC47:Platinum Scarab
+AF72AC48:Platinum Scarab
+AF72AC49:Platinum Scarab
+AF72AC4B:Platinum Scarab
+AF72AC4C:Platinum Scarab
+AF72AC4D:Platinum Scarab
+AF72AC4E:Platinum Scarab
+AF72AC4F:Platinum Scarab
+AF72AC50:Platinum Scarab
+AF72AC51:Platinum Scarab
+AF72AC52:Platinum Scarab
+AF72AC53:Platinum Scarab
+AF72AC54:Platinum Scarab
+AF72AC56:Platinum Scarab
+AF72AC57:Platinum Scarab
+AF72AC58:Platinum Scarab
+AF72AC59:Platinum Scarab
+AF72AC5A:Platinum Scarab
+AF72AC5B:Platinum Scarab
+AF72AC5C:Platinum Scarab
+AF72AC5D:Platinum Scarab
+AF72AC5E:Platinum Scarab
+AF72AC5F:Platinum Scarab
+AF72AC60:Platinum Scarab
+AF72AC61:Platinum Scarab
+AF72AC63:Platinum Scarab
+AF72AC64:Platinum Scarab
+AF72AC65:Platinum Scarab
+AF72AC66:Platinum Scarab
+AF72AC67:Platinum Scarab
+AF72AC68:Platinum Scarab
+AF72AC69:Platinum Scarab
+AF72AC6A:Platinum Scarab
+AF72AC6B:Platinum Scarab
+AF72AC6C:Platinum Scarab
+AF72AC6D:Platinum Scarab
+AF72AC6F:Platinum Scarab
+AF72AC70:Platinum Scarab
+AF72AC71:Platinum Scarab
+AF72AC72:Platinum Scarab
+AF72AC73:Platinum Scarab
+AF72AC74:Platinum Scarab
+AF72AC75:Platinum Scarab
+AF72AC76:Platinum Scarab
+AF72AC77:Platinum Scarab
+AF72AC78:Platinum Scarab
+AF72AC79:Platinum Scarab
+AF72AC7A:Platinum Scarab
+AF72AC7B:Platinum Scarab
+AF72AC7C:Platinum Scarab
+AF72AC7D:Platinum Scarab
+AF72AC7E:Platinum Scarab
+AF72AC7F:Platinum Scarab
+AF72AC80:Platinum Scarab
+AF72AC82:Platinum Scarab
+AF72AC83:Platinum Scarab
+AF72AC84:Platinum Scarab
+AF72AC85:Platinum Scarab
+AF72AC86:Platinum Scarab
+AF72AC8A:Platinum Scarab
+AF72AC8B:Singularity Keyring
+AF72AC8C:Singularity Keyring
+AF72AC8D:Scroll of Brogard's Defiance
+AF72AC8E:Scroll of Adja's Gift
+AF72AC8F:Scroll of Meditative Trance
+AF72AC90:Scroll of Crushing Shame
+AF72AC91:Scroll of Hieromancer's Blessing
+AF72AC92:Scroll of Ogfoot
+AF72AC93:Scroll of Sudden Frost
+AF72AC94:Scroll of Tusker Bait
+AF72AC95:Scroll of Cannibalize
+AF72AC96:Scroll of Bottle Breaker
+AF72AC97:Scroll of Meditative Trance
+AF72AC98:Scroll of Crushing Shame
+AF72AC99:Scroll of Wrath of Celcynd
+AF72AC9A:Scroll of Light Weapon Ineptitude Other VII
+AF72AC9B:Scroll of Swordsman's Gift
+AF72AC9C:Scroll of Missile Weapon Ineptitude Other VII
+AF72AC9D:Scroll of Missile Weapon Mastery Self VII
+AF72ACA0:Scroll of Broadside of a Barn
+AF72ACA1:Scroll of Enervation
+AF72ACA2:Scroll of Eyes Clouded
+AF72ACA3:Scroll of Swordsman's Bane
+AF72ACA4:Scroll of Shock Arc VII
+AF72ACA5:Scroll of Saladur's Blessing
+AF72ACA6:Scroll of Introversion
+AF72ACA7:Scroll of Alset's Coil
+AF72ACA8:Scroll of Tusker Bait
+AF72ACA9:Scroll of Ataxia
+AF72ACAA:Scroll of Tusker's Gift
+AF72ACAB:Scroll of Ketnan's Boon
+AF72ACAC:Scroll of Flame Arc VII
+AF72ACB3:Pyreal
+AF72ACB4:Pyreal
+AF72ACB6:Pyreal
+AF72ACB7:Pyreal
+AF72ACB8:Pyreal
+AF72ACB9:Pyreal
+AF72ACBA:Pyreal
+AF72ACBB:Pyreal
+AF72ACBC:Pyreal
+AF72ACBD:Pyreal
+AF72ACBE:Pyreal
+AF72ACBF:Pyreal
+AF72ACC0:Pyreal
+AF72ACC1:Pyreal
+AF72ACC2:Pyreal
+AF72ACC3:Pyreal
+AF72ACC4:Pyreal
+AF72ACC5:Pyreal
+AF72ACC6:Pyreal
+AF72ACC7:Pyreal
+AF72ACC8:Pyreal
+AF72ACC9:Pyreal
+AF72ACCA:Pyreal
+AF72ACCB:Pyreal
+AF72ACCC:Pyreal
+AF72ACCD:Pyreal
+AF72ACCE:Pyreal
+AF72ACCF:Pyreal
+AF72ACD0:Pyreal
+AF72ACD1:Pyreal
+AF72ACD2:Pyreal
+AF72ACD3:Pyreal
+AF72ACD4:Pyreal
+AF72ACD5:Pyreal
+AF72ACD6:Pyreal
+AF72ACD7:Pyreal
+AF72ACD8:Pyreal
+AF72ACD9:Pyreal
+AF72ACDB:Pyreal
+AF72ACE0:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

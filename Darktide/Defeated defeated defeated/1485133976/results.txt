@@ -1,0 +1,8 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\trello_datamining\196_OlthoiPlayArwic\OlthoiPlayArwic.pcap
+
+Partial Exports - Missing appraisal info:
+D7ADE1CC:Acidic Infusion
+D801761B:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

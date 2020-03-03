@@ -1,0 +1,36 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Cyberkiller-01-31-2017-Random\pkt_2017-1-31_1485861451_log.pcap
+
+Partial Exports - Missing appraisal info:
+D890E7E8:Pyreal
+D890E7F0:Quicksilver
+D890E7CE:Powdered Turquoise
+D890E7C6:Stibnite
+D890E7B2:Vitriol
+D890E7D7:Ashwood Talisman
+D890E7A9:Yew Talisman
+D890E7DF:Cedar Talisman
+D890E7BD:Hyssop
+D890E7E7:Willow Talisman
+D890E7C5:Wormwood
+D890E7F8:Ginseng
+D890E7EF:Powdered Onyx
+D890E7CD:Cobalt
+D890E7B1:Ebony Talisman
+D890E7D6:Damiana
+D890E7DE:Alder Talisman
+D890E800:Lead Scarab
+D890E7BC:Mandrake
+D890E7E6:Powdered Amber
+D890E808:Hemlock Talisman
+D890E7C4:Colcothar
+D890E7D5:Welcome Letter
+D890E7DD:Sack
+D890E7FF:Greeter's Key
+D890E7F6:Quartermaster's Workshop Key
+D890E7D4:A Crumpled Note
+D890E7DC:Pack Burun Kukuur
+D890E7FE:Blackmoor's Favor
+D890E7E4:Some Changes for February 2012
+
+Missing Exports - Possessed items that were not found:

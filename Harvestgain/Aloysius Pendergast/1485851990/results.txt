@@ -1,0 +1,52 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-31-2017-pkt_2017-1-31_1485847270_log\pkt_2017-1-31_1485847270_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-31-2017-pkt_2017-1-31_1485847270_log\pkt_2017-1-31_1485847270_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-31-2017-pkt_2017-1-31_1485847270_log\pkt_2017-1-31_1485847270_log.pcap
+
+Partial Exports - Missing appraisal info:
+C7AEB08E:Flared Shirt
+C780257D:Sack
+C7ABBA85:Trousers
+C7B2D77D:Asheron's Benediction
+C7BF2D8A:Ust
+C7A81485:Facility Hub Portal Gem
+C7BFF96A:Handy Healing Kit
+C7BFF96B:Untranslated Page #4
+C7BFF96C:Stone of Rez'arel
+C7BFF96D:Blackmoor's Favor
+C7BFF96E:Pathwarden Robe
+C7BFF96F:Prismatic Taper
+C7BFF970:Copper Scarab
+C7BFF972:Orb
+C7BFF973:Treated Healing Kit
+C7BFF974:Treated Healing Kit
+C7BFF975:Treated Healing Kit
+C7BFF976:Treated Healing Kit
+C7BFF978:Pathwarden Trinket
+C7BFF979:Baron's Amulet of Life Giving
+C7BFF97A:Pyreal
+C7BFF97B:Foci of Artifice
+C7BFF97C:Pack
+C7BFF97D:Assault Sword
+C7BFF97E:Dull Dagger
+C7BFF97F:Pack
+C7BFF980:Pack
+C7BFF982:Pyreal
+C7BFF981:Faran Robe with Hood
+C7BFF983:Pyreal
+C7BFF984:A Ring of Acid Protection
+C7BFF985:Trade Note (50,000)
+C7BFF986:Ring of Piercing Protection
+C7BFF989:Copper Pea
+C7BFF987:Trade Note (10,000)
+C7BFF988:Claw
+C7BFF98A:Scarlet Red Letter
+C7BFF98B:Lancet
+C7BFF98C:Stipend
+C7BFF98D:Diamond Shield
+C7BFF98E:Green Mire Yari
+C85FB24A:Promissory Note
+
+Missing Exports - Possessed items that were not found:

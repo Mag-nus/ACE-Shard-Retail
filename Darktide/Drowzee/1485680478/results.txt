@@ -1,0 +1,230 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\MrBoomBoom-01-22-2017-SeveralLegendaryQuests\pkt_2017-1-29_1485678114_log.pcap
+
+Partial Exports - Missing appraisal info:
+CBA6A3E3:Ust
+CBA69EAC:Blackmoor's Favor
+CBCE123D:Pack
+CBDA68BF:Oak Talisman
+CBA727D4:Hazel Talisman
+CBA6389A:Green Pea
+CBD0F3A2:White Pea
+CBA724E3:Yellow Pea
+CBA71EA2:Turquoise Pea
+CBA71E62:Blue Pea
+CBB715B8:Indigo Pea
+CBB65786:Orange Pea
+CB99DDED:Brown Pea
+CBAE0172:Grey Pea
+CBBFB268:Violet Pea
+CBB6D737:Pink Pea
+CB8FED54:Red Pea
+CBA64508:Hyssop Pea
+CBBB208C:Hawthorn Pea
+CBDB40E6:Powdered Onyx Pea
+CBACD5CA:Lead Pea
+CBD0F658:Iron Pea
+CBA71FFC:Copper Pea
+CBD1034D:Powdered Amber Pea
+CBD0FA61:Diamond Scarab
+CB9E652A:Rowan Pea
+CB930768:Platinum Scarab
+CBA7091F:Small Belt Pouch
+CBA71E2C:Powdered Moonstone
+CBA70F72:Powdered Onyx
+CBD0F653:Powdered Lapis Lazuli
+CBD100D5:Powdered Hematite
+CBAEAAE1:Small Belt Pouch
+CBA71FCB:Powdered Quartz
+CB8D0F81:Powdered Bloodstone
+CBAE0FC5:Small Belt Pouch
+CBD0F3A6:Powdered Azurite
+CBAD02B2:Powdered Agate
+CBACECC0:Elder Talisman
+CBD0F758:Powdered Carnelian
+CBA7269B:Powdered Turquoise
+CBD33750:Blue Taper
+CBAEA569:Rowan Talisman
+CBD0F555:Ashwood Talisman
+CBA63FEC:Birch Talisman
+CBAD248A:Ebony Talisman
+CB7E7ED3:Hemlock Talisman
+CBAC78AB:Yew Talisman
+CBAAE6D2:Alder Talisman
+CB82AA48:Blackthorn Talisman
+CBAD23EC:Poplar Talisman
+CBA72023:Willow Talisman
+CBC3D585:Cedar Talisman
+CBCCEDA2:Powdered Malachite
+CBA72189:Powdered Amber
+CBACEAEC:Turpeth Pea
+CBAD0368:Quicksilver Pea
+CBD0F6C0:Gypsum Pea
+CBACE651:Reinforced Serpent Banner
+CBA6E9BA:Signet Crown
+CBD0E9B1:Coronet
+CBAD0E8B:Salvaged  (12)
+CBD0F54B:Colcothar Pea
+CBB93187:Salvaged  (21)
+CBD0F656:Salvaged  (15)
+CBC38643:Vitriol Pea
+CBAD56F2:Salvaged  (18)
+CBD0F54E:Salvaged  (3)
+CBA6BA71:Stibnite Pea
+CBBB1D23:Salvaged  (3)
+CBA72021:Salvaged  (15)
+CBD0F223:Cinnabar Pea
+CBACF8CF:Salvaged  (41)
+CBD0F75A:Cobalt Pea
+CBACFD9D:Splitting Tool
+CBD0FA1D:Pack
+CBAD55F5:Wormwood
+CBD0E43A:Vervain
+CBAD59F9:Saffron
+CBA6FDB9:Myrrh
+CBAED656:Iron Scarab
+CBAD1D2E:Mugwort
+CBA71BD6:Mandrake
+CBC381AE:Copper Scarab
+CBD0F6E8:Hyssop
+CBD0F651:Henbane
+CBACE095:Silver Scarab
+CBB6E0AA:Hawthorn
+CBACD639:Ginseng
+CBA71DDB:Lead Scarab
+CBC8138A:Frankincense
+CBACCE15:Eyebright
+CBACD5E7:Turquoise Taper
+CBACD5B0:Damiana
+CB835F3F:Comfrey
+CBACE719:Gold Scarab
+CBAD24E3:Bistort
+CBAE0D38:Amaranth
+CBAE0CC2:Pyreal Scarab
+CBCCEF25:Yarrow
+CBA718CF:Dragonsblood
+CBAE10B0:Green Taper
+CBA63FE8:Yellow Taper
+CBAEA245:Pink Taper
+CBA70766:Indigo Taper
+CBB757D6:Violet Taper
+CBC01932:Grey Taper
+CBAD1757:Stibnite
+CBA71EA7:Realgar
+CBD0F54C:Gypsum
+CBC3868C:Colcothar
+CBD0F755:Cobalt
+CBA71D69:Cinnabar
+CBD0F85E:Cadmia
+CBA71A87:Brimstone
+CBC33D3A:Brown Taper
+CBAD52B1:Verdigris
+CBD0F6C3:Vitriol
+CBADFEBF:Red Taper
+CB9C170A:Quicksilver
+CBACBC80:Turpeth
+CBA72026:Orange Taper
+CB9C21A4:White Taper
+CBAEB172:Orb
+CBACBC62:Assault Orb
+CBAD527F:Old Lucky Gold Letter
+CBD0F860:Copy of Witshire's Key
+CBAD13D8:Lesser Olthoi Greaves
+CBAD0669:Lesser Olthoi Tassets
+CBA71D51:Elysa's Favor
+CBA71700:Pyreal
+CBC7F635:Raeta's Necklace
+CBC37769:A Ring of Acid Protection
+CBAAED12:Ring of Piercing Protection
+CBC33218:Pack
+CBAEA251:Trade Note (10,000)
+CBAE0CE0:Acid Sceptre
+CBA71E7F:Blunt Sceptre
+CBAEA25E:Piercing Baton
+CBD0F654:Fire Baton
+CBC7CE84:Swamp Stone
+CBA71F71:Frost Baton
+CBAD0087:Electric Baton
+CBD105F4:Superb Mana Charge
+CBB7B0FF:Piercing Sceptre
+CBD0F5C6:Frost Sceptre
+CBA71EA1:Fire Sceptre
+CBD0F759:Orb
+CBD102F2:Wand
+CBAD02A3:Staff
+CBAD5626:Staff
+CBAEC59A:Wand
+CBB8D342:Academy Wand
+CBA72BB5:Wand
+CBA727BA:Mana Tincture
+CBD1068E:Staff
+CBA71EC5:Orb
+CBAD5848:Sceptre
+CBA71B64:Orb
+CBAE0B44:Pyreal Pea
+CBAD0BD1:Slashing Baton
+CBBAE5AE:Gharu'ndim Gem of Worth
+CBA70D34:Sturdy Iron Key
+CBA6BF3F:Gharu'ndim Gem of Worth
+CBACBC5D:Gharu'ndim Gem of Worth
+CBA63AC2:Gold Pea
+CBAD599C:Gharu'ndim Gem of Worth
+CBB6E011:Gharu'ndim Gem of Worth
+CBACFE58:Silver Pea
+CBAD261A:Gharu'ndim Gem of Worth
+CBAD53EF:Arshid's High-Stakes Gambling Token
+CBA6EFAF:Sturdy Iron Key
+CBAD139E:Periapt of Endless Sight
+CBAE0CCC:White Virindi Wand
+CBA70514:Heavy Bracelet
+CBAD5868:Yoroi Cuirass
+CBCCEA36:Gifted Healing Kit
+CBC3E1FD:Alduressa Helm
+CBC60932:Tenassa Sleeves
+CBD1059B:Saulandoi
+CBA64989:Viamontian Pants
+CBB61055:Nariyid Gauntlets
+CBAD25E6:Alduressa Boots
+CBD102F4:Shirt
+CBACBBE6:Pack
+CBAD183D:Trousers
+CBA71B60:Treated Healing Kit
+CBC38613:Fadsahil's Portal Gem
+CBACBBB9:Ancient Armored Bracers
+CBAD0CB6:Adept Healing Kit
+CBA6B22F:Adept Healing Kit
+CBACE5EA:Adept Healing Kit
+CB9C33F5:Adept Healing Kit
+CBB6CDEF:Signet Crown
+CBAD2651:Gorget
+CBAD5819:Diadem
+CBD14278:Chalice
+CBAD560C:Diadem
+CBAD586D:Seal
+CBA720A9:Salvaged  (100)
+CBB1C23D:Salvaged  (100)
+CBAD56DB:Pyreal Bell
+CBA64A4E:Salvaged  (100)
+CBB66C4D:Salvaged  (100)
+CBA71FFF:Melee Defense Tessera
+CBA6FAD7:Salvaged  (100)
+CBCD6FD0:Salvaged  (100)
+CBD661EB:Melee Defense Tessera
+CBD102F5:Salvaged  (100)
+CBA28DCC:Salvaged  (100)
+CBB62C30:Colosseum Coin
+CBD10258:Frost Baton
+CBBADECF:Diforsa Gauntlets
+CE65FEAD:Stipend
+CBA72141:Clay Figurine
+CBA72990:Salvaged  (100)
+CBD0F756:Salvaged  (100)
+CBCCEFE3:Salvaged  (100)
+CCBA1BEE:Virindi Cage
+CBAEC53F:Salvaged  (100)
+CBD10481:Some Changes for February 2012
+CBACE1FB:Casting Stein
+CBACFE09:Taulandoi
+CBAD0C8E:Orb
+
+Missing Exports - Possessed items that were not found:

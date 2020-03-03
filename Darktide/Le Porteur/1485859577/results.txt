@@ -1,0 +1,213 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-31_1485859139_log.pcap
+
+Partial Exports - Missing appraisal info:
+80AB5DE7:Foci of Verdancy
+80AB5E19:Acid Knife
+80AB5DE8:Foci of Enchantment
+80AB5DE9:Pack
+80AB5DEA:Arbalest
+80AB5DEC:Blunt Baton
+80AB5DED:Piercing Baton
+80AB5E8B:Acid Axe
+80AB5DEE:Frost Staff
+80AB5DEF:Slashing Staff
+80AB5DFC:Pack
+80AB5DF0:Slashing Sceptre
+80AB5DF1:Slashing Sceptre
+80AB5E00:Flaming Tofun
+80AB5DF2:Fire Baton
+80AB5DF3:Electric Sceptre
+80AB5E12:Pack
+80AB5DF4:Acid Baton
+80AB5DF5:Blunt Sceptre
+80AB5DF9:Acid Staff
+80AB5DF6:Blunt Baton
+80AB5DF7:Piercing Baton
+80AB5DF8:Piercing Baton
+80AB5DFA:Electric Sceptre
+80AB5E14:Acid Knife
+80AB5DFB:Blunt Sceptre
+80AB5E97:Slashing Sceptre
+80AB5E4A:Acid Katar
+80AB5E96:Fire Baton
+80AB5E98:Frost Sceptre
+80AB5E95:Electric Staff
+80AB5DFD:Lightning Nabut
+80AB5DFE:Flaming Stick
+80AB5DFF:Acid Mazule
+80AB5E07:Flaming Jo
+80AB5E01:Flaming Tachi
+80AB5E02:Stick
+80AB5E15:Acid Knife
+80AB5E03:Wand
+80AB5E04:Piercing Staff
+80AB5E0D:Wand
+80AB5E05:Piercing Staff
+80AB5E06:Fire Staff
+80AB5E17:Lightning Dagger
+80AB5E08:Fire Staff
+80AB5E09:Frost Staff
+80AB5E13:Frost Stiletto
+80AB5E0A:Piercing Sceptre
+80AB5E0B:Sceptre
+80AB5E1A:Frost Dirk
+80AB5E0C:Sceptre
+80AB5E0F:Wand
+80AB5E16:Acid Stiletto
+80AB5E10:Acid Quarter Staff
+80AB5E11:Nabut
+80AB5E40:Jo
+843FFB6F:Nether Sceptre
+80AB5EA3:Nether Staff
+CBBF888B:Nether Sceptre
+80AB5E18:Acid Lancet
+80AB5E1B:Flaming Dirk
+80AB5E1C:Frost Dirk
+80AB5E1D:Frost Dirk
+80AB5E1E:Frost Dirk
+80AB5E1F:Flaming Dagger
+80AB5E20:Flaming Dirk
+80AB5E21:Stiletto
+80AB5E22:Acid Dirk
+80AB5E23:Dirk
+80AB5E24:Lightning Dirk
+80AB5E25:Flaming Knife
+80AB5E26:Dagger
+80AB5E27:Frost Dirk
+80AB5E28:Frost Dagger
+80AB5E29:Dagger
+80AB5E2A:Acid Dagger
+80AB5E2B:Pack
+80AB5E2E:Acid Compound Bow
+80AB5E30:Fire Compound Bow
+80AB5E31:Fire Bow
+80AB5E34:Fire Bow
+80AB5E32:Fire Compound Bow
+80AB5E36:Fire Bow
+80AB5E3B:Frost Bow
+80AB5E37:Piercing Compound Crossbow
+80AB5E38:Piercing Crossbow
+80AB5E39:Piercing Crossbow
+80AB5E3A:Slashing Compound Crossbow
+80AB5E33:Shortbow
+80AB5E2C:Blunt Compound Bow
+80AB5E2F:Piercing Bow
+80AB5E2D:Acid Compound Bow
+80AB5E35:Slashing Bow
+80AB5E3D:Pack
+80AB5E42:Frost War Axe
+80AB5E46:Flaming Morning Star
+815F194E:Lightning Tachi
+80AB5E47:Knuckles
+80AB5E49:Flaming Claw
+80A7DCEA:Dirk
+80AB5E48:Frost Claw
+80AB5E43:Greataxe
+80AB5E41:Acid Flanged Mace
+80AB5E3E:Frost Assagai
+80AB5E3F:Acid Stick
+80AB5E44:Corsesca
+80AB5E45:Frost Stick
+8009F155:Broad Sword
+8009F154:Lightning Long Sword
+808077B3:Flamberge
+815F1942:Acid Flamberge
+80807805:Lightning Broad Sword
+80AB5E4F:Flaming Katar
+808077E4:Flaming Broad Sword
+808077E7:Frost Broad Sword
+804E0B2C:Frost Dericost Blade
+815F1933:Shamshir
+808077EC:Frost Sabra
+815F1932:Acid Long Sword
+80AB5E4C:Lightning Nekode
+AFC7AE43:Blunt Baton
+808077B0:Tachi
+815F1936:Frost Dericost Blade
+8009F120:Lancet
+80AB5E52:Fire Trident
+80AB5E51:Frost Dirk
+80AB5E4D:War Bow
+80AB5E50:Slashing Crossbow
+80AB5E53:Electric Sceptre
+80AB5E54:Electric Baton
+80AB5E57:Claw
+80AB5E58:Frost Claw
+80AB5E5B:Claw
+80AB5E5C:Lightning Claw
+80AB5E5D:Flaming Knuckles
+80AB5E5E:Lightning Cestus
+80AB5E5F:Frost Claw
+80AB5E8D:Shortbow
+80AB5E60:Cestus
+80AB5E9C:Round Shield
+80AB5E64:Piercing Sceptre
+80AB5E65:Piercing Baton
+80AB5E66:Fire Baton
+80AB5E67:Piercing Sceptre
+80AB5E68:Blunt Compound Crossbow
+80AB5E69:Large Round Shield
+80AB5E6A:Lancet
+80AB5E6B:Blackmoor's Favor
+80AB5E6C:Piercing Crossbow
+80AB5E6D:Blunt Compound Crossbow
+80AB5E6E:Blunt Compound Crossbow
+80AB5E6F:Fire Compound Crossbow
+80AB5E70:Acid Compound Crossbow
+80AB5E72:Frost Claw
+80AB5E73:Frost Claw
+80AB5EA4:Longbow
+80AB5EA8:Dirk
+80AB5E79:Heavy Crossbow
+80AB5E7A:Blunt Bow
+80A733AE:Light Crossbow
+80AB5E7B:Piercing Compound Bow
+80AB5E7D:Frost Baton
+80AB5E7E:Blunt Baton
+80AB5E7F:Electric Sceptre
+80AB5E80:Piercing Baton
+80AB5E81:Acid Sceptre
+80AB5E82:Fire Sceptre
+80AB5E83:Slashing Baton
+80AB5E84:Slashing Baton
+80AB5E85:Slashing Sceptre
+80AB5E86:Fire Sceptre
+80AB5E87:Slashing Sceptre
+80AB5E88:Fire Baton
+80AB5E8C:Nether Sceptre
+80AB5E8E:Fire Compound Bow
+80AB5E8F:Blunt Baton
+80AB5E90:Frost Sceptre
+80AB5E91:Piercing Sceptre
+80AB5E92:Slashing Sceptre
+80AB5E93:Piercing Staff
+80AB5E94:Piercing Staff
+80AB5E99:Fire Staff
+80AB5E9B:Tower Shield
+80AB5E9D:Tower Shield
+80AB5E9F:Fire Bow
+80AB5EA0:Piercing Compound Bow
+80AB5EA1:Dark Frost Compound Bow
+80AB5EA5:Electric Baton
+80AB5EA6:Electric Sceptre
+80AB5EA7:Acid Sceptre
+8009F15A:Shield of Truth
+B3C198A5:Shield of Power
+AFC7AEA9:Katar
+AFC7AE99:Fire Bow
+80AB5DEB:Bone Bow
+AFC7AE0F:Acid Sceptre
+AFC7AE86:Frost Sceptre
+CA335C86:Orb
+80AB5E9E:Acid Compound Bow
+80AB5E59:Slashing Compound Bow
+80AB5E7C:Electric Compound Bow
+8A0887F9:Orb
+80AB5E4E:Nayin
+CD3C2A88:Fire Arrow
+CB8A0461:Frost Compound Bow
+C9569749:Slashing Compound Crossbow
+AD6A50AC:Nether Baton
+
+Missing Exports - Possessed items that were not found:

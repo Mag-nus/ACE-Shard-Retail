@@ -1,0 +1,40 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-15_1484523691_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-15_1484523691_log.pcap
+
+Partial Exports - Missing appraisal info:
+C5F93967:Alembic
+C5F93929:Pyreal
+C5F93923:Torn Mosswart Shroud
+C5F93909:Victual Infusion
+C5F93922:Parchment
+C5F938F7:Concentrated Aqua Incanta
+C5F9391A:Concentrated Fire Infusion
+C5F93910:Stibnite Pea
+C5F9390F:Handy Healing Kit
+C5F93908:Concentrated Lightning Infusion
+C5F93919:Concentrated Bloodseeker Infusion
+C5F93928:Gypsum
+C5F82D2D:Realgar
+C5F93932:Gypsum
+C5F93921:Gypsum
+C5F93907:Skill Puzzle Base Piece
+C5F93927:Excellent Healing Kit
+C5F93918:Concentrated Bloodhunter Oil
+C5F93931:Excellent Healing Kit
+C5F93920:Excellent Healing Kit
+C5F9390E:Excellent Healing Kit
+C5F93906:Excellent Healing Kit
+C5F93917:Vitriol
+C5F93926:Greater Armor Piercing Arrow
+C5F9391E:Some Changes for February 2012
+C5F9397B:Greater Armor Piercing Arrow
+C5F93916:Yumi
+C5F67E51:Bloodseeker Infusion
+C5F44D94:Neutral Balm
+C5F9392F:Concentrated Fire Oil
+C5F67E9D:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

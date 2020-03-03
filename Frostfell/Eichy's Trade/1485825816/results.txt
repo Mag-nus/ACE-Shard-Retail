@@ -1,0 +1,47 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\gdrive (tfarley)\Eichy\AC\pkt_2017-1-30_1485825533_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\gdrive (tfarley)\Eichy\AC\pkt_2017-1-30_1485824845_log.pcap
+
+Partial Exports - Missing appraisal info:
+DD0473B6:Mortar and Pestle
+DD0473B7:Pack
+DD0473B8:Pack
+DD0473B9:Quicksilver
+DD0473BA:Quicksilver
+DD0473BB:Quicksilver
+DD0473CA:Tusker Head
+DD0473BC:Pack
+DD0473BD:Gypsum
+DD0473BE:Gypsum
+DD0473BF:Gypsum
+DD0473C0:Pack
+DD0473C1:Realgar
+DD0473C2:Realgar
+DD0473C3:Realgar
+DD0473C5:Hot Pepper
+DD0473C4:Realgar
+DD0473C6:Hot Pepper
+DD0473C7:Pack
+DD0473C8:Aqua Incanta
+DD0473C9:Pack
+DD0473CB:Pyreal
+DD0473CC:Realgar Pea
+DD0473CD:Gypsum Pea
+DD0473CE:Splitting Tool
+DD0473CF:Pack
+DD0473D0:Alembic
+DD0473D1:Fez
+DD0473D2:Ginger
+DD0473D3:Mana Infusion
+DD0473D4:Victual Infusion
+DD0473D5:Bloodseeker Infusion
+DD0473D6:Mana Potion
+DD0473DB:Some Changes for February 2012
+DD0473D7:Concentrated Aqua Incanta
+DD0473D8:Concentrated Aqua Incanta
+DD0473D9:Blackmoor's Favor
+DD0473DA:Concentrated Aqua Incanta
+
+Missing Exports - Possessed items that were not found:

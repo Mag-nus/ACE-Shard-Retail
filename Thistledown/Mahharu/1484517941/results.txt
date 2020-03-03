@@ -1,0 +1,134 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\trello_datamining\0_Incunabula Vault.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\trello_datamining\1_lightless catacombs.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\2_random temple of enlight.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\1_malignant tabernacle.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\4_random arwic.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\5_bow of the quiddity.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\Apostate Excavation.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\bow of the quiddity.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\convergent median.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\dungeon binar.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\Dungeon Fern.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\Enkindled Souls.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\dungeon nye.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\dungeon of tatters.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\hebian-to.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\pkt_2017-1-17_1484723255_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\pkt_2017-1-18_1484726528_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\Incunabula Vault.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\random arwic.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\random temple of enlight.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\lightless catacombs.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\0_tusker honeycombs.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\malignant tabernacle.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\pkt_2017-1-14_1484446611_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\pkt_2017-1-14_1484446611_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\pkt_2017-1-14_1484459082_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\tusker honeycombs.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\pkt_2017-1-15_1484524775_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\pkt_2017-1-17_1484712015_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\pkt_2017-1-17_1484713182_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\pkt_2017-1-17_1484713261_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\venemous nidus.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\pkt_2017-1-17_1484719990_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\pkt_2017-1-17_1484721353_log.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\0_venemous nidus.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\pkt_2017-1-17_1484722368_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\jojii2\pkt_2017-1-22_1485127673_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\jojii2\pkt_2017-1-22_1485132795_log.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\0_convergent median.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\jojii2\pkt_2017-1-22_1485133915_log.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\0_dungeon binar.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\0_Dungeon Fern.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\0_dungeon nye.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\jojii2\pkt_2017-1-22_1485141582_log.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\0_dungeon of tatters.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\jojii2\pkt_2017-1-26_1485419821_log.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\0_Enkindled Souls.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\0_hebian-to.pcap
+
+Partial Exports - Missing appraisal info:
+AAFFFE8A:Foci of Artifice
+AAFFFE89:Foci of Verdancy
+AAFFFE86:Grand Mother's Medallion
+AAFFFE84:Empyrean Sun Stone
+AAFFFE83:Olthoi Ichor
+AAFFFE81:Adventurer's Token
+AAFFFE7E:Ust
+AAFFFE7D:Salvaged  (9)
+AAFFFE7B:Salvaged Reedshark Hide (34)
+AAFFFE7A:Salvaged  (49)
+AAFFFE76:Swamp Stone
+AAFFFE75:Pyreal Bar
+AAFFFE6F:Alembic
+AAFFFE5F:Hidden Note
+AAFFFE6E:Foci of Enchantment
+AAFFFE6C:Wrapped Bundle of Deadly Acid Arrowheads
+AAFFFE6B:Wrapped Bundle of Deadly Lightning Arrowheads
+AAFFFE69:Wrapped Bundle of Deadly Fire Arrowheads
+AAFFFE68:Wrapped Bundle of Deadly Frog Crotch Arrowheads
+AAFFFE67:Lead Scarab
+AAFFFE66:Iron Scarab
+AAFFFE65:Pyreal Scarab
+AAFFFE64:Gold Scarab
+AAFFFE62:Silver Scarab
+AAFFFE61:Wrapped Bundle of Deadly Frost Arrowheads
+AAFFFE5E:Key to Jaleh's Chest
+AAFFFE5B:Empowered Empyrean Robe
+AAFFFE2A:Pyreal
+AAFFFE59:Wrapped Bundle of Deadly Armor Piercing Arrowheads
+AAFFFE58:Salvaged  (55)
+AAFFFE50:Salvaged  (5)
+AAFFFE4D:Pristine White Mattekar Hide
+AAFFFE4C:Salvaged  (90)
+AAFFFE4B:Salvaged  (26)
+AAFFFE48:Salvaged  (7)
+AAFFFE1C:Blank Augmentation Gem
+AAFFFE45:Salvaged  (41)
+AAFFFE44:Salvaged  (64)
+AAFFFE41:Ancient Mhoire Coin
+AAFFFE3F:Salvaged  (20)
+AAFFFE3E:Salvaged  (53)
+AAFFFE3D:Salvaged  (100)
+AAFFFE06:Treated Healing Kit
+AB25EBAE:Alloy Utensil
+AAFFFE2E:Salvaged  (100)
+AAFFFE2D:Salvaged  (72)
+AAFFFDF9:Piece of K'nath Core
+AAFFFE2C:Salvaged  (55)
+AAFFFE2B:Salvaged  (78)
+AAFFFDF6:Blank Augmentation Gem
+AAFFFE29:Salvaged  (99)
+AAFFFE28:Salvaged  (98)
+AAFFFE27:Salvaged  (50)
+AAFFFE25:Salvaged  (15)
+AAFFFE24:Salvaged  (66)
+AAFFFDDD:Scroll of Koga's Blessing
+AAFFFE23:Salvaged  (100)
+AAFFFE22:Salvaged  (90)
+AAFFFE21:Salvaged  (60)
+AAFFFE20:Salvaged  (100)
+AAFFFDCB:Coruscating Olthoi Scent Gland
+AAFFFE1D:Salvaged  (7)
+AAFFFDCA:Some Changes for February 2012
+AB18154B:A Note From Ciandra
+AB1F789E:Agent of Arcanum List
+AB2626BA:Alloy Cylinder
+AB26C2B0:Alloy Dynamo
+AB18154C:The Temple of Enlightenment
+AAFFFDF5:Salvaged  (7)
+AAFFFDCD:Platinum Scarab
+AAFFFDE9:Ink of Formation
+AB2626F5:Caulnalain Key
+AB2CBF1B:Seal
+AB2AB82D:Pyreal Mote
+AB2C52DD:Ravener Guts
+AB2AE302:Major Mana Stone
+8E22B160:Splintered Staff
+AB396724:Deadly Frog Crotch Arrow
+A118BE0A:Flaming Claw
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,22 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\AC-Packet-Data-Jungle-Souljah-LC\pkt_2017-1-28_1485606199_log.pcap
+
+Partial Exports - Missing appraisal info:
+80BA999B:Pyreal
+80BA999A:Sack
+80BA9994:Letter From Home
+80BA9999:Ust
+80BA9992:Blackmoor's Favor
+80BA9993:Bread
+80B96853:Oil of Rendering
+80B7BDDD:Pyreal
+80B9685D:Facility Hub Portal Gem
+80B7D688:Contract for Under Cove Crypt
+80B976B5:Contract for Facilty Hub
+80AFF312:Great Mana Charge
+80BACD04:Sturdy Iron Key
+80B88859:Fire Elemental Essence (50)
+80B6DD52:A List of Items
+80B99A6F:Handy Healing Kit
+
+Missing Exports - Possessed items that were not found:

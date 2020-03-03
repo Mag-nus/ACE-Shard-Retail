@@ -1,0 +1,56 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485841816_log.pcap
+
+Partial Exports - Missing appraisal info:
+B37E4EE6:Pack
+B38E4162:Facility Hub Portal Gem
+B37EB1B2:Ust
+B37D9400:Blackmoor's Favor
+B37D79EF:Pyreal
+B56F9690:Trade Note (250,000)
+B58C7F63:Gonjoku's Mana Infusion
+B43116C4:Renegade Herbal Kit
+B43A15A8:Renegade Herbal Kit
+B4320975:Renegade Herbal Kit
+B592EA80:Gifted Healing Kit
+B436177D:Greater Stamina Kit
+B594ADFF:Quarter Staff
+B598ED6A:Frost Pike
+B5885B35:Tasty Pudding
+B2B05ECA:Aphus Lassel Portal Gem
+B56916BC:Yag
+B568595D:Longbow
+B59311BB:Lead Pea
+B36EDBA4:Pack
+B37D1B64:Pathwarden Robe
+B37E44FC:Pathwarden Trinket
+B484F912:Pack
+B28CDC99:Pack
+B296433C:Pack
+B58D5174:Refreshing Water
+B4AFD35A:Prismatic Taper
+B4FA5809:Iron Scarab
+B52659F0:Lead Scarab
+B4F9EB93:Copper Scarab
+B59340D6:Silver Scarab
+B593EA8C:Prismatic Taper
+B506F1BB:Copper Pea
+B4F9E0E8:Iron Pea
+B4AD9B2B:Silver Pea
+B58EF96F:Pyreal
+B56B622F:Chainmail Gauntlets
+B515314B:Spadone
+B4F1D7DA:Chainmail Coif
+B56BA065:Scalemail Leggings
+B4D1B051:Koujia Breastplate
+B599ABF7:Foci of Verdancy
+B5913B0B:Foci of Artifice
+B56A1AE9:Sollerets
+B57CADC8:Scalemail Sleeves
+B5687552:Amuli Leggings
+B4D5B1F4:Trimmed Cloak
+B4AE1771:Salvage (15)
+B56BC558:Salvage (20)
+B2B04855:Facility Hub Portal Gem
+
+Missing Exports - Possessed items that were not found:

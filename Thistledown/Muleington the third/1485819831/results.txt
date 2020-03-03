@@ -1,0 +1,78 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-30_1485818713_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-14_1484441080_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-14_1484441080_log.pcap
+
+Partial Exports - Missing appraisal info:
+AB3026DF:Shoes
+AB3426D4:Tunic
+AB302841:Pants
+AB33DB89:Pyreal
+AB301B0E:Ust
+AB301B1D:Calling Stone
+AB301AD2:Blackmoor's Favor
+A235858A:Oil of Rendering
+AB301AFE:Oil of Rendering
+AB30249E:Academy Coat
+AB301C1C:Facility Hub Portal Gem
+AB2DF133:Pack
+AB3440B3:Pack
+AB3440B2:Coalesced Aetheria
+AB342B8F:Quartered Cloak
+AB3663E1:Major Mana Stone
+AB3663E0:Chevron Cloak
+AB3663E2:Moderate Mana Stone
+AB3663E3:Greater Mana Stone
+AB3663E4:Bloodied Burun Hide
+AB3663E5:Sturdy Iron Key
+AB3663E6:Sturdy Iron Key
+AB3663E7:Sturdy Iron Key
+AB3663E8:Sturdy Iron Key
+AB3663E9:Miadun hu Okardunai
+AB3663EA:Linaural Urilaentai
+AB3663EB:Ben Ten's Crystal
+AB3663EE:Sturdy Iron Key
+AB3663EC:Bloodied Burun Hide
+AB3663ED:Drudge Wand
+AB3663EF:Sturdy Iron Key
+AB3663F0:Sturdy Steel Key
+AB3663F1:Diamond Heart
+AB3663F2:Diamond Heart
+AB3663F3:Diamond Powder
+AB3663F4:Dark Shard
+AB3663F5:Olthoi Head
+AB3663F6:Eviscerator Head
+AB3663F7:Banderling Head
+AB3663F8:Scroll of Devour Creature Magic Self
+AB3663F9:Scroll of Void Magic Mastery Self VI
+AB3663FA:Doublet
+AB366404:Seal
+AB3663FB:Heavy Necklace
+AB3663FC:Bracelet
+AB3663FD:Gorget
+AB3663FE:Coronet
+AB3663FF:Shoes
+AB366400:Bracelet
+AB366401:Bracelet
+AB366402:Baggy Shirt
+AB366406:Undead Thighbone
+AB366403:Olthoi Stamp
+AB366405:Amulet
+AB36414F:Chiran Helm
+AB36414E:Amuli Coat
+AB2A3B2A:Electric Bow
+AB187B78:Frost Sceptre
+A2322AE0:Olthoi Koujia Sleeves
+AB3131CA:Olthoi Koujia Breastplate
+AB343711:Chiran Helm
+AB2CEDFD:Slashing Bow
+AB1E8B9B:Fire Skeleton Bushi Essence (150)
+AB1E8B99:Chiran Helm
+AB3647C4:Koujia Sleeves
+AB36398C:Olthoi Koujia Gauntlets
+AB2B1DC9:Olthoi Koujia Sleeves
+AB3646A4:Koujia Breastplate
+
+Missing Exports - Possessed items that were not found:

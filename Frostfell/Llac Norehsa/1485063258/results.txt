@@ -1,0 +1,13 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\Callaway-January2017-Account3\pkt_2017-1-22_1485062483_log.pcap
+
+Partial Exports - Missing appraisal info:
+DC362599:Pyreal
+DC36259A:Sack
+DC36259B:Ust
+DC36259D:Pathwarden Token
+DC3625A1:Foci of Artifice
+DC3625A2:Prismatic Taper
+DC3625A3:Lead Scarab
+
+Missing Exports - Possessed items that were not found:

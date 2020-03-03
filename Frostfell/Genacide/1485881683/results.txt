@@ -1,0 +1,163 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\gdrive (tfarley)\Zoishe\lastdaynearmycottageqbar\pkt_2017-1-31_1485881670_log.pcap
+
+Partial Exports - Missing appraisal info:
+96A97AFE:Pyreal
+806862EB:Book
+806862CE:Pack
+806862CF:Gorget
+806862D0:Orb
+806862D1:Heavy Necklace
+806862D3:Heavy Bracelet
+806862D5:Aetheria Mana Stone
+806862D6:Enchanted Mana Stone
+806862D9:Fire Staff
+806862DA:Ring
+806862DC:Dire Champion Token
+806862DD:Token of Modification
+806862DE:Aetheria
+806862DF:Daulan Faur
+806862E0:Token of Modification
+806862E1:Queenslayer Title Token
+806862E4:Blood of the Hopeslayer
+806862E5:Heavy Necklace
+80686316:Ust
+806862E7:Foci of Enchantment
+806862E8:Foci of Artifice
+806862E9:Foci of Verdancy
+806862EA:Pack
+806862EC:Heart of the Innocent
+806862ED:Portal Gem to the Callous Heart
+806862EE:Caulnalain Portal Gem
+806862EF:Caulnalain Portal Gem
+806862F0:Prismatic Taper
+806862F1:The Healer's Heart
+806862F2:Coruscating Olthoi Scent Gland
+806862F4:Iron Pea
+806862F5:Copper Pea
+806862F6:Silver Pea
+806862F7:Gold Pea
+806862F8:Lead Pea
+806862FF:Orb
+80686300:Iron Pea
+806862B6:Saulandoi
+806862B7:Magic Defense Gem of Enlightenment
+80686303:Pack
+80686304:Iron Scarab
+80686305:Lead Scarab
+80686306:Silver Pea
+80686307:Pyreal Pea
+80686308:Splitting Tool
+80686309:Copper Scarab
+8068630A:Gold Scarab
+8068630B:Diamond Scarab
+8068630C:Pyreal Scarab
+80686313:Renegade Herbal Kit
+80686314:Aligned Mana Stone
+80686315:Tachi
+8068631C:Encrusted Bloodstone Jewel
+8068631F:Virindi Singularity Key
+80686322:Ring
+80686330:Ring
+80686332:Ring
+80686333:Man-At-Arms Thrasher Plaque
+80686334:Health Tincture
+80686335:Ring
+8068633A:Chevron Cloak
+80686344:Baggy Breeches
+80686346:Frost Baton
+96AFBE4F:Pyreal
+80686354:Heavy Bracelet
+80686355:Gorget
+80686356:Heavy Bracelet
+80686366:Frost Broad Sword
+80686368:Flaming Long Sword
+8806C19F:Exquisite Casino Key
+806862BA:Blackmoor's Favor
+801C4D34:Pack
+801C4D3B:Soft Bandages
+80686357:Heavy Bracelet
+8068A99E:Bracelet
+DBA5F9EB:Journal of Failed Vengeance
+93EE4FD9:Chiran Gauntlets
+DCAA5C3A:Sword of Lost Light
+80686350:White Rabbit Mask
+B4D420F7:Heavy Bracelet
+DCAC54FD:Superior Helmet
+8BC29A56:Olthoi Celdon Helm
+DCAC54FC:Fiery Shield
+80686321:Ring
+8068631E:Bracelet
+82207DEA:Acid Morning Star
+8068638E:Large Round Shield
+DD1FF819:Colban Plant
+DD09C6EA:Major Sparking Stone
+8068638C:Focusing Stone
+80686325:Bracelet
+8068634F:Peerless Atlan Claw of Black Fire
+806862FC:Shendolain Crystal Shield
+DD0DA913:Platemail Breastplate
+8068638D:Singularity Sword
+8068638A:Berzerker's Crystal
+806919B5:Crown
+80686327:Acid Staff
+80686360:Lightning Morning Star
+A4EC8D9B:Leather Gauntlets
+97AE5086:Covenant Gauntlets
+80686348:Knorr Academy Gauntlets
+80686339:Amuli Leggings
+DD1055AA:Verdalim Plant
+80686317:Sanguinary Aegis
+80664D12:Peerless Sparking Atlan Sword
+8068630D:Platinum Scarab
+8068630E:Silver Scarab
+8068630F:Platinum Scarab
+80686310:Renegade Herbal Kit
+80686311:Renegade Herbal Kit
+80686312:Renegade Herbal Kit
+80686318:Quest Weapon Coin
+8068631B:Red Fire Infusion
+80686347:Heaume
+80686324:Ring
+80686326:Heavy Bracelet
+8068632B:Bracelet of Dark Essence
+8068632A:Canescent Mattekar Robe
+8068632C:Bracelet of Knowledge
+880691F6:Promissory Note
+8068632D:Mechanical Scarab
+8068632E:Sollerets
+801C4D3D:Renegade Herbal Kit
+80686337:Blunt Sceptre
+8068633C:Ring
+8802C7CC:Exquisite Casino Key
+8068633E:Tunic
+80686342:Staff
+806862FB:Phantom Sword
+80686362:Aetheria
+80686363:Asheron's Supreme Raiment
+96B6984F:Pyreal
+801C4D3C:Combined Hyssop and Mandrake
+802C9306:Mortar and Pestle
+96AFAAA2:Pyreal
+801C4DB9:Olthoi Shield
+801C4D3A:Nefane Shield
+801C4D8F:Book
+8005C71C:Candeth Keep Flag
+912CC453:Burning Sands Keyring
+DBA2AED4:Clutch of the Miser
+DBA2B1EC:Clutch of the Miser
+DBA7F0B1:Clutch of the Miser
+DBA2AE97:Enduring Enchantment
+97AF7739:Flaming Nodachi
+96875114:Acid Trident
+801C4DB3:Font of Jojii
+800DDD2C:Amuli Coat
+80686323:Heavy Bracelet
+CEC55328:Trade Note (250,000)
+80686329:Chiran Gauntlets
+DCAA58F4:Weapon Tailoring Kit
+80686319:Major Prismatic Stone
+8068631A:Black Fire Atlan Stone
+806862E3:Stone Tool
+
+Missing Exports - Possessed items that were not found:

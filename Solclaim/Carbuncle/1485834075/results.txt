@@ -1,0 +1,140 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-30_1485823012_\pkt_2017-1-30_1485823012_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-26_1485490272_\pkt_2017-1-26_1485490272_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-27_1485573948_\pkt_2017-1-27_1485573948_log.pcap
+
+Partial Exports - Missing appraisal info:
+804D26E0:Olthoi Ichor
+804D26E1:Vial of Organic Acid
+804D26E2:Torn Mosswart Shroud
+804D26E3:Karenua's Key
+804D26E4:Treated Healing Kit
+804D26E5:Treated Healing Kit
+804D26E6:Scroll of Morimoto's Boon
+804D26E7:Sho Wand
+804D26E8:Faran Robe with Hood
+804D26E9:Scroll of Nullify Creature Magic Self
+804D26EB:Seared Shard
+804D26EC:Shoyanen's Portal Gem
+804D26ED:Salvaged  (100)
+804D26FF:A Large Mnemosyne
+804D26F0:Peerless Healing Kit
+804D26F1:Treated Healing Kit
+804D26F2:Iron Scarab
+804D26F3:Lead Scarab
+804D26F4:Copper Scarab
+804D26F5:Gold Scarab
+804D26F6:Chorizite
+804D26F7:Silver Scarab
+804D26F8:Diamond Scarab
+804D26F9:Splitting Tool
+804D26FA:Peerless Healing Kit
+804D26FB:Pyreal Scarab
+804D26FC:Prismatic Taper
+804D26FD:Prismatic Taper
+804D2700:A Large Mnemosyne
+804D2701:A Large Mnemosyne
+804D2702:An Unlocked Large Mnemosyne
+804D2703:An Unlocked Large Mnemosyne
+804D2704:An Unlocked Large Mnemosyne
+804D2705:An Unlocked Large Mnemosyne
+804D2706:Staff of Aerfalle
+804D2709:Wrapped Bundle of Arrowshafts
+804D2707:Wrapped Bundle of Deadly Blunt Arrowheads
+804D2708:Wrapped Bundle of Deadly Frog Crotch Arrowheads
+804D270A:Shoyanen's Portal Gem
+804D270B:Wrapped Bundle of Deadly Armor Piercing Arrowheads
+804D270C:Salvaged  (100)
+804D270D:Salvaged  (10)
+804D2711:Ust
+804D270E:Foci of Artifice
+804D270F:Foci of Verdancy
+804D2710:Foci of Enchantment
+804D2713:Major Prismatic Stone
+804D2714:Health Elixir
+804D2715:Diamond Heart
+804D2716:Eviscerator Pincer
+804D2719:Chainmail Pauldrons
+804D271A:Sceptre
+804D271B:Staff
+804D271F:Sturdy Iron Key
+804D271C:Staff
+804D271D:Salvaged  (100)
+804D2720:Sturdy Iron Key
+804D271E:Salvaged  (100)
+804D2721:Sturdy Iron Key
+804D2722:Sturdy Iron Key
+804D2723:Sturdy Iron Keyring
+804D2724:Virindi Mask
+804D2726:Sollerets
+804D2727:Pyreal
+804D2729:Gold Pea
+804D272A:Salvaged  (13)
+804D272B:Salvaged  (62)
+804D272C:Salvaged  (75)
+804D272D:Salvaged  (30)
+804D2730:A List of Raiding Creatures
+804D272E:Salvaged  (55)
+804D272F:Salvaged  (5)
+804D2735:Olthoi Helm
+804D2731:Salvaged  (4)
+804D2732:Virindi Servant's Amulet
+804D2736:Treated Healing Kit
+804D2733:Asheron's Greater Raiment
+804D2734:Focusing Stone
+804D2737:Treated Healing Kit
+804D2738:Treated Healing Kit
+804D2739:Sickly Wisp Heart
+804D273A:Salvaged  (77)
+804D273C:Platinum Golem Heart
+804D273D:Cabalist Drudge Charm
+804D273E:Salvaged  (10)
+804D273F:Scroll of Blade Arc VI
+804D2740:Salvaged  (40)
+804D2741:Pyreal
+804D2743:Salvaged  (9)
+804D2744:Salvaged  (48)
+804D2745:Pyreal
+804D2746:Pyreal
+804D2747:Salvaged  (34)
+804D2748:Sturdy Iron Key
+804D2749:Salvaged  (8)
+804D274A:Salvaged  (78)
+804D2755:Pyreal
+804D274B:Salvaged  (37)
+804D274C:Salvaged  (47)
+804D2761:Fishing Made Easy
+804D274D:Salvaged  (12)
+804D274E:Salvaged  (15)
+804D2765:Some Changes for February 2012
+804D274F:Salvaged  (9)
+804D2750:Suikan War Master Robe
+804D2751:Suikan War Master Robe
+804D2752:Suikan Life Master Robe
+804D2753:Suikan Life Master Robe
+804D2754:Shoyanen's Portal Gem
+804D2756:Salvaged  (32)
+804D2757:Salvaged  (48)
+804D2769:Martine's Mask
+804D2758:Salvaged  (29)
+804D2759:Salvaged  (7)
+9BF01142:Stipend
+804D275A:Salvaged  (41)
+804D275B:Salvaged  (51)
+804D2762:Buadren
+804D275C:Salvaged  (36)
+804D275D:Salvaged  (73)
+804D2767:Saulandoi
+804D275E:Salvaged  (4)
+804D275F:Salvaged  (68)
+804D276A:Stave of Palenqual
+804D2760:Salvaged  (70)
+804D2764:Martine's Robe
+804D2766:Blackmoor's Favor
+804D2742:Deadly Blunt Arrow
+804D2763:Pack Ancient Olthoi Queen
+804D2768:Exquisite Elari Wood Bow
+
+Missing Exports - Possessed items that were not found:

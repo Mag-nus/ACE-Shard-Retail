@@ -1,0 +1,19 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\AC-Packet-Data-Jungle-Souljah-LC\pkt_2017-1-28_1485606199_log.pcap
+
+Partial Exports - Missing appraisal info:
+8F19E204:Pyreal
+8F0D6E81:Shoes
+8F1B210C:Sack
+8F1CEB69:Ust
+8F1B2C0C:Handy Healing Kit
+8F18B056:Letter From Home
+8F1CB0ED:Blackmoor's Favor
+8F1661D4:Oil of Rendering
+8F1805F7:Oil of Rendering
+8F1B8CA5:Academy Coat
+8F1EC222:Facility Hub Portal Gem
+8F190BD0:Great Mana Charge
+8F172592:Pathwarden Trinket
+
+Missing Exports - Possessed items that were not found:

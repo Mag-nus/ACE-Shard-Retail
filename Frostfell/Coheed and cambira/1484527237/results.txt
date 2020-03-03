@@ -1,0 +1,89 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-15_1484527222_log.pcap
+
+Partial Exports - Missing appraisal info:
+DC14AD6B:Foci of Artifice
+DC14AD6A:Foci of Verdancy
+DC14AD69:Sollerets
+DC14AD68:Pack
+DC14AD67:Magic Iceball
+DC14AD66:Verdalim Plant
+DC14AD65:Sharp Tusker Slave Tusk
+DC14AD64:Skull Stamp
+DC14AD63:Concentrated Lightning Infusion
+DC14AD55:Pyreal
+DC14AD62:Cobalt Pea
+DC14AD61:Pack
+DC14AD60:Copper Scarab
+DC14AD5F:Concentrated Bloodhunter Infusion
+DC14AD5E:Stibnite Pea
+DC14AD39:Pyreal
+DC14AD5D:Pack
+DC14AD5C:Treated Healing Kit
+DC14AD5B:Peerless Healing Kit
+DC14AD5A:Concentrated Acid Infusion
+DC14AD59:Gypsum Pea
+DC14AD48:A Note From Ciandra
+DC14AD58:Concentrated Fire Infusion
+DC14AD57:Turpeth Pea
+DC14AD38:Pyreal
+DC14AD56:Pack
+DC14AD54:Colcothar Pea
+DC14AD53:Prismatic Taper
+DC14AD52:Iceball
+DC14AD51:Mandrake
+DC14AD49:The Temple of Forgetfulness
+DC14AD50:Saffron
+DC14AD4F:Damiana
+DC14AD47:The Temple of Forgetfulness
+DC14AD4E:Mugwort
+DC14AD4D:Bistort
+DC14AD46:A Note From Ciandra
+DC14AD4C:Amaranth
+DC14AD4B:Ginseng
+DC14AD43:Copper Heart
+DC14AD4A:Eyebright
+DC14AD45:Chorizite Fletching Tool
+DC14AD42:Copper Heart
+DC14AD44:Wrapped Bundle of Blunt Arrowheads
+DC14AD41:Wood Heart
+DC14AD40:Wood Heart
+DC14AD3F:Obsidian Heart
+DC14AD3E:Obsidian Heart
+DC14AD3D:Obsidian Heart
+DC14AD3C:Concentrated Bloodhunter Oil
+DC14AD3B:Ice Heaume of Frore
+DC14AD35:Rubble
+DC14AD3A:Celdon Breastplate
+DC14AD37:Caulnalain Key
+DC14AD36:Fenmalain Key
+DC14AD34:Golden Gromnie
+DC14AD33:Slashing Slingshot
+DC14AD32:Undead Femur bone
+DC14AD31:Old Scarlet Red Letter
+DC14AD30:Salvaged  (11)
+DC14AD2F:Salvaged  (3)
+DC14AD2E:Katar
+DC14AD2D:Experimentation
+DC14AD2C:A Guide to Monty's Den of Iniquity
+DC14AD2B:An Unsigned Message
+DC14AD2A:Yellow Minnow
+DC14AD29:Bundle of Spiketails
+DC14AD28:Chorizite Veined Shield
+DC14AD27:Concentrated Aqua Incanta
+DC14AD26:Alembic
+DC14AD25:Concentrated Mana Infusion
+DC14AD22:Pyreal
+DC14AD24:Concentrated Victual Oil
+DC14AD23:Concentrated Health Infusion
+DC14AD21:Brown Minnow
+DC14AD20:Chainmail Greaves
+DC14AD1F:Torn Cloth Scrap
+DC14AD1E:Crown
+DC14AD1D:Wrapped Bundle of Arrowshafts
+DC14AD1C:Concentrated Bloodseeker Oil
+DC14AD1B:Some Changes for February 2012
+DC14AD1A:Blackmoor's Favor
+DC14AD19:Focusing Stone
+
+Missing Exports - Possessed items that were not found:

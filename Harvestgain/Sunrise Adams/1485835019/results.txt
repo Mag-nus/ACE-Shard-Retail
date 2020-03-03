@@ -1,0 +1,88 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-30_1485834211_log\pkt_2017-1-30_1485834211_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485323961_log\pkt_2017-1-24_1485323961_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485323961_log\pkt_2017-1-24_1485323961_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485323961_log\pkt_2017-1-24_1485323961_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485323961_log\pkt_2017-1-24_1485323961_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485323961_log\pkt_2017-1-24_1485323961_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485323961_log\pkt_2017-1-24_1485323961_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485323961_log\pkt_2017-1-24_1485323961_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485323961_log\pkt_2017-1-24_1485323961_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-25_1485397008_log\pkt_2017-1-25_1485397008_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-26_1485490956_log\pkt_2017-1-26_1485490956_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-26_1485490956_log\pkt_2017-1-26_1485490956_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-27_1485541296_log\pkt_2017-1-27_1485541296_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-27_1485541296_log\pkt_2017-1-27_1485541296_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-27_1485541296_log\pkt_2017-1-27_1485541296_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-27_1485579725_log\pkt_2017-1-27_1485579725_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-27_1485579725_log\pkt_2017-1-27_1485579725_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-30_1485764546_log\pkt_2017-1-30_1485764546_log.pcap
+
+Partial Exports - Missing appraisal info:
+C09ABA43:Lead Scarab
+C838507B:Pyreal
+C09ABA44:Aphus Lassel Portal Gem
+C09ABA46:Copper Scarab
+C09ABA47:Silver Scarab
+C09ABA48:Pyreal Scarab
+C09ABA49:Gold Scarab
+C09ABA4A:Iron Scarab
+C09ABA4B:Diamond Scarab
+C09ABA4C:Chorizite
+C09ABA4D:Health Philtre
+C09ABA4E:Ust
+C09ABA4F:Mana Philtre
+C09ABA50:Stamina Philtre
+C09ABA52:Prismatic Taper
+C09ABA53:Pack T'thuun
+C09ABA54:Mana Scarab
+C09ABA55:Splitting Tool
+AEDB0ED2:Prismatic Taper
+C83DCDA5:Prismatic Taper
+C84799A0:Prismatic Taper
+C84F7D60:Prismatic Taper
+C83C9454:Prismatic Taper
+C84F5FA4:Prismatic Taper
+C09ABA5C:Gem of Purity
+C09ABA60:Trade Note (200,000)
+C09ABA61:Trade Note (100,000)
+C09ABA62:Trade Note (75,000)
+C09ABA6B:Shield of Perfect Light
+C09ABA67:Potion of Endless Vigor
+C09ABA51:Polar Ursuin Lair
+C09ABA7F:Shoyanen's Portal Gem
+C09ABA82:Vissidal Island Portal Gem
+C09ABB0C:Some Changes for February 2012
+C09ABA7B:Electric Baton
+C09ABA91:Acid Sceptre
+C812B9EA:Major Mana Stone
+C09ABA92:Piercing Baton
+C09ABAD7:Fire Sceptre
+C826A676:Major Mana Stone
+C09ABADA:Fire Sceptre
+C78ABDFF:Imbue Swap Coin
+C7EF9CE9:Sanamar Portal Gem
+C828D8FF:Major Mana Stone
+C826B648:Major Mana Stone
+C09ABAA5:Pyreal Pea
+C828DA8B:Major Mana Stone
+C8451307:Major Mana Stone
+C84512F1:Major Mana Stone
+C82D9CC9:Major Mana Stone
+C847E864:Major Mana Stone
+C8525894:Salvage (27)
+C82F2634:Salvage (36)
+C8450172:Salvage (86)
+C846053B:Salvage (98)
+C856740F:Salvage (18)
+C853F16E:Salvage (65)
+C84515D9:Celestial Hand Cloak
+
+Missing Exports - Possessed items that were not found:

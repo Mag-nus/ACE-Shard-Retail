@@ -1,0 +1,74 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-23_1485152082_log.pcap
+
+Partial Exports - Missing appraisal info:
+9A2DAE28:Foci of Verdancy
+9A2DAE29:Foci of Shadow
+9A91CF57:Foci of Enchantment
+9A91D4B7:Foci of Artifice
+9A4D3692:Trade Note (250,000)
+9A920608:Colosseum Backpack
+9A91AD89:Prismatic Taper
+9A919D54:Lead Scarab
+9A90C280:Iron Scarab
+9A9187D8:Copper Scarab
+9A919881:Silver Scarab
+9A919448:Gold Scarab
+9A91AD55:Pyreal Scarab
+9A9191D3:Platinum Scarab
+9A9561DF:Stipend
+9A40270D:Trade Note (250,000)
+9A9E1D4D:Gauntlet Coin
+9A9DC522:Promissory Note
+9A95CA39:Turquoise Taper
+953DB421:Mana Scarab
+9AB86F79:Mana Scarab
+9ACA40EF:Prismatic Taper
+9ACBBD4E:Platinum Scarab
+9B065448:Diamond Scarab
+9A93434B:Colosseum Backpack
+9A2DAE24:Ust
+9A9DA55D:Pyreal
+9A9F19FC:Gold Pea
+9A9F2014:Silver Pea
+9A9DC447:Promissory Note
+9A9C0A33:Promissory Note
+9AC2651A:Encapsulated Spirit
+9AC5F2C5:Swamp Stone
+9A934259:Colosseum Backpack
+9A918CC7:Massive Mana Charge
+9A91C510:Massive Mana Charge
+9A91AC35:Massive Mana Charge
+9A91B4EE:Massive Mana Charge
+9A882BC1:Massive Mana Charge
+9A91B54C:Massive Mana Charge
+9A94D16F:Massive Mana Charge
+9A91C52B:Massive Mana Charge
+9A793A6F:Massive Mana Charge
+9A91B513:Massive Mana Charge
+9A91B76E:Massive Mana Charge
+9A8692CE:Massive Mana Charge
+9A91B13B:Massive Mana Charge
+9A8F39FC:Massive Mana Charge
+9A94D10A:Massive Mana Charge
+9A91ADCE:Massive Mana Charge
+9A94D16B:Massive Mana Charge
+93EF18B8:Massive Mana Charge
+9A91C5DE:Massive Mana Charge
+9A94D186:Massive Mana Charge
+9A91ADCF:Massive Mana Charge
+9A8170BE:Massive Mana Charge
+9A94D110:Massive Mana Charge
+9A94D0F4:Massive Mana Charge
+9A8F4DAB:Massive Mana Charge
+9A7DE941:Major Mana Stone
+9AB7FAD6:Silver Pea
+9A17DE08:Major Mana Stone
+99D1342B:Major Mana Stone
+9A79B914:Major Mana Stone
+9ABDF088:Major Mana Stone
+9AF07246:Glyph of Nether
+9AD77037:Yellow Jewel
+9B0642C0:Asylum Chest Key
+
+Missing Exports - Possessed items that were not found:

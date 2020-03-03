@@ -1,0 +1,21 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-31_1485852230_log.pcap
+
+Missing Exports - Possessed items that were not found:
+ABFEC120
+AB9C481D
+AB9C481C
+AB9C481B
+AB9C481A
+AB9C4816
+AB9C4815
+AB9C4814
+AB9C4813
+AB9C4811
+AB9C4819
+AB9C4818
+AB9C4817
+AB9C4812
+AB9C4810
+AB9C480F
+AB9C480E

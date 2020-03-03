@@ -1,0 +1,108 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-31_1485859139_log.pcap
+
+Partial Exports - Missing appraisal info:
+A75729E7:Sclavus Torso
+9C56DCFD:Pack
+9C56DCFE:Bronze Gearknight Gear
+9C56DCFF:Empowered Helm of the Perfect Light
+9C56DD00:Empowered Breastplate of the Perfect Light
+9C56DD01:Empowered Bracers of the Perfect Light
+9C56DD02:Empowered Girth of the Perfect Light
+9C56DD03:Blackmoor's Favor
+9C56DD04:Ruined Amulet of Light Weapons
+9C56DD05:Virindi Master Key
+9C56DD06:Empowered Greaves of the Perfect Light
+9C56DD09:Sack
+9C56DD08:Clean, Dry Towel
+9C56DD0A:Diadem
+9C56DD4B:Chiran Sandals
+9C56DD0B:Celdon Breastplate
+8A08872F:Chainmail Basinet
+8A088781:Scalemail Greaves
+8A088733:Chainmail Leggings
+9C56DD0D:Small Belt Pouch
+8A0887C7:Platemail Vambraces
+8099A296:Lorica Helm
+9C56DD16:Pack
+80AB826E:Platemail Leggings
+9C56DD27:Pack
+80A710A9:Alduressa Boots
+80A3D47B:Celdon Girth
+9C56DD3C:Pack
+80AB8272:Nariyid Boots
+8A0887C8:Compass
+9C56DD42:Pack
+808077B7:Pocket Watch
+9C56DD57:Relic Alduressa Coat
+8A088730:Leather Girth
+80A3D475:Lorica Gauntlets
+9C56DD58:Relic Alduressa Helm
+80A7396C:Chainmail Bracers
+8099A3FC:Chiran Leggings
+A7572A58:Axe Head Helm
+8A088729:Celdon Sleeves
+8A088782:Platemail Tassets
+80A3D40A:Platemail Tassets
+8A088720:Bracers
+8A088770:Leather Bracers
+80AB8270:Haebrean Greaves
+8A08872D:Celdon Breastplate
+8A08872B:Celdon Breastplate
+8A088723:Celdon Girth
+8A08872A:Celdon Leggings
+8A088721:Platemail Greaves
+8A088726:Celdon Girth
+9C56DD4D:Doppelganger Robe
+9C56DD4E:Doppelganger Robe
+9C56DD4F:White Rabbit Girth
+9C56DD50:Ancient Armored Vestment
+9C56DD53:Doomshark Hide Coat
+9C56DD54:Squalid Leggings
+9C56DD56:Noble Relic Sollerets of Speed
+9C56DD59:Ancient Relic Helm
+A75729EE:Fiun Crown
+9C56DD5A:Ancient Relic Sollerets
+9C56DD5B:Ancient Relic Vestment and Bracers
+9C56DD5C:Ancient Relic Helm
+9C56DD5D:Noble Relic Helm of Will
+A7572A1C:Renegade Leggings
+9C56DD5F:Empyrean Robe
+9C56DD61:Fleet Strike Gauntlets
+9C56DD64:Walking Boots
+9C56DD66:Noble Relic Coat of Brilliance
+870BB5EE:Helm of the Simulacra
+9C56DD62:Helm of the Simulacra
+BFAD6413:Lustrous Winged Leggings
+BFAA8367:Lustrous Winged Leggings
+AD6A49DE:Festival Robe
+AFC7AE98:Aerfalle's Pallium
+A75729E4:Brilliant Celdon Girth
+A75729E3:White Rabbit Girth
+A75729E5:Coat of the Zaikhal Defender
+A75729E6:Coat of the Zaikhal Defender
+A7572A67:Noble Relic Gauntlets of Strength
+A75729E8:Festival Shirt
+A75729EC:Elemental Master Robe
+A7572A63:Noble Relic Coat of Brilliance
+A75729EB:Asheron's Supreme Raiment
+A7572A64:Asheron's Greater Raiment
+A75729F3:Horned Lugian Helm
+A75729EF:Fiun Crown
+A7572A66:Nexus Commander's Helm
+A75729F0:Crown of Bone
+A75729F1:Blooded Platinum Invader Lord Helm
+A75729F2:Blooded Platinum Invader Lord Helm
+A75729ED:Noble Relic Helm of Will
+A75729F4:Horned Lugian Helm
+A7572A65:Noble Relic Gauntlets of Strength
+B80A0DC2:Platemail Hauberk of the Ogre
+B48D23F8:Aerfalle's Mana-infused Pallium
+C785D3A8:Aerfalle's Mana-infused Pallium
+C786EE97:Aerfalle's Mana-infused Pallium
+C80A1E94:Empyrean Scalemail Shirt
+C80AE10F:Shadow Captain's Heaume
+9C56DD65:Studded Leather Leggings
+C87C4B6D:Doomshark Hide Coat
+
+Missing Exports - Possessed items that were not found:

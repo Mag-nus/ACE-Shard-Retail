@@ -1,0 +1,13 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\AC-Packet-Captures\AC Packet Captures\pkt_2017-1-30_1485831673_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-06-2017\AC-Packet-Captures\AC Packet Captures\pkt_2017-1-28_1485598674_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\AC-Packet-Captures\AC Packet Captures\pkt_2017-1-28_1485601848_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\AC-Packet-Captures\AC Packet Captures\pkt_2017-1-28_1485659148_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\AC-Packet-Captures\AC Packet Captures\pkt_2017-1-28_1485659148_log.pcap
+
+Partial Exports - Missing appraisal info:
+92BB2D0A:Quest Weapon Coin
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,64 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Granis-2017-01-31_last_hours\pkt_2017-1-31_1485873635_log.pcap
+
+Partial Exports - Missing appraisal info:
+AF72452D:Gold Scarab
+AF724533:Pyreal Scarab
+AF724536:Platinum Scarab
+AF724537:Prismatic Taper
+AF724542:Shoyanen's Portal Gem
+AF724543:Shoyanen's Portal Gem
+AF724544:Shoyanen's Portal Gem
+AF724545:Shoyanen's Portal Gem
+AF724546:Shoyanen's Portal Gem
+AF724547:Shoyanen's Portal Gem
+AF724548:Shoyanen's Portal Gem
+AF724549:Shoyanen's Portal Gem
+AF72454A:Shoyanen's Portal Gem
+AF72454B:Shoyanen's Portal Gem
+AF72454C:Shoyanen's Portal Gem
+AF72454D:Shoyanen's Portal Gem
+AF72454E:Shoyanen's Portal Gem
+AF72454F:Shoyanen's Portal Gem
+AF724550:Shoyanen's Portal Gem
+AF724551:Shoyanen's Portal Gem
+AF729B41:Shoyanen's Portal Gem
+AF724D20:Celdiseth's Portal Gem
+AF724D1F:Shoyanen's Portal Gem
+AF724D1E:Shoyanen's Portal Gem
+AF724D1C:Wrapped Bundle of Deadly Frog Crotch Arrowheads
+AF724D1B:Wrapped Bundle of Deadly Armor Piercing Arrowheads
+AF724D1A:Wrapped Bundle of Arrowshafts
+AF724D19:Wrapped Bundle of Arrowshafts
+AF724D0A:Treated Healing Kit
+AF724D18:Wrapped Bundle of Arrowshafts
+AF724D17:Wrapped Bundle of Arrowshafts
+AF724D09:Treated Healing Kit
+AF724D16:Wrapped Bundle of Arrowshafts
+AF724D08:Treated Healing Kit
+AF724D0F:Encrusted Bloodstone Jewel
+AF724D07:Treated Healing Kit
+AF724D0D:Kabuton
+AF724D06:Treated Healing Kit
+AF724D0C:Sollerets
+AF724D05:Treated Healing Kit
+AF724D04:Treated Healing Kit
+AF724D03:Treated Healing Kit
+AF724D02:Treated Healing Kit
+AF724D01:Treated Healing Kit
+AF724D00:Treated Healing Kit
+AF724CFF:Treated Healing Kit
+AF724CFE:Treated Healing Kit
+AF724CFD:Charged Shard
+AF724CFC:Brilliant Shard
+AF724CFB:Prismatic Taper
+AF724CF6:Black Rock
+AF724CF5:Black Rock
+AF724CF4:Black Rock
+AF724CF3:Longbow
+AF724CF1:Trade Health Elixir
+AF724CF0:Deadly Armor Piercing Arrow
+AF724CE6:Some Changes for February 2012
+AF724CE4:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

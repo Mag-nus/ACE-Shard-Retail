@@ -1,0 +1,77 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (3354140690, 31799, 3, 6476097) /* MissileLauncher */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (3354140690,   1,        256) /* ItemType - MissileWeapon */
+     , (3354140690,   5,        695) /* EncumbranceVal */
+     , (3354140690,   9,    4194304) /* ValidLocations - MissileWeapon */
+     , (3354140690,  16,          1) /* ItemUseable - No */
+     , (3354140690,  18,        256) /* UiEffects - Acid */
+     , (3354140690,  19,       5076) /* Value */
+     , (3354140690,  44,          0) /* Damage */
+     , (3354140690,  45,         32) /* DamageType - Acid */
+     , (3354140690,  48,         47) /* WeaponSkill - MissileWeapons */
+     , (3354140690,  49,         37) /* WeaponTime */
+     , (3354140690,  50,          1) /* AmmoType - Arrow */
+     , (3354140690,  51,          2) /* CombatUse - Missle */
+     , (3354140690,  65,        101) /* Placement - Resting */
+     , (3354140690,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (3354140690, 105,          6) /* ItemWorkmanship */
+     , (3354140690, 131,         63) /* MaterialType - Silver */
+     , (3354140690, 151,          2) /* HookType - Wall */
+     , (3354140690, 158,          2) /* WieldRequirements - RawSkill */
+     , (3354140690, 159,         47) /* WieldSkillType - MissileWeapons */
+     , (3354140690, 160,        375) /* WieldDifficulty */
+     , (3354140690, 172,          1) /* AppraisalLongDescDecoration */
+     , (3354140690, 204,         17) /* ElementalDamageBonus */
+     , (3354140690, 353,          8) /* WeaponType - Bow */
+     , (3354140690, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
+     , (3354140690, 9015,         19) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (3354140690,   1, False) /* Stuck */
+     , (3354140690,  11, True ) /* IgnoreCollisions */
+     , (3354140690,  13, True ) /* Ethereal */
+     , (3354140690,  14, True ) /* GravityStatus */
+     , (3354140690,  19, True ) /* Attackable */
+     , (3354140690,  22, True ) /* Inscribable */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (3354140690,  21,       0) /* WeaponLength */
+     , (3354140690,  22,       0) /* DamageVariance */
+     , (3354140690,  26,    27.3) /* MaximumVelocity */
+     , (3354140690,  29,     1.2) /* WeaponDefense */
+     , (3354140690,  39, 1.10000002384186) /* DefaultScale */
+     , (3354140690,  62,       1) /* WeaponOffense */
+     , (3354140690,  63,    2.37) /* DamageMod */
+     , (3354140690, 8004,       6) /* PCAPRecordedWorkmanship */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (3354140690,   1, 'Acid Compound Bow') /* Name */
+     , (3354140690,  16, 'Acid Compound Bow') /* LongDesc */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (3354140690,   1,   33559669) /* Setup */
+     , (3354140690,   3,  536870932) /* SoundTable */
+     , (3354140690,   6,   67116700) /* PaletteBase */
+     , (3354140690,   8,  100688049) /* Icon */
+     , (3354140690,  22,  872415275) /* PhysicsEffectTable */
+     , (3354140690, 8001, 2434876312) /* PCAPRecordedWeenieHeader - Value, Usable, UiEffects, AmmoType, CombatUse, Container, ValidLocations, Burden, Workmanship, HookType, MaterialType */
+     , (3354140690, 8003,         18) /* PCAPRecordedObjectDesc - Inscribable, Attackable */
+     , (3354140690, 8005,     137345) /* PCAPRecordedPhysicsDesc - CSetup, ObjScale, STable, PeTable, AnimationFrame */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (3354140690,   1, 1342926489) /* Owner */
+     , (3354140690,   2, 1342926489) /* Container */
+     , (3354140690, 8000, 3354140690) /* PCAPRecordedObjectIID */;
+
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
+VALUES (3354140690, 67116700, 1, 100)
+     , (3354140690, 67116706, 201, 55)
+     , (3354140690, 67116710, 101, 100);
+
+INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
+VALUES (3354140690, 0, 83897331, 83897331, 0);
+
+INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, `order`)
+VALUES (3354140690, 0, 16792608, 0);

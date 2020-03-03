@@ -1,0 +1,29 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ember_AC_logs_013117\pkt_2017-1-29_1485749192_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ember_AC_logs_013117\pkt_2017-1-19_1484871050_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ember_AC_logs_013117\pkt_2017-1-20_1484943481_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ember_AC_logs_013117\pkt_2017-1-20_1484943481_log.pcap
+
+Missing Exports - Possessed items that were not found:
+DC139CA5
+DC139CA6
+DC139CA7
+DC139CA8
+DC139CAA
+DC139CAB
+DC139CAC
+DC139CAD
+DC139CAE
+DC139CAF
+DC139CB1
+DC139CB2
+DC139CB4
+DC139CB0
+DC139CB3
+DC139CB7
+DC139CB6
+DC139CB5
+DC139CA9
+DC139CA4

@@ -1,0 +1,9 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-12-2017\Games\pkt_2017-1-29_1485735010_log.pcap
+
+Partial Exports - Missing appraisal info:
+9E04C86E:Olthoi Fibrous Healing Tissue
+9E04C86D:Acidic Infusion
+9F8B5522:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

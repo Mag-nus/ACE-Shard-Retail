@@ -1,0 +1,185 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\pkt_2017-1-14_1484446611_log.pcap
+
+Partial Exports - Missing appraisal info:
+AB00247C:Foci of Artifice
+AB002471:The Baron's Key
+AB002470:Cell Key
+AB002474:Pack
+AB00246F:Small Rusted Key
+AB00246C:Fiun Head
+AB00246B:Asheron's Lesser Raiment
+AB00246A:Shendolain Key
+AB002469:Shendolain Key
+AB002468:Sturdy Steel Key
+AB002467:Sturdy Steel Key
+AB002466:Ust
+AB002465:Lead Scarab
+AB002461:Sclavus Tongue
+AB00245F:Salvaged  (4)
+AB00245E:Alacritous Ink
+AB00245D:Ink of Objectification
+AB00245A:Pack
+AB002459:Sturdy Steel Key
+AB002458:Salvaged  (100)
+AB002457:Salvaged  (100)
+AB002454:Excellent Lockpick
+AB002456:Salvaged  (100)
+AB002450:Gold Pea
+AB002453:Inscribed Purple Gem
+AB00244F:Silver Pea
+AB00244D:Salvaged  (20)
+AB00244B:Ring
+AB00244A:Necklace
+AB002449:Glittering Necklace of Acid and Piercing Protection
+AB002447:Loafers
+AB002445:Pack
+AB002446:Ink of Direction
+AB002444:A Bracelet of Piercing Protection
+AB002441:Copper Scarab
+AB002443:Trade Note (50,000)
+AB002440:Prismatic Taper
+AB00243F:Pyreal
+AB00243C:Pathwarden Trinket
+AB00243B:Sturdy Steel Key
+AB00243A:Trade Note (75,000)
+AB002439:Treated Healing Kit
+AB002438:Treated Healing Kit
+AB002435:Stone of Rez'arel
+AB002434:Salvage
+AB002432:Scroll of Odif's Blessing
+AB00242F:Treated Healing Kit
+AB00242C:Pack
+AB002425:Major Mana Stone
+AB00242B:Crystalline Shard
+AB002422:Azaxis Token
+AB002421:Salvage
+AB002420:Salvaged  (100)
+AB00241F:Salvage
+AB00241C:Seal
+AB00241E:Ink of Partition
+AB00241D:Ink of Nullification
+AB00241B:Jungle Phyntos Wasp Wing
+AB00241A:Diamond Heart
+AB002417:Vapor Golem Heart
+AB002416:Shendolain Key
+AB002413:Pack
+AB002411:Salvage
+AB002410:Salvage
+AB00240E:Berimphur Plant
+AB00240D:Hennacin Plant
+AB00240C:Cloth Gloves
+AB00240B:Relanim Plant
+AB002409:Diamond Powder
+AB002407:Black Stone
+AB002406:Cloth Cap
+AB002405:Colban Plant
+AB002404:Minalim Plant
+AB002401:First Half of a Worn Bow
+AB002400:Diamond Heart
+AB0023FC:Pack
+AB0023EE:Parabolic Ink
+AB0023DC:Swamp Stone
+AB0023F7:Glyph of Frost
+AB0023F6:Glyph of Fletching
+AB0023DA:Swamp Stone
+AB0023F5:Glyph of Bludgeoning
+AB0023F4:Glyph of Lockpick
+AB0023F3:Salvaged  (100)
+AB0023F2:Glyph of Focus
+AB0023F0:Salvaged  (100)
+AB0023EF:Glyph of Health
+AB0023EB:Argenory Plant
+AB0023EA:Verdalim Plant
+AB0023E9:Quill of Introspection
+AB0023E5:Lapyan Plant
+AB0023E8:Quill of Extraction
+AB0023E7:Quill of Benevolence
+AB0023E6:Quill of Infliction
+AB0023E0:Ring
+AB0023DF:Shirt
+AB002380:Some Changes for February 2012
+AB0023D9:Pyreal Bar
+AB0023D8:Salvaged  (100)
+AB0023D7:Salvaged  (100)
+AB0023D6:Salvaged  (100)
+AB0023D5:Salvaged  (100)
+AB0023D4:Salvaged  (100)
+AB0023D3:Salvaged  (100)
+AB0023D2:Salvaged  (100)
+AB0023D1:Salvaged  (100)
+AB0023D0:Salvaged  (100)
+AB0023CF:Salvaged  (100)
+AB0023CE:Salvaged  (100)
+AB0023CD:Salvaged  (100)
+AB0023CC:Salvaged  (100)
+AB0023CB:Salvaged  (100)
+AB0023CA:Salvaged  (100)
+AB0023C9:Salvaged  (100)
+AB0023C8:Viamontian Pants
+AB0023C6:Salvaged  (100)
+AB0023C5:Salvaged  (100)
+AB0023C4:Salvaged  (100)
+AB0023C3:Salvaged  (100)
+AB0023C2:Salvaged  (100)
+AB0023C1:Salvaged  (100)
+AB0023C0:Salvaged  (100)
+AB0023BF:Salvaged  (100)
+AB0023BE:Salvaged  (100)
+AB0023BD:Salvaged  (100)
+AB0023BC:Salvaged  (100)
+AB0023BB:Salvaged  (100)
+AB0023BA:Salvaged  (100)
+AB0023B9:Salvaged  (100)
+AB0023B8:Salvaged  (100)
+AB0023B7:Salvaged  (100)
+AB0023B6:Salvaged  (100)
+AB0023B5:Salvaged  (100)
+AB0023B4:Salvaged  (100)
+AB0023B3:Salvaged  (100)
+AB0023B2:Salvaged  (100)
+AB0023B1:Salvaged  (100)
+AB0023B0:Salvaged  (100)
+AB0023AF:Salvaged  (100)
+AB0023AE:Salvaged  (100)
+AB0023AD:Salvaged  (100)
+AB0023AC:Salvaged  (100)
+AB0023A9:Salvaged  (100)
+AB0023A8:Salvaged  (100)
+AB0023A7:Salvaged  (100)
+AB0023A6:Salvaged  (100)
+AB0023A5:Salvaged  (100)
+AB0023A4:Salvaged  (100)
+AB0023A3:Salvaged  (100)
+AB0023A2:Salvaged  (100)
+AB0023A1:Salvaged  (100)
+AB0023A0:Salvaged  (100)
+AB00239F:Salvaged  (100)
+AB00239C:Salvaged  (100)
+AB00239B:Salvaged  (100)
+AB00239A:Salvaged  (100)
+AB002399:Salvaged  (100)
+AB002398:Salvaged  (100)
+AB002397:Salvaged  (100)
+AB002396:Salvaged  (100)
+AB002395:Salvaged  (100)
+AB002393:Salvaged  (100)
+AB002392:Salvaged  (100)
+AB002391:Salvaged  (100)
+AB002390:Salvaged  (100)
+AB00238F:Salvaged  (100)
+AB00238E:Salvaged  (100)
+AB00238D:Salvaged  (100)
+AB00238C:Salvaged  (100)
+AB00238B:Salvaged  (100)
+AB00238A:Salvaged  (100)
+AB002389:Salvaged  (100)
+AB002388:Salvaged  (100)
+AB002386:Salvaged  (100)
+AB002385:Salvaged  (100)
+AB002384:Salvaged  (100)
+AB002383:Salvaged  (100)
+AB002382:Salvaged  (100)
+AB002381:Salvaged  (100)
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,34 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-27_1485539039_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-28_1485659469_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-28_1485659469_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-29_1485719049_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-29_1485719049_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-29_1485719049_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-29_1485719049_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-30_1485781607_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-30_1485781607_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-28_1485651614_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-27_1485557019_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-27_1485562034_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-27_1485568246_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-28_1485620348_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-27_1485539039_log.pcap
+
+Partial Exports - Missing appraisal info:
+D81A7D1C:Shirt
+D81A7D1E:Leather Boots
+D81A7D21:Ust
+D81A7D26:Letter From Home
+D81A7D27:Bread
+D844A47F:Asheron's Benediction
+D8463AA4:Oil of Rendering
+D844A623:Academy Coat
+D8426D80:Pyreal
+D8251972:Pathwarden Robe
+D82519B2:Pathwarden Trinket
+D8369F9C:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

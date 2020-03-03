@@ -1,0 +1,23 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Cyberkiller-01-31-2017-Random\pkt_2017-1-31_1485859714_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Cyberkiller-01-31-2017-Random\pkt_2017-1-31_1485858922_log.pcap
+
+Partial Exports - Missing appraisal info:
+DD30DA47:Calling Stone
+DD30DA49:Pack
+DD30DA4A:Pack
+DD30DA4B:Pack
+DD30DA66:Large Sclavus Hide
+DD30DA64:Pack
+DD30DA65:Pack
+DD30DA6F:Large Sclavus Hide
+DD30DA67:Salvaged  (88)
+DD30DA70:Healing Holtburger
+DD30DA72:Hunter's Stock Amber
+DD30DA75:Candeth Keep Stamp
+DD30DA78:Pack
+DD30DA91:Pack
+
+Missing Exports - Possessed items that were not found:

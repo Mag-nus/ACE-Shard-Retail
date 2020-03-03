@@ -1,0 +1,7 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jakka_2017-1-24_1485136624_log\pkt_2017-1-22_1485124455_log.pcap
+
+Partial Exports - Missing appraisal info:
+DC3626B3:Foci of Strife
+
+Missing Exports - Possessed items that were not found:

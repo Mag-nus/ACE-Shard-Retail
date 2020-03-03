@@ -1,0 +1,22 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Random_Logs\pkt_2017-1-25_1485398536_log.pcap
+
+Partial Exports - Missing appraisal info:
+DCB93208:Sack
+DCB93209:Ust
+DCB9320A:Calling Stone
+DCB9320B:Pathwarden Token
+DCB9320C:Training Mace
+DCB9320D:Light Training Crossbow
+DCB9320E:Quarrel
+DCB9320F:Round Shield
+DCB93210:Handy Healing Kit
+DCB93211:Letter From Home
+DCB93212:Core Plating Integrator
+DCB93213:Core Plating Deintegrator
+DCB93214:Bread
+DCB93215:Bread
+DCBE8B3D:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:
+DCB93207

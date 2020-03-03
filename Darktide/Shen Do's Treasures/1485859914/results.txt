@@ -1,0 +1,275 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-31_1485859139_log.pcap
+
+Partial Exports - Missing appraisal info:
+9C4C531C:Small Belt Pouch
+9C4C5ADE:Shirt
+9C4C5AFD:Lace Shirt
+9C45B7C2:Poet's Shirt
+9C4D5D7D:Shirt
+9C4C64AA:Shirt
+9C4D5FF7:Shirt
+9C4C4F1E:Smock
+9C4D5F63:Shirt
+9C4C64DA:Shirt
+9C4D6035:Flared Shirt
+9C4D5F1C:Shirt
+9C4D5E2E:Shirt
+9C45642C:Shirt
+9C4C6555:Tunic
+9C4D5F2C:Shirt
+9C4C5AD6:Shirt
+9C4C5A9E:Smock
+9C4C5B0B:Shirt
+9C4C5B1D:Shirt
+9C4BC31C:Shirt
+9C4C5AD4:Shirt
+9C4D5D3D:Pathwarden Trinket
+9C3EFD43:Pathwarden Trinket
+9C4D5D25:Shirt
+9C466FA9:Small Belt Pouch
+9C4C650B:Bracelet
+9C4C531E:Heavy Bracelet
+9C48FEBE:Heavy Bracelet
+9C4A1D39:Bracelet
+9C4D5EC0:Heavy Bracelet
+9C4C5ABF:Heavy Bracelet
+9C4D6122:Bracelet
+9C4C5ADC:Heavy Bracelet
+9C4C5C31:Heavy Bracelet
+9C4D603E:Bracelet
+9C4D5E96:Heavy Bracelet
+9C388E36:Heavy Bracelet
+9C4D5B65:Bracelet
+9C41BA0B:Heavy Bracelet
+9C3A1FF2:Heavy Bracelet
+9C4D5B88:Bracelet
+9C4C646F:Heavy Bracelet
+9C4C633A:Heavy Bracelet
+C88AEB8F:Dark Ruby Ring
+9C4D60D8:Heavy Bracelet
+9C4C6331:Heavy Bracelet
+C8932F55:Dark Sapphire Ring
+9C4D60DA:Heavy Bracelet
+9C4C64A0:Heavy Bracelet
+9C4C6527:Heavy Necklace
+9C4C6609:Necklace
+9C4C670C:Heavy Necklace
+9C4C677A:Gorget
+9C496A9E:Gorget
+9C4C5B21:Heavy Necklace
+9C4C5B57:Necklace
+9C4C5AF4:Heavy Necklace
+9C485F6E:Heavy Necklace
+9C4C5B2C:Gorget
+9C3D6DF5:Gorget
+9C4D5FF3:Amulet
+9BDB80B0:Heavy Necklace
+9C473B2B:Heavy Necklace
+9C4D6067:Gorget
+9C4D6047:Ring
+9C4D6126:Ring
+9C4D5F52:Ring
+9C4C5D00:Heavy Bracelet
+9C2E2BE4:Heavy Bracelet
+9C48AD05:Gorget
+9C50568D:Warding Ring
+9C39E68A:Pack
+9C4D60B3:Pathwarden Trinket
+9C4C5AA3:Pants
+9C4A1E5E:Pants
+9C4C5358:Pants
+9C504E09:Pantaloons
+9C4C64DD:Loose Pants
+9C4C6A07:Trousers
+9C387D56:Trousers
+9C4D5E78:Pants
+9C4D5FF9:Pants
+9C4D5FE7:Pants
+9C4D5F36:Pants
+9C4D6046:Pants
+9C4C649F:Trousers
+9C4BBB94:Baggy Pants
+9C4B3720:Pants
+9C4D600B:Pants
+9C4D5F4E:Pants
+9C4D603A:Pants
+9C4D5FA6:Pants
+9C4D5BCB:Pants
+9C4C5B3D:Pants
+9C45DD3C:Pants
+9C4C5B1A:Pantaloons
+9C4C5AFB:Trousers
+9C4C5F37:Pack
+9C3AE96F:Ring
+9C4C64C3:Ring
+9C4B9537:Ring
+9C4C52E8:Ring
+9C4C52E9:Ring
+9C4C5BEB:Ring
+9C4B373E:Ring
+9C4B374E:Ring
+9C2693C0:Ring
+9C4C6472:Ring
+9C455D4A:Ring
+9C4A1BAF:Ring
+9C483FE3:Ring
+9C47A10E:Ring
+9C4C5B10:Ring
+9C42E709:Ring
+9C4C5230:Ring
+9C4A18A2:Ring
+9C4C5AF2:Ring
+9C4A1917:Ring
+9C4C64E4:Ring
+9C1181AF:Ring
+C80AF26D:Virindi Servant's Amulet
+9C4C6425:Ring
+9C4C6468:Pack
+9C4C64C7:Renegade Bone Charm
+9C4C6417:Leerargh's Necklace
+9C4C64E1:Jaleh's Necklace
+9C4C64A9:Cabalist Charm Necklace
+9C4C6479:Protective Drudge Charm
+9C4C64D9:Collegium Occultus Ring
+9C45DD27:Renegade Bone Charm
+9C4C6372:Heavy Bracelet
+9C4D6006:Heavy Bracelet
+9C4C6535:Bracelet
+9C504E08:Ring
+9C4C64D3:Mechanical Scarab
+9C48F636:Dark Ruby Ring
+9C4C64AC:Top
+9C4C6433:Puzzle Box
+9C4C5B84:Baron's Amulet of Life Giving
+9C48EC73:Clasp of the Arm
+9C4C4FCE:Clasp of the Heart
+9C4C63A6:Rose of Celdon
+9C4D5E07:Mechanical Scarab
+AFC7ADFA:Ring
+9C4D5D06:Pack
+AFC7AE59:Heavy Necklace
+C785D8B7:Ring of the Watchman
+9C4A1B9B:Top
+9C474DE6:Compass
+9C4C64A2:Compass
+9C474DF1:Top
+9C4C6411:Goggles
+9C4D5CD9:Compass
+9C4C5BC6:Top
+9C4C5BB7:Pocket Watch
+9C4C5C8A:Pocket Watch
+9C4D5D15:Puzzle Box
+9C4F5B4B:Mechanical Scarab
+9C4D6148:Mechanical Scarab
+9C4C63EC:Pocket Watch
+9C4C5BA4:Top
+9C4C5CF9:Puzzle Box
+9C4C5B4A:Compass
+9C4C6A04:Pocket Watch
+9C48F388:Top
+9C4C5BA1:Jaleh's Necklace
+9C15ABAE:Mechanical Scarab
+9C4C5B69:Heavy Necklace
+9C4C5B81:Ring
+AD685D2E:Baron's Amulet of Life Giving
+9C48B4C2:Ring
+9C4D5AAB:Ring
+9C4D6181:Ring
+9C40C21C:Ring
+9C4B9F87:Ring
+9C3006CA:Ring
+9BF6C1B1:Ring
+9C4D6074:Ring
+9C4D607A:Ring
+9C4D5CB0:Ring
+9C4A1A3F:Ring
+9C45C7CE:Ring
+9C4A2026:Ring
+9C40D0CD:Ring
+9C48B7D1:Trousers
+9C4C534F:Bracelet
+9C4C628C:Ring
+9C4C4B54:Ring
+9C2F70B4:Pants
+9C4C6421:Ring
+9C4C602E:Amulet
+9C415ACB:Ring
+9C46B450:Ring
+9C4D5DD9:Heavy Bracelet
+9C4BCAC0:Pants
+9C41685A:Breeches
+9C4D60A6:Pantaloons
+9C4C5CCB:Viamontian Pants
+9C46AD3F:Viamontian Pants
+9C42D484:Pantaloons
+9C4C4C84:Pants
+9C4D5CEF:Pants
+9C4D5CE1:Heavy Bracelet
+9C4D6158:Heavy Bracelet
+9C3FCAAE:Bracelet
+9C4D5D04:Heavy Bracelet
+9C3FCF9A:Bracelet
+9C4C5F56:Heavy Bracelet
+9C4C6416:Bracelet
+9C4C5BDC:Heavy Bracelet
+9C4C5CF0:Heavy Bracelet
+9C4903B3:Bracelet
+9C4C62FA:Bracelet
+9C4D60B0:Amulet
+9C4C640D:Heavy Necklace
+9C4D606F:Heavy Necklace
+9C4C5354:Gorget
+9C4D5C0F:Heavy Necklace
+9C4C5BB3:Heavy Necklace
+9C4C5B9E:Gorget
+9C48F302:Heavy Necklace
+9C48A7BF:Gorget
+9C4C63C8:Smock
+9C4C646B:Shirt
+9C4D6137:Lace Shirt
+9C4B3730:Loose Shirt
+9C4C4C4B:Smock
+9C4C63D6:Smock
+9C4C644F:Shirt
+9C3C99B8:Pants
+9C49718B:Poet's Shirt
+9C4167ED:Shirt
+9C4871D6:Heavy Bracelet
+9C48A915:Ring
+9C4D60E0:Ring
+9C44A96B:Pants
+9C4D60B8:Pants
+9C4B33CF:Heavy Bracelet
+9C4D60D3:Bracelet
+9C4C6420:Ring
+9C4C6624:Loose Tunic
+9C4C662C:Heavy Bracelet
+9C4C65E1:Ring
+9C4D5CED:Necklace
+9C4D5C7F:Ring
+9C4D5CB2:Heavy Bracelet
+9C4D5CF1:Heavy Bracelet
+9C4D5B59:Ring
+9C4C2395:Ring
+9C4C641E:Baggy Pants
+9C4D60AF:Necklace
+9C4A1B6E:Heavy Bracelet
+9C4D615F:Ring
+9C4D610F:Baggy Breeches
+9C4D6075:Shirt
+9C4C6414:Heavy Bracelet
+9C48BD3C:Heavy Necklace
+9C40C604:Ring
+9C4C5C0C:Heavy Bracelet
+9C42E1F4:Baggy Shirt
+9C2A9CDA:Shirt
+9C486D8F:Flared Shirt
+9C4C62FE:Heavy Bracelet
+9C4C62DB:Tunic
+9C4C6306:Puffy Shirt
+9C4B3B70:Heavy Bracelet
+9C4C6337:Ring
+AFC7AEAF:Loose Shirt
+
+Missing Exports - Possessed items that were not found:

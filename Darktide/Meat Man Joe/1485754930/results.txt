@@ -1,0 +1,15 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-29-2017-ShoushiMtnLS_SawatoSwampLS_OHNBanditCastle_RidgeCitadel\pkt_2017-1-29_1485747652_log.pcap
+
+Partial Exports - Missing appraisal info:
+889B7116:Pyreal
+889B7117:Sack
+88F69C4A:Strong Iron Key
+8929E576:Strong Iron Key
+8929E7D1:Strong Iron Key
+88D093E8:Strong Iron Key
+88CFAA24:Strong Iron Key
+88F49E96:Strong Iron Key
+890E8F82:Strong Iron Key
+
+Missing Exports - Possessed items that were not found:

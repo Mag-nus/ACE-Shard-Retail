@@ -1,0 +1,127 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\imtrippin-01-30-2017-empyrean-workshop-and-more\pkt_2017-1-30_1485816108_log.pcap
+
+Partial Exports - Missing appraisal info:
+9F98430F:Foci of Artifice
+9F984310:Foci of Enchantment
+9F984311:Foci of Verdancy
+9F984313:Heart of the Innocent
+9F984314:Pack T'thuun
+9F984315:Aetheria Desiccant
+9F984316:Gold Scarab
+9F984317:A List of Items
+9F984318:Ink of Conveyance
+9F98431A:Intricate Carving Tool
+9F98431B:Aetherium Ore
+9F98431D:Ornate Gear Marker
+9F98431E:Aetherium-infused Gear
+9F98431F:Salvaged  (96)
+9F984320:Plentiful Healing Kit
+9F984321:Plentiful Healing Kit
+9F984322:Salvaged  (100)
+9F984324:Aetheria Powder
+9F984325:Small Olthoi Venom Sac
+9F98432C:Diamond Scarab
+9F984326:Salvaged  (100)
+9F984327:Salvaged  (100)
+9F98432D:Ust
+9F984328:Salvaged  (46)
+9F984329:Salvaged  (17)
+9F98432E:Lead Scarab
+9F98432A:Salvaged  (36)
+9F98432F:Copper Scarab
+9F984330:Silver Scarab
+9F984332:Salvaged  (13)
+9F984333:Golden Shuriken of Tanada
+9F984334:Golden Shuriken of Tanada
+9F984335:Golden Shuriken of Tanada
+9F984336:Golden Shuriken of Tanada
+9F984337:Ink of Nullification
+9F984338:Aligned Mana Stone
+9F984339:Plentiful Healing Kit
+9F98433A:Ink of Objectification
+9F98433B:Parabolic Ink
+9F98433C:Plentiful Healing Kit
+9F98433D:Quill of Introspection
+9F98433E:Salvaged  (100)
+9F984342:Pyreal
+9F98433F:Salvaged  (88)
+9F984340:Salvaged  (76)
+9F984341:Salvaged  (9)
+9F984343:Salvaged  (17)
+9F98434D:Renegade Herbal Kit
+9F984368:Snowflower
+9F9843AA:Pyreal
+9F984349:Blackmoor's Favor
+9F98434A:Salvaged  (63)
+9F98434E:Renegade Herbal Kit
+9F98434B:Salvaged  (13)
+9F98434C:Salvaged  (24)
+9F98434F:Renegade Herbal Kit
+9F984350:Renegade Herbal Kit
+9F984351:Renegade Herbal Kit
+9F984352:Golden Shuriken of Tanada
+9F984353:Golden Shuriken of Tanada
+9F984355:Plentiful Healing Kit
+9F984356:Plentiful Healing Kit
+9F984357:Plentiful Healing Kit
+9F984358:Plentiful Healing Kit
+9F984359:Plentiful Healing Kit
+9F98435A:Adventurer's Token
+9F98435B:Salvaged  (100)
+9F98435C:Salvaged  (48)
+9F98435D:Salvaged  (61)
+9F98435E:Salvaged  (100)
+9F984363:Copper Pea
+9F98435F:Salvaged  (100)
+9F984360:Salvaged  (100)
+9F984364:Coruscating Olthoi Scent Gland
+9F984365:Renegade Herbal Kit
+9F984366:Ink of Separation
+9F984367:Plentiful Healing Kit
+9F984369:Plentiful Healing Kit
+9F98436A:Plentiful Healing Kit
+9F98436B:Plentiful Healing Kit
+9F98436C:Plentiful Healing Kit
+9F98436D:Intricate Carving Tool
+9F98436E:Peerless Lockpick
+9F98436F:Salvaged  (100)
+9F984370:Salvaged  (100)
+9F984371:Salvaged  (90)
+9F984372:Salvaged  (31)
+9F984373:Salvaged  (8)
+9F984391:Platinum Scarab
+9F984375:Salvaged  (28)
+9F984376:Salvaged  (39)
+9F984377:Salvaged  (36)
+9F984394:Prismatic Taper
+9F984378:Salvaged  (63)
+9F9843AB:Pyreal
+9F9843AC:Pyreal
+9F98437C:Quill of Infliction
+9F98437D:Salvaged  (23)
+9F98437F:Wrapped Bundle of Deadly Blunt Arrowheads
+9F984380:Wrapped Bundle of Arrowshafts
+9F9843AD:Pyreal
+9F984399:Pyreal Pea
+9F98439B:Health Philtre
+9F98439C:Peerless Lockpick
+9F98438C:Wrapped Bundle of Olthoi Acid Arrowheads
+9F9843AE:Pyreal
+9F98438D:Wrapped Bundle of Deadly Frog Crotch Arrowheads
+9F98438E:Wrapped Bundle of Deadly Frost Arrowheads
+9F984395:Ink of Formation
+9F984392:Wrapped Bundle of Deadly Fire Arrowheads
+9F984396:Salvaged  (85)
+9F984397:Salvaged  (36)
+9F9843A5:Prismatic Taper
+9F98439D:Luminous Pearl of Blood Drinking
+9F98439E:Lapyan Plant
+9F9843AF:Pyreal
+9F9843A4:Salvaged  (100)
+9F9843B0:Pyreal
+9F9843B1:Pyreal
+9F9843B2:Prismatic Taper
+9F9843B6:Some Changes for February 2012
+
+Missing Exports - Possessed items that were not found:

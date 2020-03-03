@@ -1,0 +1,148 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Arwic-Portal-Storms-Subway-and-misc-logins\pkt_2017-1-31_1485880598_log.pcap
+
+Partial Exports - Missing appraisal info:
+C2658B54:Pack
+C2658B55:Al-Arqas Portal Gem
+C2658B56:Leather Straps
+C2658B57:Hollowed-Out Tree Trunk
+C2658B58:Great Mana Charge
+C2658B59:Great Mana Charge
+C2658B5A:Great Mana Charge
+C2658B5B:Great Mana Charge
+C2658B5C:Great Mana Charge
+C2658B5D:Great Mana Charge
+C2658B5E:Great Mana Charge
+C2658B5F:Great Mana Charge
+C2658B60:Great Mana Charge
+C2658B61:Great Mana Charge
+C2658B62:Great Mana Charge
+C2658B63:Great Mana Charge
+C2658B64:Great Mana Charge
+C2658B65:Great Mana Charge
+C2658B66:Moderate Mana Stone
+C2658B67:Greater Mana Stone
+C2658B68:Moderate Mana Stone
+C2658B69:Moderate Mana Stone
+C2658B6A:Great Mana Charge
+C2658B6B:Great Mana Charge
+C2658B6C:Foci of Verdancy
+C2658B6D:Foci of Artifice
+C2658B6E:Pack
+C2658B6F:Tattered Virindi Cloak
+C2658B70:Tattered Virindi Cloak
+C2658B71:Miadun hu Okardunai
+C2658B72:Whittling Knife
+C2658B73:Sturdy Iron Keyring
+C2658B74:Scintillating Crystal Ring
+C2658B75:Nuhmudira's Endowment of Self
+C2658B76:Wrapped Bundle of Deadly Blunt Arrowheads
+C2658B77:Wrapped Bundle of Quarrelshafts
+C2658B79:Pack
+C2658B7A:Gold Scarab
+C2658B7B:Silver Scarab
+C2658B7C:Copper Scarab
+C2658B7D:Cydna Wren's Portal Gem
+C2658B7E:Torch
+C2658B7F:Aluvian Gem of Worth
+C2658B80:Gharu'ndim Gem of Worth
+C2658B82:Prismatic Taper
+C2658B81:Gharu'ndim Gem of Worth
+C2658B83:Gifted Healing Kit
+C2658B84:Gifted Healing Kit
+C2658B85:Gifted Healing Kit
+C2658B86:Lead Scarab
+C2658B87:Gifted Healing Kit
+C2658B88:Gifted Healing Kit
+C2658B89:Stipend
+C2658B8A:Blackmoor's Favor
+C2658B8B:Greater Blunt Quarrel
+C2658B8D:Pack
+C2658B8E:Ust
+C2658B8F:Salvaged  (64)
+C2658B90:Salvaged  (3)
+C2658B92:Token of Modification
+C2658B91:Salvaged  (26)
+C2658B93:Missile Defense Gem of Enlightenment
+C2658B94:Mandrake
+C2658B95:Damiana
+C2658B96:Saffron
+C2658B99:A Small Mnemosyne
+C2658B97:Foci of Enchantment
+C2658B98:Diforsa Gauntlets
+C2658B9A:Fenmalain Gem
+C2658B9D:Pyreal
+C2658B9E:Iron Pea
+C2658B9F:Necklace
+C2658BA0:Ewer
+C2658BA1:Gorget
+C2658BA2:Moderate Mana Stone
+C2658BA3:Lead Pea
+C2658BA4:Moderate Mana Stone
+C2658BA5:Ring
+C2658BA6:Copper Pea
+C2658BA7:Gorget
+C2658BA8:Covenant Helm
+C2658BA9:Loafers
+C2658BAA:Gem
+C2658BAB:Lesser Mana Stone
+C2658BAC:Heavy Bracelet
+C2658BAD:Gem
+C2658BAE:Necklace
+C2658BAF:Goblet
+C2658BB0:Mana Stone
+C2658BB1:Moderate Mana Stone
+C2658BB2:Hand Axe
+C2658BB3:Gem
+C2658BB4:Mana Stone
+C2658BB5:Dryreach Key
+C2658BB6:Health Elixir
+C2658BB7:Stamina Elixir
+C2658BB8:Mana Elixir
+C2658BB9:Some Changes for February 2012
+C2658BBA:Auroch Horn
+C2658BBB:Acid Wisp Essence (50)
+C2658BBC:Cooking Stamp
+C2658BBD:Bracelet
+C2658BBE:Gem
+C2658BBF:Stoup
+C2658BC0:Mug
+C2658BC3:Gem
+C2658BC1:Royal Atlatl
+C2658BC2:Tankard
+C2658BC6:Gem
+C2658BC4:Trousers
+C2658BC5:Gem
+C2658BC7:Scroll of Exhaustion Other VI
+C2658BCA:Frost Moar Essence (50)
+C2658BCB:Ornamental Bowl
+C2658BCC:Chainmail Leggings
+C2658BCD:Amulet
+C2658BD0:Massive Mana Charge
+C2658BCE:Hood
+C2658BCF:Leather Vest
+C2658BD1:Massive Mana Charge
+C2658C85:Granite Heart
+C2658D41:Gem
+C261182F:Leather Gauntlets
+C261182E:Baggy Pants
+C26594A9:Leather Cuirass
+C26594A8:Studded Leather Bracers
+C261172D:Gem
+C2653355:Kasa
+C2653356:Viamontian Laced Boots
+C263607E:Leather Cowl
+C263607C:Ring
+C265FFA4:Goblet
+C265FFA3:Acid K'nath Essence (80)
+C266027B:Morning Star
+C2660279:Chevron Cloak
+C2660B50:Gem
+C2660B9E:Moderate Mana Stone
+C2660B9D:Platemail Pauldrons
+C2658BC8:Deadly Blunt Quarrel
+C2660DB3:Mug
+C2660DB2:Scroll of Storm's Boon
+C2660B06:Crown
+
+Missing Exports - Possessed items that were not found:

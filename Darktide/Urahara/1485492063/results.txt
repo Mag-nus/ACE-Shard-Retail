@@ -1,0 +1,24 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-26_1485492059_\pkt_2017-1-26_1485492059_log.pcap
+
+Partial Exports - Missing appraisal info:
+D84348C8:Pyreal
+D84348CA:Ust
+D84348CB:Foci of Verdancy
+D84348CC:Foci of Enchantment
+D84348CD:Foci of Artifice
+D84348CE:Prismatic Taper
+D84348CF:Lead Scarab
+D84348D1:Restoring the Training Academies
+D84348D2:Academy Library Key
+D84348D7:Bracelet
+D84348D8:Heavy Bracelet
+D84348DD:Lead Pea
+D84348DE:Scroll of Heavy Weapon Mastery Self II
+D84348E5:Pyreal
+D84348EB:Scroll of Battlemage's Blessing
+D84348EF:Pyreal
+D84348F0:Pyreal
+D84348F2:Scroll of Lightning Lure
+
+Missing Exports - Possessed items that were not found:

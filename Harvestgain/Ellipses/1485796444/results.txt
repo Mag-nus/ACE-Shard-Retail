@@ -1,0 +1,98 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\CatDevnull-Dont-Remember-2\pkt_2017-1-30_1485796437_log.pcap
+
+Partial Exports - Missing appraisal info:
+A5C092AB:Belt Pouch
+ABD7ADC1:Radiant Blood Trade Token
+AA4C081E:Radiant Blood Trade Token
+A9BAF7F5:Radiant Blood Trade Token
+ABB14FCD:Radiant Blood Trade Token
+A5F11F73:Encapsulated Spirit
+AF220322:Radiant Blood Armor Writ
+A5C084AD:Small Belt Pouch
+A71DD1F4:Ultimate Singularity Crossbow
+A89D67E9:The Healer's Heart
+AE8B89FC:Legendary Seed of Mornings
+A4F3BD49:Ust
+A60617B1:Licorice Rat
+A60813D3:Refreshing Water
+A7FCA661:Heart of the Innocent
+A71D0F8B:Yellow Empyrean Ring
+A9D75A39:Society Gem of Dispelling
+A5BD03FA:Blackmoor's Favor
+B0AB150A:Scold's Heart
+AD799216:Asheron's Lesser Benediction
+A5BD00EC:Facility Hub Portal Gem
+B0AC0455:Deed
+B1DE038D:Black Market Gem of Dispelling
+BC1082AA:Frozen Valley Portal Gem
+983D8716:Virindi Consul Essence
+A8474FCF:Pet Mouf Igloo
+BF010454:Coruscating Olthoi Scent Gland
+C285D0DC:Radiant Blood Stronghold Portal Gem
+C2E5C7E8:Lady Tairla Mhoire's Signet Ring
+C4810D73:Plentiful Healing Kit
+C4E0CE5D:Plentiful Healing Kit
+C6B4DE74:Major Mana Stone
+C6B71EF6:Major Mana Stone
+C7D45771:Treated Healing Kit
+C7D5C087:Major Mana Stone
+C7D3B9B7:Treated Healing Kit
+C72F3971:Major Mana Stone
+C8163D43:Major Mana Stone
+C81B38DC:Major Mana Stone
+C81BE235:Massive Mana Charge
+C81B48E6:Massive Mana Charge
+C81FE7B0:Massive Mana Charge
+C81DBDDA:Renegade Herbal Kit
+C81C31B3:Renegade Herbal Kit
+C81B249E:Renegade Herbal Kit
+C81DAF9D:Renegade Herbal Kit
+C81DBAEE:Renegade Herbal Kit
+C81FDF6E:Enhanced Health Elixir
+A9D5EE13:Rez'arean Ore
+BD004AC1:Mhoire Signet Ring
+BC96D8AA:Wrapped Bundle of Greater Prismatic Arrowheads
+BD6909D4:Wrapped Bundle of Quarrelshafts
+C4BC9AEB:Ornate Bone Key
+AA8A7BE0:Spectral Chill Bolt
+BE64DE0C:Carapace Shard
+B3032404:Pack
+B31156CC:Textbook
+B3026FE0:Pack
+AA1DF568:Ornate Brass Banding
+C76F1A95:Bloodstone Report
+B9AA9B3C:Black Skull of Xikma
+C7DC99C7:Brown Taper
+B4D84A5D:Pack
+A608138C:Tasty Pudding
+A5FD2ABC:Priceless Ore
+B3083CC1:Major Shivering Stone
+B3063560:Elaborate Scroll
+B93379A6:Pyre Shroud
+BCA07547:Lo Shoen's Rat Bait
+B1E873D7:Lo Shoen's Rat Bait
+A7C25FE9:Aetheria
+9843C304:Aetheria
+983E64A0:Aetheria
+C78BB7B6:Explorer's Backpack
+C48A461C:Trade Note (250,000)
+A6C62978:Colosseum Coin
+A6CC4F30:Aetheria Mana Stone
+A6CC2002:Enchanted Mana Stone
+A6C97F7C:Aligned Mana Stone
+BB14F5B9:Copper Scarab
+A4F3BD89:Silver Scarab
+A59EE012:Gold Scarab
+A6CB4A19:Pyreal Scarab
+A79F0B75:Diamond Scarab
+A72A9F14:Platinum Scarab
+AB981C5F:Mana Scarab
+C2E9406F:Ancient Mhoire Coin
+A9D18784:Small Olthoi Venom Sac
+A9D0783A:Ornate Gear Marker
+A7DE8D30:A'nekshay Token
+C71FDC15:Prismatic Taper
+C7B556B4:Lesser Corrupted Essence
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,16 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-30_1485818493_log.pcap
+
+Partial Exports - Missing appraisal info:
+ABF01C32:Powdered Moonstone
+ABF1F306:Quicksilver
+ABF1F2E4:Rowan Talisman
+ABF1F2CB:Lead Scarab
+ABF1F37E:Hyssop
+ABEE0E60:Powdered Hematite
+ABF1F37D:Poplar Talisman
+ABF1F3AE:Handy Healing Kit
+ABEC80A8:Pack Asheron
+ABEC1402:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

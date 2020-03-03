@@ -1,0 +1,115 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-12-2017\Games\pkt_2017-1-29_1485735010_log.pcap
+
+Partial Exports - Missing appraisal info:
+858EE25F:Trousers
+858EE260:Foci of Verdancy
+858EE261:Prismatic Taper
+858EE262:Lead Scarab
+858EE263:Bread
+858EE264:Handy Healing Kit
+858EE265:Welcome Letter
+858EE266:Sack
+858EE267:Vitriol
+858EE268:Verdigris
+858EE269:Turpeth
+858EE26A:Stibnite
+858EE26E:Gypsum
+858EE26B:Realgar
+858EE26C:Quicksilver
+858EE273:Pyreal
+858EE26D:Powdered Onyx
+858EE26F:Colcothar
+858EE270:Cobalt
+858EE271:Carenzi Burrower Pelt
+858EE272:Carenzi Burrower Pelt
+858EE274:Greeter's Key
+858EE275:Restoring the Training Academies
+858EE276:Quartermaster's Workshop Key
+858EE277:A Crumpled Note
+858EE278:Salvaged  (2)
+858EE279:Handy Healing Kit
+858EE27A:Handy Healing Kit
+858EE27B:Adept Healing Kit
+858EE27C:Old Stamped Samsur Scarlet Red Letter
+858EE27D:Old Stamped Yaraq Scarlet Red Letter
+858EE27E:Adept Healing Kit
+858EE27F:Bronze Gear from a Statue
+858EE280:Handy Healing Kit
+858EE281:Handy Healing Kit
+858EE282:Handy Healing Kit
+858EE283:Adept Healing Kit
+858EE284:Small Ursuin Hide
+858EE285:Mud Golem Heart
+858EE286:A Ring of Acid Protection
+858EE287:Old Lucky Gold Letter
+858EE288:Worn Small Key
+858EE289:Hyssop
+858EE28A:Powdered Turquoise
+858EE28B:Ashwood Talisman
+858EE28C:Brimstone
+858EE28D:Cadmia
+858EE28E:Cinnabar
+858EE290:Old Lucky Gold Letter
+858EE291:Old Lucky Gold Letter
+858EE292:Old Lucky Gold Letter
+858EE293:Old Scarlet Red Letter
+858EE294:Old Lucky Gold Letter
+858EE295:A Small Mnemosyne
+858EE296:Key
+858EE297:A Small Mnemosyne
+858EE298:Deadly Frog Crotch Arrow
+858EE299:Natural Order
+858EE29A:Thin Gromnie Hide
+858EE29B:Faran Robe with Hood
+858EE29C:Herald Stamp
+858EE29D:Key
+858EE29E:Handy Healing Kit
+858EE29F:Adept Healing Kit
+858EE2A0:Handy Healing Kit
+858EE2A1:Handy Healing Kit
+858EE2A2:Handy Healing Kit
+858EE2A3:Adept Healing Kit
+858EE2A4:Adept Healing Kit
+858EE2AF:Gifted Healing Kit
+858EE2A8:Copper Pea
+858EE2A9:Ring
+858EE2AB:Gardener Token
+858EE2AC:Carenzi Stalker Pelt
+858EE2AD:Mana Potion
+858EE2AE:Mana Potion
+858EE2B0:Missing Mechanisms
+858EE2B1:Double Totem of Volkama
+858EE2B2:Health Tincture
+858EE2B3:Small Shard
+858EE2B4:Tiny Shard
+858EE2B5:Wooden Tumerok Figurine
+858EE2B6:Littoral Siraluun Claw
+858EE2B7:Littoral Siraluun Claw
+858EE2B8:Shore Armoredillo Spine
+858EE2BA:Peerless Healing Kit
+858EE2BB:Pyreal
+858EE2BD:Harvester Token
+858EE2BE:Mana Tincture
+858EE2BF:Carenzi Burrower Pelt
+858EE2C0:Stamina Elixir
+858EE2C1:Potion of Healing
+858EE2C2:Stamina Tincture
+858EE2C3:Shore Armoredillo Spine
+858EE2C4:Shore Armoredillo Spine
+858EE2C8:Kote
+858EE2CA:Littoral Siraluun Claw
+858EE2C7:Chainmail Pauldrons
+858EE2CB:Excellent Healing Kit
+858EE2CC:Iron Pea
+858EE2CD:Tumeroks on the Island
+858EE2CE:Pyreal
+858EE2CF:Audetaunga's Totem of the Mountains
+858EE2D0:Wet Towel
+858EE2D1:Note from Aun Mariona to Hea Toneawa
+858EE2D3:Mud Golem Heart
+858EE2D4:Pack Levistras
+858EE2D5:Some Changes for February 2012
+858EE2D6:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,72 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap1\pkt_2017-1-29_1485721132_log.pcap
+
+Partial Exports - Missing appraisal info:
+801D399E:Sack
+801D399F:Pyreal
+801D39A0:Ust
+801D39A1:Calling Stone
+801D39A4:Prismatic Taper
+801D39A5:Lead Scarab
+801D39A6:Blackmoor's Favor
+801D39A7:Oil of Rendering
+801D39A8:Oil of Rendering
+801D39AB:Trade Note (10,000)
+801D39AA:Facility Hub Portal Gem
+801D39AC:Foci of Artifice
+801D39AD:Pack
+801D39B5:Nine of Hands
+801D39B6:Health Philtre
+801D39B9:Pack
+801D39BB:Wrapped Bundle of Deadly Armor Piercing Arrowheads
+801D39BC:Tinker's Crystal
+801D39BD:Wrapped Bundle of Olthoi Acid Arrowheads
+80149EEF:Ornate Fountain
+801D39C4:Ben Ten's Crystal
+801D39D3:Carrot
+801D39C5:Pack
+801D39CD:Pack
+801D39D4:Magic Iceball
+801D39D5:Lapyan Plant
+801D39D8:Skeleton's Skull
+80187F17:Arcane Pedestal
+801D39D9:Sturdy Steel Key
+801D39DA:Southern Quiddity Fragment
+801D39DC:Facility Hub Portal Gem
+801D39DD:Great Mana Charge
+801D39E0:Ciandra's Stone Infuser Instructions
+801D39E1:Our Bitter Winter
+801D39E2:Instructions
+801D39E3:Treated Healing Kit
+801D39E4:Treated Healing Kit
+801D39E5:Scroll of Hieromancer's Blessing
+801D39E6:Scroll of Vitality Siphon
+801D39E7:Scroll of Light Weapon Mastery Self VII
+801D39E8:Scroll of Blessing of the Mace Turner
+801D39E9:Scroll of Battlemage's Blessing
+801D39EA:Scroll of Perseverance
+801D39EB:Scroll of Aura of Resistance
+801D39EC:Scroll of Storm's Blessing
+801D39ED:Salvage (100)
+801D39EE:Salvage (100)
+801D39EF:Salvage (100)
+801D39F4:Mana Philtre
+801D39F0:Salvage (100)
+801D39F1:Salvage (100)
+8015570A:Decorative Ursuin Head
+801D39F2:Salvage (100)
+801D39F3:Salvage (100)
+80187F68:Bending Willow and Setting Sun
+8017FB2D:Sturdy Steel Key
+8017FA80:Health Philtre
+8017FB0D:Sturdy Steel Key
+80168AE2:Sturdy Steel Key
+8017FB03:Shendolain Key
+80155282:Sturdy Steel Key
+8017FB0C:Sturdy Steel Key
+8017FB2C:Sturdy Steel Key
+8017FB04:Peerless Lockpick
+8017FB0F:Peerless Lockpick
+80168AC1:Small Belt Pouch
+
+Missing Exports - Possessed items that were not found:

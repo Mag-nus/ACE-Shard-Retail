@@ -1,0 +1,40 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485761567_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-25_1485334729_log.pcap
+
+Partial Exports - Missing appraisal info:
+811D6086:Asheron's Benediction
+811D6088:Ust
+811D6089:Silver Scarab
+811D608A:Copper Scarab
+811D608B:Trade Note (100,000)
+811D608E:Pyreal Scarab
+811D608F:Prismatic Taper
+811D6096:Wrapped Bundle of Arrowshafts
+811D6097:Wrapped Bundle of Deadly Lightning Arrowheads
+811D6099:A Horn of Vigilance
+811D609A:A Horn of Vigilance
+811D609C:Elysa's Favor
+811D609D:Foci of Artifice
+811D609E:Pyreal
+811D60A0:Pack
+811D60A1:Bracelet of Knowledge
+811D60A2:Pack
+811D60A3:Idol Gem
+811D60A7:Iron Pea
+811D60AB:Copper Pea
+811D60AA:Heavy Bracelet
+811D60C1:Pyreal
+811D60AC:Silver Pea
+811D60AD:Gold Pea
+811D60C2:Pyreal
+811D60C3:Pyreal
+811D60B6:Copper Pea
+811D60C0:Some Changes for February 2012
+811D60BC:Wand
+811D60C4:Pyreal
+C5910A1E:Stipend
+
+Missing Exports - Possessed items that were not found:

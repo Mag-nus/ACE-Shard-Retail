@@ -1,0 +1,62 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-25_1485371656_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485763765_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485763765_log.pcap
+
+Partial Exports - Missing appraisal info:
+8960BADC:Foci of Artifice
+8A9C39D3:Pathwarden Trinket
+8D1A242B:Pack
+8A9C94DB:Facility Hub Portal Gem
+8A98803F:Facility Hub Portal Gem
+90D9590E:Pyreal
+8960BAD6:Ust
+8960BADD:Prismatic Taper
+8960BADE:Lead Scarab
+8A8A127D:Asheron's Benediction
+8A940112:Blackmoor's Favor
+8D1AB579:Copper Scarab
+8D1AB095:Pack
+8D0FCB63:Coalesced Mana
+8D04902B:Swamp Stone
+8D3903AF:Trade Note (50,000)
+90A0C5D5:Trade Note (250,000)
+90D80F0D:Pyreal
+8DAC764C:Trade Note (75,000)
+90D9325B:Trade Note (200,000)
+90DA41BD:Pyreal
+8D1AB094:Pack
+8D1AB0AE:Pack
+8D1AAA18:Pack
+90DABAC4:Lyceum Hood
+8D1AB131:Pack
+90C5FFC9:Ebon Gromnie Eradicator Plaque
+909BCAAC:Blunt Baton
+8D32BC74:Hand Wraps
+8D041D04:Minor Mana Stone
+8D308BA4:Token of Modification
+8D308440:Intricate Carving Tool
+8D4CAF9D:Gem of Stillness
+8D7877FC:Bone Engraved Key
+8D78390D:Puzzle Box
+8D6DD48E:Dansha-Ki's Gem of Portal Recall
+8DBE78A0:Marked Fleshy Journal
+8DC1D47E:Flaming Takuba
+8DC10835:Scarred Fleshy Journal
+8DC49B40:Foul-Smelling Hide
+8DC3C15C:Kixkti Xri's Journal
+8DC68640:Elysa's Pendant
+8DC07428:A Book of Quests for Young Explorers
+8DC6E6C7:Splitting Tool
+90C4878B:Skullpuncher
+90D7729F:Mana Forge Key
+90D62463:Dansha-Ki's Gem of Portal Recall
+80FD41DA:Ring
+90DB31F3:Flared Pants
+B9518349:Blank Augmentation Gem
+B9526999:Blank Augmentation Gem
+C6A2674A:Stipend
+
+Missing Exports - Possessed items that were not found:

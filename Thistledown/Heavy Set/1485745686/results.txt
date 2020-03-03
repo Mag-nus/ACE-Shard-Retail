@@ -1,0 +1,261 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\trello_datamining\1_Ridley-01-30-2017-olthoi-horde-nest-bandit-castle\pkt_2017-1-29_1485744527_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ridley-01-30-2017-olthoi-horde-nest-bandit-castle\pkt_2017-1-29_1485744527_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ridley-01-30-2017-olthoi-horde-nest-bandit-castle\pkt_2017-1-29_1485744527_log.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\194_Ridley-Amanah-Final-Random-2\pkt_2017-1-29_1485744527_log.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\194_Ridley-Amanah-Final-Random-2\pkt_2017-1-29_1485744527_log.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\1_Ridley-01-30-2017-olthoi-horde-nest-bandit-castle\pkt_2017-1-29_1485744527_log.pcap
+
+Partial Exports - Missing appraisal info:
+823C371D:Pyreal
+823BDFBC:Pack
+823BDFBB:Vaulter's Crystal
+82354C74:Mana Forge Key
+82393C4F:Physician's Crystal
+82393E72:Fletcher's Crystal
+82393BC8:Thorsten's Crystal
+82358A29:Elysa's Crystal
+82358CDD:Thorsten's Crystal
+823BDFBF:Converter's Crystal
+82354A54:Tinker's Crystal
+8238C3AC:Inferno's Jewel
+823BCC91:Adherent's Crystal
+8238C551:Imbuer's Crystal
+823BD801:Electric Atlatl
+82394378:Fire Compound Crossbow
+82394379:Fire Crossbow
+823C3630:Fire Slingshot
+82390DCB:Electric Compound Crossbow
+82394C85:Frost Crossbow
+8239487C:Pyreal
+82394377:Imbuer's Crystal
+82394BA4:Alchemist's Crystal
+8239437B:Chef's Crystal
+823BD740:Astyrrian's Jewel
+82394BF5:Tusker's Jewel
+8232ED61:Pack
+823526C4:Mana Forge Key
+82394C87:Strengthened Mana Forge Key
+823C369C:Strengthened Mana Forge Key
+8239437A:Strengthened Mana Forge Key
+8232E2E9:Celestial Hand Gauntlets
+8238D204:Celestial Hand Tassets
+8234E9A4:Mana Forge Key
+8235196A:Celestial Hand Sollerets
+8231A321:Celestial Hand Sollerets
+823BCDCA:Pyreal
+82351EB1:Strengthened Mana Forge Key
+82359114:Strengthened Mana Forge Key
+82394B7B:Strengthened Mana Forge Key
+823C3494:Strengthened Mana Forge Key
+823C3498:Strengthened Mana Forge Key
+823C3499:Mosswart Mask
+82394DC6:Pack
+82394DC7:Salvaged  (100)
+82353C65:Pack
+823943A2:Salvaged  (100)
+823520AB:Salvaged  (100)
+82394D18:Pack Golem
+823518B1:Salvaged  (100)
+8234EA8E:Salvaged  (100)
+823943A4:Coral Fragment
+82394BEB:Salvaged  (100)
+82359373:Salvaged  (100)
+8238CF44:Pack Gaerlan
+823BE060:Salvaged  (100)
+823BCED1:Salvaged  (100)
+8238D29E:Pack Golem
+8238D1CB:Salvaged  (100)
+8238D1F3:Salvaged  (100)
+82351645:Salvaged  (100)
+8238D1DE:Salvaged  (100)
+82351C4D:Pack Bael'Zharon
+823BDB2E:Salvage (100)
+82394BA6:Salvage (100)
+8238D0E6:Pack
+82354C16:Salvage (100)
+822E625E:Salvage (100)
+82392F88:Pack
+8238D1CC:Salvage (100)
+8238D1F2:Salvage (100)
+82353C67:Pack
+823A9DF8:Salvage (100)
+82394B04:Salvage (100)
+823C36BD:Pack T'thuun
+82392C38:Salvage (100)
+823BCEFD:Salvage (100)
+82394913:Pack Asheron
+823537D9:Salvage (100)
+82392FAD:Foolproof Peridot
+82351F76:Salvage (100)
+82394AE5:Salvage (100)
+823C36C2:Salvage (100)
+823BCE04:Salvage (100)
+82394A72:Salvage (100)
+823C3565:Salvage (100)
+823BE573:Salvage (100)
+82394A86:Salvage (100)
+822E625C:Salvage (100)
+8239498E:Salvage (100)
+823C3691:Salvage (100)
+823C36C3:Salvaged  (100)
+823C3495:Salvaged  (100)
+82358B95:Salvaged  (100)
+823C349A:Salvage (100)
+82394A18:Salvage (100)
+82353C61:Salvage (100)
+823BCB0C:Salvaged  (100)
+823BCD8D:Salvaged  (100)
+8238D166:Salvaged  (100)
+8238D168:Salvage (100)
+823BCBC3:Vial of Verdalim Dye
+8239498D:Vial of Relanim Dye
+82394B03:Vial of Minalim Dye
+82393703:Verdalim Plant
+823C36B8:Lapyan Plant
+8235938D:Hennacin Plant
+823C3610:Minalim Plant
+823BCCFC:Berimphur Plant
+823BCCFD:Salvage (100)
+823BCD8E:Salvage (100)
+823BCD48:Salvage (100)
+82351EF3:Salvage (100)
+823C36B7:Salvage (100)
+823BE595:Salvage (100)
+823937E9:Salvage (100)
+8235384E:Salvage (100)
+823BCD87:Salvage (100)
+823BCD42:Salvage (100)
+823BCED2:Salvage (100)
+823BCECA:Salvage (100)
+823BCECE:Salvage (100)
+82393805:Heavy Bracelet
+823BCE05:Tunic
+823537DA:Doublet
+823537D7:Jerkin
+823537D0:Gorget
+82394DE6:Vest
+823BCDA8:Bandana
+82394DCE:Chiran Leggings
+823BCED0:Breeches
+823BCC49:Salvage (100)
+823BCF45:Salvage (100)
+82394B66:Salvage (100)
+823BE5BC:Salvage (100)
+823BE5BD:Salvage (100)
+823C371E:Salvage (100)
+823BD11B:Salvage (100)
+823BD131:Salvage (100)
+823949FA:Salvage (100)
+823BD75E:Salvage (100)
+8235950C:Salvage (100)
+8239498C:Salvage (100)
+823C3EE4:Salvage (100)
+823BE5D8:Salvage (100)
+82392EEB:Salvage (100)
+82392EEA:Salvage (100)
+8234F118:Salvage (100)
+8238D1AF:Salvage (100)
+823BCD64:Salvage (100)
+823BCD67:Salvage (100)
+82348AAE:Salvage (100)
+82353829:Salvage (100)
+823949FC:Salvage (100)
+823BCD6B:Salvage (100)
+823BCD6C:Faran Robe
+82393133:Gorget
+823BCD91:Kabuton
+823BCD6A:Necklace
+822DF717:Trade Health Elixir
+823BCD9B:Chainmail Basinet
+823BCD9C:Princely Runed Dolabra
+823BCD9D:Pack Drudge
+823538A2:Ring
+8232FEDA:Tremendous Monouga Pack Doll
+82351434:Condensed Dispel Potion
+82339939:Pack Virindi
+8235331C:Pack Ursuin
+823C3EE5:Pack Levistras
+823C3612:Pack Grievver
+823948BE:Pack Grievver
+823C36BE:Loose Pants
+823943A3:Pack Cow
+8238C18F:Pack Virindi
+8235393E:Baggy Shirt
+8235199D:Baggy Tunic
+823A9D35:Studded Leather Girth
+823BC9D9:Chainmail Bracers
+82351EC5:Studded Leather Bracers
+82394B64:Lorica Helm
+82351DB8:Ring
+823BCDB5:Diforsa Sollerets
+823516A2:Loafers
+82392EFD:Flared Pants
+823949B4:Loose Breeches
+823C3727:Flared Shirt
+823C3ECB:Tenassa Breastplate
+82358445:Haebrean Helm
+823BD75D:Lorica Boots
+823BD727:Piercing Baton
+823C34A0:Fire Baton
+823C3703:Baggy Tunic
+8239487D:Blunt Sceptre
+82394B63:Slashing Staff
+82394B65:Frost Baton
+82353D93:War Axe
+823BCDC8:Amulet
+823948F4:Alduressa Boots
+8238C802:Scalemail Bracers
+82353743:Yoroi Greaves
+8232F6B7:Amber Ape
+82319F92:Bobo's Stout
+823C3730:Apothecary Zongo's Stout
+823BDDE8:Hunter's Stock Amber
+823948CD:Condensed Dispel Potion
+82332B97:Faran Robe
+82351C85:Festival Robe
+8232E178:Diforsa Tassets
+82394CDF:Celdon Girth
+82394914:Pants
+8231A93C:Flared Pants
+823580C7:Celdon Breastplate
+823BCB49:Chainmail Tassets
+8239491D:Yoroi Pauldrons
+82385324:Olthoi Alduressa Boots
+823BD3B4:Trousers
+823BCF6B:Loose Breeches
+82351CD3:Puffy Shirt
+82351ACE:Tunic
+8232CD97:Tunic
+8239490E:Chainmail Gauntlets
+823BE194:Lace Shirt
+823BCD86:Fire Baton
+82394C2E:Smock
+82394C2D:Puzzle Box
+82359E71:Shoes
+823BCDE4:Bracelet
+8238CF4B:Baggy Pants
+823C36BC:Doublet
+823BCDFC:Cloth Cap
+823948B8:Baggy Shirt
+823593E9:Crown
+823C36BF:Slippers
+823593B0:Loose Shirt
+823590F6:Baggy Shirt
+823C3745:Chainmail Gauntlets
+823C36C1:Nariyid Breastplate
+823C36C0:Alduressa Gauntlets
+82392CC5:Doublet
+822E5661:Baggy Breeches
+8231FD7F:Lace Shirt
+82353FEA:Shoes
+823BE620:Lorica Helm
+823BCF75:Cowl
+823BCDDB:Yoroi Pauldrons
+823BCF77:Amuli Leggings
+823949F7:Tunic
+8238D392:Mosswart Wand
+
+Missing Exports - Possessed items that were not found:

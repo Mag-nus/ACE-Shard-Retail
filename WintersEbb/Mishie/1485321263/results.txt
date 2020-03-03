@@ -1,0 +1,65 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Delune-01-24-2017-packetlogging\pkt_2017-1-24_1485320277_log.pcap
+
+Partial Exports - Missing appraisal info:
+A5812956:Pyreal
+A5812B74:Gold Scarab
+A5812B99:Lead Scarab
+A581285F:Iron Scarab
+A5812BA3:Silver Scarab
+A5812B6E:Copper Scarab
+A58128F5:Pyreal Scarab
+A57D928C:Copper Pea
+A5812B97:Silver Pea
+A5812B93:Prismatic Taper
+A5812948:Blackmoor's Favor
+A5812520:Pyreal Pea
+A57D4CC0:Foci of Verdancy
+A58127AA:Foci of Enchantment
+A58127B1:Foci of Artifice
+A58127C0:Bordered Cloak
+A58127CE:Faran War Master Robe
+A5812819:Ust
+A57D261C:Foci of Shadow
+A5812B5D:Pyreal
+A58128B0:Pyreal
+A58129DD:Pyreal
+A58129FA:Pyreal
+A5812B87:Salvage (6)
+A58128B1:Salvage (5)
+A58128A9:Pathwarden Trinket
+A5811760:Salvage (7)
+A580BF55:Salvage (56)
+A5812892:Gold Pea
+A58129FB:Salvage (26)
+A5812B86:Salvage (4)
+A58128AA:Fists of Stone
+A58128BC:Salvage (4)
+A58129E1:Salvage (8)
+A5812893:Red Jewel
+A58129FD:Salvage (4)
+A58129E2:Salvage (8)
+A5812978:Massive Mana Charge
+A58128BD:Salvage (13)
+A5812888:Salvage (14)
+A5812979:Stipend
+A581294A:Salvage (16)
+A580BF64:Salvage (10)
+A580347F:Salvage (3)
+A58035E1:Salvage (5)
+A580340D:Salvage (5)
+A58023B7:Salvage (3)
+A58023BC:Salvage (14)
+A5811245:Salvage (5)
+A5811244:Salvage (5)
+A57E7085:Salvage (5)
+A5812949:Salvage (13)
+A58129F7:Salvage (10)
+A58129FE:Salvage (9)
+A581289D:Salvage (5)
+A5812886:Salvage (5)
+A581289E:Salvage (5)
+A5812887:Salvage (5)
+A57E705B:Elaborate Field Mana Rations
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,226 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-31_1485866227_log.pcap
+
+Partial Exports - Missing appraisal info:
+9C53568D:Pack
+AD6A5095:Golden Gromnie
+AD6A5099:Golden Gromnie
+AD6A509A:Golden Gromnie
+AD6A509B:Golden Gromnie
+AD6A50C2:Golden Gromnie
+AD6A50C6:Golden Gromnie
+AD6A50BE:Golden Gromnie
+AD6A50BF:Golden Gromnie
+AD6A5098:Golden Gromnie
+AD6A50C7:Golden Gromnie
+AD6A5096:Golden Gromnie
+AD6A50C4:Golden Gromnie
+AD6A50C5:Golden Gromnie
+AD6A50C3:Golden Gromnie
+AD6910C9:Snowball
+AD68DFD6:Poofy Snowball
+AD63D6C9:Magic Iceball
+9C5356E2:Small Belt Pouch
+AD68D682:Iceball
+9C5356F3:Academy Coat
+9C5356F4:Blackmoor's Favor
+9C5356F5:Facility Hub Portal Gem
+9C535690:Pack
+9C535691:Acid Child Essence (180)
+9C535692:Frost Child Essence (180)
+9C535693:Acid Zombie Essence (180)
+9C535694:Frost Child Essence (180)
+9C535695:Fire Skeleton Bushi Essence (180)
+9C535696:Lightning Zombie Essence (180)
+9C535697:Acid Spectre Essence (180)
+9C535698:Acid Spectre Essence (180)
+9C535699:Frost Child Essence (180)
+9C53569A:Lightning Grievver Essence (180)
+9C53569B:Lightning Spectre Essence (180)
+9C53569C:Acid Zombie Essence (180)
+9C53569D:Fire Child Essence (180)
+9C53569E:Fire Zombie Essence (180)
+9C53569F:Fire Skeleton Bushi Essence (180)
+9C5356A0:Lightning Skeleton Bushi Essence (180)
+9C5356A1:Lightning Phyntos Wasp Essence (180)
+9C5356A2:Lightning Phyntos Wasp Essence (180)
+9C5356A3:Fire Phyntos Wasp Essence (180)
+9C5356A4:Lightning Phyntos Wasp Essence (180)
+9C5356A5:Acid Phyntos Wasp Essence (180)
+9C5356A6:Lightning Child Essence (180)
+9C535725:Fire K'nath Essence (180)
+9C53572A:Lightning Child Essence (180)
+9C5356A7:Pack
+9C5356A8:Frost Phyntos Wasp Essence (150)
+9C5356A9:Frost Skeleton Bushi Essence (150)
+9C5356AA:Frost Phyntos Wasp Essence (150)
+BDC21C4E:K'nath B'orret Essence
+BDC20C8C:Blistered Zombie Essence
+BDE97F92:Corrosion Wisp Essence
+BC42CBFB:Frost Skeleton Samurai Essence
+84321F13:Volcanic Moar Essence
+BDC3C5BF:Excited Grievver Essence
+BDEA2103:Caustic Grievver Essence
+BDE798A5:Arctic Grievver Essence
+BDC1C1BB:Voltaic Wisp Essence
+BE467E64:Frost Maiden Essence
+BC254A10:K'nath R'ajed Essence
+BC6E5781:K'nath R'ajed Essence
+BC420222:K'nath B'orret Essence
+BCBD4E20:Caustic Grievver Essence
+B9F83A01:Scorched Grievver Essence
+B9F837E3:Scorched Grievver Essence
+9C53574C:Frost Wisp Essence (150)
+9C53574B:Frost Phyntos Wasp Essence (150)
+9C53574A:Frost Spectre Essence (180)
+9C5356AD:Pack
+9C5356AE:Lightning Child Essence (180)
+9C5356AF:Fire Skeleton Bushi Essence (180)
+9C5356B0:Fire Child Essence (180)
+9C5356B1:Frost Spectre Essence (180)
+9C5356B2:Frost Spectre Essence (180)
+9C5356B3:Frost Spectre Essence (180)
+9C5356B4:Acid Spectre Essence (180)
+9C5356B5:Fire Spectre Essence (180)
+9C5356B6:Fire K'nath Essence (180)
+9C5356B7:Fire K'nath Essence (180)
+9C5356B8:Acid Moar Essence (180)
+9C5356B9:Fire Moar Essence (180)
+9C5356BA:Frost Moar Essence (180)
+9C5356BB:Acid Wisp Essence (180)
+9C5356BC:Fire Wisp Essence (180)
+9C5356BD:Frost Phyntos Wasp Essence (180)
+9C5356BE:Fire Phyntos Wasp Essence (180)
+9C5356BF:Lightning Moar Essence (180)
+9C5356C0:Fire Moar Essence (180)
+9C5356C1:Fire Zombie Essence (180)
+9C5356C2:Acid Moar Essence (180)
+9C5356C3:Acid Grievver Essence (180)
+9C5356C4:Lightning Phyntos Wasp Essence (180)
+9C5356C5:Acid Phyntos Wasp Essence (180)
+9C5356C6:Pack
+9C5356C7:Fire Moar Essence (180)
+9C5356C8:Acid Phyntos Wasp Essence (180)
+9C5356C9:Acid Moar Essence (180)
+9C5356CA:Fire Child Essence (180)
+9C5356CB:Frost K'nath Essence (180)
+9C5356CC:Fire Grievver Essence (180)
+9C5356CD:Lightning Grievver Essence (180)
+9C5356CE:Frost K'nath Essence (180)
+9C5356CF:Lightning K'nath Essence (180)
+9C5356D0:Fire Spectre Essence (180)
+9C5356D1:Fire Moar Essence (180)
+9C5356D2:Acid Moar Essence (180)
+9C5356D3:Acid Wisp Essence (180)
+9C5356D4:Acid Skeleton Bushi Essence (180)
+9C5356D5:Fire Zombie Essence (180)
+9C5356D6:Acid Zombie Essence (180)
+9C5356D8:Lightning Wisp Essence (180)
+9C5356D9:Acid Zombie Essence (180)
+9C5356DA:Lightning Spectre Essence (180)
+9C5356DB:Lightning Moar Essence (180)
+9C5356DC:Frost Spectre Essence (180)
+9C5356DD:Frost Child Essence (180)
+9C5356DE:Frost Grievver Essence (180)
+9C5356DF:Pack
+9C5356E0:Frost Spectre Essence (125)
+9C5356E1:Lightning Child Essence (125)
+9C535741:Blizzard Wisp Essence
+9C535740:Lightning Maiden Essence
+9C53573F:Incendiary Wisp Essence
+9C53573E:Scorched Grievver Essence
+9C53573D:Acid Skeleton Samurai Essence
+9C53573C:Incendiary Wisp Essence
+9C535737:Acid Moar Essence (180)
+9C535736:Frost Skeleton Samurai Essence
+9C535738:Caustic Grievver Essence
+9C535735:Charred Zombie Essence
+9C535734:Glacial Knight Essence
+9C535739:Blizzard Wisp Essence
+9C53573A:Voltaic Wisp Essence
+9C53572C:Caustic Knight Essence
+9C535730:Blistered Zombie Essence
+9C535731:Lightning Skeleton Samurai Essence
+9C535732:Glacial Knight Essence
+9C535733:Glacial Knight Essence
+9C53572F:Charred Zombie Essence
+9C535726:Fire K'nath Essence (180)
+9C5356E3:Wrapped Bundle of Deadly Armor Piercing Arrowheads
+9C5356E4:Spectral Chill Bolt
+9C5356E5:Wrapped Bundle of Gear Blade Slashing Arrowheads
+9C5356E6:Wrapped Bundle of Deadly Acid Arrowheads
+9C5356EA:Wrapped Bundle of Deadly Blunt Arrowheads
+9C5356EB:Wrapped Bundle of Prismatic Arrowheads
+9C5356EC:Bundle of Prismatic Arrowheads
+9C5356ED:Gear Blade Slashing Bolt
+9C5356EF:Olthoi Acid Bolt
+9C5356F1:Spectral Chill Arrow
+9C553CF7:Bundle of Deadly Prismatic Arrowheads
+9C5356E9:Wrapped Bundle of Deadly Fire Arrowheads
+AD6A49E1:Deadly Chorizite Arrow
+B08418A4:Olthoi Acid Arrow
+B0841598:Wrapped Bundle of Deadly Fire Arrowheads
+9C5356F6:Spectral Chill Arrow
+AD6A5091:Wrapped Bundle of Deadly Chorizite Arrowheads
+CD3FE5CA:Spectral Chill Arrow
+9C5356F7:Lightning Phyntos Swarm Essence
+9C5356F8:K'nath B'orret Essence
+9C5356FE:Voltaic Wisp Essence
+9C5356FF:Fire Phyntos Swarm Essence
+9C535700:Frost Phyntos Swarm Essence
+9C535706:Fire Maiden Essence
+9C535707:Freezing Moar Essence
+9C535708:Shocked Zombie Essence
+9C535709:Blizzard Wisp Essence
+9C53570A:Electrified Moar Essence
+9C53570B:Caustic Grievver Essence
+9C53570C:Voltaic Wisp Essence
+9C53570D:Arctic Grievver Essence
+9C53570E:Caustic Knight Essence
+9C53570F:K'nath T'soct Essence
+9C535710:Blistered Zombie Essence
+9C535711:Shocked Zombie Essence
+9C535712:Blistered Zombie Essence
+9C535713:K'nath Y'nda Essence
+9C535714:Caustic Knight Essence
+9C535715:Galvanic Knight Essence
+9C535716:Glacial Knight Essence
+9C535717:Volcanic Moar Essence
+9C535718:Blistering Moar Essence
+9C535719:Voltaic Wisp Essence
+9C53571A:Lightning Phyntos Swarm Essence
+9C53571B:Lightning Maiden Essence
+9C53571C:Acid Skeleton Samurai Essence
+9C53571D:Charred Zombie Essence
+9C53571E:Electrified Moar Essence
+9C53571F:Galvanic Knight Essence
+9C535720:Lightning Phyntos Swarm Essence
+9C535721:Glacial Knight Essence
+9C535722:Blistering Moar Essence
+9C535729:Voltaic Wisp Essence
+9C53572D:Shocked Zombie Essence
+9C53573B:Acid Wisp Essence (180)
+9C535742:Electrified Moar Essence
+9C535743:Acid Phyntos Swarm Essence
+9C535745:K'nath Y'nda Essence
+9C535746:K'nath B'orret Essence
+9C535747:Arctic Grievver Essence
+9C535748:Acid Skeleton Samurai Essence
+BFF0A5A2:K'nath T'soct Essence
+C00DFB1A:Fire Skeleton Samurai Essence
+C6061A80:Caustic Grievver Essence
+C6A289CB:Charred Zombie Essence
+C74920B1:Caustic Grievver Essence
+C601D95A:Scorched Grievver Essence
+CBAC9622:Galvanic Knight Essence
+CBDD0DE7:K'nath Y'nda Essence
+CBAD0FD3:K'nath B'orret Essence
+CCA19684:Galvanic Knight Essence
+CC6B7854:Voltaic Wisp Essence
+CC851F26:Acid Maiden Essence
+9C535701:Incendiary Knight Essence
+C848F9C8:Fire Skeleton Samurai Essence
+BFF06AF2:K'nath T'soct Essence
+BFBFC08E:Lightning Maiden Essence
+
+Missing Exports - Possessed items that were not found:

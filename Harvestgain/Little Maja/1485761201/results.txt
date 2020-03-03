@@ -1,0 +1,61 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485761194_log.pcap
+
+Partial Exports - Missing appraisal info:
+811DA327:Arcane Pedestal
+811DA32A:Sack
+811DA329:Sanguinary Aegis
+811DA328:Staff of the Painbringer
+811DA325:Divan
+811DA324:Footstool
+811DA31D:Tapestry
+811DA323:Lautaloi
+811DA321:Diamond Shield
+811DA320:Treasure
+811DA31F:Frost Shamshir
+811DA31E:Crystal Sword
+811DA31C:Pedestal with a Floral Arrangement
+811DA31B:Wreath
+811DA31A:Tapestry
+811DA319:Tapestry
+811DA318:Tapestry
+811DA317:Alchemy Table
+811DA316:Tremendous Monouga Pack Doll
+811DA315:Blueprints for a Burun Fortress
+811DA314:Ust
+811DA312:Prismatic Taper
+811DA311:Lead Scarab
+811DA310:Asheron's Benediction
+811DA30F:Pack
+811DA30E:Pack Drudge
+811DA30D:Whole Chicken
+811DA30C:Pack Cow
+811DA2F5:Pyreal
+811DA30B:Pack
+811DA30A:Wallbound Niffis
+811DA309:Chalk Board
+811DA308:Head of the Homunculus
+811DA307:Tome of Blood and Bone
+811DA306:Black Spear of Shadow Renewal
+811DA305:Fertilized Fly Trap
+811DA304:Ursuin Toy
+811DA303:Pack
+811DA302:Thorsten's Armor
+811DA301:Pack
+811DA2FF:Pack
+811DA2FE:Shield of Power
+811DA2FD:Breastplate of Power
+811DA2FC:Fine Spine Axe
+811DA2FB:Singularity Axe
+811DA2FA:Holiday Lights
+811DA2F9:Olthoi Lands Portal Device
+811DA2F8:Olthoi Resurgent
+811DA2F7:Some Changes for February 2012
+811DA2F6:Blackmoor's Favor
+811DA2F4:Pyreal
+811DA2F0:Great Mana Charge
+B4D00301:Tremendous Monouga Pack Doll
+B4D187CA:Diamond Scarab
+B8834746:Foci of Artifice
+
+Missing Exports - Possessed items that were not found:

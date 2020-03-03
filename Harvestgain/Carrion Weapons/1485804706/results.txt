@@ -1,0 +1,200 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\CatDevnull-Dont-Remember-1\pkt_2017-1-30_1485795672_log.pcap
+
+Partial Exports - Missing appraisal info:
+A4069335:Sack
+A4069336:Ust
+A4544727:Blackmoor's Favor
+A44D40FA:Facility Hub Portal Gem
+A40A0026:Treated Healing Kit
+A406933D:Prismatic Taper
+A35EA411:Encapsulated Spirit
+A45AC62B:Copper Scarab
+A45AC5A9:Silver Scarab
+A4546B6B:Aphus Lassel Portal Gem
+A4619ADD:Major Mana Stone
+983B41B1:Gem of Stillness
+A4549B4D:Sandstone Golem Essence
+A2E25C5C:Major Mana Stone
+A46BE283:Pyreal Scarab
+A47465EC:Black Page of Salt and Ash
+A4502482:Academy Battle Axe
+A4727B90:Gold Scarab
+C77CBA33:Stipend
+A406933C:Foci of Artifice
+A47D25C7:Small Belt Pouch
+A47D25A4:Pack
+A677D80C:Acid Wisp Essence (125)
+9867BE6C:Shagraka
+A9C8099A:Lightning K'nath Essence (180)
+AA3EB370:K'nath R'ajed Essence
+A6E53839:Fire K'nath Essence (150)
+A6EBD77B:Lightning Wisp Essence (150)
+A7160E3D:Frost Wisp Essence (150)
+AAF25A63:Lightning K'nath Essence (80)
+B05FB811:Frost Wisp Essence (100)
+B304FC55:Fire Wisp Essence (180)
+AF7A0EAE:K'nath Y'nda Essence
+B86C5F3A:K'nath R'ajed Essence
+BA41E978:Glacial Knight Essence
+A6947DA8:Lightning Wisp Essence (125)
+A6819EF3:Frost K'nath Essence (125)
+A686B57C:Fire Wisp Essence (125)
+A684DCD2:Acid Child Essence (125)
+C609DCA8:K'nath T'soct Essence
+AD1F0578:Incendiary Knight Essence
+C19F8CBA:Glacial Knight Essence
+C5E3F291:K'nath B'orret Essence
+AC6A9D1E:K'nath Y'nda Essence
+9867B8D1:Piercing Sceptre
+9867B904:Flaming Katar
+9867B880:Heavy Crossbow
+9867B8D9:Sceptre
+9867B8E3:Slashing Baton
+9867B858:Taulandoi
+9867B8E4:Piercing Sceptre
+9867B8EB:Piercing Staff
+983D84A8:Gear Crossbow
+9867B8E5:Frost Sceptre
+983E64BF:Fire Baton
+9867B84E:Taulandoi
+983E64BE:Fire Sceptre
+9867B882:Heavy Crossbow
+A47D2B25:Pack
+9867B87E:Heavy Crossbow
+9843C2CF:Nether Baton
+9867BE5E:Longbow
+A5B216DA:Acid Compound Crossbow
+983E647D:Light Crossbow
+A4741EA0:Belt Pouch
+983C0828:Acid Sceptre
+983E647B:Light Crossbow
+802D84E8:Axe of the Quiddity
+98C7E3F8:Blunt Compound Crossbow
+A5E3D80A:Acid Crossbow
+A7B4EF7B:Fire Crossbow
+A7C27DB9:Blunt Compound Crossbow
+9867BF22:Tachi
+BD8000AC:Purified Mouryou Nodachi
+9867BE5B:Wrapped Bundle of Greater Armor Piercing Arrowheads
+9867BE5C:Wrapped Bundle of Deadly Chorizite Arrowheads
+A0AC459F:Wrapped Bundle of Deadly Armor Piercing Arrowheads
+9EAD31E4:Wrapped Bundle of Deadly Blunt Arrowheads
+9E452300:Wrapped Bundle of Deadly Lightning Arrowheads
+983E6471:Crossbow of the Fallen
+983E647E:Royal Runed Arbalest
+9722347C:Red Rune Silveran Crossbow
+9867B8C5:Iasparailaun
+A124C7A9:Utterly Flawless Lense
+9867B8C2:Iasparailaun
+9867B8E7:Olthoi Sword
+9867B84C:Dark Sorcerer's Phylactery
+9867B84F:Dark Sorcerer's Phylactery
+9867B85D:Saulandoi
+A0043CD1:Atlatl of the Fallen
+AA0AD148:Hammer of the Fallen
+9867B892:Peculiar Old Dagger
+A47D2C1F:Pack
+AB95B24D:Fire Crossbow
+A93713D5:Fire Crossbow
+A91AF659:Fire Crossbow
+ACE02CBD:Blunt Compound Crossbow
+AD5D325A:Frost Crossbow
+ACEDEDDA:Piercing Compound Crossbow
+AD7EE475:Frost Compound Crossbow
+AD7EB488:Slashing Crossbow
+AEC6CD33:Fire Crossbow
+AF790155:Frost Crossbow
+AF752DB9:Piercing Crossbow
+AF77DFE2:Fire Crossbow
+B658F136:Frost Crossbow
+B627AFB1:Frost Compound Crossbow
+B627A963:Frost Crossbow
+B626D646:Slashing Crossbow
+B58D6ED0:Frost Compound Crossbow
+B5EC5AE4:Blunt Crossbow
+B50C1FC6:Frost Crossbow
+B507B4A6:Piercing Compound Crossbow
+B50C29D7:Piercing Crossbow
+B5E4F1C9:Blunt Compound Crossbow
+B5CC92F2:Blunt Crossbow
+BBF7CB59:Fire Compound Crossbow
+A6565F53:Piercing Baton
+A2B56FFC:Fire Staff
+AAD42878:Frost Sceptre
+AF761D4B:Fire Baton
+B11A24ED:Fire Sceptre
+B4470652:Slashing Baton
+B68822EA:Frost Baton
+B6147EA4:Acid Staff
+B65A532D:Blunt Baton
+B871E9FC:Frost Sceptre
+A91D9DD1:Nether Staff
+AAADDA25:Nether Sceptre
+AAAE35B9:Nether Staff
+AEC9C436:Nether Staff
+ACEE0201:Nether Sceptre
+AD5E20E4:Nether Sceptre
+AF793B28:Nether Sceptre
+B75E4C5A:Nether Staff
+B58E0636:Nether Staff
+B9B73A9A:Slashing Sceptre
+B8514782:Wand
+B878FA90:Fire Sceptre
+BFA0AB2C:Nether Baton
+BF6C6BEB:Electric Staff
+B50C4FAB:Blunt Compound Crossbow
+B65AA0C2:Frost Crossbow
+B627FA53:Acid Compound Crossbow
+B655E7DC:Acid Compound Crossbow
+B5AD7EFE:Acid Crossbow
+B5ECBE1E:Acid Crossbow
+AD77B7BA:Acid Crossbow
+AD751FF1:Acid Crossbow
+B72F3336:Slashing Crossbow
+B72EAB63:Electric Crossbow
+B6A3CF06:Frost Compound Crossbow
+B9478811:Acid Crossbow
+BA920493:Fire Compound Crossbow
+BADE9D0F:Frost Compound Crossbow
+BAF47D73:Fire Compound Crossbow
+BAB1279E:Piercing Sceptre
+BB47A39B:Frost Compound Crossbow
+BB872166:Piercing Crossbow
+BBA78074:Piercing Compound Crossbow
+BBBEB07F:Piercing Crossbow
+BC2EB545:Electric Crossbow
+BC6ADF5D:Slashing Compound Crossbow
+BD0E259A:Slashing Compound Crossbow
+BF43FCE3:Frost Compound Crossbow
+BF3A70F0:Acid Crossbow
+BF86F1C8:Acid Sceptre
+BF86E989:Slashing Crossbow
+C04EADA8:Slashing Staff
+C03B4C28:Piercing Crossbow
+C19F8CBB:Frost Sceptre
+C19D1D8A:Acid Staff
+C195568B:Frost Baton
+C162C930:Acid Baton
+C167C8A6:Piercing Staff
+C3074B5D:Nether Baton
+C3D3E623:Blunt Baton
+C498D92A:Blunt Compound Crossbow
+C4954AF0:Nether Sceptre
+C03AA477:Frost Compound Crossbow
+AE23D94D:Electric Compound Crossbow
+C55A410E:Nether Baton
+C5343542:Acid Compound Crossbow
+C5408FC8:Blunt Staff
+C5380321:Electric Compound Crossbow
+C4F48527:Frost Baton
+C4D142BD:Acid Compound Crossbow
+C4D2BB76:Fire Crossbow
+C5E80917:Orb
+C08BF3A4:Wand
+9867BEE2:Wand
+C3026724:Damaged Shadow Blade
+C72FC7B0:Nether Baton
+C5E51E20:Coral Golem Essence
+
+Missing Exports - Possessed items that were not found:

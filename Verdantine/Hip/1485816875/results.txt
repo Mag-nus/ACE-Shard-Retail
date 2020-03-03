@@ -1,0 +1,70 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap2\pkt_2017-1-30_1485813377_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap1\pkt_2017-1-29_1485721132_log.pcap
+
+Partial Exports - Missing appraisal info:
+85FCC691:Pyreal
+85FEF3C6:Sack
+85FC828F:Ust
+85FC8089:Ancient Empyrean Trinket
+85FC79BB:Prismatic Taper
+85FCCB2E:Pack Drudge
+85FCC0BD:Siraluun
+85FF1501:Lead Scarab
+85FE4A2F:Facility Hub Portal Gem
+85FE5379:Pack
+85FC8C4F:Pack
+85FB9095:Pyreal
+85FE3C22:Remoran
+85FD0F6F:Penguin
+85FED174:Banderling
+85FED0D3:Chicken
+85FC2F78:Pack
+8625E781:Diamond Heart
+801D7D1B:Sturdy Steel Key
+87ACA0C3:Small Carved Key
+85FCC942:Pack
+85FC9A78:Pack
+85FC830D:Golden Gromnie
+85FAA01D:Golden Gromnie
+86265EE3:Pyreal Nugget
+8600698F:Treated Healing Kit
+8623B1D4:Three of Hands
+85FCBF8F:Pack Drudge
+8600699F:Treated Healing Kit
+85FE5958:Mana Forge Key
+8622BB9F:Pyreal Mote
+91A1224B:Pyreal Mote
+85F8FF3F:Refreshing Water
+85FC7761:Treated Healing Kit
+85FBFF07:Treated Healing Kit
+91A33D59:Lucky Gold Letter
+80618522:Cheese
+85FC8067:Gem of Balance
+85FE4468:Cave Penguin Cake
+85FCC29B:Trade Note (50,000)
+85FF1F2F:Licorice Rat
+85FC8CC9:Gonjoku's Mana Infusion
+85FB6909:Hearty Lugian Loaf
+85FCC884:Health Tonic
+85FC66D1:Antiquated Compass
+85FAA878:Salvage
+85FDF092:Salvage
+85FF2390:Salvage
+85FE3AA5:Health Philtre
+85FC4555:Stamina Philtre
+85FE50BF:Aluvian Gem of Worth
+85FCC87F:Potion of Endless Vigor
+8057B51C:Peppermint Pumpkin Pie
+80D05C21:Crystal Fragment
+8620BFE0:Salvage (100)
+8621D87E:Salvage (100)
+91792664:Scarlet Red Letter
+8622C5CE:Salvage (100)
+8625AA22:Salvage (100)
+91A12A11:Ash Gromnie Tooth
+91A128FA:Artificer's Crystal
+
+Missing Exports - Possessed items that were not found:

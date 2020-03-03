@@ -1,0 +1,15 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-12-2017\Games\pkt_2017-1-31_1485841197_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-12-2017\Games\pkt_2017-1-11_1484169893_log.pcap
+
+Partial Exports - Missing appraisal info:
+95F385CE:Ust
+95F385CD:Sack
+9643F75E:Oil of Rendering
+9643F75F:Oil of Rendering
+97E2C967:Stipend
+9A75B6E9:Stipend
+
+Missing Exports - Possessed items that were not found:

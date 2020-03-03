@@ -1,0 +1,96 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\RunningFromNorthernTipToSouthernTipOfDereth\RunningFromNorthernTipToSouthernTipOfDereth\pkt_2017-1-30_1485835276_log.pcap
+
+Partial Exports - Missing appraisal info:
+D9DDA439:Baggy Shirt
+D9E91DEA:Loose Breeches
+D9E28E6A:Shoes
+D9DDAA57:Sack
+D9DDA481:Pathwarden Token
+D9E50BB8:Prismatic Taper
+D9E134A2:Ust
+D9E29817:Blackmoor's Favor
+D9E331F2:Salvaged  (100)
+D9E13E3C:Shou-jen Shozoku Jacket
+D9DDA839:Celdon Sleeves
+D9E4BDD6:Amuli Leggings
+D9DD8770:Yoroi Breastplate
+D9E1393A:Kasa
+D9DD87AC:Calling Stone
+D9DDA58B:Crown
+D9E577C8:Sollerets
+D9E4B863:Some Changes for February 2012
+D9DD6F87:Foci of Enchantment
+D9DD8663:Foci of Artifice
+D9E13C4E:Academy Cestus
+D8100290:Salvaged Reedshark Hide (100)
+D9DFD13A:Salvaged Reedshark Hide (100)
+D9E57A90:Salvaged Reedshark Hide (100)
+D8A83456:Salvaged Reedshark Hide (100)
+D9D8AE6D:Salvaged  (100)
+D9E2D34D:Salvaged  (100)
+D9DDA7BB:Salvaged  (100)
+D9E57BAF:Salvaged  (100)
+D9E96806:Salvaged  (100)
+D9E4BD02:Salvaged  (100)
+D887C960:Salvaged  (100)
+D9D563CB:Salvaged  (100)
+D9E130EC:Salvaged  (100)
+D20CC27C:Salvaged  (100)
+D9E34AAC:Salvaged  (100)
+D9E1373E:Salvaged  (100)
+D9E13A9D:Salvaged  (100)
+D9E33BA0:Salvaged  (100)
+D9DDA5F3:Salvaged  (100)
+D9E14643:Salvaged  (100)
+D9E13312:Salvaged  (100)
+D9E133D9:Salvaged  (100)
+D9DD878D:Salvaged  (100)
+D8ABAEFA:Salvaged  (100)
+D9E1504E:Salvaged  (100)
+D9E32DEF:Salvaged  (100)
+D9E13AA4:Salvaged  (100)
+D9DECFDF:Salvaged  (100)
+D9DD8660:Salvaged  (100)
+D9E13406:Salvaged  (100)
+D9E956D1:Salvaged  (100)
+D9DD866F:Salvaged  (100)
+D9E4B5F4:Salvaged  (100)
+D9E09F52:Salvaged  (100)
+D9E4ADDF:Salvaged  (100)
+D9DDA3E5:Salvaged  (100)
+D9E4B9B0:Salvaged  (100)
+D9E15031:Salvaged  (100)
+D9DD8EA2:Salvaged  (100)
+D9E35089:Salvaged  (100)
+D9E4B9CD:Salvaged  (100)
+D9DDB928:Salvaged  (100)
+D9E4B5C5:Salvaged  (100)
+D9E4B958:Salvaged  (100)
+D9E4B754:Salvaged  (100)
+D9DDA838:Salvaged  (100)
+D9E1501A:Salvaged  (100)
+D8BCBEDD:Salvaged  (100)
+D9E4B947:Salvaged  (100)
+D9715093:Salvaged  (100)
+D9DD869C:Salvaged  (100)
+D9DFE5E8:Salvaged  (100)
+D9E4B66F:Salvaged  (100)
+D9DDABE6:Salvaged  (100)
+D9DDA7AB:Salvaged  (100)
+D9DD865C:Salvaged  (100)
+D9DDABB1:Salvaged  (100)
+D9DDA594:Salvaged  (100)
+D8A00DA3:Salvaged  (100)
+D88A3593:Salvaged  (100)
+D9DDAAE8:Salvaged  (100)
+D9E4BAD3:Salvaged  (100)
+D9E32BF3:Salvaged  (100)
+D9E132FC:Salvaged  (100)
+D9E13ADA:Salvaged  (100)
+D9E27A56:Salvaged  (100)
+D9DDA936:Salvaged  (100)
+D9E13053:Salvaged  (100)
+D9E13D55:Trade Note (250,000)
+
+Missing Exports - Possessed items that were not found:

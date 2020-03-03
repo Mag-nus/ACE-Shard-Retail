@@ -1,0 +1,74 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (3351228913, 83, 2, 6477121) /* Clothing */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (3351228913,   1,          2) /* ItemType - Armor */
+     , (3351228913,   4,        768) /* ClothingPriority - OuterwearUpperLegs, OuterwearLowerLegs */
+     , (3351228913,   5,        851) /* EncumbranceVal */
+     , (3351228913,   9,      24576) /* ValidLocations - UpperLegArmor, LowerLegArmor */
+     , (3351228913,  10,      24576) /* CurrentWieldedLocation - UpperLegArmor, LowerLegArmor */
+     , (3351228913,  16,          1) /* ItemUseable - No */
+     , (3351228913,  19,      15400) /* Value */
+     , (3351228913,  28,        647) /* ArmorLevel */
+     , (3351228913,  65,        101) /* Placement - Resting */
+     , (3351228913,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (3351228913, 105,          4) /* ItemWorkmanship */
+     , (3351228913, 131,         58) /* MaterialType - Bronze */
+     , (3351228913, 171,         10) /* NumTimesTinkered */
+     , (3351228913, 172,          3) /* AppraisalLongDescDecoration */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (3351228913,   1, False) /* Stuck */
+     , (3351228913,  11, True ) /* IgnoreCollisions */
+     , (3351228913,  13, True ) /* Ethereal */
+     , (3351228913,  14, True ) /* GravityStatus */
+     , (3351228913,  19, True ) /* Attackable */
+     , (3351228913,  22, True ) /* Inscribable */
+     , (3351228913, 100, True ) /* Dyable */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (3351228913,  13,       3) /* ArmorModVsSlash */
+     , (3351228913,  14, 3.29999995231628) /* ArmorModVsPierce */
+     , (3351228913,  15,       3) /* ArmorModVsBludgeon */
+     , (3351228913,  16, 0.400000005960464) /* ArmorModVsCold */
+     , (3351228913,  17, 0.400000005960464) /* ArmorModVsFire */
+     , (3351228913,  18, 2.59999990463257) /* ArmorModVsAcid */
+     , (3351228913,  19, 0.400000005960464) /* ArmorModVsElectric */
+     , (3351228913, 165,       1) /* ArmorModVsNether */
+     , (3351228913, 8004,       4) /* PCAPRecordedWorkmanship */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (3351228913,   1, 'Scalemail Leggings') /* Name */
+     , (3351228913,  16, 'Scalemail Leggings') /* LongDesc */
+     , (3351228913,  39, 'Ninja Shadow') /* TinkerName */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (3351228913,   1,   33554856) /* Setup */
+     , (3351228913,   3,  536870932) /* SoundTable */
+     , (3351228913,   6,   67108990) /* PaletteBase */
+     , (3351228913,   8,  100668169) /* Icon */
+     , (3351228913,  22,  872415275) /* PhysicsEffectTable */
+     , (3351228913, 8001, 2166849560) /* PCAPRecordedWeenieHeader - Value, Usable, Wielder, ValidLocations, CurrentlyWieldedLocation, Priority, Burden, Workmanship, MaterialType */
+     , (3351228913, 8003,         18) /* PCAPRecordedObjectDesc - Inscribable, Attackable */
+     , (3351228913, 8005,     137217) /* PCAPRecordedPhysicsDesc - CSetup, STable, PeTable, AnimationFrame */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (3351228913,   3, 1343357430) /* Wielder */
+     , (3351228913, 8000, 3351228913) /* PCAPRecordedObjectIID */;
+
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
+VALUES (3351228913, 67113249, 136, 16);
+
+INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
+VALUES (3351228913, 0, 83887064, 83886807, 0)
+     , (3351228913, 0, 83887066, 83887056, 1);
+
+INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, `order`)
+VALUES (3351228913, 0, 16778829, 0);
+
+INSERT INTO `biota_properties_enchantment_registry` (`object_Id`, `enchantment_Category`, `spell_Id`, `layer_Id`, `has_Spell_Set_Id`, `spell_Category`, `power_Level`, `start_Time`, `duration`, `caster_Object_Id`, `degrade_Modifier`, `degrade_Limit`, `last_Time_Degraded`, `stat_Mod_Type`, `stat_Mod_Key`, `stat_Mod_Value`, `spell_Set_Id`)
+VALUES (3351228913, 0, 4412, 0, False, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)
+     , (3351228913, 0, 4393, 0, False, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)
+     , (3351228913, 0, 4391, 0, False, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)
+     , (3351228913, 0, 4407, 0, False, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)
+     , (3351228913, 0, 4397, 0, False, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);

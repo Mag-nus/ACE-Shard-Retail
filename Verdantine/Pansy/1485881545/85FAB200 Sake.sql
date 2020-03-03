@@ -1,0 +1,38 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (2247799296, 2468, 18, 2146624) /* Food */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (2247799296,   1,         32) /* ItemType - Food */
+     , (2247799296,   5,        150) /* EncumbranceVal */
+     , (2247799296,  11,        100) /* MaxStackSize */
+     , (2247799296,  12,          3) /* StackSize */
+     , (2247799296,  16,          8) /* ItemUseable - Contained */
+     , (2247799296,  19,         45) /* Value */
+     , (2247799296,  65,        101) /* Placement - Resting */
+     , (2247799296,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (2247799296, 9015,         87) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (2247799296,   1, False) /* Stuck */
+     , (2247799296,  11, True ) /* IgnoreCollisions */
+     , (2247799296,  13, True ) /* Ethereal */
+     , (2247799296,  14, True ) /* GravityStatus */
+     , (2247799296,  19, True ) /* Attackable */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (2247799296,   1, 'Sake') /* Name */
+     , (2247799296,  20, 'Cups of Sake') /* PluralName */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (2247799296,   1,   33554662) /* Setup */
+     , (2247799296,   3,  536870932) /* SoundTable */
+     , (2247799296,   8,  100667428) /* Icon */
+     , (2247799296,  22,  872415275) /* PhysicsEffectTable */
+     , (2247799296, 8001,    2125849) /* PCAPRecordedWeenieHeader - PluralName, Value, Usable, StackSize, MaxStackSize, Container, Burden */
+     , (2247799296, 8003,      32784) /* PCAPRecordedObjectDesc - Attackable, Food */
+     , (2247799296, 8005,     137217) /* PCAPRecordedPhysicsDesc - CSetup, STable, PeTable, AnimationFrame */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (2247799296,   1, 1342412896) /* Owner */
+     , (2247799296,   2, 1342412896) /* Container */
+     , (2247799296, 8000, 2247799296) /* PCAPRecordedObjectIID */;

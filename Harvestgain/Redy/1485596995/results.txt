@@ -1,0 +1,65 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-28_1485588633_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps-20170203071513\pkt_2017-1-25_1485363128_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps-20170203071513\pkt_2017-1-26_1485458004_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485764473_log.pcap
+
+Partial Exports - Missing appraisal info:
+801AB3BE:Cull the Drudges
+801AB3DF:Lead Scarab
+801AB3DE:Iron Scarab
+801AB3DD:Silver Scarab
+801AB3DC:Gold Scarab
+801AB3DB:Pyreal Scarab
+801AB3DA:Copper Scarab
+801AB3D9:Diamond Scarab
+801AB3D6:Aphus Lassel Portal Gem
+801AB3D5:Gem of Purity
+801AB3D4:Gem of Stillness
+801AB3D3:Facility Hub Portal Gem
+B16A590A:Pyreal
+801AB3D2:Fort Tethana Portal Gem
+801AB3D1:Shoyanen's Portal Gem
+801AB3D0:Platinum Scarab
+801AB3CF:Prismatic Taper
+801AB3CE:Mana Scarab
+801AB3CA:Dansha-Ki's Gem of Portal Recall
+8FFB0998:Prismatic Taper
+801AB3C9:Foci of Artifice
+801AB3C8:Foci of Verdancy
+85C401CC:A'nekshay Token
+801AB3C0:Colosseum Coin
+801AB3C3:Ancient Mhoire Coin
+801AB3C4:Ornate Gear Marker
+801AB3C6:Ust
+801AB3C5:Small Olthoi Venom Sac
+801AB3CC:Splitting Tool
+801AB3D8:Blackmoor's Favor
+801AB3D7:Asheron's Benediction
+8016B490:Flaming Takuba
+801AB3A9:Butter Knife of Slaying
+8C923ECD:Flaming Takuba
+801AB3A8:Butter Knife of Slaying
+801AB3A3:Crown
+801AB39D:Teardrop Crown
+801AB39A:Diadem
+801AB398:Diadem
+85D9234C:Signet Crown
+801A95EB:Crown
+801A95E3:Heavy Necklace
+801A95E6:Teardrop Crown
+801A95E1:Signet Crown
+801A95DA:Signet Crown
+801AB394:Foci of Enchantment
+801AB37D:Warrior's Crystal
+801AB3C2:Hyssop
+8C5CB75A:Magus's Pearl
+A18D6FCA:Hunter's Crystal
+B1249405:Adherent's Crystal
+8FFD8428:T'ing's Crystal
+B5F68B1B:Archer's Jewel
+B70B3720:Shield of Yanshi
+
+Missing Exports - Possessed items that were not found:

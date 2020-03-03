@@ -1,0 +1,42 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (2447274168, 259, 18, 2146624) /* Food */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (2447274168,   1,         32) /* ItemType - Food */
+     , (2447274168,   5,         35) /* EncumbranceVal */
+     , (2447274168,  11,        100) /* MaxStackSize */
+     , (2447274168,  12,          1) /* StackSize */
+     , (2447274168,  16,          8) /* ItemUseable - Contained */
+     , (2447274168,  19,          5) /* Value */
+     , (2447274168,  65,        101) /* Placement - Resting */
+     , (2447274168,  89,          4) /* BoosterEnum - Stamina */
+     , (2447274168,  90,          6) /* BoostValue */
+     , (2447274168,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (2447274168, 9015,          1) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (2447274168,   1, False) /* Stuck */
+     , (2447274168,  11, True ) /* IgnoreCollisions */
+     , (2447274168,  13, True ) /* Ethereal */
+     , (2447274168,  14, True ) /* GravityStatus */
+     , (2447274168,  19, True ) /* Attackable */
+     , (2447274168,  69, False) /* IsSellable */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (2447274168,   1, 'Bread') /* Name */
+     , (2447274168,  14, 'Use this item to eat it.') /* Use */
+     , (2447274168,  20, 'Loaves of Bread') /* PluralName */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (2447274168,   1,   33554806) /* Setup */
+     , (2447274168,   3,  536870932) /* SoundTable */
+     , (2447274168,   8,  100667455) /* Icon */
+     , (2447274168,  22,  872415275) /* PhysicsEffectTable */
+     , (2447274168, 8001,    2125849) /* PCAPRecordedWeenieHeader - PluralName, Value, Usable, StackSize, MaxStackSize, Container, Burden */
+     , (2447274168, 8003,      32784) /* PCAPRecordedObjectDesc - Attackable, Food */
+     , (2447274168, 8005,     137217) /* PCAPRecordedPhysicsDesc - CSetup, STable, PeTable, AnimationFrame */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (2447274168,   1, 1342436814) /* Owner */
+     , (2447274168,   2, 1342436814) /* Container */
+     , (2447274168, 8000, 2447274168) /* PCAPRecordedObjectIID */;

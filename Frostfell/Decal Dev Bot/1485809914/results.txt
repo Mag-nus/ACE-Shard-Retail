@@ -1,0 +1,31 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-30_1485809905_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-25_1485387687_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-25_1485392355_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-25_1485395333_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-29_1485721638_log.pcap
+
+Partial Exports - Missing appraisal info:
+DBCDA963:Pyreal
+DBCDA961:Sack
+DBCDA985:Ust
+DBD1DC51:Calling Stone
+DBD1DC77:Pathwarden Token
+DBD1DC83:Training Cestus
+DBD1DC78:Training Wand
+DBCDA953:Foci of Strife
+DBD1DC8A:Foci of Verdancy
+DBD1DC86:Foci of Enchantment
+DBD1DC76:Prismatic Taper
+DBD1DC91:Lead Scarab
+DBD1DC88:Letter From Home
+DBD1DC70:Apple
+DBD1DC89:Blackmoor's Favor
+DBD1DC93:Oil of Rendering
+DBD3042A:Some Changes for February 2012
+DBD1DC97:Academy Coat
+DBD30429:Teleportation Device
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,70 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\trello_datamining\1_SeaTempleCatacombs.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\trello_datamining\1_MysteriousTunnelsPartTwo.pcap
+
+Partial Exports - Missing appraisal info:
+91DE6F5C:Shirt
+91DE6F5D:Wide Breeches
+91DE6F5F:Pyreal
+91E57B8A:Perfect Cove Apple
+91DE6F61:Ust
+91DE6F62:Calling Stone
+91DE6F66:Prismatic Taper
+91DE6F67:Lead Scarab
+91DE6F68:Bread
+91EA5571:Blackmoor's Favor
+91EA4FD8:Oil of Rendering
+91EA4FD6:Facility Hub Portal Gem
+91D8E4E6:Great Mana Charge
+91D8E4CD:Pathwarden Trinket
+91EA66B2:Miyako's Moonstone
+91EA3965:Foci of Artifice
+91EA3678:Copper Scarab
+91EA3783:Lead Scarab
+91EA5AA3:Prismatic Taper
+91EC7E50:A Lump of Coal
+91EC7E4E:Poofy Snowball
+91EC7E4F:Magic Iceball
+91EA2BB5:Lead Pea
+91EA30DB:Pack
+91E57A0D:Staff
+91E57ABB:Staff
+91E015B0:Leather Cap
+91E57B20:Lightning Elemental Essence (50)
+91EBE9D8:Pyreal
+91E57B28:Chainmail Greaves
+91E57B66:Studded Leather Bracers
+91EAC546:Pyreal
+91E57B40:Chainmail Sleeves
+91E57B58:Chainmail Leggings
+91EAE1AA:Iron Key
+91E015AE:Studded Leather Coat
+91E57C0A:Chainmail Tassets
+91E57541:Top
+91E5791C:Ring
+91E57922:Heavy Bracelet
+91E5792B:Necklace
+91E579EB:Compass
+8395F63A:Bracelet
+91E57A23:Bracelet
+91EBBBE3:Blood Shreth Butcher Plaque
+91EBE65E:Potion of Healing
+91E57935:Leather Gauntlets
+91EB2DED:Pyreal
+91EBDE36:Trade Note (50,000)
+91EBDF6C:Trade Note (10,000)
+91EA3679:Academy Wand
+91EA9F92:Beltslora's recommendation letter
+91EAC441:Trade Note (50,000)
+91EAC3CE:Trade Note (10,000)
+91EC4F61:Pyreal
+91EC4EDC:Pyreal
+91EC4C88:Trade Note (50,000)
+91EC4C83:Trade Note (10,000)
+91EBB19C:Pyreal
+91EBB134:Potion of Healing
+91E57041:Wand
+
+Missing Exports - Possessed items that were not found:

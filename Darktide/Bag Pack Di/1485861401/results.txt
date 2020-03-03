@@ -1,0 +1,75 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-31_1485860015_log.pcap
+
+Partial Exports - Missing appraisal info:
+9C5318D0:Pack
+AD5EFD8A:Pack
+BEF84F2F:Electric Staff
+B175F0DF:Staff
+9BA2DE59:Nether Sceptre
+AE436F7C:Electric Sceptre
+BEF2F050:Wand
+AA0B3F8F:Acid Baton
+B084C5D7:Blunt Staff
+AD362A02:Acid Sceptre
+B86F156C:Acid Staff
+CAF01A52:Nether Baton
+C61A1502:Orb
+BE4AB46D:Frost Baton
+C4D77F6B:Orb
+AD644D77:Nether Staff
+AF59C55D:Acid Staff
+BC24B52C:Acid Sceptre
+BC60B017:Slashing Compound Crossbow
+BF92B77A:Blunt Slingshot
+B07FD784:Nether Baton
+C00E80A5:Frost Claw
+C01655B4:War Axe
+C0164809:Acid Knuckles
+C011AAF2:Frost Nekode
+BFFEBAD7:Knife
+AD617462:Pack
+BF1D2B50:Simi
+BDE67761:Lightning Katar
+C00C731F:Acid Quadrelle
+C07D0A35:Acid Broad Sword
+BDEABA61:Flaming Bastone
+C04E6348:Frost Quarter Staff
+C0754257:Acid Flamberge
+C086E7F5:Club
+C08710D2:Frost Club
+C0882C2E:Scimitar
+C0720A80:Board with Nail
+C010008B:Lightning Nodachi
+C011AB6B:Lightning Nodachi
+C06E80D6:Kasrullah
+C0129922:Flaming Dericost Blade
+C0310C68:Frost Schlager
+C06B4B7E:Flaming Scimitar
+CB86D02C:Chalice
+AF6C4451:Flaming Cestus
+80295DA8:Acid Cestus
+AF9692B9:Claw
+C6B1935C:Flaming Nabut
+C6D17D9B:Flaming Dabus
+BCD516BA:Nabut
+C622765F:Lightning Shashqa
+9C54D732:Pack
+C66AFB50:Frost Lancet
+C6796680:Quarter Staff
+B97DDC1F:Frost Dirk
+B8136F97:Tetsubo
+A75BEE18:Frost Nodachi
+BA6D07BE:Pack
+C8FE813F:Olthoi Shield
+C6D1E64E:Wand
+C6D0C320:Nether Staff
+C601CBB6:Frost Sceptre
+C07E836B:Flaming Stiletto
+C0615E8E:Claw
+C601DA88:Nether Sceptre
+BECEED2F:Piercing Staff
+9B3F0B71:Blunt Staff
+C9B0D21C:Blunt Sceptre
+
+Missing Exports - Possessed items that were not found:

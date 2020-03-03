@@ -1,0 +1,109 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-23_1485218870_log\pkt_2017-1-23_1485218870_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-21_1484985821_log\pkt_2017-1-21_1484985821_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-23_1485218870_log\pkt_2017-1-23_1485218870_log.pcap
+
+Partial Exports - Missing appraisal info:
+C0C0207B:Pack
+C0C0207C:Gold Scarab
+C0C0207D:Lead Scarab
+C0C0207E:Silver Scarab
+C0C0207F:Copper Scarab
+C0C02080:Iron Scarab
+C0C02081:Diamond Scarab
+C0C02082:Chorizite
+C0C02084:Mana Philtre
+C0C02086:Mortar and Pestle
+C0C02087:Ust
+C0C02089:Pyreal Scarab
+C0C0208A:Gem of Purity
+C0C0208C:Pack T'thuun
+C0C0208D:Polar Ursuin Lair
+C0C0208E:Health Philtre
+C0C02090:Plentiful Healing Kit
+C0C02092:Platinum Scarab
+C78719AF:Chocolate Gromnie
+C78DDDB3:Greater Stamina Kit
+C74CDD5D:Renegade Herbal Kit
+C74E669E:Renegade Herbal Kit
+C0C02093:Pack
+C0C02094:Trade Note (75,000)
+C0C02096:Trade Note (50,000)
+C0C0209A:Vissidal Island Portal Gem
+C0C020A0:Sanamar Portal Gem
+C7AA7EB0:Pyreal
+C0C020C9:Pyreal Pea
+C0C020CA:Shoyanen's Portal Gem
+C0C02107:Puzzle Box
+C0C020A6:Trade Note (250,000)
+C71536D6:Chevron Cloak
+B6876DCD:Aetheria Mana Stone
+C78C2EF1:Imbue Swap Coin
+C0C02083:Aphus Lassel Portal Gem
+C0BFDF7E:Sanamar Portal Gem
+C0C020A9:Pack
+C0C020DE:Pack
+C0C020AA:Wrapped Bundle of Deadly Frog Crotch Arrowheads
+C0C020AB:Wrapped Bundle of Deadly Armor Piercing Arrowheads
+C0C020AC:Wrapped Bundle of Raider Lightning Arrowheads
+C0C020AD:Wrapped Bundle of Olthoi Acid Arrowheads
+C0C020AE:Electric Bow
+C0C020B1:Fire Bow
+C0C020B2:Blunt Bow
+C0C020B3:Fire Compound Bow
+C0C020B5:Piercing Compound Bow
+C7BC803C:Pyreal
+C0C020B7:Blunt Bow
+C0C020B8:Wrapped Bundle of Deadly Blunt Arrowheads
+C7BC803B:Pyreal
+C0C020B9:Raider Lightning Arrow
+C0C020BB:Fire Bow
+C0C020BC:Piercing Bow
+C0C020BD:Deadly Armor Piercing Arrow
+C0C02119:Olthoi Acid Arrow
+C0C020B6:Fire Compound Bow
+C5EA23D3:Deadly Frog Crotch Arrow
+C7BC803A:Pyreal
+C0C02128:Slashing Compound Bow
+C0C020EA:Baron's Amulet of Life Giving
+C0C020EB:Daulan Faur
+C0C020EC:Ring of Intellect
+C0C020ED:Ring of Intellect
+C0C020EE:Bracelet of Knowledge
+C0C020EF:Bloodletter Charm Necklace
+C0C020F0:Circlet of Supremacy
+C0C020F1:Bracelet of Dark Essence
+C74D6510:Hyssop
+C0C02129:Some Changes for February 2012
+C0C020B4:Claw
+C758DECF:Pack
+C7BC8039:Pyreal
+C7E2A58B:Pyreal
+C7E2A589:Pyreal
+C7E2A588:Pyreal
+C7E2A58C:Pyreal
+C0C02110:Major Mana Stone
+C755FC9E:Major Mana Stone
+C6198DB6:Aetheria Powder
+C759ADF5:Major Mana Stone
+C7378D93:Major Mana Stone
+C74680B2:Major Mana Stone
+C796836C:Major Mana Stone
+C7968371:Major Mana Stone
+C798D0C4:Salvage (59)
+C7ABBD72:Blunt Staff
+C7B7DA1C:Major Mana Stone
+C7C367A6:Salvage (29)
+C0C020BF:Pack
+C7DCDD15:Signet Crown
+C7D924CC:Staff
+C7D37A0F:Salvage (75)
+C7DCE6D0:Salvage (44)
+C7C24999:Salvage (70)
+C7DE290A:Salvage (58)
+C7C2CAD3:Heavy Necklace
+C7E2B5E2:Salvage (11)
+
+Missing Exports - Possessed items that were not found:

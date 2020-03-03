@@ -1,0 +1,114 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-31-2017-pkt_2017-1-31_1485847270_log\pkt_2017-1-31_1485847270_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-31-2017-pkt_2017-1-31_1485847270_log\pkt_2017-1-31_1485847270_log.pcap
+
+Partial Exports - Missing appraisal info:
+C7BFB604:Pathwarden Trinket
+C7BFB64A:Pyreal
+C7BFB602:Foci of Verdancy
+C7BFB603:Foci of Shadow
+C7BFB605:Pack
+C7BFB606:Lead Scarab
+C7BFB607:Facility Hub Portal Gem
+C7BFB608:Silver Scarab
+C7BFB609:Copper Scarab
+C7BFB60A:Iron Scarab
+C7BFB60B:Trade Note (250,000)
+C7BFB60C:Gold Scarab
+C7BFB60D:Stone of Rez'arel
+C7BFB60E:Untranslated Page #4
+C7BFB60F:Nanto Town Stamp
+C7BFB610:Samsur Town Stamp
+C7BFB611:Rithwic Town Stamp
+C7BFB612:Yanshi Town Stamp
+C7BFB613:Lytelthorpe Town Stamp
+C7BFB614:Al Arqas Town Stamp
+C7BFB615:Aphus Lassel Portal Gem
+C7BFB616:Prismatic Taper
+C7BFB617:Platinum Scarab
+C7BFB618:Celdiseth's Portal Gem
+C7BFB619:Pyreal Scarab
+C7BFB621:Pack
+C7BFB61A:Chocolate Gromnie
+C7BFB61B:Enhanced Mana Elixir
+C7BFB626:Ust
+C7BFB61D:Chevron Cloak
+C7BFB61E:Foci of Enchantment
+C7BFB627:Sunstone Gauntlets
+C7BFB61F:Foci of Artifice
+C7BFB620:Trousers
+C7BFB62B:Brewmaster's Front Cover
+C7BFB622:Asheron's Benediction
+C7BFB623:Blackmoor's Favor
+C7BFB629:Pack
+C7BFB624:Gem of Stillness
+C7BFB625:Gem of Purity
+C7BFB641:Moderate Mana Stone
+C7BFB628:Enhanced Health Elixir
+C7BFB62A:Rare Crystalline Shard
+C7BFB64B:Pyreal
+C7BFB62C:Coalesced Aetheria
+C7BFB62D:Seasoned Explorer Tassets
+C7BFB635:Blacksmithing Chest Key
+C7BFB62E:Seasoned Explorer Girth
+C7BFB62F:Seasoned Explorer Greaves
+C7BFB637:A Tale of Paths
+C7BFB630:Seasoned Explorer Breastplate
+C7BFB631:Seasoned Explorer Pauldrons
+C7BFB642:Moderate Mana Stone
+C7BFB632:Seasoned Explorer Vambraces
+C7BFB633:Seasoned Explorer Boots
+C7BFB64C:Pyreal
+C7BFB634:Seasoned Explorer Helm
+C7BFB636:Leatherworking Chest Key
+C7BFB638:Saulandoi
+C7BFB639:Crystalline Shard
+C7BFB63A:Scarlet Red Letter
+C7BFB63B:Lucky Gold Letter
+C7BFB63C:Dark Sliver
+C7BFB63D:Minalim Plant
+C7BFB63E:Baggy Tunic
+C7BFB63F:Baron's Amulet of Life Giving
+C7BFB640:Turban
+C7BFB643:Moderate Mana Stone
+C7BFB644:Steel Toed Boots
+C7BFB645:Moderate Mana Stone
+C7BFB646:Major Mana Stone
+C7BFB648:Lustrous Winged Leggings
+C7BFB649:Blighted Mana Crystal
+C7BFB64D:Pyreal
+C7BFB64E:Pyreal
+C7BFB64F:Pyreal
+C7BFB650:Pyreal
+C7BFB651:Scroll of Raven Fury
+C7BFB652:A'nekshay Token
+C7BFB653:Pyreal
+C7BFB654:Pyreal
+C7BFB655:Pyreal
+C7BFB656:Pyreal
+C7BFB657:Pyreal
+C7BFB658:Pyreal
+C7BFB659:Pyreal
+C7BFB65A:Pyreal
+C7BFB65B:Pyreal
+C7BFB65C:Pyreal
+C7BFB65D:Pyreal
+C7BFB65E:Pyreal
+C7BFB65F:Pyreal
+C7BFB660:Pyreal
+C7BFB661:Pyreal
+C7BFB662:Seasoned Explorer Gauntlets
+C7BFB663:Stipend
+C7BFB664:Resister's Crystal
+C7BFB665:Empyrean Sun Stone
+C7BFB666:Focusing Stone
+C7BFB667:Faran Robe with Hood
+C7BFB61C:Seasoned Explorer Nether Staff
+C861ACCB:Box Of Ten Promissory Notes
+C8657159:Box Of Ten Promissory Notes
+C864694E:Box Of Ten Promissory Notes
+C8657165:Box Of Ten Promissory Notes
+
+Missing Exports - Possessed items that were not found:

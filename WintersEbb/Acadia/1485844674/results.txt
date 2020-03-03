@@ -1,0 +1,209 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-31_1485843061_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-30_1485801914_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-30_1485801914_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-31_1485840494_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-31_1485840494_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-31_1485840494_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-31_1485843061_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-31_1485843061_log.pcap
+
+Partial Exports - Missing appraisal info:
+97815C91:Foci of Enchantment
+97815C92:Foci of Artifice
+97815C93:Sack
+97815C94:Diamond Scarab
+97815C95:Pwyll's Crown
+97815C96:King's Helm
+97815C99:Covenant Sollerets
+97815CE5:Wreath
+97815C9C:Chorizite Fletching Tool
+97815C9D:Studded Leather Tassets
+97815CA0:Glowing Wisp Heart
+97815CA1:Small Pine Tree
+97815CA2:Sclavus Head
+97815CA3:Flaming Dirk
+97815CA4:Minor Sparking Stone
+97815CA5:Olthoi Stamp
+97815CA6:Leerargh's Necklace
+97815CA7:Silken Wrap
+97815CA8:Scalemail Coif
+A5A23C46:Adventurer's warning
+97815CA9:Nariyid Gauntlets
+97815CAC:Pack
+97815CAD:Faran Robe with Hood
+97815CC4:Kreerg's Spear
+97815CAE:Faran Robe with Hood
+97815CAF:Faran Robe with Hood
+97815D48:Rock
+97815CB0:Faran Robe with Hood
+97815CB1:Faran Robe with Hood
+97815CB2:Faran Robe with Hood
+97815CB3:Faran Robe with Hood
+97815CB4:Faran Robe with Hood
+97815CB5:Faran Robe with Hood
+97815CB6:Faran Robe with Hood
+97815CB7:Robe of the Tundra
+97815CFE:Dereth Map
+97815CBA:Crown
+97815CBD:Ring
+97815CC3:A Huge Lump of Coal
+A5B5339D:Silk
+805787C4:Black Coral Keyring
+805787BD:Directive Keyring
+80578799:Marble Keyring
+80578819:Granite Keyring
+97BFDB6C:Agent of Arcanum List
+97815CC5:Noodle Cutter
+97815CC6:Mortar and Pestle
+97815CC7:Carving Knife
+97815CC8:Eye Dropper
+97815CC9:Alembic
+97815CCA:Flaming Nabut
+97815CCB:Acid Jo
+97815CCC:Heavy Grinder
+97815CCE:Soul Staff
+97815CCD:Concentrated Lightning Oil
+97815CCF:The Healer's Heart
+97815CD0:Shirt
+97815CD1:Staff of Nullification
+97815CDA:Casting Stein
+97815CD2:Platemail Gauntlets
+97815CD3:Sollerets
+97815CE0:Utelari's Collar
+97815CD4:Greater Celdon Shadow Leggings
+97815CD5:Incalescent Bracelet
+97815CE1:Shadow's Garb
+97815CD6:Scalemail Leggings
+97815CD7:Concentrated Mana Oil
+97815CD8:Concentrated Bloodhunter Oil
+97815CD9:Concentrated Victual Oil
+97815CDC:Concentrated Acid Oil
+97815CDD:Concentrated Frost Oil
+97815CDE:Wrapped Bundle of Blunt Arrowheads
+97815CE6:Ust
+97815CE2:Sacrificial Dagger
+97815CE3:Swamp Gromnie Tooth
+97815CE4:Northern Quiddity Fragment
+97815CE7:Ahruenga Portal Gem
+97815CE9:Inviso Mask
+97815CEA:Basalt Blade
+97815CEB:Qafiya
+97815CEC:Gharu'ndim Wand
+97815CEE:Beer Stein
+97815CEF:Helm of the Elements
+97815CF1:Sclavus Skin Helmet
+97815CF2:Lightning Nabut
+97815CF3:Skull Mask
+97815CF4:Bottle of Champagne
+97815CF6:Concentrated Bloodseeker Oil
+97815CF7:Ring
+97815CF8:Bracelet
+97815CF9:Elysa's Favor
+97815CFF:Pack
+97815D04:Ogre Mask
+97815D05:Arcane Pedestal
+97815D06:Large Round Shield
+97815D07:Amuli Leggings
+97815D0A:Ancient Armored Vestment
+97815D0B:Celdon Sleeves
+97815D0D:Gelidite Robe
+97815D13:Missing Mechanisms
+97815D0F:Reshalra's Collar
+97815D10:The Eye of Drageerg
+97815D14:Letter of Request 
+97815D15:Mote and Crystals needed for the Golem Construction
+97815D16:Textbook
+97815D17:Textbook
+A5B474D6:Ravener Guts
+97AF3DA8:Sturdy Iron Keyring
+97815D19:Chainmail Breastplate
+97815D1A:Yoroi Leggings
+97815D1B:Yoroi Leggings
+97815D1D:Light Crossbow
+97815D1C:Platemail Cuirass
+97815D1E:Pepper Jack Cheese
+97815D22:Black Rock
+97815D1F:Small Olthoi Grub
+97815D20:Heavy Crossbow
+97815D21:Heavy Crossbow
+97815D24:Flaming Bandit Khanjar
+97815D25:Hea Totem
+97815D26:Zharalim Foreman's Journal
+97815D27:Seared Shard
+97815D2B:Martine's Robe
+97815D2C:Martine's Mask
+97815D32:Vial of Berimphur Dye
+97815D33:Vial of Verdalim Dye
+97815D34:Vial of Hennacin Dye
+97815D44:Chilled Shard
+97815D35:Vial of Minalim Dye
+97815D36:Vial of Argenory Dye
+97815D4A:Shagraka
+97815D37:Vial of Relanim Dye
+97815D38:Vial of Lapyan Dye
+97815D3C:Note Scrawled in Blood
+97815D39:Vial of Colban Dye
+97815D3A:Vial of Thananim Dye
+97815D3B:Intricate Obsidian Key
+97815D3D:Soft Bandages
+97815D3E:Treated Hyssop
+97815D3F:Treated Mandrake
+97815D43:Sahkurea's Collar
+97815D41:Sceptre
+97815D42:Sollerets
+97815D47:Exquisite Elari Wood Bow
+97815D46:Flaming War Axe
+97815D4B:Periapt of Endless Sight
+97815D4C:Breeches
+97815D4D:Platinum Scarab
+97815D4E:Platinum Scarab
+97815D51:Pickled Olthoi Egg
+97815D53:Lightning Ono
+97815D54:Blunt Bow
+97815D55:Acid Bow
+97815D57:Correspondence
+97815D59:Piercing Bow
+97815D5A:Skeletal Body
+97815D5B:Letter to Ro Bi-Jor
+97815D5E:Blackmoor's Favor
+97815D5F:Foolproof
+97815D60:Foolproof
+97815D72:Snowflower
+97815D61:Foolproof
+97815D62:Foolproof
+97815D63:Foolproof
+97815D64:Foolproof
+97815D76:Staff of the Fallen
+97815D65:Foolproof
+97815D66:Foolproof
+97815D67:Foolproof
+97815D68:Foolproof
+97815D78:Skewer
+97815D69:Foolproof
+97815D6A:Foolproof
+97815D7B:Some Changes for February 2012
+97815D6B:Foolproof
+97815D6C:Foolproof
+A5B4A919:Lugian Scout Report
+97815D6D:Foolproof
+97815D6E:Foolproof
+A5B13A15:Textbook
+97815D6F:Foolproof
+97815D70:Foolproof
+A5BEC8A8:A Folded Note
+97815D71:Foolproof
+97815D74:Concentrated Health Oil
+97815D75:Copy of Apostate Excavation Master's Orders
+97815D79:Crushed Verdalim Plant
+97815D7A:Crushed Minalim Plant
+97815D7C:Tinker's Crystal
+97815D7D:Thief's Crystal
+97815D7E:Zefir's Crystal
+97815D7F:Lightning Skeleton Minion Essence (50)
+8057882B:Acid K'nath Essence (50)
+97815D80:Focusing Stone
+
+Missing Exports - Possessed items that were not found:

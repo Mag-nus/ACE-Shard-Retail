@@ -1,0 +1,35 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-24_1485277188_log.pcap
+
+Partial Exports - Missing appraisal info:
+AE77643F:Loose Shirt
+AE77645C:Foci of Artifice
+AE77644A:Ust
+AE77643E:Sack
+AE776453:Ring
+AE77645B:Ring
+AE776449:Clean, Dry Towel
+AE77643D:A Large Mnemosyne
+AE776452:A Large Mnemosyne
+AE77645A:A Large Mnemosyne
+AE776451:Scroll of Nullify Item Magic
+AE776448:Pack
+AE776459:Lead Scarab
+AE776447:Prismatic Taper
+AE776450:Copper Scarab
+AE776458:Sack
+AE776446:Foci of Verdancy
+AE776464:Foci of Enchantment
+AE77644F:Skill Puzzle Base Piece
+AE776457:Mana Tincture
+AE776445:Chainmail Gauntlets
+AE776463:Koujia Sleeves
+AE77644E:Koujia Breastplate
+AE776456:Koujia Leggings
+AE776462:Steel Toed Boots
+AE77644D:Pack Levistras
+AE776455:Asheron's Benediction
+AE776461:Blackmoor's Favor
+AE776460:Some Changes for February 2012
+
+Missing Exports - Possessed items that were not found:

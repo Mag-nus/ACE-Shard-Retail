@@ -1,0 +1,110 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-18_1484776198_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-18_1484787207_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-26_1485478943_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-26_1485480280_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-27_1485561898_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-29_1485733024_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-30_1485817084_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-30_1485817520_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-30_1485817520_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-30_1485822831_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-30_1485829727_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-31_1485871628_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-31_1485871628_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-31_1485871628_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-31_1485879802_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-9_1483998935_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-9_1484005659_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-9_1484009192_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-14_1484435135_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-14_1484435180_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-14_1484443566_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-16_1484572578_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-16_1484604586_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-16_1484615451_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-16_1484615451_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-16_1484616248_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-16_1484616311_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-17_1484687397_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-17_1484689885_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-17_1484695780_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-17_1484702514_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-18_1484753790_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-13_1484344108_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-13_1484351142_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-14_1484396435_log.pcap
+
+Partial Exports - Missing appraisal info:
+A802D09C:Belt Pouch
+A687AD2D:Platinum Scarab
+A6772CA1:Silver Scarab
+A68A08F3:Copper Scarab
+A68917A7:Iron Scarab
+A6891153:Lead Scarab
+A825AD12:Pyreal Scarab
+A825AD13:Gold Scarab
+A852C511:Diamond Scarab
+A7D5E9DA:Turquoise Taper
+AC50E277:Town Network Portal Gem
+AD430994:Prismatic Taper
+A99A5604:Chorizite
+ACD507F9:Chorizite
+A68BFAD7:Celdiseth's Portal Gem
+ADA1ECE1:Aetheria Mana Stone
+ADAD4451:Mana Scarab
+AE21C36A:Pyreal Pea
+AE20ECC4:Silver Pea
+AE20ECC3:Gold Pea
+A68B8356:Ust
+A68A0D7E:Peerless Lockpick
+ACC5897E:Intricate Carving Tool
+A8230F4C:Pyreal
+A68B7FBC:Peerless Lockpick
+A68B7FBD:Peerless Lockpick
+A68A0AA5:Peerless Lockpick
+AE2A1F35:Pyreal
+AC069D38:Encapsulated Spirit
+AE297B0F:Pyreal
+AC43FBC0:Trade Note (250,000)
+A7FA172F:Pathwarden Trinket
+ADA5AE45:Massive Mana Charge
+ADC0D532:Massive Mana Charge
+ADB3BB84:Massive Mana Charge
+ADB287F2:Massive Mana Charge
+AD889B13:Massive Mana Charge
+ADB4E927:Imbue Swap Coin
+AE0A99FB:Asheron Mask
+AE202F9C:Massive Mana Charge
+AE1E004A:Massive Mana Charge
+ADE7B3B8:Massive Mana Charge
+ACEAEF7E:Promissory Note
+ADB08F7C:Lesser Corrupted Essence
+A79FCC2C:Chorizite Fletching Tool
+AE2A1FDC:Pyreal
+AE2C4637:Pyreal
+AE0505F2:Mana Forge Key
+AE04036E:Fortified Mana Forge Key
+AE2C4636:Pyreal
+AE2C4635:Pyreal
+AE3A7844:Torch
+ADBBA07C:Yarrow
+AE0749DC:Strengthened Mana Forge Key
+ADE80B59:Assault Orb
+AE0D3DFC:Strengthened Mana Forge Key
+AE12DD9C:Strengthened Mana Forge Key
+ADA2D969:Diamond Heart
+AE1D854F:Strengthened Mana Forge Key
+AE085492:Colban Plant
+AC156CE7:Sturdy Steel Keyring
+830862EB:Sturdy Steel Keyring
+AE2A3AFF:Strengthened Mana Forge Key
+AE3522EE:Strengthened Mana Forge Key
+ADB0EFE4:Lesser Corrupted Essence
+A6890E45:Kireth Gown with Band
+AE380935:Pyreal Nugget
+AE3B93F1:Sleek Dress
+
+Missing Exports - Possessed items that were not found:

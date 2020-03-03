@@ -1,0 +1,24 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-15_1484523691_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-15_1484523691_log.pcap
+
+Partial Exports - Missing appraisal info:
+C5FB4254:Pyreal
+C5FB424F:Foci of Enchantment
+C5FB4250:Greeter's Key
+C5FB4251:Quartermaster's Workshop Key
+C5FB4252:Pants
+C5FB4253:A Crumpled Note
+C5FB4255:Cooking Pot
+C5FB4256:Pyreal
+C5FB4257:Pyreal
+C5FB425B:Pyreal
+C5FB425C:Pyreal
+C5FB4260:Staff
+C5FB4261:Elaborate Field Rations
+C5FB4262:Some Changes for February 2012
+C5FB4263:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

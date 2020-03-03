@@ -1,0 +1,113 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\AC-Packet-Data-Jungle-Souljah-LC\pkt_2017-1-31_1485878917_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\AC-Packet-Data-Jungle-Souljah-LC\pkt_2017-1-20_1484918452_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\AC-Packet-Data-Jungle-Souljah-LC\pkt_2017-1-20_1484928774_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\AC-Packet-Data-Jungle-Souljah-LC\pkt_2017-1-21_1485029990_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\AC-Packet-Data-Jungle-Souljah-LC\pkt_2017-1-21_1485030071_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\AC-Packet-Data-Jungle-Souljah-LC\pkt_2017-1-25_1485392497_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\AC-Packet-Data-Jungle-Souljah-LC\pkt_2017-1-26_1485477513_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\AC-Packet-Data-Jungle-Souljah-LC\pkt_2017-1-27_1485520806_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\AC-Packet-Data-Jungle-Souljah-LC\pkt_2017-1-28_1485631635_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\AC-Packet-Data-Jungle-Souljah-LC\pkt_2017-1-28_1485631945_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\AC-Packet-Data-Jungle-Souljah-LC\pkt_2017-1-28_1485636426_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\AC-Packet-Data-Jungle-Souljah-LC\pkt_2017-1-28_1485651819_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\AC-Packet-Data-Jungle-Souljah-LC\pkt_2017-1-29_1485689478_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\AC-Packet-Data-Jungle-Souljah-LC\pkt_2017-1-29_1485691384_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\AC-Packet-Data-Jungle-Souljah-LC\pkt_2017-1-29_1485710532_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\AC-Packet-Data-Jungle-Souljah-LC\pkt_2017-1-29_1485710532_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\AC-Packet-Data-Jungle-Souljah-LC\pkt_2017-1-29_1485710532_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\AC-Packet-Data-Jungle-Souljah-LC\pkt_2017-1-30_1485816666_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\AC-Packet-Data-Jungle-Souljah-LC\pkt_2017-1-31_1485870682_log.pcap
+
+Partial Exports - Missing appraisal info:
+80CEF8A0:Red Rune Silveran Spear
+80CEF8A1:Acid Spine Glaive
+80CEF8A3:Frost Stiletto
+86A13806:Major Chilling Isparian Staff
+80CEF8A6:Frost Dirk
+86997860:Saulandoi
+80CEF89A:Sanguinary Aegis
+80CEF8AB:Teardrop Crown
+80CEF8AC:Teardrop Crown
+80CEF8AE:Coronet
+80CEF8B4:Teardrop Crown
+80CEF8B6:Teardrop Crown
+80CEF8B7:Circlet
+80CEF8B2:Coronet
+9082E4DC:Teardrop Crown
+80CEF8B3:Coronet
+80CEF8AF:Coronet
+926D639D:Teardrop Crown
+93091720:Coronet
+80CEF8C7:A Strange Swamp Temple
+AE7043A1:Promissory Note
+80CEF8E0:Black Marrow Key
+80CEF8D0:Foci of Artifice
+AE15A4B4:Stipend
+80CEF8D1:Foci of Enchantment
+80CEF8D2:Iron Scarab
+80CEF8D3:Pyreal Scarab
+80CEF8D4:Splitting Tool
+80CEF8D5:Platinum Scarab
+80CEF8D6:Diamond Scarab
+80CEF8D7:Copper Scarab
+80CEF8D8:Silver Scarab
+80CEF8D9:Lead Scarab
+80CEF8DA:Gold Scarab
+80CEF8DB:Mana Scarab
+80CEF8DE:Platinum Scarab
+80CEF8E1:Sturdy Steel Keyring
+80CEF8E2:Marble Keyring
+80CEF8E3:Granite Keyring
+80CEF8E7:Sturdy Steel Keyring
+80CEF8EA:Sturdy Steel Keyring
+92DA1601:Lesser Corrupted Essence
+ADD2B09C:Clean Towel
+AEA13AB0:Fire Bow
+8F1F5D50:Fine Olthoi Sollerets
+80CEF8F0:Ust
+8F1F7A28:Fine Olthoi Gauntlets
+80CEF8F5:Peerless Lockpick
+80CEF8F1:Intricate Carving Tool
+80CEF8F2:Splitting Tool
+80CEF8F6:Peerless Lockpick
+869E17C4:Isparian Weapons Modifying Tool
+80CEF8F9:Society Gem of Dispelling
+80CEF8FA:Celestial Hand Stronghold Portal Gem
+80CEF8FD:Gem of Stillness
+80CEF895:Black Fire Atlan Stone
+8693A665:Major Shivering Stone
+80CEF894:Major Prismatic Stone
+91C76A24:Treated Healing Kit
+91C5ADEF:Treated Healing Kit
+93079627:Treated Healing Kit
+92D2455D:Treated Healing Kit
+80CEF921:Major Mana Stone
+A666721A:Major Mana Stone
+80CEF916:Salvage (9)
+80CEF918:Salvage (6)
+80CEF91D:Prismatic Taper
+80CEF919:Salvage (74)
+80CEF91B:Salvage (8)
+86A0D37C:Scroll of Prophecy
+8F84A281:Salvage (47)
+91C3AD06:Greater Mana Stone
+8F85B16A:Pyreal Pea
+91B3F794:Salvage (67)
+926BB9DB:Salvage (22)
+928E6F07:Salvage (88)
+928BEE5A:Salvage (95)
+9285D414:Salvage (100)
+AEA135A0:Iron Pea
+93092ACB:Salvage (81)
+9307F6FF:Salvage (28)
+AEA19AA9:Note from Wardley
+930932D9:Salvage (39)
+AEA13C55:Chalice
+AEA200BE:Door Key
+AEA3D078:Health Tonic
+AEA3C7F0:Door Key
+
+Missing Exports - Possessed items that were not found:

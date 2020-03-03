@@ -1,0 +1,57 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485839309_log.pcap
+
+Partial Exports - Missing appraisal info:
+9153C352:Sack
+9153C3A3:Core Plating Integrator
+91539CE4:Core Plating Deintegrator
+9153B8CD:Blackmoor's Favor
+914D796E:Ust
+9150AE58:Great Mana Charge
+926A33F0:Olthoi Egg
+926A27D7:Renegade Herbal Kit
+9158C4AD:Foci of Artifice
+9158C4B2:Pathwarden Yoroi Hauberk
+9158C4B4:Pathwarden Trinket
+9158C4B5:Pathwarden Helm
+9158C4B6:Pathwarden Gauntlets
+9158C4B7:Pathwarden Sollerets
+9158C4B9:Pack
+9158C4C2:Shadow Fragment
+9158C4BB:Quintessence Sickle
+9158C4BE:Acid Baton
+9158C4AE:Prismatic Taper
+9158C4C3:Shadow Fragment
+9158C4C4:Shadow Fragment
+9158C4C7:Shadow Fragment
+9158C4F6:Round Shield
+9158C4BA:Bronze Dagger
+9158C4C8:Pack
+9158C4D2:Elysa's Favor
+9158C4AF:Lead Scarab
+91B08488:Pack
+91B084B6:Pack
+9158C4F5:Dark Shard
+9158C4F4:Shadow Fragment
+9158C4F3:Shadow Fragment
+9158C4F2:Shadow Fragment
+9158C4F1:Shadow Fragment
+9158C4C6:Foolproof Fire Opal
+9158C4E9:Quiddity Ingot
+9158C4E8:Purified Quiddity Ingot
+9158C4E7:Telumiat Hollow Minion Essence
+9158C4E6:Sturdy Iron Keyring
+9158C4E5:Colosseum Ticket
+9158C4E4:Gem of Stillness
+9158C4EA:Dark Monolith Caverns
+9158C4E3:Wrapped Bundle of Deadly Fire Arrowheads
+9158C4B1:Teleportation Device
+9158C4EC:Yumi
+9158C4ED:Shortbow
+9158C4E2:Fire Compound Bow
+926A2A6F:Azure Gromnie Wings
+9265C2C2:Azure Gromnie Wings
+926A279A:Azure Gromnie Wings
+9267E5D8:Azure Gromnie Wings
+
+Missing Exports - Possessed items that were not found:

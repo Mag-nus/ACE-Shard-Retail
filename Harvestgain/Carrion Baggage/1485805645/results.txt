@@ -1,0 +1,230 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\CatDevnull-Dont-Remember-1\pkt_2017-1-30_1485795672_log.pcap
+
+Partial Exports - Missing appraisal info:
+A02EBA45:Sack
+A06BFD5D:Blackmoor's Favor
+A02EBA4C:Prismatic Taper
+A0695173:Facility Hub Portal Gem
+A02EBA46:Ust
+A069EFA1:Copper Scarab
+A04A5FFD:Treated Healing Kit
+9BBF8E8F:Adjanite Mana Stone
+A04BA3A6:Major Mana Stone
+A0A166B1:Stamina Tonic
+A0A784B9:Black Page of Salt and Ash
+A35A8496:Cow
+A0AA364F:Gem of Balance
+A0AA2731:Health Tonic
+A0AB1C6A:Mana Tonic
+9B79E2AC:Lesser Stamina Kit
+A3559D3B:Lesser Mana Kit
+BCE63D41:Moderate Mana Stone
+AAF9DB87:Aphus Lassel Portal Gem
+A0695498:Academy Battle Axe
+BD2A515B:Treated Healing Kit
+C81FE335:Massive Mana Charge
+A02EBA4B:Foci of Artifice
+802D8547:Pack
+802D854A:Marshmallow Bat
+802D854B:Marshmallow Ghost
+802D854C:Gummy Golem
+802D854D:Candy Corn
+802D854F:Pumpkin Cookie Cutter
+802D8550:Some Changes for February 2012
+802D8545:Banderling Scalp
+802D853F:Pumpkin Cookie Cutter
+802D853A:Second Half of a Battered Dagger
+983A202B:Iceball
+9840A310:Magic Iceball
+983CC0F0:Poofy Snowball
+9867BE92:Marshmallow Pumpkin
+9867BE93:Pumpkin Cookie Cutter
+9867BEBC:Virindi Profatrix Mask
+986778E2:Cell Key
+986778E3:The Baron's Key
+986778E4:Small Rusted Key
+986778E5:Scratched Key
+9867BE9E:Dark Chocolate Candy Bar
+9867BEA0:Tempting Apple
+9867BE9F:Peppermint Cookie
+9867BEA2:Candied Apple
+A0CF1E7D:Pack
+802D850C:Golden Gromnie
+992E3416:Sunflower
+A073F226:Orange Monster Seed
+A186AD42:Red Jewel
+A2698077:Golden Gromnie
+A0A7776D:Antiquated Compass
+98C12E22:Floating Candle
+9840DD2E:Golden Gromnie
+9840A170:Snowflower
+A36D15AF:Golden Gromnie
+A3696BB2:Golden Gromnie
+A3661167:Golden Gromnie
+998FF8D8:Red Monster Seed
+9840A17F:Pack Drudge
+9A531CAE:Pack Scarecrow
+9E5A2DBF:Pack Golem
+983E6459:Little Green Seeds
+A4D26CA0:Golden Egg
+984393FD:Little Green Seeds
+9867BE52:Tipped Pack Cow
+AAEB1E44:Golden Gromnie
+A434EE33:Dansha-Ki's Gem of Portal Recall
+A0D0D182:Pack
+9843942B:Oubliette
+A37C09A7:Relic Alduressa Helm
+A3C89276:Relic Alduressa Leggings
+A3C8C796:Relic Alduressa Sollerets
+A40B686C:Relic Alduressa Coat
+86573132:Upgraded Ancient Relic Sollerets
+86573084:Upgraded Ancient Relic Gauntlets
+8657307F:Upgraded Ancient Relic Leggings
+9867BE41:Basket
+86573083:Upgraded Ancient Relic Helm
+86573081:Upgraded Ancient Relic Vestment and Bracers
+9867BE4C:Wreath
+A103A694:Ancient Relic Helm
+A20E4D85:Ancient Relic Vestment and Bracers
+9867BE47:Drudge Head
+A02F67C1:Ancient Relic Leggings
+A177F439:Ancient Relic Gauntlets
+9867BE46:Bloodied Burun Hide
+A1157538:Ancient Relic Sollerets
+800228C9:Noble Relic Sollerets of Speed
+9867BE4E:Tusker Head
+80A2E779:Noble Relic Gauntlets of Strength
+8C8B2F2D:Noble Relic Leggings of Health
+9867B88A:Messenger's Collar
+9279AF80:Noble Relic Coat of Brilliance
+80142591:Noble Relic Helm of Will
+9867BE49:Singularity Keyring
+9867BE4A:Renegade Bone Charm
+9867BE50:Daulan Faur
+9867BE51:Periapt of Endless Sight
+984393F8:Phyntos Honey
+9867BE70:Cowl of the Sand
+9867BE94:Telumiat Hollow Minion Essence
+9867BE85:Pack Mosswart
+80EDE52A:Olthoi Egg
+9867BE9B:Bracelet of Knowledge
+9867BE9A:Virindi Servant's Amulet
+9867BE9D:Chocolate Gromnie
+9867BE91:Candeth Keep Stamp
+9867BE9C:Chocolate Cookie
+A4CA31CF:Lucky Gold Letter
+A8794E7F:Dark Monolith Caverns
+98C14A9D:Ring of Intellect
+A09B60D2:Lucky Gold Letter
+A092FDE7:Lucky Gold Letter
+A4842380:Lucky Gold Letter
+A60C9EEB:Lucky Gold Letter
+A5F911C3:Lucky Gold Letter
+A318969C:Town Network Portal Gem
+ABD08246:Clasp of the Arm
+A628AAAD:Spirit of Izexi Gem
+9C90FB35:Virindi Inquisitor Essence
+802D850F:Mite
+9E6636BF:Splitting Tool
+ABD35706:Ring of Enhancement
+ABCE390F:Ring of Enchantment
+ABD0C58C:Mages Loop
+ABD35583:Aphus Lounging Shirt
+ABD07893:Aphus Sun Guard
+ABD3552B:Aphus Wading Pants
+ABD0C436:Silken Wrap
+ABCF56CE:Blueprints for a Burun Fortress
+A2697D64:Licorice Rat
+9812C107:Candy Corn
+A0AE56E7:Licorice Rat
+B11896F5:Candy Corn
+9843942E:Licorice Rat
+A0AE5500:Potion of Black Fire
+9840AF72:Licorice Rat
+AAF0BDD6:Fried Olthoi Egg
+A94A2F2C:Black Luster Pearl
+A434F5F0:Licorice Rat
+B1180B8A:Licorice Rat
+9840CF72:Chocolate Gromnie
+9843942D:Chocolate Gromnie
+B11A0698:Chocolate Gromnie
+A0A78645:Refreshing Water
+A434F627:Priceless Ore
+A6BCE1F6:Deck of Hands
+A961B154:Deck of Eyes
+B30FDF49:Lucky Gold Letter
+B2ABC068:Scarlet Red Letter
+9843942C:Candy Corn
+B551962D:Burning Sands Keyring
+B569C776:Burning Sands Keyring
+B4F2B190:Lucky Gold Letter
+B4E929DD:Lucky Gold Letter
+B4F0CB41:Lucky Gold Letter
+B4EFEC0C:Lucky Gold Letter
+B4F1AC6A:Lucky Gold Letter
+B4DEEEEC:Lucky Gold Letter
+B4F2B289:Lucky Gold Letter
+B4F1B869:Lucky Gold Letter
+B4EDC7E4:Lucky Gold Letter
+B4F2B841:Lucky Gold Letter
+B4EF1D6B:Lucky Gold Letter
+B4E91DB0:Lucky Gold Letter
+B4EB332C:Lucky Gold Letter
+B6D052B6:Lesser Corrupted Essence
+B76DA001:Rage of Grael Gem
+B78E1B1F:Coral Fragment
+B94DC3C3:Platinum Spirits
+B5D3E817:Black Luster Pearl
+B5E6F21B:Black Luster Pearl
+9867BE95:Elemental Master Robe
+B544F346:Burning Sands Keyring
+BD3D26E2:Lucky Gold Letter
+BD2F38B1:Licorice Rat
+BD4162D4:Lucky Gold Letter
+BD4A6094:Lucky Gold Letter
+B4CC2D98:Pyreal Bar
+BB497C23:Black Luster Pearl
+BB505B41:Black Luster Pearl
+BE007C67:Lucky Gold Letter
+BD476A69:Lucky Gold Letter
+BFCBD6F7:Lucky Gold Letter
+BFDF82F3:Lucky Gold Letter
+BFBB28AF:Pyreal Nugget
+C0589A90:Pyreal Nugget
+C066FDB7:Writ of Refuge
+C4A7AEA9:Diamond Powder
+BF9A367C:Empyrean Robe
+C6070F3E:Lightning Cloud
+C1899897:Empyrean Robe
+C4AB1C79:Empyrean Robe
+C7DC9231:Stipend
+C0BA51CA:Gem of Knowledge
+C64C6363:Pyreal Nugget
+C64AE3CE:Pyreal Nugget
+C5EE85CE:Pyreal Nugget
+C6B2EB73:Pyreal Nugget
+C80C0835:Lucky Gold Letter
+C7EF4B3E:Ancient Falatacot Trinket
+C81C2282:Ancient Empyrean Trinket
+9840D667:Splitting Tool
+C69237A5:Armor Middle Reduction Tool
+A0D52FC4:Celdiseth's Portal Gem
+B6DDA3D9:Diamond Scarab
+C6A216D7:Armor Lower Reduction Tool
+802D84C5:Pack
+98651E83:Through the Portal Years
+AA8A2E0E:Head of the Paradox-touched Olthoi Queen
+802D8517:Pedestal with a Floral Arrangement
+A334C264:Gladiator Diemos Statue
+AC33D20F:Black Spear of Mukkir Strength
+802D853E:Floating Candle
+802D851A:Floating Candle
+802D854E:Floating Candle
+802D851B:Floating Candle
+802D855D:Floating Candle
+802D855C:Pumpkin
+802D847E:Snowman Snowglobe
+C77D1686:Promissory Note
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,169 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap4\pkt_2017-1-29_1485688049_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap3\pkt_2017-1-30_1485819759_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap4\pkt_2017-1-29_1485688049_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap4\pkt_2017-1-29_1485688049_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap4\pkt_2017-1-29_1485688049_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap4\pkt_2017-1-29_1485688049_log.pcap
+
+Partial Exports - Missing appraisal info:
+80616589:Sack
+80616574:Carol's Carrot Soup
+805F3466:Vitriol Pea
+805A05F5:Treated Healing Kit
+80616590:Pack Scarecrow
+80616595:Powdered Chorizite Pea
+8053A421:Salvaged  (5)
+80616587:Salvaged  (17)
+80603DF1:Salvaged  (19)
+805F3441:Potion of Healing
+80603DE2:Treated Healing Kit
+804E99C4:Health Infusion
+805AEAA6:Salvaged  (11)
+80616597:Sack
+805BD479:Salvaged  (25)
+805F346C:Resister's Crystal
+805CAF33:Pyreal
+8059EC8B:Concentrated Lightning Infusion
+80603DF8:Pyreal
+805F333C:Salvage (100)
+80569DAE:Salvage (100)
+8053A7AF:Alembic
+805B5F60:Salvage (100)
+8054C773:Salvage (100)
+805F40CD:Ust
+805F33CD:Salvaged  (12)
+805AB32F:Salvaged  (8)
+80549BDF:Mana Potion
+805AB552:Salvaged  (38)
+805CB278:Salvaged  (11)
+805AE2A7:Eye Dropper
+8057A4D9:Cooking Pot
+8054D9F0:Salvaged  (8)
+805CED91:Gem
+80603E72:Foolproof Jet
+80603E13:Foolproof Imperial Topaz
+806165A7:Scrap of Paper
+8061655E:Evader's Crystal
+80603D94:Scholar's Crystal
+805AEA87:Sack
+805AEB5C:Whittling Knife
+80608BFE:Salvaged  (100)
+80608BFD:Salvaged  (100)
+8054D1CA:Salvaged  (100)
+805FD60C:Snowflower
+80603DE4:Salvaged  (100)
+805ADE53:Good Lockpick
+805A0618:Salvaged  (34)
+805A05C6:Salvaged  (22)
+80603E16:Second Half of a Battered Staff
+805F4553:Salvaged Reedshark Hide (11)
+805F34B5:Salvaged  (6)
+80545590:Treated Healing Kit
+805F2559:Salvaged  (9)
+80588FE4:Salvaged  (12)
+80603E26:Eastern Vault Notes
+806165A6:Salvaged  (38)
+80608879:Salvaged  (62)
+80616593:Mortar and Pestle
+805693AA:Salvaged  (30)
+806164AA:Pack
+8061659C:Salvaged  (82)
+805E8E98:Decanter of Essence
+80608C01:Braided Drudge Ravener Guts
+8059ED7A:Some Changes for February 2012
+805F3476:Argenory Plant
+80603E14:Verdalim Plant
+805AEB09:Colban Plant
+8058D476:Minalim Plant
+805745AB:Hennacin Plant
+8054E855:Salvaged  (13)
+8025EC3E:Quicksilver
+80603DFC:Singularity Key
+8055049B:Intricate Carving Tool
+8058B6BD:Bael'Zharon Stamp
+8061659F:Sturdy Steel Key
+80608C03:Pack
+805E9354:Turpeth Pea
+80603E06:Cobalt Pea
+80603600:Brimstone Pea
+805F3409:Copper Scarab
+8058DADC:Prismatic Taper
+806165A4:Rubble
+80603DA6:Halaetan Magic Page 2
+805AE9A2:Damp Scroll
+80603DDE:Instructions
+8059EE88:Ginger
+806165A5:Neutral Balm
+805D3CD3:Salvage (100)
+8058B851:Salvage (100)
+80608AF1:Sturdy Steel Key
+8061659B:Salvage (100)
+805AEA2E:Pack Drudge
+8054D552:Pack
+80555573:Salvage (100)
+8058DADD:Salvage (100)
+8058EE16:Cooking Pot
+80603E27:Salvage (100)
+8059669C:Salvage (100)
+806165A3:Scroll of Adja's Blessing
+806038DD:Salvage (100)
+80603E07:Salvage (100)
+8058C4BE:Scroll of Nether Bolt VII
+8058FCEB:Salvage (100)
+80603E01:Salvage (100)
+80603E25:Gold Pea
+805AEADB:Salvage (100)
+805E886B:Salvage (100)
+8059EC9F:Lesser Stamina Kit
+80608515:Salvage (100)
+8057042F:Salvage (100)
+80603DF2:Salvage (100)
+806165A0:Salvage (100)
+8054B402:Salvage (100)
+80603E08:Salvage (100)
+805F4562:Silver Pea
+805AD69D:Salvage (100)
+80603E15:Salvage (100)
+805F33DB:Health Philtre
+805ABC64:Salvaged  (40)
+80603E0F:Thananim Plant
+8056976D:Salvage (25)
+805AE972:Salvaged  (10)
+8055164C:Salvaged  (6)
+80603E22:Salvaged  (7)
+806038D3:Salvaged  (22)
+8060AC62:Salvaged  (6)
+8058DADE:Salvaged  (6)
+8054AFAB:Salvaged  (18)
+8018A546:Peerless Lockpick
+806038F2:Salvage (100)
+8054AF97:Salvage (100)
+91EE919F:Small Shard
+8056A73D:Salvage (100)
+806165C4:Salvage (100)
+91EBDB60:Carrot
+805503E1:Salvage (100)
+806165B7:Salvage (100)
+91EB86CD:Second Half of a Battered Dagger
+805F455C:Salvage (100)
+805EFFC5:Vitriol
+805ADBA7:Relanim Plant
+806165A2:Facility Hub Portal Gem
+8054A1B3:Concentrated Aqua Incanta
+805AEA9B:Isparian Weapons Modifying Tool
+805F33E3:Bunch of Nanners
+806160B1:Berzerker's Crystal
+805AA27A:Ben Ten's Crystal
+80620BB1:Trade Health Elixir
+80187E58:Antiquated Compass
+860084A5:Pack Drudge
+8619D640:Translated Bound Falatacot Fragment
+80187E12:Ancient Temple
+80187E11:Cavernous Olthoi Chasm
+8017FB01:Invitation Ithaenc Cathedral
+85FBCD47:Ancient Relic Helm
+
+Missing Exports - Possessed items that were not found:

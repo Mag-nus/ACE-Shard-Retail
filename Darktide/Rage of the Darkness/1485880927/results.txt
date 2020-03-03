@@ -1,0 +1,66 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Arwic-Portal-Storms-Subway-and-misc-logins\pkt_2017-1-31_1485880598_log.pcap
+
+Partial Exports - Missing appraisal info:
+C2657C64:Flared Shirt
+C2657C65:Flared Pants
+C2657C66:Foci of Artifice
+C2657C67:Foci of Verdancy
+C2657C68:Foci of Enchantment
+C2657C69:Helmet
+C2657C6A:Platemail Gauntlets
+C2657C6E:Pack
+C2657C6B:Studded  Leggings
+C2657C6C:Chainmail Hauberk
+C2657C6D:Sollerets
+C2657C6F:Helmet
+C2657C70:Helmet
+C2657C71:Helmet
+C2657C72:Helmet
+C2657C74:Mu-miyah Leg
+C2657C73:Mu-miyah Torso with an Arm
+C2657C75:Longbow
+C2657C76:Staff of Nullification
+C2657C77:Pack
+C2657C78:Horned Helm
+C2657C79:Platemail Gauntlets
+C2657C7A:Sollerets
+C2657C7B:Assault Crossbow
+C2657C7D:Elysa's Favor
+C2657C80:Old Scarlet Red Letter
+C2657C7E:Greater Quarrel
+C2657C7F:Greater Acid Quarrel
+C2657C81:Old Scarlet Red Letter
+C2657C82:Old Lucky Gold Letter
+C2657C83:Old Lucky Gold Letter
+C2657C84:Pack
+C2657C85:Prismatic Taper
+C2657C86:Lead Scarab
+C2657C87:Copper Scarab
+C2657C88:Silver Scarab
+C2657C89:Ruined Amulet of the Left Hand
+C2657C8A:Dark Revenant Thighbone
+C2657C8B:Ruined Amulet of Light Weapons
+C2657C8C:Ruined Amulet of the Left Hand
+C2657C8D:Greeter's Key
+C2657C8E:Ruined Amulet of the Arm
+C2657C8F:Impious Staff
+C2657C90:Flaming Cestus
+C2657C91:Acid Nekode
+C2657C92:Large Round Shield
+C2657C93:Frost Cestus
+C2657C94:Lightning Nekode
+C2657C95:Discus
+C2657C96:Undead Body
+C2657C97:Skeleton's Skull
+C2657C98:Skeleton's Skull
+C2657C99:Skeleton's Skull
+C2657C9A:Pack
+C2657C9B:An Explorer Jitte
+C2657C9C:Tusker Spit
+C2657C9D:Realaidain Raiment
+C2657C9E:Some Changes for February 2012
+C2657C9F:Blackmoor's Favor
+C2657CA0:Kite Shield
+
+Missing Exports - Possessed items that were not found:

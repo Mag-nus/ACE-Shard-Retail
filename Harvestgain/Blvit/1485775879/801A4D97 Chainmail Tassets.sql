@@ -1,0 +1,93 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (2149207447, 108, 2, 7525697) /* Clothing */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (2149207447,   1,          2) /* ItemType - Armor */
+     , (2149207447,   4,        256) /* ClothingPriority - OuterwearUpperLegs */
+     , (2149207447,   5,        190) /* EncumbranceVal */
+     , (2149207447,   9,       8192) /* ValidLocations - UpperLegArmor */
+     , (2149207447,  16,          1) /* ItemUseable - No */
+     , (2149207447,  18,          1) /* UiEffects - Magical */
+     , (2149207447,  19,       4247) /* Value */
+     , (2149207447,  28,        356) /* ArmorLevel */
+     , (2149207447,  65,        101) /* Placement - Resting */
+     , (2149207447,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (2149207447, 105,          7) /* ItemWorkmanship */
+     , (2149207447, 106,        181) /* ItemSpellcraft */
+     , (2149207447, 107,        680) /* ItemCurMana */
+     , (2149207447, 108,        750) /* ItemMaxMana */
+     , (2149207447, 109,         59) /* ItemDifficulty */
+     , (2149207447, 110,          0) /* ItemAllegianceRankLimit */
+     , (2149207447, 115,        201) /* ItemSkillLevelLimit */
+     , (2149207447, 131,         64) /* MaterialType - Steel */
+     , (2149207447, 172,          3) /* AppraisalLongDescDecoration */
+     , (2149207447, 176,          6) /* AppraisalItemSkill */
+     , (2149207447, 188,          1) /* HeritageGroup - Aluvian */
+     , (2149207447, 9015,         11) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (2149207447,   1, False) /* Stuck */
+     , (2149207447,  11, True ) /* IgnoreCollisions */
+     , (2149207447,  13, True ) /* Ethereal */
+     , (2149207447,  14, True ) /* GravityStatus */
+     , (2149207447,  19, True ) /* Attackable */
+     , (2149207447,  22, True ) /* Inscribable */
+     , (2149207447, 100, True ) /* Dyable */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (2149207447,   5, -0.0416666679084301) /* ManaRate */
+     , (2149207447,  13, 3.20000004768372) /* ArmorModVsSlash */
+     , (2149207447,  14,       3) /* ArmorModVsPierce */
+     , (2149207447,  15, 2.79999995231628) /* ArmorModVsBludgeon */
+     , (2149207447,  16, 2.59999990463257) /* ArmorModVsCold */
+     , (2149207447,  17, 3.3156270980835) /* ArmorModVsFire */
+     , (2149207447,  18,     2.5) /* ArmorModVsAcid */
+     , (2149207447,  19, 2.40000009536743) /* ArmorModVsElectric */
+     , (2149207447,  39, 1.33000004291534) /* DefaultScale */
+     , (2149207447, 165,       1) /* ArmorModVsNether */
+     , (2149207447, 8004,       7) /* PCAPRecordedWorkmanship */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (2149207447,   1, 'Chainmail Tassets') /* Name */
+     , (2149207447,  16, 'Chainmail Tassets of Strength') /* LongDesc */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (2149207447,   1,   33554656) /* Setup */
+     , (2149207447,   3,  536870932) /* SoundTable */
+     , (2149207447,   6,   67108990) /* PaletteBase */
+     , (2149207447,   8,  100673323) /* Icon */
+     , (2149207447,  22,  872415275) /* PhysicsEffectTable */
+     , (2149207447, 8001, 2166849688) /* PCAPRecordedWeenieHeader - Value, Usable, UiEffects, Wielder, ValidLocations, CurrentlyWieldedLocation, Priority, Burden, Workmanship, MaterialType */
+     , (2149207447, 8003,         18) /* PCAPRecordedObjectDesc - Inscribable, Attackable */
+     , (2149207447, 8005,     137345) /* PCAPRecordedPhysicsDesc - CSetup, ObjScale, STable, PeTable, AnimationFrame */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (2149207447,   1, 2452928307) /* Owner */
+     , (2149207447,   2, 2452928307) /* Container */
+     , (2149207447, 8000, 2149207447) /* PCAPRecordedObjectIID */;
+
+INSERT INTO `biota_properties_spell_book` (`object_Id`, `spell`, `probability`)
+VALUES (2149207447,  1330,      2) 
+     , (2149207447,  1483,      2) 
+     , (2149207447,  1561,      2) 
+     , (2149207447,  2554,      2) 
+     , (2149207447,  2577,      2) ;
+
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
+VALUES (2149207447, 67113080, 136, 16);
+
+INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
+VALUES (2149207447, 0, 83887064, 83886785, 0);
+
+INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, `order`)
+VALUES (2149207447, 0, 16778365, 0);
+
+INSERT INTO `biota_properties_enchantment_registry` (`object_Id`, `enchantment_Category`, `spell_Id`, `layer_Id`, `has_Spell_Set_Id`, `spell_Category`, `power_Level`, `start_Time`, `duration`, `caster_Object_Id`, `degrade_Modifier`, `degrade_Limit`, `last_Time_Degraded`, `stat_Mod_Type`, `stat_Mod_Key`, `stat_Mod_Value`, `spell_Set_Id`)
+VALUES (2149207447, 0, 4407, 0, False, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)
+     , (2149207447, 0, 4409, 0, False, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)
+     , (2149207447, 0, 4391, 0, False, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)
+     , (2149207447, 0, 4403, 0, False, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)
+     , (2149207447, 0, 4401, 0, False, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)
+     , (2149207447, 0, 4397, 0, False, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)
+     , (2149207447, 0, 4412, 0, False, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)
+     , (2149207447, 0, 4393, 0, False, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);

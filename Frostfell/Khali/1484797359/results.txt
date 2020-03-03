@@ -1,0 +1,204 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-09-2017\Callaway-1-17-29-2017-Misc2\pkt_2017-1-18_1484772249_log.pcap
+
+Partial Exports - Missing appraisal info:
+B3D7B7BF:Salvage (100)
+B408C4B7:Salvage (100)
+B3852494:Ust
+B408C4DD:Salvage (100)
+B3E3E52A:Salvage (100)
+B3E276DE:Calling Stone
+B38437A6:Salvage (100)
+B37D7634:Salvage (100)
+B385D584:Prismatic Taper
+B3F00FB7:Salvage (100)
+B409186D:Salvage (100)
+B3F433D4:Salvage (100)
+B3BCAFC8:Salvage (100)
+B3D7B600:Salvage (100)
+B407C640:Salvage (100)
+B3F0327F:Salvage (100)
+B3D406E6:Salvage (100)
+B3BCC5BA:Salvage (100)
+B3858881:Salvage (100)
+B37D07E4:Salvage (100)
+B3EC4E8D:Salvage (100)
+B3BCAF2B:Pathwarden Token
+B379D491:Blackmoor's Favor
+B389F4EE:Oil of Rendering
+B3D02395:Oil of Rendering
+B37B2161:Salvage (60)
+B3D80B9B:Salvage (45)
+B4091862:Salvage (56)
+B408A07D:Salvage (84)
+B3EA3CD1:Salvage (89)
+B3852ABC:Salvage (30)
+B37BD135:Salvage (67)
+B409182E:Salvage (43)
+B408C4D5:Salvage (86)
+B408C48C:Salvage (93)
+B408C3CA:Salvage (35)
+B408C4C2:Salvage (63)
+B408C4A5:Acid Dabus
+B40916F9:Salvage (100)
+B3D7B784:Salvage (100)
+B3A7FE20:Mana Forge Key
+B4086E0C:Salvage (100)
+B37CC9E6:Salvage (100)
+B385C5AE:Mana Forge Key
+B4091766:Salvage (100)
+B4091854:Salvage (100)
+B3899ACB:Salvage (100)
+B37B113A:Salvage (100)
+B36FE404:Stipend
+B3BC78CE:Salvage (100)
+B371B153:Salvage (100)
+B409187B:Salvage (100)
+B3206013:Salvage (100)
+B36F81D6:Salvage (100)
+B3AE1C5C:Salvage (100)
+B3AE1EE2:Salvage (100)
+B409186B:Salvage (100)
+B3D81043:Salvage (100)
+B3B359C0:Salvage (100)
+B4091879:Salvage (100)
+B4091836:Salvage (100)
+B384C419:Salvage (100)
+B38AADE3:Salvage (100)
+B38D4139:Salvage (100)
+B3E41C11:Salvage (100)
+B38AFC9A:Salvage (100)
+B3EA6FC3:Salvage (100)
+B3E07B22:Salvage (100)
+B3EAC19B:Salvage (100)
+B408C49A:Salvage (100)
+B408C389:Salvage (100)
+B408C4B2:Salvage (100)
+B409186C:Salvage (100)
+B37B7838:Salvage (100)
+B3BCB12E:Salvage (100)
+B3EA8D3F:Salvage (100)
+B3BBFD8A:Salvage (100)
+B3E98587:Salvage (100)
+B38371B3:Salvage (100)
+B38AAAE2:Salvage (100)
+B3BBADDC:Salvage (100)
+B4085FD3:Salvage (100)
+B3D7A3AA:Salvage (100)
+B37E6304:Salvage (100)
+B40916F1:Salvage (100)
+B3EA3D66:Salvage (100)
+B3EC2ACD:Salvage (100)
+B3F017FB:Salvage (100)
+B385D289:Salvage (100)
+B3A05110:Salvage (100)
+B37A77E9:Salvage (100)
+B3F02F9F:Salvage (100)
+B3F8A7C1:Salvage (100)
+B3B94DB6:Salvage (100)
+B3D7A6D5:Salvage (100)
+B36EEA6C:Salvage (100)
+B3BBB1E6:Salvage (100)
+B3AE520D:Salvage (100)
+B38AEB16:Salvage (100)
+B40913FE:Salvage (100)
+B4085FD7:Salvage (100)
+B3D7AA37:Salvage (100)
+B3CFB9A8:Salvage (100)
+B3D0277F:Salvage (100)
+B37E1BFB:Salvage (100)
+B3D01E33:Salvage (100)
+B4091860:Salvage (100)
+B37D1BC0:Rogue's Crystal
+B371B2AA:Artist's Crystal
+B34EA5D6:Covenant Gauntlets
+B388B57F:Long Leather Gauntlets
+B3AFE122:Blunt Sceptre
+B378D5F6:Halved Cloak
+B36F2BE0:Chevron Cloak
+B3846232:Salvage (100)
+B3E9DECD:Olthoi Bracers
+B3E413D7:Pearl of Hermetic Linking
+B37B016C:Alchemist's Crystal
+B2617DA9:T'ing's Crystal
+B3EAB619:Ben Ten's Crystal
+B3B369F9:Olthoi's Jewel
+B3AE65D0:Salvage (100)
+B3EA1DEE:Salvage (100)
+B38B0185:Salvage (100)
+B37D14D1:Salvage (100)
+B3DF1EEC:Salvage (100)
+B3D7BD51:Salvage (100)
+B3EC37A4:Salvage (100)
+B3D0233A:Salvage (100)
+B3B5D2AB:Salvage (100)
+B40918D7:Salvage (100)
+B37E2A72:Salvage (100)
+B3EABE39:Salvage (100)
+B3D7A633:Salvage (100)
+B3AE008C:Salvage (100)
+B3D8DED0:Salvage (100)
+B37BD23D:Salvage (100)
+B3AE6629:Salvage (100)
+B3D01E83:Salvage (100)
+B389D721:Salvage (100)
+B3D7BE26:Salvage (100)
+B3D7A804:Salvage (100)
+B36E9D58:Salvage
+B3D818CB:Salvage (100)
+B38B0379:Shou-jen Shozoku Mask
+B38A9C6E:Salvage (100)
+B3CCF99A:Salvage (100)
+B37DF117:Salvage (100)
+B370B20C:Salvage (100)
+B37304CA:Salvage (100)
+B3E04A15:Salvage (100)
+B403D75A:Salvage (100)
+B3802FFF:Platemail Hauberk
+B37BE1A8:Platemail Sleeves
+B3AE9A56:Epee
+B3D7B40B:Slashing Staff
+B3A0A83E:Shou-jen Shozoku Jacket
+B3D7BB79:Shou-jen Shozoku Sleeve Gauntlets
+B3792DCC:Shou-jen Shozoku Trousers
+B408B193:Shou-jen Jika-Tabi
+B408C493:Nether Sceptre
+B3AE6EDB:Chainmail Gauntlets
+B36D4022:Beret
+B3E9BFA6:Nether Baton
+B37AFAB9:Chevron Cloak
+B37B28C4:Leather Leggings
+B37D3F66:Qafiya
+B38A5926:Olthoi Gauntlets
+B3D80A9F:Orb
+B3D7AF3F:Chainmail Pauldrons
+B3AE1024:Piercing Baton
+B3CF766B:Salvage (25)
+B3D7BC25:Salvage (31)
+B408C43B:Salvage (40)
+B408C46D:Celdon Breastplate
+B408C474:Trousers
+B37D4A08:Celdon Girth
+B3B37066:Celdon Breastplate
+B3F02050:Lorica Breastplate
+B385CD46:Olthoi Koujia Breastplate
+B3E41DFF:Frost Staff
+B3B3749B:Smock
+B3E42129:Frost Baton
+B3E9BABC:Salvage (100)
+B37E1C87:Salvage (100)
+B3D66E00:Salvage (100)
+B3D801EE:Halved Cloak
+B388BA10:Chevron Cloak
+B3CFBA60:Chevron Cloak
+B3799F04:Chevron Cloak
+B3889DE0:Salvage (100)
+B3D7F76B:Ring
+B3D80D4E:Salvage (100)
+B378E2BA:Pike
+B3EC1F9E:Salvage (100)
+DB1E2CF7:Thorsten's Crystal
+D9E4BB7F:Fletcher's Crystal
+819CE58C:Deceiver's Crystal
+
+Missing Exports - Possessed items that were not found:

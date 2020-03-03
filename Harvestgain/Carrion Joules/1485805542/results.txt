@@ -1,0 +1,245 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\CatDevnull-Dont-Remember-1\pkt_2017-1-30_1485795672_log.pcap
+
+Partial Exports - Missing appraisal info:
+BC60B648:Sack
+BD05015A:Great Mana Charge
+BD0CD26C:Facility Hub Portal Gem
+BC60B649:Ust
+BC60B650:Prismatic Taper
+B962286A:Treated Healing Kit
+BD0EBD96:Encapsulated Spirit
+BD1D91E8:Aphus Lassel Portal Gem
+BD222B53:Health Tonic
+BD23D1E6:Hearty Lugian Loaf
+BD225B3C:Refreshing Water
+BD18B494:Mana Tonic
+B96558AB:Tasty Pudding
+BD0BD2F0:Elaborate Field Rations
+BD0A46BC:Copper Scarab
+BD2F2D28:Pyreal Scarab
+BD2C4324:Silver Scarab
+BD2D9FC0:Gold Scarab
+AF2D6312:Pack
+B966134B:Bracelet
+B97E3524:Bracelet
+B9B773C2:Heavy Bracelet
+A464EA49:Heavy Bracelet
+ACC53460:Heavy Bracelet
+A5211502:Bracelet
+A85790B9:Bracelet
+A5E5E89F:Heavy Bracelet
+A358FC36:Heavy Bracelet
+B8F7F70A:Bracelet
+BC6FF0C7:Bracelet
+BC7085F7:Heavy Bracelet
+BC7145B0:Heavy Bracelet
+BC7AF360:Heavy Bracelet
+BD03D650:Ring
+A54BEE97:Ring
+A465D91C:Ring
+A4B22F70:Ring
+A464D322:Ring
+B97B5719:Compass
+B9664301:Heavy Necklace
+B877129F:Gorget
+B8F4CCB6:Mechanical Scarab
+B9469C0E:Goggles
+A435BCB1:Pack
+BC5A5092:Compass
+9EEAA87A:Goggles
+A235367A:Pocket Watch
+A393B49E:Amulet
+A63E095D:Heavy Bracelet
+A34C3FAE:Bracelet
+A5210251:Ring
+A7AA45C9:Ring
+A75D5660:Ring
+A8EC008B:Ring
+A8EDA960:Heavy Bracelet
+A7DE670D:Ring
+A7DA6484:Pocket Watch
+A7C25FD5:Bracelet
+A916A8DC:Heavy Necklace
+A9167609:Ring
+AD875044:Ring
+AF018F86:Heavy Bracelet
+AF10ADB3:Gorget
+AD7EA5B2:Heavy Bracelet
+AF2627C3:Necklace
+AD7E1CC0:Heavy Bracelet
+AD7FD4A6:Bracelet
+AD7C01E6:Goggles
+AD7F43A6:Puzzle Box
+A435F58F:Ring
+A65D9FF1:Ring
+AD7F0454:Heavy Necklace
+AD7F2FC5:Ring
+B8A48E7C:Ring
+B9C19F3B:Goggles
+B9626B8D:Top
+9867785A:Pack
+ADA7AD3A:Heavy Necklace
+ACECFD59:Heavy Bracelet
+AD5B7B8E:Ring
+AD5C143A:Ring
+AD5D7929:Gorget
+AD5D81E5:Heavy Bracelet
+AD5DE131:Gorget
+AD5955C6:Ring
+AD5E1C70:Necklace
+ACCB6BF1:Heavy Bracelet
+AD7C7A43:Heavy Bracelet
+ACCA0B97:Bracelet
+ACCB87A8:Gorget
+ACC0D3F2:Ring
+ACCF2088:Ring
+AC6A9E6B:Heavy Bracelet
+ACBB175F:Heavy Bracelet
+AC770265:Ring
+AC72E3B2:Necklace
+ABCF1B98:Heavy Bracelet
+ABC762E4:Ring
+ABD717DC:Heavy Bracelet
+ABD82C6A:Heavy Bracelet
+ABB1BD38:Ring
+AAAC81D2:Heavy Bracelet
+AB152740:Gorget
+AB078E5D:Gorget
+AB10D8EB:Ring
+ABB71F09:Ring
+ABDC74E9:Ring
+ABBB1B8A:Bracelet
+AC19030D:Heavy Bracelet
+AC199727:Heavy Bracelet
+AC180EFE:Ring
+BA32A047:Heavy Necklace
+B979E3AD:Ring
+BA3E10DC:Heavy Bracelet
+BA414078:Ring
+BA4CC297:Heavy Bracelet
+BA78ADF0:Ring
+BA7E4385:Heavy Bracelet
+BA7E737C:Ring
+BA7CE26E:Heavy Bracelet
+BBC322A1:Heavy Bracelet
+BBC650A6:Ring
+BBC2E285:Heavy Bracelet
+BB856F75:Bracelet
+BBA0F783:Pocket Watch
+BBA5AFE5:Bracelet
+BB97F58C:Heavy Necklace
+BBA54C26:Ring
+BB9E613F:Heavy Bracelet
+BB7F5B99:Ring
+AAE86BBD:Pack
+AA3EC31D:Amulet
+AA3EC16D:Bracelet
+AA1BBA57:Heavy Necklace
+AA1B3532:Heavy Bracelet
+AA022421:Ring
+AA0135EE:Heavy Bracelet
+AA2A35C0:Heavy Necklace
+AAB0314E:Ring
+AACD7870:Heavy Bracelet
+AAD497C8:Bracelet
+A9D18673:Heavy Bracelet
+A948493C:Ring
+A9172E47:Ring
+A8C74FE8:Ring
+A936D3EB:Ring
+A934535B:Amulet
+A9321936:Gorget
+A921E302:Ring
+A9387711:Ring
+A9C7BE49:Ring
+A8EBC8C3:Heavy Necklace
+AAA34706:Ring
+A988F7DF:Necklace
+ABDD08DE:Gorget
+B7CBB5FB:Ring
+B7C68184:Gorget
+B7CADC8E:Ring
+B7CE8C5E:Ring
+B7CCC9E0:Heavy Necklace
+B8514633:Gorget
+B8540296:Ring
+B85205AC:Bracelet
+B8720BF8:Heavy Necklace
+B4E04ED3:Pack
+AF79E2FB:Ring
+B1D943A2:Heavy Bracelet
+B19AACE3:Ring
+B43A691B:Bracelet
+B57C589F:Ring
+B57C5F59:Pocket Watch
+B575FF86:Ring
+B58CCFEA:Ring
+B5ACEFF7:Pocket Watch
+B50A0374:Ring
+B54D6D5B:Gorget
+B552E48C:Ring
+B553A35A:Heavy Bracelet
+B75C8940:Ring
+B75AECD9:Ring
+B75C944C:Bracelet
+B6650AB5:Heavy Necklace
+B66713F9:Heavy Bracelet
+B66301B9:Pocket Watch
+B6973F38:Gorget
+B72CECB0:Heavy Bracelet
+B72DC8D5:Ring
+B729ADFC:Heavy Necklace
+BA28203A:Ring
+B9DC25C5:Ring
+B9DE232B:Ring
+B9DE70FD:Gorget
+B6877946:Necklace
+BA1FA1DE:Ring
+BA0BC1EF:Puzzle Box
+BA9855C6:Heavy Bracelet
+BA08512E:Ring
+BABFCEA0:Bracelet
+BAFD37B1:Gorget
+BA9E0266:Heavy Bracelet
+BAF93E0C:Heavy Necklace
+BAF81984:Ring
+BAF71C98:Gorget
+BAFC7760:Heavy Bracelet
+BADF4D0C:Compass
+B787C81F:Heavy Necklace
+B75EED0F:Ring
+BADE93BD:Top
+BB469863:Ring
+BB348501:Ring
+BC4AFCD2:Ring
+B7894BAD:Ring
+BAFBA6AB:Goggles
+BB1E89B9:Amulet
+B6679454:Heavy Bracelet
+BC4B0A19:Amulet
+BADE5202:Necklace
+BB4DB5C6:Bracelet
+BAFC9A50:Gorget
+BB2FC5C4:Heavy Bracelet
+BB188567:Ring
+BC137BF0:Heavy Bracelet
+BBCCF9DE:Ring
+BC32B4DF:Goggles
+BC32ED6A:Bracelet
+BAFC805D:Bracelet
+BAF4884B:Amulet
+BC29FD30:Top
+BAF4A11E:Heavy Bracelet
+BAF12210:Ring
+BADBA52F:Ring
+BBF902AC:Ring
+BB245E68:Ring
+BC329850:Ring
+BBEEC9AF:Necklace
+BBFEE126:Ring
+BC0C9801:Top
+A471750E:Necklace
+C69A2EF2:Promissory Note
+
+Missing Exports - Possessed items that were not found:

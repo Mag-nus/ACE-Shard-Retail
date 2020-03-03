@@ -1,0 +1,44 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485843573_log.pcap
+
+Partial Exports - Missing appraisal info:
+ABFC9A8B:Bracelet
+ABFC9A93:Rowan Talisman
+ABFC9A8F:Powdered Moonstone
+ABFC9A90:Wormwood
+ABFC9A97:Green Taper
+ABFC9A91:Brimstone
+ABFC9A92:Colcothar
+ABFC9A94:Cadmia
+ABFC9A95:Poplar Talisman
+ABFC9A96:Powdered Onyx
+ABFC9A98:White Taper
+ABFC9A99:Copper Scarab
+ABFC9A9A:Silver Scarab
+ABFC9A9C:Vitriol
+ABFC9A9D:Ginseng
+ABFC9AA1:Gypsum
+ABFC9A9E:Quicksilver
+ABFC9A9F:Hyssop
+ABFC9AA4:Cedar Talisman
+ABFC9AA0:Saffron
+ABFC9AA2:Realgar
+ABFC9AA3:Cobalt
+ABFC9AA5:Lead Scarab
+ABFC9AA6:Mugwort
+ABFC9AA7:Powdered Amber
+ABFC9AA8:Cinnabar
+ABFC9AA9:Yew Talisman
+ABFC9AAA:Willow Talisman
+ABFC9AAB:Powdered Bloodstone
+ABFC9AAC:Powdered Agate
+ABFC9AB0:Sack
+ABFC9AAD:Mandrake
+ABFC9AAE:Mandrake
+ABFC9AB6:Some Changes for February 2012
+ABFC9AAF:Powdered Hematite
+ABFC9AB1:Trade Note (100)
+ABFC9AB2:Trade Note (100)
+ABFC9AB3:Trade Note (100)
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,202 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-packet-logs\pkt_2017-1-30_1485809049_log.pcap
+
+Partial Exports - Missing appraisal info:
+AE5DC31A:Pyreal
+AE5DC31B:Pyreal
+AE5DC2EE:Gypsum Pea
+AE5DC2EF:Concentrated Aqua Incanta
+AE5DC2F0:Vitriol Pea
+AE5DC2F1:Realgar Pea
+AE5DC2F2:Dusty Scrap of Paper
+AE5DC2F3:Torch
+AE5DC2F4:Dagger
+AE5DC2F5:Smock
+AE5DC304:Bone Handle
+AE5DC2F6:Faran Robe with Hood
+AE5DC2F7:Thaumaturgic Plate Leggings
+AE5DC31C:Pyreal
+AE5DC2F8:Thaumaturgic Plate Girth
+AE5DC2F9:Blackmoor's Favor
+AE5DC305:Bone Handle
+AE5DC2FA:Lightning Nabut
+AE5DC306:Devana's Note
+AE5DC2FC:Koujia Leggings
+AE5DC2FD:Lightning Nekode
+AE5DC307:Peerless Lockpick
+AE5DC2FE:Acid Jambiya
+AE5DC2FF:Scimitar
+AE5DC300:Diforsa Sleeves
+AE5DC301:Studded Leather Leggings
+AE5DC308:Peerless Lockpick
+AE5DC309:Great Mana Charge
+AE5DC30A:Great Mana Charge
+AE5DC30B:Great Mana Charge
+AE5DC30C:Eye Dropper
+AE5DC30D:Great Mana Charge
+AE5DC30E:Knorr Academy Pauldrons
+AE5DC30F:Lorica Helm
+AE5DC319:Foundry Key
+AE5DC310:Studded Leather Shirt
+AE5DC311:Celdon Breastplate
+AE5DC312:Lightning Knuckles
+AE5DC313:Koujia Leggings
+AE5DC31D:Pyreal
+AE5DC314:Partizan
+AE5DC315:Leather Tassets
+AE5DC318:Pack
+AE5DC316:Crown
+AE5DC317:Nariyid Gauntlets
+AE5DC31E:Pyreal
+AE5DC31F:Pyreal
+AE5DC320:Pyreal
+AE5DC321:Pyreal
+AE5DC322:Pyreal
+AE5DC323:Trade Mana Elixir
+AE5DC324:Carving Knife
+AE5DC325:Quicksilver Pea
+AE5DC326:Oswald's Dagger
+AE5DC327:Poofy Snowball
+AE5DC328:Magic Iceball
+AE5DC329:Acid Dagger
+AE5DC32A:Kaskara
+AE5DC32B:Haebrean Girth
+AE5DC32C:Scalemail Greaves
+AE5DC334:Pyreal
+AE5DC32E:Slashing Baton
+AE5DC32F:Chainmail Tassets
+AE5DC332:Skull Mask
+AE5DC330:Pack
+AE5DC331:Key to Hamud's Chambers
+AE5DC333:Silvery Key
+AE5DC335:Pyreal
+AE5DC336:Pyreal
+AE5DC337:Pyreal
+AE5DC338:Pyreal
+AE5DC339:Hammer of Frore
+AE5DC33A:Sclavus Skin Helmet
+AE5DC33B:Dericost Blade
+AE5DC33C:Heavy Bracelet
+AE5DC33D:Turban
+AE5DC33F:Teardrop Crown
+AE5DC33E:Celdon Leggings
+AE5DC340:Scimitar
+AE5DC346:Flanged Mace
+AE5DC341:Studded Leather Cowl
+AE5DC342:Chiran Leggings
+AE5DC343:Olthoi Koujia Kabuton
+AE5DC344:War Axe
+AE5DC34C:Superb Lockpick
+AE5DC345:Lorica Boots
+AE5DC347:Snake Skin Boots
+AE5DC348:Pack
+AE5DC349:Necklace
+AE5DC34A:Gorget
+AE5DC34B:Shirt
+AE5DC34D:Superb Lockpick
+AE5DC34E:Peerless Lockpick
+AE5DC34F:Leather Tassets
+AE5DC350:Studded Leather Pauldrons
+AE5DC351:Haebrean Gauntlets
+AE5DC352:Cloth Gloves
+AE5DC354:Pack
+AE5DC353:Baggy Breeches
+AE5DC355:Morning Star
+AE5DC361:Marble Keyring
+AE5DC356:Frost Morning Star
+AE5DC357:Frost Cestus
+AE5DC358:Naginata
+AE5DC359:Flaming Quarter Staff
+AE5DC35A:Spiked Club
+AE5DC35B:Lightning Morning Star
+AE5DC35C:Flaming Morning Star
+AE5DC35D:Lightning Katar
+AE5DC35F:Sturdy Steel Keyring
+AE5DC360:Sturdy Steel Keyring
+AE5DC362:Ursuin Hide Helmet
+AE5DC363:Ursuin Hide Coat
+AE5DC364:Pack Asheron
+AE5DC365:Intricate Carving Tool
+AE5DC369:Heavy Crossbow
+AE5DC36A:Mana-infused Acid War Staff of Aerfalle
+AE5DC36B:Aerfalle's Mana-infused Pallium
+AE5DC36C:Heaume
+AE5DC36D:Celdon Leggings
+AE5DC37F:Some Changes for February 2012
+AE5DC36F:Empowered Helm of the Perfect Light
+AE5DC371:Salvaged  (100)
+AE5DC372:Salvaged  (100)
+AE5DC373:Shou-jen Shozoku Sleeve Gauntlets
+AE5DC374:Shou-jen Shozoku Trousers
+AE5DC375:Shou-jen Shozoku Jacket
+AE5DC376:Shou-jen Jika-Tabi
+AE5DC377:Shou-jen Shozoku Sleeve Gauntlets
+AE5DC378:Shou-jen Shozoku Sleeve Gauntlets
+AE5DC379:Shou-jen Jika-Tabi
+AE5DC37A:Shou-jen Jika-Tabi
+AE5DC37B:Shou-jen Shozoku Jacket
+AE5DC37C:Shou-jen Jika-Tabi
+AE5DC37D:Shou-jen Jika-Tabi
+AE5DC393:Frost Spear
+AE5DC380:Platemail Breastplate
+AE5DC381:Koujia Breastplate
+AE5DC382:Hand Wraps
+AE5DC383:Nariyid Gauntlets
+AE5DC384:Chainmail Coif
+AE5DC39A:Flaming Cestus
+AE5DC385:Chainmail Gauntlets
+AE5DC386:Long Leather Gauntlets
+AE5DC387:Leather Vest
+AE5DC388:Haebrean Vambraces
+AE5DC389:Covenant Gauntlets
+AE5DC38A:Nariyid Boots
+AE5DC38B:Olthoi Helm
+AE5DC38C:Studded Leather Pauldrons
+AE5DC38D:Shoes
+AE5DC38E:Lyceum Hood
+AE5DC38F:Flared Pants
+AE5DC390:Lorica Gauntlets
+AE5DC391:Studded Leather Leggings
+AE5DC392:Frost Claw
+AE5DC394:Lightning Hand Wraps
+AE5DC395:Kasa
+AE5DC396:Knorr Academy Helm
+AE5DC397:Acid Crossbow
+AE5DC399:Acid Pike
+AE5DC398:Nariyid Helm
+AE5DC39B:Bracelet
+AE5DC39D:Schlager
+AE5DC39C:Haebrean Breastplate
+AE5DC39E:Steel Toed Boots
+AE5DC39F:Tenassa Breastplate
+AE5DC3A0:Chainmail Gauntlets
+AE5DC3A1:Chainmail Gauntlets
+AE5DC3A2:Leather Pants
+AE5DC3A3:Circlet
+AE5DC3A4:Crown
+AE5DC3AB:Coronet
+AE5DC3A5:Heavy Bracelet
+AE5DC3A6:Acid Claw
+AE5DC3AF:Kote
+AE5DC3A7:Studded Leather Boots
+AE5DC3A8:Olthoi Celdon Gauntlets
+AE5DC3A9:Katar
+AE5DC3AA:Hood
+AE5DC3AC:Fez
+AE5DC3AD:Nariyid Leggings
+AE5DC3AE:Lorica Boots
+AE5DC3B0:Cloth Cap
+AE5DC3B1:Studded Leather Cuirass
+AE5DC3B2:Nariyid Helm
+AE5DC3B3:Amulet
+AE5DC3B8:Heavy Bracelet
+AE5DC3B4:Olthoi Alduressa Coat
+AE5DC3B5:Olthoi Alduressa Coat
+AE5DC3B6:Studded Leather Bracers
+AE5DC3B7:Haebrean Breastplate
+AE5DC3B9:Leather Shorts
+AE5DC3BA:Nariyid Boots
+AE5DC3BB:Alduressa Helm
+AE5DC3BC:Platemail Hauberk
+
+Missing Exports - Possessed items that were not found:

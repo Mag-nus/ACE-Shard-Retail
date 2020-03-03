@@ -1,0 +1,117 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-27_1485541031_log.pcap
+
+Partial Exports - Missing appraisal info:
+CC003672:Pyreal
+CC003616:Smock
+CC003617:Trousers
+CC003618:Ust
+CC003619:Mud Golem Essence
+CC00361A:Foci of Strife
+CC00361B:Foci of Verdancy
+CC00361C:Blackmoor's Favor
+CC00361D:Facility Hub Portal Gem
+CC00361E:Titan Mana Charge
+CC00361F:Titan Mana Charge
+CC003620:Pathwarden Gauntlets
+CC003621:Pathwarden Trinket
+CC003622:Great Mana Charge
+CC003623:A Book of Quests for Young Explorers
+CC00362A:Lightning Elemental Essence (50)
+CC003676:Pyreal
+CC00362B:Frost Skeleton Minion Essence (50)
+CC00362C:Hearty Reedshark Robe
+CC00362D:Encapsulated Spirit
+CC00362E:Pack
+CC00362F:Pack
+CC003630:Battle Pants
+CC003631:Battle Pants
+CC003632:Battle Pants
+CC003633:Battle Pants
+CC003634:Battle Pants
+CC003635:Battle Pants
+CC003636:Battle Pants
+CC003637:Battle Pants
+CC003638:Battle Pants
+CC003639:Battle Pants
+CC00363A:Battle Pants
+CC00363B:Battle Pants
+CC00363C:Battle Pants
+CC00363D:Battle Pants
+CC00363E:Battle Pants
+CC00363F:Battle Pants
+CC003640:Battle Pants
+CC003641:Battle Pants
+CC003642:Battle Pants
+CC003643:Battle Pants
+CC003644:Battle Pants
+CC003645:Battle Pants
+CC003646:Battle Pants
+CC003647:Battle Pants
+CC003648:Pack
+CC003649:Platinum Scarab
+CC00364A:Prismatic Taper
+CC00364B:Copper Scarab
+CC00364C:Silver Scarab
+CC00364D:Gold Scarab
+CC00364E:Pyreal Scarab
+CC00364F:Iron Scarab
+CC003650:Prismatic Taper
+CC003651:Lead Scarab
+CC003652:Iron Pea
+CC003653:Trade Note (250,000)
+CC003654:Foci of Enchantment
+CC003655:Battle Pants
+CC003656:Battle Pants
+CC003657:Battle Pants
+CC003658:Battle Pants
+CC003659:Battle Pants
+CC00365A:Battle Pants
+CC00365B:Battle Pants
+CC00365C:Battle Pants
+CC00365D:Battle Pants
+CC00365E:Battle Pants
+CC00365F:Battle Pants
+CC003660:Battle Pants
+CC003661:Battle Pants
+CC003662:Battle Pants
+CC003663:Battle Pants
+CC003664:Battle Pants
+CC003665:Battle Pants
+CC003666:Battle Pants
+CC003667:Battle Pants
+CC003668:Battle Pants
+CC003669:Battle Pants
+CC00366A:Battle Pants
+CC00366B:Battle Pants
+CC00366C:Battle Pants
+CC00366D:Battle Pants
+CC00366E:Battle Pants
+CC00366F:Battle Pants
+CC003670:Battle Pants
+CC003671:Battle Pants
+CC003673:Battle Pants
+CC003674:Battle Pants
+CC003675:Battle Pants
+CC003677:Pyreal
+CC003678:Pyreal
+CC003679:Pyreal
+CC00367A:Foci of Artifice
+CC00367B:Fire Phyntos Wasp Essence (80)
+CC00367C:Lightning Phyntos Wasp Essence (80)
+CC00367D:Copper Pea
+CC00367E:Acid Grievver Essence (50)
+CC003688:Brentsella's Key
+CC00367F:Celdon Girth
+CC003680:Fire Grievver Essence (50)
+CC003682:Gold Golem Essence
+CC003683:Gold Golem Essence
+CC003684:Gold Golem Essence
+CC003685:Gold Golem Essence
+CC003686:Gold Golem Essence
+CC003689:Fire Phyntos Wasp Essence (50)
+CC00368A:Rithwic Town Stamp
+CC00368B:Academy Wand
+CC00368C:Seasoned Explorer Baton
+
+Missing Exports - Possessed items that were not found:

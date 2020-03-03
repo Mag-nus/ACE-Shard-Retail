@@ -1,0 +1,92 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-29_1485669423_\pkt_2017-1-29_1485669423_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-26_1485490272_\pkt_2017-1-26_1485490272_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-27_1485546237_\pkt_2017-1-27_1485546237_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-27_1485565984_\pkt_2017-1-27_1485565984_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-27_1485573948_\pkt_2017-1-27_1485573948_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-27_1485573948_\pkt_2017-1-27_1485573948_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-27_1485573948_\pkt_2017-1-27_1485573948_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-27_1485573948_\pkt_2017-1-27_1485573948_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-27_1485573948_\pkt_2017-1-27_1485573948_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-28_1485579615_\pkt_2017-1-28_1485579615_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-28_1485579615_\pkt_2017-1-28_1485579615_log.pcap
+
+Partial Exports - Missing appraisal info:
+8081B83C:Pink Taper
+8087AAE1:Orange Taper
+808044AD:Red Taper
+8087AC90:Yellow Taper
+8087A7F0:Green Taper
+80893D76:Turquoise Taper
+80878C25:Blue Taper
+8087AB39:Indigo Taper
+807D6276:Violet Taper
+807F6855:Brown Taper
+80893FC1:White Taper
+807DA45E:Grey Taper
+9CA09DD5:Aphus Lassel Portal Gem
+807D7F79:Pyreal
+80804544:Lead Scarab
+8087AA7C:Copper Scarab
+80846964:Iron Scarab
+807C8665:Hyssop
+807B6544:Mandrake
+808A13BA:Saffron
+8087AAC3:Silver Scarab
+808A13BD:Mugwort
+808164F1:Wormwood
+80830655:Gold Scarab
+80815C06:Ginseng
+80879DE6:Eyebright
+8087AAD6:Diamond Scarab
+8087AAF3:Dragonsblood
+80878BBC:Comfrey
+8087AABB:Hawthorn
+8087AAA8:Damiana
+807DC4C0:Yarrow
+8087AAF1:Powdered Agate
+8087AABF:Powdered Bloodstone
+8087AADB:Powdered Carnelian
+8087AA87:Powdered Malachite
+8087AD08:Powdered Hematite
+8087AB6B:Excellent Healing Kit
+80830625:Powdered Turquoise
+807F1C2A:Excellent Healing Kit
+807F516E:Brimstone
+8087AC20:Cinnabar
+8087AEE4:Gypsum
+8087AAC9:Poplar Talisman
+8081BE13:Realgar
+8087AC1C:Stibnite
+80813967:Blackthorn Talisman
+80773DB4:Turpeth
+8087AAFF:Verdigris
+8087AAD1:Yew Talisman
+807FB908:Hemlock Talisman
+8081390D:Powdered Amber
+8087AC5A:Colcothar
+807EE52A:Alder Talisman
+80878C4D:Ebony Talisman
+8087AE47:Birch Talisman
+8089594D:Ashwood Talisman
+807F1DBC:Rowan Talisman
+8087A858:Willow Talisman
+8087A45F:Cedar Talisman
+8087AB09:Oak Talisman
+8081C802:Hazel Talisman
+80878C50:Calling Stone
+8087AC87:Blackmoor's Favor
+9C948D84:Pyreal
+807DBE6D:Pack Ancient Olthoi Queen
+9C996983:Facility Hub Portal Gem
+9CA0846B:Copper Pea
+808A5485:Shadow's Garb
+9CA0846A:Gorget
+9C9BA714:Frost Grievver Essence (50)
+9C2751B3:Carved Key
+9C275C31:Small Carved Key
+9C957D14:Sandals
+
+Missing Exports - Possessed items that were not found:

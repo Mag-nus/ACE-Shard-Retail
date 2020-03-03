@@ -1,0 +1,41 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (3710969505, 39369, 38, 2150720) /* Gem */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (3710969505,   1,       2048) /* ItemType - Gem */
+     , (3710969505,   5,         10) /* EncumbranceVal */
+     , (3710969505,  16,         32) /* ItemUseable - Remote */
+     , (3710969505,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (3710969505,  94,         16) /* TargetType - Creature */
+     , (3710969505, 151,          9) /* HookType - Floor, Yard */
+     , (3710969505, 8007,          0) /* PCAPRecordedAutonomousMovement */
+     , (3710969505, 9015,         77) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (3710969505,   1, False) /* Stuck */
+     , (3710969505,  11, True ) /* IgnoreCollisions */
+     , (3710969505,  13, True ) /* Ethereal */
+     , (3710969505,  14, True ) /* GravityStatus */
+     , (3710969505,  19, True ) /* Attackable */
+     , (3710969505,  22, True ) /* Inscribable */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (3710969505,  39,    0.25) /* DefaultScale */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (3710969505,   1, 'Pack T''thuun') /* Name */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (3710969505,   1,   33560662) /* Setup */
+     , (3710969505,   2,  150995444) /* MotionTable */
+     , (3710969505,   3,  536871015) /* SoundTable */
+     , (3710969505,   8,  100671186) /* Icon */
+     , (3710969505,  22,  872415332) /* PhysicsEffectTable */
+     , (3710969505, 8001,  271073296) /* PCAPRecordedWeenieHeader - Usable, Container, TargetType, Burden, HookType */
+     , (3710969505, 8003,         18) /* PCAPRecordedObjectDesc - Inscribable, Attackable */
+     , (3710969505, 8005,      71811) /* PCAPRecordedPhysicsDesc - CSetup, MTable, ObjScale, STable, PeTable, Movement */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (3710969505,   1, 1343233094) /* Owner */
+     , (3710969505,   2, 1343233094) /* Container */
+     , (3710969505, 8000, 3710969505) /* PCAPRecordedObjectIID */;

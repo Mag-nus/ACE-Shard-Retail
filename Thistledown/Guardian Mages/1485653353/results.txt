@@ -1,0 +1,146 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Miach-Larrys-Ruined-Garden-pcap\pkt_2017-1-28_1485653299_log.pcap
+
+Partial Exports - Missing appraisal info:
+86FB1C58:Inert Mucor
+86FB1C52:Foci of Enchantment
+86FB1C53:Foci of Verdancy
+86FB1C54:Foci of Strife
+86FB1C55:Foci of Artifice
+86FB1C56:Pack
+86FB1C57:Blackmoor's Favor
+86FB1C59:Grand Mother's Medallion
+86FB1C5A:Forager Captain's Resonator
+86FB1C5C:Tattered Virindi Cloak
+86FB1C5B:Tanada Clan Master's Medallion
+86FB1C5D:Emblem of Aged Blood
+AB60E062:Sturdy Steel Key
+86FB1C5E:Emblem of Serpent's Hold
+86FB1C5F:Redspire Portal Gem
+ABAEFD83:Elaborate Scroll
+86FB1C60:Yanshi Portal Gem
+86FB1C61:Vissidal Island Portal Gem
+86FB1CBB:Pyreal
+86FB1C62:Empowered Empyrean Robe
+86FB1C63:Small Belt Pouch
+86FB1C64:Lead Scarab
+86FB1C65:Iron Scarab
+86FB1C66:Pyreal Scarab
+86FB1C67:Saffron
+86FB1C68:Blank Augmentation Gem
+86FB1C69:Colosseum Coin
+86FB1C6A:Diamond Scarab
+86FB1C6B:Silver Scarab
+86FB1C6C:Gold Scarab
+86FB1C6D:Copper Scarab
+86FB1C6E:Empowered Breastplate of the Perfect Light
+86FB1C6F:Prismatic Taper
+86FB1C72:Platinum Scarab
+86FB1C70:Suikan Item Master Robe
+86FB1C71:Suikan War Master Robe
+86FB1C73:Ring of Shielding
+86FB1C79:Ust
+86FB1C7A:Pack
+86FB1C7B:Trade Note (250,000)
+86FB1C7C:Luminance, and the Paths of the Empyrean
+86FB1C7E:Stipend
+86FB1C7D:Nalicana's Test (Level 200+)
+86FB1C7F:Imbue Swap Coin
+86FB1C81:Promissory Note
+86FB1C80:Greater Gem of Knowledge
+86FB1C82:Boxed Colosseum Coin
+86FB1C83:Titan Mana Charge
+86FB1C84:Titan Mana Charge
+86FB1C85:Titan Mana Charge
+86FB1C86:Titan Mana Charge
+86FB1C87:Titan Mana Charge
+86FB1C88:Titan Mana Charge
+86FB1C89:Titan Mana Charge
+86FB1C8A:Titan Mana Charge
+86FB1C8B:Titan Mana Charge
+86FB1C97:Haebrean Boots
+86FB1C98:Ornate Bone Key
+86FB1C99:Ancient Mhoire Coin
+86FB1C9B:Visage of Menilesh
+86FB1C9C:Lord Cynreft's Ancient Emblem of Mhoire
+86FB1CA5:Orb of the Bunny Booty
+86FB1CA6:Brood Matron Nymph Tibia
+86FB1CAF:Encapsulated Spirit
+86FB1CBC:Pants
+86FB1CC8:Saulandoi
+86FB1CBD:Heavy Bracelet
+86FB1CBE:Ancient Falatacot Trinket
+86FB1CC1:Amulet
+86FB1CCE:Quiddity Orb
+88868474:Sturdy Iron Key
+88856015:Bracelet
+86FB1CB3:Acid Baton
+888A3B83:Salvage (97)
+AB14B011:Good Lockpick
+888A4085:Scroll of Destructive Curse VII
+86FB1CAE:Frost Sceptre
+8887125C:Bordered Cloak
+86FB1CA9:Piercing Sceptre
+AB14B03F:Good Lockpick
+86FB1CC6:Slashing Baton
+86FB1CC7:Taulandoi
+AB5729D6:Ecorto's Chisel
+AB59CCB5:Facility Hub Portal Gem
+86FB1CAC:Enhanced White Empyrean Ring
+86FB1CAD:Enhanced Red Empyrean Ring
+AB95A3D4:Viamontian Pennant
+86FB1CAB:Pathwarden Trinket
+86FB1C92:Peerless Drudge Charm Necklace
+AB597F92:Shoes
+86FB1C93:Trousers
+86FB1C94:Tunic
+AB5F61E3:Virindi Singularity Key
+AB59428F:Broken Virindi Consul Mask
+AB614A68:Helm of the Simulacra
+AB56E095:Amuli Leggings
+AB603AF5:Amuli Coat
+ABC38D90:Textbook
+AB60DBAC:Shield of the Simulacra
+86FB1CCF:Thorsten's Crystal
+86FB1CD0:Zefir's Crystal
+86FB1CD1:Gelid's Jewel
+86FB1CD2:Thorsten's Crystal
+86FB1CD3:Elysa's Crystal
+86FB1CD4:Enchanter's Crystal
+86FB1CD5:Thorsten's Crystal
+88868CF8:Oswald's Crystal
+86FB1CD6:Deceiver's Crystal
+86FB1CD7:Converter's Crystal
+86FB1CD8:Alchemist's Crystal
+86FB1CD9:Thorsten's Crystal
+86FB1CDB:Heavy Bracelet
+86FB1CDD:Blunt Baton
+86FB1CCA:Ancient Armored Gauntlets
+888806BE:Bandana
+AB5B35CB:Homecoming Pennant
+AB5E4125:Ancient Empyrean Trinket
+86FB1CCB:Ancient Armored Leggings
+86FB1CCC:Ancient Armored Bracers
+ABD003FE:Lugian Scout Report
+86FB1CCD:Ancient Armored Vestment
+86FB1CDC:Heavy Bracelet
+ABA1B0D6:Bai Den's Bracelet
+86FB1C96:Bandana
+AB61F19C:Imbued Asteliary Orb
+AB9FDA34:Deteriorated Aegis
+ABA1ACCF:Lou Ka's Shouken
+ABA1AF92:Lou Ka's Katar
+ABA1AE05:Bai Den's Necklace
+ABA1AFA0:Lou Ka's Trident
+ABAD0648:Quiddity Orb
+ABAE5261:Major Shivering Stone
+ABC38DCC:Major Sparking Stone
+ABC6EC08:Adventurer's warning
+ABC6EBF4:Nexus Commander's Helm
+ABC6EBF3:Nexus Commander's Orders
+86FB1CB2:Fire Baton
+ABD0031C:Armoredillo Hide Collection Bag
+ABC89D1A:Lugian Armor
+86FB1CB1:Electric Sceptre
+
+Missing Exports - Possessed items that were not found:

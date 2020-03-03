@@ -1,0 +1,130 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-22_1485134283_log.pcap
+
+Partial Exports - Missing appraisal info:
+808212BE:Foci of Artifice
+808212BF:Pack
+808212C6:Treated Wood
+808212C1:First Half of a Worn Dagger
+808212C2:First Half of a Worn Sword
+808212C3:First Half of a Worn Staff
+808212C4:Plate Armoredillo Spine
+808212C5:Second Half of a Worn Atlatl
+808212C8:Gloves
+808212C9:Black Ball in a Stein
+808212CB:Black Ball in a Stein
+808212CC:Black Ball in a Stein
+808212CD:Swamp Stone
+808212CE:Swamp Stone
+808212D0:Yellow Jewel
+808212D2:Ulgrim's Contest Mug
+808212D3:Fish Stamp
+808212D4:Shendolain Key
+808212D5:Caulnalain Key
+808212D6:Sharp Tusker Slave Tusk
+808212D7:Sharp Tusker Slave Tusk
+808212D8:Pack
+808212D9:Black Marrow Keyring
+808212DB:Black Ball
+808212DC:Seared Shard
+808212E0:Chilled Shard
+808212E1:Pyreal Golem Heart
+808212E2:Pyreal Golem Heart
+808212E3:Crystal Nodule
+808212E4:Crystal Nodule
+808212E5:Homecoming Pennant
+808212E6:Homecoming Pennant
+808212E7:Herald Flag
+808212E9:Untranslated Writing
+808212EA:Sharp Tusker Slave Tusk
+808212EE:Ursuin Rug
+808212F0:Large Lugian Sinew
+808212F1:Pack
+808212F5:Set Dinner Table
+80821306:Snowflower
+808212F6:Scroll of Nuhmudira's Blessing
+808212F7:Scroll of Icy Boon
+808212F8:Scroll of Hieromancer's Boon
+808212F9:Scroll of Cabalastic Ostracism
+808212FA:Scroll of Tusker's Gift
+808212FB:Scroll of Executor's Boon
+808212FC:Scroll of Fiery Boon
+808212FD:Scroll of Olthoi's Bane
+808212FE:Scroll of Nuhmudira's Blessing
+808212FF:Scroll of Missile Weapon Mastery Self VII
+80821300:Scroll of Saladur's Blessing
+80821303:Shendolain Key
+80821304:Seal
+80821305:Dark Revenant Thighbone
+8082130A:Pack
+8082130D:Kireth Gown with Band
+80821322:Shendolain Key
+8082130E:Peerless Drudge Charm
+8082130F:Aura of Infected Spirit Caress Scroll
+80821318:Pedestal with a Floral Arrangement
+80821316:Asheron's Supreme Raiment
+80821323:Basket
+8082131C:Tenets of the Radiant Blood
+8082131D:Principles of the Celestial Hand
+8082131F:Canon of the Eldrytch Web
+80821321:Seal
+8082132A:Moarsmuck
+8082132B:Scroll of Inferno Bait
+80821330:First Half of a Worn Bow
+80821345:Black Ball
+80821335:Blighted Moarsmen Scale
+80821336:Blighted Moarsmen Scale
+80821337:Blighted Moarsmen Scale
+8082133A:Orange Monster Seed
+8082133B:Emerald Gromnie Eye
+80821340:Jungle Phyntos Wasp Wing
+8082133E:Monouga Laboratory Portal Attunement Gem
+8082133F:Decanter of Essence
+80821347:Ust
+80821341:Pulsating Bony Lump
+8082134A:Pack Asheron
+8082134D:Jungle Phyntos Wasp Wing
+8082134E:Jungle Phyntos Wasp Wing
+8082134F:Jungle Phyntos Wasp Wing
+80821350:Large Lugian Sinew
+80821351:Jungle Phyntos Wasp Wing
+80821352:Large Lugian Sinew
+80821353:Large Lugian Sinew
+80821361:Sack
+80821374:Warding Ring
+80821359:Large Lugian Sinew
+8082135A:Small Bundle of Strand Siraluun Feathers
+8082135B:Yellow Monster Seed
+8082135C:Sandy Armoredillo Spine
+8082136F:Black Ball in a Stein
+80821362:Salvaged  (100)
+80821363:Salvaged  (100)
+80821364:Salvaged  (100)
+80821376:Le-Ai Rea's Key
+80821365:Salvaged  (100)
+80821366:Salvaged  (100)
+80821377:Sturdy Steel Key
+80821368:Salvage
+80821369:Salvaged  (100)
+8082136A:Salvaged  (100)
+80821378:Sturdy Steel Key
+8082136B:Salvaged  (100)
+8082136C:Salvaged  (100)
+8082138A:Sturdy Steel Key
+8082136D:Salvaged  (100)
+80821370:Pack Martine
+80821379:Celdon Leggings
+8082138B:Sturdy Steel Key
+8082137B:Invitation Wedding Hall
+8082137C:Invitation Wedding Hall
+8082137D:Invitation Wedding Hall
+8082137E:Invitation Wedding Hall
+8082137F:Invitation Wedding Hall
+80821380:Invitation Wedding Hall
+8082138C:Sturdy Steel Key
+80821381:Invitation Wedding Hall
+80821382:Invitation Wedding Hall
+80821383:Invitation Wedding Hall
+80821384:Auroric Runic Helm
+
+Missing Exports - Possessed items that were not found:

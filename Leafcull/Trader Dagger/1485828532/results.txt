@@ -1,0 +1,133 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-packet-logs\pkt_2017-1-30_1485828443_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-packet-logs\pkt_2017-1-30_1485828443_log.pcap
+
+Partial Exports - Missing appraisal info:
+AE6774D1:Sack
+AE6774D2:Letter From Home
+AE6774D3:Lead Scarab
+AE6774D4:Bread
+AE6774D5:Prismatic Taper
+AE6774D7:Ust
+AE6774D8:Blackmoor's Favor
+AE6774D9:Academy Coat
+AE6774DA:Pyreal
+AE6774DB:Foci of Artifice
+AE6774DC:Foolproof Black Garnet
+AE67750E:Diamond Powder
+AE6774DD:Foolproof Black Garnet
+AE6774DE:Foolproof Aquamarine
+AE6774DF:Foolproof Emerald
+AE6774E0:Foolproof Fire Opal
+AE6774E1:Foolproof Fire Opal
+AE6774E2:Foolproof Sunstone
+AE6774E3:Foolproof Emerald
+AE6774E5:Foolproof Aquamarine
+AE6774E6:Foolproof Emerald
+AE6774E7:Foolproof Sunstone
+AE67750F:Diamond Powder
+AE6774E8:Foolproof Yellow Topaz
+AE6774E9:Foolproof Fire Opal
+AE6774EA:Foolproof Aquamarine
+AE6774EB:Foolproof Sunstone
+AE6774EC:Foolproof Black Garnet
+AE6774EF:Foolproof Yellow Topaz
+AE6774F0:Foolproof Emerald
+AE6774F1:Foolproof Emerald
+AE677510:Diamond Powder
+AE6774F2:Foolproof Zircon
+AE6774F3:Foolproof Sunstone
+AE677511:Diamond Powder
+AE6774F4:Foolproof Zircon
+AE6774F5:Foolproof Zircon
+AE677512:Diamond Powder
+AE6774F6:Foolproof Zircon
+AE6774F7:Foolproof Black Opal
+AE6774F8:Pack
+AE6774F9:Pyreal Nugget
+AE6774FA:Pyreal Nugget
+AE6774FB:Pyreal Nugget
+AE6774FC:Pyreal Nugget
+AE6774FD:Pyreal Nugget
+AE6774FE:Pyreal Nugget
+AE6774FF:Pyreal Nugget
+AE677500:Pyreal Nugget
+AE677501:Pyreal Nugget
+AE677502:Pyreal Nugget
+AE677503:Pyreal Nugget
+AE677504:Pyreal Nugget
+AE677505:Pyreal Nugget
+AE677506:Pyreal Nugget
+AE677507:Pyreal Nugget
+AE677508:Pyreal Nugget
+AE677509:Pyreal Nugget
+AE67750A:Pyreal Nugget
+AE67750B:Pyreal Nugget
+AE67750C:Pyreal Nugget
+AE67750D:Pack
+AE677513:Diamond Powder
+AE677514:Diamond Powder
+AE677515:Diamond Powder
+AE677516:Diamond Powder
+AE677517:Diamond Powder
+AE677518:Pack
+AE677519:Diamond Powder
+AE67751A:Diamond Powder
+AE67751B:Diamond Powder
+AE67751C:Diamond Powder
+AE67751D:Diamond Powder
+AE67751E:Diamond Powder
+AE67751F:Diamond Powder
+AE677520:Diamond Powder
+AE677521:Diamond Powder
+AE677522:Diamond Powder
+AE677523:Diamond Powder
+AE677524:Diamond Powder
+AE677525:Diamond Powder
+AE677526:Diamond Powder
+AE677527:Diamond Powder
+AE677528:Diamond Powder
+AE677529:Diamond Powder
+AE67752A:Diamond Powder
+AE67752B:Diamond Powder
+AE67752C:Diamond Powder
+AE67752D:Diamond Powder
+AE67752E:Diamond Powder
+AE67752F:Diamond Powder
+AE677530:Diamond Powder
+AE677531:Pack
+AE677532:Pack
+AE677533:Diamond Powder
+AE677534:Diamond Powder
+AE677535:Diamond Powder
+AE677536:Diamond Powder
+AE677537:Diamond Powder
+AE677538:Diamond Powder
+AE677539:Diamond Powder
+AE67753A:Diamond Powder
+AE67753B:Diamond Powder
+AE67753C:Diamond Powder
+AE67753D:Diamond Powder
+AE67753E:Diamond Powder
+AE67753F:Diamond Powder
+AE677540:Diamond Powder
+AE677541:Diamond Powder
+AE677542:Diamond Powder
+AE677543:Diamond Powder
+AE677544:Diamond Powder
+AE677545:Diamond Powder
+AE677546:Diamond Powder
+AE677547:Diamond Powder
+AE677548:Diamond Powder
+AE677549:Diamond Powder
+AE67754A:Diamond Powder
+AE67754B:Diamond Scarab
+AE67754C:Diamond Scarab
+AE67754D:Pyreal Sliver
+AE67754E:Foolproof Imperial Topaz
+AE67754F:Ancient Falatacot Trinket
+AE677550:Imbue Swap Coin
+
+Missing Exports - Possessed items that were not found:

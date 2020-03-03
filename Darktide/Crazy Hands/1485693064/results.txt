@@ -1,0 +1,214 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-3\pkt_2017-1-29_1485691355_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-31_1485858014_log.pcap
+
+Partial Exports - Missing appraisal info:
+80AB2B29:Pack
+80AB2B2A:Small Belt Pouch
+AD365B35:Corrupted Amber: Breastplate of the Corrupted Soul.
+80AB2B36:Chevron Cloak
+AD418A35:Corrupted Amber: Greaves of the Corrupted Soul.
+80AB2B37:Quartered Cloak
+AD2D9187:Corrupted Amber: Pauldrons of the Corrupted Heart.
+CB725707:Chevron Cloak
+AD3BEEAE:Corrupted Amber: Bracers of the Corrupted Heart.
+CCAD4A2E:Chevron Cloak
+ACE550E4:Corrupted Amber: Helm of the Corrupted Heart.
+AD32A3D4:Corrupted Amber: Girth of the Corrupted Soul.
+AD38A611:Corrupted Amber: Tassets of the Corrupted Soul.
+80AB2AFA:Cloak
+AD45343C:Corrupted Amber: Gauntlets of the Corrupted Heart.
+80AB2AF7:Cloak
+AD0B3E62:Corrupted Amber: Sollerets of the Corrupted Heart.
+80AB2AF4:Quartered Cloak
+80AB2AF6:Chevron Cloak
+A715E43C:Aetheria
+B2549BF8:Aetheria
+80806519:Aetheria
+800DBDFD:Aetheria
+808077FC:Aetheria
+80AB2B46:Aetheria
+80AB2B39:Aetheria
+9936DB57:Burning Coal
+9936DB52:Burning Coal
+9936DB59:Burning Coal
+9936DB51:Burning Coal
+9936DB50:Burning Coal
+9936DB47:Burning Coal
+9936DB4E:Burning Coal
+9936DB55:Burning Coal
+9936DB4C:Burning Coal
+9936DB4A:Burning Coal
+9936DB49:Burning Coal
+9936DB4F:Burning Coal
+9936DB53:Burning Coal
+9936DB44:Burning Coal
+A715E360:Burning Coal
+A715E361:Burning Coal
+A715E362:Burning Coal
+A715E363:Burning Coal
+A715E35F:Burning Coal
+A715E368:Burning Coal
+A715E364:Burning Coal
+A715E365:Burning Coal
+A715E369:Burning Coal
+9936D8B2:Burning Coal
+8D07E9B7:Pack
+800DBDE9:Chevron Cloak
+80AB2B02:Bordered Cloak
+CE348145:Small Belt Pouch
+80807834:Trimmed Cloak
+80AB2B27:Bordered Cloak
+A715E355:Burning Coal
+80AB2B2D:Chevron Cloak
+80806479:Halved Cloak
+A715E5D9:Essence of Cave Penguin
+CD0D1501:Quartered Cloak
+80AB2B35:Quartered Cloak
+BABBD6C2:Bordered Cloak
+80AB2B33:Quartered Cloak
+C4AF3527:Quartered Cloak
+80AB2B32:Chevron Cloak
+8080782D:Quartered Cloak
+80807835:Halved Cloak
+800DBDC8:Halved Cloak
+80AB2B19:Halved Cloak
+A715E5A8:Essence of Cave Penguin
+80AB2AF5:Trimmed Cloak
+80AB2B17:Quartered Cloak
+80AB2AFC:Bordered Cloak
+80AB2AF9:Quartered Cloak
+80AB2B3C:Chevron Cloak
+80AB2B3A:Cloak
+A715E436:Aetheria
+80AB2AF8:Bordered Cloak
+80AB2B28:Quartered Cloak
+ADBF8662:Aetheria
+808064F5:Aetheria
+AFC7AEC4:Aetheria
+808077FA:Aetheria
+800DBDEE:Aetheria
+BABBD6D1:Aetheria
+80806480:Aetheria
+800DBDED:Aetheria
+808077F9:Aetheria
+80AB2B41:Aetheria
+BB8D294C:Aetheria
+80AB2B40:Aetheria
+80AB2B06:Aetheria
+80AB2B42:Aetheria
+8009F116:Aetheria
+C07C1848:Aetheria
+C669D732:Aetheria
+80806507:Aetheria
+BABBD6CF:Aetheria
+8009F117:Aetheria
+B10716DA:Aetheria
+800DBE02:Aetheria
+CE1E057C:Pack
+CDDD941B:Gem of Knowledge
+C94A5236:Luminous Amber of the 27th Tier Paragon
+A715E3A2:Luminous Amber of the 23rd Tier Paragon
+B652C327:Gauntlet Backpack
+C94A5239:Luminous Amber of the 24th Tier Paragon
+C94A513C:Luminous Amber of the 23rd Tier Paragon
+C94A513D:Luminous Amber of the 22nd Tier Paragon
+C94A513E:Luminous Amber of the 21st Tier Paragon
+C94A513F:Luminous Amber of the 20th Tier Paragon
+C94A523E:Luminous Amber of the 19th Tier Paragon
+C94A5129:Luminous Amber of the 18th Tier Paragon
+C94A5128:Luminous Amber of the 16th Tier Paragon
+C94A5127:Luminous Amber of the 15th Tier Paragon
+C94A5126:Luminous Amber of the 14th Tier Paragon
+C94A5125:Luminous Amber of the 13th Tier Paragon
+C94A5221:Luminous Amber of the 12th Tier Paragon
+C94A5220:Luminous Amber of the 11th Tier Paragon
+C94A521F:Luminous Amber of the 10th Tier Paragon
+C94A521E:Luminous Amber of the 9th Tier Paragon
+C94A521D:Luminous Amber of the 8th Tier Paragon
+C94A521C:Luminous Amber of the 7th Tier Paragon
+C94A521B:Luminous Amber of the 6th Tier Paragon
+C94A521A:Luminous Amber of the 5th Tier Paragon
+C94A5219:Luminous Amber of the 4th Tier Paragon
+C94A5218:Luminous Amber of the 3rd Tier Paragon
+C94A5217:Luminous Amber of the 2nd Tier Paragon
+C94A5216:Luminous Amber of the 1st Tier Paragon
+C94A5238:Luminous Amber of the 25th Tier Paragon
+D096FC98:Luminous Amber of the 17th Tier Paragon
+CA4BC379:Empowered Amber: Gauntlets of Life
+D0BFF9B9:Empowered Amber: Greaves of Life
+D26DCCCD:Empowered Amber: Breastplate of Life
+BBE56AA7:Gauntlet Backpack
+C94A5138:Luminous Amber of the 27th Tier Paragon
+C94A5137:Luminous Amber of the 28th Tier Paragon
+C94A5136:Luminous Amber of the 29th Tier Paragon
+C94A5132:Luminous Amber of the 30th Tier Paragon
+C94A5135:Luminous Amber of the 31st Tier Paragon
+C94A5134:Luminous Amber of the 32nd Tier Paragon
+C94A5131:Luminous Amber of the 33rd Tier Paragon
+C94A5130:Luminous Amber of the 34th Tier Paragon
+C94A512F:Luminous Amber of the 35th Tier Paragon
+C94A512E:Luminous Amber of the 36th Tier Paragon
+C94A512D:Luminous Amber of the 37th Tier Paragon
+C94A5133:Luminous Amber of the 38th Tier Paragon
+C94A512C:Luminous Amber of the 39th Tier Paragon
+C94A512B:Luminous Amber of the 40th Tier Paragon
+C94A512A:Luminous Amber of the 41st Tier Paragon
+AD360D17:Luminous Amber: Girth of the Bulwark
+AD40B747:Luminous Amber: Sollerets of the Storm
+AD3CAAFA:Luminous Amber: Greaves of the Tower
+AD281F8B:Luminous Amber: Bracers of Thunderous Blows
+AD40B880:Luminous Amber: Tassets of the Tower
+AD449A58:Luminous Amber: Helm of Healing
+AD4074F0:Luminous Amber: Gauntlets of the Storm
+AD112679:Luminous Amber: Pauldrons of Thunderous Blows
+CDDECA72:Empowered Amber: Bracers of Life
+ACDAA19C:Luminous Amber: Breastplate of the Bulwark
+AF54646F:Empowered Amber: Helm of Life
+C94A5237:Luminous Amber of the 26th Tier Paragon
+BBE56D78:Infused Amber Shard
+BBE56D77:Infused Amber Shard
+BBE56D72:Infused Amber Shard
+BBE56D73:Infused Amber Shard
+BBE56D6F:Infused Amber Shard
+BBE56C29:Infused Amber Shard
+BBE56D75:Infused Amber Shard
+BBE56D70:Infused Amber Shard
+BBE56D71:Infused Amber Shard
+BBE56D6D:Infused Amber Shard
+BBE56D6E:Infused Amber Shard
+BBE56D74:Infused Amber Shard
+BBE56D79:Infused Amber Shard
+D35B4BE1:Infused Amber Shard
+D35B4BF4:Infused Amber Shard
+D35B4BD7:Infused Amber Shard
+D35B4BE0:Infused Amber Shard
+D35B4BF2:Infused Amber Shard
+D35B4BF1:Infused Amber Shard
+D35B4BDF:Infused Amber Shard
+D35B4BD5:Infused Amber Shard
+D35B4BF0:Infused Amber Shard
+D35B4BDE:Infused Amber Shard
+D35B4BE9:Infused Amber Shard
+D35B4BD6:Infused Amber Shard
+D35B4BEA:Infused Amber Shard
+D35B4BEB:Infused Amber Shard
+D35B4BF3:Infused Amber Shard
+C9F9B684:Greater Gem of Knowledge
+CFECBCED:Greater Gem of Knowledge
+CFECBCEE:Greater Gem of Knowledge
+CFECBCEC:Greater Gem of Knowledge
+C9F9B686:Greater Gem of Knowledge
+CFECBCEF:Greater Gem of Knowledge
+C9F9B687:Greater Gem of Knowledge
+D35B4BD9:Greater Gem of Knowledge
+D35B4BCE:Greater Gem of Knowledge
+D35B4BC5:Greater Gem of Knowledge
+D35B4BD8:Greater Gem of Knowledge
+D35B4BEC:Greater Gem of Knowledge
+D35B4BE2:Greater Gem of Knowledge
+CDDD93B5:Greater Gem of Knowledge
+
+Missing Exports - Possessed items that were not found:

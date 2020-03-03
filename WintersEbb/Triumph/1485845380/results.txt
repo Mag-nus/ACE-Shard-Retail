@@ -1,0 +1,184 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-31_1485843061_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-29_1485745157_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-29_1485745404_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-29_1485748455_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-29_1485748455_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-30_1485796482_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-30_1485796482_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-30_1485796858_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-30_1485752531_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-30_1485759189_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-30_1485759189_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-30_1485796192_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-30_1485801914_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-30_1485801914_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-30_1485801914_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-30_1485834104_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-31_1485840494_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-31_1485840494_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-31_1485843061_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-31_1485843061_log.pcap
+
+Partial Exports - Missing appraisal info:
+8057875F:Diamond Scarab
+80578760:Chorizite
+80578761:Black Fire Atlan Stone
+80578762:Major Prismatic Stone
+80578765:Gem of Stillness
+80578766:Splitting Tool
+80578768:Broken Haft
+8057876A:Ring
+8057876D:Virindi Servant's Amulet
+8057876E:Colosseum Coin
+80578772:Forager Captain's Resonator
+9780D056:Prismatic Taper
+978126C8:Lead Pea
+97BFA5D3:Silver Pea
+8577A290:Platinum Scarab
+A5A00EA2:Silver Scarab
+A5A0A087:Pyreal Scarab
+A5A25F65:Gold Pea
+A5B01D66:Copper Scarab
+A5B53EB2:Gold Scarab
+80578802:Intricate Carving Tool
+80578775:Shreth Banner
+80578778:Pack
+80578779:Ewer
+8057877D:Goblet
+8057877E:Buckler
+80578780:Suikan Life Master Robe
+80578796:Ust
+80578785:Goblet
+80578787:Orb
+8057878E:Heart of the Innocent
+80578790:Kalindan of Palenqual
+978F972E:Ancient Key
+97815CBF:Flaming Bandit Khanjar
+97815CBB:Gorget
+A5AFE8E4:Frost Bow
+A5AFE8B7:Energy Crown
+97815CB9:Gem
+80578822:Writ of Refuge
+80578791:Foci of Verdancy
+80578792:Foci of Artifice
+80578793:Foci of Enchantment
+80578797:Barbed Fletching Tool
+8057879A:Orb of the Bunny Booty
+8057879E:A Soggy Note
+8057879F:8th Anniversary Night Club Ticket
+805787A1:Clue Card
+805787A2:Alloy Turbine
+97825C42:Encapsulated Spirit
+A3F9DAD2:Skeleton's Skull
+A5A296B5:Watcher Token
+805787A4:Wrapped Bundle of Greater Deadly Blunt Arrowheads
+A5BB3D64:Run Tessera
+A5B27819:Pyreal Mote
+A5B1210C:Major Shivering Stone
+805787FE:Bloodied Burun Hide
+805787D0:A tightly scrawled Note
+A5BB440F:Missile Weapons Tessera
+A5BCC792:Major Stinging Stone
+A5C4B370:Elysa's Favor
+97815D0C:Head of the Olthoi Queen
+80578AC3:Obsidian Dagger
+805787AE:Pack
+805787AF:Torn Mosswart Shroud
+805787B0:Olthoi Femur
+805787B1:Note from a Scout
+805787B2:Vial of Organic Acid
+805787B3:Vial of Organic Acid
+805787B4:Lightweight Tome
+805787B5:Alloy Dynamo
+805787B6:Alloy Apparatus
+805787B7:Alloy Device
+805787B8:Reinforced Falcon Banner
+805787BA:Phantom Dagger
+805787BB:Perfect Shimmering Isparian Dagger
+805787C3:Focusing Stone
+805787BC:Grand Casino Golden Keyring
+8057879D:Stone Tool
+80578803:Blighted Mana Crystal
+A5B760CD:Red Fire Infusion
+97815D01:Kireth Gown with Band
+80578809:Alloy Device
+805787C7:Lyceum Recall Gem
+805787C8:Caulnalain Portal Gem
+805787C9:Fenmalain Portal Gem
+805787CA:Caulnalain Portal Gem
+805787CB:Fenmalain Portal Gem
+805787CE:Portal Chamber Key
+805787CC:Fenmalain Portal Gem
+805787CD:Caulnalain Portal Gem
+805787CF:Well Drawn Letter
+805787D1:Wooden Tablet
+805787D5:Asheron's Benediction
+805787D6:Blackmoor's Favor
+805787D7:Asheron's Benediction
+805787D8:Blackmoor's Favor
+805787D9:Snowflake
+805787DA:Blank Augmentation Gem
+805787DD:Blank Augmentation Gem
+805787DE:Sketch of a Viamontian
+805787DF:Torn Cloth Scrap
+805787E0:Ring
+805787E1:Lord Marsan's Log Book
+805787E5:Blank Augmentation Gem
+805787E6:Invoker
+805787E7:Blank Augmentation Gem
+805787E8:Ancient Key
+805787EA:Eye of Drageerg
+805787EB:A Note to Ma'yad
+805787EC:Tunic
+805787EE:Nuhmudira's Bestowment of Quickness and Frost Defense
+805787EF:Pants
+A5C00B8E:Pyreal
+805787F0:Refulgent Bracelet
+805787F1:Ring
+805787F8:Half-Digested Virindi Mask
+805787FA:Ley Leech's Medallion
+805787FD:Tusker Skull Helm
+805787FF:Cull the Drudges
+80578804:Letter to Renald the Eldest, from Larinne Kerendova
+80578805:Letter to Nen Ai, from Larinne Kerendova
+80578810:Galvanic Bracelet
+80578814:Bronze Gearknight Gear
+80578811:Ebuillant Bracelet
+80578818:Protective Drudge Charm
+80578824:Deed
+8057882D:Clean, Dry Towel
+80578830:Karenua's Key
+9761204D:Quartered Cloak
+9783F2FD:Coalesced Mana
+9C9E3D06:Trade Note (250,000)
+80578AC1:Major Mana Stone
+80072E6A:Wrapped Bundle of Prismatic Arrowheads
+8001E8B2:Wrapped Bundle of Deadly Fire Arrowheads
+80072C84:Wrapped Bundle of Deadly Frog Crotch Arrowheads
+80578798:Wrapped Bundle of Deadly Frost Arrowheads
+80044D9B:Wrapped Bundle of Deadly Armor Piercing Arrowheads
+80072E78:Wrapped Bundle of Deadly Blunt Arrowheads
+80044EA0:Wrapped Bundle of Arrowshafts
+A5B8E126:Major Mana Stone
+805787F2:Orb of the Bunny Booty
+A5B013FF:Skull of High Acolyte
+A5B49032:An Unlocked Large Mnemosyne
+A5B151F1:An Unlocked Large Mnemosyne
+A2568ABD:Plentiful Healing Kit
+A5B8CC82:Skeleton's Skull
+A5BC6E77:Deadly Blunt Arrow
+A5BB2C65:A List of Items
+A5B4F720:Deadly Fire Arrow
+A5B4F28D:Deadly Armor Piercing Arrow
+97815CB8:White Jewel
+97815CC0:Acid Bandit Dagger
+97815CC1:Bandit Dagger
+97815CED:Slice of Wedding Cake
+805786F6:Elysa's Crystal
+97815CBE:Frost Bandit Dagger
+A5AFE83C:Diamond Shield
+
+Missing Exports - Possessed items that were not found:

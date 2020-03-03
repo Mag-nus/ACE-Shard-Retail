@@ -1,0 +1,21 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-31_1485855647_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-31_1485845020_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-31_1485855647_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-31_1485855647_log.pcap
+
+Partial Exports - Missing appraisal info:
+AA4296B9:Pack
+AA3D14D8:Olthoi Egg
+AA3464C9:Helm of the Crag
+AA4296F0:Greater Frog Crotch Arrow
+AA4296EF:Some Changes for February 2012
+ABF072E6:Platemail Leggings
+
+Missing Exports - Possessed items that were not found:
+AA429720
+AA395E40
+AA447EE7
+AA3D1550

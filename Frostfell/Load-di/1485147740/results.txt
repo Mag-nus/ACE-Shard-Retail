@@ -1,0 +1,137 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\random-running-around\pkt_2017-1-22_1485145389_log.pcap
+
+Partial Exports - Missing appraisal info:
+AAB456D5:Pyreal
+AAB456D6:Sack
+AAB456D7:Ust
+AAB456DD:Atlatl Dart
+AAB456E0:Prismatic Taper
+AAB456E1:Lead Scarab
+AAB456E2:Crude Lockpick
+AAB456E3:Handy Healing Kit
+AAB92AB9:Blackmoor's Favor
+AB03DEF9:Oil of Rendering
+A7EE5F9E:Oil of Rendering
+AB0A10AC:Pathwarden Supply Key
+AB03C28A:Academy Coat
+AB03C289:Facility Hub Portal Gem
+AAFE28E1:Glyph of Self
+AAFAC851:Ink of Objectification
+AAF4130D:Treated Healing Kit
+AAFE285E:Ink of Formation
+AAFE27F6:Quill of Introspection
+AAF8F771:Shoes
+AAF76FEA:Coronet
+AAB456DF:Foci of Artifice
+AAF060CB:Long Sword
+AAF2953C:Electric Naginata
+AAE14389:Chainmail Breastplate
+AAF0E496:Lesser Stamina Kit
+AAF416FA:Lesser Mana Kit
+AAF40812:Treated Healing Kit
+AAEC1BF7:Sedgemail Leather Vest
+AAEC1BF5:Chainmail Breastplate
+AAEC1BEE:Knorr Academy Vambraces
+AAEC1BEC:Flaming Knuckles
+AAD9F8CD:Diforsa Cuirass
+AAE12D99:Ono
+AB0E0212:Gorget
+AAE12E65:Shamshir
+AAD9F30C:Yoroi Sleeves
+AF3AE47E:Mana Forge Key
+A9EBC849:Yellow Jewel
+AAD72AFB:Yellow Jewel
+AA03578D:Yellow Jewel
+AB0127F3:Coronet
+AB085B91:Pack
+AB0FF47F:Top
+A9F45715:Circlet
+AB494462:Ring
+AAC68732:Studded Leather Tassets
+AD529753:Mana Forge Key
+AB34079E:Chainmail Leggings
+A95C4CB2:Ring
+AA58EF31:Ring
+AAC68A8A:Cloth Gloves
+AA03FA18:Loose Shirt
+A9F45A38:Flared Shirt
+A9D4195C:Wide Breeches
+A9B398A9:Writ of Refuge
+AB964DB4:Acid War Hammer
+AB336B02:Heavy Bracelet
+AAC275B7:Turban
+AB3EEB07:Golden Gromnie
+AACF580D:Pants
+AACCCF1E:Loose Shirt
+AB45D00A:Ancient Falatacot Trinket
+AB1A29B2:Heavy Bracelet
+A2783BA3:Peerless Drudge Charm Necklace
+AB494019:Metal Cap
+AB0E8FF6:Pack
+AB7F7AFA:Loose Shirt
+AC71E868:Mana Forge Key
+AB7C2037:Brawler's Crystal
+AB7C899D:Ring
+AB7CA6AA:Chainmail Pauldrons
+AB964DB7:Glyph of Health
+AB964DB3:Lightning Morning Star
+AB964DB5:Amuli Leggings
+AB936EA6:Frost Yari
+AB638C5D:Encapsulated Spirit
+AB0C9E9B:Pack
+AB4D3B3F:Tenassa Sleeves
+AAC67B94:Shoes
+AB0E9022:Pack
+A9DD701F:Vest
+AA038E74:Pantaloons
+AC71F0D6:Mana Forge Key
+AAFC0B10:Qafiya
+AB42F1F5:Baggy Shirt
+AC72A4D2:Leather Vest
+A9F9A679:Amuli Leggings
+A9DD5505:Heavy Bracelet
+AF775018:Piercing Sceptre
+AF7BF2D0:Electric Sceptre
+AF7C0766:Frost Baton
+AF75615F:Slashing Sceptre
+AF803A59:Acid Sceptre
+AF7F1D06:Slashing Baton
+AF7E761B:Piercing Baton
+AF42E478:Blunt Atlatl
+AC6A2947:Amuli Coat
+A261A56A:Blunt Sceptre
+AC72A4E0:Fire Crossbow
+AC72C0E8:Fire Crossbow
+AC72C0EC:Piercing Compound Bow
+AD396942:Frost Sceptre
+AF77CA20:Fire Baton
+AFE74600:Slashing Baton
+AFDA967B:Slashing Sceptre
+AFB21AA5:Blunt Baton
+AF99DC01:Blunt Sceptre
+AF9B3236:Acid Baton
+B049F1B1:Blunt Baton
+B028F733:Fire Sceptre
+B02CCE45:Piercing Sceptre
+B005418C:Electric Sceptre
+AA038E7A:Acid Sceptre
+AB5FE251:Electric Sceptre
+AF85BD7B:Blunt Sceptre
+AFBDC881:Fire Sceptre
+AFBD293D:Electric Sceptre
+AFBC2280:Fire Baton
+AF962619:Piercing Baton
+B027DDD6:Acid Sceptre
+AC9D8661:Amuli Leggings
+AC710B31:Heavy Bracelet
+AC710B2E:Bracelet
+AF42AD80:Circlet
+AC71E84C:Knorr Academy Girth
+AC69D862:Diforsa Pauldrons
+AC710B42:Circlet
+AC710B30:Haebrean Gauntlets
+ACA7F833:Loafers
+AC8D8A02:Chainmail Leggings
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,141 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-12-2017\Games\pkt_2017-1-11_1484176086_log.pcap
+
+Partial Exports - Missing appraisal info:
+9566842C:Sack
+96131056:Reliable Lockpick
+964CBC04:Reliable Lockpick
+964CBBE9:Reliable Lockpick
+96459E71:Excellent Lockpick
+80008E07:Lesser Mana Kit
+9567FA6D:Blackmoor's Favor
+9566842D:Ust
+9612FFD8:Copper Scarab
+95E90076:Platinum Scarab
+96949E8D:Silver Scarab
+990042D1:Pyreal
+98497BC0:Aphus Lassel Portal Gem
+987CBC1F:Principles of the Celestial Hand
+98FFA86F:Swamp Stone
+98FFB56A:Bloodroot Vine
+9902358B:Swamp Stone
+98F71F67:Water of Lethe
+98FE73F5:Aligned Mana Stone
+9AE51816:Relanim Plant
+9A3E9955:Bordered Cloak
+95E88ACB:Foci of Artifice
+95E68287:Foci of Verdancy
+95E88BF5:Foci of Enchantment
+96A733FC:Pack
+96BFFA73:Pyreal Scarab
+976C6972:Lesser Mana Kit
+89C8FBD9:Writ of Refuge
+8005C394:Mechanical Scarab
+9645BF5A:Lightning Jo
+98F9F59A:Repaired Shadow Stone
+98B2853E:Splitting Tool
+98FE730C:Enchanted Mana Stone
+98FBF533:Aetheria Mana Stone
+99CCA6D2:Unstable Mana Stone
+95E91522:Drudge Scrying Orb
+99017DAD:Celestial Hand Trade Token
+9B6A38EE:Salvage
+9904F53B:Holtburg Portal Gem
+800960E1:Aegis of the Gold Gear
+99F244CC:Geraine's Tome (7)
+9B6C96F7:Visage of the Shadow Virindi
+9B65AC02:Visage of the Shadow Virindi
+96ADD80B:Lesser Mana Kit
+980D4386:Salvage (100)
+96A443F1:Pack
+9709BB19:Shadowfire Stone
+96AFB54E:Black Page of Salt and Ash
+976C37C8:Lesser Mana Kit
+976C6B8F:Lesser Mana Kit
+89D34B22:Doppelganger Shield
+99D073B0:Black Coral
+99E0084B:Dire Champion Token
+8C59D2DF:Pocket Watch
+96A733F0:Pack
+96B30313:Lesser Mana Kit
+96B1EF00:Lesser Mana Kit
+96B306F2:Lesser Mana Kit
+96B015A4:Aluvian Gem of Worth
+96C4ACD2:Gold Scarab
+9A3E4010:Blank Augmentation Gem
+98DAF2F5:Blank Augmentation Gem
+9A014406:Lightning Hand Wraps
+98DC9916:Blank Augmentation Gem
+99C4EADA:Blank Augmentation Gem
+9ACE303A:Blank Augmentation Gem
+985C4EBB:Yellow Empyrean Ring
+8005C343:Bracelet
+9AE8DC0B:Prismatic Taper
+9B32E27C:Blank Augmentation Gem
+990262D0:Celestial Hand Stronghold Portal Gem
+974C3D66:Peerless Lockpick
+93794DFD:Water of Lethe
+974FAD19:Aetheria
+8CE71D52:Aetheria
+94C8E73B:Aetheria
+85AAF1A6:Greater Stamina Kit
+9A3E997A:Aetheria
+833D02C7:Frost Poniard
+8DEC5B1B:Priceless Ore
+8DC39637:Priceless Ore
+807DFE5E:Yellow Monster Seed
+9A3E9240:Renegade Herbal Kit
+9ACE3408:Upper Insatiable Eater Jaw
+981943BB:Quartered Cloak
+9A3E7A23:Renegade Herbal Kit
+9AEC4736:Scarlet Red Letter
+9AEB6E3A:Amber Ape
+9AEF0115:Parabolic Ink
+9AEB7A56:Bobo's Stout
+9AEBB3A6:Duke Raoul's Distillation
+9AE947B4:Apothecary Zongo's Stout
+9AEBB381:Hunter's Stock Amber
+9AE88CE7:Tusker Spit Ale
+9AEB6609:Gem
+9AECAED5:Ring
+9AEC95CE:Acid Staff
+9AE510CE:Quartered Cloak
+9B337C01:Stipend
+9AECC440:Scalemail Bracers
+9AEF010F:Ink of Formation
+9AEED2E9:Ink of Conveyance
+9AEB9216:Quill of Benevolence
+9AED0A6E:Enhanced Black Fire Atlan Stone
+9B32D95B:Upper Insatiable Eater Jaw
+9AEF00EB:Reforged Ashbane
+9AEF00EF:Aerfalle's Mana-infused Pallium
+9AEF0DCA:Strengthened Mana Forge Key
+9B0272B4:Strengthened Mana Forge Key
+9B0514BE:Burning Sands Keyring
+9B052B5B:Burning Sands Keyring
+9AF56A43:Rynthid Tentacle Wand
+9B347C1B:Mana Forge Key
+9B35A5E4:Covenant Gauntlets
+9B358D1D:Mana Forge Key
+9B36A387:Mana Forge Key
+9B36B2E8:Mana Forge Key
+9B36AE9D:Salvage
+9B3ADFE1:Energy Infused Rock
+9A3E9969:Floating Candle
+8002641A:Floating Candle
+8006699C:Floating Candle
+8915CD61:Identification Plate
+98D18D86:Quartered Cloak
+808ABF4E:Perfect Shimmering Isparian Claw
+88CE55F7:Identification Plate
+800A9035:Drudge Championship Belt
+9A61D604:Holiday Stocking
+9A3F3375:Foolproof Yellow Topaz
+9B7160C9:Platemail Vambraces
+9B758E76:Covenant Greaves
+9B758E78:Amuli Coat
+9B7393D6:Olthoi Amuli Leggings
+9B6AE280:Tenassa Sleeves
+9B74815E:Amulet
+
+Missing Exports - Possessed items that were not found:

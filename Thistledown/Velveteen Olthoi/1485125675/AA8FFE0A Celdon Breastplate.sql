@@ -1,0 +1,68 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (2861563402, 6044, 2, 6476097) /* Clothing */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (2861563402,   1,          2) /* ItemType - Armor */
+     , (2861563402,   4,       1024) /* ClothingPriority - OuterwearChest */
+     , (2861563402,   5,       1740) /* EncumbranceVal */
+     , (2861563402,   9,        512) /* ValidLocations - ChestArmor */
+     , (2861563402,  10,        512) /* CurrentWieldedLocation - ChestArmor */
+     , (2861563402,  16,          1) /* ItemUseable - No */
+     , (2861563402,  19,      15737) /* Value */
+     , (2861563402,  28,        223) /* ArmorLevel */
+     , (2861563402,  65,        101) /* Placement - Resting */
+     , (2861563402,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (2861563402, 105,          2) /* ItemWorkmanship */
+     , (2861563402, 131,         60) /* MaterialType - Gold */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (2861563402,   1, False) /* Stuck */
+     , (2861563402,  11, True ) /* IgnoreCollisions */
+     , (2861563402,  13, True ) /* Ethereal */
+     , (2861563402,  14, True ) /* GravityStatus */
+     , (2861563402,  19, True ) /* Attackable */
+     , (2861563402,  22, True ) /* Inscribable */
+     , (2861563402, 100, True ) /* Dyable */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (2861563402,  13, 1.29999995231628) /* ArmorModVsSlash */
+     , (2861563402,  14,       1) /* ArmorModVsPierce */
+     , (2861563402,  15,       1) /* ArmorModVsBludgeon */
+     , (2861563402,  16, 0.400000005960464) /* ArmorModVsCold */
+     , (2861563402,  17, 0.400000005960464) /* ArmorModVsFire */
+     , (2861563402,  18, 0.600000023841858) /* ArmorModVsAcid */
+     , (2861563402,  19, 0.734862565994263) /* ArmorModVsElectric */
+     , (2861563402, 165,       1) /* ArmorModVsNether */
+     , (2861563402, 8004,       2) /* PCAPRecordedWorkmanship */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (2861563402,   1, 'Celdon Breastplate') /* Name */
+     , (2861563402,   7, 'AL 223, 15737p') /* Inscription */
+     , (2861563402,   8, 'Cyndra') /* ScribeName */
+     , (2861563402,  16, 'Well-crafted Gold Celdon Breastplate , set with 3 Black Opals') /* LongDesc */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (2861563402,   1,   33554642) /* Setup */
+     , (2861563402,   3,  536870932) /* SoundTable */
+     , (2861563402,   6,   67108990) /* PaletteBase */
+     , (2861563402,   8,  100670400) /* Icon */
+     , (2861563402,  22,  872415275) /* PhysicsEffectTable */
+     , (2861563402, 8001, 2166849560) /* PCAPRecordedWeenieHeader - Value, Usable, Wielder, ValidLocations, CurrentlyWieldedLocation, Priority, Burden, Workmanship, MaterialType */
+     , (2861563402, 8003,         18) /* PCAPRecordedObjectDesc - Inscribable, Attackable */
+     , (2861563402, 8005,     137217) /* PCAPRecordedPhysicsDesc - CSetup, STable, PeTable, AnimationFrame */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (2861563402,   3, 1342783025) /* Wielder */
+     , (2861563402, 8000, 2861563402) /* PCAPRecordedObjectIID */;
+
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
+VALUES (2861563402, 67109942, 216, 24)
+     , (2861563402, 67110013, 186, 12)
+     , (2861563402, 67110013, 174, 12);
+
+INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
+VALUES (2861563402, 0, 83887061, 83886237, 0)
+     , (2861563402, 0, 83887060, 83886238, 1);
+
+INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, `order`)
+VALUES (2861563402, 0, 16778382, 0);

@@ -1,0 +1,151 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\imtrippin-01-30-2017-empyrean-workshop-and-more\pkt_2017-1-30_1485816790_log.pcap
+
+Partial Exports - Missing appraisal info:
+A89831B1:Foci of Artifice
+A99A65A7:Foci of Verdancy
+A9B4188B:Foci of Enchantment
+BF4A3C7F:Pack
+A957AAE6:Blackmoor's Favor
+AB4F7A2D:Attribute Reset Certificate
+A98F5807:Aphus Lassel Portal Gem
+BFD0D1A1:Small Olthoi Venom Sac
+BFDDB208:Stipend
+BFDFA40F:Ornate Gear Marker
+BFDEB892:A'nekshay Token
+A89831AB:Ust
+AA9FDB2B:Seasoned Explorer Necklace Of Focus
+BFDEBBEA:Ancient Mhoire Coin
+C063ED3A:Inner Chamber Key
+C023967D:Trade Note (250,000)
+BFBEDEB5:Colosseum Coin
+C0A44D90:Aetheria Mana Stone
+C0B063D5:Shoyanen's Portal Gem
+BFFDABD4:Facility Hub Portal Gem
+AA8A56AA:Seasoned Explorer Ring Of Endurance
+C117B19A:Gorget
+C11DC8EC:Major Mana Stone
+AA8CEBA5:Seasoned Explorer Pants
+C10D6D48:Prismatic Taper
+C161F5AE:Treated Healing Kit
+C11BF70B:Fire Bow
+C02C6A58:Orb
+C11D15CC:Major Mana Stone
+BFE3ED79:Pack
+A9930BB5:Pyreal Scarab
+A97F2220:Lead Pea
+A99C2973:Silver Scarab
+A99632A4:Lead Scarab
+A99A2265:Gold Scarab
+A997DF71:Iron Scarab
+A99C2B76:Copper Scarab
+AAA028B1:Wrapped Bundle of Greater Deadly Armor Piercing Arrowheads
+AAA029BA:Wrapped Bundle of Greater Deadly Blunt Arrowheads
+ABC71CF1:Wrapped Bundle of Greater Deadly Arrowheads
+ABC3EDFF:Wrapped Bundle of Deadly Fire Arrowheads
+A9B410C3:Platinum Scarab
+A99A1F67:Splitting Tool
+A99D0D6F:Wrapped Bundle of Arrowshafts
+AAA02B0D:Wrapped Bundle of Greater Deadly Frog Crotch Arrowheads
+BEE95782:Iron Pea
+BFE58ACB:Copper Pea
+C00EF0F7:Wrapped Bundle of Deadly Prismatic Arrowheads
+C0106E04:Silver Pea
+C000F34A:Wrapped Bundle of Quarrelshafts
+BFCB637C:Aligned Mana Stone
+C00EF372:Wrapped Bundle of Quarrelshafts
+A9AF756B:Seasoned Explorer Compound Bow
+C01DEBA7:Orb
+BFE3FCF5:Pack
+BFDD99C9:Orb
+BFE5756E:Orb
+C112D283:Orb
+C11D0C4F:Pyreal Pea
+A497B9E6:Piercing Compound Bow
+C0BBF7AF:Moderate Mana Stone
+C0AE8065:Salvage (9)
+C11DC853:Major Mana Stone
+AA89CC11:Seasoned Explorer Bracelet Of Coordination
+C0DC6190:Orb
+C163E5B1:Treated Healing Kit
+C16346DF:Treated Healing Kit
+AA9FD8F8:Seasoned Explorer Shirt
+BA381F1D:Ring
+BFE32337:Heavy Bracelet
+BFFA02A6:Crystal of Spectral Blood
+C1613359:Peerless Healing Kit
+C1653A76:Treated Healing Kit
+C167EE92:Treated Healing Kit
+C1680146:Treated Healing Kit
+C0C0C418:Blunt Sceptre
+C16351DF:Ink of Formation
+BEC60349:Pack
+C0CD01A9:Treated Healing Kit
+C0CD01AE:Treated Healing Kit
+C0CD00F1:Treated Healing Kit
+C0CD01B8:Treated Healing Kit
+C0CD01A2:Treated Healing Kit
+C0CD018E:Treated Healing Kit
+C11A6509:Treated Healing Kit
+C11DD4BD:Treated Healing Kit
+C0CD01A3:Treated Healing Kit
+C1194620:Treated Healing Kit
+C11F3354:Treated Healing Kit
+C11C605C:Treated Healing Kit
+C11DE99E:Treated Healing Kit
+C11B7E94:Treated Healing Kit
+C1193A7F:Treated Healing Kit
+B780EB24:Winter Orb
+C163D6B9:Peerless Healing Kit
+BFDE7D5D:Focusing Stone
+C163D568:Gold Pea
+C0A38B02:Salvage (56)
+BFFA029A:Skull of One Thousand Torments
+C168050F:Treated Healing Kit
+C168073F:Treated Healing Kit
+C1680F45:Aged Legendary Key
+D86DC838:Prismatic Taper
+C117B2AF:Massive Mana Charge
+C1680F43:Aged Legendary Key
+C1680F42:Aged Legendary Key
+C1680F41:Aged Legendary Key
+C1680F40:Aged Legendary Key
+C1680F3F:Aged Legendary Key
+C1680D29:Aged Legendary Key
+C1680D28:Aged Legendary Key
+C1680D27:Aged Legendary Key
+C1680D26:Aged Legendary Key
+C1680D25:Aged Legendary Key
+C1680D24:Aged Legendary Key
+C1680CE3:Aged Legendary Key
+C1680CE2:Aged Legendary Key
+C1680CE1:Aged Legendary Key
+C1680CE0:Aged Legendary Key
+C1680CDF:Aged Legendary Key
+C1680CDE:Aged Legendary Key
+C1680CD5:Aged Legendary Key
+C1680CD4:Aged Legendary Key
+C1680CD3:Aged Legendary Key
+C1680CD2:Aged Legendary Key
+C1680CD1:Aged Legendary Key
+C1680CD0:Aged Legendary Key
+D868AA5F:Salvage (100)
+D868AA7B:Salvage (62)
+C0AD9AB7:Massive Mana Charge
+D868AB6B:Salvage (31)
+D8404DD4:Salvage (100)
+C117B39F:Massive Mana Charge
+D868AFF9:Salvage (71)
+D862FA18:Slashing Baton
+D868B445:Encapsulated Spirit
+D862FC22:Ancient Falatacot Trinket
+D868C036:Slashing Baton
+D8631271:Frost Baton
+D86FE403:Nether Baton
+D86FE692:Acid Sceptre
+D86FE487:Acid Baton
+D86FD70B:Piercing Sceptre
+C167EFE0:Quill of Introspection
+C1644F93:Glyph of Finesse Weapons
+
+Missing Exports - Possessed items that were not found:

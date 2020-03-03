@@ -1,0 +1,114 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\pkt_2017-1-30_1485843220_desc\pkt_2017-1-30_1485841941_log.pcap
+
+Partial Exports - Missing appraisal info:
+9BE2552A:Bracelet
+9BE2552B:Amulet
+9BE2552C:Ring
+9BE2552D:Bracelet
+9BE2552E:Gloves
+9BE2552F:Dho Vest and Robe
+9BE25533:Brown Taper
+9BE25530:Heavy Bracelet
+9BE25531:Bracelet
+9BE25532:Pack
+9BE25534:Indigo Taper
+9BE25535:Grey Taper
+9BE25536:Red Taper
+9BE25537:Turquoise Taper
+9BE25538:Violet Taper
+9BE25539:Orange Taper
+9BE2553A:Pink Taper
+9BE2553B:Green Taper
+9BE2553C:Poplar Talisman
+9BE2553D:Blackthorn Talisman
+9BE2553E:Yew Talisman
+9BE2553F:Hemlock Talisman
+9BE25540:White Taper
+9BE25541:Yellow Taper
+9BE25542:Ebony Talisman
+9BE25543:Birch Talisman
+9BE25544:Rowan Talisman
+9BE25545:Alder Talisman
+9BE25546:Willow Talisman
+9BE25547:Cedar Talisman
+9BE25548:Ashwood Talisman
+9BE25549:Blue Taper
+9BE2554A:Pack
+9BE2554B:Powdered Carnelian
+9BE2554C:Powdered Hematite
+9BE2554D:Powdered Bloodstone
+9BE2556F:Moderate Mana Charge
+9BE2554E:Powdered Malachite
+9BE2554F:Powdered Agate
+9BE25570:Old Scarlet Red Letter
+9BE25550:Powdered Quartz
+9BE25551:Cadmia
+9BE2555C:Gypsum
+9BE25552:Cinnabar
+9BE25553:Brimstone
+9BE2555F:Cobalt
+9BE25554:Verdigris
+9BE25555:Turpeth
+9BE25562:Pack
+9BE25556:Vitriol
+9BE25557:Quicksilver
+9BE2556A:Iron Scarab
+9BE25558:Stibnite
+9BE25559:Powdered Turquoise
+9BE2556B:Lead Scarab
+9BE2555A:Realgar
+9BE2555B:Powdered Moonstone
+9BE2556C:Copper Scarab
+9BE2555D:Colcothar
+9BE2555E:Powdered Amber
+9BE2556D:Pack
+9BE25560:Powdered Onyx
+9BE25561:Powdered Azurite
+9BE25571:Old Scarlet Red Letter
+9BE25563:Mugwort
+9BE25564:Saffron
+9BE25572:Healing Tonic
+9BE25565:Ginseng
+9BE25566:Wormwood
+9BE25573:Scroll of Lightning Bane II
+9BE25567:Mandrake
+9BE25568:Hyssop
+9BE2556E:Pyreal Mote
+9BE25569:Damiana
+9BE25574:Old Scarlet Red Letter
+9BE25575:Pack
+9BE25576:Pack Scarecrow
+9BE25577:Pyreal Mote
+9BE25578:Ring
+9BE25579:Ring
+9BE2557A:Pack
+9BE2557B:Trade Note (100)
+9BE2557C:Trade Note (100)
+9BE2557D:Trade Note (1,000)
+9BE2557E:Trade Note (1,000)
+9BE2557F:Trade Note (1,000)
+9BE25580:Trade Note (1,000)
+9BE25581:Trade Note (500)
+9BE25582:Trade Note (1,000)
+9BE25583:Trade Note (100)
+9BE25584:Trade Note (100)
+9BE25585:Pack
+9BE25586:Arrow
+9BE25587:Arrow
+9BE25588:Shreth Hide Gauntlets
+9BE25589:Pyreal
+9BE2558A:Gloves
+9BE2558B:Old Scarlet Red Letter
+9BE2558C:Ring
+9BE2558D:Trade Note (100)
+9BE2558E:Trade Note (100)
+9BE2558F:Trade Note (100)
+9BE25590:Sho Wand
+9BE25591:Arrow
+9BE25592:Yumi
+9BE25593:Pack Bael'Zharon
+9BE25594:Some Changes for February 2012
+9BE25595:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,18 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\pkt_2017-1-24_1485307411_log\pkt_2017-1-24_1485307411_log.pcap
+
+Partial Exports - Missing appraisal info:
+AE7C51D5:Loose Pants
+AE7C51D4:Shoes
+AE7C51D2:Apple
+AE7C51D1:Starter Shou-ono
+AE7C51D0:Handy Healing Kit
+AE7C51CF:Welcome Letter
+AE7C51CE:Sack
+AE7C51CD:Calling Stone
+AE7C51CC:Pack Asheron
+AE7C51CB:Some Changes for February 2012
+AE7C51CA:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:
+AE7C51D3

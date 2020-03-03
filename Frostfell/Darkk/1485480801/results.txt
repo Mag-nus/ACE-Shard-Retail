@@ -1,0 +1,234 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\pkt_2017-1-28_1485616386_log\pkt_2017-1-26_1485480424_log.pcap
+
+Partial Exports - Missing appraisal info:
+DB4DF6D9:Ust
+DB4DF6C1:Massive Mana Charge
+DB4DF6C3:Writ of Refuge
+DB4DF6C5:Amuli Coat
+DB4DF6C7:Chainmail Gauntlets
+DB4DF6C8:Teardrop Crown
+DB4DF6C9:Chiran Helm
+DB4DF6CF:Loafers
+DB4DF6CA:Platemail Gauntlets
+DB4DF6CB:Olthoi Girth
+DB4DF6FA:Treated Healing Kit
+DB4DF6CD:Nariyid Gauntlets
+DB4DF6CE:Chainmail Greaves
+DB4DF6D2:Tenassa Sleeves
+DB4DF6D3:Lorica Leggings
+DB4DF6D4:Leather Bracers
+DB4DF6D5:Nariyid Leggings
+DB4DF703:Treated Healing Kit
+DB4DF6D6:Haebrean Helm
+DB4DF6D7:Flaming Morning Star
+DB4DF704:Treated Healing Kit
+DB4DF6D8:Buckler
+DB4DF793:Koujia Breastplate
+DB4DF705:Treated Healing Kit
+DB4DF6DA:Blackmoor's Favor
+DB4DF6DD:Aphus Lassel Portal Gem
+DB4DF6E2:Monarch's Crystal
+DB4DF6E3:Alchemist's Crystal
+DB4DF6E4:Artist's Crystal
+DB4DF6E5:Hieromancer's Crystal
+DB4DF6E6:Hunter's Crystal
+DB4DF6E7:Artificer's Crystal
+DB4DF6E8:Knight's Crystal
+DB4DF6E9:Berzerker's Crystal
+DB4DF6EA:Artificer's Crystal
+DB4DF6EB:Converter's Crystal
+DB4DF6EC:Thorsten's Crystal
+DB4DF6ED:Life Giver's Crystal
+DB4DF6EE:Thorsten's Crystal
+DB4DF6EF:Dodger's Crystal
+DB4DF6F0:Ben Ten's Crystal
+DB4DF6F1:Thief's Crystal
+DB4DF6F2:Chef's Crystal
+DB4DF6F3:Inferno's Jewel
+DB4DF6F4:Sprinter's Pearl
+DB4DF6F5:Imbuer's Crystal
+DB4DF6F6:Converter's Crystal
+DB4DF6F7:Fletcher's Crystal
+DB4DF6F8:Adherent's Crystal
+DB4DF6F9:T'ing's Crystal
+DB4DF6FB:Spadone
+DB4DF6FC:Gem of Stillness
+DB4DF6FE:Flaming Spadone
+DB4DF700:Flaming Nodachi
+DB4DF701:Flaming Greataxe
+DB4DF702:Flaming Great Star Mace
+DB4DF7C2:Acid Nekode
+DB4DF6C2:Massive Mana Charge
+DB4DF70A:Lightning Khanda-handled Mace
+DB4DF70B:Quadrelle
+DB4DF70C:Greataxe
+DB4DF70D:Spadone
+DB4DF70E:Salvaged  (86)
+DB4DF711:Pike
+DB4DF70F:Salvaged  (53)
+DB4DF710:Salvaged  (49)
+DB4DF720:Mana Philtre
+DB4DF712:Quadrelle
+DB4DF713:Acid Shashqa
+DB4DF714:Frost Quadrelle
+DB4DF715:Quadrelle
+DB4DF716:Flaming Tetsubo
+DB4DF721:Health Tonic
+DB4DF718:Salvaged  (21)
+DB4DF719:Salvaged  (94)
+DB4DF71A:Salvaged  (71)
+DB4DF722:Health Philtre
+DB4DF71B:Salvaged  (34)
+DB4DF71C:Flaming Quadrelle
+DB4DF723:Stamina Philtre
+DB4DF71D:Salvaged  (57)
+DB4DF71E:Salvaged  (83)
+DB4DF71F:Mattekar Hide Coat
+DB4DF725:Trimmed Cloak
+DB4DF726:Ring
+DB4DF727:Heavy Bracelet
+DB4DF729:Diadem
+DB4DF728:Trousers
+DB4DF72A:Ring
+DB4DF72B:Gorget
+DB4DF72C:Ring
+DB4DF72E:Heavy Necklace
+DB4DF72D:Studded Leather Leggings
+DB4DF72F:Lace Shirt
+DB4DF730:Heavy Bracelet
+DB4DF731:Bracelet
+DB4DF73A:Nekode
+DB4DF732:Yoroi Cuirass
+DB4DF734:Nariyid Breastplate
+DB4DF735:Haebrean Tassets
+DB4DF737:Steel Toed Boots
+DB4DF738:Alduressa Leggings
+DB4DF739:Leather Bracers
+DB4DF73B:Studded Leather Cuirass
+DB4DF73C:Slashing Compound Crossbow
+DB4DF73D:Heavy Bracelet
+DB4DF73E:Ring
+DB4DF73F:Heavy Bracelet
+DB4DF740:Heavy Bracelet
+DB4DF741:Heavy Necklace
+DB4DF743:Amulet
+DB4DF742:Heavy Necklace
+DB4DF744:Fire Spine Glaive
+DB4DF745:Ring
+DB4DF748:Ring
+DB4DF749:Buckler
+DB4DF77D:Shou-jen Shozoku Mask
+DB4DF77E:Shou-jen Shozoku Sleeve Gauntlets
+B7546054:Heaume
+DB4DF77F:Shou-jen Jika-Tabi
+DB4DF780:Yoroi Pauldrons
+DB4DF781:Alduressa Coat
+DB4DF782:Amuli Coat
+DB4DF783:Studded Leather Basinet
+DB4DF784:Chainmail Bracers
+DB4DF785:Leather Pants
+DB4DF786:Haebrean Girth
+DB4DF787:Tenassa Sleeves
+DB4DF788:Olthoi Amuli Leggings
+DB4DF789:Olthoi Alduressa Boots
+DB4DF78A:Haebrean Boots
+DB4DF78C:Cloth Cap
+DB4DF78D:Shou-jen Shozoku Trousers
+DB4DF78E:Shou-jen Shozoku Jacket
+DB4DF78F:Shou-jen Jika-Tabi
+DB4DF790:Shou-jen Shozoku Mask
+DB4DF791:Shou-jen Shozoku Sleeve Gauntlets
+DB4DF792:Olthoi Koujia Sollerets
+DB4DF794:Chainmail Greaves
+DB4DF7AD:Scalemail Bracers
+DB4DF7AE:Fire Staff
+DB4DF7AF:Chainmail Sleeves
+DB4DF7B0:Spadone
+DB4DF7B1:Halved Cloak
+DB4DF7B2:War Axe
+DB4DF7B3:Frost Baton
+DB4DF7B4:Slashing Sceptre
+DB4DF7B5:Chiran Sandals
+DB4DF7B6:Leather Cowl
+DB4DF7D1:Bracelet
+DB4DF7B7:Fire Staff
+DB4DF7BA:Studded Leather Leggings
+DB4DF7BB:Lightning Greataxe
+DB4DF7BC:Olthoi Pauldrons
+DB4DF7BD:Studded Leather Greaves
+DB4DF7BE:Studded Leather Girth
+DB4DF7BF:Studded Leather Coat
+DB4DF7C0:Haebrean Girth
+DB4DF7C3:Greataxe
+DB4DF7C4:Spine Glaive
+DB4DF7C5:Halved Cloak
+DB4DF7C6:Chiran Coat
+DB4DF7C7:Tenassa Leggings
+DB4DF7C9:Leather Gauntlets
+DB4DF7CA:Pantaloons
+DB4DF7CB:Nariyid Sleeves
+DB4DF7CC:Chevron Cloak
+DB4DF7CD:Chevron Cloak
+DB4DF7CE:Fire Compound Crossbow
+DB4DF7CF:Compass
+DB4DF7D0:Olthoi Celdon Gauntlets
+DB4DF7D2:Heavy Bracelet
+DB4DF7D3:Heavy Bracelet
+DB4DF7D4:Koujia Sleeves
+DB4DF7D5:Scalemail Coif
+DB4DF7D6:Studded Leather Sleeves
+B2DA89F3:Chainmail Gauntlets
+B3905C97:Chainmail Leggings
+B38E0BA8:Cloth Cap
+B41D112B:Fire Compound Bow
+B61023F4:Sollerets
+B670D518:Chainmail Greaves
+B4EF2C9A:Armet
+B66923D8:Slashing Sceptre
+B6FEA2F0:Flaming Nabut
+B6FEFC04:Heavy Bracelet
+B6FF1C29:Chainmail Tassets
+B7513EBA:Heavy Bracelet
+B74DACFE:Celdon Leggings
+B73CC986:Loose Shirt
+B74FEE75:Leather Pauldrons
+B754BDA0:Studded Leather Bracers
+B75220A7:Chevron Cloak
+B375840A:Frost Compound Bow
+B35700B3:Loafers
+B3BD9310:Koujia Sleeves
+B61175E1:Chainmail Breastplate
+B6146EEA:Olthoi Alduressa Boots
+B6169002:Tenassa Breastplate
+B6175ED2:Piercing Baton
+B6176047:Acid Stick
+B61765A7:Piercing Baton
+B670D6D4:Heavy Necklace
+B671514C:Lorica Boots
+B6FFF62E:Tenassa Sleeves
+B75265E4:Sandals
+B8B7245F:Coalesced Aetheria
+B4EF9D6A:Gorget
+BAD5D0B7:Acid Compound Bow
+B375248B:Faran Over-robe
+A69379CC:Lorica Boots
+A780A175:Piercing Sceptre
+A7990865:Knorr Academy Gauntlets
+B3818E05:Piercing Compound Bow
+B4C0CA73:Bracelet
+B4EAE64A:Chiran Helm
+B61754DB:Sceptre
+B4EAE3A3:Long Leather Gauntlets
+B6124F46:Chainmail Breastplate
+B6715A8D:Leather Boots
+B6717956:Alduressa Gauntlets
+B6717EAE:Top
+BAF4E6C5:Coalesced Aetheria
+BAF456AE:Helmet
+BAF63200:Blunt Sceptre
+BAF4CA73:Koujia Leggings
+BBAD2D12:Necklace
+B61456B0:Chiran Leggings
+
+Missing Exports - Possessed items that were not found:

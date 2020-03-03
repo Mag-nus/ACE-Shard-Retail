@@ -1,0 +1,48 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-30_1485781607_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-29_1485719049_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-29_1485719049_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-29_1485719049_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-29_1485719049_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-29_1485719049_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-29_1485743653_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-30_1485781607_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-30_1485781607_log.pcap
+
+Partial Exports - Missing appraisal info:
+D81A8070:Shirt
+D81A8075:Ust
+D81A807C:Prismatic Taper
+D81A807D:Lead Scarab
+D85028AC:Asheron's Benediction
+D861B34C:Blackmoor's Favor
+D8547051:Pathwarden Sollerets
+D8547F30:Pathwarden Robe
+D859FC1F:Pathwarden Trinket
+D861B76C:Renegade Herbal Kit
+D8606B27:Candy Corn
+D8606B3C:Chocolate Gromnie
+D85690B6:Treated Healing Kit
+D863C91D:Heavy Bracelet
+D84A065D:Ice Tachi
+D838A66C:Bracelet
+D847C271:Platemail Hauberk of the Ogre
+D858687B:Studded Leather Leggings
+D838A66F:Cloth Gloves
+D838907C:Baron's Amulet of Life Giving
+D85A668C:Aura of Swift Killer Self IV
+D856FD9A:Trousers
+D864F257:Aura of Blood Drinker Other III
+D866D265:Bracelet
+D866CEB6:Harvester Pincer
+D868083F:Sturdy Iron Key
+D863C442:Key
+D863C422:Key
+D85674DF:Treated Healing Kit
+D8723511:Leather Shirt
+D84F62A8:Trade Note (10,000)
+D85690B8:Trade Note (50,000)
+
+Missing Exports - Possessed items that were not found:

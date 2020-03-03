@@ -1,0 +1,97 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-31_1485865219_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-29_1485691083_log.pcap
+
+Partial Exports - Missing appraisal info:
+CCAACBD6:Ust
+CCAACBDB:Foci of Shadow
+BA4E9315:Pack
+CD70EEAF:Ring
+CD7C2A37:Pyreal Scarab
+CD85A4A4:Foci of Artifice
+CD7C3973:Platinum Scarab
+CD81F280:Foci of Enchantment
+CD82EFD1:Foci of Verdancy
+C0517E8A:Cloth Gloves
+C49AA69B:Cloth Gloves
+CB4251BE:Cloth Gloves
+CECF5E45:Circlet
+CEB76BE6:Kasa
+C026F8CA:Cloth Gloves
+D3A97AA6:Gold Scarab
+C690378C:Cloth Gloves
+BE54B71A:Coronet
+9E980639:Cloth Gloves
+BE6F9892:Coronet
+B68AEC36:Crown
+D051D934:Ink of Partition
+CFECB9AD:Gauntlet Backpack
+CD7C791A:Copper Scarab
+D3A9AA6D:Iron Scarab
+CCAACBDD:Lead Scarab
+D3A9ACBE:Silver Scarab
+D3AA5B60:Mana Scarab
+BE6F8634:Titan Mana Charge
+CCAACBD7:Calling Stone
+CD27953B:Blackmoor's Favor
+CCFD8AFE:Prismatic Taper
+CD29D036:Facility Hub Portal Gem
+D480AB05:Stipend
+80807867:Facility Hub Portal Gem
+D3A9AADF:Prismatic Taper
+CD62B1AC:Major Mana Stone
+CD624484:Major Mana Stone
+CD80140C:Major Mana Stone
+CD7B56D3:Major Mana Stone
+D31B3DAE:Master of the Five Fold Path
+CD2AF1B0:Academy Wand
+D3A20963:Trade Note (50,000)
+D39883ED:Trade Note (10,000)
+D3A37F42:Upper Insatiable Eater Jaw
+D3C46690:Upper Insatiable Eater Jaw
+D3C924C7:Blank Augmentation Gem
+D47E2885:Trade Note (250,000)
+D4760CB2:Upper Insatiable Eater Jaw
+D4819BF0:Blank Augmentation Gem
+8009F092:Cloth Gloves
+B9CE9B68:Cloth Gloves
+BC06BAAA:Cloth Gloves
+BC4D543C:Cloth Gloves
+D52D5ABC:Upper Insatiable Eater Jaw
+B8A3F3B6:Cloth Gloves
+8009F093:Cloth Gloves
+D5376CE1:Blank Augmentation Gem
+BE0130FC:Cloth Gloves
+BB154A5F:Cloth Gloves
+D5FDA957:Upper Insatiable Eater Jaw
+CFA26F67:Olthoi Breastplate
+D5FA9F91:Blank Augmentation Gem
+8009F042:Garden Drudge
+8009F044:Gharu'ndim Lamp
+8009F046:The Healer's Heart
+8009F043:A Horn of Vigilance
+8009F045:Gharu'ndim Lamp
+8009F129:Font of Jojii
+8009F12D:Shadowfire Isparian Sword
+8009F12A:Black Spear of Mukkir Strength
+8009F12C:Assault Mace
+8009F12B:Olthoi Enslavement
+8009F12F:Hearth
+8009F134:Treated Wood
+8009F132:Couch
+8009F130:Large Pine Tree
+8009F135:Large Gharu'ndim Rug
+8009F133:Empyrean Portalspace Stabilizer
+8009F131:The Studious Mind
+8009F12E:Chandelier
+8009F138:Gharu'ndim Lamp
+8009F139:Outcast
+8009F137:Gharun'dim Lantern
+8009F184:Hearth
+8009F136:Thorsten's Armor
+8009F13A:Treasure
+8009F185:Gladiator Diemos Statue
+
+Missing Exports - Possessed items that were not found:

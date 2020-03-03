@@ -1,0 +1,42 @@
+INSERT INTO `character` (`id`, `account_Id`, `name`, `is_Plussed`, `is_Deleted`, `delete_Time`, `last_Login_Timestamp`, `total_Logins`, `character_Options_1`, `character_Options_2`, `gameplay_Options`, `spellbook_Filters`, `hair_Texture`, `default_Hair_Texture`)
+VALUES (1343275121, 0, 'Caerlean', False, False, 0, 0, 0, 1355588938, 3442496, NULL, 5120, 0, 0);
+
+INSERT INTO `character_properties_shortcut_bar` (`character_Id`, `shortcut_Bar_Index`, `shortcut_Object_Id`)
+VALUES (1343275121, 0, 2209440479)
+     , (1343275121, 1, 2209440472)
+     , (1343275121, 2, 2209440481)
+     , (1343275121, 4, 2209440355)
+     , (1343275121, 6, 2209440357)
+     , (1343275121, 7, 2209440358);
+
+INSERT INTO `character_properties_spell_bar` (`character_Id`, `spell_Bar_Number`, `spell_Bar_Index`, `spell_Id`)
+VALUES (1343275121, 0, 0, 48)
+     , (1343275121, 0, 1, 2647)
+     , (1343275121, 0, 2, 1635)
+     , (1343275121, 0, 3, 2645)
+     , (1343275121, 0, 4, 47)
+     , (1343275121, 0, 5, 2646)
+     , (1343275121, 1, 0, 1486)
+     , (1343275121, 1, 1, 1498)
+     , (1343275121, 1, 2, 1562)
+     , (1343275121, 1, 3, 1616)
+     , (1343275121, 1, 4, 1516)
+     , (1343275121, 1, 5, 1552)
+     , (1343275121, 1, 6, 1528)
+     , (1343275121, 1, 7, 1540)
+     , (1343275121, 1, 8, 1574)
+     , (1343275121, 4, 0, 1635);
+
+INSERT INTO `character_properties_title_book` (`character_Id`, `title_Id`)
+VALUES (1343275121, 1)
+     , (1343275121, 30)
+     , (1343275121, 46)
+     , (1343275121, 49)
+     , (1343275121, 64)
+     , (1343275121, 109)
+     , (1343275121, 435)
+     , (1343275121, 494)
+     , (1343275121, 500)
+     , (1343275121, 512)
+     , (1343275121, 562)
+     , (1343275121, 765);

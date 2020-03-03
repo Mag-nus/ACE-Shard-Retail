@@ -1,0 +1,14 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-27_1485546026_\pkt_2017-1-27_1485546026_log.pcap
+
+Partial Exports - Missing appraisal info:
+C8173FF4:Qafiya
+C8173FF5:Smock
+C8173FF6:Pantaloons
+C8173FF7:Pyreal
+C8173FF8:Sack
+C8173FFC:Trade Note (5,000)
+C8173FFD:Pack Levistras
+C8173FFE:Some Changes for February 2012
+
+Missing Exports - Possessed items that were not found:

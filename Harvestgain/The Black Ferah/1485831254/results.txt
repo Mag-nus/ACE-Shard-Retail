@@ -1,0 +1,47 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\baron-of-colier-random-last-day-4\pkt_2017-1-30_1485831173_log.pcap
+
+Partial Exports - Missing appraisal info:
+BD3658E9:Pyreal
+BD3658EA:Sack
+BD3658EB:Ust
+BD3658EF:Foci of Verdancy
+BD3658F0:Foci of Enchantment
+BD3658F1:Foci of Shadow
+BD3658F2:Prismatic Taper
+BD3658F3:Lead Scarab
+BD3658F4:Letter From Home
+BD3658F5:Bread
+BDE7A25B:Blackmoor's Favor
+BDE7A66C:Oil of Rendering
+BDE7A66E:Academy Coat
+BDE7A66F:Facility Hub Portal Gem
+BDE31203:Pathwarden Trinket
+BDE52E67:Sturdy Iron Key
+BDE31204:Pathwarden Robe
+BDE52E72:Sturdy Iron Key
+BDE5275B:Salvage
+BDE50DE3:Salvage
+BDE52D60:Salvage
+BDE510D9:Pack
+AA2FE69B:Pack
+C0274BFB:Red Empyrean Ring
+C02F24D6:Yellow Empyrean Ring
+A9488B5E:Pack
+BF58A31E:Trade Note (250,000)
+B95C50E2:Coronet
+C12E093E:Shoyanen's Portal Gem
+C129CBAF:Colosseum Coin
+B9795D53:Ancient Relic Helm
+B92BB225:Ancient Relic Gauntlets
+B8A2D055:Ancient Relic Vestment and Bracers
+B88A3EF3:Ancient Relic Leggings
+C4F89101:Armor Upgrade Kit Containment Gem
+C5052EC8:Armor Upgrade Kit Containment Gem
+C508D0B9:Armor Upgrade Kit Containment Gem
+C4F1A211:Armor Upgrade Kit Containment Gem
+C511FF25:Upgraded Ancient Relic Sollerets
+BA6D54D1:Ancient Relic Sollerets
+BDDDCB3E:Academy Wand
+
+Missing Exports - Possessed items that were not found:

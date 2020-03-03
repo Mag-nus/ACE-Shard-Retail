@@ -1,0 +1,188 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-30_1485810509_log.pcap
+
+Partial Exports - Missing appraisal info:
+8F3AE9EF:Pack
+8D408804:Heavy Bracelet
+8D408860:Heavy Bracelet
+8F036921:Heavy Bracelet
+8D3EE6CD:Gorget
+8D3D1107:Heavy Bracelet
+8D41CAD0:Heavy Bracelet
+8D3C9B09:Gorget
+8D41B1B6:Heavy Necklace
+8D3EE777:Heavy Bracelet
+8D4086E3:Bracelet
+8D41B1EC:Heavy Bracelet
+8D41CD87:Heavy Bracelet
+8D41B20E:Gorget
+8D3EE7B3:Heavy Bracelet
+8D3EE5EF:Heavy Bracelet
+8D40B55C:Gorget
+8D3E9C62:Heavy Bracelet
+8D3EB848:Heavy Necklace
+8D3EE5E6:Necklace
+8D3EE400:Heavy Necklace
+8D41E464:Heavy Bracelet
+8F37B7BB:Gorget
+8D410464:Heavy Necklace
+8D3FBC76:Heavy Bracelet
+8F3DC8D8:Pack
+8D3EE40E:Necklace
+8DDC856D:Heavy Bracelet
+8D3EB059:Heavy Bracelet
+8D408789:Heavy Bracelet
+8D41E4A0:Heavy Bracelet
+8D41B1CB:Gorget
+8D7F62A3:Heavy Necklace
+8D41E527:Heavy Bracelet
+8D3EE67B:Gorget
+8D41CB0D:Heavy Necklace
+8D40CA80:Heavy Bracelet
+8D3ECDCB:Gorget
+8D3EE47B:Heavy Bracelet
+8D4104AB:Heavy Bracelet
+8D408894:Amulet
+8D41CB4C:Heavy Bracelet
+8D41B1A5:Heavy Necklace
+8D3FC39D:Gorget
+8D3EE669:Heavy Bracelet
+8D3E9810:Heavy Bracelet
+8D4083C1:Bracelet
+8D40C671:Heavy Bracelet
+8D41CD12:Heavy Bracelet
+8D41CE3D:Gorget
+8F3DB32C:Pack
+8D41BCF5:Heavy Bracelet
+8D4182F5:Heavy Necklace
+8D41E9B1:Gorget
+8D3F0D86:Heavy Bracelet
+8D3F0DCB:Gorget
+8D410ADC:Heavy Bracelet
+8D42EF8B:Heavy Bracelet
+8D41E9F0:Bracelet
+8D41E9E7:Heavy Bracelet
+8D37ED7D:Heavy Necklace
+8D3F0D38:Gorget
+8D3F0C88:Heavy Bracelet
+8D3F0CE4:Bracelet
+8D3F0E0F:Heavy Bracelet
+8D3F0D5D:Heavy Bracelet
+8D41E9A4:Heavy Bracelet
+8D41EA2B:Necklace
+8D41DD8A:Heavy Bracelet
+8D410AD5:Bracelet
+8D3CA74B:Heavy Necklace
+8D41E9D2:Heavy Bracelet
+8D410AC9:Heavy Necklace
+8D3EE8DE:Bracelet
+8D3EDC03:Heavy Bracelet
+8F3DC91C:Pack
+8D3F0E3A:Heavy Bracelet
+8DD74C8D:Gorget
+8D3F0CCF:Necklace
+8D3F0D2B:Heavy Bracelet
+8D41E9EB:Necklace
+8D41E9F1:Heavy Necklace
+8D41EA2D:Heavy Bracelet
+8D3F0DB5:Gorget
+8E2C58DC:Heavy Bracelet
+8D846B93:Amulet
+8D3EE939:Heavy Bracelet
+8D42EEB7:Bracelet
+8D41E9AE:Gorget
+8D3F0D92:Amulet
+8D41E9AB:Heavy Bracelet
+8D410B10:Heavy Necklace
+8D3F0B30:Heavy Bracelet
+8D3F0E0D:Gorget
+8D410AD3:Heavy Bracelet
+8D410B18:Heavy Bracelet
+8D41E9B9:Bracelet
+8D41EA15:Necklace
+8D42EEB6:Gorget
+8DF881C2:Amulet
+8F3DC91F:Pack
+8D3F0D35:Heavy Bracelet
+8D3EDD35:Heavy Bracelet
+8D670671:Gorget
+8D3EDCCA:Heavy Bracelet
+8D3F501F:Heavy Bracelet
+8EF4A368:Gorget
+8D41452F:Heavy Bracelet
+8D41457D:Heavy Bracelet
+8D3F4FAE:Bracelet
+8D3F4CAB:Heavy Bracelet
+85D824DC:Heavy Necklace
+8EB10999:Gorget
+8D41453A:Heavy Bracelet
+8E3BA73C:Gorget
+8D40BF2E:Heavy Bracelet
+8E9A8084:Gorget
+85D9833D:Heavy Bracelet
+8D3F4EF8:Bracelet
+8ED867DA:Gorget
+8D3F5003:Amulet
+85D8248A:Heavy Bracelet
+85D81ED8:Heavy Necklace
+8D3F502E:Heavy Bracelet
+8F3C3F85:Pack
+8D41549E:Heavy Bracelet
+8D40BE9B:Amulet
+85D9836D:Heavy Bracelet
+8D41453C:Heavy Bracelet
+8E367755:Heavy Necklace
+8D424098:Gorget
+8D3C5A76:Heavy Bracelet
+85D98373:Necklace
+8E761191:Amulet
+8D40CA36:Heavy Necklace
+85D9833F:Heavy Bracelet
+8E619168:Bracelet
+85D7CB64:Heavy Bracelet
+8D40CA86:Heavy Bracelet
+85D98336:Bracelet
+8D417486:Heavy Bracelet
+8D3D2053:Heavy Bracelet
+8D3F4FE5:Gorget
+8D3F501C:Heavy Bracelet
+8D3F5041:Bracelet
+8D3C406F:Gorget
+8EEE9991:Amulet
+8D403704:Heavy Bracelet
+8D3B5930:Heavy Bracelet
+8D41453B:Heavy Necklace
+8F3DC91B:Pack
+8D414560:Gorget
+8D3D7072:Heavy Bracelet
+8D3D72AE:Heavy Bracelet
+8E72F973:Gorget
+85D96D35:Heavy Bracelet
+8D3F511E:Heavy Necklace
+85D824D3:Necklace
+8D41454E:Heavy Necklace
+8F511008:Bracelet
+8F4A62D1:Bracelet
+8F4761B0:Heavy Bracelet
+8F41B645:Gorget
+8F723890:Heavy Bracelet
+8F8A87AB:Heavy Bracelet
+8F8DCD30:Gorget
+8F834EF2:Necklace
+8F5B7630:Heavy Necklace
+8FA8CF25:Amulet
+8FC07B64:Amulet
+8FA8BB34:Heavy Bracelet
+8FBFF50D:Heavy Bracelet
+8FFB37B9:Gorget
+8FEFED5C:Heavy Bracelet
+8FFC7069:Heavy Necklace
+8FF9953B:Amulet
+900262FD:Heavy Bracelet
+901BB2BD:Heavy Bracelet
+9054D428:Bracelet
+90272AB3:Bracelet
+90174EF6:Heavy Necklace
+903B69D0:Bracelet
+
+Missing Exports - Possessed items that were not found:

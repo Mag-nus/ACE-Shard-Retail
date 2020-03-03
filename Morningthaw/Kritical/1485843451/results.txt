@@ -1,0 +1,115 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\pkt_2017-1-30_1485843220_desc\pkt_2017-1-30_1485843426_log.pcap
+
+Partial Exports - Missing appraisal info:
+C5D42D78:Baggy Shirt
+C5D42D79:Trousers
+C5D42D7A:Sack
+C5D42D7B:Bundle of Arrowshafts
+C5D42D7C:Bundle of Arrowheads
+C5D42D7D:Arrow
+C5D42D7E:Arrow
+C5D42D7F:Handy Healing Kit
+C5D42D80:Adept Healing Kit
+C5D42D81:Adept Healing Kit
+C5D1E6FE:Adept Healing Kit
+C5D42D82:Arrow
+C5D42D83:Sack
+C5D42D84:A Book of Quests for Young Explorers
+C5D42D85:Holtburg Information Guide
+C5D42D86:A Book of Quests for Young Explorers
+C5D42D87:Samsur Information Guide
+C5D42D88:Trade Note (1,000)
+C5D42D89:Trade Note (500)
+C5D42D8A:Trade Note (100)
+C5D42D8B:Trade Note (500)
+C5D42D8C:Old Scarlet Red Letter
+C5D42D8D:Pack
+C5D42D8E:Lead Scarab
+C5D42D8F:Saffron
+C5D42D90:Hyssop
+C5D42D9B:Pack
+C5D42D91:Comfrey
+C5D42D92:Damiana
+C5D42D9C:Hemlock Talisman
+C5D42D93:Ginseng
+C5D42D94:Yarrow
+C5D42D9D:Birch Talisman
+C5D42D95:Wormwood
+C5D42D96:Dragonsblood
+C5D42DA8:Yellow Taper
+C5D42D97:Vervain
+C5D42D98:Hawthorn
+C5D42D9E:Alder Talisman
+C5D42D99:Mandrake
+C5D42D9A:Mugwort
+C5D42D9F:Willow Talisman
+C5D42DA0:Cedar Talisman
+C5D42DA1:Poplar Talisman
+C5D42DA2:Rowan Talisman
+C5D42DA3:Ashwood Talisman
+C5D42DA4:Yew Talisman
+C5D42DA5:Blackthorn Talisman
+C5D42DA6:Ebony Talisman
+C5D42DA7:Pack
+C5D42DA9:Green Taper
+C5D42DAA:Turquoise Taper
+C5D42DAB:Blue Taper
+C5D42DAC:Orange Taper
+C5D42DAD:Violet Taper
+C5D42DAE:Indigo Taper
+C5D42DAF:Brown Taper
+C5D42DB0:White Taper
+C5D42DB1:Grey Taper
+C5D42DB2:Pink Taper
+C5D42DB3:Red Taper
+C5D42DB4:Powdered Onyx
+C5D42DB5:Quicksilver
+C5D42DB6:Cobalt
+C5D42DB7:Powdered Turquoise
+C5D42DBB:Pack
+C5D42DB8:Cinnabar
+C5D42DB9:Vitriol
+C5D42DBE:Cadmia
+C5D42DBA:Stibnite
+C5D42DBC:Quicksilver
+C5D42DD1:Lead Scarab
+C5D42DBD:Powdered Turquoise
+C5D42DBF:Powdered Agate
+C5D42DD7:Lead Scarab
+C5D42DC0:Realgar
+C5D42DC1:Powdered Hematite
+C5D42DDA:Adept Healing Kit
+C5D42DC2:Powdered Moonstone
+C5D42DC3:Powdered Bloodstone
+C5D42DDB:Gifted Healing Kit
+C5D42DC4:Stibnite
+C5D42DC5:Powdered Onyx
+C5D42DC7:Cobalt
+C5D42DC6:Cinnabar
+C5D42DC8:Gypsum
+C5D42DC9:Vitriol
+C5D42DCA:Verdigris
+C5D42DCB:Turpeth
+C5D42DD4:Chainmail Coif
+C5D42DCC:Powdered Malachite
+C5D42DCD:Powdered Quartz
+C5D42DDF:Pyreal
+C5D42DCE:Powdered Carnelian
+C5D42DCF:Colcothar
+C5D42DDD:Arrow
+C5D42DD0:Powdered Amber
+C5D42DD2:Hyssop
+C5D42DDE:Yumi
+C5D42DD3:Saffron
+C5D42DD5:Leather Gauntlets
+C5D42DE0:Pack Virindi
+C5D42DD6:Boots
+C5D42DD8:Armoredillo Hide Coat
+C5D42DD9:Studded Leather Leggings
+C5D42DDC:Aluvian Wand
+C5D42DE1:Pack Gaerlan
+C5D42DE2:Some Changes for February 2012
+C5D42DE3:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

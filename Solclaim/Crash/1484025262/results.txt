@@ -1,0 +1,210 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\pcap-scans\pkt_2017-1-9_1484025252_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Asherons-Call-20170124053825\pkt_2017-1-20_1484979626_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Asherons-Call-20170124053825\pkt_2017-1-20_1484985451_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Asherons-Call-20170124053825\pkt_2017-1-20_1484985580_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\pcap-scans\pkt_2017-1-8_1483920580_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\pcap-scans\crystal quest.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\pcap-scans\dump 1.pcap
+
+Partial Exports - Missing appraisal info:
+8B7917AD:Pyreal Pea
+8B7916AA:Gold Pea
+8BC6C714:Prismatic Taper
+82B53935:Splitting Tool
+8C3EDB61:Trade Note (10,000)
+95FB123C:Excellent Lockpick
+8CC15944:Silver Pea
+9BC4CF02:Pyreal
+82B53979:Pack
+844E5BC5:Facility Hub Portal Gem
+82FF5D14:Stone Tool
+87714959:Aligned Mana Stone
+8DB0F212:Essence of a Phantasm
+8CF04467:Ruined Amulet of the Heart
+9669D0FF:Invitation to Master Fletchers
+96E1955A:A Farmer's Plea for Help
+96E180EE:Cull the Drudges
+976F57C2:Signet Crown
+976E65F7:Shoes
+86EBDF72:Orb
+98951456:Peerless Healing Kit
+98952537:Peerless Healing Kit
+9A0AF312:Treated Healing Kit
+9AAF6EBA:Treated Healing Kit
+85F5C198:Portal Gem to the Callous Heart
+82F37E16:Pack
+85F5C18F:Portal Gem to the Callous Heart
+86A5C195:Alembic
+8A7CD899:Peerless Lockpick
+80CA040E:Wrapped Bundle of Deadly Blunt Arrowheads
+80C9FE66:Wrapped Bundle of Deadly Frog Crotch Arrowheads
+80CA05B6:Wrapped Bundle of Deadly Armor Piercing Arrowheads
+80CB666B:Wrapped Bundle of Deadly Acid Arrowheads
+8B7C50E8:Wrapped Bundle of Arrowheads
+8B92B5C2:Wrapped Bundle of Greater Deadly Blunt Arrowheads
+8B93CD1E:Wrapped Bundle of Greater Deadly Armor Piercing Arrowheads
+8C1ACB12:Wrapped Bundle of Arrowshafts
+96E03AED:Wrapped Bundle of Deadly Prismatic Arrowheads
+98F71D10:Slippers
+9A7092BE:Blighted Mana Crystal
+9A707568:Halaetan Magic Page 6
+98FD9D5B:Acid Bow
+9A6FB059:Diamond Heart
+9895A4F4:Corruptor's Crystal
+873845F8:Brilliant Shard
+9B060BC0:Smithy's Crystal
+87677528:Diadem
+8AC0B266:Excellent Lockpick
+9769D80D:Slippers
+95FEA6C3:Frost Knife
+87D4414C:Bracelet
+975FDEEC:Frost Staff
+9708DBA7:Major Mana Stone
+8AD4116E:Small Olthoi Venom Sac
+8AD87F9D:Ornate Gear Marker
+8C3AEB87:Golden Shuriken of Tanada
+8AA81747:Pack
+922B8938:Quest Weapon Coin
+8DB0F226:Pile of Gearknight Parts
+8A7B4DA8:Imaging Crystal
+96F2C86A:Fiun Hatchet
+87718548:Aetheria Mana Stone
+98FD9D5A:Doublet
+98FE52D5:Aetheria
+9A9EE6D7:Yellow Jewel
+98FE011D:Chevron Cloak
+976F365E:Teardrop Crown
+966A8465:Pyreal Bar
+978E9C57:Teardrop Crown
+9A11D05C:Teardrop Crown
+976F35E2:Aetheria
+95D59B72:Aetheria
+9A9A19DB:Yellow Jewel
+9A9FD214:Sezzherei's Lair
+9A9AA87F:Watcher Token
+9B0D4D81:Aetheria
+9A9620F4:Small Shard
+9BC62713:Quality Pyreal Ingot
+9BCAB03C:Pyreal Sliver
+88774311:Aetheria
+8CC4DEB8:Dire Champion Token
+8CC03505:A Broken Insignia Ring
+922BB808:Colosseum Coin
+8CCFFF59:A Broken Insignia Ring
+9224C9BC:A'nekshay Token
+92265CC2:Ancient Mhoire Coin
+95FC886D:Major Mana Stone
+942CAE7E:Sheet of Curved Metal
+95FDCE03:Black Page of Salt and Ash
+95F9DF2B:Aetheria
+9BC61D3B:An unknown crystal
+971A2C19:Golden Shuriken of Tanada
+972D2F06:Salvage (28)
+8CC3D330:Diamond Heart
+974A3284:Salvage (8)
+97536AC3:Chilled Shard
+95EB0C78:Salvage (8)
+97566A42:Salvage (11)
+97774C4F:Marble Key
+96DBE01A:Farmer Kao's Shovel
+9795B4C0:Major Mana Stone
+9791EEA0:Salvage (100)
+9A0D554F:Peerless Lockpick
+9798B2B2:Copy of Apostate Excavation Master's Orders
+97BE9264:Orange Monster Seed
+96EF2D44:Health Tonic
+97F1C1FA:Salvage (14)
+98A073AD:Ruined Amulet of Missile Weapons
+9A96A754:Underminer Notes
+989D8811:Ruined Amulet of Missile Weapons
+989F1FDC:Ruined Amulet of Missile Weapons
+94C6CF42:Insatiable Eater Jaw
+9A9BC776:Mana Tonic
+9A8AC6D5:Salvage (100)
+9A9B1864:Sake
+9A940B01:Salvage (29)
+9A97DD63:Salvage (70)
+9A9A8CDB:Dark Revenant Thighbone
+9A97EAA8:Salvage (24)
+9A9B5B6E:Osseous Mace
+80BA156D:Amber Ape
+98FDF8F1:Frost Compound Bow
+9A92A0F2:Diamond Powder
+9A772801:Serpent's Fang
+9A9D109F:Red Monster Seed
+9A9B37FD:Salvage (48)
+9A9A8265:Ivory Gromnie Tooth
+9A9B5B6D:Marble Key
+87CEA171:Intricate Carving Tool
+9A9FD215:Atlatl of the Fallen
+9A9E17A6:Gromnie Hide Helmet
+9B1C28F4:Salvage (100)
+9B1CA6AE:Salvage (66)
+9B1A7B6F:Marble Key
+9B1BD2C0:Nariyid Gauntlets
+937CBAA2:Stamina Tonic
+9B1F96A8:Salvage (63)
+9B152B99:Gem of Stillness
+9BADFBB2:Banished Blade
+9BAD7731:Salvage (100)
+9BB6F3D9:Salvage (100)
+9BB160B6:Granite Key
+922B9FA9:Writ of Refuge
+9BC4CE3D:Moderate Mana Stone
+9BC6B615:Stipend
+9BC603C6:Salvage (82)
+9BC6E54F:Salvage (24)
+9BC3C9CE:Salvage (46)
+9BCC92C9:Salvage (42)
+9BCC92F0:Salvage (90)
+9BC9FBE8:Salvage (76)
+9BCC942F:Salvage (20)
+9BB7D3E2:Deadly Prismatic Arrow
+9BCCB3DE:Salvage (22)
+9BCCB556:Gem of Stillness
+
+Missing Exports - Possessed items that were not found:
+82B53931
+82B53950
+82B5392C
+82B5392D
+87DE98CE
+95FFCE3E
+8B6C911A
+8B6C86B6
+8771863E
+976F1AA5
+976F5108
+976F4B49
+8B9D26FA
+8766A3C2
+95D593F1
+87315918
+87677514
+97277755
+82B53930
+855179CB
+86817067
+82B53940
+82B5393F
+82B5393E
+82B5393D
+8AC1A1AF
+82B5399E
+8588B86F
+87346E2F
+8588B80E
+87621956
+8553ED4B
+87667904
+82B53955
+82B53954
+82B53953
+82B53956
+82B53957
+8476B2FA
+84BA5EF1
+8B32F4E0

@@ -1,0 +1,34 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-30_1485815347_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-30_1485781607_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-30_1485796119_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-30_1485798182_log.pcap
+
+Partial Exports - Missing appraisal info:
+D7ADD7B8:Shirt
+D7ADD7B9:Wide Breeches
+D7ADD7BA:Leather Boots
+D7ADD7BB:Pyreal
+D7ADD7BC:Sack
+D7ADD7BD:Ust
+D7ADD7C1:Handy Healing Kit
+D7D89155:Asheron's Benediction
+D7D89125:Leather Leggings
+D7D89215:Leather Cap
+D87B0B8C:Blackmoor's Favor
+D87B0AF4:Oil of Rendering
+D87B0AF2:Academy Coat
+D87B0AF1:Facility Hub Portal Gem
+D874FEE5:Pathwarden Plate Hauberk
+D8742ABE:Pathwarden Plate Leggings
+D8742AC6:Pathwarden Sollerets
+D874FED9:Pathwarden Gauntlets
+D87C8D7F:Silver Pea
+D874FED8:Pathwarden Helm
+D874FED6:Pathwarden Robe
+D87C8D80:Vest
+D87B0AD2:Academy Spadone
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,160 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485840156_log.pcap
+
+Partial Exports - Missing appraisal info:
+DD244787:Pyreal
+DD24479F:Pyreal
+DD2447FB:Pack
+DD24464F:Salvage (100)
+DD244AC8:Salvage (100)
+DD2447EF:Pack
+DD244761:Salvage (100)
+DD2447A1:Salvage (100)
+DD2447DB:Pack
+DD2447D6:Salvage (100)
+DD13F422:Salvage (100)
+DD2447C0:Pack
+DD2447A8:Salvage (100)
+DD2447CD:Salvage (100)
+DD244752:Ust
+DD244786:Salvage (100)
+DD244757:Salvage (100)
+DD244A04:Banderling Scalp
+DD244785:Salvage (100)
+DD2447B3:Salvage (100)
+DD24468E:Pack
+DD2447B2:Salvage (100)
+DD2447A3:Salvage (100)
+DD244767:Pack
+DD24474F:Salvage (100)
+DD2446CE:Salvage (100)
+DD2447B1:Salvage (100)
+DD244758:Salvage (100)
+DD244799:Salvage (100)
+DD244798:Salvage (100)
+DD24476A:Salvage (100)
+DD244763:Salvage (100)
+DD2447CE:Salvage (100)
+DD244797:Salvage (100)
+DD244790:Salvage (100)
+DD244791:Salvage (100)
+DD24483A:Salvage (100)
+DD24473E:Salvage (100)
+DD24479A:Salvage (100)
+DD244751:Salvage (100)
+DD2447EE:Salvage (100)
+DD2447D9:Salvage (100)
+DD2447D8:Salvage (100)
+DD24483E:Salvage (100)
+DD244750:Salvage (100)
+DD244792:Salvage (100)
+DD2447CC:Salvage (100)
+DD2447D0:Salvage (100)
+DD2447ED:Salvage (100)
+DD2447BE:Salvage (100)
+DD2447AB:Salvage (100)
+DD244721:Salvage (100)
+DD244860:Salvage (100)
+DD24472B:Salvage (100)
+DD2447C2:Mortar and Pestle
+DD2447A4:Wrapped Bundle of Greater Deadly Armor Piercing Arrowheads
+DD244735:Wrapped Bundle of Greater Deadly Blunt Arrowheads
+DD24483D:Wrapped Bundle of Arrowshafts
+DD24476B:Salvage (100)
+DD13F6CD:Salvage (100)
+DD244753:Salvage (100)
+DD2447D1:Glyph of Life Magic
+DD24478C:Glyph of Item Enchantment
+DD2447AD:Glyph of Leadership
+DD2447F4:Glyph of Mana
+DD244811:Glyph of Light Weapons
+DD244825:Glyph of Finesse Weapons
+DD24479E:Glyph of Creature Enchantment
+DD2447A6:Glyph of Slashing
+DD2447A5:Glyph of Focus
+DD2447B6:Salvage (100)
+DD2448EE:Salvage (100)
+DD244706:Salvage (100)
+DD24476D:Salvage (100)
+DD24478A:Salvaged  (100)
+DD244724:Salvage (100)
+DD244795:Salvage (100)
+DD24476E:Salvage (100)
+DD2448ED:Salvage (100)
+DD2447AE:Salvage (100)
+DD2446FC:Salvage (100)
+DD244705:Salvage (100)
+DD244742:Brown Beans
+DD244745:Lapyan Plant
+DD24472F:Salvage (100)
+DD2448EC:Salvage (100)
+DD24462B:Salvage (100)
+DD24478B:Salvage (100)
+DD2446D9:Salvage (100)
+DD2446FB:Salvage (100)
+DD244A03:Salvage (100)
+DD244817:Salvage (100)
+DD2449DD:Salvage (100)
+DD24472D:Salvage (100)
+DD244765:Salvage (100)
+DD24475C:Salvage (100)
+DD244810:Salvage (100)
+DD2446D8:Salvage (100)
+DD244737:Salvage (100)
+DD2448F9:Salvage (100)
+DD244704:Salvage (100)
+DD244754:Salvage (100)
+DD244796:Salvage (100)
+DD2446FF:Salvage (100)
+DD2446CB:Salvage (100)
+DD244766:Salvage (100)
+DD2446C9:Salvage (100)
+DD2448F8:Salvage (100)
+DD24472E:Salvage (100)
+DD24475B:Salvage (100)
+DD2446CC:Salvage (100)
+DD2446DC:Salvage (100)
+DD24477C:Salvage (100)
+DD2446D0:Salvage (100)
+DD27F2DC:Salvage (100)
+DD27F2DB:Salvage (100)
+DD27F2DA:Salvage (100)
+DD27F2DD:Salvage (100)
+DD24476F:Salvage (100)
+DD244736:Salvage (100)
+DD244728:Salvage (100)
+DD244743:Chevron Cloak
+DD244679:Salvage (100)
+DD244870:Salvage (100)
+DD2447B9:Salvage (100)
+DD24477F:Salvage (100)
+DD2446DE:Salvage (100)
+DD2447E1:Salvage (100)
+DD244700:Salvage (100)
+DD2446A6:Salvage (100)
+DD2446D3:Salvage (100)
+DD2446D1:Salvage (100)
+DD24467C:Quill of Infliction
+DD2446D6:Quill of Introspection
+DD2446D4:Salvage (100)
+DD244697:Salvage (100)
+DD24468C:Salvage (100)
+DD24465C:Salvage (100)
+DD24468F:Salvage (100)
+DD24468D:Salvage (100)
+DD244731:Salvage (100)
+DD24470A:Salvage (100)
+DD244780:Salvage (100)
+DD2445A6:Salvage (100)
+DD244756:Salvage (100)
+DD244739:Salvage (100)
+DD24464E:Salvage (100)
+DD2446AA:Salvage (100)
+DD2446D7:Salvage (100)
+DD24465A:Salvage (100)
+DD244532:Salvage (100)
+DD2447E0:Salvage (100)
+DD24466D:Salvage (100)
+DD24466E:Ring
+
+Missing Exports - Possessed items that were not found:

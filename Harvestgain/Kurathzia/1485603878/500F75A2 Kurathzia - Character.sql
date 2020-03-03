@@ -1,0 +1,33 @@
+INSERT INTO `character` (`id`, `account_Id`, `name`, `is_Plussed`, `is_Deleted`, `delete_Time`, `last_Login_Timestamp`, `total_Logins`, `character_Options_1`, `character_Options_2`, `gameplay_Options`, `spellbook_Filters`, `hair_Texture`, `default_Hair_Texture`)
+VALUES (1343190434, 0, 'Kurathzia', False, False, 0, 0, 0, 1357161802, 26527488, NULL, 6130, 0, 0);
+
+INSERT INTO `character_properties_spell_bar` (`character_Id`, `spell_Bar_Number`, `spell_Bar_Index`, `spell_Id`)
+VALUES (1343190434, 0, 0, 2328)
+     , (1343190434, 0, 1, 2330)
+     , (1343190434, 0, 2, 2083)
+     , (1343190434, 0, 3, 2345)
+     , (1343190434, 0, 4, 2329)
+     , (1343190434, 0, 5, 2282)
+     , (1343190434, 0, 6, 2074)
+     , (1343190434, 0, 7, 5355)
+     , (1343190434, 0, 8, 5347)
+     , (1343190434, 0, 9, 5367)
+     , (1343190434, 0, 10, 5361)
+     , (1343190434, 0, 11, 5550)
+     , (1343190434, 0, 12, 5393)
+     , (1343190434, 0, 13, 5401)
+     , (1343190434, 0, 14, 5337)
+     , (1343190434, 0, 15, 5377)
+     , (1343190434, 0, 16, 5385);
+
+INSERT INTO `character_properties_title_book` (`character_Id`, `title_Id`)
+VALUES (1343190434, 1)
+     , (1343190434, 646)
+     , (1343190434, 765)
+     , (1343190434, 766)
+     , (1343190434, 767)
+     , (1343190434, 768)
+     , (1343190434, 769)
+     , (1343190434, 770)
+     , (1343190434, 771)
+     , (1343190434, 772);

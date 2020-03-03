@@ -1,0 +1,10 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-logs\AC logs\pkt_2017-1-22_1485046869_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-logs\AC logs\pkt_2017-1-22_1485046869_log.pcap
+
+Partial Exports - Missing appraisal info:
+D7ECD338:Pitted Slag
+
+Missing Exports - Possessed items that were not found:

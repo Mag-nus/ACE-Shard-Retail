@@ -1,0 +1,153 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Tiderius-playthrough-early-level-pcap-2017-01\pkt_2017-1-20_1484943502_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\Tiderius-playthrough-early-level-pcap-2017-01\pkt_2017-1-5_1483604912_log.pcap
+
+Partial Exports - Missing appraisal info:
+DAA91FE9:Pyreal
+DAA93124:Sack
+DAACDC97:Shadow Fragment
+DAA9229A:Plate Armoredillo Spine
+814886D3:Crown
+DAA91FBD:Chalice
+DAA922E3:Circlet
+DAA91FC2:Diadem
+DAA91EBF:Chalice
+DAA91F3E:Chalice
+DAA91F4F:Ust
+DAA91F32:Chalice
+DAA9230E:Chalice
+DAA91FDC:Training Wand
+DAA9234E:Chalice
+DAA91ED2:Ornamental Bowl
+DAA91EE7:Prismatic Taper
+DAA92012:Goblet
+DAA91E8D:Fire Sceptre
+DAA91EE2:Fire Sceptre
+DAA91ED0:Slashing Baton
+DAA91F42:Frost Sceptre
+DAA91EE9:Lead Scarab
+D88FE18D:Fire Baton
+DAA93142:Frost Sceptre
+DAA91E8E:Handy Healing Kit
+DAA91F51:Slashing Sceptre
+DAA91F48:Bracelet of Knowledge
+DAA9200A:Letter From Home
+DAA91FF4:Training Cestus
+DAA91F50:Foci of Artifice
+DA72F869:Apple
+DAA92290:Blackmoor's Favor
+DAA93150:Nekode
+D981C5EE:Untranslated Page #20
+DAAF5D10:Salvaged  (87)
+DAA93152:Sunflower
+DAA93154:Lugian Hammer
+DAA93153:Adept Healing Kit
+DAA9315B:The Silifi of Crimson Stars
+DAA9315C:Pumpkin
+DAA91F6A:Notes on the Silifi
+DAA91F85:The Silifi of the Crimson Stars
+DA980388:Lorica Gauntlets
+DAA92017:Lugian Hammer
+DA835351:Candy Corn
+DAA93155:Pumpkin Cookie Cutter
+DAA9232B:Pumpkin Cookie Cutter
+DAA9315D:Pumpkin Cookie Cutter
+DAA93162:Pumpkin Cookie Cutter
+DAA9315E:Pumpkin Cookie Cutter
+DAA922B3:Pumpkin Cookie Cutter
+DAA92363:Chunk of High-Grade Chorizite
+DAA91F6E:Chunk of High-Grade Chorizite
+DAA922E6:Chunk of High-Grade Chorizite
+DAA91FA8:Chunk of High-Grade Chorizite
+DAA93169:Copper Scarab
+DAA9204D:Armored Undead Body with one arm
+DAA9204C:Notes on Chorizite Distillation
+DAA9204A:Silver Scarab
+DAA91F35:Stamina Tincture
+DAA922F4:Necklace
+DAA9229C:Ring
+DAA1B7D7:Royal Atlatl
+DAA92335:Pyreal
+DAA91ECE:Adept Healing Kit
+DAA91F67:Stamina Tincture
+DAA91EEA:Adept Healing Kit
+DAA92291:Adept Healing Kit
+DAA91FCE:Copper Pea
+DAA19D1E:Lightning Lugian Hammer
+DAA19D1C:Scroll of Light Weapon Mastery Self VII
+DAA91F33:Scroll of Heal Other VI
+DAA19D18:Silifi of Crimson Stars
+DAA92064:Scroll of Vigor Siphon
+DAA9208E:Aura of Elysa's Sight
+DAA922A2:Fiun Head
+DAA9316F:Gem
+DAA91ECF:Gem
+DAA91ECD:Celdon Leggings
+DAA91ED3:Scroll of Wrath of Adja
+DAA91ED1:Pyreal
+DAA91ECC:Fletcher's Crystal
+DAA7EE9A:Pyreal
+DAA1ADD3:Pyreal
+DAAF7C86:Pyreal
+DAA920B9:Tower Shield
+DAA920B8:Pack
+DAA920CC:Slippers
+DAA91F95:Chiran Sandals
+DAA922F2:Clasp of the Arm
+DAA91FAA:Slashing Baton
+DAA92283:Dark Sapphire Ring
+DAA922C9:Dirk
+DAA91F17:Staff
+DAA9313F:Piercing Baton
+DAA7DEB6:Thin Gromnie Hide
+DAA922D9:Acid Baton
+DAA9150A:Necklace
+DAAECC80:Rust Gromnie Tooth
+DAA93191:Tunic
+DAA931B5:Heavy Bracelet
+DAA9320D:Staff of the Fallen
+DAAE0FD4:Pack
+DAA7FCCA:Slashing Baton
+DAA5CA57:Acid Sceptre
+DAAB3C6E:Shirt
+DAAEDE7F:Shirt
+DAA19D38:Penguin Wing
+DAA91489:Artificer's Crystal
+DAA19D31:Electric Sceptre
+DAA19D34:Piercing Sceptre
+DAA19D33:Electric Baton
+DAAF84CF:Silver Pea
+DAA91F9D:Celdon Girth
+DAA9236C:Adolescent Azure Gromnie Eye
+DAAF8155:Pack
+DAAF8154:Celdon Girth
+DAAF8156:Electric Sceptre
+DAAF7CF3:Some Changes for February 2012
+DAAEDCE3:Chainmail Greaves
+DAA931CE:Fire Baton
+DAA923B3:Frost Sceptre
+DAA931E3:Heavy Bracelet
+DAA91D47:Quintessence Sickle
+DAA91F84:Piercing Sceptre
+DAA91F34:Heavy Bracelet
+DAAF8598:Flaming Cestus
+DAA920A4:Acid Sceptre
+DAAF7CE3:Piercing Sceptre
+DAA92094:Golden Pumpkin
+DAAF7CE4:Hennacin Plant
+DAAF7CD9:Salvaged  (100)
+DAA9320C:Mages Loop
+DAA931F8:Frost Sceptre
+DAA91D45:Fire Sceptre
+DAAF859A:Bracelet
+DAAF8599:Tenassa Sleeves
+DAA931C0:Yoroi Pauldrons
+DAA9201D:Chiran Sandals
+D0A9893C:Crown
+DAAF7CF4:Festival Shirt
+DAAF7CF1:Salvaged  (100)
+DAA923B2:Sanguinary Aegis
+
+Missing Exports - Possessed items that were not found:

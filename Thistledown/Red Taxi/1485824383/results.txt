@@ -1,0 +1,148 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-30_1485823052_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-31_1485847511_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-31_1485855647_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-31_1485855647_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-31_1485855647_log.pcap
+
+Partial Exports - Missing appraisal info:
+AAC763FB:Pyreal
+AAF168EB:Shirt
+AABA0CEA:Scroll of Frost Bane VI
+AAEE8854:Baggy Tunic
+AA9F09F7:Wide Breeches
+AAC763FD:Ust
+AABFC11D:Loose Breeches
+AAB73EC9:Loose Breeches
+AABB683E:Viamontian Pants
+AA8E2B07:Flared Pants
+AAC1FE68:Loose Pants
+AA991AB9:Doublet
+AABA0363:Baggy Shirt
+AABB8016:Flared Tunic
+AAAE972C:Tunic
+AA91D50F:Loose Pants
+AAF94ECF:Loose Shirt
+AA951AC9:Aura of Defender Self VI
+AA9B01A7:Scroll of Blade Bane VI
+AAEEBE80:Scroll of Inferno's Bane
+AAEB9DCF:Scroll of Pacification
+AAA1B56A:Scroll of Lugian's Speed
+AAA2297B:Scroll of Flame Bane VI
+AAE91A56:Scroll of Tusker's Bane
+AAA598E0:Aura of Blood Drinker Self VI
+AAC763FE:Calling Stone
+AAC763FF:Pathwarden Token
+AAC76405:Foci of Artifice
+AAF666B9:Blackmoor's Favor
+AAF66A05:Oil of Rendering
+AAF66A06:Oil of Rendering
+AAF66A08:Facility Hub Portal Gem
+AAF59533:Treated Healing Kit
+AAEEBEC8:Pocket Watch
+AAEA4F41:Ring
+AAEEA996:Bracelet
+AABA0CAD:Ring
+AAB4256B:Ring
+AAB1F4B7:Ring
+AA3E35D0:Ring
+AA5C3887:Ring
+AA5C9E42:Ring
+AA5DB287:Ring
+AAAF88CB:Dansha-Ki's Ring
+AA601894:Ring
+AA7EF7ED:Ring
+AA84D52D:Ring
+AA8631D5:Ring
+AAA92DC2:Ring
+AA9DB6F5:Ring
+AA9B580D:Ring
+AA991D8E:Ring
+AA98972D:Ring
+AA983676:Ring
+AAF0C6B3:Metal Cap
+AA647154:Amulet
+AA61649A:Amulet
+AA98BD63:Necklace
+AAE46EA8:Necklace
+AAEE703A:Gorget
+AAA24AD7:Heavy Bracelet
+AA9ACD7A:Heavy Bracelet
+AA98624D:Heavy Bracelet
+AAEF59D3:Bracelet
+AA3BD692:Heavy Bracelet
+AABF2F9E:Heavy Bracelet
+AADFF1BA:Bracelet
+AA9B1315:Heavy Bracelet
+AA84DA5E:Bracelet
+AA84D339:Bracelet
+AA6453B8:Bracelet
+AA9AF399:Heavy Necklace
+AA9922E4:Heavy Necklace
+AAF4DD45:Covenant Helm
+AABA8CE1:Compass
+AAED2E25:Amulet
+AAF5DC4C:Treated Healing Kit
+AAED30BD:Horned Helm
+AAEA7745:Treated Healing Kit
+AAF2D7D7:Covenant Helm
+AAB49F0F:Fez
+AA605E3D:Cloth Cap
+AA5C33E8:Platemail Gauntlets
+AAF5E94A:Cloth Gloves
+AAEECC96:Treated Healing Kit
+AAFB8EA7:Leather Sleeves
+AABC9047:Enchanter's Crystal
+AAF61483:Orb
+AAE9ABC5:Heavy Bracelet
+AAEA5656:Treated Healing Kit
+AAF5BDDD:Crown
+AAF412E1:Cloth Gloves
+AABAF807:Treated Healing Kit
+AAF63570:Heavy Necklace
+AABA1124:Treated Healing Kit
+AAAEB6FB:Treated Healing Kit
+AAEA7746:Treated Healing Kit
+AAAE6B0F:Treated Healing Kit
+AAF59534:Treated Healing Kit
+AAA5B78D:Aura of Infected Caress
+AAFD8B53:Scroll of Blade Bane VI
+AAEE0306:Aura of Elysa's Sight
+AAF044CE:Scroll of Vagabond's Gift
+AAF5DDA3:Scroll of Swordsman's Bane
+AAE32926:Scroll of Clouded Motives
+AB041A99:Platemail Sleeves
+AABA008C:Scroll of Olthoi Bait
+AAFCD7B5:Platemail Gauntlets
+AABDBBCA:Aura of Spirit Drinker Other VI
+AAFE6A70:Scroll of Frost Bane VI
+AAFF35FC:Platemail Gauntlets
+AAFF3112:Doublet
+AAF79382:Aura of Heartseeker Other VI
+AB06372D:Bloodied Burun Hide
+AB0B4C03:Covenant Helm
+AB0EE58C:Heavy Bracelet
+AABA8BC4:Loose Breeches
+AB0FD785:Compass
+AB138DD1:Heavy Necklace
+AB13A39C:Cloth Gloves
+AB1F1AFF:Loafers
+AAFF320A:Heavy Bracelet
+AB061009:Cloth Gloves
+AB158FF5:Ring
+AB0F2592:Pantaloons
+AB137FC8:Heavy Bracelet
+AB138283:Heavy Bracelet
+AB0BF5B4:Heavy Bracelet
+AA8E0779:Bracelet
+AB0BC984:Heavy Bracelet
+AB0D3D85:Platemail Gauntlets
+AB366AC8:Cloth Cap
+AB37E5E5:Covenant Helm
+AB29ABB4:Platemail Pauldrons
+AAA45125:Celdon Leggings
+AB37F2CB:Studded Leather Cuirass
+
+Missing Exports - Possessed items that were not found:

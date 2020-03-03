@@ -1,0 +1,18 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-31_1485853763_log.pcap
+
+Partial Exports - Missing appraisal info:
+A57A6EB8:Smock
+A57A6EB9:Trousers
+A57A6EBB:Pyreal
+A57A6EBC:Sack
+A57A6EBD:Ust
+A57A6EBF:Pathwarden Token
+A57A6EC0:Training Dirk
+A57A6EC3:Foci of Artifice
+A57A6EC4:Prismatic Taper
+A57A6EC5:Lead Scarab
+A57A6EC6:Handy Healing Kit
+A57A6EC7:Letter From Home
+
+Missing Exports - Possessed items that were not found:

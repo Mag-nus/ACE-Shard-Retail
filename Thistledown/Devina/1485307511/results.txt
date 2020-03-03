@@ -1,0 +1,53 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-24-2017-pkt_2017-1-24_1485307505_log\pkt_2017-1-24_1485307505_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-24-2017-pkt_2017-1-24_1485305851_log\pkt_2017-1-24_1485305851_log.pcap
+
+Partial Exports - Missing appraisal info:
+AB84589E:Flared Shirt
+AB7E5BA7:Flared Pants
+AB7E4DE7:Shoes
+AB7E594A:Foci of Verdancy
+AB7CEB32:Prismatic Taper
+AB7E5A32:Lead Scarab
+AB8458AF:Apple
+AB7E5A72:Sack
+AB7E5A3C:Nekode
+AB8458A5:Suikan Life Apprentice Robe
+AB7E5D31:Treated Healing Kit
+AB7E598D:Treated Healing Kit
+AB7E5C41:Treated Healing Kit
+AB7E5A14:Treated Healing Kit
+AB7E5ABE:Treated Healing Kit
+AB8458AE:Olthoi Helm
+AB7E5A35:Foci of Artifice
+AB7E1C85:Copper Scarab
+AB7D1F14:Josef's Wish List
+AB7E5E36:Bunch of Nanners
+AB8458A4:Treated Healing Kit
+AB84589C:Scroll of Deception Ineptitude VI
+AB7E5CBA:Scroll of Finesse Weapon Mastery Other IV
+AB7E5A36:Pyreal Scarab
+AB8458C0:Atlatl
+AB7E5D93:Khanjar
+AB7E5A1D:Vial of Organic Acid
+AB8458AD:Gold Scarab
+AB7E59F2:Gold Phyntos Wasp Wing
+AB7E5A3D:Pack
+AB7E5EFA:Pack Bael'Zharon
+AB84589B:Olthoi Helm
+AB8458C9:Frost Morning Star
+AB7E5DA2:Sho Wand
+AB7E596F:Faran Robe
+AB7E5B24:Platemail Gauntlets
+AB8458A3:Pyreal
+AB7E5D5F:Asheron's Benediction
+AB81D6C9:Blackmoor's Favor
+AB8458BF:Quarrel
+AB8458AC:Quarrel
+AB8458B7:Some Changes for February 2012
+ABA4DB41:Imbue Swap Coin
+AB7E5A6E:Heavy Crossbow
+
+Missing Exports - Possessed items that were not found:

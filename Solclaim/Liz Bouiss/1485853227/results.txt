@@ -1,0 +1,18 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-31_1485853069_log.pcap
+
+Partial Exports - Missing appraisal info:
+9C755454:Shirt
+9C755455:Pants
+9C755457:Pyreal
+9C755458:Sack
+9C755459:Ust
+9C75545B:Pathwarden Token
+9C75545D:Foci of Strife
+9C75545E:Foci of Verdancy
+9C75545F:Foci of Enchantment
+9C755460:Prismatic Taper
+9C755461:Lead Scarab
+9C755462:Letter From Home
+
+Missing Exports - Possessed items that were not found:

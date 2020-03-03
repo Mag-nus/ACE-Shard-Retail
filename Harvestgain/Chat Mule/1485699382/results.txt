@@ -1,0 +1,176 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2-20170203071709\pkt_2017-1-29_1485699206_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2\pkt_2017-1-27_1485524708_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2\pkt_2017-1-30_1485770030_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2\pkt_2017-1-30_1485770030_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485761982_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2\pkt_2017-1-30_1485774937_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2\pkt_2017-1-30_1485774937_log.pcap
+
+Partial Exports - Missing appraisal info:
+810340F9:Ust
+810340FD:Blackmoor's Favor
+810340FE:Asheron's Benediction
+81034100:Metal Cap
+81034101:Cowl
+81034102:Loafers
+81034103:Iron Pea
+81034105:Steel Toed Boots
+810341B4:Ivory Gromnie Tooth
+81034109:Facility Hub Portal Gem
+8103410A:Dansha-Ki's Gem of Portal Recall
+810341B3:Thin Gromnie Hide
+810341B2:Thin Gromnie Hide
+810341B0:Banderling Scalp
+81034111:Foci of Artifice
+81034113:Leather Vest
+81034117:Bracelet
+81034114:Studded Leather Leggings
+81034115:Chainmail Sleeves
+81034116:Studded Leather Bracers
+81034119:Platemail Gauntlets
+8103411F:A List of Items
+8103411A:Large Round Shield
+8103411D:Directions to the Shreth Hive
+8103411E:Directions to Nen Ai's House
+81034121:Lightning Cestus
+81034122:Shamshir
+81034124:Mechanical Scarab
+81034139:Halaetan Magic Page 6
+81034126:Turban
+81034127:Mechanical Scarab
+811D1B2B:Aqua Incanta
+81034128:Coalesced Mana
+81034129:Pathwarden Robe
+811D1B38:Concentrated Aqua Incanta
+811D1B4F:Concentrated Aqua Incanta
+8103412F:Nether Baton
+81034131:Baggy Pants
+81034133:Pack Drudge
+81034135:Plate Armoredillo Hide
+81034134:Pack Drudge
+81034136:Frost Baton
+81034138:Mechanical Scarab
+811D1B3D:Baking Pan
+81034141:Amuli Leggings
+81034148:Nabut
+81034143:Dericost Blade
+8EDAA0D9:Coronet
+C7313DF9:Stipend
+8EECDDAB:Covenant Tassets
+8EDB1CE0:Loose Breeches
+8EEB3F72:Gorget
+8EE299F2:Teardrop Crown
+8EECE12E:Circlet
+8EF249D2:Circlet
+811D1B3F:Cooking Pot
+88FE1D6E:Electric Bow
+89031A18:Fire Compound Bow
+88589893:Morning Star
+810341AE:Piercing Compound Bow
+810341AD:Fire Bow
+810341AC:War Bow
+811D1B8A:Slashing Bow
+811D1B88:Fire Bow
+811D20D8:Slashing Bow
+811D1B8B:Slashing Bow
+81034154:Dericost Blade
+811D1B3E:Dried Yeast
+81034156:Dericost Blade
+81034158:Frost Dericost Blade
+81027B76:Lautaloi
+8103415C:Fire Spine Glaive
+805EACE4:Electric Bow
+805EACF8:Fire Compound Bow
+805EACD4:Fire Compound Bow
+8C38CAA9:Fire Bow
+81034180:Flaming Spadone
+81034181:Yaoji
+811D1B80:Longbow
+81034163:Frost Hammer
+81034166:Cloth Gloves
+81034168:Suikan Over-robe
+81034169:Wide Breeches
+8103416A:Loose Tunic
+8103416D:Shoes
+81034170:Loafers
+8103416E:Doublet
+8103416F:Shirt
+81034184:Acid Takuba
+81034199:Flaming Ken
+811D1B6A:Fire Bow
+811D1B20:Cadmia Pea
+8103418E:Ring
+8103418F:Frost War Axe
+890768B7:Lightning Kaskara
+81034190:Acid Stick
+81034191:Flaming Lugian Hammer
+81034192:Lightning Long Sword
+81034193:Electric Spine Glaive
+81034194:Takuba
+81034196:Studded Leather Girth
+81034197:Mace
+81034198:Long Sword
+8103419A:Round Shield
+8103419B:Morning Star
+8103419D:Heavy Necklace
+8103419E:Lugian Hammer
+810341A2:Alduressa Boots
+811D1B21:Gypsum Pea
+810341A5:Heavy Bracelet
+810341A7:Alduressa Helm
+810341A8:Bracelet of Knowledge
+88589898:Fire Spine Glaive
+88589899:War Axe
+8858989B:Lightning Broad Sword
+8858989A:Long Sword
+8A82D654:Lightning Silifi
+89054053:Platemail Breastplate
+890704B8:Fire Trident
+8A7FADFD:Lugian Hammer
+8A7FA306:Olthoi Koujia Kabuton
+8A7FCB40:Jerkin
+80FDF526:Crown
+8A7E8818:Amuli Coat
+8103411B:Cloth Gloves
+8D69B759:Loafers
+8D62C625:Puffy Shirt
+8D709577:Encapsulated Spirit
+8C485388:Stick
+8EF09E84:Sollerets
+811D1B4B:Brimstone Pea
+8EF234D1:Bracelet
+8EF01F8B:Electric Baton
+8EEFABDD:Goblet
+8EEEA91D:Electric Sceptre
+8B97EBF7:Circlet
+811D1B4D:Concentrated Acid Infusion
+811D1B4A:Vitriol Pea
+811D1B49:Quicksilver Pea
+811D1B48:Turpeth Pea
+811D1B47:Stibnite Pea
+811D1B45:Fire Oil
+811D1B44:Fire Infusion
+811D1B43:Glorious Fermented Brew
+811D1B42:Glorious Amber Brew
+811D1B41:Glorious Dark Brew
+811D1B40:Elaborate Dried Rations
+811D1B3C:Plain Barley
+811D1B22:Neutral Balm
+811D1B3B:Amber Barley
+811D1B3A:Ultra Green Hops
+811D1B1F:Cinnabar Pea
+811D1B39:Wrapped Bundle of Fire Arrowheads
+811D1B17:Heavy Crossbow
+811D1B16:Light Crossbow
+811D1B15:Heavy Crossbow
+811D1B14:Heavy Crossbow
+811D1B1E:Concentrated Health Infusion
+80FBB6E8:Alduressa Coat
+80FB6D09:War Axe
+805F01B8:Yumi
+805EACD2:Acid Bow
+
+Missing Exports - Possessed items that were not found:

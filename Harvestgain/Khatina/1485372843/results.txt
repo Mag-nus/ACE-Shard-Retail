@@ -1,0 +1,62 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-25_1485372631_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps-20170203071513\pkt_2017-1-27_1485526251_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps-20170203071513\pkt_2017-1-27_1485526251_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485766761_log.pcap
+
+Partial Exports - Missing appraisal info:
+811B588D:Ust
+811A45B9:Foci of Strife
+811BFCBA:Foci of Verdancy
+810E981D:Asheron's Benediction
+811A9996:Academy Library Key
+811A900F:Scroll of Destructive Curse III
+811A7E03:Pathwarden Robe
+811B672C:Mages Loop
+811B6838:Faran War Apprentice Robe
+811D1E7C:Clasp of the Heart
+811D1E85:Great Mana Charge
+811D1E7D:Clasp of the Arm
+811D1E7E:Ring of Enchantment
+811D1E80:Ring of Enhancement
+811D1E7F:Kiyafa Robe
+811D1E81:Artificer's Crystal
+811D1E8A:Coalesced Mana
+811D1E86:Sturdy Iron Key
+811D1E84:Facility Hub Portal Gem
+811D1EA3:Key
+811D1E87:Sturdy Iron Key
+811D1E9B:Lead Pea
+811D1E9C:Iron Scarab
+811D1E9D:Lead Scarab
+811D1E9E:Compass
+811D1E9F:Blackmoor's Favor
+811D1EA0:Facility Hub Portal Gem
+811D1EA1:A List of Items
+811D1EA2:Academy Stamp
+811D1EA4:Key
+811D1EA5:Foci of Artifice
+811D1EA6:Copper Scarab
+811D1EA7:Prismatic Taper
+811D1EA9:Splitting Tool
+811D1EAA:Mug
+811D1EB1:Key
+811D1EAC:Sollerets
+811D1EAD:Amuli Leggings
+811D1EB2:Untranslated Page #4
+811D1EAE:Platemail Gauntlets
+811D1EAF:Amuli Coat
+811D1EBC:Pyreal
+811D1EB0:Shadow Captain's Heaume
+811D1EBD:Pyreal
+91587F0E:Small Bundle of Badlands Siraluun Feathers
+A19C7F50:Ash Gromnie Wings
+91531F95:Tidal Siraluun Claw
+9155085E:Strand Siraluun Claw
+9168C0E5:Large Sclavus Hide
+C01DD2A0:Blank Augmentation Gem
+C5889DED:Stipend
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,75 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-25_1485348011_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-24_1485277486_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-24_1485277486_log.pcap
+
+Partial Exports - Missing appraisal info:
+DC39EA8A:Flared Shirt
+DC404D61:Flared Pants
+DC406B33:Foci of Artifice
+DC406B5E:Pack
+DC663463:Prismatic Taper
+DC663489:Lead Scarab
+DC67CE79:Copper Scarab
+DC67CE78:Silver Scarab
+DC663460:Iron Scarab
+DC406B3F:Gold Scarab
+DC3E35F5:Pyreal Scarab
+DC406BC4:Foci of Enchantment
+DC406B60:Foci of Verdancy
+DC406B47:An Unlocked Tiny Mnemosyne
+DC406B7E:Pack
+DC484E52:Treated Healing Kit
+DC406B91:Little Green Seeds
+DC406B67:Little Green Seeds
+DC386B1C:Little Green Seeds
+DC38B955:Pack
+DC406BBF:Karenua's Key
+DC406B9F:Olthoi Ichor
+DC406C10:Siraluun Headdress
+DC406B92:Trade Health Elixir
+DC46353F:Lightning Cestus
+DC406BBE:Health Elixir
+DC406BB9:Vapor Golem Heart
+DC3E39ED:Seal Fragment
+DC406B8E:Small Shard
+DC406BEB:Acid Nekode
+DC406BB0:Pyreal
+DC406C18:An Unlocked Large Mnemosyne
+DC406B97:An Unlocked Large Mnemosyne
+DC406C09:An Unlocked Large Mnemosyne
+DC0BB580:Kabuton
+DC3E6FF2:Flaming Cestus
+DC406C17:Frost Cestus
+DC406BC3:Tusker Guard Tusk
+DC406BE0:Phantom Katar
+DC406BE3:Dark Sorcerer's Phylactery
+DC487357:Scroll of Rending Wind
+DC406BC5:Scroll of Sizzling Fury
+DC3E7FC1:Scroll of Outlander's Insolence
+DC406BEC:Asheron's Benediction
+DC39DBD1:Blackmoor's Favor
+DC406BE6:Covenant Shield
+DC406BE8:Faran Robe with Hood
+DC40F718:Heaume
+DC406B7D:Sollerets
+DC44713C:Academy Wand
+DC406BE4:Katar
+DC3E3E20:Pack
+DC406B35:Concentrated Aqua Incanta
+DC3E151C:Stibnite Pea
+DC46DC21:Quicksilver Pea
+DC406BBC:Clean, Dry Towel
+DC406B50:Uninscription Stone
+DC402BD5:Tusker Island Shirt
+DC406BE1:Concentrated Bloodseeker Oil
+DC406BFC:Concentrated Bloodhunter Oil
+DC406BAC:Wrapped Bundle of Deadly Frost Arrowheads
+DC406BA6:Yag
+DC406B9D:Longbow
+DC406BE2:Some Changes for February 2012
+DC406BAF:Deadly Hollow Katar
+
+Missing Exports - Possessed items that were not found:

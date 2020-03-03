@@ -1,0 +1,75 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap6\pkt_2017-1-29_1485719179_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap6\pkt_2017-1-29_1485719179_log.pcap
+
+Partial Exports - Missing appraisal info:
+D85C1E7C:Cloth Cap
+D85C1D38:Shirt
+D85C1CC0:Trousers
+D85C1CB4:Pyreal
+D85C1D36:Powdered Moonstone
+D85C1D2C:Quicksilver
+D85C1CB3:Rowan Talisman
+D85C1CD6:Lead Scarab
+D85C1CC6:Hyssop
+D85C1CD1:Powdered Hematite
+D85C1D09:Poplar Talisman
+D85C1CA6:Realgar
+D85C1CF2:Bread
+D85C1CF1:Handy Healing Kit
+D85C1D12:Bundle of Arrowshafts
+D85C1C8E:Bundle of Quarrelshafts
+D85C1CFF:Bundle of Arrowheads
+D85C1D27:Mortar and Pestle
+D85C1D58:Gem
+D85C1DAC:Gem
+D85C1D0A:Gem
+D85C1CA7:Flour
+D85C1E2B:Water
+D85C1D07:Welcome Letter
+D85C1CFD:Calling Stone
+D85C1CAD:Chainmail Basinet
+D85C1D11:Celdon Leggings
+D85C1CCC:Aluvian Wand
+D85C1D68:Starter Knife
+D85C1CE6:Wrapped Bundle of Quarrelshafts
+D85C1CF5:Wrapped Bundle of Broad Arrowheads
+D85C1C92:Pyreal
+D85C1C8B:Quarrel
+D85C1CFE:Pyreal
+D85C1D59:Ring
+D85C1CB0:Shoes
+D85C1C99:Katar
+D85C1CD9:Poofy Snowball
+D85C1CC1:Mask Spear-Head
+D85C1D24:Pack
+D85C1CF3:Pack
+D85C1CC7:Cheese
+D85C1CFA:Cooking Pot
+D85C1CE3:Essence of a Phantasm
+D85C1D2B:Essence of a Phantasm
+D85C1CEA:Skeleton's Skull
+D85C1C9A:Fenmalain Key
+D85C1C8D:Moldy Tome
+D85C1D61:Blood Stained Book
+D85C1CC2:Muddy Towel
+D85C1D75:Olthoi Stamp
+D85C1D74:Soulrender Arrowhead
+D85C1D1F:Candeth Keep Stamp
+D85C1D7D:Koujia Breastplate
+D85C1CBF:Platemail Girth
+D85C1CE5:Rapier
+D85C1CE1:Scroll of Lightning Arc VII
+D85C1CE8:Scroll of Enervation
+D85C1CA5:Scroll of Saladur's Blessing
+D85C1CEC:Scroll of Unflinching Persistence
+D85C1CA4:Scroll of Sudden Frost
+D85C1D17:Orb
+D85C1CE2:Soulrender Arrow
+D85C1D1D:Pack Gaerlan
+D85C1CD8:Some Changes for February 2012
+D85C1CF7:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

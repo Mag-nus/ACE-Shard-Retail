@@ -1,0 +1,19 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-31_1485853763_log.pcap
+
+Partial Exports - Missing appraisal info:
+A57A6E99:Doublet
+A57A6E9A:Pants
+A57A6E9B:Shoes
+A57A6E9C:Pyreal
+A57A6E9D:Sack
+A57A6E9E:Ust
+A57A6E9F:Calling Stone
+A57A6EA0:Pathwarden Token
+A57A6EA3:Arrow
+A57A6EA4:Round Shield
+A57A6EA6:Letter From Home
+A57A6EA7:Bread
+A5BFC5B0:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

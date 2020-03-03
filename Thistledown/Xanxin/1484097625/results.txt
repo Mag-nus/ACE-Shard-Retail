@@ -1,0 +1,122 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\trello_datamining\0_Random1.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-14_1484441080_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-25_1485350558_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-25_1485351290_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-30_1485818713_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-30_1485820096_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-30_1485820096_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-30_1485822299_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\Random1.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\Random4.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\Random7.pcap
+
+Partial Exports - Missing appraisal info:
+A0849E1B:Facility Hub Portal Gem
+A084AD8C:Yanshi Town Stamp
+A084AC95:Prismatic Taper
+A084AC9B:Copper Scarab
+A08211FC:Silver Scarab
+A084AC9A:Black Page of Salt and Ash
+A0849D8A:Writ of Refuge
+A0849D89:Pyreal Scarab
+A084AC98:Wrapped Bundle of Arrowshafts
+A0844CFA:Forager Captain's Resonator
+A084AC5D:Wrapped Bundle of Armor Piercing Arrowheads
+A081F87B:Wrapped Bundle of Blunt Arrowheads
+A084AC6B:Concentrated Fire Oil
+A084AC73:Concentrated Lightning Oil
+A0848BD7:Gem of Balance
+A084ACA8:Pyreal
+A084A0E6:Concentrated Bloodhunter Oil
+A08206A5:Concentrated Bloodseeker Oil
+A084AC91:Concentrated Acid Oil
+A082113B:Wrapped Bundle of Arrowheads
+A0800855:Wrapped Bundle of Arrowshafts
+A08206AF:Wrapped Bundle of Greater Deadly Armor Piercing Arrowheads
+A07F03F0:Wrapped Bundle of Greater Prismatic Arrowheads
+A0844D02:Invitation to Master Fletchers
+A0844D0A:Wrapped Bundle of Deadly Prismatic Arrowheads
+A0849E39:Mi Krau-Li's Jitte
+A0849DA2:Treated Healing Kit
+A0828E7A:Treated Healing Kit
+A08204A4:Treated Healing Kit
+A0849E3A:Greater Stamina Kit
+A0829705:Lesser Stamina Kit
+A084ACD5:Treated Healing Kit
+A081F53F:Treated Healing Kit
+A084ADD1:Lesser Stamina Kit
+A084ADD0:Lesser Mana Kit
+A084AC8C:Treated Healing Kit
+A084ACDA:Treated Healing Kit
+A0849DAC:Treated Healing Kit
+A0849DAB:Treated Healing Kit
+A081AB97:Treated Healing Kit
+A0849DAD:Treated Healing Kit
+A07F01A3:Lesser Stamina Kit
+A084AC76:Treated Healing Kit
+A0829946:A Small Mnemosyne
+A0829976:Te Ven's Key
+A0849E49:Ornate Gear Marker
+A0829242:Aetherium Ore
+A084ACE7:A'nekshay Token
+A084ACE1:Small Olthoi Venom Sac
+A08495AE:Scratched Gear
+A0849C59:Ust
+A0849DB6:Blackmoor's Favor
+A082902E:Coalesced Mana
+A08495AC:Aphus Lassel Portal Gem
+A081FC6A:Olthoi Egg
+A0847410:Alb'arean Ore
+A084A172:Antiquated Compass
+A084744E:Pack Drudge
+A0849DC7:Stamina Tonic
+A0849DC8:Fire Shreth Hide
+A0829926:Coalesced Mana
+A084AD0C:Blighted Mana Crystal
+A084AD0D:Obsidian Shard
+A08693E1:Copper Pea
+A08693E3:Iron Pea
+A08693E4:Scholar's Crystal
+A08693E0:A Large Mnemosyne
+A084ACB7:Lapyan Plant
+A084A791:Good Lockpick
+A081A91E:Excellent Lockpick
+A084AD34:Superb Lockpick
+A0829765:Excellent Lockpick
+A084ACDB:Vial of Organic Acid
+A0834148:Fortified Mana Forge Key
+A081A8C2:Dodger's Crystal
+A08298FA:Superb Lockpick
+A084AC3A:Red Jewel
+A08287DB:Corcima Castle Gold Ward Portal Gem
+A0848A7E:Trade Note (250,000)
+A082116D:Encapsulated Spirit
+A0820209:Invitation Ithaenc Cathedral
+A07F0ACA:Black Stone
+A0849DCE:Invitation Ithaenc Cathedral
+A0849DCF:Invitation Ithaenc Cathedral
+A084ACEA:Swamp Stone
+A07AB231:Invitation Ithaenc Cathedral
+A0820729:Swamp Stone
+A084AE48:Benevolent Calm
+A084AD97:Good Lockpick
+A084ADA3:White Phyntos Wasp Wing
+A084AD99:Sturdy Gromnie Hide
+A084ADA2:Large Sclavus Hide
+A084AD9F:Forager Captain's Resonator
+A084AD96:Minalim Plant
+A084ADAE:Torn Mosswart Shroud
+A084ADAC:Health Tonic
+A0849E6C:Treated Healing Kit
+A0848334:Lesser Stamina Kit
+A0849E6B:Coalesced Aetheria
+A084ADA0:Superb Lockpick
+A084ADA4:Health Tonic
+A084ADAB:Major Prismatic Stone
+A084AC3C:Excellent Lockpick
+A084AD0E:Major Smoldering Atlan Bow
+
+Missing Exports - Possessed items that were not found:

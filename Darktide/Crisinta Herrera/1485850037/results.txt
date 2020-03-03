@@ -1,0 +1,19 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-31_1485849791_log.pcap
+
+Partial Exports - Missing appraisal info:
+D81A8743:Shirt
+D81A8744:Wide Breeches
+D81A8745:Shoes
+D81A8746:Pyreal
+D81A8747:Sack
+D81A8748:Ust
+D81A874A:Pathwarden Token
+D81A874C:Training Shortbow
+D81A8753:Letter From Home
+D81A8750:Foci of Artifice
+D81A8751:Prismatic Taper
+D81A8752:Lead Scarab
+D88C1CF7:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

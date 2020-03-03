@@ -1,0 +1,158 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-31_1485880408_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-28_1485657230_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-29_1485735901_log.pcap
+
+Partial Exports - Missing appraisal info:
+CDFCD807:Solid Shard
+CE143A45:Bandana
+CE1522C5:Virindi Singularity Key
+CF46A86D:Ginseng
+CF3A3259:Pyreal Mote
+CFC398D5:Large Lugian Sinew
+CF425918:Olthoi Stamp
+CF2D6518:Cabalist Drudge Charm
+C9D7BB07:Academy Stamp
+D0C9087D:Sturdy Steel Key
+D0F94317:Sturdy Steel Key
+D0E4E7F6:Bloodletter Drudge Charm
+D1A17472:Coronet
+D209791D:Cloth Gloves
+D27AA66E:Signet Crown
+D274FF70:Bandana
+D2076F27:Hood
+D1A5F74E:Heavy Necklace
+C9CC42FA:Pack
+CA06F8AC:Little Green Seeds
+CA30A57B:Little Green Seeds
+CC15E6F9:Sturdy Iron Key
+CA59AC66:A Small Mnemosyne
+CC33B99E:A Small Mnemosyne
+CC3182D3:Undead Thighbone
+CC30BE35:A Large Mnemosyne
+CC31D605:Undead Thighbone
+CC31D5F9:Undead Thighbone
+CC460B9A:Sturdy Iron Key
+CC460B16:Olthoi Ichor
+CD2EDBD5:Sturdy Iron Key
+CD3A554D:Sturdy Iron Key
+CD5339C5:Sturdy Steel Key
+CD4BD6E2:Shadow Fragment
+CD373551:Shadow Fragment
+CD5DCE69:Shadow Fragment
+CB99E729:Forager Captain's Resonator
+CBC6470F:Forager Captain's Resonator
+CD2ED05E:Pyreal Mote
+CB8019CC:Blighted Mana Crystal
+CBB64DAB:Peculiar Old Dagger
+CD2ADCAC:Relanim Plant
+CD2E077E:Gold Tumerok Insignia
+C9CC430B:Pack
+CF52ECC7:Leather Girth
+CF52ECCA:Hood
+CF52E473:Signet Crown
+CF2B4331:Cloth Gloves
+C7164CEB:Cowl
+CC148FA0:Crown
+CB3635B7:Coronet
+CB7364FD:Crown
+CB213C55:Circlet
+CB84F775:Circlet
+CC44416E:Circlet
+CD4BCCFD:Leather Gauntlets
+D0D7A1FF:Cloth Cap
+D0DC9540:Signet Crown
+D0DC9690:Signet Crown
+CF4D4E8A:Cloth Cap
+D0F94ACF:Signet Crown
+CF52F536:Cloth Cap
+C9CC431E:Pack
+C9C418FA:Blackmoor's Favor
+CA44DDC4:Verdalim Plant
+CA54D4FA:Yellow Monster Seed
+CAAA24D6:Prismatic Taper
+CAAA2302:Copper Scarab
+CAAA20D9:Iron Scarab
+CB3A7980:Ring
+CC3698F5:Frost Simi
+CC39E427:Short Sword
+CD2957A8:Silver Scarab
+CD2C1A51:Lead Scarab
+CD2ED78A:Gold Pea
+CD48B73E:Flared Pants
+CAE43DBF:Silver Pea
+CD5F8A75:Diamond Scarab
+CD16DBAF:Naginata
+CDFB5BFD:Claw
+CA326E90:Adept Healing Kit
+CDF68416:Naginata
+CE10D766:Splitting Tool
+CE131A88:Gold Scarab
+CE04A99E:Loose Pants
+D0D69C33:Copper Pea
+D0E514DC:Flaming Shou-ono
+D0D7F333:Iron Pea
+CA0B49D8:Stamina Tincture
+CA310F23:Foci of Artifice
+CA2ED2C4:Foci of Enchantment
+CA57372A:Adept Healing Kit
+CA37CF24:Potion of Healing
+CB0562CA:Gifted Healing Kit
+CB163677:Stamina Elixir
+CB17E3F8:Treated Healing Kit
+CB243963:Mana Stone
+CB63A774:Aphus Lassel Portal Gem
+CACCCAAF:Trimmed Cloak
+CAA4281A:Pantaloons
+CB3AD1E1:Stamina Brew
+CC1AAECE:Moderate Mana Stone
+CC1AAEC8:Platemail Cuirass
+CC1E16F8:Excellent Healing Kit
+CC1E1D83:Greater Mana Stone
+CC0A5B12:Excellent Healing Kit
+CA377678:Necklace
+CC42EBE4:Treated Healing Kit
+CC4441B9:Treated Healing Kit
+CC27575A:Puffy Shirt
+CD2E0998:Gifted Healing Kit
+CD29411C:Greater Mana Stone
+CD299C89:Peerless Healing Kit
+AE8F5F28:Pathwarden Trinket
+CD2ED454:Platemail Gauntlets
+CC08DA27:Bracelet
+CDFBBF30:Major Mana Stone
+CDFCD582:Studded Leather Leggings
+CE16DB5D:Major Mana Stone
+CFC520E6:Major Mana Stone
+CF414BB6:Scalemail Pauldrons
+CF414B8F:Studded Leather Bracers
+D0DC9541:Excellent Healing Kit
+D0D60AC6:Chiran Sandals
+D1011166:Bracelet
+D103E210:Ancient Empyrean Trinket
+D19E4E88:Alduressa Helm
+D1785D65:Sturdy Steel Key
+D27C5B56:Sturdy Steel Key
+CB67037C:Staff
+D2AA6ED4:Dire Champion Token
+D2690F80:Cloth Gloves
+DCF208D2:Tart Apple
+CC376B62:Mi Krau-Li's Remastered Jitte
+CC1AB02A:Covenant Shield
+CF04218F:Writ of Refuge
+
+Missing Exports - Possessed items that were not found:
+CA155A1E
+C9C6FE4B
+C8D0B7A4
+C8D0B7AC
+C9C493B5
+C9C8F3DA
+C8D0B7A6
+CDF01B1E
+CD66785F
+CD55C886
+CD5F7125
+CD510E1C

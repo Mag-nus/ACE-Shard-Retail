@@ -1,0 +1,110 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap4\pkt_2017-1-29_1485688049_log.pcap
+
+Partial Exports - Missing appraisal info:
+85FA3367:Sack
+85FE62BF:Tear-Stained Parchment
+85FA32B2:Damp Scroll
+85FBA5DB:Ancient Tablet of the Crystal Staff (Level 180+)
+85FBD01C:Pyreal
+85FA331C:Large Lugian Sinew
+85FE62C7:Seeds of Anger
+85FA3396:Celestial Hand Initiate's Handbook
+85FA3403:Some Changes for February 2012
+85FA3330:Aerfalle's Letter
+85F795B2:Facilitation
+85FE62BD:Torn Journal
+85FE62C6:A Field Guide to Tainted Nodes
+85FA33A3:Instructions
+85FA332F:Facility Hub Portal Gem
+85FE62C5:Ust
+85FE62BB:Prismatic Taper
+85F9648F:Lead Scarab
+85FA335E:Granite Key
+85FE62C4:Pack
+85FA1C1A:First Half of a Worn Dagger
+85FE62BA:Glittering Key
+85FA347E:Glittering Key
+85FA339F:Alloy Machine
+85FE62C3:Crystal
+85FA053A:Outcast
+85F9EEE0:Sturdy Iron Key
+85FA33B7:Handy Healing Kit
+85FE62C2:Caulnalain Key
+85FA33C8:Tusker Spit
+85FA338A:Mud Golem Heart
+85FA31ED:Writ of Refuge
+85FE62C1:Worn Small Key
+85FC8B71:Blueprints for a Burun Fortress
+85FA33BF:Worn Strange Key
+85F9FE93:Granite Key
+85F979B7:Pack
+85FE62C0:First Half of a Worn Mace
+85FA33BE:Second Half of a Worn Axe
+85FA33CB:First Half of a Worn Mace
+85FA33A7:Second Half of a Worn Axe
+85F99963:Xarabydun Portal Summoning Gem
+85FBD316:Gem
+85F97BE4:Shadow Lugian Stronghold Portal Gem
+85FA34F5:Empyrean Spherule
+85F979AF:Dark Shard
+85FA338E:Shadow Lugian Stronghold Portal Gem
+85FA339D:Worn Old Key
+85FA00CC:Yaraq Portal Gem
+85FA340D:Trade Note (150,000)
+85FA1AAA:Worn Plain Key
+85FA3375:Argenory Plant
+85FA33CC:Gem
+85FA337D:Brawler's Crystal
+85FA3384:Oswald's Crystal
+85FA3633:Worn Odd Key
+85FA365F:Worn Rusty Key
+85FA003E:Merciless Monouga Idol
+85F64638:Pack
+85FBD318:Monougat
+85F9B6C9:Gem
+85FA01D3:Trade Note (100,000)
+85FA3400:Facility Hub Portal Gem
+85FA243B:Gharu'ndim Arm
+85FA33C7:Yanshi Portal Gem
+85FA339A:A silvery, mysterious key
+85FA34DE:Granite Key
+85FA33CD:Granite Key
+85FA33B0:Pack
+85F9B6C6:Sturdy Steel Key
+85F6F94D:Sturdy Steel Key
+85FA340E:Sturdy Steel Key
+85FA34CC:Sturdy Steel Key
+85FA0F0A:Sturdy Steel Key
+85FA340F:Sturdy Steel Key
+85FA34D9:Mana Forge Key
+85FA33C5:Trade Note (200,000)
+85FE87DA:Granite Key
+85FE87DD:Pack
+85FE87DE:Glimmering Gem
+85FE87DF:Tiny Shard
+85FE87E0:Small Shard
+85FE87E1:Dark Sliver
+85FE87E2:Dark Shard
+85FE87E9:Minalim Plant
+85FE87EA:Berimphur Plant
+85FE87EB:Gem
+85FE87EC:Marshmallow Ghost
+85FE87ED:Marshmallow Bat
+85FE87EE:Gummy Ghoul
+85FE87EF:Crystal Fragment
+85FD5523:Thorsten's Crystal
+85FE87F9:Scroll of Blessing of the Blade Turner
+85FE880F:Granite Key
+85FE8810:Granite Key
+85FE8811:Granite Key
+85FE8812:Granite Key
+85FE8814:Granite Key
+85FE880D:Salvage (100)
+85FE8813:Salvage (100)
+85FE8816:Dansha-Ki's Gem of Portal Recall
+85FE8817:Scarlet Red Letter
+85FE8819:The Littlest Niffis
+85FE8828:Peppermint Stick
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,196 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-09-2017\Callaway-01-17-31-2017-QuidditySeedMisc\pkt_2017-1-17_1484699075_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Callaway-01-10-2017\pkt_2017-1-10_1484075521_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Callaway-01-10-2017\pkt_2017-1-10_1484075521_log.pcap
+C:\ACEmulator\Logs Unpacked\02-09-2017\Callaway-01-17-31-2017-QuidditySeedMisc\pkt_2017-1-17_1484699075_log.pcap
+
+Partial Exports - Missing appraisal info:
+B1689A6C:Sack
+B1689A6B:Salvaged  (100)
+B1689A6A:Salvaged  (100)
+B1689A69:Salvaged  (100)
+B1689A68:Salvaged  (100)
+B1689A67:Salvaged  (100)
+B1689A66:Salvaged  (100)
+B16899F4:Mana Forge Key
+B1689A65:Salvaged  (100)
+B1689A64:Salvaged  (100)
+B16899F3:Mana Forge Key
+B1689A63:Salvaged  (100)
+B1689A62:Salvaged  (100)
+B16899F2:Mana Forge Key
+B1689A61:Salvaged  (100)
+B1689A60:Salvaged  (100)
+B16899F0:Stipend
+B1689A5F:Salvaged  (100)
+B1689A5E:Salvaged  (100)
+B1689A5D:Salvaged  (100)
+B1689A5C:Salvaged  (100)
+B1689A5B:Salvaged  (100)
+B1689A5A:Salvaged  (100)
+B1689A59:Salvaged  (100)
+B1689A58:Salvaged  (100)
+B1689A57:Salvaged  (100)
+B1689A56:Salvaged  (100)
+B1689A55:Salvaged  (100)
+B1689A53:Salvaged  (100)
+B1689A52:Salvage (100)
+B1689A51:Salvage (100)
+B1689A50:Salvage (100)
+B1689A4F:Salvage (100)
+B1689A4E:Salvage (100)
+B1689A4D:Salvage (100)
+B1689A23:Pack
+B1689A4C:Salvage (100)
+B1689A4B:Salvage (100)
+B1689A4A:Salvage (100)
+B1689A49:Salvage (100)
+B1689A48:Salvaged  (100)
+B1689A47:Salvage (100)
+B16899EE:Aged Legendary Key
+B1689A45:Salvage (100)
+B1689A44:Salvage (100)
+B16899ED:Aged Legendary Key
+B1689A42:Salvage (100)
+B1689A3F:Salvage (100)
+B16899EC:Aged Legendary Key
+8A902DE1:Salvaged  (100)
+8A902DDE:Salvaged  (100)
+8A902DE7:Salvaged  (100)
+B1689A3C:Salvage (100)
+B16899EB:Aged Legendary Key
+B1689A3B:Salvage (100)
+B1689A3A:Salvage (100)
+B16899E6:Aged Legendary Key
+B1689A39:Salvage (100)
+B1689A38:Salvage (100)
+B16899E2:Aged Legendary Key
+B1689A2E:Salvage (100)
+B1689A2D:Salvage (100)
+B1689A2C:Copper Medal of Vigor
+B1689A2B:Virindi Master Essence
+B1689A28:Slice of Royal Wedding Cake
+B1689A27:Teleportation Device
+B1689A26:Blackmoor's Favor
+B1689A22:Salvaged  (100)
+B1689A20:Salvage (100)
+B1689A1E:Salvage (100)
+B1689A1D:Salvaged  (100)
+B16899C4:Aged Legendary Key
+B1689A1C:Salvage (100)
+B1689A1B:Salvage (100)
+B16899BF:Aged Legendary Key
+B1689A1A:Salvage (100)
+B1689A19:Salvage (100)
+B16899BC:Aged Legendary Key
+B1689A18:Salvage (100)
+8A902E16:Salvaged  (100)
+8A902E33:Salvaged  (100)
+B0D1A33E:Salvage
+B168998F:Flaming Scimitar
+B0D1A33D:Salvage
+8A902E19:Salvaged  (100)
+B1689991:Salvage (100)
+8A902E15:Salvaged  (100)
+8A902DF0:Salvaged  (100)
+8A902DEB:Salvaged  (100)
+8A902DE4:Salvaged  (100)
+8A902DFD:Salvaged  (100)
+B1689A16:Salvage (100)
+B1689A13:Salvage (100)
+B1689A12:Salvage (100)
+B1689A10:Salvage (100)
+B1689A0F:Salvage (100)
+B1689A0E:Salvage (100)
+B1689A0D:Salvage (100)
+B1689A0C:Salvage (100)
+B1689A0B:Salvage (100)
+B1689A0A:Salvage (100)
+B1689A09:Salvage (100)
+B1689A08:Salvage (100)
+B1689A07:Salvage (100)
+B1689A05:Salvage (100)
+B1689A04:Salvage (100)
+B1689A03:Salvage (100)
+B1689A02:Salvage (100)
+8A902DE0:Salvaged  (100)
+B16899FF:Salvaged  (100)
+B16899FE:Salvaged  (100)
+B16899FD:Salvaged  (100)
+B16899FB:Salvaged  (100)
+B16899FA:Salvaged  (100)
+B16899F8:Salvage (100)
+B16899F5:Salvaged  (100)
+8A902DF8:Salvaged  (100)
+8A902E2E:Salvaged  (100)
+B1689996:Salvage (100)
+B1689990:Salvage (100)
+8A902E08:Salvaged  (100)
+B1689992:Salvage (100)
+B16899F1:Trade Note (250,000)
+B16899EF:Salvaged  (100)
+B16899EA:Salvage (100)
+B16899E9:Salvage (100)
+B16899E8:Salvage (100)
+B16899E7:Gem of Knowledge
+B16899E0:Salvaged  (100)
+B16899DF:Salvaged  (100)
+B16899DD:Salvage (100)
+B16899DC:Salvaged  (100)
+B16899DB:Salvaged  (100)
+B16899D6:Salvage (100)
+8A902DEE:Salvaged  (100)
+B16899C8:Salvaged  (100)
+B16899C7:Salvaged  (100)
+B16899C6:Salvaged  (100)
+B16899C5:Salvaged  (100)
+B16899BA:Salvage (100)
+B16899B9:Salvage (100)
+B16899B8:Salvage (100)
+B16899B7:Salvage (100)
+B16899B6:Salvage (100)
+B16899AF:Salvaged Reedshark Hide (100)
+B16899AE:Salvage (100)
+B16899AD:Salvage (100)
+B16899AC:Salvage (100)
+B16899AB:Salvage (100)
+B16899AA:Salvage (100)
+B16899A9:Salvage (100)
+B16899A8:Salvage (100)
+B16899A7:Salvage (100)
+B16899A6:Salvage (100)
+B16899A4:Salvage (100)
+B16899A3:Salvage (100)
+B16899A2:Salvage (100)
+B16899A1:Salvage (100)
+B16899A0:Salvage (100)
+B168999F:Salvage (100)
+B168999E:Salvage (100)
+B168999D:Salvage (100)
+B168999A:Salvage (100)
+B1689999:Salvage (100)
+B1689995:Salvage (100)
+B1689994:Salvage (100)
+B168998D:Salvage (100)
+8A902E12:Salvaged  (100)
+8A902DDF:Salvaged  (100)
+8A902DE3:Salvaged  (100)
+8A902DF1:Salvaged  (100)
+8A902DDD:Salvaged  (100)
+8A902DED:Salvaged  (100)
+8A902DE2:Salvaged  (100)
+8BAB9CEC:Salvage (100)
+8BAB9CEB:Salvage (100)
+8BAB9CE8:Salvage (100)
+8BAB9CDE:Salvage (100)
+8BAB9CDC:Salvage (100)
+8BAB9CF8:Salvage (64)
+B2D5F062:Salvage (100)
+DBB999A7:Converter's Crystal
+DBBCB62A:Deceiver's Crystal
+DBB9A053:Corruptor's Crystal
+B168999C:Salvage (100)
+
+Missing Exports - Possessed items that were not found:

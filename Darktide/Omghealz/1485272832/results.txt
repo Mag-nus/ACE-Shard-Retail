@@ -1,0 +1,27 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-24_1485272701_log.pcap
+
+Partial Exports - Missing appraisal info:
+D81BF060:Loose Shirt
+D81BF052:Pantaloons
+D81BF051:Pyreal
+D81BF067:Sack
+D81BF05F:Ust
+D81BF066:Foci of Strife
+D81BF05E:Foci of Verdancy
+D81BF070:Foci of Enchantment
+D81BF065:Prismatic Taper
+D81BF05D:Lead Scarab
+D81BF06F:Letter From Home
+D81BF064:Bread
+D81BF078:Blackmoor's Favor
+D81BF05C:Sturdy Iron Key
+D81BF06E:Salvage
+D81BF063:Salvage
+D81BF05B:Salvage
+D81BF077:Acid War Hammer
+D81BF088:Sturdy Iron Key
+D81BF080:Some Changes for February 2012
+D81BF06D:Academy Wand
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,77 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-23_1485152082_log.pcap
+
+Partial Exports - Missing appraisal info:
+9B1C5495:Pack
+9B1C5494:Pack
+9B1B7179:Pack
+9B1C5498:Pack
+9A9DC539:Promissory Note
+9B197D35:Pack
+9B1C5B5E:Promissory Note
+9B196BF2:Promissory Note
+9B1C5B70:Promissory Note
+9B1BBE09:Promissory Note
+9B1C5C55:Promissory Note
+9AD82C84:Promissory Note
+9B1C5BA7:Promissory Note
+9B1C5B95:Promissory Note
+9B1C5BA2:Promissory Note
+9B1C5BB0:Promissory Note
+9B173370:Promissory Note
+9B1C5C9B:Promissory Note
+9B1AD468:Promissory Note
+9B1C5C01:Promissory Note
+9B1C5C09:Promissory Note
+9B1B7181:Pack
+9B1C5A00:Promissory Note
+9B1C5A13:Promissory Note
+9B1C59F6:Promissory Note
+9B1C5A22:Promissory Note
+9B1C5A31:Promissory Note
+9B1C544F:Promissory Note
+9B1BBDF5:Promissory Note
+9B1BBDF3:Promissory Note
+9B1B246B:Promissory Note
+9B14F8CA:Promissory Note
+9B1C5A68:Promissory Note
+9B1C5A46:Promissory Note
+9B1C5A4E:Promissory Note
+9B1C5A5C:Promissory Note
+9B1C5AB9:Promissory Note
+9B1C5AB3:Promissory Note
+9B1C5AD5:Promissory Note
+9B1C5AD9:Promissory Note
+9B1B6C21:Promissory Note
+9B1B7364:Promissory Note
+9B1AD46D:Promissory Note
+9B1C5B28:Promissory Note
+9B1C5B16:Promissory Note
+9B1B7327:Promissory Note
+9B1A607B:Pack
+9B1C5615:Promissory Note
+9B1BB154:Promissory Note
+9B1C5644:Promissory Note
+9B197E0E:Promissory Note
+9B1B720D:Promissory Note
+9B1BBDB2:Promissory Note
+9B1B7236:Promissory Note
+9B1C569A:Promissory Note
+9B1B241C:Promissory Note
+9B1C56C6:Promissory Note
+9B1B7264:Promissory Note
+9B1B724C:Promissory Note
+9B1980C7:Promissory Note
+9B1C56D7:Promissory Note
+9B1C56F3:Promissory Note
+9B1C56E9:Promissory Note
+9B1C57A4:Promissory Note
+9B1C5651:Promissory Note
+9B1C5656:Promissory Note
+9B1A61DB:Promissory Note
+9B1C56E7:Promissory Note
+9B1C571E:Promissory Note
+9B1337DC:Promissory Note
+9B1C59BF:Promissory Note
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,200 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\pkt_2017-1-30_1485806910_log\pkt_2017-1-30_1485806910_log.pcap
+
+Partial Exports - Missing appraisal info:
+AB0B45A0:Orange Taper
+AB0B45AD:Chainmail Gauntlets
+AB0B459D:Dagger
+AB0B45B6:Pack
+AB0B45C0:Amaranth
+AB0B4595:Damiana
+AB0B45AE:Bistort
+AB0B45B9:Turquoise Taper
+AB0B459E:Dragonsblood
+AB0B45C1:Henbane
+AB0B4585:Blue Taper
+AB0B45B7:Myrrh
+AB0B4596:Mandrake
+AB0B4598:White Taper
+AB0B45AF:Saffron
+AB0B458C:Eyebright
+AB0B4574:Pack
+AB0B459F:Yarrow
+AB0B45B8:Comfrey
+AB0B4575:Lead Scarab
+AB0B4584:Mugwort
+AB0B4597:Hyssop
+AB0B4587:Cobalt
+AB0B45B0:Hawthorn
+AB0B457C:Wormwood
+AB0B457F:Silver Scarab
+AB0B458D:Frankincense
+AB0B457D:Verdigris
+AB0B4590:Iron Scarab
+AB0B458E:Turpeth
+AB0B45A1:Stibnite
+AB0B4576:Cadmia
+AB0B4586:Realgar
+AB0B4599:Colcothar
+AB0B45A3:Copper Scarab
+AB0B457E:Brimstone
+AB0B458F:Quicksilver
+AB0B4592:Cedar Talisman
+AB0B45A2:Vitriol
+AB0B459A:Cinnabar
+AB0B4588:Gypsum
+AB0B459B:Powdered Amber
+AB0B4577:Powdered Onyx
+AB0B4564:Scroll of Fester Other VI
+AB0B4580:Powdered Turquoise
+AB0B4591:Powdered Lapis Lazuli
+AB0B4567:Peerless Healing Kit
+AB0B4589:Powdered Malachite
+AB0B4581:Powdered Azurite
+AB0B4573:Peerless Healing Kit
+AB0B4578:Powdered Quartz
+AB0B458A:Pants
+AB0B454D:Peerless Healing Kit
+AB0B456C:Smock
+AB0B4579:Smock
+AB0B4544:Zombie Head
+AB0B4582:Doublet
+AB0B4593:Shirt
+AB0B4559:Undead Leg
+AB0B456D:Fez
+AB0B4583:Necklace
+AB0B457A:Bracelet
+AB09984E:Bracelet
+AB0997E4:Bracelet
+AB09975C:Heavy Bracelet
+AB0ABC78:Heavy Bracelet
+AB0997ED:Heavy Bracelet
+AB0B456E:Ring
+AB0B456F:Scroll of Item Enchantment Mastery Other VI
+AB0B4570:Scroll of Light Weapon Mastery Self VI
+AB0B4565:Wand
+AB0B4571:Ring
+AB0B4554:Heavy Bracelet
+AB0B455C:Orb
+AB0B4566:Shirt
+AB0B4556:Peerless Healing Kit
+AB0B4572:Ring
+AB0B3690:Scimitar
+AB0B454C:Necklace
+AB0B4555:Necklace
+AB0B455D:Necklace
+AB0B455E:Peerless Healing Kit
+AB0B4568:Peerless Healing Kit
+AB0B454E:Peerless Healing Kit
+AB0B4557:Peerless Healing Kit
+AB0B455F:Excellent Healing Kit
+AB0B4569:Excellent Healing Kit
+AB0B454F:Excellent Healing Kit
+AB0B4558:Excellent Healing Kit
+AB0B4560:Excellent Healing Kit
+AB0B456A:Pack
+AB0B4550:Small Ursuin Hide
+AB0B4561:Small Niffis Shell
+AB0B456B:Swamp Stone
+AB0B4545:Ivory Gromnie Tooth
+AB0B453C:Ivory Gromnie Hide
+AB0B4551:Undead Arm
+AB0B4562:Undead Femur bone
+AB0B455A:Undead Leg
+AB0B4530:Ursuin Head
+AB0B44F8:Pyreal
+AB0B4546:Skeleton's Skull
+AB0B453D:Bronze Armoredillo Spine
+AB0B4563:Banderling Scalp
+AB0997CE:Banderling Scalp
+AB09970A:Jade Gromnie Tooth
+AB0997A5:Copper Heart
+AB0B455B:Shendolain Key
+AB0B4552:Falcon Banner
+AB0B4531:Round Shield
+AB0B4547:Sabra
+AB0B4553:Hot Pepper
+AB0B4532:Frost Takuba
+AB0B4548:Greater Frog Crotch Arrow
+AB0B4528:Breeches
+AB0B453F:Stamina Potion
+AB0B4533:Health Draught
+AB0B4520:Mana Draught
+AB0B4549:Pack
+AB0B4529:Treated Healing Kit
+AB0B4540:Treated Healing Kit
+AB0B4518:Treated Healing Kit
+AB0B4521:Treated Healing Kit
+AB0B4534:Treated Healing Kit
+AB0B454A:Treated Healing Kit
+AB0B4541:Treated Healing Kit
+AB0B4519:The New Alchemy
+AB0B452A:Isparian Arms
+AB0B454B:Treatise on Essence
+AB0B4522:Tunic
+AB0B4535:Ring
+AB0B451A:Peerless Healing Kit
+AB0B452B:Treated Healing Kit
+AB0B4542:Treated Healing Kit
+AB0B4536:Peerless Healing Kit
+AB0B4523:Peerless Healing Kit
+AB0B35B3:Large Kite Shield
+AB0B452C:Flagon
+AB0B4543:Hammer
+AB0B451B:Frost Trident
+AB0B4510:Handy Healing Kit
+AB0B4524:Gem
+AB0B4537:Flagon
+AB0B4508:Granite Heart
+AB0B451C:Elaniwood Golem Heart
+AB0B452D:Iron Heart
+AB0B4511:Elaniwood Golem Heart
+AB0B4525:Pyreal Sliver
+AB0B4509:Sturdy Iron Key
+AB0B452E:Verdalim Plant
+AB0B451D:Fletching Stamp
+AB0B4526:Small Lugian Sinew
+AB0B4512:Herald Stamp
+AB0B450A:Wand
+AB0B452F:Blackmoor's Favor
+AB0B451E:Pack Levistras
+AB0B4513:Some Changes for February 2012
+AB0B4527:Wand
+AB0B450B:Flared Pants
+AB0B451F:Frost Spine Glaive
+AB0B4514:Plain Lockpick
+AB0B450C:Crown
+AB0B4515:Leather Shorts
+AB0B4501:Acid Tachi
+AB0B4500:Trimmed Cloak
+AB0B450D:Crown
+AB0B4516:Lead Pea
+AB0B450E:Ring
+AB0B4517:Scroll of Blood Loather II
+AB0B4502:Scroll of Cleanse Life Magic Self
+AB0B450F:Baggy Shirt
+AB0B44F4:Scroll of Force Streak III
+AB0B4503:Qafiya
+AB0B44EC:Leather Bracers
+AB0B44E4:Leather Pants
+AB0B44DC:Scroll of Acid Stream III
+AB0B44F5:Studded Leather Bracers
+AB0B4504:Shamshir
+AB0B44E5:Adept Healing Kit
+AB0B44ED:Large Round Shield
+AB0B44F6:Scroll of Acid Streak II
+AB0B4505:Scroll of Arcane Benightedness
+AB0B44EE:Gem
+AB0B44DD:Scroll of Missile Weapon Mastery Other II
+AB0B44E6:Crown
+AB0B44F7:Scroll of Item Enchantment Mastery Other II
+AB0B4506:Leather Pauldrons
+AB0B44DE:Scroll of Leadership Mastery Other
+AB0B44EF:Wand
+AB0B4507:Gem
+AB0B44F0:Pyreal
+AB0B44E7:Chainmail Breastplate
+AB0B44DF:Pyreal
+AB0B44F9:Wand
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,14 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-31_1485853069_log.pcap
+
+Partial Exports - Missing appraisal info:
+9C755428:Wide Breeches
+9C75542A:Pyreal
+9C75542B:Sack
+9C75542C:Ust
+9C75542E:Pathwarden Token
+9C755430:Training Shortbow
+9C755434:Letter From Home
+9CD08A63:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

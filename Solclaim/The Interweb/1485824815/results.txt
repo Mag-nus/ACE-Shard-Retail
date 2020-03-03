@@ -1,0 +1,108 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485824811_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485826005_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485835452_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-enlightenment\pkt_2017-1-20_1484971865_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-20_1484971865_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-23_1485212709_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-23_1485213202_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-29_1485680425_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485816418_log.pcap
+
+Partial Exports - Missing appraisal info:
+8F1E5D14:Colosseum Backpack
+8FC90256:Peerless Lockpick
+987E0F05:Mortar and Pestle
+9A1254B6:Ancient Journal
+86D42ED3:Bronze Gearknight Gear
+90137B3D:Lesser Corrupted Essence
+87376007:Encapsulated Spirit
+86D42E83:Frost Phyntos Wasp Essence (180)
+86D42DFC:Intricate Carving Tool
+99864104:Pyreal
+909087D0:Fire Moar Essence (180)
+91998DC7:Lightning Phyntos Wasp Essence (180)
+9B0D6C7B:Legendary Key
+9B1800AC:Trade Note (250,000)
+8FB7056F:Colosseum Backpack
+904EF3FE:Black Luster Pearl
+8C6F524E:Empyrean Crystal
+86D42E7B:Town Network Portal Gem
+92F32BC0:Celdiseth's Portal Gem
+9A0BC303:Celdiseth's Portal Gem
+86D42E8B:Aetheria Mana Stone
+86D42E3F:Facility Hub Portal Gem
+9B12F75C:Prismatic Taper
+9B130015:Prismatic Taper
+8FB12D08:Colosseum Backpack
+8DBE17DF:Platinum Scarab
+802323D8:Diamond Scarab
+86D42E77:Gold Scarab
+9876E829:Chorizite
+86D42EB6:Lead Scarab
+8DC54B53:Platinum Scarab
+909575C9:Platinum Scarab
+987D22DA:Chorizite
+9793D11A:Mana Scarab
+86D42DD4:Pyreal Scarab
+86D42EA4:Silver Scarab
+92EBCD4D:Platinum Scarab
+9A0A0AE8:Mana Scarab
+86D42DE6:Copper Scarab
+9917A3DB:Iron Scarab
+9917A434:Prismatic Taper
+9074C32C:Platinum Scarab
+9AE03B37:Prismatic Taper
+9AFEF813:Prismatic Taper
+99DD192F:Prismatic Taper
+9A74010D:Prismatic Taper
+9AFEF815:Prismatic Taper
+9B0E0EE1:Silver Pea
+9B0E1038:Pyreal Pea
+86D42EA3:Ust
+8FB10F53:Colosseum Backpack
+9B0C8009:Gold Pea
+9B13003C:Massive Mana Charge
+9B130022:Massive Mana Charge
+9B0E47B8:Massive Mana Charge
+9B13024A:Massive Mana Charge
+9B1301F3:Massive Mana Charge
+9B0F1987:Massive Mana Charge
+9B0F19C5:Massive Mana Charge
+9B1317EA:Massive Mana Charge
+9B1317F1:Massive Mana Charge
+8C6F51CA:Salvaged  (100)
+8C6F51DF:Salvaged  (100)
+8C6F53AE:Diamond Scarab
+8C6F52B4:Diamond Scarab
+8FB73C95:Colosseum Backpack
+9AFF1613:Massive Mana Charge
+9AFF152B:Massive Mana Charge
+9AFF1528:Massive Mana Charge
+9AFF1617:Massive Mana Charge
+9AFCBEF3:Massive Mana Charge
+9AFF1614:Massive Mana Charge
+9AFF152C:Massive Mana Charge
+9AFF1529:Massive Mana Charge
+9AFF1615:Massive Mana Charge
+9AFCBEAA:Massive Mana Charge
+9B10C941:Major Mana Stone
+9B03E6FE:Major Mana Stone
+9B042B68:Major Mana Stone
+8FB73F36:Colosseum Backpack
+86D42E35:Peerless Lockpick
+9197C187:Peerless Lockpick
+9199325C:Peerless Lockpick
+9197C249:Peerless Lockpick
+8FB710F8:Colosseum Backpack
+98C84648:Burning Coal
+99B2EFA4:Tusker Spit Ale
+99B50C4C:Bobo's Stout
+9A6D69ED:Trade Note (250,000)
+8FA93DB9:Colosseum Backpack
+9A915883:Promissory Note
+9996CC6F:Promissory Note
+
+Missing Exports - Possessed items that were not found:

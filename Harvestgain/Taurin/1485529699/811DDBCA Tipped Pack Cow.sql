@@ -1,0 +1,104 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (2166217674, 33965, 38, 6476097) /* Gem */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (2166217674,   1,       2048) /* ItemType - Gem */
+     , (2166217674,   5,         10) /* EncumbranceVal */
+     , (2166217674,  16,          1) /* ItemUseable - No */
+     , (2166217674,  19,         10) /* Value */
+     , (2166217674,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (2166217674,  94,         16) /* TargetType - Creature */
+     , (2166217674, 151,          9) /* HookType - Floor, Yard */
+     , (2166217674, 8007,          0) /* PCAPRecordedAutonomousMovement */
+     , (2166217674, 9015,         11) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (2166217674,   1, False) /* Stuck */
+     , (2166217674,  11, True ) /* IgnoreCollisions */
+     , (2166217674,  13, True ) /* Ethereal */
+     , (2166217674,  14, True ) /* GravityStatus */
+     , (2166217674,  19, True ) /* Attackable */
+     , (2166217674,  22, True ) /* Inscribable */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (2166217674,  39, 0.300000011920929) /* DefaultScale */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (2166217674,   1, 'Tipped Pack Cow') /* Name */
+     , (2166217674,   7, 'This cow is my messenger.  Right now, there isn''t a lot to say...but remember...the crow caws at the striking of the teapot.') /* Inscription */
+     , (2166217674,   8, 'Vanykrye') /* ScribeName */
+     , (2166217674,  16, 'No matter how hard you try you can''t seem to get this pack cow to stand up.') /* LongDesc */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (2166217674,   1,   33554438) /* Setup */
+     , (2166217674,   2,  150995375) /* MotionTable */
+     , (2166217674,   6,   67116472) /* PaletteBase */
+     , (2166217674,   8,  100667444) /* Icon */
+     , (2166217674,  22,  872415256) /* PhysicsEffectTable */
+     , (2166217674, 8001,  271073304) /* PCAPRecordedWeenieHeader - Value, Usable, Container, TargetType, Burden, HookType */
+     , (2166217674, 8003,         18) /* PCAPRecordedObjectDesc - Inscribable, Attackable */
+     , (2166217674, 8005,      69763) /* PCAPRecordedPhysicsDesc - CSetup, MTable, ObjScale, PeTable, Movement */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (2166217674,   1, 2165997970) /* Owner */
+     , (2166217674,   2, 2165997970) /* Container */
+     , (2166217674, 8000, 2166217674) /* PCAPRecordedObjectIID */;
+
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
+VALUES (2166217674, 67116474, 0, 0);
+
+INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
+VALUES (2166217674, 0, 83886115, 83893098, 0)
+     , (2166217674, 0, 83886113, 83893099, 1)
+     , (2166217674, 0, 83897200, 83893100, 2)
+     , (2166217674, 0, 83886114, 83893101, 3)
+     , (2166217674, 0, 83886111, 83893102, 4)
+     , (2166217674, 1, 83886125, 83893112, 5)
+     , (2166217674, 2, 83886123, 83893109, 6)
+     , (2166217674, 2, 83886122, 83893110, 7)
+     , (2166217674, 3, 83886120, 83893103, 8)
+     , (2166217674, 3, 83886117, 83893104, 9)
+     , (2166217674, 3, 83886118, 83893105, 10)
+     , (2166217674, 3, 83886116, 83893107, 11)
+     , (2166217674, 4, 83886120, 83893103, 12)
+     , (2166217674, 5, 83886120, 83893103, 13)
+     , (2166217674, 6, 83886121, 83893113, 14)
+     , (2166217674, 7, 83886126, 83893108, 15)
+     , (2166217674, 8, 83886119, 83893106, 16)
+     , (2166217674, 9, 83886121, 83893113, 17)
+     , (2166217674, 10, 83886126, 83893108, 18)
+     , (2166217674, 11, 83886119, 83893106, 19)
+     , (2166217674, 12, 83886121, 83893113, 20)
+     , (2166217674, 13, 83886126, 83893108, 21)
+     , (2166217674, 14, 83886119, 83893106, 22)
+     , (2166217674, 15, 83886121, 83893113, 23)
+     , (2166217674, 16, 83886126, 83893108, 24)
+     , (2166217674, 17, 83886119, 83893106, 25)
+     , (2166217674, 18, 83886115, 83893098, 26)
+     , (2166217674, 19, 83886121, 83893113, 27)
+     , (2166217674, 20, 83886126, 83893108, 28)
+     , (2166217674, 21, 83886124, 83893111, 29);
+
+INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, `order`)
+VALUES (2166217674, 0, 16777333, 0)
+     , (2166217674, 1, 16777356, 1)
+     , (2166217674, 2, 16777348, 2)
+     , (2166217674, 3, 16777339, 3)
+     , (2166217674, 4, 16777331, 4)
+     , (2166217674, 5, 16777332, 5)
+     , (2166217674, 6, 16777354, 6)
+     , (2166217674, 7, 16777346, 7)
+     , (2166217674, 8, 16777342, 8)
+     , (2166217674, 9, 16777350, 9)
+     , (2166217674, 10, 16777347, 10)
+     , (2166217674, 11, 16777343, 11)
+     , (2166217674, 12, 16777353, 12)
+     , (2166217674, 13, 16777349, 13)
+     , (2166217674, 14, 16777341, 14)
+     , (2166217674, 15, 16777352, 15)
+     , (2166217674, 16, 16777340, 16)
+     , (2166217674, 17, 16777344, 17)
+     , (2166217674, 18, 16777330, 18)
+     , (2166217674, 19, 16777351, 19)
+     , (2166217674, 20, 16777355, 20)
+     , (2166217674, 21, 16777345, 21);

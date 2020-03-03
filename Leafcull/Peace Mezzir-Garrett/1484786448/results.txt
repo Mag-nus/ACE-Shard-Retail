@@ -1,0 +1,88 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-18_1484776198_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-30_1485817084_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-30_1485822831_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-31_1485871628_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-31_1485871628_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-15_1484516706_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-17_1484689885_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-14_1484396435_log.pcap
+
+Partial Exports - Missing appraisal info:
+AD564218:Moderate Mana Stone
+ADB06F5E:Pyreal
+A6881D10:Pack
+AD2843FD:Trade Note (250,000)
+AD45B2BC:Infused Amber Shard
+A6874C94:Belt Pouch
+AD853430:Trade Note (250,000)
+A9F58A73:Pack
+AD69AD91:Peerless Lockpick
+A893AB88:Town Network Portal Gem
+A7CD4C2C:Encapsulated Spirit
+A68A506E:Prismatic Taper
+A68BA6D9:Lead Scarab
+A68A9E39:Copper Scarab
+A68A9E4D:Iron Scarab
+A68B2FB6:Silver Scarab
+A68BF455:Gold Scarab
+A68BF456:Pyreal Scarab
+A68BF458:Platinum Scarab
+A68BF459:Diamond Scarab
+A9E174AE:Mana Scarab
+A82B2B6E:Turquoise Taper
+AA702EA2:Chorizite
+A68B24A8:Ust
+A68BF479:Wrapped Bundle of Arrowshafts
+A68B340A:Belt Pouch
+A9ED1413:Plentiful Healing Kit
+A9ED1414:Plentiful Healing Kit
+A9EA77CF:Plentiful Healing Kit
+A9E8B732:Plentiful Healing Kit
+A9E88EDC:Plentiful Healing Kit
+A9EC268A:Plentiful Healing Kit
+A9ED1390:Plentiful Healing Kit
+A9ED1391:Plentiful Healing Kit
+A77EF708:Elaborate Field Rations
+AD7137C8:Treated Healing Kit
+AD7550D6:Treated Healing Kit
+AD74B17B:Treated Healing Kit
+AD754587:Treated Healing Kit
+AD754118:Treated Healing Kit
+AD815012:Treated Healing Kit
+AD86A8BD:Treated Healing Kit
+AD86A60A:Treated Healing Kit
+AD86A5B1:Treated Healing Kit
+ABFAAAAF:Small Belt Pouch
+ACB6EC40:Pack
+A73A1888:Writ of Refuge
+A8369225:Aetheria Mana Stone
+A89DA805:Wrapped Bundle of Deadly Prismatic Arrowheads
+AD5F908D:Wrapped Bundle of Chorizite Arrowheads
+AD601ED0:Wrapped Bundle of Arrowshafts
+ADAF2922:Sake
+ADB04D11:Massive Mana Charge
+ACB4ABA1:Pack
+AD0DC9A9:Massive Mana Charge
+AC5452B0:Massive Mana Charge
+AD406375:Massive Mana Charge
+AD4B6B13:Massive Mana Charge
+AC0033E1:Salvage (100)
+AC0A4523:Salvage (100)
+ABFCA9D4:Salvage (100)
+AD8A59A4:Massive Mana Charge
+AC09DC0E:Salvage (100)
+AC0A4CA4:Salvage (100)
+AD90EAC3:Massive Mana Charge
+AC0A4D99:Salvage (100)
+ABFF182C:Salvage (100)
+AC041A05:Salvage (100)
+AC09D9E0:Salvage (100)
+ADF26CD7:Massive Mana Charge
+AE0266AD:Wah Chon's Winter Lager
+AE3695CE:Pants
+AE3729BF:Baggy Pants
+
+Missing Exports - Possessed items that were not found:

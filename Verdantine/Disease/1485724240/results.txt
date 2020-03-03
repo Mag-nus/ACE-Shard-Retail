@@ -1,0 +1,66 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap4\pkt_2017-1-29_1485688049_log.pcap
+
+Partial Exports - Missing appraisal info:
+85FE55A9:Pyreal
+85FE55AD:Lead Scarab
+85FE55AE:Ust
+85FE55AF:Bread
+85FE55B0:Welcome Letter
+85FE55B1:Sack
+85FE55B3:Gem
+85FE55B4:Gold Scarab
+85FE55B7:Brodor's Epitaph
+85FE55B8:Note from Mi Krau-Li
+85FE55BA:Pack Drudge
+85FE55BB:Golden Gromnie
+85FE55C6:Iron Scarab
+85FE55C7:Silver Scarab
+85FE55C8:Copper Scarab
+85FE55CB:Prismatic Taper
+85FE55CC:Iron Pea
+85FE55D0:Pack
+85FE55D3:Pyreal Scarab
+85FE55D6:Seal
+85FE55DA:Pyreal Pea
+85FE55DC:Some Changes for February 2012
+85FE55DF:Diamond Scarab
+85FE55E1:Stipend
+85FE55E2:Salvage (100)
+85FE55E3:Salvage (100)
+85FE55E4:Salvage (100)
+85FE55E5:Salvage (100)
+85FE55E8:Thick Lugian Stew
+85FE55E6:Salvage (100)
+85FE55E7:Salvage (100)
+85FE55EA:Stout Lugian Ale
+85FE55E9:Priceless Ore
+85FE55EB:Salvage
+85FE55EE:Comfrey
+85FE55EF:The Temple of Forgetfulness
+85FE55F0:A Note From Ciandra
+85FE55F1:Stamina Philtre
+85FE55F2:Trade Note (250,000)
+85FE55F3:Trade Note (10,000)
+85FE55F4:Platinum Scarab
+85FE55F5:Mana Forge Key
+85FE55F6:Mana Forge Key
+85FE55F7:Scroll of Bolstered Will
+85FE55F9:Scroll of Boon of the Blade Turner
+85FE55FD:Copper Pea
+85FE55FA:Facility Hub Portal Gem
+85FE55FB:Foci of Shadow
+85FE5609:Empyrean Sun Stone
+85FE55FE:Salvage (3)
+85FE55FF:Mid-Stakes Gambling Token
+85FE5602:Health Philtre
+85FE5603:Magic Defense Weapon Augmentation Gem
+85FE5604:Wrapped Bundle of Greater Deadly Blunt Arrowheads
+85FE5608:Pack
+85FE560D:Black Rock
+85FE560E:Gold Pea
+85FE560F:Scarlet Red Letter
+85FE5612:Corruptor's Crystal
+85FC215B:Artificer's Crystal
+
+Missing Exports - Possessed items that were not found:

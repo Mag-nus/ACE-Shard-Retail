@@ -1,0 +1,232 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485766105_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-25_1485343078_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485766009_log.pcap
+
+Partial Exports - Missing appraisal info:
+801A564F:Sack
+801A5650:A Horn of Vigilance
+801A5651:A Horn of Vigilance
+801A5652:Arcane Pedestal
+801A5653:Arcane Pedestal
+801A5654:Ursuin Rug
+801A569F:Ust
+801A5655:Suikan Life Master Robe
+801A5656:Suikan Life Master Robe
+801A5657:Crown
+801A5659:Chalice
+801A565A:Heavy Necklace
+801A5661:Shadow Fragment
+801A5662:Shadow Fragment
+801A5663:Shadow Fragment
+801A5664:Shadow Fragment
+801A5665:Shadow Fragment
+801A5666:Shadow Fragment
+801A5667:Shadow Fragment
+801A5668:Foci of Artifice
+801A5669:Pack
+801A566A:Sabra
+801A566B:Dericost Blade
+801A566D:Long Sword
+801A566E:Flaming Spada
+801A5670:Acid Kaskara
+801A5671:Scimitar
+801A5672:Lightning Dericost Blade
+801A5673:Flaming Sabra
+801A5674:Flamberge
+801A5676:Lightning Ken
+801A5677:Lightning Long Sword
+801A569D:Prismatic Taper
+801A5679:Lightning Kaskara
+801A567A:Lightning Broad Sword
+801A567B:Lightning Broad Sword
+801A567C:Flaming Dericost Blade
+801A567D:Flaming Broad Sword
+801A5685:Frost Tachi
+801A567E:Flaming Broad Sword
+801A567F:Frost Broad Sword
+801A5680:Frost Takuba
+801A5681:Frost Flamberge
+801A5682:Pack
+801A5687:Acid Flamberge
+801A5684:Frost Dericost Blade
+801A56A3:Parchment
+801A5688:Flaming Dericost Blade
+801A56A4:Parchment
+801A5689:Dericost Blade
+801A568A:Shadow Fragment
+801A568B:Shadow Fragment
+801A568C:Shadow Fragment
+801A568D:Shadow Fragment
+801A568E:Shadow Fragment
+801A568F:Shadow Fragment
+801A5690:Shadow Fragment
+801A5691:Shadow Fragment
+801A5692:Shadow Fragment
+801A5693:Shadow Fragment
+801A5694:Shadow Fragment
+801A5695:Shadow Fragment
+801A5696:Crystal Sword
+801A5697:Long Sword
+801A5698:Dericost Blade
+801A5699:Ken
+801A569B:Pack
+801A569A:Broad Sword
+801A569C:Shadowfire Isparian Claw
+801A569E:Lead Scarab
+801A56A0:Blackmoor's Favor
+801A56A5:Parchment
+801A56A6:Parchment
+801A56A7:Parchment
+801A56A8:Parchment
+801A570A:Pyreal
+801A56A9:Parchment
+801A56AA:Parchment
+801A56AB:Parchment
+801A56AC:Parchment
+801A56AD:Shadow Fragment
+801A56AE:Shadow Fragment
+801A56AF:Decanter of Essence
+801A56C1:Charged Shard
+801A56B3:Adjanite Mana Stone
+801A56B4:Pack
+801A56B5:Shadow Fragment
+801A56B6:Shadow Fragment
+801A56B7:Shadow Fragment
+801A56B8:Shadow Fragment
+801A56B9:Shadow Fragment
+801A56BA:Shadow Fragment
+801A56BB:Shadow Fragment
+801A56BC:Shadow Fragment
+801A56BD:Shadow Fragment
+801A56BE:Shadow Fragment
+801A56BF:Dull Gem
+801A56C0:Crystal Fragment
+801A56C2:Charged Shard
+801A56C3:Charged Shard
+801A56C4:Sparkling Gem
+801A56C5:Shadow Fragment
+801A56C6:Shadow Fragment
+801A56C7:Shadow Fragment
+801A56C8:Shadow Fragment
+801A56C9:Shadow Fragment
+801A56CA:Shadow Fragment
+801A56CB:Shadow Fragment
+801A56CC:Shadow Fragment
+801A56EC:High Mana Charge
+801A56D2:Pack
+801A5700:Ursuin Cub Kennel
+801A56D3:Scimitar
+801A56D5:Scimitar
+801A56D6:Long Sword
+801A56D7:Scimitar
+801A56D8:Kaskara
+801A56D9:Tachi
+801A56DA:Dericost Blade
+801A56DC:Long Sword
+801A56DD:Lightning Tachi
+801A56DE:Takuba
+801A56DF:Frost Dericost Blade
+801A56E0:Lightning Broad Sword
+801A56E9:Flaming Tachi
+801A56E1:Lightning Dericost Blade
+801A5703:Snowflower
+801A56E3:Acid Takuba
+801A56E4:Lightning Dericost Blade
+801A56EA:Scimitar
+801A56E5:Flaming Dericost Blade
+801A56E6:Frost Dericost Blade
+801A56E7:Flaming Long Sword
+801A56E8:Flaming Shamshir
+801A56ED:Training Wand
+801A56EE:Cabalist Drudge Charm
+801A56EF:Evader's Crystal
+801A56F0:Sturdy Iron Keyring
+801A56F1:Singularity Keyring
+801A56F2:Black Marrow Keyring
+801A56F3:Marble Keyring
+801A56F4:Granite Keyring
+801A56F5:Sturdy Steel Keyring
+801A56F6:Obsidian Heart
+801A56F7:Obsidian Heart
+801A56F8:Obsidian Heart
+801A56F9:Copper Heart
+801A56FA:Copper Heart
+801A56FB:Copper Heart
+801A56FC:Wood Heart
+801A56FD:Wood Heart
+801A56FE:Wood Heart
+801A56FF:Coral Heart
+801A5702:Mechanical Scarab
+801A5704:Heavy Bracelet
+801A5705:Lorica Breastplate
+801A5714:Jexki Ki's Journal
+801A570C:Trade Note (250,000)
+801A5712:Quintessence Sickle
+801A570E:Covenant Bracers
+801A570F:Frost Baton
+81D926F0:Blank Augmentation Gem
+801A5710:Piercing Baton
+801A5711:Princely Runed Slashing Baton
+801A5713:Royal Runed Mazule
+801A5715:Second Half of a Battered Dagger
+801A5717:Princely Runed Partizan
+801A5718:Frost Trident
+801A5724:Glimmering Gem
+801A571A:Salvage
+801A571B:Craftable Prism Fragment of Ice
+81D926CE:Blank Augmentation Gem
+801A571C:Craftable Prism Fragment of Ice
+801A571D:Scintillating Gem
+94E0E77A:Blank Augmentation Gem
+801A571E:Scintillating Gem
+801A571F:Scintillating Gem
+801A5720:Scintillating Gem
+801A5721:Scintillating Gem
+801A5722:Scintillating Gem
+801A5723:Sparkling Gem
+801A5725:Chorizite
+801A5728:Orange Monster Seed
+8101F1DF:Salvage (80)
+8101F1DE:Salvaged  (43)
+8101F1DD:Salvaged  (10)
+94DFFF11:Blank Augmentation Gem
+8101F1DC:Salvage (21)
+8101F1CD:Diforsa Tassets
+8101F1C0:Kote
+8101F1C3:Mechanical Scarab
+8101F1C2:Top
+801A5727:Pack T'thuun
+8101F1AE:Salvage
+8101F1BC:Chainmail Pauldrons
+8101F1B9:Pocket Watch
+805EF8F5:Pack Golem
+8101F1AD:Salvage (100)
+8101F1AC:Salvage (100)
+C846A605:Stipend
+8101F1AB:Salvaged  (100)
+8101F1AA:Salvaged  (100)
+80FC4724:Salvage
+8101F1A9:Salvage (100)
+805EF910:Amulet
+8101F1BE:Compass
+805EF911:Cloth Gloves
+805EF90C:Shoes
+805EF90F:Lorica Boots
+805EF90A:Signet Crown
+805EF903:Ring
+805EF908:Haebrean Gauntlets
+805EF902:Studded Leather Greaves
+805EF901:Haebrean Pauldrons
+805EF900:Nariyid Gauntlets
+805EF8FD:Olthoi Bracers
+805EF8FC:Chiran Helm
+805EF8FB:Heavy Bracelet
+805EF8F3:Sho Gem of Worth
+805EF8FA:Diforsa Tassets
+805EF8F8:Lace Shirt
+805EF8E7:Loose Shirt
+
+Missing Exports - Possessed items that were not found:

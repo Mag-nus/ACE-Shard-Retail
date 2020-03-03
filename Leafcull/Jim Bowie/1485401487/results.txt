@@ -1,0 +1,135 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\BladeofMemory-01-28-2017_frore_and_direlands\pkt_2017-1-25_1485396300_log.pcap
+
+Partial Exports - Missing appraisal info:
+AD3DF6DA:Pyreal
+AD3E4554:Ust
+AD3DF6D7:Sack
+AD3E4553:Calling Stone
+AD3E4552:Foci of Verdancy
+AD3E4551:Prismatic Taper
+AD3E4550:Lead Scarab
+AD3E454F:Blackmoor's Favor
+AD3E4570:Great Mana Charge
+AD3E456F:Sturdy Iron Key
+AD3E456E:Sturdy Iron Key
+AD3E456D:Pack
+AD3E46A7:Pack
+AD3E4569:Pack
+AD3E45EB:Swamp Stone
+AD3E459C:Pack
+AD3E45A7:Pack
+AD3E45A6:Staff
+AD3E45A5:Orb
+AD3E46CF:Acid Ken
+AD3E45BF:Heavy Bracelet
+AD3E45C9:Asylum Key
+AD3E45BE:Sceptre
+AD3E45BC:Coronet
+AD3E45BB:Heavy Bracelet
+AD3E45BA:Orb
+AD3E45CA:Asheron's Supreme Raiment
+AD3E45DF:Sturdy Iron Key
+AD3E45C8:Dark Ruby Ring
+AD3E45CD:Covenant Breastplate
+AD3E45DC:Black Stone
+AD3E45CC:Dark Sapphire Ring
+AD3E45CB:Faran Item Master Robe
+AD3E460F:Hero Token
+AD3E45EA:Faran Life Master Robe
+AD3E45E9:Faran Life Master Robe
+AD3E45E8:Faran Item Master Robe
+AD3E45E7:Faran Life Master Robe
+AD3E45E6:Faran Life Master Robe
+AD3E45E5:Faran Life Master Robe
+AD3E45E0:Faran Item Master Robe
+AD3E45DD:Gem of Harbinger's Flame Barrier
+AD3E45DB:Lightning Dirk
+AD3E45DA:Lightning Dirk
+AD3E45D9:Foolproof
+AD3E46DE:Salvaged  (100)
+AD3E46E1:War Hammer
+AD3E45E4:Tusker Spit
+AD3E45E3:Light Crossbow
+AD3E45E2:Yoroi Pauldrons
+AD3E45F1:Mr. P. Holiday Pack Doll
+AD3E45F3:Decanter of Essence
+AD3E45F2:"Commoner's Sword" Summoning Gem
+AD3E45F0:Harbinger's Foci
+AD3E45EF:Aqua Minnow
+AD3E45ED:Torn Cloth Scrap
+AD3E45EE:Foolproof
+AD3E45EC:Torn Cloth Scrap
+AD3E46E9:Singularity Key
+AD3E46EF:Singularity Key
+AD3E46F2:Asylum Key
+AD3DF76E:Singularity Key
+AD3DF770:Sturdy Steel Key
+AD3DF76D:Brass Knuckles
+AD3E4614:Blunt Crossbow
+AD3E4613:Covenant Sollerets
+AD3E4612:Slashing Crossbow
+AD3DF781:Black Spear of Mukkir Strength
+AD3E4611:Lightning Claw
+AD3E4610:Blighted Moarsmen Scale
+AD3E461D:Ring
+AD3E460E:Faran War Master Robe
+AD3E460D:Abominable Pack Snowman
+AD3E460C:Flaming Dericost Blade
+AD3DF782:Frost Crossbow
+AD3E461B:Dark Shard
+AD3DF783:Piercing Crossbow
+AD3DF780:Celdon Girth
+AD3E46FD:Dark Shard
+AD3E461A:Celdon Girth
+AD3E4619:Celdon Girth
+AD3E463F:Stipend
+AD3E4618:Heavy Necklace
+AD3E461C:Chainmail Pauldrons
+AD3E4640:Some Changes for February 2012
+AD3E4627:Salvaged  (100)
+AD3E4626:Smithy's Crystal
+AD3E4625:Dericost Blade
+AD3E4623:Ink of Conveyance
+AD3E4622:Ink of Conveyance
+AD3E4621:Ink of Objectification
+AD3E4631:Piercing Baton
+AD3E4630:Chainmail Bracers
+AD3E462E:Scalemail Gauntlets
+AD3E462D:Crown
+AD3E462C:Viamontian Pants
+AD3E462B:Olthoi Alduressa Helm
+AD3E462A:Chainmail Girth
+AD3E4635:Leather Vest
+AD3E4634:Chainmail Greaves
+AD3E4633:Olthoi Koujia Gauntlets
+AD3E4701:Olthoi Amuli Gauntlets
+AD3E4704:Tenassa Breastplate
+AD3E4641:Chainmail Shirt
+AD3E463E:Academy Dirk
+AD3E463D:Buckler
+
+Missing Exports - Possessed items that were not found:
+AD3E456A
+AD3E46AA
+AD3E45A9
+AD3E45AB
+AD3E45AC
+AD3E4589
+AD3E458A
+AD3E458B
+AD3D9D64
+AD3E4568
+AD3E45A8
+AD3E45A3
+AD3E45A2
+AD3E45A1
+AD3E45A0
+AD3E459F
+AD3E459E
+AD3E459D
+AD3E456B
+AD3E456C
+AD3E4555
+AD3E4557
+AD3E4556

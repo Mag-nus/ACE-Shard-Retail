@@ -1,0 +1,149 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-packet-logs\pkt_2017-1-30_1485802479_log.pcap
+
+Partial Exports - Missing appraisal info:
+AE5A6F6B:Sack
+AE501864:Aligned Mana Stone
+AE4EEF1E:Invitation to Master Fletchers
+AE5B2A2F:Ornate Gear Marker
+AE5A698C:Celestial Hand Trade Token
+AE5A6F8A:Ancient Mhoire Coin
+AE5A6EFD:Small Olthoi Venom Sac
+AE5B2A0E:Celestial Hand Trade Token
+AE5B2A38:Glowing Moar Gland
+AE5F0B3C:Salvage
+AE5A6F1B:Mana Scarab
+AE5A6660:Frozen Valley Portal Gem
+AE51B02B:Ancient Falatacot Trinket
+AE5B2A15:Platinum Scarab
+AE5A6EB5:Upper Insatiable Eater Jaw
+AE5B2A44:Town Network Portal Gem
+AE587951:Shoyanen's Portal Gem
+AE5A6F51:Town Network Portal Gem
+AE5A6EC0:Pyreal
+AE5A73B0:Blank Augmentation Gem
+AE5B2A43:Celestial Hand Trade Token
+AE5A0B45:Diamond Powder
+AE5A6EC5:Celestial Hand Stronghold Portal Gem
+AE464E54:Braced Mana Forge Key
+AE5A7742:Ust
+AE5A6F1E:Pack
+AE4141B8:Blackmoor's Favor
+AE536001:Iron Scarab
+AE5A73EC:Silver Scarab
+AE5B2A2E:Gold Scarab
+AE52B207:Pyreal Scarab
+AE5A0B3F:Glowing Moar Gland
+AE588236:Mana Forge Key
+AE5A6F3D:Wrapped Bundle of Deadly Prismatic Arrowheads
+AE5B2A34:Wrapped Bundle of Arrowshafts
+AE5882E6:Pyreal Sliver
+AE58823F:Massive Mana Charge
+AE5A6F35:Wrapped Bundle of Deadly Prismatic Arrowheads
+AE5A6F85:Wrapped Bundle of Arrowshafts
+AE5EA767:Massive Mana Charge
+AE5A6EE0:Massive Mana Charge
+AE5B2A58:Massive Mana Charge
+AE5A6F37:Greater Mana Stone
+AE5B2A1C:Celestial Hand Commendation Ribbon
+AE5A6EA4:Salvage
+AE4FD77E:Pack
+AE5B2A26:Diamond Scarab
+AE535F95:Pyreal Pea
+AE5B2A32:Aetheria Mana Stone
+AE585CF1:Small Shard
+AE5B2A10:Blank Augmentation Gem
+AE5A6F49:Snow Tusker Blood Sample
+AE5A0B3E:Stipend
+AE5F08EE:Aetheria
+AE588291:Trade Note (250,000)
+AE5A6F48:Greater Mana Stone
+AE5A6F07:Frost Phyntos Wasp Essence (180)
+AE5A6F1D:Encapsulated Spirit
+AE5F6C03:Pyreal
+AE522859:Massive Mana Charge
+AE592278:Prismatic Taper
+AE591B3B:Celestial Hand Stronghold Portal Gem
+AE59619C:Encapsulated Spirit
+AE5A7310:High-Stakes Gambling Token
+AE5A6F1F:Celestial Hand Trade Token
+AE5916C4:Pyreal Mote
+AE5B2A2C:Diamond Shield
+AE5A6EA6:Pack
+AE5B2A3D:Saffron
+AE5A6972:Pyreal Nugget
+AE5A6F03:Copper Scarab
+AE5620D4:Intricate Carving Tool
+AE5B2A1E:Shadow Fragment
+AE5A732E:Writ of Refuge
+AE5A6EAE:Silver Pea
+AE5B2A2D:Gold Pea
+AE59BD16:Giant Jungle Phyntos Wasp Stinger
+AE5A6E59:Fortified Mana Forge Key
+AE59177F:Asheron's Lesser Benediction
+AE5A0B52:Burning Sands Keyring
+AE5A0B37:Spirit of Izexi Gem
+AE5A6EA0:Gem of Lesser Luminance
+AE588253:Massive Mana Charge
+AE54AA82:Cracked Shard
+AE5EAAB8:Mattekar Hide
+AE533F83:Great Mattekar Horn
+AE5A6E02:Flaming Sabra
+AE5EA774:Salvage (7)
+AE5F0B2A:Greater Mana Stone
+AE595321:Salvage (13)
+AE5A6D93:Diamond Heart
+AE4114FF:Strengthened Mana Forge Key
+AE59BC38:Pack
+AE5EAAED:Greater Mana Stone
+AE5F6C02:Pyreal
+AE5F6C01:Pyreal
+AE5EAABF:A'nekshay Token
+AE5EAAC0:Mana Forge Key
+AE595FFB:Burning Sands Keyring
+AE5F6C00:Pyreal
+AE5B2A55:Rage of Grael Gem
+AE5A0B61:Platinum Spirits
+AE5A6E34:Reeshan's Hide
+AE5A6F04:Salvage
+AE5A6EBF:Salvage
+AE5A6EB9:Mana Forge Key
+AE5F0B29:Golden Gromnie
+AE5A7349:Health Draught
+AE5A0B66:Colban Plant
+AE5A6F24:Braced Mana Forge Key
+AE5A6EFF:Strengthened Mana Forge Key
+AE5A6F0D:Mana Forge Key
+AE5A6EA5:Alacritous Ink
+AE5EAAC8:Glyph of Magic Defense
+AE59224C:Pack
+AE5A6E32:Pack
+AE5A6EDB:Dark Shard
+AE5F6BFF:Pyreal
+AE5F6BFE:Pyreal
+AE5A6F20:Frost Phyntos Wasp Essence (180)
+AE5EAAEE:Strengthened Mana Forge Key
+AE5A0BDA:Glyph of Mana
+AE5A6E08:Strengthened Mana Forge Key
+AE5F709E:Deed
+AE5A6F6D:Strengthened Mana Forge Key
+AE5A6EE4:Celestial Hand Stronghold Portal Gem
+AE926A5A:Undead Femur bone
+AE5A7746:Frost Baton
+AE5A0AAE:Acid K'nath Essence (180)
+AE588161:Smock
+AE5A6F10:Frost Phyntos Wasp Essence (180)
+AE5A6E77:Fire Moar Essence (180)
+AE5A6F31:Lightning Phyntos Wasp Essence (180)
+AE5EAABE:Elysa's Favor
+808032BC:Treated Healing Kit
+808032BB:Treated Healing Kit
+AE926E51:Grey Spine
+AE8D48B1:Sturdy Iron Key
+AE8D9B5E:Khanda-handled Mace
+AE874380:A Large Mnemosyne
+AE8DD187:Monougat
+AE8DBA06:Gold Tumerok Insignia
+AE5A6ECA:Deadly Prismatic Arrow
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,52 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\asherons-call-newer\pkt_2017-1-31_1485848727_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\asherons-call-newer\pkt_2017-1-30_1485845255_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\asherons-call-newer\pkt_2017-1-30_1485845454_log.pcap
+
+Partial Exports - Missing appraisal info:
+AEC1168A:Pyreal
+AEC1169E:Pyreal
+AEC1168B:Foci of Artifice
+AEC1168C:Sack
+AEC1168D:Prismatic Taper
+AEC1168E:Gold Scarab
+AEC1168F:Copper Scarab
+AEC11690:Silver Scarab
+AEC11691:Iron Scarab
+AEC11692:Lead Scarab
+AEC1169F:Pyreal
+AEC11699:Red Rat Tail
+AEC1169A:Amulet
+AEC1169C:Ruined Amulet of Heavy Weapons
+AEC1169B:Ornamental Bowl
+AEC116A0:Pyreal
+AEC116A1:Pyreal
+AEC116A2:Pyreal
+AEC116A5:Pack
+AEC116A6:Potion of Healing
+AEC116A7:Stamina Elixir
+AEC116A8:Stamina Potion
+AEC116A9:Excellent Healing Kit
+AEC116AA:Adept Healing Kit
+AEC116AB:Handy Healing Kit
+AEC116AC:Plain Healing Kit
+AEC116AD:Plain Healing Kit
+AEC116AE:Health Draught
+AEC116AF:Academy Healing Potion
+AEC116B0:Mana Potion
+AEC116B1:Academy Mana Potion
+AEC116B2:Pack
+AEC116B6:Small Belt Pouch
+AEC116B7:Belt Pouch
+AEC116BA:Academy Cestus
+AEC116BB:Large Kite Shield
+AEBFE529:Pyreal
+A00ED091:Strengthened Mana Forge Key
+9FCA2B3F:Strengthened Mana Forge Key
+9FB0E4E8:Strengthened Mana Forge Key
+9E99758E:Strengthened Mana Forge Key
+
+Missing Exports - Possessed items that were not found:
+AEC116B3

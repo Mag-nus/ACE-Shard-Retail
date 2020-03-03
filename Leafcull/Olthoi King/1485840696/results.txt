@@ -1,0 +1,20 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\Fycheck\pkt_2017-1-30_1485833069_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\Fycheck\pkt_2017-1-29_1485712103_log.pcap
+C:\ACEmulator\Logs Unpacked\Fycheck\pkt_2017-1-29_1485712103_log.pcap
+C:\ACEmulator\Logs Unpacked\Fycheck\pkt_2017-1-29_1485719669_log.pcap
+C:\ACEmulator\Logs Unpacked\Fycheck\pkt_2017-1-29_1485727273_log.pcap
+C:\ACEmulator\Logs Unpacked\Fycheck\pkt_2017-1-29_1485727273_log.pcap
+C:\ACEmulator\Logs Unpacked\Fycheck\pkt_2017-1-30_1485833069_log.pcap
+
+Partial Exports - Missing appraisal info:
+AEA382DC:Scroll of Raven Fury
+AEA86E04:Salvager's Helm
+AE98778E:Major Mana Stone
+AEAD7EE5:Elaborate Field Mana Rations
+AEA16F79:Stout
+800A88D9:Decorative Bronze Statue 
+
+Missing Exports - Possessed items that were not found:

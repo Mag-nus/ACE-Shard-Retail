@@ -1,0 +1,51 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\imtrippin-01-30-2017-empyrean-workshop-and-more\pkt_2017-1-30_1485816108_log.pcap
+
+Partial Exports - Missing appraisal info:
+9F9562B8:Foci of Strife
+9F9562B9:Foci of Verdancy
+9F9562BB:Pack
+9F9562BC:Blighted Mana Crystal
+9F9562BE:Ust
+9F9562BF:Diplomatic Message from Harlune
+9F9562C0:Blackmoor's Favor
+9F9562C1:Olthoi Ripper Spine
+9F9562C3:Pack
+9F9562C4:Pyreal Scarab
+9F9562C5:Silver Scarab
+9F9562C6:Copper Scarab
+9F9562C7:Iron Scarab
+9F9562C8:Lead Scarab
+9F9562C9:Enchanted Mana Stone
+9F9562CA:Aetheria Desiccant
+9F9562CB:Pack
+9F9562CC:Pyreal
+9F9562CD:Foci of Enchantment
+9F9562CE:Foci of Artifice
+9F9562CF:Prismatic Taper
+9F9562D7:Snowflower
+9F9562D3:Yellow Jewel
+9F9562D4:Scroll of Harlune's Blessing
+9F9562D6:Pack T'thuun
+9F9562D8:Pack T'thuun
+9F9562DA:Aligned Mana Stone
+9F9562DF:Aetherium-infused Gear
+9F9562E6:Gem
+9F9562DE:Salvaged  (13)
+9F9562F7:Prismatic Taper
+9F9562E5:Salvaged  (7)
+9F9562E7:Silver Pea
+9F9562EA:Ink of Conveyance
+9F9562EB:Salvaged  (8)
+9F9562EC:Salvaged  (9)
+9F9562F3:Platinum Scarab
+9F9562ED:Salvaged  (9)
+9F9562F0:Licorice Rat
+9F9562F8:Prismatic Taper
+9F9562FD:Glyph of Loyalty
+9F9562FE:Glyph of Mana Regeneration
+9F9562FF:Salvaged  (100)
+9F956300:Salvaged  (100)
+9F956302:Some Changes for February 2012
+
+Missing Exports - Possessed items that were not found:

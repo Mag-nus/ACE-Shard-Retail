@@ -1,0 +1,19 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Random_Logs\pkt_2017-1-29_1485710052_log.pcap
+
+Partial Exports - Missing appraisal info:
+C7EBE500:Puffy Tunic
+C7EBE501:Baggy Pants
+C7EBE502:Slippers
+C7EBE503:Pyreal
+C7EBE504:Sack
+C7EBE505:Ust
+C7EBE506:Calling Stone
+C7EBE507:Pathwarden Token
+C7EBE509:Foci of Strife
+C7EBE50A:Foci of Verdancy
+C7EBE50C:Lead Scarab
+C7EBE50D:Letter From Home
+C83B29AF:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

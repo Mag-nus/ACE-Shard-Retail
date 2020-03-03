@@ -1,0 +1,24 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-17_1484688163_log.pcap
+
+Partial Exports - Missing appraisal info:
+D9DD3B91:Prismatic Taper
+D9DD3B8D:Foci of Verdancy
+D9DD3B8E:Foci of Enchantment
+D9DD3B8F:Foci of Artifice
+D9DD3B90:Foci of Shadow
+D9DD3B89:Ust
+D9FFEF4E:Pack
+D9DD3B92:Lead Scarab
+DA5419CC:Iron Scarab
+DA541A30:Copper Scarab
+DA541A31:Silver Scarab
+DA012952:Pack
+DA0820EB:Pack
+DA54361D:Stipend
+DA4D7ADA:Reliable Lockpick
+DA4D76C7:Reliable Lockpick
+DA584445:Pyreal
+DA5886A1:Lead Pea
+
+Missing Exports - Possessed items that were not found:

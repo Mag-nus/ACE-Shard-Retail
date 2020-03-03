@@ -1,0 +1,22 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\Mag and Zach Logs\AC WireSharks\AC WireSharks\Character Creation\Aluvian.pcapng
+
+Partial Exports - Missing appraisal info:
+A5058AE2:Smock
+A5058AE3:Wide Breeches
+A5058AE5:Pyreal
+A5058AE4:Shoes
+A5058AE6:Sack
+A5058AE7:Ust
+A5058AE8:Calling Stone
+A5058AE9:Pathwarden Token
+A5058AEA:Training Wand
+A5058AEB:Foci of Strife
+A5058AEC:Foci of Shadow
+A5058AED:Prismatic Taper
+A5058AEE:Lead Scarab
+A5058AEF:Letter From Home
+A5058AF0:Bread
+A51825AD:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

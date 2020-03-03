@@ -1,0 +1,22 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-31_1485849791_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-31_1485849791_log.pcap
+
+Partial Exports - Missing appraisal info:
+D81A8721:Pyreal
+D81A8722:Sack
+D81A8723:Ust
+D81A8724:Calling Stone
+D81A8725:Pathwarden Token
+D81A8728:Arrow
+D81A872E:Letter From Home
+D81A872A:Round Shield
+D81A872B:Foci of Artifice
+D81A872C:Prismatic Taper
+D81A872D:Lead Scarab
+D81A872F:Bread
+D88C1533:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

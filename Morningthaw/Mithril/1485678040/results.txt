@@ -1,0 +1,157 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-29_1485678031_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-29_1485719312_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-29_1485719312_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-29_1485719312_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-29_1485734311_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-29_1485736141_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-29_1485739655_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-29_1485747168_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-29_1485748199_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-30_1485814378_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-30_1485820789_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-30_1485822677_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-30_1485822833_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-30_1485830945_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-30_1485836579_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-30_1485836767_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-30_1485837090_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-30_1485837257_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-30_1485837619_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-30_1485839246_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-30_1485839246_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-30_1485839246_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-30_1485849145_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-31_1485854086_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-31_1485856541_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-21_1485048642_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-22_1485073167_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-22_1485116090_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-22_1485128422_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-22_1485130894_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-22_1485131223_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-24_1485315114_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-24_1485317153_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-22_1485131824_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-22_1485131824_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-28_1485658196_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-23_1485204931_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-23_1485232865_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-24_1485298555_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-27_1485587120_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-25_1485416440_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-26_1485465669_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-26_1485479394_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-26_1485497576_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-28_1485652702_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-26_1485498256_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-28_1485660268_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-28_1485675339_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-28_1485676093_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-28_1485676325_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-28_1485676325_log.pcap
+
+Partial Exports - Missing appraisal info:
+8D31991B:Foci of Artifice
+8D31991C:Pack
+8D31991D:Ruined Amulet of Light Weapons
+8D31991F:Scroll of Strengthen Lock VI
+8D319924:Virindi Singularity Key
+8D319925:Singularity Keyring
+8D319927:Ust
+8D31992E:Penguin Wing
+8D31992A:7th Anniversary Night Club Ticket
+8D31992D:Splitting Tool
+8D319931:Gold Scarab
+C698E26C:Undead Thighbone
+8D319935:Pack
+8D319936:Diamond Scarab
+8D31993A:Correspondence
+8D31993E:Teardrop Crown
+8D319940:Major Mana Stone
+8D319941:Renegade Herbal Kit
+C654E489:Pyreal
+8D319949:Acid Skeleton Minion Essence (80)
+8D31994A:Chocolate Gromnie
+C654E3F8:Pyreal
+8D319944:Half-Digested Virindi Mask
+BF25BFC2:Medicated Health Kit
+8D319955:Bandit Blade Hilt
+8D319958:Prismatic Taper
+8D31995A:Trade Note (250,000)
+8D2E1EFE:Sho Brain
+8D293A7D:First Half of a Battered Mace
+8D2FED64:Blighted Mana Crystal
+8D2E9185:Acid Spectre Essence (50)
+C654E466:Pyreal
+8D319A14:List of Hunted Creatures
+8D2FEDCF:Platinum Scarab
+8D29AC9A:Pack
+8D2FEE07:First Half of a Worn Axe
+8D31995E:Swamp Stone
+8D319961:Major Mana Stone
+8D319983:Snowflower
+8D319971:Scarlet Red Letter
+8D319984:Ursuin Cub Kennel
+8D319976:Silver Scarab
+8D319975:Stamina Tonic
+8D319977:Pyreal Scarab
+8D319978:Copper Scarab
+8D319980:Sleeves of the Arm
+8D319982:Note from Aun Mariona to Hea Toneawa
+8D319987:Floating Candle
+8D319988:A Small Mnemosyne
+8D319989:Embroidered Bag
+8D31998D:Stone Tool
+8D31998F:Hardy Gromnie Hide
+8D319991:Trade Note (75,000)
+8D319993:Health Philtre
+8D319A00:Forager Captain's Resonator
+9BA8529D:Scarlet Red Letter
+8D319994:Fire Zombie Essence (80)
+8D3199B3:Penguin Wing
+8D3199A5:Lead Scarab
+8D3199B9:Salvaged  (99)
+8D3199BD:Encapsulated Spirit
+8D3199BE:Frost Grievver Essence (50)
+8D3199C0:Trade Note (100,000)
+C654E505:Pyreal
+8D3199C1:Coalesced Mana
+C55AA7A3:Massive Mana Charge
+8D3199CB:Pyreal Pea
+BF25BFB1:Medicated Health Kit
+BF25BFB2:Medicated Health Kit
+BF25BFB3:Medicated Health Kit
+BF25BFB4:Medicated Health Kit
+BF25BFB5:Medicated Health Kit
+8D3199D6:Stamina Philtre
+8F68983B:Alloy Machine
+8D3199E8:Gold Pea
+8D3199F0:Gold Pea
+8D3199F2:Some Changes for February 2012
+8D3199F3:Health Tincture
+8D319A05:Silver Pea
+C4E328D8:A List of Items
+C621C79B:Watcher Token
+C4D6FC88:Abayar's Research Notes
+C63D81E6:Quest Weapon Coin
+C63E3F3B:Imbue Swap Coin
+BF25C455:Chevron Cloak
+BF25BFB0:Medicated Health Kit
+BF25BFAD:Medicated Health Kit
+BF73387E:Colosseum Ticket
+BF25C3C3:Chorizite
+BF25C3C5:Chorizite
+BF25BFAE:Medicated Health Kit
+BF25BFC4:Medicated Health Kit
+BF25BFC3:Medicated Health Kit
+BF25BFC1:Medicated Health Kit
+BF25BFC0:Medicated Health Kit
+BF25BFB9:Medicated Health Kit
+8D319A10:Deadly Frog Crotch Arrow
+BF25BFBE:Medicated Health Kit
+BF25BFB6:Medicated Health Kit
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,17 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-31_1485853069_log.pcap
+
+Partial Exports - Missing appraisal info:
+9C755464:Smock
+9C755465:Pants
+9C755467:Pyreal
+9C755468:Sack
+9C755469:Ust
+9C75546B:Pathwarden Token
+9C75546C:Training Dirk
+9C75546D:Training Shortbow
+9C755470:Handy Healing Kit
+9C755471:Letter From Home
+9CD0AB9B:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

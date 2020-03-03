@@ -1,0 +1,63 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485839341_log.pcap
+
+Partial Exports - Missing appraisal info:
+91928DB2:Some Changes for February 2012
+90791CA6:Torch
+91938DAF:Blackmoor's Favor
+8092387A:Pack
+9079199B:Elysa's Favor
+91D8A48E:Olthoi Celdon Girth
+90791C36:Torch
+9078DA9F:Gold Golem Heart
+90791D71:Diamond Heart
+9078DA97:Diamond Heart
+9078DA8F:Diamond Heart
+9078DA63:Bunch of Nanners
+90791B92:Sunflower Oil
+90791CAF:Ginger
+9078DA8D:Brown Lump
+9078DA32:Sunflower
+9078DA4A:Strange Stick
+90791B73:Carol's Carrot Soup
+90791BB3:Sunflower Oil
+90791BD8:Monougat
+90791B14:Torch
+90791B5F:Magic Iceball
+906B9317:Brown Beans
+90791B44:Carrot
+9156ECA8:Celdon Breastplate
+91C59BCC:Sollerets
+9156EC9C:Amuli Leggings
+91D2FE56:Salvage (100)
+809238CC:Ornate Fountain
+91CE8AAE:Salvage (100)
+91D1C869:Salvage (100)
+809237E0:Snowman Snowglobe
+91BBE890:Salvage (100)
+91D54930:Salvage (100)
+808D2339:Font of Jojii
+91D4174C:Salvage (100)
+9231C6FE:Salvage (100)
+8093C956:Snowman Snowglobe
+9231C6FC:Salvage (100)
+9226F33F:Salvage (100)
+8093C929:Snowman
+922DB627:Salvage (100)
+922361A1:Salvage (100)
+80923928:Snow Lily
+9196A1AE:Faran Robe with Hood
+9196AB3B:Faran Robe
+8093C912:Snowman Snowglobe
+9197A8C3:Yanshi Portal Gem
+9196A17E:Holtburg Portal Gem
+809238AB:Candelabra
+91929CE1:Shoyanen's Portal Gem
+8091DFDE:Thorsten's Armor
+808DC24F:Couch
+808BEEAC:Couch
+80921256:Candelabra
+8093C905:Snowflake
+8091C694:Snowman Snowglobe
+
+Missing Exports - Possessed items that were not found:

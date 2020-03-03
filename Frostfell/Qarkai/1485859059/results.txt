@@ -1,0 +1,108 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Cyberkiller-01-31-2017-Random\pkt_2017-1-31_1485858922_log.pcap
+
+Partial Exports - Missing appraisal info:
+CDF1FC0C:Foci of Enchantment
+CDF1FC7E:Pyreal
+CDF1FC0D:Foci of Artifice
+CDF1FC0E:Pack
+CDF1FC0F:Copper Scarab
+CDF1FC10:Lead Scarab
+CDF1FC11:Silver Scarab
+CDF1FC12:Gold Scarab
+CDF1FC13:Platinum Scarab
+CDF1FC14:Iron Scarab
+CDF1FC16:Prismatic Taper
+CDF1FC17:Pyreal Scarab
+CDF1FC18:Blank Augmentation Gem
+CDF1FC19:Blank Augmentation Gem
+CDF1FC1A:Blank Augmentation Gem
+CDF1FC1B:Blank Augmentation Gem
+CDF1FC1C:Blank Augmentation Gem
+CDF1FC1D:Platinum Scarab
+CDF1FC1F:Ust
+CDF1FC20:Blank Augmentation Gem
+CDF1FC21:Trade Note (250,000)
+CDF1FC22:Blank Augmentation Gem
+CDF1FC23:Diamond Scarab
+CDF1FC24:Blank Augmentation Gem
+CDF1FC25:Prismatic Taper
+CDF1FC26:Blank Augmentation Gem
+CDF1FC27:Pack
+CDF1FC29:Pack
+CDF1FC2B:Peerless Healing Kit
+CDF1FC2C:Peerless Healing Kit
+CDF1FC2D:Peerless Healing Kit
+CDF1FC2F:Peerless Healing Kit
+CDF1FC30:Peerless Healing Kit
+CDF1FC31:Peerless Healing Kit
+CDF1FC32:Peerless Healing Kit
+CDF1FC33:Peerless Healing Kit
+CDF1FC34:Peerless Healing Kit
+CDF1FC36:Treated Healing Kit
+CDF1FC38:Foci of Verdancy
+CDF1FC3E:Celestial Hand Trade Token
+CDF1FC3C:Pack
+CDF1FC3F:Dire Champion Token
+CDF1FC40:Small Olthoi Venom Sac
+CDF1FC4A:Colosseum Coin
+CDF1FC42:Coruscating Olthoi Scent Gland
+CDF1FC43:Ancient Mhoire Coin
+CDF1FC45:Pyre Skeleton Jaw
+CDF1FC48:Black Coral
+CDF1FC49:Exhumed Bones
+CDF1FC50:Stamina Tincture
+CDF1FC53:Wrapped Bundle of Quarrelshafts
+CDF1FC54:Wrapped Bundle of Deadly Blunt Arrowheads
+CDF1FC55:Wrapped Bundle of Deadly Fire Arrowheads
+CDF1FC56:Crystal of Perception
+CDF1FC57:Wrapped Bundle of Deadly Acid Arrowheads
+CDF1FC62:Polar Ursuin Lair
+CDF1FC5C:Wrapped Bundle of Olthoi Acid Arrowheads
+CDF1FC63:Blank Augmentation Gem
+CDF1FC64:Celestial Hand Armor Writ
+CDF1FC66:Blank Augmentation Gem
+CDF1FC6A:Silver Pea
+CDF1FC6D:Blank Augmentation Gem
+CDF1FC74:Blank Augmentation Gem
+CDF1FC76:Lady Tairla Mhoire's Key
+CDF1FC7B:Blank Augmentation Gem
+CDF1FC73:Verdalim Plant
+CDF1FC78:Wrapped Bundle of Deadly Armor Piercing Arrowheads
+CDF1FC7C:Polar Ursuin Lair
+CDF1FC7D:Minalim Plant
+CDF1FC7F:Blank Augmentation Gem
+CDF1FC80:Blank Augmentation Gem
+CDF1FC81:Blank Augmentation Gem
+CDF1FC82:Peerless Healing Kit
+CDF1FC86:Blank Augmentation Gem
+CDF1FC87:Parchment
+CDF1FC8A:Wood Heart
+CDF1FC8B:Azure Gromnie Tooth
+CDF1FC8E:Ash Gromnie Tooth
+CDF1FC8F:Strange Stick
+CDF1FC90:Blue Phyntos Wasp Wing
+CDF1FC94:Massive Mana Charge
+CDF1FC95:Massive Mana Charge
+CDF1FC96:Massive Mana Charge
+CDF1FC97:Massive Mana Charge
+CDF1FC98:Massive Mana Charge
+CDF1FC99:Massive Mana Charge
+CDF1FC9A:Massive Mana Charge
+CDF1FC9B:Massive Mana Charge
+CDF1FC9C:Massive Mana Charge
+CDF1FC9D:Massive Mana Charge
+CDF1FC9F:Elysa's Crystal
+CDF1FCA1:Massive Mana Charge
+CDF1FCA2:Massive Mana Charge
+CDF1FCA3:Massive Mana Charge
+CDF1FCA4:Massive Mana Charge
+CDF1FCA5:Massive Mana Charge
+CDF1FCA6:Massive Mana Charge
+CDF1FCA7:Massive Mana Charge
+CDF1FCA8:Massive Mana Charge
+CDF1FCA9:Massive Mana Charge
+CDF1FCAA:Massive Mana Charge
+CDF09B5C:Stipend
+
+Missing Exports - Possessed items that were not found:

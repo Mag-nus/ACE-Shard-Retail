@@ -1,0 +1,194 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485323961_log\pkt_2017-1-24_1485323961_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485323961_log\pkt_2017-1-24_1485323961_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485323961_log\pkt_2017-1-24_1485323961_log.pcap
+
+Partial Exports - Missing appraisal info:
+C09A6F2A:Pack
+C09A6F2B:Platinum Scarab
+C09A6F2C:Lead Scarab
+C09A6F2D:Copper Scarab
+C09A6F2E:Pyreal Scarab
+C09A6F2F:Gold Scarab
+C09A6F30:Silver Scarab
+C09A6F31:Iron Scarab
+C09A6F32:Prismatic Taper
+C09A6F33:Diamond Scarab
+C09A6F34:Mana Tonic
+C09A6F35:Ust
+C09A6F36:Chorizite
+C09A6F37:Health Philtre
+C09A6F38:Plentiful Healing Kit
+C09A6F39:Plentiful Healing Kit
+C09A6F3B:Splitting Tool
+C09A6F3C:Gem of Purity
+C09A6F3D:Gem of Stillness
+C09A6F3E:Duke Raoul's Distillation
+C09A6F3F:Tusker Spit Ale
+C09A6FB6:Elaborate Field Rations
+C09A6F41:Pack
+C09A6F42:War Axe
+C09A6F44:Lightning Ono
+C09A6F43:Battle Axe
+C09A6F4A:Superior Shield
+C09A6F4D:Polar Ursuin Lair
+C09A7012:Some Changes for February 2012
+C09A6F4E:Pack T'thuun
+C09A6F4F:Aphus Lassel Portal Gem
+C09A700C:Dolabra
+C09A6F50:Vissidal Island Portal Gem
+C09A6F51:Flaming War Axe
+C09A6F59:Pyreal
+C09A6F52:Flaming War Axe
+C09A7002:Flaming Lugian Hammer
+C6E6FC4D:Pyreal
+C09A6F67:Flaming Quadrelle
+C09A700A:Lugian Hammer
+C09A700D:Shield of Perfect Light
+C09A6FBD:Pyreal Pea
+C09A6F58:Pack
+C09A7011:Plated Amuli Leggings
+C09A7010:Brilliant Amuli Leggings
+C78CEE83:Pyreal
+C09A700F:Hardened Amuli Coat
+C78DBCFC:Lucky White Rabbit's Foot Gem
+C78C183A:Missile Defense Weapon Augmentation Gem
+C78DC99D:Magic Defense Weapon Augmentation Gem
+C78AD092:Spectral Force Gem
+C78E38DC:Black Skull of Xikma Gem
+C78E3A0D:Spectral Skull Gem
+C09A7001:Small Shard
+C78DD2AD:Greater Mukkir Slayer Stone Gem
+C78C1914:A'nekshay Slayer Stone Gem
+C09A6F71:Pack
+C09A6F73:Sollerets
+C09A6F74:Heavy Bracelet
+C09A6F75:Heavy Bracelet
+C09A6F76:Ring
+C09A6F77:Trade Note (50,000)
+C09A6F78:Trade Note (75,000)
+C09A6F7A:Trade Note (250,000)
+C09A6F84:Pack Tower Guardian
+C09A6F8A:Gold Pea
+C09A6F8C:Salvaged  (100)
+C09A6F8D:Salvaged  (100)
+C09A6F8E:Salvaged  (100)
+C09A6FBA:Major Mana Stone
+C09A6F8F:Salvaged  (100)
+C09A6F90:Pack
+C09A6FBB:Major Mana Stone
+C09A6F91:Salvaged  (100)
+C09A6F92:Salvaged  (100)
+C09A6FBC:Major Mana Stone
+C09A6F93:Salvaged  (100)
+C09A6F94:Salvaged  (100)
+C09A6FD6:Major Mana Stone
+C09A6F95:Salvaged  (100)
+C09A6F96:Salvaged  (100)
+C09A6FDF:Major Mana Stone
+C09A6F97:Salvaged  (100)
+C09A6F98:Salvaged  (100)
+C09A6F99:Salvaged  (100)
+C09A6F9A:Salvaged  (100)
+C09A6F9B:Salvaged  (100)
+C09A6F9C:Salvaged  (100)
+C09A6F9F:Salvaged  (100)
+C09A6FA1:Salvaged  (100)
+C09A6FA4:Salvaged  (100)
+C09A6F66:Salvaged  (100)
+C6D377CF:Salvage (100)
+C6E727C6:Salvage (100)
+C718B543:Salvage (100)
+C71E4CBE:Salvage (100)
+C78C19D4:Pack
+C795F136:Salvage (100)
+C6DBA323:Salvage (100)
+C7F1D7F4:Salvage (100)
+C09A6FA7:Salvaged  (100)
+C09A6FA8:Salvaged  (100)
+C09A6FA9:Salvaged  (100)
+C09A6FAA:Salvaged  (100)
+C09A6FAB:Salvaged  (100)
+C09A6FAC:Salvaged  (100)
+C09A6FAD:Salvaged  (100)
+C09A6FAE:Salvaged  (100)
+C09A6FB1:Salvaged  (100)
+C09A6FB4:Salvaged  (100)
+C09A6FB7:Salvaged  (100)
+C09A6FB8:Salvaged  (100)
+C09A6FC2:Salvaged  (100)
+C09A6FC3:Salvaged  (100)
+C09A6FC4:Salvaged  (100)
+C09A6FC6:Salvaged  (100)
+C09A6FC7:Salvaged  (100)
+C09A6FC8:Salvaged  (100)
+C09A6FC9:Salvaged  (100)
+C09A6FCA:Salvaged  (100)
+C09A6FCB:Salvaged  (100)
+C09A6FD9:Salvaged  (100)
+C09A6FDA:Orb
+C09A6FDB:Orb
+C09A6FDE:Salvaged  (100)
+C09A6FE0:Salvaged  (100)
+C09A6FE2:Salvaged  (100)
+C09A6FEF:Salvaged  (100)
+C09A6FF0:Salvaged  (100)
+C09A6FF1:Salvaged  (100)
+C09A6FF2:Salvaged  (100)
+C09A6FF3:Salvaged  (100)
+C09A6FF4:Salvaged  (100)
+C09A6FF5:Salvaged  (100)
+C09A6FF6:Salvaged  (100)
+C09A6FF7:Salvaged  (100)
+C09A6FF8:Salvaged  (100)
+C09A6FF9:Salvaged  (100)
+C09A6FFA:Salvaged  (100)
+C09A6FFD:Salvaged  (100)
+C09A7000:Acid Sceptre
+C09A7003:Salvaged  (100)
+C09A7005:Salvaged  (100)
+C09A7006:Salvaged  (100)
+C09A7008:Salvaged  (100)
+C09A7009:Salvaged  (100)
+C6A817F4:Salvage (100)
+C6C83747:Salvage (100)
+C66742AB:Salvage (100)
+C6D38E99:Salvage (100)
+C6E71F37:Salvage (100)
+C71834AC:Salvage (100)
+C719847C:Salvage (100)
+C0C0635A:Salvaged  (100)
+C0C06342:Salvaged  (100)
+C0C06374:Salvaged  (100)
+C09A6C67:Salvaged  (100)
+C09A6C66:Salvaged  (100)
+C09A6C65:Salvaged  (100)
+C7218749:Salvage (100)
+C72768CA:Salvage (100)
+C71AA3B2:Salvage (100)
+C71E41F8:Salvage (100)
+C09ABADE:Salvaged  (100)
+C72186F0:Salvage (100)
+C73B5869:Salvage (100)
+C736868B:Salvage (100)
+C77465C6:Salvage (100)
+C63F0E0C:Salvage (100)
+C09528DC:Salvaged  (100)
+C78E64BD:Salvage (100)
+C7A26D35:Salvage (100)
+C0BFDF7B:Salvaged  (100)
+C6C2F3E8:Salvage (100)
+C7C0C387:Salvage (100)
+C7C24234:Salvage (100)
+C7A3F0B2:Salvage (100)
+C7AEB0DD:Salvage (100)
+C7C24955:Salvage (100)
+C7A3DF0C:Salvage (100)
+C7ABB27F:Salvage (100)
+C7AF0F7A:Salvage (100)
+C7B7ECCB:Salvage (100)
+C7A262D8:Salvage (100)
+
+Missing Exports - Possessed items that were not found:

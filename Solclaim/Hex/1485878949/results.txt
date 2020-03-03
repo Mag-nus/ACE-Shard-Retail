@@ -1,0 +1,91 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\pkt_2017-1-30_1485843220_desc\pkt_2017-1-31_1485878915_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-06-2017\pkt_2017-1-30_1485843220_desc\pkt_2017-1-30_1485841941_log.pcap
+
+Partial Exports - Missing appraisal info:
+9BE25335:Ring
+9BE25336:Breeches
+9BE25338:Copper Scarab
+9BE25339:Lead Scarab
+9BE2533A:Silver Scarab
+9BE2533B:Gold Scarab
+9BE2533C:White Taper
+9BE2533D:Indigo Taper
+9BE2533E:Orange Taper
+9BE2533F:Grey Taper
+9BE25340:Turquoise Taper
+9BE25341:Pink Taper
+9BE25342:Yellow Taper
+9BE25343:Green Taper
+9BE25344:Brown Taper
+9BE25345:Violet Taper
+9BE25346:Red Taper
+9BE25347:Iron Scarab
+9BE25348:Prismatic Taper
+9BE25349:Wand
+9BE2534A:Gem
+9BE2534B:Necklace
+9BE2534C:Lesser Mana Stone
+9BE2534D:Lace Shirt
+9BE2534E:Handy Healing Kit
+9BE2534F:Frost K'nath Essence (50)
+9BE25356:Moderate Mana Charge
+9BE25351:Pack Idol
+9BE25352:Minalim Plant
+9BE25353:Iron Heart
+9BE25354:Gold Phyntos Wasp Wing
+9BE25355:Dagger
+9BE25357:Small Mana Charge
+9BE25358:Potion of Healing
+9BE25359:Gorget
+9BE2535A:Small Mana Charge
+9BE2535B:Peerless Healing Kit
+9BE2535C:Lightning Ken
+9BE2535D:Gem
+9BE2535E:Yari
+9BE2535F:Lead Pea
+9BE25360:Scroll of Acid Streak II
+9BE25361:Slippers
+9BE25362:Scroll of Cooking Mastery Other II
+9BE25363:Health Draught
+9BE25365:Scroll of Fire Vulnerability Other II
+9BE25364:Frost Grievver Essence (50)
+9BE25366:Scroll of Rejuvenate Other II
+9BE2536E:Pyreal
+9BE25367:Steel Toed Boots
+9BE25368:Mana Draught
+9BE25372:Pack Gaerlan
+9BE2536A:Orb
+9BE25383:Minor Mana Stone
+9BE2536C:Trade Note (500)
+9BE2536D:Trade Note (1,000)
+9BE2536F:Heavy Bracelet
+9BE25370:Scalemail Gauntlets
+9BE25371:Flaming Cestus
+9BE25373:Blackmoor's Favor
+9BE25374:Some Changes for February 2012
+9BE25375:Agent of Arcanum List
+9BE25376:Orb
+9BE25377:Katar
+9BE25378:Foci of Strife
+9BE25379:Foci of Verdancy
+9BE2537A:Foci of Artifice
+9BE2537B:Foci of Enchantment
+9BE2537C:Lead Scarab
+9BE2537D:Orb
+9BE2537E:Scroll of Frost Arc II
+9BE2537F:Studded Leather Pauldrons
+9BE25380:Gem
+9BE25385:Minor Mana Stone
+9BE25381:Acid Nabut
+9BE25382:Acid Quarter Staff
+9BE25387:Minor Mana Stone
+9BE25384:Bracelet
+9BE25386:Stoup
+9BE25389:Minor Mana Stone
+9BE25388:Lightning Tetsubo
+9BE2538A:Sceptre
+
+Missing Exports - Possessed items that were not found:

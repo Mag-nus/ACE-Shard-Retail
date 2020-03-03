@@ -1,0 +1,112 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Immortalbob-1-31-17-Random-Pcaps-5\pkt_2017-1-30_1485824999_log.pcap
+
+Partial Exports - Missing appraisal info:
+8D2A7447:Pyreal
+8041006C:Sack
+8041004F:Silver Scarab
+80410066:Lead Scarab
+8E57EDB3:Prismatic Taper
+8041005F:Mana Scarab
+B972666B:Titan Mana Charge
+B97265FE:Titan Mana Charge
+B972641A:Titan Mana Charge
+B96E99E0:Titan Mana Charge
+C16F5667:Gold Pea
+C1E0CE8F:Major Mana Stone
+BA16D2DE:Lesser Corrupted Essence
+9793C653:A'nekshay Token
+80410039:Enhanced Red Empyrean Ring
+8B724747:Gauntlet Coin
+8B644AFF:Small Olthoi Venom Sac
+9833E827:Ornate Gear Marker
+C21C702C:Silver Pea
+80410055:Foci of Strife
+80410054:Foci of Artifice
+80410053:Foci of Enchantment
+80410052:Pack
+8041004E:Titan Mana Charge
+8041003D:Iron Scarab
+8041004B:Pyreal Scarab
+80410067:Platinum Scarab
+8C592C55:Diamond Scarab
+8041004D:Platinum Scarab
+80410040:Gold Scarab
+80410045:Copper Scarab
+A1FA1069:Major Mana Stone
+B89ACECD:Major Mana Stone
+B9711C72:Titan Mana Charge
+B97128C1:Titan Mana Charge
+C0EE99FA:Major Mana Stone
+C01EB929:Major Mana Stone
+B972640F:Titan Mana Charge
+C1B58249:Major Mana Stone
+C4547BCA:Pyreal
+80410029:Pack
+8041001C:Ust
+80410020:Nether-attuned Rynthid Tentacle Wand
+80410025:Blackmoor's Favor
+B85ECD47:Stipend
+80410022:Aligned Mana Stone
+8041001E:Black Page of Salt and Ash
+C336261E:Major Mana Stone
+80410024:Celdiseth's Portal Gem
+8B79855F:Spectral Crystal of the Hieromancer
+80410021:Aetheria Mana Stone
+80410026:Facility Hub Portal Gem
+B85E1D31:Experience Certificate
+8041001D:Life-attuned Rynthid Tentacle Wand
+80410028:Town Network Portal Gem
+8B52FDBC:Gem of Arcane Corruption
+8041001F:Asheron's Lesser Benediction
+BA2F8C54:Gauntlet Vault Key
+B84B4A7A:Spectral Crystal of the Life Giver
+BC054225:Token of the Aura of the World
+C2DD482E:Invitation Ithaenc Cathedral
+C3378971:Major Mana Stone
+C2DCB46D:Invitation Ithaenc Cathedral
+BA938F74:Gauntlet Vault Key
+B97D73DF:Gauntlet Vault Key
+B9B61DA9:Gauntlet Vault Key
+8031C969:Encapsulated Spirit
+B9D11FAB:Gauntlet Vault Key
+B87BFF66:Gauntlet Vault Key
+C45763DC:Pyreal
+C455E07C:Pyreal
+C2EC6C08:Gauntlet Coin
+8000B14D:Colosseum Backpack
+C44DC627:Pyreal
+BAA5A304:Gauntlet Vault Key
+B93D85C9:Scroll of Radiant Blood Recall
+B91930C9:Gauntlet Treasure Key
+B811B5B1:Gauntlet Treasure Key
+8D032315:Blue Society Band
+8CEBF811:Green Society Band
+C2EC6C07:Gauntlet Vault Key
+BA1273B0:Lesser Corrupted Essence
+C29A77BD:Salvage (28)
+C2AFFA63:Trade Note (250,000)
+C2DAE69B:Invitation Ithaenc Cathedral
+C29305B4:Prismatic Taper
+C2DC5130:Invitation Ithaenc Cathedral
+C374C3F9:Mana Scarab
+C3736C4A:Salvage (34)
+C37A8EEB:Salvage (48)
+C452BC10:Pyreal
+C3823E13:Salvage (49)
+C3822267:Salvage (63)
+C388BFB1:Upper Insatiable Eater Jaw
+C3833334:Ancient Mhoire Coin
+C38667DF:Ancient Mhoire Coin
+C45A409D:Prismatic Taper
+C384B7AD:Ancient Mhoire Coin
+C3884F96:Spectral Missile Weapon Mastery Crystal
+C44AE44A:Pyreal
+C45763DD:Pyreal
+C4576430:Pyreal
+C452C3B8:Pyreal
+C46A55E2:Contract for Kill: Rynthid Rare Boss
+C46A5015:Contract for Kill: Empowered Wisps
+C57135DC:Gauntlet Vault Key
+
+Missing Exports - Possessed items that were not found:

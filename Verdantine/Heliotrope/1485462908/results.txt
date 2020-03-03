@@ -1,0 +1,84 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap1\pkt_2017-1-26_1485462351_log.pcap
+
+Partial Exports - Missing appraisal info:
+86001E42:Pyreal
+860058E6:Sack
+85FF07D0:Ust
+86001E23:Academy Coat
+85FBF2A4:Facility Hub Portal Gem
+86000EC7:Chiran Leggings
+85FE87CC:Amuli Coat
+85FF063D:Studded Leather Gauntlets
+85FF05B1:Steel Toed Boots
+85FA4996:Olthoi Tassets
+8600590A:Olthoi Breastplate
+86005901:Acid Compound Bow
+86000E91:Olthoi Koujia Breastplate
+86001E4A:Suikan Over-robe
+860001DE:Flamberge
+86005904:Schlager
+85FEDF72:Studded Leather Gauntlets
+85FA2984:Lightning Morning Star
+86005905:Nariyid Boots
+86001E17:Bracelet
+86001E48:Trident
+86001E41:Lightning Katar
+85FF0669:Lorica Helm
+86001E2E:Chainmail Gauntlets
+86005906:Health Philtre
+85FF04FF:Fire Compound Bow
+85FF066A:Flamberge
+86001D2D:Olthoi Celdon Girth
+85FA3CA0:Circlet
+85FF0635:Acid Lugian Hammer
+86001E4B:Poet's Shirt
+85FF058E:Olthoi Alduressa Gauntlets
+85FF064B:Teardrop Crown
+85FF05E4:Olthoi Alduressa Leggings
+86005908:Dagger
+85FF2952:Frost Shashqa
+85FA3BBD:Chiran Sandals
+85FF080E:Shadow Fragment
+85FF05F5:Diadem
+860078BE:Leather Gauntlets
+860005E1:Stamina Philtre
+860002F4:Olthoi Koujia Leggings
+86007911:Haebrean Greaves
+85FF06A3:Slippers
+85FBA593:Olthoi Amuli Helm
+85FF0631:Tenassa Breastplate
+85FF064C:Wide Breeches
+86001E3C:Leather Leggings
+85FB5AA7:Cowl
+86001E44:Beret
+86001E52:Celdon Leggings
+85FF06DE:Studded Leather Breastplate
+85FF0594:Amuli Leggings
+85FF05C2:Baggy Breeches
+85FBC6E4:Koujia Leggings
+860078DA:Lugian Hammer
+860078DE:Chiran Sandals
+85FBB3D2:Diforsa Bracers
+86005902:Circlet
+86001E2C:Studded Leather Bracers
+86001E20:Frost Mazule
+85FF05BB:Baggy Pants
+85FA1CF9:Lightning Morning Star
+86005907:Electric Naginata
+85FF0626:Claw
+86001CD2:Frost Lugian Hammer
+85FEDE29:Covenant Sollerets
+85FF05FE:Olthoi Koujia Breastplate
+85FF0638:Acid Nabut
+85FF05A2:Dirk
+85FFF15A:Qafiya
+85FA3CBC:Slippers
+86005900:Shoes
+85FA4258:Flaming Knife
+85FF05A1:Lightning Dirk
+85FE5F4B:Aetheria
+85FA3C87:Aetheria
+85FEDE8B:Olthoi Helm
+
+Missing Exports - Possessed items that were not found:

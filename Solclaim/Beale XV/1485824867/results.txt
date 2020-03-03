@@ -1,0 +1,78 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485824863_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485827977_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-28_1485662897_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-29_1485680482_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485816470_log.pcap
+
+Partial Exports - Missing appraisal info:
+90DBDFAB:Colosseum Backpack
+9A6E3C57:Major Mana Stone
+9A6E3EC6:Major Mana Stone
+9A3107C3:Major Mana Stone
+9AFF272E:Massive Mana Charge
+9AFF2921:Massive Mana Charge
+9AFF28E6:Massive Mana Charge
+9AFF291D:Massive Mana Charge
+9AFF28E3:Massive Mana Charge
+9AFF291A:Massive Mana Charge
+9AFF28DF:Massive Mana Charge
+9AFF28ED:Massive Mana Charge
+9AFF28E0:Massive Mana Charge
+9AFF2917:Massive Mana Charge
+9AFF28EA:Massive Mana Charge
+90E21DBA:Colosseum Backpack
+90E65B6F:Facility Hub Portal Gem
+9AFF291E:Massive Mana Charge
+9758DF35:Wrapped Bundle of Deadly Prismatic Arrowheads
+9AD71BAE:Pyreal
+924D24FD:Aetheria Mana Stone
+992F0CFD:Rage of Grael Gem
+9338DC7F:Celdiseth's Portal Gem
+98D46996:Town Network Portal Gem
+988B5147:Celdiseth's Portal Gem
+9AFF28E7:Massive Mana Charge
+90D31AD1:Colosseum Backpack
+929DF4D8:Platinum Scarab
+968C0E65:Prismatic Taper
+9881E7D7:Chorizite
+9922BD8C:Tusker Spit
+9A09559E:Mana Scarab
+9A0B8D0C:Mana Scarab
+9793CFB2:Mana Scarab
+940C4419:Chorizite
+90C81B14:Copper Scarab
+9793D826:Mana Scarab
+90CC9C45:Silver Scarab
+90CD17FC:Gold Scarab
+9250EF5A:Pyreal Scarab
+97E236C8:Diamond Scarab
+90E28987:Diamond Scarab
+9AFF28E4:Massive Mana Charge
+91F20D22:Promissory Note
+9A042130:Renegade Herbal Kit
+99B3F989:Colosseum Backpack
+9A04212F:Renegade Herbal Kit
+9A0561B2:Renegade Herbal Kit
+9A6FB4DF:Trade Note (250,000)
+9AEEB776:Trade Note (250,000)
+99B0420B:Colosseum Backpack
+97B807BA:Renegade Herbal Kit
+97DB2F6E:Renegade Herbal Kit
+975BB842:Wrapped Bundle of Arrowshafts
+93BFCA65:Wrapped Bundle of Burning Sands Arrowheads
+98FDA558:Burning Coal
+90C5F4BF:Colosseum Backpack
+99B04D43:Encapsulated Spirit
+802F368A:Colosseum Backpack
+99B4A451:Tusker Spit Ale
+99B4D196:Amber Ape
+99B4DD37:Bobo's Stout
+99AFEB21:Duke Raoul's Distillation
+8022CFF4:Hunter's Stock Amber
+99B3BDF1:Apothecary Zongo's Stout
+993CC257:Colosseum Backpack
+
+Missing Exports - Possessed items that were not found:

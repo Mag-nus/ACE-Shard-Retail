@@ -1,0 +1,73 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (2210356981, 297, 1, 7524673) /* Generic */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (2210356981,   1,          8) /* ItemType - Jewelry */
+     , (2210356981,   5,         15) /* EncumbranceVal */
+     , (2210356981,   9,     786432) /* ValidLocations - FingerWear */
+     , (2210356981,  10,     262144) /* CurrentWieldedLocation - FingerWearLeft */
+     , (2210356981,  16,          1) /* ItemUseable - No */
+     , (2210356981,  18,          1) /* UiEffects - Magical */
+     , (2210356981,  19,      29508) /* Value */
+     , (2210356981,  65,        101) /* Placement - Resting */
+     , (2210356981,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (2210356981, 105,          7) /* ItemWorkmanship */
+     , (2210356981, 106,        370) /* ItemSpellcraft */
+     , (2210356981, 107,       1216) /* ItemCurMana */
+     , (2210356981, 108,       1601) /* ItemMaxMana */
+     , (2210356981, 109,        312) /* ItemDifficulty */
+     , (2210356981, 110,          0) /* ItemAllegianceRankLimit */
+     , (2210356981, 115,          0) /* ItemSkillLevelLimit */
+     , (2210356981, 131,         20) /* MaterialType - Diamond */
+     , (2210356981, 158,          7) /* WieldRequirements - Level */
+     , (2210356981, 159,          1) /* WieldSkillType - Axe */
+     , (2210356981, 160,        150) /* WieldDifficulty */
+     , (2210356981, 172,          3) /* AppraisalLongDescDecoration */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (2210356981,   1, False) /* Stuck */
+     , (2210356981,  11, True ) /* IgnoreCollisions */
+     , (2210356981,  13, True ) /* Ethereal */
+     , (2210356981,  14, True ) /* GravityStatus */
+     , (2210356981,  19, True ) /* Attackable */
+     , (2210356981,  22, True ) /* Inscribable */
+     , (2210356981,  91, True ) /* Retained */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (2210356981,   5, -0.0666666666666667) /* ManaRate */
+     , (2210356981,  39,     0.5) /* DefaultScale */
+     , (2210356981, 8004,       7) /* PCAPRecordedWorkmanship */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (2210356981,   1, 'Ring') /* Name */
+     , (2210356981,   7, '--') /* Inscription */
+     , (2210356981,   8, 'Azrakin') /* ScribeName */
+     , (2210356981,  16, 'Ring of Magic Resistance') /* LongDesc */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (2210356981,   1,   33554691) /* Setup */
+     , (2210356981,   3,  536870932) /* SoundTable */
+     , (2210356981,   6,   67111919) /* PaletteBase */
+     , (2210356981,   8,  100668669) /* Icon */
+     , (2210356981,  22,  872415275) /* PhysicsEffectTable */
+     , (2210356981, 8001, 2166587544) /* PCAPRecordedWeenieHeader - Value, Usable, UiEffects, Wielder, ValidLocations, CurrentlyWieldedLocation, Burden, Workmanship, MaterialType */
+     , (2210356981, 8003,   16777234) /* PCAPRecordedObjectDesc - Inscribable, Attackable, Retained */
+     , (2210356981, 8005,     137345) /* PCAPRecordedPhysicsDesc - CSetup, ObjScale, STable, PeTable, AnimationFrame */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (2210356981,   3, 1342178494) /* Wielder */
+     , (2210356981, 8000, 2210356981) /* PCAPRecordedObjectIID */;
+
+INSERT INTO `biota_properties_spell_book` (`object_Id`, `spell`, `probability`)
+VALUES (2210356981,  2281,      2) 
+     , (2210356981,  2513,      2) 
+     , (2210356981,  4470,      2) ;
+
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
+VALUES (2210356981, 67111924, 0, 0);
+
+INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
+VALUES (2210356981, 0, 83889680, 83889680, 0);
+
+INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, `order`)
+VALUES (2210356981, 0, 16778344, 0);

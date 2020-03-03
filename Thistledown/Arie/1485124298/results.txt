@@ -1,0 +1,229 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-22_1485124292_log.pcap
+
+Partial Exports - Missing appraisal info:
+AA8D3C21:Treated Healing Kit
+AA8C71DF:Treated Healing Kit
+AA8D3BC9:Treated Healing Kit
+AA8E5541:Treated Healing Kit
+AA8D3C66:Treated Healing Kit
+AA8D3BD0:Treated Healing Kit
+AA8EB8D4:Treated Healing Kit
+AA8D3CBD:Treated Healing Kit
+AA8D186A:Treated Healing Kit
+AA8EB8D3:Treated Healing Kit
+AA8D3B78:Treated Healing Kit
+AA8D3D00:Treated Healing Kit
+AA8D3CBB:Treated Healing Kit
+AA8D3D0B:Treated Healing Kit
+AA8EB8E4:Treated Healing Kit
+AA8D3C25:Treated Healing Kit
+AA8D3B82:Treated Healing Kit
+AA8D3C69:Treated Healing Kit
+AA8EB8DC:Greater Mana Stone
+AA8D3CD2:Yaraq Portal Gem
+AA8D3BB4:Greater Mana Stone
+AA8D3CBC:Necklace
+AA8D3621:White Virindi Wand
+AA8D3CD1:White Virindi Wand
+AA8D3C27:Red Taper
+AA8D3BDE:Indigo Taper
+AA8D3D14:Yellow Taper
+AA8D3C24:Green Taper
+AA8D3D02:Brown Taper
+AA8D3B90:Turquoise Taper
+AA87447A:Turpeth
+AA8D3BE1:Gypsum
+AA8D3CA9:Blue Taper
+AA8D3BF6:Quicksilver
+AA8D3C05:Grey Taper
+AA8E553A:White Taper
+AA8D3C15:Ashwood Talisman
+AA8D3C12:Rowan Talisman
+AA8D3B84:Yarrow
+AA8D3C6A:Silver Scarab
+AA8D3C37:Pink Taper
+AA8D3D01:Iron Scarab
+AA8EB8F9:Copper Scarab
+AA8D3CA8:Orange Taper
+AA8D3BBD:Ring
+AA8D3C57:Pyreal
+AA8D3B56:Powdered Malachite
+AA8D3CAB:Cobalt
+AA8D0ADA:Intricate Carving Tool
+AA8D3C22:Greater Mana Stone
+AA8D3B72:Greater Mana Stone
+AA8D3BF1:Heavy Bracelet
+AA8D3C54:Ring
+AA8D3AF4:Heavy Bracelet
+AA8EB900:Smock
+AA8D3BF2:Orb
+AA8D3A57:Greater Mana Stone
+AA8D3C6B:Heavy Bracelet
+AA8E6C5C:Crown
+AA8E5535:Amulet
+AA8D3BDA:Crown
+AA8D3D09:Acid Dagger
+AA8E5534:Necklace
+AA8D3C10:Ornamental Bowl
+AA8D3B96:Ahruenga Portal Gem
+AA8D3BD6:Greater Mana Stone
+AA8D3B9E:Orb
+AA8EB8F8:Shoyanen's Portal Gem
+AA8D3C6D:Great Mana Charge
+AA8D3CFD:White Virindi Wand
+AA8D3B4D:White Virindi Wand
+AA8D3B61:Superb Lockpick
+AA8D3BDC:Heavy Bracelet
+AA8D3C51:Bracelet
+AA8D3B5F:Powdered Turquoise
+AA8D3C07:Stibnite
+AA8D1C0A:Treated Healing Kit
+AA8D3BF3:Treated Healing Kit
+AA8D3C53:Gold Scarab
+AA8D3BBE:Powdered Onyx
+AA8D3C6C:Mandrake
+AA8E6F5D:Yaraq Portal Gem
+AA8D3C3B:Violet Taper
+AA8D3BD5:Samsur Portal Gem
+AA8EB8F7:Samsur Portal Gem
+AA8EB023:Greater Mana Stone
+AA8E5538:Pyreal Scarab
+AA8D3C13:Dragonsblood
+AA8D3BF8:Colcothar
+AA8D3B65:Red Taper
+AA8E6F5C:Yellow Taper
+AA8D3B74:Hazel Talisman
+AA8D3C0A:Cobalt
+AA8EB90C:Comfrey
+AA8EB8FE:Virindi Scalpel
+AA8D3C26:White Jewel
+AA8D3BF4:Orb
+AA8D3BA3:Stone Tool
+AA8D3B4C:Trade Note (100,000)
+AA8D3B59:Staff
+AA8CFA24:Blue Orb
+AA8D3B7F:Yaraq Portal Gem
+AA8D3C81:Ring
+AA8E6F5B:Scroll of Endurance Other VI
+AA8B0000:Shirt
+AA8CFA9D:Orb
+AA8E7304:Greater Mana Stone
+AA8EB020:Heavy Bracelet
+AA8D1CFD:Staff
+AA8EB905:Ring
+AA8D3BCB:Rithwic Portal Gem
+AA8D3BC0:Nanto Portal Gem
+AA8EB022:Greater Mana Stone
+AA8D3BBA:Ring
+AA8D3BAE:Intricate Carving Tool
+AA8D3BD1:Sceptre
+AA8EB909:Heavy Bracelet
+AA8D3BEA:Sceptre
+AA8D3BB0:Heavy Necklace
+AA8EFF49:Virindi Implant
+AA8EFF4B:Scroll of Stamina to Health Self VI
+AA8EFF4A:Samsur Portal Gem
+AA8EFF48:Ursuin Head
+AA8EB90D:Yaraq Portal Gem
+AA8D3A8D:Al-Arqas Portal Gem
+AA8EB021:Ring
+AA8D3B5E:Claw Glyph
+AA8D3BEF:Heavy Necklace
+AA8D3BA1:Rithwic Portal Gem
+AA8D3B79:Claw Glyph
+AA8D3B63:Crown
+AA8D3BD3:Crown
+AA8D3BBC:Virindi Implant
+AA8D3BDB:Heavy Bracelet
+AA8D3B24:Virindi Implant
+AA8D3B8A:Ring
+AA8D3BC2:Yellow Virindi Wand
+AA8EB906:Heavy Necklace
+AA8D3B44:Treated Healing Kit
+AA8D3BE6:Crown
+AA8D3B93:Shoyanen's Portal Gem
+AA8D3B08:Treated Healing Kit
+AA8D3BEE:Staff
+AA8D3C3C:Ring
+AA8D3B81:Wand
+AA8E5544:Staff
+AA8D3BB6:Necklace
+AA8EB90A:Staff
+AA8D3BC6:Orb
+AA8D3B8D:Nanto Portal Gem
+AA8D3BCC:Al-Arqas Portal Gem
+AA8D20F9:Pyreal
+AA8D3BBB:Tunic
+AA8D3BC4:Sceptre
+AA8D3B4B:Sake
+AA8D3B8F:Orb
+AA8EB907:Wand
+AA8D3B6B:Broken Virindi Mask
+AA8D3B1E:Shoyanen's Portal Gem
+AA8D3B86:Shoyanen's Portal Gem
+AA8D3BE4:Celdiseth's Portal Gem
+AA8D3B71:Shoyanen's Portal Gem
+AA8D1C0C:Shoyanen's Portal Gem
+AA8D3B41:Shoyanen's Portal Gem
+AA8D3BE7:Shoyanen's Portal Gem
+AA8D3B9D:Shoyanen's Portal Gem
+AA8D3B46:Shoyanen's Portal Gem
+AA89786F:Mana Elixir
+AA8D3BB2:Ring
+AA8D3AC9:Mana Potion
+AA8D3B85:Intricate Carving Tool
+AA8D3BA7:Moderate Mana Charge
+AA8D3BA8:Heavy Bracelet
+AA8D3B60:Heavy Bracelet
+AA8D212B:Treated Healing Kit
+AA8D3AE8:Cestus
+AA8D3B77:Ravenous Katar
+AA8EB914:Quiddity Orb
+AA8D3B9F:Moderate Mana Charge
+AA8D3B66:Staff
+AA8D3AF6:Acid Cestus
+AA8D3B97:Platemail Cuirass
+AA8D3B7C:Ebon Spine Harpoon
+AA8D3B8B:Platemail Sleeves
+AA8D20B3:Heaume
+AA8D3B68:Great Mana Charge
+AA8D3B47:Great Mana Charge
+AA8D22CA:White Jewel
+AA8D3B42:Virindi Singularity Key
+AA8D3727:Greater Mana Stone
+AA8D3B89:Ogre Mask
+AA8D3B6E:Mattekar Hide Coat
+AA8D3B6F:Crown
+AA8E6F97:Virindi Mask
+AA8D3B6D:Armet
+AA8D3ABA:Yoroi Leggings
+AA8D3AE3:Ursuin Hide Coat
+AA8D3B3D:Atlatl
+AA8D3AE7:Tree Trunk
+AA8E5542:Yoroi Cuirass
+AA8D3B9B:Amuli Coat
+AA8D3B49:Ogre Mask
+AA8D3B5B:Sollerets
+AA8D3B7A:Helmet
+AA8D20DE:Steel Toed Boots
+AA8D3B0A:Platemail Gauntlets
+AA8D3B53:Helmet
+AA8D3A4E:Heaume
+AA8E6F88:Katar
+AA8D37CC:Iceball
+AA8D3AD0:Poofy Snowball
+AA8BE7AC:Atlatl
+AA8D20E6:Intricate Wooden Key
+AA8D3B19:Scroll of Sprint Self VI
+AA8D3B48:Scroll of Alchemy Mastery Other VI
+AA8D10A2:Scroll of Introversion
+AA8D3B83:Scroll of Extinguish Life Magic Other
+AA8D3B4F:Trade Note (50,000)
+AA8D3B2F:White Jewel
+AA8D20C1:Amulet
+AA8D3B58:Some Changes for February 2012
+A4D2BAC2:Faran Robe with Hood
+AA8D2FB9:Katar
+
+Missing Exports - Possessed items that were not found:

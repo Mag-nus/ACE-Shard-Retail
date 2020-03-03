@@ -1,0 +1,77 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Mavness-02-01-2017-pcap\pcap\pkt_2017-1-23_1485230613_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Mavness-02-01-2017-pcap\pcap\pkt_2017-1-23_1485228943_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Mavness-02-01-2017-pcap\pcap\pkt_2017-1-23_1485229231_log.pcap
+
+Partial Exports - Missing appraisal info:
+9B15C1FF:Lead Scarab
+D4FBB150:Silver Scarab
+D5DE8356:Prismatic Taper
+D5E65ED0:Prismatic Taper
+9B595E53:Foci of Verdancy
+9CA447A0:Ruminations on Portal Creation
+9C73482F:Tipped Pack Cow
+D44E8694:Stipend
+D4FDB0A7:Aphus Lassel Portal Gem
+D4FDBAF6:Trade Note (250,000)
+D502EB8B:Lucky Gold Letter
+DCB3854C:Sharp Tusker Slave Tusk
+DCB3B2C6:Pyreal
+DCB3B2C5:Pyreal
+DCB3B2C4:Pyreal
+DCB3B2C3:Pyreal
+D5E6328E:Aphus Lassel Portal Gem
+DCB193CA:Trade Note (250,000)
+DCB3B2C2:Pyreal
+DCB38858:Aphus Lassel Portal Gem
+DCB3884C:Aphus Lassel Portal Gem
+DCB3B2C1:Pyreal
+DCB3881C:Aphus Lassel Portal Gem
+DCB38814:Aphus Lassel Portal Gem
+DCB3B687:Pyreal
+DCB38803:Aphus Lassel Portal Gem
+DCB387A0:Aphus Lassel Portal Gem
+DCB3B686:Pyreal
+DCB3876B:Aphus Lassel Portal Gem
+DCB38765:Aphus Lassel Portal Gem
+DCB3B685:Pyreal
+DCB38731:Aphus Lassel Portal Gem
+DCB386D4:Aphus Lassel Portal Gem
+DCB2B9CB:Silver Pea
+DCB386BF:Aphus Lassel Portal Gem
+DCB38642:Aphus Lassel Portal Gem
+DCB38614:Aphus Lassel Portal Gem
+DCAFECE4:Trade Note (5,000)
+DCB19579:Trade Note (1,000)
+DC840B44:Trade Note (20,000)
+DCB16481:Trade Note (10,000)
+DCB3B3DD:Trade Note (15,000)
+DCB3B4B5:Trade Note (75,000)
+DCB3B4DE:Trade Note (50,000)
+DCB05B82:Trade Note (200,000)
+DCB3B6D2:Trade Note (25,000)
+DCB3B7CC:Trade Note (15,000)
+DCB3CB9C:Trade Note (250,000)
+
+Missing Exports - Possessed items that were not found:
+9BAA1E91
+9BAA0C29
+9BA8B0DF
+9B15C200
+9B15C1F9
+9BA83185
+9BA85986
+9BA859B6
+9BA83172
+9BA8345E
+9B15C1FD
+9BA7AE36
+9BAC4135
+9BAB6114
+9BA85084
+9CCFD1B2
+9BAC4308
+9C855A6B
+9BA86C57

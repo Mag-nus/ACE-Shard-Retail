@@ -1,0 +1,94 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-29_1485718203_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485763969_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-30_1485771019_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-30_1485771019_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-25_1485371656_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-29_1485681570_log.pcap
+
+Partial Exports - Missing appraisal info:
+80FD9634:Foci of Strife
+80F97327:Foci of Verdancy
+80FD99AC:Foci of Enchantment
+80FD62E7:Foci of Artifice
+81008B0B:Pack
+81008B0C:Silver Scarab
+81008B0D:Diamond Scarab
+81008B0A:Aphus Lassel Portal Gem
+81008B0E:Platinum Scarab
+80FEC4EB:Splitting Tool
+80FBFE76:Pyreal Scarab
+80F7E932:Shoyanen's Portal Gem
+80FD5FF0:Prismatic Taper
+80FD8575:Prismatic Taper
+80F94230:Life Magic Gem of Enlightenment
+80FBFEF6:Lead Scarab
+80FD98B5:Iron Scarab
+80F0C9E9:Gold Scarab
+80FD8650:Copper Scarab
+80F94BE6:Item Enchantment Gem of Enlightenment
+80F934CD:Trade Note (250,000)
+89DED185:Prismatic Taper
+8A205A01:Mana Scarab
+A97BFB7D:Deed
+89C6513F:Gem of Purity
+80FD956F:Gem of Stillness
+80FD95F8:7th Anniversary Night Club Ticket
+80F93982:Pack
+80FB49BE:Ust
+80F30853:Book
+80FD68EC:A Message from Scorus
+80FD7FA6:Torn Mosswart Shroud
+80FEDC6E:Asheron's Benediction
+80FD782D:Blackmoor's Favor
+80FD8470:Elixir of Autumn
+81008B48:Runic Skull
+80FD66E5:Small Empyrean Key
+80FD968D:Empyrean Spherule
+80FF03B4:Coalesced Mana
+80FD9635:Faran Over-robe
+80FE9472:Dire Champion Token
+80F95390:Healing Machine Recipe
+80FD8EF4:Vapor Golem Heart
+81008B47:Ruschk Iceberg Key
+81009431:Banderling Slayer Backpack
+80F94B34:Massive Mana Charge
+80FD7DBC:Diadem
+80FF042C:Teardrop Crown
+80FD971B:Chalice
+80FD8638:Facility Hub Portal Gem
+80FD9789:Cull the Drudges
+80FB47F6:Last Known Location of Muldaveus
+80FD8792:Last Known Location of Muldaveus
+80F71664:Perfect Ice Shard
+80FD76C5:Augmented Ice Shard
+80FB4771:Augmented Ice Shard
+B3E73469:Teardrop Crown
+89D23C32:Brewmaster's Front Cover
+80FF8444:Vial of Margul Blood
+8A756A6A:Moderate Mana Stone
+8A5B9109:Coalesced Mana
+8A4F0B6F:Gem of Stillness
+8A71668A:Encapsulated Spirit
+8A7A9FB5:Gem of Purity
+8D898C6E:Summoning Gem of Enlightenment
+811D1EBB:Pyreal
+811D1EBA:Pyreal
+8D8A3A12:Hyssop
+8D88168B:Void Magic Gem of Enlightenment
+865C2122:Circlet
+8103664F:Pyreal Golem Heart
+B94DC111:Pyreal
+B94CD48B:Pyreal
+B94E0293:Pyreal
+B950F48D:Pyreal
+B94DFEC3:Pyreal
+B94912E3:Pyreal
+C357C6D0:Blank Augmentation Gem
+C35B9C23:Blank Augmentation Gem
+C3505BA5:Blank Augmentation Gem
+C7FF5B1D:Stipend
+
+Missing Exports - Possessed items that were not found:

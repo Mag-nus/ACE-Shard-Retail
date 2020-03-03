@@ -1,0 +1,36 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Cyberkiller-01-31-2017-Random\pkt_2017-1-31_1485862648_log.pcap
+
+Partial Exports - Missing appraisal info:
+DD2E3116:Pack
+DD269FFD:Trade Note (10,000)
+DD26A08D:Trade Note (1,000)
+DD269FD4:Trade Note (1,000)
+DD11F98B:Trade Note (1,000)
+DD11F85C:Trade Note (1,000)
+DD26A02A:Trade Note (1,000)
+DD269FF5:Silver Scarab
+DCFE450F:Gold Scarab
+DD11F7D8:Copper Scarab
+DD269FDE:Lead Scarab
+DD269FE0:Iron Scarab
+DD0E62A9:Pack
+DD269FEB:Pack
+DD11F7A3:Pack
+DD11F6F2:Stamina Elixir
+DD26A04A:Stamina Elixir
+DD085D90:Stamina Elixir
+DD11F85F:Pack
+DD262857:Pack
+DD11F702:Pack
+DD11F970:Stone Tool
+DD11F86E:Pyreal
+DD25D25C:Pyreal
+DD11F68E:Pyreal
+DD11ACDA:Pyreal
+DD269FD8:Pyreal
+DD26A003:Pyreal
+DD2C2E87:Some Changes for February 2012
+DD26A03B:Pack Ancient Olthoi Queen
+
+Missing Exports - Possessed items that were not found:

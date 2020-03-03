@@ -1,0 +1,19 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-30_1485820096_log.pcap
+
+Partial Exports - Missing appraisal info:
+AB9C457F:Baggy Tunic
+AB9C4580:Trousers
+AB9C4582:Pyreal
+AB9C4583:Sack
+AB9C4584:Ust
+AB9C4585:Calling Stone
+AB9C4586:Pathwarden Token
+AB9C4589:Arrow
+AB9C458A:Round Shield
+AB9C458B:Handy Healing Kit
+AB9C458C:Letter From Home
+AB9C458D:Bread
+
+Missing Exports - Possessed items that were not found:
+AB9C4581

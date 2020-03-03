@@ -1,0 +1,109 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-29-2017-pkt_2017-1-29_1485731208_log\pkt_2017-1-29_1485731208_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-24-2017-pkt_2017-1-24_1485307210_log\pkt_2017-1-24_1485307210_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-24-2017-pkt_2017-1-24_1485307210_log\pkt_2017-1-24_1485307210_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-24-2017-pkt_2017-1-24_1485304048_log\pkt_2017-1-24_1485304048_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-25-2017-pkt_2017-1-25_1485391391_log\pkt_2017-1-25_1485391391_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-28-2017-pkt_2017-1-28_1485632100_log\pkt_2017-1-28_1485632100_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-28-2017-pkt_2017-1-28_1485651948_log\pkt_2017-1-28_1485651948_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-28-2017-pkt_2017-1-28_1485657522_log\pkt_2017-1-28_1485657522_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-29-2017-pkt_2017-1-29_1485720388_log\pkt_2017-1-29_1485720388_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-29-2017-pkt_2017-1-29_1485720388_log\pkt_2017-1-29_1485720388_log.pcap
+
+Partial Exports - Missing appraisal info:
+AB9C3F3C:Smock
+AB9C3F3D:Baggy Pants
+AB9C3F40:Sack
+ABA41E1C:Salvage
+ABA4405B:Salvage
+ABA44046:Salvage
+ABA17CFB:Sturdy Iron Key
+ABA44023:Sturdy Iron Key
+ABA433F3:Facility Hub Portal Gem
+AB9C3F41:Ust
+ABA17EAF:Great Mana Charge
+ABA3E52C:Imbue Swap Coin
+ABA56AB8:Stipend
+9329CB0D:Salvage (100)
+ABA431A5:Blackmoor's Favor
+ABB0A1F1:Shoyanen's Portal Gem
+ABA2F109:Pyreal
+ABB3AB25:Invitation Ithaenc Cathedral
+AB9C3F46:Foci of Verdancy
+ABA27620:Pathwarden Trinket
+ABA2E9BF:Foci of Artifice
+ABA2FC18:Foci of Enchantment
+AB7E5A36:Pyreal Scarab
+AB8458AD:Gold Scarab
+AB81C391:Prismatic Taper
+AB7DA9CD:Lead Scarab
+ABA1E887:Amuli Leggings
+ABA1C790:Leather Gauntlets
+ABA0CC59:Copper Scarab
+ABA07BCD:Silver Scarab
+ABB2FF34:Platinum Scarab
+ABA07C6B:Trade Note (250,000)
+ABB4E9D3:Pyreal
+AB44CA80:Dark Sliver
+AB44C6A6:Dark Sliver
+AB44CD4E:Dark Sliver
+AB44C949:Dark Sliver
+AB54CD5D:Pyreal Mote
+ABCCF279:Minalim Plant
+ABCD02A1:Cracked Shard
+ABCD45B0:Good Lockpick
+ABCD4E99:Moderate Mana Stone
+ABCD5D0D:Scroll of Nullify Life Magic Other
+ABCD6691:Berimphur Plant
+ABCD7316:Yew Talisman
+ABCD863F:Ursuin Scalp
+ABCD8650:Snowflower
+ABCD8F62:Lapyan Plant
+ABCD9F8F:Pyreal
+ABCDA674:Colban Plant
+ABCDA798:Banished Point
+ABCE7E5B:Silver Pea
+ABCE85DC:Raider Captain's Resonator
+ABCEC461:Lead Pea
+ABCD8A70:Excellent Lockpick
+ABCED936:Excellent Lockpick
+ABCEBA21:White Jewel
+ABCEC18B:Skeleton's Skull
+ABCEE8A6:Copper Pea
+ABCC82E0:Plate Armoredillo Spine
+ABCC82B7:Broken Virindi Mask
+ABCC82D7:Yellow Jewel
+ABCC82BF:Virindi Stamp
+ABC85A4F:Relanim Plant
+ABCBFFB8:Argenory Plant
+ABCF8F2C:Castle Pietrus Log Book
+ABCF9161:Viamontian Pennant
+ABD1CA18:Large Lugian Sinew
+ABD225A4:Pyreal
+ABD23728:Aetherium Ore
+ABD23AE7:Diamond Heart
+ABCC7381:First Half of a Worn Dagger
+ABCFC2A5:Gold Pea
+ABCFC822:Cloth Cap
+ABCFCD1A:Banderling Predator Scalp
+ABD134A6:Virindi Singularity Key
+ABD13D97:Bracelet
+ABD14C1D:Virindi Stamp
+ABD1512E:Greater Mana Stone
+ABD16216:Amuli Coat
+ABDC8A4F:Red Monster Seed
+ABD940C5:Fire Sceptre
+ABDCA8B8:Greater Mana Stone
+ABD114B7:Ring
+ABA19FE3:Leather Boots
+ABB4E9D8:Wedding Raiment
+ABA2B210:Amuli Coat
+ABE173E1:Prismatic Taper
+ABE07D76:Dire Champion Token
+ABE1D00F:Iron Pea
+ABE0BE76:Dark Revenant Thighbone
+ABE0BE94:Dark Sorcerer's Phylactery
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,104 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485839341_log.pcap
+
+Partial Exports - Missing appraisal info:
+9196AD12:Pyreal
+9197A996:Foci of Artifice
+9196A326:Foci of Verdancy
+9196A31D:Foci of Enchantment
+9197A9C5:Pack
+9197A999:Ust
+9192AF24:Silver Scarab
+9197A9C9:Copper Scarab
+9196A369:Iron Scarab
+9196A367:Lead Scarab
+9197A9A4:Heart of the Innocent
+9196AB6F:Chorizite
+9196ACE4:Diamond Scarab
+9197A9A9:Gold Scarab
+9197A9AD:Pyreal Scarab
+9264E8B0:Magic Defense Gem of Enlightenment
+91CD6E6A:Low-Stakes Gambling Token
+9194425A:Blackmoor's Favor
+9287644E:Platinum Scarab
+93047D38:Ancient Empyrean Trinket
+92953E25:Ancient Falatacot Trinket
+9317434B:Copper Pea
+93137758:Silver Pea
+93137629:Gold Pea
+9313338B:Silver Pea
+93A0B6B2:Prismatic Taper
+93CAD632:Prismatic Taper
+93D7C646:Salvage (60)
+9197A9B3:Pack
+9192A44D:Staff
+9196AD37:Saulandoi
+9195F889:Acid Tachi
+9196ABE1:Deadly Hollow Sword
+9197A9CA:Weeping Sword
+9197A9BA:Raudaloi
+919067F7:Tachi
+9196ABE3:Phantom Sword
+9197A9BC:Wooden Tablet
+9197A9F0:Broad Sword
+9196AD27:Copy of Witshire's Key
+92DE86EC:Mana Forge Key
+92E42CAE:Mana Forge Key
+92E27BE4:Mana Forge Key
+92FB608B:Mana Forge Key
+92E4EC74:Aligned Mana Stone
+92FB2563:Aetheria Mana Stone
+92967A0D:Titan Mana Charge
+92967A0C:Titan Mana Charge
+9196AD35:Bandit Yaoji
+93CA89DE:Pyreal
+919296AC:Solid Celdon Breastplate
+93C19660:Pyreal
+9197A9B8:Pack
+918B08C4:Faran Item Master Robe
+924A8496:Titan Mana Charge
+92654FFC:Aphus Lassel Portal Gem
+9197A9E6:Gem of Stillness
+92C308A5:Circlet
+918539BC:Diadem
+92774455:Coronet
+916A39A9:Teardrop Crown
+9197A9C8:Brilliant Celdon Sleeves
+9397D20F:Pyreal
+92FB42E7:Salvage (21)
+9312258D:Salvage (20)
+92E741D6:Salvage (100)
+9197A9AE:Pack
+9318E0A1:Salvage (7)
+93CE8201:Salvage (13)
+92FCD44E:Treated Healing Kit
+9312A55F:Silver Pea
+9315435C:Gold Pea
+930F5DB1:Salvage (41)
+9310BFBB:Salvage (100)
+93A7EEAC:Coalesced Aetheria
+92FC7E05:Massive Mana Charge
+93D13FD4:Salvage (7)
+93DBD2B3:Salvage (34)
+9196AD2B:Diamond Shield
+9196ACD3:Elysa's Favor
+9196ACE3:Asheron's Lesser Raiment
+9197A9F9:Sollerets
+9197A9C7:Plated Celdon Leggings
+9197A913:Hardened Celdon Girth
+9197A9B1:Platemail Gauntlets
+9196ACE5:Helmet
+91B01E47:Koujia Breastplate
+91C4A58B:Olthoi Celdon Sleeves
+930E2487:Heavy Bracelet
+915B5995:Heavy Bracelet
+91AA4EA6:Diadem
+93CBE5CD:Circlet
+93D83E7B:Crown
+91F3AAE1:Diadem
+91C437B8:Teardrop Crown
+91F3C5D8:Diadem
+91D173E3:Diadem
+93D8C8AC:Signet Crown
+
+Missing Exports - Possessed items that were not found:

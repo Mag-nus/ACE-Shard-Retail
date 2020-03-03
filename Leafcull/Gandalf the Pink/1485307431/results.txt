@@ -1,0 +1,21 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\pkt_2017-1-24_1485307411_log\pkt_2017-1-24_1485307411_log.pcap
+
+Partial Exports - Missing appraisal info:
+AE7C1518:Smock
+AE7C151B:Pyreal
+AE7C1519:Wide Breeches
+AE7C151A:Leather Boots
+AE7C151C:Bread
+AE7C151D:Starter Crossbow
+AE7C151E:Quarrel
+AE7C151F:Starter Knife
+AE7C1520:Handy Healing Kit
+AE7C1521:Welcome Letter
+AE7C1522:Sack
+AE7C1523:Calling Stone
+AE7C1525:Some Changes for February 2012
+AE7C1526:Blackmoor's Favor
+AE7C1524:Pack Ancient Olthoi Queen
+
+Missing Exports - Possessed items that were not found:

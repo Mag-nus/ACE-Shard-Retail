@@ -1,0 +1,115 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-30_1485764546_log\pkt_2017-1-30_1485764546_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-30_1485764546_log\pkt_2017-1-30_1485764546_log.pcap
+
+Partial Exports - Missing appraisal info:
+C6382182:Smock
+C6BEBBFB:Koujia Breastplate
+C6B0CF4A:Vest
+C6FC083F:Olthoi Amuli Gauntlets
+C6F02647:Chainmail Breastplate
+C701404F:Studded Leather Greaves
+C76821DC:Celdon Breastplate
+C71A8F31:Olthoi Alduressa Gauntlets
+C6B4E355:Shirt
+C7B03701:Viamontian Pants
+C795E4B6:Shoes
+C7BEBFE8:Shirt
+C63AD48E:Sollerets
+C7CC91FD:Viamontian Pants
+C7EEDDFF:Long Leather Gauntlets
+C7F3CDFC:Knorr Academy Vambraces
+C7D92492:Shoes
+C7FE52C9:Haebrean Girth
+C7C51D3F:Wide Breeches
+C7B65C8C:Leather Greaves
+C5F28880:Alduressa Boots
+C71A8921:Chainmail Pauldrons
+C6BEB557:Tunic
+C70CD73D:Viamontian Pants
+C718C53F:Leather Boots
+C73675ED:Loose Pants
+C795E123:Leather Bracers
+C7A7C038:Leather Pauldrons
+C7AE724E:Flared Pants
+C7B7EE22:Chainmail Breastplate
+C7197986:Tunic
+C7FB73DE:Studded Leather Bracers
+C7C0C100:Olthoi Celdon Girth
+C81F82CC:Shirt
+C8302C34:Trade Note (250,000)
+C6C2FB9A:Shoes
+C6CD040B:Sedgemail Leather Gauntlets
+C709F9A7:Olthoi Celdon Gauntlets
+C70132A9:Pants
+C6E73805:Olthoi Alduressa Gauntlets
+C7217F0D:Leather Boots
+C736973C:Baggy Pants
+C70A0191:Chiran Sandals
+C7914EDA:Sedgemail Leather Gauntlets
+C7233DF2:Leather Gauntlets
+C7915992:Slippers
+C7B65762:Pants
+C7C24695:Cloth Cap
+C7D1E4FC:Long Leather Gauntlets
+C7C52FFE:Diforsa Sollerets
+C7FE402B:Leather Vest
+C7EC0F1B:Platemail Tassets
+C806CE85:Studded Leather Sleeves
+C826BFF4:Scalemail Greaves
+C5E737BC:Loafers
+C81BF80D:Baggy Tunic
+C6F71659:Baggy Tunic
+C7048306:Nariyid Girth
+C6C5B476:Shoes
+C820DD82:Leather Girth
+C812B9CB:Studded Leather Pauldrons
+C80F0C0B:Diforsa Tassets
+C81F78F1:Slippers
+C8172616:Leather Vest
+C816ECA5:Studded Leather Breastplate
+C6B71AB4:Long Leather Gauntlets
+C6B65B5D:Diforsa Sollerets
+C6ED7A61:Chainmail Breastplate
+C619837F:Alduressa Gauntlets
+C6F0399A:Olthoi Koujia Breastplate
+C7197300:Chainmail Pauldrons
+C72B4DE2:Tunic
+C7199700:Olthoi Celdon Breastplate
+C721871E:Celdon Girth
+C71AA694:Nariyid Boots
+C6382042:Studded Leather Boots
+C76AD836:Leather Shorts
+C7ABAD0F:Haebrean Boots
+C7ABBD1B:Olthoi Celdon Girth
+C75B4DC5:Olthoi Alduressa Gauntlets
+C7AF1DB1:Diforsa Pauldrons
+C7B50576:Puffy Tunic
+C7EEB621:Baggy Pants
+C65B7D40:Doublet
+C7F06240:Tunic
+C80A7AE8:Pants
+C6E4AC39:Olthoi Amuli Helm
+C7ED3C86:Haebrean Helm
+C828E503:Leather Pauldrons
+C824FA74:Crown
+C826C1CB:Studded Leather Girth
+C828E44E:Gorget
+C826A74F:Necklace
+C81BFA52:Diforsa Bracers
+C820D2ED:Leather Gauntlets
+
+Missing Exports - Possessed items that were not found:

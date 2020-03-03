@@ -1,0 +1,208 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-31_1485843061_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-30_1485801914_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-30_1485801914_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-30_1485801914_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-30_1485801914_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-31_1485840494_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-31_1485840494_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-31_1485843061_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-31_1485843061_log.pcap
+
+Partial Exports - Missing appraisal info:
+80578A76:Sack
+80578A77:Minor Mana Stone
+80578A78:Xarabydun Portal Summoning Gem
+80578A79:Sanamar Portal Gem
+80578A7A:Samsur Portal Gem
+80578A7B:Amulet
+80578A7F:Intricate Wooden Key
+80578A7C:Leather Boots
+80578A7D:Academy Coat
+80578A8F:Ust
+80578A7E:Inscribed Purple Gem
+80578A80:Intricate Copper Key
+80578A81:Baron's Amulet of Life Giving
+80578A82:Scroll of Swordsman's Bane
+80578A83:Sturdy Iron Keyring
+80578A84:Dark Monolith Caverns
+80578A85:Barbed Fletching Tool
+80578A86:Intricate Obsidian Key
+80578A88:Sceptre
+80578A89:Fort Tethana Portal Gem
+80578A8C:Treated Healing Kit
+80578A8A:Aphus Lassel Portal Gem
+80578A8B:Bracelet
+80578A8D:Treated Healing Kit
+80578B45:Lapyan Plant
+80578A90:Foci of Shadow
+80578A91:Asheron's Benediction
+80578A92:Pathwarden Trinket
+80578A93:Blackmoor's Favor
+80578A94:Ursuin Torso
+80578A95:Old Stamped Yaraq Scarlet Red Letter
+80578A96:Peppermint Stick
+80578A97:Teleportation Device
+80578A99:Tumerok Key
+80578A9A:Refurbisher's Tally
+80578A9B:Agent of Arcanum List
+80578A9F:Ancient Shard of Metal
+80578AA0:Dull Dagger
+80578AA1:Academy Stamp
+80578AA2:Key
+80578AA3:Small Rusted Key
+80578AA4:Cell Key
+80578AA5:The Baron's Key
+80578AA6:Key
+80578AA7:Key
+80578AA8:Academy Stamp
+80578AA9:Skeleton's Skull
+80578AAA:Brodor's Epitaph
+80578AAB:Skeleton's Skull
+80578AAC:Note from Mi Krau-Li
+80578AAD:A Dry Withered Leather Bound Journal
+80578AAE:Parchment
+80578AAF:Crown of Bone
+80578AB1:Copper Pea
+80578AB2:Silver Scarab
+80578AB3:Lead Scarab
+80578AB4:Lead Pea
+80578AB5:Copper Scarab
+80578AB6:Iron Scarab
+80578AB7:Iron Pea
+80578AB8:Silver Pea
+80578AB9:Splitting Tool
+80578ABD:The Healer's Heart
+80578ABF:Prismatic Taper
+80578AC0:Pyreal Pea
+80578AC2:Gold Pea
+80578AC4:Pyreal Scarab
+80578AC5:Smock
+80578AC7:Elysa's Favor
+84D02B42:Platinum Scarab
+92CBC92E:Fletching Stamp
+805786DE:Pack Asheron
+80578801:Noble Relic Helm of Will
+80578AC9:Pack
+80578ACA:Silver Atlatl
+80578ACB:Frest Greelving's
+80578ACC:Ornate Nekode
+80578ACD:Journal of Frest Greelving
+80578ACE:A Crumpled Letter
+80578AD0:Quarter Staff of Fire
+80578AD1:A Book of Quests for Young Explorers
+80578AD2:Vest
+80578AD3:Branith's Staff
+80578AD6:Demon Swarm Sword
+80578AD7:Aura of Infected Spirit Caress Scroll
+80578AD8:Ebon Spine Harpoon
+80578ADA:Treated Healing Kit
+80578ADB:Treated Healing Kit
+80578ADC:Treated Healing Kit
+80578ADD:Trousers
+80578ADE:Black Marrow Keyring
+80578ADF:Black Coral Keyring
+80578A8E:Treated Healing Kit
+80578B14:Virindi Singularity Key
+A5B7AE52:Ursuin Fang
+80578AE1:Bloodied Burun Hide
+80578AE2:Bloodied Burun Hide
+80578AE3:Elysa's Boon
+80578AE4:Torgluuk's Orders
+80578AE5:Elysa's Wondrous Orb
+80578AE6:Alchemy Stamp
+80578AE7:Alchemy Stamp
+80578AE8:Enchanted Mana Stone
+80578AE9:Clasp of the Heart
+80578AEA:Hearty Green Tea Ice Cream
+80578AED:Sollerets
+80578AEE:Platemail Gauntlets
+80578AF0:Halaetan Magic Page 6
+80578AEF:Foci of Artifice
+80578AF7:Second Half of a Worn Axe
+80578AF3:Pants
+80578AF4:Baggy Shirt
+80578AF5:Wand
+80578AF9:Aetheria Desiccant
+80578AF6:Writ of Refuge
+80578AFB:Clean, Dry Towel
+80578AFC:Halaetan Magic Page 6
+80578AFE:Ring of Intellect
+80578AFF:Pack
+80578B00:Old Lucky Gold Letter
+80578B01:Old Lucky Gold Letter
+80578B02:Old Lucky Gold Letter
+80578B03:Old Lucky Gold Letter
+80578B04:Old Lucky Gold Letter
+80578B05:Old Lucky Gold Letter
+80578B06:Staff of Aerfalle
+A5B599FA:Ice Badge
+80578B08:Trousers
+80578B09:Aerfalle's Token
+80578B0A:Lilitha's Bow
+80578B0B:Mace of the Explorer
+80578B0C:Green Mire Yari
+80578B0D:Sickle of Azaxis
+80578B0E:Mite Queen's Staff
+80578B10:Intricate Carving Tool
+80578B11:Ebon Spine Harpoon
+80578B12:Ring
+80578B13:Staff
+80578B15:Prison Warden's Orders
+805786D4:Longbow
+97815CE8:Energy Crystal
+80578B18:Pack T'thuun
+80578B19:Pyreal Golem Heart
+80578B1A:Salvaged  (100)
+80578B1B:Mi Krau-Li's Jitte
+80578B1C:Aligned Mana Stone
+80578B1D:Virindi Stamp
+80578B1E:A Field Guide to Tainted Nodes
+80578B1F:Broken Haft
+80578B20:Pack T'thuun
+80578B21:Pack T'thuun
+80578B22:Nether Sceptre
+80578B24:Nether Sceptre
+80578B25:Kithless Siraluun Claw
+80578B26:Foolproof
+80578B28:Flaming Tachi
+80578B29:Pack Martine
+80578B2A:Teleportation Device
+80578B2B:Pack Bael'Zharon
+80578B2E:Cloak
+80578B2F:Greater Stamina Kit
+80578B30:Virindi Servant's Amulet
+80578B31:Protective Drudge Charm
+80578B32:Note to a generous host
+80578B33:Focusing Stone
+80578B34:Foci of Enchantment
+80578B35:Pants
+80578B36:Tunic
+805787AC:Tome
+80578B37:Heavy Bracelet
+80578B39:Bracelet
+80578B3A:Bracelet
+80578B3B:Mask of the Depths
+80578B3C:Bracelet
+80578B3D:Ring
+80578B3E:Leather Gauntlets
+80578B47:Some Changes for February 2012
+80578B41:Pants
+8057882A:Gold Tumerok Insignia
+80578B42:Pantaloons
+80578B43:Pants
+80578B49:Quartered Cloak
+80578B4B:Fire Elemental Essence (80)
+80578AF8:Ring
+80578B46:Stamina Elixir
+805786FC:Chocolate Gromnie
+978B6F49:Halved Cloak
+97D62FC6:Scroll of Archer's Gift
+80578829:Corruptor's Crystal
+A52057AD:Brawler's Crystal
+80578B48:Mana Tincture
+805787F6:Ring
+
+Missing Exports - Possessed items that were not found:

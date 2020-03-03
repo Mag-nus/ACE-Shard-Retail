@@ -1,0 +1,27 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\AC-Packet-Data-Jungle-Souljah-LC\pkt_2017-1-28_1485606199_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\AC-Packet-Data-Jungle-Souljah-LC\pkt_2017-1-23_1485204442_log.pcap
+
+Partial Exports - Missing appraisal info:
+8F1EC30E:Ust
+8F1B0B86:Sack
+8F1C70E6:Blackmoor's Favor
+8F168CAD:Letter From Home
+8F159219:Lead Scarab
+8F1B5ACC:Prismatic Taper
+8F19E1D7:Mud Golem Essence
+8F168D85:Oil of Rendering
+8F18B275:Pyreal
+8F1CEA25:Restoring the Training Academies
+8F119A60:Facility Hub Portal Gem
+8F1CA61D:Stipend
+8F16259C:Shirt
+8F1CA265:Pathwarden Robe
+8F16120C:Enhanced Mana Elixir
+8F188AF1:Foci of Verdancy
+8F1AB7DD:Foci of Shadow
+8F1CA69D:Pack
+
+Missing Exports - Possessed items that were not found:

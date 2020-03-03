@@ -1,0 +1,38 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485841816_log.pcap
+
+Partial Exports - Missing appraisal info:
+B37D7CC4:Pyreal
+B3700699:Sack
+B38AF18C:Ust
+B37B136D:Blackmoor's Favor
+B37E1325:Oil of Rendering
+B3B35E2D:Oil of Rendering
+B3B35DD1:Pathwarden Supply Key
+B3B35DDB:Facility Hub Portal Gem
+81A852FE:Shield of Perfect Light
+81B0500A:Pile of Presents
+819880BE:Sanguinary Aegis
+81B0AE81:Fertilized Sundew
+81ACB0E9:Decorative Ursuin Head
+81A8DF7B:Olthoi Enslavement
+81B09FD2:Tome of Blood and Bone
+81B09F89:Fertilized Fly Trap
+81A85202:Pack
+81ACB0FD:Fertilized Pitcher Plant
+81B05007:T-mon Backpack Straps
+81B0B2F5:T-mon Backpack Straps
+81B0B2EC:T-mon Backpack Straps
+81A8F130:Sheet Metal Form
+81B0B2E4:T-mon Backpack Straps
+81ACB0DF:T-mon Backpack Straps
+81A8F13D:Jeweler's Hand Saw
+81A8F1DA:T-mon Backpack Straps
+81B0B2EB:Lapping Plate
+81A8F280:Greater Olthoi Shield
+81A8F19A:Gladiator Diemos Statue
+81B0B2F8:Hunter's Stock Amber
+81ACB113:Amber Ape
+81A8F14D:Bobo's Stout
+
+Missing Exports - Possessed items that were not found:

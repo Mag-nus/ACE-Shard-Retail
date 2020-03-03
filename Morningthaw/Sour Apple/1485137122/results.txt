@@ -1,0 +1,41 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-22_1485136357_log.pcap
+
+Partial Exports - Missing appraisal info:
+80A20108:Blackmoor's Favor
+80A20109:Marble Key
+80A2010B:Snow Lily
+80A20141:Pyreal
+80A2010F:Pack
+80A20126:Noodle Cutter
+80A20127:Heavy Bracelet
+80A20128:Pack
+80A2011D:Faran War Master Robe
+80A2012F:Pack Gaerlan
+80A20133:Pack Burun Kukuur
+80A20129:Pack Martine
+80A20134:Pack Asheron
+80A2012D:Pack Levistras
+80A20130:Pack Martine
+80A20135:Pack Asheron
+80A20132:Pack Ancient Olthoi Queen
+80A20137:Marble Keyring
+80A20138:Marble Keyring
+80A20139:Granite Keyring
+80A2013B:Bloodletter Charm Necklace
+80A2013C:Faran Item Master Robe
+80A20149:Ivory Gromnie Hide
+80A2013D:Faran Item Master Robe
+80A2013E:Faran War Master Robe
+80A20144:Some Changes for February 2012
+80A20143:Salvaged  (100)
+AF260F5B:Stipend
+80A20148:Mattekar Hide
+80A2014A:Rugged Gromnie Hide
+80A2014B:Quartered Cloak
+80A20153:Bordered Cloak
+80A2015B:Tunic
+80A20161:Diamond Heart
+80A20160:Encapsulated Spirit
+
+Missing Exports - Possessed items that were not found:

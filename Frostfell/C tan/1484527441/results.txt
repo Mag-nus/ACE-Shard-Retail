@@ -1,0 +1,72 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-15_1484527222_log.pcap
+
+Partial Exports - Missing appraisal info:
+DC142041:Pyreal
+DC1415C8:Clean, Dry Towel
+DC1415C7:Pack
+DC1415C9:Foci of Artifice
+DC117624:Copper Scarab
+DC141FAD:Prismatic Taper
+DC142064:Lead Scarab
+DC142009:Iron Scarab
+DC141FAF:Scroll of Swordsman's Bane
+DC14200B:Staff
+DC142014:Silver Scarab
+DC14202F:Gold Scarab
+DC141FAE:Pyreal Scarab
+DC1341CF:Pack
+DC11DDFB:Treated Healing Kit
+DC14209E:Heavy Bracelet
+DC142054:Fishing Pole
+DC1341D6:Pack
+D2632A95:Olthoi Ichor
+D2763F5F:Banderling Bone Ring
+D277D2EF:Pack
+D279E8F8:Intricate Carving Tool
+D27E5470:Virindi Envoy's Obsidian Shard
+D2816378:Foci of Verdancy
+D1303468:Ust
+D1303452:Moderate Mana Stone
+D13034A6:Treated Healing Kit
+D40BC181:Treated Healing Kit
+D30E7A10:Treated Healing Kit
+D30E1BFC:Scroll of Honed Control
+D3062B6B:Scroll of Inferno's Bane
+D30C0849:Treated Healing Kit
+D246F395:Aura of Elysa's Sight
+D2B37228:Pyreal
+D28CB1A7:Belt Pouch
+D1303455:Scroll of Olthoi's Gift
+D307C4BD:Pyreal
+D130345D:Scroll of Aliester's Boon
+D1303460:Scroll of Inferno's Gift
+D248E78F:Health Tincture
+D1303474:Stamina Elixir
+D130346C:Gold Scarab
+D130346D:Bracelet
+D130346B:Bracelet
+D130346A:Ring
+D130346F:Parchment
+D111F48A:Potion of Healing
+D1303470:Chiran Sandals
+D1303473:Swamp Stone
+D1303471:Dapper Suit
+D1303475:Elysa's Favor
+D2C8F6FF:Pyreal
+D30DBA76:Pyreal
+D2765EE0:Pyreal
+D27ABDCD:Pyreal
+D269D276:Pyreal
+D26BDAFA:Lesser Olthoi Brood Queen Helm
+D1303467:Pack Burun Kukuur
+D1303459:Large Green Fish
+D1303457:Tumerok Spear
+D1303463:Pack Martine
+D1303453:Chair
+D4026B54:Some Changes for February 2012
+D44DC257:Blackmoor's Favor
+D47D2BDA:Yumi
+D3E02879:Casting Stein
+
+Missing Exports - Possessed items that were not found:

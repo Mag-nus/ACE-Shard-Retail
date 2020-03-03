@@ -1,0 +1,23 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-25_1485403040_log.pcap
+
+Partial Exports - Missing appraisal info:
+9C830EC1:Cloth Cap
+9C8086D1:Doublet
+9C7C6CE7:Shoes
+9C80C01E:Trousers
+9C84B4CB:Pyreal
+9C81F4F3:Bread
+9C898B3A:Starter Hand Axe
+9C80C0B5:Starter Crossbow
+9C80BFFA:Quarrel
+9C893DA2:Starter Knife
+9C833D92:Handy Healing Kit
+9C8730AB:Welcome Letter
+9C84B4D8:Sack
+9C828580:Calling Stone
+9C8729D8:Some Changes for February 2012
+9C7F79A0:Pack Martine
+9C87F605:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

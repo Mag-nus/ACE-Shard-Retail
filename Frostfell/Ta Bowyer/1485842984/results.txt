@@ -1,0 +1,134 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485842556_log.pcap
+
+Partial Exports - Missing appraisal info:
+B58A1C86:Foci of Verdancy
+B58A1EAF:Pack
+B589A5E4:Blackmoor's Favor
+B58A1EB3:Ust
+B58ADBE6:Lead Scarab
+B58A1ECE:Gold Scarab
+B4A332BE:Copper Scarab
+B589B659:Pyreal Scarab
+B589B657:Platinum Scarab
+B589BEC0:Silver Scarab
+B58998D6:Aetheria Mana Stone
+B589B802:Enhanced Health Elixir
+B589BFC6:Enhanced Mana Elixir
+B589BEAC:Diamond Scarab
+B589B7A9:Stipend
+B580B63E:Chorizite
+B589A990:Olthoi Koujia Kabuton
+B589B7AA:Mana Scarab
+B589A3FB:Invitation to Master Fletchers
+B589B7A8:Shoyanen's Portal Gem
+B58A1BC6:Pyreal
+B58A1EC3:Aetheria Desiccant
+B58A1EC1:Ancient Falatacot Trinket
+B589BE6B:Ancient Falatacot Trinket
+B58CA7B5:Prismatic Taper
+B58CA7B6:Trade Note (250,000)
+B58A2090:Enhanced Assault Bow
+B58A1F99:Pack
+B49815BB:Treated Healing Kit
+B58A1F93:Treated Healing Kit
+B58A1E37:Empyrean Sun Stone
+B580ECB8:Treated Healing Kit
+B58A1EE9:Treated Healing Kit
+B58A1FA7:Treated Healing Kit
+B58A1EE8:Treated Healing Kit
+B58A16F6:Treated Healing Kit
+B58A1EA8:Treated Healing Kit
+B58A1F50:Treated Healing Kit
+B58A1CFA:Treated Healing Kit
+B58CA7A6:Treated Healing Kit
+B58CA7A5:Treated Healing Kit
+B5899B79:Treated Healing Kit
+B58CA7A7:Treated Healing Kit
+B58A1FBF:Treated Healing Kit
+B58A1D7F:Treated Healing Kit
+B580AB0B:Treated Healing Kit
+B580B56D:Treated Healing Kit
+B58CADB4:Treated Healing Kit
+B58A1E8D:Coalesced Aetheria
+B58CADB1:Coalesced Aetheria
+B589BF51:Pack
+B561C419:Fire Bow
+B2B04FC0:Blunt Bow
+B5880770:Pyreal
+B589BF3B:Chevron Cloak
+B58A1EC7:Wrapped Bundle of Greater Deadly Frog Crotch Arrowheads
+B589BF00:Wrapped Bundle of Greater Deadly Blunt Arrowheads
+B589BF50:Wrapped Bundle of Deadly Lightning Arrowheads
+B58CA7AC:Wrapped Bundle of Deadly Fire Arrowheads
+B58CA7AB:Wrapped Bundle of Deadly Acid Arrowheads
+B58CA7AA:Wrapped Bundle of Deadly Frost Arrowheads
+B589BF15:Wrapped Bundle of Arrowshafts
+B58B16FA:Pyreal
+B589BEF1:Sezzherei's Lair
+B581963F:Wrapped Bundle of Greater Deadly Armor Piercing Arrowheads
+B589BEE7:Titan Mana Charge
+B589BF30:Titan Mana Charge
+B589BF2E:Titan Mana Charge
+B589BD1B:Titan Mana Charge
+B58A1FD5:Titan Mana Charge
+B58A1F0F:Titan Mana Charge
+B589A741:Titan Mana Charge
+B58CACC7:Titan Mana Charge
+B58A1F8A:Titan Mana Charge
+B589BE2F:Coalesced Aetheria
+B2A4DB19:Acid Bow
+B589BE69:Titan Mana Charge
+B2A4DC2C:Frost Bow
+B58F01AC:Salvage (41)
+B586B551:Pyreal
+B590DE0E:Salvage (70)
+B58A1F19:Foci of Artifice
+B58D6385:Foci of Enchantment
+B5853C29:Pack
+B589BDD3:Massive Mana Charge
+B589BDD6:Massive Mana Charge
+B589BF09:Massive Mana Charge
+B589BEED:Loafers
+B58A1BC7:Massive Mana Charge
+B589BDBE:Encapsulated Spirit
+B589BDF7:Crown
+B589BE3D:Signet Crown
+B589BEF7:Cloth Gloves
+B587AD13:Massive Mana Charge
+B589BEF8:Cloth Gloves
+B58B306D:Teardrop Crown
+B58A1F13:Teardrop Crown
+B58A1C83:Crown
+B58A1F44:Signet Crown
+B5898431:Teardrop Crown
+B5898430:Circlet
+B5898503:Circlet
+B58A1EC2:Teardrop Crown
+B5857DF5:Circlet
+B58A2076:Cloth Gloves
+B589BDBC:Coronet
+B563276C:Circlet
+B589B7BC:Ring
+B58B763F:Pyreal
+B58B7FE7:Pyreal
+B58A1F07:A Page of the Book of Eibhil
+B58F05BE:Pyreal
+B58A1F0B:Acid Skeleton Bushi Essence (180)
+B58545F3:Fire Zombie Essence (180)
+B58B1972:Pyreal
+B589BDE4:Frost Skeleton Samurai Essence
+B589BDCD:Fire Skeleton Samurai Essence
+B584B1B1:Pyreal
+B58A1E6E:Aetheria Powder
+B58A1FBC:Trade Note (250,000)
+B58B811B:Pyreal
+B58A1F4E:Frost Sceptre
+B589BE51:Aetheria Powder
+B58E59CF:Pyreal
+B589BD00:Aetheria Powder
+B4FA3FF4:Frost Baton
+B587F14E:Pyreal
+B58E2AB0:Greater Deadly Armor Piercing Arrow
+
+Missing Exports - Possessed items that were not found:

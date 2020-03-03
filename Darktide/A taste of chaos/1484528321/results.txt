@@ -1,0 +1,36 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-15_1484528069_log.pcap
+
+Partial Exports - Missing appraisal info:
+D79B7CD6:Kasa
+D79AFF8A:Flared Tunic
+D79B7CD9:Loose Pants
+D79B7BC5:Leather Boots
+D79AFF86:Pyreal
+D79AFF87:Foci of Verdancy
+D79BCA15:Foci of Strife
+D79BCA16:Prismatic Taper
+D79BCA17:Lead Scarab
+D79BCA18:Ust
+D79BCA19:Apple
+D79BCA1A:Welcome Letter
+D79BCA1B:Sack
+D79BCA1C:Calling Stone
+D79BCA1D:Greeter's Key
+D79BCA1E:Quartermaster's Workshop Key
+D79BCA1F:Sho Wand
+D79BCA20:Academy Coat
+D79BCA21:A Crumpled Note
+D79BCA26:Academy Wand
+D79BCA22:Academy Healing Potion
+D79BCA23:Academy Mana Potion
+D79BCA24:Academy Mana Potion
+D79BCA25:Academy Healing Potion
+D79BCA27:Silver Scarab
+D79BCA28:Gold Scarab
+D79BCA29:Copper Scarab
+D79BCA2A:Some Changes for February 2012
+D79BCA2B:Blackmoor's Favor
+D79BCA2C:Wand
+
+Missing Exports - Possessed items that were not found:

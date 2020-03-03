@@ -1,0 +1,62 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-15_1484527222_log.pcap
+
+Partial Exports - Missing appraisal info:
+DBC5AF34:Trousers
+DBF53A72:Ust
+DC0E7828:Gifted Healing Kit
+DBF317AA:Foci of Artifice
+DC05D3BE:Bread
+DC069CDC:Academy Library Key
+DC0E73DA:Pack
+DC121FEF:Copper Scarab
+DC0DA120:Prismatic Taper
+DBAD472F:Lead Scarab
+DC121FC1:Calling Stone
+DC0E7C03:Silver Scarab
+DC0E9669:Iron Scarab
+DC0E88DA:Pack
+DC121FC4:Trade Note (250,000)
+DC0E826A:Trade Note (100,000)
+DC05B019:Pack
+DC0E756B:Pack
+DC0E831D:Pack
+DC0E8531:Pathwarden Gauntlets
+DBF3C904:Crimped Hat
+DC0BBECA:A List of Items
+DBF28231:Old Scarlet Red Letter
+DC0BBEC9:Peppermint Stick
+DBF3C9A2:Little Green Seeds
+DC0E86CC:Old Scarlet Red Letter
+DC046B91:Treated Healing Kit
+DBF3C4F0:Treated Healing Kit
+DBF2B5C6:Treated Healing Kit
+DBDD75B9:Treated Healing Kit
+DBF3BE91:Virindi Inquisitor's Mask
+DC122415:Pyreal
+DBF07D1E:Verdalim Plant
+DBFECC30:Snowball
+DC0E7FFE:Drudge Fight
+DC0E7DA1:Pyreal
+DC0E90B9:Flaming Skull
+DC0E7C29:Mead
+DC0E91B7:Little Green Seeds
+DBF395FB:Adept Healing Kit
+DC0E912E:Adept Healing Kit
+DC122455:Adept Healing Kit
+DC0E7F1B:Stamina Tincture
+DC05AA9F:Foci of Verdancy
+DC0E7A5E:Training Wand
+DC0E8DF6:Pyreal
+DBF5D406:Pyreal
+DBFDEED7:Pyreal Mote
+DBF9D413:Poofy Snowball
+DBF384F9:Casting Stein
+DBF3C1DB:Carrot Dagger
+DBD765A6:Copper Heart
+DC122457:Some Changes for February 2012
+DBF5DA26:Blackmoor's Favor
+DC122636:Right Peg Leg
+DC0E7AF7:Exquisite Elari Wood Bow
+
+Missing Exports - Possessed items that were not found:

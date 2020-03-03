@@ -1,0 +1,82 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-05-2017\AC_Logs_Leafcull_Dark_Noble_SimonF\pkt_2017-1-23_1485229932_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-05-2017\AC_Logs_Leafcull_Dark_Noble_SimonF\pkt_2017-1-22_1485118961_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\AC_Logs_Leafcull_Dark_Noble_SimonF\pkt_2017-1-22_1485139792_log.pcap
+
+Partial Exports - Missing appraisal info:
+ADE76894:Pyreal
+ADF3C4CE:Academy Library Key
+ADF3CD6F:Pack
+ADE9161D:Adept Healing Kit
+ADF662FA:Adept Healing Kit
+80F45696:Adept Healing Kit
+ADF8546B:Small Mattekar Hide
+ADF9F86F:Wrapped Bundle of Arrowshafts
+ADF9E6DF:Wrapped Bundle of Blunt Arrowheads
+ADF98D79:Cured Large Lugian Sinew
+ADFA74B1:A Large Mnemosyne
+AE00AE8A:Wrapped Bundle of Broad Arrowheads
+AE001709:Wrapped Bundle of Frog Crotch Arrowheads
+ADF89C7F:Minalim Plant
+ADFA78FE:A Large Mnemosyne
+ADFA3046:A Large Mnemosyne
+ADF96178:A Large Mnemosyne
+AE019713:Aphus Lassel Portal Gem
+AE01B7E8:Copper Scarab
+AE06904E:Prismatic Taper
+AE054F04:Flaming Stiletto
+AE054F40:Scroll of Hands of Chorizite
+AE054F21:Superb Mana Charge
+ADF6D635:Pyreal
+AE068D7C:Pyreal
+AE068DC1:Foci of Artifice
+89C723C7:Pyreal
+ADE4E09C:Virindi Mask
+AE6C4DB2:Aphus Lassel Portal Gem
+AE6C97CB:Pack
+AE6C4D54:Aphus Lassel Portal Gem
+AE6C4D50:Aphus Lassel Portal Gem
+AE6C97CA:Pack
+AE6C4D41:Aphus Lassel Portal Gem
+AE6C4D18:Aphus Lassel Portal Gem
+ADFD1BE4:Treated Healing Kit
+AE6C875E:Aphus Lassel Portal Gem
+ADE76896:Ust
+ADFE8C6D:Sturdy Iron Key
+80F45695:Plentiful Healing Kit
+ADFAC5F8:Crown
+ADFAC06C:Staff
+ADF79E03:Trade Note (250,000)
+ADF6FA1D:Stamina Elixir
+ADF674A8:A Ring of Acid Protection
+ADF5A029:Trade Note (10,000)
+ADF73AD4:Health Tincture
+ADE9C913:Trade Note (50,000)
+ADF3D871:Facility Hub Portal Gem
+AE6A1BD8:Treated Healing Kit
+AE6BB791:Mattekar Hide Coat
+AE6D024E:Wrapped Bundle of Blunt Arrowheads
+AE6D024F:Wrapped Bundle of Arrowshafts
+AE6B42F8:Nayin
+AE6C97C8:Pack
+AE6C97C7:Pack
+AE5A69BC:Wrapped Bundle of Quarrelshafts
+AE6D024D:Wrapped Bundle of Armor Piercing Arrowheads
+AE6BB4F3:Pack
+AE60FB9F:Glittering Necklace of Acid and Piercing Protection
+AE6A1BD7:Trade Note (75,000)
+AE6A1BD9:Treated Healing Kit
+AE6A1BDA:Gem of Purity
+ADE42BF9:White Virindi Wand
+AE6C6378:Signet Crown
+AE68BE4C:Covenant Gauntlets
+AE6E3DA3:Loafers
+AE6968DF:Faran Over-robe
+ADE14579:Hoary Mattekar Robe
+AE69F3E0:Turban
+AE6A617F:Armor Piercing Quarrel
+AE6C5CE4:Light Crossbow
+
+Missing Exports - Possessed items that were not found:

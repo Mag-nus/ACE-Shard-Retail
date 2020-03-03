@@ -1,0 +1,23 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-31_1485866227_log.pcap
+
+Partial Exports - Missing appraisal info:
+CCAAC60D:Leather Boots
+CCAAC60F:Sack
+CCFA88DA:Stipend
+CCAAC610:Ust
+CCAAC611:Calling Stone
+CCAAC616:Foci of Artifice
+CCAAC617:Prismatic Taper
+CCAAC618:Lead Scarab
+CCAAC619:Letter From Home
+CCAAC61A:Bread
+CCB1CD45:Blackmoor's Favor
+CCC22FFD:Oil of Rendering
+CCC22FFF:Oil of Rendering
+CCC23001:Facility Hub Portal Gem
+CCB6EF1A:Pathwarden Yoroi Hauberk
+CCAAC614:Atlatl Dart
+CCAAC613:Training Atlatl
+
+Missing Exports - Possessed items that were not found:

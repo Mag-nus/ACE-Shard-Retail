@@ -1,0 +1,35 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap6\pkt_2017-1-28_1485653399_log.pcap
+
+Partial Exports - Missing appraisal info:
+DCF1AF49:Pyreal
+DCF1AF98:Yew Talisman
+DCF1AF51:Cedar Talisman
+DCF1AF17:Hyssop
+DCF1AF38:Willow Talisman
+DCF1AF27:Wormwood
+DCF1AF28:Ginseng
+DCF1AF05:Powdered Onyx
+DCF1AF0C:Cobalt
+DCF1AEE8:Ebony Talisman
+DCF1AF41:Damiana
+DCF1AF0E:Alder Talisman
+DCF1AF75:Lead Scarab
+DCF1AFB8:Mandrake
+DCF1AF6E:Powdered Amber
+DCF1AF31:Hemlock Talisman
+DCF1AF4A:Colcothar
+DCF1AFED:Aluvian Wand
+DCF1AF15:Pack
+DCF1AF86:Greeter's Key
+DCF1AF39:The Boon
+DCF1AF9C:Flaming Khanjar
+DCF1AFC3:Trade Note (50,000)
+DCF1AF7D:A Ring of Acid Protection
+DCEDCB7A:Gardener Token
+DCF1AFA7:Academy Wand
+DCF1AF5C:Pack Martine
+DCF1AFA8:Some Changes for February 2012
+DCF1AF76:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

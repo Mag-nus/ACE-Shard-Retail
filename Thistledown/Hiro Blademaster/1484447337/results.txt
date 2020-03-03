@@ -1,0 +1,56 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\pkt_2017-1-14_1484446611_log.pcap
+
+Partial Exports - Missing appraisal info:
+AB000C23:Baggy Shirt
+AB000C24:Loose Breeches
+AB000C26:Pyreal
+AB000C27:Sack
+AB000C28:Ust
+AB000C2A:Foci of Artifice
+AB000C2B:Prismatic Taper
+AB000C2C:Lead Scarab
+AB000C30:Sturdy Iron Key
+AB000C31:A List of Items
+AB000C32:Directions to the Cave of Alabree
+AB000C35:Scroll of Brittlemail III
+AB000C36:Scroll of Extinguish Creature Magic Other
+AB000C37:Old Scarlet Red Letter
+AB000C38:Scroll of Lockpick Ineptitude
+AB000C39:Scroll of Armor Tinkering Ignorance II
+AB000C3B:Scroll of Light Weapon Mastery Self II
+AB000C3C:Scroll of Impenetrability II
+AB000C41:Scroll of Weaken Lock
+AB000C57:Key
+AB000C40:Scroll of Bludgeon Protection Other III
+AB000C43:Scroll of Fletching Mastery Self IV
+AB000C45:Drudge Charm
+AB000C46:Old Scarlet Red Letter
+AB000C47:Scroll of Heal Other
+AB000C48:Scroll of Invulnerability Other II
+AB000C49:Scroll of Lockpick Mastery Self III
+AB000C4A:Salvage
+AB000C4B:Sturdy Iron Key
+AB000C4C:Salvage
+AB000C4D:Sturdy Iron Key
+AB000C4E:Salvage
+AB000C4F:Minalim Plant
+AB000C50:Scroll of Fire Vulnerability Other III
+AB000C52:Scroll of Armor Tinkering Ignorance III
+AB000C55:Scroll of Leaden Weapon III
+AB000C59:Scroll of Vulnerability III
+AB000C5B:Key
+AB000C5D:Key
+AB000C5F:Key
+AB000C61:Untranslated Page #4
+AB000C64:Small Rusted Key
+AB000C65:Cell Key
+AB000C66:The Baron's Key
+AB000C67:Iron Ore
+AB000C68:Stone of Rez'arel
+AB000C69:Baron's Amulet of Life Giving
+AB000C6B:Qafiya
+AB000C6A:Coalesced Mana
+AB000C73:Some Changes for February 2012
+
+Missing Exports - Possessed items that were not found:

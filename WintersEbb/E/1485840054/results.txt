@@ -1,0 +1,177 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\pkt_2017-1-30_1485843220_desc\pkt_2017-1-30_1485831600_log.pcap
+
+Partial Exports - Missing appraisal info:
+A50EA644:Baggy Shirt
+A50EA645:Mattekar Hide Coat
+A50EA646:Pack
+A50EA6A7:Pyreal
+A50EA647:Poplar Talisman
+A50EA648:Blackthorn Talisman
+A50EA649:Yew Talisman
+A50EA64A:Hemlock Talisman
+A50EA64B:Alder Talisman
+A50EA64C:Ebony Talisman
+A50EA64D:Birch Talisman
+A50EA64E:Ashwood Talisman
+A50EA64F:Elder Talisman
+A50EA650:Rowan Talisman
+A50EA651:Willow Talisman
+A50EA652:Cedar Talisman
+A50EA653:Oak Talisman
+A50EA654:Red Taper
+A50EA655:Orange Taper
+A50EA656:Yellow Taper
+A50EA657:Green Taper
+A50EA658:Turquoise Taper
+A50EA659:Violet Taper
+A50EA65A:Brown Taper
+A50EA65B:White Taper
+A50EA65C:Grey Taper
+A50EA65D:Pink Taper
+A50EA65E:Indigo Taper
+A50EA65F:Pack
+A50EA660:Powdered Azurite
+A50EA668:Brimstone
+A50EA661:Powdered Bloodstone
+A50EA662:Powdered Carnelian
+A50EA68F:A Tiny Mnemosyne
+A50EA663:Powdered Hematite
+A50EA664:Powdered Malachite
+A50EA685:Blue Taper
+A50EA665:Powdered Moonstone
+A50EA666:Powdered Quartz
+A50EA690:A Tiny Mnemosyne
+A50EA667:Powdered Turquoise
+A50EA669:Cadmia
+A50EA66B:Cobalt
+A50EA66A:Cinnabar
+A50EA66C:Colcothar
+A50EA66D:Gypsum
+A50EA66E:Quicksilver
+A50EA66F:Realgar
+A50EA677:Pack
+A50EA670:Stibnite
+A50EA671:Turpeth
+A50EA680:Iron Scarab
+A50EA672:Verdigris
+A50EA673:Vitriol
+A50EA681:Copper Scarab
+A50EA674:Powdered Amber
+A50EA675:Powdered Agate
+A50EA682:Lead Scarab
+A50EA676:Powdered Onyx
+A50EA678:Yarrow
+A50EA687:Silver Scarab
+A50EA679:Comfrey
+A50EA67A:Dragonsblood
+A50EA697:Small Niffis Shell
+A50EA67B:Hawthorn
+A50EA67C:Ginseng
+A50EA688:Pack
+A50EA67D:Mugwort
+A50EA67E:Mandrake
+A50EA68E:Pack
+A50EA67F:Hyssop
+A50EA683:Wormwood
+A50EA68C:Amulet
+A50EA684:Damiana
+A50EA686:Saffron
+A50EA692:Health Draught
+A50EA689:Bracelet
+A50EA68A:Bracelet
+A50EA68B:Ring
+A50EA68D:Ring
+A50EA691:Pyreal Mote
+A50EA693:Mana Potion
+A50EA694:Pack
+A50EA695:Tunic
+A50EA698:A Tiny Mnemosyne
+A50EA696:Sceptre
+A50EA699:Wet Towel
+A50EA69A:Ring
+A50EA69B:A Tiny Mnemosyne
+A50EA69C:Moderate Mana Charge
+A50EA69D:Sollerets
+A50EA69E:Moderate Mana Charge
+A50EA69F:Shoes
+A50EA6A0:Lightning Takuba
+A50EA6A1:Necklace
+A50EA6A2:Flaming Cestus
+A50EA6A3:Ginger
+A50EA6A4:Yumi
+A50EA6A5:Yoroi Leggings
+A50EA6A6:Pack
+A50EA6A8:Trade Note (10,000)
+A50EA6A9:Trade Note (10,000)
+A50EA6B0:Pyreal
+A50EA6AA:Trade Note (10,000)
+A50EA6AB:Trade Note (10,000)
+A50EA6B1:Armet
+A50EA6AC:Trade Note (10,000)
+A50EA6AD:Pants
+A50EA6B3:Pyreal
+A50EA6AE:Sollerets
+A50EA6AF:Platemail Leggings
+A50EA6B4:Pyreal
+A50EA6B2:Scalemail Gauntlets
+A50EA6B5:Bracelet
+A50EA6B8:Necklace
+A50EA6B6:Dagger
+A50EA6B7:Goblet
+A50EA6B9:Gem
+A50EA6BA:Necklace
+A50EA6BB:Mug
+A50EA6BC:Bracelet
+A50EA6BD:Flagon
+A50EA6BE:Potion of Healing
+A50EA6BF:Gem
+A50EA6C0:Bracelet
+A50EA6C1:Amulet
+A50EA6C2:Breeches
+A50EA6C3:Health Elixir
+A50EA6C4:Peerless Healing Kit
+A50EA6C5:Wand
+A50EA6C6:Gem
+A50EA6C7:Gem
+A50EA6C8:Stamina Potion
+A50EA6C9:Cestus
+A50EA6CA:Gem
+A50EA6CB:Bracelet
+A50EA6CC:Heavy Bracelet
+A50EA6CD:Gem
+A50EA6CE:Ring
+A50EA6CF:Necklace
+A50EA6D0:Ring
+A50EA6D1:Necklace
+A50EA6D2:Bracelet
+A50EA6D3:Gem
+A50EA6D4:Amulet
+A50EA6D5:Khanjar
+A50EA6D6:Necklace
+A50EA6D7:Gem
+A50EA6D8:Gem
+A50EA6D9:Scroll of Item Enchantment Mastery Other III
+A50EA6DA:Goblet
+A50EA6DB:Bracelet
+A50EA6DC:Ewer
+A50EA6DD:Chalice
+A50EA6DE:Tunic
+A50EA6DF:Yaoji
+A50EA6E1:Amulet
+A50EA6E0:Chainmail Bracers
+A50EA6E2:Ring
+A50EA6E4:Ring
+A50EA6E3:Shirt
+A50EA6E5:Gorget
+A50EA6E6:Gem
+A50EA6E7:Gem
+A50EA6E8:Excellent Healing Kit
+A50EA6E9:Heavy Bracelet
+A50EA6EA:Heavy Necklace
+A50EA6EB:Pack Asheron
+A50EA6EC:Blackmoor's Favor
+A50EA6ED:Some Changes for February 2012
+A50EA6EE:Orb
+
+Missing Exports - Possessed items that were not found:

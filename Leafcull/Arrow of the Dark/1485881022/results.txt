@@ -1,0 +1,63 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Arwic-Portal-Storms-Subway-and-misc-logins\pkt_2017-1-31_1485881014_log.pcap
+
+Partial Exports - Missing appraisal info:
+9E63DEDD:Ust
+9E63DED5:Pack
+9E63DED6:Whittling Knife
+9E63DED7:Copper Scarab
+9E63DED8:Silver Scarab
+9E63DED9:Gold Scarab
+9E63DEDA:Prismatic Taper
+9E63DEDB:Barbed Fletching Tool
+9E63DEDC:Pack
+9E63DEDE:Foci of Artifice
+9E63DEDF:Foci of Verdancy
+9E63DEE0:Pack
+9E63DEE2:Treated Healing Kit
+9E63DEE1:Shoushi Portal Gem
+9E63DEE3:Treated Healing Kit
+9E63DEE4:Treated Healing Kit
+9E63DEE5:Treated Healing Kit
+9E63DEE6:Treated Healing Kit
+9E63DEE7:Treated Healing Kit
+9E63DEE8:Treated Healing Kit
+9E63DEE9:Treated Healing Kit
+9E63DEEA:Treated Healing Kit
+9E63DEEB:Treated Healing Kit
+9E63DEED:Shoyanen's Portal Gem
+9E63DEF2:Pack
+9E63DEF3:Vial of Organic Acid
+9E63DEF4:Parchment
+9E63DEF5:Pack
+9E63DEF6:Greater Mana Stone
+9E63DEF7:Greater Mana Stone
+9E63DEF8:Good Olthoi Brood Queen Helm
+9E63DEF9:Good Olthoi Breastplate
+9E63DEFA:Good Olthoi Pauldrons
+9E63DF02:Pyreal
+9E63DEFB:Good Olthoi Girth
+9E63DEFC:Good Olthoi Tassets
+9E63DF03:Wand
+9E63DEFD:Good Olthoi Greaves
+9E63DEFE:Good Olthoi Sollerets
+9E63DF04:Treated Healing Kit
+9E63DEFF:Good Olthoi Gauntlets
+9E63DF00:Loose Breeches
+9E63DF0F:Some Changes for February 2012
+9E63DF01:Loose Tunic
+9E63DF05:Focusing Stone
+9E63DF11:Saulandoi
+9E63DF06:Dinner Plate
+9E63DF07:Deadly Fire Arrow
+AD6A6ACD:Stipend
+9E63DF08:Longbow
+9E63DF09:Trade Note (100,000)
+9E63DF10:Blackmoor's Favor
+9E63DF0A:Greater Amuli Shadow Leggings
+9E63DF0B:Greater Amuli Shadow Coat
+9E63DF0C:Platemail Gauntlets
+9E63DF0D:Sollerets
+9E63DF0E:Horned Helm
+
+Missing Exports - Possessed items that were not found:

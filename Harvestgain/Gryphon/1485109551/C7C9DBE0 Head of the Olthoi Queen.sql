@@ -1,0 +1,41 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (3351895008, 11149, 1, 2146624) /* Generic */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (3351895008,   1,        128) /* ItemType - Misc */
+     , (3351895008,   5,       2100) /* EncumbranceVal */
+     , (3351895008,  16,          1) /* ItemUseable - No */
+     , (3351895008,  19,          0) /* Value */
+     , (3351895008,  65,        101) /* Placement - Resting */
+     , (3351895008,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (3351895008, 151,          2) /* HookType - Wall */
+     , (3351895008, 9015,         61) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (3351895008,   1, False) /* Stuck */
+     , (3351895008,  11, True ) /* IgnoreCollisions */
+     , (3351895008,  13, True ) /* Ethereal */
+     , (3351895008,  14, True ) /* GravityStatus */
+     , (3351895008,  19, True ) /* Attackable */
+     , (3351895008,  22, True ) /* Inscribable */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (3351895008,   1, 'Head of the Olthoi Queen') /* Name */
+     , (3351895008,   7, 'She was a really big bug....
+12/03/01
+') /* Inscription */
+     , (3351895008,   8, 'Gryphon') /* ScribeName */
+     , (3351895008,  16, 'The head of the Olthoi Queen.') /* LongDesc */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (3351895008,   1,   33557148) /* Setup */
+     , (3351895008,   3,  536870932) /* SoundTable */
+     , (3351895008,   8,  100671782) /* Icon */
+     , (3351895008, 8001,  270549008) /* PCAPRecordedWeenieHeader - Usable, Container, Burden, HookType */
+     , (3351895008, 8003,         18) /* PCAPRecordedObjectDesc - Inscribable, Attackable */
+     , (3351895008, 8005,     133121) /* PCAPRecordedPhysicsDesc - CSetup, STable, AnimationFrame */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (3351895008,   1, 1342514224) /* Owner */
+     , (3351895008,   2, 1342514224) /* Container */
+     , (3351895008, 8000, 3351895008) /* PCAPRecordedObjectIID */;

@@ -1,0 +1,80 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\trello_datamining\194_Ridley-Amanah-Final-Random-2\pkt_2017-1-30_1485830392_log.pcap
+
+Partial Exports - Missing appraisal info:
+DC362281:Sack
+DC36228B:Lead Scarab
+DC36228A:Prismatic Taper
+DC7B54F5:Facility Hub Portal Gem
+DC7B828E:Blackmoor's Favor
+DC362282:Ust
+DC7864AF:Sturdy Iron Key
+DC362280:Pyreal
+DC7AB234:Stamina Tincture
+DC362287:Training Wand
+DC7F2807:Sturdy Iron Key
+DCB57149:Salvage
+DCB5733D:Salvage
+DCCBC41E:Cooking Pot
+DCCBCB54:Elaborate Field Rations
+DCC9F170:Elaborate Field Health Rations
+DCCBF4C2:Salvage
+DC782CC5:Great Mana Charge
+DC362288:Foci of Enchantment
+DC362289:Foci of Artifice
+DC782CC4:Pathwarden Trinket
+DC782CBD:Pathwarden Plate Leggings
+DC57D0E9:Baggy Breeches
+DC7C5080:Pyreal
+DC49BA39:Bracelet
+DC675B96:Ring
+DCB5D343:Pack
+DC7B256A:Crown
+DCB31F53:Steel Toed Boots
+DCB5D323:Pyreal
+DCCBC4A1:Aged Legendary Key
+DCCBC4C2:Aged Legendary Key
+DCC9E4E5:Aged Legendary Key
+DCB30E96:Aged Legendary Key
+DCCA9141:Aged Legendary Key
+DCC6D562:Aged Legendary Key
+DCCAE6DF:Aged Legendary Key
+DCCAE6DD:Aged Legendary Key
+DCC9DB74:Aged Legendary Key
+DCCAE6DE:Aged Legendary Key
+DCC9EC21:Aged Legendary Key
+D6B07404:Pyreal Bar
+D2A63ADD:Pyreal Bar
+DA1BA055:Pyreal Nugget
+DCB5D341:Pack
+DCB5D340:Pack
+DCB5D33D:Pack
+DCB31D73:A Small Mnemosyne
+DCB5D324:Pyreal
+DCB5D325:Pyreal
+DCB31B7E:Platemail Hauberk of the Ogre
+DCCB1963:Chainmail Gauntlets
+DCCB1962:Puffy Shirt
+DCCAF148:Pyreal
+DCCB1965:Ring
+DCC999F3:Chainmail Girth
+DCCAF1CB:Pyreal
+DCC169B3:Leather Gauntlets
+DCB31F91:Moderate Mana Stone
+DCCB125A:Stick
+DCCB144F:Handy Healing Kit
+DCCB144E:Ring
+DCCB144D:Studded Leather Tassets
+DCCB1250:Fire Grievver Essence (50)
+DCCB1467:Studded Leather Boots
+DCCB1470:Crown
+DCC6C843:Chainmail Hauberk
+DCC16936:Steel Toed Boots
+DCB90888:Leather Cuirass
+DCC6CC1E:Superior Helmet
+DCC6C65E:Fiery Shield
+DCC6CA62:Crown
+DC5EA2BD:Ice Tachi
+DC7C5302:Ice Tachi
+
+Missing Exports - Possessed items that were not found:

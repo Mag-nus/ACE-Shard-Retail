@@ -1,0 +1,221 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\pkt_2017-1-31_1485880850_log\pkt_2017-1-31_1485880850_log.pcap
+
+Partial Exports - Missing appraisal info:
+DD1F5E2A:Foci of Artifice
+DD1F5E2B:Pack
+DD1F5E2C:Blighted Mana Crystal
+DD1F5E2D:Gold Scarab
+DD1F5E2E:Silver Scarab
+DD1F5E2F:Iron Scarab
+DD1F5E30:Lead Scarab
+DD1F5E31:Letter From Home
+DD1F5E32:Sturdy Steel Key
+DD1F5E33:Copper Scarab
+DD1F5E34:Pyreal Scarab
+DD1F5E35:Platinum Scarab
+DD1F5E36:Blackmoor's Favor
+DD1F5E37:Diamond Heart
+DD1F5E38:Pyreal Golem Heart
+DD1F5E39:Altered Dark Remoran Fin
+DD1F5E3A:Ust
+DD1F5E3B:Prismatic Taper
+DD1F5E3C:Salvaged  (100)
+DD1F5E3D:Salvaged  (100)
+DD1ABCF8:Token of Modification
+DD1F5E3E:Salvaged  (100)
+DD1F5E3F:Salvaged  (100)
+DD26AF99:A Note From Ciandra
+DD2D14F0:Lucky Gold Letter
+DD29F20A:Hammer of Frore
+DD1F5E40:Foci of Verdancy
+DD1F5E41:Foci of Enchantment
+DD1F5E42:Pack
+DD1F5E43:Salted Meat
+DD1F5E44:Renegade Bone Charm
+DD1F5E45:Treated Healing Kit
+DD1F5E46:Treated Healing Kit
+DD1F5E47:Treated Healing Kit
+DD1F5E48:Treated Healing Kit
+DD1F5E49:Treated Healing Kit
+DD1F5E4A:Treated Healing Kit
+DD1F5E4B:Treated Healing Kit
+DD1F5E4C:Treated Healing Kit
+DD1F5E4D:Treated Healing Kit
+DD1F5E50:Treated Healing Kit
+DD1F5E51:Treated Healing Kit
+DD1F5E52:Treated Healing Kit
+DD1F5E53:Treated Healing Kit
+DD1F5E54:Treated Healing Kit
+DD1F5E56:Shadowfire Stone
+DD1F5E57:Plentiful Healing Kit
+DD2ABB19:Pyreal
+DD2CD46C:Banished Bow
+DD2CD4BD:Heavy Bracelet
+DD2A0810:Gelidite Robe
+DD2A0850:Health Elixir
+DD1F5ED1:Nexus Crawler's Mask
+DD1F5E58:Pack
+DD1F5E59:Black Skull of Xikma
+DD1F5E5A:Fiun Hatchet
+DD1F5E5B:Crest of the Shagar Zharala
+DD1F5E5C:Story of Lunnum's Pyre
+DD1F5E5D:Olthoi Larvae Steak
+DD1F5E5E:Ancient Mhoire Coin
+DD1F5E5F:Small Olthoi Venom Sac
+DD1F5E60:Golden Key
+DD1F5E61:Colosseum Coin
+DD1F5E62:Dire Champion Token
+DD1F5E63:Empyrean Sun Stone
+DD1F5E64:Eldrytch Web Initiate Armor Writ
+DD1F5E65:Red Empyrean Ring
+DD1F5E66:Red Monster Seed
+DD1F5E67:Lady Tairla's Ancient Emblem of Mhoire
+DD1F5E68:Upper Insatiable Eater Jaw
+DD1F5E69:Tanada Clan Master's Medallion
+DD1F5E6A:Upper Insatiable Eater Jaw
+DD1F5E6C:Empowered Pauldrons of the Perfect Light
+DD27B9F6:Glyph of Dual Wield
+DD2ECA47:Pyreal
+DD143EB8:Major Mana Stone
+DD1F5E6D:Salvaged  (32)
+DD1F5E6E:Salvaged  (66)
+DD1F5E6F:Pathwarden Trinket
+DD1F5E70:Pack
+DD1F5E71:Pristine Mana Shard
+DD1F5E72:Tunic
+DD1F5E73:Glyph of Strength
+DD1F5E82:Major Mana Stone
+DD1F5E74:Shoes
+DD1F5E75:Glyph of Melee Defense
+DD1F5E78:Major Mana Stone
+DD1F5E76:Scroll of Flame Chain
+DD1F5E77:Steel Toed Boots
+DD2ECA46:Pyreal
+DD1F5E79:Ring
+DD1F5E7A:Trousers
+DD1F5E8C:Shriveled Lump
+DD1F5E7B:Studded Leather Tassets
+DD1F5E7C:Tenassa Sleeves
+DD1F5EDC:Rumor
+DD1F5E7D:Shoes
+DD1F5E7E:Studded  Leggings
+DD24B603:Health Tonic
+DD1F5E7F:Chiran Helm
+DD1F5E80:Alduressa Coat
+DD1F5EA6:Acid Simi
+DD1F5E81:Heavy Necklace
+DD1F5E85:Acid Baton
+DD1F5EA8:War Hammer
+DD24EAB7:Quill of Introspection
+DD2B815B:Pyreal Mote
+DD1F5E91:Staff
+DD1F5E86:Salvaged  (99)
+DD1F5E87:Salvaged  (39)
+DD1F5EAD:Ken
+DD1F5E88:Salvaged  (25)
+DD1F5E8A:Salvaged  (90)
+DD1F5EAE:The Creation of Blighted Moarsmen
+DD1F5E8B:Salvaged  (84)
+DD1F5E8D:Salvaged  (79)
+DD1F5EC0:Health Philtre
+DD1F5E8E:Studded Leather Bracers
+DD1F5E8F:Viamontian Pants
+DD1F5E90:Poet's Shirt
+DD1F5E92:Nariyid Helm
+DD1F5EE4:The Plan
+DD1F5E93:Gloves
+DD1F5E94:Flaming Claw
+DD1F5E96:Lightning Cestus
+DD1F5E95:Tassets
+DD1F5E97:Signet Crown
+DD1F5E98:Shoes
+DD1F5E99:Pauldrons
+DD1F5E9A:Argenory Plant
+DD1F5E9B:Gorget
+DD1F5E9C:Hennacin Plant
+DD1F5E9D:Gorget
+DD1F5E9E:Gloves
+DD1F5E9F:Gorget
+DD1F5EA0:Leather Greaves
+DD1F5EA2:Gorget
+DD1F5EA1:Teardrop Crown
+DD1F5EA3:Coronet
+DD1F5EA4:Shoes
+DD1F5EA5:Qafiya
+DD1F5EA7:Dericost Blade
+DD1F5EAA:Ring
+DD1F5EA9:Electric Compound Bow
+DD1F5EAB:Teardrop Crown
+DD1F5E84:Major Mana Stone
+DD1F5EAC:Gorget
+DD1F5EAF:Wand
+DD1F5EB0:Amulet
+DD1F5EB2:Yoroi Pauldrons
+DD1F5EB3:Vest
+DD1F5EC1:Gold Pea
+DD1F5EB4:Gloves
+DD1F5EB5:War Axe
+DD1F5EB6:Gorget
+DD1F5EB7:Orb
+DD1F5EB8:Diadem
+DD1F5EB9:Shashqa
+DD1F5EBB:Alduressa Boots
+DD1F5EBC:Alduressa Gauntlets
+DD1F5EBD:Cap
+DD1F5EBE:Lapyan Plant
+DD1F5EBF:Ring
+DD1F5EC2:Pyreal Pea
+DD1F5EC3:Diadem
+DD1F5EC4:Gloves
+DD1F5EC7:Teardrop Crown
+DD1F5EC5:Tunic
+DD1F5EC6:Viamontian Pants
+DD1F5EC8:Staff
+DD1F5EC9:Gold Pea
+DD1F5ECA:Bracelet
+DD1F5ECB:Tunic
+DD1F5ECC:Cowl
+DD1F5ED4:Plentiful Healing Kit
+DD1F5ECD:Staff
+DD1F5ECE:Aligned Mana Stone
+DD1F5ECF:Aetheria Mana Stone
+DD1F5ED0:Encrusted Bloodstone Jewel
+DD1F5ED2:Greater Amuli Shadow Coat
+DD1F5ED5:Trousers
+DD1F5ED6:Relanim Plant
+DD1F5EE9:Some Changes for February 2012
+DD1F5ED7:Katar
+DD1F5ED8:Colban Plant
+DD1F5ED9:Berimphur Plant
+DD1F5EDB:Holtburg Portal Gem
+DD1F5EDE:Trade Note (250,000)
+DD2FF5C6:Reliable Lockpick
+DD1F5EE1:Minalim Plant
+DD1F5EE3:Pack Drudge
+DD1F5EE5:Tremendous Monouga Pack Doll
+8220D74C:Diamond Shield
+DD1F5EE8:Superior Shield
+DD26AFB5:The Temple of Enlightenment
+DD1F5EBA:Ring
+DD1F5EDD:Heavy Bracelet
+DD1F5EB1:Ring
+8BE28352:Evader's Crystal
+DD2CD508:Frost Compound Crossbow
+DD2CD4BE:Heavy Bracelet
+DD2A080F:Glowing Box
+DD2CD50B:Slashing Bow
+DD2EE763:Wrapped Bundle of Blunt Arrowheads
+DD2EE764:Wrapped Bundle of Arrowshafts
+DD1447D7:Cloth Gloves
+DD1F5EE7:Sword of Lost Light
+DD1F5EE6:Orb
+DD1F5E6B:Focusing Stone
+DD2A07CA:Pyreal Mote
+DD2A0819:Ice Heaume of Frore
+DD1F5ED3:Greater Amuli Shadow Leggings
+DD2BBA50:Blunt Quarrel
+DD1F5EE0:Blunt Compound Crossbow
+DD1F5E4F:Teleportation Device
+
+Missing Exports - Possessed items that were not found:

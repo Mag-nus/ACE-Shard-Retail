@@ -1,0 +1,31 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-05-2017\AC_Logs_Leafcull_Dark_Noble_SimonF\pkt_2017-1-21_1484976891_log.pcap
+
+Partial Exports - Missing appraisal info:
+DB0F7811:Baggy Shirt
+DB0F7812:Trousers
+DB0F7814:Pyreal
+DB0F7815:Sack
+DB0F7816:Ust
+DB0F781A:Foci of Strife
+DB0F781B:Foci of Artifice
+DB0F781C:Prismatic Taper
+DB0F781D:Lead Scarab
+DB2FC614:Blackmoor's Favor
+DB276616:Academy Library Key
+DB2ACBE8:Pack
+DB2B8A96:Facility Hub Portal Gem
+DB3095F9:Iron Scarab
+DB2F4126:Pathwarden Robe
+DB2F412E:Pathwarden Gauntlets
+DB35AEE3:Key
+DB3003C8:Kabuton
+DB30C05D:Small Mattekar Hide
+DB2D46DB:Academy Wand
+DB363008:Iron Pea
+DB36B374:Scroll of Stamina to Mana Self II
+DB34A194:Foci of Verdancy
+DB1D4FFC:Ring
+DB362FAF:Staff
+
+Missing Exports - Possessed items that were not found:

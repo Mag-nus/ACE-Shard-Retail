@@ -1,0 +1,33 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485841816_log.pcap
+
+Partial Exports - Missing appraisal info:
+B3B358EE:Pyreal
+B3B358AD:Sack
+B3B35904:Lightning War Axe
+B3B3592D:Floating Candle
+B3B3592B:Lightning War Axe
+B3B35923:Screen
+B3AE509C:Flaming War Axe
+B38AF036:Nodachi
+B37DFCE4:Hearth
+B3B358E1:Sho Floor Pillow
+B3B358CC:Flaming War Axe
+B37E11A1:Lugian Scepter
+B3B35917:Crest of Kings
+B3828373:Lead Scarab
+B3B35900:Prismatic Taper
+B3B35922:Blackmoor's Favor
+B3B358FE:Academy Spadone
+B3B358F8:Academy Wand
+B3B358D5:Ust
+B3B358FF:Facility Hub Portal Gem
+B3B35934:Pathwarden Supply Key
+B38AEFD5:Pack
+B3B35901:Foci of Verdancy
+B3B358E8:Electric Trident
+B3B358E9:Lightning Dolabra
+B3BBDB10:Virindi Consul Essence
+B3BA03A7:Shoyanen's Portal Gem
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,220 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\trello_datamining\2_Frore (part 1).pcap
+
+Partial Exports - Missing appraisal info:
+81838F46:Pack
+81838F45:Diamond Heart
+81838F44:Granite Heart
+81838F43:Granite Heart
+81838F42:Obsidian Heart
+81838F41:Obsidian Heart
+81838F40:Glacial Golem Heart
+81838F3F:Glacial Golem Heart
+81838F3E:Pyreal Golem Heart
+81838F3D:Vapor Golem Heart
+81838F3C:Elaniwood Golem Heart
+81838F3B:Vapor Golem Heart
+81838F3A:Gold Golem Heart
+81838F39:Gold Golem Heart
+81838F38:Pyreal Golem Heart
+81838F37:Black Coral Heart
+81838F36:Coral Heart
+81838F35:Coral Heart
+81838F34:Obsidian Heart
+81838F33:Copper Heart
+81838F32:Platinum Golem Heart
+81838F31:Sand Golem Heart
+81838F30:Black Coral Heart
+81838F2F:Gold Golem Heart
+80F3BB0D:Diamond Heart
+81838F2E:Small Belt Pouch
+81838F2D:Tusker Island Shirt
+81838F2C:Realaidain Raiment
+81838ED6:Hero Token
+81838F2B:Refreshing Umbrella Drink
+81838F2A:Yellow Jewel
+81838F29:Red Jewel
+81838F28:Blue Jewel
+81838F27:Red Jewel
+81838F26:Red Jewel
+81838F25:White Jewel
+81838F24:Yellow Jewel
+81838F23:Yellow Jewel
+81838F22:Yellow Jewel
+81838F21:Blue Jewel
+81838F20:White Jewel
+81838F1F:Yellow Jewel
+81838F1E:Purple Jewel
+81838F1D:White Jewel
+81838F1C:Red Jewel
+81838F1B:Red Jewel
+81838F1A:Pack
+81838F19:Tiny Shard
+81838F18:Cracked Shard
+81838F17:Scintillating Gem
+81838F16:Scintillating Gem
+81838F15:Major Sparking Stone
+81838F14:Quiddity Ingot
+81838F12:Shadow Fragment
+81838F11:Quality Imprinting Mote
+81838F10:Quiddity Ingot
+81838F0F:Perfect Diamond Infused Pyreal Ingot
+81838F0E:Scintillating Gem
+81838F0D:Repaired Shadow Stone
+81838F0C:Pyreal Bar
+81838F0B:Glimmering Gem
+81838F0A:Scintillating Gem
+81838F09:Pyreal Bar
+81838F08:Pyreal Bar
+81838F06:Shadow Fragment
+8B057EEB:Small Shard
+90903724:Crystal Fragment
+80F3BB11:Quality Imprinting Mote
+81838F05:Banderling Aggressor Scalp
+81838F04:Monougat
+81838F03:Brown Beans
+81838F02:Skeleton's Skull
+81838F01:Gold Phyntos Wasp Wing
+81838F00:Jade Gromnie Tooth
+81838EFF:Blue Phyntos Wasp Wing
+81838EFE:Jungle Phyntos Wasp Wing
+81838EFD:Cabalist Drudge Charm
+81838EF9:Bronze Armoredillo Spine
+81838EF8:Plate Armoredillo Spine
+81838EF7:Ivory Gromnie Hide
+81838EFC:Mystic Drudge Charm
+81838EFB:Thin Gromnie Hide
+81838EFA:Dark Revenant Thighbone
+81838EF6:Silk
+81838EF5:Small Reedshark Hide
+81838EF4:Reedshark Hide
+81838EF3:Large Sclavus Hide
+81838EF2:Bloodletter Drudge Charm
+81838EF1:Ursuin Scalp
+81838EF0:Hoary Armoredillo Spine
+81838EEF:Primeval Skeleton Shin Bone
+81838EEE:Small Mattekar Hide
+81838EED:Hoary Armoredillo Spine
+81838EEC:Dark Revenant Thighbone
+81838EEB:Amulet of Dark Rage
+81838EEA:Second Half of a Worn Mace
+81838EE9:Slasher Reedshark Hide
+81838EE8:Brass Gromnie Tooth
+81838EE7:Banderling Savage Arm
+81838EE6:Brown Beans
+81838EE5:Resilient Gromnie Hide
+81838EE4:Empty Flask
+81838EE3:Pack
+81838EE2:Gold Shallows Shredder Fin
+81838EE1:Gold Shallows Shredder Fin
+81838EE0:Gold Shallows Shredder Fin
+81838EDF:Seared Shard
+81838EDE:Seared Shard
+81838EDD:Hardened Shard
+81838EDC:Brilliant Shard
+81838EDB:Scored Shard
+81838EDA:Hardened Shard
+81838ED9:Golden Gromnie
+81838ED8:Golden Gromnie
+81838ED7:Imbue Swap Coin
+81838ED5:Golden Gromnie
+81838ED4:Golden Gromnie
+81838ED3:Golden Gromnie
+81838ED2:Golden Gromnie
+81838ED1:Ravener Guts
+81838ED0:Moarsmuck
+81838ECF:Peerless Drudge Charm
+81838ECE:Peppermint Stick
+81838ECD:Large Lugian Sinew
+81838ECC:Banderling Antagonist Scalp
+81838ECB:Brown Lump
+81838ECA:Plate Armoredillo Hide
+81838EC9:Thick Gromnie Hide
+81838EC8:Thin Gromnie Hide
+81838EC7:Clay Figurine
+81838EC6:Hot Pepper
+81838EC5:Ivory Gromnie Tooth
+81838EC4:Ivory Gromnie Hide
+81838EC3:Hulking Bunny Slippers
+81838EC2:Orange Monster Seed
+81838EC1:Red Monster Seed
+81838EC0:Skull of a Dark Master
+81838EBF:Undead Femur bone
+81838EBE:Banderling Scalp
+81838EBD:Stocking Cap
+81838EBA:Sclavus Tongue
+81838EB9:Scribe's Quill
+81838EB8:Black Luster Pearl
+81838EBC:Night Club Shirt
+81838EBB:Decanter of Essence
+81838EB6:Undead Femur bone
+81838EB7:Ivory Gromnie Wings
+81838EB5:Tusker Spit
+81838EB4:Drudge Charm
+81838EB3:Gold Phyntos Wasp Wing
+81838EB2:Skeleton's Skull
+81838EB1:White Phyntos Wasp Wing
+81838EB0:Gold Phyntos Wasp Wing
+81838EAF:Ravener Guts
+81838EAE:Thick Gromnie Hide
+81838EAD:Mattekar Hide
+81838EAC:Gold Tumerok Insignia
+81838EAB:White Phyntos Wasp Wing
+81838EAA:Plate Armoredillo Spine
+81838EA9:Reaper Reedshark Hide
+81838EA8:Reaper Reedshark Hide
+81838EA7:Ivory Gromnie Tooth
+81838EA6:Ruby Gromnie Eye
+81838EA5:Swamp Stone
+81838EA4:Pack
+81838EA3:Lair of The Homunculus
+81838E97:Three of Eyes
+81838EA2:Drudge Fight
+81838EA1:Abandoned Mines Portal Sending Gem
+81838E91:Puzzle Box
+81838EA0:Shadow Lugian Stronghold Portal Gem
+81838E9F:Corcima Castle Platinum Ward Portal Gem
+81838E9E:Olthoi Stamp
+81838E9D:Candeth Keep Stamp
+81838E96:Ten of Eyes
+81838E9C:Royal Coat of Arms Stamp
+81838E9B:Fletching Stamp
+81838E92:The Jester
+81838E9A:Cooking Stamp
+81838E99:Moons Stamp
+81838E95:Four of Hands
+81838E98:Skull Stamp
+81838E94:Five of Hands
+81838E93:Queen of Hands
+81838E90:A Crumpled Note
+81838E8F:Realaidain Raiment
+80F3BAFC:The Orphanage
+81838E8E:Mattekar Hide
+81838E8D:Large Sclavus Hide
+81838E8C:Atuakeh Plant
+81838E8B:Ash Gromnie Tooth
+81838E8A:Ursuin Arm
+81838E89:Red Monster Seed
+81838E88:Bloodied Burun Hide
+81838E87:Swamp Stone
+81838E86:Mire Phyntos Wasp Wing
+81838E85:Banderling Scalp
+81838E84:Yellow Monster Seed
+81838E83:Fire Auroch Horn
+81838E82:Pack
+81838E81:Pack
+81838E80:Black Luster Pearl
+81838E7F:Rust Gromnie Tooth
+81838E7E:Ash Gromnie Tooth
+81838E7D:Adolescent Azure Gromnie Eye
+81838E7C:Misshapen Bone Fragment
+81838E7B:Swamp Stone
+81838E7A:Island Armoredillo Spine
+81838E79:Shore Armoredillo Spine
+81838E78:Grey Spine
+81838E77:Shore Armoredillo Spine
+81838E76:Sturdy Armoredillo Hide
+81838E75:Swamp Stone
+81838E74:Small Armoredillo Hide
+
+Missing Exports - Possessed items that were not found:

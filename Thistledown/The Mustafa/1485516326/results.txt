@@ -1,0 +1,58 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\Callaway-1-27-2017-DecriptTowerQuest\pkt_2017-1-27_1485500960_log.pcap
+
+Partial Exports - Missing appraisal info:
+9905A9D0:Sack
+98FFDA38:Lead Scarab
+990D2A15:Hyssop
+990BF6CD:Powdered Onyx
+98FB7E33:Ashwood Talisman
+990D2811:Powdered Turquoise
+99080CAB:Copper Scarab
+98FE20E8:Comfrey
+9904DBCA:Powdered Malachite
+990D2A1B:Rowan Talisman
+98FAD2F6:Gifted Healing Kit
+990BFE4D:Gifted Healing Kit
+990FE19D:Gifted Healing Kit
+990B67EE:Gifted Healing Kit
+98F6EC8E:Ring
+98F95C0B:Braided Sclavus Tongues
+9905AE3A:Skeleton's Skull
+990BFE41:Granite Heart
+990BE88A:Greater Mana Stone
+98FA6FE1:Excellent Healing Kit
+990FCCFA:Pyreal
+98F83BC7:Pack
+990D2A3F:Indigo Taper
+990FCD02:Turpeth
+990876BE:Green Taper
+98FE4577:Blue Taper
+990D2E9B:Yellow Taper
+990BFF61:Quicksilver
+990D47B9:Cobalt
+990D4729:Vitriol
+99086A7D:Gypsum
+98FE4278:Stibnite
+990876AC:Pack
+990FCCF9:Pack
+9900B4C3:Pack
+9900BFFB:Pack
+98F5205C:Ring
+99086A88:Pack
+990BEDF7:Excellent Healing Kit
+990FCCF8:Gifted Healing Kit
+98F5798A:Gifted Healing Kit
+9905A882:Gifted Healing Kit
+98FE868B:Greater Mana Stone
+990D295B:Greater Mana Stone
+98D63F33:Greater Mana Stone
+9906BC8C:Gifted Healing Kit
+98FD977A:Gifted Healing Kit
+990FCD00:Excellent Healing Kit
+990F8504:Excellent Healing Kit
+9907CC61:Ring
+990DF5A2:Trade Note (250,000)
+990EF1F7:Some Changes for February 2012
+
+Missing Exports - Possessed items that were not found:

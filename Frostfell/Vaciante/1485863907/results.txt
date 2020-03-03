@@ -1,0 +1,42 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Vaciante_pkt_2017-1-31_1485863898\pkt_2017-1-31_1485863898_log.pcap
+
+Partial Exports - Missing appraisal info:
+D486191B:Flared Pants
+D527EC88:Refurbisher's Tally
+D5681A83:Gem
+D577EA97:Gem
+D5800FD0:Pyreal
+D4861923:Foci of Strife
+D4861924:Foci of Verdancy
+D4861925:Foci of Enchantment
+D4E6A6AC:Plain Lockpick
+D57AEE76:Sturdy Iron Key
+D4F1A312:Pathwarden Trinket
+D4EB6616:Lead Scarab
+D4F1A314:Great Mana Charge
+D52AA72C:Necklace
+D52AA56B:Ring
+D577E59B:Bracelet
+D57B48BB:Ring
+D578608F:Lace Shirt
+D577B405:Studded Leather Greaves
+D5785FA2:Leather Gauntlets
+D577F31C:Crown
+D57A95AE:Steel Toed Boots
+D578668D:Peppermint Stick
+D583990F:Reliable Lockpick
+D57BFF62:Potion of Healing
+D57BFF60:Stamina Tincture
+D5766B1D:Chainmail Tassets
+D56B671F:Leather Cuirass
+D577E59D:Leather Pauldrons
+D584A87C:Sturdy Iron Key
+D58EA4B7:Leather Bracers
+D58AEC59:Fishing Made Easy
+D58AEF18:Lesser Mana Stone
+D58AF724:Turban
+DD15394A:Ring
+D57A95AF:Sceptre
+
+Missing Exports - Possessed items that were not found:

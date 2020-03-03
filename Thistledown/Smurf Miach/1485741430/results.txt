@@ -1,0 +1,14 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Miach-Golem-Santum-and-more-pcap\pkt_2017-1-29_1485740900_log.pcap
+
+Partial Exports - Missing appraisal info:
+AB8C4A9B:Flared Shirt
+AB873821:Pants
+AB8C4AEE:Viamontian Laced Boots
+AB874F65:Sack
+AB8B878B:Ust
+AB8B86ED:Foci of Strife
+AB8C4AD8:Blackmoor's Favor
+AB8B79ED:Some Changes for February 2012
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,149 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485839746_log.pcap
+
+Partial Exports - Missing appraisal info:
+DD1418A8:Shirt
+DD20853C:Foci of Strife
+DD27B5E6:Foci of Verdancy
+DD141870:Pathwarden Robe
+DD208543:Pack
+DD10F013:Salvage (100)
+DD141A34:Salvage (100)
+DD208584:Pack
+DD208561:Salvage (100)
+DD141850:Salvage (100)
+DD27B58A:Pack
+DD14193A:Salvage (100)
+DD27B5EE:Salvage (100)
+DD13FAF4:Pristine Mana Shard
+DD14120A:Salvage (100)
+DD13BC5C:Salvage (100)
+DD2085B0:Ravener Guts
+DD27B5E5:Salvage (100)
+DD14186C:Salvage (100)
+DD13E306:Dread Mattekar Paw
+DD1418C9:Salvage (100)
+DD10F191:Salvage (100)
+DD13E29C:Scroll of Raven Fury
+DD1418EC:Salvage (100)
+DD141868:Salvage (100)
+DD20854B:Salvage (100)
+DD208586:Salvage (100)
+DD13E3AB:Dark Revenant Thighbone
+DD1418E2:Salvage (100)
+DD27B5ED:Salvage (100)
+DD14189E:Dire Mattekar Paw
+DD27B5E4:Salvage (100)
+DD2085A2:Pyreal
+DD27B58C:Galvanic Knight Essence
+DD27B5EC:Writ of Refuge
+DD140886:Pack
+DD141948:Salvage (100)
+DD27B5FE:Salvage (100)
+DD10C309:Salvage (100)
+DD20859E:Pack
+DD1419D3:Salvage (100)
+DD208567:Salvage (100)
+DD10EFE7:Scroll of Raven Fury
+DD2085A3:Salvage (100)
+DD2085C4:Salvage (100)
+DD27B5FB:Health Tonic
+DD141914:Salvage (100)
+DD208582:Salvage (100)
+DD2085AB:Salvage (100)
+DD10F029:Salvage (100)
+DD141841:Mana Tonic
+DD20857F:Salvage (100)
+DD141A59:Salvage (100)
+DD2085C7:Atuakeh Plant
+DD2085C2:Salvage (100)
+DD27B5FD:Salvage (100)
+DD13F33D:Salvage (100)
+DD1418FE:Salvage (100)
+DD1418E6:Salvage (100)
+DD2085AC:Salvage (100)
+DD141942:Salvage (100)
+DD13DF68:Salvage (100)
+DD27B5FC:Salvage (100)
+DD141842:Dusky Winged Coat
+DD10F134:Minalim Plant
+DD1418DE:Dusky Winged Coat
+DD208583:Lightning Tetsubo
+DD20857D:Tetsubo
+DD20859D:Salvage (100)
+DD2085CA:Colban Plant
+DD1418EA:Salvage (100)
+DD1418CE:Salvage (100)
+DD14188B:Salvage (100)
+DD141A04:Salvage (100)
+DD20854F:Salvage (100)
+DD14194C:Salvage (100)
+DD140D18:Salvage (100)
+DD2085A0:Salvage (100)
+DD1418CC:Salvage (100)
+DD27B5FA:Salvage (100)
+DD2085B2:Salvage (100)
+DD10A602:Salvage (100)
+DD141854:Salvage (100)
+DC967545:Salvage (100)
+DD1418B1:Salvage (100)
+DD10F15F:Salvage (100)
+DD10EFEC:Salvage (100)
+DD141142:Salvage (100)
+DD27B5F9:Salvage (100)
+DD2085DD:Salvage (100)
+DCA1BF30:Salvage (100)
+DD2085C6:Salvage (100)
+DD10F056:Salvage (100)
+DD10F05C:Salvage (100)
+DD141937:Salvage (100)
+DC8ADD3E:Salvage (100)
+DD141859:Salvage (100)
+DD2085C1:Salvage (100)
+DD2085A1:Salvage (100)
+DD10F058:Salvage (100)
+DD141915:Salvage (100)
+DD1418BC:Salvage (100)
+DD141A98:Salvage (100)
+DD2085E3:Salvage (100)
+DD141F74:Salvage (100)
+DD208563:Salvage (100)
+DD20857A:Salvage (100)
+DD27B5F8:Salvage (100)
+DD2084F5:Salvage (100)
+DD141A11:Salvage (100)
+DD141AD8:Salvage (100)
+DD2085C9:Salvage (100)
+DD27B5F4:Verdalim Plant
+DD27B5C8:Berimphur Plant
+DD27B5C7:Relanim Plant
+DD27B5C6:Hennacin Plant
+DD14198F:Lapyan Plant
+DD2085AE:Argenory Plant
+DD10F132:Elysa's Favor
+DD10F02F:Salvage (100)
+DD2064AC:Salvage (100)
+DD141906:Salvage (100)
+DD10F0FB:Salvage (100)
+DD27B5F7:Salvage (100)
+DD1418A6:Salvage (100)
+DD2064AB:Salvage (100)
+DD14CB48:Salvage (100)
+DD20857C:Salvage (100)
+DD1418F6:Salvage (100)
+DD2085F3:Salvage (100)
+DD141EF9:Salvage (100)
+DD1418FD:Salvage (100)
+DD1418FC:Salvage (100)
+DD27B5F6:Salvage (100)
+DD2064AA:Salvage (100)
+DC967544:Salvage (100)
+DD20857E:Salvage (100)
+DD141929:Salvage (100)
+DD27B5F5:Salvage (100)
+DD10F011:Salvage (100)
+DD2085C8:Salvage (100)
+DD141881:Salvage (100)
+DD20852E:Salvage (100)
+
+Missing Exports - Possessed items that were not found:

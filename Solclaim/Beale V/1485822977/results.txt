@@ -1,0 +1,236 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485822758_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-22_1485139320_log.pcap
+
+Partial Exports - Missing appraisal info:
+804892FD:Pack
+804892FE:Lead Scarab
+80489300:Foolproof Sunstone Gem
+80489301:Salvage (100)
+80489303:Gold Scarab
+80489304:Iron Scarab
+80489308:Facility Hub Portal Gem
+8048930B:Pumpkin Cookie Cutter
+8048930D:Dried Yeast
+80489311:Major Mana Stone
+804893FF:Sharp Tusker Slave Tusk
+938FDE18:Pyreal
+97847B6C:Pyreal
+9389242C:Weapon Tailoring Kit
+902E1273:Armor Layering Tool (Bottom)
+9390257D:Empty Bottles
+9155B611:Salvage (100)
+80489315:Pack
+8048931B:Writ of Refuge
+8048931C:Platinum Scarab
+8FBD4F33:Refurbisher's Tally
+8FBEB064:Damp Scroll
+907E7DF2:Prismatic Taper
+94266243:Diamond Scarab
+86D42E6E:Salvage (100)
+93181F09:Salvage (100)
+9787A212:Salvage (100)
+982795AA:Salvage (100)
+8048932E:Pack
+90415171:Salvage (100)
+80489377:Salvage (100)
+8048932F:Jeweler's Hand Saw
+86C4C9BF:Trade Note (250,000)
+80489331:Brew Kettle
+80489332:Salvaged  (100)
+80489335:Holtburg Portal Gem
+80489336:Shoyanen's Portal Gem
+804893A1:Brew Kettle
+93902570:Empty Bottles
+93902573:Empty Bottles
+93902574:Empty Bottles
+93902576:Empty Bottles
+93902577:Empty Bottles
+93902579:Empty Bottles
+97804BDF:Salvage (69)
+9389B6C8:Bobo's Stout
+938EE689:Bobo's Stout
+938EE7A9:Bobo's Stout
+938A9690:Bobo's Stout
+938CC3F4:Keg of Amber Ape
+80489349:Hammer
+93904A27:Keg of Hunter's Stock Amber
+80489346:Pack
+8048934A:Ust
+8048934B:Salvaged  (100)
+8D07B685:Mana Scarab
+8048934E:Salvage (100)
+8048934F:Salvage (100)
+80489350:Salvage (100)
+80489351:Salvage (100)
+8048935F:Pack
+8EB00006:Duke Raoul's Distillation
+80489343:Ultra Green Hops
+8048933F:Amber Barley
+80489363:Glissnal Sleech Shell
+9368CBAB:Tusker Spit
+8048937C:Lapping Plate
+80F0A232:Decanter of Essence
+8048937D:Carving Knife
+938D0492:Keg of Bobo's Stout
+938CBCB0:Keg of Tusker Spit Ale
+93900E71:Tusker Spit Ale
+93900A0F:Tusker Spit Ale
+80489362:Salvage (100)
+9A62CA4C:Cooking Pot
+8CB1CC6D:Amber Barley
+804893B9:Trade Note (250,000)
+80489378:Pack
+9389A5E1:Tusker Spit Ale
+938EE423:Bobo's Stout
+9423FC4A:Vitriol
+85AC7082:Artist's Crystal
+80ED5FAE:Tinker's Crystal
+91EFF59F:Imbuer's Crystal
+97834004:Salvage (100)
+974732EB:Salvage (100)
+9A5A1836:Foolproof Peridot
+9A7125CB:Scarlet Red Letter
+9A5A186F:Foolproof Peridot
+80489379:Yaraq Portal Gem
+8048937A:Yaraq Portal Gem
+8048937F:Foolproof Imperial Topaz
+80489382:Virindi Consul Essence
+80489386:Copper Scarab
+80489387:Pyreal Scarab
+80489399:Salvage (96)
+8B6C1CD8:Trade Note (250,000)
+80489391:Pack
+98303F27:Trade Note (250,000)
+958B752A:Salvage (100)
+957EA8DE:Salvage (100)
+90ACB017:Salvage (100)
+804893AA:Pack
+90AD2518:Salvage (100)
+90B26C7F:Salvage (100)
+97846576:Neutral Balm
+90B4429D:Salvage (100)
+9098E119:Magus's Pearl
+991BD317:Salvage (100)
+80489393:Salvage (100)
+9A915B93:Armor Tailoring Kit
+80489394:Salvage (100)
+80489396:Yaraq Portal Gem
+80489397:Town Network Portal Gem
+8FBF144A:Foolproof Black Garnet Gem
+939003C4:Tusker Spit Ale
+939012FD:Tusker Spit Ale
+94265BBC:Vitriol
+988CB97F:Chorizite
+804893B0:Aetheria Mana Stone
+8F473593:Chorizite
+987AE832:Chorizite
+99155612:Salvage (100)
+98F9B119:Salvage (100)
+9060E245:Salvage (100)
+9058D80A:Salvage (100)
+9054058C:Salvage (100)
+90579205:Salvage (100)
+904E306C:Salvage (100)
+804893AB:Salvage (100)
+804893AF:Foolproof Fire Opal Gem
+804893B8:Foolproof Sunstone Gem
+804893C1:Foolproof Fire Opal
+804893AD:Foolproof Imperial Topaz Gem
+93852E5E:Tusker Spit Ale
+9388B687:Tusker Spit Ale
+938B04EA:Apothecary Zongo's Stout
+93809730:Apothecary Zongo's Stout
+987D34AD:Vitriol
+989085F3:Chorizite
+989093D5:Chorizite
+988FB4D5:Chorizite
+957F5DA2:Thananim Plant
+9889DA8A:Chorizite
+98904B6A:Chorizite
+813C2B4F:Salvage (100)
+90581FEB:Salvage (100)
+9007DA7E:Salvage (100)
+904730DB:Salvage (100)
+904784B6:Salvage (100)
+905947A7:Salvage (100)
+906B619E:Salvage (100)
+813C2A9F:Salvage (100)
+813BEACD:Salvage (100)
+87C4B0C4:Salvage (100)
+87C4AF07:Salvage (100)
+90578F1D:Salvage (100)
+907E667F:Salvage (100)
+9819D73E:Salvage (100)
+981F93C0:Salvage (100)
+982705F1:Salvage (100)
+981886D2:Salvage (100)
+982709F2:Salvage (100)
+9804D11D:Salvage (100)
+97B8E7A1:Salvage (100)
+97BA0B4C:Salvage (100)
+97B9ECDC:Salvage (100)
+9884576E:Salvage (100)
+988CE6EF:Salvage (100)
+988BD64C:Salvage (100)
+988BCE33:Salvage (100)
+9888397E:Salvage (100)
+9889F78E:Salvage (100)
+98805EFB:Salvage (100)
+9887144E:Salvage (100)
+97BFAF52:Salvage (100)
+97B5A1F5:Salvage (100)
+94251610:Mortar and Pestle
+804893E7:Major Item Tinkering Armature
+9909E869:Salvage (100)
+99716546:Salvage (100)
+99814B66:Salvage (100)
+997F59D2:Salvage (100)
+9A141360:Salvage (100)
+9A18ED30:Salvage (100)
+95F15174:Salvage (100)
+95F0C96B:Salvage (100)
+98DC29EC:Salvage (100)
+97A1FE36:Salvage (100)
+978530A3:Salvage (100)
+98E3D411:Salvage (100)
+98E0511F:Salvage (100)
+967087B8:Salvage (100)
+9679FCE4:Salvage (100)
+95FB52CA:Salvage (100)
+95EEE6F7:Salvage (100)
+8027E2EE:Salvage (100)
+9789483F:Minor Item Tinkering Armature
+97875595:Moderate Item Tinkering Armature
+9AFD6DF0:Moderate Item Tinkering Armature
+9AFB823E:Moderate Item Tinkering Armature
+98EC70A6:Smithy's Crystal
+98C4DAB4:Imbuer's Crystal
+98C6BFC4:Artist's Crystal
+98EDEDA5:Tinker's Crystal
+8C6F51DD:Foolproof
+8C6F51ED:Foolproof Aquamarine
+8C6F537B:Foolproof Fire Opal
+8C6F5212:Foolproof White Sapphire
+8C6F51F5:Foolproof White Sapphire
+8C6F521D:Foolproof Emerald
+8C6F522E:Foolproof Fire Opal
+8C6F5207:Foolproof
+8C6F51D4:Foolproof
+8C6F521B:Foolproof Fire Opal
+8C6F521A:Foolproof Emerald
+8C6F5368:Foolproof
+8C6DB1A9:Foolproof
+8C6F51D3:Foolproof
+8C6F523A:Foolproof White Sapphire
+8C6F51F6:Foolproof Black Garnet
+8C6F521E:Foolproof Fire Opal
+8C6F5219:Foolproof Emerald
+8C6F5345:Foolproof
+8C6F51DA:Foolproof Black Garnet
+8C6F5213:Foolproof Fire Opal
+8DA88002:Salvaged  (100)
+
+Missing Exports - Possessed items that were not found:

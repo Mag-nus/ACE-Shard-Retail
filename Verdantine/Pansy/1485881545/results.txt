@@ -1,0 +1,220 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap3\pkt_2017-1-31_1485881195_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap1\pkt_2017-1-26_1485462351_log.pcap
+
+Partial Exports - Missing appraisal info:
+85FF14E3:Sack
+85FC7D8B:Pyreal
+8601C890:Ust
+85FE5917:Prismatic Taper
+85FC74CD:Lead Scarab
+85FCCBD6:Olthoi Egg
+86042B84:Facility Hub Portal Gem
+8601ED31:Turquoise Winged Helmet
+86004111:Studded Leather Cuirass
+85FD1453:Hood
+8601EAFC:Olthoi Amuli Helm
+85FC8100:Ring
+85F6C770:Pack
+85FA46E8:Studded Leather Boots
+8601F2BB:Lesser Olthoi Greaves
+85FF2094:Isin Dule's Orders
+86042BCD:Lesser Olthoi Tassets
+86042B48:Pulsating Bony Lump
+860279A9:Celdon Breastplate
+85FE4046:Virindi Essence
+85FC86B3:Studded Leather Breastplate
+85FF2007:Abyssal Key
+8601B84A:Gauntlets
+86042C12:Atuakeh Plant
+85FE50E2:Haebrean Vambraces
+85FECE83:Olthoi Koujia Sollerets
+85FC624B:Ust
+85F65EF2:Lyceum Hood
+85FC7285:Haebrean Pauldrons
+860279AF:Pandemic Key
+86042B3F:Pandemic Key
+86042BED:Pandemic Key
+86042C1A:Shadow Note Translation
+85FCC2AA:Isin Dule's Instructions
+86042C20:Umbris Note Translation
+85FE5723:Shadow Dispatch
+86042C06:Instructions
+85FE285A:Isin Dule's Orders
+85FC470E:Amuli Coat
+86003B0E:Pack
+86042C22:Shadow Missive
+86042C3A:Translated Shadow Artifex Shard
+85FCC764:Translated Elemental Artifex Shard
+85FDE4D5:Energy Source
+86042C08:Chiran Leggings
+85FC8061:Goggles
+85FCBF7C:Archer's Jewel
+85F88DCE:Skeletal Atlatl
+85FE4CC6:Dho Vest and Over-Robe
+85FC83F9:Evader's Crystal
+86042BCA:Long Leather Gauntlets
+86042BD2:Heavy Bracelet
+85FED301:Ring
+85FF1D02:Knorr Academy Girth
+86042C10:Marble Keyring
+85FFACBB:Sedgemail Leather Gauntlets
+85FBDA37:Leather Shorts
+86042BD1:Flaming Dagger
+85FC508F:Second Half of a Battered Sword
+85FC77D5:Leather Shorts
+85FC92CC:Shirt
+85FE3FC5:First Half of a Worn Sword
+860131B1:Pack
+86042C1C:Olthoi Koujia Kabuton
+860279C3:Black Water Watcher's Shard
+86003CBA:Haebrean Boots
+85FE12D8:Leather Boots
+85FEEBF5:Copy of Tanada House of Water Orders
+8601EF4A:Mechanical Scarab
+85FF2065:Yellow Jewel
+8601EE67:Leather Tassets
+85FC9A66:Kote
+86003E61:Mechanical Scarab
+86042C13:Obsidian Shard
+86042C3D:Chainmail Pauldrons
+85FE4A17:Studded Leather Bracers
+85FC8EB5:Granite Key
+85FED1B4:Acid Battle Axe
+85FC6754:Chicken
+8601B722:Loafers
+8601F4BB:Olthoi Celdon Sleeves
+860279D4:Stocking Cap
+8601DDBE:Pack
+85FC6348:Top Hat
+8601C379:Covenant Bracers
+86042C16:Studded Leather Shirt
+85FC7763:Salvage (100)
+86042B5E:Salvage (100)
+85FCC205:Pack
+8600339C:Salvage (100)
+86042C38:Salvage (100)
+85FE5AEB:Pyreal Bar
+85FE38C9:Salvage (100)
+85F8DD00:Celdon Girth
+85FC8191:First Half of a Worn Staff
+85FC8166:Royal Runed Dolabra
+85FF0B63:Royal Runed Flamberge
+86042B60:Explorer's Journal
+86042C00:Princely Runed Slashing Baton
+85FEC7E8:Princely Runed Knuckles
+85FF105E:Sunflower
+86042C0B:Princely Runed Dolabra
+86006BCC:Pyreal Mote
+85FC7BC7:Pyreal Sliver
+86042C2A:Platemail Hauberk
+85FE7BE2:Celdon Breastplate
+85FA6751:Nariyid Sleeves
+85FD8FFF:Crystal
+85FA9B4C:Knorr Academy Vambraces
+86006BC4:Rabbit Carcass
+86042B69:Ash Gromnie Wings
+85FD84B4:Muddy Towel
+8601D4B5:Ash Gromnie Wings
+85FF1F42:Golden Gromnie
+85FF1F85:Purple Jewel
+85FECE4E:Red Jewel
+85FEFCFB:First Half of a Battered Dagger
+85FD8E57:Second Half of a Battered Axe
+85F8C7CE:First Half of a Battered Spear
+86027A3E:Fire Spectre Essence (80)
+86042C3E:Golden Key
+86042C40:Lightning Phyntos Wasp Essence (80)
+85FD9D0E:Fire Zombie Essence (80)
+85FD9604:Frost Moar Essence (100)
+86042B67:Lightning Phyntos Wasp Essence (80)
+86042C4D:Fire Grievver Essence (100)
+86042C4F:Gharu'ndim Gem of Worth
+86042B66:Chiran Helm
+85FD899D:Experimentation
+85FD8BD0:Amuli Coat
+86027A3A:Amuli Coat
+85FC7B89:Princely Runed Two Handed Corsesca
+85FAB200:Sake
+85FE4E25:Stout
+86003C34:Peppermint Stick
+85FCD25B:Osseous Mace
+85FE0735:Granite Key
+85FA507C:Granite Key
+86010735:Granite Key
+860040E5:Granite Key
+85FB86F8:Celdon Sleeves
+85FF14B3:Celdon Breastplate
+85FCC385:Granite Key
+85FC72E4:Sand Golem Heart
+86042B65:Water Golem Heart
+85FAE22F:Pyreal Nugget
+85FCD115:Cloth Gloves
+860279F2:Massive Mana Charge
+85FD9216:Massive Mana Charge
+85FE45E5:Scalemail Bracers
+86042C2B:Salvager's Helm
+86019DCF:Circle of Raven Might
+86004850:Leather Girth
+8601940F:Celdon Girth
+86042C41:Granite Key
+86042C37:Princely Runed Mazule
+85FE5D78:Nariyid Boots
+85FCCBDC:Granite Key
+85FC14E4:Granite Key
+85FD6629:Black Rock
+85FC78A0:Lightning Grievver Essence (150)
+8601D393:Fire Grievver Essence (125)
+86006ACD:Lightning Phyntos Wasp Essence (125)
+85FECCAB:Acid Grievver Essence (125)
+85FC680E:Excellent Lockpick
+86003EC0:Our Bitter Winter
+85FE5AB8:Nelvaine's Olde Ispar Stout
+85FAC009:A Bar Tab
+85FF2228:Mana Forge Key
+85FE78C7:Noble Relic Leggings of Health
+86004646:The Rise and Fall of the Tanada
+85FD9006:Granite Key
+85FF14AF:Leather Bracers
+8601BD3F:Princely Runed Flamberge
+856E6821:Princely Runed Dolabra
+86006B01:Granite Key
+85FD7770:Granite Key
+86042B76:Granite Key
+85FD9987:Hennacin Plant
+85FF2090:Sturdy Iron Keyring
+85FF14A3:Small Shard
+85FD13B3:Pyreal Nugget
+85FE4D05:Orange Monster Seed
+85FC9FE8:Scroll of Swordsman's Gift
+85FB8D63:Concentrated Bloodhunter Oil
+85FE5834:Holiday Lights
+85FC50E7:Colban Plant
+85FC73B5:Second Half of a Worn Crossbow
+86042B6E:Lapyan Plant
+86042B6D:Argenory Plant
+85F912D8:Compass
+85FE49E5:Crystal Fragment
+85FECDF2:Pyreal Mote
+860279E2:Red Monster Seed
+8601D55E:Platemail Gauntlets
+85FC50E2:Fire Skeleton Minion Essence (100)
+85FECAA6:Amuli Coat
+85FC5F36:Sedgemail Leather Shoes
+85FF0B31:Koujia Breastplate
+86027AD6:Amuli Coat
+85FCA053:Amuli Leggings
+86042B74:Olthoi Amuli Coat
+86003037:Olthoi Amuli Coat
+8601CC81:Lorica Leggings
+860039F8:Lorica Helm
+85FE2E84:Seasoned Explorer Helm
+8601CBE0:Olthoi Celdon Helm
+8601CCEF:Olthoi Celdon Sollerets
+8600468F:Olthoi Amuli Sollerets
+860253C0:Sedgemail Leather Shoes
+85FE490A:Leather Leggings
+
+Missing Exports - Possessed items that were not found:

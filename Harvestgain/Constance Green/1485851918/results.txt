@@ -1,0 +1,66 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-31-2017-pkt_2017-1-31_1485847270_log\pkt_2017-1-31_1485847270_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-29-2017-pkt_2017-1-29_1485737568_log\pkt_2017-1-29_1485737568_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-31-2017-pkt_2017-1-31_1485847270_log\pkt_2017-1-31_1485847270_log.pcap
+
+Partial Exports - Missing appraisal info:
+C7C42A6C:Baggy Shirt
+C7C42A6A:Sack
+C7C42A6B:Trousers
+C7C42A69:Lead Scarab
+C7C42A68:Prismatic Taper
+C7C42A67:Copper Scarab
+C7C42A66:Silver Scarab
+C7C42A65:Blackmoor's Favor
+C7C42A64:Asheron's Benediction
+C7C42A63:Ust
+C7C42A62:Faran Robe with Hood
+C7C42A61:Chainmail Gauntlets
+C7C42A60:Trade Note (100,000)
+C7C42A5E:Lucky Gold Letter
+C7C42A5F:Chevron Cloak
+C7C42A5D:Scarlet Red Letter
+C7C42A5C:Aphus Lassel Portal Gem
+C7C42A5B:Trade Note (250,000)
+C7C42A58:Pyreal
+C7C42A59:Foci of Artifice
+C7C42A57:Pyreal
+C7C42A56:Pyreal
+C7C42A55:Pack
+C7C42A54:Hot Sauce
+C7C42A53:Cooking Pot
+C7C42A52:Simple Field Rations
+C7C42A51:Elaborate Dried Rations
+C7C42A4D:Pack
+C7C42A50:Elaborate Dried Health Rations
+C7C42A4F:Simple Dried Health Rations
+C7C42A4E:Simple Field Health Rations
+C7C42A4C:Lilitha's Bow
+C7C42A4B:Wrapped Bundle of Deadly Armor Piercing Arrowheads
+C7C42A4A:Wrapped Bundle of Arrowshafts
+C7C42A49:Perfect Isparian Bow
+C7C42A48:Deadly Armor Piercing Arrow
+C7C42A46:Nayin
+C7C42A47:Wrapped Bundle of Greater Deadly Blunt Arrowheads
+C7C42A45:Pack
+C7C42A44:Sharp Tusker Slave Tusk
+C7C42A43:Sharp Tusker Slave Tusk
+C7C42A42:Sharp Tusker Slave Tusk
+C7C42A41:Sharp Tusker Slave Tusk
+C7C42A40:Sharp Tusker Slave Tusk
+C7C42A3F:Scarlet Red Letter
+C7C42A3D:Pathwarden Trinket
+C7C42A3A:Moderate Mana Stone
+C7C42A3C:Missile Specialist's Gauntlets
+C7C42A3B:Pyreal Mote
+C7C42A39:Silver Pea
+C7C42A38:Fletcher's Crystal
+C7C42A37:Haebrean Helm
+C7C42A36:Teleportation Device
+C7C42A35:Greater Deadly Blunt Arrow
+C865571D:Promissory Note
+C7C42A33:War Bow
+
+Missing Exports - Possessed items that were not found:

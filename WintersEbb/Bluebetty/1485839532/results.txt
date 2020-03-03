@@ -1,0 +1,126 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485839402_log.pcap
+
+Partial Exports - Missing appraisal info:
+9158BFE5:Pyreal
+9158BFE4:Sack
+91574FDA:Prismatic Taper
+915551D8:Lead Scarab
+91572A78:Blackmoor's Favor
+9158D986:Teleportation Device
+9158D91D:Ust
+915406F0:Foci of Strife
+91522430:Foci of Verdancy
+915263DA:Great Mana Charge
+91463AF3:Heavy Bracelet
+9154E851:Granite Key
+9153D5A0:Granite Key
+91540698:Granite Key
+9158D1C7:Granite Key
+9158D1C6:Scroll of Recklessness Ineptitude Other VII
+9152791A:Aura of Mystic's Blessing
+9158D94D:Scroll of Storm's Boon
+915582B4:Scroll of Battlemage's Blessing
+9155C80E:Scroll of Shield Mastery Other VII
+91559034:Scroll of Swordsman's Gift
+9155C86E:Scroll of Eradicate Life Magic Other
+9158D941:Scroll of Honed Control
+914DA214:Aura of Cragstone's Will
+9154E8D1:Scroll of Dirty Fighting Mastery Self VII
+9154075C:Scroll of Brogard's Defiance
+91540609:Scroll of Might of the Lugians
+9154E8DF:Scroll of Shield Mastery Self VII
+9154E814:Pyreal
+9154E87B:Ust
+9158D95B:Prismatic Taper
+91540792:Coalesced Aetheria
+9158DACA:Coalesced Aetheria
+9158DCAD:Coalesced Aetheria
+914C30D4:Longbow
+9153CDDD:Pyreal Sliver
+91503075:Ust
+9158AE0A:Blunt Baton
+91539F77:Blunt Compound Crossbow
+91538238:Blunt Compound Crossbow
+91513BB9:Longbow
+9158BEA9:War Hammer
+9154E88E:Heavy Crossbow
+9158DD59:Heavy Crossbow
+9153E2EC:Royal Atlatl
+9155C9F1:Assault Bow
+91531CA1:Battered Old Bow
+9155C9B0:Soul Staff
+9155C98D:Dire Mattekar Paw
+9158DE33:Salvaged  (4)
+9154E7DA:Slasher Reedshark Hide
+9158BC77:Ebon Mattekar Hide
+915709EC:Salvaged  (17)
+9153D309:Salvaged  (15)
+9158DE11:Pack
+9153D2F1:Salvaged  (6)
+9158AE0C:Salvaged  (4)
+9158D9BE:Jo
+9153858E:Shadow Lugian Stronghold Portal Gem
+9154E861:Leather Cuirass
+914DD71A:Breeches
+9153E6D7:Leather Gauntlets
+9153EC76:Old Lucky Gold Letter
+9153F531:Koujia Sleeves
+9152818F:Pyreal Scarab
+9154E848:Flaming Claw
+91535777:Frost Claw
+9154DD00:Tumerok Salted Meat
+9153B896:Frost Compound Bow
+9153CF63:Slashing Sceptre
+915C0E42:Pyreal
+9151C0A8:Electric Sceptre
+9154E7CB:Piercing Sceptre
+9158DA3D:Sturdy Iron Key
+9154DCC0:Piercing Sceptre
+9154E389:Princely Runed Knuckles
+9154DCF8:Fireworks
+9153B66C:Suikan War Master Robe
+9158BC52:Fire Bow
+9159CEE2:Pack
+9153FE95:Suikan War Master Robe
+91591AF2:Coalesced Aetheria
+91588FD1:Lightning Silifi
+91588227:Coalesced Aetheria
+915B5F98:Coalesced Aetheria
+915BF35D:Flaming Takuba
+915B807A:Acid War Axe
+9158B3DA:Lightning Cestus
+915A9D83:Relanim Plant
+9169BB80:Ring
+9166A432:Chainmail Pauldrons
+916A3EED:Coalesced Aetheria
+9166DB79:Coalesced Aetheria
+9168217A:Coalesced Aetheria
+915B7D7E:Chiran Helm
+914D466A:Colban Plant
+916CFDE6:Leather Jerkin
+9168659F:War Axe
+915B8168:Fire Sceptre
+915C0152:Studded Leather Greaves
+9154D1B0:Frost Sceptre
+916CFDE5:Heavy Bracelet
+916C95B7:Heavy Bracelet
+915C1BE8:Coalesced Aetheria
+9159CEC1:Elysa's Favor
+915C1CB4:Coalesced Aetheria
+9159B31B:Coalesced Aetheria
+914E7A51:Coalesced Aetheria
+916DAC61:Slashing Bow
+916AF5EA:Electric Sceptre
+915B9FD7:Lightning Flamberge
+9168B71F:Koujia Breastplate
+91696D5E:Puffy Tunic
+915B5BC2:Slashing Bow
+8FC6092E:Asheron's Supreme Raiment
+915BEB7B:Electric Bow
+8FC83F5B:Ring of Intellect
+91592EDB:Slashing Sceptre
+915AFB6B:Piercing Sceptre
+915AB80E:Chainmail Sleeves
+
+Missing Exports - Possessed items that were not found:

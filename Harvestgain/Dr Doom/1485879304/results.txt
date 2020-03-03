@@ -1,0 +1,180 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\Dr_Doom_Random_Running_Around\pkt_2017-1-31_1485879225_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Dr_Doom_running-around-all-bloody-hell\Dr_Doom_pkt_2017-1-23_1485238282_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\Dr_Doom_Random_Running_Around\pkt_2017-1-28_1485653282_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\Dr_Doom_Random_Running_Around\pkt_2017-1-28_1485658855_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\Dr_Doom_Random_Running_Around\pkt_2017-1-28_1485658855_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\Dr_Doom_Random_Running_Around\pkt_2017-1-28_1485658855_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\Dr_Doom_Random_Running_Around\pkt_2017-1-28_1485658855_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\Dr_Doom_Random_Running_Around\pkt_2017-1-29_1485726334_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\Dr_Doom_Random_Running_Around\pkt_2017-1-29_1485744095_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\Dr_Doom_Random_Running_Around\pkt_2017-1-30_1485833682_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\Dr_Doom_Random_Running_Around\pkt_2017-1-31_1485878975_log.pcap
+
+Partial Exports - Missing appraisal info:
+8006044F:Compass
+80060454:Ring
+8006045C:Aetheria
+8006045D:Aetheria
+86A65285:Gorget
+8006045E:Aetheria
+8006045F:Chevron Cloak
+81893389:Upgraded Ancient Relic Gauntlets
+81893143:Upgraded Ancient Relic Sollerets
+80060434:Ust
+81867263:Upgraded Ancient Relic Leggings
+818743DF:Upgraded Ancient Relic Vestment and Bracers
+81844DEC:Upgraded Ancient Relic Helm
+84421363:Ring
+800603FA:Lo Shoen's Rat Bait
+86B4FB16:Heavy Bracelet
+86EBD9CD:Puffy Shirt
+87A6BFCD:Major Mana Stone
+861C1A45:Heavy Bracelet
+80060430:Gem of Stillness
+800603F9:Jester's Token
+800603FE:Knorr Portal Gem
+800603F8:Crystal of Perception
+800603F3:Bronze Gearknight Gear
+800603F7:Gem of Spectral Force
+800603F2:Polar Ursuin Lair
+800603F1:Adventurer's Token
+800603EF:Vissidal Island Portal Gem
+800603F4:Skipping Stone
+842B6AC8:Upper Insatiable Eater Jaw
+800603ED:Skipping Stone
+87734C8C:Upper Insatiable Eater Jaw
+85D11DD4:Upper Insatiable Eater Jaw
+836E0C40:Upper Insatiable Eater Jaw
+8830CD3F:Upper Insatiable Eater Jaw
+89984353:Upper Insatiable Eater Jaw
+88E30703:Upper Insatiable Eater Jaw
+8A5439ED:Upper Insatiable Eater Jaw
+8AFA9FBD:Upper Insatiable Eater Jaw
+8D25AAA0:Upper Insatiable Eater Jaw
+8C9AA265:Upper Insatiable Eater Jaw
+80060448:Trade Note (250,000)
+80060444:Blighted Mana Crystal
+80060443:Gummy Golem
+80060441:Chocolate Gromnie
+80060442:Gummy Golem
+80060436:Caramel Kukuur
+8006043D:Caramel Kukuur
+8006043C:Caramel Kukuur
+8006043A:Colosseum Coin
+80060439:Small Olthoi Venom Sac
+80060438:Ancient Mhoire Coin
+8006043F:Stamina Philtre
+80060437:Blackmoor's Favor
+80060445:Asheron's Lesser Benediction
+8006043B:Pyre Skeleton Jaw
+80060446:Lightweight Tome
+8123BE73:Promissory Note
+8006043E:Aligned Mana Stone
+80060435:Caramel Kukuur
+8BF3F342:Upper Insatiable Eater Jaw
+80060418:Prismatic Taper
+8006040E:Prismatic Taper
+80060415:Prismatic Taper
+80060419:Prismatic Taper
+8006040B:Heart of the Innocent
+80060411:Mana Scarab
+8006041A:Platinum Scarab
+8006040A:Pyreal Scarab
+80060410:Gold Scarab
+80060405:Diamond Scarab
+8006040F:Silver Scarab
+80060412:Copper Scarab
+8006040D:Iron Scarab
+80060406:Lead Scarab
+80060408:Glittering Crystalline Key
+80060409:Glittering Crystalline Key
+80060407:Splitting Tool
+8560B5FC:Pyreal Pea
+85B4469A:A Large Mnemosyne
+87B77025:Gold Pea
+8006040C:Chorizite
+89E18DF2:Society Gem of Dispelling
+8B3392FD:Prismatic Taper
+85B76527:Major Mana Stone
+80060413:Mana Tonic
+87B55649:Stamina Tonic
+85B779A8:Major Mana Stone
+87AC446D:Major Mana Stone
+87C8962D:Major Mana Stone
+87AE73E6:Major Mana Stone
+88117228:Major Mana Stone
+88118402:Major Mana Stone
+880E33D3:Major Mana Stone
+88117617:Major Mana Stone
+810F2817:Empowered Pauldrons of the Perfect Light
+800603EE:Sprouting Pumpkin Vine
+80060456:Aetheria Mana Stone
+800603F0:Blighted Mana Crystal
+800603FB:Nuhmudira's Bestowment of Quickness
+800603F6:Quest Weapon Coin
+C7E6EE45:Blighted Mana Crystal
+87D3CC6E:Loose Breeches
+8831C358:Pack
+8B8F80FC:Pyreal
+80060461:Focusing Stone
+8006042D:Piercing Baton
+890A7F2A:Pack
+80060462:Paradox-touched Olthoi Wand
+80060431:Frost Sceptre
+868B62CA:Electric Sceptre
+8006046D:Stipend
+C7E84422:Poofy Snowball
+C7E84420:Snowball
+C7E84421:Carrot
+C7E853AC:Copper Pea
+C7E85A46:Crystal Sword
+C7E85C3F:Crystal Fragment
+A59498BC:Gem
+C7E4097E:Iron Pea
+C7E7F4B2:Obsidian Shard
+C7E7F512:Silver Pea
+C7E7F67C:Blue Jewel
+C7E909E8:Lead Pea
+C7E48377:Lucky Gold Letter
+C7E7557C:Blue Jewel
+C7E92927:Gold Tumerok Insignia
+C8303C96:Pack T'thuun
+C8303C97:Strengthened Mana Forge Key
+C82F8FB3:Asheron Mask
+800603FC:Ultimate Singularity Scepter of War Magic
+C82D7CF4:Chicken?
+C840CAAE:Tiny Shard
+C840D7C2:Greater Mana Stone
+80060460:Acid Baton
+C8396C82:Lucky Gold Letter
+C843518C:Cracked Shard
+C8453626:Broken Black Marrow Key
+C7E84B4D:Dodger's Crystal
+80060427:Orb of the Bunny Booty
+C841FEDB:Strengthened Mana Forge Key
+
+Missing Exports - Possessed items that were not found:
+8006046C
+82631A00
+8006046B
+833981D4
+80060417
+8006042F
+8006041D
+80060426
+8006041E
+8006041F
+80060420
+8A0E71DA
+80060421
+80060422
+80060423
+80060425
+80060428
+80060429
+8006042A
+8006042B
+8091FAC6

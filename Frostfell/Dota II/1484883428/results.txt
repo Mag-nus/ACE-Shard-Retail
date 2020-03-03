@@ -1,0 +1,167 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-04-2017\Random-Logs-from-Frostfell-mid-january\pkt_2017-1-19_1484876401_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-04-2017\Random-Logs-from-Frostfell-mid-january\pkt_2017-1-19_1484876401_log.pcap
+
+Partial Exports - Missing appraisal info:
+AC90FF13:Salvage (100)
+AC65A7EA:Salvage (100)
+AC9548B1:Salvage (100)
+AA694343:Salvage (100)
+D979AF1A:Stipend
+AC9562D4:Salvage (100)
+BE7CA508:Salvage (100)
+D8CA94DF:Ice Box
+BE5F98BB:Salvage (100)
+BEBA3DF9:Salvage (100)
+D8CA9688:Frozen Present
+BE5F60CB:Salvage (100)
+BE70EC8A:Salvage (100)
+D9986634:Stone Tablet
+BE785153:Salvage (100)
+BEC0C5F4:Salvage (100)
+D9A6E393:Aged Legendary Key
+BEAA2C85:Salvage (100)
+D8CAA7B4:Wide Breeches
+D985B2A1:Gem
+D904087C:Empyrean Over-robe
+D978F700:Frost Bow
+D979ADCF:Damaged Shadow Blade
+D586A374:Piercing Bow
+DBFCA682:Prismatic Taper
+DAA0EA2B:Aphus Lounging Shirt
+DBEC1916:Dark Monolith
+DBFB93AA:Town Network Portal Gem
+DBFCA714:Silver Scarab
+DBFCA703:Copper Scarab
+D8869233:Fiun Spellcasting Gloves
+8A7B73B4:Salvage (100)
+8A7B73B3:Salvage (100)
+D31E5FC8:Greater Gem of Knowledge
+D31E5FCF:Greater Gem of Knowledge
+DC218957:Sdolin Buk!
+BD533BA5:Vestiri Over-robe
+DA2A72E6:Lorica Leggings
+D987DE89:Chainmail Sleeves
+DACED5C1:Yoroi Tassets
+B85152DF:Leather Cuirass
+D5ADD2C2:Royal Runed War Bow
+B74A08D8:Olthoi Greaves
+B7994BC7:Celdon Girth
+B74962AB:Olthoi Breastplate
+D96E377D:Frost Bow
+DBFC9F5E:Pyreal
+D97E7320:Sedgemail Leather Sleeves
+D964DCD7:Platemail Sleeves
+D5C9F5B0:Frost Bow
+D82EF404:Shortbow
+D97B2FBE:Smock
+D2FDBCDB:Coarse Hide Shirt
+DAA283C9:Aphus Wading Pants
+DA2A7184:White Jewel
+DABE0BA0:Fire K'nath Essence (180)
+D902BFE8:A Huge Lump of Coal
+D63CA31A:Rare Red Pack Idol
+DAB99858:Rare Pink Pack Idol
+CDE2C41A:Loose Pants
+DB006652:Quill of Benevolence
+DC2C4A29:Burning Coal
+B7494DB5:Olthoi Tassets
+D9906581:A Huge Lump of Coal
+D225D7E3:Lace Shirt
+DC30FFAA:Empty Bottles
+BD2CA3F5:Pack Bael'Zharon
+BD2CA494:Katar
+BD2CA3D6:Acid Nekode
+BD268B26:Flaming Cestus
+BD2CA390:Lightning Cestus
+BD2A1301:Flaming Cestus
+AB3F15C1:Salvage (100)
+AB3D4EB6:Salvage (100)
+AB4109DC:Salvage (100)
+CFF139B9:Small Shard
+AB3D74FE:Salvage (100)
+AB38A26A:Salvage (100)
+BD2A12FE:Flaming Cestus
+BE7BA325:Salvage (100)
+BE8FEF95:Salvage (100)
+D97267EA:Soulrender Arrow
+BD074285:Salvage (100)
+BE84F6C7:Salvage (100)
+DBFCA6E2:Platinum Scarab
+D97B2723:Olthoi Celdon Girth
+D9827FCB:Empyrean Over-robe
+D89319F5:Intricate Mukkir Orb
+D55A80B6:Princely Runed War Bow
+DC2ED82F:Empty Bottles
+DAFA8C5E:Salvage (100)
+D818EAC5:Salvage (100)
+BD2CA488:Cestus
+DBF27744:Empty Bottles
+D8CAAFAA:Trade Note (250,000)
+DBFB5CB2:Foci of Artifice
+DBF0AC92:Empty Bottles
+DB66B2CE:Hieromancer's Orb
+DC30FFC0:Empty Bottles
+DC263E63:Labyrinthine Necklace
+DC264181:Adjanite Gem
+DB3F219F:Obsidian Dagger
+DBF7637D:Shield of Isin Dule
+DC255358:Salvaged  (100)
+DC25A82D:Brown Beans
+DC240167:Moarsmuck
+DC29F11F:Hunter's Stock Amber
+DC18537A:Horned Helm
+DC18552E:Platemail Pauldrons
+DC1A7F24:Platemail Vambraces
+DC1A7F1C:Platemail Girth
+DC1855C0:Platemail Greaves
+DC180DE4:Platemail Tassets
+DB640BEF:Berimphur Plant
+DB60F20D:Argenory Plant
+DA5A25D5:Colban Plant
+DA5949DA:Hennacin Plant
+DC2B7DFC:Mortar and Pestle
+DC2CAD9A:Crushed Argenory Plant
+DC2B0183:Empty Bottles
+D0B52A99:Imbue Swap Coin
+DC2C9F5D:Water
+DC1847C0:Sollerets
+D021D1F5:Celdon Leggings
+DC310031:Empty Bottles
+D05F0754:Celdon Girth
+D0561B37:Celdon Sleeves
+DC2A7E0D:Frying Pan
+D1A1C840:Celdon Breastplate
+DBFD9A63:Platemail Gauntlets
+DC30FFDF:Empty Bottles
+DACC69B7:Salvager's Helm
+DC1857FD:Platemail Breastplate
+DC30FFCA:Empty Bottles
+DBAE7B99:Duelist's Jewel
+DC30FFC6:Empty Bottles
+DB65CE74:Globe of Auberean
+DC50F882:Bobo's Stout
+DC2065B5:Brewmaster's Bible
+DC1D956C:Pyreal Nugget
+DC1D94FA:Pyreal Sliver
+DC2F1EAA:Baking Pan
+DC2F1B72:Amber Barley
+DB6104F4:Tusker Spit
+DC1D1249:Burning Coal
+DC1B4F9C:Slice of Royal Wedding Cake
+B4A44D71:Burning Coal
+B5D53905:Encapsulated Spirit
+DB649FE0:Verdalim Plant
+DC018B1B:Dark Shard
+DB2783F4:Pyreal Mote
+DB4D6678:Shadow Fragment
+DAB25FB8:Pyreal Bar
+D0B52AA7:Gem of Brilliance
+DA864854:Quintessence Sickle
+D0B52ABB:Chorizite
+D6AD851E:Salvage (100)
+DC685FC7:Atuakeh Dust
+
+Missing Exports - Possessed items that were not found:

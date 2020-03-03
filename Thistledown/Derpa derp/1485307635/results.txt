@@ -1,0 +1,28 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-24-2017-pkt_2017-1-24_1485307505_log\pkt_2017-1-24_1485307505_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-24-2017-pkt_2017-1-24_1485305851_log\pkt_2017-1-24_1485305851_log.pcap
+
+Partial Exports - Missing appraisal info:
+AB7E3FFB:Pathwarden Token
+AB845268:Letter From Home
+AB845260:Bread
+AB81D9B4:Asheron's Benediction
+AB84528C:Leather Cap
+AB7E3F1B:Leather Leggings
+AB81D9CA:Leather Gauntlets
+AB845240:Academy Library Key
+AB7E3EEF:Academy Coat
+AB845254:Some Changes for February 2012
+AB845274:Blackmoor's Favor
+ABA4C935:Imbue Swap Coin
+AB7E3EF9:Academy Dirk
+
+Missing Exports - Possessed items that were not found:
+AB81DA3C
+AB845235
+AB845255
+AB7E4015
+AB7E3EEE
+AB845241

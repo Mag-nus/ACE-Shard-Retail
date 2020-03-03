@@ -1,0 +1,107 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\gdrive (tfarley)\Zoishe\sparking stone\pkt_2017-1-30_1485756135_log.pcap
+
+Partial Exports - Missing appraisal info:
+8069EBEE:Foci of Artifice
+8069EBEF:Foci of Verdancy
+8069EBF0:Foci of Strife
+8069EBF1:Foci of Enchantment
+8069EBF2:Pack
+8069EBF3:Lead Pea
+8069EBF4:Iron Scarab
+8069EBF5:Copper Scarab
+8069EBF6:Diamond Scarab
+8069EBF7:Silver Scarab
+8069EBF8:Gold Pea
+8069EBF9:Iron Pea
+8069EBFA:Copper Pea
+8069EBFB:Platinum Scarab
+8069EBFC:Ust
+8069EBFD:Lead Scarab
+8069EBFE:Pyreal Scarab
+8069EBFF:Silver Pea
+8069EC00:Pyreal Pea
+8069EC01:Gold Scarab
+8069EC02:A Small Mnemosyne
+8069EC03:Southern Quiddity Fragment
+8069EC04:Golden Key
+8069EC07:Intricate Carving Tool
+8069EC08:Pack
+8069EC09:Bunch of Nanners
+8069EC11:Ring
+8069EC15:Prismatic Taper
+8069EC16:Silver Scarab
+8069EC17:Pyreal Scarab
+8069EC19:Pack
+8069EC1D:Nariyid Gauntlets
+8069EC63:Tipped Pack Cow
+8069EC1E:Knorr Academy Greaves
+8069EC1F:Acid Knife
+8069EC2B:A Small Mnemosyne
+8069EC20:Coalesced Aetheria
+8069EC21:Chevron Cloak
+8069EC2F:Great Mana Charge
+8069EC22:Cloak
+8069EC23:Bael'Zharon Stamp
+8069EC29:Blackmoor's Favor
+8069EC24:Suikan Robe
+8069EC25:Kireth Gown with Band
+8069EC27:Gem of Stillness
+8069EC28:Sceptre
+8069EC30:High Mana Charge
+8069EC2C:Orb
+8069EC2D:Shoyanen's Portal Gem
+8069EC36:A Small Mnemosyne
+8069EC33:Tunic
+8069EC34:Ring
+8069EC5A:Some Changes for February 2012
+8069EC37:Horned Helm
+8069EC38:Ring
+8069EC61:Life Magic Gem of Enlightenment
+8069EC39:Bracelet
+8069EC3B:Circlet
+8069EC3D:Teardrop Crown
+8069EC3F:Heavy Bracelet
+8069EC40:Suikan Robe
+917A01E2:Agent of Arcanum List
+8069EC41:Acid Baton
+B39F53C5:Stipend
+8069EC44:Acid Claw
+8069EC45:Acid Claw
+8069EC46:Knuckles
+8069EC2A:Taulandoi
+8069EC49:Light Weapons Specialist's Gauntlets
+8069EC4B:Teardrop Crown
+8069EC4C:Chainmail Basinet
+8069EC4D:Acid Bow
+8069EC4E:Shoes
+8069EC4F:Ring
+8069EC50:Ring
+8069EC51:Ring
+8069EC52:Ring
+8069EC57:Diforsa Tassets
+8069EC58:Studded Leather Bracers
+8069EC59:Staff
+8069EC5C:Helmet
+8069EC5D:Quest Weapon Coin
+8069EC5E:Salvaged  (39)
+8069EC5F:Salvaged  (15)
+8069EC66:Staff
+8069EC67:Staff
+8069EC6A:Sollerets
+8069EC6B:Ring
+8069EC6C:Platemail Gauntlets
+8069EC6D:Asheron's Supreme Raiment
+8069EC6F:Focusing Stone
+8A7B7474:Salvaged  (100)
+8A7B7473:Salvaged  (100)
+8A7B7470:Salvage (100)
+D4515DD5:Salvage (100)
+DA9F9344:Salvage (100)
+8A7B7472:Salvage (100)
+8A7B7471:Salvage (100)
+8A7B7475:Salvaged  (100)
+8069EC64:Bael'Zharon Flag
+8069EC5B:Wand
+
+Missing Exports - Possessed items that were not found:

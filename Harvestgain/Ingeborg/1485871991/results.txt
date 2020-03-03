@@ -1,0 +1,76 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2-20170203071709\pkt_2017-1-31_1485871979_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps-20170203071513\pkt_2017-1-25_1485363128_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps-20170203071513\pkt_2017-1-27_1485514690_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps-20170203071513\pkt_2017-1-27_1485521556_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps-20170203071513\pkt_2017-1-27_1485524749_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485764258_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2-20170203071709\pkt_2017-1-28_1485614713_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2-20170203071709\pkt_2017-1-29_1485678268_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2-20170203071709\pkt_2017-1-29_1485678268_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2-20170203071709\pkt_2017-1-29_1485688887_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2-20170203071709\pkt_2017-1-30_1485768319_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2-20170203071709\pkt_2017-1-30_1485768319_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2-20170203071709\pkt_2017-1-31_1485850098_log.pcap
+
+Partial Exports - Missing appraisal info:
+801A95D3:Foci of Artifice
+801A95D4:Foci of Verdancy
+801A95D5:Foci of Enchantment
+801A95D8:Teardrop Crown
+801A95E0:Circlet
+801A95E2:Diadem
+801A95E4:Coronet
+801A95E5:Diadem
+801A95DF:Teardrop Crown
+801A95F2:Gem of Stillness
+C837693C:Pyreal
+801A95F4:Gem of Purity
+801A95F6:Renegade Pendant
+801A95F7:Bracelet of Passage
+801A95F9:Small Olthoi Venom Sac
+801A95FA:Ancient Mhoire Coin
+801A95FB:Colosseum Coin
+801A95FC:A'nekshay Token
+801A95FD:Ornate Gear Marker
+801A9600:The Healer's Heart
+801A961D:Ust
+801A95F5:Ring of the Whispering Blade
+C74002E4:Gem of Purity
+C746C74B:Gem of Stillness
+801A9604:Vissidal Island Portal Gem
+801A9605:Diamond Scarab
+801A9606:Pyreal Scarab
+801A9607:Gold Scarab
+801A9608:Copper Scarab
+801A9609:Iron Scarab
+801A960A:Silver Scarab
+801A960B:Lead Scarab
+801A960F:Shoyanen's Portal Gem
+8121BB30:Little Green Seeds
+C817551E:Prismatic Taper
+801A9610:Splitting Tool
+C817551F:Prismatic Taper
+C863570E:Little Green Seeds
+C863556D:Little Green Seeds
+B466C43F:Wrapped Bundle of Arrowshafts
+B46F0825:Wrapped Bundle of Deadly Lightning Arrowheads
+801A962D:Piercing Bow
+C8613F6D:Greater Mana Stone
+C8613865:Moderate Mana Stone
+C86100C0:Scarlet Red Letter
+C8632600:Greater Mana Stone
+C855591F:Lucky Gold Letter
+C861E909:Scarlet Red Letter
+C8650632:Scarlet Red Letter
+C861EEFD:Scarlet Red Letter
+C85F5C1D:Moderate Mana Stone
+C856A22C:Deadly Fire Arrow
+C866C0A2:Aphus Lassel Portal Gem
+C862977C:Moderate Mana Stone
+C8629876:Mana Stone
+C851ED1F:Gold Shallows Shredder Fin
+
+Missing Exports - Possessed items that were not found:

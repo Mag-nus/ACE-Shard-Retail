@@ -1,0 +1,218 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\trello_datamining\1_Ridley-01-30-2017-olthoi-horde-nest-bandit-castle\pkt_2017-1-29_1485744527_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ridley-01-30-2017-olthoi-horde-nest-bandit-castle\pkt_2017-1-29_1485744527_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ridley-01-30-2017-olthoi-horde-nest-bandit-castle\pkt_2017-1-29_1485744527_log.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\194_Ridley-Amanah-Final-Random-2\pkt_2017-1-29_1485744527_log.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\194_Ridley-Amanah-Final-Random-2\pkt_2017-1-29_1485744527_log.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\1_Ridley-01-30-2017-olthoi-horde-nest-bandit-castle\pkt_2017-1-29_1485744527_log.pcap
+
+Partial Exports - Missing appraisal info:
+ABD31B46:Pyreal
+ABD31B20:Sack
+ABD31B28:Salvage
+ABD31B0D:Covenant Pauldrons
+ABD0DC34:Covenant Breastplate
+ABD31B18:Great Mana Charge
+ABD319C4:Covenant Bracers
+ABD31B45:Studded Leather Cuirass
+ABD31B1F:Chiran Gauntlets
+ABD31B57:Qafiya
+ABD31B34:Helmet
+ABD31B3C:Salvage (100)
+ABD31B33:Salvage (100)
+ABD31B70:Calling Stone
+ABD31B27:Salvage (100)
+ABD31B60:Salvage (100)
+ABD31B1A:Pathwarden Trinket
+ABD31B44:Salvage (100)
+ABD31B1E:Salvage (100)
+ABD31B1B:Pack
+ABD31B56:Salvage (100)
+ABD31B3B:Salvage (100)
+ABD31B3A:Worn Strange Key
+ABD31B32:Salvage (100)
+ABD31B26:Salvage (100)
+ABD31B31:Worn Small Key
+ABD31B5F:Salvage (100)
+ABD31B43:Salvage (100)
+ABD31B5E:A silvery, mysterious key
+ABD31B3D:Celdon Breastplate
+ABD31B58:Celdon Breastplate
+ABD31C1E:Stipend
+ABD31B05:Amuli Leggings
+ABD31B68:Asheron's Benediction
+ABD31B42:Worn Plain Key
+ABD31B15:Oil of Rendering
+ABD31B16:Oil of Rendering
+ABD31B1C:Chainmail Bracers
+ABD31B17:Facility Hub Portal Gem
+ABD31B1D:Chiran Helm
+ABD31B6F:Worn Old Key
+ABD31B55:Trimmed Cloak
+ABD31B67:Worn Rusty Key
+ABD31B54:Worn Odd Key
+ABD31B39:Pack
+ABD31B30:Glyph of Corrosion
+ABD31B4A:Pack
+ABD31B5D:Glyph of Summoning
+ABD31B41:Glyph of Life Magic
+ABD31B6E:Glyph of Armor Tinkering
+ABD31B66:Glyph of Loyalty
+ABD31B53:Glyph of Mana Conversion
+ABD31B38:Glyph of Healing
+ABD31B5C:Glyph of Creature Enchantment
+ABD31B40:Glyph of Heavy Weapons
+ABD31B6D:Glyph of Arcane Lore
+ABD31B65:Glyph of Lightning
+ABD31B52:Glyph of Mana Regeneration
+ABD31B5B:Glyph of Missile Weapons
+ABD31B4C:Glyph of Frost
+ABD31B48:Glyph of Melee Defense
+ABD31C2D:Glyph of Salvaging
+ABD31B7C:Glyph of Missile Defense
+ABD31B6C:Glyph of Leadership
+ABD31B64:Glyph of Shield
+ABD31B51:Glyph of Run
+ABD31B5A:Glyph of Weapon Tinkering
+ABD31B49:Glyph of Stamina Regeneration
+ABD31B4B:Quill of Infliction
+ABD31B4D:Quill of Benevolence
+ABD31B4E:Ink of Direction
+ABD31B4F:Ink of Conveyance
+ABD31B50:Ink of Nullification
+ABD31B7B:Ink of Formation
+ABD31B6B:Ink of Partition
+ABD31B63:Ink of Objectification
+ABD31B84:Ink of Separation
+ABD31B62:Alacritous Ink
+ABD31B59:Quill of Extraction
+ABD31B7A:Quill of Introspection
+ABD31B83:Parabolic Ink
+ABD31B6A:Introspective Quill of Objectification
+ABD31B79:Pack
+ABD31B69:Glyph of Two Handed Combat
+ABD31B61:Glyph of Dual Wield
+ABD31B82:Glyph of Mana
+ABD31B78:Glyph of Focus
+ABD31B97:Glyph of Sneak Attack
+ABD31C52:Glyph of Monster Appraisal
+ABD31B81:Glyph of Slashing
+ABD31B72:Glyph of Quickness
+ABD31C5B:Glyph of Item Tinkering
+ABD31B77:Glyph of Piercing
+ABD31B9F:Glyph of Health
+ABD31B96:Glyph of Damage
+ABD31B74:Glyph of Finesse Weapons
+ABD31B80:Glyph of Void Magic
+ABD31B9E:Glyph of Magic Item Tinkering
+ABD31B76:Glyph of Fletching
+ABD31BA7:Glyph of Lockpick
+ABD31B95:Glyph of Person Appraisal
+ABD31B7F:Glyph of Nether
+ABD31B75:Glyph of Recklessness
+ABD31BA6:Glyph of Deception
+ABD31B9D:Glyph of Jump
+ABD31B94:Glyph of Stamina
+ABD31B7E:Glyph of Light Weapons
+ABD31B9C:Pack
+ABD31BA5:Flaming Lugian Hammer
+ABD31B93:Fire Trident
+ABD271F0:Frost Mace
+ABD31B7D:Lightning Stick
+ABD31B85:Flaming Tachi
+ABD31BAF:Flaming Takuba
+ABD31BA4:Flamberge
+ABD31B9B:Lightning Takuba
+ABD31B92:Flamberge
+ABD31BB7:Long Sword
+ABD31BAE:Pack
+ABD31BC7:Ken
+ABD31BBF:Acid Stick
+ABD31C9F:Dirk
+ABD31BD3:Mace
+ABD31BF0:Armet
+ABD31BD2:Trident
+ABD31BC6:Flaming Stick
+ABD31BB6:Flaming Morning Star
+ABD31B8D:Blackmoor's Favor
+ABD31BF6:Diamond Shield
+ABD31B8E:Covenant Bracers
+ABD31BDD:Olthoi Celdon Breastplate
+ABD31BA2:Studded Leather Greaves
+ABD31BB5:Heavy Bracelet
+ABD31BD4:Loose Tunic
+ABD31BC5:Olthoi Koujia Kabuton
+ABD31BBD:Shoes
+ABD31B98:Studded Leather Girth
+ABD31BDC:Chainmail Girth
+ABD31BAC:Ring
+ABD31C0E:Celestial Hand Initiate's Handbook
+ABD31BA1:Knorr Academy Boots
+ABD31BB4:Chainmail Tassets
+ABD31BC4:Olthoi Girth
+ABD31BBC:Diforsa Breastplate
+ABD31BAB:Chainmail Gauntlets
+ABD31BDB:Heavy Bracelet
+ABD31BED:Principles of the Celestial Hand
+ABD31BA0:Ring
+ABD31BF8:Heavy Bracelet
+ABD31BAA:Hood
+ABD31BB3:Flared Tunic
+ABD31BC3:Olthoi Koujia Gauntlets
+ABD31BBB:Wide Breeches
+ABD31BEF:Flared Pants
+ABD31C02:Ring
+ABD31BDA:Cloth Gloves
+ABD31BF7:Gorget
+ABD31BC2:Baggy Breeches
+ABD31BB2:Heavy Bracelet
+ABD31BEE:Trousers
+ABD31BBA:Heavy Bracelet
+ABD31C0F:Aetheria
+ABD31C01:Aetheria
+ABD31BD9:Aetheria
+ABD31BA9:Ancient Relic Gauntlets
+ABD31BB1:Cloth Gloves
+ABD31BB9:Jack of Eyes
+ABD31C15:Leather Shorts
+ABD31BC1:Heavy Bracelet
+ABD31C00:Seven of Hands
+ABD31BD8:Studded Leather Basinet
+ABD31BA8:Gloves
+ABD31BB0:Chainmail Sleeves
+ABD31C0D:Ring
+ABD31C14:Tenassa Leggings
+ABD31BF5:Royal Runed Flamberge
+ABD31BC0:Princely Runed Two Handed Corsesca
+ABD31BB8:Princely Runed Arbalest
+ABD31BEC:Yoroi Breastplate
+ABD31BFF:Studded Leather Girth
+ABD31BD7:Yoroi Girth
+ABD31C13:Sedgemail Leather Shoes
+ABD31BF4:Goggles
+ABD31BCC:Turban
+ABD31C0C:Circlet
+ABD31BC8:Flared Shirt
+ABD31BEB:Studded Leather Cowl
+ABD31C1F:Tunic
+ABD31CDC:Heavy Bracelet
+ABD31BFE:Studded Leather Boots
+ABD31BD6:Rose of Celdon
+ABD31BC9:Goggles
+ABD31BCA:Pantaloons
+ABD31BCB:Pants
+ABD31BCD:Heavy Bracelet
+ABD31BCE:Teardrop Crown
+ABD31BCF:Cloth Gloves
+ABD31C12:Ring
+ABD31BD0:Flared Pants
+ABD31CDD:Loose Tunic
+ABD31C27:Pants
+ABD31BF3:Platemail Greaves
+ABD31BEA:Turban
+ABD31BFD:Sandals
+ABD31B19:Pathwarden Robe
+
+Missing Exports - Possessed items that were not found:

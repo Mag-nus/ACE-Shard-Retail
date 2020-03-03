@@ -1,0 +1,24 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-05-2017\AC_Logs_Leafcull_Dark_Noble_SimonF\pkt_2017-1-21_1484976891_log.pcap
+
+Partial Exports - Missing appraisal info:
+DB0F7949:Cloth Cap
+DB0F794D:Pyreal
+DB0F794A:Flared Tunic
+DB0F794B:Loose Pants
+DB0F794F:Ust
+DB0F794C:Shoes
+DB0F794E:Sack
+DB0F7950:Calling Stone
+DB0F7951:Pathwarden Token
+DB0F7953:Training Wand
+DB0F7955:Foci of Artifice
+DB0F7956:Prismatic Taper
+DB0F7957:Lead Scarab
+DB0F7958:Letter From Home
+DB0F7959:Apple
+DB4967A9:Blackmoor's Favor
+DB0F7954:Round Shield
+DB0F7952:Training Knuckles
+
+Missing Exports - Possessed items that were not found:

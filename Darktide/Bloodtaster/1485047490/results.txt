@@ -1,0 +1,11 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-logs\AC logs\pkt_2017-1-22_1485046869_log.pcap
+
+Partial Exports - Missing appraisal info:
+D7E690E0:Olthoi Fibrous Healing Tissue
+D7E690F1:Pitted Slag
+D7E69098:Acidic Infusion
+D7E690A0:Blackmoor's Favor
+D7E690B1:Mana-Infused Jungle Flower
+
+Missing Exports - Possessed items that were not found:

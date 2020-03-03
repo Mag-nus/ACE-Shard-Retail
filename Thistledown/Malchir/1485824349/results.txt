@@ -1,0 +1,34 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-30_1485823052_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-31_1485845020_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-31_1485847511_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Hydroptic_PCAPTXT02_20170131\pkt_2017-1-31_1485855647_log.pcap
+
+Partial Exports - Missing appraisal info:
+AA46ED4B:Sack
+AA46EFA3:Virindi Singularity Key
+AA46ED87:Pyreal
+AA46F1D0:Virindi Singularity Key
+AA46EE7A:Virindi Singularity Key
+AA46EDEF:Virindi Singularity Key
+AA46CCF0:Chorizite
+AA46EFBB:Pyreal Scarab
+AA4513A4:Gold Scarab
+AA46EE57:Lead Scarab
+AA46ED4A:Silver Scarab
+AA46EDF0:Copper Scarab
+AA46ED49:Foci of Strife
+AA46EF22:Pack
+AA46F02F:Pack
+AA46ED92:Foci of Enchantment
+AA46EE02:Foci of Artifice
+AA46EE0E:Foci of Verdancy
+AA46F023:Pack Burun Kukuur
+AA46EE85:Some Changes for February 2012
+AA46F025:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:
+AA46ED85
+AA450BF1

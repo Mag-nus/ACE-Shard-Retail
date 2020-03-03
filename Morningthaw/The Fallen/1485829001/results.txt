@@ -1,0 +1,160 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\TheFallen_MT_01-30-17_GreenMireGrave\TheFallen_MT_01-30-17_GreenMireGrave.pcap
+
+Partial Exports - Missing appraisal info:
+8062D1B8:Blackmoor's Favor
+805F2047:Facility Hub Portal Gem
+805E6CAA:Ust
+8065F305:Habitat Portal Gem
+8065F30E:Crystalline Shard
+8067AF70:Rare Crystalline Shard
+8067AF6E:Pyreal
+805DE08D:Pyre Shroud
+80682392:Antiquated Compass
+80681AD6:Gonjoku's Mana Infusion
+80681AD7:Bracelet
+80681AD5:Ring of the Whispering Blade
+80618C26:Aligned Mana Stone
+8065F31D:Habitat Portal Gem
+80635869:Potion of Endless Vigor
+94A71883:Pyreal
+80621576:Diadem
+805E6E98:Heavy Bracelet
+80682375:Ring
+805DFADA:Blunt Baton
+8062CC79:Lead Scarab
+805DE25E:Iron Scarab
+806357D3:Silver Scarab
+806229DA:Gold Scarab
+8062289C:Pyreal Scarab
+8059405C:Diamond Scarab
+8067E38C:Quest Weapon Coin
+806823B0:Writ of Apology
+805DFBE0:Health Philtre
+805E567D:Stamina Philtre
+805F23DE:Mana Philtre
+8065F303:Intricate Carving Tool
+805DFDF1:Sturdy Steel Keyring
+8065DC83:Platinum Scarab
+8065F301:Copper Scarab
+80622397:Gem of Stillness
+80592720:Mana Scarab
+806823D7:Trade Note (250,000)
+805D7211:Trade Note (100,000)
+8D7A1A96:Prismatic Taper
+8065F30B:Sturdy Iron Keyring
+94B91D52:Prismatic Taper
+ABF35E20:Writ of Refuge
+805C5C83:Foci of Verdancy
+805DE862:Foci of Artifice
+8064429E:Foci of Strife
+806357D5:Foci of Enchantment
+8065E736:Aetheria Powder
+806821B7:Broken Black Marrow Key
+8065E67D:Vial of Organic Acid
+805BACCB:Wand
+805E6D24:Aetheria Mana Stone
+8065C988:First Half of a Worn Bow
+806823DC:Aetheria Powder
+80682357:Pristine Mana Shard
+805DE217:Mutilator Pincer
+8031FD8E:Diadem
+802DA049:Signet Crown
+802D091B:Teardrop Crown
+8030D992:Diadem
+8062D0D4:Circlet
+806823B8:Crown
+805B7C48:Coronet
+80656E95:Crown
+80682356:Electric Sceptre
+805B6D9B:Electric Baton
+94C0974A:Pyreal
+8CA30FB6:Electric Baton
+806823E9:Electric Baton
+94BE4EC6:Pyreal
+80622338:Electric Sceptre
+80617CCE:Major Mana Stone
+80670759:Salvage (5)
+806823E6:Major Mana Stone
+80596F22:Major Mana Stone
+8062135C:Salvage (14)
+8059E6FE:Moderate Mana Stone
+80612CFA:Salvage (18)
+8068235E:Salvage (20)
+805DFD08:Greater Mana Stone
+80682361:Massive Mana Charge
+8068235D:Salvage (71)
+80622845:Aetheria Desiccant
+8D77EB82:Salvage (7)
+8D84E223:Cabalist Drudge Charm
+8D825062:Salvage (54)
+8D6E65BC:Greater Mana Stone
+8D79951D:Major Mana Stone
+8D81EFF3:Greater Mana Stone
+8D845271:Bloodletter Drudge Charm
+8D852D0D:Scarlet Red Letter
+92C6959E:Salvage (100)
+92E7DFDE:Salvage (100)
+A34E8675:Aura of Heartseeker Other VII
+92DE4C95:Salvage (100)
+92E04FDF:Salvage (100)
+92DC2D47:Salvage (100)
+92E3A7B4:Hunter's Crystal
+92E4C8A4:Salvage (100)
+92E6DA7E:Salvage (100)
+92E905E3:Salvage (9)
+92E45943:Salvage (100)
+92D28DE2:Salvage (100)
+92E14BC5:Salvage (100)
+92E8265B:Salvage (100)
+92E8BC6E:Salvage (100)
+92E0AD0E:Salvage (100)
+92E48E27:Salvage (100)
+92E68C9D:Salvage (100)
+92E4901F:Salvage (100)
+8FC0E56C:Salvage (100)
+92D6B72C:Salvage (100)
+92E6CBA7:Salvage (100)
+92E72E8B:Salvage (100)
+92E92B9C:Salvage (100)
+92E7468A:Salvage (100)
+A34A3F31:Alchemist's Crystal
+A34AE4A2:Salvage (100)
+A34B4A4A:Salvage (100)
+A34B49D7:Salvage (100)
+A34B6239:Salvage (100)
+A3486275:Salvage (100)
+A34BB33C:Salvage (100)
+A33E5133:Salvage (100)
+A349D6CC:Salvage (30)
+A34797A9:Salvage (100)
+A34A4735:Salvage (10)
+A34A69B1:Ancient Empyrean Trinket
+A34D3D18:Salvage (45)
+A34D3EB5:Salvage (64)
+A34D501B:Salvage (100)
+A34D4FD3:Salvage (100)
+A34D4E8B:Salvage (49)
+A34D7E32:Salvage (100)
+A34D7E8A:Salvage (100)
+A34AD7BC:Salvage (40)
+A34DEBB6:Salvage (17)
+A34E69A6:Salvage (80)
+A34868D8:Salvage (69)
+A348AF65:Salvage (17)
+A34850F4:Salvage (20)
+A3495D73:Coalesced Aetheria
+A349B676:Salvage (65)
+A3472539:Salvage (39)
+A34EDD5E:Salvage (100)
+A34CD217:Acid Sceptre
+A34CD2C0:Salvage (26)
+A34871D9:Salvage (100)
+A34EFBF4:Salvage (50)
+A34EF927:Crown
+A34A3527:Salvage (59)
+A34A69A0:Diadem
+A34D18D8:Salvage (39)
+A34F2C87:Salvage (18)
+
+Missing Exports - Possessed items that were not found:

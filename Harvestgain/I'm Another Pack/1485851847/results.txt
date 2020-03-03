@@ -1,0 +1,264 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-31-2017-pkt_2017-1-31_1485847270_log\pkt_2017-1-31_1485847270_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-29-2017-pkt_2017-1-29_1485735637_log\pkt_2017-1-29_1485735637_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-31-2017-pkt_2017-1-31_1485847270_log\pkt_2017-1-31_1485847270_log.pcap
+
+Partial Exports - Missing appraisal info:
+C7C432F8:Tunic
+C7C432F9:Wide Breeches
+C7C432FA:Sack
+C7C432FB:Asheron's Benediction
+C7C432FC:Blackmoor's Favor
+C7C432FD:Facility Hub Portal Gem
+C7C432FE:Ust
+C7C432FF:Pyreal
+C7C43300:Bending Willow and Setting Sun
+C7C43301:Slashing Baton
+C7C43303:Fire Staff
+C7C43302:Piercing Baton
+C7C43304:Acid Staff
+C7C43312:Pack
+C7C43305:Piercing Staff
+C7C43306:Acid Staff
+C7C4330B:Bandana
+C7C43307:Cloth Cap
+C7C43308:Necklace
+C7C4330D:Sabra
+C7C43309:Faran Over-robe
+C7C4330A:Frost Hand Wraps
+C7C43317:Snowflower
+C7C4330C:Naginata
+C7C4330E:Jo
+C7C43314:Elysa's Pendant
+C7C4330F:Yaoji
+C7C43310:Stick
+C7C43315:Bloodied Burun Hide
+C7C43311:Flaming Lugian Hammer
+C7C43313:Dansha-Ki's Gem of Portal Recall
+C7C43327:Ust
+C7C43316:Ancient Arbalest
+C7C43318:Rogue's Crystal
+C7C43325:Falling Leaves
+C7C43319:Mid-Stakes Gambling Token
+C7C4331C:Salvage
+C7C4331D:Salvage
+C7C4331B:Tipped Pack Cow
+C7C4331E:Salvage
+C7C4331F:Sturdy Iron Key
+C7C43320:Sturdy Iron Key
+C7C43321:Sturdy Iron Key
+C7C43322:Salvage
+C7C43324:Scroll of Tusker's Bane
+C7C433FA:Coalesced Aetheria
+C7C433F8:Quartered Cloak
+C7C433F9:Bordered Cloak
+C7C43326:Sack
+C7C43328:Scroll of Lhen's Flare
+C7C43329:Sturdy Iron Key
+C7C4332A:Scroll of Alset's Coil
+C7C4332B:Scroll of Fiery Blessing
+C7C4332C:Sturdy Iron Key
+C7C4332D:Scroll of Lightning Arc VII
+C7C4332E:Sturdy Iron Key
+C7C4332F:Scroll of Heavy Weapon Mastery Self VII
+C7C43330:Scroll of Dual Wield Mastery Self VII
+C7C43331:Sturdy Iron Key
+C7C43334:Cabalist Charm Necklace
+C7C43335:Gem of Stillness
+C7C43336:Scroll of Recklessness Mastery Self VII
+C7C4333A:Scroll of Aliester's Blessing
+C7C43338:Chiran Gauntlets
+C7C43339:Sanguinary Aegis
+C7C433FB:Bracelet
+C7C433FE:Empyrean Over-robe
+C7C433FC:Flared Pants
+C7C433FD:Olthoi Shield
+C7C4333D:Goggles
+C7C43344:Olthoi Head
+C7C4333E:Bracelet
+C7C4333F:Scroll of Void Mastery Self VII
+C7C43341:Plentiful Healing Kit
+C7C43342:Academy Light Crossbow
+C7C43343:Minalim Plant
+C7C433BC:Tumerok
+C7C43345:Dark Revenant Thighbone
+C7C43346:Second Half of a Worn Cestus
+C7C43347:Bloodletter Drudge Charm
+C7C43348:Nether Sceptre
+C7C43349:Nether Sceptre
+C7C4334C:Obsidian Shard
+C7C4334A:Ring
+C7C4334B:Olthoi Stamp
+C7C4334D:Sturdy Steel Key
+C7C4334E:Argenory Plant
+C7C4334F:Thorsten's Crystal
+C7C43356:Diamond Powder
+C7C43350:Second Half of a Worn Staff
+C7C43352:Decanter of Essence
+C7C43353:Scroll of Eradicate Life Magic Self
+C7C43354:Lapyan Plant
+C7C43355:Tethana Manifesto
+C7C43358:Heavy Necklace
+C7C43357:Fletcher's Crystal
+C7C43359:Thorsten's Crystal
+C7C4335A:Replica of a Tursh Totem
+C7C4335B:Scarlet Red Letter
+C7C4335C:Scarlet Red Letter
+C7C4335D:Flaming Nodachi
+C7C4335F:Obsidian Shard from Aerbax
+C7C43360:Obsidian Shard from Aerbax
+C7C43361:Gharu'ndim Arm
+C7C43362:Coral Heart
+C7C43363:Coral Heart
+C7C43364:Sturdy Iron Key
+C7C43365:Crystalline Shard
+C7C43366:Virindi Stamp
+C7C43367:Salvage (4)
+C7C43368:Sturdy Iron Key
+C7C43369:Sturdy Iron Key
+C7C4336A:Deceiver's Crystal
+C7C4336B:Replica of a Tursh Totem
+C7C4336C:Sturdy Iron Key
+C7C4336D:Vestiri Over-robe
+C7C43370:Frost Nodachi
+C7C433E0:Idol
+C7C43371:Scroll of Missile Weapon Mastery Self VII
+C7C43372:Salvage
+C7C43373:Salvage
+C7C43374:Sturdy Iron Key
+C7C43376:Scroll of Nether Streak VII
+C7C4337A:Thief's Crystal
+C7C43375:Tipped Pack Cow
+C7C43377:Enchanter's Crystal
+C7C433E1:Pyreal
+C7C4337C:Lightning Claw
+C7C4337D:Imbue Swap Coin
+C7C43399:Empyrean Spherule
+C7C4337F:The Healer's Heart
+C7C43380:Diamond Shield
+C7C43381:Pack
+C7C43382:Scalemail Coif
+C7C43384:Cloth Gloves
+C7C43383:Olthoi Koujia Sollerets
+C7C43385:Shirt
+C7C433E2:Pyreal
+C7C43386:Diadem
+C7C43387:Olthoi Celdon Sleeves
+C7C433B4:Renegade Herbal Kit
+C7C43388:Ring
+C7C43389:Leather Boots
+C7C433E3:Pyreal
+C7C4338A:Olthoi Celdon Sleeves
+C7C4338B:Blunt Staff
+C7C433BB:Fiun Head
+C7C4338C:Slashing Baton
+C7C4338D:Frost Sceptre
+C7C433B5:Renegade Herbal Kit
+C7C4338E:Electric Sceptre
+C7C4338F:Piercing Sceptre
+C7C4339A:Pack
+C7C43390:Frost Baton
+C7C43391:Blunt Sceptre
+C7C433B3:Pack
+C7C43392:Slashing Baton
+C7C43393:Slashing Sceptre
+C7C433C4:Scroll of Gossamer Flesh
+C7C43394:Blunt Baton
+C7C43395:Slashing Baton
+C7C433CC:Scroll of Raven Fury
+C7C43396:Fire Bow
+C7C43397:Nekode
+C7C433CD:Scroll of Raven Fury
+C7C43398:Frost Mace
+C7C4339B:Glyph of Finesse Weapons
+C7C433E4:Pyreal
+C7C4339C:Coalesced Aetheria
+C7C4339D:Olthoi Koujia Gauntlets
+C7C433CE:Scroll of Raven Fury
+C7C4339E:Yoroi Cuirass
+C7C4339F:Chevron Cloak
+C7C433CF:Scroll of Raven Fury
+C7C433A0:Empyrean Over-robe
+C7C433A1:Pantaloons
+C7C433E5:Pyreal
+C7C433A2:Slashing Staff
+C7C433A3:Khanda-handled Mace
+C7C433E7:Pyreal
+C7C433A4:Heavy Necklace
+C7C433A5:Faran Over-robe
+C7C433D0:Scroll of Raven Fury
+C7C433A6:Studded Leather Girth
+C7C433A7:Corruptor's Crystal
+C7C433A8:Koujia Breastplate
+C7C433A9:Loafers
+C7C433D1:Scroll of Raven Fury
+C7C433AA:Tunic
+C7C433AB:Ring
+C7C433B8:Greater Mana Kit
+C7C433AC:Dho Vest and Over-Robe
+C7C433AD:Knorr Academy Breastplate
+C7C433AE:Glyph of Fletching
+C7C433AF:Haebrean Gauntlets
+C7C433D7:Floating Candle
+C7C433B0:Haebrean Tassets
+C7C433B1:Jo
+C7C433BA:Greater Mana Kit
+C7C433B2:Electric Compound Crossbow
+C7C433B6:Golden Gromnie
+C7C433E8:Pyreal
+C7C433B7:Golden Gromnie
+C7C433B9:Greater Stamina Kit
+C7C433BD:The Orphanage
+C7C433BE:Quartered Cloak
+C7C433BF:Circlet
+C7C433C6:Lightning Takuba
+C7C433C0:Claw
+C7C433C1:Mechanical Scarab
+C7C433D5:Colosseum Ticket
+C7C433C2:Ring
+C7C433C3:Baggy Breeches
+C7C433CB:Pack
+C7C433C5:Heavy Bracelet
+C7C433C7:Heavy Bracelet
+C7C433C8:Chainmail Hauberk
+C7C433C9:Covenant Bracers
+C7C433E9:Pyreal
+C7C433CA:Frost Khanda-handled Mace
+C7C433D2:Festival Shirt
+C7C433D4:Pack Scarecrow
+C7C433D6:Olthoi Amuli Gauntlets
+C7C433D8:Hood
+C7C433D9:Covenant Helm
+C7C433DA:Heavy Bracelet
+C7C433DB:Lyceum Hood
+C7C43402:Stipend
+C7C433DC:Nariyid Helm
+C7C433DD:Olthoi Alduressa Leggings
+C7C433DE:Pants
+C7C433DF:Flaming Stick
+C7C433EA:Perfect Shimmering Isparian Staff
+C7CED808:Sturdy Iron Key
+C7C433EB:Cowl
+C7C433EC:Studded Leather Cuirass
+C7C433ED:Olthoi Alduressa Coat
+C7C433EE:Ring
+C7C433EF:Diforsa Sollerets
+C7C433F0:Slashing Compound Bow
+C7C10877:Sturdy Iron Key
+C7C433F1:Covenant Pauldrons
+C7C433F2:Lightning Yaoji
+C8656EDA:Promissory Note
+C7C433F3:Blunt Bow
+C7C433F4:Trousers
+C7C433F5:Smock
+C7C433F7:Trimmed Cloak
+C7C433FF:Haebrean Girth
+C7C43400:Studded Leather Gauntlets
+C7C43401:Olthoi Alduressa Gauntlets
+C7CED3CC:Salvage
+C7CDE3C5:Salvage
+C7D28EE1:Salvage
+
+Missing Exports - Possessed items that were not found:

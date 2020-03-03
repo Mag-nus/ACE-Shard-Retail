@@ -1,0 +1,264 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-30-to-1-31\Bliz 1-30 to 1-31\pkt_2017-1-31_1485880400_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-24-to-1-29\Bliz 1-24 to 1-29\pkt_2017-1-26_1485467087_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-24-to-1-29\Bliz 1-24 to 1-29\pkt_2017-1-27_1485550328_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-24-to-1-29\Bliz 1-24 to 1-29\pkt_2017-1-25_1485385034_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-30-to-1-31\Bliz 1-30 to 1-31\pkt_2017-1-30_1485834321_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-24-to-1-29\Bliz 1-24 to 1-29\pkt_2017-1-25_1485402415_log.pcap
+
+Partial Exports - Missing appraisal info:
+805BD236:Pack
+805BD235:Caulnalain Portal Gem
+805A5EFB:Grave Robber Title Token
+805A5F25:Old Stamped Shoushi Scarlet Red Letter
+80593758:Greeter's Key
+805A5ED3:Untranslated Page #20
+805DA76C:Sturdy Iron Key
+805BD3A3:Carved Gemstone Lockpicks
+805DA758:Carved Gemstone Lockpicks
+805DA757:Embroidered Bag
+805DA756:Embroidered Bag
+805DA754:Peerless Lockpick
+805DA753:Peerless Lockpick
+805DA752:Peerless Lockpick
+805DA764:Ust
+805DA763:Ring of the Whispering Blade
+805DA762:Hyssop
+862C6888:Renegade Herbal Kit
+8623119A:Renegade Herbal Kit
+8C18C47A:Rynthid Tentacle Bow
+9245F8CC:Rynthid Tentacle Bow
+811301CE:Chiran Helm
+805DA821:Iolite Gem
+8804108B:Empyrean Robe
+8801341E:Quill of Infliction
+805DA768:Virindi Master Key
+805D56BC:Staff of Aerfalle
+805DA75A:Pack
+805DA759:Buadren
+805DA767:Aerfalle's Pallium
+805DA766:Sword of Frozen Fury
+805DA780:Untranslated Page #20
+805D5C3B:Palenqual's Ukira of the Vortex
+804EE542:Raudaloi
+805BD335:Greater Mana Kit
+805BB9EF:Greater Mana Kit
+805BD334:Mortar and Pestle
+8056C0EE:Aqua Incanta
+805BD35E:Neutral Balm
+805BD333:Concentrated Aqua Incanta
+804BC0B3:Alembic
+805BD251:Empowered Girth of the Perfect Light
+805BD250:Empowered Helm of the Perfect Light
+805DA773:Snowflower
+805BD35F:Replica BloodScorch
+805BC7AD:Silifi of Crimson Night
+805DA7E9:Aerbax Mask Shard
+805DA7B6:Small Olthoi Venom Sac
+805DB04F:Aerbax Mask Shard
+805DA7F0:Jester's Token
+8866000F:Offering to Xik Minru
+805BD24F:Pack
+805BD24E:Prismatic Taper
+805A5F17:Sturdy Iron Key
+805BC1EC:Sturdy Iron Key
+805DA776:Completed Advanced Sword Skill Puzzle
+805DA775:Sturdy Steel Key
+805DA772:Gem of Balance
+805DA771:Repugnant Eater Ripper Plaque
+805DA774:Pack Idol
+805DA770:Gold Scarab
+805DA76F:Pyreal Scarab
+805DA76E:Platinum Scarab
+805DA84B:Copper Scarab
+805DA84E:Silver Scarab
+805D5678:Iron Scarab
+805D5679:Diamond Scarab
+8998B72B:Rynthid Sorcerer of Torment's Mask
+899C2243:Burning Sands Keyring
+A6BC4DAE:Chainmail Pauldrons
+8A772878:Rynthid Tentacle Dagger
+805A6105:Pyre Shroud
+8804512E:Glyph of Slashing
+805DA7F6:Apostate Excavation Master's Orders
+805DA804:Aetherium Power Core
+AA6F7609:Shadow Fragment
+805DA7AE:Pack
+805DA7B0:Copper Pea
+805DA7B1:Silver Pea
+805DA7B2:Iron Pea
+805DA77C:Gold Pea
+805DA77B:Battle Pants
+805DA77A:Battle Pants
+805DA779:Battle Pants
+805DA778:Battle Pants
+805DA777:Battle Pants
+805BD359:Massive Mana Charge
+8058568F:Massive Mana Charge
+805D5697:Massive Mana Charge
+805D5698:Massive Mana Charge
+805D5699:Massive Mana Charge
+805DA789:Massive Mana Charge
+805DA788:Massive Mana Charge
+805DA787:Massive Mana Charge
+805DA786:Massive Mana Charge
+805DA785:Massive Mana Charge
+805DA783:Massive Mana Charge
+81134708:Verdigris Pigmentation Apparatus
+805D56A1:Lightweight Tome
+805DA781:Major Prismatic Stone
+805D56A2:Asheron's Benediction
+805D56A0:Blackmoor's Favor
+805DA883:Blackmoor's Favor
+805DA793:Glenden Wood Militia Title Token
+805DA792:Glenden Wood Recall Orb
+805DA791:Gem of Stillness
+805DA790:Aphus Lassel Portal Gem
+805DA78C:Lesser Stamina Kit
+805DA78F:Pack
+805DA78E:Elaborate Field Rations
+805DA78B:Circlet of Shielding
+805DA78D:Gem of Purity
+805DA79C:Blank Augmentation Gem
+805DA79B:Blank Augmentation Gem
+805DA79A:Blank Augmentation Gem
+805DA799:Blank Augmentation Gem
+805DA798:Blank Augmentation Gem
+805DA797:Blank Augmentation Gem
+805DA795:Blank Augmentation Gem
+805DA796:Eldrytch Web Tower Shield
+8B87B709:Rynthid Tentacle Mace
+A6BAE4CC:Rynthid Tentacle Mace
+805DA7B4:Dire Champion Token
+8B494444:Rynthid Tentacle Dagger
+84E164A7:Salvage (100)
+805DA7AA:Stone Tool
+84E00381:Salvage (100)
+84E2475A:Salvage (100)
+805DA7C1:Eldrytch Web Initiate Armor Writ
+84EB713B:Salvage (100)
+84EB70E1:Salvage (100)
+805DA7C0:Rez'arean Ore
+84EDA52D:Salvage (100)
+84EB7181:Salvage (100)
+805DB050:Adventurer's Token
+84EBD813:Salvage (100)
+84EDA665:Foolproof Black Garnet
+805DB03A:Upper Insatiable Eater Jaw
+805DA7BA:Major Shivering Stone
+805DA7B9:Isparian Weapons Modifying Tool
+805DA7B8:Major Smoldering Stone
+805DA7B7:Teleportation Device
+805DA7B5:Celdiseth's Portal Gem
+805BD395:Pyreal
+805DA7B3:Crystalline Shard
+805DA7AC:Major Sparking Stone
+805DA7DC:Black Coral
+805DA7AB:Facility Hub Portal Gem
+805DB057:Major Stinging Stone
+80593575:Eldrytch Web Trade Token
+805DA7C6:Black Fire Atlan Stone
+805DA7C5:Encapsulated Spirit
+805DA7C9:Lesser Corrupted Essence
+805DA7C4:Rare Crystalline Shard
+805DB04C:Foci of Enchantment
+805DA7EB:Eldrytch Web Trade Token
+805A4BCD:Intricate Carving Tool
+805DB037:Enhanced Red Empyrean Ring
+805DA7ED:Upper Insatiable Eater Jaw
+805DB032:Goggles
+8059401F:Trousers
+805DA7EA:Eldrytch Web Trade Token
+805A5F1F:Ring
+805A5CD8:Bracelet of Self
+805A61AE:Falatacot Battle Report
+805940A4:Bracelet of Focus
+805DA7CA:Ancient Mhoire Coin
+805DA7D9:Aligned Mana Stone
+8059FFB5:Mana-Infused Jungle Flower
+805DA7DA:Engraved A'nekshay Bracers
+883376B3:Pyreal
+805DA7D8:Aetheria Mana Stone
+805DA7D7:Aetheria
+805DA7D6:Aetheria
+805DA7D5:Ornate Gear Marker
+805DA7D4:Pack
+805DAFFD:Paradox-touched Olthoi Staff
+805DA800:Mana Phial of Bludgeon Vulnerability
+805DA803:Blackfire Dissolving Isparian Staff
+805C545F:Mana Phial of Lightning Vulnerability
+805DA7E6:Enhanced Assault Axe
+88647638:Mana Phial of Fester
+805A3F88:Mana Phial of Cold Vulnerability
+899C4F49:Rynthid Tentacle Spear
+805A5F13:Red Rune Silveran Dagger
+805DA7C2:Sanguinary Aegis
+805DA7F5:Singularity Axe
+805DA7EF:Quartered Cloak
+805DA7EC:Aetherium-infused Gear
+805DA7E8:Upper Insatiable Eater Jaw
+805DA7E4:The Stag of Bellenesse
+805DA7E3:Koujia Sleeves
+805DA7E2:Cloth Gloves
+805DA7E0:Knorr Academy Greaves
+805D572C:Stipend
+805DA7FB:Olthoi Alduressa Leggings
+805DA7FA:Empowered Robe of the Perfect Light
+805DA7F8:Olthoi Amuli Leggings
+805DA7F4:Small Shard
+8834CD22:Pyreal
+805DA7FE:Lightning Maiden Essence
+850119A1:Trade Note (250,000)
+8803CB0B:Lightning Phyntos Swarm Essence
+8803FF2F:Entryway Key
+88041E3D:Desert Flower
+880097DB:Pyreal Nugget
+87F8D493:Charred Zombie Essence
+8992ED9D:Major Mana Stone
+87F74856:Eldrytch Web Stronghold Portal Gem
+880A3C40:Frost Zombie Essence (150)
+8815C275:Salvage
+884FD6BC:The Hundred Trackless Paths
+884FD6BB:Samsur Town Stamp
+88507B26:Amateur Explorer Nether Staff
+805DA7F9:Focusing Stone
+ABA97F4D:Textbook
+886835FB:Unreadable Falatacot Volume
+895DB86D:Fortified Mana Forge Key
+805BD396:Tachi of Grace
+805DA7F7:Mana Phial of Blade Vulnerability
+805DAFDA:Morrigan's Vanity
+805BB7B7:Whispering Blade Chapterhouse Recall Orb
+868D56F4:Major Chilling Isparian Dagger
+8059FFAD:Shadowfire Isparian Claw
+805DA7E1:Sollerets of Grace
+803E88AC:Puffy Shirt
+805BD213:Heavy Necklace
+AA84912D:Society Gem of Dispelling
+AA849148:Society Gem of Dispelling
+805A4C6A:Electric Spine Glaive
+80593573:Nekode
+AA80E3E0:Shirt
+AA805C9C:Gauntlet Health Kit
+AA805C98:Gauntlet Health Kit
+805DA7E7:Lightning Stick
+805DA801:Mana Phial of Fire Vulnerability
+805D5729:Rynthid Tentacle Spear
+805DB001:Mana Phial of Piercing Vulnerability
+805DB013:Soul Bound Claw
+805DA7FF:Lugian Hammer
+805DA7FC:Mana Phial of Imperil
+805DA802:Empowered Sword of Lost Hope
+805A3F87:Mana Phial of Acid Vulnerability
+805DA7FD:Lugian Hammer
+84EB528E:Frost Bow
+86D4C513:Aetheria
+80565C12:Shield of Perfect Light
+ABA974DF:Major Smoldering Stone
+805DAFE4:Aegis of the Gold Gear
+805A5BC1:Sword of Lost Hope
+805D572A:Energy Crystal
+
+Missing Exports - Possessed items that were not found:

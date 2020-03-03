@@ -1,0 +1,31 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-26_1485492229_\pkt_2017-1-26_1485492229_log.pcap
+
+Partial Exports - Missing appraisal info:
+A594D396:Pyreal
+A594D38E:Foci of Artifice
+A594D3A0:Foci of Verdancy
+A58C1E47:Foci of Strife
+A594D37C:Prismatic Taper
+A594D35D:Lead Scarab
+A594D3B0:Sack
+A594D3A1:Shoes
+A594D3A8:Bracelet
+A594D3DD:Greeter's Key
+A594D395:Quartermaster's Workshop Key
+A594D383:Academy Mana Potion
+A594D36B:Academy Mana Potion
+A594D39B:Academy Mana Potion
+A594D353:Academy Mana Potion
+A585FC4C:Pyreal
+A594D373:Pyreal
+A594D369:Hardunna's Key
+A594D3B9:Hardunna's Key
+A590CEC7:Sack
+A594D38C:Flinrala's Key
+A594D381:Tumerok Key
+A594D3CD:Old Stamped Holtburg Scarlet Red Letter
+A594CD9B:Pyreal
+A594D3BA:Some Changes for February 2012
+
+Missing Exports - Possessed items that were not found:

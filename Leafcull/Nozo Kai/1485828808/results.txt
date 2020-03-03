@@ -1,0 +1,144 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-packet-logs\pkt_2017-1-30_1485828801_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-packet-logs\pkt_2017-1-31_1485872695_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-packet-logs\pkt_2017-1-31_1485872695_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-packet-logs\pkt_2017-1-30_1485809049_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-packet-logs\pkt_2017-1-30_1485809049_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-packet-logs\pkt_2017-1-30_1485825952_log.pcap
+
+Partial Exports - Missing appraisal info:
+8080A5DA:Pack
+8080A5EA:Pyreal
+8080A5DB:Writ of Refuge
+8080A5DC:Upper Insatiable Eater Jaw
+8080A5DD:Upper Insatiable Eater Jaw
+8080A5DE:Frozen Fortress Laboratory Attunement Shard (Level 180+)
+8080A5DF:A Perfect Snowman Eye
+8080A5E4:Peerless Lockpick
+8080A5E0:A'nekshay Token
+8080A5E1:Salvage (19)
+8080A5E6:Armor Layering Tool (Top)
+AE5D7FE6:Pyreal
+8080A5E5:Black Page of Salt and Ash
+8080A5E7:Encapsulated Spirit
+AE5D8013:Pyreal
+8080A5E8:Red Fire Infusion
+8080A5E9:Superior Ashbane
+8080A5EB:Upper Insatiable Eater Jaw
+8080A5EC:Magic Defense Gem of Forgetfulness
+8080A5EF:War Magic Gem of Enlightenment
+8080A5F0:Blank Augmentation Gem
+8080A5F1:Braced Mana Forge Key
+8080A5F2:Helm of the Abyssal Totem
+8080A5F3:Pack
+8080A5F4:Niffis Fighting Pits
+8080A5F5:Aligned Mana Stone
+8080A5F6:Salvage (76)
+8080A5F7:Salvage (30)
+8080A5F8:Corrupted Essence
+8080A5F9:Society Gem of Dispelling
+8080A5FA:Trade Note (250,000)
+8080A5FC:Armor Layering Tool (Bottom)
+8080A62B:Ust
+8080A5FD:Mana Scarab
+8080A5FF:A Large Mnemosyne
+8080A600:Town Network Portal Gem
+8080A601:Frozen Valley Portal Gem
+8080A603:Coral Fragment
+8080A604:Upper Insatiable Eater Jaw
+8080A605:Upper Insatiable Eater Jaw
+8080A606:Blank Augmentation Gem
+8080A607:Upper Insatiable Eater Jaw
+8080A608:Blank Augmentation Gem
+8080A609:Glyph of Stamina Regeneration
+8080A60A:Mana Forge Key
+8080A60B:Nexus Crawler's Mask
+8080A60D:Blackmoor's Favor
+8080A60E:Small Olthoi Venom Sac
+8080A60F:Ornate Gear Marker
+8080A612:Silver Scarab
+8080A613:Iron Scarab
+8080A614:Gold Scarab
+8080A615:Lead Scarab
+8080A616:Pyreal Scarab
+8080A617:Diamond Scarab
+8080A618:Colosseum Coin
+8080A619:Promissory Note
+8080A61A:Small Olthoi Venom Sac
+8080A61B:Comfrey
+8080A61C:Celestial Hand Armor Writ
+8080A61D:Intricate Carving Tool
+8080A61F:Giant Jungle Phyntos Wasp Stinger
+8080A620:Mana Scarab
+8080A621:Asheron's Lesser Benediction
+8080A622:Copper Scarab
+8080A623:Pyreal Pea
+8080A624:Prismatic Taper
+8080A629:Splitting Tool
+8080A628:Corcima Castle Platinum Ward Portal Gem
+8080A62A:Lightweight Tome
+8080A637:Prismatic Taper
+8080A62D:Celestial Hand Stronghold Portal Gem
+8080A62E:Trade Note (50,000)
+8080A62F:Falatacot Battle Report
+8080A630:Platinum Scarab
+8080A631:Aetheria Mana Stone
+8080A632:Mana Scarab
+8080A633:A Huge Lump of Coal
+8080A634:Salvage (24)
+8080A635:Silver Pea
+8080A636:Gorget
+8080A638:Prismatic Taper
+8080A639:Aerfalle's Ornate Token
+8080A63B:Upper Insatiable Eater Jaw
+8080A63C:Reeshan's Hide
+8080A63D:A Large Mnemosyne
+8080A640:Pack
+8080A641:Intricate Carving Tool
+8080A642:Upper Insatiable Eater Jaw
+8080A63E:Ancient Mhoire Coin
+8080A63F:Celdiseth's Portal Gem
+8080A644:A Large Mnemosyne
+8080A643:Sake
+8080A645:A Large Mnemosyne
+8080A646:A Large Mnemosyne
+8080A647:Vial of Organic Acid
+8080A649:Upper Insatiable Eater Jaw
+8080A64A:Blank Augmentation Gem
+8080A64B:Spirit of Izexi Gem
+8080A64C:Celestial Hand Stronghold Portal Gem
+8080A64D:High-Stakes Gambling Token
+8080A64E:Salvage (30)
+8080A64F:Burning Sands Keyring
+8080A650:Charged Shard
+8080A651:Upper Insatiable Eater Jaw
+8080A652:Greater Mana Stone
+8080A653:Major Mana Stone
+8080A655:Celestial Hand Commendation Ribbon
+8080A657:Grand Casino Key
+8080A658:Unstable Mana Stone
+8080A659:Pack
+8080A65A:Gold Pea
+8080A65B:Treated Healing Kit
+8080A65C:Damaged Celestial Hand Commendation Ribbon
+8080A65D:Major Mana Stone
+8080A65E:Burning Coal
+8080A65F:Major Mana Stone
+8080A660:Prismatic Taper
+8080A661:Massive Mana Charge
+8080A662:Mana Forge Key
+8080A66D:Massive Mana Charge
+8080A664:Platinum Spirits
+8080A665:Mana Forge Key
+AE5D7AA1:Deed
+8080A66E:Massive Mana Charge
+8080A66B:Strengthened Mana Forge Key
+8080A66F:Massive Mana Charge
+8080A670:Massive Mana Charge
+8080A671:Massive Mana Charge
+8080A672:Society Gem of Dispelling
+8080A68A:Pack
+
+Missing Exports - Possessed items that were not found:

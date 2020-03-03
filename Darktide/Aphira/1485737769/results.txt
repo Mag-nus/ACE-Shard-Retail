@@ -1,0 +1,39 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap6\pkt_2017-1-29_1485719179_log.pcap
+
+Partial Exports - Missing appraisal info:
+D74C3003:Chicken
+D74C2FE5:Sack
+D74C2FE6:Sack
+D74C2FE7:Sack
+D74C2FE8:Shoes
+D74C2FE9:Slippers
+D74C2FEA:Acid Cestus
+D74C2FEB:Platemail Hauberk
+D74C2FEC:Sack
+D74C2FF5:Wood Heart
+D74C2FED:Large Round Shield
+D74C2FEE:Yaoji
+D74C2FEF:Gold Pea
+D74C2FF0:Kote
+D74C2FF1:Rapier
+D74C2FF2:Studded Leather Gauntlets
+D74C2FF3:Orb
+D74C2FF6:Wood Heart
+D74C2FF7:Wood Heart
+D74C2FF9:Covenant Pauldrons
+D74C2FFA:Scroll of Frost Streak VI
+D74C2FFB:Scroll of Flame Streak VI
+D74C2FFC:Scroll of Acid Stream VI
+D74C2FFD:Scroll of Lightning Streak VI
+D74C2FFE:Scroll of Outlander's Insolence
+D74C2FFF:Aura of Blood Drinker Self VI
+D74C3000:Scroll of Acid Vulnerability Other VI
+D74C3001:Scroll of Clumsiness Other VI
+D74C3002:Scroll of Spike Strafe
+D74C3004:Starter Nabut
+D74C3007:Some Changes for February 2012
+D74C3006:Pack Martine
+D74C3008:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

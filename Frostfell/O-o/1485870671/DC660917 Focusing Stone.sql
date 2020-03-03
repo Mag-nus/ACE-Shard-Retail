@@ -1,0 +1,79 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (3697674519, 8904, 35, 7524673) /* Caster */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (3697674519,   1,      32768) /* ItemType - Caster */
+     , (3697674519,   5,         10) /* EncumbranceVal */
+     , (3697674519,   9,   16777216) /* ValidLocations - Held */
+     , (3697674519,  16,    6291464) /* ItemUseable - SourceContainedTargetRemoteNeverWalk */
+     , (3697674519,  18,          1) /* UiEffects - Magical */
+     , (3697674519,  19,       3000) /* Value */
+     , (3697674519,  33,          1) /* Bonded - Bonded */
+     , (3697674519,  65,        101) /* Placement - Resting */
+     , (3697674519,  93,       3092) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, LightingOn */
+     , (3697674519,  94,         16) /* TargetType - Creature */
+     , (3697674519, 106,        200) /* ItemSpellcraft */
+     , (3697674519, 107,      12694) /* ItemCurMana */
+     , (3697674519, 108,      13131) /* ItemMaxMana */
+     , (3697674519, 109,        121) /* ItemDifficulty */
+     , (3697674519, 110,          0) /* ItemAllegianceRankLimit */
+     , (3697674519, 114,          1) /* Attuned - Attuned */
+     , (3697674519, 151,          2) /* HookType - Wall */
+     , (3697674519, 9015,         40) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (3697674519,   1, False) /* Stuck */
+     , (3697674519,  11, True ) /* IgnoreCollisions */
+     , (3697674519,  13, True ) /* Ethereal */
+     , (3697674519,  14, True ) /* GravityStatus */
+     , (3697674519,  15, True ) /* LightsStatus */
+     , (3697674519,  19, True ) /* Attackable */
+     , (3697674519,  22, True ) /* Inscribable */
+     , (3697674519,  69, False) /* IsSellable */
+     , (3697674519,  94, True ) /* AppraisalHasAllowedActivator */
+     , (3697674519,  99, True ) /* Ivoryable */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (3697674519,   5, -0.0500000007450581) /* ManaRate */
+     , (3697674519,  29, 1.17000000178814) /* WeaponDefense */
+     , (3697674519,  39, 0.699999988079071) /* DefaultScale */
+     , (3697674519,  76, 0.200000002980232) /* Translucency */
+     , (3697674519, 144, 3.10571980118017E-314) /* ManaConversionMod */
+     , (3697674519, 152, 1.07000000029802) /* ElementalDamageMod */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (3697674519,   1, 'Focusing Stone') /* Name */
+     , (3697674519,   7, 'You run Reduction through! Mak Force is fatally punctured! Bizzare is torn to ribbons by your assault!') /* Inscription */
+     , (3697674519,   8, 'O-o') /* ScribeName */
+     , (3697674519,  16, 'A small stone with strange markings on the side. The stone has been imbued with strong magical abilities.') /* LongDesc */
+     , (3697674519,  25, 'O-o') /* CraftsmanName */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (3697674519,   1,   33556976) /* Setup */
+     , (3697674519,   3,  536870932) /* SoundTable */
+     , (3697674519,   6,   67111928) /* PaletteBase */
+     , (3697674519,   8,  100671374) /* Icon */
+     , (3697674519,  22,  872415275) /* PhysicsEffectTable */
+     , (3697674519,  28,       2348) /* Spell - BrillianceOther */
+     , (3697674519, 8001,  275333272) /* PCAPRecordedWeenieHeader - Value, Usable, UiEffects, Container, ValidLocations, TargetType, Burden, Spell, HookType */
+     , (3697674519, 8003,         18) /* PCAPRecordedObjectDesc - Inscribable, Attackable */
+     , (3697674519, 8005,     399489) /* PCAPRecordedPhysicsDesc - CSetup, ObjScale, STable, PeTable, AnimationFrame, Translucency */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (3697674519,   1, 1342971278) /* Owner */
+     , (3697674519,   2, 1342971278) /* Container */
+     , (3697674519, 8000, 3697674519) /* PCAPRecordedObjectIID */;
+
+INSERT INTO `biota_properties_spell_book` (`object_Id`, `spell`, `probability`)
+VALUES (3697674519,  2346,      2) 
+     , (3697674519,  2347,      2) 
+     , (3697674519,  2348,      2) ;
+
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
+VALUES (3697674519, 67111921, 0, 0);
+
+INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
+VALUES (3697674519, 0, 83888861, 83890391, 0);
+
+INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, `order`)
+VALUES (3697674519, 0, 16778862, 0);

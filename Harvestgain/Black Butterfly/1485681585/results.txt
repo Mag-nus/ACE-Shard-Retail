@@ -1,0 +1,123 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-29_1485681570_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485763445_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-25_1485371656_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps5\pkt_2017-1-28_1485591226_log.pcap
+
+Partial Exports - Missing appraisal info:
+80FBF06C:Blackmoor's Favor
+B751D45B:Pyreal
+80F2527C:Asheron's Benediction
+80FBC5A2:Ust
+B443C953:Prismatic Taper
+81006EA7:Prismatic Taper
+B447E365:Platinum Scarab
+B4499877:Pyreal Scarab
+B4499878:Gold Scarab
+81006EA3:Silver Scarab
+81006EA4:Copper Scarab
+81006EA5:Iron Scarab
+81006EA6:Lead Scarab
+B449CAE5:Shoyanen's Portal Gem
+B823CD2D:Trade Note (100,000)
+B81EAAD3:Gem of Purity
+B18E2127:Aphus Lassel Portal Gem
+8086BB95:Ahruenga Portal Gem
+80FFBD47:Ursuin Cub Kennel
+B85F5D85:Gem of Stillness
+810088ED:Faran Over-robe
+B838D8CC:Pyreal
+8003EA8E:Oxidized Statue
+80FE445E:Blunt Staff
+80FC4497:Frost Staff
+B838D6CB:Pyreal
+80FF88B5:Blunt Staff
+80EAE517:Electric Staff
+811CE587:Evil Couch
+81006EAE:Ben Ten's Crystal
+8ECE4DD8:Brass Knuckles
+81006EAF:Smithy's Crystal
+81006EAD:Pearl of Swift Killing
+80FEF88A:Elysa's Crystal
+80F935F6:Facility Hub Portal Gem
+810088EE:Paradox-touched Olthoi Sword
+801AEFC8:Quartered Cloak
+8DFF4A73:Moderate Mana Stone
+B3DAD25C:Loose Shirt
+B353949A:Trousers
+811CC41A:Hearth
+801B0C03:Studded  Tassets
+B833EFC8:Token of Modification
+801A5C15:Loafers
+B7511BBB:Scalemail Girth
+8FA4A5A2:Turban
+80583051:Suikan Over-robe
+B15E89E7:Studded Leather Pauldrons
+801A9B56:Chainmail Bracers
+B74DC1C6:Platemail Gauntlets
+B821E0B8:Gonjoku's Mana Infusion
+810088EC:Foci of Artifice
+839E5076:Foci of Verdancy
+B449DF8E:Foci of Enchantment
+B821F1A2:Black Page of Salt and Ash
+B83814FC:Diamond Heart
+B835E523:Token of Modification
+B83932D6:Copper Heart
+B82AE15F:Lightning Flamberge
+B854287D:Olthoi Ichor
+B8626A0B:Orb
+B4895021:Encapsulated Spirit
+8DF73A22:Moderate Mana Stone
+8DDF1E28:Moderate Mana Stone
+801A92B5:Hunter's Crystal
+B06B7407:Sho Gem of Worth
+B51C457E:Dansha-Ki's Gem of Portal Recall
+B5178140:Adjanite Mana Stone
+811CE552:Imbued Pyreal Nugget
+B468E98B:Gem of Stillness
+B717F3EF:Sprinter's Pearl
+B181F373:Monarch's Crystal
+811CE55D:Lyceum Hood
+811CE553:Diamond Shield
+811CE555:Pack Grael
+811CE563:Frost Tachi
+811CE564:Acid Dericost Blade
+811CE53C:Snowflake
+8101F1B8:Duelist's Jewel
+801AB54B:Physician's Crystal
+8101F1B5:Pearl of Flame Baning
+8101F1B4:Dodger's Crystal
+B1CE9022:Thief's Crystal
+B0FEC35A:Orb
+811CE54C:Bunny Slippers
+811CE544:Dangerous Portal Device
+811CE541:Lightning Cestus
+8058305C:Nether Staff
+811CE543:Flaming Flamberge
+811CE53D:Holiday Lights
+811CE542:Dirk
+811CE540:Wand
+811CE58A:K'nath Lair Portal
+811CE53F:Chainmail Gauntlets
+811CE53E:Heavy Necklace
+811CE537:Realgar Pea
+811CE53B:Tunic
+811CE536:Concentrated Victual Oil
+811CE539:Goggles
+811CE586:The Plan
+811CC419:Chandelier
+80036E36:Pack Burun Kukuur
+801A4832:Pack Gaerlan
+801A483B:Pack Pumpkin Lord
+801A483E:Pack Asheron
+811CE610:Armored Undead Guise
+811CE611:Ursuin Toy
+811CE60E:Zombie Butler
+811CE60C:Pack Golem
+811CE60D:Head of the Homunculus
+B50D2538:Round Shield
+C7FF9452:Stipend
+
+Missing Exports - Possessed items that were not found:

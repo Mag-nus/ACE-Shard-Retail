@@ -1,0 +1,39 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\randompktlogs\pkt_2017-1-30_1485811480_log.pcap
+
+Partial Exports - Missing appraisal info:
+C7150BDE:Pyreal
+C7150BDF:Sack
+C774C77F:Frost Long Sword
+C77511E4:Lightning Lugian Hammer
+C7720035:Acid Spine Glaive
+C772BA2E:Trade Note (100,000)
+C7150BE0:Ust
+C772D08D:Tiny Shard
+C75D3F23:Shadow Fragment
+C7150BE1:Calling Stone
+C7150BE6:Foci of Artifice
+C7150BE7:Prismatic Taper
+C7150BE8:Lead Scarab
+C7150BE9:Letter From Home
+C7150BEA:Viamont Toast
+C7746203:Blackmoor's Favor
+C774606B:Oil of Rendering
+C774606A:Oil of Rendering
+C7746068:Facility Hub Portal Gem
+C7756F9F:Gifted Healing Kit
+C774CB30:Lead Pea
+C773190C:Iron Pea
+C774CD6B:Copper Heart
+C76CA485:Copper Heart
+C77591C4:Adept Healing Kit
+C77587B3:First Half of a Battered Axe
+C772D367:Pyreal
+C772747B:Pathwarden Robe
+C76C98EA:Pyreal
+C771BF5C:Pyreal
+C773DEEC:A List of Items
+C772C4A3:Chocolate Gromnie
+C76E711E:Shoushi Portal Gem
+
+Missing Exports - Possessed items that were not found:

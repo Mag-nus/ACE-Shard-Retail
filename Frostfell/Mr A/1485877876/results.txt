@@ -1,0 +1,75 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\FinalDayOfRunningAroundAndEndingInAsheronsCastle\FinalDayOfRunningAroundAndEndingInAsheronsCastle\pkt_2017-1-31_1485871996_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\RunningFromNorthernTipToSouthernTipOfDereth\RunningFromNorthernTipToSouthernTipOfDereth\pkt_2017-1-30_1485835276_log.pcap
+
+Partial Exports - Missing appraisal info:
+D9DDA370:Loose Shirt
+D248CC91:Loose Breeches
+D9DFE72C:Pyreal
+D9E131CF:Ust
+CD5D4FE3:Foci of Verdancy
+D9E4B2AD:Foci of Enchantment
+D9E4B5AA:Foci of Artifice
+D99491A5:Prismatic Taper
+D9E14FB5:Blackmoor's Favor
+D9E4B9F1:Sturdy Iron Key
+D9E34E06:Sturdy Iron Key
+D9DDA91E:Celdon Breastplate
+D9E1532C:Celdon Breastplate
+D9E339D8:Celdon Breastplate
+D9E4B289:Holiday Feast
+D9E1322E:Celdon Breastplate
+D9E64EA1:Celdon Breastplate
+D9DDA448:Celdon Leggings
+D9E4BE66:Celdon Leggings
+D9DD97D9:Celdon Leggings
+D9DD8CFE:Celdon Leggings
+D9E3C5F3:Sack
+D9DDA591:Celdon Leggings
+D9E15319:Celdon Leggings
+D88E72C7:Celdon Leggings
+D9DDA379:Celdon Leggings
+D9DDA38C:Doll House
+D9E4B840:Celdon Leggings
+D9DD65D8:Celdon Leggings
+D9DD879D:Doll House
+D9EB0BDE:Celdon Leggings
+D9E51E02:Celdon Leggings
+D9D8F6BB:Crescent Moons
+D9E139E5:Celdon Leggings
+D7C2D518:Celdon Breastplate
+D9DDA4C0:Celdon Breastplate
+D9DFE506:Celdon Leggings
+D9DFE341:Celdon Breastplate
+D9DDA52F:Celdon Leggings
+D9E26EB3:Celdon Breastplate
+D9E4CE45:Celdon Breastplate
+D9E3AED7:Celdon Sleeves
+D9E3A853:Celdon Girth
+D9DFD150:Celdon Girth
+D9DDA88D:Celdon Girth
+D9DD7EDE:Siraluun Matihao
+D9DD86F8:Arrow
+D9DD6EFE:Celdon Leggings
+D9DD76A1:Celdon Girth
+D9DD7DBF:Crystal Sword
+D9E3AAB2:Celdon Leggings
+D9E3A5F3:Celdon Leggings
+D873F1C1:Celdon Sleeves
+D9DD87C6:Celdon Sleeves
+D9E3AF73:Crystal Sword
+D9E2690F:Celdon Leggings
+D9DD7C1B:Celdon Leggings
+D9DD6579:Solid Celdon Sleeves
+D9E3A4C7:Scored Celdon Breastplate
+D9E3A282:Celdon Breastplate
+D9E3A7C0:Crystal Sword
+D9DDAA94:Celdon Breastplate
+D9E152D0:Celdon Sleeves
+D9E4B9C8:Celdon Breastplate
+D9E13416:Horned Helm
+D9E134E1:Some Changes for February 2012
+
+Missing Exports - Possessed items that were not found:

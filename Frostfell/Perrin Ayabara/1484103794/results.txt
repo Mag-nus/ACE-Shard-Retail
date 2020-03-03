@@ -1,0 +1,178 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Callaway-01-10-2017\pkt_2017-1-10_1484102909_log.pcap
+
+Partial Exports - Missing appraisal info:
+B16787BE:Ust
+B159EB12:Calling Stone
+B163A56F:Blackmoor's Favor
+B156535B:Pathwarden Sollerets
+B16787B3:Pathwarden Gauntlets
+B16787B4:Pathwarden Helm
+B1678831:Sturdy Iron Key
+B167882F:Sturdy Iron Key
+B1678845:Sturdy Iron Key
+B16787AF:A List of Items
+B1678832:Directions to Nen Ai's House
+B168C82D:Directions to the Shreth Hive
+B168C82E:Tusker Spit
+B168C82F:Aphus Lassel Portal Gem
+B168C830:Mi Krau-Li's Jitte
+B168C832:Treated Healing Kit
+B168C833:Treated Healing Kit
+B168C834:A Ring of Acid Protection
+B168C835:Trade Note (50,000)
+B168C838:Ring of Piercing Protection
+B168C839:Trade Note (10,000)
+B168C83A:Treated Healing Kit
+B168C83B:Treated Healing Kit
+B168C83D:Treated Healing Kit
+B168C83E:Glittering Necklace of Acid and Piercing Protection
+B168C840:Gem of Purity
+B168C841:Pyreal
+B168C842:Foci of Artifice
+B168C843:Pack
+8739E12E:Olthoi Koujia Kabuton
+8A69DAF0:Olthoi Koujia Kabuton
+8EB34718:Olthoi Koujia Kabuton
+90C7098E:Alduressa Helm
+A1EDEAAA:Olthoi Koujia Kabuton
+A88CE2B9:Olthoi Koujia Kabuton
+B168C844:Pack
+A1D378AB:Olthoi Koujia Kabuton
+80B1B50D:Olthoi Koujia Kabuton
+8C73C55F:Olthoi Bracers
+887546AC:Olthoi Koujia Kabuton
+8EEB9B8B:Olthoi Koujia Kabuton
+B168C845:Pack
+8EE7B68A:Olthoi Koujia Kabuton
+80B93E11:Olthoi Koujia Kabuton
+B168C84D:Rock
+89CBB88E:Olthoi Koujia Kabuton
+811A5BBE:Olthoi Koujia Kabuton
+B168C849:Prismatic Taper
+84100669:Olthoi Celdon Helm
+8B0D93D0:Olthoi Koujia Kabuton
+A6AC88FD:Olthoi Bracers
+8EF1C9EA:Olthoi Celdon Sollerets
+90C7609D:Olthoi Amuli Sollerets
+B168C84A:Copper Scarab
+81781EED:Olthoi Celdon Breastplate
+AD1B6FA2:Olthoi Celdon Gauntlets
+B168C84C:Sake
+8A697B1C:Olthoi Pauldrons
+91107381:Olthoi Tassets
+8C7FED28:Olthoi Greaves
+910EB47B:Olthoi Celdon Girth
+8A692D01:Olthoi Celdon Breastplate
+B168C852:Stipend
+8EE8BBFF:Olthoi Celdon Girth
+8B102D00:Olthoi Pauldrons
+B168C846:Pack
+811A5BED:Olthoi Pauldrons
+87114690:Olthoi Pauldrons
+8EB2441B:Olthoi Tassets
+8EAE8688:Olthoi Greaves
+A6BC0FB6:Olthoi Celdon Sollerets
+8EF098EE:Olthoi Bracers
+8AF8DB73:Olthoi Celdon Breastplate
+8D015D0E:Olthoi Celdon Breastplate
+8CFB94B5:Olthoi Tassets
+A6BFEA4D:Olthoi Pauldrons
+8F8936C4:Olthoi Pauldrons
+8C7386C1:Olthoi Pauldrons
+8EB120B8:Olthoi Pauldrons
+8819D786:Olthoi Bracers
+A1D36270:Olthoi Bracers
+8C700719:Olthoi Bracers
+A6BE5045:Olthoi Bracers
+A6AC88E2:Olthoi Bracers
+8C7FD364:Olthoi Tassets
+880E6891:Olthoi Celdon Gauntlets
+80EC74D3:Olthoi Breastplate
+8EE00CFC:Olthoi Pauldrons
+B168C847:Pack
+86FC7D70:Olthoi Tassets
+9019FB4F:Olthoi Breastplate
+8EB3F8E3:Olthoi Bracers
+8EEDCFF8:Olthoi Tassets
+8B0D93C3:Olthoi Koujia Kabuton
+8A6A100D:Olthoi Celdon Breastplate
+8EC45A81:Olthoi Celdon Sollerets
+8C808638:Olthoi Celdon Girth
+84456372:Studded Leather Boots
+8EED3E7E:Olthoi Pauldrons
+866DC6EE:Olthoi Girth
+87648BFF:Olthoi Girth
+88194BC5:Olthoi Girth
+8B289C2E:Olthoi Celdon Sleeves
+B168C848:Pack
+8EF1CA26:Olthoi Sollerets
+8A69ED4B:Olthoi Gauntlets
+AD0532CE:Olthoi Amuli Sollerets
+A1D7C61D:Olthoi Koujia Sollerets
+B168C84B:Silver Scarab
+90C56EF2:Olthoi Gauntlets
+8B093F88:Olthoi Koujia Gauntlets
+811A5BEC:Lorica Gauntlets
+8A69284E:Olthoi Amuli Gauntlets
+84CA4DAE:Olthoi Sollerets
+89C166F3:Olthoi Celdon Gauntlets
+870ECB71:Olthoi Bracers
+8B111D72:Olthoi Gauntlets
+84CA3CEB:Olthoi Sollerets
+8710D63A:Olthoi Koujia Gauntlets
+8A64E8CC:Olthoi Gauntlets
+881883A8:Olthoi Koujia Gauntlets
+8EC3CA73:Olthoi Gauntlets
+8A634024:Olthoi Celdon Gauntlets
+8EB243FB:Olthoi Tassets
+8870506B:Olthoi Gauntlets
+8C700206:Olthoi Pauldrons
+84FACEF4:Olthoi Koujia Kabuton
+B168C850:Some Changes for February 2012
+B168C84E:Crystalline Shard
+B168C84F:Rare Crystalline Shard
+B168C853:Imbue Swap Coin
+A7A5BC8F:Olthoi Amuli Leggings
+A6F4E4F4:Olthoi Amuli Coat
+8EEB6CC6:Olthoi Celdon Breastplate
+8739E7B7:Olthoi Celdon Girth
+8EAD5041:Olthoi Celdon Leggings
+88188B40:Olthoi Amuli Gauntlets
+8C808630:Olthoi Celdon Girth
+A6B2D3C1:Olthoi Celdon Leggings
+8EC454B7:Olthoi Celdon Sollerets
+8EED25AD:Olthoi Koujia Kabuton
+A6BFE264:Nariyid Helm
+A6C1F806:Olthoi Celdon Sleeves
+8B102D24:Olthoi Pauldrons
+873723B5:Olthoi Koujia Kabuton
+8EB3F931:Olthoi Bracers
+8D015C95:Olthoi Celdon Breastplate
+AD15AF83:Olthoi Gauntlets
+87689B97:Olthoi Pauldrons
+866B646C:Olthoi Breastplate
+8B10542F:Olthoi Greaves
+ABD5078B:Olthoi Amuli Sollerets
+ACEFD502:Olthoi Celdon Sleeves
+8EEEB431:Olthoi Celdon Breastplate
+8870434B:Olthoi Celdon Girth
+8EAF2328:Olthoi Celdon Leggings
+80F24A41:Olthoi Tassets
+8EEBDC83:Olthoi Tassets
+A6BD5842:Olthoi Celdon Girth
+8C84F262:Olthoi Amuli Sollerets
+80B15979:Cloth Gloves
+90F8CE0D:Olthoi Amuli Leggings
+A6B20161:Olthoi Amuli Coat
+8A619B09:Olthoi Celdon Girth
+84CD9922:Olthoi Celdon Leggings
+886D85D4:Olthoi Greaves
+8C7FD302:Olthoi Tassets
+8EEBDB7A:Olthoi Tassets
+8D01FA63:Olthoi Celdon Girth
+910FEF1E:Olthoi Koujia Breastplate
+A894A021:Olthoi Tassets
+816C6EC8:Slippers
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,17 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\pkt_2017-1-30_1485843220_desc\pkt_2017-1-30_1485843220_log.pcap
+
+Partial Exports - Missing appraisal info:
+ADF9A95A:Handy Healing Kit
+ADFB6F7F:Sack
+ADFB6E28:Neutral Balm
+ADF9A8F9:Pyreal
+ADF9A893:Gromnie Hide Shirt
+ADF9A8F0:Reedshark Hide Leggings
+ADF79D08:Velveteen Olthoi
+ADF9A973:Victual Infusion
+ADF9AABE:Pack Burun Kukuur
+ADF7B149:Some Changes for February 2012
+ADF6D656:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

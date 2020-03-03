@@ -1,0 +1,17 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\random-running-around\pkt_2017-1-22_1485140149_log.pcap
+
+Partial Exports - Missing appraisal info:
+DC362714:Pyreal
+DC362715:Sack
+DC362716:Ust
+DC362718:Pathwarden Token
+DC36271B:Foci of Strife
+DC36271C:Foci of Verdancy
+DC362721:Letter From Home
+DC36271D:Foci of Enchantment
+DC36271E:Foci of Artifice
+DC36271F:Prismatic Taper
+DC362720:Lead Scarab
+
+Missing Exports - Possessed items that were not found:

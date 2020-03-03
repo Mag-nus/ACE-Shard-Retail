@@ -1,0 +1,97 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-07-2017\Asherons-Call-packets-includes-3-towers\pkt_2017-1-28_1485604709_log.pcap
+
+Partial Exports - Missing appraisal info:
+966863C6:Pyreal
+9F4C6280:Pyreal
+966863C7:Sack
+9679E63C:Copper Scarab
+96ABE8CA:Platinum Scarab
+96AAD909:Silver Scarab
+96ABE8F8:Gold Scarab
+96AAD8BA:Pyreal Scarab
+9681D76A:Stipend
+966E7232:Blackmoor's Favor
+9C2250A6:Mana Scarab
+9C2CDE93:Deed
+966863C8:Ust
+966863CE:Foci of Artifice
+968225EF:Trade Note (250,000)
+96A6FD9E:Foci of Enchantment
+96A60C3F:Foci of Verdancy
+96AB33FC:Pack
+96AAD910:Shoyanen's Portal Gem
+9B7F8F66:Blank Augmentation Gem
+9B033C08:Foci of Shadow
+9C1A4BDA:Prismatic Taper
+9B02445E:Seasoned Explorer Nether Staff
+9C1DF31A:Blank Augmentation Gem
+95652B06:Promissory Note
+9C14F211:Pyreal Mote
+9C1E6703:Eldrytch Web Initiate Armor Writ
+9C1E6702:Initiate's Treasure Key
+9C1ABE00:Unstable Mana Stone
+9C1AC381:Altered Dark Remoran Fin
+9C09CE98:Eldrytch Web Stronghold Portal Gem
+A0DEF520:Pyreal
+A0DEF524:Pyreal
+9C442DB2:Bag of Life Stone Chips
+9DE6AFE1:Aetheric Resonator
+9C9B8EB5:Blank Augmentation Gem
+85719602:Heavy Necklace
+9C5AAD90:Mana Scarab
+9AFDE390:Bracelet
+9C2E18D0:Vissidal Island Portal Gem
+9D260CC9:Blank Augmentation Gem
+9C2FDA6D:Braced Mana Forge Key
+9C2E73F1:Paradox-touched Olthoi Wand
+9C3E06D8:High-Stakes Gambling Token
+9C6A9CC6:Salvage
+9CA5B1D5:Pack
+9DDA9626:Creeping Blight Cloak
+9DE4F033:Chevron Cloak
+9C108763:Massive Mana Charge
+9562588C:Signet Crown
+9A289CCB:Strengthened Mana Forge Key
+948BBA36:Diadem
+9C5891C9:Strengthened Mana Forge Key
+9C1A8311:Massive Mana Charge
+9BF8ECE6:Massive Mana Charge
+9C13C62C:Massive Mana Charge
+94FBDEDA:Heavy Bracelet
+94A08F84:Diadem
+948C92D0:Signet Crown
+94A2B1FC:Circlet
+9DE70075:Salvage
+9E7B81FE:Blank Augmentation Gem
+9E74EA26:Bag of Life Stone Chips
+948CC2BB:Signet Crown
+9539A445:Crown
+803458B5:Signet Crown
+92C73F89:Circlet
+949DEBB5:Coronet
+94A25621:Diadem
+9C1AC925:Massive Mana Charge
+948C931C:Coronet
+94FB3FC8:Diadem
+9E7B7CE9:Strengthened Mana Forge Key
+A0DEF528:Pyreal
+A0DDB203:Pyreal
+A0DD9E5B:Pyreal
+A0D5CF26:Pyreal
+A0DDB603:Pyreal
+A2FA091E:Stipend
+81E5B72A:Font of Jojii
+81E5B729:Evil Couch
+81E5B72B:Banished Staff
+81E5B75B:Grand Casino Golden Keyring
+9C5AE573:Salvage (100)
+81E5B75D:Tinker's Crystal
+9C5ECB51:Salvage (100)
+9C67B280:Salvage (100)
+9C38B925:Salvage (100)
+81E5B725:Wand of Black Fire
+81E5B724:Blade of the Fallen
+A533025B:Stipend
+
+Missing Exports - Possessed items that were not found:

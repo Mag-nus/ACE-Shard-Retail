@@ -1,0 +1,194 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-22_1485122829_log.pcap
+
+Partial Exports - Missing appraisal info:
+D7EEB325:Pyreal
+D7EEB29F:Shoes
+D7EEB250:Wand
+D7EEB208:Treated Healing Kit
+D7EEB1D1:Treated Healing Kit
+D7EEB1FF:A Ring of Acid Protection
+D7EEB1D6:Treated Healing Kit
+D7EEB23E:Sollerets
+D7ECE790:Orb
+D7ECE78A:Turpeth
+D7EEB28D:Vitriol
+D7EEB286:Colcothar
+D7ECE7BF:Cobalt
+D7EEB295:Cinnabar
+D7ECE7AF:Stibnite
+D7ECE772:Gypsum
+D7EEB281:Quicksilver
+D7EEB25E:Verdigris
+D7DC2BAB:Cadmia
+D7EEB244:Brimstone
+D7EEB2C8:Realgar
+D7EEB15A:Powdered Onyx
+D7F6C8E4:Orange Taper
+D7EEB203:Indigo Taper
+D7EEB21E:Violet Taper
+D7EEB24C:Turquoise Taper
+D7EEB268:Green Taper
+D7EEB25F:Grey Taper
+D7EDD47C:Blue Taper
+D7EEB270:Pink Taper
+D7EEB23D:White Taper
+D7ECE7AA:Red Taper
+D7EEB2AA:Brown Taper
+D7ECE78C:Yellow Taper
+D7EDCFDD:Powdered Agate
+D7EEB2A7:Treated Healing Kit
+D7EEB27F:Treated Healing Kit
+D7EEB2AC:Treated Healing Kit
+D7ECE779:Treated Healing Kit
+D7EEB255:Katar
+D7EEB24D:Treated Healing Kit
+D7ECDE6F:Treated Healing Kit
+D7EEB20D:Treated Healing Kit
+D7EEB213:Ring
+D7ECE7B9:Heavy Bracelet
+D7EEB2A1:Greater Mana Stone
+D7EEB2BF:Ring
+D7DC2B82:Tunic
+D7EBDF7C:Scalemail Gauntlets
+D7EEB2B9:Great Mana Charge
+D7DC2C2A:Sollerets
+D7ECE795:Hyssop
+D7EEB25A:Ginseng
+D7EEB2D4:Wormwood
+D7EE9730:Flaming Silifi
+D7EEB2B2:Saffron
+D7ECE81E:Shoyanen's Portal Gem
+D7EEB28F:Intricate Carving Tool
+D7EEB298:Heavy Necklace
+D7EE301D:Ashwood Talisman
+D7EEB249:Heavy Necklace
+D7ECE80F:Comfrey
+D7EEB283:Ring
+D7EEB27B:Moderate Mana Charge
+D7ECE7A8:Jerkin
+D7EE3004:Powdered Malachite
+D7EEB393:Great Mana Charge
+D7F2E46A:Powdered Hematite
+D7EEB29A:Powdered Malachite
+D7EEB2B3:Rowan Talisman
+D7EEB34B:Silver Scarab
+D7EEB2B1:Powdered Bloodstone
+D7EEB2D0:Powdered Moonstone
+D7EEB37A:Copper Scarab
+D7EEB34F:Cedar Talisman
+D7EEB315:Lead Scarab
+D7EEB0B1:Willow Talisman
+D7ECE7C7:Powdered Amber
+D7EEB297:Yew Talisman
+D7EEB2C1:Powdered Onyx
+D7EEB2D3:Ebony Talisman
+D7EEB273:Powdered Turquoise
+D7EEB2A0:Powdered Quartz
+D7F76D47:Zombie Mask
+D7EEB263:Iron Scarab
+D7EEB2E1:Bracelet
+D7ECE7CB:Hazel Talisman
+D7EEB27E:Shirt
+D7ECE7C0:Gorget
+D7ECE05F:Flaming Dagger
+D7ECE7C8:Orb
+D7EEB30C:Ring
+D7ECE79A:Amulet
+D7EDDCFE:Ring
+D7EEB31B:Heavy Bracelet
+D7EEB2D1:Heavy Bracelet
+D7EEB346:Amulet
+D7EEB364:Wand
+D7ECDAE6:Necklace
+D7EEB2E9:Ring
+D7EEB14A:Orb
+D7EEB2E2:Orb
+D7ECE607:Wand
+D7ECE7F9:Tower Shield
+D7EEB2DF:Orb
+D7ECE78F:Heavy Necklace
+D7EEB333:Little Green Seeds
+D7EEB4E8:Orb
+D7EEB277:Ring
+D7EEB2C7:Clean, Dry Towel
+D7EEB2F8:Heavy Bracelet
+D7EEB307:Superior Helmet
+D7EBD28F:Wand
+D7ECE7C3:Staff
+D7EEB311:Little Green Seeds
+D7EEB3A4:Peerless Lockpick
+D7EEB2B5:Treated Healing Kit
+D7EEB383:Treated Healing Kit
+D7ECE7D7:Treated Healing Kit
+D7ECE826:Virindi Singularity Key
+D7ECE5E5:Greater Mana Stone
+D7EEB310:Orb
+D7EEB280:Gem
+D7EEB31C:Greater Mana Stone
+D7EAE476:Greater Mana Stone
+D7F2E460:Staff
+D7EBD064:Flaming Long Sword
+D7ECE7DC:Caulnalain Key
+D7EEB3D4:Jambiya
+D7ECE7D5:Ring
+D7F2E45F:Treated Healing Kit
+D7EBDC16:Tunic
+D7EDE8CB:Heavy Bracelet
+D7ECE841:Chunk of Low-Grade Chorizite
+D7EEB365:Sceptre
+D7EEB40A:Orb
+D7EEB2EE:Orb
+D7EEB326:Heavy Bracelet
+D7ECE7F6:Wand
+D7ECE7E4:High Mana Charge
+D7EDAC7B:Orb
+D7EEB305:Orb
+D7E3D209:Bracelet
+D7EEB403:Major Stinging Stone
+D7EEB308:Treated Healing Kit
+D7EEB28C:Potion of Healing
+D7EDDCE5:A Large Mnemosyne
+D7EEB37D:Necklace
+D7EBD2E2:Wand
+D7EEB2B8:Staff
+D7EEB343:Chalice
+D7EEB431:Wand
+D7EEB332:Seal
+D7EEB38C:Heavy Bracelet
+D7EEB32B:Orb
+D7EEB4B6:Virindi Mask
+D7EEB2F4:Wand
+D7EEB32D:Chainmail Shirt
+D7EEB43E:Pyreal
+D7EEB36A:Stamina Potion
+D7EEB3BF:Orb
+D7EEB345:Scroll of Self Strength IV
+D7EEB2FE:Orb
+D7EEB369:Staff
+D7EDD50C:Lightning Long Sword
+D7ECE7D3:Orb
+D7EA929D:Skeleton's Skull
+D7E86065:Orb
+D7EEB356:Gorget
+D7EEB42C:Kabuton
+D7ECE7F5:Treated Healing Kit
+D7EEB54F:Lightning Dagger
+D7EE74B1:Buckler
+D7ECE834:Shoes
+D7EEB37B:Wand
+D7ECE827:Treated Healing Kit
+D7ECE173:Treated Healing Kit
+D7EEB3FB:Treated Healing Kit
+D7EBD2E4:Great Mana Charge
+D7EEB47D:Greater Mana Stone
+D7EEB3E2:Faran Robe with Hood
+D7EEB3EF:Treated Healing Kit
+D7ECE821:Moderate Mana Charge
+D7EEB43B:Bracelet
+D7ECE885:Moderate Mana Charge
+D7ECE818:Sho Wand
+D7EEB44D:Some Changes for February 2012
+D7EEB485:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

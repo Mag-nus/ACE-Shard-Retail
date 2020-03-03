@@ -1,0 +1,83 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Cyberkiller-01-31-2017-Random\pkt_2017-1-31_1485862013_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Cyberkiller-01-31-2017-Random\pkt_2017-1-31_1485861812_log.pcap
+
+Partial Exports - Missing appraisal info:
+803DCFFE:Ust
+803DD004:Foci of Artifice
+803DD005:Foci of Enchantment
+803DD012:Ornate Bone Key
+803DD006:Foci of Verdancy
+803DD007:Pack
+803DD008:Copper Scarab
+803DD009:Silver Scarab
+803DD00A:Iron Scarab
+803DD00B:Lead Scarab
+803DD00C:Pyreal Scarab
+803DD00D:Gold Scarab
+803DD00E:Platinum Scarab
+803DD00F:Mana Scarab
+803DD011:Platinum Scarab
+803DD013:Ornate Bone Key
+803DD014:Mana Scarab
+803DD015:Ornate Bone Key
+803DD016:Ornate Bone Key
+803DD017:Diamond Scarab
+803DD018:Ornate Bone Key
+803DD019:Ornate Bone Key
+803DD01A:Ancient Mhoire Coin
+803DD01B:Ornate Bone Key
+803DD01C:Ornate Bone Key
+803DD01D:Ornate Bone Key
+803DD01E:Ornate Bone Key
+803DD01F:Pack
+803DD021:Massive Mana Charge
+803DD022:Massive Mana Charge
+803DD023:Ornate Bone Key
+803DD024:Prismatic Taper
+803DD025:Pack
+803DD027:Treated Healing Kit
+803DD028:Treated Healing Kit
+803DD029:Treated Healing Kit
+803DD02A:Treated Healing Kit
+803DD02B:Treated Healing Kit
+803DD02C:Treated Healing Kit
+803DD02D:Treated Healing Kit
+803DD02E:Treated Healing Kit
+803DD02F:Treated Healing Kit
+803DD030:Treated Healing Kit
+803DD031:Pack
+803DD050:Pyreal
+803DD075:Pyreal
+803DD03F:Wrapped Bundle of Arrowshafts
+803DD040:Wrapped Bundle of Arrowshafts
+803DD055:Blank Augmentation Gem
+803DD041:Wrapped Bundle of Arrowshafts
+803DD042:Wrapped Bundle of Arrowshafts
+803DD057:Stipend
+803DD043:Wrapped Bundle of Arrowshafts
+803DD044:Wrapped Bundle of Arrowshafts
+803DD058:Blank Augmentation Gem
+803DD045:Wrapped Bundle of Arrowshafts
+803DD06A:A Page of the Book of Eibhil
+803DD048:Salvage (45)
+803DD049:Salvage (50)
+803DD04A:Encapsulated Spirit
+803DD06B:Upper Insatiable Eater Jaw
+803DD04B:Wrapped Bundle of Deadly Prismatic Arrowheads
+803DD04C:Wrapped Bundle of Deadly Prismatic Arrowheads
+803DD04D:Wrapped Bundle of Deadly Prismatic Arrowheads
+803DD04E:Wrapped Bundle of Deadly Prismatic Arrowheads
+803DD04F:Salvage (60)
+803DD052:Town Network Portal Gem
+803DD054:Encapsulated Spirit
+803DD06C:Blank Augmentation Gem
+803DD06D:Ornate Bone Key
+803DD071:Upper Insatiable Eater Jaw
+803DD074:Blank Augmentation Gem
+803DD06E:Trade Note (250,000)
+803DD076:Trade Note (10,000)
+
+Missing Exports - Possessed items that were not found:

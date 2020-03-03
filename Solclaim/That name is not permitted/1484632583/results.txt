@@ -1,0 +1,32 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Mavness-02-01-2017-pcap\pcap\pkt_2017-1-16_1484622971_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Mavness-02-01-2017-pcap\pcap\pkt_2017-1-16_1484622971_log.pcap
+
+Partial Exports - Missing appraisal info:
+880EEF51:Pyreal
+8808AF2D:Foci of Verdancy
+880E96B7:Foci of Artifice
+880E3C26:Caramel Kukuur
+880F5FB9:Rock Candy Knath
+880ED574:Gummy Golem
+8811A060:Caramel Kukuur
+88143D12:Chocolate Gromnie
+8809360A:Rock Candy Knath
+880B7F57:Caramel Kukuur
+8809F739:Rock Candy Knath
+88071AF9:Top
+880EB977:Pocket Watch
+88121A35:Top
+8809F9F4:Fiun Crown
+880ED5FE:Pocket Watch
+8809FEC5:Loafers
+880EF285:Kasa
+880F649C:Calling Stone
+880F655C:Pants
+880ED1C1:Salvaged  (100)
+8815BFD7:Blackmoor's Favor
+880907BE:Some Changes for February 2012
+
+Missing Exports - Possessed items that were not found:

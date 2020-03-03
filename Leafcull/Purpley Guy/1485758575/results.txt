@@ -1,0 +1,31 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Uncle-P-Leafcull-1-30-2017-Random-Eastwatch-Silyun-Xara-Hilltop-Tusker-Honeycombs\pkt_2017-1-29_1485734254_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Uncle-P-Leafcull-1-29-2017-Beach-Fort-Mayoi-Tufa-Moarsman-Egg-New-Character\pkt_2017-1-29_1485676218_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Uncle-P-Leafcull-1-30-2017-Random-Eastwatch-Silyun-Xara-Hilltop-Tusker-Honeycombs\pkt_2017-1-29_1485734254_log.pcap
+
+Partial Exports - Missing appraisal info:
+AE76FFEF:Pyreal
+AE76FFF0:Sack
+AE76FFF9:Lead Scarab
+AE76FFF8:Prismatic Taper
+AE76FFF1:Ust
+AE76FFF7:Foci of Enchantment
+AEA8E6AD:A List of Items
+AEAA0A0C:Pack
+AEAA0A11:Pack
+AEAA0D76:Facility Hub Portal Gem
+AEA80EFC:Lesser Mana Stone
+AEA82387:Mana Potion
+AEA6007D:Minor Mana Stone
+AEA18647:Aura of Defender Self III
+AEA6172B:Scroll of Lure Blade III
+AE979F00:Scroll of Sprint Self IV
+AEA63E71:Pyreal
+AEA8AF5E:Pyreal
+AEAA51DC:Steel Toed Boots
+AEAB83ED:Chicken
+AEABE45D:Writings
+
+Missing Exports - Possessed items that were not found:

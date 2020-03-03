@@ -1,0 +1,39 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-27_1485531435_log.pcap
+
+Partial Exports - Missing appraisal info:
+C69371CE:Lead Scarab
+C69371FB:Prismatic Taper
+C693A097:Copper Scarab
+C69371D8:Ust
+C69371B5:Foci of Artifice
+C69371EB:Asheron's Benediction
+C69371F3:Blackmoor's Favor
+C693A0B2:A Ring of Acid Protection
+C693A086:Brood Matron Claw
+C68CA61E:Pants
+C69371AD:Alloy Turbine
+C69371BE:Pyreal
+C69371E3:Scroll of Portal Recall
+C693A09F:Pyreal
+C69371FC:Copper Pea
+C693A0CF:Silver Pea
+C693A08E:Pyreal
+C69371A5:Vial of Organic Acid
+C69371CF:Health Tincture
+C693A0D7:Sturdy Iron Key
+C693A0C7:Gifted Healing Kit
+C693A096:Gifted Healing Kit
+C69371D9:Gifted Healing Kit
+C693A0DF:Gifted Healing Kit
+C69371B6:Gifted Healing Kit
+C69371EC:Pyreal
+C68EDFB2:Pyreal
+C69371F4:Smock
+C69371BF:Elaborate Field Rations
+C69371C7:Longbow
+C693A0B1:Some Changes for February 2012
+C693A085:Academy Dirk
+C69371A6:Kite Shield
+
+Missing Exports - Possessed items that were not found:

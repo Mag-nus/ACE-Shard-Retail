@@ -1,0 +1,61 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-25_1485371769_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-25_1485343078_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485766009_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-26_1485461087_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-27_1485515049_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-27_1485526404_log.pcap
+
+Partial Exports - Missing appraisal info:
+B01A728B:Ust
+AFF4D411:Gem of Purity
+B65EF093:Pyreal
+801A489A:Coronet
+801A489B:Diadem
+B01E45C5:Gem of Stillness
+801A927F:Coronet
+801A927E:Circlet
+801A927D:Coronet
+801A927C:Signet Crown
+801A927B:Coronet
+801A4877:Prismatic Taper
+801A4878:Copper Scarab
+801A4879:Silver Scarab
+801A487A:Iron Scarab
+801A487B:Pyreal Scarab
+9DB98986:Lead Scarab
+9DB52C6B:Splitting Tool
+9DB1145A:Shoyanen's Portal Gem
+9DB5CF9B:Platinum Scarab
+9DB11A2C:Gold Scarab
+AFF9A975:Facility Hub Portal Gem
+B065A11E:Salvage
+B06895FC:Salvage
+B1081075:Aphus Lassel Portal Gem
+B0FEA53A:Prismatic Taper
+801A48A6:Foci of Artifice
+9DB528B1:Foci of Verdancy
+9DB7385E:Foci of Enchantment
+801AB568:Flaming Stick
+801AB532:Mace
+801A4893:Paradox-touched Olthoi Staff
+B0132DCB:Dho Vest and Over-Robe
+B00CE567:Greater Mana Stone
+92FC46DC:Greater Mana Stone
+93001DAF:Greater Mana Stone
+B0F72590:Moderate Mana Stone
+B1001EC3:Greater Mana Stone
+B0BFE786:Greater Mana Stone
+B0FD981E:Moderate Mana Stone
+B0FB9DB0:Moderate Mana Stone
+C78E3B87:Stipend
+9301053F:Amuli Leggings
+B64E21F9:Archer's Jewel
+B668D033:Orb
+801AB56F:Ken
+80583090:Tower Shield
+C784A278:Fire Spine Glaive
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,89 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-26_1485461087_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485766202_log.pcap
+
+Partial Exports - Missing appraisal info:
+801A96E0:Foci of Artifice
+801A96E4:Ust
+801A96E7:Imbuer's Crystal
+801A96E8:Pearl of Acid Baning
+801A96F4:Crown
+B10EE7BE:Pyreal
+801A96F5:Coronet
+801A96F6:Signet Crown
+801A96F7:Coronet
+801A96F8:Circlet
+801A96F9:Coronet
+801A96FA:Diadem
+801A96FB:Coronet
+801A96FC:Coronet
+801A96FD:Diadem
+801A96FE:Teardrop Crown
+801A96FF:Circlet
+801A9700:Diadem
+801A9701:Circlet
+801A9702:Teardrop Crown
+801A9703:Teardrop Crown
+801A9704:Circlet
+801A9705:Diadem
+801A9706:Circlet
+801A9707:Diadem
+801A9708:Signet Crown
+801A970A:Diamond Scarab
+801A970B:Lead Scarab
+801A970C:Copper Scarab
+801A970D:Silver Scarab
+801A970E:Iron Scarab
+801A970F:Prismatic Taper
+801A9710:Pyreal Scarab
+801A9711:Platinum Scarab
+801A9712:Gold Scarab
+801A9713:Aphus Lassel Portal Gem
+801A9714:Shoyanen's Portal Gem
+801A96EF:Colosseum Coin
+801A9715:Sho Gem of Worth
+801A9717:Dansha-Ki's Gem of Portal Recall
+801A971E:Viamontian Reconnaissance
+801A9719:Aphus Lassel Portal Gem
+801A96F1:Ornate Gear Marker
+801A972C:Moderate Mana Stone
+801A96F0:A'nekshay Token
+801A96EC:Gem of Stillness
+801A972D:Moderate Mana Stone
+801A96ED:Gem of Purity
+801A96EE:Blackmoor's Favor
+8E124C19:Moderate Mana Stone
+801A96E5:Facility Hub Portal Gem
+801A971A:Foci of Verdancy
+8E0FAB2A:Moderate Mana Stone
+801A971B:Foci of Enchantment
+801A973D:Alchemist's Crystal
+B10EE7BD:Pyreal
+8E1394A1:Converter's Crystal
+AF0B2CC1:Scholar's Crystal
+B10EE7BC:Pyreal
+B10D66D1:Pyreal
+B10D671A:Pyreal
+801A9619:Dansha-Ki's Gem of Portal Recall
+91E9BBA4:Dansha-Ki's Gem of Portal Recall
+92DF91CA:Sho Gem of Worth
+B3A6274B:Evader's Crystal
+BAE63C3B:Pyreal
+B3D48B8E:Trade Note (250,000)
+B71FA0FD:Thief's Crystal
+BAE8BE88:Blank Augmentation Gem
+801AEFD6:Long Sword
+B1090E34:Flaming Mace
+BAE8C5BC:Pyreal
+801A9718:Flaming Nekode
+C01EF582:Blank Augmentation Gem
+801AB3AE:Electric Trident
+801AEFD5:Dericost Blade
+801AB37E:Mazule
+B487C031:Nabut
+801A96E9:Faran Over-robe
+C78EAD16:Stipend
+
+Missing Exports - Possessed items that were not found:

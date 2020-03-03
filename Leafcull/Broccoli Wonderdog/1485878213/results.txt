@@ -1,0 +1,127 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\AC-Packet-Data-Jungle-Souljah-LC\pkt_2017-1-31_1485878199_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\AC-Packet-Data-Jungle-Souljah-LC\pkt_2017-1-29_1485710532_log.pcap
+
+Partial Exports - Missing appraisal info:
+8F22EC20:Hearty Reedshark Robe
+8F1E6D19:Hoory Mattekar Robe
+8F22EC4E:Orb
+8F1A54A9:Awakener
+8F22B510:Invoker
+8F22B511:Shadow Fragment
+8F22B50F:Sparkling Gem
+8F1E5BB0:Tiny Shard
+8F22EC86:Dark Sliver
+8F22EC2C:Shadow Fragment
+8F24B281:Cracked Shard
+8FB74EBE:Shadow Fragment
+8F22EC14:Pack
+8F22EC5A:Old Lucky Gold Letter
+8F22EC4D:Heart of Shadow
+8F1CFB73:Banderling Mask
+8F22EC85:Dark Sorcerer's Phylactery
+8F22EC90:Superior Great Jack o' Lantern
+8F22ECA0:Virindi Implant
+8F22EC59:Virindi Implant
+8F22EC41:Moarsman Mask
+8F22EC2B:Olthoi Helm
+8F22EC98:Gloves
+8F22B522:Ring
+8F22B261:Untranslated Writing
+8F22B51F:Bloodied Burun Hide
+8F22EC2A:Golden Gromnie
+8F22EE03:Golden Gromnie
+8F22EC8F:Golden Gromnie
+8F1E6B72:Golden Gromnie
+8F22EC9F:Golden Gromnie
+8F22EC97:Golden Gromnie
+8F22ECDE:Golden Gromnie
+8F22EC58:Pack Scarecrow
+8F22EC83:Golden Gromnie
+8F22EC40:Pack Scarecrow
+8F22B531:Pack Bael'Zharon
+8F22EC4B:Pack Scarecrow
+8F22B533:Pack Asheron
+8F22ECFA:Pack Scarecrow
+8F22B530:Pack Gaerlan
+8F22ECEB:Pack Scarecrow
+8F22ECF9:Pack Burun Kukuur
+8F0AED7F:Pack Martine
+8F22EC8E:Pack Levistras
+8F22B532:Tipped Pack Cow
+8F22EC9E:Linaural Urilaentai
+8F22EC57:Intricate Carving Tool
+8F22EC3F:Pyreal
+8F22EC96:Blackmoor's Favor
+8F22EC4A:Stipend
+8F22B53D:Pyreal
+8F22B53E:Pyreal
+8F22B380:Academy Coat
+8F22B37F:Academy Cestus
+8F22B53C:Ust
+8F22ECDD:Gibbering Claw
+8F22EC82:Heaume
+8F22ED1A:Heaume
+8F22ECEA:Pyreal Golem Heart
+8F22EC8D:Enhanced Mana Elixir
+8F22EC95:Skeleton
+8F22EC56:Trade Health Elixir
+8F22EC9D:Aphus Lassel Portal Gem
+8F22EC6C:Seal
+8F22DEA3:Heavy Bracelet
+8F22ED11:Imbue Swap Coin
+8F22ECE3:Massive Mana Charge
+8F22ECE9:Platemail Gauntlets
+8F22ECDC:Massive Mana Charge
+8F22EC81:Staff
+8F22ED19:Daulan Faur
+8F22ECF7:Bracelet of Knowledge
+8F22EC6B:Ebon Mattekar Hide
+8F22EC8C:Tumerok Salted Meat
+87D1F232:Ink of Separation
+8E8F36D4:Alacritous Ink
+8F198A11:Glyph of Creature Enchantment
+8F1C6EB4:Glyph of Health
+869B4965:Tinker's Crystal
+8DACD8AC:Elysa's Crystal
+80CEF923:Glyph of Magic Defense
+8E8FEFF2:Glyph of Endurance
+8A3D66F5:Glyph of Finesse Weapons
+80CEF924:Glyph of Alchemy
+80CEF925:Glyph of Mana
+8F198995:Glyph of Person Appraisal
+8F1AD297:Ink of Direction
+869572C0:Dark Sorcerer's Phylactery
+869E10B1:Stick
+86990C6F:Olthoi Celdon Sollerets
+86991662:Yoroi Tassets
+869E10AC:Poet's Shirt
+869C0DD7:Diadem
+86998295:Ring
+866D52FD:Noble Relic Helm of Will
+86991408:Olthoi Amuli Leggings
+869E10AB:Ring
+869E10AA:Ring
+869E10B3:Flaming Nabut
+8699212E:Lightning Nekode
+869E13EF:Chainmail Shirt
+86970759:Dirk
+869E1340:Trade Note (250,000)
+869C12C7:Trade Note (250,000)
+869E10BE:Platinum Scarab
+869C1701:Pack T'thuun
+869979BF:Pack T'thuun
+869E1407:Pack T'thuun
+86991853:Pack T'thuun
+8653B681:Pack T'thuun
+86997E20:Pack T'thuun
+8695BDED:Pack T'thuun
+867A7919:Pack T'thuun
+8F22EC6E:Greater Amuli Shadow Coat
+8F22EC94:Ornamental Bowl
+86997614:Dark Sorcerer's Phylactery
+868B83E9:Dark Sorcerer's Phylactery
+
+Missing Exports - Possessed items that were not found:

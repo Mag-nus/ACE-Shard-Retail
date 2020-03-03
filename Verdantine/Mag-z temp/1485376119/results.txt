@@ -1,0 +1,210 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-25_1485375948_log.pcap
+
+Partial Exports - Missing appraisal info:
+85D9831F:Pack
+85D8245D:Orb
+85D824AA:Staff
+85D82479:Orb
+9139C43C:Cowl
+85D982F6:Orb
+85D98317:Staff
+85D982D4:Pack
+85D982DD:Sceptre
+85D824B3:Sceptre
+90B8FD94:Aetheria
+85D9831B:Blunt Sceptre
+85D98332:Staff
+90B8FE70:Aetheria
+8EFC6B95:Nether Staff
+8E7681C7:Sceptre
+8ED1E7AB:Staff
+90946161:Wand
+9038C223:Aetheria
+903F5202:Nether Sceptre
+90598332:Acid Staff
+8D40C6D1:Nether Staff
+90C6DB65:Piercing Baton
+90E666A3:Glyph of Summoning
+9122515E:Electric Staff
+90FFF57E:Olthoi Alduressa Coat
+91405375:Lightning Corsesca
+915A527D:Chainmail Breastplate
+9153B1E6:Ken
+9033487B:Frost Sceptre
+90846D7A:Blunt Staff
+905FA566:Blunt Staff
+90BBE324:Acid Sceptre
+90E1AC14:Blunt Staff
+90DDD43B:Blunt Baton
+90A9A032:Electric Sceptre
+90D84507:Electric Baton
+90E0B4BF:Fire Sceptre
+90E827CD:Blunt Baton
+9098B746:Aetheria
+90C35D3E:Frost Baton
+90D3B6B7:Aetheria
+907D1F66:Electric Sceptre
+909C0542:Blunt Sceptre
+9097A0A2:Fire Sceptre
+90A068E9:Aetheria
+90B07078:Aetheria
+91538C63:Heavy Necklace
+9087C768:Electric Sceptre
+910013D7:Lyceum Hood
+85D808E3:Pack
+9016B593:Piercing Sceptre
+90FE3654:Turban
+9076D737:Slashing Baton
+90B514E8:Acid Baton
+90B9F11A:Blunt Sceptre
+90B70680:Blunt Sceptre
+90ED9334:Scalemail Hauberk
+90F78B3B:Chainmail Basinet
+90F4850E:Signet Crown
+90FAEFDC:Frost Sceptre
+90FDCB4B:Koujia Breastplate
+90F92B79:Olthoi Alduressa Boots
+91144672:Electric Staff
+9108747A:Chainmail Bracers
+9133E0C4:Acid Flanged Mace
+913FC536:Koujia Breastplate
+9132B781:Lugian Hammer
+911FC296:Blunt Bow
+91345108:Aetheria
+913F7459:Electric Baton
+9148AD3E:Corruptor's Crystal
+914FD8D5:Alchemist's Crystal
+9145F90E:Olthoi's Jewel
+9145D79B:Necklace
+85D824A8:Pack
+90FAA729:Chiran Sandals
+90F55926:Crown
+90F84D3C:Leather Pauldrons
+90FDC294:Acid Baton
+90F8933A:Fire Staff
+90F300D8:Acid Baton
+91147788:Circlet
+910C53D4:Lorica Gauntlets
+9134BB6E:Ring
+9106B891:Amuli Leggings
+91416D0B:Studded Leather Sleeves
+9125F2F2:Crown
+912E5880:Flaming Hammer
+9123CF21:Ring
+913E3066:Puffy Shirt
+9125B7CF:Acid Sceptre
+9123C2F9:Poet's Shirt
+912D64B4:Vestiri Over-robe
+9128A387:Frost Nabut
+91322BAF:Lace Shirt
+913101D1:Studded Leather Gauntlets
+91280F29:Scalemail Shirt
+912D2D97:Baggy Shirt
+91545B83:Acid Sceptre
+85D98323:Pack
+90FE3D77:Tenassa Breastplate
+90F8BB5B:Bandana
+90FAA7CB:Olthoi Alduressa Leggings
+90F047B7:Beret
+90F86B07:Lightning Spadone
+90F89992:Frost Baton
+9109063E:Cloth Gloves
+911603A9:Slashing Sceptre
+913EB657:Studded Leather Breastplate
+91320386:Frost Bow
+913FFE48:Olthoi Amuli Helm
+91337EA1:Acid Dirk
+9139DAC9:Dirk
+912C2EA8:Chiran Helm
+9125D274:Acid Staff
+9131C56F:Kasrullah
+9126ED0B:Olthoi Koujia Gauntlets
+91582483:Compass
+91475ED9:Dodger's Crystal
+913FB36E:Converter's Crystal
+91454570:Olthoi Celdon Sollerets
+91573777:Scholar's Crystal
+9156CE05:Pearl of Bludgeon Baning
+91457FBF:Goggles
+85D808EB:Pack
+90EB54AA:Olthoi Shield
+85D98325:Pack
+90EBA406:Slashing Baton
+90F2A46E:Scalemail Gauntlets
+90F55D28:Aetheria
+90F5D0A6:Lyceum Hood
+90FCCB02:Frost Staff
+91173D47:Acid Bow
+91023455:Sollerets
+90FFCB2A:Aetheria
+913C1AFC:Alduressa Boots
+9119B056:Piercing Bow
+912D886D:War Hammer
+91237601:Olthoi Celdon Helm
+91238298:Nariyid Leggings
+9123D1D6:Olthoi Alduressa Coat
+914A087F:Artist's Crystal
+914BDB16:Diforsa Sollerets
+914DA008:Resister's Crystal
+91535CD8:Enchanter's Crystal
+91584042:Brawler's Crystal
+914734E8:Necklace
+91481F2D:Scimitar
+910BEFE3:Diadem
+914857FB:Tenassa Leggings
+915B8150:Chevron Cloak
+910528B8:Haebrean Boots
+9113E28D:Olthoi Shield
+91161B69:Blunt Staff
+9112137C:Chainmail Girth
+911AD144:Frost Pike
+91119241:Chainmail Tassets
+9100320E:Electric Staff
+911DC9E2:Teardrop Crown
+9113A8FA:Cloth Gloves
+9100B58B:Qafiya
+91217CEB:Shoes
+9115957D:Olthoi Koujia Sleeves
+9109248B:Chainmail Bracers
+9131CDF4:Covenant Shield
+913868B8:Amuli Leggings
+912EA7C6:Alduressa Gauntlets
+913C415D:Empyrean Over-robe
+91487E52:Kasa
+915C5AD9:Vestiri Over-robe
+91538BE4:Crown
+914B82B5:Oswald's Crystal
+914D420D:Dolabra
+914A74C5:Tinker's Crystal
+914B2928:Smithy's Crystal
+91451720:Chevron Cloak
+91534819:Coronet
+915701F0:Fire Staff
+9158394D:Chevron Cloak
+9161FF2B:Chef's Crystal
+914A0F3E:Fire Staff
+91441EE3:Goggles
+912F5257:Tenassa Leggings
+914872E3:Diforsa Bracers
+9153B438:Ring
+915C6AB8:Puzzle Box
+915871C6:Signet Crown
+9160753B:Shoes
+91598CEC:Hood
+9158EEFA:Koujia Sleeves
+9159E096:Quarter Staff
+91618219:Evader's Crystal
+9145DF32:Aetheria
+914AD2F2:Slashing Compound Bow
+914D5AC0:Shoes
+91458058:T'ing's Crystal
+915013F1:Top
+914D8F5D:Loose Shirt
+915321C4:Top
+914576FE:Ring
+9145665A:Diforsa Cuirass
+915F8E65:Shoes
+914E55D7:Heavy Bracelet
+
+Missing Exports - Possessed items that were not found:

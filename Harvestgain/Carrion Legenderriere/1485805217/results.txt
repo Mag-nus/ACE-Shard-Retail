@@ -1,0 +1,240 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\CatDevnull-Dont-Remember-1\pkt_2017-1-30_1485795672_log.pcap
+
+Partial Exports - Missing appraisal info:
+AAB73D10:Sack
+AAB73D11:Ust
+AAB73D18:Prismatic Taper
+AAB73D19:Lead Scarab
+98FF8301:Aphus Lassel Portal Gem
+AAE6A593:Copper Scarab
+AAEE3661:Facility Hub Portal Gem
+AAEBF554:Silver Scarab
+AAEB4A06:Treated Healing Kit
+AAEC6844:Treated Healing Kit
+AAEC6F5C:Health Tonic
+AAEC4418:Stamina Tonic
+A930040A:Major Mana Stone
+AAF2BA04:Encapsulated Spirit
+AAEFD5CC:Academy Battle Axe
+C281B1F7:Small Belt Pouch
+AAEC2D46:Pack
+B7CE9206:Olthoi Celdon Helm
+B852A4E6:Chainmail Gauntlets
+C281A310:Small Belt Pouch
+B852C969:Armet
+B7699546:Coronet
+A5AF3258:Chainmail Gauntlets
+A4310044:Platemail Girth
+ACE11AC4:Olthoi Koujia Breastplate
+AC746050:Haebrean Greaves
+ACEDBE77:Diforsa Bracers
+AB0056DF:Pack
+AD5D91BF:Circlet
+ACE8324D:Fez
+BB89A88B:Slippers
+AD223E8D:Olthoi Alduressa Gauntlets
+BA7C9A6E:Lorica Leggings
+BA3B8388:Studded Leather Leggings
+BBC21B9A:Knorr Academy Vambraces
+BBBF6758:Haebrean Helm
+BBBC32AF:Scalemail Greaves
+BA7F2127:Studded Leather Pauldrons
+BBBFF2C2:Olthoi Alduressa Gauntlets
+BA41CA13:Studded Leather Cuirass
+AAB1F72E:Nariyid Girth
+C2B9F3C5:Quartered Cloak
+C03A9C58:Quartered Cloak
+A8EB23B3:Knorr Academy Boots
+AA587FF0:Studded Leather Boots
+AA19163D:Sedgemail Leather Shoes
+AA01633A:Loafers
+A9D360B2:Olthoi Amuli Sollerets
+AAA5431F:Shoes
+AAB24C69:Slippers
+AAD40CBF:Shoes
+A9C93832:Slippers
+A9436176:Slippers
+A93920A4:Olthoi Alduressa Boots
+A9387189:Chiran Sandals
+AAAE366C:Olthoi Alduressa Boots
+AA7BCD80:Radiant Blood Sollerets
+AA6BFF82:Radiant Blood Sollerets
+AC8A6775:Loafers
+AC666FA0:Chiran Sandals
+ACECDDCB:Shoes
+AD5C31A3:Haebrean Boots
+ACEDC35E:Olthoi Alduressa Boots
+AD5C139C:Slippers
+A5EA5E79:Steel Toed Boots
+ACBEBC55:Lorica Helm
+ACD85DC5:Chainmail Gauntlets
+AAFE861A:Pack
+AAADA226:Olthoi Amuli Helm
+AACEC8B8:Olthoi Amuli Helm
+AACAA32D:Diadem
+AAD49CAB:Olthoi Koujia Kabuton
+ABA8FF58:Beret
+A9B04C6F:Circlet
+A82F7E01:Signet Crown
+A93907F4:Teardrop Crown
+A9172370:Sedgemail Leather Cowl
+AB08C248:Leather Cowl
+AB15116B:Lyceum Hood
+A7DE6FB3:Chiran Helm
+ABDEA300:Coronet
+AC8A70C2:Hood
+A93974B8:Cloth Gloves
+AC0F3620:Chiran Gauntlets
+A937EC43:Studded Leather Gauntlets
+A992DA3C:Chainmail Gauntlets
+905E8924:Diforsa Gauntlets
+BFCD67F6:Gorget
+A10AEDBF:Studded Leather Gauntlets
+A9CAC915:Cloth Gloves
+AAD3344E:Olthoi Celdon Gauntlets
+AA002376:Olthoi Alduressa Gauntlets
+A9F9C368:Olthoi Koujia Gauntlets
+A9172413:Chainmail Girth
+A91AF563:Leather Pants
+A7DA1434:Leather Tassets
+A991DB10:Chainmail Pauldrons
+AAD473AB:Chainmail Breastplate
+AAB0317F:Yoroi Tassets
+AAAE2745:Studded Leather Cuirass
+AAB200F4:Studded Leather Bracers
+AAB1E491:Studded Leather Greaves
+AAB0F1AE:Vestiri Over-robe
+AAAD62AA:Platemail Pauldrons
+AA693A9B:Leather Tassets
+AB9AF690:Studded Leather Sleeves
+AB9DE1E7:Covenant Gauntlets
+AB12F08F:Leather Cuirass
+AB090243:Studded Leather Sleeves
+ABDB21C7:Leather Leggings
+ABDC6CFB:Studded Leather Girth
+ABDDAF80:Chainmail Sleeves
+ABDDD39D:Lorica Gauntlets
+ABA67B75:Long Leather Gauntlets
+ABC92A39:Radiant Blood Pauldrons
+BA3257EA:Studded Leather Boots
+BF4055A1:Leather Greaves
+BFBE0AC3:Chiran Helm
+C19D4F5A:Heavy Bracelet
+C19EEAFF:Pocket Watch
+BF40538E:Loafers
+C19AB3FA:Ring
+BFBC4056:Heavy Necklace
+BFBD9CEE:Ring
+BFBDA467:Pants
+BFBF30B1:Bracelet
+BFBE2BF2:Chevron Cloak
+BFCFBE7E:Heavy Necklace
+BB7D2CE7:Diadem
+BFFA6B69:Crown
+C0085235:Lyceum Hood
+C0085C61:Pocket Watch
+C08C416B:Haebrean Helm
+C08CE384:Top
+C055EED5:Knorr Academy Gauntlets
+C08763C5:Heavy Bracelet
+C0ABB278:Bracelet
+C0BD340E:Heavy Bracelet
+C0BB215B:Heavy Bracelet
+C0B54DA1:Bracelet
+C0B6D461:Puzzle Box
+C0BD646D:Baggy Pants
+C0BE218E:Studded Leather Bracers
+C0BE506E:Flared Pants
+C0B8101B:Heavy Necklace
+C0F38EF2:Ring
+B5ECC282:Heavy Bracelet
+BF3EA3FB:Ring
+BF3B44AE:Smock
+BF4154DC:Heavy Necklace
+BF31EFDE:Heavy Bracelet
+BF4AA7E0:Halved Cloak
+C2B9BCE9:Gorget
+BF506B11:Heavy Bracelet
+BF507681:Quartered Cloak
+BF566C2D:Heavy Bracelet
+ABB60E10:Olthoi Koujia Gauntlets
+ABA983A8:Leather Gauntlets
+AA699400:Sedgemail Leather Gauntlets
+A8E3ED47:Radiant Blood Gauntlets
+BFBF2CCD:Leather Gauntlets
+A925EF1F:Chainmail Greaves
+AAB1EA0B:Leather Shorts
+AAA3443B:Chainmail Tassets
+B95D215B:Chainmail Tassets
+C2895113:Leather Gauntlets
+C3196CA9:Goggles
+C4AF9362:Ring
+C3038AD5:Sandals
+C2D12134:Ring
+C2B99DBD:Ring
+C2B99D48:Pants
+C2B0384A:Heavy Necklace
+C2B8AA12:Shirt
+C15F9A32:Chiran Helm
+C28DC2E3:Ring
+C4BE5D53:Chevron Cloak
+C4AC51CB:Ring
+C4BE003E:Goggles
+C4AC52E6:Heavy Necklace
+C4A11420:Loafers
+C4AC9CE5:Flared Pants
+C004FC4E:Tenassa Breastplate
+C0065DE2:Nariyid Sleeves
+C03AF412:Koujia Breastplate
+C05556EE:Tenassa Breastplate
+C0BA7B5F:Olthoi Koujia Breastplate
+BF4383A9:Scalemail Breastplate
+A991E9C2:Tenassa Leggings
+A93713FA:Chiran Coat
+BF2F4356:Chiran Leggings
+ABDB35AD:Tenassa Sleeves
+AA5B0331:Leather Pants
+AAA7E488:Olthoi Celdon Leggings
+AAB02F1E:Studded Leather Coat
+AAD4856F:Tenassa Breastplate
+B86CA64C:Studded Leather Coat
+B7CF0DDA:Studded Leather Breastplate
+C53C7D14:Ring
+C5333985:Olthoi Amuli Sollerets
+C53FDA72:Ring
+C53F8A1F:Pants
+C53D10BF:Smock
+C538CB48:Turban
+C53CE49E:Ring
+C53CDAF9:Halved Cloak
+C51A2B88:Platemail Vambraces
+C51423AE:Ring
+C4BE42B6:Ring
+C5199010:Flared Shirt
+C5191659:Shirt
+C50821BC:Studded Leather Basinet
+C4D1CAFB:Cowl
+C4D2FEC0:Smock
+C4D2CFBA:Goggles
+C47019E3:Bracelet
+C4BD583A:Loose Pants
+C4BEFDDB:Baggy Shirt
+C4BEFAB9:Chevron Cloak
+C5E4EB95:Alduressa Gauntlets
+C5E7F694:Kote
+C5E55F59:Teardrop Crown
+C5DDDC14:Lorica Leggings
+A91F4247:Koujia Leggings
+A4729465:Olthoi Celdon Helm
+BAFB9B8A:Compass
+A5C2C5A5:Puzzle Box
+A46E6E9F:Leather Bracers
+A407521D:Chainmail Tassets
+A4309698:Leather Cuirass
+A39840E5:Heavy Bracelet
+A466B84D:Olthoi Celdon Girth
+C75C841A:Olthoi Celdon Breastplate
+C7708B1E:Celdon Sleeves
+
+Missing Exports - Possessed items that were not found:

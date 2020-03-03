@@ -1,0 +1,40 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-05-2017\AC_Logs_Leafcull_Dark_Noble_SimonF\pkt_2017-1-21_1484976891_log.pcap
+
+Partial Exports - Missing appraisal info:
+DB24DFEB:Doublet
+DB24DF6B:Pants
+DB24DF63:Pyreal
+DB24712A:Sack
+DB24DF56:Ust
+DB24DF84:Calling Stone
+DB24DD66:Foci of Strife
+DB24DF4D:Foci of Verdancy
+DB24DFF4:Prismatic Taper
+DB24DFF5:Lead Scarab
+DB24DB44:Blackmoor's Favor
+DB24DB3E:Oil of Rendering
+DB24DB25:Pathwarden Robe
+DB128BA5:Pathwarden Helm
+DB24DF69:Prismatic Taper
+DB24D462:Pathwarden Gauntlets
+DB11F0C3:Faran War Apprentice Robe
+DB24E011:Pyreal
+DB125411:Iron Scarab
+DB24DF61:Lead Scarab
+DB16AACF:A Ring of Acid Protection
+DB24DF72:Treated Healing Kit
+DB11A256:Faran Robe with Hood
+DB24DF29:Copper Scarab
+DB24DF7F:Foci of Artifice
+DB1C1985:Ring
+DB24DF80:Flaming Knife
+DB168066:Bracelet
+DB24DB83:Ring
+DB24DB8C:Amulet
+DB24DB6B:Vaulter's Crystal
+DB24DF7E:Pants
+DB146ADE:Some Changes for February 2012
+DB24E010:Sceptre
+
+Missing Exports - Possessed items that were not found:

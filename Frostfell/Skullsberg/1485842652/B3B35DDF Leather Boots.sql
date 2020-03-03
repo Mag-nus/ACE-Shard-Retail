@@ -1,0 +1,60 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (3014876639, 115, 2, 6476097) /* Clothing */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (3014876639,   1,          2) /* ItemType - Armor */
+     , (3014876639,   4,      65536) /* ClothingPriority - Feet */
+     , (3014876639,   5,        420) /* EncumbranceVal */
+     , (3014876639,   9,        384) /* ValidLocations - LowerLegWear, FootWear */
+     , (3014876639,  10,        384) /* CurrentWieldedLocation - LowerLegWear, FootWear */
+     , (3014876639,  16,          1) /* ItemUseable - No */
+     , (3014876639,  19,       1100) /* Value */
+     , (3014876639,  28,        130) /* ArmorLevel */
+     , (3014876639,  65,        101) /* Placement - Resting */
+     , (3014876639,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (3014876639,   1, False) /* Stuck */
+     , (3014876639,  11, True ) /* IgnoreCollisions */
+     , (3014876639,  13, True ) /* Ethereal */
+     , (3014876639,  14, True ) /* GravityStatus */
+     , (3014876639,  19, True ) /* Attackable */
+     , (3014876639,  22, True ) /* Inscribable */
+     , (3014876639, 100, True ) /* Dyable */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (3014876639,  13,       1) /* ArmorModVsSlash */
+     , (3014876639,  14, 0.800000011920929) /* ArmorModVsPierce */
+     , (3014876639,  15,       1) /* ArmorModVsBludgeon */
+     , (3014876639,  16,     0.5) /* ArmorModVsCold */
+     , (3014876639,  17,     0.5) /* ArmorModVsFire */
+     , (3014876639,  18, 0.300000011920929) /* ArmorModVsAcid */
+     , (3014876639,  19, 0.600000023841858) /* ArmorModVsElectric */
+     , (3014876639, 165,       1) /* ArmorModVsNether */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (3014876639,   1, 'Leather Boots') /* Name */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (3014876639,   1,   33554640) /* Setup */
+     , (3014876639,   3,  536870932) /* SoundTable */
+     , (3014876639,   6,   67108990) /* PaletteBase */
+     , (3014876639,   8,  100669153) /* Icon */
+     , (3014876639,  22,  872415275) /* PhysicsEffectTable */
+     , (3014876639, 8001,    2588696) /* PCAPRecordedWeenieHeader - Value, Usable, Wielder, ValidLocations, CurrentlyWieldedLocation, Priority, Burden */
+     , (3014876639, 8003,         18) /* PCAPRecordedObjectDesc - Inscribable, Attackable */
+     , (3014876639, 8005,     137217) /* PCAPRecordedPhysicsDesc - CSetup, STable, PeTable, AnimationFrame */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (3014876639,   3, 1343410201) /* Wielder */
+     , (3014876639, 8000, 3014876639) /* PCAPRecordedObjectIID */;
+
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
+VALUES (3014876639, 67110383, 160, 8);
+
+INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
+VALUES (3014876639, 0, 83887054, 83887054, 0)
+     , (3014876639, 0, 83887051, 83887051, 1);
+
+INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, `order`)
+VALUES (3014876639, 0, 16778380, 0);

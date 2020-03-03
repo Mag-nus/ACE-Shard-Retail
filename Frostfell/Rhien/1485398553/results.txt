@@ -1,0 +1,26 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Random_Logs\pkt_2017-1-25_1485398536_log.pcap
+
+Partial Exports - Missing appraisal info:
+DCD5F936:Oil of Rendering
+DCD5F937:Academy Coat
+DCD5F938:Some Changes for February 2012
+DCD5F939:Training Ken
+
+Missing Exports - Possessed items that were not found:
+DCD5F935
+DCD5F934
+DCD5F933
+DCD5F932
+DCD5F931
+DCD5F930
+DCD5F92F
+DCD5F92D
+DCD5F92C
+DCD5F92B
+DCC6CBE5
+DCD5F92E
+DCD47609
+DCD47669
+DCD475A1
+DCD47640

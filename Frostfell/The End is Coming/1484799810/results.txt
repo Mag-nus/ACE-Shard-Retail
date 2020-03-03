@@ -1,0 +1,272 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-09-2017\Callaway-1-17-29-2017-Misc2\pkt_2017-1-18_1484772249_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-06-2017\Callaway-January2017-Account3\pkt_2017-1-9_1484007069_log.pcap
+
+Partial Exports - Missing appraisal info:
+DAF66FD8:King of Hands
+DAF66EB3:The Jester
+DA763974:Ten of Eyes
+DABC6270:Two of Eyes
+DB39BEE0:Mana Forge Key
+DB1BBD2B:Strengthened Mana Forge Key
+DB348386:Black Luster Pearl
+DB48F087:Aetheria
+DB504F54:Aetheria
+DB30EFDF:Tall Stocking Cap
+DB39FAA9:Holiday Lights
+DB0803DC:Five of Hands
+DAC68A9E:King of Eyes
+DAC5A567:Four of Hands
+DB39BE9A:Skeletal Falatacot Key
+DB3A08B1:Skeletal Falatacot Key
+DB391488:Misshapen Bone Fragment
+814FA0FD:Priceless Ore
+DB2DAD9E:Colosseum Ticket
+DB38EDCC:Glyph of Quickness
+DAEF7042:Stipend
+DAB1E305:Strengthened Mana Forge Key
+B0E483F7:Basket
+B44660AB:Adjanite Mana Stone
+DAA378C7:Durable Legendary Key
+DAA66851:Durable Legendary Key
+DB10DB3D:Durable Legendary Key
+DB336D8A:Durable Legendary Key
+DB3DF89C:Durable Legendary Key
+DB29FD8D:Durable Legendary Key
+DB1FA060:Durable Legendary Key
+DB2521F0:Durable Legendary Key
+DAA66217:Durable Legendary Key
+DB3BE05A:Durable Legendary Key
+DAA66A43:Durable Legendary Key
+B46E6079:Shadow Fragment
+DAEF61CA:Shadow Fragment
+B467759D:Dark Shard
+B494EF16:Dark Shard
+DB2E344B:Durable Legendary Key
+DB3DDBB8:Durable Legendary Key
+DB33C735:Durable Legendary Key
+DB2DFD7E:Black Luster Pearl
+DB195BB4:Black Luster Pearl
+DB2DC78C:Black Luster Pearl
+DB30653A:Black Luster Pearl
+DB30ACE4:Black Luster Pearl
+DAA66142:Cave Penguin Cake
+B42E7DCA:Gold Pea
+B406E9F1:Pyreal Pea
+B16248BB:Copper Pea
+B48C0C2F:Aetheria
+B157B6B6:Mi Krau-Li's Improved Jitte
+DAAC7958:Trade Note (75,000)
+B499C9E0:Halaetan Magic Page 6
+DAE06885:Quintessence Sickle
+DAAD0F9E:Ink of Objectification
+8BAB9CFF:Nexus Crawler's Mask
+DAB19548:Black Rock
+D950A379:Mana-infused Acid War Staff of Aerfalle
+DAECEEAA:Dark Ruby Ring
+8039282B:Virindi Cage
+DAAF1D21:Frost Spadone
+DADD9ECF:Ink of Direction
+DAADD628:Chevron Cloak
+DAAEE806:Chevron Cloak
+DAF4C446:Quartered Cloak
+DAF00EEE:Mana Forge Key
+DACA2E7A:Mana Forge Key
+8BAB9EA5:Flaming Shashqa
+8BAB9D22:Lightning Great Star Mace
+DC15AACA:Pyreal
+8BAB9D36:Flaming Tetsubo
+8BAB9EA9:Frost Shashqa
+DAAEF585:War Axe
+B0237632:Shortbow
+DB0A7BDC:Shield of Truth
+DAAAC0C2:Nexus Crawler's Mask
+DAF0329E:Katar of the Fallen
+DB0B4B4A:Gem of Balance
+DAEE838E:Cabalist Drudge Charm
+DB073F32:Puzzle Box
+DB08EB63:Verdalim Plant
+DAF38616:Writ of Refuge
+DAF64765:Encapsulated Spirit
+DAC5DF85:Repugnant Eater Ripper Plaque
+DA72C7CA:Prismatic Taper
+DA72C7CB:Lead Scarab
+DAED8C08:Blackmoor's Favor
+DB0C87B2:Small Belt Pouch
+DAEC1F45:Facility Hub Portal Gem
+B1D6816A:Ink of Conveyance
+B1C7CD9C:Alacritous Ink
+B19E7A32:Ink of Formation
+B1CEE068:Quill of Extraction
+DAE5B7B1:Shadow Fragment
+B1BDCA7F:Quill of Introspection
+B1CCE976:Glyph of Leadership
+B15D8066:Little Green Seeds
+B1C72308:Glyph of Missile Weapons
+B1BDDF3C:Glyph of Two Handed Combat
+B1C71E8C:Glyph of Bludgeoning
+B1C7C47F:Glyph of Fletching
+B1CF5EC6:Glyph of Slashing
+B2F55EF3:Glyph of Light Weapons
+DB1EE045:Salvage (100)
+8BAB9CFB:Salvage (84)
+B49AFDA4:Mana Forge Key
+8BAB9CF4:Salvage (39)
+8BAB9CF6:Salvage (72)
+DB0C87C8:Small Belt Pouch
+8BAB9CB4:Salvage (75)
+8BAB9CF5:Salvage (90)
+DABEF444:Visage of Menilesh
+8BAB9D1D:Salvage (30)
+DAEEEF6E:Pathwarden Plate Hauberk
+DAEEEF6C:Pathwarden Plate Leggings
+DB57106C:Salvage
+819C874B:Three of Eyes
+D950A37A:Aerfalle's Mana-infused Pallium
+8CAFFA2C:Knight's Crystal
+B0C973DD:Artificer's Crystal
+B0D1A343:Gelid's Jewel
+819C858E:Eight of Eyes
+DB070014:Ancient Empyrean Trinket
+819D0E9B:Nine of Hands
+819C8374:Two of Hands
+8016587D:Wood Heart
+B498DA81:Small Shard
+B46402B3:Dark Shard
+B45D2760:Pyreal Mote
+B45D393E:Pyreal Mote
+B0E48405:Crystal Nodule
+B0E48406:Crystal Nodule
+B0E48407:Crystal Nodule
+B0E48408:Crystal Nodule
+B0E48409:Crystal Nodule
+B0E4840A:Crystal Nodule
+DAE865E9:Peerless Drudge Charm
+DAF09DA5:Virindi Desecrator Mask
+B4701688:Shadow Fragment
+B495C227:Marshmallow Ghost
+B0B00543:Candy Corn
+DAE2CE28:Tusker Spit
+DB9000A5:Salvage
+B183DC98:Amuli Coat
+8BAB9CC2:Platemail Gauntlets
+B069482A:Amuli Leggings
+DB6220F4:Nariyid Helm
+DBC4D05A:Blue Jewel
+DBC4D021:Colban Plant
+DBAF92F9:Olthoi Celdon Girth
+DBAFA016:Covenant Breastplate
+DBB092A6:Olthoi Breastplate
+DBB094BA:Olthoi Greaves
+DBA55704:Koujia Breastplate
+DBAFA30C:Electric Compound Bow
+8BAB9CF3:Salvage (36)
+8BAB9CF9:Salvage (51)
+819C755B:Virindi Consul Mask
+8BAB9CF7:Salvage (13)
+B49AFDA5:Salvage
+B440046A:Adjanite Crown
+B49AFDA6:Salvage
+DAF06E9C:Shield of Yanshi
+B7097978:Mattekar Hide Sleeves
+DB025FDB:Replica Sword of Bellenesse
+DB0A7BDD:Jitte of Law
+DB09B027:Sawato Bandit's Mask
+DAA6B3C3:Chiran Sandals
+DAAD2D53:Coronet
+DAAEE80B:Studded Leather Girth
+B0E48410:Sack
+DAAEE785:Electric Board with Nail
+819C75F7:Trident
+DAAB9272:Spine Glaive
+DAAA1169:Frost Tetsubo
+8BAB9CA7:Tetsubo
+DAAF19F4:Khanda-handled Mace
+DAAEF191:Khanda-handled Mace
+B0E48411:Crystal Nodule
+B0E48412:Crystal Nodule
+B0E48413:Crystal Nodule
+B0E48414:Crystal Nodule
+B0E48415:Crystal Nodule
+B0E48416:Crystal Nodule
+B0E48417:Crystal Nodule
+B0E48418:Crystal Nodule
+B0E48419:Crystal Nodule
+B0E4841A:Crystal Nodule
+B0E4841B:Crystal Nodule
+B0E4841C:Crystal Nodule
+B0E4841D:Crystal Nodule
+B0E4841E:Crystal Nodule
+B0E4841F:Crystal Nodule
+B0E48420:Crystal Nodule
+B0E48421:Crystal Nodule
+B0E48422:Crystal Nodule
+B0E48423:Crystal Nodule
+B0E48424:Crystal Nodule
+B0E48425:Crystal Nodule
+B0E48426:Crystal Nodule
+B0E48427:Crystal Nodule
+B0E48428:Crystal Nodule
+819C8799:Potion of Endless Vigor
+B0E483F8:Crystal Nodule
+8BAB9CF2:Salvage (60)
+8BAB9C51:Salvage (56)
+B0E483F9:Crystal Nodule
+DB178ECE:Gladiator Diemos Statue
+B0E483FA:Crystal Nodule
+DB274419:Acid Mace
+DB4DF3C5:Acid Sceptre
+B0E483FB:Crystal Nodule
+DB50283B:Hood
+DB4E975D:Chainmail Tassets
+B0E483FC:Crystal Nodule
+DB3D22B7:Olthoi Celdon Breastplate
+DB4F3BE6:Cloth Gloves
+DB4E8C3D:Electric Sceptre
+DB4D9692:Frost Dolabra
+DB501793:Flaming Dirk
+DB504F52:Faran Over-robe
+DB501184:Studded Leather Leggings
+DB5011A2:Studded Leather Cuirass
+DB500B14:Mechanical Scarab
+DB509B4A:Chevron Cloak
+B0E483FD:Crystal Nodule
+DB50487D:Kasa
+B88588C9:Aetheria
+B0E483FE:Crystal Nodule
+DB4FF770:Olthoi Tassets
+DB4FF08E:Olthoi Shield
+DB501790:Olthoi Greaves
+DB4DE6EE:Olthoi Breastplate
+DB3D2A3A:Olthoi Breastplate
+DB4F3C89:Covenant Gauntlets
+DB3152D9:Olthoi Gauntlets
+DB504666:Olthoi Sollerets
+DB314ED5:Olthoi Girth
+DB4E81DA:Covenant Helm
+B0E483FF:Crystal Nodule
+B0E48400:Crystal Nodule
+B0E48401:Crystal Nodule
+B0E48404:Crystal Nodule
+DBAFA89F:Lorica Helm
+D91C5970:Leather Pauldrons
+DB7DCD4A:Lightning Nekode
+D91C4335:Chiran Helm
+DB8329C6:Covenant Girth
+DB5F3D7A:Weeping Claw
+DB86793D:Studded Leather Cuirass
+DB49D22E:Electric Weeping Claw
+DB9247FA:Top
+DB74476E:Halved Cloak
+DB82610C:Acid Nekode
+DB7DCC5A:Flaming Great Star Mace
+DB72ED07:Kite Shield
+DB4901E0:Frozen Weeping Claw
+DBAD1F3E:Golden Gromnie
+DBA33166:Salvage
+DB3D836B:Salvage
+DC176BAA:Invitation Plateau
+
+Missing Exports - Possessed items that were not found:

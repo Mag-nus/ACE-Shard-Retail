@@ -1,0 +1,75 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Cyberkiller-01-31-2017-Random\pkt_2017-1-31_1485860072_log.pcap
+
+Partial Exports - Missing appraisal info:
+92805E73:Ust
+92805E75:Foci of Artifice
+92805E77:Pack
+92805E78:Pyreal Scarab
+92805E79:Silver Scarab
+92805E7A:Prismatic Taper
+92805E7B:Pyreal Scarab
+92805E7C:Lead Scarab
+92805E7D:Copper Scarab
+92805E7F:Excellent Healing Kit
+92805E80:Excellent Healing Kit
+92805E81:Excellent Healing Kit
+92805E82:Excellent Healing Kit
+92805E83:Excellent Healing Kit
+92805E85:Peerless Healing Kit
+92805E86:Excellent Healing Kit
+92805E87:Platinum Scarab
+92805E88:Gold Scarab
+92805E89:Prismatic Taper
+92805E8A:Pack
+92805E8B:Excellent Healing Kit
+92805E8C:Excellent Healing Kit
+92805E8D:Excellent Healing Kit
+92805E8E:Excellent Healing Kit
+92805E8F:Excellent Healing Kit
+92805E90:Excellent Healing Kit
+92805E91:Excellent Healing Kit
+92805E92:Excellent Healing Kit
+92805E93:Excellent Healing Kit
+92805E94:Excellent Healing Kit
+92805E95:Excellent Healing Kit
+92805E97:Gifted Healing Kit
+92805E98:Gifted Healing Kit
+92805E99:Gifted Healing Kit
+92805E9A:Gifted Healing Kit
+92805E9B:Gifted Healing Kit
+92805E9C:Gifted Healing Kit
+92805E9D:Gifted Healing Kit
+92805E9E:Gifted Healing Kit
+92805E9F:Gifted Healing Kit
+92805EA0:Pack
+92805EB5:Titan Mana Charge
+92805EB6:Titan Mana Charge
+92805EB7:Titan Mana Charge
+92805EB8:Pack
+92805ECD:Titan Mana Charge
+92805ED0:Titan Mana Charge
+92805ED5:Olthoi Stab Claw
+92805ED1:Foci of Enchantment
+92805ED2:Foci of Verdancy
+92805ED3:Trade Note (150,000)
+92805ED6:Trade Note (10,000)
+92805ED7:Trade Note (5,000)
+92805ED8:Olthoi Stamp
+92805EDA:Trade Note (250,000)
+92805EE2:Pyreal
+92805EE5:Titan Mana Charge
+92805EE1:Adventurer's Token
+92805EE3:Minalim Plant
+92805EE4:Dire Champion Token
+92805EE6:Titan Mana Charge
+92805EF0:Blighted Mana Crystal
+92805EEC:Silver Pea
+92805EED:Copper Pea
+92805EEE:Gold Pea
+92805EF1:Lead Pea
+92805EF5:Rare Crystalline Shard
+92805EF6:Lapyan Plant
+92805EF9:Some Changes for February 2012
+
+Missing Exports - Possessed items that were not found:

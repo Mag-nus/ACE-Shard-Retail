@@ -1,0 +1,175 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Immortalbob-1-31-17-Random-Pcaps\pkt_2017-1-31_1485870351_log.pcap
+
+Partial Exports - Missing appraisal info:
+807ACE1A:Ust
+80793242:Foci of Verdancy
+8075764D:Foci of Artifice
+807498ED:Foci of Enchantment
+8077921D:Pack
+8071ADE5:Copper Scarab
+807ACE27:Lead Scarab
+807ACE7D:Gold Scarab
+807ACDB3:Pyreal Scarab
+80793B5A:Iron Scarab
+807ACE04:Shoyanen's Portal Gem
+807ACE1C:Intricate Carving Tool
+807ACDB4:Quiddity Orb
+807ACE68:Hollow Staff
+807ACE28:Silver Scarab
+8079E26A:Shendolain Crystal Shield
+807ACCD2:Platinum Scarab
+807ACE1E:Empowered Helm of the Perfect Light
+807ACE1D:Platinum Scarab
+807AB92A:Mana Scarab
+807ACE12:Prismatic Taper
+807ACDEE:Prismatic Taper
+807ABF3C:Plentiful Healing Kit
+8072B8A1:Deck of Eyes
+807ACDD7:Pack
+807AB937:Trade Note (150,000)
+807ACDE7:Trade Note (75,000)
+807ACDB2:Trade Note (50,000)
+807ACE2D:Imprinted Mote
+807ABF3F:Trade Note (10,000)
+807AC734:Trade Note (10,000)
+80774F42:Eldrytch Web Trade Token
+8073FAA9:Trade Note (50,000)
+807ABF3D:Trade Note (100,000)
+807ACD9B:Inactive Alchemist's Golem
+807AD489:Trade Note (200,000)
+80714441:Plentiful Healing Kit
+807ABF79:Pack
+B82FD39E:Major Item Tinkering Armature
+807C9B1A:Massive Mana Charge
+8079438C:Massive Mana Charge
+807ACDF1:Massive Mana Charge
+807ABFB9:Massive Mana Charge
+807ACDB7:Massive Mana Charge
+807ABF8B:Massive Mana Charge
+807AD422:Massive Mana Charge
+807ACE1B:Massive Mana Charge
+8078616F:Massive Mana Charge
+807ACDAF:Massive Mana Charge
+807ABF8D:Major Mana Stone
+80784EDD:Aligned Mana Stone
+807ACDAD:Aetheria Mana Stone
+807E5E29:Splitting Tool
+807E5E2A:Sceptre
+807E5E2B:Experience Certificate
+807E5E2C:Plentiful Healing Kit
+807E5E48:Major Mana Stone
+807E5E49:Major Mana Stone
+807E5E47:Trade Note (250,000)
+807E5E2D:Pack
+807E5E2E:Asheron's Benediction
+807E5E2F:Blackmoor's Favor
+807E5E46:Pet Mouf Igloo
+808667DA:Quartered Cloak
+808667C8:Trimmed Cloak
+808667D7:Chevron Cloak
+807E5E45:Pyreal
+B83220F5:Experience Certificate
+B84429DD:Foolproof Black Opal
+BA1F6A1F:Major Item Tinkering Armature
+81279EE5:Salvage (100)
+8135C9DE:Salvage (100)
+801C62C7:Salvage (100)
+801C62C9:Salvage (100)
+801C62C8:Salvage (100)
+C3822276:Salvage (100)
+C4A67768:Salvage
+C4A43E55:Salvage
+C4B2A6A1:Milk
+C4B3632C:Milk
+C4B27BC8:Milk
+C4B2A75B:Milk
+C4B27AC4:Milk
+C4B36357:Milk
+C4B254CF:Milk
+C4B2A5D9:Milk
+C4B363F4:Milk
+C4B2A43A:Milk
+C4B3643F:Milk
+C4B2A662:Milk
+C4B2A676:Milk
+C4B36365:Milk
+C4B36446:Milk
+C4B363A5:Milk
+C4B2A6C7:Milk
+C4B2A4A2:Milk
+C4B2A602:Milk
+C4B5AD91:Milk
+C4B36410:Milk
+C4B36448:Milk
+C4B2A41B:Milk
+C4B2A460:Milk
+C4B364EF:Milk
+C4B2A4E9:Milk
+C4B2748C:Milk
+C4B2A6AC:Milk
+C4B24F4A:Milk
+C4AFFFE6:Milk
+C4B36429:Milk
+C4B2A52D:Milk
+C4B2A643:Milk
+C4B36416:Milk
+C4B5AD94:Milk
+C4B3656D:Milk
+C4AFEEF7:Milk
+C4B281A4:Milk
+C4B2A506:Milk
+C4B08BB9:Milk
+C4B2A674:Milk
+C4B2A6CE:Milk
+C4B2A7CE:Milk
+C4B2A515:Milk
+C4B28341:Milk
+C4B40B49:Milk
+C4AD5317:Milk
+C4B2A62A:Milk
+C4B2A47B:Milk
+C4B36497:Milk
+C4B364CF:Milk
+C4B36477:Milk
+C4B36424:Milk
+C4B283FE:Milk
+C4B08BC2:Milk
+C4B365DD:Milk
+C4B5ADB7:Milk
+C4B5ADC0:Milk
+C4B08A47:Milk
+C4AE3E8D:Milk
+C4B365E7:Milk
+C4B5ADC3:Milk
+C4B5ADD1:Milk
+C4B2A41D:Milk
+C4B364CD:Milk
+C4B5ADDE:Milk
+C4B5ADE1:Milk
+C4B3654B:Milk
+C4AEA4A9:Milk
+C4B36613:Milk
+C4B3660D:Milk
+C4B364AB:Milk
+C4B2A499:Milk
+C4B28D15:Milk
+C4B5ADE8:Milk
+C4B3663F:Milk
+C4B3654E:Milk
+C4B36620:Milk
+C4B2A4A0:Milk
+C4B5ADFC:Milk
+C4B36634:Milk
+C4B364D1:Milk
+C4B364E2:Milk
+C4A572DC:Milk
+C4B23721:Milk
+C4B05ABF:Milk
+C4B2A4B9:Milk
+C4B08BC1:Milk
+C4ACFF49:Milk
+C4ACC0B9:Milk
+C4A69B4B:Milk
+
+Missing Exports - Possessed items that were not found:

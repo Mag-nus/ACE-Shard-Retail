@@ -1,0 +1,17 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-25_1485361772_log.pcap
+
+Partial Exports - Missing appraisal info:
+9C755158:Shirt
+9C755159:Trousers
+9C75515A:Shoes
+9C75515B:Pyreal
+9C75515C:Sack
+9C75515D:Ust
+9C75515E:Calling Stone
+9C75515F:Pathwarden Token
+9C755160:Letter From Home
+9C755161:Bread
+9C80FE51:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

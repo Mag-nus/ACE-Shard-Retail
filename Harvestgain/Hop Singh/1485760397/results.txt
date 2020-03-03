@@ -1,0 +1,37 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485760389_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-25_1485333423_log.pcap
+
+Partial Exports - Missing appraisal info:
+811E20BC:Sack
+811E20BD:Pack
+811E20BE:Pack
+811E20BF:Pack
+811D5BD5:Pyreal
+811E20C3:Pack
+811E20C5:Pack Martine
+811E20C6:Pack Golem
+811E20C7:Pack Gaerlan
+811E20C8:Pack Asheron
+811E20C9:Pack Gaerlan
+811E20CA:Pack Scarecrow
+811E20CC:Pack Golem
+811C3D29:Pack Drudge
+811C40C4:Pack Lugian
+811C431A:Pack Grievver
+811D5BC8:Baby Drudge Crate
+811D5BCC:Sack
+811C40BF:Pack Virindi
+811D5BC5:Pack Martine
+811D5BCA:Pack Pumpkin Lord
+811AAED8:Pack Mosswart
+811D6058:Tipped Pack Cow
+811D5BD6:Alembic
+811D5BCE:Brine
+811D5BCF:Rennet
+811D5BCD:Rennet
+811D5BD8:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

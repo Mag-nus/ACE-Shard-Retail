@@ -1,0 +1,41 @@
+INSERT INTO `character` (`id`, `account_Id`, `name`, `is_Plussed`, `is_Deleted`, `delete_Time`, `last_Login_Timestamp`, `total_Logins`, `character_Options_1`, `character_Options_2`, `gameplay_Options`, `spellbook_Filters`, `hair_Texture`, `default_Hair_Texture`)
+VALUES (1342236569, 0, 'Goblin', False, False, 0, 0, 0, 1893524834, 1083235, NULL, 2018, 0, 0);
+
+INSERT INTO `character_properties_shortcut_bar` (`character_Id`, `shortcut_Bar_Index`, `shortcut_Object_Id`)
+VALUES (1342236569, 0, 1342236569)
+     , (1342236569, 1, 2153010576)
+     , (1342236569, 3, 2153055387)
+     , (1342236569, 4, 2152966063)
+     , (1342236569, 5, 2153382905)
+     , (1342236569, 9, 2153790946)
+     , (1342236569, 10, 2153030067)
+     , (1342236569, 11, 2153866690)
+     , (1342236569, 12, 2153726157)
+     , (1342236569, 13, 2153722925)
+     , (1342236569, 14, 2153866661)
+     , (1342236569, 16, 2153866643);
+
+INSERT INTO `character_properties_spell_bar` (`character_Id`, `spell_Bar_Number`, `spell_Bar_Index`, `spell_Id`)
+VALUES (1342236569, 0, 0, 35)
+     , (1342236569, 0, 1, 51)
+     , (1342236569, 0, 2, 49)
+     , (1342236569, 0, 3, 1511)
+     , (1342236569, 2, 0, 2645)
+     , (1342236569, 2, 1, 1635)
+     , (1342236569, 2, 2, 48)
+     , (1342236569, 2, 3, 2647)
+     , (1342236569, 2, 4, 2644)
+     , (1342236569, 2, 5, 47)
+     , (1342236569, 2, 6, 2646)
+     , (1342236569, 2, 7, 157)
+     , (1342236569, 2, 8, 2648)
+     , (1342236569, 6, 0, 2645)
+     , (1342236569, 6, 1, 2644)
+     , (1342236569, 6, 2, 1635)
+     , (1342236569, 6, 3, 48);
+
+INSERT INTO `character_properties_title_book` (`character_Id`, `title_Id`)
+VALUES (1342236569, 1)
+     , (1342236569, 74)
+     , (1342236569, 765)
+     , (1342236569, 766);

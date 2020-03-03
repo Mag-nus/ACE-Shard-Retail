@@ -1,0 +1,134 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap2\pkt_2017-1-31_1485871198_log.pcap
+
+Partial Exports - Missing appraisal info:
+ADDDE68F:Sack
+ADDA9309:White Taper
+ADDD7796:Brown Taper
+ADDD5072:Elder Talisman
+ADDDE6A9:Ebony Talisman
+ADDDE6AA:Green Taper
+ADDC0AA3:Turquoise Taper
+ADDD72A4:Powdered Amber
+ADDD77E5:Hyssop
+ADDD7808:Ginseng
+ADDDE6A8:Pack
+ADDDE6AE:Saffron
+ADDDE6AD:Wormwood
+ADDD7790:Hazel Talisman
+ADDDE6AC:Verdigris
+ADDDE697:Red Taper
+ADDDE699:Orange Taper
+ADDD778B:Pink Taper
+ADDD778E:Yellow Taper
+ADDDE6A7:Cedar Talisman
+ADDD76C2:Willow Talisman
+ADDD729E:Birch Talisman
+ADDDE6A6:Yew Talisman
+ADDDE6B1:Alder Talisman
+ADDD777F:Hemlock Talisman
+ADDDE6B2:Cobalt
+ADDDE6B0:Indigo Taper
+ADDD7780:Gypsum
+ADDDE6D6:Cinnabar
+ADDDE6AF:Powdered Carnelian
+ADDD571E:Powdered Onyx
+ADDDE6B6:Realgar
+ADDD7778:Pack
+ADDDE6B4:Turpeth
+ADDDE6B3:Quicksilver
+ADDDE6B5:Verdigris
+ADDD77E6:Vitriol
+ADDD7760:Damiana
+ADDD778D:Trade Note (10,000)
+ADDD777D:Pyreal
+ADDDE6B9:Blue Taper
+ADDDE6B7:Calling Stone
+ADDD777B:Violet Taper
+ADDD76E2:Hawthorn
+ADDDE73F:Mandrake Pea
+ADDD7346:Colcothar Pea
+ADDDE74E:Ashwood Pea
+ADDD7782:Alder Pea
+ADDD7785:Powdered Amber
+ADDD571F:Colcothar
+ADDD77DC:Gold Tumerok Insignia
+ADDD7783:Worn Key
+ADDDE6BA:Trade Note (10,000)
+ADDE55FD:Pyreal
+ADDDE6BB:Zalphoos' Key
+ADDD77E1:Pack
+ADDDE6F5:Stibnite
+ADDDE6F7:Brimstone
+ADDDE753:Cadmia
+ADDDE6F3:Lead Scarab
+ADDDE5D6:Iron Scarab
+ADDDE740:Hawthorn
+ADDDE743:Ashwood Talisman
+ADDDE741:Little Green Seeds
+ADDDE746:Little Green Seeds
+ADDD76A5:Powdered Onyx
+ADDDE6F4:Green Pea
+ADDDE744:Mugwort
+ADDD7798:Powdered Turquoise
+ADDD77DE:Orange Taper
+ADDD7699:Denouement
+ADDDE74B:Birch Pea
+ADDDE749:Gold Tumerok Insignia
+ADDDE748:Worn Key
+ADDD4F08:Mandrake
+ADDDE754:Grey Taper
+ADDE5601:Pyreal Bar
+ADDE5604:Bone Handle
+ADDE5607:Dark Speck
+ADDE5608:Golden Key
+ADDE5609:Golden Key
+ADDE560A:Scroll of Finesse Weapon Mastery Self VI
+ADDE560B:Scroll of Summon Primary Portal I
+ADDE560C:Scroll of Feeblemind Other VI
+ADDE560D:Bone Handle
+ADDE560E:Scroll of Whirling Blade VI
+ADDE560F:Scroll of Portal Recall
+ADDE5610:Scroll of Impregnability Other VI
+ADDE5611:Southern Quiddity Fragment
+ADDE5612:Book
+ADDE5614:Scroll of Frost Streak VI
+ADDE5615:Intricate Obsidian Key
+ADDE5616:Auroch Horn
+ADDE5617:Auroch Horn
+ADDE5618:Gold Tumerok Insignia
+ADDE5619:Gold Tumerok Insignia
+ADDE561A:Gold Tumerok Insignia
+ADDE561B:Gold Tumerok Insignia
+ADDE561C:Gold Tumerok Insignia
+ADDE561D:Gold Tumerok Insignia
+ADDE561E:Gold Tumerok Insignia
+ADDE561F:Gold Tumerok Insignia
+ADDE5620:Gold Tumerok Insignia
+ADDE5621:Gold Tumerok Insignia
+ADDE5622:Gold Tumerok Insignia
+ADDE5623:Gold Tumerok Insignia
+ADDE5624:Dark Sliver
+ADDE5625:Gelidite Treasure Key
+ADDE5626:Sturdy Iron Key
+ADDE5627:Niffis Shell
+ADDE562D:Gold Tumerok Insignia
+ADDE562E:Pyreal Mote
+ADDE5630:Caulnalain Key
+ADDE5631:Pyreal Sliver
+ADDE5633:Gold Tumerok Insignia
+ADDE5634:Gold Tumerok Insignia
+ADDE5635:Gold Tumerok Insignia
+ADDE5636:Dark Revenant Thighbone
+ADDE563C:Scroll of Flame Bolt VI
+ADDE563D:Scroll of War Magic Mastery Other III
+ADDE563E:Scroll of Person Attunement Other VI
+ADDE563F:Scroll of Light Weapon Ineptitude Other VI
+ADDE5640:Scroll of Bludgeon Lure VI
+ADDE5641:Scroll of Mana to Stamina Self VI
+ADDE5642:Ursuin Fang
+ADDE5647:Scroll of Self Strength VI
+ADDE5649:Pack Drudge
+ADDE564D:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

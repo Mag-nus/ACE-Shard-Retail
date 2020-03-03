@@ -1,0 +1,27 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-30_1485813384_log.pcap
+
+Partial Exports - Missing appraisal info:
+9C3F5DF1:Hyssop
+9C3F5DE4:Powdered Onyx
+9C3F5DDB:Cobalt
+9C3EAF9D:Ashwood Talisman
+9C3F45E0:Arrow
+9C3F45B7:Starter Knife
+9C3F45A4:Handy Healing Kit
+9C3F4596:Welcome Letter
+9C3F45D2:Sack
+9C3F4597:Calling Stone
+9C3E2401:Pack Golem
+9C3F4598:Pack Ancient Olthoi Queen
+
+Missing Exports - Possessed items that were not found:
+9C3F3B4A
+9C3F45A5
+9C3EAF95
+9C3ACC2F
+9C3EAF9E
+9C3F45D0
+9C3F45B6
+9C3EAF90
+9C3F45A2

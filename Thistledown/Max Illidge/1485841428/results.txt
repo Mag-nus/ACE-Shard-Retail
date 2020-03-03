@@ -1,0 +1,101 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\pkt_2017-1-30_1485843220_desc\pkt_2017-1-30_1485841312_log.pcap
+
+Partial Exports - Missing appraisal info:
+AB1718B4:Trousers
+AB1718CD:Chainmail Gauntlets
+AB1718D7:Pack
+AB1718AA:Orange Taper
+AB171901:Yellow Taper
+AB1718D9:Turquoise Taper
+AB1718B5:Blue Taper
+AB1718CE:Indigo Taper
+AB171902:Violet Taper
+AB163E54:Grey Taper
+AB1718F9:White Taper
+AB1718DA:Brown Taper
+AB1718CF:Rowan Talisman
+AB1718BB:Birch Talisman
+AB171903:Hemlock Talisman
+AB1718DB:Alder Talisman
+AB1718FA:Ebony Talisman
+AB1718D0:Willow Talisman
+AB1718BC:Cedar Talisman
+AB1718F2:Yew Talisman
+AB1718FB:Green Taper
+AB1718D1:Pink Taper
+AB1718ED:Oak Talisman
+AB1718F3:Red Taper
+AB1718FC:Poplar Talisman
+AB1718D2:Blackthorn Talisman
+AB1718EE:Elder Talisman
+AB1718F4:Pack
+AB1718FD:Cinnabar
+AB1718EF:Cadmia
+AB1719B7:Gypsum
+AB1718FE:Stibnite
+AB171912:Powdered Agate
+AB1718F1:Powdered Bloodstone
+AB1719B4:Powdered Hematite
+AB171941:Little Green Seeds
+AB171914:Powdered Carnelian
+AB1718FF:Powdered Malachite
+AB1719C3:Falcon Banner
+AB17192E:Powdered Moonstone
+AB1718F5:Powdered Quartz
+AB1719EB:Old Lucky Gold Letter
+AB171915:Powdered Turquoise
+AB171900:Quicksilver
+AB171942:Peerless Healing Kit
+AB171934:Verdigris
+AB17192F:Brimstone
+AB1718F7:Cobalt
+AB1718F6:Colcothar
+AB171952:Realgar
+AB17194A:Pack
+AB17193C:Turpeth
+AB1719C7:Powdered Amber
+AB17190E:Iron Scarab
+AB171935:Vitriol
+AB144A3E:Powdered Onyx
+AB171936:Copper Scarab
+AB17193D:Comfrey
+AB153A59:Mandrake
+AB171938:Lead Scarab
+AB1718F8:Mugwort
+AB17193E:Yarrow
+AB171939:Pack
+AB171943:Wormwood
+AB17190F:Saffron
+AB1719DE:Water Golem Heart
+AB171925:Hawthorn
+AB171944:Damiana
+AB171946:Pack
+AB171940:Ginseng
+AB171910:Hyssop
+AB171945:Muddy Towel
+AB1719DB:Pants
+AB171955:Mana Draught
+AB171928:Pack
+AB1719D5:Pyreal
+AB17195C:Heavy Bracelet
+AB171947:Pack
+AB171932:Ring
+AB171929:Scalemail Basinet
+AB171948:Pyreal
+AB171956:Ring
+AB17195E:Shirt
+AB171A00:Pyreal
+AB171933:Necklace
+AB171957:Necklace
+AB17195F:Bracelet
+AB171958:Potion of Healing
+AB171960:Chainmail Shirt
+AB17194B:Yoroi Leggings
+AB171991:Sollerets
+AB17194C:Some Changes for February 2012
+AB171963:Aluvian Wand
+AB171990:Pack Levistras
+AB1719FD:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

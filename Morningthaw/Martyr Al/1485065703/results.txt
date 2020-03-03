@@ -1,0 +1,73 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\randompktlogs\pkt_2017-1-21_1485054358_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\randompktlogs\pkt_2017-1-30_1485833480_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\randompktlogs\pkt_2017-1-30_1485833480_log.pcap
+
+Partial Exports - Missing appraisal info:
+C64EB148:Letter From Home
+C64EB14C:Academy Library Key
+C64EB14D:Thrungus Hovel Locations
+C64EB150:Lead Pea
+C64EB152:Trade Contacts
+C64EB154:Wine Cellar Key
+C64EB155:Iron Scarab
+C64EB156:Copper Scarab
+C64EB157:Lead Scarab
+C64EB158:Silver Scarab
+C64EB159:Gonjoku's Mana Infusion
+C64EB15A:Trade Note (25,000)
+C64EB15E:Scroll of Mana Drain Other II
+C64EB163:Salvaged  (100)
+C64EB164:Salvaged  (100)
+C64EB165:Salvaged  (100)
+C64EB174:Pyreal
+C64EB166:Salvaged  (100)
+C64EB167:Salvaged  (100)
+C64EB175:Pyreal
+C64EB168:Salvaged  (100)
+C64EB169:Salvaged  (100)
+C64EB176:Pyreal
+C64EB177:Pyreal
+C64EB16D:Salvaged  (100)
+C64EB178:Pyreal
+C64EB16E:Salvaged  (100)
+C64EB16F:Salvaged  (100)
+C64EB179:Pyreal
+C64EB170:Salvaged  (100)
+C64EB171:Salvaged  (100)
+C64EB18C:Hea Totem
+C64EB172:Salvaged  (100)
+C64EB173:Salvaged  (100)
+C64EB24C:Pyreal
+C64EB193:Salvaged  (100)
+C64EB194:Salvaged  (100)
+C64EB195:Salvaged  (100)
+C64EB196:Salvaged  (100)
+C64EB197:Salvaged  (100)
+C64EB198:Salvaged  (100)
+C64EB199:Salvaged  (100)
+C64EB19A:Salvaged  (100)
+C64EB19B:Salvaged  (100)
+C64EB19C:Salvaged  (100)
+C64EB19D:Salvaged  (100)
+C64EB19E:Salvaged  (100)
+C64EB1CA:Scroll of Unflinching Persistence
+C64EB1C0:Hennacin Plant
+C64EB1C3:Salvaged  (100)
+C64EB24D:Pyreal
+C64EB24E:Pyreal
+C64EB1D8:Salvaged  (100)
+C64EB1DA:Golden Gromnie
+C64EB213:Pack Bael'Zharon
+C64EB22D:Bone Handle
+C64EB1F5:Brown Beans
+C64EB1F6:Lapyan Plant
+C64EB1FE:Good Diamond Infused Pyreal Ingot
+C64EB224:Glowing Wisp Heart
+C64EB22C:Chorizite
+C64EB23D:Pack Grael
+C64EB24B:Trade Note (250,000)
+
+Missing Exports - Possessed items that were not found:

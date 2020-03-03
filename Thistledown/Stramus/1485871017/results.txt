@@ -1,0 +1,155 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-12-2017\Games\pkt_2017-1-31_1485871011_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-12-2017\Games\pkt_2017-1-13_1484342510_log.pcap
+C:\ACEmulator\Logs Unpacked\02-12-2017\Games\pkt_2017-1-30_1485838554_log.pcap
+C:\ACEmulator\Logs Unpacked\02-12-2017\Games\pkt_2017-1-31_1485841008_log.pcap
+C:\ACEmulator\Logs Unpacked\02-12-2017\Games\pkt_2017-1-11_1484154448_log.pcap
+C:\ACEmulator\Logs Unpacked\02-12-2017\Games\pkt_2017-1-11_1484167896_log.pcap
+C:\ACEmulator\Logs Unpacked\02-12-2017\Games\pkt_2017-1-11_1484194143_log.pcap
+C:\ACEmulator\Logs Unpacked\02-12-2017\Games\pkt_2017-1-29_1485724458_log.pcap
+C:\ACEmulator\Logs Unpacked\02-12-2017\Games\pkt_2017-1-12_1484200838_log.pcap
+C:\ACEmulator\Logs Unpacked\02-12-2017\Games\pkt_2017-1-12_1484240702_log.pcap
+C:\ACEmulator\Logs Unpacked\02-12-2017\Games\pkt_2017-1-29_1485749127_log.pcap
+C:\ACEmulator\Logs Unpacked\02-12-2017\Games\pkt_2017-1-31_1485841197_log.pcap
+C:\ACEmulator\Logs Unpacked\02-12-2017\Games\pkt_2017-1-31_1485841197_log.pcap
+C:\ACEmulator\Logs Unpacked\02-12-2017\Games\pkt_2017-1-31_1485841197_log.pcap
+C:\ACEmulator\Logs Unpacked\02-12-2017\Games\pkt_2017-1-31_1485841197_log.pcap
+C:\ACEmulator\Logs Unpacked\02-12-2017\Games\pkt_2017-1-30_1485804764_log.pcap
+C:\ACEmulator\Logs Unpacked\02-12-2017\Games\pkt_2017-1-30_1485807603_log.pcap
+C:\ACEmulator\Logs Unpacked\02-12-2017\Games\pkt_2017-1-30_1485807633_log.pcap
+
+Partial Exports - Missing appraisal info:
+A7FF9971:Pyreal
+89CFBD8B:Pack
+ABE7D56F:Pyreal
+989B0F7B:Crystal of Spectral Blood
+98A312EE:Skull of One Thousand Torments
+9B350749:Celestial Hand Stronghold Portal Gem
+AB1C27ED:Seeds of Anger
+AAF5E974:Peerless Lockpick
+8C089035:Pack
+8CCE48D4:Sealed Scroll for Commander Presk
+9A51760F:Engraved A'nekshay Bracers
+9A59279A:Crude Lockpick
+9A679D37:Lady Tairla Mhoire's Key
+9A6009D9:Mhoire Castle Treasury Key
+AB0E5014:Strange Purple Crystal from The Shadows
+AAF7B7D4:Peerless Lockpick
+AAF7B7DD:Peerless Lockpick
+9A3E8F76:Black Market Gem of Dispelling
+98F093E6:Hive Gem of Dispelling
+953E7B7E:Colosseum Ticket
+9B6A2CBE:Prodigal Tusker's Token
+8C0A5213:Pack
+89DDB155:Splitting Tool
+8B12B0D1:Enhanced Black Fire Atlan Stone
+98798BC2:Lesser Corrupted Essence
+981D94BE:Bloodroot Vine
+98797A44:Bobo's Stout
+98797743:Amber Ape
+9879796E:Hunter's Stock Amber
+9879790F:Apothecary Zongo's Stout
+94D860C0:Tusker Spit Ale
+9A3E9960:Bordered Cloak
+9A49DFF6:Lo Shoen's Rat Bait
+988CC0DC:Lesser Corrupted Essence
+9A60665A:Red Veined Grub
+9A72DBB5:Snow Tusker Blood Sample
+8D122B83:Yellow Empyrean Ring
+96C427F4:Pack
+89DF2C32:Pyreal Scarab
+898295EC:Gold Scarab
+89D487D4:Silver Scarab
+89C10F3E:Copper Scarab
+888A025C:Lead Scarab
+895FAF07:Diamond Scarab
+96F237D3:Platinum Scarab
+9A740EFE:Lo Shoen's Rat Bait
+99C956FF:Aetheria
+9654F9BD:Lord Cynreft Mhoire's Signet Ring
+9A01E3BD:Aetheria
+9A01A9BD:Aetheria
+97DF308E:Pack
+8CC545BD:Celestial Hand Trade Token
+8C1E3409:Celestial Hand Trade Token
+8ABA676A:Celestial Hand Trade Token
+9B31BC35:Upper Insatiable Eater Jaw
+8C43BA26:Spirit of Izexi Gem
+AA530883:Aerbax Mask Shard
+9B6D3163:Aerbax Mask Shard
+9B64FC39:Shoyanen's Portal Gem
+9B611C33:Yellow Empyrean Ring
+9A31F028:Burning Coal
+9478B653:Pack
+98E8020C:Quartered Cloak
+804326A6:Pack
+9A139AB2:Chorizite
+9B5A21BB:Mana Scarab
+AA9D8DF2:Celestial Hand Commendation Ribbon
+AAC7C29D:Plain Healing Kit
+8C825630:Message from Ler Rhan to Ter Shen.
+876E23FF:Aetheria
+8D11AABB:Enhanced Red Empyrean Ring
+ABE7D15B:Massive Mana Charge
+ABE7D11E:Pyreal
+ABD30721:Gelid's Jewel
+ABDAA2E4:A'nekshay Token
+ABE7D15A:Massive Mana Charge
+
+Missing Exports - Possessed items that were not found:
+99BD5DEC
+9A0269F2
+AC0095D8
+ABE44F5A
+8853FE2E
+9A65F841
+A2CD59BB
+99477CD3
+98C3EA14
+996303D5
+981B6FB1
+9964CB49
+ABFEFA4E
+9A4BF080
+9ABF0E1A
+98533445
+9ACEB655
+996208CB
+ABF9F8BB
+802E4E74
+A4D6A6EC
+95285186
+ABFBCE49
+ABFBCF9B
+9A3E995D
+9A3E995E
+9A3E995F
+ABE4492D
+9B12D342
+ABE7CC12
+ABE7D0C4
+ABE00682
+ABE7D187
+ABE00859
+ABD5809D
+ABE7D166
+ABE7D158
+8CD574F0
+8CCD897B
+834C1567
+8005C39F
+94B3FB7D
+882CBC7B
+949B119B
+8F583138
+8370AD75
+963F6F31
+803C5251
+8C2D82CC
+81C9384B
+9546170B
+800A25EA
+8005C3A4
+95007322

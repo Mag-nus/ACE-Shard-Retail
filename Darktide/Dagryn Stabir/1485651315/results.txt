@@ -1,0 +1,22 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-logs\AC logs\pkt_2017-1-29_1485651300_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-logs\AC logs\pkt_2017-1-23_1485170482_log.pcap
+
+Partial Exports - Missing appraisal info:
+D7ADE315:Pyreal
+D7ADE316:Sack
+D7ADE317:Ust
+D7ADE319:Pathwarden Token
+D7ADE31B:Handy Healing Kit
+D7ADE31C:Handy Healing Kit
+D7ADE31D:Letter From Home
+D7ADE31E:Bread
+D7DC9206:Blackmoor's Favor
+D80958D0:Oil of Rendering
+D80958F8:Oil of Rendering
+D80958EF:Academy Coat
+D80958E7:Facility Hub Portal Gem
+
+Missing Exports - Possessed items that were not found:

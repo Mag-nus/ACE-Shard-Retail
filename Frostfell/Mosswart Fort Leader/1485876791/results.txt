@@ -1,0 +1,81 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-31_1485870666_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-24_1485277486_log.pcap
+
+Partial Exports - Missing appraisal info:
+DC8A679C:Pyreal
+DC3627CE:Loose Shirt
+DC3627CF:Baggy Breeches
+DC3627D2:Sack
+DC3627DB:Lead Scarab
+DC3627DA:Prismatic Taper
+DC8A2A9F:Silver Scarab
+DCAAAB5F:Iron Scarab
+DCAA8D60:Copper Scarab
+DCAAAAE2:Lead Scarab
+D11DE8C3:Lead Scarab
+D5C9F15A:Pyreal Scarab
+D33F3910:Gold Scarab
+CDBF5CA2:Lead Scarab
+DCAB4BEA:Platinum Scarab
+DC3627D3:Ust
+DC3627D7:Mud Golem Essence
+DC3627D8:Foci of Artifice
+DC8A7362:Pyreal
+DC3627D9:Foci of Shadow
+DC6FA611:Asheron's Benediction
+DC9A7237:Oil of Rendering
+DC890199:Facility Hub Portal Gem
+DC882AB0:Pathwarden Gauntlets
+DCAE7D2E:Minor Mana Stone
+DC9C713F:Pathwarden Helm
+DC8A861E:Pathwarden Trinket
+DCA8F830:Blackmoor's Favor
+DC661E25:Canescent Mattekar Robe
+DC89248F:Academy Wand
+DCA9EBF4:Pyreal
+DC89A260:Frost Elemental Essence (50)
+DCAB5DBA:Water Golem Heart
+DC9D1DD2:Great Mana Charge
+DCAD1EFA:Shirt
+DC8A5CAF:Mud Golem Essence
+DC8A5F3F:Sandstone Golem Essence
+DC8A7112:Foci of Verdancy
+DBD7C675:Mana Stone
+DC8A7575:Foci of Enchantment
+DCAE6484:Bracelet
+DCAADC57:Minalim Plant
+DCAD0CC3:Fire Moar Essence (50)
+DCAD1A56:Bracelet
+DC7F1EE9:Health Draught
+DCAD7BCD:Acid K'nath Essence (50)
+DCA908CA:Lightning Spectre Essence (50)
+DCA908DC:Fire Zombie Essence (50)
+DCA90DCB:Frost Phyntos Wasp Essence (50)
+DCA8E027:Fire Grievver Essence (50)
+DCA9092A:Acid Skeleton Minion Essence (50)
+DCA7C20C:Fire Elemental Essence (50)
+DCA90991:Acid Spectre Essence (50)
+DCA909D4:Acid Wisp Essence (50)
+DCAC0ADD:Acid Grievver Essence (50)
+DCAD5D96:Acid Wisp Essence (50)
+DCAC5ACC:Fire Phyntos Wasp Essence (50)
+DCAE9411:Fire Skeleton Minion Essence (50)
+DCAD652E:Fire Skeleton Minion Essence (50)
+DCAD6538:Encapsulated Spirit
+DC6AC9AD:Baron's Amulet of Life Giving
+DCAE2D5F:Artificer's Crystal
+DCBA5E56:Frost Spectre Essence (50)
+DCBA63AA:Acid Moar Essence (50)
+DCBA6383:Frost Elemental Essence (50)
+DBD7C673:Ring
+DBD7C672:Wand
+DBD7C66D:Lightning K'nath Essence (50)
+DBD7C66A:Scroll of Missile Weapon Mastery Self VII
+DBD7C66C:Scroll of Summoning Ineptitude Other VI
+DBD638E6:Scroll of Defenselessness VI
+DCBA6832:Flaming Magari Yari
+
+Missing Exports - Possessed items that were not found:

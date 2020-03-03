@@ -1,0 +1,157 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485839309_log.pcap
+
+Partial Exports - Missing appraisal info:
+9158CE8B:Pack
+9158CE8C:Oxidized Statue
+9158CE8D:Pack Asheron
+9158CE8E:Pack Scarecrow
+9158CE8F:Pack Ancient Olthoi Queen
+9158CE90:Pack Burun Kukuur
+9158CE91:Pack Pumpkin Lord
+9158CE92:Pack Burun Kukuur
+9158CE93:Pack Grael
+9158CE94:Pack Burun Kukuur
+9158CE96:Pack Asheron
+9158CE95:Golden Gromnie
+9158CE97:Pack Ancient Olthoi Queen
+9158CE98:Pack Ancient Olthoi Queen
+9158CE99:Velveteen Olthoi
+9158CE9A:Pack Bael'Zharon
+9158CE9B:Tremendous Monouga Pack Doll
+9158CE9D:Pack Asheron
+9158CE9C:Pack Martine
+9158CE9E:Pack Gaerlan
+9158CE9F:Pack Burun Kukuur
+9158CEA0:Pack Levistras
+9158CEA1:Pack Ancient Olthoi Queen
+9158CEAA:Armor Piercing Arrow
+9158CEAB:Armor Piercing Arrow
+9158CEAD:Gifted Healing Kit
+9158CEAC:Armor Piercing Arrow
+9158CEAE:Gifted Healing Kit
+9158CEAF:Gifted Healing Kit
+9158CEB0:Foci of Artifice
+9158CEB1:Pyreal
+9158CEB2:Pyreal
+9158CEB3:Pyreal
+9158CEB4:Pyreal
+9158CEB5:Pyreal
+9158CEB6:Pyreal
+9158CEB7:Foci of Verdancy
+9158CEB8:Mi Krau-Li's Jitte
+9158CEB9:Leather Cuirass
+9158CEBA:Suikan Creature Master Robe
+9158CEBB:Aphus Lassel Portal Gem
+9158CEBE:Pocket Watch
+9158CEC3:Pack
+9158CEBF:Quartered Cloak
+9158CEC2:Amuli Coat
+9158CEC4:Slashing Baton
+9158CEC5:Olthoi Gauntlets
+9158CEC6:Bracelet
+9158CEC7:Olthoi Sollerets
+9158CEE5:Ken
+9158CEC8:Loose Shirt
+9158CEC9:Compass
+9158CECA:Studded Leather Sleeves
+9158CECB:Trousers
+9158CECC:Bracelet of Knowledge
+9158CED2:Salvage (78)
+9158CED7:Helmet
+9158CED3:Salvage (12)
+9158CED4:Salvage (14)
+9158CEDF:Pack
+9158CED5:Salvage (28)
+9158CED6:Heavy Bracelet
+9158CED8:Frost Bow
+9158CED9:Ring
+9158CEDA:Frost Sceptre
+9158CEE1:Flaming Katar
+9158CEDB:Knorr Academy Helm
+9158CEDC:Chevron Cloak
+9158CEF5:Weeping Wand
+9158CEE0:Smock
+9158CEE2:Aphus Lassel Portal Gem
+9158CEE3:Peerless Sparking Atlan Claw
+9158CEE4:Acid Bow
+9158CEE6:Halved Cloak
+9158CEE7:Haebrean Breastplate
+9158CEE8:Studded Leather Girth
+9158CEE9:Bracelet
+9158CEEB:Singularity Keyring
+9158CEEC:Singularity Keyring
+9158CEED:Trade Health Elixir
+9158CEEE:Asheron's Supreme Raiment
+9158CEEF:Doppelganger Robe
+9158CEA4:Lead Scarab
+9158CEF4:Shadowfire Isparian Claw
+9158CEA3:Prismatic Taper
+9158CEF8:Bobo's Stout
+9158CEFA:Blunt Compound Bow
+9158CEFB:Apothecary Zongo's Stout
+9158CEFC:Amber Ape
+9158CEFD:Hunter's Stock Amber
+9158CEFF:Fire Baton
+9158CF00:Olthoi Amuli Gauntlets
+9158CF01:Pack
+9158CEA5:Iron Scarab
+9158CF02:Aphus Lassel Portal Gem
+9158CF07:Frost Compound Bow
+9158CF03:Pack Ancient Olthoi Queen
+9158CF04:Pack Ancient Olthoi Queen
+9158CF05:Pack Ancient Olthoi Queen
+9158CF06:Pack Ancient Olthoi Queen
+9158CF08:Piercing Bow
+9158CF09:Blunt Bow
+9158CEA6:Copper Scarab
+9158CEA7:Silver Scarab
+9158CEA8:Blackmoor's Favor
+9268265E:Diforsa Hauberk
+80923834:Superior Shield
+809237F3:Pack
+809210AA:Health Tincture
+8092384E:Health Elixir
+8093C921:Deadly Blunt Quarrel
+8092386E:Candy Corn
+809526DE:Wrapped Bundle of Deadly Blunt Arrowheads
+8091CCE5:Licorice Rat
+9158DC4F:Pearl of Lightning Baning
+9158DC50:Pearl of Frost Baning
+9158DC54:Executor's Jewel
+9158DC55:Pearl of Defending
+9158DC52:Duelist's Jewel
+9158DC59:Warrior's Jewel
+9158DC58:Pearl of Spirit Drinking
+9158DC57:Lich's Pearl
+9158DC53:Melee's Jewel
+9158DC51:Pearl of Acid Baning
+9158DC4D:Pearl of Impenetrability
+8091E011:Diamond Shield
+80921091:Rare Pink Pack Idol
+808ED3C0:Diamond Shield
+8091DFD0:Diamond Shield
+9158CECF:Salvage (100)
+808CB054:Diamond Shield
+80921061:Rare Red Pack Idol
+9158CEBD:Armor Piercing Arrow
+91C2A63F:Hyssop
+9158DC00:Piercing Bow
+808FDFB9:Lapyan Plant
+9283174F:Black Luster Pearl
+80923818:Mana Forge Key
+92831647:Mana Forge Key
+927E6E27:Mana Forge Key
+92849EA4:Ancient Falatacot Trinket
+928483AF:Ivory Gromnie Wings
+92831D15:Ivory Gromnie Wings
+92848110:Ivory Gromnie Wings
+936490F2:Coalesced Aetheria
+9367FEA9:Coalesced Aetheria
+93590CDC:Colban Plant
+935A2F1C:Pyreal Mote
+93296D91:Five of Eyes
+9199663D:Introspective Quill of Formation
+934DED56:Glyph of Flame
+
+Missing Exports - Possessed items that were not found:

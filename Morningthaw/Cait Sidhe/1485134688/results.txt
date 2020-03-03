@@ -1,0 +1,52 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-22_1485134283_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-22_1485134283_log.pcap
+
+Partial Exports - Missing appraisal info:
+807EC6AE:Sack
+807EC8A0:Lead Scarab
+807EC691:Ust
+807EC6A6:Pathwarden Token
+8080B571:Some Changes for February 2012
+807F2CB0:Titan Mana Charge
+807F2CB2:Faran Item Master Robe
+807D3393:Faran War Master Robe
+807D33F4:Faran Life Master Robe
+80441CB4:Massive Mana Charge
+8079EB5A:Massive Mana Charge
+807F2CB1:Foci of Artifice
+807D3519:Pack
+807EC68C:Lead Pea
+807D10C0:Coalesced Mana
+807EC692:Iron Pea
+807F2EB2:Treated Healing Kit
+807F2EB1:Treated Healing Kit
+807F2FBA:Treated Healing Kit
+A9422D45:Copper Pea
+807EC90A:Pack
+807EC909:Mechanical Scarab
+807EC90C:Mechanical Scarab
+B20F7994:Pyreal
+807EC78E:Trade Note (10,000)
+807EC78F:Trade Note (100,000)
+B20F8767:Trade Note (50,000)
+C49AB93E:Salvage (30)
+807A4149:Pack
+C49AB9E9:Salvage (4)
+C49AB9FE:Salvage (7)
+C49BDE30:Banderling Scalp
+C49C39B8:Salvage (8)
+8080A92F:Ring
+B2051F1B:Wrapped Bundle of Deadly Armor Piercing Arrowheads
+B209EAC3:Wrapped Bundle of Arrowshafts
+C49BB925:Ring
+8B69BB87:Hood
+91BCF6DE:Quartered Cloak
+91C8E7AE:Trimmed Cloak
+91D346D6:Bordered Cloak
+91BEC817:Chevron Cloak
+8B69BB74:Lyceum Hood
+
+Missing Exports - Possessed items that were not found:

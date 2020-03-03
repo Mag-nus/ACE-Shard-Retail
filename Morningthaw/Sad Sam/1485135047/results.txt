@@ -1,0 +1,49 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-22_1485134283_log.pcap
+
+Partial Exports - Missing appraisal info:
+80821132:Foci of Artifice
+80821137:Ust
+80821133:Ring
+80821135:Ruined Amulet of Missile Weapons
+80821136:Gorget
+8082113A:Pack Bael'Zharon
+8082113B:Gorget
+8082113C:Ring
+8082113E:Pack
+80821146:Crossbow Stock
+80821158:Snowflower
+8082114D:Pack
+8082114F:Diamond Shield
+80821150:Tusker Island Shirt
+80821151:Two Headed Snowman
+80821155:Quintessence Sickle
+80821157:Aluvian Festival Light
+80821159:Fishing Pole
+8082115A:Pack
+8082115E:Staff
+80821163:Gorget
+80821161:Orb
+80821173:Treated Healing Kit
+80821166:Flaming War Hammer
+8082116B:Blackmoor's Favor
+8082116E:Sceptre
+80821172:Bloodletter Charm Necklace
+80821171:Peerless Drudge Charm Necklace
+80821175:Treated Healing Kit
+80821174:Grey Spine
+80821176:Treated Healing Kit
+80821177:Treated Healing Kit
+80821178:Treated Healing Kit
+80821179:Doppelganger Robe
+8082117A:Asheron's Supreme Raiment
+8082117B:Suikan Creature Master Robe
+8082117D:Electric Sceptre
+8082117F:Swamp Stone
+80821180:Pack
+80821181:Assault Crossbow
+80821183:Treasure
+80821184:Some Changes for February 2012
+80821192:Casting Stein
+
+Missing Exports - Possessed items that were not found:

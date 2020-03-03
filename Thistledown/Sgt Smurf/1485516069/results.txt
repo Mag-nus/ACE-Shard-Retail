@@ -1,0 +1,18 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\Callaway-1-27-2017-DecriptTowerQuest\pkt_2017-1-27_1485500960_log.pcap
+
+Partial Exports - Missing appraisal info:
+ABBFD1AD:Baggy Tunic
+ABBFD1BF:Pyreal
+ABBFD1B7:Foci of Artifice
+ABBFD1E8:Prismatic Taper
+ABBFD1AC:Lead Scarab
+ABBFD1CD:Sack
+ABBFD1DD:Academy Stamina Potion
+ABBFD1CC:Academy Stamina Potion
+ABBFD1D4:Academy Stamina Potion
+ABBFD20D:Academy Mana Potion
+ABBFD1CB:Pack Asheron
+ABBFD21D:Some Changes for February 2012
+
+Missing Exports - Possessed items that were not found:

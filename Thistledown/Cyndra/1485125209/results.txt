@@ -1,0 +1,146 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-22_1485125201_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-22_1485124292_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-22_1485124292_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-22_1485124292_log.pcap
+
+Partial Exports - Missing appraisal info:
+AA880FEC:Pack
+AA881542:Copper Scarab
+AA846849:Pyreal
+AA863178:Iron Scarab
+AA881E02:Silver Scarab
+AA8A3843:Gold Scarab
+AA84D69D:Pyreal Scarab
+AA86D9B6:Splitting Tool
+AA887943:Diamond Scarab
+AA881A40:Lead Scarab
+AB62191C:Prismatic Taper
+AB79B86C:Platinum Scarab
+AB73A5D0:Scroll of Twisted Digits
+AB725878:Scroll of Might of the 5 Mules
+AB727E97:Scroll of Bludgeon Protection Self VI
+AB7BEE32:Leather Gauntlets
+AA867F8E:Pack
+AA882BAF:Pack
+AA86E65E:Intricate Carving Tool
+AA86F3CF:Intricate Carving Tool
+AA867F9C:Stone Tool
+AA8810A1:Bracelet
+AA87BDF8:Pants
+AA84FE5A:Ebon Mattekar Hide
+AA882AF5:Shirt
+AA88136F:Faran Robe with Hood
+AB67E331:Major Mana Stone
+AA5C3A8A:Sturdy Iron Key
+AA8672A7:Blackmoor's Favor
+AA88179A:Impious Staff
+AA75805D:Pack Asheron
+AB5BF855:Top
+AA868022:Ring
+AB600E91:Foci of Strife
+AA86E6A2:Treated Healing Kit
+AA897618:Treated Healing Kit
+AA882A87:Major Stinging Stone
+AA8824FA:Treated Healing Kit
+AA84FBB4:Treated Healing Kit
+AA881100:Treated Healing Kit
+AA87BFA2:Treated Healing Kit
+AA86707E:Quiddity Orb
+AA86867E:Major Shivering Stone
+AA8686C8:Major Sparking Stone
+AB620837:Foci of Artifice
+AB5F9ADB:Foci of Enchantment
+AA86EF9A:Olthoi Ichor
+AB3F3F32:Foci of Verdancy
+AB633518:Poet's Shirt
+AB63356A:Signet Crown
+AB5C98DC:Diamond Heart
+AB4A43C0:Cloth Gloves
+AB62635A:Sandals
+A4D5614C:Heaume
+AB58DF88:Necklace
+AB618928:Diforsa Gauntlets
+AA9EFD35:Small Carved Key
+AB67F25C:Flared Shirt
+AA8FF543:Greater Celdon Shadow Girth
+AB8303D3:Pyreal
+AA8FF544:Greater Celdon Shadow Sleeves
+AA8FF541:Greater Celdon Shadow Breastplate
+AB8303EA:Pyreal
+AB80EB0C:Pants
+AB813381:Quartered Cloak
+AB8307D2:Pyreal
+AB3053A8:A silvery, mysterious key
+AB739FEF:Sturdy Iron Key
+AA8FF542:Greater Celdon Shadow Leggings
+AB7D75B7:Covenant Bracers
+AB76F164:Ring
+AB7E4BA6:Scroll of Weakening Curse VII
+AB84F566:Lucky Gold Letter
+AB7F2F0E:Iron Pea
+AB79EC7A:Sword of Lost Light
+AB7A23BE:Superior Shield
+AB830F1D:Pyreal
+AB849A1F:Agent of Arcanum List
+AB836C6A:Chainmail Breastplate
+AB7FDB64:Adept Healing Kit
+AB80BCFF:Adept Healing Kit
+AB80BD24:Adept Healing Kit
+AB84E546:Gold Pea
+AB84881B:Scroll of Boon of the Mace Turner
+AB84E925:Scroll of Shield Ineptitude Other VII
+AB84E91F:Studded Leather Cowl
+AB8500DD:Silver Pea
+AB8428AD:Chainmail Bracers
+AB850106:Copper Pea
+AB843A3C:Coral Heart
+AB80CCD7:Scroll of Senescence
+AB80CCCD:Scroll of Flame Arc VI
+AB795053:Scroll of Gossamer Flesh
+AB7D8A09:Scroll of Dual Wield Mastery Self VII
+AB80CF7A:Diadem
+AB7D89FF:Staff
+AB7989D5:Cloth Cap
+AB80D736:Scroll of Unsteady Hands
+AB80D790:Heavy Bracelet
+AB7D8D53:Scroll of Harlune's Blessing
+AB80DD1E:Scroll of Eradicate Item Magic
+AB80DCB6:Scroll of Acid Arc VII
+AB7D7FA6:Koujia Breastplate
+AB80E51F:Studded Leather Coat
+AB7208A1:Circlet
+AB81231B:Cloth Cap
+AB8123AE:Beret
+AB812909:Scroll of Adja's Gift
+AB8121B8:Diforsa Helm
+AB7CF8DA:Covenant Pauldrons
+AB81236D:Pyreal Sliver
+AB812E5A:Leather Pants
+AB812EA8:Scroll of Introversion
+AB812354:Blunt Baton
+AB811835:Scroll of Ataxia
+AB7C22F2:Coral Heart
+AB8130DE:Scroll of Arcane Enlightenment VI
+AB81307A:Leather Pauldrons
+AB812A20:Loafers
+AB8129E7:Covenant Sollerets
+AB812DB8:Leather Girth
+AB7A611D:Halaetan Magic Page 4
+AB79C0D8:Covenant Breastplate
+AB798735:Alduressa Gauntlets
+AB82FC25:Scroll of Inferno Bait
+AB8499E7:Scroll of Jahannan's Blessing
+AB8328F2:Scroll of Eradicate Item Magic
+AB832A3E:Scroll of Boon of the Arrow Turner
+AB832978:Scroll of Lure Blade VI
+AB8335C6:Scroll of Dirty Fighting Mastery Other VII
+AB836D27:Scroll of Silencia's Boon
+AB83D519:Scroll of Geledite Bait
+AB83D4E7:Scroll of Crushing Shame
+AB6FDB17:Polar Ursuin Pounder Plaque
+AA86EA36:Focusing Stone
+
+Missing Exports - Possessed items that were not found:

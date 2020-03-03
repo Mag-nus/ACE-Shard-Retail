@@ -1,0 +1,26 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-24-2017-pkt_2017-1-24_1485307505_log\pkt_2017-1-24_1485307505_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-24-2017-pkt_2017-1-24_1485305851_log\pkt_2017-1-24_1485305851_log.pcap
+
+Partial Exports - Missing appraisal info:
+AB81C415:Flared Shirt
+AB7E2670:Shoes
+AB7E2671:Foci of Enchantment
+AB7DFFD1:Foci of Artifice
+AB7E2485:Foci of Verdancy
+AB81C603:Foci of Strife
+AB844B09:Apple
+AB7E25D6:Sack
+AB7E2672:Greeter's Key
+AB7E2558:Quartermaster's Workshop Key
+AB844ABD:Sho Wand
+AB81C507:Academy Wand
+AB7B509B:Flared Pants
+AB7E2509:Some Changes for February 2012
+AB81C4CB:Asheron's Benediction
+AB7E35D6:Blackmoor's Favor
+ABA3125F:Imbue Swap Coin
+
+Missing Exports - Possessed items that were not found:

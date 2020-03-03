@@ -1,0 +1,17 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap1\pkt_2017-1-29_1485738107_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap6\pkt_2017-1-28_1485594866_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap6\pkt_2017-1-28_1485651690_log.pcap
+
+Partial Exports - Missing appraisal info:
+D81A7D90:Pyreal
+D81A7D91:Sack
+D81A7D92:Ust
+D81A7D9A:Letter From Home
+D84DC1ED:Oil of Rendering
+D84DC1E3:Facility Hub Portal Gem
+D84ED178:Great Mana Charge
+
+Missing Exports - Possessed items that were not found:

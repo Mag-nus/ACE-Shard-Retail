@@ -1,0 +1,132 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485761567_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-25_1485334624_log.pcap
+
+Partial Exports - Missing appraisal info:
+811C389A:Pack
+811C389B:Dirk
+811C389E:Pack Drudge
+811A2F9E:Granite Key
+811B5FC1:Granite Key
+811A93D5:Sturdy Steel Keyring
+811A93D7:Sack
+811A84AD:Treated Healing Kit
+81123158:Ruined Amulet of Light Weapons
+811B8FE0:Pyreal
+811A798B:Gold Pea
+81178911:Iron Pea
+811C32DC:Blackmoor's Favor
+811C0167:Pack
+81195201:Renegade Bow
+811B60CE:Sanguinary Aegis
+811562B9:Stool
+811B36E3:Bed
+811B5FF9:Alloy Machine
+811AA071:Dereth Map
+811A889E:Tome of Blood and Bone
+82018B87:Perfect Banner Haft
+82018B88:Durable Banner Haft
+82018B89:Gromnie Spear-Head
+82018B8A:Gromnie Symbol
+82018B8B:Gromnie Spear-Head
+82018B96:Haebrean Pauldrons
+801A5C3D:Alloy Machine
+801A5BF4:Baby Thrungus Crate
+811AA253:Pack
+810C6F34:Pyreal Bell
+811A77BB:Fireworks
+811B61EF:Pack Burun Kukuur
+811A9FBF:Decorative Ursuin Head
+811AB0E3:Couch
+811C38FC:Pack Ancient Olthoi Queen
+811A9B5A:Gharu'ndim Hanging Rug
+81190BFD:Gharu'ndim Hanging Rug
+811A7AA0:Pack Grievver
+811B735D:Large Gharu'ndim Rug
+811C391E:Palauloi
+8119403C:Iasparailaun
+811C3941:Singularity Crossbow
+811B66E2:Book Shelf
+811C3926:Pack Golem
+811C32FF:Wallbound Niffis
+811C3932:Ursuin Toy
+81195200:Lautaloi
+8DB7B7C7:Paradox-touched Olthoi Sword
+811A8073:Melee's Jewel
+A188BED1:Pyreal
+811AA658:Tusker's Jewel
+811B5112:Gelid's Jewel
+811A94D4:Duelist's Jewel
+811A915D:Duelist's Jewel
+811B62CF:Olthoi's Jewel
+8118FC65:Pearl of Lightning Baning
+81123AF6:Pearl of Swift Killing
+811B70A3:Pearl of Heart Seeking
+811824E5:Pearl of Spirit Drinking
+811567E9:Pearl of Bludgeon Baning
+810C2B6D:Pearl of Pierce Baning
+811A9E13:Pearl of Spirit Drinking
+81123106:Lich's Pearl
+811845FD:Deceiver's Crystal
+811B5F8D:Hunter's Crystal
+811A9F88:Observer's Crystal
+811423E3:Pack
+8104D1DA:Vaulter's Crystal
+8114D25E:Zefir's Crystal
+811418F6:Thief's Crystal
+81118DAB:Scholar's Crystal
+81190EFD:Adherent's Crystal
+811A7A28:Monarch's Crystal
+8118EFED:Dodger's Crystal
+811AA16F:Evader's Crystal
+811AA062:Resister's Crystal
+811B9158:Thorsten's Crystal
+811B62C4:Oswald's Crystal
+811BE6FB:Thorsten's Crystal
+811C3967:Elysa's Crystal
+811C38C7:Thorsten's Crystal
+811B79B9:Elysa's Crystal
+81122D4D:Thorsten's Crystal
+811A3816:Ben Ten's Crystal
+811940D3:Fletcher's Crystal
+811855B3:Thorsten's Crystal
+811D56E2:Converter's Crystal
+811D56E3:Artificer's Crystal
+811D56E4:Life Giver's Crystal
+811D56E5:Hieromancer's Crystal
+811D56E6:Enchanter's Crystal
+811D56E7:Wayfarer's Pearl
+811D56E8:Imbuer's Crystal
+811D56E9:Alchemist's Crystal
+811D56EA:Chef's Crystal
+811D56EB:Pack
+811D56ED:Renegade Herbal Kit
+811D56EE:Renegade Herbal Kit
+811D56F1:Renegade Herbal Kit
+811D56F2:Renegade Herbal Kit
+811D56F4:Renegade Herbal Kit
+811D56F6:Renegade Herbal Kit
+811D56F7:Renegade Herbal Kit
+811D56F9:Renegade Herbal Kit
+811D56FA:Renegade Herbal Kit
+811D56FC:Renegade Herbal Kit
+811D56FE:Renegade Herbal Kit
+811D5700:Pack
+811D5701:Solid Celdon Breastplate
+811D5702:Covenant Tassets
+811D5709:Gloom Drudge Charm
+811D570E:Pack Burun Kukuur
+811D5705:Sollerets
+811D570F:Pack Asheron
+811D5707:Amuli Leggings
+811D5708:Covenant Gauntlets
+C3596E03:Stipend
+811D570A:Sollerets
+811D570C:Covenant Bracers
+811D570D:Pack Levistras
+811D5715:Greater Olthoi Bracers
+811D5713:Greater Olthoi Breastplate
+
+Missing Exports - Possessed items that were not found:

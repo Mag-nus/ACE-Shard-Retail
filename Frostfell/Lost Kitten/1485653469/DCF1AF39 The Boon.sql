@@ -1,0 +1,38 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (3706826553, 19479, 8, 2150720) /* Book */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (3706826553,   1,       8192) /* ItemType - Writable */
+     , (3706826553,   5,        160) /* EncumbranceVal */
+     , (3706826553,  16,          8) /* ItemUseable - Contained */
+     , (3706826553,  19,         90) /* Value */
+     , (3706826553,  65,        101) /* Placement - Resting */
+     , (3706826553,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (3706826553, 9015,          8) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (3706826553,   1, False) /* Stuck */
+     , (3706826553,  11, True ) /* IgnoreCollisions */
+     , (3706826553,  13, True ) /* Ethereal */
+     , (3706826553,  14, True ) /* GravityStatus */
+     , (3706826553,  19, True ) /* Attackable */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (3706826553,  39, 1.22000002861023) /* DefaultScale */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (3706826553,   1, 'The Boon') /* Name */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (3706826553,   1,   33554771) /* Setup */
+     , (3706826553,   3,  536870932) /* SoundTable */
+     , (3706826553,   8,  100668117) /* Icon */
+     , (3706826553,  22,  872415275) /* PhysicsEffectTable */
+     , (3706826553, 8001,    2113560) /* PCAPRecordedWeenieHeader - Value, Usable, Container, Burden */
+     , (3706826553, 8003,        272) /* PCAPRecordedObjectDesc - Attackable, Book */
+     , (3706826553, 8005,     137345) /* PCAPRecordedPhysicsDesc - CSetup, ObjScale, STable, PeTable, AnimationFrame */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (3706826553,   1, 1342957988) /* Owner */
+     , (3706826553,   2, 1342957988) /* Container */
+     , (3706826553, 8000, 3706826553) /* PCAPRecordedObjectIID */;

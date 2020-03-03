@@ -1,0 +1,130 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2\pkt_2017-1-31_1485870514_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2\pkt_2017-1-25_1485364908_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2\pkt_2017-1-25_1485364908_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2\pkt_2017-1-27_1485524708_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2\pkt_2017-1-27_1485540927_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485762295_log.pcap
+
+Partial Exports - Missing appraisal info:
+810273FC:Foci of Verdancy
+810273FE:Silver Scarab
+810273FF:Copper Scarab
+81027400:Iron Scarab
+81027401:Lead Scarab
+81027402:Gold Scarab
+81027403:Prismatic Taper
+81027405:Sunflower
+81027406:Pyreal Scarab
+81027409:Platinum Scarab
+8102740A:Small Olthoi Grub
+8102740C:Ashbane
+8102740F:A Large Mnemosyne
+81027BE1:Renegade Mace
+81027B7A:Bunny Slippers
+AF12E82D:Shoyanen's Portal Gem
+81027BC2:Iron Pea
+81027BC4:Copper Pea
+81027BC3:Gold Pea
+81027408:Crown
+8102740D:Kireth Gown with Band
+B46879A4:Beret
+B465472B:Shoes
+81027BDE:Foci of Artifice
+81027BDD:Foci of Enchantment
+81027BD5:Portal Gem to the Callous Heart
+81027B72:Deed
+81027BD4:Heavy Bracelet
+81027BD3:Goblet
+81027BD2:Chalice
+81027BD1:Asheron's Supreme Raiment
+81027BCE:Suikan Item Master Robe
+81027BC9:Heavy Bracelet
+81027B5D:Pyreal
+B2288C36:Orb
+B3E6E2ED:Facility Hub Portal Gem
+805EBB46:Pyreal
+B6E98B17:Dansha-Ki's Gem of Portal Recall
+B70A8657:Pyreal
+81027BBC:Ring of Intellect
+81027BB2:Aerfalle's Pallium
+B1EE7DD2:Wrapped Bundle of Arrowshafts
+B6ECCB51:Gonjoku's Mana Infusion
+B7096092:Pyreal
+81027BBB:Pants
+81027BBA:Aerlinthe Patron Shirt
+B2278067:Puffy Tunic
+8102740B:Heavy Necklace
+81027BCF:Crown
+81027BC0:Amulet
+B46E4C34:Coronet
+B4703016:Coronet
+B1E98E17:Elysa's Crystal
+B1E5CE6E:Heavy Bracelet
+81027BB6:Bracelet of Knowledge
+81027BB8:Elysa's Favor
+B65AABE0:Salvage
+B6ECD17A:Gem of Balance
+B618DC93:Gorget
+B602099C:Bracelet
+B4FD042F:Ring
+B4FF5E22:Signet Crown
+B4B3B760:Banderling Scalp
+B4AE383A:Rust Gromnie Tooth
+B4AE3835:Red Monster Seed
+B4B49943:Nefane Shell
+B4B0860A:Orange Monster Seed
+80FB9DD4:Fire Compound Bow
+B701BD43:Pyreal
+805EB191:Bed
+B4441A4C:Brewmaster's Front Cover
+B702F6EE:Scroll of Raven Fury
+B467FB11:Alduressa Boots
+B4540AEE:Shirt
+B461D19E:Fez
+B461DB92:Crown
+B6E7C973:Salvage
+B3ABC9B2:Puffy Shirt
+B6075818:Baggy Pants
+805EB19D:Couch
+B6E9EF78:Puffy Shirt
+B67519E6:Ancient Mhoire Coin
+805EB170:Font of Jojii
+80FFE5C1:Blunt Bow
+805EC7C2:Thorsten's Armor
+B7A27FDC:Signet Crown
+B7A1125A:Mechanical Scarab
+805EB168:Diamond Shield
+B7A30329:Bracelet
+805EB190:Set Dinner Table
+B78FCF8E:Ring
+B7A03C82:Crown
+805EB19C:Holiday Feast
+C765CA52:Hyssop
+805EAC44:Gem of Stillness
+805EB176:Fertilized Sundew
+B362A523:Salvage (16)
+805EB173:Scared Jack o' Lantern
+805EB1A2:Pack Grael
+805EB17D:Scarecrow Guise
+805EB188:Assault Staff
+805EB18B:Tome of Blood and Bone
+805EB18C:Living Tome
+805EB1A9:Treasure
+805EC7C3:Pack Drudge
+805EB193:Worn Old Axe
+805EB19B:Evil Couch
+805EB184:Pack Bael'Zharon
+805EB194:Bladed Bow of Impaling
+805EB192:Bow of the Fallen
+805EC792:Acid Compound Bow
+805EC791:Slashing Compound Bow
+805EC7A6:Blunt Compound Bow
+805EC7A5:Fire Compound Bow
+805EC7C4:Hearth
+805EB196:Outcast
+805EB1A4:Into the Unknown
+
+Missing Exports - Possessed items that were not found:

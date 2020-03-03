@@ -1,0 +1,191 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\MrBoomBoom-01-22-2017-SeveralLegendaryQuests\pkt_2017-1-29_1485678114_log.pcap
+
+Partial Exports - Missing appraisal info:
+CCAAC7A1:Ust
+CCAAC7A8:Foci of Artifice
+CCB2305F:Blackmoor's Favor
+CCE47286:Pathwarden Trinket
+CCB23099:Facility Hub Portal Gem
+CCE688AA:Pyreal
+CCE67BEE:Academy Ken
+CCE56E49:Brown Beans
+CCE56E48:Swamp Stone
+CC8CAB3B:Ancient Shard of Metal
+CC8CAB3C:Dull Dagger
+CCE5717D:Halved Cloak
+CCE571EA:Alloy Tool
+CCE56F63:Chevron Cloak
+CCF47FDB:Yoroi Greaves
+CCF51DA0:Moderate Mana Stone
+CCF7B5C2:Chainmail Tassets
+CCF5467F:Shoes
+CCF8DE17:Stipend
+CCF81D27:Aphus Lassel Portal Gem
+CCF956B1:Chevron Cloak
+CCF81F02:Tenassa Sleeves
+CCF88D31:Chainmail Pauldrons
+CD1073B9:Scroll of Heal Self VI
+CCF81A91:Chainmail Pauldrons
+CCF6B686:Baggy Breeches
+CCDF9236:Baggy Shirt
+CCF5AC61:Trade Note (10,000)
+CCF5ABF4:A Ring of Acid Protection
+CCF5AB0A:Glittering Bracelet of Acid Protection
+CD0BE70A:Adventurer's Token
+CCF5AB20:Trade Note (50,000)
+CCF8CF5E:Dansha-Ki's Gem of Portal Recall
+CD255B29:Gem
+CCAFFEAC:Academy Coat
+CCFA5E5B:Bloodied Burun Hide
+CBACD333:Massive Mana Charge
+CCE67BEC:Academy Ken
+CCB2B4C1:Lightning Dirk
+CBB6EE84:Massive Mana Charge
+CCAE4B82:Ring
+CCB6A2FB:Chainmail Breastplate
+CCFCA82D:Diforsa Leggings
+CCAF44ED:Celdon Leggings
+CCF71A47:Loafers
+9C5C9456:Ring
+CD1D1CEF:Fire Baton
+CCA5B5ED:Pack
+CD23E17A:Pack
+CD1D0DFE:Salvage (100)
+CD1D0B44:Salvage (100)
+CBBAD57A:Pack
+CD1D0E3F:Salvage (100)
+CD1D0FC6:Salvage (100)
+CCAAC7AA:Lead Scarab
+CD1D0FE5:Salvage (100)
+CD1D0A64:Salvage (100)
+CCF6FF6B:Iron Scarab
+CE38BEB5:Salvage (7)
+CE4B76FC:Salvage (15)
+CCF77D82:Copper Scarab
+CE3A173A:Salvage (24)
+CDFED8A7:Salvage (8)
+CCF70529:Silver Scarab
+CE1BBAEC:Salvage (36)
+CE3A15DD:Salvage (14)
+CBE8FF74:Prismatic Taper
+CE408C06:Salvage (4)
+CE41D22F:Salvage (13)
+CCF88BE9:Silver Pea
+CE3B300E:Salvage (9)
+CE3C39D1:Salvage (7)
+CCF5AA3A:Treated Healing Kit
+CD173877:Fire Slingshot
+CD1D19B2:Blunt Compound Crossbow
+CD1D1D2B:Frost Compound Bow
+CD165F19:Flaming War Axe
+CD1D1A09:War Axe
+CD167D35:Lightning Quarter Staff
+CBDAA31A:Platinum Horn of Leadership
+CCF4B3F5:Mi Krau-Li's Jitte
+CCF5AA3C:Treated Healing Kit
+CC90E1E9:Baron's Amulet of Life Giving
+CCF5AA68:Treated Healing Kit
+CCE82EE3:Green Mire Yoroi Cuirass
+CCEF08CC:Encapsulated Spirit
+CCF5A9FA:Treated Healing Kit
+CCF5AA7A:Treated Healing Kit
+CCF5AA40:Treated Healing Kit
+CCF5AB35:Treated Healing Kit
+CCF599D2:Treated Healing Kit
+CCF5AC2F:Treated Healing Kit
+CCF9AB3B:Treated Healing Kit
+CCF9AB4C:Treated Healing Kit
+CE00FD61:Yoroi Leggings
+CDFDFF9C:Moderate Mana Stone
+CE3532C7:Moderate Mana Stone
+CE3C369F:Scarlet Red Letter
+CE356B46:Scarlet Red Letter
+CBA6B4C0:Pack
+CBB6D2C5:Ring
+CBDB6A6D:Heavy Bracelet
+CBBC073C:Ring
+CBACBC83:Heavy Bracelet
+CBDB6A83:Heavy Bracelet
+CBDB6A6C:Heavy Bracelet
+CBB6D22A:Heavy Bracelet
+CBA5172C:Heavy Necklace
+CB92E2A8:Ring
+CBBA87CF:Bracelet
+CBBB1036:Ring
+CBB6D370:Heavy Bracelet
+CBDB6A6B:Heavy Bracelet
+CBDB6A86:Heavy Bracelet
+CBDB6ABC:Ring
+CBC4DB88:Heavy Bracelet
+CBDB6A9A:Massive Mana Charge
+CBD750C9:Massive Mana Charge
+CF3B80DB:Coalesced Aetheria
+CF3BEEE1:Rare Crystalline Shard
+CF3BF662:Mace
+CF3A746C:Scroll of Jahannan's Boon
+CF3A748B:Tenassa Breastplate
+CF395A5B:Knorr Academy Girth
+CF18C8B2:Scroll of Lhen's Flare
+CF3957C2:Kabuton
+CF38D7D8:Leather Sleeves
+CF2C854E:Frost Ken
+CDB1CE9C:Gorget
+D10CA9C8:Pack
+D08EA310:Knorr Academy Helm
+D08EA31C:Olthoi Koujia Kabuton
+D08EA31D:Olthoi Koujia Kabuton
+D5B57309:Blank Augmentation Gem
+D08EA31A:Olthoi Sollerets
+D08EA2EE:Eldrytch Web Sollerets
+D08EA309:Turban
+D08EA30B:Olthoi Bracers
+D08EA2F5:Aetheria
+D08EA30A:Chainmail Greaves
+D08EA31B:Chiran Helm
+D1059172:Pack
+D08EA31E:Chiran Sandals
+D08EA2FF:Aetheria
+D08EA2FD:Aetheria
+D08EA300:Aetheria
+D08EA2FB:Aetheria
+D08EA318:Aetheria
+D08EA2F6:Aetheria
+D08EA319:Aetheria
+D08EA317:Aetheria
+D08EA30D:Aetheria
+D08EA304:Aetheria
+D08EA2F3:Aetheria
+D08EA2F4:Aetheria
+D08EA30C:Aetheria
+D08EA308:Aetheria
+D08EA302:Aetheria
+D08EA2FE:Aetheria
+D08EA303:Aetheria
+D08EA301:Aetheria
+D08EA2F8:Aetheria
+D08EA306:Aetheria
+D08EA2F9:Aetheria
+D08EA2F0:Fadsahil's Portal Gem
+A45B51F5:Empyrean Portalspace Stabilizer
+D08EA2F1:Silyun Portal Gem
+D08EA2E5:Obsidian Heart
+D08EA311:Alduressa Boots
+D08EA315:Platemail Gauntlets
+9D68DED9:Empyrean Portalspace Stabilizer
+D08EA30F:Haebrean Breastplate
+D08EA312:Celdon Girth
+D08EA316:Celdon Leggings
+D08EA314:Kote
+9E4DF90F:Empyrean Portalspace Stabilizer
+D08EA313:Yoroi Pauldrons
+D5A47277:Upper Insatiable Eater Jaw
+D10CFAF4:Coronet
+CF38D853:Crown
+CF2178D4:Cloth Gloves
+CBA6B529:Amulet
+CD03E658:Lightning Dirk
+D7BB5218:Foolproof Sunstone Gem
+CCF81DB3:Tower Shield
+
+Missing Exports - Possessed items that were not found:

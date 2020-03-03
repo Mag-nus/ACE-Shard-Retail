@@ -1,0 +1,205 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\pkt_2017-1-30_1485843220_desc\pkt_2017-1-30_1485840494_log.pcap
+
+Partial Exports - Missing appraisal info:
+DA9BC0DF:Pack
+DA9BC0E0:Saffron
+DA9BC0E1:Willow Talisman
+DA9BC0E2:Hyssop
+DA9BC0E3:Colcothar
+DA9BC0E4:Yew Talisman
+DA9BC0E5:Gifted Healing Kit
+DA9BC0E6:Peerless Healing Kit
+DA9BC0E7:Excellent Healing Kit
+DA9BC0E8:Gifted Healing Kit
+DA9BC0E9:Gifted Healing Kit
+DA9BC0EA:Gifted Healing Kit
+DA9BC0EB:Peerless Healing Kit
+DA9BC0EC:Gifted Healing Kit
+DA9BC0ED:Excellent Healing Kit
+DA9BC0EE:Peerless Healing Kit
+DA9BC0EF:Excellent Healing Kit
+DA9BC0F0:Gifted Healing Kit
+DA9BC0F1:Gifted Healing Kit
+DA9BC0F2:Gifted Healing Kit
+DA9BC0F3:Gifted Healing Kit
+DA9BC0F4:Potion of Healing
+DA9BC0F5:Wand
+DA9BC0F6:Scroll of Healing Mastery Self III
+DA9BC0F8:Scroll of Missile Weapon Mastery Self IV
+DA9BC0F7:Jerkin
+DA9BC0F9:Scroll of Light Weapon Mastery Other III
+DA9BC0FC:Lead Scarab
+DA9BC0FA:Breeches
+DA9BC0FB:Hyssop
+DA9BC0FE:Willow Talisman
+DA9BC0FD:Powdered Amber
+DA9BC0FF:Pack
+DA9BC100:Trade Note (5,000)
+DA9BC101:Trade Note (5,000)
+DA9BC102:Trade Note (10,000)
+DA9BC103:Trade Note (5,000)
+DA9BC104:Trade Note (5,000)
+DA9BC105:Trade Note (1,000)
+DA9BC106:Trade Note (1,000)
+DA9BC107:Trade Note (5,000)
+DA9BC108:Trade Note (10,000)
+DA9BC109:Trade Note (5,000)
+DA9BC10A:Trade Note (5,000)
+DA9BC10B:Trade Note (5,000)
+DA9BC10C:Trade Note (10,000)
+DA9BC10D:Trade Note (10,000)
+DA9BC10E:Trade Note (5,000)
+DA9BC10F:Trade Note (500)
+DA9BC110:Trade Note (1,000)
+DA9BC111:Trade Note (5,000)
+DA9BC112:Trade Note (1,000)
+DA9BC113:Trade Note (500)
+DA9BC114:Ring
+DA9BC115:Heavy Necklace
+DA9BC116:Slippers
+DA9BC117:Ring
+DA9BC118:Yew Talisman
+DA9BC119:Quicksilver
+DA9BC11A:Saffron
+DA9BC11B:Pack
+DA9BC11C:Shoes
+DA9BC11D:Shirt
+DA9BC121:Reliable Lockpick
+DA9BC11E:Pyreal Mote
+DA9BC11F:Pyreal Mote
+DA9BC120:Pyreal Mote
+DA9BC122:Superb Lockpick
+DA9BC123:Excellent Lockpick
+DA9BC124:Reliable Lockpick
+DA9BC125:Excellent Lockpick
+DA9BC126:Bracelet
+DA9BC127:Bracelet
+DA9BC128:Necklace
+DA9BC129:Ring
+DA9BC12A:Gorget
+DA9BC12B:Ring
+DA9BC12C:Heavy Bracelet
+DA9BC12D:Necklace
+DA9BC12E:Necklace
+DA9BC12F:Amulet
+DA9BC130:Ring
+DA9BC131:Bracelet
+DA9BC132:Turpeth
+DA9BC133:Belt Pouch
+DA9BC134:Superb Lockpick
+DA9BC135:Key to Hamud's Chambers
+DA9BC136:Devana's Note
+DA9BC137:Ash Tooth Dagger
+DA9BC138:Wand
+DA9BC139:Excellent Lockpick
+DA9BC13A:Reliable Lockpick
+DA9BC13B:Ash Gromnie Tooth
+DA9BC13C:Colcothar
+DA9BC13D:Quicksilver
+DA9BC13E:Simple Tumerok Key
+DA9BC13F:Key
+DA9BC140:Simple Tumerok Key
+DA9BC141:Orb
+DA9BC142:Ash Gromnie Tooth
+DA9BC143:Ash Gromnie Tooth
+DA9BC144:Orb
+DA9BC145:Orb
+DA9BC146:Sollerets
+DA9BC147:Olthoi Helm
+DA9BC148:Chainmail Gauntlets
+DA9BC149:Pack
+DA9B0962:Scroll of Item Enchantment Mastery Self III
+DA9BC14A:Scroll of Resist Magic Other II
+DA9BC14B:Scroll of Light Weapon Ineptitude Other II
+DA9BC14C:Scroll of Fire Vulnerability Other III
+DA9BC14D:Scroll of Mana Drain Other III
+DA9BC14E:Scroll of Impregnability Self III
+DA9BC14F:Scroll of Acid Protection Other III
+DA9BC150:Scroll of Leaden Weapon III
+DA9BC151:Scroll of Rejuvenate Other II
+DA9BC152:Scroll of Lockpick Mastery Other III
+DA9BC153:Scroll of Clumsiness Other III
+DA9BC154:Scroll of Missile Weapon Mastery Other II
+DA9BC155:Scroll of Missile Weapon Mastery Self III
+DA9BC156:Scroll of Blade Protection Self II
+DA9BC157:Scroll of Impenetrability III
+DA9BC158:Scroll of Coordination Self II
+DA9BC159:Scroll of Resist Magic Self
+DA9BC15A:Scroll of Frost Bolt III
+DA9BC15B:Scroll of Light Weapon Mastery Self II
+DA9BC15C:Scroll of Magic Item Tinkering Expertise Other III
+DA9BC15D:Scroll of Light Weapon Mastery Other III
+DA9BC15E:Scroll of Fire Vulnerability Other IV
+DA9BC15F:Scroll of Resist Magic Self IV
+DA9BC160:Scroll of Resist Magic Other III
+DA9BC161:Ring
+DA9BC162:Necklace
+DA9BC163:Ring
+DA9BC164:Necklace
+DA9BC165:Amulet
+DA9BC166:Bracelet
+DA9BC167:Heavy Bracelet
+DA9BC168:Heavy Bracelet
+DA9BC169:Sack
+DA9BC16A:Ring
+DA9BC16B:Trade Note (1,000)
+DA9BC16C:Trade Note (5,000)
+DA9BC16D:Trade Note (500)
+DA9BC16E:Orb
+DA9BC16F:Orb
+DA9BC170:Heavy Bracelet
+DA9BC174:Necklace
+DA9BC171:Koujia Sleeves
+DA9BC173:Chainmail Leggings
+DA9BC175:Bracelet
+DA9BC176:Ring
+DA9BC177:Bracelet
+DA9BC178:Trade Note (5,000)
+DA9BC179:Trade Note (1,000)
+DA9BC17A:Bracelet
+DA9BC17D:Takuba
+DA9BC17B:Chainmail Gauntlets
+DA9BC17E:Yumi
+DA9BC17F:Frost Tachi
+DA9BC180:Suikan Robe
+DA9BC181:Lightning Cestus
+DA9BC182:Frost Cestus
+DA9BC184:Bracelet
+DA9BC185:Heavy Bracelet
+DA9BC186:Lightning Katar
+DA9BC187:Necklace
+DA9BC188:Ring
+DA9BC189:Ring
+DA9BC18A:Ring
+DA9BC18B:Necklace
+DA9BC18C:Ring
+DA9BC18D:Wand
+DA9BC18E:Quarrel
+DA9BC18F:Gifted Healing Kit
+DA9BC190:Bracelet
+DA9BC191:Cobalt
+DA9BC192:Adept Healing Kit
+DA9BC193:Trade Note (1,000)
+DA9BC194:Trade Note (1,000)
+DA9BC195:Trade Note (1,000)
+DA9BC196:Pyreal
+DA9BC197:Sack
+DA9BC198:Nekode
+DA9BC199:Shouyumi
+DA9BC19A:Rapier
+DA9BC19B:Excellent Lockpick
+DA9BC19C:Necklace
+DA9BC19E:Gem
+DA9BC19D:Chainmail Hauberk
+DA9BC19F:Battle Axe
+DA9BC1A0:Spear
+DA9BC1A1:Studded  Basinet
+DA9BC1A2:Cestus
+DA9BC1A3:Large Kite Shield
+DA9BC1A5:Pack Bael'Zharon
+DA9BC1A4:Pack Virindi
+DA9BC1A6:Blackmoor's Favor
+DA9BC1A7:Some Changes for February 2012
+
+Missing Exports - Possessed items that were not found:

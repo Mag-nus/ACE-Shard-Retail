@@ -1,0 +1,94 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-04-2017\Random-Logs-from-Frostfell-mid-january\pkt_2017-1-19_1484876401_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-04-2017\Random-Logs-from-Frostfell-mid-january\pkt_2017-1-19_1484871367_log.pcap
+C:\ACEmulator\Logs Unpacked\02-04-2017\Random-Logs-from-Frostfell-mid-january\pkt_2017-1-19_1484876401_log.pcap
+
+Partial Exports - Missing appraisal info:
+DB1A84F7:Silver Pea
+D9E81AC7:Mana Scarab
+B6B842F4:Heavy Bracelet
+D9BDD832:Heavy Bracelet
+DA2F1A4F:Black Rock
+DB6E22E0:Trade Note (250,000)
+DBBC2D2B:Trade Note (250,000)
+DC3019D1:Pyreal
+DA404CDC:Swamp Stone
+D855C3C1:Copper Scarab
+D88DF1E1:Platinum Scarab
+D84D93E1:Silver Scarab
+D855C4A5:Pyreal Scarab
+DA436DF7:Strengthened Mana Forge Key
+DABD4B6C:Gold Pea
+D7BFE381:Lead Scarab
+D85076C3:Gold Scarab
+DA72C7E3:Ust
+DB7EA727:Snowflower
+D913EB0D:Empyrean Portalspace Stabilizer
+D931EBB1:Chevron Cloak
+DB3589E3:Barbed Fletching Tool
+DC174082:Trade Note (50,000)
+D977C3AE:Diamond Scarab
+D9061F1C:Wrapped Bundle of Arrowshafts
+D9BB2E1E:Wrapped Bundle of Deadly Prismatic Arrowheads
+DB6891AF:Inscription of Invulnerability Self
+D8B8732A:Splitting Tool
+DAC3FE6A:Dispatch to General Corcima
+DB76409D:Sclavus Tongue
+DB735ABD:Peerless Lockpick
+DA5B552A:Trade Note (250,000)
+DA96C6EA:Writ of Refuge
+DB63BD7F:Aetheria
+DAFA6182:Hawthorn
+B8ABAB47:Encapsulated Spirit
+DC191131:Sturdy Iron Key
+CD8BCF67:Aetheria
+DB764737:Glyph of Fletching
+DA2510D9:Scarlet Red Letter
+D90A71CE:Enhanced Mucor
+D0B52ABE:Chorizite
+DB864250:Aetheria
+DBAE779B:Fortified Mana Forge Key
+DBAC3013:Aetheria
+DBC12800:Infused Amber Shard
+DA13FA9E:Salvage (60)
+DBF015C9:Fleshy Lump
+D0B52AA2:Scroll of Raven Fury
+DC01316C:Aetheria
+DC022583:Key to Yaruldi's Hoard
+809F604E:Plentiful Healing Kit
+DC083B08:Strengthened Mana Forge Key
+DBD1B8B7:Little Green Seeds
+DC156865:Agent of Arcanum List
+DC129D34:Iron Scarab
+DC1D92D8:Mana Scarab
+DB6E22DF:Aged Legendary Key
+CCB256E7:Trade Note (250,000)
+CCB256E8:Trade Note (250,000)
+DAE9C44D:Benedino's Letter
+CCB256E9:Trade Note (250,000)
+DC2CA8C8:Titan Mana Charge
+DB6A1556:Prismatic Taper
+D95F8D15:Durable Legendary Key
+DB06A329:Aetheria
+DC1D9342:Prismatic Taper
+DC2DD055:Titan Mana Charge
+DC2DD051:Titan Mana Charge
+DC2C4EDE:Titan Mana Charge
+DC2AD5FF:Titan Mana Charge
+DC2DD190:Titan Mana Charge
+D30511C6:Ice Badge
+DBFEAEC8:Minalim Plant
+DC4459C4:Aetheria
+DC4459EE:Quill of Benevolence
+DC39332A:Pyreal Pea
+DC403F27:Quill of Introspection
+DC4035B2:Aetheria
+DC65605A:Diamond Powder
+DC672A7D:Pyreal Mote
+DC67273A:Diamond Heart
+DC64F642:Interview with the Mosswart
+DA60BB84:Aetheria
+
+Missing Exports - Possessed items that were not found:

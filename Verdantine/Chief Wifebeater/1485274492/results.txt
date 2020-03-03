@@ -1,0 +1,22 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-24_1485274306_log.pcap
+
+Partial Exports - Missing appraisal info:
+889D08CA:Kasa
+88A8897B:Baggy Shirt
+88972AAE:Loose Pants
+88972E52:Apple
+889D05CF:Leather Boots
+8892B05C:Foci of Artifice
+889C0569:Prismatic Taper
+889D08E9:Lead Scarab
+88A889E1:Sho Wand
+889D083E:Handy Healing Kit
+888BA480:Welcome Letter
+88A96868:Sack
+889CFE29:Calling Stone
+889D08C3:Asheron's Benediction
+889CF9CC:Blackmoor's Favor
+889D0693:Some Changes for February 2012
+
+Missing Exports - Possessed items that were not found:

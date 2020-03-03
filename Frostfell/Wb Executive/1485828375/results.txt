@@ -1,0 +1,45 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\Callaway-January2017-Account4\pkt_2017-1-30_1485828356_log.pcap
+
+Partial Exports - Missing appraisal info:
+DCE4AEBA:Viamontian Laced Boots
+DCE4AEB8:Doublet
+DCE4AEB9:Pants
+DCE4AEBB:Pyreal
+DCE4AEBC:Sack
+DCE4AEBD:Ust
+DCE4AEC0:Training Wand
+DCE4AEC1:Round Shield
+DCE4AEC2:Foci of Artifice
+DCE4AEC3:Prismatic Taper
+DCE4AEC4:Lead Scarab
+DCE4AEC5:Letter From Home
+DCFA7926:Blackmoor's Favor
+DCFA8DC2:Oil of Rendering
+DCF496E0:Oil of Rendering
+DD0170B5:Pyreal
+DD0070A8:Academy Coat
+DD0070A9:Facility Hub Portal Gem
+DD00FD50:Pathwarden Plate Leggings
+DCFEB9F9:Pathwarden Helm
+DD00FD4F:Pathwarden Sollerets
+DD00FD51:Pathwarden Plate Hauberk
+DCFEB9FF:Pathwarden Gauntlets
+DCFEB9F6:Pathwarden Trinket
+DCFEB9F8:Great Mana Charge
+DCFEB9F7:Pathwarden Robe
+DD06A467:Stipend
+BC572BE7:Trade Note (250,000)
+DD0821E8:Sake
+DC630604:Aged Legendary Key
+DC642163:Aged Legendary Key
+DC3F7C1A:Aged Legendary Key
+
+Missing Exports - Possessed items that were not found:
+DC531213
+DC7B17E2
+DCA88601
+DCA98A0E
+DCA98A0F
+DC93A260
+DC39EB18

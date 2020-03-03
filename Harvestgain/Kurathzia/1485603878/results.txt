@@ -1,0 +1,73 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\AC-Packet-Captures\AC Packet Captures\pkt_2017-1-28_1485601848_log.pcap
+
+Partial Exports - Missing appraisal info:
+92B55115:Pyreal
+92B5304A:Sack
+92B5581F:Prismatic Taper
+92B53DB3:Lead Scarab
+92B4DC94:Great Mana Charge
+92BC613A:Quest Weapon Coin
+92BC613B:Ust
+92BC613C:Foci of Shadow
+92BC6141:Scroll of Celcynd's Boon
+92BC6142:Scroll of Brogard's Defiance
+92BC6143:Scroll of Koga's Blessing
+92BC6144:Scroll of Kaluhc's Blessing
+92BC6145:Scroll of Morimoto's Blessing
+92BC6146:Scroll of Adja's Boon
+92BC6147:Scroll of Morimoto's Blessing
+92BC6148:Scroll of Anemia
+92BC6149:Scroll of Eradicate Life Magic Self
+92BC614A:Scroll of Light Weapon Mastery Other VII
+92BC614B:Scroll of Self Sacrifice
+92BC614C:Scroll of Might of the Lugians
+92BC614D:Scroll of Kwipetian Vision
+92BC614E:Scroll of Gift of Essence
+92BC614F:Scroll of Celdiseth's Blessing
+92BC6150:Scroll of Missile Weapon Ineptitude Other VII
+92BC6151:Scroll of Web of Defense
+92BC6152:Scroll of Light Weapon Mastery Other VII
+92BC6153:Scroll of Robustify
+92BC6154:Scroll of Anemia
+92BC6155:Scroll of Icy Blessing
+92BC6156:Scroll of Caustic Boon
+92BC6157:Scroll of Martyr's Blight VII
+92BC6158:Scroll of Light Weapon Mastery Other VII
+92BC6159:Scroll of Jibril's Blessing
+92BC615A:Scroll of Corrosion VII
+92BC615B:Scroll of Astyrrian's Gift
+92BC615C:Scroll of Archer Bait
+92BC615D:Scroll of Yoshi's Boon
+92BC615E:Scroll of Alset's Coil
+92BC615F:Scroll of Web of Resistance
+92BC6160:Scroll of Archer Bait
+92BC6161:Scroll of Jibril's Blessing
+92BC6162:Scroll of Vagabond's Gift
+92BC6163:Scroll of Broadside of a Barn
+92BC6164:Scroll of Hearts on Sleeves
+92BC6165:Scroll of Gravity Well
+92BC6166:Scroll of Meditative Trance
+92BC6167:Scroll of Blessing of the Mace Turner
+92BC6168:Scroll of Introversion
+92BC6169:Scroll of Brittle Bones
+92BC616A:Scroll of Missile Weapon Ineptitude Other VII
+92BC616B:Scroll of Might of the Lugians
+92BC616C:Scroll of Futility
+92BC616D:Scroll of Futility
+92BC616E:Scroll of Koga's Boon
+92BC616F:Scroll of Blessing of the Blade Turner
+92BC6170:Scroll of Festering Curse VII
+92BC6171:Scroll of Blessing of the Mace Turner
+92BC6172:Scroll of Outlander's Insolence
+92BC6173:Scroll of Might of the Lugians
+92BC6175:Scroll of Aliester's Blessing
+92BC6176:Scroll of Gears Unwound
+92BC6177:Scroll of Vitality Siphon
+92BC6178:Scroll of Nether Streak VII
+92BC6179:Stipend
+92B2FC09:Stipend
+9CBB3075:Stipend
+A6B5DE1A:Stipend
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,87 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-30_1485816738_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-27_1485536327_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-27_1485539328_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-28_1485614827_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-29_1485718290_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-29_1485718290_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-30_1485816738_log.pcap
+
+Partial Exports - Missing appraisal info:
+CC0054B9:Shirt
+CC0054BA:Pants
+CC0054BB:Slippers
+CC0054D7:Letter From Home
+CC0054D4:Blackmoor's Favor
+CC0054D5:Oil of Rendering
+CC0054D6:Oil of Rendering
+CC0054D8:Calling Stone
+CC0054D9:Ust
+CC0054DA:Pyreal
+CC0054DB:Facility Hub Portal Gem
+CC0054DC:Massive Mana Charge
+CC0054DD:Massive Mana Charge
+CC0054DE:Teardrop Crown
+CC0054DF:Loafers
+CC0054E0:Princely Runed Poniard
+CC0054E1:Massive Mana Charge
+CC0054E2:Coronet
+CC0054E3:Circlet
+CC0054E4:Diadem
+CC0054E5:Massive Mana Charge
+CC0054E6:Teardrop Crown
+CC0054E8:Signet Crown
+CC005521:Rabbit
+CC0054EB:Haebrean Gauntlets
+CC0054F5:Salvage (100)
+CC0054F6:Salvage (100)
+CC0054F7:Salvage (100)
+CC005502:Massive Mana Charge
+CC0054FD:Salvage (100)
+CC0054FE:Salvage (100)
+CC0054FF:Salvage (100)
+CC005500:Salvage (100)
+CC005523:Lugian Commander's Insignia
+CC005524:Mana Forge Key
+CC005526:Enhanced Mana Elixir
+CC005529:Ancient Mhoire Coin
+CC005539:Massive Mana Charge
+CC00552A:Small Olthoi Venom Sac
+CC00552B:Olthoi Koujia Breastplate
+CC00552E:Diforsa Sollerets
+CC00554C:Massive Mana Charge
+CC005535:Metal Cap
+CC005538:Diadem
+CC00553A:Modified Elemental Master Robe
+CC00553B:Flared Shirt
+CC00553C:Ring
+CC005550:Massive Mana Charge
+CC00553D:Noble Relic Helm of Will
+CC00553E:Ring
+CC00553F:Amulet
+CC005540:Red Monster Seed
+CC005542:Smock
+CC005549:Heavy Necklace
+CC00554A:Heavy Bracelet
+CC00554E:Shoes
+CC00554F:Dark Speck
+CC005552:Rithwic Portal Gem
+CC005553:Salvage (100)
+CC005554:Salvage (100)
+CC0020DB:Lesser Corrupted Essence
+CC005555:Salvage (100)
+CC005556:Salvage (100)
+CC002428:Corrupted Essence
+CC005557:Salvage (100)
+CC005558:Salvage (100)
+CC00242E:Corrupted Essence
+CC005559:Salvage (100)
+CC00555A:Salvage (100)
+CC00555B:Salvage (100)
+CC00556B:Piercing Crossbow
+CC00556E:Blunt Compound Bow
+CC005572:Blunt Compound Crossbow
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,92 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps3\pkt_2017-1-31_1485869518_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps2\pkt_2017-1-30_1485806224_log.pcap
+
+Partial Exports - Missing appraisal info:
+80070C00:Foci of Enchantment
+800CAD55:Foci of Artifice
+800CAD3F:Asheron's Benediction
+800CAD56:Facility Hub Portal Gem
+82F93CB3:Massive Mana Charge
+800A73E0:Blackmoor's Favor
+800CB358:Potion of Black Fire
+800CB35A:Pack
+800CB369:Bracelet of Knowledge
+800CB36E:Pack
+800CB36F:Small Belt Pouch
+800CB370:Silver Scarab
+800CB371:Copper Scarab
+800CB372:Iron Scarab
+800CB373:Lead Scarab
+800CB374:Prismatic Taper
+800CB375:Invitation to Master Fletchers
+800CB376:Gold Scarab
+800CB377:Platinum Scarab
+800CB378:Pyreal Scarab
+800CB384:Wrapped Bundle of Greater Deadly Blunt Arrowheads
+800CB385:Wrapped Bundle of Greater Deadly Frog Crotch Arrowheads
+800CB38A:Pyreal
+82F3D30F:Foci of Verdancy
+82FB4386:Sollerets of Darkness
+82D11021:Leggings of Darkness
+9255760C:Stipend
+82CEAC59:Gauntlets of Darkness
+82FB4365:Helm of Darkness
+842CA6A7:Red Taper
+82D31654:Coat of Darkness
+83EE75D8:Town Network Portal Gem
+83EBD7A9:Shoyanen's Portal Gem
+8405F38D:Wrapped Bundle of Burning Sands Arrowheads
+8403FCE5:Wrapped Bundle of Olthoi Acid Arrowheads
+8400B0BB:Wrapped Bundle of Raider Lightning Arrowheads
+8432A1ED:Wrapped Bundle of Greater Deadly Armor Piercing Arrowheads
+8432AC0F:Wrapped Bundle of Arrowshafts
+843188BE:Stamina Tincture
+84356967:Treated Healing Kit
+8435699E:Treated Healing Kit
+8435698C:Treated Healing Kit
+84356994:Treated Healing Kit
+84356C36:Treated Healing Kit
+84356C4E:Treated Healing Kit
+84356BE5:Treated Healing Kit
+8435647C:Treated Healing Kit
+84356BF6:Treated Healing Kit
+84356254:Treated Healing Kit
+8435625C:Treated Healing Kit
+8463FE2E:Aligned Mana Stone
+8465566B:Aetheria Mana Stone
+848C4E1A:Strengthened Mana Forge Key
+84A2F826:Strengthened Mana Forge Key
+84B6A127:Strengthened Mana Forge Key
+84C6FE20:Strengthened Mana Forge Key
+84DC1B89:Strengthened Mana Forge Key
+84E879E6:Strengthened Mana Forge Key
+84F568C4:Strengthened Mana Forge Key
+850855D3:Diamond Scarab
+8506A457:Radiant Blood Initiate Armor Writ
+8506E554:Initiate's Treasure Key
+850FAEEC:Strengthened Mana Forge Key
+850EBD8D:Orb
+850F3E75:Trade Note (250,000)
+85218AC0:Strengthened Mana Forge Key
+85352417:Strengthened Mana Forge Key
+8567B688:Strengthened Mana Forge Key
+857CEBE5:Strengthened Mana Forge Key
+85865281:Strengthened Mana Forge Key
+85B3E4B0:Strengthened Mana Forge Key
+85C44CCC:Strengthened Mana Forge Key
+85D47CE4:Strengthened Mana Forge Key
+85E509CA:Strengthened Mana Forge Key
+85F41852:Strengthened Mana Forge Key
+8687EB54:Strengthened Mana Forge Key
+841FBB18:Greater Deadly Armor Piercing Arrow
+86717B49:Olthoi Acid Arrow
+805C3582:Ring
+85265487:Ring
+93D0DCBA:Strengthened Mana Forge Key
+805BBFE4:Electric Bow
+805BB897:Blunt Bow
+
+Missing Exports - Possessed items that were not found:

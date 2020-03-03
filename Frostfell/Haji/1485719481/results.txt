@@ -1,0 +1,111 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\Dr_Doom_Random_Running_Around\pkt_2017-1-29_1485719220_log.pcap
+
+Partial Exports - Missing appraisal info:
+80453445:Foci of Strife
+80453444:Foci of Verdancy
+80453442:Pack
+80453441:Health Tincture
+804533AD:Quest Weapon Coin
+80453933:Facility Hub Portal Gem
+804534FF:Prismatic Taper
+804534F6:Copper Scarab
+804534FE:Blackmoor's Favor
+804534F5:Iron Scarab
+8045394C:Lead Scarab
+8045350B:Comfrey
+80453509:Silver Scarab
+80453507:Sho Wand
+80453506:Stamina Elixir
+80453502:Health Elixir
+80450C1D:Aphus Lassel Portal Gem
+8237FE9E:Gold Scarab
+80453510:Trade Note (50,000)
+8045350F:Trade Note (10,000)
+823A8956:Trade Note (100,000)
+829F1714:Pyreal Scarab
+82CC4908:Health Tonic
+80453500:Platinum Scarab
+8003159A:Mana Elixir
+82A1AA1E:Mana Tincture
+82703656:Mana Tonic
+804534FB:Pack
+80453513:High Mana Charge
+80453512:High Mana Charge
+8045350E:Coalesced Mana
+82341F5C:Stamina Brew
+8045350C:Sceptre
+8045350A:Ruminations on Portal Creation
+80453503:Portal Chamber Key
+8239DB3F:Loafers
+82A99EA5:Letter to Bretself the Translator
+8050C6A9:Aetheria
+82C35450:Coalesced Mana
+8286439A:K'nath Key
+82C34D39:Fez
+82A29240:Ruined Amulet of Light Weapons
+81A142FE:Fire Baton
+824E3068:Moderate Mana Stone
+82D105DC:Electric Sceptre
+82BC2A5C:Frost Baton
+83435050:Pyreal
+82C8CF10:Circlet
+82D119F6:Leather Gauntlets
+82D21CD8:Leather Cowl
+82D217EA:Crown
+83701D86:Coronet
+8045395E:Foci of Artifice
+83705966:Ruminations and Warnings on Portal Creation
+8045395B:Foci of Enchantment
+80453517:Pathwarden Trinket
+804509BD:Trousers
+804509BE:Ruschk Hunter Leggings
+804509BC:Turban
+80453515:Heavy Bracelet
+826F72CC:Ring
+82AD039B:Elysa's Favor
+82AADCC9:Diforsa Gauntlets
+811FB99E:Pack
+82C7E5B9:Samsur Town Stamp
+82C35D1E:Lytelthorpe Town Stamp
+82AD6F17:Nanto Town Stamp
+828775BD:Al Arqas Town Stamp
+82BC3233:Rithwic Town Stamp
+826BD70F:Circlet
+82B85AEE:Beret
+82C9D670:Scalemail Gauntlets
+82C7F375:Yanshi Town Stamp
+82BC1DC7:Moderate Mana Stone
+826F5ADC:Moderate Mana Stone
+82A29233:Moderate Mana Stone
+82C7F0FD:Moderate Mana Stone
+81A14A08:Heavy Gromnie Hide Coat
+8334D3F3:Bracelet
+833B013C:Nuhmudira's Bestowment of Quickness and Bludgeon Defense
+833D3130:Seasoned Explorer Girth
+833E7259:Seasoned Explorer Boots
+836ACCDD:Baggy Shirt
+836E7086:Black Stone
+804534FC:Stipend
+DAC1965E:Lead Pea
+DAC19728:Lesser Mana Stone
+DB5DD000:Copper Pea
+DB5CC2FC:Swamp Stone
+DB5CCAC6:Iron Pea
+DB5BC846:Moderate Mana Stone
+DB5DCD4C:Ash Gromnie Tooth
+DB5BC1E5:Sceptre
+DB5DE3F7:Chevron Cloak
+DB6797B6:Major Mana Stone
+DB6AEAA7:Major Mana Stone
+DB5186C3:Moderate Mana Stone
+DB6FF744:Seasoned Explorer Bracelet Of Coordination
+DB70C0E6:Skull Mask
+DB72FD74:Silver Pea
+8231B193:Orb
+DC4E671A:Pack T'thuun
+DC45CDF8:Strengthened Mana Forge Key
+DC4CD7B4:A'nekshay Token
+DC392E37:A'nekshay Token
+
+Missing Exports - Possessed items that were not found:

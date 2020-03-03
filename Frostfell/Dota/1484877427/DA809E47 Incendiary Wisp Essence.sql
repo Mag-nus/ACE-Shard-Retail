@@ -1,0 +1,73 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (3665862215, 49330, 70, 6476097) /* PetDevice */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (3665862215,   1,        128) /* ItemType - Misc */
+     , (3665862215,   5,         50) /* EncumbranceVal */
+     , (3665862215,  16,          8) /* ItemUseable - Contained */
+     , (3665862215,  18,         32) /* UiEffects - Fire */
+     , (3665862215,  19,      10000) /* Value */
+     , (3665862215,  33,          0) /* Bonded - Normal */
+     , (3665862215,  65,        101) /* Placement - Resting */
+     , (3665862215,  91,         50) /* MaxStructure */
+     , (3665862215,  92,         50) /* Structure */
+     , (3665862215,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (3665862215,  94,         16) /* TargetType - Creature */
+     , (3665862215, 105,         10) /* ItemWorkmanship */
+     , (3665862215, 114,          0) /* Attuned - Normal */
+     , (3665862215, 280,        213) /* SharedCooldown */
+     , (3665862215, 366,         54) /* UseRequiresSkill */
+     , (3665862215, 367,        570) /* UseRequiresSkillLevel */
+     , (3665862215, 368,         54) /* UseRequiresSkillSpec */
+     , (3665862215, 369,        185) /* UseRequiresLevel */
+     , (3665862215, 370,          8) /* GearDamage */
+     , (3665862215, 371,         15) /* GearDamageResist */
+     , (3665862215, 372,         16) /* GearCrit */
+     , (3665862215, 373,         18) /* GearCritResist */
+     , (3665862215, 9015,          1) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (3665862215,   1, False) /* Stuck */
+     , (3665862215,  11, True ) /* IgnoreCollisions */
+     , (3665862215,  13, True ) /* Ethereal */
+     , (3665862215,  14, True ) /* GravityStatus */
+     , (3665862215,  19, True ) /* Attackable */
+     , (3665862215,  22, True ) /* Inscribable */
+     , (3665862215,  69, True ) /* IsSellable */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (3665862215,  39, 0.400000005960464) /* DefaultScale */
+     , (3665862215, 167,      45) /* CooldownDuration */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (3665862215,   1, 'Incendiary Wisp Essence') /* Name */
+     , (3665862215,   7, '57') /* Inscription */
+     , (3665862215,   8, 'Nihao Storage') /* ScribeName */
+     , (3665862215,  14, 'Use this essence to summon or dismiss your Incendiary Wisp.') /* Use */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (3665862215,   1,   33554817) /* Setup */
+     , (3665862215,   3,  536870932) /* SoundTable */
+     , (3665862215,   6,   67111919) /* PaletteBase */
+     , (3665862215,   8,  100693035) /* Icon */
+     , (3665862215,  22,  872415275) /* PhysicsEffectTable */
+     , (3665862215,  50,  100693032) /* IconOverlay */
+     , (3665862215,  52,  100693024) /* IconUnderlay */
+     , (3665862215, 8001, 1076382872) /* PCAPRecordedWeenieHeader - Value, Usable, UiEffects, Structure, MaxStructure, Container, TargetType, Burden, IconOverlay */
+     , (3665862215, 8002,          7) /* PCAPRecordedWeenieHeader2 - IconUnderlay, Cooldown, CooldownDuration */
+     , (3665862215, 8003,   67108882) /* PCAPRecordedObjectDesc - Inscribable, Attackable, IncludesSecondHeader */
+     , (3665862215, 8005,     137345) /* PCAPRecordedPhysicsDesc - CSetup, ObjScale, STable, PeTable, AnimationFrame */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (3665862215,   1, 3434239831) /* Owner */
+     , (3665862215,   2, 3434239831) /* Container */
+     , (3665862215, 8000, 3665862215) /* PCAPRecordedObjectIID */;
+
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
+VALUES (3665862215, 67111923, 0, 0);
+
+INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
+VALUES (3665862215, 0, 83890064, 83890069, 0);
+
+INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, `order`)
+VALUES (3665862215, 0, 16777882, 0);

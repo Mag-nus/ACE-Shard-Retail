@@ -1,0 +1,101 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\Asherons-Call-20170203024646\pkt_2017-1-21_1484980661_log.pcap
+
+Partial Exports - Missing appraisal info:
+D7D90029:Foci of Enchantment
+D7D8FFEC:Foci of Verdancy
+D7E0A827:Prismatic Taper
+D7E0A828:Lead Scarab
+D7E0A829:Apple
+D7E0A82A:Welcome Letter
+D7E0A82B:Sack
+D7E0A82C:Calling Stone
+D7E0A82D:Iron Scarab
+D7E0A82E:Scroll of Cooking Mastery Other V
+D7E0A82F:Scroll of Missile Weapon Ineptitude Other V
+D7E0A830:Jo
+D7E0A831:A Ring of Acid Protection
+D7E0A832:Gardener Token
+D7E0A833:Copper Scarab
+D7E0A834:Silver Scarab
+D7E0A835:Scroll of Acid Bane VI
+D7E0A836:Scroll of Frailty Other V
+D7E0A837:Salvaged  (1)
+D7E0A838:Salvaged  (1)
+D7E0A839:Scroll of Healing Mastery Self III
+D7E0A83A:Gem
+D7E0A83B:Health Draught
+D7E0A83C:Faran Robe with Hood
+D7E0A840:Parchment
+D7E0A83D:Loose Pants
+D7E0A83E:Loose Shirt
+D7E0A850:Mana Stone
+D7E0A83F:Chainmail Gauntlets
+D7E0A841:Scroll of Light Weapon Ineptitude Other III
+D7E0A842:Scroll of Stamina to Mana Self IV
+D7E0A843:Scroll of Monster Unfamiliarity IV
+D7E0A844:Scroll of Mana Depletion Other IV
+D7E0A845:Hot Pepper
+D7E0A846:Scroll of Monster Attunement Other III
+D7E0A847:Mug
+D7E0A848:Scroll of Impenetrability IV
+D7E0A849:Sho Wand
+D7E0A84A:Scroll of Primary Portal Tie
+D7E0A84B:Yoroi Leggings
+D7E0A84C:Aqua Incanta
+D7E0A84D:A Note From Ciandra
+D7E0A84E:Heavy Bracelet
+D7E0A84F:Scroll of Shock Wave Streak IV
+D7E0A851:Salvaged  (37)
+D7E0A852:Salvaged  (18)
+D7E0A853:Salvaged  (19)
+D7E0A854:Salvaged  (7)
+D7E0A880:Pack Gaerlan
+D7E0A855:Salvaged  (16)
+D7E0A856:Salvaged  (78)
+D7E0A882:Some Changes for February 2012
+D7E0A857:Salvaged  (52)
+D7E0A858:Salvaged  (34)
+D7E0A859:Salvaged  (82)
+D7E0A85A:Salvaged  (8)
+D7E0A85B:Salvaged  (88)
+D7E0A85C:Salvaged  (39)
+D7E0A85D:Salvaged  (100)
+D7E0A85E:Salvaged  (73)
+D7E0A85F:Salvaged  (25)
+D7E0A860:Salvaged  (81)
+D7E0A861:Salvaged  (72)
+D7E0A862:Salvaged  (78)
+D7E0A863:Salvaged  (3)
+D7E0A864:Salvaged  (3)
+D7E0A881:Lightning Cestus
+D7E0A865:Salvaged  (63)
+D7E0A866:Salvaged  (11)
+D7E0A867:Salvaged  (13)
+D7E0A868:Salvaged Reedshark Hide (19)
+D7E0A869:Salvaged  (36)
+D7E0A86A:Salvaged  (40)
+D7E0A86B:Salvaged  (50)
+D7E0A86C:Salvaged  (74)
+D7E0A86D:Salvaged  (70)
+D7E0A86E:Salvaged  (57)
+D7E0A86F:Salvaged  (55)
+D7E0A870:Salvaged  (76)
+D7E0A871:Salvaged  (47)
+D7E0A872:Salvaged  (74)
+D7E0A873:Salvaged  (42)
+D7E0A874:Salvaged  (71)
+D7E0A875:Salvaged  (3)
+D7E0A876:Salvaged  (3)
+D7E0A877:Salvaged  (3)
+D7E0A878:Salvaged  (4)
+D7E0A879:Salvaged  (58)
+D7E0A87A:Salvaged  (36)
+D7E0A87B:Salvaged  (71)
+D7E0A87C:Salvaged  (16)
+D7E0A87D:Salvaged  (57)
+D7E0A87E:Salvaged  (25)
+D7E0A87F:Salvaged  (6)
+D7E0A883:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

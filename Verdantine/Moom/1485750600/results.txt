@@ -1,0 +1,82 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap2\pkt_2017-1-29_1485739902_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap1\pkt_2017-1-29_1485721132_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap2\pkt_2017-1-29_1485739902_log.pcap
+
+Partial Exports - Missing appraisal info:
+8601A716:Pyreal
+8601A6EE:Sack
+8601A736:Ust
+8601A70B:Calling Stone
+8601A72D:Foci of Artifice
+8601A735:Lead Scarab
+8601A757:Crude Lockpick
+8601A73E:Handy Healing Kit
+8601A782:Blackmoor's Favor
+8601A714:Facility Hub Portal Gem
+8601A7C1:Pack
+8601A73C:Entryway Key
+8601A75F:Salvage (100)
+8601A74E:Salvage (100)
+86019639:Pack
+8601A758:Salvage (100)
+8601A713:Salvage (100)
+8601A771:Pack
+8601A70C:Salvage (100)
+8601A767:Salvage (100)
+8601A734:Salvage (100)
+86006241:Salvage (100)
+8601A42F:Pack
+8601A774:Salvage (100)
+8601A726:Salvage (100)
+8601A783:Prismatic Taper
+8601A70A:Salvage (100)
+8601A773:Salvage (100)
+8601A74A:Bachus Flufen's Journal
+8601A71D:Salvage (100)
+8601A72E:Salvage (100)
+8601A7B8:Skeleton Key
+8601A725:Salvage (100)
+8601A798:Salvage (100)
+8601A754:Pack
+8601A781:Salvage (100)
+8601A748:Salvage (100)
+8601A73F:Salvage (100)
+8601A760:Salvage (100)
+8601A747:Salvage (100)
+8601A712:Salvage (100)
+8601A74B:Refreshing Water
+8601A750:Salvage (100)
+8601A7B0:The Withering
+8601A77E:A Journal by Martine
+8601A7A7:Jexki Ki's Journal
+8601A83D:Great Mana Charge
+8601A7A8:Salvage (100)
+8601A7F3:Salvage (100)
+8601A5AA:Interview with the Mosswart
+8601A588:Scroll of Robustification
+91E7E4C7:Hieromancer's Crystal
+8601A799:Aura of Infected Caress
+8601A75A:Unreadable Text
+8601A752:Journal of High Archon Kraest
+8601A7E1:Luminance, and the Paths of the Empyrean
+8601A7BC:Unreadable Text
+8601A7BE:Bundle of Prismatic Arrowheads
+8601A828:Unreadable Text
+8601A762:Glyph of Arcane Lore
+8601A79A:Glyph of Mana
+8601A7EA:Glyph of Two Handed Combat
+8809015D:Gelidite Dais
+8601A7A3:Dark Shard
+85F70F83:Enchanter's Crystal
+8811D5AD:Rogue's Crystal
+880C6EB2:Vaulter's Crystal
+8601A7C8:Glyph of Damage
+91E89C10:Halaetan Magic Page 2
+91ECB1D6:Guide to Fighting the Harbinger
+91E85827:Observations: Harraag
+91E4C188:Inner Sea Directive
+
+Missing Exports - Possessed items that were not found:

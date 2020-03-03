@@ -1,0 +1,110 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-31_1485854086_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-29_1485719312_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-29_1485719312_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-29_1485727826_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-29_1485728015_log.pcap
+
+Partial Exports - Missing appraisal info:
+9ACA5EC3:Old Scarlet Red Letter
+9ACA5F2A:Pyreal
+9ACA5EC5:Pack
+9ACA5ECB:Pyreal Bar
+9ACA5ECE:Homecoming Pennant
+9ACA5ECF:Gold Tumerok Insignia
+9ACA5ED1:Ursuin Head
+9ACA5ED5:Some Changes for February 2012
+9ACA5ED6:The Temple of Forgetfulness
+9ACA5ED7:Aetheria Powder
+9ACA5ED8:Aetheria Powder
+9ACA5ED9:Aetheria Powder
+9ACA5EDA:Aetheria Powder
+9ACA5EDB:Aetheria Powder
+9ACA5EDC:Aetheria Powder
+9ACA5EDD:Aetheria Powder
+9ACA5EE9:Midnight Revelation
+9ACA5F0B:Great Mana Charge
+81E60803:Dark Monolith
+9ACA5EF5:Pack
+9ACA5F02:A Note From Ciandra
+9ACA5F06:Scroll of Summon Primary Portal I
+9ACA5F03:Aetheria Powder
+9ACA5F04:Aetheria Powder
+9ACA5F10:Derethian Skies
+9ACA5F05:Aetheria Powder
+9ACA5F07:Scroll of Summon Secondary Portal I
+81E60849:Duke Raoul's Distillation
+81E607ED:Amber Ape
+9ACA5F15:Recalling the Calling
+9ACA5F0F:Sliver of Singular Chorizite
+9ACA5F13:A Treatise on the Properties of Fused Gems
+9ACA5F14:A Book of Quests for Young Explorers
+9ACA5F16:Elaborate Scroll
+9ACA5F18:Lashanda's Hand
+9ACA5F1A:Unreadable Text
+9ACA5F1B:The Story of Koji's Sword
+9ACA5F1C:Midnight Revelation
+9ACA5F1D:Pack
+9ACA5F24:Great Mana Charge
+9ACA5F25:Great Mana Charge
+9ACA5F26:Great Mana Charge
+9ACA5F27:Great Mana Charge
+9ACA5F2C:Scroll of Lifestone Tie
+9ACA5F2D:Scroll of Primary Portal Tie
+9ACA5F2E:Scroll of Secondary Portal Tie
+9ACA5F2F:Scroll of Primary Portal Recall
+9ACA5F30:Agent of Arcanum List
+9ACA5F31:Gold Tumerok Insignia
+9ACA5F32:Gold Tumerok Insignia
+9ACA5F36:Trade Note (100,000)
+9ACA5F35:Pack Ancient Olthoi Queen
+9ACA5F3C:Pack
+9ACA5F43:Snowflower
+9ACA5F40:Crystal Nodule
+9ACA5F7E:Pyreal
+9ACA5F44:Denouement
+9ACA5F46:Fenmalain Key
+9ACA5F49:Pyreal Bar
+9ACA5F4B:Great Mana Charge
+9ACA5F4C:Great Mana Charge
+9ACA5F4D:Great Mana Charge
+9ACA5F4E:Small Reedshark Hide
+9ACA5F4F:Scroll of Secondary Portal Recall
+9ACA5F50:Gold Tumerok Insignia
+81E60810:Black Spear of Mukkir Strength
+9ACA5F57:Gold Tumerok Insignia
+9ACA5F5B:Sclavus Arm
+9ACA5F5C:Bone Handle
+9ACA5F5D:Silk
+9ACA5F5E:Tusker Husk
+9ACA5F5F:Silk
+9ACA5F61:Diamond Scarab
+9ACA5F64:Diamond Scarab
+9ACA5F66:Major Mana Stone
+9ACA5F67:Ust
+9ACA5F68:Scroll of Portal Recall
+9ACA5F6A:Trade Note (10,000)
+9ACA5F6D:Renegade Herbal Kit
+9ACA5F6E:Stamina Elixir
+9ACA5F6F:Treated Healing Kit
+9ACA5F70:Health Elixir
+9ACA5F74:Aetheria Powder
+9ACA5F76:Aetheria Powder
+9ACA5F80:Great Mana Charge
+9ACA5F77:Aetheria Powder
+9ACA5F78:Aetheria Powder
+9ACA5F84:Handy Healing Kit
+9ACA5F79:Scroll of Weaken Lock IV
+9ACA5F7D:Salvage
+9ACA5F7F:Salvage
+9ACA5F81:Prismatic Taper
+81E60845:Armoredillo Egg
+81E607EE:Duke Raoul's Distillation
+81E607F9:Bobo's Stout
+81E6084A:Tusker Pus
+81E607F8:Hunter's Stock Amber
+C6AA61F8:Stipend
+
+Missing Exports - Possessed items that were not found:

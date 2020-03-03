@@ -1,0 +1,18 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-31_1485853069_log.pcap
+
+Partial Exports - Missing appraisal info:
+9C755482:Baggy Tunic
+9C755483:Wide Breeches
+9C755485:Pyreal
+9C755484:Shoes
+9C755486:Sack
+9C755487:Ust
+9C755489:Pathwarden Token
+9C75548B:Foci of Strife
+9C75548C:Foci of Verdancy
+9C75548D:Prismatic Taper
+9C75548E:Lead Scarab
+9C75548F:Letter From Home
+
+Missing Exports - Possessed items that were not found:

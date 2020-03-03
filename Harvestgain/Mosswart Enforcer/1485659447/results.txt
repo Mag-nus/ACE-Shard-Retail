@@ -1,0 +1,87 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\AC-Packet-Captures\AC Packet Captures\pkt_2017-1-28_1485659148_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-06-2017\AC-Packet-Captures\AC Packet Captures\pkt_2017-1-28_1485601848_log.pcap
+
+Partial Exports - Missing appraisal info:
+92BC7E92:A Tiny Mnemosyne
+92BC7E9C:A List of Items
+92BC7EC6:Parabolic Ink
+92BC7ECE:Alacritous Ink
+92BC7F07:Enchanted Seedling
+92BC7EBE:Ink of Objectification
+92BC7EBF:Ink of Direction
+92BC7EC1:Glyph of Flame
+92BC7EC2:Ink of Formation
+92BC7EC4:Ink of Conveyance
+92BC7EC5:Glyph of Lightning
+92BC7EC7:Glyph of Piercing
+92BC7EC8:Glyph of Healing
+92BC7EC9:Glyph of Mana Regeneration
+92BC7ECA:Glyph of Regeneration
+92BC7ECB:Glyph of Health
+92BC7ECC:Ink of Nullification
+92BC7ECD:Glyph of Mana
+92BC7ED1:Glyph of Nether
+92BC7ED2:Glyph of Frost
+92BC7ED3:Glyph of Bludgeoning
+92BC7ED4:Glyph of Stamina Regeneration
+92BC7ED5:Glyph of Item Enchantment
+92BC7ED6:Glyph of Arcane Lore
+92BC7ED7:Glyph of Damage
+92BC7ED8:Ink of Partition
+92BC7ED9:Ink of Separation
+92BC7EDA:Glyph of Light Weapons
+92BC7EDB:Glyph of Self
+92BC7EDC:Glyph of Life Magic
+92BC7EDD:Glyph of Focus
+92BC7EDE:Glyph of Quickness
+92BC7EDF:Glyph of Magic Defense
+92BC7EE0:Glyph of Loyalty
+92BC7EE1:Glyph of Void Magic
+92BC7EE2:Glyph of Corrosion
+92BC7EE3:Glyph of Stamina
+92BC7EE4:Glyph of Melee Defense
+92BC7EE5:Glyph of Jump
+92BC7EE6:Glyph of Item Tinkering
+92BC7EE7:Glyph of Weapon Tinkering
+92BC7EE8:Glyph of Item Tinkering
+92BC7EE9:Quest Weapon Coin
+92BC7EEA:Glyph of Dual Wield
+92BC7EEB:Glyph of Heavy Weapons
+92BC7EEC:Glyph of Run
+92BC7EED:Glyph of Dirty Fighting
+92BC7EEE:Glyph of Creature Enchantment
+92BC7EEF:Glyph of Deception
+92BC7EF0:Chorizite Fletching Tool
+92BC7EF1:Barbed Fletching Tool
+92BC7EF2:Glyph of War Magic
+92BC7EF3:Glyph of Sneak Attack
+92BC7EF4:Glyph of Strength
+92BC7EF5:Glyph of Armor Tinkering
+92BC7EF6:Glyph of Magic Item Tinkering
+92BC7EF7:Glyph of Leadership
+92BC7EF8:Glyph of Two Handed Combat
+92BC7EF9:Glyph of Missile Weapons
+92BC7EFA:Glyph of Missile Defense
+92BC7EFB:Glyph of Recklessness
+92BC7EFC:Glyph of Mana Conversion
+92BC7EFD:Glyph of Monster Appraisal
+92BC7EFE:Glyph of Shield
+92BC7EFF:Glyph of Salvaging
+92BC7F00:Glyph of Cooking
+92BC7F01:Glyph of Armor
+92BC7F02:Glyph of Fletching
+92BC7F0D:Quill of Benevolence
+92BC7F06:Glyph of Coordination
+92BC7F0A:Glyph of Alchemy
+92BC7F0B:Glyph of Light Weapons
+92BC7F0C:Glyph of Finesse Weapons
+92BC7F0E:Glyph of Lockpick
+92BC7F10:Glyph of Endurance
+92BC7F12:Glyph of Person Appraisal
+92BC7F13:Glyph of Light Weapons
+92BC7F14:Glyph of Light Weapons
+
+Missing Exports - Possessed items that were not found:

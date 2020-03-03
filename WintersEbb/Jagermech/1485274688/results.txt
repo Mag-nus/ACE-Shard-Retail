@@ -1,0 +1,27 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-24_1485274685_log.pcap
+
+Partial Exports - Missing appraisal info:
+A57AC678:Cloth Cap
+A57AC687:Baggy Shirt
+A57AC67A:Pyreal
+A57AC68A:Pants
+A57B4BF7:Leather Boots
+A57AC67B:Foci of Artifice
+A57AC5DE:Prismatic Taper
+A57AC699:Lead Scarab
+A57AC69A:Aluvian Wand
+A57AC688:Ust
+A57AC689:Bread
+A57AC69D:Starter Shortbow
+A57B6835:Starter Knife
+A57B6834:Handy Healing Kit
+A57B4E39:Welcome Letter
+A57AC68E:Sack
+A57AC6A6:Calling Stone
+A57B4C71:Asheron's Benediction
+A57AC63B:Pack Burun Kukuur
+A57AC69B:Some Changes for February 2012
+A57AC69C:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

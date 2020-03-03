@@ -1,0 +1,63 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485843152_log.pcap
+
+Partial Exports - Missing appraisal info:
+B2A4EA2A:Foci of Artifice
+B3AE59CF:Pack
+B27D82B6:Calling Stone
+B2A4D11E:Welcome Letter
+B2A518F7:Ust
+B2807ACD:Gharu'ndim Wand
+B29445A3:Lead Scarab
+B20C5CE1:Starter Nabut
+B2A4E0F3:Prismatic Taper
+B2A4D5C8:Blackmoor's Favor
+B2A4DB36:Pack Drudge
+B28CD4EC:Pyreal
+B3E1A765:Pyreal
+B3ECBD6F:Pyreal
+B3ECBD4A:Health Tonic
+B2A51B85:Sack
+B3B3594A:Ben Ten's Crystal
+B49335B7:Greater Mana Kit
+B3AE6D73:Brawler's Crystal
+B38A4D4C:Smithy's Crystal
+B37D9875:Thorsten's Crystal
+B37E3EB2:Vaulter's Crystal
+B37E56E7:T'ing's Crystal
+B434DE2B:Converter's Crystal
+B36ED25E:Tinker's Crystal
+B3B35957:Gelid's Jewel
+B36F41CE:Knight's Crystal
+B38BF52A:Imbuer's Crystal
+B3AE49A3:Corruptor's Crystal
+B3B36117:Artificer's Crystal
+B37E11BB:Warrior's Jewel
+B3B3611C:Warrior's Crystal
+B38AF3AE:Resister's Crystal
+B37A6064:Observer's Crystal
+B37BD88C:Fletcher's Crystal
+B3B36112:Pearl of Pierce Baning
+B4934B08:Pearl of Flame Baning
+B38435F9:Chef's Crystal
+B372DDF2:Adherent's Crystal
+B371013B:Enchanter's Crystal
+B4C9633E:Glyph of Strength
+B4933278:Greater Mana Kit
+B49161EF:Greater Mana Kit
+B43990CC:Mana Forge Key
+B4566FDD:Crystal Fragment
+B4399732:Mana Forge Key
+B4387E00:Mana Forge Key
+B4363A94:Mana Forge Key
+B43AF79B:Mana Forge Key
+B5BAD60C:Trade Note (10,000)
+B5C78E10:Scarlet Red Letter
+B5C67807:Scarlet Red Letter
+B5BBC5BB:Scarlet Red Letter
+B5BF5017:Scarlet Red Letter
+B5C4D923:Scarlet Red Letter
+B5980663:Lucky Gold Letter
+B5BEF400:Aphus Lassel Portal Gem
+
+Missing Exports - Possessed items that were not found:

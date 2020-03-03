@@ -1,0 +1,98 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap3\pkt_2017-1-31_1485881195_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap1\pkt_2017-1-26_1485462351_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap4\pkt_2017-1-28_1485652941_log.pcap
+
+Partial Exports - Missing appraisal info:
+801DBA29:Pack
+801DBA28:Facility Hub Portal Gem
+801DBA27:Pyreal
+801DBA25:Copper Pea
+801DBA24:Silver Pea
+801DBA1F:Treated Healing Kit
+801DBA1E:Le-Ai Rea's Key
+801DBA1C:Treated Healing Kit
+801DBA1B:Treated Healing Kit
+801DBA19:Parabolic Ink
+801DBA14:Prismatic Taper
+801DBA13:Tasty Pudding
+801DBA12:Damp Scroll
+801DBA10:Pack
+801DBA0F:Ust
+801DBA0D:General History of Dereth Vol. I
+801DBA0B:Lesser Stamina Kit
+801DBA0A:Lesser Mana Kit
+801DBA09:Facility Hub Portal Gem
+801DBA08:A Book of Quests for Young Explorers
+801DBA06:Aphus Lassel Portal Gem
+801DBA02:Scarlet Red Letter
+801DBA00:Treated Healing Kit
+801DB9FF:Quill of Introspection
+801DB9FE:Treated Healing Kit
+801DB9FD:Sturdy Iron Key
+801DB9FC:Alacritous Ink
+801DB9FB:Mana Scarab
+801DB9FA:Tear-Stained Parchment
+801DB9F6:Sack
+801DB9F5:Licorice Rat
+801DB9F2:Silver Scarab
+801DB9F1:Copper Scarab
+801DB9F0:Sturdy Iron Key
+801DB9EF:Sturdy Iron Key
+801DB9EE:Sturdy Iron Key
+801DB9EC:Lead Scarab
+801DB9E4:Gold Pea
+801DB9C4:Pyreal Scarab
+801DB9B6:Diamond Scarab
+919FB025:Drudge Key
+801DB9CE:Encapsulated Spirit
+801DB9C1:Black Marrow Keyring
+801DB9C0:Black Marrow Keyring
+801DB9BF:Gem of Stillness
+801DB99C:Granite Keyring
+801DB9BD:Ancient Falatacot Trinket
+801DB9BB:Invitation Ithaenc Cathedral
+801DB9B9:Stamina Philtre
+801DB9B2:Celdiseth's Portal Gem
+91A07F98:Drudge Key
+801DB9AC:Wah Chon's Winter Lager
+801DB9A7:Imbue Swap Coin
+801DB99A:Trade Note (10,000)
+805325C5:Sturdy Iron Keyring
+801DB984:Intricate Carving Tool
+805321CE:Brown Lump
+801DB966:Encapsulated Spirit
+8621057C:Platinum Scarab
+8820C8B8:Gold Scarab
+803E5968:Encapsulated Spirit
+8832F146:Salvage (95)
+91A0F4AD:Chef's Crystal
+87785FF9:Drudge Key
+919FD77E:Salvage (100)
+919E7EB7:Salvage (10)
+91A0267D:Drudge Key
+91A13156:Salvage (67)
+919C98FB:Salvage (10)
+91A02812:Salvage (45)
+919F9CAC:Salvage (20)
+91E973D1:Health Philtre
+919F8BFE:Salvage (100)
+91A0DC01:Salvage (100)
+919FA1F8:Salvage (8)
+919D850F:Salvage (11)
+8DF61C1F:Salvage (11)
+91E8A05B:Observer's Crystal
+91E8D83D:Salvage (100)
+91E95530:Quill of Infliction
+91E96766:Glyph of Damage
+91E95853:Ink of Formation
+91E96C11:Glyph of Recklessness
+91E93CFA:Salvage (47)
+91E95DE5:Salvage (8)
+91E91891:Ink of Conveyance
+91E96515:Glyph of Jump
+91E987FE:Glyph of Void Magic
+
+Missing Exports - Possessed items that were not found:

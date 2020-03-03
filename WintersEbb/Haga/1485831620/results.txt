@@ -1,0 +1,211 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\pkt_2017-1-30_1485843220_desc\pkt_2017-1-30_1485831600_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-06-2017\pkt_2017-1-30_1485843220_desc\pkt_2017-1-27_1485574063_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\pkt_2017-1-30_1485843220_desc\pkt_2017-1-27_1485579909_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\pkt_2017-1-30_1485843220_desc\pkt_2017-1-28_1485630938_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\pkt_2017-1-30_1485843220_desc\pkt_2017-1-28_1485664331_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\pkt_2017-1-30_1485843220_desc\pkt_2017-1-29_1485713947_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\pkt_2017-1-30_1485843220_desc\pkt_2017-1-29_1485715068_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\pkt_2017-1-30_1485843220_desc\pkt_2017-1-29_1485727238_log.pcap
+
+Partial Exports - Missing appraisal info:
+A50B2BEC:Hazel Talisman
+A50B2BBB:Alder Talisman
+A50B2B88:Hemlock Talisman
+A50B2B87:Ebony Talisman
+A50985A5:Willow Talisman
+A50985D3:Cedar Talisman
+A50B2BC8:Yew Talisman
+A50B2BD9:Ashwood Talisman
+A50B2B7A:Rowan Talisman
+A50B2C0C:Violet Taper
+A50B2BCF:Pink Taper
+A50B2BA1:Yellow Taper
+A50B2BB0:White Taper
+A50B2B95:Red Taper
+A50B2BB7:Orange Taper
+A50B2C0B:Indigo Taper
+A50B2BCC:Grey Taper
+A50B2C02:Green Taper
+A50B2B65:Brown Taper
+A50B2BB1:Blue Taper
+A50B2BC9:Turquoise Taper
+A50B2BDF:Poplar Talisman
+A50B2BDC:Turpeth
+A50B2BE2:Greater Mana Stone
+A50B2B79:Gypsum
+A50B2BA3:Cinnabar
+A50B2B77:Verdigris
+A50B2BA9:Cadmia
+A50B2BB6:Powdered Quartz
+A50B2B5E:Colcothar
+A50B2BFB:Mana Potion
+A50B2B55:Powdered Amber
+A50B2BE3:Cobalt
+A50B2BE8:Powdered Onyx
+A50B2BFA:Vitriol
+A50B2BBA:Powdered Turquoise
+A50AF66B:Iron Scarab
+A50B2BC6:Stibnite
+A50B2B0C:Quicksilver
+A50B2B7F:Realgar
+A50B2B92:Powdered Hematite
+A50B2A4A:Copper Scarab
+A50B2BA8:Powdered Agate
+A50B2BD1:Powdered Moonstone
+A50B2B71:Sturdy Iron Key
+A50B2B6E:Brimstone
+A50B2BB2:Powdered Carnelian
+A50B2B67:Lead Scarab
+A50B2BB3:Powdered Bloodstone
+A50B2BB5:Turpeth
+A50B2BFC:Greeter's Key
+A50B2B8A:Powdered Malachite
+A50B2B9A:Mandrake
+A50B2B6F:Sturdy Iron Key
+A50B2B66:Damiana
+A50B2BCE:Ginseng
+A50B2A8E:Iron Scarab
+A50AF66C:Wormwood
+A50B2B9D:Saffron
+A50B2BA2:Silver Scarab
+A50AF66A:Vervain
+A50B2B4A:Mugwort
+A50B2B54:Sturdy Iron Key
+A50B2ABC:Hawthorn
+A50B2B5D:Yarrow
+A58D1B18:Scroll of Leadership Ineptitude II
+A50B2B7D:Comfrey
+A50B2BB8:Sceptre
+A5ABE0F2:Iron Pea
+A59A42D2:Hyssop
+A50B2B96:Ginger
+A50B2BD2:Nekode
+A50B2B36:Katar
+A50B2B99:Peerless Healing Kit
+A50B2B0F:Ring
+A50AF656:Elaborate Field Rations
+A50B2B8E:Sturdy Iron Key
+A50B2BAB:Lightning Arrow
+A59B0F10:Small Niffis Shell
+A598DA5A:Plain Lockpick
+A59B2004:Scroll of Finesse Weapon Ineptitude Other III
+A59B20C6:Gem
+A59B21A8:Bracelet
+A59B1CE4:Small Niffis Shell
+A59B2ACF:Gem
+A59A48B1:Hyssop
+A50B2B8B:Excellent Healing Kit
+A50B2BC2:Excellent Healing Kit
+A50B2AE1:Health Elixir
+A50B2B4E:Peerless Healing Kit
+A50B2B6B:Mana Draught
+A50AF654:Peerless Healing Kit
+A50B2BBC:Peerless Healing Kit
+A50B2B73:Peerless Healing Kit
+A50B2B85:Peerless Healing Kit
+A50B2BC4:Peerless Healing Kit
+A50B2B9C:Peerless Healing Kit
+A508A56D:Peerless Healing Kit
+A50AF872:Potion of Healing
+A508A5AB:Peerless Healing Kit
+A50B2B47:Peerless Healing Kit
+A50AF655:Peerless Healing Kit
+A50B2B35:Peerless Healing Kit
+A50B2B5A:Health Draught
+A50B2B51:Peerless Healing Kit
+A50B2B38:Small Shreth Hide
+A50B2B42:Treated Healing Kit
+A50B2A82:Treated Healing Kit
+A50B2AD1:Treated Healing Kit
+A50B2B48:Treated Healing Kit
+A5AE7498:Ring
+A5A81DEE:Mana Elixir
+A50B2B94:Excellent Healing Kit
+A50B2B2F:Excellent Healing Kit
+A50B2B20:Excellent Healing Kit
+A50B2B4B:Excellent Healing Kit
+A50B2AFD:Excellent Healing Kit
+A50B2AF9:Peerless Healing Kit
+A50B2B3B:Peerless Healing Kit
+A50B2B40:Peerless Healing Kit
+A50B2AC1:Peerless Healing Kit
+A50B2AEE:Treated Healing Kit
+A50B2AFA:Excellent Healing Kit
+A50B2B31:Excellent Healing Kit
+A50B2AE9:Peerless Healing Kit
+A54F7ABD:Handy Healing Kit
+A59B2FBE:Stamina Tincture
+A598EA00:Gem
+A5ADFFFD:Gem
+A50B2AAA:Orb
+A50B2B82:Platemail Gauntlets
+A50B2B62:Pyreal
+A50B2B37:Orb
+A50B2B50:Orb
+A50B2AA5:Pyreal
+A50B26B2:Mana Draught
+A50B2B0A:Peppermint Stick
+A50B2B19:Acid Katar
+A50B2AE2:Flaming Katar
+A50B2A89:Greater Mana Stone
+A50B2B30:Orb
+A50AF74B:Berimphur Plant
+A50B2AD2:Mana Potion
+A50B2B43:Peerless Healing Kit
+A50B2AE0:Gifted Healing Kit
+A50B2B1B:Flaming Katar
+A50B2B1C:Potion of Healing
+A50B2AE5:Peerless Healing Kit
+A50B2B12:Gifted Healing Kit
+A50B2B21:Gifted Healing Kit
+A50B2B32:Gem
+A50B2AE6:Peerless Healing Kit
+A50B2AAD:Gifted Healing Kit
+A50B2B14:Adept Healing Kit
+A50B2B53:Adept Healing Kit
+A50B2AE3:Adept Healing Kit
+A50B2B2B:Stamina Elixir
+A50B2B2A:Adept Healing Kit
+A50B2AF8:Pyreal
+A50AFC85:Poofy Snowball
+A50B2AC2:Snowball
+A50B2A79:Acid Cestus
+A50B2B09:Gem
+A50B2AF2:Gem
+A50B2ACC:Gem
+A50B2ADB:A Tiny Mnemosyne
+A50B2A83:Gem
+A50B2AF0:Frost Cestus
+A50B2ACD:Gem
+A50B2AAB:Gem
+A50B2A81:Chandelier
+A50B2A72:Large Pine Tree
+A50B2AB4:Pack Golem
+A50B29AD:Pack Cow
+A58206EF:Pyreal
+A50B2A99:Plush Tusker
+A50B2A91:Lightning Nekode
+A50B2AC7:Pack Asheron
+A50B0F2B:Blackmoor's Favor
+A50B2AE8:Some Changes for February 2012
+A593C561:Shoes
+A59521DB:Gem
+A59B5175:Asheron's Second Missive
+A5A1FF45:Baggy Shirt
+A5A5E36D:Acid Katar
+A5A21160:Ring
+A5A22933:Puzzle Box
+A5A67B55:Gem
+A5A6A68C:Gem
+A5A6C827:Gem
+A5AC0390:Flaming Katar
+A5A9227C:Leather Greaves
+A5A600AA:Handy Healing Kit
+A5B01ECB:Shirt
+A5A78735:Salmon
+80B7AA45:Lesser Mana Stone
+
+Missing Exports - Possessed items that were not found:

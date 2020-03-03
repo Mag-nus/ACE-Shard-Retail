@@ -1,0 +1,221 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-09-2017\Callaway-01-17-31-2017-QuidditySeedMisc\pkt_2017-1-17_1484699075_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Callaway-01-10-2017\pkt_2017-1-10_1484075521_log.pcap
+C:\ACEmulator\Logs Unpacked\02-09-2017\Callaway-01-17-31-2017-QuidditySeedMisc\pkt_2017-1-17_1484699075_log.pcap
+
+Partial Exports - Missing appraisal info:
+B15C36BD:Ust
+B15C3259:Great Mana Charge
+B15C366B:Olthoi Claw
+B15C3893:Dire Mattekar Paw
+B1609A68:Sclavus Tongue
+B15C36D3:Large Armoredillo Hide
+B15434E5:Mattekar Hide
+B13D6A7E:Mattekar Hide
+B153FBE5:Thick Gromnie Hide
+B15F9B9E:Ursuin Scalp
+B15C37C5:Bloodied Burun Hide
+B15C37F0:Large Lugian Sinew
+B15C3799:Brown Rat Tail
+B15C3773:Black Rat Tail
+B15C3671:Red Rat Tail
+B15C3672:Small Ursuin Hide
+B15C3716:Olthoi Claw
+B13E7145:Hoary Armoredillo Spine
+B0CCB2DB:Carenzi Stalker Pelt
+B1544964:Rugged Gromnie Hide
+B15C36A6:Resilient Gromnie Hide
+B15C36A7:Hoary Armoredillo Spine
+B15C36A9:Ravener Guts
+B15C36AA:Plate Armoredillo Hide
+B15C369B:Bloodied Burun Hide
+B15C3526:Dire Mattekar Paw
+B153AA03:Seal
+B1610DA2:Gold Shallows Shredder Fin
+B1610D99:Tusker Mask
+B15C36A4:Drudge Head
+B15C36A5:Skeleton's Skull
+B15C370D:Undead Thighbone
+B154310B:Dark Revenant Thighbone
+B15C38CE:Undead Femur bone
+B15C358E:Gold Phyntos Wasp Wing
+B15431F2:Blue Phyntos Wasp Wing
+B15C30BA:Banderling Scalp
+B15C3805:Drudge Head
+B15C36E1:Sharp Tusker Slave Tusk
+B15C36D0:Mosswart Head
+B1610DA6:Gold Shallows Shredder Fin
+B154389C:Burun Ruuk Head
+B1609DC9:Gold Shallows Shredder Fin
+B1609DCA:Penguin Wing
+B1609DCB:Eviscerator Head
+B15C3829:Copper Gromnie Tooth
+B15C38D4:Tusker Husk
+B1610BD9:Ash Gromnie Wings
+B1610DDA:Ruby Gromnie Eye
+B15C372E:Grievver Spike
+B1609ECC:Mite Stamp
+B1610DE2:Bael'Zharon Stamp
+B1609EB5:Skull Stamp
+B15C330A:Silk
+B1609EAF:Moons Stamp
+B1610DD9:Herald Stamp
+B1634ED4:Strathelar Pennant
+B15C37F1:Herald Stamp
+B15C3261:Academy Stamp
+B15C37AB:Snowflower
+B15C3275:Alchemy Stamp
+B15C31B3:Olthoi Stamp
+B15C37A8:Sunflower
+B15B7A84:Virindi Stamp
+B16006F7:Olthoi Stamp
+B15C37A4:Orange Tulip
+B15C36DC:Virindi Stamp
+B1544510:Purple Tulip
+B15C36BA:Orange Tulip
+B15C3785:Candeth Keep Stamp
+B1610DB6:Silk
+B1610E3A:Hot Pepper
+B1609DBF:Bunch of Nanners
+B1609DC0:Brown Beans
+B1609E66:Carrot
+B15C36DA:Magic Iceball
+B15C36D4:Ginger
+B15C36D5:Tempting Apple
+B15C3819:Throwing Pancake
+B15C37BA:Peppermint Stick
+B15C372B:Strange Stick
+B15C372A:Moarsmuck
+B1609DF0:Tusker Spit
+B1609DEE:Rabbit Carcass
+B14DC0B4:Monougat
+B1609A94:Tiriun Mushroom Stalk
+B14DC06D:Tiriun Mushroom Cap
+B16006BE:Tiriun Mushroom Spores
+B16208D1:Ursuin Legs
+B1609DF6:Trade Note (250,000)
+B1610E36:Ursuin Legs
+B15C373F:Lucky Rabbit's Foot
+B15C381A:Old Scarlet Red Letter
+B154379C:Gem of Stillness
+B1610DDE:Royal Olthoi Jelly
+B153DEF3:Adept Healing Kit
+B1609250:Old Lucky Gold Letter
+B15C380B:Facility Hub Portal Gem
+B16102E0:Pack
+B1610DD2:Ust
+810365B6:Shark
+B1609FDD:Ulgrim's Contest Mug
+B1609E9A:Aphus Lassel Portal Gem
+81036540:Siraluun
+B163483D:Marble Key
+B16005BF:Ulgrim's Contest Mug
+B1609DD9:Lead Scarab
+B1610DD3:Prismatic Taper
+B15C3784:Pack
+B15C3746:Caulnalain Key
+B1600990:Caulnalain Key
+B159A732:Master Keyring
+B15C3845:Singularity Keyring
+B15C3846:Sturdy Iron Keyring
+B15C3738:Sturdy Iron Keyring
+B1610DF3:Directive Key
+B15C3753:Directive Key
+B15C3826:Directive Key
+B15C3816:Intricate Wooden Key
+B15C392F:Intricate Copper Key
+B15C330E:Intricate Obsidian Key
+B160060D:Fenmalain Key
+B153F109:Sturdy Iron Keyring
+B15324E6:Sturdy Steel Keyring
+B153F97D:Sturdy Iron Keyring
+B1610DFE:Sturdy Iron Keyring
+B1610E5B:Sturdy Steel Keyring
+B15C3797:Sturdy Iron Keyring
+B15C37B6:Sturdy Iron Keyring
+B15C381F:Sturdy Iron Keyring
+B125CF1F:Aged Legendary Key
+B15C3789:Aged Legendary Key
+B15C3686:Lucky Gold Letter
+B154491C:Aged Legendary Key
+B15C3775:Aged Legendary Key
+B15C376A:Muddy Towel
+B15C3828:Left Peg Leg
+B15C3825:Ursuin Body
+B15C3905:Great Mana Charge
+B15C3754:Aged Legendary Key
+B15C3732:Refreshing Water
+B15C24FB:Mid-Stakes Gambling Token
+B15C24FA:Drudge Charm
+B15C3788:Gem of Purity
+B153E8C8:Aphus Lassel Portal Gem
+B14DC3A2:Pack
+81036530:Phyntos Wasp
+8103653E:Penguin
+8103653B:Banderling
+810365B5:Slithis
+8103653A:Eater
+81036541:Thrungus
+B1609FA3:Aged Legendary Key
+B0F3F6C5:Durable Legendary Key
+B49FB1DD:Small Shard
+B494EB01:Small Shard
+B4964EFD:Small Shard
+B15C3734:Mangled Dark Key
+DC1E5CAA:Duelist's Jewel
+B15C3735:Aged Legendary Key
+B1543856:Aged Legendary Key
+B1542E08:Aged Legendary Key
+B13B23DF:Large Sclavus Hide
+B15C3751:Sclavus Tongue
+B15C3752:Casting Staff Stamped Spectral Ingot
+B1609F84:Wooden Scarecrow Guise
+B1609E1C:Aged Legendary Key
+B160C163:Aged Legendary Key
+B16010AA:Aged Legendary Key
+B15C37AA:Moarsman Head
+B1609F87:Aged Legendary Key
+B15C375E:Tempting Apple
+B153F614:Strengthened Mana Forge Key
+B1609E5D:Candy Corn
+B15C3865:Accursed Scarecrow Mask
+B1610E25:Accursed Scarecrow Mask
+B1589FCA:Pumpkin Cookie Cutter
+B15C3830:Pumpkin Cookie Cutter
+B1610C21:Gummy Ghoul
+B1635596:Floating Candle
+B15438C0:Festival Shirt
+B15C378E:Ulgrim's Contest Mug
+B15C37A9:Beer Stein
+B153EF82:Wah Chon's Winter Lager
+81036542:Banderling
+8103653F:Mattekar
+800673B5:Dereth Map
+81036547:Gearknight
+8103653D:Siraluun
+810365B4:Sleech
+8010C2EA:Pack T'thuun
+8010C2E8:Pack T'thuun
+B49BB803:Gold Golem Heart
+8010C2ED:Pack T'thuun
+B424B18E:K'nath Y'nda Essence
+8BAB9D03:Strengthened Mana Forge Key
+8BAB9D01:Mana Forge Key
+8BAB9D0A:Fortified Mana Forge Key
+D9F88115:Quill of Introspection
+808C19D8:Trade Note (250,000)
+B05C7543:Trade Note (250,000)
+B05C7545:Trade Note (250,000)
+DBBE69F2:A'nekshay Token
+B05C7503:Trade Note (250,000)
+DBA1F604:Hieromancer's Crystal
+DBBE69F0:Ancient Falatacot Trinket
+DBBE683A:Encapsulated Spirit
+DC1D3191:Pearl of Spirit Drinking
+DC1ABC34:Pearl of Blood Drinking
+DC02EDA9:Scholar's Crystal
+DC1E7030:Warrior's Jewel
+
+Missing Exports - Possessed items that were not found:

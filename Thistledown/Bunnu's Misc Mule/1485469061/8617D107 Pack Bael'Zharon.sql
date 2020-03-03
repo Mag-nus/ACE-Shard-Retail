@@ -1,0 +1,44 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (2249707783, 29917, 8, 2281792) /* Book */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (2249707783,   1,       8192) /* ItemType - Writable */
+     , (2249707783,   5,         10) /* EncumbranceVal */
+     , (2249707783,  16,          8) /* ItemUseable - Contained */
+     , (2249707783,  19,       5000) /* Value */
+     , (2249707783,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (2249707783, 151,          9) /* HookType - Floor, Yard */
+     , (2249707783, 9015,          8) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (2249707783,   1, False) /* Stuck */
+     , (2249707783,  11, True ) /* IgnoreCollisions */
+     , (2249707783,  13, True ) /* Ethereal */
+     , (2249707783,  14, True ) /* GravityStatus */
+     , (2249707783,  19, True ) /* Attackable */
+     , (2249707783,  22, True ) /* Inscribable */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (2249707783,  39,     0.5) /* DefaultScale */
+     , (2249707783,  54,       1) /* UseRadius */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (2249707783,   1, 'Pack Bael''Zharon') /* Name */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (2249707783,   1,   33559089) /* Setup */
+     , (2249707783,   3,  536870932) /* SoundTable */
+     , (2249707783,   6,   67113073) /* PaletteBase */
+     , (2249707783,   8,  100669122) /* Icon */
+     , (2249707783,  22,  872415275) /* PhysicsEffectTable */
+     , (2249707783, 8001,  270549048) /* PCAPRecordedWeenieHeader - Value, Usable, UseRadius, Container, Burden, HookType */
+     , (2249707783, 8003,        274) /* PCAPRecordedObjectDesc - Inscribable, Attackable, Book */
+     , (2249707783, 8005,       6273) /* PCAPRecordedPhysicsDesc - CSetup, ObjScale, STable, PeTable */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (2249707783,   1, 2249706744) /* Owner */
+     , (2249707783,   2, 2249706744) /* Container */
+     , (2249707783, 8000, 2249707783) /* PCAPRecordedObjectIID */;
+
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
+VALUES (2249707783, 67113074, 0, 0);

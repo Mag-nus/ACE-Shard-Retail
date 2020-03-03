@@ -1,0 +1,127 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2\pkt_2017-1-31_1485872498_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2\pkt_2017-1-25_1485364908_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2\pkt_2017-1-27_1485524708_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2\pkt_2017-1-27_1485528634_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2\pkt_2017-1-29_1485724446_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-25_1485338794_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485762295_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2\pkt_2017-1-30_1485774937_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2\pkt_2017-1-30_1485774937_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2\pkt_2017-1-31_1485857812_log.pcap
+
+Partial Exports - Missing appraisal info:
+81026B99:Blade Protection Gem
+81026B9B:Bludgeon Protection Gem
+81026B9E:Armor Protection Gem
+9D17EEC4:Foolproof Sunstone Gem
+9D107172:Lucky White Rabbit's Foot Gem
+AFF369D7:Engorged Eater Jaw
+9D18241A:Lucky White Rabbit's Foot Gem
+9D0841DA:Lucky White Rabbit's Foot Gem
+805EEFC5:Thorsten's Armor
+9D182CF9:Lucky White Rabbit's Foot Gem
+9D1A7FF6:Foolproof Imperial Topaz Gem
+805EEFCF:Thorsten's Armor
+AF2700DF:Salvage
+81026BDD:Intricate Copper Key
+81026BDE:Bloodletter Drudge Charm
+81026BDC:Mana Infusion
+81026BDF:Bloodletter Drudge Charm
+81026BEF:Salvaged  (100)
+81026BF0:Salvaged  (100)
+81026BF9:Pack Gaerlan
+81026BF1:Salvaged  (100)
+81026BF2:Salvaged  (100)
+81026BFA:Pack Burun Kukuur
+81026BF3:Salvaged  (100)
+81026BF4:Salvaged  (100)
+81026BFB:Pack Asheron
+81026BF5:Salvaged  (100)
+81026BF6:Salvaged  (100)
+81026BFC:Pack Bael'Zharon
+81026BF7:Salvaged  (100)
+81026BF8:Salvaged  (100)
+81026C00:Alloy Machine
+81026BFD:Pack Levistras
+81026BFE:Pack Martine
+81026BFF:Pack Ancient Olthoi Queen
+81026C01:Dereth Map
+81026C66:Ursuin Toy
+81026C50:Festival Lights
+81026C51:Festival Lights
+81026C49:Hardened Shard
+805EF0A4:Diamond Heart
+805EF0A5:Diamond Heart
+805EF0A6:Diamond Heart
+80EFDFCD:Intricate Obsidian Key
+805EC7BC:Eviscerator Head
+80F8A7D0:Mace
+80FB9C93:Trident
+80ECA471:Olthoi Alduressa Gauntlets
+80FB85C2:Leather Gauntlets
+80FBB612:Dark Sorcerer's Phylactery
+80F3EAB1:Dark Sorcerer's Phylactery
+80EFF7AD:Wrapped Bundle of Armor Piercing Arrowheads
+80FB8E2C:Wrapped Bundle of Broad Arrowheads
+80FF44A4:Wrapped Bundle of Armor Piercing Arrowheads
+80FB9657:Sturdy Steel Key
+80F96CFA:Claw
+80FBA0B3:Flaming Stick
+80FB86EC:Doppelganger Shield
+80FCFB18:Sprouting Pumpkin Vine
+80F9A584:Frost Sceptre
+80F905EC:Fire Staff
+80E933BC:Fire Sceptre
+80FB62C4:Chainmail Girth
+80F9594C:Pantaloons
+80FCD816:Scalemail Sleeves
+80FF22D5:Brilliant Celdon Breastplate
+80E93616:Amuli Leggings
+80F8A6CE:Olthoi Amuli Helm
+805EC754:Amuli Leggings
+805EC748:Koujia Leggings
+805EC799:Helm of Gratitude
+805F08A3:Celdon Sleeves
+805F08B8:Whispering Blade Boots
+805EC770:Olthoi Girth
+805EC74A:Diforsa Sleeves
+805F091B:Crown
+805EC766:Covenant Helm
+805F0897:Frost Long Sword
+805EC79A:Acid Grievver Essence (125)
+805EC7AA:Heavy Bracelet
+805EC79F:Amuli Coat
+805EC768:Chiran Gauntlets
+805EC753:Ring
+805EC756:Chevron Cloak
+805F0898:Flaming Nekode
+805EC74B:Lace Shirt
+805F08E0:Chevron Cloak
+AF8D7073:Chevron Cloak
+805EC7A2:Heavy Bracelet
+B6D869C7:Amulet
+805EC7B1:Heavy Bracelet
+805EC7B3:Heavy Bracelet
+805EC7BD:Ring
+805EC7A4:Heavy Bracelet
+805EC790:Pocket Watch
+805EC7A0:Pocket Watch
+805EC7A3:Circlet
+C811257F:Aphus Lassel Portal Gem
+C7648083:Quill of Infliction
+C80FF537:Hunter's Crystal
+B7264324:Olthoi Celdon Gauntlets
+B72656B2:Puffy Tunic
+B714641C:Covenant Sollerets
+AFCD2683:Baggy Tunic
+B3F7E903:Thorsten's Crystal
+AFE7BFBD:Oswald's Crystal
+AF744DCC:Berzerker's Crystal
+C738AA01:Warrior's Crystal
+8102D125:Hyssop
+C804603F:Berimphur Plant
+
+Missing Exports - Possessed items that were not found:

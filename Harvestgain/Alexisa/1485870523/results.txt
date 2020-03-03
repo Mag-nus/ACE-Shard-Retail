@@ -1,0 +1,154 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2\pkt_2017-1-31_1485870514_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2\pkt_2017-1-25_1485364908_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2\pkt_2017-1-27_1485524708_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2\pkt_2017-1-28_1485590221_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485761888_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2\pkt_2017-1-30_1485774937_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2\pkt_2017-1-30_1485774937_log.pcap
+
+Partial Exports - Missing appraisal info:
+810395D7:Baron's Amulet of Life Giving
+810395D8:Elysa's Favor
+810395DA:Heavy Bracelet
+810395DB:Coalesced Mana
+810395E7:Asheron's Benediction
+810395E8:Blackmoor's Favor
+81039626:Bracelet
+81039613:Pocket Watch
+81039609:Compass
+8D6841AB:Qafiya
+8D6CC100:Diforsa Helm
+805EF4F6:Heavy Bracelet
+8D5FD370:Black Page of Salt and Ash
+AF4A6527:Warrior's Crystal
+810395EA:Scored Shard
+810395EB:Shadowfire Isparian Mace
+8EEB4485:Nariyid Gauntlets
+8CFDA8FC:Lightning Moar Essence (50)
+805EF4F8:Fire Grievver Essence (50)
+8F92426E:Bracelet
+8ED9A80A:Diadem
+8F0869FD:Ring
+8E64A866:Puzzle Box
+805EF4F3:Ring
+805EF4F7:Coronet
+8DF32967:Oak Golem Essence
+8D86DAB4:Encapsulated Spirit
+805EF4A4:Ust
+B01D46FA:Dansha-Ki's Gem of Portal Recall
+B01FEB43:Sho Gem of Worth
+810395EF:Iron Scarab
+810395F0:Lead Scarab
+810395F1:Splitting Tool
+810395F2:Facility Hub Portal Gem
+8102D1BB:Twisted Dark Key
+810395F4:Gold Scarab
+810395F8:Silver Scarab
+810395F9:Copper Scarab
+810395FA:Platinum Scarab
+810395FB:Pyreal Scarab
+81039601:Shoyanen's Portal Gem
+8FADC780:Prismatic Taper
+80FB8442:Grand Casino Golden Keyring
+805F0FB9:Slashing Sceptre
+8102D7E0:Nether Sceptre
+80421E88:The Hero
+80F6E3B7:Slashing Sceptre
+8102D7E7:Blunt Baton
+80421E89:Dereth Map
+80F3D170:Sturdy Iron Key
+80F8A530:Chevron Cloak
+80FCF174:Royal Runed Knuckles
+81039604:Foci of Artifice
+81039605:Foci of Verdancy
+81039606:Foci of Enchantment
+8103962B:Foci of Shadow
+AE36D4A3:Amulet
+8D6B725B:Ring
+AF15DC5E:Jo
+AF3E1499:Candeth Keep Stamp
+B01EEA42:Gonjoku's Mana Infusion
+AF3DF67F:Fire Zombie Essence (50)
+AF497EDD:Frost Wisp Essence (50)
+8D04518A:Lightning Moar Essence (50)
+AF49671D:Frost Spectre Essence (50)
+AF3E2AEB:Lightning Skeleton Minion Essence (50)
+81039608:Chevron Cloak
+810395E5:Gem of Stillness
+B01F4C2C:Colosseum Coin
+805EF4E8:Gem of Balance
+AF041F61:Smock
+80421E85:Font of Jojii
+AF193248:Tunic
+AE49C091:Studded Leather Basinet
+80421ECF:Fletching Table
+AF1C569F:Lancet
+AF1C56D3:Acid Stick
+AE40BE4B:Chainmail Gauntlets
+AE390217:Nether Sceptre
+AE3C0FE6:Flared Pants
+80421E87:Aluvian Lamp
+ADE3B59D:Lugian Hammer
+8F7F65ED:Shield of Yanshi
+8DD433E1:Loose Shirt
+8EE7B276:Trousers
+80421ECA:Bench
+B018C620:Antiquated Compass
+B01D5B18:Mana Forge Key
+B01EFD08:Gem of Balance
+B020401B:Mana Forge Key
+B0212380:Mana Forge Key
+B0212381:Ancient Mhoire Coin
+B0212384:Baggy Breeches
+B1214DAC:Mana Forge Key
+B08FF3FB:Ruined Amulet of the Two Hander
+B0951520:Aphus Lassel Portal Gem
+B3C7D51D:Brewmaster's Front Cover
+AFCD751A:Blunt Bow
+B1D3C264:Crown
+B1D554A5:Studded Leather Basinet
+80421ECC:Pedestal
+B1D9EBDB:Studded Leather Breastplate
+80421ECD:Holiday Feast
+B1CE9A88:Celdon Girth
+B1DB300B:Covenant Greaves
+80421EC9:Bed
+B1DA3BD3:Chainmail Tassets
+B343F775:Staff
+B3508479:Covenant Tassets
+B35000E6:Ring
+C7400521:Thick Gromnie Hide
+B34CA04B:Ring
+B35325C8:Amulet
+B2CC7790:Ring
+B3532E48:Trousers
+B341EB0D:Electric Sceptre
+80421ECE:Workbench
+B31280DB:Smock
+B345539E:Trousers
+80421ED1:Garden Drudge
+B325BEDD:Amulet
+B35F04D2:Pocket Watch
+80421ED6:Couch
+B354380A:Gorget
+B35BE8FA:Ring
+B3D09646:Goggles
+C7408792:Acid Spadone
+80421E84:Pack Burun Kukuur
+80421EDA:Pack Golem
+80421E8A:Shield of Strathelar
+80421EDB:Jack o' Lantern
+80421E82:Pack Scarecrow
+80421ECB:Pack Scold
+805EACDA:Warrior's Jewel
+8102D198:Piercing Compound Bow
+80421ED3:Sanguinary Aegis
+80421ED9:Decorative Bronze Statue
+80421ED8:Diamond Shield
+80421ED7:Heavy Crossbow
+80F8A97F:Through the Portal Years
+
+Missing Exports - Possessed items that were not found:

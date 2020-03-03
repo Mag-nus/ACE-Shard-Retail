@@ -1,0 +1,228 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\pkt_2017-1-30_1485843220_desc\pkt_2017-1-30_1485841312_log.pcap
+
+Partial Exports - Missing appraisal info:
+AB170C8C:Pack
+AB1703DC:Willow Talisman
+AB170C8D:Poplar Talisman
+AB12F781:Cedar Talisman
+AB170D58:Ashwood Talisman
+AB170D46:Birch Talisman
+AB12F779:Ebony Talisman
+AB170CA5:Alder Talisman
+AB170D55:Blackthorn Talisman
+AB170D45:Rowan Talisman
+AB131E3A:Hazel Talisman
+AB170CA6:Red Taper
+AB170D4F:Yellow Taper
+AB170C74:Pink Taper
+AB170C99:Indigo Taper
+AB14353E:Green Taper
+AB170D4C:Blue Taper
+AB170C75:Violet Taper
+AB170C9A:Grey Taper
+AB170CA7:White Taper
+AB14354E:Sceptre
+AB170CB0:Pack
+AB170C9B:Realgar
+AB170D78:Colcothar
+AB170D26:Vitriol
+AB170C87:Cobalt
+AB0FD275:Powdered Onyx
+AB170D82:Stibnite
+AB170D86:Gypsum
+AB170C93:Powdered Turquoise
+AB170C9C:Quicksilver
+AB170CB3:Treated Healing Kit
+AB0E12AF:Verdigris
+AB170CA8:Turpeth
+AB170C88:Cadmia
+AB1436B5:Cinnabar
+AB170C9D:Brimstone
+AB170CB1:Yumi
+AB170C94:Powdered Quartz
+AB170D5C:Powdered Moonstone
+AB170CA0:Treated Healing Kit
+AB170CA9:Powdered Malachite
+AB143715:Powdered Hematite
+AB170CB9:Treated Healing Kit
+AB144907:Powdered Carnelian
+AB170CCA:Powdered Bloodstone
+AB1447F4:Small Mana Charge
+AB170C9E:Powdered Amber
+AB170C95:Powdered Agate
+AB170C98:Pack
+AB170CAA:Powdered Azurite
+AB170CCB:Comfrey
+AB170CAB:Lead Scarab
+AB170CC0:Damiana
+AB170D6D:Hawthorn
+AB170CAC:Iron Scarab
+AB170CA2:Hyssop
+AB170CB2:Yarrow
+AB170CD4:Treated Healing Kit
+AB170C9F:Dragonsblood
+AB170CD3:Ginseng
+AB170CC2:Treated Healing Kit
+AB170CB8:Wormwood
+AB170CC1:Mugwort
+AB170CA1:Moderate Mana Charge
+AB170CA3:Saffron
+AB170DB4:Mandrake
+AB170CD5:Pack
+AB170DB3:Heavy Bracelet
+AB170CAD:Gorget
+AB170CB5:Ring
+AB170CC4:Excellent Healing Kit
+AB170CBA:Excellent Healing Kit
+AB170CCD:Excellent Healing Kit
+AB170CAE:Excellent Healing Kit
+AB170CB6:Excellent Healing Kit
+AB170D9B:Excellent Healing Kit
+AB14493D:Excellent Healing Kit
+AB170CC5:Peerless Healing Kit
+AB170CCE:Excellent Healing Kit
+AB170CAF:Potion of Healing
+AB170CB7:Excellent Healing Kit
+AB1449CE:Excellent Healing Kit
+AB170CC6:Excellent Healing Kit
+AB170D98:Excellent Healing Kit
+AB170CCF:Excellent Healing Kit
+AB14456E:Mana Potion
+AB170D8F:Peerless Healing Kit
+AB170CC7:Mana Elixir
+AB170CD0:Peerless Healing Kit
+AB170CC8:Peerless Healing Kit
+AB170CD1:Moderate Mana Charge
+AB170CBF:Pack
+AB170CD2:Greeter's Key
+AB170CE7:A Ring of Acid Protection
+AB170CE8:Gardener Token
+AB170CD9:Smock
+AB170CDB:Frost Ken
+AB170CDA:Faran Robe with Hood
+AAE29116:Moderate Mana Charge
+AB170CF4:Moderate Mana Charge
+AB170CEC:Moderate Mana Charge
+AB170CDD:Moderate Mana Charge
+AADFAD4D:Small Mana Charge
+AB170DE7:Takuba
+AB170CF6:Nekode
+AB170CED:Nekode
+AB170D06:Kaskara
+AB170CFF:Amuli Coat
+AB170DE4:Peerless Healing Kit
+AB170CDE:Pants
+AADD678B:Acid Takuba
+AB1642DB:Pack
+AB170D00:Peerless Healing Kit
+AB170CF7:Peerless Healing Kit
+AB170CEE:Peerless Healing Kit
+AB170CE3:Peerless Healing Kit
+AAE2A361:Scroll of Summon Primary Portal I
+AB170CF9:Scroll of Bludgeon Bane III
+AB170D01:Scroll of Heal Self II
+AB170DA6:Scroll of Armor Self II
+AB170CE0:Heavy Bracelet
+AB170D07:Ring
+AB170CE4:Heavy Bracelet
+AB170D6E:Ring
+AB170D13:Necklace
+AB170CFA:Pyreal Mote
+AB170DC7:Pack
+AB170CE1:Excellent Healing Kit
+AB170D08:Excellent Healing Kit
+AB170DD8:Excellent Healing Kit
+AB170D1C:Excellent Healing Kit
+AB170CE5:Pyreal
+AB170D14:Sturdy Iron Key
+AB170D09:Trade Note (50,000)
+AB170CFB:Trade Note (50,000)
+AB170CF0:Peerless Healing Kit
+AB170CE9:Peerless Healing Kit
+AB170CE2:Peerless Healing Kit
+AB170DE8:Peerless Healing Kit
+AB170CE6:Greater Acid Arrow
+AB170D15:Greater Acid Arrow
+AB170CEA:Sturdy Iron Key
+AB170CFC:Yumi
+AB170CF1:Heavy Ursuin Coat
+AB170D67:A Large Mnemosyne
+AB170CD7:Excellent Healing Kit
+AB170D0D:Excellent Healing Kit
+AB170D0A:Excellent Healing Kit
+AB170D28:Greater Fire Arrow
+AB170E0B:Tunic
+AB170D34:A Large Mnemosyne
+AB170CFD:Amuli Coat
+AB170CEB:Heavy Bracelet
+AB170D5F:Pyreal
+AB170CD8:Amuli Leggings
+AB170D0B:Heavy Bracelet
+AB170D1E:Moderate Mana Charge
+AB170CF2:Ring
+AB170D29:Ring
+AB170D0E:Flaming Takuba
+AB170E02:Wand
+AB170D24:Pantaloons
+AB170D1B:Moderate Mana Charge
+AB170D0C:Wand
+AB170CFE:Tachi
+AB170CF3:Gorget
+AB170D0F:Ring
+AB170E12:Lightning Tachi
+AB170DFF:Tachi
+AB170D2A:Flaming Cestus
+AB170D10:Katar
+AB170D16:Breeches
+AB170D04:Orb
+AB170D2B:Wand
+AB170D17:Necklace
+AB170D11:Lightning Takuba
+AB170D05:Chainmail Gauntlets
+AB170D36:Ring
+AB170D2D:Heavy Bracelet
+AB170D12:Orb
+AB170D18:Ring
+AB170D37:Ring
+AB170D1D:Sollerets
+AB170D30:Heaume
+AB170D1A:Wand
+AB170D2F:Sceptre
+AB170D1F:Ring
+AB170D31:Ring
+AB170D27:Ring
+AB170D3A:Wand
+AB170D20:Orb
+AB170D3B:Sturdy Iron Key
+AB170D21:Sollerets
+AB170D23:Excellent Healing Kit
+AB170D3C:Trade Note (10,000)
+AB170D3D:Trade Note (10,000)
+AB170D54:Trade Note (10,000)
+AB170D32:Trade Note (50,000)
+AB170D56:Gorget
+AB170E20:Heavy Bracelet
+AB170D6C:Ring
+AB170D33:Katar
+AB170D47:Flaming Long Sword
+AB170D57:Excellent Healing Kit
+AB170D5D:Excellent Healing Kit
+AB170D48:Trade Note (50,000)
+AB170D42:Trade Note (50,000)
+AB170D7B:Peerless Atlan Sword
+AB170D5E:Trade Note (50,000)
+AB170D68:Trade Note (50,000)
+AB170D43:Rapier
+AB170D49:Tachi
+AB167C98:Kite Shield
+AB170D69:Gem
+AB170E54:Chainmail Coif
+AB170D50:Pack Gaerlan
+AB170D7D:Some Changes for February 2012
+AB170D44:Blackmoor's Favor
+AB170D4A:Flaming Takuba
+AB170D75:Large Kite Shield
+AB170D35:Wand
+
+Missing Exports - Possessed items that were not found:

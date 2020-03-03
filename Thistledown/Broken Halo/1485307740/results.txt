@@ -1,0 +1,55 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-24-2017-pkt_2017-1-24_1485307505_log\pkt_2017-1-24_1485307505_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-24-2017-pkt_2017-1-24_1485305851_log\pkt_2017-1-24_1485305851_log.pcap
+
+Partial Exports - Missing appraisal info:
+AB7E147B:Flared Shirt
+AB81C05C:Flared Pants
+AB81C09A:Shoes
+AB7E11F1:Pyreal
+AB7E13D1:Foci of Enchantment
+AB7E129C:Foci of Artifice
+AB7E1233:Foci of Verdancy
+AB7E063C:Prismatic Taper
+AB7DA9CD:Lead Scarab
+AB81C05D:Sack
+AB81C076:Greeter's Key
+AB7E11AD:Leather Gauntlets
+AB7E1261:Quartermaster's Workshop Key
+AB7E139D:Academy Healing Potion
+AB7E1107:Academy Stamina Potion
+AB7E1207:Academy Stamina Potion
+AB7E11B5:A Crumpled Note
+AB7E125A:Academy Mana Potion
+AB7B7D3C:Gold Scarab
+AB77DD02:Treated Healing Kit
+AB7E11AC:Treated Healing Kit
+AB7E1292:Treated Healing Kit
+AB7E13DF:Treated Healing Kit
+AB81C085:Sho Wand
+AB79C649:A Lump of Coal
+AB7E11C6:Blade Protection Gem
+AB837B42:Armet
+AB7E12A4:Bludgeon Protection Gem
+AB837B45:Trade Health Elixir
+AB7E1255:Stocking Cap
+AB7E12BF:Nekode
+AB7E1391:Lightning Katar
+AB7E12BB:Cestus
+AB7E12AB:Nekode
+AB7E1212:Copper Scarab
+AB7E12E0:Pyreal Scarab
+AB7E12EE:Gem
+AB7DE2EF:Gem
+AB7E05FD:Katar
+AB7E138D:Pack Gaerlan
+AB7E14E2:Asheron's Benediction
+AB7E1372:Some Changes for February 2012
+AB7E1406:Blackmoor's Favor
+ABA399EA:Imbue Swap Coin
+AB7E12BE:Cestus
+AB7E1300:Large Round Shield
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,14 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-22_1485135567_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-22_1485133743_log.pcap
+
+Partial Exports - Missing appraisal info:
+D7ADE210:Salivatory Goo
+D7ADE211:Olthoi Fibrous Healing Tissue
+D7ADE212:Saliva Invigorator
+D7ADE213:Acidic Infusion
+D8018397:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

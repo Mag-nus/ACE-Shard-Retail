@@ -1,0 +1,157 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Cyberkiller-01-31-2017-Random\pkt_2017-1-31_1485861002_log.pcap
+
+Partial Exports - Missing appraisal info:
+803926DE:Pack
+80392722:Ust
+803926DF:Copper Scarab
+803926E0:Iron Scarab
+803926E1:Lead Scarab
+803926E2:Silver Scarab
+803926E3:Diamond Scarab
+803926E4:Pyreal Scarab
+803926E5:Gold Scarab
+803926E6:Platinum Scarab
+803926E7:Chorizite
+803926E9:Lady Tairla Mhoire's Key
+803926EA:Platinum Scarab
+803926EB:Ornate Bone Key
+803926EC:Mana Scarab
+803926ED:Ornate Bone Key
+803926EE:Ornate Bone Key
+803926EF:Ornate Bone Key
+803926F0:Mana Scarab
+803926F1:Ornate Bone Key
+803926F2:Ornate Bone Key
+803926F3:Prismatic Taper
+803926F4:Prismatic Taper
+803926F5:Celestial Hand Armor Writ
+803926F6:Celestial Hand Trade Token
+803926F7:Pack
+803926F8:Ancient Mhoire Coin
+803926FA:Paradox-touched Olthoi Weapon Token
+803926FC:Lady Tairla's Ancient Emblem of Mhoire
+803926FD:Polar Ursuin Lair
+803926FE:Celestial Hand Trade Token
+80392701:Celestial Hand Trade Token
+80392702:Celestial Hand Trade Token
+80392705:Celestial Hand Commendation Ribbon
+80392706:Unstable Mana Stone
+80392707:Promissory Note
+80392708:Celestial Hand Trade Token
+80392709:Ornate Gear Marker
+8039270A:Small Olthoi Venom Sac
+8039270B:Writ of Apology
+8039270D:Celestial Hand Trade Token
+8039270C:Celestial Hand Commendation Ribbon
+8039270E:Celestial Hand Trade Token
+80392710:Pack
+80392711:Master's Treasure Key
+80392712:Lord's Treasure Key
+80392714:Coruscating Olthoi Scent Gland
+80392715:Coruscating Olthoi Scent Gland
+80392716:Coruscating Olthoi Scent Gland
+80392717:Coruscating Olthoi Scent Gland
+80392719:Ornate Bone Key
+8039271A:Ornate Bone Key
+8039271B:Ornate Bone Key
+8039271C:Ornate Bone Key
+8039271D:Ornate Bone Key
+8039271E:Ornate Bone Key
+8039271F:Exhumed Bones
+80392720:Exhumed Bones
+80392721:Pyre Skeleton Jaw
+80392723:Aerbax Mask Shard
+80392741:Stipend
+A6744050:Pyreal
+80392742:Pack
+80392735:Shoyanen's Portal Gem
+8039273B:Salvage (24)
+80392744:Titan Mana Charge
+80392745:Titan Mana Charge
+80392746:Titan Mana Charge
+80392747:Titan Mana Charge
+80392748:Titan Mana Charge
+80392749:Titan Mana Charge
+8039274A:Titan Mana Charge
+8039274B:Titan Mana Charge
+8039274C:Titan Mana Charge
+8039274D:Titan Mana Charge
+8039274E:Titan Mana Charge
+8039274F:Titan Mana Charge
+80392750:Titan Mana Charge
+80392751:Titan Mana Charge
+80392752:Titan Mana Charge
+80392753:Titan Mana Charge
+80392754:Titan Mana Charge
+80392755:Titan Mana Charge
+80392756:Titan Mana Charge
+80392759:Pack
+8039275B:Greater Mana Stone
+8039275C:Major Mana Stone
+8039275D:Greater Mana Stone
+8039275E:Major Mana Stone
+8039275F:Major Mana Stone
+80392760:Major Mana Stone
+80392761:Major Mana Stone
+80392762:Major Mana Stone
+80392763:Greater Mana Stone
+80392769:Greater Mana Stone
+8039276D:Pack
+80392786:Pack
+80392766:Mana Forge Key
+80392765:Strengthened Mana Forge Key
+80392767:Mana Forge Key
+80392764:Mana Forge Key
+80392768:Mana Forge Key
+8039276A:Strengthened Mana Forge Key
+8039276B:Strengthened Mana Forge Key
+8039276C:Strengthened Mana Forge Key
+803927BD:Strengthened Mana Forge Key
+80392789:Blank Augmentation Gem
+A67C5D6B:Pyreal
+8039278A:Salvage (30)
+8039278C:Blank Augmentation Gem
+8039278E:Aerbax Mask Shard
+80392790:Blank Augmentation Gem
+8039278F:Salvage (55)
+80392791:Blank Augmentation Gem
+80392792:Aerbax Mask Shard
+80392794:Blank Augmentation Gem
+80392795:Aerbax Mask Shard
+80392796:Encapsulated Spirit
+80392797:Blank Augmentation Gem
+80392798:Encapsulated Spirit
+A67C5DF7:Pyreal
+8039279C:Blank Augmentation Gem
+8039279F:Upper Insatiable Eater Jaw
+803927A0:Blank Augmentation Gem
+803927A1:A'nekshay Token
+803927A3:Salvage (61)
+803927A4:Salvage (25)
+803927A5:Salvage (31)
+803927AB:Blank Augmentation Gem
+803927A7:Encapsulated Spirit
+803927AA:Salvage (40)
+803927AF:Upper Insatiable Eater Jaw
+803927AE:Town Network Portal Gem
+803927B0:Blank Augmentation Gem
+803927B2:High-Stakes Gambling Token
+803927B3:Grand Casino Golden Keyring
+803927B4:Grand Casino Golden Keyring
+803927B5:Grand Casino Golden Keyring
+803927B6:Grand Casino Golden Keyring
+803927B7:Grand Casino Golden Keyring
+803927B8:Grand Casino Golden Keyring
+803927B9:Grand Casino Golden Keyring
+803927C0:Upper Insatiable Eater Jaw
+803927C1:Blank Augmentation Gem
+8D4AB34C:Engraved A'nekshay Bracers
+A67C0D85:Writ of Refuge
+A667D6E1:Trade Note (250,000)
+A67AB3F0:Trade Note (100,000)
+A66A6136:Trade Note (100,000)
+A67425AF:Trade Note (100,000)
+A675E871:Trade Note (100,000)
+
+Missing Exports - Possessed items that were not found:

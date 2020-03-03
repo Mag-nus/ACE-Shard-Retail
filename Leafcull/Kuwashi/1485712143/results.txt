@@ -1,0 +1,94 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-29_LeafcullGatheringWithPortalstorm_1485712139\pkt_2017-1-29_1485712139_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-29_runfromArwictoCragstone_1485734236\pkt_2017-1-29_1485734236_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-29_TravelBetweenSomeSouthernShoTowns1485742416\pkt_2017-1-29_1485742416_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-30_DungeonMuddy2ndPass1485807293\pkt_2017-1-30_1485807293_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-30_FacilityAcidAxe_1485818614\pkt_2017-1-30_1485818614_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-30_FacilityFrest-GreelvingMansion_1485816975\pkt_2017-1-30_1485816975_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-30_FacilityMountainSewer_1485814717\pkt_2017-1-30_1485814717_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-30_Level25FacilityHubQuests1485787773\pkt_2017-1-30_1485787773_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-30_PartialElysaFavor_1485836939\pkt_2017-1-30_1485836939_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-30_TravelBetweenNorthernShoTowns1485821949\pkt_2017-1-30_1485821949_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-31_AbandonedArena_1485874207\pkt_2017-1-31_1485874207_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\MeatloafCat_2017-1-31_MurkWarrens1485875782\pkt_2017-1-31_1485875782_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-31_RunFromCragstoneToZaikhal1485841271\pkt_2017-1-31_1485841271_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-31_TwoPartTheEndonLeafcull\pkt_2017-1-31_1485880185_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Matloafcat_2017-1-27_GreenMireGrave2parts\pkt_2017-1-27_1485547466_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-27_TumerokCaveTumerokSite1485542955_log\pkt_2017-1-27_1485542955_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Matloafcat_2017-1-27_GreenMireGrave2parts\pkt_2017-1-27_1485568488_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-28_ForkingTrail_1485619202_log\pkt_2017-1-28_1485619202_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-28_LilithasBowandsomeTuskerstuff_1485621813\pkt_2017-1-28_1485621813_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-28_ridgecitadelandotherexploration_1485664893\pkt_2017-1-28_1485664893_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-28_TibriSpearandsomeQalabarArea_1485614721_log\pkt_2017-1-28_1485614721_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-29_HillsCitadel-Partial_1485745923\pkt_2017-1-29_1485745923_log.pcap
+
+Partial Exports - Missing appraisal info:
+AE76FE2C:Ust
+AE76FE33:Prismatic Taper
+AE76FE30:Training Wand
+AE825442:Compass
+AE7EBED4:Academy Coat
+AE76FE36:Letter From Home
+AE76FE37:Apple
+AE7D9067:Blackmoor's Favor
+AE7C8493:Pyreal
+AE7F5E50:Trade Note (50,000)
+AE9B3510:Pyreal
+AE907BFF:Adept Healing Kit
+AE9F786D:Circlet
+AE916E7A:Trade Note (10,000)
+AE905155:Gifted Healing Kit
+AE805834:Coalesced Mana
+AE257C02:Lead Pea
+AE7D5245:Adept Healing Kit
+AE808D64:Adept Healing Kit
+AE806CE9:Adept Healing Kit
+AE7DC1AD:Adept Healing Kit
+AE9598F8:Stamina Tincture
+AE90A6C7:Gifted Healing Kit
+AE916C5A:Adept Healing Kit
+AE7DE744:Adept Healing Kit
+AE860D84:Mana Draught
+AE9833F4:Gifted Healing Kit
+AE9BFC7E:Treated Healing Kit
+AE9752A1:Treated Healing Kit
+AEA0DCE8:Gifted Healing Kit
+AE811A44:Minor Mana Stone
+AE80DB19:Minor Mana Stone
+AE7F95DA:Minor Mana Stone
+AE801110:Minor Mana Stone
+AE7DC32B:Minor Mana Stone
+AE9C0D87:Dinner Plate
+AEA15D0A:Amulet
+AE9F7B94:Ring
+AEA0147D:Dinner Plate
+AE9AF69A:Necklace
+AE90AAB8:Hot Pepper
+AE9566B7:Egg
+AE962A8C:Mana Stone
+AE8FDFBF:Fez
+AE966CED:Fez
+AE9C7AD8:Cheese
+AE9CE1FD:Verdalim Plant
+AE948C3A:Bracelet
+AE97931A:Lightning Claw
+AE982734:Heavy Bracelet
+AE97DEE7:Heavy Bracelet
+AE982C65:Ring
+AE8739C0:Heavy Bracelet
+AE9B2E39:Aphus Lassel Portal Gem
+AE9BFCA1:Ring of Piercing Protection
+AE977099:Viamontian Pants
+AE9E66EE:Fire Skeleton Minion Essence (50)
+AE9ABA7C:Lightning Phyntos Wasp Essence (50)
+AEA008D0:Acid Moar Essence (50)
+AEA304FE:Fire Spectre Essence (50)
+AE96F02A:Frost Zombie Essence (50)
+AEA221F8:Lightning K'nath Essence (50)
+AEA30A0B:Acid Zombie Essence (50)
+AEA01A41:Acid Grievver Essence (50)
+AE9DDEAE:Fire Skeleton Minion Essence (50)
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,142 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap6\pkt_2017-1-29_1485719179_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap6\pkt_2017-1-29_1485719179_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap6\pkt_2017-1-29_1485719179_log.pcap
+
+Partial Exports - Missing appraisal info:
+D74C318A:Apple
+D74C3186:Foci of Enchantment
+D74C3187:Foci of Artifice
+D74C3188:Prismatic Taper
+D74C3189:Lead Scarab
+D74C318B:Calling Stone
+D74C318C:Greeter's Key
+D74C318D:Scroll of Self Strength V
+D74C318E:Olthoi Head
+D74C318F:Gloves
+D74C3190:Gem
+D74C3191:Gem
+D74C3192:Peppermint Stick
+D74C3193:Sho Wand
+D74C3194:Orb
+D74C3195:Pyreal
+D74C3196:Greater Mana Stone
+D74C3197:Greater Mana Stone
+D74C3198:Greater Mana Stone
+D74C3199:Greater Mana Stone
+D74C319A:Greater Mana Stone
+D74C319B:Greater Mana Stone
+D74C319C:Heaume
+D74C319D:Heaume
+D74C319E:Scroll of Adja's Blessing
+D74C319F:Scroll of Perseverance
+D74C31A0:Scroll of Honed Control
+D74C31A1:Scroll of Tusker's Gift
+D74C31A2:Scroll of Hieromancer's Blessing
+D74C31A3:Pack
+D74C31A4:Mana Elixir
+D74C31A5:Acid Broad Sword
+D74C31A6:Frost Takuba
+D74C31A7:Orb
+D74C31A8:Orb
+D74C31A9:Acid Tachi
+D74C31AA:Acid Takuba
+D74C31AB:Longbow
+D74C31AC:Frost Broad Sword
+D74C31AD:Flaming Ken
+D74C31AE:Acid Morning Star
+D74C31AF:Fadsahil's Portal Gem
+D74C31B1:Helmet
+D74C31B0:Celdon Breastplate
+D74C31B2:Heaume
+D74C31B3:Yumi
+D74C31B4:Pyreal Bar
+D74C31B5:Fadsahil's Portal Gem
+D74C31B6:Tree Trunk
+D74C31B7:Flaming Cestus
+D74C31B8:Frost Katar
+D74C31B9:Nekode
+D74C31BA:Armet
+D74C31BB:Pack
+D74C31BC:Large Round Shield
+D74C31BD:Lightning Cestus
+D74C31BE:Frost Nekode
+D74C31BF:Covenant Shield
+D74C31C0:Large Round Shield
+D74C31C1:Acid Tachi
+D74C31C2:Chainmail Coif
+D74C31C3:Frost Tachi
+D74C31C4:Kabuton
+D74C31C5:Horned Helm
+D74C31C6:Helmet
+D74C31C7:Decanter of Essence
+D74C31C8:Ebon Mattekar Hide
+D74C31C9:Copper Heart
+D74C31CA:Frost Katar
+D74C31CB:Lightning Cestus
+D74C31CC:Deadly Lightning Arrow
+D74C31CD:Lightning Nekode
+D74C31CE:Scroll of Searing Disc
+D74C31CF:Shoyanen's Portal Gem
+D74C31D0:Celdiseth's Portal Gem
+D74C31D1:Peculiar Old Dagger
+D74C31D2:Stamina Elixir
+D74C31D3:Lightning Katar
+D74C31D4:Pack
+D74C31D6:Large Kite Shield
+D74C31D8:Baigha
+D74C31DA:Chainmail Sleeves
+D74C31DB:Pack
+D74C31DC:Excellent Healing Kit
+D74C31DD:Excellent Healing Kit
+D74C31DE:Excellent Healing Kit
+D74C31DF:Excellent Healing Kit
+D74C31E0:Excellent Healing Kit
+D74C31E1:Excellent Healing Kit
+D74C31E2:Sollerets
+D74C31E3:Greater Mana Stone
+D74C31E4:Platemail Leggings
+D74C31E5:Amuli Coat
+D74C31E6:Scalemail Basinet
+D74C31E7:Large Round Shield
+D74C31E8:Covenant Gauntlets
+D74C31EC:Olthoi Helm
+D74C31E9:Amuli Coat
+D74C31EA:Niffis Shell Helm
+D74C31EB:Scalemail Cuirass
+D74C31ED:Yumi
+D74C31F0:Superb Mana Charge
+D74C31EF:Celdon Sleeves
+D74C31F1:Superb Mana Charge
+D74C31F2:Superb Mana Charge
+D74C31F3:Platemail Pauldrons
+D74C31F4:Round Shield
+D74C31F7:Frost Trident
+D74C31F5:Koujia Breastplate
+D74C31F6:Koujia Sleeves
+D74C31F8:Broad Sword
+D74C31F9:Celdon Breastplate
+D74C31FB:Lightning Nekode
+D74C31FC:Covenant Helm
+D74C31FD:Nayin
+D74C31FE:Frost Morning Star
+D74C31FF:Helm
+D74C3200:Dirk
+D74C3201:Sollerets
+D74C3202:Diamond Shield
+D74C3203:Acid Tachi
+D74C3204:Morning Star
+D74C3205:Diamond Heart
+D74C3206:Chainmail Greaves
+D74C3207:Scroll of Shock Arc VII
+D74C3208:Plate Armoredillo Spine
+D74C320A:Crimped Hat
+D74C320B:Dapper Suit
+D74C320C:Tower Shield
+D74C320E:Pack Martine
+D74C320F:Some Changes for February 2012
+D74C3210:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

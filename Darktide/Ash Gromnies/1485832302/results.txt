@@ -1,0 +1,137 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\Asherons-Call-20170203024646\pkt_2017-1-30_1485830822_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-02-2017\Asherons-Call-20170203024646\pkt_2017-1-21_1484980661_log.pcap
+
+Partial Exports - Missing appraisal info:
+D7DF75B4:Foci of Enchantment
+D7DBA9D2:Foci of Artifice
+D7DBAA04:A Ring of Acid Protection
+D7DA453E:Caulnalain Key
+D7DBA9C3:A Frozen Note
+D7DBA9F0:Poofy Snowball
+D7CD083A:Niffis Shell
+D7CD099B:Pack
+D7DBA9F9:Granite Heart
+D7CD07F2:Iron Scarab
+D7CD07BE:Puzzle Box
+D7DBA9C8:Sturdy Iron Key
+D7DF75A3:Sturdy Iron Key
+D7DBA9C7:Sturdy Iron Key
+D7DBA9F3:Elemental Master Robe
+D7DF75AB:Iolite Gem
+D7DF75B3:Grievver Tibia
+D7DBAA0A:Unreadable Text
+D7DBA9DA:Cracked Shard
+D7CD08C1:Tree Trunk
+D7DBAA24:Hafted Gromnie Banner
+D7DBA9FA:Bloodhunter Infusion
+D7DBA9DB:A Large Mnemosyne
+D7CD079B:A Small Mnemosyne
+D7CCFC8F:Pack
+D7DBA9D6:A Small Mnemosyne
+D7CD0A3F:A Large Mnemosyne
+D7CD087B:Ruined Amulet of Light Weapons
+D7DBA9D0:Herald Stamp
+D7CD078B:The Temple of Forgetfulness
+D7CD0A5A:Undead Thighbone
+D7CD07B1:A Small Mnemosyne
+D7CD0891:Lightning Cestus
+D7DBA9BF:Silver Scarab
+D7CD09FC:Lead Scarab
+D7DBA9E7:A Crumpled Note
+D7DBA9DC:Skeleton's Skull
+D7DBA9E9:Ecorto's Chisel
+D7DBA9EB:Sturdy Iron Key
+D7DBA9C9:Pyreal Scarab
+D7DBA9FC:Pack
+D7CD0725:Tiny Shard
+D7DBA9F2:Fletching Stamp
+D7CD0858:A Frozen Note
+D7CD078E:Undead Thighbone
+D7DBA9FD:A Small Mnemosyne
+D7DBA9DE:Pulsating Wisp Heart
+D7DBAA09:Virindi Master Key
+D7DBA9FB:Sharp Tusker Slave Tusk
+D7DBA9DF:Rumuba's Jade Spearhead
+D7DBA9EC:Chainmail Pauldrons
+D7CD0842:Ring
+D7CD0746:Platemail Gauntlets
+D7D21A07:Trousers
+D7DBA9E4:Baggy Shirt
+D7DBA9F6:Sunflower
+D7CD0804:Katar
+D7DBA9C6:Ursuin Fang
+D7DBAA30:Skeleton's Skull
+D7CD0948:Undead Femur bone
+D7CD07F7:Sho Wand
+D7DBA9F1:Cestus
+D7CD0859:Peerless Sparking Atlan Claw
+D7DBA9D7:Pyreal
+D7CD0851:Peerless Stinging Atlan Claw
+D7DBAA02:Snowball
+D7DBA9CA:Sturdy Iron Key
+D7CD08B4:Sunflower
+D7CC745C:Flaming Cestus
+D7CD0A22:A Small Mnemosyne
+D7DA4598:A Small Mnemosyne
+D7CBD9D8:A Small Mnemosyne
+D7CCFC0B:Pack
+D7CD09B0:Shendolain Key
+D7CD082D:Sharp Tusker Slave Tusk
+D7CD0AC4:Chainmail Leggings
+D7CAE3A3:Gem of Stillness
+D7DBA9CF:Gem of Stillness
+D7DBAA16:Snowflower
+D7CD085A:Gem of Stillness
+D7DBAA07:Gem of Stillness
+D7DBA9E8:Snowflower
+D7DBA9EF:Small Bundle of Kithless Siraluun Feathers
+D7CD0825:Small Bundle of Kithless Siraluun Feathers
+D7DF75CD:A Folded Note
+D7CC236A:Small Bundle of Kithless Siraluun Feathers
+D7DF7589:Sturdy Iron Key
+D7DF75BD:Sturdy Iron Key
+D7CD076A:Sturdy Iron Key
+D7CD0911:Sturdy Iron Key
+D7DBA9D8:Sturdy Iron Key
+D7DBA9BE:Sturdy Iron Key
+D7DBA9C0:Wand
+D7CD0945:Gem of Stillness
+D7CD088C:Gem of Stillness
+D7DBAA32:Chainmail Pauldrons
+D7DA44B0:Apology Token
+D7DF75C5:Cracked Shard
+D7DBA9EA:Excellent Oiled String
+D7DBA822:Stamina Elixir
+D7CD08C6:Gold Scarab
+D7DF75BC:Stamina Elixir
+D7DBAA1B:Stamina Elixir
+D7DA455C:Stamina Elixir
+D7CC1048:Martine's Mask
+D7CD07E5:Sweet Smelling Bark
+D7CD095C:Empty Mug
+D7DBAA14:Strands of Silk
+D7DF75C4:Half Empty Cider
+D7CD08D7:Acid Tachi
+D7CD0A01:Rendeath Shreth Hide
+D7CBFB72:Prismatic Taper
+D7DBAA06:Lilitha's Bow
+D7DF75BB:Light Crossbow
+D7DA44FC:Light Crossbow
+D7DBAA11:Scroll of Gravity Well
+D7CD0A2C:Scroll of Aliester's Boon
+D7DBA9E0:Scroll of Tusker's Gift
+D7DBAA59:Braided Drudge Ravener Guts
+D7DF75C3:Fire Shreth Hide
+D7DBAA19:Auroch Horn
+D7DF75CB:Pack Bael'Zharon
+D7DBAA1D:Some Changes for February 2012
+D7DBAA0C:Blackmoor's Favor
+D7DA453C:Saulandoi
+D7DE010F:Scroll of Blade Bane II
+D7DE0122:Dinner Plate
+D7DBA9ED:Focusing Stone
+
+Missing Exports - Possessed items that were not found:

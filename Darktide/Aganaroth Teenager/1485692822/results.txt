@@ -1,0 +1,225 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-3\pkt_2017-1-29_1485691355_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-31_1485858014_log.pcap
+
+Partial Exports - Missing appraisal info:
+80AB1EBD:Pack
+80AB1ED5:Pack
+80AB1EBE:Glyph of Monster Appraisal
+80AB1EBF:Glyph of Light Weapons
+80AB1EC0:Glyph of Two Handed Combat
+80AB1EC1:Glyph of Missile Weapons
+80AB1EC2:Glyph of Self
+80AB1EC3:Glyph of Item Tinkering
+80AB1EC4:Glyph of Light Weapons
+80AB1EC5:Glyph of Missile Weapons
+80AB1EC6:Glyph of Armor Tinkering
+80AB1EC7:Glyph of Weapon Tinkering
+80AB1EC8:Glyph of Magic Item Tinkering
+80AB1EC9:Glyph of Void Magic
+80AB1ECA:Glyph of Nether
+80AB1ECB:Glyph of Light Weapons
+80AB1ECC:Glyph of Light Weapons
+80AB1ECD:Glyph of Focus
+80AB1ECF:Glyph of Person Appraisal
+80AB1ED0:Glyph of Salvaging
+80AB1ED1:Glyph of Arcane Lore
+80AB1ED2:Glyph of Leadership
+80AB1ED3:Glyph of Loyalty
+80AB1ED4:Glyph of Healing
+800DBD70:Key
+80AB1F2F:Glyph of Light Weapons
+80AB1ED6:Ink of Separation
+80AB1EDB:Parabolic Ink
+80AB1ED7:Ink of Nullification
+80AB1ED8:Ink of Partition
+80AB1EDD:Ink of Direction
+80AB1ED9:Inflictive Quill of Conveyance
+80AB1EDA:Parabolic Quill of Infliction
+80AB1EDC:Alacritous Quill of Infliction
+80AB1EDE:Alacritous Ink
+80AB1EE4:Ink of Formation
+80AB1EDF:Quill of Extraction
+80AB1EE0:Infused Quill of Infliction
+80AB1F70:Shreth Banner
+80AB1EE1:Ink of Objectification
+80AB1EE3:Benevolent Quill of Conveyance
+80AB1EE5:Quill of Introspection
+80AB1EE6:Ink of Conveyance
+80AB1F07:Pack
+80AB1EE7:Quill of Infliction
+CDDEB6C4:Ancient Falatacot Trinket
+9C531DBB:Antiquated Compass
+CDDE99DF:High-Stakes Gambling Token
+80AB1EE9:Hieromancer's Crystal
+80AB1EEF:Pearl of Hermetic Linking
+80AB1EF5:Archer's Jewel
+80AB1EF7:Physician's Crystal
+80AB1EFC:Pearl of Spirit Drinking
+80AB1EFF:Life Giver's Crystal
+80AB1F08:Town Network Portal Gem
+80AB1F09:Rithwic Portal Gem
+80AB1F0C:Xarabydun Portal Summoning Gem
+80AB1F0D:Al-Arqas Portal Gem
+80AB1F0E:Redspire Portal Gem
+80AB1F0F:Vissidal Island Portal Gem
+80AB1F10:Fadsahil's Portal Gem
+80AB1F12:Corcima Castle Platinum Ward Portal Gem
+80AB1F13:Nanto Portal Gem
+80AB1F15:Dark Monolith Caverns
+80AB1F16:Niffis Fighting Pits
+80AB1F17:Niffis Fighting Pits
+80AB1F18:Lytelthorpe Portal Gem
+80AB1F19:Niffis Fighting Pits
+80AB1F1B:Dansha-Ki's Gem of Portal Recall
+80AB1F7C:Scroll of Os' Wall
+80AB1F1C:Shoyanen's Portal Gem
+8080646F:Dark Monolith Caverns
+BBE56AA8:Viridian Rise Deru Portal Sending Gem
+CD801B1D:Aphus Lassel Portal Gem
+80AB1F9B:Scroll of Raven Fury
+CD8082B6:Aphus Lassel Portal Gem
+CDE1972E:The Orphanage
+80AB1F54:Bronze Gearknight Gear
+9C54D923:Gem of Balance
+80AB1F1D:Pack
+80AB1F33:Pack
+80AB1F1E:Glyph of Life Magic
+80AB1F1F:Glyph of Alchemy
+80AB1F20:Glyph of Cooking
+80AB1F21:Glyph of Fletching
+80AB1F22:Glyph of War Magic
+80AB1F23:Glyph of Coordination
+80AB1F24:Glyph of Item Tinkering
+80AB1F25:Glyph of Lockpick
+80AB1F26:Glyph of Run
+80AB1F27:Glyph of Quickness
+80AB1F81:Shendolain Key
+80AB1F28:Glyph of Strength
+80AB1F29:Glyph of Endurance
+80AB1F2A:Glyph of Item Enchantment
+80AB1F2B:Glyph of Heavy Weapons
+80AB1F2C:Glyph of Creature Enchantment
+80AB1F2D:Glyph of Jump
+80AB1F2E:Glyph of Deception
+80AB1F30:Glyph of Mana Conversion
+80AB1F32:Glyph of Dirty Fighting
+B101F94B:Glyph of Dual Wield
+80AB1F34:Glyph of Stamina
+80AB1F35:Glyph of Missile Weapons
+80AB1F36:Glyph of Finesse Weapons
+80AB1F37:Glyph of Mana
+80AB1F38:Glyph of Health
+80AB1F39:Glyph of Magic Defense
+80AB1F3A:Glyph of Missile Defense
+80AB1F3B:Glyph of Mana Regeneration
+80AB1F3C:Glyph of Regeneration
+80AB1F3D:Glyph of Stamina Regeneration
+80AB1F3E:Glyph of Damage
+80AB1F3F:Glyph of Armor
+800DBDB2:Shendolain Key
+80AB1F40:Glyph of Melee Defense
+80AB1F41:Glyph of Flame
+80AB1F42:Glyph of Corrosion
+80AB1F43:Glyph of Frost
+80AB1F44:Glyph of Slashing
+80AB1F45:Glyph of Lightning
+80AB1F46:Glyph of Piercing
+80AB1F47:Glyph of Bludgeoning
+80AB1F48:Glyph of Shield
+8009F1B5:Glyph of Recklessness
+80AB1F49:Pack
+80AB1F51:Soft Bandages
+80AB1F55:Enchanted Olthoi Egg
+80AB1F59:Blackmoor's Favor
+80AB1F5A:Inscription of Lightning Arc
+800DBDC1:Invitation to Master Fletchers
+80AB1F72:White Rabbit Carcass
+80AB1F71:White Rabbit Carcass
+80A70F68:Pirate Hook
+80AB1F75:Scroll of Eradicate Life Magic Other
+80AB1F74:Scroll of Eradicate Life Magic Other
+AD685D27:10th Anniversary Night Club Ticket
+CDE2FB34:Renegade Herbal Kit
+CDE190B6:Renegade Herbal Kit
+CDE2FB1F:Renegade Herbal Kit
+CDE2FBA9:Renegade Herbal Kit
+CDE2D2FF:Renegade Herbal Kit
+CDE195C7:Greater Stamina Kit
+CDE1914A:Greater Mana Kit
+CDE191C0:Colosseum Ticket
+CDE2D303:Candy Corn
+CDE1967D:Licorice Rat
+CDE1967E:Chocolate Gromnie
+80AB1F5B:Pack
+982C0DF0:Trade Note (250,000)
+982C0DF2:Trade Note (250,000)
+9804E148:Trade Note (250,000)
+982C0DF1:Trade Note (250,000)
+80A70F87:Strong Iron Key
+80A1183B:Trade Note (250,000)
+982C0DEF:Trade Note (250,000)
+80A70F6F:Scroll of Ring around the Rabbit
+982B9CCF:Trade Note (250,000)
+982B9CD3:Trade Note (250,000)
+80A70F6A:Scroll of Ring around the Rabbit
+D35B4BC6:Trade Note (250,000)
+D35B4BC7:Trade Note (250,000)
+80AB1F73:Scroll of Hammering Crawler
+982B9CD1:Trade Note (250,000)
+982B9CD4:Trade Note (250,000)
+80AB1F78:Trothyr's Rest Key
+D35B4BCF:Trade Note (250,000)
+982B9CD2:Trade Note (250,000)
+80AB1F79:Scroll of Ring around the Rabbit
+D35B4BDA:Trade Note (250,000)
+97E51D96:Trade Note (250,000)
+80AB1F7A:Scroll of Eye of the Storm
+D35B4BBD:Trade Note (250,000)
+80AB1F7B:Scroll of Eye of the Storm
+80AB1F7D:Scroll of Hammering Crawler
+80AB1F7F:Scroll of Foon-Ki's Glacial Floe
+80AB1F80:Beautiful key
+80AB1F84:Scroll of Ring around the Rabbit
+80AB1F89:Strong Iron Key
+80AB1F8A:Strong Iron Key
+80AB1F8E:Strong Iron Key
+80AB1F99:Inscription of Invulnerability Self
+800DBDBB:Intricate Obsidian Key
+BFF0ED9F:Ten of Hands
+98702B7A:Pearl of Blood Drinking
+98702D10:Pearl of Blood Drinking
+BFE95DF9:Pearl of Swift Killing
+BFEEA857:Pearl of Defending
+BB68A8A0:Eight of Hands
+C00F381B:Three of Hands
+C064E0BB:Six of Hands
+C365672A:Two of Hands
+C4C79660:Ace of Eyes
+C602A000:Nine of Hands
+C50BEB15:Five of Hands
+C50B7653:King of Hands
+C60601F5:Five of Eyes
+C662C21B:Six of Eyes
+C68DC291:Ten of Eyes
+C68A8736:Three of Eyes
+C6AB9E1E:Seven of Hands
+C85C12C6:Jack of Hands
+C8545F29:Seven of Eyes
+C872EBB3:Three Cards from the Deck of Hands
+C94E2E7E:Eight of Eyes
+CB04F903:Ace of Hands
+CA753636:Jack of Eyes
+CB870C3F:King of Eyes
+CB540BF3:Two of Eyes
+CB9E18DB:Seven Cards from the Deck of Hands
+CB79CA01:Queen of Eyes
+CB6B61F0:Queen of Hands
+CB9BD6CE:Nine of Eyes
+CB9E86CE:Four of Eyes
+CDDEC97A:Resister's Crystal
+A715E39C:Vaulter's Crystal
+
+Missing Exports - Possessed items that were not found:

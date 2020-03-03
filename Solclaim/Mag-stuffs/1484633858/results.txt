@@ -1,0 +1,31 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Mavness-02-01-2017-pcap\pcap\pkt_2017-1-17_1484633853_log.pcap
+
+Partial Exports - Missing appraisal info:
+9985AA46:Sack
+99847D44:Trade Note (250,000)
+997836B0:Trade Note (250,000)
+99877531:Calling Stone
+9985C0CD:Trade Note (250,000)
+996C80E0:Trade Note (250,000)
+99877532:Pathwarden Token
+99877523:Trade Note (250,000)
+99877524:Trade Note (250,000)
+99877533:Blackmoor's Favor
+99877525:Trade Note (250,000)
+99877526:Trade Note (250,000)
+99877534:Oil of Rendering
+99877527:Trade Note (250,000)
+99877528:Trade Note (250,000)
+99877536:Some Changes for February 2012
+99877529:Trade Note (250,000)
+9987752A:Trade Note (250,000)
+9987752B:Trade Note (250,000)
+9987752C:Trade Note (250,000)
+9987752D:Trade Note (250,000)
+9987752E:Trade Note (250,000)
+9987752F:Trade Note (250,000)
+99877530:Trade Note (250,000)
+99877535:Teleportation Device
+
+Missing Exports - Possessed items that were not found:

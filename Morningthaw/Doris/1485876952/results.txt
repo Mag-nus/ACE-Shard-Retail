@@ -1,0 +1,40 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Granis-2017-01-31_last_hours\pkt_2017-1-31_1485873635_log.pcap
+
+Partial Exports - Missing appraisal info:
+AF72B333:Trousers
+AF72B334:Shirt
+AF72B34D:Pyreal
+AF72B335:Foci of Enchantment
+AF72B336:Foci of Artifice
+AF72B337:Foci of Verdancy
+AF72B338:Greater Amuli Shadow Leggings
+AF72B33A:Scalemail Basinet
+AF72B33B:Sollerets
+AF72B33D:Shoyanen's Portal Gem
+AF72B33E:Shoyanen's Portal Gem
+AF72B33F:Shoyanen's Portal Gem
+AF72B340:Shoyanen's Portal Gem
+AF72B341:Shoyanen's Portal Gem
+AF72B342:Shoyanen's Portal Gem
+AF72B343:Shoyanen's Portal Gem
+AF72B344:Shoyanen's Portal Gem
+AF72B345:Shoyanen's Portal Gem
+AF72B346:Shoyanen's Portal Gem
+AF72B347:Shoyanen's Portal Gem
+AF72B348:Shoyanen's Portal Gem
+AF72B349:Shoyanen's Portal Gem
+AF72B34A:Shoyanen's Portal Gem
+AF72B34B:Platemail Gauntlets
+AF72B350:Item Tinkering Tessera
+AF72B351:Pyreal Scarab
+AF72B352:Silver Scarab
+AF72B353:Gold Scarab
+AF72B354:Lead Scarab
+AF72B355:Platinum Scarab
+AF72B357:Copper Scarab
+AF72B358:Prismatic Taper
+AF72B359:Diamond Shield
+AF681BD1:Pack Burun Kukuur
+
+Missing Exports - Possessed items that were not found:

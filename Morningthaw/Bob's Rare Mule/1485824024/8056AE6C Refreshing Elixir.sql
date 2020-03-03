@@ -1,0 +1,51 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (2153164396, 30107, 18, 6472001) /* Food */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (2153164396,   1,        128) /* ItemType - Misc */
+     , (2153164396,   5,          5) /* EncumbranceVal */
+     , (2153164396,  11,          1) /* MaxStackSize */
+     , (2153164396,  12,          1) /* StackSize */
+     , (2153164396,  16,          8) /* ItemUseable - Contained */
+     , (2153164396,  65,        101) /* Placement - Resting */
+     , (2153164396,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (2153164396, 151,         11) /* HookType - Floor, Wall, Yard */
+     , (2153164396, 9015,         41) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (2153164396,   1, False) /* Stuck */
+     , (2153164396,  11, True ) /* IgnoreCollisions */
+     , (2153164396,  13, True ) /* Ethereal */
+     , (2153164396,  14, True ) /* GravityStatus */
+     , (2153164396,  19, True ) /* Attackable */
+     , (2153164396,  22, True ) /* Inscribable */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (2153164396,   1, 'Refreshing Elixir') /* Name */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (2153164396,   1,   33554603) /* Setup */
+     , (2153164396,   3,  536870932) /* SoundTable */
+     , (2153164396,   6,   67111919) /* PaletteBase */
+     , (2153164396,   8,  100686619) /* Icon */
+     , (2153164396,  22,  872415275) /* PhysicsEffectTable */
+     , (2153164396,  52,  100686604) /* IconUnderlay */
+     , (2153164396, 8001,  270561296) /* PCAPRecordedWeenieHeader - Usable, StackSize, MaxStackSize, Container, Burden, HookType */
+     , (2153164396, 8002,          1) /* PCAPRecordedWeenieHeader2 - IconUnderlay */
+     , (2153164396, 8003,   67141650) /* PCAPRecordedObjectDesc - Inscribable, Attackable, Food, IncludesSecondHeader */
+     , (2153164396, 8005,     137217) /* PCAPRecordedPhysicsDesc - CSetup, STable, PeTable, AnimationFrame */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (2153164396,   1, 1343218201) /* Owner */
+     , (2153164396,   2, 1343218201) /* Container */
+     , (2153164396, 8000, 2153164396) /* PCAPRecordedObjectIID */;
+
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
+VALUES (2153164396, 67111922, 0, 0);
+
+INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
+VALUES (2153164396, 0, 83889126, 83889126, 0)
+     , (2153164396, 0, 83888789, 83888789, 1);
+
+INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, `order`)
+VALUES (2153164396, 0, 16778735, 0);

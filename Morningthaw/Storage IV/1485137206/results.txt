@@ -1,0 +1,40 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-22_1485136357_log.pcap
+
+Partial Exports - Missing appraisal info:
+80A09ADE:Pyreal
+809EF34F:Foci of Artifice
+809EF348:Prismatic Taper
+80A09ABD:Lead Scarab
+809EE27E:Idol Gem
+80A20469:Pyreal
+809C1BDA:Whittling Knife
+80A09AE7:Holiday Pole
+80A09AE6:Heavy Necklace
+809DBEF2:Heavy Necklace
+80A09AE4:Heavy Necklace
+80A20453:Gorget
+80A20454:Heavy Bracelet
+80A20455:Thorsten's Armor
+80A2046A:Ust
+80A2045A:Some Changes for February 2012
+80A2045D:Quest Weapon Coin
+80A2045E:Banderling Predator Backpack
+80A2046B:Baggy Shirt
+80A2046C:Trousers
+AD95C23D:Aetheria
+AD9994E1:Aetheria
+AD944C0F:Aetheria
+AD7AEB70:Aetheria
+AD7D7F09:Aetheria
+AD435463:Aetheria
+AD7D77CD:Aetheria
+AD7B30FF:Aetheria
+B190BFC4:Aetheria
+B1933355:Aetheria
+B193F870:Aetheria
+B1940620:Aetheria
+B18F0DF3:Aetheria
+B194182F:Aetheria
+
+Missing Exports - Possessed items that were not found:

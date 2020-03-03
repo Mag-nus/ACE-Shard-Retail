@@ -1,0 +1,94 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-16_1484615451_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-30_1485817520_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-Packet-Logs\pkt_2017-1-14_1484443566_log.pcap
+
+Partial Exports - Missing appraisal info:
+A66F0937:Prismatic Taper
+A66F0938:Lead Scarab
+A7CBB4A9:Iron Scarab
+A7CA3EF9:Copper Scarab
+A7CB261D:Silver Scarab
+A7CBD359:Gold Scarab
+A7CBD2DA:Pyreal Scarab
+A7CBD1EF:Platinum Scarab
+AB6AF7D8:Diamond Scarab
+ABF13F8C:Electric Sceptre
+ABED6116:Acid Sceptre
+ACAC6179:Piercing Baton
+A6AD4BD0:Pyreal
+A82A47B0:Signet Crown
+AD636827:Mana Scarab
+AA379CD1:Teardrop Crown
+ABE74D36:Teardrop Crown
+AC66856C:Circlet
+AD1D2517:Pyreal
+AD1D2516:Pyreal
+AC371D3C:Diamond Powder
+ABE09E24:Staff
+AD12616F:Gold Pea
+AD18DA51:Silver Pea
+A66F0930:Ust
+A9A37E37:Dho Vest and Robe
+ABFEFC92:Lightning K'nath Essence (125)
+ABFF16EC:Fire K'nath Essence (125)
+AC0A5F23:Acid K'nath Essence (125)
+AD153E2C:Encapsulated Spirit
+AD1598E5:Coral Golem Essence
+AE093522:Turquoise Taper
+A7AAF21D:Lead Pea
+A868651C:Diamond Powder
+A8396134:Sceptre
+A9A37DAB:Luminous Robe
+ABF06779:Amuli Leggings
+AE04065B:Swamp Stone
+AE084619:Pyreal Pea
+AE084DF9:Yellow Jewel
+AE084EDD:Yellow Jewel
+AE03F219:Yellow Jewel
+AE03F211:Fire Child Essence (150)
+AE03F021:Lightning Child Essence (150)
+AE0409DF:Salvage (100)
+ADFF1DB5:Yellow Jewel
+A6AD7B24:Pack
+A6AED8C9:Academy Wand
+8FD937B6:Trade Note (250,000)
+AE0853DF:Salvage (9)
+AE0851C3:Frost Child Essence (150)
+AE002779:Salvage (100)
+AD4B5855:Frost Child Essence (150)
+ADFE56CB:Salvage (100)
+ADFBA783:Salvage (100)
+AE09C686:Swamp Stone
+ADFF1408:Salvage (100)
+AE0845B3:Salvage (100)
+AE040F46:Salvage (100)
+ADFE6F68:Sturdy Steel Key
+AE085706:Sturdy Steel Key
+AE08465B:Salvage (38)
+AE084998:Salvage (20)
+AE084495:Alacritous Ink
+AE03F2C8:Salvage (100)
+AE03F1AD:Salvage (30)
+AE084C74:Salvage (45)
+AE084F75:Salvage (86)
+AE0859E4:Salvage (67)
+AE0855F3:Frost Child Essence (150)
+AE0402C9:Salvage (100)
+ADF278BB:Salvage (11)
+ADFF25CA:Salvage (96)
+AE0C8813:Quill of Infliction
+ADFF1030:Ink of Formation
+AE003C97:Glyph of Loyalty
+AE0C7BF7:Glyph of Leadership
+AE0C9703:Quill of Introspection
+ADE93494:Glyph of Light Weapons
+AE04090E:Ink of Objectification
+AE0DFB82:Ink of Partition
+AE084659:Quill of Benevolence
+AE0E65CD:Glyph of Item Enchantment
+AE09CD2B:Glyph of Bludgeoning
+
+Missing Exports - Possessed items that were not found:

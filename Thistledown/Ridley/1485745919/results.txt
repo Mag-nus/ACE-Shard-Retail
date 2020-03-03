@@ -1,0 +1,180 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\trello_datamining\1_Ridley-01-30-2017-olthoi-horde-nest-bandit-castle\pkt_2017-1-29_1485744527_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ridley-01-30-2017-olthoi-horde-nest-bandit-castle\pkt_2017-1-29_1485744527_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ridley-01-30-2017-olthoi-horde-nest-bandit-castle\pkt_2017-1-29_1485744527_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ridley-01-30-2017-olthoi-horde-nest-bandit-castle\pkt_2017-1-29_1485744527_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ridley-01-30-2017-olthoi-horde-nest-bandit-castle\pkt_2017-1-29_1485744527_log.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\193_Ridley-Amanah-Final-Random-1\pkt_2017-1-31_1485848899_log.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\194_Ridley-Amanah-Final-Random-2\pkt_2017-1-29_1485744527_log.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\194_Ridley-Amanah-Final-Random-2\pkt_2017-1-29_1485744527_log.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\194_Ridley-Amanah-Final-Random-2\pkt_2017-1-29_1485744527_log.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\194_Ridley-Amanah-Final-Random-2\pkt_2017-1-29_1485744527_log.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\193_Ridley-Amanah-Final-Random-1\pkt_2017-1-31_1485847584_log.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\194_Ridley-Amanah-Final-Random-2\pkt_2017-1-30_1485832139_log.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\194_Ridley-Amanah-Final-Random-2\pkt_2017-1-30_1485835164_log.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\1_Ridley-01-30-2017-olthoi-horde-nest-bandit-castle\pkt_2017-1-29_1485744527_log.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\1_Ridley-01-30-2017-olthoi-horde-nest-bandit-castle\pkt_2017-1-29_1485744527_log.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\1_Ridley-01-30-2017-olthoi-horde-nest-bandit-castle\pkt_2017-1-29_1485744527_log.pcap
+
+Partial Exports - Missing appraisal info:
+823D2310:Pyreal
+823D22B1:Asheron's Benediction
+823D22B2:Blackmoor's Favor
+823D22B3:Eye Dropper
+823D22B4:Ashbane
+823D22BD:Society Gem of Dispelling
+823D22BF:Celestial Hand Stronghold Portal Gem
+ABD36A79:Mana Forge Key
+ABD31C1A:Mana Forge Key
+ABD02CB4:Mana Forge Key
+ABD53523:Mana Forge Key
+ABD53888:Mana Forge Key
+ABD520CD:Mana Forge Key
+ABD51F92:Mana Forge Key
+ABD51F26:Mana Forge Key
+ABD513BE:Mana Forge Key
+ABD51323:Mana Forge Key
+ABD27E6E:Mana Forge Key
+ABD50F88:Mana Forge Key
+ABD35626:Mana Forge Key
+ABCEB23B:Mana Forge Key
+ABCF3C77:Mana Forge Key
+ABD26276:Mana Forge Key
+823D22C5:Silver Scarab
+823D22C6:Lead Scarab
+823D22C7:Iron Scarab
+823D22C8:Gold Scarab
+823D22CA:Pyreal Scarab
+823D22CB:Diamond Scarab
+823D22CD:Colosseum Coin
+823D22D1:Prismatic Taper
+823D22D2:Mana Scarab
+823D22D3:Copper Scarab
+823D22D5:Heart of the Innocent
+823D22D6:Aetheria Mana Stone
+823D22D7:Major Stinging Stone
+823D22D8:Inactive Alchemist's Golem
+823D22D9:Ust
+823D22DA:Stipend
+823D22DB:Platinum Scarab
+823D22D4:Promissory Note
+ABD3AC2B:A'nekshay Token
+ABD2FA55:Ancient Falatacot Trinket
+823D22DC:Foci of Artifice
+823D22DD:Foci of Enchantment
+823D22DE:Foci of Verdancy
+823D22E0:Intricate Carving Tool
+823D22E2:Ring
+823D22E1:Orb of the Baby Bunny Booty
+823D22E3:Shoes
+823D22EC:Plentiful Healing Kit
+823D22E4:Olthoi Helm
+823D22E5:Studded Leather Gauntlets
+823D2311:Pyreal
+823D22E9:Combined Hyssop and Mandrake
+823D22EA:Soft Bandages
+823D2312:Pyreal
+823D22EB:Heavy Bracelet
+AAE07604:Plentiful Healing Kit
+823D2313:Encrusted Bloodstone Jewel
+823D22EF:Loose Shirt
+823D4669:Sword of Lost Hope
+823D22F2:Lightning Dericost Blade
+823D22F3:Ring
+823D46EB:The Plan
+823D22F4:Ring
+823D22F6:Frost Dericost Blade
+823D4672:Sword of Lost Hope
+823D22F7:Sanguinary Aegis
+823D22F9:Princely Runed Bastone
+823D22FC:Salvage (77)
+823D22FD:Salvage (30)
+823D22FE:Salvage (89)
+823D466C:Sword of Lost Light
+823D22FF:Salvage (15)
+823D2300:Salvage (15)
+823D2304:Tower Shield
+823D2301:Salvage (55)
+823D2302:Salvage (84)
+ABD335D0:Quality Pyreal Ingot
+823D2303:Salvage (35)
+ABD335FB:Quality Pyreal Ingot
+823D22FB:Soul Bound Sword
+823D22FA:Acidic Weeping Mace
+823D2307:Aetheria
+823D2308:Aetheria
+823D231D:Gloves
+823D230D:Aetheria
+823D2314:Goggles
+823D2315:Heavy Bracelet
+823D2316:Ring
+823D2322:Helmet
+823D2317:Heavy Bracelet
+823D2318:Ring
+AB0CB18E:Pyreal Mote
+823D2319:Trousers
+823D231A:Trimmed Cloak
+ABD2D40C:Pyreal
+823D231B:Celdon Breastplate
+823D231C:Studded Leather Pauldrons
+ABD38394:Pyreal
+823D231E:Yoroi Tassets
+ABD50F7D:Colosseum Ticket
+823D2320:Studded Leather Greaves
+823D2321:Shoes
+ABD38233:Pyreal
+823D2324:Celestial Hand Vambraces
+823D2331:Salvage (100)
+ABC490B4:Pyreal
+823D2334:Salvage (100)
+823D2337:Salvage (100)
+ABD55532:Pyreal
+823D233A:Salvage (100)
+823D233E:Salvage (100)
+ABD5578C:Pyreal
+823D2343:Salvage (100)
+823D2349:Salvage (100)
+ABD3805A:Pyreal
+823D234C:Salvage (100)
+823D234F:Salvage (100)
+ABCF29D5:Aged Legendary Key
+823D2357:Salvage (100)
+823D2360:Trade Note (50,000)
+823D2364:Staff
+823D2365:Ken
+823D4651:Hoary Mattekar Robe
+823D2323:Poet's Shirt
+823D2366:Acid Lugian Hammer
+823D2305:Focusing Stone
+823D22F0:Gorget
+823D22F5:Flaming Scimitar
+823D468C:Acidic Weeping Sword
+ABD50F6B:Golden Gromnie
+823BE572:Velveteen Olthoi
+82358C84:Plush Tusker
+ABD50FE1:Golden Gromnie
+ABD51057:Golden Gromnie
+ABD53448:Golden Gromnie
+ABD32D4F:Aged Legendary Key
+ABD34290:Foolproof Black Opal
+8037BE0B:Mana Forge Key
+ABD3A0D7:Mana Forge Key
+ABD4DB1B:Mana Forge Key
+ABD4DF5A:Mana Forge Key
+ABD4E260:Foolproof Jet
+ABD4E6EB:Mana Forge Key
+ABD09ABA:Mana Forge Key
+ABD09B9C:Mana Forge Key
+ABD09939:Mana Forge Key
+ABD086CE:Mana Forge Key
+ABD00150:Mana Forge Key
+ABD5758E:Mana Forge Key
+ABD57433:Mana Forge Key
+94043665:Trade Note (250,000)
+9696C847:Trade Note (250,000)
+99FE0594:Trade Note (250,000)
+969B6F48:Trade Note (250,000)
+
+Missing Exports - Possessed items that were not found:

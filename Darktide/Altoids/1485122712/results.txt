@@ -1,0 +1,56 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-22_1485122705_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-22_1485122558_log.pcap
+
+Partial Exports - Missing appraisal info:
+D7FB4EAC:Flared Shirt
+D7FB4E8B:Loose Breeches
+D7FB4EBC:Shoes
+D7FB4E64:Pyreal
+D7FB4ED7:Quicksilver
+D7FB4E9B:Cobalt
+D7FB4EC6:Lead Scarab
+D7FB4E93:Powdered Turquoise
+D7FB4E7D:Stibnite
+D7FB4EDF:Ashwood Talisman
+D7FB4E6C:Hyssop
+D7FB4ECE:Powdered Onyx
+D7FB4EB3:Apple
+D7FB4EE8:Vitriol
+D7FB4EAB:Handy Healing Kit
+D7FB4EA3:Sack
+D7FB4E8A:Calling Stone
+D7FB4E74:Greeter's Key
+D7FB4EBB:Plain Healing Kit
+D7FB4E9A:Quartermaster's Workshop Key
+D7FB4E92:Quartermaster's Workshop Key
+D7FB4E7C:Plain Healing Kit
+D7FB4ED6:Leather Leggings
+D7FB4ECD:Leather Basinet
+D7FB4EC5:Leather Gauntlets
+D7FB4EE7:Academy Healing Potion
+D7FB4EDE:Academy Stamina Potion
+D7FB4EB2:Academy Stamina Potion
+D7FB4EA2:Academy Coat
+D7FB4EAA:Academy Mana Potion
+D7FB4E89:Academy Healing Potion
+D7FB4EBA:Academy Healing Potion
+D7FB4ED5:Academy Stamina Potion
+D7FB4E99:Academy Mana Potion
+D7FB4E91:Leather Breastplate
+D7FB4EF8:Leather Boots
+D7FB4EF0:Copper Scarab
+D7FB4ECC:Academy Mana Potion
+D7FB4EC4:Academy Stamina Potion
+D7FB4F08:Buckler
+D7FB4EE6:Sho Wand
+D7FB4EDD:Gloves
+D7FB4EA1:Leather Breastplate
+D7FB4EA9:Pack Martine
+D7FB4EB1:Some Changes for February 2012
+D7FB4EB9:Blackmoor's Favor
+D7FB4F00:Academy Ken
+
+Missing Exports - Possessed items that were not found:

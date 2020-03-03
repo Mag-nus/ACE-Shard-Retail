@@ -1,0 +1,71 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Mavness-02-01-2017-pcap\pcap\pkt_2017-1-24_1485268946_log.pcap
+
+Partial Exports - Missing appraisal info:
+D3B00BEC:Ust
+D3B00BEB:Sack
+D58F35D7:Peerless Healing Kit
+D58FCEA0:Peerless Healing Kit
+D5904651:Peerless Healing Kit
+D3B00BED:Calling Stone
+D44B3EEC:Blackmoor's Favor
+D45279B1:Facility Hub Portal Gem
+D44B15B0:Pyreal
+D4173708:Great Mana Charge
+D4585FC1:Fire Phyntos Wasp Essence (50)
+D47BD79D:Stipend
+D46D468E:Lightning Phyntos Wasp Essence (50)
+D4E3CBCA:Greater Mana Stone
+D58FA9FC:Lucky Gold Letter
+D4989136:Stamina Brew
+D5166EF0:Aphus Lassel Portal Gem
+D4D9BFB9:Health Elixir
+D5880319:Fire Phyntos Wasp Essence (50)
+D58F461F:Aphus Lassel Portal Gem
+D59277D0:Lucky Gold Letter
+D5926D3A:Lightning Elemental Essence (50)
+D5926760:Frost Zombie Essence (80)
+D592624F:Fire Grievver Essence (50)
+D592874B:Acid Skeleton Minion Essence (50)
+D5929309:Frost Elemental Essence (50)
+D592CD59:Lightning K'nath Essence (50)
+D592C18B:Lightning Moar Essence (50)
+D5778667:Lightning Phyntos Wasp Essence (50)
+D58F3366:Mace
+D590D9AE:Lugian Hammer
+D5B2E788:Excellent Healing Kit
+D59954EF:Lightning Spectre Essence (80)
+D5897360:Frost Zombie Essence (80)
+D57D3F32:Stick
+D5AF1E01:Buckler
+D5B63976:Excellent Healing Kit
+D5BE760C:Board with Nail
+D5BE8687:Frost Elemental Essence (50)
+D5B63548:Fire Spectre Essence (80)
+D5B2BF18:Stick
+D5B2C91A:Frost Claw
+D5AD1F9D:Acid Elemental Essence (50)
+D5B2EFAA:Fire Skeleton Minion Essence (50)
+D5AD195D:Acid Spectre Essence (50)
+D5A5DCE9:Acid Stick
+D66BFC4E:Tusker Crimsonback Tusk
+D5D2E74E:Goldenback Tusker Tusk
+D612EDEF:Tusker Redeemer Tusk
+D66DE576:Tusker Liberator Tusk
+D4E5818A:Physician's Crystal
+D592623D:Shoes
+D5B2C96A:Chainmail Shirt
+D615826B:Tusker Slave Tusk
+D62AB125:Tusker Guard Tusk
+D927E4A4:Female Tusker Tusk
+D91CFCD5:Male Tusker Tusk
+D92CAC1E:Tusker Crimsonback Tusk
+D9202CD8:Goldenback Tusker Tusk
+D92FB7CD:Tusker Redeemer Tusk
+D92C9E05:Tusker Liberator Tusk
+D92CEC35:Tusker Slave Tusk
+D92992B0:Tusker Guard Tusk
+D58C1B69:Tower Shield
+D585721E:Mace
+
+Missing Exports - Possessed items that were not found:

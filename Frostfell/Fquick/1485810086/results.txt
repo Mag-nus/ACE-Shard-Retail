@@ -1,0 +1,141 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-30_1485810024_log.pcap
+
+Partial Exports - Missing appraisal info:
+895D4AFF:Foci of Strife
+88F83042:Foci of Artifice
+894BD909:Foci of Enchantment
+896A7334:Colosseum Backpack
+89636288:Colosseum Coin
+896A8A75:Massive Mana Charge
+89635A7A:Massive Mana Charge
+895D3F2D:Massive Mana Charge
+896A7063:Massive Mana Charge
+895D472D:Massive Mana Charge
+896A81D2:Massive Mana Charge
+8953F923:Massive Mana Charge
+896A70C5:Massive Mana Charge
+896A735B:Massive Mana Charge
+895D4415:Massive Mana Charge
+896A745D:Massive Mana Charge
+89546818:Massive Mana Charge
+8963666C:Massive Mana Charge
+896A6F64:Massive Mana Charge
+896A1C00:Massive Mana Charge
+8907311D:Massive Mana Charge
+8913B25B:Massive Mana Charge
+8972A3B9:Massive Mana Charge
+896A8967:Massive Mana Charge
+896364A2:Massive Mana Charge
+894665C0:Colosseum Backpack
+896366DA:Silver Scarab
+896A8DB7:Copper Scarab
+89712F54:Pyreal Scarab
+89623A0A:Mana Scarab
+894BD294:Gold Scarab
+894CBDB7:Mana Scarab
+895D2AE0:Mana Scarab
+894E742B:Mana Scarab
+896A721E:Prismatic Taper
+895D43FC:Celdiseth's Portal Gem
+89057B51:Platinum Scarab
+897133B1:Pyreal
+896A72F2:Ust
+9B0D6C16:Aetheria
+9B0A4797:Aetheria
+9B0D5B9B:Aetheria
+8B6B6447:Quartered Cloak
+896A8E8F:Colosseum Backpack
+AC684292:Azaxis Token
+8976D6F5:Yellow Empyrean Ring
+893D8FA2:Colosseum Vault Key
+896A72BA:Enhanced White Empyrean Ring
+896A8B5E:Colosseum Vault Key
+896A6F91:Colosseum Vault Key
+8940D9B7:Colosseum Vault Key
+89712F91:Nexus Crawler's Mask
+8972AB51:Protective Drudge Charm
+896A71C5:Aetheria
+895D4A53:Aetheria
+895D46B8:Aetheria
+896A8BD5:Smock
+89743E48:Bracelet
+8960E410:Coruscating Olthoi Scent Gland
+8966CF1A:Pants
+89635B5D:Noble Relic Coat of Brilliance
+D333D722:Stipend
+897138A3:Noble Relic Gauntlets of Strength
+895D47C6:Noble Relic Sollerets of Speed
+DAED616C:Blank Augmentation Gem
+896DE818:Mechanical Scarab
+895D2ED9:Colosseum Backpack
+895D4D08:Small Olthoi Venom Sac
+8939FED6:Heart of the Innocent
+893B17C1:Aetheria Mana Stone
+8963636F:Blackmoor's Favor
+896A71AB:Asheron's Lesser Benediction
+8963649D:Silver Pea
+89743D84:Ancient Mhoire Coin
+895D43F9:Trade Note (10,000)
+89636302:Gold Pea
+A4997614:Scalemail Bracers
+88CF69A8:Heavy Bracelet
+89636818:Some Changes for February 2012
+DAED4A9E:Blank Augmentation Gem
+9ACF0628:Trade Note (250,000)
+DAED617C:Blank Augmentation Gem
+80352AAF:Trade Note (250,000)
+9B29FD40:Trade Note (250,000)
+9C444247:Gem of Knowledge
+A4B5ED6E:Pyreal Mote
+92843E8F:Encapsulated Spirit
+DAED617D:Blank Augmentation Gem
+9BAF36F9:Trade Note (250,000)
+DAED5D55:Blank Augmentation Gem
+9CCE23B5:Faran Robe with Hood
+97B47CD8:Trade Note (250,000)
+DC60683B:Minalim Plant
+80958CD2:Trade Note (250,000)
+80670BDA:Trade Note (250,000)
+AA53DDF7:Thananim Plant
+9250BB40:Trade Note (250,000)
+91D00402:Trade Note (250,000)
+DC601151:Lapyan Plant
+97D12474:Trade Note (250,000)
+91B7BFB7:Trade Note (250,000)
+DC7398FD:Relanim Plant
+88D557FE:Trade Note (250,000)
+80031929:Trade Note (250,000)
+DCD1782C:Prismatic Taper
+800BDE43:Trade Note (250,000)
+80116259:Trade Note (250,000)
+DCD17838:Prismatic Taper
+D41BDCCC:Tinker's Crystal
+D320D563:Gem of Greater Luminance
+D320D564:Gem of Greater Luminance
+D320D565:Gem of Greater Luminance
+D320D566:Gem of Greater Luminance
+D320D567:Gem of Greater Luminance
+D320D568:Gem of Greater Luminance
+D320D569:Gem of Greater Luminance
+D320D56A:Gem of Greater Luminance
+D320D56B:Gem of Greater Luminance
+D320D56C:Gem of Greater Luminance
+D320D56D:Gem of Greater Luminance
+D320D56E:Gem of Greater Luminance
+D320D56F:Gem of Greater Luminance
+D320D570:Gem of Greater Luminance
+D320D571:Gem of Greater Luminance
+CD89EDE7:Baggy Shirt
+D45F744D:Olthoi Celdon Sollerets
+B3F24390:Trousers
+B3F24391:Sparring Shirt
+B712A88C:Loose Pants
+DAD942F4:Berzerker's Crystal
+DC774203:Town Network Portal Gem
+DC7741EE:Town Network Portal Gem
+DC7741CA:Town Network Portal Gem
+DC7741AB:Town Network Portal Gem
+DCD17843:Prismatic Taper
+
+Missing Exports - Possessed items that were not found:

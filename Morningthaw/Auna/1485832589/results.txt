@@ -1,0 +1,298 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\trello_datamining\0_Crater Lair.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\trello_datamining\0_Matron Hive East (inside drop only).pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\38_Hunting around Danby_s Outpost.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\47_AC-Dereth-Perimeter-Run_pt.1.pcap\AC-Dereth-Perimeter-Run_pt.1.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\45_Valley of Death (running around the area).pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\48_AC-Dereth-Perimeter-Run_pt.2.pcap\AC-Dereth-Perimeter-Run_pt.2.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\49_AC-Dereth-Perimeter-Run_pt.3.pcap\AC-Dereth-Perimeter-Run_pt.3.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\5_Frore (part 4).pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\51_AC-Dereth-Perimeter-Run_pt.5.pcap\AC-Dereth-Perimeter-Run_pt.5.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\0_Stone Tool.pcap
+
+Partial Exports - Missing appraisal info:
+80F3BA4C:Pack
+80F3BA4D:Lo Shoen's Rat Bait
+80F3BA4F:Ornate Bone Key
+80F3BA4E:Slice of Royal Wedding Cake
+80F3BA50:Blighted Mana Crystal
+80F3BA51:Blighted Mana Crystal
+80F3BA52:Mana-Infused Jungle Flower
+80F3BA53:Glowing Moar Gland
+80F3BA57:Stipend
+80F3BA54:Glowing Jungle Lily
+80F3BA55:Aetheria Powder
+80F3BA59:Baby Pet Token
+80F3BA56:Aetheria Powder
+80F3BA58:Quest Weapon Coin
+80F3BA5B:Coruscating Olthoi Scent Gland
+80F3BA5A:Chimeric Balister of the Quiddity Summoning Gem
+80F3BA5C:Black Boulder
+80F3BA5D:Celestial Hand Trade Token
+80F3BA5E:Chocolate Gromnie
+80F3BA60:Celestial Hand Commendation Ribbon
+80F3BA61:Corrupted Essence
+80F3BA62:Lesser Corrupted Essence
+80F3BA63:Ornate Bone Key
+80F3BA64:Colosseum Ticket
+80F3BAFD:Celestial Hand Armor Writ
+80F3BA65:Pack
+80F3BA6C:Wrapped Bundle of Quarrelshafts
+80F3BA67:Wrapped Bundle of Gear Blade Slashing Arrowheads
+80F3BA69:Wrapped Bundle of Greater Deadly Blunt Arrowheads
+80F3BA6A:Crate of Gear Blade Slashing Arrowheads
+80F3BA6D:Gear Blade Slashing Bolt
+80F3BA6E:Wrapped Bundle of Burning Sands Arrowheads
+80F3BA70:Acid Crossbow
+80F3BA71:Plentiful Healing Kit
+80F3BA72:Plentiful Healing Kit
+80F3BA73:Plentiful Healing Kit
+80F3BA75:Slashing Crossbow
+80F3BA66:Wrapped Bundle of Olthoi Acid Arrowheads
+80F3BAF9:Blunt Compound Crossbow
+80F3BA6F:Frost Crossbow
+A79AD84F:Deed
+80F3BAEF:Acid Compound Crossbow
+80F3BAFE:Fire Crossbow
+941E43E8:Pyreal
+C5876F22:Wrapped Bundle of Arrowshafts
+C5879F2B:Wrapped Bundle of Deadly Armor Piercing Arrowheads
+C587ADFB:Wrapped Bundle of Deadly Blunt Arrowheads
+80F3BA78:Sack
+80F3BA79:Copper Scarab
+80F3BA7A:Lead Scarab
+80F3BA7B:Iron Scarab
+80F3BA7C:Silver Scarab
+80F3BA7D:Prismatic Taper
+80F3BA7E:Diamond Scarab
+80F3BA7F:Platinum Scarab
+80F3BA80:Vissidal Island Portal Gem
+80F3BA81:Gold Pea
+80F3BA83:Pyreal Pea
+80F3BA82:Splitting Tool
+80F3BA84:Gold Scarab
+80F3BA85:Lightweight Tome
+80F3BA87:Pyreal Scarab
+80F3BA88:Mana Scarab
+80F3BA89:Black Coral Keyring
+80F3BA8A:Black Coral Keyring
+80F3BA8B:Silver Pea
+80F3BA8C:Trade Note (250,000)
+80F3BA8D:Intricate Carving Tool
+80F3BA8E:Celdiseth's Portal Gem
+80F3BA9B:Colosseum Coin
+80F3BA8F:Celestial Hand Stronghold Portal Gem
+80F3BA92:Pack
+80F3BA9C:Rez'arean Ore
+80F3BA93:Dire Champion Token
+80F3BA95:A'nekshay Token
+80F3BA96:Legendary Token
+80F3BA97:Ornate Gear Marker
+80F3BA98:Aetherium-infused Gear
+80F3BA99:Adventurer's Token
+80F3BA9A:Ancient Mhoire Coin
+80F3BA9D:Pristine Mana Shard
+80F3BA9E:Small Olthoi Venom Sac
+80F3BA9F:Prickly Pear
+80F3BAA1:Broken Stone Tablet
+80F3BAA0:Engraved A'nekshay Bracers
+80F3BAA2:Platinum Spirits
+80F3BAA3:Pyre Shroud
+80F3BAA5:Snow Tusker Blood Sample
+80F3BAA6:Exhumed Bones
+80F3BAA7:Promissory Note
+80F3BAA8:Celestial Hand Trade Token
+8B309D88:Pile of Gearknight Parts
+8CDF1B12:Aetherium Power Core
+8D328E1E:Aetheric Resonator
+80F3BAAA:Pack
+80F3BAAB:Gem of Lowering Focus
+80F3BAAC:Lockpick Gem of Enlightenment
+80F3BAAD:Fletching Gem of Enlightenment
+80F3BAAE:Gem of Raising Quickness
+80F3BAAF:Fletching Gem of Forgetfulness
+80F3BAB0:Burning Sands Keyring
+80F3BAB7:Electric Compound Crossbow
+80F3BAB5:Fire Compound Crossbow
+80F3BAB6:Piercing Compound Crossbow
+80F3BAB8:Acid Crossbow
+80F3BAB9:Gelidite Robe
+80CDA10D:Monouga
+80F3BB19:Stocking Cap
+8F5F7C1C:Electrified Moar Essence
+80F3BABF:Torn Strip of Parchment
+9090E301:Electrified Moar Essence
+80F3BAD9:Incendiary Knight Essence
+80F3BABA:Pack
+80F3BABB:Greater Mukkir Slayer Stone
+80F3BABC:Refulgent Bracelet
+80F3BABD:Heart of the Innocent
+80F3BABE:Spirit of Izexi Gem
+80F3BAC2:Interview with the Mosswart
+80F3BAC1:Sezzherei's Lair
+80F3BAC3:Tanada Clan Master's Medallion
+80F3BA4B:Ust
+80F3BAC4:Unreadable Text
+80F3BAC5:Black Fire Atlan Stone
+80F3BAC6:Rage of Grael Gem
+80F3BAC7:Sake
+80F3BAC8:Encapsulated Spirit
+80F3BAC9:Shoes
+80F3BACB:The Healer's Heart
+80F3BACC:Virindi Implant
+80F3BACD:Red Monster Seed
+80F3BACE:Plated Shard
+80F3BB05:Halaetan Magic Page 8
+90D00E4B:Raider Captain's Resonator
+80F3BACA:Wand
+80F3BAD3:Aetheria
+80F3BAD5:Messenger's Collar
+80F3BAD4:Aetheria
+80F3BAD6:Halved Cloak
+80F3BAEE:Pack
+80F3BAD7:Flared Shirt
+80F3BAD8:Heavy Bracelet
+80DC39CC:Burun
+80F3BADA:Shoes
+80F3BADB:Celdon Breastplate
+80F3BAF0:Bag of Gumdrops
+80F3BADE:Scalemail Bracers
+80F3BADF:Studded Leather Girth
+80EF0E75:Snowman
+80F3BAE0:Chainmail Greaves
+80F3BAE1:Mechanical Scarab
+80F3BAF6:Major Mana Stone
+80F3BAE4:Loose Pants
+AA0B48DB:Pyreal
+80F3BAE6:Ring
+80F3BAE7:Heavy Bracelet
+A6AA9D72:Cloak
+80F3BAE8:Ring
+80F3BAEA:Olthoi Alduressa Gauntlets
+800CC7F6:Candeth Keep Blueprints
+80F3BAED:Aetheria
+936060AD:Sceptre
+947391A1:Ring
+93605947:Piercing Bow
+92FDC89A:Mechanical Scarab
+AA08D713:Pyreal
+8F43D544:Amuli Leggings
+8F63A7E9:Sandals
+80F3BAF2:Asteliary Orb
+93488DDC:Blunt Compound Bow
+934ADAF7:Quartered Cloak
+AA0B46CB:Pyreal
+9470BA21:Staff
+947129B9:Ring
+A6AEB231:Heavy Necklace
+A6AEC10E:Trimmed Cloak
+A6ACEC8F:Aetheria
+80F3BAF8:Blackmoor's Favor
+944E4E1C:Salvage (100)
+9339ED86:Salvage (100)
+80F3BAD0:Health Philtre
+946D97B6:Salvage (100)
+80F3BAF7:Asheron's Benediction
+80F3BAD1:Aetheria Desiccant
+80F3BAF4:Amber Ape
+9362B3C5:Salvage (16)
+800CC7FA:Crystal Vase with Snowflowers
+80F3BA91:Aetheria Mana Stone
+80F3BACF:Aphus Lassel Portal Gem
+A1C45637:Eye of the Fallen
+8E175405:Salvage (16)
+80F3BAF3:Whispering Blade Chapterhouse Recall Orb
+AA08DA5E:Pyreal
+80F3BAEC:Black Market Gem of Dispelling
+80F3BAE9:Town Network Portal Gem
+80F3BB0E:Frost K'nath Essence (180)
+80F3BAE5:Lightning Child Essence (180)
+80F3BAE3:Fire Wisp Essence (180)
+80F3BAD2:Frozen Valley Portal Gem
+AA0B46CD:Pyreal
+944F4D54:Salvage (38)
+9D06A71A:Salvage (28)
+A9C3D82F:The Temple of Forgetfulness
+80F3BA76:Spectral Chill Bolt
+A1B7D849:Sezzherei's Lair
+C58A6CA6:Textbook
+A9C3D830:A Note From Ciandra
+C4FB49E7:Pack
+C6744F01:Hammer of Frore
+C67059AE:Ice Heaume of Frore
+C66D468B:Gelidite Robe
+C6AB7F08:Ravener Guts
+821527DB:Hoary Mattekar Over-robe
+C6A7DAD8:Mana Forge Key
+C6AAC9F7:Sturdy Iron Key
+C6A91C21:Mite Stamp
+C69A421C:Olthoi Stamp
+C646F63F:Lapyan Plant
+C646F653:Argenory Plant
+C6467E79:Yellow Jewel
+C644784D:Textbook
+C645D054:Textbook
+C585CA9C:Atlan's Treatise
+C58A5913:Textbook
+C58A4D8E:Textbook
+C507898C:Facility Hub Portal Gem
+C507E04C:Key from Aleval
+C4FF6FA5:Scarlet Red Letter
+C4D446DF:Lytelthorpe Town Stamp
+C5084686:Health Tonic
+C5084797:Mid-Stakes Gambling Token
+C50847C9:Pragmatic Guide to Atlan Weapons
+C50819C1:Isparian Arms
+C503F9AE:Priceless Ore
+C50ACD10:Charged Shard
+C536888B:Staff
+C537B2B4:Orange Monster Seed
+C543C9A1:Yellow Monster Seed
+C584D6BE:Crossbow Glyph
+81838F13:Quiddity Ingot
+C584F568:Missile Weapons Glyph
+C582D5DA:Major Shivering Stone
+C583821E:Imperial Missive
+C58A585D:Stone Tool
+C58A6655:Major Smoldering Stone
+C642E602:Major Sparking Stone
+C645D06A:Major Stinging Stone
+80F3BADC:Qafiya
+C6440837:Major Smoldering Atlan Bow
+80F3BADD:Celdon Sleeves
+C69DF964:Pyreal Nugget
+C69DF952:Crystal Fragment
+C6924103:Shadow Fragment
+C6A2C12C:Salvage (100)
+80F3BA77:Raider Lightning Bolt
+C6A76D72:Bloodroot Vine
+C6A74F5C:Ancient Journal
+80F3BB1C:Olthoi Acid Bolt
+C6AA2E1E:Rithwic Portal Directions
+C587C0E5:Deadly Armor Piercing Quarrel
+C5C2A8BC:Letter to Celcynd
+C5CE3F99:Rithwic Town Stamp
+C6A84DD4:Fire Auroch Meat
+C6BCB158:Sturdy Iron Key
+C6BB5C18:Tart Apple
+80F3BAFF:Fire Crossbow
+C6BB56E2:Virindi Singularity Key
+C6BB5A2B:Heavy Bracelet
+C6BCB25D:Ring
+C6BB5A03:Ring
+C6BCB276:Gem
+C6BE1DB8:Gem
+C6BB5A8A:Gem
+C6BE1E0D:Gem
+C6BE1DDA:Gem
+C6BE1D6D:Sturdy Iron Key
+C6BB55D2:Alloy Engine
+C6BB57EB:Dark Shard
+80F3BAEB:Focusing Stone
+C64272CE:Greater Deadly Blunt Quarrel
+80F3BB1A:Blunt Crossbow
+80F3BB20:Staff
+
+Missing Exports - Possessed items that were not found:

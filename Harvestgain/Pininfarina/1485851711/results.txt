@@ -1,0 +1,120 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-31-2017-pkt_2017-1-31_1485847270_log\pkt_2017-1-31_1485847270_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-31-2017-pkt_2017-1-31_1485847270_log\pkt_2017-1-31_1485847270_log.pcap
+
+Partial Exports - Missing appraisal info:
+C7C438F3:Sack
+C7C438F4:Peerless Healing Kit
+C7C438F5:Peerless Healing Kit
+C7C438F6:Peerless Healing Kit
+C7C438F7:Treated Healing Kit
+C7C438F8:Treated Healing Kit
+C7C438F9:Treated Healing Kit
+C7C438FA:Treated Healing Kit
+C7C438FB:Treated Healing Kit
+C7C438FC:Treated Healing Kit
+C7C438FD:Treated Healing Kit
+C7C438FE:Treated Healing Kit
+C7C438FF:Treated Healing Kit
+C7C43900:Treated Healing Kit
+C7C43901:Treated Healing Kit
+C7C43902:Gifted Healing Kit
+C7C43903:Stamina Tincture
+C7C43904:Foci of Artifice
+C7C43905:Pack
+C7C43906:Prismatic Taper
+C7C43907:Lead Scarab
+C7C43908:Asheron's Benediction
+C7C43909:Blackmoor's Favor
+C7C4390A:Iron Scarab
+C7C4390B:Copper Scarab
+C7C4390C:Silver Scarab
+C7C4390D:Ust
+C7C4390F:Token of Modification
+C7C43910:Token of Modification
+C7C43911:Quest Weapon Coin
+C7C43912:Pyreal
+C7C43913:Pyreal
+C7C43914:Pyreal
+C7C43915:Pyreal
+C7C43916:Pyreal
+C7C43917:Pyreal
+C7C43918:Pyreal
+C7C43919:Copper Pea
+C7C4391C:Mana Stone
+C7C4391A:Iron Pea
+C7C4391D:Major Mana Stone
+C7C4391E:Gold Pea
+C7C4391F:Moderate Mana Stone
+C7C43920:White Phyntos Wasp Wing
+C7C43923:Pyreal
+C7C43924:Pack
+C7C43925:Pack
+C7C43926:Ring
+C7C43927:Long Sword
+C7C43928:Tachi
+C7C4392D:Pyreal
+C7C43929:Takuba
+C7C4392B:Large Round Shield
+C7C4392C:Shoes
+C7C4392E:Pyreal
+C7C4392F:High Mana Charge
+C7C43930:High Mana Charge
+C7C43931:Baron's Amulet of Life Giving
+C7C43932:Asheron's Raiment
+C7C4393A:Major Mana Stone
+C7C43934:Frost Tetsubo
+C7C43937:Gem
+C7C43935:Tetsubo
+C7C43936:Slashing Sceptre
+C7C43938:Lead Pea
+C7C43939:Scroll of Jahannan's Blessing
+C7C4393C:Armored Undead Legs
+C7C4393B:Resister's Crystal
+C7C4393D:Bracelet
+C7C4394A:Aluvian Leg
+C7C4393E:Viamontian Pants
+C7C4393F:Gem
+C7C43945:Rusty Lugian Axe
+C7C43940:Ring
+C7C43941:Puffy Shirt
+C7C43962:Stipend
+C7C43942:Loafers
+C7C43943:Leather Gauntlets
+C7C43944:Ring
+C7C43946:Gem
+C7C43947:Leather Sleeves
+C7C4394D:Ring
+C7C43948:Yoroi Girth
+C7C43949:Smock
+C8657FF7:Promissory Note
+C7C4394B:Pants
+C7C4394C:Chainmail Leggings
+C8658008:Promissory Note
+C7C4394E:Slashing Sceptre
+C7C4394F:Spadone
+C86178CA:Promissory Note
+C7C43950:Leather Tassets
+C7C43951:Yoroi Tassets
+C7C4395B:Gem
+C7C43952:Slippers
+C7C43953:Chainmail Sleeves
+C7C4395D:Gem
+C7C43954:Leather Girth
+C7C43955:Stoup
+C7C4395E:Gem
+C7C43956:Acid Claw
+C7C43957:Frost Board with Nail
+C7C43958:Covenant Pauldrons
+C7C43959:Baggy Breeches
+C7C4395A:Chainmail Sleeves
+C7C4395C:Sandals
+C85EC4E9:Promissory Note
+C7C4395F:Morning Star
+C7C43960:Shashqa
+C7C43961:Kote
+C7C43963:Staff
+
+Missing Exports - Possessed items that were not found:

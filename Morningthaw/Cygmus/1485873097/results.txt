@@ -1,0 +1,175 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap6\pkt_2017-1-31_1485873088_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap6\pkt_2017-1-25_1485413059_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap6\pkt_2017-1-25_1485413349_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap6\pkt_2017-1-25_1485413763_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap6\pkt_2017-1-26_1485458787_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap6\pkt_2017-1-27_1485565786_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap6\pkt_2017-1-27_1485566230_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap6\pkt_2017-1-28_1485636327_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap6\pkt_2017-1-28_1485652857_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap6\pkt_2017-1-29_1485750798_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap6\pkt_2017-1-30_1485841260_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap6\pkt_2017-1-31_1485869242_log.pcap
+
+Partial Exports - Missing appraisal info:
+9A0939DD:Rithwic Portal Gem
+9A0939E4:Brown Taper
+9A0939DE:Holtburg Portal Gem
+9A0939DF:Yanshi Portal Gem
+9A0939F4:Pyreal
+9A0939E5:Green Taper
+9A0939E6:White Taper
+9A0939E7:Yellow Taper
+9A0939E8:Turquoise Taper
+9A0939E9:Pink Taper
+9A0939EA:Orange Taper
+9A0939EB:Indigo Taper
+9A0939EC:Grey Taper
+9A0939ED:Cracked Shard
+9A0939EE:Scroll of Deception Mastery Self V
+9A0939EF:Red Taper
+9A0939F0:Violet Taper
+9A0939F1:Blue Taper
+9A0939F2:Yarrow
+9A0939F3:Pack
+9A0939F5:Major Smoldering Stone
+9A0939F9:Calling Stone
+9A0939FA:Seal
+9A0939FB:Little Green Seeds
+9A0939FC:A Small Mnemosyne
+9A0939FD:A Large Mnemosyne
+9A0939FE:Crystal Nodule
+9A093A00:Virindi Singularity Key
+9A093A01:MacDugal's Key
+9A093A03:Falcon Banner
+9A093A04:Major Shivering Stone
+9A093A05:Elaborate Scroll
+9A093A06:A Tiny Mnemosyne
+9A093A0A:Verdigris
+9A093A0B:Pack
+9A093A0C:Alder Talisman
+9A093A0D:Willow Talisman
+9A093A0E:Yew Talisman
+9A093A0F:Parchment
+9A093A12:Ebony Talisman
+9A093A13:Poplar Talisman
+9A093A14:Rowan Talisman
+9A093A15:Damiana
+9A093A16:Hemlock Talisman
+9A093A17:Iron Scarab
+9A093A18:Lead Scarab
+9A093A19:Ashwood Talisman
+9A093A1A:Silver Scarab
+9A093A1B:Copper Scarab
+9A093A1C:Ginseng
+9A093A1D:Saffron
+9A093A1E:Cedar Talisman
+9A093A21:Al-Arqas Portal Gem
+C68343EC:Little Green Seeds
+9A093A23:Vitriol
+9A093A24:Colcothar
+9A093A25:Cobalt
+9A093A26:Realgar
+9A093A27:Powdered Malachite
+9A093A28:Powdered Bloodstone
+9A093A29:Powdered Amber
+9A093A3E:An odd note 
+9A093A2A:Powdered Agate
+9A093A2B:Quicksilver
+9A093A41:Edicts of the Singularity
+9A093A2C:Stibnite
+9A093A2D:Turpeth
+9A093A2E:Gypsum
+9A093A2F:Cinnabar
+9A093A30:Cadmia
+9A093A31:Brimstone
+9A093A32:Powdered Hematite
+9A093A33:Powdered Quartz
+9A093A43:Directive Key
+9A093A34:Powdered Turquoise
+9A093A35:Hyssop
+9A093A42:Pack
+9A093A36:Comfrey
+9A093A37:Mandrake
+9A093A44:Directive Key
+9A093A38:Mugwort
+9A093A39:Powdered Onyx
+9A093A3B:Small Tusker Backpack
+9A093A45:Golden Key
+9A093A46:Superb Lockpick
+9A093A47:Tusker Head
+9A093A48:Sturdy Iron Key
+9A093A49:Sturdy Iron Key
+9A093A4A:Sturdy Iron Key
+9A093A4B:Sturdy Iron Key
+9A093A4C:Sturdy Iron Key
+9A093A4D:Sturdy Iron Key
+9A093A4E:Little Green Seeds
+9A093A4F:Purchasing Order
+9A093A50:Amaranth Pea
+9A093A53:Quicksilver Pea
+9A093A56:Parchment
+9A093A57:Parchment
+9A093A58:Gem of Stillness
+9A093A5A:Pack
+9A093A5B:Powdered Onyx Pea
+9A093A5C:Superb Lockpick
+9A093A5D:Pyreal Mote
+9A093A5F:A Tiny Mnemosyne
+9A093A60:Introduction to Devana
+9A093A61:Relanim Plant
+9A093A62:Thananim Plant
+9A093A65:Scrawled Note
+9A093A69:Powdered Moonstone Pea
+9A093A6B:Scroll of Summon Primary Portal I
+9A093A6C:Parchment
+9A093A6D:Mosswart Head
+9A093A6E:Swamp Stone
+9A093A71:A Tiny Mnemosyne
+9A093A75:Sturdy Iron Key
+9A093A76:Sturdy Iron Key
+9A093A77:Sturdy Iron Key
+9A093A7B:Gem
+9A093A7C:Northern Infiltrator Message Shard
+9A093A7E:Pink Pea
+9A093A7F:Turpeth Pea
+9A093A81:Poplar Pea
+9A093A82:Dragonsblood Pea
+9A093A83:Superb Lockpick
+9A093A86:Gold Scarab
+9A093A87:Cracked Shard
+9A093A88:A Scribbled Note
+9A093A89:Excellent Healing Kit
+9A093A8A:Excellent Healing Kit
+9A093AA6:Carved Key
+9A093AA7:Ash Gromnie Tooth
+9A093AA8:Peerless Healing Kit
+9A093AA9:Gem
+9A093AAB:Peerless Healing Kit
+9A093AAD:Peerless Healing Kit
+9A093AAE:Powdered Moonstone
+9A093AB2:Wormwood
+9A093AB9:Pack Ancient Olthoi Queen
+9A093ABA:Some Changes for February 2012
+C684E359:Empty Flask
+C682B0D1:A Field Guide to Tainted Nodes
+C6C84220:An old note 
+9A093A8B:Excellent Healing Kit
+9A093A8D:Excellent Healing Kit
+9A093A8E:Peerless Healing Kit
+9A093A90:Carenzi Stalker Pelt
+9A093A94:Elaniwood Golem Heart
+9A093A95:Potion of Healing
+9A093A98:Excellent Healing Kit
+9A093A99:Excellent Healing Kit
+9A093A9C:Health Elixir
+9A093AA1:Treated Healing Kit
+9A093AA2:Treated Healing Kit
+9A093AA3:Treated Healing Kit
+C6C9EEE5:Gem of Greater Luminance
+B2A47406:Imbue Swap Coin
+
+Missing Exports - Possessed items that were not found:

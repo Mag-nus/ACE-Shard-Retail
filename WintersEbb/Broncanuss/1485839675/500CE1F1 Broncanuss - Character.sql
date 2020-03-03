@@ -1,0 +1,42 @@
+INSERT INTO `character` (`id`, `account_Id`, `name`, `is_Plussed`, `is_Deleted`, `delete_Time`, `last_Login_Timestamp`, `total_Logins`, `character_Options_1`, `character_Options_2`, `gameplay_Options`, `spellbook_Filters`, `hair_Texture`, `default_Hair_Texture`)
+VALUES (1343021553, 0, 'Broncanuss', False, False, 0, 0, 0, 1892459842, 43288320, NULL, 5636, 0, 0);
+
+INSERT INTO `character_properties_shortcut_bar` (`character_Id`, `shortcut_Bar_Index`, `shortcut_Object_Id`)
+VALUES (1343021553, 0, 2465470008)
+     , (1343021553, 1, 2412254032)
+     , (1343021553, 2, 2438517363)
+     , (1343021553, 3, 1343021553);
+
+INSERT INTO `character_properties_spell_bar` (`character_Id`, `spell_Bar_Number`, `spell_Bar_Index`, `spell_Id`)
+VALUES (1343021553, 0, 0, 2073)
+     , (1343021553, 0, 1, 2759)
+     , (1343021553, 0, 2, 85)
+     , (1343021553, 0, 3, 1182)
+     , (1343021553, 0, 4, 2345)
+     , (1343021553, 0, 5, 2645)
+     , (1343021553, 2, 0, 24)
+     , (1343021553, 2, 1, 64)
+     , (1343021553, 2, 2, 35)
+     , (1343021553, 2, 3, 1105)
+     , (1343021553, 7, 0, 2644)
+     , (1343021553, 7, 1, 1635)
+     , (1343021553, 7, 2, 2645)
+     , (1343021553, 7, 3, 47)
+     , (1343021553, 7, 4, 48)
+     , (1343021553, 7, 5, 157)
+     , (1343021553, 7, 6, 2646)
+     , (1343021553, 7, 7, 2647)
+     , (1343021553, 7, 8, 2648);
+
+INSERT INTO `character_properties_title_book` (`character_Id`, `title_Id`)
+VALUES (1343021553, 1)
+     , (1343021553, 33)
+     , (1343021553, 43)
+     , (1343021553, 61)
+     , (1343021553, 86)
+     , (1343021553, 94)
+     , (1343021553, 112)
+     , (1343021553, 116)
+     , (1343021553, 117)
+     , (1343021553, 765)
+     , (1343021553, 766);

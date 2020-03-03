@@ -1,0 +1,14 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485839341_log.pcap
+
+Partial Exports - Missing appraisal info:
+9197C855:Pyreal
+9197BB03:Leather Boots
+9197C648:Foci of Artifice
+9196B235:Prismatic Taper
+918D7AC5:Lead Scarab
+9196B232:Greeter's Key
+9197C626:Some Changes for February 2012
+9197C715:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,67 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485761098_log.pcap
+
+Partial Exports - Missing appraisal info:
+811D996B:Pack
+811D996C:Pack
+811D996F:Dirk
+811D9970:Dirk
+811D9971:Dirk
+811D9972:Dirk
+811D9973:Acid Takuba
+811D9974:Acid Kaskara
+811D9975:Flaming Broad Sword
+811D9976:Scimitar
+811D9977:Lightning Takuba
+811D9978:Lightning Scimitar
+811D997C:Frost Tofun
+811D9983:Trident
+811D9985:Pack
+811D9990:Lightning Broad Sword
+811D9991:Scimitar
+811D9992:Shamshir
+811D9993:Shamshir
+811D9995:Fire Sceptre
+811D9996:Fire Sceptre
+811D9997:Fire Sceptre
+811D99C1:Tanami's Crossbow
+811D9998:Singularity Keyring
+811D9999:Singularity Keyring
+811D999A:Marble Keyring
+811D999B:Pack
+811D999C:Wand
+811D999D:Orb
+811D999F:Sceptre
+811D99A0:Sceptre
+811D99A1:Wand
+811D99A3:Wand
+811D99A5:Staff
+811D99A6:Orb
+811D99A8:Wand
+811D99A9:Asheron's Benediction
+811D99AA:Blackmoor's Favor
+811D99AB:Electric Board with Nail
+811D99E5:Some Changes for February 2012
+811D99AE:Pack
+811D99C7:Pack
+811D99C8:Atlatl
+811D99C9:Fire Crossbow
+811D99CA:Heavy Crossbow
+811D99CC:Heavy Crossbow
+811D99CD:Heavy Crossbow
+811D99CE:Heavy Crossbow
+811D99CF:Heavy Crossbow
+811D99D0:Heavy Crossbow
+811D99D1:Heavy Crossbow
+811D99D2:Heavy Crossbow
+811D99D5:Heavy Crossbow
+811D99D6:Electric Crossbow
+811D99DA:Flaming Scimitar
+811D99DF:Frost Crossbow
+811D99E0:Pack
+811D99E1:Orb
+811D99E4:Quintessence Sickle
+811D99E3:Perfect Isparian Sword
+811D99E6:Quest Weapon Coin
+
+Missing Exports - Possessed items that were not found:

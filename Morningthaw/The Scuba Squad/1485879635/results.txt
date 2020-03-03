@@ -1,0 +1,117 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-31_1485879631_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\The-Scuba-Squad-01-30-2017-Tusker-Lacuna\The Scuba Squad - 01-30-2017 - Tusker Lacuna.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-26_1485490658_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-27_1485546932_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-28_1485647469_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-27_1485548779_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-27_1485550402_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-27_1485522509_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-27_1485528236_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-27_1485531435_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-27_1485531435_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-27_1485537010_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-27_1485537010_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-26_1485439091_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-31_1485865620_log.pcap
+
+Partial Exports - Missing appraisal info:
+99D6ECDD:Ust
+99D81F10:Gold Scarab
+99DABCD3:Iron Scarab
+99D49D9E:Pyreal Scarab
+99D6E002:Lead Scarab
+99DC5225:Chorizite
+99CD586A:Silver Scarab
+99DAC215:Prismatic Taper
+99D6E8E9:Platinum Scarab
+C62BF943:Prismatic Taper
+C692DC83:Coalesced Aetheria
+C68E4DF5:Diamond Scarab
+C68E825C:Copper Scarab
+C6B6C2A4:Tusker Island Shirt
+C6B6C2A1:Tusker Island Shirt
+C6B6C35F:Pyreal
+C6B6C36B:Tusker Island Shirt
+C6B6C299:Tusker Island Shirt
+C6B6C35E:Pyreal
+C6B6C28D:Tusker Island Shirt
+99DC2EDF:Foci of Artifice
+C6903150:Massive Mana Charge
+99DC2EDE:Foci of Verdancy
+C5B0B8FF:Shoyanen's Portal Gem
+C6887908:Massive Mana Charge
+C68C9DE7:Massive Mana Charge
+C68C9EAE:Massive Mana Charge
+C686C155:Massive Mana Charge
+C68FD570:Greater Mana Kit
+C68C9FB8:Greater Stamina Kit
+C6887AFC:Greater Mana Kit
+99DAB732:Refined Low-Grade Chorizite
+99DAB700:Asheron's Benediction
+99DAC222:Blackmoor's Favor
+99AF9F5A:Virindi Singularity Key
+C6927F82:Sceptre
+C6930970:Observer's Crystal
+99DC4E3F:Elemental Master Robe
+99DABD56:Asheron's Supreme Raiment
+C692371C:Burun
+99DAB4AF:Quill of Infliction
+B0C7D1D9:Silver Pea
+C68CA618:Gem of Lesser Luminance
+C68C1991:Black Market Gem of Dispelling
+C68CA7B1:Chocolate Gromnie
+C68D21FB:Licorice Rat
+C68CA652:Renegade Herbal Kit
+C6888634:Promissory Note
+C68C8A55:Colosseum Ticket
+C69038EC:Deed
+C6921F15:Golden Gromnie
+C69223BD:Pack Scarecrow
+C6926D39:Small Olthoi Venom Sac
+C69304DF:Ghost
+C68FDD10:Renegade Herbal Kit
+C692FB7D:Greater Stamina Kit
+C6932B49:Elaborate Field Rations
+C68B5BD5:Bracelet
+C68B5BEC:Quartered Cloak
+C68F5312:Sceptre
+C69088CF:Mana Scarab
+C65BA26C:Glyph of Bludgeoning
+C65FD961:Glyph of Alchemy
+C68FDD06:Snowman
+C65FD95B:Ink of Separation
+C66121DF:Ink of Formation
+C65EA05D:Quill of Extraction
+C65CA9AE:Glyph of Piercing
+C65FC210:Glyph of Stamina
+C674F46C:Quill of Benevolence
+C694903F:Relanim Plant
+C674F455:Ink of Conveyance
+C69424C3:Quill of Introspection
+C69424C2:Ink of Objectification
+C69421AE:Alacritous Ink
+C68FDD13:Black Market Gem of Dispelling
+C689C522:Enhanced Mana Elixir
+C684E1C7:Licorice Rat
+C68880CA:Enhanced Health Elixir
+C692A7AD:Stipend
+C692DC14:Wand
+C69421AD:Glyph of Lightning
+C69421AF:Glyph of Recklessness
+C692FFD7:Hawthorn
+C692FFA7:Hyssop
+C6933566:Small Shard
+C6936472:Missile Weapons Gem of Enlightenment
+931764A7:Pack Grael
+8060FC6B:Trade Note (250,000)
+C693E4DC:Aphus Lassel Portal Gem
+C6B4FA02:Aphus Lassel Portal Gem
+C6B6C2B6:Tusker Island Shirt
+C6B6C488:Hoory Mattekar Over-robe
+C6B6D48F:Hoory Mattekar Over-robe
+C6B6C2A7:Tusker Island Shirt
+
+Missing Exports - Possessed items that were not found:

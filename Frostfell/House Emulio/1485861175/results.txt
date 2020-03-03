@@ -1,0 +1,122 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Cyberkiller-01-31-2017-Random\pkt_2017-1-31_1485861002_log.pcap
+
+Partial Exports - Missing appraisal info:
+DD32A3B6:Ust
+DD32A3B5:Calling Stone
+DD32A3B4:Pathwarden Token
+DD32A3B1:Blackmoor's Favor
+DD32A3AF:Pack
+DD32A390:Arcane Pedestal
+DD32A3AB:Electric Crossbow
+DD32A38C:Chalk Board
+DD32A3A8:Peppermint Stick
+DD32A3A6:Celdon Leggings
+DD32A38B:Snowy Cabin Snowglobe
+DD32A3A2:Amuli Leggings
+DD32A389:Chandelier
+DD32A39F:Greater Olthoi Sollerets
+DD32A39E:Greater Olthoi Greaves
+DD32A396:Pack
+DD32A39D:Greater Olthoi Tassets
+DD32A39C:Greater Olthoi Girth
+DD32A395:Basalt Blade
+DD32A39A:Greater Olthoi Pauldrons
+DD32A394:Pack Grael
+DD32A398:Greater Olthoi Gauntlets
+DD32A397:Virindi Inquisitor's Mask
+DD32A392:Pack Gaerlan
+DD32A393:Virindi Profatrix Mask
+DD32A391:Shield of the Simulacra
+DD32A38F:Fertilized Fly Trap
+DD32A38E:Sanguinary Aegis
+DD32A38D:Fireworks
+DD32A38A:Pack Burun Kukuur
+DD32A388:Evil Couch
+DD32A387:Pack Bael'Zharon
+DD32A386:Shadow Cursed Totem
+DD32A385:Hieromancer's Crystal
+DD32A384:Oswald's Crystal
+DD32A383:Evader's Crystal
+DD32A382:Scholar's Crystal
+DD32A381:Chef's Crystal
+DD32A380:Ursuin Rug
+DD32A37F:Pack T'thuun
+DD32A37E:Celdon Breastplate
+DD32A37D:Ebon Spine Harpoon
+DD32A37A:Empowered Tassets of the Perfect Light
+DD32A373:Couch
+DD32A379:Empowered Greaves of the Perfect Light
+DD32A378:Amuli Leggings
+DD32A376:Chainmail Greaves
+DD32A372:Pouch of Dried Meat
+DD32A375:Cuirass
+DD32A374:Tenassa Leggings
+DD32A371:Mortar and Pestle
+DD32A36F:Gloves
+DD32A36E:Pack Ancient Olthoi Queen
+DD32A36D:Pack Ancient Olthoi Queen
+DD32A36C:Salvage (100)
+DD32A36B:Salvage (100)
+DD32A36A:Salvage (100)
+DD32A369:Salvage (100)
+DD32A368:Salvage (100)
+DD32A367:Salvage (100)
+DD32A366:Salvage (100)
+DD32A365:Salvage (100)
+DD32A363:Steel Toed Boots
+DD32A362:Studded Leather Basinet
+DD32A361:Olthoi Alduressa Gauntlets
+DD32A360:Haebrean Pauldrons
+DD32A35F:Nariyid Leggings
+DD32A35E:Tenassa Leggings
+DD32A35D:Steel Toed Boots
+DD32A35C:Slippers
+DD32A35A:Olthoi Koujia Sleeves
+DD32A359:Flaming Knuckles
+DD32A358:Olthoi Amuli Coat
+DD32A357:Circlet
+DD32A356:Pants
+DD32A355:Smock
+DD32A354:Olthoi Celdon Helm
+DD32A353:Slippers
+DD32A350:Ring
+DD32A352:Leather Shorts
+DD32A351:Crown
+DD32A34F:Leather Leggings
+DD32A34E:Diforsa Gauntlets
+DD32A33B:Turban
+DD32A34C:Leather Helm
+DD32A342:Sollerets
+DD32A34B:Studded Leather Greaves
+DD32A34A:Studded Leather Leggings
+DD32A349:Loose Pants
+DD32A348:Shirt
+DD32A347:Viamontian Pants
+DD32A346:Baggy Shirt
+DD32A344:Celdon Leggings
+DD32A343:Leather Shirt
+DD32A341:Haebrean Breastplate
+DD32A33F:Olthoi Alduressa Leggings
+DD32A33E:Heavy Bracelet
+DD32A33D:Studded Leather Sleeves
+DD32A33A:Vestiri Over-robe
+DD32A339:Heavy Bracelet
+DD32A338:Trousers
+DD32A336:Studded Leather Boots
+DD32A335:Leather Helm
+DD32A334:Aetheria
+DD32A333:Loose Pants
+DD32A331:Smock
+DD32A330:Gorget
+DD32A32F:Olthoi Amuli Sollerets
+DD32A32D:Leather Pants
+DD32A32C:Cloth Gloves
+DD32A32B:Olthoi Koujia Kabuton
+DD32A32A:Olthoi Girth
+DD32A328:Pants
+DD32A327:Loafers
+DD32A325:Ring
+DD32A326:Nariyid Sleeves
+
+Missing Exports - Possessed items that were not found:

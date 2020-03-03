@@ -1,0 +1,59 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\MakosaHG-01-23-2017-pkt_2017-1-23_1485223807_log\pkt_2017-1-23_1485223807_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-29-2017-pkt_2017-1-29_1485736450_log\pkt_2017-1-29_1485736450_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-31-2017-pkt_2017-1-31_1485847239_log\pkt_2017-1-31_1485847239_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-31-2017-pkt_2017-1-31_1485849958_log\pkt_2017-1-31_1485849958_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-31-2017-pkt_2017-1-31_1485849958_log\pkt_2017-1-31_1485849958_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-31-2017-pkt_2017-1-31_1485858897_log\pkt_2017-1-31_1485858897_log.pcap
+
+Partial Exports - Missing appraisal info:
+C7802627:Baggy Shirt
+C7802628:Trousers
+C780262B:Sack
+C7802634:Lead Scarab
+C7802633:Prismatic Taper
+C7CDE2A0:Asheron's Benediction
+C780262C:Ust
+C7CAE196:Facility Hub Portal Gem
+C7CC93FC:Blackmoor's Favor
+C7CDF0A9:Sturdy Iron Key
+C7CB2B7F:Simple Dried Rations
+C7CE74F6:Cooking Pot
+C7CCEB90:Hot Sauce
+C7D0C574:Wrapped Bundle of Arrowshafts
+C7C50DDE:Trade Note (250,000)
+C7D17A26:Invitation to Master Fletchers
+C7BFB1FB:Pyreal
+C7D3C1BF:Copper Scarab
+C7D48C92:Silver Scarab
+C7CFE8E0:Simple Field Rations
+C7D01C8B:Simple Field Health Rations
+C7C43378:Exquisite Elari Wood Bow
+C7B18DB1:Pathwarden Trinket
+C7D24C69:Trade Note (50,000)
+C7E29D7F:Aphus Lassel Portal Gem
+C7CCE651:Pack
+C7802632:Foci of Artifice
+C7C43351:Crystal Fragment
+C7C4336F:Small Shard
+C7C43379:Crystal Fragment
+C7C4336E:Pyreal Mote
+C7C125A3:Dark Shard
+C7C0AA53:Shadow Fragment
+C7C128A6:Dark Sliver
+C7C4335E:Lucky Gold Letter
+C7DD3A12:Cracked Shard
+C7C4331A:Baron's Amulet of Life Giving
+C7CB2AB8:Pyreal
+C7B63CB0:Pyreal
+C7CA5EAD:Pyreal
+C7CFA38D:Pyreal
+C7C9B5D2:Pyreal
+C7CFA3C6:Pyreal
+C7E34ED4:Stipend
+C7CFA392:Pyreal
+C7C96CBF:Academy Wand
+
+Missing Exports - Possessed items that were not found:

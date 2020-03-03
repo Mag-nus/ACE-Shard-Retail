@@ -1,0 +1,151 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Cyberkiller-01-31-2017-Random\pkt_2017-1-31_1485858208_log.pcap
+
+Partial Exports - Missing appraisal info:
+DD30D5C2:Ust
+DD30D5C3:Calling Stone
+DD30D5C5:Facility Hub Portal Gem
+DD30D5C7:Swamp Stone
+DD30D659:Stipend
+DD30D5C9:Pack
+DD30D5CA:Frost Stick
+DD30D5D3:Pack
+DD30D5D0:Spine Glaive
+DD30D5D5:Studded Leather Bracers
+DD30D5D8:Olthoi Koujia Breastplate
+DD30D5DA:Shoes
+DD30D5DC:Celdon Sleeves
+DD30D5E0:Amuli Coat
+DD30D5E3:Shoes
+DD30D5EA:Hood
+DD30D5EB:Alduressa Leggings
+DD30D5EC:Pack
+DD30D5ED:Shoes
+DD30D5F2:Slippers
+DD30D5F3:Scalemail Sleeves
+DD30D5F4:Cloth Gloves
+DD30D5F6:Olthoi Koujia Sollerets
+DD30D5F9:Nariyid Helm
+DD30D605:Pack
+DD30D5FC:Lorica Sleeves
+DD30D5FE:Loafers
+DD30D5FF:Amuli Leggings
+DD30D615:Pack
+DD30D601:Studded Leather Sleeves
+DD30D606:Arctic Grievver Essence
+DD30D60E:K'nath T'soct Essence
+DD30D616:Pantaloons
+DD30D617:Puffy Shirt
+DD30D618:Trousers
+DD30D61A:Baggy Shirt
+DD30D61C:Puffy Shirt
+DD30D61D:Trousers
+DD30D61F:Trousers
+DD30D620:Loose Shirt
+DD30D621:Trousers
+DD30D623:Baggy Pants
+DD30D624:Shirt
+DD30D625:Chevron Cloak
+DD30D626:Trimmed Cloak
+DD30D62A:Pack
+DD30D628:Trimmed Cloak
+DD30D640:Pack
+DD30D62B:Heavy Bracelet
+DD30D62D:Goggles
+DD30D62E:Top
+DD30D62F:Heavy Bracelet
+DD30D631:Ring
+DD30D633:Gorget
+DD30D634:Heavy Necklace
+DD30D636:Bracelet
+DD30D637:Heavy Bracelet
+DD30D638:Heavy Necklace
+DD30D63A:Ring
+DD30D639:Heavy Necklace
+DD30D63B:Ring
+DD30D63C:Heavy Bracelet
+DD30D63E:Heavy Bracelet
+DD30D641:Leather Greaves
+DD30D645:Crown
+DD30D646:Cloth Cap
+DD30D649:Loafers
+DD30D64C:Celdon Leggings
+DD30D64F:Studded Leather Cuirass
+DD30D651:Tenassa Breastplate
+DD30D653:Celdon Sleeves
+DD30D655:Scalemail Shirt
+DD30D657:Cloth Gloves
+DD30D674:Bandana
+DD30D658:Cloth Gloves
+DD30D65A:Chiran Coat
+DD30D65B:Lorica Helm
+DD30D65C:Olthoi Alduressa Helm
+DD30D65D:Nariyid Girth
+DD30D65F:Vestiri Over-robe
+DD30D660:Amuli Coat
+DD30D661:Olthoi Koujia Sollerets
+DD30D663:Olthoi Alduressa Boots
+DD30D665:Scalemail Leggings
+DD30D666:Studded Leather Boots
+DD30D668:Studded Leather Cowl
+DD30D669:Platemail Greaves
+DD30D66A:Leather Shorts
+DD30D66B:Leather Sleeves
+DD30D66C:Olthoi Alduressa Leggings
+DD30D66D:Sedgemail Leather Gauntlets
+DD30D66F:Chainmail Shirt
+DD30D671:Leather Boots
+DD30D672:Knorr Academy Boots
+DD30D673:Koujia Leggings
+DD30D675:Salvage
+DD30D676:Cloth Gloves
+DD30D678:Olthoi Amuli Sollerets
+DD30D679:Leather Sleeves
+DD30D67B:Bandana
+DD30D67C:Leather Greaves
+DD30D681:Ring
+DD30D67D:Yoroi Sleeves
+DD30D67E:Celdon Breastplate
+DD30D67F:Hood
+DD30D680:Olthoi Celdon Gauntlets
+DD30D682:Scalemail Girth
+DD30D683:Lyceum Hood
+DD30D684:Platemail Girth
+DD30D686:Alduressa Coat
+DD30D687:Studded Leather Basinet
+DD30D689:Gorget
+DD30D68A:Puzzle Box
+DD30D68B:Slashing Bow
+DD30D68C:Heavy Necklace
+DD30D68D:Top
+DD30D68E:Ring
+DD30D68F:Heavy Bracelet
+DD30D690:Lorica Sleeves
+DD30D692:Studded Leather Cowl
+DD30D693:Nether Staff
+DD30D695:Ring
+DD30D696:Heavy Bracelet
+DD30D697:Ring
+DD30D698:Golden Gromnie
+DD30D699:Golden Gromnie
+DD30D69A:Salvage
+DD30D69B:Salvage
+DD30D69F:Ring
+DD30D69C:Salvage
+DD30D69D:Salvage
+DD30D6A1:Bracelet
+DD30D69E:Salvage
+DD30D6A0:Fire Staff
+DD30D6A3:Cloth Gloves
+DD30D6A5:Ring
+DD30D6A4:Chainmail Leggings
+DD30D6A6:Ring
+DD30D6A8:Ring
+DD30D6AA:Koujia Sleeves
+DD30D6AB:Leather Shorts
+DD30D6AD:Fez
+DD30D6AE:Lyceum Hood
+DD30D6AF:Chainmail Tassets
+DD30D6B1:Heavy Bracelet
+
+Missing Exports - Possessed items that were not found:

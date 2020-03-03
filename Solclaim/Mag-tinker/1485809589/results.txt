@@ -1,0 +1,112 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-30_1485809436_log.pcap
+
+Partial Exports - Missing appraisal info:
+9C47CA7B:Pack
+9C4C520D:Massive Mana Charge
+9C38A7B6:Massive Mana Charge
+9C4C5214:Massive Mana Charge
+9C47BD0C:Massive Mana Charge
+9C4C5772:Massive Mana Charge
+9C47CA36:Massive Mana Charge
+9C47C072:Massive Mana Charge
+9C3896DC:Massive Mana Charge
+9C423917:Massive Mana Charge
+9C47B317:Massive Mana Charge
+9C47BE8D:Massive Mana Charge
+9C47B609:Massive Mana Charge
+9C47B755:Massive Mana Charge
+9C47CAB6:Massive Mana Charge
+9C47B924:Massive Mana Charge
+9C47BE3B:Massive Mana Charge
+9C3B8468:Massive Mana Charge
+9C4C5549:Massive Mana Charge
+9C47CAA1:Massive Mana Charge
+9C47B3D0:Massive Mana Charge
+9C4C549D:Massive Mana Charge
+9C47CAA8:Massive Mana Charge
+9C38A92C:Massive Mana Charge
+9C4C5277:Pack
+9C4C5275:Prismatic Taper
+9C4C5332:Pyreal Scarab
+9C47BE6E:Silver Scarab
+9C4240D7:Copper Scarab
+9C47B75A:Mana Scarab
+9C324C2E:Treated Healing Kit
+9C4C5542:Treated Healing Kit
+9C47B3B5:Treated Healing Kit
+9C352E99:Prismatic Taper
+9C4240F0:Prismatic Taper
+9C47CBE5:Treated Healing Kit
+9C4C554A:Treated Healing Kit
+9C389F22:Platinum Scarab
+9C4C523E:Ust
+9C47B946:Trade Note (10,000)
+9C323F0A:Trade Note (250,000)
+9C4252C1:Pack
+9C4C542F:Cooking Pot
+9C425361:Cooking Pot
+9C424AAE:Mortar and Pestle
+9C4257F8:Neutral Balm
+9C47B59B:Concentrated Bloodhunter Oil
+9C47B32C:Major Mana Stone
+9C38A9CD:Major Mana Stone
+9C4C4EB9:Major Mana Stone
+9C4235AD:Major Mana Stone
+9C4C4EB8:Major Mana Stone
+9C40BAEB:Major Mana Stone
+9C35316C:Major Mana Stone
+9C4C5428:Minalim Plant
+9C47CAE1:Argenory Plant
+9C47B4CB:Major Mana Stone
+9C4C5338:Major Mana Stone
+9C47B29B:Pack
+9C4C56E7:Some Changes for February 2012
+9C424120:Salvaged  (100)
+9C47BD1B:Salvaged  (100)
+9C373B34:Salvaged  (100)
+9C47B3EB:Salvaged  (100)
+9C47B989:Salvaged  (100)
+9C4C572D:Salvaged  (100)
+9C4242A4:Salvaged  (100)
+9C47BDFD:Salvaged  (100)
+9C47BDCD:Foci of Artifice
+9C47BD30:Foci of Verdancy
+9C4C5431:Foci of Enchantment
+9C352699:Salvaged  (100)
+9C424F56:Salvaged  (100)
+9C47B4E4:Salvaged  (100)
+9C35C357:Major Item Tinkering Armature
+9C352416:Major Item Tinkering Armature
+9C4C574F:Major Item Tinkering Armature
+9C374997:Salvaged  (100)
+9C4C5227:Salvaged  (100)
+9C47CA6B:Moderate Item Tinkering Armature
+9C423E04:Minor Item Tinkering Armature
+9C4A95EB:Salvaged  (100)
+9C4C574E:Salvaged  (100)
+9C4C5430:Salvaged  (100)
+9C38B140:Salvaged  (100)
+9C47B3DB:Salvaged  (100)
+9C4C5748:Salvaged  (100)
+9C42411A:Salvaged  (100)
+9C47BE5F:Salvaged  (100)
+9C352191:Salvage
+9C47B58A:Salvage
+9C47B66C:Salvage
+9C38A2E8:Salvage
+9C4C5492:Salvage
+9C47CB99:Salvage
+9C4C5233:Salvage
+9C4C5753:Salvage
+9C42396F:Salvage
+9C352384:Salvage
+9C2F8643:Salvage
+9C38AABD:Salvage
+9C47B555:Salvage
+9C322E6A:Salvage
+9C47B6BE:Salvage
+9C4C58CC:Salvaged  (100)
+9C47B839:Salvaged  (100)
+
+Missing Exports - Possessed items that were not found:

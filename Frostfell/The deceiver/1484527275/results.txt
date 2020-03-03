@@ -1,0 +1,27 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-15_1484527222_log.pcap
+
+Partial Exports - Missing appraisal info:
+DC14AC2E:Cloth Cap
+DC14AC2D:Baggy Shirt
+DC14AC2C:Wide Breeches
+DC14AC2A:Pyreal
+DC14AC2B:Shoes
+DC14AC29:Foci of Verdancy
+DC14AC28:Foci of Strife
+DC14AC27:Prismatic Taper
+DC14AC26:Lead Scarab
+DC14AC25:Bread
+DC14AC24:Welcome Letter
+DC14AC23:Sack
+DC14AC22:Calling Stone
+DC14AC21:Greeter's Key
+DC14AC20:Starter Knife
+DC14AC1F:Quartermaster's Workshop Key
+DC14AC1E:Aluvian Wand
+DC14AC1D:Academy Coat
+DC14AC1C:Some Changes for February 2012
+DC14AC1B:Blackmoor's Favor
+DC14AC1A:Academy Wand
+
+Missing Exports - Possessed items that were not found:

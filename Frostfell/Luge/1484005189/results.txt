@@ -1,0 +1,204 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Callaway-01-10-2017-MountLetheGraveyard\pkt_2017-1-9_1483999981_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\gdrive (tfarley)\Callaway\Asheron's Call\pkt_2017-1-9_1483999981_log.pcap
+
+Partial Exports - Missing appraisal info:
+B0CE8F32:Aphus Lassel Portal Gem
+B0CEB095:Pyreal
+B0CE8F38:Colosseum Coin
+B0ACDD44:Broken Virindi Observer Mask
+B0ACCD2C:Adventurer's Token
+B0ACE8F0:Stipend
+B0CEB098:Aetheria Mana Stone
+B0CEFC53:Southern Quiddity Fragment
+B0CEFC42:Broken Virindi Desecrator Mask
+B0CEFC7D:Black Page of Salt and Ash
+B0CEFC5E:Golden Key
+B0CEAF76:Sketch of a Viamontian
+B04AE656:Vial of Organic Acid
+B0CEAFC3:Portal Gem to the Callous Heart
+B0CEFC65:Inert Mucor
+B0CEFC66:Blank Augmentation Gem
+B0CEAFA0:Aetheria Desiccant
+B0C52B13:Twilight Fragment
+AFF72137:Trade Note (250,000)
+B0CEF993:Prismatic Taper
+B0CEFC68:Salvage (100)
+B0CEFDB2:Aged Legendary Key
+B0CEAF40:Aged Legendary Key
+B0CEFCE8:Aged Legendary Key
+B0C7DF3F:Ust
+B0C67502:Foci of Artifice
+B0CEFD05:Asheron's Benediction
+B0CEFC73:Blackmoor's Favor
+B0CEAF9F:Morning Star
+B0BE960B:Lightning Cestus
+B0C67526:Halved Cloak
+B0ACED6E:Ghostly Shroud
+B0CEFC52:Mask of the Depths
+B0CEAF7D:Alduressa Boots
+B0CEC783:Dirk of the Fallen
+B0CEFCF7:Dirk of the Fallen
+B0CEFC97:Katar of the Fallen
+B0CEFD09:Club of Killagurg
+B0CEAF9E:Lightning Lugian Hammer
+B0C36D34:Lugian Hammer
+B0C52AEE:Pants
+B09337E5:Trousers
+B0CEFCE0:Hero Token
+B0CEFC67:Shirt
+B0CEFC7C:Salvage (100)
+B092B5B8:Renegade Herbal Kit
+B0CEFD32:Salvage (100)
+B0CEFC8B:Salvage (100)
+B0C8BE5A:Salvage (100)
+B0CEAF9D:Salvage (100)
+B0CEFC72:Renegade Herbal Kit
+B0CE8F55:Dericost Blade
+B0CE8F53:Blessed Spear of the Mosswart Gods
+B0CEB0B9:Asheron's Supreme Raiment
+B0CE9ED8:Vissidal Island Portal Gem
+B0CE8F54:Aetheria
+B0ACCFF4:Renegade Herbal Kit
+B041F419:Renegade Herbal Kit
+B0CEFC75:Mana Scarab
+B0CEFC64:Greater Stamina Kit
+B0CEFA26:Greater Stamina Kit
+B0CEFC7F:Greater Stamina Kit
+B0CEAF9C:Olthoi Larvae Steak
+B0CEAF13:Aged Legendary Key
+B0CEFD2A:Aged Legendary Key
+B0CEFCDF:Upper Insatiable Eater Jaw
+B0CEFCF6:Upper Insatiable Eater Jaw
+DB7DDE0F:Upper Insatiable Eater Jaw
+B0CEAF9B:Gold Pea
+B0ACC98E:Silver Scarab
+B0CEFCAC:Lead Scarab
+B0C532AC:Gold Scarab
+B0CEFC92:Hyssop
+B0BF02E3:Mana Philtre
+B0CEAF9A:Facility Hub Portal Gem
+B0CEAF99:Copper Scarab
+B0CEFC5D:Iron Scarab
+B0CEFC79:Pyreal Scarab
+B0909E97:Platinum Scarab
+B0C670EB:Asteliary Crafter's Message Shard
+B0CEFCBE:Rage of Grael Gem
+B0CEAFC5:Replica Sword of Bellenesse
+B092C03E:Aged Legendary Key
+B0CEFC8A:Aetheria Powder
+B0928BAD:Salvage (100)
+B0CEFCA3:Lesser Stamina Kit
+B0CEFC86:Salvage (100)
+B0AD4719:Salvage (100)
+B0B41D53:Salvage (100)
+B0CEAFC4:Salvage (100)
+B0CEFCB7:Renegade Herbal Kit
+B0CEFCD3:Nariyid Sleeves
+B0CEFC94:Renegade Herbal Kit
+B0CEFCBC:Renegade Herbal Kit
+B0933814:Renegade Herbal Kit
+B0CEFCAB:Renegade Herbal Kit
+B091CA25:Sezzherei's Lair
+B09211EF:Sezzherei's Lair
+B04910CE:Renegade Herbal Kit
+B042D4E2:Aetheria
+B0CEFCA1:Tunic
+B0AD9E7B:Ring
+B0B0F80A:Assault Axe
+B0CEFCAA:Haebrean Gauntlets
+B0749329:Asheron Mask
+B0C52B0A:Plentiful Healing Kit
+B0CEFD59:Aetheria
+B0CEFCD0:Salvage (100)
+B0CEFCCF:Sturdy Steel Keyring
+B0932A25:Salvage (100)
+B0CE9F7D:Salvage (100)
+B0CEFCB4:Sturdy Iron Keyring
+B0CEFCA2:Salvage (100)
+B0CEFCD1:Salvage (9)
+B0CEFCB5:Sturdy Steel Keyring
+B092A3D8:Salvage (20)
+B0CEFD22:Sturdy Steel Keyring
+B092C987:Whispering Blade Boots
+B0CEB0FA:Salvage (23)
+B0CEFCA7:Foci of Verdancy
+B0CEB0DF:Salvage (11)
+B0CEFCD5:Snowman Mask
+B093367A:Salvage (10)
+B0CEFD12:Blank Augmentation Gem
+B0CEFCD8:Royal Runed Bastone
+B0CEFCCC:Sanguinary Aegis
+B0749AC6:Salvage (11)
+B0CEFC9F:Salvage (10)
+B0CEFD00:Blank Augmentation Gem
+B0CEB18E:Salvage (72)
+B0CEB0F9:Salvage (19)
+B0CEFCF9:Token of the Pumpkin Lord
+B0CEFCB8:Salvage (30)
+B0ADA2D5:Salvage (55)
+DAAD5AAC:Essence of Cave Penguin
+B0CEFCB0:Salvage (65)
+DB2FDECC:Blank Augmentation Gem
+B0C6748C:Caliginous Aegis
+B0CEFCB1:Salvage (22)
+B0CEFCEF:Salvage (75)
+B0CEFC98:The Eye of Drageerg
+B0CEFCB2:Salvage (95)
+B0AAB9D7:Aetheria
+B0363979:Tusker Skull Helm
+B0CEFCC2:Salvage (100)
+B0CEFCCA:Salvage (27)
+B0C674E9:Salvage (75)
+B0CEFCE2:Salvage (42)
+B0CEFCC7:Salvage (36)
+B0ADA2ED:Salvage (37)
+B0B40C4C:Aetheria Powder
+B0CECC51:Salvage (80)
+B0CEFCFA:Salvage (33)
+B0CEFCC8:Salvage (100)
+B0CEFCCD:Salvage (66)
+B0CEFCDE:Salvage (100)
+B0C674DE:Salvage (96)
+B092A55F:Salvage (10)
+B0CEFCBA:Salvage (100)
+B0CEFCBB:Salvage (22)
+B0CEB00C:Salvage (100)
+B0CEFCC3:Salvage (18)
+B0C52220:Salvage (93)
+B0C27E78:Salvage (69)
+B0ADA2E5:Salvage (18)
+B0CEFD02:Salvage (87)
+B0CEFCD2:Salvage (100)
+B0CEFCE6:Salvage (61)
+B0CEFCD6:Salvage (18)
+B0CEFD6E:Salvage (86)
+B0925FBD:Salvage (100)
+B0CEFD03:Salvage (51)
+B0CEA812:Salvage (48)
+B0CEFCF1:Salvage (56)
+B0CEFCEB:Salvage (41)
+B0CEFDA2:Salvage (100)
+B09D12C6:Salvage (15)
+B0CE8FBF:Salvage (45)
+B0CE89EB:Salvage (69)
+B0CE8FBB:Salvage (8)
+B0CE8FBE:Salvage (88)
+B0CEFCEE:Salvage (100)
+B0CEFCC4:Salvage (18)
+B0C37FE3:Salvage (45)
+B0CEB109:Salvage (80)
+B0CEAE15:Salvage (100)
+B0AD9E5E:Intricate Carving Tool
+B092B49D:Compass
+DA84D8D8:White Fire Infusion
+B0CEFC80:Cloth Gloves
+B0CEFD06:Crown
+B0CEFC4A:Cloth Gloves
+B0ACCBA0:Shoes
+B0CEFCA4:Knife
+B0CEB07F:Teardrop Crown
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,62 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\RunningFromNorthernTipToSouthernTipOfDereth\RunningFromNorthernTipToSouthernTipOfDereth\pkt_2017-1-30_1485835276_log.pcap
+
+Partial Exports - Missing appraisal info:
+D9EF340F:Sack
+D9F2514B:Blackmoor's Favor
+D9EB1E54:Pathwarden Token
+D9ECF312:Foci of Verdancy
+D9F421EB:Berimphur Plant
+D9EB1C35:Faran Robe with Hood
+D9641633:Faran Robe
+D9F42209:Pyreal
+D9EF9C5C:Amuli Coat
+D9EF96A3:Amuli Leggings
+D9E691A5:Chiran Coat
+D9EDD807:Amuli Leggings
+D9EBD9C5:Amuli Leggings
+D9ECF066:Amuli Leggings
+D9F16236:Amuli Coat
+D9F2514C:Amuli Leggings
+D9F421E7:Amuli Leggings
+D9F421E8:Amuli Leggings
+D9F421E9:Chiran Coat
+D9F421EA:Festival Robe
+D9F421EC:Lapyan Plant
+D9F421ED:Minalim Plant
+D9F421EE:Amuli Leggings
+D9F421EF:Amuli Leggings
+D9F421F0:Amuli Leggings
+D9F421F1:Amuli Leggings
+D9F421F2:Amuli Leggings
+D9F421F3:Amuli Coat
+D9F421F4:Amuli Coat
+D9F421F5:Amuli Leggings
+D9F421F6:Amuli Leggings
+D9F421F7:Amuli Leggings
+D9F421F8:Amuli Coat
+D9F421F9:Colban Plant
+D9F421FA:Amuli Leggings
+D9F42206:Relanim Plant
+D9F421FB:Amuli Leggings
+D9F421FC:Amuli Leggings
+D9F421FD:Amuli Coat
+D9F421FE:Amuli Coat
+D9F421FF:Amuli Coat
+D9F42200:Yoroi Pauldrons
+D9F42201:Amuli Coat
+D9F42202:Amuli Leggings
+D9F42203:Tunic
+D9F42204:Large Kite Shield
+D9F42205:Verdalim Plant
+D9F42207:Lapyan Plant
+D9F42208:Minalim Dye Pot
+D9F4220A:Lapyan Dye Pot
+D9F4220B:Some Changes for February 2012
+D9F4220C:Yoroi Girth
+D9F4220D:Yoroi Breastplate
+D9F4220E:Yoroi Pauldrons
+D9F4220F:Yoroi Leggings
+D9F42210:Helmet
+
+Missing Exports - Possessed items that were not found:

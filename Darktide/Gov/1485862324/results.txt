@@ -1,0 +1,29 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Cyberkiller-01-31-2017-Random\pkt_2017-1-31_1485862162_log.pcap
+
+Partial Exports - Missing appraisal info:
+D890EE83:Foci of Enchantment
+D890EE68:Foci of Verdancy
+D890EE70:Greeter's Key
+D890EE94:Trade Note (10,000)
+D890EE82:Trade Note (50,000)
+D890EEAE:Scroll of Resist Magic Self VI
+D890EE9C:Trade Note (50,000)
+D890EE8B:Trade Note (10,000)
+D890EEB7:Scroll of Lightning Bane VI
+D890EE80:Peerless Healing Kit
+D890EEA4:Pyreal
+D890EEAC:Scroll of Acid Bane VI
+D890EE91:Pyreal
+D890EE88:Pack
+D890EE99:Pack
+D890EEB5:Silver Scarab
+D890EEC6:Berimphur Plant
+D890EEAB:Lead Pea
+D890EEB4:Bundle of Arrowheads
+D890EEA2:Lightning Oil
+D890EEAA:Acid Oil
+D890EECD:Some Changes for February 2012
+D890EEA1:Pack Ancient Olthoi Queen
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,210 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Cyberkiller-01-31-2017-Random\pkt_2017-1-31_1485861812_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Cyberkiller-01-31-2017-Random\pkt_2017-1-31_1485861727_log.pcap
+
+Partial Exports - Missing appraisal info:
+DD30ED59:Pack
+DD30ED5A:Salvaged  (100)
+DD30ED5B:Salvaged  (100)
+DD30EE0A:Diamond Powder
+DD30ED5C:Salvaged  (100)
+DD30ED5D:Salvaged  (100)
+DD30EE0B:Diamond Powder
+DD30ED5E:Salvaged  (100)
+DD30ED5F:Salvaged  (100)
+DD30EE37:Dark Shard
+DD30ED60:Salvaged  (100)
+DD30ED61:Salvage
+DD30ED72:Pack
+DD30ED62:Salvage
+DD30ED63:Salvage
+DD30ED68:Loafers
+DD30ED64:Salvage
+DD30ED65:Salvage (100)
+DD30ED74:Minalim Plant
+DD30ED66:Salvage (100)
+DD30ED8B:Pack
+DD30ED69:Diforsa Hauberk
+DD30ED6A:Salvage (100)
+DD30EE38:Dark Shard
+DD30EE39:Dark Shard
+DD30ED6D:Salvage (100)
+DD30EE54:Virindi Cage
+DD30ED75:Relanim Plant
+DD30ED73:Aphus Lassel Portal Gem
+DD30EDA4:Idol Gem
+DD30ED76:Berimphur Plant
+DD30ED77:Verdalim Plant
+DD30ED78:Thananim Plant
+DD30ED79:Trade Note (250,000)
+DD30ED7A:Trade Note (250,000)
+DD30ED7B:Trade Note (250,000)
+DD30ED7D:Salvage
+DD30ED80:Coronet
+DD30ED7E:Cloth Gloves
+DD30ED8C:Flaming War Hammer
+DD30ED84:Leather Boots
+DD30ED85:Salvage (100)
+DD30ED87:Studded Leather Gauntlets
+DD30EE59:Virindi Cage
+DD30ED8D:Salvaged  (100)
+DD30ED8E:Trade Note (250,000)
+DD30EDA3:Pack
+DD30ED8F:Trade Note (250,000)
+DD30ED90:Trade Note (250,000)
+DD30ED91:Trade Note (250,000)
+DD30ED92:Trade Note (250,000)
+DD30ED99:Aetheria
+DD30ED93:Trade Note (250,000)
+DD30ED94:Trade Note (250,000)
+DD30ED9A:Aetheria
+DD30ED95:Trade Note (250,000)
+DD30ED96:Trade Note (250,000)
+DD30ED97:Trade Note (250,000)
+DD30ED9C:Aetheria
+DD30ED9D:Aetheria
+DD30ED9F:Aetheria
+DD30EDA0:Aetheria
+DD30EDA1:Heavy Bracelet
+DD30EDA6:Salvage (100)
+DD30EDA5:Wrapped Bundle of Deadly Acid Arrowheads
+DD30EDA7:Salvage (100)
+DD30EDA8:Salvage (100)
+DD30EDA9:Salvage (100)
+DD30EDAA:Salvage (100)
+DD30EDAB:Salvage (100)
+DD30EDBB:Pack
+DD30EDAC:Salvage (100)
+DD30EDAD:Salvage (100)
+DD30EDD4:Pack
+DD30EDAE:Salvage (100)
+DD30EDAF:Salvage (100)
+DD30EDED:Pack
+DD30EDB0:Salvage (100)
+DD30EDB1:Salvage (100)
+DD30EDB4:Lyceum Hood
+DD30EDB7:Cloth Cap
+DD30EDB8:Pyreal Mote
+DD30EDBA:Shoes
+DD30EDBC:Salvaged  (100)
+DD30EDBD:Trade Note (250,000)
+DD30EDBE:Trade Note (250,000)
+DD30EDC2:Alduressa Helm
+DD30EDBF:Trade Note (250,000)
+DD30EDC0:Trade Note (250,000)
+DD30EDC1:Trade Note (250,000)
+DD30EDC6:Lorica Leggings
+DD30EDC7:Cloth Gloves
+DD30EDC8:Studded Leather Basinet
+DD30EDC9:Loafers
+DD30EDCA:Aetheria
+DD30EDCB:Koujia Sleeves
+DD30EDCE:Aetheria
+DD30EDCF:Piercing Compound Crossbow
+DD30EDD3:Diadem
+DD30EDD2:Lyceum Hood
+DD30EDD5:Salvaged  (100)
+DD30EDD6:Salvage (100)
+DD30EDD7:Salvage (100)
+DD30EDD8:Salvage (100)
+DD30EDD9:Salvage (100)
+DD30EDDA:Salvage (100)
+DD30EDDB:Salvage (100)
+DD30EDDC:Salvage (100)
+DD30EDDD:Salvaged  (100)
+DD30EDDE:Kasa
+DD30EDDF:Celdon Girth
+DD30EDE1:Chiran Helm
+DD30EDE5:Yoroi Greaves
+DD30EDE8:Salvage
+DD30EDE9:Flared Pants
+DD30EDEC:Haebrean Girth
+DD30EDEE:Salvaged  (100)
+DD30EDEF:Salvaged  (100)
+DD30EDF0:Trade Note (250,000)
+DD30EDF1:Trade Note (250,000)
+DD30EDF8:Bandana
+DD30EDF2:Trade Note (250,000)
+DD30EDF3:Trade Note (250,000)
+DD30EDFA:Bandana
+DD30EDF4:Trade Note (250,000)
+DD30EDF5:Trade Note (250,000)
+DD30EDF6:Trade Note (250,000)
+DD30EDFC:Leather Girth
+DD30EE0E:Ring
+DD30EE00:Amuli Coat
+DD30EE02:Chiran Sandals
+DD30EE03:Studded Leather Breastplate
+DD30EE04:Shoes
+DD30EE06:Lightning Dirk
+DD30EE07:Heavy Necklace
+DD30EE09:Blunt Compound Bow
+DD30EE0C:Salvaged  (100)
+DD30EE0D:Ancient Empyrean Trinket
+DD30EE0F:Olthoi Alduressa Gauntlets
+DD30EE10:Cloth Gloves
+DD30EE12:Amuli Coat
+DD30EE13:Platemail Cuirass
+DD30EE15:Helmet
+DD30EE16:Knorr Academy Pauldrons
+DD30EE17:Shoes
+DD30EE18:Kasa
+DD30EE19:Cloth Cap
+DD30EE1A:Olthoi Celdon Gauntlets
+DD30EE1C:Studded Leather Basinet
+DD30EE1D:Lyceum Hood
+DD30EE1E:Salvage
+DD30EE1F:Salvage (100)
+DD30EE20:Writ of Refuge
+DD30EE21:Sandals
+DD30EE27:Ring
+DD30EE23:Cloth Gloves
+DD30EE24:Salvage (100)
+DD30EE25:Salvage (100)
+DD30EE26:Salvage (100)
+DD30EE28:Aetheria
+DD30EE2B:Aetheria
+DD30EE2D:Alduressa Leggings
+DD30EE2E:Teardrop Crown
+DD30EE30:Platemail Cuirass
+DD30EE31:Haebrean Greaves
+DD30EE33:Tenassa Breastplate
+DD30EE3B:Ring
+DD30EE34:Hood
+DD30EE36:Studded Leather Coat
+DD30EE3A:Damaged Shadow Blade
+DD30EE3C:Ring
+DD30EE3E:Puzzle Box
+DD30EE3D:Olthoi Koujia Breastplate
+DD30EE41:Loafers
+DD30EE42:Ring
+DD30EE44:Diadem
+DD30EE45:Yoroi Tassets
+DD30EE47:Fire Staff
+DD30EE48:Leather Jerkin
+DD30EE49:Slashing Compound Bow
+DD30EE4A:Heavy Bracelet
+DD30EE4B:Gorget
+DD30EE4C:Kasa
+DD30EE4E:Golden Gromnie
+DD30EE4F:Golden Gromnie
+DD30EE52:Salvage
+DD30EE53:Salvage (100)
+DD30EE5B:Salvage
+DD30EE55:Acid K'nath Essence (180)
+DD30EE56:Trade Note (250,000)
+DD30EE57:Trade Note (250,000)
+DD30EE58:Salvage (100)
+DD30EE5D:Loafers
+DD30EE5A:Amuli Leggings
+DD30EE5C:Heavy Necklace
+DD30EE5E:Nariyid Gauntlets
+DD30EE5F:Salvage
+DD30EE63:Shoes
+DD30EE60:Olthoi Koujia Gauntlets
+DD30EE61:Chainmail Greaves
+DD30EE62:Trade Note (250,000)
+
+Missing Exports - Possessed items that were not found:

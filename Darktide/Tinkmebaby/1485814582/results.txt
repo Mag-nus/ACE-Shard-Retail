@@ -1,0 +1,135 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\imtrippin-01-30-2017-empyrean-workshop-and-more\pkt_2017-1-30_1485814561_log.pcap
+
+Partial Exports - Missing appraisal info:
+C01E8572:Massive Mana Charge
+BF737589:Pyreal
+AA8DE865:Pack
+BFFCDB15:Sclavus
+BFA8F0F0:Shadow Fragment
+C00E658F:Massive Mana Charge
+C018562F:Massive Mana Charge
+BB5C9163:Massive Mana Charge
+ABD62551:Resister's Crystal
+BFE42D8F:Alacritous Ink
+BFE42CE9:Parabolic Ink
+BFFD8737:Ink of Nullification
+BF91EA18:Caulnalain Key
+AA90763C:Golden Gromnie
+AA95E926:Golden Gromnie
+AA95E970:Golden Gromnie
+BEC3A5D1:Quill of Introspection
+BF2A8B91:Pack
+BFFD92D7:Parabolic Quill of Infliction
+BFDEB887:Frost Spectre Essence (100)
+BFB6E0D4:Shadow Fragment
+AB7D66BE:Oil of Rendering
+BF2782C9:Covenant Gauntlets
+AB7D6A9C:Facility Hub Portal Gem
+AB46B73C:Shendolain Key
+AB72E64B:Ust
+BF256EF0:Electric Staff
+BFA3814E:Caulnalain Key
+BFFF34A0:Colosseum Ticket
+BEF81E3F:Pack
+BFEC2FBD:Glyph of War Magic
+BEC3A630:Glyph of Dirty Fighting
+BFE33825:Glyph of Leadership
+BFE97E65:Glyph of Melee Defense
+BFFBCBF2:Glyph of Dual Wield
+C01DEC29:Glyph of Missile Weapons
+BF996070:Glyph of Sneak Attack
+BFFD8736:Glyph of Light Weapons
+BEFC6675:Salvage (100)
+BFA4780F:Tiny Shard
+BF3EC4FD:Acid Baton
+AA95E99B:Pack Scarecrow
+AB838AEA:Oil of Rendering
+BEFFC3E9:Leather Cap
+AB839A4A:Blackmoor's Favor
+C023A950:Quill of Extraction
+C0231C2E:Ink of Formation
+C00EA287:Prismatic Taper
+BFE42C52:Quill of Benevolence
+AA8BBAB5:Pack
+BFA62FF7:Shadow Fragment
+BFCA5933:Shadow Fragment
+BF9F91DB:Shadow Fragment
+BFA30C06:Shadow Fragment
+BFA627A0:Shadow Fragment
+BFADBB50:Shadow Fragment
+BF8B5BCB:Shadow Fragment
+BFA8EF69:Shadow Fragment
+BF8FC008:Shadow Fragment
+BFA8EF8A:Shadow Fragment
+BFB62576:Shadow Fragment
+BFB40FD7:Shadow Fragment
+BFB6D7B8:Shadow Fragment
+BFB6DE91:Shadow Fragment
+BFB41626:Shadow Fragment
+BFAD14C8:Shadow Fragment
+BFB6DFBF:Shadow Fragment
+BF4F1DB9:Blunt Compound Crossbow
+BF53FC95:Covenant Gauntlets
+BEACF50F:Pack
+BFB6E061:Shadow Fragment
+BFE046A8:Heavy Bracelet
+BFDE3CF0:Warrior's Crystal
+BFEBCAD6:Thief's Crystal
+BFD9E476:Acid Baton
+BFDA4134:Thorsten's Crystal
+BFFD871A:Bordered Cloak
+BFFEB11A:Acid Baton
+C03A10DA:Massive Mana Charge
+BFC2327A:Shadow Fragment
+BF5BBCE8:Staff
+AA95EB53:Writ of Refuge
+BFE42E43:Ink of Conveyance
+BFEC2FDB:Blunt Sceptre
+BC35ADA2:Piercing Crossbow
+BFD89854:Pocket Watch
+BFE430C3:Ink of Partition
+BFE42F22:Ink of Separation
+BFE43149:Ink of Objectification
+C0B83746:Inflictive Quill of Conveyance
+BFE42CBF:Glyph of Lightning
+BFDE9884:Glyph of Slashing
+BFE43055:Glyph of Bludgeoning
+BF4B4652:Glyph of Health
+BFD5B2DC:Physician's Crystal
+BC24C201:Nether Sceptre
+C0B669C8:Pack Scarecrow
+C062FF85:Decanter of Essence
+C023E97F:Glyph of Frost
+C0B672D8:Pack Scarecrow
+AEEBE6F0:Heavy Bracelet
+BFBFABCE:Diamond Heart
+BFAAF633:Shadow Helm
+800BCFD1:Sollerets
+BFAAF635:Shadow Sollerets
+C163E321:Pack
+C0C4F656:Ancient Falatacot Trinket
+AB4C8A68:Ancient Empyrean Trinket
+BF733652:Slashing Compound Bow
+C159663E:Knorr Academy Tassets
+C11F3521:Glyph of Person Appraisal
+C11FF25D:Glyph of Self
+C15E0B51:Quartered Cloak
+BFFF348A:Black Luster Pearl
+C120E0BB:Fire Compound Crossbow
+C120DE15:Olthoi Bracers
+B86351A4:Bracelet
+C023A1A0:Glyph of Summoning
+BFFEB16E:Quill of Infliction
+C05E1E73:Olthoi Girth
+C0AFB672:Hatchet
+C163DE3C:Pack
+BC321AA2:Electric Bow
+BC36F791:Frost Compound Crossbow
+C16453DB:Mid-Stakes Gambling Token
+C1644DE4:Mid-Stakes Gambling Token
+C163B372:Mid-Stakes Gambling Token
+C163B323:Mid-Stakes Gambling Token
+C161F7EC:Low-Stakes Gambling Token
+
+Missing Exports - Possessed items that were not found:

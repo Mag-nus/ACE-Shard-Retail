@@ -1,0 +1,145 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-26_1485429865_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-29_1485698246_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-30_1485809956_log.pcap
+
+Partial Exports - Missing appraisal info:
+DC097AAD:Foci of Artifice
+DC097B1F:Pyreal
+DC3ADFED:Major Mana Stone
+DC097AAE:Foci of Enchantment
+DC3AE0A8:Major Mana Stone
+DC3ADFEF:Major Mana Stone
+DC097B02:Ust
+DC3ADFF2:Major Mana Stone
+DC3AE0A7:Major Mana Stone
+DC3ADFD8:Major Mana Stone
+DC3AE0A0:Major Mana Stone
+DC3ADFF9:Major Mana Stone
+DC3ADFDA:Major Mana Stone
+DC3ADFD9:Major Mana Stone
+DC097AD7:Massive Mana Charge
+DC94305E:Treated Healing Kit
+DC93A81E:Treated Healing Kit
+DCB523C2:Treated Healing Kit
+DC9F0583:Treated Healing Kit
+DC3F4FC4:Treated Healing Kit
+DC95CBCD:Treated Healing Kit
+DC406387:Treated Healing Kit
+DC91B86A:Treated Healing Kit
+DC93B290:Treated Healing Kit
+DC71E27B:Treated Healing Kit
+DC6BD109:Treated Healing Kit
+DC6D5AE8:Treated Healing Kit
+DC097AD6:Colosseum Backpack
+DC6372D6:Major Mana Stone
+DC6372D7:Major Mana Stone
+DC6372D5:Major Mana Stone
+DC637245:Prismatic Taper
+DC402BF2:Treated Healing Kit
+DC3DCBE2:Treated Healing Kit
+DC3ADFF6:Major Mana Stone
+DC3ADFF5:Major Mana Stone
+DC3ADFF8:Major Mana Stone
+DC3ADFEB:Major Mana Stone
+DC3ADFF1:Major Mana Stone
+DC3ADFEE:Major Mana Stone
+DC3ADFF3:Major Mana Stone
+DC3ADFFA:Major Mana Stone
+DC097ADE:Massive Mana Charge
+DC097ADD:Massive Mana Charge
+DC097AEB:Massive Mana Charge
+DC097AE3:Massive Mana Charge
+DC097AD8:Massive Mana Charge
+DC097AEA:Massive Mana Charge
+DC097AE8:Massive Mana Charge
+DC097AEC:Massive Mana Charge
+DC097AE4:Massive Mana Charge
+DC097ADB:Massive Mana Charge
+DC097ADC:Massive Mana Charge
+DC097AF2:Silver Scarab
+DC097AF3:Pyreal Scarab
+DC097AF4:Gold Scarab
+DC097AF5:Copper Scarab
+DC097AF6:Pyreal Scarab
+DC097AF7:Mana Scarab
+DC097AF8:Mana Scarab
+DC097AF9:Mana Scarab
+DC097AFA:Celdiseth's Portal Gem
+DC097AFB:Prismatic Taper
+DC097AFE:Platinum Scarab
+DC3AE015:Platinum Scarab
+DC54C001:Treated Healing Kit
+DC621EE5:Treated Healing Kit
+DC5D7DB5:Treated Healing Kit
+DC639F9A:Treated Healing Kit
+DB14461F:Treated Healing Kit
+DC5BC4A3:Treated Healing Kit
+DC95CD23:Treated Healing Kit
+DC962E93:Treated Healing Kit
+DC7771E6:Treated Healing Kit
+DCB17F5C:Treated Healing Kit
+DC097AFF:Colosseum Backpack
+DC097B00:Blackmoor's Favor
+DC097B01:Coruscating Olthoi Scent Gland
+DC097B03:Aetheria Mana Stone
+DC097B04:Heart of the Innocent
+DC097B05:Greater Mukkir Slayer Stone
+DC097B06:Asheron's Lesser Benediction
+DC097B08:Black Skull of Xikma
+DC097B0C:Major Mana Stone
+DC097B09:Ancient Mhoire Coin
+DC097B0A:Ancient Mhoire Coin
+DC097B11:Major Mana Stone
+DC097B0E:Trade Note (250,000)
+DC097B12:Colosseum Backpack
+DC097B23:Colosseum Vault Key
+DC097B13:Teleportation Device
+DC097B15:Yellow Empyrean Ring
+DC097B24:Colosseum Vault Key
+DC097B16:Focusing Stone
+DC097B2A:Replica BloodScorch
+DC097B27:Acidic Weeping Sword
+DC097B2D:Ultimate Singularity Sword
+DC097B30:Soul Bound Sword
+DC097B19:Health Philtre
+DC097B29:Paradox-touched Olthoi Sword
+DC097B2C:Covenant Shield
+DC097B25:Colosseum Vault Key
+DC097B28:Long Sword
+DC097B26:Takuba
+DC097B1C:Aetheria
+DC097B1E:Aetheria
+DC097B1D:Aetheria
+DC171226:Trimmed Cloak
+DC097B35:Frost Dericost Blade
+DC097B17:Takuba
+DC097B31:Colosseum Vault Key
+DC097B1B:Health Tonic
+DC097B32:Colosseum Coin
+DC1BF4AE:Medicated Mana Kit
+DC4033DC:Artist's Crystal
+DCA26746:Vaulter's Crystal
+DCDC7A13:Pyreal
+DC701A39:Berzerker's Crystal
+DCDC7A12:Pyreal
+DC93B2D1:T'ing's Crystal
+DC663F7A:Monarch's Crystal
+DCDC7942:Major Mana Stone
+DC64C538:Life Giver's Crystal
+DC3E4A5B:Pearl of Heart Seeking
+DCDC7A11:Pyreal
+DCDC7A99:Pyreal
+DCDC7A98:Pyreal
+DCDC7AE7:Pyreal
+DCC3DB5E:Silver Pea
+DCCF973B:Gold Pea
+DCC27D6C:Silver Pea
+DCDE0ED4:Treated Healing Kit
+DCC12B4C:Silver Pea
+DCD79790:Silver Pea
+DCD8ADF5:Gold Pea
+
+Missing Exports - Possessed items that were not found:

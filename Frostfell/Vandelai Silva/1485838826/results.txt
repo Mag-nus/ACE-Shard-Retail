@@ -1,0 +1,113 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\pkt_2017-1-31_1485882234_log\pkt_2017-1-30_1485838802_log.pcap
+
+Partial Exports - Missing appraisal info:
+DD0EBECB:Foci of Artifice
+DD0EBECD:Pack
+DD0EBECE:Gifted Healing Kit
+DD0EBECF:Gifted Healing Kit
+DD0EBEE8:Great Mana Charge
+DD0EBEE7:Great Mana Charge
+DD0EBEE6:Great Mana Charge
+DD0EBED5:Great Mana Charge
+DD0EBED7:Great Mana Charge
+DD0EBED8:Great Mana Charge
+DD0EBEE4:Helm
+DD0EBDB3:Pack
+DD0EBEFC:Rapier
+DD0EBDB5:Faran Robe with Hood
+DD0EBEF9:Long Sword
+DD0EBDB2:Gifted Healing Kit
+DD0EBEE5:Flaming Shamshir
+DD0EBEE2:Frost Broad Sword
+DD0EBEBA:Lightning Shamshir
+DD0EBEE1:Stamina Elixir
+DD0EBEE3:Great Mana Charge
+DD0EBEF4:Ust
+DD0EBE80:Frost Ken
+DD0EBF06:Silver Scarab
+DD0EBF18:Copper Scarab
+DD0EBDC3:Iolite Gem
+DD0EBEFF:Health Tincture
+DD0EBEFE:Goblet
+DD0EBEFD:Pack
+DD0EBDBC:Throbbing Lump
+DD0EBDBB:Throbbing Lump
+DD0EBF01:Frost Knuckles
+DD0EBF07:Lightning Katar
+DD0EBF00:Shendolain Key
+DD0EBF04:Shendolain Key
+DD0EBF1C:Shendolain Key
+DD0EBF22:Shendolain Key
+DD0EBDC8:Shendolain Key
+DD0EBF21:Vial of Organic Acid
+DD0EBF1D:Chalice
+DD0EB7DB:Chalice
+DD0EBE7C:Flaming Cestus
+DD0EBF23:Scroll of Strength Other V
+DD0EBF1E:Pack Martine
+DD0EBDC7:Frost Long Sword
+DD0EBF16:Long Sword
+DD0EBF02:Acid Sabra
+DD0EBF03:Scimitar
+DD0EBF05:Flaming Scimitar
+DD0EBF0B:Flaming Flamberge
+DD0EBF0C:Katar
+DD0EBDC2:Lightning Flamberge
+DD0EBDC1:Acid Flamberge
+DBAC141A:Lightning Tachi
+DD0EBF1A:Lightning Scimitar
+DCEB7E6D:Frost Sceptre
+DD0EBF17:Frost Sceptre
+DD0EBF19:Frost Cestus
+DD0EBDC4:Lightning Long Sword
+DD0EBF1B:Aura of Hermetic Link Self IV
+DD0EBDF0:Tachi
+DD0EBDF6:Asheron's Benediction
+DD0EBDEF:Blackmoor's Favor
+DD0EBDF7:Flamberge
+DD0EBF48:Chalice
+DD0EBF49:Heavy Bracelet
+DD0EBEA5:Flaming Scimitar
+DD0EBF47:Flaming Dericost Blade
+DD0EBF3E:Iceball
+DD0EBEAA:Ewer
+DD0EBE0A:Takuba
+DD0EBF31:Covenant Sollerets
+DD0EBE04:Covenant Helm
+DD0EBF50:Obsidian Heart
+DD0EBF3D:Good Olthoi Sollerets
+DD0EBEBC:Frost Dericost Blade
+DD0EA29C:The Healer's Heart
+DD0EBE00:Obsidian Heart
+DD0EBE0C:Covenant Tassets
+DD0EBF58:Chalice
+DD0EBE13:Scroll of Nether Bolt VII
+DD0EBE08:Some Changes for February 2012
+DD0EBE01:Flaming Knuckles
+DD0EBE0B:Olthoi Alduressa Helm
+DD0EBE05:Ring
+DD0EBE0D:Signet Crown
+DD0EBE12:Cloth Gloves
+DD0EBE09:Trousers
+DD0EBE14:Piercing Crossbow
+DD0EBF57:Lightning Spectre Essence (125)
+DD0EBDA3:Studded Leather Pauldrons
+DD0EBF4E:Ornamental Bowl
+DD0EBE11:Aetheria
+DD0397A0:Aetheria
+DD0EBF56:Alduressa Boots
+DD0EBF5E:Aetheria
+DD0EBF4C:Trousers
+DD0EBF5D:Aetheria
+DD0EBF9E:Aetheria
+DD0EBE1B:Aetheria
+DD0EBF65:Aetheria
+DD0EBF54:Aetheria
+DD0EAEED:Aetheria
+DD0EBF4D:Aetheria
+DD0EBF66:Aetheria
+DD0EBF4F:Aetheria
+DD0EBE1F:Aetheria
+
+Missing Exports - Possessed items that were not found:

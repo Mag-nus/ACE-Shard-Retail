@@ -1,0 +1,7 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-24_NewbieStuff_1485308296_log\pkt_2017-1-24_1485308296_log.pcap
+
+Partial Exports - Missing appraisal info:
+AE76FDAF:Shoes
+
+Missing Exports - Possessed items that were not found:

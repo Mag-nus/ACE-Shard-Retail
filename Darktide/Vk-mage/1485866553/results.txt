@@ -1,0 +1,111 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-31_1485866227_log.pcap
+
+Partial Exports - Missing appraisal info:
+8A05C4A8:Ust
+89FFF6A3:Foci of Enchantment
+BB76D2BB:Stipend
+8A02E838:Foci of Verdancy
+8A02E854:Foci of Strife
+8A02E852:Foci of Artifice
+89FFF6AB:Pack
+8A02E907:Blackmoor's Favor
+8A004F7D:Pack
+8A051D48:Sturdy Iron Key
+89FFA639:Sturdy Iron Key
+8A05C6BB:Sturdy Iron Key
+89EA87C5:Sturdy Iron Key
+89FFF263:Iron Pea
+8A02E908:Silver Pea
+8A02E867:Sharp Tusker Slave Tusk
+89FD69D4:Potion of Healing
+88302CCF:Potion of Healing
+8A047BCB:Health Infusion
+8A05C6CD:Some Changes for February 2012
+8A05C6D0:Quest Weapon Coin
+8A004FBC:Gold Scarab
+89FE3BAC:Prismatic Taper
+8A0288F4:Mangled Dark Key
+89FD7D0F:Ginseng
+8A004AA0:Sturdy Steel Key
+8A004F98:Sturdy Steel Key
+8A028900:A Small Mnemosyne
+89FFA63B:Greeter's Key
+89FFA638:A Crumpled Note
+AF7D4440:Parchment
+AF7D443F:Parchment
+AF7D443E:Parchment
+AF7D443C:Parchment
+AF7D443B:Parchment
+AF7D443A:Parchment
+AF7D4437:Parchment
+AF7D4436:Parchment
+AF7D4427:Parchment
+AF7D4426:Parchment
+AF7D4425:Parchment
+AF7D441E:Parchment
+AF7D4419:Parchment
+AF7D4416:Parchment
+AF7D4408:Parchment
+AF7D43FD:Parchment
+AF7D43F9:Parchment
+AF7D43F3:Parchment
+AF7D43F2:Parchment
+AF7D43C5:Parchment
+AF7D43C4:Parchment
+AF7D43C1:Parchment
+AF7D43BD:Parchment
+AF7D43BC:Parchment
+AF7D43BB:Parchment
+AF7D43B7:Parchment
+AF7D43B1:Parchment
+AF7D43AF:Parchment
+AF7D43AE:Parchment
+AF7D43AA:Parchment
+AF7D43A9:Parchment
+AF7D43A7:Parchment
+AF7D43A3:Parchment
+AF7D43A1:Parchment
+AF7D43A0:Parchment
+AF7D439E:Parchment
+AF7D439D:Parchment
+AF7D439C:Parchment
+AF7D439B:Parchment
+AF7D439A:Parchment
+AF7D4399:Parchment
+AF7D4398:Parchment
+AF7D4397:Parchment
+AF7D4396:Parchment
+AF7D4395:Parchment
+AF7D4394:Parchment
+AF7D4393:Parchment
+AF7D4392:Parchment
+AF7D4391:Parchment
+AF7D4390:Parchment
+AF7D438F:Parchment
+AF7D438E:Parchment
+AF7D438D:Parchment
+AF7D438C:Parchment
+AF7D4389:Parchment
+AF7D4385:Parchment
+AF7D4384:Parchment
+AF7D437C:Parchment
+AF7D437B:Parchment
+AF7D437A:Parchment
+AF7D4379:Parchment
+AF7D4378:Parchment
+AF7D4377:Parchment
+AF7D4376:Parchment
+AF7D4375:Parchment
+AF7D4374:Parchment
+AF7D4373:Parchment
+AF7D4372:Parchment
+AF7D4371:Parchment
+AF7D4370:Parchment
+AF7D436F:Parchment
+AF7D436D:Parchment
+AF7D4369:Parchment
+AFB9FFA0:Leather Boots
+CD4EA2D0:Great Mana Charge
+
+Missing Exports - Possessed items that were not found:

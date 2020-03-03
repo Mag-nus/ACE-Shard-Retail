@@ -1,0 +1,57 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (2910853455, 12711, 44, 6476097) /* CraftTool */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (2910853455,   1,        128) /* ItemType - Misc */
+     , (2910853455,   5,          5) /* EncumbranceVal */
+     , (2910853455,  11,          1) /* MaxStackSize */
+     , (2910853455,  12,          1) /* StackSize */
+     , (2910853455,  16,     524296) /* ItemUseable - SourceContainedTargetContained */
+     , (2910853455,  19,          0) /* Value */
+     , (2910853455,  33,          1) /* Bonded - Bonded */
+     , (2910853455,  65,        101) /* Placement - Resting */
+     , (2910853455,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (2910853455,  94,      33025) /* TargetType - WeaponOrCaster */
+     , (2910853455, 114,          1) /* Attuned - Attuned */
+     , (2910853455, 9015,         20) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (2910853455,   1, False) /* Stuck */
+     , (2910853455,  11, True ) /* IgnoreCollisions */
+     , (2910853455,  13, True ) /* Ethereal */
+     , (2910853455,  14, True ) /* GravityStatus */
+     , (2910853455,  19, True ) /* Attackable */
+     , (2910853455,  22, True ) /* Inscribable */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (2910853455,  39, 1.20000004768372) /* DefaultScale */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (2910853455,   1, 'Oil of Rendering') /* Name */
+     , (2910853455,  14, 'Use this oil on a Training Weapon to create an Academy Weapon.') /* Use */
+     , (2910853455,  15, 'A small green bottle filled with a dark viscous substance. This oil was specially prepared for the Training Academy to enhance the quality of their weapons.') /* ShortDesc */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (2910853455,   1,   33555967) /* Setup */
+     , (2910853455,   3,  536870932) /* SoundTable */
+     , (2910853455,   6,   67111919) /* PaletteBase */
+     , (2910853455,   8,  100672369) /* Icon */
+     , (2910853455,  22,  872415275) /* PhysicsEffectTable */
+     , (2910853455, 8001,    2650128) /* PCAPRecordedWeenieHeader - Usable, StackSize, MaxStackSize, Container, TargetType, Burden */
+     , (2910853455, 8003,         18) /* PCAPRecordedObjectDesc - Inscribable, Attackable */
+     , (2910853455, 8005,     137345) /* PCAPRecordedPhysicsDesc - CSetup, ObjScale, STable, PeTable, AnimationFrame */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (2910853455,   1, 1343217548) /* Owner */
+     , (2910853455,   2, 1343217548) /* Container */
+     , (2910853455, 8000, 2910853455) /* PCAPRecordedObjectIID */;
+
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
+VALUES (2910853455, 67111920, 0, 0);
+
+INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
+VALUES (2910853455, 0, 83890051, 83890051, 0)
+     , (2910853455, 0, 83889356, 83889356, 1);
+
+INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, `order`)
+VALUES (2910853455, 0, 16783327, 0);

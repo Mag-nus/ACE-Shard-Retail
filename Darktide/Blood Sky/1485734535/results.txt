@@ -1,0 +1,28 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-12-2017\Games\pkt_2017-1-29_1485734527_log.pcap
+
+Partial Exports - Missing appraisal info:
+858821C1:Sack
+85871326:Foci of Enchantment
+85882209:Blackmoor's Favor
+85946902:Small Olthoi Venom Sac
+85877072:The Orphanage
+8588294F:Ancient Mhoire Coin
+85965718:Colosseum Coin
+8596527C:Ornate Gear Marker
+85965316:A'nekshay Token
+85877F07:Pack
+858785DA:Pack
+85877A8B:Pack
+856DAC80:Pack
+83A8A7FF:Pack
+8171A771:Burning Coal
+B0E537D0:Colosseum Ticket
+B0E536BA:Black Market Gem of Dispelling
+85878779:Pyreal
+D82FF104:Adept Healing Kit
+D82FF20A:Adept Healing Kit
+D8563A54:Yaraq Portal Gem
+D854EC15:Stamina Elixir
+
+Missing Exports - Possessed items that were not found:

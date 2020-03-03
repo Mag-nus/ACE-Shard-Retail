@@ -1,0 +1,53 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\AC-Packet-Captures\AC Packet Captures\pkt_2017-1-28_1485601848_log.pcap
+
+Partial Exports - Missing appraisal info:
+92BC7090:Ruminations on Portal Creation
+92BC708F:Quest Weapon Coin
+92BC708A:Stamina Philtre
+92BC7089:Health Tonic
+92BC7087:Ust
+92BC7081:Massive Mana Charge
+92BC7080:Massive Mana Charge
+92BC707D:Massive Mana Charge
+92BC707B:Massive Mana Charge
+92BC7077:Lead Scarab
+92BC7076:Prismatic Taper
+92BC7073:Copper Scarab
+92BC7072:Silver Scarab
+92BC7071:Iron Scarab
+92BC7070:Scroll of Nullify Life Magic Other
+92BC706F:Scroll of Nullify Life Magic Self
+92BC706E:Scroll of Drain Stamina Other VI
+92BC706D:Scroll of Drain Health Other VI
+92BC706C:Pyreal Scarab
+92BC706B:Gold Scarab
+92BC7069:High Mana Charge
+92BC7068:High Mana Charge
+92BC7067:High Mana Charge
+92BC7066:High Mana Charge
+92BC7065:Titan Mana Charge
+92BC7064:Titan Mana Charge
+92BC7063:Titan Mana Charge
+92BC7062:Titan Mana Charge
+92BC7061:Titan Mana Charge
+92BC7060:Titan Mana Charge
+92BC705F:Titan Mana Charge
+92BC705E:Adept Healing Kit
+92BC705D:Adept Healing Kit
+92BC705B:Swamp Stone
+92BC703F:Pyreal
+92BC703E:Pyreal
+92BC703D:Pyreal
+92BC7049:Lesser Stamina Kit
+92BC7048:Trade Note (250,000)
+92BC7047:Treated Healing Kit
+92BC7046:Treated Healing Kit
+92BC7045:Trade Note (200,000)
+92BC7044:Treated Healing Kit
+92BC7043:Treated Healing Kit
+92BC7042:Treated Healing Kit
+92BC7041:Treated Healing Kit
+92BC7039:Stipend
+
+Missing Exports - Possessed items that were not found:

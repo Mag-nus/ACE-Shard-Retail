@@ -1,0 +1,26 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-31_1485849791_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-31_1485849791_log.pcap
+
+Missing Exports - Possessed items that were not found:
+D88C1A26
+D81A8742
+D81A8741
+D81A8740
+D81A873F
+D81A873D
+D81A873C
+D81A873B
+D81A873A
+D81A8739
+D81A8738
+D81A8737
+D81A8736
+D81A8734
+D81A873E
+D81A8735
+D81A8733
+D81A8732
+D81A8731

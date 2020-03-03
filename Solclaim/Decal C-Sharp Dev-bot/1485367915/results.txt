@@ -1,0 +1,22 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-25_1485367910_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-25_1485367788_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-25_1485367872_log.pcap
+
+Partial Exports - Missing appraisal info:
+92BC4A07:Pyreal
+92BC077F:Sack
+92BBCAE3:Ust
+92BC41C8:Foci of Enchantment
+92BC08CF:Prismatic Taper
+92BC08FE:Lead Scarab
+92BC09B5:Handy Healing Kit
+92BC49E4:Apple
+92BC0910:Blackmoor's Favor
+92BC4A41:Great Mana Charge
+92BC49EE:Lead Pea
+92BC4A0F:Adept Healing Kit
+
+Missing Exports - Possessed items that were not found:

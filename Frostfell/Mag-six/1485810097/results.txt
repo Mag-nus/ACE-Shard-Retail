@@ -1,0 +1,146 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-30_1485809973_log.pcap
+
+Partial Exports - Missing appraisal info:
+DC3FD5B2:Foci of Artifice
+DC553B79:Foci of Enchantment
+DC548B2D:Major Mana Stone
+DC57CA0D:Major Mana Stone
+DC5530A9:Massive Mana Charge
+DC5530AA:Massive Mana Charge
+DC5FA3FB:Major Mana Stone
+DC49B7B0:Colosseum Backpack
+DC55312F:Pyreal
+DC438058:Massive Mana Charge
+DC553B4F:Massive Mana Charge
+DC49AF6B:Massive Mana Charge
+DC552F1E:Massive Mana Charge
+DC553B48:Massive Mana Charge
+DC553B47:Massive Mana Charge
+DC553B46:Massive Mana Charge
+DC553B5D:Massive Mana Charge
+DC552F04:Massive Mana Charge
+DC553B45:Massive Mana Charge
+DC553B41:Massive Mana Charge
+DC553B57:Massive Mana Charge
+DC5530C1:Massive Mana Charge
+DC5530C0:Massive Mana Charge
+DC553B40:Massive Mana Charge
+DC553B55:Massive Mana Charge
+DC553BA1:Massive Mana Charge
+DC553B3C:Massive Mana Charge
+DC553B38:Massive Mana Charge
+DC553B39:Massive Mana Charge
+DC5530C7:Massive Mana Charge
+DC5530C8:Massive Mana Charge
+DC5530C6:Massive Mana Charge
+DC553B37:Massive Mana Charge
+DC553B36:Colosseum Backpack
+DC438556:Treated Healing Kit
+DC437816:Treated Healing Kit
+DC49B7A8:Treated Healing Kit
+DC553B76:Treated Healing Kit
+DC553B35:Treated Healing Kit
+DC553B30:Treated Healing Kit
+DC553B2F:Treated Healing Kit
+DC49A870:Treated Healing Kit
+DC5530CB:Treated Healing Kit
+DC5530CC:Treated Healing Kit
+DC5530CA:Treated Healing Kit
+DBD586B0:Treated Healing Kit
+DC553BA5:Treated Healing Kit
+DC553B25:Treated Healing Kit
+DC553B24:Treated Healing Kit
+DC553B3B:Treated Healing Kit
+DC553B23:Treated Healing Kit
+DC553B3A:Treated Healing Kit
+DC553B22:Treated Healing Kit
+DC49B8E3:Treated Healing Kit
+DC436340:Treated Healing Kit
+DC3FC342:Treated Healing Kit
+DC3A54D9:Treated Healing Kit
+DC4379B3:Treated Healing Kit
+DC3A5445:Colosseum Backpack
+DC553B20:Silver Scarab
+DC553B1E:Pyreal Scarab
+DC553B1F:Copper Scarab
+DC553B1A:Pyreal Scarab
+DC553B19:Gold Scarab
+DC553B18:Mana Scarab
+DC553B17:Mana Scarab
+DC553B15:Mana Scarab
+DC553B16:Celdiseth's Portal Gem
+DC552F06:Prismatic Taper
+DC365DA4:Prismatic Taper
+DC49B85A:Platinum Scarab
+DC5FA3E3:Major Mana Stone
+DC5486D7:Major Mana Stone
+DC57AEEA:Major Mana Stone
+DC57BF1F:Major Mana Stone
+DC57CFF4:Major Mana Stone
+DC5FA4CB:Major Mana Stone
+DC57C339:Major Mana Stone
+DC549F27:Major Mana Stone
+DC5FA9A1:Major Mana Stone
+DC57C446:Major Mana Stone
+DC553B10:Colosseum Backpack
+DC553BC8:Blackmoor's Favor
+DC553102:Coruscating Olthoi Scent Gland
+DC553103:Ust
+DC553101:Aetheria Mana Stone
+DC553B0C:Heart of the Innocent
+DC553B9B:Major Mana Stone
+DC553B08:Greater Mukkir Slayer Stone
+DC553117:Asheron's Lesser Benediction
+DC553118:Black Skull of Xikma
+DC553115:Ancient Mhoire Coin
+DC553B06:Major Mana Stone
+DC553B07:Ancient Mhoire Coin
+DC553B05:Major Mana Stone
+DC553B03:Trade Note (250,000)
+DC553B11:Trade Note (10,000)
+DC57C743:Major Mana Stone
+DC51FCD7:Major Mana Stone
+DC5FAC9E:Major Mana Stone
+DC4CA5D1:Major Mana Stone
+DC57CA5A:Major Mana Stone
+DC5491BE:Major Mana Stone
+DC57C4B7:Major Mana Stone
+DC3FC7F3:Colosseum Backpack
+DC4383A6:Teleportation Device
+DC5534EB:Yellow Empyrean Ring
+DC553B9F:Colosseum Vault Key
+DC553B01:Focusing Stone
+DC55312A:Dericost Blade
+DC1ED4B4:Colosseum Coin
+DC553B02:Health Philtre
+DC5519C2:Health Tonic
+DC49B99B:Silver Pea
+DC436C38:Gold Pea
+DC553AEE:Pyreal Pea
+DC553AEF:Colosseum Vault Key
+DC55313F:Colosseum Vault Key
+DC55313E:Acidic Weeping Sword
+DC553B04:Alduressa Coat
+DC553145:Replica BloodScorch
+DC553143:Covenant Shield
+DC553AF0:Colosseum Vault Key
+DC553148:Ultimate Singularity Sword
+DC3A4D6E:Aegis of the Gold Gear
+DC553ADF:Frost Sabra
+DC49B858:Sanguinary Aegis
+DC5565CC:Silver Pea
+DC5578CE:Silver Pea
+DC549199:Gold Pea
+DC5A48E5:Silver Pea
+DC548551:Elysa's Crystal
+DC549A78:Silver Pea
+DC5FA685:Gold Pea
+DC549272:Silver Pea
+DC553140:Drudge Scrying Orb
+DC57C709:Silver Pea
+DC65BB23:Silver Pea
+DC548EF3:Monarch's Crystal
+DC5FABBF:Knight's Crystal
+
+Missing Exports - Possessed items that were not found:

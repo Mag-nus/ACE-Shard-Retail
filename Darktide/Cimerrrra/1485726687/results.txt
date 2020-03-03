@@ -1,0 +1,96 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-29_1485718290_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-27_1485536327_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-28_1485614827_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-29_1485718290_log.pcap
+
+Partial Exports - Missing appraisal info:
+CC002414:Sack
+CC002415:Ust
+CC002416:Training Wand
+CC002417:Mud Golem Essence
+CC002418:Foci of Enchantment
+CC002419:Prismatic Taper
+CC00241A:Lead Scarab
+CC00241B:Blackmoor's Favor
+CC00241C:Oil of Rendering
+CC00241D:Oil of Rendering
+CC00241F:Pack
+CC00241E:Facility Hub Portal Gem
+CC002433:Mana Scarab
+CC002422:Platemail Greaves
+CC002425:Sollerets
+CC002423:Chainmail Sleeves
+CC002424:Covenant Girth
+CC002426:Loose Pants
+CC002427:Aetheria
+CC00247F:Massive Mana Charge
+CC002429:Loose Shirt
+CC00242A:Covenant Pauldrons
+CC00242B:Aetheria
+CC00242D:Helmet
+CC002431:Aetheria
+CC00242F:Alduressa Leggings
+CC002430:Soft Bandages
+CC002480:Massive Mana Charge
+CC002432:Combined Hyssop and Mandrake
+CC002434:Aetheria
+CC002435:Aetheria
+CC002436:Aetheria
+CC002438:Yumi
+CC00243A:Covenant Breastplate
+CC00243B:Ring
+CC002442:Writ of Refuge
+CC002481:Massive Mana Charge
+CC002445:Sedgemail Leather Shoes
+CC002482:Massive Mana Charge
+CC002447:Platemail Sleeves
+CC002449:Lorica Boots
+CC002483:Massive Mana Charge
+CC00244C:Pathwarden Robe
+CC00244D:Pathwarden Helm
+CC002484:Massive Mana Charge
+CC002485:Massive Mana Charge
+CC002451:Platemail Breastplate
+CC002462:Kote
+CC002456:Platemail Greaves
+CC002457:Yoroi Girth
+CC002486:Massive Mana Charge
+CC002459:Chainmail Girth
+CC002487:Massive Mana Charge
+CC00245A:Yoroi Sleeves
+CC00245B:Cloth Gloves
+CC00245C:Shoes
+CC00245D:Slippers
+CC00245E:Chainmail Bracers
+CC00245F:Kote
+CC002460:Chainmail Bracers
+CC002461:Chainmail Bracers
+CC002477:Kote
+CC002463:Scalemail Pauldrons
+CC002464:Scalemail Pauldrons
+CC002465:Chainmail Pauldrons
+CC002466:Chainmail Pauldrons
+CC002467:Platemail Pauldrons
+CC002468:Yoroi Pauldrons
+CC002469:Yoroi Greaves
+CC00246A:Yoroi Greaves
+CC002475:Qafiya
+CC00246B:Yoroi Breastplate
+CC00246C:Chainmail Breastplate
+CC00246D:Platemail Tassets
+CC00246F:Platemail Sleeves
+CC002471:Platemail Sleeves
+CC002472:Slippers
+CC002473:Slippers
+CC002478:Chainmail Pauldrons
+CC00247A:Yoroi Pauldrons
+CC00247B:Scalemail Tassets
+CC002488:Signet Crown
+CC00248B:Lytelthorpe Portal Gem
+CC00248F:Yoroi Girth
+CC002490:Chainmail Breastplate
+
+Missing Exports - Possessed items that were not found:

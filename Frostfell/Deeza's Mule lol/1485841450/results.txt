@@ -1,0 +1,143 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\RunningFromNorthernTipToSouthernTipOfDereth\RunningFromNorthernTipToSouthernTipOfDereth\pkt_2017-1-30_1485835276_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\RunningFromNorthernTipToSouthernTipOfDereth\RunningFromNorthernTipToSouthernTipOfDereth\pkt_2017-1-30_1485835276_log.pcap
+
+Partial Exports - Missing appraisal info:
+D9E4B7DD:Sack
+D9E4B2DF:Loose Pants
+D9E135EE:Undead Body
+D9E1365A:Banderling Head
+D9E4B610:Shadow Head
+D9E13113:Fiun Head
+D9DDAAD7:Drudge Head
+D9DDA87C:Pyreal
+D9E4BB4C:White Rabbit Girth
+D9DD9670:Fiun Head
+D9E1555E:Virindi Profatrix Mask
+D9E32BBA:Crimped Hat
+D9E4BC4A:Scarecrow Mask
+D9E32BBD:Ghost Guise
+D9E4BA7A:Uber Penguin Mask
+D9E1391D:Knath Head
+D9E4BD8B:Armored Skeleton Guise
+D9E4D036:Mite Mask
+D9E15676:Ursuin Hide Helmet
+D9E4BDEC:Ursuin Mask
+D9DDA86C:Koji's Beast
+D9DD86F5:Ogre Mask
+D2DE38C7:Pwyll's Crown
+D9DD8B77:Shadow's Garb
+D9E13BAF:Mosswart Mask
+D9DFD4A1:Inviso Mask
+D9E4B6D1:Foci of Verdancy
+D9E14F66:Pack
+D9DDA90A:Pack
+D9DDA850:Pack
+D9E4BE37:Pack
+D9E151C9:Broad Sword
+D9E34ABA:Frost Dericost Blade
+D9E153E1:Belt Pouch
+D9E1309B:Lightning Dericost Blade
+D9E15350:Worn Old Sword
+D9E4B81C:Long Sword
+D9E2705F:Frost Flamberge
+D9E282A9:Worn Old Sword
+D9E2FB23:Dericost Blade
+D9DDA6EA:Flaming Dericost Blade
+D9E39800:Flaming Scimitar
+D8ABAE51:Frost Simi
+D9DDD6C9:Acid Dericost Blade
+D9E4B6BA:Gorget
+D9E145ED:Sturdy Iron Key
+D9E4C07F:Sturdy Iron Key
+D9E4B31D:Sturdy Steel Key
+D9E4CE41:Sturdy Iron Key
+D8A50FDF:Sturdy Iron Key
+D9E1505A:Sturdy Steel Key
+D9E1526B:Sturdy Steel Key
+D9E15565:Fragment of the New Singularity
+D9E4B7B1:Sturdy Iron Key
+D9E4BD3C:Sturdy Steel Key
+D867F603:Jack o' Lantern
+D9E4B7D4:Poofy Snowball
+D7D3C150:Sturdy Iron Key
+D9E9A32F:Sturdy Iron Key
+D9E13114:Ust
+D9E4B89A:Pathwarden Token
+D89052C5:Training Wand
+D9E4BD9A:Prismatic Taper
+D9EB0BB0:Blackmoor's Favor
+D9E15316:Unreadable Tome
+D9DD5F62:Doll House
+D9DDA7D7:Doll House
+D9DD8748:Jack o' Lantern
+D93AFDF4:Doll House
+D9DDABC4:Frost Cestus
+D8AB9B5A:Cestus
+D9DDAB31:Cestus
+D9E13535:Unarmed Snowman
+D9E7AA17:Cestus
+D9C2C4C8:Nekode
+D971F21C:Flaming Katar
+D9E26D2D:Frost Knuckles
+D9E88963:Lightning Claw
+D9ED628A:Flaming Cestus
+D9E4BB76:Flaming Claw
+D9E138EC:Lightning Claw
+D9E4BED2:Unarmed Snowman
+D9E14F2A:Lightning Claw
+D8A1E8F4:Claw
+D9DD923A:Ursuin Torso
+D9E4BDAC:Claw
+D9E351EC:Cestus
+B492362E:Dirk of the Fallen
+D9E132BF:Claw
+D9E1398A:Blunt Baton
+D9B6D24D:Banished Point
+D9DDA562:Sceptre
+D9EB0BF2:Princely Runed Poniard
+D9E4AE68:Princely Runed Poniard
+D9E3A9CE:Princely Runed Dolabra
+D9E14CFB:Mace of the Fallen
+D9E4B839:Princely Runed Bastone
+D9C2C513:Superior Jack o' Lantern
+D9DDA313:Doll House
+D9DD87B8:Doll House
+D9E13280:Orb
+D9E4BD0E:Jack o' Lantern
+D9E32BFA:Magic Hat
+D9E4BB7C:Coffin
+D9E4B867:Holiday Feast
+D9DDA2D3:Training Wand
+D9E4B5BB:White Rabbit Carcass
+D9E4B82B:Mana Philtre
+D9DDAEAC:Stamina Philtre
+B4923628:Fire Sceptre
+D9DDA369:Sturdy Iron Key
+D9ED63F4:Virindi Mask
+D9DDA3E4:Pack T'thuun
+D9E34EA4:Pack T'thuun
+D9E1314B:Mukkir Mask
+D9E13E17:Flaming Claw
+D9E4B623:Cestus
+D9E4BBCA:Flaming Nekode
+D9DDA66A:Cestus
+D9E13B6C:Knuckles
+D9E130F2:Homunculus Mask
+D9E4B868:Nekode
+D9E2795C:Lightning Katar
+D9E51E18:Cestus
+D9E131A8:Nekode
+D9E4BD52:Lightning Claw
+D9DDA745:Trident
+D9DD867F:Frost Claw
+B49235F4:Piercing Bow
+B492360F:Some Changes for February 2012
+D9E13289:Lugian Hammer
+D9E4B7AE:Yifan Dress
+D9E13621:Skull Cap
+D9DD8D75:Lightning Knuckles
+
+Missing Exports - Possessed items that were not found:

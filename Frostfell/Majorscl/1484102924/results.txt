@@ -1,0 +1,156 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Callaway-01-10-2017\pkt_2017-1-10_1484102909_log.pcap
+
+Partial Exports - Missing appraisal info:
+B678664F:Sandals
+B6786650:Bracelet
+B6786651:Ring
+B6786652:Ring
+B6786653:Coronet
+B6786654:Teardrop Crown
+B6786655:Cloth Gloves
+B6786656:Knorr Academy Tassets
+B6786657:Teardrop Crown
+B6786658:Koujia Breastplate
+B67866BE:A List of Items
+B6786659:Scalemail Coif
+B678665A:Olthoi Celdon Girth
+B67866BA:Stipend
+B678665B:Jerkin
+B678665C:Puffy Shirt
+B6786660:Ust
+B678665D:Shoes
+B678665E:Cloth Gloves
+B6786665:Pack
+B678665F:Shirt
+B67866F3:Pyreal
+B67866F4:Pyreal
+81987090:Virindi Essence
+B6786674:Chainmail Pauldrons
+B6786678:Heavy Necklace
+B6786679:Lorica Boots
+B678667A:Trousers
+B678667B:Diadem
+B678667C:Doublet
+B678667D:Pants
+B678667E:Baggy Pants
+B678667F:Bracelet
+B6786680:Olthoi Girth
+B67866A6:Pack
+B6786681:Celdon Girth
+B6786682:Studded Leather Boots
+B6786683:Smock
+B6786684:Baggy Tunic
+B6786685:Loose Pants
+B6786686:Flared Pants
+B6786687:Trousers
+B6786688:Pants
+B6786689:Pants
+B678668A:Wide Breeches
+B678668B:Pants
+B678668C:Viamontian Pants
+B678668E:Nariyid Boots
+B678668F:Diforsa Sollerets
+B6786691:Ring
+B6786690:Chainmail Bracers
+B6786692:Chainmail Greaves
+B6786661:Calling Stone
+B6786693:Chainmail Tassets
+B6786694:Ring
+B6786697:Gorget
+B6786695:Ring
+B6786696:Trousers
+B6786698:Heavy Bracelet
+B6786699:Gorget
+B678669A:Bracelet
+B678669B:Studded  Greaves
+B678669C:Haebrean Girth
+B678669D:Ring
+B678669E:Ring
+B678669F:Compass
+B67866A0:Ring
+B67866A1:Ring
+B67866A4:Heavy Necklace
+B67866A2:Loose Shirt
+B67866A3:Trousers
+B67866A5:Heavy Bracelet
+B67866A7:Yoroi Pauldrons
+B67866A8:Scalemail Pauldrons
+B67866A9:Steel Toed Boots
+B67866AA:Olthoi Celdon Sollerets
+B67866AB:Alduressa Gauntlets
+B67866AC:Chainmail Gauntlets
+B67866AD:Sedgemail Leather Vest
+B67866AE:Koujia Breastplate
+B67866AF:Flared Pants
+B67866B0:Pants
+B67866B1:Heavy Bracelet
+B67866B2:Necklace
+B67866B3:Amulet
+B67866B4:Ring
+B67866B5:Ring
+B67866B6:Ring
+B67866B7:Ring
+B67866B8:Heavy Bracelet
+B67866B9:Flared Pants
+B67866BF:Facility Hub Portal Gem
+B67866C0:Aphus Lassel Portal Gem
+B67866C1:Training Dirk
+B67866C2:Lace Shirt
+B67866C3:Loose Shirt
+B67866C4:Loose Pants
+B67866C5:Goggles
+B67866CC:Shirt
+B67866CD:Qafiya
+B67866E3:Alduressa Boots
+B67866E1:Knorr Academy Tassets
+B67866E2:Haebrean Greaves
+B67866E4:Haebrean Breastplate
+B6786662:Blackmoor's Favor
+B6786664:Teleportation Device
+B67866E6:Olthoi Girth
+B67866E7:Chainmail Girth
+B67866E8:Olthoi Alduressa Gauntlets
+B67866E9:Chainmail Breastplate
+B67866EA:Tenassa Breastplate
+B67866EB:Studded Leather Breastplate
+819C91D1:Elysa's Crystal
+B67866F6:Amulet
+B67866F1:Crown
+B67866F5:Crown
+B6786701:Ring
+B67866F7:Teardrop Crown
+B67866F8:Studded Leather Tassets
+B67866F9:Haebrean Greaves
+B67866FA:Studded Leather Pauldrons
+B67866FD:Trousers
+B6786700:Pants
+B6786702:Heavy Bracelet
+B6786703:Bracelet
+B6786704:Amulet
+B6786705:Loose Shirt
+B6786706:Gorget
+B6786708:Heavy Bracelet
+B6786709:Amulet
+B678670A:Heavy Bracelet
+B678670B:Heavy Bracelet
+B678670C:Compass
+B678670D:Amulet
+B678670E:Bracelet
+B678670F:Ring
+B6786710:Teardrop Crown
+B6786714:Ring
+B6786715:Ring
+B6786716:Ring
+B6786717:Ring
+B6786718:Heavy Necklace
+B6786719:Gorget
+B678671A:Amulet
+B678671B:Ring
+B678671C:Pocket Watch
+B678671D:Heavy Bracelet
+B6786722:Gorget
+819C75FB:Electric Trident
+8198402F:Sceptre
+
+Missing Exports - Possessed items that were not found:

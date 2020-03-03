@@ -1,0 +1,15 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-logs\AC logs\pkt_2017-1-22_1485049753_log.pcap
+
+Partial Exports - Missing appraisal info:
+D7ADDF5C:Sack
+D7ADDF5D:Ust
+D7ADDF5F:Pathwarden Token
+D7ADDF61:Foci of Strife
+
+Missing Exports - Possessed items that were not found:
+D7E88046
+D7ADDF65
+D7ADDF64
+D7ADDF63
+D7ADDF62

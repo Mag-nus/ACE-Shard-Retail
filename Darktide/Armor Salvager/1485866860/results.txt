@@ -1,0 +1,231 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-31_1485866853_log.pcap
+
+Partial Exports - Missing appraisal info:
+A75947D1:Weeping Sword
+80AB075E:Flared Shirt
+80AB0763:Baggy Shirt
+C73FBECE:Shirt
+C75E09C9:Baggy Shirt
+C6017885:Baggy Shirt
+C93D5EA0:Loose Shirt
+C94F419B:Loose Shirt
+C976EF14:Baggy Shirt
+C9508822:Baggy Shirt
+CB41C6D5:Shirt
+CB71E20F:Shirt
+89CD20B1:Smock
+80AB0762:Smock
+CBC38A29:Flared Shirt
+CBCC33AC:Baggy Shirt
+CCB6150F:Shirt
+CC6B493B:Baggy Pants
+CC6A74E7:Viamontian Pants
+CD9888F4:Flared Shirt
+CDDF985B:Baggy Shirt
+C85BB260:Smock
+BA6D078A:Pack
+C65D6883:Compass
+C50AC4D7:Compass
+C3662239:Goggles
+8A088747:Pocket Watch
+BA6D07E6:Pack
+80AB8263:Compass
+80AB8285:Mechanical Scarab
+BA6D079B:Pack
+80AB8294:Compass
+8A0887B8:Compass
+80AB8282:Top
+89D1E65E:Top
+C741432B:Top
+C4DB98F4:Top
+BFEEB80C:Puzzle Box
+BA6D1681:Compass
+A75947CB:Blackmoor's Favor
+A75947CC:Oil of Rendering
+CBDBA4DC:Gorget
+CB7FDA38:Ring
+CBBA2DA2:Heavy Necklace
+CBB523DE:Heavy Necklace
+CCCEE2E6:Ring
+89C2CFA1:Ring
+AD6A50A4:Ring
+84676205:Baggy Pants
+B20D5EFE:Pants
+80807852:Pantaloons
+8080647F:Trousers
+80AB8297:Viamontian Pants
+80AB8280:Baggy Pants
+80AB8296:Loose Pants
+C4C5E104:Baggy Pants
+C50AD0C2:Trousers
+C6BDE66F:Pants
+80AB074C:Trousers
+80AB075F:Pants
+80AB074B:Pantaloons
+80AB075D:Flared Pants
+C741EE1A:Pants
+C740D9DD:Baggy Pants
+C0129901:Baggy Pants
+C83C3A3E:Pantaloons
+CB6B4DDB:Pantaloons
+CB83643D:Loose Pants
+CB9C3AC9:Viamontian Pants
+CCB6494D:Flared Pants
+CCA9316A:Loose Pants
+80A3D128:Pack
+8A0887D2:Baggy Shirt
+8A088740:Loose Shirt
+8A0887AC:Viamontian Pants
+808064F4:Flared Shirt
+80AB8287:Lace Shirt
+80AB8286:Baggy Shirt
+80AB82A1:Smock
+80AB827F:Smock
+8111B714:Loose Shirt
+8009F172:Flared Shirt
+80AB074E:Poet's Shirt
+8A08874D:Bracelet
+8A088757:Heavy Necklace
+8A08874E:Necklace
+8A088754:Ring
+8A088756:Ring
+8A088753:Ring
+8A088758:Bracelet
+8A08874B:Ring
+8A08874A:Ring
+8A088743:Ring
+8A088749:Heavy Bracelet
+8A0887C2:Heavy Bracelet
+8A088748:Ring
+8A088742:Heavy Bracelet
+8A088745:Ring
+8A088744:Heavy Bracelet
+8A088755:Ring
+9855E23A:Heavy Bracelet
+BAF3C650:Ring
+BABBD6C5:Heavy Bracelet
+BC427137:Ring
+B1262640:Bracelet
+B2BAE46D:Amulet
+8AF0E282:Gorget
+AD6A50A7:Ring
+80807851:Ring
+8009F1B3:Ring
+80AB8291:Ring
+80AB8293:Ring
+800DBDE5:Ring
+80AB828E:Ring
+80806477:Bracelet
+80AB82BB:Bracelet
+8009F1B2:Heavy Bracelet
+80AB829E:Bracelet
+80AB8283:Heavy Bracelet
+80AB82BE:Heavy Bracelet
+808064F0:Bracelet
+80AB827E:Heavy Bracelet
+97A3A2E9:Heavy Bracelet
+800DBDE4:Heavy Bracelet
+846030FD:Ring
+8080780D:Heavy Bracelet
+800DBDEB:Heavy Bracelet
+808064E6:Gorget
+80AB829F:Heavy Bracelet
+9804D9E3:Heavy Bracelet
+8A0887CE:Ring
+808064E7:Heavy Bracelet
+80AB82A2:Ring
+808064F9:Ring
+80AB8290:Amulet
+800DBDD9:Gorget
+80AB82BA:Gorget
+80AB828F:Amulet
+BEF116C9:Amulet
+C4C72928:Heavy Bracelet
+C4A93AD3:Ring
+BFEEB9A6:Heavy Bracelet
+8A0887DF:Ring
+8080780B:Heavy Necklace
+80AB825C:Bracelet
+80AB825D:Heavy Bracelet
+80AB825E:Bracelet
+80AB8259:Heavy Bracelet
+80AB825A:Ring
+80AB825F:Ring
+80AB8260:Ring
+80AB0759:Ring
+C0054781:Gorget
+BFF4213D:Ring
+C086C15D:Gorget
+C0624868:Heavy Bracelet
+C05043F1:Ring
+BFEEB9AD:Heavy Bracelet
+80AB8261:Heavy Necklace
+BFE76317:Gorget
+C4C646D8:Heavy Bracelet
+C4C5DA56:Ring
+C4DCC356:Ring
+C4619470:Amulet
+C36BD1F6:Heavy Bracelet
+BFF9E79A:Heavy Bracelet
+BFE2533C:Bracelet
+C68C6F94:Heavy Bracelet
+C68D3E32:Ring
+C68D49AE:Ring
+C6901E00:Ring
+C50A6F4F:Gorget
+C6016FCB:Heavy Bracelet
+C69784D5:Heavy Necklace
+C6900F95:Bracelet
+C6D17C3C:Heavy Bracelet
+80AB0756:Heavy Bracelet
+80AB0758:Gorget
+80AB0757:Gorget
+80AB075A:Heavy Necklace
+80AB077F:Bracelet
+80AB077D:Heavy Necklace
+80AB077B:Heavy Bracelet
+80AB077C:Ring
+80AB077A:Heavy Bracelet
+80AB0779:Heavy Bracelet
+80AB0778:Heavy Bracelet
+80AB0747:Ring
+80AB0771:Heavy Bracelet
+80AB0770:Heavy Necklace
+80AB076E:Ring
+80AB076D:Bracelet
+80AB076B:Heavy Bracelet
+80AB076A:Heavy Bracelet
+80AB076C:Heavy Bracelet
+80AB0769:Heavy Bracelet
+80AB0768:Bracelet
+80AB0767:Heavy Bracelet
+80AB0766:Heavy Bracelet
+80AB075C:Ring
+80AB075B:Gorget
+C740E713:Ring
+C0119F23:Ring
+80AB0745:Ring
+C012A196:Heavy Bracelet
+80AB074A:Ring
+80AB074F:Heavy Bracelet
+80AB074D:Heavy Bracelet
+80AB0746:Ring
+80AB0751:Heavy Necklace
+80AB0750:Heavy Bracelet
+80AB0749:Ring
+C740D71A:Heavy Bracelet
+80AB0753:Ring
+80AB0782:Heavy Bracelet
+C84A746D:Ring
+C849F23E:Bracelet
+C85E11D4:Amulet
+80AB82A0:Heavy Bracelet
+C7A51B0F:Heavy Bracelet
+CD0EF9E8:Necklace
+C954C378:Heavy Necklace
+CCC87934:Heavy Bracelet
+80AB0754:Ring
+8080780C:Bracelet
+
+Missing Exports - Possessed items that were not found:

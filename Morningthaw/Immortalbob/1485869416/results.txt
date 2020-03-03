@@ -1,0 +1,197 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Immortalbob-1-31-17-Random-Pcaps-3\pkt_2017-1-31_1485869410_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Immortalbob-1-31-17-Random-Pcaps-5\pkt_2017-1-30_1485778313_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Immortalbob-1-31-17-Random-Pcaps-5\pkt_2017-1-30_1485778407_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\somepcaps\pkt_2017-1-30_1485778313_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\somepcaps\pkt_2017-1-30_1485778407_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Immortalbob-1-31-17-Random-Pcaps-5\pkt_2017-1-30_1485785419_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Immortalbob-1-31-17-Random-Pcaps-5\pkt_2017-1-30_1485799583_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\somepcaps\pkt_2017-1-30_1485785419_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Immortalbob-1-31-17-Random-Pcaps-5\pkt_2017-1-30_1485807745_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Immortalbob-1-31-17-Random-Pcaps\pkt_2017-1-30_1485829938_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Immortalbob-1-31-17-Random-Pcaps\pkt_2017-1-30_1485829938_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Immortalbob-1-31-17-Random-Pcaps\pkt_2017-1-31_1485864376_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Immortalbob-01-30-2017-pkt_2017-1-30_1485807745_log\pkt_2017-1-30_1485807745_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Immortalbob-1-31-17-Random-Pcaps\pkt_2017-1-30_1485821982_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Immortalbob-1-31-17-Random-Pcaps-2\pkt_2017-1-30_1485824927_log.pcap
+
+Partial Exports - Missing appraisal info:
+919C1119:Mirror Shard
+8000B1AC:Sturdy Bloodstone Wand
+8FC09B27:Peerless Lockpick
+8C109738:Brown Society Locket
+8000B1B3:Enhanced Yellow Empyrean Ring
+8B94F6BA:Purple Society Band
+8000B1AB:Teleportation Device
+C24760FB:Casting Stone
+8000B1BE:Nether Staff
+8000B1B0:Nether Staff
+8000B1AA:Attenuated Awakener
+B90FBD0E:Nether Staff
+C42609D3:Major Mana Stone
+8000B1B6:Rossu Morta Chapterhouse Recall Orb
+C42609CD:Major Mana Stone
+C4230DCA:Major Mana Stone
+C424CC4A:Major Mana Stone
+BA1D8443:Lesser Corrupted Essence
+AC039C7B:Akiekie Ember
+C48FF431:Pyreal
+B44D9F31:Lesser Corrupted Essence
+C4567945:Major Mana Stone
+C4253116:Major Mana Stone
+C48F294C:Major Mana Stone
+8000B124:Deck of Hands
+9FA37DD8:Dire Champion Token
+8D94525F:Gauntlet Coin
+8000B172:Mutated Olthoi Gland
+80905142:Dire Champion Token
+9FC65479:Dire Champion Token
+91B99B4C:Ornate Gear Marker
+8000B171:Legendary Token
+9888B14F:Lady Tairla Mhoire's Key
+8F9A178D:Stipend
+9E401865:Lady Tairla Mhoire's Key
+BE9F34FD:A'nekshay Token
+BE9DD20B:Infused Amber Shard
+C315781B:Gauntlet Coin
+C38D3E54:Small Olthoi Venom Sac
+C342DE64:Ancient Mhoire Coin
+8000B19E:Copper Scarab
+8000B191:Pyreal Scarab
+B9082AD5:Prismatic Taper
+8000B196:Gold Scarab
+8000B1A4:Diamond Scarab
+8000B19D:Platinum Scarab
+8000B195:Lead Scarab
+8000B1A3:Diamond Scarab
+8000B19F:Silver Scarab
+8000B192:Platinum Scarab
+8000B197:Arcane Pyramid
+8000B19C:Iron Scarab
+800506A7:Diamond Scarab
+C17240E8:Silver Pea
+C17254DE:Gold Pea
+C1DC1182:Pyreal Pea
+82105DA0:Mana Scarab
+C374BF01:Mana Scarab
+C36E01B5:Mana Scarab
+C374C0C1:Mana Scarab
+C375B4F5:Mana Scarab
+C34A27D0:Prismatic Taper
+C45A4182:Prismatic Taper
+809B4B03:Daimyo Idah's Tattered Mask
+8000B135:Sake
+8000B13F:Lord Cynreft's Ancient Emblem of Mhoire
+808A7896:Geraine's Tome (1)
+8000B140:Lady Tairla's Ancient Emblem of Mhoire
+8000B137:Snow Tusker Blood Sample
+8000B14A:Geraine's Tome (5)
+A01067FF:Eldrytch Web Commendation Ribbon
+A14722A8:Shattered Aetherium Core Sample
+8000B134:Wah Chon's Winter Lager
+8000B139:Jester's Token
+8000B142:Mana Infused Nightbloom
+A418DADE:Strong Benevolence
+9351FEF7:Aerbax Mask Shard
+8000B147:Brew Kettle
+8000B14C:Daimyo Idah's Tattered Mask
+91F5CA48:Geraine's Tome (4)
+B6639342:Lord Cynreft Mhoire's Signet Ring
+9BF321B0:Geraine's Tome (3)
+94907570:Geraine's Tome (2)
+8000B13B:Amelia's Gargoyle Amulet
+8000B146:Vigor Infused Nightbloom
+8000B149:Pet Penguin Igloo
+8000B13A:Isparian Weapons Modifying Tool
+8005D9B4:Encapsulated Spirit
+8000B169:Major Prismatic Stone
+8174B28C:Red Fire Infusion
+8000B16E:Ust
+8000B164:Blood of the Hopeslayer
+8000B161:Red Fire Infusion
+8F800004:Blank Augmentation Gem
+8000B15D:Red Fire Infusion
+8000B16B:Heart of the Innocent
+8000B163:Aetheria Mana Stone
+8000B168:Enhanced Black Fire Atlan Stone
+8000B165:Major Prismatic Stone
+8000B15F:Inert Skeletonbane Infusion
+95DEEE45:Red Fire Infusion
+8000B138:Elemental Talisman
+8000B16A:Aligned Mana Stone
+8000B162:Blue Fire Infusion
+96A4832F:Hardened Shard
+8000B15E:Blood of the Hopeslayer
+8000B16C:White Fire Infusion
+81442C8D:Unkindled Thaumaturgic Plate Leggings
+813FB4A1:Unkindled Thaumaturgic Plate Girth
+8138C573:Unkindled Thaumaturgic Plate Coat
+816F6E49:Enhanced Black Fire Atlan Stone
+81F56ED0:Black Fire Atlan Stone
+BE9E0F4D:Gladiator's Defense Armor Augmentation
+82C84B58:Corcima Castle Platinum Ward Portal Gem
+8207E00B:Assassin's Recall Gem
+8000B156:Habitat Portal Gem
+8629C1A3:Facility Hub Portal Gem
+82FADD6B:Eldrytch Web Stronghold Portal Gem
+92FDB271:Corcima Castle Silver Ward Portal Gem
+8000B158:Frozen Valley Portal Gem
+8000B14F:Vissidal Island Portal Gem
+91B956AB:Spectral Missile Weapon Mastery Crystal
+8B5163DF:Portal Gem
+8000B150:Nanner Island Portal Gem
+C6B40131:Wheel Cart
+8003176D:Aetheria
+92FD5FB0:Corcima Castle Copper Ward Portal Gem
+8000B152:Town Network Portal Gem
+8000B157:Sezzherei's Lair
+8000B14E:Fort Tethana Portal Gem
+8000B159:Knorr Portal Gem
+81437963:Invitation to Master Fletchers
+C51B387C:Aged Legendary Key
+C410FF7A:Health Philtre
+C3DD5691:Salvage (95)
+C3E6D69C:Salvage (50)
+C5820E0B:Titan Mana Charge
+C3F80032:Salvage (41)
+C3EF8D88:Salvage (56)
+BF681DF3:Titan Mana Charge
+C3FABA67:Salvage (31)
+C3D4FBC4:Salvage (28)
+C5820DD2:Titan Mana Charge
+C4516F28:Salvage (73)
+C4551D69:Salvage (47)
+C57EB1D9:Titan Mana Charge
+C4551BE3:Salvage (25)
+C45B56A2:Salvage (84)
+B8C7B081:Titan Mana Charge
+C45C494B:Salvage (25)
+C47A05E7:Trade Note (250,000)
+C5820E3D:Titan Mana Charge
+B7B4EFC5:Titan Mana Charge
+C6B0A522:Eldrytch Web Trade Token
+C66BAB8E:Eldrytch Web Armor Writ
+C6B0BD52:Society Gem of Lesser Luminance
+C6B44986:Gold Shallows Shredder Fin
+C6B0A540:Gold Shallows Shredder Fin
+8000B151:Abandoned Mines Portal Sending Gem
+BA88703E:Major Sparking Stone
+C51BB690:Aged Legendary Key
+C23BC9F1:Salvage (31)
+C3DD3E71:Salvage (50)
+C57ED473:Titan Mana Charge
+C48AAA61:Salvage (13)
+C48AAA52:Salvage (67)
+C5820DF2:Titan Mana Charge
+8000B13E:Present
+C6AE0728:Promissory Note
+C6AE0744:Promissory Note
+C6B4197E:Powdered Chorizite Pea
+C6B4511A:Salvage (22)
+8E59798A:Inert Mucor
+C6B58FB0:Blue Burning Mushroom
+C6B83869:Damaged Celestial Hand Commendation Ribbon
+
+Missing Exports - Possessed items that were not found:

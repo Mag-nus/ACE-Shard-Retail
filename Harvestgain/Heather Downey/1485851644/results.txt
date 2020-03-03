@@ -1,0 +1,24 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-31_1485851616_log.pcap
+
+Partial Exports - Missing appraisal info:
+C7EBE6CD:Shirt
+
+Missing Exports - Possessed items that were not found:
+C8647117
+C7EBE6DD
+C7EBE6DC
+C7EBE6DB
+C7EBE6DA
+C7EBE6D9
+C7EBE6D7
+C7EBE6D6
+C7EBE6D5
+C7EBE6D4
+C7EBE6D3
+C7EBE6D2
+C7EBE6D0
+C7EBE6D8
+C7EBE6D1
+C7EBE6CF
+C7EBE6CE

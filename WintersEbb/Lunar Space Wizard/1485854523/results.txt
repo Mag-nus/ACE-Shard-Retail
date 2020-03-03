@@ -1,0 +1,170 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Lunar_Space_Wizard_archive_2\pkt_2017-1-31_1485854488_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Lunar_Space_Wizard_archive\pkt_2017-1-30_1485816439_log.pcap
+
+Partial Exports - Missing appraisal info:
+85FF3E1F:Blighted Mana Crystal
+85FF3E19:Foci of Enchantment
+85FF3E1A:Foci of Artifice
+85FF3E1B:Blackmoor's Favor
+85FF3E1C:Pathwarden Trinket
+85FF3E1D:Pack
+85FF3E1E:Dark Sliver
+85FF3E20:Storytelling
+85FF3E21:Denouement
+85FF3E22:A Meeting
+85FF3E54:Screen
+85FF3E23:Sir Martine's Journal
+85FF3E24:Storytelling
+85FF3E25:Denouement
+85FF3E26:Facilitation
+85FF3E27:Small Shard
+85FF3E28:Dark Shard
+85FF3E29:Ley-Leech's Orders
+85FF3E2A:Edicts of the Singularity
+85FF3E2B:Sack
+85FF3E2C:Sturdy Iron Key
+85FF3E2D:Salvage
+85FF3E2E:An Old Chronicle
+85FF3E2F:Salvage
+85FF3E30:Salvage
+85FF3E31:Sturdy Iron Key
+85FF3E32:Sturdy Iron Key
+85FF3E33:Sturdy Iron Key
+85FF3E34:Inscribed Purple Gem
+85FF3E35:Shoes
+85FF3E36:Sturdy Iron Key
+85FF3E39:Sturdy Iron Key
+85FF3E3A:Sturdy Iron Key
+85FF3E3B:Salvage
+85FF3E3C:Trade Note (250,000)
+85FF3E3D:Sturdy Iron Key
+85FF3E3E:Granite Heart
+85FF3E3F:Sturdy Steel Key
+85FF3E40:Ring of Piercing Protection
+85FF3E41:Glittering Bracelet of Acid Protection
+85FF3E42:Festival Shirt
+85FF3E52:Ust
+85FF3E43:A Bracelet of Piercing Protection
+85FF3E56:Lucky Gold Letter
+85FF3E45:Pack
+85FF3E46:Copper Scarab
+85FF3E47:Silver Scarab
+85FF3E48:Gold Scarab
+85FF3E49:Iron Scarab
+85FF3E4A:Lead Scarab
+85FF3E4B:Pyreal Scarab
+85FF3E4C:Diamond Scarab
+85FF3E4D:Prismatic Taper
+85FF3E4E:Lead Scarab
+85FF3E50:Trousers
+85FF3E51:Facility Hub Portal Gem
+85FF3E53:Splitting Tool
+85FF3E57:Lucky Gold Letter
+85FF3E55:Berimphur Plant
+85FF3E58:Lucky Gold Letter
+85FF3E59:Foci of Strife
+85FF3E5A:Lucky Gold Letter
+85FF3E5B:Lapyan Plant
+85FF3E5C:Orange Monster Seed
+85FF3E5D:Verdalim Plant
+85FF3E5E:Lucky Gold Letter
+85FF3E5F:Sturdy Gromnie Hide
+85FF3E60:Fish Stamp
+85FF3E61:Brown Lump
+85FF3E62:Sack
+A4E30BDD:Swamp Stone
+A4CD067E:Swamp Stone
+A4CD0697:Swamp Stone
+A4CCDBAE:Swamp Stone
+A4CD069F:Swamp Stone
+85FF3E68:Peerless Lockpick
+85FF3E69:Peerless Lockpick
+85FF3E6A:Peerless Lockpick
+85FF3E6C:Letter to General Garsh
+85FF3E6D:Travel Log
+85FF3E73:Lucky Gold Letter
+85FF3E74:Rithwic Town Stamp
+85FF3E75:Mid-Stakes Gambling Token
+85FF3E76:Seasoned Explorer Ring Of Endurance
+85FF3E7A:Amuli Leggings
+85FF3E7B:Helmet
+85FF3E7F:Pyreal
+85FF3E7C:Amuli Coat
+85FF3E7E:Drudge Scrying Orb
+85FF3E99:Pyreal
+85FF3E80:Lucky Gold Letter
+85FF3E81:Arctic Mattekar Annihilator Plaque
+85FF3E82:Low-Stakes Gambling Token
+85FF3E83:Academy Stamp
+85FF3E84:Drudge Wand
+85FF3E85:Trade Note (100,000)
+85FF3E86:Olthoi Ichor
+85FF3E87:Lucky Gold Letter
+85FF3E88:Lucky Gold Letter
+85FF3E89:Moderate Mana Stone
+85FF3E8A:Tattered Virindi Cloak
+85FF3E8B:Olthoi Ichor
+85FF3E8C:Moderate Mana Stone
+85FF3E8D:Lucky Gold Letter
+85FF3E8E:Lucky Gold Letter
+85FF3E8F:Writ of Refuge
+85FF3E90:Mana Stone
+85FF3E91:Mana Stone
+85FF3E92:A Bracelet of Piercing Protection
+85FF3E93:Sublime Necklace of Acid and Piercing Protection
+85FF3E9A:Pyreal
+85FF3E94:Sublime Bracelet of Acid Protection
+85FF3E95:Gem of Stillness
+85FF3E9B:Pyreal
+85FF3E96:Gem of Purity
+85FF3E97:Sublime Ring of Piercing Protection
+85FF3E98:Gem of Stillness
+85FF3EA3:Sublime Bracelet of Acid Protection
+A5BD671A:Pyreal
+85FF3EA4:Gem of Stillness
+85FF3EAC:Sublime Ring of Piercing Protection
+A5AC52A0:Writings
+85FF3EAD:Treated Healing Kit
+85FF3EAE:Treated Healing Kit
+85FF3EAF:Gem of Stillness
+85FF3EB1:Treated Healing Kit
+85FF3EB2:Treated Healing Kit
+85FF3EB3:Gem of Stillness
+A44F1DBD:Trade Note (250,000)
+A4CCE7AC:Moderate Mana Stone
+A4E42D14:Moderate Mana Stone
+A4EDDF89:Stamina Elixir
+A4EDEBE4:Lesser Mana Stone
+A4DD99CE:Lesser Mana Stone
+85FF3E63:Crimped Hat
+85FF3E6E:Artist's Crystal
+85FF3E6B:Peerless Lockpick
+85FF3E70:Observer's Crystal
+85FF3E6F:Warrior's Crystal
+85FF3E72:Coalesced Aetheria
+85FF3E7D:Protective Drudge Charm
+85FF3E79:Covenant Gauntlets
+A4EBC881:Treated Healing Kit
+85FF3E64:Dapper Suit
+85FF3E78:Sollerets
+A4EBC886:Treated Healing Kit
+A4EDCBD8:Vaulter's Crystal
+A4EDAD8B:Ancient Empyrean Trinket
+A5BB5D8E:Stipend
+A4EBC69C:Sublime Bracelet of Acid Protection
+A4EBC880:Trade Note (100,000)
+A5BEA67F:Te Ven's Key
+A4EBAAA9:Gem of Stillness
+A5BD545F:Potion of Healing
+A5BD546A:Potion of Healing
+85FF3EB5:Branith's Staff
+A5B7464D:Covenant Helm
+A5B8D5A8:Flaming Knuckles
+A5BE170E:Virindi Envoy's Obsidian Shard
+A59FEF39:Yanshi Town Stamp
+A5BA589F:Wand of Black Fire
+
+Missing Exports - Possessed items that were not found:

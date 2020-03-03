@@ -1,0 +1,265 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap6\pkt_2017-1-29_1485719179_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap6\pkt_2017-1-29_1485719179_log.pcap
+
+Partial Exports - Missing appraisal info:
+B77E3199:Peerless Healing Kit
+B77E685B:Small Pine Tree
+B77E18F2:Pack
+B77D68E7:Peerless Healing Kit
+B7AFD8F0:Peerless Healing Kit
+B77D6859:Peerless Healing Kit
+B7C2FBE5:Peerless Healing Kit
+B77E43E8:Peerless Healing Kit
+B77D86C7:Peerless Healing Kit
+B77DAB10:Peerless Healing Kit
+B77D18CD:Peerless Healing Kit
+B7802DD3:Peerless Healing Kit
+B77CD6E0:Peerless Healing Kit
+B79D0008:Peerless Healing Kit
+B77E4948:Peerless Healing Kit
+B7802101:Peerless Healing Kit
+B7AFCA0C:Peerless Healing Kit
+B77D6A8E:Peerless Healing Kit
+B7AFB471:Peerless Healing Kit
+B791F9F9:Peerless Healing Kit
+B7D17459:Studded Leather Pauldrons
+B7AF54BF:Peerless Healing Kit
+B77E45B3:Peerless Healing Kit
+B7BB7E9D:Peerless Healing Kit
+B7CBA6E3:Peerless Healing Kit
+B7F750D0:Black Stone
+B7F750DE:Sack
+B77E5A00:Salvaged  (100)
+B77DC40C:Salvaged  (100)
+B7AF517B:Salvaged  (100)
+B7DF20F6:Salvaged  (100)
+B77EF9DC:Screen
+B7BB2A0E:Salvaged  (100)
+B77E135D:Salvaged  (100)
+B7F75151:Greater Mana Stone
+B79201E8:Salvaged  (100)
+B7923781:Salvaged  (100)
+B7F75114:Scroll of Whirling Blade VI
+B77DC663:Salvaged  (100)
+B7923493:Salvaged  (100)
+B7923384:Scroll of Frost Bolt VI
+B780205A:Salvaged  (100)
+B77D96AE:Salvaged  (100)
+B77DF44D:Scroll of Faithlessness VI
+B7922CDC:Salvaged  (100)
+B7AFB474:Salvaged  (100)
+B7AFC732:Scroll of Acid Streak VI
+B77EC410:Salvaged  (100)
+B7952712:Salvaged  (100)
+B556C13B:Scroll of Mana Drain Other VI
+B7F750E8:Salvaged  (100)
+B7E53995:Salvaged  (100)
+B77EF53F:Bed
+B77D8319:Salvaged  (100)
+B78C9A1A:Salvaged  (100)
+B7F751A4:Ebon Spine Harpoon
+B7F750F9:Salvaged  (100)
+B77EB9DB:Salvaged  (100)
+B77DBBAE:Prismatic Taper
+B79E9B82:Salvaged  (100)
+B77E3C1B:Salvaged  (100)
+B77E4636:Sturdy Iron Key
+B7AEDD46:Sceptre
+B790CAA7:Gorget
+B7AF2086:Smock
+B79A10E6:Scroll of Health to Stamina Self VI
+B77E306D:Cap
+B7AFE4D2:Scroll of Item Enchantment Mastery Other VI
+B79D7E06:Heavy Necklace
+B778638C:Scroll of Light Weapon Mastery Self VI
+B77E5175:Scroll of Light Weapon Mastery Self VI
+B7F75967:Orb
+B77BED1E:Staff
+B77ED477:Scroll of Item Tinkering Ignorance VI
+B77CF3A6:Staff
+B7A6119C:Scroll of Whirling Blade Streak VI
+B7F7511C:Scroll of Finesse Weapon Mastery Other VI
+B77D6A29:Acid Dagger
+B7C24689:Pack
+B78B973F:Salvaged  (100)
+B7AFD1F1:Salvaged  (100)
+B77D62F1:Scroll of Lightning Bolt VI
+B77D9016:Salvaged  (100)
+B77508DE:Salvaged  (100)
+B7AF3D62:A Small Mnemosyne
+B7AF2817:Salvaged  (100)
+B7ACED94:Salvaged  (100)
+B7A7EFE3:Treated Healing Kit
+B77DA97D:Salvaged  (100)
+B7F75119:Salvaged  (100)
+B7F4781C:Ginger
+B7F7511F:Salvaged  (100)
+B7DF1ABE:Covenant Shield
+B7F15928:Frost Shamshir
+B7C7EB9E:Covenant Shield
+B7B1E953:Diamond Shield
+B77E2FA7:Naginata
+B77F9DA4:Greater Celdon Shadow Leggings
+B77F2C9E:Greater Celdon Shadow Breastplate
+B7922B2C:Screen
+B7AF21B1:Greater Celdon Shadow Sleeves
+B77D82AD:Greater Celdon Shadow Girth
+B7A461B0:Mattekar Hide Coat
+B7F750FA:Armet
+B77DBACE:A Small Mnemosyne
+B77F34DF:Pack
+B77CD02F:Gem of Stillness
+B77D6D68:Sturdy Iron Key
+B802AD7B:Gem of Stillness
+B77DA934:Gem of Stillness
+B7802975:Gem of Stillness
+B7F43999:Gem of Stillness
+B7F750EF:Salvaged  (100)
+B775C76F:Salvaged  (100)
+B77BCFA0:Sturdy Iron Key
+B77E2F87:Salvaged  (100)
+B791F3F7:Salvaged  (100)
+B79FDD22:Scroll of Koga's Boon
+B77D20CB:Lapyan Plant
+B7819F23:Salvaged  (100)
+B7F7509C:Verdalim Plant
+B7E52672:Salvaged  (100)
+B7AED8D5:Sollerets
+B7F7515F:Stamina Elixir
+B7A14A74:Stamina Elixir
+B7F7515E:Yumi
+B77DF1D3:Scalemail Sleeves
+B7AF4C92:Staff
+B77EC368:War Hammer
+B7DF92EA:Crown
+B77EDC71:Slippers
+B51F13E3:Chainmail Breastplate
+B77DAE02:Scroll of Heart Rend
+B7AFB908:Necklace
+B80563A6:Tunic
+B7801364:Scroll of Archer's Gift
+B7E94748:Scalemail Cuirass
+B7AFB4B9:Platemail Sleeves
+B7F750F4:Chainmail Shirt
+B77DA7F8:Chainmail Shirt
+B7AE4756:Platemail Hauberk
+B77E2012:Celdon Leggings
+B77E0910:Armet
+B77D8389:Scroll of Enervation
+B7CF22C8:Scroll of Boon of Refinement
+B77DBEB6:Scroll of Celdiseth's Boon
+B77EDC45:Scroll of Sudden Frost
+B77DA897:Scroll of Purge Creature Magic Other
+B77400EC:Scroll of Swordsman's Bane
+B77D2036:Covenant Breastplate
+B78021E4:Scroll of Lightning Streak VI
+B77E20F8:Scroll of Cassius' Ring of Fire
+B7AFF66E:Scroll of Halo of Frost
+B793C1E5:Scroll of Lightning Arc V
+B77DBD89:Scroll of Nuhmudira's Spines
+B7C7EAE0:Flaming Cestus
+B7B94765:Scroll of Weapon Tinkering Ignorance VI
+B77E1B65:Scroll of Lightning Bolt VI
+B77D1D11:Scroll of Shock Wave Streak VI
+B78B4145:Scroll of Drain Stamina Other VI
+B7E949FA:Scroll of Whirling Blade VI
+B77DF76F:Armet
+B7F750E9:Pack
+B77EF56D:Orb
+B7773B0B:Orb
+B7802E0A:Colban Plant
+B79C820A:Orb
+B77D822E:Orb
+B77E289E:Treated Healing Kit
+B77DF5A4:Orb
+B77E5D11:Treated Healing Kit
+B77ECAC2:Treated Healing Kit
+B77E4D66:Treated Healing Kit
+B776081A:Treated Healing Kit
+B77D6820:Treated Healing Kit
+B7A08681:Treated Healing Kit
+B77DA284:Treated Healing Kit
+B7A87CA4:Treated Healing Kit
+B7F75900:Gem of Stillness
+B77E2581:Treated Healing Kit
+B77E3E95:Minalim Plant
+B78CB917:Gem of Stillness
+B77E60FA:Gem of Stillness
+B7F7515D:Salvaged  (100)
+B77E7032:Iceball
+B77BEB41:Pack
+B7F750F3:Major Smoldering Stone
+B77E16C8:Sollerets
+B77CFDAA:Sollerets
+B77E2125:Sollerets
+B77CD967:Sollerets
+B7F75112:Sollerets
+B7F750D9:Sollerets
+B7B1D9D9:Sollerets
+B7EDABFD:Sollerets
+B7F69942:Gem of Stillness
+B7F750C4:Dark Shard
+B7AC7775:A Small Mnemosyne
+B7EBFBF1:Crown
+B775140F:A Small Mnemosyne
+B77DC210:Pack
+B7923861:Virindi Implant
+B774F6B7:Virindi Implant
+B77E5D87:Utelari's Collar
+B7E5D865:Sahkurea's Collar
+B7A4D741:Manuaka's Collar
+B7EDC773:Reshalra's Collar
+B7802BD9:Utelari's Collar
+B77EC30F:Sahkurea's Collar
+B77EC3C0:Virindi Implant
+B7F7509B:Acid Dirk
+B7C7123F:Frost Dirk
+B74B6FE1:Lightning Dirk
+B7C9B100:Flaming Dirk
+B77ECC49:Flaming Dirk
+B7AFB5E9:Frost Dirk
+B7A4C913:Gromnie Spear-Head
+B7AFB768:Diamond Powder
+B77E7D2B:White Phyntos Wasp Wing
+B77E6B72:Jack o' Lantern
+B7922F38:Diamond Heart
+B77DF36C:Diamond Heart
+B7750F61:Diamond Heart
+B7D055C6:Heavy Crossbow
+B7AFB63B:Armet
+B7AE3352:Scroll of Caustic Blessing
+B77E5423:Scroll of Robustify
+B798EDAD:Scroll of Unsteady Hands
+B77E4F9B:Platemail Hauberk
+B7AED230:Heaume
+B7E4FD63:Scroll of Gift of Essence
+B77DAD9C:Heaume
+B77EFB48:Amuli Leggings
+B7AE3BB2:Yumi
+B77E45B4:Celdon Leggings
+B7AED8DA:Scroll of Missile Weapon Mastery Other VII
+B77DF489:Scroll of Executor's Boon
+B7CF5497:Scroll of Nuhmudira's Spines
+B7AFC99F:Scroll of Purge Creature Magic Other
+B775F6D1:Scroll of Cassius' Ring of Fire
+B8013459:Scroll of Unflinching Persistence
+B77E26D2:Scroll of Battlemage's Blessing
+B7AFDA92:Scroll of Belly of Lead
+B77DADCB:Nayin
+B7920885:Mask Spear-Head
+B7CBA75B:Carol's Carrot Soup
+B77E5B66:Obsidian Heart
+B77E160B:Diamond Heart
+B77D7988:Diamond Heart
+B7752695:Mu-miyah Torso
+B7F39A57:Flaming Morning Star
+B7AFC026:Frost Nekode
+B77DB022:Nekode
+B77D6AAF:Armet
+B7A1C030:Full Mu-miyah Guise
+B7CF5DBD:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

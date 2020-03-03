@@ -1,0 +1,106 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Delune-01-24-2017-packetlogging\pkt_2017-1-24_1485320277_log.pcap
+
+Partial Exports - Missing appraisal info:
+A581131E:Pyreal
+A58113DB:Ust
+A58112AA:Prismatic Taper
+A581139C:Lead Scarab
+A580BBDB:Oil of Rendering
+A5811443:Facility Hub Portal Gem
+A5811470:Pathwarden Sollerets
+A58112E0:Great Mana Charge
+A5811335:Pathwarden Gauntlets
+A581149F:Pathwarden Helm
+A580BBF5:Dire Mattekar Paw
+A57C8426:Golden Gromnie
+A58111A5:Golden Gromnie
+A5811341:Golden Gromnie
+A58111F3:Golden Gromnie
+A58112EC:Golden Gromnie
+A58112E4:Golden Gromnie
+A58112C3:Golden Gromnie
+A58111B1:Golden Gromnie
+A5811351:Golden Gromnie
+A5811471:Golden Gromnie
+A58112CF:Golden Gromnie
+A58112DD:Golden Gromnie
+A581149E:Golden Gromnie
+A581135D:Golden Gromnie
+A58112D7:Golden Gromnie
+A57CB734:Golden Gromnie
+A57E6714:Golden Gromnie
+A580BBF7:Golden Gromnie
+A581114B:Golden Gromnie
+A5811431:Golden Gromnie
+A580BC02:Golden Gromnie
+A581146E:Halved Cloak
+A5811414:Rose of Celdon
+A581116C:Pants
+A58113E6:Alduressa Helm
+A58112C4:Shoes
+A58112A3:Platemail Gauntlets
+A5811587:Excellent Healing Kit
+A58112AF:Loose Shirt
+A5811191:Baggy Breeches
+A5811248:Pyreal
+A58112A2:Trimmed Cloak
+A5811242:Poet's Shirt
+A581139B:Excellent Healing Kit
+A58112AE:Pack Scarecrow
+A58111D9:Pack Scarecrow
+A581133C:Pack Scarecrow
+A58111E5:Pack Scarecrow
+A58113C9:Lightning Katar
+A5811291:Pack Scarecrow
+A581122A:Lightning Katar
+A58113F0:Banished Nekode
+A58113D5:Nekode
+A58112E5:Cestus
+A58111A7:Lightning Nekode
+A581143A:Asheron's Greater Raiment
+A58112EA:Renegade Herbal Kit
+A58111B3:Renegade Herbal Kit
+A58113DD:Greater Mana Kit
+A5811446:Greater Mana Kit
+A5811246:Blunt Sceptre
+A58113B4:Purple Jewel
+A5811317:Obsidian Sphere
+A581149B:The Healer's Heart
+A58114DF:Blunt Sceptre
+A58114F4:Electric Sceptre
+A581138F:Slashing Baton
+A58113B2:Blunt Baton
+A580BBD6:Fire Sceptre
+A58111D8:Banished Orb
+A58113B3:Fire Baton
+A581122B:Blunt Sceptre
+A5811130:Slashing Sceptre
+A581117C:Acid Baton
+A5811448:Essence Flare
+A58113BE:The Healer's Heart
+A58111F1:Sceptre
+A58113BF:Baron's Amulet of Life Giving
+A58114E2:Acid Tachi
+A58114E3:Flaming Broad Sword
+A58114E4:Tachi
+A58114E6:Takuba
+A58114E5:Broad Sword
+A58114E7:Ken
+A58114E9:Long Sword
+A58114E8:Frost Dericost Blade
+A58114EA:Dirk
+A58114EB:Wand
+A58113CA:Dirk
+A5811447:Dirk
+A581128B:Frost Dirk
+A581138D:Frost Sceptre
+A581137D:Takuba
+A581129D:Ring
+A581135B:Pants
+A5811425:Bloodletter Drudge Charm
+A57ABCF7:Bloodletter Drudge Charm
+A57C3DC2:Gold Tumerok Insignia
+A5811357:Ghost Guise
+
+Missing Exports - Possessed items that were not found:

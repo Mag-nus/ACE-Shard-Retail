@@ -1,0 +1,228 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-31_1485843061_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-30_1485759189_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-31_1485840494_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-31_1485843061_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-31_1485843061_log.pcap
+
+Partial Exports - Missing appraisal info:
+A5AF5D5A:Foci of Enchantment
+A5AF5D5C:Smock
+A5AF5D5B:Pantaloons
+A5AF5D59:Foci of Artifice
+A5AF5D57:Calling Stone
+A5AF5D56:Prismatic Taper
+A5AF5D55:Greeter's Key
+A5AF5D54:A Crumpled Note
+A5AF5D53:Quartermaster's Workshop Key
+A5AF5D52:Starter Nabut
+A5AF5D51:Bread
+A5AF5D50:Ust
+A5AF5D4F:Gharu'ndim Wand
+A5AF5D4E:Fez
+A5AF5D4D:Torch
+A5AF5D4C:Frost Cestus
+A5AF5D4B:Platemail Gauntlets
+A5AF5D4A:Frost Katar
+A5AF5D49:Sturdy Iron Keyring
+A5AF5D48:Crown
+A5AF5D47:Acid Bow
+A5AF5D46:Orb
+A5AF5D45:Virindi Stamp
+A5AF5D41:Gloom Drudge Charm
+A5AF5D44:Bael'Zharon Stamp
+A5AF5D43:Craftable Prism Fragment of Lightning
+A5AF5D10:Snowflower
+A5AF5D42:Steel Toed Boots
+A5AF5D40:Tusker Spit
+A5AF5CDE:Water of Lethe
+A5AF5D3F:Academy Coat
+A5AF5D3E:Amulet
+A5AF5C8F:Map of Auberean
+A5AF5D3C:Salvaged  (100)
+A5AF5D26:Flag
+A5AF5D3B:Salvaged  (100)
+A5AF5D3A:Salvaged  (100)
+97860660:Lucky Gold Letter
+A5AF5D39:Salvaged  (100)
+A5AF5D38:Salvaged  (100)
+A5AF5CF8:Dauloirae
+A5AF5D37:Salvaged  (100)
+A5AF5D36:Salvaged  (100)
+A5AF6E25:Scarlet Red Letter
+A5AF5D35:Salvaged  (100)
+A5AF5D34:Salvaged  (100)
+A5AF5CD3:Manuaka's Collar
+A5AF5D33:Salvaged  (100)
+A5AF5D32:Salvaged  (100)
+A5AF5CBE:Textbook
+A5AF5D31:Salvaged  (100)
+A5AF5D30:Salvaged  (100)
+A5AF5CB4:Stone Tool
+A5AF5D2F:Salvaged  (100)
+A5AF5D2E:Salvaged  (100)
+A5AF5CAE:Parchment
+A5AF5D2D:Salvaged  (100)
+A5AF5D2C:Salvaged  (100)
+A5AF5CAD:Parchment
+A5AF5D2B:Salvaged  (100)
+A5AF5D2A:Salvaged  (9)
+A5AF5CDC:Jewel of Fire and Ice
+A5AF5D29:Salvaged  (20)
+A5AF5D28:Salvaged  (54)
+A5AF5D27:Salvaged  (20)
+A5AF5D24:Salvaged  (100)
+A5AF5CAC:Scroll of Flame Arc VII
+A5AF5D23:Salvaged  (100)
+A5AF5D22:Salvaged  (100)
+A5AF5CAB:Scroll of Rending Wind
+A5AF5D21:Salvaged  (100)
+A5AF5D20:Salvaged  (100)
+A5AF5CAA:Scroll of Force Arc VII
+A5AF5D1F:Salvaged  (100)
+A5AF5D1E:Salvaged  (100)
+A5AF5CA9:Little Green Seeds
+A5AF5D1D:Salvaged  (100)
+A5AF5D1C:Salvaged  (100)
+A5AF5CA6:Energy Crystal
+A5AF5D1B:Salvaged  (100)
+A5AF5D1A:Salvaged  (100)
+A5AF5C99:Pack Bael'Zharon
+A5AF5D19:Salvaged  (100)
+A5AF5D18:Salvaged  (100)
+A5AF5C92:Doppelganger Shield
+A5AF5D17:Chainmail Gauntlets
+A5AF5D16:Renegade Stone Clasp
+A5AF5D15:Small Olthoi Grub
+A5AF5D14:Asheron's Benediction
+A5AF5D13:Blackmoor's Favor
+A5AF5D11:Silken Wrap
+A5AF5D0F:Salvaged  (7)
+805786EC:Salvage
+A5AF5D0C:Salvaged  (100)
+A5AF5CDA:Sand Golem Heart
+A5AF5D0B:Salvaged  (100)
+A5AF5D0A:Salvaged  (100)
+A5AF5C8C:Coffin
+A5AF5D09:Salvaged  (100)
+A5AF5D08:Salvaged  (100)
+A5AF5D07:Salvaged  (100)
+A5AF5D06:Salvaged  (100)
+A5AF5C86:Drudge Head
+A5AF5D05:Salvaged  (100)
+A5AF5D04:Salvaged  (100)
+A5AF5C7F:Tree
+A5AF5D03:Salvaged  (100)
+A5AF5D02:Salvaged  (100)
+A5AF5C76:Hea Totem
+A5AF5D01:Salvaged  (100)
+A5AF5D00:Salvaged  (100)
+A5AF5C75:Thin Gromnie Hide
+A5AF5CFF:Salvaged  (10)
+A5AF5CFE:Salvaged  (52)
+A5AF5CBD:Plentiful Healing Kit
+A5AF5CFD:Salvaged  (100)
+A5AF5CFC:Salvaged  (100)
+A5AD51C9:Lucky Gold Letter
+A5AF5CFB:Salvaged  (9)
+A5AF5CFA:Buckler
+A5AF5CD9:Yellow Virindi Wand
+A5AF5CF9:Salvaged  (9)
+A5AF5CF7:Small Bundle of Kithless Siraluun Feathers
+A5AF5CF6:Pants
+A5AF5CF5:Salvage
+A5AF5CA8:Lightning Dagger
+A5AF5CF3:Salvaged  (100)
+A5AF5CF2:Salvaged  (100)
+A5AF5CF1:Salvaged  (100)
+A5AF5CF0:Salvaged  (100)
+A5AF5CEF:Salvaged  (100)
+A5AF5CEE:Salvaged  (100)
+A5AF5CED:Salvaged  (100)
+A5AF5CEC:Salvaged  (100)
+A5AF5CEB:Salvaged  (100)
+A5AF5CEA:Salvaged  (100)
+A5AF5CE9:Salvaged  (100)
+A5AF5CE8:Salvaged  (100)
+A5AF5CE7:Salvaged  (100)
+A5AF5CE6:Salvaged  (100)
+A5AF5CE5:Salvaged  (100)
+A5AF5CE4:Salvaged  (100)
+A5AF5CE3:Salvaged  (100)
+A5AF5CE2:Salvaged  (100)
+A5AF5CE1:Salvaged  (100)
+A5AF5CE0:Salvaged  (100)
+A5AF5CDF:Salvaged  (100)
+A5AF5CDD:Salvaged  (100)
+A5AF5CD8:Yellow Virindi Wand
+A5AF5CD7:Yellow Virindi Wand
+A5AF5CD6:Yellow Virindi Wand
+A5AF5CD5:Virindi Inquisitor's Mask
+A5AF5CD4:Salvaged  (100)
+A5AF5CD2:Ring
+A5AF5CA4:Ice Heaume of Frore
+A5AF5CD1:Bracelet
+A5AF5CD0:Bracelet of Knowledge
+A5AF5CBB:Bracelet
+A5AF5CCF:Salvaged  (100)
+A5AF5CCE:Salvaged  (100)
+A5AF5CCD:Salvaged  (100)
+A5AF5CCC:Salvaged  (100)
+A5AF5CCB:Salvaged  (100)
+A5AF5CCA:Salvaged  (100)
+A5AF5CC9:Salvaged  (100)
+A5AF5CC8:Salvaged  (100)
+A5AF5CC7:Salvaged  (100)
+A5AF5CC6:Salvaged  (100)
+A5AF5CC5:Salvaged  (100)
+A5AF5CC4:Salvaged  (100)
+A5AF5CC3:Salvaged  (100)
+A5AF5CC2:Salvaged  (100)
+A5AF5CC1:Salvaged  (100)
+A5AF5CC0:Salvaged  (100)
+A5AF5CBF:Salvaged  (100)
+A5AF5CBA:Sceptre
+A5AF5CA2:Singularity Keyring
+A5AF5CB9:Jaleh's Necklace
+A5AF5CB8:Heavy Necklace
+A5AF5CB7:Sceptre
+A5AF5CB6:Heavy Bracelet
+A5AF5CB5:Ring
+A5AF5CA1:Sparkling Gem
+A5AF5CB3:Pants
+A5AF5CB2:Ring
+A5B27879:Copper Heart
+A5AF5CB1:Ring
+A5AF5CB0:Suikan War Master Robe
+A5AF5CAF:Faran Robe with Hood
+A5AF5CA7:Cestus
+A5AF5CA5:Orb
+A5AF5CA3:Faran Robe
+A5AF5CA0:Salvaged  (56)
+A5AF5C9F:Salvaged  (100)
+A5AF5C9E:Salvaged  (24)
+A5AF5C9D:Salvaged  (100)
+A5AF5C9B:Salvaged  (10)
+A5AF5C7D:Health Philtre
+A5AF5C9A:Salvaged  (38)
+A5AF5C95:Celdon Leggings
+A5AF5C94:Koujia Breastplate
+A5AF5C93:Platemail Sleeves
+A5AF5C8E:Peerless Stinging Atlan Axe
+A5AF5C8D:Flaming Battle Axe
+A5AF5C8B:Pack Martine
+A5AF5C8A:Ring
+A5AF5C89:Ring
+A5AF5C87:Pack Levistras
+A5AF5C85:Melee Defense Tattoo
+A5AF5C84:Guardian's Uniform
+A5AF5C82:Nayin
+A5AF5C81:Nasty Lager
+A5AF5C7C:White Phyntos Wasp Wing
+A5AF5C80:Apothecary Zongo's Stout
+A4F8107A:A Huge Lump of Coal
+A5AF5C73:Large Round Shield
+
+Missing Exports - Possessed items that were not found:

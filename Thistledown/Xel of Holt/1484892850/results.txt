@@ -1,0 +1,19 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\jojii2\pkt_2017-1-19_1484891826_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\jojii2\pkt_2017-1-21_1485047395_log.pcap
+
+Partial Exports - Missing appraisal info:
+AB517BA9:Shirt
+AB517BAA:Wide Breeches
+AB517BAB:Leather Boots
+AB517BAC:Pyreal
+AB517BAD:Sack
+AB517BAE:Ust
+AB517BB0:Pathwarden Token
+AB517BB3:Handy Healing Kit
+AB517BB4:Letter From Home
+AB517BB5:Bread
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,91 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Granis-2017-01-31_last_hours\pkt_2017-1-31_1485877928_log.pcap
+
+Partial Exports - Missing appraisal info:
+AF6C2F74:Silver Scarab
+AF6F60F9:Copper Scarab
+AF6F61BB:Parchment
+AF650BED:Diamond Scarab
+AF6B47AE:Prismatic Taper
+AF64C22F:Platinum Scarab
+AF6F47D0:Pyreal Scarab
+AF650C99:Gold Scarab
+AF6F61A1:Baron's Amulet of Life Giving
+AF6F47DD:Splitting Tool
+AF6F4775:Iron Scarab
+AF6F47F2:Pack
+AF6F4776:Great Mana Charge
+AF6F000F:Great Mana Charge
+AF66092B:Great Mana Charge
+AF6F4774:Great Mana Charge
+AF64D3D1:Great Mana Charge
+AF7236BA:Great Mana Charge
+AF7236BB:Great Mana Charge
+AF7236BC:Great Mana Charge
+AF7236BD:Great Mana Charge
+AF7236BE:Great Mana Charge
+AF7236BF:Great Mana Charge
+AF7236C0:Great Mana Charge
+AF7236C1:Great Mana Charge
+AF7236C2:Great Mana Charge
+AF7236D0:Lockpick Tessera
+AF7236D1:Lockpick Tessera
+AF7236CF:Platinum Scarab
+AF7236D2:Armor Tinkering Tessera
+AF7236D3:Dual Wield Tessera
+AF7236D4:Recklessness Tessera
+AF7236D5:Cooking Tessera
+AF7236D6:Loyalty Tessera
+AF7236D7:Cooking Tessera
+AF7236D8:Magic Item Tinkering Tessera
+AF7236DA:Cooking Tessera
+AF7236DB:Cooking Tessera
+AF7236DC:Leadership Tessera
+AF7236DD:Superb Lockpick
+AF7236DF:Peerless Healing Kit
+AF7236E0:Peerless Healing Kit
+AF7236E1:Peerless Healing Kit
+AF7236E2:Pyreal
+AF7236E3:Pyreal
+AF7236E4:Salvaged  (100)
+AF7236E5:Pyreal
+AF7236E6:Pyreal
+AF7236E7:Pyreal
+AF7236E8:Pyreal
+AF7236E9:Pyreal
+AF7236EA:Pyreal
+AF7236EB:Pyreal
+AF7236EC:Pyreal
+AF7236ED:Pyreal
+AF7236EE:Pyreal
+AF7236EF:Pyreal
+AF7236F0:Pyreal
+AF7236F1:Pyreal
+AF7236F2:Pyreal
+AF7236F3:Pyreal
+AF7236F4:Pyreal
+AF7236F5:Pyreal
+AF7236F6:Pyreal
+AF7236F7:Pyreal
+AF7236F8:Pyreal
+AF7236F9:Pyreal
+AF7236FA:Pyreal
+AF7236FB:Pyreal
+AF7236FC:Pyreal
+AF7236FD:Pyreal
+AF7236FE:Pyreal
+AF7236FF:Pyreal
+AF723700:Pyreal
+AF723701:Pyreal
+AF723702:Pyreal
+AF723703:Pyreal
+AF723704:Pyreal
+AF723705:Pyreal
+AF723706:Pyreal
+AF723707:Pyreal
+AF723709:Some Changes for February 2012
+AF723708:Pack Martine
+AF72370B:Blackmoor's Favor
+AF72370A:Focusing Stone
+
+Missing Exports - Possessed items that were not found:

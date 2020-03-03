@@ -1,0 +1,11 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\Asherons-Call-20170203024646\pkt_2017-1-21_1485029057_log.pcap
+
+Partial Exports - Missing appraisal info:
+D7ADDA4C:Foci of Strife
+D7ADDA4D:Salivatory Goo
+D7ADDA4E:Olthoi Fibrous Healing Tissue
+D7ADDA50:Acidic Infusion
+D7E796C3:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

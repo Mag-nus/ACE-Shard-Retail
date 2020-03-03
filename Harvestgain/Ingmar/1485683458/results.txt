@@ -1,0 +1,135 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+
+Partial Exports - Missing appraisal info:
+C09A7223:Pack
+C09A7226:Chorizite Fletching Tool
+C09A7227:Peerless Lockpick
+C09A722A:Isparian Weapons Modifying Tool
+C09A722B:Ust
+C09A722D:Whittling Knife
+C09A722F:Fetish of the Dark Idols
+C09A7230:Buadren
+C09A7233:Polar Ursuin Lair
+C09A7238:Intricate Carving Tool
+C09A723B:Bronze Gearknight Gear
+C09A7239:Mortar and Pestle
+C09A722C:Splitting Tool
+C09A72D7:Some Changes for February 2012
+C09A7232:Casting Stein
+C09A723F:Pack
+C09A724A:Skeletal Falatacot Key
+C09A724B:Skeletal Falatacot Key
+C09A7250:Marble Key
+C5E1AEB3:Entryway Key
+C09A7251:Trade Note (250,000)
+C6F68B0D:Hyssop
+C6F68AFD:Saffron
+C76F1D18:Imbue Swap Coin
+C7378E57:Aetheria Mana Stone
+C09A7252:Pack
+C09A7253:Lead Scarab
+C09A7254:Iron Scarab
+C09A7255:Diamond Scarab
+C09A7257:Silver Scarab
+C09A7258:Pyreal Scarab
+C09A7259:Gold Scarab
+C09A725A:Platinum Scarab
+C09A725B:Mana Philtre
+C09A725D:Vissidal Island Portal Gem
+C09A7260:Mana Scarab
+C09A725F:Aphus Lassel Portal Gem
+C09A7261:Chorizite
+C09A7264:Health Philtre
+C09A7265:Polar Ursuin Lair
+C09A729F:Shoyanen's Portal Gem
+C09A7272:Gem of Stillness
+C7227C9E:Plentiful Healing Kit
+C71B4F7D:Plentiful Healing Kit
+C62F5AE5:Plentiful Healing Kit
+C73C1EF2:Renegade Herbal Kit
+C61259EC:Elaborate Field Rations
+C09A7280:Pack
+C09A7281:Wrapped Bundle of Deadly Frost Arrowheads
+C09A7282:Wrapped Bundle of Raider Lightning Arrowheads
+C09A7283:Wrapped Bundle of Deadly Fire Arrowheads
+C09A7284:Wrapped Bundle of Deadly Frog Crotch Arrowheads
+C09A7285:Wrapped Bundle of Deadly Blunt Arrowheads
+C09A7286:Wrapped Bundle of Arrowshafts
+C09A7287:Wrapped Bundle of Deadly Armor Piercing Arrowheads
+C09A7288:Flaming Stiletto
+C09A7289:Wrapped Bundle of Olthoi Acid Arrowheads
+C09A728A:Blunt Bow
+C09A728C:Electric Compound Bow
+C09A728D:Frost Compound Bow
+C09A728E:Spectral Chill Arrow
+C09A7291:Fire Bow
+C09A72CA:Deadly Fire Arrow
+C09A72B8:Pack
+C72A9FC9:Wrapped Bundle of Deadly Prismatic Arrowheads
+C71B1231:Olthoi Acid Arrow
+C0C020BA:Composite Bow with Handle
+C718C20F:Major Mana Stone
+C09A728F:Piercing Compound Bow
+C6196817:Deadly Frog Crotch Arrow
+C76DFB07:Pyreal
+C09A72D3:Slashing Compound Bow
+C76994F8:Pyreal
+C09A72B9:Covenant Sollerets
+C09A72BA:Covenant Greaves
+C743C9DF:Colosseum Ticket
+C09A72BB:Covenant Tassets
+C09A72BC:Covenant Girth
+C09A7271:Gold Pea
+C09A72BD:Covenant Breastplate
+C09A72BE:Covenant Pauldrons
+C72B412B:Major Mana Stone
+C09A72BF:Covenant Bracers
+C09A72C0:Covenant Gauntlets
+C09A726B:Pyreal Pea
+C09A72C1:Covenant Helm
+C09A72C2:Lancet
+C09A72C3:Shield of Perfect Light
+C09A72C4:Heavy Bracelet
+C09A72C8:Tusker Spit Ale
+C718B385:Major Mana Stone
+C09A72A1:Bobo's Stout
+C0BFE61F:Braided Drudge Ravener Guts
+C72B3D31:Major Mana Stone
+C0BFE620:Great Mattekar Horn
+C76ED666:Empyrean Robe
+C72B5F0D:Major Mana Stone
+C76F0C6E:Luminance, and the Paths of the Empyrean
+C73CDE87:The Orphanage
+C72B2BF4:Major Mana Stone
+C73B4B25:Licorice Rat
+C73A7F92:Massive Mana Charge
+C7480DA6:Aetheria Desiccant
+C741CF1F:Aetheria Powder
+C747F897:Aetheria Powder
+C74384C8:Salvage (42)
+C71E53B3:Salvage (84)
+C74919F1:Salvage (10)
+C76DC56E:Scarlet Red Letter
+C76FA826:Trade Note (100,000)
+C74ABCAF:Pyreal
+C7217DBA:Pyreal
+C772E8D0:Pyreal
+C772E8D1:Pyreal
+C772E8CF:Pyreal
+C7B8CC62:Salvage (100)
+C772E8CE:Pyreal
+C7469682:Deadly Prismatic Arrow
+C802B86B:Town Network Portal Gem
+
+Missing Exports - Possessed items that were not found:

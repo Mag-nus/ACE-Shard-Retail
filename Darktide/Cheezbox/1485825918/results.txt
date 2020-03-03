@@ -1,0 +1,162 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-05-2017\data-logging-files\data logging files\pkt_2017-1-30_1485825903_log.pcap
+
+Partial Exports - Missing appraisal info:
+8A5C6DB3:Foci of Shadow
+8A5C6DB2:Blackmoor's Favor
+8A5C6DB0:Pathwarden Trinket
+8A5C6DAB:Shoes
+8A5C6DAA:Coronet
+8A5C6DA9:Coronet
+8A5C6DA8:Slippers
+8A5C6DA6:Frost Sceptre
+8A5C6D90:Scroll of Astyrrian's Bane
+8A5C6DA5:Signet Crown
+8A5C6DA4:Heavy Bracelet
+8A5C6D9F:Turban
+8A5C6DB1:Pathwarden Robe
+8A5C6DA7:Diadem
+8A5C6DAE:Crown
+8A5C6DAD:Cloth Cap
+8A5C6DAC:Shoes
+8A5C6DA2:Cloth Gloves
+8A5C6D9E:Coronet
+8A5C6D9A:Diadem
+8A5C6D98:Cloth Gloves
+8A5C6D97:Circlet
+8A5C6D96:Tunic
+8A5C6D8E:Scroll of Martyr's Blight VII
+8A5C6DA1:Signet Crown
+8A5C6DA0:Slippers
+8A5C6D9D:Coronet
+8A5C6D9B:Lyceum Hood
+8A5C6D64:A Tiny Mnemosyne
+8A5C6D95:Blunt Sceptre
+8A5C6D94:Coronet
+8A5C6D8F:Heaume
+8A5C6D93:Shoes
+8A5C6D80:Copper Scarab
+8A5C6D7F:Iron Scarab
+8A5C6D7E:Pyreal Scarab
+8A5C6D7D:Silver Scarab
+8A5C6D7C:Lead Scarab
+8A5C6D7B:Gold Scarab
+8A5C6D7A:Platinum Scarab
+8A5C6D79:Prismatic Taper
+8A5C6D8D:Circlet
+8A5C6D84:Turban
+8A5C6D8C:Circlet
+8A5C6D8B:Crown
+8A5C6D8A:Cloth Cap
+8A5C6D89:Shoes
+8A5C6D88:Crown
+8A5C6D86:Shoes
+8A5C6D87:Cloth Gloves
+8A5C6D85:Crown
+8A5C6D83:Beret
+8A5C6D77:Sturdy Iron Key
+8A5C6D76:Sturdy Iron Key
+8A5C6D75:Sturdy Iron Key
+8A5C6D74:Aphus Lassel Portal Gem
+8A5C6D72:Aphus Lassel Portal Gem
+8A5C6D70:Gem of Stillness
+8A5C6D6F:Fire Sceptre
+8A5C6D57:Deed
+8A5C6D6E:Sturdy Iron Key
+8A5C6D6D:Prismatic Taper
+8A5C6D6C:Scroll of Void Magic Mastery Other VII
+8A5C6D6B:Aphus Lassel Portal Gem
+8A5C6D6A:Sturdy Iron Key
+8A5C6D67:Foci of Enchantment
+8A5C6D69:Gem of Stillness
+8A5C6D66:Foci of Artifice
+8A5C6D63:Ancient Shard of Metal
+8A5C6D73:Gem of Stillness
+8A5C6D71:Gem of Purity
+8A5C6D59:A Large Mnemosyne
+8A5C6D68:Tipped Pack Cow
+8A5C6D61:Dagger of Tikola
+8A5C6D60:Encapsulated Spirit
+8A5C6D5C:Lucky Gold Letter
+8A5C6D5F:Coalesced Mana
+8A5C6D5E:Coalesced Mana
+8A5C6D5D:Facility Hub Portal Gem
+8A5C6D5B:Scarlet Red Letter
+8A5C6D58:A Book of Quests for Young Explorers
+8A5C6D5A:Dansha-Ki's Gem of Portal Recall
+8A5C6D56:Baron's Amulet of Life Giving
+8A5C6D52:Blighted Mana Crystal
+8A5C6D65:Coalesced Mana
+8A5C6D62:Dull Dagger
+8A5C6D4C:A Large Mnemosyne
+8A5C6D55:Ring
+8A5C6D54:Heavy Gromnie Hide Coat
+8A5C6D4D:Sake
+8A5C6D51:Cloth Gloves
+8A5C6D4A:Pyreal
+8A5C6D50:Hood
+8A5C6D4F:Sollerets
+8A5C6D46:Academy Wand
+8A5C6D49:Flared Shirt
+8A5C6D48:Ring
+8A5C6D40:A Large Mnemosyne
+8A5C6D43:Acid Sceptre
+8A5C6D41:Orb
+8A5C6D3D:Scarlet Red Letter
+8A5C6D4E:Splitting Tool
+8A5C6D4B:Chevron Cloak
+8A5C6D45:Ring
+8A5C6D47:Heavy Bracelet
+8A5C6D44:Orb
+8A5C6D42:Orb
+8A5C6D3C:Heavy Bracelet
+8A5C6D3B:Blunt Sceptre
+8A5C6D38:Skull of a Dark Master
+8A5C6D3A:Doublet
+8A5C6D37:Tunic
+8A596FDA:Pyreal
+8A5C6D36:Ring
+8A5C6D35:Piercing Sceptre
+8A5C6D34:A Large Mnemosyne
+8A5C6D33:Skull of a Dark Master
+8A5C6D32:Mechanical Scarab
+8A5C6D31:Pants
+8A5C6D30:Baggy Tunic
+8A5C6D2F:Heavy Bracelet
+8A5C6D22:A Large Mnemosyne
+8A5C6D3E:Flared Tunic
+8A5C6D39:A Large Mnemosyne
+8A5C6D2E:Orb
+8A5C6D2D:Scarlet Red Letter
+8A5C6D2C:Blunt Sceptre
+8A5C6D2B:Shoes
+8A5C6D2A:Lucky Gold Letter
+8A5C6D29:Pants
+8A5C6D28:Heavy Bracelet
+8A5C6D27:Dark Revenant Thighbone
+8A5C6D26:Coalesced Aetheria
+8A5C6D24:Bracelet
+8A5C6D1C:Ring
+8A5C6D23:Nether Sceptre
+8A5C6D21:Coalesced Aetheria
+8A5C6D18:Prismatic Taper
+8A5C6D19:Fire Sceptre
+8A5C6D16:Diadem
+8A5C6D13:Sturdy Steel Key
+8A5C6D20:Pants
+8A5C6D1F:Slippers
+8A5C6D14:Sturdy Steel Key
+8A5C6D1D:Coalesced Aetheria
+8A5C6D1B:Cloth Gloves
+8A5C6D1A:Gorget
+8A5C6D15:Sandals
+8A5C6D12:Platemail Vambraces
+8A5C6D11:Scroll of Caustic Blessing
+8A5C6D10:Sturdy Steel Key
+8A5C6D0F:Gem of Stillness
+8A5C6D0E:Aphus Lassel Portal Gem
+8A5C6D0D:Aphus Lassel Portal Gem
+
+Missing Exports - Possessed items that were not found:
+8A5C6DB5
+8A5C6DB4

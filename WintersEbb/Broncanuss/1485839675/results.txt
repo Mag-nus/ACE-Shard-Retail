@@ -1,0 +1,72 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485839659_log.pcap
+
+Partial Exports - Missing appraisal info:
+913A9198:Sack
+913A919A:Calling Stone
+917FABDF:Blackmoor's Favor
+9180C796:Copper Scarab
+91804758:Facility Hub Portal Gem
+9180C798:Lead Scarab
+9180C799:Silver Scarab
+9180C797:Iron Scarab
+913A9199:Ust
+91C7093D:Gold Scarab
+91EFC6CD:Prismatic Taper
+9078672D:Platinum Scarab
+8FCAB526:Pyreal Scarab
+9387954D:Mana Scarab
+93D64F0F:Ancient Falatacot Trinket
+93CA020E:Platinum Scarab
+93F50F32:Prismatic Taper
+93FDB628:Prismatic Taper
+93BA4A1A:Prismatic Taper
+913A919D:Foci of Strife
+913A919E:Foci of Verdancy
+913A919F:Foci of Artifice
+91911696:Pack
+918043F0:Academy Wand
+91E4B42A:Totem of Volkama
+9232BA5F:Upper Insatiable Eater Jaw
+9158DC0E:Massive Mana Charge
+92967A24:Massive Mana Charge
+9158DC12:Massive Mana Charge
+92FA174D:Massive Mana Charge
+9220437D:Chevron Cloak
+918E4C1A:Pack
+92830DDC:Shoyanen's Portal Gem
+928305CF:Pyreal
+92830D74:Shoyanen's Portal Gem
+92EFED5C:Trade Note (250,000)
+938CD10D:Massive Mana Charge
+9158D273:Staff
+92F9DD20:Ancient Empyrean Trinket
+938B8EDD:Massive Mana Charge
+936778BB:Heavy Bracelet
+9190DC2A:Foci of Enchantment
+938997CF:Massive Mana Charge
+938CD192:Massive Mana Charge
+938CD199:Massive Mana Charge
+93879747:Blank Augmentation Gem
+9294A857:Massive Mana Charge
+93669587:Chevron Cloak
+9408A83A:Blank Augmentation Gem
+941AF8F5:Platinum Scarab
+92F41638:Fire Sceptre
+93CE5D26:Salvage (30)
+93D0A133:Salvage (7)
+93D6F8E2:Salvage (10)
+93CE0475:Salvage (20)
+93DA1EC3:Salvage (11)
+93D9C08D:Salvage (100)
+93DC9D35:Salvage (100)
+93E45B24:Salvage (40)
+93E647C3:Salvage (11)
+93E2E6C6:Salvage (16)
+93E678B4:Salvage (98)
+93E67BE3:Salvage (11)
+93E8A1F7:Salvage (43)
+93E05535:Salvage (64)
+9368777A:Nether Baton
+
+Missing Exports - Possessed items that were not found:

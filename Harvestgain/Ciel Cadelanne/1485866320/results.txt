@@ -1,0 +1,139 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\ACLogs_Cadelanne\pkt_2017-1-31_1485866314_log\pkt_2017-1-31_1485866314_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-02-2017\ACLogs_Cadelanne\pkt_2017-1-21_1485015788_log\pkt_2017-1-21_1485015788_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\ACLogs_Cadelanne\pkt_2017-1-29_1485738196_log\pkt_2017-1-29_1485738196_log.pcap
+
+Partial Exports - Missing appraisal info:
+C01A088B:Signet Crown
+BFEAB5BA:Diadem
+C003A8ED:Teardrop Crown
+C01EFFFB:Circlet
+BFD9C9B8:Signet Crown
+C014D5FE:Signet Crown
+BFBEED35:Circlet
+BF9DF7DE:Signet Crown
+BF6A16F2:Diadem
+C0338DC6:Signet Crown
+BF7DDD08:Crown
+BF97D1E0:Signet Crown
+BFC1A8F7:Circlet
+C05ED22F:Signet Crown
+C057FBE9:Crown
+C056A4C2:Coronet
+C0685F99:Circlet
+92D8DF9B:Foci of Strife
+92D8DF9A:Ust
+92D8DFA2:Blackmoor's Favor
+C04E310F:Prismatic Taper
+BDEA351B:Gold Pea
+BFFAD8C9:Silver Scarab
+BFF6B0CA:Copper Scarab
+BFF32379:Iron Scarab
+BFF5F5BB:Lead Scarab
+815AE87C:Mana Scarab
+BFBB3153:Major Mana Stone
+9B355F65:Major Mana Stone
+BFBEC61F:Major Mana Stone
+C0440217:Major Mana Stone
+C0440215:Major Mana Stone
+C0440216:Major Mana Stone
+C044021F:Major Mana Stone
+C05C726E:Nether Staff
+BF5B5DFE:Moderate Mana Stone
+91AD9490:Greater Mana Stone
+C0274807:Major Mana Stone
+C044021E:Major Mana Stone
+96C94C2C:Foci of Artifice
+9B004364:Trousers
+C2AD1F4B:Shimmering Skeleton Key
+C2AD1F4A:Shimmering Skeleton Key
+C2AD1F49:Shimmering Skeleton Key
+C2AD1F48:Shimmering Skeleton Key
+C2AD1F47:Shimmering Skeleton Key
+C2AD1F46:Shimmering Skeleton Key
+C2AD1F45:Shimmering Skeleton Key
+C2AD1F44:Shimmering Skeleton Key
+C2AD1F43:Shimmering Skeleton Key
+C2AD1F42:Shimmering Skeleton Key
+C2AD1F41:Shimmering Skeleton Key
+C2AD1F40:Shimmering Skeleton Key
+C7C15FA5:Green Society Band
+C7BE63A7:Purple Society Band
+C7C2E27C:Blue Society Band
+C7BFCD4A:Red Society Band
+C7C2E5FA:Red Society Band
+9B025197:Ring
+C7BC0E14:Dagger
+C7BFD78D:Green Society Band
+BFEDA41A:Pyreal
+C7B6E0BD:Purple Society Band
+C7C16CDC:Green Society Band
+C7B6629F:Purple Society Band
+C7BAA2C3:Studded Leather Greaves
+C37E1B9D:Major Mana Stone
+C7C0FCD1:Glacial Knight Essence
+BF65753A:Celdiseth's Portal Gem
+BFEDA101:Foci of Enchantment
+970210F7:Aphus Lassel Portal Gem
+9B343BF3:Gorget
+936EC0FE:Town Network Portal Gem
+C7C27E86:Pyreal
+C0011FF6:Encapsulated Spirit
+C027C5B3:Salvage (10)
+C076A5A1:Silver Pea
+C04C10EE:Salvage (18)
+C058C363:Salvage (30)
+C054B089:Salvage (50)
+C06D11C5:Salvage (36)
+C52F4BFC:Pack T'thuun
+C069C2D4:Salvage (30)
+C06D0969:Salvage (8)
+C55E03F6:Pack T'thuun
+C06AD4E8:Salvage (36)
+C06D399A:Salvage (40)
+C58577BE:Pack T'thuun
+C0701C83:Salvage (48)
+C06CC0A7:Salvage (27)
+C06F12E1:Salvage (80)
+C0733266:Salvage (100)
+92D8DFA5:Pathwarden Trinket
+C0735680:Salvage (8)
+C073578F:Salvage (72)
+C0704CE6:Salvage (17)
+C072433F:Salvage (5)
+C06A9563:Salvage (52)
+C0726A7C:Salvage (8)
+C7B812D2:Mana Forge Key
+C0728EF2:Salvage (31)
+C0764998:Relanim Plant
+C3269B6C:Strengthened Mana Forge Key
+C7C27E85:Pyreal
+C37F1554:Strengthened Mana Forge Key
+C7BD2CD5:Mana Forge Key
+BFA0D1F6:Leather Gauntlets
+A6A500A9:Orb
+C4528D12:Strengthened Mana Forge Key
+C478EA07:Strengthened Mana Forge Key
+C532AC50:Strengthened Mana Forge Key
+C55E03F4:Strengthened Mana Forge Key
+C58577BF:Strengthened Mana Forge Key
+BE184702:Heavy Necklace
+ADA9CC43:Bracelet
+9C6475E4:Ring
+8D527D19:Heavy Bracelet
+91AFE7AC:Ring
+91AFE4D3:Trousers
+C7BB2FC9:Mana Forge Key
+BFA0CB55:Baigha
+ADA69D17:Ancient Armored Vestment
+C7C27E84:Pyreal
+ADA30DC4:Ancient Armored Bracers
+BFA05777:Tenassa Leggings
+C7C27E83:Pyreal
+ADA51321:Shou-jen Jika-Tabi
+C7BB24ED:Salvage
+C076CC65:Hyssop
+
+Missing Exports - Possessed items that were not found:

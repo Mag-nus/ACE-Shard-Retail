@@ -1,0 +1,28 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Delune-01-24-2017-packetlogging\pkt_2017-1-24_1485320277_log.pcap
+
+Partial Exports - Missing appraisal info:
+A52EC193:Ust
+A52EC178:Foci of Artifice
+A52EC1AE:Foci of Verdancy
+A52EC1A4:Blackmoor's Favor
+A52EC19B:Gloves
+A52EC18A:Untranslated Page #20
+A52EC181:Quest Weapon Coin
+A52EC192:Heavy Bracelet
+A52EC1A3:Shadow Lugian Stronghold Portal Gem
+A52EC19A:Tree Trunk
+A52EC1EB:Polar Ursuin Lair
+A52EC1E3:Realaidain Raiment
+A52EC1BD:Electric Sceptre
+A52EC1F3:Osseous Mace
+A52EC1EA:Greater Stamina Kit
+A52EC1FB:Renegade Herbal Kit
+A52EC16E:Deadly Hollow Katar
+A52EC203:Phantom Katar
+A52EC1AB:Prismatic Taper
+A52EC1A1:Copper Scarab
+A52EC1E1:Silver Scarab
+A52EC1FA:Crescent Moons
+
+Missing Exports - Possessed items that were not found:

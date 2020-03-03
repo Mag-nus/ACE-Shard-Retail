@@ -1,0 +1,149 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\RunningFromNorthernTipToSouthernTipOfDereth\RunningFromNorthernTipToSouthernTipOfDereth\pkt_2017-1-30_1485835276_log.pcap
+
+Partial Exports - Missing appraisal info:
+CDD2F06F:Smock
+D9E3B8FB:Pants
+D9E3BBAF:Pyreal
+D9E3ADEB:Olthoi Koujia Leggings
+D9E3ABEF:Studded Leather Sleeves
+D9DFDE99:Studded Leather Boots
+D9E504C1:Frost Nekode
+D9D58B0D:Ring
+D9E3B613:Puzzle Box
+D9DFD22A:Studded Leather Pauldrons
+D9DFD675:Ring
+D9E332DB:Calling Stone
+D9E3B6B9:Lightning Lugian Hammer
+D9E3C4D4:Lugian Hammer
+D9E3BF23:Greataxe
+D9E2FF55:Frost War Axe
+D9E3B6FB:Letter From Home
+D9E32E26:Lightning Morning Star
+D9E1394A:Flanged Mace
+D9DD7979:Bread
+D9DD8D30:Flaming Pike
+D9E13243:Flaming Spadone
+D9E3C19B:Ust
+D9E4B9B9:Foci of Enchantment
+CDECD967:Lead Scarab
+D9E273C8:Blackmoor's Favor
+D67F674C:Pathwarden Trinket
+D9E3C554:Pathwarden Gauntlets
+D9E50333:Plentiful Healing Kit
+D9DFD1ED:Pathwarden Robe
+D9E3BFFF:Plentiful Healing Kit
+D9E3C247:Plentiful Healing Kit
+CE03D382:Superior Helmet
+D9DFDD26:Dull Dagger
+D9E3BA4E:Key
+D9E3B772:Platemail Hauberk of the Ogre
+D9E143F7:Fiery Shield
+D9B49800:Stipend
+D9E33E25:Lightning Dagger
+D9C6D6AC:Superior Shield
+D9E4B9EF:Teleportation Device
+D9E4C0B2:Dagger of the Quiddity
+D9DDA67A:Arrow
+D9E33110:Some Changes for February 2012
+D9E3B619:Mana Forge Key
+D9DFD6D8:Lilitha's Bow
+D9DD7C40:Holiday Garland
+D9DFD34D:Scroll of Archer's Bane
+D9DFD220:Scroll of Jahannan's Blessing
+D9DFD549:Scroll of Adja's Blessing
+D9E50428:Scroll of Aliester's Blessing
+CDCC17FB:Scroll of Harlune's Blessing
+D9DD5FEE:Scroll of Harlune's Blessing
+D9DD96AF:Aura of Atlan's Alacrity
+D9E330F2:Scroll of Void Mastery Self VII
+D9E3342C:Scroll of Astyrrian's Bane
+D9E330F3:Scroll of Eradicate Life Magic Self
+D9E504EC:Scroll of Eradicate Life Magic Self
+D9DD9408:Scroll of Inferno's Bane
+D9E33303:Scroll of Gelidite's Bane
+D9E4BF05:Scroll of Jahannan's Blessing
+D9E3B3C8:Scroll of Hieromancer's Blessing
+D9E3B8C8:Scroll of Inferno's Bane
+D9E50322:Scroll of Tusker's Bane
+D9DD8078:Scroll of Inferno's Bane
+D9B666FE:Scroll of Missile Weapon Mastery Self VII
+D9E3BB6B:Scroll of Aura of Defense
+D9DFD7CF:Scroll of Jahannan's Blessing
+CE078B99:Scroll of Flame Streak VI
+D9E2750F:Scroll of Battlemage's Blessing
+D9DFD2FE:Scroll of Celcynd's Blessing
+D9E3B37E:Scroll of Gelidite's Bane
+D9DFDDC7:Scroll of Yoshi's Blessing
+D9DD6FBA:Scroll of Storm's Blessing
+D9E3B229:Scroll of Celcynd's Blessing
+D9E50540:Scroll of Inferno's Bane
+D9E3BDF9:Scroll of Aliester's Blessing
+D9DFE205:Aura of Mystic's Blessing
+D9EC270B:Scroll of Inferno's Bane
+D9E3B33D:Scroll of Eradicate Life Magic Self
+D9E3BB84:Scroll of Gelidite's Bane
+D9E336E7:Scroll of Aliester's Blessing
+D9E4BDA3:Scroll of Tusker's Bane
+D9E14195:Scroll of Jahannan's Blessing
+D9E33132:Scroll of Dirty Fighting Mastery Self VII
+D9E50264:Scroll of Dirty Fighting Mastery Self VII
+D9E3B9AF:Scroll of Caustic Blessing
+D9E3BB3A:Scroll of Tusker's Bane
+D9E3B715:Aura of Atlan's Alacrity
+D9E3B2A3:Scroll of Missile Weapon Mastery Self VII
+D9E3C55B:Scroll of Summoning Mastery Self VII
+CE08B281:Scroll of Eradicate Life Magic Self
+D9E0A1E3:Scroll of Caustic Blessing
+D9DFD997:Scroll of Eradicate Life Magic Self
+D9E3C411:Scroll of Summoning Mastery Self VII
+D9E13F82:Scroll of Blessing of the Blade Turner
+D9E3B512:Scroll of Dirty Fighting Mastery Self VII
+D9E3BA69:Scroll of Void Mastery Self VII
+D9E3C4B8:Scroll of Saladur's Blessing
+D9E3AF4C:Scroll of Olthoi's Bane
+CE078A8B:Scroll of Celcynd's Blessing
+D9DFDCDF:Scroll of Saladur's Blessing
+D9DFDC4F:Scroll of Hieromancer's Blessing
+D9E33926:Scroll of Gelidite's Bane
+D9DD910B:Scroll of Celdiseth's Blessing
+D9E4BD42:Scroll of Inner Calm
+D99480E8:Scroll of Celdiseth's Blessing
+D9E3BA50:Scroll of Yoshi's Blessing
+D9E3B766:Scroll of Void Mastery Self VII
+D9E3B174:Scroll of Jahannan's Blessing
+D9E26AF8:Scroll of Icy Blessing
+D9E3B540:Aura of Mystic's Blessing
+D9E3B099:Alchemist's Crystal
+CDFF4DE6:Sollerets
+D9DFD34E:Ancient Armored Vestment
+D9E3B153:Ancient Armored Helm
+D9E26B6F:Noble Relic Coat of Brilliance
+D9EAFFAC:Chiran Sandals
+D9B6668F:Leather Cuirass
+D9E3BC44:Cowl
+D9DFDFA7:Chainmail Breastplate
+D9DD8583:Leather Helm
+D9E142CC:Olthoi Alduressa Helm
+D9E3C2F3:Olthoi Koujia Breastplate
+D9E34AD9:Scalemail Bracers
+D9E3B34B:Sandals
+D9DD867A:Olthoi Amuli Helm
+D9DD80B4:Studded Leather Basinet
+D9DD60A1:Leather Vest
+D9DFD7EE:Studded Leather Pauldrons
+D9E3BB59:Leather Shorts
+D9DD7FA1:Knorr Academy Helm
+D9E3BF0C:Ring
+D9E3C4B6:Bracelet
+D9D8F4E8:Chevron Cloak
+D9E4CFF1:Chevron Cloak
+D9E3C33D:Trimmed Cloak
+D9E3B9EC:Nether Staff
+D9E3BDAE:Olthoi Amuli Helm
+D9A54D40:Shoes
+D9E3BE46:Pantaloons
+D9E4D74E:Acid Dirk
+D9E3B1FF:Training Wand
+
+Missing Exports - Possessed items that were not found:

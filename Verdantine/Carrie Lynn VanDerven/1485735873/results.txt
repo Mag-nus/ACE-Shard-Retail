@@ -1,0 +1,33 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-29_1485735859_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-29_1485734578_log.pcap
+
+Partial Exports - Missing appraisal info:
+91DE6FFA:Pyreal
+91DE6FFB:Sack
+91DE6FFC:Ust
+91DE6FFE:Pathwarden Token
+91DE7000:Foci of Strife
+91DE7001:Foci of Verdancy
+91DE7002:Foci of Enchantment
+91DE7003:Prismatic Taper
+
+Missing Exports - Possessed items that were not found:
+91E55C1B
+91EE4897
+8C8F6554
+8C8F6520
+8C8F654E
+91EE25F6
+91EA4DAD
+91EB23BE
+91EED5EC
+91ED515D
+91EFC258
+91DE7006
+91DE7005
+91DE7004
+91EE4248
+91EC4999

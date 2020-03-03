@@ -1,0 +1,166 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\DataLog\DataLog\pkt_2017-1-31_1485838858_log.pcap
+
+Partial Exports - Missing appraisal info:
+D7220F55:Pyreal
+B498EB60:Trade Note (250,000)
+B498EB69:Massive Mana Charge
+B498EB62:Sublime Bracelet of Acid Protection
+B498EB6B:Massive Mana Charge
+B498EB6E:Massive Mana Charge
+B498EB73:Massive Mana Charge
+B498EB75:Massive Mana Charge
+B498EB77:Massive Mana Charge
+B498EB7B:Massive Mana Charge
+B498EB7D:Massive Mana Charge
+B498EB7E:Massive Mana Charge
+B498EB81:Massive Mana Charge
+B498EB84:Massive Mana Charge
+B498EB87:Massive Mana Charge
+B498EB8C:Massive Mana Charge
+B498EB92:Massive Mana Charge
+B498EB93:Massive Mana Charge
+B498EB9E:Massive Mana Charge
+B498EBA2:Massive Mana Charge
+B498EBA7:Massive Mana Charge
+B498EBA9:Massive Mana Charge
+B498EBAB:Massive Mana Charge
+B498EBB3:Foolproof Fire Opal
+B498EBB4:A Tiny Mnemosyne
+B498EBB5:Wand
+B498EBB9:Minalim Plant
+B498EBBA:Argenory Plant
+B498EBBB:Lapyan Plant
+B498EBC3:Titan Mana Charge
+B498EBC1:Amuli Leggings
+B498EB97:Massive Mana Charge
+B498EBA6:Massive Mana Charge
+D051D9E8:Deed
+B498EAFB:Iron Scarab
+B498EAFC:Copper Scarab
+B498EAFA:Imaging Crystal- Arcane Pedestal imprinted
+B498EAF9:Heart of the Innocent
+B498EAFD:Treated Canescent Mattekar Pelt
+B498EB02:Band of Shielding
+B498EB0B:Salvage (52)
+D04CC8AD:Pack
+B498EB0A:Salvage (100)
+912EB77E:Large Lugian Sinew
+91265247:Great Mattekar Horn
+9740FF8E:Amuli Coat
+96B55F87:Great Mattekar Horn
+B498EB09:Blank Augmentation Gem
+96BF375F:Great Mattekar Horn
+96B2CD97:Great Mattekar Horn
+919CEA20:Ravener Guts
+91BF0FDD:Ravener Guts
+97022686:Elaniwood Golem Heart
+8BCD9B97:Oswald's Dagger
+B498EAF8:Diamond Scarab
+B498EAF6:Silver Scarab
+B498EB00:Aetheria
+B498EB06:Pack Golem
+B498EB01:Aetheria
+B498EAF5:Lead Scarab
+B498EAFE:Broken Virindi Desecrator Mask
+B498EB04:Tumerok Chair
+B498EB05:Pack Gaerlan
+B498EB03:Blueprints for a Burun Fortress
+B498EB08:Berimphur Plant
+B498EB1D:Greater Stamina Kit
+D1865260:Aphus Lassel Portal Gem
+B498EBBE:Flaming Nekode
+B498EB19:Focusing Stone
+D1CA01F5:Crown
+D1BF5A27:Diadem
+B498EB8B:Massive Mana Charge
+B498EBBF:Wand
+B498EBC2:Dauloirae
+B498EBC5:Wand
+800DA3CA:Amuli Coat
+805AC126:Cloth Cap
+805AC127:Compass
+805AC095:Intricate Carving Tool
+D859FC25:Ancient Empyrean Trinket
+D859FBA5:Moderate Item Tinkering Armature
+B498EBC6:Paradox-touched Olthoi Staff
+
+Missing Exports - Possessed items that were not found:
+D50DDDCB
+B498EB67
+B498EB40
+B498EB0D
+B498EB26
+B498EAF2
+B498EAF3
+B498EB27
+B498EB5C
+B498EB5B
+B498EB5A
+B498EB59
+B498EBA5
+B498EBA4
+B498EAF7
+B498EB52
+B498EB57
+B498EB56
+B498EB55
+B498EB54
+B498EB53
+B498EB4E
+B498EB4D
+B498EB4C
+B498EB4B
+B498EB4A
+B498EB49
+B498EB48
+B498EB46
+B498EB45
+B498EB44
+B498EB43
+B498EB42
+B498EB41
+B498EB79
+B498EAFF
+B498EB23
+B498EB20
+B498EB1F
+B498EB21
+B498EB1E
+B498EB1C
+B498EB1B
+B498EB1A
+B498EB18
+B498EB17
+B498EB16
+B498EB15
+B498EB14
+B498EB13
+B498EB12
+B498EB10
+B498EB0F
+B498EB0E
+B498EB22
+B498EB3E
+B498EB3B
+B498EB3D
+B498EB3C
+B498EB3A
+B498EB39
+B498EB38
+B498EB37
+B498EB36
+B498EB35
+B498EB34
+B498EB33
+B498EB32
+B498EB31
+B498EB30
+B498EB2F
+B498EB2E
+B498EB2D
+B498EB2C
+B498EB2B
+B498EB2A
+B498EB29
+B498EB28

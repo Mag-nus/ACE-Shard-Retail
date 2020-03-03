@@ -1,0 +1,82 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (2156008265, 36446, 44, 7393601) /* CraftTool */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (2156008265,   1,         32) /* ItemType - Food */
+     , (2156008265,   5,          3) /* EncumbranceVal */
+     , (2156008265,  11,         10) /* MaxStackSize */
+     , (2156008265,  12,          3) /* StackSize */
+     , (2156008265,  16,          8) /* ItemUseable - Contained */
+     , (2156008265,  18,          1) /* UiEffects - Magical */
+     , (2156008265,  19,         30) /* Value */
+     , (2156008265,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (2156008265,  94,         16) /* TargetType - Creature */
+     , (2156008265, 106,        300) /* ItemSpellcraft */
+     , (2156008265, 107,         50) /* ItemCurMana */
+     , (2156008265, 108,         50) /* ItemMaxMana */
+     , (2156008265, 109,          0) /* ItemDifficulty */
+     , (2156008265, 110,          0) /* ItemAllegianceRankLimit */
+     , (2156008265, 151,          9) /* HookType - Floor, Yard */
+     , (2156008265, 8007,          0) /* PCAPRecordedAutonomousMovement */
+     , (2156008265, 9015,         38) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (2156008265,   1, False) /* Stuck */
+     , (2156008265,  11, True ) /* IgnoreCollisions */
+     , (2156008265,  13, True ) /* Ethereal */
+     , (2156008265,  14, True ) /* GravityStatus */
+     , (2156008265,  19, True ) /* Attackable */
+     , (2156008265,  69, False) /* IsSellable */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (2156008265,  39, 0.100000001490116) /* DefaultScale */
+     , (2156008265,  76, 0.600000023841858) /* Translucency */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (2156008265,   1, 'Gummy Golem') /* Name */
+     , (2156008265,  14, 'Use this item to eat it.') /* Use */
+     , (2156008265,  16, 'A festival treat. A gummy candy molded into the shape of a golem.') /* LongDesc */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (2156008265,   1,   33556426) /* Setup */
+     , (2156008265,   2,  150995144) /* MotionTable */
+     , (2156008265,   3,  536870932) /* SoundTable */
+     , (2156008265,   8,  100689669) /* Icon */
+     , (2156008265,  22,  872415275) /* PhysicsEffectTable */
+     , (2156008265,  28,       4209) /* Spell - GummyShield */
+     , (2156008265, 8001,  275280024) /* PCAPRecordedWeenieHeader - Value, Usable, UiEffects, StackSize, MaxStackSize, Container, TargetType, Burden, Spell, HookType */
+     , (2156008265, 8003,         16) /* PCAPRecordedObjectDesc - Attackable */
+     , (2156008265, 8005,     333955) /* PCAPRecordedPhysicsDesc - CSetup, MTable, ObjScale, STable, PeTable, Movement, Translucency */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (2156008265,   1, 1343151588) /* Owner */
+     , (2156008265,   2, 1343151588) /* Container */
+     , (2156008265, 8000, 2156008265) /* PCAPRecordedObjectIID */;
+
+INSERT INTO `biota_properties_spell_book` (`object_Id`, `spell`, `probability`)
+VALUES (2156008265,  4209,      2) ;
+
+INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
+VALUES (2156008265, 0, 83892410, 83892401, 0)
+     , (2156008265, 0, 83892411, 83892401, 1)
+     , (2156008265, 1, 83892412, 83892401, 2)
+     , (2156008265, 2, 83892412, 83892401, 3)
+     , (2156008265, 4, 83892412, 83892401, 4)
+     , (2156008265, 5, 83892412, 83892401, 5)
+     , (2156008265, 7, 83892412, 83892401, 6)
+     , (2156008265, 8, 83892412, 83892401, 7)
+     , (2156008265, 9, 83892412, 83892401, 8)
+     , (2156008265, 11, 83892412, 83892401, 9)
+     , (2156008265, 12, 83892412, 83892401, 10);
+
+INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, `order`)
+VALUES (2156008265, 0, 16784123, 0)
+     , (2156008265, 1, 16784101, 1)
+     , (2156008265, 2, 16784094, 2)
+     , (2156008265, 4, 16784104, 3)
+     , (2156008265, 5, 16784097, 4)
+     , (2156008265, 7, 16784091, 5)
+     , (2156008265, 8, 16784117, 6)
+     , (2156008265, 9, 16784111, 7)
+     , (2156008265, 11, 16784119, 8)
+     , (2156008265, 12, 16784114, 9);

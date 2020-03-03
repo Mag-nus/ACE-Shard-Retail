@@ -1,0 +1,137 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-07-2017\pkt_2017-1-28_1485567353\pkt_2017-1-28_1485567381_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-07-2017\Asherons-Call-1\pkt_2017-1-25_1485307750_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\Asherons-Call-1\pkt_2017-1-25_1485307750_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\pkt_2017-1-27_1485513727\pkt_2017-1-27_1485513727_log.pcap
+
+Partial Exports - Missing appraisal info:
+83EEE924:Sack
+83EEE923:Ust
+8562928E:Pyreal
+8565B489:Facility Hub Portal Gem
+C4E2875D:Aphus Lassel Portal Gem
+BBFF3EFF:Prismatic Taper
+C4DE7299:Iron Scarab
+C4E0CC23:Gold Scarab
+C4DBEF75:Silver Scarab
+C4DEA33C:Lead Scarab
+C4E3D174:Copper Scarab
+C4FE9E61:Pyreal Scarab
+C59D7641:Platinum Scarab
+BD8B4091:Yellow Jewel
+C7AB2616:Trade Note (250,000)
+C613ADC2:Frost Skeleton Bushi Essence (150)
+856724E5:Pack
+C10AD9AB:Splitting Tool
+C4F84492:Trade Note (100,000)
+C4F97747:Trade Note (50,000)
+C4FCD1F5:Trade Note (10,000)
+BC63AC27:Salvage (66)
+C5C988B1:Fire Skeleton Bushi Essence (150)
+C5CA8694:Fire Zombie Essence (150)
+C5BF8CE9:Lightning Skeleton Bushi Essence (180)
+C5EA1A7D:Acid Spectre Essence (150)
+C5F410AA:Acid Skeleton Bushi Essence (150)
+C65E18B7:Aetheria Mana Stone
+8164D46E:Renegade Herbal Kit
+C6CC5B8A:Frost Zombie Essence (150)
+C7AACAFE:Peerless Healing Kit
+C6D37D91:Acid Skeleton Bushi Essence (150)
+C77196BB:Encapsulated Spirit
+C7A36957:Peerless Healing Kit
+C7AA9C15:Peerless Healing Kit
+C7A68BEF:Peerless Healing Kit
+C7AACB0A:Peerless Healing Kit
+C78A2B4B:Peerless Healing Kit
+8565B8FF:Pack
+C4F6EE33:Gem of Stillness
+BC44E031:Assault Greatsword
+C532CF6A:Diamond Heart
+C5EA3D09:Orb
+C5C2B963:Nether Sceptre
+C78754F5:Peerless Healing Kit
+832ED578:Mana Scarab
+C613BBB4:Frost Spectre Essence (150)
+C78C027F:Peerless Healing Kit
+C6CCB05C:Frost Spectre Essence (150)
+C6C82E3B:Frost Spectre Essence (150)
+C799BC89:Peerless Healing Kit
+C7AACB68:Peerless Healing Kit
+C7A76947:Peerless Healing Kit
+C788829A:Peerless Healing Kit
+C7AACB2F:Peerless Healing Kit
+856724ED:Pack
+C60F1B8A:Fire Zombie Essence (150)
+C79E2E52:Peerless Healing Kit
+C60F07B5:Fire Spectre Essence (150)
+C6196CA8:Fire Zombie Essence (150)
+C612032A:Fire Spectre Essence (150)
+C6258EDA:Frost Spectre Essence (150)
+C6C827F0:Frost Skeleton Bushi Essence (150)
+C6DAB1DA:Fire Zombie Essence (150)
+C6E2012B:Wand
+C7AC0E3D:Lightning Spectre Essence (125)
+C7A91493:Peerless Healing Kit
+C7AACB73:Peerless Healing Kit
+C7AACB2E:Peerless Healing Kit
+C7AAA078:Peerless Healing Kit
+C7A081C9:Peerless Healing Kit
+C7A3660A:Peerless Healing Kit
+C7AACAFF:Peerless Healing Kit
+C7DA30C1:Encapsulated Spirit
+C7C64806:Encapsulated Spirit
+C805A86A:Titan Mana Charge
+C7A37BF3:Prismatic Taper
+C8053D13:Prismatic Taper
+C80A0D65:Titan Mana Charge
+C7F5E86B:Titan Mana Charge
+C7C7F30B:Salvage (42)
+C7BD7379:Salvage (28)
+C80154FD:Titan Mana Charge
+C7C6FBC9:Salvage (84)
+C7C486A3:Salvage (60)
+C8087F06:Titan Mana Charge
+C7DA0AEA:Nether Baton
+C7E35B33:Nether Baton
+C7E74EFF:Encapsulated Spirit
+C7FD5513:Salvage (12)
+C8007E24:Titan Mana Charge
+C8078614:Titan Mana Charge
+C805A855:Titan Mana Charge
+C8056825:Titan Mana Charge
+C805A8E7:Titan Mana Charge
+C8019BD2:Titan Mana Charge
+C805656B:Titan Mana Charge
+C805A52A:Titan Mana Charge
+C805683A:Titan Mana Charge
+C801A7A7:Titan Mana Charge
+C801EF11:Titan Mana Charge
+C805A891:Titan Mana Charge
+C805A80D:Titan Mana Charge
+C8087EFE:Titan Mana Charge
+C80137C2:Titan Mana Charge
+C80C79B6:Titan Mana Charge
+C80C79B7:Titan Mana Charge
+C80C79B8:Titan Mana Charge
+C80C79B9:Titan Mana Charge
+C78F708B:T'ing's Crystal
+C799BC0F:Rogue's Crystal
+C810BBE9:Pearl of Heart Seeking
+C7DBE24E:Fletcher's Crystal
+C792DD37:Corruptor's Crystal
+C81123FA:Artist's Crystal
+C7AA873B:Magus's Pearl
+C80010E0:Evader's Crystal
+C7FBA20D:Elysa's Crystal
+C80BCFF6:Archer's Jewel
+C7DD3561:Converter's Crystal
+C7A8BFB9:Observer's Crystal
+C7E9AEA2:Vaulter's Crystal
+C8132325:Deceiver's Crystal
+C7D7CE24:Zefir's Crystal
+C78BD94F:Ben Ten's Crystal
+C7A0CDBA:Gelid's Jewel
+
+Missing Exports - Possessed items that were not found:

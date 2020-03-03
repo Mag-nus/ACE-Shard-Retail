@@ -1,0 +1,57 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (3315967878, 136, 21, 6476097) /* Container */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (3315967878,   1,        512) /* ItemType - Container */
+     , (3315967878,   5,       8491) /* EncumbranceVal */
+     , (3315967878,   6,         24) /* ItemsCapacity */
+     , (3315967878,  16,         56) /* ItemUseable - ContainedViewedRemote */
+     , (3315967878,  19,         65) /* Value */
+     , (3315967878,  65,        101) /* Placement - Resting */
+     , (3315967878,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (3315967878, 9015,        103) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (3315967878,   1, False) /* Stuck */
+     , (3315967878,   2, True ) /* Open */
+     , (3315967878,  11, True ) /* IgnoreCollisions */
+     , (3315967878,  13, True ) /* Ethereal */
+     , (3315967878,  14, True ) /* GravityStatus */
+     , (3315967878,  19, True ) /* Attackable */
+     , (3315967878,  22, True ) /* Inscribable */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (3315967878,  39,    1.75) /* DefaultScale */
+     , (3315967878,  54,     0.5) /* UseRadius */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (3315967878,   1, 'Pack') /* Name */
+     , (3315967878,   7, 'Eviscerator Pincer Feb 28') /* Inscription */
+     , (3315967878,   8, 'Asa') /* ScribeName */
+     , (3315967878,  14, 'Use this item to close it.') /* Use */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (3315967878,   1,   33554769) /* Setup */
+     , (3315967878,   3,  536870932) /* SoundTable */
+     , (3315967878,   6,   67111919) /* PaletteBase */
+     , (3315967878,   8,  100670387) /* Icon */
+     , (3315967878,  22,  872415275) /* PhysicsEffectTable */
+     , (3315967878, 8001,    2113594) /* PCAPRecordedWeenieHeader - ItemsCapacity, Value, Usable, UseRadius, Container, Burden */
+     , (3315967878, 8003,         19) /* PCAPRecordedObjectDesc - Openable, Inscribable, Attackable */
+     , (3315967878, 8005,     137345) /* PCAPRecordedPhysicsDesc - CSetup, ObjScale, STable, PeTable, AnimationFrame */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (3315967878,   1, 1342608822) /* Owner */
+     , (3315967878,   2, 1342608822) /* Container */
+     , (3315967878, 8000, 3315967878) /* PCAPRecordedObjectIID */;
+
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
+VALUES (3315967878, 67111918, 0, 0);
+
+INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
+VALUES (3315967878, 0, 83886723, 83886723, 0)
+     , (3315967878, 0, 83886721, 83886721, 1)
+     , (3315967878, 0, 83886722, 83886722, 2);
+
+INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, `order`)
+VALUES (3315967878, 0, 16778611, 0);

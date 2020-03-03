@@ -1,0 +1,179 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-PCAP-Absolutely-Random-Gameplay\AC-pcap\pkt_2017-1-30_1485759182_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-PCAP-Absolutely-Random-Gameplay\AC-pcap\pkt_2017-1-29_1485715768_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-PCAP-Absolutely-Random-Gameplay\AC-pcap\pkt_2017-1-29_1485722811_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-PCAP-Absolutely-Random-Gameplay\AC-pcap\pkt_2017-1-29_1485735611_log.pcap
+
+Partial Exports - Missing appraisal info:
+802F132D:Tasty Pudding
+802F132E:Priceless Ore
+802F132F:Platinum Spirits
+802F1330:Small Olthoi Venom Sac
+802F1331:Ornate Gear Marker
+802FC90D:Burning Coal
+802D9BF9:Ancient Mhoire Coin
+802FC909:Spirit of Izexi Gem
+802FC90F:Colosseum Coin
+802FC90E:A'nekshay Token
+802FC911:Coral Fragment
+802FC912:Celestial Hand Trade Token
+847EB85D:Pyreal Forge Bellows
+84443B51:Sluice Gate Bar
+848F0910:Aetheric Resonator
+802FC980:Aetheria
+9C509EDA:Mana-infused Acid War Staff of Aerfalle
+802FC915:Ust
+85559CCD:Aetheria
+802FC917:Linaural Urilaentai
+802FC972:Blue Taper
+802FC919:Lead Scarab
+802FC91B:Chorizite
+802FC91C:Silver Scarab
+802FC91D:Copper Scarab
+802FC91E:Pyreal Scarab
+802FC91F:Gold Scarab
+8415EA77:Celdiseth's Portal Gem
+98F3715E:Pyreal
+802D9870:Blackmoor's Favor
+802F132B:Asheron's Benediction
+802FC916:Diamond Scarab
+835E1225:Diamond Scarab
+803BEEBD:Tiriun Cap Wafer
+802FC923:Intricate Carving Tool
+8C1BDFC2:Platinum Scarab
+8C2CB47A:Prismatic Taper
+8C5D23C8:Prismatic Taper
+90A0BA08:Prismatic Taper
+848CD8CA:Mana Scarab
+9CB6F0D8:Mana Scarab
+9CB37328:Mana Scarab
+9CBA31BB:Mana Scarab
+9CBCDF70:Mana Scarab
+9CB6F1DF:Mana Scarab
+802FC98F:Compass
+802FC918:Deed
+9C4F4C54:Aerfalle's Mana-infused Pallium
+9CB64E28:Pyreal
+9C4F4C22:Reforged Ashbane
+802FC97F:Aetheria
+802FC941:Elemental Talisman
+9CBCE0A4:Pyreal
+802FC942:Lyceum Recall Gem
+802FC943:Habitat Portal Gem
+802FC944:Sezzherei's Lair
+802FC947:Ornate Bone Key
+802FC945:Sezzherei's Lair
+802FC946:Mhoire Castle Treasury Key
+802FC949:Lord Cynreft Mhoire's Key
+802FC94B:Embossed Ashen Key
+802FC94C:Gurog Torso with a Head
+802FC94D:Geraine's Tome (2)
+802FC94E:Aetheria Mana Stone
+802FC950:Enhanced Black Fire Atlan Stone
+802FC952:Deck of Eyes
+802FC953:Deck of Hands
+802FC954:Coruscating Olthoi Scent Gland
+802FC956:Greater Mukkir Slayer Stone
+802CBF09:Sake
+84712785:Black Skull of Xikma
+8BA73443:Dire Champion Token
+8B185160:Dire Champion Token
+8BB91991:Dire Champion Token
+8BBC370C:Dire Champion Token
+8BC9B294:Dire Champion Token
+8BD065FC:Dire Champion Token
+8BDA7085:Dire Champion Token
+8BE0ADA9:Dire Champion Token
+8BFD2866:Dire Champion Token
+8C0045B0:Dire Champion Token
+8C0548F4:Dire Champion Token
+8C0D9966:Dire Champion Token
+8C14B819:Dire Champion Token
+9C050666:Exquisite Casino Key
+9C07303C:Exquisite Casino Key
+9C0022DB:Exquisite Casino Key
+9C0617DA:Exquisite Casino Key
+9C072F98:Exquisite Casino Key
+9C072CBA:Exquisite Casino Key
+802FC969:Pumpkin Backpack
+9CAE002F:Titan Mana Charge
+9CB06032:Titan Mana Charge
+9CB06029:Titan Mana Charge
+9CABCD74:Titan Mana Charge
+9CB0643B:Titan Mana Charge
+9CB0645C:Titan Mana Charge
+9CAE1B4D:Titan Mana Charge
+9CB3D4B0:Titan Mana Charge
+9CB067B7:Titan Mana Charge
+9CB06795:Titan Mana Charge
+9CB067B6:Titan Mana Charge
+9CAE0271:Titan Mana Charge
+9CAB211F:Titan Mana Charge
+9CB3D4B8:Titan Mana Charge
+9CB3D4AF:Titan Mana Charge
+9CB05859:Titan Mana Charge
+9CB067B2:Titan Mana Charge
+9CAB3291:Titan Mana Charge
+9CB0677E:Titan Mana Charge
+9CBCE0C7:Titan Mana Charge
+9CBCE0F5:Titan Mana Charge
+9CBCE0C6:Titan Mana Charge
+9CBCE0C8:Titan Mana Charge
+802FC96F:Celestial Hand Armor Writ
+802FC970:Stipend
+802FC974:Celestial Hand Commendation Ribbon
+803B86B1:Ancient Falatacot Trinket
+802F132C:Quest Weapon Coin
+8437D723:Colosseum Ticket
+848E3A49:Golden Gromnie
+836DC4D4:Orb of the Bunny Booty
+848E3A43:High-Stakes Gambling Token
+849DD3F4:Ancient Empyrean Trinket
+84D31183:Upper Insatiable Eater Jaw
+802FC992:Flared Shirt
+802FC98D:Quartered Cloak
+9C8119A8:Ust
+8564DED9:Empyrean Over-robe
+82B09157:Cloak
+9C5068EE:Unreadable Scroll
+9CBCE0A2:Pyreal
+8C0037CC:Aetherium-infused Gear
+9CB5C48E:Aquamarine Prisms
+9CB5B97C:Pyreal
+9CB82B41:Philanthropist Title Token
+8C38CCE0:Encapsulated Spirit
+8C530C93:Encapsulated Spirit
+98F3AE36:Gold Pea
+98F4BF90:Salvage (50)
+9B89D04A:Trade Note (100,000)
+9C893068:Small Shard
+9BE2A1B6:Magic Iceball
+8150ABAA:Trade Note (250,000)
+9C8ECFDC:Pyreal Pea
+9C512CB6:Enhanced Black Fire Atlan Stone
+9CB865DC:Grave Robber Title Token
+9C6272CB:Writ of Refuge
+9C7EB5C1:Vissidal Island Portal Gem
+9CB5C1FD:A Crumpled Letter
+9CB3FD4E:Lord Cynreft Mhoire's Signet Ring
+9CBB5D75:Diamond Heart
+94F67699:Black Luster Pearl
+9CB453FE:Vial of Organic Acid
+9CB627D3:Pyreal
+9CB3AB84:Encapsulated Spirit
+9CB6F329:Pyreal
+9CB91C37:Honeyed Mana Mead
+9CBB221B:Rage of Grael Gem
+9CBA373D:Pyreal
+9CBC2A34:Imbue Swap Coin
+9CBD4AF0:Red Fire Infusion
+9CB70777:Pyreal
+9CBD8176:Honeyed Vigor Mead
+9CBD816F:Honeyed Life Mead
+9CB389B0:Pyreal
+9CBA3750:Celestial Hand Stronghold Portal Gem
+9CBF120D:Trade Note (250,000)
+
+Missing Exports - Possessed items that were not found:

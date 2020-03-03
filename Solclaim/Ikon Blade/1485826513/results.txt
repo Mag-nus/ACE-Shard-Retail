@@ -1,0 +1,115 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-PCAP-Absolutely-Random-Gameplay\AC-pcap\pkt_2017-1-30_1485826508_log.pcap
+
+Partial Exports - Missing appraisal info:
+8023A7B6:Ust
+8023A793:Banderling Aggressor Backpack
+8023A5B3:Reedshark Hide
+80211F37:Dark Monolith Caverns
+8023A6BA:Pyreal
+8023A790:Dark Monolith Caverns
+801E964B:Pyreal
+8022762F:Pyreal
+801BE7F9:Coruscating Olthoi Scent Gland
+8023A791:Ancient Mhoire Coin
+8020E28E:Pack
+801F44E0:Combined Hyssop and Mandrake
+8023A797:Soft Bandages
+8023A79A:Plentiful Healing Kit
+8023A798:Plentiful Healing Kit
+8023A0D2:Pet Penguin Igloo
+8023A0D3:Inactive Lockpicker's Golem
+8023A0D1:Radiant Mana Infusion
+8023A7A9:Coruscating Olthoi Scent Gland
+8023A7AF:Soul Stone
+8023A7A6:Skull of Avoren Palacost
+8023A7B8:Titan Mana Charge
+8023A7B5:Bronze Gearknight Gear
+801C0DF6:Pack
+801F41F9:Titan Mana Charge
+8023A0DB:Titan Mana Charge
+801F4204:Titan Mana Charge
+80211FFD:Titan Mana Charge
+801F4575:Titan Mana Charge
+801F44BE:Titan Mana Charge
+8023A0E2:Titan Mana Charge
+8020DF38:Titan Mana Charge
+8023A187:Titan Mana Charge
+801E1B3B:Titan Mana Charge
+8023A7A5:Titan Mana Charge
+8023A7BB:Titan Mana Charge
+8023A7AE:Titan Mana Charge
+8023A7AC:Titan Mana Charge
+8023A7AA:Titan Mana Charge
+801BE3FA:Titan Mana Charge
+8023A7AB:Titan Mana Charge
+8023A7B7:Titan Mana Charge
+8023A7C1:Titan Mana Charge
+8023A7A3:Titan Mana Charge
+801F4278:Titan Mana Charge
+82C9154B:Titan Mana Charge
+8020E296:Pack
+8020DF45:Lead Scarab
+801F41F4:Copper Scarab
+8023A0E8:Silver Scarab
+8020DF47:Gold Scarab
+8023A7AD:Pyreal Scarab
+801F2420:Platinum Scarab
+80211FFC:Mana Scarab
+8021204F:Diamond Scarab
+8023A7B2:Prismatic Taper
+8020E11E:Chorizite
+801F41F1:Prismatic Taper
+8023A5B4:Prismatic Taper
+80239EEE:Violet Taper
+8023A7C8:Pack
+8020DF55:Colosseum Coin
+8023A0F7:Pack
+8020DF56:Colosseum Coin
+8023A7BC:Pack
+80232E91:Colosseum Vault Key
+801F44AA:Colosseum Vault Key
+8023A0FB:Colosseum Vault Key
+801F44B5:Colosseum Vault Key
+801F42AA:Colosseum Vault Key
+8020E22E:Colosseum Vault Key
+8023A7D3:Colosseum Vault Key
+801D4F26:Colosseum Vault Key
+8023A7D7:Colosseum Vault Key
+801E1506:Colosseum Vault Key
+8023A7C7:Colosseum Vault Key
+801F20EC:Colosseum Vault Key
+801F2511:Colosseum Vault Key
+8020E297:Pack
+8020DF00:Colosseum Coin
+801F41E1:Colosseum Coin
+801F22AC:Blank Augmentation Gem
+801F2619:Stipend
+8021AF3F:Pyreal
+8020E2A4:Colosseum Coin
+8023A7DA:Blank Augmentation Gem
+801F41E7:Gladiator Diemos Token
+8023A809:Blank Augmentation Gem
+8020E300:Salvage (100)
+8023A4C3:Gladiator Diemos Token
+8020E2A3:Salvage (100)
+801F4777:Salvage (100)
+801D4F1D:Mana Scarab
+801F449E:Salvage (100)
+801F44ED:Salvage (100)
+8021AF4B:Pyreal
+801F4774:Salvage (100)
+80227631:Pyreal
+8023A7D8:Trade Note (250,000)
+8023A7BE:Salvage (15)
+8021AF66:Pyreal
+8022CD28:Pyreal
+8021AF51:Pyreal
+8021AF6F:Pyreal
+82CD5436:Gold Shallows Shredder Fin
+82CDE720:Gold Shallows Shredder Fin
+82CDE797:Gold Shallows Shredder Fin
+9B05687F:Stipend
+9B4EF2BB:Stipend
+
+Missing Exports - Possessed items that were not found:

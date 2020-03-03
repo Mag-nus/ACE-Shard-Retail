@@ -1,0 +1,44 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-22_1485139320_log.pcap
+
+Partial Exports - Missing appraisal info:
+8C6F7ECF:Pack
+8C6F7EBE:Pack
+8C6F8065:Blooded Platinum Invader Lord Helm
+8C6F7F0D:Doppelganger Shield
+8C6F7F30:Pack
+8C6F7F0C:Pack
+8C6F7F04:Radiant Blood Breastplate
+8C6F7F2F:Empowered Breastplate of the Perfect Light
+8C6F7F43:Empowered Bracers of the Perfect Light
+8C6F7F2D:Pyreal
+8C6F7ED6:Eldrytch Web Breastplate
+8C6F7EF8:Eldrytch Web Girth
+8C6F7F0B:Radiant Blood Pauldrons
+8C6F7F03:Radiant Blood Pauldrons
+8C6F7EEB:Radiant Blood Girth
+8C6F7EEA:Radiant Blood Breastplate
+8C691AC5:Radiant Blood Breastplate
+8C6A510B:Radiant Blood Sollerets
+8C6DC098:Empowered Greaves of the Perfect Light
+8C6DC0AF:Empowered Helm of the Perfect Light
+8C6F7F2E:Ancient Armored Bracers
+8C6F7F42:Eldrytch Web Breastplate
+8C6F7EF3:Pack
+8C6F7EF4:Empowered Breastplate of the Perfect Light
+8C6F7EF1:Calling Stone
+8C6F7EF0:Pathwarden Token
+8C6F7EEF:Blackmoor's Favor
+8C6F7EEE:Oil of Rendering
+8C6F7EED:Pack
+8C6F7F0A:Pack
+8C6F7F00:Takuba
+914EC6BC:Yoroi Greaves
+8C6F80AB:Coat of Darkness
+926B3154:Yoroi Pauldrons
+91F76EB5:Yoroi Breastplate
+91A21750:Yoroi Girth
+918EE110:Yoroi Breastplate
+91F5D7EF:Yoroi Greaves
+
+Missing Exports - Possessed items that were not found:

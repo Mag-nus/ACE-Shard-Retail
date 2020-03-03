@@ -1,0 +1,120 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-31_1485865620_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-27_1485531435_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-27_1485537010_log.pcap
+
+Partial Exports - Missing appraisal info:
+C690F02B:Foci of Verdancy
+C690F082:Foci of Strife
+C690F033:Foci of Artifice
+C690EFF4:Foci of Enchantment
+C690F099:Ust
+C690F03B:A Large Mnemosyne
+C690EFFC:Ravener Guts
+C690EFFD:Aphus Lassel Portal Gem
+C690EFFF:Nekode
+C690F000:Virindi Directive Key
+C690F001:Virindi Singularity Key
+C690F002:Virindi Singularity Key
+C690F003:Scalemail Breastplate
+C690F049:Scored Shard
+C690F043:Pyreal
+C690F015:Platemail Gauntlets
+C690F058:Seared Shard
+C690F050:Shadow Fragment
+C690F091:Shadow Fragment
+C690F08C:Shadow Fragment
+C690F022:Shadow Fragment
+C690F08F:Sparkling Gem
+C690F075:Peculiar Old Dagger
+C690F069:Asheron's Supreme Raiment
+C690F060:Cabalist Charm Necklace
+C690F02A:Superb Mana Charge
+C690F008:Mana Philtre
+C690F081:Superb Mana Charge
+C690F032:Health Philtre
+C690F098:Ancient Armored Bracers
+C690F08E:Ancient Armored Vestment
+C690F014:Dark Revenant Thighbone
+C690F00F:Salvaged  (14)
+C690F042:Scroll of Eradicate Life Magic Self
+C690F0A9:Salvaged  (15)
+C690F0A1:Scroll of Blistering Creeper
+C690F08B:Asheron's Benediction
+C690F057:Blackmoor's Favor
+C690F04F:Pyreal
+C690F05F:Major Mana Stone
+C690F029:Ring
+C690F021:Gem
+C690F080:Scroll of Acid Arc VII
+C690F07A:Salvaged  (13)
+C690F068:Salvaged  (7)
+C690F097:Singularity Key
+C690F031:Salvaged  (8)
+C690F077:Shroud of Night
+C690F0B9:Alduressa Gauntlets
+C690F039:Amuli Leggings
+C690F0B1:Sollerets
+C690F04E:Essence of a Phantasm
+C690F041:Iron Pea
+C690F0A8:Silver Pea
+C690F0A0:Lead Pea
+C690F090:Salvaged  (12)
+C690F08A:Salvaged  (19)
+C690F056:Copper Pea
+C690F05E:Candy Corn
+C690F0C1:Floating Candle
+C690F079:Sturdy Iron Key
+C690F092:Torch
+C690F0B8:Salvaged  (100)
+C690F0B0:Salvaged  (100)
+C690F0A7:Arcane Lore Gem of Forgetfulness
+C690F09F:Coalesced Mana
+C690F089:Banished Point
+C690F078:Scroll of Morimoto's Boon
+C690F066:Scroll of Tusker Bait
+C690F0C2:Lead Scarab
+C690F0C0:Gold Scarab
+C690F0C4:Silver Scarab
+C690F0C3:Copper Scarab
+C690F095:Iron Scarab
+C690F0B7:Prismatic Taper
+C690F0AF:Pyreal Scarab
+C690F0A6:Peerless Lockpick
+C690F0C6:Glimmering Gem
+C690F0C5:Platinum Scarab
+C690F09E:Prismatic Taper
+C690F073:Platinum Golem Heart
+C690F0D6:Coalesced Aetheria
+C690F0CD:Treated Healing Kit
+C690F0DE:Treated Healing Kit
+C690F0BF:Scroll of Tusker's Gift
+C690F094:Shoyanen's Portal Gem
+C690F0AE:Scroll of Hieromancer's Blessing
+C690F0B6:Pyreal Mote
+C690F0A5:Dire Champion Token
+C690F09D:Diamond Powder
+C690F087:Lorica Boots
+C690F25A:Acid Dolabra
+C690F0EB:Slippers
+C690F0DD:Scroll of Icy Boon
+C690F0E3:Heavy Necklace
+C690F0D5:Piercing Baton
+C690F0B5:Titan Mana Charge
+C690F0CC:Flagon
+C690F0BE:Beret
+C690F0E1:Ring
+C690F093:Chalice
+C690F0AD:Crown
+C690F086:Some Changes for February 2012
+C690F0A4:Turban
+C690F0F8:Slashing Baton
+C690F0CB:Orb of the Bunny Booty
+C690F0DF:Heavy Bracelet
+C690F09C:Lightning Short Sword
+C690F100:Quintessence Sickle
+C690F0D4:Staff
+
+Missing Exports - Possessed items that were not found:

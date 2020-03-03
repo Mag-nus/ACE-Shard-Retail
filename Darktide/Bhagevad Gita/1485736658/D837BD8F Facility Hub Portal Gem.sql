@@ -1,0 +1,70 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (3627531663, 49563, 38, 7524673) /* Gem */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (3627531663,   1,       2048) /* ItemType - Gem */
+     , (3627531663,   5,         10) /* EncumbranceVal */
+     , (3627531663,  11,          1) /* MaxStackSize */
+     , (3627531663,  12,          1) /* StackSize */
+     , (3627531663,  16,          8) /* ItemUseable - Contained */
+     , (3627531663,  18,          1) /* UiEffects - Magical */
+     , (3627531663,  19,          0) /* Value */
+     , (3627531663,  33,          0) /* Bonded - Normal */
+     , (3627531663,  65,        101) /* Placement - Resting */
+     , (3627531663,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (3627531663,  94,         16) /* TargetType - Creature */
+     , (3627531663, 106,        210) /* ItemSpellcraft */
+     , (3627531663, 107,         70) /* ItemCurMana */
+     , (3627531663, 108,         70) /* ItemMaxMana */
+     , (3627531663, 109,         10) /* ItemDifficulty */
+     , (3627531663, 114,          0) /* Attuned - Normal */
+     , (3627531663, 280,        221) /* SharedCooldown */
+     , (3627531663, 369,         10) /* UseRequiresLevel */
+     , (3627531663, 9015,         36) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (3627531663,   1, False) /* Stuck */
+     , (3627531663,  11, True ) /* IgnoreCollisions */
+     , (3627531663,  13, True ) /* Ethereal */
+     , (3627531663,  14, True ) /* GravityStatus */
+     , (3627531663,  19, True ) /* Attackable */
+     , (3627531663,  22, True ) /* Inscribable */
+     , (3627531663,  63, True ) /* UnlimitedUse */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (3627531663,  76,     0.5) /* Translucency */
+     , (3627531663, 167,      30) /* CooldownDuration */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (3627531663,   1, 'Facility Hub Portal Gem') /* Name */
+     , (3627531663,  14, 'Double Click on this portal gem to transport yourself to the Facility Hub.') /* Use */
+     , (3627531663,  15, 'A gem teeming with portal energy. ') /* ShortDesc */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (3627531663,   1,   33556769) /* Setup */
+     , (3627531663,   3,  536870932) /* SoundTable */
+     , (3627531663,   6,   67111919) /* PaletteBase */
+     , (3627531663,   8,  100676422) /* Icon */
+     , (3627531663,  22,  872415275) /* PhysicsEffectTable */
+     , (3627531663,  28,       5175) /* Spell - PortalSendHubNPE */
+     , (3627531663, 8001,    6844560) /* PCAPRecordedWeenieHeader - Usable, UiEffects, StackSize, MaxStackSize, Container, TargetType, Burden, Spell */
+     , (3627531663, 8002,          6) /* PCAPRecordedWeenieHeader2 - Cooldown, CooldownDuration */
+     , (3627531663, 8003,   67108882) /* PCAPRecordedObjectDesc - Inscribable, Attackable, IncludesSecondHeader */
+     , (3627531663, 8005,     399361) /* PCAPRecordedPhysicsDesc - CSetup, STable, PeTable, AnimationFrame, Translucency */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (3627531663,   1, 1344175292) /* Owner */
+     , (3627531663,   2, 1344175292) /* Container */
+     , (3627531663, 8000, 3627531663) /* PCAPRecordedObjectIID */;
+
+INSERT INTO `biota_properties_spell_book` (`object_Id`, `spell`, `probability`)
+VALUES (3627531663,  5175,      2) ;
+
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
+VALUES (3627531663, 67111921, 0, 0);
+
+INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
+VALUES (3627531663, 0, 83890391, 83890391, 0);
+
+INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, `order`)
+VALUES (3627531663, 0, 16779181, 0);

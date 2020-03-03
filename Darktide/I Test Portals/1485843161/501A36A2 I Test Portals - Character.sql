@@ -1,0 +1,53 @@
+INSERT INTO `character` (`id`, `account_Id`, `name`, `is_Plussed`, `is_Deleted`, `delete_Time`, `last_Login_Timestamp`, `total_Logins`, `character_Options_1`, `character_Options_2`, `gameplay_Options`, `spellbook_Filters`, `hair_Texture`, `default_Hair_Texture`)
+VALUES (1343895202, 0, 'I Test Portals', False, False, 0, 0, 0, 1895606082, 296896, NULL, 482, 0, 0);
+
+INSERT INTO `character_properties_fill_comp_book` (`character_Id`, `spell_Component_Id`, `quantity_To_Rebuy`)
+VALUES (1343895202, 686, 10)
+     , (1343895202, 688, 10)
+     , (1343895202, 20631, 50);
+
+INSERT INTO `character_properties_shortcut_bar` (`character_Id`, `shortcut_Bar_Index`, `shortcut_Object_Id`)
+VALUES (1343895202, 0, 3419273924)
+     , (1343895202, 1, 3419302990)
+     , (1343895202, 7, 1343895202)
+     , (1343895202, 8, 3419274768);
+
+INSERT INTO `character_properties_spell_bar` (`character_Id`, `spell_Bar_Number`, `spell_Bar_Index`, `spell_Id`)
+VALUES (1343895202, 0, 0, 1421)
+     , (1343895202, 0, 1, 18)
+     , (1343895202, 0, 2, 17)
+     , (1343895202, 0, 3, 35)
+     , (1343895202, 0, 4, 51)
+     , (1343895202, 0, 5, 49)
+     , (1343895202, 0, 6, 1511)
+     , (1343895202, 0, 7, 1599)
+     , (1343895202, 0, 8, 37)
+     , (1343895202, 1, 0, 1635)
+     , (1343895202, 1, 1, 2645)
+     , (1343895202, 1, 2, 48)
+     , (1343895202, 1, 3, 2647)
+     , (1343895202, 1, 4, 157)
+     , (1343895202, 1, 5, 2648)
+     , (1343895202, 1, 6, 2644)
+     , (1343895202, 1, 7, 47)
+     , (1343895202, 1, 8, 2646)
+     , (1343895202, 1, 9, 1637)
+     , (1343895202, 1, 10, 2650)
+     , (1343895202, 1, 11, 2023)
+     , (1343895202, 2, 0, 1676)
+     , (1343895202, 2, 1, 1666);
+
+INSERT INTO `character_properties_title_book` (`character_Id`, `title_Id`)
+VALUES (1343895202, 1)
+     , (1343895202, 33)
+     , (1343895202, 43)
+     , (1343895202, 61)
+     , (1343895202, 86)
+     , (1343895202, 94)
+     , (1343895202, 112)
+     , (1343895202, 116)
+     , (1343895202, 117)
+     , (1343895202, 126)
+     , (1343895202, 651)
+     , (1343895202, 765)
+     , (1343895202, 766);

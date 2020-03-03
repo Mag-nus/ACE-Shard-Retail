@@ -1,0 +1,162 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\pkt_2017-1-30_1485843220_desc\pkt_2017-1-30_1485841941_log.pcap
+
+Partial Exports - Missing appraisal info:
+9BE0D90C:Pack
+9BE0D956:Pyreal
+9BE0D960:Iron Scarab
+9BE0D958:Copper Scarab
+9BE0D929:Comfrey
+9BE0D91E:Wormwood
+9BE0D915:Saffron
+9BE0D931:Lead Scarab
+9BE0D94F:Ginseng
+9BE0D943:Mandrake
+9BE0D957:Silver Scarab
+9BE0D93B:Mugwort
+9BE0D947:Damiana
+9BE0D94E:Pack
+9BE0D968:Yarrow
+9BE0D928:Dragonsblood
+9BE0D966:Ebony Talisman
+9BDA97F4:Hawthorn
+9BE0D95F:Hyssop
+9BE0D97B:Trade Note (100)
+9BE0D91D:Pack Lugian
+9BE0D942:Trade Note (5,000)
+9BE0D93A:Trade Note (5,000)
+9BE0D946:Trade Note (1,000)
+9BE0D973:Trade Note (1,000)
+9BE0D930:Trade Note (100)
+9BDD291B:Trade Note (100)
+9BE0D967:Trade Note (5,000)
+9BE0D927:Trade Note (500)
+9BDD09D5:Trade Note (1,000)
+9BE0D983:Trade Note (1,000)
+9BE0D95E:Trade Note (100)
+9BE0D98E:Pack
+9BE0D94D:Verdigris
+9BE0D945:Cadmia
+9BE0D941:Brimstone
+9BE0D939:Colcothar
+9BE0D97A:Cinnabar
+9BE0D972:Cobalt
+9BE0D92F:Realgar
+9BDD1C12:Gypsum
+9BE0D996:Turpeth
+9BE0D95D:Vitriol
+9BE0D955:Quicksilver
+9BE0D926:Powdered Hematite
+9BE0D95C:Gifted Healing Kit
+9BE0D982:Powdered Quartz
+9BE0D94C:Powdered Onyx
+9BE0D995:Stamina Potion
+9BE0D940:Powdered Agate
+9BE0D938:Powdered Amber
+9BE0D965:Pack
+9BE0D98D:Powdered Carnelian
+9BDA9440:Powdered Bloodstone
+9BE0D925:Gifted Healing Kit
+9BE0D971:Powdered Moonstone
+9BE0D979:Powdered Turquoise
+9BE0D954:Excellent Healing Kit
+9BE0D92E:Stibnite
+9BDD1BE4:Powdered Malachite
+9BE0D99E:Gifted Healing Kit
+9BE0D981:Chainmail Gauntlets
+9BE0D98C:Excellent Healing Kit
+9BE0D94B:Gifted Healing Kit
+9BE0D93F:Excellent Healing Kit
+9BE0D937:Excellent Healing Kit
+9BDA9484:Ring
+9BE0D970:Heavy Bracelet
+9BE0D978:Stamina Potion
+9BE0D92D:Stamina Elixir
+9BE0D9A7:Peerless Healing Kit
+9BE0D994:Gifted Healing Kit
+9BE0D964:Gifted Healing Kit
+9BE0DA22:Gifted Healing Kit
+9BE0D980:Excellent Healing Kit
+9BE0D95B:Excellent Healing Kit
+9BE0D953:Gifted Healing Kit
+9BE0DA84:Mana Draught
+9BE0D99D:Excellent Healing Kit
+9BE0D98B:Helmet
+9BE0D94A:Platemail Leggings
+9BDD1BE2:Pack
+9BE0D93E:Cedar Talisman
+9BE0D936:Willow Talisman
+9BE0D96F:Ashwood Talisman
+9BE0D977:Birch Talisman
+9BE0D9A6:Ebony Talisman
+9BE0D993:Poplar Talisman
+9BE0D963:Elder Talisman
+9BE0D9B1:Alder Talisman
+9BE0D99C:Oak Talisman
+9BE0D97F:Grey Taper
+9BE0D95A:Orange Taper
+9BE0D952:Yellow Taper
+9BE0D935:Turquoise Taper
+9BE0D93D:Pink Taper
+9BDD1BE5:Brown Taper
+9BE0D98A:Yew Talisman
+9BE0D949:Violet Taper
+9BE0D976:Indigo Taper
+9BE0D96E:White Taper
+9BE0D9A5:Hazel Talisman
+9BE0D992:Green Taper
+9BE0D97E:Blue Taper
+9BE0D962:Red Taper
+9BE0D959:Rowan Talisman
+9BE0D951:Sollerets
+9BE0D9B9:Pack
+9BE0D9B0:Tachi
+9BE0D99B:Gorget
+9BE0D9C1:Hollow Dagger
+9BE0D989:Hollow Sword
+9BE0D9C9:Flaming Tachi
+9BE0D96D:Tachi
+9BE0D975:Lightning Dagger
+9BE0D9A4:Doublet
+9BE0D991:Shirt
+9BE0D961:Ring
+9BE0D9B8:Ash Gromnie Tooth
+9BE0D9AF:Pack
+9BE0D97D:Small Mana Charge
+9BE0D9C0:Small Mana Charge
+9BE0D99A:Moderate Mana Charge
+9BE0D988:Necklace
+9BE0D9C8:Heavy Necklace
+9BE0D96C:Heavy Bracelet
+9BE0D974:Ring
+9BE0D9A3:Yoroi Leggings
+9BE0D990:Sceptre
+9BE0D97C:Pants
+9BE0D9B7:Wand
+9BE0D9E4:Quarrel
+9BE0D9AE:Large Round Shield
+9BE0D999:Amuli Leggings
+9BE0D987:Heavy Crossbow
+9BE0D9BF:Amuli Leggings
+9BE0D9A1:Quarrel
+9BE0D9C7:Shreth Hide Shoes
+9BE0D9A2:Yoroi Leggings
+9BE0D9AD:Heaume
+9BE0D98F:Quarter Staff
+9BE0D9B6:Large Round Shield
+9BE09F0E:Pack Gaerlan
+9BE0D9D4:Yoroi Girth
+9BE0D998:Chainmail Gauntlets
+9BE0D9DC:Necklace
+9BE0D9BE:Wand
+9BE0D9C6:Heavy Crossbow
+9BE0D9D3:Chainmail Hauberk
+9BE0D9B5:Wand
+9BE0D9AC:Necklace
+9BE0D997:Amuli Coat
+9BE0D9DB:Lightning Broad Sword
+9BE0D9BD:Tower Shield
+9BE09F0F:Some Changes for February 2012
+9BE09F10:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

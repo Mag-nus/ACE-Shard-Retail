@@ -1,0 +1,97 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485842556_log.pcap
+
+Partial Exports - Missing appraisal info:
+DD2CB84D:Pyreal
+DD2CB84E:Sack
+DD2CB84F:Ust
+DD2CB850:Calling Stone
+DD2CB851:Blackmoor's Favor
+DD2CB852:Oil of Rendering
+DD2CB853:Oil of Rendering
+DD2CB855:Facility Hub Portal Gem
+DD2CB856:Pack
+DD2CB857:Olthoi Koujia Leggings
+DD2CB871:Good Lockpick
+DD2CB858:Olthoi Shield
+DD2CB859:Chiran Coat
+DD2CB85A:Haebrean Vambraces
+DD2CB85B:Studded Leather Breastplate
+DD2CB85C:Chainmail Tassets
+DD2CB85D:Diforsa Bracers
+DD2CB861:Mana Philtre
+DD2CB85E:Lorica Helm
+DD2CB85F:Chainmail Breastplate
+DD2CB864:Flaming Nekode
+DD2CB860:Electric Sceptre
+DD2CB862:Olthoi Amuli Helm
+DD2CB87F:Major Mana Stone
+DD2CB863:Olthoi Alduressa Gauntlets
+DD2CB865:Ivory Gromnie Hide
+DD2CB869:Fez
+DD2CB866:Hieromancer's Gauntlets
+DD2CB867:Mechanical Scarab
+DD2CB86F:Pack
+DD2CB868:Salvage (86)
+DD2CB86A:Flared Tunic
+DD2CB882:Glittering Key
+DD2CB86B:Heavy Necklace
+DD2CB86C:Salvage (100)
+DD2CB874:Diamond Heart
+DD2CB86D:Deadly Armor Piercing Arrow
+DD2CB86E:Deadly Armor Piercing Arrow
+DD2CB870:Dusky Winged Coat
+DD2CB872:Fez
+DD2CB875:Loafers
+DD2CB873:Empyrean Over-robe
+DD2CB876:Heavy Necklace
+DD2CB877:Studded Leather Girth
+DD2CB878:Nayin
+DD2CB879:Yumi
+DD2CB87A:Nayin
+DD2CB87B:Longbow
+DD2CB87C:Sturdy Iron Key
+DD2CB883:Golden Gromnie
+DD2CB87D:Faran Robe
+DD2CB87E:Orb
+DD2CB886:Cobalt Pea
+DD2CB880:Baggy Shirt
+DD2CB881:Trousers
+DD2CB898:Sturdy Steel Key
+DD2CB884:Rare Red Pack Idol
+DD2CB885:Quicksilver Pea
+DD2CB887:Pack
+DD2CB888:Olthoi Amuli Coat
+DD2CB899:Sturdy Steel Key
+DD2CB889:Salvage (100)
+DD2CB88A:Olthoi Amuli Leggings
+DD2CB88B:Shoes
+DD2CB88C:Imbuer's Crystal
+DD2CB88D:Lustrous Winged Leggings
+DD2CB88E:Encapsulated Spirit
+DD2CB88F:Mattekar Hide
+DD2CB890:Salvage (100)
+DD2CB891:Slashing Sceptre
+DD2CB892:Frost Compound Bow
+DD2CB893:Blunt Compound Bow
+DD2CB894:Fire Bow
+DD2CB895:Piercing Bow
+DD2CB896:Salvage (100)
+DD2CB897:Pack
+DD2CB89A:Wood Heart
+DD2CB89B:Wood Heart
+DD2CB89C:Wood Heart
+DD2CB89D:Obsidian Heart
+DD2CB89E:Studded Leather Basinet
+DD2CB89F:Pack
+DD2CB8A0:Pack
+DD2CB8A1:Piercing Bow
+DD2CB8A2:Studded Leather Basinet
+DD2CB8A3:Studded Leather Girth
+DD2CB8A4:Ring
+DD2CB8A8:Candy Corn
+DD2CB8A5:Flaming Spada
+DD2CB8A6:Chocolate Gromnie
+DD2CB8A7:Licorice Rat
+
+Missing Exports - Possessed items that were not found:

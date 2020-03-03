@@ -1,0 +1,12 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-31_1485851616_log.pcap
+
+Partial Exports - Missing appraisal info:
+C7EBE703:Shoes
+C7EBE704:Pyreal
+C7EBE705:Sack
+C7EBE706:Ust
+C7EBE708:Pathwarden Token
+C7EBE70E:Letter From Home
+
+Missing Exports - Possessed items that were not found:

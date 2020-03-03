@@ -1,0 +1,16 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-31_1485852621_log.pcap
+
+Partial Exports - Missing appraisal info:
+AE7701CC:Baggy Tunic
+AE7701CD:Wide Breeches
+AE7701CF:Pyreal
+AE7701D0:Sack
+AE7701D1:Ust
+AE7701D3:Pathwarden Token
+AE7701D5:Training Shortbow
+AE7701D8:Handy Healing Kit
+AE7701D9:Letter From Home
+AEC25AD3:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

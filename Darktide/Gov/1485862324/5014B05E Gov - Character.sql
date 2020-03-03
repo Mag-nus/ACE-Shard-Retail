@@ -1,0 +1,15 @@
+INSERT INTO `character` (`id`, `account_Id`, `name`, `is_Plussed`, `is_Deleted`, `delete_Time`, `last_Login_Timestamp`, `total_Logins`, `character_Options_1`, `character_Options_2`, `gameplay_Options`, `spellbook_Filters`, `hair_Texture`, `default_Hair_Texture`)
+VALUES (1343533150, 0, 'Gov', False, False, 0, 0, 0, 1503455074, 34560, NULL, 2047, 0, 0);
+
+INSERT INTO `character_properties_shortcut_bar` (`character_Id`, `shortcut_Bar_Index`, `shortcut_Object_Id`)
+VALUES (1343533150, 0, 3633376937)
+     , (1343533150, 1, 3633376967)
+     , (1343533150, 2, 3633376947)
+     , (1343533150, 4, 3633376957)
+     , (1343533150, 5, 3633376974)
+     , (1343533150, 6, 3633376888)
+     , (1343533150, 7, 3633376896)
+     , (1343533150, 8, 1343533150);
+
+INSERT INTO `character_properties_title_book` (`character_Id`, `title_Id`)
+VALUES (1343533150, 1);

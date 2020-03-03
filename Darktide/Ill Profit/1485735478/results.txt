@@ -1,0 +1,17 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-12-2017\Games\pkt_2017-1-29_1485735466_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-12-2017\Games\pkt_2017-1-29_1485734894_log.pcap
+
+Partial Exports - Missing appraisal info:
+C231BC41:Sack
+C231BC42:Ust
+C231BC43:Foci of Strife
+C231BC44:Prismatic Taper
+C231BC45:Lead Scarab
+C231BC4E:Pyreal
+C231BC4F:Foci of Verdancy
+C231BC51:Pyreal
+
+Missing Exports - Possessed items that were not found:

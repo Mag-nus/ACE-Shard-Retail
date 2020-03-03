@@ -1,0 +1,51 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-22_1485136357_log.pcap
+
+Partial Exports - Missing appraisal info:
+80A1F776:Sack
+80A1F778:Ust
+80A1F779:Lead Scarab
+80A1F77A:Prismatic Taper
+80A1F77C:Pathwarden Token
+80A1F77D:Pyreal
+80A1F781:Pack
+80A1F780:Foci of Artifice
+80A1F783:Ring
+80A1F785:Heavy Bracelet
+80A1F78A:Greater Mana Stone
+80A1F78B:Chevron Cloak
+80A1F7B2:Pyreal
+80A1F790:Suikan War Master Robe
+80A1F793:Faran Life Master Robe
+80A1F794:Suikan War Master Robe
+80A1F795:Suikan War Master Robe
+80A1F796:Suikan Item Master Robe
+80A1F797:Titan Mana Charge
+80A1F79A:Pack
+80A1F799:Elysa's Crystal
+80A1F79B:Trade Note (50,000)
+80A1F79C:Trade Note (200,000)
+80A1F79E:Lead Scarab
+80A1F79F:Trade Note (250,000)
+80A1F7A1:Iron Pea
+80A1F7A0:Trade Note (10,000)
+80A1F7A2:Lead Pea
+80A1F7A3:Trade Note (100,000)
+80A1F7A7:Pack
+80A1F7AA:Treated Healing Kit
+80A1F7AB:Treated Healing Kit
+80A1F7AC:Treated Healing Kit
+80A1F7AD:Treated Healing Kit
+80A1F7AE:Treated Healing Kit
+80A1F7AF:War Bow
+80A1F7B4:Ring
+80A1F7B3:Ring
+80A1F7B8:Pack
+80A1F7BA:Platemail Gauntlets
+80A1F7BC:Salvage (2)
+80A1F7BD:Salvage (4)
+80A1F7BE:Salvage (1)
+80A1F7BF:Ring
+80A1F7CE:Academy Stick
+
+Missing Exports - Possessed items that were not found:

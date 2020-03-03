@@ -1,0 +1,102 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-07-2017\packet_logs_20170123-2017-0130\pkt_2017-1-30_1485833700_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-07-2017\packet_logs_20170123-2017-0130\pkt_2017-1-29_1485667712_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\packet_logs_20170123-2017-0130\pkt_2017-1-25_1485402953_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\packet_logs_20170123-2017-0130\pkt_2017-1-25_1485402953_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\packet_logs_20170123-2017-0130\pkt_2017-1-29_1485672134_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\packet_logs_20170123-2017-0130\pkt_2017-1-23_1485231173_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\packet_logs_20170123-2017-0130\pkt_2017-1-30_1485827771_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\packet_logs_20170123-2017-0130\pkt_2017-1-30_1485827771_log.pcap
+
+Partial Exports - Missing appraisal info:
+9C29E34A:Deadly Hollow Sword
+9C29AF39:Intricate Carving Tool
+9C29E3FD:Lead Scarab
+9C29E425:Iron Scarab
+9C29E3DC:Silver Scarab
+9C29E3FC:Gold Scarab
+9C29E3C3:Diamond Scarab
+9C29AFB7:Copper Scarab
+9C29E3DD:Peerless Lockpick
+9C29E409:Pyreal Scarab
+9C29E3AC:Platinum Scarab
+9C29E448:Trade Note (250,000)
+9C29E37F:Trade Note (200,000)
+9C29E331:Major Mana Stone
+9C29E3D1:Major Mana Stone
+9C29E3A0:Bandit Blade Hilt
+9C29E3FA:Salvaged  (80)
+9C29E3DE:Bandit Blade Hilt
+9C29E433:Salvaged  (90)
+9C29E491:Salvaged  (100)
+9C29DBDE:Salvaged  (70)
+9C29E5A8:Massive Mana Charge
+9C29E442:Staff
+9C29E411:Orb
+9C2C08B4:Pyreal
+9C29E3F5:Leather Boots
+9C29E3D0:Crown
+9C29DBC7:Frost Baton
+9CA70BA7:Swamp Stone
+9C29E3C9:Crown
+9C29E429:Goblet
+9C29E43B:Leather Shirt
+9C29E3F1:Gifted Healing Kit
+9C29DAE5:Ust
+9C29DB37:Stone Tool
+9C29E3E9:Black Fire Atlan Stone
+9C192021:Major Sparking Stone
+9C29E4A3:Treated Healing Kit
+9C29E35F:Treated Healing Kit
+9C29E39C:Treated Healing Kit
+9C29E3BF:Jaleh's Necklace
+9C29E432:Mana Scarab
+9C29E406:Red Fire Infusion
+9C29E40D:Silver Pea
+9C29E407:Salvaged  (31)
+9C29E449:Salvaged Reedshark Hide (37)
+9C29E41F:Salvaged  (81)
+9C2C03F2:Salvaged  (21)
+9C29E48C:Salvaged  (57)
+9C29E3F2:Health Philtre
+9C29E4E2:Salvaged  (11)
+9C29E369:Salvaged  (33)
+9C29E410:Salvaged  (46)
+9C29E4F1:Protective Drudge Charm
+9C29E443:Salvaged  (27)
+9C29E48D:Salvaged  (78)
+9C29AA87:Pyreal Pea
+9C29E3C6:Heavy Bracelet
+9C29E3FF:Ring
+9C29E460:Inert Mucor
+9C29C21E:Salvaged  (46)
+9C29E452:Salvaged  (7)
+9C29DB4F:Salvaged  (62)
+9C8CAC0F:Pyreal
+9C29E422:Salvaged  (84)
+9C6ECF6D:Good Lockpick
+9C29E3FE:Salvaged  (100)
+9C29DB68:Salvaged  (25)
+9C29A95E:Salvaged  (23)
+9C29E423:Salvaged  (100)
+9C29E428:Salvaged  (39)
+9C29E439:Salvaged  (52)
+9C29E461:Ring
+9C29E49B:Salvaged  (100)
+9C29E415:Salvaged  (100)
+9C8AEB0C:Pyreal
+9CCBA098:Plea for Help
+9C29C9B7:Ink of Objectification
+9C29E401:Quill of Benevolence
+9C26D2B4:Ink of Nullification
+9C893B62:Small Shard
+9C2F3EC1:Letter to Nen Ai, from Larinne Kerendova
+9CACCF1D:The Emperor's Blade
+9CCE723E:Call for Adventurers!
+9C2F3EA8:Letter to May'ad ibn Ibsar, from Larinne Kerendova
+9CA9CD76:A Field Guide to Tainted Nodes
+9C8C425E:White Fire Infusion
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,239 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485762725_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2\pkt_2017-1-29_1485718247_log.pcap
+
+Partial Exports - Missing appraisal info:
+805D7DB0:Sack
+805D7DB3:Facility Hub Portal Gem
+805D7DAF:Lead Scarab
+805D7DB6:Prismatic Taper
+805D7DB7:Ust
+805D7DB5:Asheron's Benediction
+8055B7E7:Lead Pea
+805C2657:Blackmoor's Favor
+805D1C48:Trade Note (50,000)
+805AD855:Treated Healing Kit
+805A10D9:Pathwarden Robe
+805AE673:Trade Note (5,000)
+805AE647:Trade Note (10,000)
+805C2360:Health Tonic
+805C145A:Gonjoku's Mana Infusion
+80563F1A:Trade Note (75,000)
+805C2393:Sanamar Portal Gem
+805EE91F:Encapsulated Spirit
+805EE925:Ebon Tooth Katar
+805EE924:Ebon Tooth Katar
+805C5751:Foci of Artifice
+805C2424:Pack
+805D7DC0:Treated Healing Kit
+805D7DC1:Treated Healing Kit
+805D7DC2:Dark Shard
+805D7DBF:Small Shard
+805C23FF:Leather Cowl
+805C23DF:Scroll of Health to Mana Self III
+805ACF91:Heaume
+805B382F:Gem of Balance
+805D1D4A:Priceless Ore
+805D1CFA:Frost Bow
+805C2786:Electric Compound Bow
+805A0891:Thorsten's Armor
+805C23C7:Thorsten's Armor
+805C2401:Olthoi Egg
+805AA006:Gem of Purity
+805CF13F:Kite Shield
+8058005D:Buckler
+805C1FD4:Loafers
+805EE957:Snowflower
+805C2436:Amuli Coat
+805EE958:Peerless Lockpick
+805EF4C5:Littoral Siraluun Claw
+805EF4C8:Yellow Jewel
+805C1277:Pack
+805C2437:Drudge Charm
+805C23CB:Frost K'nath Essence (50)
+805AE59F:Swamp Stone
+805A0F54:Iron Crown
+805C238E:Tunic
+805C573E:Black Page of Salt and Ash
+8059DCCD:Lightning Takuba
+805EE92C:Pyreal
+805C235C:Coalesced Mana
+8059DD60:Resister's Crystal
+805D10F4:Heavy Necklace
+805D1DA7:Bracelet
+805C1ED6:Ring
+805A3296:Shirt
+80564624:Doublet
+805EE95B:Pyreal
+805C2654:War Axe
+805D155B:Pack
+805C242D:Hammer
+805AE68E:Life Giver's Crystal
+805D1014:Zefir's Crystal
+805C2434:Puzzle Box
+805EE912:Olthoi Claw
+805C2435:Teardrop Crown
+805C2433:Studded Leather Shirt
+805C2396:Frost Trident
+805D155E:Electric Trident
+805EE918:Yucky Key
+8053A507:Acid Claw
+805781D5:Shirt
+805EE95C:Ust
+805C2404:Aphus Lassel Portal Gem
+8054DC6A:Frost Grievver Essence (50)
+805AE6E2:Ring
+805AE6D1:Acid Silifi
+8053AD4E:Long Sword
+805D1D9E:Morning Star
+805C2350:Scribe's Quill
+805A3034:Mace
+80506EB8:Gem of Stillness
+805EE8E6:Hardy Gromnie Hide
+805B7A45:Gem of Stillness
+805375D7:Gem of Stillness
+805A9F2A:Tower Shield
+805C259D:Crown
+805D1561:Claw
+805801B7:Covenant Helm
+805EE8E2:Fire Compound Bow
+805EE8E7:Hardy Gromnie Hide
+805EE8E4:Armet
+805EE8F9:Antiquated Compass
+805EE8E5:Pack
+805EE8E8:Hardy Gromnie Hide
+805EE8E9:Hardy Gromnie Hide
+805EE8EA:Trident
+805EE8EB:Flaming Morning Star
+805EE929:Pristine Mana Shard
+805EE8EC:Leather Girth
+805EE8ED:Alduressa Gauntlets
+805EE8F7:Bandana
+805EE8EE:Covenant Sollerets
+805EE8EF:Coronet
+805EE8FA:Budiaq
+805EE8F0:Chainmail Shirt
+805EE8F1:Slippers
+8D64B3CB:Swamp Stone
+805EE8F2:Morning Star
+805EE8F3:Koujia Sleeves
+805EE8FC:Black Spear of Shadow Renewal
+805EE8F4:Flanged Mace
+805EE8F5:Olthoi Alduressa Gauntlets
+805EE922:Untranslated Page #4
+805EE8F6:Ken
+805EE8F8:Leather Girth
+805EE8FD:Flaming Dagger
+805EE8FB:Ornamental Bowl
+805EF4C1:Platinum Golem Heart
+805EE8FE:Pack
+805EE900:Acid Battle Axe
+805EE901:Lightning War Axe
+805EE902:Heavy Necklace
+805EE903:Electric Trident
+805EE923:Scroll of Turn Blade VI
+805EE904:Kite Shield
+805EE905:Fletcher's Crystal
+805EE906:Resister's Crystal
+805EE907:Elysa's Crystal
+805EE908:Thorsten's Crystal
+805EE909:Elysa's Crystal
+805EE90A:Hieromancer's Crystal
+805EE90B:Tinker's Crystal
+805EE90C:Hunter's Crystal
+805EE90D:Zefir's Crystal
+805EE90E:Evader's Crystal
+805EE90F:Sprinter's Pearl
+805EE911:Ink of Objectification
+805EE913:Gem of Stillness
+8F282480:Stipend
+805EE915:Amber Ape
+805EE916:Wand
+805EE920:Scroll of Fire Protection Self III
+863DCC70:Lightning K'nath Essence (50)
+8C61F015:Lightning Skeleton Minion Essence (80)
+805EE917:Academy Cestus
+805EE919:Focusing Stone
+805EE927:Scroll of Void Mastery Self VII
+805EE92A:Hearty Lugian Loaf
+805EE91E:Coalesced Mana
+805EE921:Green Mire Yari
+805EE926:Physician's Crystal
+805EE928:Scroll of Void Magic Mastery Other VI
+805EE92E:Scroll of Heavy Weapon Mastery Other VI
+805EE92F:Scroll of Feeblemind Other VI
+805EE937:Scroll of Twisted Digits
+805EE938:Scroll of Recklessness Mastery Other VI
+805EE939:Scroll of Impregnability Other VI
+805EE93A:Scroll of Flame Bane VI
+805EE93B:Scroll of Dual Wield Mastery Self VI
+805EE93D:Scroll of Life Magic Ineptitude VI
+805EE93F:Golden Gromnie
+805EE941:Acid Sceptre
+805EE942:Electric Sceptre
+805EE944:Fire Sceptre
+805EE943:Fire Sceptre
+805EE945:Electric Sceptre
+805EE94C:Treated Healing Kit
+805EE946:Slashing Sceptre
+805EE947:Slashing Baton
+805EE950:Peerless Lockpick
+805EE948:Electric Baton
+805EE949:Slashing Sceptre
+801A5BE9:Hammer of the Fallen
+805EE94A:Slashing Baton
+805EE94B:Top
+805EE94D:Gem
+805EE94F:Inscription of Feeblemind Other
+805EE952:Mana Philtre
+805EE953:Stamina Elixir
+805EE956:Health Philtre
+805EE967:Mazule
+805EE95A:Tusker Spit Ale
+805EE95D:Loose Breeches
+805EE95E:Olthoi Amuli Gauntlets
+805EE960:Lightning Morning Star
+805EE961:Slashing Slingshot
+805EE962:Olthoi Bracers
+805EE964:Haebrean Tassets
+805EE965:Magari Yari
+805EE966:Morning Star
+805EE968:Cloth Cap
+805EE96B:Beret
+805EE969:Frost Knuckles
+805EE96A:Acid Trident
+805EE96C:Claw
+805EE96D:Acid Greataxe
+805D1DE2:War Axe
+805630EA:Blunt Compound Bow
+805EF4E3:Salvage
+805EF4ED:Salvaged  (100)
+805EF4DE:Foolproof Aquamarine
+805EF4DF:Foolproof Aquamarine
+805EF4C4:Salvaged  (8)
+81027B70:Acid Spectre Essence (50)
+91EF2975:Encapsulated Spirit
+805EE96E:Olthoi Celdon Helm
+805EE96F:Frost Bastone
+805EF4E4:Gem
+805D1DAB:Fire Board with Nail
+805C51FA:Large Round Shield
+805D1DD2:Gorget
+805C23E7:Alduressa Coat
+81027B90:Ring
+805D6AC7:Flaming Mazule
+805EF4E2:Salvage
+805EF4E1:Foolproof Aquamarine
+805EF4E0:Foolproof Aquamarine
+805EF4EE:Salvaged  (100)
+8D06D751:Frost Skeleton Minion Essence (50)
+8E391C27:Loose Breeches
+81027B62:Cloth Gloves
+81027B68:Loose Shirt
+81027B69:Smock
+805EF8DB:Blunt Sceptre
+805EF8E0:Slashing Sceptre
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,142 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-22_1485134283_log.pcap
+
+Partial Exports - Missing appraisal info:
+808217A0:Sack
+808217A1:Prismatic Taper
+808217A2:Lead Scarab
+808217A3:Ust
+808217A4:Blackmoor's Favor
+808217A6:Treated Healing Kit
+808217A7:Acid Lugian Hammer
+808217A8:Faran Robe
+808217A9:Scalemail Basinet
+808217B0:Ursuin Toy
+808217AA:Ring
+808217AB:Covenant Gauntlets
+808217AD:Attenuated Awakener
+808217AC:Orb
+808217AE:Slashing Baton
+808217B1:Pack Bael'Zharon
+808217AF:Scalemail Leggings
+808217B2:Hearth
+808217B3:Alloy Machine
+808217B4:Snowman Snowglobe
+808217B5:Dauloirae
+808217B7:Pack Grael
+808217B6:Oxidized Statue 
+808217B8:Homecoming Pennant
+808217B9:Foci of Enchantment
+808217BA:Foci of Artifice
+808217BB:Pack
+808217BC:Platemail Hauberk
+808217DC:Gharu'ndim Rug
+808217BD:Platemail Leggings
+808217BE:Flaming Silifi
+808217BF:Acid Cestus
+808217C0:Salvage (100)
+808217C1:Flaming Long Sword
+808217C2:Schlager
+808217C3:Fire Spine Glaive
+808217C4:Coalesced Aetheria
+808217C6:Flaming Nekode
+808217C5:Gelid's Jewel
+808217C7:Lugian Hammer
+808217DD:Couch
+808217C8:Flaming War Axe
+808217C9:Staff
+808217D6:Iron Heart
+808217CA:Frost Trident
+808217CB:Sollerets
+808217CD:Some Changes for February 2012
+808217CC:Thief's Crystal
+808217CE:Salvaged  (100)
+808217DE:Dereth Map
+808217CF:Rendeath Coat
+808217D0:Lorica Boots
+808217D2:War Hammer
+808217D1:Slashing Sceptre
+808217D3:War Axe
+808217D5:Scroll of Eradicate Life Magic Self
+808217D4:Kabuton
+808217D7:Obsidian Heart
+808217D8:Sanguinary Aegis
+808217D9:Pack Burun Kukuur
+808217DA:Aluvian Festival Light
+808217DB:Crystal Sword
+808217DF:Pedestal with a Floral Arrangement
+808217E0:Casting Stein
+808217E1:Outcast
+808217E2:Dagger of Frozen Fury
+808217E3:Pack
+808217E4:Asheron's Supreme Raiment
+808217E5:Trade Mana Elixir
+808217E6:Faran Item Master Robe
+808217EA:Penguin Wing
+808217E7:Doublet
+808217E8:Ring
+808217E9:Desolate Seed
+808217EB:Doublet
+808217EC:Hieromancer's Crystal
+808217ED:A Huge Lump of Coal
+808217EE:Alchemist's Crystal
+808217EF:War Hammer
+808217F0:Salvage (100)
+808217F2:Electric Trident
+808217F1:Thorsten's Crystal
+808217F3:Warrior's Crystal
+808217F4:Pearl of Heart Seeking
+808217F5:Physician's Crystal
+808217F6:Morning Star
+808217F7:Zefir's Crystal
+80821805:Treated Healing Kit
+808217F8:Thorsten's Crystal
+808217F9:Acid Lugian Hammer
+808217FA:Flaming Lugian Hammer
+808217FB:Ring
+80821803:Iron Heart
+808217FC:Chainmail Coif
+808217FD:Glenden Wood Recall Orb
+80821806:Treated Healing Kit
+808217FE:Staff
+808217FF:Daulan Faur
+80821800:Qafiya
+80821801:Pack
+80821802:Sollerets
+80821804:Obsidian Heart
+80821807:Scroll of Boon of Refinement
+80821808:Steel Toed Boots
+8082180F:Marble Keyring
+80821809:Blooded Gold Invader Lord Helm
+8082180A:Mana Tincture
+8082180B:Quintessence Sickle
+8082180C:Flaming Nabut
+8082180D:Magari Yari
+8082180E:Shamshir
+80821810:Singularity Keyring
+80821811:Granite Keyring
+80821812:Singularity Keyring
+80821813:Moarsmuck
+80821814:Singularity Keyring
+80821815:Tibri's Fire Spear
+80821816:Ono
+80821817:Small Bundle of Kithless Siraluun Feathers
+8082181A:Overlord's Sword
+80821818:Small Bundle of Kithless Siraluun Feathers
+80821819:Salvaged  (100)
+8082181B:Palauloi
+8082181C:Quadruple-bladed Axe
+8082181D:Quintessence Sickle
+8082181F:Bloodletter Charm Necklace
+8082181E:Suikan Robe
+80821820:Dodger's Crystal
+80821821:Hieromancer's Crystal
+80821822:Eye Patch
+80821825:Red Monster Seed
+80821823:Coat of the Zaikhal Defender
+80821824:Vestiri Robe with Hood
+C2C9394F:Stipend
+80821833:Staff
+80821826:Staff
+
+Missing Exports - Possessed items that were not found:

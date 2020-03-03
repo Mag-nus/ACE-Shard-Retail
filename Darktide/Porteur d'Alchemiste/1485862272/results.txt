@@ -1,0 +1,260 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-31_1485860015_log.pcap
+
+Partial Exports - Missing appraisal info:
+A7232E64:Calling Stone
+A7232E65:Blackmoor's Favor
+A7232E67:Platinum Golem Heart
+A7232E68:Mud Golem Heart
+A7232E69:Vapor Golem Heart
+A7232E6B:Granite Heart
+A7232E6C:Coral Heart
+A7232E6D:Coral Heart
+A7232E6F:Blue Phyntos Wasp Wing
+A7232E70:Gold Phyntos Wasp Wing
+A7232E71:Pack
+A7232E72:Dark Revenant Thighbone
+A7232E73:Skeleton's Skull
+A7232E74:Black Rock
+A7232E78:Small Bundle of Littoral Siraluun Feathers
+A7232E7A:Banderling Aggressor Scalp
+A7232E7B:Banderling Scalp
+A7232E7C:Banderling Scalp
+A7232E7D:Empty Flask
+A7232E7E:Mosswart Head
+A7232E7F:Niffis Shell
+A7232E80:Large Armoredillo Hide
+A7232E81:Misshapen Bone Fragment
+A7232E82:Skewer
+A7232E83:Moarsmuck
+A7232E85:Small Bundle of Littoral Siraluun Feathers
+A7232E8B:Nutmeg
+A7232E86:Empty Flask
+A7232E87:Ochre Pigmentation Apparatus
+A7232EFA:Swamp Stone
+A7232E88:White Jewel
+A7232E79:Strand Siraluun Claw
+BB4E94C2:A Huge Lump of Coal
+A7232F55:Ursuin Scalp
+A7232F54:Ursuin Scalp
+C88A3AD6:Plate Armoredillo Hide
+C88E6EA7:Plate Armoredillo Hide
+A7232E8A:Pack
+A7232E8C:Plate Armoredillo Hide
+A7232E8D:Ruddy Gromnie Hide
+A7232E8E:Thin Gromnie Hide
+A7232E8F:Thick Gromnie Hide
+A7232E90:Small Mattekar Hide
+A7232E91:Mattekar Hide
+A7232E92:Ivory Gromnie Tooth
+A7232E93:Banderling Slayer Scalp
+A7232E94:Large Armoredillo Hide
+A7232E97:Tidal Siraluun Claw
+A7232E95:Small Bundle of Littoral Siraluun Feathers
+A7232E96:Small Bundle of Strand Siraluun Feathers
+A7232E9E:Sharp Tusker Slave Tusk
+A7232E98:Golden Pumpkin
+A7232E9A:Thin Gromnie Hide
+A7232E9C:Tusker Spit
+A7232E9D:Thin Gromnie Hide
+A7232E9F:Small Bundle of Littoral Siraluun Feathers
+A7232EA0:Large Armoredillo Hide
+A7232EA1:Small Lugian Sinew
+BB5290B5:Frankincense
+C0638020:Sclavus Tongue
+C08709B6:Sclavus Tongue
+A7232EA2:Pack
+A7232EA3:Black Coral Heart
+A7232EA4:Black Coral Heart
+A7232EA5:Black Coral Heart
+A7232EA6:Black Coral Heart
+A7232EA7:Black Coral Heart
+A7232EA8:Black Coral Heart
+A7232EA9:Black Coral Heart
+A7232EAA:Black Coral Heart
+A7232EAB:Black Coral Heart
+A7232EAC:Black Coral Heart
+A7232EAD:Black Coral Heart
+A7232EAE:Black Coral Heart
+A7232EAF:Black Coral Heart
+A7232EB0:Black Coral Heart
+A7232EB1:Black Coral Heart
+A7232EB2:Black Coral Heart
+A7232EB3:Black Coral Heart
+A7232EB4:Black Coral Heart
+A7232EB5:Wood Heart
+A7232EB6:Iron Heart
+A7232EB7:Obsidian Heart
+A7232EB8:Granite Heart
+A7232EB9:Granite Heart
+AD6A50B0:Obsidian Heart
+A7232EBC:Platinum Golem Heart
+A7232EBD:Blue Jewel
+A7232EBE:White Jewel
+A7232EBF:White Phyntos Wasp Wing
+A7232EC0:Pyreal Golem Heart
+A7232EC1:New Crossbow Glyph
+A7232EC2:Dagger Glyph
+A7232EC3:Finesse Weapons Glyph
+A7232EC4:Crossbow Glyph
+A7232EC6:Hardened Shard
+A7232EC7:Scored Shard
+A7232EC8:Charged Shard
+A7232ECD:Singularity Keyring
+A7232ECE:Tiny Shard
+A7232ED0:Pack
+A7232EE4:Crystalline Shard
+800DBDBF:Black Ball
+800DBDC0:Black Ball
+BB53B804:A Perfect Snowman Eye
+CB881DA6:Treated Mandrake
+8009F10D:Aetheria Mana Stone
+A7232EE6:Charged Shard
+A7232EE7:Intricate Carving Tool
+A7232EE8:Dark Speck
+A7232EEB:Gold Phyntos Wasp Wing
+A7232EEC:Twisted Dark Key
+A7232EED:Tiriun Mushroom Stalk
+A7232EEE:Pack
+A7232EEF:Jungle Phyntos Wasp Wing
+A7232EF0:Jungle Phyntos Wasp Wing
+A7232EF1:Jungle Phyntos Wasp Wing
+A7232EF2:Jungle Phyntos Wasp Wing
+A7232EF3:Mire Phyntos Wasp Wing
+A7232EF4:Jungle Phyntos Wasp Wing
+A7232EF5:Large Lugian Sinew
+A7232EF6:Twisted Drudge Ravener Guts
+A7232EF7:Twisted Drudge Ravener Guts
+A7232EF8:Large Lugian Sinew
+A7232EF9:Gold Phyntos Wasp Wing
+A7232EFB:Swamp Stone
+A7232EFC:Swamp Stone
+A7232EFD:Swamp Stone
+A7232EFE:Small Mattekar Hide
+A7232EFF:Gold Phyntos Wasp Wing
+A7232F00:Old Lucky Gold Letter
+A7232F01:Old Lucky Gold Letter
+A7232F02:Old Scarlet Red Letter
+A7232F03:Swamp Stone
+A7232F04:Swamp Stone
+A7232F05:Lucky Gold Letter
+A7232F06:Scarlet Red Letter
+A7232F07:Pack
+A7232F08:Yellow Jewel
+A7232F09:Blue Jewel
+A7232F0A:Blue Jewel
+A7232F0B:Yellow Jewel
+A7232F0C:Brown Beans
+A7232F0D:Drudge Charm
+A7232F0E:Drudge Charm
+A7232F0F:Thin Gromnie Hide
+A7232F10:Yellow Jewel
+A7232F11:Yellow Jewel
+A7232F12:Thick Gromnie Hide
+A7232F13:Mystic Drudge Charm
+A7232F14:Yellow Jewel
+A7232F15:Sage Drudge Charm
+A7232F16:White Jewel
+A7232F17:Yellow Jewel
+A7232F18:Seeds of Anger
+A7232F19:Cabalist Drudge Charm
+A7232F1A:Peerless Drudge Charm
+A7232F1B:Blue Jewel
+A7232F1C:Yellow Jewel
+A7232F1D:Red Jewel
+A7232F1E:Peppermint Stick
+A7232F1F:Red Jewel
+A7232F21:Sturdy Iron Keyring
+A7232F22:Sturdy Iron Keyring
+A7232F23:Carving Knife
+A7232F28:Pyreal Golem Heart
+A7232F29:Shadow Fragment
+A7232F2A:Enchanted Olthoi Egg
+A7232F31:Shadow Fragment
+A7232F32:Burning Sands Golem Heart
+A7232F33:Burning Sands Golem Heart
+A7232F36:Red Monster Seed
+A7232F37:Orange Monster Seed
+A7232F38:Yellow Monster Seed
+A7232F39:Yellow Monster Sprout
+A7232F3A:Obsidian Shard
+A7232F3B:Yellow Jewel
+A7232F3C:Blue Jewel
+A7232F3E:Pack
+A7232F40:Littoral Siraluun Claw
+A7232F41:Littoral Siraluun Claw
+A7232F42:Littoral Siraluun Claw
+A7232F43:Littoral Siraluun Claw
+A7232F46:Ravener Guts
+A7232F49:Littoral Siraluun Claw
+A7232F4A:Bloodied Burun Hide
+A7232F4B:Bloodied Burun Hide
+A7232F4C:Bloodied Burun Hide
+A7232F4D:Bloodied Burun Hide
+A7232F4F:White Jewel
+A7232F50:White Jewel
+A7232F51:White Jewel
+800DBDE3:Hea Totem
+A755AA0C:Twisted Drudge Ravener Guts
+A7232F44:Dire Mattekar Paw
+A7232F45:Dire Mattekar Paw
+A360D5CD:Dire Mattekar Paw
+A7232F53:Dire Mattekar Paw
+C9012E89:Hea Totem
+A7232F4E:White Jewel
+A7232E77:Bloodied Burun Hide
+A7232E76:Bloodied Burun Hide
+A7232F52:Double Totem of Volkama and Audetaunga
+A7232F57:Blue Jewel
+A7232F5C:Yellow Jewel
+A7232F5D:Lucky Gold Letter
+A7232F60:Colosseum Ticket
+A7232F61:Scintillating Gem
+A7232F62:Empty Flask
+A7232F65:Water
+A7232F68:Sparkling Gem
+A7232F66:Crystal of Electric Elemental Essence
+A7232F69:East Gate Harmonic Crystal
+A7232F6A:Blue Jewel
+A7232F6C:Shadow Fragment
+A7232F6D:Shadow Fragment
+A7232F6E:Shadow Fragment
+A7232F6F:Shadow Fragment
+A7232F71:Shadow Fragment
+A7232F73:Rock
+AD67646D:Butter Knife of Slaying
+BC6F12D3:Red Monster Seed
+8009F11D:Chorizite Fletching Tool
+AD63D63E:T-mon Backpack Straps
+AD68DFD9:Skeleton's Skull
+AD6910EE:Obsidian Shard
+C09AD6C8:Large Sclavus Hide
+C09AF4FC:Sclavus Hide
+C79AE818:Shadow Fragment
+C8884DA2:Shadow Fragment
+C88BD55A:Pyreal Sliver
+A7232EC5:Shadow Fragment
+A7232F72:White Jewel
+C88B0DF4:Shadow Fragment
+A7232F70:Shadow Fragment
+C8608625:Singularity Keyring
+C8608621:Singularity Keyring
+AD6A50B1:Copper Heart
+A7232F3F:Large Sclavus Hide
+A7232E84:Large Sclavus Hide
+A7232E99:Large Sclavus Hide
+A7232E9B:Sclavus Hide
+CA44FE7B:Shadow Fragment
+C957F3D7:Hea Totem
+CA1F42F0:Hea Totem
+CA46B74A:Thick Gromnie Hide
+CB0AE902:Sclavus Tongue
+CAB15C9E:Dark Shard
+CA46B749:Mattekar Hide
+CBE056D6:Pumpkin
+A7232EEA:Gold Phyntos Wasp Wing
+CD401D35:Armor Layering Tool (Bottom)
+CD401D36:Armor Layering Tool (Top)
+D6020F1D:Crystal Fragment
+
+Missing Exports - Possessed items that were not found:

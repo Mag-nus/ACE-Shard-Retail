@@ -1,0 +1,85 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\pkt_2017-1-30_1485843220_desc\pkt_2017-1-30_1485842685_log.pcap
+
+Partial Exports - Missing appraisal info:
+C860AFD3:Sack
+C860B018:Pyreal
+C860AFD4:Adept Healing Kit
+C860AFD5:Adept Healing Kit
+C860AFD6:Adept Healing Kit
+C860AFD7:Adept Healing Kit
+C860AFD8:Wand
+C860AFD9:Wand
+C860AFDA:Wand
+C860AFDB:Potion of Healing
+C860AFDC:Adept Healing Kit
+C860AFDD:Pack
+C860AFDE:Powdered Turquoise
+C860AFDF:Powdered Onyx
+C860AFE0:Cobalt
+C860AFE1:Ashwood Talisman
+C860AFE2:Lead Scarab
+C860AFE3:Quicksilver
+C860AFE4:Mana Draught
+C860AFE5:Hyssop
+C860AFE6:Leather Basinet
+C860AFE7:Gloves
+C860AFE8:Flaming Silifi
+C860AFE9:Sollerets
+C860AFEA:Ring
+C860AFEB:Pack
+C860AFEC:Acid Nekode
+C860AFED:Lightning Silifi
+C860AFEF:Scalemail Leggings
+C860AFEE:Scalemail Hauberk
+C860AFF0:Ring
+C860B01B:Pyreal
+C860AFF1:Pack
+C860AFF2:Ring
+C860AFF3:Pantaloons
+C860AFF4:Pack
+C860AFF5:Powdered Turquoise
+C860AFF6:Powdered Onyx
+C860AFF7:Hyssop
+C860AFF8:Violet Taper
+C860AFF9:Iron Scarab
+C860AFFA:Ashwood Talisman
+C860AFFB:Quicksilver
+C860AFFC:Indigo Taper
+C860AFFD:Willow Talisman
+C860AFFE:Pack
+C860AFFF:Pack
+C860B000:Trade Note (5,000)
+C860B001:Trade Note (5,000)
+C860B002:Trade Note (1,000)
+C860B003:Trade Note (500)
+C860B004:Trade Note (5,000)
+C860B005:Trade Note (1,000)
+C860B006:Trade Note (5,000)
+C860B007:Trade Note (1,000)
+C860B008:Trade Note (500)
+C860B009:Silifi
+C860B00A:Chainmail Gauntlets
+C860B00B:Mana Draught
+C860B00C:Sho Wand
+C860B00D:Bracelet
+C860B00E:Scale Mail Basinet
+C860B00F:Shoes
+C860B010:Tunic
+C860B012:Scroll of Rejuvenate Self II
+C860B011:Breeches
+C860B013:Jerkin
+C860B01E:Pack Asheron
+C860B014:Silifi
+C860B015:Trade Note (1,000)
+C860B016:Trade Note (1,000)
+C860B017:Trade Note (1,000)
+C860B019:Trade Note (1,000)
+C860B01A:Trade Note (500)
+C860B01C:Celdon Girth
+C860B01D:Pack Scarecrow
+C860B01F:Some Changes for February 2012
+C860B021:Blackmoor's Favor
+C860B020:Large Kite Shield
+
+Missing Exports - Possessed items that were not found:

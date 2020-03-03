@@ -1,0 +1,44 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\pkt_2017-1-28_1485616386_log\pkt_2017-1-28_1485616386_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\pkt_2017-1-28_1485616386_log\pkt_2017-1-27_1485557747_log.pcap
+
+Partial Exports - Missing appraisal info:
+8E04568E:Pyreal
+8E04568F:Sack
+8E0444F5:Treated Healing Kit
+8E0444F6:Treated Healing Kit
+8DFBA678:Treated Healing Kit
+8E02D62A:Treated Healing Kit
+8DFCA230:Treated Healing Kit
+8DFCA129:Treated Healing Kit
+8DF72A5B:Treated Healing Kit
+8DDA834B:Ust
+8E00EB19:Bundle of Arrowshafts
+8DEEE040:Bundle of Quarrelshafts
+8E02D7F0:Bundle of Arrowheads
+8E02C33D:Oil of Rendering
+8E045549:Pyreal
+8E02CAAE:Encapsulated Spirit
+8DF72E8D:Pyreal
+8DEDD617:Ring of Piercing Protection
+8DFEC943:Trade Note (10,000)
+8E0309C6:Pack
+8E02D850:Wrapped Bundle of Acid Arrowheads
+8DF0F7A2:Wrapped Bundle of Frog Crotch Arrowheads
+8E02D627:Wrapped Bundle of Fire Arrowheads
+8E02D86E:Wrapped Bundle of Arrowshafts
+8DFEDC77:Wrapped Bundle of Blunt Arrowheads
+8E00A83F:Concentrated Aqua Incanta
+8DFCB080:Trade Note (50,000)
+8E02C429:Trade Note (150,000)
+8E02D398:A Ring of Acid Protection
+8E02C3E0:Glittering Bracelet of Acid Protection
+8E0309C7:Salvage (100)
+8E0309C5:Salvage (100)
+8E02C43B:Salvage
+8DFBEDE5:Salvage
+8E04458C:Salvage
+
+Missing Exports - Possessed items that were not found:

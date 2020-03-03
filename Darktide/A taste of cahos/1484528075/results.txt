@@ -1,0 +1,40 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-15_1484528069_log.pcap
+
+Partial Exports - Missing appraisal info:
+D79BC7D1:Doublet
+D79BC7D3:Pyreal
+D79BC7D2:Loose Breeches
+D79BC7D4:Foci of Verdancy
+D79BC7D5:Foci of Strife
+D79BC7D6:Prismatic Taper
+D79BC7D7:Lead Scarab
+D79BC7D8:Ust
+D79BC7D9:Apple
+D79BC7DA:Welcome Letter
+D79BC7DB:Sack
+D79BC7DC:Calling Stone
+D79BC7DD:Greeter's Key
+D79BC7DE:Leather Leggings
+D79BC7DF:Restoring the Training Academies
+D79BC7E0:Quartermaster's Workshop Key
+D79BC7E1:Sho Wand
+D79BC7E2:Academy Healing Potion
+D79BC7E3:A Crumpled Note
+D79BC7E4:Leather Gauntlets
+D79BC7E5:Bracelet
+D79BC7E6:Studded  Boots
+D79BC7E7:Pyreal
+D79BC7E8:Studded  Bracers
+D79BC7E9:Leather Breastplate
+D79BC7EA:Leather Pauldrons
+D79BC7EB:Leather Girth
+D79BC7ED:Flaming Battle Axe
+D79BC7EC:Leather Basinet
+D79BC7EE:Lead Pea
+D79BC7EF:Gem
+D79BC7F0:Some Changes for February 2012
+D79BC7F2:Blackmoor's Favor
+D79BC7F1:Academy Wand
+
+Missing Exports - Possessed items that were not found:

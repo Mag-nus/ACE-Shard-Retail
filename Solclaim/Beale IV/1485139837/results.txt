@@ -1,0 +1,52 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-22_1485139320_log.pcap
+
+Partial Exports - Missing appraisal info:
+8C6DB1EE:Pack
+8C6D9EB5:Empyrean Crystal
+8C6F51F1:Pack
+8C6F5149:Inscription of Regeneration Self
+8C6F514A:Inscription of Armor Self
+8C6DB1AE:Pack
+8C6F523B:Pack
+8C6F51D9:Scroll of Os' Wall
+8C6F51D7:Scroll of Nuhmudira's Spines
+8C6F5230:Town Network Portal Gem
+8C6F51FF:Combined Hyssop and Mandrake
+8C6F51FE:Soft Bandages
+8C6F5203:Pack Max
+8C6F51E5:Pack
+8C6F5367:Scroll of Eye of the Storm
+8C690E96:Scroll of Halo of Frost
+8C6F5206:Scroll of Halo of Frost
+8C6F5239:Tumerok Salted Meat
+8C6F521C:Pack
+8C6F5229:Scroll of Tusker Fists
+8C6F5228:Scroll of Halo of Frost
+8C6F5226:Scroll of Halo of Frost
+8C6F5225:Scroll of Slithering Flames
+8C6F537C:Scroll of Spike Strafe
+8C6DB1E1:Scroll of Bed of Blades
+8C6F526E:Pack
+8C6F5237:Scroll of Bed of Blades
+8C6F53B8:Scroll of Hammering Crawler
+8C6F53A2:Scroll of Hammering Crawler
+8C6F5290:Scroll of Hammering Crawler
+8C6F522C:Scroll of Bed of Blades
+8C6F5299:Scroll of Bed of Blades
+8C6F526D:Scroll of Bed of Blades
+8C6F5265:Scroll of Searing Disc
+8C6F5236:Scroll of Hammering Crawler
+8C6DA1E8:Scroll of Blistering Creeper
+8C6DAE4D:Scroll of Searing Disc
+8C6F52AA:Scroll of Hammering Crawler
+8C6F528F:Scroll of Spike Strafe
+8C6F527A:Scroll of Rending Wind
+8C6F5241:Scroll of Tectonic Rifts
+8C6F5243:Empyrean Crystal
+8C6F5242:Empyrean Crystal
+8C6F526C:Empyrean Crystal
+8C6F52A9:Empyrean Crystal
+8C6F5263:Prismatic Taper
+
+Missing Exports - Possessed items that were not found:

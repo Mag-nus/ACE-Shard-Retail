@@ -1,0 +1,84 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-07-2017\packet_logs_20170123-2017-0130\pkt_2017-1-30_1485827771_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-07-2017\packet_logs_20170123-2017-0130\pkt_2017-1-25_1485402953_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\packet_logs_20170123-2017-0130\pkt_2017-1-23_1485231173_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\packet_logs_20170123-2017-0130\pkt_2017-1-23_1485231173_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\packet_logs_20170123-2017-0130\pkt_2017-1-29_1485751255_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\packet_logs_20170123-2017-0130\pkt_2017-1-29_1485751255_log.pcap
+
+Partial Exports - Missing appraisal info:
+9C6D714B:Massive Mana Charge
+9C6D714C:Massive Mana Charge
+9C6D714D:Massive Mana Charge
+9CC060BF:Turban
+9CBDE876:Chiran Gauntlets
+9CC0005F:Heavy Bracelet
+9CBF2C1D:Shirt
+9CC19DC9:Studded Leather Bracers
+9C6D718C:Ust
+9C6D7158:Copper Scarab
+9C6D7159:Gold Scarab
+9C6D715B:Iron Scarab
+9C6D715C:Diamond Scarab
+9C6D715D:Silver Scarab
+9C6D715E:Lead Scarab
+9C6D7166:Platinum Scarab
+9C6D7178:Massive Mana Charge
+9C6D7167:Platinum Scarab
+9C6D716C:Gold Pea
+9CBD63E5:Prismatic Taper
+9C6D7179:Massive Mana Charge
+9C6D717A:Massive Mana Charge
+9C6D717B:Massive Mana Charge
+9C6D717C:Massive Mana Charge
+9C6D717D:Massive Mana Charge
+9C6D717E:Massive Mana Charge
+9C6D717F:Massive Mana Charge
+9C6D7181:Massive Mana Charge
+9C6D7182:Massive Mana Charge
+9C6D7186:Massive Mana Charge
+9C6D7187:Foci of Strife
+9C6D718D:Salvaged  (7)
+9C6D718E:Salvaged  (19)
+9C6D718F:Salvaged  (19)
+9C6D7190:Salvaged  (13)
+9C6D7191:Salvaged  (30)
+9C6D7198:Salvaged  (58)
+9C6D7199:Salvaged  (24)
+9C6D719A:Salvaged  (12)
+9C6D719B:Salvaged  (8)
+9CB98A80:Pyreal
+9CB46979:Pyreal
+9C6D71AA:Ink of Partition
+9C6D71AB:Quill of Infliction
+9C6D71AD:Ink of Conveyance
+9C6D71AF:Glyph of Mana
+9C6D71B0:Glyph of Armor
+9C6D71B3:Salvaged  (47)
+9CB98A62:Pyreal
+9CBD5E83:Pyreal
+9C6D71B6:Ring
+9CB52273:Pyreal
+9CBABD4A:Pyreal
+9C6D71BB:Glyph of Bludgeoning
+9CBD5DD9:Pyreal
+9C6D71C5:Glyph of Flame
+9C6D71C6:Ink of Objectification
+9C6D71CB:Glyph of Slashing
+9C6D71CD:Ink of Nullification
+9C6D7196:The Healer's Heart
+9CBF5865:Crystalline Shard
+9CB95CEE:Puzzle Box
+9CBF43DC:Bracelet
+9CBFB035:Puzzle Box
+9CC09038:Coalesced Aetheria
+9CC0903E:Electric Sceptre
+9CBFF9F5:Coalesced Aetheria
+9CC00B5A:Bracelet
+9CC00B40:Coalesced Aetheria
+9CC00D40:Orb
+9CC03D16:Incendiary Knight Essence
+
+Missing Exports - Possessed items that were not found:

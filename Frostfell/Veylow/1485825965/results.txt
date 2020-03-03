@@ -1,0 +1,139 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\gdrive (tfarley)\Eichy\AC\pkt_2017-1-30_1485825533_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\gdrive (tfarley)\Eichy\AC\pkt_2017-1-30_1485824845_log.pcap
+
+Partial Exports - Missing appraisal info:
+DC4A4336:Pyreal
+DC4A4337:Pantaloons
+DC4A4338:Foci of Verdancy
+DC4A433C:Little Green Seeds
+DC4A4339:Foci of Artifice
+DC4A433A:Foci of Strife
+DC4A433B:Foci of Enchantment
+DC4A433D:Platemail Gauntlets
+DC4A433E:Covenant Greaves
+DC4A4365:Undead Leg
+DC4A433F:Covenant Breastplate
+DC4A4340:Covenant Pauldrons
+DC4A4369:Scored Shard
+DC4A4341:Covenant Girth
+DC4A4342:Covenant Tassets
+DC4A435F:Lead Scarab
+DC4A4343:Covenant Bracers
+DC4A4344:Ring
+DC4A4346:Blackmoor's Favor
+DC4A4345:Focusing Stone
+DC4A4347:Tunic
+DC4A437F:Twisted Dark Key
+DC4A4348:Shirt
+DC4A4349:Lightning Knuckles
+DC4A4388:Warding Ring
+DC4A434A:Coronet
+DC4A434B:Coronet
+DC4A434C:Flaming Knuckles
+DC4A434D:Flaming Knuckles
+DC4A434E:Signet Crown
+DC4A434F:Pack
+DC4A4350:Ring
+DC4A4351:Ring
+DC4A4352:Pants
+DC4A4353:Claw
+DC4A4354:Cestus
+DC4A4356:Amulet
+DC4A4355:Heavy Necklace
+DC4A4357:Ring
+DC4A4358:Ring
+DC4A4359:Bracelet
+DC4A435A:Heavy Bracelet
+DC4A435B:Bracelet
+DC4A435C:Lorica Boots
+DC4A435D:Shirt
+DC4A435E:Ring
+DC4A4360:Tunic
+DC4A4367:Dark Speck
+DC4A4361:Studded  Gauntlets
+DC4A4362:Lorica Boots
+DC4A436E:Calling Stone
+DC4A4363:Claw
+DC4A4364:Amuli Coat
+DC4A4394:Pyreal
+DC4A4366:Lightning Knuckles
+DC4A4368:Great Mattekar Horn
+DC4A436A:Necklace
+DC4A436B:Virindi Servant's Amulet
+DC4A436C:Pants
+DC4A4376:Prismatic Taper
+DC4A436D:Ring
+DC4A436F:Mattekar Hide
+DC4A4370:Ring
+DC4A4371:Bracelet
+DC4A4372:Ring
+DC4A4373:Pyreal Scarab
+DC4A4374:Copper Scarab
+DC4A4375:Splitting Tool
+DC4A4377:Silver Scarab
+DC4A4378:Prismatic Taper
+DC4A4379:Gold Scarab
+DC4A437A:Iron Scarab
+DC4A437B:Pack
+DC4A437C:Shamshir
+DC4A437D:Fire Crossbow
+DC4A437E:Scimitar
+DC4A4380:Ken
+DC4A4381:Banderling Bone Ring
+DC4A4382:Chainmail Tassets
+DC4A4383:Ring
+DC4A4384:Ring
+DC4A4385:Deadly Acid Arrow
+DC4A4386:Concentrated Frost Oil
+DC4A4395:Pyreal
+DC4A4387:Concentrated Acid Oil
+DC4A4389:Iron Pea
+DC4A4393:Awakener
+DC4A438A:Copper Pea
+DC4A438B:Small Shard
+DC4A438C:Lapyan Plant
+DC4A438E:Knuckles
+DC4A438F:Frost Claw
+DC4A4392:Shadow Wings Breastplate
+DC4A4390:Celdon Leggings
+DC4A4391:Elemental Master Robe
+DC4A4396:Pyreal
+DC4A4397:Pyreal
+DC4A4398:Pyreal
+DC4A4399:Pyreal
+DC4A439A:Pyreal
+DC4A439B:Fishing Made Easy
+DC4A439C:Pyreal
+DC4A439D:Pyreal
+DC4A439E:Pyreal
+DC4A439F:Pyreal
+DC4A43A0:Pyreal
+DC4A43A1:Pyreal
+DC4A43A3:Pack
+DC4A43A2:Sceptre
+DC4A43A4:Ring
+DC4A43A7:Shoes
+DC4A43A5:Celdon Leggings
+DC4A43A6:Celdon Leggings
+DC4A43A8:Ring
+DC4A43A9:Bracelet
+DC4A43AB:Tunic
+DC4A43AC:Bracelet
+DC4A43B4:Asteliary Orb
+DC4A43AD:Tunic
+DC4A43AE:Shirt
+DC4A43AF:Breeches
+DC4A43B0:Gorget
+DC4A43B1:Breeches
+DC4A43B2:Breeches
+DC4A43B3:Heavy Bracelet
+DC4A43B6:Kasa
+DC4A43B7:Ring
+DC4A43B8:Amuli Leggings
+DC4A43B9:Amuli Leggings
+DC4A43BB:Some Changes for February 2012
+
+Missing Exports - Possessed items that were not found:

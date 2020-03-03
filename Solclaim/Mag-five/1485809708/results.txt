@@ -1,0 +1,69 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-30_1485809487_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Mavness-02-01-2017-pcap\pcap\pkt_2017-1-23_1485228192_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Mavness-02-01-2017-pcap\pcap\pkt_2017-1-23_1485228509_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Mavness-02-01-2017-pcap\pcap\pkt_2017-1-24_1485268872_log.pcap
+
+Partial Exports - Missing appraisal info:
+9C4DA445:Pyreal
+9C5254D4:Prismatic Taper
+9C5254CA:Colosseum Backpack
+9C52AC13:Colosseum Coin
+9C52549D:Pyreal Scarab
+9C5254DE:Gold Scarab
+9C5254B7:Platinum Scarab
+9C5254AD:Platinum Scarab
+9C5254A5:Aetheria Desiccant
+9C5254C9:Platinum Scarab
+9C5254D3:Copper Scarab
+9C52549C:Silver Scarab
+9C52AC10:Blank Augmentation Gem
+9C52AC11:Blank Augmentation Gem
+9C52AC18:Some Changes for February 2012
+9C28DABA:Hyssop
+9C50273D:The Temple of Enlightenment
+9C5263AE:A Note From Ciandra
+9C759BF9:Title Token: Guardian of the Dark
+9C5254AC:Coruscating Olthoi Scent Gland
+9C5254A4:Colosseum Backpack
+9C5254BE:Coruscating Olthoi Scent Gland
+9C5254C8:Coruscating Olthoi Scent Gland
+9C5254B5:Trade Note (250,000)
+9C5254DC:Swamp Stone
+9C5254C7:Ust
+9C5254B4:Colosseum Backpack
+9C5254DB:Colosseum Backpack
+9C7B3399:Dark Monolith
+9C52ABE5:Colosseum Backpack
+9C52ABE6:Colosseum Backpack
+9C52ABEC:Treated Healing Kit
+9C52ABED:Treated Healing Kit
+9C52ABEE:Treated Healing Kit
+9C52ABEF:Treated Healing Kit
+9C52ABF0:Treated Healing Kit
+9C52ABF1:Treated Healing Kit
+9C52ABF2:Treated Healing Kit
+9C52ABF3:Treated Healing Kit
+9C52ABF4:Treated Healing Kit
+9C52ABF5:Treated Healing Kit
+9C52ABF6:Treated Healing Kit
+9C52ABF7:Treated Healing Kit
+9C52ABF8:Treated Healing Kit
+9C52ABF9:Treated Healing Kit
+9C52ABFA:Treated Healing Kit
+9C52ABFB:Treated Healing Kit
+9C52ABFC:Treated Healing Kit
+9C52ABFD:Treated Healing Kit
+9C52ABFE:Treated Healing Kit
+9C52ABFF:Treated Healing Kit
+9C52AC0E:Colosseum Backpack
+9C52AC0F:Colosseum Backpack
+9C80BC05:Prismatic Taper
+9C826EC3:Prismatic Taper
+9C7C6C6C:Prismatic Taper
+9C80C121:Prismatic Taper
+9C855754:Silver Pea
+
+Missing Exports - Possessed items that were not found:

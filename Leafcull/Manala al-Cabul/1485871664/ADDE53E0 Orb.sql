@@ -1,0 +1,72 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (2917028832, 2366, 35, 7524673) /* Caster */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (2917028832,   1,      32768) /* ItemType - Caster */
+     , (2917028832,   5,         50) /* EncumbranceVal */
+     , (2917028832,   9,   16777216) /* ValidLocations - Held */
+     , (2917028832,  16,    6291468) /* ItemUseable - Wielded, SourceContainedTargetRemoteNeverWalk */
+     , (2917028832,  18,          1) /* UiEffects - Magical */
+     , (2917028832,  19,        830) /* Value */
+     , (2917028832,  65,        101) /* Placement - Resting */
+     , (2917028832,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (2917028832,  94,         16) /* TargetType - Creature */
+     , (2917028832, 105,          1) /* ItemWorkmanship */
+     , (2917028832, 106,         53) /* ItemSpellcraft */
+     , (2917028832, 107,          0) /* ItemCurMana */
+     , (2917028832, 108,        300) /* ItemMaxMana */
+     , (2917028832, 109,         53) /* ItemDifficulty */
+     , (2917028832, 110,          0) /* ItemAllegianceRankLimit */
+     , (2917028832, 115,          0) /* ItemSkillLevelLimit */
+     , (2917028832, 131,         67) /* MaterialType - Granite */
+     , (2917028832, 151,          2) /* HookType - Wall */
+     , (2917028832, 9015,         10) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (2917028832,   1, False) /* Stuck */
+     , (2917028832,  11, True ) /* IgnoreCollisions */
+     , (2917028832,  13, True ) /* Ethereal */
+     , (2917028832,  14, True ) /* GravityStatus */
+     , (2917028832,  19, True ) /* Attackable */
+     , (2917028832,  22, True ) /* Inscribable */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (2917028832,   5,  -0.025) /* ManaRate */
+     , (2917028832,  29,       1) /* WeaponDefense */
+     , (2917028832,  39, 0.600000023841858) /* DefaultScale */
+     , (2917028832, 144, 1.44120373381962E-314) /* ManaConversionMod */
+     , (2917028832, 8004,       1) /* PCAPRecordedWorkmanship */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (2917028832,   1, 'Orb') /* Name */
+     , (2917028832,  14, 'Use this item to cast its spell.') /* Use */
+     , (2917028832,  16, 'Granite Orb of Quickness') /* LongDesc */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (2917028832,   1,   33554669) /* Setup */
+     , (2917028832,   3,  536870932) /* SoundTable */
+     , (2917028832,   6,   67111928) /* PaletteBase */
+     , (2917028832,   8,  100668723) /* Icon */
+     , (2917028832,  22,  872415275) /* PhysicsEffectTable */
+     , (2917028832,  28,       1403) /* Spell - QuicknessOther1 */
+     , (2917028832, 8001, 2439594136) /* PCAPRecordedWeenieHeader - Value, Usable, UiEffects, Container, ValidLocations, TargetType, Burden, Spell, Workmanship, HookType, MaterialType */
+     , (2917028832, 8003,         18) /* PCAPRecordedObjectDesc - Inscribable, Attackable */
+     , (2917028832, 8005,     137345) /* PCAPRecordedPhysicsDesc - CSetup, ObjScale, STable, PeTable, AnimationFrame */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (2917028832,   1, 2917028831) /* Owner */
+     , (2917028832,   2, 2917028831) /* Container */
+     , (2917028832, 8000, 2917028832) /* PCAPRecordedObjectIID */;
+
+INSERT INTO `biota_properties_spell_book` (`object_Id`, `spell`, `probability`)
+VALUES (2917028832,   679,      2) 
+     , (2917028832,  1403,      2) ;
+
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
+VALUES (2917028832, 67111920, 0, 0);
+
+INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
+VALUES (2917028832, 0, 83888861, 83889680, 0);
+
+INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, `order`)
+VALUES (2917028832, 0, 16778862, 0);

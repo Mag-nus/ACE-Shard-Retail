@@ -1,0 +1,135 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-30-to-1-31\Bliz 1-30 to 1-31\pkt_2017-1-30_1485835967_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-30-to-1-31\Bliz 1-30 to 1-31\pkt_2017-1-30_1485831598_log.pcap
+
+Partial Exports - Missing appraisal info:
+83B75E80:Foci of Artifice
+83B7555B:Pack
+83B7557A:Copper Scarab
+83B7555A:Prismatic Taper
+83B73BBD:Pyreal
+83B5C156:Pyreal
+83B76103:Pyreal
+83B75E6C:Major Prismatic Stone
+83B75E64:Fenmalain Portal Gem
+83B75F2D:Pants
+83B7606B:Sturdy Iron Key
+83B75E51:Gem of Purity
+83B75E73:Eye Dropper
+83B75E7D:Banderling Mask
+83B75E75:Wrapped Bundle of Arrowshafts
+83B75E7C:Velveteen Olthoi
+83B75FFC:Wrapped Bundle of Prismatic Arrowheads
+83B748B3:Wrapped Bundle of Quarrelshafts
+83B748B4:Pack
+83B748B2:Gem of Purity
+83B76005:Silver Scarab
+83B75FEE:Purple Marshmallow Eep
+83B75FE6:Sturdy Steel Key
+83B752B7:Impious Staff
+83B75FFD:Treated Healing Kit
+83B748AD:Fenmalain Crystal Orb
+83B22C0C:Quiddity Orb
+83B75E74:Siraluun Headdress
+83B75E7B:Pack
+83B47C5A:A Small Mnemosyne
+839ED135:A Large Mnemosyne
+83B75E94:A Large Mnemosyne
+83B75E56:A Small Mnemosyne
+83B75577:A Large Mnemosyne
+83B75583:A Bracelet of Piercing Protection
+83B177AA:A Large Mnemosyne
+83B75582:Gromnie Banner
+83B75575:A Large Mnemosyne
+83B75581:A Large Mnemosyne
+83B51893:A Large Mnemosyne
+83B75576:A Large Mnemosyne
+83B75E43:A Large Mnemosyne
+83B75E44:A Ring of Acid Protection
+83B7559A:Virindi Master Key
+83B75592:Virindi Directive Key
+83B755A5:Peerless Lockpick
+83B75E62:Intricate Carving Tool
+83B75E2B:Copper Pea
+83B75E47:Verdalim Dye Pot
+83B749D8:Fenmalain Crystal Bow
+83B7604E:Pack
+83B75591:Phantom Bow
+83B7557E:Treated Healing Kit
+83AE7F17:Concentrated Aqua Incanta
+83B75599:Treated Healing Kit
+83B83EF5:Treated Healing Kit
+83B749D9:Treated Healing Kit
+83B75FCC:Composite Bow with Handle
+83B75FCA:Blackmoor's Favor
+83B75FCF:Asheron's Benediction
+83B75E0F:Realaidain Raiment
+83B75E0E:Cooking Pot
+83AF8755:Some Changes for February 2012
+83B749E8:Vitriol
+83B75DD9:Cooking Pot
+83B74A69:Faran Robe with Hood
+83B26823:Blueprints for a Burun Fortress
+83B75DC1:Alembic
+83AAF35A:Trade Note (250,000)
+83B4FBC3:Invitation to Master Fletchers
+83B7565E:Pyreal
+83B755DF:Pack
+83B755CD:Pyreal
+83B5D11C:Pyreal
+83AFCF0D:Pyreal
+83B19457:Renegade Herbal Kit
+83B755CC:Copper Golem Essence
+83B74394:Lucky Gold Letter
+83B755DE:Facility Hub Portal Gem
+83B755F5:Trade Note (150,000)
+83B5E983:Stone Tool
+83B755F6:Gem of Stillness
+83B75DD2:Trade Note (50,000)
+83B74218:Scarlet Red Letter
+83B760E4:Minor Stinging Stone
+83B75614:Minor Sparking Stone
+83B7560D:Minor Smoldering Stone
+83B755F0:Minor Shivering Stone
+83B74219:Fire Moar Essence (50)
+83B71AF8:Travel Log
+83B74216:Scarlet Red Letter
+83B74217:Amateur Explorer Gauntlets
+83B75D5C:Bordered Cloak
+83B75AA0:Raeta's Necklace
+83ADBF0A:Amateur Explorer Compound Bow
+83B08ECB:Adventurer's Token
+83B74F70:Rare Crystalline Shard
+83995B61:Urgently Written Note
+83A55E57:Pathwarden Trinket
+83B75855:Baron's Amulet of Life Giving
+83B75EA9:Corcima Castle Gold Ward Portal Gem
+83B75EAA:Encapsulated Spirit
+83B75EB2:Lightning Moar Essence (50)
+83B75EBC:Lightning Phyntos Wasp Essence (50)
+83B75E92:Acid Phyntos Wasp Essence (50)
+83B75629:Asheron's Lesser Raiment
+83B75636:Letter to General Garsh
+83A30DF7:Acid Grievver Essence (80)
+83B7563C:Stipend
+83B74AB0:Renegade Pendant
+83B74AAF:Writ of Refuge
+83B75E67:Trade Note (250,000)
+8545F668:Scarlet Red Letter
+856FE97F:Scarlet Red Letter
+84A2663F:Scarlet Red Letter
+854CDB5D:Scarlet Red Letter
+8570A9C3:Scarlet Red Letter
+857096DC:Scarlet Red Letter
+85236CBF:Scarlet Red Letter
+83B75EBB:Minor Sparking Atlan Bow
+85A684A0:Frost Grievver Essence (50)
+83B75EAB:Prismatic Arrow
+83B75EB1:Frost Bow
+885D5EA8:Fire Grievver Essence (50)
+88604F8E:Renegade Insignia Ring
+83B5A7E0:Bloodmark Crossbow
+
+Missing Exports - Possessed items that were not found:

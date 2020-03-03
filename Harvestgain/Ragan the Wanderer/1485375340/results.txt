@@ -1,0 +1,59 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ragan-1-25-2017-randomexploration\pkt_2017-1-25_1485375331_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ragan-01-25-2017-randomholtburgexploration\pkt_2017-1-24_1485323047_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ragan-1-25-2017-randomexploration\pkt_2017-1-25_1485367854_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ragan-1-25-2017-randomexploration\pkt_2017-1-25_1485374543_log.pcap
+
+Partial Exports - Missing appraisal info:
+C7EBE1FF:Wide Breeches
+C7EBE200:Leather Boots
+C7EBE201:Pyreal
+C7EBE202:Sack
+C7EBE203:Ust
+C7EBE207:Training Dagger
+C7EBE208:Training Wand
+C7EBE20A:Foci of Artifice
+C7EBE20B:Prismatic Taper
+C7EBE20C:Lead Scarab
+C7EBE20D:Flour
+C7EBE20E:Water
+C7EBE20F:Letter From Home
+C7EBE210:Bread
+C7F98E85:Blackmoor's Favor
+C7F62B34:Restoring the Training Academies
+C7FA6521:Academy Exit Token
+C7F68B83:Leather Leggings
+C7F5A09E:Leather Cap
+C7F98772:Leather Gauntlets
+C7F9CD7C:Academy Library Key
+C7F69C9E:Guide to Chat
+C5CED079:Potion of Healing
+C5D19FA7:Stamina Potion
+C5CFD43D:Mana Potion
+C7EBE1FE:Shirt
+C7F97521:Academy Coat
+C7FAB30E:Pyreal
+C7F93840:Facility Hub Portal Gem
+C7F6A6D8:Chicken
+C7FA5911:Lead Pea
+C7F65354:Bowl
+C7FA589B:Fire Wisp Essence (50)
+C7F89014:Pathwarden Gauntlets
+C7F88E24:Great Mana Charge
+C7F89012:Pathwarden Robe
+C7F89064:Pathwarden Trinket
+C7F5D474:Leather Shirt
+C7EF725B:Studded Leather Sleeves
+C7FF7DD1:A List of Items
+C7FA76D0:Studded Leather Bracers
+C7F9CC66:Academy Dirk
+C7FA7E88:Scroll of Recklessness Ineptitude Other II
+C7F98DD7:Acid War Hammer
+C7FF2E56:Studded Leather Boots
+C7FF72AE:Light Crossbow
+C7FF7AB5:Facility Hub Portal Gem
+C7EBE209:Round Shield
+
+Missing Exports - Possessed items that were not found:

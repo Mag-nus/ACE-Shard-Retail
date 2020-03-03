@@ -1,0 +1,23 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\imtrippin-01-30-2017-empyrean-workshop-and-more\pkt_2017-1-30_1485816108_log.pcap
+
+Partial Exports - Missing appraisal info:
+9F94B096:Ust
+9F94B15E:Foci of Strife
+9F967B62:Lead Scarab
+9F94A8B9:Blackmoor's Favor
+9F94B0EE:Iron Scarab
+9F8F39B0:Aphus Lassel Portal Gem
+9F8F4FEB:Pyreal
+9F94B197:Foci of Verdancy
+9F94AFD2:Copper Scarab
+9F9682EF:Silver Scarab
+9F94B0ED:Gold Scarab
+9F9681DA:Pyreal Scarab
+9F9681DB:Prismatic Taper
+9F9681DE:Prismatic Taper
+9F9681DF:Prismatic Taper
+9F9681E0:Pyreal Scarab
+9F92F840:Some Changes for February 2012
+
+Missing Exports - Possessed items that were not found:

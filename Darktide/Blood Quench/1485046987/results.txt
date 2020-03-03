@@ -1,0 +1,18 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-logs\AC logs\pkt_2017-1-22_1485046869_log.pcap
+
+Partial Exports - Missing appraisal info:
+D7ADDD81:Pyreal
+
+Missing Exports - Possessed items that were not found:
+D7E6984B
+D7ADDD8B
+D7ADDD8A
+D7ADDD89
+D7ADDD88
+D7ADDD86
+D7ADDD85
+D7ADDD84
+D7ADDD83
+D7ADDD87
+D7ADDD82

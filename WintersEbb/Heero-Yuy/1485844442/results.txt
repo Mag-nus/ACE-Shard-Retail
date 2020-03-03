@@ -1,0 +1,67 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485844430_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485839309_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485839309_log.pcap
+
+Partial Exports - Missing appraisal info:
+8FC4E053:Iron Scarab
+8FC83F51:Chorizite
+8FCAB522:Diamond Scarab
+8FC83F39:Lead Scarab
+8FC83F3F:Silver Scarab
+8FC83F64:Gold Scarab
+8FC83F6C:Copper Scarab
+8FC83F65:Blackmoor's Favor
+9156EC5B:Platinum Scarab
+8FCAC20B:Adventurer's Token
+91DA9543:Small Olthoi Venom Sac
+91DC0693:Colosseum Coin
+91C0834E:Celestial Hand Trade Token
+9280533A:Ancient Mhoire Coin
+92849640:Ornate Gear Marker
+9258308F:A'nekshay Token
+92D85DCE:Aetherium-infused Gear
+92D5C06D:Pyreal Scarab
+93AC3B04:Prismatic Taper
+93F27486:Mana Scarab
+8FC83F52:Foci of Verdancy
+8FC83F73:Foci of Artifice
+8FCAB524:Foci of Strife
+8FC83F38:Foci of Enchantment
+92801D06:Trade Note (250,000)
+927CFA29:Signet Crown
+91D7C3FD:Circlet
+916CB5C5:Diadem
+9182E7B0:Circlet
+92514713:Teardrop Crown
+91C3F0F8:Diadem
+9252E5E9:Signet Crown
+92E58B2E:Glowing Jungle Lily
+92E4C4EF:Glowing Moar Gland
+92E56680:Phyntos Honey
+8FCAC1C1:Heart of the Innocent
+8FC3423E:Ust
+92830D59:Shoyanen's Portal Gem
+92C45712:Massive Mana Charge
+91AF6002:Aligned Mana Stone
+92C356F7:Massive Mana Charge
+92DF8BC6:Massive Mana Charge
+92E5E169:Massive Mana Charge
+92E52F29:Massive Mana Charge
+92E52F20:Massive Mana Charge
+931125C9:Celestial Hand Commendation Ribbon
+93134363:Massive Mana Charge
+931656AD:Massive Mana Charge
+93131448:Massive Mana Charge
+93165DC8:Massive Mana Charge
+92FD5811:Massive Mana Charge
+9336DE67:Massive Mana Charge
+93686EE6:Electric Baton
+92847D5A:Pyreal
+937B396F:Pyreal
+93E26AA8:Platinum Scarab
+940216F1:Platinum Scarab
+
+Missing Exports - Possessed items that were not found:

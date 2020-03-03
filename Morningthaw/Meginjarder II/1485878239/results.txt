@@ -1,0 +1,200 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Granis-2017-01-31_last_hours\pkt_2017-1-31_1485877928_log.pcap
+
+Partial Exports - Missing appraisal info:
+AF7232BD:Baggy Shirt
+AF7232BE:Trousers
+AF7232C0:Greeter's Key
+AF7232BF:Shoes
+AF7232C1:Virindi Servant's Amulet
+AF7232C4:Peculiar Old Dagger
+AF7232E9:Snowflower
+AF7232C5:Peculiar Old Dagger
+AF7232C6:Peculiar Old Dagger
+AF7232C7:Peculiar Old Dagger
+AF7232C8:Peculiar Old Dagger
+AF7232C9:Peculiar Old Dagger
+AF7232CA:Ursuin Hide Helmet
+AF7232CB:Jack o' Lantern
+AF7232CC:Shendolain Key
+AF7232CD:Shendolain Key
+AF7232CE:Shendolain Key
+AF7232CF:Shendolain Key
+AF7232D0:Shendolain Key
+AF7232D1:Shendolain Key
+AF7232D2:Ebon Mattekar Hide
+AF7232D3:Hea Totem
+AF7232D4:Hea Totem
+AF7232D5:Ahruenga Portal Gem
+AF7232D6:Virindi Implant
+AF7232D7:Skull of Avoren Palacost
+AF7232D8:Skull of Avoren Palacost
+AF7232D9:Skull of Avoren Palacost
+AF7232DA:Skull of Avoren Palacost
+AF7232DB:Skull of Avoren Palacost
+AF7232DC:Skull of Avoren Palacost
+AF7232DD:Gromnie Spear-Head
+AF7232DE:Quintessence Sickle
+AF7232DF:Staff of the Nomads
+AF7232E0:Virindi Implant
+AF7232E1:Bael'Zharon Stamp
+AF7232E2:Moons Stamp
+AF7232E3:Olthoi Stamp
+AF7232E4:Olthoi Stamp
+AF7232E8:Siraluun Matihao
+AF7232E5:Olthoi Stamp
+AF7232E6:Virindi Stamp
+AF7232EA:Snowflower
+AF7232E7:Olthoi Stamp
+AF7232EB:Snowflower
+AF7232EC:Heavy Ursuin Coat
+AF7232ED:Pack Drudge
+AF7232EE:Pack Golem
+AF7232F2:Pack Golem
+AF7232F0:Pack Grievver
+AF7232F1:Pack Scarecrow
+AF7232F7:Staff of Clarity
+AF7232F3:Pack Grievver
+AF7232F6:Mattekar Hide Coat
+AF7232F4:Pack Drudge
+AF7232FB:Small Mattekar Hide
+AF7232F5:Plush Tusker
+AF723301:Bone Handle
+AF7232F8:Thaumaturgic Plate Coat
+AF7232F9:Thaumaturgic Plate Girth
+AF7232FA:Thaumaturgic Plate Leggings
+AF7232FC:Thick Gromnie Hide
+AF7232FD:Blade of the Quiddity
+AF7232FF:Cured Large Lugian Sinew
+AF723300:Cured Large Lugian Sinew
+AF723302:Bone Handle
+AF723303:Fragment of the Singularity
+AF723304:Fragment of the Singularity
+AF723305:Fragment of the Singularity
+AF723306:Braided Drudge Ravener Guts
+AF72330C:Great Mattekar Horn
+AF723307:Braided Drudge Ravener Guts
+AF723308:Braided Drudge Ravener Guts
+AF72330D:Great Mattekar Horn
+AF723309:Braided Drudge Ravener Guts
+AF72330A:Braided Drudge Ravener Guts
+AF72330E:Dark Revenant Thighbone
+AF72330B:Fragment of the Singularity
+AF72330F:Dark Revenant Thighbone
+AF723310:Dark Revenant Thighbone
+AF723313:Dark Revenant Thighbone
+AF723318:Dark Speck
+AF723319:Shadow Fragment
+AF72331A:Shadow Fragment
+AF72331B:Shadow Fragment
+AF72331C:Dark Shard
+AF72331D:Blue Orb
+AF72331E:Blue Orb
+AF72331F:Staff of the Nomads
+AF723320:White Virindi Wand
+AF723321:The Healer's Heart
+AF723328:Elaborate Scroll
+AF723322:The Healer's Heart
+AF723323:Sickly Wisp Heart
+AF723324:Pulsating Wisp Heart
+AF723325:Glowing Wisp Heart
+AF723326:Pulsating Wisp Heart
+AF723329:Seal
+AF72332A:Seal
+AF72332B:Seal
+AF72332C:Seal
+AF72332D:Seal
+AF72332E:Seal
+AF72332F:Seal
+AF723330:Seal
+AF723331:Seal
+AF723332:Seal
+AF723333:Seal
+AF723334:Seal
+AF723335:Seal
+AF723336:Seal
+AF723337:Seal
+AF723338:Seal
+AF723339:Seal
+AF72333A:Partial Rune Transcription
+AF72333B:Seal
+AF72333C:Seal
+AF72333D:Seal
+AF72333E:Seal
+AF723340:Gertarh's Dagger
+AF723341:Olthoi Helm
+AF723342:Olthoi Helm
+AF723345:Ash Tooth Dagger
+AF723346:Olthoi Helm
+AF723348:Ancient Pyreal Dagger
+AF723349:Olthoi Helm
+AF72334A:Ice Heaume of Frore
+AF72334B:Asmolum's Throwing Dagger
+AF72334C:Yellow Jewel
+AF72334D:Black Stone
+AF72334E:Ring of the Watchman
+AF72334F:Ring of the Watchman
+AF723350:Ring of the Watchman
+AF723355:Olthoi Head
+AF723356:Olthoi Helm
+AF723357:Olthoi Helm
+AF723359:Pack
+AF723358:Mattekar Hide Coat
+AF72335B:Diamond Powder
+AF72335C:Diamond Powder
+AF72335D:Diamond Powder
+AF72335E:Diamond Powder
+AF72335F:Diamond Powder
+AF723360:Diamond Powder
+AF723361:Diamond Powder
+AF723362:Diamond Powder
+AF723363:Diamond Powder
+AF723364:Diamond Powder
+AF723365:Diamond Powder
+AF723366:Diamond Powder
+AF723367:Diamond Powder
+AF723368:Diamond Powder
+AF72336A:Diamond Powder
+AF72336B:Diamond Powder
+AF72336C:Diamond Powder
+AF72336D:Diamond Powder
+AF72336E:Diamond Powder
+AF72336F:White Phyntos Wasp Wing
+AF723370:White Phyntos Wasp Wing
+AF723371:White Phyntos Wasp Wing
+AF723372:Crown
+AF723373:Horned Helm
+AF723375:Diamond Powder
+AF723376:Diamond Powder
+AF723377:Diamond Powder
+AF723378:Diamond Powder
+AF723379:Diamond Powder
+AF72337A:Diamond Powder
+AF72337B:Diamond Powder
+AF72337C:Diamond Powder
+AF72337D:Diamond Powder
+AF72337E:Diamond Powder
+AF72337F:Diamond Powder
+AF723380:Diamond Powder
+AF723381:Diamond Powder
+AF723382:Diamond Powder
+AF723383:Diamond Powder
+AF723384:Diamond Powder
+AF723385:Diamond Powder
+AF723386:Diamond Powder
+AF723387:Diamond Powder
+AF723388:Diamond Powder
+AF723389:Diamond Powder
+AF72338A:Diamond Powder
+AF72338B:Diamond Powder
+AF72338C:Diamond Powder
+AF72338D:Diamond Heart
+AF72338E:Diamond Heart
+AF72338F:Diamond Heart
+AF723390:Aluvian Wand
+AF723391:Pack Ancient Olthoi Queen
+AF723392:Some Changes for February 2012
+AF723394:Blackmoor's Favor
+AF723393:Crystal Sword
+
+Missing Exports - Possessed items that were not found:

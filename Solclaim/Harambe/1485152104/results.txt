@@ -1,0 +1,77 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-23_1485152082_log.pcap
+
+Partial Exports - Missing appraisal info:
+9A816EBC:Foci of Enchantment
+9A816EBD:Foci of Artifice
+9ADA794F:Pack
+9A816EB7:Ust
+9A816EBE:Prismatic Taper
+9A889541:Blackmoor's Favor
+9ADD51E1:Silver Scarab
+9ADE9F5D:Gold Scarab
+9AE1C6D0:Stipend
+9A860272:Pathwarden Robe
+9AD4F597:Colosseum Coin
+9A8617E0:Academy Wand
+9AE364FF:Gold Pea
+9AE3727F:Yellow Empyrean Ring
+9B05DF28:Aerfalle's Supreme Pallium
+9ADBEF1C:Red Empyrean Ring
+9ADA88C1:Turquoise Taper
+9B1C1798:Cloth Cap
+9AD5CB05:Empyrean Golem Stone
+9AE08909:Sedgemail Leather Cowl
+9AE04F52:Olthoi Celdon Sleeves
+9AE05ECE:Chainmail Hauberk
+9AE35191:Ancient Falatacot Trinket
+9AD5E52B:Baggy Shirt
+9ADA7321:Loose Shirt
+9ADA73B3:Pantaloons
+9ADA8F3D:Fire Bow
+9AE094E7:Loose Shirt
+9AE0945E:Nariyid Leggings
+9AE0979E:Pantaloons
+9AE0957C:Shoes
+9AE0A31C:Lorica Sleeves
+9AE0D533:Studded Leather Boots
+9AE05A35:Haebrean Breastplate
+9B1C2924:Chiran Coat
+9B1C2E31:Nariyid Breastplate
+9B133964:Loose Shirt
+9ADA7DE9:Pack
+9AE14115:Cloth Cap
+9AFD0ABA:Heavy Bracelet
+9AFD9541:Viamontian Pants
+9AF78E70:Mechanical Scarab
+9AFF5E89:Amulet
+9AFB253E:Gorget
+9AFECCAD:Pants
+9AFCFD10:Blunt Compound Bow
+9AFC8202:Baggy Pants
+9AFED8F6:Pantaloons
+990B2ACB:Cloak
+9B1C5214:Olthoi Amuli Leggings
+9B1C5B9A:Teardrop Crown
+9B1A65FC:Leather Girth
+9B1C5FBC:Sedgemail Leather Sleeves
+9B1C7535:Olthoi Koujia Kabuton
+9B1AD41D:Koujia Breastplate
+9B1A59AE:Scalemail Shirt
+9B1B6E40:Viamontian Laced Boots
+9B1BC9D3:Diforsa Tassets
+9B1CCDB6:Lyceum Hood
+9B1CB86E:Studded Leather Cuirass
+9B19567D:Beret
+9B1CE96E:Studded Leather Coat
+9B1CE417:Studded Leather Pauldrons
+9B1CE68C:Olthoi Koujia Gauntlets
+9B1CFB98:Shoes
+9B1CF74F:Studded Leather Gauntlets
+9B1C2147:Heavy Necklace
+9B1BAD73:Kote
+9B1A57CF:Shoes
+9306EEDC:Amuli Leggings
+9306F17F:Celdon Breastplate
+
+Missing Exports - Possessed items that were not found:

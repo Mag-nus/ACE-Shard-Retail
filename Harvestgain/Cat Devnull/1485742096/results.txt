@@ -1,0 +1,129 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\CatDevnull-Random-1\pkt_2017-1-29_1485742086_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\CatDevnull-Random-2\pkt_2017-1-30_1485827989_log.pcap
+
+Partial Exports - Missing appraisal info:
+98E34F5B:Ust
+A7DD162A:Pack
+99BD7B08:Encapsulated Spirit
+C7E0A220:Egg
+A2DA14E0:Paradox-touched Olthoi Wand
+A7DBB3FE:Pack
+BA7486FE:Encapsulated Spirit
+98FA1A05:Copper Scarab
+99A702CB:Silver Scarab
+9BF2A1BB:Gold Scarab
+9FD6FA25:Diamond Scarab
+9C6AAFD5:Platinum Scarab
+A7EE327E:Mana Scarab
+BC190F52:Spectral Crystal of the Life Giver
+B14669A1:Black Luster Pearl
+BDA414FF:Black Luster Pearl
+BD9943D3:Black Luster Pearl
+C04B4DAB:Radiant Blood Stronghold Portal Gem
+C58F2D1B:Rytheran's Jeweled Ring
+C72141D5:Prismatic Taper
+C75CE440:Pyreal Scarab
+C721B91B:Prismatic Taper
+C7E06464:Prismatic Taper
+C7F91D97:Society Gem of Dispelling
+C71E93CC:Prismatic Taper
+A4A2699A:Radiant Blood Trade Token
+C721B99F:Prismatic Taper
+A7D6B172:Pack
+A42D0356:Intricate Carving Tool
+A4E5D6AD:Radiant Blood Trade Token
+A480B03B:Radiant Blood Trade Token
+B168A82D:Peerless Lockpick
+AC35CBB3:Sezzherei's Lair
+AF22079B:Radiant Blood Armor Writ
+B168A82C:Peerless Lockpick
+C7F285A4:Shard of Harraag's Dagger
+A7DD1D4A:Pack
+9DB4788E:Sawato Bandit's Mask
+9FDABB9A:Aerfalle's Supreme Pallium
+983AE6CC:Platinum Medal of Intellect
+98389D63:Platinum Medal of Vigor
+98F37347:Blackmoor's Favor
+BBFC301F:Aerbax Mask Shard
+98F3FE5D:Asheron's Benediction
+9E2553EB:Virindi Consul Essence
+C76CD686:Bloodstone Report
+A335E8EE:Luminous Robe
+A337E58F:Celdiseth's Portal Gem
+C67DFB9E:Major Mana Stone
+B92B9AB8:Black Skull of Xikma
+9843C2DA:Platinum Horn of Leadership
+C7DEE149:Grey Taper
+9CACE3F4:Ring of the Whispering Blade
+AC81C959:Pack
+C7E0627D:Yellow Taper
+C7DF9175:Violet Taper
+C7F786DF:Iron Heart
+C7FB52B4:Iron Heart
+C7F3FF52:Iron Heart
+C7F11BEE:Iron Heart
+AC8369AB:Pack
+9B6D1FCE:Candy Corn
+B71300ED:Treated Healing Kit
+C1B741F3:Coral Fragment
+C5D04D34:Treated Healing Kit
+C5D89FCB:Treated Healing Kit
+C67FFCD9:Major Mana Stone
+C67F0CDC:Major Mana Stone
+C67B887F:Major Mana Stone
+C818E6A8:Major Mana Stone
+C8190A3B:Major Mana Stone
+C81BB1E2:Major Mana Stone
+C81FA0D0:Ring
+C82E686B:Major Mana Stone
+C8119AE1:Major Mana Stone
+C82FBC5F:Major Mana Stone
+A9AE7199:Broken Stone Tablet
+ADFECEA5:Pack
+98F229BD:Academy Wand
+A2FB4909:Aerbax's Defeat
+AA1D53C8:Ornate Brass Banding
+AE8E4E6F:Legendary Seed of Mornings
+98F4178F:Academy Exit Token
+BD0410AD:Mhoire Signet Ring
+BD87B9FA:Daimyo Nobanuga's Shattered Helm
+BED6F6EB:Enhanced Mucor
+BF010460:Coruscating Olthoi Scent Gland
+A453A591:Aetheria
+983E6499:Aetheria
+983E64AA:Aetheria
+BF9A5A5D:Enhanced Mucor
+A3AE60B9:Ring
+C7EDD61C:Orb of Splendor
+ACAB474F:Colosseum Coin
+A4B9A790:The Healer's Heart
+BFF9CFFF:Pursuit Orb
+A3AF8B81:Colosseum Coin
+C81211F8:Whispering Blade Chapterhouse Recall Orb
+C80F1380:Red Rune Slashing Silveran Wand
+C7F7CC75:Buadren
+A9B0A326:A'nekshay Token
+A847147B:Pet Mouf Igloo
+C60EFAA5:Explorer's Backpack
+BC83F5E8:Lo Shoen's Rat Bait
+C1803850:Trade Note (250,000)
+98F7ECF3:Facility Hub Portal Gem
+C290C757:Ancient Mhoire Coin
+BF328138:Ancient Mhoire Coin
+C6818D6C:Sake
+BD08DF26:Ancient Mhoire Coin
+C44C5DB1:Ancient Mhoire Coin
+B6D3515C:Lesser Corrupted Essence
+C5D0E116:Small Olthoi Venom Sac
+B85BD281:Ornate Gear Marker
+9B6C3DF9:Aligned Mana Stone
+9B93037D:Aetheria Mana Stone
+A7ECE45D:Heart of the Innocent
+C052FAEA:Wah Chon's Winter Lager
+BC0C879D:Frozen Valley Portal Gem
+C80F2B8A:Colosseum Ticket
+
+Missing Exports - Possessed items that were not found:

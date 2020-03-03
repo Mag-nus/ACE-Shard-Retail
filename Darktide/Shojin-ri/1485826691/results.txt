@@ -1,0 +1,187 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-30_1485816738_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-27_1485531801_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-27_1485536327_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-27_1485541031_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-28_1485614827_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-28_1485614827_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-28_1485614827_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-29_1485718290_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-29_1485718290_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-29_1485736061_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-29_1485736061_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-30_1485796315_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-30_1485796448_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-30_1485815988_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-30_1485816738_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-30_1485816738_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-30_1485816738_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-30_1485816738_log.pcap
+
+Partial Exports - Missing appraisal info:
+CBFEA770:Ust
+CBFEA782:Foci of Verdancy
+CBFEA781:Foci of Enchantment
+CBFEA780:Foci of Artifice
+CBFEA77F:Lead Scarab
+CBFEA77E:Blackmoor's Favor
+CBFEA865:Pack
+CBFA98C7:Facility Hub Portal Gem
+CBFEA788:Signet Crown
+D834125E:Massive Mana Charge
+CBFEA787:Diadem
+CBFEA786:Coronet
+CBFEA78C:Circlet
+CBFEA86D:Circlet
+CBFEA79D:Crown
+D8341271:Massive Mana Charge
+CBFEA795:Cloth Gloves
+D8341277:Massive Mana Charge
+CBFEA83A:Crown
+D81266C3:Coronet
+D82DECE9:Signet Crown
+D80C5BDB:Massive Mana Charge
+98B62C41:Crown
+D83AA73B:Massive Mana Charge
+D83AA73C:Massive Mana Charge
+D83AA627:Massive Mana Charge
+D0A7CB2F:Massive Mana Charge
+D722EA5A:Massive Mana Charge
+C395BC70:Massive Mana Charge
+A7C85C60:Massive Mana Charge
+D80C7BBA:Massive Mana Charge
+CBFA9220:Pack
+CBFEA87E:Teardrop Crown
+CBFEA7A4:Signet Crown
+CBFEA7A2:Teardrop Crown
+CBFEA79F:Coronet
+CBFEA7BE:Diadem
+CBFEA7BD:Teardrop Crown
+CBFEA7C5:Circlet
+CEB5B535:Massive Mana Charge
+D83412B1:Massive Mana Charge
+D83412B0:Massive Mana Charge
+9A079828:Major Mana Stone
+9A0797B7:Gorget
+A48D34E5:Lesser Corrupted Essence
+D57F5B26:Massive Mana Charge
+A4CEF87F:Massive Mana Charge
+C0AD40F8:Massive Mana Charge
+D621DAD3:Massive Mana Charge
+BE5DB9F4:Massive Mana Charge
+BEF13D93:Massive Mana Charge
+808475EB:Massive Mana Charge
+BA8B56F3:Massive Mana Charge
+8997B9D2:Massive Mana Charge
+A4843DA5:Massive Mana Charge
+CBFEA7BB:Pack
+CBFEA7BA:Diadem
+CBFEA89B:Coronet
+CBFEA8A1:Signet Crown
+CBFEA8A4:Coronet
+CBFEA7CD:Shoes
+CBFEA7D1:Coronet
+D83411A5:Massive Mana Charge
+D7880334:Massive Mana Charge
+D83411F2:Massive Mana Charge
+D83411AA:Massive Mana Charge
+D83411EC:Massive Mana Charge
+D8341250:Massive Mana Charge
+D8341263:Massive Mana Charge
+D834123E:Massive Mana Charge
+D8403766:Massive Mana Charge
+CD3FE5CB:Massive Mana Charge
+D80C7AD4:Massive Mana Charge
+D80C7AC6:Massive Mana Charge
+CBFEA7DD:Pack
+CBFEA814:Heart of the Innocent
+CBFEA7ED:Black Fire Atlan Stone
+CBFEA7EB:Aligned Mana Stone
+CBFEA7EC:Red Fire Infusion
+CBFEA7EA:Aetheria Mana Stone
+CBFEA7F2:Massive Mana Charge
+CBFEA7E9:Circlet
+CBFEA7E8:Circlet
+CBFEA7E7:Coronet
+CBFEA7E6:Circlet
+CBFEA7E5:Circlet
+CBFD9265:Coronet
+CBFEA8C3:Crown
+D83411C4:Massive Mana Charge
+D8341195:Massive Mana Charge
+D8341267:Massive Mana Charge
+CBFEA824:Iron Scarab
+CBFEA832:Copper Scarab
+CBFEA834:Gold Scarab
+CBFEA836:Wrapped Bundle of Arrowshafts
+CBFEA837:Platinum Scarab
+CBFEA801:Diamond Scarab
+CBFEA800:Wrapped Bundle of Deadly Prismatic Arrowheads
+CBFEA7FF:Vissidal Island Portal Gem
+CBFEA7FE:Celdiseth's Portal Gem
+D8323510:Pyreal
+CBFEA7FD:Hafted Gromnie Banner with Symbol
+CBFEA7FB:Major Mana Stone
+CBFEA80C:Wrapped Bundle of Quarrelshafts
+CBFEA808:Stipend
+CBFEA8DB:Major Mana Stone
+CBFEA8E6:Major Mana Stone
+CBFEA8E7:Major Mana Stone
+CBFEA8EB:Major Mana Stone
+CBF9882A:Major Mana Stone
+CBFEA820:Asheron's Lesser Benediction
+CBFEA82C:Radiant Blood Trade Token
+CBFEA82B:Major Mana Stone
+CBFEA840:Treated Healing Kit
+CBFEA827:Rithwic Portal Gem
+CBFEA826:Corcima Castle Silver Ward Portal Gem
+CBFEA831:Princely Runed War Bow
+CBFEA830:Foolproof Fire Opal
+CBFEA83C:Blank Augmentation Gem
+CBFEA82D:Radiant Blood Commendation Ribbon
+CBFEA83D:Bloodied Burun Hide
+CBFEA829:Chorizite
+CBFEA83F:Hennacin Plant
+CBFEA83B:Treated Healing Kit
+CBFEA839:Treated Healing Kit
+CBFEA84A:Treated Healing Kit
+CBFEA849:Treated Healing Kit
+CBFEA84C:Relanim Plant
+CBFEA90A:Trade Note (250,000)
+CBFEA852:Teardrop Crown
+CBFD8DE5:Diamond Heart
+D8323549:Holtburg Portal Gem
+CBFEA93C:Slashing Compound Bow
+CBFEA85E:Composite Bow with Exquisite Handle
+CBFEA82F:Weeping Bow
+CBFEA86A:Wand
+D83B884E:Totem of Tanae
+D83B8849:Totem of Audetaunga
+D83B933D:Totem of Audetaunga
+D83FE17F:Totem of Volkama
+CBFDB3D3:Ancient Empyrean Trinket
+CBFDAAD7:Ursuin Hide Helmet
+CBFF2CCC:Trade Note (250,000)
+CBFEA7FC:Major Mana Stone
+D83E3852:The Orphanage
+B0E5375D:Greater Stamina Kit
+B0E5367F:Greater Stamina Kit
+B0E537AA:Greater Mana Kit
+85C4CEA9:Foolproof Peridot
+8AB68659:Foolproof Peridot
+D83AA681:Enhanced Mana Elixir
+D843FB38:Enhanced Health Elixir
+CFE5289D:Acid Compound Bow
+D86294FC:Berimphur Plant
+BF11D2D9:Massive Mana Charge
+C0EDB35A:Electric Sceptre
+9804E24B:Imbue Swap Coin
+CC005536:Dark Sorcerer's Phylactery
+D79FC496:Massive Mana Charge
+D864C308:Massive Mana Charge
+CBFEA84E:Blunt Bow
+CBFD8DE6:Weeping Wand
+
+Missing Exports - Possessed items that were not found:

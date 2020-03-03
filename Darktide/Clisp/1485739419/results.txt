@@ -1,0 +1,20 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap6\pkt_2017-1-29_1485719179_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap6\pkt_2017-1-29_1485719179_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap6\pkt_2017-1-29_1485719179_log.pcap
+
+Partial Exports - Missing appraisal info:
+D7398590:Sack
+D7398505:Ust
+D73985A3:Blackmoor's Favor
+D73984D0:Leather Gauntlets
+D7398518:Leather Leggings
+D739858A:Leather Cap
+D73984F3:Academy Exit Token
+D7398416:Academy Library Key
+D73984A1:Guide to Chat
+D73984C5:Leather Boots
+
+Missing Exports - Possessed items that were not found:

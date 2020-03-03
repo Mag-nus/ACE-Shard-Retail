@@ -1,0 +1,180 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Tiderius-playthrough-early-level-pcap-2017-01\pkt_2017-1-21_1485021490_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\Tiderius-playthrough-early-level-pcap-2017-01\pkt_2017-1-2_1483413880_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Tiderius-playthrough-early-level-pcap-2017-01\pkt_2017-1-2_1483413880_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Tiderius-playthrough-early-level-pcap-2017-01\pkt_2017-1-3_1483504905_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Tiderius-playthrough-early-level-pcap-2017-01\pkt_2017-1-4_1483599347_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Tiderius-playthrough-early-level-pcap-2017-01\pkt_2017-1-5_1483604912_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Tiderius-playthrough-early-level-pcap-2017-01\pkt_2017-1-5_1483604912_log.pcap
+
+Partial Exports - Missing appraisal info:
+DAB1F647:Ust
+DAB1F648:Foci of Artifice
+DAB1F64A:Platinum Scarab
+DAB1F64C:Sho Gem of Worth
+DAB1F64D:Aluvian Gem of Worth
+DAB1F64E:Aluvian Gem of Worth
+DAB1F64F:Aluvian Gem of Worth
+DAB1F650:Abayar's Research Notes
+DAB1F652:Superb Mana Charge
+DAB1F653:Titan Mana Charge
+DAB1F654:Faran War Master Robe
+DAB1F655:Suikan Life Master Robe
+DAB1F656:Pyreal
+DAB1F657:Circlet
+DAB1F658:Titan Mana Charge
+DAB1F659:Suikan War Master Robe
+DAB1F65D:Titan Mana Charge
+DAB1F65A:Suikan Creature Master Robe
+DAB1F65B:Suikan War Master Robe
+DAB1F65C:Suikan Creature Master Robe
+DAB1F65E:Teardrop Crown
+DAB1F665:Pyreal
+DAB1F65F:Suikan Life Master Robe
+DAB1F660:Bracelet
+DAB1F686:Major Mana Stone
+DAB1F662:Heart of the Innocent
+DAB1F663:Decanter of Nullified Essence
+DAB1F664:Decanter of Nullified Essence
+DAB1F666:Kiree's Hide
+DAB1F667:Keerik's Hide
+DAB1F668:Browerk's Hide
+DAB1F669:Titan Mana Charge
+DAB1F66A:Gold Scarab
+DAB1F66B:Reeshan's Hide
+DAB1F66D:Treated Healing Kit
+DAB1F66E:Treated Healing Kit
+DAB1F66F:Treated Healing Kit
+DAB1F670:Treated Healing Kit
+DAB1F671:Treated Healing Kit
+DAB1F672:Treated Healing Kit
+DAB1F673:Treated Healing Kit
+DAB1F674:Treated Healing Kit
+DAB1F675:Treated Healing Kit
+DAB1F676:Blank Augmentation Gem
+DAB1F677:Pyreal Pea
+DAB1F678:Sturdy Steel Key
+DAB1F679:Gold Pea
+DAB1F691:Rithwic Portal Gem
+DAB1F67D:Moderate Mana Stone
+DAB1F67F:Major Mana Stone
+DAB1F680:Greater Mana Stone
+DAB1F681:Moderate Mana Stone
+DAB1F682:Greater Mana Stone
+DAB1F684:Major Mana Stone
+DAB1F685:Major Mana Stone
+DAB1F687:Major Mana Stone
+DAB1F689:Greater Mana Stone
+DAB1F68A:Major Mana Stone
+DAB1F68B:Major Mana Stone
+DAB1F68C:Major Mana Stone
+DAB1F68D:Major Mana Stone
+DAB1F68E:Wrapped Bundle of Arrowshafts
+DAB1F68F:Major Mana Stone
+DAB1F692:Ravenous Killer Token
+DAB1F693:Greater Mana Stone
+DAB1F694:Greater Mana Stone
+DAB1F695:Prismatic Taper
+DAB1F696:Silver Scarab
+DAB1F697:Lead Scarab
+DAB1F698:Blackmoor's Favor
+DAB1F699:Copper Scarab
+DAB1F69A:Stamina Brew
+DAB1F69B:Health Tonic
+DAB1F69C:Olthoi Slasher Carapace
+DAB1F69D:Prismatic Taper
+8153499F:Verdalim Plant
+DB044EC4:Electric Compound Bow
+DAB1F69E:Major Mana Stone
+D94698A9:Slashing Compound Bow
+D953E43A:Frost Compound Bow
+DAB1F6A5:Pyreal
+D928E89C:Piercing Compound Bow
+D95C85F0:Slashing Compound Bow
+DAB1F6A8:Pyreal
+D949BA65:Blunt Bow
+D9322975:Blunt Bow
+DAB1F6A2:Greater Mana Stone
+D94CA166:Piercing Bow
+D956287F:Acid Bow
+DAB1F6A9:Pyreal
+DAB1F69F:Major Mana Stone
+DAB1F6A1:Major Mana Stone
+DAB1F6A3:Greater Mana Stone
+DAB1F6A4:Ring
+DAB1F6A6:Silver Pea
+DAB1F6A7:Heavy Bracelet
+DAB1F6AA:Salvaged  (43)
+DAB1F6B5:Awakener
+DAB1F6AB:Salvaged  (15)
+DAB1F6AC:Salvaged  (89)
+DAB1F6B6:Karenua's Key
+DAB1F6AD:Salvaged  (99)
+DAB1F6AE:Circlet
+DAB1F6B7:Lightning Cestus
+DAB1F6AF:Salvaged  (47)
+DAB1F6B0:Salvaged  (44)
+DAB1F6C4:Renegade Herbal Kit
+DAB1F6B1:Salvaged  (60)
+DAB1F6B2:Salvaged  (81)
+DAB1F6C7:Treated Healing Kit
+DAB1F6B3:Salvaged  (35)
+DAB1F6B4:Salvaged  (44)
+DAB1F6C8:Treated Healing Kit
+DAB1F6B8:Wrapped Bundle of Deadly Frog Crotch Arrowheads
+DAB1F6B9:Deadly Frog Crotch Arrow
+DAB1F6BA:Pants
+DAB1F6C9:Treated Healing Kit
+DAB1F6BC:Diadem
+DAB1F6BD:Lugian Hammer
+DAB1F6CA:Treated Healing Kit
+DAB1F6CB:Treated Healing Kit
+DAB1F6CC:Orb
+DAB1F6CD:Some Changes for February 2012
+DAB1F6BE:Wand
+819C87DE:Antiquated Compass
+D5F2E726:Diamond Powder
+8190D660:Diamond Powder
+DB375E4A:Acid Hatchet
+DB3974D9:Olthoi Koujia Gauntlets
+DB3974DA:Lightning Pike
+DB3974DB:Studded Leather Cuirass
+DB3974DD:Glyph of Finesse Weapons
+DB3974DC:Olthoi Alduressa Boots
+DB3974DE:Parabolic Ink
+DB045196:Cloak
+DB045197:Frost Hatchet
+DB082D21:Piercing Slingshot
+DB082D22:Olthoi Amuli Leggings
+DB082D23:Poniard
+DB082D24:Ink of Conveyance
+819C74FC:Royal Runed Mazule
+DAAB752A:Glyph of Slashing
+DB082F36:Quill of Infliction
+DB563861:Obsidian Shard
+DB044EA3:Acid Spine Glaive
+DB082F35:Ink of Formation
+DB0B701E:Crown of Bone
+DAAB752B:Glyph of Focus
+DB04BD24:Acid Crossbow
+DB044EAA:Olthoi Celdon Gauntlets
+DB044ED6:Leather Shirt
+DB082D25:Glyph of Health
+DAAA243D:Frost Wisp Essence (150)
+DAAA243C:Electric Crossbow
+DAAB7529:Olthoi Amuli Coat
+DAAB7528:Olthoi Celdon Gauntlets
+DAAA243F:Smock
+DAF3E079:War Bow
+DAA242C0:Golden Gromnie
+DAB1F6C2:Sollerets
+DAB1F6C3:Platemail Gauntlets
+DB55B090:Quintessence Sickle
+DB1B800C:Shortbow
+DB0AF851:Dansha-Ki's Ring
+DAB681B7:Elysa's Boon
+D3568670:Frost Compound Bow
+
+Missing Exports - Possessed items that were not found:

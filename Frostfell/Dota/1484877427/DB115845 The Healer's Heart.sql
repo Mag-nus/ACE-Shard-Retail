@@ -1,0 +1,71 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (3675347013, 8552, 35, 7524673) /* Caster */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (3675347013,   1,      32768) /* ItemType - Caster */
+     , (3675347013,   5,         50) /* EncumbranceVal */
+     , (3675347013,   9,   16777216) /* ValidLocations - Held */
+     , (3675347013,  16,    6291460) /* ItemUseable - SourceWieldedTargetRemoteNeverWalk */
+     , (3675347013,  18,          1) /* UiEffects - Magical */
+     , (3675347013,  19,       5400) /* Value */
+     , (3675347013,  65,        101) /* Placement - Resting */
+     , (3675347013,  93,       3092) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, LightingOn */
+     , (3675347013,  94,         16) /* TargetType - Creature */
+     , (3675347013, 106,        225) /* ItemSpellcraft */
+     , (3675347013, 107,        932) /* ItemCurMana */
+     , (3675347013, 108,       1200) /* ItemMaxMana */
+     , (3675347013, 109,        105) /* ItemDifficulty */
+     , (3675347013, 115,        245) /* ItemSkillLevelLimit */
+     , (3675347013, 151,          2) /* HookType - Wall */
+     , (3675347013, 176,         33) /* AppraisalItemSkill */
+     , (3675347013, 9015,         56) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (3675347013,   1, False) /* Stuck */
+     , (3675347013,  11, True ) /* IgnoreCollisions */
+     , (3675347013,  13, True ) /* Ethereal */
+     , (3675347013,  14, True ) /* GravityStatus */
+     , (3675347013,  15, True ) /* LightsStatus */
+     , (3675347013,  19, True ) /* Attackable */
+     , (3675347013,  22, True ) /* Inscribable */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (3675347013,   5,   -0.05) /* ManaRate */
+     , (3675347013,  29,       1) /* WeaponDefense */
+     , (3675347013,  76, 0.200000002980232) /* Translucency */
+     , (3675347013, 144,    0.05) /* ManaConversionMod */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (3675347013,   1, 'The Healer''s Heart') /* Name */
+     , (3675347013,  16, 'A magical orb found in the cathedral of Ithaenc. This artifact was crafted by Lady Adja, a member of the Yalaini Council of Five, for use by her religious order.') /* LongDesc */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (3675347013,   1,   33556909) /* Setup */
+     , (3675347013,   3,  536870932) /* SoundTable */
+     , (3675347013,   6,   67111928) /* PaletteBase */
+     , (3675347013,   8,  100671213) /* Icon */
+     , (3675347013,  22,  872415275) /* PhysicsEffectTable */
+     , (3675347013,  28,       1166) /* Spell - HealOther6 */
+     , (3675347013, 8001,  275333272) /* PCAPRecordedWeenieHeader - Value, Usable, UiEffects, Container, ValidLocations, TargetType, Burden, Spell, HookType */
+     , (3675347013, 8003,         18) /* PCAPRecordedObjectDesc - Inscribable, Attackable */
+     , (3675347013, 8005,     399361) /* PCAPRecordedPhysicsDesc - CSetup, STable, PeTable, AnimationFrame, Translucency */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (3675347013,   1, 1343492054) /* Owner */
+     , (3675347013,   2, 1343492054) /* Container */
+     , (3675347013, 8000, 3675347013) /* PCAPRecordedObjectIID */;
+
+INSERT INTO `biota_properties_spell_book` (`object_Id`, `spell`, `probability`)
+VALUES (3675347013,   170,      2) 
+     , (3675347013,   879,      2) 
+     , (3675347013,  1166,      2) 
+     , (3675347013,  1997,      2) ;
+
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
+VALUES (3675347013, 67111921, 0, 0);
+
+INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
+VALUES (3675347013, 0, 83888861, 83890391, 0);
+
+INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, `order`)
+VALUES (3675347013, 0, 16778862, 0);

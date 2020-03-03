@@ -1,0 +1,140 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-30_1485834211_log\pkt_2017-1-30_1485834211_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485323961_log\pkt_2017-1-24_1485323961_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485323961_log\pkt_2017-1-24_1485323961_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485323961_log\pkt_2017-1-24_1485323961_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485323961_log\pkt_2017-1-24_1485323961_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485323961_log\pkt_2017-1-24_1485323961_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-26_1485490956_log\pkt_2017-1-26_1485490956_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-27_1485541296_log\pkt_2017-1-27_1485541296_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-27_1485579725_log\pkt_2017-1-27_1485579725_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+
+Partial Exports - Missing appraisal info:
+C6A7EF45:Round Shield
+C710FBC8:Facility Hub Portal Gem
+C70EB4E3:Academy Cestus
+C711673C:Pack
+C6E4BA6C:Salvage (100)
+C09D5F0A:Salvaged  (100)
+C6DA4B8A:Salvage (100)
+C70FFBF2:Pyreal
+C09320C2:Salvaged  (100)
+C09C23FC:Salvaged  (100)
+C0966647:Salvaged  (100)
+C09D5F07:Salvaged  (100)
+C09C1ED4:Salvaged  (100)
+C0983B31:Salvaged  (100)
+C6CFC7F2:Salvage (100)
+C09D5F06:Salvaged  (100)
+C09A672E:Head of the Olthoi Queen
+C0965EAD:Salvaged  (100)
+C095FFCE:Salvaged  (100)
+C09A6751:The Plan
+C09B09BB:Salvaged  (100)
+C09C1E95:Salvaged  (100)
+C09A6750:Into the Unknown
+C096E394:Salvaged  (100)
+C09C23FE:Salvaged  (100)
+C09A674D:Outcast
+C09ABAD8:Salvaged  (100)
+C72291F9:Salvage (100)
+C0B81068:Outcast
+C71A8AB1:Salvage (100)
+C721874D:Salvage (100)
+C70F7CCA:Pack
+C721874C:Salvage (100)
+C74BF1A8:Salvage (100)
+C09A6F64:Salvaged  (100)
+C09ABAFD:Salvaged  (100)
+C09A674A:The Studious Mind
+C0982C21:Salvaged  (100)
+C09D5DFA:Salvaged  (100)
+C09ACA5B:Olthoi Enslavement
+C09B1814:Salvaged  (100)
+C09B189C:Salvaged  (100)
+C70FD6BE:Potion of Black Fire
+C71A35A4:Salvage (100)
+C72292B5:Salvage (100)
+C7108362:Pack
+C721874B:Salvage (100)
+C09B0F08:Salvaged  (100)
+C70F8389:Gonjoku's Mana Infusion
+C09A7CDA:Salvaged  (100)
+C0962275:Salvaged  (100)
+C70F8003:Treated Healing Kit
+C8414AC5:Salvage (100)
+C092A1EA:Salvaged  (100)
+C74E7F8D:Candy Corn
+C09D3778:Salvaged  (100)
+C09D5F02:Salvaged  (100)
+C09D5EA2:Salvaged  (100)
+C0963752:Salvaged  (100)
+C0982C0E:Salvaged  (100)
+C09D5EA1:Salvaged  (100)
+C70CE0E3:Salvage (100)
+C719A638:Salvage (100)
+C719663D:Salvage (100)
+C71A857B:Salvage (100)
+C791407E:Salvage (100)
+C0932559:Salvaged  (100)
+C7968A0E:Salvage (100)
+C719970E:Salvage (100)
+C711098E:Pack
+C7204E73:Salvage (100)
+C09B088B:Salvaged  (100)
+C09DF0A1:Salvaged  (100)
+C09DF0A4:Salvaged  (100)
+C09DF0A3:Salvaged  (100)
+C09DF0A2:Salvaged  (100)
+C09ABAE1:Salvaged  (100)
+C096AAC0:Salvaged  (100)
+C09377AB:Salvaged  (100)
+C0936D9B:Salvaged  (100)
+C09831EE:Salvaged  (100)
+C09D5D9F:Salvaged  (100)
+C09C2972:Salvaged  (100)
+C7608AFC:Salvage (100)
+C76BE273:Salvage (100)
+C78FC482:Salvage (100)
+C7116FB9:Antiquated Compass
+C8396419:Aetheria
+C7A3DF73:Aetheria
+C7AF0245:Aetheria
+C7AED3B8:Aetheria
+C820E269:Aetheria
+C710E0EC:Priceless Ore
+C71171D7:Trade Note (50,000)
+C74C0BC8:Black Luster Pearl
+C74C834D:Greater Mana Kit
+C74C111A:Black Luster Pearl
+C74AC1BD:Licorice Rat
+C74C063E:Black Luster Pearl
+C7E454E1:Chevron Cloak
+C6FF33DF:Cloak
+C6A7EF44:Quarrel
+C7AF0F54:Quartered Cloak
+C6CCB185:Bordered Cloak
+C7234A52:Halved Cloak
+C7153763:Halved Cloak
+C72D2DA8:Bordered Cloak
+C741C754:Halved Cloak
+C718B649:Quartered Cloak
+C718D310:Chevron Cloak
+C6C304C5:Bordered Cloak
+C6E1FA68:Quartered Cloak
+C6BEB3D4:Quartered Cloak
+C72174EE:Chevron Cloak
+C6DDA900:Bordered Cloak
+C719F65F:Chevron Cloak
+C7367AB6:Bordered Cloak
+C7154C82:Chevron Cloak
+C82FE599:Halved Cloak
+C8526644:Chevron Cloak
+C837DBD6:Chevron Cloak
+
+Missing Exports - Possessed items that were not found:

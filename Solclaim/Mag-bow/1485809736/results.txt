@@ -1,0 +1,84 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-30_1485809436_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-25_1485367910_log.pcap
+
+Partial Exports - Missing appraisal info:
+9C6708FC:Major Mana Stone
+9C670929:Pack
+9C6708FE:Deadly Armor Piercing Arrow
+9C670904:Major Mana Stone
+9C670906:Olthoi Acid Arrow
+9C67091E:Wrapped Bundle of Deadly Blunt Arrowheads
+9C670930:Wrapped Bundle of Arrowshafts
+9C670939:Massive Mana Charge
+9C6708FD:Wrapped Bundle of Greater Deadly Blunt Arrowheads
+9C64F514:Enhanced Yellow Empyrean Ring
+9C670905:Deadly Blunt Arrow
+9C670927:Acid Nekode
+9C67092F:Pack
+9C670926:Massive Mana Charge
+9C67091C:Massive Mana Charge
+9C67092E:Major Mana Stone
+9C670938:Major Mana Stone
+9C67091B:Major Mana Stone
+9C67092D:Major Mana Stone
+9C670925:Massive Mana Charge
+9C66A015:Major Mana Stone
+9C670937:Major Mana Stone
+9C670924:Massive Mana Charge
+9C67091A:Massive Mana Charge
+9C66880A:Massive Mana Charge
+9C6687E9:Massive Mana Charge
+9C66EF83:Massive Mana Charge
+9C6687E1:Massive Mana Charge
+9C67092C:Massive Mana Charge
+9C670940:Massive Mana Charge
+9C670936:Massive Mana Charge
+9C670923:Massive Mana Charge
+9C670919:Massive Mana Charge
+9C670978:Gold Pea
+9C67092B:Pack
+9C670935:Pyreal Scarab
+9C67093F:Gold Scarab
+9C64F6B8:Silver Scarab
+9C670934:Copper Scarab
+9C67093E:Treated Healing Kit
+9C64F66C:Treated Healing Kit
+9C670946:Treated Healing Kit
+9C67093D:Treated Healing Kit
+9C670933:Stamina Philtre
+9C670945:Health Philtre
+9C670947:Treated Healing Kit
+9C670932:Treated Healing Kit
+9C67093C:Prismatic Taper
+9C670944:Platinum Scarab
+9C670950:Platinum Scarab
+9C67090C:Pack
+9C67093B:Blackmoor's Favor
+9C670943:Colosseum Coin
+9C670956:Ancient Mhoire Coin
+9C67094F:Pyre Skeleton Jaw
+9C669F89:Swamp Stone
+9C67095F:Ust
+9C64F441:Trade Note (10,000)
+9C670955:Trade Note (50,000)
+9C67094E:Foci of Enchantment
+9C670967:Foci of Verdancy
+9C66A00F:Foci of Artifice
+9C670954:Spectral Chill Arrow
+9C67095C:Weeping Bow
+9C67094C:Deadly Frog Crotch Arrow
+9C670965:Raider Lightning Arrow
+9C67096E:Chef's Crystal
+9C66A034:Acid Bow
+9C670952:Acid Compound Bow
+9C67094B:Piercing Compound Bow
+9C670973:Slashing Compound Bow
+9C67096D:Piercing Compound Bow
+9C670964:Frost Bow
+9C67095B:Slashing Bow
+9C66A021:Soul Bound Bow
+
+Missing Exports - Possessed items that were not found:

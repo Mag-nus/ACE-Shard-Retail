@@ -1,0 +1,127 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-29_1485742927_\pkt_2017-1-29_1485742927_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-28_1485660650_\pkt_2017-1-28_1485660650_log.pcap
+
+Partial Exports - Missing appraisal info:
+DCAF49BB:Foci of Verdancy
+DCAF49BC:Foci of Artifice
+DCAF49BD:Foci of Enchantment
+DCAF49BE:Foci of Strife
+DCAF49C1:Adventurer's Token
+DCAF49C2:Ancient Mhoire Coin
+DCAF49C3:Small Olthoi Venom Sac
+DCAF49CA:Forager Captain's Resonator
+DCAF49C6:Ornate Gear Marker
+DCAF49C7:Baggy Breeches
+DCAF49CB:Stipend
+DCAF49C8:Intricate Carving Tool
+DCAF49C9:Aetheria
+DCAF49CD:Ust
+DCAF49CE:Gold Scarab
+DCAF49CF:Blackmoor's Favor
+DCAF49D1:Sketch of a Viamontian
+DCAF49D0:Celdiseth's Portal Gem
+DCAF49D2:Fire K'nath Essence (100)
+DCAF49D4:Salvage (30)
+DCAF49E1:Copper Scarab
+DCAF49D5:Salvage (10)
+DCAF49D6:Salvage (22)
+DCAF49D9:A'nekshay Token
+DCAF49DC:Ring
+DCAF49DA:Baggy Shirt
+DCAF49DB:Frost K'nath Essence (125)
+DCAF49DD:Sturdy Steel Keyring
+DCAF49DE:Aetheria Mana Stone
+DCAF49DF:Aligned Mana Stone
+DCAF49E0:Trade Note (250,000)
+DCAF49E2:Coronet
+DCAF49E3:Diadem
+DCAF49E4:Heavy Bracelet
+DCAF49E5:Shou-jen Shozoku Mask
+DCAF49E6:Shou-jen Jika-Tabi
+DCAF49E7:Fire Baton
+DCAF49EB:Massive Mana Charge
+DCAF49EC:Massive Mana Charge
+DCAF49EF:Massive Mana Charge
+DCAF49F0:Salvage (44)
+DCAF49F1:Salvage (8)
+DCAF49F2:Salvage (7)
+DCAF49F3:Salvage (14)
+DCAF49F5:Salvage (11)
+DCAF49FC:Pyreal
+DCAF4A04:Colosseum Coin
+DCAF4A01:Prismatic Taper
+DCAF4A02:Heavy Bracelet
+DCAF4A03:Olthoi Ripper Reducer Plaque
+DCAF4A05:Encapsulated Spirit
+DCAF4A06:Heavy Bracelet
+DCAF4A07:Gold Golem Essence
+DCAF4A3B:Titan Mana Charge
+DCAF4A0A:Aetheria
+DCAF4A10:Golden Shuriken of Tanada
+DCAF4A11:Golden Shuriken of Tanada
+DCAF4A12:Golden Shuriken of Tanada
+DCAF4A13:Teardrop Crown
+DCAF4A14:Golden Shuriken of Tanada
+DCAF4A15:Salvage (66)
+DCAF4A17:Salvage (100)
+DCAF4A22:Prismatic Taper
+DCAF4A18:Salvage (100)
+DCAF4A3C:Titan Mana Charge
+DCAF4A1A:Salvage (66)
+DCAF4A1B:Salvage (11)
+DCAF4A23:Platinum Scarab
+DCAF4A1C:Salvage (100)
+DCAF4A1D:Salvage (100)
+DCAF4A3D:Titan Mana Charge
+DCAF4A1E:Salvage (100)
+DCAF4A1F:Salvage (60)
+DCAF4A3E:Titan Mana Charge
+DCAF4A20:Salvage (41)
+DCAF4A3F:Titan Mana Charge
+DCAF4A24:Acid Child Essence (125)
+DCAF4A25:Salvage (60)
+DCAF4A26:Salvage (22)
+DCAF4A27:Salvage (100)
+DCAF4A41:Olthoi Slayer Carapace
+DCAF4A28:Salvage (100)
+DCAF4A29:Salvage (100)
+DCAF4A47:Olthoi Ripper Spine
+DCAF4A2A:Salvage (80)
+DCAF4A2B:Salvage (77)
+DCAF4A51:Olthoi Slasher Carapace
+DCAF4A2C:Salvage (66)
+DCAF4A2D:Salvage (100)
+DCAF4A2E:Salvage (23)
+DCAF4A2F:Salvage (100)
+DCAF4A30:Salvage (100)
+DCAF4A31:Salvage (12)
+DCAF4A32:Salvage (46)
+DCAF4A33:Salvage (81)
+DCAF4A35:Salvage (55)
+DCAF4A36:Salvage (100)
+DCAF4A38:Salvage (86)
+DCAF4A39:Salvage (51)
+DCAF4A40:Aetheria
+DCAF4A42:Salvage (44)
+DCAF4A43:Salvage (11)
+DCAF4A44:Salvage (11)
+DCAF4A45:Salvage (100)
+DCAF4A46:Salvage (79)
+DCAF4A48:Salvage (62)
+DCAF4A49:Salvage (100)
+DCAF4A4A:Salvage (11)
+DCAF4A4B:Salvage (82)
+DCAF4A4C:Salvage (100)
+DCAF4A4D:Salvage (96)
+DCAF4A4E:Salvage (11)
+DCAF4A4F:Salvage (32)
+DCAF4A50:Salvage (22)
+DCAF4A52:Salvage (100)
+DCAF4A54:Fire Child Essence (180)
+DCAF4A5A:Lyceum Hood
+DCE96662:Modified Iasparailaun
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,38 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\asherons-call-newer\pkt_2017-1-30_1485845255_log.pcap
+
+Partial Exports - Missing appraisal info:
+AEC10E74:Pyreal
+AEC10E3A:Foci of Artifice
+AEC10E3E:Lead Scarab
+AEC10E3F:Iron Scarab
+AEC10E41:Trade Note (100,000)
+AEC10E42:Trade Note (1,000)
+AEC10E43:Trade Note (10,000)
+AEC10E44:Copper Scarab
+AEC10E45:Monougat
+AEC10E48:Silver Scarab
+AEC10E49:Prismatic Taper
+AEC10E4A:Sturdy Iron Key
+AEC10E4C:Brown Beans
+AEC10E4E:Lead Pea
+AEC10E56:Necklace
+AEC10E57:Bracelet
+AEC10E58:Heavy Bracelet
+AEC10E66:Plain Healing Kit
+AEC10E69:Gem
+AEC10E6A:Gem
+AEC10E70:Copper Scarab
+AEC10E71:Bracelet
+AEC10E72:Ring
+AEC10E73:Mana Potion
+AEC10E75:Pyreal
+AEC10E76:Mana Potion
+AEC10E79:A Lump of Coal
+AEC10E7C:Magic Iceball
+AEC10E80:Silver Scarab
+AEC10E7D:Gem
+AEC10E7F:Health Draught
+AEC10E85:Lead Pea
+
+Missing Exports - Possessed items that were not found:

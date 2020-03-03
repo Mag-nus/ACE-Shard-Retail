@@ -1,0 +1,102 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\pkt_2017-1-30_1485843220_desc\pkt_2017-1-30_1485840494_log.pcap
+
+Partial Exports - Missing appraisal info:
+DBB0268F:Smock
+DBB14360:Pyreal
+DBB02EB9:Sack
+DBB02EBC:Health Draught
+DBAEF11D:Healing Tonic
+DBAEF11E:Scroll of Bludgeoning Vulnerability Other III
+DBAEF11C:Mana Draught
+DBAEF0F4:Potion of Healing
+DBAEF24E:Pack
+DBAEF10A:Turquoise Taper
+DBAEF06C:Violet Taper
+DBAEBD38:Grey Taper
+DBAEBD39:Orange Taper
+DBAEBD24:Pink Taper
+DBAEBD2F:Yew Talisman
+DBAEBD37:Willow Talisman
+DBAEBD2E:Hemlock Talisman
+DBAEBCF8:Cedar Talisman
+DBAEBD31:Birch Talisman
+DBAEF123:Alder Talisman
+DBB0269C:Lead Scarab
+DBB0269D:Brown Taper
+DBB0269B:Ebony Talisman
+DBB026A0:Ashwood Talisman
+DBB026A1:Iron Scarab
+DBB026A2:Poplar Talisman
+DBB0269F:Blue Taper
+DBB1431F:Red Taper
+DBB14320:White Taper
+DBB14321:Green Taper
+DBB14322:Indigo Taper
+DBB14323:Copper Scarab
+DBB14324:Oak Talisman
+DBB14325:Pack
+DBB14326:Verdigris
+DBB14327:Vitriol
+DBB14328:Stibnite
+DBB1432B:Gypsum
+DBB14329:Realgar
+DBB1432A:Quicksilver
+DBB14340:Pack
+DBB1432C:Cinnabar
+DBB1432D:Brimstone
+DBB14336:Cobalt
+DBB1432E:Powdered Amber
+DBB1432F:Wormwood
+DBB14349:Sack
+DBB14330:Mugwort
+DBB14331:Mandrake
+DBB14354:Sack
+DBB14332:Hyssop
+DBB14333:Ginseng
+DBB1433B:Cadmia
+DBB14334:Dragonsblood
+DBB14335:Damiana
+DBB14362:Pack Bael'Zharon
+DBB14337:Colcothar
+DBB14338:Saffron
+DBB1433E:Ring
+DBB14339:Turpeth
+DBB1433A:Powdered Onyx
+DBB1433F:Bracelet
+DBB1433C:Hawthorn
+DBB1433D:Breeches
+DBB14357:Pack
+DBB14341:Trade Note (500)
+DBB14342:Trade Note (100)
+DBB14343:Sandals
+DBB14344:Ring
+DBB14345:Chainmail Coif
+DBB14346:Heavy Bracelet
+DBB14347:Heavy Bracelet
+DBB14348:Staff
+DBB1434A:Trade Note (5,000)
+DBB1434B:Trade Note (5,000)
+DBB1434C:Trade Note (5,000)
+DBB1434D:Trade Note (5,000)
+DBB1434E:Trade Note (500)
+DBB1434F:Trade Note (1,000)
+DBB14350:Trade Note (1,000)
+DBB14351:Trade Note (100)
+DBB14352:Trade Note (500)
+DBB14353:Trade Note (1,000)
+DBB14355:Orb
+DBB14356:Gharu'ndim Wand
+DBB14358:Hazel Talisman
+DBB14359:Khanjar
+DBB1435A:Amuli Leggings
+DBB1435B:Koujia Sleeves
+DBB1435C:Large Armoredillo Hide
+DBB14361:Takuba
+DBB1435D:Wand
+DBB1435F:Sollerets
+DBB14364:Some Changes for February 2012
+DBB1435E:Pack Idol
+DBB14363:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

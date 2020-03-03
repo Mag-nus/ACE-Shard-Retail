@@ -1,0 +1,23 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Granis-2017-01-31_last_hours\pkt_2017-1-31_1485877928_log.pcap
+
+Partial Exports - Missing appraisal info:
+AF71D222:Flared Tunic
+AF71D221:Flared Pants
+AF71D220:Leather Boots
+AF71D21F:Pyreal
+AF71D21E:Sack
+AF71D21D:Ust
+AF71D21C:Calling Stone
+AF71D21B:Training Cestus
+AF71D21A:Foci of Strife
+AF71D219:Prismatic Taper
+AF71D218:Lead Scarab
+AF71D217:Handy Healing Kit
+AF71D216:Letter From Home
+AF71D215:Apple
+AF71D214:Some Changes for February 2012
+AF71D212:Blackmoor's Favor
+AF71D213:Training Wand
+
+Missing Exports - Possessed items that were not found:

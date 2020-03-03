@@ -1,0 +1,63 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-31-2017-pkt_2017-1-31_1485876077_log\pkt_2017-1-31_1485876077_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-29-2017-pkt_2017-1-29_1485735637_log\pkt_2017-1-29_1485735637_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-29-2017-pkt_2017-1-29_1485735637_log\pkt_2017-1-29_1485735637_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-30-2017-pkt_2017-1-30_1485820095_log\pkt_2017-1-30_1485820095_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-30-2017-pkt_2017-1-30_1485820095_log\pkt_2017-1-30_1485820095_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-30-2017-pkt_2017-1-30_1485820095_log\pkt_2017-1-30_1485820095_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-29-2017-pkt_2017-1-29_1485737568_log\pkt_2017-1-29_1485737568_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-30-2017-pkt_2017-1-30_1485829515_log\pkt_2017-1-30_1485829515_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-30-2017-pkt_2017-1-30_1485835221_log\pkt_2017-1-30_1485835221_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-30-2017-pkt_2017-1-30_1485839840_log\pkt_2017-1-30_1485839840_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-29-2017-pkt_2017-1-29_1485744836_log\pkt_2017-1-29_1485744836_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-29-2017-pkt_2017-1-29_1485744836_log\pkt_2017-1-29_1485744836_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-29-2017-pkt_2017-1-29_1485744836_log\pkt_2017-1-29_1485744836_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-30-2017-pkt_2017-1-30_1485809700_log\pkt_2017-1-30_1485809700_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-31-2017-pkt_2017-1-31_1485847270_log\pkt_2017-1-31_1485847270_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-31-2017-pkt_2017-1-31_1485847270_log\pkt_2017-1-31_1485847270_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-31-2017-pkt_2017-1-31_1485847270_log\pkt_2017-1-31_1485847270_log.pcap
+
+Partial Exports - Missing appraisal info:
+BE828061:Foci of Verdancy
+BE76E6A0:Foci of Strife
+BE828059:Foci of Artifice
+BE7E4EC0:Foci of Enchantment
+BE7E59B7:Silver Scarab
+BE8267B6:Lead Scarab
+BE8267B7:Copper Scarab
+BE8267B8:Diamond Scarab
+BE8267B9:Gold Scarab
+BE8267B5:Iron Scarab
+BE7DC967:Pyreal Scarab
+BE7E1071:Ust
+BE8106D3:Chorizite
+BE828055:Black Coral
+BE80ADF2:Trade Note (250,000)
+C844D8A2:Prismatic Taper
+C844D8A1:Prismatic Taper
+BE828049:Pyre Shroud
+BE80C21A:Bloodroot Vine
+C8423320:Elemental Talisman
+BE82802C:Unreadable Falatacot Volume
+C7C436C2:Ancient Armored Helm
+BE842292:Pyreal
+BE8278C9:Blighted Mana Crystal
+C7C436A5:Ice Heaume of Frore
+C84A4CBE:Stipend
+C7C436BF:Ancient Armored Bracers
+C85CB9A4:Colosseum Coin
+C85CAA90:Fortified Mana Forge Key
+C7C436C1:Ancient Armored Vestment
+C7C436C0:Ancient Armored Leggings
+C847DF53:Pyreal
+C7A47085:Empowered Girth of the Perfect Light
+BE827FCC:Major Mana Stone
+BE80BE9A:Major Mana Stone
+BE84229E:Major Mana Stone
+C7C4368A:Virindi Shroud
+C85FBDE1:Tome of Flame
+C864289D:Aerbax's Defeat
+
+Missing Exports - Possessed items that were not found:

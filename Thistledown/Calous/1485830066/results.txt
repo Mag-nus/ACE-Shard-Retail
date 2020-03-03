@@ -1,0 +1,75 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-30-to-1-31\Bliz 1-30 to 1-31\pkt_2017-1-30_1485830059_log.pcap
+
+Partial Exports - Missing appraisal info:
+882B2FCC:Pyreal
+882B2FCF:Flared Pants
+882B2FD0:Flared Shirt
+882B2FCE:Chainmail Gauntlets
+882B2FCD:Pack
+882B2FCB:Ust
+882B2FCA:Sturdy Iron Key
+882B2FC9:Sturdy Iron Key
+882B2FC8:Gold Pea
+882B2FC7:Copper Pea
+882B2FC6:Major Mana Stone
+882B2FC5:Untranslated Page #20
+882B2FC4:Korua
+882B2FC3:Buadren
+882B2FC2:Greater Armor Piercing Arrow
+882855DD:Dirk
+882855C6:Dirk
+88195A29:Deadly Acid Arrow
+882855D6:Elysa's Favor
+882855C1:Shouyumi
+882855BF:Blunt Bow
+88249E76:Deadly Chorizite Arrow
+882856F5:Asheron's Benediction
+882856BE:Pyreal
+8828568D:Pack Ancient Olthoi Queen
+88282907:Blackmoor's Favor
+88282906:Decanter of Essence
+8822C5F5:Lilitha's Bow
+88282905:Concentrated Aqua Incanta
+88282908:Light Crossbow
+88282903:Fiun Spellcasting Gloves
+88282902:Banderling Predator Backpack
+88282901:War Hammer
+88282904:War Hammer
+88285726:Flaming War Hammer
+8828572A:War Hammer
+88285747:Quarter Staff
+8822F934:Trade Health Elixir
+8822F872:Palenqual's Panaq of the Vortex
+882853A4:Shortbow
+88285745:Some Changes for February 2012
+88285785:Pack
+882855CD:Pack
+8828577D:Frost Staff
+8823110C:Heavy Bracelet
+8828578F:Ring
+8828578E:Puffy Tunic
+8823126E:Heavy Necklace
+88285786:Bunny Slippers
+88230E79:Pack
+88251201:Teardrop Crown
+88285796:Frost Takuba
+882311C1:Circlet
+882828AE:Acid Staff
+882828AD:Compass
+882828AC:Frost Staff
+882541DA:Blunt Staff
+882853A8:Fiun Spellcasting Gloves
+882828AF:Ring
+88281F17:Ring
+882853A5:Sollerets
+882853A6:Flared Pants
+882853A7:Shirt
+882853A9:Baggy Tunic
+882853AA:Sceptre
+882856F8:Stipend
+882853AB:Greater Armor Piercing Arrow
+8828579C:Purple Marshmallow Eep
+882857F0:Teleportation Device
+
+Missing Exports - Possessed items that were not found:

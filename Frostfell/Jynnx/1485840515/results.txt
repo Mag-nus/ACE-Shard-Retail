@@ -1,0 +1,146 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\pkt_2017-1-30_1485843220_desc\pkt_2017-1-30_1485840494_log.pcap
+
+Partial Exports - Missing appraisal info:
+DA9BA9AE:Sollerets
+DA9BA9AF:Necklace
+DA9BA9B0:Ring
+DA9BA9B1:Sack
+DA9BA9B2:Lead Scarab
+DA9BA9B3:Bistort
+DA9BA9B4:Wormwood
+DA9BA9B5:Mugwort
+DA9BA9BB:Sack
+DA9BA9B6:Mandrake
+DA9BA9B7:Hyssop
+DA9BA9BA:Baigha
+DA9BA9B8:Saffron
+DA9BA9B9:Ginseng
+DA9BA9C7:Sack
+DA9BA9BC:Cinnabar
+DA9BA9BD:Quicksilver
+DA9BA9D2:Sack
+DA9BA9BE:Stibnite
+DA9BA9BF:Turpeth
+DA9BA9C2:Cobalt
+DA9BA9C0:Verdigris
+DA9BA9C1:Vitriol
+DA9BA9C5:Gypsum
+DA9BA9C3:Brimstone
+DA9BA9C4:Colcothar
+DA9BA9C8:Trade Note (1,000)
+DA9BA9C6:Realgar
+DA9BA9C9:Trade Note (1,000)
+DA9BA9CA:Trade Note (100)
+DA9BA9CB:Trade Note (500)
+DA9BA9CC:Trade Note (1,000)
+DA9BA9CD:Trade Note (1,000)
+DA9BA9CE:Trade Note (1,000)
+DA9BA9CF:Trade Note (500)
+DA9BA9D0:Trade Note (1,000)
+DA9BA9D1:Trade Note (500)
+DA9BA9D3:Ring
+DA9BA9D4:Ring
+DA9BA9D5:Gorget
+DA9BA9D6:Bracelet
+DA9BA9D7:Ring
+DA9BA9D8:Ring
+DA9BA9D9:Necklace
+DA9BA9DA:Bracelet
+DA9BA9DB:Gorget
+DA9BA9DC:Ebony Talisman
+DA9BA9DD:Hemlock Talisman
+DA9BA9DE:Cedar Talisman
+DA9BA9DF:Alder Talisman
+DA9BA9E0:Willow Talisman
+DA9BA9E1:Yew Talisman
+DA9BA9E2:Chainmail Gauntlets
+DA9BA9E3:Pyreal
+DA9BA9E4:Powdered Turquoise
+DA9BA9E5:Powdered Amber
+DA9BA9EB:Lead Scarab
+DA9BA9E6:Powdered Onyx
+DA9BA9E7:Gypsum
+DA9BA9E8:Stibnite
+DA9BA9E9:Verdigris
+DA9BA9EA:Ashwood Talisman
+DA9BA9EC:Wormwood
+DA9BA9ED:Bistort
+DA9BA9EE:Hawthorn
+DA9BA9F3:Sack
+DA9BA9EF:Saffron
+DA9BA9F0:Damiana
+DA9BA9FA:Small Mana Charge
+DA9BA9F1:Brimstone
+DA9BA9F2:Realgar
+DA9BA9F4:Trade Note (1,000)
+DA9BA9F5:Trade Note (1,000)
+DA9BA9F6:Trade Note (1,000)
+DA9BA9F7:Trade Note (1,000)
+DA9BA9F8:Trade Note (1,000)
+DA9BA9F9:Bracelet
+DA9BA9FB:Acid Tachi
+DA9BA9FC:Trade Note (1,000)
+DA9BA9FD:Trade Note (500)
+DA9BA9FF:Trade Note (500)
+DA9BA9FE:Pantaloons
+DA9BAA00:Amulet
+DA9BAA01:Flaming Takuba
+DA9BAA02:Pyreal
+DA9BAA03:Small Mana Charge
+DA9BAA04:Small Mana Charge
+DA9BAA05:Small Mana Charge
+DA9BAA06:Pack
+DA9BAA07:Orb
+DA9BAA08:Scroll of War Magic Mastery Other II
+DA9BAA09:Orb
+DA9BAA0A:Flaming Takuba
+DA9BAA0B:Fiery Shield
+DA9BAA0C:Lightning Katar
+DA9BAA0D:Heavy Crossbow
+DA9BAA0E:Flaming Tachi
+DA9BAA0F:Flaming Tachi
+DA9BAA10:Acid Tachi
+DA9BAA11:Lightning Nekode
+DA9BAA12:Flaming Katar
+DA9BAA13:Flaming Ken
+DA9BAA14:Katar
+DA9BAA15:Acid Nekode
+DA9BAA16:Frost Nekode
+DA9BAA17:Nekode
+DA9BAA18:Broad Sword
+DA9BAA19:Lightning Takuba
+DA9BAA1A:Acid Takuba
+DA9BAA1B:Lightning Takuba
+DA9BAA1C:Sack
+DA9BAA1D:Staff
+DA9BAA1E:Staff
+DA9BAA1F:Superior Helmet
+DA9BAA20:Superior Helmet
+DA9BAA21:Acid Takuba
+DA9BAA22:Heavy Crossbow
+DA9BAA23:Nekode
+DA9BAA24:Nekode
+DA9BAA25:Lightning Cestus
+DA9BAA26:Chainmail Leggings
+DA9BAA27:Platemail Cuirass
+DA9BAA28:Yumi
+DA9BAA29:Chainmail Hauberk
+DA9BAA2A:Chainmail Gauntlets
+DA9BAA2B:Chainmail Gauntlets
+DA9BAA37:Pack Bael'Zharon
+DA9BAA2C:Large Round Shield
+DA9BAA2D:Koujia Sleeves
+DA9BAA39:Some Changes for February 2012
+DA9BAA2E:Amuli Leggings
+DA9BAA2F:Chainmail Shirt
+DA9BAA30:Scalemail Cuirass
+DA9BAA31:Chainmail Sleeves
+DA9BAA32:Heavy Crossbow
+DA9BAA33:Gharu'ndim Wand
+DA9BAA35:Yoroi Breastplate
+DA9BAA34:Chain Mail Basinet
+DA9BAA38:Blackmoor's Favor
+DA9BAA36:Pack Drudge
+
+Missing Exports - Possessed items that were not found:

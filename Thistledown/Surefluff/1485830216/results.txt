@@ -1,0 +1,83 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-30-to-1-31\Bliz 1-30 to 1-31\pkt_2017-1-30_1485830131_log.pcap
+
+Partial Exports - Missing appraisal info:
+869CC8EC:Smock
+869CC8F7:Trousers
+869CC920:Pyreal
+869CC940:Sack
+869CC93F:Academy Library Key
+869CC938:Ust
+869CC910:Calling Stone
+869CC273:Handy Healing Kit
+869CC901:Handy Healing Kit
+86A05628:Letter From Home
+86A05605:Bread
+86A05650:Blackmoor's Favor
+86746304:Pack
+86767284:Pack
+86A05616:Pack
+86A0561F:Pack
+86A05497:Pack
+86A0547A:Pack
+869BEF05:Potion of Healing
+8692ABCF:Facility Hub Portal Gem
+869CC8E8:Pathwarden Scale Hauberk
+869E8616:Pathwarden Scale Leggings
+869CC8B3:Pathwarden Sollerets
+869CC8A6:Great Mana Charge
+869A1214:Pathwarden Gauntlets
+869CC8D0:Pathwarden Helm
+869CC8A7:Pathwarden Trinket
+869CC8AB:Sturdy Iron Key
+86A05615:A List of Items
+86A05645:Acid Wisp Essence (50)
+86A0CE65:Lightning Stick
+86A0CE66:Trident
+86A0CE6B:Bulletin
+86A0CE67:Frost Morning Star
+86A0CE68:Academy Cestus
+86A0CE70:Key
+86A0CE69:Academy Cestus
+86A0CE6A:Long Sword
+86A0CE71:Wood Heart
+86A0CE6C:Mara's Healing Pie
+86A0CE6D:Acid Partizan
+86A0CE74:Key
+86A0CE6E:Flanged Mace
+86A0CE6F:Acid War Axe
+86A0CE77:Pyreal
+86A0CE72:Acid Spine Glaive
+86A0CE73:Acid War Axe
+86A0CE82:Adept Healing Kit
+86A0CE75:Dull Dagger
+86A0CE76:Ruminations on Portal Creation
+86A0CE78:Morning Star
+86A0CE79:Fire Elemental Essence (50)
+86A0CE7A:Acid Grievver Essence (50)
+86A0CE7B:Ice Tachi
+86A0CE7C:Ice Tachi
+86A0CE7D:Lightning Flanged Mace
+86A0CE7E:Excellent Lockpick
+86A0CE7F:Lightning Dirk
+86A0CE83:Adept Healing Kit
+86A0CE80:Flaming Dirk
+86A0CE81:Lilitha's Bow
+86A0CE84:Adept Healing Kit
+86A0CE85:Adept Healing Kit
+86A0CE86:Adept Healing Kit
+86A0CE87:Nabut
+86A0CE88:Trothyr's Rest Key
+86A0CE89:A Ring of Acid Protection
+86A0CE8A:Trade Note (50,000)
+86A0CE8B:Treated Healing Kit
+86A0CE8C:Treated Healing Kit
+86A0CE8D:Trothyr's War Hammer
+86A0CE8E:Nabut
+86A0CE91:Stipend
+86A0CE8F:Ruschk Hunter Leggings
+86A0CE90:Aphus Lassel Portal Gem
+86A0CE92:Tibri's Fire Spear
+86A0CE93:Tibri's Fire Spear
+
+Missing Exports - Possessed items that were not found:

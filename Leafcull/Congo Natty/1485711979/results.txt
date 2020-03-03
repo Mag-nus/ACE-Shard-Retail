@@ -1,0 +1,101 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\AC-Packet-Data-Jungle-Souljah-LC\pkt_2017-1-29_1485710532_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\AC-Packet-Data-Jungle-Souljah-LC\pkt_2017-1-29_1485691384_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\AC-Packet-Data-Jungle-Souljah-LC\pkt_2017-1-29_1485691384_log.pcap
+
+Partial Exports - Missing appraisal info:
+8F24B20E:Salvaged  (100)
+8F24B20F:Salvaged  (100)
+8F24B210:Salvaged  (100)
+8F24B211:Salvaged  (100)
+8F24B21A:Snowman
+8F24B212:Salvaged  (86)
+8F24B213:Salvaged  (100)
+8F24B21F:Grievver Tibia
+8F24B214:Salvaged  (100)
+8F24B215:Salvaged  (100)
+8F24B21B:Shadow's Garb
+8F24B216:Salvaged  (100)
+8F24B217:Salvaged  (55)
+8F24B224:Ust
+8F24B21E:Ring of the Watchman
+8F24B220:Ursuin Hide Helmet
+8F24B21C:Inviso Mask
+8F24B284:Smock
+8F24B21D:Mattekar Hide Coat
+8F24B219:Ursuin Hide Helmet
+8F24B222:Splitting Tool
+8F24B223:Trade Health Elixir
+8F24B225:Tart Apple
+8F24B226:Rithwic Portal Gem
+8F24B227:Handy Healing Kit
+8F24B228:Prismatic Taper
+8F24B229:Scroll of Summon Primary Portal I
+8F24B22A:Copper Scarab
+8F24B22B:Pyreal Scarab
+8F24B22C:Silver Scarab
+8F24B22D:Stone Tool
+8F24B22E:Iron Scarab
+8F24B22F:Purple Marshmallow Eep
+8F24B230:Blackmoor's Favor
+8F24B231:Foci of Artifice
+8F24B234:Gem
+8F24B235:Gem
+8F24B236:Wedding Cake Knife
+8F24B237:Slice of Wedding Cake
+8F24B23B:Peerless Lockpick
+8F24B238:Emblem of Marriage
+8F24B239:Ring
+8F24B23A:Ring
+8F24B23C:Peerless Lockpick
+8F24B23D:Gem
+8F24B23E:Bistort
+8F24B23F:Snowflower
+8F24B240:Parchment
+8F24B241:Parchment
+8F24B243:Wood
+8F24B242:Parchment
+8F24B245:Salvaged  (100)
+8F24B246:Salvaged  (100)
+8F24B260:Pyreal
+8F24B248:Salvaged  (100)
+8F24B249:Salvaged  (100)
+8F24B261:Pyreal
+8F24B24A:Salvaged  (100)
+8F24B24B:Salvaged  (100)
+8F24B265:Stipend
+8F24B24C:Salvaged  (100)
+8F24B24E:Salvaged  (100)
+8F24B266:Mysterious Note
+8F24B250:Salvaged  (100)
+8F24B267:Tusker Wand
+8F24B255:Salvaged  (100)
+8F24B257:Salvaged  (100)
+8F24B258:Salvaged  (100)
+8F24B25B:Trade Note (50,000)
+8F24B25C:Plentiful Healing Kit
+8F24B25D:Plentiful Healing Kit
+8F24B25E:Trade Note (200,000)
+8F24B25F:Trade Note (10,000)
+8F24B269:Banderling Aggressor Backpack
+8F24B264:Perfect Shimmering Isparian Staff
+8F24B26E:Salvage (100)
+8F24B27F:Flaming Skull
+8F24B274:Salvaged  (100)
+8F24B275:Salvaged  (100)
+8F24B276:Salvaged  (100)
+8F24B278:Salvage
+8F24B27D:Yumi
+8F24B27A:Salvage (100)
+8F24B285:Lead Pea
+8F24B27E:Light Crossbow
+8F24B282:Bracelet
+8F24B289:Battle Axe
+8F24B28A:Superior Helmet
+8F24B28B:The Healer's Heart
+8F24B28C:Frost Nabut
+8F24B268:Trade Note (250,000)
+
+Missing Exports - Possessed items that were not found:

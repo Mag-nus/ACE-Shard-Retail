@@ -1,0 +1,127 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\AC-Packet-Captures\AC Packet Captures\pkt_2017-1-28_1485658926_log.pcap
+
+Partial Exports - Missing appraisal info:
+92BCEDBA:Sack
+92BCEDBB:Ust
+92BCEDBC:Foci of Artifice
+92BCEDBD:Prismatic Taper
+92BCEDBE:Lead Scarab
+92BCEDBF:Handy Healing Kit
+92BCEDC0:Core Plating Integrator
+92BCEDC1:Core Plating Deintegrator
+92BCEDC2:Blackmoor's Favor
+92BCEDC3:Teleportation Device
+92BCEDC9:Great Mana Charge
+92BCEDCB:Pack
+92BCEDCC:Piercing Baton
+92BCEDD4:Pack
+92BCEDCD:Electric Staff
+92BCEDCE:Nether Staff
+92BCEE0A:Pyreal
+92BCEDCF:Piercing Baton
+92BCEDD0:Fire Baton
+92BCEDE0:Flaming Nekode
+92BCEDD1:Piercing Baton
+92BCEDD2:Blunt Sceptre
+92BCEDD3:Piercing Sceptre
+92BCEDD5:Lightning Corsesca
+92BCEDFE:Training Wand
+92BCEDD6:Pike
+92BCEDD7:Lightning Nodachi
+92BCEDDD:Pack
+92BCEDD8:Lightning Greataxe
+92BCEDD9:Lightning Magari Yari
+92BCEDDA:Lightning Corsesca
+92BCEDDB:Flaming Pike
+92BCEDDF:Flaming Jambiya
+92BCEDDC:Lightning Quadrelle
+92BCEDDE:Lightning Stiletto
+92BCEE1E:Stipend
+92BCEDE1:Flamberge
+92BCEDE2:Long Sword
+92BCEDE3:Pack
+92BCEDE4:Flaming Dericost Blade
+802D84E1:Epee
+92BCEDE5:Pack
+92BCEDE6:Flaming Dagger
+92BCEDE7:Lancet
+92BCEDE8:Lancet
+92BCEDE9:Lancet
+92BCEDEA:Electric Naginata
+92BCEDEB:Electric Naginata
+92BCEDEC:Budiaq
+92BCEDEE:Lancet
+92BCEDED:Flaming Lancet
+92BCEDEF:Lightning Budiaq
+92BCEDF0:Lancet
+92BCEDF1:Knife
+92BCEDF2:Electric Naginata
+92BCEDF3:Fire Naginata
+92BCEDF4:Naginata
+92BCEDF5:Fire Naginata
+92BCEDF7:Fire Naginata
+92BCEDF6:Electric Naginata
+92BCEDF8:Flaming Lancet
+92BCEDF9:Electric Naginata
+92BCEDFA:Frost Sabra
+92BCEE1C:Flaming Knife
+92BCEDFB:Lightning Budiaq
+92BCEDFC:Budiaq
+92BCEDFD:Fire Naginata
+92BCEDFF:Quest Weapon Coin
+92BCEE00:Salvage (100)
+92BCEE01:Salvage (100)
+92BCEE02:Salvage (100)
+92BCEE03:Salvage (100)
+92BCEE04:Salvage (100)
+92BCEE05:Salvage (100)
+92BCEE06:Salvage (100)
+92BCEE07:Salvage (100)
+92BCEE08:Salvage (100)
+92BCEE09:Salvage (100)
+92BCEE0B:Salvage (100)
+92BCEE0C:Salvage (100)
+92BCEE0D:Salvage (100)
+92BCEE0E:Salvage (100)
+92BCEE0F:Salvage (100)
+92BCEE10:Salvage (100)
+92BCEE11:Salvage (100)
+92BCEE12:Salvage (100)
+92BCEE13:Salvage (100)
+92BCEE14:Salvage (100)
+92BCEE15:Salvage (100)
+92BCEE16:Salvage (100)
+92BCEE17:Salvage (100)
+92BCEE18:Salvage (100)
+92BCEE19:Salvage (100)
+92BCEE1A:Salvage (100)
+92BCEE1B:Salvage (100)
+92BCEE1D:Lightning Lancet
+92BCEE1F:Salvage (100)
+92BCEE20:Salvage (100)
+92BCEE21:Salvage (100)
+92BCEE22:Salvage (100)
+92BCEE23:Salvage (100)
+92BCEE24:Salvage (100)
+92BCEE25:Salvage (100)
+92BCEE26:Salvage (100)
+92BCEE27:Salvage (100)
+92BCEE28:Salvage (100)
+92BCEE29:Salvage (100)
+92BCEE2A:Salvage (100)
+92BCEE2B:Salvage (100)
+92BCEE2C:Salvage (100)
+92BCEE2D:Salvage (100)
+92C243BF:Salvage (100)
+92BCC26B:Salvage (100)
+92C243B0:Salvage (100)
+92B90DE3:Salvage (100)
+802D8498:Salvage (100)
+802D8497:Salvage (100)
+92BC516B:Salvage (100)
+92C2EBB3:Salvage (100)
+92B9947D:Salvage (100)
+92B99F34:Salvage (100)
+
+Missing Exports - Possessed items that were not found:

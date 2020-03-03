@@ -1,0 +1,141 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-PCAP-Absolutely-Random-Gameplay\AC-pcap\pkt_2017-1-31_1485875123_log.pcap
+
+Partial Exports - Missing appraisal info:
+82A91C9F:Sack
+82A4A6DF:Yard Balloons
+82AA7957:Wallbound Niffis
+82AA7C12:Wallbound Niffis
+82B03161:Yard Balloons
+82AA60C9:Ursuin Rug
+82B03160:Zombie Butler
+82A90F38:Ursuin Toy
+81A84CAE:Zombie Butler
+82AA7CE4:Ursuin Toy
+81A83352:Ursuin Rug
+82AA6DB1:Pack
+82A913C6:Ornate Fountain
+82AA7C39:Ornate Fountain
+82A14EC3:Olthoi Resurgent
+82A4ADA2:Olthoi Resurgent
+82A917AB:Neydisa Snowglobe
+82A91871:Morgluuk's Trophy Head
+829CD96D:Morgluuk's Trophy Head
+82AA7B77:Map of Auberean
+81A83358:Map of Auberean
+82AA7BD9:Map to Burun Lair
+82A4A278:Rock
+82A91373:Map to Burun Lair
+82AA6DB2:Pack
+82A4AA21:Snow Lily
+82A9165A:Snow Lily
+82AA7BAC:Skeleton
+829CED48:Skeleton
+82A91551:Rock
+82A91287:Scarecrow
+82A15E08:Repaired Shadow Stone
+8297C817:Scarecrow
+8294B3E3:Repaired Shadow Stone
+82A919DB:Scarecrow
+82A4A1C6:Snowflake
+82A4B12B:Scarecrow
+82A012D8:Snowflake
+82A4B37F:Scarecrow
+82A9114D:Snow Tracks
+82A021A1:Scarecrow
+82A912F5:Pack
+82A920C0:Scarecrow
+82A0159F:Sunflower
+82A0261B:Sunflower
+82A4B5A5:Scarecrow
+82AA6DAE:Snowman
+82B0315E:Snowman
+82B0316E:Snowy Cabin Snowglobe
+82A41947:Snowman Snowglobe
+82A4B04E:Snowman Snowglobe
+82AA7A96:Snowmaker
+82B03179:Snowmaker
+82AA7C65:Snowy Cabin Snowglobe
+829CDCD1:Snowflower
+82A02462:Snowflower
+82A912FD:Pack
+829CE903:Plentiful Healing Kit
+829CDEA0:Plentiful Healing Kit
+82A91751:Sollerets
+82A4B336:Amuli Leggings
+82B03170:Platemail Gauntlets
+82A021EE:Pyreal Bell
+82B03172:Amuli Coat
+82B03173:Virindi Inquisitor's Mask
+82AA5FBF:Pyreal Bell
+82B03174:Blackmoor's Favor
+82B0316D:Asheron's Benediction
+82A4977B:Great BloodScorch
+829CD787:Pack
+82A4A57F:Portal to Kivik Lir's Temple
+82A4A19F:Pack
+82A9131A:Trunk of Bones
+82A91C1A:Trunk of Bones
+82A4B2E9:Tome of Blood and Bone
+82A91954:Tome of Blood and Bone
+82AA7C1A:Through the Portal Years
+82A912F2:Through the Portal Years
+82AA6DC9:Thorsten's Armor
+82A910C4:Thorsten's Armor
+82B03012:The Plan
+8294B478:Yard Balloons
+82B03013:The Plan
+82A91696:Realaidain Raiment
+82A49711:Magic Hat
+82A90A6A:Sprouting Pumpkin Vine
+82A0009F:Sprouting Pumpkin Vine
+82A9143F:Living Tome
+82A917E7:Living Tome
+82A923B9:Yard Balloons
+82A4A96B:Hood
+82AA6DAC:Amuli Coat
+82AA7D24:Pathwarden Gauntlets
+82B03022:Yard Balloons
+8298FE59:Amuli Leggings
+82B0300F:Pathwarden Sollerets
+82991BD8:Yard Balloons
+82A49F40:Yard Balloons
+829F274E:Ursuin Cub Kennel
+82A91BA8:Ursuin Cub Kennel
+82B0317B:Ursuin Cub Kennel
+82A91590:Pyreal Bell
+82AA7CC8:Wallbound Niffis
+82AA7B76:Bracelet of Strength
+82A3F980:Spectral Binding Stone
+82A0201A:Blank Augmentation Gem
+82AA6DCB:Smithy's Crystal
+82A499EF:Trade Note (250,000)
+82A91309:Blank Augmentation Gem
+82AD44CB:Stipend
+82AA7C82:Enhanced Red Empyrean Ring
+82A004A7:Enhanced Yellow Empyrean Ring
+82A90C71:Coalesced Aetheria
+82A91101:Blank Augmentation Gem
+82A4B88F:Coalesced Aetheria
+829CD28C:Top
+82B03171:Ring
+82A4B78B:Coalesced Aetheria
+8299206B:Coalesced Aetheria
+82A90438:Blank Augmentation Gem
+82B03167:Coalesced Aetheria
+825FF3C1:Cowl
+82A9035E:Colosseum Coin
+
+Missing Exports - Possessed items that were not found:
+9B4F0E33
+82A01F83
+8294B3C4
+82A49945
+82AB612D
+82A00324
+82B0317A
+82AA6DDF
+82A91663
+82AA7C78
+829CE410
+82A4B041

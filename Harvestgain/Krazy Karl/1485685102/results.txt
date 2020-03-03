@@ -1,0 +1,19 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-31_1485850206_log\pkt_2017-1-31_1485850206_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485323961_log\pkt_2017-1-24_1485323961_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-27_1485541296_log\pkt_2017-1-27_1485541296_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+
+Partial Exports - Missing appraisal info:
+C09A7F25:Shamshir
+C09A7F12:Acid Tachi
+C09A7EBA:Pack T'thuun
+C09A7EC8:Shadow's Garb
+C09A7ED1:Trade Note (100,000)
+C7A7AA6D:Takuba
+C7CC7051:Acid Great Star Mace
+
+Missing Exports - Possessed items that were not found:

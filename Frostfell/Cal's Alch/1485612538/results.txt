@@ -1,0 +1,204 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\Callaway-1-28-2017-LotsofQuestsVR\pkt_2017-1-28_1485610775_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Callaway-01-19-2017-03\pkt_2017-1-18_1484788405_log.pcap
+C:\ACEmulator\Logs Unpacked\gdrive (tfarley)\Callaway\Asheron's Call2\pkt_2017-1-17_1484698541_log.pcap
+C:\ACEmulator\Logs Unpacked\gdrive (tfarley)\Callaway\Asheron's Call2\pkt_2017-1-17_1484698541_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Callaway-01-22-2017-ClutchofKingsReeshan\pkt_2017-1-22_1485076276_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\Callaway-January2017-Account2\pkt_2017-1-10_1484090423_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\Callaway-January2017-Account4\pkt_2017-1-22_1485076276_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\Callaway-January2017-Account5\pkt_2017-1-22_1485076276_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Callaway-01-19-2017-01\pkt_2017-1-17_1484698541_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Callaway-01-19-2017-01\pkt_2017-1-17_1484698541_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\Callaway-1-28-2017-LotsofQuestsVR\pkt_2017-1-28_1485610775_log.pcap
+
+Partial Exports - Missing appraisal info:
+B0D19FC6:Flared Shirt
+B0D19FC7:Ust
+B0D19FC8:Oil of Rendering
+B0D19FCA:A List of Items
+B0D19FCC:Sack
+B0D19FCD:Cooking Pot
+B0D19FCE:Monougat
+B0D19FCF:Magic Iceball
+B0D19FD0:Brown Beans
+B0D19FD1:Tusker Spit
+B0D19FD2:Water
+B0D19FD3:Special Cheese
+B0D19FD4:Cabbage
+B0D19FD5:Carrot
+B0D19FD6:Bowl of Rice
+B0D19FD7:Rich Carrot Stock
+B0D19FD8:Flour
+B0D19FD9:Mortar and Pestle
+B0D19FDA:Viamont Toast
+B0D19FDB:Calling Stone
+B0D19FDC:Gem of Stillness
+B0D19FDF:Sack
+B0D19FE0:Trade Note (250,000)
+B0D19FE1:Trade Note (250,000)
+B0D19FE2:Trade Note (250,000)
+B0D19FE3:Trade Note (250,000)
+B0D19FEA:Pack
+B0D19FE4:Trade Note (250,000)
+B0D19FE5:Trade Note (250,000)
+B0D1A003:Pack
+B0D19FE6:Trade Note (250,000)
+B0D19FE7:Trade Note (250,000)
+B0D19FE8:Lorica Breastplate
+B0D19FE9:Heavy Bracelet
+B0D1A01D:Sack
+B0D19FEB:Salvaged  (100)
+B0D19FEC:Salvaged  (100)
+B0D1A052:Stipend
+B0D19FED:Salvaged  (100)
+B0D19FEE:Salvaged  (100)
+B0D1A053:Sprouting Pumpkin Vine
+B0D19FEF:Salvaged  (100)
+B0D19FF0:Salvaged  (100)
+B0D1A054:Treated Healing Kit
+B0D19FF1:Salvaged Reedshark Hide (100)
+B0D19FF2:Salvaged  (100)
+B0D1A056:A List of Items
+B0D19FF3:Salvaged  (100)
+B0D19FF4:Salvaged  (100)
+B0D1A055:Upper Insatiable Eater Jaw
+B0D19FF5:Salvaged  (100)
+B0D19FF6:Salvaged  (100)
+B0D19FF7:Salvaged  (100)
+B0D19FF8:Salvaged  (100)
+B0D19FF9:Salvaged Reedshark Hide (100)
+B0D19FFA:Salvaged  (100)
+B0D1A08E:Pyreal
+B0D19FFB:Salvaged Reedshark Hide (100)
+B0D19FFC:Salvaged  (100)
+B0D1A08F:Pyreal
+B0D19FFD:Salvaged  (100)
+B0D19FFE:Salvaged  (100)
+B0D1A063:Blank Augmentation Gem
+B0D19FFF:Salvaged Reedshark Hide (100)
+B0D1A000:Salvaged  (100)
+B0D1A092:Pyreal
+B0D1A001:Salvaged  (100)
+B0D1A002:Salvaged  (100)
+B0D1A093:Pyreal
+B0D1A004:Salvaged  (100)
+B0D1A005:Salvaged  (100)
+B0D1A094:Pyreal
+B0D1A006:Salvaged  (100)
+B0D1A007:Salvaged  (100)
+B0D1A095:Pyreal
+B0D1A008:Salvaged  (100)
+B0D1A009:Salvaged  (100)
+B0D1A096:Pyreal
+B0D1A00A:Salvaged  (100)
+B0D1A00B:Salvaged  (100)
+B0D1A097:Pyreal
+B0D1A00C:Salvaged  (100)
+B0D1A00D:Salvaged  (100)
+B0D1A091:Pyreal
+B0D1A00E:Salvaged  (100)
+B0D1A00F:Salvaged  (100)
+B0D1A010:Salvaged  (100)
+B0D1A011:Salvaged  (100)
+B0D1A012:Salvaged  (100)
+B0D1A013:Salvaged  (100)
+B0D1A014:Salvaged  (100)
+B0D1A015:Salvaged  (100)
+B0D1A016:Salvaged  (100)
+B0D1A017:Salvaged  (100)
+B0D1A018:Salvaged  (100)
+B0D1A019:Salvaged  (100)
+B0D1A01E:Salvaged  (100)
+B0D1A01F:Salvaged  (100)
+B0D1A020:Salvaged  (100)
+B0D1A021:Salvaged  (100)
+B0D1A022:Salvaged  (100)
+B0D1A023:Salvaged  (100)
+B0D1A024:Salvaged  (100)
+B0D1A025:Salvaged  (100)
+B0D1A026:Salvaged  (100)
+B0D1A027:Salvage (100)
+B0D1A03C:Gold Pea
+B0D1A028:Salvaged  (100)
+B0D1A029:Salvage (100)
+B0D1A02A:Salvaged  (100)
+B0D1A02B:Salvage (100)
+B0D1A02C:Salvage (100)
+B0D1A02E:Salvage (100)
+B0D1A02F:Pack
+B0D1A030:Salvaged  (100)
+B0D1A031:Salvaged  (100)
+B0D1A032:Salvaged  (100)
+B0D1A033:Salvaged  (100)
+B0D1A034:Salvaged  (100)
+B0D1A035:Salvaged  (100)
+B0D1A036:Salvaged  (100)
+B0D1A037:Salvaged  (100)
+B0D1A038:Salvaged  (100)
+B0D1A039:Salvaged  (100)
+B0D1A03A:Salvaged  (100)
+B0D1A03B:Salvaged  (100)
+B0D1A03D:Pack
+B0D1A03E:Salvaged  (100)
+B0D1A058:Sollerets
+B0D1A03F:Salvaged  (100)
+B0D1A040:Salvaged  (100)
+B0D1A041:Salvaged  (100)
+B0D1A042:Salvaged  (100)
+B0D1A043:Salvaged  (100)
+B0D1A044:Salvaged  (100)
+B0D1A045:Salvaged  (100)
+B0D1A046:Salvaged  (100)
+B0D1A047:Salvaged  (100)
+B0D1A048:Salvaged  (100)
+B0D1A049:Salvaged  (100)
+B0D1A04A:Salvaged  (100)
+B0D1A04B:Salvaged  (100)
+B0D1A04C:Salvaged  (100)
+B0D1A04D:Salvaged  (100)
+B0D1A04E:Salvaged  (100)
+B0D1A04F:Salvaged  (100)
+B0D1A050:Salvaged  (100)
+B0D1A051:Salvage (100)
+B0D1A057:Facility Hub Portal Gem
+B0D1A059:Celdon Leggings
+B0D1A05A:Celdon Sleeves
+B0D1A05C:Quartered Cloak
+B0D1A05D:Quest Weapon Coin
+B0D1A05E:Imbue Swap Coin
+B0D1A05F:Salvaged  (100)
+B0D1A086:Diadem
+B0D1A069:Salvage (100)
+B0D1A06A:Salvaged  (100)
+B0D1A06B:Salvage (100)
+B0D1A06C:Salvage (100)
+B0D1A06D:Salvage (100)
+B0D1A06E:Salvaged  (100)
+B0D1A070:Salvage (100)
+B0D1A071:Salvage (100)
+B0D1A072:Salvage (100)
+B0D1A073:Salvage (100)
+B0D1A074:Salvage (100)
+B0D1A075:Salvage (100)
+B0D1A078:Salvage (100)
+B0D1A07B:Salvage (100)
+B0D1A07E:Salvage (100)
+B0D1A082:Leather Pauldrons
+B0D1A083:Heavy Bracelet
+B0D1A085:Heavy Bracelet
+B0D1A087:Diadem
+B0D1A088:Celdon Girth
+B0D1A089:Studded  Gauntlets
+B0D1A08A:Heavy Bracelet
+B0D1A08C:Loafers
+8BAB9CD7:Salvage (100)
+B37CB5CD:Salvage (100)
+B385C722:Salvage (100)
+B1689A16:Salvage (100)
+DB8E310E:Foolproof Emerald
+8BAB9EC0:Salvage (100)
+B37D9627:Salvage (100)
+
+Missing Exports - Possessed items that were not found:

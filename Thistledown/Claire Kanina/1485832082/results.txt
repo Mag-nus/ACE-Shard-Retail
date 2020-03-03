@@ -1,0 +1,57 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-30-to-1-31\Bliz 1-30 to 1-31\pkt_2017-1-30_1485832077_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-24-to-1-29\Bliz 1-24 to 1-29\pkt_2017-1-27_1485551022_log.pcap
+
+Partial Exports - Missing appraisal info:
+A9B669A2:Pyreal
+A9B669A0:Viamontian Leggings
+A9B669A3:Sack
+A9B669A4:Ust
+A9B669A5:Calling Stone
+A9B669A8:Mud Golem Essence
+A9B669AB:Prismatic Taper
+A9B669A9:Foci of Verdancy
+A9B669AA:Foci of Shadow
+A9B669AC:Lead Scarab
+A9B669AD:Letter From Home
+A9B669AE:Viamont Toast
+A9CA4C10:Blackmoor's Favor
+A9CA382C:Oil of Rendering
+A9CA3826:Facility Hub Portal Gem
+8492FC07:Sack
+A6BB1708:Trade Note (250,000)
+88140C9F:Lightning Skeleton Minion Essence (50)
+83B75532:Baron's Amulet of Life Giving
+83B028FE:Olthoi Helm
+83B78E33:Celdon Breastplate
+A9C692A8:Great Mana Charge
+83B75A8A:Mattekar Arm Guard
+83B75A8B:Celdon Sleeves
+83B7550B:Celdon Girth
+83B75A8C:Celdon Leggings
+83B75A89:Sollerets
+849301BB:Massive Mana Charge
+848BDA66:Massive Mana Charge
+84933690:Massive Mana Charge
+8493367E:Massive Mana Charge
+848FFA43:Massive Mana Charge
+849301BF:Massive Mana Charge
+849301C0:Massive Mana Charge
+849301BE:Massive Mana Charge
+84933674:Massive Mana Charge
+84933668:Massive Mana Charge
+84933785:Frost Stick
+84933698:Massive Mana Charge
+84933687:Massive Mana Charge
+848BC5AE:Massive Mana Charge
+849336A0:Massive Mana Charge
+8493368F:Massive Mana Charge
+A9C754F9:Academy Wand
+A9CABE4B:Orb of the Bunny Booty
+A9C692AA:Pathwarden Trinket
+A9B6699F:Flared Shirt
+86B62FE8:Staff
+
+Missing Exports - Possessed items that were not found:

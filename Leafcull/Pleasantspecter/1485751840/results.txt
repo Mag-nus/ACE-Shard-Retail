@@ -1,0 +1,67 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Random_Logs\pkt_2017-1-29_1485751836_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\Random_Logs\pkt_2017-1-29_1485748277_log.pcap
+
+Partial Exports - Missing appraisal info:
+AE770081:Pyreal
+AE770082:Sack
+AE770083:Ust
+AE770087:Foci of Strife
+AE770088:Foci of Verdancy
+AE770089:Prismatic Taper
+AE77008A:Lead Scarab
+AE77008B:Letter From Home
+AE77008C:Bread
+AEAC3A7D:Blackmoor's Favor
+AEAC3913:Oil of Rendering
+AEAC378A:Pyreal
+AEAC3812:Facility Hub Portal Gem
+AEA8B904:Pathwarden Trinket
+AEA63295:Great Mana Charge
+AEA9F05E:Pathwarden Robe
+AEAA0219:Pathwarden Gauntlets
+AEAA1D12:Handy Healing Kit
+AEAAA7CE:Lightning Wisp Essence (50)
+AEAC5895:Acid Elemental Essence (50)
+AEA63361:Compass
+AEAC9873:Reliable Lockpick
+AEAC9D63:Ring
+AE94A9EC:Lead Pea
+AE8542A6:Pyreal
+AEAB332C:Fire Wisp Essence (50)
+AEAB4DF0:Aura of Defender Self III
+AEAB51A0:Handy Healing Kit
+AEAB79AE:Scroll of Invulnerability Self III
+AEAD4B52:Ring
+AEAAE662:Minor Mana Stone
+AEA17324:Fire K'nath Essence (50)
+AEAAE319:Long Leather Gauntlets
+AEA60C9D:Aura of Hermetic Link Other V
+AEAADF41:Adept Healing Kit
+AEACA514:Necklace
+AEA47A43:Gem
+AE9C5D65:Bracelet
+AE774A09:Gem
+AE77410F:Reliable Lockpick
+AEAD3214:Scroll of Lightning Bane II
+AEAC407F:Academy Wand
+AEADF3C6:Pyreal
+AEABF243:A List of Items
+AEAADF3F:Staff
+AEABFB3F:Pyreal
+AEAE0077:Salvage
+AEAE00AC:Salvage
+AEAE0260:Sturdy Iron Key
+AEAE028F:Sturdy Iron Key
+AEAE0A21:Handy Healing Kit
+AEAE0A20:Tunic
+AEAE0A1F:Dirk
+AEAC11A6:Crown
+AEAE0AE3:Dericost Blade
+AEAE0AE4:War Hammer
+AEAE0AE5:Studded Leather Leggings
+AEA16C65:Wand
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,25 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485842556_log.pcap
+
+Partial Exports - Missing appraisal info:
+DD2D2B0F:Mortar and Pestle
+DD2D2B10:Baking Pan
+DD2D2B11:Carving Knife
+DD2D2B15:Whittling Knife
+DD2D2B17:Bread
+DD2D2B18:Apple
+DD2D2B19:Iron Scarab
+DD2D2B1A:Red Taper
+DD2D2B1B:Red Taper
+DD2D2B1C:Hyssop
+DD2D2B1D:Powdered Bloodstone
+DD2D2B1E:Cinnabar
+DD2D2B1F:Poplar Talisman
+DD2D2B20:Blue Taper
+DD2D2B21:Stibnite
+DD2D2B22:Cobalt
+DD2D2B24:Pack Burun Kukuur
+DD2D2B23:Powdered Moonstone
+DD2D2B25:Some Changes for February 2012
+
+Missing Exports - Possessed items that were not found:

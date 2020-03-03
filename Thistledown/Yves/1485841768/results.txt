@@ -1,0 +1,118 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\pkt_2017-1-30_1485843220_desc\pkt_2017-1-30_1485841312_log.pcap
+
+Partial Exports - Missing appraisal info:
+AB1703A4:Foci of Artifice
+AB17038D:Foci of Verdancy
+AB170398:Foci of Enchantment
+AB17039E:Platemail Gauntlets
+AB1703AF:Pack
+AB1703BB:Potion of Healing
+AB1703A3:Gifted Healing Kit
+AB170397:Gifted Healing Kit
+AB17039D:Excellent Healing Kit
+AB17038B:Excellent Healing Kit
+AB1703AD:Gifted Healing Kit
+AB170396:Gifted Healing Kit
+AB1703A2:Peerless Healing Kit
+AB17038A:Excellent Healing Kit
+AB17039C:Excellent Healing Kit
+AB1702C0:Pack
+AB170389:Iron Scarab
+AB1702AF:Copper Scarab
+AB17039B:Serpent Banner
+AB1702B2:Lead Scarab
+AB1703A8:Silver Scarab
+AB1702E1:Excellent Healing Kit
+AB1703A7:Greater Mana Stone
+AB1703A1:Gloves
+AB170399:Deadly Fire Arrow
+AB1703A6:Prismatic Taper
+AB170395:Lightning Arrow
+AB170384:Greater Acid Arrow
+AB170383:Seal
+AB1703A0:Staff
+AB1702B8:Pack
+AB170394:Ruined Amulet of Light Weapons
+AB170392:Iron Heart
+AB1702AE:Undead Thighbone
+AB1702E0:Sturdy Iron Key
+AB17024A:Scroll of Sprint Self IV
+AB170380:Wand
+AB16EDFE:A Large Mnemosyne
+AB16EE09:A Large Mnemosyne
+AB16EE08:A Large Mnemosyne
+AB16EDFF:A Large Mnemosyne
+AB1702A0:Lightning Takuba
+AB17037F:Slippers
+AB1702A1:Flaming Nekode
+AB170292:Greater Mana Stone
+A9CAEBA3:Frost Nekode
+AB17038F:Sollerets
+AB17029B:Trade Note (100,000)
+AB170280:Trade Note (50,000)
+AB170388:Pack
+AB17038E:Trade Note (10,000)
+AB170288:Moderate Mana Charge
+AB1635EE:A Large Mnemosyne
+AB170387:A Large Mnemosyne
+AB170367:A Large Mnemosyne
+AB17037E:A Large Mnemosyne
+AB17035A:Moderate Mana Charge
+AB170351:A Large Mnemosyne
+AB17034D:A Large Mnemosyne
+AB17032E:A Large Mnemosyne
+AB170386:A Large Mnemosyne
+AB170253:A Large Mnemosyne
+AB17037D:Tachi
+AB170359:A Large Mnemosyne
+AB170366:A Large Mnemosyne
+AB170347:A Large Mnemosyne
+AB17034C:A Large Mnemosyne
+AB170377:A Large Mnemosyne
+AB170385:A Large Mnemosyne
+AB17034A:A Large Mnemosyne
+AB170365:A Large Mnemosyne
+AB17037B:A Large Mnemosyne
+AB170358:A Large Mnemosyne
+AB170346:Heaume
+AB17034B:Sollerets
+AB170376:Greater Amuli Shadow Leggings
+AB170357:Scroll of Turn Blade V
+AB170349:Greater Amuli Shadow Coat
+AB17037A:Relanim Plant
+AB170344:Pyreal
+AB170364:Sceptre
+AB170345:Studded  Coat
+AB17027F:Frost Ken
+AB170375:Frost Ken
+AB170381:Yaun Hanzu's Composite Bow Manual
+AB170348:Heaume
+AB170317:Ring
+AB170320:Lightning Katar
+AB17035F:Acid Katar
+AB170362:Ruined Amulet of Missile Weapons
+AB170265:Granite Heart
+A9CAEBF4:Yumi
+AB170361:Some Changes for February 2012
+AB170316:Blackmoor's Favor
+AB17025B:Pack Ancient Olthoi Queen
+AB170325:Agent of Arcanum List
+AB17035E:Pyreal Nugget
+AB170350:Pyreal Sliver
+AB17026D:Pyreal Mote
+AB144087:Agent of Arcanum List
+AB170240:Sceptre
+AB4E7FA8:Heavy Crossbow
+AB4E7FA2:Adept Healing Kit
+AB4E832D:Chainmail Pauldrons
+AB4E86BF:Takuba
+AB4E87D1:Health Tincture
+AB4E865A:Chainmail Breastplate
+AB4E88CA:Metal Cap
+AB480245:Chainmail Tassets
+AB4E8864:Lightning Moar Essence (50)
+AB170303:Frog Crotch Arrow
+AB17039A:Yumi
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,85 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-23_1485152082_log.pcap
+
+Partial Exports - Missing appraisal info:
+9ADD16E0:Pack
+9AD0EEAB:Pyreal
+9B04ECFD:Blank Augmentation Gem
+937AC8FF:Nodachi
+9B0ACBBF:Silver Pea
+9B06D548:Treated Healing Kit
+9B07727F:Treated Healing Kit
+9B0057A7:Treated Healing Kit
+9B077271:Treated Healing Kit
+9B077029:Treated Healing Kit
+9B0771E1:Treated Healing Kit
+9B0770D9:Treated Healing Kit
+9B077111:Treated Healing Kit
+9B077195:Treated Healing Kit
+9B07725E:Treated Healing Kit
+9B069B45:Treated Healing Kit
+9B069B33:Treated Healing Kit
+9B07862F:Dire Champion Token
+9B07B24B:Gold Pea
+9B0D2B80:Candeth Keep Stamp
+9B04374F:Salvage (100)
+9B121460:Salvage (100)
+9AE3AB2E:Pack
+9B151506:Salvage (100)
+9B12B9E6:Salvage (100)
+9B147BEE:Pyreal
+9B12FA9C:Encapsulated Spirit
+9B13638F:Salvage (100)
+9B14112E:Pyreal
+9B139E83:Salvage (18)
+9B126A7E:Salvage (100)
+9B141134:Pyreal
+9B1294E4:Salvage (100)
+9B0F4667:Salvage (100)
+9B11C0DF:Pyreal
+9B10075D:Salvage (100)
+9B150B6B:Salvage (100)
+9AE3AE8E:Pack
+9B1339DD:Salvage (100)
+9B13A0A3:Salvage (100)
+9AE3ACFA:Pack
+9B124197:Salvage (7)
+9B0CEA11:Salvage (14)
+9AD0EEAD:Ust
+9B12F299:Salvage (100)
+9B1396E2:Salvage (53)
+9AE5AE21:Stipend
+9B0EC6F6:Salvage (90)
+9AE4B9B3:Nodachi
+9AEB2529:Colosseum Coin
+9AFDC91E:Amuli Leggings
+935EFEE5:Salvage (100)
+9B08349A:Major Mana Stone
+9AE4AACC:Blackmoor's Favor
+9B0302B7:Trade Note (250,000)
+9B0834F1:Copper Scarab
+9B0580C1:Silver Scarab
+9B082502:Gold Scarab
+9B08353B:Pyreal Scarab
+9B083546:Platinum Scarab
+9B0834DA:Prismatic Taper
+9B0834D2:Prismatic Taper
+9B08357F:Celdiseth's Portal Gem
+9B0834A5:Major Mana Stone
+9B0834AE:Major Mana Stone
+9B083492:Major Mana Stone
+9B0834B7:Major Mana Stone
+9B0834BE:Major Mana Stone
+9B0834BC:Major Mana Stone
+9B0C6631:Titan Mana Charge
+9B0580EC:Major Mana Stone
+9B119472:Turquoise Taper
+9B13C975:Colosseum Coin
+9B038BAD:Foci of Artifice
+9B038D07:Foci of Verdancy
+9B03940B:Foci of Enchantment
+9306F19F:Shou-jen Shozoku Sleeve Gauntlets
+9306F1CB:Shou-jen Jika-Tabi
+9AD352FF:Staff
+
+Missing Exports - Possessed items that were not found:

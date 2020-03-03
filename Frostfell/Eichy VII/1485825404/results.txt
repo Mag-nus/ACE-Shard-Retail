@@ -1,0 +1,15 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\gdrive (tfarley)\Eichy\AC\pkt_2017-1-30_1485825299_log.pcap
+
+Partial Exports - Missing appraisal info:
+DCD3883E:Smock
+DCD38868:Baggy Pants
+DCD3884B:Sack
+DCD3884C:Slippers
+DCD3884A:Pack
+DCD38849:Pack
+DCD38848:Pack Levistras
+DCD38847:Some Changes for February 2012
+DCD37E25:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,211 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-31-2017-pkt_2017-1-31_1485847270_log\pkt_2017-1-31_1485847270_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-29-2017-pkt_2017-1-29_1485735637_log\pkt_2017-1-29_1485735637_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-31-2017-pkt_2017-1-31_1485847270_log\pkt_2017-1-31_1485847270_log.pcap
+
+Partial Exports - Missing appraisal info:
+C7C1E38B:Flared Shirt
+C7C1E40B:Loose Pants
+C7C0A6CD:Salvaged  (100)
+C7C288B0:Salvaged  (100)
+C7C288B1:Salvaged  (100)
+C7C288B2:Salvaged  (100)
+C7B79DFB:Sturdy Iron Key
+C7C288AF:Salvaged  (100)
+C7C1069A:Salvaged  (100)
+C7B44B20:Sturdy Iron Key
+C7C00E26:Salvaged  (100)
+C7BD331F:Salvaged  (100)
+C7C292D7:Sturdy Iron Key
+C7B6FA54:Salvaged  (100)
+C7C1E54A:Salvaged  (100)
+C7C1DAAB:Sturdy Steel Key
+C7C288E6:Salvage
+C7C288C0:Salvaged  (100)
+C7C3775B:Pack
+C7C33659:Salvaged  (100)
+C7C288B8:Salvaged  (100)
+C7C1E19F:Sturdy Steel Key
+C7BF5350:Salvaged  (100)
+C7C37721:Salvaged  (100)
+C7C28928:Sturdy Steel Key
+C7C37722:Salvaged  (100)
+C7C37723:Salvaged  (100)
+C7C1DAAF:Sturdy Steel Key
+C7C37720:Salvaged  (100)
+C7C0A155:Salvaged  (100)
+C7C26737:Sturdy Steel Key
+C7C281B5:Salvaged  (100)
+C7C372CE:Salvaged  (100)
+C7C37889:Sturdy Steel Key
+C7A64B71:Salvaged  (100)
+C7C37759:Salvaged  (100)
+C7C3788B:Sturdy Steel Key
+C7C3775A:Pants
+C7C37758:Dodger's Crystal
+C339E40B:Pyreal
+C7C377F2:Pearl of Blade Baning
+C7C377F3:Converter's Crystal
+C7C377F4:Chef's Crystal
+C7C377F1:Life Giver's Crystal
+C7C26A29:Enchanter's Crystal
+C7C3786E:Alchemist's Crystal
+C7C3786F:Deceiver's Crystal
+C7C37870:Physician's Crystal
+C7C3786D:Artificer's Crystal
+C7BFBCC2:Thorsten's Crystal
+C7C33AB6:Hunter's Crystal
+C7C26CBF:Imbuer's Crystal
+C7BF6B39:Adherent's Crystal
+C7C28918:Oswald's Crystal
+C7C288F6:Wayfarer's Pearl
+C7C1E1A7:Vaulter's Crystal
+C339E408:Pyreal
+C7C2890C:Thorsten's Crystal
+C7C37875:Elysa's Crystal
+C7C1D715:Elysa's Crystal
+C7C207DC:Thief's Crystal
+C7BE677E:Pack
+C7C37888:Sturdy Steel Key
+C7C09726:Sturdy Steel Key
+C7C1E310:Sturdy Steel Key
+C7C2891E:Sturdy Steel Key
+C7C2891F:Sturdy Steel Key
+C7C28939:Sturdy Steel Key
+C7C28940:Sturdy Steel Key
+C7C1D92B:Sturdy Steel Key
+C7C28936:Sturdy Steel Key
+C7C37891:Sturdy Steel Key
+C7C37892:Sturdy Steel Keyring
+C7C37893:Pack
+C7C37890:Salvaged  (100)
+C7BC8F58:Salvage
+C7C09C51:Salvaged  (100)
+C7C28943:Salvaged  (100)
+C7C38302:Undead Thighbone
+C7C28942:Salvaged  (100)
+C7C32181:Salvaged  (100)
+C7C37BF7:Lesser Direlands Device
+C7C2891D:Salvaged  (100)
+C7BE9039:Pack
+C7C379C6:Pack
+C7C379C8:Bracelet
+C7C1E2D7:Heavy Bracelet
+C7C1DA6D:Heavy Bracelet
+C7C26738:Bracelet
+C7C342F0:Heavy Bracelet
+C7C342F8:Heavy Necklace
+C7C33AAC:Heavy Necklace
+C7C0A48B:Ring
+C7C1DAEA:Ring
+C7C288EB:Ring
+C7C1DAE3:Ring
+C7C0A2BD:Ring
+C7C0A2C2:Ring
+C7C1E1C0:Ring
+C7BFBA1E:Fiun Crown
+C7BDC7A2:Heavy Bracelet
+C7C1DAA8:Ring
+C7BC7296:Pack
+C7C1DAA9:Olthoi Koujia Breastplate
+C7C289FB:Heavy Bracelet
+C7C26CC1:Shadow Head
+C7C288D9:Heavy Bracelet
+C7C288D6:Heavy Bracelet
+C7C28260:Bracelet
+C7C104D1:Heavy Bracelet
+C7C2825F:Ring
+C7C0A7B2:Ring
+C7C207DB:Gorget
+C7C09DA7:Ring
+C7BE35B3:Heavy Bracelet
+C7C1E192:Heavy Bracelet
+C7C1C901:Signet Crown
+C7C34065:Elysa's Boon
+C7B729B9:Dansha-Ki's Ring
+C7C207DA:Blunt Bow
+C7BB6022:Fire Bow
+C7C0114B:Piercing Bow
+C7C2841D:Loafers
+C7C1E1AD:Shoes
+C7C38303:Acid Bow
+C7BD7A13:Poet's Shirt
+C7C1E24F:Scroll of Alset's Coil
+C7C38309:Electric Baton
+C7C38310:Jerkin
+C7C1E254:Scroll of Alset's Coil
+C7C2894D:Poet's Shirt
+C7C1E256:Acid Baton
+C339E40A:Gromnie Spear-Head
+C7C1E255:Trousers
+C7C1E183:Quill of Infliction
+C7C342EA:Scroll of Kwipetian Vision
+C7C109C9:Leather Girth
+C7C1E258:Glyph of Life Magic
+C7C38330:Undead Femur bone
+C7C1E251:Scroll of Blessing of the Arrow Turner
+C7C342F9:Scroll of Martyr's Hecatomb VII
+C7B97E96:Scroll of Aura of Defense
+C7BDD47A:Scroll of Boon of the Mace Turner
+C7C38351:Scroll of Web of Defense
+C7C38350:Scroll of Brogard's Defiance
+C7C3834F:Writ of Refuge
+C7C3835C:Leather Shirt
+C7C280BB:Scroll of Alset's Coil
+C7C289B3:Ink of Partition
+C7C1C1EF:Frost Sceptre
+C7C378D8:Gorget
+C7C378D9:Shou-jen Shozoku Trousers
+C7C0A9E8:Shou-jen Shozoku Jacket
+C7C43147:Stipend
+C7C378D7:Shou-jen Shozoku Jacket
+C339E409:Perfect Banner Haft
+C7BD97DC:Asheron's Benediction
+C7C0A0F4:Heavy Bracelet
+C7C1E2D3:Ring
+C7B942D3:Vest
+C7BDDD3C:Leather Bracers
+C7C0095C:Gorget
+C7BD9ABE:Celdon Sleeves
+C339E439:Mace of the Fallen
+C7C289C1:Leather Boots
+C7C09C77:Loafers
+C7BF48B0:Covenant Girth
+C7C28105:Ring
+C7C28104:Ring
+C7C2810A:Heavy Bracelet
+C7C33AAD:Ring
+C72AF5AF:Ring
+C339E436:Scalemail Coif
+C339E437:Nariyid Leggings
+C339E438:Coalesced Aetheria
+C7C280BE:Aura of Infected Caress
+C336A670:Ivory Gromnie Tooth
+C7C1040D:Nether Baton
+C7C280C6:Ring
+C7C280D0:Trousers
+C7C280D3:Knorr Academy Girth
+C7C280C8:Heavy Bracelet
+C7C280D1:Cloth Gloves
+C7C332DD:Gorget
+C7C280C9:Heavy Bracelet
+C7C28900:Platemail Vambraces
+C7C289CF:Scroll of Tusker's Bane
+C7C280C7:Covenant Girth
+C7BD3B90:Olthoi Celdon Gauntlets
+C7C03FA7:Alduressa Gauntlets
+C7C08D4F:Steel Toed Boots
+C7C33351:Blooded Platinum Invader Lord Helm
+C7C280BA:Gem of Stillness
+C7C289D0:Quintessence Sickle
+C7BD876C:Scroll of Finesse Weapon Mastery Self VI
+C7C43142:Scroll of Finesse Weapon Mastery Self VI
+C7C43143:Scroll of Focus Other VI
+C7C43144:Scroll of Harlune's Boon
+C7C43145:Blackmoor's Favor
+C7C43146:Mana Forge Key
+C85FB8E9:Promissory Note
+
+Missing Exports - Possessed items that were not found:

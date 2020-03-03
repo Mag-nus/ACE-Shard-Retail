@@ -1,0 +1,30 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-05-2017\AC_Logs_Leafcull_Dark_Noble_SimonF\pkt_2017-1-21_1485047508_log.pcap
+
+Partial Exports - Missing appraisal info:
+D7ADD678:Pyreal
+D7ADD675:Baggy Shirt
+D7ADD676:Loose Breeches
+D7ADD679:Sack
+D7ADD67A:Ust
+D7C7058E:Blackmoor's Favor
+D7C706B8:Oil of Rendering
+D7C706F4:Facility Hub Portal Gem
+D7BC4FBA:Pathwarden Trinket
+D7BC7D8E:Great Mana Charge
+D7AFFCE1:Pathwarden Helm
+D7BC7D8D:Pathwarden Gauntlets
+D7BAFA28:Wand
+D7BC7BD1:Pathwarden Sollerets
+D7BC4ED9:Pathwarden Scale Leggings
+D7C727D3:Pyreal
+D7BF4904:Potion of Healing
+D7BA82A7:Academy Knuckles
+D7C5208B:Wand
+D7C727DE:Pyreal
+D7C727EB:Pyreal
+D7C7256B:Pyreal
+D7BAA74E:Frost Cestus
+D7C51DF2:Large Round Shield
+
+Missing Exports - Possessed items that were not found:

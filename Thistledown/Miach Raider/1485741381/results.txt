@@ -1,0 +1,182 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Miach-Golem-Santum-and-more-pcap\pkt_2017-1-29_1485740900_log.pcap
+
+Partial Exports - Missing appraisal info:
+AAE934DB:Foci of Enchantment
+AAE934D4:Foci of Artifice
+AAE93553:Foci of Verdancy
+AAE934D3:Pack
+AAE9D140:Copper Scarab
+AAE934DC:Prismatic Taper
+AAE9D13C:Blackmoor's Favor
+AAE934C8:Treated Healing Kit
+AAE934CA:Treated Healing Kit
+AAE6381E:Treated Healing Kit
+AAE76D43:Treated Healing Kit
+AAE9D134:Staff
+AAE934D1:A Large Mnemosyne
+AAE934FE:A Large Mnemosyne
+AAE934D2:Covenant Greaves
+AAE93507:Covenant Pauldrons
+AAE9D13E:Virindi Servant's Amulet
+AAE934E2:Banished Point
+AAE637A0:Peerless Smoldering Atlan Dagger
+AAE9D13D:Scroll of Aura of Defense
+AAE9D135:Flaming Dirk
+AAE9D15B:Sublime Necklace of Acid and Piercing Protection
+AAAA2600:Tusker Title Token
+AAE9D14D:Twisted Dark Key
+AAE842FC:Missile Specialist's Gauntlets
+AAE84315:Covenant Sollerets
+AAE76D66:Scroll of Odif's Blessing
+AAE9350F:Elysa's Crystal
+AAE9350A:Nariyid Boots
+AAE9351B:Ust
+AAE934F8:Lightning Bandit Dagger
+AAE93518:Pack
+AAE9D15E:Frost Spadone
+AAE93512:Haebrean Helm
+AAE63894:Metal Cap
+AAE76D4B:Acid Sceptre
+AAE9D14C:Yoroi Sleeves
+AAE78F4B:Chainmail Coif
+AAE78F27:Circle of Raven Might
+AAE9D15D:Goggles
+AAE931D5:Frost Sceptre
+AAE93511:Pyreal Bar
+AAE93501:Slashing Sceptre
+AAE934F1:Slashing Baton
+AAE9D149:Pyreal Bar
+AAE934F3:Flaming Assagai
+AAE78F82:Tetsubo
+AAE934E0:Health Philtre
+AAE934F9:Bandit Dagger
+AAE84327:Covenant Tassets
+AAE76785:Some Changes for February 2012
+AAE84304:Covenant Tassets
+AAE84330:Covenant Girth
+AAE9D17A:Swamp Stone
+AAE9D158:Fletcher's Crystal
+AAE9D14F:Covenant Bracers
+AAE93510:Pack Ancient Olthoi Queen
+AAE9D159:Saffron
+AAE9D15A:Encrusted Bloodstone Jewel
+AAE9356E:Yellow Jewel
+AAE9D15C:Ring
+AAE9358B:Ring
+AAE84339:Heavy Bracelet
+AAE934D0:Covenant Girth
+AAE9351D:Covenant Pauldrons
+AAE637CE:Covenant Greaves
+AAE93502:Covenant Breastplate
+AAE93503:Covenant Gauntlets
+AAE9D14E:Covenant Tassets
+AAE9350D:Covenant Sollerets
+AAE8430C:Heavy Bracelet
+AAE8431E:Wide Breeches
+AAE93529:Baggy Tunic
+AAE9D14B:Baggy Tunic
+AAE9351A:Doublet
+AAE637AB:Lace Shirt
+AAE93514:Heavy Necklace
+AAE9353A:Pyreal Bar
+AAE9352B:Necklace
+AAE93522:Puzzle Box
+AAE76D70:Signet Crown
+AAE9353E:Ring
+AAE9321E:Ring
+AAE9CA6E:Ring
+AAE78F6F:Heavy Bracelet
+AAE93525:Heavy Bracelet
+AAE20DEF:Cloth Cap
+AAE9D164:Tunic
+A9A72F53:Top
+AAE93576:Electric Sceptre
+AAE93500:Chainmail Gauntlets
+AAE93556:Lightning Sabra
+AAE9D14A:Tetsubo
+AAE78F67:Ring
+AAE78F24:Circlet
+AAE9352A:Ring
+A9A4474B:Heavy Bracelet
+AAE9D157:Amulet
+AAE9355E:Teardrop Crown
+AAE9354A:Teardrop Crown
+AAE93542:Bracelet
+AAE93566:Heavy Bracelet
+AAE93534:Ring
+AAE9353D:Ring
+AAE9D167:Ring
+AAE93521:Ring
+AAE84326:Ring
+AAE8432F:Gorget
+AAE84314:Pocket Watch
+AAE935B4:Pocket Watch
+AAE93565:Pants
+AAE9D166:Shirt
+AAE9D168:Flared Shirt
+AAE78FCB:Doublet
+AAE9351E:Doublet
+AAE93536:Royal Runed Dolabra
+AAE934FA:Covenant Bracers
+AAE6375D:Pack
+AAE9D19D:Puzzle Box
+AAE93541:Necklace
+AAE93540:Loose Breeches
+AAE93564:Electric Sceptre
+AAE9D161:Shirt
+A9A8A7B8:Blunt Sceptre
+AAE9D160:Sceptre
+AAE9350E:Ring
+AAE9351F:Flaming Stiletto
+AAE9357E:Knuckles
+AAE9D163:Crown
+AAE93535:Pack
+AAE93538:Teardrop Crown
+AAE93526:Puzzle Box
+AAE9D170:Ring
+AAE9D15F:Slashing Baton
+AAE93520:Haebrean Vambraces
+AAE93515:Heavy Bracelet
+AAE93516:Thorsten's Crystal
+AAE93533:Miraculous Elixir
+AAE9335C:Pearl of Blood Drinking
+AAE93527:Physician's Crystal
+AAE93570:Studded Leather Gauntlets
+AAE93562:Imbuer's Crystal
+AAE9D16E:Artificer's Crystal
+AAE9351C:Flaming Claw
+AAE9D162:Heavy Bracelet
+AAE93543:Pyreal Bar
+AAE9D165:Smock
+AAE93555:Signet Crown
+AAE93513:Alduressa Gauntlets
+AAE93586:Blunt Sceptre
+AAE9358E:Gorget
+AAE93537:Wand
+AAE9D16D:Ring
+AAE93575:Ring
+AAE93544:Heavy Bracelet
+AAE93532:Chainmail Leggings
+AAE76BD3:Heavy Bracelet
+AAE93549:Covenant Pauldrons
+AAE93531:Frost Sceptre
+AAE93560:Fire Baton
+AAE93539:Electric Sceptre
+AAE93563:Piercing Sceptre
+AAE78F26:Cap
+AAE9353C:Slashing Baton
+AAE9D16C:Ancient Armored Gauntlets
+AAE93585:Covenant Breastplate
+AAE93561:Heavy Bracelet
+AAE93571:Kasa
+AAE9D16F:Pants
+AAE9354C:Ring
+AAE93524:Ring
+AAE9353F:Ring
+AAE93547:Thorsten's Crystal
+AAE9D16A:Heavy Bracelet
+A9A8731A:Caulnalain Crystal Shield
+AAE9354F:Flaming Bandit Dagger
+
+Missing Exports - Possessed items that were not found:

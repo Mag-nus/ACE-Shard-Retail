@@ -1,0 +1,21 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-15_1484524994_log.pcap
+
+Partial Exports - Missing appraisal info:
+A52E8D5D:Shirt
+A52E8D2C:Pyreal
+A52E8D33:Pants
+A52E8D65:Foci of Enchantment
+A52E8D4C:Prismatic Taper
+A52E1AF5:Foci of Artifice
+A52E8D43:Lead Scarab
+A52E8D3B:Greeter's Key
+A52E8D1A:Aluvian Wand
+A52E8D7A:Leather Gauntlets
+A52E8D5C:Leather Bracers
+A52E8D32:Leather Boots
+A52E8D2B:Pyreal
+A52E8D64:Quartermaster's Workshop Key
+A52E1AC0:Pack Ancient Olthoi Queen
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,58 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485839341_log.pcap
+
+Partial Exports - Missing appraisal info:
+91969A26:Foci of Artifice
+9196AB26:Pack
+918D11E7:Wrapped Bundle of Arrowshafts
+919014D5:Gauraloi
+91905300:Wrapped Bundle of Deadly Fire Arrowheads
+919692F4:Wrapped Bundle of Deadly Lightning Arrowheads
+918D849B:Wrapped Bundle of Deadly Armor Piercing Arrowheads
+919692F7:Wrapped Bundle of Deadly Frog Crotch Arrowheads
+918AD6CD:Lautaloi
+9104B5A4:Studded  Gauntlets
+91904FF0:Plentiful Healing Kit
+917E813D:Pack
+9197284F:Blackmoor's Favor
+9196A1B7:Suikan War Master Robe
+9196A1A9:Faran Creature Master Robe
+91979457:Suikan Creature Master Robe
+91900BBA:Dho Item Master Robe
+9196A0D8:Suikan Creature Master Robe
+91905013:Dho Item Master Robe
+91969E80:Gem of Stillness
+9196AB33:Pack
+9196A998:Pack
+91929814:Yumi
+91904FDE:Nayin
+9197A8D4:Longbow
+91925063:Longbow
+9196969E:Gem of Stillness
+93255EE9:Trade Note (250,000)
+9196A70E:Lead Scarab
+9196A1A3:Iron Scarab
+9195F467:Copper Scarab
+9196A904:Silver Scarab
+9197A4A8:Pyreal Scarab
+9195F693:Gold Scarab
+919052CB:Pyreal Pea
+9190064B:Diamond Scarab
+918B5901:Stamina Elixir
+9196A17D:Chorizite
+91978A19:Heart of the Innocent
+919285DB:Platinum Scarab
+91969627:Prismatic Taper
+91969626:Foci of Verdancy
+9197A4F4:Foci of Enchantment
+9196A1A2:Pyreal
+93257B3C:Pyreal
+93257AF8:Pyreal
+93257B3D:Pyreal
+93257B0B:Pyreal
+93257B2A:Pyreal
+931DEDD1:Pyreal
+93205999:Pyreal
+9337152B:Trade Note (250,000)
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,112 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485843152_log.pcap
+
+Partial Exports - Missing appraisal info:
+B2B04847:Foci of Strife
+B2B04848:Foci of Verdancy
+B2B04849:Foci of Artifice
+B2B0484A:Foci of Enchantment
+B2B0484B:Pack
+B2B0484C:Gold Scarab
+B2B0484D:Iron Scarab
+B2B0484E:Copper Scarab
+B2B0484F:Silver Scarab
+B2B04850:Pyreal Scarab
+B2B04851:Ancient Mhoire Coin
+B2B04852:Small Olthoi Venom Sac
+B2B04853:Colosseum Coin
+B2B04854:Blackmoor's Favor
+B2B04856:Platinum Scarab
+B2B04858:Ornate Gear Marker
+B2B04859:Mana Scarab
+B2B0485B:Aetherium-infused Gear
+B2B0485C:Diamond Scarab
+B2B0485D:Prismatic Taper
+B2B0485F:Celestial Hand Trade Token
+B3ED4B65:A'nekshay Token
+B2B04883:Jester's Token
+B2B04860:Celestial Hand Commendation Ribbon
+B49329F6:Adventurer's Token
+B4C8BC74:Glowing Jungle Lily
+B4CA9C7A:Mana-Infused Jungle Flower
+B5CAF62A:Prismatic Taper
+B7C5C932:Stipend
+B2B04862:Pack
+B2B04864:Circlet
+B2B04866:Signet Crown
+B2B04867:Coronet
+B2B04869:Teardrop Crown
+B2B04865:Coronet
+B3BBC062:Teardrop Crown
+B3B9A796:Diadem
+B3BBC061:Crown
+B3BBCCC4:Puzzle Box
+B2B04871:Teardrop Crown
+B2B04876:Diadem
+B4EAD0BC:Glowing Moar Gland
+B2B0487F:Ust
+B5BD2D3A:Trade Note (250,000)
+B2B04879:Signet Crown
+B2B04868:Coronet
+B2B04877:Signet Crown
+B2B04875:Crown
+B2B0487B:Pack
+B2B04878:Teardrop Crown
+B2B04873:Crown
+B2B0487C:Greater Mana Kit
+B2B0486A:Circlet
+B2B0487E:Enchanted Mana Stone
+B2B048A1:Peerless Lockpick
+B436AA06:Black Market Gem of Dispelling
+B4334A44:A Large Mnemosyne
+B48B5702:Renegade Herbal Kit
+B4951A0D:Trade Note (250,000)
+B4915E20:Renegade Herbal Kit
+B500FDB7:Treated Healing Kit
+B5044029:Treated Healing Kit
+B5014E40:Treated Healing Kit
+B4451813:Treated Healing Kit
+B441A523:Treated Healing Kit
+B4FFC1FC:Treated Healing Kit
+B3B3611A:Salvage (100)
+B56D043C:Pyre Shroud
+B5F5B8EE:Crown
+B2B04892:Aetheria
+B2B04893:Aetheria
+B5CB0B74:Pyreal
+B2B04894:Loose Shirt
+B2B04895:Pants
+B5CB0B77:Pyreal
+B2B0489B:Heavy Necklace
+B2B0489E:Goggles
+B5CA8B34:Pyreal
+B2B048A3:Heavy Bracelet
+B2B048A4:Bracelet
+B5CA8B33:Pyreal
+B2B048A5:Ring
+B2B048A7:Aetheria
+B5DA4AE9:Upper Insatiable Eater Jaw
+B2B048B1:Studded Leather Cowl
+B2B04899:Alduressa Boots
+B436B23D:Massive Mana Charge
+B56674CA:Bordered Cloak
+B2B048A9:Celdon Breastplate
+B7C1D00B:Gharu'ndim Arm
+B2B0489D:Tenassa Sleeves
+B2B04897:Long Leather Gauntlets
+B2B0489A:Yoroi Tassets
+B2B0489F:Platemail Greaves
+B42685CF:Massive Mana Charge
+B2B048A8:Studded Leather Girth
+B2B04896:Chainmail Bracers
+B5DC24B0:Silver Pea
+B5F2F6B7:Copper Pea
+B5F0E919:Gold Pea
+B5E1F21F:Blight-encrusted Black Coral
+B5ED6D3A:Archaeologist's Tracing Paper
+B434452A:Massive Mana Charge
+B5DF9098:Crystal of Perception
+B5F79C94:Olthoi's Jewel
+B7C1CF5F:Insatiable Eater Jaw
+
+Missing Exports - Possessed items that were not found:

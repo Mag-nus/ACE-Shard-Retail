@@ -1,0 +1,29 @@
+The following command will import all the sql files into your retail shard. It can take many hours
+for /f "delims=" %f in ('dir /b /s "C:\ACLogView Output\Player Exports\Darktide\*.sql"') do "C:\Program Files\MySQL\MySQL Server 8.0\bin\mysql" --user=root --password=password ace_shard_retail_dt < "%f"
+for /f "delims=" %f in ('dir /b /s "C:\ACLogView Output\Player Exports\Frostfell\*.sql"') do "C:\Program Files\MySQL\MySQL Server 8.0\bin\mysql" --user=root --password=password ace_shard_retail_ff < "%f"
+for /f "delims=" %f in ('dir /b /s "C:\ACLogView Output\Player Exports\Harvestgain\*.sql"') do "C:\Program Files\MySQL\MySQL Server 8.0\bin\mysql" --user=root --password=password ace_shard_retail_hg < "%f"
+for /f "delims=" %f in ('dir /b /s "C:\ACLogView Output\Player Exports\Leafcull\*.sql"') do "C:\Program Files\MySQL\MySQL Server 8.0\bin\mysql" --user=root --password=password ace_shard_retail_lc < "%f"
+for /f "delims=" %f in ('dir /b /s "C:\ACLogView Output\Player Exports\Morningthaw\*.sql"') do "C:\Program Files\MySQL\MySQL Server 8.0\bin\mysql" --user=root --password=password ace_shard_retail_mt < "%f"
+for /f "delims=" %f in ('dir /b /s "C:\ACLogView Output\Player Exports\Solclaim\*.sql"') do "C:\Program Files\MySQL\MySQL Server 8.0\bin\mysql" --user=root --password=password ace_shard_retail_sc < "%f"
+for /f "delims=" %f in ('dir /b /s "C:\ACLogView Output\Player Exports\Thistledown\*.sql"') do "C:\Program Files\MySQL\MySQL Server 8.0\bin\mysql" --user=root --password=password ace_shard_retail_td < "%f"
+for /f "delims=" %f in ('dir /b /s "C:\ACLogView Output\Player Exports\Verdantine\*.sql"') do "C:\Program Files\MySQL\MySQL Server 8.0\bin\mysql" --user=root --password=password ace_shard_retail_vt < "%f"
+for /f "delims=" %f in ('dir /b /s "C:\ACLogView Output\Player Exports\WintersEbb\*.sql"') do "C:\Program Files\MySQL\MySQL Server 8.0\bin\mysql" --user=root --password=password ace_shard_retail_we < "%f"
+
+Morningthaw IntersectWith Solclaim
+500EBF77
+80821141
+
+Morningthaw IntersectWith Harvestgain
+801A56A3
+
+Verdantine IntersectWith Solclaim
+801D3EF1
+
+Verdantine IntersectWith Darktide
+801D4B4B
+
+Solclaim IntersectWith Thistledown
+500A849D
+
+Solclaim IntersectWith Darktide
+8034867A

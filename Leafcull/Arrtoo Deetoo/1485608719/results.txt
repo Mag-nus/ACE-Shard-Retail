@@ -1,0 +1,123 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\AC-Packet-Data-Jungle-Souljah-LC\pkt_2017-1-28_1485606199_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\AC-Packet-Data-Jungle-Souljah-LC\pkt_2017-1-23_1485204442_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\AC-Packet-Data-Jungle-Souljah-LC\pkt_2017-1-23_1485204442_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\AC-Packet-Data-Jungle-Souljah-LC\pkt_2017-1-24_1485303813_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\AC-Packet-Data-Jungle-Souljah-LC\pkt_2017-1-27_1485536880_log.pcap
+
+Partial Exports - Missing appraisal info:
+8F18077E:Pyreal
+8F1F5C80:Letter From Home
+8F1F772B:Suikan Over-robe
+8F1F522F:Chainmail Girth
+8F1F784F:Renegade Herbal Kit
+8F1F77F8:Nariyid Gauntlets
+8F1F779E:Olthoi Breastplate
+8F1F789F:Treated Healing Kit
+8F1F7762:Treated Healing Kit
+8F1F77B5:Doublet
+8F1F7861:Treated Healing Kit
+8F1F77BD:Pantaloons
+8F1F77D2:Flared Pants
+8F1F5C9C:Baggy Shirt
+8F1F0831:Shirt
+8F1F5C69:Heavy Necklace
+8F1F5CAC:Heavy Bracelet
+8F1C75CD:Loose Shirt
+8F1F5C1B:Loose Tunic
+8F1F7764:Viamontian Pants
+8F1B27A7:Poet's Shirt
+8F1B2771:Pants
+8F1F7962:Wide Breeches
+8F1F7921:Salvage (28)
+8F1F7781:Salvage (66)
+8F1F7780:Salvage (88)
+8F1F79A4:Salvage (22)
+8F1F779C:Salvage (43)
+8F1F775B:Salvage (50)
+8F1F7859:Frost Takuba
+8F1F776B:Salvage (40)
+8F1F77A7:Salvage (96)
+8F1F79E9:Gold Phyntos Wasp Wing
+8F1F774A:Salvage (54)
+8F1F5C52:Salvage (43)
+8F1F5C49:Salvage (20)
+8F21F258:Salvage (53)
+80CEF93E:Acid Takuba
+8F1F5C79:Salvage (6)
+8F1F77C6:Salvage (20)
+8F1F7763:Salvage (39)
+8F1F77E5:Salvage (43)
+8F1C5197:Salvage (16)
+8F1F5C71:Salvage (28)
+8F1F5C67:Salvage (87)
+8F1F5C70:Core Plating Integrator
+8F1F57B6:Core Plating Deintegrator
+8F1F5CC7:Quarrel
+8F1F5CA1:Pathwarden Token
+8F1F7A0A:Blackmoor's Favor
+8F1F5C88:Facility Hub Portal Gem
+8F1F799E:Bracelet of Knowledge
+8F1F775A:Fire Spine Glaive
+8F1F5C8F:Flaming Tachi
+8F1F5C6E:Acid Staff
+8F1F5C64:Flaming Dirk
+8F1F5CBD:Wand
+8F1F79FD:Flaming Jambiya
+8F1F5CDF:Morning Star
+8F1F786A:Cestus
+8F1F7982:Stick
+8F1F79A0:Flaming Dirk
+8F1F6C73:Fire Spine Glaive
+8F1F631A:Lightning Dirk
+8F1F79F3:Trident
+8F1F6555:Olthoi Koujia Gauntlets
+8F1F79B0:Slashing Crossbow
+8F1F79D6:Electric Crossbow
+8F1F7A5A:Gem of Stillness
+8F1F5CB8:Trade Health Elixir
+8F1F5D30:Flaming Stick
+8F1F5D1F:Flaming Tachi
+8F1F5D16:Lightning Nabut
+8F1F5CD6:Fire Bow
+8F1F5D4E:Acid Trident
+8F1F7B45:Frost Spine Glaive
+8F1F79A7:Schlager
+8F1F7A33:Salvage (100)
+8F1F5D3A:Salvage (100)
+8F1F5D26:Salvage (100)
+8F1C2EB6:Salvage (100)
+8F1F79EF:Salvage (100)
+8F1F7752:Salvage (100)
+8F1F7809:Salvage (100)
+8F1AC7E0:Salvage (100)
+8F1F79B6:Salvage (100)
+8F1F79CB:Salvage (100)
+8F1F79DD:Salvage (100)
+8F1F7A23:Salvage (100)
+8F1F79DC:Salvage (100)
+8ED947CC:Salvage (100)
+8F1F79AE:Salvage (100)
+8F1F7A16:Salvage (100)
+8F1F79D4:Salvage (100)
+8F1F5D92:Salvage (100)
+8F1F5D8A:Salvage (100)
+8F1F5D82:Salvage (100)
+8F1F5D2C:Salvage (100)
+8F1F794C:Salvage (100)
+8F1F5D89:Salvage (100)
+8F1F5D81:Salvage (100)
+869D961C:Ring
+8F1F5D7F:Studded Leather Tassets
+8F1F5D50:Fine Olthoi Sollerets
+896D4C78:Fire Trident
+896D4DED:Frost Sceptre
+8E92A403:Acid Dirk
+8E923B73:Flaming Stick
+8E92BA92:Acid Dirk
+8FB28ACC:Lightning Stick
+8FB243D0:Cloth Cap
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,165 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap1\pkt_2017-1-29_1485721132_log.pcap
+
+Partial Exports - Missing appraisal info:
+80187DCE:Pack
+80187F16:Dark Monolith
+80187F6B:Evil Couch
+80187F7B:Floating Candle
+8017FAAF:Ink of Formation
+80187DE2:Pack
+80187E59:Golden Gromnie
+80187E55:Gearknight
+80187E57:Phyntos Wasp
+80187F18:Pumpkin Head
+8017FB16:Sturdy Steel Key
+80187DF0:Empty Flask
+8017FB1F:Sturdy Steel Key
+8017FAD2:Gem of Purity
+8017FB05:Ecorto's Chisel
+8017FAF5:Gold Tumerok Insignia
+80187DF5:Pack
+80157EF4:Marble Key
+80187E0E:Pack
+80187F6C:Empyrean Spherule
+80187F67:Pack Asheron
+8017FB02:Marble Key
+8017FAD0:Massive Mana Charge
+80187E0F:Dark Monolith Caverns
+80187E10:Singularity Caul Asylum
+80187E11:Cavernous Olthoi Chasm
+80187E12:Ancient Temple
+8017FAE7:Massive Mana Charge
+80187E13:The Orphanage
+80187E14:Oubliette
+80164B10:Golden Gromnie
+80187E1E:Pack
+8017FAF1:Salvage (100)
+8017FABD:Scroll of Nether Streak VII
+8017FABE:Massive Mana Charge
+8017FAE0:Massive Mana Charge
+8017FAD8:Massive Mana Charge
+8017FAEC:Purple Jewel
+801885DF:Inscription of Magic Resistance Self
+8017FB30:Salvage (100)
+8017FAF4:Salvage (100)
+8017FAEB:Salvage (100)
+8017FB17:Licorice Rat
+80187E20:Salvage
+80187E21:Salvage (100)
+80187E24:Translated Orders for Zrikux
+80187E22:Salvage (100)
+80187E23:Copy of Apostate Excavation Master's Orders
+80187E26:Health Philtre
+80187E27:Scroll of Void Mastery Self VII
+80187E28:Salvage (100)
+80187E29:Salvage (100)
+80187E2A:Salvage (100)
+80187E2B:Salvage (100)
+80187E2C:Salvage (100)
+80187E35:Shadow Note Translation
+80187E2D:Salvage (100)
+80187E2E:Salvage (100)
+80187E4D:Massive Mana Charge
+80187E2F:Salvage (100)
+80187E36:High Archon Kraest's Instructions
+80187E4E:Massive Mana Charge
+80187E37:Salvage (100)
+80187E38:Salvage (100)
+80187E51:Ash Gromnie Wings
+80187E39:Salvage (100)
+80187E3A:Salvage (100)
+80187E52:Ash Gromnie Wings
+80187E3B:Salvage (100)
+80187E3C:Salvage (100)
+80187E53:Hearty Lugian Loaf
+80187E3D:Salvage (100)
+80187E3E:Salvage (100)
+80187E56:Tasty Pudding
+80187E3F:Salvage (100)
+80187E40:Salvage (100)
+80187E5A:Ash Gromnie Wings
+80187E41:Salvage (100)
+80187E42:Salvage (100)
+80187E5E:Thick Lugian Stew
+80187E43:Salvage (100)
+80187E44:Salvage (100)
+80187E60:Gonjoku's Mana Infusion
+80187E45:Salvage (100)
+80187E46:Salvage (100)
+80187E63:Ash Gromnie Wings
+80187E47:Salvage (100)
+80187E48:Salvage (100)
+80187E64:Treated Healing Kit
+80187E49:Salvage (100)
+80187E4A:Salvage (100)
+80187E6D:Pack
+80187E4B:Salvage (100)
+80187E4C:Salvage (100)
+80187E58:Antiquated Compass
+80187E66:Salvage
+80187E69:Salvage
+80187F79:Empyrean Spherule
+80187E6C:Stamina Philtre
+8017FB21:Aluvian Gem of Worth
+80187E6E:Pearl of Spirit Drinking
+80187E6F:Monarch's Crystal
+80187E70:Imbuer's Crystal
+80187E71:Hieromancer's Crystal
+8017FAF9:Artist's Crystal
+8017FAE4:Hunter's Crystal
+80187F71:Pack Tower Guardian
+80187E78:Salvage
+80187F74:Empyrean Spherule
+80187F7A:Empyrean Spherule
+80187E79:Salvage
+80187E7A:Salvage
+80187E7B:Salvage
+8017FB2E:Glyph of Nether
+8017FB0E:Glyph of Coordination
+8017FB15:Marble Key
+8017FBD0:Marble Key
+80187F7C:Ursuin Toy
+801D7D92:Salvage (100)
+80187E54:Ancient Empyrean Trinket
+80187E5B:Dansha-Ki's Gem of Portal Recall
+80187F78:Empyrean Spherule
+80187E5C:Pack Drudge
+80187E62:Golden Gromnie
+80187E5D:Cave Penguin Cake
+80187E65:Licorice Rat
+80187E61:Pack Drudge
+80187E67:Salvage
+8824CA91:Dodger's Crystal
+8824A4BA:Rogue's Crystal
+
+Missing Exports - Possessed items that were not found:
+80187DB4
+8017FADA
+8017E338
+80187DD0
+80187DCF
+80187DCC
+80187DCB
+80187DCA
+80187DC9
+80187DC8
+80187DC7
+80187DC6
+80187DC5
+80187DC4
+80187DC3
+80187DC2
+80187DC1
+80187DC0
+80187DBF
+80187DBE
+80187DBD
+80187DBC
+80187DBB
+80187DBA
+80187DB9
+80187DB8
+80187DB7
+80187DB6
+80187DB5

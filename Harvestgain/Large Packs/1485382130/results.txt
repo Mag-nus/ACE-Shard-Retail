@@ -1,0 +1,215 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Blade_Random_Travels_and_Faction_Quests\pkt_2017-1-25_1485381520_log.pcap
+
+Partial Exports - Missing appraisal info:
+80B26249:Tiny Shard
+80B2624A:Red Monster Seed
+80B2624C:Scintillating Gem
+85BAB2EB:Scintillating Gem
+88B108C6:Scintillating Gem
+80B2624D:Trade Note (100,000)
+80B2624F:Health Elixir
+80B0080D:Pyreal Pea
+80AC1EC2:Assault Orb
+80B0080F:Pack
+80B262B6:Nether Sceptre
+80AE671C:Fire Sceptre
+80B262B1:Slashing Staff
+80AE666F:Acid Staff
+80AE661F:Pack
+80AC16B9:Piercing Baton
+80AC18BF:Frost Sceptre
+80B26294:Pristine Mana Shard
+80AC314B:Sceptre
+80B2635E:Nether Sceptre
+80AA5E5D:Platinum Scarab
+80B2629F:Electric Sceptre
+80B2629D:Piercing Baton
+84DBBCEB:Dark Revenant Thighbone
+80B2629C:Wand
+80B2629B:Nether Baton
+84DEE0DA:Dark Revenant Thighbone
+80B2629A:Sceptre
+80B04771:Fire Bow
+84DC34D7:Dark Revenant Thighbone
+80B048C3:Electric Compound Crossbow
+80A4CB57:Piercing Compound Crossbow
+80B24E59:Frost Bow
+80B00AC3:Fire Crossbow
+888DA94F:Pyreal
+80B2627C:Platinum Scarab
+80A383BF:Platinum Scarab
+80A8B6AB:Platinum Scarab
+80AE4E4A:Platinum Scarab
+80AE673F:Platinum Scarab
+80AE1758:Platinum Scarab
+809EB4D2:Platinum Scarab
+80AE5031:Platinum Scarab
+80B26284:Platinum Scarab
+80B26291:Platinum Scarab
+80B2627B:Platinum Scarab
+80AF8205:Platinum Scarab
+80B2630A:Platinum Scarab
+84E10335:White Phyntos Wasp Wing
+84E29921:Jungle Phyntos Wasp Wing
+80B3A1CA:Platinum Scarab
+80B2630F:Pack
+80B00725:Trade Note (100,000)
+80B26283:Blue Jewel
+80AE4E1C:Blue Jewel
+80B26292:Blue Jewel
+80B2628F:Blue Jewel
+80B26325:Blunt Crossbow
+80B26282:Crystal of Fiery Elemental Essence
+80B26293:Slashing Compound Crossbow
+80B262EC:Dark Sorcerer's Phylactery
+80AE423B:Red Jewel
+80AE67A5:Pack T'thuun
+80A7BB06:Magic Iceball
+80AC1F3D:Brown Lump
+80AE4EDA:Academy Spadone
+80B26274:Argenory Plant
+87D7F231:Minalim Plant
+84A6E804:Verdalim Plant
+88AE8CD7:Purple Jewel
+80B04681:Olthoi Helm
+80AE8FFE:Elysa's Favor
+80B26281:The Healer's Heart
+80B26278:Shadow Captain's Heaume
+80B2628D:Plated Amuli Leggings
+80AE5030:Brilliant Amuli Coat
+80B25E94:Olthoi Helm
+80B25E93:Chorizite
+80B25E92:Mechanical Scarab
+80B25E91:Shou-jen Shozoku Mask
+80B25E8B:Pack
+80B25E8A:Yellow Jewel
+80B25EA7:Yellow Jewel
+80B26295:Yellow Jewel
+80B26280:Yellow Jewel
+80B26296:Yellow Jewel
+80AE4603:White Jewel
+80B2627F:White Jewel
+8096056D:White Jewel
+80B2628C:Red Jewel
+80ADFE44:Red Jewel
+80B00159:Yellow Jewel
+80B0015A:Yellow Jewel
+80AFDF2E:Red Jewel
+80B262AA:Yellow Jewel
+80B262A4:Yellow Jewel
+80B262A2:Yellow Jewel
+80B2627D:Yellow Jewel
+80B2627E:Yellow Jewel
+80B262A5:Red Jewel
+80B262A3:White Jewel
+80AE8FB1:Purple Jewel
+80B2627A:Purple Jewel
+80A586AB:Purple Jewel
+809F630B:Pack
+80B26285:Aetheria
+80B26287:Aetheria
+80B26288:Aetheria
+80B2628A:Obsidian Dagger
+80B2628B:Obsidian Dagger
+80B26333:Elixir of Misty Form
+80AE9036:Bonecrunch's Hammer
+80B262A9:Elixir of Crystal Skin
+80B20D06:Elixir of Plasmic Being
+80B20D05:Elixir of Plasmic Being
+80B20D07:Slashing Crossbow
+80B26340:Piercing Compound Crossbow
+80B26341:Flaming Spadone
+80B26299:Schlager
+80B00AC1:Piercing Staff
+80AE65C9:Stipend
+80B2633C:Electric Baton
+80B2414B:Drudge Scrying Orb
+88AA9C00:Swamp Stone
+807DE947:Salvage (100)
+80AE161B:Salvage (100)
+80B262A0:Diadem
+80B262A6:Salvage (100)
+80B262A1:Teardrop Crown
+80B262CA:Frost Kasrullah
+80AE4E49:Trade Note (50,000)
+80B262CC:Heavy Bracelet
+80B04582:Budiaq
+80B262CB:Flaming Shashqa
+80AA5BF4:Slashing Slingshot
+80B261D4:Frost Bastone
+80B04798:Khanda-handled Mace
+80AE8FFC:Nodachi
+80AC37DC:Frost Lugian Hammer
+80AE605B:Scroll of Superior Soothing Wind
+80AE4ED9:Scroll of Superior Soothing Wind
+80B24504:Scroll of Greater Soothing Wind
+80B262CF:Scroll of The Soothing Wind
+80B262C8:Scroll of Lesser Soothing Wind
+80B00788:Flaming Tachi
+80B00AC0:Flaming Nabut
+80B261A3:Flaming Nodachi
+80B262B3:Ring
+80B262DC:Shou-jen Shozoku Trousers
+84DCC1C5:Ursuin Scalp
+84A70F4F:Ground Chorizite
+85587ABC:Trade Note (10,000)
+84E1378B:Seal
+88A654DF:Scarlet Red Letter
+88AA5840:Lucky Gold Letter
+8564E11E:Ancient Falatacot Trinket
+888AB5CE:Frozen Valley Portal Gem
+808C5699:Greater Mana Kit
+808C5698:Greater Mana Kit
+890AD731:Ring
+890AF84C:Frost Pike
+890AEA59:Acid Dagger
+8908B254:Schlager
+890A8B71:Lightning Quarter Staff
+890AD29D:Loose Tunic
+890CB108:Puffy Shirt
+890CC671:Flaming Jo
+890806F2:Leather Helm
+892E854D:Shou-jen Jika-Tabi
+808C6108:Bordered Cloak
+890806F3:Lorica Gauntlets
+
+Missing Exports - Possessed items that were not found:
+80B262D7
+80AE8FA3
+80B2625B
+80B2625A
+80AC3808
+80A4E760
+80B26279
+80B26248
+80B26244
+80B26243
+80B26242
+80B26241
+80B04584
+80B262E1
+80B2619C
+84AAEB60
+852680CB
+84E05398
+84E28455
+84DC3563
+84DD3A6F
+80B26239
+80B26238
+80B24E5A
+80A8BFA9
+80B26250
+85B5A967
+85B76C1B
+80ABF90F
+85BC824D
+80AE4EDC
+80B00AEB
+80AE4E25
+80B24E5C
+80B26267
+80B25974
+80B26251
+80B2623B

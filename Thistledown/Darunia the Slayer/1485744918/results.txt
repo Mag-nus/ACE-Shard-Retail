@@ -1,0 +1,162 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\trello_datamining\1_Ridley-01-30-2017-olthoi-horde-nest-bandit-castle\pkt_2017-1-29_1485744527_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ridley-01-30-2017-olthoi-horde-nest-bandit-castle\pkt_2017-1-29_1485744527_log.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\194_Ridley-Amanah-Final-Random-2\pkt_2017-1-29_1485744527_log.pcap
+
+Partial Exports - Missing appraisal info:
+83A5F633:Foci of Artifice
+839ED115:Foci of Enchantment
+83B776E5:Foci of Verdancy
+83A687D5:Pack
+83A5E6EA:Silver Scarab
+83B808EF:Tusker Title Token
+83B3F817:Gold Scarab
+83A5DD27:Lead Scarab
+83B3F9B4:Iron Scarab
+83AE3DD8:Copper Scarab
+83B6184E:Heart of the Innocent
+8254CC59:Ust
+83A29AFE:Pyreal
+83B96E66:Sanamar Portal Gem
+83B81CE1:Blackmoor's Favor
+83B80CA0:Asheron's Benediction
+83B764F5:Pyreal Scarab
+83AFF1E3:Writ of Refuge
+83B6292C:Dericost Blade
+83B82385:Black Spear of Mukkir Strength
+83B61A27:Salvaged  (100)
+83B612F6:Salvaged  (100)
+83B815C3:Prismatic Taper
+83B4ACEA:Salvaged  (100)
+83B61A19:Salvaged  (100)
+83B61E19:Major Mana Stone
+83B3FC74:Salvaged  (100)
+83B61196:Salvaged  (100)
+83B00CAD:Major Mana Stone
+83B61EC0:Salvaged  (100)
+83B825E2:Pack
+83B61F78:Plentiful Healing Kit
+83B81DCA:Plentiful Healing Kit
+83B818EF:Plentiful Healing Kit
+83B8A23B:Plentiful Healing Kit
+83B775BE:Plentiful Healing Kit
+83B8FB29:Plentiful Healing Kit
+83B81504:Plentiful Healing Kit
+83B60641:Lytelthorpe Portal Gem
+83A2DDC2:Olthoi Ripper Reducer Plaque
+83B9695F:Olthoi Ripper Reducer Token
+83B78241:Heavy Bracelet
+83B61B00:Ring
+83B77C93:Ring
+83A5EE58:Pants
+83A29154:Scalemail Greaves
+83B61645:Major Mana Stone
+83AFF551:Pathwarden Trinket
+8395CB2B:Yoroi Girth
+83B804C2:Shoes
+83AFF1EF:Leather Tassets
+83B6263F:Kote
+83AE43A8:Pack
+83B3F79C:Yoroi Pauldrons
+83B61225:Soft Bandages
+83B8236A:Major Mana Stone
+83970562:Combined Hyssop and Mandrake
+83B81767:Major Mana Stone
+839F7666:Major Mana Stone
+83B807AE:Major Mana Stone
+83B813A7:Major Mana Stone
+83A1417B:Studded  Boots
+83A5E27D:Nariyid Breastplate
+83B619EA:Major Mana Stone
+83B3F55F:Frost Partizan
+83B61616:Top
+83B61064:Long Sword
+83B96EED:Salvaged  (6)
+83B620B1:Pack
+839F7456:Massive Mana Charge
+83B80287:Massive Mana Charge
+83AE403B:Massive Mana Charge
+83B80AB5:Trade Note (250,000)
+ABD20DFE:Trade Note (250,000)
+83B81321:Salvaged  (100)
+83B804F9:Gloves
+83B77142:Major Mana Stone
+83B62221:Heavy Bracelet
+83B00AFA:Tunic
+83A7FD2B:Greater Mana Stone
+83B60437:Piercing Sceptre
+83B814CB:Scalemail Breastplate
+83A2E7A0:Olthoi Ripper Spine
+83A68260:Tiriun Cap Wafer
+83B3F578:Diamond Scarab
+83B81872:Salvaged  (94)
+83B80865:Xarabydun Portal Summoning Gem
+83A22E1B:Salvaged  (100)
+ABD20BAF:Pyreal
+83B61A34:Koujia Breastplate
+83AE459C:Coronet
+83B2F67F:Massive Mana Charge
+83B4CF44:Salvaged  (18)
+839F1DF8:Prismatic Taper
+83B3F7FC:Mechanical Scarab
+83B3F835:Platinum Scarab
+83B81D4D:Celdiseth's Portal Gem
+83A68964:Massive Mana Charge
+83B8074D:Excavation Master's Message Shard
+83B61D52:Yanshi Portal Gem
+83B60965:Nine of Eyes
+83B96CC8:Shadowfire Isparian Sword
+83B404FA:Pristine Mana Shard
+83A5E1F5:Focusing Stone
+83B624C1:Pyreal Pea
+83B80851:Fouled Remoran Fin
+83B61995:Platemail Gauntlets
+83B80A8F:Takuba
+83B76B6B:Eldrytch Web Stronghold Portal Gem
+83B00BA9:Eldrytch Web Trade Token
+83AE439E:Eldrytch Web Commendation Ribbon
+83AE4975:Eldrytch Web Gauntlets
+83B81B70:Benedino's Letter
+835C3F41:Adept's Treasure Key
+83B80709:Flaming Shashqa
+839F06DE:Chainmail Greaves
+83A2E770:Some Changes for February 2012
+839EAF07:Flaming Takuba
+83B96B93:Wand
+83B96EF1:Shield of Perfect Light
+83B8223B:Paradox-touched Olthoi Sword
+83AFF1C3:Sanguinary Aegis
+83B96AFD:Olthoi Shield
+83B96AA4:Frost Shamshir
+83B770B8:Massive Mana Charge
+83B81733:Massive Mana Charge
+83B618AA:Massive Mana Charge
+839F89A7:Thorsten's Crystal
+81BEB44E:Massive Mana Charge
+83B61730:Massive Mana Charge
+83B96ADF:Massive Mana Charge
+8395ACC5:Massive Mana Charge
+83A67559:Massive Mana Charge
+83B3F221:Massive Mana Charge
+83B96148:Massive Mana Charge
+83B80C37:Coronet
+ABD20BC1:Prismatic Taper
+ABD20C29:Prismatic Taper
+ABD20C24:Prismatic Taper
+ABD20C37:Prismatic Taper
+ABD20C7A:Prismatic Taper
+ABD0B736:Prismatic Taper
+ABD20C3E:Prismatic Taper
+ABD20CD7:Pyreal
+ABD20E23:Prismatic Taper
+ABD20E2D:Prismatic Taper
+ABD20DED:Prismatic Taper
+ABD0B722:Prismatic Taper
+ABD20DEF:Prismatic Taper
+ABD20E8D:Prismatic Taper
+ABD20E2A:Prismatic Taper
+83B69A31:Sceptre
+
+Missing Exports - Possessed items that were not found:

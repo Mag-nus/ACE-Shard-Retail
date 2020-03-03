@@ -1,0 +1,172 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\gdrive (tfarley)\Eichy\AC\pkt_2017-1-30_1485825533_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\gdrive (tfarley)\Eichy\AC\pkt_2017-1-30_1485824845_log.pcap
+
+Partial Exports - Missing appraisal info:
+DC4A4133:Pyreal
+DC4A4134:Pyreal
+DC4A4135:Trade Note (500)
+DC4A4136:Pack
+DC4A4137:Amulet
+DC4A4138:Ring
+DC4A4139:Ring
+DC4A413A:Ring
+DC4A413B:Ring
+DC4A413C:Bracelet
+DC4A413D:Heavy Bracelet
+DC4A413E:Heavy Necklace
+DC4A413F:Gorget
+DC4A4140:Ring
+DC4A4141:Bracelet
+DC4A4142:Ring
+DC4A4143:Ring
+DC4A4144:Ring
+DC4A4145:Ring
+DC4A4146:Ring
+DC4A4147:Ring
+DC4A4148:Bracelet
+DC4A4149:Ring
+DC4A414A:Ring
+DC4A414B:Heavy Bracelet
+DC4A414C:Ring
+DC4A414D:Gorget
+DC4A414E:Heavy Necklace
+DC4A414F:Pack
+DC4A4150:Yarrow Pea
+DC4A4151:Alder Pea
+DC4A4152:Blackthorn Pea
+DC4A4153:Hemlock Pea
+DC4A4154:Hazel Pea
+DC4A4155:Elder Pea
+DC4A4156:Mandrake Pea
+DC4A4157:Dragonsblood Pea
+DC4A4158:Gypsum Pea
+DC4A4159:Damiana Pea
+DC4A415A:Pack
+DC4A415B:Crown
+DC4A415C:Trade Note (5,000)
+DC4A415D:Gorget
+DC4A415E:Orb
+DC4A415F:Amulet
+DC4A4160:Gorget
+DC4A4161:Orb
+DC4A4162:Pack
+DC4A4163:Fletcher's Cap
+DC4A4164:Gem
+DC4A4165:The Wedding Guide
+DC4A4166:Fez
+DC4A4167:Parchment
+DC4A4168:Parchment
+DC4A4169:Gem
+DC4A416A:Parchment
+DC4A416B:Parchment
+DC4A416C:Doublet
+DC4A416D:Shirt
+DC4A416E:Breeches
+DC4A416F:Breeches
+DC4A4179:Shendolain Key
+DC4A4170:Pants
+DC4A4171:Tunic
+DC4A417A:Shendolain Key
+DC4A4172:Tunic
+DC4A4173:Fez
+DC4A417B:Shendolain Key
+DC4A4174:Shirt
+DC4A4175:Shirt
+DC4A419B:Pyreal
+DC4A4176:Shirt
+DC4A4177:Pantaloons
+DC4A419C:Pyreal
+DC45A448:Fletcher's Cap
+DC4A417D:Ice Heaume of Frore
+DC4A417E:Diamond Heart
+DC4A417F:Pack
+DC4A4180:Yew Pea
+DC4A4181:Ebony Pea
+DC4A4182:Oak Pea
+DC4A4183:Poplar Pea
+DC4A4184:Powdered Malachite Pea
+DC4A4185:Powdered Azurite Pea
+DC4A4186:Powdered Carnelian Pea
+DC4A4187:Powdered Lapis Lazuli Pea
+DC4A4188:Powdered Agate Pea
+DC4A4189:Powdered Turquoise Pea
+DC4A418A:Powdered Hematite Pea
+DC4A418B:Powdered Quartz Pea
+DC4A418C:Cadmia Pea
+DC4A418D:Realgar Pea
+DC4A418E:Brimstone Pea
+DC4A418F:Turpeth Pea
+DC4A4190:Verdigris Pea
+DC4A4191:Stibnite Pea
+DC4A4192:Colcothar Pea
+DC4A4193:Vitriol Pea
+DC4A4194:Powdered Moonstone Pea
+DC4A4195:Henbane Pea
+DC4A4196:Cedar Pea
+DC4A4197:Comfrey Pea
+DC4A4198:Pack
+DC4A419A:Blackmoor's Favor
+DC4A419D:Pyreal
+DC4A419E:Pyreal
+DC4A419F:Pyreal
+DC4A41A0:Pyreal
+DC4A41A1:Pyreal
+DC4A41A2:Pyreal
+DC4A41A3:Pyreal
+DC4A41A4:Pyreal
+DC4A41A5:Pyreal
+DC4A41A6:Pyreal
+DC4A41A7:Sahkurea's Collar
+DC4A41A8:Pack
+DC4A41A9:Lightning Knuckles
+DC4A41AA:Flaming Katar
+DC4A41AB:Cestus
+DC4A41AC:Frost Claw
+DC4A41AD:Frost Knuckles
+DC4A41AE:Claw
+DC4A41AF:Frost Knuckles
+DC4A41B3:Basalt Blade
+DC4A41B0:Celdon Leggings
+DC4A41B1:Amuli Coat
+DC4A41B4:Flaming Cestus
+DC4A41B5:Brilliant Amuli Coat
+DC4A41BD:Marble Key
+DC4A41B6:Platinum Scarab
+DC4A41B7:Greater Celdon Shadow Leggings
+DC4A41BB:Gorget
+DC4A41B8:Greater Celdon Shadow Breastplate
+DC4A41B9:Greater Celdon Shadow Girth
+DC4A41BA:Greater Celdon Shadow Sleeves
+DC4A41BC:Master Key
+DC4A41BE:Bloodied Burun Hide
+DC4A41BF:Amuli Coat
+DC4A41C0:Cestus
+DC4A41C1:Heavy Necklace
+DC4A41C2:Heavy Bracelet
+DC4A41C3:Ring
+DC4A41C4:Steel Toed Boots
+DC4A41C5:Breeches
+DC4A41C6:Bracelet
+DC4A41C7:Gorget
+DC4A41CC:Martine's Mask
+DC4A41C8:Leather Cuirass
+DC4A41C9:Elysa's Crystal
+DC4A41CA:Scarecrow Guise
+DC4A41CB:Amuli Coat
+DC4A41CD:Hieromancer's Crystal
+DC4A41CE:Aura of Infected Spirit Caress Scroll
+DC4A41CF:Viamontian Torso
+DC4A41D0:Bracelet
+DC4A41D1:Tunic
+DC4A41D7:Some Changes for February 2012
+DC4A41D2:Flaming Knuckles
+DC4A41D3:Lightning Nekode
+DC4A41D5:Amulet
+DC4A41D4:Flaming Claw
+DC4A41D6:Heavy Necklace
+DC4A41D8:Wand
+
+Missing Exports - Possessed items that were not found:

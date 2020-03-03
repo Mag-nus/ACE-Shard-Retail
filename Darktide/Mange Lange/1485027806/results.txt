@@ -1,0 +1,171 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\Asherons-Call-20170203024646\pkt_2017-1-21_1485027797_log.pcap
+
+Partial Exports - Missing appraisal info:
+D7E07B84:Ust
+D7E07B83:A Ring of Acid Protection
+D7E07B82:Pack
+D7E07B81:Yellow Jewel
+D7E07B80:Ring of a Singularity Key
+D7E07B7F:Copper Scarab
+D7E07B7E:Large Sclavus Hide
+D7E07B7D:Dire Mattekar Paw
+D7E07B7C:Olthoi Ichor
+D7E07B7B:Yellow Jewel
+D7E07B7A:Virindi Singularity Key
+D7E07B79:Lapyan Plant
+D7E07B78:Snowflower
+D7E07B77:Fire Sceptre
+D7E07B76:Platinum Golem Heart
+D7E07B75:Pyreal Golem Heart
+D7E07B74:Lead Scarab
+D7E07B73:Sturdy Iron Key
+D7E07B72:Sturdy Iron Key
+D7E07B71:Leggings
+D7E07B70:Studded  Sleeves
+D7E07B6B:Sturdy Iron Key
+D7E07B6F:Steel Toed Boots
+D7E07B6E:Chainmail Greaves
+D7E07B5E:Sunflower
+D7E07B6D:Cuirass
+D7E07B6C:Steel Toed Boots
+D7E07B50:Pyreal
+D7E07B6A:Pack
+D7E07B69:Sclavus Hide
+D7E07B68:Master Keyring
+D7E07B67:Gem of Stillness
+D7E07B66:Silver Scarab
+D7E07B65:Dark Shard
+D7E07B64:Marble Key
+D7E07B63:Tunic
+D7E07B62:Sturdy Steel Key
+D7E07B61:Sturdy Steel Key
+D7E07B60:Iron Scarab
+D7E07B5F:Sturdy Steel Key
+D7E07B5D:Sturdy Iron Key
+D7E07B5C:Sturdy Iron Key
+D7E07B5B:Sturdy Iron Key
+D7E07B5A:Iron Pea
+D7E07B59:Copper Pea
+D7E07B58:Silver Pea
+D7E07B57:Salvaged  (100)
+D7E07B56:Salvaged  (100)
+D7E07B54:Sturdy Iron Key
+D7E07B55:Pack
+D7E07B53:Covenant Helm
+D7E07B52:Sturdy Iron Key
+D7E07B51:Pyreal Nugget
+D7E07B4F:Sturdy Iron Key
+D7E07B4E:Berimphur Plant
+D7E07B4D:Verdalim Plant
+D7E07B4C:Minalim Plant
+D7E07B4B:Salvaged  (100)
+D7E07B4A:Salvaged  (100)
+D7E07B49:Salvaged  (100)
+D7E07B43:Prismatic Taper
+D7E07B48:Pants
+D7E07B47:Chainmail Sleeves
+D7E07B42:Prismatic Taper
+D7E07B46:Cuirass
+D7E07B45:Pants
+D7E07B41:Sturdy Iron Key
+D7E07B44:Salvaged  (100)
+D7E07B40:Foci of Artifice
+D7E07B3E:Pack
+D7E07B3F:Foci of Verdancy
+D7E07B3D:Little Green Seeds
+D7E07B3C:Lightning Cestus
+D7E07B3B:Mysterious Tumerok Artifact
+D7E07B3A:Clean Towel
+D7E07B39:Sturdy Iron Key
+D7E07B38:Sturdy Iron Key
+D7E07B37:Sturdy Iron Key
+D7E07B36:Sturdy Steel Key
+D7E07B35:Sturdy Iron Key
+D7E07B34:Sturdy Iron Key
+D7E07B33:Platinum Scarab
+D7E07B32:A Lump of Coal
+D7E07B31:Gold Scarab
+D7E07B30:Sturdy Steel Key
+D7E07B2F:Electric Sceptre
+D7E07B2E:Koujia Sleeves
+D7E07B2A:Platinum Scarab
+D7E07B2D:Platemail Sleeves
+D7E07B2C:Yoroi Girth
+D7E07B27:Sturdy Iron Key
+D7E07B2B:Studded Leather Breastplate
+D7E07B29:Studded Leather Cuirass
+D7E07B28:Platemail Tassets
+D7E07B26:Foci of Enchantment
+D7E07B25:Little Green Seeds
+D7E07B24:Dark Shard
+D7E07B23:Vial of Organic Acid
+D7E07B22:A Large Mnemosyne
+D7E07B21:Olthoi Ichor
+D7E07B20:Twisted Dark Key
+D7E07B1D:Wooden Tablet
+D7E07B1C:Large Ursuin Hide
+D7E07B1B:Sollerets
+D7E07B1A:Chainmail Gauntlets
+D7E07B0E:Pyreal Scarab
+D7E07B19:Amuli Leggings
+D7E07B18:Tunic
+D7E07AED:Pyreal
+D7E07B17:Pyreal Golem Heart
+D7E07B16:Covenant Shield
+D7E07B15:Linaural Urilaentai
+D7E07B0F:Takuba
+D7E07B0D:Pyreal Scarab
+D7E07B0C:Elysa's Favor
+D7E07B0B:Amuli Coat
+D7E07B08:Sturdy Iron Key
+D7E07B07:Sturdy Iron Key
+D7E07B06:Salvaged  (100)
+D7E07B05:Sturdy Iron Key
+D7E07B04:Miadun hu Okardunai
+D7E07B03:Sturdy Iron Key
+D7E07B02:Salvaged  (100)
+D7E07B01:Prismatic Taper
+D7E07AFF:Salvaged  (39)
+D7E07AFE:Sturdy Iron Key
+D7E07AFD:Salvaged  (100)
+D7E07AFC:Salvaged  (100)
+D7E07AFB:Salvaged  (100)
+D7E07AFA:Scroll of Acid Stream VI
+D7E07AF9:Sturdy Iron Key
+D7E07AF8:Armet
+D7E07AF7:Salvaged  (42)
+D7E07AF6:Salvaged  (90)
+D7E07AF5:Sturdy Iron Key
+D7E07AF4:Sturdy Iron Key
+D7E07AF3:Salvaged  (33)
+D7E07AF2:Sturdy Iron Key
+D7E07AF1:Salvaged  (100)
+D7E07AF0:Stamina Elixir
+D7E07AEF:Stamina Elixir
+D7E07AEE:Prismatic Taper
+D7E07AEC:Salvaged  (100)
+D7E07AEB:Scroll of Arcane Benightedness VI
+D7E07AEA:Scroll of Ilservian's Flame
+D7E07AE9:Salvaged  (23)
+D7E07AE8:Salvaged  (93)
+D7E07AE7:Pants
+D7E07AE6:Salvaged  (52)
+D7E07AE5:Salvaged  (100)
+D7E07AD8:Deadly Hollow Sword
+D7E07AE4:Salvaged  (59)
+D7E07AE3:Salvaged  (46)
+D7E07AD6:Some Changes for February 2012
+D7E07AE2:Salvaged  (74)
+D7E07AE1:Salvaged  (43)
+D7E07AE0:Salvaged  (100)
+D7E07ADF:Celdon Girth
+D7E07ADD:Salvaged  (87)
+D7E07AD7:Lightning Scimitar
+D7E07ADC:Salvaged  (8)
+D7E07ADB:Salvaged  (34)
+D7E07ADA:Leather Vest
+D7E07AD5:Buckler
+D7E07AD9:Focusing Stone
+
+Missing Exports - Possessed items that were not found:

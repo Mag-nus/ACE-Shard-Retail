@@ -1,0 +1,154 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps3\pkt_2017-1-31_1485869518_log.pcap
+
+Partial Exports - Missing appraisal info:
+801EB4EB:Renegade Herbal Kit
+801EB4EC:Renegade Herbal Kit
+801EB4EE:Elaborate Dried Rations
+801EB4EF:Cooking Pot
+801EB4F0:Plentiful Healing Kit
+801EB4E8:Elaborate Field Rations
+801EB4E9:Treated Healing Kit
+801EB4EA:Treated Hyssop
+801EB4E1:Treated Mandrake
+801EB4E2:Soft Bandages
+801EB4E3:Hot Sauce
+801EB755:Treated Healing Kit
+801EB74C:Elaborate Field Health Rations
+801CFD08:Treated Healing Kit
+801CEBEF:Refulgent Bracelet
+801E586E:Pack
+801EB74F:Dryreach Key
+8021623D:Carving Knife
+80214F8B:Ring of Intellect
+80214F8C:Renegade Pendant
+80214F8D:Awakener
+80214F8A:Karenua's Key
+801EB500:Gem of Stillness
+801EB507:Peerless Lockpick
+801EB501:Gem of Purity
+801EB503:Baggy Tunic
+801EB518:Empyrean Sun Stone
+801EB504:Bracelet of Knowledge
+801EB517:Peerless Lockpick
+801E3C22:Glenden Wood Recall Orb
+801EB516:Moderate Mana Stone
+801E48D6:Sublime Ring of Piercing Protection
+801AA80B:Sublime Bracelet of Acid Protection
+801E3C23:Treated Healing Kit
+801E3C18:Sanguinary Aegis
+801EB767:Pack
+801EB777:Smock
+801EB510:Breeches
+801EB511:Mechanical Scarab
+801EB747:Treated Healing Kit
+801EB512:Aetheria Mana Stone
+801EB514:Aetheria
+801EB515:Quest Weapon Coin
+801EB741:Phantom Mace
+801EB771:Facility Hub Portal Gem
+801EB656:Moderate Mana Stone
+801EB64D:Diamond Shield
+801EB64F:Notes on the Silifi
+801EB65A:Red Fire Infusion
+801EB654:Black Fire Atlan Stone
+801EB651:White Fire Infusion
+801EB653:Blue Fire Infusion
+801EB68E:Pyreal
+801EB675:Crescent Moons
+801EB676:Silifi of Crimson Stars
+801EB677:Noble Katar
+801EB75C:Focusing Stone
+801EB765:Major Stinging Stone
+801EB762:Major Sparking Stone
+801EB6AB:Major Smoldering Stone
+801EB75B:Major Shivering Stone
+801EB650:Stone Tool
+8021625D:Al Arqas Town Stamp
+80216261:Enhanced Osseous Mace
+801D0583:Samsur Town Stamp
+801EB778:Compass
+801EB68D:Greater Mana Stone
+801EB67A:Shoyanen's Portal Gem
+80215DE5:Pyreal
+801EB76C:Town Network Portal Gem
+801EB68A:Town Network Portal Gem
+801EB68B:Town Network Portal Gem
+80192F3A:Covenant Gauntlets
+8021626B:Covenant Sollerets
+80095983:Small Belt Pouch
+801E3F2F:Chainmail Gauntlets
+801EB6A8:Blooded Platinum Invader Lord Helm
+801EB6C3:Greater Olthoi Shield
+801EB6A9:Pack
+801EB6AA:Trousers
+801EB6B9:Blank Augmentation Gem
+801D69EC:Puffy Tunic
+801E5617:Viamontian Pants
+80095984:Olthoi Girth
+80095985:Tunic
+8393317E:Stipend
+80095986:Olthoi Pauldrons
+80095987:Covenant Helm
+80204EAB:Blank Augmentation Gem
+80095988:Covenant Greaves
+80095989:Covenant Bracers
+8015A100:Covenant Girth
+801EB6B5:Flared Pants
+801EB794:Baggy Tunic
+801EB6A2:Shirt
+801EB6A3:Shirt
+801EB6A4:Smock
+801EB6C7:Olthoi Koujia Gauntlets
+801EB6B6:Olthoi Greaves
+801EB6B7:Olthoi Greaves
+801CEA91:Trade Note (250,000)
+801EB6C2:Paradox-touched Olthoi Staff
+801EB6C6:Seasoned Explorer Morning Star
+8017E6B4:Blackfire Sparking Atlan Sword
+910B81A3:Gelid's Jewel
+
+Missing Exports - Possessed items that were not found:
+801D0531
+80199E29
+80214D76
+801D0587
+801EB72B
+801EB491
+80151B38
+801EB711
+801E8779
+801EB494
+801EB495
+801EB496
+801EB497
+801EB498
+801EB499
+801EB4A4
+801EB4A2
+801EB4A1
+801EB723
+801EB492
+801EB493
+8017AE1F
+8019A9C8
+801E586C
+801EB4B5
+801EB4B4
+801EB4B3
+801884FD
+801A60D2
+801EB49E
+801EB4B0
+801EB759
+801E56EC
+801CEA8C
+80193AA2
+801D05E8
+801EB4AC
+C4416E8C
+801EB513
+801EB4AE
+801EB75A
+8019A7EA
+801E586B

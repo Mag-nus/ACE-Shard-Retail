@@ -1,0 +1,48 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (2153810945, 7074, 44, 6472001) /* CraftTool */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (2153810945,   1,        128) /* ItemType - Misc */
+     , (2153810945,   5,         10) /* EncumbranceVal */
+     , (2153810945,  11,          1) /* MaxStackSize */
+     , (2153810945,  12,          1) /* StackSize */
+     , (2153810945,  16,     524296) /* ItemUseable - SourceContainedTargetContained */
+     , (2153810945,  65,        101) /* Placement - Resting */
+     , (2153810945,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (2153810945,  94,        128) /* TargetType - Misc */
+     , (2153810945, 9015,         15) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (2153810945,   1, False) /* Stuck */
+     , (2153810945,  11, True ) /* IgnoreCollisions */
+     , (2153810945,  13, True ) /* Ethereal */
+     , (2153810945,  14, True ) /* GravityStatus */
+     , (2153810945,  19, True ) /* Attackable */
+     , (2153810945,  22, True ) /* Inscribable */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (2153810945,   1, 'Braided Drudge Ravener Guts') /* Name */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (2153810945,   1,   33554817) /* Setup */
+     , (2153810945,   3,  536870932) /* SoundTable */
+     , (2153810945,   6,   67111919) /* PaletteBase */
+     , (2153810945,   8,  100670677) /* Icon */
+     , (2153810945,  22,  872415275) /* PhysicsEffectTable */
+     , (2153810945, 8001,    2650128) /* PCAPRecordedWeenieHeader - Usable, StackSize, MaxStackSize, Container, TargetType, Burden */
+     , (2153810945, 8003,         18) /* PCAPRecordedObjectDesc - Inscribable, Attackable */
+     , (2153810945, 8005,     137217) /* PCAPRecordedPhysicsDesc - CSetup, STable, PeTable, AnimationFrame */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (2153810945,   1, 2153866410) /* Owner */
+     , (2153810945,   2, 2153866410) /* Container */
+     , (2153810945, 8000, 2153810945) /* PCAPRecordedObjectIID */;
+
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
+VALUES (2153810945, 67111918, 0, 0);
+
+INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
+VALUES (2153810945, 0, 83890064, 83890069, 0);
+
+INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, `order`)
+VALUES (2153810945, 0, 16777882, 0);

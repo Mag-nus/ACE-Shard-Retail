@@ -1,0 +1,20 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-29_1485732550_log.pcap
+
+Partial Exports - Missing appraisal info:
+9C3FF29B:Pyreal
+9C3FF29C:Bread
+9C3FF29E:Arrow
+9C3FF29F:Starter Knife
+9C3FF2A1:Bundle of Arrowshafts
+9C3FF2A2:Bundle of Quarrelshafts
+9C3FF2A3:Bundle of Arrowheads
+9C3FF2A4:Welcome Letter
+9C3FF2A5:Sack
+9C3FF2A6:Calling Stone
+9C3FF2A9:Some Changes for February 2012
+9C3FF2A7:Pack Scarecrow
+9C3FF2AA:Blackmoor's Favor
+9C3FF2A8:Pack Martine
+
+Missing Exports - Possessed items that were not found:

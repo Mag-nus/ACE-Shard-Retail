@@ -1,0 +1,87 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-31_1485870666_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-24_1485277486_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-24_1485277486_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-24_1485277486_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-25_1485348011_log.pcap
+
+Partial Exports - Missing appraisal info:
+DC710519:Foci of Verdancy
+DC71061F:Lead Scarab
+DC7105D8:Silver Scarab
+DC710527:Pyreal Scarab
+DC71053F:Iron Scarab
+DC710529:Diamond Scarab
+DC66A053:Gold Scarab
+DC710532:Copper Scarab
+DC67895C:Prismatic Taper
+DC702AC2:Platinum Scarab
+DC6782D6:Platinum Scarab
+DC68E6C5:Foci of Enchantment
+DC6F1F72:Foci of Artifice
+DC6CE272:Siraluun Headdress
+DC710534:Health Elixir
+DC710535:Celdiseth's Portal Gem
+DC66DB7C:Shoyanen's Portal Gem
+DC66D469:Suikan Creature Master Robe
+DC66DB1D:Suikan Creature Master Robe
+DC689170:Suikan Creature Master Robe
+DC5A0C3A:Suikan Creature Master Robe
+DC71053C:Faran War Master Robe
+DC68918A:Suikan Creature Master Robe
+DC5A4AEA:Faran Life Master Robe
+DC68E69E:Holtburg Portal Gem
+DC67890D:Ring
+DC661DEF:Treated Healing Kit
+DC677777:Teeth of a Singularity Key
+DC678922:Chorizite Fletching Tool
+DC689194:Concentrated Lightning Oil
+DC710376:Concentrated Acid Oil
+DC710377:Concentrated Fire Oil
+DC65A16D:Concentrated Frost Oil
+DC710379:Intricate Carving Tool
+DC71037A:Wrapped Bundle of Quarrelshafts
+DC71037B:Twisted Dark Key
+DC710375:Wrapped Bundle of Blunt Arrowheads
+DC67CEAF:Wrapped Bundle of Armor Piercing Arrowheads
+DC71037C:Wrapped Bundle of Arrowheads
+DC70B375:Wrapped Bundle of Deadly Fire Arrowheads
+DC70B374:Asheron's Benediction
+DC70B376:Blackmoor's Favor
+DC70B32F:Pyreal
+DC6DDDCE:Aerfalle's Pallium
+DC61852A:Heavy Bracelet
+DC710545:Pyreal
+DC662354:Platemail Gauntlets
+DC70B352:Virindi Inquisitor's Mask
+DC7104F9:Iron Heart
+DC70B351:Salvaged  (100)
+DC70B353:Salvaged  (100)
+DC691346:Pyreal
+DC68930A:Salvaged  (100)
+DC678900:Puffy Shirt
+DC689185:Pyreal
+DC6B301C:Baggy Pants
+DC70B330:Gem of Stillness
+DC40618C:Pyreal
+DC70B331:Aphus Lassel Portal Gem
+DC710543:Shore Armoredillo Spine
+DC67826B:Some Changes for February 2012
+DC678958:Shore Armoredillo Spine
+DC66D532:Salvaged  (100)
+DC6F1F71:Heavy Crossbow
+DC689181:Concentrated Bloodhunter Oil
+DC90A996:Deadly Frog Crotch Arrow
+DC9017D4:Greater Frog Crotch Arrow
+DC909C56:Greater Frog Crotch Arrow
+DC57C2A5:Greater Frog Crotch Arrow
+DC891406:Acid Bow
+DC890F4A:Acid Bow
+DCA2C31B:War Bow
+DCA2C31D:Yumi
+DC689198:Staff of Aerfalle
+DC661E2F:Focusing Stone
+
+Missing Exports - Possessed items that were not found:

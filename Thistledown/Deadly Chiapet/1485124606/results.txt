@@ -1,0 +1,42 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-22_1485124292_log.pcap
+
+Partial Exports - Missing appraisal info:
+AA89B9E8:Loose Shirt
+AA8B44A7:Flared Pants
+AA8B4474:Pyreal
+AA8D7EFC:Shoes
+AA8D7F26:Quicksilver
+AA8B44FD:Stibnite
+AA89A3FD:Powdered Turquoise
+AA8944BE:Vitriol
+AA8B4470:Ashwood Talisman
+AA8D1CD3:Yew Talisman
+AA8B44E2:Cedar Talisman
+AA898E73:Hyssop
+AA8B4476:Powdered Amber
+AA8B4523:Colcothar
+AA8B451A:Willow Talisman
+AA89BB03:Wormwood
+AA8B4451:Lead Scarab
+AA8D7F02:Ginseng
+AA8B44C8:Powdered Onyx
+AA8D3499:Cobalt
+AA8D3469:Ebony Talisman
+AA8D3765:Apple
+AA8B0F21:Handy Healing Kit
+AA8B44CB:Sack
+AA8D7F12:Calling Stone
+AA8D7FDD:Greeter's Key
+AA8B4495:Quartermaster's Workshop Key
+AA8B446D:Starter Yari
+AA8B4490:Sho Wand
+AA8B0F20:A Crumpled Note
+AA8D3A74:Academy Coat
+AA89B8B6:Plain Healing Kit
+AA898462:Some Changes for February 2012
+AA887B34:Blackmoor's Favor
+AA8996FF:Pack Martine
+AA892A6D:Academy Trident
+
+Missing Exports - Possessed items that were not found:

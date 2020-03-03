@@ -1,0 +1,160 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps1\pkt_2017-1-29_1485719326_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps2\pkt_2017-1-30_1485756587_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps2\pkt_2017-1-30_1485806224_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps2\pkt_2017-1-30_1485806224_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps2\pkt_2017-1-30_1485806224_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps2\pkt_2017-1-30_1485806224_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps2\pkt_2017-1-30_1485806224_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps2\pkt_2017-1-30_1485806224_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps2\pkt_2017-1-30_1485806224_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps2\pkt_2017-1-30_1485806224_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps2\pkt_2017-1-30_1485806224_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps2\pkt_2017-1-30_1485806224_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps3\pkt_2017-1-31_1485843405_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps3\pkt_2017-1-31_1485843405_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps3\pkt_2017-1-31_1485843405_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps3\pkt_2017-1-31_1485869518_log.pcap
+
+Partial Exports - Missing appraisal info:
+855286E9:Pyreal
+8012A736:Missile Defense Gem of Forgetfulness
+81AA50D8:Olthoi Koujia Sollerets
+8147D617:Lightning Katar
+81B4BC75:Gear Crossbow
+81B83FE7:Pet Mouf Igloo
+805BEF13:Frost Lugian Hammer
+805BEEE1:Frost Long Sword
+805BEF02:Frost Flamberge
+858D29A7:Apothecary Zongo's Stout
+858ED284:Hunter's Stock Amber
+858F8AD9:Amber Ape
+855286B7:Pyreal
+858FA169:Tusker Spit Ale
+85505D70:Pyreal
+8001244C:Berimphur Dye Pot
+800E4EF5:Argenory Dye Pot
+80108EC3:Minalim Dye Pot
+800E216E:Lapyan Dye Pot
+80125A0A:Thick Diamond Oil
+8012A7BE:Pocket Watch
+8012A7AC:Pyreal
+8012A73E:Enhanced Health Elixir
+8012A73F:Asheron's Benediction
+85505D7D:Pyreal
+8012A740:Blackmoor's Favor
+8011932A:Hennacin Dye Pot
+80119333:Neutral Balm
+868B3963:Vial of Thananim Dye
+800518DB:Verdalim Dye Pot
+85526BD9:Pyreal
+8056A346:Salvage (100)
+805BE686:Salvage (100)
+85505DC5:Pyreal
+855060D3:Pyreal
+85505EFF:Pyreal
+85505F66:Pyreal
+800AC434:Colban Dye Pot
+800A97F4:Thananim Dye Pot
+8012A77E:Adept Healing Kit
+8012A77F:Adept Healing Kit
+8012A780:Adept Healing Kit
+8012A781:Adept Healing Kit
+8012A782:Adept Healing Kit
+8012A783:Adept Healing Kit
+8012A784:Stipend
+8012A788:Gold Tumerok Insignia
+8012A7DF:Shoyanen's Portal Gem
+8012A7C8:Shoyanen's Portal Gem
+8012A7C9:Town Network Portal Gem
+8012A7CA:Town Network Portal Gem
+8012A7CB:Al-Arqas Portal Gem
+8012A7CF:Mana Scarab
+8012A7D1:Silver Scarab
+8012A837:Pyreal Scarab
+8012A7D0:Prismatic Taper
+8012A792:Palauloi
+84B6D573:Minor Item Tinkering Armature
+8012A79E:Summoning Rituals
+8012A796:Salvaged  (100)
+8012A79B:Black Coral Heart
+8012A798:Salvage (100)
+8012A799:Salvage (100)
+8012A79A:Salvage (100)
+8012A79C:Wrapped Bundle of Deadly Frog Crotch Arrowheads
+8012A79D:Aetheria Mana Stone
+8012A79F:Foolproof Aquamarine
+8012A7A7:Thick Gromnie Hide
+8012A7A0:Foolproof Peridot
+8012A7A1:Concentrated Health Infusion
+8012A7A2:Concentrated Slashing Infusion
+8012A7A3:Concentrated Mana Infusion
+8012A7A4:Concentrated Victual Infusion
+8012A7A5:Concentrated Bludgeoning Infusion
+8012A82C:Quartered Cloak
+82650395:Salvage (100)
+8012A7A8:Mattekar Hide
+84CC12C8:Salvage (100)
+8012A78E:Kasrullah
+8012A769:Pathwarden Trinket
+8361DF8C:Chorizite
+83697CC5:Chorizite
+83A5CEC7:Wrapped Bundle of Greater Deadly Broad Arrowheads
+83748B30:Rynthid Tentacle Mace
+83A5D17D:Invitation to Master Fletchers
+8012A7DE:Alembic
+82F02712:Greater Deadly Blunt Arrow
+8012A802:Mortar and Pestle
+8012A836:Carving Knife
+8531E4B8:Trade Note (250,000)
+8012A83B:Cooking Pot
+8012A7E0:Concentrated Bloodseeker Oil
+8012A7E1:Concentrated Bloodhunter Oil
+8012A7E2:Concentrated Fire Oil
+8012A7E3:Concentrated Acid Oil
+8012A7E4:Concentrated Lightning Oil
+8012A7E5:Concentrated Frost Oil
+8012A819:Bundle of Greater Deadly Arrowheads
+8012A81A:Wrapped Bundle of Greater Deadly Arrowheads
+8012A7E6:Wrapped Bundle of Arrowheads
+8012A7E7:Wrapped Bundle of Frog Crotch Arrowheads
+8012A7E8:Wrapped Bundle of Armor Piercing Arrowheads
+8012A7E9:Wrapped Bundle of Blunt Arrowheads
+8012A81C:Wrapped Bundle of Greater Deadly Frog Crotch Arrowheads
+8012A81D:Wrapped Bundle of Greater Deadly Blunt Arrowheads
+8012A82B:Crushed Hennacin Plant
+8012A83C:Hot Sauce
+81BC51F0:Quiddity Ingot
+8012A83D:Cinnamon Bark
+8012A81B:Wrapped Bundle of Greater Deadly Armor Piercing Arrowheads
+8012A7EA:Wrapped Bundle of Arrowshafts
+8012A83A:Elaborate Dried Rations
+8012A7AA:Sheet Metal Form
+8590E374:Elaborate Field Mana Rations
+81BC51F1:Empowered Pauldrons of the Perfect Light
+8012A82D:Seasoned Explorer Arbalest
+81BBFC41:Blunt Bow
+8012A7AB:Hammer
+81BBFC3D:Lightning Rapier
+813E90B2:Acid Spiked Club
+813C1A72:Slashing Compound Bow
+81475BAC:Electric Sceptre
+8026C335:Imbue Swap Coin
+805BE6CF:Salvage
+800A678D:Salvage
+8012A762:Salvage
+8012A760:Salvage
+800A678E:Salvage
+84CDF9ED:Salvage (100)
+80138350:Salvage
+8014C7BD:Salvage
+8F62D0BB:Salvage (100)
+8F62CB75:Salvage (100)
+8F62CB85:Salvage (100)
+8F62CB5D:Salvage (100)
+8F62CB5E:Salvage (100)
+8F62CB5F:Salvage (100)
+
+Missing Exports - Possessed items that were not found:

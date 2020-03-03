@@ -1,0 +1,115 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-12-2017\Games\pkt_2017-1-29_1485735010_log.pcap
+
+Partial Exports - Missing appraisal info:
+858EC652:Smock
+858EC653:Pantaloons
+858EC655:Prismatic Taper
+858EC654:Foci of Verdancy
+858EC656:Lead Scarab
+858EC657:Ust
+858EC658:Welcome Letter
+858EC659:Sack
+858EC65A:Bracelet
+858EC65B:Bracelet
+858EC65C:Tankard
+858EC65D:Handy Healing Kit
+858EC65E:Scalemail Greaves
+858EC65F:Acid Ono
+858EC660:Handy Healing Kit
+858EC661:Ring
+858EC662:Scroll of Fire Protection Self III
+858EC663:Bracelet
+858EC664:Amulet
+858EC665:Adept Healing Kit
+858EC667:Ring
+858EC668:Goblet
+858EC669:Old Scarlet Red Letter
+858EC66A:Greeter's Key
+858EC66B:Quartermaster's Workshop Key
+858EC66C:A Crumpled Note
+858EC66D:Frost War Hammer
+858EC66E:Old Lucky Gold Letter
+858EC66F:Old Scarlet Red Letter
+858EC670:Academy Coat
+858EC679:Drudge Charm
+858EC673:Necklace
+858EC674:Lightning Silifi
+858EC675:Ring
+858EC676:Heavy Bracelet
+858EC678:Gloves
+858EC67A:Mug
+858EC67B:Bracelet
+858EC67D:Amulet
+858EC67E:Pyreal
+858EC680:Ring
+858EC681:Ring
+858EC682:Adept Healing Kit
+858EC683:Wand
+858EC684:Bracelet
+858EC685:Necklace
+858EC686:Ring
+858EC687:Old Scarlet Red Letter
+858EC688:Bracelet
+858EC689:Black Rat Tail
+858EC68A:Necklace
+858EC68B:Bracelet
+858EC68C:Old Lucky Gold Letter
+858EC68E:Bracelet
+858EC68F:Ring
+858EC690:Flaming War Hammer
+858EC691:Old Scarlet Red Letter
+858EC693:Wand
+858EC694:War Hammer
+858EC695:Staff
+858EC696:Old Scarlet Red Letter
+858EC697:Lightning Battle Axe
+858EC698:Lead Pea
+858EC699:Heavy Bracelet
+858EC69A:Bracelet
+858EC69B:Amulet
+858EC69C:Bracelet
+858EC69D:Ring
+858EC69E:Necklace
+858EC69F:Iron Scarab
+858EC6A0:Ring
+858EC6A1:Scroll of Whirling Blade IV
+858EC6A2:Drudge Charm
+858EC6A3:Drudge Charm
+858EC6A4:Amulet
+858EC6A5:Tunic
+858EC6A7:Iron Pea
+858EC6A6:Staff
+858EC6A8:Wand
+858EC6A9:A Small Mnemosyne
+858EC6AA:Aura of Hermetic Link Self II
+858EC6AB:Heavy Bracelet
+858EC6AC:Scroll of Cold Protection Self II
+858EC6AD:Staff
+858EC6AE:Staff
+858EC6B0:Ring
+858EC6AF:Hand Axe
+858EC6B1:Ring
+858EC6B2:Gifted Healing Kit
+858EC6B3:Flaming Ono
+858EC6B4:Flaming War Hammer
+858EC6B5:Staff
+858EC6B6:Necklace
+858EC6B7:Gifted Healing Kit
+858EC6B8:Handy Healing Kit
+858EC6B9:Bracelet
+858EC6BA:Ring
+858EC6BB:Sceptre
+858EC6BC:Gem
+858EC6BD:Ring
+858EC6BE:Frost Ono
+858EC6BF:Scalemail Leggings
+858EC6C0:Tower Shield
+858EC6C2:Armet
+858EC6C1:Lightning Tungi
+858EC6C3:Some Changes for February 2012
+858EC6C4:Blackmoor's Favor
+858EC6C5:Pack Ancient Olthoi Queen
+858EC672:Gharu'ndim Wand
+
+Missing Exports - Possessed items that were not found:

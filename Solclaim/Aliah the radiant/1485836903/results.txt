@@ -1,0 +1,7 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-PCAP-Absolutely-Random-Gameplay\AC-pcap\pkt_2017-1-31_1485836897_log.pcap
+
+Partial Exports - Missing appraisal info:
+8549CF32:Titan Mana Charge
+
+Missing Exports - Possessed items that were not found:

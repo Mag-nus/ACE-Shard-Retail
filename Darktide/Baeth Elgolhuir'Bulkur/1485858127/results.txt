@@ -1,0 +1,159 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-31_1485858014_log.pcap
+
+Partial Exports - Missing appraisal info:
+80AB0291:Pack
+80AB0292:Pack
+80AB0293:Sturdy Iron Key
+80AB0294:Sturdy Iron Key
+80AB0295:Sturdy Iron Key
+80AB0296:Sturdy Iron Key
+80AB0297:Sturdy Iron Key
+80AB0298:Sturdy Iron Key
+80AB0299:Sturdy Iron Key
+80AB029A:Sturdy Iron Key
+80AB029B:Sturdy Iron Key
+80AB029C:Sturdy Iron Key
+80AB029D:Sturdy Iron Key
+80AB029E:Sturdy Iron Key
+80AB029F:Sturdy Iron Key
+80AB02A0:Sturdy Iron Key
+80AB02A1:Sturdy Iron Key
+80AB02A2:Sturdy Iron Key
+80AB02A3:Sturdy Iron Key
+80AB02A4:Sturdy Iron Key
+80AB02A5:Sturdy Iron Key
+80AB02A6:Sturdy Iron Key
+80AB02A7:Sturdy Iron Key
+80AB02A8:Sturdy Iron Key
+80AB02A9:Ust
+80AB02AC:Horned Helm
+80AB02AD:Helmet
+80AB02AE:Helmet
+80AB02AF:Mosswart Head
+80AB02B0:Banderling Mask
+80AB02B1:Sclavus Mask
+80AB02B2:Tusker Mask
+80AB02B3:Tusker Head
+80AB02B4:Tusker Mask
+80AB02B5:Drudge Head
+80AB02B6:Drudge Head
+80AB02B7:Fresh Zombie Head
+80AB02B8:Zombie Head
+80AB02BA:The Helm of the Golden Flame
+80AB02BB:Cow Mask
+80AB02BC:Hollow Minion's Face
+80AB02BD:Shadow Head
+80AB02BE:Shadow Head
+80AB02BF:Pack
+80AB02C0:Scroll of Boon of the Mace Turner
+80AB02C1:Scroll of Brogard's Defiance
+80AB02C2:Aura of Mystic's Blessing
+80AB02C3:Aura of Infected Spirit Caress Scroll
+80AB02C4:Scroll of Piercing Lure VI
+80AB02C5:Scroll of Ar-Pei's Boon
+80AB02C6:Scroll of Martyr's Blight VII
+80AB02C8:Gold Scarab
+80AB02C9:Stamina Potion
+80AB02CA:Ust
+80AB02CB:Stamina Elixir
+80AB02CC:Pathwarden Trinket
+80AB02CD:Blackmoor's Favor
+80AB02CE:Renegade Bone Charm
+80AB02F7:Jerkin
+80AB02CF:Pack
+80AB02FA:Lace Shirt
+80AB02EF:Baggy Pants
+80AB02D0:Small Belt Pouch
+C4DD2EF1:Celdon Leggings
+C368DEAD:Celdon Girth
+80AB02DB:Hollow Minion's Face
+C376268E:Koujia Leggings
+C4DD1AB8:Celdon Girth
+80AB030B:Mosswart Head
+C373A6C1:Celdon Girth
+C4C7BECB:Amuli Coat
+C49A9F88:Amuli Coat
+80AB02D1:Pack
+80AB02DC:Zombie Mask
+80AB02D5:Sedgemail Leather Cowl
+80AB02D6:Sedgemail Leather Cowl
+80AB02D7:Sedgemail Leather Cowl
+80AB0309:Axe Head Helm
+80AB02D8:Sedgemail Leather Cowl
+80AB02DA:Sedgemail Leather Cowl
+8968A2FC:Ursuin Head
+80AB02DD:Amuli Coat
+80AB02DE:Amuli Coat
+80AB02E0:Amuli Coat
+80AB02E1:Amuli Coat
+80AB02E2:Amuli Coat
+80AB02E6:Amuli Coat
+80AB02E7:Amuli Coat
+80AB02E8:Amuli Coat
+80AB02E9:Amuli Coat
+80AB02EA:Amuli Coat
+80AB02EB:Vestiri Over-robe
+80AB02EC:Foci of Artifice
+80AB02ED:Helm of the Simulacra
+80AB02EE:Empyrean Over-robe
+80AB02F0:Faran Over-robe
+80AB02F4:Amuli Coat
+80AB02F5:Amuli Coat
+80AB02F6:Amuli Coat
+80AB02F8:Amuli Coat
+80AB02F9:Amuli Coat
+80AB02FB:Amuli Coat
+80AB02FC:Amuli Coat
+80AB0304:Amuli Coat
+80AB0305:Amuli Coat
+80AB0306:Amuli Coat
+80AB0307:Inviso Mask
+80AB030A:Drudge Mask
+80AB0313:Karlun's Visage
+80AB0314:Pwyll's Guard
+80AB0315:Armored Sclavus Head
+80AB0316:The Dragon of Power
+80AB031D:Virindi Consul Mask
+80AB0320:Festival Robe
+80AB0321:Virindi Profatrix Mask
+80AB0322:Virindi Desecrator Mask
+80AB0324:Virindi Desecrator Mask
+80AB032A:Ursuin Hide Helmet
+80AB02E5:Amuli Coat
+80AB031E:Empyrean Over-robe
+80AB02DF:Amuli Coat
+80AB02D4:Sedgemail Leather Cowl
+80AB0328:Helmet
+8009F11B:Heaume
+80AB02F1:Suikan Over-robe
+80AB031F:Dho Vest and Over-Robe
+81A5BFD7:Reinforced Shou-jen Shozoku Mask
+9C57197B:Heaume
+9C571992:Olthoi Helm
+9C571965:Chainmail Basinet
+8224B52B:Virindi Consul Mask
+A17ADEA7:Helm of the Crag
+80AB0319:Amuli Leggings
+80AB0318:Amuli Leggings
+80AB031A:Amuli Leggings
+AD6A508C:Mutilator Head
+8A088725:Sollerets
+80AB02D9:Sedgemail Leather Cowl
+C879E661:Homunculus Mask
+CBB58F72:Amuli Coat
+CBB49371:Amuli Leggings
+CB9A09CE:Amuli Leggings
+CC359F71:Amuli Leggings
+80AB0311:Amuli Leggings
+8009F119:Amuli Leggings
+80AB030E:Amuli Leggings
+80AB030F:Amuli Leggings
+CBBA1415:Amuli Leggings
+CDDECA66:Kithless Siraluun Headdress
+98F11B03:Heaume
+CDDECA67:Heaume
+9C571987:Amuli Leggings
+D36CF241:Amuli Coat
+
+Missing Exports - Possessed items that were not found:

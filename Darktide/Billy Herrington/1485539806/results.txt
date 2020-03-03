@@ -1,0 +1,29 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-27_1485539039_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-27_1485539039_log.pcap
+
+Partial Exports - Missing appraisal info:
+D81A7D10:Shirt
+D81A7D11:Wide Breeches
+D81A7D13:Pyreal
+D81A7D14:Sack
+D81A7D15:Ust
+D81A7D19:Handy Healing Kit
+D81A7D1A:Letter From Home
+D81A7D1B:Bread
+D848CB95:Oil of Rendering
+D848CB87:Facility Hub Portal Gem
+D843D986:Great Mana Charge
+D843E167:Pathwarden Sollerets
+D843E156:Pathwarden Gauntlets
+D843DCBD:Pathwarden Trinket
+D843E160:Pathwarden Helm
+D843D988:Pathwarden Yoroi Leggings
+D843DD42:Pathwarden Yoroi Hauberk
+D843E15C:Pathwarden Robe
+D849ED10:Blackmoor's Favor
+D849ED1E:Academy Spadone
+
+Missing Exports - Possessed items that were not found:

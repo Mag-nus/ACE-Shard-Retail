@@ -1,0 +1,252 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485763099_log.pcap
+
+Partial Exports - Missing appraisal info:
+805EFD48:Greenmire Cheese
+805EFD0F:Pack
+805EFD10:Salvaged  (100)
+805EFD17:Salvage
+805EFD11:Salvaged  (100)
+805EFD12:Salvaged  (100)
+805EFD49:Jo
+805EFD13:Salvaged  (100)
+805EFD14:Salvaged  (100)
+805EFD4D:Wood Heart
+805EFD15:Salvaged  (100)
+805EFD16:Salvage (100)
+805EFDF3:Stipend
+805EFD18:Foolproof Fire Opal
+805EFD19:Salvage
+9D1EB0D1:Treated Healing Kit
+805EFD1A:Salvage
+805EFD1E:Foolproof Yellow Topaz
+805EFD7F:Blue Jewel
+8103417B:Salvage
+805EFD23:Pack
+805EFD24:Wayfarer's Pearl
+805EFD89:Head of the Olthoi Queen
+805EFD25:Pearl of Defending
+805EFD26:Imbuer's Crystal
+805EFD27:Adherent's Crystal
+805EFD28:Deceiver's Crystal
+805EFD29:Elysa's Crystal
+805EFD2A:Elysa's Crystal
+AF081426:Pyreal
+805EFD2B:Duelist's Jewel
+805EFD2C:Resister's Crystal
+805EFD2D:Alchemist's Crystal
+805EFD2E:Smithy's Crystal
+805EFD2F:Artist's Crystal
+805EFD30:Dodger's Crystal
+805EFD31:Evader's Crystal
+805EFD32:Enchanter's Crystal
+805EFD33:Artificer's Crystal
+805EFD34:Life Giver's Crystal
+805EFD35:Hieromancer's Crystal
+805EFD36:Gelid's Jewel
+805EFD37:Orb
+810341A6:Converter's Crystal
+AEFAE548:Pyreal
+9D1E0D02:Ben Ten's Crystal
+805EFD38:Salvaged Reedshark Hide (55)
+AF0A828B:Pyreal
+805EFD39:Salvaged  (58)
+805EFD3A:Salvaged  (8)
+805EFD47:Pack
+805EFD3B:Salvaged  (14)
+805EFD3C:Salvaged  (30)
+805EFD69:Pack
+805EFD3D:Salvaged  (54)
+805EFD3E:Salvaged  (68)
+805EFD7E:Pack
+805EFD3F:Salvaged  (89)
+805EFD40:Salvaged  (90)
+805EFD94:Ust
+805EFD41:Salvaged Reedshark Hide (90)
+805EFD42:Salvaged  (99)
+AF0A895C:Pyreal
+805EFD43:Salvaged  (7)
+805EFD44:Salvaged  (91)
+805EFDF4:Directions to Nen Ai's House
+805EFD45:Salvaged  (22)
+805EFD46:Salvaged  (10)
+805EFD95:Pack
+805EFD4E:Blackmoor's Favor
+805EFD4F:Asheron's Benediction
+805EFD50:Fire Bow
+9312BCAB:Salvage (15)
+9311F1A3:Salvage (28)
+AF0A8897:Pyreal
+930FA858:Salvage (76)
+9312C94B:Salvage (74)
+AF105760:Antiquated Compass
+805EFDF9:Salvage (12)
+805EFDF2:Salvage (36)
+805EFDF0:Salvaged  (100)
+805EFDF1:Salvage (67)
+AF0CD711:Treated Healing Kit
+805EFDED:Salvaged  (59)
+805EFDEC:Salvaged  (8)
+81034185:Salvaged  (7)
+81034187:Salvage (24)
+805EC8F8:Flaming Takuba
+805EFDEB:Salvaged  (98)
+805EFDE4:Salvaged  (47)
+805EFDAA:Coral Heart
+9D028577:Acid Bastone
+805EFD52:Salvaged  (84)
+805EFDFD:Acid Khanjar
+805EFD53:Salvaged  (97)
+805EFD54:Salvaged  (35)
+805EFDAB:Pack
+805EFD55:Salvaged  (81)
+805EFD56:Salvaged  (81)
+805EFDB0:Scintillating Gem
+805EFD57:Salvaged  (94)
+805EFD58:Salvaged  (14)
+805EFD59:Salvaged  (81)
+805EFD5A:Salvaged  (15)
+80F8F878:Shadow Fragment
+805EFD5B:Salvaged  (83)
+805EFD5C:Salvaged  (31)
+8102D1C5:Mangled Dark Key
+805EFD5D:Salvaged  (98)
+805EFD5E:Salvaged  (99)
+805EFD5F:Salvaged  (47)
+805EFD60:Salvaged  (45)
+805EFD61:Salvaged  (74)
+805EFD62:Salvaged  (93)
+805EFD63:Salvaged  (19)
+805EFD64:Salvaged  (72)
+805EFD65:Salvaged  (84)
+805EFD66:Salvaged  (20)
+805EFD67:Salvaged  (18)
+805EFD68:Salvaged  (100)
+805EFD99:Salvaged  (100)
+805EFD98:Salvaged  (100)
+805EFD97:Salvaged  (100)
+805EFD96:Salvaged  (100)
+810341A0:Foolproof Sunstone
+8103419C:Foolproof Aquamarine
+B1F2549A:Foolproof Red Garnet
+B1EEDD6F:Foolproof Red Garnet
+8C4A4E93:Foolproof Imperial Topaz
+B1EEEA92:Foolproof Imperial Topaz
+805EFD1F:Salvage (100)
+805EFD1D:Salvaged  (100)
+805EFD1B:Salvaged  (100)
+805EFD1C:Salvaged  (100)
+8C4A4D57:Foolproof White Sapphire
+B1F25479:Foolproof White Sapphire
+B1EF0EB2:Foolproof White Sapphire
+8103417A:Salvage
+805EFD80:Prismatic Amuli Coat
+805EFD81:Prismatic Amuli Leggings
+805EFD82:Piercing Bow
+805EFD83:Fire Compound Bow
+805EFD84:Electric Compound Bow
+805EFD85:Blunt Sceptre
+805EFD86:Slashing Baton
+805EFD87:Steel Toed Boots
+805EFD88:Lorica Gauntlets
+805EFD8A:Doublet
+805EFD8B:Gorget
+805EFD8C:Covenant Tassets
+805EFD8E:Blunt Sceptre
+805EFD8D:Kasrullah
+805EFD8F:Frost Naginata
+805EFD90:Heavy Bracelet
+805EFD93:Trade Note (5,000)
+92339B18:Trade Note (10,000)
+AF095EB6:Trade Note (50,000)
+B46F77BA:Trade Note (250,000)
+AF114E72:Dabus
+8DE146AE:Salvage
+AF06E867:Board with Nail
+AF0A4ED5:Flaming Jo
+9D1B59FB:Short Sword
+9D1E530F:Board with Nail
+89002170:Salvage (100)
+AF17C60C:Aphus Lassel Portal Gem
+9D17E597:Facility Hub Portal Gem
+8C4A2F5B:Paradox-touched Olthoi Spear
+9D194E43:Shou-ono
+805EFDAC:Salvaged  (100)
+805EFDAD:Salvaged  (100)
+805EFDAE:Salvaged  (100)
+805EFDAF:Salvaged  (100)
+805EFDB1:Burning Veil
+805EFDB2:Singularity Caul Asylum
+805EFDB3:Salvaged  (100)
+805EFDB4:Salvaged  (100)
+805EFDB5:Salvaged  (100)
+805EFDB6:Salvaged  (100)
+805EFDB7:Salvaged  (100)
+805EFDB8:Salvaged  (100)
+805EFDB9:Salvaged  (100)
+805EFDBA:Salvaged  (100)
+805EFDBB:Salvaged  (100)
+805EFDBC:Salvaged  (100)
+805EFDBD:Salvaged  (100)
+805EFDBE:Salvaged  (100)
+805EFDBF:Salvaged  (100)
+805EFDC0:Salvaged  (100)
+805EFDC1:Salvaged  (100)
+805EFDC2:Salvage
+805EFDC3:Salvaged  (51)
+805EFDC4:Salvaged  (54)
+805EFDC5:Salvaged  (19)
+805EFDC6:Salvaged  (37)
+805EFDC7:Salvaged  (11)
+805EFDC8:Salvaged  (45)
+805EFDC9:Salvaged  (72)
+805EFDCA:Salvaged  (40)
+805EFDCB:Salvaged  (33)
+805EFDCC:Salvaged  (57)
+805EFDCD:Salvaged  (63)
+805EFDCE:Salvaged  (81)
+805EFDCF:Salvaged  (32)
+805EFDD0:Salvaged  (84)
+805EFDD1:Salvaged  (75)
+805EFDD2:Salvaged  (53)
+805EFDD3:Salvaged  (52)
+805EFDD4:Salvaged  (80)
+805EFDD5:Salvaged  (13)
+805EFDD6:Salvaged  (44)
+805EFDDC:Salvaged  (53)
+805EFDDD:Salvaged  (98)
+805EFDDE:Salvaged  (12)
+805EFDDF:Salvaged  (92)
+805EFDE0:Salvaged  (82)
+805EFDE1:Salvaged  (39)
+805EFDE2:Salvaged  (65)
+805EFDE3:Salvaged  (80)
+805EFDE5:Salvaged  (11)
+805EFDE6:Salvaged  (55)
+805EFDE7:Salvaged  (69)
+805EFDE8:Salvaged  (47)
+805EFDE9:Salvaged  (71)
+805EFDEA:Salvaged  (13)
+805EFDEE:Salvaged  (48)
+805EFDEF:Salvaged  (44)
+805EFDF6:Salvage (74)
+AF17F995:Hyssop
+B4349C3F:Scalemail Leggings
+B408D010:Cloth Gloves
+B4260E9F:Trousers
+B4310381:Diforsa Breastplate
+B4238CEF:Jerkin
+B425EBDE:Haebrean Vambraces
+B3E9DCE4:Wide Breeches
+B35D60CA:Flared Pants
+B3CB41BF:Baggy Tunic
+B1C2F313:Covenant Greaves
+81027BD0:Wedding Gown
+B3E9E4E6:Flared Tunic
+B1E90EF7:Jerkin
+B1EB770D:Slippers
+B1F10FEC:Studded Leather Tassets
+B1DE79EE:Puffy Shirt
+B3C72734:Fire Compound Bow
+
+Missing Exports - Possessed items that were not found:

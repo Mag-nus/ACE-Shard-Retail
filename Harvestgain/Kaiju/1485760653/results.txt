@@ -1,0 +1,56 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485760644_log.pcap
+
+Partial Exports - Missing appraisal info:
+811E26DC:Ust
+811E26DD:Pathwarden Token
+811E26DE:Blackmoor's Favor
+811E26DF:Leather Leggings
+811E26E1:Restoring the Training Academies
+811E26E2:Oil of Rendering
+811E26E3:Oil of Rendering
+811E26E5:Pack
+811E26E4:Facility Hub Portal Gem
+811E26F6:Banished Bow
+811E26E7:Fire Bow
+811E26E8:Blunt Bow
+811E26EA:Electric Bow
+811E26E9:Electric Compound Bow
+811E26EB:Piercing Bow
+811E2700:Swamp Stone
+811E26EC:Fire Bow
+811E26ED:Piercing Bow
+811E26EE:Electric Bow
+811E26EF:Piercing Bow
+811E26F0:Piercing Bow
+811E26F1:Slashing Bow
+811E26F2:Yumi
+811E26F3:Fire Bow
+811E26F5:Nayin
+811E26F4:Slashing Compound Bow
+811E26F8:Tiny Shard
+811E26F9:Obsidian Heart
+811E26FA:Bloodied Burun Hide
+811E26FB:Niffis Pearl
+811E26FC:Dark Revenant Thighbone
+811E26FD:Idol Gem
+811E26FE:Iron Heart
+811E26FF:Seal
+811E2701:Swamp Stone
+811E2702:Grey Spine
+811E2703:Banderling Scalp
+811E2704:Thick Gromnie Hide
+811E2705:Mattekar Hide
+811E2708:Iron Heart
+811E270F:Pack
+909FBB25:Sharp Tusker Slave Tusk
+811E2711:Greataxe
+811E2712:Pack
+811E2714:Leather Jerkin
+811E2716:Asheron's Greater Raiment
+811E2717:Frost Arrow
+8E2BF9BC:Diamond Heart
+8E4460B9:Diamond Heart
+91073212:Kithless Siraluun Claw
+
+Missing Exports - Possessed items that were not found:

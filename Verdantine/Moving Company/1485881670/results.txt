@@ -1,0 +1,92 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap3\pkt_2017-1-31_1485881661_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap1\pkt_2017-1-29_1485721132_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap2\pkt_2017-1-29_1485739902_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap2\pkt_2017-1-29_1485739902_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap2\pkt_2017-1-30_1485823597_log.pcap
+
+Partial Exports - Missing appraisal info:
+85FB6A81:Sack
+85FF2CDA:Pyreal
+85FF2D3D:Ust
+85FF2F6C:Prismatic Taper
+85FF2D42:Lead Scarab
+85FE4E55:Handy Healing Kit
+85FF2DAF:Facility Hub Portal Gem
+85FB9FA1:Pack
+85FF2F34:Tiki Torch
+85FF2F02:Pack Drudge
+85FF2C90:Pack Asheron
+85FCD88A:Pack
+85FF2D31:Aluvian Gem of Worth
+85FBABFC:Olthoi Egg
+86006F30:Salvage (100)
+86006FCE:Pack
+85FE5FAB:Dire Mattekar Paw
+85FF25C8:Arcane Pedestal
+86006E44:Strengthened Mana Forge Key
+85FF2F18:Gem of Balance
+85FEF5AD:Pack
+85F9E24F:Eater
+85FB9ECA:Crystal
+85FEFA85:Pack T'thuun
+85FBB3D9:Fireworks
+85F9147E:Pack
+85FBB32B:Evader's Crystal
+85FCCB8F:Mukkir
+85FF2C3A:Dodger's Crystal
+85FBB6C5:Scroll of Raven Fury
+85F9EEC6:Fishing Pole
+85F9AF44:Treated Healing Kit
+85FCEB2F:Glyph of Recklessness
+85FCF1F7:Glyph of Leadership
+91EB248B:Natural Order
+91E56810:Undead Femur bone
+85FF2F4F:Shadow Fragment
+85FD1039:Shadow Fragment
+85FCCCB2:Shadow Fragment
+85FBB3E6:Pyreal Sliver
+85FE537B:Salvage (100)
+85FCEC44:Salvage (100)
+85FF161C:Salvage (100)
+86013E48:Pumpkin Cookie Cutter
+85FEF0C4:Salvage (100)
+85FF2B0A:Salvage (100)
+91E5CA3F:Osseous Mace
+85FF2B96:Salvage (100)
+85FC2A42:Salvage (100)
+91EEF859:Dire Mattekar Paw
+85FF2F6B:Salvage (100)
+85FC9778:Salvage (100)
+91EEADDB:Carrot Dagger
+85FCF1BC:Salvage (100)
+85FC2F9A:Salvage (100)
+91EB3AE7:Reedshark Hide
+85F9B738:Salvage (100)
+85FC6790:Salvage (100)
+91EB7B7B:Banished Nekode
+85FCCAFC:Salvage (100)
+85FCCD86:Salvage (100)
+85F9ECC0:Salvage (100)
+86006FBA:Salvage (100)
+85FE471C:Salvage (100)
+85FF2742:Salvage (100)
+85FF2E2C:Salvage (100)
+85FF2B7F:Salvage (100)
+85F99FD0:Salvage (100)
+85FBAD84:Salvage (100)
+85FB9BAB:Salvage (100)
+85FBA007:Salvage (100)
+85FCD998:Salvage (100)
+85FB9FA3:Salvage (100)
+86018621:Hunter's Crystal
+880B8536:Corruptor's Crystal
+91EDD6F1:A Huge Lump of Coal
+91EDD6D6:Poofy Snowball
+91EE7F2D:Peculiar Old Dagger
+80F04132:Littoral Siraluun Dress
+91EEDB08:Poofy Snowball
+
+Missing Exports - Possessed items that were not found:

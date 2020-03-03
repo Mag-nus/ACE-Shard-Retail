@@ -1,0 +1,196 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485762907_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2\pkt_2017-1-29_1485708485_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2\pkt_2017-1-29_1485708485_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2\pkt_2017-1-29_1485718247_log.pcap
+
+Partial Exports - Missing appraisal info:
+805EAC38:Asheron's Benediction
+805EAC39:Blackmoor's Favor
+805EAC3B:Gem of Impulse
+805EAC3E:Trade Note (250,000)
+805EAC40:Vissidal Island Portal Gem
+805EAC43:Necklace of the Golden Flame
+805EAC4C:Ust
+805EAC45:Shoushi Portal Gem
+805EAC46:Shoyanen's Portal Gem
+805EAC4A:Trade Note (200,000)
+805EAC4B:Trade Note (100,000)
+805EAC4D:Trade Note (50,000)
+805EAC9E:Trade Note (75,000)
+805EACA3:Trade Note (10,000)
+AE3FCC4A:Ruschk Scalp
+805EAC49:Salvager's Helm
+B0DDF9E9:Trade Note (150,000)
+805F0155:Intricate Carving Tool
+805EAC50:Wrapped Bundle of Deadly Lightning Arrowheads
+805EAC51:Wrapped Bundle of Deadly Acid Arrowheads
+805EAC52:Wrapped Bundle of Deadly Frog Crotch Arrowheads
+805EAC53:Wrapped Bundle of Deadly Blunt Arrowheads
+805EAC54:Wrapped Bundle of Deadly Frost Arrowheads
+805EAC55:Wrapped Bundle of Deadly Armor Piercing Arrowheads
+805EAC56:Wrapped Bundle of Deadly Fire Arrowheads
+805EAC57:Coalesced Mana
+805EAC5F:Wand
+C768D497:Ruschk Scalp
+8E173B05:Wrapped Bundle of Arrowshafts
+C7296A06:Wrapped Bundle of Greater Deadly Blunt Arrowheads
+8A9A37E1:Crown
+89057C0C:Crown
+805EAC74:Heavy Bracelet
+805EAC6B:Knorr Academy Tassets
+805EAC7A:Deed
+805EAC69:Ring
+805EACDE:Ring
+805EAC3F:Runic Helm of Knorr
+805EAC6D:Olthoi Greaves
+B72578E3:Slashing Bow
+8B6B8CD4:Insatiable Eater Jaw
+909F1992:Insatiable Eater Jaw
+94F48494:Insatiable Eater Jaw
+8E7C447C:Insatiable Eater Jaw
+8C369D83:Insatiable Eater Jaw
+B1FB7C4E:Insatiable Eater Jaw
+AF3B6DED:Insatiable Eater Jaw
+B09A8BF6:Insatiable Eater Jaw
+B3543CD5:Insatiable Eater Jaw
+89D35F47:Teardrop Crown
+805EAC64:Coronet
+89C59E06:Signet Crown
+94F2DC83:Circlet
+8A798206:Insatiable Eater Jaw
+805EAC66:Insatiable Eater Jaw
+805EAC5B:Insatiable Eater Jaw
+8DD6FD1F:Insatiable Eater Jaw
+866EABED:Insatiable Eater Jaw
+B6EF6336:Insatiable Eater Jaw
+805EAC60:Insatiable Eater Jaw
+805EACDD:Insatiable Eater Jaw
+B3F7E903:Thorsten's Crystal
+805EACAC:Parchment
+805EAC8A:Massive Mana Charge
+805EAC91:Massive Mana Charge
+805EAC82:Massive Mana Charge
+805EAC89:Massive Mana Charge
+805EAC90:Massive Mana Charge
+805EAC84:Massive Mana Charge
+805EAC8D:Massive Mana Charge
+805EAC8C:Massive Mana Charge
+805EAC8B:Massive Mana Charge
+805EAC81:Massive Mana Charge
+805EAC8E:Massive Mana Charge
+8FAFF73E:Diadem
+94F85478:Circlet
+805EAC88:Massive Mana Charge
+805EACF0:Crown
+805EAC87:Massive Mana Charge
+805EAC83:Massive Mana Charge
+805EAC8F:Massive Mana Charge
+805EAC86:Massive Mana Charge
+805EAC80:Massive Mana Charge
+805EAC85:Massive Mana Charge
+89B800A5:Circlet
+8A964D44:Signet Crown
+805EAC93:Peerless Lockpick
+805EAC94:Silver Pea
+805EAC96:Lead Pea
+805EAC97:Silver Scarab
+805EAC99:Gold Scarab
+ADE4EE9C:Ring
+ADE630FC:Ring
+805EF8B8:Iron Scarab
+805EF8B3:Lead Scarab
+805EACA2:Splitting Tool
+805EACC2:Yanshi Town Stamp
+805EACC7:Facility Hub Portal Gem
+805EACD7:Peerless Lockpick
+805EAC6C:Nuhmudira's Bestowment of Endurance and Pierce Defense
+AFE7BFBD:Oswald's Crystal
+8906BAD5:Chainmail Coif
+8B7CA053:Chainmail Tassets
+890856EE:Covenant Greaves
+89081FFA:Studded Leather Gauntlets
+89C09F22:Golden Shuriken of Tanada
+890B332C:Salvage (14)
+89075E47:Salvage (18)
+805EC7BA:Scroll of Nether Streak VII
+805EAC59:Ornate Gear Marker
+805EAC5A:Ancient Mhoire Coin
+AF0B0C87:Blank Augmentation Gem
+B0996500:Gem of Stillness
+B4B60E9F:Aetherium Power Core
+AFCD22B7:Deadly Lightning Arrow
+C7154B26:Blank Augmentation Gem
+C7648083:Quill of Infliction
+B4AF5C76:Deadly Frost Arrow
+805EAC9C:Diamond Scarab
+805EAC9D:Gold Pea
+805EACA1:Copper Pea
+805EACA9:Mana Scarab
+8BD04A78:Copper Scarab
+8B66F9FD:Crown
+805EAC9F:A'nekshay Token
+805EACAE:Pet Penguin Igloo
+805EACB1:Quest Weapon Coin
+805EACB2:Melee Defense Gem of Enlightenment
+805EACB4:Forager Captain's Resonator
+805EACB3:Coalesced Mana
+805EACB5:Small Olthoi Venom Sac
+B4A207F5:Major Mana Stone
+805EACB7:Gonjoku's Mana Infusion
+805EACBB:Last Known Location of Muldaveus
+8904C4E3:Teardrop Crown
+805EAC75:Heavy Necklace
+8A84A906:Gorget
+89B4F3E0:Heavy Bracelet
+805EACD8:Deadly Frost Arrow
+8EF18B94:Orb
+805EBBA1:Major Mana Stone
+8904D535:Gorget
+8A8406B0:Studded Leather Girth
+B4AD14DD:Major Mana Stone
+AE3FDA50:Piercing Compound Bow
+B4B418A8:Ring
+B4B1AEFF:Major Mana Stone
+B4B41934:Loose Breeches
+805EACBA:Deadly Acid Arrow
+C80D2545:Major Mana Stone
+AF744DCC:Berzerker's Crystal
+C80E266A:Major Mana Stone
+8058309C:Goggles
+805EAC7B:Imbued Pyreal Mote
+8A4CA2A3:Gem of Stillness
+8C488D76:Snow Tusker Blood Sample
+878BE5C2:Salvage (22)
+8794D10B:Salvage (18)
+8B4ED17F:Crown
+B6EA7BF1:Salvage (51)
+805EAC5E:Colosseum Coin
+805EAC58:Fire Baton
+8985784E:Diadem
+805EAC41:Ring of the Summoning Adepts
+805EACCD:Ring of the Whispering Blade
+805EAC3A:Lightweight Tome
+C80E2282:Salvage (29)
+9CFAF4D7:Blank Augmentation Gem
+C738AA01:Warrior's Crystal
+AFCD2683:Baggy Tunic
+B4A920B8:List of Hunted Creatures
+B6D869C7:Amulet
+B72656B2:Puffy Tunic
+B720298E:Blank Augmentation Gem
+B7264324:Olthoi Celdon Gauntlets
+B714641C:Covenant Sollerets
+805EAC42:Baby Pet Token
+B09AE937:Greater Deadly Blunt Arrow
+C80DE942:Snow Flake Charm
+C811257F:Aphus Lassel Portal Gem
+C80FF537:Hunter's Crystal
+B1DCEA2D:Deadly Fire Arrow
+C83557FA:Ravenous Eater Jaw
+C82D82B6:Voracious Eater Jaw
+C83B5A0E:Abhorrent Eater Jaw
+
+Missing Exports - Possessed items that were not found:

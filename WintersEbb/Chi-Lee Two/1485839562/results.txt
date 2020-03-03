@@ -1,0 +1,85 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485839402_log.pcap
+
+Partial Exports - Missing appraisal info:
+915AE8A3:Loose Tunic
+915AE8A5:Leather Boots
+915AE8AF:Foci of Artifice
+915AE8BC:Pack
+915AE8C6:Snowman Snowglobe
+915AE8C7:Ice Box
+915AE8C8:Snowman Snowglobe
+915AE8C9:The Plan
+915AE8AE:Ust
+915AE8B5:Wrapped Bundle of Deadly Lightning Arrowheads
+915AE8B4:Wrapped Bundle of Deadly Blunt Arrowheads
+915AE8B3:Wrapped Bundle of Deadly Frog Crotch Arrowheads
+915AE8B0:Great Mana Charge
+915AE8A8:Blackmoor's Favor
+915AE8AC:Lead Scarab
+915AE8AB:Teleportation Device
+915AE8AD:Prismatic Taper
+833F77C9:Neydisa Snowglobe
+915A57A3:Salvage (100)
+915B5CAC:Salvage (100)
+92071F12:Salvage (100)
+833F77CA:Holiday Hearth
+92068EAD:Salvage (100)
+9201C947:Salvage (100)
+91E6D6A0:Salvage (100)
+92081B72:Salvage (100)
+920B0BAB:Salvage (100)
+927C5CCE:Salvage (100)
+927C50E6:Salvage (100)
+9279EC68:Salvage (100)
+92757304:Salvage (100)
+9269DE3A:Salvage (100)
+91E1145B:Salvage (100)
+924A280E:Salvage (100)
+9277304A:Salvage (100)
+93D093F7:Salvage (100)
+93D08706:Salvage (100)
+93CAC439:Salvage (100)
+93CBF74C:Salvage (100)
+93D6F857:Salvage (100)
+93D70279:Salvage (100)
+93E0631B:Salvage (100)
+93F0CCD9:Salvage (100)
+93E3BD00:Salvage (100)
+93F43847:Salvage (100)
+93EC6559:Salvage (100)
+93C040BA:Salvage (100)
+93E278CD:Salvage (100)
+93E6E30E:Salvage (100)
+93D920E1:Salvage (100)
+93D8FFED:Salvage (100)
+93BF54B8:Salvage (100)
+93E14C93:Salvage (100)
+93CD9015:Salvage (100)
+93E2A2F2:Salvage (100)
+93DB80EC:Salvage (100)
+93D0A194:Salvage (100)
+93DBCB28:Salvage (100)
+93EF86B8:Salvage (100)
+93F98660:Salvage (100)
+93E514EE:Salvage (100)
+93FA3815:Salvage (100)
+93FE911B:Salvage (100)
+93FF28F0:Salvage (100)
+93F741AF:Salvage (100)
+93F3DA48:Salvage (100)
+94005618:Salvage (100)
+93E32B6B:Salvage (100)
+93F99060:Salvage (100)
+931639CB:Salvage (100)
+9400DAB5:Salvage (100)
+93E17D1E:Salvage (100)
+93CEAD1D:Imbuer's Crystal
+93D19348:Ancient Falatacot Trinket
+93CEF13C:Coalesced Aetheria
+93686EE5:Heavy Bracelet
+833F7816:Greater Deadly Armor Piercing Arrow
+833F75EB:Greater Deadly Frog Crotch Arrow
+833F7841:Greater Deadly Frog Crotch Arrow
+
+Missing Exports - Possessed items that were not found:

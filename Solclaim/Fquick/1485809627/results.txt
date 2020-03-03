@@ -1,0 +1,132 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-30_1485809555_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Mavness-02-01-2017-pcap\pcap\pkt_2017-1-23_1485233959_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Mavness-02-01-2017-pcap\pcap\pkt_2017-1-23_1485233995_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Mavness-02-01-2017-pcap\pcap\pkt_2017-1-23_1485233995_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Mavness-02-01-2017-pcap\pcap\pkt_2017-1-23_1485233995_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Mavness-02-01-2017-pcap\pcap\pkt_2017-1-24_1485237888_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Mavness-02-01-2017-pcap\pcap\pkt_2017-1-24_1485238132_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Mavness-02-01-2017-pcap\pcap\pkt_2017-1-24_1485241544_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Mavness-02-01-2017-pcap\pcap\pkt_2017-1-12_1484277093_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Mavness-02-01-2017-pcap\pcap\pkt_2017-1-12_1484278193_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Mavness-02-01-2017-pcap\pcap\pkt_2017-1-12_1484278243_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Mavness-02-01-2017-pcap\pcap\pkt_2017-1-12_1484278243_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Mavness-02-01-2017-pcap\pcap\pkt_2017-1-14_1484455292_log.pcap
+
+Partial Exports - Missing appraisal info:
+9C552F8E:Aerbax Mask Shard
+8278EBB1:Blank Augmentation Gem
+9C424AEE:Grey Taper
+9C416847:Pyreal
+827BE4A8:Colosseum Backpack
+827BE5DD:Azaxis Token
+9C7F9800:Pyreal
+827BE4C4:Glissnal Sleech Shell
+827BE506:Glissnal Sleech Shell
+827BE4DE:Colosseum Backpack
+9C7F97FF:Pyreal
+827BE49B:Glissnal Sleech Shell
+827BE4A0:Glissnal Sleech Shell
+8279B982:Glissnal Sleech Shell
+8278ED9E:Glissnal Sleech Shell
+827BE4FC:Glissnal Sleech Shell
+827BE474:Glissnal Sleech Shell
+827BE4FA:Glissnal Sleech Shell
+827BE476:Glissnal Sleech Shell
+827BE487:Glissnal Sleech Shell
+827BE475:Glissnal Sleech Shell
+8278EC22:Glissnal Sleech Shell
+8278EDBB:Glissnal Sleech Shell
+9C424AC7:Yellow Taper
+9C6B344D:Silver Pea
+827BE480:Prismatic Taper
+827BE5D2:Colosseum Backpack
+827BBCE8:Chorizite
+827BBCE7:Copper Scarab
+827BBCE6:Lead Scarab
+827BBDB6:Silver Scarab
+827BBD0F:Gold Scarab
+827CF2F7:Pyreal Scarab
+827CF2F6:Pyreal Scarab
+827A5CC2:Platinum Scarab
+8278EDB5:Diamond Scarab
+827BE5BE:Mana Scarab
+8278EC16:Mana Scarab
+8278EAF0:Aetheria Desiccant
+8278EAD5:Iron Scarab
+9C4252E6:Colosseum Vault Key
+827BE4D1:Colosseum Backpack
+8278EBD8:Colosseum Coin
+8276F56F:Diamond Scarab
+827BE50B:Diamond Scarab
+827BE4D2:Diamond Scarab
+827BE519:Diamond Scarab
+827BE5D8:Chorizite
+827BE544:Dire Champion Token
+8278EBAA:Pristine Mana Shard
+827BE559:Some Changes for February 2012
+9C6DCD99:Gold Pea
+8278EC7D:Colosseum Backpack
+9C04544A:Massive Mana Charge
+9C06FC72:Massive Mana Charge
+827BE4E5:Writ of Refuge
+827BFE4E:Encapsulated Spirit
+9BDC919C:Demon Swarm Matron Token
+9BF5EA44:Scroll of Tusker Fists
+827BE4B8:Colosseum Backpack
+9C7F97FE:Pyreal
+9C508D7A:Glyph of Focus
+9C4E24E4:Glyph of Piercing
+9C70AEE3:A Large Mnemosyne
+9C4B08DE:Glyph of Lightning
+9C547EFB:The Temple of Enlightenment
+9C52FF32:Ink of Nullification
+9C5C6709:Town Network Portal Gem
+9C7F97FD:Pyreal
+9C552F1B:Hyssop
+827BE4BF:Colosseum Backpack
+8278EDED:Coruscating Olthoi Scent Gland
+827BE4F9:Ancient Mhoire Coin
+9C7F97FC:Pyreal
+827BE4D9:Trade Note (250,000)
+827BE4C0:Trade Note (250,000)
+82787321:Lord Cynreft's Ancient Emblem of Mhoire
+827BE557:Celestial Hand Trade Token
+827BE537:Celestial Hand Commendation Ribbon
+827BE51D:Colosseum Backpack
+9C06D9B8:Massive Mana Charge
+9C03C201:Massive Mana Charge
+9C06EB4F:Massive Mana Charge
+9C06E9FF:Massive Mana Charge
+9C06ED84:Massive Mana Charge
+9C03E547:Massive Mana Charge
+9C06F0BC:Massive Mana Charge
+9C044EA0:Massive Mana Charge
+9C04F441:Massive Mana Charge
+9C05DE30:Massive Mana Charge
+9C06F1A2:Massive Mana Charge
+9C03CF95:Massive Mana Charge
+9C06F459:Massive Mana Charge
+9C06F426:Massive Mana Charge
+9C4D8CE1:Glyph of Arcane Lore
+9C58216F:A Note From Ciandra
+9C6C9557:Scroll of Arcane Enlightenment V
+9C7F997F:Prismatic Taper
+9C80A15C:Prismatic Taper
+9C835FF2:Prismatic Taper
+9C809B51:Prismatic Taper
+9C857B68:Gold Pea
+9C8576E4:Silver Pea
+9C97A4EB:Major Mana Stone
+9C97CC96:Major Mana Stone
+9C9ABF2E:Gold Pea
+8811A644:Bronze Gearknight Gear
+880EF63E:Bow Stamped Spectral Ingot
+880E9CAF:Casting Staff Stamped Spectral Ingot
+8811A020:Claw Stamped Spectral Ingot
+8811A476:Staff Stamped Spectral Ingot
+9CB6FD6A:Pyreal Sliver
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,22 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Random_Logs\pkt_2017-1-25_1485403942_log.pcap
+
+Partial Exports - Missing appraisal info:
+DCB93234:Shirt
+DCB93235:Pants
+DCB93236:Shoes
+DCB93237:Pyreal
+DCB93238:Sack
+DCB93239:Ust
+DCB9323A:Calling Stone
+DCB9323B:Pathwarden Token
+DCB9323C:Training Dirk
+DCB9323E:Arrow
+DCB9323D:Training Shortbow
+DCB9323F:Round Shield
+DCB93240:Handy Healing Kit
+DCB93241:Letter From Home
+DCB93242:Bread
+DCBF4868:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

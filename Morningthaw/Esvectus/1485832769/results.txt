@@ -1,0 +1,83 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\TheFallen_MT_01-30-17_Mules\TheFallen_MT_01-30-17_Mules.pcap
+
+Partial Exports - Missing appraisal info:
+C6B90AA2:Pack
+C6B77204:Rogue's Crystal
+C6B909CF:Pack
+C6BECF07:Pack
+C6BF1D51:Pack
+C6BEC73E:Hunter's Crystal
+C6BEC733:Aluvian Wand
+C6BECD5B:Ust
+C6B90A90:Quest Weapon Coin
+C6BECEEA:Prismatic Taper
+C6BEC720:Lead Scarab
+C6BD5C8F:Iron Scarab
+C6BECD27:Copper Scarab
+C6BECF18:Silver Scarab
+C6BE3DC7:Gold Scarab
+C6BEC6B5:Pyreal Scarab
+C6BEC72B:Stipend
+C6BEC756:Writ of Apology
+C6BECD78:Melee Defense Gem of Enlightenment
+C6BECF19:Blackmoor's Favor
+C6BECEFD:Stamina Tonic
+C6BEC734:Mana Tonic
+C6BEC72D:Treated Healing Kit
+C6BEC73C:Treated Healing Kit
+C6BEC721:Treated Healing Kit
+C6BEC717:Treated Healing Kit
+C6BECEED:Treated Healing Kit
+C6BECEF3:Foci of Verdancy
+C6BEC72F:Foci of Artifice
+C6BECEFC:Pyreal
+C6BEC760:Lucky Gold Letter
+C6BEC757:Lucky Gold Letter
+C6B907CB:Lucky Gold Letter
+C6BECF1C:Lucky Gold Letter
+C6BECED7:Lucky Gold Letter
+C6BEC718:Lucky Gold Letter
+C6BECEA8:Lucky Gold Letter
+C6BECEE2:Lucky Gold Letter
+C6BECD22:Lucky Gold Letter
+C6BECEB1:Pyreal
+C6BECEFB:Pyreal
+C6BECD23:Pyreal
+C6BEC736:Pyreal
+C6BECF05:Pack
+C6BECF1B:Composite Bow with Handle
+C6BECD6D:Yanshi Town Stamp
+C6BECED6:Olthoi Larvae Steak
+C6BEC71A:Mosswart Armband
+C6BECEBA:Seasoned Explorer Compound Bow
+C6BECEF5:Nanto Town Stamp
+C6BECE98:Mid-Stakes Gambling Token
+C6BECEB0:Low-Stakes Gambling Token
+C6BECEA9:Hearty Lugian Loaf
+C6BECE7B:Gem of Balance
+C6BECE57:Refreshing Water
+C6BECC4B:Priceless Ore
+C6BECF09:Greater Mana Kit
+C6BECEFA:Facility Hub Portal Gem
+C6BE3DC5:Sturdy Iron Key
+C6BEC737:Sturdy Iron Key
+C6BD5C61:Untranslated Note
+C6BD5CA1:Salvage (8)
+C6BECF1A:Lucky Gold Letter
+C6BECD2F:Salvage (8)
+C6BEC71B:Salvage (5)
+C6BECED5:Salvage (17)
+C6B90AB7:Token of Modification
+C6BECF08:Salvage (18)
+C6BECEB9:Salvage (51)
+C6BE3DCC:Token of Modification
+C6BECEE4:Salvage (4)
+C6BECE71:Salvage (23)
+C6BECF02:Token of Modification
+C6BECE70:Salvage (16)
+C6BECE40:Deadly Frog Crotch Arrow
+C6BECEE5:Focusing Stone
+C6BECEE9:Hawthorn
+
+Missing Exports - Possessed items that were not found:

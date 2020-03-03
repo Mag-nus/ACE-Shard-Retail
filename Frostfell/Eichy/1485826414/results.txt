@@ -1,0 +1,148 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\gdrive (tfarley)\Eichy\AC\pkt_2017-1-30_1485826410_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\gdrive (tfarley)\Eichy\AC\pkt_2017-1-30_1485825533_log.pcap
+
+Partial Exports - Missing appraisal info:
+DC493853:Pack
+DC4938B1:Pyreal
+DC493854:Prismatic Taper
+DC493855:Orb
+DC493856:Major Mana Stone
+DC493857:Greater Mana Stone
+DC493858:Major Mana Stone
+DC493859:Major Mana Stone
+DC49385A:Greater Mana Stone
+DC49385B:Moderate Mana Stone
+DC49385C:Greater Mana Stone
+DC49385D:Greater Mana Stone
+DC49385E:Major Mana Stone
+DC493861:Greater Mana Stone
+DC493862:Greater Mana Stone
+DC493863:Moderate Mana Stone
+DC493864:Greater Mana Stone
+DC493865:Major Mana Stone
+DC493866:Greater Mana Stone
+DC493867:Aphus Lassel Portal Gem
+DC493868:Abandoned Mines Portal Sending Gem
+DC493869:Major Mana Stone
+DC49386A:Greater Mana Stone
+DC49386B:Major Mana Stone
+DC4938C8:Pyreal
+DC49386C:Pack
+DC49386D:Orb
+DC49386E:Sceptre
+DC49386F:Orb
+DC493870:Orb
+DC493878:Necklace
+DC493871:Orb
+DC493872:Staff
+DC49387C:Virindi Implant
+DC493873:Orb
+DC493874:Staff
+DC493882:Wedding Ring
+DC493875:Orb
+DC493876:Orb
+DC493886:Stone Tool
+DC493877:Orb
+DC493879:Sceptre
+DC493889:Pack
+DC49387A:Wand
+DC49387B:Staff
+DC49388A:Iron Scarab
+DC49387E:Sceptre
+DC49387F:Shoyanen's Portal Gem
+DC4938A3:Sturdy Steel Key
+DC493880:Orb
+DC493881:Orb
+DC49388B:Gold Scarab
+DC493884:Heavy Bracelet
+DC493885:Whittling Knife
+DC49388C:Silver Scarab
+DC493887:Shirt
+DC493888:Pants
+DC4938A7:A Large Mnemosyne
+DC49388D:Lead Scarab
+DC49388E:Pyreal Pea
+DC49388F:Gold Pea
+DC493890:Copper Scarab
+DC493891:Splitting Tool
+DC493892:Lead Pea
+DC493893:Silver Pea
+DC493894:Copper Pea
+DC493895:Frigid Bracelet
+DC493896:Galvanic Bracelet
+DC493897:Foci of Artifice
+DC493898:Foci of Verdancy
+DC493899:Foci of Enchantment
+DC49389A:Ring
+DC49389C:Ring
+DC49389B:Aerfalle's Pallium
+DC49389D:Major Smoldering Stone
+DC4938A4:Sturdy Steel Key
+DC49389E:Major Shivering Stone
+DC49389F:Major Sparking Stone
+DC4938A0:Major Stinging Stone
+DC4938A2:Kabuton
+DC4938A6:Ring
+DC4938A8:Baron's Amulet of Life Giving
+DC4938A9:Ring
+DC4938AD:Yumi
+DC4938AA:Trousers
+DC4938AB:Wrapped Bundle of Arrowshafts
+DC4938C0:Major Mana Stone
+DC4938AE:Sollerets
+DC4938AF:Blackmoor's Favor
+DC4938B0:Ring
+DC4938B2:Wrapped Bundle of Arrowheads
+DC4938B3:Pack
+DC4938C7:Acid Nekode
+DC4938B4:Lightning Claw
+DC4938B5:Covenant Sollerets
+DC4938CF:Treated Healing Kit
+DC4938B6:Amuli Coat
+DC4938B7:Frost Claw
+DC49385F:Greater Mana Stone
+DC4938B8:Coronet
+DC4938B9:Lightning Lancet
+DC4938CD:Diamond Shield
+DC4938BB:Shirt
+DC4938BC:Trousers
+DC493860:Greater Mana Stone
+DC4938BD:Heavy Bracelet
+DC4938BE:Heavy Bracelet
+DC4938D0:Treated Healing Kit
+DC4938BF:Trousers
+DC4938C3:Trade Note (50,000)
+DCB2FE07:A Large Mnemosyne
+DC4938C9:Concentrated Lightning Oil
+DCF0439D:Pyreal
+DC4938CA:Concentrated Fire Oil
+DC4938CB:Concentrated Bloodhunter Oil
+DC4938CC:Concentrated Bloodseeker Oil
+DC4938CE:Trade Note (50,000)
+DCEAB76A:Pyreal
+DC4938D1:Pyreal Scarab
+DC4938D5:Shoyanen's Portal Gem
+DC4938D8:Emerald Oculus
+DC4938DA:Some Changes for February 2012
+DC4938A1:Platemail Gauntlets
+DC49387D:Staff
+DCB20C6D:Heavy Bracelet
+DCB301C9:Greater Mana Stone
+DCB301C8:Coronet
+DCB301C6:Bordered Cloak
+DCB05B0D:Heavy Necklace
+DC4938D2:Fiun Spellcasting Gloves
+DCB05B0C:Chevron Cloak
+DC4938D4:Staff
+DC493883:Ring
+DC4938C2:Cap
+DCBD7ACA:Scarlet Red Letter
+DCBD7BD2:Lucky Gold Letter
+DC4938D9:Electric Bow
+DCF1D5EF:Trade Note (50,000)
+DC4938DB:Focusing Stone
+
+Missing Exports - Possessed items that were not found:

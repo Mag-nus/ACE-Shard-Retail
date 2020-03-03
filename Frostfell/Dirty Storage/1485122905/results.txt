@@ -1,0 +1,213 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Keith-Various-pcaps\Viridian Rise Deru Portal Sending Gem.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\trello_datamining\16_Viridian Rise Deru Portal Sending Gem.pcap
+
+Partial Exports - Missing appraisal info:
+DC90AFA9:Electrified Moar Essence
+DC90AFAA:Olthoi Koujia Sleeves
+DC90AFAC:Trousers
+DC90AFAD:Studded Leather Sleeves
+DC90AF70:Pack
+DC90AFAE:Acid Lancet
+DC90AFAF:Quartered Cloak
+DC90AF71:Pyreal
+DC90AF72:Khanda-handled Mace
+DC90AF73:Gorget
+DC90AF74:Crown
+DC90AF75:Amuli Coat
+DC90AFB0:Knife
+DC90AFB1:Frost Claw
+DC90AF76:Ring
+DC90AF77:Ring
+DC90AF79:Ring
+DC90AFB2:Frost Baton
+DC90AFB3:Flaming Lancet
+DC90AFB5:Cloak
+DC90AF78:Olthoi Koujia Gauntlets
+DC90AF7A:Acid Claw
+DC90AFB6:Ring
+DC90AFB7:Studded Leather Boots
+DC90AFBB:Pack
+DC90AF7B:Lightning Pike
+DC90AF7C:Baggy Pants
+DC90AFB8:Alduressa Coat
+DC90AFB9:Chainmail Breastplate
+DC90AFBA:Olthoi Celdon Helm
+DC90AFBC:Flaming Hand Wraps
+DC90AFBD:Greataxe
+DC90AFBE:Turban
+DC90AFC1:Ring
+DC90AF7D:Lightning Magari Yari
+DC90AF7E:Halved Cloak
+DC90AFBF:Signet Crown
+DC90AFC0:Acid Phyntos Swarm Essence
+DC90AFC3:Flaming Magari Yari
+DC90AFC4:Acid Shashqa
+DC90AFC5:Top
+DC90AFC6:Loafers
+DC90AFC7:Shirt
+DC90AFC8:Lightning Great Star Mace
+DC90AFC9:Lightning Knife
+DC90AFD4:Pack
+DC90AFCB:Khanda-handled Mace
+DC90AFCC:Fire Baton
+DC90AFCD:Frost Tetsubo
+DC90AFCE:Bracelet
+DC90AFD0:Flaming Claw
+DC90AFD1:Smock
+DC90AFD2:Olthoi Alduressa Boots
+DC90AFD5:Fire Phyntos Swarm Essence
+DC90AFD6:Amuli Leggings
+DC90AFD7:Shirt
+DC90AFD9:Acid Lancet
+DC90AFDA:Lightning Pike
+DC90AFDB:Blunt Baton
+DC90AFDC:Frost Quadrelle
+DC90AFDE:Nariyid Breastplate
+DC90AFDF:Trimmed Cloak
+DC90AFE0:Slashing Staff
+DC90AFE2:Nether Staff
+DC90AFE3:Studded Leather Tassets
+DC90AFE4:Freezing Moar Essence
+DC90AFE5:Slashing Baton
+DC90AFE7:Frost Khanda-handled Mace
+DC90AFE8:Puffy Shirt
+DC90AFE9:Lightning Knife
+DC90AFEA:Baggy Pants
+DC90AFEB:Teardrop Crown
+DC90AFEC:Pack
+DC90AFEF:Turban
+DC90AFED:Slashing Sceptre
+DC90AFEE:Excited Grievver Essence
+DC90AFF0:Olthoi Alduressa Coat
+DC90AFF1:Fire Baton
+DC90AFF2:Frost Knife
+DC90AFF3:Heavy Bracelet
+DC90AFF6:Ring
+DC90AFF4:Fire Sceptre
+DC90AFF5:Studded Leather Breastplate
+DC90AFF7:Blunt Sceptre
+DC90AFF8:Pants
+DC90AFF9:Frost Phyntos Swarm Essence
+DC90AFFA:Frost Claw
+DC90AFFB:Baggy Pants
+DC90AFFC:Viamontian Pants
+DC90AFFD:Lancet
+DC90AFFE:Acid Baton
+DC90AFFF:Studded Leather Tassets
+DC90B000:Shirt
+DC90B001:Diadem
+DC90B002:Tenassa Leggings
+DC90B003:Teardrop Crown
+DC90B004:Gorget
+DC90B005:Pack
+DC90B006:Heavy Necklace
+DC90B007:Circlet
+DC90B008:Fire Baton
+DC90B009:Teardrop Crown
+DC90B00B:Blunt Sceptre
+DC90B00C:Olthoi Alduressa Boots
+DC90B00D:Wand
+DC90B00E:Smock
+DC90B010:Celdon Girth
+DC90B011:Alduressa Boots
+DC90B012:Koujia Sleeves
+DC90B014:Olthoi Koujia Kabuton
+DC90B015:Turban
+DC90B04B:Diadem
+DC90B016:Viamontian Pants
+DC90B017:Shirt
+DC90B019:Circlet
+DC90B01F:Ring
+DC90B01A:Lyceum Hood
+DC90B01B:Olthoi Koujia Breastplate
+DC90B01C:Frost Sceptre
+DC90B01E:Chiran Sandals
+DC90B020:Cloth Gloves
+DC90B022:Heavy Necklace
+DC90B023:Frost Assagai
+DC90B024:Heavy Bracelet
+DC90B025:Studded Leather Gauntlets
+DC90B027:Ring
+DC90B028:Trousers
+DC90B029:Baggy Pants
+DC90B02A:Chainmail Sleeves
+DC90B02C:Chainmail Gauntlets
+DC90B02D:Poet's Shirt
+DC90B02E:Puffy Shirt
+DC90B02F:Staff
+DC90B030:Blunt Sceptre
+DC90B031:Acid Pike
+DC90B032:Ring
+DC90B033:Bracelet
+DC90B035:Chainmail Leggings
+DC90B036:Cloth Gloves
+DC90B037:Acid Sceptre
+DC90B038:Alduressa Helm
+DC90B039:Yoroi Breastplate
+DC90B03A:Slashing Sceptre
+DC90B03B:Fire Sceptre
+DC90B03C:Piercing Staff
+DC90B03D:Acid Pike
+DC90B03E:Fire Staff
+DC90B03F:Lightning Tetsubo
+DC90B040:Bracelet
+DC90B041:Heavy Bracelet
+DC90B043:Frost Sceptre
+DC90B044:Acid Baton
+DC90B045:Cowl
+DC90B046:Slashing Sceptre
+DC90B047:Chainmail Gauntlets
+DC90B048:Studded Leather Pauldrons
+DC90B049:Olthoi Koujia Breastplate
+DC90B04C:Shoes
+DC90B04D:Spadone
+DC90B056:Ring
+DC90B04E:Electric Baton
+DC90B050:Slashing Sceptre
+DC90B051:Fire Baton
+DC90B052:Frost Shashqa
+DC90B054:Chainmail Leggings
+DC90B055:Piercing Sceptre
+DC90B057:Bracelet
+DC90B059:Slippers
+
+Missing Exports - Possessed items that were not found:
+DC90AF89
+DC90AFA4
+DC90AFA1
+DC90AFA0
+DC90AF9F
+DC90AF9E
+DC90AF9D
+DC90AF9C
+DC90AF9B
+DC90AF9A
+DC90AF99
+DC90AF98
+DC90AF97
+DC90AF96
+DC90AF95
+DC90AF94
+DC90AF93
+DC90AF92
+DC90AF91
+DC90AF90
+DC90AF8F
+DC90AF8E
+DC90AF8D
+DC90AF8C
+DC90AF8B
+DC90AF8A
+DC90AF88
+DC90AF87
+DC90AF86
+DC90AF85
+DC90AF84
+DC90AF83
+DC90AF82
+DC90AF81
+DC90AF80
+DC90AF7F

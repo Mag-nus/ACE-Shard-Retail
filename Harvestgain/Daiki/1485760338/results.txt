@@ -1,0 +1,50 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485760159_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-25_1485333134_log.pcap
+
+Partial Exports - Missing appraisal info:
+811E1FD7:Pyreal
+811E1F9C:Ust
+811E1F9D:Foci of Verdancy
+811E1FA0:Blackmoor's Favor
+811E1FA2:Swamp Stone
+811E1FA3:Corruptor's Crystal
+811E1FB0:Auroch Horn
+811E1FA7:Sturdy Iron Key
+811E1FA8:Sturdy Iron Key
+811E1FA9:Sturdy Iron Key
+811E1FAA:Lead Scarab
+811E1FAB:Sturdy Iron Key
+811E1FAC:Sturdy Iron Key
+811E1FAD:Sturdy Iron Key
+811E1FAE:Circlet
+811E1FAF:Academy Stamp
+811E1FB1:Banderling Scalp
+811E1FB2:Untranslated Page #4
+811E1FB3:Goggles
+811E1FB4:Facility Hub Portal Gem
+811E1FB6:Pack
+811E1FB7:Pack
+811E1FC1:Luminance Certificate
+811E1FD2:Fishing Made Easy
+811E1FC6:Heavy Bracelet
+811E1FD8:Pyreal
+811E1FC9:Necklace
+811E1FCA:Ruminations on Portal Creation
+811E1FCC:Ring
+811E1FCF:Directions to the Cave of Alabree
+811E1FD3:Trade Note (250,000)
+811E1FD9:Pyreal
+811E1FDA:Pyreal
+811E1FDB:Pyreal
+811E1FDC:Pyreal
+811E1FDD:Pyreal
+811E1FDE:Pyreal
+811E1FDF:Pack
+80FCB638:Nayin
+C7FAB2E4:Stipend
+81011565:Deadly Blunt Arrow
+
+Missing Exports - Possessed items that were not found:

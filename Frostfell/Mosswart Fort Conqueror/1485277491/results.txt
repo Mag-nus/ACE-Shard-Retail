@@ -1,0 +1,61 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-24_1485277486_log.pcap
+
+Partial Exports - Missing appraisal info:
+DCB14EE0:Baggy Tunic
+DCB14645:Elaniwood Golem Heart
+DCB053E4:Great Mana Charge
+DCAF170F:Ring
+DCAF1706:Trimmed Cloak
+DCB19786:Cracked Shard
+DCB14656:Jerkin
+DCB19511:Bracelet
+DCB143B5:Wood Heart
+DCB19A02:Aura of Swift Killer Other III
+DCBA852F:Bracelet
+DCBA8CD7:Ring
+DCBA8C59:Wand
+DCBA8D36:Ice Tachi
+DCBA89B5:Bracelet
+DCBA881B:Key
+DCBA86F3:Bracelet
+DCBA8E70:Bracelet
+DCB9A472:Ring
+DCB9A787:Encapsulated Spirit
+DCB9A794:Turban
+DCB9A6E9:Key
+DCB9A7DB:Studded Leather Shirt
+DCBB825D:Ruminations on Portal Creation
+DCB9A6E8:Dagger of Tikola
+DCB9A8B4:Staff
+DCB9A87D:Superior Helmet
+DCB9A87C:Fiery Shield
+DCAFB202:Academy Wand
+DCB9A947:Wide Breeches
+DCB9A996:Leather Cuirass
+DCBA864D:Orb
+DCB9A9BF:Bracelet
+DCA8DF59:Dull Dagger
+
+Missing Exports - Possessed items that were not found:
+DC36281B
+DCB14657
+DC36281A
+DC6CD3D7
+DCB053E5
+DC843EDD
+DC362828
+DC362827
+DC362826
+DC36281F
+DC36281D
+DCAA924A
+DCA90DDF
+DC362825
+DC36281E
+DCB053D6
+DCB053D5
+DCB053D4
+DCB053E6
+DCB053E3
+DCB053E2

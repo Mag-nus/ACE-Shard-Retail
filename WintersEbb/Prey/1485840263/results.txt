@@ -1,0 +1,161 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\pkt_2017-1-30_1485843220_desc\pkt_2017-1-30_1485831600_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-06-2017\pkt_2017-1-30_1485843220_desc\pkt_2017-1-30_1485831600_log.pcap
+
+Partial Exports - Missing appraisal info:
+A50B2954:Wide Breeches
+A50B295B:Pack
+A50B2932:Ashwood Talisman
+A50B2978:Rowan Talisman
+A50B291F:Poplar Talisman
+A50B2906:Alder Talisman
+A50B2947:Hemlock Talisman
+A50B2923:Ebony Talisman
+A50B2946:Willow Talisman
+A50B292A:Cedar Talisman
+A50B2944:Yew Talisman
+A50B2963:Orange Taper
+A50B2943:Yellow Taper
+A50B290B:Red Taper
+A50B2945:Indigo Taper
+A50B296A:Hazel Talisman
+A50B2909:Turquoise Taper
+A50B291C:Violet Taper
+A50B28E1:White Taper
+A50B28F8:Pink Taper
+A50B294E:Blue Taper
+A50B28AA:Oak Talisman
+A50B28CA:Grey Taper
+A50B28E9:Birch Talisman
+A50B292D:Brown Taper
+A508EA72:Green Taper
+A50B2921:Pack
+A50B2940:Cobalt
+A50B27EE:Powdered Hematite
+A50B28C3:Realgar
+A50B28D2:Powdered Turquoise
+A50B293D:Mana Draught
+A50B2928:Quicksilver
+A50B294D:Powdered Onyx
+A50B292F:Pack
+A50B28ED:Powdered Moonstone
+A50B28FE:Colcothar
+A50B293A:Lead Scarab
+A50B2929:Powdered Amber
+A50B28EE:Stibnite
+A50B2956:Blackthorn Talisman
+A50B290D:Vitriol
+A50B28FF:Brimstone
+A50B293F:Gypsum
+A50B28C9:Powdered Agate
+A50B2910:Turpeth
+A50B27F2:Cadmia
+A50B28CD:Powdered Malachite
+A50B2916:Powdered Quartz
+A50B28BE:Key
+A50B28EF:Cinnabar
+A50B28F0:Verdigris
+A50B2899:Copper Scarab
+A50B28EC:Powdered Bloodstone
+A50B28DB:Wormwood
+A5098B23:Moderate Mana Charge
+A50B28F1:Comfrey
+A50B294B:Damiana
+A50B28E2:Iron Scarab
+A50B290F:Ginseng
+A50B2852:Saffron
+A50B28DE:Pack
+A50B2937:Mandrake
+A50B2864:Hawthorn
+A50B28E7:Flaming Dagger
+A50B2905:Mugwort
+A50B2936:Yarrow
+A50B28C5:Ring
+A50B2902:Wormwood
+A50B28C1:Hyssop
+A50B2964:Lightning Yaoji
+A50B28D1:Heavy Necklace
+A50B2931:Bracelet
+A50B28BC:Acid Arrow
+A50B28FB:Wand
+A50B28B1:Wand
+A50B28C2:Ring
+A50B28B9:Wand
+A50B28E5:Heavy Necklace
+A50B28E4:Lightning Khanjar
+A50B28E6:Heavy Bracelet
+A50B28D0:Shirt
+A509848D:Pyreal
+A50B2891:Frost Dagger
+A50B28CC:Dagger
+A50B2915:Dagger
+A50B2881:Khanjar
+A50B2869:Pack
+A50B28F6:Wand
+A50B28A5:Tunic
+A50B28F2:Wand
+A50B2907:Moderate Mana Charge
+A5098B11:Wand
+A50984A9:Pack
+A5098B2C:Trade Note (10,000)
+A50B28B5:Trade Note (50,000)
+A50B28DA:Trade Note (5,000)
+A50B28F3:Trade Note (10,000)
+A50B2895:Trade Note (5,000)
+A50B2918:Trade Note (10,000)
+A50B28CF:Trade Note (10,000)
+A50B28FA:Trade Note (5,000)
+A50B28DF:Bracelet
+A50B28D8:Sollerets
+A50B28CB:Mattekar Hide Coat
+A50B28DD:Tunic
+A50B290E:Frost Khanjar
+A50B28E3:Gloves
+A50B289C:Ring
+A50B28E0:Pack
+A50B28AD:Excellent Healing Kit
+A50B28BB:Excellent Healing Kit
+A50B2900:Excellent Healing Kit
+A50B28D4:Mana Draught
+A50B292B:Mana Potion
+A50B2872:Peerless Healing Kit
+A50B28C8:Peerless Healing Kit
+A50B28D9:Excellent Healing Kit
+A50B28CE:Excellent Healing Kit
+A50B288B:Peerless Healing Kit
+A50B289A:Excellent Healing Kit
+A50B294A:Peerless Healing Kit
+A50B28A7:Peerless Healing Kit
+A50B2908:Potion of Healing
+A50B288C:Peerless Healing Kit
+A50B289E:Peerless Healing Kit
+A50B284A:Peerless Healing Kit
+A50B28DC:Peerless Healing Kit
+A50B28B6:Excellent Healing Kit
+A50B2880:Peerless Healing Kit
+A50B28FC:Peerless Healing Kit
+A50B2833:Peerless Healing Kit
+A50B28B3:Peerless Healing Kit
+A50B28F9:Peerless Healing Kit
+A50B28A9:Helmet
+A50B2873:Peerless Healing Kit
+A50B2917:Excellent Healing Kit
+A50B2861:Heavy Necklace
+A50B28AB:Ring
+A50B288F:Heavy Bracelet
+A50B28E8:Ring
+A50B28A0:Excellent Healing Kit
+A50B286A:Heavy Bracelet
+A50C8E40:Yoroi Leggings
+A50B28D6:Copper Scarab
+A50B28B8:Khanjar
+A50B28F5:Aluvian Wand
+A50B27DE:Pack Asheron
+A50B28A1:Blackmoor's Favor
+A50B28D5:Some Changes for February 2012
+A50B28F4:Dagger
+A50B2877:Large Kite Shield
+
+Missing Exports - Possessed items that were not found:

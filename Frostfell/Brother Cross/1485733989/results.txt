@@ -1,0 +1,65 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\trello_datamining\43_Frostfell Museum.pcap
+
+Partial Exports - Missing appraisal info:
+90C8E89A:Pyreal
+90C8E89B:Sack
+91692C43:Prismatic Taper
+915FF047:Lead Scarab
+916928FA:Iron Scarab
+916AA7A1:Copper Scarab
+9168EDAC:Silver Scarab
+90C8E89C:Ust
+90C8E8A1:Mud Golem Essence
+9148DAD5:Asheron's Benediction
+914FD1CB:Great Mana Charge
+9148E444:Facility Hub Portal Gem
+914FC71E:Pathwarden Trinket
+91022AC3:Drudge Charm
+914FD24C:Pathwarden Sollerets
+914FD1AC:Pathwarden Plate Hauberk
+91502319:Blackmoor's Favor
+9161D762:Studded Leather Leggings
+9169937B:Handy Healing Kit
+913E099F:Acid Skeleton Minion Essence (50)
+9158D819:Flared Pants
+910722A9:Potion of Healing
+9169937A:Leather Cowl
+9161DC97:Plain Lockpick
+9158D6E0:Loafers
+915DEE43:Necklace
+9161E0B0:Stamina Tincture
+91679640:Directions to the Cave of Alabree
+913D99EE:Ring
+9158D44B:Compass
+915E4CA7:Flared Tunic
+91293C86:Mana Potion
+90C8E8A3:Letter From Home
+910EFA75:Amulet
+916A69C0:Pack
+913DFD76:Flaming Knife
+9165FD45:Pack
+9161E0E3:Lightning Grievver Essence (50)
+9169490B:Key
+91582D80:Peppermint Stick
+915843AB:Academy Stamp
+9168D046:Foci of Artifice
+916B3BB4:Coalesced Mana
+916A7360:Mud Golem Essence
+913E0CB1:Staff
+915DEC97:Scroll of Dual Wield Mastery Self
+915CB27C:Studded Leather Gauntlets
+91673012:Scroll of Devour Life Magic Self
+9161D2E9:Lead Pea
+9091968B:Heavy Bracelet
+915BF194:Flaming Lancet
+916A1A7F:Key
+916A1A83:Key
+9161D46A:Lesser Mana Stone
+9165394F:Gifted Healing Kit
+9158B4E1:Ring
+9167A5FF:Ice Tachi
+913E0C83:Buckler
+915175FC:Academy Knife
+
+Missing Exports - Possessed items that were not found:

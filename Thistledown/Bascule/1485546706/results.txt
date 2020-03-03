@@ -1,0 +1,195 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\pkt_2017-1-30_1485806910_log\pkt_2017-1-27_1485546696_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\pkt_2017-1-30_1485806910_log\pkt_2017-1-24_1485288182_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\pkt_2017-1-30_1485806910_log\pkt_2017-1-27_1485507080_log.pcap
+
+Partial Exports - Missing appraisal info:
+AB9D2FB8:Pack
+AB9E4670:Potion of Healing
+AB9E4677:Health Elixir
+AB9D3EFE:Mana Potion
+AB9D3EF2:Tunic
+AB9E4662:Shirt
+AB9D2FAA:Amulet
+AB9D3092:A Cryptic Note
+AB9D2FDF:Stamina Potion
+AB9D15E1:Mana Elixir
+AB9E465F:Ring
+AB9E466E:Pants
+AB9E4667:Mana Draught
+AB9E4672:Ring
+AB9E465E:Health Tincture
+AB9E466F:Stamina Tincture
+AB9D15EB:Mana Tincture
+AB9E467C:Adept Healing Kit
+AB9D3EFF:Gorget
+AB9DC78A:Handy Healing Kit
+AB9D3EEA:Stamina Elixir
+AB9E4661:Amuli Coat
+AB9D2E0C:A Tiny Mnemosyne
+AB9D1576:Heavy Bracelet
+AB9E465B:Scalemail Leggings
+AB9E467E:Gem
+AB9E4683:Pack
+AB9E467B:Lytelthorpe Portal Gem
+AB9D3F10:Harvester Token
+AB9E467D:A Tiny Mnemosyne
+AB9D14AC:A Tiny Mnemosyne
+AB9E466B:Gold Pea
+AB9E4668:Shoyanen's Portal Gem
+AB9E4688:Orb
+AB9E4669:A Small Mnemosyne
+AB9E4675:Amulet
+AB9E4673:Vial of Organic Acid
+AB9D3F06:Handy Healing Kit
+AB9D157F:Adept Healing Kit
+AB9E4682:Adept Healing Kit
+AB9E4671:Adept Healing Kit
+AB9D3EE9:Adept Healing Kit
+AB9D3EFC:Stamina Tincture
+AB9D3EF3:Shirt
+AB9E4679:Orb
+AB9DC78B:Suikan Life Master Robe
+AB9E4686:Pyreal
+AB9E465C:Suikan Item Master Robe
+AB9D3EFB:Faran Robe with Hood
+AB9E4687:Suikan Item Master Robe
+AB9D558A:Scroll of Swordsman Bait
+AB9E466C:Pack
+AB9D1633:Copper Scarab
+AB9E4680:Iron Scarab
+AB9E4674:Lead Scarab
+AB9E4678:Silver Scarab
+AB9E46C9:Prismatic Taper
+AB9D3F08:Trade Note (50,000)
+AB9D1237:Trade Note (150,000)
+AB9D3F7F:Trade Note (200,000)
+AB9E469F:Scroll of Willpower Self III
+AB9D3F22:Trade Note (100,000)
+AB9D3F0F:Light Crossbow
+AB9E46A1:Chainmail Breastplate
+AB9E467F:Leather Tassets
+AB9E4D10:Scroll of Frost Streak V
+AB9D3ECE:Leather Cuirass
+AB9E46CB:Scalemail Shirt
+AB9E4693:Dagger
+AB9FA3F6:Lightning Moar Essence (50)
+ABBE8980:Pyreal
+AB9CBFAC:Fire Wisp Essence (50)
+AB9D3172:Lead Pea
+AB9E4707:Swamp Stone
+AB9E4C87:Ring
+AB9E4D3B:Fire Moar Essence (50)
+AB9D3F37:Swamp Stone
+AB9DE431:Empty Flask
+AB9E46D4:Chainmail Gauntlets
+AB9D3F15:Reshalra's Collar
+AB9E469C:Ring
+AB9D3F16:Cap
+AB9E46A3:Heavy Bracelet
+AB9E46C8:Ring
+AB9E4649:Foci of Verdancy
+AB9E454B:Foci of Artifice
+AB9E454A:Heaume
+AB9D3D91:Smock
+AB9D32DE:Pack
+AB9E45C9:Pants
+AB9D3204:Doublet
+AB9E4799:Undead Arm
+AB9D32CA:Breeches
+AB9D320D:Pantaloons
+ABBCF177:Plain Lockpick
+AB9E4552:Bracelet
+AB9E4544:Ring
+AB9E464A:Heavy Bracelet
+AB9E46B3:Tunic
+AB9E4695:Pants
+AB9E473D:Handy Healing Kit
+AB9E4648:Heavy Bracelet
+AB9D3F2B:Pants
+AB9E46CA:Adept Healing Kit
+AB9E4647:Heavy Bracelet
+AB9E46C4:Heavy Bracelet
+AB9D3E88:Ring
+AB9E470D:Tunic
+AB9D2C44:Handy Healing Kit
+AB9E469E:Shirt
+AB9D3EE4:Pack
+AB9E46E8:Amulet
+ABBE9D0D:Lancet
+ABBAEB71:Frost Moar Essence (50)
+AB9D3FE6:Gifted Healing Kit
+AB9D3D45:Frost Long Sword
+AB9D310C:Verdalim Plant
+AB9D30F8:Handy Healing Kit
+AB9D3112:Monougat
+AB9D3059:Frost Shamshir
+AB9D3FDB:Bracelet
+AB9CB569:Ring
+AB9E4533:Heavy Bracelet
+AB9D3F76:Grey Spine
+AB9E4530:Handy Healing Kit
+AB9E4798:Island Armoredillo Spine
+AB9E4794:Mana Potion
+AB9E47B1:Longbow
+AB9E47F9:Gloves
+AB9D3FEA:Agent of Arcanum List
+AB9E47BE:Wand
+AB9E4789:Sceptre
+AB9E47CD:Blackmoor's Favor
+AB9E4773:Chicken
+AB9E47D1:Iron Pea
+AB9D3F8F:Scroll of Blade Protection Other V
+AB9D3F7E:Scroll of Endurance Self IV
+AB9D3F8C:Chainmail Pauldrons
+AB9E47F3:Minor Mana Stone
+AB9E4865:Empty Flask
+AB9D3FE3:Gem
+AB9E47C2:Boots
+AB9E4788:Gem
+AB9D3F5E:Plain Lockpick
+AB9E47BA:Tassets
+AB9D3FA9:Adept Healing Kit
+AB9D3FA4:Bracelet
+AB9E47C6:Gem
+AB9E47C1:Flaming Jo
+AB9D3F74:Bracelet
+AB9E4793:Chainmail Girth
+AB9E47ED:Mana Stone
+AB9E47B0:Spine Glaive
+AB9D4028:Bastone
+AB9E47A6:Flaming Tachi
+AB9CBFB3:Lesser Mana Stone
+AB9D2E89:Circlet
+ABA08E83:Some Changes for February 2012
+AB9D3FB2:Orb
+AB9D3498:Swamp Stone
+AB9D3FDF:Studded Leather Basinet
+AB9E47F2:Scroll of Stamina to Health Self VI
+AB9EFBFE:Frost Elemental Essence (50)
+AB9D3FA1:Lightning Broad Sword
+AB9E47EB:Ring
+AB9E4815:Tankard
+AB9E4646:Ring
+AB9E46D3:Bracelet
+AB9E471C:Ring
+AB9E4721:Bracelet
+AB9E46E7:Sturdy Armoredillo Hide
+AB9D54A1:Lightning Skeleton Minion Essence (50)
+AB9E4708:Platemail Leggings
+AB9D3016:Adept Healing Kit
+AB9D30F6:Great Mana Charge
+AB9D303E:Great Mana Charge
+AB9E45C4:Great Mana Charge
+AB9E4566:Deadly Hollow Sword
+AB9D3F33:Sollerets
+AB9E46B2:Jack o' Lantern
+AB9D3D4E:Pumpkin
+AB9E47C3:Great Pumpkin
+AB9D3FAC:Gifted Healing Kit
+AB9E478A:Brown Beans
+AB9CBFB4:Adept Healing Kit
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,296 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-22_1485101100_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-21_1485023279_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-22_1485100148_log.pcap
+
+Partial Exports - Missing appraisal info:
+A3FC49D3:Pyreal
+A4D4D5D8:Major Smoldering Stone
+A4D4D70B:Pack
+A4CBFB01:Grey Taper
+A4D4BA2D:Pink Taper
+A4D593D5:Turquoise Taper
+A4D4C28F:Orange Taper
+815B3761:Saffron
+A4D2261D:Green Taper
+A4D4C67C:Indigo Taper
+A4D4C7CE:White Taper
+A4D4C7D0:Yarrow Pea
+A4D4D5A7:Ginseng
+A4D4AFD3:Powdered Turquoise
+A4D09AA4:Powdered Quartz
+A4D4D650:Caulnalain Key
+A4D4A697:Powdered Onyx
+A4D4CEB5:Powdered Hematite
+A4D17203:Shendolain Key
+A4D2267D:Powdered Moonstone
+A4D27A37:Scalemail Shirt
+A4D22CA5:Pyreal
+A4D58F43:Faran Robe with Hood
+A4D4D58F:Orb
+A4D593A8:Peerless Lockpick
+AAB556F6:Coalesced Mana
+A4D592C3:Flaming Bandit Dagger
+A4D5991B:Peerless Lockpick
+A4D2258F:Bandit Dagger
+A4D6B99C:The Healer's Heart
+A4D58C43:Pack
+A4D4D581:Amulet
+A4CF7EA9:Orb
+A4D4D59A:Orb
+A4D593A6:Yaraq Portal Gem
+A4D59265:Yaraq Portal Gem
+A4D11E44:Ring
+A4CF844B:Bracelet
+A4D054F5:Sceptre
+A4D517B5:Wand
+A4D598F8:Heavy Necklace
+A4D58FDD:Amulet
+A4D27E57:Lytelthorpe Portal Gem
+A4D5FF9D:Sceptre
+A4D281E0:Sturdy Iron Key
+A4D11032:Yanshi Portal Gem
+A4D226A8:Orb
+A4D4D8B0:Sturdy Iron Key
+A4D118AD:Sturdy Iron Key
+A4D59F95:Sturdy Iron Key
+A4D4C5E9:Sturdy Iron Key
+A4D4D685:Intricate Obsidian Key
+A4D3D2AB:Intricate Obsidian Key
+A4D4D67D:Pack
+A4D4D682:Yarrow
+A4D284F2:Wormwood
+A4D5939F:Intricate Obsidian Key
+A4D0645F:Mandrake
+A4D10D18:Mugwort
+A4D4C1B5:Pack
+A4D20D1F:Damiana
+A4D2823F:Ginseng
+A4D27FFA:Treated Healing Kit
+A4CD27CE:Dragonsblood
+A4D27B63:Powdered Carnelian
+A4D4D586:Treated Healing Kit
+A4D09D9C:Powdered Quartz
+A4CE3C11:Powdered Turquoise
+A4D4D593:Treated Healing Kit
+A4D4BA2E:Powdered Agate
+A4CF8123:Powdered Malachite
+A4D4D591:Treated Healing Kit
+A4CD4B45:Powdered Onyx
+A4D57C42:Powdered Bloodstone
+A4CF1F8D:Treated Healing Kit
+A4D224B3:Powdered Amber
+A4D2871F:Powdered Moonstone
+A4CF1F8E:Treated Healing Kit
+A4D4BD16:Powdered Hematite
+A4D4BA3B:Saffron
+A4D4D5FD:Treated Healing Kit
+A4D0996A:Comfrey
+A4D4BD1D:Hyssop
+A4CF2C8E:Treated Healing Kit
+A4D59025:Platemail Gauntlets
+A4D22BD1:Shoyanen's Portal Gem
+A4D4BDB4:Greater Mana Stone
+A4CDD3F2:Shoyanen's Portal Gem
+A4D2789B:Treated Healing Kit
+A4CDF796:Treated Healing Kit
+A4CE95EA:Treated Healing Kit
+A4D58E85:Treated Healing Kit
+A4D0B1E6:Treated Healing Kit
+A4D4C85D:Treated Healing Kit
+A4D4C9E8:Green Taper
+A4D4D070:Cinnabar
+A4CF7FD0:Cadmia
+A4D281EF:Brimstone
+A4D3D136:Cobalt
+A4CAEEF5:Colcothar
+A4CF6445:Gypsum
+A4D4BCBC:Realgar
+A4D28831:Quicksilver
+A4D590E3:Stibnite
+A4D6B9A4:Pack
+A4D59248:Hazel Talisman
+A4D4CDEA:Iron Scarab
+A4D0AD40:Cedar Talisman
+A4D2184B:Ebony Talisman
+A4D27BCE:Yew Talisman
+A4D3D04D:Ashwood Talisman
+A4D4C5B0:Poplar Talisman
+A4D21662:Lead Scarab
+A4BEE6B5:Alder Talisman
+A4D593B8:Willow Talisman
+A4D593FC:Hemlock Talisman
+A4D593B9:Blackthorn Talisman
+A4D21C04:Silver Scarab
+A428F7E0:Gold Scarab
+A4D20295:Copper Scarab
+A4D20294:Rowan Talisman
+A4D4BBB2:Major Stinging Stone
+A4D4BDAB:Pyreal Scarab
+A4D4C132:Gem of Stillness
+A4D59BC9:Gem of Stillness
+A4D4D3E8:Gem of Stillness
+A4D0BA33:Gem of Stillness
+A4D27C21:Gem of Stillness
+A4D4BDB1:Sturdy Iron Key
+A4D0BA0A:Pack
+A4D58E4D:Verdigris
+A4D28225:Turpeth
+A4D284C0:Cadmia
+A4D286AD:Stibnite
+A4D281BF:Colcothar
+A3FC6200:Cobalt
+A4D0B90F:Realgar
+A4D0AFC6:Vitriol
+A3F9D488:Gypsum
+A3200BDF:Brimstone
+A36D5BF5:Quicksilver
+A4D4D62E:Blue Taper
+A38C3F90:Cinnabar
+A4D28FEC:Yellow Taper
+A4D593D6:Turquoise Taper
+A4D28F94:White Taper
+A4CC6970:Red Taper
+A4D4D89E:Violet Taper
+A4D3D130:Pink Taper
+A4D0684E:Orange Taper
+A4D11A29:Grey Taper
+A4D4A63D:Indigo Taper
+A4D4D9FD:Brown Taper
+A4CBFA3A:Pack
+A4D223F6:Orb
+A4CD3220:Eye Dropper
+A4D4BD9C:Scroll of Mana Renewal Self VI
+A4D11606:Staff
+A4D27DE4:Yaraq Portal Gem
+A4D57BB0:Treated Healing Kit
+A4CF3744:Goblet
+A4D57BAF:Treated Healing Kit
+A4C92994:Faran Robe with Hood
+A4CC5D07:Health Elixir
+A4D22601:Ravenous Dagger
+A4CE3D0F:Peerless Lockpick
+A4D4BBB4:Tear-Stained Parchment
+A4CF853C:Ahruenga Portal Gem
+A4D4BDC5:Sturdy Iron Key
+A4D06F79:Shoyanen's Portal Gem
+A4D593D8:Shoyanen's Portal Gem
+A4CE02D8:Shoyanen's Portal Gem
+A4D4CDD8:Al-Arqas Portal Gem
+A4CB89F2:Sturdy Iron Key
+A4D21013:Sturdy Iron Key
+A4D11F6A:Sturdy Iron Key
+A4D4CA73:Major Stinging Stone
+A4D2900B:Virindi Singularity Key
+A4D3D1E8:Major Sparking Stone
+A4D3CBF2:Tunic
+A4D4BC70:Stone Tool
+A4CF8557:Major Shivering Stone
+A4D6B999:Peerless Stinging Atlan Dagger
+A4D27B95:Splitting Tool
+A4CF857F:Scroll of Jumping Ineptitude VI
+A4D4BC69:Scroll of Light Weapon Mastery Other VI
+A4D1DC25:Gorget
+A4D27B83:Orb
+A4D27CCA:Orb
+A4D4C1BB:Orb
+A4D281A9:Mana Elixir
+A4D595A2:Orb
+A4D289E8:Intricate Carving Tool
+A4D4C8D7:A Large Mnemosyne
+A4D4C8D8:Quilted Drawers
+A4D20D51:Peerless Shivering Atlan Dagger
+A4D4B0E1:Ursuin Head
+A4D4D8AE:Stamina Elixir
+A4D4D58D:Virindi Mask
+A4D2865C:Staff
+A4D58E76:Orb
+A4D3D12F:Platemail Leggings
+A4D51816:Mana Potion
+A4CDEFB6:Reshalra's Collar
+A4D585ED:Ornamental Bowl
+A4D27FAB:Hoary Mattekar Robe
+A4D567AE:Drudge Head
+A4D28272:Flaming Cestus
+A4D27F01:Scroll of Brittlemail VI
+A4CF2CDB:Scroll of Lightning Lure VI
+A4D19C3B:Scroll of Lightning Vulnerability Other VI
+A4D592C5:Scroll of Light Weapon Mastery Other VI
+A4D592C6:Iceball
+A4D4A1C3:Magic Iceball
+A4D28A9C:Scroll of Arcane Benightedness VI
+A4D205D9:Scroll of Drain Stamina Other VI
+A4D4BC3C:Scroll of Frailty Other VI
+A4D58577:Scroll of Defenselessness VI
+A4D4BBE9:Scroll of Finesse Weapon Mastery Other VI
+A4D592FC:Niffis Shell Helm
+A4CE4C6F:Small Shard
+A4CE8C15:Sharp Tusker Slave Tusk
+A4D0B24A:Pyreal Mote
+A4D1195A:Sturdy Iron Key
+A4D20399:Staff of the Nomads
+91BB1D08:Cestus
+A4D0B251:Manuaka's Collar
+A4D4BDCA:Poofy Snowball
+A4D4BDF6:Magic Iceball
+A4D1FB3A:Skull Mask
+A4D59326:Golden Key
+A4D59405:Shendolain Key
+A4D59406:Shoyanen's Portal Gem
+A4C326EE:Bracelet
+A4D593E0:Shoyanen's Portal Gem
+A4CF2820:Shoyanen's Portal Gem
+A4D4D7E0:Shoyanen's Portal Gem
+A4D31537:Ring
+A4D2180A:Little Green Seeds
+A4D34020:Staff
+A4C65322:Staff
+A4D3407E:Ring
+A4D235B2:Shoyanen's Portal Gem
+A4D592B4:Heavy Necklace
+A4C8C507:Great Mana Charge
+A4D59413:Orb
+A4D592A7:Goblet
+A4D592A6:Crown
+A4D59C96:Wand
+A4CDF596:Ring
+A4D592B6:Flagon
+A4D592B3:Orb
+A4D115B8:Shoyanen's Portal Gem
+A4D4D402:Great Mana Charge
+A4D592B5:Cap
+A4D593D0:Orb
+A48AB8C1:Orb
+A4D593F7:Gorget
+A4D201BA:Heavy Bracelet
+A4D273A0:Ring
+A4D588B9:Ring
+A4D592AF:Amulet
+A4D59C92:Ring
+A4D59C90:Amulet
+A4D59324:Intricate Carving Tool
+A4D3D5F0:Diamond Heart
+A4D592C4:Heavy Bracelet
+A4D4CB24:Great Mana Charge
+A4CB820B:Ring
+A4CF285D:Heavy Necklace
+A4D59423:Staff
+A4D4BDEE:Heavy Necklace
+A4D6B99F:Gorget
+A4CF82E8:Superior Shivering Atlan Staff
+A4D5597D:Blackmoor's Favor
+A4D1E62B:Pack Levistras
+AAB12B10:Sandals
+A4D4D624:Hollow Dagger
+A4D59323:Crown
+A4D3CE03:Lightning Cestus
+A4D28658:Kite Shield
+A4D59407:Heavy Bracelet
+A4D281C7:Celdiseth's Portal Gem
+A4CF85DD:Focusing Stone
+AA8D12A4:Siraluun Matihao
+
+Missing Exports - Possessed items that were not found:
+A4D129A4

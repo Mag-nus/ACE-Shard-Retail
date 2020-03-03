@@ -1,0 +1,26 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap2\pkt_2017-1-29_1485739902_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap1\pkt_2017-1-29_1485721132_log.pcap
+
+Partial Exports - Missing appraisal info:
+85F9F4E0:Sack
+85FE895A:Pyreal
+85FEFEB7:Ust
+860009F5:Key
+8600068B:Key
+85FC8D23:Key
+85FE6519:Facility Hub Portal Gem
+85FE6515:Pack
+85FE69A5:Pack
+860050E3:Pack
+85F742CB:Pack
+86000A28:Pack
+860006A0:Pack
+860009A4:The Baron's Key
+86000A3B:Health Tincture
+860050DB:Plentiful Healing Kit
+85F9F8CA:Plentiful Healing Kit
+
+Missing Exports - Possessed items that were not found:

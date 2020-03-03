@@ -1,0 +1,42 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Cyberkiller-01-31-2017-Random\pkt_2017-1-31_1485861451_log.pcap
+
+Partial Exports - Missing appraisal info:
+D890E8BE:Pyreal
+D890E8C4:Welcome Letter
+D890E8C7:Quicksilver
+D890E88A:Rowan Talisman
+D890E8AE:Powdered Moonstone
+D890E893:Powdered Agate
+D890E8AB:Sack
+D890E8A5:Powdered Hematite
+D890E89C:Realgar
+D890E8BD:Poplar Talisman
+D890E8B5:Yew Talisman
+D890E8C6:Cedar Talisman
+D890E8AD:Hyssop
+D890E892:Willow Talisman
+D890E89B:Wormwood
+D890E8A4:Ginseng
+D890E8BC:Powdered Onyx
+D890E8B4:Cobalt
+D890E8CF:Ebony Talisman
+D890E8C5:Damiana
+D890E8AC:Alder Talisman
+D890E8A3:Lead Scarab
+D890E89A:Mandrake
+D890E8BB:Powdered Amber
+D890E8CE:Hemlock Talisman
+D890E8B3:Colcothar
+D890E967:Greeter's Key
+D890E8BA:Oil of Rendering
+D890E8C3:Quartermaster's Workshop Key
+D890E8CD:Pack Martine
+D88E8A2C:Sturdy Iron Key
+D890E8D0:Sturdy Iron Key
+D890E8CC:Sturdy Iron Key
+D890E8C2:Sturdy Iron Key
+D890E8D9:Sturdy Iron Key
+D890E8F1:Some Changes for February 2012
+
+Missing Exports - Possessed items that were not found:

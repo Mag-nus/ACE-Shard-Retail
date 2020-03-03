@@ -1,0 +1,26 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485843152_log.pcap
+
+Partial Exports - Missing appraisal info:
+B2944115:Pyreal
+B2A4E81E:Foci of Enchantment
+B2A4E84E:Foci of Verdancy
+B4307FFF:Pyreal
+B42CDCBA:Pack
+B43017EB:Pack
+B2A7A2C7:Calling Stone
+B2A7A2C8:Welcome Letter
+B2A4E831:Ust
+B29438B8:Blackmoor's Favor
+B2A4E836:Gharu'ndim Wand
+B2944050:Lead Scarab
+B27CE5A5:Prismatic Taper
+B2A7A2C6:Greater Stamina Kit
+B2A4EEFD:Starter Nabut
+B58CF833:Mana Forge Key
+B58C9B66:Mana Forge Key
+B58CFC8B:Mana Forge Key
+B58767C6:Mana Forge Key
+B4D95AB6:Berzerker's Crystal
+
+Missing Exports - Possessed items that were not found:

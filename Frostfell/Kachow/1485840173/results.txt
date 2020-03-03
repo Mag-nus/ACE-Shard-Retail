@@ -1,0 +1,189 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485840156_log.pcap
+
+Partial Exports - Missing appraisal info:
+DD2A626C:Foci of Artifice
+DD2A626B:Pack
+DD2A626A:Lead Scarab
+DD2A6269:Iron Scarab
+DD2A6268:Gold Scarab
+DD2A6267:Silver Scarab
+DD2A6266:Pyreal Scarab
+DD2A6265:Platinum Scarab
+DD2A6264:Copper Scarab
+DD2A6263:Lead Scarab
+DD2A6262:Mana Scarab
+DD2A6261:Diamond Scarab
+DD2A6260:Teardrop Crown
+DD2A625F:Coronet
+DD2A625C:Teardrop Crown
+DD2A625E:Crown
+DD2A625D:Crown
+DD2A625B:Diadem
+DD2A625A:Circlet
+DD2A6259:Teardrop Crown
+DD2A6258:Diadem
+DD2A6257:Teardrop Crown
+DD2A6256:Crown
+DD2A6251:Pack
+DD2A6255:Teardrop Crown
+DD2A6254:Coronet
+DD2A6253:Circlet
+DD2A6252:Foci of Verdancy
+DD2A6250:Silver Pea
+DD2A624F:Gold Pea
+DD2A624E:Pyreal Pea
+DD2A624D:Circlet
+DD2A624C:Shoes
+DD2A624B:Teardrop Crown
+DD2A624A:Signet Crown
+DD2A6249:Diadem
+DD2A6248:Pack
+DD2A6247:Gem of Stillness
+DD2A6246:Deed
+DD2A6245:Phantom Katar
+DD2A6244:Splitting Tool
+DD2A6243:Ust
+DD2A6242:Black Page of Salt and Ash
+DD2A6241:Shoyanen's Portal Gem
+DD2A6240:Vissidal Island Portal Gem
+DD2A623F:Empyrean Sun Stone
+DD2A623E:Coral Fragment
+DD2A623D:Ultimate Singularity Katar
+DD2A623C:Damaged Shadow Stone
+DD2A623A:Blackmoor's Favor
+DD2A623B:Acid Grievver Essence (180)
+DD2A6239:Chorizite
+DD2A6238:Small Olthoi Venom Sac
+DD2A6237:Aetheria Mana Stone
+DD2A6236:Encapsulated Spirit
+DD2A6235:Asheron's Lesser Benediction
+DD2A6234:Treated Healing Kit
+DD2A6232:Foci of Enchantment
+DD2A6233:Artist's Crystal
+DD2A6231:Aetheria
+DD2A621A:Treated Healing Kit
+DD2A622F:Pocket Watch
+DD2A6225:Caliginous Aegis
+DD2A622E:Heavy Bracelet
+DD2A6224:Twilight Fragment
+DD2A622C:Aetheria
+DD2A622B:Ancient Falatacot Trinket
+DD2A6221:Pack
+DD2A6229:Koujia Leggings
+DD2A6227:Crystal of Spectral Blood
+DD2A6220:A Page of the Book of Eibhil
+DD2A6226:Simi
+DD2A6223:Tofun
+DD2A621C:Burning Sands Keyring
+DD2A6222:Frost Jo
+DD2A621F:Foolproof Imperial Topaz Gem
+DD2A6219:Treated Healing Kit
+DD2A621E:Ancient Mhoire Coin
+DD2A621D:Ornate Gear Marker
+DD2A6218:Treated Healing Kit
+DD2A621B:Burning Sands Keyring
+DD2A6217:Treated Healing Kit
+DD2A6216:Treated Healing Kit
+DD2A6215:Treated Healing Kit
+DD2A6214:Treated Healing Kit
+DD2A6213:Treated Healing Kit
+DD2A6212:Treated Healing Kit
+DD2A6211:Treated Healing Kit
+DD2A6210:Treated Healing Kit
+DD2A620F:Treated Healing Kit
+DD2A620E:Treated Healing Kit
+DD2A620D:Treated Healing Kit
+DD2A620C:Treated Healing Kit
+DD2A620B:Treated Healing Kit
+DD2A620A:Frost Stick
+DD2A6209:Hammer
+DD2A6208:Chevron Cloak
+DD2A6206:Pyre Shroud
+DD2A6207:Skull of One Thousand Torments
+DD2A6205:Simi
+DD2A6202:Pyre Shroud
+DD2A6204:Yaoji
+DD2A6203:Radiant Blood Sollerets
+DD2A6201:Pyre Shroud
+DD2A6200:Pyre Shroud
+DD2A61FF:Burning Sands Keyring
+DD2A61FE:Unstable Mana Stone
+DD2A61FD:Altered Dark Remoran Fin
+DD2A61FC:Radiant Blood Commendation Ribbon
+DD2A61FB:Radiant Blood Trade Token
+DD2A61FA:Frost Scimitar
+DD2A61F9:Cloth Cap
+DD2A61F6:Salvage (11)
+DD2A61F8:Board with Nail
+DD2A61F7:Knife
+DD2A61E5:Greater Mana Stone
+DD2A61F5:Alduressa Helm
+DD2A61F4:Bastone
+DD2A61F2:Gorget
+DD2A61F3:Leather Shorts
+DD2A61F1:Salvage (42)
+DD2A61E3:Major Mana Stone
+DD2A61F0:Electric Board with Nail
+DD2A61EF:Enhanced Assault Sword
+DD2A61C3:Greater Mana Stone
+DD2A61EE:Ring
+DD2A61ED:Ring
+DD2A61E7:Loafers
+DD2A61EC:Studded Leather Pauldrons
+DD2A61EB:Koujia Sleeves
+DD2A61EA:Chiran Coat
+DD2A61E9:Studded Leather Gauntlets
+DD2A61E8:Shirt
+DD2A61E6:Pants
+DD2A61E4:Budiaq
+DD2A61E2:Prismatic Taper
+DD2A61E1:Salvage (97)
+DD2A61E0:Salvage (48)
+DD2A61DF:Salvage (42)
+DD2A61DC:Treated Healing Kit
+DD2A61DE:Enhanced Assault Sword
+DD2A61DD:Salvage (56)
+DD2A61DB:Treated Healing Kit
+DD2A61DA:Flaming Hand Wraps
+DD2A61D9:Salvage (48)
+DD2A61D3:Treated Healing Kit
+DD2A61D8:Olthoi Alduressa Leggings
+DD2A61D7:Salvage (100)
+DD2A61D6:Fire Naginata
+DD2A61D5:Salvage (96)
+DD2A61D2:Treated Healing Kit
+DD2A61D4:Royal Runed Knuckles
+DD2A61D1:Treated Healing Kit
+DD2A61D0:Treated Healing Kit
+DD2A61CF:Treated Healing Kit
+DD2A61CE:Treated Healing Kit
+DD2A61CD:Treated Healing Kit
+DD2A61CC:Treated Healing Kit
+DD2A61CB:Treated Healing Kit
+DD2A61CA:Salvage (77)
+DD2A61C9:Acid Sabra
+DD2A61C8:Salvage (75)
+DD2A61C7:Treated Healing Kit
+DD2A61C6:Pyreal Sliver
+DD2A61C5:Princely Runed Slashing Baton
+DD2A61C2:Greater Mana Stone
+DD2A61C4:Fire Board with Nail
+DD2A61C1:Greater Mana Stone
+DD2A61C0:Greater Mana Stone
+DD2A61BF:Greater Mana Stone
+DD2A61BE:Greater Mana Stone
+DD2A61BD:Greater Mana Stone
+DD2A61BC:Greater Mana Stone
+DD2A61BB:Greater Mana Stone
+DD2A61BA:Major Mana Stone
+DD2A61B9:Major Mana Stone
+DD2A61B8:Pocket Watch
+DD2A61B7:Sabra
+DD2A61B6:Trade Note (250,000)
+DD2A61B5:Lightning Sabra
+DD2A61B3:Stipend
+DD2A61B4:Acid Jitte
+DD2A61B2:Focusing Stone
+
+Missing Exports - Possessed items that were not found:

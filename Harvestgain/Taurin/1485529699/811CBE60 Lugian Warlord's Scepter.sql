@@ -1,0 +1,53 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (2166144608, 12250, 6, 6476097) /* MeleeWeapon */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (2166144608,   1,          1) /* ItemType - MeleeWeapon */
+     , (2166144608,   5,       1200) /* EncumbranceVal */
+     , (2166144608,   9,    1048576) /* ValidLocations - MeleeWeapon */
+     , (2166144608,  16,          1) /* ItemUseable - No */
+     , (2166144608,  19,       3000) /* Value */
+     , (2166144608,  51,          1) /* CombatUse - Melee */
+     , (2166144608,  65,        101) /* Placement - Resting */
+     , (2166144608,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (2166144608, 151,          2) /* HookType - Wall */
+     , (2166144608, 9015,          0) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (2166144608,   1, False) /* Stuck */
+     , (2166144608,  11, True ) /* IgnoreCollisions */
+     , (2166144608,  13, True ) /* Ethereal */
+     , (2166144608,  14, True ) /* GravityStatus */
+     , (2166144608,  19, True ) /* Attackable */
+     , (2166144608,  22, True ) /* Inscribable */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (2166144608,  39, 1.29999995231628) /* DefaultScale */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (2166144608,   1, 'Lugian Warlord''s Scepter') /* Name */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (2166144608,   1,   33557377) /* Setup */
+     , (2166144608,   3,  536870932) /* SoundTable */
+     , (2166144608,   6,   67111919) /* PaletteBase */
+     , (2166144608,   8,  100672191) /* Icon */
+     , (2166144608,  22,  872415275) /* PhysicsEffectTable */
+     , (2166144608, 8001,  270615064) /* PCAPRecordedWeenieHeader - Value, Usable, CombatUse, Container, ValidLocations, Burden, HookType */
+     , (2166144608, 8003,         18) /* PCAPRecordedObjectDesc - Inscribable, Attackable */
+     , (2166144608, 8005,     137345) /* PCAPRecordedPhysicsDesc - CSetup, ObjScale, STable, PeTable, AnimationFrame */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (2166144608,   1, 2166052310) /* Owner */
+     , (2166144608,   2, 2166052310) /* Container */
+     , (2166144608, 8000, 2166144608) /* PCAPRecordedObjectIID */;
+
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
+VALUES (2166144608, 67111920, 0, 0);
+
+INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
+VALUES (2166144608, 0, 83886750, 83886750, 0)
+     , (2166144608, 0, 83889236, 83886739, 1);
+
+INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, `order`)
+VALUES (2166144608, 0, 16777929, 0);

@@ -1,0 +1,145 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\pkt_2017-1-31_1485882234_log\pkt_2017-1-30_1485838802_log.pcap
+
+Partial Exports - Missing appraisal info:
+DD2A19A9:Foci of Strife
+DD2A19AA:Foci of Enchantment
+DD2A19AB:Foci of Artifice
+DD2A19AC:Foci of Verdancy
+DD2A19AD:Pack
+DD2A19AE:Empyrean Over-robe
+DD2A19C8:Sturdy Iron Key
+DD2A19AF:Flaming Khanjar
+DD2A19B0:Empyrean Over-robe
+DD2A19CA:A Large Mnemosyne
+DD2A19B1:Coronet
+DD2A19B2:Diadem
+DD2A19B3:Teardrop Crown
+DD2A19B4:Bandana
+DD2A19B5:Coronet
+DD2A19B6:Qafiya
+DD2A19B7:Pack
+DD2A19B8:Copper Scarab
+DD2A19B9:Iron Scarab
+DD2A19BA:Diamond Scarab
+DD2A19BB:Lead Scarab
+DD2A19BC:Silver Scarab
+DD2A19BD:Gold Scarab
+DD2A19BE:Yanshi Portal Gem
+DD2A19C5:Gold Scarab
+DD2A19BF:Lytelthorpe Portal Gem
+DD2A19C0:Rithwic Portal Gem
+DD2A19CE:Ust
+DD2A19C1:Shoushi Portal Gem
+DD2A19C2:Samsur Portal Gem
+DD2A19CC:Silver Tusker Tusk
+DD2A19C3:Caulnalain Portal Gem
+DD2A19C4:Al-Arqas Portal Gem
+DD2A19C9:Sturdy Iron Key
+DD2A19C6:Pyreal Scarab
+DD2A19C7:Heavy Bracelet
+DD2A19CB:A Large Mnemosyne
+DD2A19CD:Splitting Tool
+DD2A19CF:Pack Martine
+DD2A19D0:Vial of Organic Acid
+DD2A19D3:Pack
+DD2A19D4:Yaraq Portal Gem
+DD2A19D5:Tiny Shard
+DD2A19D6:Small Shard
+DD2A19D7:Glyph of Lightning
+DD2A19DB:Dark Sliver
+DD2A19D8:Glyph of Run
+DD2A19D9:Glyph of Flame
+DD2A19EA:Greater Mana Stone
+DD2A19DA:Glyph of Weapon Tinkering
+DD2A19DC:Glyph of Stamina Regeneration
+DD2A19DD:Glyph of Alchemy
+DD2A19DE:Glyph of Mana
+DD2A19FB:Deed
+DD2A19DF:Glyph of Armor
+DD2A19E0:Glyph of Corrosion
+DD2A1A17:Greater Mana Stone
+DD2A19E1:Glyph of Light Weapons
+DD2A19E2:Quill of Extraction
+DD2A1A1A:Major Mana Stone
+DD2A19E3:Nanto Portal Gem
+DD2A19E4:Glyph of Stamina
+DD2A1A1C:Major Mana Stone
+DD2A19E5:Glyph of War Magic
+DD2A19E6:Glyph of Life Magic
+DD2A1A25:Pyreal
+DD2A19E7:Glyph of Slashing
+DD2A19E8:Glyph of Frost
+DD2A19E9:Abayar's Research Notes
+DD2A19EC:Olthoi Slayer Carapace
+DD2A19ED:Clasp of the Arm
+DD2A19EE:Olthoi Slasher Carapace
+DD2A19EF:Hyssop
+DD2A19F0:Clasp of the Heart
+DD2A19F1:Mages Loop
+DD2A19F2:Ring of Enchantment
+DD2A19F3:Ring of Enhancement
+DD2A19F4:Chevron Cloak
+DD2A19F8:War Magic Gem of Forgetfulness
+DD2A19F5:Frost Moar Essence (125)
+DD2A19F6:Imbued Asteliary Orb
+DD2A19F9:Missile Defense Gem of Enlightenment
+DD2A19FA:Fire Bow
+DD2A19FC:Covenant Shield
+DD2A1A00:Gem
+DD2A19FE:Ink of Conveyance
+DD2A19FF:Acid Grievver Essence (180)
+DD2A1A01:Trade Note (250,000)
+DD2A1A12:Cloak
+DD2A1A04:Quill of Benevolence
+DD2A1A27:Upper Insatiable Eater Jaw
+DD2A1A05:Quill of Infliction
+DD2A1A06:Heavy Necklace
+DD2A1A13:Prismatic Taper
+DD2A1A08:Ink of Nullification
+DD2A1A1E:Ring
+DD2A1A0B:Wrapped Bundle of Arrowshafts
+DD2A1A0C:Invitation to Master Fletchers
+DD2A1A28:Insatiable Eater Jaw
+DD2A1A30:Legendary Token
+DD2A1A10:Studded Leather Leggings
+DD2A1A14:Heavy Bracelet
+DD2A1A3E:Gold Pea
+DD2A1A15:Pants
+DD2A1A16:Poet's Shirt
+DD2A1A18:Chevron Cloak
+DD2A1A19:Galvanic Knight Essence
+DD2A1A1B:Focusing Stone
+DD2A1A1F:Gorget
+DD2A1A20:Ring
+DD2A1A21:Heavy Bracelet
+DD2A1A22:Compass
+DD2A1A23:Olthoi Girth
+DD2A1A26:Trade Note (150,000)
+DD2A1A29:Blunt Compound Bow
+DD2A1A2A:Crown
+DD2A1A2B:Diadem
+DD2A1A2C:Teardrop Crown
+DD2A1A2E:Heavy Bracelet
+DD2A1A2D:Piercing Baton
+DD2A1A2F:Shoes
+DD2A1A31:Slashing Bow
+DD2A1A32:Circlet
+DD2A1A34:Teardrop Crown
+DD2A1A35:Sandals
+DD2A1A38:Circlet
+DD2A1A36:Electric Baton
+DD2A1A37:Heavy Bracelet
+DD2A1A39:Crown
+DD2A1A3A:Circlet
+DD2A1A3B:Teardrop Crown
+DD2A1A3C:Circlet
+DD2A1A3D:Crown
+DD2A1A3F:Signet Crown
+DD2A1A40:Ornamental Bowl
+DD2A1A41:Health Philtre
+DD2A1A42:Platinum Scarab
+DD2A1A43:Deadly Prismatic Arrow
+DD2A1A44:Electric Compound Bow
+
+Missing Exports - Possessed items that were not found:

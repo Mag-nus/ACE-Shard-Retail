@@ -1,0 +1,139 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-22_1485100909_log.pcap
+
+Partial Exports - Missing appraisal info:
+D7CA0808:Treated Healing Kit
+D7CA0840:Baggy Shirt
+D7CA0804:Flared Pants
+D7CA07E8:Shoes
+D7C93FBA:Pack
+D7CA07FC:Dragonsblood
+D7CA0379:Myrrh
+D7CA0833:Wormwood
+D7CA083B:Yarrow
+D7CA081A:Sho Wand
+D7CA07E4:Comfrey
+D7CA07EB:Bistort
+D7CA0806:Old Scarlet Red Letter
+D7CA084B:Damiana
+D7CA07EC:Hyssop
+D7CA0843:Eyebright
+D7CA07ED:Mugwort
+D7CA07E7:Lead Scarab
+D7CA0818:Hawthorn
+D7CA0364:Ginseng
+D7CA0807:Iron Scarab
+D7CA036C:Mandrake
+D7CA0371:Saffron
+D7CA0822:Rowan Talisman
+D7CA0819:Hyssop
+D7CA0817:Powdered Onyx
+D7CA0820:Poplar Talisman
+D7CA0823:Blackthorn Talisman
+D7CA0829:Ebony Talisman
+D7CA0813:Birch Talisman
+D7CA082A:Ashwood Talisman
+D7CA082B:Elder Talisman
+D7CA07EF:Cedar Talisman
+D7CA07F4:Alder Talisman
+D7CA07E3:Hemlock Talisman
+D7CA07FD:Yew Talisman
+D7CA07FE:Pyreal Scarab
+D7CA081B:Copper Scarab
+D7CA080F:Silver Scarab
+D7CA07F5:Gold Scarab
+D7CA07F6:Platinum Scarab
+D7CA080A:Pack
+D7CA080B:Cinnabar
+D7CA07EE:Gypsum
+D7CA0810:Turpeth
+D7C7EE7C:Stibnite
+D7CA07F7:Cadmia
+D7CA07F8:Realgar
+D7CA07E5:Verdigris
+D7CA07FF:Silver Scarab
+D7CA07DC:Colcothar
+D7CA0811:Vitriol
+D7C67C86:Ginseng Pea
+D7CA0812:Brimstone
+D7AFFD10:Quicksilver
+A8E64C75:A Large Mnemosyne
+D7BD4250:Pyreal
+D7BD426E:Cobalt
+D7CA0800:Green Pea
+D7C7E051:Pack
+D7C7E08A:Powdered Malachite
+D7CA07F3:Small Rusted Key
+D7C74A16:Powdered Moonstone
+D7C7E062:Powdered Quartz
+D7BCAF0B:Blue Taper
+D7CA07B1:Powdered Turquoise
+D7CA07CD:Powdered Hematite
+D7C7EDE1:Green Taper
+D7CA07C8:Powdered Bloodstone
+D7CA07C7:Powdered Agate
+D7CA07DF:Pink Taper
+D7CA07D7:Powdered Carnelian
+D7CA07F2:Minalim Plant
+D7CA0EB1:Note from Hea Toneawa to Aun Mariona
+D7CA03BF:Willow Talisman
+D7CA039F:Pack
+D7CA07D4:Grey Taper
+D7CA07C1:Violet Taper
+D7CA07D5:White Taper
+D7BD56B1:Red Taper
+D7CA07B6:Turquoise Taper
+D7CA07BF:Brown Taper
+D7CA07DE:Yellow Taper
+D7CA07C3:Indigo Taper
+D7CA07E2:Yellow Taper
+D7CA07C9:Powdered Amber
+D7C7EE94:Brown Pea
+D7CA07C4:Note from Hea Toneawa to Aun Mariona
+D7CA07B8:A Ring of Acid Protection
+D7CA07D6:A Tiny Mnemosyne
+D7CA07C2:Faran Robe with Hood
+D7CA0803:Sake
+D7CA0802:Blackthorn Pea
+D7CA07B9:Orange Taper
+D7CA07CB:Orange Taper
+D7CA07B7:Powdered Amber
+D7CA0959:Violet Taper
+D7CA096A:Green Pea
+D7CA097C:Pyreal
+D7CA0974:Potion of Healing
+D7CA0949:Dho War Apprentice Robe
+D7CA0986:Shirt
+D7CA03B3:Pyreal
+D7CA0952:Moderate Mana Charge
+D7CA095A:Wand
+D7CA0951:Pack Bael'Zharon
+D7CA07EA:Pack Scarecrow
+D7CA07E9:Gold Phyntos Wasp Wing
+D7CA07CC:Ring
+D7CA07C0:Scroll of Flame Bolt III
+D7CA07A7:Buckler
+D7CA07CA:Greater Mana Stone
+D7CA07A0:Treated Healing Kit
+D7CA079F:Greater Mana Stone
+D7CA07A6:Greater Mana Stone
+D7CA07A8:Snowflower
+D7BCE823:Pyreal Mote
+D7CA079E:Scroll of Alchemy Ineptitude Other IV
+D7CA0796:Shoushi Portal Gem
+D7CA07D9:Sahkurea's Collar
+D7CA07D8:Samsur Portal Gem
+D7CA07AE:Xarabydun Portal Summoning Gem
+D7CA07B0:Nanto Portal Gem
+D7CA07AF:Yanshi Portal Gem
+D7BE45EF:Greater Mana Stone
+D7CA07E1:Yaraq Portal Gem
+D7BD3E45:Great Mana Charge
+D7BCB18A:Green Taper
+D7CA03CE:Heavy Bracelet
+D7CA03BB:Wand
+D7CA07AA:Some Changes for February 2012
+D7BD56B4:Blackmoor's Favor
+D7CA0798:Focusing Stone
+
+Missing Exports - Possessed items that were not found:

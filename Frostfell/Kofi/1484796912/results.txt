@@ -1,0 +1,152 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-09-2017\Callaway-1-17-29-2017-Misc2\pkt_2017-1-18_1484772249_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-06-2017\Callaway-January2017-Account3\pkt_2017-1-9_1484007069_log.pcap
+
+Partial Exports - Missing appraisal info:
+B409171A:Pyreal
+B40916F7:Salvage (100)
+B4085629:Aetheria
+B40916EA:Aetheria
+B4085628:Aetheria
+B3D7B626:Aetheria
+B408C22C:Ust
+B3E032FE:Salvage (100)
+B4091718:Salvage (100)
+B3F0152F:Salvage (100)
+B3E41F95:Salvage (100)
+B3E42523:Salvage (100)
+B3852227:Salvage (100)
+B408B705:Prismatic Taper
+B38A9C3B:Salvage (100)
+B4091760:Pathwarden Token
+B3D7F38E:Lead Scarab
+B3EA1B4D:Letter From Home
+B408AE5D:Oil of Rendering
+B3D022B2:Oil of Rendering
+B3AE61F8:Salvage (100)
+B3CFB624:Salvage (100)
+B3AE5746:Salvage (100)
+B408BDEF:Pumpkin
+B37879D6:Salvage (100)
+B408B195:Salvage (100)
+B3BCBE8D:Salvage (100)
+B4091721:Salvage (100)
+B37D18C8:Salvage (100)
+B4091771:Salvage (100)
+B409172D:Salvage (100)
+B4091746:Salvage (100)
+B4091720:Bordered Cloak
+B3D8297F:Aetheria
+B37D4BE8:Salvage (100)
+B3857011:Aetheria
+B3AADF02:Salvage (100)
+B4091755:Salvage (100)
+B3BCB90C:Salvage (100)
+B407B63C:Salvage (100)
+B3BCAF42:Salvage (100)
+B3D02354:Salvage (100)
+DAC2B7F2:Mana Forge Key
+B38B07E9:Salvage (100)
+B407B63B:Salvage (100)
+DAC54BCE:Mana Forge Key
+B378984C:Salvage (100)
+DAAB0D90:Quill of Infliction
+DAC74706:Mana Forge Key
+DAAD31AE:Quill of Benevolence
+B3D0264B:Salvage (100)
+B3791991:Salvage (100)
+DAC2286D:Fortified Mana Forge Key
+DAA1A02E:Glyph of Light Weapons
+DAA787DC:Ink of Separation
+DAB21496:Ink of Direction
+DAB76893:Ink of Conveyance
+B3E97F78:Salvage (100)
+B4091752:Salvage (100)
+B36EEFD1:Salvage (100)
+B408B714:Salvage (100)
+B408B728:Salvage (100)
+B40917E7:Salvage (100)
+B37D0D73:Salvage (100)
+B36DB509:Salvage (100)
+B40917B8:Salvage (100)
+B3BCBA01:Salvage (100)
+B3F5032C:Salvage (100)
+B3846EEF:Salvage (100)
+B3D015E5:Salvage (100)
+B37D0EB6:Salvage (100)
+B4091750:Salvage (100)
+B36EA05A:Salvage (100)
+B384ECA7:Salvage (100)
+B3F02093:Salvage (100)
+B403D76A:Salvage (100)
+B3BCB1CF:Salvage (100)
+B372D828:Salvage (100)
+B3BCADE5:Salvage (100)
+B3E9EEDB:Salvage (100)
+B3D818E0:Salvage (100)
+B408B713:Salvage (66)
+DACDC22C:Six of Eyes
+B408B6FF:Salvage (52)
+B3968DC0:Salvage (34)
+DB8963C3:Gold Pea
+B37D9BDA:Salvage (97)
+B389E51B:Salvage (51)
+DB862A4B:Pyreal Pea
+B408B776:Salvage (66)
+B3D7C424:Salvage (51)
+DB433AE4:Resilient Gromnie Hide
+B3D1B5A4:Salvage (92)
+B38AFAAB:Salvage (23)
+DB33F6F4:Resilient Gromnie Hide
+B408B72F:Salvage (100)
+B3F6CCCD:Salvage (100)
+B36EA774:Salvage (100)
+B4091743:Salvage (100)
+B4091758:Salvage (100)
+B3BC0428:Salvage (100)
+B3AE000A:Salvage (100)
+B408B72D:Salvage (100)
+B408BD55:Salvage (100)
+B408C451:Salvage (100)
+B3B36E87:Salvage (100)
+B36EF305:Salvage (100)
+B36F3E71:Salvage (100)
+B409172C:Salvage (100)
+B3CFBE3C:Salvage (100)
+B3F15A8F:Salvage (100)
+B408B72B:Salvage (100)
+B40917CF:Salvage (100)
+B3D7B17D:Salvage (100)
+B40916FB:Salvage (100)
+B3D01598:Salvage (100)
+B384CE4A:Salvage (100)
+B4091799:Salvage (100)
+B4091700:Salvage (100)
+B3BC5F98:Salvage (100)
+B409176B:Salvage (100)
+B3BCBD2F:Salvage (100)
+B409174E:Salvage (100)
+B3AE1925:Salvage (100)
+B409179C:Salvage (100)
+B409176E:Salvage (100)
+B40917AB:Salvage (100)
+B389D44C:Salvage (100)
+B37BE70D:Salvage (100)
+B3BCB5B4:Salvage (100)
+B409177F:Salvage (100)
+B4091780:Salvage (100)
+B4086FBA:Salvage (100)
+B40917E8:Salvage (100)
+DA78900B:Aerfalle's Supreme Pallium
+800137AD:Necklace
+DB4FA382:Quill of Introspection
+DB763E00:Glyph of Mana
+DB70FF69:Glyph of Lockpick
+DB7DD228:Ink of Direction
+DA9C1190:Ink of Formation
+DB81D2D6:Heavy Necklace
+DB7C72DB:Quill of Infliction
+
+Missing Exports - Possessed items that were not found:

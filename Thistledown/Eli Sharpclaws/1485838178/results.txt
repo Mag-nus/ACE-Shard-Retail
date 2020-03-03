@@ -1,0 +1,100 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-30-to-1-31\Bliz 1-30 to 1-31\pkt_2017-1-30_1485838175_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-24-to-1-29\Bliz 1-24 to 1-29\pkt_2017-1-27_1485550587_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-30-to-1-31\Bliz 1-30 to 1-31\pkt_2017-1-30_1485830288_log.pcap
+
+Partial Exports - Missing appraisal info:
+86F407BB:Baggy Shirt
+86F407BC:Flared Pants
+86F407BD:Sack
+86F407BE:Gem
+86F407BF:Gem
+86F407C0:Gem
+86F407C1:Gem
+86F407C2:Gem
+86F407C3:Gem
+86F407C4:Sturdy Iron Key
+86F407C5:Sturdy Iron Key
+86F407C6:Sturdy Iron Key
+86F407C7:Sturdy Iron Key
+86F407C8:Ust
+86F407C9:Handy Healing Kit
+86F407CA:Flour
+86F407CB:Water
+86F407CC:Letter From Home
+86F407CD:Apple
+86F407CE:Blackmoor's Favor
+86F407CF:Oil of Rendering
+86F407D0:Oil of Rendering
+86F407D2:Pathwarden Trinket
+86F407D1:Facility Hub Portal Gem
+86F407D3:Lead Pea
+86F407D4:Minor Mana Stone
+86F407D5:Minor Mana Stone
+86F407D6:Blue Phyntos Wasp Wing
+86F407D7:Flagon
+86F407D8:Minor Mana Stone
+86F407D9:Ring
+86F407DA:Minor Mana Stone
+86F407DB:Scroll of Sneak Attack Mastery Self
+86F407DC:Adept Healing Kit
+86F407DD:Adept Healing Kit
+86F407DE:Adept Healing Kit
+86F407DF:Adept Healing Kit
+86F407E0:Adept Healing Kit
+86F407E1:Amulet
+86F407E2:Amulet
+86F407E3:Scroll of Rejuvenate Self II
+86F407E4:Adept Healing Kit
+86F407E5:Excellent Healing Kit
+86F407E6:Adept Healing Kit
+86F407E7:Salvage
+86F407E8:Salvage
+86F407EC:Great Mana Charge
+86F407E9:Salvage
+86F407EA:Orb
+86F407EE:Adept Healing Kit
+86F407EB:Berzerker's Crystal
+86F407ED:Enchanter's Crystal
+86F407EF:Ruminations on Portal Creation
+86F407F0:Pyreal
+86F407F1:Pocket Watch
+86F407F2:Circlet
+86F407F3:Pack
+86F407F4:Flaming Budiaq
+86F407F5:Flaming Greataxe
+86F407F6:Dull Dagger
+86F407FE:Lorca Sammel's Gauntlets
+86F407F7:Lancet
+86F407F8:Acid Khanda-handled Mace
+86F4080E:Stipend
+86F407F9:Flaming Lancet
+86F407FA:Training Spadone
+86F40800:Wood Heart
+86F407FB:Leather Boots
+86F407FC:Academy Coat
+86F407FD:Pathwarden Robe
+86F407FF:Pack
+86F40801:Wood Heart
+86F40802:Wood Heart
+86F40803:Fire Elemental Essence (50)
+86F40809:Fishing Made Easy
+86F40804:Frost Great Star Mace
+86F40805:Heavy Necklace
+86F40806:Copper Heart
+86F40807:Copper Heart
+86F40808:Copper Heart
+86F4080A:Frost Spectre Essence (50)
+86F4080B:Elysa's Favor
+86F4080C:Tiny Shard
+86F4080D:Fenmalain Crystal Orb
+88263D7E:Sollerets
+88263D7D:Amuli Leggings
+88263D87:Celdon Sleeves
+88263D7C:Celdon Breastplate
+88263D7A:Heaume
+88263E61:Mattekar Arm Guard
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,92 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-30_1485809572_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Mavness-02-01-2017-pcap\pcap\pkt_2017-1-15_1484538327_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Mavness-02-01-2017-pcap\pcap\pkt_2017-1-16_1484622971_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Mavness-02-01-2017-pcap\pcap\pkt_2017-1-22_1485146811_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Mavness-02-01-2017-pcap\pcap\pkt_2017-1-22_1485147525_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Mavness-02-01-2017-pcap\pcap\pkt_2017-1-22_1485148504_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Mavness-02-01-2017-pcap\pcap\pkt_2017-1-23_1485227966_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Mavness-02-01-2017-pcap\pcap\pkt_2017-1-23_1485228000_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Mavness-02-01-2017-pcap\pcap\pkt_2017-1-23_1485235048_log.pcap
+
+Partial Exports - Missing appraisal info:
+8819EF1A:Foci of Strife
+8814205E:Foci of Verdancy
+8817C911:Foci of Artifice
+88141F8E:Heart of the Innocent
+8817CA37:Pristine Mana Shard
+88127160:Colosseum Backpack
+8817B4F7:Ust
+8819EF1F:Virindi Inquisitor Essence
+8817C913:Trade Note (10,000)
+88141F6C:Celestial Hand Trade Token
+8812B60F:Lord Cynreft's Ancient Emblem of Mhoire
+8817C8EB:Blackmoor's Favor
+8817C957:Spectral Skull
+8817C9A9:Small Olthoi Venom Sac
+88142062:Aetheria Desiccant
+8817C8B2:Celestial Hand Stronghold Portal Gem
+8817C95D:Trade Note (250,000)
+8812B0BF:Pyreal
+8813408B:Colosseum Coin
+8817C89C:Colosseum Coin
+88141FBB:Blank Augmentation Gem
+8817C98D:Blank Augmentation Gem
+88142042:Some Changes for February 2012
+827BE4DC:Glissnal Sleech Shell
+827BE4C3:Glissnal Sleech Shell
+8279B981:Glissnal Sleech Shell
+8812B756:Colosseum Backpack
+8817C928:Platinum Scarab
+8817C924:Mana Scarab
+88141393:Mana Scarab
+88141FD5:Diamond Scarab
+8819EF15:Platinum Scarab
+8817C8EF:Gem of Stillness
+881C019A:Gold Scarab
+88141FF5:Silver Scarab
+8817C95C:Mana Scarab
+881270C5:Copper Scarab
+88141F87:Pyreal Scarab
+88141FCB:Lead Scarab
+881C0199:Shoyanen's Portal Gem
+8817580C:Prismatic Taper
+9BC6C7C1:Sake
+9C2B9DFC:Prismatic Taper
+9CB5CBB0:Ink of Direction
+9CABFF77:Glyph of Slashing
+9C2FA135:Ink of Objectification
+9C42B0B4:Massive Mana Charge
+8817C94C:Colosseum Backpack
+9CBEE7D3:Pyreal
+9C41A4A8:Nariyid Breastplate
+9C45BCCF:Massive Mana Charge
+9C47715B:Massive Mana Charge
+9C45BCF6:Massive Mana Charge
+9C419136:Massive Mana Charge
+9C48FB1A:Massive Mana Charge
+88141FD6:Colosseum Backpack
+9C47C823:Yellow Taper
+94A14C74:Blue Taper
+9C47C7D6:Red Taper
+8279B9B3:Pants
+9CB5CE84:Parabolic Ink
+9CBEE7D2:Pyreal
+9CBEE7D1:Pyreal
+9CBEE7D0:Pyreal
+9CBEE7CF:Pyreal
+9CBEE7CE:Pyreal
+9CBEE7CD:Pyreal
+9CBEE7CC:Pyreal
+9C5C897E:Hyssop
+9C5F929F:Town Network Portal Gem
+9CB5CC11:Ink of Formation
+9CB4F53D:Quill of Infliction
+9C4C58ED:Scholar's Crystal
+9CBEE7DF:Invitation Ithaenc Cathedral
+9CBEE807:Invitation Plateau
+9CBADFCD:Invitation Wedding Hall
+
+Missing Exports - Possessed items that were not found:

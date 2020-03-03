@@ -1,0 +1,68 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485843152_log.pcap
+
+Partial Exports - Missing appraisal info:
+B2A51B63:Pyreal
+B2A51B5C:Welcome Letter
+B2A4D895:Foci of Enchantment
+B2A51B83:Foci of Artifice
+B2A51BEA:Foci of Verdancy
+B4378823:Pack
+B437CE92:Massive Mana Charge
+B439941F:Renegade Herbal Kit
+B4346059:Renegade Herbal Kit
+B439921F:Renegade Herbal Kit
+B4363853:Greater Mana Kit
+B4369BEF:Greater Mana Kit
+B4321157:Renegade Herbal Kit
+B3ED4250:Greater Stamina Kit
+B43491EF:Greater Mana Kit
+B2B04861:Aetheria Mana Stone
+B2A4D89D:Prismatic Taper
+B5955E4A:Lead Scarab
+B58EAA25:Iron Scarab
+B5955EA6:Copper Scarab
+B5907D3D:Silver Scarab
+B5B80B4E:Treated Healing Kit
+B5B98611:Treated Healing Kit
+B5A8B25D:Treated Healing Kit
+B5B07465:Treated Healing Kit
+B5B816B4:Treated Healing Kit
+B5B81A75:Treated Healing Kit
+B5937F10:Pack
+B5B3E4E4:Thick Lugian Stew
+B5B3E7E9:Cave Penguin Cake
+B5B984DE:Stout Lugian Ale
+B5B80FF7:Gonjoku's Mana Infusion
+B5937EC3:Pack
+B2A4D2F0:Calling Stone
+B28C31AB:Stipend
+B2A51B73:Imbue Swap Coin
+B2A51B75:Blackmoor's Favor
+B2A4DB79:Yumi
+B595C18C:Aphus Lassel Portal Gem
+B59501FC:Antiquated Compass
+B5B817D8:Treated Healing Kit
+B5B39A7D:Ust
+B59D68B3:Arrow
+B2A4D085:Sack
+B5B395BD:Mid-Stakes Gambling Token
+B4361719:Massive Mana Charge
+B5B98285:Ancient Empyrean Trinket
+B5B314B3:Salvage (16)
+B4399322:Massive Mana Charge
+B5B740ED:Salvage (25)
+B503D8E2:Copper Pea
+B56BDD7D:Iron Pea
+B59DDA17:Arrow
+B5152F65:Lead Pea
+B5B74FBB:Salvage (8)
+B5B822AC:Gem of Purity
+B5B21462:Dansha-Ki's Gem of Portal Recall
+B56828E6:Tusker Redeemer Tusk
+B5B990A2:Trade Note (250,000)
+B5B990BB:Trade Note (200,000)
+B56809F4:Silver Pea
+B5B4C9C6:Gold Pea
+
+Missing Exports - Possessed items that were not found:

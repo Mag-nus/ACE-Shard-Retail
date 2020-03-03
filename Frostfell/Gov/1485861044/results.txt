@@ -1,0 +1,158 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Cyberkiller-01-31-2017-Random\pkt_2017-1-31_1485861002_log.pcap
+
+Partial Exports - Missing appraisal info:
+DD30E7A5:Foci of Artifice
+DD30E7A6:Ust
+DD30E7A7:Greeter's Key
+DD30E7A8:A Crumpled Note
+DD30E7AA:Pack
+DD30E7AB:Dirk
+DD30E7AD:Cowl
+DD30E7AE:Scalemail Girth
+DD30E7B1:Lyceum Hood
+DD30E7C4:Lead Scarab
+DD30E7B4:Nariyid Leggings
+DD30E7B7:Chainmail Pauldrons
+DD30E7E9:Ravenous Eater Jaw
+DD30E7BA:Lace Shirt
+DD30E7C1:Loafers
+DD30E7BB:Teardrop Crown
+DD30E7BE:Aetheria
+DD30E7C3:Pack
+DD30E806:Neydisa Snowglobe
+DD30E7C5:Copper Scarab
+DD30E7C6:Iron Scarab
+DD30E7C7:Silver Scarab
+DD30E7C8:Gold Scarab
+DD30E7C9:Pyreal Scarab
+DD30E7CA:Platinum Scarab
+DD30E7CC:Haebrean Vambraces
+DD30E7D0:Studded Leather Shirt
+DD30E7D7:Diamond Shield
+DD30E7D8:Cowl
+DD30E7DA:Trousers
+DD30E7DB:Bracelet
+DD30E7DC:Pack
+DD30E7E0:Dericost Blade
+DD30E7E3:Wand
+DD30E7E8:Focusing Stone
+DD30E7F5:Pack
+DD30E7EB:Salvage (100)
+DD30E7EC:Salvage (100)
+DD30E80E:Pack
+DD30E7ED:Salvage (100)
+DD30E7EE:Salvage (100)
+DD30E827:Pack
+DD30E7EF:Salvage (100)
+DD30E7F0:Salvage (100)
+DD30E7F1:Salvage (100)
+DD30E7F2:Salvage (100)
+DD30E7F3:Salvage (100)
+DD30E7F4:Salvage (100)
+DD30E7F6:Celdon Girth
+DD30E7FB:Amuli Leggings
+DD30E7FE:Studded Leather Girth
+DD30E800:Aetheria
+DD30E801:Dho Vest and Over-Robe
+DD30E804:Gorget
+DD30E805:Salvage (100)
+DD30E807:Flaming Kaskara
+DD30E80A:Loafers
+DD30E80C:Lorica Gauntlets
+DD30E80D:Mechanical Scarab
+DD30E813:Steel Toed Boots
+DD30E816:Bracelet
+DD30E819:Lyceum Hood
+DD30E81C:Olthoi Celdon Girth
+DD30E81D:Olthoi Alduressa Gauntlets
+DD30E821:Chiran Coat
+DD30E824:Top
+DD30E828:Vest
+DD30E825:Kasa
+DD30E82D:Kasa
+DD30E82E:Bandana
+DD30E830:Loose Pants
+DD30E831:Trousers
+DD30E833:Diforsa Gauntlets
+DD30E834:Pants
+DD30E836:Fez
+DD30E837:Quartered Cloak
+DD30E848:Gorget
+DD30E839:Ring
+DD30E83A:Lorica Breastplate
+DD30E83E:Koujia Leggings
+DD30E845:Chainmail Bracers
+DD30E846:Aetheria
+DD30E847:Puffy Shirt
+DD30E849:Lorica Boots
+DD30E84A:Empyrean Over-robe
+DD30E84C:Nariyid Girth
+DD30E84E:Scalemail Girth
+DD30E84F:Ring
+DD30E850:Leather Greaves
+DD30E852:Diadem
+DD30E851:Cloth Gloves
+DD30E853:Haebrean Tassets
+DD30E855:Pants
+DD30E857:Studded Leather Pauldrons
+DD30E858:Salvage
+DD30E859:Salvage
+DD30E863:Alduressa Helm
+DD30E85A:Salvage (100)
+DD30E85B:Flared Pants
+DD30E85C:Heavy Bracelet
+DD30E85E:Signet Crown
+DD30E85F:Viamontian Pants
+DD30E860:Studded Leather Tassets
+DD30E861:Studded Leather Bracers
+DD30E865:Studded Leather Shirt
+DD30E866:Nariyid Sleeves
+DD30E868:Platemail Cuirass
+DD30E869:Empyrean Over-robe
+DD30E86A:Chainmail Sleeves
+DD30E86B:Frost Compound Bow
+DD30E86C:Suikan Over-robe
+DD30E86D:Circlet
+DD30E871:Platemail Tassets
+DD30E872:Covenant Girth
+DD30E873:Shoes
+DD30E880:Diadem
+DD30E874:Yoroi Pauldrons
+DD30E875:Olthoi Koujia Leggings
+DD30E876:Amuli Coat
+DD30E879:Leather Jerkin
+DD30E87B:Sceptre
+DD30E87C:Chiran Leggings
+DD30E87E:Tenassa Leggings
+DD30E87F:Teardrop Crown
+DD30E881:Chevron Cloak
+DD30E882:Platemail Breastplate
+DD30E883:Shoes
+DD30E884:Sandals
+DD30E887:Puzzle Box
+DD30E889:Scalemail Coif
+DD30E88A:Chevron Cloak
+DD30E88C:Chainmail Leggings
+DD30E88D:Haebrean Helm
+DD30E88E:Shoes
+DD30E890:Qafiya
+DD30E88F:Leather Vest
+DD30E892:Coronet
+DD30E893:Signet Crown
+DD30E899:Compass
+DD30E895:Alduressa Leggings
+DD30E896:Amuli Leggings
+DD30E897:Chainmail Breastplate
+DD30E898:Lorica Leggings
+DD30E89A:Shirt
+DD30E89C:Cowl
+DD30E89D:Knorr Academy Girth
+DD30E89F:Heavy Bracelet
+DD30E8A0:Studded Leather Girth
+DD30E8A1:Leather Cuirass
+DD30E8A3:Tenassa Breastplate
+DD30E8A4:Olthoi Celdon Leggings
+DD30E8A5:Celdon Sleeves
+
+Missing Exports - Possessed items that were not found:

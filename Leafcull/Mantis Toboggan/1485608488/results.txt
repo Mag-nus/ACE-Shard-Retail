@@ -1,0 +1,126 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\AC-Packet-Data-Jungle-Souljah-LC\pkt_2017-1-28_1485606199_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\AC-Packet-Data-Jungle-Souljah-LC\pkt_2017-1-23_1485204442_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\AC-Packet-Data-Jungle-Souljah-LC\pkt_2017-1-23_1485204442_log.pcap
+
+Partial Exports - Missing appraisal info:
+868623AF:Yellow Jewel
+8699768C:Little Green Seeds
+86847815:Little Green Seeds
+86990EF6:Little Green Seeds
+86990643:Little Green Seeds
+869725E2:Little Green Seeds
+86970964:Deceiver's Crystal
+8691EA03:Fletcher's Crystal
+86992245:Brawler's Crystal
+869E10CF:Sturdy Iron Keyring
+869E10CC:Sturdy Iron Keyring
+869C0FC7:Sturdy Iron Keyring
+869D33B1:Sturdy Iron Keyring
+8695BD46:Salvage (100)
+869D33BB:Sturdy Steel Keyring
+8686C3CA:Sturdy Steel Keyring
+86991587:Sturdy Steel Keyring
+869E10C8:Coalesced Aetheria
+86991B0B:Coalesced Aetheria
+869922D3:Coalesced Aetheria
+8E985ABE:Aetheria
+8DD31410:Aetheria
+8F4E368A:Aetheria
+8F672DC9:Aetheria
+8FB4E957:Aetheria
+8F69DAE6:Aetheria
+869C2EB3:Aetheria Powder
+869E1252:Aetheria Powder
+869E10C7:Aetheria
+868A95A9:Salvaged  (100)
+8695BAC3:Salvage (100)
+86991C33:Salvage (100)
+868C409C:Salvage (100)
+8693876E:Salvage (100)
+869E0896:Singularity Keyring
+869E0DDA:Salvage (100)
+868B7356:Salvage (100)
+869C0F7D:Singularity Keyring
+8695B16E:Salvage (100)
+86826050:Salvage (100)
+868A850A:Singularity Keyring
+869E0895:Salvage (100)
+869E0894:Salvaged  (100)
+869E087B:Granite Keyring
+869C3056:Salvaged  (100)
+86990AF7:Salvaged  (100)
+869E088A:Marble Keyring
+869392F7:Salvaged  (100)
+86992000:Salvaged  (100)
+869E124F:Pyreal
+86982D66:Salvaged  (100)
+8F69C2FC:Ink of Nullification
+869E1250:Diamond Scarab
+869E089E:Singularity Keyring
+869E0897:Singularity Keyring
+868C7BB0:Singularity Keyring
+869C101F:Singularity Keyring
+868AA4E4:Singularity Keyring
+869E0893:Sturdy Iron Keyring
+86997494:Coalesced Aetheria
+869C0F78:Coalesced Aetheria
+86992018:Pack
+869E140F:Coalesced Aetheria
+8693964E:Coalesced Aetheria
+869E142C:Ust
+86992133:Coalesced Aetheria
+869E140E:Coalesced Aetheria
+869C0F4F:Pyreal
+8695AD81:Coalesced Aetheria
+86990E11:Coalesced Aetheria
+869E10DB:Granite Keyring
+86997501:Coalesced Aetheria
+869920AA:Coalesced Aetheria
+869E10D9:Marble Keyring
+86991DA5:Coalesced Aetheria
+86991C77:Coalesced Aetheria
+867C63D4:Facility Hub Portal Gem
+86938E14:Oil of Rendering
+869E1087:Little Green Seeds
+86997AA0:Oil of Rendering
+869E1337:Blackmoor's Favor
+86990F5B:Pathwarden Token
+869E1249:Ancient Falatacot Trinket
+868C3FAD:Fine Olthoi Brood Queen Helm
+869C7AE4:Red Monster Seed
+86997579:Encapsulated Spirit
+86821669:Gem of Stillness
+869E10CD:Vial of Lapyan Dye
+869E10CE:Vial of Minalim Dye
+869237C5:Salvaged  (100)
+869901C6:Salvaged  (100)
+864E6499:Salvage (100)
+869C2B86:Salvage (100)
+8684819E:Sturdy Iron Keyring
+869E14B4:Singularity Keyring
+869977C2:Princely Runed Dart Flinger
+86833CF2:Qafiya
+869E127A:Vial of Berimphur Dye
+86992230:Heavy Bracelet
+86997507:Encapsulated Spirit
+868C3308:Encapsulated Spirit
+869923E6:Encapsulated Spirit
+8693A5D9:Encapsulated Spirit
+86750010:Encapsulated Spirit
+869E119B:Gem of Stillness
+86195142:Intricate Carving Tool
+907E6567:Encapsulated Spirit
+91B3D6BF:Encapsulated Spirit
+8FB26CC8:Glyph of Bludgeoning
+8FB24563:Ink of Objectification
+8FB24B1C:Ink of Formation
+8FAF2600:Ink of Conveyance
+8FB62039:Quill of Benevolence
+8FB2890C:Aetheria
+8FB657E3:Glyph of Stamina Regeneration
+913C4693:Steel Toed Boots
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,85 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-22_1485139320_log.pcap
+
+Partial Exports - Missing appraisal info:
+813CA629:Pack
+813D0615:Sake
+813D05F8:Sake
+813D0626:Ust
+813D0052:Foolproof Imperial Topaz
+814010ED:Pack
+813D0645:Pyreal
+814010E4:Yaraq Portal Gem
+813D0725:Coruscating Olthoi Scent Gland
+813D062C:Platinum Scarab
+813D0601:Facility Hub Portal Gem
+813D0650:Sake
+814010EB:Pack
+813D05EA:Splitting Tool
+812B0F97:Pack
+813D068F:Blank Augmentation Gem
+812B0F8B:Pack
+812B0F8F:Foolproof Emerald
+813CA5A2:Pack
+813D0657:Foolproof Emerald
+813D066F:Foolproof Fire Opal
+813D0699:Stipend
+813D0647:Foolproof Sunstone
+813D0777:Foolproof Sunstone
+80E7FA13:Aluvian Rug
+813D065F:Foolproof Emerald
+814010E6:Foolproof Sunstone
+813CB6FA:Foolproof Fire Opal
+813D0670:Foolproof Emerald
+813D071E:Foolproof Aquamarine
+813CA586:Foolproof Fire Opal
+813D068A:Foolproof Emerald
+813D066E:Foolproof
+813CA593:Scroll of Blistering Creeper
+813D0691:Foolproof
+813D0659:Foolproof
+81386DCC:Pack
+81385A6E:Foolproof
+813D0682:Foolproof Sunstone
+813FFF87:The Reign of Alfrega
+813D06FC:Foolproof Black Garnet
+813CA689:Foolproof White Sapphire
+813D0652:Foolproof Zircon
+813CA688:Foolproof Imperial Topaz
+813D06C3:Foolproof Black Garnet
+813D06A8:Foolproof Black Garnet
+813D0669:Foolproof Yellow Topaz
+813D064B:Foolproof Yellow Topaz
+813D069C:Foolproof Yellow Topaz
+813CFC6A:Foolproof Yellow Topaz
+813D0674:Foolproof Aquamarine
+813D06C5:Foolproof Fire Opal
+813CA58F:Foolproof White Sapphire
+813CA573:Foolproof Fire Opal
+813A452F:Foolproof Fire Opal
+81397544:Foolproof Fire Opal
+813D069B:Foolproof Zircon
+813D0667:Foolproof Black Garnet
+813D0692:Foolproof Fire Opal
+813CA592:Foolproof Zircon
+813D06CD:Foolproof Imperial Topaz
+813D0686:Foolproof Sunstone
+813D0778:Foolproof Fire Opal
+813D0680:Foolproof Fire Opal
+813CFEE4:Foolproof Fire Opal
+813D06B4:Foolproof Fire Opal
+813D069E:Foolproof Zircon
+813D0689:Lucky White Rabbit's Foot Gem
+813FFF88:Pristine Mana Shard
+813FFF89:Pristine Mana Shard
+813FFF86:Pristine Mana Shard
+813389B6:Foolproof
+813D06E7:Foolproof Aquamarine
+813CA594:Foolproof
+813D06BC:Foolproof Fire Opal
+813D06A1:Foolproof Fire Opal
+813D0773:Foolproof Zircon
+813D067C:Harbinger Blood Infusion
+813D069F:Foolproof Imperial Topaz
+
+Missing Exports - Possessed items that were not found:

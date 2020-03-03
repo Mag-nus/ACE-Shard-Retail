@@ -1,0 +1,17 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\asherons-call-newer\pkt_2017-1-30_1485845905_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\asherons-call-newer\pkt_2017-1-30_1485845905_log.pcap
+
+Partial Exports - Missing appraisal info:
+C6C7130C:Pyreal
+C6C7130D:Foci of Artifice
+C6C7130E:Prismatic Taper
+C6C7130F:Lead Scarab
+C6C71311:Ust
+C6C71316:Welcome Letter
+C6C71317:Sack
+C6C71319:Some Changes for February 2012
+
+Missing Exports - Possessed items that were not found:

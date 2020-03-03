@@ -1,0 +1,39 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Immortalbob-1-31-17-Random-Pcaps\pkt_2017-1-30_1485824856_log.pcap
+
+Partial Exports - Missing appraisal info:
+80524B6B:Pack
+956882FF:Pyreal
+80573D6B:Pack
+80508C94:Pack
+80531F48:Foci of Verdancy
+80573DAD:Foci of Strife
+804A763F:Foci of Artifice
+80501F61:Sanguinary Aegis
+80524420:Pack
+80532659:Blackmoor's Favor
+80507956:Ust
+805041FD:Intricate Carving Tool
+80524804:Ecorto's Chisel
+804B6013:Elemental Master Robe
+8047DBA1:Elemental Master Robe
+805738E4:Aerfalle's Pallium
+8051029B:Elemental Master Robe
+805242F9:Quiddity Orb
+80524A07:Luminescent Runic Helm
+80508EF3:Deadly Hollow Katar
+80489995:Auroric Exarch Coat
+804A2C17:Auroric Exarch Leggings
+804F1912:Auroric Exarch Girth
+80508ED7:Amuli Leggings
+B5F8D13E:Stipend
+80532454:Amuli Coat
+804DDC07:Weeping Bow
+80508466:Hollow Bow
+8056B7F0:Amuli Leggings
+80524BF4:Amuli Coat
+80573E75:Sceptre
+B500CED2:Milk
+95689035:Wand
+
+Missing Exports - Possessed items that were not found:

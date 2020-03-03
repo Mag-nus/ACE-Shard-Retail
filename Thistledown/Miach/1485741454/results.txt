@@ -1,0 +1,108 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Miach-Golem-Santum-and-more-pcap\pkt_2017-1-29_1485740900_log.pcap
+
+Partial Exports - Missing appraisal info:
+885CE0BD:Ursuin Cub Kennel
+8866C525:Pack
+80235678:Silyun Portal Gem
+88647123:Pyreal
+8866BDA6:Blackmoor's Favor
+88664202:Vissidal Island Portal Gem
+88668C9F:Brilliant Shard
+88620F12:Shendolain Portal Gem
+885F9A0C:Yanshi Portal Gem
+8866A466:Decaying Zombie Brain Portion
+8866C811:Quest Weapon Coin
+88543A24:Silver Pea
+886696EB:Gold Pea
+8866496B:Glyph of Missile Weapons
+8866D1D3:Ink of Direction
+88663E98:Colosseum Coin
+8866C7BD:Glyph of Item Tinkering
+8866C6FA:Oswald's Crystal
+885F643F:Chilling Ebony Staff
+8864EA7C:Elemental Master Robe
+886108BC:Oswald's Dirk
+886446F1:Major Smoldering Stone
+8866A447:Pyreal Nugget
+88698183:Wooden Tablet
+8867EB9A:Shadow Pass
+8866C2F7:Foci of Artifice
+8866436A:Foci of Enchantment
+8866C66D:Pack
+8866C6A2:Wrapped Bundle of Deadly Armor Piercing Arrowheads
+8866B2A1:Wrapped Bundle of Deadly Arrowheads
+886193D2:Wrapped Bundle of Deadly Frost Arrowheads
+8866B4B3:Bundle of Crystal Arrowheads
+8866C8BC:Bundle of Arrowshafts
+886131EB:Mangled Dark Key
+885FB354:Wrapped Bundle of Deadly Frog Crotch Arrowheads
+886658A4:Wrapped Bundle of Deadly Armor Piercing Arrowheads
+8865C1D5:Wrapped Bundle of Deadly Lightning Arrowheads
+8866C72B:Wrapped Bundle of Arrowshafts
+8861BCB3:Wrapped Bundle of Deadly Fire Arrowheads
+8866C7DF:Wrapped Bundle of Deadly Blunt Arrowheads
+8866033F:Heart of the Innocent
+8866B2AF:Black Fire Atlan Stone
+8866C0AB:Saulandoi
+8866CA0F:Electric Compound Bow
+8866799C:Blunt Compound Bow
+8866C5D4:Jaleh's Necklace
+8866AADB:Ust
+8866C564:Foci of Verdancy
+8866B581:Pack
+886117F8:Gold Scarab
+8866C5B1:Copper Scarab
+802356D8:Iron Scarab
+88663E29:Prismatic Taper
+88664605:Platinum Scarab
+886647ED:Blank Augmentation Gem
+8866121D:Blank Augmentation Gem
+8864DC63:Pyreal Scarab
+8860DB89:Silver Scarab
+8866A438:Prismatic Taper
+8866C512:Lead Scarab
+88501590:Diamond Scarab
+88698186:Treated Healing Kit
+8866479D:Treated Healing Kit
+886980D7:Excellent Healing Kit
+88669FD4:Excellent Healing Kit
+88669C3E:Excellent Healing Kit
+8860C5CE:Band of Shielding
+886208D8:Rose Quartz Wedding Ring
+8866D08D:Fiun Crown
+88669B60:Banderling Aggressor Backpack
+88669527:Saffron
+8866C96C:Stonehold Rune Transcription
+886652CC:Ashbane
+8866954F:Heavy Bracelet
+88664C14:Nariyid Breastplate
+88663593:Frost Sceptre
+885FBC66:Slashing Baton
+885D0837:Treated Healing Kit
+8866C84D:Staff
+8866CD93:Frost Sceptre
+8863C71E:Circlet
+8866C5AF:Heavy Bracelet
+8866C545:Heavy Bracelet
+88668F50:Gorget
+8866C687:Signet Crown
+886688A5:Red Fire Infusion
+885FB2C3:Writ of Apology
+88662D4E:Jaleh's Necklace
+8866C699:Royal Runed War Bow
+88698035:Bracelet
+88687CC4:Asheron's Supreme Raiment
+8866C67B:Heavy Bracelet
+8866990E:Mechanical Scarab
+88BF97AF:Amuli Coat
+88C02DDB:Sollerets
+888C405B:Gauntlets
+88684A23:Focusing Stone
+8717020B:Ancient Armored Bracers
+871BBB93:Ancient Armored Gauntlets
+871701F8:Ancient Armored Vestment
+8860F7A0:Deadly Fire Arrow
+AB8DB994:Composite Bow with Handle
+
+Missing Exports - Possessed items that were not found:

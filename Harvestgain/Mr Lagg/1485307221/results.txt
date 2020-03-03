@@ -1,0 +1,19 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\pkt_2017-1-24_1485307067_log\pkt_2017-1-24_1485307067_log.pcap
+
+Partial Exports - Missing appraisal info:
+C7F48DDE:Loose Tunic
+C7F48DCB:Loose Pants
+C7F35620:Pyreal
+C7F48DBE:Shoes
+C7F36133:Apple
+C7F0FBF4:Handy Healing Kit
+C7F45DBE:Handy Healing Kit
+C7F2A9CC:Welcome Letter
+C7F0A7EC:Sack
+C7F30F4B:Calling Stone
+C7F48DD5:Pack Asheron
+C7F48D75:Some Changes for February 2012
+C7F48CBD:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

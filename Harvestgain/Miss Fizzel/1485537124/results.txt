@@ -1,0 +1,127 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-07-2017\pkt_2017-1-27_1485537113\pkt_2017-1-27_1485537113_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-07-2017\Asherons-Call-1\pkt_2017-1-24_1485261643_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\pkt_2017-1-26_1485393836\pkt_2017-1-26_1485438476_log.pcap
+
+Partial Exports - Missing appraisal info:
+817F3951:Large Tusker Backpack
+C7893436:Pyreal
+818BAB67:Banderling Aggressor Backpack
+81871B70:Splitting Tool
+934521B4:The Healer's Heart
+C7DD4BC0:Pyreal
+C68DDC89:Lightning Skeleton Bushi Essence (150)
+80644DC7:Aetheria
+C7DD4BBF:Pyreal
+C7A0B328:Celdiseth's Portal Gem
+C7E1A684:Pyreal
+C7C162D0:Platinum Scarab
+81872911:Banderling Slayer Backpack
+818709D2:Iron Scarab
+81870406:Silver Scarab
+817BB244:Lead Scarab
+8178DA29:Copper Scarab
+8186B7AE:Gold Scarab
+8187099A:Diamond Scarab
+81870742:Pyreal Scarab
+849A4CD9:Platinum Scarab
+82E8DD11:Aetheria Mana Stone
+C0A5AACE:Platinum Scarab
+C782D175:Mana Scarab
+C781F5A0:Fire Child Essence (180)
+C184EF21:Corrupted Essence
+C183B0BB:Lesser Corrupted Essence
+C78F064C:Salvage (100)
+C7A46D1D:Frost Moar Essence (180)
+C7933E0D:Lightning Moar Essence (180)
+81CA5C69:Small Belt Pouch
+818D8933:Intricate Carving Tool
+BC0919EE:Frost Baton
+C7E4A3EC:Pyreal
+943140FB:Gem of Greater Luminance
+8427D348:Pack
+8685D7C8:Aphus Lassel Portal Gem
+890162F9:Frost Child Essence (180)
+8280C1BC:Imbue Swap Coin
+8DDE4CD6:Trade Note (50,000)
+818D8979:Trade Note (100,000)
+91A9D2DB:Fire Wisp Essence (180)
+928A6368:Acid K'nath Essence (180)
+818D896C:Trade Note (10,000)
+9288159E:Quartered Cloak
+C7E0DAB9:Pyreal
+C7C87FAE:Titan Mana Charge
+8D35A210:Pack
+C7B918B1:Titan Mana Charge
+91D97499:Pack
+C7C23B86:Compass
+C7D20865:Titan Mana Charge
+C7B84905:Titan Mana Charge
+C7CBA6DB:Titan Mana Charge
+C7CF118E:Titan Mana Charge
+C7BCCFDA:Titan Mana Charge
+C7CBA6B7:Titan Mana Charge
+937426CE:Pack
+93972A6C:Prismatic Taper
+C00027BD:Prismatic Taper
+C12EB8C4:Ancient Falatacot Trinket
+BFCF585B:Encapsulated Spirit
+C3BA3D39:Acid Wisp Essence (180)
+C3BA3F51:Frost Wisp Essence (180)
+C3B55E2B:Frost Wisp Essence (180)
+C3B2724C:Lightning Child Essence (180)
+C15F9435:Fire Spectre Essence (150)
+C15DDF86:Lightning K'nath Essence (180)
+C136E7CA:Acid Skeleton Bushi Essence (150)
+C56BE344:Writ of Refuge
+C3B74261:Trade Note (250,000)
+C7BEF882:Titan Mana Charge
+C7BB033A:Titan Mana Charge
+C7B8239B:Titan Mana Charge
+C7CF11D7:Titan Mana Charge
+C7D8B7BD:Prismatic Taper
+C7D98405:Prismatic Taper
+C7D46EA1:Prismatic Taper
+C7D14892:Prismatic Taper
+C7D481AF:Titan Mana Charge
+C7B6FB7F:Titan Mana Charge
+C7D48408:Titan Mana Charge
+C7D51E80:Titan Mana Charge
+C7CFF4AC:Titan Mana Charge
+C7D8B7A3:Titan Mana Charge
+C7CE6610:Titan Mana Charge
+C7D8B766:Titan Mana Charge
+C7C60844:Titan Mana Charge
+C7DC5BEB:Mana Scarab
+C7DE8824:Encapsulated Spirit
+C7E49AC8:Pyreal
+C7E0CB70:Pyreal
+C7E37938:Pyreal
+C7DFC9F0:Pyreal
+C7E38081:Pyreal
+C7D8D9AC:Pyreal
+C7D9D85C:Prismatic Taper
+C7D9D6AD:Prismatic Taper
+C7E5D90C:Titan Mana Charge
+C7D8B493:Titan Mana Charge
+C7E11468:Titan Mana Charge
+C7E160FE:Burning Coal
+C7CB0724:Silver Pea
+C7E23CC5:Teardrop Crown
+C7DA7780:Major Mana Stone
+C7C0D45C:Gold Pea
+C7E72EA7:Copper Pea
+C7DE910C:Major Mana Stone
+C7E9F926:Snowflower
+C7E9C862:Major Mana Stone
+818D8936:Ust
+C7E41C1F:Salvage (27)
+C7E96739:Fez
+C7E30F0E:Signet Crown
+C7EB7915:Superb Lockpick
+C80DBD9D:Salvage (99)
+C8059F81:Nether Sceptre
+
+Missing Exports - Possessed items that were not found:

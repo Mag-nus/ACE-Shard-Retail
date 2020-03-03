@@ -1,0 +1,72 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485760878_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-22_1485075869_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-22_1485080171_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-22_1485112201_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-24_1485280904_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-24_1485281572_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-25_1485331697_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-25_1485331957_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-25_1485332040_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-25_1485333423_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-25_1485373447_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-25_1485376986_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-29_1485723711_log.pcap
+
+Partial Exports - Missing appraisal info:
+811D6F1D:Foci of Artifice
+811991DC:Fishing Made Easy
+811C39E3:Blackmoor's Favor
+811C1A64:Brewmaster's Front Cover
+B5BF71E8:Deed
+C7FF8633:Pyreal
+C7FF865A:Pyreal
+C7FF79DC:Pyreal
+C7F0FB2C:Pyreal
+C7FDA0A8:Pyreal
+C7F478AA:Pyreal
+C7FB5487:Pyreal
+C7FEC729:Pyreal
+C7FF862A:Pyreal
+811BBDD3:Ust
+811C1AFF:Foci of Verdancy
+8A25D8EB:Copper Scarab
+811BA3F6:Platinum Scarab
+8F0735A4:Prismatic Taper
+9E11A208:Mana Scarab
+9E40F429:Pyreal Scarab
+9E40F428:Gold Scarab
+9E40F427:Silver Scarab
+9E40F425:Iron Scarab
+9E40F424:Lead Scarab
+C7D0465C:Pyre Shroud
+C7C6C261:Mana Forge Key
+C7C6E16B:Mana Forge Key
+C7CF1816:Diamond Heart
+C7CA937E:Yellow Monster Seed
+C7C7DA7F:Mana Forge Key
+C8017E5D:Mana Forge Key
+811D74DA:Quest Weapon Coin
+811C1A0D:Book
+811C1191:A Tiny Mnemosyne
+8A2974F0:Salvage (58)
+811BA704:Wrapped Bundle of Deadly Blunt Arrowheads
+811B1392:Wrapped Bundle of Arrowshafts
+81182CFE:Some Changes for February 2012
+811C1A7D:Fishing Pole
+8116B34F:Facility Hub Portal Gem
+811B0A08:Untranslated Page #4
+811C1B5F:Yanshi Town Stamp
+C762A9C4:The Temple of Forgetfulness
+80FFE5A1:Wrapped Bundle of Deadly Fire Arrowheads
+C762A9E8:A Note From Ciandra
+C7614521:Hyssop
+C7626269:Hyssop
+C75D9118:Gem of Stillness
+C76635B0:Gem of Purity
+C8017E55:Chiran Coat
+C8017E4F:Olthoi Helm
+
+Missing Exports - Possessed items that were not found:

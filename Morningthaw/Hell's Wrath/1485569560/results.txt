@@ -1,0 +1,200 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\trello_datamining\0_RadiantBloodStronghold\RadiantBloodStronghold\RadiantBloodStronghold.pcap
+
+Partial Exports - Missing appraisal info:
+800080F7:T-Mon BackPack
+8D68FAD1:Asheron's Supreme Raiment
+8D68FAD0:Hoary Mattekar Robe
+C39A9483:Pyreal
+8D68FB1E:Peerless Smoldering Atlan Axe
+8D68FACA:Canescent Mattekar Robe
+801DDC48:Chalk Board
+801DDC70:Large Round Shield
+801DDC67:Covenant Shield
+801DDC66:Diamond Shield
+8CFDE133:Little Pine Tree
+801DDC4F:Head of the Homunculus
+801DDC4E:Helm of Isin Dule
+8D60BBDF:Slice of Royal Wedding Cake
+C5CD0F2C:Pyreal
+C5CAA6A1:Pyreal
+BCBE9AA9:Promissory Note
+C2EAA003:Stipend
+C5CB1177:Pyreal
+C5CD0F1A:Pyreal
+80ACC3E2:Encapsulated Spirit
+9F5875A1:Platinum Spirits
+C6619BEE:Candy Corn
+9207796D:Black Market Gem of Dispelling
+C66BC6B5:Report to Niarltah
+8000810D:King's Crown
+80008109:Colosseum Backpack
+8000810B:Aligned Mana Stone
+800081C1:Scroll of Dark Rain
+8000810C:Frost Phyntos Wasp Essence (180)
+8000810F:Scorched Grievver Essence
+80008111:Frost Phyntos Wasp Essence (180)
+80008113:Freezing Moar Essence
+80008117:Colban Plant
+800081A3:Electrified Moar Essence
+8170C4D0:Snow Lily
+800081E5:Aerbax Mask Shard
+80008167:Slashing Staff
+80008165:Upper Insatiable Eater Jaw
+80008162:Intricate Carving Tool
+80008161:Shoyanen's Portal Gem
+93BA6AA2:Eviscerator Head
+91FD655D:Chorizite
+92077306:Black Market Gem of Dispelling
+9207765F:Black Market Gem of Dispelling
+8B3FC3EC:Trade Note (250,000)
+800081EB:Shadowfire Isparian Wand
+8000811F:Mana-infused Acid War Staff of Aerfalle
+800081A7:Noble Sceptre
+800080FC:Mana-infused Acid War Staff of Aerfalle
+C629D943:Sealed Scroll for Commander Presk
+C660DFF0:A Tale of Paths
+8000811B:Colosseum Backpack
+8000811C:Encrusted Bloodstone Jewel
+8000811D:Fire Baton
+80008121:Upper Insatiable Eater Jaw
+8000811E:Pursuit Orb
+80008120:Enhanced Black Fire Atlan Stone
+80008123:Colosseum Ticket
+80008124:Falatacot Battle Report
+80008126:Piercing Staff
+80008128:Aerbax Mask Shard
+80008127:High-Stakes Gambling Token
+80008129:Coronet
+8000812A:Aetheria Mana Stone
+8000812C:Scimitar
+804835E3:Upper Insatiable Eater Jaw
+8D51A807:Green Society Band
+800081EA:Fire Moar Essence (180)
+8F9BD053:Sandstone Golem Essence
+8F9E22D5:Mud Golem Essence
+80D37E8F:Facility Hub Portal Gem
+800080FA:Sanguinary Aegis
+8001002B:Writ of Refuge
+8000815F:Walking Cane
+800081E7:Whispering Blade Chapterhouse Recall Orb
+8000812F:Colosseum Backpack
+80008130:A'nekshay Token
+80008163:Diamond Powder
+8000813B:Frost Phyntos Swarm Essence
+80008108:Modified Taulandoi
+80008144:Book
+80008110:Fire Phyntos Swarm Essence
+800081A4:Ultimate Singularity Scepter of War Magic
+800080FF:Staff of Aerfalle
+80008100:Energy Crystal
+80008164:Aetheria
+8000815D:Stonehold Rune Transcription
+800081AD:Pantaloons
+8FE36490:Demon Swarm Matron Token
+80ACC3F0:Ancient Empyrean Trinket
+9F6CB1C9:Writ of Refuge
+BF25B85B:Aetheria
+C3B25A08:Green Society Band
+C3B259D7:Blunt Sceptre
+80008145:Ust
+BF25BF6C:Honeyed Life Mead
+BF25BF6A:Honeyed Vigor Mead
+80008143:Colosseum Backpack
+80008149:Deed
+8000814A:Aetheric Resonator
+8000814B:Jester's Token
+80008151:Nether Baton
+80008152:Red Taper
+80008159:Radiant Blood Commendation Ribbon
+8F3C76E3:Fishing Pole
+C3AED443:Prismatic Taper
+C4385F5E:Town Network Portal Gem
+C430AE22:Town Network Portal Gem
+C4385EF5:Town Network Portal Gem
+800081F3:Blunt Staff
+C66465B5:Clean Towel
+C47856B1:Black Page of Salt and Ash
+C4A5B4E0:Gauntlet Vault Key
+8000815C:Colosseum Backpack
+907FA917:Lucky Gold Letter
+9078C700:Lucky Gold Letter
+9039BA06:Coral Shield
+901342FF:Coral Shield
+80008101:Raeta's Necklace
+8A9131F2:Golden Gromnie
+8000810E:Freezing Moar Essence
+800080FB:Parchment
+907D6DEF:Dire Champion Token
+90556FEA:Blue Burning Mushroom
+80008103:Ogre Mask
+80008104:Saulandoi
+800080FE:Splitting Tool
+800080F8:Blackmoor's Favor
+8C0E889A:Blue Society Band
+800080F9:Asheron's Lesser Benediction
+C3B28A54:Massive Mana Charge
+C3B28A52:Massive Mana Charge
+C3AC936F:Massive Mana Charge
+8D941A64:Royal Bouquet
+968AD085:Infused Amber Shard
+80008174:Colosseum Backpack
+80008176:Unreadable Scroll
+80008177:Aerfalle's Embossed Token
+80008178:Hyssop
+80008179:Jo
+8000817B:Grand Casino Key
+8000817C:Haebrean Gauntlets
+8000817D:Aetheria
+80008168:Chilling Ebony Staff
+8000817F:Scimitar
+8C66B8C8:Burun Slaying Sceptre
+C3A4E45D:Blank Augmentation Gem
+80008114:Fire Sceptre
+C3A9C56A:Upper Insatiable Eater Jaw
+800081C2:Rynthid Tentacle Wand
+B14CAF05:Amuli Leggings
+8000814C:Red Rune Silveran Claw
+80ACC3DD:Empyrean Portalspace Stabilizer
+855918E9:Rynthid Tentacle Wand
+800080FD:Orb of the Bunny Booty
+80008169:Chilling Ebony Staff
+800081A6:Paradox-touched Olthoi Wand
+80008116:Tusker Paw Wand
+80008186:Salvage (100)
+80008185:Colosseum Backpack
+80008187:Small Olthoi Venom Sac
+80008194:Might of the Seventh Mule
+80008188:Ancient Mhoire Coin
+80008189:Iron Scarab
+8000818A:Pyreal Scarab
+8000818B:Silver Scarab
+8000818C:Gold Scarab
+8000818D:Lead Scarab
+8000818E:Mana Scarab
+8000818F:Diamond Scarab
+80008190:Copper Scarab
+80008191:Platinum Scarab
+80008193:Mana-Infused Jungle Flower
+80008195:Prismatic Taper
+80008196:Imbue Swap Coin
+800B075A:Corrupted Essence
+800B075B:Corrupted Essence
+8E4BD18C:Gauntlet Coin
+8BC9BEC4:Hero Token
+8FB8846C:Silver Pea
+8FBAA3A3:Major Mana Stone
+8FCCB95A:Radiant Blood Stronghold Portal Gem
+8000814D:Yellow Virindi Wand
+908AABF3:Ornate Gear Marker
+80008192:Ancient Diamond Idol
+C1E25B72:Casino Exquisite Keyring
+C68B6D22:Pyreal Mote
+C2510867:Mechanical Scarab
+800081EF:Focusing Stone
+800081F4:Soul Bound Staff
+C68BC2E8:Zefir's Crystal
+800081F5:Drudge Scrying Orb
+C6921DD6:Tainted Aetherium Oil
+
+Missing Exports - Possessed items that were not found:

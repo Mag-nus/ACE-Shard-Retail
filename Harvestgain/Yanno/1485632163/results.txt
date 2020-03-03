@@ -1,0 +1,27 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Random_Logs\pkt_2017-1-28_1485632156_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\Random_Logs\pkt_2017-1-27_1485566465_log.pcap
+
+Partial Exports - Missing appraisal info:
+C7EBE381:Round Shield
+C7EBE379:Pyreal
+C7EBE37A:Sack
+C7EBE37B:Ust
+C7EBE37D:Pathwarden Token
+C7EBE37F:Light Training Crossbow
+C7EBE380:Quarrel
+C7EBE382:Handy Healing Kit
+C7EBE383:Letter From Home
+C7EBE384:Core Plating Integrator
+C7EBE385:Core Plating Deintegrator
+C7EBE386:Bread
+
+Missing Exports - Possessed items that were not found:
+C81FFBBB
+C8200C86
+C81E94C1
+C8201E95
+C81CE058
+C7EBE37E

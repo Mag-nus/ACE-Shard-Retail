@@ -1,0 +1,51 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-22_1485136357_log.pcap
+
+Partial Exports - Missing appraisal info:
+809C0D3F:Foci of Artifice
+809EF006:Lead Pea
+80A1FDDD:Pack
+80A1FDE1:Pack
+80A1FDE2:Pack
+80A1FDE3:Copper Scarab
+80A1FDE4:Lead Scarab
+80A1FDE9:Silver Scarab
+80A1FDEA:Prismatic Taper
+80A1FDEB:Pack
+80A1FDEC:Wrapped Bundle of Arrowshafts
+80A1FDED:Ust
+80A1FDEF:Pathwarden Robe
+80A1FDF2:Pyreal
+80A1FDF4:Coalesced Mana
+80A1FDF5:Wrapped Bundle of Greater Arrowheads
+80A1FDF6:Faran Robe with Hood
+80A1FDF8:Adept Healing Kit
+80A1FDF9:Gifted Healing Kit
+80A1FDFA:Adept Healing Kit
+80A1FDFD:Sturdy Iron Key
+80A1FDFE:Carenzi Burrower Pelt
+80A1FDFF:Iron Pea
+80A1FE05:Salvaged  (33)
+80A1FE06:Salvaged  (18)
+80A1FE07:Salvaged  (2)
+80A1FE08:Salvaged  (4)
+80A1FE09:Salvaged  (3)
+80A1FE0A:Salvaged  (2)
+80A1FE0B:Salvaged  (8)
+80A1FE0C:Salvaged  (7)
+80A1FE0D:Salvaged  (2)
+AF251D99:Stipend
+80A1FE0E:Salvaged  (4)
+80A1FE0F:Salvaged  (3)
+80A1FE10:Salvaged  (2)
+80A1FE11:Salvaged  (6)
+80A1FE12:Salvaged  (4)
+80A1FE13:Salvaged  (2)
+80A1FE14:Salvaged  (2)
+80A1FE15:Salvaged  (2)
+80A1FE1A:Salvage
+80A1FE23:Whittling Knife
+80A1FE2E:Trade Note (250,000)
+80A1FE2F:Trade Note (150,000)
+
+Missing Exports - Possessed items that were not found:

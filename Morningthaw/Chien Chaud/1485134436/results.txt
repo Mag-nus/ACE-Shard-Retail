@@ -1,0 +1,120 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-22_1485134283_log.pcap
+
+Partial Exports - Missing appraisal info:
+8082035C:Foci of Artifice
+8082035D:Foci of Enchantment
+8082035E:Foci of Verdancy
+8082035F:Pack
+8082036B:Trade Note (250,000)
+C4C8D918:Sturdy Steel Key
+95C4C79C:Pyreal
+80820379:Ust
+810F8F5A:Black Marrow Keyring
+808203F5:Kireth Gown with Band
+80820373:Pack
+8082037B:Sturdy Iron Keyring
+8082037E:Sturdy Iron Keyring
+8082037F:Singularity Keyring
+80820380:Gem of Stillness
+80820383:Peerless Lockpick
+80820381:Suikan Life Master Robe
+80820387:Massive Mana Charge
+80820389:Massive Mana Charge
+8082037D:Sturdy Steel Keyring
+80820382:Intricate Carving Tool
+8082038C:Pack
+8082038E:Faran Creature Master Robe
+8082038F:Faran Item Master Robe
+80820390:Suikan War Master Robe
+80820391:Faran Life Master Robe
+80820392:Faran Creature Master Robe
+80820395:Heavy Bracelet
+80820397:Ring
+80820399:Heavy Bracelet
+8082039A:Heavy Bracelet
+8082039B:Massive Mana Charge
+8082039C:Ring
+8082039D:Titan Mana Charge
+8082039F:Massive Mana Charge
+808203A0:Massive Mana Charge
+808203A1:Massive Mana Charge
+808203A2:Titan Mana Charge
+808203A3:Massive Mana Charge
+808203A4:Massive Mana Charge
+80820388:Massive Mana Charge
+808203A5:Pack
+808203A6:Pyreal Scarab
+808203A7:Lead Scarab
+808203A8:Gold Scarab
+808203A9:Copper Scarab
+808203AA:Iron Scarab
+808203AB:Silver Scarab
+808203AD:Treated Healing Kit
+808203AE:Treated Healing Kit
+808203AF:Treated Healing Kit
+808203B0:Treated Healing Kit
+808203B1:Treated Healing Kit
+808203B2:Treated Healing Kit
+808203B3:Treated Healing Kit
+808203B4:Treated Healing Kit
+808203B5:Treated Healing Kit
+808203B6:Treated Healing Kit
+808203B7:Platinum Scarab
+808203B8:Treated Healing Kit
+808203B9:Prismatic Taper
+808203BA:Chorizite
+808203BB:Diamond Scarab
+808203BC:Gem of Stillness
+808203BD:Gem of Stillness
+808203CB:Shoushi Portal Gem
+C63D8CC5:Snow Lily
+808203D1:Chunk of Medium-Grade Chorizite
+808203D7:Small Bundle of Strand Siraluun Feathers
+B214FFFC:Major Mana Stone
+B221A342:Token of Modification
+B22A4C0C:Salvage (6)
+B22A4C0F:Salvage (11)
+C5C3C733:Directive Key
+B22A4C13:Salvage (12)
+B2259A96:Salvage (10)
+C5C3C6F3:Intricate Obsidian Key
+B2251B70:Salvage (10)
+B225A699:Salvage (10)
+C5DA1DC8:Blighted Mana Crystal
+810F8F55:Salvage (100)
+810F8F56:Salvage (100)
+C5DA3179:Ravener Guts
+810F8F54:Salvage (100)
+810F8F53:Salvage (100)
+C5DA317A:Scarlet Red Letter
+810F8F52:Salvage (100)
+810F8F51:Salvage (100)
+C5DA39FC:Ravener Guts
+C5C5632D:Salvage (11)
+C6017046:Scarlet Red Letter
+C5C07B41:Salvage (50)
+C6016E49:Scroll of Belly of Lead
+C5C18272:Salvage (34)
+C5C49AA4:Salvage (18)
+C6016BAB:Scarlet Red Letter
+C5C3C464:Pants
+C5DA2104:Salvage (65)
+C654B539:Upper Insatiable Eater Jaw
+C5D96ADD:Trade Note (250,000)
+C5DA32F5:Trade Note (10,000)
+C5DA334E:Trade Note (10,000)
+C5DA36FB:Salvage (10)
+C60171F0:Scroll of Cooking Ineptitude Other V
+C5DA3507:Salvage (10)
+C5DA3506:Salvage (37)
+C6428FFC:Iron Pea
+C5DA3505:Salvage (7)
+C5F57C42:Salvage (17)
+C654B538:Insatiable Eater Jaw
+C600013F:Salvage (29)
+C64FC701:Story of Lunnum's Pyre
+C2649291:Fiun Hatchet
+C65244C1:Gold Pea
+
+Missing Exports - Possessed items that were not found:

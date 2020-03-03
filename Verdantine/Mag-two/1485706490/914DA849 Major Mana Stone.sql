@@ -1,0 +1,43 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (2437785673, 27328, 37, 2150720) /* ManaStone */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (2437785673,   1,     524288) /* ItemType - ManaStone */
+     , (2437785673,   5,         50) /* EncumbranceVal */
+     , (2437785673,  16,     655368) /* ItemUseable - SourceContainedTargetSelfOrContained */
+     , (2437785673,  18,          1) /* UiEffects - Magical */
+     , (2437785673,  19,       7500) /* Value */
+     , (2437785673,  65,        101) /* Placement - Resting */
+     , (2437785673,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (2437785673,  94,      35103) /* TargetType - Jewelry, Creature, Gem, RedirectableItemEnchantmentTarget */
+     , (2437785673, 107,      14001) /* ItemCurMana */
+     , (2437785673, 151,          2) /* HookType - Wall */
+     , (2437785673, 9015,         25) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (2437785673,   1, False) /* Stuck */
+     , (2437785673,  11, True ) /* IgnoreCollisions */
+     , (2437785673,  13, True ) /* Ethereal */
+     , (2437785673,  14, True ) /* GravityStatus */
+     , (2437785673,  19, True ) /* Attackable */
+     , (2437785673,  22, True ) /* Inscribable */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (2437785673,  87,       3) /* ItemEfficiency */
+     , (2437785673, 137,    0.25) /* ManaStoneDestroyChance */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (2437785673,   1, 'Major Mana Stone') /* Name */
+     , (2437785673,  14, 'Use on a magic item to give the stone''s stored Mana to that item.') /* Use */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (2437785673,   1,   33555641) /* Setup */
+     , (2437785673,   8,  100676308) /* Icon */
+     , (2437785673, 8001,  271073432) /* PCAPRecordedWeenieHeader - Value, Usable, UiEffects, Container, TargetType, Burden, HookType */
+     , (2437785673, 8003,         18) /* PCAPRecordedObjectDesc - Inscribable, Attackable */
+     , (2437785673, 8005,     131073) /* PCAPRecordedPhysicsDesc - CSetup, AnimationFrame */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (2437785673,   1, 2369593552) /* Owner */
+     , (2437785673,   2, 2369593552) /* Container */
+     , (2437785673, 8000, 2437785673) /* PCAPRecordedObjectIID */;

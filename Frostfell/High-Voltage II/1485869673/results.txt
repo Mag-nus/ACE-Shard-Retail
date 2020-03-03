@@ -1,0 +1,144 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\High-Voltage_01-30-2017\pkt_2017-1-31_1485869666_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\High-Voltage-01-28-2017\pkt_2017-1-25_1485402922_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\High-Voltage-01-28-2017\pkt_2017-1-26_1485481327_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\High-Voltage-01-28-2017\pkt_2017-1-27_1485565845_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\High-Voltage-01-28-2017\pkt_2017-1-27_1485575564_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\High-Voltage-01-28-2017\pkt_2017-1-28_1485608590_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\High-Voltage-01-28-2017\pkt_2017-1-28_1485630270_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\High-Voltage-01-28-2017\pkt_2017-1-28_1485646445_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\High-Voltage-01-29-2017\pkt_2017-1-29_1485720369_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\High-Voltage-01-29-2017\pkt_2017-1-29_1485738001_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\High-Voltage-01-28-2017\pkt_2017-1-28_1485651330_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\High-Voltage-01-29-2017\pkt_2017-1-29_1485706502_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\High-Voltage-01-29-2017\pkt_2017-1-29_1485738150_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\High-Voltage_01-30-2017\pkt_2017-1-30_1485814559_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\High-Voltage_01-30-2017\pkt_2017-1-31_1485867624_log.pcap
+
+Partial Exports - Missing appraisal info:
+9F29A6D1:Tihn
+D2623E3E:Pyreal
+DCF1779F:Pyreal
+99E1B60F:Ust
+8228BE7E:Shoyanen's Portal Gem
+801CDE9D:Platinum Scarab
+801CDE9F:Gold Scarab
+801CDE99:Lead Scarab
+86974BE0:Diamond Scarab
+C477080A:Chorizite
+CD7E6A33:Prismatic Taper
+801CDE9A:Iron Scarab
+801CDE9E:Pyreal Scarab
+801CDE9B:Copper Scarab
+801CDE98:Silver Scarab
+DA5D26D2:Prismatic Taper
+DA8064B4:Prismatic Taper
+DA8064B1:Prismatic Taper
+DA83C42E:Mana Scarab
+DA84FDBE:Mana Scarab
+DA829A08:Mana Scarab
+DBB63953:Prismatic Taper
+BF945B66:Chorizite
+DCFBC64C:Prismatic Taper
+A5356C9C:Pack
+A526D332:Imaging Crystal
+A31C6778:Brewmaster's Bible
+A7096465:The Orphanage
+B588D3B6:Cave Door Key
+913A82B0:Carefully rolled scroll
+B6CB97B4:Coruscating Olthoi Scent Gland
+BA516A59:Sealed Scroll for Commander Presk
+96B1E2D9:Aetheria
+B100ED79:Aetheria
+8D895450:Aetheria
+D725FCF5:Encapsulated Spirit
+D9B72F7D:Spirit of Izexi Gem
+D90D8810:Encapsulated Spirit
+CE9C7145:Iron Golem Essence
+DD0631A6:Pyreal
+8C518402:Acid Compound Bow
+86E2C41D:Aetheria Mana Stone
+DC816D22:Enhanced Black Fire Atlan Stone
+DCF2430D:Egg
+D9C6185C:Staff
+DCFBC62F:Titan Mana Charge
+DCFBC63D:Titan Mana Charge
+DAEB84F9:Blunt Bow
+A86E5E67:Colosseum Backpack
+DCA91E2B:Elemental Talisman
+A91216D2:Carved Gemstone Lockpicks
+A31CF9A0:Asheron's Lesser Benediction
+801CDEA6:Blackmoor's Favor
+A905EA8D:Carved Gemstone Lockpicks
+A9176861:Carved Gemstone Lockpicks
+A917645D:Carved Gemstone Lockpicks
+ACC418C9:Invitation to Master Fletchers
+DCFBC630:Titan Mana Charge
+DCFBC635:Titan Mana Charge
+DCFBC63A:Titan Mana Charge
+CB5FBBA4:Colosseum Backpack
+DCFBC632:Titan Mana Charge
+DCFBC637:Titan Mana Charge
+DCFBC62E:Titan Mana Charge
+DCFBC63C:Titan Mana Charge
+DCFBC634:Titan Mana Charge
+DCFBC631:Titan Mana Charge
+DD04B276:Titan Mana Charge
+DD01598C:Titan Mana Charge
+DD04A720:Titan Mana Charge
+DD04B2C1:Titan Mana Charge
+DD04B1CF:Titan Mana Charge
+DD04B152:Titan Mana Charge
+DD063597:Titan Mana Charge
+CB60BA7C:Colosseum Backpack
+C74538BD:Blank Augmentation Gem
+B1D69AD2:Blank Augmentation Gem
+D0CF15A8:Blank Augmentation Gem
+D249CD40:Blank Augmentation Gem
+D33709C9:Blank Augmentation Gem
+D429621B:Blank Augmentation Gem
+CB80E648:Colosseum Backpack
+B8CDFD57:Gauntlet Coin
+80F770D8:Sake
+A5385242:Wah Chon's Winter Lager
+9347DC3D:Writ of Refuge
+9493BF1B:Viridian Essence
+933C539A:Intricate Carving Tool
+99FE3FA0:Sturdy Iron Key
+C3404EFD:Ancient Mhoire Coin
+C3E30AF1:Ornate Gear Marker
+B3ACBD29:Dire Champion Token
+C6EEE976:Ancient Falatacot Trinket
+C6EFCD6C:Ancient Empyrean Trinket
+CEFD585B:Small Olthoi Venom Sac
+D5343221:Colosseum Coin
+D61855A2:Promissory Note
+D62D24A2:A'nekshay Token
+D8034996:Trade Note (250,000)
+DBDC7241:Trade Note (250,000)
+D9CF3F5D:Durable Legendary Key
+DA1111BF:Trade Note (250,000)
+A86AC088:Colosseum Backpack
+DCE80AA0:Ulgrim's Contest Mug
+DCCAEDC0:Trade Note (250,000)
+DCE1A975:Amelia's Gargoyle Amulet
+DCF14C76:Evader's Crystal
+DCF27CAC:Hive Gem of Dispelling
+DD00A850:Letter from Uber P
+DD095AB5:Pet Mouf Igloo
+DD04B241:Pyreal
+DD08E93B:Pyreal
+DD04B2D8:Pyreal
+DD04B283:Pyreal
+DD04B2A8:Pyreal
+DD01591D:Gem
+DD0D38BA:Gold Shallows Shredder Fin
+DD0D94C2:Gold Moarsman Tooth
+DD04272E:Book of Xik Minru
+DD0CFFAF:Rose of Celdon
+DD1DADF4:Refined Chorizite Chunk
+DD2212A9:Ice Box
+
+Missing Exports - Possessed items that were not found:

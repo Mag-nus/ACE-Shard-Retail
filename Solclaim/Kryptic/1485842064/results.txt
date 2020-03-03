@@ -1,0 +1,136 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\pkt_2017-1-30_1485843220_desc\pkt_2017-1-30_1485841941_log.pcap
+
+Partial Exports - Missing appraisal info:
+9BE0C805:Pack
+9BE0C7EB:Mana Draught
+9BE0C85B:Mana Potion
+9BE0C93C:Stamina Potion
+9BE0C844:Gifted Healing Kit
+9BE0C832:Excellent Healing Kit
+9BE0C80E:Excellent Healing Kit
+9BE0C7F3:Gifted Healing Kit
+9BE0C83A:Gifted Healing Kit
+9BE0C818:Arrow
+9BE0C7FB:Arrow
+9BE0C847:Arrow
+9BE0C827:Blunt Arrow
+9BE0C852:Pack
+9BE0C804:Bracelet
+9BE0C85A:Ring
+9BE0C843:Necklace
+9BE0C831:Ring
+9BE0C80D:Yumi
+9BE0C839:Tunic
+9BE0C851:Aura of Swift Killer Self III
+9BE0C817:Bracelet
+9BDD1AE3:Katar
+9BE0C826:Orb
+9BE0BCA6:Amulet
+9BE0C859:Shirt
+9BE0C864:Pack
+9BE0C80C:Wand
+9BE0C842:Trade Note (10,000)
+9BE0C830:Trade Note (5,000)
+9BE0C838:Trade Note (5,000)
+9BE0C816:Trade Note (10,000)
+9BDD193D:Trade Note (1,000)
+9BE0C825:Trade Note (5,000)
+9BE0C870:Trade Note (100)
+9BE0C868:Trade Note (100)
+9BE0C850:Trade Note (500)
+9BE0C858:Trade Note (100)
+9BE0C863:Trade Note (1,000)
+9BE0C841:Trade Note (100)
+9BE0C82F:Pack
+9BE0C815:Ashwood Talisman
+9BE0C837:Poplar Talisman
+9BDD1AE2:Elder Talisman
+9BE0C824:Rowan Talisman
+9BE0C878:Willow Talisman
+9BE0C867:Yew Talisman
+9BE0C84F:Oak Talisman
+9BE0C86F:Hemlock Talisman
+9BE0C857:Alder Talisman
+9BE0C82E:Ebony Talisman
+9BE0C862:Cedar Talisman
+9BE0C840:Hazel Talisman
+9BE0C823:Blue Taper
+9BE0C836:Red Taper
+9BDD1AED:Yellow Taper
+9BE0C84E:Ring
+9BE0C877:Necklace
+9BE0C86E:Heavy Bracelet
+9BE0C866:Bracelet
+9BE0C856:Gorget
+9BE08FF7:Orb
+9BE08FF8:Pack
+9BE08FF6:Wormwood
+9BE0C861:Hawthorn
+9BE0C84D:Lead Scarab
+9BE0C83F:Mandrake
+9BDD1AF2:Saffron
+9BE0C855:Iron Scarab
+9BE0C886:Ginseng
+9BE0C876:Hyssop
+9BE0C88F:Copper Scarab
+9BE0C865:Mugwort
+9BE0C86D:Damiana
+9BE0C860:Pack
+9BE0C885:Powdered Bloodstone
+9BE0C84C:Vitriol
+9BE0C230:Pyreal
+9BE0C875:Stibnite
+9BE0C86C:Realgar
+88FE76C2:Cobalt
+9BE0C854:Powdered Malachite
+9BE0C89E:Turpeth
+9BE0C22B:Copper Scarab
+9BE0C896:Gypsum
+9BE0C88E:Powdered Azurite
+9BE0C86B:Cadmia
+9BE0C85F:Brimstone
+9BE0C884:Verdigris
+9BE0C85D:Pack
+9BE0C874:Quicksilver
+9BDD1859:Cinnabar
+9BE0C98C:Mace
+9BE0C89D:Colcothar
+9BE0C895:Powdered Turquoise
+9BE0C893:Jo
+9BE0C88D:Powdered Onyx
+9BE0C85E:Powdered Amber
+9BE0C89C:Trade Note (100)
+9BE0C883:Powdered Carnelian
+9BE0C873:Powdered Moonstone
+9BE0C86A:Powdered Hematite
+9BDA9626:Powdered Quartz
+9BE0C881:Arrow
+9BE0C894:Trade Note (1,000)
+9BE0C88C:Trade Note (1,000)
+9BE0C8AE:Trade Note (100)
+9BE0C882:Trade Note (5,000)
+8900DA1C:Trade Note (1,000)
+9BE0C8B6:Trade Note (1,000)
+9BE0C872:Trade Note (1,000)
+9BE0C869:Trade Note (1,000)
+9BE0C228:Trade Note (1,000)
+9BE0C229:Trade Note (500)
+9BE0C22A:Trade Note (500)
+9BE0C22E:Platemail Leggings
+9BE0C22C:Steel Toed Boots
+9BE0C22D:Mattekar Hide Coat
+9BE0C22F:Kabuton
+9BE0C227:Round Shield
+9BE0C89B:Short Sword
+9BE0C88B:Frost Kaskara
+9BE0C8BE:Amulet
+9BE0C8AD:Tunic
+9BE0C871:Shouyumi
+9BE0C8C9:Pack Grievver
+9BE0C8B5:Yumi
+9BE0C89A:Pack Gaerlan
+9BE0C88A:Some Changes for February 2012
+9BE0C8BF:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

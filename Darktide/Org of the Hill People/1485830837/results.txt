@@ -1,0 +1,127 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\Asherons-Call-20170203024646\pkt_2017-1-30_1485830822_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-02-2017\Asherons-Call-20170203024646\pkt_2017-1-21_1485046110_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\Asherons-Call-20170203024646\pkt_2017-1-22_1485118788_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\Asherons-Call-20170203024646\pkt_2017-1-22_1485135752_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\Asherons-Call-20170203024646\pkt_2017-1-23_1485227829_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\Asherons-Call-20170203024646\pkt_2017-1-24_1485309834_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\Asherons-Call-20170203024646\pkt_2017-1-27_1485568501_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\Asherons-Call-20170203024646\pkt_2017-1-28_1485612211_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\Asherons-Call-20170203024646\pkt_2017-1-29_1485711907_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\Asherons-Call-20170203024646\pkt_2017-1-29_1485725323_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\Asherons-Call-20170203024646\pkt_2017-1-29_1485737389_log.pcap
+
+Partial Exports - Missing appraisal info:
+D7ADDCE4:Shirt
+D809F7B5:Minor Mana Stone
+D7ADDCE8:Sack
+D7FA4107:Ring
+D7FA4059:Greataxe
+D7FF4C9C:Ring
+D7FA400B:Studded Leather Girth
+D7FF49DD:Gem
+D7FA404F:Bowl
+D7EB023C:Bracelet
+D7FEF4C5:Gem
+D7F61B92:Mana Draught
+D7F61B70:Gem
+D7F61C8F:Goblet
+D809F7F0:Lead Pea
+D809F84B:Wand
+D8121AD8:Lesser Mana Stone
+D80A9829:Mug
+D7E3CC66:Gem
+D84A9A1B:Chainmail Bracers
+D84A9A1A:Fire Moar Essence (50)
+D84A9A1C:Flaming Quarter Staff
+D809F6AB:Pyreal
+D84A9A2E:Adept Healing Kit
+D84A9A2B:Gem
+D84A9A2D:Frost Dagger
+D7ADDCEF:Viamont Toast
+D7E68CBA:Blackmoor's Favor
+D7E68F19:Oil of Rendering
+D7EC7D03:Pathwarden Supply Key
+D7E3B966:Reliable Lockpick
+D7E4C6FB:Scroll of Arcane Enlightenment Self II
+D7FACBFB:Minor Mana Stone
+D7FACD74:Health Draught
+D801CDB1:Studded Leather Breastplate
+D7FE95B8:Fire K'nath Essence (50)
+D7F89536:Some Changes for February 2012
+D7FD7314:Stamina Elixir
+D801CFD9:Facility Hub Portal Gem
+D801D0B3:Scroll of Rejuvenate Self II
+D801D10F:Aura of Blood Drinker Self II
+D7FA22EE:Scroll of Acid Bane II
+D7FA395B:Gem
+D7FA3B07:Salvage (2)
+D7D927C2:Bracelet
+D7FA4131:Puzzle Box
+D7FA4133:Scroll of Strength Other II
+D7FA4138:Lightning K'nath Essence (50)
+D7FA410E:Handy Healing Kit
+D7FA4111:Scroll of Healing Mastery Self II
+D7FA4225:Little Green Seeds
+D7EE3EAF:Necklace
+D7F622ED:Salvage (6)
+D7F62323:Salvage (1)
+D80128DC:Gem
+D7F62112:Salvage (4)
+D7C79E26:Salvage (4)
+D80128DD:Gem
+D7F62A57:Salvage (2)
+D7F630B8:Salvage (2)
+D80128D6:Plain Lockpick
+D7F6315D:Salvage (2)
+D7F63214:Salvage (1)
+D80276E0:Gem
+D7F630CC:Salvage (4)
+D7F631A8:Salvage (1)
+D80276F0:Lesser Mana Stone
+D7F63110:Salvage (1)
+D7F6324E:Salvage (1)
+D7FA4137:Ring
+D7F6321A:Salvage (1)
+D7F63151:Salvage (2)
+D80276ED:Gem
+D80128E0:Crown
+D7FA4136:Loose Shirt
+D80AE569:Key
+D80276EE:Flagon
+D801EE7C:Scroll of Enfeeble Other III
+D80DF087:Studded Leather Tassets
+D80C5B79:Salvage (10)
+D848A258:Key
+D80DFD9B:Salvage (2)
+D80B2E2C:Salvage (4)
+D846FB5F:Scroll of Force Bolt II
+D80C610A:Salvage (11)
+D80C6232:Salvage (8)
+D84A9945:Mana Potion
+D80F174E:Coalesced Mana
+D824F2D2:Trade Note (250,000)
+D8617189:Key
+D84A603C:Flaming Bastone
+D848A900:Dinner Plate
+D861D287:Handy Healing Kit
+D846FB32:Atlatl
+D84A9943:Scroll of Item Enchantment Mastery Other III
+D84A993D:Yumi
+D84A9948:Atlatl
+D864F9BC:Minor Mana Stone
+D84A9947:Chevron Cloak
+D86A3C99:A Small Mnemosyne
+D84A9942:Round Shield
+D84DF379:Frost Hammer
+D84A99D2:Tofun
+D84A99D1:Royal Atlatl
+D84A9A11:Rapier
+D84A9A13:Acid Poniard
+D84A9A0A:Lightning Claw
+D81223B4:Ice Tachi
+D801CDA5:Large Kite Shield
+
+Missing Exports - Possessed items that were not found:

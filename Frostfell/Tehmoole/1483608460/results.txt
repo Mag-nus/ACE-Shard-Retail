@@ -1,0 +1,155 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Tiderius-playthrough-early-level-pcap-2017-01\pkt_2017-1-5_1483604912_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\Tiderius-playthrough-early-level-pcap-2017-01\pkt_2017-1-2_1483413880_log.pcap
+
+Partial Exports - Missing appraisal info:
+DAA92848:Doublet
+DAA91FBB:Pyreal
+DAA91FBA:Scroll of Saladur's Blessing
+DAA928F5:Salvaged  (28)
+DAA928DA:Salvaged  (54)
+DAA928BE:Dirk
+DAA92877:Salvaged  (90)
+DAA19D0E:Salvaged  (15)
+DAA92387:Ust
+DAA920BB:Salvaged  (38)
+DAA920CB:Bracelet
+CBE10C1D:Qafiya
+DAA920D0:Orb
+DA8AF20C:Chainmail Breastplate
+DAA9261C:Hardened Shard
+CBF85890:Fire Compound Crossbow
+DAA928B3:Chainmail Girth
+DAAB75B6:Studded Leather Gauntlets
+CB9A0801:Signet Crown
+DAA92631:Banished Spear
+DAA92389:Pathwarden Token
+DAA914F7:Blackmoor's Favor
+DAA91F7A:Oil of Rendering
+DAA9226D:Blunt Bow
+DAA91399:Platemail Gauntlets
+DAA92595:Plentiful Healing Kit
+DAA92588:Royal Runed War Bow
+DAA92393:Princely Runed War Bow
+DAA9239D:Chef's Crystal
+DAA92596:Elysa's Crystal
+DAA92021:Frost Dirk
+DAA92022:Slashing Bow
+DAA9201E:Tusker Spit
+DAA9201C:Hennacin Plant
+DAA9290F:Peculiar Old Dagger
+DAA9227B:Peculiar Old Dagger
+DAA92234:Peculiar Old Dagger
+819C4AC0:Peculiar Old Dagger
+DAA925B1:Peculiar Old Dagger
+DAA925B7:Peculiar Old Dagger
+DAA1AAC9:Insidious Monouga Idol
+DAA92617:Insidious Monouga Idol
+DAA920E8:Enchanter's Crystal
+DAA1A2AF:Naginata
+819C91E3:Celdon Sleeves
+DAA92629:Cestus
+DAA1B801:Ravener Guts
+DAA92615:Ring
+DAA9263A:Minalim Plant
+DAA928B1:Ravener Guts
+DAA92220:Blue Jewel
+DAA92911:Dirk
+DAA9292B:Covenant Shield
+DA827741:Ring
+DAA9260B:Celdon Sleeves
+DAA92123:Lugian Hammer
+DAA9260D:Weeping Bow
+DAA9260E:Acid Dirk
+DAA9252D:Heavy Necklace
+DAA92910:Cowl
+DAA9254F:Lightning War Hammer
+DAA92544:Tunic
+DAA92585:Blunt Sceptre
+DAA925F7:Scroll of Lightning Bolt VI
+DAA9235E:Decanter of Essence
+DAA92583:Shoes
+DAA1AB38:Treated Healing Kit
+DAA926A6:Slippers
+DAA1AACE:Ring
+DAA92928:Gorget
+DAA928F6:Ring
+DAA924C4:Red Monster Seed
+DAA92557:Broad Sword
+DAA92553:Pants
+DAA9288A:Decanter of Essence
+DAA9288C:Wrapped Bundle of Deadly Frog Crotch Arrowheads
+DAA92899:Necklace
+DAA926B4:Gorget
+DAA91498:Crown
+DAA929AF:Gloves
+DAA9290C:Frost Crossbow
+DAA926D3:Diadem
+DAA92512:Kasa
+DAA92514:Studded Leather Sleeves
+DAA92515:Wrapped Bundle of Deadly Fire Arrowheads
+DAA92513:Studded Leather Bracers
+DAA9231B:Amulet
+DAA929BD:Salvaged  (49)
+DAA92967:Piercing Bow
+DAA92503:Loafers
+DAA92A23:Yoroi Girth
+DAA9250A:Nariyid Girth
+DAA923FF:Frost Spear
+DAA923A2:Converter's Crystal
+DAA925B5:Salvaged  (35)
+DAA92729:Lorica Breastplate
+DAA92A0B:Breeches
+DAA92A4F:Treated Healing Kit
+DAA92A0C:Pack
+DAA92654:Pack
+DAA92A0D:Salvaged  (98)
+DAA92A0E:Gem of Stillness
+DA0D8F01:Treated Healing Kit
+DAA92657:Treated Healing Kit
+DAA92981:Treated Healing Kit
+DAA92A55:Treated Healing Kit
+DAA92A54:Pauldrons
+DAA92A4D:Chiran Coat
+DAA92703:Scroll of Storm's Blessing
+DAA92794:Lapyan Plant
+DAA19D8B:Scroll of Inner Calm
+DAA92A58:Scroll of Tusker's Bane
+DAA92656:Aura of Atlan's Alacrity
+DAA92A5B:Electric Sceptre
+DAA5D765:Gem of Stillness
+DAA1ACA0:Archer's Jewel
+DAA9278A:Fletcher's Crystal
+DAA1AC9E:Studded Leather Bracers
+DAA9278C:Leather Pauldrons
+DAA9278F:Gloves
+DAA9278B:Studded  Tassets
+DAA92A60:Starter Knife
+DAA92A2A:Gem of Damage Modification
+DAA92A66:Colban Plant
+DAA92A31:Aluvian Gem of Worth
+DAA92A30:Piercing Baton
+DAA92828:Slashing Sceptre
+DAA5CA1B:Marshmallow Ghost
+DAA92784:Salvaged  (88)
+DAA1A9BB:Flaming Claw
+DAA92719:Some Changes for February 2012
+DAA922FF:Celdon Sleeves
+DAA927CB:Ring
+DAA92701:Flaming War Axe
+DAA927C0:Faran Robe
+DAA92A35:Acid Mazule
+DAA92A7A:Blunt Slingshot
+DAA92A2B:Amuli Leggings
+DAA9253C:Chiran Sandals
+DA96E781:Frost Baton
+DAA927D7:Chainmail Pauldrons
+DAA1AA56:Blunt Sceptre
+DAA92119:Piercing Sceptre
+DAA920F7:Fire Baton
+DAA1AD8C:Celdon Breastplate
+DAA9257C:Pants
+
+Missing Exports - Possessed items that were not found:

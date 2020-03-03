@@ -1,0 +1,138 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-29_1485678031_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-29_1485678566_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-29_1485719312_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-29_1485734311_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-29_1485736141_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-29_1485739655_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-30_1485814378_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-30_1485820789_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-30_1485839246_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-30_1485839246_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-31_1485856541_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-21_1485055586_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-22_1485128422_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-24_1485315114_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-24_1485317153_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-22_1485131824_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-28_1485657420_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-27_1485574174_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-28_1485640675_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-28_1485652702_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-28_1485660268_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-28_1485676325_log.pcap
+
+Partial Exports - Missing appraisal info:
+8D321A5B:Scroll of War Magic Mastery Self V
+8D321A66:Peerless Healing Kit
+8D321A69:Aura of Elysa's Sight
+8D321A6A:Treated Healing Kit
+8D321A71:Ash Gromnie Tooth
+8D321A72:Ash Gromnie Tooth
+8D321A75:Stone Tool
+8D321A7D:Etheric Seal
+8D321A7A:Muddy Towel
+8D321A7C:Trade Note (250,000)
+8D321A7E:Trade Note (100,000)
+8D321A8F:Fenmalain Key
+8D321A85:Ash Gromnie Tooth
+8D321A86:Ash Gromnie Tooth
+8D321A87:Ash Gromnie Tooth
+8D321A88:Ash Gromnie Tooth
+8D321A89:Ash Gromnie Tooth
+8D321A8A:Ash Gromnie Tooth
+8D321A8D:Scroll of Summon Primary Portal I
+8D321A90:Caulnalain Key
+8D321A91:Muddy Towel
+8D321A93:Crystal Nodule
+8D321A94:Gaerlan's Diary
+8D321A96:Parchment
+8D321A99:Scroll of Mana to Health Self VI
+8D321A9C:Treated Healing Kit
+8D321A9D:Treated Healing Kit
+8D321A9F:Scroll of Nullify Creature Magic Other
+8D321AA2:Scroll of Quickness Other V
+8D321AA7:Black Rock
+8D321AAB:Unarmed Snowman
+8D321AAD:Hea Totem
+8D321AB2:Skeleton's Skull
+8D321AB3:Skeleton's Skull
+8D321AB5:Shendolain Key
+8D321AB7:Fenmalain Key
+8D321AB8:High Mana Charge
+8D321ABB:Scroll of Vulnerability VI
+8D321ABC:Scroll of Arcanum Salvaging VI
+8D321ABD:Scroll of Coordination Self VI
+8D321ABE:Scroll of Mana Ineptitude Other VI
+8D321AC0:Ash Gromnie Tooth
+8D321AC1:Ash Gromnie Tooth
+8D321AC2:Ash Gromnie Tooth
+8D321AC3:Ash Gromnie Tooth
+8D321AC4:Treated Healing Kit
+BA1BC175:Great Mana Charge
+8D321ACB:Great Mana Charge
+8D321ACE:Pack Burun Kukuur
+8D321ACF:Tusker Spit Ale
+8D321AD0:Bobo's Stout
+8D321AD1:Amber Ape
+8D321AD3:Green Taper
+8D321AD4:Foci of Artifice
+8D321AD5:Silver Scarab
+8D321AD6:Lead Scarab
+8D321AD7:Iron Scarab
+8D321AD8:Copper Scarab
+8D321AD9:Silver Scarab
+8D321ADB:Stone Tool
+8D321ADE:Trade Note (150,000)
+8D321AE1:Hyssop
+8D321AE2:High Mana Charge
+8D321AE3:The Temple of Forgetfulness
+8D321AE4:A Note From Ciandra
+8D321AE5:Gem of Lowering Quickness
+8D321AE6:The Temple of Enlightenment
+8D321AE7:A Note From Ciandra
+8D321AEA:Treated Healing Kit
+8D321AEC:Excellent Healing Kit
+8D321AEE:Red Monster Seed
+8D321AF0:Stamina Elixir
+8D321AF1:Gifted Healing Kit
+8D321AF4:Pyreal Mote
+8D321AF9:Great Mana Charge
+8D321AFA:Iron Pea
+8D321B07:Scroll of Tusker's Bane
+8D321B0D:Excellent Healing Kit
+8D321B09:Copper Pea
+8D321B0E:Excellent Healing Kit
+8D321B0F:Gifted Healing Kit
+8D321B10:Excellent Healing Kit
+8D321B12:The Temple of Forgetfulness
+8D321B13:The Temple of Enlightenment
+8D321B14:Treated Healing Kit
+8D321B15:Treated Healing Kit
+8D321B16:Treated Healing Kit
+8D321B17:Treated Healing Kit
+8D321B18:Treated Healing Kit
+8D321B19:Treated Healing Kit
+8D321B1C:Prismatic Taper
+8D321B30:Great Mana Charge
+8D321B1D:Ash Gromnie Tooth
+8D321B1F:Treated Healing Kit
+8D321B20:Quest Weapon Coin
+8D321B25:Gem of Lowering Quickness
+8D321B27:Gem of Lowering Quickness
+8D321B28:Trade Note (75,000)
+8D321B29:Olthoi Ichor
+8D321B2C:Diamond Heart
+8D321B2D:Blue Shadow Dye
+8D321B36:Some Changes for February 2012
+8D321B39:Writ of Apology
+8D321B38:Fire Skeleton Minion Essence (50)
+8D321B3A:Scrawled Note
+8D321B3B:Salvage (6)
+8D321B4B:Excellent Healing Kit
+AD7F6074:Agent of Arcanum List
+C56C0783:Agent of Arcanum List
+
+Missing Exports - Possessed items that were not found:

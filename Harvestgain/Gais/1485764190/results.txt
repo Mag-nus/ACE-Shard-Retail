@@ -1,0 +1,72 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485764183_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps-20170203071513\pkt_2017-1-25_1485363128_log.pcap
+
+Partial Exports - Missing appraisal info:
+801A5773:Sack
+801A5774:Prismatic Taper
+801A5775:Lead Scarab
+801A5776:Ust
+801A5777:Iron Scarab
+801A5778:Pyreal Scarab
+801A5779:Diamond Scarab
+801A577A:Facility Hub Portal Gem
+801A577B:Asheron's Benediction
+801A577C:Blackmoor's Favor
+801A577D:Aphus Lassel Portal Gem
+801A577E:Platinum Scarab
+801A577F:A'nekshay Token
+801A5780:Small Olthoi Venom Sac
+801A5781:Splitting Tool
+801A5782:Copper Scarab
+801A5783:Gem of Stillness
+801A5785:Gold Scarab
+801A5784:Gem of Purity
+801A5786:Silver Scarab
+801A5787:Shoyanen's Portal Gem
+8ED42A5D:Town Network Portal Gem
+801A5788:Foci of Enchantment
+801A5789:Foci of Artifice
+801A578A:Pack
+801A578D:Wrapped Bundle of Deadly Fire Arrowheads
+801A578E:Wrapped Bundle of Arrowshafts
+AF9D4D8E:Invitation to Master Fletchers
+AF9B5755:Wrapped Bundle of Greater Deadly Blunt Arrowheads
+AF9B4634:Wrapped Bundle of Greater Deadly Frog Crotch Arrowheads
+801A578F:Pack
+801A579E:Greater Mana Stone
+801AAB91:Coronet
+801AAB93:Coronet
+801AAB8D:Crown
+801AAB8B:Circlet
+801AAB8C:Diadem
+801AAB92:Crown
+801AAB8E:Teardrop Crown
+801AAB9A:Turban
+801AAB9F:Signet Crown
+801AAB9E:Crown
+801AAB96:Diadem
+801AAB95:Teardrop Crown
+801AAB90:Signet Crown
+801A5794:Pack
+801AABA0:Crown
+801AAB94:Cloth Gloves
+801A579F:Moderate Mana Stone
+8DB9F277:Faran Over-robe
+801A5795:Foci of Verdancy
+AF9C147A:Moderate Mana Stone
+B1B978B7:Blank Augmentation Gem
+801A57A1:Deadly Fire Arrow
+801A57A6:Fletcher's Crystal
+91667337:Deadly Frost Arrow
+B35B0639:Artist's Crystal
+C62E117F:Blank Augmentation Gem
+B6E7D6D9:Lightning Shashqa
+B6E1CC88:Deadly Lightning Arrow
+AF9F1DCE:Greater Deadly Blunt Arrow
+88CA1D98:Slashing Compound Bow
+B6EA2DBB:Shield of Yanshi
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,179 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485323961_log\pkt_2017-1-24_1485323961_log.pcap
+
+Partial Exports - Missing appraisal info:
+C09A6C3F:Ust
+C09A6C39:Treated Healing Kit
+C09A6C38:Pack
+C09A6C3A:Lead Scarab
+C09A6C3B:Prismatic Taper
+C09A6C3C:Polar Ursuin Lair
+C09A6C3D:Pack T'thuun
+C09A6C3E:Copper Scarab
+C09A6C40:Training Cestus
+C09A6C41:Major Mana Stone
+C09A6C42:Great Mana Charge
+C09A6C43:Treated Healing Kit
+C09A6C96:Elaborate Field Rations
+C0B543DB:Aphus Lassel Portal Gem
+C09A6C47:Pack
+C09A6C48:Trade Note (50,000)
+C09A6C49:Trade Note (250,000)
+C09A6CFB:Some Changes for February 2012
+C09A6C4A:Pack
+C09A6C4B:Salvaged  (100)
+C09A6C4C:Salvaged  (100)
+C09A6C4D:Salvaged  (100)
+C09A6C87:Pyreal
+C09A6C4E:Salvaged  (100)
+C09A6C4F:Salvaged  (100)
+C09A6C88:Pyreal
+C09A6C50:Salvaged  (100)
+C09A6C51:Salvaged  (100)
+C09A6C89:Pyreal
+C09A6C52:Salvaged  (100)
+C09A6C53:Salvaged  (100)
+C09A6C8A:Pyreal
+C09A6C54:Salvaged  (100)
+C09A6C55:Salvaged  (100)
+C09A6C8B:Pyreal
+C09A6C56:Salvaged  (100)
+C09A6C57:Salvaged  (100)
+C09A6C8C:Pyreal
+C09A6C58:Salvaged  (100)
+C09A6C59:Salvaged  (100)
+C09A6C8D:Pyreal
+C09A6C5A:Salvaged  (100)
+C09A6C5B:Salvaged  (100)
+C09A6C8E:Pyreal
+C09A6C5C:Salvaged  (100)
+C09A6C5D:Salvaged  (100)
+C09A6C8F:Pyreal
+C09A6C5E:Salvaged  (100)
+C09A6C5F:Salvaged  (100)
+C74C6281:Massive Mana Charge
+C09A6C60:Salvaged  (100)
+C09A6C61:Salvaged  (100)
+C09A6C62:Salvaged  (100)
+C09A6C63:Pack
+C09A6C6D:Pack
+C09A6C83:Salvaged  (100)
+C09A6C70:Salvaged  (100)
+C09A6C73:Salvaged  (100)
+C09A6C6F:Salvaged  (100)
+C798BA3F:Salvage (100)
+C7A3E2A9:Salvage (100)
+C09A6C86:Pack
+C7A46070:Salvage (100)
+C7A3EA4D:Salvage (100)
+C7A81047:Salvage (100)
+C7991BAE:Salvage (100)
+C7B7D608:Salvage (100)
+C7992912:Salvage (100)
+C7B7F8D1:Salvage (100)
+C7AF1BCB:Salvage (100)
+C7B7DE1D:Salvage (100)
+C7AEBC8F:Salvage (100)
+C7ABB19D:Salvage (100)
+C09A6C6E:Salvaged  (100)
+C09A6C74:Salvaged  (100)
+C09A6C76:Salvaged  (100)
+C09A6C77:Salvaged  (100)
+C09A6C7B:Salvaged  (100)
+C09A6C7C:Salvaged  (100)
+C09A6C7D:Salvaged  (100)
+C09A6C7E:Salvaged  (100)
+C09A6C82:Salvaged  (100)
+C09A6C85:Salvaged  (100)
+C6F03BFF:Salvage (100)
+C6E4BF6D:Salvage (100)
+C09A6C6A:Salvaged  (100)
+C09A6C69:Salvaged  (100)
+C718B0F6:Salvage (100)
+C71E4FF8:Salvage (100)
+C09A6C9D:Salvaged  (100)
+C09A6CA4:Salvaged  (100)
+C09A6CA5:Salvaged  (100)
+C09A6CA6:Salvaged  (100)
+C09A6CA7:Salvaged  (100)
+C09A6CA8:Salvaged  (100)
+C09A6CA9:Salvaged  (100)
+C09A6CAA:Salvaged  (100)
+C09A6CAB:Salvaged  (100)
+C09A6CAC:Salvaged  (100)
+C09A6CAD:Salvaged  (100)
+C09A6CAE:Salvaged  (100)
+C09A6CB6:Salvaged  (100)
+C09A6CB7:Salvaged  (100)
+C09A6CB8:Salvaged  (100)
+C09A6CB9:Salvaged  (100)
+C09A6CBB:Salvaged  (100)
+C09A6CBC:Salvaged  (100)
+C09A6CBD:Salvaged  (100)
+C09A6CBE:Salvaged  (100)
+C09A6CBF:Salvaged  (100)
+C09A6CC0:Salvaged  (100)
+C09A6CC1:Salvaged  (100)
+C09A6CC2:Salvaged  (100)
+C09A6CC3:Salvaged  (100)
+C09A6CC4:Salvaged  (100)
+C09A6CC5:Salvaged  (100)
+C09A6CC6:Salvaged  (100)
+C09A6CC7:Salvaged  (100)
+C09A6CC8:Salvaged  (100)
+C09A6CC9:Salvaged  (100)
+C09A6CCA:Salvaged  (100)
+C09A6CCB:Salvaged  (100)
+C09A6CCC:Salvaged  (100)
+C09A6CCD:Salvaged  (100)
+C09A6CCE:Salvaged  (100)
+C09A6CCF:Salvaged  (100)
+C09A6CD0:Salvaged  (100)
+C09A6CD1:Salvaged  (100)
+C09A6CD2:Salvaged  (100)
+C09A6CD3:Salvaged  (100)
+C09A6CD4:Salvaged  (100)
+C09A6CD5:Salvaged  (100)
+C09A6CD9:Salvaged  (100)
+C09A6CDA:Salvaged  (100)
+C09A6CDB:Salvaged  (100)
+C09A6CDD:Salvaged  (100)
+C09A6CDF:Salvaged  (100)
+C09A6FD8:Salvaged  (100)
+C09A6FDC:Salvaged  (100)
+C09A6FFB:Salvaged  (100)
+C09A7004:Salvaged  (100)
+C6C28071:Salvage (100)
+C667FBA8:Salvage (100)
+C09A6FC5:Salvaged  (100)
+C09A6FCC:Salvaged  (100)
+C09A6FD4:Salvaged  (100)
+C09A6FEE:Salvaged  (100)
+C09A6FEC:Salvaged  (100)
+C09A6FED:Salvaged  (100)
+C6DAB962:Salvage (100)
+C09A6FBE:Salvaged  (100)
+C09A6FAF:Salvaged  (100)
+C09A6FB2:Salvaged  (100)
+C09A6FB0:Salvaged  (100)
+C09A6FB3:Salvaged  (100)
+C09A6FB9:Salvaged  (100)
+C09A6FC1:Salvaged  (100)
+C09A6FC0:Salvaged  (100)
+C09A6FBF:Salvaged  (100)
+C09A6FE1:Salvaged  (100)
+C7217FC3:Salvage (100)
+C7235BB5:Salvage (100)
+C7437104:Salvage (100)
+C72D2636:Salvage (100)
+C78C1974:Imbue Swap Coin
+C787E93A:Salvage (100)
+C787E452:Salvage (100)
+C7C83A14:Salvage (100)
+C7BEB644:Salvage (100)
+C7D1E9A1:Salvage (100)
+C7D4BC25:Salvage (100)
+C7D963ED:Salvage (100)
+C7CC2AE9:Salvage (100)
+
+Missing Exports - Possessed items that were not found:

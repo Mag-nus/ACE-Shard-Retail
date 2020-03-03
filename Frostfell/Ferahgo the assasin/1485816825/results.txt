@@ -1,0 +1,297 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ferahgo-Knath-Lair-Undead-Temple-Ishilai-Lyceum-1-30-2017\Ferahgo Knath Lair Undead Temple Ishilai Lyceum 1.30.2017\pkt_2017-1-30_1485816811_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ferahgo-Cooking-1-31-2017\Ferahgo Cooking 1-31-2017\pkt_2017-1-30_1485821946_log.pcap
+
+Partial Exports - Missing appraisal info:
+807DAB4A:Ust
+807DAB4B:Banderling Antagonist Backpack
+807DAB4C:Silver Scarab
+807DAB4D:Copper Scarab
+807DAB4E:Diamond Scarab
+807DAB4F:Platinum Scarab
+807DAB50:Prismatic Taper
+807DAB51:Pet Penguin Igloo
+807DAB52:Inactive Lockpicker's Golem
+807DAB53:Gold Scarab
+807DAB54:Heart of the Innocent
+807DAB55:Chorizite
+807DAB56:Treated Mandrake
+807DAB57:Treated Hyssop
+807DAB60:Mana Scarab
+807DAB58:Invoking Stone
+807DAB59:Invoking Stone
+807DAB5D:Aphus Lassel Portal Gem
+807DAB5A:Gem of Stillness
+807DAB5C:Soft Bandages
+807DAB6D:Colosseum Coin
+807DAB62:Pyreal Scarab
+DA540A29:Lesser Corrupted Essence
+DCF4D58D:Black Fire Atlan Stone
+807DAB64:Banderling Antagonist Backpack
+807DAB65:Lyceum Recall Gem
+807DAB66:Ring of the Whispering Blade
+807DAB68:Ancient Mhoire Coin
+807DAB6C:Small Olthoi Venom Sac
+807DAB6F:Radiant Blood Trade Token
+807DAB6E:Ancient Mhoire Coin
+807DAB70:Elemental Talisman
+807DAB72:Trade Note (100,000)
+807DAB73:A'nekshay Token
+807DAB75:Stipend
+807DAB76:Imbue Swap Coin
+807DAB79:Trade Note (50,000)
+DA95F3D7:Trade Note (75,000)
+DADB2613:Promissory Note
+800606F3:Trade Note (250,000)
+800606F0:Trade Note (250,000)
+807DAB95:Aetheria Mana Stone
+DBE3CE40:Trade Note (250,000)
+DC2EF18B:Ornate Gear Marker
+807DAB7A:Banderling Slayer Backpack
+807DB81C:Heavy Bracelet
+807DAB7B:Asheron's Benediction
+807DAB7C:Blackmoor's Favor
+807DAB7D:Elaborate Dried Mana Rations
+807DAB7E:Elaborate Dried Health Rations
+DA6459C9:Sunflower
+807DAB80:Duke Raoul's Distillation
+807DAB81:Hunter's Stock Amber
+807DAB82:Green Empyrean Ring
+807DAB83:Yellow Empyrean Ring
+807DAB8C:Powdered Chorizite Pea
+807DAB8D:Splitting Tool
+807DAB8E:Deed
+807DAC1B:Puzzle Box
+807DAB7F:Black Page of Salt and Ash
+80060730:Rage of Grael Gem
+81252E92:Lich Skull
+807DABBF:Red Empyrean Ring
+807DAC17:Deck of Eyes
+D5A68271:Burning Coal
+807DAC16:Deck of Hands
+DC020E84:Coral Fragment
+C86B6F7A:Platinum Spirits
+807DAB5B:Society Gem of Dispelling
+807DAB8F:Pumpkin Backpack
+807DABBE:Major Mana Stone
+807DAB90:Ultimate Singularity Scepter of Life Magic
+807DAB92:Flaming Weeping Staff
+807DAB93:Frozen Weeping Staff
+807DAB94:Shadowfire Isparian Staff
+807DAB9E:Vest
+DB57AD6B:Prismatic Glyph
+807DAB9F:Forging Gloves
+807DAC75:Bracelet
+DB50EDEC:Modified Iasparailaun
+DB3502EF:Impious Staff
+DB971AC1:Flag
+807DAC19:Raven Aegis
+807DAC1E:Aegis of the Golden Flame
+DBDDA0CF:Deadly Hollow Mace
+DB94ECE4:Flag
+DA209DC4:Dapper Suit
+DB1A725F:Ebon Tooth Katar
+DAB0B404:Olthoi Sword
+DAC52468:Panaq
+D951FC51:Tumerok Spear
+DAB394B7:Acid Olthoi Axe
+DAA8E78A:Hoeroa of Palenqual
+DADABEB5:Reinforced Falcon Banner with Symbol
+807DABC5:Major Mana Stone
+807DABC0:Protective Drudge Charm
+807DABC2:Pyreal Pea
+807DABC3:Mana Philtre
+807DABC4:Gold Pea
+807DAC12:Frost Jo
+85749E41:Crimped Hat
+807DAC1F:Whispering Blade Chapterhouse Recall Orb
+807DAC68:Viamontian Pants
+807DAC70:Shirt
+85749E45:Prismatic Shadow Gauntlets
+DBFF25CD:Fresh Zombie Leg
+85749E44:Prismatic Shadow Sollerets
+85749E42:Prismatic Amuli Coat
+DC30B9C2:Fresh Zombie Leg
+807DABA4:White Empyrean Ring
+DA8F630F:Stamina Philtre
+DA8F5BAE:Health Philtre
+DAB997EE:Colosseum Backpack
+DC1D82CE:Dagger of Frozen Fury
+DB918E2B:Pyreal Mote
+DCC44839:Glittering Crystalline Key
+DCB0472E:Ash Gromnie Tooth
+DCB0423F:Fire Auroch Horn
+DBED8826:Ebon Spine Harpoon
+DBF7D969:Okane
+DCAFAE47:Hoary Armoredillo Spine
+DC2FA355:Top Hat
+DC052147:Insensate Axe
+DC6FCEB7:Raider Captain's Resonator
+DCD468E6:Nuhmudira's Bestowment of Strength and Pierce Defense
+DCAEBC12:Puzzle Box
+DCAF9FAA:Ravener Guts
+DC742094:Skeleton's Skull
+DC66D2B7:Swamp Stone
+DC66C472:Carved Key
+81252E99:Idol Gem
+81252E8F:Pulsating Wisp Heart
+DA5ADD15:Weathered Red Key
+DCAFB61B:Peculiar Old Dagger
+DCA91116:Skeleton's Skull
+DCF59567:Fresh Zombie Torso
+807DAB9A:Cloak
+DAE9AEBD:Colosseum Backpack
+DBD7793D:Alembic
+807DAB8A:Neutral Balm
+80F73068:Hero Token
+80F73096:Hero Token
+80F73095:Hero Token
+80F7309C:Hero Token
+80F7300F:Hero Token
+DC282EF7:Pyreal
+80F72FC5:Sprinter's Pearl
+80F72FFF:Vaulter's Crystal
+80F72FBB:Evader's Crystal
+80F72FB1:Resister's Crystal
+DC75A34C:Zefir's Crystal
+80F72FED:Executor's Jewel
+80F72FEE:Pearl of Impenetrability
+DAE9AEC4:Colosseum Backpack
+812541C5:Sturdy Steel Keyring
+812541A4:Master Keyring
+DA92EED0:Olthoi Ichor
+81254230:Sturdy Iron Keyring
+80F73045:Black Marrow Keyring
+80F73046:Skeletal Falatacot Keyring
+812541AA:Singularity Keyring
+DA274335:Stone of Alb'arel
+DB2BD784:Stone of Rez'arel
+81252E91:Glowing Wisp Heart
+DC30B780:Sunflower Oil
+DC30C296:Royal Bouquet
+DCBDEE31:Ursuin Scalp
+DABB668C:Virindi Mask
+DADB9A99:Reinforced Falcon Spear
+DB19EF7D:Elysa's Favor
+DCF3B1C1:Grey Rat Tail
+807DAB84:Intricate Carving Tool
+81252EF2:Egg Launcher
+DCF7542E:Imbued Asteliary Orb
+DD012020:War Staff of Aerfalle
+DD012021:Aerfalle's Supreme Pallium
+DCDA62F4:Radiant Blood Commendation Ribbon
+DB99BFCA:Snowflower
+DAC50ACD:Pouch of Dried Meat
+DB225BA3:Explorer's Backpack
+DC3D5F76:Banderling Scalp
+DC2B6D40:Dark Revenant Thighbone
+DBF9BCFA:Pyreal Bar
+DC277298:Pyreal Mote
+DBF953E5:Island Armoredillo Spine
+DBF49B05:Pyreal Golem Heart
+DB03704F:Drudge Charm
+81252ED6:Iron Heart
+DAFC50A7:Diplomatic Message from Harlune
+DC277299:Diamond Heart
+DA52F968:Virindi Essence
+DABD6FDD:Fenmalain Key
+DCC46B23:Plate Armoredillo Spine
+DC00FDCE:Undead Thighbone
+DC233B6C:Attuned Essence Gem
+DC27C250:Diamond Powder
+DB8A6EC4:Imprinting Mote
+DC00FD69:Granite Heart
+81252ECC:A Perfect Snowman Eye
+DABAB5D1:Aquamarine Prisms
+DA7B10E0:Bael'Zharon Stamp
+DC66D2C7:Academy Stamp
+DB1AEEFD:Brass Knuckles
+807DB835:Goggles
+88EA30E1:Bracelet
+85749DE7:Heavy Bracelet
+CAA5058A:Ring
+800607D4:Renegade Herbal Kit
+807DAC76:Focusing Stone
+807DAC25:Stick
+807DAC10:Jo
+807DAC11:Acid Jo
+807DAC21:Lightning Stick
+DBCD3447:Carved Gemstone Lockpicks
+807DAC13:Acid Stick
+807DAC14:Flaming Nabut
+DA2B3127:Ginger
+800607C4:Vesayen Style Fried Olthoi Egg
+DAEE1C73:Golden Pumpkin
+81252E46:Monougat
+81252E42:Magic Iceball
+81252E45:Strange Stick
+81252E49:Tiriun Mushroom Stalk
+81252E44:Peppermint Stick
+81252ECD:Pumpkin
+DAFE9190:Water
+DA207DAB:Brown Lump
+DAD83D5F:Brown Beans
+81252E48:Sho Brain
+81252E4F:Bunch of Nanners
+81252ECA:Grub Bite
+81252ECB:Pumpkin Cookie Cutter
+DB0161E9:Milk
+DB0AE610:Fish
+81252E4E:Olthoi Egg
+DB0AE612:Cabbage
+807DAB86:Brew Kettle
+DAD502CE:Brimstone-cap Mushroom
+DC152024:Chicken
+DC3D5AF4:Ravener Guts
+DCAF71E8:Carrot
+DC30BED0:Frying Pan
+DC2D52B9:Flour
+DC30B8EA:Egg
+DB62CBBD:Cheese
+807DAB63:Carving Knife
+807DAB85:Baking Pan
+DB30AE82:Cookie Cutter
+DB5A1647:Cooking Pot
+807DAB87:Tusker Spit
+807DAB88:Moarsmuck
+807DAB89:Mortar and Pestle
+DCF0F14C:Side of Beef
+DCF0F236:Rennet
+DCF316C0:Metal Press
+DCF317DB:Skewer
+DCF3184F:Brine
+DCF31828:Uncooked Rice
+DCEA5E5E:Grapes
+DCEDD3C2:Bread
+DCF0FDB1:Oregano
+DCF0FE72:Hot Sauce
+DCF0FF5F:Heavy Grinder
+DCEC55A2:Noodle Cutter
+DCF32134:Ground Nutmeg
+DCF503DB:Cinnamon
+DCF47619:Apple
+DB50D079:Modified Saulandoi
+DCFD4F41:Rynthid Tentacle Mace
+80F7305E:Gem of Knowledge
+8005970A:Pickled Olthoi Egg
+80059709:Hard Boiled Olthoi Egg
+8005970B:Cave Penguin Cake
+DB59AD9C:Renegade Herbal Kit
+80059716:Harbinger Blood Infusion
+807DAC28:Flaming Quarter Staff
+DD07B077:Origin of the Moar
+DD003BA3:Hamud's Pyreal Katar
+807DAC26:Flaming Quarter Staff
+DBDD866A:Small Shard
+807DAC15:Frost Bastone
+85749E43:Prismatic Amuli Leggings
+DCF7A715:Fishing Pole
+807DAC22:Diamond Shield
+807DAC71:Drudge Scrying Orb
+807DAC20:Stick
+DD09086E:Vampire's Kiss
+81252E7F:Casting Jack o' Lantern
+
+Missing Exports - Possessed items that were not found:

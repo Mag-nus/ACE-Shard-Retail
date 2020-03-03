@@ -1,0 +1,146 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-30_1485809939_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-25_1485361025_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-29_1485698501_log.pcap
+
+Partial Exports - Missing appraisal info:
+DC00ADAE:Foci of Artifice
+DC00AEE9:Foci of Enchantment
+DBDC3A4C:Ust
+DC4F5ED2:Major Mana Stone
+DC053277:Massive Mana Charge
+DBF35E0A:Pyreal
+DCD5727A:Pyreal
+DC00AF00:Colosseum Backpack
+DC00AD5F:Massive Mana Charge
+DC00A1B2:Massive Mana Charge
+DBD591CF:Massive Mana Charge
+DBE72BA2:Massive Mana Charge
+DBF36A5C:Massive Mana Charge
+DC00B180:Massive Mana Charge
+DBF3542D:Massive Mana Charge
+DC00AF59:Massive Mana Charge
+DBEC0A35:Massive Mana Charge
+DC00B08C:Massive Mana Charge
+DBFDD273:Massive Mana Charge
+DC009945:Massive Mana Charge
+DC053413:Massive Mana Charge
+DC00ADBB:Massive Mana Charge
+DC00ADC1:Massive Mana Charge
+DC053412:Massive Mana Charge
+DC05370D:Massive Mana Charge
+DC009330:Massive Mana Charge
+DBF35DBD:Massive Mana Charge
+DBF3508A:Massive Mana Charge
+DC00A0A6:Massive Mana Charge
+DBF351E8:Massive Mana Charge
+DBFDD0C6:Massive Mana Charge
+DBF34722:Massive Mana Charge
+DC0099FA:Massive Mana Charge
+DBF3557A:Colosseum Backpack
+DBEC050B:Treated Healing Kit
+DBF3513B:Treated Healing Kit
+DBCFC5A8:Treated Healing Kit
+DC0533A9:Treated Healing Kit
+DBE87B96:Treated Healing Kit
+DBEC177F:Treated Healing Kit
+DC00AFE9:Treated Healing Kit
+DC61CA83:Prismatic Taper
+DC00AEA5:Colosseum Backpack
+DC00AC28:Copper Scarab
+DBF353A2:Pyreal Scarab
+DC008EA5:Silver Scarab
+DBF35384:Pyreal Scarab
+DC053736:Mana Scarab
+DC009D54:Mana Scarab
+DC053451:Mana Scarab
+DC053449:Celdiseth's Portal Gem
+DBFDD790:Gold Scarab
+DC00AE44:Platinum Scarab
+DC4F5ED5:Major Mana Stone
+DC4F5ED1:Major Mana Stone
+DC5E88D0:Major Mana Stone
+DC4EA12C:Major Mana Stone
+DC4ED58B:Major Mana Stone
+DC4F5ED0:Major Mana Stone
+DC4F5EDF:Major Mana Stone
+DC4DE075:Major Mana Stone
+DC464439:Major Mana Stone
+DC4ED4A2:Platinum Scarab
+DC05343F:Colosseum Backpack
+DC00ACCC:Blackmoor's Favor
+DC0533D3:Coruscating Olthoi Scent Gland
+DBF34BFA:Aetheria Mana Stone
+DBF352B1:Heart of the Innocent
+DBF35BD2:Greater Mukkir Slayer Stone
+DC00AF12:Major Mana Stone
+DC009A5A:Asheron's Lesser Benediction
+DC00AC80:Black Skull of Xikma
+DC4F5ED4:Major Mana Stone
+DC05373B:Ancient Mhoire Coin
+DBEC0B55:Ancient Mhoire Coin
+DC4F5ED3:Major Mana Stone
+DBF35D31:Trade Note (250,000)
+DC4F5ED8:Major Mana Stone
+DC4E3946:Major Mana Stone
+DC4F5ED9:Major Mana Stone
+DC4F5EDE:Major Mana Stone
+DC4F5EDD:Major Mana Stone
+DC4F5EDC:Major Mana Stone
+DC4E269B:Major Mana Stone
+DC462659:Major Mana Stone
+DC4F5EDB:Major Mana Stone
+DC4F5EDA:Major Mana Stone
+DC0532BD:Colosseum Backpack
+DBD58A58:Sanguinary Aegis
+DBFDD5A8:Teleportation Device
+DC00A1DA:Replica BloodScorch
+DC009317:Yellow Empyrean Ring
+DBF3561E:Dericost Blade
+DC00AF07:Colosseum Coin
+DC05345D:Focusing Stone
+DC0532BE:Wand
+DBEBF422:Flaming Ken
+DBF35DC3:Ultimate Singularity Sword
+DBEC1198:Aegis of the Gold Gear
+DC00B03D:Acidic Weeping Sword
+DBF35B94:Health Philtre
+DBDC26E8:Frost Dericost Blade
+DC00A0E4:Covenant Shield
+DCD453F9:Major Mana Stone
+DC009D70:Colosseum Vault Key
+DBEBF48F:Aetheria
+DBF357A6:Aetheria
+DC05373D:Aetheria
+DC00ADC8:Colosseum Vault Key
+DBF5BFFB:Colosseum Vault Key
+DB44312B:Colosseum Vault Key
+DC06057B:Pearl of Acid Baning
+DCD4541D:Major Mana Stone
+DC18A38A:Zefir's Crystal
+DC1B7F88:Smithy's Crystal
+DC1FCFA3:Vaulter's Crystal
+DC3D4820:Lightning Wisp Essence (150)
+DC4C1DAA:Warrior's Jewel
+DC43A436:Artificer's Crystal
+DC49AF35:Lightning K'nath Essence (150)
+DC557AD2:Lightning K'nath Essence (150)
+DC5A5205:Warrior's Crystal
+DCB4800C:Shimmering Skeleton Key
+DCD57279:Pyreal
+DCB9B348:Scholar's Crystal
+DCB9B035:Executor's Jewel
+DCC3CCF3:Oswald's Crystal
+DCC6D7B5:Enchanter's Crystal
+DCD456C2:Prismatic Taper
+DCD57278:Pyreal
+DCD266CD:Silver Pea
+DCC75D71:Gold Pea
+DCC74882:Health Tonic
+DCD22A13:Silver Pea
+DCD31362:Silver Pea
+DCD6CA0B:Silver Pea
+
+Missing Exports - Possessed items that were not found:

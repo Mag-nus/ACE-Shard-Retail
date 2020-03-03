@@ -1,0 +1,179 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-31_1485870666_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-27_1485552129_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-27_1485556144_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-28_1485657962_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-24_1485277486_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-24_1485277486_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-24_1485277486_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-24_1485277486_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-24_1485277486_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-24_1485277486_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-25_1485348011_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-25_1485348011_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-25_1485348011_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-26_1485440614_log.pcap
+
+Partial Exports - Missing appraisal info:
+DC661D4F:Foci of Verdancy
+DC661D55:Foci of Strife
+DC678A5B:Lead Scarab
+DC661E66:Iron Scarab
+DC678A7C:Silver Scarab
+DC66215D:Gold Scarab
+DC661C06:Diamond Scarab
+DC661D59:Platinum Scarab
+DC662164:Copper Scarab
+DC661D5A:Pyreal Scarab
+DCD24B4E:Prismatic Taper
+DCDB40D2:Chorizite
+DCDFB06C:Glyph of Missile Weapons
+DCDFAE1C:Glyph of Fletching
+DCDFABA5:Glyph of Recklessness
+DCDAF454:Glyph of Heavy Weapons
+DCDEE241:Glyph of Person Appraisal
+DCDFAD64:Glyph of Deception
+DCDB03CC:Glyph of Mana
+DCDFAE1B:Glyph of Mana Regeneration
+DC678BB1:Iolite Gem
+DCDA49CA:Glyph of Summoning
+DCB59BD5:Glyph of Run
+DC65A896:Ust
+DCE4686E:Glyph of Loyalty
+DCE4FE2F:Glyph of Coordination
+DCE4F252:Glyph of Magic Item Tinkering
+DCE48BE1:Glyph of Stamina Regeneration
+DC678A5C:Foci of Artifice
+DC678A43:Foci of Enchantment
+DC6782BC:Siraluun Headdress
+DC678A5A:Martine's Mask
+DC6622C6:Martine's Robe
+DCA89367:Glyph of Cooking
+DCC77527:Glyph of Stamina
+DCDECA21:Deed
+DCC679B9:Quill of Extraction
+DCC679BB:Glyph of Dual Wield
+DCC01760:Token of Modification
+DCB59BD4:Ink of Conveyance
+DCDFAFD9:Quill of Benevolence
+DCDFB141:Ink of Partition
+DCDFB13E:Glyph of Life Magic
+DCDFB140:Glyph of Item Tinkering
+DCE007B0:Glyph of Healing
+DC955DA9:Ink of Objectification
+DCC0259E:Token of Modification
+DCE07B14:Glyph of Leadership
+DCE07C71:Glyph of Damage
+DCE42B4B:Pyreal
+DCE07CB4:Glyph of Melee Defense
+DCE07C70:Glyph of Health
+DCE42B36:Pyreal
+DCE46766:Glyph of Void Magic
+DCB59BD6:Glyph of Strength
+DCE42B61:Pyreal
+DCE07CB7:Glyph of Frost
+DCC77528:Glyph of Bludgeoning
+DCE52B93:Pyreal
+DCA89366:Quill of Infliction
+DCE07CD9:Ink of Separation
+DCDA4621:Ink of Formation
+DCE07CEF:Quill of Introspection
+DCE07A96:Ink of Direction
+DCB98D8F:Gold Pea
+DC6621AB:Asheron's Benediction
+DC678A3F:Blackmoor's Favor
+DCE52B92:Pyreal
+DCBDC61D:Aphus Lassel Portal Gem
+DCC0177F:Alchemy Gem of Forgetfulness
+DCC31599:Corcima Castle Silver Ward Portal Gem
+B712A893:Aetheria
+DCE42B5C:Pyreal
+806862D2:Blunt Sceptre
+DCDD1BBE:Asheron's Greater Raiment
+936E277B:Hieromancer's Orb
+DCDBD3AA:A'nekshay Token
+DCDD46F8:Black Market Gem of Dispelling
+844BEFEC:White Anniversary Sparkler
+DCDED4F8:Small Olthoi Venom Sac
+DCDEFE62:Colosseum Ticket
+DC652371:Assault Orb
+DCDEEFB3:Rage of Grael Gem
+DCDFF2C8:Greater Stamina Kit
+DCCA49DD:Exquisite Casino Key
+DCDF25B5:Exquisite Casino Key
+DCDF58BF:Exquisite Casino Key
+DCDF049E:Ancient Mhoire Coin
+D88C9AF6:Massive Mana Charge
+DCB9BFB8:Shoyanen's Portal Gem
+DCC22EE5:Town Network Portal Gem
+D63A83A0:Piercing Baton
+D2FA9691:Frost Baton
+D6B0910E:Electric Staff
+95FD29FB:Acid Staff
+DCBF8305:Aged Legendary Key
+DCE47CF7:Colosseum Coin
+DCE42C3F:Aged Legendary Key
+DCE4A69C:Aged Legendary Key
+DCE47EC4:Aged Legendary Key
+DCE43455:Aged Legendary Key
+DCBC1618:Rage of Grael Gem
+DCDFB013:Chevron Cloak
+DCE086BE:Colosseum Ticket
+D6AEB0E2:Fire Baton
+D6ADEA44:Electric Staff
+D5066B86:Piercing Baton
+D586603D:Electric Sceptre
+D6ABB458:Acid Sceptre
+D6AAAA63:Fire Baton
+DCDFC304:The Orphanage
+DCE065E3:Foolproof Sunstone
+DCE065D6:Scroll of Hearts on Sleeves
+DCE065E2:Ornate Gear Marker
+DCDFC2A4:Piercing Sceptre
+DCE47216:Promissory Note
+DCE00E70:Frost Baton
+DCE46726:Coalesced Aetheria
+DCE5436E:Renegade Herbal Kit
+DCE467EF:Coalesced Aetheria
+DCE493F5:Lugian Commander's Insignia
+DCE493F6:Chocolate Gromnie
+DCE493F7:Licorice Rat
+DCE473F6:Candy Corn
+DCE4773C:Trade Note (250,000)
+DCE47802:The Orphanage
+DCE15AAD:Aged Legendary Key
+DCE49D5B:Aged Legendary Key
+DCE49D53:Ring
+DCE49D55:Chainmail Gauntlets
+DCE49D4C:Olthoi Alduressa Helm
+DCE47F0D:Sedgemail Leather Sleeves
+DCE47ED7:Fire Sceptre
+DCE4A6AA:Olthoi Koujia Breastplate
+DCE4A6B1:Knorr Academy Helm
+DCE47D07:Olthoi Koujia Sollerets
+DCE42C7C:Mechanical Scarab
+DCE42CA5:Acid Staff
+DCE42C56:Piercing Baton
+DCE42C3E:Ring
+DCE42C53:Covenant Bracers
+DCE42C7A:Ring
+DCE46956:Blunt Sceptre
+DCE5362A:Mana Forge Key
+DCE4F253:Glyph of Slashing
+DCE4FE2C:Glyph of Creature Enchantment
+DCE43454:Loose Shirt
+DCE53BB0:Candy Corn
+DCE482A1:Ivory Gromnie Wings
+DCE53BB1:Chocolate Gromnie
+DCE53BB2:Licorice Rat
+DCE53C0B:Enhanced Health Elixir
+DCE53D8E:Golden Gromnie
+DCE53E17:Mana Forge Key
+DCE53E98:Lugian Commander's Insignia
+DCE542DB:Greater Mana Kit
+DCE540EF:Greater Stamina Kit
+DCE54296:Pack Scarecrow
+
+Missing Exports - Possessed items that were not found:

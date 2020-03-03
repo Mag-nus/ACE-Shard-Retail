@@ -1,0 +1,82 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap2\pkt_2017-1-31_1485852441_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap1\pkt_2017-1-29_1485721132_log.pcap
+
+Partial Exports - Missing appraisal info:
+86013DE3:Sack
+86013839:Pyreal
+86013DFD:Ust
+86013DE2:Lead Scarab
+86013DD9:Letter From Home
+8601384C:Facility Hub Portal Gem
+86013861:Sturdy Iron Key
+8601387C:Copper Scarab
+860138B4:Magic Iceball
+860138AC:Carrot
+86013E16:Key
+86013DFB:Key
+86013E4B:Gifted Healing Kit
+86013DF3:Note from Mi Krau-Li
+86013E43:Gifted Healing Kit
+86013E14:Sharp Tusker Slave Tusk
+86013E0C:Sturdy Iron Key
+86013E1C:Sturdy Iron Key
+86013E0D:Skeleton's Skull
+86013E27:Silver Pea
+86013E33:Sturdy Iron Key
+860138A2:Treated Healing Kit
+860138C5:Trade Note (50,000)
+86013871:Treated Healing Kit
+86013E42:Treated Healing Kit
+86013E65:List of Hunted Creatures
+86013E25:Pack
+86013E0A:Pack
+86013E12:Pack
+86013DF1:Pack
+86013E75:Copper Pea
+86013E09:Salvage (5)
+86013E03:Salvage (5)
+86013E63:Salvage (5)
+86013E50:Treated Healing Kit
+86013E5A:Mana Tonic
+86013E52:Stamina Philtre
+86013E39:Salvage
+86013E30:Trade Note (250,000)
+86013E11:Seeds of Anger
+86013E1B:Salvage (20)
+86013E24:Salvage (12)
+86013E41:Treated Healing Kit
+86013E49:Salvage (28)
+86013E38:Treated Healing Kit
+86013E62:Salvage (37)
+860121EE:Salvage (13)
+86013E01:Scarlet Red Letter
+86013E6D:Salvage (15)
+86013E1A:Salvage (22)
+86013E51:Jexki Ki's Journal
+86013E23:Salvage (66)
+86013E59:Torgluuk's Orders
+86013E2F:Kixkti Xri's Journal
+86013F1B:A Book of Quests for Young Explorers
+86013E7D:Candy Corn
+86013E6C:Fort Tethana Portal Gem
+86013E1D:Pack
+87FB916B:Treated Healing Kit
+880C23BD:Mana Stone
+880B67CF:Prismatic Taper
+880B5764:Gem
+880C3C4B:Gem
+880C3C4A:Gem
+88032FBC:Nuhmudira's Charm
+880D2CD1:A Bright Silver Key
+880D646B:Moderate Mana Stone
+880C6D37:Health Philtre
+880C28D8:Moderate Mana Stone
+87FCD33B:Massive Mana Charge
+87FCD3A0:Massive Mana Charge
+87FB2459:Massive Mana Charge
+86013E02:Bunch of Nanners
+
+Missing Exports - Possessed items that were not found:

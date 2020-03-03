@@ -1,0 +1,221 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-31_1485869588_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-27_1485527302_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-29_1485691083_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-29_1485691083_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-29_1485691083_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-29_1485691083_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-29_1485691083_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-29_1485696896_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-29_1485716588_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-29_1485716588_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-29_1485716588_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-29_1485716588_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-29_1485716588_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-29_1485716588_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-29_1485716588_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-29_1485716588_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-29_1485716588_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-31_1485865808_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-31_1485866668_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-31_1485869588_log.pcap
+
+Partial Exports - Missing appraisal info:
+BB53DB63:Diadem
+AF2BE77A:Signet Crown
+C4C5E100:Circlet
+BC59CA0B:Circlet
+C1B0B2B9:Teardrop Crown
+BFF48F91:Teardrop Crown
+C372A1E4:Teardrop Crown
+C365103E:Teardrop Crown
+BB9B37F4:Crown
+BC24AF79:Coronet
+BAF002EC:Crown
+BE544BD0:Crown
+C8F60791:Diadem
+BDF43C71:Crown
+BD5A34CA:Teardrop Crown
+808077F3:Supplies for Massilor
+B1E25AAA:Teardrop Crown
+BB8B6178:Teardrop Crown
+A28DFF52:Cloth Cap
+800DF5B2:Signet Crown
+CAE1AD28:Crown
+80807812:Chunk of Low-Grade Chorizite
+CBA710A7:Teardrop Crown
+D59193C1:Signet Crown
+D5F67557:Coronet
+ADDC7EDA:Coronet
+C2D6C922:Gauntlet Backpack
+B390B26F:Empyrean Sun Stone
+80807811:Chunk of Low-Grade Chorizite
+8009F1A6:Licorice Rat
+8009F0E0:Chocolate Gromnie
+BCBE8663:Sacrificial Knife
+BD0518E5:Sacrificial Goblet
+BD2E49A6:Empyrean Sun Stone
+AF42F87F:Empty Flask
+C73D5BD9:Undead Thighbone
+C739381A:Diplomatic Message from Harlune
+C772A87C:Torn Journal
+C76E5810:Gem
+C7670797:Brimstone
+C76E57A6:Alloy Fan
+80807816:Plated Shard
+C364531A:Blank Augmentation Gem
+C40276DE:Blank Augmentation Gem
+C645583C:Blank Augmentation Gem
+C2BE5D6E:Blank Augmentation Gem
+BC6ADE90:Gem of Spectral Force
+BABBD6FE:Gauntlet Backpack
+B123E6E0:Stipend
+BB7012F7:Society Gem of Lesser Luminance
+80807859:Eldrytch Web Trade Token
+BB57E88C:Eldrytch Web Commendation Ribbon
+80807855:Heart of the Innocent
+8080785A:Deed
+8080785D:Aligned Mana Stone
+80807862:Crystal of Spectral Blood
+80807860:Skull of One Thousand Torments
+80807854:Mutated Olthoi Gland
+8080785E:Unstable Mana Stone
+8080785C:Aetheria Mana Stone
+A7232F27:Intricate Carving Tool
+C78D0803:Eldrytch Web Armor Writ
+C81A7C80:Major Shivering Stone
+80807813:Ust
+8080785B:Rytheran's Master Seal
+BB529156:Minor Sparking Stone
+C78A49CF:Black Fire Atlan Stone
+B48F2867:Enhanced Black Fire Atlan Stone
+C80F6E51:Elaborate Scroll
+C88B8DFC:Crystal of Frozen Elemental Essence
+AFDDF16C:Trade Note (250,000)
+BABBD863:Promissory Note
+D573E5A5:Maelstrom of Souls Gem
+CDDEC978:Promissory Note
+97E51DB8:Trade Note (250,000)
+982C0DEE:Trade Note (250,000)
+BBE56A0C:Pack
+D5AE4938:Massive Mana Charge
+D6BD065A:Massive Mana Charge
+D6BD1A8C:Massive Mana Charge
+D6BB972B:Massive Mana Charge
+D6BD1AC8:Massive Mana Charge
+D6BB95E3:Massive Mana Charge
+D6BB9724:Massive Mana Charge
+D6BD19E8:Massive Mana Charge
+D6C5DBE7:Massive Mana Charge
+D6BD1A6E:Massive Mana Charge
+D6BB95FA:Massive Mana Charge
+D6BD1A85:Massive Mana Charge
+D6BB9687:Massive Mana Charge
+D6BD1A4C:Massive Mana Charge
+D6BB9636:Massive Mana Charge
+D6BD1A09:Massive Mana Charge
+D6D4DC58:Massive Mana Charge
+D6D4DC7B:Massive Mana Charge
+D6D4DC4F:Massive Mana Charge
+D6D4DC61:Massive Mana Charge
+D6D4DC3E:Massive Mana Charge
+D6D4DCC5:Massive Mana Charge
+D6D4DCCD:Massive Mana Charge
+D6D4DC2E:Massive Mana Charge
+BBE56A23:Pack
+8080787A:Rithwic Portal Gem
+8080781B:Sezzherei's Lair
+80807830:Lesser Mana Kit
+80807879:Lytelthorpe Portal Gem
+80807878:Holtburg Portal Gem
+D891C65E:Iolite Gem
+80807877:Nanto Portal Gem
+80807875:Yanshi Portal Gem
+CAB15063:Major Mana Stone
+80807874:Samsur Portal Gem
+80807873:Yaraq Portal Gem
+CA7A90BA:Major Mana Stone
+80807872:Al-Arqas Portal Gem
+80807871:Xarabydun Portal Summoning Gem
+80807870:Town Network Portal Gem
+8080786B:Celdiseth's Portal Gem
+8080787E:Lead Scarab
+8080787F:Iron Scarab
+8080786D:Copper Scarab
+8080787D:Silver Scarab
+80807880:Gold Scarab
+8080787B:Pyreal Scarab
+8080787C:Platinum Scarab
+8080786C:Diamond Scarab
+C8D130CE:Mana Scarab
+C8CB7F97:Prismatic Taper
+C8B73582:Prismatic Taper
+80806443:Pack
+8080782F:Lesser Mana Kit
+80807831:Lesser Mana Kit
+80AB2AEA:Plentiful Healing Kit
+B2B87110:Greater Stamina Kit
+B0841387:Tumerok Salted Meat
+80AB2AEF:Plentiful Healing Kit
+80AB2AEE:Plentiful Healing Kit
+80AB2AED:Plentiful Healing Kit
+B398FF30:Focusing Stone
+CADC9A70:Treated Healing Kit
+CB5647B7:Treated Healing Kit
+CB514285:Treated Healing Kit
+CB564791:Treated Healing Kit
+CBB9C118:Treated Healing Kit
+CBDC8B4F:Treated Healing Kit
+CD29A504:Platinum Medal of Vigor
+A715E353:Burning Coal
+C7053EDC:Fenmalain Key
+C90319CC:Little Green Seeds
+8224B55D:Little Green Seeds
+8224B559:Little Green Seeds
+8224B55B:Little Green Seeds
+8224B55C:Little Green Seeds
+8224B55A:Little Green Seeds
+C36C4F50:Major Mana Stone
+C95012BB:Major Mana Stone
+C94EE330:Major Mana Stone
+C9522473:Major Mana Stone
+CB4D05B6:Major Mana Stone
+CB524C2D:Major Mana Stone
+C73E99A8:Major Mana Stone
+CA7698AF:Major Mana Stone
+CA7B0BCC:Major Mana Stone
+C9DE8BDA:Massive Mana Charge
+D4A94689:Massive Mana Charge
+D523F1B5:Massive Mana Charge
+CA21D866:Massive Mana Charge
+CEAC5591:Massive Mana Charge
+CA8FDB43:Massive Mana Charge
+BBE56D6A:Gauntlet Backpack
+A7572A31:Princely Runed Slashing Baton
+8080782B:Asheron's Lesser Benediction
+CEAC5592:Massive Mana Charge
+8017850E:Massive Mana Charge
+A875D30A:Massive Mana Charge
+AD644DCA:Massive Mana Charge
+AD7E1D67:Massive Mana Charge
+ACFF3EB5:Massive Mana Charge
+C6A836E9:Massive Mana Charge
+D523F163:Massive Mana Charge
+AD823528:Massive Mana Charge
+C89F9F49:Massive Mana Charge
+D5B6BF5B:Massive Mana Charge
+D6D4DDB9:Massive Mana Charge
+D6D4DC80:Massive Mana Charge
+D6D4DCBD:Massive Mana Charge
+D7A9C41E:Signet Crown
+80807821:Teleportation Device
+8080782C:Blackmoor's Favor
+B9FF2AF4:Peerless Lockpick
+80807823:Ring
+D5B0EA6D:Facility Hub Portal Gem
+BD1D6ADD:Focusing Stone
+800DBDD7:Pocket Watch
+
+Missing Exports - Possessed items that were not found:

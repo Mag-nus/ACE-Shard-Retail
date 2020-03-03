@@ -1,0 +1,193 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485822871_log.pcap
+
+Partial Exports - Missing appraisal info:
+8000665C:Foci of Artifice
+8000665D:Foci of Verdancy
+8000665E:Foci of Enchantment
+8000665F:Pack
+9270B12C:Major Mana Stone
+92A10627:Major Mana Stone
+9270B36E:Major Mana Stone
+92A55E52:Major Mana Stone
+92C249E9:Major Mana Stone
+92C207CB:Major Mana Stone
+93199B98:Major Mana Stone
+93177963:Major Mana Stone
+9324B95D:Major Mana Stone
+9324DD58:Major Mana Stone
+9324BD7D:Major Mana Stone
+92837BAB:Major Mana Stone
+933D569F:Major Mana Stone
+95822049:Major Mana Stone
+9570AAE6:Major Mana Stone
+9576F4B2:Major Mana Stone
+9594C888:Major Mana Stone
+995F0A96:Major Mana Stone
+9593677A:Major Mana Stone
+841790B7:Encapsulated Spirit
+8410B904:Encapsulated Spirit
+8418F09B:Encapsulated Spirit
+8418F080:Encapsulated Spirit
+80006676:Pack
+80006678:Wrapped Bundle of Burning Sands Arrowheads
+80006679:Wrapped Bundle of Olthoi Acid Arrowheads
+8000667A:Wrapped Bundle of Greater Deadly Blunt Arrowheads
+8000667B:Wrapped Bundle of Arrowshafts
+8000667C:Spectral Chill Arrow Bundle
+8000667D:Wrapped Bundle of Raider Lightning Arrowheads
+8000667F:Wrapped Bundle of Greater Deadly Armor Piercing Arrowheads
+80006680:Wrapped Bundle of Greater Deadly Frog Crotch Arrowheads
+99BEB77F:Greater Deadly Blunt Arrow
+9A37DCE2:Greater Deadly Frog Crotch Arrow
+9A5B6D63:Raider Lightning Arrow
+80289611:Campfire
+9A498E8E:Burning Sands Arrow
+92C29682:Spectral Chill Arrow
+918CF12B:Trade Note (250,000)
+80048FD3:Trade Note (250,000)
+8000668F:Blackmoor's Favor
+91EB1239:Trade Note (250,000)
+999F2598:Olthoi Acid Arrow
+80006696:Radiant Blood Trade Token
+8000668E:Explorer's Backpack
+80006690:Deck of Hands
+80006698:Promissory Note
+80006691:Asheron's Lesser Benediction
+80006694:Aetheria Mana Stone
+80006695:A'nekshay Token
+80006697:Small Olthoi Venom Sac
+80006699:Virindi Consul Essence
+8000669A:Colosseum Coin
+8000669B:Colosseum Coin
+8000669C:Colosseum Ticket
+8000669D:Colosseum Coin
+800066A3:Aetheria
+8DD0E1F5:Deed
+8E952C65:Gauntlet Coin
+800066A2:Infused Amber Shard
+926B467A:Infused Amber Shard
+92841F39:Infused Amber Shard
+92AA3E51:Infused Amber Shard
+929DAC2F:Infused Amber Shard
+9317480A:Black Page of Salt and Ash
+93498346:Infused Amber Shard
+92758A36:Trade Note (250,000)
+931E1D0B:Little Green Seeds
+8418F0D4:Trade Note (250,000)
+926590C3:Trade Note (250,000)
+800066AA:Pack
+929F0D64:Trade Note (250,000)
+800653F5:Trade Note (250,000)
+800066AD:Silver Scarab
+91D7EA30:Trade Note (250,000)
+8418F0D6:Trade Note (250,000)
+800066AE:Gold Scarab
+800066AF:Pyreal Scarab
+800066B4:Blue Taper
+800066B0:Mana Scarab
+800066B1:Diamond Scarab
+800066B2:Chorizite
+800066B5:Grey Taper
+800066B7:Mana Scarab
+800066B9:Mana Scarab
+800066BA:Platinum Scarab
+845DA62E:Copper Scarab
+800066AC:Iron Scarab
+800066AB:Lead Scarab
+90C20186:Prismatic Taper
+90C55CDC:Prismatic Taper
+93FF877F:Prismatic Taper
+8418F127:Encapsulated Spirit
+841790B3:Encapsulated Spirit
+8418F09A:Encapsulated Spirit
+841393A1:Encapsulated Spirit
+800066BC:Pack
+8004D545:Encapsulated Spirit
+91135194:Electric Compound Bow
+80289C7A:Lightning Cloud
+9315C175:Tumerok Salted Meat
+800066CC:Whispering Blade Chapterhouse Recall Orb
+994B7D4A:Plentiful Healing Kit
+9951C9A3:Plentiful Healing Kit
+9A4C016E:Tusker Paw Wand
+9A4DD08F:Life-attuned Shadowfire Isparian Wand
+9A66B632:Regal Longbow
+8000671C:Mattekar Claw
+80289E67:Couch
+802891ED:Ice Box
+92841F6C:Trade Note (250,000)
+92654B6B:Trade Note (250,000)
+800066DB:Ring
+800066D9:Chevron Cloak
+80289E1D:Dereth Map
+800066DA:Yellow Empyrean Ring
+93376743:Relanim Plant
+80289634:Mystical Mug
+9960F7FE:Lapyan Plant
+8028929E:Tome of Blood and Bone
+800066DC:Loose Shirt
+931A5ED6:Berimphur Plant
+99642EEE:Hennacin Plant
+800066EC:Focusing Stone
+802893ED:Head of the Homunculus
+90E5D123:Salvage (100)
+80289E46:Trunk of Bones
+9968C02C:Verdalim Plant
+9965CD1B:Rynthid Berserker's Mask
+99A381BF:Brown Society Locket
+99A38D17:Chiran Coat
+80275335:Virindi Cage
+99A4F56C:Chainmail Girth
+9A4355E2:Blue Society Band
+80289E4F:Dark Monolith
+9A4317C6:Brown Society Locket
+9A42AEC0:Green Society Band
+80289E20:Font of Jojii
+9A438711:Brown Society Locket
+9A9A60BD:Brown Society Locket
+80288CC0:Holiday Lights
+9AA39404:Blue Society Band
+9ADC4B96:Brown Society Locket
+80289E7B:Chalk Board
+9A4E7E47:Burun Slaying Sceptre
+802892A4:Wallbound Niffis
+80289E69:Map of Auberean
+80289E8B:Arcane Pedestal
+80289549:Head of the Paradox-touched Olthoi Queen
+80289E38:Head of the Olthoi Queen
+80289EC4:Olthoi Resurgent
+80289E88:Pyreal Bell
+8418F0DB:Imbue Swap Coin
+84178741:Treated Hyssop
+8418F0D2:Treated Mandrake
+8418F0C9:Soft Bandages
+94179681:Treated Hyssop
+9417960A:Treated Mandrake
+9417964F:Soft Bandages
+8418F0F1:Trade Note (250,000)
+84177216:Trade Note (250,000)
+9C4BDDBA:Writ of Refuge
+8417908A:Trade Note (250,000)
+8418F0CA:Trade Note (250,000)
+84178742:Trade Note (250,000)
+8418F139:Trade Note (250,000)
+8418F13A:Trade Note (250,000)
+8415B6FE:Trade Note (250,000)
+8418F0D3:Trade Note (250,000)
+8418F0DC:Trade Note (250,000)
+8418F0F2:Trade Note (250,000)
+84179086:Trade Note (250,000)
+8418F0CB:Trade Note (250,000)
+84179083:Trade Note (250,000)
+84155EC6:Trade Note (250,000)
+8416E4C5:Trade Note (250,000)
+8418F0D5:Trade Note (250,000)
+8418F130:Trade Note (250,000)
+8418F0DE:Trade Note (250,000)
+8418F0CC:Trade Note (250,000)
+8418F0DD:Trade Note (250,000)
+84179090:Trade Note (250,000)
+8417873F:Trade Note (250,000)
+
+Missing Exports - Possessed items that were not found:

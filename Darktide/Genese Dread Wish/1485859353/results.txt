@@ -1,0 +1,135 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-31_1485859139_log.pcap
+
+Partial Exports - Missing appraisal info:
+80AB0792:Pack
+80AB0791:Blackmoor's Favor
+80AB0790:Calling Stone
+80AB078C:Pack
+CC724EDA:Olthoi Celdon Gauntlets
+80AB078B:Pack
+CC9F3AD5:Alduressa Gauntlets
+CBB7AD4D:Long Leather Gauntlets
+CBB69B20:Olthoi Celdon Sollerets
+C01655B9:Slippers
+C014BE62:Shoes
+CBAB07C0:Olthoi Amuli Sollerets
+C9738565:Loafers
+C93E0217:Haebrean Boots
+CBAACAD4:Shoes
+CC6B405F:Loafers
+80AB078A:Pack
+80AB0798:Pack
+CC841D6F:Alduressa Boots
+C83D6289:Teardrop Crown
+CBDAFBA2:Olthoi Celdon Helm
+CBB5EFC3:Haebrean Helm
+CBE1561D:Bandana
+CB057CF4:Chiran Helm
+C6B49336:Sedgemail Leather Cowl
+C6AA5C3C:Alduressa Helm
+C7413435:Olthoi Celdon Helm
+C74AB89A:Lorica Helm
+C958BE23:Beret
+C745F3CB:Circlet
+C014700C:Olthoi Alduressa Helm
+80AB0783:Olthoi Koujia Kabuton
+80AB0789:Lyceum Hood
+C93D5CBE:Studded Leather Cowl
+C93D5E5F:Kasa
+C93D43CB:Studded Leather Basinet
+C908B02F:Olthoi Alduressa Helm
+CB524D6E:Coronet
+A6C7E5EF:Kasa
+CBDCCDD0:Loafers
+CB9DEA74:Nariyid Helm
+CC6A6FAE:Lyceum Hood
+C94E4B7A:Studded Leather Girth
+C96DFCCA:Platemail Greaves
+C93961C4:Celdon Leggings
+C93D414D:Chainmail Girth
+C93D3E47:Amuli Coat
+C93D3D3C:Chainmail Tassets
+CA767CFA:Chiran Leggings
+80AB0788:Long Leather Gauntlets
+80AB0784:Alduressa Gauntlets
+80AB0781:Olthoi Celdon Leggings
+9C4D6A3E:Nariyid Sleeves
+9C4D7939:Leather Vest
+9C4C6A2D:Platemail Breastplate
+9C4D79C5:Haebrean Vambraces
+9C4D6B15:Chainmail Leggings
+9C4D77FC:Alduressa Leggings
+9C4D5F5F:Celdon Sleeves
+C0716C52:Celdon Leggings
+C01424F5:Leather Pants
+C00756F5:Studded Leather Gauntlets
+C062AB54:Scalemail Shirt
+C01423C7:Chainmail Pauldrons
+C012A342:Chainmail Breastplate
+C760A504:Cloth Gloves
+C7479B42:Tenassa Sleeves
+C7420605:Lace Shirt
+C75264F5:Leather Tassets
+C741373E:Olthoi Alduressa Gauntlets
+C740D3CC:Studded Leather Greaves
+C74217AF:Viamontian Laced Boots
+C6A0B24E:Olthoi Alduressa Leggings
+C7418B16:Chainmail Leggings
+C74170A7:Celdon Breastplate
+C6BDEB91:Studded Leather Tassets
+C6C20A34:Diforsa Breastplate
+C6A90F0B:Olthoi Koujia Leggings
+CB05A12A:Leather Shirt
+C6A0B95A:Haebrean Gauntlets
+CAF89780:Tenassa Breastplate
+C6D2604D:Leather Girth
+C6BDE5A5:Knorr Academy Tassets
+C6AA4DAB:Nariyid Gauntlets
+C6D18EDD:Tenassa Leggings
+C6B639C0:Tenassa Sleeves
+C69CCF6D:Studded Leather Cuirass
+80AB0773:Leather Greaves
+CA7632FB:Nariyid Gauntlets
+C6B6280D:Olthoi Amuli Coat
+CB04F628:Celdon Girth
+80AB0786:Olthoi Koujia Sleeves
+CA7B64E7:Nariyid Girth
+CA764F77:Olthoi Koujia Leggings
+CB52521D:Haebrean Pauldrons
+CB79723B:Alduressa Leggings
+CB7E817F:Chainmail Greaves
+CBAB0262:Leather Bracers
+CB9DEF7E:Celdon Leggings
+CB9DE9B0:Alduressa Gauntlets
+CB9DD699:Olthoi Alduressa Coat
+CBC0B8DC:Amuli Leggings
+CBC3BFFA:Lorica Breastplate
+CBADFC96:Leather Vest
+CBADC034:Sedgemail Leather Pants
+CBA6F4A3:Platemail Cuirass
+CBE1689F:Chainmail Girth
+CBDD74D7:Studded Leather Bracers
+CBBC7782:Empyrean Over-robe
+CBE4725E:Koujia Leggings
+CC173A76:Hood
+CBDB5BBD:Leather Pauldrons
+CBF1DDD7:Fez
+CB7208AB:Cloth Gloves
+CC6B7D93:Studded Leather Greaves
+CC69191C:Leather Sleeves
+CC60C8C9:Celdon Leggings
+CBEF68F9:Chainmail Pauldrons
+CCAE6615:Diforsa Greaves
+CCABA332:Studded Leather Pauldrons
+CC6B4460:Olthoi Alduressa Coat
+CC6B4A65:Studded Leather Pauldrons
+CC851F1B:Amuli Leggings
+CCA9313C:Chiran Leggings
+CC6B49A0:Studded Leather Shirt
+CC691937:Studded Leather Pauldrons
+CCC3D40B:Studded Leather Gauntlets
+CCC96E6F:Alduressa Boots
+CCC3E0A7:Nariyid Sleeves
+
+Missing Exports - Possessed items that were not found:

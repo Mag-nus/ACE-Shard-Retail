@@ -1,0 +1,43 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485839402_log.pcap
+
+Partial Exports - Missing appraisal info:
+9158E94B:Pyreal
+9158E99F:Sack
+915AE97E:Blackmoor's Favor
+915AE97F:Teleportation Device
+915AE980:Ust
+915AE981:Great Mana Charge
+915AE984:Round Shield
+915AE986:Living Tome
+915AE987:Tome of Blood and Bone
+915AE988:Mystical Mug
+915AE989:Black Ball in a Stein
+915AE98A:Black Ball in a Stein
+915AE98B:Bottle of Crystal Champagne
+915AE98C:Chalk Board
+915AE98D:Black Spear of Mukkir Strength
+915AE98E:Arcane Pedestal
+915AE98F:Burun Kukuur Floatee
+915AE993:Burun Kukuur Floatee
+915AE995:Decorative Bronze Statue 
+915AE999:Stocking Cap
+915AE998:Nefane Shield
+915AE99A:Tumerok Salted Meat
+915AE99B:Combined Hyssop and Mandrake
+9159CEC0:Pathwarden Trinket
+915AE99C:Soft Bandages
+915AE99D:Rage of Grael Gem
+915AE99E:Tusker Pus
+923E24DF:Salvage (100)
+915AA589:Aetheria
+916DAF8F:Aetheria
+9169FFE1:Acid Stiletto
+92216289:Evader's Crystal
+923F0BDC:Pearl of Frost Baning
+924A276C:Pearl of Blood Drinking
+92355DB8:Inferno's Jewel
+92098DA1:Ancient Empyrean Trinket
+8FC83F66:Low-Stakes Gambling Token
+
+Missing Exports - Possessed items that were not found:

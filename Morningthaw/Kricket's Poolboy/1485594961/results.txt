@@ -1,0 +1,112 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-28_1485593171_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-22_1485136357_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-22_1485136357_log.pcap
+
+Partial Exports - Missing appraisal info:
+80A2000C:Pack
+80A2000D:Verdalim Dye Pot
+80A2000E:Berimphur Dye Pot
+80A2000F:Lapyan Dye Pot
+80A20010:Minalim Dye Pot
+80A2002F:Eye Dropper
+80A20018:Crushed Relanim Plant
+80A20019:Crushed Hennacin Plant
+80A2003A:Alembic
+80A20050:Relanim Dye Pot
+80A20032:Crushed Minalim Plant
+80A2001C:Copper Scarab
+80A2002E:Crushed Lapyan Plant
+80A200A1:Crushed Colban Plant
+80A20023:Pyreal
+80A20057:Concentrated Aqua Incanta
+80A2009F:Mortar and Pestle
+80A20030:Ust
+AF479342:Argenory Dye Pot
+80A20012:Colban Dye Pot
+80A2001B:Pack
+80A2001D:Gold Scarab
+80A2001E:Silver Scarab
+80A20081:Pyreal
+80A20026:Shirt
+80A2002A:Ring
+80A2002B:Ring
+80A2002D:Pack
+80A20031:Carving Knife
+80A20033:Cooking Pot
+80A20034:Cooking Pot
+80A20035:Cooking Pot
+80A20036:Cooking Pot
+80A20037:Cooking Pot
+80A20038:Cooking Pot
+80A20039:Eye Dropper
+80A2003E:Snow Lily
+80A20047:Pack
+80A2004E:Cooking Pot
+80A2004F:Cooking Pot
+80A20014:Cooking Pot
+80A20013:Cooking Pot
+80A20016:Cooking Pot
+80A20015:Cooking Pot
+C584B4ED:Cooking Pot
+80A20051:Wrapped Bundle of Blunt Arrowheads
+80A20052:Quicksilver Pea
+80A20053:Stibnite Pea
+80A20055:Perfect Diamond Infused Pyreal Ingot
+80A20054:Concentrated Bloodhunter Infusion
+80A20056:Cooking Pot
+80A20058:Wrapped Bundle of Greater Lightning Arrowheads
+80A20059:Wrapped Bundle of Greater Arrowheads
+80A2005B:Wrapped Bundle of Deadly Fire Arrowheads
+80A2005C:Wrapped Bundle of Deadly Blunt Arrowheads
+80A2005D:Wrapped Bundle of Deadly Lightning Arrowheads
+80A2005E:Wrapped Bundle of Deadly Armor Piercing Arrowheads
+80A2005F:Wrapped Bundle of Deadly Acid Arrowheads
+80A20060:Wrapped Bundle of Deadly Frost Arrowheads
+80A20061:Wrapped Bundle of Deadly Blunt Arrowheads
+80A20062:Pack
+80A20082:Pyreal
+80A20063:Cooking Pot
+80A20064:Cooking Pot
+80A20065:Cooking Pot
+80A20066:Cooking Pot
+80A20067:Cooking Pot
+80A20068:Cooking Pot
+80A20069:Cooking Pot
+80A2006A:Cooking Pot
+80A2006B:Cooking Pot
+80A2006C:Cooking Pot
+80A2006D:Cooking Pot
+80A2006E:Cooking Pot
+80A2006F:Cooking Pot
+80A20070:Cooking Pot
+80A20071:Cooking Pot
+80A20072:Cooking Pot
+80A20073:Cooking Pot
+80A20074:Some Changes for February 2012
+80A20075:Some Changes for February 2012
+AF3D6CA7:Cooking Pot
+80A20076:Wrapped Bundle of Frog Crotch Arrowheads
+80A20077:Concentrated Bloodhunter Oil
+80A20078:Wrapped Bundle of Deadly Blunt Arrowheads
+80A20079:Wrapped Bundle of Deadly Frog Crotch Arrowheads
+80A2007D:Gem of Stillness
+80A20080:Pack
+80A2009D:Quality Pyreal Ingot
+80A2008B:Wrapped Bundle of Greater Blunt Arrowheads
+80A2008F:Heavy Bracelet
+80A20091:Faran Robe
+80A2009A:Scintillating Gem
+80A2009C:Shadow Fragment
+80A2009E:Pyreal Bar
+B2272D4C:Pyreal Nugget
+80A1F107:Wrapped Bundle of Arrowshafts
+80A1E69E:Salvaged  (100)
+80A1E6A1:Salvaged  (100)
+C2CC4A3E:Writ of Refuge
+C2CC4B97:Writ of Refuge
+C2CC4C56:Writ of Refuge
+
+Missing Exports - Possessed items that were not found:

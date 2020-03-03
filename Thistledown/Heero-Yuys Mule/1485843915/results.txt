@@ -1,0 +1,14 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485843573_log.pcap
+
+Partial Exports - Missing appraisal info:
+ABC5210E:Black Stone
+ABC6207A:Scroll of Whirling Blade IV
+ABC62062:Shoes
+ABC6206E:Ring
+ABC620A1:Scroll of Heavy Weapon Mastery Other V
+ABC62175:Shoes
+ABC51DB1:Pack Bael'Zharon
+ABC51DA7:Some Changes for February 2012
+
+Missing Exports - Possessed items that were not found:

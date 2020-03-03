@@ -1,0 +1,168 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\Dr_Doom_Random_Running_Around\pkt_2017-1-30_1485808315_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Blade_2017_1_24_All_Three_Halls_Of_Metos\pkt_2017-1-24_1485302594_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Blade_Random_Travels_and_Faction_Quests\pkt_2017-1-24_1485311973_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Blade_Random_Travels_and_Faction_Quests\pkt_2017-1-27_1485566333_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Blade_Random_Travels_and_Faction_Quests\pkt_2017-1-27_1485567223_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Blade_Random_Travels_and_Faction_Quests\pkt_2017-1-27_1485573911_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Blade_Random_Travels_and_Faction_Quests\pkt_2017-1-27_1485579921_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Blade_Random_Travels_and_Faction_Quests\pkt_2017-1-27_1485579921_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Blade_Random_Travels_and_Faction_Quests\pkt_2017-1-28_1485630630_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Blade_Random_Travels_and_Faction_Quests\pkt_2017-1-28_1485630630_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Blade_Random_Travels_and_Faction_Quests\pkt_2017-1-28_1485636370_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\Dr_Doom_Random_Running_Around\pkt_2017-1-28_1485641465_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\Dr_Doom_Random_Running_Around\pkt_2017-1-28_1485646488_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\Dr_Doom_Random_Running_Around\pkt_2017-1-28_1485651034_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\Dr_Doom_Random_Running_Around\pkt_2017-1-28_1485657192_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\Dr_Doom_Random_Running_Around\pkt_2017-1-29_1485723634_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\Dr_Doom_Random_Running_Around\pkt_2017-1-29_1485757994_log.pcap
+
+Partial Exports - Missing appraisal info:
+DCEF5A5F:Pyreal
+DB6E31B3:Pack
+811C65EF:Pack Bael'Zharon
+811C65DA:Blackmoor's Favor
+811C5600:Quest Weapon Coin
+DB6E259B:Stamina Tincture
+DAFC5FEA:Potion of Healing
+DB6C43E9:Facility Hub Portal Gem
+DD00A3C8:Pyreal
+DBCEC821:Ruminations on Portal Creation
+DC19D3FC:Pack Scarecrow
+DC893B81:Covenant Helm
+DBCEAF96:Bracelet
+DBA262C4:Ring
+DC6560D9:Ring
+DC678B6A:Ring
+DBA262CE:Bracelet
+DC677869:Bracelet
+DC8D2242:Bracelet
+DC75D068:Bracelet
+DCA66326:Scroll of Flame Lure VI
+DCC17B8D:Heavy Bracelet
+DCDA5BEC:Baggy Breeches
+DCDE3C97:Antiquated Compass
+DB6E319E:Pack
+DD037961:Wide Breeches
+DD09CCEB:Coalesced Mana
+DB6D955D:Iron Scarab
+DB6E9786:Prismatic Taper
+DB83FBE2:Trade Note (10,000)
+DBCB08D4:Silver Scarab
+DBCC2C5C:Copper Scarab
+DBCB9ED4:Lead Scarab
+DBD1EB49:Aura of Heartseeker Self VI
+DB6E58B1:Sceptre
+DBE2ABDA:Skipping Stone
+DC6154FE:Kilif Zefir Sites
+DC771FE1:Letter to Bretself the Translator
+DC924AB4:Aura of Blood Drinker Self VI
+DCA194EC:A Large Mnemosyne
+DC712638:A Small Mnemosyne
+DCA2D301:Health Elixir
+DC678BC5:A Crumpled Letter
+DCA24448:Heavy Necklace
+DCA653BC:Health Tonic
+DC75BFF0:Wand
+DCA14904:Necklace
+DB6E9A8D:Trade Note (50,000)
+DCBD1E00:Ruminations and Warnings on Portal Creation
+DC1A6B3A:Trade Note (250,000)
+DB6E318E:Pack
+DD07CA43:Bracelet
+DBF8322C:Aphus Lassel Portal Gem
+DBF36647:Mana Potion
+DC15FB89:Massive Mana Charge
+DC1A1A15:Massive Mana Charge
+DC15F32F:Massive Mana Charge
+DC137D7C:Black Luster Pearl
+DC160360:Black Luster Pearl
+DC1A2080:Enhanced Mana Elixir
+DC1A1EB0:Black Market Gem of Dispelling
+DC1A2864:Enhanced Health Elixir
+DBDF1CE5:A Small Mnemosyne
+DBCDB6BC:Health Tincture
+DC1A58F4:Massive Mana Charge
+DC1A1A16:Massive Mana Charge
+DC1A58F3:Massive Mana Charge
+DC1A1ABB:Massive Mana Charge
+DCE12EDD:Stamina Tonic
+DCBE038B:Gem of Balance
+DC1A1ABA:Massive Mana Charge
+DBF17BA5:Massive Mana Charge
+DC123733:Massive Mana Charge
+DD02EE8B:Stipend
+DD03373E:Dusky Winged Coat
+DCF46D5C:Covenant Gauntlets
+DC0E752F:Renegade Herbal Kit
+DC161078:Renegade Herbal Kit
+DC1A68F9:Renegade Herbal Kit
+DC1A697A:Renegade Herbal Kit
+DC1A5D3B:Renegade Herbal Kit
+DC1A0EFE:Renegade Herbal Kit
+DC1A1962:Greater Stamina Kit
+DC16026D:Greater Stamina Kit
+DBD776E8:Greater Mana Kit
+DC160BA3:Greater Mana Kit
+DC1AC884:Renegade Herbal Kit
+DC1AC973:Greater Stamina Kit
+DC1AC768:Greater Mana Kit
+DC1B1ACC:Renegade Herbal Kit
+DC1A121A:Renegade Herbal Kit
+DD032CFF:Missing Mechanisms
+DD032CED:Untranslated Page #4
+DD0E4BD3:High Mana Charge
+DD0E53A5:High Mana Charge
+DD0FDEEA:High Mana Charge
+DD0FDEE8:High Mana Charge
+DC1AC73D:Colosseum Ticket
+DC1B1A72:Rage of Grael Gem
+DC15F36B:Licorice Rat
+DC2D435C:Aged Legendary Key
+DC2D435B:Small Olthoi Venom Sac
+DC2D45FB:Aged Legendary Key
+DC2A5BF3:Ornate Gear Marker
+DC15F37E:Chocolate Gromnie
+DC1605DD:Candy Corn
+DC6886A3:Sturdy Iron Key
+DC742523:Hot Pepper
+DC66D885:Orb
+DBD1F3EC:Flaming War Axe
+DC678826:Mana Tincture
+DCC35705:Black Stone
+DB6D826E:Foci of Artifice
+DCC1505A:A Tiny Mnemosyne
+DCB9B141:Dericost Ruin Key
+B3039D0D:Greater Mana Stone
+DBE298E9:Acid Ken
+DCA76E9D:Elysa's Wondrous Orb
+B3039D10:Greater Mana Stone
+DCF2371D:Studded Leather Boots
+DCE74B4A:Elysa's Favor
+DD106039:A List of Raiding Creatures
+DD07CB36:Stamina Brew
+
+Missing Exports - Possessed items that were not found:
+DD106092
+DD0D7B7F
+DD004126
+DCC06DA3
+DCBCF49F
+DCE9F8C8
+DCC35709
+DCBFB7CF
+811C6568
+DC92D84E
+DC924A5F
+DC8C4617
+DC8C463C
+DC8D4C54
+DBDF17E8
+DBCDB8E1
+DBCF3D3B
+DC54CA0B
+DBE1B935
+DBA8FC5F
+DBCDA808

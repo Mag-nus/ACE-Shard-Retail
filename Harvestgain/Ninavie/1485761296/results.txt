@@ -1,0 +1,103 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485761287_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-24_1485281394_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-28_1485597209_log.pcap
+
+Partial Exports - Missing appraisal info:
+811DD8F4:Foci of Verdancy
+811DD8FB:Ust
+811DD8F5:Foci of Artifice
+811DD8F6:Foci of Enchantment
+811DD8FA:Promise Gem
+811DD8F8:Silyun Portal Gem
+811DD911:Deed
+811DD8FC:Gem of Stillness
+811DD939:Wax
+811DD8FF:Chorizite
+811DD900:Diamond Scarab
+811DD901:Gold Scarab
+811DD902:Copper Scarab
+811DD903:Silver Scarab
+811DD904:Lead Scarab
+811DD905:Blackmoor's Favor
+811DD906:Asheron's Benediction
+811DD907:Platinum Scarab
+811DD908:Pyreal Scarab
+811DD90A:Sprouting Pumpkin Vine
+811DD90C:Prismatic Taper
+811DD90D:Wedding Ring
+811DD90F:Copper Pea
+811DD910:Hyssop
+811DD912:Prismatic Taper
+811DD913:Prismatic Taper
+811DD960:Smithy's Crystal
+811DD91E:Arcane Pedestal
+8A26E816:Deceiver's Crystal
+811DD95A:Knight's Crystal
+C798D62B:Adherent's Crystal
+811DD91C:Ursuin Rug
+811DD91D:A Horn of Vigilance
+811DD91F:A Horn of Vigilance
+811DD922:Ursuin Rug
+811DD95B:Mechanical Scarab
+811DD92E:Black Luster Pearl
+811DD92F:Crystal Nodule
+811DD930:Gem of Impulse
+811DD935:Banderling Bone Ring
+811DD936:Carved Gemstone Lockpicks
+811DD937:Carved Gemstone Lockpicks
+811DD938:K'nath Key
+811DD93B:Intricate Carving Tool
+811DD93C:Shoyanen's Portal Gem
+811DD93D:Invitation Ithaenc Cathedral
+C72C7372:Stipend
+811DD93E:Invitation Ithaenc Cathedral
+811DD93F:Invitation Ithaenc Cathedral
+811DD941:Queenslayer Title Token
+811DD940:Vissidal Island Portal Gem
+C75FBE45:Titan Mana Charge
+811DD950:Cracked Shard
+811DD955:Scroll of Light Weapon Mastery Self VII
+811DD95D:Facility Hub Portal Gem
+C767EC97:Pyreal
+811DD962:Agent of Arcanum List
+8A2953CA:Town Network Portal Gem
+8A23A844:Sturdy Steel Key
+811DD924:Diadem
+92E412FE:Mana Scarab
+811CE53A:Trade Note (250,000)
+C75D760C:Pack
+C7652B7A:Enduring Calm
+C7601177:Titan Mana Charge
+C76527B3:Titan Mana Charge
+C767EC96:Pyreal
+C7619058:Titan Mana Charge
+C7619113:Titan Mana Charge
+C767EC95:Pyreal
+C76527CE:Titan Mana Charge
+C76527EE:Titan Mana Charge
+C76527F5:Titan Mana Charge
+C75FD384:Titan Mana Charge
+C761910C:Titan Mana Charge
+C74DD183:Titan Mana Charge
+C76190DA:Titan Mana Charge
+C76190D8:Titan Mana Charge
+C76399D3:Titan Mana Charge
+C7652826:Titan Mana Charge
+C7652832:Titan Mana Charge
+C756EFA9:Mana Scarab
+B3DE37A3:Major Mana Stone
+C766CE32:Encapsulated Spirit
+C764E98E:Lightning Spectre Essence (50)
+C7651B8F:Scarlet Red Letter
+C793424E:Insatiable Eater Jaw
+C796634A:Voracious Hunter Plaque
+C78A8CC1:Trade Note (250,000)
+C7651B42:Scarlet Red Letter
+C764F7EE:Sturdy Iron Key
+C7663651:Trade Note (100,000)
+C78D6015:Voracious Eater Jaw
+
+Missing Exports - Possessed items that were not found:

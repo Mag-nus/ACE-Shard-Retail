@@ -1,0 +1,228 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485762539_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2\pkt_2017-1-29_1485708485_log.pcap
+
+Partial Exports - Missing appraisal info:
+805EEFB8:Foci of Artifice
+805EEFBC:Copper Scarab
+805EEFBB:Wedding Raiment
+805EEFBD:Silver Scarab
+805EEFBE:Gold Scarab
+805EEFBF:Platinum Scarab
+805EEFC0:Prismatic Taper
+805EEFC3:Peerless Lockpick
+805EEFC4:Sasalia's Dress
+805EEFC6:Suikan War Master Robe
+805EEFD0:Snowman Snowglobe
+805EEFC8:Bracelet
+805EEFC9:Wrapped Bundle of Arrowheads
+8D6496D0:Covenant Helm
+805EEFCD:Luminous Robe
+805EEFCE:Chalice
+805EEFD3:Virindi Shard
+81027B6F:Acid Moar Essence (50)
+81027BD9:Cabalist Charm Necklace
+805EEFE0:Peerless Lockpick
+805EEFD2:Heavy Bracelet
+805EEFD4:Adolescent Rust Gromnie Eye
+805EEFD5:Candeth Keep Stamp
+805EEFD6:Leather Girth
+805EEFD7:Clasp of the Heart
+805EEFD9:Ring of Enhancement
+805EEFDA:Robe of the Tundra
+805EEFDB:Kireth Gown with Band
+805EF024:Snowflower
+805EEFDC:Sasalia's Dress
+805EEFDD:Aphus Wading Pants
+805EEFDE:Aphus Lounging Shirt
+805EEFE1:Festival Shirt
+805EEFF5:Ust
+805EEFE4:Rage of Grael Gem
+805EEFE7:Broken Black Marrow Key
+805EEFE9:Mages Loop
+805EEFE8:Studded Leather Cuirass
+805EEFEA:Peerless Lockpick
+805EEFEB:Peerless Lockpick
+805EEFED:Shadow Fragment
+805EEFEE:Shadow Fragment
+805EEFEF:Dark Sliver
+805EEFF0:Shadow Fragment
+805EEFF1:Shadow Fragment
+805EEFF2:Scroll of Battlemage's Blessing
+805EEFF3:Saulandoi
+805EEFF4:Essence Flicker
+805EEFF7:Bloodletter Drudge Charm
+805EEFF8:Bloodletter Drudge Charm
+805EEFF9:Bloodletter Drudge Charm
+805EEFFA:Bloodletter Drudge Charm
+805EEFFB:Bloodletter Drudge Charm
+805EEFFC:Bloodletter Drudge Charm
+805EEFFD:Bloodletter Drudge Charm
+805EF000:Yellow Jewel
+805EF001:Yellow Jewel
+805EF003:Tiny Shard
+805EF004:Shadow Fragment
+8ED0DCC7:Scintillating Gem
+88F949CA:Dark Shard
+8ED5EB9F:Pyreal Nugget
+805EF006:Gem of Stillness
+805EF009:Reshalra's Collar
+805EF008:Daulan Faur
+805EF01F:Silk
+805EF00B:Silken Wrap
+805EF00C:Refulgent Bracelet
+805EF00D:Bracelet of Dark Essence
+805EF00F:Nuhmudira's Bestowment of Endurance
+805EF010:Tusker Spit
+805EF025:Soul Staff
+805EF014:Intricate Mukkir Orb
+805EF015:Fire Baton
+805EF019:Elysa's Favor
+805EF016:Frost Baton
+805EF018:Light Weapons Specialist's Gauntlets
+805EF042:Major Mana Stone
+805EF01B:Alduressa Boots
+805EF4C6:Jaleh's Chain Shirt
+805EF027:Noodle Cutter
+805EF098:Pants
+805EF097:Smock
+805EF043:Major Mana Stone
+805EF07E:Jerkin
+8102740E:Studded Leather Girth
+81027B6C:K'nath Lair Portal
+805EF8E2:Orb
+805EF8E4:Heavy Bracelet
+805EF021:Heart of the Innocent
+81027B71:Lightning Skeleton Minion Essence (50)
+81027B6E:Acid Skeleton Minion Essence (50)
+805EF020:Aerfalle's Pallium
+805EF026:Whittling Knife
+805EF028:Insidious Monouga Idol
+805EF029:Gem of Stillness
+805EF02A:Gem of Stillness
+805EF02B:Pyreal Pea
+805EF02C:Gold Pea
+805EF02D:Silver Pea
+805EF02E:Copper Pea
+805EF030:Heavy Bracelet
+805EF031:Untamed Siraluun Claw
+805EF032:Untamed Siraluun Claw
+805EF033:Strand Siraluun Claw
+805EF034:Untamed Siraluun Claw
+805EF035:Golden Gromnie
+805EF036:Frost Sceptre
+805EF037:Acid Sceptre
+805EF038:Gem of Mana Management
+805EF03A:Broad Sword
+805EF039:Ultramarine Pigmentation Apparatus
+805EF03B:Covenant Pauldrons
+805EF00A:Diamond Scarab
+805EF040:Asheron's Benediction
+805EF041:Blackmoor's Favor
+805EF044:Renegade Pendant
+805EF04E:Frost Shamshir
+805EF051:Shadow Stone Necklace
+805EF052:Broad Sword
+805EF053:Flaming Long Sword
+805EF054:Flaming Mace
+805EF056:Spiked Club
+805EF05D:Frost Sceptre
+805EF05B:Board with Nail
+805EF05C:Blunt Baton
+805EF05E:Frost Sceptre
+AE7625C2:Facility Hub Portal Gem
+805EF011:Trade Note (250,000)
+805EF012:Trade Note (100,000)
+80E39C7E:Orange Monster Seed
+805EF013:Trade Note (75,000)
+80FCF800:Red Monster Seed
+80F96014:Yellow Monster Seed
+81027BBD:Bloodletter Drudge Charm
+81027BB1:Bloodletter Drudge Charm
+81027BDB:Peerless Drudge Charm Necklace
+81027BDA:Bloodletter Charm Necklace
+AE5A2D8C:Hunter's Crystal
+AE6D6B16:Eviscerator Head
+805EF065:Lightning War Hammer
+805EF066:Elixir of Autumn
+805EF070:Crimped Hat
+805EF067:Elixir of Winter
+805EF06C:Heavy Bracelet
+81027B79:Pack Grael
+805EF06D:Tessera Gown
+805EF06E:Elixir of Spring
+C83C1F1C:Stipend
+805EF06F:Covenant Helm
+805EF071:Wand
+805EF072:Frost Ono
+805EF073:Salvaged  (100)
+805EF074:Salvaged  (100)
+805EF075:Salvaged  (100)
+805EF076:Salvaged  (100)
+805EF077:Salvaged  (100)
+805EF078:Salvaged  (100)
+805EF079:Salvaged  (100)
+805EF07A:Salvaged  (100)
+805EF07B:Salvaged  (100)
+805EF07C:Slashing Baton
+805EF080:Fire Baton
+805EF081:Electric Sceptre
+805EF082:Acid Baton
+805EF086:Platinum Golem Heart
+805EF083:Frost Baton
+805EF084:Electric Baton
+805EF08D:Long Sword
+805EF094:Takuba
+805EF09C:Fire Sceptre
+805EF09E:Blunt Sceptre
+805EF0A2:Ring of Intellect
+805EF0A3:Acid Baton
+805EF0B3:Some Changes for February 2012
+805EF0AD:Chalice
+805EF0AE:Heavy Bracelet
+805EF0B0:Yoroi Pauldrons
+805EF0B2:Hatchet
+805EF0B8:Silifi
+805EF0B5:Flaming Battle Axe
+AE6B3BEB:Halved Cloak
+805EF00E:War Hammer
+81027B5F:Bracelet
+81027B60:Ring
+81027B6A:Bracelet
+81027B6B:Heavy Bracelet
+81027410:Lightning Jo
+81027411:Quarter Staff
+81027BE0:Acid Spiked Club
+81027BDF:Mazule
+81027BBF:Staff
+805EF899:Sceptre
+81027B66:Nether Sceptre
+81027B8F:Electric Sceptre
+81027B80:Frost Sceptre
+81027B7E:Piercing Sceptre
+81027B82:Slashing Sceptre
+81027B87:Frost Baton
+81027B84:Fire Sceptre
+81027B85:Blunt Baton
+81027B9D:Salvaged  (100)
+81027B9E:Salvaged  (100)
+81027B9F:Salvaged  (100)
+81027BA0:Salvaged  (100)
+81027BA5:Salvaged  (100)
+81027BA8:Salvaged  (100)
+81027BA9:Salvaged  (100)
+81027BAB:Salvaged  (100)
+81027BA4:Salvaged  (100)
+81027BAA:Salvaged  (100)
+81027BA6:Salvaged  (100)
+81027BA7:Salvaged  (100)
+81027BAD:Salvaged  (100)
+81027BA3:Salvaged  (100)
+81027BAF:Salvaged  (100)
+81027BAE:Salvaged  (100)
+81027BA1:Salvaged  (100)
+81027BA2:Salvaged  (100)
+
+Missing Exports - Possessed items that were not found:

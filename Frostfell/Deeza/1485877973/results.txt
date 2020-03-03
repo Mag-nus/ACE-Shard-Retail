@@ -1,0 +1,103 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\FinalDayOfRunningAroundAndEndingInAsheronsCastle\FinalDayOfRunningAroundAndEndingInAsheronsCastle\pkt_2017-1-31_1485871996_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\RunningFromNorthernTipToSouthernTipOfDereth\RunningFromNorthernTipToSouthernTipOfDereth\pkt_2017-1-30_1485825189_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\RunningFromNorthernTipToSouthernTipOfDereth\RunningFromNorthernTipToSouthernTipOfDereth\pkt_2017-1-30_1485835276_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\RunningFromNorthernTipToSouthernTipOfDereth\RunningFromNorthernTipToSouthernTipOfDereth\pkt_2017-1-31_1485842474_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\FinalDayOfRunningAroundAndEndingInAsheronsCastle\FinalDayOfRunningAroundAndEndingInAsheronsCastle\pkt_2017-1-31_1485871996_log.pcap
+
+Partial Exports - Missing appraisal info:
+BB379171:Iron Scarab
+BB3847B3:Lead Scarab
+BB384B2C:Diamond Scarab
+BB384DEB:Pyreal Scarab
+BB2E7B70:Heart of the Innocent
+BB384EE0:Copper Scarab
+BB383FCE:Pyreal Scarab
+BB2BC51E:Platinum Scarab
+BADEC5E9:Gold Scarab
+BB1BC349:Mana Scarab
+BB385400:Hyssop
+BB3839FB:Encapsulated Spirit
+BB43A1EB:Pyreal Pea
+BB1322D2:Silver Pea
+BB0C2780:Gold Pea
+BB3EF4C4:Ink of Conveyance
+BB22EB7A:Ink of Partition
+BB38477E:Ink of Formation
+BB384A49:Alacritous Ink
+DCF3E51E:Treated Healing Kit
+BB43A1EC:Foci of Enchantment
+BB271ECF:Platinum Spirits
+BB3842BA:Monouga Laboratory Portal Attunement Gem
+BB384CB3:Aphus Lassel Portal Gem
+BB22E2C9:Vissidal Island Portal Gem
+BB208D81:Scroll of Raven Fury
+BB38424B:Celdiseth's Portal Gem
+BB38B70B:Dark Monolith Caverns
+BB385E1A:Town Network Portal Gem
+BB384403:Linvak Tukal Portal Gem
+BB385992:Spirit of Izexi Gem
+DBA5F3A1:Trade Note (250,000)
+BB384305:Trade Note (250,000)
+BB383CAF:Trade Note (250,000)
+BB38442F:Trade Note (250,000)
+BB38511C:Trade Note (250,000)
+BB385929:Massive Mana Charge
+BB2BD6D0:Trade Note (250,000)
+BB0C4102:Trade Note (250,000)
+BB3843F4:Massive Mana Charge
+B2657E9E:Trade Note (250,000)
+BB3786AE:Trade Note (250,000)
+BB060B46:Massive Mana Charge
+BB42289F:Massive Mana Charge
+BB378DA0:Massive Mana Charge
+BB3856C0:Massive Mana Charge
+BB384892:Massive Mana Charge
+BB3EF3D2:Prismatic Taper
+BAD78895:Foci of Artifice
+BB230029:Foci of Verdancy
+BB2BBB7B:Scroll of Raven Fury
+BB0E7AB9:Scroll of Raven Fury
+BB3B6DF1:Scroll of Raven Fury
+BB3B6CF2:Radiant Blood Trade Token
+BB243A87:Ancient Falatacot Trinket
+BB2BBE31:Promissory Note
+BB262AA8:Colosseum Coin
+D9EA28EF:Dire Champion Token
+DD2907D3:Ancient Empyrean Trinket
+BB3847F1:Aetheria Mana Stone
+BB403BA5:Aetheria
+BB384610:Aetheria
+BB36394F:Aetheria
+BB385E8E:Jack of Hands
+BB38562B:Empyrean Robe
+BAFD8A8A:Sceptre
+BB3838F6:Heavy Necklace
+BB38516F:Heavy Bracelet
+D9EFB103:Pyreal Mote
+BB3849D0:Yoroi Tassets
+BAF0D802:Soul Bound Bow
+BB3EF2A6:Yoroi Greaves
+BB384E3C:Sollerets
+BB26297E:Yoroi Breastplate
+BB385602:Yoroi Pauldrons
+BB22F8CF:Kote
+BB0606AE:Chainmail Gauntlets
+BB384C85:Enhanced Red Empyrean Ring
+BB245130:Heavy Bracelet
+BB3844DF:Baggy Pants
+BB383ECE:Flared Shirt
+BB384BD0:Quartered Cloak
+BB385E31:Gorget
+BB38495A:Compass
+DD251D96:Exquisite Casino Key
+BB4228B3:Heavy Bracelet
+BB22FB64:Ring
+BB3EF0B0:Blunt Bow
+DD252305:High-Stakes Gambling Token
+BB3846EB:Focusing Stone
+DCF4D704:Deadly Prismatic Arrow
+
+Missing Exports - Possessed items that were not found:

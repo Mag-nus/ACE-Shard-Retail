@@ -1,0 +1,56 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Blade_Random_Travels_and_Faction_Quests\pkt_2017-1-25_1485375180_log.pcap
+
+Partial Exports - Missing appraisal info:
+ABA76B2E:Cloth Cap
+ABA76AEF:Baggy Shirt
+ABA76734:Trousers
+ABA76B44:Leather Boots
+ABA77599:Bread
+ABA712CA:Sack
+ABA77702:Wormwood
+ABAB6230:Hyssop
+ABA777C3:Violet Taper
+ABA709E5:Saffron
+ABAA9664:Mandrake
+ABA53103:Comfrey
+ABA36CFF:Mugwort
+ABA8B1F0:Healing Tonic
+ABA76D6F:Hawthorn
+ABA76D63:Dragonsblood
+ABA51FF7:Worcer's Key
+ABA76D99:Pyreal
+ABA76D83:Brimstone-cap Mushroom
+ABA76AC0:Cheese
+ABA76DC9:Apple
+ABA77779:Fire Auroch Meat
+ABA7770C:Parchment
+ABA76E0B:Parchment
+ABAB8B1D:Grapes
+ABA777BC:Egg
+ABA777F0:Adept Healing Kit
+ABAB8B1B:Handy Healing Kit
+ABA76E0E:Gifted Healing Kit
+ABA6BD89:Gifted Healing Kit
+ABA76DE5:Gifted Healing Kit
+ABA76DE1:Gifted Healing Kit
+ABA777A7:Frog Crotch Arrow
+ABA76DE7:Flaming Dagger
+ABA76DEE:Pack
+ABA76E4F:Bistort
+ABA76DCA:Frankincense
+ABA66DEE:Eyebright
+ABA7CB5E:Henbane
+ABAB6319:Short Sword
+ABA76DF1:Damiana
+ABA76E15:Knife
+ABA70AAD:Throwing Dagger
+ABA7781C:White Rat Tail
+ABA76DB3:Pantaloons
+ABA76DD7:Cap
+ABA76DDF:Doublet
+ABA6B72F:Blackmoor's Favor
+ABA76E44:Acid Dagger
+ABA7780D:Teleportation Device
+
+Missing Exports - Possessed items that were not found:

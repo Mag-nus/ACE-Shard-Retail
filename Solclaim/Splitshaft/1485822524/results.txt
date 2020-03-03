@@ -1,0 +1,20 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-PCAP-Absolutely-Random-Gameplay\AC-pcap\pkt_2017-1-30_1485822424_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-PCAP-Absolutely-Random-Gameplay\AC-pcap\pkt_2017-1-30_1485818240_log.pcap
+
+Partial Exports - Missing appraisal info:
+8AB78864:Foci of Verdancy
+8BF2CE5B:Titan Mana Charge
+8AC873A4:Pack
+8A5DB811:Platinum Scarab
+8B283091:Copper Scarab
+8B24E26A:Silver Scarab
+8B282F2F:Gold Scarab
+8B282E42:Pyreal Scarab
+8BB4B23A:Prismatic Taper
+8BF38FA3:Titan Mana Charge
+8BF37A40:Titan Mana Charge
+
+Missing Exports - Possessed items that were not found:

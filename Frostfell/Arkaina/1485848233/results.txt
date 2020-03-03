@@ -1,0 +1,165 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Cyberkiller-01-31-2017-Random\pkt_2017-1-31_1485848223_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Cyberkiller-01-31-2017-Random\pkt_2017-1-31_1485841890_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Cyberkiller-01-31-2017-Random\pkt_2017-1-31_1485843595_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Cyberkiller2-01-31-2017-Random-Direlands-Spawns\pkt_2017-1-31_1485840486_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Cyberkiller2-01-31-2017-Random-Direlands-Spawns\pkt_2017-1-31_1485863288_log.pcap
+
+Partial Exports - Missing appraisal info:
+803DA574:Diamond Scarab
+803DA575:Lead Scarab
+803DA576:Iron Scarab
+803DA577:Silver Scarab
+803DA578:Chorizite
+803DA579:Pyreal Scarab
+803DA57A:Gold Scarab
+803DA57B:Diamond Scarab
+803DA57C:Platinum Scarab
+803DA581:Platinum Scarab
+803DA582:Celestial Hand Trade Token
+803DA583:Celestial Hand Commendation Ribbon
+803DA584:Ornate Gear Marker
+803DA586:Pyre Shroud
+803DA585:A'nekshay Token
+803DA587:Mhoire Signet Ring
+803DA588:Mana Scarab
+803DA589:Celestial Hand Trade Token
+803DA58A:Prismatic Taper
+803DA58E:Falatacot Battle Report
+803DA58F:Invoking Stone
+803DA590:Polar Ursuin Lair
+803DA591:Bronze Gearknight Gear
+803DA592:Baby Drudge Crate
+803DA594:Magic Hat
+803DA595:Blighted Mana Crystal
+803DA596:Exhumed Bones
+803DA597:Blight-encrusted Black Coral
+803DA598:Black Coral
+803DA599:Mana-Infused Jungle Flower
+803DA59A:Ust
+803DA5A1:Unstable Mana Stone
+803DA5A4:Promissory Note
+803DA5A7:Ancient Mhoire Coin
+803DA5A9:Elemental Talisman
+803DA5AA:Celestial Hand Trade Token
+803DA5AB:White Empyrean Ring
+803DA5AC:Small Olthoi Venom Sac
+803DA5AF:Celestial Hand Armor Writ
+803DA5B0:Colosseum Coin
+803DA5B1:Celestial Hand Trade Token
+803DA5B2:Celestial Hand Trade Token
+803DA5B3:Celestial Hand Commendation Ribbon
+803DA5B4:Dire Champion Token
+803DA5B5:Adventurer's Token
+803DA5B6:Celestial Hand Trade Token
+803DA5B8:Celestial Hand Trade Token
+803DA5B9:Yellow Empyrean Ring
+803DA5BA:Celestial Hand Commendation Ribbon
+803DA5BB:Celestial Hand Trade Token
+803DA6B0:Blank Augmentation Gem
+803DA5C0:Peerless Lockpick
+803DA5C1:Pack
+803DA5C2:Glissnal Sleech Shell
+803DA5C3:Glissnal Sleech Shell
+803DA5C4:Glissnal Sleech Shell
+803DA5C5:Glissnal Sleech Shell
+803DA5C6:Degenerate Shadow Essence
+803DA5C7:Degenerate Shadow Essence
+803DA5C8:Degenerate Shadow Essence
+803DA5C9:Degenerate Shadow Essence
+803DA5CA:Corrupted Essence
+803DA5CB:Dark Remoran Fin
+803DA5CC:Aerbax Mask Shard
+803DA5CD:Aerbax Mask Shard
+803DA5CE:Aerbax Mask Shard
+803DA5CF:Aerbax Mask Shard
+803DA5D1:Titan Mana Charge
+803DA5D2:Blank Augmentation Gem
+803DA5D3:Blank Augmentation Gem
+803DA5D4:Blank Augmentation Gem
+803DA6B2:Blank Augmentation Gem
+803DA5E1:Major Mana Stone
+803DA5E3:Major Mana Stone
+803DA5E8:Major Mana Stone
+803DA5EB:Halved Cloak
+803DA5EC:Pantaloons
+803DA5ED:Major Mana Stone
+803DA5EE:Quartered Cloak
+803DA5F1:Encapsulated Spirit
+803DA5F3:Pack
+803DA5F4:Ornate Bone Key
+803DA5F5:Ornate Bone Key
+803DA5F6:Ornate Bone Key
+803DA5F7:Ornate Bone Key
+803DA5F8:Ornate Bone Key
+803DA5F9:Ornate Bone Key
+803DA5FA:Ornate Bone Key
+803DA5FB:Ornate Bone Key
+803DA5FC:Ornate Bone Key
+803DA5FD:Ornate Bone Key
+803DA5FE:Titan Mana Charge
+803DA5FF:Titan Mana Charge
+803DA600:Major Mana Stone
+803DA601:Major Mana Stone
+803DA602:Major Mana Stone
+803DA603:Major Mana Stone
+803DA604:Major Mana Stone
+803DA605:Major Mana Stone
+803DA606:Major Mana Stone
+803DA607:Mana Scarab
+803DA60B:Copper Scarab
+803DA610:Titan Mana Charge
+803DA611:Titan Mana Charge
+803DA612:Titan Mana Charge
+803DA613:Titan Mana Charge
+803DA614:Titan Mana Charge
+803DA615:Titan Mana Charge
+803DA616:Titan Mana Charge
+803DA618:Massive Mana Charge
+803DA619:Massive Mana Charge
+803DA61A:Peerless Lockpick
+803DA61B:Superb Lockpick
+803DA61C:Peerless Lockpick
+803DA61D:Peerless Lockpick
+803DA61E:Peerless Lockpick
+803DA61F:Peerless Lockpick
+803DA620:Superb Lockpick
+803DA621:Major Mana Stone
+803DA622:Major Mana Stone
+803DA623:Major Mana Stone
+803DA624:Major Mana Stone
+803DA625:Major Mana Stone
+803DA626:Major Mana Stone
+803DA627:Major Mana Stone
+803DA629:Pack
+803DA642:Finger Bone of Mishfain
+803DA65B:Ancient Journal
+803DA66F:Stipend
+803DA651:Intricate Carving Tool
+803DA661:Aetheria
+803DA662:Salvage (42)
+803DA664:Aetheria
+803DA666:Aetheria
+803DA667:Lord Cynreft Mhoire's Signet Ring
+803DA668:Lord Cynreft's Ancient Emblem of Mhoire
+803DA66A:Trade Note (250,000)
+803DA66C:Salvage (28)
+803DA66D:Salvage (16)
+803DA6AC:Blank Augmentation Gem
+803DA670:Encapsulated Spirit
+803DA672:Ancient Mhoire Coin
+803DA6AE:Upper Insatiable Eater Jaw
+803DA6B1:Upper Insatiable Eater Jaw
+803DA67D:Trimmed Cloak
+803DA681:Aetheria
+803DA684:Aetheria
+803DA688:Trade Note (250,000)
+803DA690:Chevron Cloak
+803DA6A2:Halved Cloak
+803DA6A6:Glowing Moar Gland
+803DA6A7:Glowing Moar Gland
+803DA6B4:Writ of Refuge
+
+Missing Exports - Possessed items that were not found:

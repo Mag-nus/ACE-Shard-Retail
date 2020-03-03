@@ -1,0 +1,209 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\randompktlogs\pkt_2017-1-30_1485833480_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\randompktlogs\pkt_2017-1-19_1484876906_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\randompktlogs\pkt_2017-1-19_1484877073_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\randompktlogs\pkt_2017-1-19_1484877244_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\randompktlogs\pkt_2017-1-30_1485833480_log.pcap
+
+Partial Exports - Missing appraisal info:
+8780FCF5:Sack
+8780FCF6:Ust
+8780FCF8:Lesser Mana Stone
+8780FCF7:Blackmoor's Favor
+8780FCF9:Peppermint Stick
+8780FCFA:A Tale of Paths
+8780FCFB:Stamina Elixir
+8780FCFC:Monougat
+8780FCFD:Brown Beans
+8780FCFE:Lesser Mana Stone
+8780FCFF:Journal of Frest Greelving
+8780FD00:Slippers
+8780FD01:Gold Phyntos Wasp Wing
+8780FD02:A Crumpled Letter
+8780FD03:Inscribed Purple Gem
+8780FD04:Sturdy Iron Key
+8780FD05:Copper Heart
+8780FD06:Doublet
+8780FD07:Acid Assagai
+8780FD08:Salvage (100)
+8780FD0A:Lucky Gold Letter
+8780FD09:Heavy Bracelet
+8780FD0C:Trade Note (10,000)
+8780FD0D:Excellent Healing Kit
+8780FD0E:Foci of Artifice
+8780FD0F:Pack
+8780FD10:Iron Scarab
+8780FD11:Prismatic Taper
+8780FD12:Lead Scarab
+8780FD13:Sturdy Iron Key
+8780FD14:Sturdy Iron Key
+8780FD15:Trade Note (1,000)
+8780FD16:Copper Scarab
+8780FD17:Trade Note (50,000)
+8780FD18:Pyreal
+8780FD19:Ancient Shard of Metal
+8780FD1A:Tusker Spit
+8780FD1D:Goblet
+8780FD1E:Bunch of Nanners
+8780FD1F:General History of Dereth Vol. I
+8780FD20:General History of Dereth Vol. II
+8780FD21:Lead Pea
+8780FD22:Major Mana Stone
+8780FD23:Major Mana Stone
+8780FD24:Major Mana Stone
+8780FD25:Nodachi
+8780FD26:Quadrelle
+8780FD27:Greataxe
+8780FD28:Pack
+8780FD29:Alloy Tool
+8780FD2A:Banderling Scalp
+8780FD2B:Banderling Scalp
+8780FD2C:Banderling Scalp
+8780FD2D:Banderling Scalp
+8780FD2E:Banderling Scalp
+8780FD2F:Gifted Healing Kit
+8780FD31:General History of Dereth Vol. III
+8780FD32:General History of Dereth Vol. IV
+8780FD33:General History of Dereth Vol. V
+8780FD34:General History of Dereth Vol. VI
+8780FD35:General History of Dereth Vol. VII
+8780FD36:General History of Dereth Vol. VIII
+8780FD37:General History of Dereth Vol. IX
+8780FD38:General History of Dereth Vol. X
+8780FD39:Hammer of Lightning 
+8780FD3A:Sturdy Iron Key
+8780FD3C:Mid-Stakes Gambling Token
+8780FD3D:Te Ven's Key
+8780FD3E:Peerless Healing Kit
+8780FD3F:Salvage (4)
+8780FD40:Pack
+8780FD41:Hot Pepper
+8780FD42:Pathwarden Trinket
+8780FD43:Mana Potion
+8780FD44:Scroll of Avalenne's Blessing
+8780FD45:Shoes
+8780FD46:Yanshi Town Stamp
+8780FD47:Pragmatic Guide to Atlan Weapons
+8780FD48:Isparian Arms
+8780FD49:Teleportation Device
+8780FD4A:Al Arqas Town Stamp
+8780FD4B:Teleportation Device
+8780FD4C:Key from Aleval
+8780FD4D:Teleportation Device
+8780FD4E:Key from Aleval
+8780FD4F:Key from Aleval
+8780FD50:Teleportation Device
+8780FD52:Major Mana Stone
+8780FD53:Key from Aleval
+8780FD54:Lytelthorpe Town Stamp
+8780FD55:Distillery Ambrosia
+8780FD56:Salvage (3)
+8780FD57:Pack
+8780FD58:Seasoned Explorer Greataxe
+8780FD59:Lightning Moar Essence (50)
+8780FD5A:The Hundred Trackless Paths
+8780FD6D:Drudge Charm
+8780FD5B:Samsur Town Stamp
+8780FD5C:Nanto Town Stamp
+8780FD5D:Facility Hub Portal Gem
+8780FD5E:Mana Draught
+8780FD5F:Mana Tincture
+8780FD60:Scroll of Missile Weapon Mastery Self V
+8780FD62:Pathwarden Gauntlets
+8780FD63:Ring
+8780FD64:Shoes
+8780FD65:Axe Head Helm
+8780FD66:Baron's Amulet of Life Giving
+8780FD67:Silver Pea
+8780FD69:Glittering Bracelet of Acid Protection
+8780FD6A:Bracelet
+8780FD6B:Lucky Gold Letter
+8780FD6C:Pack
+8780FD6E:Little Green Seeds
+8780FD6F:Ginger Bread Lugian
+8780FD70:Distillery Nectar
+8780FD71:Lucky Gold Letter
+8780FD74:Baggy Pants
+8780FD72:Platemail Hauberk of the Ogre
+8780FD73:Loose Shirt
+8780FD75:Pathwarden Yoroi Leggings
+8780FD76:Peerless Healing Kit
+8780FD77:Ring
+8780FD78:Lightning Nodachi
+8780FD79:Copper Pea
+8780FD7B:Peerless Healing Kit
+8780FD7C:Lucky Gold Letter
+8780FD7E:Tetsubo
+8780FD7F:Frost Assagai
+8780FD80:Stamina Brew
+8780FD81:Lucky Gold Letter
+8780FD82:Frost Corsesca
+8780FD95:Sturdy Iron Key
+C5FE162F:Fresh Zombie Head
+8780FD96:Sturdy Iron Key
+8780FD97:Iron Pea
+8780FD98:Heavy Necklace
+8780FD99:Sturdy Iron Key
+8780FD9A:Salvage (5)
+8780FD9B:Ring
+8780FD9C:Salvage (3)
+8780FD9D:Salvage (3)
+8780FDB0:Sturdy Iron Key
+8780FD9E:Salvage (3)
+8780FD9F:Salvage (6)
+C5FD9115:Skeletal Atlatl
+8780FDA0:Salvage (14)
+8780FDA2:Flaming Magari Yari
+C5FE162E:Fresh Zombie Torso
+8780FDAC:Alduressa Helm
+C5FD91EB:Shore Armoredillo Spine
+C5FE162C:Fresh Zombie Arm
+C5FD93C2:Shore Armoredillo Spine
+C5FEA552:Blighted Mana Crystal
+C5FEDDB5:Dark Speck
+C5FEDDB9:Dark Sliver
+C617C11D:Fishing Made Easy
+8780FD3B:Rithwic Town Stamp
+C619C04C:Hand Wraps
+8780FD68:Excellent Healing Kit
+C6230A5E:Gifted Healing Kit
+8780FD1C:Branith's Staff
+C6260134:Gold Tumerok Insignia
+8780FD1B:Frost Assagai
+8780FD7A:Tetsubo Slugger
+C6251851:Sharp Tusker Slave Tusk
+C61F4E1A:Potion of Healing
+C6248EA3:Excellent Healing Kit
+C6266B29:Sharp Tusker Slave Tusk
+C625DACF:Excellent Healing Kit
+C625F3E0:Peerless Healing Kit
+C625F6FA:Mana Tonic
+8780FDA5:Alchemist's Crystal
+C62640CD:Peerless Healing Kit
+8780FDA6:Life Giver's Crystal
+8780FDA7:Thorsten's Crystal
+8780FDA8:Monarch's Crystal
+8780FDA9:Dodger's Crystal
+C6237905:Puzzle Box
+8780FDAB:Studded Leather Boots
+C624E61D:Peerless Healing Kit
+C6228F1F:Aphus Lassel Portal Gem
+C6228597:Aphus Lassel Portal Gem
+C6258562:Olthoi Head
+C6266A42:Trade Note (50,000)
+C6266A30:A Bracelet of Piercing Protection
+C6266A23:Treated Healing Kit
+C6266A25:Treated Healing Kit
+C6266A60:Glittering Necklace of Acid and Piercing Protection
+C6266A48:Trade Note (75,000)
+C6266A5A:Treated Healing Kit
+C6247D60:Treated Healing Kit
+C6266A54:Gem of Purity
+C62E565C:Aphus Lassel Portal Gem
+C627C233:Aphus Lassel Portal Gem
+C62E56F5:Aphus Lassel Portal Gem
+C62E5718:Aphus Lassel Portal Gem
+
+Missing Exports - Possessed items that were not found:

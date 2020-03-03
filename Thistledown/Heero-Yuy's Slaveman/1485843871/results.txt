@@ -1,0 +1,60 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485843573_log.pcap
+
+Partial Exports - Missing appraisal info:
+ABC5EE1B:Pyreal
+ABC522EA:Scroll of Heal Other III
+ABC61CAB:Scroll of Enfeeble Other III
+ABC5236D:Scroll of Arcane Benightedness III
+ABC522EB:Axe Glyph
+ABC61C4E:Bone Handle
+ABC52345:Large Lugian Sinew
+ABC52336:Large Lugian Sinew
+ABC522FC:Large Lugian Sinew
+ABC5EE1A:Large Lugian Sinew
+ABC522A2:Large Lugian Sinew
+ABC522C2:Large Lugian Sinew
+ABC61C4D:Seal
+ABC52322:Brown Beans
+ABC5EE22:Brief Letter
+ABC61C4C:Blue Gem
+ABC5237C:Blue Gem
+ABC522ED:Amulet
+ABC5234F:Sandals
+ABC522C0:Ring
+ABC014F6:Ring
+ABC5EE1F:Heavy Necklace
+ABC522CB:Shirt
+ABC013F7:Shirt
+ABC522E8:Broken Sigil
+ABC52319:Aerlinthe Monarch Shirt
+ABC5233E:Bracelet
+ABC522D1:Shadow Missive
+ABC522D2:Necklace
+ABC61D6A:Dagger
+ABC52381:Dagger
+ABC522EE:Frost Dagger
+ABC5233A:Frost Takuba
+ABC522E0:Heavy Necklace
+ABC52271:Alembic
+ABC61CBE:Gloves
+ABC522EC:Sandals
+ABC52396:Ursuin Hide Coat
+ABC522B3:Frost Silifi
+ABC5234D:Cap
+ABC5233F:Quicksilver
+ABC52311:Aqua Incanta
+ABC52364:Turpeth
+ABC52315:Bracelet
+ABC52342:Fire Infusion
+ABC61CBD:Takuba
+ABC4E0C0:Heavy Bracelet
+ABC52316:Platemail Vambraces
+ABC61CC4:Large Round Shield
+ABC5EE1E:Pack Burun Kukuur
+ABC5EE19:Scalemail Cuirass
+ABC522D4:Chainmail Hauberk
+ABC522AA:Some Changes for February 2012
+ABC522E6:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

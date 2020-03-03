@@ -1,0 +1,51 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-30_1485809905_log.pcap
+
+Partial Exports - Missing appraisal info:
+DD173504:Pack
+DD15ADDB:Foolproof
+DD09DE4B:Foolproof
+DD1735BA:Foolproof
+DD15AE0C:Massive Mana Charge
+DD15B1C8:Massive Mana Charge
+DD15AE08:Massive Mana Charge
+DD1737B1:Massive Mana Charge
+DD15AE0A:Massive Mana Charge
+DD15B120:Massive Mana Charge
+DD15ADFC:Massive Mana Charge
+DD173733:Massive Mana Charge
+DD173979:Silver Pea
+DD1737BD:Verdalim Plant
+DD173984:Colban Plant
+DD174CF9:Massive Mana Charge
+DD175425:Massive Mana Charge
+DD17542A:Massive Mana Charge
+DD15AECE:Massive Mana Charge
+DD15B06F:Massive Mana Charge
+DD15B11D:Massive Mana Charge
+DD15B217:Massive Mana Charge
+DD15B11B:Pack
+DD15B218:Pack
+DD15B1A5:Prismatic Taper
+DCEF9F48:Trade Note (10,000)
+DD157881:Copper Scarab
+DD1739F6:Trade Note (250,000)
+DD15B1A4:Gold Scarab
+DD15B1A3:Pyreal Scarab
+DD15B1AB:Treated Healing Kit
+DD15B1A9:Prismatic Taper
+DD17373B:Treated Healing Kit
+DD15AE65:Empyrean Sun Stone
+DD173A0B:Mana Scarab
+DCD4DFAE:Cooking Pot
+DD15B1C6:Cooking Pot
+DD15B1B9:Decanter of Essence
+DD15AFE4:Major Item Tinkering Armature
+DD1640C2:Minor Item Tinkering Armature
+DD15B1CE:Foci of Enchantment
+DD15B1CF:Deck of Eyes
+DD15B1D2:Moderate Item Tinkering Armature
+DD0EA2C7:Major Item Tinkering Armature
+DD0EAB3F:Some Changes for February 2012
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,85 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-20_1484970274_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-21_1485019831_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-21_1485023279_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-21_1485052145_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-22_1485100148_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-22_1485100148_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-22_1485101100_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-22_1485101100_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-22_1485101100_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-22_1485105380_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-22_1485105380_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-22_1485105380_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-22_1485105380_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-22_1485105380_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-22_1485130223_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-22_1485130223_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-22_1485130223_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-23_1485219811_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-23_1485219811_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-23_1485221247_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-23_1485221286_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-23_1485221286_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-24_1485300572_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-25_1485320434_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-25_1485403696_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-26_1485409328_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-26_1485478645_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-27_1485524458_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-29_1485749092_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-29_1485749092_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-29_1485749092_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-30_1485825107_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-30_1485828125_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-30_1485835732_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-20_1484950645_log.pcap
+
+Partial Exports - Missing appraisal info:
+A4CF6769:Peerless Lockpick
+A4D497C4:Diamond Heart
+A4D692AF:Sturdy Iron Key
+A4D466CE:Sturdy Iron Key
+A4D6A367:Sturdy Iron Key
+A4D56230:Great Mana Charge
+AB3EBE56:Celdiseth's Portal Gem
+AB5D9E35:First Half of a Worn Spear
+A4D6A9D9:Chorizite
+AB3CEA93:Health Elixir
+AB4C548B:Halaetan Magic Page 6
+AB5C69F3:Sturdy Iron Key
+AB63E42F:Superb Mana Charge
+AB639FF6:Halaetan Magic Page 6
+A4D462EE:A Large Mnemosyne
+A4CE6E0F:Great Mana Charge
+A4D454B3:Ruined Amulet of Light Weapons
+A4D50E0B:Parchment
+A4D6A906:Ruined Amulet of Light Weapons
+A4D56242:Great Mana Charge
+A4D5623D:A Large Mnemosyne
+A4D498BC:Splitting Tool
+A4D6993B:Heavy Bracelet
+AB3C1D69:Stamina Brew
+AB3C11EA:Lucky Gold Letter
+AB3CD47F:Signet Crown
+AB3EBE8A:Town Network Portal Gem
+A4D6A361:Loose Pants
+AB49F222:Scroll of Unflinching Persistence
+AB629DC1:Letter to Renald the Eldest, from Larinne Kerendova
+AB61ED3B:Prismatic Taper
+AB61F607:Rithwic Portal Gem
+AB621878:Prismatic Taper
+AB58000D:Scroll of Anemia
+AB626700:Tenassa Sleeves
+AB67E5FC:Disturbing Rumor
+AB703526:Prismatic Taper
+AB6FDB2D:Scroll of Vagabond's Gift
+AB707446:Trade Note (50,000)
+AB717964:Blue Jewel
+AB6E2147:Iron Pea
+A3D98E5D:Scroll of Outlander's Insolence
+A3CA54A9:Coalesced Aetheria
+
+Missing Exports - Possessed items that were not found:

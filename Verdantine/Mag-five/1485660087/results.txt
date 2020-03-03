@@ -1,0 +1,163 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-28_1485660077_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-25_1485379754_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-25_1485379906_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-25_1485380067_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-24_1485272356_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-27_1485521653_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-25_1485387928_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-25_1485389841_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-25_1485390098_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-25_1485390680_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-25_1485368122_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-25_1485378050_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-25_1485378242_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-25_1485379333_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-25_1485377526_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-28_1485658917_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-28_1485646739_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-25_1485394788_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-25_1485375856_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-30_1485810542_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-30_1485810542_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-31_1485869262_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-25_1485398769_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-28_1485641125_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-29_1485706533_log.pcap
+
+Partial Exports - Missing appraisal info:
+8D403E03:Ust
+8D403E7E:Enhanced Blue Empyrean Ring
+8D3D9EDE:Enhanced White Empyrean Ring
+8D4031C8:Blank Augmentation Gem
+8D403E47:Focusing Stone
+8D403E42:Ultimate Singularity Axe
+8D3D04F0:Promissory Note
+8D3DBD48:Frost Dericost Blade
+8D3FD3C7:Aegis of the Gold Gear
+8D4031C7:Promissory Note
+8D3DBD0B:Promissory Note
+8D403E78:Promissory Note
+8D403E06:Promissory Note
+8D3DBCED:Promissory Note
+8D3DBC1A:Promissory Note
+8D3DBCDF:Heart of the Innocent
+8D403E38:Asheron's Lesser Benediction
+8D3CFEEF:Aetheria Mana Stone
+8D403E3D:Greater Mukkir Slayer Stone
+8D3DBCAE:Blackmoor's Favor
+91E4C5B0:Colosseum Coin
+8D3DBCB3:Trade Note (250,000)
+8D403E08:Trade Note (250,000)
+8D3DA145:Aetheria
+85D77A9A:Trade Note (250,000)
+85D81FEA:Trade Note (250,000)
+8D403E3A:Aetheria
+90AF05A5:Trade Note (250,000)
+8D403E93:Aetheria
+91E7C4D3:Colosseum Coin
+91EDDDDE:Silver Pea
+91BB23BC:Treated Healing Kit
+91B7BBB4:Treated Healing Kit
+91BB2F24:Treated Healing Kit
+91BEF679:Treated Healing Kit
+91BEF619:Treated Healing Kit
+91C196F6:Treated Healing Kit
+91C1E644:Treated Healing Kit
+91C3D2B2:Treated Healing Kit
+91C36DF4:Treated Healing Kit
+91C5ADAF:Treated Healing Kit
+91C63BB5:Treated Healing Kit
+91C7DF55:Treated Healing Kit
+91C3D537:Treated Healing Kit
+91C93BAB:Treated Healing Kit
+91CA61C8:Treated Healing Kit
+91CABD7A:Treated Healing Kit
+91C764B1:Treated Healing Kit
+91CC7052:Treated Healing Kit
+91CBEAD4:Treated Healing Kit
+91CCB4CA:Treated Healing Kit
+91CED28A:Treated Healing Kit
+91CD3F81:Treated Healing Kit
+91CD40D1:Treated Healing Kit
+91CD3F84:Treated Healing Kit
+91E4B6D6:Treated Healing Kit
+9130FA04:Major Mana Stone
+91475E81:Major Mana Stone
+9148526E:Major Mana Stone
+91489E8E:Major Mana Stone
+914DAEA8:Major Mana Stone
+91501CEA:Major Mana Stone
+914B513A:Major Mana Stone
+916082CC:Major Mana Stone
+91654FCC:Major Mana Stone
+916C946D:Major Mana Stone
+916D90DE:Major Mana Stone
+9172E942:Major Mana Stone
+91AC1F49:Major Mana Stone
+91BB1CD6:Major Mana Stone
+91C4E4F3:Major Mana Stone
+91CA5E88:Major Mana Stone
+91CB0C09:Major Mana Stone
+91D5FAD3:Major Mana Stone
+91E64ED2:Major Mana Stone
+91E5ECA7:Major Mana Stone
+91E64ED3:Major Mana Stone
+91E64A39:Major Mana Stone
+91DEBB85:Major Mana Stone
+8D3DBCE7:Platinum Scarab
+8D3DBD01:Diamond Scarab
+8D3DB173:Gold Scarab
+8D3DBC74:Copper Scarab
+8D3FC93E:Silver Scarab
+8D3DBC5E:Health Tonic
+8D3DBB15:Mana Scarab
+8D3DBC81:Platinum Scarab
+8D3DBCF1:Red Taper
+8D3DBC9C:Celdiseth's Portal Gem
+8D3DBC6F:Mana Scarab
+8D3DBC98:Health Philtre
+8D3DBC73:Radiant Blood Stronghold Portal Gem
+8D3FD3FF:Prismatic Taper
+91E5EF38:Prismatic Taper
+91E4D107:Colosseum Vault Key
+91E4D6F1:Colosseum Vault Key
+91E4CFE3:Colosseum Vault Key
+91E7C74A:Colosseum Vault Key
+91E7D74E:Colosseum Vault Key
+91E4B3F1:Colosseum Vault Key
+91E7D2A6:Colosseum Vault Key
+91E4B7D5:Colosseum Vault Key
+91E7CCF5:Colosseum Vault Key
+91E4C8E2:Colosseum Vault Key
+91E7CB88:Colosseum Vault Key
+91EDDF0E:Colosseum Vault Key
+91EDDB12:Colosseum Vault Key
+91EDD9CD:Colosseum Vault Key
+91E7DD53:Colosseum Vault Key
+91E7DD40:Colosseum Vault Key
+91EDDC6B:Colosseum Vault Key
+91E4BEA9:Colosseum Vault Key
+91E4C00B:Colosseum Vault Key
+91E4B829:Colosseum Vault Key
+91E4B4BA:Colosseum Vault Key
+91DEB268:Colosseum Vault Key
+91DEBA0E:Colosseum Vault Key
+91E4BC8A:Colosseum Vault Key
+91E4CF0D:Colosseum Vault Key
+91DEB57C:Colosseum Vault Key
+91DEB679:Colosseum Vault Key
+91E4BF5F:Colosseum Vault Key
+91E4D72F:Colosseum Vault Key
+91E4CF37:Colosseum Vault Key
+91E4D01C:Colosseum Vault Key
+91E7C44A:Colosseum Vault Key
+91E7C549:Colosseum Vault Key
+91E4BAD7:Colosseum Vault Key
+91E4BE67:Colosseum Vault Key
+91E7C871:Colosseum Vault Key
+91E4C2BC:Colosseum Vault Key
+
+Missing Exports - Possessed items that were not found:

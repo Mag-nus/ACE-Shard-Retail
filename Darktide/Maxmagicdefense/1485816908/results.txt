@@ -1,0 +1,25 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\imtrippin-01-30-2017-empyrean-workshop-and-more\pkt_2017-1-30_1485816790_log.pcap
+
+Partial Exports - Missing appraisal info:
+A9657774:Pyreal
+A965777E:Ust
+A965777F:Calling Stone
+A9657780:Foci of Verdancy
+A9657782:Blackmoor's Favor
+A9657783:Academy Library Key
+A9657784:A List of Items
+A9657786:Sturdy Iron Key
+A9657792:A Small Mnemosyne
+A9657794:A Small Mnemosyne
+A965779C:Foci of Enchantment
+A96577A1:A Small Mnemosyne
+ABB56760:Pyreal
+AA8FAA79:Salvage (100)
+AA8C558E:Salvage (100)
+BEB6E2E6:Pyreal
+AB625BD0:Salvage (100)
+AB49D1D7:Salvage (100)
+8727C473:Salvage (100)
+
+Missing Exports - Possessed items that were not found:

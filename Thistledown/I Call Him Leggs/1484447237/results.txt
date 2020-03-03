@@ -1,0 +1,148 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\pkt_2017-1-14_1484446611_log.pcap
+
+Partial Exports - Missing appraisal info:
+AB000F06:Foci of Artifice
+AB000F24:Two Headed Snowman Head
+AB000F09:Pack
+AB000F0A:Salvaged  (100)
+AB000F0B:Salvaged  (100)
+AB000F25:Sturdy Iron Key
+AB000F0C:Salvaged  (100)
+AB000F0D:Salvaged  (100)
+AB000F26:Note from Mi Krau-Li
+AB000F0E:Salvaged  (100)
+AB000F0F:Salvaged  (100)
+AB000F27:Pyreal
+AB000F2B:Ust
+AB000F13:Aphus Wading Pants
+AB000F22:Pack
+AB000F14:Salvaged  (39)
+AB000F15:Salvaged  (100)
+AB000F2C:Prismatic Taper
+AB000F16:Salvaged  (100)
+AB000F17:Salvaged  (100)
+AB000F18:Salvaged  (100)
+AB000F19:Salvaged  (100)
+AB000F1A:Salvaged  (100)
+AB000F1B:Salvaged  (100)
+AB000F31:Snowflower
+AB000F1C:Salvaged  (100)
+AB000F1D:Salvaged  (100)
+AB000F1E:Salvaged  (100)
+AB000F1F:Salvaged  (100)
+AB000F20:Salvaged  (100)
+AB000F21:Salvaged  (100)
+AB000F2D:Lead Scarab
+AB000F2A:Doppelganger Robe
+AB000F32:Salvaged  (100)
+AB000F3B:Pack
+AB000F33:Salvaged  (100)
+AB000F34:Salvaged  (100)
+AB000F35:Salvaged  (100)
+AB000F36:Salvaged  (100)
+AB000F50:Sodden Ruschk Arm
+AB000F37:Salvaged  (100)
+AB000F38:Salvaged  (100)
+AB000F51:Sodden Ruschk Arm
+AB000F39:Salvaged  (100)
+AB000F3A:Salvage
+AB000F44:Seal
+AB000F3C:Salvaged  (100)
+AB000F3D:Salvaged  (100)
+AB000F52:Sodden Ruschk Arm
+AB000F3E:Salvaged  (100)
+AB000F3F:Salvage
+AB000F45:Seal
+AB000F46:Seal
+AB000F47:Seal
+AB000F48:Seal
+AB000F49:White Phyntos Wasp Wing
+AB000F4B:Salvaged  (100)
+AB000F53:Sodden Ruschk Arm
+AB000F54:Pack
+AB000F56:Pyreal
+AB000F57:Lubziklan al-Luq Trade Proposal
+AB000F58:Gonjoku Den Trade Proposal
+AB000F59:Renald the Eldest Trade Proposal
+AB000F5B:Second Half of a Worn Bow
+AB000F5C:Glyph of Stamina Regeneration
+AB000F5D:Glyph of Health
+AB000F5F:Quiddity Ingot
+AB000F60:Pyreal Mote
+AB000F61:Aetheria
+AB000F62:Salvaged  (100)
+AB000F63:Ink of Formation
+AB000F64:Ink of Nullification
+AB000F69:Prison Warden's Orders
+AB000F6D:Pack
+AB000F6C:Glyph of Light Weapons
+AB000F6E:Aetheria
+AB000F6F:Aetheria
+AB000F70:Aetheria
+AB000F71:Aetheria
+AB000F7B:Seal
+AB000F73:Salvaged  (100)
+AB000F76:Salvaged  (100)
+AB000F7A:Salvage
+AB000F77:Salvaged  (100)
+AB000F78:Salvaged  (100)
+AB000F9B:Dread Mattekar Paw
+AB000F79:Salvaged  (100)
+AB000F7D:Minalim Plant
+AB000F7E:Salvaged  (100)
+AB000F7F:Salvaged  (100)
+AB000F80:Trade Note (250,000)
+AB000F9F:Pack
+AB000F81:Salvaged  (100)
+AB000F82:Salvaged  (100)
+AB000F83:Glyph of Healing
+AB000F84:Pantaloons
+AB000F87:Glyph of Finesse Weapons
+AB000F88:Pantaloons
+AB000F89:Salvaged  (100)
+AB000F8C:Salvaged  (100)
+AB000F8E:Kasa
+AB000F8F:Heavy Bracelet
+AB000F94:Salvaged  (100)
+AB000F98:Cloth Gloves
+AB000F9A:Faran Item Master Robe
+AB000FA1:Salvaged  (100)
+AB000FA2:Salvaged  (100)
+AB000FA3:Salvaged  (100)
+AB000FA4:Salvaged  (100)
+AB000FA5:Salvaged  (100)
+AB000FA6:Salvaged  (100)
+AB000FA7:Salvaged  (100)
+AB000FA8:Salvaged  (100)
+AB000FA9:Salvaged  (100)
+AB000FAA:Salvaged  (100)
+AB000FAD:Writ of Refuge
+AB000FFA:Some Changes for February 2012
+AB000FAE:Bow Stamped Spectral Ingot
+AB000FAF:Salvaged  (100)
+AB000FB0:Salvaged  (100)
+AB000FB1:Salvaged  (100)
+AB000FB2:Salvaged  (100)
+AB000FB3:Salvaged  (100)
+AB000FB4:Salvaged  (100)
+AB000FB5:Salvaged  (100)
+AB000FB6:Salvaged  (100)
+AB000FB7:Salvaged  (100)
+AB000FDC:Collegium Occultus Ring
+AB000FCA:Salvaged  (100)
+AB000FCB:Salvaged  (100)
+AB000FCC:Salvaged  (100)
+AB000FCD:Salvaged  (100)
+AB000FD4:Heavy Bracelet
+AB000FD6:Breeches
+AB000FD9:Aphus Lounging Shirt
+AB000FDB:Doublet
+AB000FDD:Breeches
+AB000FE6:Tunic
+AB000FF1:Baggy Tunic
+AB000FF2:Lace Shirt
+AB000FF4:Loose Shirt
+AB000FF6:Ring
+
+Missing Exports - Possessed items that were not found:

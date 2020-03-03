@@ -1,0 +1,123 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-24_1485277188_log.pcap
+
+Partial Exports - Missing appraisal info:
+922A3BFE:Copper Scarab
+922A3C33:Gold Scarab
+922A3C1E:Silver Scarab
+92284C57:Pyreal Scarab
+922A3C0D:Platinum Scarab
+9219AB0F:Diamond Scarab
+922A3975:Prismatic Taper
+922A3C3B:Ust
+922A3C2A:Foci of Strife
+92230F00:Foci of Verdancy
+922A3C15:Asheron's Benediction
+922A3C32:Blackmoor's Favor
+922A3C1D:Foci of Artifice
+9224F0F6:Foci of Enchantment
+92210ACA:Minalim Plant
+922A3C0C:Trade Note (250,000)
+92035BF7:Trade Note (100,000)
+9225C1DB:Elysa's Favor
+922A3C3A:Argenory Plant
+921E811A:Creature Enchantment Gem of Enlightenment
+9225A01D:Pack
+922A3C31:Faran War Master Robe
+922A3C29:Dho Life Master Robe
+922A3C14:Dho War Master Robe
+9225A046:Fadsahil's Portal Gem
+92248741:Pyreal
+922494F9:Celdiseth's Portal Gem
+922A3C1C:Signet Crown
+92284FEC:Titan Mana Charge
+92264248:Dho Creature Master Robe
+921749B6:Dho Item Master Robe
+922A3C0B:Suikan Life Master Robe
+922A3C3F:Faran Creature Master Robe
+92284C55:Titan Mana Charge
+922A3C39:Titan Mana Charge
+922A3C28:Thorsten's Armor
+9219C6FC:Suikan Item Master Robe
+922A3C13:Shoyanen's Portal Gem
+92249514:Crown
+922A3C30:Daulan Faur
+922A3C1B:Colban Plant
+922A3C3E:Diamond Powder
+92147CBB:Superb Mana Charge
+922A3C38:Superb Mana Charge
+922A3C27:Pack
+9225A556:Sturdy Iron Key
+922A3C2F:Olthoi Ichor
+922A3C3D:Olthoi Ichor
+922642A1:Olthoi Ichor
+922A3C37:Olthoi Ichor
+922A3C26:Vial of Berimphur Dye
+92248C83:Tunic
+9219A332:Pyreal
+922A3C44:Ring
+922A3C2E:Sharp Tusker Slave Tusk
+922A3C42:Health Tincture
+922A3C43:Enhanced Robe of the Tundra
+922A3C41:Bandana
+922A3C51:Pyreal
+922A3C40:Lorica Boots
+92150FE6:Diforsa Gauntlets
+922A3C25:Note from a Scout
+921BB79F:Heavy Bracelet
+922A3C36:Salvaged  (100)
+922097F9:Sturdy Iron Key
+9224A74E:Salvaged  (100)
+922A3C2D:Salvaged  (100)
+9224E967:Sturdy Iron Key
+9220F3F0:Sturdy Iron Key
+9225A07C:Sturdy Iron Key
+9225A054:Sturdy Iron Key
+922642B2:Sturdy Iron Key
+92284C5D:Story of Lunnum's Pyre
+92131DF2:Fiun Hatchet
+922A3C35:Great Mana Charge
+922A3C24:Great Mana Charge
+92249506:Great Mana Charge
+922A3C2C:Great Mana Charge
+92230E85:Great Mana Charge
+9225A01B:Great Mana Charge
+92248F85:Great Mana Charge
+922A3C34:Salvaged  (100)
+92212C2F:Celdon Breastplate
+9225A01E:Salvaged  (100)
+92284FC4:Great Mana Charge
+92230F41:Trousers
+922642A8:Salvaged  (100)
+921BC146:Pyreal
+92248D6E:Salvaged  (100)
+922A3C45:Salvaged  (100)
+9225A012:Awakener
+922642A3:Slashing Sceptre
+92212C02:Electric Baton
+9220F54D:Ahruenga Portal Gem
+922A39A2:Glittering Necklace of Acid and Piercing Protection
+922642A5:Gem of Purity
+922A3C4A:Gem of Purity
+922A3C52:Salvaged  (100)
+9225A01A:Diadem
+9227C839:Relanim Plant
+922A3C5A:Celdon Sleeves
+922A3C49:Celdon Sleeves
+922A3C59:Alchemist's Crystal
+92212998:Silver Pea
+922A3C48:Fire Baton
+922A3C50:Frost Sceptre
+92266317:Scroll of Boon of the Mace Turner
+92199099:Scroll of Inefficient Investment
+9220FD24:Scroll of Martyr's Tenacity VII
+9227BED7:Electric Baton
+9216B797:Sceptre
+92248E0F:Some Changes for February 2012
+AE4D0776:Acid Hand Wraps
+92253C5D:Wand
+
+Missing Exports - Possessed items that were not found:
+922A3C2B
+922A3C16
+9224F25D

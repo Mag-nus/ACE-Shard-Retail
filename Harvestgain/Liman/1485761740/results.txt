@@ -1,0 +1,37 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485761732_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485761647_log.pcap
+
+Partial Exports - Missing appraisal info:
+811D651B:Foci of Artifice
+811D651F:Pack
+811D6520:Asheron's Benediction
+811D6521:Blackmoor's Favor
+811D6522:Ust
+811D6523:Pathwarden Token
+811D6524:Pyreal
+811D6525:Prismatic Taper
+811D6526:Lead Scarab
+811D6528:Letter From Home
+811D652A:Academy Exit Token
+811D652B:Restoring the Training Academies
+811D652F:Academy Library Key
+811D6531:Facility Hub Portal Gem
+811D6538:Fire Moar Essence (50)
+BF40EB10:Pyreal
+811D6560:Lead Pea
+811D6542:Ring
+811D6547:Bracelet
+811D654A:Bracelet
+811D6548:Fire Elemental Essence (50)
+811D654D:Ring
+BF448FAC:Pyreal
+811D654E:Heavy Bracelet
+811D6550:Frost Elemental Essence (50)
+BF448FAB:Pyreal
+BF4493B2:Pyreal
+811D6565:Acid Wisp Essence (50)
+
+Missing Exports - Possessed items that were not found:

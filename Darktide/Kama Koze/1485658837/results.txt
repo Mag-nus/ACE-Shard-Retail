@@ -1,0 +1,116 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\DataLog\DataLog\pkt_2017-1-28_1485658833_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\DataLog\DataLog\pkt_2017-1-28_1485646413_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\DataLog\DataLog\pkt_2017-1-28_1485650979_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\DataLog\DataLog\pkt_2017-1-28_1485651870_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\DataLog\DataLog\pkt_2017-1-28_1485657275_log.pcap
+
+Partial Exports - Missing appraisal info:
+805BAD94:Pile of Gearknight Parts
+805BAD93:Adventurer's Token
+805BAD92:Quartered Cloak
+805BADA9:Massive Mana Charge
+805BADAB:Massive Mana Charge
+805BADC9:Gorget
+805BAE05:Ornate Bone Key
+805BADD5:Ancient Falatacot Trinket
+805BAD9E:Society Gem of Dispelling
+805BADED:Copper Scarab
+A69BFF4D:White Taper
+805BADB7:Deed
+B9E5CB60:Platinum Scarab
+D033E733:Mana Scarab
+D039C337:Trade Note (250,000)
+D05278CD:Lapyan Plant
+D04A5E9F:Dire Champion Token
+805BADEA:Ancient Mhoire Coin
+805BADB3:Greater Stamina Kit
+805BAE00:Diamond Scarab
+805BADE2:Small Olthoi Venom Sac
+805BAE0A:Desert Flower
+805BAD9B:Upper Insatiable Eater Jaw
+805BADDC:Upper Insatiable Eater Jaw
+805BADE3:Rithwic Portal Gem
+805BADFA:Encrusted Bloodstone Jewel
+D0898D88:Warding Ring
+805BAE10:Great Elariwood Idol
+805BADFD:Aetherium-infused Gear
+805BADD6:Ancient Empyrean Trinket
+805BADDA:Aetherium Power Core
+805BADF3:Celestial Hand Commendation Ribbon
+805BADD9:Lugian Commander's Insignia
+805BADE9:Coruscating Olthoi Scent Gland
+805BADD7:Enhanced Mana Elixir
+805BADE0:Society Gem of Lesser Luminance
+805BAE0C:Broken Stone Tablet
+D7F930FD:Mattekar Arm Guard
+805BADFE:Iron Scarab
+805BADF4:Pyre Skeleton Jaw
+805BAE12:Celestial Hand Trade Token
+805BADFC:Splitting Tool
+805BADF5:Upper Insatiable Eater Jaw
+805BADF7:Pyreal Scarab
+805BAE03:Quest Weapon Coin
+805BADB5:Diamond Powder
+805BADAA:Massive Mana Charge
+805BADEF:Heart of the Innocent
+805BADCF:Massive Mana Charge
+805BAE0B:Engraved A'nekshay Bracers
+805BADD3:Massive Mana Charge
+805BADC3:Massive Mana Charge
+D4D9FCFD:Signet Crown
+D06E1042:Pack
+D077028A:Pack
+D06E10CF:Pack
+D29478E7:Celestial Hand Stronghold Portal Gem
+D294799E:Massive Mana Charge
+D29082B9:Massive Mana Charge
+D29477F6:Massive Mana Charge
+D29477F5:Massive Mana Charge
+D29083AD:Massive Mana Charge
+D294772D:Massive Mana Charge
+D2947731:Massive Mana Charge
+D2908157:Massive Mana Charge
+8548C136:Massive Mana Charge
+C913F0A8:Massive Mana Charge
+8029600C:Massive Mana Charge
+C9556369:Signet Crown
+D1EBABB8:Coronet
+D0ED8C4D:Coronet
+CD668134:Signet Crown
+805BAD8C:Circlet
+822A5F19:Coronet
+CC9B5C8A:Crown
+CAB71A45:Crown
+D06E105A:Pack
+D1EF6955:Crown
+D384589F:Hennacin Plant
+8E3F0201:Beret
+8F4F13F9:Massive Mana Charge
+D5D9648C:Upper Insatiable Eater Jaw
+D5F02C9B:Silver Scarab
+D718DC5C:Treated Healing Kit
+D717379E:Peerless Healing Kit
+D718DC69:Peerless Healing Kit
+D709A1F7:Upper Insatiable Eater Jaw
+8E14137B:Plentiful Healing Kit
+D84F524A:Prismatic Taper
+8E14136B:Plentiful Healing Kit
+8E141361:Plentiful Healing Kit
+8E14134C:Tusker Spit Ale
+D84043AD:Prismatic Taper
+8C1B797D:Princely Runed War Bow
+95FC5825:Wrapped Bundle of Deadly Armor Piercing Arrowheads
+D7F93092:Ursuin Hide Helmet
+81A6F135:Wrapped Bundle of Armor Piercing Arrowheads
+81A6F136:Wrapped Bundle of Greater Armor Piercing Arrowheads
+8C1B79DB:Wrapped Bundle of Deadly Chorizite Arrowheads
+8E3F021B:Electric Bow
+81A4A025:Hoary Mattekar Robe
+D85206FE:Combined Hyssop and Mandrake
+D8502D8A:Plentiful Healing Kit
+D853A144:Pyreal Nugget
+
+Missing Exports - Possessed items that were not found:

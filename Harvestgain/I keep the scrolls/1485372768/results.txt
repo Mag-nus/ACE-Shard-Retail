@@ -1,0 +1,66 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-25_1485372631_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps-20170203071513\pkt_2017-1-27_1485526251_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485766686_log.pcap
+
+Partial Exports - Missing appraisal info:
+811D224B:Pyreal
+811D2228:Pack
+811D2229:Pack
+811D222C:Asheron's Benediction
+811D222D:Blackmoor's Favor
+811D222E:Pack
+811D222F:Prismatic Taper
+811D2230:Copper Scarab
+811D2231:Pyreal Scarab
+811D2232:Iron Scarab
+811D2233:Gold Scarab
+811D2234:Diadem
+811D2235:Copper Scarab
+811D2236:Silver Scarab
+811D2237:Iron Scarab
+811D2238:Al-Arqas Portal Gem
+811D223C:Pack
+811D2239:Holtburg Portal Gem
+811D223A:Rithwic Portal Gem
+811D224C:Pyreal
+811D223B:Nanto Portal Gem
+811D223D:Pack
+811D2241:Pack
+811D223E:Shoyanen's Portal Gem
+811D223F:Flared Shirt
+811D224D:Greater Mana Stone
+811D2242:Foci of Artifice
+811D224F:Virindi Mask
+811D2248:Tunic
+811D2257:Lightning Katar
+811D2252:Thorsten's Crystal
+811D2254:Trousers
+811D2258:Olthoi Lands Portal Device
+811D2259:Lesser Direlands Device
+811D225A:Lesser Direlands Device
+811D225B:Dangerous Portal Device
+811D225C:Outland Portal Device
+811D225D:Concentrated Aqua Incanta
+811D225E:Wrapped Bundle of Greater Frost Arrowheads
+811D225F:Wrapped Bundle of Greater Frog Crotch Arrowheads
+811D2260:Wrapped Bundle of Greater Fire Arrowheads
+811D2261:Wrapped Bundle of Greater Frost Arrowheads
+811D2262:Wrapped Bundle of Greater Lightning Arrowheads
+811D2263:Wrapped Bundle of Greater Acid Arrowheads
+811D2264:Wrapped Bundle of Deadly Frog Crotch Arrowheads
+811D2265:Ecorto's Chisel
+811D2266:Concentrated Bloodhunter Oil
+811D2267:Concentrated Bloodhunter Oil
+811D2268:Concentrated Health Infusion
+811D2269:Concentrated Mana Infusion
+811D226A:Concentrated Mana Infusion
+811D226B:Gypsum Pea
+811D226C:Gypsum Pea
+811D226D:Turpeth Pea
+811D226E:Some Changes for February 2012
+811D2270:Ash Gromnie Tooth
+
+Missing Exports - Possessed items that were not found:

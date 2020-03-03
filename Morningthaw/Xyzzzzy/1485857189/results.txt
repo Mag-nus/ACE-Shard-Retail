@@ -1,0 +1,17 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-31_1485856541_log.pcap
+
+Partial Exports - Missing appraisal info:
+C4A035B0:Pyreal
+C49B244D:Sack
+C4A1EACE:Ust
+C4990A5D:Calling Stone
+C49923AF:Pathwarden Token
+C4A0359B:Arrow
+C4A02074:Round Shield
+C4A106BA:Apple
+C4A01EA7:Handy Healing Kit
+C4A03561:Letter From Home
+C4A035AE:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

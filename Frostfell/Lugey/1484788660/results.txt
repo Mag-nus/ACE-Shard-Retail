@@ -1,0 +1,175 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-09-2017\Callaway-01-17-31-2017-QuidditySeedMisc\pkt_2017-1-17_1484699075_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Callaway-01-10-2017\pkt_2017-1-10_1484075521_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Callaway-01-10-2017\pkt_2017-1-10_1484102909_log.pcap
+C:\ACEmulator\Logs Unpacked\02-09-2017\Callaway-01-17-31-2017-QuidditySeedMisc\pkt_2017-1-17_1484699075_log.pcap
+
+Partial Exports - Missing appraisal info:
+B0D7C3F3:Copper Scarab
+B0D7AB61:Silver Scarab
+B0DEE89B:Iron Scarab
+B0D7B0C1:Burun Guruk Mask
+B0CE4A6B:Hyssop
+B0B0C521:Diamond Scarab
+B078237A:Lead Scarab
+B08963F1:Gold Scarab
+B0DEE7FD:Aetheria Powder
+B0C47140:Pyreal Scarab
+B04398BC:Upper Insatiable Eater Jaw
+B0DEE8A0:Aetheria Powder
+B0E02ABE:Aetheria Desiccant
+B07EF7A8:Buckler
+B0B92834:Encapsulated Spirit
+DAE9A329:Band of Shielding
+B0D7C3F9:Foci of Artifice
+B0DEE8F9:Dual Wield Gem of Forgetfulness
+B0D7C141:Dual Wield Gem of Forgetfulness
+B0D7C43E:Recklessness Gem of Forgetfulness
+B0B0041E:Trade Note (250,000)
+B0CE540C:Aetheria
+B0B56C83:Salvage (97)
+819C350B:Drudge Championship Belt
+DAA216CF:Blank Augmentation Gem
+DA982218:Upper Insatiable Eater Jaw
+B0B57853:Salvage (11)
+B0DEE976:Salvage (100)
+B0B5761F:Salvage (89)
+B0B56F89:Greater Mana Stone
+B0B21C1A:Salvage (100)
+B0DEE912:Greater Mana Stone
+B07DA252:Greater Mana Stone
+B0D7BFB7:Greater Mana Stone
+B0A1A2BB:Salvage (100)
+B0DACE50:Salvage (100)
+B1F2F69E:Blueprints for a Burun Fortress
+B0BCE467:Salvage (100)
+B0A938CC:Olthoi Slayer Carapace
+B0438B44:Blackmoor's Favor
+B0A93D7E:Ust
+B0A83E2B:Facility Hub Portal Gem
+B0D7B124:Aetheria Mana Stone
+B0DEE8FE:Pumpkin
+B0DEE70C:Shoyanen's Portal Gem
+B0CE51DB:Salvage (66)
+B47DC84C:Massive Mana Charge
+B0B1FF90:Salvage (56)
+B04397BC:Imbue Swap Coin
+B494AC8A:Massive Mana Charge
+B0C11380:Blank Augmentation Gem
+B0B216B7:Rare Crystalline Shard
+B0A196D3:Crystalline Shard
+B0DEE907:Enchanted Mana Stone
+B0DEE5A9:Adventurer's Token
+B0DEF096:Aligned Mana Stone
+B0AA05CD:Stipend
+B0A9FF3D:Rare Crystalline Shard
+B0C1046C:Upper Insatiable Eater Jaw
+B09CB596:Large Monouga Rib
+B0B93C25:Blank Augmentation Gem
+B08C6B61:Upper Insatiable Eater Jaw
+B0DEE8FC:Heavy Necklace
+B0C4765D:Blank Augmentation Gem
+DB1E8ED5:Aged Legendary Key
+DB1B54DB:Aged Legendary Key
+DB1BC076:Aged Legendary Key
+DB1BC075:Aged Legendary Key
+DB1BC156:Aged Legendary Key
+B494AB03:Massive Mana Charge
+B48DFF7B:Massive Mana Charge
+B490D3C5:Massive Mana Charge
+B494AB2D:Massive Mana Charge
+B0D7C42F:Foci of Verdancy
+B0D7B1E4:Renegade Hauberk
+B0DEE973:Prismatic Taper
+B0C479DC:Foci of Enchantment
+B0A9FB31:Salvage (22)
+B0B57277:Salvage (56)
+B0B9412F:Salvage (97)
+B0C4766E:Olthoi Slasher Carapace
+AF28BE41:Salvage (11)
+B1D84577:Report to Niarltah
+B0B571FE:Salvage (51)
+B0CE5256:Salvage (10)
+B1E4BF69:Report to Niarltah
+B0DEE8BC:Salvage (41)
+B0DEE8B0:Salvage (60)
+B2EB600E:Ornate Bone Key
+B0DEE948:Salvage (12)
+B0DEE947:Salvage (36)
+B2E1F571:Visage of Menilesh
+B0C109F0:Salvage (72)
+B0B69AE2:Salvage (59)
+AFAE05CB:Salvage (34)
+B0D7B1BF:Salvage (89)
+B30A0221:Head of the Paradox-touched Olthoi Queen
+B06658CB:Salvage (69)
+9FDAD361:Salvage (44)
+B6797ECC:Plentiful Healing Kit
+B0B946AD:Salvage (99)
+B0DEE8F7:Salvage (73)
+DAB02750:Black Boulder
+B0CE476A:Salvage (9)
+B0C47613:Salvage (71)
+DABF5893:Essence of Cave Penguin
+B0D7ADFC:Salvage (89)
+DAFC9B65:Treated Healing Kit
+B0CE5A63:Blooded Gold Invader Lord Helm
+B45D3EA1:Ulgrim's Contest Mug
+B05FDDE3:Salvage (21)
+B0D7AFE1:Flaming Corsesca
+B4579DA5:Ulgrim's Contest Mug
+B0D7C3FE:Quartered Cloak
+B0CE5A69:Salvage (60)
+B454F30C:Ulgrim's Contest Mug
+B0D0BE04:Salvage (66)
+B0D7AF02:Salvage (80)
+B18C13FE:Blueprints for a Burun Fortress
+B0D7B17B:Salvage (48)
+B0DEEFD4:Salvage (85)
+B15B61F1:Heaume
+B0DEF0B9:Salvage (50)
+B0DEE91E:Platemail Gauntlets
+DAE9C972:Bow of the Fallen
+B0CE50CD:Salvage (98)
+B0CE5160:Platemail Leggings
+DB1D10E6:Platinum Scarab
+B0B94B81:Olthoi Alduressa Boots
+B2EB56ED:Ancient Mhoire Coin
+B2E1EAC2:Acid Khanjar
+B2EB58A5:Acid Slingshot
+DB123392:Plentiful Healing Kit
+B0D7C40E:Frost Mazule
+DB1DAD95:Treated Healing Kit
+B6775517:Soft Bandages
+DB155A6A:Health Elixir
+B67770AD:Treated Mandrake
+B677708C:Treated Hyssop
+DB152FAC:Excellent Healing Kit
+B678DD60:Soft Bandages
+B64FD20B:Treated Mandrake
+DB144EDC:Gold Pea
+B678DD36:Treated Hyssop
+DAB16D73:Red Fire Infusion
+DB5BDDD2:Carrot
+B3E7B63C:Gem of Stillness
+B0E3AFA0:Platemail Gauntlets
+B0E48480:Electric Sceptre
+B0DEE91F:Heavy Necklace
+AFFDFAB9:Doppelganger Shield
+B0DEE90A:Circlet
+B05FCCA5:Kite Shield
+B0DEE90D:Steel Toed Boots
+819C7604:Acid Nabut
+DAAB811C:Slashing Staff
+DAAF0830:Heavy Bracelet
+B2995647:Diadem
+DB1E3EB6:Durable Legendary Key
+DB1B3672:Aged Legendary Key
+DB1B6BE7:Aged Legendary Key
+DB5BDDD3:Magic Iceball
+DB5BDDD4:Poofy Snowball
+DB336FE2:Covenant Greaves
+
+Missing Exports - Possessed items that were not found:

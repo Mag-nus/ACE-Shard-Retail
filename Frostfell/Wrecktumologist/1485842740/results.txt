@@ -1,0 +1,84 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485841816_log.pcap
+
+Partial Exports - Missing appraisal info:
+B37E2A0D:Pyreal
+B3B360DB:Ust
+B3B360B0:Foci of Artifice
+B3B360FA:Pack
+B3B36101:Core Plating Deintegrator
+B3B36113:Core Plating Integrator
+B3B3612A:Royal Runed Bastone
+B3B3611B:Pack
+B3B36125:Aetheria Powder
+B3B360BC:Writ of Refuge
+B37A5537:Lesser Mana Kit
+B3B36127:Salvage (100)
+B3B36249:Pack T'thuun
+B38A5CEF:Pack T'thuun
+B3B36234:Gladiator Diemos Statue
+B3B360EB:Prismatic Taper
+B38565C3:Gladiator Diemos Statue
+B3B3608D:Lead Scarab
+B37CB4C8:Facility Hub Portal Gem
+B3B360BD:Blackmoor's Favor
+B3B360DA:Ebon Spine Harpoon
+B3B3610E:Pack
+B39E8FCF:Peculiar Old Dagger
+B37CD422:Pathwarden Supply Key
+B3B36135:Loose Shirt
+B3B36134:Acid Poniard
+B48EADCE:Pyreal
+B37DF25C:Large Kite Shield
+B3B9E789:Pack
+B3EB02F8:Renegade Herbal Kit
+B3E50B0C:Renegade Herbal Kit
+B3EBD789:Renegade Herbal Kit
+B3E8B4CC:Renegade Herbal Kit
+B3EAEAC3:Renegade Herbal Kit
+B3E74854:Greater Stamina Kit
+B3EBD50E:Greater Stamina Kit
+B3EADF03:Pack Scarecrow
+B3EBD69B:Golden Gromnie
+B3EBD39E:Golden Gromnie
+B3E73A23:Golden Gromnie
+B3E3B204:Diamond Heart
+B3E610DB:Pack Scarecrow
+B3E58D50:Pyreal Sliver
+B3ED4116:Pack Scarecrow
+B3B360F5:Academy Wand
+B37DFB5C:Royal Runed Poniard
+B3B360D9:Viamontian Pants
+B273AE42:Pyreal
+B3B360EE:Trousers
+B37DEED1:Puffy Shirt
+B48EB889:Pyreal
+B3B36111:Puffy Shirt
+B3B360F1:Heavy Necklace
+B48EB899:Pyreal
+B3B360A4:Loose Shirt
+B3B360C4:Heavy Bracelet
+B4809DB4:Pyreal
+B57051B9:Pyreal
+B57051B8:Pyreal
+B57051BA:Pyreal
+B3AE6726:Pack
+B2B04F72:Salvage (100)
+B2B04F73:Salvage (100)
+B3B360D8:Pack
+B2B04F75:Salvage (100)
+B2B04F96:Salvage (100)
+B2B04FA7:Salvage
+81A8F3EC:Salvage (100)
+B2B04F94:Salvage (100)
+B2B04F92:Salvage (100)
+B2B04F93:Salvage (100)
+B2A4D021:Salvage (100)
+81A8F12C:Salvage (100)
+81989972:Salvage (100)
+81B0B2DB:Salvage (100)
+81A8F2C5:Salvage (100)
+81A8F2F0:Salvage (100)
+81B04F11:Salvage (100)
+
+Missing Exports - Possessed items that were not found:

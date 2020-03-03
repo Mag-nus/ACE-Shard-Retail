@@ -1,0 +1,78 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (2150466687, 7438, 6, 3461440) /* MeleeWeapon */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (2150466687,   1,          1) /* ItemType - MeleeWeapon */
+     , (2150466687,   5,        450) /* EncumbranceVal */
+     , (2150466687,   9,    1048576) /* ValidLocations - MeleeWeapon */
+     , (2150466687,  16,          1) /* ItemUseable - No */
+     , (2150466687,  18,          1) /* UiEffects - Magical */
+     , (2150466687,  19,      12800) /* Value */
+     , (2150466687,  33,          1) /* Bonded - Bonded */
+     , (2150466687,  44,         29) /* Damage */
+     , (2150466687,  45,          3) /* DamageType - Slash, Pierce */
+     , (2150466687,  47,          6) /* AttackType - Thrust, Slash */
+     , (2150466687,  48,         44) /* WeaponSkill - HeavyWeapons */
+     , (2150466687,  49,          0) /* WeaponTime */
+     , (2150466687,  51,          1) /* CombatUse - Melee */
+     , (2150466687,  65,          1) /* Placement - RightHandCombat */
+     , (2150466687,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (2150466687, 106,        260) /* ItemSpellcraft */
+     , (2150466687, 107,        430) /* ItemCurMana */
+     , (2150466687, 108,        588) /* ItemMaxMana */
+     , (2150466687, 109,        158) /* ItemDifficulty */
+     , (2150466687, 115,        280) /* ItemSkillLevelLimit */
+     , (2150466687, 151,          2) /* HookType - Wall */
+     , (2150466687, 176,         44) /* AppraisalItemSkill */
+     , (2150466687, 353,          2) /* WeaponType - Sword */
+     , (2150466687, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
+     , (2150466687, 9015,         64) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (2150466687,   1, False) /* Stuck */
+     , (2150466687,  11, True ) /* IgnoreCollisions */
+     , (2150466687,  13, True ) /* Ethereal */
+     , (2150466687,  14, True ) /* GravityStatus */
+     , (2150466687,  19, True ) /* Attackable */
+     , (2150466687,  22, True ) /* Inscribable */
+     , (2150466687,  69, False) /* IsSellable */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (2150466687,   5,    -0.1) /* ManaRate */
+     , (2150466687,  21,       0) /* WeaponLength */
+     , (2150466687,  22,     0.5) /* DamageVariance */
+     , (2150466687,  26,       0) /* MaximumVelocity */
+     , (2150466687,  29,    1.03) /* WeaponDefense */
+     , (2150466687,  62,    1.03) /* WeaponOffense */
+     , (2150466687,  63,       1) /* DamageMod */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (2150466687,   1, 'Sword of Lost Light') /* Name */
+     , (2150466687,  16, 'The Sword of Lost Light, infused with blue fire from Mount Lethe and white fire from Mount Esper.') /* LongDesc */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (2150466687,   1,   33555927) /* Setup */
+     , (2150466687,   3,  536870932) /* SoundTable */
+     , (2150466687,   8,  100669772) /* Icon */
+     , (2150466687,  22,  872415275) /* PhysicsEffectTable */
+     , (2150466687, 8001,  270762648) /* PCAPRecordedWeenieHeader - Value, Usable, UiEffects, CombatUse, Wielder, ValidLocations, CurrentlyWieldedLocation, Burden, HookType */
+     , (2150466687, 8003,         18) /* PCAPRecordedObjectDesc - Inscribable, Attackable */
+     , (2150466687, 8005,     170017) /* PCAPRecordedPhysicsDesc - CSetup, Parent, STable, PeTable, Position, AnimationFrame */
+     , (2150466687, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
+
+INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
+VALUES (2150466687, 8040, 11993352, 71.90453, -18.06085, -24.071, 0.7059813, 0.7059813, -0.03987988, -0.03987988) /* PCAPRecordedLocation */
+/* @teleloc 0x00B70108 [71.904530 -18.060850 -24.071000] 0.705981 0.705981 -0.039880 -0.039880 */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (2150466687,   1, 1342178494) /* Owner */
+     , (2150466687,   2, 1342178494) /* Container */
+     , (2150466687, 8000, 2150466687) /* PCAPRecordedObjectIID */
+     , (2150466687, 8008, 1342178494) /* PCAPRecordedParentIID */;
+
+INSERT INTO `biota_properties_spell_book` (`object_Id`, `spell`, `probability`)
+VALUES (2150466687,  1335,      2) 
+     , (2150466687,  1358,      2) 
+     , (2150466687,  1406,      2) 
+     , (2150466687,  1615,      2) 
+     , (2150466687,  1625,      2) ;

@@ -1,0 +1,109 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Tiderius-playthrough-early-level-pcap-2017-01\pkt_2017-1-20_1484943502_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\Tiderius-playthrough-early-level-pcap-2017-01\pkt_2017-1-5_1483604912_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Tiderius-playthrough-early-level-pcap-2017-01\pkt_2017-1-6_1483751674_log.pcap
+
+Partial Exports - Missing appraisal info:
+DAAF1F25:Foci of Strife
+DAB06D97:Foci of Artifice
+DAB16615:Pack
+DAAF20DC:Salvaged  (12)
+DAAF1F23:Salvaged  (18)
+DAADE948:Salvaged  (20)
+DAB1661A:Ravenous Eater Jaw
+DAB16617:Pyreal
+DAB1661D:Suikan War Master Robe
+DAB1661B:Suikan Life Master Robe
+DAB16619:Suikan Life Master Robe
+DAB16620:Suikan War Master Robe
+DAB16624:Titan Mana Charge
+DAB16622:Ust
+DAB1645E:Moderate Mana Stone
+DAB15E45:Splitting Tool
+DAAF261F:Pyreal
+DAB15AAB:Pyreal
+DAAF21A3:Pyreal
+DAAF21B8:Pack
+DAAB9413:Pyreal
+DAB15ADC:Abhorrent Eater Jaw
+DAB15ADE:Untranslated Page #20
+DAB16632:Moderate Mana Stone
+DAAF0ACF:Major Mana Stone
+DAB16614:Titan Mana Charge
+DAAF25EE:Titan Mana Charge
+DAB16635:Titan Mana Charge
+DAB16633:Suikan Life Master Robe
+DAB06766:Pack
+DAB1663A:Platinum Scarab
+DAAB8C97:Copper Scarab
+DAB1663B:Silver Scarab
+DAAD0B6B:Lead Scarab
+DAB1663C:Pyreal Pea
+DAB16628:Gold Scarab
+DAB16629:Diamond Scarab
+DAB1662A:Iron Scarab
+DAB1662B:Pyreal Scarab
+DAB1662C:Prismatic Taper
+DAB1662D:Prismatic Taper
+DAB1662E:Prismatic Taper
+DAB1662F:Pyreal Scarab
+DAB16630:Prismatic Taper
+DAB16631:Foci of Verdancy
+DAAF2938:Foci of Enchantment
+DAB06DA3:Greater Mana Stone
+DAB1663F:Major Mana Stone
+DAAF290F:Major Mana Stone
+DAB1663D:Major Mana Stone
+DAB0677E:Major Mana Stone
+DAB00B86:Major Mana Stone
+DAADE94D:Major Mana Stone
+DAADE94C:Major Mana Stone
+DAAC3806:Major Mana Stone
+DAB06DB4:Major Mana Stone
+DAB0677F:Salvaged  (35)
+DAB16641:Salvaged  (44)
+DAB16662:Major Mana Stone
+DAB06DB5:Shirt
+DAB1665F:Snow Lily
+DAB16650:Salvaged  (95)
+DAB06D8F:Salvaged  (16)
+DAAC3545:Salvaged  (9)
+DAB16671:Thick Gromnie Hide
+DAB16652:Salvaged  (25)
+DAAB742D:Salvaged  (17)
+DAB16673:Mattekar Hide
+DAB16651:Salvaged  (78)
+DAB1664F:Salvaged  (80)
+DAB06D90:Fire Shreth Hide
+DAB16655:Salvaged  (16)
+DAB16657:Salvaged  (8)
+DAB16674:Ebon Mattekar Hide
+DAB16654:Salvaged  (48)
+DAB16658:Salvaged  (64)
+DAB16656:Salvaged  (70)
+DAAC4569:Salvaged  (72)
+DAB16659:Salvaged  (56)
+DAB1665B:Salvaged  (37)
+DAB1665D:Salvaged  (24)
+DAB1665A:Salvaged  (27)
+DAB1665E:Salvaged  (26)
+DAB1665C:Salvaged  (99)
+DAB16669:Hardened Shard
+DAB16642:Salvaged  (99)
+DAAF1D5B:Trade Note (50,000)
+DAB1666A:Hardened Shard
+DAB1666C:Amuli Leggings
+DAB1667B:Plated Shard
+DAB16672:Sturdy Armoredillo Hide
+DAB16677:Large Armoredillo Hide
+DAAF28B9:Large Armoredillo Hide
+DAB16664:Reedshark Hide Greaves
+DAB1667E:Charged Shard
+DAB01036:Charged Shard
+DAAC3E42:Slasher Reedshark Hide
+DAAF1CD2:Citadels Portal Device
+DAB067B0:Some Changes for February 2012
+
+Missing Exports - Possessed items that were not found:

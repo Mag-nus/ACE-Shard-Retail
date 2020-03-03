@@ -1,0 +1,80 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-12-2017\Games\pkt_2017-1-29_1485735010_log.pcap
+
+Partial Exports - Missing appraisal info:
+858EC030:Foci of Enchantment
+858EC031:Foci of Artifice
+858EC032:Prismatic Taper
+858EC033:Lead Scarab
+858EC034:Bread
+858EC036:Welcome Letter
+858EC037:Sack
+858EC03C:Adept Healing Kit
+858EC03E:Scroll of Life Magic Mastery Self II
+858EC03F:Gem
+858EC042:Gem
+858EC044:The Rat Nest
+858EC045:Pyreal
+858EC046:Calling Stone
+858EC047:Crumpled Note
+858EC048:Greeter's Key
+858EC04A:Gem
+858EC04B:Quartermaster's Workshop Key
+858EC04E:A Crumpled Note
+858EC04F:Aura of Blood Drinker Self II
+858EC050:Trade Note (100)
+858EC05C:Aura of Swift Killer Self II
+858EC054:Scroll of Item Tinkering Ignorance II
+858EC067:Handy Healing Kit
+858EC05A:Scroll of Light Weapon Mastery Self III
+858EC066:Scroll of Enfeeble Other III
+858EC068:Aura of Hermetic Link Self II
+858EC069:Adept Healing Kit
+858EC06A:Bronze Gear from a Statue
+858EC06B:Handy Healing Kit
+858EC06C:Scroll of Harm Other
+858EC072:Scroll of Frost Bane
+858EC070:Gem
+858EC075:Scroll of Fire Protection Self
+858EC079:Iron Scarab
+858EC07A:Prismatic Taper
+858EC080:Handy Healing Kit
+858EC083:Scroll of Acid Protection Self III
+858EC085:Handy Healing Kit
+858EC087:Adept Healing Kit
+858EC089:Directions to Hunter's Leap
+858EC08A:Dungeon Fern
+858EC08B:Golem Mound
+858EC08C:A Banderling Ruin
+858EC08D:Hilltop
+858EC08E:Edelbar Directions
+858EC08F:Pack
+858EC090:Iron Pea
+858EC091:Gem
+858EC092:Academy Stamp
+858EC094:Banderling Scalp
+858EC095:Scroll of Stamina to Health Self
+858EC097:Old Scarlet Red Letter
+858EC099:Old Scarlet Red Letter
+858EC09B:Pack
+858EC09C:Scroll of Acid Vulnerability Other IV
+858EC09D:Old Scarlet Red Letter
+858EC09E:Scroll of Light Weapon Mastery Self II
+858EC09F:Pack
+858EC0A1:Hot Pepper
+858EC0A2:Scroll of Acid Protection Other IV
+858EC0A4:Scroll of Arcane Enlightenment Self II
+858EC0AA:Banderling Scalp
+858EC0AC:Scroll of Lockpick Mastery Other V
+858EC0AE:Old Lucky Gold Letter
+858EC0AF:Old Scarlet Red Letter
+858EC0B0:Old Scarlet Red Letter
+858EC0B3:Swamp Stone
+858EC0B4:Gem
+D70AAE23:Stipend
+858EC0BC:Pack Burun Kukuur
+858EC0BD:Some Changes for February 2012
+858EC0BE:Blackmoor's Favor
+858EC0BF:Refreshing Elixir
+
+Missing Exports - Possessed items that were not found:

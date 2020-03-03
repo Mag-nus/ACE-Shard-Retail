@@ -1,0 +1,204 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap6\pkt_2017-1-29_1485719179_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap6\pkt_2017-1-29_1485719179_log.pcap
+
+Partial Exports - Missing appraisal info:
+D740BC70:Pack
+D740BC19:Gold Scarab
+D7412F0C:Lead Scarab
+D740BC9F:Iron Scarab
+D740BCD4:Chorizite
+D740BC2F:Note from Hea Toneawa to Aun Mariona
+D7412EC1:Silver Scarab
+D7412EC2:Copper Scarab
+D740BC30:Diamond Scarab
+D740BC45:Puzzle Box
+D73A1263:Broken Virindi Mask
+D740BCDF:Puzzle Box
+D740BC39:Sturdy Iron Key
+D740BC2B:Heart of the Innocent
+D740BC2C:Worn Old Key
+D740BC47:Scroll of Gift of Vitality
+D7412F62:Splitting Tool
+D740BC7E:Sturdy Iron Key
+D740BC6E:Virindi Singularity Key
+D740BCDA:Scroll of Morimoto's Blessing
+D7412E86:Trade Note (150,000)
+D740BC09:Pyreal Scarab
+D740BC96:Amulet
+D740BC5B:Mug
+D73444AD:Foci of Verdancy
+D740BC53:Foci of Enchantment
+D740BBF1:Foci of Artifice
+D740BC7F:Pack
+D7412EB6:Serpent Banner
+D740BC3F:Falcon Banner
+D740BCDB:Siraluun Headdress
+D740BC33:Salvaged  (4)
+D740BC3A:Cestus
+D740BBFC:Gumshoe Token
+D740BC4D:Torch
+D7412E7C:Sturdy Iron Key
+D7412E69:Sturdy Iron Key
+D7412F3E:Small Shard
+D73EAD21:Writ of Refuge
+D740BC68:Concentrated Aqua Incanta
+D722FD18:Brimstone Pea
+D740BC34:Pyreal Pea
+D734629D:Wrapped Bundle of Blunt Arrowheads
+D740BC5F:Wrapped Bundle of Arrowshafts
+D740BC02:Ust
+D740BC5E:Sturdy Iron Key
+D740BC1C:Sturdy Iron Key
+D740BC35:Sturdy Iron Key
+D740BD19:Sturdy Iron Key
+D740BC94:Deadly Frog Crotch Arrow
+D740BC64:Covenant Sollerets
+D740BC6C:Pack
+D7412E96:Wooden Tablet
+D740BC97:Aged Tome
+D740BBF9:Salvaged  (20)
+D740BCB3:A Certificate of Permission
+D740BBE1:A Bronze Key
+D740BC6D:Pyreal Forge Bellows
+D740BC2E:An Unlocked Large Mnemosyne
+D740BC55:Amulet
+D740BCB2:Snow Pie
+D740BCCE:Sturdy Iron Key
+D740BC6B:A Large Mnemosyne
+D740BC4C:Sturdy Iron Key
+D740BC7D:Salvaged  (51)
+D740BC25:Salvaged  (100)
+D7412E36:Salvaged  (100)
+D740BC74:Lapyan Plant
+D740BCA0:Obsidian Shard
+D740BC67:Imaging Crystal
+D740BC29:Relanim Plant
+D7412EEA:Minalim Plant
+D7412F0D:Argenory Plant
+D740BCEE:Deadly Blunt Arrow
+D740BC01:Pack
+D7412E59:Staff
+D7412E53:Wand
+D740BBF2:Salvaged  (5)
+D740BC31:Iolite Gem
+D740BC65:Empty Flask
+D7412E88:Explorer Title Token
+D7412E77:Scroll of Cleanse Item Magic
+D740BCC8:Intricate Obsidian Key
+D740BCC7:Seal
+D740BD0A:Sturdy Iron Key
+D7412EFA:Fish Stamp
+D740BD5B:Chilled Shard
+D73EAD30:Shackles of Obedience
+D740BCCC:Stamina Tonic
+D7412E4E:Dinner Plate
+D740BCA4:Stamina Brew
+D740BC3D:Scroll of Self Loathing
+D740BC4B:Scroll of Might of the 5 Mules
+D740BC51:Scroll of Light Weapon Ineptitude Other VII
+D740BCB7:Scroll of Hydra's Head
+D7412E03:Scroll of Archer's Gift
+D740BC75:Gem
+D740BD13:Gem
+D740BC5A:Flagon
+D7412DE3:Flaming Nekode
+D740BD4D:Mana Elixir
+D740BCB9:Prismatic Taper
+D7412E37:Pyreal
+D7412E76:Salvaged  (86)
+D7412E34:Salvaged  (65)
+D740BC5D:Slithe Tradittor's Notes
+D740BD11:Obsidian Shard
+D740BBFA:Salvaged  (21)
+D740BC6F:Salvaged  (47)
+D7412EC9:Silver Pea
+D740BC11:Salvaged  (3)
+D7412ED2:Salvaged  (100)
+D740BC95:Granite Heart
+D740BC27:Wand
+D740BCBE:Salvaged  (48)
+D7412E21:Pyreal Nugget
+D740BCA6:Salvaged  (61)
+D740BC44:Salvaged  (78)
+D7412E71:Sturdy Iron Key
+D7412EB9:Salvaged  (58)
+D7412EF8:Salvaged  (46)
+D740BCD2:Dark Revenant Thighbone
+D7412E80:Flagon
+D740BC66:Orb
+D740BC4F:Turpeth Pea
+D740BCC9:Salvaged  (100)
+D740BCBB:Salvaged  (9)
+D740BC76:Lead Pea
+D740BEC4:Salvaged  (50)
+D740BC42:Salvaged  (43)
+D740BCA3:Gem
+D740BC49:Salvaged  (50)
+D7412E8C:Salvaged  (97)
+D740BCCB:Gem
+D7412E35:Salvaged  (62)
+D740BCB0:Salvaged  (43)
+D740BCBC:Pyreal
+D740BC6A:Salvaged  (82)
+D7412E7B:Salvaged  (93)
+D7412EC7:Scroll of Drain Stamina Other VI
+D7412E99:Salvaged  (66)
+D740BD12:Wrapped Bundle of Armor Piercing Arrowheads
+D7412EEF:Salvaged  (55)
+D740BCA1:Salvaged  (65)
+D7412EA8:Scroll of Flame Bolt VI
+D7412EC0:Salvaged  (50)
+D740BCBD:Pyreal Sliver
+D73EAD20:Diamond Heart
+D7412E4D:Salvaged  (77)
+D740BC73:Salvaged  (63)
+D740BCD6:Copper Pea
+D7412E19:Health Elixir
+D7410BAB:Stamina Brew
+D7412E1D:Iron Pea
+D7412E0F:Virindi Directive Key
+D740BC63:Scroll of Adja's Gift
+D740BC43:Salvaged  (20)
+D7412EBA:Salvaged  (61)
+D7412EAF:Salvaged  (69)
+D740BC37:Dark Speck
+D7412EBF:Trade Note (50,000)
+D740BCB5:Prismatic Taper
+D740BCD1:Berimphur Plant
+D740BCDE:Gem
+D740BC50:Gem
+D7412EAB:Scroll of Leadership Ineptitude VI
+D740BCD0:Ruddy Gromnie Hide
+D7412E24:Verdalim Plant
+D7412E29:Deadly Lightning Arrow
+D7412E72:Treated Healing Kit
+D7412E5A:Salvaged  (100)
+D7412EB7:Salvaged  (4)
+D7412E93:White Jewel
+D740BCB8:Bunch of Nanners
+D7412E1E:Salvaged  (80)
+D7376956:Salvaged  (3)
+D7412E15:Prismatic Taper
+D740BCE0:Salvaged  (60)
+D7412E14:Salvaged  (15)
+D7412E90:Gem
+D7412DFD:Holtburg Portal Gem
+D7324751:Rithwic Portal Gem
+D7412E1B:Al-Arqas Portal Gem
+D7412E9D:Rust Gromnie Tooth
+D7412E74:Ivory Gromnie Hide
+D7412DDB:Treated Healing Kit
+D7410B45:Ring
+D740BD45:Pyreal Pea
+D7412EE8:Scroll of Fiery Blessing
+D7412E91:Chainmail Leggings
+D740BD1B:Salvaged  (4)
+D7412E3A:Pack Asheron
+D740BC32:Platinum Scarab
+D7412ED0:Some Changes for February 2012
+D740BCD3:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

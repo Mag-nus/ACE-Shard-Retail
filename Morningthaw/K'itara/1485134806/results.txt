@@ -1,0 +1,78 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-22_1485134283_log.pcap
+
+Partial Exports - Missing appraisal info:
+80820859:Sack
+8082085A:Ust
+8082085B:Salvage (100)
+8082085C:Chevron Cloak
+80820862:Scroll of Shield Mastery Self VII
+8082085D:Halved Cloak
+8082085E:Salvage (100)
+8082085F:Salvage (100)
+80820861:Salvage (100)
+80820863:Colban Plant
+80820864:Relanim Plant
+80820865:Salvage (100)
+8082086F:Salvage (100)
+80820870:Trade Note (10,000)
+C02C17AE:Pyreal
+80820872:Foci of Artifice
+80820877:Mana Forge Key
+80820878:Mana Forge Key
+80820879:Sturdy Steel Key
+8082087B:Quiddity Ingot
+8082087C:Braced Mana Forge Key
+8082087D:Small Mattekar Hide
+8082087E:Thick Gromnie Hide
+80820881:Salvage (100)
+80820884:Salvage (100)
+80820885:Salvage (100)
+80820886:Salvage (100)
+80820890:Salvage (100)
+80820891:Sturdy Steel Key
+80820892:Sturdy Iron Key
+808208AB:Aluvian Festival Light
+808208E1:Agent of Arcanum List
+80820899:Salvage (100)
+8082089A:Salvage (100)
+808208A5:Scroll of Arcanum Salvaging VII
+8082089B:Salvage (100)
+8082089C:Salvage (100)
+8082089D:Salvage (100)
+8082089E:Salvage (100)
+8082089F:Salvage (100)
+808208B5:Protective Drudge Charm
+808208A1:Salvage (100)
+808208A2:Salvage (100)
+808208C2:Pack
+808208A3:Salvage (100)
+808208A4:Salvage (100)
+808208A8:Salvage (100)
+808208A9:Salvage (100)
+808208AA:Salvage (100)
+808208AF:Salvage (100)
+808208B1:Gem of Stillness
+808208B2:Gem of Stillness
+808208B3:Gem of Stillness
+808208B4:Pack Martine
+808208B6:Salvage (100)
+808208B7:Salvage (100)
+808208BC:Ring of Intellect
+808208BD:Ring
+808208BE:Mechanical Scarab
+808208C3:Gorget
+808208D5:Ring
+808208C5:Loose Shirt
+808208C8:Salvage (100)
+808208C9:Salvage (100)
+808208CA:Ring of Intellect
+808208CB:Salvage (100)
+808208CF:Salvage (100)
+808208D0:Necklace of the Elemental Adepts
+808208DF:Pathwarden Token
+808208D4:Coalesced Aetheria
+808208E0:Oil of Rendering
+808208E4:Salvage (45)
+
+Missing Exports - Possessed items that were not found:

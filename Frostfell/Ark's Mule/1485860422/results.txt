@@ -1,0 +1,119 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Cyberkiller-01-31-2017-Random\pkt_2017-1-31_1485860405_log.pcap
+
+Partial Exports - Missing appraisal info:
+DD32F919:Pack
+DD32F982:Pyreal
+DD32F9B7:Alacritous Ink
+DD32F94A:Polar Ursuin Lair
+DD32F9C0:Parabolic Ink
+DD32F9DA:Scroll of Raven Fury
+DD32F932:Pack
+DD32F94C:Pack
+DD32F965:Pack
+DD32F94D:Glyph of Light Weapons
+DD32F94E:Glyph of Mana
+DD32F94F:Glyph of Light Weapons
+DD32F950:Glyph of Light Weapons
+DD32F951:Glyph of Light Weapons
+DD32F952:Glyph of Lockpick
+DD32F953:Glyph of Recklessness
+DD32F954:Glyph of Fletching
+DD32F955:Glyph of Alchemy
+DD32F956:Glyph of Missile Defense
+DD32F957:Glyph of Endurance
+DD32F958:Glyph of Loyalty
+DD32F959:Glyph of Healing
+DD32F95A:Glyph of Item Tinkering
+DD32F95B:Glyph of Magic Item Tinkering
+DD32F95C:Glyph of Creature Enchantment
+DD32F95D:Glyph of Quickness
+DD32F95E:Glyph of Melee Defense
+DD32F95F:Glyph of Strength
+DD32F960:Glyph of Coordination
+DD32F961:Glyph of Jump
+DD32F962:Glyph of Lightning
+DD32F963:Glyph of Life Magic
+DD32F964:Glyph of Piercing
+DD32F966:Glyph of Person Appraisal
+DD32F967:Glyph of Heavy Weapons
+DD32F968:Glyph of Missile Weapons
+DD32F969:Glyph of Light Weapons
+DD32F96A:Glyph of Two Handed Combat
+DD32F96B:Glyph of Dirty Fighting
+DD32F96C:Glyph of Monster Appraisal
+DD32F96D:Glyph of War Magic
+DD32F96E:Glyph of Shield
+DD32F96F:Glyph of Deception
+DD32F970:Glyph of Salvaging
+DD32F971:Glyph of Arcane Lore
+DD32F972:Glyph of Armor Tinkering
+DD32F973:Glyph of Cooking
+DD32F974:Glyph of Item Enchantment
+DD32F975:Glyph of Leadership
+DD32F976:Glyph of Run
+DD32F977:Glyph of Missile Weapons
+DD32F978:Glyph of Weapon Tinkering
+DD32F979:Glyph of Mana Conversion
+DD32F97A:Glyph of Health
+DD32F97B:Glyph of Slashing
+DD32F97C:Glyph of Frost
+DD32F97D:Glyph of Corrosion
+DD32F9F5:Idol Gem
+DD32F983:Pack
+DD32F99C:Pack
+DD32FA19:Inscription of Willpower Self
+DD32F9B5:Pack
+DD32F9E4:Nine of Hands
+DD32F9B6:Ink of Separation
+DD32F9BD:Ink of Direction
+DD32F9B8:Glyph of Finesse Weapons
+DD32F9B9:Glyph of Missile Weapons
+DD32F9BA:Glyph of Void Magic
+DD32F9BB:Glyph of Dual Wield
+DD32F9BC:Glyph of Sneak Attack
+DD32F9BE:Quill of Extraction
+DD32F9BF:Quill of Infliction
+DD32F9C1:Ink of Conveyance
+DD32F9C3:Ink of Partition
+DD32F9C2:Glyph of Summoning
+DD32F9C4:Glyph of Self
+DD32F9C5:Glyph of Magic Defense
+DD32F9C6:Glyph of Focus
+DD32F9C7:Glyph of Damage
+DD32F9C8:Glyph of Nether
+DD32F9C9:Ink of Objectification
+DD32F9CA:Quill of Benevolence
+DD32F9E5:Ace of Hands
+DD32F9CB:Glyph of Flame
+DD32F9CC:Glyph of Bludgeoning
+DD32F9CD:Ink of Nullification
+DD32F9E6:Three of Hands
+DD32F9E7:Five of Hands
+DD32F9E8:Ten of Hands
+DD32F9E9:Two of Hands
+DD32F9EA:Two of Hands
+DD32F9EB:Queen of Eyes
+DD32F9EC:Five of Eyes
+DD32F9ED:Two of Eyes
+DD32F9EE:Ace of Eyes
+DD32F9EF:Ten of Eyes
+DD32F9F0:Six of Eyes
+DD32F9F1:Six of Eyes
+DD32F9F2:Nine of Eyes
+DD32F9F3:Eight of Eyes
+DD32F9F6:Phyntos Honey
+DD32F9F8:Inscription of Swift Killer Self
+DD32FA1D:Mana Scarab
+DD32FA0F:Salvage (100)
+DD32FA10:Salvage (100)
+DD32FA11:Salvage (100)
+DD32FA1A:Inscription of Mana Conversion Mastery Self
+DD32FA1B:Quill of Introspection
+DD32FA1C:Ink of Formation
+DD32FA1E:Glyph of Mana Regeneration
+DD32FA1F:Glyph of Stamina Regeneration
+DD32FA20:Glyph of Regeneration
+DD32FA21:Glyph of Stamina
+
+Missing Exports - Possessed items that were not found:

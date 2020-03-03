@@ -1,0 +1,126 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2-20170203071709\pkt_2017-1-30_1485786304_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485761477_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-26_1485449335_log.pcap
+
+Partial Exports - Missing appraisal info:
+9288E0F5:Deed
+811D276F:Asheron's Benediction
+811D2770:Blackmoor's Favor
+811D277B:Prismatic Taper
+811D2771:Lytelthorpe Portal Gem
+811D2772:Yaraq Portal Gem
+928292A9:Pyreal
+811D2773:Yanshi Portal Gem
+811D2774:Samsur Portal Gem
+9282F2B1:Pyreal
+811D2775:Rithwic Portal Gem
+811D2776:Holtburg Portal Gem
+82018B62:Couch
+811D2777:Al-Arqas Portal Gem
+811D2778:Redspire Portal Gem
+8071C204:Snowman Snowglobe
+811D2779:Sanamar Portal Gem
+811D277A:Nanto Portal Gem
+82018B69:Large Gharu'ndim Rug
+811D277C:Silver Scarab
+811D277D:Copper Scarab
+811D27D1:Aphus Lassel Portal Gem
+811D277F:Salvaged  (100)
+811D2780:Salvaged  (100)
+811D2781:Salvaged  (100)
+811D27E0:Pack Gaerlan
+811D2782:Salvaged  (100)
+811D2783:Salvaged  (100)
+82018AA3:Homecoming Pennant
+811D2784:Salvaged  (100)
+811D2785:Salvaged  (100)
+811D27ED:Strathelar Pennant
+811D2786:Salvaged  (100)
+811D2787:Salvaged  (100)
+82018AA4:Homecoming Pennant
+811D2788:Salvaged  (100)
+811D2789:Salvaged  (100)
+811D27EE:Homecoming Pennant
+811D278A:Salvaged  (100)
+811D278B:Salvaged  (100)
+82036B46:Staff of the Fallen
+811D278C:Salvaged  (100)
+811D278D:Salvaged  (100)
+B1CA2E89:Blank Augmentation Gem
+811D2792:Salvaged  (100)
+811D2793:Salvaged  (100)
+80FE7828:Fireworks
+811D2794:Salvaged  (100)
+811D2795:Salvaged  (100)
+811D27B5:Salvaged  (100)
+811D27B6:Salvaged  (100)
+807208F7:Wallbound Niffis
+811D27B7:Salvaged  (100)
+811D27B8:Salvaged  (100)
+806DF912:Fertilized Fly Trap
+811D27B9:Salvaged  (100)
+82036B85:Skull Stamp
+8071C201:Fertilized Pitcher Plant
+82018B60:Alloy Machine
+82018B61:Font of Jojii
+806E66D3:The Plan
+811D279B:Salvaged  (100)
+811D279C:Salvaged  (100)
+82018AF3:Through the Portal Years
+811D279D:Salvaged  (100)
+811D279E:Salvaged  (100)
+811D27D3:Pack Gaerlan
+811D279F:Salvaged  (100)
+811D27A0:Salvaged  (100)
+811D27A1:Salvaged  (100)
+811D27A2:Salvaged  (100)
+811D27A3:Salvaged  (100)
+811D27A4:Salvaged  (100)
+811D27A5:Salvaged  (100)
+811D27A6:Salvaged  (100)
+811D27A7:Salvaged  (100)
+811D27A9:Salvaged  (100)
+811D27AA:Salvaged  (100)
+811D27AB:Salvaged  (100)
+811D27AC:Salvaged  (100)
+811D27AD:Salvaged  (100)
+811D27AE:Salvaged  (100)
+811D27A8:Salvaged  (100)
+8D0B8400:Foolproof Fire Opal
+8D0B82B0:Foolproof Fire Opal
+811D2798:Salvaged  (100)
+811D2799:Salvaged  (100)
+811D27B0:Salvaged  (100)
+811D27C1:Foci of Artifice
+811D27B1:Salvaged  (100)
+811D27B2:Salvaged  (100)
+811D27B4:Salvaged  (100)
+811D27BA:Salvaged  (100)
+811D27BB:Salvaged  (100)
+811D27BC:Salvaged  (100)
+811D27BD:Salvaged  (100)
+811D27BE:Salvaged  (100)
+811D27BF:Salvaged  (100)
+811D27C0:Salvaged  (100)
+811D27B3:Salvaged  (100)
+811D27C4:Wrapped Bundle of Arrowshafts
+811D27C5:Wrapped Bundle of Deadly Frost Arrowheads
+811D27CC:Whittling Knife
+8D095FCA:Soul Bound Staff
+8F3ED4A4:Nether Sceptre
+8FCD425E:Nether Sceptre
+8FCEDB8A:Nether Sceptre
+8E104BE2:Nether Sceptre
+8FEE4DFB:Staff
+82018AF2:Pack T'thuun
+806DF0AA:Abominable Pack Snowman
+806CB9DE:Zombie Butler
+82018AB6:Gladiator Diemos Statue
+82018B66:Head of the Paradox-touched Olthoi Queen
+814EFC32:Oxidized Statue
+811D27D4:Pack Ancient Olthoi Queen
+
+Missing Exports - Possessed items that were not found:

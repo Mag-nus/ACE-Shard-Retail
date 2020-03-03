@@ -1,0 +1,242 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-31_1485865808_log.pcap
+
+Partial Exports - Missing appraisal info:
+8A088718:Foci of Artifice
+8A08871A:Calling Stone
+8A08871B:Ust
+8A08871C:Blackmoor's Favor
+8A08871D:Quest Weapon Coin
+8A08871E:Tusker Title Token
+8A088727:Copper Scarab
+8A088728:Prismatic Taper
+A28D8104:Dirk
+A28D6491:Flaming Nekode
+A28D6492:Acid Nekode
+B274C15F:Acid Nekode
+8009F16A:Frost Nekode
+AF246072:Knife
+B0CD7F70:Jambiya
+8009F157:Frost Dirk
+CC715D96:Nether Baton
+CC6A817D:Acid Sceptre
+CCA9316C:Quarter Staff
+800DBDC7:Weeping Bow
+CCA397EC:Quarter Staff
+8A08877A:Frost Ken
+8A0887B5:Flaming Quadrelle
+8A0887B7:Ono
+8A0887BE:Acid Hand Wraps
+BE4EE16E:Flaming Kaskara
+8A0887B9:Claw
+8A0887C3:Acid Claw
+8A0887B2:Small Belt Pouch
+B2BAE44A:Flaming Nabut
+BF914656:Pike
+BFF07BBC:Acid Scimitar
+BFEEAD68:Yaoji
+AD8E0450:Fire Spine Glaive
+BB3B7ADE:Dericost Blade
+BE3F2055:Electric Spine Glaive
+BF19D858:Shou-ono
+BF1D6E65:Frost Tetsubo
+BEE42949:Tetsubo
+C088241C:Nether Sceptre
+8009F108:Acid Sceptre
+8A088773:Dagger
+8A0887A0:Acid Ono
+8A088775:Lightning Jo
+80A7FCB0:War Axe
+8A08873F:Frost Hand Wraps
+8A08877B:Lightning Lancet
+80AB8279:Electric Crossbow
+B27A304A:Flaming Nekode
+8A088761:Acid Quarter Staff
+8A088762:Knife
+8A088763:Hatchet
+8A088764:Khanjar
+8099A1EE:Acid Hand Axe
+8A088765:Dabus
+8A088766:Blunt Staff
+8A088767:Quarter Staff
+8A088768:Greataxe
+8A088769:Frost Knife
+8A08876C:Pike
+BB9701DA:Nabut
+BC6F0E4F:Morning Star
+BEB053DB:Frost Assagai
+BF1AE2A1:War Axe
+BE401B52:Spiked Club
+BF1E4BA3:Flaming Greataxe
+B2B8724D:Frost Morning Star
+BFEEB96F:Electric Board with Nail
+BFEEB80F:Battle Axe
+BE40896F:Spiked Club
+BF826262:Tetsubo
+8A088774:Naginata
+80AB8276:Slashing Crossbow
+8A088778:Acid Trident
+8009F15C:Acid Jambiya
+8A088779:Acid Board with Nail
+8A08877C:Battle Axe
+8A08877D:Flaming Stiletto
+8A08877E:Lightning War Axe
+8A08877F:Battle Axe
+80876611:Long Sword
+80E106B2:Partizan
+80A7B80B:Frost Spiked Club
+80AB82A9:Flaming Lancet
+80807822:Ken
+A28D8024:Nekode
+8009F168:Electric Trident
+80AB8265:Fire Slingshot
+80AB82A8:Blunt Compound Bow
+8111B0C2:Mace
+80AB8278:Slashing Bow
+80AB82C2:Nodachi
+80E24204:Acid Dirk
+80E880AF:Lightning Morning Star
+8A088783:Pack
+8A088784:Blunt Crossbow
+8A088785:Frost Bow
+8A088786:Slashing Compound Bow
+8A088787:Piercing Crossbow
+8A088788:Slashing Crossbow
+8A088789:Acid Compound Crossbow
+8A08878A:Piercing Compound Crossbow
+8A08878B:Slashing Compound Crossbow
+8A08878C:Fire Crossbow
+8A08878D:Frost Bow
+8A08878E:Blunt Compound Crossbow
+8A08878F:Electric Bow
+8A088792:Electric Compound Crossbow
+8A088793:Slashing Bow
+8A088794:Frost Slingshot
+8A088795:Frost Bow
+8A088797:Electric Bow
+800DBDD2:Slashing Crossbow
+800DBDCD:Electric Crossbow
+BB710010:Bow of the Fallen
+8A08879F:Acid Tungi
+80AB824C:Weeping Crossbow
+8A0887A1:Lightning Claw
+80AB824B:Dark Blunt Compound Crossbow
+80AB824A:Slashing Compound Crossbow
+80AB824D:Dark Slashing Crossbow
+9855E22A:Dark Frost Compound Crossbow
+800DBE14:Dark Acid Compound Crossbow
+A5F3C81C:Tetsubo
+8000E7B7:Tetsubo
+89C42355:Lightning Pike
+B4976E24:Lightning Spadone
+9855E22B:Shimmering Isparian Crossbow
+9855E229:Bound Singularity Crossbow
+A6D6CAF1:Royal Runed War Bow
+BB71000D:Slashing Crossbow
+B773364A:Bound Singularity Crossbow
+B773362D:Dark Frost Compound Crossbow
+9855E22D:Weeping Crossbow
+B7733646:Dark Fire Crossbow
+9855E228:Renegade Crossbow
+C7B4BC1D:Black Cloud Bow
+800DBDCB:Weeping Crossbow
+800DBDD1:Soul Bound Crossbow
+CC724EE7:Staff
+8A0887D3:Frost Stick
+8A0887D4:Fire Spiked Club
+8A0887D5:Frost Stick
+8A0887D6:Partizan
+8A0887D7:Trident
+8A0887DA:Schlager
+8A0887DB:Dirk
+8A0887DC:Frost Spiked Club
+8A0887E0:Acid Dagger
+8A0887E2:Flaming Stick
+8A0887E6:Flaming Scimitar
+8A0887E3:Budiaq
+8A0887E5:Frost Spada
+8A0887EE:Lightning Nekode
+8A0887F0:Knife
+8A0887F1:Hammer
+8A088780:Flaming Dagger
+8A0887F2:Naginata
+8A0887F3:Rapier
+8A0887F7:Lightning Kasrullah
+80AB8284:Frost Hand Wraps
+81127D1D:Frost Nabut
+80AB82BF:Acid Great Star Mace
+80AB82C0:Lightning Assagai
+80AB82C1:Frost Spadone
+80AB82C3:Lightning Nodachi
+80A3D46D:Frost Quadrelle
+80AB82A7:Electric Spiked Club
+80AB827A:War Hammer
+8009F158:Fire Spine Glaive
+81F6A676:Lugian Hammer
+80807824:War Axe
+80AB82A5:Katar
+80AB82AB:Acid Claw
+8112621A:Jambiya
+81175C4C:Flaming Stick
+80DD7003:Morning Star
+8A088772:Fire Naginata
+8A088776:Flaming Claw
+8A088777:Claw
+BBCB4350:Magari Yari
+8009F107:Frost Sceptre
+800195B8:Nether Staff
+8009F1B7:Frost Staff
+BF1D1F28:Lightning Shou-ono
+BF1D38A9:Takuba
+BF0A4560:Lightning Yari
+BEE4896E:Frost War Axe
+BF1E20F0:War Axe
+BEC2413F:Nabut
+BE52144B:Flaming Hand Wraps
+BE5213F8:Lightning Knuckles
+BE507758:Slashing Sceptre
+BFF07EDA:Stick
+BFF6AF86:Nether Staff
+C01000A2:Quarter Staff
+BE52179F:Fire Spine Glaive
+C0575C12:Acid Quarter Staff
+C057BD6B:Frost Quarter Staff
+C04FB385:Lightning Quarter Staff
+C4C60477:Nether Baton
+C4A93F24:Flaming Quarter Staff
+C68C41D4:Frost Claw
+C6901B61:Quarter Staff
+C67F407C:Nether Staff
+C675CD0D:Nether Staff
+C67DD752:Nether Staff
+C6516156:Nether Staff
+80AB0794:Fire Staff
+80AB0793:Fire Baton
+80AB0797:Piercing Baton
+80AB0796:Slashing Baton
+80AB0795:Electric Baton
+C749D4A5:Quarter Staff
+C6D4B069:Acid Lugian Hammer
+80AB0775:Dirk
+80AB0748:Claw
+B77331F9:Electric Crossbow
+8A0887ED:Slashing Bow
+80AB0776:Electric Bow
+C95622D5:Nether Sceptre
+CA775436:Lightning Quarter Staff
+C95A11CE:Nether Staff
+C93D4341:Battle Axe
+CA7A27AE:Quarter Staff
+CB6B21CE:Wand
+CBBB122A:Acid Bow
+CBAC897D:Quarter Staff
+CBB69DA4:Acid Spiked Club
+CBDEBE33:Schlager
+CBB69598:Buckler
+CC1443E8:Lightning Claw
+CC70F38B:Slashing Compound Crossbow
+CC82AFA8:Acid Compound Crossbow
+CD72EE4C:Frost Rapier
+CD93F491:Nether Sceptre
+
+Missing Exports - Possessed items that were not found:

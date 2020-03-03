@@ -1,0 +1,157 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-27_1485531435_log.pcap
+
+Partial Exports - Missing appraisal info:
+C690F35E:Foci of Artifice
+C690F34F:A Ring of Acid Protection
+C690F2F3:Foci of Verdancy
+C690F378:Foci of Enchantment
+C690F370:Phantom Spear
+C690F32D:Chunk of High-Grade Chorizite
+C690F4C8:Scroll of Item Tinkering Expertise Other VI
+C690F366:Fire Auroch Horn
+C690F345:Great Mattekar Horn
+C690F33B:Braided Drudge Ravener Guts
+C690F33A:Pyreal Mote
+C690F332:Aerlinthe Patron Shirt
+C690F31C:Dho Creature Master Robe
+C690F2FB:Isparian Weapons Modifying Tool
+C690F340:Dho Item Master Robe
+C690F324:Gardener Pincer
+C690F339:Dho Creature Master Robe
+C690F338:Copper Heart
+C690F334:Dauloirae
+C690F30E:Budiaq
+C690F353:Aerlinthe Patron Shirt
+C690F307:Pyreal
+C690F333:Aerlinthe Patron Shirt
+C690F35D:Academy Wand
+C690F377:Frost Spear
+C690F34E:Aphus Lassel Portal Gem
+C690F36F:Naginata
+C690F32C:Acid Spear
+C690F365:Trident
+C690F344:Lightning Spear
+C690F33F:Trident
+C690F323:Awakener
+C690F31B:Braided Drudge Ravener Guts
+C690F30D:Dark Sliver
+C690F389:Soul Staff
+C690F352:Heavy Ursuin Coat
+C690F337:Treated Healing Kit
+C690F34D:Lesser Celdon Shadow Girth
+C690F380:Treated Healing Kit
+C690F376:Treated Healing Kit
+C690F35C:Yellow Virindi Wand
+C690F336:Frost Ono
+C690F391:White Rabbit Girth
+C690F36E:Scarecrow Mask
+C690F32B:Orange Monster Seed
+C690F364:Red Monster Seed
+C690F33E:Yellow Monster Seed
+C690F322:Infected Assailer Fur
+C690F31A:Warrior's Emblem
+C690F399:Antiquated Compass
+C690F388:Covenant Greaves
+C690F37F:Ruddy Winged Boots
+C690F35B:Heavy Crossbow
+C690F390:Silver Scarab
+C690F34C:Mattekar Hide Coat
+C690F375:Pulsating Wisp Heart
+C690F398:Pyreal
+C690F36D:Peerless Healing Kit
+C690F32A:Platemail Leggings
+C690F363:Flared Pants
+C690F33D:Niffis Pearl
+C690F51C:Flaming Budiaq
+C690F3A1:Pyreal
+C690F37E:Iron Scarab
+C690F35A:Prismatic Taper
+C690F34B:Lead Scarab
+C690F38F:Salvaged  (100)
+C690F359:Blackmoor's Favor
+C690F374:Salvaged  (100)
+C690F3A9:Salvaged  (100)
+C690F3C4:A Small Mnemosyne
+C690F36C:Salvaged  (100)
+C690F3C3:Fishing Pole
+C690F33C:Salvaged  (100)
+C690F397:Salvaged  (100)
+C690F3A0:Salvaged  (100)
+C690F386:Salvaged  (100)
+C690F3B1:Prismatic Taper
+C690F37D:Salvaged  (100)
+C690F396:Brilliant Shard
+C690F373:Salvaged  (100)
+C690F3BB:Asheron's Benediction
+C690F36B:Copper Scarab
+C690F3A8:Blackmoor's Favor
+C690F361:Salvaged  (2)
+C690F3B0:Frost Morning Star
+C690F3AF:Acid Nekode
+C690F39F:Seared Shard
+C690F385:Sack
+C690F37C:Salvaged  (100)
+C690F358:Salvaged  (100)
+C690F3B8:Intricate Obsidian Key
+C690F3C2:Salvaged  (100)
+C690F3BA:Salvaged  (100)
+C690F3AC:Intricate Obsidian Key
+C690F3A7:Salvaged  (100)
+C690F38D:Salvaged  (100)
+C690F3AB:Intricate Copper Key
+C690F372:Salvaged  (100)
+C690F36A:Salvaged  (100)
+C690F3CF:Dark Revenant Thighbone
+C690F360:Salvaged  (100)
+C690F3B3:Salvaged  (100)
+C690F3C7:Wood Heart
+C690F3B2:Salvaged  (100)
+C690F3D1:Salvaged  (100)
+C690F3C8:Salvaged  (100)
+C690F3C6:Salvaged  (100)
+C690F395:Salvaged  (100)
+C690F39E:Salvaged  (100)
+C690F384:Salvaged  (100)
+C690F3D9:Salvaged  (100)
+C690F3C5:Wand
+C690F37B:Faran Robe with Hood
+C690F371:Major Smoldering Stone
+C690F3C1:Salvage
+C690F3B9:Yellow Jewel
+C690F3A6:Faran Robe
+C690F38C:Faran Robe with Hood
+C690F3D0:Faran Robe
+C690F394:Faran Robe with Hood
+C690F3DD:Faran Robe with Hood
+C690F383:Concentrated Frost Oil
+C690F3D8:Concentrated Lightning Oil
+C690F37A:Concentrated Fire Oil
+C690F3F1:Celdon Girth
+C690F3A5:Singularity Keyring
+C690F38B:Singularity Keyring
+C690F3DC:Staff
+C690F393:Fire Compound Bow
+C690F3A3:Some Changes for February 2012
+C690F39C:Salvage
+C690F382:Salvage
+C690F379:Discus
+C690F3E3:Dark Sorcerer's Phylactery
+C690F3B7:Acid Dolabra
+C690F38A:Brilliant Amuli Coat
+C690F3F0:Shirt
+C690F3C9:Pants
+C690F3D6:White Virindi Wand
+C690F3A4:Steel Toed Boots
+C690F392:Salvaged  (100)
+C690F406:Salvaged  (100)
+C690F3DB:Salvaged  (100)
+C690F39B:Asheron's Supreme Raiment
+C690F3FD:Greater Blunt Arrow
+C690F3EF:Mattekar Hide Coat
+C690F3E2:Dho Item Master Robe
+C690F3BE:Trident
+C690F3B6:Celdon Girth
+C690F418:Deadly Hollow Spear
+
+Missing Exports - Possessed items that were not found:

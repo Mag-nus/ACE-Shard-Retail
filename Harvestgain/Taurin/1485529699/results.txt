@@ -1,0 +1,113 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-27_1485529072_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps-20170203071513\pkt_2017-1-27_1485529756_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485761287_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2-20170203071709\pkt_2017-1-28_1485598252_log.pcap
+
+Partial Exports - Missing appraisal info:
+810A645D:Foci of Artifice
+810DEF3B:Royal Dye
+810428B6:Copper Scarab
+811B5221:Prismatic Taper
+811B58CC:Serpent Crest
+811BEAAB:Asheron's Benediction
+811BCFFB:Blackmoor's Favor
+811B5422:Reinforced Banner Haft
+8118E484:Dinner Plate
+811D15A0:Durable Banner Haft
+811D14CD:Reinforced Banner Haft
+811A7666:Falcon Crest
+811B5738:Falcon Spear-Head
+8118E44C:Serpent Symbol
+811C28B8:Falcon Symbol
+811D1391:Gromnie Spear-Head
+811BF196:Gromnie Spear-Head
+811D156E:Serpent Crest
+811225B3:Serpent Spear-Head
+811BDF1B:Serpent Spear-Head
+811BF919:Serpent Symbol
+81184F65:Reinforced Banner Haft
+811B5647:Small Ursuin Hide
+81183C56:First Half of a Battered Spear
+8111DC86:First Half of a Battered Staff
+811AE7E1:First Half of a Battered Mace
+8118E924:First Half of a Battered Spear
+811800AA:Major Shivering Stone
+811B5848:Major Stinging Stone
+8118E69B:Major Stinging Stone
+811C2856:Major Sparking Stone
+811C2864:Banderling Predator Scalp
+811CBE65:Acid Tachi
+811CBE67:Lightning Dericost Blade
+811CBE6B:Lightning Broad Sword
+811A446E:Dauloirae
+811CBE79:Acid Tachi
+811CBE7A:Tachi
+811CBE7D:Tachi
+811CBE7C:Tachi
+811CBE7B:Tachi
+811CBE69:Lightning Tachi
+811CBE68:Lightning Scimitar
+811CBE78:War Axe
+811CBE24:Takuba
+811CBE31:Kithless Siraluun Stave
+811CBE30:Flaming Tachi
+811CBE63:Royal Runed Bastone
+811CBE60:Lugian Warlord's Scepter
+811DDBBD:Trident
+811DDBBC:Princely Runed Poniard
+811A3BF0:Frost Knife
+811DDBB9:Brass Knuckles
+811BFDAB:Princely Runed Dolabra
+811A87F7:Sacraloi
+810E6FC7:Flaming Ken
+811B587C:Frost Tachi
+811D1560:Flaming Bandit Dagger
+811D1563:Oswald's Dagger
+811C28D2:Acid Dirk
+811BF62A:Princely Runed Dolabra
+8118DD31:Royal Runed Partizan
+811BE48B:Princely Runed Bastone
+811CBE26:Frost Dirk
+811CBE28:Electric Spine Glaive
+811CBE4C:Frost Shou-ono
+811CBE50:Lightning Dirk
+811CBE66:Flaming Dericost Blade
+811CBE64:Bow of the Fallen
+811CBE2B:Piercing Crossbow
+811CBE52:Frost Crossbow
+811CBE29:Piercing Compound Crossbow
+811CBE51:Slashing Compound Crossbow
+811CBE53:Fire Compound Crossbow
+811CBE23:Blunt Crossbow
+811CBE22:Fire Compound Crossbow
+811CBE2C:Electric Compound Bow
+811CBE5B:Marble Key
+811DDBBE:Frost Compound Bow
+811B55D5:Royal Runed War Bow
+811DDBBA:Large Lugian Sinew
+81183A42:Royal Runed Arbalest
+811A84FF:Major Smoldering Stone
+811DDBBB:Large Lugian Sinew
+8085E42B:Studded Leather Sleeves
+811B55B9:Studded Leather Boots
+811DDBC2:Mask of the Hopeslayer
+811CBE5C:Marble Key
+811CBE6C:Electric Sceptre
+811CBE5E:Ghost Guise
+811CBE72:Fire Sceptre
+C7F17BCF:Stipend
+811CBE75:Acid Baton
+811CBE25:Sceptre
+811CBE32:Wand
+811CBE5A:Empty Stopped Keg
+811CBE5F:Finesse Weapons Specialist's Gauntlets
+811CBE61:Piercing Baton
+811CBE47:Wand
+811CBE2D:Staff
+811CBE46:Electric Baton
+811CBE45:Royal Runed Slashing Baton
+
+Missing Exports - Possessed items that were not found:

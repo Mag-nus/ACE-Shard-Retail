@@ -1,0 +1,212 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-31-2017-pkt_2017-1-31_1485847270_log\pkt_2017-1-31_1485847270_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-29-2017-pkt_2017-1-29_1485735637_log\pkt_2017-1-29_1485735637_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-29-2017-pkt_2017-1-29_1485737568_log\pkt_2017-1-29_1485737568_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-31-2017-pkt_2017-1-31_1485847270_log\pkt_2017-1-31_1485847270_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-31-2017-pkt_2017-1-31_1485847270_log\pkt_2017-1-31_1485847270_log.pcap
+
+Partial Exports - Missing appraisal info:
+C7C12A27:Rock
+C7C2A2DE:Pack
+C7C2A2DD:Major Stinging Stone
+C7C2A2DC:Northern Quiddity Fragment
+C7C2A2D8:Candeth Keep Stamp
+C7C2A2D6:The Healer's Heart
+C7C2A2D7:Pack Virindi
+C7C2A2D5:Helm of the Elements
+C7C2A2D3:Virindi Servant's Amulet
+C7BAB757:Pathwarden Trinket
+C7C1E226:Small Mattekar Hide
+C7C1E233:Bloodied Burun Hide
+C7C113C0:Falcon Spear-Head
+C7BA2A56:Falcon Symbol
+C7BB8C4B:Banner Haft
+C7BC4FB9:Pack
+C7BDBC1A:Crown of Anointed Blood
+C7BDB9D9:Virindi Consul Mask
+C7BDAE27:Sturdy Steel Key
+C7C10756:Candy Corn
+C7BA2F50:Gold Shallows Shredder Fin
+C7C111E8:Gold Moarsman Tooth
+C7C1242A:Scroll of Aura of Defense
+C7C111E9:Scroll of Storm's Blessing
+C7BDBFC4:Torn Cloth Scrap
+C7C046EA:Torn Cloth Scrap
+C7BE9591:Fiun Spellcasting Gloves
+C7C1E75D:Shadow Pass
+C7BD3A57:Haebrean Greaves
+C7BF83AA:Scroll of Icy Boon
+C7762D21:Haebrean Greaves
+C7BDD238:Martine's Robe
+C7BEAF3A:Pyreal
+C7BD3D22:Falcon Spear-Head
+C7C12A16:Gromnie Spear-Head
+C7C11444:Martine's Mask
+C7BE8477:Flaming Battle Axe
+C7BF7558:Battle Axe
+C7C1142E:Frost Silifi
+C7BDBEF4:Takuba
+C7BC6596:Quarter Staff
+C7C107AB:Lightning Scimitar
+C7C056BF:Shamshir
+C7BE8F90:Lightning Dericost Blade
+C7B96ED0:Blunt Compound Crossbow
+C7C01E18:Blunt Crossbow
+C7BF6ADF:Blunt Compound Crossbow
+C7C112A6:Pyreal
+C7BC9A37:Light Crossbow
+C7C11240:Scroll of Gift of Essence
+C7BD36AE:Scroll of Astyrrian's Gift
+C7C113D2:Scroll of Celcynd's Blessing
+C7C113D4:Festival Shirt
+C7C113D3:Writ of Refuge
+C7C10C85:Taulandoi
+C7BC9712:Heavy Crossbow
+C7C12923:Dansha-Ki's Gem of Portal Recall
+C7C113BE:Mattekar Hide
+C7C113C1:Banner Haft
+C7C01E25:Pathwarden Trinket
+C7BC9264:Plentiful Healing Kit
+C7C04E81:Asheron's Benediction
+C7C11467:Blackmoor's Favor
+C7C0A93A:Blackmoor's Favor
+C7BC6510:Major Sparking Stone
+C7BF80F0:The Healer's Heart
+C7B9A656:Princely Runed Arbalest
+C7BE909B:Scroll of Gelidite's Bane
+C7BE315C:Scroll of Inferno's Gift
+C7BE9093:Scroll of Gossamer Flesh
+C7C111EA:Candy Corn
+C7C11429:Banderling Predator Backpack
+C7C12A25:Gem of Stillness
+C7BDDCAC:Invoker
+C7BF2FD7:Colban Plant
+C7C124A8:Bobo's Stout
+C7BDA73F:Torn Cloth Scrap
+C7C0469B:Duke Raoul's Distillation
+C7C107C0:Hunter's Stock Amber
+C7C107C4:Torn Cloth Scrap
+C7BE93CE:Missile Specialist's Gauntlets
+C7BE921D:Light Crossbow
+C7BDC838:Aura of Mystic's Blessing
+C57275BC:Homecoming Pennant
+C7BEAD3D:Pack Pumpkin Lord
+C7C051E6:Tetsubo Slugger
+C7C0520A:Flaming Great Star Mace
+C7C11430:Quadrelle
+C7C11431:Spadone
+C7C11432:Lightning Magari Yari
+C7BF785B:Acid Crossbow
+C7C1142F:Lightning Khanda-handled Mace
+C7C05297:Virindi Inquisitor's Mask
+C7BF864F:Buadren
+C7C04B83:The Healer's Heart
+C7C12959:Elysa's Wondrous Orb
+C7C128F2:Staff
+C7C124A6:Sceptre
+C7BAF729:Staff
+C7C12938:Pack
+C7C12738:Torn Cloth Scrap
+BE842284:Torn Cloth Scrap
+C7B5B9A1:Stave of the Quiddity
+C7C114A4:Ornate Tumerok Breastplate
+C7C1086E:Aura of Infected Caress
+C7C1086D:Craftable Prism Fragment of Acid
+C7C100EC:Scroll of Executor's Blessing
+C7BC50AE:Gauraloi
+C7BC946B:Salvage
+C7C10878:Sturdy Iron Key
+C7BF6B5D:Knorr Academy Vambraces
+C7BD4872:Knorr Academy Pauldrons
+C7BF6B45:Salvaged  (100)
+C7BE917A:Pyreal
+C7C11201:Salvaged  (100)
+C7BF6B5E:Salvaged  (100)
+C7C1128C:Titan Mana Charge
+C7C0502C:Salvaged  (100)
+C7BE8172:Salvaged  (100)
+C7C11288:Pathwarden Trinket
+C7BE8161:Salvaged  (100)
+C7C12A2F:Bathrobe
+C7BA4179:Pack
+C7C108C5:Electric Bow
+C7C00A4C:Staff
+C7C108C4:Fire Sceptre
+C7C108CB:Blunt Baton
+C7C12454:Fire Sceptre
+C7BB236A:Sturdy Iron Key
+C7C128A5:Fire Sceptre
+C7C0AA24:Fire Baton
+C7BC3DB4:Yellow Monster Seed
+C7BF6A66:Physician's Crystal
+C7BDB392:Smithy's Crystal
+C7C11443:Acid Bow
+C7BF720A:Slashing Compound Bow
+C7BF7F68:Lightning Spadone
+C7BB449C:Stipend
+C7BE923E:Assault Sword
+C7C128A7:Major Stinging Stone
+C7BC67E3:Major Sparking Stone
+C7BE9B39:Major Smoldering Stone
+C7BF6742:Craftable Prism Fragment of Ice
+C64F91A7:Ebon Gromnie Tooth
+C7C11285:Suikan Creature Master Robe
+C7C0509B:Piercing Sceptre
+C7BE90C4:Frost Greataxe
+C7BDD326:Lightning Greataxe
+C7C047BA:Frost Greataxe
+C7BF6AAB:Acid Spadone
+C7C10F36:Shashqa
+C7C10644:Greataxe
+C7BF6C02:Frost Quadrelle
+C7BE7B96:Flaming Nodachi
+C7BAA99A:Nodachi
+C7C05723:Frost Nodachi
+C7C114A3:Argenory Plant
+C787D25E:Osseous Mace
+C7BE7D14:Shoes
+C7C0A2CA:Monty's High-Stakes Gambling Token
+C7BF517D:Pack
+C7C12A22:Salvaged  (100)
+C7C04FD4:Salvaged  (100)
+C7B5BC86:Scroll of Celcynd's Blessing
+C7AC2480:Salvaged  (100)
+C7C055F1:Salvaged  (100)
+C7C12A23:Serpent's Fang
+C7C12A21:Salvaged  (100)
+C7B49C3F:Salvage
+C7C12A20:Salvaged  (100)
+C7BB2BD1:Salvaged  (100)
+C86117E0:Promissory Note
+C7BDB2D2:Salvaged  (100)
+C7C1E76A:Salvaged  (100)
+C7C1E75E:Salvaged  (100)
+C7C12A7F:Salvaged  (100)
+C7C108FA:Salvaged  (100)
+C7BE7C55:Salvaged  (100)
+C7BF5F0E:Foolproof
+C7C108FC:Foolproof
+C7C0A28F:Jade Gromnie Tooth
+C7C12A80:Salvaged  (100)
+C7C12884:Salvaged  (100)
+C7BE810D:Salvage
+C7BDEDCC:Salvaged  (100)
+C7C11354:Takuba
+C7B8AA05:Salvage
+C7B48944:Salvage
+C7BE9DDA:White Phyntos Wasp Wing
+C7BF6AE6:Salvaged  (100)
+C7C11202:Salvaged  (100)
+C7C11355:Loose Pants
+C7C11356:Loose Shirt
+C7B8689B:Trade Note (10,000)
+C7C1134F:Elysa's Crystal
+C7BDE34B:Dodger's Crystal
+C7BFFE90:Oswald's Crystal
+C7C114E3:Haebrean Boots
+C7FE2FE0:Banderling Scalp
+C7BB2E6E:Jaleh's Leggings
+
+Missing Exports - Possessed items that were not found:

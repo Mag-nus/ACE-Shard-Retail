@@ -1,0 +1,52 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (2861563417, 8311, 32, 6476097) /* SpellComponent */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (2861563417,   1,       4096) /* ItemType - SpellComponents */
+     , (2861563417,   5,         20) /* EncumbranceVal */
+     , (2861563417,  11,        100) /* MaxStackSize */
+     , (2861563417,  12,          2) /* StackSize */
+     , (2861563417,  16,          1) /* ItemUseable - No */
+     , (2861563417,  19,       1250) /* Value */
+     , (2861563417,  33,          1) /* Bonded - Bonded */
+     , (2861563417,  65,        101) /* Placement - Resting */
+     , (2861563417,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (2861563417, 9015,         84) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (2861563417,   1, False) /* Stuck */
+     , (2861563417,  11, True ) /* IgnoreCollisions */
+     , (2861563417,  13, True ) /* Ethereal */
+     , (2861563417,  14, True ) /* GravityStatus */
+     , (2861563417,  19, True ) /* Attackable */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (2861563417,  39, 0.330000013113022) /* DefaultScale */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (2861563417,   1, 'Turpeth Pea') /* Name */
+     , (2861563417,  16, 'A concentrated turpeth pea.') /* LongDesc */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (2861563417,   1,   33555209) /* Setup */
+     , (2861563417,   3,  536870932) /* SoundTable */
+     , (2861563417,   6,   67111919) /* PaletteBase */
+     , (2861563417,   8,  100671041) /* Icon */
+     , (2861563417,  22,  872415275) /* PhysicsEffectTable */
+     , (2861563417, 8001,    2125848) /* PCAPRecordedWeenieHeader - Value, Usable, StackSize, MaxStackSize, Container, Burden */
+     , (2861563417, 8003,         16) /* PCAPRecordedObjectDesc - Attackable */
+     , (2861563417, 8005,     137345) /* PCAPRecordedPhysicsDesc - CSetup, ObjScale, STable, PeTable, AnimationFrame */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (2861563417,   1, 1342783025) /* Owner */
+     , (2861563417,   2, 1342783025) /* Container */
+     , (2861563417, 8000, 2861563417) /* PCAPRecordedObjectIID */;
+
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
+VALUES (2861563417, 67111920, 0, 0);
+
+INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
+VALUES (2861563417, 0, 83890051, 83890051, 0);
+
+INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, `order`)
+VALUES (2861563417, 0, 16780684, 0);

@@ -1,0 +1,26 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-26_1485490272_\pkt_2017-1-26_1485490272_log.pcap
+
+Partial Exports - Missing appraisal info:
+801BA154:Pyreal
+801BA155:Sack
+801BA156:Ust
+801BA158:Pathwarden Token
+801BA15A:Arrow
+801BA15B:Handy Healing Kit
+801BA15C:Handy Healing Kit
+801BA15D:Bundle of Arrowshafts
+801BA15E:Bundle of Arrowheads
+801BA15F:Bundle of Quarrelshafts
+801BA163:Letter From Home
+801BA160:Bundle of Arrowheads
+801BA161:Bundle of Atlatl Dart Shafts
+801BA164:Bread
+801BA162:Bundle of Arrowheads
+804DA7AA:Blackmoor's Favor
+8049A3EA:Oil of Rendering
+804C700C:Oil of Rendering
+804C6F24:Facility Hub Portal Gem
+808745FA:Stipend
+
+Missing Exports - Possessed items that were not found:

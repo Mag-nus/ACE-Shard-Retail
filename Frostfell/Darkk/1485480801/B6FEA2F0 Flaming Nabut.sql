@@ -1,0 +1,56 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (3070141168, 22161, 6, 6476097) /* MeleeWeapon */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (3070141168,   1,          1) /* ItemType - MeleeWeapon */
+     , (3070141168,   5,        395) /* EncumbranceVal */
+     , (3070141168,   9,    1048576) /* ValidLocations - MeleeWeapon */
+     , (3070141168,  16,          1) /* ItemUseable - No */
+     , (3070141168,  18,         33) /* UiEffects - Magical, Fire */
+     , (3070141168,  19,      12961) /* Value */
+     , (3070141168,  51,          1) /* CombatUse - Melee */
+     , (3070141168,  65,        101) /* Placement - Resting */
+     , (3070141168,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (3070141168, 131,         77) /* MaterialType - Teak */
+     , (3070141168, 151,          2) /* HookType - Wall */
+     , (3070141168, 9015,          9) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (3070141168,   1, False) /* Stuck */
+     , (3070141168,  11, True ) /* IgnoreCollisions */
+     , (3070141168,  13, True ) /* Ethereal */
+     , (3070141168,  14, True ) /* GravityStatus */
+     , (3070141168,  19, True ) /* Attackable */
+     , (3070141168,  22, True ) /* Inscribable */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (3070141168,  39, 0.800000011920929) /* DefaultScale */
+     , (3070141168, 8004,       7) /* PCAPRecordedWorkmanship */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (3070141168,   1, 'Flaming Nabut') /* Name */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (3070141168,   1,   33558071) /* Setup */
+     , (3070141168,   3,  536870932) /* SoundTable */
+     , (3070141168,   6,   67111919) /* PaletteBase */
+     , (3070141168,   8,  100673626) /* Icon */
+     , (3070141168,  22,  872415275) /* PhysicsEffectTable */
+     , (3070141168, 8001, 2434876056) /* PCAPRecordedWeenieHeader - Value, Usable, UiEffects, CombatUse, Container, ValidLocations, Burden, Workmanship, HookType, MaterialType */
+     , (3070141168, 8003,         18) /* PCAPRecordedObjectDesc - Inscribable, Attackable */
+     , (3070141168, 8005,     137345) /* PCAPRecordedPhysicsDesc - CSetup, ObjScale, STable, PeTable, AnimationFrame */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (3070141168,   1, 2826224256) /* Owner */
+     , (3070141168,   2, 2826224256) /* Container */
+     , (3070141168, 8000, 3070141168) /* PCAPRecordedObjectIID */;
+
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
+VALUES (3070141168, 67111919, 0, 0);
+
+INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
+VALUES (3070141168, 0, 83894357, 83894357, 0)
+     , (3070141168, 0, 83894155, 83894155, 1);
+
+INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, `order`)
+VALUES (3070141168, 0, 16788503, 0);

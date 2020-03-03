@@ -1,0 +1,40 @@
+INSERT INTO `character` (`id`, `account_Id`, `name`, `is_Plussed`, `is_Deleted`, `delete_Time`, `last_Login_Timestamp`, `total_Logins`, `character_Options_1`, `character_Options_2`, `gameplay_Options`, `spellbook_Filters`, `hair_Texture`, `default_Hair_Texture`)
+VALUES (1343351899, 0, 'Carrion Legenderriere', False, False, 0, 0, 0, -251878078, 9748866, NULL, 4160, 0, 0);
+
+INSERT INTO `character_properties_shortcut_bar` (`character_Id`, `shortcut_Bar_Index`, `shortcut_Object_Id`)
+VALUES (1343351899, 0, 2867844823)
+     , (1343351899, 1, 2867844556)
+     , (1343351899, 3, 2867619908)
+     , (1343351899, 4, 2867621724)
+     , (1343351899, 5, 2867610648)
+     , (1343351899, 8, 2867738209)
+     , (1343351899, 16, 2867894345)
+     , (1343351899, 17, 2867757672);
+
+INSERT INTO `character_properties_spell_bar` (`character_Id`, `spell_Bar_Number`, `spell_Bar_Index`, `spell_Id`)
+VALUES (1343351899, 1, 0, 1483)
+     , (1343351899, 1, 1, 1513)
+     , (1343351899, 2, 0, 48)
+     , (1343351899, 2, 1, 2647)
+     , (1343351899, 2, 2, 2645)
+     , (1343351899, 2, 3, 1635)
+     , (1343351899, 2, 4, 47)
+     , (1343351899, 2, 5, 2646)
+     , (1343351899, 2, 6, 2644)
+     , (1343351899, 2, 7, 1637)
+     , (1343351899, 2, 8, 2650)
+     , (1343351899, 2, 9, 1636);
+
+INSERT INTO `character_properties_title_book` (`character_Id`, `title_Id`)
+VALUES (1343351899, 1)
+     , (1343351899, 33)
+     , (1343351899, 94)
+     , (1343351899, 435)
+     , (1343351899, 765)
+     , (1343351899, 766)
+     , (1343351899, 767)
+     , (1343351899, 768)
+     , (1343351899, 769)
+     , (1343351899, 770)
+     , (1343351899, 771)
+     , (1343351899, 772);

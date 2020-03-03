@@ -1,0 +1,126 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-23_1485152328_log.pcap
+
+Partial Exports - Missing appraisal info:
+804AAEB9:Ust
+804AAEB0:Pack
+804AAEB1:Iron Scarab
+804AAEB2:Copper Scarab
+804AAEB3:Silver Scarab
+804AAEB4:Gold Scarab
+804AAEB5:Pyreal Scarab
+804AAEB6:Lead Scarab
+8CFF6283:Coruscating Olthoi Scent Gland
+93A7A4B5:Platinum Scarab
+8CE1C9B8:Aetheria Mana Stone
+969DE83A:Mana Scarab
+9697308B:Hyssop
+972AFF1D:Deed
+97EF78B8:Diamond Scarab
+973C6227:Prismatic Taper
+98E36693:Stipend
+9925ECC5:Prismatic Taper
+9927B50C:Prismatic Taper
+96594F28:Pathwarden Trinket
+93068AEE:Yellow Empyrean Ring
+80496C45:Heavy Bracelet
+9A9DA674:Gold Pea
+9AA08060:Pyreal Pea
+804AAEF1:Enhanced Red Empyrean Ring
+804AAEC1:Pack
+93734118:Spectral Chill Arrow Bundle
+9423617B:Wrapped Bundle of Raider Lightning Arrowheads
+954FD891:Wrapped Bundle of Deadly Prismatic Arrowheads
+804AAEFC:Wrapped Bundle of Greater Deadly Blunt Arrowheads
+8CD9CC0D:Wrapped Bundle of Burning Sands Arrowheads
+8CF46365:Wrapped Bundle of Gear Blade Slashing Arrowheads
+804AAEFD:Wrapped Bundle of Olthoi Acid Arrowheads
+98E67C2B:Wrapped Bundle of Deadly Prismatic Arrowheads
+98E6A181:Wrapped Bundle of Arrowshafts
+95C6F12E:Acid Zombie Essence (180)
+9ABAED44:Lightning Skeleton Bushi Essence (180)
+99C9D6BF:Plentiful Healing Kit
+9AD4D544:Assailer Tusk
+99CBA425:Plentiful Healing Kit
+99C857CF:Plentiful Healing Kit
+99B5DB38:Light Infused Healing Kit
+9AAC4C00:Sealed Scroll for Commander Presk
+9AE0EBA0:Encapsulated Spirit
+973B114B:Mana Scarab
+98E62918:Mana Scarab
+9AA3C7DA:Gear Blade Slashing Arrow
+804AAEDA:Pack
+9AA66C75:Olthoi Acid Arrow
+9A9EC1EE:Burning Sands Arrow
+9845E0FA:Trade Note (250,000)
+98767862:Trade Note (250,000)
+9738F49C:Mana Scarab
+94E3162E:Trade Note (250,000)
+9306F262:Trade Note (250,000)
+9ADECD4F:Diamond Scarab
+97359784:Trade Note (250,000)
+959F6E81:Trade Note (250,000)
+8CFF7E9A:Paradox-touched Olthoi Bow
+98E6BDE2:Trade Note (250,000)
+9AA5BEEA:Trade Note (250,000)
+93047C37:Pack
+9ACCE0C5:Trade Note (250,000)
+93D2FCC7:Imbue Swap Coin
+96A7ACE3:Pack
+9AE29985:Bobo's Stout
+9AE299F0:Hunter's Stock Amber
+9AE299F4:Amber Ape
+9AE29A38:Apothecary Zongo's Stout
+9AE2B5DE:Duke Raoul's Distillation
+96DBF31E:Tusker Spit Ale
+9A959918:Fire Sceptre
+9A0C52A6:Voltaic Wisp Essence
+804AAF06:Focusing Stone
+8DA43DE2:Rynthid Tentacle Bow
+804AAF13:Soul Bound Bow
+9ABBF320:Greater Deadly Blunt Arrow
+804AAF10:Acid Compound Bow
+9AE0179D:Plentiful Healing Kit
+9AE0193D:Plentiful Healing Kit
+9AE01427:Plentiful Healing Kit
+96A7AAA7:Pack
+9671423B:Town Network Portal Gem
+97CAA00C:Colosseum Coin
+804AAEDB:Radiant Blood Stronghold Portal Gem
+804AAEE0:Yanshi Portal Gem
+93829454:Shoyanen's Portal Gem
+967142EB:Yaraq Portal Gem
+935050AA:Invitation to Master Fletchers
+804AAECB:Deck of Eyes
+8DA9F37D:Gauntlet Coin
+804AAECC:Asheron's Lesser Benediction
+804AAECD:Blackmoor's Favor
+9A3DC08A:Platinum Scarab
+9A40E6CD:Radiant Blood Stronghold Portal Gem
+9579E181:A'nekshay Token
+9578FB09:Ornate Gear Marker
+9240AD13:Ancient Mhoire Coin
+973AB9E4:Pack
+8CDFD1D1:Aligned Mana Stone
+804AAF01:Whispering Blade Chapterhouse Recall Orb
+9A896282:Massive Mana Charge
+98E67F69:Trade Note (250,000)
+9A8965FF:Massive Mana Charge
+9A89628E:Massive Mana Charge
+9A8921D4:Massive Mana Charge
+9A896535:Massive Mana Charge
+9A896295:Massive Mana Charge
+9A8964D9:Massive Mana Charge
+9A896273:Massive Mana Charge
+9A896603:Massive Mana Charge
+9AC2DB9E:Massive Mana Charge
+9AC1086A:Massive Mana Charge
+9ABEE79E:Massive Mana Charge
+804AAF03:Platemail Leggings
+8046132F:Heavy Bracelet
+9731AB9F:Top
+98BAABAF:Bracelet
+9B0EF68C:Red Society Band
+9ADCAA0E:Deadly Prismatic Arrow
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,115 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-30-2017-HuntNearGreenvaleSettlement_RidgeCitadelPass2\pkt_2017-1-30_1485797040_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-30-2017-HuntNearGreenvaleSettlement_RidgeCitadelPass2\pkt_2017-1-30_1485797040_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-30-2017-HuntNearGreenvaleSettlement_RidgeCitadelPass2\pkt_2017-1-30_1485797040_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-30-2017-HuntNearGreenvaleSettlement_RidgeCitadelPass2\pkt_2017-1-30_1485797040_log.pcap
+
+Partial Exports - Missing appraisal info:
+800BA03C:Pyreal
+801D48FB:Ust
+801D48F5:Foci of Verdancy
+801D48FE:Foci of Artifice
+801D4B4B:Prismatic Taper
+801D48F9:Lead Scarab
+801D4935:Blackmoor's Favor
+8022CCC2:Facility Hub Portal Gem
+8022CCC8:Pathwarden Robe
+8022CCCD:Pack
+8019F952:Verdalim Plant
+8019F954:Fiery Shield
+800BB763:Fiery Shield
+800E68E5:Trothyr's Shield
+80052DBE:Trothyr's War Hammer
+801D319E:Ice Tachi
+800E7E27:Broad Sword
+88D6DF68:Nodachi
+801E03F0:Pyreal
+800AEAE8:Hammer of Lightning 
+80111710:Seal
+801118AB:Spadone
+8019F925:Lightning Spadone
+800E7DC2:Lightning Spadone
+D7E8FBC6:Pyreal
+801D3E44:Lightning Magari Yari
+8020FD11:Flaming Pike
+8020FD33:Great Star Mace
+A4973B1B:Pearl of Acid Baning
+84C26CA2:Tusker Spit
+B37890CC:Salvage (57)
+8022CCC7:Pathwarden Helm
+B38208AE:Salvage (19)
+800BFADB:Fire Sceptre
+8022CCD1:Holtburg Portal Gem
+B381EC44:Salvage (98)
+9D1BF267:Pack
+B38FA6F1:Salvage (100)
+B385CF91:Salvage (100)
+B38511B6:Salvage (100)
+9D183BF9:Pack
+B3846834:Salvage (100)
+B38DB30C:Salvage (100)
+9D0D9DAD:Pack
+B392538B:Salvage (100)
+B38DAFF9:Salvage (100)
+D86C2B7C:Small Shard
+B392C283:Salvage (100)
+B3920B68:Salvage (100)
+8502FBF0:Pack
+B3A0DF9F:Salvage (100)
+B3854101:Salvage (100)
+B3A43CD1:Salvage (100)
+B3A75C64:Salvage (100)
+B3A75ED2:Salvage (100)
+B3A60E05:Salvage (100)
+B3A61403:Salvage (100)
+B3A52AC4:Salvage (100)
+B3A4417F:Salvage (100)
+B3A25EE5:Salvage (100)
+B397D5FA:Salvage (100)
+B3A048EE:Salvage (100)
+B3A39BDA:Salvage (100)
+B3A193E0:Salvage (100)
+B393D5C5:Salvage (100)
+B39F033E:Salvage (100)
+B3A18DBA:Salvage (100)
+B39E35B1:Salvage (100)
+B385044E:Salvage (100)
+B3A00E14:Salvage (100)
+B39D79D5:Salvage (100)
+B39C1521:Salvage (100)
+B39D7893:Salvage (100)
+B38EE074:Salvage (100)
+B38DC523:Salvage (100)
+B38D6582:Salvage (100)
+B38E028A:Salvage (100)
+B3825E48:Salvage (100)
+B38CD897:Salvage (100)
+B385FF73:Salvage (100)
+9709A108:Salvage (100)
+96BBF5DB:Salvage (100)
+96C158DB:Salvage (100)
+9606D8E3:Salvage (100)
+95EE37AD:Salvage (100)
+95E1DA6A:Salvage (100)
+96EB8840:Salvage (100)
+969D9AD2:Salvage (100)
+95D57EFD:Salvage (100)
+95C2AF70:Salvage (100)
+922C682D:Salvage (100)
+96FB7129:Salvage (100)
+972C8F23:Salvage (100)
+97813B93:Salvage (100)
+978F9F68:Salvage (100)
+96877460:Salvage (100)
+9CE22735:Salvage (100)
+9D0C10F3:Salvage (100)
+873650F5:Salvage (100)
+9CADCCA8:Salvage (100)
+9CBE9D27:Salvage (100)
+9CBAF45F:Salvage (100)
+87046703:Salvage (100)
+D87A31B7:Pyreal Mote
+
+Missing Exports - Possessed items that were not found:

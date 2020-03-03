@@ -1,0 +1,100 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-31_1485843061_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-31_1485840494_log.pcap
+
+Partial Exports - Missing appraisal info:
+97854131:Sack
+97854130:Ust
+9785412F:Pathwarden Token
+9785412E:Quarrel
+9785412D:Round Shield
+9785412C:Handy Healing Kit
+9785412B:Letter From Home
+9785412A:Core Plating Integrator
+97854129:Core Plating Deintegrator
+97854128:Bread
+97854127:Bread
+97854126:Asheron's Benediction
+97854124:Facility Hub Portal Gem
+97854123:Academy Light Crossbow
+9785411E:Hammer of Lightning 
+97854122:Auroric Runic Helm
+97854121:Noble Relic Gauntlets of Strength
+97854120:Longbow
+9785411F:Salvage
+9785411D:Scroll of Vitality Siphon
+9785411C:The Healer's Heart
+9785411A:Kote
+97854119:Frost Compound Bow
+97854118:Blunt Bow
+97854117:Heavy Necklace
+97854115:Sollerets
+97854116:Amuli Leggings
+97854114:Tetsubo Slugger
+97854112:Fiery Shield
+97854113:Ancient Arbalest
+97854111:Amuli Coat
+97854100:Acid Axe
+97854110:Shirt
+9785410F:Celdon Breastplate
+9785410E:Studded Leather Sleeves
+9785410D:Diforsa Leggings
+978540FF:Fists of Stone
+9785410C:Noble Helm
+9785410B:Trousers
+97854109:Ancient Armored Helm
+9785410A:Smock
+97854108:Pants
+97854103:Tibri's Fire Spear
+97854107:Olthoi Alduressa Boots
+97854106:Qafiya
+978540F1:Renegade Herbal Kit
+97854105:Ruschk Hunter Leggings
+97854104:Innate Ability Switching
+97854101:Ice Tachi
+97854102:Empyrean Scalemail Shirt
+978540FE:Club of Killagurg
+978540F7:Axe Head Helm
+978540FD:Blunt Bow
+978540FC:Acid Bow
+978540FB:Blunt Bow
+978540FA:Yag
+978540F9:Green Mire Yoroi Cuirass
+978540EE:Renegade Herbal Kit
+978540F8:Slashing Bow
+978540F6:Demon Swarm Sword
+978540F5:Ancient Armored Gauntlets
+978540F4:Blackmoor's Favor
+978540F2:Silver Scarab
+978540F0:Copper Scarab
+805786D0:Kreerg's Spear
+805786D5:Acid Axe
+805786D9:Bobo's Stout
+805786DA:Platemail Gauntlets
+805786DB:Armsman's Robe
+805786F7:Elysa's Crystal
+805786F5:Pearl of Flame Baning
+805786F9:Artist's Crystal
+805786F8:Thorsten's Crystal
+805786FA:Artificer's Crystal
+805786F4:Life Giver's Crystal
+805786F3:Thorsten's Crystal
+805786FD:Gummy Ghoul
+805786FE:Pumpkin Cookie Cutter
+978540F3:Dark Sliver
+805786D1:Scholar's Crystal
+805786D2:Warrior's Jewel
+805786D7:Staff
+805786D6:Saulandoi
+805786CF:Smock
+805786E1:Staff of Aerfalle
+805786E8:Sparkling Gem
+805786EB:Small Shard
+805786FF:Corruptor's Crystal
+805786E7:Hunter's Crystal
+805786E6:Thief's Crystal
+978540ED:Academy Mace
+
+Missing Exports - Possessed items that were not found:

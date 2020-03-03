@@ -1,0 +1,77 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\High-Voltage-01-29-2017\pkt_2017-1-29_1485711460_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\High-Voltage-01-29-2017\pkt_2017-1-29_1485709819_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\High-Voltage-01-29-2017\pkt_2017-1-29_1485709819_log.pcap
+
+Partial Exports - Missing appraisal info:
+801012CC:Colosseum Backpack
+B344D46B:Pyreal
+B00FD6BD:Colosseum Coin
+B338086B:Trade Note (250,000)
+B3660A11:Trade Note (250,000)
+B3739CEE:Titan Mana Charge
+B379BBE3:Titan Mana Charge
+B398871C:Titan Mana Charge
+B39CBFFF:Titan Mana Charge
+B3A6F8EE:Titan Mana Charge
+801012D9:Colosseum Backpack
+801012DE:Ust
+8010132E:Wrapped Bundle of Deadly Prismatic Arrowheads
+8010132C:Wrapped Bundle of Quarrelshafts
+8010132D:Wrapped Bundle of Arrowshafts
+96875D1E:Wrapped Bundle of Arrowshafts
+B3A6F8ED:Titan Mana Charge
+96875CFB:Wrapped Bundle of Arrowshafts
+968312E7:Wrapped Bundle of Arrowshafts
+B3A6F8EC:Titan Mana Charge
+968AE0C6:Wrapped Bundle of Deadly Prismatic Arrowheads
+B3592582:Wrapped Bundle of Deadly Prismatic Arrowheads
+B355F6E9:Wrapped Bundle of Deadly Prismatic Arrowheads
+B3A6F8EF:Titan Mana Charge
+B3746AEA:Titan Mana Charge
+801012F3:Colosseum Backpack
+B3CEF5CD:Pyreal
+ACD99A0B:Encapsulated Spirit
+B3D5349A:Pyreal
+B3D53499:Pyreal
+B3D53498:Pyreal
+B3D53497:Pyreal
+B3D53496:Pyreal
+B3D53495:Pyreal
+8010130E:Colosseum Backpack
+B34089F8:Encapsulated Spirit
+80101324:Pyreal Scarab
+80101320:Colosseum Backpack
+80101325:Lead Scarab
+80101326:Iron Scarab
+80101327:Silver Scarab
+80101328:Platinum Scarab
+80101329:Gold Scarab
+8010132A:Copper Scarab
+B3174629:Titan Mana Charge
+80101335:Soft Bandages
+80101336:Mana Scarab
+94B226DF:Prismatic Taper
+987918E2:Prismatic Taper
+98CBA2A4:Prismatic Taper
+9AE8D108:Mana Scarab
+A09CA94D:Prismatic Taper
+A9D208C3:Diamond Scarab
+A9CFC775:Diamond Scarab
+A7957917:Combined Hyssop and Mandrake
+8010133A:Colosseum Backpack
+B2C8039E:Titan Mana Charge
+B2E68C73:Titan Mana Charge
+B3173E3D:Titan Mana Charge
+B305E33F:Titan Mana Charge
+B2FEA966:Titan Mana Charge
+B2DE4582:Titan Mana Charge
+B3204E6C:Titan Mana Charge
+B3CEF543:Trade Note (250,000)
+B3A8D271:Plentiful Healing Kit
+80101351:Colosseum Backpack
+8010136C:Colosseum Backpack
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,17 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-31_1485853069_log.pcap
+
+Partial Exports - Missing appraisal info:
+9C755473:Tunic
+9C755474:Wide Breeches
+9C755475:Shoes
+9C755476:Pyreal
+9C755477:Sack
+9C755478:Ust
+9C75547A:Pathwarden Token
+9C75547D:Arrow
+9C75547E:Round Shield
+9C755480:Letter From Home
+9C755481:Bread
+
+Missing Exports - Possessed items that were not found:

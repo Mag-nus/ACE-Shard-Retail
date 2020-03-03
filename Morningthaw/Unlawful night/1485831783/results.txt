@@ -1,0 +1,43 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-30_1485830831_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-15_1484523691_log.pcap
+
+Partial Exports - Missing appraisal info:
+C5F907FD:Baggy Shirt
+C5F907F5:Pyreal
+C5F90813:Foci of Verdancy
+C5F90806:Prismatic Taper
+C5F907FE:Lead Scarab
+C5F907F6:Greeter's Key
+C5F907EC:Quartermaster's Workshop Key
+C5F90814:A Crumpled Note
+C5F907E4:Olthoi Helm
+C5F907D9:Pyreal
+C5F907FF:Suikan Life Master Robe
+C5F907F7:Doublet
+C5F907E5:Pyreal
+C5F907ED:Stamina Potion
+C5F90815:Slippers
+C5F90808:Pyreal
+C5F90759:Platemail Gauntlets
+C5F90800:Scroll of Primary Portal Recall
+C5F907F8:Scroll of Secondary Portal Tie
+C5F802E5:Scroll of Primary Portal Tie
+C5F802F7:Scroll of Primary Portal Tie
+C5F802D7:Scroll of Secondary Portal Recall
+C5F8E815:Scroll of Lifestone Tie
+C5F8E7EA:Scroll of Lifestone Recall
+C5F3F90A:Copper Scarab
+C5F90750:Pyreal
+C5F907EE:Pyreal
+C5F907DA:Pyreal
+C5F907E6:Pyreal
+C5FB3C9A:Pyreal
+C5FB3C9B:Foci of Artifice
+C5FB3C9C:Aluvian Wand
+C5FB3C9E:Some Changes for February 2012
+C5FB3CA0:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

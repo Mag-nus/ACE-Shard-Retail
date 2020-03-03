@@ -1,0 +1,26 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-30_1485820096_log.pcap
+
+Partial Exports - Missing appraisal info:
+A084C2CF:Pyreal
+A07FACB7:Ust
+A084C2C1:Calling Stone
+A081F218:Prismatic Taper
+A084A192:Foci of Shadow
+A08223B5:Lead Scarab
+A0849BEA:Blackmoor's Favor
+A084C2A8:Oil of Rendering
+A083F6B3:Facility Hub Portal Gem
+A0820993:Sturdy Iron Key
+A084B319:Pathwarden Trinket
+A084B318:Pathwarden Gauntlets
+A084C2BF:Sturdy Iron Key
+A084B317:Pathwarden Robe
+A081E211:Sack
+A08211CD:Pyreal
+A084B31F:Pyreal
+A084B31E:Pyreal
+A084B3C5:Foci of Verdancy
+A084C2B4:Academy Wand
+
+Missing Exports - Possessed items that were not found:

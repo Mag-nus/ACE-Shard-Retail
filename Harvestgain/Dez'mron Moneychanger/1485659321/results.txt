@@ -1,0 +1,65 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\AC-Packet-Captures\AC Packet Captures\pkt_2017-1-28_1485659148_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-06-2017\AC-Packet-Captures\AC Packet Captures\pkt_2017-1-28_1485601848_log.pcap
+
+Partial Exports - Missing appraisal info:
+92B721E0:Pyreal
+92BAC35E:Sturdy Iron Keyring
+92B3F16B:Singularity Keyring
+92B75685:Singularity Keyring
+92B7580C:Singularity Keyring
+92B77AC3:Singularity Keyring
+92B17B5E:Singularity Keyring
+92B78293:Singularity Keyring
+92B75CD8:Sturdy Iron Keyring
+92B94971:Glacial Golem Heart
+92BAC36A:Ust
+92BB683F:Swamp Stone
+92B783C8:Wood Heart
+92BA666D:Copper Heart
+92BA6686:Obsidian Heart
+92B74F90:Gold Golem Heart
+92BAC22C:Diamond Heart
+92BB6846:Large Armoredillo Hide
+92BAC69E:Black Rock
+92AEE9C1:Hoary Armoredillo Spine
+92B78148:Gold Tumerok Insignia
+92B756D6:Diamond Powder
+92B85698:Drudge Charm
+92B9C6D3:Dark Revenant Thighbone
+92B3072D:Orange Monster Seed
+92BA61CD:Red Monster Seed
+92BAC7CE:Platinum Golem Heart
+92BB54DA:Plate Armoredillo Spine
+92BB6852:Plate Armoredillo Hide
+92BB6853:Vapor Golem Heart
+92B9D62F:Trade Note (250,000)
+92B9B8B4:Trade Note (250,000)
+92B93F56:Trade Note (250,000)
+92B7297A:Trade Note (250,000)
+92B8E9C6:Trade Note (250,000)
+92BAC337:Twisted Dark Key
+92B747CF:Red Monster Seed
+92BB6843:Trade Note (250,000)
+92AE13C0:Black Stone
+92B40250:Black Coral Heart
+92BA666C:Black Coral Heart
+92BA668F:Trade Note (250,000)
+92BAC335:Diamond Powder
+92BAC7D9:Trade Note (250,000)
+92BA4660:Trade Note (250,000)
+92BAAFAC:Trade Note (250,000)
+92B76F70:Diamond Powder
+92B77D54:Trade Note (250,000)
+92B77D01:Pyreal Bar
+92B75470:Pyreal Nugget
+92ADF16E:Pyreal Sliver
+92B77D62:Trade Note (250,000)
+92BAC7E1:Agent of Arcanum List
+92BAC7DA:Lucky Gold Letter
+92B94B17:Diamond Powder
+92BBB001:Scarlet Red Letter
+
+Missing Exports - Possessed items that were not found:

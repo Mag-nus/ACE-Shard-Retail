@@ -1,0 +1,15 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-26_1485492366_\pkt_2017-1-26_1485492366_log.pcap
+
+Partial Exports - Missing appraisal info:
+ABBA4B29:Pyreal
+ABBA4BD2:Foci of Artifice
+ABBA4BC1:Prismatic Taper
+ABBA4AA1:Lead Scarab
+ABBACBB7:Welcome Letter
+ABBA4B21:Sack
+ABBA4B96:Welcome Letter
+ABBC7522:Pack Asheron
+ABBA4B01:Some Changes for February 2012
+
+Missing Exports - Possessed items that were not found:

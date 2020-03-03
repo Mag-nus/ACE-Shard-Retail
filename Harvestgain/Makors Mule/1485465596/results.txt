@@ -1,0 +1,267 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-26_1485461087_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485766404_log.pcap
+
+Partial Exports - Missing appraisal info:
+8018B75C:Pack
+80194019:Salvaged  (100)
+80194026:Salvage
+80193F99:Salvaged  (100)
+801800BA:Salvaged  (100)
+8019404B:Ust
+80153FC8:Salvaged  (100)
+80151AA2:Salvaged  (100)
+80FDC48E:Prismatic Taper
+80163C21:Salvaged  (100)
+8016AC99:Salvaged  (100)
+C78EB26C:Stipend
+80194018:Salvaged  (100)
+80194017:Salvaged  (100)
+80194016:Foolproof Emerald
+80194025:Salvage (100)
+80194022:Salvage
+80180D7B:Salvage (100)
+80194021:Salvage
+8018B2B8:Salvaged  (100)
+8018B654:Salvaged  (100)
+810366A9:Salvage
+8018C4D4:Salvaged  (100)
+80194085:Lead Scarab
+80193FF0:Salvage (100)
+80180D0D:Salvaged  (100)
+80FA1004:Iron Scarab
+8018B9D6:Pack
+80193F98:Salvaged  (100)
+8A605198:Salvage
+8015D9D5:Salvaged  (100)
+8013F7F0:Salvaged  (100)
+80194028:Salvaged  (100)
+801636F6:Salvaged  (100)
+801800C7:Salvaged  (100)
+8016B638:Foolproof Emerald
+80194045:Salvaged  (100)
+80194046:Foolproof Emerald
+801800C6:Salvaged  (100)
+80154436:Salvaged  (100)
+8018A9BA:Salvaged  (100)
+8014A040:Salvaged  (100)
+801428D1:Salvaged  (100)
+8016B4B8:Foolproof Emerald
+8013E7ED:Salvage (100)
+8016B8AA:Salvage (100)
+80163A88:Pack
+8016BA94:Foolproof White Sapphire
+8009D2F7:Foolproof Emerald
+8C531211:Salvage (100)
+8C53F2B9:Salvage (100)
+8018C289:Pack
+810366A7:Salvage
+810366A3:Salvage (100)
+801075C4:Pack
+8017FFF5:Salvaged  (100)
+80194035:Salvaged  (100)
+80194033:Salvaged  (100)
+80194056:Salvaged  (100)
+80194032:Salvaged  (100)
+8016B8BD:Foolproof Black Opal
+80180DF0:Salvage (100)
+8019405D:Salvage
+8017FF40:Salvage
+80194064:Salvage
+80106115:Salvaged  (100)
+8019407A:Banderling Aggressor Backpack
+801509E3:Foolproof Aquamarine
+80154349:Foolproof Aquamarine
+801804B7:Salvage
+800DCE6F:Foolproof Aquamarine
+8018092A:Salvage (100)
+8D144923:Foolproof Red Garnet
+8D1A540D:Foolproof Red Garnet
+8D1A40C1:Foolproof Red Garnet
+8D1A3FDA:Foolproof Red Garnet
+8D0B8286:Foolproof Imperial Topaz
+ADD68493:Salvage
+8018A074:Salvaged  (100)
+8019404C:Banderling Slayer Backpack
+8015E31E:Salvaged  (100)
+8018A06D:Salvaged  (100)
+8018C459:Salvaged  (100)
+80193F2B:Salvage (100)
+80193F2A:Salvaged  (100)
+80194043:Salvaged  (100)
+801639BD:Salvaged  (100)
+8013EFD4:Foolproof Black Garnet
+80137C31:Foolproof Black Garnet
+8016B4C7:Foolproof Jet
+8013D465:Foolproof Jet
+80166BBF:Salvage
+80FD627A:Diamond Shield
+8016BA43:Salvage (100)
+8014F35D:Salvage (100)
+801800B8:Salvage (100)
+8016B4FE:Salvage (100)
+80194031:Salvaged  (100)
+8019404A:Salvaged  (100)
+80102BA3:Salvage (100)
+8013FBE3:Salvage (100)
+801AA468:Salvage (100)
+811D677C:Salvaged  (100)
+811D676C:Salvaged  (100)
+8018C4DA:Salvaged  (100)
+8018C4C9:Salvaged  (100)
+8018C4C3:Salvaged  (100)
+8016B5B8:Salvaged  (100)
+8019401B:Salvaged  (100)
+8016B4CD:Salvaged  (100)
+80193F44:Salvaged  (100)
+80193F4B:Salvaged  (100)
+8018C267:Salvaged  (100)
+801800C2:Salvaged  (100)
+8018B2BD:Salvaged  (100)
+8017F6DC:Salvage (100)
+8015EA7B:Salvage (100)
+80194048:Salvage (100)
+8012E3BD:Salvage (100)
+80193F63:Salvage (100)
+8018B731:Salvage (100)
+8018B72F:Salvaged  (100)
+800A035E:Salvaged  (100)
+80177FCB:Salvaged  (100)
+80194047:Salvaged  (100)
+810366A8:Salvage
+80180D18:Salvaged  (100)
+80194076:Salvaged  (100)
+8017A02C:Salvaged  (100)
+8016B537:Salvaged  (100)
+80193F6E:Salvaged  (100)
+8016B868:Salvaged  (100)
+80163A08:Salvaged  (100)
+80194049:Salvaged  (100)
+80194038:Foolproof Fire Opal
+8016B121:Foolproof Fire Opal
+80164484:Salvage
+8018C3F3:Salvage
+8016B11F:Foolproof Fire Opal
+801057E5:Salvaged  (100)
+801015AF:Salvaged  (100)
+8017FE8B:Foolproof Fire Opal
+80154B56:Salvage
+80088149:Salvage
+80180080:Salvaged  (100)
+801800CC:Salvage
+801936BE:Salvaged  (100)
+80163778:Salvaged  (100)
+80194072:Salvaged  (100)
+8016B4B2:Salvage (100)
+8013FAF7:Foolproof Sunstone
+8018B72E:Foolproof Black Opal
+8002A165:Blunt Bow
+8017F90E:Salvaged  (100)
+80163B88:Salvaged  (100)
+8019406A:Salvaged  (100)
+8018B817:Salvaged  (100)
+8019404F:Salvaged  (100)
+8019406B:Salvaged  (100)
+80173122:Salvaged  (100)
+80180DF6:Salvaged  (100)
+80180E3A:Salvaged  (100)
+8016B5C6:Salvage (100)
+80194074:Salvaged  (100)
+8018C288:Salvage (100)
+8019407B:Salvage (100)
+85C401AE:Foolproof Black Garnet
+85D50765:Foolproof Imperial Topaz
+801AA461:Foolproof White Sapphire
+8015E6FD:Salvaged  (100)
+8018B65E:Foolproof Jet
+8018B744:Salvage
+811D20E3:Fire Bow
+80194042:Foolproof Fire Opal
+80150E7D:Salvage
+80153FC9:Salvage
+8017FDB3:Salvage
+80194077:Blackmoor's Favor
+8019405E:Salvage (100)
+8016B4C4:Paradox-touched Olthoi Sword
+8016B9DA:Salvage (46)
+80194075:Salvage (86)
+80194082:Salvage (40)
+8016B4B4:Salvage (95)
+801800D4:Salvage (40)
+8006D8EC:Salvage (16)
+80060080:Salvaged  (42)
+8019406C:Salvaged  (80)
+8019406D:Salvage (61)
+80194086:Salvage (83)
+8016B559:Salvaged  (20)
+80180ED5:Salvaged  (62)
+80180E6F:Salvage (76)
+80180E64:Salvage (87)
+8018C4BE:Salvaged  (96)
+8018B9D9:Salvaged  (5)
+801543B6:Salvage (82)
+80180E92:Salvaged  (4)
+8018C385:Salvage (12)
+8016BAAE:Salvaged  (91)
+80101065:Salvage (10)
+80180CEA:Salvaged  (98)
+8016B54B:Salvage (68)
+8016B3C0:Salvage (92)
+8013EA63:Salvage (75)
+80180DC6:Salvaged  (52)
+80180D0E:Salvage (93)
+80193EB2:Salvaged  (29)
+8018B66C:Salvage (77)
+80154021:Salvage (58)
+8018B66A:Salvage (80)
+8016B1F8:Salvaged  (88)
+8019408C:Salvage (89)
+8015E86C:Salvage (10)
+801AB3B2:Tunic
+80FDA6E1:Realaidain Raiment
+80F8D920:Adept's Gem of Piercing Protection
+81010D54:Adept's Gem of Bludgeon Protection
+81010D51:Adept's Gem of Protection
+80FCA2BD:Gem of Stillness
+80FCA25C:Gem of Stillness
+80C8DC9E:Minor Essence of the Hopeslayer
+80194036:Salvaged  (100)
+811D6771:Salvaged  (100)
+811D671B:Salvaged  (100)
+811D6732:Salvaged  (100)
+811D2797:Salvaged  (100)
+811D2796:Salvaged  (100)
+80163A22:Salvaged  (46)
+8C5BBDDB:Salvage (39)
+8017FDA5:Salvaged  (100)
+8016B8AF:Salvaged  (100)
+8017FE73:Salvaged  (100)
+80194069:Salvaged  (100)
+8019404D:Salvaged  (100)
+8019404E:Salvaged  (100)
+8016B494:Salvaged  (100)
+80194050:Salvaged  (100)
+80193F9A:Salvaged  (100)
+8018BAF1:Salvaged  (100)
+80194073:Salvaged  (100)
+801AA494:Grand Casino Golden Keyring
+801AF021:Grand Casino Golden Keyring
+801AF024:Grand Casino Golden Keyring
+856ED711:Grand Casino Golden Keyring
+801AF023:Grand Casino Golden Keyring
+801AF01F:Grand Casino Golden Keyring
+801AF022:Grand Casino Golden Keyring
+90107C29:Foolproof Emerald
+8F88DF0A:Salvage (100)
+8FD0FCA4:Salvage (100)
+8FE3C8DF:Salvage (100)
+8FC80C21:Salvage (100)
+80194037:Salvaged  (100)
+811D677D:Salvaged  (100)
+92C2E172:Salvage
+B01D526D:Salvage
+B01D526E:Salvage
+
+Missing Exports - Possessed items that were not found:

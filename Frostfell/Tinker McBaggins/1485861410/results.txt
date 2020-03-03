@@ -1,0 +1,250 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Cyberkiller-01-31-2017-Random\pkt_2017-1-31_1485861002_log.pcap
+
+Partial Exports - Missing appraisal info:
+DD30EA83:Pack
+DD30EA84:Blank Augmentation Gem
+DD30EA85:Shoyanen's Portal Gem
+DD30EA86:Ancient Mhoire Coin
+DD30EA8A:Blank Augmentation Gem
+DD30EA88:Principles of the Celestial Hand
+DD30EA8B:Small Olthoi Venom Sac
+DD30EA8C:Colosseum Coin
+DD30EA8D:Polar Ursuin Lair
+DD30EA8E:Golden Key
+DD30EA8F:Golden Key
+DD30EA90:Crystalline Shard
+DD30EA91:Ust
+DD30EA92:Blank Augmentation Gem
+DD30EA93:Blank Augmentation Gem
+DD30EA94:Blank Augmentation Gem
+DD30EA95:Blank Augmentation Gem
+DD30EA96:Rare Crystalline Shard
+DD30EA97:Adventurer's Token
+DD30EA99:Argenory Plant
+DD30EA9A:Flared Shirt
+DD30EA9B:Aetheria
+DD30EA9C:Pack
+DD30EA9D:Copper Scarab
+DD30EA9E:Iron Scarab
+DD30EA9F:Lead Scarab
+DD30EAA0:Silver Scarab
+DD30EAA1:Platinum Scarab
+DD30EAA2:Pyreal Scarab
+DD30EAA3:Gold Scarab
+DD30EAA4:Prismatic Taper
+DD30EAA5:Platinum Scarab
+DD30EAA6:Prismatic Taper
+DD30EAA8:Major Mana Stone
+DD30EAA9:Greater Mana Stone
+DD30EAAB:Sceptre
+DD30EAAD:Empyrean Robe
+DD30EAB6:Massive Mana Charge
+DD30EAAE:Olthoi Celdon Leggings
+DD30EAD7:Pyreal
+DD30EAB0:Koujia Leggings
+DD30EAB1:Covenant Sollerets
+DD30EAB2:Nariyid Girth
+DD30EAB3:Covenant Sollerets
+DD30EAB7:Massive Mana Charge
+DD30EAB4:Chainmail Girth
+DD30EAB5:Pack
+DD30EAB8:Massive Mana Charge
+DD30EAB9:Massive Mana Charge
+DD30EABA:Massive Mana Charge
+DD30EABB:Massive Mana Charge
+DD30EABC:Massive Mana Charge
+DD30EABD:Massive Mana Charge
+DD30EABE:Massive Mana Charge
+DD30EABF:Massive Mana Charge
+DD30EAC0:Massive Mana Charge
+DD30EAC1:Massive Mana Charge
+DD30EAC2:Massive Mana Charge
+DD30EAC3:Massive Mana Charge
+DD30EAC4:Massive Mana Charge
+DD30EAC5:Massive Mana Charge
+DD30EAC6:Massive Mana Charge
+DD30EAC7:Massive Mana Charge
+DD30EAC8:Massive Mana Charge
+DD30EAC9:Massive Mana Charge
+DD30EACA:Massive Mana Charge
+DD30EACB:Massive Mana Charge
+DD30EACC:Massive Mana Charge
+DD30EACD:Massive Mana Charge
+DD30EAD6:Salvaged  (19)
+DD30EB12:Quiddity Ingot
+DD30EAD8:Puzzle Box
+DD30EAD9:Nether Staff
+DD30EADA:Olthoi Celdon Sollerets
+DD30EADB:Pants
+DD30EADC:Lorica Sleeves
+DD30EADD:Baggy Pants
+DD30EADE:Leather Pants
+DD30EADF:Teardrop Crown
+DD30EB16:Pack
+DD30EAE0:Chiran Gauntlets
+DD30EAE1:Studded Leather Gauntlets
+DD30EAE2:Chainmail Greaves
+DD30EAE3:Signet Crown
+DD30EB2F:Pack
+DD30EAE4:Heavy Necklace
+DD30EAE5:Studded Leather Greaves
+DD30EAE6:Salvage (100)
+DD30EAE7:Salvage (100)
+DD30EB47:Pack
+DD30EAE8:Ring
+DD30EAE9:Knorr Academy Greaves
+DD30EAEA:Loose Pants
+DD30EAEB:Pants
+DD30EAEC:Loose Breeches
+DD30EAED:Lyceum Hood
+DD30EAEF:Olthoi Amuli Leggings
+DD30EAF0:Studded Leather Boots
+DD30EAF1:Fire Spectre Essence (180)
+DD30EAF2:Lightning Zombie Essence (180)
+DD30EAF3:Acid Spectre Essence (180)
+DD30EAF4:Incendiary Knight Essence
+DD30EAF5:Frost Wisp Essence (180)
+DD30EAF6:Acid Grievver Essence (180)
+DD30EAF8:Lightning Phyntos Wasp Essence (180)
+DD30EAF9:Acid Phyntos Wasp Essence (180)
+DD30EAFA:Frigid Zombie Essence
+DD30EAFB:Fire K'nath Essence (180)
+DD30EAFC:Charred Zombie Essence
+DD30EAFD:Scorched Grievver Essence
+DD30EAFE:Fire Phyntos Swarm Essence
+DD30EAFF:Lightning Phyntos Swarm Essence
+DD30EB00:Frost Grievver Essence (180)
+DD30EB01:Blistering Moar Essence
+DD30EB02:Arctic Grievver Essence
+DD30EB03:Fire Phyntos Wasp Essence (180)
+DD30EB04:Electrified Moar Essence
+DD30EB06:Frost K'nath Essence (180)
+DD30EB07:Fire Phyntos Wasp Essence (180)
+DD30EB08:Frost Wisp Essence (180)
+DD30EB0A:Frost Spectre Essence (180)
+DD30EB0B:Acid Spectre Essence (180)
+DD30EB0C:Lightning Spectre Essence (180)
+DD30EB0D:Bordered Cloak
+DD30EB13:Salvage
+DD30EB14:Salvage
+DD30EB1E:Alduressa Boots
+DD30EB15:The Healer's Heart
+DD30EB17:Slippers
+DD30EB53:Loafers
+DD30EB18:Celdon Girth
+DD30EB19:Trousers
+DD30EB1A:Celdon Girth
+DD30EB1B:Cloth Gloves
+DD30EB1C:Nariyid Breastplate
+DD30EB1D:Knorr Academy Vambraces
+DD30EB1F:Knorr Academy Pauldrons
+DD30EB20:Heavy Bracelet
+DD30EB21:Cloth Gloves
+DD30EB22:Trousers
+DD30EB23:Metal Cap
+DD30EB24:Studded Leather Boots
+DD30EB60:Pack
+DD30EB25:Heavy Bracelet
+DD30EB26:Studded Leather Basinet
+DD30EB27:Studded Leather Cowl
+DD30EB28:Ring
+DD30EB29:Shirt
+DD30EB2A:Shirt
+DD30EB2B:Diforsa Greaves
+DD30EB2C:Coronet
+DD30EB2D:Cloth Gloves
+DD30EB2E:Steel Toed Boots
+DD30EB30:Chainmail Breastplate
+DD30EB31:Nariyid Girth
+DD30EB32:Studded Leather Shirt
+DD30EB33:Shoes
+DD30EB34:Olthoi Amuli Coat
+DD30EB35:Chiran Gauntlets
+DD30EB36:Amuli Coat
+DD30EB37:Nariyid Sleeves
+DD30EB38:Baggy Shirt
+DD30EB39:Studded Leather Greaves
+DD30EB3A:Chainmail Pauldrons
+DD30EB3B:Diforsa Leggings
+DD30EB3C:Ring
+DD30EB3D:Heavy Bracelet
+DD30EB3E:Ring
+DD30EB3F:Heavy Necklace
+DD30EB41:Ring
+DD30EB42:Compass
+DD30EB43:Diforsa Tassets
+DD30EB44:Slippers
+DD30EB45:Cloth Cap
+DD30EB46:Cloth Cap
+DD30EB48:Slippers
+DD30EB49:Chainmail Pauldrons
+DD30EB4A:Leather Jerkin
+DD30EB4B:Olthoi Amuli Gauntlets
+DD30EB4C:Celdon Sleeves
+DD30EB4D:Chainmail Gauntlets
+DD30EB4E:Cloth Gloves
+DD30EB4F:Cloth Gloves
+DD30EB5C:Bracelet
+DD30EB50:Leather Bracers
+DD30EB51:Leather Gauntlets
+DD30EB52:Chainmail Shirt
+DD30EB54:Olthoi Celdon Leggings
+DD30EB55:Platemail Breastplate
+DD30EB56:Olthoi Koujia Sollerets
+DD30EB57:Alduressa Coat
+DD30EB58:Lorica Breastplate
+DD30EB59:Olthoi Alduressa Coat
+DD30EB5A:Teardrop Crown
+DD30EB5B:Empyrean Over-robe
+DD30EB5D:Olthoi Alduressa Gauntlets
+DD30EB5E:Baggy Pants
+DD30EB5F:Nariyid Girth
+DD30EB61:Poet's Shirt
+DD30EB62:Yoroi Tassets
+DD30EB63:Loose Shirt
+DD30EB64:Olthoi Celdon Sleeves
+DD30EB65:Alduressa Helm
+DD30EB66:Shirt
+DD30EB67:Alduressa Leggings
+DD30EB68:Studded Leather Pauldrons
+DD30EB69:Leather Leggings
+DD30EB6A:Haebrean Pauldrons
+DD30EB6B:Leather Gauntlets
+DD30EB6C:Celdon Girth
+DD30EB6D:Olthoi Koujia Leggings
+DD30EB6F:Pants
+DD30EB70:Haebrean Boots
+DD30EB71:Leather Cap
+DD30EB72:Leather Greaves
+DD30EB7A:Golden Gromnie
+DD30EB73:Cuirass
+DD30EB74:Chainmail Breastplate
+DD30EB75:Chainmail Tassets
+DD30EB76:Leather Boots
+DD30EB78:Studded Leather Gauntlets
+DD30EB79:Aetheria
+DD30EB7B:Salvage (100)
+DD30EB7E:Circlet
+DD30EB7C:Slippers
+DD30EB7D:Tenassa Sleeves
+DD30EB7F:Slippers
+DD30EB80:Yoroi Cuirass
+DD30EB81:Diforsa Sollerets
+DD30EB82:Chiran Coat
+DD30EB83:Diforsa Helm
+DD30EB84:Studded Leather Gauntlets
+DD30EB8A:Loafers
+DD30EB86:Ring
+DD30EB87:Shoes
+DD30EB88:Koujia Leggings
+DD30EB89:Studded Leather Breastplate
+DD30EB8B:Tenassa Sleeves
+DD30EB8C:Frost Compound Bow
+DD30EB8D:Loose Shirt
+DD30EB8E:Flared Pants
+DD30EB8F:Heavy Necklace
+DD30EB90:Frigid Zombie Essence
+DD30EB91:Acid Skeleton Samurai Essence
+
+Missing Exports - Possessed items that were not found:

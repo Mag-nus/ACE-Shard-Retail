@@ -1,0 +1,165 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485762907_log.pcap
+
+Partial Exports - Missing appraisal info:
+B023A785:Sack
+87902EA7:Blackmoor's Favor
+B1075FE0:Asheron's Benediction
+B15AC534:Trade Note (250,000)
+B15B2F12:Trade Note (5,000)
+B15B2C4D:Trade Note (10,000)
+B1793610:Trade Note (50,000)
+B1D017A9:Trade Note (75,000)
+B60FD80F:Pyreal
+B1C51D18:Trade Note (100,000)
+C83FB1F6:Trade Note (200,000)
+B6140AFF:Thick Lugian Stew
+B5F12EDB:Great Mattekar Horn
+B45EE759:Carenzi Stalker Pelt
+B7A11B02:Orb
+B7A21C38:Diforsa Cuirass
+C83DE6A6:Pyreal
+811D20CC:War Bow
+C83E8BFE:Pyreal
+C83DE6A5:Pyreal
+C8402244:Ancient Falatacot Trinket
+C838B978:Mana Forge Key
+C8403349:Pyreal
+B023A78D:Foci of Artifice
+B10BE3C4:Pack
+B1080D59:Stipend
+B023A78F:Lead Scarab
+B023A78E:Prismatic Taper
+B15B2A58:Diamond Scarab
+801AA40D:Copper Scarab
+B187504E:Silver Pea
+B179AF5E:Copper Pea
+B17FE2E1:Iron Pea
+B186B229:Lead Pea
+B18D5E2F:Gold Pea
+B023A791:Bread
+B18A0589:Scroll of Piercing Bane VI
+B34111C1:Renegade Herbal Kit
+B3E9E422:Writ of Refuge
+B602C162:Silver Scarab
+B414C810:Lace Shirt
+B414C722:Celdon Sleeves
+B414823B:Ring
+B4327137:Renegade Herbal Kit
+B4396308:Renegade Herbal Kit
+B439E574:Scroll of Raven Fury
+B34135AC:Gem of Balance
+B611223B:Mutilator Head
+B10B8584:Pack
+B023A786:Ust
+B10C8C74:Facility Hub Portal Gem
+B19008BA:Aphus Lassel Portal Gem
+B17AE596:Chevron Cloak
+B146BABA:Loafers
+B17935D7:Treated Healing Kit
+B18A2534:Leather Shirt
+B1882268:Treated Healing Kit
+B150A6FE:Treated Healing Kit
+B1793612:Treated Healing Kit
+B184F10D:Treated Healing Kit
+B185939A:Treated Healing Kit
+B17935D6:Treated Healing Kit
+B171C607:Wrapped Bundle of Frog Crotch Arrowheads
+B3410D55:Mana Forge Key
+B1706A27:Wrapped Bundle of Blunt Arrowheads
+B177D97D:Wrapped Bundle of Arrowshafts
+B3528405:Chevron Cloak
+B4140435:Mana Forge Key
+B4129A09:Colosseum Coin
+B12DAA09:Signet Crown
+B2DC5243:Olthoi Helm
+B10B832E:Pack
+805EC7B2:Top
+805EC7B5:Pantaloons
+B33E458E:Pristine Mana Shard
+B1931749:Antiquated Compass
+B1931D1A:Dansha-Ki's Gem of Portal Recall
+B195330C:Salvage
+B12F7BB6:Salvage
+B195330D:Salvage
+B2404676:Salvage
+B17771C1:Lilitha's Bow
+B1CDF462:Salvage (8)
+B2404671:Electric Compound Bow
+B2D7C83F:Ancient Mhoire Coin
+B33E429C:Scroll of Raven Fury
+B3415407:Salvage
+B2404675:Salvage
+AFCE888F:Scroll of Summon Secondary Portal III
+AFC8C039:Scroll of Summon Primary Portal III
+B38C22F9:Salvage
+B405B32C:Aura of Swift Killer Self VI
+B406BC9E:Scroll of Light Weapon Ineptitude Other VI
+B3F4C46C:Scroll of Mana Mastery Self VI
+B3F112CA:Scroll of Acid Bane VI
+805EC7B7:Bronze Gearknight Gear
+805EC7B0:Knorr Academy Greaves
+805EC7B9:Diamond Shield
+B1098B2B:Pack
+B1946D36:Potion of Black Fire
+B191A7DA:Priceless Ore
+B1932AFC:Thick Lugian Stew
+B18D6D14:Refreshing Water
+B18C1DDB:Gonjoku's Mana Infusion
+B1949B06:Gem of Balance
+B194A359:Mana Forge Key
+B1AE86E7:Gem of Stillness
+B2DC5244:Puffy Tunic
+B33FB39B:Staff
+B18B87D7:Chevron Cloak
+B439DDA9:Adjanite Mana Stone
+B186AFB4:Vaulter's Crystal
+B3527BAF:Converter's Crystal
+B1953307:Diadem
+B3415441:Hood
+805EC7AE:Brown Lump
+805EC7B4:Flared Shirt
+805EC7BB:Mechanical Scarab
+805EC7B6:Baby Thrungus Crate
+B109639D:Pack
+805EACC6:Seasoned Explorer Compound Bow
+805EC747:Frost Compound Bow
+805EC75B:Electric Compound Bow
+B324AC94:Fire Compound Bow
+805EC767:Frost Bow
+805EC763:Fire Compound Bow
+805EC764:Piercing Bow
+805EC76B:Acid Scimitar
+805EC762:Staff
+805EC7A9:Trimmed Cloak
+805EC7C1:Blunt Compound Bow
+B3717E3E:Blunt Bow
+B3E79BCF:Black Page of Salt and Ash
+B341136E:Poison
+B3412C4A:Gonjoku's Mana Infusion
+8BB1933D:Greater Deadly Blunt Arrow
+B352913D:Quarter Staff
+B301F62E:Kasrullah
+B3D093A5:Brewmaster's Front Cover
+B100540C:Cowl
+B4342983:Flared Pants
+B5F4C4F8:Fire Shreth Hide
+81026231:Nayin
+8102D130:Grand Casino Golden Keyring
+8102D18E:Grand Casino Golden Keyring
+8102D18D:Grand Casino Golden Keyring
+8102D18C:Grand Casino Golden Keyring
+8102D18B:Grand Casino Golden Keyring
+8102D18A:Grand Casino Golden Keyring
+8102D189:Grand Casino Golden Keyring
+8102D135:Grand Casino Golden Keyring
+8102D134:Grand Casino Golden Keyring
+8102D133:Grand Casino Golden Keyring
+8102D132:Grand Casino Golden Keyring
+8102D131:Grand Casino Golden Keyring
+C8402243:Small Olthoi Venom Sac
+C8402236:Ring
+C8402232:Amulet
+C8402225:Shoes
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,36 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-25_1485392554_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-25_1485373412_log.pcap
+
+Partial Exports - Missing appraisal info:
+AB9C405B:Sack
+AB9C405C:Ust
+AB9C4060:Foci of Strife
+AB9C4061:Foci of Verdancy
+AB9C4062:Prismatic Taper
+AB9C4063:Lead Scarab
+AB9C4064:Letter From Home
+ABAB0E85:Oil of Rendering
+ABAAEFE9:Academy Coat
+ABABE7F8:Pathwarden Plate Hauberk
+ABAAA9AB:Pathwarden Plate Leggings
+ABAB182A:Pyreal
+ABABEA7C:Pathwarden Sollerets
+ABABE8EC:Pathwarden Gauntlets
+ABABE874:Pathwarden Helm
+ABABE952:Great Mana Charge
+ABA30C43:Pathwarden Trinket
+ABAA1E21:Trade Note (250,000)
+ABAB188D:Pyreal
+ABAB5C62:Pyreal
+ABAB1918:Pyreal
+ABAB184D:Pyreal
+ABAB1844:Pyreal
+ABAAF514:Pyreal
+ABAAFEA6:Pyreal
+ABAB18D7:Pyreal
+ABACA1F9:Pyreal
+
+Missing Exports - Possessed items that were not found:

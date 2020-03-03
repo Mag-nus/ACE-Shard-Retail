@@ -1,0 +1,21 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\pkt_2017-1-24_1485307067_log\pkt_2017-1-24_1485307067_log.pcap
+
+Partial Exports - Missing appraisal info:
+C7F30D71:Shirt
+C7F473B4:Wide Breeches
+C7F4739D:Leather Boots
+C7F41B99:Pyreal
+C7F473B9:Bread
+C7F473BB:Handy Healing Kit
+C7F0B50D:Handy Healing Kit
+C7F47473:Sack
+C7F20EA1:Pyreal
+C7F47472:Pyreal
+C7ED9374:Potion of Healing
+C7F35BD0:Pack Asheron
+C7F261E8:Some Changes for February 2012
+C7F44DB5:Blackmoor's Favor
+C7F3478E:Starter Knife
+
+Missing Exports - Possessed items that were not found:

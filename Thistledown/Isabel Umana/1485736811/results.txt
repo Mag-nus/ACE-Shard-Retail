@@ -1,0 +1,23 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-29_1485736796_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-29_1485736546_log.pcap
+
+Partial Exports - Missing appraisal info:
+AB9C4468:Pyreal
+AB9C4469:Sack
+AB9C446A:Ust
+AB9C446B:Calling Stone
+AB9C446C:Pathwarden Token
+AB9C446F:Arrow
+AB9C4472:Foci of Artifice
+AB9C4473:Prismatic Taper
+AB9C4474:Lead Scarab
+AB9C4475:Letter From Home
+ABE2D95F:Oil of Rendering
+ABE2D733:Oil of Rendering
+ABE14C1F:Academy Coat
+ABE2E751:Facility Hub Portal Gem
+
+Missing Exports - Possessed items that were not found:

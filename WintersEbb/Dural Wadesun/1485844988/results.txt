@@ -1,0 +1,290 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-31_1485843061_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-31_1485840494_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-31_1485840494_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-31_1485843061_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-31_1485843061_log.pcap
+
+Partial Exports - Missing appraisal info:
+A5AF5145:Pack
+A5AF5146:Calling Stone
+A5AF5147:Pumpkin
+A5AF5148:Studded Leather Leggings
+A5AF5149:Lightning Dagger
+A5AF514A:Key
+A5AF514B:Frost Yaoji
+A5AF514C:Key
+A5AF514D:Staff
+A5AF514E:Peppermint Stick
+A5AF514F:King's Helm
+A5AF5150:Shreth Hide Gauntlets
+A5AF5151:Orb
+A5AF5152:Orb
+A5AF5153:Heavy Bracelet
+A5AF5155:Lightning Nabut
+A5AF5154:Fire Spiked Club
+A5AF5156:Ursuin Hide Coat
+A5AF5159:Tiki Torch
+A5AF5157:Cestus
+A5AF5158:Helmet
+A5AF515C:Evil Couch
+A5AF515A:Aerlinthe Patron Shirt
+A5AF515B:Platemail Gauntlets
+A5AF516D:Couch
+A5AF515E:Aerlinthe Patron Shirt
+A5AF5160:Worn Small Key
+A5AF515F:Staff
+A5AF5161:Frost Knife
+A5AF5162:Khanjar
+A5AF5163:Staff
+A5AF5164:Kabuton
+A5AF5165:Asteliary Orb
+A5AF5166:Knife
+A5AF5167:Wand
+A5AF516B:Perfect Banner Haft
+A5AF516C:Tusker Mask
+A5AF516E:Ashen Key
+A5AF516F:Ursuin Scalp
+A5AF5170:Lightning Dagger
+A5AF5171:Gelidite Robe
+A5AF5172:Crown
+A5AF5178:Skeleton's Skull
+A5AF5173:Pants
+A5AF5174:Covenant Girth
+A5AF5179:Peerless Lockpick
+A5AF5176:Aerlinthe Patron Shirt
+A5AF5177:Fragment of the Singularity
+A5AF5180:Sunflower
+A5AF517A:Aerlinthe Monarch Shirt
+A5AF517B:Long Sword
+A5AF517C:Studded Leather Leggings
+A5AF517E:Pants
+A5AF51CF:Chair
+A5AF517F:Ring
+A5AF5181:Niffis Shell
+A5AF5182:Globe of Auberean
+A5AF5183:Baigha
+A5AF5184:Flag
+A5AF5185:Ash Tooth Dagger
+A5AF5186:Knife
+A5AF5187:Peerless Lockpick
+A5AF5188:Buckler
+A5AF5189:Strong Dispel Potion
+A5AF518A:Armet
+A5AF518B:Drudge Charm
+A5AF518C:Oswald's Dagger
+A5AF518D:Potion of Black Fire
+A5AF518E:Gorget
+A5AF518F:A Society Dagger
+A5AF5190:Key
+A5AF5191:Pack
+A5AF5192:Peerless Lockpick
+A5AF5193:A silvery, mysterious key
+A5AF5194:Essence Flicker
+A5AF5195:Dagger of the Quiddity
+A5AF5196:Lugian Crest
+A5AF3232:Ring
+A5AF31E2:Ice Heaume of Frore
+A5AF5197:Shirt
+A5AF519A:Mattekar Claw
+A5AF5198:Heavy Bracelet
+A5AF5199:Ring
+A5AF519B:Sceptre
+A5AF519C:Gate Key
+A5AF519D:Skeleton's Skull
+A5AF519E:Bunny Slippers
+A5AF519F:Orb
+A5AF51A0:Orb
+A5AF51A1:Obsidian Shard
+A5AF51A2:Covenant Tassets
+A5AF51A3:Celdon Leggings
+A5AF51A7:Storage Key
+A5AF51A4:Obsidian Jewel
+A5AF51A5:Heavy Bracelet
+A5AF51A6:Virindi Inquisitor's Mask
+A5AF51A8:Pack
+A5AF51AC:Heavy Necklace
+A5AF5229:Undead Body
+A5AF51AD:Pantaloons
+A5AF51AE:A Society Dagger
+A5AF51B0:Asteliary Orb
+A5AF51AF:Virindi Shroud
+A5AF51B1:Pantaloons
+A5AF525E:Snowflower
+A5AF51B2:Peerless Atlan Dagger
+A5AF51B3:Fruitcake
+A5AF51B5:Ice Heaume of Frore
+A5AF51B4:Studded Leather Leggings
+A5AF51B6:Necklace
+A5AF51BE:Manuaka's Collar
+A5AF51B7:Sollerets
+A5AF51B8:Covenant Shield
+A5AF51B9:Dirk
+A5AF51BA:Dirk
+A5AF51BB:Frost Dirk
+A5AF51BC:Frost Dirk
+A5AF51BD:Wand
+A5AF51BF:Platemail Gauntlets
+A5AF51C0:Sollerets
+A5AF51C2:Ring
+A5AF51C3:Frost Knife
+A5AF51C4:Skull Mask
+A5AF51C5:Peerless Lockpick
+A5AF51C6:Throbbing Lump
+A5AF51C7:Strong Dispel Potion
+A5AF51C8:Ring
+A5AF51C9:Staff
+A5AF51CA:Key to Hamud's Chambers
+A5AF51CB:Niffis Pearl
+A5AF51CC:Covenant Shield
+A5AF51CD:Amuli Coat
+A5AF51CE:Amuli Coat
+A5AF51D0:Hammer of Frore
+A5AF51D1:Heavy Bracelet
+A5AF51D2:Tower Shield
+A5AF51D3:Dirk
+A5AF51D4:Frost Dirk
+A5AF51D5:Tunic
+A5AF51D6:Lightning Dirk
+A5AF51D7:Ring
+A5AF51D8:Peerless Lockpick
+A5AF51D9:Banished Point
+A5AF51DA:Pack
+A5AF51DB:Obsidian Director's Mask
+A5AF51DC:Vapor Golem Heart
+A5AF51DE:Obsidian Dagger
+A5AF51DF:Starter Knife
+A5AF51E0:Wand
+A5AF51E1:Explorer Wand Of Fire
+A5AF51E2:Clean, Dry Towel
+A5AF51E3:Shadow Captain's Heaume
+A5AF51E4:Asteliary Crafter's Message Shard
+A5AF51E5:Smock
+A5AF51E6:Stocking Cap
+A5AF51E7:Covenant Shield
+A5AF51E8:Overlord's Sword
+A5AF51E9:Necklace
+A5AF51EA:Helmet
+A5AF51EB:Necklace
+A5AF51EC:Heaume
+A5AF51ED:Necklace
+A5AF51EE:Wand
+A5AF51EF:Crown
+A5AF51F2:Pack T'thuun
+A5AF51F0:Pack Martine
+A5AF51F3:Copy of Witshire's Key
+A5AF51F4:Flaming Skull
+A5AF51F5:Celdon Sleeves
+A5AF51F6:Sack
+A5AF51F7:Armet
+A5AF51F8:Ring
+A5AF51F9:Staff
+A5AF51FA:Heavy Necklace
+A5AF51FD:Katar
+A5AF51FB:Staff
+A5AF51FC:Heavy Necklace
+A5AF51FE:Reedshark Hide
+A5AF51FF:Yoroi Leggings
+A5AF5200:Large Sclavus Hide
+A5AF5201:Amuli Leggings
+A5AF5202:Chainmail Gauntlets
+A5AF5203:Acid Ono
+A5AF5204:Thin Gromnie Hide
+A5AF5205:Orb
+A5AF5206:Crown
+A5AF5207:Interview with the Mosswart
+A5AF5208:Snowball
+A5AF5209:Mana Scarab
+A5AF520A:Puzzle Box
+A5AF520B:Quill of Benevolence
+A5AF520C:Ink of Formation
+A5AF520D:Quill of Infliction
+A5AF520E:Poofy Snowball
+A5AF520F:Wood Heart
+A5AF5210:Ring
+A5AF5211:Skeleton's Skull
+A5AF5212:Platemail Gauntlets
+A5AF5215:Celdon Leggings
+A5AF5213:Heavy Ursuin Coat
+A5AF5214:Greater Celdon Shadow Girth
+A5AF5216:Platemail Breastplate
+A5AF5217:Amulet
+A5AF5232:Dirk
+A5AF5218:Platemail Breastplate
+A5AF5219:Amuli Coat
+A5AF521A:Koujia Sleeves
+A5AF521B:Celdon Sleeves
+A5AF5233:Sharp Tusker Slave Tusk
+A5AF521C:Amuli Leggings
+A5AF521D:Covenant Gauntlets
+A5AF5239:Drudge Charm
+A5AF521E:Covenant Gauntlets
+A5AF521F:Yoroi Girth
+A5AF523E:Olthoi Resurgent
+A5AF5220:Ring
+A5AF5221:Orb
+A5AF5224:Goblet
+A5AF5222:Salvaged  (10)
+A5AF5223:Bandit Dagger
+A5AF5234:Heaume
+A5AF5225:Tunic
+A5AF5226:Chainmail Bracers
+A5AF525A:Undead Torso
+A5AF5227:Amuli Coat
+A5AF5228:Lightning Dirk
+A5AF5261:Snowman
+A5AF522A:Greater Amuli Shadow Coat
+A5AF522B:Greater Amuli Shadow Leggings
+A5AF522C:Amuli Leggings
+A5AF522D:Olthoi Cuirass
+A5AF522E:Sollerets
+A5AF522F:Platemail Gauntlets
+A5AF5242:Longbow
+A5AF5230:Doublet
+A5AF5231:Salvaged  (10)
+A5AF5253:Serpent's Fang
+A5AF5235:Crown
+A5AF5236:Yellow Virindi Wand
+A5AF5237:Staff
+A5AF5238:Staff
+A5AF523A:Buckler
+A5AF523C:Round Shield
+A5AF523B:Scalemail Gauntlets
+A5AF523D:Helmet
+A5AF5244:Nayin
+A5AF523F:Round Shield
+A5AF5240:Platemail Sleeves
+A5AF5260:Pack Grael
+A5AF5241:Platemail Gauntlets
+A5AF5243:Chainmail Basinet
+A5AF5245:Shirt
+A5AF5246:Shirt
+A5AF5247:Ring
+A5AF5248:Ring
+A5AF5249:Ring
+A5AF524A:Jaleh's Leggings
+A5AF524B:Jaleh's Chain Shirt
+A5AF524C:Empyrean Scalemail Shirt
+A5AF524D:Yellow Virindi Wand
+A5AF524E:Salvaged  (100)
+A5AF524F:Dinner Plate
+A5AF5250:Renegade Stone Clasp
+A5AF5251:Heavy Bracelet
+A5AF5254:Ring
+A5AF5252:Tankard
+A5AF5255:Sceptre
+A5AF5256:Heavy Bracelet
+A5AF5257:Monty's High-Stakes Gambling Token
+A5AF5258:Aphus Wading Pants
+A5AF5259:Electric Bow
+A5AF525B:Blunt Bow
+A5AF525C:Frost Bow
+A5AF525D:Asheron's Benediction
+A5AF525F:Blackmoor's Favor
+A5AF5262:Glyph of Armor
+A5AF5263:Glyph of Melee Defense
+A5AF5264:Round Shield
+
+Missing Exports - Possessed items that were not found:

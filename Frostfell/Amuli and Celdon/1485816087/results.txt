@@ -1,0 +1,55 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\imtrippin-01-30-2017-empyrean-workshop-and-more\pkt_2017-1-30_1485816072_log.pcap
+
+Partial Exports - Missing appraisal info:
+9F84C1C7:Ust
+9F7A4847:Pathwarden Token
+9F87796B:Blackmoor's Favor
+9F87935B:Oil of Rendering
+9F86C39D:Adept Healing Kit
+9F86A426:Celdon Leggings
+9F872A2B:Amuli Leggings
+9F877AE5:Adept Healing Kit
+9F86B4E9:Amuli Coat
+9F877898:Salvaged  (3)
+9F8C4F81:Salvaged  (2)
+9F856A3C:Salvaged  (2)
+9F85BD39:Some Changes for February 2012
+9F877F2E:Amuli Coat
+9F877733:Amuli Coat
+9F877755:Amuli Coat
+9F877818:Amuli Leggings
+9F8773A7:Celdon Breastplate
+9F878027:Amuli Leggings
+9F8792C3:Amuli Coat
+9F879293:Amuli Coat
+9F879307:Amuli Coat
+9F877751:Amuli Coat
+9F877848:Celdon Sleeves
+9F877992:Celdon Breastplate
+9F873FBB:Celdon Breastplate
+9F970D35:Celdon Breastplate
+9F8F7F69:Amuli Leggings
+9F84B3B5:Amuli Leggings
+9F8F86B2:Amuli Leggings
+9F8370D1:Celdon Sleeves
+9F87929B:Amuli Coat
+9F84B254:Amuli Leggings
+9F877AEF:Amuli Coat
+9F86B145:Celdon Leggings
+9F86B3F2:Celdon Girth
+9F8368CE:Celdon Breastplate
+9F86C72C:Celdon Breastplate
+9F86BCC1:Celdon Breastplate
+9F86C9B1:Celdon Breastplate
+9F868468:Celdon Girth
+9F877C8A:Celdon Girth
+9F877C0E:Celdon Girth
+9F87779B:Celdon Girth
+9F81E1B7:Celdon Sleeves
+9F55A9DF:Celdon Sleeves
+9F868467:Celdon Leggings
+9F8C3C94:Celdon Leggings
+9F879023:Teleportation Device
+
+Missing Exports - Possessed items that were not found:

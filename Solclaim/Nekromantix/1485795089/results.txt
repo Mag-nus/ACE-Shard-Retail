@@ -1,0 +1,113 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-PCAP-Absolutely-Random-Gameplay\AC-pcap\pkt_2017-1-30_1485794917_log.pcap
+
+Partial Exports - Missing appraisal info:
+803B863F:Sack
+803B8634:Ust
+80390B68:Copper Scarab
+803B865E:Gold Scarab
+80390B49:Pyreal Scarab
+80390B3A:Prismatic Taper
+803B866B:Blackmoor's Favor
+80390B39:Mana Scarab
+80390B2A:Silver Scarab
+803B8682:Platinum Scarab
+803B862B:Diamond Scarab
+803B8678:Asheron's Lesser Benediction
+80390B35:Celestial Hand Stronghold Portal Gem
+8395DBB5:Town Network Portal Gem
+84028E2B:Prismatic Taper
+803B863D:Violet Taper
+8410D57E:Celdiseth's Portal Gem
+803BEFB4:Tiriun Stalk Jerky
+8565B14C:Plentiful Healing Kit
+8565B14D:Plentiful Healing Kit
+8565B14E:Plentiful Healing Kit
+8565B14F:Plentiful Healing Kit
+8565B150:Plentiful Healing Kit
+803BEEBC:Tiriun Cap Wafer
+9C946866:Black Market Gem of Dispelling
+8395DBBB:Pyreal
+803B865D:Pack
+80390B22:The Plan
+9C3083BE:Pyreal
+9C290F03:Pyreal
+803B8668:Aetheria Mana Stone
+803B8644:Falatacot Battle Report
+83882348:Golden Gromnie
+83ADDB86:Blank Augmentation Gem
+840D5B7B:Blank Augmentation Gem
+8467A82B:Gladiator Diemos Token
+848055F0:Colosseum Coin
+8483E03E:Quill of Benevolence
+847E3BD6:Ink of Direction
+8487E5D9:Ink of Partition
+848A6E68:Ink of Separation
+848A756D:Ink of Objectification
+8483B005:Alacritous Ink
+848B9F6D:Quill of Introspection
+848A70AC:Quill of Infliction
+848A6C24:Parabolic Ink
+8483992A:Ink of Conveyance
+848A70E3:Ink of Formation
+848E1BC7:Bag of Life Stone Chips
+84871059:Bag of Life Stone Chips
+803B866A:Pack
+803B862A:Acid Magari Yari
+803B868C:Deed
+803B86A7:Aetheria
+803B867F:Empowered Empyrean Robe
+8526C4F7:Gladiator Diemos Token
+803B8669:Puzzle Box
+803B86A0:Crystal Sword
+9C3169FC:Titan Mana Charge
+803B676F:Robe of the Tundra
+80390B18:Flaming Shashqa
+803B8646:Lightning Assagai
+84BE8D59:A Huge Lump of Coal
+803B8632:Stipend
+803B6771:Acid Tetsubo
+84CEC154:Platinum Spirits
+803B6770:Colosseum Coin
+84CF03C7:Arbitrator's Augmentation Token
+803B868D:Pack
+80390B24:Ancient Mhoire Coin
+803B8677:Small Olthoi Venom Sac
+803B8661:Ornate Gear Marker
+803B8665:Pack
+803B8652:A'nekshay Token
+83C7A51C:Trade Note (250,000)
+80390B2B:Aetheria
+840DD4BE:Celestial Hand Commendation Ribbon
+803B8671:Aetheria
+803B865C:Aetheria
+8549CCC7:Titan Mana Charge
+803B86A9:Pack
+803B869F:Golden Shuriken of Tanada
+80390B32:Golden Shuriken of Tanada
+9C3169FB:Titan Mana Charge
+803B86B2:Misshapen Bone Fragment
+803B8659:Greater Mukkir Slayer Stone
+80390B4B:Paradox-touched Olthoi Egg
+8549CCE3:Titan Mana Charge
+9C319FB3:Titan Mana Charge
+9C316673:Titan Mana Charge
+9C319FB8:Titan Mana Charge
+8549CCA5:Titan Mana Charge
+9C3169E7:Titan Mana Charge
+9C319FB5:Titan Mana Charge
+8549CCC6:Titan Mana Charge
+8549CCFD:Titan Mana Charge
+9C2A895E:Titan Mana Charge
+8549CCBA:Titan Mana Charge
+9C319FB7:Titan Mana Charge
+803B86A8:Pack
+8549CCD3:Titan Mana Charge
+8549CCAE:Titan Mana Charge
+83C4B3F2:Pack
+803B8662:Quest Weapon Coin
+80390B5E:Goggles
+803B8681:Virindi Consul Essence
+83851A66:Coral Fragment
+
+Missing Exports - Possessed items that were not found:

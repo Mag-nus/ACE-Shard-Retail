@@ -1,0 +1,143 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-22_1485113440_log\pkt_2017-1-22_1485113440_log.pcap
+
+Partial Exports - Missing appraisal info:
+C09D5E7F:Pack
+C0966B9A:Pyreal Scarab
+C09D5DFE:Gold Scarab
+C09C2251:Silver Scarab
+C09AD590:Iron Scarab
+C095C53E:Copper Scarab
+C098317F:Diamond Scarab
+C09B1816:Chorizite
+C09AD40F:Ust
+C09D690B:Aphus Lassel Portal Gem
+C098341A:Mana Philtre
+C096335E:Intricate Carving Tool
+C09B1128:Splitting Tool
+C09B1644:Health Philtre
+C096B160:Mana Scarab
+C0983B34:Lead Scarab
+C0963F51:Gem of Purity
+C09C1E74:Gem of Stillness
+C095870F:Old Boot
+C71EDB86:Plentiful Healing Kit
+C7355659:Plentiful Healing Kit
+C7350010:Plentiful Healing Kit
+C73CE09C:Renegade Herbal Kit
+C09DF08B:Wrapped Bundle of Deadly Fire Arrowheads
+C09B1414:Wrapped Bundle of Deadly Armor Piercing Arrowheads
+C09C238D:Wrapped Bundle of Deadly Frog Crotch Arrowheads
+C08E3151:Wrapped Bundle of Deadly Frost Arrowheads
+C0966875:Wrapped Bundle of Deadly Blunt Arrowheads
+C09B0B22:Wrapped Bundle of Raider Lightning Arrowheads
+C09DF098:Wrapped Bundle of Olthoi Acid Arrowheads
+C0960731:Frost Compound Bow
+C09DF09B:Deadly Frost Arrow
+C099D2FB:Fire Compound Bow
+C09D624C:Golden Key
+C7186DBB:Olthoi Acid Arrow
+C0C020B0:Wrapped Bundle of Deadly Fire Arrowheads
+C09C23C0:Pack
+C09C292D:Trade Note (100,000)
+C09AD713:Trade Note (75,000)
+C095AFFC:Bracelet of Knowledge
+C0963C3B:Tiara
+C087FABE:Ring
+C09D5E92:Fishing Pole
+C09AD15C:Peculiar Old Dagger
+C09CB723:Palenqual's Okane of the Vortex
+C096282C:Peerless Atlan Dagger of Black Fire
+C09DF163:Phantom Dagger
+C0983570:Invitation to the Battle Burrows
+C096605B:Strand Siraluun Claw
+C09C2729:Atuakeh Plant
+C090105A:Bronze Gearknight Gear
+C09ABC0A:Pack T'thuun
+C0961708:Polar Ursuin Lair
+C7C6D021:Salvage (100)
+C7C5A273:Salvage (100)
+C7C0DD43:Salvage (100)
+C09DF168:Pack
+C7C59C58:Salvage (100)
+C7BBAEE0:Salvage (100)
+C09D5E99:Casting Stein
+C7C5B153:Salvage (100)
+C7C15AC4:Salvage (100)
+C0943277:Obsidian Sphere
+C7C5132D:Salvage (100)
+C7C59FE6:Salvage (100)
+C09BAB8A:Eye of the Quiddity
+C7B39FC7:Salvage (100)
+C7C3E847:Salvage (100)
+C09DF169:Blue Orb
+C7C47F8E:Salvage (100)
+C7C70A66:Salvage (100)
+C09B09D6:Dark Sorcerer's Phylactery
+C7C31067:Salvage (100)
+C7C9C646:Salvage (100)
+C096241C:Dark Sorcerer's Phylactery
+C7C6F0AA:Salvage (100)
+C7C01A44:Salvage (100)
+C09C2362:Dark Sorcerer's Phylactery
+C09DF165:The Healer's Heart
+C096A612:Dark Heart
+C09DF0BE:Dark Sorcerer's Phylactery
+C09C2989:Essence Flare
+C09B072B:Fenmalain Crystal Orb
+C09DF0BD:Dark Sorcerer's Phylactery
+C096B1CC:Dark Sorcerer's Phylactery
+C09C296E:Aphus Lassel Portal Gem
+C09C28E7:Aphus Lassel Portal Gem
+C09B0D22:Aphus Lassel Portal Gem
+C096604C:Aphus Lassel Portal Gem
+C09AB3B8:Some Changes for February 2012
+C0C80ED8:Academy Stamp
+C0963803:Pack
+C09C28E8:Vissidal Island Portal Gem
+C09B07AD:Shoyanen's Portal Gem
+C09DF16A:Duke Raoul's Distillation
+C09832F0:Gold Pea
+C09233A1:Pyreal Pea
+C09D5E5D:Ahruenga Portal Gem
+C7596D2F:Sturdy Iron Key
+C7C4B68D:Sanamar Portal Gem
+C7A87CF8:Aetheria Mana Stone
+C7A4E7F6:Major Mana Stone
+C7A881E4:Major Mana Stone
+C7A87777:Stamina Philtre
+C7A6069C:Major Mana Stone
+C7A8E566:Major Mana Stone
+C7A27803:Aetheria Powder
+C7A58D35:Greater Mana Stone
+C7A8F71D:Major Mana Stone
+C79FE3A2:Salvage (13)
+C09ABACF:Major Mana Stone
+C7BBA6F5:Salvage (100)
+C7B4FFE0:Salvage (100)
+C7C2F15F:Salvage (100)
+C7BD79C7:Salvage (100)
+C7B140FF:Salvage (100)
+C7B707B9:Salvage (6)
+C7C7E12D:Salvage (100)
+C7C3F538:Salvage (100)
+C7C596E0:Salvage (100)
+C7C5B55D:Salvage (100)
+C7B51401:Salvage (100)
+C7B9BC67:Salvage (100)
+C7BCC6DB:Salvage (100)
+C7BE49C8:Salvage (100)
+C7C590F8:Salvage (12)
+C7CA542F:Salvage (100)
+C7C3E96E:Salvage (100)
+C7C36A90:Salvage (100)
+C7C6245C:Salvage (33)
+C7CBAA09:Salvage (100)
+C7C16094:Salvage (21)
+C7C5A832:Salvage (29)
+C7C1689F:Salvage (100)
+C7CB0FA5:Salvage (6)
+C7CB10D0:Salvage (70)
+C7C79FB8:Salvage (12)
+
+Missing Exports - Possessed items that were not found:

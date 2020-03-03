@@ -1,0 +1,73 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\AC-Packet-Data-Jungle-Souljah-LC\pkt_2017-1-30_1485830498_log.pcap
+
+Partial Exports - Missing appraisal info:
+AE97AD10:Celcynd's Ring
+AE97AD14:Pack
+AE90DADC:Abandoned Mines Portal Sending Gem
+AE97AD0F:Ust
+AE908015:Starter Nabut
+AE96B2AB:Faran Robe with Hood
+AE96B27A:Aphus Lassel Portal Gem
+AE90DA6C:Bunny Slippers
+AE96B283:Trade Health Elixir
+AE97AD0E:Rithwic Portal Gem
+AE96B291:Phantom Staff
+AE90DAD7:Hyssop
+AE96B28F:Scroll of Shock Wave Streak III
+AE96B27F:Gem of Stillness
+AE96B267:Iron Scarab
+AE96B275:Silver Scarab
+AE90DA87:Copper Scarab
+AE9096CD:Copper Scarab
+AE969C7D:Gold Scarab
+AE90DA7C:Pyreal Scarab
+AE96B271:Lead Scarab
+AE97CD25:Iron Scarab
+AE97CD26:Prismatic Taper
+AE97CD27:Foci of Artifice
+AE97CD28:Foci of Strife
+AE97CD29:Foci of Enchantment
+AE97CD2A:Foci of Verdancy
+AE97CD2C:Treated Healing Kit
+AE97CD2D:Renegade Herbal Kit
+AE97CD2E:Renegade Herbal Kit
+AE97CD30:Scroll of Force Arc IV
+AE97CD35:Lesser Mana Stone
+AE97CD34:Salvaged  (3)
+AE97CD36:Pack
+AE97CD37:Pack
+AE97CD38:Stipend
+AE97CD39:Salvaged  (54)
+AE97CD3A:Lesser Mana Stone
+AE97CD3C:Focusing Stone
+AE97CD3D:Carol's Carrot Soup
+AE97CD3B:Pack Ancient Olthoi Queen
+AE97CD3E:Treated Healing Kit
+AE97CD3F:Treated Healing Kit
+AE97CD40:Wet Towel
+AE97CD41:Muddy Towel
+AE97CD42:Muddy Towel
+AE97CD43:Clean, Dry Towel
+AE97CD44:Stocking Cap
+AE97CD45:Iron Heart
+AE97CD46:Iron Heart
+AE97CD47:Blackmoor's Favor
+AE97CD48:Undead Thighbone
+AE97CD49:Crown
+AE97CD4A:Treated Healing Kit
+AE97CD4B:Crown
+AE97CD4C:Crown
+AE97CD4D:Granite Heart
+AE97CD4E:Granite Heart
+AE97CD4F:Pyreal
+AE97CD50:Pyreal
+AE97CD51:Pyreal
+AE97CD52:Pyreal
+AE97CD53:Some Changes for February 2012
+AE97CD54:Salvage (83)
+AE97CD55:Salvage (20)
+AE972294:Copper Pea
+AE9145DF:Iron Pea
+
+Missing Exports - Possessed items that were not found:

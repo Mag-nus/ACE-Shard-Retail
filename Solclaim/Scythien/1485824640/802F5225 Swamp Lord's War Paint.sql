@@ -1,0 +1,62 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (2150584869, 27889, 2, 3330368) /* Clothing */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (2150584869,   1,          2) /* ItemType - Armor */
+     , (2150584869,   4,      14080) /* ClothingPriority - OuterwearUpperLegs, OuterwearLowerLegs, OuterwearChest, OuterwearUpperArms, OuterwearLowerArms */
+     , (2150584869,   5,        100) /* EncumbranceVal */
+     , (2150584869,   9,      31232) /* ValidLocations - ChestArmor, UpperArmArmor, LowerArmArmor, UpperLegArmor, LowerLegArmor */
+     , (2150584869,  10,      31232) /* CurrentWieldedLocation - ChestArmor, UpperArmArmor, LowerArmArmor, UpperLegArmor, LowerLegArmor */
+     , (2150584869,  16,          1) /* ItemUseable - No */
+     , (2150584869,  19,       1500) /* Value */
+     , (2150584869,  28,        190) /* ArmorLevel */
+     , (2150584869,  65,        101) /* Placement - Resting */
+     , (2150584869,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (2150584869, 106,        150) /* ItemSpellcraft */
+     , (2150584869, 107,        630) /* ItemCurMana */
+     , (2150584869, 108,        650) /* ItemMaxMana */
+     , (2150584869, 109,        145) /* ItemDifficulty */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (2150584869,   1, False) /* Stuck */
+     , (2150584869,  11, True ) /* IgnoreCollisions */
+     , (2150584869,  13, True ) /* Ethereal */
+     , (2150584869,  14, True ) /* GravityStatus */
+     , (2150584869,  19, True ) /* Attackable */
+     , (2150584869,  22, True ) /* Inscribable */
+     , (2150584869, 100, True ) /* Dyable */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (2150584869,   5, -0.0333000011742115) /* ManaRate */
+     , (2150584869,  13,       1) /* ArmorModVsSlash */
+     , (2150584869,  14,       1) /* ArmorModVsPierce */
+     , (2150584869,  15,       1) /* ArmorModVsBludgeon */
+     , (2150584869,  16, 0.400000005960464) /* ArmorModVsCold */
+     , (2150584869,  17, 0.600000023841858) /* ArmorModVsFire */
+     , (2150584869,  18, 0.600000023841858) /* ArmorModVsAcid */
+     , (2150584869,  19, 0.400000005960464) /* ArmorModVsElectric */
+     , (2150584869, 165,       1) /* ArmorModVsNether */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (2150584869,   1, 'Swamp Lord''s War Paint') /* Name */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (2150584869,   1,   33556751) /* Setup */
+     , (2150584869,   6,   67108990) /* PaletteBase */
+     , (2150584869,   8,  100676597) /* Icon */
+     , (2150584869,  22,  872415275) /* PhysicsEffectTable */
+     , (2150584869, 8001,    2588696) /* PCAPRecordedWeenieHeader - Value, Usable, Wielder, ValidLocations, CurrentlyWieldedLocation, Priority, Burden */
+     , (2150584869, 8003,         18) /* PCAPRecordedObjectDesc - Inscribable, Attackable */
+     , (2150584869, 8005,     135169) /* PCAPRecordedPhysicsDesc - CSetup, PeTable, AnimationFrame */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (2150584869,   3, 1343049018) /* Wielder */
+     , (2150584869, 8000, 2150584869) /* PCAPRecordedObjectIID */;
+
+INSERT INTO `biota_properties_spell_book` (`object_Id`, `spell`, `probability`)
+VALUES (2150584869,   271,      2) 
+     , (2150584869,  1358,      2) 
+     , (2150584869,  1484,      2) ;
+
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
+VALUES (2150584869, 67115223, 174, 66);

@@ -1,0 +1,21 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-05-2017\AC_Logs_Leafcull_Dark_Noble_SimonF\pkt_2017-1-21_1484976891_log.pcap
+
+Partial Exports - Missing appraisal info:
+DB0F7978:Jerkin
+DB0F7979:Baggy Pants
+DB0F797A:Leather Boots
+DB0F797B:Pyreal
+DB0F797C:Sack
+DB0F797D:Ust
+DB0F797F:Pathwarden Token
+DB0F7981:Foci of Strife
+DB0F7982:Foci of Verdancy
+DB0F7983:Prismatic Taper
+DB0F7984:Lead Scarab
+DB0F7985:Letter From Home
+DB0F7986:Bread
+DB59EB92:Blackmoor's Favor
+DB0F7980:Training Wand
+
+Missing Exports - Possessed items that were not found:

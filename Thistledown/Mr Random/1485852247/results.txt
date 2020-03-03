@@ -1,0 +1,59 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-12-2017\Games\pkt_2017-1-31_1485841197_log.pcap
+
+Partial Exports - Missing appraisal info:
+94CAE45D:Sack
+804326A5:Halved Cloak
+804325EF:Chevron Cloak
+9504CFC6:Small Belt Pouch
+9A3E995C:Aetheria
+95191966:Aetheria
+8C63DA94:Aetheria
+9A3E9971:Trimmed Cloak
+806D7B23:Obsidian Heart
+806D7B25:Gold Golem Heart
+806D7B24:Gold Golem Heart
+804F8A76:Wood Heart
+9504C25A:Blackmoor's Favor
+95071847:Pyreal Bar
+8123EAE6:Pyreal Bar
+80B1E1D4:Pyreal Bar
+88434E1F:Pyreal Bar
+8123EAEA:Pyreal Bar
+96A9D87B:Pyreal Bar
+80432763:Pyreal Bar
+885FF796:Pyreal Bar
+84087176:Coral Heart
+950A3C81:Small Belt Pouch
+804327A2:Stone Tool
+804327DA:Clasp of the Heart
+8040ADD9:Pumpkin Cookie Cutter
+804326A3:Hearty Reedshark Robe
+97E339DB:Herald Stamp
+95099E6E:Small Belt Pouch
+9509A357:Small Belt Pouch
+8040AD81:Jexki Ki's Journal
+9539A6D4:Gromnie Hide Coat
+804327A3:Corcima Castle Platinum Ward Portal Gem
+80332D3A:Dark Monolith Caverns
+950B36C0:Small Belt Pouch
+803CB7F0:Shoyanen's Portal Gem
+8038274B:Quadruple-bladed Axe
+804326A0:Ishaq's Mace
+989FBC45:Crystal of Fiery Elemental Essence
+806D7AFE:Imprinting Mote
+8204A03F:Bunch of Nanners
+809A348C:Fragment of the New Singularity
+95455832:Scroll of Ring around the Rabbit
+96A793B7:Strong Iron Key
+970DEF38:Decanter of Essence
+97E30B77:Stipend
+9867EE39:Pyreal Nugget
+9868103B:Sparkling Gem
+800A9A6E:Hot Pepper
+91BFFE21:Frozen Fortress Testing Grounds Attunement Shard (Level 180+)
+9A3F11DE:Pack
+9A060865:Heaume
+953CA229:Licorice Rat
+
+Missing Exports - Possessed items that were not found:

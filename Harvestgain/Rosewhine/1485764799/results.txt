@@ -1,0 +1,65 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485764792_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps-20170203071513\pkt_2017-1-25_1485363128_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps-20170203071513\pkt_2017-1-26_1485458004_log.pcap
+
+Partial Exports - Missing appraisal info:
+801AE0A4:Diadem
+801AE0A5:Coronet
+801AE0A6:Coronet
+801AE0A7:Teardrop Crown
+801AE0A8:Circlet
+801AE0A9:Signet Crown
+801AE0AA:Coronet
+801AE0AB:Foci of Artifice
+801AE0AD:Asheron's Benediction
+801AE0AE:Ust
+801AE0AF:Blackmoor's Favor
+801AE0B0:Coalesced Mana
+801AE0B1:Aphus Lassel Portal Gem
+801AE0D4:Mana Stone
+801AE0B2:Shoyanen's Portal Gem
+801AE0C5:Iron Scarab
+801AE0C3:Copper Scarab
+801AE0C4:Silver Scarab
+801AE0BD:Lead Scarab
+801AE0BE:Gold Scarab
+801AE0C6:Pyreal Scarab
+801AE0C7:Platinum Scarab
+801AE0BF:Facility Hub Portal Gem
+801AE0C8:Splitting Tool
+801AE0D0:Moderate Mana Stone
+801AE0C2:Gem of Purity
+801AE0C0:Gem of Stillness
+B1CEBCD5:Gem of Stillness
+82018AA0:Aluvian Rug
+B1D2B6F3:Invitation to Master Fletchers
+B1D2C7C1:Wrapped Bundle of Arrowshafts
+B1D2C7C0:Wrapped Bundle of Greater Deadly Frog Crotch Arrowheads
+B1D2C7BF:Wrapped Bundle of Greater Deadly Blunt Arrowheads
+801AE0BA:Foci of Verdancy
+801AE0E3:Black Page of Salt and Ash
+801AE0C1:Hyssop
+801AE0D8:Deadly Frog Crotch Arrow
+801AE0D1:Moderate Mana Stone
+805F01B6:Deadly Frog Crotch Arrow
+801AF018:Deadly Lightning Arrow
+B1C612E5:Moderate Mana Stone
+801AE0CF:Greater Mana Stone
+801AF015:Deadly Chorizite Arrow
+8A354071:Fire Compound Bow
+80F52EB1:Electric Compound Bow
+801AE0B5:Fletcher's Crystal
+801AE0CB:Foci of Enchantment
+C7FF99DC:Stipend
+B38BE856:Blunt Compound Bow
+82018AF8:Frost Bow
+8101F1D4:Nabut
+8072089D:Blunt Compound Bow
+801A9293:Facility Hub Portal Gem
+B09BE557:Orb
+B3E41AB8:Slashing Bow
+
+Missing Exports - Possessed items that were not found:

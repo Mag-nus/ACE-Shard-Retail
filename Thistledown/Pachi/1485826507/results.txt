@@ -1,0 +1,71 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-30-to-1-31\Bliz 1-30 to 1-31\pkt_2017-1-30_1485826503_log.pcap
+
+Partial Exports - Missing appraisal info:
+86B27127:Flared Shirt
+86B27128:Viamontian Leggings
+86B27129:Pathwarden Sollerets
+86B2712D:Worker Pincer
+86B2712A:A Ring of Acid Protection
+86B2712B:Pack
+86B2712E:Scroll of Lightning Bolt V
+86B2712F:Sickle of Azaxis
+86B27130:Pyreal
+86B27131:Verdalim Plant
+86B27132:Great Mana Charge
+86B27133:Silver Scarab
+86B2713B:Copper Scarab
+86B2713C:Pack
+86B2713D:Mana Stone
+86B2713E:Prismatic Taper
+86B2713F:Iron Scarab
+86B27140:Lead Scarab
+86B27141:A Small Mnemosyne
+86B27142:Treated Healing Kit
+86B27143:Treated Healing Kit
+86B27144:Old Lucky Gold Letter
+86B27145:Sturdy Iron Key
+86B27146:Sturdy Iron Key
+86B27147:Sturdy Iron Key
+86B27148:Asheron's Benediction
+86B27149:Blackmoor's Favor
+86B2714A:Ust
+86B2714D:Foci of Artifice
+86B2714F:Fists of Stone
+86B27150:Pack
+86B27164:Pyreal Scarab
+86B27165:Crystal Nodule
+86B27166:Al-Arqas Portal Gem
+86B2716D:Marshmallow Ghost
+86B2716E:Pathwarden Gauntlets
+86B2716F:Pack
+86B27174:Brilliant Shard
+86B27177:Solid Shard
+86B27178:Seared Shard
+86B27179:Charged Shard
+86B2717A:Pack
+86B2717C:Platinum Scarab
+86B2717D:Aphus Lassel Portal Gem
+86B2717F:Chilled Shard
+86B27180:Stipend
+86591C0E:Simple Dried Rations
+86591C0D:Cinnamon
+86591C12:Cooking Pot
+86591C11:Hot Sauce
+86591C10:Mortar and Pestle
+86591C0F:Alembic
+86591BFD:Baron's Amulet of Life Giving
+86B360D1:Invitation to Master Fletchers
+86B00134:Wrapped Bundle of Quarrelshafts
+86591C0C:Wrapped Bundle of Greater Blunt Arrowheads
+86591C14:Simple Field Health Rations
+8480D7C3:Simple Field Rations
+86AE1F5B:Greater Blunt Quarrel
+86B01605:Facility Hub Portal Gem
+86B185BD:Greater Blunt Quarrel
+86F473DE:Chiran Leggings
+8813E544:Large Round Shield
+86B2712C:Wand
+8813E566:Broad Sword
+
+Missing Exports - Possessed items that were not found:

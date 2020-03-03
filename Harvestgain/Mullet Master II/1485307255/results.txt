@@ -1,0 +1,19 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\pkt_2017-1-24_1485307067_log\pkt_2017-1-24_1485307067_log.pcap
+
+Partial Exports - Missing appraisal info:
+C7F369BE:Tunic
+C7F3514C:Pants
+C7F36B58:Bread
+C7F35FF9:Leather Boots
+C7F36AF6:Starter Knife
+C7F36B57:Starter Shortsword
+C7F2A9F8:Welcome Letter
+C7F35FF8:Sack
+C7F467BE:Calling Stone
+C7F46775:Pack Burun Kukuur
+C7F35424:Some Changes for February 2012
+C7F45F5F:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:
+C7EE99C7

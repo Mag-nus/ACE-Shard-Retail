@@ -1,0 +1,96 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-30_1485823012_\pkt_2017-1-30_1485823012_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-25_1485397705_\pkt_2017-1-25_1485397705_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-26_1485490272_\pkt_2017-1-26_1485490272_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-30_1485823012_\pkt_2017-1-30_1485823012_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-30_1485823012_\pkt_2017-1-30_1485823012_log.pcap
+
+Partial Exports - Missing appraisal info:
+808A5469:Pyreal
+808A545B:Bone Handle
+808A5458:Pack
+808A5459:Nabut
+808A545C:Niffis Pearl
+808A545D:Orb
+808A545E:Heavy Bracelet
+808A545F:Smock
+808A5460:Tunic
+808A5471:Pyreal
+808A5461:Calling Stone
+808A5462:Silver Scarab
+808A5463:Prismatic Taper
+808A5465:Tusker Backpack
+808A5467:Alembic
+808A5466:Wrapped Bundle of Deadly Fire Arrowheads
+808A546A:Pack
+808A546D:Headless Snowman
+808A546B:Chef's Hat
+808A546C:Heavy Bracelet
+808A546E:Pantaloons
+808A546F:Gelidite Dais
+808A5470:Victual Oil
+808A5472:Foci of Enchantment
+808A5473:Pack
+808A5474:Pack
+808A5475:Quicksilver Pea
+808A5476:Turpeth Pea
+808A5478:Quicksilver Pea
+808A5479:Quicksilver Pea
+808A547A:Pack
+808A547B:Salvaged  (9)
+808A547C:Salvaged  (3)
+808A547D:Salvaged  (2)
+808A547E:Salvaged  (5)
+808A5486:Zombie Mask
+808A547F:Salvaged  (5)
+808A5480:Salvaged  (6)
+808A5487:Two Headed Snowman
+808A5481:Salvaged  (2)
+808A5483:Wrapped Bundle of Arrowheads
+808A548A:Cooking Pot
+808A5484:Concentrated Fire Infusion
+808A5488:Mortar and Pestle
+808A5490:Sunflower
+808A5489:Naginata
+808A548B:Mug
+808A548C:Kasa
+808A548D:Doublet
+808A548E:Neutral Balm
+808A548F:Scroll of Light Weapon Mastery Self VI
+808A5491:Whittling Knife
+808A5492:Diamond Heart
+808A5493:Baking Pan
+808A5494:Shendolain Key
+808A5495:Bone Handle
+808A5496:Wedding Cake Knife
+808A5498:Alchemist's Hat
+808A549C:Diamond Heart
+808A549E:Intricate Obsidian Key
+808A549D:Deadly Frog Crotch Arrow
+808A54A0:Concentrated Aqua Incanta
+808A54A1:Chorizite Fletching Tool
+808A54A2:Deadly Frog Crotch Arrow
+808A54A8:Cooking Pot
+808A54A4:Mug
+808A54AA:Wedding Cake
+808A54A5:Mug
+808A54A6:Mug
+808A54A7:Focusing Stone
+808A54AB:Mug
+808A54AC:Awakener
+808A54B1:Mug
+808A54B9:Prismatic Taper
+808A54B3:Wrapped Bundle of Blunt Arrowheads
+808A54B6:Concentrated Bloodhunter Oil
+808A54B7:Gharu'ndim Wand
+808A54BA:Pack Gaerlan
+808A54BB:Some Changes for February 2012
+808A54BD:Mug
+9C6AD3C4:Stipend
+808A5477:Quicksilver Pea
+9C89671B:Greater Frog Crotch Arrow
+9C8788F6:Greater Frog Crotch Arrow
+
+Missing Exports - Possessed items that were not found:

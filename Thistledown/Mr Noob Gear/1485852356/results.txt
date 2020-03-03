@@ -1,0 +1,18 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-12-2017\Games\pkt_2017-1-31_1485841197_log.pcap
+
+Partial Exports - Missing appraisal info:
+94CAE450:Sack
+94D06322:Keg of Tusker Spit Ale
+94D6ED5C:Keg of Hunter's Stock Amber
+94D3FDB0:Keg of Apothecary Zongo's Stout
+94D3FEA3:Keg of Duke Raoul's Distillation
+94D3FEF5:Keg of Bobo's Stout
+94D3FED7:Keg of Amber Ape
+95061B3C:Oil of Rendering
+95062836:Oil of Rendering
+97E22E91:Stipend
+985C1361:Stipend
+9734FA7E:Mosswart Armband
+
+Missing Exports - Possessed items that were not found:

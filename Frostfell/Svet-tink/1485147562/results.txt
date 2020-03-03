@@ -1,0 +1,25 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\random-running-around\pkt_2017-1-22_1485145389_log.pcap
+
+Partial Exports - Missing appraisal info:
+AAB454DC:Pyreal
+AAB454DD:Sack
+AAB454DE:Ust
+AAB454E1:Flour
+AAB454E2:Water
+AAB454E5:Bundle of Quarrelshafts
+AAB454E7:Bundle of Atlatl Dart Shafts
+AAB454EA:Gem
+AAB454E9:Mortar and Pestle
+AAB454EB:Gem
+AAB454EC:Gem
+AAB454ED:Letter From Home
+AAB454EE:Bread
+AAF9F8FB:Blackmoor's Favor
+AAF9FEE6:Oil of Rendering
+AAF9FEE5:Oil of Rendering
+AAFE119E:Pathwarden Supply Key
+AAF9FEDB:Academy Coat
+AAF9FEDA:Facility Hub Portal Gem
+
+Missing Exports - Possessed items that were not found:

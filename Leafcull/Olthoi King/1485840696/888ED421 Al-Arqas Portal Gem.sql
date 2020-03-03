@@ -1,0 +1,66 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (2291061793, 8973, 38, 7524673) /* Gem */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (2291061793,   1,       2048) /* ItemType - Gem */
+     , (2291061793,   5,        220) /* EncumbranceVal */
+     , (2291061793,  11,         25) /* MaxStackSize */
+     , (2291061793,  12,         22) /* StackSize */
+     , (2291061793,  16,          8) /* ItemUseable - Contained */
+     , (2291061793,  18,          1) /* UiEffects - Magical */
+     , (2291061793,  19,      11000) /* Value */
+     , (2291061793,  65,        101) /* Placement - Resting */
+     , (2291061793,  93,       3092) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, LightingOn */
+     , (2291061793,  94,         16) /* TargetType - Creature */
+     , (2291061793, 106,        210) /* ItemSpellcraft */
+     , (2291061793, 107,         50) /* ItemCurMana */
+     , (2291061793, 108,         50) /* ItemMaxMana */
+     , (2291061793, 109,          0) /* ItemDifficulty */
+     , (2291061793, 110,          0) /* ItemAllegianceRankLimit */
+     , (2291061793, 151,          2) /* HookType - Wall */
+     , (2291061793, 280,       1000) /* SharedCooldown */
+     , (2291061793, 9015,         20) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (2291061793,   1, False) /* Stuck */
+     , (2291061793,  11, True ) /* IgnoreCollisions */
+     , (2291061793,  13, True ) /* Ethereal */
+     , (2291061793,  14, True ) /* GravityStatus */
+     , (2291061793,  15, True ) /* LightsStatus */
+     , (2291061793,  19, True ) /* Attackable */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (2291061793, 167,      15) /* CooldownDuration */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (2291061793,   1, 'Al-Arqas Portal Gem') /* Name */
+     , (2291061793,  16, 'This portal summoning gem works best if used outside in a relatively flat area.') /* LongDesc */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (2291061793,   1,   33556769) /* Setup */
+     , (2291061793,   3,  536870932) /* SoundTable */
+     , (2291061793,   6,   67111919) /* PaletteBase */
+     , (2291061793,   8,  100674862) /* Icon */
+     , (2291061793,  22,  872415275) /* PhysicsEffectTable */
+     , (2291061793,  28,        157) /* Spell - SummonPortal1 */
+     , (2291061793, 8001,  275280024) /* PCAPRecordedWeenieHeader - Value, Usable, UiEffects, StackSize, MaxStackSize, Container, TargetType, Burden, Spell, HookType */
+     , (2291061793, 8002,          6) /* PCAPRecordedWeenieHeader2 - Cooldown, CooldownDuration */
+     , (2291061793, 8003,   67108880) /* PCAPRecordedObjectDesc - Attackable, IncludesSecondHeader */
+     , (2291061793, 8005,     137217) /* PCAPRecordedPhysicsDesc - CSetup, STable, PeTable, AnimationFrame */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (2291061793,   1, 2274286804) /* Owner */
+     , (2291061793,   2, 2274286804) /* Container */
+     , (2291061793, 8000, 2291061793) /* PCAPRecordedObjectIID */;
+
+INSERT INTO `biota_properties_spell_book` (`object_Id`, `spell`, `probability`)
+VALUES (2291061793,   157,      2) ;
+
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
+VALUES (2291061793, 67111922, 0, 0);
+
+INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
+VALUES (2291061793, 0, 83890391, 83890391, 0);
+
+INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, `order`)
+VALUES (2291061793, 0, 16779181, 0);

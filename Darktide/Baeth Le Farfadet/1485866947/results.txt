@@ -1,0 +1,71 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-31_1485866853_log.pcap
+
+Partial Exports - Missing appraisal info:
+8D07E7F3:Pack
+8D07E7F4:Pack
+8D07E7F5:Pack
+8D07E7F6:Blackmoor's Favor
+8D07E7F7:Sack
+8D07E7F8:Pack
+8D07E7F9:Pack
+D342FDE7:Armor Tailoring Kit
+8D07E800:Amuli Coat
+8D07E801:Amuli Coat
+8D07E80C:Sollerets
+8D07E80D:Amuli Coat
+8D07E80E:Amuli Coat
+8D07E81C:Sollerets
+AD685D21:Vestiri Robe with Hood
+AD685D2A:Faran Robe with Hood
+AD685D29:Faran Robe with Hood
+8D07E7FE:Amuli Leggings
+9C5356F2:Empyrean Robe
+8D07E828:Celdon Leggings
+8D07E829:Celdon Leggings
+8D07E824:Celdon Leggings
+9C571994:Celdon Leggings
+9C57196B:Celdon Leggings
+8D07E827:Celdon Leggings
+8D07E82E:Celdon Leggings
+8D07E82C:Amuli Leggings
+8D07E826:Celdon Leggings
+870BB5DC:Pathwarden Robe
+C68C5E1A:Amuli Coat
+C68D3E29:Amuli Coat
+C6516194:Amuli Coat
+C063A030:Amuli Coat
+8D07E82A:Amuli Leggings
+C67F495D:Celdon Sleeves
+8D07E81A:Amuli Leggings
+C4E90CE0:Celdon Sleeves
+8D07E818:Celdon Sleeves
+8D07E817:Celdon Sleeves
+8D07E819:Celdon Sleeves
+8D07E806:Celdon Sleeves
+C63D32E2:Celdon Sleeves
+8D07E807:Celdon Sleeves
+C06546E0:Celdon Breastplate
+8D07E81D:Celdon Breastplate
+8D07E804:Celdon Breastplate
+8D07E803:Celdon Breastplate
+C65BFBDF:Celdon Breastplate
+8D07E810:Celdon Breastplate
+8D07E7FD:Celdon Breastplate
+8D07E802:Celdon Breastplate
+8D07E812:Celdon Breastplate
+8D07E811:Celdon Breastplate
+8D07E7FF:Celdon Breastplate
+8D07E815:Celdon Breastplate
+8D07E81E:Celdon Breastplate
+C67C021E:Celdon Girth
+8D07E80A:Celdon Girth
+C68A2934:Celdon Girth
+C0624E7B:Celdon Girth
+C07E8C35:Celdon Girth
+8D07E80B:Celdon Girth
+8D07E81B:Celdon Girth
+D342FF2E:Celdon Sleeves
+D35C5ABD:Celdon Sleeves
+
+Missing Exports - Possessed items that were not found:

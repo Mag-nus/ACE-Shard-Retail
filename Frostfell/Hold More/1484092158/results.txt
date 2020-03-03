@@ -1,0 +1,181 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\Callaway-January2017-Account3\pkt_2017-1-10_1484091983_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\gdrive (tfarley)\Callaway\Asheron's Call\pkt_2017-1-9_1483985928_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Callaway-01-10-2017-MountLetheGraveyard\pkt_2017-1-9_1483985928_log.pcap
+C:\ACEmulator\Logs Unpacked\02-09-2017\Callaway-1-17-29-2017-Misc2\pkt_2017-1-18_1484772249_log.pcap
+
+Partial Exports - Missing appraisal info:
+DB3BF5AA:Pyreal Sliver
+DB534E06:Lucky Gold Letter
+DB387E08:Trade Note (250,000)
+DB4AFBDC:Olthoi Celdon Sollerets
+D9AC1313:Oswald's Dirk
+8BAB9CD4:Aetheria
+DAADE03D:Aetheria
+DAA9996B:Aetheria
+DB4E97B5:Aetheria
+8BAB9C4E:Aetheria
+DB595BEB:Emerald Gromnie Eye
+DB595DA8:Emerald Gromnie Eye
+DB4F4060:Ruby Gromnie Eye
+DB60E37A:Small Olthoi Venom Sac
+DB60E37B:Mana Forge Key
+8B8957A5:Olthoi Celdon Leggings
+DB4F1BE7:Acid Takuba
+8978386F:Chiran Coat
+DB4DF223:Academy Coat
+A7247DA2:Chainmail Breastplate
+9E20031A:Alduressa Coat
+DAB09849:Halaetan Magic Page 6
+BAF340CF:Alduressa Coat
+B4191859:Fez
+DB3CC191:Frost Nekode
+B4228BF2:Haebrean Gauntlets
+B38F8D44:Olthoi Amuli Coat
+DB0F7911:Pyreal
+B422EEA8:Nariyid Girth
+BB77863D:Studded Leather Shirt
+8D00DAF2:Leather Sleeves
+8B89DCD0:Studded Leather Bracers
+DA7B4AD2:Halaetan Magic Page 6
+94759E32:Faran Over-robe
+8B879085:Chainmail Pauldrons
+8001194B:Cloth Gloves
+8DCCA91F:Olthoi Amuli Coat
+80012755:Jerkin
+800124C7:Poet's Shirt
+8F13234A:Olthoi Celdon Gauntlets
+BBC3A32E:Puzzle Box
+819D0F48:Serpent's Fang
+B8BB3F7A:Studded Leather Greaves
+DB47EB34:Flaming Sabra
+DB4E97AC:Ken
+DB4E8F45:Halved Cloak
+DAC180DF:Tusker Skull Helm
+DB4F1BE5:Flaming Nabut
+DB471C86:Rapier
+DB4DEF0E:Claw
+DB499378:Heavy Bracelet
+DB3D750C:Nether Staff
+B6162802:Chiran Coat
+DB3D72C3:Rapier
+DB3D7152:Mazule
+DB3D7153:Acid Spine Glaive
+DB3D714E:Bracelet
+DAAAE4EE:Pyreal Pea
+DB3D6F5D:Ring
+DB3CAD42:Metal Cap
+DAE956A3:Coronet
+DB3D714F:Trident
+DAE957D5:Diforsa Greaves
+B6E43E30:Crystal Fragment
+DB4A9D82:Coronet
+DB3D2E3E:Acid Baton
+B4073672:Gold Pea
+DB3D306C:Kaskara
+DB3CA411:Shamshir
+DB45D010:Pathwarden Supply Key
+DB4DEF0D:Hand Wraps
+DB4D1322:Blunt Compound Crossbow
+DB3AA96A:Piercing Sceptre
+DACC7468:Blunt Crossbow
+DAE95298:Acid Compound Bow
+815358E6:Leather Tassets
+819880EC:Chainmail Tassets
+819C76BA:Spinning Staff of Death
+DA9DC304:Crystal Fragment
+819D0FBE:Nariyid Breastplate
+DB8BB880:Alacritous Ink
+DAAF8ECC:Platemail Breastplate
+DB501D38:Olthoi Amuli Helm
+DB501FEA:Frost Slingshot
+819CE410:Mechanical Scarab
+8BAB9C6A:Virindi Consul Essence
+DB75AC0F:Heavy Bracelet
+DB4C3551:Atlan Two Handed Sword
+DB4C1C75:Atlan Sword
+D04142C8:Jaleh's Leggings
+D005557C:Jaleh's Chain Shirt
+DB477224:Spirit of Izexi Gem
+DB490E18:Burning Sands Keyring
+DB46D47C:Burning Sands Keyring
+DB4DF224:Facility Hub Portal Gem
+DB4DF221:Oil of Rendering
+DB4DF222:Oil of Rendering
+81983C73:Dark Monolith Caverns
+DB4DF6DF:Trade Note (75,000)
+DB4DF0DB:Blackmoor's Favor
+8198514D:Isparian Weapons Modifying Tool
+DB33C491:Platinum Golem Heart
+DB8ED786:Ink of Partition
+DB4B3E65:Glyph of Nether
+DB6E4094:Glyph of Coordination
+DB8ED783:Glyph of Void Magic
+DB6E4095:Glyph of Healing
+DB6D1399:Glyph of Stamina Regeneration
+DB8ED9F9:Glyph of War Magic
+DB69910B:Glyph of Lockpick
+DA2B75E6:Ink of Separation
+DB8ED9FC:Glyph of Creature Enchantment
+DB7EF522:Glyph of Armor
+B0E4846B:Glyph of Person Appraisal
+DA980DAA:Radiant Blood Vambraces
+DA835DED:Radiant Blood Pauldrons
+DA781386:Radiant Blood Pauldrons
+DA72F037:Radiant Blood Vambraces
+DB15B458:Resister's Crystal
+B0E4846F:Glyph of Leadership
+B0E48462:Glyph of Light Weapons
+DA7FA3EC:Quill of Introspection
+DB1B2DE9:Quill of Infliction
+B0E4846D:Glyph of Deception
+DB6E43CE:Quill of Benevolence
+DB1FB738:Glyph of Magic Item Tinkering
+DB6E4093:Ink of Conveyance
+D08B8BD2:Ink of Objectification
+8BAB9D30:Buckler
+DB374F99:Ink of Formation
+DB6E43CF:Quill of Extraction
+DB5018AA:Circlet
+DB501FF7:Olthoi Koujia Breastplate
+8BAB9CA2:Heavy Bracelet
+DB4D15F0:Nariyid Breastplate
+8BAB9D1F:Heavy Necklace
+B750BE64:Empyrean Over-robe
+8BAB9D16:Heavy Bracelet
+8BAB9CA1:Bracelet
+8BAB9CEE:Bracelet
+DAADD62A:Alduressa Helm
+8BAB9CB7:Heavy Necklace
+8BAB9CB8:Ring
+DB4E97B4:Olthoi Alduressa Gauntlets
+A7804854:Chainmail Gauntlets
+DB509D5D:Nariyid Gauntlets
+DB4E04E0:Studded Leather Cowl
+DB6FEE6A:Frost Claw
+DB75AE9E:Acid Sceptre
+DB75DD53:Haebrean Tassets
+DB75DF46:Turban
+DB75DF43:Top
+D5340BD2:Turban
+80048960:Piercing Staff
+B0E48473:Electric Staff
+DB4E7D8D:Aetheria
+8BAB9D34:Tetsubo
+DB744834:Aetheria
+DB38F776:Buckler
+8BAB9D09:Empowered Helm of the Perfect Light
+DB4AFBF0:Katar
+8BAB9D27:Morning Star
+DB653560:Covenant Shield
+DB4FE773:Olthoi Celdon Gauntlets
+DB8E40EE:Ancient Falatacot Trinket
+DB8A09B0:Monarch's Crystal
+DB7C7144:Tinker's Crystal
+DB62184C:Ink of Conveyance
+B0D1A325:Superior Helmet
+B0E48466:Glyph of Item Tinkering
+
+Missing Exports - Possessed items that were not found:

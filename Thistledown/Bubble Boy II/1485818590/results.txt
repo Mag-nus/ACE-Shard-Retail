@@ -1,0 +1,43 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-30_1485818583_log.pcap
+
+Partial Exports - Missing appraisal info:
+ABF1FD03:Cloth Cap
+ABF1FCE3:Pyreal
+ABF1FCFB:Shirt
+ABF1FCAA:Quicksilver
+ABF1FCD4:Bread
+ABF1FCA0:Cobalt
+ABF1FCD5:Powdered Turquoise
+ABF1FC96:Lead Scarab
+ABF1FCAF:Stibnite
+ABF1FCAD:Hyssop
+ABF1FCD0:Ashwood Talisman
+ABF1FC9E:Powdered Onyx
+ABF1FCBA:Vitriol
+ABF1FCF3:Handy Healing Kit
+ABF1FCB8:Handy Healing Kit
+ABF1FCCD:Sack
+ABF1FCE4:Calling Stone
+ABF1FC1D:Greeter's Key
+ABF1FC29:Quartermaster's Workshop Key
+AA0E308D:Leather Gauntlets
+ABF1FBFC:Pyreal
+ABF0E32A:Pyreal
+ABF1FE3D:Celdon Breastplate
+ABF1FCD9:Celdon Leggings
+ABF1FCBC:Pyreal
+ABF1FCAE:Celdon Sleeves
+ABF1FB34:Celdon Girth
+ABF1FCCF:Baigha
+ABF1FCD8:Pyreal
+ABF1FB4F:Steel Toed Boots
+ABF1FC97:Pyreal
+ABF1FCC8:Aluvian Wand
+ABF1FB4A:Pack Levistras
+ABF1FC1F:Some Changes for February 2012
+ABF1FC44:Blackmoor's Favor
+ABF1FC0C:Acid Battle Axe
+ABF1FB2E:Tower Shield
+
+Missing Exports - Possessed items that were not found:

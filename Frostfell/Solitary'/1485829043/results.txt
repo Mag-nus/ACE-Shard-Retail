@@ -1,0 +1,71 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-05-2017\data-logging-files\data logging files\pkt_2017-1-30_1485829024_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-05-2017\data-logging-files\data logging files\pkt_2017-1-30_1485809143_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\data-logging-files\data logging files\pkt_2017-1-30_1485809143_log.pcap
+
+Partial Exports - Missing appraisal info:
+DCE4AC96:Baggy Pants
+DCE4AC99:Sack
+DCE4AC9A:Ust
+DCE4AC9B:Calling Stone
+DCE4AC9C:Pathwarden Token
+DCE4AC9E:Foci of Strife
+DCDE3908:Blackmoor's Favor
+DCDE3E05:Academy Exit Token
+DCBF1B4D:Academy Library Key
+DBBED556:Pack
+DCDE6FCA:Pack
+DCBF389F:Lead Scarab
+DCF0E1E2:Pyreal
+DCE4AC9F:Foci of Verdancy
+DCE4ACA2:Letter From Home
+DCE4ACA3:Bread
+DCF175FC:Foci of Enchantment
+DCBE03A9:Academy Wand
+DCF19D64:Copper Scarab
+DCF19D59:Iron Scarab
+DCF19CD9:Silver Scarab
+DCF19CE1:Prismatic Taper
+DCF26647:Ice Tachi
+DCF27811:Orb
+DCF068DE:Wand
+DCEC4522:Dagger of Tikola
+DCE72FFF:Dull Dagger
+DCEC3943:Ancient Shard of Metal
+DD1B77ED:Pyreal
+DCF169D3:Foci of Artifice
+DCF16A1E:Cloth Gloves
+DD1A8C98:Chainmail Sleeves
+DD1A5D6A:Small Rusted Key
+DD1A5F92:Cell Key
+DD15C0EC:Sceptre
+DD1BE42E:Pyreal
+DD1BE41E:Pyreal
+DD1BE41F:Pyreal
+DD1BE420:Pyreal
+DD1BE421:Pyreal
+DD1BE422:Pyreal
+DD1BE423:Pyreal
+DD1BE424:Pyreal
+DD09CA46:The Baron's Key
+DD1E8654:A Small Mnemosyne
+DD0044F6:Baron's Amulet of Life Giving
+DD09CA54:Shoes
+DD1A11A2:Fiery Shield
+DD1B5478:Tibri's Fire Spear
+DD1E595C:Trothyr's Rest Key
+DD1D0F80:Trothyr's Rest Key
+DD1E5978:Trothyr's Rest Key
+DD1DF713:Trothyr's Shield
+DD1DF712:Trothyr's War Hammer
+DCE76A2F:Scroll of Cold Vulnerability Other VI
+DD0E5B1C:Lilitha's Bow
+DD1E08F6:Mi Krau-Li's Jitte
+DD1EDB3D:Ruschk Hunter Leggings
+DCF14C55:Wand
+
+Missing Exports - Possessed items that were not found:
+DCE4AC98
+DCE4AC95

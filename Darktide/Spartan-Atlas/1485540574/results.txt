@@ -1,0 +1,133 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-27_1485539039_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-24_1485276475_log.pcap
+
+Partial Exports - Missing appraisal info:
+D7D8ED04:Foci of Artifice
+D7D8ED1D:Foci of Enchantment
+D7D8ED14:Foci of Verdancy
+D7D8ED0C:Belt Pouch
+D7D73E25:Tumerok Salted Meat
+D7D7CB2A:War Magic Gem of Enlightenment
+D7D7CB1A:Self To Coordination Gem
+D7D8ECFB:Self To Coordination Gem
+D7D8ECF2:Dark Sliver
+D7D8ECEA:Holtburg Portal Gem
+D7D7CB14:Sturdy Iron Key
+D7D8ECE1:Loose Shirt
+D7D8ECD9:Peerless Healing Kit
+D7D8ECD0:Peerless Healing Kit
+D7D8ED03:Peerless Healing Kit
+D7D8ED1C:Scroll of Saladur's Blessing
+D7D8ED13:Scroll of Hastening
+D7D8ED0B:Scroll of Tusker's Bane
+D7D7CB2F:Scroll of Battlemage's Blessing
+D7D7CB10:Treated Healing Kit
+D7D8ECF1:Treated Healing Kit
+D7D7CB11:Scroll of Aura of Resistance
+D7D8ECCF:Pyreal Scarab
+D7D8ECFA:Treated Healing Kit
+D7D8ECE0:Mana Tonic
+D7D8ECD8:Jo
+D7D8ED02:Wand
+D7D8ED1B:Ewer
+D7D8ED0A:Pack
+D7D7CB2D:Lead Scarab
+D7D8ED12:Copper Scarab
+D7D7CB2B:Silver Scarab
+D7D8ED21:Blackmoor's Favor
+D7D7CB42:Asheron's Benediction
+D7D8ECF9:Treated Healing Kit
+D7D8ECF0:Prismatic Taper
+D7D73DF7:Pack
+D7D8ED7D:Sandy Armoredillo Spine
+D7D8ED01:Hoary Armoredillo Spine
+D7D8ED2A:Sturdy Iron Keyring
+D7D8ED1A:Peerless Healing Kit
+D7D8ED11:Peerless Healing Kit
+D7D8ED09:Sturdy Iron Keyring
+D7D7CB29:Ust
+D7D8ED20:Peerless Healing Kit
+D7D73E5F:Sturdy Iron Key
+D7D7CB80:Peerless Healing Kit
+D7D8ECF8:Viamont Staging Area Key
+D7D8ECEF:Salvaged  (8)
+D7D73E28:Salvaged  (10)
+D7D8ED00:Salvaged  (3)
+D7D8ED08:Scroll of Force Arc VII
+D7D8ED29:Salvaged  (15)
+D7D8ED19:Salvaged  (44)
+D7D7CB06:Scroll of Disintegration
+D7D8ED10:Salvaged  (14)
+D7D73E35:Scroll of Blessing of the Mace Turner
+D7D7CB16:Scroll of Rending Wind
+D7D8ECEE:Scroll of Tusker's Bane
+D7D8ED1F:Scroll of Tenaciousness
+D7D73E2B:Brilliant Celdon Sleeves
+D7D7CB57:Bats
+D7D73E32:Plated Celdon Breastplate
+D7D8ECFF:Pack
+D7D7CB24:Prismatic Taper
+D7D8ED28:Salvaged  (17)
+D7D8ED18:Salvaged  (35)
+D7D8ED94:Little Green Seeds
+D7D8ED0F:Salvaged  (39)
+D7D8ED07:Salvaged  (7)
+D7D7CB3C:Little Green Seeds
+D7D8ED1E:Salvaged  (5)
+D7D7CB28:Salvaged  (10)
+D7D7CB04:Pyreal Mote
+D7D73E2A:Salvaged  (47)
+D7D8ECF6:Salvaged  (9)
+D7D7CB86:Pyreal Pea
+D7D8ECFE:Salvaged  (5)
+D7D7CB26:Salvaged  (5)
+D7D7CB53:Gold Pea
+D7D73E34:Salvaged  (97)
+D7D73E56:Salvaged  (5)
+D7D7CB66:Gold Pea
+D7D8ED27:Salvaged  (5)
+D7D8ED17:Salvaged  (5)
+D7D73E31:Silver Pea
+D7D8ED0E:Salvaged  (17)
+D7D8ED06:Salvaged  (11)
+D7D8ED2D:Iron Pea
+D7D73E37:Salvaged  (5)
+D7D7CB05:Salvaged  (47)
+D7D8ED25:Olthoi Helm
+D7D73E4E:Fadsahil's Portal Gem
+D7D7CB59:Aphus Lassel Portal Gem
+D7D7CB58:High Mana Charge
+D7D7CB41:Invitation Wedding Hall
+D7D8ED2E:Invitation Ithaenc Cathedral
+D7D8ED9D:Pack Bael'Zharon
+D7D8ED26:Trade Health Elixir
+D7D8ED16:Invitation Ithaenc Cathedral
+D7D7CBCA:Some Changes for February 2012
+D7D7CB2E:Pack Martine
+D7D7CB3A:Ursuin Hide Helmet
+D7D7CB19:Platemail Girth
+D7D8ED2C:Broad Sword
+D7D8ED24:Takuba
+D7D7CB1B:Shouyumi
+D7D73E3C:Heavy Bracelet
+D7D7CB25:Invitation Wedding Hall
+D7D73E29:Minalim Plant
+D7D73E54:Holtburg Portal Gem
+D7D8ED2B:Holtburg Portal Gem
+D7D8ED23:Invitation Wedding Hall
+D7D7CB55:Elaborate Field Rations
+D7D7CB54:Salvage
+D7D7CB5A:Oxidized Statue 
+D7D7CB3F:Oxidized Statue 
+D7D7CB50:Oxidized Statue
+D7D73E5D:Oxidized Statue
+D7D7CB2C:Long Sword
+D7D7CB49:Electric Sceptre
+D7D8ED33:Studded Leather Boots
+D7D7CB45:Oxidized Statue 
+D7D7CBA8:Round Shield
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,131 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\somepcaps\pkt_2017-1-30_1485785453_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Immortalbob-1-31-17-Random-Pcaps-5\pkt_2017-1-30_1485785453_log.pcap
+
+Partial Exports - Missing appraisal info:
+BE9E109D:Gem of Knowledge
+BE9E0FBE:Greater Gem of Knowledge
+C4B5B783:Experience Certificate
+BE9E1455:Greater Gem of Knowledge
+C4A165E3:Gem of Knowledge
+C4B5B5C4:Experience Certificate
+C4BA2CBE:A'nekshay Gem of Knowledge
+C49AA730:Greater Gem of Knowledge
+C4B840CF:Greater Gem of Knowledge
+C4B66E9D:Greater Gem of Knowledge
+C4B839D3:Greater Gem of Knowledge
+C4B2C136:Experience Certificate
+C4B56263:Pack
+C4B371BB:Experience Certificate
+C4B37582:Experience Certificate
+C4B385D9:Experience Certificate
+C4B38779:Experience Certificate
+C4B2F804:Experience Certificate
+C4B2F7C3:Experience Certificate
+C4AEB313:Experience Certificate
+C4B3E7BF:Experience Certificate
+C4B415D2:Experience Certificate
+C4B4167B:Experience Certificate
+C4B41713:Experience Certificate
+C4B41768:Experience Certificate
+C4B421A3:Experience Certificate
+C4B42224:Experience Certificate
+C4B42276:Experience Certificate
+C4B33C7A:Experience Certificate
+C4B4295E:Experience Certificate
+C4B42A11:Experience Certificate
+C4B431F5:Experience Certificate
+C4B4314B:Experience Certificate
+C4B22E1C:Experience Certificate
+C4B56282:Pack
+C4B4307A:Experience Certificate
+C4B43057:Experience Certificate
+C4B42FCB:Experience Certificate
+C4B548C2:Experience Certificate
+C4B54936:Experience Certificate
+C4B54970:Experience Certificate
+C4B406BB:Experience Certificate
+C4B4037B:Experience Certificate
+C4B0C443:Experience Certificate
+C4B34AB1:Experience Certificate
+C4B34924:Experience Certificate
+C4B3FCB6:Experience Certificate
+C4B34BE6:Experience Certificate
+C3F0A2DF:Experience Certificate
+C4B35870:Experience Certificate
+C4B35AF9:Experience Certificate
+C4B3B66C:Experience Certificate
+C4B0F9B5:Experience Certificate
+C4B3599E:Experience Certificate
+C4B42703:Experience Certificate
+C4B42798:Experience Certificate
+C4B0F860:Experience Certificate
+C4AAD5F1:Experience Certificate
+C4B4032F:Experience Certificate
+C4B56292:Pack
+C4B139FC:Experience Certificate
+C4B13AEC:Experience Certificate
+C4B40CC6:Experience Certificate
+C4B13E4A:Experience Certificate
+C4B13DF8:Experience Certificate
+C4B13FDE:Experience Certificate
+C4B362B5:Experience Certificate
+C4B12C73:Experience Certificate
+C4B1425B:Experience Certificate
+C4AF65E9:Experience Certificate
+C4B14BEF:Experience Certificate
+C4B351C6:Experience Certificate
+C4B19005:Experience Certificate
+C4B15D9F:Experience Certificate
+C4B18BBB:Experience Certificate
+C4B1A87C:Experience Certificate
+C4B1B04E:Experience Certificate
+C4AF6652:Experience Certificate
+C4B1B772:Experience Certificate
+C4B1B703:Experience Certificate
+C4B1A488:Experience Certificate
+C4B1AF3C:Experience Certificate
+C4B1BA17:Experience Certificate
+C4B1C250:Experience Certificate
+C4B562AE:Pack
+C4B5573A:Experience Certificate
+C4B5578E:Experience Certificate
+C4B558D6:Experience Certificate
+C4B558EC:Experience Certificate
+C4B19736:Experience Certificate
+C4B559F2:Experience Certificate
+C4B55B30:Experience Certificate
+C4B55BB3:Experience Certificate
+C4B55C60:Experience Certificate
+C4B55CB8:Experience Certificate
+C4B55D06:Experience Certificate
+C4B55DB5:Experience Certificate
+C4B56F12:Experience Certificate
+C4B5712E:Experience Certificate
+C4B570A5:Experience Certificate
+C4B26057:Experience Certificate
+C4B255BB:Experience Certificate
+C4B25747:Experience Certificate
+C4B25948:Experience Certificate
+C4B25574:Experience Certificate
+C4B5AAE1:Experience Certificate
+C4B25093:Experience Certificate
+C4B22F87:Experience Certificate
+C4AB651F:Experience Certificate
+C4B1EE99:Pack
+C4B1ED0E:Experience Certificate
+C4B57535:Experience Certificate
+C4B574C9:Experience Certificate
+C4B57465:Experience Certificate
+C4B573A8:Experience Certificate
+C4B57145:Experience Certificate
+C4B245F1:Experience Certificate
+C4B21BA8:Experience Certificate
+C4B2968E:Experience Certificate
+C4B29375:Experience Certificate
+C4B5B00B:Experience Certificate
+C4B562B5:Pack
+
+Missing Exports - Possessed items that were not found:

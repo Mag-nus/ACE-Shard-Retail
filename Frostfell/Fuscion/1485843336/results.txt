@@ -1,0 +1,89 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485843152_log.pcap
+
+Partial Exports - Missing appraisal info:
+B2B05ED1:Ust
+B2B05ED5:Foci of Verdancy
+B2B05ED2:Pack
+B2B05ECF:Scroll of Healing Mastery Other V
+B2B05ED0:Facility Hub Portal Gem
+B2B05ECE:Prismatic Taper
+B2B05ECD:Lead Scarab
+B2B05ECC:Silver Scarab
+B2B05ECB:Blackmoor's Favor
+B2B05EC9:Stipend
+B2B05EC8:Gold Scarab
+B2B05EC7:Pyreal Scarab
+B2B05EC6:Prismatic Taper
+B2B05EC5:Copper Scarab
+B569D8B7:Frost Crossbow
+B2B05EC4:Pack
+B2B05EC3:Wrapped Bundle of Armor Piercing Arrowheads
+B2B05EC2:Treated Healing Kit
+B2B05EC1:Treated Healing Kit
+B2B05EC0:Treated Healing Kit
+B2B05EBF:Treated Healing Kit
+B2B05EBE:Treated Healing Kit
+B2B05EBD:Treated Healing Kit
+B2B05EBC:Pack
+B2B05EBB:Salvage (10)
+B2B05EBA:Salvage (15)
+B2B05EB9:Salvage (6)
+B2B05EAF:Pack
+B2B05EB8:Salvage (6)
+B2B05EB7:Wrapped Bundle of Deadly Fire Arrowheads
+B2B05E98:Pyreal
+B2B05EB6:Wrapped Bundle of Arrowshafts
+B2B05EB5:Wrapped Bundle of Deadly Blunt Arrowheads
+B2B05E97:Pyreal
+B2B05EAE:Fez
+B2B05EAD:Circlet
+B2B05EAC:Bandana
+B2B05EAB:Circlet
+B2B05EAA:Bandana
+B2B05EA9:Sandals
+B2B05EA8:Cloth Gloves
+B2B05EA7:Cloth Gloves
+B2B05EA4:Fez
+B2B05EA6:Sandals
+B2B05EA5:Studded Leather Sleeves
+B2B05E96:Pyreal
+B2B05EA3:Crown
+B2B05EA2:Hood
+B2B05E9D:Loafers
+B2B05EA1:Heavy Bracelet
+B2B05EA0:Shoes
+B2B05E9E:Teardrop Crown
+B2B05EB2:Qafiya
+B2B05EB3:Studded Leather Tassets
+B2B05E95:Pyreal
+B2B05EB4:Heavy Bracelet
+B2B05EB1:Nether Baton
+B2B05E94:Pyreal
+B2B05EB0:Heavy Bracelet
+B435DEF7:Ancient Empyrean Trinket
+B2B05E9F:Pack
+B42D00E5:Ancient Falatacot Trinket
+B2B05E93:Pyreal
+B2B05E92:Pyreal
+B2B05E91:Foci of Artifice
+B2B05E90:Salvage (5)
+B2B05E8F:Salvage (4)
+B2B05E8E:Twisted Dark Key
+B2B05E8D:Twisted Dark Key
+B2B05E8C:Mangled Dark Key
+B2B05E89:Salvage (10)
+B2B05E88:Salvage (5)
+B436A3C1:Colosseum Ticket
+B2B05E87:Greater Deadly Frog Crotch Arrow
+B2B05E86:Greater Deadly Frog Crotch Arrow
+B2B05E84:Greater Deadly Frog Crotch Arrow
+B2B05E8A:Shouyumi
+B3B36150:Ancient Empyrean Trinket
+B56F73A2:Trade Note (250,000)
+B4345E65:Promissory Note
+B2B04898:Intricate Carving Tool
+B4361BF7:Renegade Herbal Kit
+B3AE4D81:Ancient Empyrean Trinket
+
+Missing Exports - Possessed items that were not found:

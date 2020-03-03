@@ -1,0 +1,132 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-24-to-1-29\Bliz 1-24 to 1-29\pkt_2017-1-27_1485550975_log.pcap
+
+Partial Exports - Missing appraisal info:
+849301BC:Pyreal
+8493367D:Ust
+848FFABB:Calling Stone
+8492FFFF:Foci of Artifice
+84933673:Prismatic Taper
+84933667:Lead Scarab
+849336B0:Handy Healing Kit
+849336A8:Letter From Home
+84933697:Blackmoor's Favor
+84933686:Facility Hub Portal Gem
+848BC5D2:Pathwarden Trinket
+8493369F:Baron's Amulet of Life Giving
+84933696:Treated Healing Kit
+84933685:Treated Healing Kit
+849336AF:Training Wand
+848BAB90:Scarlet Red Letter
+8493369E:Aphus Lassel Portal Gem
+8493367B:A Book of Quests for Young Explorers
+849336B7:Scarlet Red Letter
+84933671:Copper Scarab
+849336A6:Prismatic Taper
+84933695:Trade Note (100,000)
+84933684:Gem of Stillness
+849336C8:Trade Note (50,000)
+849301E3:Pyreal
+849336C0:Second Half of a Battered Spear
+848BAE35:Mana Philtre
+849301E2:Sublime Necklace of Acid and Piercing Protection
+849301E1:Minor Stinging Stone
+849336D0:Scratched Gear
+8493369D:Alb'arean Ore
+8493368C:Scarlet Red Letter
+8493367A:Trade Note (150,000)
+849336B6:Gem of Stillness
+84933670:Trade Note (100,000)
+849336A5:Lytelthorpe Town Stamp
+84933694:Minor Shivering Stone
+84933683:Minor Smoldering Stone
+848E70E8:Stone Tool
+849336C7:Jilsaya's Key
+849336BF:Al Arqas Town Stamp
+849336AD:Asheron's Raiment
+8493337C:A Tale of Paths
+8493337D:Amateur Explorer Yari
+84933380:Amateur Explorer Yari
+84933388:Greater Mana Kit
+84933381:Encapsulated Spirit
+84933383:Major Shivering Stone
+84933384:Major Smoldering Stone
+84933385:Amateur Explorer Nekode
+84933389:Greater Mana Kit
+8493368B:Library Key
+849336CF:Amateur Explorer Nekode
+8493369C:Facility Hub Portal Gem
+849336A4:Key
+84933679:Samsur Town Stamp
+849336B5:Facility Hub Portal Gem
+84933682:Nanto Town Stamp
+848BDA31:Health Tonic
+849336C6:Pack
+849336BE:Scarlet Red Letter
+849336AC:Stamped Nanto Scarlet Red Letter
+84933693:Acid Elemental Essence (100)
+84CEF0A1:Pyreal
+8493368E:Mace of the Explorer
+84933672:Journal of Frest Greelving
+8493368D:Torgluuk's Orders
+849336A7:Letter to Bretself the Translator
+8493367C:Ruminations on Portal Creation
+849336B8:Trothyr's Rest Rumor
+849336AE:A Tale of Paths
+849336E9:Pack
+848FFE2A:Trothyr's Rest Key
+849336CE:Pack
+8493369B:Greater Mana Kit
+8493368A:Pack
+8493322A:A Bracelet of Piercing Protection
+849336B4:A Ring of Acid Protection
+849336F3:Dansha-Ki's Ring
+84933678:Mi Krau-Li's Jitte
+8493353A:A Ring of Acid Protection
+84933681:Door Key
+849336A3:Dansha-Ki's Gem of Portal Recall
+849336FB:Dagger of Tikola
+8493371B:Grand Casino Key
+849336C5:Dull Dagger
+849336BD:Lilitha's Bow
+84C78500:Pyreal
+849336AB:Sawato Bandit's Mask
+84933689:Oil of Rendering
+84933692:Trothyr's Shield
+8493370B:Amateur Explorer Bastone
+849336E8:Enhanced Soul Staff
+849336CD:Door Key
+8493369A:Major Smoldering Atlan Axe
+84933713:Candeth Keep Blueprints
+849336A2:Viamontian Reconnaissance
+849336F2:Major Smoldering Atlan Axe
+84933691:Dispatch to Captain Aurachon
+849336FA:Inner Sea Directive
+849336C4:Circlet of Shielding
+849336BC:Protective Drudge Charm
+84933722:Repugnant Eater Ripper Plaque
+849336A1:Lesser Stamina Kit
+849336A9:Amateur Explorer Bastone
+849336F9:Trade Note (250,000)
+849336E6:Stipend
+849336CC:Chiran Helm
+849336E7:Prismatic Amuli Coat
+8493370A:Chainmail Gauntlets
+84933702:Nariyid Sleeves
+8493371A:Nariyid Girth
+84933724:Celdon Leggings
+84933699:Prismatic Amuli Leggings
+849336AA:Sollerets of Grace
+84CF6381:Asheron's Supreme Raiment
+849336B3:Mace of Winter Flame
+84933723:Mace of Winter Flame
+85042176:Pack
+849336B2:Spinning Staff of Death
+84933712:Spinning Staff of Death
+849331CA:Champion's Demise
+849336C3:Jitte of Law
+84933709:Defiler of Milantos
+849336BB:Jitte of Law
+849336CB:Elysa's Wondrous Orb
+
+Missing Exports - Possessed items that were not found:

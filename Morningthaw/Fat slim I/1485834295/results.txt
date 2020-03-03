@@ -1,0 +1,43 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-30_1485830831_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-15_1484523691_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-16_1484569720_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-30_1485830831_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-30_1485830831_log.pcap
+
+Partial Exports - Missing appraisal info:
+C5F84EC2:Upper Pipe Two
+C5F2D609:Upper Pipe One
+C5F84D89:Foci of Enchantment
+C5F1C96F:Foci of Verdancy
+C5ED3EA0:Foci of Artifice
+C5F84EE3:Upper Pipe Three
+C5F84EE1:Wrapped Bundle of Arrowheads
+C5C5647A:Excellent Healing Kit
+C5F41DFF:Excellent Healing Kit
+C5F2D4D3:Portal Chamber Key
+C5F40B08:Lead Scarab
+C5F06097:Silver Scarab
+C5F40A73:Prismatic Taper
+C5F84C51:Pyreal
+C5F2D404:Hollowed-Out Tree Trunk
+C5F41BEB:Copper Scarab
+C5EA75DF:Pants
+C5BB66C9:Shirt
+C5F41F6C:Brown Lump
+C5F407E4:Book
+C5F41DB1:Salvaged  (8)
+C5F6AEAA:Prismatic Taper
+C5F8E5EE:Wrapped Bundle of Arrowshafts
+C5F84F02:Wrapped Bundle of Blunt Arrowheads
+C5F84F23:Wrapped Bundle of Armor Piercing Arrowheads
+C5F2D9AC:Some Changes for February 2012
+C5F84F29:Blackmoor's Favor
+C5ED3CDE:Rock
+C6C27BAD:Great Mana Charge
+C6C27BB1:Great Mana Charge
+C6C27BB7:Great Mana Charge
+
+Missing Exports - Possessed items that were not found:

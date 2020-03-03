@@ -1,0 +1,169 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap4\pkt_2017-1-28_1485652941_log.pcap
+
+Partial Exports - Missing appraisal info:
+85FFE877:Sack
+8600850D:Shirt
+860084DA:Pyreal
+8600849D:Pack Drudge
+860084F6:Wide Breeches
+860084C7:Pack Drudge
+860084D1:Ust
+86008487:Pack Drudge
+8600847E:Calling Stone
+860084EF:Pack Drudge
+860084D2:Round Shield
+860084C8:Pack Drudge
+860084BC:Letter From Home
+860084AE:Pack Drudge
+860084C5:Blackmoor's Favor
+8600849C:Pack Drudge
+8600851D:Oil of Rendering
+860084C6:Pack Drudge
+86008527:Large Pine Tree
+860084AF:Pack Drudge
+860084A4:Pack Drudge
+860084E5:Pack
+8600852F:Pack Drudge
+8600850C:Great Mana Charge
+8600851F:Pack Drudge
+86008504:Sturdy Iron Key
+860084D5:Pack Drudge
+85FBFB6C:Sturdy Iron Key
+860084F1:Salvage
+860084EC:Salvage
+860084C4:Sturdy Iron Key
+860084C9:Salvage
+860084BA:Mid-Stakes Gambling Token
+860084E2:Low-Stakes Gambling Token
+86008536:Academy Coat
+860084E1:Facility Hub Portal Gem
+860084B0:Low-Stakes Gambling Token
+86008514:Scarlet Red Letter
+8600596E:Low-Stakes Gambling Token
+8600850B:Scarlet Red Letter
+85FD0EBE:Scarlet Red Letter
+860084F3:Scarlet Red Letter
+860084F4:Antiquated Compass
+86008627:Priceless Ore
+860084E9:Cave Penguin Cake
+860084C2:Licorice Rat
+8600850E:Thick Lugian Stew
+860084D3:Treated Healing Kit
+8600851B:Key
+86008517:Pack
+8600854D:Ancient Falatacot Trinket
+86008512:Gem of Purity
+8600853D:Refreshing Water
+8600853E:Gem of Balance
+860084EA:Black Page of Salt and Ash
+86007DA5:Trade Note (50,000)
+860084FF:Hearty Lugian Loaf
+860084B9:Golden Gromnie
+860084CA:Potion of Black Fire
+860084FA:Gearknight
+8600852E:Gonjoku's Mana Infusion
+86008516:Treated Healing Kit
+860084D0:Tasty Pudding
+860084F9:Treated Healing Kit
+8600853C:Undead
+8600854F:Treated Healing Kit
+86008546:Dansha-Ki's Gem of Portal Recall
+860084C1:Treated Healing Kit
+86008532:Undead
+860084FD:Pristine Mana Shard
+86008507:Scarecrow
+86008580:Golden Gromnie
+86008542:Treated Healing Kit
+86008534:Treated Healing Kit
+86008526:Pack
+860084EB:Treated Healing Kit
+8600850F:Banderling
+86008558:Treated Healing Kit
+86008539:Remoran
+86008501:Treated Healing Kit
+86008544:Facility Hub Portal Gem
+860081E2:Key
+86008505:Key
+85F9E124:Key
+85FCF06A:Key
+86008588:Key
+86008568:Personal note
+86008554:Piece of parchment
+86008515:Swamp Stone
+860084F2:Scroll of Web of Deflection
+86005122:Aura of Mystic's Blessing
+8600852C:Top
+8600851A:Ancient Empyrean Trinket
+86001598:Academy Spadone
+86008550:Great Pumpkin
+8600851E:Gladiator Diemos Statue
+86008541:Flaming Battle Axe
+86008574:Bunny Slippers
+86008590:Pack
+86008570:Sturdy Steel Key
+8600855D:Studded Leather Bracers
+860084FE:Pyreal Sliver
+86008566:Glyph of Coordination
+86008513:Glyph of Slashing
+8600853F:Glyph of Quickness
+86008533:Glyph of Endurance
+8600855F:Glyph of Arcane Lore
+85FF0A48:Glyph of Item Tinkering
+86008537:Salvage (100)
+86008576:Salvage (100)
+8600857E:Sack
+86008553:Salvage (100)
+860084F8:Salvage (100)
+8600855C:Belt Pouch
+860084FB:Salvage (100)
+86008518:Glyph of Magic Defense
+86008510:Salvage (100)
+8600856E:Salvage (100)
+86008529:Quarter Staff of Fire
+86008524:Salvage (100)
+86008547:Salvage (100)
+8600852A:Acid Axe
+860084FC:Salvage (100)
+8600569D:Ornate Nekode
+86008545:Hammer of Lightning 
+8600850A:Silver Atlatl
+86008503:Fiery Shield
+8600851C:Elysa's Band
+8600854C:Ancient Arbalest
+86008577:Trothyr's War Hammer
+86008552:Elysa's Pendant
+8600852B:Trothyr's Shield
+8600854E:Axe Head Helm
+8600857D:Superior Helmet
+85FBE522:Dull Dagger
+8600854B:Tibri's Fire Spear
+86008522:Ice Tachi
+86008578:Green Mire Yari
+86008508:Platemail Hauberk of the Ogre
+8600857F:Baron's Amulet of Life Giving
+86008557:Ruschk Hunter Leggings
+86008587:Virindi Shard
+86008502:Green Mire Yoroi Cuirass
+8600855B:Branith's Staff
+86008531:Crown of Bone
+86008519:Tetsubo Slugger
+8600858D:Heavy Bracelet
+8600857C:Haebrean Breastplate
+86008500:Lorica Breastplate
+8600858F:Sedgemail Leather Pants
+85FC0102:Celdon Sleeves
+86008538:Olthoi Pauldrons
+8600856F:Olthoi Celdon Sleeves
+8600856A:Olthoi Celdon Girth
+86008584:Sedgemail Leather Pants
+86006D32:Sedgemail Leather Pants
+86008571:Chiran Leggings
+86008582:Haebrean Breastplate
+86008355:Celdon Sleeves
+86008528:Knorr Academy Girth
+86008214:Platemail Breastplate
+85FCD718:Olthoi Celdon Leggings
+8600854A:Lorica Leggings
+
+Missing Exports - Possessed items that were not found:

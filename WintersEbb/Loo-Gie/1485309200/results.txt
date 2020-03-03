@@ -1,0 +1,19 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\pkt_2017-1-24_1485307942_log\pkt_2017-1-24_1485307942_log.pcap
+
+Partial Exports - Missing appraisal info:
+A57A6CAA:Pyreal
+A57A6CA6:Cloth Cap
+A57A6CA7:Tunic
+A57A6CA9:Shoes
+A57A6CA8:Trousers
+A57A6CAB:Sack
+A57A6CAD:Calling Stone
+A57A6CAE:Pathwarden Token
+A57A6CAF:Training Wand
+A57A6CB0:Foci of Verdancy
+A57A6CB1:Foci of Shadow
+A57A6CB2:Prismatic Taper
+A580DF6E:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

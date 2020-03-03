@@ -1,0 +1,8 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-26_1485492366_\pkt_2017-1-26_1485492366_log.pcap
+
+Partial Exports - Missing appraisal info:
+ABBC7732:Some Changes for February 2012
+ABBA044B:Pack Ancient Olthoi Queen
+
+Missing Exports - Possessed items that were not found:

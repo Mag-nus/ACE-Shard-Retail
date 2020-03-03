@@ -1,0 +1,75 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-05-2017\AC_Logs_Leafcull_Dark_Noble_SimonF\pkt_2017-1-22_1485139792_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-05-2017\AC_Logs_Leafcull_Dark_Noble_SimonF\pkt_2017-1-20_1484948923_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\AC_Logs_Leafcull_Dark_Noble_SimonF\pkt_2017-1-20_1484951342_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\AC_Logs_Leafcull_Dark_Noble_SimonF\pkt_2017-1-20_1484951342_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\AC_Logs_Leafcull_Dark_Noble_SimonF\pkt_2017-1-20_1484971976_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\AC_Logs_Leafcull_Dark_Noble_SimonF\pkt_2017-1-21_1485003054_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\AC_Logs_Leafcull_Dark_Noble_SimonF\pkt_2017-1-21_1485003652_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\AC_Logs_Leafcull_Dark_Noble_SimonF\pkt_2017-1-22_1485118961_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\AC_Logs_Leafcull_Dark_Noble_SimonF\pkt_2017-1-22_1485118961_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\AC_Logs_Leafcull_Dark_Noble_SimonF\pkt_2017-1-22_1485127060_log.pcap
+
+Partial Exports - Missing appraisal info:
+AE4F14A1:Pathwarden Trinket
+ADE4E09C:Virindi Mask
+AE46846E:Platemail Gauntlets
+AE53AC3E:Key
+AE505CF5:Great Mana Charge
+AE540EBD:Dark Speck
+AE5A6536:Sturdy Iron Key
+AE531C78:Blackmoor's Favor
+AE51965C:Inscribed Purple Gem
+AE32557C:Ust
+AE58B304:Pack
+AE58B453:Pack
+AE5772C3:Pack
+AE553BD1:Frost Nekode
+AE59EAFF:Trade Note (250,000)
+AE58ADA6:Pyreal
+AE5A7198:Trade Note (50,000)
+AE53D1FD:Trade Note (10,000)
+AE5A7196:Treated Healing Kit
+AE5A7197:Treated Healing Kit
+AE4FCC7D:Treated Healing Kit
+AE4E547A:Treated Healing Kit
+AE51C1B8:Treated Healing Kit
+AE5224AE:Treated Healing Kit
+AE4E1C82:Treated Healing Kit
+AE4CFA91:Treated Healing Kit
+AE491216:Stamina Elixir
+ADE8EA03:Treated Healing Kit
+AE6238C3:Stamina Tonic
+AE578610:Pack
+AE631355:Aphus Lassel Portal Gem
+AE67CC09:Aphus Lassel Portal Gem
+AE666EE7:Treated Healing Kit
+AE67CC3F:Aphus Lassel Portal Gem
+AE675DC0:Aphus Lassel Portal Gem
+AE6564B7:Treated Healing Kit
+AE675F1D:Aphus Lassel Portal Gem
+AE67CC7D:Aphus Lassel Portal Gem
+AE6366CB:Treated Healing Kit
+AE5F5265:A Bracelet of Piercing Protection
+AE5F4464:Trade Note (50,000)
+AE6565D2:Treated Healing Kit
+AE53E46A:Glittering Bracelet of Acid Protection
+AE5F5039:Trade Note (50,000)
+AE66C056:Treated Healing Kit
+AE64BE94:Ring of Piercing Protection
+AE64EFF1:Trade Note (10,000)
+AE66BDEF:Treated Healing Kit
+AE66BB43:A Ring of Acid Protection
+AE66BB44:Trade Note (50,000)
+AE6456C0:Treated Healing Kit
+AE6364AF:Treated Healing Kit
+AE68F2CD:Aphus Lassel Portal Gem
+AE67F3F5:Glittering Necklace of Acid and Piercing Protection
+AE67F3F6:Trade Note (75,000)
+AE67F3F7:Treated Healing Kit
+AE67F3F8:Treated Healing Kit
+AE67F3F9:Gem of Purity
+
+Missing Exports - Possessed items that were not found:

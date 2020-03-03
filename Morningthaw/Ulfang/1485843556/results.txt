@@ -1,0 +1,50 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\pkt_2017-1-30_1485843220_desc\pkt_2017-1-30_1485843426_log.pcap
+
+Partial Exports - Missing appraisal info:
+C6C6A189:Baggy Shirt
+C6C6A18A:Loose Breeches
+C6C6A18B:Hyssop
+C6C6A18E:Yew Talisman
+C6C6A18C:Powdered Amber
+C6C6A18D:Colcothar
+C6C6A18F:Lead Scarab
+C6C6A190:Wormwood
+C6C6A191:Powdered Onyx
+C6C6A192:Cobalt
+C6C6A193:Cedar Talisman
+C6C6A194:Ginseng
+C6C6A195:Saffron
+C6C6A196:Mugwort
+C6C6A197:Studded Leather Leggings
+C6C6A19C:Pink Taper
+C6C6A198:Studded Leather Boots
+C6C6A199:Studded Leather Breastplate
+C6C6A1A2:Fish
+C6C6A19A:Studded Leather Girth
+C6C6A19B:Round Shield
+C6C6A19D:Chainmail Coif
+C6C6A19E:Studded Leather Gauntlets
+C6C6A19F:Studded Leather Pauldrons
+C6C6A1A0:Arrow
+C6C6A1A1:Arrow
+C6C6A1A3:A Book of Quests for Young Explorers
+C6C6A1A4:Yanshi Information Guide
+C6C6A1A5:Arrow
+C6C6A1A6:Arrow
+C6C6A1A7:Adept Healing Kit
+C6C6A1A8:Sho Wand
+C6C6A1A9:Arrow
+C6C6A1AA:A Book of Quests for Young Explorers
+C6C6A1AB:Yaraq Information Guide
+C6C6A1AC:A Society Necklace Of Focus
+C6C6A1AD:Pyreal
+C6C6A1AE:Pyreal
+C6C6A1AF:Pyreal
+C6C6A1B1:Pack Asheron
+C6C6A1B0:Pack Scarecrow
+C6C6A1B2:Some Changes for February 2012
+C6C6A1B3:Blackmoor's Favor
+C6C6A1B4:Shouyumi
+
+Missing Exports - Possessed items that were not found:

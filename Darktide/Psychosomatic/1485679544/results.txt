@@ -1,0 +1,257 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\MrBoomBoom-01-22-2017-SeveralLegendaryQuests\pkt_2017-1-29_1485678114_log.pcap
+
+Partial Exports - Missing appraisal info:
+CBACB0CF:Ust
+CBC5FF56:Rock
+CBDB5E9B:Handy Healing Kit
+CB9DE28B:Black Ball
+CBB6DECD:Blackmoor's Favor
+CBB6DF1B:An Unlocked Large Mnemosyne
+CBB6DC59:An Unlocked Large Mnemosyne
+CBBAE4AA:An Unlocked Large Mnemosyne
+CBC24419:Prismatic Taper
+CBBA268B:An Unlocked Small Mnemosyne
+CBB6DEAB:Sack
+CBB6DE64:Shoyanen's Portal Gem
+CBB6DE94:Infected Assailer Fur
+CBDB598E:Drudge Fight
+CBDB5961:Ahruenga Portal Gem
+CBDB5A1F:Snowflower
+CBDB595C:Samsur Portal Gem
+CBDB598F:Shoushi Portal Gem
+CBDB55AE:Snowflower
+CBB6DFAD:Gold Hill Ruins
+CBDB5E9A:Lair of The Homunculus
+CBDF3801:Titan Mana Charge
+CBB6DC74:Mukkir Nest Portal Gem
+CBACB34E:Yanshi Portal Gem
+CBACAB46:Fadsahil's Portal Gem
+CBB6DDDE:Yanshi Portal Gem
+CBACC2B0:Redspire Portal Gem
+CB88C204:Infected Assailer Fur
+CBB6DE52:Warding Ring
+CBB6E10E:Unfinished Fetish of the Dark Idols
+C4570B2F:Infected Assailer Fur
+CBB6DDAE:Aetheria
+CBB6DEC2:Aetheria
+CBDB66D9:Aetheria
+CBAAE687:Aetheria
+CBB6E0CF:Aetheria
+CB9C339B:Aetheria
+CBB6DDDC:Excellent Healing Kit
+D50FE831:Niffis Fighting Pits
+CBAC7C1E:Pack
+CBBA7CDB:Intricate Carving Tool
+CBB6E0D7:Intricate Carving Tool
+CBAAE5A5:Lightning Flamberge
+CBACB015:Lightning Tachi
+CBC69729:Worn Old Sword
+CBB6DDD9:Lightning Tachi
+CBAE00BA:Minalim Plant
+CBB6DD25:Colban Plant
+CBC4AC83:Verdalim Plant
+CBA56905:Thananim Plant
+CBA630C6:Argenory Plant
+CBB6DC86:Berimphur Plant
+CBB6DE7A:Vial of Hennacin Dye
+CB9A467C:Lapyan Plant
+CBACB720:Relanim Plant
+CBD21860:Isparian Weapons Modifying Tool
+CBD1F8E0:Pyreal Medal of Vigor
+CBB6DD70:Hennacin Plant
+CBAC9EBA:Pyreal Medal of Intellect
+9C5A3F27:Minalim Plant
+CBB6DE06:Lightning Scimitar
+CBB6CDAC:Reinforced Falcon Banner with Crest
+CBB6DDB0:Sack
+CBB6DD52:Braided Drudge Ravener Guts
+CBB6D9B7:Orange Monster Seed
+CBB6E20D:Yellow Monster Seed
+CBACB101:Red Monster Seed
+CB9C9B57:Major Stinging Stone
+CBB6DE88:Major Shivering Stone
+CBB6DF17:Major Sparking Stone
+CBB5C01B:Major Smoldering Stone
+CBB6E078:Yellow Monster Seed
+CBB6DE59:Red Monster Seed
+CBB6E071:Right Peg Leg
+CBB6DE49:Left Peg Leg
+CBB6D53F:Strange Stick
+CBB6DE80:Red Monster Seed
+CBB6DF84:Brown Lump
+CD957D7A:Red Monster Seed
+CCBEF297:Brown Lump
+CBDF37FE:Orange Monster Sprout
+D03F647C:Yellow Monster Seed
+9E4455E7:Orange Monster Seed
+9D639D8F:Brown Beans
+CBB6DDD1:Pack
+CBAADBD5:Crystal Fragment
+CBB6CD71:Perfect Diamond Infused Pyreal Ingot
+CBDB672A:Perfect Diamond Infused Pyreal Ingot
+CBA56934:Pyreal Bar
+CBB6DE54:Pyreal Bar
+CBB6E103:Pyreal Bar
+CBB6DFB2:Crystal Fragment
+CBC77F59:Small Shard
+CBA62ED3:Pyreal Bar
+CBB6E05C:Pyreal Bar
+CB9C982A:Pyreal Bar
+CBACB7DB:Pyreal Bar
+CBDB597F:Pyreal Bar
+CBDB5990:Pyreal Bar
+CCBEEA12:Pyreal Bar
+CD933337:Pyreal Bar
+CFC64402:Shadow Fragment
+D019379D:Shadow Fragment
+CD588D01:Pyreal Bar
+CECAC915:Pyreal Bar
+D160F8A2:Pyreal Bar
+CBB6E056:Aphus Sun Guard
+CB0A3E61:Aphus Wading Pants
+CBA62EF2:Pack
+CBA626D8:Aphus Lounging Shirt
+CBBB1A0D:Silken Wrap
+CBDB66D8:Polar Ursuin Lair
+CBB6CF97:Frost Bow
+CBB6DED0:Electric Compound Bow
+CBB6DFD5:Slashing Compound Bow
+CBB6DE68:Blunt Compound Bow
+CBACC47A:Shortbow
+CBB6E084:Fire Bow
+CBACC6C3:Phantom Bow
+CBB6DF70:Frost Compound Bow
+CBB6DFCD:Blunt Bow
+CBA8DDEA:Olthoi Helm
+CBA626CF:Princely Runed War Bow
+CBB6DE86:Fire Compound Bow
+CBA6369F:Shoushi Town Stamp
+C369C024:Piercing Compound Bow
+CC1A12A0:Frost Compound Bow
+A5373D67:Piercing Bow
+A549D099:Fire Compound Bow
+CCADB013:Acid Compound Bow
+CCB9C0B1:Slashing Compound Bow
+CCC7D9E6:Slashing Compound Bow
+CD1E8A27:Piercing Slingshot
+CCAF1BD6:Electric Compound Crossbow
+A53731E0:Fire Bow
+AD651522:Slashing Bow
+C369842B:Acid Atlatl
+CCC09BA8:Frost Bow
+CBBBF8C5:Acid Broad Sword
+CBB6E12D:Swamp Lord's War Paint
+CBAE07AD:Wrapped Bundle of Deadly Arrowheads
+CBB6DF13:Greater Olthoi Shield
+CBB6DF28:Pants
+CBB6DDF7:Signet Crown
+CBBAE53A:Sprouting Pumpkin Vine
+CBB6D031:Doublet
+CBB6E001:Mukkir Mask
+CBB6DE5C:Chorizite Fletching Tool
+CBAE048C:Casting Stein
+CBD67AA8:Moderate Item Tinkering Armature
+CBB6DE74:Dark Sorcerer's Phylactery
+CBB6DE6D:Crystalline Shard
+CBB6DFE6:Blue Burning Mushroom
+CBC24AD1:Blood Shreth Butcher Plaque
+CBDB5A21:Pack
+CBBAD421:Ring
+CBB6DF66:Amulet
+CBBB1E36:Heavy Bracelet
+CBB6E1E0:Frost Dericost Blade
+CBAC4EDB:Bronze Gearknight Gear
+CBACC894:Black Coral Keyring
+CBB6CD7D:Black Coral Keyring
+CBDB66DB:Black Coral Keyring
+CBB6E2DB:Black Coral Keyring
+CBBCDE74:Black Coral Keyring
+CBAE0130:Holtburg Town Stamp
+CF3CF727:Mana Forge Key
+CBB6E016:Ancient Armored Gauntlets
+CBB6E0E2:Ancient Armored Vestment
+CBB6DFBB:Ancient Armored Bracers
+CBB6DFE1:Ancient Armored Bracers
+CBA568B2:Fine Spine Axe
+CBBAD2A9:Deadly Hollow Sword
+CBAE02C7:Acid Kaskara
+CBB6DDEA:Frost Ken
+CBAE0498:Olthoi Celdon Breastplate
+CBB6DFE2:Diforsa Cuirass
+CB798EE3:Amuli Leggings
+CBB6E091:Platemail Vambraces
+CBACAC43:Horned Helm
+CBB6E20E:Aetheria
+CBC54AFA:Flaming Tachi
+CBACB1B7:Large Round Shield
+CBAC3A48:Some Changes for February 2012
+CBB00B6C:Pack
+CBB6E04D:Bow Stamped Spectral Ingot
+CBA56FAC:Bow Stamped Spectral Ingot
+CBA6315C:Dagger Stamped Spectral Ingot
+CBB6E15F:Sword Stamped Spectral Ingot
+CBDF3846:The Eye of Drageerg
+CBDCB0A8:Jade Gromnie Tooth
+CBDCACDF:Jade Gromnie Tooth
+CBDF37F4:Gold Golem Heart
+CBDF37EF:Energy Crystal
+CBDF37F1:Hollow Minion Mask
+CBDF37F2:Zombie Mask
+CBDF37F3:Quintessence Sickle
+CBDF37F9:Slippers
+CBDF37F0:Olthoi Helm
+CBDF37FD:Scarecrow Arm 
+CD64205C:Red Jewel
+CD91D031:Yellow Jewel
+CD7C869B:Yellow Jewel
+CD937939:Red Jewel
+CD920E45:Red Jewel
+CD607A0C:Lightning Claw
+CD5E73D1:Ring
+CD5E73AE:Frost Greataxe
+CCEF0D3B:Chiran Gauntlets
+CD262203:Acid Nekode
+A56685C4:Electric Board with Nail
+CD4E2AAB:Acid Tungi
+A537573A:Lightning Mace
+CCC04957:Spine Glaive
+CD399C3D:Gorget
+CD43B438:Ring
+CD43B45E:Heavy Bracelet
+CC22E4CA:Hatchet
+CC2FECC7:Claw
+CD59656C:Acid Knife
+CCF8F09F:Mechanical Scarab
+CCF8F68A:Leather Gauntlets
+CCEEFE12:Lorica Gauntlets
+CCB9081A:Frost Jo
+CBB6DC49:Diamond Shield
+CD42FA3F:Hand Wraps
+CCB709DB:Ring
+CD6079F2:Ring
+CCC1CE02:Goggles
+CCAE0F35:Baggy Breeches
+C3697B73:Acid Hand Wraps
+CCDAF6DE:Dirk
+CD42FAB1:Piercing Baton
+CD680DB4:Rapier
+CD920655:Amuli Leggings
+CD6919AB:Amuli Coat
+CD5AA9DC:Ring
+CD68836F:Heavy Bracelet
+CD681025:Hand Wraps
+CD680F34:Frost Greataxe
+C006ECBC:Platemail Breastplate
+CD7E285E:Tipped Pack Cow
+CD61F04E:Studded Leather Tassets
+CD663E6A:Beret
+CD90922C:Amuli Leggings
+CBD67A8B:Electric Spiked Club
+CD646799:Long Sword
+9D638FEB:Elysa's Favor
+CBBACADF:Assault Orb
+CBB6DF9B:Olthoi Amuli Gauntlets
+CBB6DE3B:Chainmail Greaves
+
+Missing Exports - Possessed items that were not found:

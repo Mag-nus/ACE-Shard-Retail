@@ -1,0 +1,57 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (3634367907, 20993, 44, 6476097) /* CraftTool */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (3634367907,   1, 1073741824) /* ItemType - TinkeringMaterial */
+     , (3634367907,   5,        100) /* EncumbranceVal */
+     , (3634367907,  11,          1) /* MaxStackSize */
+     , (3634367907,  12,          1) /* StackSize */
+     , (3634367907,  16,     524296) /* ItemUseable - SourceContainedTargetContained */
+     , (3634367907,  19,      64934) /* Value */
+     , (3634367907,  65,        101) /* Placement - Resting */
+     , (3634367907,  91,        100) /* MaxStructure */
+     , (3634367907,  92,        100) /* Structure */
+     , (3634367907,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (3634367907,  94,          6) /* TargetType - Vestements */
+     , (3634367907, 131,         64) /* MaterialType - Steel */
+     , (3634367907, 151,          9) /* HookType - Floor, Yard */
+     , (3634367907, 9015,         13) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (3634367907,   1, False) /* Stuck */
+     , (3634367907,  11, True ) /* IgnoreCollisions */
+     , (3634367907,  13, True ) /* Ethereal */
+     , (3634367907,  14, True ) /* GravityStatus */
+     , (3634367907,  19, True ) /* Attackable */
+     , (3634367907,  22, True ) /* Inscribable */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (3634367907, 8004, 6.93333339691162) /* PCAPRecordedWorkmanship */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (3634367907,   1, 'Salvaged  (100)') /* Name */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (3634367907,   1,   33554817) /* Setup */
+     , (3634367907,   3,  536870932) /* SoundTable */
+     , (3634367907,   6,   67111919) /* PaletteBase */
+     , (3634367907,   8,  100673219) /* Icon */
+     , (3634367907,  22,  872415275) /* PhysicsEffectTable */
+     , (3634367907,  50,  100673237) /* IconOverlay */
+     , (3634367907, 8001, 3509091352) /* PCAPRecordedWeenieHeader - Value, Usable, Structure, MaxStructure, StackSize, MaxStackSize, Container, TargetType, Burden, Workmanship, HookType, IconOverlay, MaterialType */
+     , (3634367907, 8003,         18) /* PCAPRecordedObjectDesc - Inscribable, Attackable */
+     , (3634367907, 8005,     137217) /* PCAPRecordedPhysicsDesc - CSetup, STable, PeTable, AnimationFrame */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (3634367907,   1, 1343250117) /* Owner */
+     , (3634367907,   2, 1343250117) /* Container */
+     , (3634367907, 8000, 3634367907) /* PCAPRecordedObjectIID */;
+
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
+VALUES (3634367907, 67111923, 0, 0);
+
+INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
+VALUES (3634367907, 0, 83890064, 83894153, 0);
+
+INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, `order`)
+VALUES (3634367907, 0, 16777882, 0);

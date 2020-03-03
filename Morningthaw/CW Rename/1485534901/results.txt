@@ -1,0 +1,94 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-27_1485531435_log.pcap
+
+Partial Exports - Missing appraisal info:
+C634125D:Prismatic Taper
+C633F9D4:Foci of Artifice
+C6306B2E:Pack
+C633F93E:Lead Scarab
+C631FD62:Copper Scarab
+C6345C5D:Pyreal Scarab
+C6345C8F:Silver Scarab
+C6345C7A:Pyreal
+C6345C82:Pack
+C6345C92:Ust
+C6345C90:Wrapped Bundle of Blunt Arrowheads
+C6341245:Heavy Bracelet
+C634128A:Granite Key
+C634127C:Nefane Shield
+C6345C93:Intricate Carving Tool
+C6345C79:Intricate Obsidian Key
+C6345C81:Mana Elixir
+C6341292:Granite Key
+C6345C78:Scroll of Hieromancer's Blessing
+C6345C80:Refined High-Grade Chorizite
+C63411D6:Refined Low-Grade Chorizite
+C6340FAE:Chunk of High-Grade Chorizite
+C6345C9A:Chunk of Low-Grade Chorizite
+C6341262:Bloodhunter Oil
+C6341295:Treated Healing Kit
+C6341230:Salvaged  (100)
+C634100A:Salvaged  (100)
+C6340205:Treated Healing Kit
+C6345C99:Pack
+C6345CAA:Pyreal Mote
+C6341276:Quintessence Sickle
+C6345C98:Reliable Lockpick
+C6345CA9:Salvaged  (100)
+C6345CB2:Salvaged  (100)
+C6345C97:Salvaged  (100)
+C6345CB1:A Ring of Acid Protection
+C6345C74:Alembic
+C6345CA8:Foci of Verdancy
+C6345C96:Ring
+C6345C76:Asheron's Benediction
+C6345C71:Blackmoor's Favor
+C6345C6F:Blackmoor's Favor
+C6345CA7:Mortar and Pestle
+C6345CB0:Verdalim Dye Pot
+C6345C8C:Eye Dropper
+C6345C95:Cooking Pot
+C63412CF:Argenory Dye Pot
+C6345CA6:Neutral Balm
+C63411F9:Verdalim Dye Pot
+C6345C8A:Vial of Minalim Dye
+C6345CAF:Vial of Berimphur Dye
+C6341286:Cooking Pot
+C6345C8D:Vial of Lapyan Dye
+C6345C94:Martine's Robe
+C6345CA4:Pyreal
+C6341305:Martine's Mask
+C6345C8E:Elemental Master Robe
+C633FE9A:Colban Plant
+C6345CAE:Berimphur Dye Pot
+C6345CA5:Chiran Coat
+C634126E:Pyreal
+C6345C89:Koujia Sleeves
+C6340F6C:Lapyan Plant
+C6345CB7:Relanim Plant
+C634125B:Berimphur Plant
+C634121C:Pyreal
+C6345CAD:Pyreal
+C6345CC1:Pyreal
+C6345CA3:Wrapped Bundle of Atlatl Dartshafts
+C633ED05:Academy Wand
+C6345CAC:Deadly Lightning Arrow
+C6341217:Purple Jewel
+C6345CC4:Cooking Pot
+C63412DF:Concentrated Bloodhunter Oil
+C63412B6:Concentrated Bloodhunter Oil
+C6341284:Wrapped Bundle of Deadly Armor Piercing Arrowheads
+C6345CAB:Greater Armor Piercing Atlatl Dart
+C6341278:Greater Armor Piercing Atlatl Dart
+C63412EC:Greater Armor Piercing Atlatl Dart
+C6345CC3:Greater Armor Piercing Atlatl Dart
+C6341272:Greater Armor Piercing Atlatl Dart
+C6345CC2:Yoroi Greaves
+C6341291:Cooking Pot
+C6345CB8:Cooking Pot
+C6345CB9:Chiran Helm
+C6345CBA:Chiran Leggings
+C6345CBC:Some Changes for February 2012
+C6345CBB:Chiran Coat
+
+Missing Exports - Possessed items that were not found:

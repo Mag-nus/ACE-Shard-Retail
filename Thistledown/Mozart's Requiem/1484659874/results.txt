@@ -1,0 +1,94 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\gdrive (tfarley)\ACMINING-20170120T073848Z\ACMINING\pkt_2017-1-17_1484659864_log.pcap
+
+Partial Exports - Missing appraisal info:
+88C11736:Pack
+88C11737:Diamond Scarab
+88C11738:Gold Scarab
+88C11739:Lead Scarab
+88C1173A:Silver Scarab
+88C1173C:Iron Scarab
+88C1173D:Ust
+88C1173E:Dark Sorcerer's Phylactery
+88C1173F:Stamina Elixir
+88C11740:Diamond Scarab
+88C11743:Imbue Swap Coin
+88C11744:Platinum Scarab
+88C11745:Pyreal Scarab
+88C11746:Broken Virindi Observer Mask
+88C11747:Some Changes for February 2012
+88C11748:Tear-Stained Parchment
+88D0E9A2:Copper Scarab
+9274111B:Prismatic Taper
+88C11741:Gold Scarab
+A5B52743:Prismatic Taper
+A620B2D0:Celdiseth's Portal Gem
+88C1174A:Pack
+A620B30D:Celdiseth's Portal Gem
+88C11756:Suikan Life Master Robe
+A65C30AA:Thorsten's Crystal
+88C11755:Suikan War Master Robe
+88C1174B:Shoushi Portal Gem
+88C1174C:Aphus Lassel Portal Gem
+88C1176D:Blighted Mana Crystal
+88C1174D:Shoyanen's Portal Gem
+88C1174E:The Healer's Heart
+A92CFDBD:Pyreal
+88C1174F:Suikan War Master Robe
+88C11750:Suikan War Master Robe
+88C11751:Suikan War Master Robe
+88C11752:Suikan War Master Robe
+88C11753:Suikan Life Master Robe
+88C11754:Suikan Life Master Robe
+88C11757:Potion of Healing
+88C11758:Chevron Cloak
+AB30E5FB:Dire Champion Token
+88C11759:Yellow Virindi Wand
+88C1175A:Blackmoor's Favor
+88C1175C:Silver Pea
+88C1175B:Enhanced Mana Elixir
+88C1175E:Virindi Directive Key
+88C11762:Foci of Strife
+88C1175F:Virindi Stamp
+AB28B642:Chef's Crystal
+AB30FB89:Major Mana Stone
+88C11760:Foci of Artifice
+88C11761:Foci of Verdancy
+88C11763:Foci of Enchantment
+88C11767:Banderling Antagonist Backpack
+88C11768:Antagonist Token
+88C1176E:Enhanced Health Elixir
+88C11770:Town Network Portal Gem
+88C11794:Staff
+9BC93718:Facility Hub Portal Gem
+AB3102AF:Major Mana Stone
+9C4DC799:Town Network Portal Gem
+9C4DC775:Town Network Portal Gem
+9D8025D8:Facility Hub Portal Gem
+A0BB640A:Celdiseth's Portal Gem
+A5B244C9:Celdiseth's Portal Gem
+9D30B52E:Town Network Portal Gem
+88C11773:Electric Sceptre
+A4DCAE2B:Piercing Baton
+A92CFC23:Writ of Refuge
+AB3254A6:Copper Pea
+AB4FF128:Stipend
+AB29AC7C:Virindi Singularity Key
+AB4F714A:A List of Items
+AB4F73AA:Refurbisher's Tally
+AB4F75DA:Agent of Arcanum List
+AB3203F6:Virindi Singularity Key
+AB3271A9:Ancient Empyrean Trinket
+AB32B7F7:Salvage (16)
+AB32C5E5:Gold Pea
+AB2E44FD:Ancient Falatacot Trinket
+AB312CD0:Gem of Knowledge
+AB312F29:Gem of Knowledge
+AB31335B:Salvage
+AB313386:Nariyid Gauntlets
+AB313674:Salvage
+A86CDBFC:Trade Note (250,000)
+AB313D01:Gem of Knowledge
+AB31428D:Salvage
+
+Missing Exports - Possessed items that were not found:

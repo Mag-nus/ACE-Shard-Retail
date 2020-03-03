@@ -1,0 +1,152 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-31_1485860015_log.pcap
+
+Partial Exports - Missing appraisal info:
+C7BB71A4:Composite Bow with Exquisite Handle
+A75729DC:Blackmoor's Favor
+A75729DE:Ust
+A75729DD:Calling Stone
+B09610B3:Princely Runed Flamberge
+B09610B1:Princely Runed Dolabra
+A7572A3F:Royal Runed Poniard
+A7572A0F:Royal Runed Arbalest
+A7572A02:Soul Staff
+A75729F5:Crystal Sword
+A75729F6:Crystal Sword
+A75729F7:Sanguinary Aegis
+A75729F8:Raven Aegis
+A75729F9:Doppelganger Shield
+A75729FA:Gear Shield
+A75729FB:Diamond Shield
+A75729FC:Diamond Shield
+A75729FD:Diamond Shield
+A75729FE:Diamond Shield
+A75729FF:Diamond Shield
+A7572A00:Mace of the Fallen
+A7572A01:Assault Mace
+A7572A03:Soul Staff
+A7572A04:Weeping Axe
+A7572A05:Hammer of the Fallen
+A7572A06:Hammer of the Fallen
+A7572A07:Lugian Hammer
+A7572A08:Banished Axe
+A7572A09:Basalt Blade
+A7572A0B:Replica Sword of Bellenesse
+A7572A0C:Replica Sword of Bellenesse
+A7572A0D:Eyeslayer (Giant)
+A7572A0E:Quarter Staff of Fire
+A7572A10:Worn Old Axe
+A7572A11:Hammer of Frore
+A7572A12:Ishaq's Mace
+A7572A14:Tibri's Fire Spear
+A7572A21:Eye of the Fallen
+A7572A16:Orb of Splendor
+8009F041:Orb of the Bunny Booty
+AFC7AE92:Enhanced Assault Orb
+AD6A50BB:Enhanced Assault Orb
+C786EE96:Mana-infused Acid War Staff of Aerfalle
+B39A38E2:Focusing Stone
+A7572A23:Royal Runed Dart Flinger
+A7572A24:Royal Runed Mazule
+A7572A25:Royal Runed Mazule
+A7572A26:Princely Runed Mazule
+A7572A27:Royal Runed Mazule
+A7572A28:Royal Runed Dart Flinger
+A7572A29:Princely Runed Bastone
+A7572A2A:Princely Runed Mazule
+A7572A2B:Princely Runed War Bow
+A7572A2C:Princely Runed Dolabra
+A7572A2D:Princely Runed Poniard
+A7572A2E:Royal Runed Flamberge
+A7572A2F:Princely Runed Bastone
+A7572A30:Princely Runed Knuckles
+A7572A32:Princely Runed Slashing Baton
+A7572A33:Princely Runed Arbalest
+A7572A34:Princely Runed Arbalest
+A7572A35:Royal Runed Dolabra
+A7572A36:Princely Runed Flamberge
+A7572A3C:Doppelganger Shield
+A7572A37:Princely Runed Poniard
+A7572A38:Princely Runed Knuckles
+AD6A50B2:Princely Runed War Bow
+A7572A39:Princely Runed Arbalest
+A7572A3A:Princely Runed Arbalest
+808077B5:Raven Aegis
+A7572A3D:Shield of Truth
+C7154099:Superior Shield
+808077AF:Aegis of the Gold Gear
+808077EB:Shield of the Gold Gear
+808077EE:Gear Shield
+AFC9B11C:Shield of Perfect Light
+A7572A41:Quintessence Sickle
+A7572A42:Crescent Moons
+A7572A43:Crescent Moons
+A7572A44:Crescent Moons
+A7572A45:Claw Stamped Spectral Ingot
+9804E0F9:Crescent Moons
+A7572A0A:Crescent Moons
+9804E124:Crescent Moons
+A7572A46:Frozen Weeping Claw
+A7572A47:Acidic Weeping Claw
+A7572A48:Weeping Crossbow
+A7572A49:Weeping Bow
+A7572A51:Frozen Weeping Dagger
+A7572A54:First Half of a Worn Sword
+A7572A55:First Half of a Battered Staff
+A7572A56:Bone Dagger
+A7572A57:Bone Dagger
+A7572A5B:Shadowfire Isparian Mace
+A7572A62:Frozen Weeping Sword
+8009F11F:Frozen Weeping Dagger
+8009F121:Superior Sparking Atlan Dagger
+808077ED:Weeping Claw
+808077E2:Weeping Claw
+808077E3:Weeping Mace
+808077E8:Weeping Mace
+99225EFB:Bronze Short Sword
+808077E9:Peerless Sparking Atlan Claw
+80AB5E8A:Bow of the Fallen
+AFCA1F8B:Sanguinary Aegis
+BB531937:Second Half of a Battered Bow
+800DBDB5:Phantom Dagger
+800DBDC9:Weeping Wand
+A7572A5C:Bone Crossbow
+8080785F:Deadly Hollow Sword
+AFC9B119:Shield of Isin Dule
+AD6A509C:Banished Blade
+AD6A5094:Caliginous Aegis
+8009F0E3:Weeping Axe
+B08876D3:Assault Cestus
+B0916DF1:Fist of the Quiddity
+B0F53024:Crystal Sword
+8009F0E2:Sanguinary Aegis
+B078C876:Gear Shield
+C23994A9:Crystal Sword
+C32C7E42:Crystal Sword
+C785CEC8:Reforged Ashbane
+B48D23F2:Reforged Ashbane
+C786EE98:Reforged Ashbane
+A7572A3E:Diamond Shield
+8224B52E:Ultimate Singularity Sword
+8009F15E:Deadly Hollow Staff
+A7572A13:Sword of Lost Light
+C889C0AA:First Half of a Battered Dagger
+C889D29D:First Half of a Worn Atlatl
+C88BBAA8:Second Half of a Worn Spear
+C866EAFA:First Half of a Worn Cestus
+C88BBD40:Second Half of a Worn Dagger
+C866F36D:Diamond Shield
+C8E528D2:Staff of the Fallen
+CB9FBC85:Worn Old Crossbow
+CA46B74D:Ebon Spine Harpoon
+A7572A53:Second Half of a Battered Bow
+A7572A52:First Half of a Worn Bow
+8009F104:Ancient Arbalest
+C900AA29:Sublime Elari Wood Bow
+80807803:Weeping Wand
+A7572A5A:Fire Compound Bow
+80807836:Phantom Sword
+80807825:Spear of Winter Flame
+808077E6:Isparian Staff
+
+Missing Exports - Possessed items that were not found:

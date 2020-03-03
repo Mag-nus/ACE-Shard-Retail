@@ -1,0 +1,22 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Random_Logs\pkt_2017-1-25_1485403942_log.pcap
+
+Partial Exports - Missing appraisal info:
+DCB93228:Pyreal
+DCB93225:Smock
+DCB93226:Baggy Pants
+DCB93229:Sack
+DCB93227:Slippers
+DCB9322A:Ust
+DCB9322B:Calling Stone
+DCB9322C:Pathwarden Token
+DCB9322D:Training Wand
+DCB9322E:Foci of Strife
+DCB9322F:Foci of Verdancy
+DCB93230:Prismatic Taper
+DCB93231:Lead Scarab
+DCB93232:Letter From Home
+DCB93233:Bread
+DCBE00FD:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,143 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-29_1485718290_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-27_1485539328_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-28_1485614827_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-29_1485718290_log.pcap
+
+Partial Exports - Missing appraisal info:
+CC002056:Sack
+CC002057:Blackmoor's Favor
+CC002058:Calling Stone
+CC002059:Bread
+CC00205A:Facility Hub Portal Gem
+CC00205D:Letter From Home
+CC00205B:Oil of Rendering
+CC00205C:Oil of Rendering
+CC00205E:Prismatic Taper
+CC00205F:Lead Scarab
+CC002060:Ust
+CC002061:Training Wand
+CC002062:Sturdy Iron Key
+CC002063:Massive Mana Charge
+CC002064:Massive Mana Charge
+CC002065:Massive Mana Charge
+CC002066:Massive Mana Charge
+CC002067:Massive Mana Charge
+CC002068:Massive Mana Charge
+CC002069:Massive Mana Charge
+CC00206A:Massive Mana Charge
+CC00206B:Massive Mana Charge
+CC00206C:Massive Mana Charge
+CC00206D:Massive Mana Charge
+CC00206E:Foci of Strife
+CC00206F:Signet Crown
+CC0020A3:Massive Mana Charge
+CC0020A4:Massive Mana Charge
+CC0020A5:Massive Mana Charge
+CC0020A6:Massive Mana Charge
+CC0020A7:Massive Mana Charge
+CC0020A8:Massive Mana Charge
+CC0020A9:Massive Mana Charge
+CC0020AA:Massive Mana Charge
+CC0020AB:Massive Mana Charge
+CC0020AC:Massive Mana Charge
+CC0020AD:Massive Mana Charge
+CC0020AE:Massive Mana Charge
+CC0020AF:Massive Mana Charge
+CC0020B0:Massive Mana Charge
+CC0020B1:Massive Mana Charge
+CC0020B2:Massive Mana Charge
+CC0020B3:Massive Mana Charge
+CC0020B4:Massive Mana Charge
+CC0020B5:Massive Mana Charge
+CC0020B6:Massive Mana Charge
+CC0020B7:Massive Mana Charge
+CC0020B8:Massive Mana Charge
+CC0020B9:Massive Mana Charge
+CC0020BA:Massive Mana Charge
+CC0020BC:Ring
+CC0020BD:Noble Relic Gauntlets of Strength
+CC0020BE:Ring
+CC0020BF:Relic Alduressa Gauntlets
+CC0020C0:Pathwarden Trinket
+CC0020C1:Top
+CC0020C2:Bracelet
+CC0020C3:Relic Alduressa Sollerets
+CC0020C4:Relic Alduressa Helm
+CC0020C5:Relic Alduressa Gauntlets
+CC0020C6:Relic Alduressa Coat
+CC0020C7:Olthoi Koujia Sollerets
+CC0020C8:Aetheria
+CC0020D4:Massive Mana Charge
+CC0020C9:Aetheria
+CC0020CA:Aetheria
+CC0020CB:Alduressa Helm
+CC0020CD:Salvage (100)
+CC0020CE:Salvage (100)
+CC0020CF:Salvage (100)
+CC0020D0:Salvage (100)
+CC0020D5:Massive Mana Charge
+CC0020D1:Salvage (100)
+CC0020D2:Salvage (100)
+CC0020D6:Massive Mana Charge
+CC0020D7:Massive Mana Charge
+CC0020D8:Massive Mana Charge
+CC0020D9:Massive Mana Charge
+CC0020EF:Cloth Gloves
+CC0020F0:Massive Mana Charge
+CC0020F1:Massive Mana Charge
+CC0020F2:Massive Mana Charge
+CC0020F3:Massive Mana Charge
+CC0020F4:Quill of Introspection
+CC0020F5:Massive Mana Charge
+CC0020F6:Massive Mana Charge
+CC0020F7:Quill of Infliction
+CC0020F8:Massive Mana Charge
+CC0020F9:Massive Mana Charge
+CC0020FA:Massive Mana Charge
+CC0020FB:Massive Mana Charge
+CC0020FC:Massive Mana Charge
+CC0020FD:Massive Mana Charge
+CC0020FE:Massive Mana Charge
+CC0020FF:Massive Mana Charge
+CC002100:Iron Pea
+CC002101:Glyph of Mana Conversion
+CC002102:Glyph of Stamina
+CC002103:Glyph of Regeneration
+CC002104:Ink of Conveyance
+CC002105:Ink of Formation
+CC002106:Ink of Direction
+CC002108:Cloth Gloves
+CC002107:Rogue's Crystal
+CC002109:Moons Stamp
+CC00210A:Crown
+CC00210B:Inscription of Leadership Ineptitude Other
+CC00210C:Tenets of the Radiant Blood
+CC00210D:Crown
+CC00210F:Coronet
+CC002112:Signet Crown
+CC002113:Signet Crown
+CC002114:Circlet
+CC002119:Radiant Blood Initiate's Handbook
+CC00211A:Magus's Pearl
+CC00211C:Smithy's Crystal
+CC00211D:Doublet
+CC00211E:Orb
+CC00211F:Cloth Gloves
+CC002120:Slippers
+CC002122:Loafers
+CC002123:Shoes
+CC002124:Orb
+CC002125:Ring
+CC002126:Kasa
+CC00212A:Coronet
+CC002127:Crown
+CC002128:Crown
+CC00212B:Diadem
+CC00212C:Sceptre
+CC002133:Quill of Benevolence
+CC002134:Staff
+
+Missing Exports - Possessed items that were not found:

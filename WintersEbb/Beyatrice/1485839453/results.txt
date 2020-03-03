@@ -1,0 +1,102 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485839402_log.pcap
+
+Partial Exports - Missing appraisal info:
+915A4C46:Baggy Tunic
+915A4C48:Shoes
+915A4C49:Pyreal
+915A4C4A:Sack
+915A4C4B:Lead Scarab
+915A4C4C:Prismatic Taper
+915A4C4D:Handy Healing Kit
+915A4C50:Teleportation Device
+915A4C51:Blackmoor's Favor
+915A4C52:Ust
+833F780A:Lyceum Hood
+833F7818:Golden Key
+833F77E6:Le-Ai Rea's Key
+833F7833:Coronet
+833F780B:Rock
+833F7930:Olthoi Amuli Gauntlets
+833F7820:Olthoi Amuli Leggings
+833F77CE:Olthoi Tassets
+833F7809:Olthoi Helm
+833F7802:Olthoi Celdon Leggings
+915A4C56:Belt Pouch
+833F7832:Amuli Coat
+833F7808:Amuli Leggings
+833F77FB:Shoes
+833F77E3:Fire Spine Glaive
+833F781D:Frost Sabra
+833F781F:Morning Star
+915A4C60:Holiday Hearth
+915A4C53:Foci of Artifice
+915A4C58:Studded Leather Boots
+915A4C61:Fireworks
+915A4C59:Lyceum Hood
+915A4C5A:Shou-jen Shozoku Jacket
+915A4C62:Holiday Feast
+915A4C5B:Shou-jen Shozoku Sleeve Gauntlets
+915A4C5C:Wide Breeches
+915A4C5D:Lorica Leggings
+915A4C5E:Lightning Long Sword
+915A4C66:Fireworks
+915A4C5F:Frost Knuckles
+915A4C63:Zombie Butler
+915A4C64:Zombie Butler
+915A4C65:Huge Snowball
+915A4C67:Intricate Carving Tool
+915A4C68:Olthoi Koujia Gauntlets
+833F75B4:Banished Mace
+915A4C69:Lace Shirt
+915A4C6A:Celdon Sleeves
+915A4C6B:Chainmail Breastplate
+915A4C6C:Platemail Sleeves
+915A4C6D:Celestial Hand Sollerets
+915A4C6E:Mask of the Depths
+833F7801:Pack Bael'Zharon
+833F789D:Abominable Pack Snowman
+833F77D3:Pack Asheron
+833F77C8:Pack Dark Remoran
+833F763B:Pack Gaerlan
+833F763E:Fertilized Pitcher Plant
+833F77DB:Tipped Pack Cow
+833F7792:Rare Red Pack Idol
+833F77BF:Fertilized Fly Trap
+833F7810:Ancient Diamond Idol
+833F7871:Pack Scold
+833F780F:Pack Ancient Olthoi Queen
+833F7842:Pack Levistras
+833F77CB:Pack Grael
+833F77DC:Pack
+833F77A2:Ring
+833F77D9:Tower Shield
+833F77E8:Necklace
+833F77CF:Knorr Academy Breastplate
+833F77EE:Scalemail Leggings
+833F77C7:Ring
+833F77E7:Puzzle Box
+833F77BE:Ring
+833F7803:Heavy Bracelet
+833F77D8:Slippers
+833F77FC:Ring
+833F77C5:Puzzle Box
+833F763F:Heavy Bracelet
+833F6F38:Lightning Morning Star
+833F77CD:Tofun
+833F7831:Dabus
+833F75A2:Frost Morning Star
+833F75AC:Flaming Flanged Mace
+833F75BF:Lancet
+833F7817:Homecoming Pennant
+833F77FA:Acid Nekode
+833F7853:Long Sword
+833F7828:Frost Long Sword
+833F77EB:Frost Trident
+833F77AA:Diamond Shield
+929AA7F0:Celdon Leggings
+92A6C58B:Alchemist's Crystal
+9296A5F5:Enchanter's Crystal
+92B3EE2D:Rogue's Crystal
+
+Missing Exports - Possessed items that were not found:

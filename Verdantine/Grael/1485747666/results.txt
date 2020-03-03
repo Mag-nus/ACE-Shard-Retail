@@ -1,0 +1,61 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap4\pkt_2017-1-29_1485688049_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap5\pkt_2017-1-27_1485580183_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap4\pkt_2017-1-29_1485688049_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap4\pkt_2017-1-29_1485688049_log.pcap
+
+Partial Exports - Missing appraisal info:
+85FCCDC5:Pyreal
+85FCCD73:Sack
+85FCCD7B:Ash Gromnie Wings
+85FCCDEC:Ash Gromnie Wings
+85F945D8:Ust
+85FCCDA3:Handy Healing Kit
+85FCCDDB:Letter From Home
+85FCCDA8:Bread
+85FCCDE7:Parchment
+85FE5C47:Facility Hub Portal Gem
+85FE5C4E:Crystal
+85FB95FB:Pack Drudge
+85FCCDC4:Candy Corn
+85FC9699:Licorice Rat
+85FCCE99:Gonjoku's Mana Infusion
+85FCCE49:Obsidian Shard
+85FCCE25:Library Key
+85FCCDCB:Cull the Drudges
+85FCCDF6:Pack
+85FC96B6:Pack
+85FCCDB3:Pack
+85FCCE2F:Pack
+85FCCE6B:Pack
+85FCCE40:Font of Jojii
+85FCCE81:Pack
+85FCCE20:Red Monster Seed
+85FCCE28:Writ of Refuge
+85FCCE17:Dark Shard
+85FCCE27:Glyph of Damage
+85FCCDFB:Peppermint Stick
+85FE5C57:Treated Healing Kit
+85FCBAB2:Glyph of Shield
+85FCCE1F:Treated Healing Kit
+85FCCE0B:Te Ven's Key
+85FE5C4F:Gem of Balance
+85FCCE54:Ruminations on Portal Creation
+85FCCE38:Sturdy Iron Key
+85FCB331:Dansha-Ki's Gem of Portal Recall
+862861E5:Agent of Arcanum List
+801D7D8F:Dark Shard
+85FE5C60:Pearl of Blood Drinking
+85FD532A:Resister's Crystal
+91EC1F8C:Converter's Crystal
+91E8EEF6:Viamontian Pennant of Loyalty
+91BCCC7D:Imbuer's Crystal
+91A09102:Thorsten's Crystal
+8018A5D5:Crystal Fragment
+91EA7C46:Health Philtre
+91EA57A0:Black Marrow Tea
+91EA7BEC:Stamina Philtre
+
+Missing Exports - Possessed items that were not found:

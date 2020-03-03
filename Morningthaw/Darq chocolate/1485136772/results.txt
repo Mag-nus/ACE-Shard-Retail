@@ -1,0 +1,75 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-22_1485136357_log.pcap
+
+Partial Exports - Missing appraisal info:
+80A1F8B0:Baggy Breeches
+80A1F8B9:Leather Cap
+80A1F8B1:Slippers
+80A1F8B2:Pathwarden Token
+80A1F8B4:Foci of Artifice
+80A1F8BB:Academy Library Key
+80A1F8C4:Lugian Armor
+80A1F8C7:Pack
+80A1F8C8:Arcane Pedestal
+80A1F8C9:Telumiat Hollow Minion Essence
+80A1F8CA:Bloodletter Charm Necklace
+80A1F8CC:Pack Gaerlan
+80A1F8CF:Sunflower
+80A1F8CE:Canescent Mattekar Robe
+80A1F8D1:Branith's Staff
+80A1F8D2:Rabid Carenzi Pelt
+80A1F8D4:Soul Staff
+80A1F8D7:Yag
+80A1F8D8:Master Keyring
+80A1F8D9:Sturdy Iron Keyring
+80A1F8DA:Aura of Hermetic Link Self VI
+80A1F8DC:Hieromancer's Crystal
+80A1F8DF:Rogue's Crystal
+80A1F8E0:Pack
+80A1F8E1:Asheron's Lesser Raiment
+80A1F8E2:Asheron's Lesser Raiment
+80A1F8E3:Large Round Shield
+80A1F8F6:Ursuin Head
+80A1F8E4:Necklace
+80A1F8E8:Flaming Sabra
+80A1F8EA:Asheron's Lesser Raiment
+80A1F8EB:Tower Shield
+80A1F8F9:Sack
+80A1F8EE:Buckler
+80A1F8EF:Lightning War Axe
+80A1F90C:Swamp Stone
+80A1F8F3:Black Rock
+80A1F8F7:Piercing Bow
+80A1F8F4:Salvage (100)
+80A1F8F5:Salvage (100)
+80A1F901:Pyreal Golem Heart
+80A1F8FA:Heavy Bracelet
+80A1F8FB:Heavy Bracelet
+80A1F8FC:Ring
+80A1F8FD:Trident
+80A1F910:Pack Bael'Zharon
+80A1F8FE:Bracelet
+80A1F900:Teardrop Crown
+80A1F903:Lightning Partizan
+80A1F911:Merciless Monouga Idol
+80A1F905:Wrapped Bundle of Arrowheads
+80A1F913:Ball of Gunk
+80A1F907:Slashing Bow
+80A1F912:Pack
+80A1F909:Blunt Baton
+80A1F914:Ball of Gunk
+80A1F90B:Fire Baton
+80A1F917:Thick Gromnie Hide
+80A1F90E:Celdon Leggings
+80A1F91D:Ust
+80A1F915:Faran Robe
+80A1F916:Ring
+80A1F918:Rithwic Portal Gem
+80A1F91B:Hand Axe
+80A1F91C:Salvage (100)
+80A1F8C5:Tower Shield
+80A1F8C2:Asheron's Benediction
+80A1F8C3:Coat of the Zaikhal Defender
+80A1F92B:Teleportation Device
+
+Missing Exports - Possessed items that were not found:

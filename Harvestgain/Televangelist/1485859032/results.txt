@@ -1,0 +1,81 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-31-2017-pkt_2017-1-31_1485858897_log\pkt_2017-1-31_1485858897_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-29-2017-pkt_2017-1-29_1485737130_log\pkt_2017-1-29_1485737130_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-29-2017-pkt_2017-1-29_1485737371_log\pkt_2017-1-29_1485737371_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-30-2017-pkt_2017-1-30_1485828996_log\pkt_2017-1-30_1485828996_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-31-2017-pkt_2017-1-31_1485847147_log\pkt_2017-1-31_1485847147_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-31-2017-pkt_2017-1-31_1485847239_log\pkt_2017-1-31_1485847239_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-29-2017-pkt_2017-1-29_1485755164_log\pkt_2017-1-29_1485755164_log.pcap
+
+Partial Exports - Missing appraisal info:
+C7CD0BA8:Foci of Artifice
+C7CD0BA9:Foci of Enchantment
+C7CD0BAA:Pyreal
+C7CD0BA7:Lead Scarab
+C7C86DB4:Iron Scarab
+C7CD0BB0:Copper Scarab
+C7CD0BB1:Silver Scarab
+C7CD042C:Gold Scarab
+C7CD0BAF:Pyreal Scarab
+C7CE0F52:Prismatic Taper
+C7CE0F53:Sceptre
+C7CE0F54:Some Changes for February 2012
+BE8261E9:Awakener
+C7BF2FF6:Salvage
+C7C12428:Salvage
+C851E367:Undead Femur bone
+BE842253:Aged Legendary Key
+BE842252:Aged Legendary Key
+BE842254:Aged Legendary Key
+C7C436A5:Ice Heaume of Frore
+BE84225C:Aged Legendary Key
+BE84225D:Aged Legendary Key
+BE842256:Aged Legendary Key
+BE842257:Aged Legendary Key
+BE842258:Aged Legendary Key
+BE84225A:Aged Legendary Key
+BE84225B:Aged Legendary Key
+BE84224D:Aged Legendary Key
+BE84224E:Aged Legendary Key
+BE84224F:Aged Legendary Key
+BE842250:Aged Legendary Key
+BE842251:Aged Legendary Key
+BE842255:Aged Legendary Key
+BE842247:Aged Legendary Key
+BE842248:Aged Legendary Key
+BE842249:Aged Legendary Key
+BE84224B:Aged Legendary Key
+BE84224A:Aged Legendary Key
+BE842243:Aged Legendary Key
+BE842244:Aged Legendary Key
+BE842245:Aged Legendary Key
+BE842246:Aged Legendary Key
+BE842259:Aged Legendary Key
+BE84224C:Aged Legendary Key
+C7C4368B:White Bunny Slippers
+C84236C8:Trousers
+BE80BE98:Celdon Breastplate
+BE842264:Celdon Girth
+C857106F:Puzzle Box
+BE842265:Celdon Leggings
+C84A53CE:Modified Elemental Master Robe
+C5D78A8F:Quiddity Ingot
+C8493A19:Martine's Mask
+C84A4470:Martine's Robe
+C844E719:Hoary Mattekar Over-robe
+C7C436BE:Faran Robe with Hood
+C85ECB1F:Chronicle of Archeological Site Celadon
+C85D5D5E:Journal of Frest Greelving
+C85E7078:Ornate Nekode
+C85E6F7F:Silver Atlatl
+C85E70EE:Tetsubo Slugger
+C848CB58:Harbinger's Foci
+BE84225F:Empowered Bracers of the Perfect Light
+C8545414:Pyreal Sliver
+BE84225E:Empowered Pauldrons of the Perfect Light
+C85C57F6:Royal Coat of Arms Stamp
+BE79A3A1:Chevron Cloak
+
+Missing Exports - Possessed items that were not found:

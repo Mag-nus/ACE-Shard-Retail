@@ -1,0 +1,75 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-29_1485736061_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-27_1485541031_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-27_1485541031_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-27_1485541031_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-27_1485546030_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-28_1485614827_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-29_1485699464_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-29_1485718290_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-29_1485718290_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-29_1485718290_log.pcap
+
+Partial Exports - Missing appraisal info:
+D7ADDB9E:Loose Tunic
+D7ADDB9F:Flared Pants
+D7ADDBA3:Ust
+D7E62624:Blackmoor's Favor
+D7EC6C58:Iron Scarab
+D81ABF64:Copper Scarab
+D7EAE59E:Lead Pea
+CC00364E:Pyreal Scarab
+CC00364D:Gold Scarab
+CC003649:Platinum Scarab
+D7ADDBA7:Foci of Strife
+D7ADDBA8:Foci of Verdancy
+D7E626D1:Oil of Rendering
+D7EBB8FC:Academy Wand
+D7E62698:Facility Hub Portal Gem
+CBFDB08E:Platemail Gauntlets
+CBFA459D:Banished Orb
+D83BC9AE:Celdiseth's Portal Gem
+CBFDB08F:Celdon Leggings
+CBFDB098:Mattekar Hide Coat
+CC003625:Massive Mana Charge
+CC003626:Massive Mana Charge
+CC003627:Massive Mana Charge
+CC003628:Massive Mana Charge
+CC005503:Massive Mana Charge
+CC005506:Massive Mana Charge
+CC00554D:Massive Mana Charge
+CC005560:Massive Mana Charge
+CC005563:Massive Mana Charge
+CC005561:Massive Mana Charge
+CC005564:Massive Mana Charge
+D82FEE4D:Foci of Enchantment
+D83BAE1D:Sceptre
+D84499E8:Massive Mana Charge
+D844B466:Massive Mana Charge
+D844B520:Massive Mana Charge
+D844B519:Massive Mana Charge
+D844B4C7:Massive Mana Charge
+D844B27F:Massive Mana Charge
+D8497C98:Massive Mana Charge
+D8449A3B:Massive Mana Charge
+D846A1B2:Massive Mana Charge
+D6D7C1D0:Massive Mana Charge
+D852D7C0:Trade Note (75,000)
+CC003629:Massive Mana Charge
+D8620133:Lesser Mana Stone
+D85FDB0D:Stone of Discipline
+D85FC378:Mana Potion
+D85F7228:Mana Elixir
+D8580418:Massive Mana Charge
+D858041B:Massive Mana Charge
+D6B93348:Massive Mana Charge
+D8580416:Massive Mana Charge
+D858041F:Massive Mana Charge
+D6B5216A:Massive Mana Charge
+D8580157:Massive Mana Charge
+8A17B98F:Massive Mana Charge
+D864C374:Aphus Lassel Portal Gem
+
+Missing Exports - Possessed items that were not found:

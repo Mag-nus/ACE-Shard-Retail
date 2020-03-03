@@ -1,0 +1,51 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (3709728530, 2018, 6, 6472001) /* MeleeWeapon */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (3709728530,   1,          1) /* ItemType - MeleeWeapon */
+     , (3709728530,   5,        500) /* EncumbranceVal */
+     , (3709728530,   9,    1048576) /* ValidLocations - MeleeWeapon */
+     , (3709728530,  16,          1) /* ItemUseable - No */
+     , (3709728530,  19,       1000) /* Value */
+     , (3709728530,  51,          1) /* CombatUse - Melee */
+     , (3709728530,  65,        101) /* Placement - Resting */
+     , (3709728530,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (3709728530, 151,          2) /* HookType - Wall */
+     , (3709728530, 9015,          5) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (3709728530,   1, False) /* Stuck */
+     , (3709728530,  11, True ) /* IgnoreCollisions */
+     , (3709728530,  13, True ) /* Ethereal */
+     , (3709728530,  14, True ) /* GravityStatus */
+     , (3709728530,  19, True ) /* Attackable */
+     , (3709728530,  22, True ) /* Inscribable */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (3709728530,   1, 'Trothyr''s War Hammer') /* Name */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (3709728530,   1,   33554766) /* Setup */
+     , (3709728530,   3,  536870932) /* SoundTable */
+     , (3709728530,   6,   67111919) /* PaletteBase */
+     , (3709728530,   8,  100669067) /* Icon */
+     , (3709728530,  22,  872415275) /* PhysicsEffectTable */
+     , (3709728530, 8001,  270615064) /* PCAPRecordedWeenieHeader - Value, Usable, CombatUse, Container, ValidLocations, Burden, HookType */
+     , (3709728530, 8003,         18) /* PCAPRecordedObjectDesc - Inscribable, Attackable */
+     , (3709728530, 8005,     137217) /* PCAPRecordedPhysicsDesc - CSetup, STable, PeTable, AnimationFrame */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (3709728530,   1, 1343494203) /* Owner */
+     , (3709728530,   2, 1343494203) /* Container */
+     , (3709728530, 8000, 3709728530) /* PCAPRecordedObjectIID */;
+
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
+VALUES (3709728530, 67111921, 0, 0);
+
+INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
+VALUES (3709728530, 0, 83889238, 83889238, 0)
+     , (3709728530, 0, 83889233, 83889233, 1)
+     , (3709728530, 0, 83889289, 83889289, 2);
+
+INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, `order`)
+VALUES (3709728530, 0, 16777979, 0);

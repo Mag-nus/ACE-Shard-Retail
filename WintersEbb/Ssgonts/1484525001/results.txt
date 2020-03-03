@@ -1,0 +1,19 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-15_1484524994_log.pcap
+
+Partial Exports - Missing appraisal info:
+A52E854A:Ring
+A52E8583:Pyreal
+A52E857B:Platemail Gauntlets
+A52E85B1:Damiana
+A52E85A9:Hyssop
+A52E8597:Dryreach Key
+A52E85B9:Sollerets
+A52E856A:Some Changes for February 2012
+A52E858E:Aluvian Wand
+A52E8533:Blackmoor's Favor
+A52E8562:Pack Martine
+A52E855A:Long Sword
+A52E8541:Kite Shield
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,130 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Immortalbob-1-31-17-Random-Pcaps-3\pkt_2017-1-30_1485825016_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Immortalbob-1-31-17-Random-Pcaps\pkt_2017-1-30_1485824715_log.pcap
+
+Partial Exports - Missing appraisal info:
+C0C6356B:Pyreal
+80412CFB:Foci of Artifice
+80412CFC:Foci of Shadow
+80412CFD:Foci of Verdancy
+80412D21:Ust
+BA938804:Gauntlet Coin
+80412D10:Pack
+80412D11:Blackmoor's Favor
+80412D1A:Aligned Mana Stone
+80412D13:Town Network Portal Gem
+80412D14:Facility Hub Portal Gem
+80412D1B:Aetheria Mana Stone
+80412D1C:Life-attuned Rynthid Tentacle Wand
+B96E9A86:Titan Mana Charge
+80412D1D:Black Page of Salt and Ash
+80412D1E:Asheron's Lesser Benediction
+C45A407C:Pyreal
+80412D1F:Celdiseth's Portal Gem
+80412D20:Rynthid Tentacle Wand
+BDC5DD92:Major Mana Stone
+8B77C8B7:Spectral Crystal of the Corruptor
+80412D12:Core Plating Integrator
+C2959658:Major Mana Stone
+B84A9E18:Maelstrom of Souls Gem
+80412D15:Core Plating Deintegrator
+B96FF489:Titan Mana Charge
+80412CFF:Enhanced Red Empyrean Ring
+B973D6CD:Spectral Crystal of the Life Giver
+80412D29:Pack
+80412D2A:Lead Scarab
+80412D2C:Silver Scarab
+80412D34:Iron Scarab
+80412D35:Platinum Scarab
+80412D36:Pyreal Scarab
+80412D37:Copper Scarab
+80412D41:Massive Mana Charge
+80412CEC:Gold Scarab
+B96B5420:Titan Mana Charge
+B97265FA:Titan Mana Charge
+80412CEB:Platinum Scarab
+B96C6F41:Titan Mana Charge
+B7E459C7:Mana Scarab
+B93507B4:A'nekshay Token
+C2A7BF79:Ancient Mhoire Coin
+80412CE3:Sack
+C167F6FC:Spectral Missile Weapon Mastery Crystal
+860D8F9D:Salvage (14)
+B97265FB:Titan Mana Charge
+8D288FD4:Prismatic Taper
+846952EA:Diamond Scarab
+8F282383:Salvage (11)
+B7D10019:Encapsulated Spirit
+B942B394:Titan Mana Charge
+C45A407B:Pyreal
+8C7F93C0:Gauntlet Coin
+C45A407A:Pyreal
+C16AD3B0:Prismatic Taper
+C1DCEF91:Gold Pea
+8B779F53:Small Olthoi Venom Sac
+8B7930C6:Ornate Gear Marker
+B8460F57:Maelstrom of Souls Gem
+8000B183:Lesser Corrupted Essence
+C237E429:Pyreal Pea
+C25030C0:Silver Pea
+C299D36D:Major Mana Stone
+C2A7C953:Ancient Mhoire Coin
+C2E85772:Major Mana Stone
+C1E73347:Gauntlet Backpack
+BA49CECD:Gauntlet Vault Key
+C1C1A8A5:Gauntlet Vault Key
+B9E1E213:Gauntlet Vault Key
+B8F99F2A:Gauntlet Vault Key
+BA938803:Gauntlet Vault Key
+B899F1B1:Gauntlet Vault Key
+C144221D:Gauntlet Vault Key
+B9F8C80B:Gauntlet Vault Key
+B97447D5:Gauntlet Vault Key
+BAD9221A:Gauntlet Vault Key
+C1EA015B:Gauntlet Vault Key
+B95C90C5:Gauntlet Vault Key
+C169940E:Gauntlet Vault Key
+C17E8506:Gauntlet Vault Key
+BAAFE9C5:Gauntlet Vault Key
+B9D41F74:Gauntlet Vault Key
+BA32263F:Gauntlet Vault Key
+B93D8340:Gauntlet Vault Key
+B87430F3:Gauntlet Vault Key
+B874E073:Scroll of Radiant Blood Recall
+8C9215E1:Purple Society Band
+C20320A5:Gauntlet Vault Key
+C24AD8D6:Gauntlet Vault Key
+C2EC6B04:Gauntlet Vault Key
+C23CB69B:Salvage (56)
+C27104E5:Salvage (22)
+C297F71C:Upper Insatiable Eater Jaw
+C341655D:Major Mana Stone
+C3411E0C:Salvage (56)
+C341E29C:Salvage (62)
+C340CED9:Salvage (95)
+C341FE1F:Major Mana Stone
+C335082B:Salvage (31)
+C375D65B:Gauntlet Vault Key
+C3822EDD:Upper Insatiable Eater Jaw
+C3A8F237:Gauntlet Vault Key
+C3C9E4A3:Gauntlet Vault Key
+C4214C61:Gauntlet Vault Key
+C43BD79E:Gauntlet Vault Key
+C45A4079:Pyreal
+C45A4078:Pyreal
+C45A4077:Pyreal
+C45A4076:Pyreal
+C45A4075:Pyreal
+C4581354:Major Mana Stone
+C4508859:Major Mana Stone
+C45A9B8D:Trade Note (250,000)
+C46A50E2:Contract for Kill: Rynthid Rare Boss
+C47A81B4:Gauntlet Vault Key
+C45AE83F:Contract for Kill: Empowered Wisps
+80412D58:Nether Sceptre
+C4ACFE2C:Gauntlet Vault Key
+C570C4B9:Gauntlet Vault Key
+
+Missing Exports - Possessed items that were not found:

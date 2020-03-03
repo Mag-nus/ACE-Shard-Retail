@@ -1,0 +1,53 @@
+INSERT INTO `character` (`id`, `account_Id`, `name`, `is_Plussed`, `is_Deleted`, `delete_Time`, `last_Login_Timestamp`, `total_Logins`, `character_Options_1`, `character_Options_2`, `gameplay_Options`, `spellbook_Filters`, `hair_Texture`, `default_Hair_Texture`)
+VALUES (1342754798, 0, 'Kumalo', False, False, 0, 0, 0, 1375528802, 34560, NULL, 2047, 0, 0);
+
+INSERT INTO `character_properties_fill_comp_book` (`character_Id`, `spell_Component_Id`, `quantity_To_Rebuy`)
+VALUES (1342754798, 686, 10)
+     , (1342754798, 689, 5)
+     , (1342754798, 691, 5)
+     , (1342754798, 740, 10)
+     , (1342754798, 750, 10)
+     , (1342754798, 756, 10)
+     , (1342754798, 758, 10)
+     , (1342754798, 759, 10)
+     , (1342754798, 761, 10)
+     , (1342754798, 762, 10)
+     , (1342754798, 764, 10)
+     , (1342754798, 767, 10)
+     , (1342754798, 774, 10)
+     , (1342754798, 788, 10)
+     , (1342754798, 790, 10)
+     , (1342754798, 792, 10)
+     , (1342754798, 1643, 10)
+     , (1342754798, 1644, 10)
+     , (1342754798, 1645, 10)
+     , (1342754798, 1646, 10)
+     , (1342754798, 1647, 10)
+     , (1342754798, 1648, 10)
+     , (1342754798, 1649, 10)
+     , (1342754798, 1650, 10)
+     , (1342754798, 1651, 10)
+     , (1342754798, 1653, 10);
+
+INSERT INTO `character_properties_shortcut_bar` (`character_Id`, `shortcut_Bar_Index`, `shortcut_Object_Id`)
+VALUES (1342754798, 0, 2567880277)
+     , (1342754798, 1, 2567880293)
+     , (1342754798, 3, 2568029009)
+     , (1342754798, 4, 2568028955)
+     , (1342754798, 5, 2568029017)
+     , (1342754798, 6, 2568028954)
+     , (1342754798, 7, 2568028999)
+     , (1342754798, 8, 2568029011);
+
+INSERT INTO `character_properties_spell_bar` (`character_Id`, `spell_Bar_Number`, `spell_Bar_Index`, `spell_Id`)
+VALUES (1342754798, 0, 0, 1588)
+     , (1342754798, 0, 1, 1612)
+     , (1342754798, 0, 2, 1601)
+     , (1342754798, 0, 3, 1613)
+     , (1342754798, 0, 4, 49)
+     , (1342754798, 0, 5, 1602)
+     , (1342754798, 2, 0, 1635)
+     , (1342754798, 2, 1, 48);
+
+INSERT INTO `character_properties_title_book` (`character_Id`, `title_Id`)
+VALUES (1342754798, 1);

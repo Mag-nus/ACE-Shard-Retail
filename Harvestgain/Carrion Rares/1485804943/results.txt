@@ -1,0 +1,186 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\CatDevnull-Dont-Remember-1\pkt_2017-1-30_1485795672_log.pcap
+
+Partial Exports - Missing appraisal info:
+A30BDE80:Sack
+A30BDE87:Prismatic Taper
+A30BDE81:Ust
+A3299C30:Blackmoor's Favor
+A3283A8E:Facility Hub Portal Gem
+A1453563:Treated Healing Kit
+A35B0CA9:Stamina Tonic
+A33E9E92:Tipped Pack Cow
+A35B755F:Copper Scarab
+A358C468:Silver Scarab
+A35BBC1A:Gold Scarab
+A41BDCBC:Colosseum Coin
+A3601A32:Black Page of Salt and Ash
+C6A43A55:Stipend
+A434D500:A'nekshay Token
+BD4431FD:Aphus Lassel Portal Gem
+A30BDE86:Foci of Artifice
+9867BE73:Pack
+9867BE74:Eight of Eyes
+9867BE75:Queen of Eyes
+9867BE7C:Four of Hands
+9867BE7D:Two of Eyes
+9867BE7F:Five of Hands
+9867BE82:Seven of Hands
+9867BE84:Three of Eyes
+9867BE86:Nine of Eyes
+9867BE87:Ten of Eyes
+9867BE89:Eight of Hands
+9867BE8B:Nine of Hands
+A4980FB2:Ace of Eyes
+A5417B3D:Jack of Hands
+A4FAF435:Four of Eyes
+A64EAC7D:Five of Eyes
+A6A7716B:Seven of Eyes
+A6B5CB4E:Three of Hands
+A7E17E5F:Six of Hands
+A80B8956:Queen of Hands
+A81F0295:King of Hands
+A8065C69:Ten of Hands
+9867BE88:King of Eyes
+A53CC163:The Jester
+9867BE77:Jack of Eyes
+A355B529:Pack
+A31C8654:Scroll of Bed of Blades
+A31C858C:Scroll of Halo of Frost
+A30EAD49:Scroll of Blistering Creeper
+A2CFD157:Scroll of Spike Strafe
+A31C7F34:Scroll of Searing Disc
+A316DC77:Scroll of Spike Strafe
+A1F4BA68:Inscription of Impregnability Self
+9867B8DD:Inscription of Flame Arc
+9867B8DA:Inscription of Lightning Arc
+BD2C5C68:Scroll of Raven Fury
+A1FE7A8E:Scroll of Tectonic Rifts
+A1F9CDDC:Scroll of Halo of Frost
+9FD6F6F7:Scroll of Os' Wall
+9843C2E5:Scroll of Pummeling Storm
+98BB6A3D:Scroll of Celdiseth's Searing
+98B5101B:Scroll of Foon-Ki's Glacial Floe
+9843C2E6:Scroll of Nuhmudira's Spines
+9843C2E7:Scroll of Eye of the Storm
+98C12E64:Scroll of Flensing Wings
+98C11A44:Scroll of Hammering Crawler
+A35884DF:Pack
+802D84DB:Trade Note (10,000)
+A263B16B:Trade Note (50,000)
+A259AEE3:Trade Note (100,000)
+B5C9F2CA:Trade Note (250,000)
+9867B863:Pack
+B71A03E0:Trade Note (250,000)
+B7783355:Trade Note (250,000)
+A6B52829:Two of Hands
+AE55F717:Trade Note (250,000)
+B786999A:Trade Note (250,000)
+A06C3A5E:Pack
+BD839549:Trade Note (250,000)
+BDBC005C:Trade Note (250,000)
+9D4E29E6:Coronet
+BE1B0F67:Trade Note (250,000)
+C5D072AC:Trade Note (250,000)
+A022407B:Coronet
+C5D187FC:Trade Note (250,000)
+C52BA733:Trade Note (250,000)
+A63676CA:Diadem
+C5F4460F:Trade Note (250,000)
+C5CB7B29:Trade Note (250,000)
+A64941C5:Circlet
+C731CB61:Trade Note (250,000)
+C63A5058:Trade Note (250,000)
+A5F07395:Diadem
+C7117EAD:Trade Note (250,000)
+C79590B3:Trade Note (250,000)
+9FABA231:Teardrop Crown
+C74D6C1C:Trade Note (250,000)
+C670E1E8:Trade Note (250,000)
+A18D1D29:Diadem
+C79A2AF2:Trade Note (250,000)
+C722BE70:Trade Note (250,000)
+A1D461C8:Circlet
+A449BD68:Artist's Crystal
+9DB982D5:Evader's Crystal
+9867B926:Executor's Jewel
+9B85F337:Astyrrian's Jewel
+9867B927:Duelist's Jewel
+9867B914:Sprinter's Pearl
+9867B924:Resister's Crystal
+A9A1914B:Trade Note (250,000)
+AB02FFC3:Trade Note (250,000)
+80040975:Trade Note (250,000)
+A0E30EB1:Circlet
+A7FB4095:Trade Note (250,000)
+A3DD59BE:Trade Note (250,000)
+A955BCB3:Massive Mana Charge
+9C6C27D0:Trade Note (250,000)
+A789BB09:Trade Note (250,000)
+A95262E6:Massive Mana Charge
+A50F6949:Trade Note (250,000)
+9851F5CF:Trade Note (250,000)
+C8241C76:Exquisite Casino Key
+A358C70A:Trade Note (250,000)
+A701C923:Trade Note (250,000)
+9A89BE35:Trade Note (250,000)
+ABB20253:Trade Note (250,000)
+A8F152C2:Trade Note (250,000)
+AEA23B7F:Trade Note (250,000)
+B176833E:Trade Note (250,000)
+AB020BDD:Trade Note (250,000)
+B09834C7:Trade Note (250,000)
+AE3D6DBA:Trade Note (250,000)
+B1553F21:Trade Note (250,000)
+B1F4F2CA:Trade Note (250,000)
+B4BD4032:Trade Note (250,000)
+B41BBF25:Trade Note (250,000)
+B6350207:Trade Note (250,000)
+9EBF90F8:Tinker's Crystal
+A101C758:Pearl of Defending
+9867B871:Olthoi's Jewel
+98652D5C:Pearl of Spirit Drinking
+9867B864:Enchanter's Crystal
+98652F56:Life Giver's Crystal
+98652D8D:Corruptor's Crystal
+985ECBE8:Dodger's Crystal
+9867B869:Smithy's Crystal
+9867B86B:Imbuer's Crystal
+9867B868:Alchemist's Crystal
+9867B86C:Scholar's Crystal
+98614536:Physician's Crystal
+9867B86A:Magus's Pearl
+9867B86D:Pearl of Impenetrability
+98652FB3:Hieromancer's Crystal
+98652FE5:Archer's Jewel
+98652FB9:Tusker's Jewel
+9861F94B:Gelid's Jewel
+98652FFD:Pearl of Heart Seeking
+A6B16C4C:Vaulter's Crystal
+A9571377:Wayfarer's Pearl
+A955B213:Pearl of Blood Drinking
+A9A53C45:Elysa's Crystal
+AAEE6C4A:Zefir's Crystal
+A1C6C688:Signet Crown
+A62FF3B1:Teardrop Crown
+A60827AF:Crown
+A658FB30:Teardrop Crown
+A504CD00:Crown
+A7AAF0BE:Crown
+AF0AD955:Platinum Spirits
+A0461CA4:Crown
+A2DF2306:Signet Crown
+A133F415:Crown
+B60F3C9C:Thief's Crystal
+BCEB0405:Pearl of Swift Killing
+BCEB0A30:Ursuin's Pearl
+BCEB12FB:Lugian's Pearl
+BB42FB52:Trade Note (250,000)
+9867B865:Monarch's Crystal
+C59D63B0:Refreshing Elixir
+A4485ADA:Refreshing Elixir
+A01362EC:Miraculous Elixir
+C63D8672:Adherent's Crystal
+C78F9086:Trade Note (250,000)
+
+Missing Exports - Possessed items that were not found:

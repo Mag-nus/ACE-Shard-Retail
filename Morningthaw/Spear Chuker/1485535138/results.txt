@@ -1,0 +1,27 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-27_1485531435_log.pcap
+
+Partial Exports - Missing appraisal info:
+C693A3C9:Doublet
+C693A3B9:Wide Breeches
+C693A3A1:Shoes
+C693A399:Pyreal
+C693A3D1:Sack
+C693A3C1:Ust
+C693A365:Handy Healing Kit
+C693A35C:Asheron's Benediction
+C693A3EB:Academy Coat
+C693A3FC:Teleportation Device
+C693A388:Pyreal
+C693A380:Pathwarden Sollerets
+C693A405:Pathwarden Gauntlets
+C693A3C8:Great Mana Charge
+C693A3D9:Pathwarden Helm
+C693A3B8:Pathwarden Robe
+C693A3B0:Pathwarden Trinket
+C693A398:Pack
+C693A3F3:Blackmoor's Favor
+C693A378:Academy Spear
+C693A370:Academy Spear
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,69 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\pkt_2017-1-28_1485616386_log\pkt_2017-1-28_1485617791_log.pcap
+
+Partial Exports - Missing appraisal info:
+DA06603D:Ust
+DA06603E:Mud Golem Essence
+DA06603F:Foci of Shadow
+DA066044:Great Mana Charge
+DA066041:Lead Scarab
+DA066042:Blackmoor's Favor
+DA066043:Facility Hub Portal Gem
+DA066046:Pathwarden Robe
+DA066049:Pyreal
+DA066047:Sturdy Iron Key
+DA06604A:Pyreal
+DA06604B:Pyreal
+DA066048:Tipped Pack Cow
+DA06604C:Foci of Artifice
+DA06604D:Foci of Verdancy
+DA06604E:Silver Scarab
+DA06604F:Copper Scarab
+DA066050:Encapsulated Spirit
+DA066052:Academy Wand
+DA066051:Fire Elemental Essence (50)
+DA066054:Frost Phyntos Wasp Essence (50)
+DA066055:Stamina Tincture
+DA066056:Salvage (9)
+DA066058:Silver Pea
+DA066057:Coalesced Mana
+DA06605A:Pack
+DA06605B:Salvage (100)
+DA06605C:Salvage (100)
+DA06605D:Salvage (100)
+DA06605E:Salvage (100)
+DCE16DD7:Prismatic Taper
+DA06605F:Salvage (100)
+DA066060:Salvage (100)
+DB4DF6E0:Elysa's Wondrous Orb
+DA066061:Salvage (100)
+DA066062:Salvage (100)
+DA066063:Salvage (100)
+DA066064:Salvage (100)
+DA066065:Salvage (100)
+DA066066:Salvage (100)
+DA066067:Salvage (100)
+DA066068:Salvage (100)
+DA066069:Salvage (100)
+DA06606A:Salvage (100)
+DA06606B:Salvage (100)
+DA06606C:Salvage (100)
+DA06606D:Salvage (100)
+DA06606E:Salvage (100)
+DA06606F:Salvage (100)
+DA066070:Salvage (100)
+DA066071:Salvage (100)
+DA066072:Salvage (100)
+BAF75B9D:Coalesced Aetheria
+8CEC2579:Frost Child Essence (180)
+A84056FD:Fire K'nath Essence (180)
+DB4DB0DE:Piercing Baton
+DB4C7121:Chainmail Tassets
+DB4C7EF7:Crown
+DB4D986E:Acid Shashqa
+DB4CF7D1:Lorica Helm
+DB4CF7CF:Trousers
+DB47E5C8:Kasa
+DB4C9896:Blunt Bow
+
+Missing Exports - Possessed items that were not found:

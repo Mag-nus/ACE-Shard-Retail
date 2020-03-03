@@ -1,0 +1,103 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485760644_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-25_1485376986_log.pcap
+
+Partial Exports - Missing appraisal info:
+810A0767:Belt Pouch
+811B180F:Pack
+810BEB62:Pack
+C7B43156:Electric Compound Bow
+8B35407E:Candeth Keep Blueprints
+C7C75B28:Olthoi Sollerets
+C7C2FCD0:Olthoi Sollerets
+8002A16B:Font of Jojii
+C7BE29C7:Sollerets
+8838F088:Blunt Bow
+8002A15A:Large Pine Tree
+88144CCC:Frost Bow
+8202125F:Piercing Bow
+8002A163:Tumerok Chair
+8202125E:Frost Bow
+81130AE6:Blunt Compound Bow
+8002A15C:Small Pine Tree
+8002A17E:War Bow
+8002A1E1:Electric Compound Bow
+811B07D1:Sunflower
+8002A148:Blunt Compound Bow
+811C1A84:Chiran Leggings
+8002A1C2:Bundle of Deadly Blunt Arrowheads
+87A76117:Salvage (100)
+8B4AB4DE:Salvage
+8B4CF067:Salvage
+8B4CF068:Salvage
+8B4CEBFE:Salvage
+8B4CFB25:Salvage
+811D7490:Pack
+8A5DE2D5:Oswald's Crystal
+964DC0A6:Deceiver's Crystal
+8A5F9FEB:Evader's Crystal
+8A4B5CD9:Knight's Crystal
+8002A25E:Shield of Strathelar
+811BA706:Piercing Compound Bow
+811B1D04:Whole Chicken
+8002A1CF:Acid Compound Bow
+8002A164:Slashing Bow
+811BB681:Pack
+8112BEB4:Amateur Explorer Compound Bow
+8002A16C:Fire Bow
+811B8F2B:Homecoming Pennant
+82018A49:Gladiator Diemos Statue
+8002A17A:Acid Bow
+8011A14B:Perfect Shimmering Isparian Bow
+8002A17B:Blunt Compound Bow
+8002A155:Fire Bow
+8002A1E9:Frost Bow
+811B079D:Pack
+8002A16E:Fire Bow
+8113A288:Electric Compound Bow
+8119DAC5:Vestiri Robe
+8002A16D:Slashing Bow
+8002A162:Frost Bow
+811BA36B:Squalid Coat
+8002A16A:Acid Compound Bow
+C7962DBC:Frost Compound Bow
+811B073A:Mattekar Hide Coat
+81193DF2:Festival Shirt
+811D72BE:Festival Shirt
+811B0703:Festival Shirt
+8002A1D1:Strathelar Pennant
+811B8606:Festival Shirt
+81190DBC:Festival Shirt
+81190530:Festival Shirt
+811CC250:Festival Shirt
+811D72BC:Festival Robe
+811B06DD:Lace Shirt
+811D7480:Vestiri Life Apprentice Robe
+811D72BD:Gloves
+811B0829:Blue Jewel
+811B9F4E:Dho Vest and Robe
+811B0045:Rithwic Portal Gem
+811B9F07:Faran Robe with Hood
+8117F8A4:Lorica Leggings
+8119A5FB:Salvaged  (100)
+81177F0F:Salvaged  (100)
+9619C05D:Iron Heart
+811993C8:Salvaged  (2)
+811BB6C4:Salvaged  (91)
+8201F8A1:Pack
+811C10E4:Salvaged  (100)
+811BBF7D:Salvaged  (100)
+811AFD95:Salvaged  (100)
+811BB6B0:Al-Arqas Portal Gem
+810ED5C1:Aphus Lassel Portal Gem
+95366AB0:Lyceum Hood
+95F43293:Zefir's Crystal
+95ED1210:Brawler's Crystal
+8002A156:Blunt Bow
+C7C73232:Olthoi Koujia Leggings
+C7990C90:Electric Compound Bow
+8A47FED7:Chef's Crystal
+
+Missing Exports - Possessed items that were not found:

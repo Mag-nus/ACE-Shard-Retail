@@ -1,0 +1,125 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485762186_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2\pkt_2017-1-27_1485540927_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2\pkt_2017-1-29_1485724446_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-25_1485335614_log.pcap
+
+Partial Exports - Missing appraisal info:
+8102D109:Coral Heart
+8102D129:Prismatic Taper
+8102D115:Life Giver's Crystal
+8102D118:Diamond Scarab
+8102D12C:Ust
+876A9101:Coral Heart
+8774309F:Coral Heart
+8777AD9B:Coral Heart
+8777AD72:Coral Heart
+8777AD88:Coral Heart
+8777AD58:Coral Heart
+8753F27B:Mechanical Scarab
+8102D126:Silver Scarab
+8102D1C8:Facility Hub Portal Gem
+805EB1A1:Chandelier
+8102D11A:Foci of Artifice
+8102D122:Coalesced Aetheria
+8102D123:Coalesced Aetheria
+8102D127:Copper Scarab
+8102D128:Iron Scarab
+8102D12B:Lead Scarab
+8102D1B5:Greater Mana Stone
+8102D12E:Scroll of Destructive Curse VI
+8102D13F:Fire Elemental Essence (50)
+8102D1AD:Snowball
+805EB1A3:Wisp
+868BE5E2:Major Mana Stone
+8102D1C3:Twisted Dark Key
+8102D1C4:Twisted Dark Key
+8102D1C9:Peppermint Stick
+903FC5BE:Chevron Cloak
+8102D1BC:Ring
+8102D1BE:Baggy Shirt
+805EB18A:Chandelier
+8102D1CB:Little Green Seeds
+868B2152:Major Mana Stone
+868B931B:Major Mana Stone
+805EB1AC:Tumerok
+ADE4EFF1:Quill of Introspection
+AE3B41D8:Ink of Formation
+AFAE66CD:Twisted Dark Key
+8102D1BF:Pathwarden Trinket
+8102D16F:Scroll of Corrosion VI
+8102D14B:Scroll of Weakening Curse VI
+805EB1A0:Margul
+8102D17E:Ring
+8102D14C:Scroll of Festering Curse IV
+8102D184:Piercing Sceptre
+8102D170:Scroll of Nether Bolt IV
+8102D188:Mechanical Scarab
+8102D18F:Leather Boots
+8102D190:Teardrop Crown
+8770D101:Coral Heart
+8777AD70:Coral Heart
+8102D194:Halaetan Magic Page 6
+8102D16C:Scroll of Destructive Curse VI
+8102D1A0:Great Mana Charge
+8102D19F:Mug
+8102D1A4:Brown Beans
+8102D1AE:Leather Leggings
+8102D1B1:Quartered Cloak
+8102D175:Scroll of Lure Blade VI
+8102D1C6:Scroll of Whirling Blade IV
+B003C12B:Trident
+930EA3B0:Fire Trident
+811D1B87:Flaming Mazule
+8102D174:Aura of Heartseeker Self VI
+B00611EC:Lightning Nabut
+805B7A4B:Flaming Nekode
+B0003866:Flaming Long Sword
+805EB189:Ursuin
+8102D176:Scroll of Nullify Item Magic
+805EE8FF:Frost Nekode
+B005BFFE:Stick
+B010EC89:Flaming Dirk
+B0131A9C:Aphus Lassel Portal Gem
+805EB1A5:Into the Unknown
+92FCC702:Flaming Nabut
+81039618:Staff
+81039617:Staff
+805EF4CC:Shoes
+8103961A:Staff
+8103963B:Nether Baton
+805EB197:Olthoi Enslavement
+805EB19F:Chandelier
+805EF4CE:Chainmail Leggings
+805EF4CB:Covenant Breastplate
+805EB1A8:Chandelier
+805EF4DB:Knorr Academy Greaves
+805EF4DA:Platemail Greaves
+805EB1A6:Doll
+805EF4D9:Chainmail Girth
+805EF4D7:Nariyid Sleeves
+805EB1A7:Ghost
+805EF920:Jerkin
+805EB195:Lugian
+805EF91F:Baggy Tunic
+805EF91E:Studded Leather Sleeves
+805EF91C:Leather Pauldrons
+805EF91B:Amuli Coat
+805EB198:Crystal
+805EF918:Olthoi Helm
+805EF914:Lace Shirt
+805EB199:Banderling
+805EF8E1:Sandals
+805EB187:Mukkir
+805EF8AC:Doublet
+805EB18E:Chittick
+805EB18F:Mite
+805EB18D:Snowman
+805EB185:Fiun
+805EB186:Undead
+805EB19A:Scarecrow
+805EB1AA:Idol
+
+Missing Exports - Possessed items that were not found:

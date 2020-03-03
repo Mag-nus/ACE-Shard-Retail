@@ -1,0 +1,48 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\pkt_2017-1-30_1485843220_desc\pkt_2017-1-30_1485843220_log.pcap
+
+Partial Exports - Missing appraisal info:
+ADF96701:Baggy Shirt
+ADF966EF:Wide Breeches
+ADF95EB6:Leather Boots
+ADF965E4:Foci of Artifice
+ADF96664:Foci of Verdancy
+ADF96631:Prismatic Taper
+ADF96680:Lead Scarab
+ADFCAB7E:Sack
+ADF966AC:Plain Healing Kit
+ADF965DF:Greeter's Key
+ADF96543:Quartermaster's Workshop Key
+ADF96626:Academy Mana Potion
+ADF966BF:Pyreal
+ADFB69D5:Chainmail Leggings
+ADF96639:Chainmail Girth
+ADF95B85:Bread
+ADF96662:Studded Leather Cowl
+ADF931F5:Brimstone-cap Mushroom
+ADF96685:Arrow
+ADF95A94:Grapes
+ADF96615:Old Lucky Gold Letter
+ADF96698:Cheese
+ADF9663F:Cabbage
+ADF9662E:Aluvian Wand
+ADF9666C:Pack Bael'Zharon
+ADFCAC79:Some Changes for February 2012
+ADF96708:Blackmoor's Favor
+ADF98531:Pyreal
+ADF98FCE:Pyreal
+ADFB6D2E:Pyreal
+ADF79F39:Pyreal
+ADEE2E9D:Pyreal
+ADF98DC0:Pyreal
+ADF98D6E:Pyreal
+ADF98D88:Pyreal
+ADF98B8F:Pyreal
+ADF96530:Pyreal
+ADF988ED:Pyreal
+ADF990B7:Pyreal
+ADF7A865:Pyreal
+ADF95B6E:Academy Ken
+ADF95B8A:Large Round Shield
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,77 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-29_1485724147_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485766296_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-26_1485461087_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-27_1485515049_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-27_1485526404_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-28_1485591058_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-28_1485591058_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-30_1485768370_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-30_1485768370_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-28_1485614877_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-30_1485776991_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-26_1485427639_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-26_1485427639_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-31_1485872097_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-29_1485678323_log.pcap
+
+Partial Exports - Missing appraisal info:
+C8398A62:Pyreal
+C8398A61:Pyreal
+801AAB8A:Butter Knife of Slaying
+801AAB97:Crown
+801AAB99:Crown
+801AAB9D:Diadem
+801AAB9C:Teardrop Crown
+801AAB9B:Teardrop Crown
+801AABA1:Circlet
+801AAB8F:Diadem
+90455B94:Diadem
+88F6E050:Observer's Crystal
+801A963B:Brawler's Crystal
+801AABFB:Ben Ten's Crystal
+801AABA9:Colosseum Coin
+C835A257:Mana Forge Key
+C838B44F:Mana Forge Key
+801AABA5:Ancient Mhoire Coin
+801AABA6:A'nekshay Token
+801AABAB:Bracelet of Passage
+801AABAD:Ring of the Whispering Blade
+801AABB1:Gem of Purity
+801AABB4:Ring of the Summoning Adepts
+801AABB2:Gem of Stillness
+801AABB9:Blackmoor's Favor
+AF35E555:Dire Champion Token
+801AABBC:Splitting Tool
+801AABB6:Foci of Enchantment
+801AABD4:Diamond Scarab
+801AABD6:Pyreal Scarab
+801AABD7:Gold Scarab
+801AABD8:Silver Scarab
+801AABD9:Iron Scarab
+801AABDA:Lead Scarab
+801AABDB:Copper Scarab
+801AABDD:Vissidal Island Portal Gem
+801AABB3:Shoyanen's Portal Gem
+801AABAF:Shadow Lugian Stronghold Portal Gem
+8EDE2C1E:Celdiseth's Portal Gem
+C8398A60:Pyreal
+C78CC789:Prismatic Taper
+907CA4D3:Wrapped Bundle of Arrowshafts
+801AABC4:Flanged Mace
+907B1BD1:Wrapped Bundle of Deadly Lightning Arrowheads
+9167D95D:Wrapped Bundle of Deadly Frost Arrowheads
+8C924397:Acid Bow
+C838C359:Pyreal
+801AABC7:Electric Spine Glaive
+801AABC5:Flaming Stick
+B4819F31:Buckler
+90D3C47E:Ring
+B7B73930:Wrapped Bundle of Deadly Fire Arrowheads
+B8963630:Spine Glaive
+801AABC9:Kaskara
+AF4DE9E0:Foci of Artifice
+
+Missing Exports - Possessed items that were not found:

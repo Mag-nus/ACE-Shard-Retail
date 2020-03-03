@@ -1,0 +1,7 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap6\pkt_2017-1-27_1485580159_log.pcap
+
+Partial Exports - Missing appraisal info:
+C66B814D:Foci of Strife
+
+Missing Exports - Possessed items that were not found:

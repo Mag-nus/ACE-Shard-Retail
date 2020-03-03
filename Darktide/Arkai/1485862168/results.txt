@@ -1,0 +1,30 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Cyberkiller-01-31-2017-Random\pkt_2017-1-31_1485862162_log.pcap
+
+Partial Exports - Missing appraisal info:
+D88D5259:Pyreal
+D88D5272:Rowan Talisman
+D88D5230:Quicksilver
+D88D5286:Powdered Moonstone
+D88D528B:Powdered Agate
+D88D5297:Powdered Hematite
+D88D525D:Yew Talisman
+D88D526F:Realgar
+D88D5244:Poplar Talisman
+D88D529D:Cedar Talisman
+D88D5222:Hyssop
+D88D51FA:Powdered Amber
+D88D5271:Willow Talisman
+D88D529B:Colcothar
+D88D529C:Wormwood
+D88D5255:Lead Scarab
+D88D526D:Ginseng
+D88D523F:Powdered Onyx
+D884E8AE:Cobalt
+D88D52A7:Ebony Talisman
+D88D528D:Welcome Letter
+D88D526B:Sack
+D88D5243:Greeter's Key
+D88D5268:Some Changes for February 2012
+
+Missing Exports - Possessed items that were not found:

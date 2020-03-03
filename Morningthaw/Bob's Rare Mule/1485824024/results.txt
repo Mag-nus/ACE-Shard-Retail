@@ -1,0 +1,130 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Immortalbob-1-31-17-Random-Pcaps\pkt_2017-1-30_1485824014_log.pcap
+
+Partial Exports - Missing appraisal info:
+80532164:Sack
+80573C4C:Ust
+80524A0E:Facility Hub Portal Gem
+BAFCA09C:Pyreal
+8D5D44D7:Warrior's Jewel
+975DDCE4:Artificer's Crystal
+96915A8F:Physician's Crystal
+99ECAE01:Knight's Crystal
+80D5DA30:Fletcher's Crystal
+80D5DA2F:Warrior's Crystal
+80D5DA44:Corruptor's Crystal
+A2DE1581:T'ing's Crystal
+AE043C1D:Enchanter's Crystal
+AFB0C75B:Zefir's Crystal
+AB3AD631:Pearl of Swift Killing
+AB2D994B:Hunter's Crystal
+B33394F0:Berzerker's Crystal
+908CA8DB:Rogue's Crystal
+B63573A8:Alchemist's Crystal
+B63938A2:Observer's Crystal
+981783BC:Life Giver's Crystal
+B7D476B9:Adherent's Crystal
+B7C98DF6:Pearl of Frost Baning
+BCC2D4D5:Pearl of Hermetic Linking
+BD246645:Oswald's Crystal
+8721DF5A:Thorsten's Crystal
+87234750:Thorsten's Crystal
+872291C2:Thorsten's Crystal
+804F84B8:Tinker's Crystal
+80524091:Tinker's Crystal
+804F85FD:Imbuer's Crystal
+804A2B51:Artist's Crystal
+80525199:Smithy's Crystal
+804AC267:Monarch's Crystal
+8057355B:Evader's Crystal
+80501FB8:Chef's Crystal
+87C998EB:Vaulter's Crystal
+B12E148A:Resister's Crystal
+80532324:Pack
+805321CD:Executor's Jewel
+95152E33:Archer's Jewel
+80025E9D:Olthoi's Jewel
+80573DF3:Inferno's Jewel
+801F072C:Astyrrian's Jewel
+8056B87B:Gelid's Jewel
+80508DE7:Tusker's Jewel
+80507A83:Duelist's Jewel
+804E5D41:Lich's Pearl
+804E54A5:Magus's Pearl
+80573D35:Sprinter's Pearl
+80508C5A:Wayfarer's Pearl
+80532845:Ursuin's Pearl
+80532624:Lugian's Pearl
+80443599:Pearl of Impenetrability
+80532602:Pearl of Heart Seeking
+805105A1:Pearl of Defending
+804F8DB8:Pearl of Blood Drinking
+801C17C2:Pearl of Spirit Drinking
+80525458:Refreshing Elixir
+805327B1:Refreshing Elixir
+8056AE6C:Refreshing Elixir
+8043EABF:Medicated Mana Kit
+804F88AB:Refreshing Elixir
+80572FD5:Refreshing Elixir
+805737FC:Medicated Mana Kit
+8056ACBE:Refreshing Elixir
+804F8D84:Miraculous Elixir
+804F2BB8:Medicated Mana Kit
+805322D6:Miraculous Elixir
+8049EBB9:Miraculous Elixir
+805242FD:Medicated Mana Kit
+8053244F:Invigorating Elixir
+8056B7D7:Invigorating Elixir
+BD49CF9E:Pack
+80507AD6:Invigorating Elixir
+80531E29:Invigorating Elixir
+BD52B382:Pack
+80525868:Medicated Mana Kit
+80573DF2:Medicated Mana Kit
+80524E64:Medicated Health Kit
+8056BAFE:Medicated Health Kit
+805323DB:Medicated Health Kit
+80531EE1:Medicated Health Kit
+804DF801:Medicated Health Kit
+80444D73:Medicated Health Kit
+804DDC45:Medicated Health Kit
+80507111:Medicated Stamina Kit
+8050ED60:Medicated Stamina Kit
+8056B0AA:Medicated Stamina Kit
+8049EE3D:Medicated Stamina Kit
+8056B143:Medicated Mana Kit
+804B7827:Refreshing Elixir
+826B03F8:Miraculous Elixir
+95196E54:A'nekshay Token
+9518A639:Small Olthoi Venom Sac
+B0A6A6F9:Medicated Stamina Kit
+951C2B22:Ancient Mhoire Coin
+87243FE9:Medicated Health Kit
+871B67DC:Medicated Health Kit
+87244E50:Medicated Stamina Kit
+871C4103:Hieromancer's Crystal
+87037494:Brawler's Crystal
+872291C4:Elysa's Crystal
+855BCE9D:Pearl of Bludgeon Baning
+872291BF:Elysa's Crystal
+871D5F08:Deceiver's Crystal
+87243ED6:Converter's Crystal
+871A635F:Elysa's Crystal
+871B7509:Thorsten's Crystal
+86F8C5EB:Ben Ten's Crystal
+87243ED0:Pearl of Acid Baning
+870DDF44:Pearl of Flame Baning
+871B6F00:Pearl of Lightning Baning
+86FE979E:Pearl of Pierce Baning
+86F72DEC:Mage's Jewel
+855BCE9C:Melee's Jewel
+87243EBE:Medicated Stamina Kit
+87243EC1:Medicated Mana Kit
+87243EBF:Refreshing Elixir
+87243EC0:Refreshing Elixir
+87234751:Invigorating Elixir
+8705C739:Miraculous Elixir
+844D0739:Weeping Ring
+8000C8C6:Brador's Frozen Eye
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,25 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-packet-logs\pkt_2017-1-30_1485810229_log.pcap
+
+Partial Exports - Missing appraisal info:
+AE76FE1D:Pyreal
+AE76FE1E:Sack
+AE76FE1F:Ust
+AE76FE21:Pathwarden Token
+AE76FE23:Handy Healing Kit
+AE76FE24:Handy Healing Kit
+AE76FE25:Letter From Home
+AE76FE26:Bread
+AE7C610C:Blackmoor's Favor
+AE7C6193:Oil of Rendering
+AE7C5EA2:Oil of Rendering
+AE7D9AEB:Academy Coat
+AE7D9AEC:Facility Hub Portal Gem
+808032BE:Treated Healing Kit
+808032BD:Treated Healing Kit
+80803326:T'ing's Crystal
+808032D0:Treated Healing Kit
+AE5E0086:Stamina Tincture
+AE4A4346:Pearl of Blood Drinking
+
+Missing Exports - Possessed items that were not found:

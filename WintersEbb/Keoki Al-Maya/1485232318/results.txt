@@ -1,0 +1,104 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\pkt_2017-1-23_1485232301_log\pkt_2017-1-23_1485232301_log.pcap
+
+Partial Exports - Missing appraisal info:
+A55E3451:Kai's Reward Gem
+A55E3F26:Ust
+A56145DA:Pyreal
+A560B14A:Ecorto's Chisel
+A5614141:Gem of Impulse
+A55E3ED0:Abandoned Mines Portal Sending Gem
+A55E3F96:Prismatic Taper
+A5478BF7:Platinum Scarab
+A55B7DC6:Splitting Tool
+A55E3480:Foci of Strife
+A560B17D:Greater Mana Stone
+A5614F85:Foci of Enchantment
+A5614DE0:Foci of Artifice
+A5615633:Foci of Verdancy
+A55CB0BC:Virindi Singularity Key
+A561508A:Virindi Singularity Key
+A559F46B:Virindi Directive Key
+A55E3E67:Virindi Directive Key
+A5614854:Virindi Directive Key
+A55E36E6:Virindi Singularity Key
+A5605CB5:Virindi Directive Key
+A5615137:Virindi Singularity Key
+A55E344B:Virindi Singularity Key
+A5614FA8:Virindi Singularity Key
+A5614EEA:Virindi Directive Key
+A5615027:Virindi Singularity Key
+A5614F93:Shirt
+A55E4004:Lead Scarab
+A5615358:Iron Scarab
+A55E3B67:Silver Pea
+A55E406E:Gold Scarab
+A55E3F5F:Copper Scarab
+A55E3FC8:Copper Pea
+A5614FDF:Pyreal Scarab
+A5614FF5:Silver Scarab
+A5605D67:Galvanic Bracelet
+A5614840:Singularity Keyring
+A561502B:Diamond Scarab
+A5614DC1:Pyreal Pea
+A5504238:Trade Mana Elixir
+A55CB0B1:Pantaloons
+A5614FFE:Scalemail Basinet
+A5615103:Greater Mana Stone
+A5615005:Gem of Stillness
+A55E36F8:Greater Mana Stone
+A55E3F7E:Salvaged  (14)
+A5614DD6:Pyreal
+A5614FDD:Salvaged  (70)
+A5615339:Salvaged  (7)
+A5614833:Salvaged  (79)
+A55E36FB:Salvaged  (7)
+A5615006:White Bunny Slipper
+A55FE244:Salvaged  (21)
+A5614E40:Trade Note (250,000)
+A5614A74:Marble Key
+A559F46A:Vial of Organic Acid
+A55E40BC:Salvaged  (7)
+A55FE1CA:Marble Key
+A5614D86:Salvaged  (86)
+A5614C43:Salvaged  (15)
+A55E3FE3:Salvaged  (88)
+A56150E0:Salvaged  (47)
+A5614E9F:Pyreal
+A56011CF:Salvaged  (56)
+A55E3C21:Small Bundle of Kithless Siraluun Feathers
+A5614A6A:Pyreal
+A5615004:Celdon Sleeves
+A55E34C5:Sollerets
+A5615572:Pyreal
+A561510E:Chainmail Breastplate
+A5615282:Berimphur Plant
+A55FBCF2:Pyreal
+A561566E:Pyreal
+A55CF285:Pyreal
+A55FBD15:Pyreal
+A561535C:Pyreal
+A55E3BC8:Pyreal
+A55DEF77:Pyreal
+A55DEBD0:Pack Asheron
+A5669AC9:Minor Mana Stone
+A55DC298:Some Changes for February 2012
+A561557A:Blackmoor's Favor
+A56154F4:Elemental Master Robe
+A566555E:Mud Golem Essence
+A5666BA8:Contract for Sea Temple Catacombs
+A5666BA3:Contract for Under Cove Crypt
+A5666B5F:Contract for Sea Temple Catacombs
+A5669B57:Scroll of Infuse Health II
+A524E582:Scroll of Deception Mastery Other IV
+A563935E:Crown
+A56392F7:Bracelet
+A5669C11:Fire Zombie Essence (50)
+A5669C52:Stamina Elixir
+A5669C9D:Gem
+A566A156:Health Draught
+A563998E:Lead Pea
+A56399CD:Lightning Moar Essence (50)
+A5669B5D:Pyreal Mote
+
+Missing Exports - Possessed items that were not found:

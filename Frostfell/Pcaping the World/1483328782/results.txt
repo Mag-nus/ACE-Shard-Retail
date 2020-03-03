@@ -1,0 +1,25 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\wireshark exported pcaps\newchartest.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\wireshark exported pcaps\newchar test.pcap
+
+Partial Exports - Missing appraisal info:
+DA72C79E:Doublet
+DA72C79F:Trousers
+DA72C7A0:Shoes
+DA72C7A1:Pyreal
+DA72C7A2:Sack
+DA72C7A3:Ust
+DA72C7A4:Calling Stone
+DA72C7A5:Pathwarden Token
+DA72C7A6:Training Dirk
+DA72C7A8:Arrow
+DA72C7A7:Training Shortbow
+DA72C7A9:Round Shield
+DA72C7AA:Handy Healing Kit
+DA72C7AB:Letter From Home
+DA72C7AC:Bread
+DAEF304D:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

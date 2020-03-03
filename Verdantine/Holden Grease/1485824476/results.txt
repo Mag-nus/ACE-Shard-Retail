@@ -1,0 +1,48 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap2\pkt_2017-1-30_1485823597_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap1\pkt_2017-1-29_1485721132_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap2\pkt_2017-1-29_1485739902_log.pcap
+
+Partial Exports - Missing appraisal info:
+84BE54F4:Pyreal
+84BD5DDF:Sack
+84BD5ED9:Ust
+84BD5F99:Prismatic Taper
+84B99327:Lead Scarab
+84BD5F23:Crude Lockpick
+84BD5E0D:Handy Healing Kit
+84BE534B:Facility Hub Portal Gem
+84BE534D:Pack
+84BE534E:Note
+84BD5F25:Pack
+84BAA60D:Pack
+84BE5359:Pack
+84BE5351:Pack
+84BE534F:Asheron's Report
+84BE5350:Benedino's Letter
+84BE5529:Great Mana Charge
+801DB985:Marble Key
+80CE32B4:Hardy Gromnie Hide
+80CE1F42:Small Shard
+805E55B8:Rare Pink Pack Idol
+80CE23D9:Silk
+8042D1B4:Tipped Pack Cow
+801D7E0D:Crystal Fragment
+804308FE:Pyreal Mote
+801D7DE5:Azure Gromnie Wings
+801D7DEE:Yellow Jewel
+801D7DE4:Small Shadow Statue of the Hopeslayer
+801D7E15:Magic Iceball
+801D7E13:A Frozen Note
+85F71255:Evader's Crystal
+8811E097:Vaulter's Crystal
+86210D35:Elysa's Crystal
+83CAB2E8:Black Marrow Keyring
+83CAB318:Black Marrow Keyring
+83CAB299:Black Marrow Keyring
+8808B46E:Fletcher's Crystal
+91E52E39:Tinker's Crystal
+
+Missing Exports - Possessed items that were not found:

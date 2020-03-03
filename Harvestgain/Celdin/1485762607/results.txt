@@ -1,0 +1,194 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485762539_log.pcap
+
+Partial Exports - Missing appraisal info:
+8960BAF1:Sack
+8AFFD3AB:Blackmoor's Favor
+8A965693:Asheron's Benediction
+8A9BBA0E:Facility Hub Portal Gem
+8960BAFB:Lead Scarab
+8960BAF2:Ust
+8CA420BA:Lead Pea
+8D188444:Copper Scarab
+8D0D3358:Iron Pea
+8D1F5D9F:Iron Scarab
+8D1F60BE:Silver Scarab
+8D15F3DF:Pyreal
+8D341482:Copper Pea
+8D55FC44:Trade Note (250,000)
+8D385B4C:Prismatic Taper
+8D4FE63B:Shoyanen's Portal Gem
+8D4E5708:Trade Note (50,000)
+8D721025:A Large Mnemosyne
+8DC00BFF:Trade Note (75,000)
+8DC6D9A4:Prismatic Taper
+8DC6E6E6:Splitting Tool
+8D303645:Intricate Carving Tool
+90C47ED5:Gold Scarab
+90D9A29A:Pyreal Scarab
+8D11A4AD:A Small Mnemosyne
+8960BAF7:Foci of Verdancy
+8960BAF8:Foci of Artifice
+8960BAF9:Foci of Shadow
+8960BAFD:Bread
+8A9C404C:Pack
+8AFD51B5:Stipend
+8D4075B6:Evil Couch
+801B0C16:Nether Sceptre
+801B0C15:Nether Baton
+8D41F964:Drudge Fight
+8D532D54:Gem of Stillness
+8D3C2B2A:Moderate Mana Stone
+8D534690:Gem of Purity
+90C1638B:Dansha-Ki's Gem of Portal Recall
+805EF49E:Scroll of Flame Streak VI
+90C8B53C:Antiquated Compass
+90C864E4:Nether Baton
+8A9C406D:Pack
+801B0C1A:Sceptre
+8D13B28C:Sceptre
+8D3052FC:Wand
+8ED5B544:Ring
+801A9B4F:Nether Sceptre
+801A9B48:Nether Sceptre
+8D3590F4:Greater Mana Stone
+8E322D96:Ring
+8DFC205A:Ring
+805EF49A:Scroll of Acid Lure VI
+80FA0D55:Bordered Cloak
+9023CF45:Armet
+9023CF4D:Nether Baton
+9023CF70:Ornate Gear Marker
+8D2FCC25:Token of Modification
+9023CF6F:Mana Forge Key
+8D2EE0C6:Aura of Defender Self VI
+8D284C76:Scroll of Focus Other VI
+8DE9907D:Scroll of Resist Magic Self VI
+8D1F23B4:Scroll of Arcane Enlightenment Self VI
+805EF499:Scroll of Nullify Item Magic
+8C8C1544:Lightning Phyntos Wasp Essence (50)
+8C9A3210:Acid Grievver Essence (50)
+8CA066C8:Fire Spectre Essence (50)
+8CA04BC9:Fire Phyntos Wasp Essence (50)
+8CA603AF:Scroll of Focus Other III
+8D11A926:Frost Zombie Essence (50)
+8A9C387D:Academy Wand
+8C54B7DA:Frost Phyntos Wasp Essence (50)
+8ED7B86F:Frost Phyntos Wasp Essence (125)
+8ED47351:Fire Moar Essence (100)
+8ED65DD9:Lightning Moar Essence (125)
+8A9C408C:Pack
+8D527DD3:Parchment
+8D3C4223:Ring of Piercing Protection
+8A4F4B9E:Pathwarden Robe
+8D3C4225:Treated Healing Kit
+914CDA10:Bloodied Burun Hide
+9157A5CB:Bloodied Burun Hide
+915838D3:Yoroi Pauldrons
+8DD713A0:Fire Sceptre
+8D5BCE31:Nether Sceptre
+8D3C4226:Treated Healing Kit
+8D5E3A03:Nether Sceptre
+8D6D4B65:Nether Sceptre
+90B08EC3:Nether Sceptre
+8EC12423:Nether Baton
+8F7524F9:Nether Baton
+8E009A31:Nether Baton
+805EF4C0:Acid Baton
+810395E1:Nether Sceptre
+8D2904F5:Moderate Mana Stone
+805EF4B6:Frost Sceptre
+805EF4B8:Acid Baton
+805EF4B9:Piercing Sceptre
+805EF4BA:Acid Sceptre
+805EF4BC:Fire Sceptre
+805EF4BB:Electric Sceptre
+805EF4BD:Fire Sceptre
+8D1E256E:Gem
+8DEFEA61:Nether Sceptre
+8D064E48:Gem
+8D1C1584:Gem
+8DBD51E0:A Book of Quests for Young Explorers
+8D8B3901:Artificer's Crystal
+8DC389B2:Encapsulated Spirit
+90C673EA:Nether Sceptre
+90C51241:Nether Sceptre
+90C46F14:Nether Baton
+90C23FF0:Vaulter's Crystal
+90C8B356:Gonjoku's Mana Infusion
+90C9F233:Refreshing Water
+90C9E5E7:Black Page of Salt and Ash
+805EF4FF:Scroll of Lightning Arc VI
+915BCC43:Interview with the Mosswart
+8684B0FA:Pathwarden Trinket
+8F66A5C4:Vestiri Over-robe
+8D6DF68E:Turban
+8EF793A8:Loose Breeches
+8EECA7FE:Platemail Gauntlets
+8F923711:Halved Cloak
+8103962D:Chevron Cloak
+805EF4F1:Sickly Wisp Heart
+8EDF6AE2:Studded Leather Girth
+8103963A:Baggy Pants
+8E7F0F9C:Baggy Breeches
+8E603078:Shirt
+8DFAC420:Baggy Pants
+8E6010DA:Olthoi Amuli Leggings
+8E1019E9:Covenant Tassets
+805EF4EA:Nekode
+81027B9A:Atlatl
+805EF4EB:Claw
+805EF4F5:Amulet
+81039634:Long  Gauntlets
+81039639:Loose Shirt
+805EF4CA:Shirt
+805EF4D4:Shirt
+810395DE:Deceiver's Crystal
+810395DF:Observer's Crystal
+805EF4B7:Blunt Baton
+810395DD:Sprinter's Pearl
+8103962E:Fire Baton
+AE6CD17F:Gem of Purity
+810395E4:Gem of Purity
+AE736978:Gem of Stillness
+81027B93:Lightning Dirk
+81027BCA:Lightning Dirk
+81027BCB:Frost Dirk
+81027BCC:Acid Dirk
+81027BCD:Acid Dirk
+81027B9B:Tusker Spit
+8F325871:T'ing's Crystal
+8D6A8C5E:Covenant Helm
+805EF8CD:Ring
+810395DC:Thief's Crystal
+810395E0:Monarch's Crystal
+8EF116A2:Covenant Girth
+8D6D4135:Ring
+81027BB5:Dirk
+805EF4BF:Piercing Baton
+805EF4BE:Fire Baton
+81039628:Staff
+81039629:Staff
+805EF4F0:Hieromancer's Orb
+8ED5E086:Frost Phyntos Wasp Essence (125)
+805EF4B5:Frost Claw
+805EF4EC:Spine Glaive
+B00FDABB:Aphus Lassel Portal Gem
+81027B77:Dirk
+805EF8A3:Bracelet
+805EF8FE:Blunt Atlatl
+805EF8CE:Claw
+81027B94:Flaming Dirk
+81027B7C:Sword of Lost Light
+81027B9C:Moarsmuck
+81027B75:Flaming Dericost Blade
+81027BC6:Faran Item Master Robe
+81027BD8:Chainmail Basinet
+805EF8D0:Compass
+805EF8D5:Bracelet
+805EF8D4:Orb
+805EF8D6:Sceptre
+805EF8DC:Heavy Bracelet
+805EF8AD:Amulet
+
+Missing Exports - Possessed items that were not found:

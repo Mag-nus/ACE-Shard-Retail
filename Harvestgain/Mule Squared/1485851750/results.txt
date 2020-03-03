@@ -1,0 +1,105 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-31-2017-pkt_2017-1-31_1485847270_log\pkt_2017-1-31_1485847270_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-29-2017-pkt_2017-1-29_1485735637_log\pkt_2017-1-29_1485735637_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-29-2017-pkt_2017-1-29_1485744836_log\pkt_2017-1-29_1485744836_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-31-2017-pkt_2017-1-31_1485847270_log\pkt_2017-1-31_1485847270_log.pcap
+
+Partial Exports - Missing appraisal info:
+C7C43645:Slippers
+C7C43646:Tipped Pack Cow
+C7C43647:Noble Helm
+C7C43648:Cooking Pot
+C7C4364A:Chorizite Fletching Tool
+C7C4364B:Sacraloi
+C7C4364C:Halaetan Magic Page 8
+C7C4364D:Halaetan Magic Page 6
+C7C4364E:Intricate Carving Tool
+C7C4364F:Blunt Compound Crossbow
+C7C43650:Quintessence Sickle
+C7C43652:Staff of the Fallen
+C7C43653:Staff of the Fallen
+C7C43654:Sturdy Steel Key
+C7C43655:Pack Asheron
+C7C43657:Bronze Round Shield
+C7C43659:Staff of the Fallen
+C7C4365B:Jerkin
+C7C43661:Slashing Crossbow
+C7C43662:Isparian Weapons Modifying Tool
+C7C43664:Dark Sorcerer's Phylactery
+C7C43665:Virindi Inquisitor's Mask
+C7C43666:Virindi Consul Mask
+C7C43667:Covenant Helm
+C7C43682:Doppelganger Shield
+C7C4366B:Covenant Pauldrons
+C7C43670:Frost Ono
+C7C4366C:Covenant Gauntlets
+C7C4366D:Covenant Tassets
+C7C4366F:Flaming Kaskara
+C7C43672:Stick
+C7C43673:War Hammer
+C7C43674:War Hammer
+C7C43675:Yag
+C7C43676:Heavy Crossbow
+C7C43677:Heavy Crossbow
+C7C43678:Heavy Crossbow
+C7C43679:Gauntlets of Marksmanship
+C7C4367A:Bandana
+C7C4367B:Quintessence Sickle
+C7C4367C:Shirt
+C7C43695:Charged Shard
+C7C4367D:Pantaloons
+C7C4367F:Energy Crown
+C7C43680:Doppelganger Robe
+C7C43681:Doll Mask
+C7C43683:War Hammer
+C7C43684:Flaming Shamshir
+C7C43685:Kaskara
+C7C43686:Frost Knuckles
+C7C43687:Frost Nekode
+C7C43688:Cestus
+C7C4368D:Dho War Master Robe
+C7C43690:Bathrobe
+C7C43696:Chilled Shard
+C7C43697:Seared Shard
+C7C43698:Pack Golem
+C7C4369A:Electric Crossbow
+C7C4369B:Heavy Crossbow
+C7C4369C:Horned Lugian Helm
+C7C4369D:White Rabbit Carcass
+C7C4369F:Taulandoi
+C7C436A0:Knath Head
+C7C436A2:Chorizite Veined Shield
+C7C436A3:Ebon Mattekar Hide
+C7C436A4:Bronze Short Sword
+C7C436A7:Dagger of the Quiddity
+C7C436A8:Ancient Armored Helm
+C7C436A9:Scroll of Olthoi's Gift
+C7C436AA:Chilled Shard
+C7C436AB:Blackmoor's Favor
+C7C436AD:Gauntlets of Marksmanship
+C7C436AE:Scrawled Note
+C7C436AF:Asheron's Benediction
+C7C436B0:Aura of Mystic's Blessing
+C7C436B1:Covenant Sollerets
+C7C436B2:Halaetan Magic Page 6
+C7C436B3:Blunt Crossbow
+C7C436B7:East Gate Harmonic Crystal
+C7C436B9:Asheron's Supreme Raiment
+C7C436BA:Sturdy Iron Key
+C7C436BB:Sturdy Iron Key
+C7C436BD:Gem of Mana Management
+C7C436CB:Pyreal
+C7C436C3:Frost Lugian Hammer
+C7C436C9:Flaming Takuba
+C7C436C5:Flared Pants
+C7C436C6:Loose Shirt
+C7C436C7:Olthoi Celdon Girth
+C7C436CC:Amulet of Dark Rage
+C8421988:Promissory Note
+C85CA7A1:Promissory Note
+C85C64BD:Promissory Note
+C85AF09B:Promissory Note
+
+Missing Exports - Possessed items that were not found:

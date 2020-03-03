@@ -1,0 +1,146 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-23_1485232865_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-31_1485854086_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-31_1485856541_log.pcap
+
+Partial Exports - Missing appraisal info:
+C4A079BE:Dryreach Key
+C49F5C28:Crystal Nodule
+C49F5CCB:Mattekar Hide Coat
+C49BA62A:Gem of Purity
+C4A079DF:Bracelet
+C49F5C38:The Healer's Heart
+C49E8C59:Old Lucky Gold Letter
+C49E9B9A:Gromnie Hide Shirt
+C4A05FFA:Key
+C4A05F30:Yoroi Leggings
+C4A079CF:Helm of the Simulacra
+C4A05F02:Pack
+C4A05ECD:Celdon Leggings
+C4A079CE:Lugian Warlord's Scepter
+C49BADEE:Copy of Witshire's Key
+C49F5C21:Copy of Witshire's Key
+C4A0344D:Frost Arrow
+C49B5E11:Skull Mask
+C4A03434:Drudge Head
+C49F5C78:Heavy Bracelet
+C49E9C4E:Amulet
+C49E9C92:Ursuin Hide Helmet
+C49E9BF4:Seal
+C49B8D18:Tiny Shard
+C4A079DB:Bludgeoning Sword
+C49F5C7C:Lead Scarab
+C49F5CE1:Pyreal
+C49BAD6D:Handy Healing Kit
+C49E8CBE:Heavy Gromnie Hide Leggings
+C4A05BC9:Shield of the Simulacra
+C4A063EE:Chilled Shard
+C49F5C3D:Diamond Shield
+C49F5BFB:Pack
+C49E9C37:Scroll of Primary Portal Recall
+C49F5B40:Scroll of Primary Portal Recall
+C49E9124:Scroll of Secondary Portal Tie
+C4A079CA:Scroll of Primary Portal Tie
+C49C71C9:Scroll of Summon Primary Portal I
+C4A079C7:Scroll of Lifestone Recall
+C4A079C9:Covenant Bracers
+C49BAE69:Pyreal Mote
+C49F5C1D:Trade Note (100,000)
+C49C9D22:Longbow
+C4A079AE:Dirk
+C49E97D1:Wand
+C49E9C66:Key
+C4A079B4:Diamond Shield
+C49B9CFF:Sliver of Singular Chorizite
+C4A079CD:Platemail Gauntlets
+C49F5CD9:Helm of the Elements
+C4A079C4:Pack
+C49F5BFA:Mattekar Hide Coat
+C49BAE8F:Frost War Axe
+C49F5CF9:Key
+C49E9C7A:Key
+C4992CEF:Shoes
+C4A079DD:Dryreach Key
+C4A079E1:Dryreach Key
+C49E9B57:Fenmalain Key
+C49F5CCE:Key
+C4A079E9:Gloves
+C49E9C25:Peerless Sparking Atlan Dagger
+C4A05BCA:Sturdy Iron Key
+C49B8EBC:Banderling Mask
+C49F5C75:Nekode
+C4A07A02:Hea Totem
+C4A05FC2:Oswald's Dagger
+C49CF948:Dryreach Key
+C4A05FD9:Gloves
+C49E9C31:Tusker Mask
+C49E2D9C:Puffy Tunic
+C4A079D7:Qafiya
+C49B22CF:Bread
+C49E8CC5:Welcome Letter
+C49E8D2A:Pyreal
+C49F5CCF:Pack
+C49E9C5A:Dryreach Key
+C49F5CD0:Pack Golem
+C49BA7B3:Dark Revenant Thighbone
+C4A05ABC:Ash Tooth Dagger
+C4A04417:Key
+C49BAA01:Acid Khanjar
+C4A07A06:Tunic
+C49E9CED:Steel Toed Boots
+C49E8CDB:Bracelet
+C4A05F70:Skeleton's Skull
+C49B9335:Empyrean Scalemail Shirt
+C49E8D29:Nabut
+C49B9E17:Pyreal
+C49E9C36:Pyreal Bar
+C4A05F3D:MacDugal's Key
+C492D51A:Pantaloons
+C49B92A0:Studded  Gauntlets
+C49E9145:Large Round Shield
+C49E910A:Obsidian Axe
+C49B1F5E:Claw
+C49F5CF1:Blackmoor's Favor
+C4A05F4E:Frost Tofun
+C4A06027:Crystal Sword
+C4A079DC:Sliver of Singular Obsidian
+C4A05F4C:Heavy Grinder
+C49E9C54:Searing Celdon Sleeves
+C4A079DA:Crest of Kings
+C4A05F56:Sliver of Singular Chorizite
+C4A05F2B:Covenant Helm
+C4A05F73:Shield of the Simulacra
+
+Missing Exports - Possessed items that were not found:
+C4A1139A
+C4A05FD5
+C49E9162
+C49E9C02
+C4A079D3
+C4A07986
+C49F5C1B
+C4A079C1
+C49F5C76
+C49BADC0
+C4A05341
+C49F5CB8
+C4A22AEE
+C4A079AB
+C4A05BC8
+C49E9C1A
+C49B9D46
+C49B6F51
+C49B92ED
+C4A05FCC
+C49E9B5F
+C49C6198
+C4A079B3
+C4A079B0
+C49FBA64
+C49E9133
+C4A079AD
+C49E8C90
+C49BAD6A
+C49D235B

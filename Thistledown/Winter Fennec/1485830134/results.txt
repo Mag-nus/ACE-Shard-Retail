@@ -1,0 +1,102 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-30-to-1-31\Bliz 1-30 to 1-31\pkt_2017-1-30_1485830131_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-24-to-1-29\Bliz 1-24 to 1-29\pkt_2017-1-27_1485551061_log.pcap
+
+Partial Exports - Missing appraisal info:
+83B78FC5:Flared Shirt
+83B79010:Viamontian Leggings
+83B78FEA:Calling Stone
+83B78FEF:Mud Golem Essence
+83B7571E:Pathwarden Trinket
+83B78FB5:Foci of Verdancy
+83B7575E:Foci of Enchantment
+83B15D3F:Foci of Artifice
+83B5C3DA:Blackmoor's Favor
+83B595D4:Facility Hub Portal Gem
+83B7901A:Reliable Lockpick
+83B75779:Trade Note (250,000)
+83B78F1C:Reliable Lockpick
+83B79000:Reliable Lockpick
+83B78FF7:Reliable Lockpick
+83B7903C:Encapsulated Spirit
+83B78FC6:Ruminations on Portal Creation
+83B75759:Sturdy Iron Key
+83B75778:Sturdy Iron Key
+83B79012:Elysa's Favor
+83B78FFD:Excellent Lockpick
+83B79032:Copper Scarab
+83B75720:Iron Scarab
+83B78FC3:Sandstone Golem Essence
+83B7570B:Academy Wand
+83B78FD0:Pyreal
+83B79046:Acid Grievver Essence (50)
+83B78FE4:Lightning Grievver Essence (50)
+83B7575C:Aphus Lassel Portal Gem
+83AF9757:Fenmalain Crystal Orb
+83B79002:Pack
+83B79016:Iron Scarab
+83B04323:Copper Scarab
+83B7571F:Lead Scarab
+83B79048:Prismatic Taper
+83B78DF5:Silver Scarab
+83B7570D:Gold Scarab
+83B78FCD:Pyreal Scarab
+83B78FF5:Platinum Scarab
+83B78FEB:Diamond Scarab
+83B75727:Pack
+83B78FD6:Weapon Tailoring Kit
+83B79051:Pack
+83B7575B:Great Mana Charge
+83B79082:Great Mana Charge
+83B7900A:Great Mana Charge
+83B39978:Great Mana Charge
+83B06694:Great Mana Charge
+83B78FC2:Great Mana Charge
+83B7570C:Great Mana Charge
+83B79040:Great Mana Charge
+83B79011:Great Mana Charge
+83B78FD3:Great Mana Charge
+83B75F7C:Great Mana Charge
+83B78FF8:Great Mana Charge
+83B75729:Great Mana Charge
+83B08D12:Great Mana Charge
+83B7575A:Great Mana Charge
+83B78FE9:Great Mana Charge
+83B7905C:Pack
+83B7905E:Massive Mana Charge
+83B79050:Massive Mana Charge
+83B79006:Massive Mana Charge
+83B7571B:Massive Mana Charge
+83B3997C:Massive Mana Charge
+83AD9F78:Massive Mana Charge
+83B15DBE:Massive Mana Charge
+83B06BDD:Massive Mana Charge
+83B78FEC:Massive Mana Charge
+83B75728:Massive Mana Charge
+83B79053:Shoyanen's Portal Gem
+83B79007:Adept Healing Kit
+83B78FF6:Adept Healing Kit
+83B0491E:Adept Healing Kit
+83B06BC9:Adept Healing Kit
+83B3999D:Saulandoi
+83B79057:Trade Note (200,000)
+83B79013:Lilitha's Bow
+83B5E29B:Pyreal
+83B7900E:Letter to Bretself the Translator
+83B79001:Copper Golem Essence
+83B258BD:Treated Healing Kit
+83B7574C:A Bracelet of Piercing Protection
+83B67D13:Treated Healing Kit
+83A73729:A Ring of Acid Protection
+83B67D14:Treated Healing Kit
+83B066D9:Treated Healing Kit
+83B7903F:Knorr Academy Girth
+83B7904E:Elemental Master Robe
+83B7905F:Pyreal
+83B78FFE:Elemental Master Robe
+83B7905A:Fire Grievver Essence (50)
+83B79009:Stipend
+
+Missing Exports - Possessed items that were not found:

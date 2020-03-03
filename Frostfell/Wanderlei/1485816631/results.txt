@@ -1,0 +1,59 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\imtrippin-01-30-2017-empyrean-workshop-and-more\pkt_2017-1-30_1485816108_log.pcap
+
+Partial Exports - Missing appraisal info:
+9F96442E:Ust
+9F964426:Treated Healing Kit
+9F964414:Treated Healing Kit
+9F96442D:Treated Healing Kit
+9F964425:Treated Healing Kit
+9F964435:Treated Healing Kit
+9F868091:Treated Healing Kit
+9F96441C:Treated Healing Kit
+9F866BC9:Treated Healing Kit
+9F96442C:Foci of Enchantment
+9F964424:Foci of Verdancy
+9F964434:Foci of Artifice
+9F9642CF:Pack
+9F96441B:Prismatic Taper
+9F96443F:Silver Scarab
+9F96442B:Copper Scarab
+9F964423:Pack
+9F96445C:Pack
+9F96444B:Aphus Lassel Portal Gem
+9F96444C:Blackmoor's Favor
+9F867922:Stamina Tincture
+9F96444A:Stamina Tincture
+9F96443D:Lair of The Homunculus
+9F96443B:Pack
+9F964446:Pyreal
+9F96445A:Ink of Objectification
+9F964461:Pyreal
+9F964458:Pyreal
+9F964451:Crystalline Shard
+9F964450:Pyreal
+9F964478:Pyreal
+9F964486:Pyreal
+9F96447E:Pyreal
+9F96446F:Copper Pea
+9F964460:Seeds of Anger
+9F96448D:Alacritous Ink
+9F96445E:Aura of Mystic's Blessing
+9F964444:Pyreal Golem Heart
+9F964476:Diamond Heart
+9F964456:Verdalim Plant
+9F96447C:Ink of Partition
+9F96446B:Diamond Powder
+9F96449C:Diamond Heart
+9F964494:Ink of Direction
+9F964483:Ink of Nullification
+9F96446C:Crystalline Shard
+9F96448C:Crystalline Shard
+9F96445D:Wrapped Bundle of Greater Blunt Arrowheads
+9F9644A3:Diamond Heart
+9F964474:Black Coral Keyring
+9F964507:Some Changes for February 2012
+9F85BFD8:Pyreal Mote
+9F964479:Quill of Introspection
+
+Missing Exports - Possessed items that were not found:

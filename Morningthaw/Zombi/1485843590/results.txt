@@ -1,0 +1,72 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\pkt_2017-1-30_1485843220_desc\pkt_2017-1-30_1485843426_log.pcap
+
+Partial Exports - Missing appraisal info:
+C6C6A79A:Baggy Shirt
+C6C6A79B:Loose Breeches
+C6C6A7A4:Sack
+C6C6A79C:Leather Boots
+C6C6A79D:Powdered Moonstone
+C6C6A79E:Poplar Talisman
+C6C6A79F:Lead Scarab
+C6C6A7A0:Hyssop
+C6C6A7A1:Powdered Hematite
+C6C6A7A2:Realgar
+C6C6A7A3:Rowan Talisman
+C6C6A7A5:Adept Healing Kit
+C6C6A7A6:Gifted Healing Kit
+C6C6A7A7:Shoushi Town Stamp
+C6C6A7A8:Shoushi Information Guide
+C6C6A7A9:A Book of Quests for Young Explorers
+C6C6A7AA:Adept Healing Kit
+C6C6A7AB:Gifted Healing Kit
+C6C6A7AC:Adept Healing Kit
+C6C6A7AD:Adept Healing Kit
+C6C6A7AE:Trade Note (100)
+C6C6A7AF:Sack
+C6C6A7B0:Bundle of Arrowshafts
+C6C6A7B1:Arrow
+C6C6A7B2:Arrow
+C6C6A7B3:Bundle of Arrowheads
+C6C6A7B4:Mugwort
+C6C6A7B5:Hawthorn
+C6C6A7B6:Chainmail Gauntlets
+C6C6A7BA:A torn note 
+C6C6A7B7:Chainmail Bracers
+C6C6A7B8:Chainmail Girth
+C6C6A7BB:Mana Draught
+C6C6A7B9:Chainmail Pauldrons
+C6C6A7BC:Worn Old Key
+C6C6A7BD:Old Scarlet Red Letter
+C6C6A7BE:Worn Old Key
+C6C6A7BF:Worn Old Key
+C6C6A7C0:Chainmail Coif
+C6C6A7C1:Gifted Healing Kit
+C6C6A7C2:Small Shreth Hide
+C6C6A7C3:Small Shreth Hide
+C6C6A7C4:Chainmail Leggings
+C6C6A7C5:Vitriol
+C6C6A7CA:Pyreal
+C6C6A7C6:Hyssop
+C6C6A7C7:Powdered Moonstone
+C6C6A7CC:Cheese
+C6C6A7C8:Powdered Carnelian
+C6C6A7C9:Stibnite
+C6C6A7CD:Shouyumi
+C6C6A7CB:Saffron
+C6C6A7CE:Cadmia
+C6C6A7CF:Cinnabar
+C6C6A7D0:Gem
+C6C6A7D1:Verdigris
+C6C6A7D2:Gem
+C6C6A7D3:Necklace
+C6C6A7D4:Chainmail Breastplate
+C6C6A7D5:Sho Wand
+C6C6A7D6:Arrow
+C6C6A7D7:Pack Grievver
+C6C6A7D8:Pack Gaerlan
+C6C6A7D9:Some Changes for February 2012
+C6C6A7DA:Blackmoor's Favor
+C6C6A7DB:Yumi
+
+Missing Exports - Possessed items that were not found:

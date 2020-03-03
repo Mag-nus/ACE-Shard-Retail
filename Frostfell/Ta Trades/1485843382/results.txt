@@ -1,0 +1,106 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485842556_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485842556_log.pcap
+
+Partial Exports - Missing appraisal info:
+B3E5DABA:Foci of Artifice
+B3E5DABB:Pack
+B3E5DABC:Gypsum Pea
+B3E5DABD:Cooking Pot
+B3E5DABE:The Healer's Heart
+B3E5DABF:Stibnite Pea
+B3E5DAC0:Excellent Lockpick
+B3E5DAC4:Eye Dropper
+B3E5DAC6:Concentrated Mana Infusion
+B3E5DAC7:Concentrated Lightning Infusion
+B3E5DAC8:Concentrated Fire Infusion
+B3E5DAC9:Concentrated Fire Oil
+B3E5DACD:Alembic
+B3E5DACE:Stipend
+B3E5DB25:Smelting Pot
+B3E5DB22:Sheet Metal Form
+B27D906A:Acid Compound Bow
+B29442F6:Stave of the Quiddity
+B3E5DACF:Foci of Enchantment
+B3E5DAD0:Foci of Verdancy
+B3E5DAD1:Pack
+B3E5DAD2:Gem of Purity
+B3E5DAD4:Platinum Scarab
+B3E5DAD5:Pyreal Scarab
+B3E5DAD6:Gladiator Diemos Statue
+B3E5DAD8:Silver Scarab
+B3E5DAD7:Ring
+B3E5DAD9:Lead Scarab
+B3E5DADA:Copper Scarab
+B3E5DADB:Training Wand
+B3E5DADC:Ust
+B3E5DADD:Facility Hub Portal Gem
+B3E5DADE:Prismatic Taper
+B3E5DADF:Blackmoor's Favor
+B3E5DAE0:Gold Scarab
+B3E5DAE1:Mana Scarab
+B3E5DB27:Vitriol
+B3E5DB29:Gypsum
+B3E5DB2B:Stibnite
+B3E5DB2A:Quicksilver
+B3E5DAE2:Pack
+B3E5DB1A:Nether Sceptre
+B3E5DAF9:Deadly Fire Arrow
+B3E5DB18:Pyreal
+B3E5DAE3:Lapping Plate
+B3E5DAE4:Wrapped Bundle of Arrowshafts
+B3E5DAE7:Quicksilver Pea
+B3E5DAE5:Concentrated Aqua Incanta
+B3E5DAE6:Concentrated Aqua Incanta
+B3E5DB19:Pyreal
+B3E5DAE8:Stibnite Pea
+B3E5DAE9:Wrapped Bundle of Arrowshafts
+B3E5DAEE:Splitting Tool
+B3E5DAEA:Shoyanen's Portal Gem
+B3E5DAEB:Invitation to Master Fletchers
+B3E5DB2C:Pyreal
+B3E5DAEC:Intricate Carving Tool
+B3E5DAED:Aphus Lassel Portal Gem
+B3E5DAEF:Wrapped Bundle of Greater Deadly Armor Piercing Arrowheads
+B3E5DAF0:Wrapped Bundle of Greater Deadly Blunt Arrowheads
+B3E5DAF1:Wrapped Bundle of Armor Piercing Arrowheads
+B3E5DAF2:Deadly Frog Crotch Arrow
+B3E5DAF3:Wrapped Bundle of Frog Crotch Arrowheads
+B3E5DAF4:Wrapped Bundle of Greater Deadly Frog Crotch Arrowheads
+B3E5DAF5:Deadly Armor Piercing Arrow
+B3E5DAF6:Deadly Armor Piercing Arrow
+B3E5DB2D:Pyreal
+B3E5DAF7:Deadly Armor Piercing Arrow
+B3E5DB26:Vitriol
+B3E5DB24:Jeweler's Hand Saw
+B3E5DB0E:Deadly Frog Crotch Arrow
+B5B75DC5:Cooking Pot
+B3E5DAFB:Pack
+B3E5DAFD:Amuli Leggings
+B3E5DB23:Lapping Plate
+B3E5DB00:Leather Pants
+B3E5DB04:Nariyid Boots
+B490ED63:Upper Insatiable Eater Jaw
+B3E5DB09:White Rabbit Girth
+B3E5DB0C:Fire Staff
+B3E5DB08:Olthoi Breastplate
+B3E5DB32:Acid Sceptre
+B3E5DB0D:Turban
+B3E5DB01:Cloth Gloves
+B3E5DB05:Cloth Gloves
+B3E5DAFF:Loafers
+B3E5DB07:Teardrop Crown
+B3E5DAFE:Ring
+B3E5DB0A:Olthoi Alduressa Leggings
+B3E5DB06:Studded Leather Girth
+B3E5DAFC:Sedgemail Leather Shoes
+B5BB7F6A:Cooking Pot
+B3E5DAC5:Neutral Balm
+B56E97D5:Morning Star
+B5BB7FBE:Cooking Pot
+B3E5DACB:Mortar and Pestle
+B5B8F9CC:Cooking Pot
+
+Missing Exports - Possessed items that were not found:

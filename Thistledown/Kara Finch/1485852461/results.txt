@@ -1,0 +1,23 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-31_1485852230_log.pcap
+
+Partial Exports - Missing appraisal info:
+AB9C483F:Doublet
+AB9C4840:Pants
+AB9C4841:Leather Boots
+AB9C4842:Pyreal
+AB9C4843:Sack
+AB9C4844:Ust
+AB9C4846:Pathwarden Token
+AB9C4847:Training Knife
+AB9C4848:Training Shortbow
+AB9C484A:Training Wand
+AB9C484F:Letter From Home
+AB9C484B:Round Shield
+AB9C484C:Foci of Artifice
+AB9C484D:Prismatic Taper
+AB9C484E:Lead Scarab
+AB9C4850:Bread
+ABFECDB7:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

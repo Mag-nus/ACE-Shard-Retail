@@ -1,0 +1,96 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-27_1485531435_log.pcap
+
+Partial Exports - Missing appraisal info:
+C6258AE7:Pyreal
+C636B88D:Loose Shirt
+C6316217:Pantaloons
+C635854A:Sack
+C631688F:Treated Healing Kit
+C636B894:Treated Healing Kit
+C631777C:Treated Healing Kit
+C62D1FA6:Treated Healing Kit
+C636B76D:Treated Healing Kit
+C636B75D:Ust
+C636B899:Foci of Artifice
+C636B896:Prismatic Taper
+C631684A:Lead Scarab
+C6358535:Asheron's Benediction
+C636B89C:Pathwarden Trinket
+C636B7F4:Sturdy Iron Key
+C62D2B7E:Sturdy Iron Key
+C6358631:Salvage
+C636B692:Sturdy Iron Key
+C636B671:Pyreal
+C636B59D:Pyreal
+C6350603:Blackmoor's Favor
+C63586A4:Pyreal
+C6358678:A Ring of Acid Protection
+C6358731:Pyreal
+C635FB0A:Pyreal
+C6369390:Pyreal Sliver
+C6369370:Pack
+C62710BC:Lead Scarab
+C636B530:Copper Scarab
+C62D3316:Silver Scarab
+C636B775:Prismatic Taper
+C6369451:Iron Scarab
+C6369496:Pack
+C63693FB:Torch
+C635FB2F:Pack Burun Kukuur
+C62D1F59:Pack T'thuun
+C636B4E9:Abominable Pack Snowman
+C6317570:Pack T'thuun
+C636B4EC:Pack T'thuun
+C636B696:Pack Bael'Zharon
+C636B697:Axe Head Helm
+C63695EB:Tree
+C6358760:Great Mana Charge
+C63695AA:Pyreal
+C63585DC:Pyreal
+C63695BA:Pyreal
+C636B81D:Dansha-Ki's Gem of Portal Recall
+C636B782:Pyreal
+C636B771:Sturdy Iron Key
+C636B770:Sturdy Iron Key
+C636B698:Sturdy Iron Key
+C635DB7C:Pyreal
+C635DB53:Pyreal
+C635C7AC:Ornate Nekode
+C635C7BC:Fez
+C636B77F:Kixkti Xri's Journal
+C6358B73:Nariyid Boots
+C636B59F:Platemail Gauntlets
+C636B8B5:A Note From Ciandra
+C636B818:Amuli Leggings
+C62720B7:Amuli Coat
+C636B780:Elysa's Pendant
+C636B73C:The Last Expedition of Ixir Zi
+C636B4ED:Elysa's Band
+C636B8B8:Teleportation Device
+C6357494:Deadly Armor Piercing Atlatl Dart
+C635FC8F:Hyssop
+C635FC83:Hyssop
+C6358C35:The Temple of Enlightenment
+C636B8B7:Alchemy Gem of Enlightenment
+C636B69B:The Temple of Forgetfulness
+C633F68D:A Note From Ciandra
+C6358DC6:Coordination To Endurance Gem
+C635FD55:Coordination To Endurance Gem
+C6358E05:Coordination To Endurance Gem
+C62FCF3C:Coordination To Strength Gem
+C48B4C31:Coordination To Strength Gem
+C63168A4:Coordination To Strength Gem
+C636B795:Coordination To Strength Gem
+C636B803:Coordination To Strength Gem
+C636B69C:Coordination To Endurance Gem
+C6358DAC:Melee Defense Gem of Forgetfulness
+C636960E:Melee Defense Gem of Forgetfulness
+C63411FA:Missile Weapons Gem of Forgetfulness
+C636B8C3:Missile Weapons Gem of Forgetfulness
+C636B8CF:Nayin
+C6358DD3:Some Changes for February 2012
+C6358DCA:Dark Sorcerer's Phylactery
+C635FD7D:Royal Atlatl
+
+Missing Exports - Possessed items that were not found:

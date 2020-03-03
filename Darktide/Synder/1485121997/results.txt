@@ -1,0 +1,265 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-22_1485116155_log.pcap
+
+Partial Exports - Missing appraisal info:
+D7FB41B0:Powdered Onyx
+D7FB418B:Iron Scarab
+D7FB416A:Silver Scarab
+D7FB4162:Lead Scarab
+D7FB4159:Copper Scarab
+D7FB419F:Rowan Talisman
+D7FB417A:Blackthorn Talisman
+D7FB4172:Yarrow
+D7FB41A7:Hyssop
+D7FB4194:Yew Talisman
+D7FB4182:Hemlock Talisman
+D7FB418A:Gypsum
+D7FB4161:Realgar
+D7FB41C0:Ashwood Talisman
+D7FB41AF:Comfrey
+D7FB419E:Red Taper
+D7FB4179:Yellow Taper
+D7FB4171:Indigo Taper
+D7FB4169:Ring
+D7FB41B8:Cestus
+D7FB41A6:Yumi
+D7FB4181:Shoes
+D7FB4193:Shoes
+D7FB4189:Shirt
+D7FB419D:Turpeth
+D7FB4192:Blue Taper
+D7FB41BF:Powdered Turquoise
+D7FB41B7:Mandrake
+D7FB41A5:Silver Scarab
+D7FB41C8:Copper Scarab
+D7FB41BE:Powdered Malachite
+D7FB419C:Gifted Healing Kit
+D7FB41B6:Pyreal
+D7FB41A4:Pyreal
+D7FB41C7:Bundle of Arrowshafts
+D7FB41E7:Pyreal
+D7FB4191:A Large Mnemosyne
+D7FB41AC:Superb Lockpick
+D7FB41D0:Fez
+D7FB41BD:Dagger
+D7FB419B:Parchment
+D7FB41D8:Parchment
+D7FB41B5:Gypsum Pea
+D7FB41A3:Platemail Gauntlets
+D7FB41C6:Twisted Drudge Ravener Guts
+D7FB41CF:Bundle of Armor Piercing Arrowheads
+D7FB41AB:Scroll of Cooking Ineptitude Other VI
+D7FB41D7:Torch
+D7FB41BC:Oregano
+D7FB41B4:Blue Taper
+D7FB41E8:Indigo Taper
+D7FB41DF:Red Taper
+D7FB41A2:Orange Taper
+D7FB41F0:Powdered Turquoise
+D7FB41C5:Cadmia
+D7FB41AA:Cinnabar
+D7FB4199:Stibnite
+D7FB41CE:Verdigris
+D7FB41BB:Comfrey
+D7FB41F8:Reliable Lockpick
+D7FB41B3:Powdered Onyx
+D7FB4200:Powdered Malachite
+D7FB41DE:Rowan Talisman
+D7FB41D6:Mandrake
+D7FB41A1:Hyssop
+D7FB4208:Grey Taper
+D7FB41C4:Green Taper
+D7FB41EF:Copper Scarab
+D7FB41CD:Wrapped Bundle of Arrowshafts
+D7FB41A9:Fine Armoredillo Hide Shirt
+D7FB422D:Mana Stone
+D7FB41D5:Turpeth Pea
+D7FB41BA:Cobalt Pea
+D7FB41B2:Brimstone Pea
+D7FB41FF:Excellent Healing Kit
+D7FB41E6:Orb
+D7FB41DD:Colcothar Pea
+D7FB4207:Quicksilver Pea
+D7FB41EE:Sceptre
+D7FB41C3:Staff
+D7FB41CC:Dagger
+D7FB41B1:Blunt Arrow
+D7FB41F6:Relanim Plant
+D7FB41D4:Bundle of Blunt Arrowheads
+D7FB41E5:Frost Arrow
+D7FB4206:Greater Acid Arrow
+D7FB41FE:Chainmail Hauberk
+D7FB4270:Tusker Head
+D7FB41DC:Excellent Healing Kit
+D7FB41C2:Frost Infusion
+D7FB4218:Intricate Copper Key
+D7FB4210:Heaume
+D7FB41ED:Pumpkin
+D7FB41CB:Yarrow
+D7FB4220:Ring
+D7FB41FD:Colcothar
+D7FB41F5:Blue Taper
+D7FB41E4:Brown Taper
+D7FB41DB:Orange Taper
+D7FB41D3:Turpeth
+D7FB41C1:Brimstone
+D7FB4205:Cobalt
+D7FB41EC:Turpeth
+D7FB4217:Pink Taper
+D7FB420F:Yellow Taper
+D7FB421F:Turquoise Taper
+D7FB41CA:Grey Taper
+D7FB41F4:White Taper
+D7FB41D2:Indigo Taper
+D7FB4230:Gypsum
+D7FB4227:Vitriol
+D7FB41FC:Green Taper
+D7FB41E3:Quicksilver
+D7FB41DA:Verdigris
+D7FB4238:Cinnabar
+D7FB4216:Violet Taper
+D7FB420E:Cadmia
+D7FB4204:Realgar
+D7FB4240:Gold Scarab
+D7FB41C9:Turpeth
+D7FB421E:Sho Wand
+D7FB41D1:Vitriol
+D7FB4250:Superb Lockpick
+D7FB4248:Excellent Healing Kit
+D7FB422F:Indigo Taper
+D7FB4226:Flaming Cestus
+D7FB41FB:Greater Lightning Arrow
+D7FB41E2:Greater Acid Arrow
+D7FB41D9:Wand
+D7FB4203:Flaming Nabut
+D7FB41EA:Frost Jo
+D7FB4215:Concentrated Aqua Incanta
+D7FB420D:Platemail Hauberk
+D7FB421D:Brown Beans
+D7FB4258:Small Ursuin Hide
+D7FB4295:Drudge Head
+D7FB41E1:Baggy Shirt
+D7FB422E:Pants
+D7FB4202:Alembic
+D7FB41FA:Bloodseeker Infusion
+D7FB41E9:Excellent Lockpick
+D7FB4236:Excellent Lockpick
+D7FB4214:Sho Wand
+D7FB420C:Mortar and Pestle
+D7FB423E:Suikan Robe
+D7FB421C:Peerless Healing Kit
+D7FB41F1:Crushed Relanim Plant
+D7FB41F9:Vial of Relanim Dye
+D7FB4257:Victual Infusion
+D7FB4224:Gifted Healing Kit
+D7FB424E:Victual Oil
+D7FB4246:Eye Dropper
+D7FB4235:Peerless Healing Kit
+D7FB4213:Bundle of Arrowshafts
+D7FB420B:Gifted Healing Kit
+D7FB423D:Elaborate Scroll
+D7FB421B:Kasa
+D7FB4256:Katar
+D7FB424D:Elaborate Scroll
+D7FB4245:Orb
+D7FB422C:Aerlinthe Patron Shirt
+D7FB4223:Skull Mask
+D7FB4234:Blue Jewel
+D7FB4212:White Jewel
+D7FB420A:Buckler
+D7FB4260:Kasa
+D7FB423C:Old Scarlet Red Letter
+D7FB421A:Old Scarlet Red Letter
+D7FB4255:Chainmail Coif
+D7FB424C:Shirt
+D7FB4244:Mattekar Hide Coat
+D7FB4222:Intricate Obsidian Key
+D7FB4278:Treated Healing Kit
+D7FB422B:Intricate Obsidian Key
+D7FB4209:Olthoi Helm
+D7FB4211:Mattekar Hide Coat
+D7FB4233:Armoredillo Hide Coat
+D7FB425F:Wrapped Bundle of Armor Piercing Arrowheads
+D7FB4268:Clean, Dry Towel
+D7FB4219:Clean, Dry Towel
+D7FB4221:Concentrated Aqua Incanta
+D7FB4231:Treated Healing Kit
+D7FB4254:Vitriol Pea
+D7FB424B:Clean, Dry Towel
+D7FB4243:Ewer
+D7FB422A:Cap
+D7FB4232:Yifan Dress
+D7FB426F:Sturdy Banner Haft
+D7FB425E:Tunic
+D7FB423A:Gloves
+D7FB4242:Niffis Pearl
+D7FB4267:Ring
+D7FB4229:Niffis Pearl
+D7FB4280:Brimstone Pea
+D7FB4239:Treated Healing Kit
+D7FB425D:Trade Note (50,000)
+D7FB4288:Scroll of Mana to Health Self VI
+D7FB426E:Essence Flicker
+D7FB4266:Acid Nabut
+D7FB4241:Vitriol
+D7FB4277:Focusing Stone
+D7FB4252:Aqua Incanta
+D7FB4265:Rapier
+D7FB425C:Concentrated Aqua Incanta
+D7FB4287:Frost Nekode
+D7FB4276:Small Pine Tree
+D7FB4251:Flaming Nabut
+D7FB428F:Acid Nabut
+D7FB427E:Flaming Jo
+D7FB425B:Tusker Mask
+D7FB4286:Banderling Mask
+D7FB426C:Pack Golem
+D7FB4264:Superior Jack o' Lantern
+D7FB4259:Skeleton's Skull
+D7FB427D:Calling Stone
+D7FB4275:Iron Heart
+D7FB428E:Flaming Nekode
+D7FB425A:Ring
+D7FB426B:Great Mattekar Horn
+D7FB4263:Dagger
+D7FB4298:Sollerets
+D7FB4274:Helmet
+D7FB428D:Sollerets
+D7FB427C:Oregano
+D7FB4284:Skeleton's Skull
+D7FB42A0:Chainmail Gauntlets
+D7FB426A:Hoory Mattekar Robe
+D7FB4297:Hoory Mattekar Robe
+D7FB428A:Aluvian Festival Light
+D7FB427B:Hammer of Frore
+D7FB4273:Golem Jo
+D7FB428C:Hoory Mattekar Robe
+D7FB429F:Orb
+D7FB4269:Ring
+D7FB4261:Shoes
+D7FB4283:Gloves
+D7FB42B0:Orb
+D7FB42A8:Ice Heaume of Frore
+D7FB4296:Koujia Breastplate
+D7FB427A:Gromnie Hide Shirt
+D7FB4272:Ice Heaume of Frore
+D7FB428B:Scroll of Finesse Weapon Ineptitude Other VI
+D7FB42C8:Scroll of Item Tinkering Expertise Self VI
+D7FB42B8:Scroll of Light Weapon Mastery Other VI
+D7FB429E:Scroll of Turn Blade VI
+D7FB42C0:Scroll of Finesse Weapon Mastery Other VI
+D7FB4282:Large Round Shield
+D7FB4271:Large Round Shield
+D7FB42A7:Tower Shield
+D7FB42CF:Some Changes for February 2012
+D7FB4279:Faran Robe with Hood
+D7FB42D0:Aqua Incanta
+D7FB42B7:Bundle of Arrowheads
+D7FB42BF:Lightning Infusion
+D7FB429D:Bundle of Deadly Arrowheads
+D7FB4281:Bloodhunter Oil
+D7FB42D8:Katar
+D7FB4294:Pack Levistras
+
+Missing Exports - Possessed items that were not found:
+D7FB41AD

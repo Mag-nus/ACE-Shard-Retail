@@ -1,0 +1,42 @@
+INSERT INTO `character` (`id`, `account_Id`, `name`, `is_Plussed`, `is_Deleted`, `delete_Time`, `last_Login_Timestamp`, `total_Logins`, `character_Options_1`, `character_Options_2`, `gameplay_Options`, `spellbook_Filters`, `hair_Texture`, `default_Hair_Texture`)
+VALUES (1343163382, 0, 'Pachi', False, False, 0, 0, 0, 1355851074, 1345281, NULL, 2047, 0, 0);
+
+INSERT INTO `character_properties_shortcut_bar` (`character_Id`, `shortcut_Bar_Index`, `shortcut_Object_Id`)
+VALUES (1343163382, 0, 2253986836)
+     , (1343163382, 1, 2223036355)
+     , (1343163382, 2, 2271902268)
+     , (1343163382, 3, 2271902280)
+     , (1343163382, 4, 2271902281)
+     , (1343163382, 5, 2271902282)
+     , (1343163382, 6, 2259841324);
+
+INSERT INTO `character_properties_spell_bar` (`character_Id`, `spell_Bar_Number`, `spell_Bar_Index`, `spell_Id`)
+VALUES (1343163382, 0, 0, 1483)
+     , (1343163382, 0, 1, 2645)
+     , (1343163382, 0, 2, 1635)
+     , (1343163382, 0, 3, 2644)
+     , (1343163382, 0, 4, 48)
+     , (1343163382, 0, 5, 47)
+     , (1343163382, 0, 6, 157)
+     , (1343163382, 0, 7, 2647)
+     , (1343163382, 0, 8, 2646)
+     , (1343163382, 0, 9, 2648)
+     , (1343163382, 0, 10, 51);
+
+INSERT INTO `character_properties_title_book` (`character_Id`, `title_Id`)
+VALUES (1343163382, 1)
+     , (1343163382, 58)
+     , (1343163382, 425)
+     , (1343163382, 458)
+     , (1343163382, 460)
+     , (1343163382, 465)
+     , (1343163382, 466)
+     , (1343163382, 467)
+     , (1343163382, 468)
+     , (1343163382, 585)
+     , (1343163382, 765)
+     , (1343163382, 766)
+     , (1343163382, 767)
+     , (1343163382, 768)
+     , (1343163382, 769)
+     , (1343163382, 770);

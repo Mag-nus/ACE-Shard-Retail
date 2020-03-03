@@ -1,0 +1,19 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-31_1485852621_log.pcap
+
+Partial Exports - Missing appraisal info:
+AE7701FD:Pants
+AE7701FE:Shoes
+AE7701FF:Pyreal
+AE770200:Sack
+AE770201:Ust
+AE770203:Pathwarden Token
+AE770207:Arrow
+AE770209:Foci of Artifice
+AE77020A:Prismatic Taper
+AE77020B:Lead Scarab
+AE77020C:Crude Lockpick
+AE77020E:Letter From Home
+AEC25677:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

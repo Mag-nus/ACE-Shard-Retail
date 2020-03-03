@@ -1,0 +1,32 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\gdrive (tfarley)\Zoishe\hebianqbar\pkt_2017-1-31_1485881016_log.pcap
+
+Partial Exports - Missing appraisal info:
+A3D3EBC8:Cloth Cap
+A3D3EBCC:Pyreal
+A3D3EBCD:Sack
+A3D3EBCE:Ust
+A3D3EBCF:Calling Stone
+A3D3EBD3:Training Atlatl
+A3D3EBD4:Atlatl Dart
+A3D3EBD5:Training Wand
+A3D3EBD6:Foci of Artifice
+A3D3EBD7:Prismatic Taper
+A3D3EBD8:Lead Scarab
+A3D3EBDA:Handy Healing Kit
+A4139D5C:Blackmoor's Favor
+A4139DAC:Oil of Rendering
+A4139D2C:Oil of Rendering
+A4139DF6:Facility Hub Portal Gem
+A41A18FE:Pyreal
+A4157494:Pathwarden Plate Hauberk
+A41A04F1:Pathwarden Plate Leggings
+A41A04F9:Pathwarden Sollerets
+A41A0502:Pathwarden Gauntlets
+A41A0512:Pathwarden Helm
+A41A051A:Great Mana Charge
+A41A04E9:Pathwarden Robe
+A3D3EBD2:Training Tungi
+A3D3EBD1:Training Tungi
+
+Missing Exports - Possessed items that were not found:

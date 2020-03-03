@@ -1,0 +1,163 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\RunningFromNorthernTipToSouthernTipOfDereth\RunningFromNorthernTipToSouthernTipOfDereth\pkt_2017-1-31_1485842316_log.pcap
+
+Partial Exports - Missing appraisal info:
+DBBB1475:Sack
+DBBB1476:Lead Scarab
+DBBB1477:Copper Scarab
+DBBB1478:Platinum Scarab
+DBBB1479:Wrapped Bundle of Arrowshafts
+DBBB147A:Ancient Empyrean Trinket
+DBBB1482:Coral Fragment
+DBBB147B:Black Page of Salt and Ash
+DBBB147C:Spirit of Izexi Gem
+DBBB14E7:Pyreal
+DBBB147D:Ancient Falatacot Trinket
+DBBB147E:Encapsulated Spirit
+DBBB1483:Silver Scarab
+DBBB147F:Wrapped Bundle of Deadly Prismatic Arrowheads
+DBBB1480:Wrapped Bundle of Greater Deadly Frog Crotch Arrowheads
+DBBB1481:Wrapped Bundle of Arrowshafts
+DBBB1484:Gold Scarab
+DBBB1485:Mana Scarab
+DBBB1486:Pyreal Pea
+DBBB1487:Silver Pea
+DBBB1488:Colosseum Coin
+DBBB1489:Calling Stone
+DBBB148A:Blackmoor's Favor
+DBBB148C:Gem of Purity
+DBBB148B:Facility Hub Portal Gem
+DBBB148D:Foci of Artifice
+DBBB1492:Snow Tracks
+DBBB148E:Foci of Enchantment
+DBBB148F:Foci of Verdancy
+DBBB1491:Pack
+DBBB1490:Low-Stakes Gambling Token
+DBBB1493:Snow Tracks
+DBBB1494:Golden Gromnie
+DBBB1495:Golden Gromnie
+DBBB1496:Golden Gromnie
+DBBB1497:Golden Gromnie
+DBBB1498:Carenzi Trophy
+DBBB1499:Carenzi Trophy
+DBBB149A:Carenzi Trophy
+DBBB149B:Marionette
+DBBB149C:Abayar's Research Notes
+DBBB149D:Pitiful Pine Tree
+DBBB149E:Mistletoe
+DBBB149F:Cloak
+DBBB14A0:Blistered Zombie Essence
+DBBB14A1:Empyrean Sun Stone
+DBBB14A2:Fire Skeleton Samurai Essence
+DBBB14A3:Pack
+DBBB14A4:Pack
+DBBB14A5:Bracelet
+DBBB14A6:Heavy Bracelet
+DBBB14A7:Bracelet
+DBBB14A8:Bracelet
+DBBB14A9:Heavy Bracelet
+DBBB14AA:Major Mana Stone
+DBBB14AB:Massive Mana Charge
+DBBB14AC:Massive Mana Charge
+DBBB14AD:Massive Mana Charge
+DBBB14AE:Massive Mana Charge
+DBBB14AF:Massive Mana Charge
+DBBB14B0:Massive Mana Charge
+DBBB14B2:Massive Mana Charge
+DBBB14B3:Major Mana Stone
+DBBB14B4:Major Mana Stone
+DBBB14B5:Major Mana Stone
+DBBB14B6:Aligned Mana Stone
+DBBB14B7:Aetheria Mana Stone
+DBBB14B8:Piercing Sceptre
+DBBB14C7:Diamond Powder
+DBBB14B9:Heavy Bracelet
+DBBB14BA:Black Market Gem of Dispelling
+DBBB14BB:Shou-jen Jika-Tabi
+DBBB14BC:Shou-jen Shozoku Trousers
+DBBB14E3:Stipend
+DBBB14BD:Shou-jen Shozoku Sleeve Gauntlets
+DBBB14BE:Shou-jen Shozoku Jacket
+DBB97D69:Textbook
+DBBB14BF:Shou-jen Shozoku Mask
+DBBB14C0:Frigid Zombie Essence
+DBBB1503:Blank Augmentation Gem
+DBBB14C1:Damaged Shadow Blade
+DBBB14C2:Celdiseth's Portal Gem
+DBBB1502:Upper Insatiable Eater Jaw
+DBBB14C3:Heavy Bracelet
+DBBB14C4:Gem of Knowledge
+DBBB14C5:Asheron's Lesser Benediction
+DBBB14C6:Ring
+DBBB14E8:Prismatic Taper
+DBBB14C8:Puzzle Box
+DBBB14C9:Lace Shirt
+DBB17D48:Textbook
+DBBB14CA:Loose Pants
+DBBB14CB:Yoroi Pauldrons
+DBBF1F37:Tumerok Chair
+DBBB14CC:Celdon Leggings
+DBBB14CD:Yoroi Leggings
+DBBD5085:Textbook
+DBBB14CF:Yoroi Girth
+DBBB14D0:Kote
+DBBB14EB:Pyreal Scarab
+DBBB14D1:Yoroi Breastplate
+DBBB14D2:Sollerets
+DBB17064:Textbook
+DBBB14D3:Lorica Gauntlets
+DBBB14D4:Gem of Knowledge
+DBBB14EC:Gold Pea
+DBBB14D5:Aetheria
+DBBB14D6:Aetheria
+DBBB14DD:Salvage
+DBBB14D7:Aetheria
+DBBB14D8:Piercing Compound Bow
+DBC18220:Weeping Bow Cast
+DBBB14D9:Ring
+DBBB14DA:Glyph of Self
+DBBC8233:Yellow Monster Seed
+DBBB14DB:Quill of Introspection
+DBBB14DC:Quill of Infliction
+DBBB14DE:Loose Shirt
+DBBB14DF:Puzzle Box
+DBBB14E0:Salvage
+DBBB14E1:Ink of Conveyance
+DBBB14E5:Salvage
+DBBB14E2:Acid Bow
+DBBB14E4:Glyph of Endurance
+DBBB14E6:Encapsulated Spirit
+DBBB14E9:Trade Note (250,000)
+DBBB14EA:Chiran Gauntlets
+DBBB14ED:Enhanced Assault Bow
+DBBB14EE:Ink of Direction
+DBBB14EF:Ink of Partition
+DBBB14F0:Gem of Knowledge
+DBBB14F1:Ring
+DBBB14F2:Electric Sceptre
+DBBB14F4:Ink of Formation
+DBBB14F5:Glyph of Flame
+DBBB14F6:Glyph of Bludgeoning
+DBBB14F7:Glyph of Lightning
+DBBB14F8:Glyph of Corrosion
+DBBB14F9:Glyph of Life Magic
+DBBB14FA:Glyph of Missile Defense
+DBBB14FB:Trade Note (250,000)
+DBBB14FC:Salvage
+DBBB14FD:Fire Bow
+DBBB14FE:Blunt Compound Bow
+DBBB14FF:Deadly Prismatic Arrow
+DBBB1501:Hunter's Crystal
+DBBB1506:Focusing Stone
+DBBC3CF1:Thorsten's Crystal
+DBB97D02:Major Smoldering Stone
+DBB17D46:Major Shivering Stone
+DBBB14F3:Soul Bound Bow
+DBBB1500:Acid Bow
+DBBD5086:Major Sparking Stone
+DBB17BBC:Major Stinging Stone
+DBBB1507:Greater Deadly Frog Crotch Arrow
+DBBB1509:Sceptre
+DBBB1508:Slashing Bow
+
+Missing Exports - Possessed items that were not found:

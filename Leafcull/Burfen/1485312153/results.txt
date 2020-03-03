@@ -1,0 +1,29 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Meatloafcat_2017-1-24_NewbieStuff_1485308296_log\pkt_2017-1-24_1485308296_log.pcap
+
+Partial Exports - Missing appraisal info:
+AE7C2F18:Loose Pants
+AE7C2F45:Pyreal
+AE7C2F34:Sack
+AE7C2F29:Lead Scarab
+AE7C2F55:Prismatic Taper
+AE7C2F3C:Letter From Home
+AE7C2F20:Guide to Chat
+AE7C2F5D:Academy Library Key
+AE7C2F17:Training Wand
+AE7C2F4D:Pathwarden Token
+AE7C2F44:Academy Exit Token
+AE7C2F33:Blackmoor's Favor
+AE7C2F54:Facility Hub Portal Gem
+AE7C2F28:Ust
+AE7C2F65:Foci of Artifice
+AE7C2F43:Stamina Potion
+AE7C2F6E:Mana Potion
+AE7C2F32:Oil of Rendering
+AE7C2F53:Pack
+AE7C2F64:Facility Hub Portal Gem
+AE7C2F8E:Chicken
+AE7C2F6D:Frost Elemental Essence (50)
+AE7C2F42:Potion of Healing
+
+Missing Exports - Possessed items that were not found:

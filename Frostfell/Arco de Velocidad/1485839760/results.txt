@@ -1,0 +1,146 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485839746_log.pcap
+
+Partial Exports - Missing appraisal info:
+DD2A4FF4:Empyrean Sun Stone
+DD2A4FD2:Foci of Verdancy
+DD2A4FD3:Pack
+DD2A4FD4:Lead Scarab
+DD2A4FD5:Iron Scarab
+DD2A4FD6:Silver Scarab
+DD2A4FD7:Gold Scarab
+DD2A4FD8:Pyreal Scarab
+DD2A4FD9:Copper Scarab
+DD2A4FDA:Diamond Scarab
+DD2A4FDB:Crown
+DD2A4FDC:Circlet
+DD2A4FDD:Signet Crown
+DD2A4FDE:Circlet
+DD2A4FDF:Diadem
+DD2A4FE0:Circlet
+DD2A4FE1:Coronet
+DD2A4FE2:Teardrop Crown
+DD2A4FE3:Circlet
+DD2A4FE4:Coronet
+DD2A4FE5:Teardrop Crown
+DD2A4FE6:Teardrop Crown
+DD2A4FE7:Mana Scarab
+DD2A4FE8:Teardrop Crown
+DD2A4FE9:Diadem
+DD2A4FEA:Signet Crown
+DD2A4FEB:Platinum Scarab
+DD2A4FEC:Pack
+DD2A4FED:Signet Crown
+DD2A4FEE:Diadem
+DD2A4FEF:Circlet
+DD2A4FF0:Diadem
+DD2A4FF1:Coronet
+DD2A4FF2:Pack
+DD2A4FF3:Imprinting Mote
+DD2A4FF5:Orange Monster Seed
+DD2A4FF6:Adventurer's Token
+DD2A4FF7:Splitting Tool
+DD2A4FF8:Ust
+DD2A4FFA:Deed
+DD2A4FF9:Wrapped Bundle of Greater Deadly Blunt Arrowheads
+DD2A4FFB:The Story of the Lost Sisters
+DD2A4FFC:Black Luster Pearl
+DD2A4FFD:Black Luster Pearl
+DD2A4FFE:Wrapped Bundle of Arrowshafts
+DD2A4FFF:Wrapped Bundle of Greater Prismatic Arrowheads
+DD2A5000:Trimmed Cloak
+DD2A5001:Shoyanen's Portal Gem
+DD2A5002:Wrapped Bundle of Greater Deadly Armor Piercing Arrowheads
+DD2A5003:Wrapped Bundle of Greater Deadly Frog Crotch Arrowheads
+DD2A5004:Blackmoor's Favor
+DD2A5005:Chorizite
+DD2A5006:Fire Phyntos Wasp Essence (180)
+DD2A503C:Pyreal
+DD2A5007:Asheron's Lesser Benediction
+DD2A5008:Pack
+DD2A5009:Vial of Organic Acid
+DD2A500A:Aetheria Mana Stone
+DD2A500B:Vissidal Island Portal Gem
+DD2A500F:Treated Healing Kit
+DD2A500C:A Page of the Book of Eibhil
+DD2A500D:Ancient Empyrean Trinket
+DD2A500E:Ancient Mhoire Coin
+DD2A5010:Treated Healing Kit
+DD2A5011:Treated Healing Kit
+DD2A5012:Treated Healing Kit
+DD2A5013:Treated Healing Kit
+DD2A5014:Treated Healing Kit
+DD2A5015:Treated Healing Kit
+DD2A5016:Treated Healing Kit
+DD2A5017:Treated Healing Kit
+DD2A5018:Foci of Artifice
+DD2A5019:Foci of Enchantment
+DD2A501A:Royal Runed War Bow
+DD2A5027:Pyre Shroud
+DD2A501B:Aetheria
+DD2A501C:Ultimate Singularity Bow
+DD2A5028:Pyre Shroud
+DD2A502B:Radiant Blood Trade Token
+DD2A5030:Pyre Shroud
+DD2A5031:Pyre Shroud
+DD2A5023:Enhanced Red Empyrean Ring
+DD2A5032:Unstable Mana Stone
+DD2A5026:Frost Bow
+DD2A5029:Crystal of Spectral Blood
+DD2A502A:Skull of One Thousand Torments
+DD2A503D:Greater Mana Stone
+DD2A502E:Ancient Falatacot Trinket
+DD2A502F:Pile of Gearknight Parts
+DD2A5043:Treated Healing Kit
+DD2A5033:Piercing Compound Bow
+DD2A5034:Princely Runed Slashing Baton
+DD2A5035:Composite Bow with Exquisite Handle
+DD2A5036:Celdon Girth
+DD2A5037:Rynthid Tentacle Bow
+DD2A5038:Loose Shirt
+DD2A5039:Acid Bow
+DD2A503A:Salvage (95)
+DD2A504D:Major Mana Stone
+DD2A503E:Studded Leather Breastplate
+DD2A5040:Radiant Blood Gauntlets
+DD2A5044:Treated Healing Kit
+DD2A5041:Ring
+DD2A5045:Treated Healing Kit
+DD2A5046:Treated Healing Kit
+DD2A5047:Treated Healing Kit
+DD2A5048:Treated Healing Kit
+DD2A5049:Treated Healing Kit
+DD2A504A:Treated Healing Kit
+DD2A504B:Treated Healing Kit
+DD2A504C:Treated Healing Kit
+DD2A504E:Greater Mana Stone
+DD2A504F:Greater Mana Stone
+DD2A5050:Encapsulated Spirit
+DD2A5051:Salvage (42)
+DD2A5059:Prismatic Taper
+DD2A5052:Salvage (12)
+DD2A5053:Salvage (77)
+DD2A505E:Treated Healing Kit
+DD2A5054:Salvage (53)
+DD2A5055:Greater Deadly Armor Piercing Arrow
+DD2A5056:Enhanced Assault Bow
+DD2A5057:Aetheria
+DD2A505A:Ring
+DD2A505B:Bracelet
+DD2A505F:Treated Healing Kit
+DD2A505C:Alduressa Gauntlets
+DD2A505D:Studded Leather Tassets
+DD2A5063:Major Mana Stone
+DD2A5060:Fire Compound Bow
+DD2A5061:Greater Deadly Blunt Arrow
+DD2A5062:Blunt Compound Bow
+DD2A5064:Major Mana Stone
+DD2A5065:Major Mana Stone
+DD2A5067:Greater Deadly Frog Crotch Arrow
+DD2A5068:Slashing Bow
+DD2A5069:Trade Note (250,000)
+DD2A506C:Stipend
+DD2A506A:Greater Prismatic Arrow
+DD2A506B:Electric Bow
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,55 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-30_1485820096_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-30_1485818713_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-30_1485820096_log.pcap
+
+Partial Exports - Missing appraisal info:
+A084AE56:Shirt
+A07A8E69:Wide Breeches
+A084CD85:Calling Stone
+A0828DC0:Leather Boots
+A084CDFF:Oil of Rendering
+9F981A3E:Facility Hub Portal Gem
+A084CE01:Academy Coat
+A081F6A4:Oil of Rendering
+A084BE37:Blackmoor's Favor
+A084BE3D:Round Shield
+A081F6A5:Pathwarden Token
+A084CDBC:Ust
+A080D4A6:Pyreal
+A0822F83:Pack T'thuun
+A0815182:Pack T'thuun
+A0835F0A:Dark Shard
+A084BEC5:Yellow Jewel
+A084BE44:Sturdy Iron Key
+A0847AE2:Sturdy Iron Key
+A084BDA1:Sturdy Iron Key
+A084CA75:Sturdy Iron Key
+A084CA74:Sturdy Iron Key
+A084BE43:Refreshing Water
+A082929E:Candy Corn
+A084BEC6:Priceless Ore
+A0822F54:Tasty Pudding
+A08496AA:Cave Penguin Cake
+A0835DE0:Licorice Rat
+A01E3BE9:Salvage
+A01E3BE1:Salvage
+A01E3C01:Salvage
+A01E3BF1:Salvage (66)
+A01E3C1E:Salvage
+A084CB46:Salvage
+A084CB3D:Salvage
+A0836092:Salvage
+A0849723:Salvage
+A0849724:Salvage
+A0849722:Salvage
+A084971E:Salvage
+A0822DDC:Salvage
+A07FA93F:Salvage
+A081A92F:Salvage
+A081FDE0:Salvage
+A08228FC:Salvage
+
+Missing Exports - Possessed items that were not found:

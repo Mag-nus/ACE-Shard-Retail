@@ -1,0 +1,128 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps3\pkt_2017-1-31_1485869518_log.pcap
+
+Partial Exports - Missing appraisal info:
+8017C2E8:Copper Scarab
+8020AEB1:Great Mana Charge
+8020AEB9:Great Mana Charge
+8020AEC6:Ornamental Bowl
+8020AE9E:Prismatic Taper
+8020AE9D:Lead Scarab
+9367C992:Aetheria
+936822B2:Lorica Gauntlets
+801A745D:Foci of Artifice
+801D980F:Pack
+801D9859:Silver Scarab
+801837BC:Sceptre
+801A7217:Pyreal Scarab
+801A6527:Gold Scarab
+801A4967:Pyreal
+8020AEB6:Greater Mana Stone
+8020AEB5:Potion of Healing
+8020AEB3:Saulandoi
+8020AEB8:Quest Weapon Coin
+8020AEC2:Ruined Amulet of Heavy Weapons
+935F1462:White Jewel
+801A3C16:Fire Sceptre
+9367B4BF:Alduressa Gauntlets
+9366F69A:Heavy Bracelet
+936436AA:Frost Lancet
+93653242:Diforsa Cuirass
+93612936:Scarlet Red Letter
+93674D42:Smock
+935EFA00:Red Jewel
+936201CC:Dark Shard
+9367F278:Heavy Bracelet
+936482A2:Amulet
+9365E134:Ring
+92D04B3E:Scroll of Raven Fury
+9365DF2C:Pocket Watch
+9365DE16:Acid Stick
+9365D895:Amulet
+9365E5A5:Ring
+9365D4BB:Electric Board with Nail
+866AF8BF:Platinum Spirits
+92FDF61D:Writ of Refuge
+9365E9FE:Aetheria
+936704FF:Trimmed Cloak
+9366FDC0:Scalemail Pauldrons
+93673F22:Bracelet
+92E80FCE:Nine of Hands
+93675736:Ring
+936827A5:Heavy Bracelet
+9367BAC5:Heavy Necklace
+9367E77D:Olthoi Koujia Sollerets
+93681FCC:Cloth Cap
+9367EF5A:Electric Baton
+9367E487:Heavy Necklace
+9367E104:Pants
+93677EA7:Incendiary Wisp Essence
+936600D0:Scalemail Gauntlets
+9363A952:Olthoi Alduressa Helm
+9365E4CB:Board with Nail
+9365DCFA:Diforsa Sollerets
+9365CC3A:Sedgemail Leather Sleeves
+93674641:Ring
+9365C195:Ring
+9367513E:Acid Sceptre
+8668A351:Salvage (38)
+8599DAB0:Imbue Swap Coin
+92FD1FE8:Pyreal Mote
+92EB859E:Empowered Amber: Breastplate of Life
+909781C2:Loose Pants
+802C83EA:Electric Spine Glaive
+93679B6B:Electric Baton
+93679698:Frost Dirk
+93668C1A:Blistering Moar Essence
+9369214E:Ring
+936B6777:Heavy Bracelet
+936B6684:Heavy Bracelet
+936B6379:Ring
+936B4EB7:Top
+
+Missing Exports - Possessed items that were not found:
+8020AE9C
+801A662D
+8020AE9F
+8020AEA0
+8020AEA1
+8020AF4A
+801DA741
+8020AEA6
+8020AEA7
+8020AEA8
+8020AEA9
+8020AEAA
+8020AEAC
+8020AEAD
+8020AEAE
+8020AE98
+8020AE99
+8020AE95
+8020AE96
+8020AE97
+8020AE9A
+80209D06
+81667561
+819A5B82
+801DA73E
+8020AEA2
+80209CD5
+8020AC81
+8020AC84
+8020AEA3
+8020AEA4
+8020AF3F
+8020AC98
+8020AC97
+8020AF48
+8020AF45
+8020AE89
+8020AE8A
+8020AE8B
+8020AE8C
+8020AE8D
+8020AE8F
+8020AE90
+8020AE91
+801A4989

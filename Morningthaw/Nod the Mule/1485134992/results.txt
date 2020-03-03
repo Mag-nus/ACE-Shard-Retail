@@ -1,0 +1,54 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-22_1485134283_log.pcap
+
+Partial Exports - Missing appraisal info:
+807D3919:Foci of Enchantment
+8078C797:Foci of Artifice
+807B07AA:Foci of Verdancy
+807D157D:Foci of Strife
+8078B6DE:Volkama's Totem of the Rivers
+807B5EFA:Totem of Volkama
+8080FDB6:Crystal Nodule
+8080FCC5:Parchment
+8080FCB1:White Rabbit Carcass
+8080FCC3:Shirt
+8080FCC2:Pantaloons
+80820FA3:Parchment
+8080FB16:Pack
+80820F92:Crystal Nodule
+80820F95:Siraluun Dress
+80820F97:Crystal Nodule
+80820F98:Pants
+80820F9B:Monougat
+80820F9D:Pyreal Golem Heart
+80820F9E:Merciless Monouga Idol
+80820FA0:Aerfalle's Pallium
+80820FBB:Ball of Gunk
+80820FA4:Insidious Monouga Idol
+80820FA7:Singularity Keyring
+80820FC7:Ball of Gunk
+80820FAD:Pack
+80820FAE:Carving Knife
+80820FAF:Asheron's Supreme Raiment
+80820FC0:Niffis Shell
+80820FB1:Asheron's Supreme Raiment
+80820FB2:Asheron's Greater Raiment
+80820FD4:Pyreal
+80820FB3:Asheron's Supreme Raiment
+80820FB4:Dho Vest and Robe
+80820FB5:Elemental Master Robe
+80820FB7:Asheron's Greater Raiment
+80820FB8:Asheron's Greater Raiment
+80820FB9:Martine's Robe
+80820FBA:Suikan War Master Robe
+80820FBC:Pack Bael'Zharon
+80820FC4:Blackmoor's Favor
+80820FC5:Fire Shreth Hide
+80820FD0:Pack
+80820FD1:Silver Scarab
+80820FD2:Copper Scarab
+80820FD3:Prismatic Taper
+80820FD8:Some Changes for February 2012
+80820FDD:White Bunny Slippers
+
+Missing Exports - Possessed items that were not found:

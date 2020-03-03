@@ -1,0 +1,24 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-31_1485853452_log.pcap
+
+Partial Exports - Missing appraisal info:
+91DE70DA:Smock
+91DE70DB:Trousers
+91DE70DC:Leather Boots
+91DE70DD:Pyreal
+91DE70DE:Sack
+91DE70DF:Ust
+91DE70E1:Pathwarden Token
+91DE70E2:Training Knife
+91DE70E5:Arrow
+91DE70E6:Training Wand
+91DE70EA:Crude Lockpick
+91DE70E7:Foci of Artifice
+91DE70E8:Prismatic Taper
+91DE70E9:Lead Scarab
+91DE70EB:Handy Healing Kit
+91DE70EC:Letter From Home
+91DE70ED:Bread
+91F1DAB0:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

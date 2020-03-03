@@ -1,0 +1,27 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-07-2017\packet_logs_20170123-2017-0130\pkt_2017-1-24_1485240424_log.pcap
+
+Partial Exports - Missing appraisal info:
+AB9880F7:Pyreal
+AB988108:Turban
+AB9880E1:Smock
+AB988112:Leather Boots
+AB9880ED:Pantaloons
+AB9881C8:Quicksilver
+AB9880FE:Cheese
+AB9880FF:Cobalt
+AB942EE7:Powdered Turquoise
+AB988107:Lead Scarab
+AB98811A:Stibnite
+AB9880E0:Hyssop
+AB988111:Ashwood Talisman
+AB988124:Powdered Onyx
+AB9880EC:Vitriol
+AB98812C:Starter Crossbow
+AB988119:Quarrel
+AB988106:Starter Nabut
+AB9880DF:Handy Healing Kit
+AB988123:Crude Lockpick
+AB988105:Starter Jambiya
+
+Missing Exports - Possessed items that were not found:

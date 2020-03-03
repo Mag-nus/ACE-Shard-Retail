@@ -1,0 +1,135 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-packet-logs\pkt_2017-1-31_1485880540_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-packet-logs\pkt_2017-1-30_1485808222_log.pcap
+
+Partial Exports - Missing appraisal info:
+8080E7CD:Pyreal
+8080E7A1:Pack
+8080E7A2:Copper Scarab
+8080E7A3:Black Fire Atlan Stone
+8080E7A4:Diamond Scarab
+8080E7A5:Blackmoor's Favor
+8080E7A6:Saffron
+8080E7A7:Ust
+8080E7A8:Imbue Swap Coin
+8080E7A9:Pyreal Scarab
+8080E7AA:Lead Scarab
+8080E7AB:Gold Scarab
+8080E7AC:Silver Scarab
+8080E7AD:Iron Scarab
+8080E7AE:Paradox-touched Olthoi Egg
+8080E7AF:A'nekshay Token
+8080E7B0:Olthoi Slasher Carapace
+8080E7B2:Salvage (100)
+8080E7B4:Upper Insatiable Eater Jaw
+8080E7B5:Upper Insatiable Eater Jaw
+8080E7B6:Salvage (100)
+8080E7B7:Upper Insatiable Eater Jaw
+8080E7B9:Upper Insatiable Eater Jaw
+8080E7BA:Pack
+8080E7BB:Aetheria
+8080E7BC:Salvage (27)
+8080E7BD:Nexus Crawler's Mask
+8080E7BF:Platinum Scarab
+8080E7C0:Trade Note (250,000)
+8080E7C5:Prismatic Taper
+8080E7C6:Elaborate Field Rations
+8080E7CA:Silver Pea
+8080E7C8:Adherent's Crystal
+8080E7C9:Town Network Portal Gem
+8080E7CB:Salvage (100)
+8080E7CC:Trade Note (250,000)
+8080E7CE:Pyreal
+8080E7CF:Pyreal
+8080E7D0:Gold Pea
+8080E7D1:Monarch's Crystal
+8080E7D2:Pack
+8080E7D3:Repaired Shadow Stone
+8080E7D4:Verdalim Plant
+8080E7D5:Loose Pants
+8080E7D6:Plentiful Healing Kit
+8080E7D7:Plentiful Healing Kit
+8080E7D8:Mana Scarab
+8080E7D9:Armor Middle Reduction Tool
+8080E7DC:Resister's Crystal
+8080E7DD:Pyreal
+8080E7E6:Titan Mana Charge
+8080E7E7:Salvage (24)
+8080E7E8:Lucky Gold Letter
+8080E7E9:Pack
+8080E7EA:Aligned Mana Stone
+8080E7EC:Elaborate Dried Rations
+8080E7EE:Olthoi Ripper Spine
+8080E7EF:Colosseum Coin
+8080E7F0:Small Olthoi Venom Sac
+8080E7F1:Ornate Gear Marker
+8080E7F2:Ancient Mhoire Coin
+8080E7F3:Cooking Pot
+8080E7F4:Shoyanen's Portal Gem
+8080E7F5:Decanter of Essence
+8080E7F6:Charged Stone Infuser
+8080E7F9:Plentiful Healing Kit
+8080E7FA:Plentiful Healing Kit
+8080E7FB:Plentiful Healing Kit
+8080E7FC:Plentiful Healing Kit
+8080E7FD:Upper Insatiable Eater Jaw
+8080E7FE:Salvage (30)
+8080E7FF:Encapsulated Spirit
+8080EFCB:Pack
+8080E800:Encapsulated Spirit
+8080E801:Encapsulated Spirit
+8080EFC4:Silver Pea
+8080EFC2:Lucky Gold Letter
+8080EFC1:Lucky Gold Letter
+8080EFA1:Upper Insatiable Eater Jaw
+8080EFCA:Salvage (100)
+8080EFC9:Salvage (100)
+8080EFB6:Pack
+8080EFC8:Salvage (24)
+8080EFC7:Salvage (57)
+8080EFB5:Pack
+8080EFC3:Salvage (21)
+8080EFC0:Salvage (18)
+8080EFA7:Pack
+8080EFBF:Salvage (42)
+8080EFBE:Salvage (18)
+8080EF9E:Blank Augmentation Gem
+8080EFBD:Salvage (18)
+8080EFBC:Amuli Leggings
+AE2C7775:Blighted Mana Crystal
+8080EFBB:Salvage (42)
+8080EFBA:Amuli Leggings
+AE2CC520:Scarlet Red Letter
+8080EFB9:Salvage (33)
+8080EFB8:Salvage (39)
+AE2CECB3:Prismatic Taper
+8080EFB4:Aetheria Mana Stone
+AE68737A:A Large Mnemosyne
+AE932CAF:Swamp Stone
+AE694C2F:Ashen Key
+8080EF9C:Strengthened Mana Forge Key
+AE4C33EE:Sturdy Iron Key
+AE293E1D:Sturdy Armoredillo Hide
+AE2C76F7:Forager Captain's Resonator
+AE60AA0F:Peerless Lockpick
+AE48C0B9:Cracked Shard
+AE2D578D:Zefir's Crystal
+AE910B06:Swamp Stone
+AE4C79FF:Atlan Sword
+AE6270A8:Peerless Lockpick
+AE5E0636:Peerless Lockpick
+AE68DF1E:Red Fire Infusion
+AE910AE3:Swamp Stone
+8080E7F7:Shield of Isin Dule
+8080EFA4:Drudge Scrying Orb
+AE916138:Sturdy Iron Key
+AE84017C:Dark Sliver
+AE910AC5:Dark Sliver
+AE910A7C:Dark Sliver
+AE910A7A:Dark Sliver
+AE91364F:Poniard
+AE910952:Ruined Amulet of the Heart
+
+Missing Exports - Possessed items that were not found:

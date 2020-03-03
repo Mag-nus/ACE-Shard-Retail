@@ -1,0 +1,24 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Random_Logs\pkt_2017-1-30_1485826716_log.pcap
+
+Partial Exports - Missing appraisal info:
+DCE4B3B1:Tunic
+DCE4B3B2:Pants
+DCE4B3B3:Shoes
+DCE4B3B4:Pyreal
+DCE4B3B5:Sack
+DCE4B3B6:Ust
+DCE4B3B7:Calling Stone
+DCE4B3B8:Pathwarden Token
+DCE4B3B9:Training Dirk
+DCE4B3BB:Training Wand
+DCE4B3BA:Training Dirk
+DCE4B3BC:Foci of Artifice
+DCE4B3BD:Prismatic Taper
+DCE4B3BE:Lead Scarab
+DCE4B3BF:Handy Healing Kit
+DCE4B3C0:Letter From Home
+DCE4B3C1:Bread
+DD1A45A3:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

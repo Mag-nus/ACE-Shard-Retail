@@ -1,0 +1,213 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-PCAP-Absolutely-Random-Gameplay\AC-pcap\pkt_2017-1-31_1485875236_log.pcap
+
+Partial Exports - Missing appraisal info:
+9CD80C44:Sack
+9CD80C42:Doublet
+9CD80C43:Pants
+9CD80C5D:Ust
+9CD80C45:Hieromancer's Crystal
+9CD80C46:Deceiver's Crystal
+9CD80C47:Enchanter's Crystal
+9CD80C48:Vaulter's Crystal
+9CD80C49:Fletcher's Crystal
+9CD80C4A:Thorsten's Crystal
+9CD80C4B:Life Giver's Crystal
+9CD80C4C:Zefir's Crystal
+9CD80C4D:Resister's Crystal
+9CD80C4E:Thorsten's Crystal
+9CD80C4F:Converter's Crystal
+9CD80C50:Adherent's Crystal
+9CD80C51:Elysa's Crystal
+9CD80C52:Tinker's Crystal
+9CD80C53:Dodger's Crystal
+9CD80C54:Monarch's Crystal
+9CD80C55:Imbuer's Crystal
+9CD80C56:Ben Ten's Crystal
+9CD80C57:Artificer's Crystal
+9CD80C58:Scholar's Crystal
+9CD80C59:Thorsten's Crystal
+9CD80C5A:Lugian's Pearl
+9CD80C5B:Thorsten's Crystal
+9CD80C5C:Artist's Crystal
+9CD80C5E:Training Wand
+9CD80C5F:Foci of Verdancy
+9CD80C60:Foci of Enchantment
+9CD80C61:Foci of Artifice
+9CD80C62:Lead Scarab
+9CD80C63:Letter From Home
+9CD80C64:Asheron's Benediction
+9CD80C65:Blackmoor's Favor
+9CD80C69:Pathwarden Gauntlets
+9CD80C66:Pathwarden Scale Hauberk
+9CD80C67:Pathwarden Scale Leggings
+9CD80C68:Pathwarden Sollerets
+9CD80C6A:Pathwarden Helm
+9CD80C6B:Great Mana Charge
+9CD80C6C:Wand
+9CD80C6D:Trade Health Elixir
+9CD80C71:War Hammer
+9CD80C6E:Elaborate Field Rations
+9CD80C6F:Lightning War Axe
+9CD80C74:Holiday Feast
+9CD80C70:War Axe
+9CD80C72:Electric Bow
+9CD80C75:Black Rock
+9CD80C73:Flaming Dericost Blade
+9CD80C76:Nariyid Breastplate
+9CD80C85:Undead Femur bone
+9CD80C77:Banished Blade
+9CD80C78:Breastplate of Splendor
+9CD80C79:Isparian Arms
+9CD80C7A:Treatise on Essence
+9CD80C7B:Scroll of Summon Primary Portal II
+9CD80C7C:Scroll of Summon Primary Portal I
+9CD80C7D:Scroll of Summon Primary Portal I
+9CD80C7E:Scroll of Summon Secondary Portal I
+9CD80C7F:Invitation Ithaenc Cathedral
+9CD80C80:Deadly Frost Quarrel
+9CD80C81:Peculiar Old Dagger
+9CD80C82:Darling's Collar
+9CD80C83:Harbinger's Foci
+9CD80C84:Yellow Jewel
+9CD80C86:Cooking Pot
+9CD80C87:Scroll of Flame Chain
+9CD80C88:Pack
+9CD80C89:Coral Heart
+9CD80C8A:Coral Heart
+9CD80C8B:Coral Heart
+9CD80C8C:Coral Heart
+9CD80C8D:Identification Plate
+9CD80C8E:Diamond Scarab
+9CD80C8F:Gold Golem Heart
+9CD80C90:Obsidian Heart
+9CD80C91:Pyreal Golem Heart
+9CD80C92:Platinum Golem Heart
+9CD80C93:Platinum Golem Heart
+9CD80C94:Platinum Golem Heart
+9CD80C95:Diamond Scarab
+9CD80C96:Diamond Scarab
+9CD80C97:Obsidian Heart
+9CD80C98:Yellow Jewel
+9CD80C99:Half-Digested Virindi Mask
+9CD80C9A:Pyreal
+9CD80C9B:Pyreal
+9CD80C9C:Seared Shard
+9CD80C9D:Brilliant Shard
+9CD80C9E:Hardened Shard
+9CD80C9F:Charged Shard
+9CD80CA0:Writ of Apology
+9CD80CA1:Murk Drudge Charm
+9CD80CA2:Battle Axe
+9CD80CA3:Acid Katar
+9CD80CA4:Drudge Charm
+9CD80CA5:Wet Towel
+9CD80CA6:Potion of Healing
+9CD80CA7:Swamp Gem
+9CD80CA8:Stout
+9CD80CA9:White Phyntos Wasp Wing
+9CD80CAA:Ravener Guts
+9CD80CAB:Niffis Shell
+9CD80CAC:Renegade Bone Charm
+9CD80CAD:Undead Femur bone
+9CD80CAE:Gold Golem Heart
+9CD80CAF:Potion of Healing
+9CD80CB0:Copper Scarab
+9CD80CB1:Scroll of Summon Secondary Portal I
+9CD80CB2:Burun Guruk Mask
+9CD80CB3:Burun Guruk Mask
+9CD80CB4:Ursuin Scalp
+9CD80CB5:Mystic Drudge Charm
+9CD80CB6:Sage Drudge Charm
+9CD80CB7:Pack
+9CD80CB8:Sturdy Iron Keyring
+9CD80CB9:Sturdy Iron Keyring
+9CD80CBA:Sturdy Iron Keyring
+9CD80CBB:Sturdy Iron Keyring
+9CD80CBC:Sturdy Iron Keyring
+9CD80CBD:Sturdy Iron Keyring
+9CD80CBE:Sturdy Iron Keyring
+9CD80CBF:Sturdy Steel Keyring
+9CD80CC0:Sturdy Steel Keyring
+9CD80CC1:Sturdy Steel Keyring
+9CD80CC2:Sturdy Iron Keyring
+9CD80CC3:Sturdy Iron Keyring
+
+Missing Exports - Possessed items that were not found:
+9CD80D0F
+9CD80CF3
+9CD80CF5
+9CD80CF4
+9CD80CF1
+9CD80CF0
+9CD80CEF
+9CD80CEE
+9CD80CED
+9CD80CEC
+9CD80CEB
+9CD80CEA
+9CD80CE9
+9CD80CE8
+9CD80CE0
+9CD80CE7
+9CD80CE6
+9CD80CE5
+9CD80CE4
+9CD80CE3
+9CD80CE2
+9CD80CE1
+9CD80CDF
+9CD80CDE
+9CD80CDD
+9CD80CDB
+9CD80CDA
+9CD80CD9
+9CD80CD8
+9CD80CD7
+9CD80CD5
+9CD80CF2
+9CD80CD3
+9CD80CD2
+9CD80CD1
+9CD80CD4
+9CD80CD0
+9CD80CD6
+9CD80CF6
+9CD80CDC
+9CD80D10
+9CD80CCB
+9CD80CCA
+9CD80CC9
+9CD80CC8
+9CD80CC7
+9CD80CC6
+9CD80CC5
+9CD80CC4
+9CD80CCF
+9CD80CCD
+9CD80CCE
+9CD80CCC
+9CD80D0E
+9CD80D09
+9CD80CFA
+9CD80CF9
+9CD80D05
+9CD80D04
+9CD80D0D
+9CD80D0C
+9CD80D0B
+9CD80D0A
+9CD80D08
+9CD80D06
+9CD80D02
+9CD80D07
+9CD80D03
+9CD80D01
+9CD80D00
+9CD80CFF
+9CD80CFE
+9CD80CFD
+9CD80CFC
+9CD80CFB
+9CD80CF8
+9CD80CF7

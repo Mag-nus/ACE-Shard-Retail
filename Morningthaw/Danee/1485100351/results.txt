@@ -1,0 +1,240 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\trello_datamining\2_Frore (part 1).pcap
+
+Partial Exports - Missing appraisal info:
+8216C944:Pack
+8216C945:Chiran Gauntlets
+8216C946:Ring
+8216C947:Olthoi Koujia Sollerets
+8216C948:Baggy Breeches
+8216C956:Ust
+8216C949:Sceptre
+8216C94A:Shoes
+8216C94B:Compass
+8216C94C:Baggy Shirt
+8216C94D:Nariyid Gauntlets
+A7A91DE1:Deed
+8216C94E:Haebrean Gauntlets
+8216C94F:Haebrean Pauldrons
+8216C981:Rytheran's Master Seal
+8216C950:Loose Breeches
+8216C951:Baggy Tunic
+8216CA0C:Pyreal
+8216C952:Lyceum Hood
+8216C953:Ring
+8216C959:Messenger's Collar
+8216C954:Heavy Bracelet
+8216C955:Blackmoor's Favor
+8216C95A:Stamina Philtre
+8216C957:Shoyanen's Portal Gem
+8216C958:Aphus Lassel Portal Gem
+8216C984:Stipend
+8216C95B:Heavy Bracelet
+8216C95C:Aligned Mana Stone
+8216C95D:Aetheria Mana Stone
+8216C95E:Pack
+8216C95F:Diamond Scarab
+8216C960:Silver Scarab
+8216C961:Lead Scarab
+8216C962:Iron Scarab
+8216C963:Copper Scarab
+8216C964:Gold Scarab
+8216C965:Pyreal Scarab
+8216C966:Platinum Scarab
+8216C967:Mana Scarab
+8216C968:Vial of Organic Acid
+8216C96E:Gold Pea
+8216C969:Yanshi Portal Gem
+8216C96A:Yaraq Portal Gem
+8216C9A6:Ghostly Shroud
+8216C96B:Holtburg Portal Gem
+8216C96C:Lytelthorpe Portal Gem
+8216CA0D:Pyreal
+8216C96D:Vissidal Island Portal Gem
+8216C96F:Silver Pea
+8216C972:Pyreal Pea
+8216C970:Saffron
+8216C971:Celestial Hand Stronghold Portal Gem
+8216CA2C:Niffis
+8216C973:Prismatic Taper
+8216C974:Trade Note (250,000)
+8216C977:Pack
+8216C978:Radiant Blood Initiate's Handbook
+8216C979:Entryway Key
+8216C97A:Bronze Gearknight Gear
+8216C97B:Enchanted Olthoi Egg
+8216C97C:Polar Ursuin Lair
+8216C97D:Encrusted Bloodstone Jewel
+8216C97E:Refulgent Bracelet
+8216C97F:Slice of Royal Wedding Cake
+8216CA2F:Elemental
+8216C980:Luminance, and the Paths of the Empyrean
+8216C982:Aetheria Powder
+8216C983:Aetherium-infused Gear
+8216C985:Aetheria Powder
+8216C986:Black Coral
+8216C987:Falatacot Battle Report
+8216C988:Lesser Corrupted Essence
+8216C989:Lesser Corrupted Essence
+8216C98A:Corrupted Essence
+8216C98B:Pyre Shroud
+8216C98C:Celestial Hand Trade Token
+8216C98D:Celestial Hand Trade Token
+8216C98E:Celestial Hand Trade Token
+8216C98F:Celestial Hand Trade Token
+8216C990:Pack
+8216C991:Shield Gem of Enlightenment
+8216C992:Finesse Weapons Gem of Enlightenment
+8216C993:Lockpick Gem of Enlightenment
+8216C994:Cooking Gem of Enlightenment
+8216C995:Alchemy Gem of Enlightenment
+8216C996:Missile Weapons Gem of Enlightenment
+8216C997:Light Weapons Gem of Enlightenment
+8216C998:Finesse Weapons Gem of Enlightenment
+8216C999:Lockpick Gem of Forgetfulness
+8216C99A:Finesse Weapons Gem of Forgetfulness
+8216C99B:War Magic Gem of Enlightenment
+8216C99C:Magic Defense Gem of Enlightenment
+8216C99D:Void Magic Gem of Enlightenment
+8216C99E:Pack
+8216C99F:Red Fire Infusion
+8216C9A0:Black Boulder
+8216C9A1:Quest Weapon Coin
+8216C9A2:Dire Champion Token
+8216C9A3:Colosseum Coin
+8216C9A4:Ancient Mhoire Coin
+8216C9A5:Small Olthoi Venom Sac
+8216C9A7:A'nekshay Token
+8216C9A8:Engraved A'nekshay Bracers
+8216C9A9:Prickly Pear
+8216C9AA:Broken Stone Tablet
+8216C9AB:Ornate Gear Marker
+8216C9AC:Snow Tusker Blood Sample
+8216C9AD:Rez'arean Ore
+8216C9AE:Adventurer's Token
+8216C9AF:Pyre Skeleton Jaw
+8216C9B0:Aetherium Power Core
+8216C9B1:Ornate Bone Key
+8216C9B2:Asheron's Lesser Benediction
+8216C9B3:Aetheria Desiccant
+8216C9B4:Peerless Lockpick
+8216C9B5:Ring
+8216C9B6:Ring
+8216C9B7:Pack
+8216C9B8:Encapsulated Spirit
+8216C9B9:Acid Grievver Essence (180)
+8216C9BA:Frost Grievver Essence (180)
+8216C9BB:Fire Phyntos Wasp Essence (180)
+8216C9BC:Scorched Grievver Essence
+8216C9BD:Caustic Grievver Essence
+8216C9BE:Lightning Moar Essence (180)
+8216C9BF:Lightning Phyntos Swarm Essence
+8216C9C0:Freezing Moar Essence
+8216C9C1:Seasoned Explorer Baton
+8216C9C2:Gummy Golem
+8216C9C3:Chocolate Gromnie
+8216C9C4:Branith's Staff
+8216C9C6:Dark Sorcerer's Phylactery
+8216C9C5:Olthoi Shield
+8216C9C7:Ashbane
+8216C9CA:Heavy Bracelet
+8216C9C8:Nariyid Boots
+8216C9C9:Knorr Academy Girth
+80F3BB02:Major Mana Stone
+8216C9CB:Studded Leather Leggings
+8216C9CC:Pack
+8216C9EA:Casting Stein
+8216C9CD:Tenassa Breastplate
+8216C9CE:Trimmed Cloak
+8216C9E9:Pack
+8216C9CF:Trousers
+8216C9D0:Diforsa Gauntlets
+8216CA13:Mana Forge Key
+8216C9D1:Heavy Bracelet
+8216C9D2:Amuli Leggings
+8216CA14:Mana Forge Key
+8216C9D3:Halved Cloak
+8216C9D4:Haebrean Helm
+8216CA12:Greater Mana Kit
+8216C9D5:Ring
+8216C9D6:Blizzard Wisp Essence
+93A0BA63:Major Mana Stone
+8216C9D7:Ring
+8216C9D8:Koujia Sleeves
+8216CA15:Mana Forge Key
+8216C9D9:Lightning K'nath Essence (180)
+8216C9DA:Halved Cloak
+8216CA30:Rabbit
+8216C9DB:Olthoi Alduressa Boots
+8216C9DC:Aetheria
+8216CA24:Blank Augmentation Gem
+8216C9DD:Chiran Coat
+8216C9DE:Trimmed Cloak
+9D09C4E8:Major Mana Stone
+8216C9DF:Aetheria
+8216C9E0:Chevron Cloak
+8216C9E2:Diadem
+8216C9E1:Yoroi Pauldrons
+8216C9E3:Wide Breeches
+8216C9E4:Cloth Gloves
+8216C9E5:Shirt
+8216CA25:Blank Augmentation Gem
+8216C9E6:Pocket Watch
+8216C9E7:Amuli Leggings
+8216C9E8:Scalemail Sleeves
+8216C9EB:Teleportation Device
+8216C9EC:Blunt Sceptre
+8216C9ED:Trade Health Elixir
+8216C9EE:Burning Sands Keyring
+8216C9EF:Black Marrow Keyring
+8216C9F0:Burning Sands Keyring
+8216C9F1:Burning Sands Keyring
+8216C9F2:Burning Sands Keyring
+8216C9F3:Bordered Cloak
+8216C9FD:Greater Stamina Kit
+8216C9F4:Empyrean Over-robe
+8216C9F5:Aetheria
+8216C9F6:Aetheria
+8216C9F7:Intricate Carving Tool
+8216CA16:Mana Forge Key
+8216C9FC:Aetheria
+8216C9FE:Salvage (42)
+8216CA17:Mana Forge Key
+8216C9FF:Salvage (82)
+8216CA00:Salvage (50)
+8216CA18:Mana Forge Key
+8216CA01:Salvage (62)
+8216CA02:Enhanced Mana Elixir
+8216CA03:Enhanced Health Elixir
+8216CA04:Salvage (25)
+8216CA05:Salvage (28)
+8216CA06:Salvage (25)
+8216CA19:Mana Forge Key
+8216CA07:Salvage (69)
+8216CA08:Salvage (22)
+8216CA1A:Mana Forge Key
+8216CA09:Excited Grievver Essence
+8216CA0A:Salvage (100)
+8216CA0B:Salvage (100)
+8216CA0E:Nariyid Helm
+8216CA1B:Mana Forge Key
+8216CA0F:Lorica Gauntlets
+8216CA10:Frost Baton
+8216CA11:Flaming Lugian Hammer
+8216CA1C:Mana Forge Key
+8216CA1D:Mana Forge Key
+8216CA1E:Staff of Aerfalle
+8216CA1F:Aerfalle's Pallium
+8216CA20:Celestial Hand Initiate Armor Writ
+8216CA21:Frozen Valley Portal Gem
+8216CA2A:Lugian Commander's Insignia
+8216CA22:Salvage (25)
+8216CA23:Salvage (94)
+C4433D95:Seal
+8216CA26:Salvage (19)
+8216CA39:Ring of Shielding
+8216CA3A:Imbued Asteliary Orb
+8216C9FB:Focusing Stone
+8216C9F8:The Healer's Heart
+
+Missing Exports - Possessed items that were not found:

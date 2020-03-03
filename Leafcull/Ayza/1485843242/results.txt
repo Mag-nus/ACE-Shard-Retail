@@ -1,0 +1,99 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\pkt_2017-1-30_1485843220_desc\pkt_2017-1-30_1485843220_log.pcap
+
+Partial Exports - Missing appraisal info:
+ADF7B162:Flared Tunic
+ADF9ABFB:Loose Pants
+ADF9AC93:Shoes
+ADF7B261:Rowan Talisman
+ADF9AC3E:Powdered Moonstone
+ADFB6FA7:Powdered Agate
+ADF87E8E:Apple
+ADFB6F93:Powdered Hematite
+ADF9AC63:Realgar
+ADF9AC35:Poplar Talisman
+ADF7B1B2:Quicksilver
+ADFB6FA6:Powdered Turquoise
+ADF9ACB7:Sack
+ADF7B1C1:Stibnite
+ADF9AE5E:Vitriol
+ADF9AC37:Ashwood Talisman
+ADF9AC86:Yew Talisman
+ADF9ADD2:Cedar Talisman
+ADF7B20D:Hyssop
+ADF9AC92:Willow Talisman
+ADF9AC21:Wormwood
+ADF7B1B7:Ginseng
+ADF9AC80:Powdered Onyx
+ADF9AC9A:Cobalt
+ADF9ACB5:Ebony Talisman
+ADF7B175:Damiana
+ADF87E91:Alder Talisman
+ADF7B1ED:Lead Scarab
+ADF7AFA5:Mandrake
+ADF9ACA0:Powdered Amber
+ADF88275:Hemlock Talisman
+ADF9ABD7:Colcothar
+ADFB6FB1:Pyreal
+ADF97FC2:Amulet
+ADF79CAA:Flimsy Lockpick
+ADF9ACB6:Gem
+ADF9ACC4:Greeter's Key
+ADF9AC76:Quartermaster's Workshop Key
+ADF7B191:Fish
+ADF7B1CD:Academy Stamina Potion
+ADF7B18A:Academy Healing Potion
+ADF9AC7F:Academy Mana Potion
+ADF7B1AE:Studded Leather Gauntlets
+ADFB6FB0:Hawthorn
+ADF9ACA5:Saffron
+ADF9AC04:Grapes
+ADF7B188:Peppermint Stick
+ADF7B26B:Pyreal
+ADF9B6B6:Brimstone-cap Mushroom
+ADF9AE60:Saffron
+ADFB6DB8:Indigo Taper
+ADF98E20:Grey Taper
+ADF9ACE6:Brown Taper
+ADF795BA:Blue Taper
+ADF7AEEB:Turquoise Taper
+ADF9AC6C:Green Taper
+ADF9AC47:Yellow Taper
+ADF7B1AA:Orange Taper
+ADF9AC52:Pink Taper
+ADF7B163:Red Taper
+ADF7B1B9:Comfrey
+ADF9AC65:Chainmail Leggings
+ADFB6F9E:Chainmail Coif
+ADF9AC5D:Iron Scarab
+ADF79E69:Powdered Carnelian
+ADF7B1BE:Brimstone
+ADF9AC39:Violet Taper
+ADF7B174:Cinnabar
+ADF9ACC7:Cinnabar
+ADFB6FAF:Pink Taper
+ADF9ACC9:Pyreal
+ADF7B203:White Taper
+ADF9AC95:Club
+ADFB6F9F:Katar
+ADF7B176:Khanjar
+ADF76BB6:Handy Healing Kit
+ADF9B5D9:Gem
+ADF9AE43:Kasrullah
+ADF9AEBF:Gem
+ADF9B6A9:Shou-ono
+ADF9B6B8:Khanjar
+ADF9ACA8:Jambiya
+ADF9AC2D:Club
+ADF9B4E6:Shouken
+ADF9AC8D:Quarrel
+ADF9ACAC:Khanjar
+ADF79CBB:Sho Wand
+ADF9ACA9:Quarrel
+ADF9ACDD:Bracelet
+ADF9ACD8:Pack Bael'Zharon
+ADF9ACC0:Some Changes for February 2012
+ADF7B1BA:Blackmoor's Favor
+ADF79E7A:Heavy Crossbow
+
+Missing Exports - Possessed items that were not found:

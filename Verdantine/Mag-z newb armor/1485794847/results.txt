@@ -1,0 +1,31 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-29_1485706601_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-28_1485657573_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-30_1485810611_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-29_1485706601_log.pcap
+
+Partial Exports - Missing appraisal info:
+8D3EEE34:Greater Olthoi Brood Queen Helm
+8D3EF384:Greater Olthoi Pauldrons
+8D4015AF:Greater Olthoi Bracers
+8D3CA37C:Greater Olthoi Gauntlets
+8D3EEEC5:Greater Olthoi Breastplate
+8D42D75A:Greater Olthoi Bracers
+8D42D758:Greater Olthoi Brood Queen Helm
+8D42D759:Greater Olthoi Pauldrons
+8D42D756:Greater Olthoi Gauntlets
+8D401B0F:Greater Olthoi Brood Queen Helm
+8D3EF644:Greater Olthoi Breastplate
+8D3EEE5C:Greater Olthoi Pauldrons
+8D401B05:Greater Olthoi Bracers
+8D3EC438:Greater Olthoi Gauntlets
+8D395684:Greater Olthoi Brood Queen Helm
+8D3EEE26:Greater Olthoi Breastplate
+8D401B9C:Heavy Necklace
+8D408C86:Trousers
+8D3EF71A:Poet's Shirt
+8D401C94:Lace Shirt
+
+Missing Exports - Possessed items that were not found:

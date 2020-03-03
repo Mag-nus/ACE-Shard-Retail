@@ -1,0 +1,43 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Cyberkiller-01-31-2017-Random\pkt_2017-1-31_1485861451_log.pcap
+
+Partial Exports - Missing appraisal info:
+D88E845E:Yew Talisman
+D890E8F7:Cedar Talisman
+D890E93F:Hyssop
+D890E92E:Willow Talisman
+D890E925:Wormwood
+D890E91D:Ginseng
+D890E947:Powdered Onyx
+D890E90C:Cobalt
+D890E936:Ebony Talisman
+D890E914:Damiana
+D890E94E:Alder Talisman
+D890E8FE:Lead Scarab
+D890E8F6:Mandrake
+D890E92D:Powdered Amber
+D890E924:Colcothar
+D890E946:Hemlock Talisman
+D890E90B:Greeter's Key
+D890E923:Restoring the Training Academies
+D890E95E:Pack Gaerlan
+D890E943:Sturdy Iron Key
+D890E94C:Salvaged  (5)
+D890E93C:Salvaged  (4)
+D890E92B:Salvaged  (19)
+D890E932:Some Changes for February 2012
+D890E922:Salvaged  (7)
+D890E91A:Salvaged  (4)
+D890E944:Salvaged  (3)
+D890E909:Salvaged  (4)
+D890E933:Salvaged  (4)
+D890E966:Salvaged  (3)
+D890E95D:Salvaged  (11)
+D890E911:Salvaged  (4)
+D890E954:Salvaged  (3)
+D890E94B:Salvaged  (3)
+D890E92A:Salvaged  (3)
+D890E921:Verdalim Plant
+D890E93B:Verdalim Plant
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,115 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Jojii1\Jojii1\pkt_2017-1-14_1484446611_log.pcap
+
+Partial Exports - Missing appraisal info:
+AAFDE69B:Foci of Artifice
+AAFDE69F:Pack
+AAFDE6A1:Elysa's Boon
+AAFDE6A8:Dansha-Ki's Ring
+AAFDE6AD:Ust
+AAFDE6AE:Prismatic Taper
+AAFDE6B0:Pack
+AAFDE6B3:Slippers
+AAFDE6B1:Shirt
+AAFDE6B2:Poet's Shirt
+AAFDE6D3:Pyreal
+AAFDE6B6:Doublet
+AAFDE6BC:A List of Items
+AAFDE6B8:Lead Scarab
+AAFDE6BB:Sturdy Iron Key
+AAFDE6BD:Directions to Nen Ai's House
+AAFDE6BE:Directions to the Shreth Hive
+AAFDE6C0:Scroll of Creature Enchantment Mastery Self IV
+AAFDE6C2:Sturdy Iron Key
+AAFDE6C7:Gold Tumerok Insignia
+AAFDE6C6:Pack
+AAFDE6C8:Salvage
+AAFDE6CF:Treated Healing Kit
+AAFDE6CE:Ring of Piercing Protection
+AAFDE6D0:Trade Note (10,000)
+AAFDE6D1:Note from Mi Krau-Li
+AAFDE6D2:Trade Note (50,000)
+AAFDE6D5:Gifted Healing Kit
+AAFDE6D7:Gold Tumerok Insignia
+AAFDE6DA:Aetherium Vault Key
+AAFDE6DC:Pack
+AAFDE72A:Stone Fists Token
+AAFDE6DE:Monty's High-Stakes Gambling Token
+AAFDE6DF:A Bracelet of Piercing Protection
+AAFDE6E0:Treated Healing Kit
+AAFDE6E1:Treated Healing Kit
+AAFDE6E4:Scroll of Lightning Vulnerability Other V
+AAFDE6E8:Treated Healing Kit
+AAFDE6E6:Glittering Necklace of Acid and Piercing Protection
+AAFDE6E7:Trade Note (75,000)
+AAFDE6E9:Treated Healing Kit
+AAFDE6F0:Diamond Heart
+AAFDE6EE:Lapyan Plant
+AAFDE6EF:Minalim Plant
+AAFDE6F1:King of Eyes
+AAFDE6F2:Pack
+AAFDE6F3:Scroll of Bludgeoning Vulnerability Other III
+AAFDE6F4:Scroll of Item Tinkering Ignorance II
+AAFDE6F5:Scroll of Bludgeon Protection Self
+AAFDE6F6:Scroll of Two Handed Weapons Ineptitude VI
+AAFDE6F7:Scroll of Life Magic Ineptitude V
+AAFDE6F8:Scroll of Missile Weapon Ineptitude Other V
+AAFDE6F9:Scroll of Willpower Other VI
+AAFDE6FA:Scroll of Unsteady Hands
+AAFDE6FB:Scroll of Leadership Ineptitude VI
+AAFDE6FC:Scroll of Creature Enchantment Ineptitude VI
+AAFDE6FD:Scroll of Cold Protection Self V
+AAFDE6FE:Scroll of Weapon Tinkering Expertise Self VI
+AAFDE6FF:Scroll of Yoshi's Blessing
+AAFDE700:Scroll of Two Handed Weapon Mastery Self VI
+AAFDE701:Scroll of Impenetrability V
+AAFDE702:Scroll of Light Weapon Mastery Self V
+AAFDE703:Diamond Heart
+AAFDE704:Pyreal Mote
+AAFDE706:Argenory Plant
+AAFDE70B:Pack
+AAFDE72E:Pyreal
+AAFDE72F:Pyreal
+AAFDE70C:Scroll of Magic Yield Other III
+AAFDE70D:Scroll of Mana Renewal Self II
+AAFDE70E:Scroll of Jumping Mastery Other III
+AAFDE70F:Scroll of Revitalize Other II
+AAFDE710:Scroll of Lightning Bane III
+AAFDE711:Scroll of Light Weapon Mastery Other II
+AAFDE712:Scroll of Cold Protection Other II
+AAFDE713:Scroll of Blood Loather
+AAFDE714:Scroll of Blade Protection Other III
+AAFDE715:Scroll of Bludgeon Bane
+AAFDE716:Scroll of Creature Enchantment Ineptitude III
+AAFDE717:Scroll of Defenselessness III
+AAFDE718:Scroll of Magic Item Tinkering Expertise Self II
+AAFDE719:Scroll of War Magic Mastery Self
+AAFDE71A:Scroll of Harm Other II
+AAFDE71B:Scroll of Hermetic Void II
+AAFDE71C:Scroll of Invulnerability Other II
+AAFDE71D:Scroll of Item Tinkering Ignorance III
+AAFDE71E:Scroll of Lure Blade II
+AAFDE71F:Scroll of Strength Other III
+AAFDE720:Scroll of Light Weapon Mastery Other III
+AAFDE721:Scroll of Impregnability Other III
+AAFDE722:Scroll of Acid Vulnerability Other III
+AAFDE723:Scroll of Drain Stamina Other II
+AAFDE727:Trade Note (250,000)
+AAFDE729:Copper Pea
+AAFDE72B:Azaxis Token
+AAFDE72C:Crowley's Champion Token
+AAFDE72D:Demon Swarm Matron Token
+AAFDE730:Pyreal
+AAFDE731:Pyreal
+AAFDE732:Pyreal
+AAFDE733:Pyreal
+AAFDE734:Pyreal
+AAFDE735:Pyreal
+AAFDE736:Pyreal
+AAFDE739:Copper Scarab
+AAFDE73A:Heavy Bracelet
+AAFDE73C:Cloth Gloves
+AAFDE73F:Kasa
+AAFDE741:Some Changes for February 2012
+
+Missing Exports - Possessed items that were not found:

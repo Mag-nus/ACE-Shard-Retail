@@ -1,0 +1,279 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\pkt_2017-1-25_1485324185_log\pkt_2017-1-25_1485324185_log.pcap
+
+Partial Exports - Missing appraisal info:
+80CE648C:Pack
+80C480B9:Ust
+80E132BF:Brilliant Shard
+80C03A37:Radiant Blood Trade Token
+80E33967:Charged Shard
+809A0D71:Radiant Blood Initiate Armor Writ
+807E12FF:Asheron's Lesser Benediction
+80B3A018:Blackmoor's Favor
+80CE673B:Aligned Mana Stone
+80C48792:Radiant Blood Stronghold Portal Gem
+80E133CB:Aetherium-infused Gear
+80CE5124:Legendary Token
+BB56766E:Insatiable Eater Jaw
+B9A78FC0:Stipend
+ACDDE9D5:Sealed Scroll for Commander Presk
+8034867A:Burning Sands Keyring
+80CE6A5C:Aetheria Mana Stone
+CCFDD687:Trade Note (250,000)
+B2583F47:Imbue Swap Coin
+95A786D7:Pitted Slag
+D53A3B4D:Chorizite
+A08903BF:Adventurer's Token
+80C46187:Pack
+8E3DD3A6:Massive Mana Charge
+8CD2A9E5:Massive Mana Charge
+D3CF2E8C:Massive Mana Charge
+CC500F28:Massive Mana Charge
+D67E6517:Massive Mana Charge
+ABD5A535:Massive Mana Charge
+8E44A7F4:Massive Mana Charge
+D7F81215:Massive Mana Charge
+8DFBFDC6:Massive Mana Charge
+D760757C:Massive Mana Charge
+B9F2C879:Massive Mana Charge
+D6B5215B:Massive Mana Charge
+B1DEC28C:Massive Mana Charge
+C9747EC2:Massive Mana Charge
+8BAC3114:Massive Mana Charge
+9C105103:Massive Mana Charge
+8F56ECCB:Massive Mana Charge
+D80EC088:Massive Mana Charge
+D80EC032:Massive Mana Charge
+B45A1CC2:Massive Mana Charge
+80CE6555:Pack
+80E133AC:Lead Scarab
+80E1322F:Iron Scarab
+80AFF5E0:Silver Scarab
+80CE6A3E:Gold Scarab
+80C465BB:Pyreal Scarab
+9437F24B:Vissidal Island Portal Gem
+B4D77F6C:Copper Scarab
+A9861385:Al-Arqas Portal Gem
+A9834953:Shoushi Portal Gem
+D6CE3323:Rock
+A91ABF95:Mutated Olthoi Gland
+95FC66B0:A'nekshay Token
+B91D51CF:Platinum Scarab
+ABC48FC5:Rithwic Portal Gem
+8E2167E5:Frozen Valley Portal Gem
+D7E02905:Massive Mana Charge
+B98AC763:Linvak Tukal Portal Gem
+C3175920:Shoyanen's Portal Gem
+D7E69B2F:Pyreal
+BF746F97:Celdiseth's Portal Gem
+80E13328:Encrusted Bloodstone Jewel
+D5D0D09B:Massive Mana Charge
+D5793CD4:Mana Scarab
+8094A93F:Diamond Scarab
+D507FC6B:Yaraq Portal Gem
+C4D3449A:Prismatic Taper
+8E6D75E7:Pack
+CB19897D:Nether Baton
+882C78C6:Electric Baton
+C7A716AF:Staff
+8055271B:Massive Mana Charge
+B81824F7:Slashing Sceptre
+AE6E8085:Slashing Sceptre
+9DA914F0:Deed
+D09C0520:Acid Baton
+D018127C:Wand
+BA4BDB17:Massive Mana Charge
+ACCC0BC6:Frost Sceptre
+B9618D3F:Acid Baton
+C7DE6E0B:Orb
+B7517BF3:Nether Sceptre
+A8F30F05:Pathwarden Trinket
+CCECAFB8:Nether Staff
+B9F83C1F:Frost Sceptre
+9F2D19A1:Acid Staff
+D39B9CF3:Blunt Baton
+BE7951C7:Slashing Staff
+AD2F7738:Staff
+D128623C:Massive Mana Charge
+D34C9D6F:Acid Baton
+D2C0C1AF:Orb
+D4D6B935:Massive Mana Charge
+80E12C4F:Rage of Grael Gem
+AA5188E0:Pack
+B7CE289E:Massive Mana Charge
+8CD2A809:Massive Mana Charge
+871D15A1:Massive Mana Charge
+D083D05B:Massive Mana Charge
+D6B52183:Massive Mana Charge
+CC148C8C:Massive Mana Charge
+D71EA88B:Massive Mana Charge
+CEE7B53C:Massive Mana Charge
+BB19D644:Massive Mana Charge
+BA4BDBC7:Massive Mana Charge
+BA4BB6AE:Massive Mana Charge
+BBA71618:Massive Mana Charge
+C953B1C7:Massive Mana Charge
+D80EC0CE:Massive Mana Charge
+D80EC006:Massive Mana Charge
+CF77CB30:Massive Mana Charge
+801724EC:Massive Mana Charge
+D7F7F1C4:Massive Mana Charge
+D7F81229:Massive Mana Charge
+D76C18CA:Massive Mana Charge
+935AB03A:Aetheria
+81AA779A:Aetheria
+B984549C:Yellow Empyrean Ring
+BCD38A22:Potion of Black Fire
+802B6656:Aetheria
+A957F634:Pack
+D6FE34C9:Massive Mana Charge
+D5B8CB0E:Massive Mana Charge
+D0A84EA2:Massive Mana Charge
+D7335E38:Massive Mana Charge
+80171264:Massive Mana Charge
+D7384AE1:Massive Mana Charge
+8D28667C:Massive Mana Charge
+D7686E29:Massive Mana Charge
+D80EC162:Massive Mana Charge
+D7F7EECD:Massive Mana Charge
+BA302184:Massive Mana Charge
+8128F08C:Massive Mana Charge
+83A0B695:Massive Mana Charge
+8AF0045F:Massive Mana Charge
+D7799776:Massive Mana Charge
+9453D6E1:Massive Mana Charge
+D7F7F1CD:Massive Mana Charge
+D73C6547:Massive Mana Charge
+D7F81224:Massive Mana Charge
+D7F81244:Massive Mana Charge
+CFC010BC:Massive Mana Charge
+811CFFF4:Massive Mana Charge
+84E19AAE:Gorget
+B652D0FF:Gauntlet Backpack
+B9420700:Crown
+C22AFF04:Teardrop Crown
+BC49A3E5:Diadem
+BCE494A0:Crown
+BB813CFE:Crown
+D71EA72E:Massive Mana Charge
+BB391FCE:Signet Crown
+BC9F45A8:Crown
+BB40BE29:Circlet
+A2743A1A:Circlet
+B4F13A38:Teardrop Crown
+81921157:Diadem
+9B91B633:Coronet
+81921119:Crown
+8192114A:Circlet
+81921110:Crown
+BB3B3FCB:Circlet
+81921144:Circlet
+C3B1B32C:Circlet
+948B9B8C:Coronet
+BB78A575:Coronet
+C2BDEF9C:Teardrop Crown
+9D4A56AF:Diadem
+D1E90F29:Teardrop Crown
+AE2A772E:Signet Crown
+BF474B9C:Diadem
+8014E6A0:Coronet
+D7DCD16E:Experience Certificate
+84E2D7FA:Pack
+D64AF90D:Ancient Mhoire Coin
+D64AF78E:Box Of Ten Ancient Mhoire Coins
+BDC34154:Black Market Gem of Dispelling
+BDC0A360:Black Market Gem of Dispelling
+AADE5EA5:Black Market Health Elixir
+AF809DE0:Elaborate Field Rations
+B48DBF01:Enhanced Mana Elixir
+A9707E33:Bandit Mask
+D6C78F5C:Lesser Corrupted Essence
+D52B18AD:Spectral Crystal of the Hieromancer
+D52EB701:Spectral Crystal of the Life Giver
+99257F3D:Ancient Falatacot Trinket
+D6C78FF7:Lesser Corrupted Essence
+D255F854:Mire Phyntos Wasp Wing
+D75EDA14:Lesser Corrupted Essence
+D765CD7C:Lesser Corrupted Essence
+D7E16EC4:Experience Certificate
+D7DE5F86:Experience Certificate
+D7E16ECA:Experience Certificate
+D7E16ECB:Experience Certificate
+D7E16ECC:Experience Certificate
+C18ECC9E:Massive Mana Charge
+A956B9CA:Virindi Consul Essence
+801132B0:Coronet
+D53A119A:Gummy Golem
+8006E422:Tasty Pudding
+D175521B:Slice of Royal Wedding Cake
+D59F2B6D:Great Pumpkin
+D59F2B6C:Pumpkin
+D5D3C33F:Elaborate Dried Rations
+D5D57519:Stamina Philtre
+BB70FF96:Miner's Hat
+BB70FFB7:Chef's Hat
+B773318F:Enhanced Assault Axe
+D6CC2FC7:Writ of Refuge
+C32710C6:Martine's Mask
+C32710B1:Martine's Robe
+80D67C8E:Weeping Wand
+BBDC8BCB:Burning Coal
+C81E70D2:Essence of Cave Penguin
+90CB292E:Electric Baton
+ABAABF78:Tome of Caustics
+D7DCA026:Poofy Snowball
+D5223625:Armor Tailoring Kit
+D7E16F1D:Experience Certificate
+80C69AF5:Virindi Consul Essence
+80E131DA:Focusing Stone
+D7D91D9B:Tusker Spit Ale
+D7F7F1BE:Massive Mana Charge
+D7CB9EE0:Amber Ape
+D7E43B41:Hunter's Stock Amber
+D7E43A7E:Bobo's Stout
+D7CF9479:Duke Raoul's Distillation
+D7E69B89:Holtburg Portal Gem
+D7668706:Lesser Corrupted Essence
+D7F7F1C1:Massive Mana Charge
+D7F7AE8A:Nanto Portal Gem
+D7F7AE88:Samsur Portal Gem
+D7F7AE7C:Yanshi Portal Gem
+D7F7AA52:Magic Iceball
+D7F81228:Massive Mana Charge
+D7F8122A:Massive Mana Charge
+D7F7F1D7:Massive Mana Charge
+D7982B17:Massive Mana Charge
+D7F81242:Massive Mana Charge
+D7F7EECC:Massive Mana Charge
+C18ECCA7:Massive Mana Charge
+C18ECC7D:Massive Mana Charge
+D5D06EA3:Massive Mana Charge
+D71F82F5:Massive Mana Charge
+A630F643:Massive Mana Charge
+930B32A5:Massive Mana Charge
+BDB77BE9:Massive Mana Charge
+803D12A3:Potion of Endless Vigor
+803D12A2:Potion of Destiny's Wind
+D7F7F1D1:Massive Mana Charge
+D6B521DE:Massive Mana Charge
+D7F7F1BF:Massive Mana Charge
+D7BA2521:Massive Mana Charge
+D7F7F1C2:Massive Mana Charge
+D6B521D5:Massive Mana Charge
+CEB2B123:Massive Mana Charge
+B5198DD7:Massive Mana Charge
+D80A9D3A:Tumerok Salted Meat
+D7AAA497:Massive Mana Charge
+AEE588B4:Massive Mana Charge
+B6DF9D2D:Massive Mana Charge
+93F52CFB:Massive Mana Charge
+D24B0838:Massive Mana Charge
+AEDA3EF1:Massive Mana Charge
+D80EC073:Massive Mana Charge
+D814647E:Noble Relic Sollerets of Speed
+D81E9C38:Skeletal Atlatl
+B69855D7:Energy Crystal
+A7175BCE:Orb of the Bunny Booty
+D8212A9F:Stamina Tonic
+
+Missing Exports - Possessed items that were not found:

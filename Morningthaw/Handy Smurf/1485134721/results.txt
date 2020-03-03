@@ -1,0 +1,67 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-22_1485134283_log.pcap
+
+Partial Exports - Missing appraisal info:
+80820687:Foci of Artifice
+80820688:Renegade Insignia Ring
+80820689:Pack Gaerlan
+8082068A:Ust
+8082068B:A Large Mnemosyne
+8082068C:A Large Mnemosyne
+8082068D:Scroll of Summon Secondary Portal I
+8082068E:Scroll of Summon Primary Portal I
+8082068F:Greeter's Key
+80820690:A Crumpled Note
+80820691:Pack
+80820692:Ust
+80820693:Lead Scarab
+80820694:Iron Scarab
+80820695:Copper Scarab
+80820696:Silver Scarab
+80820697:Gold Scarab
+80820698:Pack
+8082069A:Bracelet
+8082069B:Heavy Bracelet
+808206B6:Pedestal
+808206A4:Tunic
+808206A6:Treated Healing Kit
+808206A7:Treated Healing Kit
+808206A8:Treated Healing Kit
+808206A9:Treated Healing Kit
+808206AA:Compass
+808206AE:Pack Gaerlan
+808206AF:Pack
+808206B3:Reshalra's Collar
+808206B8:Scrap of Paper
+808206B9:Pedestal with a Floral Arrangement
+808206BA:Pack
+808206BC:Slag
+808206BF:Crystal Vase with Sunflowers
+808206CD:Pack Bael'Zharon
+808206C8:Singularity Keyring
+808206D0:Pyreal Golem Heart
+808206D2:Coral Heart
+808206CE:Dho Vest and Robe
+808206D3:Vapor Golem Heart
+808206D7:Blackmoor's Favor
+808206DE:Instructions for Essence Recovery
+808206E3:Sclavus Guise
+808206E5:Skeletal Body with one Leg
+808206E6:Suikan Item Master Robe
+808206ED:Pumpkin Cookie Cutter
+808206F2:Intricate Obsidian Key
+808206F3:Some Changes for February 2012
+808206F8:Ebon Mattekar Hide
+808206F9:Trade Note (10,000)
+808206FA:Ring
+80820704:Salvage (100)
+80820705:Salvage (100)
+80820706:Salvaged  (100)
+80820707:Salvaged  (100)
+8082070F:Small Bundle of Kithless Siraluun Feathers
+80820710:Small Bundle of Kithless Siraluun Feathers
+80820711:Small Bundle of Kithless Siraluun Feathers
+80820712:Small Bundle of Kithless Siraluun Feathers
+80820713:Small Bundle of Kithless Siraluun Feathers
+
+Missing Exports - Possessed items that were not found:

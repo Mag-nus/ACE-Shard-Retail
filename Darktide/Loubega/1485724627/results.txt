@@ -1,0 +1,120 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\imtrippin-01-30-2017-empyrean-workshop-and-more\pkt_2017-1-29_1485724615_log.pcap
+
+Partial Exports - Missing appraisal info:
+AB72E676:Foci of Enchantment
+AB72E677:Foci of Artifice
+BEC2F7EF:Foci of Verdancy
+BEC08E5D:Pack
+AB824EC6:Facility Hub Portal Gem
+BEDCD752:Gold Scarab
+AB8399DF:Blackmoor's Favor
+BEE0F0DD:Aphus Lassel Portal Gem
+BEDFCB7B:Splitting Tool
+BFB7874F:Sezzherei's Lair
+BEDDB0D8:Pyreal Scarab
+BEDDB0CC:Silver Scarab
+BEDDBF67:Iron Scarab
+BEDDBF3B:Copper Scarab
+BFA9F626:Platinum Scarab
+BFD36AC9:Lead Scarab
+BEBF8A08:Inscribed Purple Gem
+C01E6A47:Pyreal
+BFE57803:Salvage (61)
+C0E45A8B:Prismatic Taper
+9DEA6459:Trade Note (250,000)
+C09F4B31:Gem
+BFBA6EC1:Stipend
+C0BC9DAF:Copper Pea
+BFD305C6:Pack
+AB72E671:Ust
+BF91D917:Caulnalain Gem
+BFB52FF6:Dire Champion Token
+BFC63485:Aligned Mana Stone
+BFFA016E:Crystal of Spectral Blood
+BFFA0125:Skull of One Thousand Torments
+C162DBC8:Massive Mana Charge
+BFD63A6B:Pack
+C0AD8544:Massive Mana Charge
+C10D6E44:Massive Mana Charge
+C10D6E41:Massive Mana Charge
+C10D6D9C:Massive Mana Charge
+C118B47B:Massive Mana Charge
+BFF9CE62:Blighted Mana Crystal
+C0BA2978:Invitation Plateau
+C10D6D47:Prismatic Taper
+C064A6B5:Salvage (24)
+C118B545:Prismatic Taper
+C0AB78D7:Massive Mana Charge
+C05EE4AC:Salvage (10)
+C0AD85A3:Massive Mana Charge
+C05D5CC7:Foci of Strife
+C163C1B4:Massive Mana Charge
+C163C1A6:Massive Mana Charge
+C163C1A5:Massive Mana Charge
+C0B8E98F:Salvage (81)
+C15B4057:Massive Mana Charge
+BFFCDB64:Gem of Lesser Luminance
+C07664E0:Sezzherei's Lair
+C0A37FAA:Salvage (33)
+C163C18D:Massive Mana Charge
+C0C0D017:Salvage (33)
+C0CFCB05:Salvage (11)
+C161B947:Massive Mana Charge
+C0C0120B:Salvage (33)
+C163C1A3:Massive Mana Charge
+C0F12F34:Salvage (92)
+C0F12F08:Salvage (32)
+C163C1B3:Massive Mana Charge
+C0EBCD15:Salvage (86)
+C0F6638C:Salvage (50)
+C163C18C:Massive Mana Charge
+C0F65EDC:Salvage (51)
+C0DC5A91:Salvage (30)
+C1588E1D:Massive Mana Charge
+C0DC5D5C:Salvage (21)
+C0FC15E7:Salvage (100)
+C163C18A:Massive Mana Charge
+C0F12289:Salvage (36)
+C10D6D23:Shoyanen's Portal Gem
+C163C1A8:Massive Mana Charge
+C09FDAA3:Encapsulated Spirit
+C163C1B1:Massive Mana Charge
+C163C1AB:Massive Mana Charge
+C117ADC3:Massive Mana Charge
+C0AC9AC7:Massive Mana Charge
+C0AD9AB6:Massive Mana Charge
+C0A7F028:Massive Mana Charge
+C162DBC9:Massive Mana Charge
+C117AD11:Massive Mana Charge
+C028D271:Massive Mana Charge
+C0A9EDA3:Massive Mana Charge
+C11A44B3:Massive Mana Charge
+C1680CAB:Aged Legendary Key
+C1680CAA:Aged Legendary Key
+C1680CA9:Aged Legendary Key
+C1680CA8:Aged Legendary Key
+C1680CA7:Aged Legendary Key
+C1680CA6:Aged Legendary Key
+C1680CA5:Trade Note (250,000)
+C1680CA4:Aged Legendary Key
+C1680CA3:Aged Legendary Key
+C1680CA2:Aged Legendary Key
+C1680CA1:Aged Legendary Key
+C1680CA0:Aged Legendary Key
+C1680C9F:Aged Legendary Key
+C1680C9C:Aged Legendary Key
+C1680C9B:Aged Legendary Key
+C1680C9A:Aged Legendary Key
+C1680C99:Aged Legendary Key
+C1680C98:Aged Legendary Key
+C1680C97:Aged Legendary Key
+C1680C95:Aged Legendary Key
+C1680C94:Aged Legendary Key
+C1680C93:Aged Legendary Key
+C1680C92:Aged Legendary Key
+D8570B82:Oswald's Crystal
+D862F778:Salvage (86)
+D862FD68:Salvage (40)
+
+Missing Exports - Possessed items that were not found:

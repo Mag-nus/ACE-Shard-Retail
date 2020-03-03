@@ -1,0 +1,199 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Cyberkiller-01-31-2017-Random\pkt_2017-1-31_1485861812_log.pcap
+
+Partial Exports - Missing appraisal info:
+DD30F6A4:Ust
+DD30F6BD:Sack
+DD30F6BC:Yoroi Leggings
+DD30F6BA:Shoes
+DD30F69F:Pathwarden Trinket
+DD30F6B8:Leather Greaves
+DD30F6B7:Qafiya
+DD30F6B5:Cloth Gloves
+DD30F6B3:Chiran Gauntlets
+DD30F6B1:Aetheria
+DD30F6AE:Aetheria
+DD30F6AD:Heavy Bracelet
+DD30F69B:Pack
+DD30F682:Pack
+DD30F6A5:Heavy Bracelet
+DD30F6A2:Blackmoor's Favor
+DD30F6A1:Oil of Rendering
+DD30F69E:Salvage
+DD30F69D:Salvage
+DD30F69C:Salvage
+DD30F696:Aetheria
+DD30F699:Leather Cap
+DD30F695:Sedgemail Leather Vest
+DD30F692:Cloth Gloves
+DD30F690:Studded Leather Girth
+DD30F68E:Fez
+DD30F68C:Nariyid Gauntlets
+DD30F68B:Cloth Gloves
+DD30F68A:Loafers
+DD30F686:Cloth Gloves
+DD30F684:Studded Leather Girth
+DD30F681:Lyceum Hood
+DD30F680:Aetheria
+DD30F67F:Leather Sleeves
+DD30F67E:Shoes
+DD30F66D:Loafers
+DD30F67D:Studded Leather Sleeves
+DD30F67C:Tenassa Breastplate
+DD30F67B:Bracelet
+DD30F67A:Aetheria
+DD30F670:Diforsa Greaves
+DD30F679:Lorica Leggings
+DD30F678:Chiran Coat
+DD30F676:Studded Leather Breastplate
+DD30F675:Amuli Leggings
+DD30F674:Chainmail Breastplate
+DD30F673:Amuli Coat
+DD30F672:Lorica Sleeves
+DD30F671:Flared Shirt
+DD30F66F:Kasa
+DD30F66C:Slippers
+DD30F66B:Diadem
+DD30F66A:Platemail Leggings
+DD30F669:Pack
+DD30F668:Salvage (100)
+DD30F667:Salvage (100)
+DD30F650:Pack
+DD30F666:Salvage (100)
+DD30F665:Salvage (100)
+DD30F637:Pack
+DD30F664:Salvage (100)
+DD30F663:Salvage (100)
+DD30F635:Dirk
+DD30F662:Salvage (100)
+DD30F661:Salvage (100)
+DD30F621:Pack
+DD30F660:Salvage (100)
+DD30F65F:Salvage (100)
+DD30F61F:Mazule
+DD30F65E:Salvage (100)
+DD30F65D:Salvage (100)
+DD30F65C:Salvage (100)
+DD30F65B:Salvage (100)
+DD30F65A:Salvage (100)
+DD30F659:Salvage (100)
+DD30F658:Salvage (100)
+DD30F657:Salvage (100)
+DD30F656:Salvage (100)
+DD30F655:Salvage (100)
+DD30F654:Salvage (100)
+DD30F653:Salvage (100)
+DD30F652:Salvage (100)
+DD30F651:Salvage (100)
+DD30F64F:Olthoi Amuli Helm
+DD30F64E:Piercing Atlatl
+DD30F64C:Aetheria
+DD30F64B:Aetheria
+DD30F64A:Aetheria
+DD30F649:Loafers
+DD30F648:Aetheria
+DD30F647:Heavy Bracelet
+DD30F646:Aetheria
+DD30F644:Cloth Cap
+DD30F645:Scalemail Bracers
+DD30F630:Loafers
+DD30F642:Trousers
+DD30F641:Cloth Gloves
+DD30F63E:Knorr Academy Greaves
+DD30F63D:Leather Cuirass
+DD30F63C:Smock
+DD30F63B:Knorr Academy Boots
+DD30F63A:Koujia Leggings
+DD30F639:Chainmail Leggings
+DD30F638:Chainmail Girth
+DD30F636:Knuckles
+DD30F634:Board with Nail
+DD30F633:Tenassa Sleeves
+DD30F631:Olthoi Alduressa Coat
+DD30F62F:Chainmail Girth
+DD30F62E:Ring
+DD30F62D:Mechanical Scarab
+DD30F62B:Chiran Gauntlets
+DD30F62A:Smock
+DD30F628:Celdon Sleeves
+DD30F627:Flared Pants
+DD30F626:Lyceum Hood
+DD30F625:Steel Toed Boots
+DD30F624:Chiran Gauntlets
+DD30F623:Faran Over-robe
+DD30F622:Yoroi Cuirass
+DD30F620:Lightning Claw
+DD30F61E:Flaming Bastone
+DD30F61D:Fire Bow
+DD30F61C:Nekode
+DD30F61A:Fire Trident
+DD30F619:Tower Shield
+DD30F613:Cloth Gloves
+DD30F618:Platemail Tassets
+DD30F617:Leather Leggings
+DD30F616:Steel Toed Boots
+DD30F615:Long Leather Gauntlets
+DD30F614:Alduressa Coat
+DD30F612:Amuli Coat
+DD30F611:Long Leather Gauntlets
+DD30F610:Ring
+DD30F60F:Ring
+DD30F60E:Viamontian Pants
+DD30F60D:Slippers
+DD30F60C:Heavy Bracelet
+DD30F60B:Salvage (100)
+DD30F60A:Salvage (100)
+DD30F609:Corruptor's Crystal
+DD30F607:Salvage (100)
+DD30F606:Aetheria
+DD30F604:Salvage (100)
+DD30F603:Salvage (100)
+DD30F602:Salvage (100)
+DD30F601:Salvage (100)
+DD30F600:Salvage (100)
+DD30F5FF:Salvage (100)
+DD30F5FE:Salvage (100)
+DD30F5FD:Salvage (100)
+DD30F5FC:Salvage (100)
+DD30F5FB:Salvage (100)
+DD30F5FA:Salvage (100)
+DD30F5F9:Salvage (100)
+DD30F5F8:Salvage (100)
+DD30F5F7:Salvage (100)
+DD30F5F6:Salvage (100)
+DD30F5F5:Salvage (100)
+DD30F5F4:Salvage (100)
+DD30F5F3:Salvage (100)
+DD30F5F2:Salvage (100)
+DD30F5F1:Aetheria
+DD30F5F0:Aetheria
+DD30F5EF:Aetheria
+DD30F5ED:Aetheria
+DD30F5EC:Aetheria
+DD30F5EB:Aetheria
+DD30F5EA:Aetheria
+DD30F5E9:Aetheria
+DD30F5E8:Aetheria
+DD30F5E7:Aetheria
+DD30F5E6:Sceptre
+DD30F5E5:Flaming Spadone
+DD30F5E3:Amulet
+DD30F5E2:Heavy Bracelet
+DD30F5DB:Coronet
+DD30F5E1:Lorica Breastplate
+DD30F5E0:Leather Sleeves
+DD30F5DF:Scalemail Greaves
+DD30F5DE:Chainmail Leggings
+DD30F5DD:Celdon Leggings
+DD30F5DC:Studded Leather Gauntlets
+DD30F5D9:Lightning Moar Essence (180)
+DD30F5D8:Flared Pants
+DD30F5D7:Studded Leather Boots
+DD30F5D5:Heavy Bracelet
+DD30F5D4:Signet Crown
+DD30F5D3:Pantaloons
+DD30F5D2:Acid Staff
+DD30F5D1:Frost Child Essence (180)
+DD30F5D0:Knorr Academy Gauntlets
+
+Missing Exports - Possessed items that were not found:

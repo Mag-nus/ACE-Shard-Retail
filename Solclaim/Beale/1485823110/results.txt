@@ -1,0 +1,62 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485822758_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485827578_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485829205_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485835807_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-enlightenment\pkt_2017-1-20_1484967064_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-enlightenment\pkt_2017-1-20_1484971444_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-20_1484972372_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-22_1485129960_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-22_1485139320_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-23_1485152423_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-23_1485156448_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-27_1485556208_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-28_1485663896_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-29_1485680400_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485807300_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485816393_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485822758_log.pcap
+
+Partial Exports - Missing appraisal info:
+9AFC4F4C:Massive Mana Charge
+9AFCD05F:Massive Mana Charge
+9AFCD152:Massive Mana Charge
+9AFCD149:Massive Mana Charge
+9AF84B01:Massive Mana Charge
+9AF93816:Massive Mana Charge
+9AFCD016:Massive Mana Charge
+9AFCD05B:Massive Mana Charge
+9AFCD072:Massive Mana Charge
+997351B5:Promissory Note
+9A164270:Colosseum Ticket
+98A7B9B1:Aetheria
+9B047964:Silver Pea
+9B12F158:Prismatic Taper
+9B062FBA:Singed Note
+99DF91C0:Gauntlet Backpack
+8023F9D5:Splitting Tool
+8036FF16:Writ of Refuge
+99A57D86:Encapsulated Spirit
+9B018D4B:Black Luster Pearl
+9AE4F1FD:Singularity Key
+9AE01D8D:Trade Note (250,000)
+9B03117F:Black Luster Pearl
+9B12F180:Prismatic Taper
+8034867A:Trade Note (250,000)
+9A0B8E3F:Mana Scarab
+8029CA34:Silver Scarab
+80348419:Copper Scarab
+93EF59F4:Lead Scarab
+97844435:Hawthorn
+989D1330:Mana Scarab
+987F620A:Diamond Scarab
+802F3CDD:Lead Scarab
+98CA3319:Platinum Scarab
+98CA460D:Platinum Scarab
+933B7C67:Silver Scarab
+98747740:Chorizite
+9760B344:Diamond Scarab
+
+Missing Exports - Possessed items that were not found:

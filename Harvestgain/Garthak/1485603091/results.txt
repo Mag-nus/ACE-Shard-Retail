@@ -1,0 +1,17 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\AC-Packet-Captures\AC Packet Captures\pkt_2017-1-28_1485601848_log.pcap
+
+Partial Exports - Missing appraisal info:
+92BC5642:Pyreal
+92BC5643:Sack
+92BC5644:Ust
+92BC5648:Foci of Artifice
+92BC5649:Prismatic Taper
+92BC564A:Lead Scarab
+92BC564B:Handy Healing Kit
+92BC5655:Great Mana Charge
+92BC5658:Stipend
+9CB688CD:Stipend
+A6B5D3F9:Stipend
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,21 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Mavness-02-01-2017-pcap\pcap\pkt_2017-1-23_1485228943_log.pcap
+
+Partial Exports - Missing appraisal info:
+D3B0043E:Sack
+D3B0043F:Ust
+D3B00440:Calling Stone
+D3B00443:Foci of Verdancy
+D3B00444:Foci of Enchantment
+D3B00445:Foci of Artifice
+D3B00446:Prismatic Taper
+D3B00447:Lead Scarab
+D3B00448:Letter From Home
+D41F6BF0:Blackmoor's Favor
+D42EB1DA:Oil of Rendering
+D42EB1DD:Facility Hub Portal Gem
+D42F1AD6:Pyreal
+D42E4ABB:Key
+D936CF73:Stipend
+
+Missing Exports - Possessed items that were not found:

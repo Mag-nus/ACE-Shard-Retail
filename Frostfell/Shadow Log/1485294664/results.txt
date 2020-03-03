@@ -1,0 +1,17 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Keith-Various-pcaps\Character Creation.pcap
+
+Partial Exports - Missing appraisal info:
+DCB92F41:Pyreal
+DCB92F42:Sack
+DCB92F43:Ust
+DCB92F45:Pathwarden Token
+DCB92F47:Foci of Strife
+DCB92F48:Foci of Verdancy
+DCB92F49:Foci of Artifice
+DCB92F4A:Foci of Shadow
+DCB92F4B:Prismatic Taper
+DCB92F4C:Lead Scarab
+DCB92F4D:Letter From Home
+
+Missing Exports - Possessed items that were not found:

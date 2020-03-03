@@ -1,0 +1,91 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-22_1485139320_log.pcap
+
+Partial Exports - Missing appraisal info:
+813C3165:Pack
+813C329A:Pyreal Scarab
+813CCB15:Silver Scarab
+813C3145:Gold Scarab
+813C318E:Rithwic Portal Gem
+813C3148:Xarabydun Portal Summoning Gem
+813C3179:Sake
+813C316F:Blank Augmentation Gem
+813977B9:Greater Mana Stone
+813C31EB:Major Mana Stone
+813C33B4:Major Mana Stone
+97DC4C02:Pyreal
+813C31DC:Gem of Stillness
+813C31B3:Chorizite
+813C3124:Prismatic Taper
+813C3132:Pack
+813977A5:Aetheria Mana Stone
+813C318A:Town Network Portal Gem
+813C317A:Holtburg Portal Gem
+813C3276:Copper Scarab
+813C31D4:Diamond Scarab
+813C31E8:Major Mana Stone
+813BF27E:Ust
+813C31D1:Facility Hub Portal Gem
+813C3151:Shoyanen's Portal Gem
+813C3397:Insatiable Eater Jaw
+813C31CF:Platinum Scarab
+813C2F8A:Pack
+813C2F8E:Bronze Gearknight Gear
+813C32D0:Town Network Portal Gem
+813C3222:Yaraq Portal Gem
+813C3243:Virindi Consul Essence
+813C3332:Lugian Pick Axe
+81393BF7:Mortar and Pestle
+813C326F:Rift Orb
+813BF178:Pack
+97DC4D7B:Pack
+97DA7E9C:Pack
+979D51C6:Salvage (100)
+979987CF:Salvage (100)
+97DC4D89:Pack
+9797CF02:Salvage (100)
+979CD557:Salvage (100)
+97DC4DA3:Pack
+979DB15A:Salvage (100)
+979E09B8:Salvage (100)
+979D8F6B:Salvage (100)
+9797DED8:Salvage (100)
+979DA8DB:Salvage (100)
+979D502B:Salvage (100)
+979D848A:Salvage (100)
+979C8FF1:Salvage (100)
+80F0A6D7:Pack Golem
+979E4852:Salvage (100)
+979D3CC4:Salvage (100)
+8DAA3917:Pack Gaerlan
+979A995E:Salvage (100)
+97989C6B:Salvage (100)
+8D6E879B:Pack Aerbax
+979E172C:Salvage (100)
+9793A744:Salvage (100)
+8D6E87A0:Pack Grael
+979DE3C1:Salvage (100)
+979E2CD9:Salvage (100)
+9793842D:Salvage (100)
+979E4B0A:Salvage (100)
+979D3FE2:Salvage (100)
+979D021E:Salvage (100)
+9798C2DA:Salvage (100)
+979A9C12:Salvage (100)
+979C8361:Salvage (100)
+979AB5D2:Salvage (100)
+979D2AB5:Salvage (100)
+979D40E0:Salvage (100)
+979C7D56:Salvage (100)
+979CBEA8:Salvage (100)
+957E0048:Encapsulated Spirit
+957BCD66:Encapsulated Spirit
+978E1140:Moarsmuck
+97BA076B:Moarsmuck
+9789DA78:Moarsmuck
+97BE13B4:Moarsmuck
+8DABC212:Pack Martine
+8D6E8793:Wandering Ghost
+8CEDD4E5:Pack Gold Remoran
+
+Missing Exports - Possessed items that were not found:

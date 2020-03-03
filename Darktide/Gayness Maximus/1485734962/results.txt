@@ -1,0 +1,14 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-12-2017\Games\pkt_2017-1-29_1485734894_log.pcap
+
+Partial Exports - Missing appraisal info:
+C231BB29:Calling Stone
+C231BB2A:Pathwarden Token
+C231BB2B:Foci of Artifice
+C231BB2C:Blackmoor's Favor
+C231BB2D:Oil of Rendering
+C231BB2F:Stipend
+C231BB2E:Teleportation Device
+BEB65844:Stipend
+
+Missing Exports - Possessed items that were not found:

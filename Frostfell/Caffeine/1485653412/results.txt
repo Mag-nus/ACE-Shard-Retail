@@ -1,0 +1,37 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap6\pkt_2017-1-28_1485653399_log.pcap
+
+Partial Exports - Missing appraisal info:
+DCEAABFB:Pack
+DCBC264F:Pyreal Scarab
+DCEAA8A3:Scrawled Note
+DCBB443D:Lead Scarab
+DCE52B99:Iron Scarab
+DCCA6419:Copper Scarab
+DCBC164B:Silver Scarab
+DCEAA986:Gold Scarab
+DCDD9162:Pack
+DCDD92AB:Gardener Token
+DCDE66CF:Loose Shirt
+DCBC6D59:Gem
+DCDE665C:Le-Ai Rea's Key
+DCDD9266:Splitting Tool
+DCDD95A6:Mana Draught
+DCBC2420:Gem of Stillness
+DCDE669F:Pyreal
+DCDD91C1:Gem of Stillness
+DCDE6930:Frost Trident
+DCDDA14A:Pack Asheron
+DCEAAA51:Pack
+DCEAB44E:Broken Virindi Mask
+DCCF9011:Foci of Strife
+DCCE1C15:Foci of Artifice
+DCEAB43B:Foci of Verdancy
+DCBC3AC3:Foci of Enchantment
+DCEAB47B:Scroll of Summon Secondary Portal I
+DCEAAC28:Scroll of Summon Primary Portal I
+DCDE669C:Focusing Stone
+DCDD97E5:Some Changes for February 2012
+DCDE66E2:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

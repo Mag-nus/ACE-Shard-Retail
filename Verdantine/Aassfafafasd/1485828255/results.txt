@@ -1,0 +1,11 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-30_1485810509_log.pcap
+
+Partial Exports - Missing appraisal info:
+91DE705C:Pyreal
+91DE705D:Sack
+91DE705E:Ust
+91DE7060:Pathwarden Token
+91DE7066:Letter From Home
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,72 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\trello_datamining\1_Ridley-01-30-2017-olthoi-horde-nest-bandit-castle\pkt_2017-1-29_1485744527_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ridley-01-30-2017-olthoi-horde-nest-bandit-castle\pkt_2017-1-29_1485744527_log.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\194_Ridley-Amanah-Final-Random-2\pkt_2017-1-29_1485744527_log.pcap
+
+Partial Exports - Missing appraisal info:
+ABD31780:Foci of Artifice
+ABD31778:Pyreal
+ABD0DC84:Pack
+ABD317A5:Wrapped Bundle of Quarrelshafts
+ABD31788:Prismatic Taper
+ABD3175D:Lead Scarab
+ABD31790:Iron Scarab
+ABD31766:Copper Scarab
+ABD31770:Asheron's Benediction
+ABD3175C:Blackmoor's Favor
+ABD317AD:Ust
+ABD3177F:Stamina Tincture
+ABD31777:Wrapped Bundle of Deadly Fire Arrowheads
+ABD317A4:Wrapped Bundle of Deadly Blunt Arrowheads
+ABD3179B:Suikan Item Master Robe
+ABD31787:Faran War Master Robe
+ABD31765:Suikan War Master Robe
+ABD3178F:Suikan War Master Robe
+ABD3176F:Silver Scarab
+ABD317AC:Inactive Fletcher's Golem
+ABD31776:Gifted Healing Kit
+ABD317B5:Gifted Healing Kit
+ABD317A3:Gifted Healing Kit
+ABD3179A:Gifted Healing Kit
+ABD3177E:Gifted Healing Kit
+ABD3176D:Gifted Healing Kit
+ABD317BD:Gifted Healing Kit
+ABD317D6:Pack
+ABD31786:Focusing Stone
+ABD3178E:Pack
+ABD3176E:Pack
+ABD0DCDD:Golden Key
+ABD317B4:Imprinting Mote
+ABD317AB:Foci of Enchantment
+ABD317A2:Foci of Verdancy
+ABD31799:Ring
+ABD3177D:Aphus Lassel Portal Gem
+ABD317BC:Platemail Gauntlets
+ABD3178D:Greater Mana Stone
+ABD317CF:Chiran Leggings
+ABD31785:Chiran Coat
+ABD31784:Pyreal
+ABD317AA:Helmet
+ABD3177C:Shoes
+ABD0DD46:Greater Mana Stone
+ABD317D5:Copper Pea
+ABD317B3:Silver Pea
+ABD317A1:Encrusted Bloodstone Jewel
+ABD31798:Shirt
+ABD317CE:Pants
+ABD3179E:Pyreal
+ABD317BB:Bracelet
+ABD3178C:Torn Cloth Scrap
+ABD0DE23:The Plan
+ABD3177B:Elysa's Crystal
+ABD317D4:Chef's Crystal
+ABD317B2:Tinker's Crystal
+ABD317A9:Deadly Fire Quarrel
+ABD317A0:Fire Crossbow
+ABD317BA:Stipend
+ABD317CD:Cooking Pot
+ABD31783:Staff
+
+Missing Exports - Possessed items that were not found:

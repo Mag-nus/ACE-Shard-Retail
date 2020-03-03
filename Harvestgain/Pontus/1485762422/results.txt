@@ -1,0 +1,143 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485762415_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2\pkt_2017-1-25_1485364908_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2\pkt_2017-1-27_1485524708_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-25_1485338794_log.pcap
+
+Partial Exports - Missing appraisal info:
+8102614E:Master Keyring
+8102614F:Granite Keyring
+81026150:Directive Keyring
+81026153:Granite Keyring
+81026154:Granite Keyring
+81026155:Granite Keyring
+81026156:Intricate Wooden Key
+81026157:Intricate Copper Key
+81026158:Sturdy Steel Keyring
+81026159:Singularity Keyring
+8102615A:Directive Key
+8102615B:Drudge Key
+8102615D:Singularity Keyring
+8102615E:Directive Key
+8102615F:Intricate Copper Key
+81026160:Intricate Wooden Key
+81026165:Intricate Obsidian Key
+81026166:Foci of Artifice
+81026168:Copper Scarab
+81026176:Pyreal Golem Heart
+81026177:Pyreal Golem Heart
+81026178:Pyreal Golem Heart
+81026179:Platinum Golem Heart
+8102617A:Platinum Golem Heart
+8102617B:Platinum Golem Heart
+8102617C:Platinum Golem Heart
+8102617D:Pyreal Golem Heart
+8102617E:Pyreal Golem Heart
+8102617F:Pyreal Golem Heart
+81026180:Pyreal Golem Heart
+81026181:Pyreal Golem Heart
+81026182:Platinum Golem Heart
+81026183:Platinum Golem Heart
+81026184:Platinum Golem Heart
+81026185:Pyreal Golem Heart
+81026186:Pyreal Golem Heart
+81026187:Pyreal Golem Heart
+81026188:Platinum Golem Heart
+81026189:Platinum Golem Heart
+8102618A:Platinum Golem Heart
+8102618B:Platinum Golem Heart
+8102618C:Platinum Golem Heart
+8102618D:Pyreal Golem Heart
+810261A2:Bloodletter Drudge Charm
+81026192:Niffis Fighting Pits
+81026198:Shadow Lugian Stronghold Portal Gem
+81026199:Shadow Lugian Stronghold Portal Gem
+8102619A:Shadow Lugian Stronghold Portal Gem
+8102619B:Shadow Lugian Stronghold Portal Gem
+8102619C:Shadow Lugian Stronghold Portal Gem
+8102619D:Shadow Lugian Stronghold Portal Gem
+810261A6:Coral Heart
+810261A7:Diamond Heart
+810261A8:Diamond Heart
+810261A9:Diamond Heart
+810261AA:Diamond Heart
+810261AB:Diamond Heart
+810261AC:Diamond Heart
+810261AD:Diamond Heart
+810261AE:Diamond Heart
+810261AF:Coral Heart
+810261B0:Pyreal Golem Heart
+810261B1:Platinum Golem Heart
+810261B2:Platinum Golem Heart
+810261B3:Coral Heart
+810261B4:Coral Heart
+810261B5:Pyreal Golem Heart
+810261B6:Pyreal Golem Heart
+810261B7:Platinum Golem Heart
+810261B8:Platinum Golem Heart
+810261B9:Pyreal Golem Heart
+810261BA:Platinum Golem Heart
+810261BB:Diamond Heart
+810261BC:Diamond Heart
+810261BD:Coral Heart
+810261C9:Singularity Keyring
+810261CA:Singularity Keyring
+810261CB:Sturdy Iron Keyring
+810261CC:Sturdy Iron Keyring
+810261CE:Sturdy Iron Keyring
+810261CF:Sturdy Steel Keyring
+810261D4:Singularity Keyring
+810261D5:Singularity Keyring
+810261D6:Sturdy Steel Keyring
+81026164:Granite Keyring
+810261EE:Pyreal Golem Heart
+81026203:Pyreal Golem Heart
+81026204:Pyreal Golem Heart
+810261EF:Pyreal Golem Heart
+810261F0:Platinum Golem Heart
+810261E3:Sturdy Iron Keyring
+810261E1:Sturdy Iron Keyring
+810261E0:Sturdy Iron Keyring
+810261E2:Sturdy Iron Keyring
+810261FB:Banderling Bone Ring
+810261F4:Vapor Golem Heart
+810261D7:Wrapped Bundle of Deadly Lightning Arrowheads
+810261D8:Wrapped Bundle of Deadly Frost Arrowheads
+810261E5:Silver Scarab
+810261E6:Ursuin Torso
+810261E7:Golden Pumpkin
+810261EC:Diamond Heart
+810261F5:Diamond Heart
+810261F6:Diamond Heart
+810261FF:Obsidian Heart
+81026200:Obsidian Heart
+81026202:Granite Heart
+8102620F:Salvaged  (100)
+81026214:Salvage
+81026210:Salvaged  (100)
+81026211:Salvaged  (100)
+810261E9:Peerless Lockpick
+81026212:Salvaged  (100)
+81026213:Salvaged  (100)
+81026228:Crystal Nodule
+81026215:Salvage
+81026216:Salvage
+81026217:Salvaged  (100)
+81026218:Salvaged  (100)
+81026219:Salvaged  (100)
+8102621A:Salvaged  (100)
+8102621B:Salvaged  (100)
+8102621C:Salvaged  (100)
+8102621D:Salvaged  (100)
+8102621E:Salvaged  (100)
+8102621F:Salvaged  (100)
+81026220:Salvaged  (100)
+81026221:Salvaged  (100)
+81026222:Salvaged  (100)
+81026229:Some Changes for February 2012
+810261F7:Coral Heart
+AE38F5B7:Glacial Golem Heart
+
+Missing Exports - Possessed items that were not found:

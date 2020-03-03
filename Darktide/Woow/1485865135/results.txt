@@ -1,0 +1,68 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-31_1485860015_log.pcap
+
+Partial Exports - Missing appraisal info:
+9C53101E:Pack
+9C571955:Pack
+9C571959:Ust
+9C571956:Pack
+9C571957:Blackmoor's Favor
+9C571958:Calling Stone
+9C57195A:Pack
+9C57195B:Pack
+9C57195C:Pack
+9C57195D:Sollerets
+9C571963:Sollerets
+9C571975:Pack
+9C57196F:Olthoi Amuli Leggings
+9C571971:Olthoi Amuli Leggings
+9C571972:Olthoi Amuli Leggings
+9C57197A:Sollerets
+9C57197C:Sollerets
+9C57197F:Haebrean Boots
+9C571989:Celdon Girth
+9C57198A:Celdon Girth
+9C571976:Celdon Leggings
+8009F11A:Sollerets
+A7232ECA:Flared Shirt
+9C571979:Amuli Leggings
+9C57195E:Celdon Leggings
+9C57196E:Celdon Leggings
+9C571968:Celdon Leggings
+AF50B080:Celdon Leggings
+BF78934D:Celdon Girth
+C64F11DE:Celdon Girth
+C659918A:Celdon Girth
+BDC3C76A:Celdon Breastplate
+9C571998:Celdon Breastplate
+9C571990:Celdon Breastplate
+9C571983:Celdon Breastplate
+9C571978:Celdon Breastplate
+AF533087:Celdon Breastplate
+C6338C37:Amuli Coat
+BEE6A8A2:Celdon Leggings
+C6C85542:Celdon Leggings
+9C57198E:Celdon Sleeves
+9C57198B:Celdon Sleeves
+9C57198D:Celdon Sleeves
+8D07E809:Celdon Sleeves
+BDC3CCC7:Celdon Sleeves
+9C57198C:Celdon Sleeves
+80AB0317:Amuli Leggings
+C66864CF:Amuli Leggings
+9C571985:Amuli Leggings
+BFE635EE:Amuli Leggings
+9C571996:Celdon Breastplate
+AFC7AE5B:Celdon Sleeves
+9C57199A:Sollerets
+D2EF1E57:Celdon Leggings
+8D07E82F:Amuli Leggings
+8D07E7FB:Amuli Leggings
+808064E8:Platemail Gauntlets
+8009F173:Platemail Gauntlets
+9C571997:Platemail Gauntlets
+9C571999:Scalemail Gauntlets
+C37617D1:Celdon Sleeves
+C6571767:Amuli Leggings
+
+Missing Exports - Possessed items that were not found:

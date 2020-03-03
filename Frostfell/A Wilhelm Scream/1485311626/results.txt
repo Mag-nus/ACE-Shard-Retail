@@ -1,0 +1,152 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Dungeon-A-Rat-Nest-A-Wilhelm-Scream-of-FF\pkt_2017-1-24_1485311602_log.pcap
+
+Partial Exports - Missing appraisal info:
+85599CDB:Sack
+85599CDA:Ust
+85599CD8:Gan-Zo's Golden Key
+85599CD9:Sezzherei's Lair
+85599CD7:Gan-Zo's Golden Key
+85599CD6:Gan-Zo's Golden Key
+85599CD5:Gan-Zo's Golden Key
+85599CD4:Gan-Zo's Golden Key
+85599CD3:Prismatic Taper
+85599CD2:Adventurer's Token
+85599CD1:Eye of Drageerg
+85599CD0:Black Coral
+85599CCF:Ancient Mhoire Coin
+85599CCE:Diamond Powder
+85599CCD:Pyre Skeleton Jaw
+85599CCC:Pyre Shroud
+85599CCB:Skull of One Thousand Torments
+85599CCA:Crystal of Spectral Blood
+85599CC9:Heart of the Innocent
+85599CC8:DeathTail's Fang
+85599CC5:Blunt Staff
+85599CC4:Wand
+DB5CAEF3:Platinum Scarab
+85599CC2:Foci of Verdancy
+85599CC0:Bracelet of Dark Essence
+85599CBF:Pack
+85599CBE:Blackmoor's Favor
+85599CBD:Chunk of Medium-Grade Chorizite
+85599CBC:Chunk of Medium-Grade Chorizite
+85599CBB:Chunk of Medium-Grade Chorizite
+85599CBA:Pyre Shroud
+85599CB8:Pyre Skeleton Jaw
+85599CB7:Pyre Skeleton Jaw
+85599CB6:Ornate Bone Key
+85599CB5:Sceptre
+85599CB1:Ornate Gear Marker
+85599CA6:Pack
+85599CA3:Khanda-handled Mace
+85599C9C:Ursuin Rug
+85599C96:Slashing Baton
+85599C93:Empyrean Robe
+85599C92:Sickly Wisp Heart
+85599C90:Sceptre
+85599C91:Sceptre
+DC22D897:Prismatic Taper
+85599C8F:Pack
+85599C86:Ancient Falatacot Trinket
+85599C85:Colosseum Coin
+85599C84:Small Olthoi Venom Sac
+85599C83:Gem of Greater Luminance
+85599C82:A'nekshay Token
+85599C7C:Pack Bael'Zharon
+85599C81:Lightning Skeleton Bushi Essence (125)
+85599C8D:Nexus Crawler's Mask
+85599C64:Plaque
+85599C9B:Helm of Isin Dule
+85599C79:Green Empyrean Ring
+85599C77:Lorica Gauntlets
+85599C78:Olthoi Amuli Sollerets
+85599C75:Pack Bael'Zharon
+85599C73:Pack Gaerlan
+85599C74:Oxidized Statue
+85599C72:Pack Gaerlan
+85599C71:Pack Gaerlan
+85599C6E:Energy Crystal
+85599C6C:Pack Levistras
+85599C70:Carved Tusker Statue
+85599C54:Greater Mana Stone
+85599C6F:Carved Tusker Statue
+85599C51:Pyreal
+85599C6D:Pack Martine
+85599C6B:Linaural Urilaentai
+85599C6A:Floating Candle
+85599C69:Pack Pumpkin Lord
+85599C66:Soul Staff
+85599C68:Pack Lugian
+85599C65:Diamond Shield
+85599C67:Tipped Pack Cow
+85599C63:Copper Scarab
+85599C61:Olthoi Amuli Coat
+85599C5F:Tree Trunk
+85599C60:Goggles
+85599C5E:White Anniversary Sparkler
+85599C5D:Grand Casino Golden Keyring
+85599C5C:Shendolain Key
+85599C5B:Dark Revenant Thighbone
+85599C5A:Dark Revenant Thighbone
+85599C57:Large Lugian Sinew
+85599C56:Scarecrow
+85599C55:Pack Scold
+85599C53:Some Changes for February 2012
+85599C4F:Small Shard
+85599C52:Lightning Zombie Essence (50)
+85599C48:Acid Staff
+85599C47:Scroll of Eradicate Life Magic Self
+85599C3F:Heavy Necklace
+85599C19:Pack Asheron
+85599C1E:Olthoi Amuli Leggings
+85599C18:Focusing Stone
+85599C15:Pyreal
+85599C1C:Gladiator Diemos Statue
+DB5E547B:Pyreal
+85599C17:Essence Flicker
+85599C14:Facility Hub Portal Gem
+DB5E547C:Pyreal
+85599C7A:Olthoi Amuli Helm
+DB5E547D:Pyreal
+DB5E547E:Pyreal
+DB5E547F:Pyreal
+DB5E5480:Pyreal
+DB5E5481:Pyreal
+DB5E5482:Pyreal
+DB5E5483:Pyreal
+85599C8E:Olthoi Shield
+DB66CC57:Greater Mana Stone
+DB66CB0F:Major Mana Stone
+DB802D0B:Yoroi Girth
+85599CB3:Frozen Weeping Two Handed Spear
+85599CA1:Lightning Khanda-handled Mace
+85599C4C:Shadowfire Isparian Two Handed Spear
+85599CA5:The Healer's Heart
+DB97D51C:Foci of Artifice
+85599C1D:Weeping Two Handed Spear
+DC246945:A Huge Lump of Coal
+DC2471DE:Baggy Tunic
+85599CB9:Lightning Spadone
+85599CA2:Tetsubo
+DC1868E2:Excellent Healing Kit
+85599CB4:Lightning Tetsubo
+DC246941:Poofy Snowball
+DB50B59B:Banished Bow
+85599C7E:Assagai
+85599C4D:Deadly Hollow Two Handed Spear
+85599C4E:Sanguinary Aegis
+85599C10:Orb of the Bunny Booty
+85599C16:Incomparable Lense
+DC31380E:Large Armoredillo Hide
+DC2F67B0:Island Armoredillo Spine
+DC3129F7:Shore Armoredillo Spine
+DCAA505E:Pwyll's Crown
+DC3130CA:Island Armoredillo Spine
+85599C11:Lightning Spadone
+85599CB2:Weeping Wand
+85599C62:Decorative Bronze Statue
+85599CA4:Magari Yari
+85599C7D:Nodachi
+
+Missing Exports - Possessed items that were not found:

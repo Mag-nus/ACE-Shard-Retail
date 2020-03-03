@@ -1,0 +1,70 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\Random9.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\Random6.pcap
+
+Partial Exports - Missing appraisal info:
+D77ECEA1:Baggy Tunic
+D77ECE9C:Pyreal
+D77ECE9D:Baggy Breeches
+D77ECE96:Sturdy Iron Key
+D77ECE7D:Sturdy Iron Key
+D77ECE83:Salvage
+D77ECE92:Ust
+D77ECE8F:Calling Stone
+D77ECE91:Foci of Strife
+D77ECE94:Foci of Enchantment
+D77ED448:Letter From Home
+D77ECE74:Bread
+D77ECE93:Oil of Rendering
+D77ECE8B:Great Mana Charge
+D77ECE8E:Pathwarden Gauntlets
+D77ECE8D:Pathwarden Trinket
+D77ECE8A:Superb Mana Charge
+D77ECE89:Superb Mana Charge
+D77ECE88:Superb Mana Charge
+D77ECE87:Superb Mana Charge
+D77ECE86:Superb Mana Charge
+D77ECE85:Superb Mana Charge
+D77ECE84:Superb Mana Charge
+D77ECE7E:Superb Mana Charge
+D77ECE7C:Handy Healing Kit
+D77ED13F:Adept Healing Kit
+D77ED118:Scroll of Lure Blade III
+D77ED105:Pack
+D77ED104:Frost Elemental Essence (50)
+D77ECE70:Key
+D77ED103:Lightning Elemental Essence (50)
+D77ED102:Acid Phyntos Wasp Essence (50)
+D77ED101:Acid Skeleton Minion Essence (50)
+D77ECE71:Pyreal
+D77ED0FD:Acid Emerald
+D77ED0FC:Armor Diamond
+D77ED0FB:Acid Emerald
+D77ED0FA:Armor Diamond
+D77ED0F9:Force Opal
+D77ED0F8:Force Opal
+D77ED119:Cold Moonstone
+D77ED10E:Cold Moonstone
+D77ED10B:Fire Ruby
+D77ED10F:Fire Ruby
+D77ED107:Lightning Sapphire
+D77ED110:Lightning Sapphire
+D77ECE7B:Thorned Garnet
+D77ECEAD:Thorned Garnet
+D77ECEAC:Sharp Topaz
+D77ECEAB:Sharp Topaz
+D77ECEAA:Lancet
+D77ECEA9:Scroll of Lightning Vulnerability Other II
+D77ECEA8:Lead Pea
+D77ECEAE:Scroll of Force Arc III
+D77ECE76:Scroll of Light Weapon Ineptitude Other III
+D77ECE72:Directions to Nen Ai's House
+D77B6DA6:Crown
+D77D2D34:Ring
+D77D2CF1:Bag of Rye Seed
+D77B6D3A:Cloth Gloves
+D77ECE6F:Academy Wand
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,237 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-30-to-1-31\Bliz 1-30 to 1-31\pkt_2017-1-30_1485839149_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-24-to-1-29\Bliz 1-24 to 1-29\pkt_2017-1-27_1485550498_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-30-to-1-31\Bliz 1-30 to 1-31\pkt_2017-1-30_1485839149_log.pcap
+
+Partial Exports - Missing appraisal info:
+86F6F41E:Flared Shirt
+86F6F41F:Flared Pants
+86F6F420:Pyreal
+86F6F421:Sack
+86F6F422:Amulet
+86F6F423:Necklace
+86F6F424:Ring
+86F6F425:Amulet
+86F6F426:Necklace
+86F6F427:Amulet
+86F6F428:Ring
+86F6F429:Necklace
+86F6F42A:Signet Crown
+86F6F42B:Amulet
+86F6F42C:Necklace
+86F6F42D:Amulet
+86F6F42E:Gem
+86F6F42F:Fire Spectre Essence (50)
+86F6F43A:Ust
+86F6F430:Gem
+86F6F431:Gem
+86F6F432:Scroll of Piercing Lure IV
+86F6F433:Scroll of Corruption IV
+86F6F434:Quartered Cloak
+86F6F435:Gem
+86F6F436:Scroll of Piercing Lure V
+86F6F437:Ring
+86F6F43B:Letter From Home
+86F6F438:Lightning Grievver Essence (50)
+86F6F439:Acid Skeleton Minion Essence (50)
+86F6F43C:Blackmoor's Favor
+86F6F43D:Guide to Healing
+86F6F43E:Great Mana Charge
+86F6F43F:Pathwarden Trinket
+86F6F440:Nariyid Boots
+86F6F442:Gauntlets
+86F6F441:Chiran Leggings
+86F6F444:Koujia Breastplate
+86F6F445:Kasa
+86F6F446:Facility Hub Portal Gem
+86F6F447:Lesser Mana Stone
+86F6F448:Potion of Healing
+86F6F449:Compass
+86F6F44A:Grapes
+86F6F44B:Apple
+86F6F44C:Gifted Healing Kit
+86F6F44D:Academy Stamp
+86F6F44E:Ruminations on Portal Creation
+86F6F44F:Ice Tachi
+86F6F450:Pack
+86F6F451:Gem
+86F6F452:Gem
+86F6F453:Gem
+86F6F454:Gem
+86F6F455:Gem
+86F6F456:Gem
+86F6F457:Gem
+86F6F458:Gem
+86F6F459:Gem
+86F6F45A:Gem
+86F6F45B:Gem
+86F6F45C:Gem
+86F6F45D:Gem
+86F6F45E:Gem
+86F6F45F:Gem
+86F6F460:Gem
+86F6F461:Gem
+86F6F462:Gem
+86F6F463:Gem
+86F6F464:Gem
+86F6F465:Gem
+86F6F466:Gem
+86F6F467:Gem
+86F6F468:Gem
+86F6F469:Pack
+86F6F46A:Acid Moar Essence (50)
+86F6F478:Pyreal
+86F6F46B:Lightning Wisp Essence (50)
+86F6F46C:Fire Elemental Essence (50)
+86F6F46D:Lightning Spectre Essence (50)
+86F6F46E:Lightning Phyntos Wasp Essence (50)
+86F6F46F:Lightning Moar Essence (50)
+86F6F470:Fire Phyntos Wasp Essence (50)
+86F6F471:Lightning Zombie Essence (50)
+86F6F472:Fire Elemental Essence (50)
+86F6F473:Acid Skeleton Minion Essence (50)
+86F6F474:Lightning Skeleton Minion Essence (50)
+86F6F475:Acid Skeleton Minion Essence (50)
+86F6F476:Frost Spectre Essence (50)
+86F6F477:Fire Zombie Essence (50)
+86F6F479:Bracelet
+86F6F47A:Moderate Mana Stone
+86F6F47B:Copper Heart
+86F6F47C:Copper Heart
+86F6F47D:Copper Heart
+86F6F47E:Gem
+86F6F47F:Gem
+86F6F480:Adept Healing Kit
+86F6F481:Gem
+86F6F482:Gem
+86F6F483:Moderate Mana Stone
+86F6F484:Gem
+86F6F485:Obsidian Heart
+86F6F486:Obsidian Heart
+86F6F487:Obsidian Heart
+86F6F488:Gem
+86F6F489:Gifted Healing Kit
+86F6F48A:Excellent Healing Kit
+86F6F48B:Moderate Mana Stone
+86F6F48C:Pack
+86F6F48D:Acid Zombie Essence (50)
+86F6F48E:Frost Spectre Essence (50)
+86F6F48F:Fire Moar Essence (50)
+86F6F490:Acid K'nath Essence (50)
+86F6F491:Frost K'nath Essence (50)
+86F6F492:Frost Elemental Essence (50)
+86F6F493:Fire Grievver Essence (50)
+86F6F494:Frost Skeleton Minion Essence (50)
+86F6F495:Fire Moar Essence (50)
+86F6F496:Lightning Zombie Essence (50)
+86F6F497:Fire Zombie Essence (50)
+86F6F498:Lightning Zombie Essence (50)
+86F6F499:Acid Elemental Essence (50)
+86F6F49A:Fire Grievver Essence (50)
+86F6F49B:Acid Elemental Essence (50)
+86F6F49C:Acid Elemental Essence (50)
+86F6F49D:Frost Wisp Essence (50)
+86F6F49E:Fire K'nath Essence (50)
+86F6F49F:Fire K'nath Essence (50)
+86F6F4A0:Acid Wisp Essence (50)
+86F6F4A1:Acid Elemental Essence (50)
+86F6F4A2:Fire Skeleton Minion Essence (50)
+86F6F4A3:Frost Zombie Essence (50)
+86F6F4A4:Lightning Elemental Essence (50)
+86F6F4A5:Pack
+86F6F4A6:Scroll of Alchemy Mastery Self II
+86F6F4A7:Scroll of Faithlessness V
+86F6F4A8:Scroll of Corruption IV
+86F6F4A9:Scroll of Endurance Other IV
+86F6F4AA:Scroll of Mana Renewal Self III
+86F6F4AB:Scroll of Flame Streak II
+86F6F4AC:Scroll of Invulnerability Self III
+86F6F4AD:Scroll of Armor Tinkering Expertise Other IV
+86F6F4AE:Scroll of Missile Weapon Ineptitude Other III
+86F6F4AF:Scroll of Resist Magic Other IV
+86F6F4B0:Scroll of Jumping Mastery Self
+86F6F4B1:Scroll of Cleanse Item Magic
+86F6F4B2:Scroll of Life Magic Ineptitude
+86F6F4B3:Scroll of Martyr's Blight I
+86F6F4B4:Scroll of Armor Tinkering Expertise Self
+86F6F4B5:Scroll of Martyr's Blight V
+86F6F4B6:Scroll of Mana to Stamina Self II
+86F6F4B7:Scroll of Arcanum Salvaging I
+86F6F4B8:Scroll of Sneak Attack Mastery Self III
+86F6F4B9:Scroll of Deception Ineptitude III
+86F6F4BA:Scroll of Cooking Ineptitude Other II
+86F6F4BB:Scroll of Blade Lure
+86F6F4BC:Aura of Blood Drinker Self V
+86F6F4BD:Scroll of Cleanse Creature Magic Self
+86F6F4BE:Pack
+86F6F4BF:Scroll of Summoning Mastery Other V
+86F6F4C0:Scroll of Disintegration
+86F6F4C1:Scroll of Item Enchantment Ineptitude VI
+86F6F4C2:Scroll of Shield Mastery Self V
+86F6F4C3:Scroll of Flame Lure VI
+86F6F4C4:Scroll of Void Magic Mastery Self II
+86F6F4C5:Scroll of Weapon Tinkering Expertise Self V
+86F6F4C6:Scroll of Lightning Vulnerability Other V
+86F6F4C7:Scroll of Endurance Self III
+86F6F4C8:Scroll of Hieromancer's Blessing
+86F6F4C9:Scroll of Life Magic Ineptitude II
+86F6F4CA:Scroll of Harm Other III
+86F6F4CB:Scroll of Shock Arc III
+86F6F4CC:Scroll of Finesse Weapon Mastery Other III
+86F6F4CD:Scroll of Healing Ineptitude III
+86F6F4CE:Scroll of Mana Renewal Self III
+86F6F4CF:Scroll of Gelidite's Bane
+86F6F4D0:An Unsigned Message
+86F6F4D1:Moderate Mana Stone
+86F6F4D2:Ring
+86F6F4D3:Elysa's Favor
+86F6F4D4:Parchment
+86F6F4D5:Pyreal
+86F6F4D6:Acid Wisp Essence (50)
+86F6F4D8:Gem
+86F6F4D7:Frost Moar Essence (50)
+86F6F4D9:Brawler's Crystal
+86F6F4DA:Gem
+86F6F4DB:Coalesced Mana
+86F6F4DD:Scroll of Tenaciousness
+86F6F4DC:Fire Moar Essence (50)
+86F6F4DE:Scroll of Person Unfamiliarity III
+86F6F4E1:Scroll of Flame Bolt III
+86F6F4DF:Acid Phyntos Wasp Essence (50)
+86F6F4E0:Gem
+86F6F4EE:Scroll of Acid Lure IV
+86F6F4E2:Fire Zombie Essence (50)
+86F6F4E3:Gem
+86F6F4EF:Fenmalain Key
+86F6F4E4:Gem
+86F6F4E5:Scroll of Purge Creature Magic Self
+86F6F4E6:Gem
+86F6F4E7:Gem
+86F6F4E8:Scroll of Bludgeon Protection Self VI
+86F6F4E9:Necklace
+86F6F4EA:Scroll of Mana Drain Other IV
+86F6F4EB:Gem
+86F6F4EC:Gem
+86F6F4ED:Ring
+86F6F4F0:Pocket Watch
+86F6F4F1:Scroll of Revitalize Other V
+86F6F4F2:Gem
+86F6F4F3:Gem
+86F6F4F4:Bracelet
+86F6F4F5:Scroll of Stamina to Health Self IV
+86F6F4F6:Cup
+86F6F4F7:Gem
+86F6F4F8:Gem
+86F6F4F9:Gem
+86F6F4FA:Gem
+86F6F4FB:Bracelet
+86F6F4FC:Cracked Shard
+86F6F4FD:Gem
+86F6F4FE:Cracked Shard
+86F6F4FF:Scroll of Willpower Other IV
+86F6F500:Chainmail Pauldrons
+86F6F443:Olthoi Koujia Sleeves
+
+Missing Exports - Possessed items that were not found:

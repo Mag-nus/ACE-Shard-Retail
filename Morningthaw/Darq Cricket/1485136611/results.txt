@@ -1,0 +1,37 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-22_1485136357_log.pcap
+
+Partial Exports - Missing appraisal info:
+80A1F48A:Pyreal
+809D710B:Foci of Enchantment
+809EDA22:Foci of Artifice
+809EDA21:Foci of Strife
+809EDA1A:Singularity Keyring
+80A05843:Sturdy Steel Keyring
+80A0938A:Ball of Gunk
+80A1F46B:Yellow Jewel
+80A1F46C:Yellow Jewel
+80A1F46D:Yellow Jewel
+80A1F46E:Yellow Jewel
+80A1F46F:Yellow Jewel
+80A1F470:Yellow Jewel
+80A1F471:Yellow Jewel
+80A1F474:Singularity Keyring
+80A1F475:Granite Keyring
+80A1F478:Blackmoor's Favor
+80A1F479:Ust
+80A1F47A:Faran Robe
+80A1F47D:Sturdy Steel Key
+80A1F482:Some Changes for February 2012
+80A1F481:Trade Note (10,000)
+80A1F486:Lead Scarab
+80A1F483:Tusker Island Shirt
+80A1F487:Copper Scarab
+80A1F488:Silver Scarab
+80A1F489:Prismatic Taper
+80A1F48B:Saffron
+80A1F48C:Saffron
+80A1F48F:Trade Note (250,000)
+80A1F490:Trade Note (100,000)
+
+Missing Exports - Possessed items that were not found:

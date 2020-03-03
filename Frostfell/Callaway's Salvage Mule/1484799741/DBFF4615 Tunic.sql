@@ -1,0 +1,87 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (3690939925, 134, 2, 7524673) /* Clothing */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (3690939925,   1,          4) /* ItemType - Clothing */
+     , (3690939925,   4,         40) /* ClothingPriority - UnderwearChest, UnderwearUpperArms */
+     , (3690939925,   5,         57) /* EncumbranceVal */
+     , (3690939925,   9,         14) /* ValidLocations - ChestWear, AbdomenWear, UpperArmWear */
+     , (3690939925,  16,          1) /* ItemUseable - No */
+     , (3690939925,  18,          1) /* UiEffects - Magical */
+     , (3690939925,  19,      11164) /* Value */
+     , (3690939925,  28,          0) /* ArmorLevel */
+     , (3690939925,  65,        101) /* Placement - Resting */
+     , (3690939925,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (3690939925, 105,          6) /* ItemWorkmanship */
+     , (3690939925, 106,        370) /* ItemSpellcraft */
+     , (3690939925, 107,       1743) /* ItemCurMana */
+     , (3690939925, 108,       1743) /* ItemMaxMana */
+     , (3690939925, 109,        415) /* ItemDifficulty */
+     , (3690939925, 110,          0) /* ItemAllegianceRankLimit */
+     , (3690939925, 115,          0) /* ItemSkillLevelLimit */
+     , (3690939925, 131,          6) /* MaterialType - Silk */
+     , (3690939925, 158,          7) /* WieldRequirements - Level */
+     , (3690939925, 159,          1) /* WieldSkillType - Axe */
+     , (3690939925, 160,        180) /* WieldDifficulty */
+     , (3690939925, 172,          5) /* AppraisalLongDescDecoration */
+     , (3690939925, 177,          1) /* GemCount */
+     , (3690939925, 178,         20) /* GemType */
+     , (3690939925, 9015,         27) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (3690939925,   1, False) /* Stuck */
+     , (3690939925,  11, True ) /* IgnoreCollisions */
+     , (3690939925,  13, True ) /* Ethereal */
+     , (3690939925,  14, True ) /* GravityStatus */
+     , (3690939925,  19, True ) /* Attackable */
+     , (3690939925,  22, True ) /* Inscribable */
+     , (3690939925, 100, True ) /* Dyable */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (3690939925,   5, -0.0666666666666667) /* ManaRate */
+     , (3690939925,  13, 0.800000011920929) /* ArmorModVsSlash */
+     , (3690939925,  14, 0.800000011920929) /* ArmorModVsPierce */
+     , (3690939925,  15,       1) /* ArmorModVsBludgeon */
+     , (3690939925,  16, 0.200000002980232) /* ArmorModVsCold */
+     , (3690939925,  17, 0.200000002980232) /* ArmorModVsFire */
+     , (3690939925,  18, 0.100000001490116) /* ArmorModVsAcid */
+     , (3690939925,  19, 0.200000002980232) /* ArmorModVsElectric */
+     , (3690939925, 165,       1) /* ArmorModVsNether */
+     , (3690939925, 8004,       6) /* PCAPRecordedWorkmanship */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (3690939925,   1, 'Tunic') /* Name */
+     , (3690939925,  16, 'Tunic of Protection') /* LongDesc */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (3690939925,   1,   33554883) /* Setup */
+     , (3690939925,   3,  536870932) /* SoundTable */
+     , (3690939925,   6,   67108990) /* PaletteBase */
+     , (3690939925,   8,  100667375) /* Icon */
+     , (3690939925,  22,  872415275) /* PhysicsEffectTable */
+     , (3690939925, 8001, 2166702232) /* PCAPRecordedWeenieHeader - Value, Usable, UiEffects, Container, ValidLocations, Priority, Burden, Workmanship, MaterialType */
+     , (3690939925, 8003,         18) /* PCAPRecordedObjectDesc - Inscribable, Attackable */
+     , (3690939925, 8005,     137217) /* PCAPRecordedPhysicsDesc - CSetup, STable, PeTable, AnimationFrame */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (3690939925,   1, 1343474423) /* Owner */
+     , (3690939925,   2, 1343474423) /* Container */
+     , (3690939925, 8000, 3690939925) /* PCAPRecordedObjectIID */;
+
+INSERT INTO `biota_properties_spell_book` (`object_Id`, `spell`, `probability`)
+VALUES (3690939925,  4291,      2) 
+     , (3690939925,  6068,      2) ;
+
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
+VALUES (3690939925, 67109969, 92, 4)
+     , (3690939925, 67110344, 40, 24);
+
+INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
+VALUES (3690939925, 0, 83887061, 83886687, 0)
+     , (3690939925, 0, 83887060, 83886686, 1)
+     , (3690939925, 0, 83889072, 83886685, 2)
+     , (3690939925, 0, 83889342, 83889386, 3)
+     , (3690939925, 0, 83886796, 83886782, 4);
+
+INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, `order`)
+VALUES (3690939925, 0, 16779351, 0);

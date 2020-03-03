@@ -1,0 +1,108 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Granis-2017-01-31_last_hours\pkt_2017-1-31_1485878354_log.pcap
+
+Partial Exports - Missing appraisal info:
+AF702571:Iron Scarab
+AF61A601:Splitting Tool
+AF702572:Magic Defense Tessera
+AF702581:Pyreal Scarab
+AF702583:Pyreal Scarab
+AF702584:Platinum Scarab
+AF701707:Pyreal Scarab
+AF702582:Prismatic Taper
+AF702599:Pyreal Scarab
+AF70256A:Pack
+AF7025A3:Singularity Keyring
+AF702470:Master Keyring
+AF702547:Singularity Keyring
+AF702555:A Large Mnemosyne
+AF702573:A Large Mnemosyne
+AF70259A:Shoyanen's Portal Gem
+AF6A53A0:Shoyanen's Portal Gem
+AF650254:Shoyanen's Portal Gem
+AF712F90:Pyreal
+AF683107:Shoyanen's Portal Gem
+AF70256B:Shoyanen's Portal Gem
+AF712F92:Pyreal
+AF702458:Shoyanen's Portal Gem
+AF7025AB:Pack
+AF7025AA:Shoyanen's Portal Gem
+AF7025A9:Shoyanen's Portal Gem
+AF712F99:Pyreal
+AF7025A8:Shoyanen's Portal Gem
+AF7025A7:Shoyanen's Portal Gem
+AF712F9A:Pyreal
+AF7025A6:Shoyanen's Portal Gem
+AF702556:Shoyanen's Portal Gem
+AF712F9B:Pyreal
+AF702574:Shoyanen's Portal Gem
+AF702457:Shoyanen's Portal Gem
+AF712F9C:Pyreal
+AF70256C:Shoyanen's Portal Gem
+AF702557:Shoyanen's Portal Gem
+AF712F9D:Pyreal
+AF702575:Shoyanen's Portal Gem
+AF702540:Shoyanen's Portal Gem
+AF712F9E:Pyreal
+AF63ADB1:Shoyanen's Portal Gem
+AF6B90A0:Shoyanen's Portal Gem
+AF712F9F:Pyreal
+AF63AC0F:Shoyanen's Portal Gem
+AF636DB0:Shoyanen's Portal Gem
+AF712FA0:Pyreal
+AF66DD2E:Shoyanen's Portal Gem
+AF712F61:Shoyanen's Portal Gem
+AF712FA1:Pyreal
+AF712F62:Shoyanen's Portal Gem
+AF712F63:Shoyanen's Portal Gem
+AF712FA2:Pyreal
+AF712F64:Shoyanen's Portal Gem
+AF712F65:Shoyanen's Portal Gem
+AF712FA3:Pyreal
+AF712F66:Shoyanen's Portal Gem
+AF712F67:Shoyanen's Portal Gem
+AF712FA4:Pyreal
+AF712F72:Pyreal Forge Bellows
+AF712FA5:Pyreal
+AF712F74:Gem
+AF712F73:Virindi Singularity Key
+AF712F75:Gem
+AF712F76:Sceptre
+AF712F77:Gem
+AF712F78:Gem
+AF712F79:Gem
+AF712F7A:Gem
+AF712F7B:Spiked Club
+AF712F7C:Spiked Club
+AF712F7D:Acid Nabut
+AF712F7E:Flaming Dabus
+AF712F7F:Longbow
+AF712F80:Gem
+AF712F81:Gem
+AF712F82:Yag
+AF712F83:Gem
+AF712F84:Gem
+AF712F85:Silifi
+AF712F86:Gem
+AF712F87:Diamond Scarab
+AF712F88:Gem
+AF712F89:Flaming Tachi
+AF712F8A:Mutilator Head
+AF712F8B:Ring
+AF712F8C:Sturdy Iron Key
+AF712F8D:Sturdy Iron Key
+AF712F8E:Yag
+AF712F8F:Trade Note (250,000)
+AF712F94:Glowing Wisp Heart
+AF712F93:Trade Note (250,000)
+AF712F95:Ruined Amulet of Heavy Weapons
+AF712FA6:Pyreal
+AF712F96:Ruined Amulet of Missile Weapons
+AF712FA7:Pyreal
+AF712FA8:Prismatic Taper
+AF712FA9:Prismatic Taper
+AF712FAE:Pack Levistras
+AF712FAF:Some Changes for February 2012
+AF712FB1:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

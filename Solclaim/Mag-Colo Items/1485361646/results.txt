@@ -1,0 +1,56 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-25_1485361638_log.pcap
+
+Partial Exports - Missing appraisal info:
+9C33C540:Wrapped Bundle of Greater Deadly Blunt Arrowheads
+9C342567:Wrapped Bundle of Greater Deadly Blunt Arrowheads
+9C368F9C:Wrapped Bundle of Greater Deadly Blunt Arrowheads
+9C368F9B:Wrapped Bundle of Greater Deadly Blunt Arrowheads
+9C34EDF3:Armor Upgrade Kit Containment Gem
+9C367981:Armor Upgrade Kit Containment Gem
+9C367965:Armor Upgrade Kit Containment Gem
+9C34EF99:Armor Upgrade Kit Containment Gem
+9C3442B1:Armor Upgrade Kit Containment Gem
+9C369940:Weapon Upgrade Kit Containment Gem
+9C34F4FA:Weapon Upgrade Kit Containment Gem
+9C369CA5:Weapon Upgrade Kit Containment Gem
+9C36B3EF:Weapon Upgrade Kit Containment Gem
+9C34EF6C:Tome of Flame
+9C369D56:Tome of Flame
+9C36B405:Tome of Flame
+9C2EC4BB:Tome of Flame
+9C36B3DF:Tome of Flame
+9C369D36:Tome of Flame
+9C36AE09:Tome of Flame
+9C36B3EE:Tome of Flame
+9C37FE9B:Tome of Flame
+9C36ACA3:Tome of Flame
+9C36B43F:Tome of Flame
+9C340E53:Tome of Flame
+9C384B04:Tome of Flame
+9C384AFC:Tome of Flame
+9C384B20:Scroll of Tusker Fists
+9C36B443:Scroll of Tusker Fists
+9C36A473:Scroll of Tusker Fists
+9C368FEB:Scroll of Tusker Fists
+9C34F2B5:Scroll of Tusker Fists
+9C34F4D8:Scroll of Tusker Fists
+9C36B3F5:Scroll of Tusker Fists
+9C3432CA:Scroll of Tusker Fists
+9C36A513:Empyrean Crystal
+9C36A512:Empyrean Crystal
+9C384B42:Empyrean Crystal
+9C384B37:Empyrean Crystal
+9C384B0B:Empyrean Crystal
+9C384B53:Foolproof
+9C35432A:Foolproof
+9C353C22:Some Changes for February 2012
+9C37FE9A:Foolproof
+9C34F1D5:Foolproof
+9C369E38:Foolproof
+9C367F74:Foolproof
+9C2DACA8:Foolproof
+9C367CA8:Foolproof
+9C357F44:Foolproof
+
+Missing Exports - Possessed items that were not found:

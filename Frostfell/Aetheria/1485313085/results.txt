@@ -1,0 +1,213 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Callaway-01-24-2017-IspirianWeapon-SoLLInfusions\pkt_2017-1-24_1485311298_log.pcap
+
+Partial Exports - Missing appraisal info:
+B0D907DE:Ust
+B0D907DC:Prismatic Taper
+B0D907DB:Lead Scarab
+B0D907D5:Pack
+B0D907D4:Atuakeh Plant
+B0D907D3:Verdalim Plant
+B0D907D2:Minalim Plant
+B0D907D1:Berimphur Plant
+B0D907D0:Lapyan Plant
+B0D907CF:Hennacin Plant
+B0D907CE:Relanim Plant
+B0D907CD:Argenory Plant
+B0D907CC:Yellow Jewel
+B0D907CB:Yellow Jewel
+B0D907CA:Red Jewel
+B0D907C9:Red Jewel
+B0D907C8:Yellow Jewel
+B0D907C7:Purple Jewel
+B0D907C6:Red Jewel
+B0D907C5:Yellow Jewel
+B0D907C4:Yellow Jewel
+B0D907C3:Yellow Jewel
+B0D907C2:Yellow Jewel
+B0D907C1:Yellow Jewel
+B0D907C0:Red Jewel
+B0D907BF:Colban Plant
+B0D907BD:Small Belt Pouch
+B0D907BC:Aetheria
+B0D907BB:Aetheria
+B0D907BA:Aetheria
+B0D907B9:Aetheria
+B0D907B8:Aetheria
+B0D907B7:Aetheria
+B0D907B6:Aetheria
+B0D907B5:Aetheria
+B0D907B4:Aetheria
+B0D907B3:Aetheria
+B0D907B2:Aetheria
+B0D907B1:Aetheria
+B0D907B0:Aetheria
+B0D907AF:Aetheria
+B0D907AE:Aetheria
+B0D907AD:Pack
+B0D907AC:Small Shard
+B0D907AB:Small Shard
+B0D907AA:Dark Shard
+B0D907A9:Dark Shard
+B0D907A8:Dark Shard
+B0D907A7:Shadow Fragment
+B0D907A6:Shadow Fragment
+B0D907A5:Shadow Fragment
+B0D907A4:Scintillating Gem
+B0D907A3:Shadow Fragment
+B0D907A2:Dark Shard
+B0D907A1:Shadow Fragment
+B0D907A0:Shadow Fragment
+B0D9079F:Cracked Shard
+B0D9079E:Cracked Shard
+B0D9079D:Scintillating Gem
+B0D9079C:Small Shard
+B0D9079B:Small Shard
+B0D9079A:Tiny Shard
+B0D90799:Tiny Shard
+B0D90798:Shadow Fragment
+B0D90797:Dark Speck
+B0D90796:Shadow Fragment
+B0D90795:Dark Shard
+B0D90794:Small Belt Pouch
+B0D90793:Copper Heart
+B0D90792:Wood Heart
+B0D90791:Diamond Heart
+B0D90790:Granite Heart
+B0D9078F:Coral Heart
+B0D9078E:Granite Heart
+B0D9078D:Water Golem Heart
+B0D9078C:Coral Heart
+B0D9078B:Obsidian Heart
+B0D9078A:Mud Golem Heart
+B0D90789:Obsidian Heart
+B0D90788:Wood Heart
+B0D90787:Vapor Golem Heart
+B0D90786:Pyreal Golem Heart
+B0D90785:Glacial Golem Heart
+B0D90783:Wood Heart
+B0D906F8:Obsidian Heart
+B0D9077E:Facility Hub Portal Gem
+B0D9077C:Great Mana Charge
+B0D9077A:Silver Scarab
+B0D90778:Pack
+B0D90777:Insidious Monouga Idol
+B0D90776:Abominable Pack Snowman
+B0D90775:Pack Levistras
+B0D90774:Pack Aerbax
+B0D90773:Pack Grael
+B0D90772:Rare Red Pack Idol
+B0D90771:Pack T'thuun
+B0D90770:Pack T'thuun
+B0D9076F:Pack Drudge
+B0D9076E:Pack Drudge
+B0D9076D:Pack T'thuun
+B0D9076C:Pack Martine
+B0D9076A:Pack Gaerlan
+B0D9076B:Pack Martine
+B0D90769:Pack Levistras
+B0D90768:Pack Asheron
+B0D90765:Pack Drudge
+B0D90767:Pack Ancient Olthoi Queen
+B0D90766:Pack Ancient Olthoi Queen
+B0D90764:Pack Golem
+B0D90763:Pack Martine
+B0D90762:Pack Asheron
+B0D90761:Pack T'thuun
+B0D9075F:Pyreal
+B0D90760:Pack Drudge
+B0D9075E:Pack
+B0D9075D:Diamond Powder
+B0D9075C:Pyreal Bar
+B0D9075A:Diamond Powder
+B0D90759:Pyreal Nugget
+B0D90757:Diamond Powder
+B0D90756:Pyreal Bar
+B0D90755:Pyreal Nugget
+B0D90753:Pyreal Bar
+B0D90752:Pyreal Bar
+B0D90750:Pyreal Nugget
+B0D9074F:Pyreal Nugget
+B0D9074E:Diamond Powder
+B0D9074D:Pyreal Bar
+B0D9074C:Pyreal Bar
+B0D9074B:Pyreal Bar
+B0D9074A:Pyreal Bar
+B0D90749:Pyreal Bar
+B0D90748:Pyreal Bar
+B0D90747:Pyreal Bar
+B0D90746:Pyreal Bar
+B0D90741:Pack
+B0D9073F:Chevron Cloak
+B0D9073A:Quartered Cloak
+B0D90725:Bronze Gearknight Gear
+B0D90739:Halved Cloak
+B0D90738:Chevron Cloak
+B0D9071E:Blue Jewel
+B0D90737:Quartered Cloak
+B0D90736:Halved Cloak
+B0D9071D:Red Jewel
+B0D90735:Cloak
+B0D90734:Halved Cloak
+B0D9072D:Aetheria
+B0D90733:Chevron Cloak
+B0D90732:Chevron Cloak
+B0D9071C:White Jewel
+B0D90731:Trimmed Cloak
+B0D90781:Chevron Cloak
+B0D9071B:Blue Jewel
+B0D906F4:Trimmed Cloak
+B0D906F3:Chevron Cloak
+B0D9071A:White Jewel
+B0D906F1:Quartered Cloak
+B0D9072C:Aetheria
+B0D9072B:Golden Gromnie
+B0D9072A:Golden Gromnie
+B0D90729:Golden Gromnie
+B0D90728:Golden Gromnie
+B0D90727:Golden Gromnie
+B0D90726:Golden Gromnie
+B0D90724:Golden Gromnie
+B0D90723:Golden Gromnie
+B0D90719:Pyreal Bar
+B0D90722:Pack Drudge
+B0D90718:Pyreal Bar
+B0D90721:Pack Drudge
+B0D90717:Pyreal Bar
+B0D90720:Golden Gromnie
+B0D90716:Pyreal Bar
+B0D90715:Pyreal Bar
+B0D90714:Imbue Swap Coin
+B0D90713:Aetheria
+B0D90712:Aetheria
+B0D90711:Aetheria
+B0D90710:Aetheria
+B0D9070F:Aetheria
+B0D9070E:Aetheria
+B0D9070D:Aetheria
+B0D9070C:Aetheria
+B0D9070B:Aetheria
+B0D9070A:Aetheria
+B0D90709:Aetheria
+B0D90708:Aetheria
+B0D90707:Aetheria
+B0D90706:Aetheria
+B0D90705:Aetheria
+B0D90704:Aetheria
+B0D90703:Aetheria
+B0D90702:Aetheria
+B0D90701:Aetheria
+B0D90700:Yellow Jewel
+B0D906FE:Dark Shard
+B0D906F6:Aetheria
+B0D906F5:Aetheria
+B0D906F2:Aetheria
+B0D906EF:Pyreal Bar
+B0D906E9:Pyreal Bar
+B0D9073E:Ancient Empyrean Trinket
+B0D9073D:Ancient Falatacot Trinket
+B0D90320:Bronze Gearknight Gear
+B0D9031F:Sprouting Pumpkin Vine
+B0D90321:Pack Scarecrow
+
+Missing Exports - Possessed items that were not found:

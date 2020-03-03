@@ -1,0 +1,285 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Kilzeer-01-31-2017\pcapfiles\pkt_2017-1-30_1485770279_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Kilzeer-01-31-2017\pcapfiles\pkt_2017-1-29_1485749812_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Kilzeer-01-31-2017\pcapfiles\pkt_2017-1-30_1485764172_log.pcap
+
+Partial Exports - Missing appraisal info:
+80009435:Pack
+80009436:Colosseum Coin
+80009437:Ancient Mhoire Coin
+80009438:Ancient Mhoire Coin
+80009439:Ancient Mhoire Coin
+8000943A:Colosseum Coin
+8000943B:Ancient Mhoire Coin
+8000943C:Ancient Mhoire Coin
+8000943D:Ancient Mhoire Coin
+8000943F:Colosseum Coin
+8000943E:Ancient Mhoire Coin
+80009440:Ancient Mhoire Coin
+80009448:Colosseum Coin
+80009441:Ancient Mhoire Coin
+80009442:Ancient Mhoire Coin
+80009449:Colosseum Coin
+80009443:Ancient Mhoire Coin
+80009444:Ancient Mhoire Coin
+81E45E91:Colosseum Coin
+80009445:Ancient Mhoire Coin
+80009446:Ancient Mhoire Coin
+8000944E:Pack
+80009447:Ancient Mhoire Coin
+8000944A:Lord Cynreft's Ancient Emblem of Mhoire
+80009452:Grey Taper
+8000944B:Lord Cynreft's Ancient Emblem of Mhoire
+8000944C:Ancient Mhoire Coin
+80009453:Red Taper
+80009451:Frost Skeleton Bushi Essence (180)
+80009454:Aetheria Mana Stone
+80CD6B34:Egg
+80009455:Falatacot Battle Report
+80009456:Skull of One Thousand Torments
+80009457:Ring of the Summoning Adepts
+80009458:Radiant Blood Trade Token
+80009459:Radiant Blood Trade Token
+8000945A:A'nekshay Token
+8000945B:Small Olthoi Venom Sac
+8000945C:Ornate Gear Marker
+8000945D:Radiant Blood Trade Token
+8000945E:Radiant Blood Commendation Ribbon
+8000945F:Ring of Remembrance
+80009460:Radiant Blood Initiate Armor Writ
+80009463:Lord Cynreft Mhoire's Signet Ring
+80009464:Lord Cynreft Mhoire's Signet Ring
+80009467:Pack
+80009465:Lady Tairla Mhoire's Signet Ring
+80009466:Lady Tairla's Ancient Emblem of Mhoire
+80009468:Mosswart Armband
+80009469:Enchanted Mana Stone
+8000946A:Black Page of Salt and Ash
+80009B9A:Ust
+8000946B:The Sword of Bellenesse
+8000946C:Suzuhara Baijin's Care Package
+8000946D:Desert Flower
+8000946E:Prickly Pear
+8000946F:Rez'arean Ore
+80009470:Pile of Gearknight Parts
+80009471:Aetherium Power Core
+800186A1:Aetherium-infused Gear
+80009C40:Pyre Skeleton Jaw
+80009C3F:Pyre Shroud
+80009C3E:Engraved A'nekshay Bracers
+80009C3D:Coruscating Olthoi Scent Gland
+80009C3C:Sealed Scroll for Commander Presk
+80009C3A:Exhumed Bones
+80009C38:Bloodroot Vine
+80009C37:Whispering Blade Chapterhouse Recall Orb
+80009C36:Broken Stone Tablet
+80009B97:Ruschk Trials
+80009C15:Shard of the Curator of Torment's Mask
+80009B96:Aetheric Resonator
+8C5C8501:Carapace Shard
+80009C33:Pack
+80009C32:Splitting Tool
+80009C31:Asheron's Benediction
+80009C30:Blackmoor's Favor
+80009C2E:Lead Scarab
+80009C2D:Iron Scarab
+80009C2C:Copper Scarab
+80009C2B:Silver Scarab
+80009C2A:Gold Scarab
+80009C29:Pyreal Scarab
+80009C28:Diamond Scarab
+80009C27:Gold Pea
+80009C26:Toberik's Report 
+80009C21:Gold Pea
+80009C20:Pyreal Pea
+80009C1E:Heart of the Innocent
+80009BBD:Staff
+802F7537:Platinum Scarab
+80157E5D:Diamond Scarab
+8001CBCD:Old Footlocker Key
+83C2CB3E:Aerbax's Defeat
+8CBF5386:Major Mana Stone
+8CBF9B4C:Major Mana Stone
+80009C1A:Pack
+80009C19:Crystal of Spectral Blood
+80009C18:Aligned Mana Stone
+80009C17:Unstable Mana Stone
+80009C14:Master's Treasure Key
+80009C13:Ashen Key
+80009C11:Ashen Key
+80009C10:Aerbax Mask Shard
+80009C0F:Carapace Shard
+80009C0E:Greater Mukkir Slayer Stone
+80009C0D:Greater Mukkir Slayer Stone
+80009C05:Black Skull of Xikma
+80009C04:Black Skull of Xikma
+80009C03:Black Skull of Xikma
+8069D240:Ashen Key
+80009C23:Asylum Chest Key
+81A0AA98:Aerbax Mask Shard
+82579652:Colosseum Vault Key
+81ADF50E:Colosseum Vault Key
+80009C01:Pack
+80009C00:Stone Fists Token
+80009BFF:Azaxis Token
+80009BFE:Crowley's Champion Token
+80009BFB:Blank Augmentation Gem
+80009BFA:Blank Augmentation Gem
+80009BF9:The Master Token
+80009BF8:Gem of Arcane Corruption
+80009BF5:Ring of the Whispering Blade
+80009BF4:Dire Champion Token
+80009BF3:Quest Weapon Coin
+80009BF0:Society Gem of Dispelling
+80009BEF:Society Gem of Dispelling
+80009BED:Diplomatic Message from Harlune
+8A0F6800:Gladiator Diemos Token
+80009B75:Caustic Knight Essence
+8FFFB179:Colosseum Vault Key
+8F70009F:Colosseum Vault Key
+8E7E5296:Colosseum Vault Key
+8E0849EC:Colosseum Vault Key
+8C43943C:Colosseum Vault Key
+8A121553:Lesser Corrupted Essence
+868630EB:Lesser Corrupted Essence
+83FA8BA8:Upper Insatiable Eater Jaw
+80009BE8:Pack
+80009BD9:Promissory Note
+8033C2F2:Lesser Corrupted Essence
+80D93893:Blue Taper
+80009BAE:Powdered Bloodstone
+8137A349:Lesser Corrupted Essence
+8144F9C0:Infused Amber Shard
+816C8A81:Gladiator Diemos Token
+80989080:Ancient Mhoire Coin
+82D926E3:Ancient Mhoire Coin
+808E6F60:Gladiator Diemos Token
+82A2D002:Lord Cynreft's Ancient Emblem of Mhoire
+80F5ADBB:Gladiator Diemos Token
+80009C1D:Stipend
+8CF023AA:Lunnum's Token
+880FDEAD:Colosseum Coin
+A26DDC0D:Trade Note (250,000)
+A4C0E309:Energy Infused Rock
+A47586B6:Energy Infused Rock
+8B958CF3:Gladiator Diemos Token
+8548823D:Colosseum Coin
+8C442904:Gladiator Diemos Token
+8D0C908B:Tusker Bone Sword
+8D280A3A:Ashen Key
+80009BC8:Pack
+80009BC6:Blighted Mana Crystal
+A5B574A0:Major Mana Stone
+80009BC7:Grand Mother's Medallion
+80009BC5:Radiant Blood Stronghold Portal Gem
+A59801F3:Major Mana Stone
+80009BC4:Town Network Portal Gem
+80009BC3:Celdiseth's Portal Gem
+80009BC2:Adventurer's Token
+80009BC1:Ancient Empyrean Trinket
+80009BBB:Ashen Key
+80009BB6:Black Coral
+80009BB4:Blighted Mana Crystal
+80009BB3:Blighted Mana Crystal
+80009BB0:Jester's Token
+80A050E4:Snow Tusker Blood Sample
+81CA6E7E:Ancient Mhoire Coin
+83CBD59B:Colosseum Vault Key
+84984DAA:Correspondence
+8CBF4770:Peerless Lockpick
+80009BC9:Enhanced Red Empyrean Ring
+A4115B79:Energy Infused Rock
+80009BEA:Ring
+80009BE9:Yellow Empyrean Ring
+8D807F14:Energy Infused Rock
+80009BEB:Pantaloons
+8DF7EF26:Energy Infused Rock
+908BA20B:Gauntlet Coin
+80EA5654:Lightning Bastone
+9111928D:Gladiator Diemos Token
+800C11E7:Encapsulated Spirit
+8C858F67:Greater Mukkir Slayer Stone
+914677E9:Gauntlet Vault Key
+8CC4A2B0:Blue Fire Infusion
+8CD7773D:White Fire Infusion
+8CD6A2EB:Black Skull of Xikma
+90929567:Spectral Crystal of the Corruptor
+9091A54C:Green Society Band
+90DCFA37:Blue Society Band
+90DE0663:Gauntlet Treasure Key
+90E2346E:Gauntlet Treasure Key
+91434559:Yellow Society Locket
+9146EE64:Brown Society Locket
+915ADECD:Gauntlet Vault Key
+91A2D884:Gladiator Diemos Token
+91D41E9C:Gauntlet Vault Key
+92080399:Gauntlet Vault Key
+92A0C9CA:Gauntlet Vault Key
+92D58DFA:Colosseum Coin
+930B7CD8:Gauntlet Treasure Key
+93108CD5:Gauntlet Treasure Key
+9334CB61:Gauntlet Vault Key
+943115F6:Gauntlet Treasure Key
+943670B0:Gauntlet Vault Key
+8C6B27E3:Gauntlet Vault Key
+908BD8C7:Burun Slaying Sceptre
+85DF34E5:Gladiator Diemos Token
+84F64FA6:Upper Insatiable Eater Jaw
+8555AC2A:Upper Insatiable Eater Jaw
+99021CF2:Tusker Bone Sword
+9993C408:Energy Infused Rock
+8637FFA5:Gladiator Diemos Token
+9D6F80B4:Gladiator Diemos Token
+9E81330B:Energy Infused Rock
+9E98E5E3:Gladiator Diemos Token
+896388D2:Lord Cynreft Mhoire's Key
+85A1D479:Ornate Bone Key
+80009B78:Focusing Stone
+A0FB6E78:Gladiator Diemos Token
+A0FB6C39:Colosseum Vault Key
+A1750F48:Colosseum Vault Key
+A174690A:Gladiator Diemos Token
+A1F977A2:Gladiator Diemos Token
+A1FCB8AA:Colosseum Vault Key
+80009B67:Shadownether Isparian Wand
+A2768B8C:Energy Infused Rock
+A28AF6E6:Colosseum Vault Key
+A2844548:Colosseum Coin
+8017A317:Facility Hub Portal Gem
+9B3F74BE:Colosseum Vault Key
+A310ADFA:Colosseum Vault Key
+A4C694CA:Colosseum Vault Key
+A5106DD4:Prismatic Taper
+A52B94CA:Colosseum Vault Key
+A525DCDF:Gladiator Diemos Token
+A56574E9:Colosseum Vault Key
+A58E46AB:Upper Insatiable Eater Jaw
+A2FBAB79:Entryway Key
+9221D22E:Lesser Corrupted Essence
+95040518:Colosseum Ticket
+A0BAD2A5:Writ of Refuge
+8017A781:Trade Note (50,000)
+A4ED2158:Prismatic Taper
+A5106DB7:Prismatic Taper
+A59F5FE7:Energy Infused Rock
+A5A26686:Hieromancer's Crystal
+808F8B00:Major Mana Stone
+A5A5FB11:Colosseum Vault Key
+A5B3ECA3:Ancient Falatacot Trinket
+A5B4390E:Lesser Corrupted Essence
+A5AFDD59:Black Coral Heart
+A5B4BD8D:Acid Spectre Essence (180)
+A5B31990:Major Mana Stone
+A5B6908B:Dark Shard
+A5B4A603:Iron Heart
+A5B4B95A:Major Mana Stone
+A5B6280A:Major Mana Stone
+A5B67074:Pyreal Mote
+A5B6A443:Obsidian Heart
+A5B6A441:Obsidian Heart
+A5B4EF0D:Obsidian Heart
+A5B4EEFA:Obsidian Heart
+
+Missing Exports - Possessed items that were not found:

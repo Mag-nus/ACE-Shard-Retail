@@ -1,0 +1,77 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-30_1485809521_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Mavness-02-01-2017-pcap\pcap\pkt_2017-1-23_1485228119_log.pcap
+
+Partial Exports - Missing appraisal info:
+9C39D915:Colosseum Backpack
+9C39D916:Platinum Scarab
+9C39D917:Prismatic Taper
+9C39D918:Silver Scarab
+9C39D919:Aetheria Desiccant
+9C39D91A:Gold Scarab
+9C39D91B:Pyreal Scarab
+9C39D91C:Platinum Scarab
+9C39D91D:Platinum Scarab
+9C39D91E:Copper Scarab
+9C39D975:Blank Augmentation Gem
+9C39D976:Blank Augmentation Gem
+9C39D978:Silver Pea
+9C4483DD:A Note From Ciandra
+9C39D97B:Some Changes for February 2012
+9C4863FD:The Temple of Enlightenment
+9C47A90B:Berimphur Plant
+9C49C573:Colban Plant
+9C49E8BC:Hennacin Plant
+9C4943BD:Relanim Plant
+9C424812:Green Taper
+9C4C51B7:Colosseum Vault Key
+9C39D920:Colosseum Backpack
+9C39D922:Trade Note (10,000)
+9C39D923:Trade Note (250,000)
+9C39D924:Pyreal
+9C39D925:Colosseum Coin
+9C39D927:Small Olthoi Venom Sac
+9C39D928:Coruscating Olthoi Scent Gland
+9C39D929:Coruscating Olthoi Scent Gland
+9C39D92A:Pyreal Bar
+9C39D92B:Swamp Stone
+9C39D92D:Ust
+9C39D92E:Coruscating Olthoi Scent Gland
+9C39D931:Colosseum Backpack
+9C39D933:Colosseum Backpack
+9C39D940:Colosseum Backpack
+9C39D941:Glissnal Sleech Shell
+9C39D942:Glissnal Sleech Shell
+9C39D943:Glissnal Sleech Shell
+9C39D944:Glissnal Sleech Shell
+9C39D946:Glissnal Sleech Shell
+9C39D947:Glissnal Sleech Shell
+9C39D948:Glissnal Sleech Shell
+9C39D949:Glissnal Sleech Shell
+9C39D94A:Colosseum Backpack
+9C39D951:Treated Healing Kit
+9C39D952:Treated Healing Kit
+9C39D953:Treated Healing Kit
+9C39D954:Treated Healing Kit
+9C39D955:Treated Healing Kit
+9C39D956:Treated Healing Kit
+9C39D957:Treated Healing Kit
+9C39D958:Treated Healing Kit
+9C39D959:Treated Healing Kit
+9C39D95A:Treated Healing Kit
+9C39D95B:Treated Healing Kit
+9C39D95C:Treated Healing Kit
+9C39D95D:Treated Healing Kit
+9C39D95E:Treated Healing Kit
+9C39D95F:Treated Healing Kit
+9C39D960:Treated Healing Kit
+9C39D961:Treated Healing Kit
+9C39D962:Treated Healing Kit
+9C39D963:Treated Healing Kit
+9C39D964:Treated Healing Kit
+9C39D965:Colosseum Backpack
+9C39D966:Colosseum Backpack
+
+Missing Exports - Possessed items that were not found:

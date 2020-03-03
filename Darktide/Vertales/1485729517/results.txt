@@ -1,0 +1,115 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-29_1485718290_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-27_1485536327_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-27_1485536327_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-27_1485536327_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-27_1485539328_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-27_1485539328_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-27_1485541031_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-27_1485541031_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-29_1485718290_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-29_1485718290_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Shojin-ri-Packets\uploads\pkt_2017-1-29_1485718290_log.pcap
+
+Partial Exports - Missing appraisal info:
+D83E3AAF:Pathwarden Trinket
+D83F75E6:Lead Scarab
+D83ED272:Iron Scarab
+D83F75F5:Copper Scarab
+D83F75FF:Silver Scarab
+D83ED268:Platinum Scarab
+D83E3A7C:Gold Scarab
+D83F7607:Prismatic Taper
+D83F75E5:Pyreal Scarab
+D83ED28E:Titan Mana Charge
+D83ED273:Olthoi Ichor
+D83EC630:Titan Mana Charge
+D83F75ED:Hollow Two Handed Spear
+D83E3A82:Hardened Shard
+D83E3A62:Diamond Heart
+D83F75FE:Massive Mana Charge
+D83ED264:Massive Mana Charge
+D83F7606:Massive Mana Charge
+D83ED298:Massive Mana Charge
+D83ED28A:Massive Mana Charge
+D83ED27A:Massive Mana Charge
+D83F760E:Massive Mana Charge
+D83DAAFE:Massive Mana Charge
+D83F75FD:Massive Mana Charge
+D83F7605:Blackmoor's Favor
+D83F7682:Ust
+D83F760D:Titan Mana Charge
+D83ED24C:Lockpick Gem of Enlightenment
+D83ED295:Titan Mana Charge
+D83F75FC:Titan Mana Charge
+D83ED253:Titan Mana Charge
+D83ED28C:Titan Mana Charge
+D83F7604:Lytelthorpe Portal Gem
+D83F7615:Hafted Falcon Spear
+D83ED25D:Diamond Heart
+D83F760C:Dire Champion Token
+D83ED279:Faran Robe with Hood
+D83F75FB:Quartered Cloak
+D83F7603:Pyreal
+D83ED284:Leather Girth
+D83F761D:Pyreal
+D83F760B:Shoushi Portal Gem
+D83ED25C:Pyreal
+D83F75FA:Massive Mana Charge
+D83DAC3A:Massive Mana Charge
+D83F761C:Foci of Enchantment
+D83ED278:Foci of Verdancy
+D83F7602:Baron's Amulet of Life Giving
+D83F7621:Bracelet
+D83F7612:Faran Robe
+D83F7630:Major Mana Stone
+D83ED2D8:Cloth Cap
+D83F761F:Wrapped Bundle of Arrowheads
+D83F7618:Brimstone Pea
+CC0054F8:Salvage (100)
+CC0054F3:Salvage (100)
+D83ED285:Cobalt Pea
+D83ED2A8:Asheron's Lesser Raiment
+D83F7629:Alembic
+D83F7626:Celdon Breastplate
+D83ECC64:Celdon Sleeves
+D83F764A:Celdon Breastplate
+D83F762F:Celdon Sleeves
+D83E3AAA:Reliable Lockpick
+D83F7625:Celdon Sleeves
+D866C66E:Cooking Pot
+D83ED2B1:Celdon Sleeves
+D83F7624:Celdon Girth
+D83ED297:Celdon Girth
+D83F7619:Turpeth Pea
+D83ED2D9:Celdon Sleeves
+D83F7637:Helmet
+D83F7631:Stibnite Pea
+D83F7623:Celdon Breastplate
+D83ED2A7:Celdon Sleeves
+D83F7636:Celdon Breastplate
+D83ED2B4:Celdon Sleeves
+D83F764F:Yoroi Leggings
+D83ED2AB:Cloth Gloves
+D83F7657:Nariyid Gauntlets
+D83F7632:Quicksilver Pea
+D83E3AFA:Celdon Sleeves
+D83F7645:Celdon Girth
+D83E3A7D:Celdon Sleeves
+D83ED28B:Teleportation Device
+D83B89F8:Orb
+D83F7611:Golden Gromnie
+D83F763A:Concentrated Acid Infusion
+D83F7608:Wrapped Bundle of Arrowshafts
+D83ED296:Concentrated Aqua Incanta
+D83F7649:Invitation to Master Fletchers
+D83F7610:Whittling Knife
+D83F763B:Intricate Carving Tool
+D83ED2B3:Relanim Plant
+CC002474:Qafiya
+D86513E2:Crushed Lapyan Plant
+CC0054CE:Studded Leather Leggings
+
+Missing Exports - Possessed items that were not found:

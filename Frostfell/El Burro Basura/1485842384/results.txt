@@ -1,0 +1,27 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485841816_log.pcap
+
+Partial Exports - Missing appraisal info:
+B5702C59:Academy Wand
+
+Missing Exports - Possessed items that were not found:
+B5000BFA
+B5000C00
+B5000BFB
+B56EA65F
+B5000BF8
+B5000BF7
+B56C6D56
+B56C6E34
+B56C6E33
+B56EA661
+B56EA660
+B56C6DB8
+B56C6E35
+B5000BFC
+B5000C01
+B5000BFD
+B5000C02
+B564C71F
+B56FBC55
+B3A7A6A4

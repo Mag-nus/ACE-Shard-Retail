@@ -1,0 +1,116 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\BladeofMemory-01-28-2017_frore_and_direlands\pkt_2017-1-25_1485396300_log.pcap
+
+Partial Exports - Missing appraisal info:
+AD3E4758:Sack
+AD3E4756:Katar
+AD3E4755:Lightning Nekode
+AD3E4754:Frost Nekode
+AD3E4753:Nekode
+AD3E4752:Acid Nekode
+AD3E4845:Nekode
+AD3E4848:Flaming Long Sword
+AD3E475D:Scimitar
+AD3E475C:Frost Tachi
+AD3E475B:Tachi
+AD3E4767:Flaming Broad Sword
+AD3E4766:Sabra
+AD3E4765:Ust
+AD3E4764:Blackmoor's Favor
+AD3E4763:A List of Items
+AD3E4762:Pyreal
+AD3E4761:Pack
+AD3E4770:Blunt Compound Crossbow
+AD3E476F:Piercing Compound Crossbow
+AD3E476E:Electric Crossbow
+AD3E4774:Saulandoi
+AD3E476D:Piercing Compound Crossbow
+AD3E476C:Slashing Compound Crossbow
+AD3E47D1:Ursuin Rug
+AD3E476B:Royal Runed Arbalest
+AD3E476A:Piercing Crossbow
+AD3E4779:Pack
+AD3E4769:Slashing Compound Crossbow
+AD3E4778:Piercing Sceptre
+AD3E47A5:Old Lucky Gold Letter
+AD3E4776:Staff
+AD3E4775:Princely Runed Slashing Baton
+AD3E47A9:Old Lucky Gold Letter
+AD3E484E:Acid Baton
+AD3E4851:Frost Sceptre
+AD3E477F:Yellow Virindi Wand
+AD3E4773:Blunt Baton
+AD3E4772:Slashing Baton
+AD3E47AD:Stone Tool
+AD3E4783:Blunt Baton
+AD3E4782:Piercing Sceptre
+AD3E34FC:Mystic Drudge Charm
+AD3E4780:Piercing Sceptre
+AD3E477D:Electric Sceptre
+AD3E4790:Pack
+AD3E477C:Staff
+AD3E477E:Fire Baton
+AD3E4795:Pack
+AD3E478F:Salvaged  (100)
+AD3E478E:Salvaged  (100)
+AD3E47C6:Sturdy Iron Key
+AD3E478C:Salvaged  (100)
+AD3E478B:Salvaged  (100)
+AD3E47C2:Ishaq's Mace
+AD3E478A:Foolproof
+AD3E4799:Salvaged  (100)
+AD3E47AC:Diamond Heart
+AD3E4798:Salvaged  (100)
+AD3E4797:Salvaged  (100)
+AD3E47CD:Hero Token
+AD3E4796:Salvaged  (100)
+AD3E4794:Fire Compound Crossbow
+AD3E47D2:Holiday Feast
+AD3E4793:Acid Crossbow
+AD3E4792:Piercing Compound Crossbow
+AD3E47DC:Stipend
+AD3E4791:Electric Compound Crossbow
+AD3E4860:Piercing Crossbow
+AD3E4863:Slashing Crossbow
+AD3E486A:Slashing Compound Crossbow
+AD3E4877:Salvaged  (100)
+AD3E4878:Acid Jo
+AD3E47A6:Jaleh's Necklace
+AD3E47A4:Leerargh's Necklace
+AD3E47A8:Plate Armoredillo Hide
+AD3E47B3:Salvaged  (2)
+AD3E47B2:Berimphur Plant
+AD3E47B1:Lapyan Plant
+AD3E47B0:Minalim Plant
+AD3E47AF:Candeth Keep Stamp
+AD3E47AE:Ring of Enchantment
+AD3E47AB:Ground Chorizite
+AD3E47BB:Piercing Compound Bow
+AD3E47BA:Fiun Spellcasting Gloves
+AD3E47B8:Pearl of Blood Drinking
+AD3E47B7:Pack Harbinger
+AD3E47B6:Decorative Bronze Statue 
+AD3E47C3:Swamp Lord's War Paint
+AD3E47B5:Deceiver's Crystal
+AD3E47B4:Platemail Gauntlets
+AD3E4881:Lytelthorpe Portal Gem
+AD3E488F:Tusker Spit
+AD3E34FB:Mortar and Pestle
+AD3E47C7:Elaborate Dried Rations
+AD3E4893:Some Changes for February 2012
+AD3E47C4:Piercing Slingshot
+AD3E47C1:Quintessence Sickle
+AD3E47CF:Diadem
+AD3E47C0:Faran Life Master Robe
+AD3E34FA:Crown
+AD3E47CE:Throwing Pancake
+AD3E47D3:Blighted Moarsmen Scale
+AD3E4894:White Virindi Wand
+AD3E47DB:Sword of Lost Light
+AD3E47DA:Buckler
+
+Missing Exports - Possessed items that were not found:
+AD3E4771
+AD3C4931
+AD3E475F
+AD3E4760

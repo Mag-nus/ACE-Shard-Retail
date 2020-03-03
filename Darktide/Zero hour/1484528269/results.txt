@@ -1,0 +1,22 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-15_1484528069_log.pcap
+
+Partial Exports - Missing appraisal info:
+D77CF4E1:Cloth Cap
+D77CEF7C:Shirt
+D77CF518:Leather Boots
+D77EFFE6:Wide Breeches
+D77CF2A3:Pyreal
+D7748202:Foci of Verdancy
+D77CF28A:Foci of Strife
+D77CF4CD:Prismatic Taper
+D774823A:Lead Scarab
+D7794663:Bread
+D7748214:Starter Knife
+D79203CA:Welcome Letter
+D78F16D2:Sack
+D77B2C68:Some Changes for February 2012
+D77CF2A4:Blackmoor's Favor
+D77AFD4E:Aluvian Wand
+
+Missing Exports - Possessed items that were not found:

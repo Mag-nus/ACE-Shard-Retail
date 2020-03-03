@@ -1,0 +1,199 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\pkt_2017-1-28_1485647610_log\pkt_2017-1-28_1485647610_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-06-2017\pkt_2017-1-28_1485631361_log\pkt_2017-1-28_1485631361_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\pkt_2017-1-28_1485636086_log\pkt_2017-1-28_1485636086_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\pkt_2017-1-28_1485640908_log\pkt_2017-1-28_1485640908_log.pcap
+
+Partial Exports - Missing appraisal info:
+81C1057D:Pack
+81C1057E:Embroidered Bag
+81C1057F:Writ of Apology
+81C10580:Trade Note (250,000)
+81C10581:Trade Note (100,000)
+81C10584:Blackmoor's Favor
+81C10582:Trade Note (50,000)
+81C10583:Trade Note (75,000)
+81C10586:Sawato Bandit's Mask
+81C10585:Trade Note (150,000)
+81C10589:Leggings of Darkness
+81C1058B:Fishing Pole
+81C1058A:Empowered Helm of the Perfect Light
+81C1058C:Incomparable Lense
+81C105BC:Ust
+81C1058E:Globe of Auberean
+81C105D0:Utelari's Collar
+81C10590:Pack
+81C10649:Tipped Pack Cow
+81C10588:Coat of Darkness
+81C10587:Aerfalle's Supreme Pallium
+81C1058F:Aerbax's Defeat
+81C10591:Iron Scarab
+81C10592:Silver Scarab
+81C10593:Lead Scarab
+81C10594:Platinum Scarab
+81C10595:Diamond Scarab
+81C10596:Copper Scarab
+81C10597:Gold Scarab
+81C10598:Prismatic Taper
+81C10599:Gold Pea
+81C1059A:Silver Pea
+81C1059C:Aetheria Desiccant
+81C1059D:Aetheria Powder
+81C1059E:Aetheria Powder
+81C105C0:Diamond Powder
+81C1059F:Aetheria
+81C105A0:Pyreal Pea
+81C105A1:Pyreal Scarab
+81C105A2:Splitting Tool
+81C105A3:Eldrytch Web Stronghold Portal Gem
+81C105EB:Jester's Token
+81C105A4:Aetheria
+81C1059B:Aetheria
+81C10617:Mana Scarab
+AE38FCD6:Aetheria
+81C105A5:Aetheria
+81C105A7:Pack
+81C105A9:Pyreal Bar
+81C105AB:Glimmering Gem
+81C105AD:Major Smoldering Stone
+81C105AE:Major Prismatic Stone
+81C105AF:Glittering Crystalline Key
+81C105B0:Scintillating Gem
+81C105B2:Dark Speck
+81C105B5:Pyreal Bar
+81C105B6:Black Fire Atlan Stone
+81C105B7:Major Stinging Stone
+81C105CB:Isparian Weapons Modifying Tool
+81E9BC70:Major Shivering Stone
+ADE486FB:Crystal Fragment
+81C105BA:Foci of Enchantment
+81C105BB:Pack
+81C105BD:Salvage (78)
+81C105BE:Rare Crystalline Shard
+81C105BF:Renegade Pendant
+81C105C2:Promissory Note
+81C105C4:Adventurer's Token
+81C105C5:Intricate Carving Tool
+81C105C8:Dire Champion Token
+81C105C9:Diamond Powder
+81C105CA:Decanter of Essence
+81C105F8:Amulet
+81C105E7:Pants
+81C105CF:Ring
+81C105D2:Mana Philtre
+81C105D5:Pathwarden Trinket
+81C105D8:Assault Dirk
+81C105D9:Greater Mana Kit
+81C105DA:Greater Stamina Kit
+81C105DD:Protective Drudge Charm
+81C105E2:Crystal of Spectral Blood
+ADCCA3CA:A'nekshay Token
+805BAA51:Gorget
+81C105EC:Heavy Bracelet
+81C105E3:Skull of One Thousand Torments
+81C105ED:Sealed Scroll for Commander Presk
+81C105EE:The Healer's Heart
+81C105F2:Crystal of Perception
+81C105F5:Society Gem of Dispelling
+81C105F6:Health Tincture
+81C10603:Plentiful Healing Kit
+81C10604:Pack
+81C10605:Durable Legendary Key
+81C10606:Durable Legendary Key
+81C1060B:Knight's Treasure Key
+81C1060C:Ink of Nullification
+81C1060E:Ink of Conveyance
+81C10612:Strengthened Mana Forge Key
+81C1060F:Quill of Introspection
+81C10610:Ink of Objectification
+AE831C18:Eldrytch Web Trade Token
+81C10615:Quill of Infliction
+81C10616:Quill of Benevolence
+81C10619:Strengthened Mana Forge Key
+81C1060D:Ink of Formation
+ADA66D23:Braced Mana Forge Key
+AE85462D:Master's Treasure Key
+81C1061B:Pack
+81C1061C:Aligned Mana Stone
+81C1061D:Enchanted Mana Stone
+81C10624:Glyph of Jump
+81C10626:Glyph of Item Enchantment
+81C1062E:Glyph of Piercing
+81C10620:Aetheria Mana Stone
+AE299FD7:Rynthid Minion of Rage's Mask
+809CEE39:Olthoi Koujia Gauntlets
+81C1061E:Greater Mana Stone
+AE978B2D:Greater Mana Stone
+AE987253:Greater Mana Stone
+AE56E31C:Major Mana Stone
+AE7404C4:Greater Mana Stone
+81C1063F:Orb
+81C10646:Treated Healing Kit
+81C1064D:Health Tonic
+81C10653:Sanguinary Aegis
+81C10657:Aetheria
+ADA973A0:Paradox-touched Olthoi Axe
+ADCA1B62:Treated Healing Kit
+ADED4DAB:Treated Healing Kit
+81C1065A:Shield of Isin Dule
+81C105E6:Trident
+81C105FB:Dagger
+81C10658:Paradox-touched Olthoi Katar
+ADECB925:Treated Healing Kit
+ADECD8F7:Eldrytch Web Commendation Ribbon
+ADF1EE0D:Chainmail Greaves
+ADECC608:Society Gem of Dispelling
+ADFA3B35:Frozen Fortress Testing Grounds Attunement Shard (Level 180+)
+81C105EF:Aetheria
+AE34C0B9:Puzzle Box
+AE34A835:Frozen Valley Portal Gem
+AE49E872:Treated Healing Kit
+AE44439B:Burning Sands Keyring
+ADC8EB02:Soul Bound Spear
+AE73FC20:Viridian Essence
+81C105DC:Bordered Cloak
+81C10640:Ultimate Singularity Sword
+AE978AEA:Excellent Lockpick
+81C105F9:Nekode
+81C1064F:Lightning Quarter Staff
+81C10642:Covenant Shield
+81C105CE:Bracelet of Thorns
+81C10631:Helm of Darkness
+AE754D1C:Cloth Gloves
+AE73BD4C:Baggy Tunic
+81C10659:Elysa's Favor
+AE82E0B3:Jerkin
+AE90A003:Large Sclavus Hide
+AE836EDB:Flared Pants
+AE821B32:Heavy Bracelet
+81C10633:Gauntlets of Darkness
+81C10632:Sollerets of Darkness
+AE984B1D:Obsidian Heart
+81C1063C:Empowered Girth of the Perfect Light
+81C1063D:Empowered Tassets of the Perfect Light
+81C1063A:Empowered Bracers of the Perfect Light
+81C1063E:Empowered Greaves of the Perfect Light
+AE067AEC:Chevron Cloak
+81C10656:Aetheria
+AE7F68AB:Eldrytch Web Armor Writ
+81C1063B:Empowered Breastplate of the Perfect Light
+81C10639:Empowered Pauldrons of the Perfect Light
+81C10636:Flaming Epee
+81C10643:Fist of Enlightenment
+81C10652:Replica Sword of Bellenesse
+81C10634:Acid War Hammer
+81C10662:Shield of Yanshi
+81C105E5:Ring
+81C105F0:Ravenous Axe
+81C10661:Demon Swarm Sword
+807A169B:Frost Dagger
+AE937F17:Blackfire Shimmering Isparian Spear
+81C105FF:Flaming Quarter Staff
+807A16B0:Lightning Katar
+809E740C:Ash Gromnie Tooth
+81C10650:Knuckles
+AE8E27BA:Great Jack o' Lantern
+
+Missing Exports - Possessed items that were not found:

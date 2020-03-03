@@ -1,0 +1,90 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Mavness-02-01-2017-pcap\pcap\pkt_2017-1-16_1484622971_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Mavness-02-01-2017-pcap\pcap\pkt_2017-1-16_1484622971_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Mavness-02-01-2017-pcap\pcap\pkt_2017-1-16_1484622971_log.pcap
+
+Partial Exports - Missing appraisal info:
+8811A6BF:Major Mana Stone
+880EC916:Foci of Artifice
+880801FD:Pack
+880ECDEB:Red Rune Slashing Silveran Wand
+880BAE05:Scroll of Tusker's Bane
+880ECA71:Blackmoor's Favor
+880E9C62:Pants
+88087CAB:Gloves
+8811A6A8:Olthoi Bracers
+880B6BF2:Pathwarden Trinket
+880EB414:Mechanical Scarab
+880BAD88:Covenant Greaves
+880BA34A:Chainmail Tassets
+880BA90A:Coat of the Zaikhal Defender
+880EBBCD:Studded Leather Gauntlets
+880ECBA3:Pack
+880EAD4C:Auroric Runic Helm
+88158CC5:Blooded Platinum Invader Lord Helm
+8811AA61:Radiant Blood Sollerets
+8811A6E3:Radiant Blood Tassets
+8808FD44:Empowered Bracers of the Perfect Light
+880EB275:Empowered Tassets of the Perfect Light
+8811A680:Empowered Greaves of the Perfect Light
+880EE076:Empowered Girth of the Perfect Light
+88080E76:Empowered Breastplate of the Perfect Light
+8813D9AA:Empowered Helm of the Perfect Light
+880EB775:Pocket Watch
+880F6670:Armet
+880E3959:Chainmail Breastplate
+880E8015:Pack
+8809FD8A:Mechanical Scarab
+8811AA71:Takuba
+8811A6A0:Dericost Blade
+880BB6E3:Chainmail Girth
+880E82A9:Crystal Fragment
+880E80A7:Crystal Fragment
+880EB9B4:Crystal Fragment
+880EB387:Pocket Watch
+880EF596:Chainmail Tassets
+87F6172D:Some Changes for February 2012
+880A0A03:Chainmail Pauldrons
+853EABDA:Shirt
+880F0005:Chainmail Pauldrons
+8811A755:Chainmail Bracers
+8809F701:Scalemail Bracers
+8811A75D:Lightning Katar
+880EDD56:Chainmail Bracers
+880BAF51:Crown of Anointed Blood
+880F4A30:Chainmail Girth
+880EC3BE:Scalemail Bracers
+880A19F6:Slippers
+8808BC9C:Chainmail Breastplate
+88091254:Chainmail Tassets
+8811AA7E:Chainmail Bracers
+880B9FF4:Chainmail Pauldrons
+880EC860:Olthoi Koujia Sollerets
+880EE532:Chiran Gauntlets
+8815BCF5:Ring
+8811A6DE:Ring
+88088C96:Olthoi Tassets
+8809178E:Chainmail Greaves
+880B8ECC:Top
+8811AB8B:Studded Leather Gauntlets
+880BB893:Shirt
+880ED59C:Leather Tassets
+880D524D:Leather Tassets
+8811A6D9:Leather Tassets
+880BADF5:Leather Tassets
+880EC525:Leather Tassets
+880BA390:Leather Tassets
+880ECE78:Leather Tassets
+8811ABD2:Leather Tassets
+880EC6E7:Leather Tassets
+880F6345:Leather Tassets
+880E82CB:Leather Tassets
+8809F997:Leather Tassets
+8809FA6A:Leather Tassets
+88104D51:Leather Tassets
+880ED2EF:Leather Tassets
+88101B3C:Leather Tassets
+
+Missing Exports - Possessed items that were not found:

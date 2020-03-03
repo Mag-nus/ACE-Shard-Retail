@@ -1,0 +1,151 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\DataLog\DataLog\pkt_2017-1-31_1485838858_log.pcap
+
+Partial Exports - Missing appraisal info:
+B498FBC5:Foci of Verdancy
+B498FBC6:Foci of Strife
+B498FBC7:Foci of Artifice
+B498FBC8:Foci of Enchantment
+B498FBC9:Pack
+B498FBCA:Iron Scarab
+B498FBCB:Copper Scarab
+B498FBCC:Silver Scarab
+B498FBCD:Lead Scarab
+B498FBCE:Gold Scarab
+B498FBCF:Pyreal Scarab
+B498FBD0:A Large Mnemosyne
+B498FBD1:A Large Mnemosyne
+B498FBD2:Virindi Singularity Key
+B498FBD3:Ust
+B498FBD4:Ruined Amulet of Missile Weapons
+B498FBD5:Ruined Amulet of Light Weapons
+B498FBD6:Ruined Amulet of the Heart
+B498FBD7:A Large Mnemosyne
+B498FBD8:Platinum Scarab
+B498FBD9:Prismatic Taper
+B498FBDA:Broken Virindi Observer Mask
+B498FBDB:Pack Ancient Olthoi Queen
+B498FBDC:Pack Ancient Olthoi Queen
+B498FBDD:Pack Bael'Zharon
+B498FBDE:Gloves
+B498FBDF:Banished Staff
+B498FBE0:Gorget
+B498FC34:Celdon Girth
+B498FBE1:Scroll of Dark Rain
+B498FBE2:Vial of Organic Acid
+B498FBE3:A Large Mnemosyne
+B498FBE4:Iron Scarab
+B498FBE5:Gold Scarab
+B498FBE6:Silver Scarab
+B498FBE8:Jo
+B498FBE9:Wah Chon's Winter Lager
+B498FBEA:Wooden Tablet
+B498FBEB:Electric Sceptre
+B498FBEE:Blackmoor's Favor
+B498FBEF:Strand Siraluun Claw
+B498FBF0:Small Bundle of Strand Siraluun Feathers
+B498FBF1:Small Bundle of Littoral Siraluun Feathers
+B498FBF3:Greenwood Haft
+B498FBF2:Karenua's Key
+B498FBF4:Gromnie Sinew Bowstring
+B498FBF5:Hea Totem
+B498FBF6:Trade Note (100,000)
+B498FBF7:Pyreal
+B498FBF8:Pack T'thuun
+B498FBF9:Some Changes for February 2012
+B498FBFB:Shoushi Portal Gem
+B498FBFC:Peerless Healing Kit
+B498FBFE:Wrapped Bundle of Frog Crotch Arrowheads
+B498FBFF:Crown of Anointed Blood
+B498FC02:Banished Blade
+B498FC03:Moderate Mana Stone
+B498FC04:Renegade Herbal Kit
+B498FC05:Heavy Bracelet
+B498FC06:Salvage (100)
+B498FC09:Glyph of Leadership
+B498FC0C:Salvage (100)
+B498FC1E:Moderate Mana Stone
+B498FC0D:Salvage (100)
+B498FC0E:Salvage (100)
+B498FC26:Pack
+B498FC0F:Salvage (100)
+B498FC10:Salvage (100)
+B498FC35:Diamond Heart
+B498FC11:Salvage (100)
+B498FC12:Salvage (100)
+B498FC40:Massive Mana Charge
+B498FC13:Salvage (100)
+B498FC14:Salvage (100)
+CEE0773D:Small Shard
+B498FC15:Salvage (100)
+B498FC16:Salvage (100)
+B498FBFA:Heaume
+B498FC17:Salvage (100)
+B498FC18:Salvage (100)
+D2381E6E:Massive Mana Charge
+B498FC19:Salvage (100)
+B498FC1A:Salvage (100)
+D03323E7:Massive Mana Charge
+B498FC1D:Suikan War Master Robe
+B498FC1F:Aetheria
+D04D6182:Massive Mana Charge
+B498FC20:Aetheria
+B498FC21:Salvage (100)
+B498FC39:Ring
+B498FC22:Salvage (100)
+B498FC23:Salvage (100)
+CD58E4F6:Massive Mana Charge
+B498FC25:Ancient Pyreal Dagger
+D50869E2:Zefir's Crystal
+B498FC36:Virindi Inquisitor's Mask
+B498FC37:Flaming Stick
+C82C5A99:Massive Mana Charge
+B498FC38:Acid Lancet
+B498FC3A:Stick
+D23BF239:Massive Mana Charge
+B498FC3B:Tungi
+B498FC3F:Pack Martine
+93B74DB3:Ancient Empyrean Trinket
+809D2605:Electric Naginata
+D04D6196:Massive Mana Charge
+8BCD9B26:Mace of Winter Flame
+CEDE58FD:Platemail Sleeves
+CC115044:Massive Mana Charge
+B498FC01:Yoroi Sleeves
+B498FC2B:Heavy Necklace
+CD717058:Massive Mana Charge
+B498FC2F:Smock
+B498FC2A:Scorched Grievver Essence
+B498FC27:Cloak
+B498FC00:Asheron's Supreme Raiment
+BA6BF880:Massive Mana Charge
+B498FC31:Bordered Cloak
+CD4DD012:Massive Mana Charge
+B498FC30:Cloak
+B498FC2E:Flaming Short Sword
+B498FBED:Greater Olthoi Gauntlets
+B498FC28:Haebrean Tassets
+B498FC32:Top
+B498EAF4:Pack
+B498FC33:Bordered Cloak
+B51F0566:Imbue Swap Coin
+B68C2DF1:Ring
+96AF3579:Salvage (100)
+A715F030:Gem of Greater Luminance
+D23BFC33:Massive Mana Charge
+A74850CF:Gem of Greater Luminance
+BF2A2621:Imbue Swap Coin
+88089DF0:Studded Leather Pauldrons
+B498EB07:Quartered Cloak
+A7116012:Gem of Greater Luminance
+86F67C40:Ring
+800DA3DB:Ring
+C9E54664:Scholar's Crystal
+800DA3D7:Artist's Crystal
+B51F0481:Imbue Swap Coin
+B5BBCCD8:Imbue Swap Coin
+B51F047F:Imbue Swap Coin
+B498ECEC:Life Giver's Crystal
+D509F020:Chef's Crystal
+
+Missing Exports - Possessed items that were not found:

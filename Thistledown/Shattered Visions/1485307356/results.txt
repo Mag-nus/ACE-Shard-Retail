@@ -1,0 +1,53 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-24-2017-pkt_2017-1-24_1485307349_log\pkt_2017-1-24_1485307349_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-24-2017-pkt_2017-1-24_1485305851_log\pkt_2017-1-24_1485305851_log.pcap
+
+Partial Exports - Missing appraisal info:
+AB7B648F:Treated Healing Kit
+AB78DFC8:Treated Healing Kit
+AB7B20B4:A Ring of Acid Protection
+AB7F691C:Pyreal Scarab
+AB7B2047:Silver Scarab
+AB7B20C9:Gem
+AB7B20D1:Pack Levistras
+AB7B20DB:Asheron's Benediction
+AB7D6CCC:Blackmoor's Favor
+AB7AE117:Some Changes for February 2012
+ABA3E52C:Imbue Swap Coin
+AB7B20CF:Large Round Shield
+
+Missing Exports - Possessed items that were not found:
+AB7A3A2B
+AB7F6937
+AB7F6917
+AB7F68F5
+AB7F68C8
+AB7C936B
+AB7F691D
+AB7BD057
+AB7B20D6
+AB7F692C
+AB7F68F6
+AB7C937E
+AB7F68A4
+AB7C9396
+AB78DF7C
+AB78DF4F
+AB7F68F8
+AB7F6938
+AB7F691A
+AB7F68DA
+AB7F6919
+AB7F68F7
+AB7B2103
+AB7F6901
+AB7C9380
+AB7F6955
+AB7F68C7
+AB7B20AD
+AB7F68BF
+AB7F68A5
+AB7F68D9
+AB7F68DF

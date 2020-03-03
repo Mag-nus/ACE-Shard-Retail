@@ -1,0 +1,135 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\RunningFromNorthernTipToSouthernTipOfDereth\RunningFromNorthernTipToSouthernTipOfDereth\pkt_2017-1-30_1485835276_log.pcap
+
+Partial Exports - Missing appraisal info:
+CE08B4CB:Foci of Verdancy
+D9DFD3A5:Blackmoor's Favor
+CD00C0F9:Platemail Greaves
+D9DD7384:Pathwarden Token
+CDFF41B3:Ust
+D9E3AB64:Celdon Breastplate
+D9E3BAF8:Celdon Sleeves
+D9E3BE06:Pyreal
+D9DFDD62:Celdon Sleeves
+D9DD6026:Celdon Sleeves
+D9E32C09:Swamp Stone
+D9E3BB34:Celdon Girth
+D9E3C662:Celdon Girth
+D9E3B57D:Sack
+CDCC369C:Celdon Girth
+D9E9E006:Celdon Leggings
+D9E33AB3:Mukkir Hellion Eye
+D9E4C26A:Celdon Sleeves
+D9E9DFF9:Celdon Girth
+D9E3BC47:Shambling Ruschk Arm
+D9E5033E:Chiran Helm
+D9D5ED70:Volkama's Okane of the Rivers
+CDFF4642:Black Coral Golem Chunk
+D9E33242:Foolproof
+D9E3B9C8:Coalesced Aetheria
+D9E3B734:Shambling Ruschk Arm
+D9DFE044:Coalesced Aetheria
+D9E09E03:Mukkir Hellion Eye
+D9AFA10C:Shambling Ruschk Arm
+D9E133D4:Shambling Ruschk Arm
+D9E5035B:Shambling Ruschk Arm
+D9DD7CF1:Shambling Ruschk Arm
+D9E4CA27:Degenerate Shadow Essence
+CE07820A:Some Changes for February 2012
+D9E50297:Amuli Coat
+D9DD7AB6:Amuli Leggings
+D9DD8576:Amuli Leggings
+D9E767CD:Acid Axe
+D9DDAAE2:Amuli Leggings
+D9DD7E96:Amuli Coat
+D9E3B578:Celdon Leggings
+D9E3B6BA:Ben Ten's Crystal
+D9E3C148:Executor's Jewel
+D9E3B5CE:Tinker's Crystal
+D9DFDD49:Yoroi Girth
+D9E50295:Iron Phial of Imperil
+D9E139DD:White Rabbit Girth
+D9E32C35:White Rabbit Carcass
+D9E5015E:Rock Candy Knath
+D9DD7977:Duke Raoul's Distillation
+D9E3B54B:Refreshing Water
+D9E3C65E:Undead Thighbone
+D9E3BC17:Cave Penguin Cake
+D9E3B5D0:Wah Chon's Winter Lager
+D9E3C70E:Candy Corn
+D9E4BE5F:A Perfect Snowman Eye
+D9DD93CF:Shirt
+D9E3B476:Candy Corn
+D9DDA80C:Radiant Blood Sollerets
+D9E3A2BC:Breeches
+D9E3BAB5:Fouled Remoran Fin
+D9D5FE2E:Scored Celdon Leggings
+D9DDAC6F:Tasty Fermented Brew
+D97ACB45:Trothyr's Rest Key
+D9E4B84D:Flared Pants
+D9E1398B:Smithy's Crystal
+D94D7A47:Vaulter's Crystal
+D9DFDF27:Pants
+D9DFDAD1:Bracelet
+D9E3AF43:Ring
+D9E4B333:Ring
+D9E3AD2B:Pants
+D9E3B42D:Small Shard
+D9E3C613:Strand Siraluun Claw
+D9DD7702:Tibri's Fire Spear
+D9E3AEB8:Trothyr's Shield
+D9E3AF2B:Lucky Rabbit's Foot
+D9E506D1:Glyph of Alchemy
+D9E3C468:Gold Shallows Shredder Fin
+D9D8F7DE:Gold Shallows Shredder Fin
+D9E502F7:Gold Shallows Shredder Fin
+D9E336F6:Crown of Bone
+D9E4BFA2:Dansha-Ki's Ring
+D9E3BA4B:Elysa's Wondrous Orb
+D9E3B87B:Elysa's Bangle
+D9DFE4FD:Hammer of Lightning 
+D9DD9914:Hulking Bunny Slippers
+D9ED43A4:Protective Drudge Charm
+D9C65E43:Shambling Ruschk Arm
+D9DD83E8:Shambling Ruschk Arm
+D9DFD7D8:Shambling Ruschk Arm
+CD6FA51F:Shambling Ruschk Arm
+D9E504DF:Shambling Ruschk Arm
+D9DD9126:Shambling Ruschk Arm
+D9E4BD4A:Shambling Ruschk Arm
+D9E39F00:Degenerate Shadow Essence
+D9E4BDD1:Degenerate Shadow Essence
+D9E4C2F6:Shambling Ruschk Arm
+D9E4BC44:Degenerate Shadow Essence
+D9ED3F4C:Black Coral Golem Chunk
+D9DD89F6:Black Coral Golem Chunk
+D9E14F7B:Pyreal Nugget
+D9DFD367:Gold Shallows Shredder Fin
+D9ED3F4B:Gold Shallows Shredder Fin
+D9DD8D15:Gold Shallows Shredder Fin
+D9E3A2E7:Gold Shallows Shredder Fin
+D9E9D6C6:Shambling Ruschk Arm
+D9E3B9B9:Coalesced Aetheria
+D9E50528:Shambling Ruschk Arm
+D9DD75D8:Shambling Ruschk Arm
+D9DFDFCA:Degenerate Shadow Essence
+CE08B7C7:Degenerate Shadow Essence
+D9DD7F02:Fouled Remoran Fin
+D9DFDA4C:Fouled Remoran Fin
+D9E50565:Yoroi Girth
+CDC6FC45:Kote
+D9E8A325:Yoroi Leggings
+D9E3B43F:Helm of Isin Dule
+D9E3C2DE:Crown of Anointed Blood
+D9E3B647:Olthoi Sollerets
+CE077625:Olthoi Greaves
+D9DFD55E:Olthoi Breastplate
+D9ED4430:Olthoi Breastplate
+D9E48C51:Olthoi Breastplate
+D9DF3F01:Olthoi Breastplate
+CDD52552:Olthoi Breastplate
+CE077435:Yoroi Pauldrons
+D9E146E1:Horned Helm
+CEEC519E:Hulking Bunny Slippers
+
+Missing Exports - Possessed items that were not found:

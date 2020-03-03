@@ -1,0 +1,176 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485323961_log\pkt_2017-1-24_1485323961_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485323961_log\pkt_2017-1-24_1485323961_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485323961_log\pkt_2017-1-24_1485323961_log.pcap
+
+Partial Exports - Missing appraisal info:
+C09AC98A:Pack
+C09AC98B:Platinum Scarab
+C09AC98C:Copper Scarab
+C09AC98D:Aphus Lassel Portal Gem
+C09AC98E:Pyreal Scarab
+C09AC98F:Gold Scarab
+C09AC990:Splitting Tool
+C09AC991:Silver Scarab
+C09AC992:Iron Scarab
+C09AC993:Prismatic Taper
+C09AC994:Diamond Scarab
+C09AC995:Ust
+C09AC996:Health Philtre
+C09AC997:Chorizite
+C09AC998:Polar Ursuin Lair
+C09AC999:Pack T'thuun
+C09AC99A:Gem of Purity
+C09AC99B:Plentiful Healing Kit
+C09AC99C:Plentiful Healing Kit
+C09ACA64:Mana Scarab
+C09ACA76:Some Changes for February 2012
+C09ACA0F:Elaborate Field Rations
+C09AC99F:Pack
+C09ACA63:Gem of Stillness
+C09AC9A1:Trade Note (75,000)
+C09AC9A4:Trade Note (250,000)
+C09AC9B1:Vissidal Island Portal Gem
+C09AC9BA:Pack
+C09AC9C0:Frost Tachi
+C09AC9C4:Lightning Dericost Blade
+C09AC9D3:Gold Pea
+C09AC9C5:Apothecary Zongo's Stout
+C09AC9C6:Hunter's Stock Amber
+C09AC9C7:Amber Ape
+C09AC9C8:Bobo's Stout
+C09AC9DA:Peerless Lockpick
+C09AC9D1:Gold Golem Heart
+C09ACA51:Flaming Dericost Blade
+C09ACA45:Diamond Shield
+C09AC9D4:Pack
+C09AC9D5:Elysa's Favor
+C09AC9D6:Elysa's Favor
+C09AC9D8:Bracelet of Dark Essence
+C09AC9D9:Bloodletter Charm Necklace
+C09AC9DB:Clean, Dry Towel
+C09AC9DC:Realaidain Raiment
+C09AC9DD:Realaidain Raiment
+C09AC9DE:Tusker Island Shirt
+C09AC9DF:King's Helm
+C09AC9E0:Ogre Mask
+C09AC9E1:Koji's Visage
+C09AC9E2:Gauntlets of Marksmanship
+C09AC9E3:Enhanced Gauntlets of Marksmanship
+C09AC9E4:Lair of The Homunculus
+C09AC9EA:Salvaged  (100)
+C09AC9F5:Major Mana Stone
+C09AC9EB:Salvaged  (100)
+C09AC9D7:Elysa's Favor
+C09AC9ED:Flaming Nekode
+C09AC9EE:Tachi
+C09AC9F1:Silver Pea
+C09AC9F0:Flaming Claw
+C09AC9F6:Major Mana Stone
+C09AC9F7:Nekode
+C09AC9F8:Frost Katar
+C09AC9F9:Slashing Baton
+C09AC9FB:Flaming Katar
+C09AC9FA:Slashing Sceptre
+C09AC9FC:Slashing Baton
+C09ACA20:Skeleton
+C09AC9FD:Fire Bow
+C09AC9FE:Knuckles
+C09AC9FF:Pyreal Pea
+C09ACA00:Acid Sceptre
+C09ACA01:Fire Sceptre
+C09ACA04:Acid Nekode
+C09ACA02:War Axe
+C09ACA03:Frost Claw
+C09ACA16:Pack Burun Kukuur
+C09ACA05:Blunt Sceptre
+C09ACA08:Claw
+C09ACA07:Battle Axe
+C09ACA09:Electric Baton
+C09ACA0A:Dericost Blade
+C09ACA0B:Flaming Dolabra
+C09ACA0E:Lugian Hammer
+C09ACA15:Pack Bael'Zharon
+C09ACA11:Frost Nekode
+C09ACA14:Pack
+C09ACA13:Flaming Broad Sword
+C09ACA17:Pack Gaerlan
+C09ACA18:Pack Asheron
+C09ACA19:Pack Grael
+C09ACA1A:Pack Grael
+C09ACA1B:Pack Grael
+C09ACA1C:Pack Grael
+C09ACA1D:Pack Gaerlan
+C09ACA1E:Pack Grael
+C09ACA1F:Pack Scarecrow
+C09ACA21:Pack Levistras
+C09ACA22:Pack Asheron
+C09ACA23:Pack Burun Kukuur
+C09ACA24:Pack Grael
+C09ACA25:Pack Virindi
+C09ACA26:Pack Tower Guardian
+C09ACA28:Pack Gaerlan
+C09ACA27:Pack Tower Guardian
+C09ACA2A:Pack Grael
+C09ACA29:Pack Tower Guardian
+C09ACA2B:Pack Asheron
+C09ACA2C:Pack Tower Guardian
+C09ACA2D:Katar
+C09ACA2E:Celdon Girth
+C09ACA3E:Relic Alduressa Sollerets
+C09ACA2F:Dericost Blade
+C09ACA40:Relic Alduressa Coat
+C09ACA37:Amuli Coat
+C09ACA38:Amuli Coat
+C09ACA3A:Lorica Leggings
+C09ACA3B:Tusker Spit Ale
+C672126F:Pyreal
+C09ACA3C:Duke Raoul's Distillation
+C09ACA3D:Walking Boots
+C09ACA3F:Relic Alduressa Leggings
+C09ACA41:Acid Baton
+C09ACA42:Frost Sceptre
+C09ACA43:Cestus
+C09ACA60:Pristine Mana Shard
+C09ACA46:Fire Baton
+C6731A6E:Pyreal
+C09ACA4A:Amuli Leggings
+C09ACA59:Shield of Perfect Light
+C09ACA4D:Amuli Coat
+C09ACA4E:Shouyumi
+C67315DB:Pyreal
+C09ACA4F:Battle Axe
+C755DD35:Major Mana Stone
+C09ACA52:Tachi
+C09AC9C9:Orb
+C09ACA58:Dericost Blade
+C09ACA65:Staff
+C6734AC7:Pyreal
+C09D5F09:Blunt Compound Bow
+C78DD37C:Pyreal
+C09A72CD:Blunt Compound Bow
+C0952B9D:Amuli Coat
+C78DDFA6:Pyreal
+C0932474:Amuli Leggings
+C09ACA12:Amuli Leggings
+C6721269:Pyreal
+C09ACA4B:Amuli Leggings
+C0C03882:Ancient Empyrean Trinket
+C5F2931D:Blunt Compound Bow
+C5F886D8:Blunt Bow
+C0965C3A:Acid Compound Bow
+C70CCCD4:Blunt Compound Bow
+C09A87FB:Fire Sceptre
+C70F3CCB:Amuli Leggings
+C7275520:Amuli Coat
+C78DD17D:Imbue Swap Coin
+C78DE81D:Pack
+C09AC9CA:Sceptre
+C09AC9CB:Sceptre
+C09ABB0D:Blunt Sceptre
+C0C02118:Acid Bow
+C0C0211D:Blunt Compound Bow
+
+Missing Exports - Possessed items that were not found:

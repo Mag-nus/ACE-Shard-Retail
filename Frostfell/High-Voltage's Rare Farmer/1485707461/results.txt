@@ -1,0 +1,76 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\High-Voltage-01-29-2017\pkt_2017-1-29_1485707454_log.pcap
+
+Partial Exports - Missing appraisal info:
+C01AFC9C:Foci of Artifice
+C03BA061:Foci of Verdancy
+C03BA00F:Foci of Enchantment
+C0417457:Pack
+C01AFC97:Ust
+C039CE71:Blackmoor's Favor
+C200DE9F:Flaming Tetsubo
+C9140A9D:Stipend
+C979E92A:Colosseum Coin
+C0420ABF:Magic Defense Gem of Enlightenment
+C0392A53:Pack
+C0411ADA:Shoyanen's Portal Gem
+C0411B0C:Mana Scarab
+C0411BAE:Platinum Scarab
+C0411BD0:Pyreal Scarab
+C0411BEE:Gold Scarab
+C0411C0B:Silver Scarab
+C0411C3C:Copper Scarab
+C0411C6D:Iron Scarab
+C0411C85:Lead Scarab
+C05849CA:Turquoise Taper
+C3C39986:Pyreal
+CD975228:Prismatic Taper
+CEE3E828:Prismatic Taper
+CEE3E82A:Prismatic Taper
+CEE3E827:Prismatic Taper
+D8814220:Encapsulated Spirit
+D8ED6A88:Prismatic Taper
+DC5DB78D:Prismatic Taper
+C08BB082:Pack
+C63D618B:Renegade Herbal Kit
+C64D5538:Renegade Herbal Kit
+C64D5150:Renegade Herbal Kit
+C64D4DB8:Renegade Herbal Kit
+C53E8DF1:Renegade Herbal Kit
+C556E142:Renegade Herbal Kit
+C551A8D4:Renegade Herbal Kit
+C55887E0:Renegade Herbal Kit
+C5587C55:Renegade Herbal Kit
+C5587AC1:Renegade Herbal Kit
+C5587FB6:Renegade Herbal Kit
+C5587E5A:Renegade Herbal Kit
+C553607E:Renegade Herbal Kit
+C64C327B:Renegade Herbal Kit
+C64C4978:Renegade Herbal Kit
+C64B192A:Renegade Herbal Kit
+C64C42FF:Renegade Herbal Kit
+C237BDB0:Renegade Herbal Kit
+C235EC87:Renegade Herbal Kit
+C23509DF:Renegade Herbal Kit
+C237BE4D:Renegade Herbal Kit
+C08836D6:Pack
+DC5DB722:Titan Mana Charge
+DC5DB719:Titan Mana Charge
+DC5DB71E:Titan Mana Charge
+DC5DB716:Titan Mana Charge
+DC5DB724:Titan Mana Charge
+DC5DB71B:Titan Mana Charge
+DC5DB721:Titan Mana Charge
+DC5DB718:Titan Mana Charge
+DC5DB71D:Titan Mana Charge
+DC5DB715:Titan Mana Charge
+DC5DB723:Titan Mana Charge
+DC5DB71A:Titan Mana Charge
+DC5DB71F:Titan Mana Charge
+DC5DB720:Titan Mana Charge
+DC5DB717:Titan Mana Charge
+DC5DB725:Titan Mana Charge
+DC5DB71C:Titan Mana Charge
+DA0FA84C:Trade Note (250,000)
+
+Missing Exports - Possessed items that were not found:

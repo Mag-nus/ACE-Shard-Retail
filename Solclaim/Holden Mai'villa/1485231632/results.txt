@@ -1,0 +1,61 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-07-2017\packet_logs_20170123-2017-0130\pkt_2017-1-23_1485231173_log.pcap
+
+Partial Exports - Missing appraisal info:
+9C6C0F19:Shoes
+9C6C0F18:Calling Stone
+9C6C0F04:Pathwarden Token
+9C6C0F0D:Training Dirk
+9C6C0ED0:Letter From Home
+9C6C0F03:Bread
+9C6C0F21:Blackmoor's Favor
+9C6C0F17:Oil of Rendering
+9C6C0F1F:Covenant Shield
+9C6C0F15:Black Spear of Mukkir Strength
+9C6C0F0A:Pack T'thuun
+9C6C0F1E:Quintessence Sickle
+9C6C0F14:Pack T'thuun
+9C6C0F1B:Bed
+9C6C0F36:Ebon Spine Harpoon
+9C6C0F6F:Diamond Shield
+9C6C0F53:Chair
+9C6C0F3C:Acid Scimitar
+9C6C0F32:Scimitar
+9C6C0F29:Covenant Gauntlets
+9C6C0F3B:Ring
+9C6C0F31:Minalim Plant
+9C6C0F28:Chainmail Sleeves
+9C6C0F3A:Verdalim Plant
+9C618F06:Chilled Shard
+9C6C0F42:Argenory Plant
+9C6BD2B9:Lapyan Plant
+9C6BD2B7:Nuhmudira's Bestowment of Coordination and Fire Defense
+9C6BD2BA:Colban Plant
+9C6C0F39:Hero Token
+9C6C0F30:Relanim Plant
+9C6C0F4B:Scored Celdon Breastplate
+9C6C0F40:Platinum Scarab
+9C6C0F41:Leather Leggings
+9C6C0F2F:Oswald's Crystal
+9C684FD8:Thorsten's Crystal
+9C6C0F73:Olthoi's Jewel
+9C6C0F4A:Covenant Breastplate
+9C6C0F74:Royal Runed Knuckles
+9C6C0F38:Knife
+9C6C0F49:Quiddity Ingot
+9C6C0993:Frost Broad Sword
+9C6C0F46:Pack T'thuun
+9C6C0F5A:Prismatic Amuli Coat
+9C6855FC:Greater Amuli Shadow Leggings
+9C6C0F62:Quiddity Ingot
+9C6C0F56:Quiddity Ingot
+9C6C0F6A:Heavy Bracelet
+9C6C0F61:Ring
+9C6C0F55:Tunic
+9C6C0F69:Tunic
+9C6C0F60:Ring
+9C6C0F54:Fez
+9C6C0F67:Peculiar Old Dagger
+9C6BD273:Staff
+
+Missing Exports - Possessed items that were not found:

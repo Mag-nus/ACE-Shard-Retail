@@ -1,0 +1,176 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-30-2017-HuntNearGreenvaleSettlement_RidgeCitadelPass2\pkt_2017-1-30_1485797040_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-29-2017-Hieromancer_Phantom_HollowFletchingTool\pkt_2017-1-29_1485717273_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-29-2017-ShoushiShrethHive\pkt_2017-1-29_1485734402_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-28-2017-FocusStone_Hollow_Atlan_SDiresDarkSorcererPhylactery_Furniture\pkt_2017-1-28_1485659042_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-30-2017-HuntNearGreenvaleSettlement_RidgeCitadelPass2\pkt_2017-1-30_1485797040_log.pcap
+
+Partial Exports - Missing appraisal info:
+8020FD26:Copper Heart
+8020FD25:Copper Heart
+8020FD2D:Copper Heart
+8020FD31:Granite Heart
+80173EE5:Granite Heart
+800AEAEA:Scroll of Lilitha's Blessing
+801D3E11:Scroll of Frost Bane VI
+801D31AD:Skeleton's Skull
+801D31AF:Skeleton's Skull
+801D3E05:Skeleton's Skull
+801D31AE:Skeleton's Skull
+83FB1DBB:Pyreal
+80138487:Compass
+83FB1DAF:Knorr Academy Girth
+83FB1DAD:Knorr Academy Girth
+83FB1DAC:Knorr Academy Tassets
+83FB1DA8:Hood
+83FB1D9C:Swamp Stone
+83FB1DA7:Knorr Academy Greaves
+83FB1DA6:Knorr Academy Breastplate
+83FB1DA4:Fish Stamp
+83FB1DA0:Empyrean Over-robe
+83FB1D9A:Swamp Stone
+83FB1D9F:Quartered Cloak
+83FB1D9E:Platemail Hauberk of the Ogre
+83FB1DB1:Facility Hub Portal Gem
+85EFC8AD:Salvage (100)
+8345F9AC:Scroll of Raven Fury
+853A8CD7:Salvage (100)
+83FB1D9B:Wood Heart
+83FB1D98:Scroll of Arcanum Enlightenment VII
+83FB1D97:Compass
+83FB1D96:Chainmail Basinet
+83FB1D95:Smock
+83FB1D93:Wood Heart
+83FB1D92:Sclavus Tongue
+83FB1D91:Banderling Scalp
+83FB1D90:Small Ursuin Hide
+83FB1D8F:Copper Heart
+83FB1D8E:Copper Heart
+83FB1D8C:Obsidian Heart
+83FB1D8B:Copper Heart
+83FB1D8A:Copper Heart
+83FB1D89:Copper Heart
+83FB1D88:Banderling Scalp
+83FB1D87:Granite Heart
+83FB1D86:Copper Heart
+83FB1D85:Granite Heart
+85CDBD0F:Salvage (100)
+8515E482:Salvage (100)
+8AFA67C0:Sceptre
+801774C4:Little Green Seeds
+8AD9251A:Slashing Sceptre
+8AEAAF08:Flaming Magari Yari
+8AF14682:Frost Baton
+8AD59008:Electric Baton
+8AE68E3F:Acid Baton
+8AEED8AD:Staff
+D83D8E53:Dark Shard
+8AA84161:Nether Staff
+8AF296A1:Piercing Baton
+8A9A5CEC:Acid Baton
+8AE291AB:Slashing Sceptre
+8AF07A3C:Heavy Bracelet
+8A9C5F32:Necklace
+8AAE241D:Ring
+8AA67F4B:Trousers
+8A97E9A7:Heavy Necklace
+8AE5D8DC:Blunt Sceptre
+8A183BFC:Frost Lancet
+8A604426:Slashing Baton
+8A4543DB:Ring
+8A2D45D7:Baggy Shirt
+8A2A6F8F:Necklace
+8A2228FF:Loafers
+89D32302:Turban
+894DB0B8:Pants
+8A5C449A:Bracelet
+8AAE2A5E:Blunt Baton
+8AF13F86:Staff
+8AF07710:Electric Baton
+D7ED53BB:Cracked Shard
+8AE8B6E2:Piercing Sceptre
+8AEC271A:Blunt Sceptre
+8AD9206F:Fire Staff
+8A86C02B:Slashing Sceptre
+8AEC1742:Slashing Sceptre
+8ADB5CDC:Piercing Baton
+8A684CA6:Electric Baton
+8AD574FE:Electric Sceptre
+8AC5EB81:Wand
+8ADB5AC2:Nether Sceptre
+8A97D966:Wand
+8AEAA6D8:Acid Baton
+80166E64:Tiny Shard
+8AE8B8E5:Shirt
+8AD58409:Heavy Bracelet
+8A8A1DFF:Heavy Bracelet
+8A604C27:Heavy Bracelet
+8A215DB3:Beret
+8A5C27F7:Loose Shirt
+89E9B9D8:Baggy Shirt
+8A224564:Loose Pants
+8A13ABB9:Bandana
+8018D257:Dark Speck
+8A48B665:Ring
+8A183D34:Heavy Necklace
+8A13BDF3:Ring
+8A48B8F5:Heavy Bracelet
+8A2D4448:Shirt
+8A224226:Heavy Bracelet
+8AE8CAB2:Acid Sceptre
+8016159E:Loafers
+8A4899C6:Kasa
+8A215C30:Heavy Bracelet
+89F53908:Flared Pants
+897164F8:Smock
+88D4657A:Loose Shirt
+8A214478:Smock
+800E736A:Leather Gauntlets
+80141E86:Bracelet
+85E4D368:Crown
+8019F62B:Shadow Fragment
+8117F2D6:Chevron Cloak
+A8F5E3C2:Olthoi Amuli Sollerets
+D84F8CE3:Haebrean Boots
+A8A4DAFD:Olthoi Amuli Leggings
+8117F298:Leather Boots
+D81F833A:Pack Drudge
+D81D7FB8:Golden Gromnie
+D81F8474:Pack Drudge
+801677E7:Shadow Fragment
+D81F8442:Pack Drudge
+D8551075:Weapon Tailoring Kit
+C362A23B:Scalemail Shirt
+D8437A63:Amuli Leggings
+A836869E:Covenant Sollerets
+85B70DC9:Chevron Cloak
+D841AAA6:Chevron Cloak
+8AD929B7:Fire Staff
+8A9C6F84:Piercing Staff
+8AA92088:Frost Staff
+8AD5895B:Slashing Staff
+8AD92D4D:Frost Staff
+D85510AD:Armor Tailoring Kit
+D81F82A3:Mana Tonic
+A823CEEC:Deadly Prismatic Arrow
+D81D7FCD:Health Tonic
+D8257374:Health Tonic
+D8256E84:Mana Tonic
+D81D784A:Stamina Tonic
+D822E49D:Stamina Philtre
+D847BBEA:Leather Boots
+8602970C:Amuli Leggings
+87A9D422:Steel Toed Boots
+D8472E09:Chevron Cloak
+AB58B272:Olthoi Amuli Leggings
+879089E7:Chiran Coat
+D83686CB:Koujia Leggings
+8117F2A4:Leather Boots
+85C7D9C8:Chainmail Leggings
+86F2DA6F:Haebrean Boots
+B3B38BC1:Lyceum Hood
+8019F923:Hood
+
+Missing Exports - Possessed items that were not found:

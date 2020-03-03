@@ -1,0 +1,50 @@
+INSERT INTO `character` (`id`, `account_Id`, `name`, `is_Plussed`, `is_Deleted`, `delete_Time`, `last_Login_Timestamp`, `total_Logins`, `character_Options_1`, `character_Options_2`, `gameplay_Options`, `spellbook_Filters`, `hair_Texture`, `default_Hair_Texture`)
+VALUES (1343300482, 0, 'Mitosis', False, False, 0, 0, 0, -84105918, 387043, NULL, 2032, 0, 0);
+
+INSERT INTO `character_properties_fill_comp_book` (`character_Id`, `spell_Component_Id`, `quantity_To_Rebuy`)
+VALUES (1343300482, 686, 20)
+     , (1343300482, 688, 20)
+     , (1343300482, 691, 0)
+     , (1343300482, 7299, 0)
+     , (1343300482, 20631, 150);
+
+INSERT INTO `character_properties_shortcut_bar` (`character_Id`, `shortcut_Bar_Index`, `shortcut_Object_Id`)
+VALUES (1343300482, 0, 3697836603)
+     , (1343300482, 1, 3697836574)
+     , (1343300482, 2, 3697836575)
+     , (1343300482, 3, 3697836625)
+     , (1343300482, 5, 3697836531)
+     , (1343300482, 7, 3697836534)
+     , (1343300482, 8, 3697836538);
+
+INSERT INTO `character_properties_spell_bar` (`character_Id`, `spell_Bar_Number`, `spell_Bar_Index`, `spell_Id`)
+VALUES (1343300482, 0, 0, 48)
+     , (1343300482, 0, 1, 2647)
+     , (1343300482, 0, 2, 2645)
+     , (1343300482, 0, 3, 1635)
+     , (1343300482, 0, 4, 157)
+     , (1343300482, 0, 5, 2648)
+     , (1343300482, 0, 6, 47)
+     , (1343300482, 0, 7, 2646)
+     , (1343300482, 0, 8, 2644)
+     , (1343300482, 1, 0, 853);
+
+INSERT INTO `character_properties_title_book` (`character_Id`, `title_Id`)
+VALUES (1343300482, 1)
+     , (1343300482, 23)
+     , (1343300482, 30)
+     , (1343300482, 31)
+     , (1343300482, 33)
+     , (1343300482, 58)
+     , (1343300482, 61)
+     , (1343300482, 86)
+     , (1343300482, 94)
+     , (1343300482, 108)
+     , (1343300482, 112)
+     , (1343300482, 116)
+     , (1343300482, 117)
+     , (1343300482, 133)
+     , (1343300482, 157)
+     , (1343300482, 435)
+     , (1343300482, 502)
+     , (1343300482, 509);

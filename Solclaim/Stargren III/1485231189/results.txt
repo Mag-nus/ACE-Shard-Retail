@@ -1,0 +1,141 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-07-2017\packet_logs_20170123-2017-0130\pkt_2017-1-23_1485231173_log.pcap
+
+Partial Exports - Missing appraisal info:
+9C6D17BA:Flaming Dagger
+9C6D17BB:Dagger
+9C6D17BC:Flaming Jambiya
+9C6D17BE:Frost Mace
+9C6D17BD:Flaming Claw
+9C6D17BF:War Hammer
+9C6D17C2:Princely Runed Arbalest
+9C6D17D3:Pyreal
+9C6D17C5:Royal Runed Mazule
+9C6D17C6:Royal Runed Partizan
+9C6D17C7:Princely Runed Partizan
+9C6D17C9:Spiked Club
+9C6D17C8:Battle Axe
+9C6D17CA:Frost Knife
+9C6D17CB:Frost War Axe
+9C6D17CD:Lightning Knife
+9C6D17CF:Dirk
+9C6D17CE:Frost Claw
+9C6D17D0:Flaming Lancet
+9C6D17D7:White Rabbit Carcass
+9C6D17D1:Poniard
+9C6D17E6:Elemental Master Robe
+9C6D17EF:Dericost Blade
+9C6D17F1:Shamshir
+9C6D17F2:Acid Flamberge
+9C6D17F3:Short Sword
+9C6D181A:Alacritous Ink
+9C6D1808:Heavy Crossbow
+9C6D1807:Acid Compound Bow
+9C6D180A:Heavy Crossbow
+9C6D180B:Acid Compound Crossbow
+9C6D1820:Parabolic Ink
+9C6D180C:Acid Baton
+9C6D180D:Blunt Staff
+9C6D1843:Intricate Obsidian Key
+9C6D180E:Electric Baton
+9C6D1810:Glyph of Loyalty
+9C6D1811:Glyph of Coordination
+9C6D1812:Glyph of Fletching
+9C6D1814:Glyph of Mana
+9C6D1815:Glyph of Endurance
+9C6D1816:Glyph of Mana Regeneration
+9C6D1817:Glyph of Quickness
+9C6D1818:Glyph of Armor
+9C6D1819:Glyph of Healing
+9C6D181B:Ink of Nullification
+9C6D1845:White Rabbit Carcass
+9C6D181D:Glyph of Health
+9C6D184A:Diamond Powder
+9C6D181E:Glyph of War Magic
+9C6D181F:Glyph of Monster Appraisal
+9C6D1821:Glyph of Focus
+9C6D1822:Ink of Objectification
+9C6D184D:Scroll of Astyrrian's Bane
+9C6D1823:Ink of Separation
+9C6D1824:Lightning Claw
+9C6D1826:Ring
+9C6D1827:Ring
+9C6D1828:Ring
+9C6D1829:Ring
+9C6D182A:Bracelet
+9C6D182B:Bracelet
+9C6D182C:Ring
+9C6D182D:Necklace
+9C6D182E:Heavy Necklace
+9C6D182F:Ring
+9C6D1830:Heavy Bracelet
+9C6D1831:Ring
+9C6D1833:Breeches
+9C6D1834:Pants
+9C6D1835:Pants
+9C6D1836:Smock
+9C6D185F:Crop
+9C6D1837:Pants
+9C6D1838:Pants
+9C6D1839:Pantaloons
+9C6D183A:Tunic
+9C6D183B:Pants
+9C6D183C:Shirt
+9C6D183D:Tunic
+9C6D183E:Doublet
+9C6D183F:Pants
+9C6D1840:Doublet
+9C6D1846:Scalemail Gauntlets
+9C6D1848:Salvaged  (100)
+9C6D1849:Horned Helm
+9C6D184C:Salvaged  (100)
+9C6D1852:Salvaged  (100)
+9C6D1853:Leather Tassets
+9C6D186D:Relic Alduressa Helm
+9C6D1860:Studded Leather Bracers
+9C6BA097:Sturdy Steel Key
+9C6D1861:Gloves
+9C6D1863:Studded  Leggings
+9C6D1864:Chiran Sandals
+9C6D1892:Treated Healing Kit
+9C6D1868:Olthoi Gauntlets
+9C6D186A:Chainmail Bracers
+9C6D18A0:Acid Yaoji
+9C6D186F:Studded Leather Gauntlets
+9C6D1874:Pack T'thuun
+9C6D1877:Olthoi Alduressa Boots
+9C6D187B:Singularity Keyring
+9C6D187C:Singularity Keyring
+9C6D1881:Chainmail Gauntlets
+9C6D1882:Lorica Helm
+9C6D1883:Family Necklace
+9C6D1884:Diforsa Pauldrons
+9C6BA080:Flaming War Axe
+9C6BA099:Crystalline Shard
+9C6B28C2:Glyph of Deception
+9C6BA091:Glyph of Armor Tinkering
+9C6D1885:Glyph of Missile Weapons
+9C6D1886:Glyph of Missile Weapons
+9C6D1887:Chainmail Pauldrons
+9C6D1888:Gauntlets
+9C6D1889:Coronet
+9C6D188A:Glyph of Stamina
+9C6D188C:Glyph of Missile Defense
+9C6D188D:Glyph of Item Tinkering
+9C6D1890:Smock
+9C6D1891:Jerkin
+9C6D1893:Loafers
+9C6D1894:Electric Compound Bow
+9C6D1895:Tunic
+9C6D1896:Shirt
+9C6D1897:Shirt
+9C6D1898:Trousers
+9C6D1899:Nariyid Sleeves
+9C6D189A:Gloves
+9C6D189B:Gorget
+9C6D189C:Pants
+9C6D189D:Studded Leather Breastplate
+9C6D189F:Slippers
+9C6D18A1:Piercing Crossbow
+
+Missing Exports - Possessed items that were not found:

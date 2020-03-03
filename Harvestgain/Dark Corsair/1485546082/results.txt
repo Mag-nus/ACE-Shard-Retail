@@ -1,0 +1,43 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-27_1485546026_\pkt_2017-1-27_1485546026_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-26_1485492633_\pkt_2017-1-26_1485492633_log.pcap
+
+Partial Exports - Missing appraisal info:
+C815F5A2:Pyreal
+C815E2F6:Rowan Talisman
+C815F5B9:Powdered Moonstone
+C815F51C:Powdered Hematite
+C815F582:Sack
+C815F598:Realgar
+C815F590:Poplar Talisman
+C815C541:Quicksilver
+C815F587:Powdered Turquoise
+C815F57F:Stibnite
+C815F591:Ashwood Talisman
+C815F599:Vitriol
+C815F588:Yew Talisman
+C815F580:Cedar Talisman
+C815F574:Hyssop
+C815F59A:Powdered Amber
+C815F589:Willow Talisman
+C815F56C:Colcothar
+C815F592:Wormwood
+C815F581:Lead Scarab
+C815F59B:Ginseng
+C815F56D:Powdered Onyx
+C815F593:Cobalt
+C815F58A:Ebony Talisman
+C815F59C:Greeter's Key
+C816A228:A Crumpled Note
+C816A229:Peppermint Stick
+C816A22A:Pyreal
+C816A22E:Pyreal
+C816A22F:Pyreal
+C816A230:Pyreal
+C816A231:Iron Key
+C816A236:Pack Bael'Zharon
+C816A237:Some Changes for February 2012
+
+Missing Exports - Possessed items that were not found:

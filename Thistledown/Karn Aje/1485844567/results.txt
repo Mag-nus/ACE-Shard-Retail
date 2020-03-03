@@ -1,0 +1,163 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\asherons-call-newer\pkt_2017-1-30_1485844562_log.pcap
+
+Partial Exports - Missing appraisal info:
+ABB9EDFD:Foci of Enchantment
+ABB9EDFE:Foci of Verdancy
+ABB9EDFF:Pack
+ABB9EE00:Life Giver's Gauntlets
+ABB9EE02:Staff
+ABB9EE03:Weeping Wand
+ABB9EE04:Orb
+ABB9EE05:Marble Key
+ABB9EE06:Marble Key
+ABB9EE07:Sturdy Steel Key
+ABB9EE08:Sturdy Steel Key
+ABB9EE09:Sturdy Steel Key
+ABB9EE0A:Marble Key
+ABB9EE0B:Focusing Stone
+ABB9EE0C:Attenuated Awakener
+ABB9EE0D:Sturdy Iron Key
+ABB9EE0E:Assault Orb
+ABB9EE10:Marble Key
+ABB9EE11:Blunt Sceptre
+ABB9EE12:Staff
+ABB9EE13:Foci of Artifice
+ABB9EE14:Foci of Strife
+ABB9EE15:Banderling Antagonist Backpack
+ABB9EE16:Diamond Scarab
+ABB9EE17:Gold Scarab
+ABB9EE18:Silver Scarab
+ABB9EE19:Copper Scarab
+ABB9EE1A:Heart of the Innocent
+ABB9EE1B:Platinum Scarab
+ABB9EE1C:Ust
+ABB9EE1D:Pyreal Scarab
+ABB9EE1E:Crown
+ABB9EE1F:Nekode
+ABB9EE27:Titan Mana Charge
+ABB9EE20:Heavy Necklace
+ABB9EE21:Heavy Bracelet
+ABB9EE28:Titan Mana Charge
+ABB9EE22:Chalice
+ABB9EE23:Chalice
+ABB9EE34:Major Mana Stone
+ABB9EE24:Orb
+ABB9EE25:Orb
+ABB9EE2A:Lightning Dagger
+ABB9EE26:Faran Item Master Robe
+ABB9EE29:Chalice
+ABB9EE35:Book
+ABB9EE2B:Staff
+ABB9EE2C:Chalice
+ABB9EE2D:Banderling Aggressor Backpack
+ABB9EE2E:Gem of Stillness
+ABB9EE2F:Broodu's Hide
+ABB9EE30:Reeshan's Hide
+ABB9EE32:Celdiseth's Portal Gem
+ABB9EE33:Blackmoor's Favor
+ABB9EE3A:Major Mana Stone
+ABB9EE36:Health Philtre
+ABB9EE37:Yanshi Portal Gem
+ABB9EE3B:Major Mana Stone
+ABB9EE38:Nanto Portal Gem
+ABB9EE39:Lytelthorpe Portal Gem
+ABB9EE48:Pyreal
+ABB9EE3C:Superb Mana Charge
+ABB9EE3D:Superb Mana Charge
+ABB9EE3E:Superb Mana Charge
+ABB9EE3F:Superb Mana Charge
+ABB9EE40:Tusker Title Token
+ABB9EE41:An Unlocked Large Mnemosyne
+ABB9EE42:An Unlocked Large Mnemosyne
+ABB9EE43:Prismatic Taper
+ABB9EE47:An Unlocked Large Mnemosyne
+ABB9EE51:Scroll of Oswald's Blessing
+ABB9EE50:Jitte
+ABB9EE52:Fletcher's Crystal
+ABB9EE98:Pyreal
+ABB9EE53:Yag
+ABB9EE54:Scroll of Web of Resistance
+ABB9EE55:Ewer
+ABB9EE56:Tenassa Sleeves
+ABB9EE57:Amulet
+ABB9EE58:Ring
+ABB9EE59:Lightning Dirk
+ABB9EE5A:Scroll of Adja's Blessing
+ABB9EE5B:Gem
+ABB9EE5C:Gem
+ABB9EE5D:Lightning Knuckles
+ABB9EE5E:Heavy Bracelet
+ABB9EE5F:Yoroi Sleeves
+ABB9EE60:Stoup
+ABB9EE64:Gem
+ABB9EE61:Flaming Partizan
+ABB9EE62:Empty Flask
+ABB9EE65:Yumi
+ABB9EE63:Empty Flask
+ABB9EE66:Bracelet
+ABB9EE67:Scroll of Acid Stream VI
+ABB9EE68:Loafers
+ABB9EE69:Gem
+ABB9EE6A:Pants
+ABB9EE6B:Gem
+ABB9EE6C:Scroll of Missile Weapon Mastery Other VI
+ABB9EE6D:Salvaged  (10)
+ABB9EE6E:Acid Dabus
+ABB9EE6F:Ring
+ABB9EE70:Scroll of Gravity Well
+ABB9EE71:Gem
+ABB9EE72:Frost Broad Sword
+ABB9EE73:Lightning Nekode
+ABB9EE74:Scroll of Lightning Bolt VI
+ABB9EE75:Scroll of Stamina to Mana Self VI
+ABB9EE76:Coronet
+ABB9EE77:Aura of Mystic's Blessing
+ABB9EE78:Mace
+ABB9EE79:Acid Claw
+ABB9EE7A:Scroll of Lightning Arc VII
+ABB9EE7B:Scroll of Light Weapon Mastery Self VII
+ABB9EE7C:Aura of Cragstone's Will
+ABB9EE7D:Celdon Breastplate
+ABB9EE7E:Tenassa Leggings
+ABB9EE83:Scroll of Olthoi's Bane
+ABB9EE7F:Chainmail Gauntlets
+ABB9EE80:Acid Baton
+ABB9EE87:Scroll of Adja's Boon
+ABB9EE81:Doublet
+ABB9EE82:Koujia Sleeves
+ABB9EE99:Pyreal
+ABB9EE84:Crown
+ABB9EE85:Scroll of Light Weapon Mastery Other VII
+ABB9EE86:Bracelet
+ABB9EE88:Tenassa Leggings
+ABB9EE89:Crown
+ABB9EE8B:Scroll of Calming Gaze
+ABB9EE8A:Ring
+ABB9EE8C:Scroll of Calming Gaze
+ABB9EE8D:Scroll of Missile Weapon Ineptitude Other VII
+ABB9EE8E:Scroll of Mind Blossom
+ABB9EE8F:Heavy Bracelet
+ABB9EE90:Flagon
+ABB9EE91:Staff
+ABB9EE92:Tankard
+ABB9EE93:Gem
+ABB9EE94:Scroll of Odif's Boon
+ABB9EE95:Dinner Plate
+ABB9EE96:Gem
+ABB9EE97:Acid Katar
+ABB9EE9A:Pyreal
+ABB9EE9B:Pyreal
+ABB9EEA2:Pyreal
+ABB9EE9C:Scroll of Sizzling Fury
+ABB9EE9D:Scroll of Koga's Blessing
+ABB9EE9E:Ring
+ABB9EE9F:Scroll of Icy Blessing
+ABB9EEA0:Doublet
+ABB9EEA3:Trade Mana Elixir
+ABB9EEA1:Tunic
+ABB9EEA4:Fire Sceptre
+ABB9EEA5:Some Changes for February 2012
+ABB9EEA6:Ultimate Singularity Scepter of War Magic
+
+Missing Exports - Possessed items that were not found:

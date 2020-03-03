@@ -1,0 +1,16 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\ACLogs_Cadelanne\pkt_2017-1-13_1484334868_log\pkt_2017-1-13_1484334868_log.pcap
+
+Partial Exports - Missing appraisal info:
+9BD7B15B:Pyreal
+9BD7B15C:Sack
+9BD7B15D:Ust
+9BD7B15F:Pathwarden Token
+9BD7B162:Foci of Verdancy
+9BD7B163:Foci of Shadow
+9BD7B164:Prismatic Taper
+9BD7B165:Lead Scarab
+9BD7B166:Letter From Home
+9BD7B16A:Bread
+
+Missing Exports - Possessed items that were not found:

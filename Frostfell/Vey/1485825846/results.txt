@@ -1,0 +1,212 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\gdrive (tfarley)\Eichy\AC\pkt_2017-1-30_1485825533_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\gdrive (tfarley)\Eichy\AC\pkt_2017-1-30_1485824845_log.pcap
+
+Partial Exports - Missing appraisal info:
+DC493635:Pack
+DC493637:Gorget
+DC470663:Flaming War Hammer
+DC493634:Shirt
+DC443DCC:Lightning Lugian Hammer
+DC46A41D:Pyreal
+DC44463B:Ring
+DC4446A5:Scroll of Light Weapon Mastery Self VII
+DA8ACDA2:Covenant Pauldrons
+DC4937E1:Studded  Cuirass
+DC493AF4:Shoes
+DC444D72:Pyreal
+DC493AE1:Covenant Gauntlets
+DC4432A4:Lightning Ono
+DC444116:Flaming Shou-ono
+DC4431AE:Studded Leather Tassets
+DC44469C:Ring
+DC4940A2:Scroll of Inner Calm
+DC4940AE:Chainmail Sleeves
+DC45AB85:Scroll of Saladur's Blessing
+DC45AB89:Heavy Bracelet
+DC493FE0:Electric Compound Bow
+B25C349B:Lightning Lancet
+DC4937A6:Major Mana Stone
+DC4940D7:Yari
+DC1A6C00:Studded Leather Bracers
+DC201054:Acid Dirk
+DC215034:Scroll of Hieromancer's Boon
+DC2151C7:Pack
+DC2B11F6:Ring
+DC443FD3:Ring
+DC443F43:Ring
+DC443FD4:Heavy Bracelet
+DC4431F3:Frost Stick
+DC4940AB:Heavy Necklace
+DC44463A:Scroll of Might of the Lugians
+DC49371A:Gorget
+DC49371C:Blunt Sceptre
+DC49371D:Heavy Bracelet
+DC493719:Bracelet
+DC46F5DA:Scroll of Light Weapon Ineptitude Other VII
+DC443DB7:Diadem
+DC444565:Slashing Compound Bow
+DC443DB6:Platemail Hauberk
+DC443DB8:Electric Compound Bow
+DC444681:Doublet
+DC444524:Major Mana Stone
+DC44467B:Flaming Morning Star
+DC39B0CA:Covenant Helm
+DC493747:Foci of Artifice
+DC39BD5E:Pants
+DC4446A0:Chainmail Girth
+DC461625:Major Mana Stone
+DC493748:Chainmail Shirt
+DC49374A:Koujia Breastplate
+DC49374B:Frost Compound Crossbow
+DC4445DD:Foci of Enchantment
+DAF626DF:Peerless Healing Kit
+DC49377E:Foci of Verdancy
+DC49377F:Pack
+DC49377D:Gold Scarab
+DC494113:Pyreal Scarab
+DC4684AD:Copper Scarab
+DC44452A:Lead Scarab
+DC4940DB:Iron Scarab
+DC494162:Silver Scarab
+DC444076:Lead Pea
+DC444074:Splitting Tool
+DC494163:Gold Pea
+DC1B0ADB:Copper Pea
+DC459BBA:Pyreal Pea
+DC444567:Trade Note (200,000)
+DC444522:Trade Note (150,000)
+DC4937A7:Trade Note (10,000)
+DC4937A8:Trade Note (250,000)
+DC44407B:Silver Pea
+DC49314A:Trade Note (50,000)
+DC444577:Iron Pea
+DC4684AC:Pack
+DC2F17F3:Frost Claw
+DC46A180:Intricate Carving Tool
+DC46A47D:Prismatic Taper
+DC46A189:Coronet
+DC444D43:Diadem
+DC2DF0A6:Diadem
+DC397FAF:Turban
+DC3CF1DF:Studded Leather Coat
+DC44455D:Cap
+DC494164:Flaming Claw
+DC494166:Sturdy Steel Key
+DC44468C:Frost Knuckles
+DC44467F:Claw
+DC494165:Crescent Moons
+DC444563:Cestus
+DC494167:Claw
+DC3CEC73:Moderate Mana Stone
+DC44406A:Glenden Wood Recall Orb
+DC4937B7:Greater Mana Stone
+DC4937B6:Major Mana Stone
+DC43517A:Greater Mana Stone
+DC435192:Major Mana Stone
+DC494112:Ust
+DC49427C:Pyreal
+DC4937DF:Stamina Elixir
+DC4937E0:Scalemail Shirt
+DC3938F7:Pyreal
+DC493147:Chainmail Bracers
+DC493146:Celdon Leggings
+DC46A45B:Treated Healing Kit
+DC4937DE:Lightning Nekode
+DC44453D:Acid Cestus
+DC444582:Bracelet
+DC46FD8C:Gauntlets
+DC38FE4C:Virindi Consul Mask
+DC38FD21:Gorget
+DC38FB2E:Trousers
+DBC3B7B9:Tunic
+DC393AC7:Pyreal
+DC3929F4:Heavy Bracelet
+DC46A258:Knuckles
+DC3D2FEE:Nekode
+DC46A23C:Claw
+DC49417A:Bracelet
+DC46A47C:Claw
+DC494178:Covenant Sollerets
+DC46FD8B:Covenant Helm
+DC46A443:Sturdy Iron Key
+DC46FD8A:Ring
+DC43518F:Ring
+DC444710:Blackmoor's Favor
+DC43528C:Pants
+DC46A47E:Frost Bow
+DC3CF465:Gloves
+DC444CEA:Ring
+DC444D61:Pants
+DC46A429:Treated Healing Kit
+DC44417D:Ring
+DC44453F:Empty Flask
+DC46FD89:Staff
+DC397D02:Pants
+DC434F55:Studded Leather Cuirass
+DC49417C:Breeches
+DC46A415:Acid Claw
+DC37BCDC:Treated Healing Kit
+DC4692B3:Health Tonic
+DC4692B2:Tanada Clan Master's Medallion
+DC43537C:Saulandoi
+DC4692B4:Flaming Cestus
+DC44417E:Large Round Shield
+DC493991:Coronet
+DC444415:Tunic
+DC444C45:Nekode
+DC444D42:Scroll of Belly of Lead
+DC493992:Lightning Nekode
+DC493993:Frost Claw
+DC289B34:Bracelet
+DC493990:Shirt
+DC3978A4:Grand Casino Golden Keyring
+DC444E6E:Frost Scimitar
+DC3981FF:Grand Casino Golden Keyring
+DC4939CB:Focusing Stone
+DC38F861:Gorget
+DC4939CA:Nekode
+DC4440C8:Covenant Sollerets
+DC435191:Frost Nekode
+DC4444A9:Covenant Gauntlets
+DC3CE58F:Breeches
+DC3D35D5:Frost Nekode
+DC469D4F:Blunt Bow
+DC444D9F:Trousers
+DC38F449:Flaming Nekode
+DC444E31:Yoroi Cuirass
+DC444E32:Heavy Bracelet
+DC393497:Cap
+DC444CEB:Breeches
+DC46A44D:Bracelet
+DC468C13:Fire Compound Bow
+DC444E53:Heavy Bracelet
+DC494288:Ken
+DC444E6D:Pants
+DC444EB6:Shirt
+DC444EB7:Nekode
+DC392FDB:Claw
+DC444D7B:Scroll of Wrath of the Hieromancer
+DC3D36D6:Shirt
+DC4942C4:Heavy Necklace
+DC470129:Scroll of Unsteady Hands
+DC444352:Claw
+DC468C7D:Nekode
+DC4942B5:Coronet
+DC46712B:Buckler
+DC494232:Frost Sceptre
+DC445064:Flaming Shou-ono
+DC3D3426:Nekode
+DC445033:Katar
+DC399411:Kote
+DC445145:Nariyid Leggings
+DC445049:Covenant Shield
+DC38E737:Some Changes for February 2012
+DC44505F:Shirt
+DC47012A:Studded Leather Tassets
+DC470126:Fire Sceptre
+DC4942B2:Flaming Claw
+
+Missing Exports - Possessed items that were not found:

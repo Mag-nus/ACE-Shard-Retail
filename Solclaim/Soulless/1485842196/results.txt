@@ -1,0 +1,188 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\pkt_2017-1-30_1485843220_desc\pkt_2017-1-30_1485841941_log.pcap
+
+Partial Exports - Missing appraisal info:
+9BE0D708:Pyreal
+9BE0CF3F:Pack
+9BE0D72A:Powdered Moonstone
+9BE0CF64:Cobalt
+9BE0CF6D:Powdered Hematite
+9BE0CF47:Powdered Bloodstone
+9BE0D71E:Blue Taper
+9BE0D73E:Powdered Onyx
+9BE0D736:Powdered Turquoise
+9BE0D719:Birch Talisman
+9BE0CF5C:Powdered Amber
+9BDA946D:Colcothar
+9BE052B8:Gypsum
+9BE0D720:Vitriol
+9BE0D72B:Powdered Carnelian
+9BE0D71B:Sturdy Iron Key
+9BE0D73F:Powdered Malachite
+9BE0CF6C:Powdered Agate
+9BE0D6FA:Damiana Pea
+9BE052AA:Quicksilver
+9BE0D718:Realgar
+9BE0D738:Pack
+9BE0D737:Stibnite
+9BE0CF5B:Turpeth
+9BDA9460:Cadmia
+9BE0CF63:Verdigris
+9BE0D721:Brimstone
+9BE0D71A:Trade Note (500)
+9BE0D72C:Cinnabar
+9BE0D740:Powdered Quartz
+9BE0D728:Pack
+9BE0CF6B:Studded  Boots
+9BE0CF5A:Trade Note (10,000)
+9BE0D700:Trade Note (100)
+9BE0CF62:Trade Note (10,000)
+9BE0D722:Trade Note (10,000)
+9BE0D723:Amulet
+9BE0CF6A:Trade Note (10,000)
+9BE0D72D:Trade Note (10,000)
+9BE0D72E:Ring
+9BE0D741:Trade Note (10,000)
+9BE0D710:Trade Note (10,000)
+9BE0D6F9:Ring
+9BE0D739:Trade Note (10,000)
+9BE0D6F8:Trade Note (10,000)
+9BE0D711:Amulet
+9BE0D701:Ring
+9BE0D709:Ring
+9BE0D724:Pyreal Mote
+9BE0D6EF:Pyreal Mote
+9BE0D72F:Gelidite Robe
+9BE0D702:Turquoise Pea
+9BE0D712:Major Smoldering Stone
+9BE0C7B6:Major Shivering Stone
+9BE0D6E7:Lightning Nekode
+9BE0D71C:Aerlinthe Patron Shirt
+9BE0D70A:Ring
+9BE0D6D8:Violet Taper
+9BE0D6F0:Frost Katar
+9BE0D725:Bracelet
+9BE0D730:Shirt
+9BE0D713:Bracelet
+9BE0D71D:Ring
+9BE0D6D7:Pack
+9BE0D6DF:Blackthorn Talisman
+9BE0D6E8:Yew Talisman
+9BE0D6FB:Hemlock Talisman
+9BE0D703:Alder Talisman
+9BE0D70B:Ebony Talisman
+9BE0D6CF:Birch Talisman
+9BE0D6F1:Ashwood Talisman
+9BE0D726:Rowan Talisman
+9BE0D714:Willow Talisman
+9BE0D6C7:Cedar Talisman
+9BE0D6E0:Oak Talisman
+9BE0D6FC:Poplar Talisman
+9BE0D6E9:Turquoise Taper
+9BE0D704:Yellow Taper
+9BE0D70C:Pink Taper
+9BE0D727:Indigo Taper
+9BE0D6D0:Brown Taper
+9BE0D6F2:White Taper
+9BE0D715:Grey Taper
+9BE0D71F:Orange Taper
+9BE0D6C8:Green Taper
+9BE0D6E1:Red Taper
+9BE0D6FD:Pack
+9BE0D6BF:Iron Scarab
+9BE0D6D9:Lead Scarab
+9BE0D6EA:Hyssop
+9BE0D705:Mandrake
+9BE0D70D:Saffron
+9BE0D6F3:Damiana
+9BE0D6DA:Copper Scarab
+9BE0D6D1:Mugwort
+9BE0D6B7:Wormwood
+9BE0D717:Pack
+9BE0D716:Ginseng
+9BE0D6C9:Hawthorn
+9BE0D6B8:Peerless Healing Kit
+9BE0D6E2:Dragonsblood
+9BE0D6FE:Comfrey
+9BE0D6C1:Excellent Healing Kit
+9BE0D6C0:Yarrow
+9BE0D6EB:Wand
+9BE0D70E:Shoes
+9BE0D706:Wand
+9BE0D6AF:Wand
+9BE0D6D2:Ring
+9BE0D6F4:Bracelet
+9BE0D6CA:Stamina Elixir
+9BE0D70F:Stamina Elixir
+9BE0D6DB:Gifted Healing Kit
+9BE0D6E3:Excellent Healing Kit
+9BE0D6EC:Excellent Healing Kit
+9BE0D6FF:Mana Potion
+9BE0D707:Mana Potion
+9BE0D6B0:Excellent Healing Kit
+9BE0D6D3:Excellent Healing Kit
+9BE0D6F5:Excellent Healing Kit
+9BE0D6B9:Excellent Healing Kit
+9BE0D6CB:Excellent Healing Kit
+9BE0D6DC:Potion of Healing
+9BE0D6E4:Excellent Healing Kit
+9BE0D6ED:Gloves
+9BE0D6B1:Stamina Potion
+9BE0D6C2:Peerless Healing Kit
+9BE0D6F6:Excellent Healing Kit
+9BE0D69F:Gifted Healing Kit
+9BE0D6A7:Pack
+9BE0D6D4:Ring
+9BE0D697:Acid Katar
+9BE0D6BA:Frost Katar
+9BE0D6CC:Hollow Katar
+9BE0D6E5:Peerless Healing Kit
+9BE0D6EE:Peerless Healing Kit
+9BE0D6B2:Katar
+9BE0D6C3:Peerless Healing Kit
+9BE0D6DD:Peerless Healing Kit
+9BE0D6A8:Peerless Healing Kit
+9BE0D6D5:Undead Thighbone
+9BE0D68F:Moderate Mana Charge
+9BE0D6A0:Gorget
+9BE0D698:Kabuton
+9BE0D6BB:Ring
+9BE0D6CD:Heavy Bracelet
+9BE0D687:Ring
+9BE0D6DE:Gloves
+9BE0D6E6:Pants
+9BE0D6B3:White Virindi Wand
+9BE0D6D6:Peerless Healing Kit
+9BE0D6C4:Amuli Leggings
+9BE0D67F:Sollerets
+9BE0D699:Peerless Healing Kit
+9BE0D690:Peerless Smoldering Atlan Claw
+9BE0D6A1:Frost Katar
+9BE0D6A9:Health Draught
+9BE0D675:Katar
+9BE0D6BC:Wand
+9BE0D6CE:Lightning Nekode
+9BE0D688:Amuli Coat
+9BE0D67E:Flaming Cestus
+9BE0D6C5:Pyreal
+9BE0D6B4:Gorget
+9BE0D6AA:Peerless Healing Kit
+9BE0D680:Excellent Healing Kit
+9BE0D691:Excellent Healing Kit
+9BE0D6A2:Potion of Healing
+9BE0D676:Pyreal
+9BE0D69A:Pyreal
+9BE0D6BD:Pyreal
+9BE0D66D:Pyreal
+9BE0D689:Pyreal
+9BE0D571:Pyreal
+9BE0D6C6:Virindi Mask
+9BE0D6B5:Wand
+9BE0D681:Heaume
+9BE0D692:Large Kite Shield
+9BE0D6A3:Nekode
+9BE0D6AB:Pack Burun Kukuur
+9BE0D677:Some Changes for February 2012
+9BE0D69B:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

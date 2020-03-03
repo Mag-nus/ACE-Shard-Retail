@@ -1,0 +1,121 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\CatDevnull-Dont-Remember-1\pkt_2017-1-30_1485795672_log.pcap
+
+Partial Exports - Missing appraisal info:
+98677892:Pack
+A38F4F3B:Enhanced Black Fire Atlan Stone
+9EEBC2A9:Sawato Bandit's Mask
+A7FEFF80:Heart of the Innocent
+A4F437FA:The Healer's Heart
+AE8E5EDF:Legendary Seed of Mornings
+AD233980:Wrapped Bundle of Burning Sands Arrowheads
+9E469576:Wrapped Bundle of Olthoi Acid Arrowheads
+BFF6D8E0:Wrapped Bundle of Raider Lightning Arrowheads
+C2AF5D42:Wrapped Bundle of Greater Deadly Blunt Arrowheads
+A6E01D6A:Encapsulated Spirit
+C649046F:Wrapped Bundle of Greater Prismatic Arrowheads
+C67790A1:Wrapped Bundle of Quarrelshafts
+C72239EE:Banished Crossbow
+BABE240F:Desert Flower
+9FD0D0F0:Focusing Stone
+9E5A9A67:Pack
+AA463207:Salvage (100)
+BD00E900:Mhoire Signet Ring
+A90BA5D8:Ornate Brass Banding
+C5BD4700:Thunder Chicken Token
+9E24FD3D:Ust
+A06B67DC:Deed
+AC11E7B4:Pyre Shroud
+A47E7A5B:Rez'arean Ore
+BC0EC9BB:Snow Tusker Blood Sample
+B1461DEB:Black Luster Pearl
+A953CBF9:Black Luster Pearl
+BA088C08:Black Luster Pearl
+A750DC5D:Asheron's Lesser Benediction
+9E3CC774:Blackmoor's Favor
+9843940A:Aetheria
+B757C6A9:Ancient Key
+C7DCC593:Virindi Singularity Key
+C7DA763A:Virindi Singularity Key
+C7F9A346:Infused Amber Shard
+9E502848:Small Belt Pouch
+C76DD2F9:Bloodstone Report
+C7DA6AD3:Red Taper
+C7E04F73:Blue Taper
+A99951C8:Pack
+C5245844:Major Mana Stone
+A811EE63:Soul Bound Staff
+983D7D91:Olthoi Acid Bolt
+C65002BA:Hollow Crossbow
+A11AEE66:A Meeting
+A8425B9B:Pet Mouf Igloo
+A1853B49:Facilitation
+AA60B221:Spectral Chill Bolt
+A50DC094:Radiant Blood Trade Token
+A8E09C59:Pack
+A8778227:Virindi Consul Essence
+9E24FD47:Letter From Home
+AF2201F6:Radiant Blood Armor Writ
+9843941B:Platinum Medal of Intellect
+A5CAAA6D:Radiant Blood Trade Token
+9843941C:Platinum Medal of Vigor
+BC6245C0:Radiant Blood Trade Token
+BC9B0E21:Lo Shoen's Rat Bait
+BE17A509:Radiant Blood Trade Token
+BEF530C4:Coruscating Olthoi Scent Gland
+C4B6A593:Daimyo Nobanuga's Shattered Helm
+C5CC1115:Radiant Blood Initiate Armor Writ
+C6278CFA:Shattered Aetherium Core Sample
+AF2ED7C1:Pack
+BCE8AAC7:Plentiful Healing Kit
+C322E414:Plentiful Healing Kit
+C5E06B7A:Major Mana Stone
+C6AC5D36:Major Mana Stone
+C5E2E822:Major Mana Stone
+C76827BE:Treated Healing Kit
+C7D4EE48:Major Mana Stone
+C7D56ADF:Treated Healing Kit
+C7D56AE0:Treated Healing Kit
+C7D45772:Major Mana Stone
+C81C875B:Major Mana Stone
+C81FE888:Massive Mana Charge
+C81C369A:Massive Mana Charge
+C81DB3BA:Renegade Herbal Kit
+9E3DFB80:Isparian Arms
+C81FE0E5:Renegade Herbal Kit
+B027E4AF:Pack
+A1AD41D5:A Journal by Martine
+A1255F4B:Luminance, and the Paths of the Empyrean
+9E3CE2F5:Pragmatic Guide to Atlan Weapons
+C4EA4877:Poofy Snowball
+9E4D91CC:Copper Scarab
+9E677EF7:Silver Scarab
+C5D403D7:Explorer's Backpack
+9E922D5B:Gold Scarab
+9EAA2551:Pyreal Scarab
+A3735252:Diamond Scarab
+9F313431:Platinum Scarab
+A21CDFBC:Mana Scarab
+BE7700DA:Radiant Blood Stronghold Portal Gem
+AFF2051B:Celdiseth's Portal Gem
+BC1074BB:Frozen Valley Portal Gem
+AAD1BB99:Black Market Gem of Dispelling
+A4066A7D:Society Gem of Dispelling
+9E3CE0C6:Facility Hub Portal Gem
+9EFA92DC:Aligned Mana Stone
+9EFB2F2F:Aetheria Mana Stone
+B6D64A81:Lesser Corrupted Essence
+A0CA4D46:Small Olthoi Venom Sac
+C2F82A07:Ancient Mhoire Coin
+A3AF93FC:Colosseum Coin
+A9AE71A9:A'nekshay Token
+C67FB872:Trade Note (250,000)
+C70BA5C3:Stipend
+C722782F:Prismatic Taper
+C7F15231:Ornate Gear Marker
+C806D80A:Colosseum Coin
+C81927F5:Aged Legendary Key
+C81FF1AD:Aged Legendary Key
+C81FFF39:Aged Legendary Key
+
+Missing Exports - Possessed items that were not found:

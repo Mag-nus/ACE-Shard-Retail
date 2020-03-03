@@ -1,0 +1,78 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485824824_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485827964_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-24_1485302130_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-24_1485302348_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-28_1485663480_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-29_1485680439_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\sc-random-stuff\pkt_2017-1-30_1485816431_log.pcap
+
+Partial Exports - Missing appraisal info:
+9067E52D:Colosseum Backpack
+8FC98582:Facility Hub Portal Gem
+933B0308:Pyreal
+99E61FE1:Black Luster Pearl
+99E6AEA7:Black Luster Pearl
+931EE125:Celdiseth's Portal Gem
+9A49D198:Rage of Grael Gem
+8FBAB14C:Aetheria Mana Stone
+9A33645A:Spirit of Izexi Gem
+9A052212:Celdiseth's Portal Gem
+9B130047:Pyreal
+9B129FEA:Prismatic Taper
+9B12F7EC:Prismatic Taper
+9B12F81C:Prismatic Taper
+92F415F6:Colosseum Backpack
+8CE482F4:Acid Moar Essence (180)
+97EE18D3:Encapsulated Spirit
+86D42E32:Lightning Moar Essence (180)
+9014D726:Lesser Corrupted Essence
+8CE9A2E1:Frost Moar Essence (180)
+8CEC6E20:Fire Grievver Essence (180)
+9AF8FE43:Acid Phyntos Swarm Essence
+9B12F765:Prismatic Taper
+9B12F167:Prismatic Taper
+9B131223:Prismatic Taper
+9B1315F7:Prismatic Taper
+934CB786:Colosseum Backpack
+8D6E7DB1:Ust
+8D68B879:Lead Scarab
+90D7B655:Hawthorn
+9874BF35:Chorizite
+8DB0D0E6:Silver Scarab
+97169532:Diamond Scarab
+8D6E7DE2:Copper Scarab
+95F3138E:Pyreal Scarab
+98AEEC86:Platinum Scarab
+9686ACA5:Mana Scarab
+8BBA5E50:Gold Scarab
+98AEEC7D:Platinum Scarab
+98AECBE7:Platinum Scarab
+97E487BA:Diamond Scarab
+99179F7D:Iron Scarab
+9429E8F3:Pack
+9426AAE6:Colosseum Backpack
+9B130068:Massive Mana Charge
+9B130069:Massive Mana Charge
+9B1300B7:Massive Mana Charge
+9B130058:Massive Mana Charge
+9B13009D:Massive Mana Charge
+9B13004C:Massive Mana Charge
+9B130060:Massive Mana Charge
+9B1300A5:Massive Mana Charge
+9B130094:Massive Mana Charge
+9426AEFD:Colosseum Backpack
+9994EE52:Tusker Spit Ale
+9991F429:Amber Ape
+99B87B70:Duke Raoul's Distillation
+98FD0123:Burning Coal
+99B6EF4A:Bobo's Stout
+9426AA52:Colosseum Backpack
+99D6FF91:Promissory Note
+99D6FED1:Promissory Note
+8036FD71:Colosseum Backpack
+9AD9A681:Trade Note (250,000)
+
+Missing Exports - Possessed items that were not found:

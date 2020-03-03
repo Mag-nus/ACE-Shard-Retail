@@ -1,0 +1,132 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2-20170203071709\pkt_2017-1-30_1485786304_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485761477_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2-20170203071709\pkt_2017-1-29_1485711593_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps3\pkt_2017-1-26_1485449335_log.pcap
+
+Partial Exports - Missing appraisal info:
+811A9B6C:Pyreal
+81190AC5:Foci of Artifice
+81153173:Foci of Enchantment
+811C0353:Foci of Verdancy
+811C3200:Deadly Hollow Sword
+811A8F1B:Blade of the Fallen
+81190CB3:Electric Weeping Sword
+81190AED:Superb Shimmering Isparian Sword
+811B7369:Repugnant Bracelet
+811C0332:Circlet of Supremacy
+811C0331:Heavy Bracelet
+811C0330:Academy Coat
+811AAE30:Ust
+811C032F:Realaidain Raiment
+811C01D5:Pyreal
+811C02DE:Heavy Bracelet
+81190D7C:Gem of Stillness
+81193D0C:Gem of Stillness
+81121FDD:Ring
+811A8CC1:Major Mana Stone
+811BD709:Acid Atlatl
+811A88C6:Salvaged  (100)
+8118EC6B:Salvaged  (100)
+81085893:Salvaged  (100)
+811421B3:Prismatic Taper
+81104F68:Salvaged  (100)
+81137EAC:Salvaged  (100)
+8111A1E9:Ursuin Cub Kennel
+811B700D:Salvaged  (100)
+81193EDB:Salvaged  (100)
+811AAE07:Salvaged  (100)
+810E0F74:Salvaged  (100)
+811231C7:Salvaged  (100)
+801E2A18:Salvaged  (100)
+811A9AF5:Burun Guruk Head
+8119484C:Salvaged  (100)
+811C37C8:Salvaged  (100)
+811AADBC:Acid Yari
+811C3809:Salvaged  (76)
+811C380A:Salvaged  (87)
+811B7B00:Gold Pea
+811A8C69:Salvaged  (60)
+811A86A7:Salvaged  (78)
+810C6778:Pyreal Pea
+811B730C:Salvaged  (98)
+811C380F:Salvaged  (40)
+81183B34:Silver Pea
+811C375A:Salvaged Reedshark Hide (21)
+80D19B14:Salvaged  (90)
+811C3201:Salvaged  (70)
+811C31F9:Salvaged  (89)
+811C381B:Salvaged Reedshark Hide (88)
+811C381A:Salvaged  (67)
+811C3818:Salvaged  (20)
+811C3819:Salvaged  (53)
+811B746F:Copper Scarab
+8118DC2B:Salvaged  (45)
+811214A1:Salvaged  (90)
+8111C300:Silver Scarab
+81128001:Salvaged  (24)
+81127748:Salvaged  (20)
+811A9CDD:Gold Scarab
+811A8CA8:Salvaged  (81)
+8118E192:Salvaged  (25)
+811A9B7D:Pyreal Scarab
+8104A83C:Salvaged  (45)
+811BD70A:Platinum Scarab
+811A7FD7:Salvaged  (81)
+811A8E15:Salvaged  (24)
+811B8411:Diamond Scarab
+811C381C:Salvaged  (41)
+811C3826:Salvaged  (15)
+811AAE3B:Salvaged  (6)
+811B73E4:Salvaged  (5)
+811C3424:Salvaged  (40)
+81125DD1:Blackmoor's Favor
+811AAD8C:Heart of the Innocent
+8118E94F:Asheron's Benediction
+811B6F7F:Vissidal Island Portal Gem
+811909E8:Shoyanen's Portal Gem
+811AADA8:Trade Note (250,000)
+811BE8A8:Western Vault Notes
+811C365C:Gem
+811A8791:Ochre Pigmentation Apparatus
+811BFCC8:Wand
+811A9D67:Covenant Breastplate
+80F57192:Gem
+811B732C:Orb
+811A9D3B:Celdon Breastplate
+81181ADC:Salvaged  (48)
+81137D0B:Salvaged  (26)
+811B88A8:Gem
+81108027:Salvaged  (34)
+8113C624:Salvaged  (68)
+80FA030C:Bloodied Burun Hide
+8114A833:Salvaged  (57)
+81153271:Salvaged  (36)
+811A9CEC:Bloodied Burun Hide
+811AAD97:Salvaged  (42)
+81190F17:Salvaged  (84)
+810B1AB6:Gem
+811C365D:Signet Crown
+811B89A0:Tiriun Mushroom Stalk
+811AADAE:Bloodied Burun Hide
+811A7313:Chalice
+811BE849:Tofun
+811AADB4:Chalice
+8112734A:Flagon
+811AAD8D:Ring
+811A8B91:Flagon
+81185298:Fire Baton
+811B7454:Some Changes for February 2012
+811A86A8:Flaming Bastone
+8118E267:Ring
+811A85B9:Slashing Baton
+811A8CA2:Chalice
+811A9D50:Tiriun Mushroom Spores
+811B88CA:Hieromancer's Crystal
+8118F9B9:Scholar's Crystal
+811B89C8:Tachi
+C83B4194:Loafers
+
+Missing Exports - Possessed items that were not found:

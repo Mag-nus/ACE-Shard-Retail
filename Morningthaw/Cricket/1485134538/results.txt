@@ -1,0 +1,57 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-22_1485134283_log.pcap
+
+Partial Exports - Missing appraisal info:
+8082050A:Foci of Artifice
+8082050B:Foci of Enchantment
+8082050F:Lead Scarab
+80820510:Prismatic Taper
+80820511:Gold Scarab
+80820512:Copper Scarab
+80820513:Silver Scarab
+80820514:Pack
+8082051D:Pyreal
+80820525:Diamond Scarab
+8082052E:Gem of Raising Focus
+80820526:Asheron's Supreme Raiment
+80820557:Ust
+8082052F:Gem of Raising Focus
+80820530:Gem of Raising Focus
+80820531:Gem of Raising Focus
+80820532:Token of Modification
+80820533:Gem of Raising Self
+80820534:Gem of Raising Focus
+80820535:Token of Modification
+80820536:Token of Modification
+80820537:Token of Modification
+80820538:Token of Modification
+80820539:Token of Modification
+8082053B:Iron Scarab
+8082053D:Treated Healing Kit
+8082054E:Treated Healing Kit
+8082054F:Treated Healing Kit
+80820550:Treated Healing Kit
+80820551:Treated Healing Kit
+80820553:Pack
+80820556:Lytelthorpe Portal Gem
+8082055D:Treated Healing Kit
+8082055E:Treated Healing Kit
+8082055F:Treated Healing Kit
+80820560:Treated Healing Kit
+80820561:Treated Healing Kit
+80820562:Treated Healing Kit
+80820563:Treated Healing Kit
+80820564:Treated Healing Kit
+80820565:Peppermint Stick
+80820566:Ebon Gromnie Tooth
+80820567:Treated Healing Kit
+80820568:Treated Healing Kit
+80820569:Treated Healing Kit
+8082056C:Some Changes for February 2012
+80820570:Bracelet
+80820576:Gorget
+C5450969:Stipend
+8082057E:Monougat
+80820587:Copper Pea
+
+Missing Exports - Possessed items that were not found:

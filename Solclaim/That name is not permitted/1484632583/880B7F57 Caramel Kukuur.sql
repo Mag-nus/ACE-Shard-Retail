@@ -1,0 +1,49 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (2282454871, 39107, 44, 2281792) /* CraftTool */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (2282454871,   1,         32) /* ItemType - Food */
+     , (2282454871,   5,          1) /* EncumbranceVal */
+     , (2282454871,  11,          1) /* MaxStackSize */
+     , (2282454871,  12,          1) /* StackSize */
+     , (2282454871,  16,          8) /* ItemUseable - Contained */
+     , (2282454871,  18,          1) /* UiEffects - Magical */
+     , (2282454871,  19,         10) /* Value */
+     , (2282454871,  65,        101) /* Placement - Resting */
+     , (2282454871,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (2282454871,  94,         16) /* TargetType - Creature */
+     , (2282454871, 151,          9) /* HookType - Floor, Yard */
+     , (2282454871, 9015,         16) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (2282454871,   1, False) /* Stuck */
+     , (2282454871,  11, True ) /* IgnoreCollisions */
+     , (2282454871,  13, True ) /* Ethereal */
+     , (2282454871,  14, True ) /* GravityStatus */
+     , (2282454871,  19, True ) /* Attackable */
+     , (2282454871,  22, True ) /* Inscribable */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (2282454871,  39, 0.200000002980232) /* DefaultScale */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (2282454871,   1, 'Caramel Kukuur') /* Name */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (2282454871,   1,   33560400) /* Setup */
+     , (2282454871,   3,  536870932) /* SoundTable */
+     , (2282454871,   6,   67115354) /* PaletteBase */
+     , (2282454871,   8,  100689667) /* Icon */
+     , (2282454871,  22,  872415275) /* PhysicsEffectTable */
+     , (2282454871,  28,       4212) /* Spell - StickyMelee */
+     , (2282454871, 8001,  275280024) /* PCAPRecordedWeenieHeader - Value, Usable, UiEffects, StackSize, MaxStackSize, Container, TargetType, Burden, Spell, HookType */
+     , (2282454871, 8003,         18) /* PCAPRecordedObjectDesc - Inscribable, Attackable */
+     , (2282454871, 8005,     137345) /* PCAPRecordedPhysicsDesc - CSetup, ObjScale, STable, PeTable, AnimationFrame */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (2282454871,   1, 1343106265) /* Owner */
+     , (2282454871,   2, 1343106265) /* Container */
+     , (2282454871, 8000, 2282454871) /* PCAPRecordedObjectIID */;
+
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
+VALUES (2282454871, 67116829, 0, 0);

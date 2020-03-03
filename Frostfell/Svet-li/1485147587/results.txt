@@ -1,0 +1,47 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\random-running-around\pkt_2017-1-22_1485145389_log.pcap
+
+Partial Exports - Missing appraisal info:
+A986B648:Pyreal
+A986B649:Sack
+A986B64A:Ust
+A986B64C:Pathwarden Token
+A986B64E:Foci of Strife
+A986B64F:Foci of Verdancy
+A986B650:Prismatic Taper
+A986B651:Lead Scarab
+A986B652:Letter From Home
+A986B653:Bread
+AA241FB2:Blackmoor's Favor
+AA24240E:Oil of Rendering
+AA242421:Oil of Rendering
+AA242422:Academy Coat
+A9F658D8:Gearknight
+AA242423:Facility Hub Portal Gem
+AA047763:Licorice Rat
+AA046A73:Scroll of Raven Fury
+AA046F28:Ash Gromnie Wings
+A9FB734B:Scroll of Lightning Arc VII
+A9ECE74B:Mukkir
+A9F68088:Gem of Purity
+A9F68CA9:Ancient Empyrean Trinket
+A9F6FEBE:Priceless Ore
+A9F6F7C0:Priceless Ore
+A96FAAB2:Isparian
+A9ECEA32:Licorice Rat
+A9DA91F9:Antiquated Compass
+A9ACD055:Bracelet
+A9D40F24:Puzzle Box
+A9D41F2C:Cloth Gloves
+A9D4069D:Amulet
+A9C80104:Cloth Gloves
+A9B8EECA:Studded Leather Gauntlets
+AA03FA06:Scroll of Arcanum Salvaging VII
+A5263D29:Amuli Leggings
+A928B5E2:Treated Healing Kit
+A9B8FF57:Cloth Gloves
+A98AC1C5:Studded Leather Shirt
+AA24422E:Flaming Quarter Staff
+A9E04F11:Covenant Shield
+
+Missing Exports - Possessed items that were not found:

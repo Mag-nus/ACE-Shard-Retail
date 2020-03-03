@@ -1,0 +1,17 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-31_1485853452_log.pcap
+
+Partial Exports - Missing appraisal info:
+91DE7087:Baggy Shirt
+91DE7088:Pants
+91DE7089:Shoes
+91DE708A:Pyreal
+91DE708B:Sack
+91DE708C:Ust
+91DE708E:Pathwarden Token
+91DE7091:Arrow
+91DE7092:Round Shield
+91DE7094:Letter From Home
+91DE7095:Bread
+
+Missing Exports - Possessed items that were not found:

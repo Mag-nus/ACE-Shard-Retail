@@ -1,0 +1,192 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2\pkt_2017-1-30_1485774937_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2\pkt_2017-1-27_1485524708_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2\pkt_2017-1-30_1485770030_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485762073_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485762073_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2\pkt_2017-1-30_1485774937_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2\pkt_2017-1-30_1485774937_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps2\pkt_2017-1-30_1485774937_log.pcap
+
+Partial Exports - Missing appraisal info:
+81032837:Asheron's Benediction
+81032838:Ust
+81032839:Pathwarden Robe
+8103283A:Blackmoor's Favor
+8103283F:Aphus Lassel Portal Gem
+81032845:Facility Hub Portal Gem
+81032848:Ivory Gromnie Hide
+81032849:Mattekar Hide
+8103284A:Ebon Spine Harpoon
+8103284B:Ebon Spine Harpoon
+8103284C:Frost Quarter Staff
+8103284D:Acid Wisp Essence (50)
+81032864:Alloy Tool
+810328D5:Pyreal
+8103284E:Foci of Artifice
+81032850:Trimmed Cloak
+81032851:Chevron Cloak
+81032852:Shoes
+81032853:Chevron Cloak
+8103285C:Bandana
+81032854:Quartered Cloak
+81032855:Spine Glaive
+8103286F:Reliable Lockpick
+81032856:Electric Sceptre
+81032857:Slashing Sceptre
+81032858:Frost Staff
+81032859:Tunic
+8103285B:Heavy Bracelet
+8103285D:Crown
+8103285E:Crown
+8103285F:Slashing Sceptre
+81032860:Signet Crown
+8103286A:Prismatic Taper
+81032863:Cloak
+81032865:Bracelet
+81032866:Wrapped Bundle of Deadly Frog Crotch Arrowheads
+81032867:Wrapped Bundle of Deadly Fire Arrowheads
+81032868:Wrapped Bundle of Deadly Blunt Arrowheads
+81032869:Lead Scarab
+8103286B:Copper Scarab
+8103286C:Silver Scarab
+8103286D:Gem of Purity
+8103286E:Gem of Stillness
+810328CC:Major Mana Stone
+81032870:Gem of Stillness
+81032875:Wrapped Bundle of Arrowshafts
+810328CD:Major Mana Stone
+81032876:Iron Scarab
+81032877:Gold Scarab
+81032878:Pyreal Scarab
+81032890:Gonjoku's Mana Infusion
+81032892:Dansha-Ki's Gem of Portal Recall
+81032897:Black Page of Salt and Ash
+81032898:Gem of Balance
+8103289C:Scroll of Nether Streak VII
+8103289B:Potion of Endless Vigor
+8103289D:Copper Gromnie Tooth
+8D95D38C:Scroll of Honed Control
+810328B3:Amulet
+810328B5:Ring
+810328B6:Chiran Gauntlets
+810328B7:Ring
+810328B8:Leather Tassets
+810328B9:Deadly Fire Arrow
+810328BE:Gem
+810328BD:Invitation to Master Fletchers
+810328CB:Major Mana Stone
+810328C1:Chevron Cloak
+810328C3:Chevron Cloak
+810328C4:Deadly Blunt Arrow
+8A999D27:Scroll of Nether Arc VII
+810328C5:Elysa's Crystal
+810328C6:Gem of Stillness
+810328C7:Chef's Crystal
+810328C8:Adherent's Crystal
+810328C9:Heavy Bracelet
+810328CE:Imbuer's Crystal
+810328D3:Helmet
+810328D4:Flaming Flamberge
+8DA58B9D:Scroll of Aura of Defense
+810328E0:Salvage (5)
+810328CA:Major Mana Stone
+805EF0B9:Greater Olthoi Shield
+8A517572:Rogue's Crystal
+81032899:Sho Gem of Worth
+81026223:Salvaged  (100)
+805EF068:Armet
+8AA52003:Salvage (80)
+8AA62902:Jerkin
+8AA5F9FF:Cloth Gloves
+8A8634DD:Olthoi Bracers
+810328ED:Staff
+91EC6030:Sandals
+91E8A985:Shoes
+91E78409:Staff
+91D293B3:Chevron Cloak
+91EAA1C5:Physician's Crystal
+8ED291AF:Staff
+8EB41044:Wand
+81026C4F:Diforsa Leggings
+805EAC5C:Staff
+92FEE96F:Asheron's Supreme Raiment
+811D1B82:Amuli Coat
+811D1B81:Amuli Coat
+811D1B78:Celdon Breastplate
+811D1B6B:Amuli Coat
+9CEAB4B9:Encapsulated Spirit
+9CFC033F:Heavy Necklace
+9D1367BB:Halved Cloak
+8A7A9246:Greater Deadly Frog Crotch Arrow
+9D12D3B9:Greater Deadly Frog Crotch Arrow
+9D14D40B:Greater Deadly Frog Crotch Arrow
+81026BE3:Guardian's Uniform
+81026C43:Gelidite Robe
+81026BE4:Gelidite Robe
+81026BC6:Robe of the Tundra
+81026BE2:Robe of the Tundra
+81026BC7:Robe of the Tundra
+81026C19:Studded  Leggings
+81026C0E:Studded  Shirt
+81026C1A:Chainmail Breastplate
+81026C0D:Amuli Coat
+81026C5E:Greater Olthoi Pauldrons
+81026C69:Lesser Olthoi Greaves
+81026C5D:Greater Olthoi Brood Queen Helm
+81026C4D:Lorica Leggings
+81026C64:Greater Olthoi Sollerets
+81026C63:Greater Olthoi Greaves
+8E119495:Tenassa Leggings
+8D19587D:Nariyid Girth
+80FBC513:Pack
+805EF09F:Sleek Dress
+80F8A9A4:Pack
+80FABED0:Fire Bow
+801B0C12:Blunt Baton
+801B0C13:Frost Sceptre
+801B0C11:Fire Baton
+801B0C14:Piercing Sceptre
+80EE990D:Fire Baton
+80FF36E7:Frost Baton
+80FBD145:Electric Baton
+80FF5A83:Piercing Baton
+80FD2582:Blunt Sceptre
+8102D7E5:Blunt Staff
+91251D30:Electric Baton
+90883DFC:Piercing Baton
+8FB17CF7:Piercing Baton
+912916FC:Nether Baton
+912A4636:Electric Sceptre
+8102D7DC:Fire Sceptre
+8102D7E6:Blunt Baton
+8102D7D9:Acid Sceptre
+8102D7DF:Staff
+8102D7D8:Fire Staff
+8102D7DD:Electric Staff
+80FCF7FB:Slashing Compound Bow
+80FEEA2F:Piercing Compound Bow
+80F8A324:Frost Compound Bow
+80F970A8:Acid Compound Bow
+80FF4AB1:Acid Compound Bow
+80FD2B92:Piercing Compound Bow
+80E328E6:Piercing Bow
+80F7A0FC:Piercing Bow
+80FF4BB0:Frost Bow
+80FBC3DF:Frost Bow
+80F6ED8A:Acid Bow
+80F8A2F3:Piercing Bow
+80EFDF81:Electric Bow
+80FCDB7F:Electric Bow
+80FC5F0D:Acid Bow
+80FCDC1F:Heavy Necklace
+8102D7E9:Frost Baton
+8102D7DB:Electric Sceptre
+8102D7FB:Frost Baton
+80FBBDB5:Blunt Bow
+805EAC61:Piercing Bow
+805D154E:Blunt Bow
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,112 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\Fycheck\pkt_2017-1-29_1485712103_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\Fycheck\pkt_2017-1-29_1485710521_log.pcap
+
+Partial Exports - Missing appraisal info:
+878F0B33:Pack
+878F0B3A:Silver Scarab
+878F0B3B:Copper Scarab
+878F0B3C:Iron Scarab
+878F0B3D:Diamond Scarab
+878F0B3E:Lead Scarab
+878F0B3F:Chorizite
+878F0B43:Prismatic Taper
+878F0B44:Cavernous Olthoi Chasm
+878F0B49:Prismatic Taper
+878F0B4B:Gold Scarab
+878F0B55:Splitting Tool
+878F0B75:Ashen Oculus
+8B440D32:Medal Mold
+AD966181:Hyssop
+8BE2412F:Quartered Cloak
+878F0B60:Pack
+878F0B63:Rithwic Portal Gem
+AD65F539:Puzzle Box
+878F0B73:Ust
+878F0B68:Gem of Stillness
+878F0B88:Swamp Stone
+878F0B69:Celdiseth's Portal Gem
+878F0B6B:Vissidal Island Portal Gem
+878F0B6C:Aphus Lassel Portal Gem
+878F0B71:Raeta's Necklace
+878F0B72:Attenuated Awakener
+878F0B7B:Casting Stein
+878F0B7D:Clasp of the Heart
+8C6470D2:Ring
+878F0B7E:Clasp of the Arm
+878EEBF2:Robe of the Tundra
+878EEBE8:Hearty Reedshark Robe
+AEA3CFA7:Pyreal
+878F0B93:Pack
+878F0B77:Burun Idol
+878F0BAE:Fire Elemental Essence (100)
+878F0BAF:Lightning Child Essence (150)
+878F0B4A:Pyreal Scarab
+8B446DE8:Town Network Portal Gem
+878EDD23:Crimped Hat
+878F0B37:Platinum Scarab
+878F0BB4:Eye of the Quiddity
+878F0B57:Intricate Carving Tool
+878EF063:Shagraka
+878F0B6D:Aerlinthe Patron Shirt
+878F0BA2:Staff
+AD94A20D:Major Mana Stone
+98D9B14E:Ring
+878EDD21:Martine's Robe
+AD960AE8:Dire Mattekar Paw
+97ECD337:Empowered Robe of the Perfect Light
+878EDD26:Dapper Suit
+AD90F592:Major Mana Stone
+88C8F9B5:Hood
+AD956064:Pack
+AD910095:Mana Scarab
+89C47740:Aetheria
+98E22C54:Slippers
+A40121C9:Trade Note (250,000)
+98FAE7AE:Shirt
+AD9C24C4:Major Mana Stone
+8C789AFC:Lorica Helm
+8E140B8C:Chainmail Tassets
+878F0BB7:Buadren
+9CD93E45:Celdon Leggings
+AD8A6A7E:Mana Scarab
+878F3627:Robe of the Tundra
+878EDD22:Elemental Master Robe
+AEA3CFA6:Pyreal
+A33CB3A3:Empyrean Over-robe
+9BC169D6:Celdon Breastplate
+AD9C24C3:Major Mana Stone
+9BEBE818:Celdon Sleeves
+9C09340E:Koujia Sleeves
+8878799E:Koujia Breastplate
+9D2D59A2:Suikan Over-robe
+AEA3CFA5:Pyreal
+878F360C:Canescent Mattekar Robe
+AEA3CFA4:Pyreal
+AEA3CFA3:Pyreal
+AE104333:Pack
+AD889F1E:Platinum Scarab
+AD8376CB:Mana Scarab
+AD73B1D3:Platinum Scarab
+878EF024:Crown of Bone
+878EF035:Asheron's Supreme Raiment
+878EF033:Sturdy Reedshark Robe
+878EF061:Dark Heart
+AEA3CFA2:Pyreal
+878EF025:Faran Robe
+AD960C85:Mattekar Arm Guard
+AE102FCB:Pack
+AD910519:Sollerets
+AD9A9D02:Argenory Plant
+AD9A3EBC:Smithy's Crystal
+AD9AF29E:Blue Orb
+AD9A9114:Globe of Auberean
+9891EE5D:Salvager's Helm
+AEA3CFA1:Pyreal
+878EDD1F:Canescent Mattekar Robe
+AEA3CFA0:Pyreal
+AEA3CF9F:Pyreal
+
+Missing Exports - Possessed items that were not found:

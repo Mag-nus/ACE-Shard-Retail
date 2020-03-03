@@ -1,0 +1,74 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-25_1485348011_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-24_1485277486_log.pcap
+
+Partial Exports - Missing appraisal info:
+DC399276:Puffy Shirt
+DC37EC26:Pantaloons
+DC3FA783:Ust
+DC3D3452:Foci of Artifice
+DC45AFC1:Foci of Verdancy
+DC4DA104:Lead Scarab
+DC3F6E07:Iron Scarab
+DC3DECFF:Copper Scarab
+DC36D150:Silver Scarab
+DC3A346D:Gold Scarab
+DC4054F3:Diamond Scarab
+DC40190D:Prismatic Taper
+DC382983:Pyreal Scarab
+DC4A1484:An Unlocked Large Mnemosyne
+DC4047CF:An Unlocked Large Mnemosyne
+DC6CCAFC:An Unlocked Large Mnemosyne
+DC69298D:An Unlocked Large Mnemosyne
+DC56AD39:Foci of Enchantment
+DC396DC1:Thorsten's Armor
+DC36B866:Faran Item Master Robe
+DC3A2ECB:Treated Healing Kit
+DC3953F4:Treated Healing Kit
+DC404038:Treated Healing Kit
+DC3A19D8:Faran Creature Master Robe
+DC3955F9:Faran Life Master Robe
+DC702558:Asheron's Benediction
+DC401A3C:Greater Mana Stone
+DC3FB27B:Blackmoor's Favor
+DC485A8A:Life Magic Gem of Enlightenment
+DC38338D:Melee Defense Gem of Enlightenment
+DC401C09:Sturdy Iron Key
+DC45C40B:Sturdy Iron Key
+DC401B58:Sturdy Iron Key
+DC400754:Sturdy Iron Key
+DC3DFFDB:Stamina Tincture
+DC3F1E44:Major Shivering Stone
+DC450845:Torn Cloth Scrap
+DC383CE1:Torn Cloth Scrap
+DC409555:Torn Cloth Scrap
+DC63E58E:Torn Cloth Scrap
+DC3DDC24:Torn Cloth Scrap
+DC401A47:Torn Cloth Scrap
+DC396059:Torn Cloth Scrap
+DC4046FC:Torn Cloth Scrap
+DC382D2F:Torn Cloth Scrap
+DC4770A1:Torn Cloth Scrap
+DC3A26B6:Torn Cloth Scrap
+DC400396:Torn Cloth Scrap
+DC3964BC:Torn Cloth Scrap
+DC383C9B:Torn Cloth Scrap
+DC4001B9:Torn Cloth Scrap
+DC404CED:Torn Cloth Scrap
+DC59418E:Moderate Mana Stone
+DC3FA402:Heavy Bracelet
+DC370266:Ring
+DC40533F:Pyreal
+DC3A32B2:Pyreal
+DC3B2AB4:Pyreal
+DC4053FB:Experience Orders
+DC48934B:Thorsten's Crystal
+DC3A33DE:Deadly Frost Arrow
+DC5A8A2F:Platemail Gauntlets
+DC6BCFFF:Some Changes for February 2012
+DC39539E:Focusing Stone
+DC3A2BD5:Orb of the Bunny Booty
+
+Missing Exports - Possessed items that were not found:

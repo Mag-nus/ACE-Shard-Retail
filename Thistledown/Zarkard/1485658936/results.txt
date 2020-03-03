@@ -1,0 +1,87 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\miscpcaps1\pkt_2017-1-28_1485658916_log.pcap
+
+Partial Exports - Missing appraisal info:
+80122204:Gifted Healing Kit
+8012169C:Pyreal
+8012221E:Ring of Intellect
+8012167A:Amulet
+8012167B:Asheron's Benediction
+80121679:Blackmoor's Favor
+801221F4:Moderate Mana Stone
+80121680:Orb
+8012220D:Chalice
+801221EE:Pack
+80122210:Crown
+801221FC:Chalice
+801221EC:Prismatic Taper
+801221F7:Orb
+80122237:Teleportation Device
+801221EB:Iron Scarab
+801221EA:Copper Scarab
+80121698:Silver Scarab
+80121699:Gold Scarab
+80121697:Pyreal Scarab
+8012169B:Quest Weapon Coin
+8012169A:Intricate Carving Tool
+8010716B:The Healer's Heart
+8012220E:Pack
+801221DC:Arcane Pedestal
+801221DB:Teardrop Crown
+801221DA:A Horn of Vigilance
+80122207:A Horn of Vigilance
+801221D8:A Horn of Vigilance
+801008BA:A Horn of Vigilance
+801008DD:Ursuin Rug
+801008D9:Signet Crown
+801221F6:Teardrop Crown
+801221BA:Wand
+80122180:Chalice
+80122448:Pyreal
+8012217C:Ornamental Bowl
+801221EF:Crown
+801216C0:Adept Healing Kit
+80122163:Trade Note (250,000)
+80122156:Stamina Tincture
+801216C1:Adept Healing Kit
+801216BF:Adept Healing Kit
+8012214D:Adept Healing Kit
+801221DD:Asheron's Lesser Raiment
+80122147:Pyreal
+801221E3:Pyreal
+8012213A:Pyreal
+80122131:Ursuin Rug
+80122129:Pack
+80122128:Alembic
+801221D9:Bloodhunter Oil
+80122124:Concentrated Fire Oil
+80122120:Concentrated Acid Oil
+80122117:Concentrated Frost Oil
+80121B39:Concentrated Lightning Oil
+8012210F:Concentrated Health Oil
+8012210C:Wrapped Bundle of Atlatl Dartshafts
+8012210D:Wrapped Bundle of Deadly Lightning Arrowheads
+801221B9:Wrapped Bundle of Deadly Acid Arrowheads
+80121726:Wrapped Bundle of Deadly Frost Arrowheads
+80121727:Wrapped Bundle of Deadly Frog Crotch Arrowheads
+80121728:Wrapped Bundle of Deadly Blunt Arrowheads
+80121725:Concentrated Bloodhunter Oil
+8012210B:Greater Armor Piercing Arrow
+8012210A:Concentrated Bloodseeker Oil
+80122177:Wrapped Bundle of Deadly Fire Arrowheads
+8010718C:Wrapped Bundle of Deadly Armor Piercing Arrowheads
+80122105:Deadly Fire Quarrel
+80107147:Deadly Armor Piercing Quarrel
+801220FC:Pyreal
+801220FE:Deadly Blunt Quarrel
+801220FD:Lead Scarab
+801220FA:Pyreal
+801220FB:Holtburg Portal Gem
+801220F9:Foci of Artifice
+80121761:Saulandoi
+8012175F:Foci of Enchantment
+80121760:Foci of Verdancy
+9597CD47:Stipend
+80108F5F:Keg of Bobo's Stout
+
+Missing Exports - Possessed items that were not found:

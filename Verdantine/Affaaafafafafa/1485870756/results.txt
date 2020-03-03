@@ -1,0 +1,7 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-31_1485869245_log.pcap
+
+Partial Exports - Missing appraisal info:
+91F5C74D:Foci of Strife
+
+Missing Exports - Possessed items that were not found:

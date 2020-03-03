@@ -1,0 +1,91 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-25_1485348011_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-24_1485277486_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-24_1485277486_log.pcap
+
+Partial Exports - Missing appraisal info:
+DCA2C2D7:Loose Shirt
+DCA2C2D8:Flared Pants
+DCA2C2D9:Asheron's Benediction
+DCA2C2DC:Great Mana Charge
+DCA2C2DA:Oil of Rendering
+DCA2C2DB:Pathwarden Robe
+DCA2C2DE:Sturdy Iron Key
+DCA2C2DD:Salvage
+DCA2C2DF:Sturdy Iron Key
+DCA2C2E0:Salvage
+DCA2C2E2:Pack
+DCA2C2E3:Cestus
+DCA2C2E4:Katar
+DCA2C2E5:Frost Cestus
+DCA2C2E6:Frost Katar
+DCA2C2E7:Frost Cestus
+DCA2C2E8:Acid Katar
+DCA2C2E9:Acid Katar
+DCA2C2EA:Acid Cestus
+DCA2C2EB:Sickly Wisp Heart
+DCA2C2EC:Shadow Fragment
+DCA2C2ED:Shadow Fragment
+DCA2C2EE:Virindi Mask
+DCA2C2EF:Dark Sliver
+DCA2C2F0:Ursuin Mask
+DCA2C2F1:Nekode
+DCA2C2F2:Cestus
+DCA2C2F3:Flaming Cestus
+DCA2C2F4:Katar
+DCA2C2F5:Frost Cestus
+DCA2C2F6:Dark Sorcerer's Phylactery
+DCA2C2F7:Acid Katar
+DCA2C2F8:Katar
+DCA2C2F9:Katar
+DCA2C2FB:Nekode
+DCA2C2FD:Quarter Staff
+DCA2C2FC:Cestus
+DCA2C2FE:Flaming Nabut
+DCA2C2FF:Broad Sword
+DCA2C300:Quintessence Sickle
+DCA2C301:Berimphur Plant
+DCA2C302:Awakener
+DCA2C304:Elemental Master Robe
+DCA2C305:Dirk
+DCA2C310:Martine's Mask
+DCA2C306:Heavy Ursuin Coat
+DCA2C309:Mattekar Hide Coat
+DCA2C30A:Ursuin Hide Helmet
+DCA2C30B:Sollerets
+DCA2C30C:Ursuin Hide Helmet
+DCA2C30D:Obsidian Director's Mask
+DCA2C30E:Quintessence Sickle
+DCA2C312:Great Mattekar Horn
+DCA2C30F:Twisted Drudge Ravener Guts
+DCA2C311:Braided Drudge Ravener Guts
+DCA2C313:Asteliary Gem
+DCA2C314:Fire Auroch Horn
+DCA2C315:Blackmoor's Favor
+DCA2C316:Armet
+DCA2C317:Celdon Leggings
+DCA2C318:Virindi Shroud
+DCA2C323:Eviscerator Head
+DCA2C319:Pack Levistras
+DCA2C31A:Martine's Robe
+DCA2C31F:Faran Robe with Hood
+DCA2C320:Explorer Wand Of Fire
+DCA2C321:Celdon Leggings
+DCA2C322:Braided Drudge Ravener Guts
+DCA2C331:Some Changes for February 2012
+DCA2C2FA:Virindi Mask
+DCA2C326:Salvaged  (96)
+DCA2C327:Salvaged  (87)
+DCA2C328:Salvaged  (28)
+DCA2C329:Salvaged  (5)
+DCA2C32A:Amuli Leggings
+DCA2C32B:Heavy Bracelet
+DCA2C32C:Greater Armor Piercing Atlatl Dart
+DCA2C32D:Greater Armor Piercing Atlatl Dart
+DCA2C32E:Deceiver's Crystal
+DCA2C330:Peerless Atlan Claw
+DCA2C32F:Academy Wand
+
+Missing Exports - Possessed items that were not found:

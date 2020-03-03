@@ -1,0 +1,62 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-27_1485573948_\pkt_2017-1-27_1485573948_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-25_1485397705_\pkt_2017-1-25_1485397705_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-25_1485397705_\pkt_2017-1-25_1485397705_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-25_1485402901_\pkt_2017-1-25_1485402901_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-26_1485490272_\pkt_2017-1-26_1485490272_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\tunziSC_-_pkt_2017-1-26_1485490272_\pkt_2017-1-26_1485490272_log.pcap
+
+Partial Exports - Missing appraisal info:
+9C2511CC:Pyreal
+9C2511CE:Ust
+9C8BB771:Pyreal
+9C6230A6:Atlatl
+9C68A6D1:Worn Old Key
+9C8C1B23:Pyreal
+9C87C88B:Trousers
+9C89ECFD:Pyreal
+9C6AE89E:Invitation to Master Fletchers
+9C8BBD91:Heavy Necklace
+9C8BC28F:Baggy Shirt
+9C8252D9:Ring
+9C8BC780:Leather Gauntlets
+9C8C1CE3:Aphus Lassel Portal Gem
+9C8BFD4F:Trade Note (100,000)
+9C2511D5:Bundle of Arrowshafts
+9C2511D6:Bundle of Arrowheads
+9C2511D7:Bundle of Quarrelshafts
+9C6543DF:Reliable Lockpick
+9C87DCAC:Adept Healing Kit
+9C679D43:Encapsulated Spirit
+9C8A3052:Pack
+9C87C6BB:Frost Moar Essence (50)
+9C81C08F:Adept Healing Kit
+9C81C1E0:Acid Phyntos Wasp Essence (50)
+9C89ECFC:Pyreal
+9C8A7759:Acid K'nath Essence (50)
+9C86B421:Frost Elemental Essence (50)
+9C7FC7DE:Health Draught
+9C86A20A:Undead Femur bone
+9C81BBC3:Stamina Tincture
+9C8691F4:Acid Moar Essence (50)
+9C8B0EB5:Peerless Healing Kit
+9C8B9233:Lightning Moar Essence (80)
+9C8C837B:Health Elixir
+9C88A5B8:Pyreal
+9C8BC26D:Frost Grievver Essence (50)
+9C8C1591:Pyreal
+9C88B58F:Cloth Cap
+9C815C4E:Turban
+9C87333D:Lightning Wisp Essence (50)
+9C8BC722:Chalice
+9C8C8C47:Peerless Healing Kit
+9C8BD45A:Silver Pea
+9C8C8C45:Frost Phyntos Wasp Essence (80)
+9C8B1DEE:Acid Grievver Essence (50)
+9C8CBF29:Pack
+9C8CBF39:Small Belt Pouch
+9C8C171B:Wrapped Bundle of Arrowshafts
+
+Missing Exports - Possessed items that were not found:

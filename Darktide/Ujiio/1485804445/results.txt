@@ -1,0 +1,120 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-30-2017-HuntNearGreenvaleSettlement_RidgeCitadelPass2\pkt_2017-1-30_1485797040_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-23-2017-HuntingEastwatchPart1\pkt_2017-1-23_1485231543_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-29-2017-Hieromancer_Phantom_HollowFletchingTool\pkt_2017-1-29_1485717273_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-29-2017-Hieromancer_Phantom_HollowFletchingTool\pkt_2017-1-29_1485717273_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-29-2017-ShoushiMtnLS_SawatoSwampLS_OHNBanditCastle_RidgeCitadel\pkt_2017-1-29_1485747652_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-29-2017-ShoushiMtnLS_SawatoSwampLS_OHNBanditCastle_RidgeCitadel\pkt_2017-1-29_1485747652_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-29-2017-ShoushiShrethHive\pkt_2017-1-29_1485734402_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-29-2017-ShoushiShrethHive\pkt_2017-1-29_1485734402_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-29-2017-ShoushiShrethHive\pkt_2017-1-29_1485734402_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-25-2017-Skull-of-High-Acolyte\pkt_2017-1-25_1485404701_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-27-2017-ChakronGateand-UpperandLowerFlux\pkt_2017-1-27_1485540072_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-27-2017-QuiddityColosseumAndBDC\pkt_2017-1-27_1485586508_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-27-2017-QuiddityColosseumAndBDC\pkt_2017-1-27_1485586508_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-27-2017-TemplesOfForgetfulnessAndEnlightenment\pkt_2017-1-27_1485565743_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-30-2017-AerfalleAndDungeons\pkt_2017-1-30_1485824293_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-28-2017-FocusStone_Hollow_Atlan_SDiresDarkSorcererPhylactery_Furniture\pkt_2017-1-28_1485659042_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-28-2017-FocusStone_Hollow_Atlan_SDiresDarkSorcererPhylactery_Furniture\pkt_2017-1-28_1485659042_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-30-2017-HuntNearGreenvaleSettlement_RidgeCitadelPass2\pkt_2017-1-30_1485797040_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-30-2017-HuntNearGreenvaleSettlement_RidgeCitadelPass2\pkt_2017-1-30_1485797040_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-30-2017-HuntNearGreenvaleSettlement_RidgeCitadelPass2\pkt_2017-1-30_1485797040_log.pcap
+
+Partial Exports - Missing appraisal info:
+8020FCCB:Foci of Verdancy
+8020FCCA:Ust
+8020FCD0:Foci of Artifice
+9CBFD84B:Platinum Scarab
+9CBC1C8E:Pyreal Scarab
+9CBC161C:Gold Scarab
+85388F8D:Hyssop
+9CE067C2:Town Network Portal Gem
+D7E68474:Deed
+8020FCF0:Iron Scarab
+8020FCEF:Lead Scarab
+8020FCF2:Silver Scarab
+B34FB78E:Celdiseth's Portal Gem
+B35B1B74:Platinum Scarab
+B3593211:Celdiseth's Portal Gem
+B35B1B69:Copper Scarab
+D861201F:Prismatic Taper
+D8794EF4:Prismatic Taper
+B3701FD3:Massive Mana Charge
+B36F07C8:Massive Mana Charge
+B341D7BB:Massive Mana Charge
+B36D3660:Massive Mana Charge
+D80E0A08:Massive Mana Charge
+D80B1B16:Massive Mana Charge
+D832A5B4:Massive Mana Charge
+D832A5E9:Massive Mana Charge
+D8343381:Massive Mana Charge
+D832A5A2:Massive Mana Charge
+D832A5A5:Massive Mana Charge
+D82DAB64:Massive Mana Charge
+D7C1D102:Massive Mana Charge
+BC857D08:Massive Mana Charge
+D190658E:Massive Mana Charge
+D7E4BE4A:Massive Mana Charge
+C94570AA:Massive Mana Charge
+D84B1685:Massive Mana Charge
+D80E37D5:Massive Mana Charge
+D84B1634:Massive Mana Charge
+84C96B08:Foci of Enchantment
+A841F8D6:Facility Hub Portal Gem
+B356A22C:Foci of Strife
+D823BC6E:Massive Mana Charge
+D823BC76:Massive Mana Charge
+D823BCAD:Massive Mana Charge
+D823BCBF:Massive Mana Charge
+D823BC75:Massive Mana Charge
+D823BC90:Massive Mana Charge
+D823BC6D:Massive Mana Charge
+D823BC9A:Massive Mana Charge
+D823BD30:Massive Mana Charge
+D823BCE0:Massive Mana Charge
+D82DAB70:Massive Mana Charge
+D82DABFF:Massive Mana Charge
+D832A5B7:Massive Mana Charge
+D82DAB80:Massive Mana Charge
+D82DAC5E:Massive Mana Charge
+D832A5DA:Massive Mana Charge
+D832A5E6:Massive Mana Charge
+D80B1976:Massive Mana Charge
+D8377747:Mana Tonic
+D820FCA5:Health Tonic
+8023F925:Ancient Falatacot Trinket
+D8439119:Hardened Shard
+D83ADE75:Undead Thighbone
+D84E2134:Ravener Guts
+D855109A:Weapon Tailoring Kit
+D8576B4F:Pyreal
+D85E79C3:Carrot
+D85BBD9F:Dark Revenant Thighbone
+D85927C8:Dark Revenant Thighbone
+D85ED036:Pyreal
+D863A8BE:Moderate Mana Charge
+D863AA0E:Moderate Mana Charge
+D8504170:Sharp Tusker Slave Tusk
+D86660A2:Chorizite Fletching Tool
+D8666171:Deadly Chorizite Arrow
+D86688E3:Antiquated Compass
+D8083BF5:Deadly Blunt Arrow
+D8724B40:Deadly Lightning Arrow
+D85087D6:Excellent Lockpick
+D8660881:Monougat
+D8666189:Deadly Armor Piercing Arrow
+D8671A8F:Flaming Dericost Blade
+D84A37D8:Silk
+D84A3872:Banished Atlatl
+D854A102:Lightning Dericost Blade
+D87A30C0:Excellent Lockpick
+D87A3589:Dericost Blade
+D87C23EC:Frost Dericost Blade
+D87A348C:Acid Dericost Blade
+D87A3777:Glittering Crystalline Key
+D86DF72D:Large Lugian Sinew
+D7D46A8E:Club
+
+Missing Exports - Possessed items that were not found:

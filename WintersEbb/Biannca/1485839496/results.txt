@@ -1,0 +1,174 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485839402_log.pcap
+
+Partial Exports - Missing appraisal info:
+915AB24F:Shirt
+915AB251:Shoes
+915AB252:Sack
+915AB254:Teleportation Device
+915AB255:Blackmoor's Favor
+915AB256:Lead Scarab
+915AB257:Prismatic Taper
+915AB258:Pyreal
+915AB259:Ust
+91E125F1:Salvage (100)
+91D4BA44:Salvage (100)
+91DD4054:Salvage (100)
+915AB25C:Great Mana Charge
+91D75A8B:Salvage (100)
+915AB2B3:Salvage (100)
+915AB25D:Pathwarden Trinket
+915AB2B8:Salvage (100)
+915AB2B9:Salvage (100)
+915AB2AC:Phantom Katar
+915AB2B7:Salvage (100)
+915AB2B6:Salvage (100)
+916CFDD6:Pack
+915AB2B5:Salvage (100)
+915AB2B2:Salvage (100)
+915AE8A7:Sack
+915AB2B4:Salvage (100)
+91D2F60B:Salvage (100)
+91DBF87B:Salvage (100)
+91DDBC60:Salvage (100)
+915AB2A4:Salvaged  (100)
+915AB2A3:Salvaged  (100)
+915AB25A:Foci of Strife
+915AB25B:Foci of Verdancy
+915AB25E:Salvaged  (100)
+915AB25F:Salvaged  (100)
+915AB260:Salvaged  (86)
+915AB261:Salvage (97)
+915AB262:Salvaged  (85)
+915AB263:Salvage (100)
+915AB264:Salvage (100)
+915AB265:Salvage (100)
+915AB266:Salvage (100)
+915AB267:Salvage (100)
+915AB268:Salvage (100)
+915AB269:Salvage (100)
+915AB26A:Salvage (100)
+915AB26B:Salvage (100)
+915AB26C:Salvage (100)
+915AB26D:Salvage (100)
+915AB26E:Salvage (100)
+915AB26F:Salvage (100)
+915AB270:Salvage (100)
+915AB271:Salvage (100)
+915AB272:Salvage (100)
+915AB273:Salvage (100)
+915AB274:Salvage (100)
+915AB275:Salvage (100)
+915AB276:Salvage (100)
+915AB277:Salvage (100)
+915AB278:Salvage (100)
+915AB279:Salvaged  (100)
+915AB27A:Salvaged  (100)
+915AB27B:Salvage (100)
+915AB27C:Salvaged  (100)
+915AB27D:Salvaged  (100)
+915AB27E:Salvaged  (100)
+915AB27F:Salvaged  (100)
+915AB280:Salvaged  (100)
+915AB281:Salvaged  (100)
+915AB282:Salvaged  (100)
+915AB283:Salvaged  (100)
+915AB284:Salvaged  (100)
+915AB285:Salvaged  (100)
+915AB286:Salvaged  (100)
+915AB287:Salvage (100)
+915AB288:Salvaged  (100)
+915AB289:Salvaged  (100)
+915AB28A:Salvaged  (100)
+915AB28B:Salvaged  (100)
+915AB28C:Salvaged  (100)
+915AB28D:Salvaged  (100)
+915AB28E:Salvaged  (100)
+915AB28F:Salvaged  (100)
+915AB290:Salvaged  (100)
+915AB291:Salvaged  (100)
+915AB292:Salvaged  (100)
+915AB293:Salvaged  (100)
+915AB295:Salvaged  (100)
+915AB29B:Salvaged  (100)
+915AB2A1:Salvaged  (100)
+915AB2A6:Salvage (12)
+915AB2A7:Salvage (98)
+915AB2A8:Salvage (12)
+915AB2A9:Salvage (16)
+915AB2AA:Salvage (10)
+915AB2AB:Salvage (9)
+91678463:Ring
+915AB2AD:Olthoi Koujia Gauntlets
+915AB2AE:Salvage (100)
+915AB2AF:Salvage (100)
+915AB2B0:Salvage (100)
+915AB2B1:Salvage (100)
+916C6F17:Studded Leather Breastplate
+91670729:Covenant Gauntlets
+9162D4D4:Nariyid Leggings
+916DFD2F:Heavy Bracelet
+916CE5E5:Cloth Cap
+917E0F21:Mace
+916D6F17:Haebrean Gauntlets
+916B087B:Studded Leather Pauldrons
+916B0E8A:Bandana
+916DFF19:Ring
+916B56C2:Spada
+915824D5:Ring
+91DAE793:Studded Leather Sleeves
+91DAB704:Diforsa Leggings
+91DD30C6:Olthoi Alduressa Gauntlets
+91DD1E2F:Leather Pauldrons
+91DD30C7:Olthoi Pauldrons
+91D7A97F:Chiran Leggings
+8FC9E68C:Amuli Leggings
+9169E60B:Heavy Bracelet
+916DAC5E:Coalesced Aetheria
+91AC3154:Coalesced Aetheria
+91B14D90:Coalesced Aetheria
+91D6FF9D:Coalesced Aetheria
+91DD1D61:Salvage (100)
+91E10D64:Salvage (100)
+91DCFB33:Salvage (100)
+91D8FA85:Salvage (100)
+91E22CB0:Salvage (100)
+91B196AC:Coalesced Aetheria
+91BB1776:Coalesced Aetheria
+91C5721F:Coalesced Aetheria
+91E15171:Coalesced Aetheria
+91E0871A:Coalesced Aetheria
+916CF7EB:Coalesced Aetheria
+915BDFA5:Coalesced Aetheria
+91580502:Coalesced Aetheria
+91AAED4D:Coalesced Aetheria
+928377FE:Salvage (100)
+92756C1D:Salvage (100)
+928BDF0D:Salvage (100)
+9297B130:Salvage (100)
+9297C579:Salvage (100)
+92AA7B26:Salvage (100)
+92BF31E2:Salvage (100)
+92AE870B:Salvage (100)
+92A6B8EA:Salvage (100)
+92AB0080:Salvage (100)
+92B4C33B:Salvage (100)
+92944E84:Salvage (100)
+92A821E4:Salvage (100)
+92A80B53:Salvage (100)
+92A38CA0:Salvage (100)
+92A375F2:Salvage (100)
+92A384D2:Salvage (100)
+92837DC3:Salvage (100)
+92837914:Salvage (100)
+927FB399:Salvage (100)
+92844D04:Salvage (100)
+9279F5B0:Salvage (100)
+927FB6E6:Salvage (100)
+927C8369:Salvage (100)
+927C6EA0:Salvage (100)
+923F2BA8:Salvage (100)
+926048F3:Salvage (100)
+833F7804:Ring
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,107 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-07-2017\pkt_2017-1-26_1485393836\pkt_2017-1-26_1485438476_log.pcap
+
+Partial Exports - Missing appraisal info:
+817BA9C7:Ust
+85B25F84:Pyreal
+817D0CA1:Plentiful Healing Kit
+818C4F45:Brew Kettle
+818C4F3F:Ring
+818C4F74:Metal Press
+817FED43:Raeta's Necklace
+85B49974:Foolproof Yellow Topaz
+818C4FD1:Lightning Dericost Blade
+85AD06FE:Acid Baton
+818BC272:Pack
+818834EB:A Lump of Coal
+818C4F3E:Carving Knife
+81813F0D:Vial of Verdalim Dye
+818C4F3D:Vial of Minalim Dye
+81798759:Vial of Argenory Dye
+818C4F8A:Vial of Lapyan Dye
+818C4F80:Alembic
+81882E15:Vial of Relanim Dye
+8187BA26:Vial of Hennacin Dye
+91D95B87:Vial of Hennacin Dye
+818C4F35:Vial of Colban Dye
+91DCD6E2:Vial of Lapyan Dye
+91DC3EF3:Vial of Hennacin Dye
+818C4F6B:Ursuin Cub Kennel
+818C4F82:Vial of Thananim Dye
+818C4FB1:Silver Scarab
+817E9E27:Pack Levistras
+818C4F52:Pack Scarecrow
+817FB3CE:Plush Tusker
+818C4F6C:Pack Drudge
+818C4F63:Elaborate Dried Rations
+818C4F62:Major Mana Stone
+818C4F50:Intricate Carving Tool
+818C4F7F:Platinum Scarab
+85B24DFA:Encapsulated Spirit
+818C4F68:Copper Scarab
+BF2AA399:Acid Hand Wraps
+818C4F67:Prismatic Taper
+818C4F76:Mortar and Pestle
+8213ACFE:Aqua Incanta
+82BF288A:Golden Gromnie
+818E5D7C:Quality Pyreal Ingot
+818C4FB7:Tiriun Mushroom
+851C4A34:Frost Staff
+82151C1A:Eye Dropper
+80CD31C6:Foolproof
+818C4FA8:Pack
+821084E6:Neutral Balm
+82111D9A:Pyreal Scarab
+818C4FAA:Princely Runed Poniard
+826D194D:Imbue Swap Coin
+8168D107:Imbue Swap Coin
+88CA8250:Mana Scarab
+818C4F7B:Platinum Scarab
+8534A8A8:Trade Note (10,000)
+91DCA2AE:Vial of Minalim Dye
+BEC20B4D:Cooking Pot
+818C4F5A:Vial of Berimphur Dye
+91F30DC9:Armor Tailoring Kit
+916A2B40:Berimphur Plant
+917EC3CF:Berimphur Plant
+91DB3AF8:Shoyanen's Portal Gem
+902126FF:Major Mana Stone
+91BBDE65:Empyrean Over-robe
+85B5AB5D:Vest
+9038399A:Major Mana Stone
+90341FA2:Major Mana Stone
+C665351B:Titan Mana Charge
+91DBD038:Neutral Balm
+91DCEED8:Neutral Balm
+91DCEED9:Neutral Balm
+91DCEEDA:Neutral Balm
+8F94F39A:Salvage (100)
+8FE0CF04:Salvage (100)
+80CBBE0E:Pyreal Bar
+90EBB334:Salvage (100)
+90778468:Salvage (100)
+9059CFC1:Salvage (100)
+908A80F5:Salvage (100)
+C659665C:Titan Mana Charge
+90415DE5:Salvage (100)
+C31FA946:Decanter of Essence
+812E6F32:Pyreal Nugget
+80263B1D:Pyreal Mote
+892AB2DF:Salvage
+89433973:Salvage (100)
+87B3B55B:Flaming Tetsubo
+8164D3AB:Salvaged  (100)
+C5E7430F:Salvage (100)
+C65D3FB0:Salvage (100)
+C639EF9E:Salvage (100)
+C65B8847:Salvage (100)
+C50046DD:Quadrelle
+BF256387:Flaming Great Star Mace
+BFC86CDC:Salvage (100)
+BF2BC8B4:Salvage (100)
+BF74CBF2:Salvage (100)
+94466E0D:Salvage (100)
+C3FC6663:Salvage (100)
+C3EB709B:Salvage (100)
+
+Missing Exports - Possessed items that were not found:

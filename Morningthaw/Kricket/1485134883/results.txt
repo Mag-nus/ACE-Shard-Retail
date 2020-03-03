@@ -1,0 +1,107 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-22_1485134283_log.pcap
+
+Partial Exports - Missing appraisal info:
+80820A05:Pack
+80820A42:Pyreal
+80820A08:Nuhmudira's Bestowment of Quickness and Slash Defense
+80820A0A:Titan Mana Charge
+80820A0B:Titan Mana Charge
+80820A0C:Faran Creature Master Robe
+80820A0D:Faran Item Master Robe
+80820A0F:Cloth Gloves
+80820A12:Heavy Necklace
+80820A3A:Ust
+80820A1B:Massive Mana Charge
+80820A19:Heavy Bracelet
+80820A1D:Pack
+80820A22:Abayar's Research Notes
+80820A27:Deed
+80820A4D:Watcher Token
+80820A32:Pack
+80820A2E:Foci of Enchantment
+80820A2F:Foci of Verdancy
+80820A30:Foci of Strife
+80820A31:Foci of Artifice
+80820A33:Diamond Scarab
+80820A34:Lead Scarab
+80820A35:Copper Scarab
+80820A36:Gold Scarab
+80820A37:Silver Scarab
+80820A38:Pyreal Scarab
+80820A39:Iron Scarab
+80820A3D:Chorizite
+80820A3E:Platinum Scarab
+80820A40:Prismatic Taper
+80820A41:Imbue Swap Coin
+80820A4A:Prismatic Taper
+80820A4C:Vial of Organic Acid
+80820A5C:Diamond Heart
+80820A61:Superb Lockpick
+80820A5D:Diamond Heart
+80820A5E:Diamond Heart
+80820A60:Diamond Heart
+80820A62:First Half of a Worn Staff
+80820A63:Ursuin Scalp
+80820A64:Strengthened Mana Forge Key
+80820A67:Diamond Heart
+80820A68:Copper Pea
+80820A69:Silver Pea
+80820A6A:Plate Armoredillo Spine
+80820A6B:Salvage (53)
+80820A94:Iron Pea
+80820A6C:Salvage (77)
+80820A6D:Salvage (52)
+80820A6E:Salvage (82)
+80820A6F:Salvage (74)
+80820A98:Blank Augmentation Gem
+80820A70:Salvage (73)
+80820A71:Salvage (42)
+80820A99:Blank Augmentation Gem
+80820A72:Salvage (56)
+80820A73:Salvage (83)
+B4949B74:Blank Augmentation Gem
+80820A74:Salvage (85)
+80820A75:Salvage (13)
+B4949B91:Blank Augmentation Gem
+80820A76:Salvage (26)
+80820A77:Salvage (59)
+B4949B9A:Blank Augmentation Gem
+80820A78:Salvage (57)
+80820A79:Salvage (11)
+B4949BA3:Blank Augmentation Gem
+80820A7A:Salvage (56)
+80820A7B:Salvage (67)
+BEC4F416:Stipend
+80820A7C:Salvage (12)
+80820A7D:Salvage (63)
+C02EF1A8:Stipend
+80820A7E:Salvage (68)
+80820A7F:Salvage (11)
+C204E3B9:Stipend
+80820A80:Salvage (14)
+80820A81:Salvage (14)
+80820A82:Salvage (29)
+80820A83:Salvage (8)
+80820A85:Salvage (17)
+80820A86:Salvage (88)
+80820A87:Salvage (10)
+80820A88:Salvage (26)
+80820A89:Salvage (6)
+80820A8A:Salvage (8)
+80820A8B:Salvage (25)
+80820A8C:Salvage (9)
+80820A8D:Salvage (9)
+80820A8E:Salvage (8)
+80820A8F:Salvage (9)
+80820A90:Salvage (8)
+80820A91:Salvage (9)
+80820A92:Beret
+80820A95:Empty Flask
+80820A97:Ring
+C084A065:Trade Note (10,000)
+C4C9C32F:Writ of Refuge
+C4C9C291:Writ of Refuge
+C4C9C2D6:Writ of Refuge
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,11 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Uncle-P-Leafcull-Singular-Rep-Blighted-Moarsman-Tunnels-Low-Level-Zaikal\pkt_2017-1-31_1485846179_log.pcap
+
+Partial Exports - Missing appraisal info:
+AE770188:Sack
+AE77018B:Pathwarden Token
+AE77018D:Foci of Strife
+AE77018E:Prismatic Taper
+AE77018F:Lead Scarab
+
+Missing Exports - Possessed items that were not found:

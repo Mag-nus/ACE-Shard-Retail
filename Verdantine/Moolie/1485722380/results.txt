@@ -1,0 +1,85 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap4\pkt_2017-1-29_1485688049_log.pcap
+
+Partial Exports - Missing appraisal info:
+85FE859E:Pack
+85FE859F:Misshapen Bone Fragment
+85FE85A0:Silk
+85FE85A2:Little Green Seeds
+85FE85A8:Prismatic Taper
+85FE85A9:Lead Scarab
+85FE85AA:Handy Healing Kit
+85FE85AD:Facility Hub Portal Gem
+85FE85B9:Glittering Key
+85FE85B0:Yellow Jewel
+85FE85B7:Pack
+85FE85EA:Pyreal
+85FE85BB:Granite Key
+85FE85BF:Yellow Jewel
+85FE85C1:Yellow Jewel
+85FE85BE:Pack Drudge
+85FE85C3:Red Jewel
+85FE85C0:Pack Drudge
+85FE85C6:Alacritous Ink
+85FE85C2:Mage's Jewel
+85FE85C4:Salvage (100)
+85FE85C9:Granite Key
+85FE85C5:Salvage (100)
+85FE85C7:Glyph of Weapon Tinkering
+85FE85E9:Ust
+85FE85C8:Ink of Separation
+85FE85CA:Ink of Partition
+85FE85CB:Salvage (100)
+85FE85CC:Black Marrow Key
+85FE85CD:Salvage (100)
+85FE85CE:Salvage (100)
+85FE85CF:Pack
+85FE85D0:Twisted Dark Key
+85FE85D1:Twisted Dark Key
+85FE85D4:Black Marrow Key
+85FE85D5:Salvage (100)
+85FE85D6:Salvage (100)
+85FE85D7:Black Marrow Key
+85FE85D9:Salvage (100)
+85FE85DA:Black Marrow Key
+85FE85DB:Black Marrow Key
+85FE85DC:Black Marrow Key
+85FE85DD:Black Marrow Key
+85FE85DE:Black Marrow Key
+85FE85DF:Black Marrow Key
+85FE85E0:Black Marrow Key
+85FE85E1:Black Marrow Key
+85FE85E2:Black Marrow Key
+85FE85E3:Black Marrow Key
+85FE85E4:Black Marrow Key
+85FE85E5:Black Marrow Key
+85FE85E6:Black Marrow Key
+85FE85E7:Black Marrow Key
+85FE85E8:Pack
+85FE85EB:Crude Lockpick
+85FE85EC:Shadow Fragment
+85FE85ED:Twisted Dark Key
+85FE85EE:Mangled Dark Key
+85FE85EF:Black Marrow Key
+85FE8641:Tusker Head
+85FE8642:Banderling Head
+85FE8646:Skeleton's Skull
+85FE8600:Pack
+85FE8615:Corruptor's Crystal
+85FE8617:Pack
+85FE8631:Stout Lugian Ale
+85FE8632:Dansha-Ki's Gem of Portal Recall
+85FE8633:Licorice Rat
+85FE8634:Gem of Purity
+85FE8635:Salvage (100)
+85FE8636:Salvage (100)
+85FE8637:Salvage (100)
+85FE8638:Salvage (100)
+85FE8639:Salvage (100)
+85FE863A:Salvage (100)
+85FE863B:Salvage (100)
+85FE863E:Licorice Rat
+85FE863F:Chocolate Gromnie
+85FD5728:Knight's Crystal
+
+Missing Exports - Possessed items that were not found:

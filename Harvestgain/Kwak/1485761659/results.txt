@@ -1,0 +1,134 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485761647_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-25_1485334729_log.pcap
+
+Partial Exports - Missing appraisal info:
+811D63F8:Gauntlets
+811D63FA:Steel Toed Boots
+92B2809A:Pyreal
+811D63FC:Leather Leggings
+92B201A0:Pyreal
+811D6401:Chainmail Bracers
+C3626E1D:Stipend
+811D6407:Studded  Breastplate
+811D640C:Tenassa Breastplate
+811D640E:Spiked Club
+811D640F:Nabut
+811D6410:Nabut
+811D6411:Dirk
+811D6412:Flaming Claw
+811D6413:Trident
+811D6414:Flaming Jo
+811D6415:Celdon Breastplate
+811D6417:Yoroi Breastplate
+811D6418:Fiun Spellcasting Gloves
+811D6419:Covenant Bracers
+811D641A:Covenant Shield
+811D641B:Sollerets
+811D6423:Blackmoor's Favor
+811D641C:Platemail Pauldrons
+811D641D:Platemail Pauldrons
+811D641E:Platemail Girth
+811D641F:Platemail Vambraces
+811D6420:Platemail Hauberk
+811D6421:Imbued Shield of the Simulacra
+811D6422:Asheron's Benediction
+811D6428:Covenant Sollerets
+811D6429:Covenant Greaves
+811D642A:Covenant Tassets
+811D642B:Covenant Helm
+811D642C:Covenant Gauntlets
+811D642D:Covenant Bracers
+811D642E:Covenant Breastplate
+811D642F:Covenant Girth
+811D6430:Covenant Sollerets
+811D6431:Covenant Gauntlets
+811D6432:Covenant Tassets
+811D6433:Covenant Helm
+811D644B:Ice Heaume of Frore
+811D6434:Covenant Greaves
+811D6435:Covenant Helm
+811D6457:Gloves
+811D6436:Covenant Breastplate
+811D6437:Covenant Bracers
+811D6438:Covenant Breastplate
+811D643B:Buckler
+811D643C:Large Round Shield
+811D647E:Some Changes for February 2012
+811D643D:Large Round Shield
+811D643F:Scalemail Basinet
+811D6440:Large Round Shield
+811D6441:Chainmail Basinet
+811D6442:Scalemail Basinet
+811D6443:Large Round Shield
+811D6444:Large Round Shield
+811D6445:Chainmail Coif
+811D645D:Greater Olthoi Shield
+811D6446:Leather Helm
+811D6447:Chainmail Basinet
+811D6470:Diadem
+811D6449:Faran Robe with Hood
+811D644A:Littoral Siraluun Headdress
+811D644C:Amuli Coat
+811D644D:Amuli Coat
+811D644E:Amuli Coat
+811D644F:Amuli Coat
+811D6452:Amuli Coat
+811D6453:Amuli Leggings
+811D6454:Greater Amuli Shadow Leggings
+801B0BF3:Coalesced Aetheria
+811D6455:Greater Amuli Shadow Leggings
+811D6456:Leather Shorts
+811D6458:Scalemail Cuirass
+811D6459:Large Round Shield
+811D645A:Covenant Pauldrons
+811D645C:Covenant Pauldrons
+811D645E:Shirt
+811D645F:Covenant Shield
+811D6462:Blooded Platinum Invader Lord Helm
+811D6463:Sollerets
+811D6474:Gorget
+811D6464:Sollerets
+811D6465:Yoroi Girth
+811D6466:Salvaged  (100)
+811D646A:Sollerets
+811D646B:Covenant Breastplate
+811D646D:Scalemail Coif
+811D646E:Chainmail Breastplate
+811D646F:Chainmail Sleeves
+811D6471:Ring
+811D6481:Tofun
+811D6472:Kasa
+811D6473:Steel Toed Boots
+811D6477:Shirt
+811D647A:Ring
+811D647B:Koujia Sleeves
+811D647C:Covenant Tassets
+811D647D:Covenant Bracers
+82018B90:Coalesced Aetheria
+801B0BDC:Coalesced Aetheria
+801B0BED:Coalesced Aetheria
+801B0BE2:Coalesced Aetheria
+801B0BE8:Coalesced Aetheria
+801B0BE9:Coalesced Aetheria
+801B0BF2:Coalesced Aetheria
+801B0BF1:Coalesced Aetheria
+801B0BF0:Coalesced Aetheria
+801B0BDE:Coalesced Aetheria
+801B0BDD:Coalesced Aetheria
+801B0BEE:Coalesced Aetheria
+801B0BE5:Coalesced Aetheria
+801B0BE4:Coalesced Aetheria
+801B0BE3:Coalesced Aetheria
+801B0BE1:Coalesced Aetheria
+801B0BE0:Coalesced Aetheria
+801B0BDF:Coalesced Aetheria
+801B0BEF:Coalesced Aetheria
+801B0BE6:Coalesced Aetheria
+801B0BEA:Coalesced Aetheria
+801B0BEB:Coalesced Aetheria
+801B0C1D:Large Round Shield
+
+Missing Exports - Possessed items that were not found:

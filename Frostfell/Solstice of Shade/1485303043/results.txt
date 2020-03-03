@@ -1,0 +1,170 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Keith-Various-pcaps\Lin - Including Effigy Foundary.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\trello_datamining\1_Lin - Including Effigy Foundary.pcap
+
+Partial Exports - Missing appraisal info:
+DC959482:Massive Mana Charge
+DC959483:Massive Mana Charge
+DC959484:Massive Mana Charge
+DC959485:Massive Mana Charge
+DC959486:Massive Mana Charge
+DC959487:Massive Mana Charge
+DC959488:Massive Mana Charge
+DC959489:Massive Mana Charge
+DC95948A:Massive Mana Charge
+DC95948B:Massive Mana Charge
+DC959494:The Master Token
+DCBCD170:Pyreal
+DC9594A6:Colosseum Coin
+DC9594A8:Stipend
+DC959495:Shattered Aetherium Core Sample
+DC959496:Carapace Shard
+DC959497:Lady Tairla Mhoire's Signet Ring
+DC959498:Daimyo Nobanuga's Shattered Helm
+DC959499:Shattered Aetherium Core Sample
+DC95949A:Small Olthoi Venom Sac
+DC95949C:A'nekshay Token
+DC95949D:Ancient Mhoire Coin
+DC9594C4:Massive Mana Charge
+DC9594A0:Ancient Mhoire Coin
+DC9594A3:Ancient Mhoire Coin
+DC9594C5:Massive Mana Charge
+DC9594A4:Ancient Mhoire Coin
+DC9594C6:Massive Mana Charge
+DC9594C3:Colosseum Backpack
+DC9594C7:Massive Mana Charge
+DC9594C8:Massive Mana Charge
+DC9594C9:Massive Mana Charge
+DC9594CA:Massive Mana Charge
+DC9594CB:Massive Mana Charge
+DC9594CC:Massive Mana Charge
+DC9594CD:Massive Mana Charge
+DC9594CE:Massive Mana Charge
+DC9594CF:Massive Mana Charge
+DC9594D0:Massive Mana Charge
+DC9594D1:Massive Mana Charge
+DC9594D2:Massive Mana Charge
+DC9594D3:Massive Mana Charge
+DC9594D4:Massive Mana Charge
+DC9594D5:Massive Mana Charge
+DC9594D6:Massive Mana Charge
+DC9594D8:Ancient Mhoire Coin
+DC9594DF:Gladiator Diemos Token
+DC9594E1:Mana Scarab
+DC9594E2:Asheron's Lesser Benediction
+DC9594E3:Blackmoor's Favor
+DC9594E4:Amber Infused Honey
+DC9594E5:Brew Kettle
+DC9594E6:Encapsulated Spirit
+DC9594E7:Encapsulated Spirit
+DC9594E8:Prismatic Taper
+DC9594EC:Prismatic Taper
+DC9594ED:Society Gem of Dispelling
+DC9594EE:Prismatic Taper
+DC959504:Ust
+DC9594EF:Prismatic Taper
+DC9594F3:Perfect Isparian Wand
+DC9594F1:Acid Baton
+DC9594F2:Slashing Baton
+DCC42FBD:Pyreal
+DC9594F4:Enhanced Assault Orb
+DC9594F5:Burun Slaying Sceptre
+DC9594F6:Piercing Baton
+DC9594F7:Rynthid Tentacle Wand
+DC9594F8:Electric Baton
+DC9594F9:Frost Baton
+DC9594FA:Prismatic Taper
+DC9594FB:Prismatic Taper
+DC9594FC:Paradox-touched Olthoi Wand
+DC9594FF:Acid Baton
+DC959500:Arbitrator's Augmentation Token
+DC95950D:Corrupted Essence
+DC959502:Intricate Carving Tool
+DC95950E:Corrupted Essence
+DC959503:Splitting Tool
+DC959505:Frost Phyntos Swarm Essence
+DC959506:Volcanic Moar Essence
+DC959507:Fire Grievver Essence (180)
+DC959508:Electrified Moar Essence
+DC959509:Acid Moar Essence (180)
+DC95950A:Lightning Phyntos Wasp Essence (180)
+DC95950B:Frost Phyntos Wasp Essence (180)
+DC95950C:Blistering Moar Essence
+DC95950F:Trade Note (250,000)
+DC959510:Trade Note (250,000)
+DC959511:Trade Note (250,000)
+DC95951C:Burning Coal
+DC959512:Trade Note (250,000)
+DC959514:Trade Note (250,000)
+DC959532:Aetheria Mana Stone
+DCB5E1E8:Trade Note (250,000)
+DCBCD136:Trade Note (250,000)
+DC959541:Gladiator Diemos Token
+DCC42ED4:Trade Note (250,000)
+DC959542:Prismatic Taper
+DC959519:Society Gem of Dispelling
+DC95951A:Society Gem of Dispelling
+DC95951B:Chorizite
+DC95951D:Honeyed Life Mead
+DC95951E:Chorizite
+DC95951F:Slice of Royal Wedding Cake
+DC959520:Society Gem of Dispelling
+DC959521:Spectral Crystal of the Life Giver
+DC959522:Celestial Hand Stronghold Portal Gem
+DC959523:Celdiseth's Portal Gem
+DC959524:Spectral Crystal of the Hieromancer
+DC959525:Town Network Portal Gem
+DC959526:Society Gem of Dispelling
+DC959527:Luminous Crystal of Rare Damage Reduction V
+DC959528:Luminous Crystal of Rare Damage Reduction V
+DC95952B:Luminous Crystal of Vitality
+DC959529:Luminous Crystal of Rare Armor Damage Boost V
+DC95952A:Luminous Crystal of Rare Armor Damage Boost V
+DC9594B5:Thunder Chicken Token
+DC959533:Infused Amber Shard
+DC959534:Mana Infused Nightbloom
+DC959535:Life Infused Nightbloom
+DC959536:Vigor Infused Nightbloom
+DC959537:Acid Sceptre
+DC959538:Focusing Stone
+DC959539:Soul Bound Staff
+DC95953A:Corrupted Amber Shard
+DC95953B:Slashing Baton
+DC95953C:Fire Baton
+DC95953D:Celestial Hand Commendation Ribbon
+DC95953E:Fire Baton
+DC95953F:Ice Wand
+DC959540:Blunt Baton
+DC959544:Thorsten's Crystal
+DC959545:Medicated Health Kit
+DC959546:Lugian's Pearl
+DC959548:Covenant Bracers
+DC959549:Electric Crossbow
+DCB5B50E:Facility Hub Portal Gem
+DC8885E6:A Certificate of Permission
+DC6F48A5:A Bronze Key
+DCB68600:Promissory Note
+DC9594B6:Shard of the Curator of Torment's Mask
+DC95954A:Blunt Baton
+DC9594FD:Frost Sceptre
+DCC3022B:Lead Scarab
+DCC3022C:Iron Scarab
+DCC3022D:Copper Scarab
+DCC3022E:Silver Scarab
+DCC3022F:Gold Scarab
+DCC30230:Pyreal Scarab
+DCC30231:Platinum Scarab
+DCC30232:Prismatic Taper
+DCC30233:Prismatic Taper
+DCBCD0A4:Mana Scarab
+DCC41925:A'nekshay Token
+DCC1AEDA:A'nekshay Token
+DCBD75E8:A'nekshay Token
+DCC41926:A'nekshay Token
+DCC41927:A'nekshay Token
+DCC41928:A'nekshay Token
+DCC41929:A'nekshay Token
+
+Missing Exports - Possessed items that were not found:

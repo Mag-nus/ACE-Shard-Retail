@@ -1,0 +1,117 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-30_1485809453_log.pcap
+
+Partial Exports - Missing appraisal info:
+9CC764D4:Foci of Enchantment
+9CC764C4:Massive Mana Charge
+9CC764C3:Massive Mana Charge
+9CC764C2:Massive Mana Charge
+9CC764C1:Massive Mana Charge
+9CC7649F:Ust
+9CC764C6:Colosseum Backpack
+9CC764C0:Massive Mana Charge
+9CC764BF:Massive Mana Charge
+9CC764BE:Massive Mana Charge
+9CC764BD:Massive Mana Charge
+9CC764BC:Massive Mana Charge
+9CC764BB:Massive Mana Charge
+9CC764BA:Massive Mana Charge
+9CC764B9:Massive Mana Charge
+9CC764B8:Massive Mana Charge
+9CC764B7:Massive Mana Charge
+9CC764B6:Massive Mana Charge
+9CC764B5:Massive Mana Charge
+9CC764B4:Massive Mana Charge
+9CC764B3:Massive Mana Charge
+9CC764B2:Massive Mana Charge
+9CC764B1:Massive Mana Charge
+9CC764B0:Massive Mana Charge
+9CC764AF:Massive Mana Charge
+9CC764AE:Massive Mana Charge
+9CC764AD:Massive Mana Charge
+9CC764AC:Massive Mana Charge
+9CC764AB:Colosseum Backpack
+9CC764AA:Celestial Hand Trade Token
+9CC764A9:Coruscating Olthoi Scent Gland
+9CC764A8:Celestial Hand Trade Token
+9CC76434:Pyreal
+9CC76433:Pyreal
+9CC764A2:Society Gem of Dispelling
+9CC76432:Pyreal
+9CC764A1:Celestial Hand Commendation Ribbon
+9CC764A0:Ancient Mhoire Coin
+9CC7649C:Celestial Hand Trade Token
+9CC7649A:Trade Note (250,000)
+9CC76499:Trade Note (250,000)
+9CC76498:Trade Note (250,000)
+9CC76497:Colosseum Medallion of Honor
+9CC76494:Gold Scarab
+9CC76496:Celestial Hand Stronghold Portal Gem
+9CC76495:Colosseum Backpack
+9CC76493:Diamond Scarab
+9CC76491:Pyreal Scarab
+9CC76490:Chorizite
+9CC7648F:Aetheria Desiccant
+9CC7648E:Prismatic Taper
+9CC7648D:Silver Scarab
+9CC7648C:Copper Scarab
+9CC7648B:Prismatic Taper
+9CC7648A:Prismatic Taper
+9CC76488:Major Mana Stone
+9CC76487:Major Mana Stone
+9CC76486:Major Mana Stone
+9CC76485:Major Mana Stone
+9CC76484:Major Mana Stone
+9CC76483:Major Mana Stone
+9CC76482:Major Mana Stone
+9CC7642C:Pyreal
+9CC76481:Major Mana Stone
+9CC76480:Colosseum Backpack
+9CC76479:Glissnal Sleech Shell
+9CC7647A:Colosseum Backpack
+9CC76477:Glissnal Sleech Shell
+9CC76474:Glissnal Sleech Shell
+9CC76471:Glissnal Sleech Shell
+9CC76470:Glissnal Sleech Shell
+9CC7646E:Glissnal Sleech Shell
+9CC7646D:Glissnal Sleech Shell
+9CC7646B:Glissnal Sleech Shell
+9CC7646A:Glissnal Sleech Shell
+9CC76469:Glissnal Sleech Shell
+9CC76463:Glissnal Sleech Shell
+9CC76462:Glissnal Sleech Shell
+9CC76461:Ehlyis Sleech Shell
+9CC7645A:Major Mana Stone
+9CC76459:Major Mana Stone
+9CC76458:Major Mana Stone
+9CC76457:Major Mana Stone
+9CC76456:Major Mana Stone
+9CC76455:Major Mana Stone
+9CC7642B:Pyreal
+9CC76454:Major Mana Stone
+9CC76453:Major Mana Stone
+9CC76452:Major Mana Stone
+9CC76451:Major Mana Stone
+9CC76450:Colosseum Backpack
+9CC7644F:Massive Mana Charge
+9CC7644E:Massive Mana Charge
+9CC7644D:Massive Mana Charge
+9CC7644C:Colosseum Backpack
+9CC7644B:Blank Augmentation Gem
+9CC7644A:Blank Augmentation Gem
+9CC76449:Colosseum Coin
+9CC76448:Silver Pea
+9CC76440:Prismatic Taper
+9CC7643F:Prismatic Taper
+9CC7643E:Prismatic Taper
+9CC7643C:Prismatic Taper
+9CC7643B:Prismatic Taper
+9CC7643A:Prismatic Taper
+9CC76439:Prismatic Taper
+9CC76438:Platinum Scarab
+9CC76437:Platinum Scarab
+9CC76435:Mana Scarab
+9CC7642E:Gold Pea
+9CC7642A:Some Changes for February 2012
+
+Missing Exports - Possessed items that were not found:

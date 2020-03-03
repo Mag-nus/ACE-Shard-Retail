@@ -1,0 +1,124 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Asherons-Call-1\pkt_2017-1-31_1485860015_log.pcap
+
+Partial Exports - Missing appraisal info:
+C85B84BB:Head of the Homunculus
+9C45E14D:Pack
+80A71074:Eldrytch Web Tassets
+A0E6ED3D:Eldrytch Web Tassets
+808064EB:Eldrytch Web Tassets
+A7572A1E:Awakener
+9F569EB9:Eldrytch Web Tassets
+A8555AA8:Eldrytch Web Tassets
+80A71075:Eldrytch Web Greaves
+80A71076:Eldrytch Web Greaves
+800DBDDC:Amuli Leggings
+800DBDEC:Amuli Leggings
+80A3D47A:Eldrytch Web Vambraces
+808064ED:Eldrytch Web Vambraces
+9CAD98A1:Eldrytch Web Vambraces
+9CB77A01:Eldrytch Web Vambraces
+9C4C4F78:Armet
+AFCC871C:Eldrytch Web Vambraces
+AFB6EC35:Eldrytch Web Vambraces
+9C4D7354:Pack
+9CAD876F:Eldrytch Web Vambraces
+9C474BEC:Olthoi Amuli Helm
+9C4C4BCF:Calling Stone
+9C4C66F9:Nariyid Sleeves
+9C4C6701:Studded Leather Pauldrons
+8009F1BD:Platemail Tassets
+8009F1B1:Celdon Sleeves
+809E2852:Ursuin Hide Helmet
+8009F110:Apostate Grand Director's Mask
+80807809:Celdon Sleeves
+80999E0E:Nariyid Gauntlets
+81DF6025:Covenant Tassets
+9855E235:Olthoi Pauldrons
+80A7BAD7:Celdon Breastplate
+9C4D794C:Olthoi Alduressa Helm
+9C4C6747:Pauldrons
+9C4C675A:Studded Leather Bracers
+9C4C673E:Lorica Gauntlets
+80A3C021:Diforsa Greaves
+9C4D6953:Diforsa Girth
+800DBE1E:Scalemail Gauntlets
+80807800:Olthoi Celdon Leggings
+80A7106D:Platemail Girth
+816A0E9F:Covenant Bracers
+80A3C024:Sollerets
+80AB826F:Platemail Gauntlets
+808064E9:Amuli Coat
+808064EA:Amuli Leggings
+885EA6D5:Cloth Gloves
+80A3BF68:Olthoi Celdon Leggings
+8009F1B9:Platemail Gauntlets
+9897EEF8:Olthoi Bracers
+9C473DCC:Scalemail Coif
+80AB82AF:Olthoi Koujia Breastplate
+9C4D6959:Chainmail Tassets
+9C4D5B56:Yoroi Greaves
+9C4D798D:Lorica Helm
+9C48F85C:Platemail Cuirass
+808064EE:Yoroi Greaves
+80AB8271:Helmet
+9C45EA25:Pack
+9C4D6A6E:Blackmoor's Favor
+800DBE1B:Enhanced Red Empyrean Ring
+9C4D6912:Pack
+808064FB:Enhanced Red Empyrean Ring
+808077E5:Enhanced Red Empyrean Ring
+C31708B6:Eldrytch Web Girth
+C31708B8:Eldrytch Web Girth
+C3140220:Eldrytch Web Girth
+C31702B3:Eldrytch Web Girth
+8A08871F:Celdon Leggings
+8A08872C:Celdon Sleeves
+8A088724:Celdon Breastplate
+8A08872E:Chiran Gauntlets
+BABBD6C8:Celdon Leggings
+9855E22F:Sollerets
+89CD209D:Chainmail Pauldrons
+800DBDDD:Celdon Leggings
+9855E231:Celdon Leggings
+89D1E495:Knorr Academy Greaves
+89CD20BE:Celdon Girth
+80807807:Nexus Crawler's Mask
+816A0EBE:Celdon Leggings
+BABBD6CD:Celdon Sleeves
+BABBD6F7:Pants
+8080780A:Chainmail Gauntlets
+8009F1BA:Sollerets
+800DBDF4:Pantaloons
+A70AB70E:Leather Girth
+80807808:Olthoi Koujia Sleeves
+A3C6A387:Celdon Leggings
+9897EF05:Olthoi Bracers
+9897EEFA:Baggy Pants
+CCC86AF7:Olthoi Koujia Gauntlets
+9855E233:Celdon Sleeves
+CD299469:Platinum Medal of Vigor
+CD274B8B:Platinum Medal of Intellect
+CD298AA0:Platinum Horn of Leadership
+CD290570:Silver Horn of Leadership
+8009F10E:Imbue Swap Coin
+CDDECA64:Silver Horn of Leadership
+CDDECA65:Platinum Horn of Leadership
+8AF0E240:Celdon Sleeves
+9899761C:Black Thistle
+8009F105:Fire Staff
+80806489:Branith's Staff
+808064EF:Sollerets
+81DF5FF8:Amuli Leggings
+C480FAE3:Volcanic Moar Essence
+9936CE0E:Black Thistle
+C94A449E:Orb of the Ironsea
+D5706955:Sollerets
+9897EF0C:Sollerets
+9855E23B:Bracelet
+D57068A9:Bracelet
+D57068A2:Chainmail Greaves
+D570689F:Chainmail Bracers
+9897EF06:Celdon Sleeves
+
+Missing Exports - Possessed items that were not found:

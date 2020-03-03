@@ -1,0 +1,156 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\gdrive (tfarley)\Eichy\AC\pkt_2017-1-30_1485826049_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\gdrive (tfarley)\Eichy\AC\pkt_2017-1-30_1485825299_log.pcap
+
+Partial Exports - Missing appraisal info:
+DCD0CDA4:Pack
+DCD0CDA3:Yew Talisman
+DCD0CDB7:Blue Taper
+DCD0CDA2:Lead Scarab
+DCD0E2B0:Iron Scarab
+DCD0CDA5:Hazel Talisman
+DCCD707D:Willow Talisman
+DCD0D117:Rowan Talisman
+DCD0D116:Cedar Talisman
+DCD0D115:Alder Talisman
+DCD0D114:Verdigris
+DCD0D113:Yarrow
+DCD0D112:Ashwood Talisman
+DCD0D111:Pyreal Scarab
+DCD0D118:Cobalt
+DCD08B90:Saffron
+DCD0D297:Gypsum
+DCCD6EAD:Stibnite
+DCD0CDB9:Turpeth
+DCD0CDBC:Vitriol
+DCCD6F0C:Silver Scarab
+DCD0CDB5:Powdered Turquoise
+DCD0C19B:Quicksilver
+DCD0CDA6:Turquoise Taper
+DCD0DCA1:Gold Scarab
+DCD0D10C:Pack
+DCD0D10B:Brimstone
+DCD0D10A:Blackthorn Talisman
+DCD0D109:Powdered Hematite
+DCD13804:White Taper
+DCD0D108:Mandrake
+DCD0D107:Dragonsblood
+DCD0CEC7:Grey Taper
+DCD0D106:Powdered Amber
+DCD0D105:Cinnabar
+DCD13873:Red Taper
+DCD0D104:Powdered Malachite
+DCD0D10D:Powdered Onyx
+DCD0D9A3:Pink Taper
+DCCFD2DF:Colcothar
+DCCD6EED:Violet Taper
+DCD19F12:Green Taper
+DCCD700C:Indigo Taper
+DCCD708D:Comfrey
+DCD0C1B6:Copper Scarab
+DCD0C1F8:Orange Taper
+DCD137FF:Yellow Taper
+DCD0C199:Hyssop
+DCD0C19A:Trade Note (1,000)
+DCD0D0FE:Hearty Mana Hot Kimchi
+DCD0D0FC:Parchment
+DCD0D0FD:Trade Note (500)
+DCD0D0FF:Tome
+C4B03909:Bandit Rune Transcription
+DCD19A81:Pack
+DCD13803:Orb
+DCD19E3C:Wand
+DCD09BEE:The Wedding Guide
+DCD0C1BA:Wand
+DCD13805:Ring
+DCD0C1FA:Orb
+DCD0AD53:Orb
+DCCEF9D9:Gloves
+DCCEE830:Gloves
+DCD1E8B4:Breeches
+DCD1E91B:Gloves
+DCC4987C:Gloves
+DCC499AC:Shoes
+DCC499AB:Pants
+DCC499DE:Staff
+DCC499B0:Stone Tool
+DCCBA3E5:Pyreal
+DCD19E3B:Faran Robe
+DCD28556:Sollerets
+DCD09E35:Pack
+DCD19E3A:Goblet
+DCD1E952:Goblet
+DCD1A0F5:Goblet
+DCCFCFB5:Cocoa Mixture
+DCD090A1:Ring
+DCD1E8B3:Staff
+DCD0C21F:Ring
+DCD0A66C:Carving Knife
+DCD08B36:Brown Taper
+DCD1253D:Staff
+DCD1E954:Platemail Girth
+DCD1A116:Ring
+DCCFCCD6:Major Stinging Stone
+DCD1A126:Major Shivering Stone
+DCCF0F55:Major Sparking Stone
+DCD1A209:Shirt
+DCCFCA6A:Staff
+DCD0C21C:Pyreal
+DCCDFFF5:Yellow Taper
+DCD19B4E:Copper Scarab
+DCD08F62:Comfrey
+DCD09FFE:Powdered Malachite
+DCD0A326:Intricate Carving Tool
+DCD12867:Iron Heart
+DCD09FFD:Gelidite Robe
+DCD12831:Iron Heart
+DCD12830:Impious Staff
+DCCFC5F7:Staff
+DCD1A2CA:Trade Note (10,000)
+DCD0C220:Suikan War Master Robe
+DCCFC5F8:Berimphur Plant
+DCD0D0E6:Gifted Healing Kit
+DCD05453:Pack Ancient Olthoi Queen
+DCD09BED:Hollow Sword
+DCD0CF92:Chainmail Gauntlets
+DCD0CFA0:Ravenous Sword
+DCCEF9DE:Amulet
+DCD12868:Health Draught
+DCD0D0E9:Sollerets
+DCD1A11C:Greater Amuli Shadow Coat
+DCD0D0EA:Greater Amuli Shadow Leggings
+DCD0D0E8:Ring
+DCD0D0E7:Gorget
+DCD0D0E5:Gifted Healing Kit
+DCD0D0E4:Gifted Healing Kit
+DCD0D0E3:Gifted Healing Kit
+DCD0D0EB:Gifted Healing Kit
+DCD0F77F:Gifted Healing Kit
+DCD1A2C8:Gifted Healing Kit
+DCCEF9E1:Gifted Healing Kit
+DCD0A493:Gifted Healing Kit
+DCD1A2D0:Gifted Healing Kit
+DCD0CDF5:Gifted Healing Kit
+DCD0CDF4:Gifted Healing Kit
+DCD0CDF3:Gifted Healing Kit
+DCD0CDF2:Gifted Healing Kit
+DCD0CDF1:The Temple of Forgetfulness
+DCD0CDF6:A Note From Ciandra
+DCD1A2C9:Breeches
+DCD1E749:Chainmail Gauntlets
+DCD0C243:Shirt
+DCCDAC2B:The Temple of Enlightenment
+DCD0CDEC:A Note From Ciandra
+DCD0CDEB:Bracelet
+DCD0CDEA:Wand
+DCD0CDE9:Staff
+DCD0CDED:Peerless Sparking Atlan Sword
+DCCFC89C:Sturdy Iron Key
+DCD08B45:Some Changes for February 2012
+DCD0A9A8:Blackmoor's Favor
+DCCDB508:Orb
+DCD0C0CB:Sword of Lost Light
+
+Missing Exports - Possessed items that were not found:

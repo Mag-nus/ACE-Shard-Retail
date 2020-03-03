@@ -1,0 +1,109 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Cyberkiller-01-31-2017-Random\pkt_2017-1-31_1485862412_log.pcap
+
+Partial Exports - Missing appraisal info:
+DD30F556:Pack
+DD30F555:Powdered Moonstone
+DD30F548:Pack
+DD30F554:Powdered Quartz
+DD30F553:Powdered Carnelian
+DD30F547:Violet Taper
+DD30F552:Powdered Malachite
+DD30F551:Powdered Hematite
+DD30F546:Green Taper
+DD30F550:Powdered Turquoise
+DD30F54F:Powdered Agate
+DD30F545:Indigo Taper
+DD30F54E:Powdered Onyx
+DD30F54D:Powdered Carnelian
+DD30F544:Blue Taper
+DD30F54C:Powdered Bloodstone
+DD30F54B:Powdered Malachite
+DD30F4EF:Pyreal
+DD30F54A:Powdered Hematite
+DD30F549:Powdered Amber
+DD30F543:Yellow Taper
+DD30F542:Pink Taper
+DD30F541:Turquoise Taper
+DD30F540:Turquoise Taper
+DD30F53F:White Taper
+DD30F53E:Grey Taper
+DD30F53D:Brown Taper
+DD30F53C:Grey Taper
+DD30F53B:Pink Taper
+DD30F53A:Orange Taper
+DD30F539:Pack
+DD30F538:Cedar Talisman
+DD30F537:Ashwood Talisman
+DD30F536:Yew Talisman
+DD30F535:Poplar Talisman
+DD30F534:Hemlock Talisman
+DD30F533:Birch Talisman
+DD30F532:Ebony Talisman
+DD30F531:Hazel Talisman
+DD30F530:Blackthorn Talisman
+DD30F52F:Rowan Talisman
+DD30F52E:Willow Talisman
+DD30F52D:Alder Talisman
+DD30F52C:Elder Talisman
+DD30F52B:Oak Talisman
+DD30F52A:Pack
+DD30F529:Colcothar
+DD30F528:Cinnabar
+DD30F527:Cadmia
+DD30F526:Quicksilver
+DD30F524:Gypsum
+DD30F525:Turpeth
+DD30F523:Cobalt
+DD30F522:Brimstone
+DD30F521:Vitriol
+DD30F520:Verdigris
+DD30F519:Cobalt
+DD30F51F:Stibnite
+DD30F51E:Realgar
+DD30F518:Cadmia
+DD30F51D:Quicksilver
+DD30F51C:Vitriol
+DD30F515:Pack
+DD30F51B:Realgar
+DD30F51A:Verdigris
+DD30F512:Myrrh
+DD30F517:Cinnabar
+DD30F516:Stibnite
+DD30F504:Splitting Tool
+DD30F514:Saffron
+DD30F513:Dragonsblood
+DD30F511:Eyebright
+DD30F510:Mugwort
+DD30F503:Pack
+DD30F50F:Ginseng
+DD30F50E:Yarrow
+DD30F502:Pack
+DD30F50D:Comfrey
+DD30F50C:Wormwood
+DD30F4FF:Diamond Scarab
+DD30F50B:Mandrake
+DD30F50A:Damiana
+DD30F4FE:Platinum Scarab
+DD30F509:Saffron
+DD30F508:Hawthorn
+DD30F4FA:Moderate Mana Charge
+DD30F507:Ginseng
+DD30F506:Comfrey
+DD30F4F9:Copper Scarab
+DD30F505:Hyssop
+DD30F500:Chorizite
+DD30F4FD:Chorizite
+DD30F4F8:Pyreal Scarab
+DD30F4F7:Gold Scarab
+DD30F4F6:Iron Scarab
+DD30F4F5:Silver Scarab
+DD30F4F4:Lead Scarab
+DD30F4E7:Scrawled Note
+DD30F4E6:Yew Pea
+DD30F4E5:Powdered Turquoise Pea
+DD30F4E1:Pyreal
+DD30F4E2:Trade Note (10,000)
+DD30F4DF:Some Changes for February 2012
+
+Missing Exports - Possessed items that were not found:

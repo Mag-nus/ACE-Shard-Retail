@@ -1,0 +1,66 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (2856615628, 7406, 1, 7524673) /* Generic */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (2856615628,   1,          8) /* ItemType - Jewelry */
+     , (2856615628,   5,         15) /* EncumbranceVal */
+     , (2856615628,   9,     786432) /* ValidLocations - FingerWear */
+     , (2856615628,  16,          1) /* ItemUseable - No */
+     , (2856615628,  18,          1) /* UiEffects - Magical */
+     , (2856615628,  19,       3798) /* Value */
+     , (2856615628,  33,          1) /* Bonded - Bonded */
+     , (2856615628,  65,        101) /* Placement - Resting */
+     , (2856615628,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (2856615628, 106,        150) /* ItemSpellcraft */
+     , (2856615628, 107,        281) /* ItemCurMana */
+     , (2856615628, 108,        374) /* ItemMaxMana */
+     , (2856615628, 109,        150) /* ItemDifficulty */
+     , (2856615628, 115,        170) /* ItemSkillLevelLimit */
+     , (2856615628, 176,         31) /* AppraisalItemSkill */
+     , (2856615628, 9015,         60) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (2856615628,   1, False) /* Stuck */
+     , (2856615628,  11, True ) /* IgnoreCollisions */
+     , (2856615628,  13, True ) /* Ethereal */
+     , (2856615628,  14, True ) /* GravityStatus */
+     , (2856615628,  19, True ) /* Attackable */
+     , (2856615628,  22, True ) /* Inscribable */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (2856615628,   5,  -0.033) /* ManaRate */
+     , (2856615628,  39,     0.5) /* DefaultScale */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (2856615628,   1, 'Ring of the Watchman') /* Name */
+     , (2856615628,   7, 'From the clutches of Lady Aerfalle by: Kurse, Robz, Organic Ballz, Kementari, Fragma, Avtar, Flichter II, Conjurer R, oh yeah and Brently =]') /* Inscription */
+     , (2856615628,   8, 'Kurse') /* ScribeName */
+     , (2856615628,  16, 'A small ring of pale silver, taken from the finger of a petrified skeleton on Aerlinthe Island.') /* LongDesc */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (2856615628,   1,   33554691) /* Setup */
+     , (2856615628,   3,  536870932) /* SoundTable */
+     , (2856615628,   6,   67111919) /* PaletteBase */
+     , (2856615628,   8,  100670751) /* Icon */
+     , (2856615628,  22,  872415275) /* PhysicsEffectTable */
+     , (2856615628, 8001,    2179224) /* PCAPRecordedWeenieHeader - Value, Usable, UiEffects, Container, ValidLocations, Burden */
+     , (2856615628, 8003,         18) /* PCAPRecordedObjectDesc - Inscribable, Attackable */
+     , (2856615628, 8005,     137345) /* PCAPRecordedPhysicsDesc - CSetup, ObjScale, STable, PeTable, AnimationFrame */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (2856615628,   1, 1342233731) /* Owner */
+     , (2856615628,   2, 1342233731) /* Container */
+     , (2856615628, 8000, 2856615628) /* PCAPRecordedObjectIID */;
+
+INSERT INTO `biota_properties_spell_book` (`object_Id`, `spell`, `probability`)
+VALUES (2856615628,   833,      2) 
+     , (2856615628,   859,      2) ;
+
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
+VALUES (2856615628, 67111924, 0, 0);
+
+INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
+VALUES (2856615628, 0, 83889680, 83889680, 0);
+
+INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, `order`)
+VALUES (2856615628, 0, 16778344, 0);

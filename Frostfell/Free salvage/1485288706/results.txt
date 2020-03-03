@@ -1,0 +1,24 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-24_1485277486_log.pcap
+
+Partial Exports - Missing appraisal info:
+DCB92EDF:Pyreal
+DCB92EDC:Flared Tunic
+DCB92EDD:Flared Pants
+DCB92EE1:Ust
+DCB92EDE:Shoes
+DCB92EE0:Sack
+DCB92EE2:Calling Stone
+DCB92EE3:Pathwarden Token
+DCB92EE6:Arrow
+DCB92EE5:Training Shortbow
+DCB92EE7:Training Wand
+DCB92EEC:Letter From Home
+DCB92EE8:Round Shield
+DCB92EE9:Foci of Artifice
+DCB92EEA:Prismatic Taper
+DCB92EEB:Lead Scarab
+DCB92EED:Apple
+DCBD8F4E:Asheron's Benediction
+
+Missing Exports - Possessed items that were not found:

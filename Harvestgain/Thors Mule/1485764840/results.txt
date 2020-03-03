@@ -1,0 +1,50 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485764792_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps-20170203071513\pkt_2017-1-25_1485363128_log.pcap
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps-20170203071513\pkt_2017-1-26_1485458004_log.pcap
+
+Partial Exports - Missing appraisal info:
+801AEF75:Ust
+801AEF71:Splitting Tool
+801AEFCE:Brawler's Crystal
+801AEFE4:Observer's Crystal
+801AEFD1:Converter's Crystal
+801AEFCF:Dodger's Crystal
+801AEF8E:Ben Ten's Crystal
+B62C0F12:Gem of Purity
+801AEFD8:Pyreal
+B623AFC8:Gem of Stillness
+B51D7AB5:Gem of Stillness
+B34FBCDD:Gem of Stillness
+801AEF77:Singularity Caul Asylum
+801AEF78:Shadow Lugian Stronghold Portal Gem
+801AEF79:Shadow Lugian Stronghold Portal Gem
+801AEF7A:Shadow Lugian Stronghold Portal Gem
+801AEF7B:Corcima Castle Platinum Ward Portal Gem
+801AEF7C:Abandoned Mines Portal Sending Gem
+801AEF7F:Resting Place
+B4D03F50:Greater Mana Stone
+801AEF80:Dansha-Ki's Gem of Portal Recall
+801AEF6E:Facility Hub Portal Gem
+801AEF91:Prismatic Taper
+801AEF92:Lead Scarab
+801AEF93:Silver Scarab
+801AEFA3:Shoyanen's Portal Gem
+8AB47E7B:Prismatic Taper
+8AB4D381:Gold Scarab
+8AB4AE79:Copper Scarab
+8AB10DB9:Pyreal Scarab
+8AB4DE16:Platinum Scarab
+B6454887:Aphus Lassel Portal Gem
+801AEFE5:Foci of Artifice
+896930CD:Flaming Morning Star
+B62DED73:Foci of Verdancy
+B62DE79A:Foci of Enchantment
+B62D7AFC:Knight's Crystal
+C8120486:Hunter's Crystal
+C812CD44:Trade Note (250,000)
+C8123EB0:Trade Note (50,000)
+
+Missing Exports - Possessed items that were not found:

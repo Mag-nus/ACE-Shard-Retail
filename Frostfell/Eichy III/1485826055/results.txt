@@ -1,0 +1,83 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\gdrive (tfarley)\Eichy\AC\pkt_2017-1-30_1485826049_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\gdrive (tfarley)\Eichy\AC\pkt_2017-1-30_1485825299_log.pcap
+
+Partial Exports - Missing appraisal info:
+DCD432AC:Trousers
+DCD432AD:Shoes
+DCD432AE:Pack
+DCD432AF:Ken
+DCD432B0:Oswald's Throwing Dagger
+DCD432B1:Yumi
+DCD432B2:Asmolum's Throwing Dagger
+DCD432B3:Yumi
+DCD432B4:Aerlinthe Monarch Shirt
+DCD432E9:Book
+DCD432B5:Pack
+DCD432B6:Yoroi Girth
+DCD432B7:Superior Helmet
+DCD432B8:Large Round Shield
+DCD432B9:Buckler
+DCD432C0:Pack
+DCD432BA:Yoroi Sleeves
+DCD432BB:Yoroi Leggings
+DCD432C1:Pack
+DCD432BC:Platemail Girth
+DCD432BD:Yoroi Breastplate
+DCD432EA:Scroll of Primary Portal Tie
+DCD432BE:Large Kite Shield
+DCD432BF:Chainmail Leggings
+DCD432E8:Seal
+DCD432C2:Staff
+DCD432C3:Sceptre
+DCD432C4:Sho Wand
+DCD432C5:Wand
+DCD432C6:Orb
+DCD432C8:Pack
+DCD432C7:Staff
+DCD432C9:Fez
+DCD432CA:Shoes
+DCD432CB:Gloves
+DCD432CC:Kasa
+DCD432CD:Cap
+DCD432CE:Slippers
+DCD432CF:Kireth Gown with Band
+DCD432D0:Jerkin
+DCD432D1:Fez
+DCD432D5:Pack
+DCD432D2:Gloves
+DCD432D3:Tunic
+DCD432DE:Pack
+DCD432D4:Fez
+DCD432D6:Heavy Bracelet
+DCD432D7:Amulet
+DCD432D8:Bracelet
+DCD432D9:Gorget
+DCD432DA:Necklace
+DCD432DB:Ring
+DCD432DC:Gorget
+DCD432DD:Ring
+DCD432DF:Ring
+DCD432E0:Shoes
+DCD432E1:Metal Cap
+DCD432E2:Gorget
+DCD432E3:Ring
+DCD432E4:Ring
+DCD432E5:Ring
+DCD432E6:Ring
+DCD432E7:Argenory Plant
+DCD432EB:Whittling Knife
+DCD432EC:Aluvian Wand
+DCD432ED:Aluvian Wand
+DCD432EE:Gharu'ndim Wand
+DCD432EF:Dagger
+DCD432F0:Lightning Tachi
+DCD432F1:Faran War Master Robe
+DCD432F2:Drudge Mask
+DCD432F3:Jo
+DCD432F4:Platemail Breastplate
+DCD432F5:Pack Levistras
+
+Missing Exports - Possessed items that were not found:

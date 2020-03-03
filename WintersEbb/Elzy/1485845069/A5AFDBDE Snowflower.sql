@@ -1,0 +1,37 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (2779765726, 22837, 1, 2150720) /* Generic */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (2779765726,   1,        128) /* ItemType - Misc */
+     , (2779765726,   5,         10) /* EncumbranceVal */
+     , (2779765726,  16,          1) /* ItemUseable - No */
+     , (2779765726,  19,        100) /* Value */
+     , (2779765726,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (2779765726, 151,          8) /* HookType - Yard */
+     , (2779765726, 9015,          2) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (2779765726,   1, False) /* Stuck */
+     , (2779765726,  11, True ) /* IgnoreCollisions */
+     , (2779765726,  13, True ) /* Ethereal */
+     , (2779765726,  14, True ) /* GravityStatus */
+     , (2779765726,  19, True ) /* Attackable */
+     , (2779765726,  22, True ) /* Inscribable */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (2779765726,  39,     1.5) /* DefaultScale */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (2779765726,   1, 'Snowflower') /* Name */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (2779765726,   1,   33558159) /* Setup */
+     , (2779765726,   8,  100673926) /* Icon */
+     , (2779765726, 8001,  270549016) /* PCAPRecordedWeenieHeader - Value, Usable, Container, Burden, HookType */
+     , (2779765726, 8003,         18) /* PCAPRecordedObjectDesc - Inscribable, Attackable */
+     , (2779765726, 8005,        129) /* PCAPRecordedPhysicsDesc - CSetup, ObjScale */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (2779765726,   1, 2779765704) /* Owner */
+     , (2779765726,   2, 2779765704) /* Container */
+     , (2779765726, 8000, 2779765726) /* PCAPRecordedObjectIID */;

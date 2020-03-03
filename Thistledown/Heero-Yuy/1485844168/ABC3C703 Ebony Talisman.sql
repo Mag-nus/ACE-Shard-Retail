@@ -1,0 +1,47 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (2881734403, 744, 32, 6472001) /* SpellComponent */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (2881734403,   1,       4096) /* ItemType - SpellComponents */
+     , (2881734403,   5,        168) /* EncumbranceVal */
+     , (2881734403,  11,        100) /* MaxStackSize */
+     , (2881734403,  12,         42) /* StackSize */
+     , (2881734403,  16,          1) /* ItemUseable - No */
+     , (2881734403,  19,        210) /* Value */
+     , (2881734403,  65,        101) /* Placement - Resting */
+     , (2881734403,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (2881734403, 9015,          4) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (2881734403,   1, False) /* Stuck */
+     , (2881734403,  11, True ) /* IgnoreCollisions */
+     , (2881734403,  13, True ) /* Ethereal */
+     , (2881734403,  14, True ) /* GravityStatus */
+     , (2881734403,  19, True ) /* Attackable */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (2881734403,   1, 'Ebony Talisman') /* Name */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (2881734403,   1,   33555207) /* Setup */
+     , (2881734403,   3,  536870932) /* SoundTable */
+     , (2881734403,   6,   67111919) /* PaletteBase */
+     , (2881734403,   8,  100669709) /* Icon */
+     , (2881734403,  22,  872415275) /* PhysicsEffectTable */
+     , (2881734403, 8001,    2125848) /* PCAPRecordedWeenieHeader - Value, Usable, StackSize, MaxStackSize, Container, Burden */
+     , (2881734403, 8003,         16) /* PCAPRecordedObjectDesc - Attackable */
+     , (2881734403, 8005,     137217) /* PCAPRecordedPhysicsDesc - CSetup, STable, PeTable, AnimationFrame */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (2881734403,   1, 2881734457) /* Owner */
+     , (2881734403,   2, 2881734457) /* Container */
+     , (2881734403, 8000, 2881734403) /* PCAPRecordedObjectIID */;
+
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
+VALUES (2881734403, 67111921, 0, 0);
+
+INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
+VALUES (2881734403, 0, 83890069, 83890069, 0);
+
+INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, `order`)
+VALUES (2881734403, 0, 16780687, 0);

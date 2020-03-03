@@ -1,0 +1,182 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-05-2017\pkt_2017-1-22_1485109544_desc\pkt_2017-1-22_1485109544_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-05-2017\pkt_2017-1-22_1485109544_desc\pkt_2017-1-22_1485109363_log.pcap
+
+Partial Exports - Missing appraisal info:
+C7C9DB47:Pack
+C7C9DB48:Silver Scarab
+C7C9DB49:Lead Scarab
+C7C9DB4A:Copper Scarab
+C7C9DB4B:Gold Scarab
+C7C9DB4C:Diamond Scarab
+C7C9DB4D:Pyreal Scarab
+C7C9DB4E:Heart of the Innocent
+C7C9DB4F:Prismatic Taper
+C7C9DB50:Kite Shield
+C7C9DB51:Lancet
+C7C9DB52:Health Philtre
+C7C9DB54:Gem
+C7C9DB55:Gem
+C7C9DB57:Scroll of Icy Boon
+C7C9DB56:Chalice
+C7C9DB58:Dirk
+C7C9DB59:Moderate Mana Stone
+C7C9DB5A:Gem
+C7C9DB5B:Scroll of Vigor Siphon
+C7C9DB5C:Aura of Infected Spirit Caress Scroll
+C7C9DB5D:Gem
+C7C9DB5E:Tunic
+C7C9DB5F:Gorget
+C7C9DB60:Foci of Enchantment
+C7C9DB61:Foci of Artifice
+C7C9DB62:Pack
+C7C9DB63:Ornamental Bowl
+C7C9DB64:Ornamental Bowl
+C7C9DB67:Book
+C7C9DB65:Bracelet
+C7C9DB66:Lightweight Tome
+C7C9DB68:Ewer
+C7C9DB69:Heavy Bracelet
+C7C9DB6A:Crown
+C7C9DB6F:Gem
+C7C9DB6B:Wand
+C7C9DB6C:Sceptre
+C7C9DB70:Stamina Tonic
+C7C9DB6E:Wand
+C7C9DB90:Major Mana Stone
+C7C9DB71:Lightning Ken
+C7C9DB73:Pyreal Nugget
+C7C9DB7C:Letter to Balthazar
+C7C9DB76:Studded Leather Shirt
+C7C9DB77:Baggy Pants
+C7C9DB78:Blunt Atlatl
+C7C9DB79:Koujia Sleeves
+C7C9DB99:Ust
+C7C9DB7A:Tenassa Leggings
+C7C9DB7B:Foci of Verdancy
+C7C9DB80:Pack
+C7C9DB7D:Jaleh's Necklace
+C7C9DB7E:White Fire Infusion
+C7C9DB84:Twisted Dark Key
+C7C9DB7F:Blue Fire Infusion
+C7C9DB81:Virindi Singularity Key
+C7C9DB82:Virindi Singularity Key
+C7C9DB83:Asylum Chest Key
+C7C9DB85:Twisted Dark Key
+C7C9DB86:Mangled Dark Key
+C7C9DB87:Mangled Dark Key
+C7C9DB88:Virindi Singularity Key
+C7C9DB89:Pyreal Mote
+C7C9DB8A:Twisted Dark Key
+C7C9DB8B:Sturdy Steel Key
+C7C9DB8C:Sturdy Iron Key
+C7C9DB8D:Tunic
+C7C9DB8E:Dinner Plate
+C7C9DB94:Superb Lockpick
+C7C9DB8F:Gorget
+C7C9DB91:Ring
+C7C9DB93:Ring
+C7C9DB95:Dinner Plate
+C7C9DB96:Gem
+C7C9DB97:Flagon
+C7C9DB98:Ring
+C7C9DB9A:Pack
+C7C9DB9B:Ring
+C7C9DB9C:Ring
+C7C9DB9D:Orb
+C7C9DB9E:Ring
+C7C9DB9F:Heavy Necklace
+C7C9DBA0:Staff
+C7C9DBA1:Chalice
+C7C9DBA2:Heavy Bracelet
+C7C9DBA5:Scroll of Eradicate Life Magic Other
+C7C9DBA3:Ornamental Bowl
+C7C9DBA4:Orb
+C7C9DBAD:Scarlet Red Letter
+C7C9DBA6:Leather Pants
+C7C9DBA7:Gem
+C7C9DBA8:Gorget
+C7C9DBA9:Stiletto
+C7C9DBAA:Steel Toed Boots
+C7C9DBD3:Charged Shard
+C7C9DBAB:Electric Naginata
+C7C9DBAC:Mana Elixir
+C7C9DBB2:Scroll of Robustification
+C7C9DBAE:Lightning K'nath Essence (50)
+C7C9DBAF:Chainmail Hauberk
+C7C9DBB0:Fletcher's Crystal
+C7C9DBB1:Goblet
+C7C9DC08:Pyreal
+C7C9DBB3:Salvaged  (20)
+C7C9DBB4:Red Fire Infusion
+C7C9DBC6:Pyreal Forge Bellows
+C7C9DBB5:Asheron's Supreme Raiment
+C7C9DBB6:Aerfalle's Supreme Pallium
+C7C9DBB7:Verdalim Plant
+C7C9DBB8:Lapyan Plant
+C7C9DBB9:Pyreal Pea
+C7C9DBBA:Helmet
+C7C9DBBB:Dark Ruby Ring
+C7C9DBBC:Renegade Stone Clasp
+C7C9DBBD:Yellow Jewel
+C7C9DBBE:Ancient Armored Vestment
+C7C9DBC0:Soul Stone
+C7C9DBBF:Ancient Armored Bracers
+C7C9DBC1:Diamond Heart
+C7C9DBC2:Pyreal Sliver
+C7C9DBC4:Small Shard
+C7C9DBC5:Energy Crown
+C7C9DBC7:Deadly Blunt Arrow
+C7C9DBC8:Heavy Necklace
+C7C9DBCF:Scroll of Sizzling Fury
+C7C9DBC9:Electric Sceptre
+C7C9DBD1:Dark Shard
+C7C9DBCB:Electric Sceptre
+C7C9DBCC:Sezzherei's Lair
+C7C9DBD2:Ivory Gromnie Wings
+C7C9DBCE:Salvaged  (6)
+C7C9DBD4:Twisted Dark Key
+C7C9DBD0:Piercing Sceptre
+C7C9DBD5:Platinum Scarab
+C7C9DBD7:Orb
+C7C9DBD6:Amuli Leggings
+C7C9DBD8:Treated Healing Kit
+C7C9DBDA:Olthoi Helm
+C7C9DBDC:Tachi
+C7C9DBDD:Lightning Tachi
+C7C9DBDF:Phantom Sword
+C7C9DBE3:Deadly Chorizite Arrow
+C7C9DBE4:Holiday Lights
+C7C9DBE5:Holiday Lights
+C7C9DBE7:Head of the Olthoi Queen
+C7C9DBEB:Atlatl
+C7C9DBEE:Gem
+C7C9DBEF:Shoes
+C7C9DBF2:Heavy Bracelet
+C7C9DBF3:Turban
+C7C9DBF4:Scroll of Boon of the Arrow Turner
+C7C9DBF6:Agent of Arcanum List
+C7C9DBF7:Adventurer's warning
+C7C9DBF8:Silver Pea
+C7C9DBF9:Major Mana Stone
+C7C9DBFE:Renegade Bow
+C7C9DC01:Focusing Stone
+C7C9DC02:Some Changes for February 2012
+C7C9DC03:Blackmoor's Favor
+C7C9DC05:Sword of Lost Hope
+C7C9DC09:Prismatic Taper
+C7C9DC0A:Sanguinary Aegis
+C7C9DC0E:Sceptre
+C7C9DC0F:Heavy Bracelet
+C7C9DC11:Chalice
+C7C9DC1C:Scroll of Astyrrian's Bane
+C7C9DC13:Ring
+C7C9DC14:Ornamental Bowl
+C7C9DC16:Orb
+C7C9DC17:Frost Stick
+C7C9DC19:Cloth Gloves
+C7C9DC1A:Koujia Sleeves
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,69 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-30-2017-HuntNearGreenvaleSettlement_RidgeCitadelPass2\pkt_2017-1-30_1485797040_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-29-2017-ShoushiShrethHive\pkt_2017-1-29_1485734402_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-29-2017-ShoushiShrethHive\pkt_2017-1-29_1485739739_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-30-2017-HuntNearGreenvaleSettlement_RidgeCitadelPass2\pkt_2017-1-30_1485797040_log.pcap
+
+Partial Exports - Missing appraisal info:
+8117F289:Ust
+8117F28A:Foci of Verdancy
+8117F28B:Foci of Artifice
+8117F290:Prismatic Taper
+8117F291:Lead Scarab
+8117F292:Silver Scarab
+8117F293:Copper Scarab
+8117F294:Iron Scarab
+8117F299:Pack
+8117F29B:Copper Pea
+8117F29C:Iron Pea
+8117F2B4:Pyreal
+8117F2B2:Adept Healing Kit
+8117F2B8:Key
+8117F2B5:Foci of Enchantment
+8117F2B9:Key
+8117F2BB:Key
+8117F2BD:Key
+8117F2BE:Key
+8117F2BF:Scroll of Focus Other V
+8117F2C0:Scroll of Lightning Bane V
+8117F2C3:Aura of Blood Drinker Self V
+8117F2C4:Scroll of Impenetrability V
+8117F2C5:Scroll of Imperil Other IV
+8117F2C6:Drudge Charm
+8117F2C7:Scroll of Stamina to Mana Self IV
+8117F2C8:Key
+8117F2C9:Ancient Shard of Metal
+8117F2CA:Drudge Charm
+8117F2CB:Key
+8117F2CF:Pyreal
+8117F2D2:Scroll of Portal Recall
+D85ED076:Outcast
+D85ED083:Torch
+D85ED079:Torch
+D85EEC42:Plaque
+88F69C4A:Strong Iron Key
+D847B875:Acid Katar
+D85ED006:Chair
+D83C043C:Cestus
+D864EE90:Amuli Leggings
+89081823:Strong Iron Key
+C305D41D:Knorr Academy Helm
+890E8F82:Strong Iron Key
+D84192D6:Amuli Coat
+D847B6D2:Flaming Hand Wraps
+8117F29D:Steel Toed Boots
+D8472E14:Koujia Leggings
+D866DF64:Alduressa Coat
+D864E4E7:Amuli Coat
+D847C183:Chainmail Hauberk
+88F49E96:Strong Iron Key
+88CFAA24:Strong Iron Key
+88D093E8:Strong Iron Key
+8929E7D1:Strong Iron Key
+8929E576:Strong Iron Key
+83FB1D8D:Imprinting Mote
+8020FD2A:Imprinting Mote
+
+Missing Exports - Possessed items that were not found:

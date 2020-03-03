@@ -1,0 +1,22 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-21_1485041652_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-21_1485041652_log.pcap
+
+Partial Exports - Missing appraisal info:
+D7ADDB36:Sack
+D7ADDB37:Ust
+D7ADDB3B:Foci of Verdancy
+D7ADDB3C:Foci of Enchantment
+D7ADDB3D:Foci of Artifice
+D7ADDB3E:Foci of Shadow
+D7ADDB3F:Prismatic Taper
+D7ADDB40:Lead Scarab
+D7ADDB41:Letter From Home
+D7E61543:Oil of Rendering
+D7E614FB:Facility Hub Portal Gem
+D7E614F3:Academy Coat
+D7EBB5E4:Mud Golem Essence
+
+Missing Exports - Possessed items that were not found:

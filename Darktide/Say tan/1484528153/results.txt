@@ -1,0 +1,23 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-15_1484528069_log.pcap
+
+Partial Exports - Missing appraisal info:
+D791E3E4:Cowl
+D791E38E:Pyreal
+D791E404:Shirt
+D791E3C0:Trousers
+D791E402:Prismatic Taper
+D791E3D8:Leather Boots
+D791E41B:Foci of Artifice
+D791E385:Lead Scarab
+D791E43F:Handy Healing Kit
+D791E409:Sack
+D791E429:Greeter's Key
+D791E3C5:Some Changes for February 2012
+D791E3D2:Blackmoor's Favor
+D791E3FF:Pyreal
+D791E41A:Aluvian Wand
+D791BBAB:Starter Knife
+D791E78E:Pack Ancient Olthoi Queen
+
+Missing Exports - Possessed items that were not found:

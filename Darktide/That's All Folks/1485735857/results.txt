@@ -1,0 +1,11 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-12-2017\Games\pkt_2017-1-29_1485735698_log.pcap
+
+Partial Exports - Missing appraisal info:
+D81A81BC:Pyreal
+D81A81BD:Sack
+D81A81BE:Ust
+D81A81C0:Pathwarden Token
+D81A81C4:Letter From Home
+
+Missing Exports - Possessed items that were not found:

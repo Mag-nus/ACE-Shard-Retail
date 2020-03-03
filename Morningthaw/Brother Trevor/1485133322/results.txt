@@ -1,0 +1,86 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-22_1485131824_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-29_1485719312_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-29_1485728015_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-29_1485730396_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-30_1485820789_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-30_1485839246_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-30_1485839246_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-31_1485854086_log.pcap
+
+Partial Exports - Missing appraisal info:
+9ACA5505:Drudge Head
+9ACA5506:Old Lucky Gold Letter
+9ACA550B:Sunflower
+9ACA5513:Muddy Towel
+9ACA5514:Fenmalain Key
+9ACA5519:Diamond Scarab
+9ACA558B:Bedroll
+9ACA5522:Zombie Head
+9ACA5524:Scroll of Summon Secondary Portal I
+9ACA5525:Scroll of Summon Primary Portal I
+9ACA5526:Foci of Artifice
+9ACA5527:Scroll of Summon Secondary Portal I
+9ACA5528:Lead Scarab
+9ACA5529:Iron Scarab
+9ACA552A:Silver Scarab
+9ACA552B:Prismatic Taper
+9ACA552D:Scroll of Lifestone Recall
+9ACA552E:Scroll of Lifestone Tie
+9ACA552F:Scroll of Portal Recall
+9ACA5530:Scroll of Portal Recall
+9ACA5531:Scroll of Secondary Portal Recall
+9ACA5540:Vial of Black Blood
+9ACA5542:Sliver of Singular Chorizite
+9ACA5547:Pack
+9ACA5549:Renegade Herbal Kit
+9ACA554A:Renegade Herbal Kit
+9ACA554B:Renegade Herbal Kit
+9ACA558A:Tusker Head
+9ACA556D:Nexus Town Information Guide
+9ACA5571:Treated Healing Kit
+9ACA5560:Trade Note (10,000)
+9ACA5576:Treated Healing Kit
+9ACA559C:Gharu'ndim Arm
+9ACA557B:Half-Digested Virindi Mask
+9ACA5565:Pack
+9ACA5567:Pyreal Bar
+9ACA5583:Scroll of Secondary Portal Tie
+9ACA556B:Trade Note (75,000)
+9ACA556F:Pyreal Mote
+9ACA5594:Olthoi Claw
+9ACA5585:Scroll of Portal Recall
+9ACA5581:Scroll of Secondary Portal Recall
+9ACA5582:Scroll of Primary Portal Recall
+9ACA5584:Scroll of Primary Portal Tie
+9ACA5586:Scroll of Lifestone Tie
+9ACA5587:Scroll of Lifestone Recall
+9ACA5588:Pack
+9ACA558C:Palm Wine
+9ACA5591:Asheron's Second Missive
+9ACA559D:Gharu'ndim Arm
+9ACA559B:Salvaged  (100)
+C56B5B24:Agent of Arcanum List
+9ACA55AB:Renegade Herbal Kit
+9ACA55A6:Yellow Monster Seed
+9ACA55A7:Second Half of a Worn Dagger
+9ACA55A8:Salvaged  (100)
+9ACA55AC:Renegade Herbal Kit
+9ACA55AD:Pack
+9ACA55BA:Pyreal
+9ACA55B6:Mutilator Head
+9ACA55B9:Pyreal
+9ACA55BB:Pyreal
+9ACA55B8:Pyreal
+8EE3E8D6:Pack Martine
+8EEDD38B:Eviscerator Head
+8F02C110:Pack Gaerlan
+9ACA55B7:A List of Items
+C495DF7A:Pack
+C495DFD7:Pack
+C5FE1697:Stipend
+9ACA5590:Translated Letter
+
+Missing Exports - Possessed items that were not found:

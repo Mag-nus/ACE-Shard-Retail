@@ -1,0 +1,165 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-05-2017\The-Scuba-Squad-02-05-2017-Random-Logs\pkt_2017-1-27_1485531435_log.pcap
+
+Partial Exports - Missing appraisal info:
+C690EEC6:Foci of Artifice
+C690EE5D:Pack
+C690EE5C:White Rabbit Girth
+C690EECA:Silver Scarab
+C690EED8:Shadow Lugian Stronghold Portal Gem
+C690EEC9:Lead Scarab
+C690EE8B:Prismatic Taper
+C690EEC8:Copper Scarab
+C690EE84:Pyreal Scarab
+C690EE60:Platinum Scarab
+C690EED3:Salvaged  (22)
+C690EEB6:Salvaged  (100)
+C690EE68:Treated Healing Kit
+C690EEA1:Salvaged  (100)
+C690EE78:Staff
+C690EE70:Gem
+C690EEE1:Sabra
+C690EECC:Dirk
+C690EECB:Treated Healing Kit
+C690EEA9:Aphus Lassel Portal Gem
+C690EE98:Foci of Verdancy
+C690EEC5:Small Belt Pouch
+C690EED7:Foci of Enchantment
+C690EE5F:Concentrated Lightning Oil
+C690EECF:Pyreal
+C690EEF2:Wrapped Bundle of Deadly Armor Piercing Arrowheads
+C690EEEA:Wrapped Bundle of Armor Piercing Arrowheads
+C690EEB5:Chorizite Fletching Tool
+C690EE8A:Wrapped Bundle of Deadly Chorizite Arrowheads
+C690EE86:Wrapped Bundle of Arrowshafts
+C690EE67:Alduressa Helm
+C690EEF1:Belt Pouch
+C690EED2:Concentrated Fire Oil
+C690EEB7:Concentrated Frost Oil
+C690EEA8:Wrapped Bundle of Arrowheads
+C690EEA0:Concentrated Bloodseeker Oil
+C690EE77:Wrapped Bundle of Frog Crotch Arrowheads
+C690EE6F:Wrapped Bundle of Deadly Frog Crotch Arrowheads
+C690EEFA:Heavy Bracelet
+C690EEE0:Wrapped Bundle of Blunt Arrowheads
+C690EEDE:Self To Strength Gem
+C690EE97:Wrapped Bundle of Deadly Blunt Arrowheads
+C690EED6:Wrapped Bundle of Quarrelshafts
+C690EEC4:Wrapped Bundle of Deadly Lightning Arrowheads
+C690EEBA:Wrapped Bundle of Deadly Frost Arrowheads
+C690EE5E:Concentrated Bloodhunter Oil
+C690EF02:Sollerets
+C690EECD:Pyreal
+C690EEE9:Dirk
+C690EE89:Crown
+C690EE66:Dirk
+C690EE6E:Flaming War Hammer
+C690EED1:Gorget
+C690EEBC:Signet Crown
+C690EEBB:Dericost Blade
+C690EE9F:Chalice
+C690EE96:Dirk
+C690EE76:Diadem
+C690F085:Goblet
+C690EEF9:Teardrop Crown
+C690EEDF:Acid Sceptre
+C690EEA7:Heavy Bracelet
+C690EEC3:Diadem
+C690EEB9:Ewer
+C690EED5:Heavy Bracelet
+C690EF01:Diadem
+C690EE82:Ornamental Bowl
+C690EEF0:Ornamental Bowl
+C690EEA6:Self To Strength Gem
+C690EEE8:Acid Baton
+C690EE88:Asheron's Benediction
+C690EE9E:Ust
+C690EED0:Blackmoor's Favor
+C68E0CDC:Salvaged  (5)
+C690EF07:Heart of the Innocent
+C690EF14:Vissidal Island Portal Gem
+C690EEF8:Letter to Ro Bi-Jor
+C690EEBE:Aura of Infected Spirit Caress Scroll
+C690EEBD:Shoyanen's Portal Gem
+C690EEC2:Jaleh's Necklace
+C690EEE7:Major Mana Stone
+C690EF29:Heavy Bracelet
+C690EF21:Aura of Infected Spirit Caress Scroll
+C690EF08:Ring
+C690EF00:Dark Amber Ring
+C690EF0A:Sturdy Steel Key
+C690EF09:Dark Shard
+C690EEEF:Pack
+C690EE9D:Prismatic Taper
+C690EF31:Scroll of Eradicate Life Magic Self
+C690EF13:Scroll of Blessing of the Arrow Turner
+C690EF0C:Scroll of Celcynd's Boon
+C690EF0B:Magari Yari
+C690EEF7:Salvaged  (6)
+C690EEDD:Salvaged  (96)
+C690EEAD:Olthoi Slasher Carapace
+C690EEA5:Salvaged  (48)
+C690EEAE:Ring
+C690EEAF:Sturdy Steel Key
+C690EF17:Salvaged  (96)
+C690EF16:Heavy Necklace
+C690EEB1:Sturdy Steel Key
+C690EF15:Blooded Gold Invader Lord Helm
+C690EEC1:Blunt Sceptre
+C690EEB3:Lugian Commander's Insignia
+C690EEB0:Ornamental Bowl
+C690EEB2:Fire Baton
+C690EEE5:Scroll of Pacification
+C690EEB4:Heavy Necklace
+C690EF39:Sceptre
+C690EF20:Phantom Spear
+C690EF28:Deadly Frost Quarrel
+C690EF05:Royal Runed Arbalest
+C690EEE6:Deadly Hollow Spear
+C690EEFF:Deadly Lightning Quarrel
+C690EEEE:Phantom Crossbow
+C690EECE:Scroll of Tusker's Bane
+C690EF19:Nefane Shield
+C690EF18:Royal Runed Partizan
+C690EF30:Salvaged  (94)
+C690EEDC:Scroll of Meditative Trance
+C690EF12:Frost Nodachi
+C690EEF6:Blunt Sceptre
+C690EF41:Orb
+C690EEC0:Nodachi
+C690EF38:Scroll of Light Weapon Ineptitude Other VII
+C690EF27:Electric Baton
+C690EF04:Blunt Baton
+C690EF2F:Pyreal
+C690EF1F:Slashing Bow
+C690EEFE:Pike
+C690EEED:Scroll of Finesse Weapon Ineptitude Other VII
+C690EEDB:Pyreal
+C690EF11:Pyreal
+C690EEF5:Pyreal
+C690EF40:Pyreal
+C690EF4E:Pyreal
+C690EF37:Pyreal
+C690EF26:Buadren
+C690EF1E:Pyreal
+C690EEFD:Pyreal
+C690EEE4:Pyreal
+C690EEEC:Pyreal
+C690EF06:Pyreal
+C690EF46:Pyreal
+C690EF2E:Pyreal
+C690EF10:Pyreal
+C690EEF4:Pyreal
+C690EF3F:Dirk
+C690EF4D:Sollerets
+C690EF25:Sturdy Iron Key
+C690EEE3:Sturdy Iron Key
+C690EF36:Sturdy Iron Key
+C690EF1D:Acid Scimitar
+C690EEFC:Some Changes for February 2012
+C690EEEB:Frost Crossbow
+C690EF53:Hollow Crossbow
+C690EF2A:Faran Robe with Hood
+C690EF2D:Weeping Crossbow
+
+Missing Exports - Possessed items that were not found:

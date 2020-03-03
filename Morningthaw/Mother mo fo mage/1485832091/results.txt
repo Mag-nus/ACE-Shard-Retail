@@ -1,0 +1,51 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-30_1485830831_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-15_1484523691_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-15_1484523691_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\Pcaps\Pcaps\pkt_2017-1-30_1485830831_log.pcap
+
+Partial Exports - Missing appraisal info:
+C5F76A91:Foci of Verdancy
+C5F76A1D:Foci of Strife
+C5F76A30:Pyreal
+C5EFC987:Foci of Artifice
+C5ECAAD7:Pack
+C5F65BF6:Gold Scarab
+C5F04DBA:Silver Scarab
+C5F04DB4:Iron Scarab
+C5F04A55:Lead Scarab
+C5F65BEA:Diamond Scarab
+C5F76A2B:Copper Scarab
+C5F65B77:Pyreal Scarab
+C5F65B75:Platinum Scarab
+C5F04D76:Prismatic Taper
+C5F64D21:Pack
+C5F64C39:Ust
+C5F64AE3:Shirt
+C5F64BEE:Pack
+C5F65BEB:Banner Haft
+C5F65BB4:Essence of a Phantasm
+C5F65B85:Jaleh's Silk Shirt
+C5F658C4:Peerless Healing Kit
+C5ED9C55:Potion of Healing
+C5EFFF38:Virindi Shard
+C5F65BCC:Torn Mosswart Shroud
+C5F12E3A:Pyreal
+C5F65458:Golden Gromnie
+C5F65B6C:Torn Cloth Scrap
+C5F65BAC:Second Half of a Battered Sword
+C5EEC4F1:Frost Claw
+C5F65B7A:Deadly Hollow Katar
+C5F65ABC:Torn Cloth Scrap
+C5F76A3B:Torn Cloth Scrap
+C5F65BC6:Chainmail Bracers
+C5ED9C11:Chainmail Gauntlets
+C5EB0370:Chainmail Girth
+C5F3229E:Chainmail Leggings
+C5F5E7A7:Chainmail Pauldrons
+C5F76A1F:Studded Leather Boots
+C5F76A5B:Weeping Wand
+
+Missing Exports - Possessed items that were not found:

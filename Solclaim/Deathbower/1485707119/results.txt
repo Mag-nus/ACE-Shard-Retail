@@ -1,0 +1,14 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-PCAP-Absolutely-Random-Gameplay\AC-pcap\pkt_2017-1-29_1485706563_log.pcap
+
+Partial Exports - Missing appraisal info:
+9C7553B7:Pyreal
+9C7553B8:Sack
+9C7553B9:Ust
+9C7553BB:Pathwarden Token
+9C7553C1:Foci of Artifice
+9C7553C2:Prismatic Taper
+9C7553C3:Lead Scarab
+9C7553C4:Letter From Home
+
+Missing Exports - Possessed items that were not found:

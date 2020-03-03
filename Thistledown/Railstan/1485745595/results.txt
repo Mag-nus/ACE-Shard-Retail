@@ -1,0 +1,136 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\trello_datamining\1_Ridley-01-30-2017-olthoi-horde-nest-bandit-castle\pkt_2017-1-29_1485744527_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ridley-01-30-2017-olthoi-horde-nest-bandit-castle\pkt_2017-1-29_1485744527_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ridley-01-30-2017-olthoi-horde-nest-bandit-castle\pkt_2017-1-29_1485744527_log.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\194_Ridley-Amanah-Final-Random-2\pkt_2017-1-29_1485744527_log.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\194_Ridley-Amanah-Final-Random-2\pkt_2017-1-29_1485744527_log.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\1_Ridley-01-30-2017-olthoi-horde-nest-bandit-castle\pkt_2017-1-29_1485744527_log.pcap
+
+Partial Exports - Missing appraisal info:
+85157A91:Pack
+85157A89:Copper Scarab
+851575C7:Lead Scarab
+851575C8:Iron Scarab
+851575C9:Silver Scarab
+851575C6:Gold Scarab
+85157A99:Pyreal Scarab
+85157AB2:Chorizite
+85157AA9:Platinum Scarab
+85157AA1:Prismatic Taper
+85157A80:Diamond Scarab
+85157A90:Blackmoor's Favor
+85157A88:Asheron's Benediction
+85157A98:Ust
+85157AB1:Prismatic Taper
+85157AA8:Blank Augmentation Gem
+85157AA0:Blank Augmentation Gem
+85157A7F:Mana Scarab
+85157A87:Blank Augmentation Gem
+85157A97:Blank Augmentation Gem
+85157AB0:Foci of Enchantment
+85157AA7:Foci of Artifice
+85157A9F:Foci of Verdancy
+85157AB6:Foci of Strife
+850ECF9D:Encrusted Bloodstone Jewel
+85157ABE:Salvaged  (11)
+85157ABD:Pyreal
+85157A86:Salvaged  (65)
+85157A8E:Pack
+85157AC6:Trade Note (250,000)
+85157A96:Frost Sceptre
+850ECFBF:Acid Sceptre
+85157ACE:Pyreal
+85157AA6:Shoyanen's Portal Gem
+85157A9E:Facility Hub Portal Gem
+850ECD4A:Pyreal
+85157AC5:Pyreal
+85157ADE:Pyreal
+85157AD6:Blunt Sceptre
+85157ABC:Shoes
+8515307D:Fire Baton
+85157ACD:Halved Cloak
+85153BE6:Salvage (20)
+85157AFC:Greater Mana Stone
+85157AE6:Salvage (44)
+8508A615:Salvage (10)
+85157AF3:Pack
+85157AD5:Salvage (64)
+85157AC4:Salvage (7)
+85152AF7:Braced Mana Forge Key
+85157ABB:Salvage (99)
+85157ADD:Salvage (29)
+85126A69:Upper Insatiable Eater Jaw
+85157ACC:Salvage (43)
+85157AE5:Salvage (42)
+85157AFA:Upper Insatiable Eater Jaw
+85157AEB:Salvage (10)
+85157ADC:Salvage (74)
+85157B04:Ravenous Eater Jaw
+85157AD4:Salvage (66)
+85157AC3:Salvage (41)
+85157AED:Ravenous Eater Jaw
+85157ABA:Salvage (21)
+85157ACB:Salvage (99)
+85157B0C:Upper Insatiable Eater Jaw
+85157AE4:Salvage (64)
+85157AEA:Salvage (57)
+85127112:Upper Insatiable Eater Jaw
+85157B63:Salvage (49)
+85157AD3:Strengthened Mana Forge Key
+85157AC2:Strengthened Mana Forge Key
+85157ADB:Strengthened Mana Forge Key
+85157AB9:Strengthened Mana Forge Key
+85157ACA:Strengthened Mana Forge Key
+85157AE3:Strengthened Mana Forge Key
+85157AE9:Strengthened Mana Forge Key
+85157AF2:Strengthened Mana Forge Key
+85157AD2:Strengthened Mana Forge Key
+85157AC1:Strengthened Mana Forge Key
+85157AB8:Strengthened Mana Forge Key
+85157ADA:Strengthened Mana Forge Key
+85157AC9:Strengthened Mana Forge Key
+85157AE2:Strengthened Mana Forge Key
+85157AE8:Strengthened Mana Forge Key
+85157AF1:Strengthened Mana Forge Key
+85157AD1:Strengthened Mana Forge Key
+85157AC0:Fortified Mana Forge Key
+85157AB7:Strengthened Mana Forge Key
+85152AF9:Strengthened Mana Forge Key
+851523EB:Strengthened Mana Forge Key
+851523EA:Strengthened Mana Forge Key
+85152AF6:Strengthened Mana Forge Key
+85157AE7:Heavy Bracelet
+85157AF0:Ring
+85157ABF:Bracelet
+850ECEBA:Ravenous Eater Jaw
+85157AD8:Ring
+85157AD0:Salvage (8)
+85157B03:Ravenous Eater Jaw
+85157AC7:Salvage (9)
+85157AE0:Salvage (14)
+85157AEC:Upper Insatiable Eater Jaw
+85126A6B:Salvage (16)
+85157AFD:Salvage (16)
+85157B14:Ravenous Eater Jaw
+85157ACF:Salvage (23)
+85157ADF:Salvage (55)
+85157B0B:Upper Insatiable Eater Jaw
+85157AFB:Salvage (63)
+85126A68:Salvage (54)
+850EC092:Upper Insatiable Eater Jaw
+85157B05:Salvage (82)
+85157AEE:Salvage (67)
+85157A8F:Stipend
+851574F5:Pants
+85157B0D:Shirt
+850EC3B1:Fire Compound Bow
+85157B02:Fez
+85157B13:Pants
+85157B0A:Doublet
+850EC37D:Salvage
+850EC0C1:Focusing Stone
+85157B1C:Slashing Baton
+
+Missing Exports - Possessed items that were not found:

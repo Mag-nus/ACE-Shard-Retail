@@ -1,0 +1,154 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Heero-Yuy13117\pkt_2017-1-30_1485839341_log.pcap
+
+Partial Exports - Missing appraisal info:
+90791B50:Pack
+90766DFB:Copper Scarab
+90791B89:Gold Scarab
+90791BB2:Iron Scarab
+90791BBB:Lead Scarab
+90791B72:Silver Scarab
+90791BA8:Alembic
+90791C94:Whittling Knife
+90791B7F:Mortar and Pestle
+90791B9A:Metal Press
+90791B69:Baking Pan
+90791CC0:Noodle Cutter
+9078CF56:Heavy Grinder
+9078D984:Eye Dropper
+90791BE7:Ust
+90791BDE:Splitting Tool
+90761832:Cookie Cutter
+90780445:Cookie Cutter
+9074D737:Blackmoor's Favor
+90791D52:Wrapped Bundle of Armor Piercing Arrowheads
+90791B71:Wrapped Bundle of Arrowheads
+90791C4C:Wrapped Bundle of Frog Crotch Arrowheads
+90791BE9:Orb
+90791BBE:Pyreal
+92C91A1D:Prismatic Taper
+9156EC5C:Platinum Scarab
+90786CEC:Pack
+90791CE1:Treated Healing Kit
+90791CD9:Singularity Keyring
+90791BD1:Singularity Keyring
+90791BBD:Singularity Keyring
+90791BE3:Singularity Keyring
+90791BED:Singularity Keyring
+90791C9E:Flag
+90791DD0:Homecoming Pennant
+90791BEF:Brimstone Pea
+90791D6C:Concentrated Frost Oil
+90791A52:Vitriol Pea
+90791CA7:Tusker Head
+90791C92:Realgar Pea
+90791B62:Cobalt Pea
+90791C44:Vitriol Pea
+9054AF26:Stibnite Pea
+90791B99:Colcothar Pea
+907627F3:Turpeth Pea
+90791BA7:Wrapped Bundle of Arrowshafts
+907624A2:Wrapped Bundle of Quarrelshafts
+9078DA6B:Sacraloi
+92646044:Celdon Breastplate
+92670E34:Chainmail Breastplate
+92CE24C0:Cooking Pot
+926670DA:Heavy Bracelet
+907676A0:Pack
+90791C22:Peppermint Stick
+90791B4C:Faran Robe with Hood
+90791CCA:Homecoming Pennant
+90791B7E:Wrapped Bundle of Blunt Arrowheads
+90791C20:Wand
+90791C74:Orb
+91999489:Antiquated Compass
+919B0096:Potion of Black Fire
+919DEDEB:Refreshing Water
+90791C7C:Faran Robe with Hood
+90791D0E:Elysa's Favor
+90791CF3:Aerfalle's Pallium
+90791D08:Concentrated Aqua Incanta
+80923878:Water
+9078DAB3:Ring of Intellect
+90791C5D:Platemail Gauntlets
+92D6FBB7:Cooking Pot
+90791BBA:Neutral Balm
+9242E483:Writ of Refuge
+9273298B:Olthoi Celdon Leggings
+90791C2A:Pack
+90761686:Peerless Lockpick
+90791C43:Shoyanen's Portal Gem
+90791CAE:Alloy Machine
+90791C41:Celdiseth's Portal Gem
+90791C42:Fadsahil's Portal Gem
+90791BF6:Staff
+90791CC9:Pack Levistras
+90791BE5:Elemental Master Robe
+9078DA89:Elemental Master Robe
+90791CF5:Pack Gaerlan
+90791D72:Pack Burun Kukuur
+9079D29F:Pack Burun Kukuur
+9078DA77:Berimphur Dye Pot
+9078DADD:Hennacin Dye Pot
+9078DA7F:Verdalim Dye Pot
+90791D9E:Amuli Coat
+9278EC73:Olthoi Celdon Leggings
+92822201:Olthoi Celdon Leggings
+92DC76A0:Olthoi Celdon Leggings
+92E4B7CF:Olthoi Bracers
+926BBF53:Celdon Breastplate
+90791C3B:Foci of Verdancy
+90791C4E:Foci of Enchantment
+9078DFDC:Foci of Artifice
+90791CEC:Berimphur Plant
+90791C31:Minalim Plant
+90791CD6:Lapyan Plant
+90791CA5:Helm of the Crag
+90791BBF:Relanim Plant
+9074DCFB:Colban Plant
+9078DAB1:Argenory Plant
+90791CF2:Hennacin Plant
+90791CBE:Verdalim Plant
+9227A7DF:Puzzle Box
+921ED5C5:Wide Breeches
+92342969:Amuli Coat
+926802CD:Knorr Academy Gauntlets
+927F5E92:Bracelet
+923FE431:Ring
+92402A24:Bracelet
+9158CEC0:Ring
+926A8A11:Shirt
+91B4BF66:Salvage (100)
+923EA5B1:Salvage (100)
+91A7F446:Salvage (100)
+91DCF63D:Salvage (100)
+91AD41BF:Salvage (100)
+92F9F16A:Salvage (100)
+92407192:Salvage (100)
+9247E43C:Salvage (100)
+92C8ABE0:Salvage (100)
+92CECB25:Salvage (100)
+92F71BFE:Frost Bow
+92ECA071:Salvage (100)
+92FAE32C:Salvage (100)
+92F5D540:Salvage (100)
+92FA2854:Salvage (100)
+92F72C40:Salvage (100)
+92F937F3:Salvage (75)
+92FB5194:Salvage (83)
+92FB5186:Salvage (50)
+92FA2768:Salvage (37)
+92ECA664:Salvage (7)
+92ECA959:Salvage (34)
+92FAE405:Salvage (14)
+92F9E4CB:Salvage (69)
+92F3E55E:Salvage (45)
+92E6DD31:Salvage (50)
+92E6DCF5:Salvage (58)
+92BE71AA:Salvage (33)
+92C6D496:Salvage (7)
+90791C55:Amuli Leggings
+9158C4BC:Bronze Quintessence Sickle
+9158C4BF:Bronze Large Kite Shield
+
+Missing Exports - Possessed items that were not found:

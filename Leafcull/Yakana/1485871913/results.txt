@@ -1,0 +1,156 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\Fenn-pcap2\pkt_2017-1-31_1485871198_log.pcap
+
+Partial Exports - Missing appraisal info:
+ADDE50F1:Pack
+ADDE50F2:Gem
+ADDE50F5:A Tiny Mnemosyne
+ADDE50F3:Gem
+ADDE50F6:A Tiny Mnemosyne
+ADDE50F7:A Tiny Mnemosyne
+ADDE50F8:Violet Taper
+ADDE50F9:Powdered Turquoise
+ADDE50FA:A note from Iquba
+ADDE50FB:Colcothar
+ADDE50FE:Silver Scarab
+ADDE50FF:Quicksilver
+ADDE5100:Pink Taper
+ADDE5101:A Small Mnemosyne
+ADDE5102:Pyreal Pea
+ADDE5103:Gem
+ADDE5104:Fenmalain Gem
+ADDE5105:Rabbit Carcass
+ADDE5106:Saffron
+ADDE5107:Powdered Amber
+ADDE5109:Gold Tumerok Insignia
+ADDE510A:Pack
+ADDE510B:Major Smoldering Stone
+ADDE510C:Story of Winthura's Gardens
+ADDE510D:Turpeth
+ADDE510E:Red Gem
+ADDE510F:A Large Mnemosyne
+ADDE5111:Gem
+ADDE5112:Caulnalain Portal Gem
+ADDE5113:Caulnalain Portal Gem
+ADDE5118:Brown Taper
+ADDE5114:Glittering Crystalline Key
+ADDE5119:Turquoise Taper
+ADDE5117:Cinnabar
+ADDE511A:Copper Scarab
+ADDE511B:Dragonsblood
+ADDE511C:Mandrake
+ADDE5121:Gold Tumerok Insignia
+ADDE5122:Mana Stone
+ADDE5123:Pack
+ADDE5124:Fenmalain Portal Gem
+ADDE5125:MacDugal's Key
+ADDE5126:Gem
+ADDE5127:Virindi Master Key
+ADDE5128:Gem of Stillness
+ADDE5129:A Small Mnemosyne
+ADDE512A:Fenmalain Gem
+ADDE512B:Parchment
+ADDE512C:Rowan Talisman
+ADDE512D:The Baron's Key
+ADDE512E:Grey Taper
+ADDE512F:Treated Healing Kit
+ADDE5130:Major Stinging Stone
+ADDE5131:Turpeth
+ADDE5132:Ashwood Talisman
+ADDE5134:Gold Pea
+ADDE5135:Treated Healing Kit
+ADDE5136:Blue Taper
+ADDE5137:Scroll of Magic Item Tinkering Expertise Other VI
+ADDE5139:Mana Stone
+ADDE513A:Pyreal
+ADDE513C:Pack
+ADDE513D:Devana's Note
+ADDE513E:Gem
+ADDE513F:Gem
+ADDE5140:A Tiny Mnemosyne
+ADDE5141:Enkindled Souls Directions
+ADDE5142:Urgently Written Note
+ADDE5143:Parchment
+ADDE5144:Brimstone
+ADDE5145:White Fire Infusion
+ADDE5146:Vitriol
+ADDE514A:Stone Tool
+ADDE514C:Powdered Onyx
+ADDE514D:Scroll of Drain Health Other IV
+ADDE514E:Pyreal Mote
+ADDE514F:Gem
+ADDE5152:Pyreal
+ADDE5153:Shreth Banner
+ADDE5155:Pack
+ADDE5156:Key to Hamud's Chambers
+ADDE5157:Parchment
+ADDE5158:A Small Mnemosyne
+ADDE5159:Fenmalain Portal Gem
+ADDE515A:A Tiny Mnemosyne
+ADDE515B:A Tiny Mnemosyne
+ADDE515C:Cobalt
+ADDE515D:Green Taper
+ADDE515E:Orange Taper
+ADDE515F:A Large Mnemosyne
+ADDE5161:Virindi Master Key
+ADDE5162:Yellow Taper
+ADDE5163:Major Shivering Stone
+ADDE5164:Dirrich's Journal
+ADDE5166:Lapyan Plant
+ADDE5167:Storytelling
+ADDE516A:Hazel Talisman
+ADDE516B:Scroll of Fealty Other IV
+ADDE516C:Gold Tumerok Insignia
+ADDE516F:An old note 
+ADDE516E:Pack
+ADDE5170:Dungeon Mei Directions
+ADDE5171:Gem of Black Fire
+ADDE5173:Stibnite
+ADDE5174:Verdigris
+ADDE5175:An old note 
+ADDE5176:Gypsum
+ADDE5177:Cadmia
+ADDE5178:Small Rusted Key
+ADDE5179:Trothyr's Rest Key
+ADDE517B:A Large Mnemosyne
+ADDE5180:Grey Taper
+ADDE5181:Comfrey
+ADDE5186:Pack
+ADDE5183:Scroll of Magic Item Tinkering Ignorance VI
+ADDE5187:Pyreal
+ADDE5192:Pyreal
+ADDE5189:Willow Talisman
+ADDE518A:Virindi Master Key
+ADDE518B:Indigo Taper
+ADDE518C:Guidebook Brochure
+ADDE518D:White Taper
+ADDE5191:Major Sparking Stone
+ADDE5193:Lead Scarab
+ADDE5196:Pyreal Sliver
+ADDE5197:Scroll of Light Weapon Ineptitude Other VI
+ADDE5198:Pyreal
+ADDE5199:Pyreal
+ADDE51A3:Red Taper
+ADDE51A8:Augmented Tumerok's Key
+ADDE51AE:Powdered Malachite
+ADDE51B0:Red Pea
+ADDE51B1:Copper Pea
+ADDE51B5:Virindi Master Key
+ADDE51B6:Pink Pea
+ADDE51B8:Pyreal
+ADDE51B9:Excellent Healing Kit
+ADDE51BA:Excellent Healing Kit
+ADDE51BD:Mana Stone
+ADDE51C3:Scroll of Magic Item Tinkering Expertise Other VI
+ADDE51C5:Pyreal
+ADDE51C6:Pyreal
+ADDE51C7:Pyreal
+ADDE51C8:Pyreal
+ADDE51C9:Pyreal
+ADDE5203:Alembic
+ADDE51E2:Minalim Plant
+ADDE51E4:Concentrated Aqua Incanta
+ADDE51E5:Concentrated Fire Oil
+ADDE5202:Wrapped Bundle of Frog Crotch Arrowheads
+
+Missing Exports - Possessed items that were not found:

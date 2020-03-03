@@ -1,0 +1,52 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (2878098075, 2588, 2, 6472001) /* Clothing */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (2878098075,   1,          4) /* ItemType - Clothing */
+     , (2878098075,   4,        104) /* ClothingPriority - UnderwearChest, UnderwearUpperArms, UnderwearLowerArms */
+     , (2878098075,   5,         75) /* EncumbranceVal */
+     , (2878098075,   9,         30) /* ValidLocations - ChestWear, AbdomenWear, UpperArmWear, LowerArmWear */
+     , (2878098075,  10,         30) /* CurrentWieldedLocation - ChestWear, AbdomenWear, UpperArmWear, LowerArmWear */
+     , (2878098075,  16,          1) /* ItemUseable - No */
+     , (2878098075,  19,         15) /* Value */
+     , (2878098075,  65,        101) /* Placement - Resting */
+     , (2878098075,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (2878098075,   1, False) /* Stuck */
+     , (2878098075,  11, True ) /* IgnoreCollisions */
+     , (2878098075,  13, True ) /* Ethereal */
+     , (2878098075,  14, True ) /* GravityStatus */
+     , (2878098075,  19, True ) /* Attackable */
+     , (2878098075,  22, True ) /* Inscribable */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (2878098075,   1, 'Flared Shirt') /* Name */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (2878098075,   1,   33554644) /* Setup */
+     , (2878098075,   3,  536870932) /* SoundTable */
+     , (2878098075,   6,   67108990) /* PaletteBase */
+     , (2878098075,   8,  100667373) /* Icon */
+     , (2878098075,  22,  872415275) /* PhysicsEffectTable */
+     , (2878098075, 8001,    2588696) /* PCAPRecordedWeenieHeader - Value, Usable, Wielder, ValidLocations, CurrentlyWieldedLocation, Priority, Burden */
+     , (2878098075, 8003,         18) /* PCAPRecordedObjectDesc - Inscribable, Attackable */
+     , (2878098075, 8005,     137217) /* PCAPRecordedPhysicsDesc - CSetup, STable, PeTable, AnimationFrame */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (2878098075,   3, 1343146912) /* Wielder */
+     , (2878098075, 8000, 2878098075) /* PCAPRecordedObjectIID */;
+
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
+VALUES (2878098075, 67110365, 40, 24)
+     , (2878098075, 67110549, 92, 4);
+
+INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
+VALUES (2878098075, 0, 83887061, 83886686, 0)
+     , (2878098075, 0, 83889072, 83886685, 1)
+     , (2878098075, 0, 83889342, 83889386, 2)
+     , (2878098075, 0, 83886788, 83891213, 3)
+     , (2878098075, 0, 83886796, 83886782, 4);
+
+INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, `order`)
+VALUES (2878098075, 0, 16778356, 0);

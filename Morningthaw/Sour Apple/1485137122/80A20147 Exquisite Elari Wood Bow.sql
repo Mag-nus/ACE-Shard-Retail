@@ -1,0 +1,73 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (2158100807, 11001, 3, 3199296) /* MissileLauncher */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (2158100807,   1,        256) /* ItemType - MissileWeapon */
+     , (2158100807,   5,        450) /* EncumbranceVal */
+     , (2158100807,   9,    4194304) /* ValidLocations - MissileWeapon */
+     , (2158100807,  16,          1) /* ItemUseable - No */
+     , (2158100807,  18,          1) /* UiEffects - Magical */
+     , (2158100807,  19,       5000) /* Value */
+     , (2158100807,  44,          0) /* Damage */
+     , (2158100807,  45,          0) /* DamageType - Undef */
+     , (2158100807,  48,         47) /* WeaponSkill - MissileWeapons */
+     , (2158100807,  49,         40) /* WeaponTime */
+     , (2158100807,  50,          1) /* AmmoType - Arrow */
+     , (2158100807,  51,          2) /* CombatUse - Missle */
+     , (2158100807,  65,        101) /* Placement - Resting */
+     , (2158100807,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (2158100807, 106,        225) /* ItemSpellcraft */
+     , (2158100807, 107,       3070) /* ItemCurMana */
+     , (2158100807, 108,       3560) /* ItemMaxMana */
+     , (2158100807, 109,          0) /* ItemDifficulty */
+     , (2158100807, 151,          2) /* HookType - Wall */
+     , (2158100807, 353,          8) /* WeaponType - Bow */
+     , (2158100807, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
+     , (2158100807, 9015,         33) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (2158100807,   1, False) /* Stuck */
+     , (2158100807,  11, True ) /* IgnoreCollisions */
+     , (2158100807,  13, True ) /* Ethereal */
+     , (2158100807,  14, True ) /* GravityStatus */
+     , (2158100807,  19, True ) /* Attackable */
+     , (2158100807,  22, True ) /* Inscribable */
+     , (2158100807,  69, False) /* IsSellable */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (2158100807,   5, -0.0500000007450581) /* ManaRate */
+     , (2158100807,  21,       0) /* WeaponLength */
+     , (2158100807,  22,       0) /* DamageVariance */
+     , (2158100807,  26,    27.3) /* MaximumVelocity */
+     , (2158100807,  29, 0.920000016689301) /* WeaponDefense */
+     , (2158100807,  39, 1.10000002384186) /* DefaultScale */
+     , (2158100807,  62, 1.03999996185303) /* WeaponOffense */
+     , (2158100807,  63,       2) /* DamageMod */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (2158100807,   1, 'Exquisite Elari Wood Bow') /* Name */
+     , (2158100807,  16, 'A lightweight bow made of living elaniwood found only on Marae Lassel. It is strung with silvery gromnie sinew that holds incredible tension. You notice a small note shoved into a crack in the haft. You pull it out and read, "A step in the right direction. The living wood allows superior draw weight. Not as good as larchess was reputed to be, at least according to that overweening blowhard Locke. If only my hatchet could chip those damned glowing trees! Floating creatures still dogging me, but wary since I punctured that ''mouthless'' one." - Lilitha') /* LongDesc */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (2158100807,   1,   33557228) /* Setup */
+     , (2158100807,   3,  536870932) /* SoundTable */
+     , (2158100807,   8,  100671861) /* Icon */
+     , (2158100807,  22,  872415275) /* PhysicsEffectTable */
+     , (2158100807,  41,         47) /* ItemSpecializedOnly */
+     , (2158100807, 8001,  270615448) /* PCAPRecordedWeenieHeader - Value, Usable, UiEffects, AmmoType, CombatUse, Container, ValidLocations, Burden, HookType */
+     , (2158100807, 8003,         18) /* PCAPRecordedObjectDesc - Inscribable, Attackable */
+     , (2158100807, 8005,     137345) /* PCAPRecordedPhysicsDesc - CSetup, ObjScale, STable, PeTable, AnimationFrame */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (2158100807,   1, 1343059450) /* Owner */
+     , (2158100807,   2, 1343059450) /* Container */
+     , (2158100807, 8000, 2158100807) /* PCAPRecordedObjectIID */;
+
+INSERT INTO `biota_properties_spell_book` (`object_Id`, `spell`, `probability`)
+VALUES (2158100807,  1384,      2) 
+     , (2158100807,  2416,      2) 
+     , (2158100807,  2423,      2) 
+     , (2158100807,  2426,      2) 
+     , (2158100807,  2488,      2) 
+     , (2158100807,  2629,      2) 
+     , (2158100807,  2630,      2) ;

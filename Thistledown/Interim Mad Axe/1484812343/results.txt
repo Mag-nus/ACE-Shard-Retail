@@ -1,0 +1,203 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\IMA_NPCs_Kara-Sawato-Baishi_pkt_2017-1-19_1484812336_desc\pkt_2017-1-19_1484812336_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\InterimMadAxe_TD-01-17-2017-Mayoi-lin-nanto3dungeons\pkt_2017-1-17_1484670910_log.pcap
+
+Partial Exports - Missing appraisal info:
+888E9A86:Pack
+888DDE3C:Yew Talisman
+888D1E2C:Willow Talisman
+888D4BE2:Rowan Talisman
+888DDDDC:Hazel Talisman
+888D4C74:Ebony Talisman
+888B8EC9:Cedar Talisman
+888B9DA7:Ashwood Talisman
+888D4C02:Alder Talisman
+888D4BDE:Ginseng
+888D4BC5:Yarrow
+888D4BDB:Blackthorn Talisman
+888B9D9F:Wormwood
+888A398B:Saffron
+888DDDF9:Poplar Talisman
+888DDDFB:Mugwort
+888D4BCB:Dragonsblood
+A9C9383D:Red Taper
+888D4C6F:Damiana
+888DDDF8:Hyssop
+888D4BDD:Pyreal Pea
+888D4C24:Mandrake
+888B9D96:Gold Pea
+888D5429:Pack
+888D4C16:Powdered Turquoise
+888A8F3A:Powdered Onyx
+888E9A93:Silver Scarab
+888D4AD8:Powdered Moonstone
+888D4C21:Powdered Agate
+888D4C17:Peerless Lockpick
+888E9AA0:Powdered Hematite
+888E9A7A:Powdered Quartz
+888D4BFC:Red Taper
+888E9AB0:Powdered Bloodstone
+888D52FD:Gold Scarab
+888D4C1F:Copper Scarab
+888D4AC4:Lead Scarab
+888D53F9:Platinum Scarab
+888D4BF8:Powdered Amber
+888D4AE6:Pyreal Scarab
+888D4BE6:Powdered Azurite
+A41972A5:Iron Scarab
+888D4AE3:Powdered Carnelian
+888D462A:Powdered Lapis Lazuli
+888D533B:Ust
+96407DE8:Powdered Malachite
+A6B5DBE8:Turpeth
+A680B084:Renegade Herbal Kit
+A8CEDF79:Comfrey
+888D4C31:Pack
+888D4BF0:Colcothar
+888B9DAA:Cobalt
+888D53C2:Brimstone
+888D47F5:Turquoise Taper
+888E9A9D:Yellow Taper
+888E9A98:White Taper
+888E9A90:Violet Taper
+888E9A77:Grey Taper
+888E9AB6:Stibnite
+888E9A97:Verdigris
+888D4BF5:Quicksilver
+888D53B4:Blue Taper
+888D4C0B:Vitriol
+888D47F3:Green Taper
+888D4ACD:Realgar
+888D4C05:Pink Taper
+888D4BF6:Brown Taper
+888D5386:Cinnabar
+888D5385:Cadmia
+888D4AD7:Orange Taper
+888E9ADE:Gypsum
+A9C9383A:Indigo Taper
+888D47F4:Banderling Aggressor Backpack
+888D4927:Blackmoor's Favor
+888DDE0A:Foolproof Red Garnet Gem
+888D4C0A:Foolproof White Sapphire Gem
+A68FA898:Copper Pea
+888D53FB:Imbue Swap Coin
+888B9D97:Foolproof Imperial Topaz Gem
+888D53FA:Scintillating Crystal Ring
+888D4C00:Heart of the Innocent
+888D53A6:Stamina Elixir
+888D539D:Shadowfire Isparian Axe
+9D7F2F86:Facility Hub Portal Gem
+A90A4074:Silver Pea
+888D4C66:Banderling Slayer Backpack
+888DDDFF:Trade Note (250,000)
+888B9419:Suikan Item Master Robe
+93B02A5D:Deed
+888D1EC9:Suikan Item Master Robe
+888D4C38:Suikan Item Master Robe
+888D4C06:Suikan Item Master Robe
+888D4C61:Shoyanen's Portal Gem
+888D4C6B:Gorget
+888D462E:Enhanced Mana Elixir
+A04685C0:Yellow Jewel
+888D4C79:Small Shard
+888D5395:Red Jewel
+888D24F0:Ring
+A13BE89B:Directive Key
+A13938C5:Directive Key
+A157EB68:Virindi Singularity Key
+A1581C59:Virindi Singularity Key
+A15906C9:Virindi Singularity Key
+A13D881D:Directive Key
+888D4C49:Teardrop Crown
+888D4C04:Yellow Virindi Wand
+A412CC9F:Treated Healing Kit
+888D4AE2:Intricate Carving Tool
+A41C1581:Treated Healing Kit
+888D4C41:Banderling Slayer Backpack
+A13B1C93:A Bracelet of Piercing Protection
+A02D4B59:Dire Champion Token
+888D5371:Elysa's Crystal
+96421335:Fletcher's Crystal
+A41AC5DB:Zefir's Crystal
+888EB2CD:Artificer's Crystal
+A0362711:Thief's Crystal
+888DDE00:Thorsten's Crystal
+888D4C39:Scholar's Crystal
+888DDE01:Alchemist's Crystal
+888D4C01:Monarch's Crystal
+888D5272:Chef's Crystal
+A8B7FB8F:Pyreal
+888D1EE4:Oswald's Crystal
+885F6214:Tinker's Crystal
+888D4C2F:Circlet
+888DDE13:Signet Crown
+A1294126:Heavy Bracelet
+A9F8582C:Treated Healing Kit
+AA10FE45:Treated Healing Kit
+96683C34:Pack
+A1590673:Little Green Seeds
+953BE0B9:Health Elixir
+9CD5F822:Celdiseth's Portal Gem
+A1392F8A:Plentiful Healing Kit
+9CDA4C36:Town Network Portal Gem
+9CEFC2B7:Plentiful Healing Kit
+A13CD68E:Little Green Seeds
+A132B59C:Little Green Seeds
+A13B33D6:Plentiful Healing Kit
+A1389C8C:Plentiful Healing Kit
+A13B2E55:Plentiful Healing Kit
+A6B6C95C:Celdiseth's Portal Gem
+AA1646AB:Mana Forge Key
+A6B0D6CD:Celdiseth's Portal Gem
+A6ABC8C7:Celdiseth's Portal Gem
+A86C73AD:Enhanced Health Elixir
+AB4FD635:Stipend
+AA126E07:Mana Forge Key
+AB53D223:Lucky Gold Letter
+AB2DB4BD:Salvage
+AB2FDEB9:Gem of Knowledge
+AB301705:Salvage
+AB340DFC:Ancient Falatacot Trinket
+AB341593:Gem of Knowledge
+AB54D59A:Black Stone
+AB341B67:Dirk
+AB53CF8F:Astyrrian's Jewel
+AB58D247:Scroll of Mind Blossom
+AB56F586:Lucky Gold Letter
+AB56F58C:Lucky Gold Letter
+AB56F5B3:Eviscerator Pincer
+AB58DD74:Salvage (15)
+AB58D914:Lucky Gold Letter
+AB58DFBB:Salvage (12)
+AB58E0D2:Lucky Gold Letter
+AB5443BB:Salvage (100)
+AB54465F:Salvage (19)
+AB556AAA:Academy Stamp
+AB55311E:Egg
+AB2B9BBD:Iron Crown
+8ACAF5D3:Hand of Vagurat
+AB4E7E79:Brown Beans
+AB5BDAF4:Little Green Seeds
+AB53D053:Worn Old Key
+AB55D19D:Red Phyntos Wasp Wing
+AB53C900:Bai Den's Necklace
+AB47FF27:Bai Den's Gem
+AB53D24A:Lou Ka's Trident
+AB53D191:Little Green Seeds
+AB4037F2:Lou Ka's Yaoji
+AB5BDF80:Green Phyntos Wasp Wing
+AB5BE18A:Bai Den's Ring
+AB58775A:Salvage (57)
+AB585096:Gold Tumerok Insignia
+AB5939AA:Salvage (56)
+AB59391A:Salvage (12)
+AB58542F:Strong Iron Key
+AB59BB63:Salvage (100)
+AB59C196:Salvage (45)
+AB59CBF0:Salvage (100)
+AB594091:Salvage (66)
+A2999D26:Kite Shield
+
+Missing Exports - Possessed items that were not found:

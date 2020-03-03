@@ -1,0 +1,162 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\pkt_2017-1-30_1485843220_desc\pkt_2017-1-30_1485840494_log.pcap
+
+Partial Exports - Missing appraisal info:
+DBB03972:Loose Breeches
+DBB03943:Sack
+DBAF10A5:Trade Note (5,000)
+DBB03971:Trade Note (5,000)
+DBAF110D:Trade Note (1,000)
+DBAF110E:Trade Note (1,000)
+DB9B46CE:Trade Note (1,000)
+DBA3AC70:Trade Note (500)
+DBA8637A:Trade Note (500)
+DBA3AB9E:Handy Healing Kit
+DBA3AB81:Trade Note (1,000)
+DBB03975:Trade Note (1,000)
+DBB030D9:Trade Note (1,000)
+DBB030DA:Trade Note (500)
+DBB030DB:Sollerets
+DBB030DC:Sack
+DBB030D8:Vitriol
+DBAEA894:Turpeth
+DBB030E3:Gypsum
+DBAEA896:Stibnite
+DBB03978:Realgar
+DBB030E5:Cobalt
+DBB0397A:Quicksilver
+DBB030E4:Colcothar
+DBB03977:Sack
+DBB030E2:Cinnabar
+DBAF10F1:Cadmia
+DBAF10F0:Brimstone
+DBB03979:Verdigris
+DBAF111C:Ashwood Talisman
+DBB03948:Yew Talisman
+DBB03976:Cedar Talisman
+DBB0397E:Ebony Talisman
+DBAF10EB:Hemlock Talisman
+DBAF1095:Willow Talisman
+DBAF10EC:Birch Talisman
+DBAF10E7:Alder Talisman
+DBB0397D:Rowan Talisman
+DBAF10EA:Hazel Talisman
+DBAF10D4:Iron Scarab
+DBB0397F:Oak Talisman
+DBAF10D7:Sack
+DBAF10D6:Powdered Onyx
+DBAF10D0:Lead Scarab
+DBAF10D5:Powdered Amber
+DBAF10D3:Hyssop
+DBAF1067:Mandrake
+DBB0398D:Mugwort
+DBAF10C4:Sack
+DBAF10E9:Saffron
+DBB030FC:Wormwood
+DBB03999:Red Taper
+DBB030FD:Damiana
+DBB030FE:Bistort
+DBAF10C5:White Taper
+DB9B53CD:Powdered Turquoise
+DBAF05EE:Ginseng
+DBB0398E:Pink Taper
+DBAF0603:Mattekar Hide Coat
+DBB0399B:Grey Taper
+DBAF104B:Violet Taper
+DBB03102:Yellow Taper
+DBB03103:Orange Taper
+DBB03104:Trade Note (5,000)
+DBAEF368:Trade Note (5,000)
+DBB03106:Trade Note (500)
+DBB03107:Iron Scarab
+DBB03105:Ring
+DB9A8949:Chainmail Gauntlets
+DBB039A3:Sack
+DB9A7FA4:Frost Katar
+DBB039A6:Acid Nekode
+DBB039AC:Gifted Healing Kit
+DBB0310A:Scroll of Piercing Protection Other II
+DBB0310B:Gifted Healing Kit
+DBB0310C:Adept Healing Kit
+DBAF9849:Gifted Healing Kit
+DBB03109:Trade Note (1,000)
+DBB039A5:Trade Note (1,000)
+DBB039A9:Trade Note (1,000)
+DBAF1120:Trade Note (1,000)
+DBB03946:Greater Mana Stone
+DBAF1086:Heavy Bracelet
+DBAF1088:Helmet
+DBAF1085:Ring
+DBB039AF:Bracelet
+DBAF1087:Bracelet
+DBAF10BC:Ring
+DBB039B0:Trade Note (500)
+DBB039B1:Peerless Healing Kit
+DBAEFFAC:Trade Note (1,000)
+DBACEE52:Trade Note (1,000)
+DBAF1068:Adept Healing Kit
+DB77C931:Trade Note (1,000)
+DBAF1030:Bracelet
+DBAA7186:Celdon Leggings
+DBAA7121:Flaming Nekode
+DBA3A7C6:Small Mana Charge
+DBB0311D:Orb
+DBB0311E:Sho Wand
+DBB0311F:Lightning Katar
+DBB0311C:Trade Note (500)
+DBB039BB:Adept Healing Kit
+DBB039BA:Trade Note (1,000)
+DBB039B6:Trade Note (1,000)
+DBB039BD:Trade Note (500)
+DBB039B7:Handy Healing Kit
+DBB039BC:Wand
+DBAF1089:Adept Healing Kit
+DBAF1066:Katar
+DBAF1083:Trade Note (1,000)
+DBAF0FBF:Trade Note (1,000)
+DB9B4723:Pyreal
+DBAF0FF2:Greater Acid Quarrel
+DBAEEFBD:Trade Note (1,000)
+DB9B473A:Trade Note (1,000)
+DBB0398A:Trade Note (500)
+DBB039C7:Trade Note (1,000)
+DBB0399A:Trade Note (1,000)
+DBAF103C:Trade Note (1,000)
+DBAF05C1:Trade Note (1,000)
+DBAB0686:Trade Note (500)
+DBAF102B:Trade Note (1,000)
+DBAF9F83:Trade Note (1,000)
+DBAF102C:Trade Note (1,000)
+DBB039C9:Trade Note (1,000)
+DBAF1041:Pack
+DBB039CD:Acid Cestus
+DBB039B9:Nekode
+DBB0395C:Frost Cestus
+DBB03955:Katar
+DBAF0FD0:Flaming Nekode
+DBB039CE:Staff
+DBAF0F93:Wand
+DBAF1040:Slippers
+DBAEEFBC:Gloves
+DBAF1084:Orb
+DB9B4773:Gloves
+DBAF0F7C:Gorget
+DBAF0F8D:Ring
+DBAF0F9B:Bracelet
+DBB039C2:Bracelet
+DBB039C0:Necklace
+DBB039BE:Necklace
+DBB039C1:Kabuton
+DBB039BF:Scalemail Pauldrons
+DBB039C5:Heavy Crossbow
+DBB039C4:Pack Gaerlan
+DBAB8028:Heavy Crossbow
+DBAB802A:Chainmail Coif
+DBB039C3:Ring
+DBAB802B:Large Kite Shield
+DBAF0F9A:Large Kite Shield
+DBB14C92:Some Changes for February 2012
+DBB039C6:Plush Tusker
+DBAF1028:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

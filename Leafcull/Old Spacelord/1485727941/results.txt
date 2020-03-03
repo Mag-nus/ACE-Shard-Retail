@@ -1,0 +1,39 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-07-2017\Asherons-Call-packets-includes-3-towers\pkt_2017-1-29_1485727927_log.pcap
+
+Partial Exports - Missing appraisal info:
+95782E21:Ust
+95780DCA:Pyreal
+9577F114:A Small Mnemosyne
+95782E3F:Ancient Shard of Metal
+95782E3D:Alloy Tool
+95782E3E:Foci of Artifice
+95782E2B:Pack
+95721610:Pack
+95782051:Pack
+9574DC11:Pack
+9576ACF6:Prismatic Taper
+95782E61:Iron Scarab
+95782EF4:Copper Scarab
+95782CAB:Massive Mana Charge
+95782E7B:Massive Mana Charge
+95782435:Massive Mana Charge
+95782D9B:Massive Mana Charge
+95782D99:Massive Mana Charge
+95782C84:Massive Mana Charge
+95780BAE:Massive Mana Charge
+95780CAE:Massive Mana Charge
+9573E21D:Ring
+95782EAE:Peerless Healing Kit
+95782EAC:Peerless Healing Kit
+9572B2DA:Peerless Healing Kit
+95782E9C:Heavy Bracelet
+95782ED1:Peerless Healing Kit
+95782EAA:Peerless Healing Kit
+95782EA8:Gold Tumerok Insignia
+95782EBA:Gold Tumerok Insignia
+95781EDD:Gold Tumerok Insignia
+95782EDC:High Mana Charge
+95782E29:High Mana Charge
+
+Missing Exports - Possessed items that were not found:

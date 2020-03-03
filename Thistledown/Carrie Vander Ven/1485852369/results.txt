@@ -1,0 +1,20 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-31_1485852230_log.pcap
+
+Partial Exports - Missing appraisal info:
+AB9C481E:Tunic
+AB9C481F:Wide Breeches
+AB9C4820:Shoes
+AB9C4821:Pyreal
+AB9C4822:Sack
+AB9C4823:Ust
+AB9C4825:Pathwarden Token
+AB9C4827:Training Dirk
+AB9C4829:Foci of Artifice
+AB9C482A:Prismatic Taper
+AB9C482B:Lead Scarab
+AB9C482C:Handy Healing Kit
+AB9C482D:Letter From Home
+ABFEC7D6:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

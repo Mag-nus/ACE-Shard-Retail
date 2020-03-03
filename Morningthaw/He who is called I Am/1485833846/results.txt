@@ -1,0 +1,74 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Immortalbob-1-31-17-Random-Pcaps\pkt_2017-1-30_1485829938_log.pcap
+
+Partial Exports - Missing appraisal info:
+80F75268:Foci of Verdancy
+80F75267:Pack
+80F75266:Asheron's Benediction
+80F75265:Blackmoor's Favor
+80F75264:Blackmoor's Favor
+80F75263:Baron's Amulet of Life Giving
+80F75262:Pack
+80F75261:Deed
+80F75260:Olthoi Slayer Carapace
+80F7525F:Olthoi Slasher Carapace
+80F7525E:Pyreal
+80F7525C:Major Mana Stone
+80F7525B:Major Mana Stone
+80F7525A:Major Mana Stone
+80F75259:Pyreal Scarab
+80F75258:Copper Scarab
+80F75257:Celdiseth's Portal Gem
+80F75255:Elysa's Favor
+80F75254:Pack
+80F75251:Leadership Gem of Forgetfulness
+8F3A4F9E:Quest Weapon Coin
+8F3A5240:Magic Defense Weapon Augmentation
+80F75233:Stipend
+80F75243:Foci of Artifice
+80F75242:Foci of Enchantment
+80F75241:Pack
+80F75240:Suikan War Master Robe
+80F7523F:Faran Life Master Robe
+80F7523E:Faran Life Master Robe
+80F7523D:Leather Jerkin
+80F7523C:Faran War Master Robe
+80F7523B:Dho Creature Master Robe
+80F7523A:Faran Creature Master Robe
+80F75239:Leather Jerkin
+80F75238:Elysa's Favor
+80F75237:Noble Helm of Might
+80F75236:Noble Coat of Will
+80F75235:Noble Gauntlets of Balance
+80F75234:Noble Sollerets of Speed
+80F75231:Platinum Scarab
+80F75230:Dire Champion Token
+80F7522D:Noble Leggings of Health
+8F3B6462:Silver Scarab
+8F38FD10:Prismatic Taper
+8F33834B:Prismatic Taper
+8F39C2FB:Prismatic Taper
+8F3B67B4:Platinum Scarab
+8FC1C810:Major Mana Stone
+8FC1C811:Major Mana Stone
+8FC1C812:Major Mana Stone
+810062E8:Trade Note (250,000)
+8FC1C813:Major Mana Stone
+8FC1C814:Major Mana Stone
+8FC1C815:Major Mana Stone
+8FC1C816:Major Mana Stone
+8FC1CFDB:Gold Scarab
+8FC1CB13:Titan Mana Charge
+8FC1CB0D:Titan Mana Charge
+8FC1CAF8:Titan Mana Charge
+8FC1CADE:Titan Mana Charge
+8FC1CAC7:Titan Mana Charge
+8FC1CA70:Titan Mana Charge
+8FC1CA1A:Titan Mana Charge
+9141F311:Silver Pea
+B40BB55B:Plate Armoredillo Spine
+B3F95113:Pyreal Mote
+B40BB3ED:Diamond Heart
+B3EF81FE:Gold Pea
+
+Missing Exports - Possessed items that were not found:

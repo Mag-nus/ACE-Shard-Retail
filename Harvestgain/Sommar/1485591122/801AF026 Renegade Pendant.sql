@@ -1,0 +1,51 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (2149249062, 25477, 1, 6476097) /* Generic */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (2149249062,   1,          8) /* ItemType - Jewelry */
+     , (2149249062,   5,        300) /* EncumbranceVal */
+     , (2149249062,   9,      32768) /* ValidLocations - NeckWear */
+     , (2149249062,  16,          1) /* ItemUseable - No */
+     , (2149249062,  19,       1500) /* Value */
+     , (2149249062,  65,        101) /* Placement - Resting */
+     , (2149249062,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (2149249062, 151,          2) /* HookType - Wall */
+     , (2149249062, 9015,          0) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (2149249062,   1, False) /* Stuck */
+     , (2149249062,  11, True ) /* IgnoreCollisions */
+     , (2149249062,  13, True ) /* Ethereal */
+     , (2149249062,  14, True ) /* GravityStatus */
+     , (2149249062,  19, True ) /* Attackable */
+     , (2149249062,  22, True ) /* Inscribable */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (2149249062,  39, 1.20000004768372) /* DefaultScale */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (2149249062,   1, 'Renegade Pendant') /* Name */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (2149249062,   1,   33554680) /* Setup */
+     , (2149249062,   3,  536870932) /* SoundTable */
+     , (2149249062,   6,   67111919) /* PaletteBase */
+     , (2149249062,   8,  100674797) /* Icon */
+     , (2149249062,  22,  872415275) /* PhysicsEffectTable */
+     , (2149249062, 8001,  270614552) /* PCAPRecordedWeenieHeader - Value, Usable, Container, ValidLocations, Burden, HookType */
+     , (2149249062, 8003,         18) /* PCAPRecordedObjectDesc - Inscribable, Attackable */
+     , (2149249062, 8005,     137345) /* PCAPRecordedPhysicsDesc - CSetup, ObjScale, STable, PeTable, AnimationFrame */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (2149249062,   1, 3027540148) /* Owner */
+     , (2149249062,   2, 3027540148) /* Container */
+     , (2149249062, 8000, 2149249062) /* PCAPRecordedObjectIID */;
+
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
+VALUES (2149249062, 67111922, 0, 0);
+
+INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
+VALUES (2149249062, 0, 83886719, 83886719, 0);
+
+INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, `order`)
+VALUES (2149249062, 0, 16778348, 0);

@@ -1,0 +1,12 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\random-running-around\pkt_2017-1-27_1485497298_log.pcap
+
+Partial Exports - Missing appraisal info:
+AB9C4220:Pyreal
+AB9C4221:Sack
+AB9C4222:Ust
+AB9C4224:Pathwarden Token
+AB9C4226:Crude Lockpick
+AB9C4228:Letter From Home
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,54 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-24_1485274306_log.pcap
+
+Partial Exports - Missing appraisal info:
+88AEC36E:Pyreal
+88AEC36C:Shirt
+88AEC36D:Trousers
+88AEC36F:Sack
+88AEC370:Ust
+88AEC371:Foci of Artifice
+88AEC372:Prismatic Taper
+88AEC373:Lead Scarab
+88AEC374:Asheron's Benediction
+88AEC375:Teleportation Device
+88AEC377:Pack
+88AE9533:Pack Asheron
+88AE9532:Pyreal
+88AE9531:Sceptre
+88AE9530:Pyreal
+88AE9534:Pyreal
+88AD43BC:Pyreal
+88AD43BD:Pyreal
+88A62947:Pack
+88AFD77B:Prismatic Taper
+88AFD77C:Scroll of Impenetrability III
+88AFD77D:Gem
+88AFD77E:Treated Healing Kit
+88AFD77F:Treated Healing Kit
+88AFD782:Pack Burun Kukuur
+88AFD780:Trade Note (50,000)
+88AFD781:Iron Pea
+88AFD783:Scroll of Impenetrability III
+88AFD784:Lead Scarab
+88AFD785:Pack Martine
+88AFD786:Aura of Heartseeker Self III
+88AFD787:Lead Pea
+88AFD788:Pyreal
+88AFD789:Pathwarden Trinket
+88AFD78A:Pathwarden Robe
+88AFD78B:Great Mana Charge
+88AFD78C:Pathwarden Helm
+88AFD78D:Pathwarden Gauntlets
+88AFD791:Pyreal
+88AFD78E:Pathwarden Sollerets
+88AFD78F:Pathwarden Plate Leggings
+88AFD792:Academy Wand
+88AFD790:Pathwarden Plate Hauberk
+88AFD793:Teleportation Device
+88AFD794:A List of Items
+88AFD795:Some Changes for February 2012
+88AFD798:Blackmoor's Favor
+88AFD797:Buckler
+
+Missing Exports - Possessed items that were not found:

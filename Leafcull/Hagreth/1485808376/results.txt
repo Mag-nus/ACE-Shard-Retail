@@ -1,0 +1,136 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-packet-logs\pkt_2017-1-30_1485808222_log.pcap
+
+Partial Exports - Missing appraisal info:
+8426EAF2:Colosseum Coin
+84294F33:Pack
+84294F43:Massive Mana Charge
+842766BC:Pyreal
+84294FC9:Shadownether Stone
+84294FCA:Nether Sceptre
+84294F3B:Writ of Refuge
+84294F3A:Silver Pea
+84294F39:Lesser Corrupted Essence
+84294F53:Gold Pea
+84294F42:Asheron's Lesser Benediction
+84294F40:Virindi Singularity Key
+84294F3F:Prismatic Taper
+84294F3C:Lightning K'nath Essence (180)
+84294FCC:Volcanic Moar Essence
+84292358:Reeshan's Hide
+842554F3:Ust
+84291AD2:Glyph of Arcane Lore
+84292356:Pack
+84294FED:Gold Scarab
+84294FF0:Silver Scarab
+84294F70:Copper Scarab
+8427B0C9:Gold Scarab
+8427B211:Monouga Laboratory Portal Attunement Gem
+84294F48:Massive Mana Charge
+84294F47:Pyreal Scarab
+84294F46:Imbue Swap Coin
+84241354:Blackmoor's Favor
+842782C2:Platinum Scarab
+8427B228:Soul Bound Dagger
+84294FF1:Massive Mana Charge
+84294F8E:Massive Mana Charge
+84294F52:Massive Mana Charge
+84294F51:Massive Mana Charge
+84294F50:Ancient Mhoire Coin
+84294F4F:Celestial Hand Trade Token
+84294F4E:Platinum Scarab
+84294F4D:Major Mana Stone
+8427B23A:Aetheria Mana Stone
+84294F4C:Ink of Conveyance
+84294F4B:Encapsulated Spirit
+84294F4A:Platinum Spirits
+84294FF3:Pack
+84294F8C:Experimental Shadow Stone
+84294F56:Saffron
+84294F55:Shoyanen's Portal Gem
+84294FF7:Celestial Hand Trade Token
+84294F5B:Aligned Mana Stone
+8429503D:Major Mana Stone
+84295007:Pyreal Pea
+8429369F:Massive Mana Charge
+84295008:Corrupted Essence
+84294F68:Mana Scarab
+84294F67:Burning Sands Keyring
+84294F66:A'nekshay Token
+84294F63:Frozen Valley Portal Gem
+84292385:Glyph of Deception
+84294F85:Supplies for Massilor
+AE4B14B9:Pyreal
+84295051:Major Mana Stone
+84294F71:Pack
+8421A071:Bag of Life Stone Chips
+84277A0B:Mana Forge Key
+8429501F:Prismatic Taper
+84294F84:Upper Insatiable Eater Jaw
+8427547C:Burning Sands Keyring
+84294F7F:Ink of Objectification
+84294F7D:Burning Sands Keyring
+8427CF6E:Burning Sands Keyring
+84294F7C:Frost Staff
+8427CF37:Burning Sands Keyring
+84294F8A:Prismatic Taper
+84275704:Quill of Infliction
+8427CF29:Black Page of Salt and Ash
+AE4B14A0:Pyreal
+8427CF2C:Lightning Phyntos Swarm Essence
+8427CF6D:Glyph of Endurance
+8429119E:Trade Note (250,000)
+84277A32:Salvage
+84294F86:Pack
+84294F89:Glyph of Leadership
+84294F88:Frost Grievver Essence (180)
+84294F83:Salvage
+84294F82:Mana Forge Key
+84295036:Town Network Portal Gem
+842933BD:Celestial Hand Stronghold Portal Gem
+8429342C:Celestial Hand Stronghold Portal Gem
+84294F92:Archaeologist's Tracing Paper
+AE4B14A2:Pyreal
+84294F91:Diamond Scarab
+84294F8F:High-Stakes Gambling Token
+8425550A:Golden Gromnie
+8421A78F:Celestial Hand Commendation Ribbon
+8427B23B:Upper Insatiable Eater Jaw
+8427B23D:Strengthened Mana Forge Key
+8429503E:Dark Shard
+84295061:Pack
+84295064:Studded Leather Sleeves
+842923CB:Amulet
+842923CC:Aetheria
+84294F96:Goggles
+842923CD:Puffy Shirt
+842923CE:Voltaic Wisp Essence
+842923CA:Acid Child Essence (180)
+84295065:Pants
+AE4BF073:Pyreal
+84294F98:Pants
+84294F97:Arctic Grievver Essence
+AE4BF0F1:Pyreal
+8427307F:Ring
+AE4BEEB5:Pyreal
+8427B278:Pack
+AE4B1D8B:Deed
+8427B246:Ancient Falatacot Trinket
+839C1226:Bag of Life Stone Chips
+84294FA1:Baggy Shirt
+AE901B68:Sturdy Iron Key
+AE916485:Minalim Plant
+AE903BDA:Observer's Crystal
+AE87048E:Argenory Plant
+AE9169A6:Sturdy Iron Key
+AE9169A7:Dark Revenant Thighbone
+AE9169A8:A Large Mnemosyne
+AE851B67:Virindi Stamp
+AE886091:Dark Shard
+AE85E650:Tusker Spit
+AE908C74:A Large Mnemosyne
+AE908C69:A Large Mnemosyne
+AE908CAF:Sturdy Iron Key
+AE90FF8B:Tanada Clan Master's Medallion
+
+Missing Exports - Possessed items that were not found:

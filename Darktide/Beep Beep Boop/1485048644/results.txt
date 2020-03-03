@@ -1,0 +1,19 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-logs\AC logs\pkt_2017-1-22_1485046869_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-logs\AC logs\pkt_2017-1-22_1485046869_log.pcap
+
+Partial Exports - Missing appraisal info:
+D7ADDDF0:Pyreal
+D7ADDDF1:Sack
+D7ADDDF2:Ust
+D7ADDDF7:Handy Healing Kit
+D7ADDDF8:Letter From Home
+D7E02440:Oil of Rendering
+D7E0245E:Facility Hub Portal Gem
+D7EC48B5:Sturdy Iron Key
+D7E2C45E:Facility Hub Portal Gem
+
+Missing Exports - Possessed items that were not found:
+D7EC466B

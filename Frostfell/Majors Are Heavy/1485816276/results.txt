@@ -1,0 +1,35 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\imtrippin-01-30-2017-empyrean-workshop-and-more\pkt_2017-1-30_1485816108_log.pcap
+
+Partial Exports - Missing appraisal info:
+9F956824:Sack
+9F956825:Glyph of Item Tinkering
+9F956827:Pathwarden Token
+9F956828:Blackmoor's Favor
+9F95682B:Pack
+9F956829:Oil of Rendering
+9F956832:Pack
+9F95682C:Glyph of Regeneration
+9F95682D:Glyph of Leadership
+9F95682F:Glyph of Fletching
+9F956834:Glyph of Mana Conversion
+9F956835:Glyph of Finesse Weapons
+9F956836:Glyph of Missile Weapons
+9F956837:Glyph of Health
+9F956838:Glyph of Mana
+9F956839:Glyph of Cooking
+9F95683A:Glyph of Light Weapons
+9F95683C:Glyph of Light Weapons
+9F95683E:Glyph of Missile Weapons
+9F95683F:Glyph of Deception
+9F956841:Pack
+9F956852:Diamond Heart
+9F956857:Glyph of War Magic
+9F956858:Glyph of Arcane Lore
+9F956862:Glyph of Monster Appraisal
+9F956863:Glyph of Light Weapons
+9F956864:Glyph of Stamina Regeneration
+9F956865:Glyph of Armor Tinkering
+9F956867:Some Changes for February 2012
+
+Missing Exports - Possessed items that were not found:

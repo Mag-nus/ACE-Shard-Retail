@@ -1,0 +1,202 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\pkt_2017-1-30_1485843220_desc\pkt_2017-1-30_1485841312_log.pcap
+
+Partial Exports - Missing appraisal info:
+AB16FB23:Sack
+AB16FAF9:Greeter's Key
+AB16FAF8:Worcer's Key
+AB16FAF7:Banderling Scalp
+AB16FB02:Lightning Cestus
+AB16FB01:Orb
+AB16FB00:Bracelet
+AB16FB3C:Heavy Bracelet
+AB16FB5F:Bracelet
+AB4E90A5:Bracelet
+AA99A1B6:Bracelet
+AB4E77E6:Ring
+AB4E755B:Ring
+AB16FB5D:Ring
+AB16FB5E:Bracelet
+AB16FB71:Bracelet
+AB16FB77:Bracelet
+AB16FB70:Necklace
+AB40201C:Ring
+AB86F920:Baggy Tunic
+AB99180B:Scroll of Frost Bane II
+AB991799:Scroll of Recklessness Mastery Other II
+AB16FB3B:Pack
+AB16FB41:Small Mana Charge
+AB16FB3F:Moderate Mana Charge
+AB16FB3E:Moderate Mana Charge
+AB16FC00:Excellent Healing Kit
+AB16FB51:Gifted Healing Kit
+AB16FB4F:Treated Healing Kit
+AB16FB4D:Excellent Healing Kit
+AB16FB4C:Excellent Healing Kit
+AB16FB4B:Excellent Healing Kit
+AB16FB48:Excellent Healing Kit
+AB16FB47:Excellent Healing Kit
+AB16FB44:Excellent Healing Kit
+AB4E78C4:Handy Healing Kit
+AB4E92F3:Handy Healing Kit
+AB28D00D:Adept Healing Kit
+AB4E77E8:Handy Healing Kit
+AB4697F6:Gifted Healing Kit
+AB53F7EA:Adept Healing Kit
+AB5547D5:Scroll of Drain Stamina Other III
+AB55B2AE:Aura of Defender Self
+AB907DB5:Handy Healing Kit
+AB92F257:Key
+AB6D97F9:Bracelet
+AB16FC10:Pack
+AB16FB58:Elaniwood Golem Heart
+AB4E77C7:Gem
+AB4E9260:Scroll of Acid Streak V
+AB4E8EE1:Gem
+AB4BD20A:Pyreal
+AB8F41F8:Ring
+AB8F2934:Bracelet
+AB98F20E:Encapsulated Spirit
+AB85B46B:Handy Healing Kit
+AB98F747:Bracelet
+AA97BF38:Pocket Watch
+AB9198BD:Ring
+AB9311EC:Scroll of Mana Mastery Other III
+AB554E41:Gem
+AB16FB56:Pack
+AB16FC19:Trade Note (10,000)
+AB16FC1C:Trade Note (10,000)
+AB16FB54:Trade Note (10,000)
+AB16FB53:Trade Note (10,000)
+AB16FB52:Trade Note (5,000)
+AB16FB98:Armor Piercing Quarrel
+AB1E55C5:Scroll of Dual Wield Mastery Self IV
+AB4016D1:Scroll of Faithlessness II
+AB53FBF2:Scroll of Blade Protection Other IV
+AB55B418:Gem
+AB55B416:Wand
+AB16FB60:Necklace
+AB16FBF3:Mana Draught
+AB16FB36:Iron Scarab
+AB16FB35:Copper Scarab
+AB16FB32:Lead Scarab
+AB397EB2:Iron Pea
+AAFA5042:Bracelet
+AB98EC14:Adept Healing Kit
+AB16FB5A:Amuli Coat
+AB16FB65:Armet
+AB16FB64:Wand
+AB16FB62:Wand
+AB16FB61:Orb
+AB16FC2E:Moderate Mana Charge
+AB16FB69:Moderate Mana Charge
+AB16FB68:Moderate Mana Charge
+AB16FC36:Moderate Mana Charge
+AB16FC39:Moderate Mana Charge
+AB16FB6D:Scroll of Acid Arc III
+AB16FB6C:Stamina Tincture
+AB16FB6B:Hot Pepper
+AB16FB75:Pack Bael'Zharon
+AB16FB74:Blackmoor's Favor
+AB16FB73:Scroll of Blade Protection Self II
+AB16FC4A:Gem
+AB16FB79:Scroll of Jumping Mastery Self II
+AB16FBA5:Scroll of Life Magic Mastery Self II
+AB16FC56:Lead Pea
+AB16FB7F:Scroll of Fire Protection Self III
+AB16FB7E:Scroll of Item Tinkering Expertise Self II
+AB16FB84:Ring
+AB16FB83:Scroll of Coordination Self II
+AB16FB81:Scroll of Arcanum Salvaging II
+AB16FBB8:Old Scarlet Red Letter
+AB16FB89:Some Changes for February 2012
+AB16FB88:Minor Mana Stone
+AB16FB87:Heavy Bracelet
+AB16FB92:Minor Mana Stone
+AB16FB91:Trade Note (10,000)
+AB16FB8B:Agent of Arcanum List
+AB16FB8A:Gem
+AB16FB95:Scroll of Lightning Arc I
+AB16FBA0:Goggles
+AB16FB99:Gem
+AB16FBA3:Gem
+AB174E0F:Agent of Arcanum List
+AB16A61C:Aura of Hermetic Link Other II
+AB167EDE:Lesser Mana Stone
+AB13E4FD:Peppermint Stick
+AB1607D9:Orb
+AB1607B7:Top
+AB47E2D3:Gem
+AB47E864:Scroll of Bafflement Other
+AB47E09C:Amulet
+AB403305:Scroll of Revitalize Self II
+AB47FC45:Mana Potion
+AB4699B0:Bracelet
+AB4CCF62:Ring
+AB4018E9:Gem
+AB4803A2:Staff
+AB4F11FD:Potion of Healing
+AB4F1226:Health Draught
+AB4F1370:Stamina Tincture
+AB4E755A:Scroll of Enfeeble Other IV
+AB396A00:Scroll of Leaden Weapon V
+AB4905E6:Scroll of Life Magic Mastery Other IV
+AB47F801:Scroll of Arcanum Enlightenment V
+AB401E59:Coalesced Mana
+AB4F37F1:Scroll of Acid Arc II
+AB16FB7D:Broadhead Quarrel
+AB16FB5C:Frog Crotch Quarrel
+AB4E7070:Stamina Potion
+AB16FB5B:Blunt Quarrel
+AB4F37C7:Gem
+AB402760:Handy Healing Kit
+AB4F31B4:Scroll of Acid Bane II
+AB4F31B3:Gem
+AB4C56E7:Ring
+AA95EBE6:Gem
+AB4F436F:Adept Healing Kit
+AB4E8861:Scroll of Lockpick Ineptitude
+AB4E880C:Bracelet
+AB4E832F:Scroll of Deception Ineptitude II
+AB4E857B:Scroll of Weakness Other
+AB4E83CC:Adept Healing Kit
+AB4E8176:Heavy Bracelet
+AB480213:Scroll of Health to Stamina Self V
+AB4E91F3:Scroll of Drain Mana Other II
+AB4E8579:Plain Lockpick
+AB4E83EC:Scroll of Cooking Mastery Other II
+AB47FFEA:Scroll of Bludgeon Protection Other IV
+AB552628:Orb
+AB552BA7:Ring
+AB552ECD:Adept Healing Kit
+AB552B0A:Heavy Bracelet
+AB552B13:Scroll of Fire Protection Self IV
+AB13B5DE:Studded Leather Gauntlets
+AB562418:Foci of Verdancy
+AB5279BF:Prismatic Taper
+AB562891:Foci of Enchantment
+AB5638AA:Foci of Artifice
+AB563A52:Lead Scarab
+AB51CE3C:Prismatic Taper
+AB563E6E:Prismatic Taper
+AB53B1D6:Prismatic Taper
+AB563EB5:Prismatic Taper
+AB563ECB:Prismatic Taper
+AB563F09:Prismatic Taper
+AB563F26:Prismatic Taper
+AB53B26A:Prismatic Taper
+AB8BA0FC:Prismatic Taper
+AB143CFA:Ring
+AB908119:Tunic
+AB9773E7:Pyreal
+AB16FB9B:Wand
+AB489ED1:Frog Crotch Quarrel
+AB97815D:Pyreal
+AB16FB9E:Leather Pants
+AB9ABC53:Pyreal
+AB9ABCA4:Pyreal
+AB6E54D9:Sollerets
+AB978BC2:Pyreal
+AB16FBA1:Heavy Crossbow
+
+Missing Exports - Possessed items that were not found:

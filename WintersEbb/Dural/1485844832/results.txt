@@ -1,0 +1,248 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-31_1485843061_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-30_1485801914_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-31_1485840494_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-31_1485840494_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-31_1485843061_log.pcap
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-20170205070922\pkt_2017-1-31_1485843061_log.pcap
+
+Partial Exports - Missing appraisal info:
+A5AFE7E0:Pack
+A5AFE7E1:Worn Small Key
+A5AFE7E2:Worn Strange Key
+A5AFE7E3:Worn Old Key
+A5AFE7E4:Worn Odd Key
+A5AFE7E5:Worn Small Key
+A5AFE7E6:Worn Rusty Key
+A5AFE7E7:Worn Plain Key
+A5AFE7E8:Dryreach Key
+A5AFE7E9:Heavy Necklace
+A5AFE7EB:Fire Auroch Horn
+A5AFE7EC:Frost Ono
+A5AFE7ED:Yoroi Sleeves
+A5AFE7EF:Aluvian Wand
+A5AFE7F0:Essence Flare
+A5AFE7F1:Virindi Scalpel
+A5AFE7F2:Staff of Aerfalle
+A5AFE7F3:Wand
+A5AFE7F4:Beautiful key
+A5AFE7F5:Welcome Letter
+A5AFE7F7:Salvaged  (100)
+A5AFE7F8:Salvaged  (100)
+A5AFE7FF:Crystal Nodule
+A5AFE7F9:Necklace
+A5AFE7FA:Pack
+A5AFE7FB:Kote
+A5AFE7FC:Gloves
+A5AFE7FD:Old Stamped Holtburg Scarlet Red Letter
+A5AFE7FE:Faran War Apprentice Robe
+A5AFE800:Dark Heart
+A5AFE805:Candelabra
+A5AFE801:Chainmail Gauntlets
+A5AFE802:Aerfalle's Pallium
+A5AFE81E:Hea Totem
+A5AFE803:Staff of Aerfalle
+A5AFE804:Olthoi Stamp
+A5AFE806:Heaume
+A5AFE807:Sceptre
+A5AFE808:Virindi Stamp
+A5AFE80C:Ring
+A5AFE809:Heavy Bracelet
+A5AFE80A:Gelidite Robe
+A5AFE818:Carrot
+A5AFE80B:Asheron's Supreme Raiment
+A5AFE80D:Ring
+A5AFE819:Trothyr's Rest Key
+A5AFE80E:Sollerets
+A5AFE80F:Covenant Helm
+A5AFE810:Ring
+A5AFE811:Salvaged  (100)
+A5AFE812:Salvaged  (100)
+A5AFE820:Ursuin Rug
+A5AFE813:Pack
+A5AFE814:Orb
+A5AFE815:Sceptre
+A5AFE816:An Explorer Dagger
+A5AFE81A:Shendolain Crystal Shield
+A5AFE81B:Scalemail Basinet
+A5AFE825:Caulnalain Key
+A5AFE81C:Virindi Stamp
+A5AFE81D:Staff
+A5AFE826:Ebon Spine Harpoon
+A5AFE824:Golden Gromnie
+A5AFE827:Fiery Shield
+A5AFE828:Mattekar Arm Guard
+A5AFE829:Platemail Sleeves
+A5AFE82B:Salvaged  (100)
+A5AFE82C:Pack
+A5AFE82E:Orb
+A5AFE835:Obsidian Shard
+A5AFE830:Asteliary Crafter's Message Shard
+A5AFE833:Suikan War Master Robe
+A5AFE834:Virindi Stamp
+A5AFE836:Holiday Pole
+A5AFE837:Dark Heart
+A5AFE838:Superior Jack o' Lantern
+A5AFE853:Drudge Head
+A5AFE839:Shirt
+A5AFE83D:Covenant Shield
+A5AFE83B:Large Round Shield
+A5AFE83E:Crystal Nodule
+A5AFE841:Salvaged  (100)
+A5AFE842:Salvaged  (100)
+A5AFE845:Pants
+A5AFE84A:Carrot
+A5AFE846:Shirt
+A5AFE84B:Fist of the Quiddity
+A5AFE848:Shirt
+A5AFE84C:Mattekar Claw
+A5AFE84D:Virindi Mask
+A5AFE84E:Soul Staff
+A5AFE84F:Quintessence Sickle
+A5AFE850:Crop
+A5AFE851:Basalt Blade
+A5AFE852:Worn Old Key
+A5AFE854:Jack o' Lantern
+A5AFE855:Staff
+A5AFE856:Bracelet
+A5AFE857:Covenant Helm
+A5AFE858:Heavy Bracelet
+A5AFE859:Shoes
+A5AFE85A:Shendolain Key
+A5AFE85B:Crown
+A5AFE85C:Crown
+A5AFE85F:Saulandoi
+A5AFE85D:Crown
+A5AFE85E:Covenant Sollerets
+A5AFE862:Banderling Wand
+A5AFE860:Pack
+A5AFE863:Drudge Wand
+A5AFE864:Golden Gromnie
+A5AFE865:Sho Festival Light
+A5AFE866:Inviso Mask
+A5AFE867:Etheric Seal
+A5AFE868:Nuhmudira's Journal
+A5AFE869:Strong Dispel Potion
+A5AFE86A:Covenant Tassets
+A5AFE86B:Linaural Urilaentai
+A5AFE86C:Covenant Sollerets
+A5AFE86D:Ivory Gromnie Tooth
+A5AFE86F:Telumiat Hollow Minion Essence
+A5AFE870:Ring
+A5AFE873:Half-Digested Virindi Mask
+A5AFE874:Half-Digested Virindi Mask
+A5AFE875:Virindi Stamp
+A5AFE876:Club of Killagurg
+A5AFE877:Sickle of Azaxis
+A5AFE878:Flaming Stick
+A5AFE879:Undead Arm
+A5AFE87A:Heavy Bracelet
+A5AFE87B:Heavy Bracelet
+A5AFE87C:Ring
+A5AFE87E:Snowflower
+A5AFE87F:Writings
+A5AFE880:Heavy Necklace
+A5AFE881:Crystal Nodule
+A5AFE883:Crown
+A5AFE884:Frigid Bracelet
+A5AFE88A:Stone Tool
+A5AFE8DE:Rubble
+A5AFE8A3:Mosswart Head
+A5AFE88B:Major Shivering Stone
+A5AFE88C:Major Stinging Stone
+A5AFE88D:Major Smoldering Stone
+A5AFE88E:Major Sparking Stone
+A5AFE890:Small Olthoi Grub
+A5AFE891:Mages Loop
+A5AFE892:Serpent's Fang
+A5AFE893:Signet Crown
+A5AFE894:Sturdy Iron Keyring
+A5AFE896:Ring
+A5AFE897:Flaming Cestus
+A5AFE898:Elemental Master Robe
+A5AFE89B:Blue Orb
+A5AFE899:Pantaloons
+A5AFE89A:Smock
+A5AFE8F8:K'nath Lair Portal
+A5AFE89C:Sceptre
+A5AFE89D:Reshalra's Collar
+A5AFE89E:A Lump of Coal
+A5AFE89F:Crown
+A5AFE8A1:Crown
+A5AFE8A4:Zombie Mask
+A5AFE8A7:Manuaka's Collar
+A5AFE8A6:Chainmail Bracers
+A5AFE8A8:Acid Dirk
+A5AFE8AA:Inviso Mask
+A5AFE8AB:Chainmail Gauntlets
+A5AFE8AC:Chainmail Gauntlets
+A5AFE8AD:Small Bundle of Kithless Siraluun Feathers
+A5AFE8AF:Tunic
+A5AFE8B2:Skeleton's Skull
+A5AFE8B0:Tunic
+A5AFE8B4:Scalemail Gauntlets
+A5AFE8B8:Renegade Herbal Kit
+A5AFE8BA:Plentiful Healing Kit
+A5AFE8B9:Salvaged  (9)
+A5AFE8C0:Bottle of Crystal Champagne
+A5AFE8BD:Nayin
+A5AFE8BE:Gem
+A5AFE8BF:Mire Witch's Loincloth
+A5AFE8C1:Clasp of the Arm
+A5AFE8C2:Vagurat's Hand
+A5AFE8C4:Aphus Lounging Shirt
+A5AFE8C5:Orb
+A5AFE8C7:Tiara
+A5AFE8C6:Aphus Sun Guard
+A5AFE8C8:Wallbound Niffis
+A5AFE8CD:Studded Leather Gauntlets
+A5AFE8CE:Sollerets
+A5AFE8CF:Eye Patch
+A5AFE8D0:Aphus Wading Pants
+A5AFE8D1:Aphus Lounging Shirt
+A5AFE8D3:Swamp Lord's War Paint
+A5AFE8D2:Circlet of Supremacy
+A5AFE8D4:Fireworks
+A5AFE8D5:Mire Witch's Loincloth
+A5AFE8D6:Leather Boots
+A5AFE8D7:Covenant Helm
+A5AFE8D8:Salvaged  (5)
+A5AFE8D9:Salvaged  (100)
+A5AFE8DA:Sparring Shirt
+A5AFE8DC:Doll Mask
+A5AFE8DB:Sparring Pants
+A5AFE8DD:Aphus Sun Guard
+A5AFE8DF:Party Hat
+A5AFE8E0:Renegade Bone Charm
+A5AFE8E1:Crown of Bone
+A5AFE8E2:Asheron's Benediction
+A5AFE8E3:Aphus Lounging Shirt
+A5AFE8E5:Ishaq's Mace
+A5AFE8E6:Aphus Wading Pants
+A5AFE8EA:Olthoi Cuirass
+A5AFE8EB:Blackmoor's Favor
+A5AFE8EC:Salvaged  (15)
+A5AFE8ED:Salvaged  (44)
+A5AFE8EE:Salvaged  (11)
+A5AFE8F3:Doll House
+A5AFE8EF:Salvaged  (9)
+A5AFE8F0:Salvaged  (10)
+A5AFE8F4:Old Lucky Gold Letter
+A5AFE8F5:Heavy Necklace
+A5AFE8F6:Glyph of Light Weapons
+A5AFE8F7:Frost Sceptre
+A5AFE8F9:Helm of Isin Dule
+A5AFE8FC:Diamond Heart
+A5AFE8FA:Scholar's Crystal
+A5AFE8FB:Enchanter's Crystal
+A5AFE8FD:Armored Undead Arm 
+80578807:Fire Compound Bow
+A5B3598C:Seal
+805787F9:Elaborate Scroll
+8057879B:Living Tome
+A5B4772B:Brown Lump
+A5B769C1:Monougat
+
+Missing Exports - Possessed items that were not found:

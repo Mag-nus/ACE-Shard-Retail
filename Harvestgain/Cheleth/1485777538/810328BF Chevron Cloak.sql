@@ -1,0 +1,78 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (2164467903, 44851, 2, 7459137) /* Clothing */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (2164467903,   1,          4) /* ItemType - Clothing */
+     , (2164467903,   4,     131072) /* ClothingPriority - 131072 */
+     , (2164467903,   5,         75) /* EncumbranceVal */
+     , (2164467903,   9,  134217728) /* ValidLocations - Cloak */
+     , (2164467903,  10,  134217728) /* CurrentWieldedLocation - Cloak */
+     , (2164467903,  16,          1) /* ItemUseable - No */
+     , (2164467903,  18,          1) /* UiEffects - Magical */
+     , (2164467903,  19,        556) /* Value */
+     , (2164467903,  28,          0) /* ArmorLevel */
+     , (2164467903,  36,       9999) /* ResistMagic */
+     , (2164467903,  65,        101) /* Placement - Resting */
+     , (2164467903,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (2164467903, 105,          8) /* ItemWorkmanship */
+     , (2164467903, 131,          8) /* MaterialType - Wool */
+     , (2164467903, 158,          7) /* WieldRequirements - Level */
+     , (2164467903, 159,          1) /* WieldSkillType - Axe */
+     , (2164467903, 160,         60) /* WieldDifficulty */
+     , (2164467903, 172,          1) /* AppraisalLongDescDecoration */
+     , (2164467903, 265,         54) /* EquipmentSetId - CloakBow */
+     , (2164467903, 319,          2) /* ItemMaxLevel */
+     , (2164467903, 320,          2) /* ItemXpStyle - ScalesWithLevel */
+     , (2164467903, 352,          1) /* CloakWeaveProc */;
+
+INSERT INTO `biota_properties_int64` (`object_Id`, `type`, `value`)
+VALUES (2164467903,   4,   3000000000) /* ItemTotalXp */
+     , (2164467903,   5,   1000000000) /* ItemBaseXp */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (2164467903,   1, False) /* Stuck */
+     , (2164467903,  11, True ) /* IgnoreCollisions */
+     , (2164467903,  13, True ) /* Ethereal */
+     , (2164467903,  14, True ) /* GravityStatus */
+     , (2164467903,  19, True ) /* Attackable */
+     , (2164467903,  22, True ) /* Inscribable */
+     , (2164467903, 100, False) /* Dyable */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (2164467903,  13, 0.800000011920929) /* ArmorModVsSlash */
+     , (2164467903,  14, 0.800000011920929) /* ArmorModVsPierce */
+     , (2164467903,  15,       1) /* ArmorModVsBludgeon */
+     , (2164467903,  16, 0.200000002980232) /* ArmorModVsCold */
+     , (2164467903,  17, 0.200000002980232) /* ArmorModVsFire */
+     , (2164467903,  18, 0.100000001490116) /* ArmorModVsAcid */
+     , (2164467903,  19, 0.200000002980232) /* ArmorModVsElectric */
+     , (2164467903, 165,       1) /* ArmorModVsNether */
+     , (2164467903, 8004,       8) /* PCAPRecordedWorkmanship */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (2164467903,   1, 'Chevron Cloak') /* Name */
+     , (2164467903,  16, 'Chevron Cloak') /* LongDesc */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (2164467903,   1,   33561386) /* Setup */
+     , (2164467903,   3,  536870932) /* SoundTable */
+     , (2164467903,   8,  100692126) /* Icon */
+     , (2164467903,  22,  872415275) /* PhysicsEffectTable */
+     , (2164467903,  50,  100690997) /* IconOverlay */
+     , (2164467903,  55,       5753) /* ProcSpell - CloakAllSkill */
+     , (2164467903, 8001, 3240591512) /* PCAPRecordedWeenieHeader - Value, Usable, UiEffects, Wielder, ValidLocations, CurrentlyWieldedLocation, Priority, Burden, Workmanship, IconOverlay, MaterialType */
+     , (2164467903, 8003,         18) /* PCAPRecordedObjectDesc - Inscribable, Attackable */
+     , (2164467903, 8005,     137217) /* PCAPRecordedPhysicsDesc - CSetup, STable, PeTable, AnimationFrame */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (2164467903,   3, 1343228296) /* Wielder */
+     , (2164467903, 8000, 2164467903) /* PCAPRecordedObjectIID */;
+
+INSERT INTO `biota_properties_spell_book` (`object_Id`, `spell`, `probability`)
+VALUES (2164467903,  5753,      2) ;
+
+INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
+VALUES (2164467903, 0, 83898657, 83898660, 0);
+
+INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, `order`)
+VALUES (2164467903, 0, 16795839, 0);

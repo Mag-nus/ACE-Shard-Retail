@@ -1,0 +1,11 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Ujiio-01-30-2017-Shoushi_StoneCathedral\pkt_2017-1-30_1485833335_log.pcap
+
+Partial Exports - Missing appraisal info:
+D81A86D8:Pyreal
+D81A86D9:Sack
+D81A86DA:Ust
+D81A86DC:Pathwarden Token
+D81A86E2:Letter From Home
+
+Missing Exports - Possessed items that were not found:

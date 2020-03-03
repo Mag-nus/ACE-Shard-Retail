@@ -1,0 +1,85 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-28_1485593171_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-22_1485136357_log.pcap
+C:\ACEmulator\Logs Unpacked\02-02-2017\JDW715_Mithril_Branor_Morningthaw_Dereth_Farewell_Tour\pkt_2017-1-22_1485136357_log.pcap
+
+Partial Exports - Missing appraisal info:
+80A1F0D2:Foci of Artifice
+80A1F0D3:Foci of Enchantment
+80A1F0D4:Pack
+80A1F0D9:Heavy Bracelet
+80A1F0DB:Faran Life Master Robe
+80A1F0DC:Tunic
+80A1F119:Pyreal
+80A1F0E4:Massive Mana Charge
+80A1F0E8:Faran Life Master Robe
+80A1F0ED:Pack
+80A1F0EB:Monouga Laboratory Portal Attunement Gem
+80A1F0EC:Cloth Gloves
+80A1F0EF:Prismatic Taper
+80A1F0F0:Silver Scarab
+80A1F0F1:Copper Scarab
+80A1F0F4:Treated Healing Kit
+80A1F0F5:Treated Healing Kit
+80A1F0F6:Treated Healing Kit
+80A1F0F7:Treated Healing Kit
+80A1F0F8:Treated Healing Kit
+80A1F0F9:Treated Healing Kit
+80A1F0FA:Treated Healing Kit
+80A1F0FB:Treated Healing Kit
+80A1F0FC:Treated Healing Kit
+80A1F0FD:Treated Healing Kit
+80A1F0FE:Treated Healing Kit
+80A1F0FF:Treated Healing Kit
+80A1F101:Plentiful Healing Kit
+80A1F102:Platinum Scarab
+80A1F103:Pyreal Scarab
+80A1F104:Treated Healing Kit
+80A1F105:Treated Healing Kit
+80A1F12F:Treated Healing Kit
+80A1F106:Pack
+80A1F110:Trade Note (100,000)
+80A1F112:Gem of Stillness
+80A1F113:Nanto Portal Gem
+80A1F11B:Ust
+80A1F14F:Ring
+80A1F11E:Pack
+80A1F122:Coalesced Mana
+80A1F12A:Ruined Amulet of the Two Hander
+80A1F12D:Loose Pants
+80A1F133:Massive Mana Charge
+80A1F11F:Kireth Gown with Band
+80A1F141:Silver Pea
+80A1F142:Gold Pea
+80A1F14A:Scroll of Destructive Curse VII
+80A1F14B:Copper Pea
+80A1F14C:Major Mana Stone
+80A1F14D:Greater Mana Stone
+80A1F150:Major Mana Stone
+80A1F153:Salvage (4)
+80A1F154:Salvage (6)
+80A1F167:Major Mana Stone
+80A1F155:Salvage (17)
+80A1F156:Salvage (6)
+80A1F168:Major Mana Stone
+80A1F157:Salvage (12)
+80A1F158:Salvage (5)
+80A1F169:Greater Mana Stone
+80A1F159:Salvage (12)
+80A1F15A:Salvage (9)
+80A1F16B:Major Mana Stone
+80A1F15B:Salvage (5)
+80A1F15E:Salvage (6)
+80A1F16D:Major Mana Stone
+80A1F15F:Salvage (6)
+80A1F161:Salvage (12)
+83BC0989:Pack
+80A1F16A:Salvage (5)
+83B8D450:Wrapped Bundle of Deadly Frog Crotch Arrowheads
+83BC09C2:Wrapped Bundle of Deadly Fire Arrowheads
+83BC099A:Ring
+80A1F16E:Salvage (6)
+
+Missing Exports - Possessed items that were not found:

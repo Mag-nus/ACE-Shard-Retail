@@ -1,0 +1,189 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\MrBoomBoom-01-22-2017-LegendaryQuestsAndPKFights\pkt_2017-1-30_1485831644_log.pcap
+
+Partial Exports - Missing appraisal info:
+CBCCB1F9:Leather Boots
+CBCCA9FA:Foci of Artifice
+CBAD1DD6:Foci of Verdancy
+CBD06F75:Pack
+CBCCA4E3:Lead Scarab
+CBCCA646:Copper Scarab
+CBCC8CAD:Robber Baron Head
+CBCCA6C0:Silver Scarab
+CBD14A6D:Trade Note (100,000)
+CBCDFDD1:Trade Note (50,000)
+CBCDFE3C:Trade Note (150,000)
+CBCCA60D:Skeleton Key
+CBCCB2FB:Trade Note (250,000)
+CBCF113C:A Large Mnemosyne
+CBC346B9:Fragment of the Singularity
+CBCDFE10:Blackmoor's Favor
+CBD14A0B:Pyreal Scarab
+CBCDFCA7:Iron Scarab
+CBCCB421:Mortar and Pestle
+CBCCB459:Trade Note (250,000)
+CBD131B7:Water of Lethe
+CCD32C70:Trade Note (250,000)
+CBD14A79:Weeping Spear
+D0B22CEC:Platinum Scarab
+D5A0EDC4:Trade Note (250,000)
+CBDAA3BC:Trade Note (250,000)
+CBA70B09:Pathwarden Trinket
+CBCC73E8:Wide Breeches
+CBD3D978:Academy Coat
+D5B2E8C8:Pyreal
+9D4F777B:Ust
+CBD3D9B3:Pack
+CBCC794A:Diamond Powder
+CBCDFEA2:Little Green Seeds
+CBCCB455:Little Green Seeds
+CBCDFAAD:Small Olthoi Venom Sac
+CBD3D01E:Iceball
+CBAAE967:Magic Iceball
+CBCCAE81:Carrot
+CBDAA31D:Throwing Pancake
+CE645C58:Stipend
+CD6A4A95:Prismatic Taper
+CD5E5DDD:Scroll of Rending Wind
+CBCCB433:Aphus Lassel Portal Gem
+CBCCA924:Aphus Lassel Portal Gem
+CBCCB49E:Ancient Tablet of the Crystal Sword (Level 180+)
+CCBFE6D4:Ancient Tablet of the Crystal Sword (Level 180+)
+CBCCB408:Ancient Tablet of the Crystal Staff (Level 180+)
+CBCC5177:Ancient Tablet of the Crystal Idol (Level 180+)
+CBCCB512:Ancient Tablet of the Crystal Amulet (Level 180+)
+CD693C94:Salvage (75)
+CBD3E0CD:Caulnalain Key
+CD891720:Salvage (25)
+CC01CC50:Salvage (25)
+D0EE21CE:Pack
+CC01CC70:Salvage (75)
+CC01CC6F:Salvage (58)
+D0F3B9D8:Pack
+CC01CC6C:Salvage (72)
+CC01CC61:Salvage (48)
+D08EB606:Pack
+D0553692:Salvage (84)
+D0AB0AAC:Salvage (69)
+CBCCB25E:Fenmalain Key
+D0403BDD:Salvage (100)
+D041287C:Salvage (100)
+CFD21B00:Salvage (100)
+D0AA73D3:Salvage (100)
+CFCF4F1B:Salvage (100)
+D042908C:Salvage (100)
+D02A8BA9:Salvage (100)
+D036E9C0:Salvage (100)
+D0381CE0:Salvage (100)
+D02DF996:Salvage (100)
+D0570EF7:Salvage (100)
+CECA11D0:Salvage
+D051BF89:Salvage
+D0586E2E:Salvage
+D0ADD247:Salvage
+CE5B8232:Salvage
+D0ADD23F:Salvage
+CE7E9FC5:Salvage
+D10BB2B2:Salvage (100)
+D16018B5:Salvage (100)
+D0F97D50:Salvage (100)
+D16614EA:Salvage (100)
+D1AA1D0D:Salvage (100)
+D1B1FCCD:Salvage (100)
+D05538B8:Salvage (100)
+D0356869:Salvage (100)
+D0553552:Salvage (100)
+D0411229:Salvage (100)
+CC01CC3B:Salvage (100)
+CC01CC52:Salvage (100)
+CC01CC38:Salvage (100)
+CC01CC63:Salvage (100)
+CC01CC66:Salvage (100)
+CC01CC69:Salvage (100)
+CC01CC48:Salvage (100)
+CC01CC4B:Salvage (100)
+CC01CC39:Salvage (100)
+CC01CC49:Salvage (100)
+CC01CC65:Salvage (100)
+CFC6437C:Salvage (100)
+CC01CC68:Salvage (100)
+D05534E7:Salvage (100)
+D15098EA:Salvage (100)
+D15FFCA6:Salvage (100)
+D16018B6:Salvage (100)
+D16247D2:Salvage (100)
+D1661668:Salvage (100)
+D15FC93A:Salvage (100)
+D1A0F36E:Salvage (100)
+D194F742:Salvage (100)
+D190FB87:Salvage (100)
+D1A94BE4:Salvage (100)
+D1A252AF:Salvage (100)
+D1A1F558:Salvage (100)
+D15DE5E8:Salvage (100)
+D15B9585:Salvage (100)
+D10BB228:Salvage (100)
+D162458C:Salvage (100)
+D10BB2B3:Salvage (100)
+D1A0F191:Salvage (100)
+D1923491:Salvage (100)
+D15DEB6E:Salvage (100)
+D15B079B:Salvage (100)
+D191D9D4:Salvage (100)
+D16246B2:Salvage (100)
+D1A0F6F7:Salvage (100)
+D19FA85A:Salvage (100)
+D15B7418:Salvage (100)
+D1660F79:Salvage (100)
+D16241E5:Salvage (100)
+D1A0EF1E:Salvage (100)
+D0DD1ED1:Salvage (69)
+D0F6D7C4:Salvage (97)
+D1089A83:Salvage (93)
+D5E878ED:Salvage (100)
+D5E878EA:Salvage (20)
+D5E878EC:Salvage (100)
+D5E878E9:Salvage (100)
+D5EAB4CE:Salvage (100)
+D5EAB4D1:Salvage (100)
+D5EAB4D2:Salvage (100)
+D5EAB4D6:Salvage (100)
+D5EAB4D8:Salvage (100)
+D5EAB4DA:Salvage (100)
+D5EAB4DB:Salvage (93)
+D5EAB4DD:Salvage (100)
+D5EAB4DE:Salvage (100)
+D5EAB4E1:Salvage (100)
+D5EAB4EB:Salvage (100)
+D5EAB4EC:Salvage (100)
+D5E878B7:Salvage (100)
+D5E878B6:Salvage (100)
+D5EAB4EF:Salvage (100)
+D5EAB4F1:Salvage (100)
+D5E878B2:Salvage (68)
+D5EAB4F7:Salvage (93)
+D5E87517:Salvage (75)
+D5EAB722:Salvage (5)
+D5EAB724:Salvage (5)
+D5EAB725:Salvage (5)
+D5EAB726:Salvage (5)
+D5EAB733:Salvage (84)
+D5EAB734:Salvage (100)
+D1601A31:Salvage (67)
+D15E841D:Salvage (69)
+D1624775:Salvage (80)
+D18175B3:Salvage (56)
+D1A93D41:Salvage (66)
+D0F61657:Salvage (13)
+D1BE3D68:Salvage (5)
+D0CB9DF1:Salvage (3)
+D4E5A574:Salvage (62)
+D1BED559:Salvage (18)
+D53F360F:Salvage (60)
+D51A6F34:Salvage (12)
+D521BEE8:Salvage (3)
+D519D917:Salvage (13)
+D5EAB4CB:Salvage (100)
+D5E878EF:Salvage (100)
+
+Missing Exports - Possessed items that were not found:

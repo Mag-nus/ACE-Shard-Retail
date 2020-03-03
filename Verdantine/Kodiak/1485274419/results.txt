@@ -1,0 +1,64 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-24_1485274306_log.pcap
+
+Partial Exports - Missing appraisal info:
+88AD64E2:Smock
+88AD631E:Pants
+88AD6B8A:Foci of Artifice
+88AE74D9:Foci of Verdancy
+88AFE39E:Greeter's Key
+88AFE39F:Stamina Potion
+88AFE3A4:Gem
+88AFE3A5:Gem
+88AFE3A6:Gem
+88AFE3A7:Handy Healing Kit
+88AFE3A8:Scroll of Coordination Other II
+88AFE3AC:Pyreal
+88AFE3AD:Stone of Humility
+88AFE3AF:Adept Healing Kit
+88AFE3C1:Pyreal
+88AFE3B0:Scroll of Piercing Bane II
+88AFE3B1:Atlatl
+88AFE3B5:Scroll of Secondary Portal Tie
+88AFE3B6:Scroll of Primary Portal Tie
+88AFE3B7:Scroll of Piercing Bane III
+88AFE3B8:Gem
+88AFE3B9:Scroll of Drain Stamina Other III
+88AFE3BA:Scroll of Arcane Enlightenment II
+88AFE3BB:Heavy Bracelet
+88AFE3BE:Ring
+88AFE3C2:Lightning Dirk
+88AFE3C3:Wand
+88AFE3C5:Pyreal
+88AFE3C7:Asheron's Benediction
+88AFE3C6:Pack Martine
+88AFE3C8:Blackmoor's Favor
+88AFE3CA:Frost Dirk
+88AD6280:Ornate Gear Marker
+88B01F9A:A'nekshay Token
+88AD626E:Olthoi Alduressa Gauntlets
+88AD6267:Sedgemail Leather Sleeves
+88B01F7C:Scroll of Battlemage's Blessing
+88B02827:Leather Pants
+88B02DA2:Cloth Gloves
+88B02824:Frost Sceptre
+88B031BC:Colosseum Coin
+88B194BA:Top
+88B194B4:Flaming Dericost Blade
+88B194B3:Frost Bow
+88ADABA9:Studded Leather Boots
+88B1CD00:Olthoi Celdon Girth
+88B472BC:Acid Naginata
+88B472BA:Acid Khanda-handled Mace
+88B472B3:Loose Tunic
+88B472B1:Haebrean Gauntlets
+88B483B1:Gem of Greater Luminance
+88B49812:Large Round Shield
+88B4A3D0:Slashing Bow
+88B099B5:Frost Hammer
+88AEE532:Heavy Bracelet
+88B54039:Pack
+88B54064:Pack
+88AFE3BD:Academy Wand
+
+Missing Exports - Possessed items that were not found:

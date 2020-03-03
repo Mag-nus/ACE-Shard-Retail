@@ -1,0 +1,244 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-30_1485834211_log\pkt_2017-1-30_1485834211_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485323961_log\pkt_2017-1-24_1485323961_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485323961_log\pkt_2017-1-24_1485323961_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485323961_log\pkt_2017-1-24_1485323961_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485323961_log\pkt_2017-1-24_1485323961_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485323961_log\pkt_2017-1-24_1485323961_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485323961_log\pkt_2017-1-24_1485323961_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485323961_log\pkt_2017-1-24_1485323961_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485323961_log\pkt_2017-1-24_1485323961_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485323961_log\pkt_2017-1-24_1485323961_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485323961_log\pkt_2017-1-24_1485323961_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-24_1485323961_log\pkt_2017-1-24_1485323961_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-27_1485541296_log\pkt_2017-1-27_1485541296_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-27_1485541296_log\pkt_2017-1-27_1485541296_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-28_1485672784_log\pkt_2017-1-28_1485672784_log.pcap
+C:\ACEmulator\Logs Unpacked\02-07-2017\IngmarHG-pkt_2017-1-30_1485764546_log\pkt_2017-1-30_1485764546_log.pcap
+
+Partial Exports - Missing appraisal info:
+C09281AD:Ust
+C0981D53:Ginger
+C016B201:Strange Stick
+C095A4B7:Cinnamon Bark
+C095BDA5:Hot Sauce
+C095267A:Brown Lump
+C0981CBF:Cured Large Lugian Sinew
+C0942F67:Vial of Lapyan Dye
+C0944463:Hot Pepper
+C092DFD7:Bunch of Nanners
+C093328B:Brown Beans
+C095A4D0:Vial of Relanim Dye
+C095192B:Vial of Colban Dye
+C09443FC:Vial of Argenory Dye
+C08D797B:Hea Totem
+C0942F66:Vial of Hennacin Dye
+C0981D5C:Vial of Minalim Dye
+C781E63B:Peerless Lockpick
+C0981D5B:Vial of Berimphur Dye
+C0981D5A:Vial of Verdalim Dye
+C7A66201:Peerless Lockpick
+C0981D59:Yellow Monster Seed
+C0981D58:Vial of Thananim Dye
+C0981DDD:Orange Monster Seed
+C0959E27:Red Monster Seed
+C098096E:Nutmeg
+C0981D4B:Deadly Fire Arrow
+C095130E:Wrapped Bundle of Arrowshafts
+C095AA10:Diamond Powder
+C095AA08:Vissidal Island Portal Gem
+C095A971:Shoyanen's Portal Gem
+C0932EE4:Pyreal
+C093123F:Aphus Lassel Portal Gem
+C0981D7A:Wrapped Bundle of Deadly Frog Crotch Arrowheads
+C098096B:Neutral Balm
+C095AA06:Wrapped Bundle of Deadly Fire Arrowheads
+C09284AC:Fire Bow
+C6629FAD:Wrapped Bundle of Deadly Blunt Arrowheads
+C606F4EB:Artist's Crystal
+C092DEF7:Gem of Stillness
+C70483D2:Concentrated Aqua Incanta
+C64C633C:Fire Compound Bow
+C810AAD6:Town Network Portal Gem
+C0943F24:Tusker Spit
+C0980972:Plain Barley
+C0980973:Vibrant Green Hops
+C0958AB2:Diamond Powder
+C0980968:Amber Barley
+C0980971:Moarsmuck
+C092D941:Shadow Fragment
+C092C5D4:Shadow Fragment
+BFEFFDBA:Polar Ursuin Lair
+C08B8E7C:Fletcher's Cap
+C092D972:Chef's Hat
+C0972FEC:Empty Bottles
+C098097D:Empty Bottles
+C098097C:Dried Yeast
+C093D4B8:Ultra Green Hops
+C0980C82:Water
+C098128A:Salvaged  (100)
+C098226B:Salvaged  (100)
+C09818A6:Salvaged Reedshark Hide (100)
+C095A4C0:Alembic
+C095A9DE:Salvaged  (100)
+C09331FA:Salvaged  (100)
+C097FC05:Eye Dropper
+C095A9D9:Salvaged  (100)
+C098120C:Salvaged  (100)
+C095AA02:Carving Knife
+C0959E2B:Salvaged  (100)
+C0943544:Salvaged  (100)
+C0932555:Salvaged  (100)
+C095A184:Salvaged  (100)
+C0981CC2:Baking Pan
+C0952EA3:Salvaged  (100)
+C0953188:Salvaged  (100)
+C0980A0C:Brew Kettle
+C7A8D8C8:Salvage (100)
+C7C2F1CE:Salvage (100)
+C0C80ED7:Drudge Charm
+C0980C6A:Silver Scarab
+C0951F32:Gold Scarab
+C0929A57:Platinum Scarab
+C0951342:Pyreal Scarab
+C097FE34:Mortar and Pestle
+C095A232:Copper Scarab
+C0980A0E:Mana Scarab
+C0980A0A:Diamond Scarab
+C095A23B:Iron Scarab
+C095A54F:Whittling Knife
+C0981C99:Mana Philtre
+C0981EAC:Plentiful Healing Kit
+C0981EAB:Lead Scarab
+C0950E16:Elaborate Field Rations
+C0981E8D:Health Philtre
+C0943018:Intricate Carving Tool
+C09297B6:Trade Note (100,000)
+C826ADE1:Salvage (100)
+C81F7C59:Salvage (100)
+C0981EB3:Ten of Eyes
+C0981EAD:Queen of Eyes
+C09653EF:Nine of Eyes
+C81223C9:Salvage (100)
+C839829A:Salvage (100)
+C0981EB4:Jack of Eyes
+C83987A1:Salvage (100)
+C83CA8F0:Salvage (100)
+C0980A1B:Deck of Eyes
+C81C12E0:Salvage (100)
+C84518D7:Salvage (100)
+C095AA7C:Deck of Hands
+C83C7F1C:Salvage (100)
+C0952F83:Four Cards from the Deck of Eyes
+C0980A20:Three Cards from the Deck of Eyes
+C097CADE:Three of Hands
+C76D7503:Little Green Seeds
+C0952E8C:Six of Hands
+C08EE032:Seven of Hands
+C0950EA7:Nine of Hands
+C092CD02:Ten of Hands
+C092E95B:Queen of Hands
+C092C641:King of Hands
+C0980A34:Seven of Eyes
+C0980A31:Two of Hands
+C0980A36:Eight of Hands
+C7109755:Gem of Purity
+C84C278A:Aetheria Mana Stone
+C095A251:Heavy Bracelet
+C0980CA4:Some Changes for February 2012
+C0950D87:Monougat
+C0D64EAD:Peppermint Monougat Chew
+C0BFE7CE:Armoredillo Hide
+C0E234ED:Armoredillo Hide Bracers
+C0E236A0:Armoredillo Hide Bracers
+C0B60104:White Jewel
+C0C4B657:Sandy Armoredillo Spine
+C0B39572:Chorizite
+C78A8A6F:Pyreal Mote
+C0BD304D:Decanter of Essence
+C0B50235:Decanter of Essence
+C0BDBF77:Bobo's Stout
+C0981EEA:Amber Ape
+C09ACA69:Quality Pyreal Ingot
+C09ACA6B:Pyreal Mote
+C09ACA6A:Pyreal Bar
+C84A5FDD:Hunter's Stock Amber
+C08DE437:Salvaged  (100)
+C0981D9F:Salvaged  (100)
+C0980A95:Salvaged  (100)
+C0951358:Salvaged  (100)
+C095AA05:Salvaged  (100)
+C095A486:Salvaged  (100)
+C8577285:Cooking Pot
+C0932533:Salvaged  (100)
+C095A993:Salvaged  (100)
+C016A68A:Moderate Item Tinkering Armature
+C095AA13:Major Item Tinkering Armature
+C0980C59:Minor Item Tinkering Armature
+C09A6F6F:Soft Bandages
+C09A6F70:Combined Hyssop and Mandrake
+C09A6F6E:Elaborate Dried Rations
+C6C5C3FD:Salvage (100)
+C6C2BE56:Salvage (100)
+C0C0635B:Salvaged  (100)
+C0BAC2C8:Salvaged  (100)
+C76F2EB1:Imbue Swap Coin
+C7608C00:Salvage (100)
+C78FC040:Salvage (100)
+C784161C:Salvage (100)
+C7A7A957:Salvage (100)
+C7ABBA0D:Salvage (100)
+C7A7AD41:Salvage (100)
+C787D74B:Salvage (100)
+C7A7C98D:Salvage (100)
+C7A44FBE:Salvage (100)
+C7AEB7D6:Salvage (100)
+C79158B7:Salvage (100)
+C7C23734:Salvage (100)
+C7A7FE9A:Salvage (100)
+C7C25BE5:Salvage (100)
+C7C3E96E:Salvage (100)
+C7CBAA09:Salvage (100)
+C7A466C4:Salvage (100)
+C0C06372:Salvaged  (100)
+C7EEC975:Salvage (100)
+C7EEE0D9:Salvage (100)
+C7D1C893:Salvage (100)
+C79F36A2:Salvage (100)
+C0981E8C:Salvaged  (100)
+C80963F9:Salvage (100)
+C814E93B:Salvage (100)
+C820F3DF:Salvage (100)
+C820F1EB:Salvage (100)
+C8250C7B:Salvage (100)
+C828D5ED:Salvage (100)
+C837F27F:Salvage (100)
+C82D8DA0:Salvage (100)
+C828C7A9:Salvage (100)
+C7C2F15F:Salvage (100)
+C81C0B4A:Salvage (100)
+C09A6CAA:Salvaged  (100)
+C787E452:Salvage (100)
+C8451E78:Salvage (100)
+C8525926:Salvage (100)
+C826BFB8:Salvage (100)
+C846041B:Salvage (100)
+C835541C:Salvage (100)
+C84F78F0:Salvage (100)
+C8483011:Salvage (100)
+C852436E:Salvage (100)
+C83DA0EA:Salvage (100)
+
+Missing Exports - Possessed items that were not found:

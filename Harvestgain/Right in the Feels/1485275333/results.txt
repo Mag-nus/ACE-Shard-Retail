@@ -1,0 +1,116 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-24_1485275329_log.pcap
+
+Partial Exports - Missing appraisal info:
+C78024A4:Pyreal
+C78024A5:Sack
+C78024A6:Ust
+C7AC0E01:Asheron's Benediction
+C7AA02CE:Oil of Rendering
+C7A834D9:Facility Hub Portal Gem
+C79C0B67:Minor Mana Stone
+C7A22C80:Pathwarden Trinket
+C7AC72A9:Lead Pea
+C78B586C:Baggy Breeches
+C7A5DE15:Scroll of Recklessness Mastery Other III
+C7A6894F:Ring
+C79D426D:Stamina Potion
+C7AACA27:Peppermint Stick
+C7983656:Bordered Cloak
+C7AACCC9:Wand
+C7AACCCF:Bracelet
+C7AC2C92:A List of Items
+C7ACDB90:Lesser Mana Stone
+C7A80EF9:Academy Stamp
+C7A451B5:Mana Potion
+C7AC3114:Pyreal
+C7AC3A35:Pyreal
+C7A452EE:Stamina Tincture
+C78FBE0B:Coalesced Mana
+C7A26D27:Academy Stamp
+C7A456C6:Bracelet
+C7AB6347:Pack
+C7A268FC:Fire Skeleton Minion Essence (50)
+C7AD177C:Pack
+C7AD194B:Pyreal
+C7AD1BFD:Pyreal
+C7AC4680:Pyreal
+C7AD23D3:Directions to the Cave of Alabree
+C7A5ED50:Pyreal
+C7CA2144:Blackmoor's Favor
+C7DA5B24:Pack
+C7DA5B10:Sparring Shirt
+C79CE727:Bloodletter Charm Necklace
+C7A5EEF4:Treated Healing Kit
+C7A5EEF6:Treated Healing Kit
+C7A5EEF7:Treated Healing Kit
+C7A5ED4F:Pack
+C7A5ED39:Treated Healing Kit
+C7A5ED3A:Treated Healing Kit
+C7A5ED37:Treated Healing Kit
+C7A5ED26:Celdon Leggings
+C7A5ED12:Scalemail Gauntlets
+C7A5ED11:Celdon Girth
+C7914731:Belt Pouch
+C7A5ED23:Celdon Breastplate
+C7A5ED28:Celdon Sleeves
+C7DD12DE:Pyreal
+C7A5ED47:Heaume
+C7A5ED14:Sollerets
+C79346D7:Trade Note (250,000)
+C7991017:Plentiful Healing Kit
+C7A25EA4:Treated Healing Kit
+C7DBF0D1:Silver Scarab
+C7DBE9A0:Prismatic Taper
+C7DBFDF8:Copper Scarab
+C7A67FED:Halved Cloak
+C7D77BB3:Platemail Hauberk of the Ogre
+C7D7907D:Fire Auroch Meat
+C7DA5E9D:Trade Health Elixir
+C7C0D4A0:Fiery Shield
+C7DA5B0F:Elysa's Favor
+C79F35FC:Ring
+C7D6078D:Copper Heart
+C7D629B1:Superior Helmet
+C7DA5B26:Scroll of Summon Primary Portal I
+C7DA5B27:Scroll of Summon Secondary Portal I
+C7DA5B0E:Plentiful Healing Kit
+C78024A1:Shirt
+C7DB3363:Cell Key
+C7DB3BAD:Small Rusted Key
+C7D4B634:Scratched Key
+9E2E3E25:Baron's Amulet of Life Giving
+C7D5B43D:Frost Quadrelle
+C7D8BC2F:Tart Apple
+C7DA4504:Foci of Artifice
+C7D14CB0:Note from Mi Krau-Li
+C7CE616C:Mi Krau-Li's Jitte
+C7DC176C:Handbook of the Bestowers' Guild
+C7DCF1F4:Mace of the Explorer
+C7DBD1D4:A Ring of Acid Protection
+C7DBD037:Trade Note (50,000)
+C7DBD16D:Treated Healing Kit
+C7DBD176:Treated Healing Kit
+C7DBD1B2:Ring of Piercing Protection
+C7DBD1E5:Trade Note (10,000)
+C7DBD165:Treated Healing Kit
+C7DBD15D:Treated Healing Kit
+C7DC3574:Journal of Frest Greelving
+C7DD12D9:Silver Atlatl
+C7DBDB29:Ornate Nekode
+C7D92AA7:A Crumpled Letter
+C7D93C34:Mite Queen's Staff
+C7D93EBF:Discus
+C7C0D0B7:Branith's Staff
+C7DE2799:Flaming Greataxe
+C7D61C90:Ancient Arbalest
+C7DE5727:Acid Axe
+C7DE4FBD:Letter to Bretself the Translator
+C7DE4FBE:Trade Note (10,000)
+C7AC6837:Academy Spadone
+C7DD12FD:Tetsubo Slugger
+C7DE57CA:Monougat
+C7DDAD3E:Lightning Nodachi
+C7A7CC73:Acid Nodachi
+
+Missing Exports - Possessed items that were not found:

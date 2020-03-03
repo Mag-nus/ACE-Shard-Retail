@@ -1,0 +1,24 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\trello_datamining\1_TreeMarmot-2017-1-26-Shoushi-Academy.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\TreeMarmot-2017-1-26-Shoushi-Academy\pkt_2017-1-26_1485439899_log.pcap
+
+Partial Exports - Missing appraisal info:
+C66B7FD6:Pyreal
+
+Missing Exports - Possessed items that were not found:
+C683C56D
+C66B7FE0
+C66B7FDF
+C66B7FDE
+C66B7FDD
+C66B7FDC
+C66B7FDB
+C66B7FDA
+C66B7FD9
+C66B7FD8
+C66B7FD7
+C66B7FD5
+C66B7FD4
+C66B7FD3

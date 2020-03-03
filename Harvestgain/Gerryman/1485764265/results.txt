@@ -1,0 +1,127 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203073139\pkt_2017-1-30_1485764258_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-03-2017\pcaps-20170203071513\pkt_2017-1-25_1485363128_log.pcap
+
+Partial Exports - Missing appraisal info:
+801A9272:Foci of Artifice
+91E618DD:Salvage
+800B9A7B:Salvage
+91E31457:Salvage
+B1DC20C9:Salvage (100)
+801A929A:Pyreal Scarab
+8CA3FE00:Salvage (100)
+8CA61E96:Salvage (100)
+801A928E:Prismatic Taper
+B14B9D9B:Salvage (100)
+9CF2C020:Foolproof Zircon
+B14E165E:Salvage (100)
+B1AA1987:Salvage (100)
+801A928C:Gold Scarab
+B4CB71AA:Salvage (100)
+B47D5C78:Salvage
+801A9294:Blackmoor's Favor
+B49E159D:Salvage
+801A9295:Asheron's Benediction
+801A9296:Lead Scarab
+801A9297:Silver Scarab
+801A9298:Copper Scarab
+801A9299:Iron Scarab
+B3E6AF84:Heavy Bracelet
+801A65CA:Heavy Bracelet
+80583046:Bracelet
+801A5C17:Heavy Bracelet
+801A5C18:Bracelet
+8ADB94D9:Bracelet
+8B72C6C5:Heavy Bracelet
+801AA2BC:Heavy Bracelet
+8102D7C8:Bracelet
+91DF3EBF:Heavy Bracelet
+8EF4BDA2:Heavy Bracelet
+801AABEC:Heavy Bracelet
+801A92B7:Bracelet
+8058304C:Heavy Bracelet
+90889C52:Heavy Bracelet
+801A9741:Heavy Bracelet
+801A487D:Heavy Bracelet
+80FAC646:Bracelet
+801A92A7:Heavy Bracelet
+801A96E2:Bracelet
+AFCC6003:Heavy Bracelet
+801A91A3:Heavy Bracelet
+B521A8BE:Bracelet
+801AB37F:Heavy Bracelet
+801A485E:Heavy Bracelet
+8101F1E0:Refulgent Bracelet
+801AA281:Bracelet of Dark Essence
+801AF027:Bracelet of Dark Essence
+8018B65D:Refulgent Bracelet
+8101F1E1:Bracelet of Dark Essence
+8017FD53:Bracelet of Dark Essence
+801AB3B4:Refulgent Bracelet
+801AA282:Refulgent Bracelet
+801AF028:Refulgent Bracelet
+91E62172:Heavy Bracelet
+801AF025:Bracelet of Passage
+801AE0E8:Ring
+801AEFF8:Ring
+8E5C835A:Ring
+801A65B4:Ring
+B46D67FF:Ring
+801AA483:Ring
+801AF029:Ring
+801AA499:Ring
+801A5BEF:Ring
+801A92B8:Ring
+B50B692C:Ring
+80FD1ECB:Ring
+810366C0:Ring
+8FDB2912:Ring
+80583049:Ring
+801AA2A5:Rose of Celdon
+801AB377:Rose of Celdon
+8102D7C5:Ring
+801A91A5:Ring
+801A972F:Ring
+801A9282:Ring
+B4F37183:Ring
+85CA9AD7:Ring
+801A972B:Ring
+801AEFF9:Ring
+82018B91:Ring
+801AF005:Ring
+8058304A:Ring
+8B6B9E37:Ring
+801AEF8D:Ring
+B14BE4B0:Ring
+801AB38A:Ring
+8101F1E2:Dark Ruby Ring
+B12CB4E7:Ring
+B169D8C6:Ring
+801AEFFC:Ring
+801AB3B5:Ring
+B4A247DA:Ring
+80583044:Ring
+B4999A9E:Scroll of Raven Fury
+811D27D7:Vest
+801A9B22:Ring
+811CE565:Necklace
+89D23288:Ring
+8C7B5979:Heavy Bracelet
+80FD6558:Amulet
+801A9B46:Heavy Bracelet
+801AABE6:Ring
+8A854B4A:Ring
+80F8B096:Ring
+8101F1BF:Gorget
+80583048:Ring
+810070F4:Ring
+B7C24C4B:Ring
+B7A0402D:Ring
+801ADB5E:Ring
+811D27DF:Ring
+901BA1D0:Puzzle Box
+8FDF9099:Heavy Bracelet
+
+Missing Exports - Possessed items that were not found:

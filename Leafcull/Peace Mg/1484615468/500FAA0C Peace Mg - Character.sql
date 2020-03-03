@@ -1,0 +1,52 @@
+INSERT INTO `character` (`id`, `account_Id`, `name`, `is_Plussed`, `is_Deleted`, `delete_Time`, `last_Login_Timestamp`, `total_Logins`, `character_Options_1`, `character_Options_2`, `gameplay_Options`, `spellbook_Filters`, `hair_Texture`, `default_Hair_Texture`)
+VALUES (1343203852, 0, 'Peace Mg', False, False, 0, 0, 0, -117660350, 1410433, NULL, 6144, 0, 0);
+
+INSERT INTO `character_properties_fill_comp_book` (`character_Id`, `spell_Component_Id`, `quantity_To_Rebuy`)
+VALUES (1343203852, 686, 50)
+     , (1343203852, 687, 50)
+     , (1343203852, 688, 50)
+     , (1343203852, 689, 50)
+     , (1343203852, 690, 50)
+     , (1343203852, 691, 50)
+     , (1343203852, 7299, 50)
+     , (1343203852, 8897, 50)
+     , (1343203852, 20631, 1000);
+
+INSERT INTO `character_properties_shortcut_bar` (`character_Id`, `shortcut_Bar_Index`, `shortcut_Object_Id`)
+VALUES (1343203852, 0, 2848850524)
+     , (1343203852, 6, 2792294704)
+     , (1343203852, 7, 2796361674)
+     , (1343203852, 8, 2904369801);
+
+INSERT INTO `character_properties_spell_bar` (`character_Id`, `spell_Bar_Number`, `spell_Bar_Index`, `spell_Id`)
+VALUES (1343203852, 0, 0, 2073)
+     , (1343203852, 0, 1, 2345)
+     , (1343203852, 0, 2, 2083)
+     , (1343203852, 0, 3, 5368)
+     , (1343203852, 0, 4, 5356)
+     , (1343203852, 0, 5, 5394)
+     , (1343203852, 0, 6, 5338)
+     , (1343203852, 0, 7, 5361)
+     , (1343203852, 6, 0, 1635)
+     , (1343203852, 6, 1, 2645)
+     , (1343203852, 6, 2, 48)
+     , (1343203852, 6, 3, 2647)
+     , (1343203852, 6, 4, 1637)
+     , (1343203852, 6, 5, 2650)
+     , (1343203852, 6, 6, 2644)
+     , (1343203852, 6, 7, 47)
+     , (1343203852, 6, 8, 2646)
+     , (1343203852, 7, 0, 4213)
+     , (1343203852, 7, 1, 5175)
+     , (1343203852, 7, 2, 3865);
+
+INSERT INTO `character_properties_title_book` (`character_Id`, `title_Id`)
+VALUES (1343203852, 1)
+     , (1343203852, 60)
+     , (1343203852, 433)
+     , (1343203852, 447)
+     , (1343203852, 646)
+     , (1343203852, 765)
+     , (1343203852, 766)
+     , (1343203852, 767)
+     , (1343203852, 768);

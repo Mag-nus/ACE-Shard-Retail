@@ -1,0 +1,103 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\imtrippin-01-30-2017-empyrean-workshop-and-more\pkt_2017-1-30_1485816790_log.pcap
+
+Partial Exports - Missing appraisal info:
+AB72E639:Pyreal
+AB72E63A:Sack
+C0DBC73A:Salvage (100)
+C0DC7435:Salvage (100)
+C0EBD38E:Salvage (100)
+AB72E63B:Ust
+C0C4D6D5:Salvage (100)
+C0AE74BE:Salvage (100)
+AB72E642:Prismatic Taper
+C0C0CCB9:Salvage (100)
+C0C4E3B2:Salvage (100)
+AB72E643:Lead Scarab
+C0C4E4F9:Salvage (100)
+C0F12A88:Salvage (100)
+AB72E644:Letter From Home
+C0DB94F7:Salvage (100)
+AB72E645:Apple
+AB788C45:Blackmoor's Favor
+AB8399CA:Oil of Rendering
+AB8399CB:Oil of Rendering
+AB8399CD:Facility Hub Portal Gem
+AB79778E:Great Mana Charge
+AD48A2E8:Health Philtre
+AA95E504:Pack Golem
+C0D841D3:Salvage (100)
+C0AE689B:Salvage (100)
+C161EE31:Pack
+C0C4E6EB:Salvage (100)
+C0CFB86C:Salvage (100)
+C1644D28:Pack
+C09C32BE:Salvage (100)
+C0BCDE9E:Salvage (100)
+C1644791:Pack
+C0C0D4E1:Salvage (100)
+C0D1FE96:Salvage (100)
+C1644F1B:Pack
+C0CFCA15:Salvage (100)
+C0C4F189:Salvage (100)
+BFE3ED82:Pack
+C0BCBFA1:Salvage (100)
+C0D8565F:Salvage (100)
+BFFB9A89:Mana Scarab
+C0C4E7D2:Deceiver's Crystal
+C0CFA672:Rogue's Crystal
+C0CFAC6A:Adherent's Crystal
+C0DC5AD3:Salvage (100)
+C0C0CBD4:Salvage (100)
+C0885EE5:Salvage (100)
+BFE3ED83:Pack
+C0D847ED:Salvage (100)
+C0CFB3DA:Salvage (100)
+828671E0:Salvage (100)
+C0C4DA5B:Salvage (100)
+C0D21271:Salvage (100)
+C0F12CBD:Salvage (100)
+C0D5BC07:Physician's Crystal
+C0F6476C:Salvage (100)
+C0D206CB:Salvage (100)
+C0FC1740:Salvage (100)
+C0F120F2:Salvage (100)
+C0EBDE96:Salvage (100)
+C0FC32EC:Salvage (100)
+C0FC1396:Salvage (100)
+C10FE606:Salvage (100)
+C10C16FD:Salvage (100)
+C10FE3F0:Salvage (100)
+C10FE7D6:Salvage (100)
+C112E0B7:Salvage (100)
+C10FE865:Salvage (100)
+C11007EF:Salvage (100)
+C10C22D8:Salvage (100)
+C10FE8CB:Salvage (100)
+BF34756D:Salvage (18)
+BF4DEF8E:Glyph of Salvaging
+BFE430C5:Glyph of Lockpick
+BFE43054:Glyph of Quickness
+BFE42CC0:Glyph of Alchemy
+BFE42C51:Glyph of Two Handed Combat
+BFE42D6A:Glyph of Arcane Lore
+BFE4ABE5:Glyph of Monster Appraisal
+BFDF375A:Glyph of Healing
+BFDDC5F7:Glyph of Damage
+BFE09AAA:Glyph of Loyalty
+BFE42CC2:Glyph of Armor Tinkering
+BFE4AC3E:Glyph of Item Enchantment
+BFE33828:Glyph of Magic Item Tinkering
+BFDF38A2:Glyph of Shield
+BF733656:Glyph of Creature Enchantment
+BEC3A5DB:Glyph of Weapon Tinkering
+BEC3A5DA:Glyph of Recklessness
+BFE0B04F:Glyph of Stamina Regeneration
+BFE338A8:Glyph of Fletching
+BFFEB11F:Glyph of Person Appraisal
+BFE42BB6:Glyph of Missile Defense
+BFFEAF99:Glyph of Magic Defense
+BFE42BB4:Glyph of Void Magic
+C01D48BE:Glyph of Coordination
+
+Missing Exports - Possessed items that were not found:

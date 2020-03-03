@@ -1,0 +1,59 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-05-2017\Asherons-Call-packet-logs\pkt_2017-1-30_1485809049_log.pcap
+
+Partial Exports - Missing appraisal info:
+AE5CD32C:Little Green Seeds
+AE5CD303:Little Green Seeds
+AE5CD272:Little Green Seeds
+AE5939DD:Suikan War Master Robe
+AE5A1EA0:Splitting Tool
+AE5CCC0C:Carving Knife
+AE4A79C1:Pack Asheron
+AE5CCB7B:Blackmoor's Favor
+AE5CCBD7:Ursuin Hide Coat
+AE596F36:Faran Robe with Hood
+AE5A52D4:Scroll of Summon Primary Portal I
+AE596ECB:Studded Leather Leggings
+AE5CD33A:Heaume
+AE5CD307:Mattekar Hide Coat
+AE5CD2DD:Bunny Slippers
+AE5CD337:Prismatic Taper
+AE5CD322:Salvaged  (100)
+AE5BEB6D:Pyreal
+AE5CD312:Salvage (100)
+AE5CD31A:Salvage (100)
+AE5CD323:Pack
+AE5CD30F:Good Lockpick
+AE5CD2FF:Reliable Lockpick
+AE5CD375:Pack
+AE5CD354:Aphus Lassel Portal Gem
+AE5CD317:Gold Tumerok Insignia
+AE5BEBA7:Gold Tumerok Insignia
+AE5CD2F8:Health Elixir
+AE5CD336:Granite Heart
+AE5CD311:Reliable Lockpick
+AE5CD319:Trade Note (10,000)
+AE5BEBE1:Excellent Healing Kit
+AE5CD309:Stamina Tincture
+AE5CD32D:Glittering Necklace of Acid and Piercing Protection
+AE5CD2E8:A Bracelet of Piercing Protection
+AE5CD37D:Alloy Tool
+AE5B6C01:Saffron
+AE5CCCC2:Silver Scarab
+AE5BE87D:Copper Scarab
+AE5CCCAC:Iron Scarab
+AE5CD37E:Lead Scarab
+AE5CD346:Pack
+AE5CD37F:Foci of Artifice
+AE5BEBF1:Pack
+AE5CD1E8:Medal Mold
+AE5BEB0E:Jeweler's Saw Blade
+AE5CBA27:Refining Polish (Mana)
+AE5BEBE0:Refining Polish (Stamina)
+AE5CD372:Hammer
+AE5BEBC5:Sheet Metal Form
+AE5AF8FA:Minor Item Tinkering Armature
+AE5CD373:Leather Strap
+AE5CD394:Lapping Plate
+
+Missing Exports - Possessed items that were not found:

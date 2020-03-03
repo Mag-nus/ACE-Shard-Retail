@@ -1,0 +1,73 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Mag-nus-01-31-2017-pcap\pcap\pkt_2017-1-30_1485809923_log.pcap
+
+Partial Exports - Missing appraisal info:
+DC058E93:Foci of Strife
+DC0587FD:Foci of Artifice
+DC059603:Foci of Enchantment
+DC058487:Ust
+DBFECC2D:Major Mana Stone
+DC058EA9:Massive Mana Charge
+DC058E77:Pyreal
+DC058E71:Colosseum Backpack
+DC069255:Massive Mana Charge
+DC069251:Massive Mana Charge
+DC069254:Massive Mana Charge
+DC05842F:Massive Mana Charge
+DC0583E7:Massive Mana Charge
+DC058430:Massive Mana Charge
+DC058E72:Massive Mana Charge
+DC058EB6:Massive Mana Charge
+DC0586FB:Massive Mana Charge
+DBF38EF5:Massive Mana Charge
+DC058EBF:Massive Mana Charge
+DBF067E0:Massive Mana Charge
+DC058F2A:Massive Mana Charge
+DC058E6A:Massive Mana Charge
+DC058413:Massive Mana Charge
+DC058463:Massive Mana Charge
+DC06926B:Massive Mana Charge
+DC058410:Massive Mana Charge
+DC02A291:Massive Mana Charge
+DC058E74:Massive Mana Charge
+DC058092:Massive Mana Charge
+DC058064:Massive Mana Charge
+DC058402:Massive Mana Charge
+DC02912E:Massive Mana Charge
+DC059663:Massive Mana Charge
+DC059661:Colosseum Backpack
+DC068B8E:Silver Scarab
+DC058E6E:Copper Scarab
+DC058F8A:Pyreal Scarab
+DC059531:Mana Scarab
+DC058475:Mana Scarab
+DBF07538:Mana Scarab
+DC069281:Prismatic Taper
+DC058405:Prismatic Taper
+DC059213:Celdiseth's Portal Gem
+DC059204:Gold Scarab
+DC057D64:Prismatic Taper
+DC058C4C:Platinum Scarab
+DC05964A:Colosseum Backpack
+DC058483:Blackmoor's Favor
+DC05843E:Coruscating Olthoi Scent Gland
+DBFF583B:Major Mana Stone
+DC059344:Major Mana Stone
+DC059274:Major Mana Stone
+DC058484:Colosseum Backpack
+DC05921E:Heart of the Innocent
+DC058E63:Asheron's Lesser Benediction
+DC029F46:Trade Note (250,000)
+DC05874A:Ancient Mhoire Coin
+DC05922D:Major Mana Stone
+DC068E6F:Ancient Mhoire Coin
+DC058D98:Trade Note (10,000)
+DC058760:Colosseum Vault Key
+DC0121E6:Colosseum Coin
+DC05952C:Silver Pea
+DC0591AD:Colosseum Vault Key
+DC058791:Colosseum Vault Key
+DC058ED2:Colosseum Vault Key
+DBF27122:Some Changes for February 2012
+
+Missing Exports - Possessed items that were not found:

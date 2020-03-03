@@ -1,0 +1,21 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-PCAP-Absolutely-Random-Gameplay\AC-pcap\pkt_2017-1-30_1485822424_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-PCAP-Absolutely-Random-Gameplay\AC-pcap\pkt_2017-1-30_1485818240_log.pcap
+
+Partial Exports - Missing appraisal info:
+8A811E94:Pack
+8A811ECD:War Hammer
+8A5E86FF:Frost Katar
+8A5E8732:Lightning Claw
+8A5E86FE:Lightning Nekode
+8A5E827C:Frost Claw
+8A5E6E25:Katar
+8A811EB9:Adept Healing Kit
+8A5E871E:Flaming Katar
+8A7D23DA:Paradox-touched Olthoi Katar
+8A811F04:Buckler
+8A811EDC:Adept Healing Kit
+
+Missing Exports - Possessed items that were not found:

@@ -1,0 +1,81 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-02-2017\Callaway-1-27-2017-DecriptTowerQuest\pkt_2017-1-27_1485500960_log.pcap
+
+Partial Exports - Missing appraisal info:
+9909857C:Pyreal
+9911031B:Shoes
+9911032B:Pack
+9911032A:Bracelet
+99110328:Ring
+99110327:Heavy Bracelet
+9911045A:Ring
+99110342:Pack
+99110326:Pack
+99110325:Brown Taper
+99110324:Quicksilver
+99110446:Cobalt
+9910D154:Gypsum
+9910D5F4:Verdigris
+9910D5F5:Stibnite
+99110460:Blue Taper
+9910D5F6:Vitriol
+9910D5F3:Turpeth
+99110456:Indigo Taper
+99110443:Yellow Taper
+990EBD9D:Green Taper
+99110457:Cadmia
+990EBDE3:Red Taper
+990B24A4:Violet Taper
+990DA98A:Grey Taper
+990C6588:Pink Taper
+990DA9B9:Orange Taper
+990EBD66:Pack
+99110330:Comfrey
+9911032F:Powdered Malachite
+9911032E:Powdered Onyx
+99110369:Rowan Talisman
+99110473:Copper Scarab
+9911033C:Hyssop
+9911033B:Ashwood Talisman
+9911033A:Lead Scarab
+99110339:Powdered Turquoise
+99110338:Iron Scarab
+99110337:Pack
+99110335:Pack
+9911046E:Gifted Healing Kit
+99110345:Gifted Healing Kit
+99110344:Gifted Healing Kit
+99110343:Gifted Healing Kit
+99066D77:Gifted Healing Kit
+9911034B:Gifted Healing Kit
+9911034A:Gifted Healing Kit
+99110349:Gifted Healing Kit
+99110348:Gifted Healing Kit
+99110346:Treated Healing Kit
+99110354:Peerless Healing Kit
+99110353:Peerless Healing Kit
+990C6D2C:Excellent Healing Kit
+99110482:Pack
+9911035D:Ring
+9911035B:Bracelet
+9911035A:Tunic
+99110358:Ring
+99110357:Ring
+9911037D:Gorget
+99110472:Force Opal
+9910EFA2:Thorned Garnet
+9910EF84:Thorned Garnet
+9910EFA0:Bracelet
+9910EF85:Bracelet
+991102EE:Ring
+9909FDD7:Bracelet
+990EBD7D:Ring
+990EBDE5:Heavy Bracelet
+99110387:Smock
+990C5CDB:Ring
+990DA8A5:Large Lugian Sinew
+9909EDDD:Pack Levistras
+991104A1:Obsidian Heart
+9911049C:Some Changes for February 2012
+
+Missing Exports - Possessed items that were not found:

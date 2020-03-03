@@ -1,0 +1,28 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-logs\AC logs\pkt_2017-1-30_1485779838_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC-logs\AC logs\pkt_2017-1-29_1485696403_log.pcap
+
+Partial Exports - Missing appraisal info:
+D81A8045:Pyreal
+D81A8046:Sack
+D81A8047:Ust
+D81A804B:Handy Healing Kit
+D81A804E:Apple
+D8604B1F:Facility Hub Portal Gem
+D85D0222:Great Mana Charge
+
+Missing Exports - Possessed items that were not found:
+D862B875
+D862BCB0
+D8626E76
+D8627596
+D85E4EB4
+D862BFB3
+D85E4EB3
+D862BCAF
+D85D05CF
+D862BFED
+D862BFC9
+D85D0663

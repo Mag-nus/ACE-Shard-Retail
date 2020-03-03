@@ -1,0 +1,136 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-03-2017\Asherons-Call-20170203181532\pkt_2017-1-30_1485843025_log.pcap
+
+Partial Exports - Missing appraisal info:
+941AE222:Copper Scarab
+941AE223:Silver Scarab
+941AE224:Gold Scarab
+941AF39B:Major Smoldering Stone
+9415D8FE:Major Shivering Stone
+94160B2D:Major Stinging Stone
+9415D9E1:Minor Smoldering Stone
+9415B7DB:Grand Casino Golden Keyring
+9415D8BC:Grand Casino Golden Keyring
+941AF3A5:Blackmoor's Favor
+9414AEAD:Facility Hub Portal Gem
+9A4DB96A:Stipend
+C2064ECA:Imbue Swap Coin
+94787DA0:Massive Mana Charge
+C2262F00:Aphus Lassel Portal Gem
+C2B8A47C:Platinum Scarab
+C2B8A353:Pyreal Scarab
+C2B8A252:Lead Scarab
+C2B8A041:Iron Scarab
+C2B8AA3C:Shoyanen's Portal Gem
+C20F2DB7:Colosseum Coin
+C3B64698:Black Fire Atlan Stone
+941AF256:Empyrean Sun Stone
+941AF257:Encapsulated Spirit
+941AF3B3:Dark Sliver
+9414AE6D:Dark Speck
+941579E6:Small Shard
+9415DAE6:Glittering Crystalline Key
+941AF3B4:Parchment
+9415D8CC:Caulnalain Portal Gem
+941AF3A3:Caulnalain Portal Gem
+9414AEAA:Pyreal Pea
+9415DBD0:Caulnalain Portal Gem
+941AF3AC:Caulnalain Portal Gem
+9414AEAB:Gold Pea
+9415DCB6:Silver Pea
+94787DF6:Salvage (100)
+9415D939:Salvage (100)
+9415D8D3:Salvage (100)
+C20F3FF5:Ancient Falatacot Trinket
+C20C135B:Ancient Empyrean Trinket
+94785327:Salvage (100)
+94787DEC:Treated Healing Kit
+92E4E62B:Salvage
+92E4E65E:Salvage
+94787DED:Treated Healing Kit
+C2AB2561:Orb
+C3A267A4:Crown
+94787DEF:Treated Healing Kit
+94787DF0:Treated Healing Kit
+94787DF1:Treated Healing Kit
+94787DE7:Treated Healing Kit
+94787DE8:Treated Healing Kit
+94787DE0:Treated Healing Kit
+94787DE1:Treated Healing Kit
+94787DE2:Treated Healing Kit
+94787DE3:Treated Healing Kit
+94787DE4:Treated Healing Kit
+94787DE5:Treated Healing Kit
+94787DE6:Treated Healing Kit
+92E4E67C:Treated Healing Kit
+92E4E67A:Treated Healing Kit
+92E4E679:Treated Healing Kit
+92E4E678:Treated Healing Kit
+92E4E677:Treated Healing Kit
+92E4E675:Treated Healing Kit
+92E4E67D:Treated Healing Kit
+92E4E67E:Treated Healing Kit
+92E4E67F:Treated Healing Kit
+9415DD01:Foci of Artifice
+941AF409:Foci of Enchantment
+9415DCE2:Pyreal
+941AF3AE:Ravenous Sword
+941AE263:Dagger of Tikola
+C20A9BE3:Yellow Empyrean Ring
+941AF347:Fenmalain Crystal Bow
+B5919A6C:Fist of the Quiddity
+9415D93A:Lich Skull
+C2B53919:Red Empyrean Ring
+9A4F2FC5:Heart of Shadow
+C2C99D61:Superb Lockpick
+9413ADBC:Club of Killagurg
+C2D47FA9:Black Boulder
+C2C9983A:Superb Lockpick
+C2BBFD77:Peerless Lockpick
+C3B6ECC1:Aligned Mana Stone
+C3B4A8E5:Aetheria Mana Stone
+9415D921:Bandit Rapier
+9415DCA9:Hollow Sword
+9415D9E5:Lich Skull
+C20CD62B:Foci of Verdancy
+C20BA391:Fists of Stone
+C20F37E3:Greater Mana Stone
+C1FB0101:Greater Mana Stone
+C1DE25B8:Greater Mana Stone
+C3BE0B57:Pyreal
+C20FF196:Ruschk Scalp
+C2435BDF:Solid Shard
+9413ADE4:Tattered Virindi Cloak
+C2D1A1C5:Good Lockpick
+C2CDD564:Diamond Heart
+C2CDCC80:Lucky Gold Letter
+C2C8EDE4:Excellent Lockpick
+C2CFC982:Sacrificial Dagger
+C2C98129:Lucky Gold Letter
+C2CDC600:Lucky Gold Letter
+C3B2251E:Obsidian Sphere
+C3B7064D:Mana Tonic
+C3B5D1A1:Dansha-Ki's Gem of Portal Recall
+C3B502B1:Licorice Rat
+C3B50098:Health Tonic
+C3BE0B58:Pyreal
+C3BE0B59:Pyreal
+C3BE0B5A:Pyreal
+C1029AAA:Strengthened Mana Forge Key
+C15F9F70:Strengthened Mana Forge Key
+C18A1CCC:Mana Forge Key
+C184BCC6:Mana Forge Key
+C18431D0:Strengthened Mana Forge Key
+C1474ADD:Mana Forge Key
+C1460912:Strengthened Mana Forge Key
+C14631EB:Mana Forge Key
+C3BCBE0B:Trade Note (250,000)
+C3BCBDF4:Braced Mana Forge Key
+C42F0586:Club of Killagurg
+C45F0D78:Olthoi Slayer Carapace
+C46035C0:Sturdy Steel Key
+C4514581:Aetheria
+941AF3AA:Diamond Shield
+C459C2F1:Lightning Skeleton Bushi Essence (150)
+
+Missing Exports - Possessed items that were not found:

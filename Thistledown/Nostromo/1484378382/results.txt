@@ -1,0 +1,79 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\test\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-14_1484378377_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\AC1Live-The-Ripley-Collection-part01\AC1Live-The-Ripley-Collection\aclog pcaps\pkt_2017-1-14_1484378377_log.pcap
+
+Partial Exports - Missing appraisal info:
+AA462F7C:Crude Lockpick
+AA462F85:Pyreal
+AA462F87:Trade Note (10,000)
+AA462F89:Yew Talisman
+AA462F8A:Alder Talisman
+AA462F8B:Birch Talisman
+AA462F8C:Willow Talisman
+AA462F8D:Cedar Talisman
+AA462F8E:Alder Talisman
+AA462F8F:Hazel Talisman
+AA462F90:Rowan Talisman
+AA462F91:Ashwood Talisman
+AA462F93:Vitriol
+AA462F94:Verdigris
+AA462F95:Turpeth
+AA462F96:Realgar
+AA462F9A:Cobalt
+AA462F97:Quicksilver
+AA462F98:Colcothar
+AA462F99:Brimstone
+AA462F9B:Gypsum
+AA462F9D:Powdered Amber
+AA462F9E:Powdered Onyx
+AA462F9F:Powdered Malachite
+AA462FA1:Indigo Taper
+AA462FA0:Pack
+AA462FA2:Red Taper
+AA462FA3:Yellow Taper
+AA462FA4:Blue Taper
+AA462FA5:White Taper
+AA462FA6:Green Taper
+AA462FA7:Orange Taper
+AA462FA8:Violet Taper
+AA462FA9:Pink Taper
+AA462FAA:Turquoise Taper
+AA462FAB:Grey Taper
+AA462FAC:Brown Taper
+AA462FAE:Hawthorn
+AA462FAF:Wormwood
+AA462FB0:Hyssop
+AA462FB1:Saffron
+AA462FB3:Lead Scarab
+AA462FB2:Damiana
+AA462FB4:Dragonsblood
+AA462FB8:Good Lockpick
+AA462FB5:Copper Scarab
+AA462FB6:Comfrey
+AA462FB7:Iron Scarab
+AA462FB9:Good Lockpick
+AA462FBA:Reliable Lockpick
+AA462FBB:Plain Lockpick
+AA462FBC:Worcer's Key
+AA462FBD:Healing Tonic
+AA462FC0:Trade Note (500)
+AA462FC1:Trade Note (100)
+AA462FC2:Trade Note (100)
+AA462FC3:Trade Note (100)
+AA462FC5:Excellent Lockpick
+AA462FC8:Trade Note (1,000)
+AA462FC9:Trade Note (500)
+AA462FCA:Trade Note (100)
+AA462FCB:Trade Note (100)
+AA462FCC:Trade Note (100)
+AA462FCD:Trade Note (100)
+AA462FCE:Trade Note (10,000)
+AA462FCF:Trade Note (10,000)
+AA462FDA:Pack Ursuin
+AA462FDB:Pack Bael'Zharon
+AA462FDC:Some Changes for February 2012
+AA462FD3:Torch
+
+Missing Exports - Possessed items that were not found:

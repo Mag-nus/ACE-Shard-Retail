@@ -1,0 +1,160 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Bliz-1-24-to-1-29\Bliz 1-24 to 1-29\pkt_2017-1-26_1485468329_log.pcap
+
+Partial Exports - Missing appraisal info:
+8170A624:Cowl
+8170A623:Smock
+8170A622:Trousers
+8170A5C1:Dark Shard
+8170A621:Leather Boots
+8170A620:Blackmoor's Favor
+8170A61F:Pack
+8170A61E:Lesser Corrupted Essence
+8170A61D:Lesser Corrupted Essence
+8170A61C:Lesser Corrupted Essence
+8170A61B:Lesser Corrupted Essence
+8170A61A:Lesser Corrupted Essence
+8170A619:Lesser Corrupted Essence
+8170A618:Lesser Corrupted Essence
+8170A617:Lesser Corrupted Essence
+8170A616:Lesser Corrupted Essence
+8170A615:Lesser Corrupted Essence
+8170A614:Lesser Corrupted Essence
+8170A613:Lesser Corrupted Essence
+8170A612:Lesser Corrupted Essence
+8170A611:Lesser Corrupted Essence
+8170A610:Lesser Corrupted Essence
+8170A60F:Lesser Corrupted Essence
+8170A60E:Lesser Corrupted Essence
+8170A60D:Lesser Corrupted Essence
+8170A60C:Lesser Corrupted Essence
+8170A60B:Lesser Corrupted Essence
+8170A60A:Lesser Corrupted Essence
+8170A609:Lesser Corrupted Essence
+8170A608:Pack
+8170A607:Minalim Plant
+8170A606:Argenory Plant
+8170A605:Verdalim Plant
+8170A604:Relanim Plant
+8170A603:Vial of Verdalim Dye
+8170A602:Hennacin Plant
+8170A5FF:Pack
+8170A601:Thananim Plant
+8170A600:Lapyan Plant
+8170A5FE:Pack
+8170A5FC:Medicated Health Kit
+8170A5CA:Artist's Crystal
+8170A5B2:Promissory Note
+8170A5C9:Berzerker's Crystal
+8170A5C8:Thorsten's Crystal
+8170A5C7:Life Giver's Crystal
+8170A5C6:Elysa's Crystal
+8170A5C5:Observer's Crystal
+8170A5F5:Pack
+8170A5B1:Hero Token
+8170A5E2:Monarch's Crystal
+8170A5E1:Pearl of Defending
+8170A5E0:Fletcher's Crystal
+8170A5DF:Wayfarer's Pearl
+8170A5DE:Pearl of Flame Baning
+8170A5FB:Smithy's Crystal
+8170A5DC:Enchanter's Crystal
+8170A5DB:T'ing's Crystal
+8170A5DA:Lich's Pearl
+8170A5D9:Chef's Crystal
+8170A5D8:Elysa's Crystal
+8170A5D7:Ben Ten's Crystal
+8170A5D6:Thorsten's Crystal
+8170A5D5:Thorsten's Crystal
+8170A5D4:Oswald's Crystal
+8170A5D3:Tinker's Crystal
+8170A5D2:Imbuer's Crystal
+8170A5D1:Brawler's Crystal
+8170A5D0:Vaulter's Crystal
+8170A5CF:Evader's Crystal
+8170A5CE:Adherent's Crystal
+8170A5CD:Rogue's Crystal
+8170A5CC:Hunter's Crystal
+8170A5CB:Thief's Crystal
+8170A5DD:Pack
+8170A5FA:Warrior's Jewel
+8170A5AC:Diamond Powder
+8170A5F9:Ursuin's Pearl
+8170A5F8:Pearl of Spirit Drinking
+8170A5F7:Warrior's Crystal
+8170A5F6:Tusker's Jewel
+8170A5F4:Hieromancer's Crystal
+8170A5F3:Tinker's Crystal
+8170A5F2:Deceiver's Crystal
+8170A5F1:Corruptor's Crystal
+8170A5F0:Converter's Crystal
+8170A5EF:Physician's Crystal
+8170A5EE:Knight's Crystal
+8170A5ED:Pearl of Bludgeon Baning
+8170A5EC:Artificer's Crystal
+8170A5EB:Scholar's Crystal
+8170A5EA:Zefir's Crystal
+8170A5E9:Alchemist's Crystal
+8170A5E8:Duelist's Jewel
+8170A5E7:Pearl of Frost Baning
+8170A5E6:Pearl of Acid Baning
+8170A5E5:Pearl of Blood Drinking
+8170A5E4:Pearl of Heart Seeking
+8170A5E3:Executor's Jewel
+8170A5C4:Shadow Fragment
+8170A5C3:Empowered Amber: Breastplate of Life
+8170A5C2:Yellow Jewel
+8170A5BF:Grand Casino Golden Keyring
+8170A5BC:Dark Shard
+8170A5BE:Decanter of Essence
+8170A5BD:Decanter of Essence
+8170A5BB:Small Shard
+8170A5BA:Small Shard
+8170A5B9:Small Shard
+8170A5B8:Small Shard
+8170A5B7:Small Shard
+8170A5B6:Small Shard
+8170A5B5:Small Shard
+8170A5B4:Small Shard
+8170A5B3:Dark Shard
+8170A5B0:Sparkling Gem
+8170A5AF:Dark Sliver
+8170A5AE:Seal
+8170A5AD:Seal
+8170A5AB:Small Shard
+8170A5AA:Shadow Fragment
+8170A5A9:Shadow Fragment
+8170A5A8:Encapsulated Spirit
+8170A5A5:Small Shard
+8170A5A3:Yellow Jewel
+8170A5A2:Small Shard
+8170A5A1:Seal
+8170A59E:Pyreal Bar
+8170A59D:Gan-Zo's High-Stakes Gambling Token
+8170A59B:Hero Token
+8170A59A:Hero Token
+8170A599:Hero Token
+8170A597:Scroll of Tectonic Rifts
+8170A596:Scroll of Tectonic Rifts
+8170A595:Lesser Mana Kit
+8170A594:Diamond Heart
+8170A593:Pyreal Sliver
+8170A58F:Pyreal Nugget
+8170A58E:Small Shard
+8170A58D:Tiny Shard
+8170A58C:Stipend
+86E96931:Pyreal Mote
+86EE5606:Pyreal Nugget
+86E8037A:Aged Legendary Key
+86F08533:Aged Legendary Key
+84F79300:Aged Legendary Key
+862C45BE:Renegade Herbal Kit
+862C6936:Renegade Herbal Kit
+862C690A:Renegade Herbal Kit
+862C336E:Renegade Herbal Kit
+86591BFF:Greater Mana Kit
+86591C00:Greater Mana Kit
+88411FF3:Small Shard
+8113EA89:Cerulean Pigmentation Apparatus
+
+Missing Exports - Possessed items that were not found:

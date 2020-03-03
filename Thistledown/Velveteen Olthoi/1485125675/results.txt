@@ -1,0 +1,251 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-22_1485125201_log.pcap
+
+Partial Exports - Missing appraisal info:
+AA8FFE88:Pyreal Mote
+AA8FFE87:Pyreal Bar
+AA8FFE85:Platemail Gauntlets
+AA8FFE84:Alder Talisman
+AA8FFE83:Ravener Guts
+AA8FFE82:Peerless Healing Kit
+AA8FFE81:Wrapped Bundle of Blunt Arrowheads
+AA8FFE80:Wrapped Bundle of Frog Crotch Arrowheads
+AA8FFE7F:Colcothar Pea
+AA8FFE7E:Superior Jack o' Lantern
+AA8FFE69:Gifted Healing Kit
+AA8FFE7D:Jack o' Lantern
+AA8FFE7C:Arrow
+AA8FFE7B:Carving Knife
+AA8FFE7A:Brown Beans
+AA8FFE79:Jack o' Lantern
+AA8FFE75:White Phyntos Wasp Wing
+AA8FFE78:Gem of Purity
+AA8FFE77:Chainmail Sleeves
+AA8FFE74:Iron Heart
+AA8FFE76:Tunic
+AA8FFE73:Dark Sliver
+AA8FFE71:Gypsum
+AA8FFE70:Turpeth
+AA8FFE6F:Stibnite
+AA8FFE6E:Quicksilver
+AA8FFE6D:Cobalt
+AA8FFE6B:Excellent Healing Kit
+AA8FFE6C:Wrapped Bundle of Fire Arrowheads
+AA8FFE6A:Excellent Healing Kit
+AA8FFE68:Mana Stone
+AA8FFE67:Rowan Talisman
+AA8FFE66:Gifted Healing Kit
+AA8FFE65:Gifted Healing Kit
+AA8FFE64:Gifted Healing Kit
+AA8FFE63:Pumpkin
+AA8FFE62:Gifted Healing Kit
+AA8FFE61:Gifted Healing Kit
+AA8FFE60:Iron Heart
+AA8FFE5F:Gold Phyntos Wasp Wing
+AA8FFE5E:Black Stone
+AA8FFE5D:Scroll of Hermetic Void VI
+AA8FFE5C:Small Shreth Hide
+AA8FFE5B:Granite Heart
+AA8FFE58:Excellent Healing Kit
+AA8FFE57:Gifted Healing Kit
+AA8FFE56:Gifted Healing Kit
+AA8FFE55:Excellent Healing Kit
+AA8FFE54:Yumi
+AA8FFE53:Armor Piercing Arrow
+AA8FFE52:Tusker Wand
+AA8FFE51:Excellent Healing Kit
+AA8FFE50:Excellent Healing Kit
+AA8FFE4F:Excellent Healing Kit
+AA8FFE4E:Concentrated Aqua Incanta
+AA8FFE4D:Peerless Healing Kit
+AA8FFE4C:Excellent Healing Kit
+AA8FFE4B:Excellent Healing Kit
+AA8FFE4A:Excellent Healing Kit
+AA8FFE49:Bundle of Arrowheads
+AA8FFE45:Virindi Implant
+AA8FFE47:Vitriol
+AA8FFE44:Utelari's Collar
+AA8FFE42:Black Rock
+AA8FFE41:Le-Ai Rea's Key
+AA8FFE3F:Water Golem Heart
+AA8FFE3E:Acid Cestus
+AA8FFE3D:Timber Siraluun Claw
+AA8FFE3B:Shirt
+AA8FFE3C:Mattekar Hide Coat
+AA8FFE3A:Platemail Gauntlets
+AA8FFE39:Colban Plant
+AA8FFE38:Intricate Wooden Key
+AA8FFE37:Little Green Seeds
+AA8FFE36:Olthoi Helm
+AA8FFE35:Scroll of Shock Wave VI
+AA8FFE34:Ornamental Bowl
+AA8FFE33:Orb
+AA8FFE32:Celdon Leggings
+AA8FFE30:Scroll of Piercing Protection Other VI
+AA8FFE31:Gloves
+AA8FFE2F:Flaming Simi
+AA8FFE2E:Sahkurea's Collar
+AA8FFE2D:Sceptre
+AA8FFE2C:Relanim Plant
+AA8FFE2B:Staff
+AA8FFE2A:Ring
+AA8FFE29:Yumi
+AA8FFE28:Flared Pants
+AA8FFE27:Loose Shirt
+AA8FFE26:Greater Fire Arrow
+AA8FFE22:Crushed Lapyan Plant
+AA8FFE21:Neutral Balm
+AA8FFE1F:Mana Infusion
+AA8FFE0E:Tusker Mask
+AA8FFE1D:Health Infusion
+AA8FFE1C:Wrapped Bundle of Arrowheads
+AA8FFDF9:Stool
+AA8FFE1B:Wrapped Bundle of Arrowshafts
+AA8FFDE4:Obsidian Shard
+AA8FFE18:Quicksilver Pea
+AA8FFE17:Greater Lightning Arrow
+AA8FFE16:Staff
+AA8FFE10:Shoes
+AA8FFDC4:Tusker Head
+AA8FFE11:Steel Toed Boots
+AA8FFE0F:Heavy Bracelet
+AA8FFE0D:Ring
+AA8FFE0C:Ring
+AA8FFE0B:Sceptre
+AA8FFE09:Heavy Bracelet
+AA8FFE06:Longbow
+AA8FFE05:Shoes
+AA8FFE03:Cap
+AA8FFE02:Buckler
+AA8FFE01:Buckler
+AA8FFE00:Ring
+AA8FFDFE:Calling Stone
+AA8FFDFD:Cloth Cap
+AA8FFDFC:Studded Leather Gauntlets
+AA8FFDFB:Lead Scarab
+AA8FFDFA:Ring
+AA8FFDF0:Zombie Mask
+AA8FFDF4:Peculiar Old Dagger
+AA8FFDF3:Gorget
+AA8FFDF2:Peculiar Old Dagger
+AA8FFDEF:Olthoi Helm
+AA8FFDEE:Tusker Mask
+AA8FFDED:Green Taper
+AA8FFDEC:Tachi
+AA8FFDEB:Scroll of Frost Bolt VI
+AA8FFDEA:Scroll of Shock Wave VI
+AA8FFDE9:Shirt
+AA8FFDE8:Nayin
+AA8FFDE7:Scroll of Piercing Lure VI
+AA8FFDE6:Scroll of Flame Lure VI
+AA8FFDE5:Relanim Plant
+AA8FFDE3:Doublet
+AA8FFDE2:Celdon Girth
+AA8FFDE1:Olthoi Helm
+AA8FFDDF:Brown Lump
+AA8FFDDD:Dark Revenant Thighbone
+AA8FFDDC:Sclavus Tongue
+AA8FFDDB:Braided Drudge Ravener Guts
+AA8FFDDA:Pyreal Mote
+AA8FFDD8:Reshalra's Collar
+AA8FFDD7:Flaming Skull
+AA8FFDD3:Cooking Pot
+AA8FFDD0:Mosswart Mask
+AA8FFDCF:Scroll of Leaden Weapon VI
+AA8FFDCE:Ring
+AA8FFDCD:Dread Mattekar Paw
+AA8FFDCC:Jungle Phyntos Wasp Wing
+AA8FFDCB:Tunic
+AA8FFDCA:Skull Mask
+AA8FFDC9:Scroll of Rejuvenate Self VI
+AA8FFDC8:Scroll of Light Weapon Mastery Self VI
+AA8FFDC6:Niffis Shell Helm
+AA8FFDC5:Monougat
+AA8FFDC3:Poofy Snowball
+AA8FFDC2:Jack o' Lantern
+AA8FFDBC:Blackmoor's Favor
+AA8FFDD1:Mosswart Wand
+AA8FFDD5:Quintessence Sickle
+AA8FFE86:Faran Robe with Hood
+AA8FFE8C:Golden Gromnie
+
+Missing Exports - Possessed items that were not found:
+AA8FFED6
+AA8FFED7
+AA8FFED8
+AA8FFED9
+AA8FFED5
+AA8FFE8B
+AA8FFEA4
+AA8FFEBD
+AA8FFEBE
+AA8FFEBF
+AA8FFEC0
+AA8FFEC1
+AA8FFEC2
+AA8FFEC3
+AA8FFEC4
+AA8FFEC5
+AA8FFEC6
+AA8FFEC7
+AA8FFEC8
+AA8FFEC9
+AA8FFECA
+AA8FFECB
+AA8FFECC
+AA8FFECD
+AA8FFECE
+AA8FFECF
+AA8FFED0
+AA8FFED1
+AA8FFED2
+AA8FFED3
+AA8FFED4
+AA8FFE89
+AA8FFE8A
+AA8FFE8D
+AA8FFE8E
+AA8FFE8F
+AA8FFE90
+AA8FFE91
+AA8FFE92
+AA8FFE93
+AA8FFE94
+AA8FFE95
+AA8FFE96
+AA8FFE97
+AA8FFE98
+AA8FFE99
+AA8FFE9A
+AA8FFE9B
+AA8FFE9C
+AA8FFE9D
+AA8FFE9E
+AA8FFE9F
+AA8FFEA0
+AA8FFEA1
+AA8FFEA2
+AA8FFEA3
+AA8FFEA5
+AA8FFEA6
+AA8FFEA7
+AA8FFEA8
+AA8FFEA9
+AA8FFEAA
+AA8FFEAB
+AA8FFEAC
+AA8FFEAD
+AA8FFEAE
+AA8FFEB0
+AA8FFEB1
+AA8FFEB2
+AA8FFEB3
+AA8FFEB4
+AA8FFEB5
+AA8FFEB6
+AA8FFEB7
+AA8FFEB8
+AA8FFEB9
+AA8FFEBA
+AA8FFEBB
+AA8FFEBC

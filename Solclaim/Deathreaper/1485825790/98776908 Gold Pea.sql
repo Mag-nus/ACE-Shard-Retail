@@ -1,0 +1,52 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (2557962504, 8327, 32, 6476097) /* SpellComponent */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (2557962504,   1,       4096) /* ItemType - SpellComponents */
+     , (2557962504,   5,         10) /* EncumbranceVal */
+     , (2557962504,  11,        100) /* MaxStackSize */
+     , (2557962504,  12,          1) /* StackSize */
+     , (2557962504,  16,          1) /* ItemUseable - No */
+     , (2557962504,  19,      25000) /* Value */
+     , (2557962504,  33,          1) /* Bonded - Bonded */
+     , (2557962504,  65,        101) /* Placement - Resting */
+     , (2557962504,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (2557962504, 9015,         23) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (2557962504,   1, False) /* Stuck */
+     , (2557962504,  11, True ) /* IgnoreCollisions */
+     , (2557962504,  13, True ) /* Ethereal */
+     , (2557962504,  14, True ) /* GravityStatus */
+     , (2557962504,  19, True ) /* Attackable */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (2557962504,  39, 0.330000013113022) /* DefaultScale */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (2557962504,   1, 'Gold Pea') /* Name */
+     , (2557962504,  16, 'A concentrated gold pea.') /* LongDesc */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (2557962504,   1,   33555211) /* Setup */
+     , (2557962504,   3,  536870932) /* SoundTable */
+     , (2557962504,   6,   67111919) /* PaletteBase */
+     , (2557962504,   8,  100671081) /* Icon */
+     , (2557962504,  22,  872415275) /* PhysicsEffectTable */
+     , (2557962504, 8001,    2125848) /* PCAPRecordedWeenieHeader - Value, Usable, StackSize, MaxStackSize, Container, Burden */
+     , (2557962504, 8003,         16) /* PCAPRecordedObjectDesc - Attackable */
+     , (2557962504, 8005,     137345) /* PCAPRecordedPhysicsDesc - CSetup, ObjScale, STable, PeTable, AnimationFrame */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (2557962504,   1, 1342946741) /* Owner */
+     , (2557962504,   2, 1342946741) /* Container */
+     , (2557962504, 8000, 2557962504) /* PCAPRecordedObjectIID */;
+
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
+VALUES (2557962504, 67111920, 0, 0);
+
+INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
+VALUES (2557962504, 0, 83890047, 83890047, 0);
+
+INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, `order`)
+VALUES (2557962504, 0, 16780734, 0);

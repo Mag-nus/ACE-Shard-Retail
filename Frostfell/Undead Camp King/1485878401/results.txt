@@ -1,0 +1,42 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-31_1485870666_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-31_1485870666_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\The-Scuba-Squad-02-01-2017-Random-Pcaps\pkt_2017-1-31_1485870666_log.pcap
+
+Partial Exports - Missing appraisal info:
+DD34A0B3:Shoes
+DD34A0B1:Baggy Shirt
+DD34A0B2:Pants
+DD34A0B4:Pyreal
+DD34A0B5:Sack
+DD34A0B6:Ust
+DD34A0BA:Arrow
+DD34A0BC:Foci of Artifice
+DD34A0BD:Prismatic Taper
+DD34A0BE:Lead Scarab
+DD34A0BF:Handy Healing Kit
+DD34A0C0:Bread
+DD3A38BA:Asheron's Benediction
+DD3A394D:Academy Coat
+DD3A394E:Facility Hub Portal Gem
+DD3A635E:Academy Wand
+DD3820F6:Pyreal
+DD22906C:Pathwarden Trinket
+DD25D7EB:Pathwarden Gauntlets
+DD25D801:Pathwarden Sollerets
+DD25D7E9:Great Mana Charge
+DD25D802:Pathwarden Yoroi Leggings
+DD25D803:Pathwarden Yoroi Hauberk
+DD25D7EA:Pathwarden Helm
+DD25D7E8:Pathwarden Robe
+DCDD27D8:Renegade Herbal Kit
+DCDF0A82:Trade Note (150,000)
+DCA2C303:Ursuin Hide Helmet
+DC6AB792:Hoary Mattekar Robe
+DC6AB793:Platemail Gauntlets
+DC68E709:Trade Note (250,000)
+DD3A6396:Academy Shortbow
+
+Missing Exports - Possessed items that were not found:

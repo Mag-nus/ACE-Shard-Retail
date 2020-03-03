@@ -1,0 +1,100 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\gdrive (tfarley)\ACMINING-20170120T073848Z\ACMINING\pkt_2017-1-17_1484660334_log.pcap
+
+Partial Exports - Missing appraisal info:
+888F8EF8:Foci of Enchantment
+888FE187:Pack
+888FE1A3:Lead Scarab
+888F7206:Silver Scarab
+888F8F1A:Pyreal Scarab
+889116EA:Gold Scarab
+888F724D:Iron Scarab
+888F7241:Lead Pea
+888BE994:Small Olthoi Venom Sac
+888FD61B:Ivory Tooth Dart
+888F7243:Coalesced Aetheria
+888F8F27:Coalesced Aetheria
+898F9B11:Platinum Scarab
+A4733793:Hunter's Crystal
+888F7679:Pack
+888F6470:Ust
+888F8F05:Suikan Life Master Robe
+888F7758:Stamina Philtre
+888FD61D:Excellent Healing Kit
+888F8F59:Health Philtre
+888F8F09:Treated Healing Kit
+888FE186:Treated Healing Kit
+88912E62:Knight's Crystal
+88912E63:The Temple of Enlightenment
+88912E61:A Note From Ciandra
+889116E5:Some Changes for February 2012
+888F8F08:Blackmoor's Favor
+888F8F29:Sunflower
+88910EB3:Hulking Bunny Slippers
+888F71C1:Coalesced Aetheria
+889116FE:Ancient Mhoire Coin
+93B4DA13:Deed
+A6E24390:Treated Healing Kit
+A6E23C40:Treated Healing Kit
+A78CA734:Copper Scarab
+A78CA735:Prismatic Taper
+A78CA73A:Prismatic Taper
+8885C7D4:Foci of Artifice
+888F8F20:Foci of Verdancy
+888BE99C:Pack
+888F8BC0:Suikan Life Master Robe
+888F720A:Aphus Lassel Portal Gem
+888F720B:Dark Tree Crystal
+88912E67:Colosseum Coin
+888F8F38:Iron Pea
+88912E6B:Cracked Shard
+888FE1B0:Monougat
+9AD859A5:Town Network Portal Gem
+9CBD8124:Superb Mana Charge
+9AD85FE7:Town Network Portal Gem
+888F71F2:Celdiseth's Portal Gem
+A92CFF47:Pyreal
+9CB858AF:Town Network Portal Gem
+888F8FC9:Pack
+9CBD80DC:Superb Mana Charge
+88912E70:Sho Wand
+88C57355:Short Sword
+9CBD848E:Superb Mana Charge
+9CBD9AF2:Superb Mana Charge
+9D81300C:Facility Hub Portal Gem
+A1393D48:Plentiful Healing Kit
+A13B2FAB:Plentiful Healing Kit
+A340D7CF:Stamina Tincture
+A92CFF90:Trade Note (100,000)
+A78A604E:Celdiseth's Portal Gem
+A78CA6BD:Celdiseth's Portal Gem
+A78CA941:Celdiseth's Portal Gem
+A78CA70E:Celdiseth's Portal Gem
+888F8F9F:Kite Shield
+888F8F68:Enhanced Health Elixir
+AB327742:Greater Mana Stone
+888F8F5B:Enhanced Mana Elixir
+AB32E6B0:Greater Mana Stone
+A6E23C3E:Sublime Necklace of Acid and Piercing Protection
+AB29B0B1:Silver Pea
+AB3248CE:Copper Pea
+AB28A2CE:Tinker's Crystal
+AB32527F:Gold Pea
+AB3007CF:Mana Forge Key
+AB32F3A4:Salvage (7)
+AB3159E2:Trade Note (250,000)
+AB3159EF:Fire Sceptre
+AB316F89:Gem of Knowledge
+AB316F55:Nariyid Gauntlets
+AB317879:Salvage
+AB318903:Salvage
+AB317885:Frost Lugian Hammer
+AB317E29:Ancient Empyrean Trinket
+AB3188DE:Gem of Knowledge
+AB319EAA:Flaming Dirk
+AB31A32D:Sollerets
+AB31A75A:Gem of Knowledge
+AB2F6C7E:Salvage
+AB2E9341:Ancient Falatacot Trinket
+
+Missing Exports - Possessed items that were not found:

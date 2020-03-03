@@ -1,0 +1,223 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-31-2017-pkt_2017-1-31_1485847270_log\pkt_2017-1-31_1485847270_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-29-2017-pkt_2017-1-29_1485737568_log\pkt_2017-1-29_1485737568_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-29-2017-pkt_2017-1-29_1485737568_log\pkt_2017-1-29_1485737568_log.pcap
+C:\ACEmulator\Logs Unpacked\02-01-2017\MakosaHG-01-31-2017-pkt_2017-1-31_1485847270_log\pkt_2017-1-31_1485847270_log.pcap
+
+Partial Exports - Missing appraisal info:
+C7C43B43:Pack
+C7C43B44:Scroll of Heavy Weapon Mastery Self VII
+C7C43B45:Scroll of Martyr's Blight VII
+C7C43B46:Scroll of Geledite Bait
+C7C43B47:Aura of Cragstone's Will
+C7C43B48:Scroll of Adja's Intervention
+C7C43B49:Scroll of Storm's Blessing
+C7C43B4A:Scroll of The Spike
+C7C43B4B:Scroll of Ignorance's Bliss
+C7C43B4C:Scroll of Web of Deflection
+C7C43B4D:Scroll of Martyr's Tenacity VII
+C7C43B4E:Scroll of Executor's Boon
+C7C43B4F:Scroll of Tusker's Gift
+C7C43B50:Scroll of Heavy Weapon Mastery Other VII
+C7C43B51:Aura of Cragstone's Will
+C7C43B52:Aura of Infected Caress
+C7C43B53:Scroll of Missile Weapon Mastery Self VII
+C7C43B54:Scroll of Robustification
+C7C43B55:Scroll of Calming Gaze
+C7C43B56:Scroll of Eradicate Life Magic Self
+C7C43B57:Scroll of Brogard's Defiance
+C7C43B58:Scroll of Arcanum Enlightenment VII
+C7C43B59:Scroll of Raven Fury
+C7C43B5A:Pack
+C7C43B5B:Greeter's Key
+C7C43B5C:Isparian Weapons Modifying Tool
+C7C43B5D:Writ of Apology
+C7C43B5E:Focusing Stone
+C7C43B5F:Ust
+C7C43B60:Blackmoor's Favor
+C7C43B61:Blackmoor's Favor
+C7C43B62:Imbue Swap Coin
+C7C43B63:Quest Weapon Coin
+C7C43B64:Asheron's Benediction
+C7C43B65:Pack
+C7C43B66:A Huge Lump of Coal
+C7C43B67:Gem of Mana Management
+C7C43B68:Gem of Perfect Speed
+C7C43B69:Gem of Perfect Health
+C7C43B6A:Red Monster Seed
+C7C43B6B:Yellow Monster Seed
+C7C43B6C:Old Scarlet Red Letter
+C7C43B6D:Warding Ring
+C7C43B6F:Pack
+C7C43B70:Royal Atlatl
+C7C43B6E:Pack Ancient Olthoi Queen
+C7C43B71:Atlatl
+C7C43B72:Sceptre
+C7C43B76:Assault Crossbow
+C7C43B73:Staff
+C7C43B74:Sceptre
+C7C43B79:Saulandoi
+C7C43B75:Dagger
+C7C43B77:Balister of the Quiddity
+C7C43B78:Quadruple-bladed Axe
+C7C43B7A:Banished Atlatl
+C7C43B7B:Olthoi Sword
+C7C43B7C:Assault Axe
+C7C43B7D:Renegade Bow
+C7C43B7E:Dark Sorcerer's Phylactery
+C7C43B7F:The Healer's Heart
+C7C43B80:Pack
+C7C43B81:Pack Levistras
+C7C43B82:Snow Lily
+C7C43B83:Pack Ancient Olthoi Queen
+C7C43B84:Rare Red Pack Idol
+C7C43B86:Pack Pumpkin Lord
+C7C43B89:Dereth Map
+C7C43B85:Carved Tusker Statue
+C7C43B87:Font of Jojii
+C7C43B88:Abominable Pack Snowman
+C7C43B8A:Living Tome
+C7C43B8B:Snowflower
+C7C43B8C:Lesser Direlands Device
+C7C43B8D:Pack Bael'Zharon
+C7C43B8E:Pack Asheron
+C7C43B8F:Pack Burun Kukuur
+C7C43B91:Evil Couch
+C7C43B92:Pack Gaerlan
+C7C43B90:Pack Ancient Olthoi Queen
+C7C43B93:Snowflower
+C7C43B94:Pack Golem
+C7C43B95:Pack Bael'Zharon
+C7C43B96:Pack Asheron
+C7C43B97:Vial of Relanim Dye
+C7C43B9B:Salvaged  (100)
+C7C43B98:Vial of Thananim Dye
+C7C43B99:Flared Pants
+C7C43BAD:Pyreal
+C7C43B9A:Flared Shirt
+C7C43B9C:Salvaged  (100)
+C7C43BBD:Sack
+C7C43B9D:Salvaged  (100)
+C7C43B9E:Salvaged  (100)
+C7C43BDC:Jitte of Law
+C7C43B9F:Salvaged  (100)
+C7C43BA0:Salvaged  (100)
+C7C43BDE:Scroll of Raven Fury
+C7C43BA1:Salvaged  (100)
+C7C43BA2:Salvaged  (100)
+C7C43BFA:Sturdy Iron Key
+C7C43BA3:Salvaged  (100)
+C7C43BA4:Salvaged  (100)
+C7C43BFB:Sturdy Iron Key
+C7C43BA5:Salvaged  (100)
+C7C43BA6:Salvaged  (100)
+C7C43BFC:Sturdy Iron Key
+C7C43BA7:Salvaged  (100)
+C7C43BA8:Salvaged  (100)
+C7C43BFD:Sturdy Iron Key
+C7C43BA9:Salvaged  (100)
+C7C43BAA:Salvaged  (100)
+C7C43BFE:Sturdy Iron Key
+C7C43BAB:Salvaged  (100)
+C7C43BAC:Salvaged  (100)
+C7C43C15:Stipend
+C7C43BAE:Salvaged  (100)
+C7C43BAF:Salvaged  (100)
+C7C43BB0:Salvaged  (100)
+C7C43BB1:Salvaged  (100)
+C7C43BB2:Salvaged  (100)
+C7C43BB3:Salvaged  (100)
+C7C43BB4:Salvaged  (100)
+C7C43BB5:Salvaged  (100)
+C7C43BB6:Salvaged  (100)
+C7C43BB7:Salvaged  (100)
+C7C43BB8:Salvaged  (7)
+C7C43BB9:Salvaged  (15)
+C7C43BBB:Shadow Fragment
+C7C43BBA:Salvaged  (100)
+C7C43BBC:Shadow Fragment
+C7C43BC0:Armet
+C7C43BC2:Celdon Sleeves
+C7C43BC3:Amuli Leggings
+C7C43BC4:Realaidain Raiment
+C7C43BC5:Mattekar Hide Coat
+C7C43BC6:Ancient Armored Gauntlets
+C7C43BC7:Ancient Armored Bracers
+C7C43BC8:Tusker Skull Helm
+C7C43BCA:The Dragon of Power
+C7C43BC9:Covenant Sollerets
+C7C43BCB:Ruby Oculus
+C7C43BCC:Martine's Robe
+C7C43BCE:Asheron's Supreme Raiment
+C7C43BCF:Missile Specialist's Gauntlets
+C7C43BD0:Turquoise Winged Helmet
+C7C43BD1:Heavy Bracelet
+C7C43BD2:Pack
+C7C43BD3:Sceptre
+C7C43BD4:Royal Atlatl
+C7C43BD5:Broad Sword
+C7C43BD6:Lightning Shamshir
+C7C43BD8:Scimitar
+C7C43BD7:Slashing Compound Crossbow
+C7C43BD9:Atlatl
+C7C43BDA:Acid Kaskara
+C7C43BDB:Light Crossbow
+C7C43BDF:Arbalest
+C7C43BDD:Elysa's Crystal
+C7C43BE0:Electric Bow
+C7C43BE1:Royal Atlatl
+C7C43BE2:Acid Cestus
+C7C43BE3:Acid Nekode
+C7C43BE4:Slashing Bow
+C7C43BE5:Lightning Hand Axe
+C7C43BE6:Burnja's Board with Nails
+C7C43BE7:Acid Bow
+C7C43BE8:Acid Bow
+C7C43BE9:Rapier
+C7C43BEA:Dirk
+C7C43BEB:Salvaged  (100)
+C7C43BF6:Verdalim Plant
+C7C43BEC:Salvaged  (100)
+C7C43BED:Salvaged  (100)
+C7C43BEE:Salvage
+C7C43BEF:Salvage
+C7C43BF7:Minalim Plant
+C7C43BF0:Foolproof
+C7C43BF1:Salvaged  (100)
+C7C43C10:Swamp Lord's War Paint
+C7C43BF2:Salvaged  (8)
+C7C43BF3:Vial of Verdalim Dye
+C7C43BF4:Vial of Minalim Dye
+C7C43BF5:Vial of Berimphur Dye
+C7C43BF8:Hennacin Plant
+C7C43BF9:Faran Robe
+C7C43BFF:Mu-miyah Leg
+C7C43C00:Angree's Angry Ale
+C7C43C01:Argenory Plant
+C7C43C02:Lapyan Plant
+C7C43C03:Berimphur Plant
+C7C43C04:Relanim Plant
+C7C43C05:Small Shard
+C7C43C07:Salvaged  (100)
+C7C43C06:Aquamarine Pigmentation Apparatus
+C7C43C08:Salvaged  (100)
+C7C43C09:Salvaged  (100)
+C7C43C0A:Salvaged  (100)
+C7C43C0B:Salvaged  (100)
+C7C43C0C:Salvaged  (100)
+C7C43C0D:Salvaged  (100)
+C7C43C0E:Salvaged  (100)
+C7C43C0F:Salvaged  (100)
+C7C43C11:Salvage (18)
+C7C43C12:Salvage (14)
+C7C43C13:Salvage (69)
+C7C43C14:Salvage (53)
+C8658319:Box Of Ten Promissory Notes
+C865831A:Box Of Ten Promissory Notes
+C865831B:Box Of Ten Promissory Notes
+C865831C:Box Of Ten Promissory Notes
+C7C43C16:Torch
+
+Missing Exports - Possessed items that were not found:

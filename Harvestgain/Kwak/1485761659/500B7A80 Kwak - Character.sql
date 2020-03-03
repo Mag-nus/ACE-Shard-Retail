@@ -1,0 +1,40 @@
+INSERT INTO `character` (`id`, `account_Id`, `name`, `is_Plussed`, `is_Deleted`, `delete_Time`, `last_Login_Timestamp`, `total_Logins`, `character_Options_1`, `character_Options_2`, `gameplay_Options`, `spellbook_Filters`, `hair_Texture`, `default_Hair_Texture`)
+VALUES (1342929536, 0, 'Kwak', False, False, 0, 0, 0, 1355343202, 1083137, NULL, 2039, 0, 0);
+
+INSERT INTO `character_properties_shortcut_bar` (`character_Id`, `shortcut_Bar_Index`, `shortcut_Object_Id`)
+VALUES (1342929536, 0, 2166187045)
+     , (1342929536, 8, 1342929536);
+
+INSERT INTO `character_properties_spell_bar` (`character_Id`, `spell_Bar_Number`, `spell_Bar_Index`, `spell_Id`)
+VALUES (1342929536, 0, 0, 1635)
+     , (1342929536, 0, 1, 2645)
+     , (1342929536, 0, 2, 48)
+     , (1342929536, 0, 3, 47)
+     , (1342929536, 0, 4, 2647)
+     , (1342929536, 0, 5, 2644)
+     , (1342929536, 2, 0, 2233)
+     , (1342929536, 2, 1, 2223)
+     , (1342929536, 2, 2, 2153)
+     , (1342929536, 2, 3, 2251)
+     , (1342929536, 2, 4, 2271)
+     , (1342929536, 2, 5, 2249)
+     , (1342929536, 2, 6, 2207)
+     , (1342929536, 2, 7, 2183)
+     , (1342929536, 3, 0, 2226)
+     , (1342929536, 3, 1, 2086)
+     , (1342929536, 3, 2, 2094)
+     , (1342929536, 3, 3, 2110)
+     , (1342929536, 3, 4, 2098)
+     , (1342929536, 3, 5, 2113);
+
+INSERT INTO `character_properties_title_book` (`character_Id`, `title_Id`)
+VALUES (1342929536, 1)
+     , (1342929536, 765)
+     , (1342929536, 766)
+     , (1342929536, 767)
+     , (1342929536, 768)
+     , (1342929536, 769)
+     , (1342929536, 770)
+     , (1342929536, 771)
+     , (1342929536, 772)
+     , (1342929536, 773);

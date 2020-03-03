@@ -1,0 +1,71 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\02-06-2017\Callaway-January2017-Account5\pkt_2017-1-22_1485076276_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\Callaway-01-22-2017-ClutchofKingsReeshan\pkt_2017-1-22_1485076276_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Callaway-01-30-2017-BurQuests\pkt_2017-1-30_1485791858_log.pcap
+C:\ACEmulator\Logs Unpacked\02-06-2017\Callaway-January2017-Account4\pkt_2017-1-22_1485076276_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Callaway-01-10-2017-MountLetheGraveyard\pkt_2017-1-9_1484006624_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\Callaway-01-10-2017-MountLetheGraveyard\pkt_2017-1-9_1484006624_log.pcap
+
+Partial Exports - Missing appraisal info:
+B15F1079:Silver Scarab
+B0D02452:Lead Scarab
+B0D02453:Prismatic Taper
+B15A60F6:Copper Scarab
+AFD6044B:Slice of Royal Wedding Cake
+B2EE43B6:Gold Scarab
+B0D02442:Ust
+B18E37BC:Colban Plant
+B1934BCD:Verdalim Plant
+B1667DC6:Lapyan Plant
+B193BA1B:Berimphur Plant
+B0F1C181:Relanim Plant
+B0D1A334:Hennacin Plant
+A3C14B8A:Argenory Plant
+B2F117F2:Aetheria Mana Stone
+B4966047:Minalim Plant
+B1616FAB:Aphus Lassel Portal Gem
+B190E9C2:Gem of Stillness
+B0CA8545:Facility Hub Portal Gem
+B0C0EE39:Pyreal
+B16A6784:Wrapped Bundle of Quarrelshafts
+B31EB575:Wrapped Bundle of Arrowshafts
+B1F28D20:Wrapped Bundle of Deadly Lightning Arrowheads
+B320E88D:Wrapped Bundle of Deadly Fire Arrowheads
+B16DB0F1:Wrapped Bundle of Deadly Frost Arrowheads
+B158FBBD:Wrapped Bundle of Deadly Blunt Arrowheads
+DB0BCB5A:Wrapped Bundle of Prismatic Arrowheads
+B4677E2C:Major Mana Stone
+B14FC5CD:Major Mana Stone
+DB010CA8:Gold Pea
+B3BCBAAA:Amber Ape
+B38537C4:Bobo's Stout
+B407D64B:Hunter's Stock Amber
+B3CFCD01:Apothecary Zongo's Stout
+8BA3AB49:Renegade Herbal Kit
+8BA3AB48:Renegade Herbal Kit
+B2F89FD8:Treated Healing Kit
+B168C836:Treated Healing Kit
+B168C837:Treated Healing Kit
+B302D3B8:Treated Healing Kit
+B302D246:Treated Healing Kit
+B2B6A263:Treated Healing Kit
+B302D3B9:Treated Healing Kit
+AE745502:Trade Note (250,000)
+AE7455E6:Trade Note (250,000)
+B302D421:Treated Healing Kit
+B2DA0937:Treated Healing Kit
+B40F8C0A:Deadly Lightning Arrow
+B3FBD3C2:Detailed Mukkir Orb
+B413E507:Staff of the Painbringer
+DAD93D6E:Prismatic Taper
+DAF0DA76:Deadly Fire Arrow
+DAF1B47E:Tanami's Crossbow
+B4690B68:Deadly Frost Quarrel
+DB0A8FE4:Unerring Strike Bow
+B4966693:Frost Bow
+819851CC:Circlet
+B48EC341:Massive Mana Charge
+
+Missing Exports - Possessed items that were not found:

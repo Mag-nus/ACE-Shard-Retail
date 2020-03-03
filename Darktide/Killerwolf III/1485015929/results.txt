@@ -1,0 +1,19 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-21_1485015144_log.pcap
+
+Alternate sources:
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-21_1485034604_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-21_1485034604_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-21_1485046594_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-21_1485049561_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-21_1485049633_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-29_1485747443_log.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\plog\plog\pkt_2017-1-29_1485747604_log.pcap
+
+Partial Exports - Missing appraisal info:
+D7ADD9BD:Viamontian Leggings
+D7ADD9BF:Pyreal
+D7ADD9C0:Sack
+D7ADD9C6:Letter From Home
+
+Missing Exports - Possessed items that were not found:

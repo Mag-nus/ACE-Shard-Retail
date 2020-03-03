@@ -1,0 +1,77 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (3710966486, 28620, 2, 3330368) /* Clothing */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (3710966486,   1,          2) /* ItemType - Armor */
+     , (3710966486,   4,       2816) /* ClothingPriority - OuterwearUpperLegs, OuterwearLowerLegs, OuterwearAbdomen */
+     , (3710966486,   5,       2507) /* EncumbranceVal */
+     , (3710966486,   9,      25600) /* ValidLocations - AbdomenArmor, UpperLegArmor, LowerLegArmor */
+     , (3710966486,  16,          1) /* ItemUseable - No */
+     , (3710966486,  18,          1) /* UiEffects - Magical */
+     , (3710966486,  19,      15543) /* Value */
+     , (3710966486,  28,        274) /* ArmorLevel */
+     , (3710966486,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (3710966486, 105,          8) /* ItemWorkmanship */
+     , (3710966486, 106,        370) /* ItemSpellcraft */
+     , (3710966486, 107,       1281) /* ItemCurMana */
+     , (3710966486, 108,       1281) /* ItemMaxMana */
+     , (3710966486, 109,        317) /* ItemDifficulty */
+     , (3710966486, 110,          0) /* ItemAllegianceRankLimit */
+     , (3710966486, 115,          0) /* ItemSkillLevelLimit */
+     , (3710966486, 131,         64) /* MaterialType - Steel */
+     , (3710966486, 158,          7) /* WieldRequirements - Level */
+     , (3710966486, 159,          1) /* WieldSkillType - Axe */
+     , (3710966486, 160,        180) /* WieldDifficulty */
+     , (3710966486, 172,          1) /* AppraisalLongDescDecoration */
+     , (3710966486, 9015,         40) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (3710966486,   1, False) /* Stuck */
+     , (3710966486,  11, True ) /* IgnoreCollisions */
+     , (3710966486,  13, True ) /* Ethereal */
+     , (3710966486,  14, True ) /* GravityStatus */
+     , (3710966486,  19, True ) /* Attackable */
+     , (3710966486,  22, True ) /* Inscribable */
+     , (3710966486, 100, True ) /* Dyable */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (3710966486,   5, -0.0666666666666667) /* ManaRate */
+     , (3710966486,  13, 1.20000004768372) /* ArmorModVsSlash */
+     , (3710966486,  14, 0.800000011920929) /* ArmorModVsPierce */
+     , (3710966486,  15,       1) /* ArmorModVsBludgeon */
+     , (3710966486,  16, 0.864067554473877) /* ArmorModVsCold */
+     , (3710966486,  17, 0.955661714076996) /* ArmorModVsFire */
+     , (3710966486,  18, 0.300000011920929) /* ArmorModVsAcid */
+     , (3710966486,  19, 0.800000011920929) /* ArmorModVsElectric */
+     , (3710966486, 165,       1) /* ArmorModVsNether */
+     , (3710966486, 8004,       8) /* PCAPRecordedWorkmanship */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (3710966486,   1, 'Alduressa Leggings') /* Name */
+     , (3710966486,  16, 'Alduressa Leggings of Strength') /* LongDesc */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (3710966486,   1,   33559329) /* Setup */
+     , (3710966486,   3,  536870932) /* SoundTable */
+     , (3710966486,   6,   67108990) /* PaletteBase */
+     , (3710966486,   8,  100686037) /* Icon */
+     , (3710966486,  22,  872415275) /* PhysicsEffectTable */
+     , (3710966486, 8001, 2166702232) /* PCAPRecordedWeenieHeader - Value, Usable, UiEffects, Container, ValidLocations, Priority, Burden, Workmanship, MaterialType */
+     , (3710966486, 8003,         18) /* PCAPRecordedObjectDesc - Inscribable, Attackable */
+     , (3710966486, 8005,       6145) /* PCAPRecordedPhysicsDesc - CSetup, STable, PeTable */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (3710966486,   1, 1343231230) /* Owner */
+     , (3710966486,   2, 1343231230) /* Container */
+     , (3710966486, 8000, 3710966486) /* PCAPRecordedObjectIID */;
+
+INSERT INTO `biota_properties_spell_book` (`object_Id`, `spell`, `probability`)
+VALUES (3710966486,  4325,      2) 
+     , (3710966486,  4407,      2) 
+     , (3710966486,  6080,      2) ;
+
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
+VALUES (3710966486, 67116069, 84, 12)
+     , (3710966486, 67116069, 152, 8)
+     , (3710966486, 67116113, 72, 12)
+     , (3710966486, 67116113, 136, 16);

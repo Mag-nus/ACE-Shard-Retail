@@ -1,0 +1,22 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Denreth-2017-01-24-creation-training-pathwarden\Charcreation\pkt_2017-1-24_1485295751_log.pcap
+
+Partial Exports - Missing appraisal info:
+DCB92F4F:Shirt
+DCB92F50:Wide Breeches
+DCB92F51:Leather Boots
+DCB92F52:Pyreal
+DCB92F53:Sack
+DCB92F54:Ust
+DCB92F55:Calling Stone
+DCB92F57:Training Handwraps
+DCB92F58:Training Wand
+DCB92F5A:Foci of Artifice
+DCB92F5B:Prismatic Taper
+DCB92F5C:Lead Scarab
+DCB92F5D:Handy Healing Kit
+DCB92F5E:Letter From Home
+DCB92F5F:Bread
+DCBE58EA:Blackmoor's Favor
+
+Missing Exports - Possessed items that were not found:

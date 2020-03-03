@@ -1,0 +1,105 @@
+Source: 
+C:\ACEmulator\Logs Unpacked\01-31-2017\Cyberkiller-01-31-2017-Random\pkt_2017-1-31_1485858922_log.pcap
+
+Partial Exports - Missing appraisal info:
+DD30D85F:Pyreal
+DD30D860:Ust
+DD30D861:Blackmoor's Favor
+DD30D862:Oil of Rendering
+DD30D863:Pack
+DD30D865:Clasp of the Arm
+DD30D867:Red Rune Silveran Claw
+DD30D86A:Portal to Kivik Lir's Temple
+DD30D86B:Olthoi Enslavement
+DD30D86C:Head of the Homunculus
+DD30D86F:Celdon Leggings
+DD30D87C:Pack
+DD30D870:Shoes
+DD30D873:Studded Leather Tassets
+DD30D89A:Banished Orb
+DD30D876:Celdon Breastplate
+DD30D878:Shoes
+DD30D879:Olthoi Koujia Gauntlets
+DD30D898:Pack
+DD30D881:Acid Crossbow
+DD30D886:Empowered Empyrean Robe
+DD30D887:Aegis of the Golden Flame
+DD30D889:Frost Sceptre
+DD30D88A:Studded Leather Sleeves
+DD30D894:Gauntlets of Darkness
+DD30D899:Lightning Silifi
+DD30D89E:Aetheria
+DD30D89F:Aetheria
+DD30D8A0:Aetheria
+DD30D8A1:Aetheria
+DD30D8A2:Aetheria
+DD30D8A3:Aetheria
+DD30D8A5:Ring
+DD30D8AC:Pack
+DD30D8A6:Salvage (100)
+DD30D8A7:Salvage (100)
+DD30D8C5:Pack
+DD30D8A8:Salvage (100)
+DD30D8A9:Salvage (100)
+DD30D8C6:Pack
+DD30D8AA:Salvage (100)
+DD30D8AB:Salvage (100)
+DD30D8C7:Pack
+DD30D8B1:Tenassa Sleeves
+DD30D8B3:Leather Cuirass
+DD30D8B4:Lorica Gauntlets
+DD30D8B6:Olthoi Amuli Helm
+DD30D8B8:Olthoi Koujia Gauntlets
+DD30D8B9:Studded Leather Pauldrons
+DD30D8BB:Diforsa Girth
+DD30D8BC:Nariyid Sleeves
+DD30D8BD:Chiran Leggings
+DD30D8BE:Chainmail Girth
+DD30D8C1:Koujia Leggings
+DD30D8C2:Leather Pants
+DD30D8C4:Haebrean Breastplate
+DD30D8C9:Studded Leather Boots
+DD30D8CA:Leather Sleeves
+DD30D8CB:Shoes
+DD30D8CC:Studded Leather Basinet
+DD30D8CE:Ring
+DD30D8CF:Chevron Cloak
+DD30D8D5:Aetheria
+DD30D8D0:Diforsa Breastplate
+DD30D8D2:Leather Girth
+DD30D8D3:Leather Boots
+DD30D8D4:Studded Leather Pauldrons
+DD30D8D7:Circlet
+DD30D8D8:Olthoi Amuli Sollerets
+DD30D8D9:Chainmail Leggings
+DD30D8DA:Frost Compound Bow
+DD30D8DC:Puzzle Box
+DD30D8DD:Flared Shirt
+DD30D8DE:Olthoi Celdon Sollerets
+DD30D8DF:Steel Toed Boots
+DD30D8E0:Trousers
+DD30D8E1:Cloth Gloves
+DD30D8E2:Lorica Boots
+DD30D8E3:Bracelet
+DD30D8ED:Necklace
+DD30D8E5:Lyceum Hood
+DD30D8E6:Koujia Breastplate
+DD30D8E7:Yoroi Tassets
+DD30D8E8:Chainmail Gauntlets
+DD30D8EA:Shirt
+DD30D8EB:Sedgemail Leather Sleeves
+DD30D8EF:Pantaloons
+DD30D8F0:Salvage (100)
+DD30D8F1:Salvage
+DD30D8F3:Poet's Shirt
+DD30D8F4:Faran Over-robe
+DD30D8F6:Olthoi Amuli Sollerets
+DD30D8F8:Tenassa Breastplate
+DD30D8F9:Tenassa Leggings
+DD30D8FB:Cloth Gloves
+DD30D8FC:Vestiri Over-robe
+DD30D8FD:Shoes
+DD30D8FE:Heavy Bracelet
+DD30D8FF:Ring
+
+Missing Exports - Possessed items that were not found:

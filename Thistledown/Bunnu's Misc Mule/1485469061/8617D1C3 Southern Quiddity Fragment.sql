@@ -1,0 +1,49 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (2249707971, 10713, 38, 6472001) /* Gem */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (2249707971,   1,       2048) /* ItemType - Gem */
+     , (2249707971,   5,         50) /* EncumbranceVal */
+     , (2249707971,  11,          1) /* MaxStackSize */
+     , (2249707971,  12,          1) /* StackSize */
+     , (2249707971,  16,     524296) /* ItemUseable - SourceContainedTargetContained */
+     , (2249707971,  65,        101) /* Placement - Resting */
+     , (2249707971,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
+     , (2249707971,  94,       2048) /* TargetType - Gem */
+     , (2249707971, 151,          2) /* HookType - Wall */
+     , (2249707971, 9015,          6) /* InventoryOrder */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (2249707971,   1, False) /* Stuck */
+     , (2249707971,  11, True ) /* IgnoreCollisions */
+     , (2249707971,  13, True ) /* Ethereal */
+     , (2249707971,  14, True ) /* GravityStatus */
+     , (2249707971,  19, True ) /* Attackable */
+     , (2249707971,  22, True ) /* Inscribable */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (2249707971,   1, 'Southern Quiddity Fragment') /* Name */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (2249707971,   1,   33557049) /* Setup */
+     , (2249707971,   3,  536870932) /* SoundTable */
+     , (2249707971,   6,   67111928) /* PaletteBase */
+     , (2249707971,   8,  100671666) /* Icon */
+     , (2249707971,  22,  872415275) /* PhysicsEffectTable */
+     , (2249707971, 8001,  271085584) /* PCAPRecordedWeenieHeader - Usable, StackSize, MaxStackSize, Container, TargetType, Burden, HookType */
+     , (2249707971, 8003,         18) /* PCAPRecordedObjectDesc - Inscribable, Attackable */
+     , (2249707971, 8005,     137217) /* PCAPRecordedPhysicsDesc - CSetup, STable, PeTable, AnimationFrame */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (2249707971,   1, 1343235650) /* Owner */
+     , (2249707971,   2, 1343235650) /* Container */
+     , (2249707971, 8000, 2249707971) /* PCAPRecordedObjectIID */;
+
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
+VALUES (2249707971, 67112925, 0, 0);
+
+INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
+VALUES (2249707971, 0, 83888861, 83890391, 0);
+
+INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, `order`)
+VALUES (2249707971, 0, 16785861, 0);
