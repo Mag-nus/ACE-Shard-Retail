@@ -2,8 +2,8 @@ Source:
 C:\ACEmulator\Logs Unpacked\01-31-2017\random-running-around\partial_serpent_clan_training_camp.pcap
 
 Alternate sources:
-C:\ACEmulator\Logs Unpacked\trello_datamining\1_pkt_2017-1-23_1485219113_log.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\random-running-around\pkt_2017-1-23_1485219113_log.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\1_pkt_2017-1-23_1485219113_log.pcap
 
 Partial Exports - Missing appraisal info:
 A85895F2:Foci of Strife

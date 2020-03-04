@@ -2,8 +2,8 @@ Source:
 C:\ACEmulator\Logs Unpacked\02-09-2017\Callaway-1-17-29-2017-Misc2\pkt_2017-1-18_1484772249_log.pcap
 
 Alternate sources:
-C:\ACEmulator\Logs Unpacked\gdrive (tfarley)\Callaway\Asheron's Call\pkt_2017-1-9_1483985928_log.pcap
 C:\ACEmulator\Logs Unpacked\01-31-2017\Callaway-01-10-2017-MountLetheGraveyard\pkt_2017-1-9_1483985928_log.pcap
+C:\ACEmulator\Logs Unpacked\gdrive (tfarley)\Callaway\Asheron's Call\pkt_2017-1-9_1483985928_log.pcap
 C:\ACEmulator\Logs Unpacked\02-06-2017\Callaway-January2017-Account3\pkt_2017-1-10_1484091983_log.pcap
 
 Partial Exports - Missing appraisal info:

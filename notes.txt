@@ -9,21 +9,21 @@ for /f "delims=" %f in ('dir /b /s "C:\ACLogView Output\Player Exports\Thistledo
 for /f "delims=" %f in ('dir /b /s "C:\ACLogView Output\Player Exports\Verdantine\*.sql"') do "C:\Program Files\MySQL\MySQL Server 8.0\bin\mysql" --user=root --password=password ace_shard_retail_vt < "%f"
 for /f "delims=" %f in ('dir /b /s "C:\ACLogView Output\Player Exports\WintersEbb\*.sql"') do "C:\Program Files\MySQL\MySQL Server 8.0\bin\mysql" --user=root --password=password ace_shard_retail_we < "%f"
 
+Darktide IntersectWith Solclaim
+8034867A
+
+Darktide IntersectWith Verdantine
+801D4B4B
+
+Harvestgain IntersectWith Morningthaw
+801A56A3
+
 Morningthaw IntersectWith Solclaim
 500EBF77
 80821141
 
-Morningthaw IntersectWith Harvestgain
-801A56A3
-
-Thistledown IntersectWith Solclaim
+Solclaim IntersectWith Thistledown
 500A849D
 
 Solclaim IntersectWith Verdantine
 801D3EF1
-
-Solclaim IntersectWith Darktide
-8034867A
-
-Verdantine IntersectWith Darktide
-801D4B4B

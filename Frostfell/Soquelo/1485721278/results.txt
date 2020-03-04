@@ -2,12 +2,12 @@ Source:
 C:\ACEmulator\Logs Unpacked\trello_datamining\0_MiteTunnels.pcap
 
 Alternate sources:
-C:\ACEmulator\Logs Unpacked\trello_datamining\1_Cragstone.pcapng
-C:\ACEmulator\Logs Unpacked\trello_datamining\1_Yaraq.pcapng
 C:\ACEmulator\Logs Unpacked\01-31-2017\Cragstone\Cragstone.pcapng
 C:\ACEmulator\Logs Unpacked\01-31-2017\NeydisaCastle\NeydisaCastle.pcapng
 C:\ACEmulator\Logs Unpacked\01-31-2017\Yaraq\Yaraq.pcapng
 C:\ACEmulator\Logs Unpacked\trello_datamining\0_NeydisaCastle.pcapng
+C:\ACEmulator\Logs Unpacked\trello_datamining\1_Cragstone.pcapng
+C:\ACEmulator\Logs Unpacked\trello_datamining\1_Yaraq.pcapng
 C:\ACEmulator\Logs Unpacked\trello_datamining\0_Ayan.pcap
 
 Partial Exports - Missing appraisal info:
