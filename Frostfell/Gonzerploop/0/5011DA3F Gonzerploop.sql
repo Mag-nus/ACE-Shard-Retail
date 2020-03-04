@@ -1,0 +1,89 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (1343347263, 1, 10, 6734145) /* Creature */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (1343347263,   1,         16) /* ItemType - Creature */
+     , (1343347263,   6,        102) /* ItemsCapacity */
+     , (1343347263,   7,          7) /* ContainersCapacity */
+     , (1343347263,  16,          1) /* ItemUseable - No */
+     , (1343347263,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343347263, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343347263, 8007,          1) /* PCAPRecordedAutonomousMovement */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (1343347263,   1, True ) /* Stuck */
+     , (1343347263,  12, True ) /* ReportCollisions */
+     , (1343347263,  13, False) /* Ethereal */
+     , (1343347263,  14, True ) /* GravityStatus */
+     , (1343347263,  19, True ) /* Attackable */
+     , (1343347263,  42, True ) /* AllowEdgeSlide */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (1343347263,   1, 'Gonzerploop') /* Name */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (1343347263,   1,   33554433) /* Setup */
+     , (1343347263,   2,  150994945) /* MotionTable */
+     , (1343347263,   3,  536870913) /* SoundTable */
+     , (1343347263,   6,   67108990) /* PaletteBase */
+     , (1343347263,   8,  100667446) /* Icon */
+     , (1343347263,  22,  872415236) /* PhysicsEffectTable */
+     , (1343347263, 8001,    8388630) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, RadarBehavior */
+     , (1343347263, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
+     , (1343347263, 8005,     104451) /* PCAPRecordedPhysicsDesc - CSetup, MTable, STable, PeTable, Position, Movement */;
+
+INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
+VALUES (1343347263, 1, 3583574079, 182.7695, 156.4705, 374.005, 0.870784, 0, 0, -0.4916657) /* Location */
+/* @teleloc 0xD599003F [182.769500 156.470500 374.005000] 0.870784 0.000000 0.000000 -0.491666 */
+     , (1343347263, 8040, 3583574079, 178.2682, 159.8283, 374.005, 0.8173491, 0, 0, -0.5761428) /* PCAPRecordedLocation */
+/* @teleloc 0xD599003F [178.268200 159.828300 374.005000] 0.817349 0.000000 0.000000 -0.576143 */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (1343347263, 8000, 1343347263) /* PCAPRecordedObjectIID */;
+
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
+VALUES (1343347263, 67110055, 0, 24)
+     , (1343347263, 67110063, 32, 8)
+     , (1343347263, 67117028, 24, 8);
+
+INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
+VALUES (1343347263, 16, 83886232, 83890685, 0)
+     , (1343347263, 16, 83886668, 83890514, 1)
+     , (1343347263, 16, 83886837, 83890561, 2)
+     , (1343347263, 16, 83886684, 83890572, 3);
+
+INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, `order`)
+VALUES (1343347263, 0, 16777294, 0)
+     , (1343347263, 1, 16777295, 1)
+     , (1343347263, 2, 16777293, 2)
+     , (1343347263, 3, 16777292, 3)
+     , (1343347263, 4, 16777291, 4)
+     , (1343347263, 5, 16777299, 5)
+     , (1343347263, 6, 16777297, 6)
+     , (1343347263, 7, 16777296, 7)
+     , (1343347263, 8, 16777298, 8)
+     , (1343347263, 9, 16777300, 9)
+     , (1343347263, 10, 16777301, 10)
+     , (1343347263, 11, 16777302, 11)
+     , (1343347263, 12, 16777304, 12)
+     , (1343347263, 13, 16777303, 13)
+     , (1343347263, 14, 16777305, 14)
+     , (1343347263, 15, 16777307, 15)
+     , (1343347263, 16, 16795703, 16)
+     , (1343347263, 17, 16777708, 17)
+     , (1343347263, 18, 16777708, 18)
+     , (1343347263, 19, 16777708, 19)
+     , (1343347263, 20, 16777708, 20)
+     , (1343347263, 21, 16777708, 21)
+     , (1343347263, 22, 16777708, 22)
+     , (1343347263, 23, 16777708, 23)
+     , (1343347263, 24, 16777708, 24)
+     , (1343347263, 25, 16777708, 25)
+     , (1343347263, 26, 16777708, 26)
+     , (1343347263, 27, 16777708, 27)
+     , (1343347263, 28, 16777708, 28)
+     , (1343347263, 29, 16777708, 29)
+     , (1343347263, 30, 16777708, 30)
+     , (1343347263, 31, 16777708, 31)
+     , (1343347263, 32, 16777708, 32)
+     , (1343347263, 33, 16777708, 33);
