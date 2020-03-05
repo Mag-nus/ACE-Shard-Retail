@@ -8,7 +8,7 @@ VALUES (1344174589,   1,         16) /* ItemType - Creature */
      , (1344174589,  16,          1) /* ItemUseable - No */
      , (1344174589,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
      , (1344174589, 133,          4) /* ShowableOnRadar - ShowAlways */
-     , (1344174589, 8007,          1) /* PCAPRecordedAutonomousMovement */;
+     , (1344174589, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1344174589,   1, True ) /* Stuck */
@@ -32,14 +32,14 @@ VALUES (1344174589,   1,   33561106) /* Setup */
      , (1344174589,   8,  100667446) /* Icon */
      , (1344174589,  22,  872415236) /* PhysicsEffectTable */
      , (1344174589, 8001,    8388630) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, RadarBehavior */
-     , (1344174589, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
+     , (1344174589, 8003,         60) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable, PlayerKiller */
      , (1344174589, 8005,     104643) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1344174589, 1, 459079, 69.21297, -95.05846, 0.005999982, -0.04590763, 0, 0, -0.9989457) /* Location */
 /* @teleloc 0x00070147 [69.212970 -95.058460 0.006000] -0.045908 0.000000 0.000000 -0.998946 */
-     , (1344174589, 8040, 3332964361, 46.805, 4.219, 42.006, 1, 0, 0, 0) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A90009 [46.805000 4.219000 42.006000] 1.000000 0.000000 0.000000 0.000000 */;
+     , (1344174589, 8040, 2847146009, 84, 7.1, 94.006, 0.9969173, 0, 0, -0.0784591) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B40019 [84.000000 7.100000 94.006000] 0.996917 0.000000 0.000000 -0.078459 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1344174589, 8000, 1344174589) /* PCAPRecordedObjectIID */;

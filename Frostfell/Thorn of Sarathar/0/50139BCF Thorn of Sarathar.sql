@@ -12,15 +12,12 @@ VALUES (1343462351,   1,         16) /* ItemType - Creature */
      , (1343462351,  43,         23) /* NumDeaths */
      , (1343462351,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1343462351, 113,          1) /* Gender - Male */
-     , (1343462351, 125,    1471922) /* Age */
+     , (1343462351, 125,    1483524) /* Age */
      , (1343462351, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343462351, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343462351, 188,          2) /* HeritageGroup - Gharundim */
      , (1343462351, 261,        406) /* CharacterTitleId */
      , (1343462351, 262,         70) /* NumCharacterTitles */
-     , (1343462351, 281,          4) /* Faction1Bits */
-     , (1343462351, 289,         50) /* SocietyRankRadblo */
-     , (1343462351, 308,         12) /* DamageResistRating */
      , (1343462351, 390,          0) /* Enlightenment */
      , (1343462351, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
@@ -34,6 +31,7 @@ VALUES (1343462351,   1, True ) /* Stuck */
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343462351,   1, 'Thorn of Sarathar') /* Name */
+     , (1343462351,  10, 'Friends') /* Fellowship */
      , (1343462351,  21, 'Duke Summoner Air-ow') /* MonarchsTitle */
      , (1343462351,  35, 'Mushira Ladri') /* PatronsTitle */
      , (1343462351,  43, '27 November 2015') /* DateOfBirth */;
@@ -58,8 +56,8 @@ VALUES (1343462351,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343462351, 1, 3465871402, 128.8602, 46.25081, 20.005, 0.8841017, 0, 0, -0.4672946) /* Location */
 /* @teleloc 0xCE95002A [128.860200 46.250810 20.005000] 0.884102 0.000000 0.000000 -0.467295 */
-     , (1343462351, 8040, 23855555, 62.82861, -37.71421, 0.004999995, -0.8566828, 0, 0, -0.5158436) /* PCAPRecordedLocation */
-/* @teleloc 0x016C01C3 [62.828610 -37.714210 0.005000] -0.856683 0.000000 0.000000 -0.515844 */;
+     , (1343462351, 8040, 3465805871, 126.5941, 167.8029, 20.005, -0.9936192, 0, 0, -0.1127868) /* PCAPRecordedLocation */
+/* @teleloc 0xCE94002F [126.594100 167.802900 20.005000] -0.993619 0.000000 0.000000 -0.112787 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343462351,  26, 1343376390) /* Monarch */

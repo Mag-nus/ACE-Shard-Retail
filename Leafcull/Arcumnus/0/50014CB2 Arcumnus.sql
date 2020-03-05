@@ -3,11 +3,24 @@ VALUES (1342262450, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342262450,   1,         16) /* ItemType - Creature */
+     , (1342262450,   2,         31) /* CreatureType - Human */
      , (1342262450,   6,        102) /* ItemsCapacity */
      , (1342262450,   7,          8) /* ContainersCapacity */
      , (1342262450,  16,          1) /* ItemUseable - No */
+     , (1342262450,  25,        275) /* Level */
+     , (1342262450,  30,          3) /* AllegianceRank */
+     , (1342262450,  43,       1171) /* NumDeaths */
      , (1342262450,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342262450, 113,          1) /* Gender - Male */
+     , (1342262450, 125,   15416076) /* Age */
      , (1342262450, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342262450, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342262450, 181,       1318) /* ChessRank */
+     , (1342262450, 188,          3) /* HeritageGroup - Sho */
+     , (1342262450, 192,         68) /* FakeFishingSkill */
+     , (1342262450, 261,        626) /* CharacterTitleId */
+     , (1342262450, 262,        121) /* NumCharacterTitles */
+     , (1342262450, 390,          0) /* Enlightenment */
      , (1342262450, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +32,11 @@ VALUES (1342262450,   1, True ) /* Stuck */
      , (1342262450,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342262450,   1, 'Arcumnus') /* Name */;
+VALUES (1342262450,   1, 'Arcumnus') /* Name */
+     , (1342262450,  21, 'Aetheling The Silver Citadel') /* MonarchsTitle */
+     , (1342262450,  35, 'Ta-chueh Inukshuk') /* PatronsTitle */
+     , (1342262450,  43, '02 January 2000') /* DateOfBirth */
+     , (1342262450,  47, 'The Silver Citadel') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342262450,   1,   33554433) /* Setup */
@@ -27,6 +44,12 @@ VALUES (1342262450,   1,   33554433) /* Setup */
      , (1342262450,   3,  536870913) /* SoundTable */
      , (1342262450,   6,   67108990) /* PaletteBase */
      , (1342262450,   8,  100667446) /* Icon */
+     , (1342262450,   9,   83890452) /* EyesTexture */
+     , (1342262450,  10,   83890562) /* NoseTexture */
+     , (1342262450,  11,   83890659) /* MouthTexture */
+     , (1342262450,  15,   67109596) /* HairPalette */
+     , (1342262450,  16,   67109565) /* EyesPalette */
+     , (1342262450,  17,   67110048) /* SkinPalette */
      , (1342262450,  22,  872415236) /* PhysicsEffectTable */
      , (1342262450, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342262450, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

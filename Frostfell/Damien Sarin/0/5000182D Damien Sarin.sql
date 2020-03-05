@@ -7,9 +7,9 @@ VALUES (1342183469,   1,         16) /* ItemType - Creature */
      , (1342183469,   6,        102) /* ItemsCapacity */
      , (1342183469,   7,          7) /* ContainersCapacity */
      , (1342183469,  16,          1) /* ItemUseable - No */
-     , (1342183469,  25,        216) /* Level */
+     , (1342183469,  25,        235) /* Level */
      , (1342183469,  30,          7) /* AllegianceRank */
-     , (1342183469,  43,       1755) /* NumDeaths */
+     , (1342183469,  43,       1777) /* NumDeaths */
      , (1342183469,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1342183469, 113,          1) /* Gender - Male */
      , (1342183469, 133,          4) /* ShowableOnRadar - ShowAlways */
@@ -18,7 +18,12 @@ VALUES (1342183469,   1,         16) /* ItemType - Creature */
      , (1342183469, 188,          1) /* HeritageGroup - Aluvian */
      , (1342183469, 192,        700) /* FakeFishingSkill */
      , (1342183469, 261,        572) /* CharacterTitleId */
-     , (1342183469, 262,         40) /* NumCharacterTitles */
+     , (1342183469, 262,         43) /* NumCharacterTitles */
+     , (1342183469, 281,          2) /* Faction1Bits */
+     , (1342183469, 288,         20) /* SocietyRankEldweb */
+     , (1342183469, 307,         11) /* DamageRating */
+     , (1342183469, 308,          5) /* DamageResistRating */
+     , (1342183469, 381,          1) /* PKDamageRating */
      , (1342183469, 390,          0) /* Enlightenment */
      , (1342183469, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
@@ -32,7 +37,6 @@ VALUES (1342183469,   1, True ) /* Stuck */
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1342183469,   1, 'Damien Sarin') /* Name */
-     , (1342183469,  10, 'Shade of bz') /* Fellowship */
      , (1342183469,  21, 'Ou Sausage Javelins') /* MonarchsTitle */
      , (1342183469,  35, 'Aetheling Absolution') /* PatronsTitle */
      , (1342183469,  43, '04 November 1999') /* DateOfBirth */
@@ -58,8 +62,8 @@ VALUES (1342183469,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1342183469, 1, 2846883847, 22.4881, 147.3311, 60.6234, 0.9728708, 0, 0, -0.2313492) /* Location */
 /* @teleloc 0xA9B00007 [22.488100 147.331100 60.623400] 0.972871 0.000000 0.000000 -0.231349 */
-     , (1342183469, 8040, 2846883853, 34.41384, 119.0414, 64.005, -0.9833342, 0, 0, -0.1818073) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B0000D [34.413840 119.041400 64.005000] -0.983334 0.000000 0.000000 -0.181807 */;
+     , (1342183469, 8040, 2846883847, 21.6429, 146.3945, 61.0045, -0.7753896, 0, 0, 0.6314831) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B00007 [21.642900 146.394500 61.004500] -0.775390 0.000000 0.000000 0.631483 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342183469,  26, 1343239842) /* Monarch */

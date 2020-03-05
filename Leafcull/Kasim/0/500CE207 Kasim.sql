@@ -3,11 +3,29 @@ VALUES (1343021575, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343021575,   1,         16) /* ItemType - Creature */
+     , (1343021575,   2,         31) /* CreatureType - Human */
      , (1343021575,   6,        102) /* ItemsCapacity */
      , (1343021575,   7,          7) /* ContainersCapacity */
      , (1343021575,  16,          1) /* ItemUseable - No */
+     , (1343021575,  25,        275) /* Level */
+     , (1343021575,  30,          2) /* AllegianceRank */
+     , (1343021575,  35,          3) /* AllegianceFollowers */
+     , (1343021575,  43,        158) /* NumDeaths */
      , (1343021575,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343021575, 113,          1) /* Gender - Male */
+     , (1343021575, 125,    6508646) /* Age */
      , (1343021575, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343021575, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343021575, 188,          2) /* HeritageGroup - Gharundim */
+     , (1343021575, 261,          1) /* CharacterTitleId */
+     , (1343021575, 281,          4) /* Faction1Bits */
+     , (1343021575, 289,        520) /* SocietyRankRadblo */
+     , (1343021575, 307,          7) /* DamageRating */
+     , (1343021575, 308,          3) /* DamageResistRating */
+     , (1343021575, 314,          1) /* CritDamageRating */
+     , (1343021575, 323,          2) /* HealingBoostRating */
+     , (1343021575, 351,          4) /* LifeResistRating */
+     , (1343021575, 390,          0) /* Enlightenment */
      , (1343021575, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +37,8 @@ VALUES (1343021575,   1, True ) /* Stuck */
      , (1343021575,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343021575,   1, 'Kasim') /* Name */;
+VALUES (1343021575,   1, 'Kasim') /* Name */
+     , (1343021575,  43, '30 December 2003') /* DateOfBirth */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343021575,   1,   33554433) /* Setup */
@@ -27,6 +46,12 @@ VALUES (1343021575,   1,   33554433) /* Setup */
      , (1343021575,   3,  536870913) /* SoundTable */
      , (1343021575,   6,   67108990) /* PaletteBase */
      , (1343021575,   8,  100667446) /* Icon */
+     , (1343021575,   9,   83890454) /* EyesTexture */
+     , (1343021575,  10,   83890534) /* NoseTexture */
+     , (1343021575,  11,   83890575) /* MouthTexture */
+     , (1343021575,  15,   67109618) /* HairPalette */
+     , (1343021575,  16,   67109567) /* EyesPalette */
+     , (1343021575,  17,   67109557) /* SkinPalette */
      , (1343021575,  22,  872415236) /* PhysicsEffectTable */
      , (1343021575, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343021575, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
@@ -35,8 +60,8 @@ VALUES (1343021575,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343021575, 1, 3332964372, 70.57452, 75.22302, 42.005, -0.1335902, 0, 0, -0.9910367) /* Location */
 /* @teleloc 0xC6A90014 [70.574520 75.223020 42.005000] -0.133590 0.000000 0.000000 -0.991037 */
-     , (1343021575, 8040, 3332964379, 82.65846, 69.46947, 42.005, -0.9024714, 0, 0, -0.4307497) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001B [82.658460 69.469470 42.005000] -0.902471 0.000000 0.000000 -0.430750 */;
+     , (1343021575, 8040, 3316187179, 123.3013, 71.72435, 42.005, 0.6681536, 0, 0, -0.7440233) /* PCAPRecordedLocation */
+/* @teleloc 0xC5A9002B [123.301300 71.724350 42.005000] 0.668154 0.000000 0.000000 -0.744023 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343021575,  26, 1342747180) /* Monarch */

@@ -7,8 +7,8 @@ VALUES (1343298052,   1,         16) /* ItemType - Creature */
      , (1343298052,   6,        102) /* ItemsCapacity */
      , (1343298052,   7,          7) /* ContainersCapacity */
      , (1343298052,  16,          1) /* ItemUseable - No */
-     , (1343298052,  25,         85) /* Level */
-     , (1343298052,  30,          1) /* AllegianceRank */
+     , (1343298052,  25,         99) /* Level */
+     , (1343298052,  30,          4) /* AllegianceRank */
      , (1343298052,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1343298052, 113,          2) /* Gender - Female */
      , (1343298052, 133,          4) /* ShowableOnRadar - ShowAlways */
@@ -28,8 +28,8 @@ VALUES (1343298052,   1, True ) /* Stuck */
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343298052,   1, 'Kanako Experiment') /* Name */
-     , (1343298052,  21, 'Nan-chueh G L A Y') /* MonarchsTitle */
-     , (1343298052,  35, 'Baroness Kanako The Geisha') /* PatronsTitle */
+     , (1343298052,  21, 'Ta-chueh G L A Y') /* MonarchsTitle */
+     , (1343298052,  35, 'Countess Kanako The Geisha') /* PatronsTitle */
      , (1343298052,  47, 'ADVENTURE TIME') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)

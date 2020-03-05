@@ -7,13 +7,13 @@ VALUES (1342545547,   1,         16) /* ItemType - Creature */
      , (1342545547,   6,        102) /* ItemsCapacity */
      , (1342545547,   7,          7) /* ContainersCapacity */
      , (1342545547,  16,          1) /* ItemUseable - No */
-     , (1342545547,  25,        246) /* Level */
+     , (1342545547,  25,        248) /* Level */
      , (1342545547,  30,          7) /* AllegianceRank */
-     , (1342545547,  35,        382) /* AllegianceFollowers */
-     , (1342545547,  43,        853) /* NumDeaths */
+     , (1342545547,  35,        383) /* AllegianceFollowers */
+     , (1342545547,  43,        854) /* NumDeaths */
      , (1342545547,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1342545547, 113,          1) /* Gender - Male */
-     , (1342545547, 125,   15306866) /* Age */
+     , (1342545547, 125,   15308719) /* Age */
      , (1342545547, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342545547, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342545547, 188,          3) /* HeritageGroup - Sho */

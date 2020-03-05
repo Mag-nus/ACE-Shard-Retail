@@ -14,7 +14,7 @@ VALUES (1343946428,   1,         16) /* ItemType - Creature */
      , (1343946428, 188,          3) /* HeritageGroup - Sho */
      , (1343946428, 261,         14) /* CharacterTitleId */
      , (1343946428, 390,          0) /* Enlightenment */
-     , (1343946428, 8007,          1) /* PCAPRecordedAutonomousMovement */;
+     , (1343946428, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1343946428,   1, True ) /* Stuck */
@@ -41,14 +41,14 @@ VALUES (1343946428,   1,   33554433) /* Setup */
      , (1343946428,  17,   67110056) /* SkinPalette */
      , (1343946428,  22,  872415236) /* PhysicsEffectTable */
      , (1343946428, 8001,    8388630) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, RadarBehavior */
-     , (1343946428, 8003,         60) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable, PlayerKiller */
+     , (1343946428, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
      , (1343946428, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343946428, 1, 3663003676, 81.65481, 88.40881, 20.005, -0.999262, 0, 0, -0.03841138) /* Location */
 /* @teleloc 0xDA55001C [81.654810 88.408810 20.005000] -0.999262 0.000000 0.000000 -0.038411 */
-     , (1343946428, 8040, 22217448, 45.7, -43, -17.995, -0.8660254, 0, 0, -0.5000001) /* PCAPRecordedLocation */
-/* @teleloc 0x015302E8 [45.700000 -43.000000 -17.995000] -0.866025 0.000000 0.000000 -0.500000 */;
+     , (1343946428, 8040, 3663003677, 86.45866, 100.9144, 20.005, -0.2256484, 0, 0, -0.9742088) /* PCAPRecordedLocation */
+/* @teleloc 0xDA55001D [86.458660 100.914400 20.005000] -0.225648 0.000000 0.000000 -0.974209 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343946428, 8000, 1343946428) /* PCAPRecordedObjectIID */;

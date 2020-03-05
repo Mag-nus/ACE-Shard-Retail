@@ -3,11 +3,28 @@ VALUES (1342676250, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342676250,   1,         16) /* ItemType - Creature */
+     , (1342676250,   2,         31) /* CreatureType - Human */
      , (1342676250,   6,        102) /* ItemsCapacity */
      , (1342676250,   7,          8) /* ContainersCapacity */
      , (1342676250,  16,          1) /* ItemUseable - No */
+     , (1342676250,  25,        275) /* Level */
+     , (1342676250,  30,          6) /* AllegianceRank */
+     , (1342676250,  43,        389) /* NumDeaths */
      , (1342676250,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1342676250, 113,          1) /* Gender - Male */
+     , (1342676250, 125,   25266550) /* Age */
      , (1342676250, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342676250, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342676250, 188,          2) /* HeritageGroup - Gharundim */
+     , (1342676250, 192,         12) /* FakeFishingSkill */
+     , (1342676250, 261,         34) /* CharacterTitleId */
+     , (1342676250, 262,         14) /* NumCharacterTitles */
+     , (1342676250, 307,         13) /* DamageRating */
+     , (1342676250, 308,          4) /* DamageResistRating */
+     , (1342676250, 313,          1) /* CritRating */
+     , (1342676250, 314,         10) /* CritDamageRating */
+     , (1342676250, 316,          1) /* CritDamageResistRating */
+     , (1342676250, 390,          0) /* Enlightenment */
      , (1342676250, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +36,12 @@ VALUES (1342676250,   1, True ) /* Stuck */
      , (1342676250,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342676250,   1, 'D X Mage') /* Name */;
+VALUES (1342676250,   1, 'D X Mage') /* Name */
+     , (1342676250,  10, 'A o A') /* Fellowship */
+     , (1342676250,  21, 'Queen Daenerys Stormborn') /* MonarchsTitle */
+     , (1342676250,  35, 'Kun-chueh Just-Too-Sweet') /* PatronsTitle */
+     , (1342676250,  43, '15 May 2001') /* DateOfBirth */
+     , (1342676250,  47, 'Daenerys''s Minions') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342676250,   1,   33554433) /* Setup */
@@ -27,6 +49,12 @@ VALUES (1342676250,   1,   33554433) /* Setup */
      , (1342676250,   3,  536870913) /* SoundTable */
      , (1342676250,   6,   67108990) /* PaletteBase */
      , (1342676250,   8,  100667446) /* Icon */
+     , (1342676250,   9,   83890481) /* EyesTexture */
+     , (1342676250,  10,   83890547) /* NoseTexture */
+     , (1342676250,  11,   83890658) /* MouthTexture */
+     , (1342676250,  15,   67109606) /* HairPalette */
+     , (1342676250,  16,   67110063) /* EyesPalette */
+     , (1342676250,  17,   67109557) /* SkinPalette */
      , (1342676250,  22,  872415236) /* PhysicsEffectTable */
      , (1342676250, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342676250, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

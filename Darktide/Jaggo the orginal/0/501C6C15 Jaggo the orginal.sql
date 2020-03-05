@@ -33,7 +33,6 @@ VALUES (1344039957,   1, True ) /* Stuck */
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1344039957,   1, 'Jaggo the orginal') /* Name */
-     , (1344039957,  10, 'Team Go') /* Fellowship */
      , (1344039957,  21, 'Aetheling Judged') /* MonarchsTitle */
      , (1344039957,  35, 'Jo-chueh Shimkat') /* PatronsTitle */
      , (1344039957,  47, 'There Will Be Blood') /* AllegianceName */;

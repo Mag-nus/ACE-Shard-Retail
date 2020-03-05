@@ -11,7 +11,7 @@ VALUES (1343493906,   1,         16) /* ItemType - Creature */
      , (1343493906,  30,          2) /* AllegianceRank */
      , (1343493906,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
      , (1343493906, 113,          1) /* Gender - Male */
-     , (1343493906, 125,     548279) /* Age */
+     , (1343493906, 125,     548283) /* Age */
      , (1343493906, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343493906, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343493906, 188,          2) /* HeritageGroup - Gharundim */

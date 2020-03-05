@@ -3,11 +3,27 @@ VALUES (1342976639, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342976639,   1,         16) /* ItemType - Creature */
+     , (1342976639,   2,         31) /* CreatureType - Human */
      , (1342976639,   6,        102) /* ItemsCapacity */
      , (1342976639,   7,          8) /* ContainersCapacity */
      , (1342976639,  16,          1) /* ItemUseable - No */
+     , (1342976639,  25,        275) /* Level */
+     , (1342976639,  30,          6) /* AllegianceRank */
      , (1342976639,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342976639, 113,          1) /* Gender - Male */
      , (1342976639, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342976639, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342976639, 188,          3) /* HeritageGroup - Sho */
+     , (1342976639, 261,        146) /* CharacterTitleId */
+     , (1342976639, 262,        101) /* NumCharacterTitles */
+     , (1342976639, 281,          2) /* Faction1Bits */
+     , (1342976639, 288,        575) /* SocietyRankEldweb */
+     , (1342976639, 307,         26) /* DamageRating */
+     , (1342976639, 308,          3) /* DamageResistRating */
+     , (1342976639, 313,          1) /* CritRating */
+     , (1342976639, 314,          6) /* CritDamageRating */
+     , (1342976639, 316,          2) /* CritDamageResistRating */
+     , (1342976639, 390,          0) /* Enlightenment */
      , (1342976639, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +35,10 @@ VALUES (1342976639,   1, True ) /* Stuck */
      , (1342976639,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342976639,   1, 'Mentha''') /* Name */;
+VALUES (1342976639,   1, 'Mentha''') /* Name */
+     , (1342976639,  21, 'Ou Thase Skotoso') /* MonarchsTitle */
+     , (1342976639,  35, 'Ou Thase Skotoso') /* PatronsTitle */
+     , (1342976639,  47, 'Thase Skotoso Inc') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342976639,   1,   33554433) /* Setup */
@@ -27,16 +46,22 @@ VALUES (1342976639,   1,   33554433) /* Setup */
      , (1342976639,   3,  536870913) /* SoundTable */
      , (1342976639,   6,   67108990) /* PaletteBase */
      , (1342976639,   8,  100667446) /* Icon */
+     , (1342976639,   9,   83890516) /* EyesTexture */
+     , (1342976639,  10,   83890528) /* NoseTexture */
+     , (1342976639,  11,   83890636) /* MouthTexture */
+     , (1342976639,  15,   67117016) /* HairPalette */
+     , (1342976639,  16,   67110062) /* EyesPalette */
+     , (1342976639,  17,   67110047) /* SkinPalette */
      , (1342976639,  22,  872415236) /* PhysicsEffectTable */
      , (1342976639, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
-     , (1342976639, 8003,   33554460) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable, PkLiteStatus */
+     , (1342976639, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
      , (1342976639, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1342976639, 1, 459074, 70.75536, -54.70528, 0.004999995, 0.9993721, 0, 0, 0.03543142) /* Location */
 /* @teleloc 0x00070142 [70.755360 -54.705280 0.005000] 0.999372 0.000000 0.000000 0.035431 */
-     , (1342976639, 8040, 23855549, 49.46735, -40.59144, 0.004999995, 0.9286364, 0, 0, -0.3709912) /* PCAPRecordedLocation */
-/* @teleloc 0x016C01BD [49.467350 -40.591440 0.005000] 0.928636 0.000000 0.000000 -0.370991 */;
+     , (1342976639, 8040, 23855549, 47.99523, -36.41282, 0.004999995, 0.7539095, 0, 0, -0.6569782) /* PCAPRecordedLocation */
+/* @teleloc 0x016C01BD [47.995230 -36.412820 0.005000] 0.753910 0.000000 0.000000 -0.656978 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342976639,  26, 1342180363) /* Monarch */

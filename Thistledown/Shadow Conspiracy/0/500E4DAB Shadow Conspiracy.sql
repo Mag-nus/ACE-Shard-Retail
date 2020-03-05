@@ -11,13 +11,12 @@ VALUES (1343114667,   1,         16) /* ItemType - Creature */
      , (1343114667,  30,          1) /* AllegianceRank */
      , (1343114667,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1343114667, 113,          1) /* Gender - Male */
-     , (1343114667, 125,    1964562) /* Age */
+     , (1343114667, 125,    1964575) /* Age */
      , (1343114667, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343114667, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343114667, 188,          4) /* HeritageGroup - Viamontian */
      , (1343114667, 261,         31) /* CharacterTitleId */
      , (1343114667, 262,         22) /* NumCharacterTitles */
-     , (1343114667, 307,          5) /* DamageRating */
      , (1343114667, 390,          0) /* Enlightenment */
      , (1343114667, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 

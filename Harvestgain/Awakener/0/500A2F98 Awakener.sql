@@ -3,11 +3,28 @@ VALUES (1342844824, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342844824,   1,         16) /* ItemType - Creature */
+     , (1342844824,   2,         31) /* CreatureType - Human */
      , (1342844824,   6,        102) /* ItemsCapacity */
      , (1342844824,   7,          8) /* ContainersCapacity */
      , (1342844824,  16,          1) /* ItemUseable - No */
+     , (1342844824,  25,        275) /* Level */
+     , (1342844824,  30,          3) /* AllegianceRank */
      , (1342844824,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342844824, 113,          1) /* Gender - Male */
      , (1342844824, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342844824, 134,         64) /* PlayerKillerStatus - PKLite */
+     , (1342844824, 188,          3) /* HeritageGroup - Sho */
+     , (1342844824, 192,        700) /* FakeFishingSkill */
+     , (1342844824, 261,        662) /* CharacterTitleId */
+     , (1342844824, 262,         77) /* NumCharacterTitles */
+     , (1342844824, 281,          1) /* Faction1Bits */
+     , (1342844824, 287,       1001) /* SocietyRankCelhan */
+     , (1342844824, 307,         30) /* DamageRating */
+     , (1342844824, 308,         24) /* DamageResistRating */
+     , (1342844824, 314,         10) /* CritDamageRating */
+     , (1342844824, 316,         12) /* CritDamageResistRating */
+     , (1342844824, 323,         11) /* HealingBoostRating */
+     , (1342844824, 390,          0) /* Enlightenment */
      , (1342844824, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +36,10 @@ VALUES (1342844824,   1, True ) /* Stuck */
      , (1342844824,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342844824,   1, 'Awakener') /* Name */;
+VALUES (1342844824,   1, 'Awakener') /* Name */
+     , (1342844824,  21, 'Kou Hogun the grim') /* MonarchsTitle */
+     , (1342844824,  35, 'Commodore Olorin the Istari') /* PatronsTitle */
+     , (1342844824,  47, 'Immortals') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342844824,   1,   33554433) /* Setup */
@@ -27,6 +47,12 @@ VALUES (1342844824,   1,   33554433) /* Setup */
      , (1342844824,   3,  536870913) /* SoundTable */
      , (1342844824,   6,   67108990) /* PaletteBase */
      , (1342844824,   8,  100667446) /* Icon */
+     , (1342844824,   9,   83890451) /* EyesTexture */
+     , (1342844824,  10,   83890548) /* NoseTexture */
+     , (1342844824,  11,   83890630) /* MouthTexture */
+     , (1342844824,  15,   67109603) /* HairPalette */
+     , (1342844824,  16,   67110062) /* EyesPalette */
+     , (1342844824,  17,   67110056) /* SkinPalette */
      , (1342844824,  22,  872415236) /* PhysicsEffectTable */
      , (1342844824, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342844824, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

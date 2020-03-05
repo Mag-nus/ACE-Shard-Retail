@@ -3,11 +3,19 @@ VALUES (1343081080, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343081080,   1,         16) /* ItemType - Creature */
+     , (1343081080,   2,         31) /* CreatureType - Human */
      , (1343081080,   6,        102) /* ItemsCapacity */
      , (1343081080,   7,          8) /* ContainersCapacity */
      , (1343081080,  16,          1) /* ItemUseable - No */
+     , (1343081080,  25,        275) /* Level */
+     , (1343081080,  30,          3) /* AllegianceRank */
      , (1343081080,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343081080, 113,          1) /* Gender - Male */
      , (1343081080, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343081080, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343081080, 188,          2) /* HeritageGroup - Gharundim */
+     , (1343081080, 261,         33) /* CharacterTitleId */
+     , (1343081080, 390,          0) /* Enlightenment */
      , (1343081080, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +27,10 @@ VALUES (1343081080,   1, True ) /* Stuck */
      , (1343081080,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343081080,   1, 'Mageborn''s son') /* Name */;
+VALUES (1343081080,   1, 'Mageborn''s son') /* Name */
+     , (1343081080,  21, 'Taikou Wong Way') /* MonarchsTitle */
+     , (1343081080,  35, 'Baron Malleus Traumaticus') /* PatronsTitle */
+     , (1343081080,  47, 'The Chosen Reborn') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343081080,   1,   33554433) /* Setup */
@@ -27,6 +38,12 @@ VALUES (1343081080,   1,   33554433) /* Setup */
      , (1343081080,   3,  536870913) /* SoundTable */
      , (1343081080,   6,   67108990) /* PaletteBase */
      , (1343081080,   8,  100667446) /* Icon */
+     , (1343081080,   9,   83890514) /* EyesTexture */
+     , (1343081080,  10,   83890538) /* NoseTexture */
+     , (1343081080,  11,   83890563) /* MouthTexture */
+     , (1343081080,  15,   67109629) /* HairPalette */
+     , (1343081080,  16,   67109567) /* EyesPalette */
+     , (1343081080,  17,   67109551) /* SkinPalette */
      , (1343081080,  22,  872415236) /* PhysicsEffectTable */
      , (1343081080, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343081080, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

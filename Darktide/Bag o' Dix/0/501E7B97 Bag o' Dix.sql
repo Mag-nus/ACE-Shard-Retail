@@ -15,7 +15,6 @@ VALUES (1344174999,   1,         16) /* ItemType - Creature */
      , (1344174999, 134,          2) /* PlayerKillerStatus - NPK */
      , (1344174999, 188,          2) /* HeritageGroup - Gharundim */
      , (1344174999, 261,         13) /* CharacterTitleId */
-     , (1344174999, 307,          5) /* DamageRating */
      , (1344174999, 390,          0) /* Enlightenment */
      , (1344174999, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 

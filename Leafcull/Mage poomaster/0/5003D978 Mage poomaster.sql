@@ -3,11 +3,28 @@ VALUES (1342429560, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342429560,   1,         16) /* ItemType - Creature */
+     , (1342429560,   2,         31) /* CreatureType - Human */
      , (1342429560,   6,        102) /* ItemsCapacity */
      , (1342429560,   7,          8) /* ContainersCapacity */
      , (1342429560,  16,          1) /* ItemUseable - No */
+     , (1342429560,  25,        275) /* Level */
+     , (1342429560,  30,          5) /* AllegianceRank */
      , (1342429560,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342429560, 113,          1) /* Gender - Male */
+     , (1342429560, 125,   10165366) /* Age */
      , (1342429560, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342429560, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342429560, 188,          1) /* HeritageGroup - Aluvian */
+     , (1342429560, 261,        494) /* CharacterTitleId */
+     , (1342429560, 262,         76) /* NumCharacterTitles */
+     , (1342429560, 307,          5) /* DamageRating */
+     , (1342429560, 308,          4) /* DamageResistRating */
+     , (1342429560, 313,          1) /* CritRating */
+     , (1342429560, 314,          5) /* CritDamageRating */
+     , (1342429560, 316,          2) /* CritDamageResistRating */
+     , (1342429560, 323,          4) /* HealingBoostRating */
+     , (1342429560, 350,         16) /* DotResistRating */
+     , (1342429560, 390,          0) /* Enlightenment */
      , (1342429560, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +36,11 @@ VALUES (1342429560,   1, True ) /* Stuck */
      , (1342429560,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342429560,   1, 'Mage poomaster') /* Name */;
+VALUES (1342429560,   1, 'Mage poomaster') /* Name */
+     , (1342429560,  21, 'King Cobra-Con') /* MonarchsTitle */
+     , (1342429560,  35, 'Taikou Talon babe') /* PatronsTitle */
+     , (1342429560,  43, '11 May 2000') /* DateOfBirth */
+     , (1342429560,  47, 'Cobra''s Crew') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342429560,   1,   33554433) /* Setup */
@@ -27,6 +48,12 @@ VALUES (1342429560,   1,   33554433) /* Setup */
      , (1342429560,   3,  536870913) /* SoundTable */
      , (1342429560,   6,   67108990) /* PaletteBase */
      , (1342429560,   8,  100667446) /* Icon */
+     , (1342429560,   9,   83890481) /* EyesTexture */
+     , (1342429560,  10,   83890546) /* NoseTexture */
+     , (1342429560,  11,   83890589) /* MouthTexture */
+     , (1342429560,  15,   67109625) /* HairPalette */
+     , (1342429560,  16,   67110064) /* EyesPalette */
+     , (1342429560,  17,   67109558) /* SkinPalette */
      , (1342429560,  22,  872415236) /* PhysicsEffectTable */
      , (1342429560, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342429560, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

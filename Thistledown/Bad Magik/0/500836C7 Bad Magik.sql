@@ -3,11 +3,31 @@ VALUES (1342715591, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342715591,   1,         16) /* ItemType - Creature */
+     , (1342715591,   2,         31) /* CreatureType - Human */
      , (1342715591,   6,        102) /* ItemsCapacity */
      , (1342715591,   7,          8) /* ContainersCapacity */
      , (1342715591,  16,          1) /* ItemUseable - No */
+     , (1342715591,  25,        275) /* Level */
+     , (1342715591,  30,          5) /* AllegianceRank */
+     , (1342715591,  43,       2914) /* NumDeaths */
      , (1342715591,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1342715591, 113,          1) /* Gender - Male */
+     , (1342715591, 125,   20510380) /* Age */
      , (1342715591, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342715591, 134,         64) /* PlayerKillerStatus - PKLite */
+     , (1342715591, 188,          2) /* HeritageGroup - Gharundim */
+     , (1342715591, 192,        700) /* FakeFishingSkill */
+     , (1342715591, 261,        451) /* CharacterTitleId */
+     , (1342715591, 262,        134) /* NumCharacterTitles */
+     , (1342715591, 281,          1) /* Faction1Bits */
+     , (1342715591, 287,       1001) /* SocietyRankCelhan */
+     , (1342715591, 307,         24) /* DamageRating */
+     , (1342715591, 308,         12) /* DamageResistRating */
+     , (1342715591, 313,          1) /* CritRating */
+     , (1342715591, 314,         20) /* CritDamageRating */
+     , (1342715591, 316,          7) /* CritDamageResistRating */
+     , (1342715591, 323,          1) /* HealingBoostRating */
+     , (1342715591, 390,          0) /* Enlightenment */
      , (1342715591, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +39,11 @@ VALUES (1342715591,   1, True ) /* Stuck */
      , (1342715591,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342715591,   1, 'Bad Magik') /* Name */;
+VALUES (1342715591,   1, 'Bad Magik') /* Name */
+     , (1342715591,  21, 'Sultana Nythak I') /* MonarchsTitle */
+     , (1342715591,  35, 'Duke Lethal Lunacy') /* PatronsTitle */
+     , (1342715591,  43, '24 June 2001') /* DateOfBirth */
+     , (1342715591,  47, 'Royal Court') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342715591,   1,   33554433) /* Setup */
@@ -27,6 +51,12 @@ VALUES (1342715591,   1,   33554433) /* Setup */
      , (1342715591,   3,  536870913) /* SoundTable */
      , (1342715591,   6,   67108990) /* PaletteBase */
      , (1342715591,   8,  100667446) /* Icon */
+     , (1342715591,   9,   83890483) /* EyesTexture */
+     , (1342715591,  10,   83890539) /* NoseTexture */
+     , (1342715591,  11,   83890658) /* MouthTexture */
+     , (1342715591,  15,   67117016) /* HairPalette */
+     , (1342715591,  16,   67110063) /* EyesPalette */
+     , (1342715591,  17,   67109556) /* SkinPalette */
      , (1342715591,  22,  872415236) /* PhysicsEffectTable */
      , (1342715591, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342715591, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

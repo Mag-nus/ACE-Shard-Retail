@@ -3,16 +3,24 @@ VALUES (1343203231, 1, 10, 6738241) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343203231,   1,         16) /* ItemType - Creature */
+     , (1343203231,   2,         31) /* CreatureType - Human */
      , (1343203231,   6,        102) /* ItemsCapacity */
      , (1343203231,   7,          7) /* ContainersCapacity */
      , (1343203231,  16,          1) /* ItemUseable - No */
-     , (1343203231,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343203231,  25,        128) /* Level */
+     , (1343203231,  30,          1) /* AllegianceRank */
+     , (1343203231,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343203231, 113,          1) /* Gender - Male */
      , (1343203231, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343203231, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343203231, 188,          8) /* HeritageGroup - Lugian */
+     , (1343203231, 261,        767) /* CharacterTitleId */
+     , (1343203231, 390,          0) /* Enlightenment */
      , (1343203231, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1343203231,   1, True ) /* Stuck */
-     , (1343203231,  11, True ) /* IgnoreCollisions */
+     , (1343203231,  12, True ) /* ReportCollisions */
      , (1343203231,  13, False) /* Ethereal */
      , (1343203231,  14, True ) /* GravityStatus */
      , (1343203231,  19, True ) /* Attackable */
@@ -22,7 +30,10 @@ INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (1343203231,  39, 1.29999995231628) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343203231,   1, 'The Samule III') /* Name */;
+VALUES (1343203231,   1, 'The Samule III') /* Name */
+     , (1343203231,  21, 'King Paul Mua''dib') /* MonarchsTitle */
+     , (1343203231,  35, 'Praefectus Gear Mage') /* PatronsTitle */
+     , (1343203231,  47, 'Archangels of Armageddon') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343203231,   1,   33561112) /* Setup */
@@ -30,6 +41,12 @@ VALUES (1343203231,   1,   33561112) /* Setup */
      , (1343203231,   3,  536871128) /* SoundTable */
      , (1343203231,   6,   67108990) /* PaletteBase */
      , (1343203231,   8,  100667446) /* Icon */
+     , (1343203231,   9,   83898992) /* EyesTexture */
+     , (1343203231,  10,   83898750) /* NoseTexture */
+     , (1343203231,  11,   83898751) /* MouthTexture */
+     , (1343203231,  15,   67117011) /* HairPalette */
+     , (1343203231,  16,   67116951) /* EyesPalette */
+     , (1343203231,  17,   67117118) /* SkinPalette */
      , (1343203231,  22,  872415236) /* PhysicsEffectTable */
      , (1343203231, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343203231, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
@@ -38,8 +55,8 @@ VALUES (1343203231,   1,   33561112) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343203231, 1, 3332964725, 114.0399, 87.49727, 42.0065, 0.2609576, 0, 0, -0.9653503) /* Location */
 /* @teleloc 0xC6A90175 [114.039900 87.497270 42.006500] 0.260958 0.000000 0.000000 -0.965350 */
-     , (1343203231, 8040, 3332964380, 76.80312, 77.75872, 42.0065, -0.9998329, 0, 0, -0.01827988) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001C [76.803120 77.758720 42.006500] -0.999833 0.000000 0.000000 -0.018280 */;
+     , (1343203231, 8040, 3332964725, 113.9129, 87.74864, 42.0065, 0.2318927, 0, 0, -0.9727414) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A90175 [113.912900 87.748640 42.006500] 0.231893 0.000000 0.000000 -0.972741 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343203231,  26, 1342205575) /* Monarch */

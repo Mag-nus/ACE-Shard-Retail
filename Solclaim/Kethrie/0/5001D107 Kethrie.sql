@@ -3,11 +3,32 @@ VALUES (1342296327, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342296327,   1,         16) /* ItemType - Creature */
+     , (1342296327,   2,         31) /* CreatureType - Human */
      , (1342296327,   6,        102) /* ItemsCapacity */
      , (1342296327,   7,          8) /* ContainersCapacity */
      , (1342296327,  16,          1) /* ItemUseable - No */
+     , (1342296327,  25,        275) /* Level */
+     , (1342296327,  30,         10) /* AllegianceRank */
+     , (1342296327,  43,       1460) /* NumDeaths */
      , (1342296327,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1342296327, 113,          2) /* Gender - Female */
+     , (1342296327, 125,   80750162) /* Age */
      , (1342296327, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342296327, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342296327, 181,       1500) /* ChessRank */
+     , (1342296327, 188,          3) /* HeritageGroup - Sho */
+     , (1342296327, 261,        791) /* CharacterTitleId */
+     , (1342296327, 262,        112) /* NumCharacterTitles */
+     , (1342296327, 281,          1) /* Faction1Bits */
+     , (1342296327, 287,       1001) /* SocietyRankCelhan */
+     , (1342296327, 307,         15) /* DamageRating */
+     , (1342296327, 308,         13) /* DamageResistRating */
+     , (1342296327, 313,          1) /* CritRating */
+     , (1342296327, 314,         13) /* CritDamageRating */
+     , (1342296327, 316,          5) /* CritDamageResistRating */
+     , (1342296327, 323,          2) /* HealingBoostRating */
+     , (1342296327, 351,         16) /* LifeResistRating */
+     , (1342296327, 390,          0) /* Enlightenment */
      , (1342296327, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +40,11 @@ VALUES (1342296327,   1, True ) /* Stuck */
      , (1342296327,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342296327,   1, 'Kethrie') /* Name */;
+VALUES (1342296327,   1, 'Kethrie') /* Name */
+     , (1342296327,  21, 'High King Laris Bloodsong') /* MonarchsTitle */
+     , (1342296327,  35, 'Sultan Bragi') /* PatronsTitle */
+     , (1342296327,  43, '13 July 2000') /* DateOfBirth */
+     , (1342296327,  47, 'Saints of Solclaim') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342296327,   1,   33554510) /* Setup */
@@ -27,6 +52,12 @@ VALUES (1342296327,   1,   33554510) /* Setup */
      , (1342296327,   3,  536870914) /* SoundTable */
      , (1342296327,   6,   67108990) /* PaletteBase */
      , (1342296327,   8,  100667446) /* Icon */
+     , (1342296327,   9,   83890241) /* EyesTexture */
+     , (1342296327,  10,   83890294) /* NoseTexture */
+     , (1342296327,  11,   83890324) /* MouthTexture */
+     , (1342296327,  15,   67109623) /* HairPalette */
+     , (1342296327,  16,   67109565) /* EyesPalette */
+     , (1342296327,  17,   67110059) /* SkinPalette */
      , (1342296327,  22,  872415236) /* PhysicsEffectTable */
      , (1342296327, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342296327, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

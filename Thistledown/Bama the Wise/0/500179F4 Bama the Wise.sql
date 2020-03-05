@@ -3,11 +3,27 @@ VALUES (1342274036, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342274036,   1,         16) /* ItemType - Creature */
+     , (1342274036,   2,         31) /* CreatureType - Human */
      , (1342274036,   6,        102) /* ItemsCapacity */
      , (1342274036,   7,          8) /* ContainersCapacity */
      , (1342274036,  16,          1) /* ItemUseable - No */
+     , (1342274036,  25,        275) /* Level */
+     , (1342274036,  30,          2) /* AllegianceRank */
+     , (1342274036,  35,         13) /* AllegianceFollowers */
      , (1342274036,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1342274036, 113,          1) /* Gender - Male */
+     , (1342274036, 125,   15170427) /* Age */
      , (1342274036, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342274036, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342274036, 188,          1) /* HeritageGroup - Aluvian */
+     , (1342274036, 261,        458) /* CharacterTitleId */
+     , (1342274036, 281,          1) /* Faction1Bits */
+     , (1342274036, 287,          1) /* SocietyRankCelhan */
+     , (1342274036, 307,          9) /* DamageRating */
+     , (1342274036, 308,          3) /* DamageResistRating */
+     , (1342274036, 323,          3) /* HealingBoostRating */
+     , (1342274036, 350,         12) /* DotResistRating */
+     , (1342274036, 390,          0) /* Enlightenment */
      , (1342274036, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +35,9 @@ VALUES (1342274036,   1, True ) /* Stuck */
      , (1342274036,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342274036,   1, 'Bama the Wise') /* Name */;
+VALUES (1342274036,   1, 'Bama the Wise') /* Name */
+     , (1342274036,  43, '08 January 2000') /* DateOfBirth */
+     , (1342274036,  47, 'Bama') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342274036,   1,   33554433) /* Setup */
@@ -27,6 +45,12 @@ VALUES (1342274036,   1,   33554433) /* Setup */
      , (1342274036,   3,  536870913) /* SoundTable */
      , (1342274036,   6,   67108990) /* PaletteBase */
      , (1342274036,   8,  100667446) /* Icon */
+     , (1342274036,   9,   83890485) /* EyesTexture */
+     , (1342274036,  10,   83890559) /* NoseTexture */
+     , (1342274036,  11,   83890635) /* MouthTexture */
+     , (1342274036,  15,   67109587) /* HairPalette */
+     , (1342274036,  16,   67110065) /* EyesPalette */
+     , (1342274036,  17,   67109561) /* SkinPalette */
      , (1342274036,  22,  872415236) /* PhysicsEffectTable */
      , (1342274036, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342274036, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

@@ -3,11 +3,27 @@ VALUES (1342880179, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342880179,   1,         16) /* ItemType - Creature */
+     , (1342880179,   2,         31) /* CreatureType - Human */
      , (1342880179,   6,        102) /* ItemsCapacity */
      , (1342880179,   7,          7) /* ContainersCapacity */
      , (1342880179,  16,          1) /* ItemUseable - No */
+     , (1342880179,  25,        270) /* Level */
+     , (1342880179,  30,          3) /* AllegianceRank */
+     , (1342880179,  43,        722) /* NumDeaths */
      , (1342880179,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342880179, 113,          2) /* Gender - Female */
+     , (1342880179, 125,   17516886) /* Age */
      , (1342880179, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342880179, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342880179, 188,          1) /* HeritageGroup - Aluvian */
+     , (1342880179, 261,        118) /* CharacterTitleId */
+     , (1342880179, 281,          1) /* Faction1Bits */
+     , (1342880179, 287,         20) /* SocietyRankCelhan */
+     , (1342880179, 307,         15) /* DamageRating */
+     , (1342880179, 308,          5) /* DamageResistRating */
+     , (1342880179, 313,          1) /* CritRating */
+     , (1342880179, 314,          3) /* CritDamageRating */
+     , (1342880179, 390,          0) /* Enlightenment */
      , (1342880179, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +35,11 @@ VALUES (1342880179,   1, True ) /* Stuck */
      , (1342880179,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342880179,   1, 'Ice II') /* Name */;
+VALUES (1342880179,   1, 'Ice II') /* Name */
+     , (1342880179,  21, 'Jo-ou Tika Waylen') /* MonarchsTitle */
+     , (1342880179,  35, 'Thane Hanniki') /* PatronsTitle */
+     , (1342880179,  43, '14 January 2002') /* DateOfBirth */
+     , (1342880179,  47, 'The Dragon Moon Clan') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342880179,   1,   33554510) /* Setup */
@@ -27,6 +47,12 @@ VALUES (1342880179,   1,   33554510) /* Setup */
      , (1342880179,   3,  536870914) /* SoundTable */
      , (1342880179,   6,   67108990) /* PaletteBase */
      , (1342880179,   8,  100667446) /* Icon */
+     , (1342880179,   9,   83890260) /* EyesTexture */
+     , (1342880179,  10,   83890291) /* NoseTexture */
+     , (1342880179,  11,   83890327) /* MouthTexture */
+     , (1342880179,  15,   67117028) /* HairPalette */
+     , (1342880179,  16,   67109564) /* EyesPalette */
+     , (1342880179,  17,   67109562) /* SkinPalette */
      , (1342880179,  22,  872415236) /* PhysicsEffectTable */
      , (1342880179, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342880179, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

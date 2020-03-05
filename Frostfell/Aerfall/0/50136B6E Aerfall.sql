@@ -9,7 +9,7 @@ VALUES (1343449966,   1,         16) /* ItemType - Creature */
      , (1343449966,  16,          1) /* ItemUseable - No */
      , (1343449966,  25,        275) /* Level */
      , (1343449966,  30,          9) /* AllegianceRank */
-     , (1343449966,  35,      11450) /* AllegianceFollowers */
+     , (1343449966,  35,      10955) /* AllegianceFollowers */
      , (1343449966,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1343449966, 113,          1) /* Gender - Male */
      , (1343449966, 133,          4) /* ShowableOnRadar - ShowAlways */
@@ -18,13 +18,13 @@ VALUES (1343449966,   1,         16) /* ItemType - Creature */
      , (1343449966, 261,        878) /* CharacterTitleId */
      , (1343449966, 281,          2) /* Faction1Bits */
      , (1343449966, 288,       1001) /* SocietyRankEldweb */
-     , (1343449966, 307,         50) /* DamageRating */
-     , (1343449966, 308,         23) /* DamageResistRating */
+     , (1343449966, 307,         45) /* DamageRating */
+     , (1343449966, 308,         18) /* DamageResistRating */
      , (1343449966, 313,          1) /* CritRating */
      , (1343449966, 314,         38) /* CritDamageRating */
      , (1343449966, 316,         14) /* CritDamageResistRating */
-     , (1343449966, 323,          9) /* HealingBoostRating */
-     , (1343449966, 381,          6) /* PKDamageRating */
+     , (1343449966, 323,          7) /* HealingBoostRating */
+     , (1343449966, 381,          5) /* PKDamageRating */
      , (1343449966, 382,          6) /* PKDamageResistRating */
      , (1343449966, 390,          5) /* Enlightenment */
      , (1343449966, 8007,          0) /* PCAPRecordedAutonomousMovement */;
@@ -39,6 +39,7 @@ VALUES (1343449966,   1, True ) /* Stuck */
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343449966,   1, 'Aerfall') /* Name */
+     , (1343449966,  10, 'X') /* Fellowship */
      , (1343449966,  47, 'Autobotz') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)

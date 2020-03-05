@@ -3,11 +3,22 @@ VALUES (1342466305, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342466305,   1,         16) /* ItemType - Creature */
+     , (1342466305,   2,         31) /* CreatureType - Human */
      , (1342466305,   6,        102) /* ItemsCapacity */
      , (1342466305,   7,          8) /* ContainersCapacity */
      , (1342466305,  16,          1) /* ItemUseable - No */
+     , (1342466305,  25,        275) /* Level */
+     , (1342466305,  30,          9) /* AllegianceRank */
+     , (1342466305,  43,        571) /* NumDeaths */
      , (1342466305,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342466305, 113,          1) /* Gender - Male */
+     , (1342466305, 125,   18078243) /* Age */
      , (1342466305, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342466305, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342466305, 181,       1531) /* ChessRank */
+     , (1342466305, 188,          3) /* HeritageGroup - Sho */
+     , (1342466305, 261,         81) /* CharacterTitleId */
+     , (1342466305, 390,          0) /* Enlightenment */
      , (1342466305, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +30,11 @@ VALUES (1342466305,   1, True ) /* Stuck */
      , (1342466305,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342466305,   1, 'Chunglee') /* Name */;
+VALUES (1342466305,   1, 'Chunglee') /* Name */
+     , (1342466305,  21, 'Queen Marie the Loyal') /* MonarchsTitle */
+     , (1342466305,  35, 'Queen Marie the Loyal') /* PatronsTitle */
+     , (1342466305,  43, '22 June 2000') /* DateOfBirth */
+     , (1342466305,  47, 'Evolution of Light') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342466305,   1,   33554433) /* Setup */
@@ -27,6 +42,12 @@ VALUES (1342466305,   1,   33554433) /* Setup */
      , (1342466305,   3,  536870913) /* SoundTable */
      , (1342466305,   6,   67108990) /* PaletteBase */
      , (1342466305,   8,  100667446) /* Icon */
+     , (1342466305,   9,   83890516) /* EyesTexture */
+     , (1342466305,  10,   83890550) /* NoseTexture */
+     , (1342466305,  11,   83890630) /* MouthTexture */
+     , (1342466305,  15,   67109621) /* HairPalette */
+     , (1342466305,  16,   67109565) /* EyesPalette */
+     , (1342466305,  17,   67110054) /* SkinPalette */
      , (1342466305,  22,  872415236) /* PhysicsEffectTable */
      , (1342466305, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342466305, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

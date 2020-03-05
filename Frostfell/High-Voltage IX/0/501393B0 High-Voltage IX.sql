@@ -3,11 +3,25 @@ VALUES (1343460272, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343460272,   1,         16) /* ItemType - Creature */
+     , (1343460272,   2,         31) /* CreatureType - Human */
      , (1343460272,   6,        102) /* ItemsCapacity */
      , (1343460272,   7,          8) /* ContainersCapacity */
      , (1343460272,  16,          1) /* ItemUseable - No */
+     , (1343460272,  25,        275) /* Level */
+     , (1343460272,  30,          2) /* AllegianceRank */
      , (1343460272,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343460272, 113,          1) /* Gender - Male */
      , (1343460272, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343460272, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343460272, 188,          3) /* HeritageGroup - Sho */
+     , (1343460272, 261,          1) /* CharacterTitleId */
+     , (1343460272, 307,         16) /* DamageRating */
+     , (1343460272, 308,         27) /* DamageResistRating */
+     , (1343460272, 313,          1) /* CritRating */
+     , (1343460272, 314,          3) /* CritDamageRating */
+     , (1343460272, 316,          8) /* CritDamageResistRating */
+     , (1343460272, 323,          2) /* HealingBoostRating */
+     , (1343460272, 390,          0) /* Enlightenment */
      , (1343460272, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +33,11 @@ VALUES (1343460272,   1, True ) /* Stuck */
      , (1343460272,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343460272,   1, 'High-Voltage IX') /* Name */;
+VALUES (1343460272,   1, 'High-Voltage IX') /* Name */
+     , (1343460272,  10, 'Quest') /* Fellowship */
+     , (1343460272,  21, 'Ou Sausage Javelins') /* MonarchsTitle */
+     , (1343460272,  35, 'Nan-chueh High-Voltage V') /* PatronsTitle */
+     , (1343460272,  47, 'R o G') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343460272,   1,   33554433) /* Setup */
@@ -27,6 +45,12 @@ VALUES (1343460272,   1,   33554433) /* Setup */
      , (1343460272,   3,  536870913) /* SoundTable */
      , (1343460272,   6,   67108990) /* PaletteBase */
      , (1343460272,   8,  100667446) /* Icon */
+     , (1343460272,   9,   83890448) /* EyesTexture */
+     , (1343460272,  10,   83890519) /* NoseTexture */
+     , (1343460272,  11,   83890565) /* MouthTexture */
+     , (1343460272,  15,   67117016) /* HairPalette */
+     , (1343460272,  16,   67109565) /* EyesPalette */
+     , (1343460272,  17,   67110055) /* SkinPalette */
      , (1343460272,  22,  872415236) /* PhysicsEffectTable */
      , (1343460272, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343460272, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

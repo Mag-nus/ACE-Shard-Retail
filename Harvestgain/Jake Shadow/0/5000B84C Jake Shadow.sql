@@ -15,6 +15,14 @@ VALUES (1342224460,   1,         16) /* ItemType - Creature */
      , (1342224460, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342224460, 188,          1) /* HeritageGroup - Aluvian */
      , (1342224460, 261,          1) /* CharacterTitleId */
+     , (1342224460, 281,          1) /* Faction1Bits */
+     , (1342224460, 287,       1001) /* SocietyRankCelhan */
+     , (1342224460, 307,         12) /* DamageRating */
+     , (1342224460, 308,          6) /* DamageResistRating */
+     , (1342224460, 313,          1) /* CritRating */
+     , (1342224460, 314,         15) /* CritDamageRating */
+     , (1342224460, 316,          3) /* CritDamageResistRating */
+     , (1342224460, 323,          8) /* HealingBoostRating */
      , (1342224460, 390,          0) /* Enlightenment */
      , (1342224460, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 

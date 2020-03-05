@@ -3,11 +3,29 @@ VALUES (1342717098, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342717098,   1,         16) /* ItemType - Creature */
+     , (1342717098,   2,         31) /* CreatureType - Human */
      , (1342717098,   6,        102) /* ItemsCapacity */
      , (1342717098,   7,          8) /* ContainersCapacity */
      , (1342717098,  16,          1) /* ItemUseable - No */
+     , (1342717098,  25,        265) /* Level */
+     , (1342717098,  30,          4) /* AllegianceRank */
      , (1342717098,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1342717098, 113,          1) /* Gender - Male */
+     , (1342717098, 125,   10743805) /* Age */
      , (1342717098, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342717098, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342717098, 188,          1) /* HeritageGroup - Aluvian */
+     , (1342717098, 261,        100) /* CharacterTitleId */
+     , (1342717098, 281,          2) /* Faction1Bits */
+     , (1342717098, 288,       1001) /* SocietyRankEldweb */
+     , (1342717098, 307,         16) /* DamageRating */
+     , (1342717098, 308,         13) /* DamageResistRating */
+     , (1342717098, 313,          1) /* CritRating */
+     , (1342717098, 314,          5) /* CritDamageRating */
+     , (1342717098, 316,          4) /* CritDamageResistRating */
+     , (1342717098, 323,          6) /* HealingBoostRating */
+     , (1342717098, 350,         16) /* DotResistRating */
+     , (1342717098, 390,          1) /* Enlightenment */
      , (1342717098, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +37,9 @@ VALUES (1342717098,   1, True ) /* Stuck */
      , (1342717098,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342717098,   1, 'Akhenaten') /* Name */;
+VALUES (1342717098,   1, 'Akhenaten') /* Name */
+     , (1342717098,  21, 'Kun-chueh Dragon The Empyrian') /* MonarchsTitle */
+     , (1342717098,  35, 'Ta-chueh Tearbringer') /* PatronsTitle */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342717098,   1,   33554433) /* Setup */
@@ -27,6 +47,12 @@ VALUES (1342717098,   1,   33554433) /* Setup */
      , (1342717098,   3,  536870913) /* SoundTable */
      , (1342717098,   6,   67108990) /* PaletteBase */
      , (1342717098,   8,  100667446) /* Icon */
+     , (1342717098,   9,   83890508) /* EyesTexture */
+     , (1342717098,  10,   83890557) /* NoseTexture */
+     , (1342717098,  11,   83890657) /* MouthTexture */
+     , (1342717098,  15,   67109600) /* HairPalette */
+     , (1342717098,  16,   67110064) /* EyesPalette */
+     , (1342717098,  17,   67109558) /* SkinPalette */
      , (1342717098,  22,  872415236) /* PhysicsEffectTable */
      , (1342717098, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342717098, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

@@ -3,11 +3,29 @@ VALUES (1343478737, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343478737,   1,         16) /* ItemType - Creature */
+     , (1343478737,   2,         31) /* CreatureType - Human */
      , (1343478737,   6,        102) /* ItemsCapacity */
      , (1343478737,   7,          8) /* ContainersCapacity */
      , (1343478737,  16,          1) /* ItemUseable - No */
+     , (1343478737,  25,        275) /* Level */
+     , (1343478737,  30,          8) /* AllegianceRank */
      , (1343478737,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343478737, 113,          1) /* Gender - Male */
      , (1343478737, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343478737, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343478737, 188,          1) /* HeritageGroup - Aluvian */
+     , (1343478737, 261,        760) /* CharacterTitleId */
+     , (1343478737, 281,          2) /* Faction1Bits */
+     , (1343478737, 288,         95) /* SocietyRankEldweb */
+     , (1343478737, 307,         57) /* DamageRating */
+     , (1343478737, 308,         18) /* DamageResistRating */
+     , (1343478737, 313,          1) /* CritRating */
+     , (1343478737, 314,         26) /* CritDamageRating */
+     , (1343478737, 316,         11) /* CritDamageResistRating */
+     , (1343478737, 323,          4) /* HealingBoostRating */
+     , (1343478737, 381,          6) /* PKDamageRating */
+     , (1343478737, 382,          6) /* PKDamageResistRating */
+     , (1343478737, 390,          0) /* Enlightenment */
      , (1343478737, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +37,10 @@ VALUES (1343478737,   1, True ) /* Stuck */
      , (1343478737,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343478737,   1, 'Lothlann') /* Name */;
+VALUES (1343478737,   1, 'Lothlann') /* Name */
+     , (1343478737,  21, 'King Aerfall') /* MonarchsTitle */
+     , (1343478737,  35, 'King Basler') /* PatronsTitle */
+     , (1343478737,  47, 'Autobotz') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343478737,   1,   33554433) /* Setup */
@@ -27,6 +48,12 @@ VALUES (1343478737,   1,   33554433) /* Setup */
      , (1343478737,   3,  536870913) /* SoundTable */
      , (1343478737,   6,   67108990) /* PaletteBase */
      , (1343478737,   8,  100667446) /* Icon */
+     , (1343478737,   9,   83890479) /* EyesTexture */
+     , (1343478737,  10,   83890521) /* NoseTexture */
+     , (1343478737,  11,   83890660) /* MouthTexture */
+     , (1343478737,  15,   67117017) /* HairPalette */
+     , (1343478737,  16,   67110064) /* EyesPalette */
+     , (1343478737,  17,   67109558) /* SkinPalette */
      , (1343478737,  22,  872415236) /* PhysicsEffectTable */
      , (1343478737, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343478737, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

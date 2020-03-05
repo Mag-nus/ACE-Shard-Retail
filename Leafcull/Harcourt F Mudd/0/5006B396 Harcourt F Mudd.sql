@@ -3,11 +3,28 @@ VALUES (1342616470, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342616470,   1,         16) /* ItemType - Creature */
+     , (1342616470,   2,         31) /* CreatureType - Human */
      , (1342616470,   6,        102) /* ItemsCapacity */
      , (1342616470,   7,          8) /* ContainersCapacity */
      , (1342616470,  16,          1) /* ItemUseable - No */
+     , (1342616470,  25,        275) /* Level */
+     , (1342616470,  30,          7) /* AllegianceRank */
+     , (1342616470,  43,        354) /* NumDeaths */
      , (1342616470,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1342616470, 113,          1) /* Gender - Male */
+     , (1342616470, 125,   15290538) /* Age */
      , (1342616470, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342616470, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342616470, 188,          1) /* HeritageGroup - Aluvian */
+     , (1342616470, 261,         34) /* CharacterTitleId */
+     , (1342616470, 281,          1) /* Faction1Bits */
+     , (1342616470, 287,       1001) /* SocietyRankCelhan */
+     , (1342616470, 307,         19) /* DamageRating */
+     , (1342616470, 308,         17) /* DamageResistRating */
+     , (1342616470, 314,         14) /* CritDamageRating */
+     , (1342616470, 316,          6) /* CritDamageResistRating */
+     , (1342616470, 323,          3) /* HealingBoostRating */
+     , (1342616470, 390,          0) /* Enlightenment */
      , (1342616470, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +36,11 @@ VALUES (1342616470,   1, True ) /* Stuck */
      , (1342616470,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342616470,   1, 'Harcourt F Mudd') /* Name */;
+VALUES (1342616470,   1, 'Harcourt F Mudd') /* Name */
+     , (1342616470,  21, 'Queen Tasia the True') /* MonarchsTitle */
+     , (1342616470,  35, 'Taikou Gullum') /* PatronsTitle */
+     , (1342616470,  43, '11 January 2001') /* DateOfBirth */
+     , (1342616470,  47, 'The Real Trues') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342616470,   1,   33554433) /* Setup */
@@ -27,6 +48,12 @@ VALUES (1342616470,   1,   33554433) /* Setup */
      , (1342616470,   3,  536870913) /* SoundTable */
      , (1342616470,   6,   67108990) /* PaletteBase */
      , (1342616470,   8,  100667446) /* Icon */
+     , (1342616470,   9,   83890506) /* EyesTexture */
+     , (1342616470,  10,   83890554) /* NoseTexture */
+     , (1342616470,  11,   83890658) /* MouthTexture */
+     , (1342616470,  15,   67109603) /* HairPalette */
+     , (1342616470,  16,   67110065) /* EyesPalette */
+     , (1342616470,  17,   67109562) /* SkinPalette */
      , (1342616470,  22,  872415236) /* PhysicsEffectTable */
      , (1342616470, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342616470, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

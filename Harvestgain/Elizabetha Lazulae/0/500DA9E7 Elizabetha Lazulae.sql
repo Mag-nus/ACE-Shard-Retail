@@ -3,11 +3,23 @@ VALUES (1343072743, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343072743,   1,         16) /* ItemType - Creature */
+     , (1343072743,   2,         31) /* CreatureType - Human */
      , (1343072743,   6,        102) /* ItemsCapacity */
      , (1343072743,   7,          7) /* ContainersCapacity */
      , (1343072743,  16,          1) /* ItemUseable - No */
+     , (1343072743,  25,        201) /* Level */
+     , (1343072743,  30,          1) /* AllegianceRank */
+     , (1343072743,  43,        135) /* NumDeaths */
      , (1343072743,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343072743, 113,          2) /* Gender - Female */
+     , (1343072743, 125,    1999101) /* Age */
      , (1343072743, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343072743, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343072743, 188,          4) /* HeritageGroup - Viamontian */
+     , (1343072743, 261,        773) /* CharacterTitleId */
+     , (1343072743, 262,         31) /* NumCharacterTitles */
+     , (1343072743, 307,          5) /* DamageRating */
+     , (1343072743, 390,          0) /* Enlightenment */
      , (1343072743, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +31,11 @@ VALUES (1343072743,   1, True ) /* Stuck */
      , (1343072743,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343072743,   1, 'Elizabetha Lazulae') /* Name */;
+VALUES (1343072743,   1, 'Elizabetha Lazulae') /* Name */
+     , (1343072743,  21, 'Aetheling Ninavie') /* MonarchsTitle */
+     , (1343072743,  35, 'Banner Karf du Blue') /* PatronsTitle */
+     , (1343072743,  43, '22 July 2005') /* DateOfBirth */
+     , (1343072743,  47, 'The Isparian Dragons') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343072743,   1,   33554510) /* Setup */
@@ -27,6 +43,12 @@ VALUES (1343072743,   1,   33554510) /* Setup */
      , (1343072743,   3,  536870914) /* SoundTable */
      , (1343072743,   6,   67108990) /* PaletteBase */
      , (1343072743,   8,  100667446) /* Icon */
+     , (1343072743,   9,   83890281) /* EyesTexture */
+     , (1343072743,  10,   83890312) /* NoseTexture */
+     , (1343072743,  11,   83890345) /* MouthTexture */
+     , (1343072743,  15,   67115912) /* HairPalette */
+     , (1343072743,  16,   67110063) /* EyesPalette */
+     , (1343072743,  17,   67115902) /* SkinPalette */
      , (1343072743,  22,  872415236) /* PhysicsEffectTable */
      , (1343072743, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343072743, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

@@ -3,11 +3,19 @@ VALUES (1344175369, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1344175369,   1,         16) /* ItemType - Creature */
+     , (1344175369,   2,         31) /* CreatureType - Human */
      , (1344175369,   6,        102) /* ItemsCapacity */
      , (1344175369,   7,          7) /* ContainersCapacity */
      , (1344175369,  16,          1) /* ItemUseable - No */
+     , (1344175369,  25,         19) /* Level */
      , (1344175369,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1344175369, 113,          1) /* Gender - Male */
      , (1344175369, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1344175369, 134,          4) /* PlayerKillerStatus - PK */
+     , (1344175369, 188,          1) /* HeritageGroup - Aluvian */
+     , (1344175369, 261,          1) /* CharacterTitleId */
+     , (1344175369, 307,          5) /* DamageRating */
+     , (1344175369, 390,          0) /* Enlightenment */
      , (1344175369, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +27,8 @@ VALUES (1344175369,   1, True ) /* Stuck */
      , (1344175369,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1344175369,   1, 'Pork the Thaumaturge') /* Name */;
+VALUES (1344175369,   1, 'Pork the Thaumaturge') /* Name */
+     , (1344175369,  10, 'Hill People') /* Fellowship */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1344175369,   1,   33554433) /* Setup */
@@ -27,6 +36,12 @@ VALUES (1344175369,   1,   33554433) /* Setup */
      , (1344175369,   3,  536870913) /* SoundTable */
      , (1344175369,   6,   67108990) /* PaletteBase */
      , (1344175369,   8,  100667446) /* Icon */
+     , (1344175369,   9,   83890511) /* EyesTexture */
+     , (1344175369,  10,   83890521) /* NoseTexture */
+     , (1344175369,  11,   83890630) /* MouthTexture */
+     , (1344175369,  15,   67116991) /* HairPalette */
+     , (1344175369,  16,   67110064) /* EyesPalette */
+     , (1344175369,  17,   67109559) /* SkinPalette */
      , (1344175369,  22,  872415236) /* PhysicsEffectTable */
      , (1344175369, 8001,    8388630) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, RadarBehavior */
      , (1344175369, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

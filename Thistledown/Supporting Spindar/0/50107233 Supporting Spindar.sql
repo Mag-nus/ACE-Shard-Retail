@@ -3,11 +3,23 @@ VALUES (1343255091, 1, 10, 6738241) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343255091,   1,         16) /* ItemType - Creature */
+     , (1343255091,   2,         31) /* CreatureType - Human */
      , (1343255091,   6,        102) /* ItemsCapacity */
      , (1343255091,   7,          7) /* ContainersCapacity */
      , (1343255091,  16,          1) /* ItemUseable - No */
+     , (1343255091,  25,        275) /* Level */
+     , (1343255091,  30,          2) /* AllegianceRank */
      , (1343255091,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343255091, 113,          2) /* Gender - Female */
      , (1343255091, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343255091, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343255091, 188,          9) /* HeritageGroup - Empyrean */
+     , (1343255091, 261,          1) /* CharacterTitleId */
+     , (1343255091, 307,          5) /* DamageRating */
+     , (1343255091, 308,         10) /* DamageResistRating */
+     , (1343255091, 316,          1) /* CritDamageResistRating */
+     , (1343255091, 323,          2) /* HealingBoostRating */
+     , (1343255091, 390,          0) /* Enlightenment */
      , (1343255091, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -22,7 +34,11 @@ INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (1343255091,  39, 1.14999997615814) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343255091,   1, 'Supporting Spindar') /* Name */;
+VALUES (1343255091,   1, 'Supporting Spindar') /* Name */
+     , (1343255091,  10, 'Ttkt') /* Fellowship */
+     , (1343255091,  21, 'Malik Tao Roo Chingon II') /* MonarchsTitle */
+     , (1343255091,  35, 'Corporal Arcteryx') /* PatronsTitle */
+     , (1343255091,  47, 'The Spirits of the Mountain') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343255091,   1,   33561104) /* Setup */
@@ -30,6 +46,12 @@ VALUES (1343255091,   1,   33561104) /* Setup */
      , (1343255091,   3,  536870914) /* SoundTable */
      , (1343255091,   6,   67108990) /* PaletteBase */
      , (1343255091,   8,  100667446) /* Icon */
+     , (1343255091,   9,   83890277) /* EyesTexture */
+     , (1343255091,  10,   83890310) /* NoseTexture */
+     , (1343255091,  11,   83890349) /* MouthTexture */
+     , (1343255091,  15,   67117025) /* HairPalette */
+     , (1343255091,  16,   67116857) /* EyesPalette */
+     , (1343255091,  17,   67109558) /* SkinPalette */
      , (1343255091,  22,  872415236) /* PhysicsEffectTable */
      , (1343255091, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343255091, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
@@ -38,8 +60,8 @@ VALUES (1343255091,   1,   33561104) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343255091, 1, 1399129007, 90, -52.018, 6.01, 1, 0, 0, -1) /* Location */
 /* @teleloc 0x536503AF [90.000000 -52.018000 6.010000] 1.000000 0.000000 0.000000 -1.000000 */
-     , (1343255091, 8040, 3332964380, 80.4637, 83.85192, 42.00575, 0.9999852, 0, 0, -0.005434721) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001C [80.463700 83.851920 42.005750] 0.999985 0.000000 0.000000 -0.005435 */;
+     , (1343255091, 8040, 3332964388, 103.0764, 89.34219, 42.00575, -0.9482409, 0, 0, -0.317552) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A90024 [103.076400 89.342190 42.005750] -0.948241 0.000000 0.000000 -0.317552 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343255091,  26, 1342499688) /* Monarch */
@@ -49,14 +71,14 @@ INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`,
 VALUES (1343255091, 67109558, 0, 24)
      , (1343255091, 67109945, 128, 8)
      , (1343255091, 67110002, 152, 8)
-     , (1343255091, 67110014, 72, 8)
      , (1343255091, 67110021, 168, 6)
-     , (1343255091, 67110344, 64, 8)
      , (1343255091, 67110345, 92, 4)
      , (1343255091, 67110351, 250, 6)
      , (1343255091, 67110377, 40, 24)
      , (1343255091, 67110541, 136, 16)
+     , (1343255091, 67110546, 72, 8)
      , (1343255091, 67110550, 116, 12)
+     , (1343255091, 67111246, 64, 8)
      , (1343255091, 67112910, 80, 12)
      , (1343255091, 67112910, 174, 66)
      , (1343255091, 67114618, 72, 24)

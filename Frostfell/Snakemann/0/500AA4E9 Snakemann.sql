@@ -3,11 +3,28 @@ VALUES (1342874857, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342874857,   1,         16) /* ItemType - Creature */
+     , (1342874857,   2,         31) /* CreatureType - Human */
      , (1342874857,   6,        102) /* ItemsCapacity */
      , (1342874857,   7,          8) /* ContainersCapacity */
      , (1342874857,  16,          1) /* ItemUseable - No */
+     , (1342874857,  25,        275) /* Level */
+     , (1342874857,  30,          4) /* AllegianceRank */
      , (1342874857,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1342874857, 113,          1) /* Gender - Male */
      , (1342874857, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342874857, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342874857, 188,          1) /* HeritageGroup - Aluvian */
+     , (1342874857, 261,        119) /* CharacterTitleId */
+     , (1342874857, 262,         60) /* NumCharacterTitles */
+     , (1342874857, 281,          1) /* Faction1Bits */
+     , (1342874857, 287,          1) /* SocietyRankCelhan */
+     , (1342874857, 307,          8) /* DamageRating */
+     , (1342874857, 308,          6) /* DamageResistRating */
+     , (1342874857, 313,          1) /* CritRating */
+     , (1342874857, 314,          3) /* CritDamageRating */
+     , (1342874857, 323,          5) /* HealingBoostRating */
+     , (1342874857, 350,         12) /* DotResistRating */
+     , (1342874857, 390,          0) /* Enlightenment */
      , (1342874857, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +36,11 @@ VALUES (1342874857,   1, True ) /* Stuck */
      , (1342874857,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342874857,   1, 'Snakemann') /* Name */;
+VALUES (1342874857,   1, 'Snakemann') /* Name */
+     , (1342874857,  10, 'Bur') /* Fellowship */
+     , (1342874857,  21, 'Duke Grog''') /* MonarchsTitle */
+     , (1342874857,  35, 'Naquib Ashkii') /* PatronsTitle */
+     , (1342874857,  47, 'Lords of Grogtown') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342874857,   1,   33554433) /* Setup */
@@ -27,6 +48,12 @@ VALUES (1342874857,   1,   33554433) /* Setup */
      , (1342874857,   3,  536870913) /* SoundTable */
      , (1342874857,   6,   67108990) /* PaletteBase */
      , (1342874857,   8,  100667446) /* Icon */
+     , (1342874857,   9,   83890485) /* EyesTexture */
+     , (1342874857,  10,   83890555) /* NoseTexture */
+     , (1342874857,  11,   83890645) /* MouthTexture */
+     , (1342874857,  15,   67109603) /* HairPalette */
+     , (1342874857,  16,   67110064) /* EyesPalette */
+     , (1342874857,  17,   67109559) /* SkinPalette */
      , (1342874857,  22,  872415236) /* PhysicsEffectTable */
      , (1342874857, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342874857, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

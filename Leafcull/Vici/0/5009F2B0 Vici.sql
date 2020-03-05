@@ -20,7 +20,7 @@ VALUES (1342829232,   1,         16) /* ItemType - Creature */
      , (1342829232, 261,         34) /* CharacterTitleId */
      , (1342829232, 262,        241) /* NumCharacterTitles */
      , (1342829232, 390,          0) /* Enlightenment */
-     , (1342829232, 8007,          0) /* PCAPRecordedAutonomousMovement */;
+     , (1342829232, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1342829232,   1, True ) /* Stuck */

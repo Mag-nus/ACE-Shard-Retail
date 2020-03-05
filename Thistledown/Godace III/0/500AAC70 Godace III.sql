@@ -3,11 +3,28 @@ VALUES (1342876784, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342876784,   1,         16) /* ItemType - Creature */
+     , (1342876784,   2,         31) /* CreatureType - Human */
      , (1342876784,   6,        102) /* ItemsCapacity */
      , (1342876784,   7,          8) /* ContainersCapacity */
      , (1342876784,  16,          1) /* ItemUseable - No */
+     , (1342876784,  25,        275) /* Level */
+     , (1342876784,  30,          6) /* AllegianceRank */
      , (1342876784,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1342876784, 113,          1) /* Gender - Male */
+     , (1342876784, 125,   41250311) /* Age */
      , (1342876784, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342876784, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342876784, 188,          2) /* HeritageGroup - Gharundim */
+     , (1342876784, 261,        110) /* CharacterTitleId */
+     , (1342876784, 281,          4) /* Faction1Bits */
+     , (1342876784, 289,          1) /* SocietyRankRadblo */
+     , (1342876784, 307,          9) /* DamageRating */
+     , (1342876784, 308,          3) /* DamageResistRating */
+     , (1342876784, 314,          1) /* CritDamageRating */
+     , (1342876784, 323,          3) /* HealingBoostRating */
+     , (1342876784, 350,         12) /* DotResistRating */
+     , (1342876784, 351,         16) /* LifeResistRating */
+     , (1342876784, 390,          0) /* Enlightenment */
      , (1342876784, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +36,12 @@ VALUES (1342876784,   1, True ) /* Stuck */
      , (1342876784,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342876784,   1, 'Godace III') /* Name */;
+VALUES (1342876784,   1, 'Godace III') /* Name */
+     , (1342876784,  10, 'Stuff') /* Fellowship */
+     , (1342876784,  21, 'Malik Tao Roo Chingon II') /* MonarchsTitle */
+     , (1342876784,  35, 'Ealdor Dalyia bint mystor') /* PatronsTitle */
+     , (1342876784,  43, '14 April 2002') /* DateOfBirth */
+     , (1342876784,  47, 'The Spirits of the Mountain') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342876784,   1,   33554433) /* Setup */
@@ -27,6 +49,12 @@ VALUES (1342876784,   1,   33554433) /* Setup */
      , (1342876784,   3,  536870913) /* SoundTable */
      , (1342876784,   6,   67108990) /* PaletteBase */
      , (1342876784,   8,  100667446) /* Icon */
+     , (1342876784,   9,   83890439) /* EyesTexture */
+     , (1342876784,  10,   83890536) /* NoseTexture */
+     , (1342876784,  11,   83890613) /* MouthTexture */
+     , (1342876784,  15,   67109625) /* HairPalette */
+     , (1342876784,  16,   67110063) /* EyesPalette */
+     , (1342876784,  17,   67109557) /* SkinPalette */
      , (1342876784,  22,  872415236) /* PhysicsEffectTable */
      , (1342876784, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342876784, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

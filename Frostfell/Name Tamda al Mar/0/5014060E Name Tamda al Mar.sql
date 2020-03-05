@@ -3,23 +3,38 @@ VALUES (1343489550, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343489550,   1,         16) /* ItemType - Creature */
+     , (1343489550,   2,         31) /* CreatureType - Human */
      , (1343489550,   6,        102) /* ItemsCapacity */
      , (1343489550,   7,          7) /* ContainersCapacity */
      , (1343489550,  16,          1) /* ItemUseable - No */
-     , (1343489550,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343489550,  25,        221) /* Level */
+     , (1343489550,  30,          2) /* AllegianceRank */
+     , (1343489550,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343489550, 113,          1) /* Gender - Male */
      , (1343489550, 133,          4) /* ShowableOnRadar - ShowAlways */
-     , (1343489550, 8007,          0) /* PCAPRecordedAutonomousMovement */;
+     , (1343489550, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343489550, 188,          2) /* HeritageGroup - Gharundim */
+     , (1343489550, 261,         13) /* CharacterTitleId */
+     , (1343489550, 307,          6) /* DamageRating */
+     , (1343489550, 308,          1) /* DamageResistRating */
+     , (1343489550, 351,          8) /* LifeResistRating */
+     , (1343489550, 390,          0) /* Enlightenment */
+     , (1343489550, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1343489550,   1, True ) /* Stuck */
-     , (1343489550,  11, True ) /* IgnoreCollisions */
+     , (1343489550,  12, True ) /* ReportCollisions */
      , (1343489550,  13, False) /* Ethereal */
      , (1343489550,  14, True ) /* GravityStatus */
      , (1343489550,  19, True ) /* Attackable */
      , (1343489550,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343489550,   1, 'Name Tamda al Mar') /* Name */;
+VALUES (1343489550,   1, 'Name Tamda al Mar') /* Name */
+     , (1343489550,  10, 'Adventurers') /* Fellowship */
+     , (1343489550,  21, 'Queen Evil-Lady') /* MonarchsTitle */
+     , (1343489550,  35, 'Lieutenant Jon Space') /* PatronsTitle */
+     , (1343489550,  47, 'Mischievous Misfits') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343489550,   1,   33554433) /* Setup */
@@ -27,6 +42,12 @@ VALUES (1343489550,   1,   33554433) /* Setup */
      , (1343489550,   3,  536870913) /* SoundTable */
      , (1343489550,   6,   67108990) /* PaletteBase */
      , (1343489550,   8,  100667446) /* Icon */
+     , (1343489550,   9,   83890456) /* EyesTexture */
+     , (1343489550,  10,   83890526) /* NoseTexture */
+     , (1343489550,  11,   83890595) /* MouthTexture */
+     , (1343489550,  15,   67117002) /* HairPalette */
+     , (1343489550,  16,   67110062) /* EyesPalette */
+     , (1343489550,  17,   67109557) /* SkinPalette */
      , (1343489550,  22,  872415236) /* PhysicsEffectTable */
      , (1343489550, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343489550, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
@@ -35,8 +56,8 @@ VALUES (1343489550,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343489550, 1, 2847014944, 73.57492, 191.8756, 94.005, 0.3526998, 0, 0, -0.9357365) /* Location */
 /* @teleloc 0xA9B20020 [73.574920 191.875600 94.005000] 0.352700 0.000000 0.000000 -0.935737 */
-     , (1343489550, 8040, 3332964361, 46.805, 4.219, 42.005, 1, 0, 0, 0) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A90009 [46.805000 4.219000 42.005000] 1.000000 0.000000 0.000000 0.000000 */;
+     , (1343489550, 8040, 2847145996, 26.70183, 95.91255, 70.03415, -0.06498524, 0, 0, -0.9978862) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B4000C [26.701830 95.912550 70.034150] -0.064985 0.000000 0.000000 -0.997886 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343489550,  26, 1342200341) /* Monarch */
@@ -49,9 +70,7 @@ VALUES (1343489550, 67109557, 0, 24)
      , (1343489550, 67110379, 40, 24)
      , (1343489550, 67110548, 92, 4)
      , (1343489550, 67110556, 72, 8)
-     , (1343489550, 67115028, 240, 10)
      , (1343489550, 67115034, 168, 6)
-     , (1343489550, 67115054, 250, 6)
      , (1343489550, 67117002, 24, 8);
 
 INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
@@ -69,11 +88,11 @@ VALUES (1343489550, 0, 83889072, 83889072, 6)
      , (1343489550, 16, 83886668, 83890456, 1)
      , (1343489550, 16, 83886837, 83890526, 2)
      , (1343489550, 16, 83886684, 83890595, 3)
-     , (1343489550, 29, 83898657, 83898663, 14)
-     , (1343489550, 30, 83898657, 83898663, 15)
-     , (1343489550, 31, 83898657, 83898663, 16)
-     , (1343489550, 32, 83898657, 83898663, 17)
-     , (1343489550, 33, 83898657, 83898663, 18);
+     , (1343489550, 29, 83898657, 83898661, 14)
+     , (1343489550, 30, 83898657, 83898661, 15)
+     , (1343489550, 31, 83898657, 83898661, 16)
+     , (1343489550, 32, 83898657, 83898661, 17)
+     , (1343489550, 33, 83898657, 83898661, 18);
 
 INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, `order`)
 VALUES (1343489550, 0, 16793218, 12)
@@ -92,7 +111,7 @@ VALUES (1343489550, 0, 16793218, 12)
      , (1343489550, 13, 16793211, 18)
      , (1343489550, 14, 16793212, 19)
      , (1343489550, 15, 16789984, 20)
-     , (1343489550, 16, 16790005, 28)
+     , (1343489550, 16, 16793225, 28)
      , (1343489550, 17, 16777708, 0)
      , (1343489550, 18, 16777708, 1)
      , (1343489550, 19, 16777708, 2)

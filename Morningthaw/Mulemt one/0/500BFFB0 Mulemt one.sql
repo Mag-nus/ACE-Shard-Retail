@@ -3,11 +3,18 @@ VALUES (1342963632, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342963632,   1,         16) /* ItemType - Creature */
+     , (1342963632,   2,         31) /* CreatureType - Human */
      , (1342963632,   6,        102) /* ItemsCapacity */
      , (1342963632,   7,          7) /* ContainersCapacity */
      , (1342963632,  16,          1) /* ItemUseable - No */
+     , (1342963632,  25,          3) /* Level */
      , (1342963632,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342963632, 113,          2) /* Gender - Female */
      , (1342963632, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342963632, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342963632, 188,          3) /* HeritageGroup - Sho */
+     , (1342963632, 261,          9) /* CharacterTitleId */
+     , (1342963632, 390,          0) /* Enlightenment */
      , (1342963632, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +26,8 @@ VALUES (1342963632,   1, True ) /* Stuck */
      , (1342963632,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342963632,   1, 'Mulemt one') /* Name */;
+VALUES (1342963632,   1, 'Mulemt one') /* Name */
+     , (1342963632,  43, '25 November 2002') /* DateOfBirth */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342963632,   1,   33554510) /* Setup */
@@ -27,6 +35,12 @@ VALUES (1342963632,   1,   33554510) /* Setup */
      , (1342963632,   3,  536870914) /* SoundTable */
      , (1342963632,   6,   67108990) /* PaletteBase */
      , (1342963632,   8,  100667446) /* Icon */
+     , (1342963632,   9,   83890235) /* EyesTexture */
+     , (1342963632,  10,   83890294) /* NoseTexture */
+     , (1342963632,  11,   83890344) /* MouthTexture */
+     , (1342963632,  15,   67109598) /* HairPalette */
+     , (1342963632,  16,   67110062) /* EyesPalette */
+     , (1342963632,  17,   67110052) /* SkinPalette */
      , (1342963632,  22,  872415236) /* PhysicsEffectTable */
      , (1342963632, 8001,    8388630) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, RadarBehavior */
      , (1342963632, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

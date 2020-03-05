@@ -7,7 +7,6 @@ VALUES (1343949875,   1,         16) /* ItemType - Creature */
      , (1343949875,   6,        102) /* ItemsCapacity */
      , (1343949875,   7,          8) /* ContainersCapacity */
      , (1343949875,  16,          1) /* ItemUseable - No */
-     , (1343949875,  25,        275) /* Level */
      , (1343949875,  30,          4) /* AllegianceRank */
      , (1343949875,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1343949875, 113,          1) /* Gender - Male */
@@ -15,16 +14,6 @@ VALUES (1343949875,   1,         16) /* ItemType - Creature */
      , (1343949875, 134,          4) /* PlayerKillerStatus - PK */
      , (1343949875, 188,          3) /* HeritageGroup - Sho */
      , (1343949875, 261,        660) /* CharacterTitleId */
-     , (1343949875, 281,          2) /* Faction1Bits */
-     , (1343949875, 288,       1001) /* SocietyRankEldweb */
-     , (1343949875, 307,         41) /* DamageRating */
-     , (1343949875, 308,         18) /* DamageResistRating */
-     , (1343949875, 313,          1) /* CritRating */
-     , (1343949875, 314,         28) /* CritDamageRating */
-     , (1343949875, 316,         11) /* CritDamageResistRating */
-     , (1343949875, 323,         12) /* HealingBoostRating */
-     , (1343949875, 381,          5) /* PKDamageRating */
-     , (1343949875, 382,          5) /* PKDamageResistRating */
      , (1343949875, 390,          0) /* Enlightenment */
      , (1343949875, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 

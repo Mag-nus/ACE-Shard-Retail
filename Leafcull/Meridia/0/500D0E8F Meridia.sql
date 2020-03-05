@@ -3,11 +3,27 @@ VALUES (1343032975, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343032975,   1,         16) /* ItemType - Creature */
+     , (1343032975,   2,         31) /* CreatureType - Human */
      , (1343032975,   6,        102) /* ItemsCapacity */
      , (1343032975,   7,          7) /* ContainersCapacity */
      , (1343032975,  16,          1) /* ItemUseable - No */
+     , (1343032975,  25,        208) /* Level */
+     , (1343032975,  30,          2) /* AllegianceRank */
+     , (1343032975,  43,         59) /* NumDeaths */
      , (1343032975,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343032975, 113,          2) /* Gender - Female */
+     , (1343032975, 125,    1163594) /* Age */
      , (1343032975, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343032975, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343032975, 188,          2) /* HeritageGroup - Gharundim */
+     , (1343032975, 261,        135) /* CharacterTitleId */
+     , (1343032975, 262,         57) /* NumCharacterTitles */
+     , (1343032975, 281,          2) /* Faction1Bits */
+     , (1343032975, 288,        295) /* SocietyRankEldweb */
+     , (1343032975, 307,          5) /* DamageRating */
+     , (1343032975, 314,          4) /* CritDamageRating */
+     , (1343032975, 351,         16) /* LifeResistRating */
+     , (1343032975, 390,          0) /* Enlightenment */
      , (1343032975, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +35,11 @@ VALUES (1343032975,   1, True ) /* Stuck */
      , (1343032975,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343032975,   1, 'Meridia') /* Name */;
+VALUES (1343032975,   1, 'Meridia') /* Name */
+     , (1343032975,  21, 'Sultana Scarey Mary') /* MonarchsTitle */
+     , (1343032975,  35, 'Baronet Mercedez') /* PatronsTitle */
+     , (1343032975,  43, '12 March 2004') /* DateOfBirth */
+     , (1343032975,  47, 'Scarey''s Warriors') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343032975,   1,   33554510) /* Setup */
@@ -27,6 +47,12 @@ VALUES (1343032975,   1,   33554510) /* Setup */
      , (1343032975,   3,  536870914) /* SoundTable */
      , (1343032975,   6,   67108990) /* PaletteBase */
      , (1343032975,   8,  100667446) /* Icon */
+     , (1343032975,   9,   83890280) /* EyesTexture */
+     , (1343032975,  10,   83890298) /* NoseTexture */
+     , (1343032975,  11,   83890356) /* MouthTexture */
+     , (1343032975,  15,   67117000) /* HairPalette */
+     , (1343032975,  16,   67109567) /* EyesPalette */
+     , (1343032975,  17,   67109557) /* SkinPalette */
      , (1343032975,  22,  872415236) /* PhysicsEffectTable */
      , (1343032975, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343032975, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

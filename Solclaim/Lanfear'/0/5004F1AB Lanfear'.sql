@@ -3,11 +3,29 @@ VALUES (1342501291, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342501291,   1,         16) /* ItemType - Creature */
+     , (1342501291,   2,         31) /* CreatureType - Human */
      , (1342501291,   6,        102) /* ItemsCapacity */
      , (1342501291,   7,          8) /* ContainersCapacity */
      , (1342501291,  16,          1) /* ItemUseable - No */
+     , (1342501291,  25,        275) /* Level */
+     , (1342501291,  30,          6) /* AllegianceRank */
+     , (1342501291,  43,       3250) /* NumDeaths */
      , (1342501291,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1342501291, 113,          2) /* Gender - Female */
+     , (1342501291, 125,   62204448) /* Age */
      , (1342501291, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342501291, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342501291, 188,          3) /* HeritageGroup - Sho */
+     , (1342501291, 261,        458) /* CharacterTitleId */
+     , (1342501291, 281,          1) /* Faction1Bits */
+     , (1342501291, 287,       1001) /* SocietyRankCelhan */
+     , (1342501291, 307,         13) /* DamageRating */
+     , (1342501291, 308,         29) /* DamageResistRating */
+     , (1342501291, 313,          1) /* CritRating */
+     , (1342501291, 314,          9) /* CritDamageRating */
+     , (1342501291, 316,          7) /* CritDamageResistRating */
+     , (1342501291, 323,          5) /* HealingBoostRating */
+     , (1342501291, 390,          2) /* Enlightenment */
      , (1342501291, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +37,12 @@ VALUES (1342501291,   1, True ) /* Stuck */
      , (1342501291,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342501291,   1, 'Lanfear''') /* Name */;
+VALUES (1342501291,   1, 'Lanfear''') /* Name */
+     , (1342501291,  10, 'Sa') /* Fellowship */
+     , (1342501291,  21, 'Mushir Deadly Warlock') /* MonarchsTitle */
+     , (1342501291,  35, 'Kun-chueh Deadly Warlock II') /* PatronsTitle */
+     , (1342501291,  43, '29 December 2000') /* DateOfBirth */
+     , (1342501291,  47, 'Keepers of Dereth') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342501291,   1,   33554510) /* Setup */
@@ -27,6 +50,12 @@ VALUES (1342501291,   1,   33554510) /* Setup */
      , (1342501291,   3,  536870914) /* SoundTable */
      , (1342501291,   6,   67108990) /* PaletteBase */
      , (1342501291,   8,  100667446) /* Icon */
+     , (1342501291,   9,   83890275) /* EyesTexture */
+     , (1342501291,  10,   83890294) /* NoseTexture */
+     , (1342501291,  11,   83890319) /* MouthTexture */
+     , (1342501291,  15,   67109633) /* HairPalette */
+     , (1342501291,  16,   67109565) /* EyesPalette */
+     , (1342501291,  17,   67110053) /* SkinPalette */
      , (1342501291,  22,  872415236) /* PhysicsEffectTable */
      , (1342501291, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342501291, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

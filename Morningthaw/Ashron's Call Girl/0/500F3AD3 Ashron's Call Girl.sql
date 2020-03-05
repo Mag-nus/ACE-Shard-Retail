@@ -3,11 +3,28 @@ VALUES (1343175379, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343175379,   1,         16) /* ItemType - Creature */
+     , (1343175379,   2,         31) /* CreatureType - Human */
      , (1343175379,   6,        102) /* ItemsCapacity */
      , (1343175379,   7,          8) /* ContainersCapacity */
      , (1343175379,  16,          1) /* ItemUseable - No */
+     , (1343175379,  25,        275) /* Level */
+     , (1343175379,  30,          1) /* AllegianceRank */
      , (1343175379,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343175379, 113,          2) /* Gender - Female */
+     , (1343175379, 125,   15166372) /* Age */
      , (1343175379, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343175379, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343175379, 188,          5) /* HeritageGroup - Shadowbound */
+     , (1343175379, 261,        878) /* CharacterTitleId */
+     , (1343175379, 281,          1) /* Faction1Bits */
+     , (1343175379, 287,        440) /* SocietyRankCelhan */
+     , (1343175379, 307,         40) /* DamageRating */
+     , (1343175379, 308,         27) /* DamageResistRating */
+     , (1343175379, 313,          1) /* CritRating */
+     , (1343175379, 314,         12) /* CritDamageRating */
+     , (1343175379, 316,         12) /* CritDamageResistRating */
+     , (1343175379, 323,          5) /* HealingBoostRating */
+     , (1343175379, 390,          0) /* Enlightenment */
      , (1343175379, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +36,10 @@ VALUES (1343175379,   1, True ) /* Stuck */
      , (1343175379,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343175379,   1, 'Ashron''s Call Girl') /* Name */;
+VALUES (1343175379,   1, 'Ashron''s Call Girl') /* Name */
+     , (1343175379,  21, 'High King He who is called I Am') /* MonarchsTitle */
+     , (1343175379,  35, 'High Queen Treasure Chest') /* PatronsTitle */
+     , (1343175379,  47, 'Untalented Circus Midgets') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343175379,   1,   33561182) /* Setup */
@@ -27,6 +47,12 @@ VALUES (1343175379,   1,   33561182) /* Setup */
      , (1343175379,   3,  536870914) /* SoundTable */
      , (1343175379,   6,   67108990) /* PaletteBase */
      , (1343175379,   8,  100667446) /* Icon */
+     , (1343175379,   9,   83890262) /* EyesTexture */
+     , (1343175379,  10,   83890315) /* NoseTexture */
+     , (1343175379,  11,   83890357) /* MouthTexture */
+     , (1343175379,  15,   67117055) /* HairPalette */
+     , (1343175379,  16,   67116858) /* EyesPalette */
+     , (1343175379,  17,   67116846) /* SkinPalette */
      , (1343175379,  22,  872415433) /* PhysicsEffectTable */
      , (1343175379, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343175379, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

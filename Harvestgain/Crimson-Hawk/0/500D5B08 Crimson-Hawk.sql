@@ -3,11 +3,21 @@ VALUES (1343052552, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343052552,   1,         16) /* ItemType - Creature */
+     , (1343052552,   2,         31) /* CreatureType - Human */
      , (1343052552,   6,        102) /* ItemsCapacity */
      , (1343052552,   7,          8) /* ContainersCapacity */
      , (1343052552,  16,          1) /* ItemUseable - No */
+     , (1343052552,  25,        275) /* Level */
+     , (1343052552,  30,          7) /* AllegianceRank */
      , (1343052552,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343052552, 113,          1) /* Gender - Male */
+     , (1343052552, 125,   74087150) /* Age */
      , (1343052552, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343052552, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343052552, 188,          2) /* HeritageGroup - Gharundim */
+     , (1343052552, 261,        458) /* CharacterTitleId */
+     , (1343052552, 262,         38) /* NumCharacterTitles */
+     , (1343052552, 390,          0) /* Enlightenment */
      , (1343052552, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +29,11 @@ VALUES (1343052552,   1, True ) /* Stuck */
      , (1343052552,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343052552,   1, 'Crimson-Hawk') /* Name */;
+VALUES (1343052552,   1, 'Crimson-Hawk') /* Name */
+     , (1343052552,  21, 'Aetheling Forgetmenot') /* MonarchsTitle */
+     , (1343052552,  35, 'Kou Gailahad') /* PatronsTitle */
+     , (1343052552,  43, '04 October 2004') /* DateOfBirth */
+     , (1343052552,  47, 'THE UNFORGOTTEN') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343052552,   1,   33554433) /* Setup */
@@ -27,6 +41,12 @@ VALUES (1343052552,   1,   33554433) /* Setup */
      , (1343052552,   3,  536870913) /* SoundTable */
      , (1343052552,   6,   67108990) /* PaletteBase */
      , (1343052552,   8,  100667446) /* Icon */
+     , (1343052552,   9,   83890516) /* EyesTexture */
+     , (1343052552,  10,   83890562) /* NoseTexture */
+     , (1343052552,  11,   83890636) /* MouthTexture */
+     , (1343052552,  15,   67109629) /* HairPalette */
+     , (1343052552,  16,   67109567) /* EyesPalette */
+     , (1343052552,  17,   67109550) /* SkinPalette */
      , (1343052552,  22,  872415236) /* PhysicsEffectTable */
      , (1343052552, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343052552, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

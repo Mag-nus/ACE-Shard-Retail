@@ -15,6 +15,11 @@ VALUES (1343351399,   1,         16) /* ItemType - Creature */
      , (1343351399, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343351399, 188,          9) /* HeritageGroup - Empyrean */
      , (1343351399, 261,        761) /* CharacterTitleId */
+     , (1343351399, 281,          1) /* Faction1Bits */
+     , (1343351399, 287,       1001) /* SocietyRankCelhan */
+     , (1343351399, 307,          7) /* DamageRating */
+     , (1343351399, 308,         21) /* DamageResistRating */
+     , (1343351399, 316,          2) /* CritDamageResistRating */
      , (1343351399, 390,          0) /* Enlightenment */
      , (1343351399, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 

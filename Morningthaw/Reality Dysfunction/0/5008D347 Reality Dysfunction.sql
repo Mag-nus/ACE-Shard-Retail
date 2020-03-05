@@ -9,10 +9,10 @@ VALUES (1342755655,   1,         16) /* ItemType - Creature */
      , (1342755655,  16,          1) /* ItemUseable - No */
      , (1342755655,  25,        275) /* Level */
      , (1342755655,  30,          3) /* AllegianceRank */
-     , (1342755655,  43,        696) /* NumDeaths */
+     , (1342755655,  43,        699) /* NumDeaths */
      , (1342755655,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1342755655, 113,          1) /* Gender - Male */
-     , (1342755655, 125,   12181930) /* Age */
+     , (1342755655, 125,   12199548) /* Age */
      , (1342755655, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342755655, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342755655, 181,       1533) /* ChessRank */
@@ -33,7 +33,6 @@ VALUES (1342755655,   1, True ) /* Stuck */
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1342755655,   1, 'Reality Dysfunction') /* Name */
-     , (1342755655,  10, 'Gman') /* Fellowship */
      , (1342755655,  21, 'High King He who is called I Am') /* MonarchsTitle */
      , (1342755655,  35, 'Ealdor Immortalbob') /* PatronsTitle */
      , (1342755655,  43, '01 September 2001') /* DateOfBirth */

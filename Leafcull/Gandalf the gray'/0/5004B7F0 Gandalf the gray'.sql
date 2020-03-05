@@ -3,11 +3,28 @@ VALUES (1342486512, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342486512,   1,         16) /* ItemType - Creature */
+     , (1342486512,   2,         31) /* CreatureType - Human */
      , (1342486512,   6,        102) /* ItemsCapacity */
      , (1342486512,   7,          8) /* ContainersCapacity */
      , (1342486512,  16,          1) /* ItemUseable - No */
+     , (1342486512,  25,        275) /* Level */
+     , (1342486512,  30,          5) /* AllegianceRank */
      , (1342486512,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342486512, 113,          1) /* Gender - Male */
+     , (1342486512, 125,   61203999) /* Age */
      , (1342486512, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342486512, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342486512, 188,          2) /* HeritageGroup - Gharundim */
+     , (1342486512, 261,        766) /* CharacterTitleId */
+     , (1342486512, 281,          2) /* Faction1Bits */
+     , (1342486512, 288,       1001) /* SocietyRankEldweb */
+     , (1342486512, 307,          7) /* DamageRating */
+     , (1342486512, 308,         17) /* DamageResistRating */
+     , (1342486512, 313,          1) /* CritRating */
+     , (1342486512, 314,         11) /* CritDamageRating */
+     , (1342486512, 316,          7) /* CritDamageResistRating */
+     , (1342486512, 323,          4) /* HealingBoostRating */
+     , (1342486512, 390,          0) /* Enlightenment */
      , (1342486512, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +36,10 @@ VALUES (1342486512,   1, True ) /* Stuck */
      , (1342486512,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342486512,   1, 'Gandalf the gray''') /* Name */;
+VALUES (1342486512,   1, 'Gandalf the gray''') /* Name */
+     , (1342486512,  21, 'Duke Damon II') /* MonarchsTitle */
+     , (1342486512,  35, 'Countess Twilight Huntress') /* PatronsTitle */
+     , (1342486512,  47, 'Damon''s Devils') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342486512,   1,   33554433) /* Setup */
@@ -27,6 +47,12 @@ VALUES (1342486512,   1,   33554433) /* Setup */
      , (1342486512,   3,  536870913) /* SoundTable */
      , (1342486512,   6,   67108990) /* PaletteBase */
      , (1342486512,   8,  100667446) /* Icon */
+     , (1342486512,   9,   83890510) /* EyesTexture */
+     , (1342486512,  10,   83890547) /* NoseTexture */
+     , (1342486512,  11,   83890608) /* MouthTexture */
+     , (1342486512,  15,   67116990) /* HairPalette */
+     , (1342486512,  16,   67110063) /* EyesPalette */
+     , (1342486512,  17,   67109557) /* SkinPalette */
      , (1342486512,  22,  872415236) /* PhysicsEffectTable */
      , (1342486512, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342486512, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

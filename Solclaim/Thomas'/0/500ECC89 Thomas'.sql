@@ -12,18 +12,11 @@ VALUES (1343147145,   1,         16) /* ItemType - Creature */
      , (1343147145,  43,        473) /* NumDeaths */
      , (1343147145,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
      , (1343147145, 113,          1) /* Gender - Male */
-     , (1343147145, 125,    3430260) /* Age */
+     , (1343147145, 125,    3430269) /* Age */
      , (1343147145, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343147145, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343147145, 188,          4) /* HeritageGroup - Viamontian */
      , (1343147145, 261,        407) /* CharacterTitleId */
-     , (1343147145, 307,          8) /* DamageRating */
-     , (1343147145, 308,          3) /* DamageResistRating */
-     , (1343147145, 313,          1) /* CritRating */
-     , (1343147145, 314,         10) /* CritDamageRating */
-     , (1343147145, 316,          5) /* CritDamageResistRating */
-     , (1343147145, 323,          2) /* HealingBoostRating */
-     , (1343147145, 351,         12) /* LifeResistRating */
      , (1343147145, 390,          0) /* Enlightenment */
      , (1343147145, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 

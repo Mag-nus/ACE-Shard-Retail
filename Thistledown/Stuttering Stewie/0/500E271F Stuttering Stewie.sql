@@ -7,7 +7,7 @@ VALUES (1343104799,   1,         16) /* ItemType - Creature */
      , (1343104799,   6,        102) /* ItemsCapacity */
      , (1343104799,   7,          7) /* ContainersCapacity */
      , (1343104799,  16,          1) /* ItemUseable - No */
-     , (1343104799,  25,        265) /* Level */
+     , (1343104799,  25,        267) /* Level */
      , (1343104799,  30,          2) /* AllegianceRank */
      , (1343104799,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
      , (1343104799, 113,          1) /* Gender - Male */
@@ -22,7 +22,7 @@ VALUES (1343104799,   1,         16) /* ItemType - Creature */
      , (1343104799, 314,          3) /* CritDamageRating */
      , (1343104799, 316,          4) /* CritDamageResistRating */
      , (1343104799, 323,          2) /* HealingBoostRating */
-     , (1343104799, 351,         32) /* LifeResistRating */
+     , (1343104799, 351,         36) /* LifeResistRating */
      , (1343104799, 390,          0) /* Enlightenment */
      , (1343104799, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
@@ -36,7 +36,6 @@ VALUES (1343104799,   1, True ) /* Stuck */
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343104799,   1, 'Stuttering Stewie') /* Name */
-     , (1343104799,  10, 'Lgfgl') /* Fellowship */
      , (1343104799,  21, 'Malik Tao Roo Chingon II') /* MonarchsTitle */
      , (1343104799,  35, 'Lieutenant Syrenn') /* PatronsTitle */
      , (1343104799,  47, 'The Spirits of the Mountain') /* AllegianceName */;

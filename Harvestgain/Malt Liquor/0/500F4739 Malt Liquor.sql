@@ -3,11 +3,19 @@ VALUES (1343178553, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343178553,   1,         16) /* ItemType - Creature */
+     , (1343178553,   2,         31) /* CreatureType - Human */
      , (1343178553,   6,        102) /* ItemsCapacity */
      , (1343178553,   7,          8) /* ContainersCapacity */
      , (1343178553,  16,          1) /* ItemUseable - No */
+     , (1343178553,  25,        275) /* Level */
+     , (1343178553,  30,          8) /* AllegianceRank */
      , (1343178553,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343178553, 113,          1) /* Gender - Male */
      , (1343178553, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343178553, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343178553, 188,         10) /* HeritageGroup - Penumbraen */
+     , (1343178553, 261,        646) /* CharacterTitleId */
+     , (1343178553, 390,          0) /* Enlightenment */
      , (1343178553, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +27,10 @@ VALUES (1343178553,   1, True ) /* Stuck */
      , (1343178553,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343178553,   1, 'Malt Liquor') /* Name */;
+VALUES (1343178553,   1, 'Malt Liquor') /* Name */
+     , (1343178553,  21, 'Aetheling Forgetmenot') /* MonarchsTitle */
+     , (1343178553,  35, 'Aetheling Forgetmenot') /* PatronsTitle */
+     , (1343178553,  47, 'THE UNFORGOTTEN') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343178553,   1,   33561181) /* Setup */
@@ -27,6 +38,12 @@ VALUES (1343178553,   1,   33561181) /* Setup */
      , (1343178553,   3,  536870913) /* SoundTable */
      , (1343178553,   6,   67108990) /* PaletteBase */
      , (1343178553,   8,  100667446) /* Icon */
+     , (1343178553,   9,   83890505) /* EyesTexture */
+     , (1343178553,  10,   83890549) /* NoseTexture */
+     , (1343178553,  11,   83890613) /* MouthTexture */
+     , (1343178553,  15,   67117028) /* HairPalette */
+     , (1343178553,  16,   67116855) /* EyesPalette */
+     , (1343178553,  17,   67116846) /* SkinPalette */
      , (1343178553,  22,  872415433) /* PhysicsEffectTable */
      , (1343178553, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343178553, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
@@ -35,8 +52,8 @@ VALUES (1343178553,   1,   33561181) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343178553, 1, 3062301010, 63.57705, 129.0438, 56.005, 0.4930712, 0, 0, -0.8699889) /* Location */
 /* @teleloc 0xB6870152 [63.577050 129.043800 56.005000] 0.493071 0.000000 0.000000 -0.869989 */
-     , (1343178553, 8040, 3062235144, 23.29788, 185.997, 40.94599, -0.935181, 0, 0, -0.3541702) /* PCAPRecordedLocation */
-/* @teleloc 0xB6860008 [23.297880 185.997000 40.945990] -0.935181 0.000000 0.000000 -0.354170 */;
+     , (1343178553, 8040, 3062300683, 44.32097, 48.02718, 63.09657, -0.9797753, 0, 0, 0.2001008) /* PCAPRecordedLocation */
+/* @teleloc 0xB687000B [44.320970 48.027180 63.096570] -0.979775 0.000000 0.000000 0.200101 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343178553,  26, 1342386738) /* Monarch */

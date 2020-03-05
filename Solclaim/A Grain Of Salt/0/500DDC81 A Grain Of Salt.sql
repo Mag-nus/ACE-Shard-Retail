@@ -3,11 +3,27 @@ VALUES (1343085697, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343085697,   1,         16) /* ItemType - Creature */
+     , (1343085697,   2,         31) /* CreatureType - Human */
      , (1343085697,   6,        102) /* ItemsCapacity */
      , (1343085697,   7,          8) /* ContainersCapacity */
      , (1343085697,  16,          1) /* ItemUseable - No */
+     , (1343085697,  25,        275) /* Level */
+     , (1343085697,  30,          3) /* AllegianceRank */
      , (1343085697,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343085697, 113,          1) /* Gender - Male */
      , (1343085697, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343085697, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343085697, 188,          3) /* HeritageGroup - Sho */
+     , (1343085697, 261,        878) /* CharacterTitleId */
+     , (1343085697, 281,          4) /* Faction1Bits */
+     , (1343085697, 289,        595) /* SocietyRankRadblo */
+     , (1343085697, 307,         28) /* DamageRating */
+     , (1343085697, 308,         12) /* DamageResistRating */
+     , (1343085697, 313,          1) /* CritRating */
+     , (1343085697, 314,         16) /* CritDamageRating */
+     , (1343085697, 316,          6) /* CritDamageResistRating */
+     , (1343085697, 323,          5) /* HealingBoostRating */
+     , (1343085697, 390,          0) /* Enlightenment */
      , (1343085697, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +35,9 @@ VALUES (1343085697,   1, True ) /* Stuck */
      , (1343085697,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343085697,   1, 'A Grain Of Salt') /* Name */;
+VALUES (1343085697,   1, 'A Grain Of Salt') /* Name */
+     , (1343085697,  21, 'Duke Nobles Of'' Ancestry') /* MonarchsTitle */
+     , (1343085697,  35, 'Baron Mmj Wizard') /* PatronsTitle */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343085697,   1,   33554433) /* Setup */
@@ -27,6 +45,12 @@ VALUES (1343085697,   1,   33554433) /* Setup */
      , (1343085697,   3,  536870913) /* SoundTable */
      , (1343085697,   6,   67108990) /* PaletteBase */
      , (1343085697,   8,  100667446) /* Icon */
+     , (1343085697,   9,   83890510) /* EyesTexture */
+     , (1343085697,  10,   83890529) /* NoseTexture */
+     , (1343085697,  11,   83890587) /* MouthTexture */
+     , (1343085697,  15,   67109630) /* HairPalette */
+     , (1343085697,  16,   67110063) /* EyesPalette */
+     , (1343085697,  17,   67110054) /* SkinPalette */
      , (1343085697,  22,  872415236) /* PhysicsEffectTable */
      , (1343085697, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343085697, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

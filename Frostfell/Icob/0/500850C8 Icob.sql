@@ -3,11 +3,28 @@ VALUES (1342722248, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342722248,   1,         16) /* ItemType - Creature */
+     , (1342722248,   2,         31) /* CreatureType - Human */
      , (1342722248,   6,        102) /* ItemsCapacity */
      , (1342722248,   7,          8) /* ContainersCapacity */
      , (1342722248,  16,          1) /* ItemUseable - No */
+     , (1342722248,  25,        275) /* Level */
+     , (1342722248,  30,          7) /* AllegianceRank */
      , (1342722248,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342722248, 113,          2) /* Gender - Female */
+     , (1342722248, 125,   33609999) /* Age */
      , (1342722248, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342722248, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342722248, 188,          3) /* HeritageGroup - Sho */
+     , (1342722248, 261,         82) /* CharacterTitleId */
+     , (1342722248, 281,          1) /* Faction1Bits */
+     , (1342722248, 287,       1001) /* SocietyRankCelhan */
+     , (1342722248, 307,         14) /* DamageRating */
+     , (1342722248, 308,         16) /* DamageResistRating */
+     , (1342722248, 313,          1) /* CritRating */
+     , (1342722248, 314,         12) /* CritDamageRating */
+     , (1342722248, 316,          5) /* CritDamageResistRating */
+     , (1342722248, 323,          7) /* HealingBoostRating */
+     , (1342722248, 390,          0) /* Enlightenment */
      , (1342722248, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +36,12 @@ VALUES (1342722248,   1, True ) /* Stuck */
      , (1342722248,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342722248,   1, 'Icob') /* Name */;
+VALUES (1342722248,   1, 'Icob') /* Name */
+     , (1342722248,  10, 'Aa') /* Fellowship */
+     , (1342722248,  21, 'King Aerfall') /* MonarchsTitle */
+     , (1342722248,  35, 'Archduke Q''og') /* PatronsTitle */
+     , (1342722248,  43, '20 May 2001') /* DateOfBirth */
+     , (1342722248,  47, 'Autobotz') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342722248,   1,   33554510) /* Setup */
@@ -27,6 +49,12 @@ VALUES (1342722248,   1,   33554510) /* Setup */
      , (1342722248,   3,  536870914) /* SoundTable */
      , (1342722248,   6,   67108990) /* PaletteBase */
      , (1342722248,   8,  100667446) /* Icon */
+     , (1342722248,   9,   83890239) /* EyesTexture */
+     , (1342722248,  10,   83890295) /* NoseTexture */
+     , (1342722248,  11,   83890331) /* MouthTexture */
+     , (1342722248,  15,   67109610) /* HairPalette */
+     , (1342722248,  16,   67109565) /* EyesPalette */
+     , (1342722248,  17,   67110054) /* SkinPalette */
      , (1342722248,  22,  872415236) /* PhysicsEffectTable */
      , (1342722248, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342722248, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

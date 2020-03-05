@@ -11,17 +11,11 @@ VALUES (1343246906,   1,         16) /* ItemType - Creature */
      , (1343246906,  30,          1) /* AllegianceRank */
      , (1343246906,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
      , (1343246906, 113,          1) /* Gender - Male */
-     , (1343246906, 125,    4647925) /* Age */
+     , (1343246906, 125,    4710786) /* Age */
      , (1343246906, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343246906, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343246906, 188,          2) /* HeritageGroup - Gharundim */
      , (1343246906, 261,        646) /* CharacterTitleId */
-     , (1343246906, 281,          4) /* Faction1Bits */
-     , (1343246906, 289,        595) /* SocietyRankRadblo */
-     , (1343246906, 307,         16) /* DamageRating */
-     , (1343246906, 308,         18) /* DamageResistRating */
-     , (1343246906, 314,          6) /* CritDamageRating */
-     , (1343246906, 316,          1) /* CritDamageResistRating */
      , (1343246906, 390,          0) /* Enlightenment */
      , (1343246906, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 

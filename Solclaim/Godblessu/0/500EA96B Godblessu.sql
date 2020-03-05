@@ -3,11 +3,25 @@ VALUES (1343138155, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343138155,   1,         16) /* ItemType - Creature */
+     , (1343138155,   2,         31) /* CreatureType - Human */
      , (1343138155,   6,        102) /* ItemsCapacity */
      , (1343138155,   7,          7) /* ContainersCapacity */
      , (1343138155,  16,          1) /* ItemUseable - No */
+     , (1343138155,  25,        275) /* Level */
+     , (1343138155,  30,          1) /* AllegianceRank */
+     , (1343138155,  43,         53) /* NumDeaths */
      , (1343138155,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343138155, 113,          1) /* Gender - Male */
+     , (1343138155, 125,    3175530) /* Age */
      , (1343138155, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343138155, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343138155, 188,          2) /* HeritageGroup - Gharundim */
+     , (1343138155, 261,         70) /* CharacterTitleId */
+     , (1343138155, 262,         35) /* NumCharacterTitles */
+     , (1343138155, 307,          4) /* DamageRating */
+     , (1343138155, 308,          3) /* DamageResistRating */
+     , (1343138155, 351,         32) /* LifeResistRating */
+     , (1343138155, 390,          0) /* Enlightenment */
      , (1343138155, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +33,11 @@ VALUES (1343138155,   1, True ) /* Stuck */
      , (1343138155,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343138155,   1, 'Godblessu') /* Name */;
+VALUES (1343138155,   1, 'Godblessu') /* Name */
+     , (1343138155,  21, 'High King Laris Bloodsong') /* MonarchsTitle */
+     , (1343138155,  35, 'Shayk Ginor') /* PatronsTitle */
+     , (1343138155,  43, '03 September 2012') /* DateOfBirth */
+     , (1343138155,  47, 'Saints of Solclaim') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343138155,   1,   33554433) /* Setup */
@@ -27,6 +45,12 @@ VALUES (1343138155,   1,   33554433) /* Setup */
      , (1343138155,   3,  536870913) /* SoundTable */
      , (1343138155,   6,   67108990) /* PaletteBase */
      , (1343138155,   8,  100667446) /* Icon */
+     , (1343138155,   9,   83890456) /* EyesTexture */
+     , (1343138155,  10,   83890560) /* NoseTexture */
+     , (1343138155,  11,   83890653) /* MouthTexture */
+     , (1343138155,  15,   67117028) /* HairPalette */
+     , (1343138155,  16,   67110063) /* EyesPalette */
+     , (1343138155,  17,   67109557) /* SkinPalette */
      , (1343138155,  22,  872415236) /* PhysicsEffectTable */
      , (1343138155, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343138155, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

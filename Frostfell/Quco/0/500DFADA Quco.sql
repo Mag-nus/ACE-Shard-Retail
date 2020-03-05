@@ -3,11 +3,31 @@ VALUES (1343093466, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343093466,   1,         16) /* ItemType - Creature */
+     , (1343093466,   2,         31) /* CreatureType - Human */
      , (1343093466,   6,        102) /* ItemsCapacity */
      , (1343093466,   7,          8) /* ContainersCapacity */
      , (1343093466,  16,          1) /* ItemUseable - No */
+     , (1343093466,  25,        275) /* Level */
+     , (1343093466,  30,          2) /* AllegianceRank */
+     , (1343093466,  43,       1239) /* NumDeaths */
      , (1343093466,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343093466, 113,          1) /* Gender - Male */
+     , (1343093466, 125,   32526534) /* Age */
      , (1343093466, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343093466, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343093466, 188,          3) /* HeritageGroup - Sho */
+     , (1343093466, 261,        688) /* CharacterTitleId */
+     , (1343093466, 281,          4) /* Faction1Bits */
+     , (1343093466, 289,       1001) /* SocietyRankRadblo */
+     , (1343093466, 307,         47) /* DamageRating */
+     , (1343093466, 308,         22) /* DamageResistRating */
+     , (1343093466, 313,          1) /* CritRating */
+     , (1343093466, 314,         19) /* CritDamageRating */
+     , (1343093466, 316,         13) /* CritDamageResistRating */
+     , (1343093466, 323,          9) /* HealingBoostRating */
+     , (1343093466, 381,          5) /* PKDamageRating */
+     , (1343093466, 382,          5) /* PKDamageResistRating */
+     , (1343093466, 390,          0) /* Enlightenment */
      , (1343093466, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +39,12 @@ VALUES (1343093466,   1, True ) /* Stuck */
      , (1343093466,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343093466,   1, 'Quco') /* Name */;
+VALUES (1343093466,   1, 'Quco') /* Name */
+     , (1343093466,  10, 'Team Shenti') /* Fellowship */
+     , (1343093466,  21, 'Void Lord Dark Shenti') /* MonarchsTitle */
+     , (1343093466,  35, 'Void Lord Reign-of-Fire') /* PatronsTitle */
+     , (1343093466,  43, '13 November 2003') /* DateOfBirth */
+     , (1343093466,  47, 'Team Shenti') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343093466,   1,   33554433) /* Setup */
@@ -27,6 +52,12 @@ VALUES (1343093466,   1,   33554433) /* Setup */
      , (1343093466,   3,  536870913) /* SoundTable */
      , (1343093466,   6,   67108990) /* PaletteBase */
      , (1343093466,   8,  100667446) /* Icon */
+     , (1343093466,   9,   83890457) /* EyesTexture */
+     , (1343093466,  10,   83890548) /* NoseTexture */
+     , (1343093466,  11,   83890657) /* MouthTexture */
+     , (1343093466,  15,   67117018) /* HairPalette */
+     , (1343093466,  16,   67110063) /* EyesPalette */
+     , (1343093466,  17,   67110055) /* SkinPalette */
      , (1343093466,  22,  872415236) /* PhysicsEffectTable */
      , (1343093466, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343093466, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

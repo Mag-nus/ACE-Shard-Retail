@@ -9,7 +9,7 @@ VALUES (1343223822,   1,         16) /* ItemType - Creature */
      , (1343223822,  16,          1) /* ItemUseable - No */
      , (1343223822,  25,        131) /* Level */
      , (1343223822,  30,          2) /* AllegianceRank */
-     , (1343223822,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343223822,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1343223822, 113,          1) /* Gender - Male */
      , (1343223822, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343223822, 134,          2) /* PlayerKillerStatus - NPK */
@@ -21,7 +21,7 @@ VALUES (1343223822,   1,         16) /* ItemType - Creature */
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1343223822,   1, True ) /* Stuck */
-     , (1343223822,  11, True ) /* IgnoreCollisions */
+     , (1343223822,  12, True ) /* ReportCollisions */
      , (1343223822,  13, False) /* Ethereal */
      , (1343223822,  14, True ) /* GravityStatus */
      , (1343223822,  19, True ) /* Attackable */
@@ -56,8 +56,8 @@ VALUES (1343223822,   1,   33561110) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343223822, 1, 3332964380, 76.90682, 85.47577, 42.006, -0.9769624, 0, 0, -0.2134115) /* Location */
 /* @teleloc 0xC6A9001C [76.906820 85.475770 42.006000] -0.976962 0.000000 0.000000 -0.213412 */
-     , (1343223822, 8040, 3332964380, 78.50378, 91.14909, 42.006, 0.9891269, 0, 0, -0.1470643) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001C [78.503780 91.149090 42.006000] 0.989127 0.000000 0.000000 -0.147064 */;
+     , (1343223822, 8040, 3332964380, 78.50378, 91.14909, 42.006, 0.9902011, 0, 0, -0.1396485) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A9001C [78.503780 91.149090 42.006000] 0.990201 0.000000 0.000000 -0.139649 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343223822,  26, 1343009402) /* Monarch */

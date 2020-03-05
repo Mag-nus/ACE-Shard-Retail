@@ -8,7 +8,7 @@ VALUES (1343439526,   1,         16) /* ItemType - Creature */
      , (1343439526,  16,          1) /* ItemUseable - No */
      , (1343439526,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1343439526, 133,          4) /* ShowableOnRadar - ShowAlways */
-     , (1343439526, 8007,          0) /* PCAPRecordedAutonomousMovement */;
+     , (1343439526, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1343439526,   1, True ) /* Stuck */
@@ -30,13 +30,13 @@ VALUES (1343439526,   1,   33554510) /* Setup */
      , (1343439526,  22,  872415236) /* PhysicsEffectTable */
      , (1343439526, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343439526, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
-     , (1343439526, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
+     , (1343439526, 8005,     104451) /* PCAPRecordedPhysicsDesc - CSetup, MTable, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343439526, 1, 3583574079, 191.0923, 152.8643, 374.005, -0.8171242, 0, 0, -0.5764616) /* Location */
 /* @teleloc 0xD599003F [191.092300 152.864300 374.005000] -0.817124 0.000000 0.000000 -0.576462 */
-     , (1343439526, 8040, 3599958022, 20.67941, 132.0644, -0.095, -0.9804387, 0, 0, -0.1968246) /* PCAPRecordedLocation */
-/* @teleloc 0xD6930006 [20.679410 132.064400 -0.095000] -0.980439 0.000000 0.000000 -0.196825 */;
+     , (1343439526, 8040, 3583574079, 179.0044, 162.8982, 374.005, 0.755767, 0, 0, -0.6548405) /* PCAPRecordedLocation */
+/* @teleloc 0xD599003F [179.004400 162.898200 374.005000] 0.755767 0.000000 0.000000 -0.654841 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343439526,  26, 1342489577) /* Monarch */

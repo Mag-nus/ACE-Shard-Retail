@@ -3,12 +3,25 @@ VALUES (1343164678, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343164678,   1,         16) /* ItemType - Creature */
+     , (1343164678,   2,         31) /* CreatureType - Human */
      , (1343164678,   6,        102) /* ItemsCapacity */
      , (1343164678,   7,          8) /* ContainersCapacity */
      , (1343164678,  16,          1) /* ItemUseable - No */
+     , (1343164678,  25,        275) /* Level */
+     , (1343164678,  30,          5) /* AllegianceRank */
+     , (1343164678,  43,        177) /* NumDeaths */
      , (1343164678,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343164678, 113,          1) /* Gender - Male */
      , (1343164678, 133,          4) /* ShowableOnRadar - ShowAlways */
-     , (1343164678, 8007,          1) /* PCAPRecordedAutonomousMovement */;
+     , (1343164678, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343164678, 188,          4) /* HeritageGroup - Viamontian */
+     , (1343164678, 261,         94) /* CharacterTitleId */
+     , (1343164678, 262,         39) /* NumCharacterTitles */
+     , (1343164678, 281,          1) /* Faction1Bits */
+     , (1343164678, 287,          1) /* SocietyRankCelhan */
+     , (1343164678, 307,          5) /* DamageRating */
+     , (1343164678, 390,          0) /* Enlightenment */
+     , (1343164678, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1343164678,   1, True ) /* Stuck */
@@ -19,7 +32,10 @@ VALUES (1343164678,   1, True ) /* Stuck */
      , (1343164678,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343164678,   1, 'Anton di Ricci') /* Name */;
+VALUES (1343164678,   1, 'Anton di Ricci') /* Name */
+     , (1343164678,  21, 'Queen Evil-Lady') /* MonarchsTitle */
+     , (1343164678,  35, 'Void Knight Asheevi') /* PatronsTitle */
+     , (1343164678,  47, 'Mischievous Misfits') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343164678,   1,   33554433) /* Setup */
@@ -27,6 +43,12 @@ VALUES (1343164678,   1,   33554433) /* Setup */
      , (1343164678,   3,  536870913) /* SoundTable */
      , (1343164678,   6,   67108990) /* PaletteBase */
      , (1343164678,   8,  100667446) /* Icon */
+     , (1343164678,   9,   83890480) /* EyesTexture */
+     , (1343164678,  10,   83890558) /* NoseTexture */
+     , (1343164678,  11,   83890664) /* MouthTexture */
+     , (1343164678,  15,   67109625) /* HairPalette */
+     , (1343164678,  16,   67110065) /* EyesPalette */
+     , (1343164678,  17,   67115908) /* SkinPalette */
      , (1343164678,  22,  872415236) /* PhysicsEffectTable */
      , (1343164678, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343164678, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

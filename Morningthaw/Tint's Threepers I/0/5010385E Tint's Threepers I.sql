@@ -3,11 +3,27 @@ VALUES (1343240286, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343240286,   1,         16) /* ItemType - Creature */
+     , (1343240286,   2,         31) /* CreatureType - Human */
      , (1343240286,   6,        102) /* ItemsCapacity */
      , (1343240286,   7,          8) /* ContainersCapacity */
      , (1343240286,  16,          1) /* ItemUseable - No */
+     , (1343240286,  25,        275) /* Level */
+     , (1343240286,  30,          2) /* AllegianceRank */
      , (1343240286,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343240286, 113,          1) /* Gender - Male */
      , (1343240286, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343240286, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343240286, 188,          1) /* HeritageGroup - Aluvian */
+     , (1343240286, 261,        456) /* CharacterTitleId */
+     , (1343240286, 281,          4) /* Faction1Bits */
+     , (1343240286, 289,       1001) /* SocietyRankRadblo */
+     , (1343240286, 307,         27) /* DamageRating */
+     , (1343240286, 308,         11) /* DamageResistRating */
+     , (1343240286, 313,          1) /* CritRating */
+     , (1343240286, 314,         12) /* CritDamageRating */
+     , (1343240286, 316,          6) /* CritDamageResistRating */
+     , (1343240286, 323,          7) /* HealingBoostRating */
+     , (1343240286, 390,          0) /* Enlightenment */
      , (1343240286, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +35,10 @@ VALUES (1343240286,   1, True ) /* Stuck */
      , (1343240286,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343240286,   1, 'Tint''s Threepers I') /* Name */;
+VALUES (1343240286,   1, 'Tint''s Threepers I') /* Name */
+     , (1343240286,  21, 'Qadi Ba-Bu') /* MonarchsTitle */
+     , (1343240286,  35, 'Corporal Tints Unavoidable Wrath') /* PatronsTitle */
+     , (1343240286,  47, 'Blue Blaze Irregulars') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343240286,   1,   33554433) /* Setup */
@@ -27,6 +46,12 @@ VALUES (1343240286,   1,   33554433) /* Setup */
      , (1343240286,   3,  536870913) /* SoundTable */
      , (1343240286,   6,   67108990) /* PaletteBase */
      , (1343240286,   8,  100667446) /* Icon */
+     , (1343240286,   9,   83890431) /* EyesTexture */
+     , (1343240286,  10,   83890520) /* NoseTexture */
+     , (1343240286,  11,   83890665) /* MouthTexture */
+     , (1343240286,  15,   67116984) /* HairPalette */
+     , (1343240286,  16,   67110064) /* EyesPalette */
+     , (1343240286,  17,   67109559) /* SkinPalette */
      , (1343240286,  22,  872415236) /* PhysicsEffectTable */
      , (1343240286, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343240286, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

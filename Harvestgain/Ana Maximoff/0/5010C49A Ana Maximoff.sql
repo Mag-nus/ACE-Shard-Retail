@@ -3,11 +3,27 @@ VALUES (1343276186, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343276186,   1,         16) /* ItemType - Creature */
+     , (1343276186,   2,         31) /* CreatureType - Human */
      , (1343276186,   6,        102) /* ItemsCapacity */
      , (1343276186,   7,          8) /* ContainersCapacity */
      , (1343276186,  16,          1) /* ItemUseable - No */
+     , (1343276186,  25,        275) /* Level */
+     , (1343276186,  30,          3) /* AllegianceRank */
      , (1343276186,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343276186, 113,          2) /* Gender - Female */
      , (1343276186, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343276186, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343276186, 188,          1) /* HeritageGroup - Aluvian */
+     , (1343276186, 261,        886) /* CharacterTitleId */
+     , (1343276186, 281,          2) /* Faction1Bits */
+     , (1343276186, 288,       1001) /* SocietyRankEldweb */
+     , (1343276186, 307,         40) /* DamageRating */
+     , (1343276186, 308,         27) /* DamageResistRating */
+     , (1343276186, 313,          1) /* CritRating */
+     , (1343276186, 314,         24) /* CritDamageRating */
+     , (1343276186, 316,          7) /* CritDamageResistRating */
+     , (1343276186, 323,          7) /* HealingBoostRating */
+     , (1343276186, 390,          0) /* Enlightenment */
      , (1343276186, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +35,10 @@ VALUES (1343276186,   1, True ) /* Stuck */
      , (1343276186,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343276186,   1, 'Ana Maximoff') /* Name */;
+VALUES (1343276186,   1, 'Ana Maximoff') /* Name */
+     , (1343276186,  21, 'Kou Hogun the grim') /* MonarchsTitle */
+     , (1343276186,  35, 'Reeve Tugaker') /* PatronsTitle */
+     , (1343276186,  47, 'Immortals') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343276186,   1,   33554510) /* Setup */
@@ -27,6 +46,12 @@ VALUES (1343276186,   1,   33554510) /* Setup */
      , (1343276186,   3,  536870914) /* SoundTable */
      , (1343276186,   6,   67108990) /* PaletteBase */
      , (1343276186,   8,  100667446) /* Icon */
+     , (1343276186,   9,   83890261) /* EyesTexture */
+     , (1343276186,  10,   83890310) /* NoseTexture */
+     , (1343276186,  11,   83890344) /* MouthTexture */
+     , (1343276186,  15,   67117071) /* HairPalette */
+     , (1343276186,  16,   67109564) /* EyesPalette */
+     , (1343276186,  17,   67109561) /* SkinPalette */
      , (1343276186,  22,  872415236) /* PhysicsEffectTable */
      , (1343276186, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343276186, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

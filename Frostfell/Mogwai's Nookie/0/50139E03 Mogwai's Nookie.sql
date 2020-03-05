@@ -3,11 +3,27 @@ VALUES (1343462915, 1, 10, 6738241) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343462915,   1,         16) /* ItemType - Creature */
+     , (1343462915,   2,         31) /* CreatureType - Human */
      , (1343462915,   6,        102) /* ItemsCapacity */
      , (1343462915,   7,          8) /* ContainersCapacity */
      , (1343462915,  16,          1) /* ItemUseable - No */
+     , (1343462915,  25,        275) /* Level */
+     , (1343462915,  30,          4) /* AllegianceRank */
      , (1343462915,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343462915, 113,          2) /* Gender - Female */
      , (1343462915, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343462915, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343462915, 188,          9) /* HeritageGroup - Empyrean */
+     , (1343462915, 261,          1) /* CharacterTitleId */
+     , (1343462915, 281,          2) /* Faction1Bits */
+     , (1343462915, 288,        601) /* SocietyRankEldweb */
+     , (1343462915, 307,         11) /* DamageRating */
+     , (1343462915, 308,         12) /* DamageResistRating */
+     , (1343462915, 313,          1) /* CritRating */
+     , (1343462915, 314,          9) /* CritDamageRating */
+     , (1343462915, 316,          1) /* CritDamageResistRating */
+     , (1343462915, 323,          2) /* HealingBoostRating */
+     , (1343462915, 390,          0) /* Enlightenment */
      , (1343462915, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -22,7 +38,11 @@ INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (1343462915,  39, 1.14999997615814) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343462915,   1, 'Mogwai''s Nookie') /* Name */;
+VALUES (1343462915,   1, 'Mogwai''s Nookie') /* Name */
+     , (1343462915,  10, 'Tgbp') /* Fellowship */
+     , (1343462915,  21, 'Queen Evil-Lady') /* MonarchsTitle */
+     , (1343462915,  35, 'Shi-chueh Mogwai') /* PatronsTitle */
+     , (1343462915,  47, 'Mischievous Misfits') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343462915,   1,   33561104) /* Setup */
@@ -30,6 +50,12 @@ VALUES (1343462915,   1,   33561104) /* Setup */
      , (1343462915,   3,  536870914) /* SoundTable */
      , (1343462915,   6,   67108990) /* PaletteBase */
      , (1343462915,   8,  100667446) /* Icon */
+     , (1343462915,   9,   83890275) /* EyesTexture */
+     , (1343462915,  10,   83890308) /* NoseTexture */
+     , (1343462915,  11,   83890356) /* MouthTexture */
+     , (1343462915,  15,   67117106) /* HairPalette */
+     , (1343462915,  16,   67116856) /* EyesPalette */
+     , (1343462915,  17,   67115906) /* SkinPalette */
      , (1343462915,  22,  872415236) /* PhysicsEffectTable */
      , (1343462915, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343462915, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

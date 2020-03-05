@@ -7,7 +7,7 @@ VALUES (1343202514,   1,         16) /* ItemType - Creature */
      , (1343202514,   6,        102) /* ItemsCapacity */
      , (1343202514,   7,          7) /* ContainersCapacity */
      , (1343202514,  16,          1) /* ItemUseable - No */
-     , (1343202514,  25,         51) /* Level */
+     , (1343202514,  25,         52) /* Level */
      , (1343202514,  30,          1) /* AllegianceRank */
      , (1343202514,  35,          1) /* AllegianceFollowers */
      , (1343202514,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
@@ -30,7 +30,7 @@ VALUES (1343202514,   1, True ) /* Stuck */
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343202514,   1, 'Hallaniel') /* Name */
-     , (1343202514,  10, 'Us') /* Fellowship */;
+     , (1343202514,  10, 'Ud') /* Fellowship */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343202514,   1,   33554510) /* Setup */
@@ -52,8 +52,8 @@ VALUES (1343202514,   1,   33554510) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343202514, 1, 2929590303, 81.17732, 144.1772, 83.82889, -0.893085, 0, 0, 0.4498879) /* Location */
 /* @teleloc 0xAE9E001F [81.177320 144.177200 83.828890] -0.893085 0.000000 0.000000 0.449888 */
-     , (1343202514, 8040, 2929590303, 90.50697, 165.8064, 87.16634, 0.9983601, 0, 0, -0.05724657) /* PCAPRecordedLocation */
-/* @teleloc 0xAE9E001F [90.506970 165.806400 87.166340] 0.998360 0.000000 0.000000 -0.057247 */;
+     , (1343202514, 8040, 2929590302, 72.3443, 141.1268, 80.38789, -0.6727189, 0, 0, 0.7398981) /* PCAPRecordedLocation */
+/* @teleloc 0xAE9E001E [72.344300 141.126800 80.387890] -0.672719 0.000000 0.000000 0.739898 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343202514,  26, 1343202514) /* Monarch */

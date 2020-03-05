@@ -3,11 +3,23 @@ VALUES (1342867909, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342867909,   1,         16) /* ItemType - Creature */
+     , (1342867909,   2,         31) /* CreatureType - Human */
      , (1342867909,   6,        102) /* ItemsCapacity */
      , (1342867909,   7,          7) /* ContainersCapacity */
      , (1342867909,  16,          1) /* ItemUseable - No */
+     , (1342867909,  25,        275) /* Level */
+     , (1342867909,  30,          7) /* AllegianceRank */
      , (1342867909,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342867909, 113,          1) /* Gender - Male */
      , (1342867909, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342867909, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342867909, 188,          3) /* HeritageGroup - Sho */
+     , (1342867909, 261,        651) /* CharacterTitleId */
+     , (1342867909, 307,          5) /* DamageRating */
+     , (1342867909, 323,          4) /* HealingBoostRating */
+     , (1342867909, 350,         16) /* DotResistRating */
+     , (1342867909, 351,         12) /* LifeResistRating */
+     , (1342867909, 390,          0) /* Enlightenment */
      , (1342867909, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +31,10 @@ VALUES (1342867909,   1, True ) /* Stuck */
      , (1342867909,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342867909,   1, 'Stoner') /* Name */;
+VALUES (1342867909,   1, 'Stoner') /* Name */
+     , (1342867909,  21, 'Aetheling Forgetmenot') /* MonarchsTitle */
+     , (1342867909,  35, 'Aetheling Forgetmenot') /* PatronsTitle */
+     , (1342867909,  47, 'THE UNFORGOTTEN') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342867909,   1,   33554433) /* Setup */
@@ -27,6 +42,12 @@ VALUES (1342867909,   1,   33554433) /* Setup */
      , (1342867909,   3,  536870913) /* SoundTable */
      , (1342867909,   6,   67108990) /* PaletteBase */
      , (1342867909,   8,  100667446) /* Icon */
+     , (1342867909,   9,   83890457) /* EyesTexture */
+     , (1342867909,  10,   83890520) /* NoseTexture */
+     , (1342867909,  11,   83890588) /* MouthTexture */
+     , (1342867909,  15,   67109618) /* HairPalette */
+     , (1342867909,  16,   67110062) /* EyesPalette */
+     , (1342867909,  17,   67110045) /* SkinPalette */
      , (1342867909,  22,  872415236) /* PhysicsEffectTable */
      , (1342867909, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342867909, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

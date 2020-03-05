@@ -3,11 +3,26 @@ VALUES (1342696534, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342696534,   1,         16) /* ItemType - Creature */
+     , (1342696534,   2,         31) /* CreatureType - Human */
      , (1342696534,   6,        102) /* ItemsCapacity */
      , (1342696534,   7,          7) /* ContainersCapacity */
      , (1342696534,  16,          1) /* ItemUseable - No */
+     , (1342696534,  25,        200) /* Level */
+     , (1342696534,  30,          2) /* AllegianceRank */
+     , (1342696534,  43,        413) /* NumDeaths */
      , (1342696534,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342696534, 113,          1) /* Gender - Male */
+     , (1342696534, 125,    7817352) /* Age */
      , (1342696534, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342696534, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342696534, 188,          1) /* HeritageGroup - Aluvian */
+     , (1342696534, 261,        130) /* CharacterTitleId */
+     , (1342696534, 262,         61) /* NumCharacterTitles */
+     , (1342696534, 307,          5) /* DamageRating */
+     , (1342696534, 323,          1) /* HealingBoostRating */
+     , (1342696534, 350,          4) /* DotResistRating */
+     , (1342696534, 351,          8) /* LifeResistRating */
+     , (1342696534, 390,          0) /* Enlightenment */
      , (1342696534, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +34,11 @@ VALUES (1342696534,   1, True ) /* Stuck */
      , (1342696534,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342696534,   1, 'Brodin Brigor') /* Name */;
+VALUES (1342696534,   1, 'Brodin Brigor') /* Name */
+     , (1342696534,  21, 'Taikou Ling Mei') /* MonarchsTitle */
+     , (1342696534,  35, 'Duchess Mythea') /* PatronsTitle */
+     , (1342696534,  43, '12 April 2001') /* DateOfBirth */
+     , (1342696534,  47, 'Soul Survivors') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342696534,   1,   33554433) /* Setup */
@@ -27,6 +46,12 @@ VALUES (1342696534,   1,   33554433) /* Setup */
      , (1342696534,   3,  536870913) /* SoundTable */
      , (1342696534,   6,   67108990) /* PaletteBase */
      , (1342696534,   8,  100667446) /* Icon */
+     , (1342696534,   9,   83890509) /* EyesTexture */
+     , (1342696534,  10,   83890522) /* NoseTexture */
+     , (1342696534,  11,   83890646) /* MouthTexture */
+     , (1342696534,  15,   67109600) /* HairPalette */
+     , (1342696534,  16,   67109565) /* EyesPalette */
+     , (1342696534,  17,   67109559) /* SkinPalette */
      , (1342696534,  22,  872415236) /* PhysicsEffectTable */
      , (1342696534, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342696534, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

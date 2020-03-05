@@ -6,13 +6,13 @@ VALUES (1343255914,   1,         16) /* ItemType - Creature */
      , (1343255914,   6,        102) /* ItemsCapacity */
      , (1343255914,   7,          7) /* ContainersCapacity */
      , (1343255914,  16,          1) /* ItemUseable - No */
-     , (1343255914,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343255914,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1343255914, 133,          4) /* ShowableOnRadar - ShowAlways */
-     , (1343255914, 8007,          0) /* PCAPRecordedAutonomousMovement */;
+     , (1343255914, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1343255914,   1, True ) /* Stuck */
-     , (1343255914,  11, True ) /* IgnoreCollisions */
+     , (1343255914,  12, True ) /* ReportCollisions */
      , (1343255914,  13, False) /* Ethereal */
      , (1343255914,  14, True ) /* GravityStatus */
      , (1343255914,  19, True ) /* Attackable */
@@ -35,8 +35,8 @@ VALUES (1343255914,   1,   33560944) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343255914, 1, 3332964380, 79.1433, 90.70631, 42.005, 0.07671271, 0, 0, -0.9970533) /* Location */
 /* @teleloc 0xC6A9001C [79.143300 90.706310 42.005000] 0.076713 0.000000 0.000000 -0.997053 */
-     , (1343255914, 8040, 3332964394, 133.3, 32.3, 42.005, 0.9890159, 0, 0, -0.1478094) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9002A [133.300000 32.300000 42.005000] 0.989016 0.000000 0.000000 -0.147809 */;
+     , (1343255914, 8040, 3332898832, 47.43671, 168.1427, 42.005, 0.9995041, 0, 0, 0.03148822) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A80010 [47.436710 168.142700 42.005000] 0.999504 0.000000 0.000000 0.031488 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343255914, 8000, 1343255914) /* PCAPRecordedObjectIID */;

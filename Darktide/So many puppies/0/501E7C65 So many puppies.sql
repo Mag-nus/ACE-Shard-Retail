@@ -7,7 +7,6 @@ VALUES (1344175205,   1,         16) /* ItemType - Creature */
      , (1344175205,   6,        102) /* ItemsCapacity */
      , (1344175205,   7,          7) /* ContainersCapacity */
      , (1344175205,  16,          1) /* ItemUseable - No */
-     , (1344175205,  25,          5) /* Level */
      , (1344175205,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
      , (1344175205, 113,          2) /* Gender - Female */
      , (1344175205, 133,          4) /* ShowableOnRadar - ShowAlways */

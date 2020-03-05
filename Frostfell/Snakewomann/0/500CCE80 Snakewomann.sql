@@ -3,23 +3,36 @@ VALUES (1343016576, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343016576,   1,         16) /* ItemType - Creature */
+     , (1343016576,   2,         31) /* CreatureType - Human */
      , (1343016576,   6,        102) /* ItemsCapacity */
      , (1343016576,   7,          8) /* ContainersCapacity */
      , (1343016576,  16,          1) /* ItemUseable - No */
-     , (1343016576,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343016576,  25,        275) /* Level */
+     , (1343016576,  30,          4) /* AllegianceRank */
+     , (1343016576,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343016576, 113,          2) /* Gender - Female */
      , (1343016576, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343016576, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343016576, 188,          2) /* HeritageGroup - Gharundim */
+     , (1343016576, 261,        119) /* CharacterTitleId */
+     , (1343016576, 262,         47) /* NumCharacterTitles */
+     , (1343016576, 390,          0) /* Enlightenment */
      , (1343016576, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1343016576,   1, True ) /* Stuck */
-     , (1343016576,  11, True ) /* IgnoreCollisions */
+     , (1343016576,  12, True ) /* ReportCollisions */
      , (1343016576,  13, False) /* Ethereal */
      , (1343016576,  14, True ) /* GravityStatus */
      , (1343016576,  19, True ) /* Attackable */
      , (1343016576,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343016576,   1, 'Snakewomann') /* Name */;
+VALUES (1343016576,   1, 'Snakewomann') /* Name */
+     , (1343016576,  10, 'End of the World') /* Fellowship */
+     , (1343016576,  21, 'Duke Grog''') /* MonarchsTitle */
+     , (1343016576,  35, 'Mu''allima Snakes Toy') /* PatronsTitle */
+     , (1343016576,  47, 'Lords of Grogtown') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343016576,   1,   33554510) /* Setup */
@@ -27,6 +40,12 @@ VALUES (1343016576,   1,   33554510) /* Setup */
      , (1343016576,   3,  536870914) /* SoundTable */
      , (1343016576,   6,   67108990) /* PaletteBase */
      , (1343016576,   8,  100667446) /* Icon */
+     , (1343016576,   9,   83890263) /* EyesTexture */
+     , (1343016576,  10,   83890302) /* NoseTexture */
+     , (1343016576,  11,   83890341) /* MouthTexture */
+     , (1343016576,  15,   67109629) /* HairPalette */
+     , (1343016576,  16,   67110063) /* EyesPalette */
+     , (1343016576,  17,   67109556) /* SkinPalette */
      , (1343016576,  22,  872415236) /* PhysicsEffectTable */
      , (1343016576, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343016576, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
@@ -35,8 +54,8 @@ VALUES (1343016576,   1,   33554510) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343016576, 1, 288620868, 129.0588, 128.6718, 42.005, -0.6586442, 0, 0, 0.7524545) /* Location */
 /* @teleloc 0x11340144 [129.058800 128.671800 42.005000] -0.658644 0.000000 0.000000 0.752455 */
-     , (1343016576, 8040, 459077, 70, -80, 0.004999995, 1, 0, 0, 0) /* PCAPRecordedLocation */
-/* @teleloc 0x00070145 [70.000000 -80.000000 0.005000] 1.000000 0.000000 0.000000 0.000000 */;
+     , (1343016576, 8040, 3680698395, 83.12626, 54.63173, 32.005, -0.8888153, 0, 0, 0.4582655) /* PCAPRecordedLocation */
+/* @teleloc 0xDB63001B [83.126260 54.631730 32.005000] -0.888815 0.000000 0.000000 0.458266 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343016576,  26, 1342926850) /* Monarch */

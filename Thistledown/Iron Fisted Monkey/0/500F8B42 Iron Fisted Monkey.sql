@@ -3,12 +3,26 @@ VALUES (1343195970, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343195970,   1,         16) /* ItemType - Creature */
+     , (1343195970,   2,         31) /* CreatureType - Human */
      , (1343195970,   6,        102) /* ItemsCapacity */
      , (1343195970,   7,          7) /* ContainersCapacity */
      , (1343195970,  16,          1) /* ItemUseable - No */
+     , (1343195970,  25,        246) /* Level */
+     , (1343195970,  30,          1) /* AllegianceRank */
      , (1343195970,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343195970, 113,          1) /* Gender - Male */
      , (1343195970, 133,          4) /* ShowableOnRadar - ShowAlways */
-     , (1343195970, 8007,          0) /* PCAPRecordedAutonomousMovement */;
+     , (1343195970, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343195970, 188,          3) /* HeritageGroup - Sho */
+     , (1343195970, 261,        494) /* CharacterTitleId */
+     , (1343195970, 281,          4) /* Faction1Bits */
+     , (1343195970, 289,        305) /* SocietyRankRadblo */
+     , (1343195970, 307,         13) /* DamageRating */
+     , (1343195970, 308,          8) /* DamageResistRating */
+     , (1343195970, 314,          1) /* CritDamageRating */
+     , (1343195970, 316,          2) /* CritDamageResistRating */
+     , (1343195970, 390,          0) /* Enlightenment */
+     , (1343195970, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1343195970,   1, True ) /* Stuck */
@@ -19,7 +33,10 @@ VALUES (1343195970,   1, True ) /* Stuck */
      , (1343195970,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343195970,   1, 'Iron Fisted Monkey') /* Name */;
+VALUES (1343195970,   1, 'Iron Fisted Monkey') /* Name */
+     , (1343195970,  21, 'Sultana Mari Elisa') /* MonarchsTitle */
+     , (1343195970,  35, 'Baronet Sleyder''s Mule') /* PatronsTitle */
+     , (1343195970,  47, 'Guardians of the Lifestone') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343195970,   1,   33554433) /* Setup */
@@ -27,6 +44,12 @@ VALUES (1343195970,   1,   33554433) /* Setup */
      , (1343195970,   3,  536870913) /* SoundTable */
      , (1343195970,   6,   67108990) /* PaletteBase */
      , (1343195970,   8,  100667446) /* Icon */
+     , (1343195970,   9,   83890451) /* EyesTexture */
+     , (1343195970,  10,   83890522) /* NoseTexture */
+     , (1343195970,  11,   83890567) /* MouthTexture */
+     , (1343195970,  15,   67116998) /* HairPalette */
+     , (1343195970,  16,   67110063) /* EyesPalette */
+     , (1343195970,  17,   67110052) /* SkinPalette */
      , (1343195970,  22,  872415236) /* PhysicsEffectTable */
      , (1343195970, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343195970, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
@@ -35,8 +58,8 @@ VALUES (1343195970,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343195970, 1, 3583574079, 174.8585, 155.4947, 374.005, 0.7100233, 0, 0, -0.7041782) /* Location */
 /* @teleloc 0xD599003F [174.858500 155.494700 374.005000] 0.710023 0.000000 0.000000 -0.704178 */
-     , (1343195970, 8040, 3599958022, 20.41404, 129.3613, -0.09500003, -0.999871, 0, 0, -0.01605934) /* PCAPRecordedLocation */
-/* @teleloc 0xD6930006 [20.414040 129.361300 -0.095000] -0.999871 0.000000 0.000000 -0.016059 */;
+     , (1343195970, 8040, 3583574078, 180.4679, 142.3489, 382.7887, -0.708186, 0, 0, -0.7060259) /* PCAPRecordedLocation */
+/* @teleloc 0xD599003E [180.467900 142.348900 382.788700] -0.708186 0.000000 0.000000 -0.706026 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343195970,  26, 1342595878) /* Monarch */

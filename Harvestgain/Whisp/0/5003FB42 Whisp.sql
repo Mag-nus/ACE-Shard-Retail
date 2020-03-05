@@ -3,23 +3,35 @@ VALUES (1342438210, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342438210,   1,         16) /* ItemType - Creature */
+     , (1342438210,   2,         31) /* CreatureType - Human */
      , (1342438210,   6,        102) /* ItemsCapacity */
      , (1342438210,   7,          7) /* ContainersCapacity */
      , (1342438210,  16,          1) /* ItemUseable - No */
-     , (1342438210,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1342438210,  25,        115) /* Level */
+     , (1342438210,  30,          4) /* AllegianceRank */
+     , (1342438210,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342438210, 113,          2) /* Gender - Female */
      , (1342438210, 133,          4) /* ShowableOnRadar - ShowAlways */
-     , (1342438210, 8007,          0) /* PCAPRecordedAutonomousMovement */;
+     , (1342438210, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342438210, 188,          1) /* HeritageGroup - Aluvian */
+     , (1342438210, 261,         29) /* CharacterTitleId */
+     , (1342438210, 307,          5) /* DamageRating */
+     , (1342438210, 390,          0) /* Enlightenment */
+     , (1342438210, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1342438210,   1, True ) /* Stuck */
-     , (1342438210,  11, True ) /* IgnoreCollisions */
+     , (1342438210,  12, True ) /* ReportCollisions */
      , (1342438210,  13, False) /* Ethereal */
      , (1342438210,  14, True ) /* GravityStatus */
      , (1342438210,  19, True ) /* Attackable */
      , (1342438210,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342438210,   1, 'Whisp') /* Name */;
+VALUES (1342438210,   1, 'Whisp') /* Name */
+     , (1342438210,  21, 'Kun-chueh Nan Tao') /* MonarchsTitle */
+     , (1342438210,  35, 'Ta-chueh Yan') /* PatronsTitle */
+     , (1342438210,  47, 'Lost Elms') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342438210,   1,   33554510) /* Setup */
@@ -27,6 +39,12 @@ VALUES (1342438210,   1,   33554510) /* Setup */
      , (1342438210,   3,  536870914) /* SoundTable */
      , (1342438210,   6,   67108990) /* PaletteBase */
      , (1342438210,   8,  100667446) /* Icon */
+     , (1342438210,   9,   83890280) /* EyesTexture */
+     , (1342438210,  10,   83890312) /* NoseTexture */
+     , (1342438210,  11,   83890351) /* MouthTexture */
+     , (1342438210,  15,   67109625) /* HairPalette */
+     , (1342438210,  16,   67110065) /* EyesPalette */
+     , (1342438210,  17,   67109560) /* SkinPalette */
      , (1342438210,  22,  872415236) /* PhysicsEffectTable */
      , (1342438210, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342438210, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

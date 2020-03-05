@@ -3,11 +3,20 @@ VALUES (1343134726, 1, 10, 6738241) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343134726,   1,         16) /* ItemType - Creature */
+     , (1343134726,   2,         31) /* CreatureType - Human */
      , (1343134726,   6,        102) /* ItemsCapacity */
      , (1343134726,   7,          7) /* ContainersCapacity */
      , (1343134726,  16,          1) /* ItemUseable - No */
+     , (1343134726,  25,         71) /* Level */
+     , (1343134726,  30,          2) /* AllegianceRank */
      , (1343134726,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343134726, 113,          1) /* Gender - Male */
      , (1343134726, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343134726, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343134726, 188,          8) /* HeritageGroup - Lugian */
+     , (1343134726, 261,          1) /* CharacterTitleId */
+     , (1343134726, 307,          5) /* DamageRating */
+     , (1343134726, 390,          0) /* Enlightenment */
      , (1343134726, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -22,7 +31,10 @@ INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (1343134726,  39, 1.29999995231628) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343134726,   1, 'Guntr') /* Name */;
+VALUES (1343134726,   1, 'Guntr') /* Name */
+     , (1343134726,  21, 'Duke Gansal') /* MonarchsTitle */
+     , (1343134726,  35, 'Shade Illwynd') /* PatronsTitle */
+     , (1343134726,  47, 'Order of the New Hope') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343134726,   1,   33561112) /* Setup */
@@ -30,6 +42,12 @@ VALUES (1343134726,   1,   33561112) /* Setup */
      , (1343134726,   3,  536871128) /* SoundTable */
      , (1343134726,   6,   67108990) /* PaletteBase */
      , (1343134726,   8,  100667446) /* Icon */
+     , (1343134726,   9,   83898990) /* EyesTexture */
+     , (1343134726,  10,   83898750) /* NoseTexture */
+     , (1343134726,  11,   83898752) /* MouthTexture */
+     , (1343134726,  15,   67117076) /* HairPalette */
+     , (1343134726,  16,   67116953) /* EyesPalette */
+     , (1343134726,  17,   67117128) /* SkinPalette */
      , (1343134726,  22,  872415236) /* PhysicsEffectTable */
      , (1343134726, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343134726, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

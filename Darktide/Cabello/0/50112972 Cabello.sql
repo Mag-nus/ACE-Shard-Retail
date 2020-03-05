@@ -3,23 +3,38 @@ VALUES (1343302002, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343302002,   1,         16) /* ItemType - Creature */
+     , (1343302002,   2,         31) /* CreatureType - Human */
      , (1343302002,   6,        102) /* ItemsCapacity */
      , (1343302002,   7,          7) /* ContainersCapacity */
      , (1343302002,  16,          1) /* ItemUseable - No */
-     , (1343302002,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343302002,  25,         57) /* Level */
+     , (1343302002,  30,          1) /* AllegianceRank */
+     , (1343302002,  43,         94) /* NumDeaths */
+     , (1343302002,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343302002, 113,          1) /* Gender - Male */
      , (1343302002, 133,          4) /* ShowableOnRadar - ShowAlways */
-     , (1343302002, 8007,          1) /* PCAPRecordedAutonomousMovement */;
+     , (1343302002, 134,          4) /* PlayerKillerStatus - PK */
+     , (1343302002, 188,          3) /* HeritageGroup - Sho */
+     , (1343302002, 261,         58) /* CharacterTitleId */
+     , (1343302002, 307,          5) /* DamageRating */
+     , (1343302002, 390,          0) /* Enlightenment */
+     , (1343302002, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1343302002,   1, True ) /* Stuck */
-     , (1343302002,  11, True ) /* IgnoreCollisions */
+     , (1343302002,  12, True ) /* ReportCollisions */
      , (1343302002,  13, False) /* Ethereal */
      , (1343302002,  14, True ) /* GravityStatus */
      , (1343302002,  19, True ) /* Attackable */
      , (1343302002,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343302002,   1, 'Cabello') /* Name */;
+VALUES (1343302002,   1, 'Cabello') /* Name */
+     , (1343302002,  10, 'D') /* Fellowship */
+     , (1343302002,  21, 'King DeSol') /* MonarchsTitle */
+     , (1343302002,  35, 'Jo-chueh Ujiio') /* PatronsTitle */
+     , (1343302002,  43, '02 March 2002') /* DateOfBirth */
+     , (1343302002,  47, 'Legacy') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343302002,   1,   33554433) /* Setup */
@@ -27,6 +42,12 @@ VALUES (1343302002,   1,   33554433) /* Setup */
      , (1343302002,   3,  536870913) /* SoundTable */
      , (1343302002,   6,   67108990) /* PaletteBase */
      , (1343302002,   8,  100667446) /* Icon */
+     , (1343302002,   9,   83890478) /* EyesTexture */
+     , (1343302002,  10,   83890519) /* NoseTexture */
+     , (1343302002,  11,   83890662) /* MouthTexture */
+     , (1343302002,  15,   67109618) /* HairPalette */
+     , (1343302002,  16,   67110063) /* EyesPalette */
+     , (1343302002,  17,   67110054) /* SkinPalette */
      , (1343302002,  22,  872415236) /* PhysicsEffectTable */
      , (1343302002, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343302002, 8003,         60) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable, PlayerKiller */
@@ -35,8 +56,8 @@ VALUES (1343302002,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343302002, 1, 3499426048, 181.5929, 156.2372, 0.004999995, 0.4486736, 0, 0, -0.8936957) /* Location */
 /* @teleloc 0xD0950100 [181.592900 156.237200 0.005000] 0.448674 0.000000 0.000000 -0.893696 */
-     , (1343302002, 8040, 2535587898, 168.354, 24.618, 102.005, -0.9227904, 0, 0, -0.3853023) /* PCAPRecordedLocation */
-/* @teleloc 0x9722003A [168.354000 24.618000 102.005000] -0.922790 0.000000 0.000000 -0.385302 */;
+     , (1343302002, 8040, 2599092482, 85.23969, 132.0577, 19.205, 0.4248292, 0, 0, -0.9052735) /* PCAPRecordedLocation */
+/* @teleloc 0x9AEB0102 [85.239690 132.057700 19.205000] 0.424829 0.000000 0.000000 -0.905274 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343302002,  26, 1343841671) /* Monarch */

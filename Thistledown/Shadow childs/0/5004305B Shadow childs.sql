@@ -6,13 +6,13 @@ VALUES (1342451803,   1,         16) /* ItemType - Creature */
      , (1342451803,   6,        102) /* ItemsCapacity */
      , (1342451803,   7,          7) /* ContainersCapacity */
      , (1342451803,  16,          1) /* ItemUseable - No */
-     , (1342451803,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1342451803,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1342451803, 133,          4) /* ShowableOnRadar - ShowAlways */
-     , (1342451803, 8007,          0) /* PCAPRecordedAutonomousMovement */;
+     , (1342451803, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1342451803,   1, True ) /* Stuck */
-     , (1342451803,  11, True ) /* IgnoreCollisions */
+     , (1342451803,  12, True ) /* ReportCollisions */
      , (1342451803,  13, False) /* Ethereal */
      , (1342451803,  14, True ) /* GravityStatus */
      , (1342451803,  19, True ) /* Attackable */
@@ -35,8 +35,8 @@ VALUES (1342451803,   1,   33554510) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1342451803, 1, 1925775396, 113.7864, 92.87651, 78.5228, 0.8567095, 0, 0, -0.5157991) /* Location */
 /* @teleloc 0x72C90024 [113.786400 92.876510 78.522800] 0.856710 0.000000 0.000000 -0.515799 */
-     , (1342451803, 8040, 3332964361, 46.805, 4.219, 42.005, 1, 0, 0, 0) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A90009 [46.805000 4.219000 42.005000] 1.000000 0.000000 0.000000 0.000000 */;
+     , (1342451803, 8040, 3130982664, 43.45259, 173.859, 52.955, -0.9718806, 0, 0, -0.2354743) /* PCAPRecordedLocation */
+/* @teleloc 0xBA9F0108 [43.452590 173.859000 52.955000] -0.971881 0.000000 0.000000 -0.235474 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342451803,  26, 1342179762) /* Monarch */

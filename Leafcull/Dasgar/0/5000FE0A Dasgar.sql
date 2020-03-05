@@ -3,11 +3,27 @@ VALUES (1342242314, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342242314,   1,         16) /* ItemType - Creature */
+     , (1342242314,   2,         31) /* CreatureType - Human */
      , (1342242314,   6,        102) /* ItemsCapacity */
      , (1342242314,   7,          7) /* ContainersCapacity */
      , (1342242314,  16,          1) /* ItemUseable - No */
+     , (1342242314,  25,        275) /* Level */
+     , (1342242314,  30,          6) /* AllegianceRank */
+     , (1342242314,  43,       1306) /* NumDeaths */
      , (1342242314,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342242314, 113,          2) /* Gender - Female */
+     , (1342242314, 125,   12897572) /* Age */
      , (1342242314, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342242314, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342242314, 188,          3) /* HeritageGroup - Sho */
+     , (1342242314, 261,        110) /* CharacterTitleId */
+     , (1342242314, 281,          4) /* Faction1Bits */
+     , (1342242314, 289,         20) /* SocietyRankRadblo */
+     , (1342242314, 307,         11) /* DamageRating */
+     , (1342242314, 308,          5) /* DamageResistRating */
+     , (1342242314, 314,          4) /* CritDamageRating */
+     , (1342242314, 351,         16) /* LifeResistRating */
+     , (1342242314, 390,          0) /* Enlightenment */
      , (1342242314, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +35,11 @@ VALUES (1342242314,   1, True ) /* Stuck */
      , (1342242314,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342242314,   1, 'Dasgar') /* Name */;
+VALUES (1342242314,   1, 'Dasgar') /* Name */
+     , (1342242314,  21, 'Mushir Shoulin') /* MonarchsTitle */
+     , (1342242314,  35, 'Mushir Shoulin') /* PatronsTitle */
+     , (1342242314,  43, '20 December 1999') /* DateOfBirth */
+     , (1342242314,  47, 'Legion of Chaos') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342242314,   1,   33554510) /* Setup */
@@ -27,6 +47,12 @@ VALUES (1342242314,   1,   33554510) /* Setup */
      , (1342242314,   3,  536870914) /* SoundTable */
      , (1342242314,   6,   67108990) /* PaletteBase */
      , (1342242314,   8,  100667446) /* Icon */
+     , (1342242314,   9,   83890243) /* EyesTexture */
+     , (1342242314,  10,   83890308) /* NoseTexture */
+     , (1342242314,  11,   83890356) /* MouthTexture */
+     , (1342242314,  15,   67109599) /* HairPalette */
+     , (1342242314,  16,   67110062) /* EyesPalette */
+     , (1342242314,  17,   67110055) /* SkinPalette */
      , (1342242314,  22,  872415236) /* PhysicsEffectTable */
      , (1342242314, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342242314, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

@@ -16,7 +16,7 @@ VALUES (1344175003,   1,         16) /* ItemType - Creature */
      , (1344175003, 261,          1) /* CharacterTitleId */
      , (1344175003, 307,          5) /* DamageRating */
      , (1344175003, 390,          0) /* Enlightenment */
-     , (1344175003, 8007,          1) /* PCAPRecordedAutonomousMovement */;
+     , (1344175003, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1344175003,   1, True ) /* Stuck */
@@ -50,8 +50,8 @@ VALUES (1344175003,   1,   33554510) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1344175003, 1, 23200215, 59.05252, -28.24531, 12.005, 0.2480233, 0, 0, -0.9687541) /* Location */
 /* @teleloc 0x016201D7 [59.052520 -28.245310 12.005000] 0.248023 0.000000 0.000000 -0.968754 */
-     , (1344175003, 8040, 23200182, 28.54964, -51.02844, 12.005, -0.08159186, 0, 0, -0.9966658) /* PCAPRecordedLocation */
-/* @teleloc 0x016201B6 [28.549640 -51.028440 12.005000] -0.081592 0.000000 0.000000 -0.996666 */;
+     , (1344175003, 8040, 23200233, 63.88785, -67.73248, 12.005, 0.9746335, 0, 0, -0.2238072) /* PCAPRecordedLocation */
+/* @teleloc 0x016201E9 [63.887850 -67.732480 12.005000] 0.974634 0.000000 0.000000 -0.223807 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1344175003, 8000, 1344175003) /* PCAPRecordedObjectIID */;

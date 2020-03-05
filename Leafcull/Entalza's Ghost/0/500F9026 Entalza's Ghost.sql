@@ -6,13 +6,13 @@ VALUES (1343197222,   1,         16) /* ItemType - Creature */
      , (1343197222,   6,        102) /* ItemsCapacity */
      , (1343197222,   7,          7) /* ContainersCapacity */
      , (1343197222,  16,          1) /* ItemUseable - No */
-     , (1343197222,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343197222,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1343197222, 133,          4) /* ShowableOnRadar - ShowAlways */
-     , (1343197222, 8007,          0) /* PCAPRecordedAutonomousMovement */;
+     , (1343197222, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1343197222,   1, True ) /* Stuck */
-     , (1343197222,  11, True ) /* IgnoreCollisions */
+     , (1343197222,  12, True ) /* ReportCollisions */
      , (1343197222,  13, False) /* Ethereal */
      , (1343197222,  14, True ) /* GravityStatus */
      , (1343197222,  19, True ) /* Attackable */
@@ -35,8 +35,8 @@ VALUES (1343197222,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343197222, 1, 3332964361, 46.805, 4.219, 42.005, 1, 0, 0, 0) /* Location */
 /* @teleloc 0xC6A90009 [46.805000 4.219000 42.005000] 1.000000 0.000000 0.000000 0.000000 */
-     , (1343197222, 8040, 2847146009, 81.3304, 14.01962, 94.005, 0.839091, 0, 0, -0.543991) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B40019 [81.330400 14.019620 94.005000] 0.839091 0.000000 0.000000 -0.543991 */;
+     , (1343197222, 8040, 2847146341, 97.72305, 35.90546, 94.005, 0.7799982, 0, 0, -0.6257818) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B40165 [97.723050 35.905460 94.005000] 0.779998 0.000000 0.000000 -0.625782 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343197222, 8000, 1343197222) /* PCAPRecordedObjectIID */;

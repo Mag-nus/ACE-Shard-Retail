@@ -3,11 +3,27 @@ VALUES (1343162177, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343162177,   1,         16) /* ItemType - Creature */
+     , (1343162177,   2,         31) /* CreatureType - Human */
      , (1343162177,   6,        102) /* ItemsCapacity */
      , (1343162177,   7,          8) /* ContainersCapacity */
      , (1343162177,  16,          1) /* ItemUseable - No */
+     , (1343162177,  25,        275) /* Level */
+     , (1343162177,  30,          4) /* AllegianceRank */
      , (1343162177,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343162177, 113,          1) /* Gender - Male */
      , (1343162177, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343162177, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343162177, 188,         10) /* HeritageGroup - Penumbraen */
+     , (1343162177, 261,        715) /* CharacterTitleId */
+     , (1343162177, 281,          2) /* Faction1Bits */
+     , (1343162177, 288,       1001) /* SocietyRankEldweb */
+     , (1343162177, 307,         26) /* DamageRating */
+     , (1343162177, 308,         12) /* DamageResistRating */
+     , (1343162177, 313,          1) /* CritRating */
+     , (1343162177, 314,          9) /* CritDamageRating */
+     , (1343162177, 316,          7) /* CritDamageResistRating */
+     , (1343162177, 323,          9) /* HealingBoostRating */
+     , (1343162177, 390,          0) /* Enlightenment */
      , (1343162177, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +35,11 @@ VALUES (1343162177,   1, True ) /* Stuck */
      , (1343162177,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343162177,   1, 'Valeforth') /* Name */;
+VALUES (1343162177,   1, 'Valeforth') /* Name */
+     , (1343162177,  10, 'Q') /* Fellowship */
+     , (1343162177,  21, 'Aetheling Ion Storm') /* MonarchsTitle */
+     , (1343162177,  35, 'Naquiba Hede') /* PatronsTitle */
+     , (1343162177,  47, 'Riders on the Storm') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343162177,   1,   33560942) /* Setup */
@@ -27,6 +47,12 @@ VALUES (1343162177,   1,   33560942) /* Setup */
      , (1343162177,   3,  536870913) /* SoundTable */
      , (1343162177,   6,   67108990) /* PaletteBase */
      , (1343162177,   8,  100667446) /* Icon */
+     , (1343162177,   9,   83890516) /* EyesTexture */
+     , (1343162177,  10,   83890551) /* NoseTexture */
+     , (1343162177,  11,   83890570) /* MouthTexture */
+     , (1343162177,  15,   67117058) /* HairPalette */
+     , (1343162177,  16,   67116856) /* EyesPalette */
+     , (1343162177,  17,   67116848) /* SkinPalette */
      , (1343162177,  22,  872415433) /* PhysicsEffectTable */
      , (1343162177, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343162177, 8003,   33554460) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable, PkLiteStatus */

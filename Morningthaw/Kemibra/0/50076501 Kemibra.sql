@@ -3,11 +3,27 @@ VALUES (1342661889, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342661889,   1,         16) /* ItemType - Creature */
+     , (1342661889,   2,         31) /* CreatureType - Human */
      , (1342661889,   6,        102) /* ItemsCapacity */
      , (1342661889,   7,          8) /* ContainersCapacity */
      , (1342661889,  16,          1) /* ItemUseable - No */
+     , (1342661889,  25,        275) /* Level */
+     , (1342661889,  30,          5) /* AllegianceRank */
      , (1342661889,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342661889, 113,          1) /* Gender - Male */
+     , (1342661889, 125,   16517755) /* Age */
      , (1342661889, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342661889, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342661889, 188,          1) /* HeritageGroup - Aluvian */
+     , (1342661889, 261,        448) /* CharacterTitleId */
+     , (1342661889, 281,          4) /* Faction1Bits */
+     , (1342661889, 289,        980) /* SocietyRankRadblo */
+     , (1342661889, 307,         25) /* DamageRating */
+     , (1342661889, 308,         11) /* DamageResistRating */
+     , (1342661889, 313,          1) /* CritRating */
+     , (1342661889, 314,          6) /* CritDamageRating */
+     , (1342661889, 316,          7) /* CritDamageResistRating */
+     , (1342661889, 390,          0) /* Enlightenment */
      , (1342661889, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +35,11 @@ VALUES (1342661889,   1, True ) /* Stuck */
      , (1342661889,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342661889,   1, 'Kemibra') /* Name */;
+VALUES (1342661889,   1, 'Kemibra') /* Name */
+     , (1342661889,  21, 'Taikou Zalante') /* MonarchsTitle */
+     , (1342661889,  35, 'Taikou Sasho') /* PatronsTitle */
+     , (1342661889,  43, '06 April 2001') /* DateOfBirth */
+     , (1342661889,  47, 'Collective Company') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342661889,   1,   33554433) /* Setup */
@@ -27,6 +47,12 @@ VALUES (1342661889,   1,   33554433) /* Setup */
      , (1342661889,   3,  536870913) /* SoundTable */
      , (1342661889,   6,   67108990) /* PaletteBase */
      , (1342661889,   8,  100667446) /* Icon */
+     , (1342661889,   9,   83890445) /* EyesTexture */
+     , (1342661889,  10,   83890549) /* NoseTexture */
+     , (1342661889,  11,   83890658) /* MouthTexture */
+     , (1342661889,  15,   67109593) /* HairPalette */
+     , (1342661889,  16,   67110065) /* EyesPalette */
+     , (1342661889,  17,   67109560) /* SkinPalette */
      , (1342661889,  22,  872415236) /* PhysicsEffectTable */
      , (1342661889, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342661889, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

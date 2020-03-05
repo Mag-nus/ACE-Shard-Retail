@@ -3,11 +3,20 @@ VALUES (1342432015, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342432015,   1,         16) /* ItemType - Creature */
+     , (1342432015,   2,         31) /* CreatureType - Human */
      , (1342432015,   6,        102) /* ItemsCapacity */
      , (1342432015,   7,          7) /* ContainersCapacity */
      , (1342432015,  16,          1) /* ItemUseable - No */
+     , (1342432015,  25,        126) /* Level */
+     , (1342432015,  30,          2) /* AllegianceRank */
+     , (1342432015,  43,        145) /* NumDeaths */
      , (1342432015,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1342432015, 113,          1) /* Gender - Male */
      , (1342432015, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342432015, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342432015, 188,          2) /* HeritageGroup - Gharundim */
+     , (1342432015, 261,         86) /* CharacterTitleId */
+     , (1342432015, 390,          0) /* Enlightenment */
      , (1342432015, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +28,12 @@ VALUES (1342432015,   1, True ) /* Stuck */
      , (1342432015,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342432015,   1, 'Kelvar Silvermace') /* Name */;
+VALUES (1342432015,   1, 'Kelvar Silvermace') /* Name */
+     , (1342432015,  10, 'Forthefirsttimeforthelasttime') /* Fellowship */
+     , (1342432015,  21, 'Mushira Saya al-Ahnara') /* MonarchsTitle */
+     , (1342432015,  35, 'Ta-chueh Jaria') /* PatronsTitle */
+     , (1342432015,  43, '29 October 2000') /* DateOfBirth */
+     , (1342432015,  47, 'Champions of Asheron') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342432015,   1,   33554433) /* Setup */
@@ -27,6 +41,12 @@ VALUES (1342432015,   1,   33554433) /* Setup */
      , (1342432015,   3,  536870913) /* SoundTable */
      , (1342432015,   6,   67108990) /* PaletteBase */
      , (1342432015,   8,  100667446) /* Icon */
+     , (1342432015,   9,   83890510) /* EyesTexture */
+     , (1342432015,  10,   83890539) /* NoseTexture */
+     , (1342432015,  11,   83890629) /* MouthTexture */
+     , (1342432015,  15,   67109604) /* HairPalette */
+     , (1342432015,  16,   67110063) /* EyesPalette */
+     , (1342432015,  17,   67109556) /* SkinPalette */
      , (1342432015,  22,  872415236) /* PhysicsEffectTable */
      , (1342432015, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342432015, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

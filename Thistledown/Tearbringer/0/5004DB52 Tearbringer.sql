@@ -3,11 +3,28 @@ VALUES (1342495570, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342495570,   1,         16) /* ItemType - Creature */
+     , (1342495570,   2,         31) /* CreatureType - Human */
      , (1342495570,   6,        102) /* ItemsCapacity */
      , (1342495570,   7,          8) /* ContainersCapacity */
      , (1342495570,  16,          1) /* ItemUseable - No */
+     , (1342495570,  25,        264) /* Level */
+     , (1342495570,  30,          5) /* AllegianceRank */
      , (1342495570,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1342495570, 113,          1) /* Gender - Male */
      , (1342495570, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342495570, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342495570, 188,          3) /* HeritageGroup - Sho */
+     , (1342495570, 261,        100) /* CharacterTitleId */
+     , (1342495570, 281,          2) /* Faction1Bits */
+     , (1342495570, 288,       1001) /* SocietyRankEldweb */
+     , (1342495570, 307,         15) /* DamageRating */
+     , (1342495570, 308,          7) /* DamageResistRating */
+     , (1342495570, 313,          1) /* CritRating */
+     , (1342495570, 314,          8) /* CritDamageRating */
+     , (1342495570, 316,          2) /* CritDamageResistRating */
+     , (1342495570, 323,          6) /* HealingBoostRating */
+     , (1342495570, 350,         16) /* DotResistRating */
+     , (1342495570, 390,          1) /* Enlightenment */
      , (1342495570, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +36,9 @@ VALUES (1342495570,   1, True ) /* Stuck */
      , (1342495570,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342495570,   1, 'Tearbringer') /* Name */;
+VALUES (1342495570,   1, 'Tearbringer') /* Name */
+     , (1342495570,  21, 'Kun-chueh Dragon The Empyrian') /* MonarchsTitle */
+     , (1342495570,  35, 'Thane Gwyds Mule') /* PatronsTitle */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342495570,   1,   33554433) /* Setup */
@@ -27,6 +46,12 @@ VALUES (1342495570,   1,   33554433) /* Setup */
      , (1342495570,   3,  536870913) /* SoundTable */
      , (1342495570,   6,   67108990) /* PaletteBase */
      , (1342495570,   8,  100667446) /* Icon */
+     , (1342495570,   9,   83890500) /* EyesTexture */
+     , (1342495570,  10,   83890530) /* NoseTexture */
+     , (1342495570,  11,   83890589) /* MouthTexture */
+     , (1342495570,  15,   67109596) /* HairPalette */
+     , (1342495570,  16,   67109565) /* EyesPalette */
+     , (1342495570,  17,   67110048) /* SkinPalette */
      , (1342495570,  22,  872415236) /* PhysicsEffectTable */
      , (1342495570, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342495570, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

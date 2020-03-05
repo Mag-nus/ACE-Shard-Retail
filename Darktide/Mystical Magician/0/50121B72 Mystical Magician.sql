@@ -3,11 +3,19 @@ VALUES (1343363954, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343363954,   1,         16) /* ItemType - Creature */
+     , (1343363954,   2,         31) /* CreatureType - Human */
      , (1343363954,   6,        102) /* ItemsCapacity */
      , (1343363954,   7,          8) /* ContainersCapacity */
      , (1343363954,  16,          1) /* ItemUseable - No */
+     , (1343363954,  30,          3) /* AllegianceRank */
+     , (1343363954,  43,       2936) /* NumDeaths */
      , (1343363954,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343363954, 113,          2) /* Gender - Female */
      , (1343363954, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343363954, 134,          4) /* PlayerKillerStatus - PK */
+     , (1343363954, 188,          3) /* HeritageGroup - Sho */
+     , (1343363954, 261,        770) /* CharacterTitleId */
+     , (1343363954, 390,          0) /* Enlightenment */
      , (1343363954, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +27,12 @@ VALUES (1343363954,   1, True ) /* Stuck */
      , (1343363954,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343363954,   1, 'Mystical Magician') /* Name */;
+VALUES (1343363954,   1, 'Mystical Magician') /* Name */
+     , (1343363954,  10, 'Judged') /* Fellowship */
+     , (1343363954,  21, 'Aetheling Judged') /* MonarchsTitle */
+     , (1343363954,  35, 'Thane Gentleman Jack') /* PatronsTitle */
+     , (1343363954,  43, '26 April 2002') /* DateOfBirth */
+     , (1343363954,  47, 'There Will Be Blood') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343363954,   1,   33554510) /* Setup */
@@ -27,6 +40,12 @@ VALUES (1343363954,   1,   33554510) /* Setup */
      , (1343363954,   3,  536870914) /* SoundTable */
      , (1343363954,   6,   67108990) /* PaletteBase */
      , (1343363954,   8,  100667446) /* Icon */
+     , (1343363954,   9,   83890243) /* EyesTexture */
+     , (1343363954,  10,   83890308) /* NoseTexture */
+     , (1343363954,  11,   83890344) /* MouthTexture */
+     , (1343363954,  15,   67109625) /* HairPalette */
+     , (1343363954,  16,   67109565) /* EyesPalette */
+     , (1343363954,  17,   67110049) /* SkinPalette */
      , (1343363954,  22,  872415236) /* PhysicsEffectTable */
      , (1343363954, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343363954, 8003,         60) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable, PlayerKiller */

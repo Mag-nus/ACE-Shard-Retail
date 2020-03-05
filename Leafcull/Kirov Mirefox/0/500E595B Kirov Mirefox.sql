@@ -3,11 +3,27 @@ VALUES (1343117659, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343117659,   1,         16) /* ItemType - Creature */
+     , (1343117659,   2,         31) /* CreatureType - Human */
      , (1343117659,   6,        102) /* ItemsCapacity */
      , (1343117659,   7,          7) /* ContainersCapacity */
      , (1343117659,  16,          1) /* ItemUseable - No */
+     , (1343117659,  25,        255) /* Level */
+     , (1343117659,  30,          6) /* AllegianceRank */
      , (1343117659,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343117659, 113,          1) /* Gender - Male */
      , (1343117659, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343117659, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343117659, 188,          3) /* HeritageGroup - Sho */
+     , (1343117659, 261,        499) /* CharacterTitleId */
+     , (1343117659, 281,          1) /* Faction1Bits */
+     , (1343117659, 287,       1001) /* SocietyRankCelhan */
+     , (1343117659, 307,         14) /* DamageRating */
+     , (1343117659, 308,          8) /* DamageResistRating */
+     , (1343117659, 313,          1) /* CritRating */
+     , (1343117659, 314,          4) /* CritDamageRating */
+     , (1343117659, 316,          2) /* CritDamageResistRating */
+     , (1343117659, 351,         24) /* LifeResistRating */
+     , (1343117659, 390,          0) /* Enlightenment */
      , (1343117659, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +35,10 @@ VALUES (1343117659,   1, True ) /* Stuck */
      , (1343117659,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343117659,   1, 'Kirov Mirefox') /* Name */;
+VALUES (1343117659,   1, 'Kirov Mirefox') /* Name */
+     , (1343117659,  21, 'King Cobra-Con') /* MonarchsTitle */
+     , (1343117659,  35, 'Duke T''koi Imperial Tinkerer') /* PatronsTitle */
+     , (1343117659,  47, 'Cobra''s Crew') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343117659,   1,   33554433) /* Setup */
@@ -27,6 +46,12 @@ VALUES (1343117659,   1,   33554433) /* Setup */
      , (1343117659,   3,  536870913) /* SoundTable */
      , (1343117659,   6,   67108990) /* PaletteBase */
      , (1343117659,   8,  100667446) /* Icon */
+     , (1343117659,   9,   83890450) /* EyesTexture */
+     , (1343117659,  10,   83890548) /* NoseTexture */
+     , (1343117659,  11,   83890585) /* MouthTexture */
+     , (1343117659,  15,   67109625) /* HairPalette */
+     , (1343117659,  16,   67109565) /* EyesPalette */
+     , (1343117659,  17,   67110049) /* SkinPalette */
      , (1343117659,  22,  872415236) /* PhysicsEffectTable */
      , (1343117659, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343117659, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

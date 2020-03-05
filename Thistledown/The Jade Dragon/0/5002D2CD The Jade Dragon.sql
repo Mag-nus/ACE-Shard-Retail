@@ -3,11 +3,27 @@ VALUES (1342362317, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342362317,   1,         16) /* ItemType - Creature */
+     , (1342362317,   2,         31) /* CreatureType - Human */
      , (1342362317,   6,        102) /* ItemsCapacity */
      , (1342362317,   7,          8) /* ContainersCapacity */
      , (1342362317,  16,          1) /* ItemUseable - No */
+     , (1342362317,  25,        275) /* Level */
+     , (1342362317,  30,          6) /* AllegianceRank */
+     , (1342362317,  43,        409) /* NumDeaths */
      , (1342362317,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1342362317, 113,          1) /* Gender - Male */
+     , (1342362317, 125,  117241008) /* Age */
      , (1342362317, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342362317, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342362317, 188,          3) /* HeritageGroup - Sho */
+     , (1342362317, 261,        651) /* CharacterTitleId */
+     , (1342362317, 281,          1) /* Faction1Bits */
+     , (1342362317, 287,       1001) /* SocietyRankCelhan */
+     , (1342362317, 307,          8) /* DamageRating */
+     , (1342362317, 308,          4) /* DamageResistRating */
+     , (1342362317, 313,          1) /* CritRating */
+     , (1342362317, 314,          3) /* CritDamageRating */
+     , (1342362317, 390,          0) /* Enlightenment */
      , (1342362317, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +35,11 @@ VALUES (1342362317,   1, True ) /* Stuck */
      , (1342362317,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342362317,   1, 'The Jade Dragon') /* Name */;
+VALUES (1342362317,   1, 'The Jade Dragon') /* Name */
+     , (1342362317,  21, 'King Hot Shot''') /* MonarchsTitle */
+     , (1342362317,  35, 'Qadi Drainne') /* PatronsTitle */
+     , (1342362317,  43, '20 March 2000') /* DateOfBirth */
+     , (1342362317,  47, 'Neverending Portalstorms') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342362317,   1,   33554433) /* Setup */
@@ -27,6 +47,12 @@ VALUES (1342362317,   1,   33554433) /* Setup */
      , (1342362317,   3,  536870913) /* SoundTable */
      , (1342362317,   6,   67108990) /* PaletteBase */
      , (1342362317,   8,  100667446) /* Icon */
+     , (1342362317,   9,   83890443) /* EyesTexture */
+     , (1342362317,  10,   83890522) /* NoseTexture */
+     , (1342362317,  11,   83890665) /* MouthTexture */
+     , (1342362317,  15,   67109630) /* HairPalette */
+     , (1342362317,  16,   67110063) /* EyesPalette */
+     , (1342362317,  17,   67110055) /* SkinPalette */
      , (1342362317,  22,  872415236) /* PhysicsEffectTable */
      , (1342362317, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342362317, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

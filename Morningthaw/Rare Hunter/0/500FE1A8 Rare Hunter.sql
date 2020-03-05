@@ -3,16 +3,33 @@ VALUES (1343218088, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343218088,   1,         16) /* ItemType - Creature */
+     , (1343218088,   2,         31) /* CreatureType - Human */
      , (1343218088,   6,        102) /* ItemsCapacity */
      , (1343218088,   7,          8) /* ContainersCapacity */
      , (1343218088,  16,          1) /* ItemUseable - No */
-     , (1343218088,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343218088,  25,        275) /* Level */
+     , (1343218088,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343218088, 113,          1) /* Gender - Male */
      , (1343218088, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343218088, 134,         64) /* PlayerKillerStatus - PKLite */
+     , (1343218088, 188,          3) /* HeritageGroup - Sho */
+     , (1343218088, 261,          1) /* CharacterTitleId */
+     , (1343218088, 281,          2) /* Faction1Bits */
+     , (1343218088, 288,       1001) /* SocietyRankEldweb */
+     , (1343218088, 307,         72) /* DamageRating */
+     , (1343218088, 308,         23) /* DamageResistRating */
+     , (1343218088, 313,          1) /* CritRating */
+     , (1343218088, 314,         43) /* CritDamageRating */
+     , (1343218088, 316,         14) /* CritDamageResistRating */
+     , (1343218088, 323,          9) /* HealingBoostRating */
+     , (1343218088, 381,          6) /* PKDamageRating */
+     , (1343218088, 382,          6) /* PKDamageResistRating */
+     , (1343218088, 390,          0) /* Enlightenment */
      , (1343218088, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1343218088,   1, True ) /* Stuck */
-     , (1343218088,  11, True ) /* IgnoreCollisions */
+     , (1343218088,  12, True ) /* ReportCollisions */
      , (1343218088,  13, False) /* Ethereal */
      , (1343218088,  14, True ) /* GravityStatus */
      , (1343218088,  19, True ) /* Attackable */
@@ -27,6 +44,12 @@ VALUES (1343218088,   1,   33554433) /* Setup */
      , (1343218088,   3,  536870913) /* SoundTable */
      , (1343218088,   6,   67108990) /* PaletteBase */
      , (1343218088,   8,  100667446) /* Icon */
+     , (1343218088,   9,   83890451) /* EyesTexture */
+     , (1343218088,  10,   83890544) /* NoseTexture */
+     , (1343218088,  11,   83890641) /* MouthTexture */
+     , (1343218088,  15,   67117019) /* HairPalette */
+     , (1343218088,  16,   67110063) /* EyesPalette */
+     , (1343218088,  17,   67110052) /* SkinPalette */
      , (1343218088,  22,  872415236) /* PhysicsEffectTable */
      , (1343218088, 8001,    8388630) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, RadarBehavior */
      , (1343218088, 8003,   33554460) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable, PkLiteStatus */
@@ -35,8 +58,8 @@ VALUES (1343218088,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343218088, 1, 3370713130, 132.3602, 36.22935, 0.004999995, 0.9995828, 0, 0, -0.02888473) /* Location */
 /* @teleloc 0xC8E9002A [132.360200 36.229350 0.005000] 0.999583 0.000000 0.000000 -0.028885 */
-     , (1343218088, 8040, 19398950, 30, -60, 6.005, 1, 0, 0, 0) /* PCAPRecordedLocation */
-/* @teleloc 0x01280126 [30.000000 -60.000000 6.005000] 1.000000 0.000000 0.000000 0.000000 */;
+     , (1343218088, 8040, 19398927, 28.95243, -37.76368, 4.217409, 0.9988347, 0, 0, -0.04826216) /* PCAPRecordedLocation */
+/* @teleloc 0x0128010F [28.952430 -37.763680 4.217409] 0.998835 0.000000 0.000000 -0.048262 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343218088, 8000, 1343218088) /* PCAPRecordedObjectIID */;

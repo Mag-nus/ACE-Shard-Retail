@@ -3,11 +3,27 @@ VALUES (1343481713, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343481713,   1,         16) /* ItemType - Creature */
+     , (1343481713,   2,         31) /* CreatureType - Human */
      , (1343481713,   6,        102) /* ItemsCapacity */
      , (1343481713,   7,          8) /* ContainersCapacity */
      , (1343481713,  16,          1) /* ItemUseable - No */
+     , (1343481713,  25,        275) /* Level */
+     , (1343481713,  30,          1) /* AllegianceRank */
      , (1343481713,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343481713, 113,          2) /* Gender - Female */
      , (1343481713, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343481713, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343481713, 188,         11) /* HeritageGroup - Undead */
+     , (1343481713, 261,          1) /* CharacterTitleId */
+     , (1343481713, 307,         47) /* DamageRating */
+     , (1343481713, 308,         19) /* DamageResistRating */
+     , (1343481713, 313,          1) /* CritRating */
+     , (1343481713, 314,         32) /* CritDamageRating */
+     , (1343481713, 316,         13) /* CritDamageResistRating */
+     , (1343481713, 323,          9) /* HealingBoostRating */
+     , (1343481713, 381,          5) /* PKDamageRating */
+     , (1343481713, 382,          5) /* PKDamageResistRating */
+     , (1343481713, 390,          0) /* Enlightenment */
      , (1343481713, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +35,10 @@ VALUES (1343481713,   1, True ) /* Stuck */
      , (1343481713,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343481713,   1, 'Ez Ar P') /* Name */;
+VALUES (1343481713,   1, 'Ez Ar P') /* Name */
+     , (1343481713,  21, 'Adept A C P D') /* MonarchsTitle */
+     , (1343481713,  35, 'Nan-chueh Praze') /* PatronsTitle */
+     , (1343481713,  47, 'A C P D') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343481713,   1,   33561249) /* Setup */
@@ -27,6 +46,12 @@ VALUES (1343481713,   1,   33561249) /* Setup */
      , (1343481713,   3,  536871124) /* SoundTable */
      , (1343481713,   6,   67108990) /* PaletteBase */
      , (1343481713,   8,  100667446) /* Icon */
+     , (1343481713,   9,   83898484) /* EyesTexture */
+     , (1343481713,  10,   83898487) /* NoseTexture */
+     , (1343481713,  11,   83898507) /* MouthTexture */
+     , (1343481713,  15,   67116980) /* HairPalette */
+     , (1343481713,  16,   67116975) /* EyesPalette */
+     , (1343481713,  17,   67116948) /* SkinPalette */
      , (1343481713,  22,  872415435) /* PhysicsEffectTable */
      , (1343481713, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343481713, 8003,   33554460) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable, PkLiteStatus */

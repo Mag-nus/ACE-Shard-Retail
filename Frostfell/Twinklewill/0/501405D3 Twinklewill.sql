@@ -3,11 +3,23 @@ VALUES (1343489491, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343489491,   1,         16) /* ItemType - Creature */
+     , (1343489491,   2,         31) /* CreatureType - Human */
      , (1343489491,   6,        102) /* ItemsCapacity */
      , (1343489491,   7,          7) /* ContainersCapacity */
      , (1343489491,  16,          1) /* ItemUseable - No */
+     , (1343489491,  25,        165) /* Level */
+     , (1343489491,  30,          1) /* AllegianceRank */
+     , (1343489491,  43,          0) /* NumDeaths */
      , (1343489491,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343489491, 113,          1) /* Gender - Male */
+     , (1343489491, 125,     587289) /* Age */
      , (1343489491, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343489491, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343489491, 188,          5) /* HeritageGroup - Shadowbound */
+     , (1343489491, 261,          1) /* CharacterTitleId */
+     , (1343489491, 262,          3) /* NumCharacterTitles */
+     , (1343489491, 313,          1) /* CritRating */
+     , (1343489491, 390,          0) /* Enlightenment */
      , (1343489491, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +31,12 @@ VALUES (1343489491,   1, True ) /* Stuck */
      , (1343489491,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343489491,   1, 'Twinklewill') /* Name */;
+VALUES (1343489491,   1, 'Twinklewill') /* Name */
+     , (1343489491,  10, 'Best lookin toons in Ac') /* Fellowship */
+     , (1343489491,  21, 'Amir Gone''s Mage') /* MonarchsTitle */
+     , (1343489491,  35, 'Baron General Magoo') /* PatronsTitle */
+     , (1343489491,  43, '13 November 2016') /* DateOfBirth */
+     , (1343489491,  47, 'Clan Takada') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343489491,   1,   33561183) /* Setup */
@@ -27,6 +44,12 @@ VALUES (1343489491,   1,   33561183) /* Setup */
      , (1343489491,   3,  536870913) /* SoundTable */
      , (1343489491,   6,   67108990) /* PaletteBase */
      , (1343489491,   8,  100667446) /* Icon */
+     , (1343489491,   9,   83890457) /* EyesTexture */
+     , (1343489491,  10,   83890548) /* NoseTexture */
+     , (1343489491,  11,   83890570) /* MouthTexture */
+     , (1343489491,  15,   67117028) /* HairPalette */
+     , (1343489491,  16,   67116854) /* EyesPalette */
+     , (1343489491,  17,   67116848) /* SkinPalette */
      , (1343489491,  22,  872415433) /* PhysicsEffectTable */
      , (1343489491, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343489491, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

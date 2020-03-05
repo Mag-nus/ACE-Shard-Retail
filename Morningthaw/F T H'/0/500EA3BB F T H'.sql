@@ -6,13 +6,13 @@ VALUES (1343136699,   1,         16) /* ItemType - Creature */
      , (1343136699,   6,        102) /* ItemsCapacity */
      , (1343136699,   7,          7) /* ContainersCapacity */
      , (1343136699,  16,          1) /* ItemUseable - No */
-     , (1343136699,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343136699,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1343136699, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343136699, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1343136699,   1, True ) /* Stuck */
-     , (1343136699,  11, True ) /* IgnoreCollisions */
+     , (1343136699,  12, True ) /* ReportCollisions */
      , (1343136699,  13, False) /* Ethereal */
      , (1343136699,  14, True ) /* GravityStatus */
      , (1343136699,  19, True ) /* Attackable */
@@ -35,11 +35,11 @@ VALUES (1343136699,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343136699, 1, 2863988770, 115.429, 24.03811, 27.905, -0.752241, 0, 0, -0.658888) /* Location */
 /* @teleloc 0xAAB50022 [115.429000 24.038110 27.905000] -0.752241 0.000000 0.000000 -0.658888 */
-     , (1343136699, 8040, 2847146009, 84, 7.1, 94.005, 0.9969173, 0, 0, -0.0784591) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B40019 [84.000000 7.100000 94.005000] 0.996917 0.000000 0.000000 -0.078459 */;
+     , (1343136699, 8040, 2830368829, 185.19, 114.1555, 65.19612, 0.3267669, 0, 0, -0.945105) /* PCAPRecordedLocation */
+/* @teleloc 0xA8B4003D [185.190000 114.155500 65.196120] 0.326767 0.000000 0.000000 -0.945105 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
-VALUES (1343136699,  26, 1342616819) /* Monarch */
+VALUES (1343136699,  26, 1342451060) /* Monarch */
      , (1343136699, 8000, 1343136699) /* PCAPRecordedObjectIID */;
 
 INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)

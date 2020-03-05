@@ -7,14 +7,12 @@ VALUES (1344175037,   1,         16) /* ItemType - Creature */
      , (1344175037,   6,        102) /* ItemsCapacity */
      , (1344175037,   7,          7) /* ContainersCapacity */
      , (1344175037,  16,          1) /* ItemUseable - No */
-     , (1344175037,  25,          6) /* Level */
      , (1344175037,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1344175037, 113,          1) /* Gender - Male */
      , (1344175037, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1344175037, 134,          4) /* PlayerKillerStatus - PK */
      , (1344175037, 188,          3) /* HeritageGroup - Sho */
      , (1344175037, 261,          1) /* CharacterTitleId */
-     , (1344175037, 307,          5) /* DamageRating */
      , (1344175037, 390,          0) /* Enlightenment */
      , (1344175037, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
@@ -27,7 +25,8 @@ VALUES (1344175037,   1, True ) /* Stuck */
      , (1344175037,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1344175037,   1, 'Super Clap') /* Name */;
+VALUES (1344175037,   1, 'Super Clap') /* Name */
+     , (1344175037,  10, 'F everyone Up') /* Fellowship */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1344175037,   1,   33554433) /* Setup */

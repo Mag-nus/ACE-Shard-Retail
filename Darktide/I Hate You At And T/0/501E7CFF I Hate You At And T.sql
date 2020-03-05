@@ -11,7 +11,7 @@ VALUES (1344175359,   1,         16) /* ItemType - Creature */
      , (1344175359,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1344175359, 113,          1) /* Gender - Male */
      , (1344175359, 133,          4) /* ShowableOnRadar - ShowAlways */
-     , (1344175359, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1344175359, 134,          4) /* PlayerKillerStatus - PK */
      , (1344175359, 188,          1) /* HeritageGroup - Aluvian */
      , (1344175359, 261,          1) /* CharacterTitleId */
      , (1344175359, 307,          5) /* DamageRating */

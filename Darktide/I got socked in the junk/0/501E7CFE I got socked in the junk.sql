@@ -7,7 +7,8 @@ VALUES (1344175358,   1,         16) /* ItemType - Creature */
      , (1344175358,   6,        102) /* ItemsCapacity */
      , (1344175358,   7,          7) /* ContainersCapacity */
      , (1344175358,  16,          1) /* ItemUseable - No */
-     , (1344175358,  25,          7) /* Level */
+     , (1344175358,  25,          9) /* Level */
+     , (1344175358,  30,          1) /* AllegianceRank */
      , (1344175358,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1344175358, 113,          1) /* Gender - Male */
      , (1344175358, 133,          4) /* ShowableOnRadar - ShowAlways */
@@ -27,7 +28,9 @@ VALUES (1344175358,   1, True ) /* Stuck */
      , (1344175358,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1344175358,   1, 'I got socked in the junk') /* Name */;
+VALUES (1344175358,   1, 'I got socked in the junk') /* Name */
+     , (1344175358,  21, 'Nan-chueh Shojin-ri') /* MonarchsTitle */
+     , (1344175358,  35, 'Jo-chueh Olthoi Pest Patrol') /* PatronsTitle */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1344175358,   1,   33554433) /* Setup */
@@ -49,8 +52,8 @@ VALUES (1344175358,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1344175358, 1, 3663003676, 84.4686, 93.62093, 20.005, -0.9998365, 0, 0, -0.01808298) /* Location */
 /* @teleloc 0xDA55001C [84.468600 93.620930 20.005000] -0.999837 0.000000 0.000000 -0.018083 */
-     , (1344175358, 8040, 3663003676, 77.5364, 84.20461, 20.005, -0.6381658, 0, 0, -0.769899) /* PCAPRecordedLocation */
-/* @teleloc 0xDA55001C [77.536400 84.204610 20.005000] -0.638166 0.000000 0.000000 -0.769899 */;
+     , (1344175358, 8040, 3663003676, 79.25929, 79.90234, 20.005, -0.1325408, 0, 0, -0.9911776) /* PCAPRecordedLocation */
+/* @teleloc 0xDA55001C [79.259290 79.902340 20.005000] -0.132541 0.000000 0.000000 -0.991178 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1344175358,  26, 1344026664) /* Monarch */

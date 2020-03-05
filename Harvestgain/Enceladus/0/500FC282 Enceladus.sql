@@ -3,11 +3,25 @@ VALUES (1343210114, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343210114,   1,         16) /* ItemType - Creature */
+     , (1343210114,   2,         31) /* CreatureType - Human */
      , (1343210114,   6,        102) /* ItemsCapacity */
      , (1343210114,   7,          7) /* ContainersCapacity */
      , (1343210114,  16,          1) /* ItemUseable - No */
+     , (1343210114,  25,        275) /* Level */
+     , (1343210114,  30,          2) /* AllegianceRank */
      , (1343210114,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343210114, 113,          2) /* Gender - Female */
      , (1343210114, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343210114, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343210114, 188,          1) /* HeritageGroup - Aluvian */
+     , (1343210114, 261,          1) /* CharacterTitleId */
+     , (1343210114, 281,          1) /* Faction1Bits */
+     , (1343210114, 287,        200) /* SocietyRankCelhan */
+     , (1343210114, 307,          7) /* DamageRating */
+     , (1343210114, 308,         24) /* DamageResistRating */
+     , (1343210114, 316,          5) /* CritDamageResistRating */
+     , (1343210114, 323,          3) /* HealingBoostRating */
+     , (1343210114, 390,          0) /* Enlightenment */
      , (1343210114, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +33,10 @@ VALUES (1343210114,   1, True ) /* Stuck */
      , (1343210114,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343210114,   1, 'Enceladus') /* Name */;
+VALUES (1343210114,   1, 'Enceladus') /* Name */
+     , (1343210114,  21, 'Sultana Lan''fear') /* MonarchsTitle */
+     , (1343210114,  35, 'Lieutenant Feldwyke') /* PatronsTitle */
+     , (1343210114,  47, 'Damage Inc') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343210114,   1,   33554510) /* Setup */
@@ -27,6 +44,12 @@ VALUES (1343210114,   1,   33554510) /* Setup */
      , (1343210114,   3,  536870914) /* SoundTable */
      , (1343210114,   6,   67108990) /* PaletteBase */
      , (1343210114,   8,  100667446) /* Icon */
+     , (1343210114,   9,   83890259) /* EyesTexture */
+     , (1343210114,  10,   83890286) /* NoseTexture */
+     , (1343210114,  11,   83890326) /* MouthTexture */
+     , (1343210114,  15,   67117079) /* HairPalette */
+     , (1343210114,  16,   67110064) /* EyesPalette */
+     , (1343210114,  17,   67109559) /* SkinPalette */
      , (1343210114,  22,  872415236) /* PhysicsEffectTable */
      , (1343210114, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343210114, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

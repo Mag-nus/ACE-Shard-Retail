@@ -8,9 +8,9 @@ VALUES (1343544542,   1,         16) /* ItemType - Creature */
      , (1343544542,   7,          8) /* ContainersCapacity */
      , (1343544542,  16,          1) /* ItemUseable - No */
      , (1343544542,  30,          1) /* AllegianceRank */
-     , (1343544542,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343544542,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1343544542, 113,          2) /* Gender - Female */
-     , (1343544542, 125,    8681357) /* Age */
+     , (1343544542, 125,    8688202) /* Age */
      , (1343544542, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343544542, 134,          4) /* PlayerKillerStatus - PK */
      , (1343544542, 188,          3) /* HeritageGroup - Sho */
@@ -20,7 +20,7 @@ VALUES (1343544542,   1,         16) /* ItemType - Creature */
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1343544542,   1, True ) /* Stuck */
-     , (1343544542,  11, True ) /* IgnoreCollisions */
+     , (1343544542,  12, True ) /* ReportCollisions */
      , (1343544542,  13, False) /* Ethereal */
      , (1343544542,  14, True ) /* GravityStatus */
      , (1343544542,  19, True ) /* Attackable */
@@ -52,8 +52,8 @@ VALUES (1343544542,   1,   33554510) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343544542, 1, 1060110344, 1.107178, 188.9099, 2.288057, 0.9998331, 0, 0, -0.01826898) /* Location */
 /* @teleloc 0x3F300008 [1.107178 188.909900 2.288057] 0.999833 0.000000 0.000000 -0.018269 */
-     , (1343544542, 8040, 3332964361, 46.805, 4.219, 42.005, 1, 0, 0, 0) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A90009 [46.805000 4.219000 42.005000] 1.000000 0.000000 0.000000 0.000000 */;
+     , (1343544542, 8040, 3370713122, 114.7912, 28.42738, 0.004999977, -0.04918569, 0, 0, -0.9987897) /* PCAPRecordedLocation */
+/* @teleloc 0xC8E90022 [114.791200 28.427380 0.005000] -0.049186 0.000000 0.000000 -0.998790 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343544542,  26, 1343283172) /* Monarch */

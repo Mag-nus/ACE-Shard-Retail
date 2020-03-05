@@ -3,11 +3,28 @@ VALUES (1343298014, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343298014,   1,         16) /* ItemType - Creature */
+     , (1343298014,   2,         31) /* CreatureType - Human */
      , (1343298014,   6,        102) /* ItemsCapacity */
      , (1343298014,   7,          7) /* ContainersCapacity */
      , (1343298014,  16,          1) /* ItemUseable - No */
+     , (1343298014,  25,        275) /* Level */
+     , (1343298014,  30,          2) /* AllegianceRank */
+     , (1343298014,  35,          9) /* AllegianceFollowers */
+     , (1343298014,  43,        113) /* NumDeaths */
      , (1343298014,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343298014, 113,          2) /* Gender - Female */
+     , (1343298014, 125,    4359949) /* Age */
      , (1343298014, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343298014, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343298014, 188,          3) /* HeritageGroup - Sho */
+     , (1343298014, 261,        646) /* CharacterTitleId */
+     , (1343298014, 262,         17) /* NumCharacterTitles */
+     , (1343298014, 307,         22) /* DamageRating */
+     , (1343298014, 308,         11) /* DamageResistRating */
+     , (1343298014, 313,          1) /* CritRating */
+     , (1343298014, 314,          8) /* CritDamageRating */
+     , (1343298014, 316,          5) /* CritDamageResistRating */
+     , (1343298014, 390,          0) /* Enlightenment */
      , (1343298014, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +36,9 @@ VALUES (1343298014,   1, True ) /* Stuck */
      , (1343298014,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343298014,   1, 'Tenra') /* Name */;
+VALUES (1343298014,   1, 'Tenra') /* Name */
+     , (1343298014,  43, '06 March 2010') /* DateOfBirth */
+     , (1343298014,  47, 'Team Tenra') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343298014,   1,   33554510) /* Setup */
@@ -27,6 +46,12 @@ VALUES (1343298014,   1,   33554510) /* Setup */
      , (1343298014,   3,  536870914) /* SoundTable */
      , (1343298014,   6,   67108990) /* PaletteBase */
      , (1343298014,   8,  100667446) /* Icon */
+     , (1343298014,   9,   83890236) /* EyesTexture */
+     , (1343298014,  10,   83890300) /* NoseTexture */
+     , (1343298014,  11,   83890330) /* MouthTexture */
+     , (1343298014,  15,   67116859) /* HairPalette */
+     , (1343298014,  16,   67109565) /* EyesPalette */
+     , (1343298014,  17,   67110054) /* SkinPalette */
      , (1343298014,  22,  872415236) /* PhysicsEffectTable */
      , (1343298014, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343298014, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
@@ -35,8 +60,8 @@ VALUES (1343298014,   1,   33554510) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343298014, 1, 3583574079, 187.5768, 160.481, 374.005, -0.5180696, 0, 0, -0.8553385) /* Location */
 /* @teleloc 0xD599003F [187.576800 160.481000 374.005000] -0.518070 0.000000 0.000000 -0.855339 */
-     , (1343298014, 8040, 3583574079, 183.9869, 161.8287, 374.005, 0.6431607, 0, 0, -0.7657312) /* PCAPRecordedLocation */
-/* @teleloc 0xD599003F [183.986900 161.828700 374.005000] 0.643161 0.000000 0.000000 -0.765731 */;
+     , (1343298014, 8040, 3583574079, 187.5768, 160.481, 374.005, 0.6958426, 0, 0, 0.7181943) /* PCAPRecordedLocation */
+/* @teleloc 0xD599003F [187.576800 160.481000 374.005000] 0.695843 0.000000 0.000000 0.718194 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343298014,  26, 1343298014) /* Monarch */

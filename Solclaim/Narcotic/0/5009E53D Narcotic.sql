@@ -3,11 +3,27 @@ VALUES (1342825789, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342825789,   1,         16) /* ItemType - Creature */
+     , (1342825789,   2,         31) /* CreatureType - Human */
      , (1342825789,   6,        102) /* ItemsCapacity */
      , (1342825789,   7,          8) /* ContainersCapacity */
      , (1342825789,  16,          1) /* ItemUseable - No */
+     , (1342825789,  25,        275) /* Level */
+     , (1342825789,  30,          6) /* AllegianceRank */
+     , (1342825789,  43,       1678) /* NumDeaths */
      , (1342825789,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342825789, 113,          1) /* Gender - Male */
      , (1342825789, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342825789, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342825789, 188,          2) /* HeritageGroup - Gharundim */
+     , (1342825789, 261,         90) /* CharacterTitleId */
+     , (1342825789, 281,          2) /* Faction1Bits */
+     , (1342825789, 288,         95) /* SocietyRankEldweb */
+     , (1342825789, 307,         11) /* DamageRating */
+     , (1342825789, 314,          1) /* CritDamageRating */
+     , (1342825789, 316,          1) /* CritDamageResistRating */
+     , (1342825789, 323,          9) /* HealingBoostRating */
+     , (1342825789, 350,         32) /* DotResistRating */
+     , (1342825789, 390,          0) /* Enlightenment */
      , (1342825789, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +35,11 @@ VALUES (1342825789,   1, True ) /* Stuck */
      , (1342825789,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342825789,   1, 'Narcotic') /* Name */;
+VALUES (1342825789,   1, 'Narcotic') /* Name */
+     , (1342825789,  21, 'Kun-chueh Dejavue') /* MonarchsTitle */
+     , (1342825789,  35, 'Kun-chueh John Fogerty') /* PatronsTitle */
+     , (1342825789,  43, '09 May 2002') /* DateOfBirth */
+     , (1342825789,  47, 'Come Honor Face') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342825789,   1,   33554433) /* Setup */
@@ -27,6 +47,12 @@ VALUES (1342825789,   1,   33554433) /* Setup */
      , (1342825789,   3,  536870913) /* SoundTable */
      , (1342825789,   6,   67108990) /* PaletteBase */
      , (1342825789,   8,  100667446) /* Icon */
+     , (1342825789,   9,   83890470) /* EyesTexture */
+     , (1342825789,  10,   83890534) /* NoseTexture */
+     , (1342825789,  11,   83890563) /* MouthTexture */
+     , (1342825789,  15,   67116990) /* HairPalette */
+     , (1342825789,  16,   67110063) /* EyesPalette */
+     , (1342825789,  17,   67109550) /* SkinPalette */
      , (1342825789,  22,  872415236) /* PhysicsEffectTable */
      , (1342825789, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342825789, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

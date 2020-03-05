@@ -3,11 +3,24 @@ VALUES (1342182527, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342182527,   1,         16) /* ItemType - Creature */
+     , (1342182527,   2,         31) /* CreatureType - Human */
      , (1342182527,   6,        102) /* ItemsCapacity */
      , (1342182527,   7,          7) /* ContainersCapacity */
      , (1342182527,  16,          1) /* ItemUseable - No */
+     , (1342182527,  25,        228) /* Level */
+     , (1342182527,  30,          4) /* AllegianceRank */
+     , (1342182527,  43,        614) /* NumDeaths */
      , (1342182527,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342182527, 113,          1) /* Gender - Male */
+     , (1342182527, 125,   12373667) /* Age */
      , (1342182527, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342182527, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342182527, 188,          3) /* HeritageGroup - Sho */
+     , (1342182527, 261,        100) /* CharacterTitleId */
+     , (1342182527, 308,         15) /* DamageResistRating */
+     , (1342182527, 314,          3) /* CritDamageRating */
+     , (1342182527, 316,          1) /* CritDamageResistRating */
+     , (1342182527, 390,          0) /* Enlightenment */
      , (1342182527, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +32,11 @@ VALUES (1342182527,   1, True ) /* Stuck */
      , (1342182527,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342182527,   1, 'Tsuyokute Jozu') /* Name */;
+VALUES (1342182527,   1, 'Tsuyokute Jozu') /* Name */
+     , (1342182527,  21, 'Aetheling Angeni') /* MonarchsTitle */
+     , (1342182527,  35, 'Reeve Daal op Owen') /* PatronsTitle */
+     , (1342182527,  43, '04 November 1999') /* DateOfBirth */
+     , (1342182527,  47, 'Guardians of Hope') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342182527,   1,   33554433) /* Setup */
@@ -27,6 +44,12 @@ VALUES (1342182527,   1,   33554433) /* Setup */
      , (1342182527,   3,  536870913) /* SoundTable */
      , (1342182527,   6,   67108990) /* PaletteBase */
      , (1342182527,   8,  100667446) /* Icon */
+     , (1342182527,   9,   83890488) /* EyesTexture */
+     , (1342182527,  10,   83890517) /* NoseTexture */
+     , (1342182527,  11,   83890628) /* MouthTexture */
+     , (1342182527,  15,   67117024) /* HairPalette */
+     , (1342182527,  16,   67109565) /* EyesPalette */
+     , (1342182527,  17,   67110054) /* SkinPalette */
      , (1342182527,  22,  872415236) /* PhysicsEffectTable */
      , (1342182527, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342182527, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

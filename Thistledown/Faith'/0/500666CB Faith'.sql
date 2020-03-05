@@ -3,11 +3,21 @@ VALUES (1342596811, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342596811,   1,         16) /* ItemType - Creature */
+     , (1342596811,   2,         31) /* CreatureType - Human */
      , (1342596811,   6,        102) /* ItemsCapacity */
      , (1342596811,   7,          7) /* ContainersCapacity */
      , (1342596811,  16,          1) /* ItemUseable - No */
+     , (1342596811,  25,        171) /* Level */
+     , (1342596811,  30,          3) /* AllegianceRank */
+     , (1342596811,  43,        602) /* NumDeaths */
      , (1342596811,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1342596811, 113,          2) /* Gender - Female */
+     , (1342596811, 125,   29534874) /* Age */
      , (1342596811, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342596811, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342596811, 188,          1) /* HeritageGroup - Aluvian */
+     , (1342596811, 261,        110) /* CharacterTitleId */
+     , (1342596811, 390,          0) /* Enlightenment */
      , (1342596811, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +29,12 @@ VALUES (1342596811,   1, True ) /* Stuck */
      , (1342596811,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342596811,   1, 'Faith''') /* Name */;
+VALUES (1342596811,   1, 'Faith''') /* Name */
+     , (1342596811,  10, 'Noobs') /* Fellowship */
+     , (1342596811,  21, 'Malik Tao Roo Chingon II') /* MonarchsTitle */
+     , (1342596811,  35, 'Baron Lor ted') /* PatronsTitle */
+     , (1342596811,  43, '26 December 2000') /* DateOfBirth */
+     , (1342596811,  47, 'The Spirits of the Mountain') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342596811,   1,   33554510) /* Setup */
@@ -27,6 +42,12 @@ VALUES (1342596811,   1,   33554510) /* Setup */
      , (1342596811,   3,  536870914) /* SoundTable */
      , (1342596811,   6,   67108990) /* PaletteBase */
      , (1342596811,   8,  100667446) /* Icon */
+     , (1342596811,   9,   83890263) /* EyesTexture */
+     , (1342596811,  10,   83890287) /* NoseTexture */
+     , (1342596811,  11,   83890339) /* MouthTexture */
+     , (1342596811,  15,   67109638) /* HairPalette */
+     , (1342596811,  16,   67109565) /* EyesPalette */
+     , (1342596811,  17,   67109560) /* SkinPalette */
      , (1342596811,  22,  872415236) /* PhysicsEffectTable */
      , (1342596811, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342596811, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

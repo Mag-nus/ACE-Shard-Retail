@@ -3,11 +3,29 @@ VALUES (1343155399, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343155399,   1,         16) /* ItemType - Creature */
+     , (1343155399,   2,         31) /* CreatureType - Human */
      , (1343155399,   6,        102) /* ItemsCapacity */
      , (1343155399,   7,          8) /* ContainersCapacity */
      , (1343155399,  16,          1) /* ItemUseable - No */
+     , (1343155399,  25,        275) /* Level */
+     , (1343155399,  30,          3) /* AllegianceRank */
      , (1343155399,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343155399, 113,          1) /* Gender - Male */
      , (1343155399, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343155399, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343155399, 188,          5) /* HeritageGroup - Shadowbound */
+     , (1343155399, 261,          1) /* CharacterTitleId */
+     , (1343155399, 281,          1) /* Faction1Bits */
+     , (1343155399, 287,       1001) /* SocietyRankCelhan */
+     , (1343155399, 307,         14) /* DamageRating */
+     , (1343155399, 308,         15) /* DamageResistRating */
+     , (1343155399, 313,          1) /* CritRating */
+     , (1343155399, 314,          8) /* CritDamageRating */
+     , (1343155399, 316,          6) /* CritDamageResistRating */
+     , (1343155399, 323,          9) /* HealingBoostRating */
+     , (1343155399, 350,         16) /* DotResistRating */
+     , (1343155399, 351,         28) /* LifeResistRating */
+     , (1343155399, 390,          0) /* Enlightenment */
      , (1343155399, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +37,11 @@ VALUES (1343155399,   1, True ) /* Stuck */
      , (1343155399,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343155399,   1, 'Mystical Being') /* Name */;
+VALUES (1343155399,   1, 'Mystical Being') /* Name */
+     , (1343155399,  10, 'Mooooooooooooooooooooooooooo') /* Fellowship */
+     , (1343155399,  21, 'Mushir Deadly Warlock') /* MonarchsTitle */
+     , (1343155399,  35, 'Maulana Aleira The Tiger') /* PatronsTitle */
+     , (1343155399,  47, 'Keepers of Dereth') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343155399,   1,   33560943) /* Setup */
@@ -27,6 +49,12 @@ VALUES (1343155399,   1,   33560943) /* Setup */
      , (1343155399,   3,  536870913) /* SoundTable */
      , (1343155399,   6,   67108990) /* PaletteBase */
      , (1343155399,   8,  100667446) /* Icon */
+     , (1343155399,   9,   83890485) /* EyesTexture */
+     , (1343155399,  10,   83890551) /* NoseTexture */
+     , (1343155399,  11,   83890570) /* MouthTexture */
+     , (1343155399,  15,   67117055) /* HairPalette */
+     , (1343155399,  16,   67116858) /* EyesPalette */
+     , (1343155399,  17,   67116849) /* SkinPalette */
      , (1343155399,  22,  872415433) /* PhysicsEffectTable */
      , (1343155399, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343155399, 8003,   33554460) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable, PkLiteStatus */

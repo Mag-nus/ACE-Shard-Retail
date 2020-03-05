@@ -3,11 +3,22 @@ VALUES (1342610830, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342610830,   1,         16) /* ItemType - Creature */
+     , (1342610830,   2,         31) /* CreatureType - Human */
      , (1342610830,   6,        102) /* ItemsCapacity */
      , (1342610830,   7,          7) /* ContainersCapacity */
      , (1342610830,  16,          1) /* ItemUseable - No */
+     , (1342610830,  25,         92) /* Level */
+     , (1342610830,  43,        444) /* NumDeaths */
      , (1342610830,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1342610830, 113,          2) /* Gender - Female */
+     , (1342610830, 125,    8655788) /* Age */
      , (1342610830, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342610830, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342610830, 188,          2) /* HeritageGroup - Gharundim */
+     , (1342610830, 192,         79) /* FakeFishingSkill */
+     , (1342610830, 261,         76) /* CharacterTitleId */
+     , (1342610830, 307,          5) /* DamageRating */
+     , (1342610830, 390,          0) /* Enlightenment */
      , (1342610830, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +30,8 @@ VALUES (1342610830,   1, True ) /* Stuck */
      , (1342610830,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342610830,   1, 'Tarnia Verdre') /* Name */;
+VALUES (1342610830,   1, 'Tarnia Verdre') /* Name */
+     , (1342610830,  43, '09 January 2001') /* DateOfBirth */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342610830,   1,   33554510) /* Setup */
@@ -27,6 +39,12 @@ VALUES (1342610830,   1,   33554510) /* Setup */
      , (1342610830,   3,  536870914) /* SoundTable */
      , (1342610830,   6,   67108990) /* PaletteBase */
      , (1342610830,   8,  100667446) /* Icon */
+     , (1342610830,   9,   83890264) /* EyesTexture */
+     , (1342610830,  10,   83890296) /* NoseTexture */
+     , (1342610830,  11,   83890356) /* MouthTexture */
+     , (1342610830,  15,   67109633) /* HairPalette */
+     , (1342610830,  16,   67110063) /* EyesPalette */
+     , (1342610830,  17,   67109557) /* SkinPalette */
      , (1342610830,  22,  872415236) /* PhysicsEffectTable */
      , (1342610830, 8001,    8388630) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, RadarBehavior */
      , (1342610830, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

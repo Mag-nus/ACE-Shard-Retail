@@ -3,11 +3,18 @@ VALUES (1344174921, 1, 10, 6738241) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1344174921,   1,         16) /* ItemType - Creature */
+     , (1344174921,   2,         31) /* CreatureType - Human */
      , (1344174921,   6,        102) /* ItemsCapacity */
      , (1344174921,   7,          7) /* ContainersCapacity */
      , (1344174921,  16,          1) /* ItemUseable - No */
+     , (1344174921,  30,          1) /* AllegianceRank */
      , (1344174921,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1344174921, 113,          1) /* Gender - Male */
      , (1344174921, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1344174921, 134,          4) /* PlayerKillerStatus - PK */
+     , (1344174921, 188,          6) /* HeritageGroup - Gearknight */
+     , (1344174921, 261,          1) /* CharacterTitleId */
+     , (1344174921, 390,          0) /* Enlightenment */
      , (1344174921, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -22,7 +29,11 @@ INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (1344174921,  39, 1.20000004768372) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1344174921,   1, 'Have a Go Hero') /* Name */;
+VALUES (1344174921,   1, 'Have a Go Hero') /* Name */
+     , (1344174921,  10, 'Noobs on tour') /* Fellowship */
+     , (1344174921,  21, 'Archduke Fright Night') /* MonarchsTitle */
+     , (1344174921,  35, 'Shade Ghost Of Sinister') /* PatronsTitle */
+     , (1344174921,  47, 'Bright Eyes') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1344174921,   1,   33560839) /* Setup */
@@ -30,6 +41,12 @@ VALUES (1344174921,   1,   33560839) /* Setup */
      , (1344174921,   3,  536871123) /* SoundTable */
      , (1344174921,   6,   67108990) /* PaletteBase */
      , (1344174921,   8,  100667446) /* Icon */
+     , (1344174921,   9,   83891927) /* EyesTexture */
+     , (1344174921,  10,   83891927) /* NoseTexture */
+     , (1344174921,  11,   83891927) /* MouthTexture */
+     , (1344174921,  15,   67116904) /* HairPalette */
+     , (1344174921,  16,   67116915) /* EyesPalette */
+     , (1344174921,  17,   67116895) /* SkinPalette */
      , (1344174921,  22,  872415434) /* PhysicsEffectTable */
      , (1344174921, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1344174921, 8003,         60) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable, PlayerKiller */

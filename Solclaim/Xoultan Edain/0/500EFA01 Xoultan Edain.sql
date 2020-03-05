@@ -3,11 +3,19 @@ VALUES (1343158785, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343158785,   1,         16) /* ItemType - Creature */
+     , (1343158785,   2,         31) /* CreatureType - Human */
      , (1343158785,   6,        102) /* ItemsCapacity */
      , (1343158785,   7,          8) /* ContainersCapacity */
      , (1343158785,  16,          1) /* ItemUseable - No */
+     , (1343158785,  25,        275) /* Level */
+     , (1343158785,  30,          6) /* AllegianceRank */
      , (1343158785,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343158785, 113,          1) /* Gender - Male */
      , (1343158785, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343158785, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343158785, 188,          2) /* HeritageGroup - Gharundim */
+     , (1343158785, 261,        773) /* CharacterTitleId */
+     , (1343158785, 390,          0) /* Enlightenment */
      , (1343158785, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +27,9 @@ VALUES (1343158785,   1, True ) /* Stuck */
      , (1343158785,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343158785,   1, 'Xoultan Edain') /* Name */;
+VALUES (1343158785,   1, 'Xoultan Edain') /* Name */
+     , (1343158785,  21, 'Ealdor Squire John') /* MonarchsTitle */
+     , (1343158785,  35, 'Kun-chueh Magge Edain') /* PatronsTitle */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343158785,   1,   33554433) /* Setup */
@@ -27,6 +37,12 @@ VALUES (1343158785,   1,   33554433) /* Setup */
      , (1343158785,   3,  536870913) /* SoundTable */
      , (1343158785,   6,   67108990) /* PaletteBase */
      , (1343158785,   8,  100667446) /* Icon */
+     , (1343158785,   9,   83890457) /* EyesTexture */
+     , (1343158785,  10,   83890531) /* NoseTexture */
+     , (1343158785,  11,   83890659) /* MouthTexture */
+     , (1343158785,  15,   67117071) /* HairPalette */
+     , (1343158785,  16,   67110062) /* EyesPalette */
+     , (1343158785,  17,   67109556) /* SkinPalette */
      , (1343158785,  22,  872415236) /* PhysicsEffectTable */
      , (1343158785, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343158785, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

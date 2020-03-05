@@ -3,11 +3,29 @@ VALUES (1343159300, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343159300,   1,         16) /* ItemType - Creature */
+     , (1343159300,   2,         31) /* CreatureType - Human */
      , (1343159300,   6,        102) /* ItemsCapacity */
      , (1343159300,   7,          8) /* ContainersCapacity */
      , (1343159300,  16,          1) /* ItemUseable - No */
+     , (1343159300,  25,        275) /* Level */
+     , (1343159300,  30,          3) /* AllegianceRank */
      , (1343159300,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343159300, 113,          1) /* Gender - Male */
+     , (1343159300, 125,    6126505) /* Age */
      , (1343159300, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343159300, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343159300, 188,          1) /* HeritageGroup - Aluvian */
+     , (1343159300, 192,         16) /* FakeFishingSkill */
+     , (1343159300, 261,        583) /* CharacterTitleId */
+     , (1343159300, 262,         90) /* NumCharacterTitles */
+     , (1343159300, 281,          2) /* Faction1Bits */
+     , (1343159300, 288,       1001) /* SocietyRankEldweb */
+     , (1343159300, 307,         17) /* DamageRating */
+     , (1343159300, 308,          5) /* DamageResistRating */
+     , (1343159300, 313,          1) /* CritRating */
+     , (1343159300, 314,          3) /* CritDamageRating */
+     , (1343159300, 316,          2) /* CritDamageResistRating */
+     , (1343159300, 390,          0) /* Enlightenment */
      , (1343159300, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +37,11 @@ VALUES (1343159300,   1, True ) /* Stuck */
      , (1343159300,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343159300,   1, 'Biggie-Smallz') /* Name */;
+VALUES (1343159300,   1, 'Biggie-Smallz') /* Name */
+     , (1343159300,  21, 'Taikou Wysteria Witchblade') /* MonarchsTitle */
+     , (1343159300,  35, 'Void Lord The Great Mage') /* PatronsTitle */
+     , (1343159300,  43, '11 February 2009') /* DateOfBirth */
+     , (1343159300,  47, 'Knights of Honor') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343159300,   1,   33554433) /* Setup */
@@ -27,6 +49,12 @@ VALUES (1343159300,   1,   33554433) /* Setup */
      , (1343159300,   3,  536870913) /* SoundTable */
      , (1343159300,   6,   67108990) /* PaletteBase */
      , (1343159300,   8,  100667446) /* Icon */
+     , (1343159300,   9,   83890448) /* EyesTexture */
+     , (1343159300,  10,   83890562) /* NoseTexture */
+     , (1343159300,  11,   83890628) /* MouthTexture */
+     , (1343159300,  15,   67117016) /* HairPalette */
+     , (1343159300,  16,   67110064) /* EyesPalette */
+     , (1343159300,  17,   67109558) /* SkinPalette */
      , (1343159300,  22,  872415236) /* PhysicsEffectTable */
      , (1343159300, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343159300, 8003,   33554460) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable, PkLiteStatus */

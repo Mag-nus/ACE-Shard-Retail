@@ -3,11 +3,29 @@ VALUES (1342290210, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342290210,   1,         16) /* ItemType - Creature */
+     , (1342290210,   2,         31) /* CreatureType - Human */
      , (1342290210,   6,        102) /* ItemsCapacity */
      , (1342290210,   7,          8) /* ContainersCapacity */
      , (1342290210,  16,          1) /* ItemUseable - No */
+     , (1342290210,  25,        275) /* Level */
+     , (1342290210,  30,          5) /* AllegianceRank */
+     , (1342290210,  43,       1766) /* NumDeaths */
      , (1342290210,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342290210, 113,          1) /* Gender - Male */
+     , (1342290210, 125,   28555522) /* Age */
      , (1342290210, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342290210, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342290210, 188,          1) /* HeritageGroup - Aluvian */
+     , (1342290210, 261,          6) /* CharacterTitleId */
+     , (1342290210, 262,         68) /* NumCharacterTitles */
+     , (1342290210, 281,          1) /* Faction1Bits */
+     , (1342290210, 287,       1001) /* SocietyRankCelhan */
+     , (1342290210, 307,         28) /* DamageRating */
+     , (1342290210, 308,         18) /* DamageResistRating */
+     , (1342290210, 313,          1) /* CritRating */
+     , (1342290210, 314,         12) /* CritDamageRating */
+     , (1342290210, 316,          5) /* CritDamageResistRating */
+     , (1342290210, 390,          0) /* Enlightenment */
      , (1342290210, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +37,11 @@ VALUES (1342290210,   1, True ) /* Stuck */
      , (1342290210,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342290210,   1, 'Averoth') /* Name */;
+VALUES (1342290210,   1, 'Averoth') /* Name */
+     , (1342290210,  21, 'King Paul Mua''dib') /* MonarchsTitle */
+     , (1342290210,  35, 'Kun-chueh Rumplestiltskender') /* PatronsTitle */
+     , (1342290210,  43, '23 January 2000') /* DateOfBirth */
+     , (1342290210,  47, 'Archangels of Armageddon') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342290210,   1,   33554433) /* Setup */
@@ -27,6 +49,12 @@ VALUES (1342290210,   1,   33554433) /* Setup */
      , (1342290210,   3,  536870913) /* SoundTable */
      , (1342290210,   6,   67108990) /* PaletteBase */
      , (1342290210,   8,  100667446) /* Icon */
+     , (1342290210,   9,   83890516) /* EyesTexture */
+     , (1342290210,  10,   83890546) /* NoseTexture */
+     , (1342290210,  11,   83890659) /* MouthTexture */
+     , (1342290210,  15,   67109625) /* HairPalette */
+     , (1342290210,  16,   67109566) /* EyesPalette */
+     , (1342290210,  17,   67109560) /* SkinPalette */
      , (1342290210,  22,  872415236) /* PhysicsEffectTable */
      , (1342290210, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342290210, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

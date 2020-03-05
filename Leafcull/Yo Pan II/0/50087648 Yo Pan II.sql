@@ -3,11 +3,28 @@ VALUES (1342731848, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342731848,   1,         16) /* ItemType - Creature */
+     , (1342731848,   2,         31) /* CreatureType - Human */
      , (1342731848,   6,        102) /* ItemsCapacity */
      , (1342731848,   7,          8) /* ContainersCapacity */
      , (1342731848,  16,          1) /* ItemUseable - No */
+     , (1342731848,  25,        275) /* Level */
+     , (1342731848,  30,          7) /* AllegianceRank */
      , (1342731848,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342731848, 113,          1) /* Gender - Male */
      , (1342731848, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342731848, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342731848, 188,          1) /* HeritageGroup - Aluvian */
+     , (1342731848, 261,        100) /* CharacterTitleId */
+     , (1342731848, 262,        112) /* NumCharacterTitles */
+     , (1342731848, 281,          1) /* Faction1Bits */
+     , (1342731848, 287,       1001) /* SocietyRankCelhan */
+     , (1342731848, 307,         47) /* DamageRating */
+     , (1342731848, 308,         19) /* DamageResistRating */
+     , (1342731848, 313,          1) /* CritRating */
+     , (1342731848, 314,         18) /* CritDamageRating */
+     , (1342731848, 316,          8) /* CritDamageResistRating */
+     , (1342731848, 323,         10) /* HealingBoostRating */
+     , (1342731848, 390,          0) /* Enlightenment */
      , (1342731848, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +36,11 @@ VALUES (1342731848,   1, True ) /* Stuck */
      , (1342731848,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342731848,   1, 'Yo Pan II') /* Name */;
+VALUES (1342731848,   1, 'Yo Pan II') /* Name */
+     , (1342731848,  21, 'Kou Tabu') /* MonarchsTitle */
+     , (1342731848,  35, 'Consul Bowzwer') /* PatronsTitle */
+     , (1342731848,  43, '25 July 2001') /* DateOfBirth */
+     , (1342731848,  47, 'Pink Hat Society') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342731848,   1,   33554433) /* Setup */
@@ -27,6 +48,12 @@ VALUES (1342731848,   1,   33554433) /* Setup */
      , (1342731848,   3,  536870913) /* SoundTable */
      , (1342731848,   6,   67108990) /* PaletteBase */
      , (1342731848,   8,  100667446) /* Icon */
+     , (1342731848,   9,   83890506) /* EyesTexture */
+     , (1342731848,  10,   83890560) /* NoseTexture */
+     , (1342731848,  11,   83890638) /* MouthTexture */
+     , (1342731848,  15,   67109633) /* HairPalette */
+     , (1342731848,  16,   67109564) /* EyesPalette */
+     , (1342731848,  17,   67109562) /* SkinPalette */
      , (1342731848,  22,  872415236) /* PhysicsEffectTable */
      , (1342731848, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342731848, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

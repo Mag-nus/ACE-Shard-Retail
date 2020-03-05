@@ -3,11 +3,29 @@ VALUES (1343196832, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343196832,   1,         16) /* ItemType - Creature */
+     , (1343196832,   2,         31) /* CreatureType - Human */
      , (1343196832,   6,        102) /* ItemsCapacity */
      , (1343196832,   7,          7) /* ContainersCapacity */
      , (1343196832,  16,          1) /* ItemUseable - No */
+     , (1343196832,  25,        275) /* Level */
+     , (1343196832,  30,          7) /* AllegianceRank */
      , (1343196832,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343196832, 113,          1) /* Gender - Male */
      , (1343196832, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343196832, 134,         64) /* PlayerKillerStatus - PKLite */
+     , (1343196832, 188,         11) /* HeritageGroup - Undead */
+     , (1343196832, 261,        830) /* CharacterTitleId */
+     , (1343196832, 281,          4) /* Faction1Bits */
+     , (1343196832, 289,       1001) /* SocietyRankRadblo */
+     , (1343196832, 307,         26) /* DamageRating */
+     , (1343196832, 308,         31) /* DamageResistRating */
+     , (1343196832, 313,          1) /* CritRating */
+     , (1343196832, 314,         14) /* CritDamageRating */
+     , (1343196832, 316,          5) /* CritDamageResistRating */
+     , (1343196832, 323,          5) /* HealingBoostRating */
+     , (1343196832, 381,          2) /* PKDamageRating */
+     , (1343196832, 382,          1) /* PKDamageResistRating */
+     , (1343196832, 390,          0) /* Enlightenment */
      , (1343196832, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +37,10 @@ VALUES (1343196832,   1, True ) /* Stuck */
      , (1343196832,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343196832,   1, 'N''Sane') /* Name */;
+VALUES (1343196832,   1, 'N''Sane') /* Name */
+     , (1343196832,  21, 'King Hot Shot''') /* MonarchsTitle */
+     , (1343196832,  35, 'Count Undeadmancer') /* PatronsTitle */
+     , (1343196832,  47, 'Neverending Portalstorms') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343196832,   1,   33561244) /* Setup */
@@ -27,6 +48,12 @@ VALUES (1343196832,   1,   33561244) /* Setup */
      , (1343196832,   3,  536871124) /* SoundTable */
      , (1343196832,   6,   67108990) /* PaletteBase */
      , (1343196832,   8,  100667446) /* Icon */
+     , (1343196832,   9,   83898361) /* EyesTexture */
+     , (1343196832,  10,   83898378) /* NoseTexture */
+     , (1343196832,  11,   83898367) /* MouthTexture */
+     , (1343196832,  15,   67117003) /* HairPalette */
+     , (1343196832,  16,   67116950) /* EyesPalette */
+     , (1343196832,  17,   67116946) /* SkinPalette */
      , (1343196832,  22,  872415435) /* PhysicsEffectTable */
      , (1343196832, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343196832, 8003,   33554460) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable, PkLiteStatus */

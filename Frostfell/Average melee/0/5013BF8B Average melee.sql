@@ -28,19 +28,18 @@ VALUES (1343471499,   1,   33554510) /* Setup */
      , (1343471499,   6,   67108990) /* PaletteBase */
      , (1343471499,   8,  100667446) /* Icon */
      , (1343471499,  22,  872415236) /* PhysicsEffectTable */
-     , (1343471499, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
-     , (1343471499, 8003,   33554460) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable, PkLiteStatus */
+     , (1343471499, 8001,    8388630) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, RadarBehavior */
+     , (1343471499, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
      , (1343471499, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343471499, 1, 23855548, 53.49841, -34.93077, 0.004999995, 0.9528582, 0, 0, -0.3034161) /* Location */
 /* @teleloc 0x016C01BC [53.498410 -34.930770 0.005000] 0.952858 0.000000 0.000000 -0.303416 */
-     , (1343471499, 8040, 23855548, 49.206, -31.935, 0.004999995, 0.7071068, 0, 0, -0.7071068) /* PCAPRecordedLocation */
-/* @teleloc 0x016C01BC [49.206000 -31.935000 0.005000] 0.707107 0.000000 0.000000 -0.707107 */;
+     , (1343471499, 8040, 23855549, 51.07933, -38.3441, 0.004999995, 0.6537432, 0, 0, -0.7567164) /* PCAPRecordedLocation */
+/* @teleloc 0x016C01BD [51.079330 -38.344100 0.005000] 0.653743 0.000000 0.000000 -0.756716 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
-VALUES (1343471499,  26, 1343449966) /* Monarch */
-     , (1343471499, 8000, 1343471499) /* PCAPRecordedObjectIID */;
+VALUES (1343471499, 8000, 1343471499) /* PCAPRecordedObjectIID */;
 
 INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
 VALUES (1343471499, 67110015, 168, 6)

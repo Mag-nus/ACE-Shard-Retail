@@ -3,23 +3,36 @@ VALUES (1342720873, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342720873,   1,         16) /* ItemType - Creature */
+     , (1342720873,   2,         31) /* CreatureType - Human */
      , (1342720873,   6,        102) /* ItemsCapacity */
      , (1342720873,   7,          7) /* ContainersCapacity */
      , (1342720873,  16,          1) /* ItemUseable - No */
-     , (1342720873,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1342720873,  25,        247) /* Level */
+     , (1342720873,  30,          3) /* AllegianceRank */
+     , (1342720873,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342720873, 113,          1) /* Gender - Male */
      , (1342720873, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342720873, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342720873, 188,          2) /* HeritageGroup - Gharundim */
+     , (1342720873, 261,        152) /* CharacterTitleId */
+     , (1342720873, 308,          2) /* DamageResistRating */
+     , (1342720873, 323,          3) /* HealingBoostRating */
+     , (1342720873, 390,          0) /* Enlightenment */
      , (1342720873, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1342720873,   1, True ) /* Stuck */
-     , (1342720873,  11, True ) /* IgnoreCollisions */
+     , (1342720873,  12, True ) /* ReportCollisions */
      , (1342720873,  13, False) /* Ethereal */
      , (1342720873,  14, True ) /* GravityStatus */
      , (1342720873,  19, True ) /* Attackable */
      , (1342720873,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342720873,   1, 'Mystic Bull') /* Name */;
+VALUES (1342720873,   1, 'Mystic Bull') /* Name */
+     , (1342720873,  21, 'Taikou Zalante') /* MonarchsTitle */
+     , (1342720873,  35, 'Ta-chueh Embalming Fluid') /* PatronsTitle */
+     , (1342720873,  47, 'Collective Company') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342720873,   1,   33554433) /* Setup */
@@ -27,6 +40,12 @@ VALUES (1342720873,   1,   33554433) /* Setup */
      , (1342720873,   3,  536870913) /* SoundTable */
      , (1342720873,   6,   67108990) /* PaletteBase */
      , (1342720873,   8,  100667446) /* Icon */
+     , (1342720873,   9,   83890485) /* EyesTexture */
+     , (1342720873,  10,   83890540) /* NoseTexture */
+     , (1342720873,  11,   83890629) /* MouthTexture */
+     , (1342720873,  15,   67109618) /* HairPalette */
+     , (1342720873,  16,   67109567) /* EyesPalette */
+     , (1342720873,  17,   67109557) /* SkinPalette */
      , (1342720873,  22,  872415236) /* PhysicsEffectTable */
      , (1342720873, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342720873, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
@@ -35,8 +54,8 @@ VALUES (1342720873,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1342720873, 1, 19398926, 29.6727, -32.50402, 1.75135, -0.9972164, 0, 0, -0.07456163) /* Location */
 /* @teleloc 0x0128010E [29.672700 -32.504020 1.751350] -0.997216 0.000000 0.000000 -0.074562 */
-     , (1342720873, 8040, 19398950, 30, -60, 6.005, 1, 0, 0, 0) /* PCAPRecordedLocation */
-/* @teleloc 0x01280126 [30.000000 -60.000000 6.005000] 1.000000 0.000000 0.000000 0.000000 */;
+     , (1342720873, 8040, 19398920, 22.14102, -40.95608, 5.054953, 0.998917, 0, 0, -0.04652676) /* PCAPRecordedLocation */
+/* @teleloc 0x01280108 [22.141020 -40.956080 5.054953] 0.998917 0.000000 0.000000 -0.046527 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342720873,  26, 1342548926) /* Monarch */

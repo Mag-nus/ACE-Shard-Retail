@@ -3,11 +3,20 @@ VALUES (1342180799, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342180799,   1,         16) /* ItemType - Creature */
+     , (1342180799,   2,         31) /* CreatureType - Human */
      , (1342180799,   6,        102) /* ItemsCapacity */
      , (1342180799,   7,          7) /* ContainersCapacity */
      , (1342180799,  16,          1) /* ItemUseable - No */
+     , (1342180799,  25,        181) /* Level */
+     , (1342180799,  30,          3) /* AllegianceRank */
      , (1342180799,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1342180799, 113,          2) /* Gender - Female */
      , (1342180799, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342180799, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342180799, 188,          1) /* HeritageGroup - Aluvian */
+     , (1342180799, 261,        599) /* CharacterTitleId */
+     , (1342180799, 307,          5) /* DamageRating */
+     , (1342180799, 390,          0) /* Enlightenment */
      , (1342180799, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +28,11 @@ VALUES (1342180799,   1, True ) /* Stuck */
      , (1342180799,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342180799,   1, 'Maggie the Jackcat') /* Name */;
+VALUES (1342180799,   1, 'Maggie the Jackcat') /* Name */
+     , (1342180799,  21, 'Queen Marie the Loyal') /* MonarchsTitle */
+     , (1342180799,  35, 'Taikou Capt Justice') /* PatronsTitle */
+     , (1342180799,  43, '03 November 1999') /* DateOfBirth */
+     , (1342180799,  47, 'Evolution of Light') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342180799,   1,   33554510) /* Setup */
@@ -27,6 +40,12 @@ VALUES (1342180799,   1,   33554510) /* Setup */
      , (1342180799,   3,  536870914) /* SoundTable */
      , (1342180799,   6,   67108990) /* PaletteBase */
      , (1342180799,   8,  100667446) /* Icon */
+     , (1342180799,   9,   83890259) /* EyesTexture */
+     , (1342180799,  10,   83890294) /* NoseTexture */
+     , (1342180799,  11,   83890336) /* MouthTexture */
+     , (1342180799,  15,   67109630) /* HairPalette */
+     , (1342180799,  16,   67110065) /* EyesPalette */
+     , (1342180799,  17,   67109561) /* SkinPalette */
      , (1342180799,  22,  872415236) /* PhysicsEffectTable */
      , (1342180799, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342180799, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

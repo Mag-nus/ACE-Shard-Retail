@@ -3,11 +3,27 @@ VALUES (1343276261, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343276261,   1,         16) /* ItemType - Creature */
+     , (1343276261,   2,         31) /* CreatureType - Human */
      , (1343276261,   6,        102) /* ItemsCapacity */
      , (1343276261,   7,          7) /* ContainersCapacity */
      , (1343276261,  16,          1) /* ItemUseable - No */
+     , (1343276261,  25,        275) /* Level */
+     , (1343276261,  30,          6) /* AllegianceRank */
+     , (1343276261,  43,        213) /* NumDeaths */
      , (1343276261,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343276261, 113,          2) /* Gender - Female */
+     , (1343276261, 125,    8733447) /* Age */
      , (1343276261, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343276261, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343276261, 188,          1) /* HeritageGroup - Aluvian */
+     , (1343276261, 261,         61) /* CharacterTitleId */
+     , (1343276261, 262,         29) /* NumCharacterTitles */
+     , (1343276261, 281,          1) /* Faction1Bits */
+     , (1343276261, 287,         40) /* SocietyRankCelhan */
+     , (1343276261, 307,         11) /* DamageRating */
+     , (1343276261, 308,          4) /* DamageResistRating */
+     , (1343276261, 314,          3) /* CritDamageRating */
+     , (1343276261, 390,          0) /* Enlightenment */
      , (1343276261, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +35,11 @@ VALUES (1343276261,   1, True ) /* Stuck */
      , (1343276261,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343276261,   1, 'Elocins') /* Name */;
+VALUES (1343276261,   1, 'Elocins') /* Name */
+     , (1343276261,  21, 'Taikou Manda Molak') /* MonarchsTitle */
+     , (1343276261,  35, 'Kun-chueh Mr Baker II') /* PatronsTitle */
+     , (1343276261,  43, '30 May 2009') /* DateOfBirth */
+     , (1343276261,  47, 'House Qdoba') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343276261,   1,   33554510) /* Setup */
@@ -27,6 +47,12 @@ VALUES (1343276261,   1,   33554510) /* Setup */
      , (1343276261,   3,  536870914) /* SoundTable */
      , (1343276261,   6,   67108990) /* PaletteBase */
      , (1343276261,   8,  100667446) /* Icon */
+     , (1343276261,   9,   83890282) /* EyesTexture */
+     , (1343276261,  10,   83890291) /* NoseTexture */
+     , (1343276261,  11,   83890328) /* MouthTexture */
+     , (1343276261,  15,   67116859) /* HairPalette */
+     , (1343276261,  16,   67109566) /* EyesPalette */
+     , (1343276261,  17,   67109558) /* SkinPalette */
      , (1343276261,  22,  872415236) /* PhysicsEffectTable */
      , (1343276261, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343276261, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

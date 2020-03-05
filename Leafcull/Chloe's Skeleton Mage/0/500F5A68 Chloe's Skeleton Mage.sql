@@ -3,11 +3,25 @@ VALUES (1343183464, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343183464,   1,         16) /* ItemType - Creature */
+     , (1343183464,   2,         31) /* CreatureType - Human */
      , (1343183464,   6,        102) /* ItemsCapacity */
      , (1343183464,   7,          7) /* ContainersCapacity */
      , (1343183464,  16,          1) /* ItemUseable - No */
+     , (1343183464,  25,        251) /* Level */
+     , (1343183464,  30,          1) /* AllegianceRank */
      , (1343183464,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343183464, 113,          2) /* Gender - Female */
      , (1343183464, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343183464, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343183464, 188,         11) /* HeritageGroup - Undead */
+     , (1343183464, 261,        773) /* CharacterTitleId */
+     , (1343183464, 281,          2) /* Faction1Bits */
+     , (1343183464, 288,        595) /* SocietyRankEldweb */
+     , (1343183464, 307,         13) /* DamageRating */
+     , (1343183464, 308,          8) /* DamageResistRating */
+     , (1343183464, 313,          1) /* CritRating */
+     , (1343183464, 314,          3) /* CritDamageRating */
+     , (1343183464, 390,          0) /* Enlightenment */
      , (1343183464, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +33,11 @@ VALUES (1343183464,   1, True ) /* Stuck */
      , (1343183464,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343183464,   1, 'Chloe''s Skeleton Mage') /* Name */;
+VALUES (1343183464,   1, 'Chloe''s Skeleton Mage') /* Name */
+     , (1343183464,  10, 'Stoned') /* Fellowship */
+     , (1343183464,  21, 'Sultana Scarey Mary') /* MonarchsTitle */
+     , (1343183464,  35, 'Jo-chueh Kin Tama') /* PatronsTitle */
+     , (1343183464,  47, 'Scarey''s Warriors') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343183464,   1,   33561247) /* Setup */
@@ -27,6 +45,12 @@ VALUES (1343183464,   1,   33561247) /* Setup */
      , (1343183464,   3,  536871124) /* SoundTable */
      , (1343183464,   6,   67108990) /* PaletteBase */
      , (1343183464,   8,  100667446) /* Icon */
+     , (1343183464,   9,   83898359) /* EyesTexture */
+     , (1343183464,  10,   83898377) /* NoseTexture */
+     , (1343183464,  11,   83898374) /* MouthTexture */
+     , (1343183464,  15,   67117065) /* HairPalette */
+     , (1343183464,  16,   67116950) /* EyesPalette */
+     , (1343183464,  17,   67116937) /* SkinPalette */
      , (1343183464,  22,  872415435) /* PhysicsEffectTable */
      , (1343183464, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343183464, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

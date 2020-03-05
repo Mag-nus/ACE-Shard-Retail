@@ -3,11 +3,19 @@ VALUES (1343120200, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343120200,   1,         16) /* ItemType - Creature */
+     , (1343120200,   2,         31) /* CreatureType - Human */
      , (1343120200,   6,        102) /* ItemsCapacity */
      , (1343120200,   7,          8) /* ContainersCapacity */
      , (1343120200,  16,          1) /* ItemUseable - No */
+     , (1343120200,  25,        275) /* Level */
+     , (1343120200,  30,          6) /* AllegianceRank */
      , (1343120200,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343120200, 113,          1) /* Gender - Male */
      , (1343120200, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343120200, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343120200, 188,         11) /* HeritageGroup - Undead */
+     , (1343120200, 261,        448) /* CharacterTitleId */
+     , (1343120200, 390,          0) /* Enlightenment */
      , (1343120200, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +27,10 @@ VALUES (1343120200,   1, True ) /* Stuck */
      , (1343120200,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343120200,   1, 'Fester and Spray') /* Name */;
+VALUES (1343120200,   1, 'Fester and Spray') /* Name */
+     , (1343120200,  21, 'Kou Ellen Ripley') /* MonarchsTitle */
+     , (1343120200,  35, 'Kun-chueh Deathspawner') /* PatronsTitle */
+     , (1343120200,  47, 'The Renegade Guild') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343120200,   1,   33561102) /* Setup */
@@ -27,6 +38,12 @@ VALUES (1343120200,   1,   33561102) /* Setup */
      , (1343120200,   3,  536871124) /* SoundTable */
      , (1343120200,   6,   67108990) /* PaletteBase */
      , (1343120200,   8,  100667446) /* Icon */
+     , (1343120200,   9,   83898278) /* EyesTexture */
+     , (1343120200,  10,   83898279) /* NoseTexture */
+     , (1343120200,  11,   83898280) /* MouthTexture */
+     , (1343120200,  15,   67109633) /* HairPalette */
+     , (1343120200,  16,   67116950) /* EyesPalette */
+     , (1343120200,  17,   67116925) /* SkinPalette */
      , (1343120200,  22,  872415435) /* PhysicsEffectTable */
      , (1343120200, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343120200, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

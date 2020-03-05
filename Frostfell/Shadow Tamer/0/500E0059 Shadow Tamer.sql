@@ -3,11 +3,27 @@ VALUES (1343094873, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343094873,   1,         16) /* ItemType - Creature */
+     , (1343094873,   2,         31) /* CreatureType - Human */
      , (1343094873,   6,        102) /* ItemsCapacity */
      , (1343094873,   7,          8) /* ContainersCapacity */
      , (1343094873,  16,          1) /* ItemUseable - No */
+     , (1343094873,  25,        275) /* Level */
+     , (1343094873,  30,          8) /* AllegianceRank */
      , (1343094873,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343094873, 113,          2) /* Gender - Female */
+     , (1343094873, 125,   17491221) /* Age */
      , (1343094873, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343094873, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343094873, 188,          1) /* HeritageGroup - Aluvian */
+     , (1343094873, 261,        817) /* CharacterTitleId */
+     , (1343094873, 262,        271) /* NumCharacterTitles */
+     , (1343094873, 281,          2) /* Faction1Bits */
+     , (1343094873, 288,       1001) /* SocietyRankEldweb */
+     , (1343094873, 307,         18) /* DamageRating */
+     , (1343094873, 308,         17) /* DamageResistRating */
+     , (1343094873, 314,          8) /* CritDamageRating */
+     , (1343094873, 323,          2) /* HealingBoostRating */
+     , (1343094873, 390,          0) /* Enlightenment */
      , (1343094873, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +35,11 @@ VALUES (1343094873,   1, True ) /* Stuck */
      , (1343094873,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343094873,   1, 'Shadow Tamer') /* Name */;
+VALUES (1343094873,   1, 'Shadow Tamer') /* Name */
+     , (1343094873,  21, 'Taikou Manda Molak') /* MonarchsTitle */
+     , (1343094873,  35, 'Taikou Manda Molak') /* PatronsTitle */
+     , (1343094873,  43, '26 November 2003') /* DateOfBirth */
+     , (1343094873,  47, 'House Qdoba') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343094873,   1,   33554510) /* Setup */
@@ -27,6 +47,12 @@ VALUES (1343094873,   1,   33554510) /* Setup */
      , (1343094873,   3,  536870914) /* SoundTable */
      , (1343094873,   6,   67108990) /* PaletteBase */
      , (1343094873,   8,  100667446) /* Icon */
+     , (1343094873,   9,   83890263) /* EyesTexture */
+     , (1343094873,  10,   83890313) /* NoseTexture */
+     , (1343094873,  11,   83890356) /* MouthTexture */
+     , (1343094873,  15,   67116859) /* HairPalette */
+     , (1343094873,  16,   67109564) /* EyesPalette */
+     , (1343094873,  17,   67109558) /* SkinPalette */
      , (1343094873,  22,  872415236) /* PhysicsEffectTable */
      , (1343094873, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343094873, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

@@ -16,6 +16,16 @@ VALUES (1343310969,   1,         16) /* ItemType - Creature */
      , (1343310969, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343310969, 188,          2) /* HeritageGroup - Gharundim */
      , (1343310969, 261,        878) /* CharacterTitleId */
+     , (1343310969, 281,          4) /* Faction1Bits */
+     , (1343310969, 289,       1001) /* SocietyRankRadblo */
+     , (1343310969, 307,         77) /* DamageRating */
+     , (1343310969, 308,         23) /* DamageResistRating */
+     , (1343310969, 313,          1) /* CritRating */
+     , (1343310969, 314,         25) /* CritDamageRating */
+     , (1343310969, 316,         17) /* CritDamageResistRating */
+     , (1343310969, 323,          4) /* HealingBoostRating */
+     , (1343310969, 381,          6) /* PKDamageRating */
+     , (1343310969, 382,          6) /* PKDamageResistRating */
      , (1343310969, 390,          0) /* Enlightenment */
      , (1343310969, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 

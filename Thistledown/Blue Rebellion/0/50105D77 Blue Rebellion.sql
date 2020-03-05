@@ -3,11 +3,28 @@ VALUES (1343249783, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343249783,   1,         16) /* ItemType - Creature */
+     , (1343249783,   2,         31) /* CreatureType - Human */
      , (1343249783,   6,        102) /* ItemsCapacity */
      , (1343249783,   7,          8) /* ContainersCapacity */
      , (1343249783,  16,          1) /* ItemUseable - No */
+     , (1343249783,  25,        275) /* Level */
+     , (1343249783,  30,          4) /* AllegianceRank */
+     , (1343249783,  43,        578) /* NumDeaths */
      , (1343249783,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343249783, 113,          2) /* Gender - Female */
      , (1343249783, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343249783, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343249783, 188,          5) /* HeritageGroup - Shadowbound */
+     , (1343249783, 261,        761) /* CharacterTitleId */
+     , (1343249783, 281,          2) /* Faction1Bits */
+     , (1343249783, 288,        420) /* SocietyRankEldweb */
+     , (1343249783, 307,         27) /* DamageRating */
+     , (1343249783, 308,         20) /* DamageResistRating */
+     , (1343249783, 313,          1) /* CritRating */
+     , (1343249783, 314,         12) /* CritDamageRating */
+     , (1343249783, 316,         11) /* CritDamageResistRating */
+     , (1343249783, 323,          9) /* HealingBoostRating */
+     , (1343249783, 390,          0) /* Enlightenment */
      , (1343249783, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +36,12 @@ VALUES (1343249783,   1, True ) /* Stuck */
      , (1343249783,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343249783,   1, 'Blue Rebellion') /* Name */;
+VALUES (1343249783,   1, 'Blue Rebellion') /* Name */
+     , (1343249783,  10, 'DeAth') /* Fellowship */
+     , (1343249783,  21, 'Malik Tao Roo Chingon II') /* MonarchsTitle */
+     , (1343249783,  35, 'Mu''allim Chnum') /* PatronsTitle */
+     , (1343249783,  43, '22 March 2016') /* DateOfBirth */
+     , (1343249783,  47, 'The Spirits of the Mountain') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343249783,   1,   33560944) /* Setup */
@@ -27,6 +49,12 @@ VALUES (1343249783,   1,   33560944) /* Setup */
      , (1343249783,   3,  536870914) /* SoundTable */
      , (1343249783,   6,   67108990) /* PaletteBase */
      , (1343249783,   8,  100667446) /* Icon */
+     , (1343249783,   9,   83890282) /* EyesTexture */
+     , (1343249783,  10,   83890289) /* NoseTexture */
+     , (1343249783,  11,   83890330) /* MouthTexture */
+     , (1343249783,  15,   67117064) /* HairPalette */
+     , (1343249783,  16,   67116854) /* EyesPalette */
+     , (1343249783,  17,   67116849) /* SkinPalette */
      , (1343249783,  22,  872415433) /* PhysicsEffectTable */
      , (1343249783, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343249783, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

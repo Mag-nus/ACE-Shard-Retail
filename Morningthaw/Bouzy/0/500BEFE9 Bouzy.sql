@@ -3,11 +3,26 @@ VALUES (1342959593, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342959593,   1,         16) /* ItemType - Creature */
+     , (1342959593,   2,         31) /* CreatureType - Human */
      , (1342959593,   6,        102) /* ItemsCapacity */
      , (1342959593,   7,          8) /* ContainersCapacity */
      , (1342959593,  16,          1) /* ItemUseable - No */
+     , (1342959593,  25,        275) /* Level */
+     , (1342959593,  30,          3) /* AllegianceRank */
      , (1342959593,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1342959593, 113,          1) /* Gender - Male */
      , (1342959593, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342959593, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342959593, 188,          3) /* HeritageGroup - Sho */
+     , (1342959593, 261,        448) /* CharacterTitleId */
+     , (1342959593, 281,          4) /* Faction1Bits */
+     , (1342959593, 289,       1001) /* SocietyRankRadblo */
+     , (1342959593, 307,         14) /* DamageRating */
+     , (1342959593, 308,         26) /* DamageResistRating */
+     , (1342959593, 314,          5) /* CritDamageRating */
+     , (1342959593, 316,          9) /* CritDamageResistRating */
+     , (1342959593, 323,          5) /* HealingBoostRating */
+     , (1342959593, 390,          0) /* Enlightenment */
      , (1342959593, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +34,10 @@ VALUES (1342959593,   1, True ) /* Stuck */
      , (1342959593,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342959593,   1, 'Bouzy') /* Name */;
+VALUES (1342959593,   1, 'Bouzy') /* Name */
+     , (1342959593,  21, 'Aetheling Krunk') /* MonarchsTitle */
+     , (1342959593,  35, 'Mu''allim Tmaster') /* PatronsTitle */
+     , (1342959593,  47, 'Krunktide') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342959593,   1,   33554433) /* Setup */
@@ -27,6 +45,12 @@ VALUES (1342959593,   1,   33554433) /* Setup */
      , (1342959593,   3,  536870913) /* SoundTable */
      , (1342959593,   6,   67108990) /* PaletteBase */
      , (1342959593,   8,  100667446) /* Icon */
+     , (1342959593,   9,   83890457) /* EyesTexture */
+     , (1342959593,  10,   83890529) /* NoseTexture */
+     , (1342959593,  11,   83890638) /* MouthTexture */
+     , (1342959593,  15,   67117024) /* HairPalette */
+     , (1342959593,  16,   67110063) /* EyesPalette */
+     , (1342959593,  17,   67110055) /* SkinPalette */
      , (1342959593,  22,  872415236) /* PhysicsEffectTable */
      , (1342959593, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342959593, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

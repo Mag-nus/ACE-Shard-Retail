@@ -7,7 +7,7 @@ VALUES (1343251396,   1,         16) /* ItemType - Creature */
      , (1343251396,   6,        102) /* ItemsCapacity */
      , (1343251396,   7,          7) /* ContainersCapacity */
      , (1343251396,  16,          1) /* ItemUseable - No */
-     , (1343251396,  25,        189) /* Level */
+     , (1343251396,  25,        191) /* Level */
      , (1343251396,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1343251396, 113,          1) /* Gender - Male */
      , (1343251396, 133,          4) /* ShowableOnRadar - ShowAlways */
@@ -16,10 +16,9 @@ VALUES (1343251396,   1,         16) /* ItemType - Creature */
      , (1343251396, 261,          1) /* CharacterTitleId */
      , (1343251396, 281,          1) /* Faction1Bits */
      , (1343251396, 287,          1) /* SocietyRankCelhan */
-     , (1343251396, 307,          5) /* DamageRating */
-     , (1343251396, 308,          2) /* DamageResistRating */
-     , (1343251396, 314,          5) /* CritDamageRating */
-     , (1343251396, 316,          1) /* CritDamageResistRating */
+     , (1343251396, 307,          6) /* DamageRating */
+     , (1343251396, 308,          3) /* DamageResistRating */
+     , (1343251396, 314,          2) /* CritDamageRating */
      , (1343251396, 390,          0) /* Enlightenment */
      , (1343251396, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 

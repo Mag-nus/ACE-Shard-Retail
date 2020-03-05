@@ -12,7 +12,7 @@ VALUES (1343055557,   1,         16) /* ItemType - Creature */
      , (1343055557,  43,        824) /* NumDeaths */
      , (1343055557,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1343055557, 113,          2) /* Gender - Female */
-     , (1343055557, 125,  247119181) /* Age */
+     , (1343055557, 125,  247262778) /* Age */
      , (1343055557, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343055557, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343055557, 188,          3) /* HeritageGroup - Sho */
@@ -22,7 +22,6 @@ VALUES (1343055557,   1,         16) /* ItemType - Creature */
      , (1343055557, 307,          8) /* DamageRating */
      , (1343055557, 308,          3) /* DamageResistRating */
      , (1343055557, 313,          1) /* CritRating */
-     , (1343055557, 314,          1) /* CritDamageRating */
      , (1343055557, 390,          0) /* Enlightenment */
      , (1343055557, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 

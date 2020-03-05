@@ -3,23 +3,34 @@ VALUES (1343918330, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343918330,   1,         16) /* ItemType - Creature */
+     , (1343918330,   2,         31) /* CreatureType - Human */
      , (1343918330,   6,        102) /* ItemsCapacity */
      , (1343918330,   7,          8) /* ContainersCapacity */
      , (1343918330,  16,          1) /* ItemUseable - No */
-     , (1343918330,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343918330,  30,          3) /* AllegianceRank */
+     , (1343918330,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343918330, 113,          1) /* Gender - Male */
      , (1343918330, 133,          4) /* ShowableOnRadar - ShowAlways */
-     , (1343918330, 8007,          0) /* PCAPRecordedAutonomousMovement */;
+     , (1343918330, 134,          4) /* PlayerKillerStatus - PK */
+     , (1343918330, 188,         10) /* HeritageGroup - Penumbraen */
+     , (1343918330, 261,        677) /* CharacterTitleId */
+     , (1343918330, 390,          0) /* Enlightenment */
+     , (1343918330, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1343918330,   1, True ) /* Stuck */
-     , (1343918330,  11, True ) /* IgnoreCollisions */
+     , (1343918330,  12, True ) /* ReportCollisions */
      , (1343918330,  13, False) /* Ethereal */
      , (1343918330,  14, True ) /* GravityStatus */
      , (1343918330,  19, True ) /* Attackable */
      , (1343918330,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343918330,   1, 'Caparison Dillinger') /* Name */;
+VALUES (1343918330,   1, 'Caparison Dillinger') /* Name */
+     , (1343918330,  10, 'Carebear Cookout') /* Fellowship */
+     , (1343918330,  21, 'Duke Wish Nate Was Here') /* MonarchsTitle */
+     , (1343918330,  35, 'Nan-chueh Arsis') /* PatronsTitle */
+     , (1343918330,  47, 'Underworld-Dreams') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343918330,   1,   33560942) /* Setup */
@@ -27,6 +38,12 @@ VALUES (1343918330,   1,   33560942) /* Setup */
      , (1343918330,   3,  536870913) /* SoundTable */
      , (1343918330,   6,   67108990) /* PaletteBase */
      , (1343918330,   8,  100667446) /* Icon */
+     , (1343918330,   9,   83890515) /* EyesTexture */
+     , (1343918330,  10,   83890556) /* NoseTexture */
+     , (1343918330,  11,   83890658) /* MouthTexture */
+     , (1343918330,  15,   67109635) /* HairPalette */
+     , (1343918330,  16,   67116845) /* EyesPalette */
+     , (1343918330,  17,   67116848) /* SkinPalette */
      , (1343918330,  22,  872415433) /* PhysicsEffectTable */
      , (1343918330, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343918330, 8003,         60) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable, PlayerKiller */
@@ -35,8 +52,8 @@ VALUES (1343918330,   1,   33560942) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343918330, 1, 3332964357, 23.95399, 103.7193, 42.005, -0.6173895, 0, 0, -0.7866576) /* Location */
 /* @teleloc 0xC6A90005 [23.953990 103.719300 42.005000] -0.617390 0.000000 0.000000 -0.786658 */
-     , (1343918330, 8040, 459077, 70, -80, 0.004999995, 1, 0, 0, 0) /* PCAPRecordedLocation */
-/* @teleloc 0x00070145 [70.000000 -80.000000 0.005000] 1.000000 0.000000 0.000000 0.000000 */;
+     , (1343918330, 8040, 3332964372, 48.3966, 83.37088, 42.005, 0.9026746, 0, 0, 0.4303237) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A90014 [48.396600 83.370880 42.005000] 0.902675 0.000000 0.000000 0.430324 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343918330,  26, 1344159787) /* Monarch */

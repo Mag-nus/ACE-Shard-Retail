@@ -3,11 +3,19 @@ VALUES (1343055712, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343055712,   1,         16) /* ItemType - Creature */
+     , (1343055712,   2,         31) /* CreatureType - Human */
      , (1343055712,   6,        102) /* ItemsCapacity */
      , (1343055712,   7,          8) /* ContainersCapacity */
      , (1343055712,  16,          1) /* ItemUseable - No */
+     , (1343055712,  25,        275) /* Level */
+     , (1343055712,  30,          8) /* AllegianceRank */
      , (1343055712,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343055712, 113,          1) /* Gender - Male */
      , (1343055712, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343055712, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343055712, 188,          3) /* HeritageGroup - Sho */
+     , (1343055712, 261,        560) /* CharacterTitleId */
+     , (1343055712, 390,          0) /* Enlightenment */
      , (1343055712, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +27,10 @@ VALUES (1343055712,   1, True ) /* Stuck */
      , (1343055712,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343055712,   1, 'Taebaek Baekjae') /* Name */;
+VALUES (1343055712,   1, 'Taebaek Baekjae') /* Name */
+     , (1343055712,  21, 'Koutei Gabs') /* MonarchsTitle */
+     , (1343055712,  35, 'Grand Duke Djinn the Angel of Death') /* PatronsTitle */
+     , (1343055712,  47, 'PIRATES OF DERETH') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343055712,   1,   33554433) /* Setup */
@@ -27,6 +38,12 @@ VALUES (1343055712,   1,   33554433) /* Setup */
      , (1343055712,   3,  536870913) /* SoundTable */
      , (1343055712,   6,   67108990) /* PaletteBase */
      , (1343055712,   8,  100667446) /* Icon */
+     , (1343055712,   9,   83890516) /* EyesTexture */
+     , (1343055712,  10,   83890525) /* NoseTexture */
+     , (1343055712,  11,   83890628) /* MouthTexture */
+     , (1343055712,  15,   67117028) /* HairPalette */
+     , (1343055712,  16,   67110063) /* EyesPalette */
+     , (1343055712,  17,   67110050) /* SkinPalette */
      , (1343055712,  22,  872415236) /* PhysicsEffectTable */
      , (1343055712, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343055712, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

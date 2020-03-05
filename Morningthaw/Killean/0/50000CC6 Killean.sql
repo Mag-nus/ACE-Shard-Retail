@@ -3,23 +3,35 @@ VALUES (1342180550, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342180550,   1,         16) /* ItemType - Creature */
+     , (1342180550,   2,         31) /* CreatureType - Human */
      , (1342180550,   6,        102) /* ItemsCapacity */
      , (1342180550,   7,          7) /* ContainersCapacity */
      , (1342180550,  16,          1) /* ItemUseable - No */
-     , (1342180550,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1342180550,  25,        207) /* Level */
+     , (1342180550,  30,          2) /* AllegianceRank */
+     , (1342180550,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342180550, 113,          1) /* Gender - Male */
      , (1342180550, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342180550, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342180550, 188,          3) /* HeritageGroup - Sho */
+     , (1342180550, 261,        110) /* CharacterTitleId */
+     , (1342180550, 390,          0) /* Enlightenment */
      , (1342180550, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1342180550,   1, True ) /* Stuck */
-     , (1342180550,  11, True ) /* IgnoreCollisions */
+     , (1342180550,  12, True ) /* ReportCollisions */
      , (1342180550,  13, False) /* Ethereal */
      , (1342180550,  14, True ) /* GravityStatus */
      , (1342180550,  19, True ) /* Attackable */
      , (1342180550,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342180550,   1, 'Killean') /* Name */;
+VALUES (1342180550,   1, 'Killean') /* Name */
+     , (1342180550,  21, 'Taikou Zalante') /* MonarchsTitle */
+     , (1342180550,  35, 'Ta-chueh Embalming Fluid') /* PatronsTitle */
+     , (1342180550,  43, '03 November 1999') /* DateOfBirth */
+     , (1342180550,  47, 'Collective Company') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342180550,   1,   33554433) /* Setup */
@@ -27,6 +39,12 @@ VALUES (1342180550,   1,   33554433) /* Setup */
      , (1342180550,   3,  536870913) /* SoundTable */
      , (1342180550,   6,   67108990) /* PaletteBase */
      , (1342180550,   8,  100667446) /* Icon */
+     , (1342180550,   9,   83890451) /* EyesTexture */
+     , (1342180550,  10,   83890525) /* NoseTexture */
+     , (1342180550,  11,   83890657) /* MouthTexture */
+     , (1342180550,  15,   67109618) /* HairPalette */
+     , (1342180550,  16,   67109565) /* EyesPalette */
+     , (1342180550,  17,   67110053) /* SkinPalette */
      , (1342180550,  22,  872415236) /* PhysicsEffectTable */
      , (1342180550, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342180550, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
@@ -35,8 +53,8 @@ VALUES (1342180550,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1342180550, 1, 19398926, 28.86238, -32.64115, 1.821383, 0.9990432, 0, 0, -0.04373344) /* Location */
 /* @teleloc 0x0128010E [28.862380 -32.641150 1.821383] 0.999043 0.000000 0.000000 -0.043733 */
-     , (1342180550, 8040, 19398950, 30, -60, 6.005, 1, 0, 0, 0) /* PCAPRecordedLocation */
-/* @teleloc 0x01280126 [30.000000 -60.000000 6.005000] 1.000000 0.000000 0.000000 0.000000 */;
+     , (1342180550, 8040, 19398920, 22.79499, -40.92119, 5.353755, 0.9994838, 0, 0, -0.03212827) /* PCAPRecordedLocation */
+/* @teleloc 0x01280108 [22.794990 -40.921190 5.353755] 0.999484 0.000000 0.000000 -0.032128 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342180550,  26, 1342548926) /* Monarch */

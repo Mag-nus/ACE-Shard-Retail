@@ -3,11 +3,22 @@ VALUES (1343163077, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343163077,   1,         16) /* ItemType - Creature */
+     , (1343163077,   2,         31) /* CreatureType - Human */
      , (1343163077,   6,        102) /* ItemsCapacity */
      , (1343163077,   7,          7) /* ContainersCapacity */
      , (1343163077,  16,          1) /* ItemUseable - No */
+     , (1343163077,  25,        114) /* Level */
+     , (1343163077,  30,          3) /* AllegianceRank */
+     , (1343163077,  43,         35) /* NumDeaths */
      , (1343163077,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343163077, 113,          1) /* Gender - Male */
+     , (1343163077, 125,     360610) /* Age */
      , (1343163077, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343163077, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343163077, 188,          1) /* HeritageGroup - Aluvian */
+     , (1343163077, 261,        112) /* CharacterTitleId */
+     , (1343163077, 262,         25) /* NumCharacterTitles */
+     , (1343163077, 390,          0) /* Enlightenment */
      , (1343163077, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +30,11 @@ VALUES (1343163077,   1, True ) /* Stuck */
      , (1343163077,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343163077,   1, 'Deran Dark') /* Name */;
+VALUES (1343163077,   1, 'Deran Dark') /* Name */
+     , (1343163077,  21, 'High King Laris Bloodsong') /* MonarchsTitle */
+     , (1343163077,  35, 'Baron Somlyar') /* PatronsTitle */
+     , (1343163077,  43, '12 December 2014') /* DateOfBirth */
+     , (1343163077,  47, 'Saints of Solclaim') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343163077,   1,   33554433) /* Setup */
@@ -27,6 +42,12 @@ VALUES (1343163077,   1,   33554433) /* Setup */
      , (1343163077,   3,  536870913) /* SoundTable */
      , (1343163077,   6,   67108990) /* PaletteBase */
      , (1343163077,   8,  100667446) /* Icon */
+     , (1343163077,   9,   83890515) /* EyesTexture */
+     , (1343163077,  10,   83890548) /* NoseTexture */
+     , (1343163077,  11,   83890635) /* MouthTexture */
+     , (1343163077,  15,   67116983) /* HairPalette */
+     , (1343163077,  16,   67110064) /* EyesPalette */
+     , (1343163077,  17,   67109559) /* SkinPalette */
      , (1343163077,  22,  872415236) /* PhysicsEffectTable */
      , (1343163077, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343163077, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

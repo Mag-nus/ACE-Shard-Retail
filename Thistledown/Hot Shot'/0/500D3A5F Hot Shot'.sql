@@ -9,7 +9,7 @@ VALUES (1343044191,   1,         16) /* ItemType - Creature */
      , (1343044191,  16,          1) /* ItemUseable - No */
      , (1343044191,  25,        275) /* Level */
      , (1343044191,  30,          9) /* AllegianceRank */
-     , (1343044191,  35,      11058) /* AllegianceFollowers */
+     , (1343044191,  35,      11063) /* AllegianceFollowers */
      , (1343044191,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1343044191, 113,          1) /* Gender - Male */
      , (1343044191, 133,          4) /* ShowableOnRadar - ShowAlways */

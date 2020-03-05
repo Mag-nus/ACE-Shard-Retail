@@ -3,11 +3,27 @@ VALUES (1342844455, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342844455,   1,         16) /* ItemType - Creature */
+     , (1342844455,   2,         31) /* CreatureType - Human */
      , (1342844455,   6,        102) /* ItemsCapacity */
      , (1342844455,   7,          8) /* ContainersCapacity */
      , (1342844455,  16,          1) /* ItemUseable - No */
+     , (1342844455,  25,        275) /* Level */
+     , (1342844455,  30,          5) /* AllegianceRank */
      , (1342844455,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342844455, 113,          1) /* Gender - Male */
      , (1342844455, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342844455, 134,         64) /* PlayerKillerStatus - PKLite */
+     , (1342844455, 188,          2) /* HeritageGroup - Gharundim */
+     , (1342844455, 261,         94) /* CharacterTitleId */
+     , (1342844455, 281,          2) /* Faction1Bits */
+     , (1342844455, 288,       1001) /* SocietyRankEldweb */
+     , (1342844455, 307,         27) /* DamageRating */
+     , (1342844455, 308,         21) /* DamageResistRating */
+     , (1342844455, 313,          1) /* CritRating */
+     , (1342844455, 314,         12) /* CritDamageRating */
+     , (1342844455, 316,          7) /* CritDamageResistRating */
+     , (1342844455, 323,          7) /* HealingBoostRating */
+     , (1342844455, 390,          0) /* Enlightenment */
      , (1342844455, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +35,10 @@ VALUES (1342844455,   1, True ) /* Stuck */
      , (1342844455,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342844455,   1, 'Granto') /* Name */;
+VALUES (1342844455,   1, 'Granto') /* Name */
+     , (1342844455,  21, 'High King He who is called I Am') /* MonarchsTitle */
+     , (1342844455,  35, 'Mushir Mage of Bob') /* PatronsTitle */
+     , (1342844455,  47, 'Untalented Circus Midgets') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342844455,   1,   33554433) /* Setup */
@@ -27,6 +46,12 @@ VALUES (1342844455,   1,   33554433) /* Setup */
      , (1342844455,   3,  536870913) /* SoundTable */
      , (1342844455,   6,   67108990) /* PaletteBase */
      , (1342844455,   8,  100667446) /* Icon */
+     , (1342844455,   9,   83890479) /* EyesTexture */
+     , (1342844455,  10,   83890534) /* NoseTexture */
+     , (1342844455,  11,   83890623) /* MouthTexture */
+     , (1342844455,  15,   67117000) /* HairPalette */
+     , (1342844455,  16,   67110062) /* EyesPalette */
+     , (1342844455,  17,   67109557) /* SkinPalette */
      , (1342844455,  22,  872415236) /* PhysicsEffectTable */
      , (1342844455, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342844455, 8003,   33554460) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable, PkLiteStatus */

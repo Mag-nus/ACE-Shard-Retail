@@ -9,7 +9,7 @@ VALUES (1342859412,   1,         16) /* ItemType - Creature */
      , (1342859412,  16,          1) /* ItemUseable - No */
      , (1342859412,  25,        275) /* Level */
      , (1342859412,  30,          4) /* AllegianceRank */
-     , (1342859412,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1342859412,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1342859412, 113,          2) /* Gender - Female */
      , (1342859412, 125,   11677729) /* Age */
      , (1342859412, 133,          4) /* ShowableOnRadar - ShowAlways */
@@ -22,7 +22,7 @@ VALUES (1342859412,   1,         16) /* ItemType - Creature */
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1342859412,   1, True ) /* Stuck */
-     , (1342859412,  11, True ) /* IgnoreCollisions */
+     , (1342859412,  12, True ) /* ReportCollisions */
      , (1342859412,  13, False) /* Ethereal */
      , (1342859412,  14, True ) /* GravityStatus */
      , (1342859412,  19, True ) /* Attackable */
@@ -48,14 +48,14 @@ VALUES (1342859412,   1,   33554510) /* Setup */
      , (1342859412,  17,   67110059) /* SkinPalette */
      , (1342859412,  22,  872415236) /* PhysicsEffectTable */
      , (1342859412, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
-     , (1342859412, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
+     , (1342859412, 8003,   33554460) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable, PkLiteStatus */
      , (1342859412, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1342859412, 1, 2103705609, 47.94136, 9.351282, 12.005, -0.636012, 0, 0, -0.7716792) /* Location */
 /* @teleloc 0x7D640009 [47.941360 9.351282 12.005000] -0.636012 0.000000 0.000000 -0.771679 */
-     , (1342859412, 8040, 2103705618, 53.14405, 32.03434, 12.005, 0.9538978, 0, 0, -0.3001315) /* PCAPRecordedLocation */
-/* @teleloc 0x7D640012 [53.144050 32.034340 12.005000] 0.953898 0.000000 0.000000 -0.300132 */;
+     , (1342859412, 8040, 2103640088, 52.44592, 191.9468, 12.005, -0.9996278, 0, 0, -0.02728164) /* PCAPRecordedLocation */
+/* @teleloc 0x7D630018 [52.445920 191.946800 12.005000] -0.999628 0.000000 0.000000 -0.027282 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342859412,  26, 1342216085) /* Monarch */

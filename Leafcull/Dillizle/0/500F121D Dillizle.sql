@@ -3,11 +3,25 @@ VALUES (1343164957, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343164957,   1,         16) /* ItemType - Creature */
+     , (1343164957,   2,         31) /* CreatureType - Human */
      , (1343164957,   6,        102) /* ItemsCapacity */
      , (1343164957,   7,          7) /* ContainersCapacity */
      , (1343164957,  16,          1) /* ItemUseable - No */
+     , (1343164957,  25,        197) /* Level */
+     , (1343164957,  30,          2) /* AllegianceRank */
      , (1343164957,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343164957, 113,          1) /* Gender - Male */
      , (1343164957, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343164957, 134,         64) /* PlayerKillerStatus - PKLite */
+     , (1343164957, 188,         11) /* HeritageGroup - Undead */
+     , (1343164957, 261,        646) /* CharacterTitleId */
+     , (1343164957, 281,          1) /* Faction1Bits */
+     , (1343164957, 287,        200) /* SocietyRankCelhan */
+     , (1343164957, 307,          6) /* DamageRating */
+     , (1343164957, 314,          3) /* CritDamageRating */
+     , (1343164957, 323,          3) /* HealingBoostRating */
+     , (1343164957, 350,         12) /* DotResistRating */
+     , (1343164957, 390,          0) /* Enlightenment */
      , (1343164957, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +33,9 @@ VALUES (1343164957,   1, True ) /* Stuck */
      , (1343164957,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343164957,   1, 'Dillizle') /* Name */;
+VALUES (1343164957,   1, 'Dillizle') /* Name */
+     , (1343164957,  21, 'Naquiba Goblin Tinkerer') /* MonarchsTitle */
+     , (1343164957,  35, 'Banner My name is Earl') /* PatronsTitle */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343164957,   1,   33561238) /* Setup */
@@ -27,6 +43,12 @@ VALUES (1343164957,   1,   33561238) /* Setup */
      , (1343164957,   3,  536871124) /* SoundTable */
      , (1343164957,   6,   67108990) /* PaletteBase */
      , (1343164957,   8,  100667446) /* Icon */
+     , (1343164957,   9,   83898480) /* EyesTexture */
+     , (1343164957,  10,   83898487) /* NoseTexture */
+     , (1343164957,  11,   83898505) /* MouthTexture */
+     , (1343164957,  15,   67117007) /* HairPalette */
+     , (1343164957,  16,   67116950) /* EyesPalette */
+     , (1343164957,  17,   67116944) /* SkinPalette */
      , (1343164957,  22,  872415435) /* PhysicsEffectTable */
      , (1343164957, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343164957, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

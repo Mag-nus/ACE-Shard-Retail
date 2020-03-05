@@ -7,20 +7,17 @@ VALUES (1343247950,   1,         16) /* ItemType - Creature */
      , (1343247950,   6,        102) /* ItemsCapacity */
      , (1343247950,   7,          7) /* ContainersCapacity */
      , (1343247950,  16,          1) /* ItemUseable - No */
-     , (1343247950,  25,        181) /* Level */
+     , (1343247950,  25,        182) /* Level */
      , (1343247950,  30,          2) /* AllegianceRank */
-     , (1343247950,  43,         39) /* NumDeaths */
+     , (1343247950,  43,         40) /* NumDeaths */
      , (1343247950,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1343247950, 113,          1) /* Gender - Male */
-     , (1343247950, 125,     730671) /* Age */
+     , (1343247950, 125,     736755) /* Age */
      , (1343247950, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343247950, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343247950, 188,          5) /* HeritageGroup - Shadowbound */
      , (1343247950, 261,          1) /* CharacterTitleId */
      , (1343247950, 262,         16) /* NumCharacterTitles */
-     , (1343247950, 307,          5) /* DamageRating */
-     , (1343247950, 313,          1) /* CritRating */
-     , (1343247950, 351,         16) /* LifeResistRating */
      , (1343247950, 390,          0) /* Enlightenment */
      , (1343247950, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
@@ -34,6 +31,7 @@ VALUES (1343247950,   1, True ) /* Stuck */
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343247950,   1, 'Hamsted') /* Name */
+     , (1343247950,  10, 'Slayer') /* Fellowship */
      , (1343247950,  21, 'High King Mr Adventure') /* MonarchsTitle */
      , (1343247950,  35, 'Jo-chueh Mhysa') /* PatronsTitle */
      , (1343247950,  43, '16 June 2016') /* DateOfBirth */

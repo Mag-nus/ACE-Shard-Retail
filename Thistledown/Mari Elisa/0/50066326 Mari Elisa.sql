@@ -3,11 +3,30 @@ VALUES (1342595878, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342595878,   1,         16) /* ItemType - Creature */
+     , (1342595878,   2,         31) /* CreatureType - Human */
      , (1342595878,   6,        102) /* ItemsCapacity */
      , (1342595878,   7,          8) /* ContainersCapacity */
      , (1342595878,  16,          1) /* ItemUseable - No */
+     , (1342595878,  25,        275) /* Level */
+     , (1342595878,  30,         10) /* AllegianceRank */
+     , (1342595878,  35,      10397) /* AllegianceFollowers */
      , (1342595878,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342595878, 113,          2) /* Gender - Female */
      , (1342595878, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342595878, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342595878, 188,          2) /* HeritageGroup - Gharundim */
+     , (1342595878, 261,        723) /* CharacterTitleId */
+     , (1342595878, 262,        219) /* NumCharacterTitles */
+     , (1342595878, 281,          4) /* Faction1Bits */
+     , (1342595878, 289,       1001) /* SocietyRankRadblo */
+     , (1342595878, 307,         27) /* DamageRating */
+     , (1342595878, 308,         32) /* DamageResistRating */
+     , (1342595878, 313,          1) /* CritRating */
+     , (1342595878, 314,         10) /* CritDamageRating */
+     , (1342595878, 316,         18) /* CritDamageResistRating */
+     , (1342595878, 323,         14) /* HealingBoostRating */
+     , (1342595878, 350,         20) /* DotResistRating */
+     , (1342595878, 390,          0) /* Enlightenment */
      , (1342595878, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +38,8 @@ VALUES (1342595878,   1, True ) /* Stuck */
      , (1342595878,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342595878,   1, 'Mari Elisa') /* Name */;
+VALUES (1342595878,   1, 'Mari Elisa') /* Name */
+     , (1342595878,  47, 'Guardians of the Lifestone') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342595878,   1,   33554510) /* Setup */
@@ -27,6 +47,12 @@ VALUES (1342595878,   1,   33554510) /* Setup */
      , (1342595878,   3,  536870914) /* SoundTable */
      , (1342595878,   6,   67108990) /* PaletteBase */
      , (1342595878,   8,  100667446) /* Icon */
+     , (1342595878,   9,   83890284) /* EyesTexture */
+     , (1342595878,  10,   83890290) /* NoseTexture */
+     , (1342595878,  11,   83890328) /* MouthTexture */
+     , (1342595878,  15,   67117028) /* HairPalette */
+     , (1342595878,  16,   67110062) /* EyesPalette */
+     , (1342595878,  17,   67109557) /* SkinPalette */
      , (1342595878,  22,  872415236) /* PhysicsEffectTable */
      , (1342595878, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342595878, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
@@ -35,8 +61,8 @@ VALUES (1342595878,   1,   33554510) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1342595878, 1, 1068761099, 25.0025, 53.5667, 3.72529E-09, -0.997246, 0, 0, 0.0741677) /* Location */
 /* @teleloc 0x3FB4000B [25.002500 53.566700 0.000000] -0.997246 0.000000 0.000000 0.074168 */
-     , (1342595878, 8040, 4095213581, 38.02477, 102.8209, 160.005, -0.06903332, 0, 0, -0.9976144) /* PCAPRecordedLocation */
-/* @teleloc 0xF418000D [38.024770 102.820900 160.005000] -0.069033 0.000000 0.000000 -0.997614 */;
+     , (1342595878, 8040, 4095213581, 38.92763, 101.0966, 160.005, -0.2227547, 0, 0, -0.9748746) /* PCAPRecordedLocation */
+/* @teleloc 0xF418000D [38.927630 101.096600 160.005000] -0.222755 0.000000 0.000000 -0.974875 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342595878,  26, 1342595878) /* Monarch */

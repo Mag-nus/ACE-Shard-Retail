@@ -15,6 +15,14 @@ VALUES (1343234599,   1,         16) /* ItemType - Creature */
      , (1343234599, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343234599, 188,          4) /* HeritageGroup - Viamontian */
      , (1343234599, 261,        517) /* CharacterTitleId */
+     , (1343234599, 281,          1) /* Faction1Bits */
+     , (1343234599, 287,         20) /* SocietyRankCelhan */
+     , (1343234599, 307,         13) /* DamageRating */
+     , (1343234599, 308,          7) /* DamageResistRating */
+     , (1343234599, 314,          3) /* CritDamageRating */
+     , (1343234599, 316,          1) /* CritDamageResistRating */
+     , (1343234599, 323,          6) /* HealingBoostRating */
+     , (1343234599, 350,         16) /* DotResistRating */
      , (1343234599, 390,          0) /* Enlightenment */
      , (1343234599, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 

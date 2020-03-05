@@ -12,7 +12,7 @@ VALUES (1343203606,   1,         16) /* ItemType - Creature */
      , (1343203606,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
      , (1343203606, 113,          1) /* Gender - Male */
      , (1343203606, 133,          4) /* ShowableOnRadar - ShowAlways */
-     , (1343203606, 134,         64) /* PlayerKillerStatus - PKLite */
+     , (1343203606, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343203606, 188,          3) /* HeritageGroup - Sho */
      , (1343203606, 261,         17) /* CharacterTitleId */
      , (1343203606, 262,          8) /* NumCharacterTitles */

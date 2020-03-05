@@ -3,11 +3,26 @@ VALUES (1343248021, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343248021,   1,         16) /* ItemType - Creature */
+     , (1343248021,   2,         31) /* CreatureType - Human */
      , (1343248021,   6,        102) /* ItemsCapacity */
      , (1343248021,   7,          7) /* ContainersCapacity */
      , (1343248021,  16,          1) /* ItemUseable - No */
+     , (1343248021,  25,        245) /* Level */
+     , (1343248021,  30,          2) /* AllegianceRank */
+     , (1343248021,  43,         28) /* NumDeaths */
      , (1343248021,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343248021, 113,          2) /* Gender - Female */
+     , (1343248021, 125,    1007465) /* Age */
      , (1343248021, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343248021, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343248021, 188,          1) /* HeritageGroup - Aluvian */
+     , (1343248021, 261,        568) /* CharacterTitleId */
+     , (1343248021, 262,         40) /* NumCharacterTitles */
+     , (1343248021, 281,          2) /* Faction1Bits */
+     , (1343248021, 288,        155) /* SocietyRankEldweb */
+     , (1343248021, 307,          5) /* DamageRating */
+     , (1343248021, 308,         11) /* DamageResistRating */
+     , (1343248021, 390,          0) /* Enlightenment */
      , (1343248021, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +34,11 @@ VALUES (1343248021,   1, True ) /* Stuck */
      , (1343248021,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343248021,   1, 'Botanika of the Osp') /* Name */;
+VALUES (1343248021,   1, 'Botanika of the Osp') /* Name */
+     , (1343248021,  21, 'Qadiya Invisible Fire') /* MonarchsTitle */
+     , (1343248021,  35, 'Nan-chueh Tierra Aziel') /* PatronsTitle */
+     , (1343248021,  43, '18 June 2016') /* DateOfBirth */
+     , (1343248021,  47, 'You See Em') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343248021,   1,   33554510) /* Setup */
@@ -27,6 +46,12 @@ VALUES (1343248021,   1,   33554510) /* Setup */
      , (1343248021,   3,  536870914) /* SoundTable */
      , (1343248021,   6,   67108990) /* PaletteBase */
      , (1343248021,   8,  100667446) /* Icon */
+     , (1343248021,   9,   83890260) /* EyesTexture */
+     , (1343248021,  10,   83890287) /* NoseTexture */
+     , (1343248021,  11,   83890328) /* MouthTexture */
+     , (1343248021,  15,   67117076) /* HairPalette */
+     , (1343248021,  16,   67109565) /* EyesPalette */
+     , (1343248021,  17,   67109561) /* SkinPalette */
      , (1343248021,  22,  872415236) /* PhysicsEffectTable */
      , (1343248021, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343248021, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

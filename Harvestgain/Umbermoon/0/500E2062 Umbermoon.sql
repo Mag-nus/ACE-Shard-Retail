@@ -12,7 +12,7 @@ VALUES (1343103074,   1,         16) /* ItemType - Creature */
      , (1343103074,  43,         87) /* NumDeaths */
      , (1343103074,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1343103074, 113,          1) /* Gender - Male */
-     , (1343103074, 125,    6667478) /* Age */
+     , (1343103074, 125,    6672602) /* Age */
      , (1343103074, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343103074, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343103074, 188,          4) /* HeritageGroup - Viamontian */
@@ -40,6 +40,7 @@ VALUES (1343103074,   1, True ) /* Stuck */
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343103074,   1, 'Umbermoon') /* Name */
+     , (1343103074,  10, 'A o A') /* Fellowship */
      , (1343103074,  21, 'Sultana Lan''fear') /* MonarchsTitle */
      , (1343103074,  35, 'Nan-chueh Arcane Traveler') /* PatronsTitle */
      , (1343103074,  43, '09 April 2007') /* DateOfBirth */

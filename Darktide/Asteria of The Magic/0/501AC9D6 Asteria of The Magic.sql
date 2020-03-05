@@ -12,7 +12,7 @@ VALUES (1343932886,   1,         16) /* ItemType - Creature */
      , (1343932886,  43,       2856) /* NumDeaths */
      , (1343932886,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
      , (1343932886, 113,          2) /* Gender - Female */
-     , (1343932886, 125,   11327034) /* Age */
+     , (1343932886, 125,   11327039) /* Age */
      , (1343932886, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343932886, 134,          4) /* PlayerKillerStatus - PK */
      , (1343932886, 188,         11) /* HeritageGroup - Undead */

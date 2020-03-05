@@ -3,11 +3,27 @@ VALUES (1343159257, 1, 10, 6738241) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343159257,   1,         16) /* ItemType - Creature */
+     , (1343159257,   2,         31) /* CreatureType - Human */
      , (1343159257,   6,        102) /* ItemsCapacity */
      , (1343159257,   7,          7) /* ContainersCapacity */
      , (1343159257,  16,          1) /* ItemUseable - No */
+     , (1343159257,  25,        275) /* Level */
+     , (1343159257,  30,          2) /* AllegianceRank */
      , (1343159257,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343159257, 113,          1) /* Gender - Male */
      , (1343159257, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343159257, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343159257, 188,          9) /* HeritageGroup - Empyrean */
+     , (1343159257, 261,          1) /* CharacterTitleId */
+     , (1343159257, 281,          1) /* Faction1Bits */
+     , (1343159257, 287,       1001) /* SocietyRankCelhan */
+     , (1343159257, 307,         10) /* DamageRating */
+     , (1343159257, 308,          5) /* DamageResistRating */
+     , (1343159257, 314,          3) /* CritDamageRating */
+     , (1343159257, 323,          8) /* HealingBoostRating */
+     , (1343159257, 350,         28) /* DotResistRating */
+     , (1343159257, 351,         16) /* LifeResistRating */
+     , (1343159257, 390,          0) /* Enlightenment */
      , (1343159257, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -22,7 +38,11 @@ INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (1343159257,  39, 1.20000004768372) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343159257,   1, 'Rynthids King') /* Name */;
+VALUES (1343159257,   1, 'Rynthids King') /* Name */
+     , (1343159257,  10, 'Mooooooooooooooooooooooooooo') /* Fellowship */
+     , (1343159257,  21, 'Mushir Deadly Warlock') /* MonarchsTitle */
+     , (1343159257,  35, 'Shade Deadly Warlock IV') /* PatronsTitle */
+     , (1343159257,  47, 'Keepers of Dereth') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343159257,   1,   33561110) /* Setup */
@@ -30,6 +50,12 @@ VALUES (1343159257,   1,   33561110) /* Setup */
      , (1343159257,   3,  536870913) /* SoundTable */
      , (1343159257,   6,   67108990) /* PaletteBase */
      , (1343159257,   8,  100667446) /* Icon */
+     , (1343159257,   9,   83890451) /* EyesTexture */
+     , (1343159257,  10,   83890546) /* NoseTexture */
+     , (1343159257,  11,   83890570) /* MouthTexture */
+     , (1343159257,  15,   67117019) /* HairPalette */
+     , (1343159257,  16,   67116858) /* EyesPalette */
+     , (1343159257,  17,   67115902) /* SkinPalette */
      , (1343159257,  22,  872415236) /* PhysicsEffectTable */
      , (1343159257, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343159257, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

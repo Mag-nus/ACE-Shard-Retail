@@ -3,11 +3,31 @@ VALUES (1342762145, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342762145,   1,         16) /* ItemType - Creature */
+     , (1342762145,   2,         31) /* CreatureType - Human */
      , (1342762145,   6,        102) /* ItemsCapacity */
      , (1342762145,   7,          8) /* ContainersCapacity */
      , (1342762145,  16,          1) /* ItemUseable - No */
+     , (1342762145,  25,        275) /* Level */
+     , (1342762145,  30,          5) /* AllegianceRank */
+     , (1342762145,  43,       1642) /* NumDeaths */
      , (1342762145,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1342762145, 113,          2) /* Gender - Female */
+     , (1342762145, 125,   31065895) /* Age */
      , (1342762145, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342762145, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342762145, 181,       1609) /* ChessRank */
+     , (1342762145, 188,          3) /* HeritageGroup - Sho */
+     , (1342762145, 192,         42) /* FakeFishingSkill */
+     , (1342762145, 261,         33) /* CharacterTitleId */
+     , (1342762145, 262,        201) /* NumCharacterTitles */
+     , (1342762145, 281,          1) /* Faction1Bits */
+     , (1342762145, 287,       1001) /* SocietyRankCelhan */
+     , (1342762145, 307,         20) /* DamageRating */
+     , (1342762145, 308,         12) /* DamageResistRating */
+     , (1342762145, 313,          1) /* CritRating */
+     , (1342762145, 314,          4) /* CritDamageRating */
+     , (1342762145, 316,          5) /* CritDamageResistRating */
+     , (1342762145, 390,          0) /* Enlightenment */
      , (1342762145, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +39,10 @@ VALUES (1342762145,   1, True ) /* Stuck */
      , (1342762145,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342762145,   1, 'Maglett') /* Name */;
+VALUES (1342762145,   1, 'Maglett') /* Name */
+     , (1342762145,  21, 'Taikou Wong Way') /* MonarchsTitle */
+     , (1342762145,  35, 'Naquib El''Lorme Deepriver') /* PatronsTitle */
+     , (1342762145,  47, 'The Chosen Reborn') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342762145,   1,   33554510) /* Setup */
@@ -27,6 +50,12 @@ VALUES (1342762145,   1,   33554510) /* Setup */
      , (1342762145,   3,  536870914) /* SoundTable */
      , (1342762145,   6,   67108990) /* PaletteBase */
      , (1342762145,   8,  100667446) /* Icon */
+     , (1342762145,   9,   83890241) /* EyesTexture */
+     , (1342762145,  10,   83890301) /* NoseTexture */
+     , (1342762145,  11,   83890330) /* MouthTexture */
+     , (1342762145,  15,   67109616) /* HairPalette */
+     , (1342762145,  16,   67110063) /* EyesPalette */
+     , (1342762145,  17,   67110054) /* SkinPalette */
      , (1342762145,  22,  872415236) /* PhysicsEffectTable */
      , (1342762145, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342762145, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

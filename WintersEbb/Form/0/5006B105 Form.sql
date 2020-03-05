@@ -3,11 +3,30 @@ VALUES (1342615813, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342615813,   1,         16) /* ItemType - Creature */
+     , (1342615813,   2,         31) /* CreatureType - Human */
      , (1342615813,   6,        102) /* ItemsCapacity */
      , (1342615813,   7,          8) /* ContainersCapacity */
      , (1342615813,  16,          1) /* ItemUseable - No */
+     , (1342615813,  25,        275) /* Level */
+     , (1342615813,  30,          3) /* AllegianceRank */
+     , (1342615813,  43,        930) /* NumDeaths */
      , (1342615813,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342615813, 113,          1) /* Gender - Male */
+     , (1342615813, 125,   16896604) /* Age */
      , (1342615813, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342615813, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342615813, 188,          2) /* HeritageGroup - Gharundim */
+     , (1342615813, 261,        556) /* CharacterTitleId */
+     , (1342615813, 262,         68) /* NumCharacterTitles */
+     , (1342615813, 281,          1) /* Faction1Bits */
+     , (1342615813, 287,        720) /* SocietyRankCelhan */
+     , (1342615813, 307,          9) /* DamageRating */
+     , (1342615813, 308,          9) /* DamageResistRating */
+     , (1342615813, 313,          1) /* CritRating */
+     , (1342615813, 314,          4) /* CritDamageRating */
+     , (1342615813, 316,          1) /* CritDamageResistRating */
+     , (1342615813, 351,         12) /* LifeResistRating */
+     , (1342615813, 390,          0) /* Enlightenment */
      , (1342615813, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +38,11 @@ VALUES (1342615813,   1, True ) /* Stuck */
      , (1342615813,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342615813,   1, 'Form') /* Name */;
+VALUES (1342615813,   1, 'Form') /* Name */
+     , (1342615813,  21, 'King Umbramagi') /* MonarchsTitle */
+     , (1342615813,  35, 'Mushira Cyn Honey') /* PatronsTitle */
+     , (1342615813,  43, '18 January 2002') /* DateOfBirth */
+     , (1342615813,  47, 'The Asylum') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342615813,   1,   33554433) /* Setup */
@@ -27,6 +50,12 @@ VALUES (1342615813,   1,   33554433) /* Setup */
      , (1342615813,   3,  536870913) /* SoundTable */
      , (1342615813,   6,   67108990) /* PaletteBase */
      , (1342615813,   8,  100667446) /* Icon */
+     , (1342615813,   9,   83890472) /* EyesTexture */
+     , (1342615813,  10,   83890536) /* NoseTexture */
+     , (1342615813,  11,   83890576) /* MouthTexture */
+     , (1342615813,  15,   67109604) /* HairPalette */
+     , (1342615813,  16,   67109567) /* EyesPalette */
+     , (1342615813,  17,   67109552) /* SkinPalette */
      , (1342615813,  22,  872415236) /* PhysicsEffectTable */
      , (1342615813, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342615813, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

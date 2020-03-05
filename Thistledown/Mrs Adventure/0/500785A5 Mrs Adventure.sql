@@ -3,11 +3,26 @@ VALUES (1342670245, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342670245,   1,         16) /* ItemType - Creature */
+     , (1342670245,   2,         31) /* CreatureType - Human */
      , (1342670245,   6,        102) /* ItemsCapacity */
      , (1342670245,   7,          7) /* ContainersCapacity */
      , (1342670245,  16,          1) /* ItemUseable - No */
+     , (1342670245,  25,        275) /* Level */
+     , (1342670245,  30,          5) /* AllegianceRank */
      , (1342670245,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342670245, 113,          2) /* Gender - Female */
+     , (1342670245, 125,    4407341) /* Age */
      , (1342670245, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342670245, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342670245, 188,          2) /* HeritageGroup - Gharundim */
+     , (1342670245, 261,         31) /* CharacterTitleId */
+     , (1342670245, 281,          4) /* Faction1Bits */
+     , (1342670245, 289,        101) /* SocietyRankRadblo */
+     , (1342670245, 307,         23) /* DamageRating */
+     , (1342670245, 308,          9) /* DamageResistRating */
+     , (1342670245, 314,          4) /* CritDamageRating */
+     , (1342670245, 323,          2) /* HealingBoostRating */
+     , (1342670245, 390,          0) /* Enlightenment */
      , (1342670245, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +34,10 @@ VALUES (1342670245,   1, True ) /* Stuck */
      , (1342670245,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342670245,   1, 'Mrs Adventure') /* Name */;
+VALUES (1342670245,   1, 'Mrs Adventure') /* Name */
+     , (1342670245,  21, 'King Hot Shot''') /* MonarchsTitle */
+     , (1342670245,  35, 'Lithos Tremendous Lugian') /* PatronsTitle */
+     , (1342670245,  47, 'Neverending Portalstorms') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342670245,   1,   33554510) /* Setup */
@@ -27,6 +45,12 @@ VALUES (1342670245,   1,   33554510) /* Setup */
      , (1342670245,   3,  536870914) /* SoundTable */
      , (1342670245,   6,   67108990) /* PaletteBase */
      , (1342670245,   8,  100667446) /* Icon */
+     , (1342670245,   9,   83890263) /* EyesTexture */
+     , (1342670245,  10,   83890292) /* NoseTexture */
+     , (1342670245,  11,   83890339) /* MouthTexture */
+     , (1342670245,  15,   67109625) /* HairPalette */
+     , (1342670245,  16,   67110063) /* EyesPalette */
+     , (1342670245,  17,   67109557) /* SkinPalette */
      , (1342670245,  22,  872415236) /* PhysicsEffectTable */
      , (1342670245, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342670245, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

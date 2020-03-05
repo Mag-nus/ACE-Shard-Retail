@@ -8,7 +8,7 @@ VALUES (1343838784,   1,         16) /* ItemType - Creature */
      , (1343838784,   7,          8) /* ContainersCapacity */
      , (1343838784,  16,          1) /* ItemUseable - No */
      , (1343838784,  30,          3) /* AllegianceRank */
-     , (1343838784,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343838784,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1343838784, 113,          2) /* Gender - Female */
      , (1343838784, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343838784, 134,          4) /* PlayerKillerStatus - PK */
@@ -19,7 +19,7 @@ VALUES (1343838784,   1,         16) /* ItemType - Creature */
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1343838784,   1, True ) /* Stuck */
-     , (1343838784,  11, True ) /* IgnoreCollisions */
+     , (1343838784,  12, True ) /* ReportCollisions */
      , (1343838784,  13, False) /* Ethereal */
      , (1343838784,  14, True ) /* GravityStatus */
      , (1343838784,  19, True ) /* Attackable */
@@ -27,7 +27,6 @@ VALUES (1343838784,   1, True ) /* Stuck */
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343838784,   1, 'Maria Kirilenko') /* Name */
-     , (1343838784,  10, 'Khaotide') /* Fellowship */
      , (1343838784,  21, 'Archduke Fright Night') /* MonarchsTitle */
      , (1343838784,  35, 'Shi-chueh Liv tyler') /* PatronsTitle */
      , (1343838784,  47, 'CHAZ RETURNS') /* AllegianceName */;
@@ -52,8 +51,8 @@ VALUES (1343838784,   1,   33554510) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343838784, 1, 3370713130, 132.475, 40.43642, 0.004999995, -0.9432769, 0, 0, -0.332007) /* Location */
 /* @teleloc 0xC8E9002A [132.475000 40.436420 0.005000] -0.943277 0.000000 0.000000 -0.332007 */
-     , (1343838784, 8040, 459077, 70, -80, 0.004999995, 1, 0, 0, 0) /* PCAPRecordedLocation */
-/* @teleloc 0x00070145 [70.000000 -80.000000 0.005000] 1.000000 0.000000 0.000000 0.000000 */;
+     , (1343838784, 8040, 3316187139, 17.57545, 66.82086, 52.005, -0.9949166, 0, 0, -0.1007027) /* PCAPRecordedLocation */
+/* @teleloc 0xC5A90003 [17.575450 66.820860 52.005000] -0.994917 0.000000 0.000000 -0.100703 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343838784,  26, 1343917496) /* Monarch */

@@ -12,9 +12,10 @@ VALUES (1344175348,   1,         16) /* ItemType - Creature */
      , (1344175348,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
      , (1344175348, 113,          1) /* Gender - Male */
      , (1344175348, 133,          4) /* ShowableOnRadar - ShowAlways */
-     , (1344175348, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1344175348, 134,          4) /* PlayerKillerStatus - PK */
      , (1344175348, 188,          2) /* HeritageGroup - Gharundim */
      , (1344175348, 261,         13) /* CharacterTitleId */
+     , (1344175348, 307,          5) /* DamageRating */
      , (1344175348, 390,          0) /* Enlightenment */
      , (1344175348, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
@@ -31,7 +32,7 @@ VALUES (1344175348,   1, 'Acheran') /* Name */
      , (1344175348,  10, 'Qq') /* Fellowship */
      , (1344175348,  21, 'Kou Charlie Chan') /* MonarchsTitle */
      , (1344175348,  35, 'Neophyte Bbqsushi') /* PatronsTitle */
-     , (1344175348,  47, 'Chinese Mafia Elite-Force') /* AllegianceName */;
+     , (1344175348,  47, 'Charlie Chan''s The Legacy of Dark Tide') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1344175348,   1,   33554433) /* Setup */

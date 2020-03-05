@@ -3,11 +3,25 @@ VALUES (1343179684, 1, 10, 6738241) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343179684,   1,         16) /* ItemType - Creature */
+     , (1343179684,   2,         31) /* CreatureType - Human */
      , (1343179684,   6,        102) /* ItemsCapacity */
      , (1343179684,   7,          7) /* ContainersCapacity */
      , (1343179684,  16,          1) /* ItemUseable - No */
+     , (1343179684,  25,        275) /* Level */
+     , (1343179684,  30,          4) /* AllegianceRank */
      , (1343179684,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343179684, 113,          1) /* Gender - Male */
      , (1343179684, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343179684, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343179684, 188,          9) /* HeritageGroup - Empyrean */
+     , (1343179684, 261,          1) /* CharacterTitleId */
+     , (1343179684, 281,          2) /* Faction1Bits */
+     , (1343179684, 288,         70) /* SocietyRankEldweb */
+     , (1343179684, 307,          5) /* DamageRating */
+     , (1343179684, 308,          3) /* DamageResistRating */
+     , (1343179684, 314,          3) /* CritDamageRating */
+     , (1343179684, 323,          1) /* HealingBoostRating */
+     , (1343179684, 390,          0) /* Enlightenment */
      , (1343179684, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -22,7 +36,9 @@ INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (1343179684,  39, 1.20000004768372) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343179684,   1, 'Willie Buffit') /* Name */;
+VALUES (1343179684,   1, 'Willie Buffit') /* Name */
+     , (1343179684,  21, 'Duke Nobles Of'' Ancestry') /* MonarchsTitle */
+     , (1343179684,  35, 'Duke Nobles Of'' Ancestry') /* PatronsTitle */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343179684,   1,   33561110) /* Setup */
@@ -30,6 +46,12 @@ VALUES (1343179684,   1,   33561110) /* Setup */
      , (1343179684,   3,  536870913) /* SoundTable */
      , (1343179684,   6,   67108990) /* PaletteBase */
      , (1343179684,   8,  100667446) /* Icon */
+     , (1343179684,   9,   83890510) /* EyesTexture */
+     , (1343179684,  10,   83890549) /* NoseTexture */
+     , (1343179684,  11,   83890635) /* MouthTexture */
+     , (1343179684,  15,   67117077) /* HairPalette */
+     , (1343179684,  16,   67116855) /* EyesPalette */
+     , (1343179684,  17,   67116964) /* SkinPalette */
      , (1343179684,  22,  872415236) /* PhysicsEffectTable */
      , (1343179684, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343179684, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

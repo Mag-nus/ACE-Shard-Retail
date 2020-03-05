@@ -13,14 +13,13 @@ VALUES (1342230164,   1,         16) /* ItemType - Creature */
      , (1342230164,  43,        582) /* NumDeaths */
      , (1342230164,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
      , (1342230164, 113,          1) /* Gender - Male */
-     , (1342230164, 125,   22141547) /* Age */
+     , (1342230164, 125,   22141552) /* Age */
      , (1342230164, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342230164, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342230164, 181,       1444) /* ChessRank */
      , (1342230164, 188,          3) /* HeritageGroup - Sho */
      , (1342230164, 192,        272) /* FakeFishingSkill */
      , (1342230164, 261,        110) /* CharacterTitleId */
-     , (1342230164, 307,          5) /* DamageRating */
      , (1342230164, 390,          0) /* Enlightenment */
      , (1342230164, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 

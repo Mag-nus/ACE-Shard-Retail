@@ -3,11 +3,17 @@ VALUES (1344175390, 1, 10, 6738241) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1344175390,   1,         16) /* ItemType - Creature */
+     , (1344175390,   2,         31) /* CreatureType - Human */
      , (1344175390,   6,        102) /* ItemsCapacity */
      , (1344175390,   7,          7) /* ContainersCapacity */
      , (1344175390,  16,          1) /* ItemUseable - No */
      , (1344175390,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1344175390, 113,          1) /* Gender - Male */
      , (1344175390, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1344175390, 134,          4) /* PlayerKillerStatus - PK */
+     , (1344175390, 188,          6) /* HeritageGroup - Gearknight */
+     , (1344175390, 261,          1) /* CharacterTitleId */
+     , (1344175390, 390,          0) /* Enlightenment */
      , (1344175390, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -22,7 +28,8 @@ INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (1344175390,  39, 1.20000004768372) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1344175390,   1, 'Grindr') /* Name */;
+VALUES (1344175390,   1, 'Grindr') /* Name */
+     , (1344175390,  10, 'Asfd') /* Fellowship */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1344175390,   1,   33560839) /* Setup */
@@ -30,6 +37,12 @@ VALUES (1344175390,   1,   33560839) /* Setup */
      , (1344175390,   3,  536871123) /* SoundTable */
      , (1344175390,   6,   67108990) /* PaletteBase */
      , (1344175390,   8,  100667446) /* Icon */
+     , (1344175390,   9,   83891927) /* EyesTexture */
+     , (1344175390,  10,   83891927) /* NoseTexture */
+     , (1344175390,  11,   83891927) /* MouthTexture */
+     , (1344175390,  15,   67116863) /* HairPalette */
+     , (1344175390,  16,   67116885) /* EyesPalette */
+     , (1344175390,  17,   67116893) /* SkinPalette */
      , (1344175390,  22,  872415434) /* PhysicsEffectTable */
      , (1344175390, 8001,    8388630) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, RadarBehavior */
      , (1344175390, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

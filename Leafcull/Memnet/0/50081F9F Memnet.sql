@@ -3,11 +3,21 @@ VALUES (1342709663, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342709663,   1,         16) /* ItemType - Creature */
+     , (1342709663,   2,         31) /* CreatureType - Human */
      , (1342709663,   6,        102) /* ItemsCapacity */
      , (1342709663,   7,          8) /* ContainersCapacity */
      , (1342709663,  16,          1) /* ItemUseable - No */
+     , (1342709663,  25,        275) /* Level */
+     , (1342709663,  30,          4) /* AllegianceRank */
+     , (1342709663,  43,       1961) /* NumDeaths */
      , (1342709663,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342709663, 113,          1) /* Gender - Male */
+     , (1342709663, 125,   21673709) /* Age */
      , (1342709663, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342709663, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342709663, 188,          1) /* HeritageGroup - Aluvian */
+     , (1342709663, 261,        572) /* CharacterTitleId */
+     , (1342709663, 390,          0) /* Enlightenment */
      , (1342709663, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +29,11 @@ VALUES (1342709663,   1, True ) /* Stuck */
      , (1342709663,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342709663,   1, 'Memnet') /* Name */;
+VALUES (1342709663,   1, 'Memnet') /* Name */
+     , (1342709663,  21, 'Void Lady I Am The Hater Of All') /* MonarchsTitle */
+     , (1342709663,  35, 'Naquiba Memnett') /* PatronsTitle */
+     , (1342709663,  43, '13 June 2001') /* DateOfBirth */
+     , (1342709663,  47, 'We Hate You All') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342709663,   1,   33554433) /* Setup */
@@ -27,6 +41,12 @@ VALUES (1342709663,   1,   33554433) /* Setup */
      , (1342709663,   3,  536870913) /* SoundTable */
      , (1342709663,   6,   67108990) /* PaletteBase */
      , (1342709663,   8,  100667446) /* Icon */
+     , (1342709663,   9,   83890511) /* EyesTexture */
+     , (1342709663,  10,   83890562) /* NoseTexture */
+     , (1342709663,  11,   83890570) /* MouthTexture */
+     , (1342709663,  15,   67109608) /* HairPalette */
+     , (1342709663,  16,   67109564) /* EyesPalette */
+     , (1342709663,  17,   67109558) /* SkinPalette */
      , (1342709663,  22,  872415236) /* PhysicsEffectTable */
      , (1342709663, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342709663, 8003,   33554460) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable, PkLiteStatus */

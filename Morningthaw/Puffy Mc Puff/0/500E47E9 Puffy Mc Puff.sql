@@ -3,11 +3,23 @@ VALUES (1343113193, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343113193,   1,         16) /* ItemType - Creature */
+     , (1343113193,   2,         31) /* CreatureType - Human */
      , (1343113193,   6,        102) /* ItemsCapacity */
      , (1343113193,   7,          7) /* ContainersCapacity */
      , (1343113193,  16,          1) /* ItemUseable - No */
+     , (1343113193,  25,        234) /* Level */
+     , (1343113193,  30,          3) /* AllegianceRank */
+     , (1343113193,  43,       1958) /* NumDeaths */
      , (1343113193,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343113193, 113,          1) /* Gender - Male */
      , (1343113193, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343113193, 134,          4) /* PlayerKillerStatus - PK */
+     , (1343113193, 188,          4) /* HeritageGroup - Viamontian */
+     , (1343113193, 261,        469) /* CharacterTitleId */
+     , (1343113193, 281,          2) /* Faction1Bits */
+     , (1343113193, 288,         95) /* SocietyRankEldweb */
+     , (1343113193, 307,          5) /* DamageRating */
+     , (1343113193, 390,          0) /* Enlightenment */
      , (1343113193, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +31,11 @@ VALUES (1343113193,   1, True ) /* Stuck */
      , (1343113193,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343113193,   1, 'Puffy Mc Puff') /* Name */;
+VALUES (1343113193,   1, 'Puffy Mc Puff') /* Name */
+     , (1343113193,  21, 'High King He who is called I Am') /* MonarchsTitle */
+     , (1343113193,  35, 'Taikou Mal Kick-yu') /* PatronsTitle */
+     , (1343113193,  43, '03 August 2006') /* DateOfBirth */
+     , (1343113193,  47, 'Untalented Circus Midgets') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343113193,   1,   33554433) /* Setup */
@@ -27,6 +43,12 @@ VALUES (1343113193,   1,   33554433) /* Setup */
      , (1343113193,   3,  536870913) /* SoundTable */
      , (1343113193,   6,   67108990) /* PaletteBase */
      , (1343113193,   8,  100667446) /* Icon */
+     , (1343113193,   9,   83890448) /* EyesTexture */
+     , (1343113193,  10,   83890550) /* NoseTexture */
+     , (1343113193,  11,   83890629) /* MouthTexture */
+     , (1343113193,  15,   67109633) /* HairPalette */
+     , (1343113193,  16,   67110064) /* EyesPalette */
+     , (1343113193,  17,   67115904) /* SkinPalette */
      , (1343113193,  22,  872415236) /* PhysicsEffectTable */
      , (1343113193, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343113193, 8003,         60) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable, PlayerKiller */

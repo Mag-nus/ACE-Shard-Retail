@@ -10,7 +10,7 @@ VALUES (1342652301,   1,         16) /* ItemType - Creature */
      , (1342652301,  25,        231) /* Level */
      , (1342652301,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1342652301, 113,          1) /* Gender - Male */
-     , (1342652301, 125,    1202226) /* Age */
+     , (1342652301, 125,    1202230) /* Age */
      , (1342652301, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342652301, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342652301, 188,          3) /* HeritageGroup - Sho */

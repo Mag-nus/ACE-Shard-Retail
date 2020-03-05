@@ -15,7 +15,6 @@ VALUES (1344026601,   1,         16) /* ItemType - Creature */
      , (1344026601, 134,          2) /* PlayerKillerStatus - NPK */
      , (1344026601, 188,          3) /* HeritageGroup - Sho */
      , (1344026601, 261,          1) /* CharacterTitleId */
-     , (1344026601, 307,          5) /* DamageRating */
      , (1344026601, 390,          0) /* Enlightenment */
      , (1344026601, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 

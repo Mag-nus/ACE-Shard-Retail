@@ -3,11 +3,26 @@ VALUES (1343488604, 1, 10, 6738241) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343488604,   1,         16) /* ItemType - Creature */
+     , (1343488604,   2,         31) /* CreatureType - Human */
      , (1343488604,   6,        102) /* ItemsCapacity */
      , (1343488604,   7,          7) /* ContainersCapacity */
      , (1343488604,  16,          1) /* ItemUseable - No */
+     , (1343488604,  25,        275) /* Level */
+     , (1343488604,  30,          1) /* AllegianceRank */
      , (1343488604,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343488604, 113,          1) /* Gender - Male */
      , (1343488604, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343488604, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343488604, 188,          7) /* HeritageGroup - Tumerok */
+     , (1343488604, 261,          9) /* CharacterTitleId */
+     , (1343488604, 281,          2) /* Faction1Bits */
+     , (1343488604, 288,       1001) /* SocietyRankEldweb */
+     , (1343488604, 307,         14) /* DamageRating */
+     , (1343488604, 308,         12) /* DamageResistRating */
+     , (1343488604, 314,          8) /* CritDamageRating */
+     , (1343488604, 316,          4) /* CritDamageResistRating */
+     , (1343488604, 323,          1) /* HealingBoostRating */
+     , (1343488604, 390,          0) /* Enlightenment */
      , (1343488604, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -22,7 +37,11 @@ INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (1343488604,  39, 1.10000002384186) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343488604,   1, 'Nihoawa') /* Name */;
+VALUES (1343488604,   1, 'Nihoawa') /* Name */
+     , (1343488604,  10, 'Rrrr') /* Fellowship */
+     , (1343488604,  21, 'Commodore Izme') /* MonarchsTitle */
+     , (1343488604,  35, 'Adept Darcen') /* PatronsTitle */
+     , (1343488604,  47, 'izme souls') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343488604,   1,   33561114) /* Setup */
@@ -30,6 +49,12 @@ VALUES (1343488604,   1,   33561114) /* Setup */
      , (1343488604,   3,  536871127) /* SoundTable */
      , (1343488604,   6,   67108990) /* PaletteBase */
      , (1343488604,   8,  100667446) /* Icon */
+     , (1343488604,   9,   83898683) /* EyesTexture */
+     , (1343488604,  10,   83898685) /* NoseTexture */
+     , (1343488604,  11,   83898689) /* MouthTexture */
+     , (1343488604,  15,   67117028) /* HairPalette */
+     , (1343488604,  16,   67110063) /* EyesPalette */
+     , (1343488604,  17,   67116873) /* SkinPalette */
      , (1343488604,  22,  872415441) /* PhysicsEffectTable */
      , (1343488604, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343488604, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

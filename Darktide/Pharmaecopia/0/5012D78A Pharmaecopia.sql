@@ -26,7 +26,7 @@ VALUES (1343412106,   1,         16) /* ItemType - Creature */
      , (1343412106, 381,          6) /* PKDamageRating */
      , (1343412106, 382,          6) /* PKDamageResistRating */
      , (1343412106, 390,          0) /* Enlightenment */
-     , (1343412106, 8007,          0) /* PCAPRecordedAutonomousMovement */;
+     , (1343412106, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1343412106,   1, True ) /* Stuck */
@@ -56,7 +56,7 @@ VALUES (1343412106,   1,   33554433) /* Setup */
      , (1343412106,  17,   67110059) /* SkinPalette */
      , (1343412106,  22,  872415236) /* PhysicsEffectTable */
      , (1343412106, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
-     , (1343412106, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
+     , (1343412106, 8003,         60) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable, PlayerKiller */
      , (1343412106, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
@@ -66,7 +66,7 @@ VALUES (1343412106, 1, 3316121652, 166.1768, 93.48412, 42.005, 0.9936842, 0, 0, 
 /* @teleloc 0xC6A90009 [46.805000 4.219000 42.005000] 1.000000 0.000000 0.000000 0.000000 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
-VALUES (1343412106,  26, 1344171218) /* Monarch */
+VALUES (1343412106,  26, 1343412106) /* Monarch */
      , (1343412106, 8000, 1343412106) /* PCAPRecordedObjectIID */;
 
 INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)

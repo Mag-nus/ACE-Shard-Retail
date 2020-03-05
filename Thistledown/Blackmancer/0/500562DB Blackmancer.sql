@@ -3,11 +3,29 @@ VALUES (1342530267, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342530267,   1,         16) /* ItemType - Creature */
+     , (1342530267,   2,         31) /* CreatureType - Human */
      , (1342530267,   6,        102) /* ItemsCapacity */
      , (1342530267,   7,          8) /* ContainersCapacity */
      , (1342530267,  16,          1) /* ItemUseable - No */
+     , (1342530267,  25,        275) /* Level */
+     , (1342530267,  30,          7) /* AllegianceRank */
      , (1342530267,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342530267, 113,          1) /* Gender - Male */
+     , (1342530267, 125,   19737697) /* Age */
      , (1342530267, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342530267, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342530267, 188,          2) /* HeritageGroup - Gharundim */
+     , (1342530267, 261,        615) /* CharacterTitleId */
+     , (1342530267, 262,        401) /* NumCharacterTitles */
+     , (1342530267, 281,          4) /* Faction1Bits */
+     , (1342530267, 289,       1001) /* SocietyRankRadblo */
+     , (1342530267, 307,         24) /* DamageRating */
+     , (1342530267, 308,          8) /* DamageResistRating */
+     , (1342530267, 313,          1) /* CritRating */
+     , (1342530267, 314,         11) /* CritDamageRating */
+     , (1342530267, 316,          3) /* CritDamageResistRating */
+     , (1342530267, 323,          1) /* HealingBoostRating */
+     , (1342530267, 390,          0) /* Enlightenment */
      , (1342530267, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +37,11 @@ VALUES (1342530267,   1, True ) /* Stuck */
      , (1342530267,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342530267,   1, 'Blackmancer') /* Name */;
+VALUES (1342530267,   1, 'Blackmancer') /* Name */
+     , (1342530267,  21, 'King Hot Shot''') /* MonarchsTitle */
+     , (1342530267,  35, 'King Hot Shot''') /* PatronsTitle */
+     , (1342530267,  43, '23 September 2000') /* DateOfBirth */
+     , (1342530267,  47, 'Neverending Portalstorms') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342530267,   1,   33554433) /* Setup */
@@ -27,6 +49,12 @@ VALUES (1342530267,   1,   33554433) /* Setup */
      , (1342530267,   3,  536870913) /* SoundTable */
      , (1342530267,   6,   67108990) /* PaletteBase */
      , (1342530267,   8,  100667446) /* Icon */
+     , (1342530267,   9,   83890476) /* EyesTexture */
+     , (1342530267,  10,   83890543) /* NoseTexture */
+     , (1342530267,  11,   83890618) /* MouthTexture */
+     , (1342530267,  15,   67109618) /* HairPalette */
+     , (1342530267,  16,   67110062) /* EyesPalette */
+     , (1342530267,  17,   67109550) /* SkinPalette */
      , (1342530267,  22,  872415236) /* PhysicsEffectTable */
      , (1342530267, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342530267, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

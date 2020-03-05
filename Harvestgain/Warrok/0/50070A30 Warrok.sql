@@ -3,11 +3,26 @@ VALUES (1342638640, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342638640,   1,         16) /* ItemType - Creature */
+     , (1342638640,   2,         31) /* CreatureType - Human */
      , (1342638640,   6,        102) /* ItemsCapacity */
      , (1342638640,   7,          8) /* ContainersCapacity */
      , (1342638640,  16,          1) /* ItemUseable - No */
+     , (1342638640,  25,        275) /* Level */
+     , (1342638640,  30,          2) /* AllegianceRank */
      , (1342638640,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1342638640, 113,          1) /* Gender - Male */
      , (1342638640, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342638640, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342638640, 188,          1) /* HeritageGroup - Aluvian */
+     , (1342638640, 261,         75) /* CharacterTitleId */
+     , (1342638640, 307,         10) /* DamageRating */
+     , (1342638640, 308,          5) /* DamageResistRating */
+     , (1342638640, 313,          1) /* CritRating */
+     , (1342638640, 314,          4) /* CritDamageRating */
+     , (1342638640, 316,          1) /* CritDamageResistRating */
+     , (1342638640, 323,          9) /* HealingBoostRating */
+     , (1342638640, 350,         32) /* DotResistRating */
+     , (1342638640, 390,          0) /* Enlightenment */
      , (1342638640, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +34,10 @@ VALUES (1342638640,   1, True ) /* Stuck */
      , (1342638640,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342638640,   1, 'Warrok') /* Name */;
+VALUES (1342638640,   1, 'Warrok') /* Name */
+     , (1342638640,  21, 'Sultana Lan''fear') /* MonarchsTitle */
+     , (1342638640,  35, 'Aetheling Hellblast') /* PatronsTitle */
+     , (1342638640,  47, 'Damage Inc') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342638640,   1,   33554433) /* Setup */
@@ -27,6 +45,12 @@ VALUES (1342638640,   1,   33554433) /* Setup */
      , (1342638640,   3,  536870913) /* SoundTable */
      , (1342638640,   6,   67108990) /* PaletteBase */
      , (1342638640,   8,  100667446) /* Icon */
+     , (1342638640,   9,   83890481) /* EyesTexture */
+     , (1342638640,  10,   83890547) /* NoseTexture */
+     , (1342638640,  11,   83890651) /* MouthTexture */
+     , (1342638640,  15,   67116859) /* HairPalette */
+     , (1342638640,  16,   67109566) /* EyesPalette */
+     , (1342638640,  17,   67109558) /* SkinPalette */
      , (1342638640,  22,  872415236) /* PhysicsEffectTable */
      , (1342638640, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342638640, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

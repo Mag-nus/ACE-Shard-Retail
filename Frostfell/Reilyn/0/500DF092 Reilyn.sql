@@ -3,11 +3,22 @@ VALUES (1343090834, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343090834,   1,         16) /* ItemType - Creature */
+     , (1343090834,   2,         31) /* CreatureType - Human */
      , (1343090834,   6,        102) /* ItemsCapacity */
      , (1343090834,   7,          8) /* ContainersCapacity */
      , (1343090834,  16,          1) /* ItemUseable - No */
+     , (1343090834,  25,        275) /* Level */
+     , (1343090834,  30,          3) /* AllegianceRank */
+     , (1343090834,  43,       2690) /* NumDeaths */
      , (1343090834,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343090834, 113,          2) /* Gender - Female */
+     , (1343090834, 125,   16485968) /* Age */
      , (1343090834, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343090834, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343090834, 188,          2) /* HeritageGroup - Gharundim */
+     , (1343090834, 261,        795) /* CharacterTitleId */
+     , (1343090834, 262,         88) /* NumCharacterTitles */
+     , (1343090834, 390,          0) /* Enlightenment */
      , (1343090834, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +30,11 @@ VALUES (1343090834,   1, True ) /* Stuck */
      , (1343090834,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343090834,   1, 'Reilyn') /* Name */;
+VALUES (1343090834,   1, 'Reilyn') /* Name */
+     , (1343090834,  21, 'King Oompa Loompa') /* MonarchsTitle */
+     , (1343090834,  35, 'Shi-chueh Thunderdome') /* PatronsTitle */
+     , (1343090834,  43, '25 October 2003') /* DateOfBirth */
+     , (1343090834,  47, 'LOG START AFK') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343090834,   1,   33554510) /* Setup */
@@ -27,6 +42,12 @@ VALUES (1343090834,   1,   33554510) /* Setup */
      , (1343090834,   3,  536870914) /* SoundTable */
      , (1343090834,   6,   67108990) /* PaletteBase */
      , (1343090834,   8,  100667446) /* Icon */
+     , (1343090834,   9,   83890262) /* EyesTexture */
+     , (1343090834,  10,   83890316) /* NoseTexture */
+     , (1343090834,  11,   83890351) /* MouthTexture */
+     , (1343090834,  15,   67117019) /* HairPalette */
+     , (1343090834,  16,   67109567) /* EyesPalette */
+     , (1343090834,  17,   67109554) /* SkinPalette */
      , (1343090834,  22,  872415236) /* PhysicsEffectTable */
      , (1343090834, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343090834, 8003,   33554460) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable, PkLiteStatus */
@@ -35,8 +56,8 @@ VALUES (1343090834,   1,   33554510) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343090834, 1, 3482648577, 3.148094, 0.2947998, 18.005, -0.9775935, 0, 0, 0.2105017) /* Location */
 /* @teleloc 0xCF950001 [3.148094 0.294800 18.005000] -0.977594 0.000000 0.000000 0.210502 */
-     , (1343090834, 8040, 3583574079, 187.3588, 159.1379, 374.005, 0.9917963, 0, 0, -0.1278281) /* PCAPRecordedLocation */
-/* @teleloc 0xD599003F [187.358800 159.137900 374.005000] 0.991796 0.000000 0.000000 -0.127828 */;
+     , (1343090834, 8040, 3550085166, 127, 127, 20.58833, 1, 0, 0, 0) /* PCAPRecordedLocation */
+/* @teleloc 0xD39A002E [127.000000 127.000000 20.588330] 1.000000 0.000000 0.000000 0.000000 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343090834,  26, 1342645687) /* Monarch */
@@ -96,23 +117,23 @@ VALUES (1343090834, 0, 83889072, 83886685, 10)
      , (1343090834, 16, 83886684, 83890351, 3);
 
 INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, `order`)
-VALUES (1343090834, 0, 16788097, 22)
-     , (1343090834, 1, 16788083, 18)
-     , (1343090834, 2, 16788085, 20)
-     , (1343090834, 3, 16788081, 29)
-     , (1343090834, 4, 16788088, 31)
-     , (1343090834, 5, 16788087, 17)
-     , (1343090834, 6, 16788086, 19)
-     , (1343090834, 7, 16788082, 30)
-     , (1343090834, 8, 16788089, 32)
-     , (1343090834, 9, 16788080, 21)
-     , (1343090834, 10, 16788090, 24)
-     , (1343090834, 11, 16788084, 26)
-     , (1343090834, 12, 16788094, 28)
-     , (1343090834, 13, 16788099, 23)
-     , (1343090834, 14, 16788092, 25)
-     , (1343090834, 15, 16788095, 27)
-     , (1343090834, 16, 16787917, 33)
+VALUES (1343090834, 0, 16788097, 23)
+     , (1343090834, 1, 16788083, 19)
+     , (1343090834, 2, 16788085, 21)
+     , (1343090834, 3, 16788081, 30)
+     , (1343090834, 4, 16788088, 32)
+     , (1343090834, 5, 16788087, 18)
+     , (1343090834, 6, 16788086, 20)
+     , (1343090834, 7, 16788082, 31)
+     , (1343090834, 8, 16788089, 33)
+     , (1343090834, 9, 16788080, 22)
+     , (1343090834, 10, 16788090, 25)
+     , (1343090834, 11, 16788084, 27)
+     , (1343090834, 12, 16788094, 29)
+     , (1343090834, 13, 16788099, 24)
+     , (1343090834, 14, 16788092, 26)
+     , (1343090834, 15, 16788095, 28)
+     , (1343090834, 16, 16795686, 17)
      , (1343090834, 17, 16777708, 0)
      , (1343090834, 18, 16777708, 1)
      , (1343090834, 19, 16777708, 2)

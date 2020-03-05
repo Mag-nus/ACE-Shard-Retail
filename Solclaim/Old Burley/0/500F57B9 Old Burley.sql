@@ -3,11 +3,23 @@ VALUES (1343182777, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343182777,   1,         16) /* ItemType - Creature */
+     , (1343182777,   2,         31) /* CreatureType - Human */
      , (1343182777,   6,        102) /* ItemsCapacity */
      , (1343182777,   7,          7) /* ContainersCapacity */
      , (1343182777,  16,          1) /* ItemUseable - No */
+     , (1343182777,  25,        223) /* Level */
+     , (1343182777,  30,          3) /* AllegianceRank */
      , (1343182777,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343182777, 113,          1) /* Gender - Male */
+     , (1343182777, 125,    1221593) /* Age */
      , (1343182777, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343182777, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343182777, 188,          2) /* HeritageGroup - Gharundim */
+     , (1343182777, 261,         61) /* CharacterTitleId */
+     , (1343182777, 307,          5) /* DamageRating */
+     , (1343182777, 316,          1) /* CritDamageResistRating */
+     , (1343182777, 323,          3) /* HealingBoostRating */
+     , (1343182777, 390,          0) /* Enlightenment */
      , (1343182777, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +31,11 @@ VALUES (1343182777,   1, True ) /* Stuck */
      , (1343182777,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343182777,   1, 'Old Burley') /* Name */;
+VALUES (1343182777,   1, 'Old Burley') /* Name */
+     , (1343182777,  21, 'High King Laris Bloodsong') /* MonarchsTitle */
+     , (1343182777,  35, 'Shi-chueh Tranner') /* PatronsTitle */
+     , (1343182777,  43, '26 December 2016') /* DateOfBirth */
+     , (1343182777,  47, 'Saints of Solclaim') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343182777,   1,   33554433) /* Setup */
@@ -27,6 +43,12 @@ VALUES (1343182777,   1,   33554433) /* Setup */
      , (1343182777,   3,  536870913) /* SoundTable */
      , (1343182777,   6,   67108990) /* PaletteBase */
      , (1343182777,   8,  100667446) /* Icon */
+     , (1343182777,   9,   83890464) /* EyesTexture */
+     , (1343182777,  10,   83890530) /* NoseTexture */
+     , (1343182777,  11,   83890638) /* MouthTexture */
+     , (1343182777,  15,   67117021) /* HairPalette */
+     , (1343182777,  16,   67110063) /* EyesPalette */
+     , (1343182777,  17,   67109552) /* SkinPalette */
      , (1343182777,  22,  872415236) /* PhysicsEffectTable */
      , (1343182777, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343182777, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

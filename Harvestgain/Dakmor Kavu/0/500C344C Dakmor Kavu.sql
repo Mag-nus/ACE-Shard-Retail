@@ -9,10 +9,10 @@ VALUES (1342977100,   1,         16) /* ItemType - Creature */
      , (1342977100,  16,          1) /* ItemUseable - No */
      , (1342977100,  25,        275) /* Level */
      , (1342977100,  30,          5) /* AllegianceRank */
-     , (1342977100,  43,       3919) /* NumDeaths */
+     , (1342977100,  43,       3921) /* NumDeaths */
      , (1342977100,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1342977100, 113,          1) /* Gender - Male */
-     , (1342977100, 125,   79620171) /* Age */
+     , (1342977100, 125,   79743497) /* Age */
      , (1342977100, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342977100, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342977100, 188,          3) /* HeritageGroup - Sho */
@@ -39,7 +39,6 @@ VALUES (1342977100,   1, True ) /* Stuck */
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1342977100,   1, 'Dakmor Kavu') /* Name */
-     , (1342977100,  10, 'A o A') /* Fellowship */
      , (1342977100,  21, 'King Paul Mua''dib') /* MonarchsTitle */
      , (1342977100,  35, 'Ealdor Linkmage') /* PatronsTitle */
      , (1342977100,  47, 'Archangels of Armageddon') /* AllegianceName */;
@@ -64,8 +63,8 @@ VALUES (1342977100,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1342977100, 1, 3111059485, 80.52308, 106.3613, 18.06556, 0.9179793, 0, 0, -0.3966284) /* Location */
 /* @teleloc 0xB96F001D [80.523080 106.361300 18.065560] 0.917979 0.000000 0.000000 -0.396628 */
-     , (1342977100, 8040, 3111059485, 83.84628, 105.6351, 18.39622, -0.998193, 0, 0, -0.06008928) /* PCAPRecordedLocation */
-/* @teleloc 0xB96F001D [83.846280 105.635100 18.396220] -0.998193 0.000000 0.000000 -0.060089 */;
+     , (1342977100, 8040, 3111059485, 80.69196, 110.4786, 17.31112, 0.2873578, 0, 0, 0.9578233) /* PCAPRecordedLocation */
+/* @teleloc 0xB96F001D [80.691960 110.478600 17.311120] 0.287358 0.000000 0.000000 0.957823 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342977100,  26, 1342205575) /* Monarch */

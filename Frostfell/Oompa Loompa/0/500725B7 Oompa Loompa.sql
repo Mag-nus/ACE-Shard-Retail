@@ -3,11 +3,31 @@ VALUES (1342645687, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342645687,   1,         16) /* ItemType - Creature */
+     , (1342645687,   2,         31) /* CreatureType - Human */
      , (1342645687,   6,        102) /* ItemsCapacity */
      , (1342645687,   7,          8) /* ContainersCapacity */
      , (1342645687,  16,          1) /* ItemUseable - No */
+     , (1342645687,  25,        275) /* Level */
+     , (1342645687,  30,          9) /* AllegianceRank */
+     , (1342645687,  35,       4113) /* AllegianceFollowers */
      , (1342645687,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342645687, 113,          1) /* Gender - Male */
      , (1342645687, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342645687, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342645687, 188,          1) /* HeritageGroup - Aluvian */
+     , (1342645687, 261,        445) /* CharacterTitleId */
+     , (1342645687, 262,        111) /* NumCharacterTitles */
+     , (1342645687, 281,          1) /* Faction1Bits */
+     , (1342645687, 287,       1001) /* SocietyRankCelhan */
+     , (1342645687, 307,         39) /* DamageRating */
+     , (1342645687, 308,          9) /* DamageResistRating */
+     , (1342645687, 313,          1) /* CritRating */
+     , (1342645687, 314,         25) /* CritDamageRating */
+     , (1342645687, 316,          2) /* CritDamageResistRating */
+     , (1342645687, 323,          4) /* HealingBoostRating */
+     , (1342645687, 381,          5) /* PKDamageRating */
+     , (1342645687, 382,          6) /* PKDamageResistRating */
+     , (1342645687, 390,          1) /* Enlightenment */
      , (1342645687, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +39,10 @@ VALUES (1342645687,   1, True ) /* Stuck */
      , (1342645687,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342645687,   1, 'Oompa Loompa') /* Name */;
+VALUES (1342645687,   1, 'Oompa Loompa') /* Name */
+     , (1342645687,  10, 'Rrrr') /* Fellowship */
+     , (1342645687,  43, '01 February 2001') /* DateOfBirth */
+     , (1342645687,  47, 'LOG START AFK') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342645687,   1,   33554433) /* Setup */
@@ -27,6 +50,12 @@ VALUES (1342645687,   1,   33554433) /* Setup */
      , (1342645687,   3,  536870913) /* SoundTable */
      , (1342645687,   6,   67108990) /* PaletteBase */
      , (1342645687,   8,  100667446) /* Icon */
+     , (1342645687,   9,   83890506) /* EyesTexture */
+     , (1342645687,  10,   83890549) /* NoseTexture */
+     , (1342645687,  11,   83890575) /* MouthTexture */
+     , (1342645687,  15,   67109596) /* HairPalette */
+     , (1342645687,  16,   67109566) /* EyesPalette */
+     , (1342645687,  17,   67109560) /* SkinPalette */
      , (1342645687,  22,  872415236) /* PhysicsEffectTable */
      , (1342645687, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342645687, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

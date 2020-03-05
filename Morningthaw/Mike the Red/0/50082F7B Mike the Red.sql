@@ -3,11 +3,29 @@ VALUES (1342713723, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342713723,   1,         16) /* ItemType - Creature */
+     , (1342713723,   2,         31) /* CreatureType - Human */
      , (1342713723,   6,        102) /* ItemsCapacity */
      , (1342713723,   7,          7) /* ContainersCapacity */
      , (1342713723,  16,          1) /* ItemUseable - No */
+     , (1342713723,  25,        275) /* Level */
+     , (1342713723,  30,          7) /* AllegianceRank */
+     , (1342713723,  43,        612) /* NumDeaths */
      , (1342713723,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342713723, 113,          1) /* Gender - Male */
+     , (1342713723, 125,    4723340) /* Age */
      , (1342713723, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342713723, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342713723, 188,          3) /* HeritageGroup - Sho */
+     , (1342713723, 261,        112) /* CharacterTitleId */
+     , (1342713723, 262,         48) /* NumCharacterTitles */
+     , (1342713723, 281,          1) /* Faction1Bits */
+     , (1342713723, 287,         60) /* SocietyRankCelhan */
+     , (1342713723, 307,          8) /* DamageRating */
+     , (1342713723, 308,          4) /* DamageResistRating */
+     , (1342713723, 313,          1) /* CritRating */
+     , (1342713723, 314,          3) /* CritDamageRating */
+     , (1342713723, 351,         32) /* LifeResistRating */
+     , (1342713723, 390,          0) /* Enlightenment */
      , (1342713723, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +37,11 @@ VALUES (1342713723,   1, True ) /* Stuck */
      , (1342713723,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342713723,   1, 'Mike the Red') /* Name */;
+VALUES (1342713723,   1, 'Mike the Red') /* Name */
+     , (1342713723,  21, 'High King Mr Adventure') /* MonarchsTitle */
+     , (1342713723,  35, 'Duchess Mishakal Skye') /* PatronsTitle */
+     , (1342713723,  43, '05 July 2001') /* DateOfBirth */
+     , (1342713723,  47, 'Knights of Fortune') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342713723,   1,   33554433) /* Setup */
@@ -27,6 +49,12 @@ VALUES (1342713723,   1,   33554433) /* Setup */
      , (1342713723,   3,  536870913) /* SoundTable */
      , (1342713723,   6,   67108990) /* PaletteBase */
      , (1342713723,   8,  100667446) /* Icon */
+     , (1342713723,   9,   83890446) /* EyesTexture */
+     , (1342713723,  10,   83890547) /* NoseTexture */
+     , (1342713723,  11,   83890657) /* MouthTexture */
+     , (1342713723,  15,   67109631) /* HairPalette */
+     , (1342713723,  16,   67109565) /* EyesPalette */
+     , (1342713723,  17,   67110045) /* SkinPalette */
      , (1342713723,  22,  872415236) /* PhysicsEffectTable */
      , (1342713723, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342713723, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

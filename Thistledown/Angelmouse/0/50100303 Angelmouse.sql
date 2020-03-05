@@ -3,11 +3,30 @@ VALUES (1343226627, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343226627,   1,         16) /* ItemType - Creature */
+     , (1343226627,   2,         31) /* CreatureType - Human */
      , (1343226627,   6,        102) /* ItemsCapacity */
      , (1343226627,   7,          7) /* ContainersCapacity */
      , (1343226627,  16,          1) /* ItemUseable - No */
+     , (1343226627,  25,        275) /* Level */
+     , (1343226627,  30,          1) /* AllegianceRank */
+     , (1343226627,  43,         26) /* NumDeaths */
      , (1343226627,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343226627, 113,          1) /* Gender - Male */
+     , (1343226627, 125,    1544979) /* Age */
      , (1343226627, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343226627, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343226627, 188,          2) /* HeritageGroup - Gharundim */
+     , (1343226627, 261,         57) /* CharacterTitleId */
+     , (1343226627, 262,         47) /* NumCharacterTitles */
+     , (1343226627, 281,          4) /* Faction1Bits */
+     , (1343226627, 289,        905) /* SocietyRankRadblo */
+     , (1343226627, 307,         26) /* DamageRating */
+     , (1343226627, 308,         17) /* DamageResistRating */
+     , (1343226627, 313,          1) /* CritRating */
+     , (1343226627, 314,          9) /* CritDamageRating */
+     , (1343226627, 316,          3) /* CritDamageResistRating */
+     , (1343226627, 323,          4) /* HealingBoostRating */
+     , (1343226627, 390,          0) /* Enlightenment */
      , (1343226627, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +38,12 @@ VALUES (1343226627,   1, True ) /* Stuck */
      , (1343226627,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343226627,   1, 'Angelmouse') /* Name */;
+VALUES (1343226627,   1, 'Angelmouse') /* Name */
+     , (1343226627,  10, 'One Night Remains') /* Fellowship */
+     , (1343226627,  21, 'Naquib Jesse the Destroyer') /* MonarchsTitle */
+     , (1343226627,  35, 'Naquib Jesse the Destroyer') /* PatronsTitle */
+     , (1343226627,  43, '04 July 2014') /* DateOfBirth */
+     , (1343226627,  47, 'Mostly Harmless') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343226627,   1,   33554433) /* Setup */
@@ -27,6 +51,12 @@ VALUES (1343226627,   1,   33554433) /* Setup */
      , (1343226627,   3,  536870913) /* SoundTable */
      , (1343226627,   6,   67108990) /* PaletteBase */
      , (1343226627,   8,  100667446) /* Icon */
+     , (1343226627,   9,   83890484) /* EyesTexture */
+     , (1343226627,  10,   83890534) /* NoseTexture */
+     , (1343226627,  11,   83890611) /* MouthTexture */
+     , (1343226627,  15,   67117069) /* HairPalette */
+     , (1343226627,  16,   67110063) /* EyesPalette */
+     , (1343226627,  17,   67109554) /* SkinPalette */
      , (1343226627,  22,  872415236) /* PhysicsEffectTable */
      , (1343226627, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343226627, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

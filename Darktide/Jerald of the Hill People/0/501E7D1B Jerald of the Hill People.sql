@@ -7,7 +7,9 @@ VALUES (1344175387,   1,         16) /* ItemType - Creature */
      , (1344175387,   6,        102) /* ItemsCapacity */
      , (1344175387,   7,          7) /* ContainersCapacity */
      , (1344175387,  16,          1) /* ItemUseable - No */
-     , (1344175387,  25,          6) /* Level */
+     , (1344175387,  25,          7) /* Level */
+     , (1344175387,  30,          2) /* AllegianceRank */
+     , (1344175387,  35,          2) /* AllegianceFollowers */
      , (1344175387,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
      , (1344175387, 113,          2) /* Gender - Female */
      , (1344175387, 133,          4) /* ShowableOnRadar - ShowAlways */
@@ -27,7 +29,8 @@ VALUES (1344175387,   1, True ) /* Stuck */
      , (1344175387,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1344175387,   1, 'Jerald of the Hill People') /* Name */;
+VALUES (1344175387,   1, 'Jerald of the Hill People') /* Name */
+     , (1344175387,  10, 'Hill People') /* Fellowship */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1344175387,   1,   33554510) /* Setup */

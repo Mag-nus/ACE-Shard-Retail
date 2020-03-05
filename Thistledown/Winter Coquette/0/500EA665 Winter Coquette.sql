@@ -3,11 +3,27 @@ VALUES (1343137381, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343137381,   1,         16) /* ItemType - Creature */
+     , (1343137381,   2,         31) /* CreatureType - Human */
      , (1343137381,   6,        102) /* ItemsCapacity */
      , (1343137381,   7,          8) /* ContainersCapacity */
      , (1343137381,  16,          1) /* ItemUseable - No */
+     , (1343137381,  25,        275) /* Level */
+     , (1343137381,  30,          5) /* AllegianceRank */
      , (1343137381,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343137381, 113,          2) /* Gender - Female */
      , (1343137381, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343137381, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343137381, 188,          3) /* HeritageGroup - Sho */
+     , (1343137381, 261,        893) /* CharacterTitleId */
+     , (1343137381, 281,          2) /* Faction1Bits */
+     , (1343137381, 288,       1001) /* SocietyRankEldweb */
+     , (1343137381, 307,         21) /* DamageRating */
+     , (1343137381, 308,         28) /* DamageResistRating */
+     , (1343137381, 313,          1) /* CritRating */
+     , (1343137381, 314,         18) /* CritDamageRating */
+     , (1343137381, 316,         11) /* CritDamageResistRating */
+     , (1343137381, 323,          8) /* HealingBoostRating */
+     , (1343137381, 390,          5) /* Enlightenment */
      , (1343137381, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +35,11 @@ VALUES (1343137381,   1, True ) /* Stuck */
      , (1343137381,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343137381,   1, 'Winter Coquette') /* Name */;
+VALUES (1343137381,   1, 'Winter Coquette') /* Name */
+     , (1343137381,  10, 'Safvsz') /* Fellowship */
+     , (1343137381,  21, 'Malik Tao Roo Chingon II') /* MonarchsTitle */
+     , (1343137381,  35, 'Thane Winter''s Boon') /* PatronsTitle */
+     , (1343137381,  47, 'The Spirits of the Mountain') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343137381,   1,   33554510) /* Setup */
@@ -27,6 +47,12 @@ VALUES (1343137381,   1,   33554510) /* Setup */
      , (1343137381,   3,  536870914) /* SoundTable */
      , (1343137381,   6,   67108990) /* PaletteBase */
      , (1343137381,   8,  100667446) /* Icon */
+     , (1343137381,   9,   83890235) /* EyesTexture */
+     , (1343137381,  10,   83890295) /* NoseTexture */
+     , (1343137381,  11,   83890318) /* MouthTexture */
+     , (1343137381,  15,   67109630) /* HairPalette */
+     , (1343137381,  16,   67110063) /* EyesPalette */
+     , (1343137381,  17,   67110049) /* SkinPalette */
      , (1343137381,  22,  872415236) /* PhysicsEffectTable */
      , (1343137381, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343137381, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

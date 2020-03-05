@@ -3,23 +3,37 @@ VALUES (1343129150, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343129150,   1,         16) /* ItemType - Creature */
+     , (1343129150,   2,         31) /* CreatureType - Human */
      , (1343129150,   6,        102) /* ItemsCapacity */
      , (1343129150,   7,          7) /* ContainersCapacity */
      , (1343129150,  16,          1) /* ItemUseable - No */
-     , (1343129150,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343129150,  25,        251) /* Level */
+     , (1343129150,  30,          1) /* AllegianceRank */
+     , (1343129150,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343129150, 113,          1) /* Gender - Male */
      , (1343129150, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343129150, 134,          4) /* PlayerKillerStatus - PK */
+     , (1343129150, 188,          1) /* HeritageGroup - Aluvian */
+     , (1343129150, 261,        448) /* CharacterTitleId */
+     , (1343129150, 307,         20) /* DamageRating */
+     , (1343129150, 308,          7) /* DamageResistRating */
+     , (1343129150, 323,          3) /* HealingBoostRating */
+     , (1343129150, 390,          0) /* Enlightenment */
      , (1343129150, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1343129150,   1, True ) /* Stuck */
-     , (1343129150,  11, True ) /* IgnoreCollisions */
+     , (1343129150,  12, True ) /* ReportCollisions */
      , (1343129150,  13, False) /* Ethereal */
      , (1343129150,  14, True ) /* GravityStatus */
      , (1343129150,  19, True ) /* Attackable */
      , (1343129150,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343129150,   1, 'Griefs') /* Name */;
+VALUES (1343129150,   1, 'Griefs') /* Name */
+     , (1343129150,  21, 'Kou Casual Stalker') /* MonarchsTitle */
+     , (1343129150,  35, 'Nan-chueh Drop dead secky beast') /* PatronsTitle */
+     , (1343129150,  47, 'Clan Stalkers') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343129150,   1,   33554433) /* Setup */
@@ -27,6 +41,12 @@ VALUES (1343129150,   1,   33554433) /* Setup */
      , (1343129150,   3,  536870913) /* SoundTable */
      , (1343129150,   6,   67108990) /* PaletteBase */
      , (1343129150,   8,  100667446) /* Icon */
+     , (1343129150,   9,   83890445) /* EyesTexture */
+     , (1343129150,  10,   83890521) /* NoseTexture */
+     , (1343129150,  11,   83890578) /* MouthTexture */
+     , (1343129150,  15,   67109610) /* HairPalette */
+     , (1343129150,  16,   67109566) /* EyesPalette */
+     , (1343129150,  17,   67109562) /* SkinPalette */
      , (1343129150,  22,  872415236) /* PhysicsEffectTable */
      , (1343129150, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343129150, 8003,         60) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable, PlayerKiller */
@@ -35,8 +55,8 @@ VALUES (1343129150,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343129150, 1, 459075, 70, -60, 0.01, 1, 0, 0, -1) /* Location */
 /* @teleloc 0x00070143 [70.000000 -60.000000 0.010000] 1.000000 0.000000 0.000000 -1.000000 */
-     , (1343129150, 8040, 2847146009, 84, 7.1, 94.005, 0.9969173, 0, 0, -0.0784591) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B40019 [84.000000 7.100000 94.005000] 0.996917 0.000000 0.000000 -0.078459 */;
+     , (1343129150, 8040, 2847146005, 63.18484, 108.7005, 69.77151, -0.09057833, 0, 0, 0.9958893) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B40015 [63.184840 108.700500 69.771510] -0.090578 0.000000 0.000000 0.995889 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343129150,  26, 1343025881) /* Monarch */

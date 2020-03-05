@@ -3,11 +3,24 @@ VALUES (1342809974, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342809974,   1,         16) /* ItemType - Creature */
+     , (1342809974,   2,         31) /* CreatureType - Human */
      , (1342809974,   6,        102) /* ItemsCapacity */
      , (1342809974,   7,          7) /* ContainersCapacity */
      , (1342809974,  16,          1) /* ItemUseable - No */
+     , (1342809974,  25,        264) /* Level */
+     , (1342809974,  30,          2) /* AllegianceRank */
+     , (1342809974,  43,       1002) /* NumDeaths */
      , (1342809974,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1342809974, 113,          1) /* Gender - Male */
+     , (1342809974, 125,    7268860) /* Age */
      , (1342809974, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342809974, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342809974, 188,          3) /* HeritageGroup - Sho */
+     , (1342809974, 261,        675) /* CharacterTitleId */
+     , (1342809974, 307,          5) /* DamageRating */
+     , (1342809974, 308,          3) /* DamageResistRating */
+     , (1342809974, 313,          1) /* CritRating */
+     , (1342809974, 390,          0) /* Enlightenment */
      , (1342809974, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +32,12 @@ VALUES (1342809974,   1, True ) /* Stuck */
      , (1342809974,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342809974,   1, 'Statik') /* Name */;
+VALUES (1342809974,   1, 'Statik') /* Name */
+     , (1342809974,  10, 'Sneux is God') /* Fellowship */
+     , (1342809974,  21, 'King Paul Mua''dib') /* MonarchsTitle */
+     , (1342809974,  35, 'Maulan Sylence') /* PatronsTitle */
+     , (1342809974,  43, '09 January 2002') /* DateOfBirth */
+     , (1342809974,  47, 'Archangels of Armageddon') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342809974,   1,   33554433) /* Setup */
@@ -27,6 +45,12 @@ VALUES (1342809974,   1,   33554433) /* Setup */
      , (1342809974,   3,  536870913) /* SoundTable */
      , (1342809974,   6,   67108990) /* PaletteBase */
      , (1342809974,   8,  100667446) /* Icon */
+     , (1342809974,   9,   83890451) /* EyesTexture */
+     , (1342809974,  10,   83890562) /* NoseTexture */
+     , (1342809974,  11,   83890665) /* MouthTexture */
+     , (1342809974,  15,   67109618) /* HairPalette */
+     , (1342809974,  16,   67110062) /* EyesPalette */
+     , (1342809974,  17,   67110049) /* SkinPalette */
      , (1342809974,  22,  872415236) /* PhysicsEffectTable */
      , (1342809974, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342809974, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

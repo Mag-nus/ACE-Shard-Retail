@@ -3,11 +3,28 @@ VALUES (1342866017, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342866017,   1,         16) /* ItemType - Creature */
+     , (1342866017,   2,         31) /* CreatureType - Human */
      , (1342866017,   6,        102) /* ItemsCapacity */
      , (1342866017,   7,          8) /* ContainersCapacity */
      , (1342866017,  16,          1) /* ItemUseable - No */
+     , (1342866017,  25,        275) /* Level */
+     , (1342866017,  30,          6) /* AllegianceRank */
+     , (1342866017,  43,        381) /* NumDeaths */
      , (1342866017,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342866017, 113,          1) /* Gender - Male */
+     , (1342866017, 125,   12848233) /* Age */
      , (1342866017, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342866017, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342866017, 188,          1) /* HeritageGroup - Aluvian */
+     , (1342866017, 261,        502) /* CharacterTitleId */
+     , (1342866017, 281,          1) /* Faction1Bits */
+     , (1342866017, 287,         20) /* SocietyRankCelhan */
+     , (1342866017, 307,          5) /* DamageRating */
+     , (1342866017, 308,          5) /* DamageResistRating */
+     , (1342866017, 316,          1) /* CritDamageResistRating */
+     , (1342866017, 323,          7) /* HealingBoostRating */
+     , (1342866017, 350,         28) /* DotResistRating */
+     , (1342866017, 390,          0) /* Enlightenment */
      , (1342866017, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +36,12 @@ VALUES (1342866017,   1, True ) /* Stuck */
      , (1342866017,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342866017,   1, 'Denman V') /* Name */;
+VALUES (1342866017,   1, 'Denman V') /* Name */
+     , (1342866017,  10, 'Heralds For Life') /* Fellowship */
+     , (1342866017,  21, 'Taikou Butterflygolem') /* MonarchsTitle */
+     , (1342866017,  35, 'Duchess Sapphire Knight') /* PatronsTitle */
+     , (1342866017,  43, '11 April 2002') /* DateOfBirth */
+     , (1342866017,  47, 'Jello Fighters') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342866017,   1,   33554433) /* Setup */
@@ -27,6 +49,12 @@ VALUES (1342866017,   1,   33554433) /* Setup */
      , (1342866017,   3,  536870913) /* SoundTable */
      , (1342866017,   6,   67108990) /* PaletteBase */
      , (1342866017,   8,  100667446) /* Icon */
+     , (1342866017,   9,   83890481) /* EyesTexture */
+     , (1342866017,  10,   83890548) /* NoseTexture */
+     , (1342866017,  11,   83890657) /* MouthTexture */
+     , (1342866017,  15,   67109603) /* HairPalette */
+     , (1342866017,  16,   67109565) /* EyesPalette */
+     , (1342866017,  17,   67109560) /* SkinPalette */
      , (1342866017,  22,  872415236) /* PhysicsEffectTable */
      , (1342866017, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342866017, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

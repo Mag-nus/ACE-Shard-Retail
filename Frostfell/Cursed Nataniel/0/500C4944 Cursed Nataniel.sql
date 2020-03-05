@@ -3,11 +3,29 @@ VALUES (1342982468, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342982468,   1,         16) /* ItemType - Creature */
+     , (1342982468,   2,         31) /* CreatureType - Human */
      , (1342982468,   6,        102) /* ItemsCapacity */
      , (1342982468,   7,          8) /* ContainersCapacity */
      , (1342982468,  16,          1) /* ItemUseable - No */
+     , (1342982468,  25,        275) /* Level */
+     , (1342982468,  30,          2) /* AllegianceRank */
      , (1342982468,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342982468, 113,          1) /* Gender - Male */
+     , (1342982468, 125,    5673345) /* Age */
      , (1342982468, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342982468, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342982468, 188,          2) /* HeritageGroup - Gharundim */
+     , (1342982468, 261,         34) /* CharacterTitleId */
+     , (1342982468, 281,          1) /* Faction1Bits */
+     , (1342982468, 287,       1001) /* SocietyRankCelhan */
+     , (1342982468, 307,         10) /* DamageRating */
+     , (1342982468, 308,         18) /* DamageResistRating */
+     , (1342982468, 313,          1) /* CritRating */
+     , (1342982468, 314,         12) /* CritDamageRating */
+     , (1342982468, 316,          5) /* CritDamageResistRating */
+     , (1342982468, 323,          7) /* HealingBoostRating */
+     , (1342982468, 351,         16) /* LifeResistRating */
+     , (1342982468, 390,          0) /* Enlightenment */
      , (1342982468, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +37,12 @@ VALUES (1342982468,   1, True ) /* Stuck */
      , (1342982468,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342982468,   1, 'Cursed Nataniel') /* Name */;
+VALUES (1342982468,   1, 'Cursed Nataniel') /* Name */
+     , (1342982468,  10, 'Aa') /* Fellowship */
+     , (1342982468,  21, 'King Aerfall') /* MonarchsTitle */
+     , (1342982468,  35, 'Shayk Qv') /* PatronsTitle */
+     , (1342982468,  43, '29 July 2002') /* DateOfBirth */
+     , (1342982468,  47, 'Autobotz') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342982468,   1,   33554433) /* Setup */
@@ -27,6 +50,12 @@ VALUES (1342982468,   1,   33554433) /* Setup */
      , (1342982468,   3,  536870913) /* SoundTable */
      , (1342982468,   6,   67108990) /* PaletteBase */
      , (1342982468,   8,  100667446) /* Icon */
+     , (1342982468,   9,   83890514) /* EyesTexture */
+     , (1342982468,  10,   83890534) /* NoseTexture */
+     , (1342982468,  11,   83890659) /* MouthTexture */
+     , (1342982468,  15,   67109625) /* HairPalette */
+     , (1342982468,  16,   67110063) /* EyesPalette */
+     , (1342982468,  17,   67109550) /* SkinPalette */
      , (1342982468,  22,  872415236) /* PhysicsEffectTable */
      , (1342982468, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342982468, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

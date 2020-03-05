@@ -3,12 +3,29 @@ VALUES (1342972520, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342972520,   1,         16) /* ItemType - Creature */
+     , (1342972520,   2,         31) /* CreatureType - Human */
      , (1342972520,   6,        102) /* ItemsCapacity */
      , (1342972520,   7,          8) /* ContainersCapacity */
      , (1342972520,  16,          1) /* ItemUseable - No */
+     , (1342972520,  25,        275) /* Level */
+     , (1342972520,  30,          4) /* AllegianceRank */
+     , (1342972520,  35,         53) /* AllegianceFollowers */
      , (1342972520,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342972520, 113,          1) /* Gender - Male */
      , (1342972520, 133,          4) /* ShowableOnRadar - ShowAlways */
-     , (1342972520, 8007,          0) /* PCAPRecordedAutonomousMovement */;
+     , (1342972520, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342972520, 188,          3) /* HeritageGroup - Sho */
+     , (1342972520, 261,        773) /* CharacterTitleId */
+     , (1342972520, 281,          1) /* Faction1Bits */
+     , (1342972520, 287,       1001) /* SocietyRankCelhan */
+     , (1342972520, 307,         10) /* DamageRating */
+     , (1342972520, 308,         16) /* DamageResistRating */
+     , (1342972520, 313,          1) /* CritRating */
+     , (1342972520, 314,          5) /* CritDamageRating */
+     , (1342972520, 316,          6) /* CritDamageResistRating */
+     , (1342972520, 323,          1) /* HealingBoostRating */
+     , (1342972520, 390,          0) /* Enlightenment */
+     , (1342972520, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1342972520,   1, True ) /* Stuck */
@@ -19,7 +36,8 @@ VALUES (1342972520,   1, True ) /* Stuck */
      , (1342972520,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342972520,   1, 'Gruhen Do') /* Name */;
+VALUES (1342972520,   1, 'Gruhen Do') /* Name */
+     , (1342972520,  47, 'Great Underground Empire') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342972520,   1,   33554433) /* Setup */
@@ -27,6 +45,12 @@ VALUES (1342972520,   1,   33554433) /* Setup */
      , (1342972520,   3,  536870913) /* SoundTable */
      , (1342972520,   6,   67108990) /* PaletteBase */
      , (1342972520,   8,  100667446) /* Icon */
+     , (1342972520,   9,   83890516) /* EyesTexture */
+     , (1342972520,  10,   83890525) /* NoseTexture */
+     , (1342972520,  11,   83890635) /* MouthTexture */
+     , (1342972520,  15,   67109596) /* HairPalette */
+     , (1342972520,  16,   67110063) /* EyesPalette */
+     , (1342972520,  17,   67110059) /* SkinPalette */
      , (1342972520,  22,  872415236) /* PhysicsEffectTable */
      , (1342972520, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342972520, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
@@ -35,8 +59,8 @@ VALUES (1342972520,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1342972520, 1, 4112121894, 119.8367, 132.8608, 64.3984, 1, 0, 0, 0) /* Location */
 /* @teleloc 0xF51A0026 [119.836700 132.860800 64.398400] 1.000000 0.000000 0.000000 0.000000 */
-     , (1342972520, 8040, 4095213579, 30.77994, 56.68983, 169.805, -0.8465279, 0, 0, 0.5323444) /* PCAPRecordedLocation */
-/* @teleloc 0xF418000B [30.779940 56.689830 169.805000] -0.846528 0.000000 0.000000 0.532344 */;
+     , (1342972520, 8040, 4112121894, 116.6418, 135.9969, 60.60807, 1, 0, 0, 0) /* PCAPRecordedLocation */
+/* @teleloc 0xF51A0026 [116.641800 135.996900 60.608070] 1.000000 0.000000 0.000000 0.000000 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342972520,  26, 1342972520) /* Monarch */

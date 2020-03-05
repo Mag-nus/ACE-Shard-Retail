@@ -3,11 +3,26 @@ VALUES (1342605062, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342605062,   1,         16) /* ItemType - Creature */
+     , (1342605062,   2,         31) /* CreatureType - Human */
      , (1342605062,   6,        102) /* ItemsCapacity */
      , (1342605062,   7,          8) /* ContainersCapacity */
      , (1342605062,  16,          1) /* ItemUseable - No */
+     , (1342605062,  25,        275) /* Level */
+     , (1342605062,  30,          3) /* AllegianceRank */
      , (1342605062,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342605062, 113,          1) /* Gender - Male */
      , (1342605062, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342605062, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342605062, 188,          1) /* HeritageGroup - Aluvian */
+     , (1342605062, 261,        569) /* CharacterTitleId */
+     , (1342605062, 281,          1) /* Faction1Bits */
+     , (1342605062, 287,       1001) /* SocietyRankCelhan */
+     , (1342605062, 307,          6) /* DamageRating */
+     , (1342605062, 308,          6) /* DamageResistRating */
+     , (1342605062, 314,          2) /* CritDamageRating */
+     , (1342605062, 316,          3) /* CritDamageResistRating */
+     , (1342605062, 351,         32) /* LifeResistRating */
+     , (1342605062, 390,          0) /* Enlightenment */
      , (1342605062, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +34,11 @@ VALUES (1342605062,   1, True ) /* Stuck */
      , (1342605062,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342605062,   1, 'Justice''') /* Name */;
+VALUES (1342605062,   1, 'Justice''') /* Name */
+     , (1342605062,  10, 'Forest Gump') /* Fellowship */
+     , (1342605062,  21, 'Sultana Scarey Mary') /* MonarchsTitle */
+     , (1342605062,  35, 'Reeve Taranis Sin') /* PatronsTitle */
+     , (1342605062,  47, 'Scarey''s Warriors') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342605062,   1,   33554433) /* Setup */
@@ -27,6 +46,12 @@ VALUES (1342605062,   1,   33554433) /* Setup */
      , (1342605062,   3,  536870913) /* SoundTable */
      , (1342605062,   6,   67108990) /* PaletteBase */
      , (1342605062,   8,  100667446) /* Icon */
+     , (1342605062,   9,   83890466) /* EyesTexture */
+     , (1342605062,  10,   83890562) /* NoseTexture */
+     , (1342605062,  11,   83890651) /* MouthTexture */
+     , (1342605062,  15,   67109592) /* HairPalette */
+     , (1342605062,  16,   67109566) /* EyesPalette */
+     , (1342605062,  17,   67109559) /* SkinPalette */
      , (1342605062,  22,  872415236) /* PhysicsEffectTable */
      , (1342605062, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342605062, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

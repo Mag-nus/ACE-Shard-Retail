@@ -12,7 +12,7 @@ VALUES (1342957649,   1,         16) /* ItemType - Creature */
      , (1342957649,  43,       6539) /* NumDeaths */
      , (1342957649,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1342957649, 113,          1) /* Gender - Male */
-     , (1342957649, 125,   30455785) /* Age */
+     , (1342957649, 125,   30469246) /* Age */
      , (1342957649, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342957649, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342957649, 188,          3) /* HeritageGroup - Sho */
@@ -30,6 +30,7 @@ VALUES (1342957649,   1, True ) /* Stuck */
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1342957649,   1, 'Lrd Seltoor') /* Name */
+     , (1342957649,  10, 'X') /* Fellowship */
      , (1342957649,  21, 'High King He who is called I Am') /* MonarchsTitle */
      , (1342957649,  35, 'Shi-chueh Bigzigg') /* PatronsTitle */
      , (1342957649,  43, '04 November 2002') /* DateOfBirth */

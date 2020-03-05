@@ -7,15 +7,20 @@ VALUES (1342861600,   1,         16) /* ItemType - Creature */
      , (1342861600,   6,        102) /* ItemsCapacity */
      , (1342861600,   7,          7) /* ContainersCapacity */
      , (1342861600,  16,          1) /* ItemUseable - No */
+     , (1342861600,  25,        221) /* Level */
      , (1342861600,  30,          3) /* AllegianceRank */
      , (1342861600,  35,         15) /* AllegianceFollowers */
      , (1342861600,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1342861600, 113,          1) /* Gender - Male */
-     , (1342861600, 125,   13207013) /* Age */
+     , (1342861600, 125,   13207195) /* Age */
      , (1342861600, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342861600, 134,          4) /* PlayerKillerStatus - PK */
      , (1342861600, 188,          2) /* HeritageGroup - Gharundim */
      , (1342861600, 261,        100) /* CharacterTitleId */
+     , (1342861600, 281,          1) /* Faction1Bits */
+     , (1342861600, 287,         80) /* SocietyRankCelhan */
+     , (1342861600, 308,          6) /* DamageResistRating */
+     , (1342861600, 323,          1) /* HealingBoostRating */
      , (1342861600, 390,          0) /* Enlightenment */
      , (1342861600, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 

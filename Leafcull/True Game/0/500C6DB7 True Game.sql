@@ -6,13 +6,13 @@ VALUES (1342991799,   1,         16) /* ItemType - Creature */
      , (1342991799,   6,        102) /* ItemsCapacity */
      , (1342991799,   7,          7) /* ContainersCapacity */
      , (1342991799,  16,          1) /* ItemUseable - No */
-     , (1342991799,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342991799,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
      , (1342991799, 133,          4) /* ShowableOnRadar - ShowAlways */
-     , (1342991799, 8007,          1) /* PCAPRecordedAutonomousMovement */;
+     , (1342991799, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1342991799,   1, True ) /* Stuck */
-     , (1342991799,  12, True ) /* ReportCollisions */
+     , (1342991799,  11, True ) /* IgnoreCollisions */
      , (1342991799,  13, False) /* Ethereal */
      , (1342991799,  14, True ) /* GravityStatus */
      , (1342991799,  19, True ) /* Attackable */
@@ -35,8 +35,8 @@ VALUES (1342991799,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1342991799, 1, 2029256714, 36.229, 40.7922, 34.005, 0.710397, 0, 0, 0.703801) /* Location */
 /* @teleloc 0x78F4000A [36.229000 40.792200 34.005000] 0.710397 0.000000 0.000000 0.703801 */
-     , (1342991799, 8040, 3583574079, 190.1459, 162.7276, 374.005, -0.4283769, 0, 0, -0.9036002) /* PCAPRecordedLocation */
-/* @teleloc 0xD599003F [190.145900 162.727600 374.005000] -0.428377 0.000000 0.000000 -0.903600 */;
+     , (1342991799, 8040, 3583639609, 177, 1.21, 373.5008, -4.371139E-08, 0, 0, -1) /* PCAPRecordedLocation */
+/* @teleloc 0xD59A0039 [177.000000 1.210000 373.500800] 0.000000 0.000000 0.000000 -1.000000 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342991799,  26, 1342991799) /* Monarch */

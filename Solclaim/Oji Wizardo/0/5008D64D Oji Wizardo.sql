@@ -3,11 +3,25 @@ VALUES (1342756429, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342756429,   1,         16) /* ItemType - Creature */
+     , (1342756429,   2,         31) /* CreatureType - Human */
      , (1342756429,   6,        102) /* ItemsCapacity */
      , (1342756429,   7,          7) /* ContainersCapacity */
      , (1342756429,  16,          1) /* ItemUseable - No */
+     , (1342756429,  25,        163) /* Level */
+     , (1342756429,  30,          2) /* AllegianceRank */
+     , (1342756429,  43,        236) /* NumDeaths */
      , (1342756429,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342756429, 113,          1) /* Gender - Male */
+     , (1342756429, 125,    6147798) /* Age */
      , (1342756429, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342756429, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342756429, 181,       1500) /* ChessRank */
+     , (1342756429, 188,          3) /* HeritageGroup - Sho */
+     , (1342756429, 192,         40) /* FakeFishingSkill */
+     , (1342756429, 261,         49) /* CharacterTitleId */
+     , (1342756429, 307,          5) /* DamageRating */
+     , (1342756429, 314,          3) /* CritDamageRating */
+     , (1342756429, 390,          0) /* Enlightenment */
      , (1342756429, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +33,12 @@ VALUES (1342756429,   1, True ) /* Stuck */
      , (1342756429,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342756429,   1, 'Oji Wizardo') /* Name */;
+VALUES (1342756429,   1, 'Oji Wizardo') /* Name */
+     , (1342756429,  10, 'Solclaimforlife') /* Fellowship */
+     , (1342756429,  21, 'High King Laris Bloodsong') /* MonarchsTitle */
+     , (1342756429,  35, 'Maulan Rasta''s Trade Mule') /* PatronsTitle */
+     , (1342756429,  43, '30 December 2001') /* DateOfBirth */
+     , (1342756429,  47, 'Saints of Solclaim') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342756429,   1,   33554433) /* Setup */
@@ -27,6 +46,12 @@ VALUES (1342756429,   1,   33554433) /* Setup */
      , (1342756429,   3,  536870913) /* SoundTable */
      , (1342756429,   6,   67108990) /* PaletteBase */
      , (1342756429,   8,  100667446) /* Icon */
+     , (1342756429,   9,   83890451) /* EyesTexture */
+     , (1342756429,  10,   83890519) /* NoseTexture */
+     , (1342756429,  11,   83890635) /* MouthTexture */
+     , (1342756429,  15,   67109629) /* HairPalette */
+     , (1342756429,  16,   67109565) /* EyesPalette */
+     , (1342756429,  17,   67110053) /* SkinPalette */
      , (1342756429,  22,  872415236) /* PhysicsEffectTable */
      , (1342756429, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342756429, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

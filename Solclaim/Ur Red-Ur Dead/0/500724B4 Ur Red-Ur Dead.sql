@@ -3,11 +3,21 @@ VALUES (1342645428, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342645428,   1,         16) /* ItemType - Creature */
+     , (1342645428,   2,         31) /* CreatureType - Human */
      , (1342645428,   6,        102) /* ItemsCapacity */
      , (1342645428,   7,          7) /* ContainersCapacity */
      , (1342645428,  16,          1) /* ItemUseable - No */
+     , (1342645428,  25,        183) /* Level */
+     , (1342645428,  30,          2) /* AllegianceRank */
      , (1342645428,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1342645428, 113,          1) /* Gender - Male */
      , (1342645428, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342645428, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342645428, 188,          3) /* HeritageGroup - Sho */
+     , (1342645428, 261,        110) /* CharacterTitleId */
+     , (1342645428, 307,          5) /* DamageRating */
+     , (1342645428, 316,          1) /* CritDamageResistRating */
+     , (1342645428, 390,          0) /* Enlightenment */
      , (1342645428, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +29,12 @@ VALUES (1342645428,   1, True ) /* Stuck */
      , (1342645428,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342645428,   1, 'Ur Red-Ur Dead') /* Name */;
+VALUES (1342645428,   1, 'Ur Red-Ur Dead') /* Name */
+     , (1342645428,  10, 'Chillin') /* Fellowship */
+     , (1342645428,  21, 'High King Laris Bloodsong') /* MonarchsTitle */
+     , (1342645428,  35, 'Baron Pokn I Out') /* PatronsTitle */
+     , (1342645428,  43, '30 June 2001') /* DateOfBirth */
+     , (1342645428,  47, 'Saints of Solclaim') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342645428,   1,   33554433) /* Setup */
@@ -27,6 +42,12 @@ VALUES (1342645428,   1,   33554433) /* Setup */
      , (1342645428,   3,  536870913) /* SoundTable */
      , (1342645428,   6,   67108990) /* PaletteBase */
      , (1342645428,   8,  100667446) /* Icon */
+     , (1342645428,   9,   83890516) /* EyesTexture */
+     , (1342645428,  10,   83890562) /* NoseTexture */
+     , (1342645428,  11,   83890572) /* MouthTexture */
+     , (1342645428,  15,   67109625) /* HairPalette */
+     , (1342645428,  16,   67109565) /* EyesPalette */
+     , (1342645428,  17,   67110059) /* SkinPalette */
      , (1342645428,  22,  872415236) /* PhysicsEffectTable */
      , (1342645428, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342645428, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

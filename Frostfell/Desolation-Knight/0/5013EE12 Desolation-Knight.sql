@@ -3,11 +3,27 @@ VALUES (1343483410, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343483410,   1,         16) /* ItemType - Creature */
+     , (1343483410,   2,         31) /* CreatureType - Human */
      , (1343483410,   6,        102) /* ItemsCapacity */
      , (1343483410,   7,          7) /* ContainersCapacity */
      , (1343483410,  16,          1) /* ItemUseable - No */
+     , (1343483410,  25,        275) /* Level */
+     , (1343483410,  30,          3) /* AllegianceRank */
      , (1343483410,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343483410, 113,          1) /* Gender - Male */
      , (1343483410, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343483410, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343483410, 188,          2) /* HeritageGroup - Gharundim */
+     , (1343483410, 261,          1) /* CharacterTitleId */
+     , (1343483410, 307,         49) /* DamageRating */
+     , (1343483410, 308,         28) /* DamageResistRating */
+     , (1343483410, 313,          1) /* CritRating */
+     , (1343483410, 314,         33) /* CritDamageRating */
+     , (1343483410, 316,         16) /* CritDamageResistRating */
+     , (1343483410, 323,          4) /* HealingBoostRating */
+     , (1343483410, 381,          6) /* PKDamageRating */
+     , (1343483410, 382,          6) /* PKDamageResistRating */
+     , (1343483410, 390,          0) /* Enlightenment */
      , (1343483410, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +35,10 @@ VALUES (1343483410,   1, True ) /* Stuck */
      , (1343483410,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343483410,   1, 'Desolation-Knight') /* Name */;
+VALUES (1343483410,   1, 'Desolation-Knight') /* Name */
+     , (1343483410,  21, 'King Aerfall') /* MonarchsTitle */
+     , (1343483410,  35, 'Shi-chueh Ua-King') /* PatronsTitle */
+     , (1343483410,  47, 'Autobotz') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343483410,   1,   33554433) /* Setup */
@@ -27,6 +46,12 @@ VALUES (1343483410,   1,   33554433) /* Setup */
      , (1343483410,   3,  536870913) /* SoundTable */
      , (1343483410,   6,   67108990) /* PaletteBase */
      , (1343483410,   8,  100667446) /* Icon */
+     , (1343483410,   9,   83890487) /* EyesTexture */
+     , (1343483410,  10,   83890544) /* NoseTexture */
+     , (1343483410,  11,   83890564) /* MouthTexture */
+     , (1343483410,  15,   67117016) /* HairPalette */
+     , (1343483410,  16,   67110063) /* EyesPalette */
+     , (1343483410,  17,   67109554) /* SkinPalette */
      , (1343483410,  22,  872415236) /* PhysicsEffectTable */
      , (1343483410, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343483410, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

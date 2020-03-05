@@ -3,11 +3,20 @@ VALUES (1344174992, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1344174992,   1,         16) /* ItemType - Creature */
+     , (1344174992,   2,         31) /* CreatureType - Human */
      , (1344174992,   6,        102) /* ItemsCapacity */
      , (1344174992,   7,          7) /* ContainersCapacity */
      , (1344174992,  16,          1) /* ItemUseable - No */
+     , (1344174992,  25,         27) /* Level */
+     , (1344174992,  30,          1) /* AllegianceRank */
      , (1344174992,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1344174992, 113,          1) /* Gender - Male */
      , (1344174992, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1344174992, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1344174992, 188,          2) /* HeritageGroup - Gharundim */
+     , (1344174992, 261,          1) /* CharacterTitleId */
+     , (1344174992, 307,          5) /* DamageRating */
+     , (1344174992, 390,          0) /* Enlightenment */
      , (1344174992, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +28,10 @@ VALUES (1344174992,   1, True ) /* Stuck */
      , (1344174992,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1344174992,   1, 'Chan Of The Hill People') /* Name */;
+VALUES (1344174992,   1, 'Chan Of The Hill People') /* Name */
+     , (1344174992,  21, 'Kou Charlie Chan') /* MonarchsTitle */
+     , (1344174992,  35, 'Mu''allim Supercharger') /* PatronsTitle */
+     , (1344174992,  47, 'Chinese Mafia Elite-Force') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1344174992,   1,   33554433) /* Setup */
@@ -27,6 +39,12 @@ VALUES (1344174992,   1,   33554433) /* Setup */
      , (1344174992,   3,  536870913) /* SoundTable */
      , (1344174992,   6,   67108990) /* PaletteBase */
      , (1344174992,   8,  100667446) /* Icon */
+     , (1344174992,   9,   83890457) /* EyesTexture */
+     , (1344174992,  10,   83890536) /* NoseTexture */
+     , (1344174992,  11,   83890599) /* MouthTexture */
+     , (1344174992,  15,   67116994) /* HairPalette */
+     , (1344174992,  16,   67110063) /* EyesPalette */
+     , (1344174992,  17,   67109555) /* SkinPalette */
      , (1344174992,  22,  872415236) /* PhysicsEffectTable */
      , (1344174992, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1344174992, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

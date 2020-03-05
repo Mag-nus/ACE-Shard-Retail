@@ -3,11 +3,25 @@ VALUES (1343179793, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343179793,   1,         16) /* ItemType - Creature */
+     , (1343179793,   2,         31) /* CreatureType - Human */
      , (1343179793,   6,        102) /* ItemsCapacity */
      , (1343179793,   7,          8) /* ContainersCapacity */
      , (1343179793,  16,          1) /* ItemUseable - No */
+     , (1343179793,  25,        275) /* Level */
+     , (1343179793,  30,          2) /* AllegianceRank */
      , (1343179793,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343179793, 113,          2) /* Gender - Female */
      , (1343179793, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343179793, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343179793, 188,         10) /* HeritageGroup - Penumbraen */
+     , (1343179793, 261,        458) /* CharacterTitleId */
+     , (1343179793, 281,          2) /* Faction1Bits */
+     , (1343179793, 288,       1001) /* SocietyRankEldweb */
+     , (1343179793, 307,          6) /* DamageRating */
+     , (1343179793, 308,          4) /* DamageResistRating */
+     , (1343179793, 313,          1) /* CritRating */
+     , (1343179793, 314,          8) /* CritDamageRating */
+     , (1343179793, 390,          0) /* Enlightenment */
      , (1343179793, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +33,11 @@ VALUES (1343179793,   1, True ) /* Stuck */
      , (1343179793,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343179793,   1, 'Furnace') /* Name */;
+VALUES (1343179793,   1, 'Furnace') /* Name */
+     , (1343179793,  21, 'Queen Tasia the True') /* MonarchsTitle */
+     , (1343179793,  35, 'Centurion Gear poo') /* PatronsTitle */
+     , (1343179793,  43, '03 March 2014') /* DateOfBirth */
+     , (1343179793,  47, 'The Real Trues') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343179793,   1,   33560941) /* Setup */
@@ -27,6 +45,12 @@ VALUES (1343179793,   1,   33560941) /* Setup */
      , (1343179793,   3,  536870914) /* SoundTable */
      , (1343179793,   6,   67108990) /* PaletteBase */
      , (1343179793,   8,  100667446) /* Icon */
+     , (1343179793,   9,   83890260) /* EyesTexture */
+     , (1343179793,  10,   83890308) /* NoseTexture */
+     , (1343179793,  11,   83890358) /* MouthTexture */
+     , (1343179793,  15,   67117028) /* HairPalette */
+     , (1343179793,  16,   67116845) /* EyesPalette */
+     , (1343179793,  17,   67116851) /* SkinPalette */
      , (1343179793,  22,  872415433) /* PhysicsEffectTable */
      , (1343179793, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343179793, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

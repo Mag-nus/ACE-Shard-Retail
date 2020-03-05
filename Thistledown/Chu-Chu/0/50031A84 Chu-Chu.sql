@@ -9,20 +9,20 @@ VALUES (1342380676,   1,         16) /* ItemType - Creature */
      , (1342380676,  16,          1) /* ItemUseable - No */
      , (1342380676,  25,        275) /* Level */
      , (1342380676,  30,          7) /* AllegianceRank */
-     , (1342380676,  43,       1542) /* NumDeaths */
+     , (1342380676,  43,       1543) /* NumDeaths */
      , (1342380676,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
      , (1342380676, 113,          2) /* Gender - Female */
      , (1342380676, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342380676, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342380676, 188,          3) /* HeritageGroup - Sho */
-     , (1342380676, 261,         31) /* CharacterTitleId */
+     , (1342380676, 261,        855) /* CharacterTitleId */
      , (1342380676, 281,          1) /* Faction1Bits */
      , (1342380676, 287,         40) /* SocietyRankCelhan */
      , (1342380676, 307,         10) /* DamageRating */
      , (1342380676, 308,         13) /* DamageResistRating */
      , (1342380676, 313,          1) /* CritRating */
      , (1342380676, 314,          5) /* CritDamageRating */
-     , (1342380676, 323,          3) /* HealingBoostRating */
+     , (1342380676, 323,          2) /* HealingBoostRating */
      , (1342380676, 390,          0) /* Enlightenment */
      , (1342380676, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 

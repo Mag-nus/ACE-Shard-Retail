@@ -3,11 +3,28 @@ VALUES (1343474916, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343474916,   1,         16) /* ItemType - Creature */
+     , (1343474916,   2,         31) /* CreatureType - Human */
      , (1343474916,   6,        102) /* ItemsCapacity */
      , (1343474916,   7,          7) /* ContainersCapacity */
      , (1343474916,  16,          1) /* ItemUseable - No */
+     , (1343474916,  25,        275) /* Level */
+     , (1343474916,  30,          4) /* AllegianceRank */
+     , (1343474916,  35,         93) /* AllegianceFollowers */
      , (1343474916,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343474916, 113,          1) /* Gender - Male */
      , (1343474916, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343474916, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343474916, 188,          1) /* HeritageGroup - Aluvian */
+     , (1343474916, 261,          1) /* CharacterTitleId */
+     , (1343474916, 281,          1) /* Faction1Bits */
+     , (1343474916, 287,          1) /* SocietyRankCelhan */
+     , (1343474916, 307,          9) /* DamageRating */
+     , (1343474916, 308,          4) /* DamageResistRating */
+     , (1343474916, 313,          1) /* CritRating */
+     , (1343474916, 314,         11) /* CritDamageRating */
+     , (1343474916, 316,          1) /* CritDamageResistRating */
+     , (1343474916, 351,         28) /* LifeResistRating */
+     , (1343474916, 390,          0) /* Enlightenment */
      , (1343474916, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +36,8 @@ VALUES (1343474916,   1, True ) /* Stuck */
      , (1343474916,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343474916,   1, 'Kyle Kilraven') /* Name */;
+VALUES (1343474916,   1, 'Kyle Kilraven') /* Name */
+     , (1343474916,  10, 'Poll') /* Fellowship */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343474916,   1,   33554433) /* Setup */
@@ -27,6 +45,12 @@ VALUES (1343474916,   1,   33554433) /* Setup */
      , (1343474916,   3,  536870913) /* SoundTable */
      , (1343474916,   6,   67108990) /* PaletteBase */
      , (1343474916,   8,  100667446) /* Icon */
+     , (1343474916,   9,   83890507) /* EyesTexture */
+     , (1343474916,  10,   83890560) /* NoseTexture */
+     , (1343474916,  11,   83890641) /* MouthTexture */
+     , (1343474916,  15,   67117016) /* HairPalette */
+     , (1343474916,  16,   67109564) /* EyesPalette */
+     , (1343474916,  17,   67109561) /* SkinPalette */
      , (1343474916,  22,  872415236) /* PhysicsEffectTable */
      , (1343474916, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343474916, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

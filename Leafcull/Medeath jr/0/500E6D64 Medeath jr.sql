@@ -6,13 +6,13 @@ VALUES (1343122788,   1,         16) /* ItemType - Creature */
      , (1343122788,   6,        102) /* ItemsCapacity */
      , (1343122788,   7,          8) /* ContainersCapacity */
      , (1343122788,  16,          1) /* ItemUseable - No */
-     , (1343122788,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343122788,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1343122788, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343122788, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1343122788,   1, True ) /* Stuck */
-     , (1343122788,  11, True ) /* IgnoreCollisions */
+     , (1343122788,  12, True ) /* ReportCollisions */
      , (1343122788,  13, False) /* Ethereal */
      , (1343122788,  14, True ) /* GravityStatus */
      , (1343122788,  19, True ) /* Attackable */
@@ -35,8 +35,8 @@ VALUES (1343122788,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343122788, 1, 2847146026, 141.2335, 42.29701, 94.005, 0.6341662, 0, 0, -0.7731967) /* Location */
 /* @teleloc 0xA9B4002A [141.233500 42.297010 94.005000] 0.634166 0.000000 0.000000 -0.773197 */
-     , (1343122788, 8040, 3583639609, 177, 1.21, 373.5008, -4.371139E-08, 0, 0, -1) /* PCAPRecordedLocation */
-/* @teleloc 0xD59A0039 [177.000000 1.210000 373.500800] 0.000000 0.000000 0.000000 -1.000000 */;
+     , (1343122788, 8040, 4095213589, 52.10926, 110.976, 160.005, -0.6130906, 0, 0, -0.7900127) /* PCAPRecordedLocation */
+/* @teleloc 0xF4180015 [52.109260 110.976000 160.005000] -0.613091 0.000000 0.000000 -0.790013 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343122788,  26, 1342779532) /* Monarch */
@@ -119,8 +119,8 @@ VALUES (1343122788, 0, 16789975, 12)
      , (1343122788, 26, 16777708, 9)
      , (1343122788, 27, 16777708, 10)
      , (1343122788, 28, 16777708, 11)
-     , (1343122788, 29, 16795815, 24)
-     , (1343122788, 30, 16795816, 25)
-     , (1343122788, 31, 16795817, 26)
-     , (1343122788, 32, 16795818, 27)
-     , (1343122788, 33, 16795819, 28);
+     , (1343122788, 29, 16795835, 24)
+     , (1343122788, 30, 16795836, 25)
+     , (1343122788, 31, 16795837, 26)
+     , (1343122788, 32, 16795838, 27)
+     , (1343122788, 33, 16795809, 28);

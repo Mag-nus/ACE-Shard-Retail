@@ -3,11 +3,29 @@ VALUES (1342316362, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342316362,   1,         16) /* ItemType - Creature */
+     , (1342316362,   2,         31) /* CreatureType - Human */
      , (1342316362,   6,        102) /* ItemsCapacity */
      , (1342316362,   7,          8) /* ContainersCapacity */
      , (1342316362,  16,          1) /* ItemUseable - No */
+     , (1342316362,  25,        275) /* Level */
+     , (1342316362,  30,          7) /* AllegianceRank */
+     , (1342316362,  43,        564) /* NumDeaths */
      , (1342316362,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1342316362, 113,          1) /* Gender - Male */
      , (1342316362, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342316362, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342316362, 188,          3) /* HeritageGroup - Sho */
+     , (1342316362, 261,          3) /* CharacterTitleId */
+     , (1342316362, 262,        100) /* NumCharacterTitles */
+     , (1342316362, 281,          1) /* Faction1Bits */
+     , (1342316362, 287,       1001) /* SocietyRankCelhan */
+     , (1342316362, 307,         13) /* DamageRating */
+     , (1342316362, 308,         15) /* DamageResistRating */
+     , (1342316362, 313,          1) /* CritRating */
+     , (1342316362, 314,          5) /* CritDamageRating */
+     , (1342316362, 316,          1) /* CritDamageResistRating */
+     , (1342316362, 351,         12) /* LifeResistRating */
+     , (1342316362, 390,          0) /* Enlightenment */
      , (1342316362, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +37,11 @@ VALUES (1342316362,   1, True ) /* Stuck */
      , (1342316362,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342316362,   1, 'Akira Ran') /* Name */;
+VALUES (1342316362,   1, 'Akira Ran') /* Name */
+     , (1342316362,  21, 'Ou Sausage Javelins') /* MonarchsTitle */
+     , (1342316362,  35, 'Duchess Zabrina') /* PatronsTitle */
+     , (1342316362,  43, '08 February 2000') /* DateOfBirth */
+     , (1342316362,  47, 'R o G') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342316362,   1,   33554433) /* Setup */
@@ -27,6 +49,12 @@ VALUES (1342316362,   1,   33554433) /* Setup */
      , (1342316362,   3,  536870913) /* SoundTable */
      , (1342316362,   6,   67108990) /* PaletteBase */
      , (1342316362,   8,  100667446) /* Icon */
+     , (1342316362,   9,   83890502) /* EyesTexture */
+     , (1342316362,  10,   83890518) /* NoseTexture */
+     , (1342316362,  11,   83890589) /* MouthTexture */
+     , (1342316362,  15,   67109601) /* HairPalette */
+     , (1342316362,  16,   67110062) /* EyesPalette */
+     , (1342316362,  17,   67110049) /* SkinPalette */
      , (1342316362,  22,  872415236) /* PhysicsEffectTable */
      , (1342316362, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342316362, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

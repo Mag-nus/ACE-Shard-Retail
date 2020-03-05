@@ -3,12 +3,27 @@ VALUES (1343385350, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343385350,   1,         16) /* ItemType - Creature */
+     , (1343385350,   2,         31) /* CreatureType - Human */
      , (1343385350,   6,        102) /* ItemsCapacity */
      , (1343385350,   7,          7) /* ContainersCapacity */
      , (1343385350,  16,          1) /* ItemUseable - No */
+     , (1343385350,  25,        275) /* Level */
+     , (1343385350,  30,          2) /* AllegianceRank */
      , (1343385350,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343385350, 113,          1) /* Gender - Male */
      , (1343385350, 133,          4) /* ShowableOnRadar - ShowAlways */
-     , (1343385350, 8007,          1) /* PCAPRecordedAutonomousMovement */;
+     , (1343385350, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343385350, 188,         11) /* HeritageGroup - Undead */
+     , (1343385350, 261,        791) /* CharacterTitleId */
+     , (1343385350, 281,          1) /* Faction1Bits */
+     , (1343385350, 287,       1001) /* SocietyRankCelhan */
+     , (1343385350, 307,         18) /* DamageRating */
+     , (1343385350, 308,         12) /* DamageResistRating */
+     , (1343385350, 313,          1) /* CritRating */
+     , (1343385350, 314,          4) /* CritDamageRating */
+     , (1343385350, 316,          5) /* CritDamageResistRating */
+     , (1343385350, 390,          0) /* Enlightenment */
+     , (1343385350, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1343385350,   1, True ) /* Stuck */
@@ -19,7 +34,10 @@ VALUES (1343385350,   1, True ) /* Stuck */
      , (1343385350,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343385350,   1, 'The Baron') /* Name */;
+VALUES (1343385350,   1, 'The Baron') /* Name */
+     , (1343385350,  21, 'Queen Evil-Lady') /* MonarchsTitle */
+     , (1343385350,  35, 'Qadi Edi') /* PatronsTitle */
+     , (1343385350,  47, 'Mischievous Misfits') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343385350,   1,   33561244) /* Setup */
@@ -27,6 +45,12 @@ VALUES (1343385350,   1,   33561244) /* Setup */
      , (1343385350,   3,  536871124) /* SoundTable */
      , (1343385350,   6,   67108990) /* PaletteBase */
      , (1343385350,   8,  100667446) /* Icon */
+     , (1343385350,   9,   83898365) /* EyesTexture */
+     , (1343385350,  10,   83898384) /* NoseTexture */
+     , (1343385350,  11,   83898373) /* MouthTexture */
+     , (1343385350,  15,   67117005) /* HairPalette */
+     , (1343385350,  16,   67116952) /* EyesPalette */
+     , (1343385350,  17,   67116940) /* SkinPalette */
      , (1343385350,  22,  872415435) /* PhysicsEffectTable */
      , (1343385350, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343385350, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
@@ -35,8 +59,8 @@ VALUES (1343385350,   1,   33561244) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343385350, 1, 1303379995, 80.5032, 58.4653, 114.01, 0.693153, 0, 0, -0.72079) /* Location */
 /* @teleloc 0x4DB0001B [80.503200 58.465300 114.010000] 0.693153 0.000000 0.000000 -0.720790 */
-     , (1343385350, 8040, 3583574079, 189.3761, 165.0104, 374.005, -0.3475853, 0, 0, -0.9376484) /* PCAPRecordedLocation */
-/* @teleloc 0xD599003F [189.376100 165.010400 374.005000] -0.347585 0.000000 0.000000 -0.937648 */;
+     , (1343385350, 8040, 3583574079, 188.7271, 164.2291, 374.005, -0.3475853, 0, 0, -0.9376484) /* PCAPRecordedLocation */
+/* @teleloc 0xD599003F [188.727100 164.229100 374.005000] -0.347585 0.000000 0.000000 -0.937648 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343385350,  26, 1342200341) /* Monarch */

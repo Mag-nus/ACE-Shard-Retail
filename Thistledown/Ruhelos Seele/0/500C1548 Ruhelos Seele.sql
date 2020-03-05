@@ -3,11 +3,30 @@ VALUES (1342969160, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342969160,   1,         16) /* ItemType - Creature */
+     , (1342969160,   2,         31) /* CreatureType - Human */
      , (1342969160,   6,        102) /* ItemsCapacity */
      , (1342969160,   7,          8) /* ContainersCapacity */
      , (1342969160,  16,          1) /* ItemUseable - No */
+     , (1342969160,  25,        275) /* Level */
+     , (1342969160,  30,          8) /* AllegianceRank */
+     , (1342969160,  43,        472) /* NumDeaths */
      , (1342969160,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342969160, 113,          2) /* Gender - Female */
+     , (1342969160, 125,    7880912) /* Age */
      , (1342969160, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342969160, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342969160, 181,       1373) /* ChessRank */
+     , (1342969160, 188,          3) /* HeritageGroup - Sho */
+     , (1342969160, 192,        144) /* FakeFishingSkill */
+     , (1342969160, 261,        791) /* CharacterTitleId */
+     , (1342969160, 262,        132) /* NumCharacterTitles */
+     , (1342969160, 281,          1) /* Faction1Bits */
+     , (1342969160, 287,       1001) /* SocietyRankCelhan */
+     , (1342969160, 307,          8) /* DamageRating */
+     , (1342969160, 314,          3) /* CritDamageRating */
+     , (1342969160, 323,          2) /* HealingBoostRating */
+     , (1342969160, 351,         12) /* LifeResistRating */
+     , (1342969160, 390,          0) /* Enlightenment */
      , (1342969160, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +38,11 @@ VALUES (1342969160,   1, True ) /* Stuck */
      , (1342969160,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342969160,   1, 'Ruhelos Seele') /* Name */;
+VALUES (1342969160,   1, 'Ruhelos Seele') /* Name */
+     , (1342969160,  21, 'King Hot Shot''') /* MonarchsTitle */
+     , (1342969160,  35, 'Aetheling Dikket') /* PatronsTitle */
+     , (1342969160,  43, '19 December 2002') /* DateOfBirth */
+     , (1342969160,  47, 'Neverending Portalstorms') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342969160,   1,   33554510) /* Setup */
@@ -27,6 +50,12 @@ VALUES (1342969160,   1,   33554510) /* Setup */
      , (1342969160,   3,  536870914) /* SoundTable */
      , (1342969160,   6,   67108990) /* PaletteBase */
      , (1342969160,   8,  100667446) /* Icon */
+     , (1342969160,   9,   83890241) /* EyesTexture */
+     , (1342969160,  10,   83890287) /* NoseTexture */
+     , (1342969160,  11,   83890355) /* MouthTexture */
+     , (1342969160,  15,   67117071) /* HairPalette */
+     , (1342969160,  16,   67109565) /* EyesPalette */
+     , (1342969160,  17,   67110054) /* SkinPalette */
      , (1342969160,  22,  872415236) /* PhysicsEffectTable */
      , (1342969160, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342969160, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

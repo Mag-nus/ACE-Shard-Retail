@@ -3,11 +3,18 @@ VALUES (1344175042, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1344175042,   1,         16) /* ItemType - Creature */
+     , (1344175042,   2,         31) /* CreatureType - Human */
      , (1344175042,   6,        102) /* ItemsCapacity */
      , (1344175042,   7,          7) /* ContainersCapacity */
      , (1344175042,  16,          1) /* ItemUseable - No */
+     , (1344175042,  25,          5) /* Level */
      , (1344175042,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1344175042, 113,          2) /* Gender - Female */
      , (1344175042, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1344175042, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1344175042, 188,          1) /* HeritageGroup - Aluvian */
+     , (1344175042, 261,         11) /* CharacterTitleId */
+     , (1344175042, 390,          0) /* Enlightenment */
      , (1344175042, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +26,8 @@ VALUES (1344175042,   1, True ) /* Stuck */
      , (1344175042,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1344175042,   1, 'Swee Chef') /* Name */;
+VALUES (1344175042,   1, 'Swee Chef') /* Name */
+     , (1344175042,  10, 'The Suttbecks McGees') /* Fellowship */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1344175042,   1,   33554510) /* Setup */
@@ -27,6 +35,12 @@ VALUES (1344175042,   1,   33554510) /* Setup */
      , (1344175042,   3,  536870914) /* SoundTable */
      , (1344175042,   6,   67108990) /* PaletteBase */
      , (1344175042,   8,  100667446) /* Icon */
+     , (1344175042,   9,   83890284) /* EyesTexture */
+     , (1344175042,  10,   83890304) /* NoseTexture */
+     , (1344175042,  11,   83890353) /* MouthTexture */
+     , (1344175042,  15,   67116983) /* HairPalette */
+     , (1344175042,  16,   67110064) /* EyesPalette */
+     , (1344175042,  17,   67109562) /* SkinPalette */
      , (1344175042,  22,  872415236) /* PhysicsEffectTable */
      , (1344175042, 8001,    8388630) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, RadarBehavior */
      , (1344175042, 8003,         60) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable, PlayerKiller */

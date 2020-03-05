@@ -3,11 +3,19 @@ VALUES (1343347964, 1, 10, 6738241) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343347964,   1,         16) /* ItemType - Creature */
+     , (1343347964,   2,         31) /* CreatureType - Human */
      , (1343347964,   6,        102) /* ItemsCapacity */
      , (1343347964,   7,          8) /* ContainersCapacity */
      , (1343347964,  16,          1) /* ItemUseable - No */
+     , (1343347964,  25,        275) /* Level */
+     , (1343347964,  30,          6) /* AllegianceRank */
      , (1343347964,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343347964, 113,          1) /* Gender - Male */
      , (1343347964, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343347964, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343347964, 188,          9) /* HeritageGroup - Empyrean */
+     , (1343347964, 261,        517) /* CharacterTitleId */
+     , (1343347964, 390,          0) /* Enlightenment */
      , (1343347964, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -22,7 +30,11 @@ INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (1343347964,  39, 1.20000004768372) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343347964,   1, 'Adalon') /* Name */;
+VALUES (1343347964,   1, 'Adalon') /* Name */
+     , (1343347964,  10, 'End of the World') /* Fellowship */
+     , (1343347964,  21, 'Kou Hogun the grim') /* MonarchsTitle */
+     , (1343347964,  35, 'Ealdor Zenoth') /* PatronsTitle */
+     , (1343347964,  47, 'Immortals') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343347964,   1,   33561110) /* Setup */
@@ -30,6 +42,12 @@ VALUES (1343347964,   1,   33561110) /* Setup */
      , (1343347964,   3,  536870913) /* SoundTable */
      , (1343347964,   6,   67108990) /* PaletteBase */
      , (1343347964,   8,  100667446) /* Icon */
+     , (1343347964,   9,   83890457) /* EyesTexture */
+     , (1343347964,  10,   83890522) /* NoseTexture */
+     , (1343347964,  11,   83890639) /* MouthTexture */
+     , (1343347964,  15,   67117105) /* HairPalette */
+     , (1343347964,  16,   67116857) /* EyesPalette */
+     , (1343347964,  17,   67115907) /* SkinPalette */
      , (1343347964,  22,  872415236) /* PhysicsEffectTable */
      , (1343347964, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343347964, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

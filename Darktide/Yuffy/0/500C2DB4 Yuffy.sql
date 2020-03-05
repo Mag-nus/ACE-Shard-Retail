@@ -3,23 +3,35 @@ VALUES (1342975412, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342975412,   1,         16) /* ItemType - Creature */
+     , (1342975412,   2,         31) /* CreatureType - Human */
      , (1342975412,   6,        102) /* ItemsCapacity */
      , (1342975412,   7,          8) /* ContainersCapacity */
      , (1342975412,  16,          1) /* ItemUseable - No */
-     , (1342975412,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1342975412,  30,          7) /* AllegianceRank */
+     , (1342975412,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342975412, 113,          2) /* Gender - Female */
+     , (1342975412, 125,   21486238) /* Age */
      , (1342975412, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342975412, 134,          4) /* PlayerKillerStatus - PK */
+     , (1342975412, 188,          3) /* HeritageGroup - Sho */
+     , (1342975412, 261,        448) /* CharacterTitleId */
+     , (1342975412, 390,          0) /* Enlightenment */
      , (1342975412, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1342975412,   1, True ) /* Stuck */
-     , (1342975412,  11, True ) /* IgnoreCollisions */
+     , (1342975412,  12, True ) /* ReportCollisions */
      , (1342975412,  13, False) /* Ethereal */
      , (1342975412,  14, True ) /* GravityStatus */
      , (1342975412,  19, True ) /* Attackable */
      , (1342975412,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342975412,   1, 'Yuffy') /* Name */;
+VALUES (1342975412,   1, 'Yuffy') /* Name */
+     , (1342975412,  21, 'Archduke Fright Night') /* MonarchsTitle */
+     , (1342975412,  35, 'Mushira Fat Tard') /* PatronsTitle */
+     , (1342975412,  43, '12 June 2001') /* DateOfBirth */
+     , (1342975412,  47, 'CHAZ RETURNS') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342975412,   1,   33554510) /* Setup */
@@ -27,16 +39,22 @@ VALUES (1342975412,   1,   33554510) /* Setup */
      , (1342975412,   3,  536870914) /* SoundTable */
      , (1342975412,   6,   67108990) /* PaletteBase */
      , (1342975412,   8,  100667446) /* Icon */
+     , (1342975412,   9,   83890283) /* EyesTexture */
+     , (1342975412,  10,   83890298) /* NoseTexture */
+     , (1342975412,  11,   83890353) /* MouthTexture */
+     , (1342975412,  15,   67109603) /* HairPalette */
+     , (1342975412,  16,   67110062) /* EyesPalette */
+     , (1342975412,  17,   67110054) /* SkinPalette */
      , (1342975412,  22,  872415236) /* PhysicsEffectTable */
      , (1342975412, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342975412, 8003,         60) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable, PlayerKiller */
-     , (1342975412, 8005,     104451) /* PCAPRecordedPhysicsDesc - CSetup, MTable, STable, PeTable, Position, Movement */;
+     , (1342975412, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1342975412, 1, 3332898832, 24.07059, 188.5449, 42.005, -0.682758, 0, 0, 0.7306446) /* Location */
 /* @teleloc 0xC6A80010 [24.070590 188.544900 42.005000] -0.682758 0.000000 0.000000 0.730645 */
-     , (1342975412, 8040, 3332964361, 46.805, 4.219, 42.005, 1, 0, 0, 0) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A90009 [46.805000 4.219000 42.005000] 1.000000 0.000000 0.000000 0.000000 */;
+     , (1342975412, 8040, 3332964369, 48.63225, 9.032923, 42.005, 0.5364606, 0, 0, -0.8439254) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A90011 [48.632250 9.032923 42.005000] 0.536461 0.000000 0.000000 -0.843925 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342975412,  26, 1343917496) /* Monarch */

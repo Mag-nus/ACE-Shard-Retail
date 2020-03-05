@@ -3,23 +3,45 @@ VALUES (1342370863, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342370863,   1,         16) /* ItemType - Creature */
+     , (1342370863,   2,         31) /* CreatureType - Human */
      , (1342370863,   6,        102) /* ItemsCapacity */
      , (1342370863,   7,          8) /* ContainersCapacity */
      , (1342370863,  16,          1) /* ItemUseable - No */
-     , (1342370863,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1342370863,  25,        275) /* Level */
+     , (1342370863,  30,          8) /* AllegianceRank */
+     , (1342370863,  43,        927) /* NumDeaths */
+     , (1342370863,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342370863, 113,          1) /* Gender - Male */
+     , (1342370863, 125,   40417257) /* Age */
      , (1342370863, 133,          4) /* ShowableOnRadar - ShowAlways */
-     , (1342370863, 8007,          1) /* PCAPRecordedAutonomousMovement */;
+     , (1342370863, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342370863, 188,          3) /* HeritageGroup - Sho */
+     , (1342370863, 192,        700) /* FakeFishingSkill */
+     , (1342370863, 261,        767) /* CharacterTitleId */
+     , (1342370863, 262,        133) /* NumCharacterTitles */
+     , (1342370863, 281,          1) /* Faction1Bits */
+     , (1342370863, 287,        105) /* SocietyRankCelhan */
+     , (1342370863, 307,          9) /* DamageRating */
+     , (1342370863, 308,          5) /* DamageResistRating */
+     , (1342370863, 314,          4) /* CritDamageRating */
+     , (1342370863, 316,          1) /* CritDamageResistRating */
+     , (1342370863, 390,          0) /* Enlightenment */
+     , (1342370863, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1342370863,   1, True ) /* Stuck */
-     , (1342370863,  11, True ) /* IgnoreCollisions */
+     , (1342370863,  12, True ) /* ReportCollisions */
      , (1342370863,  13, False) /* Ethereal */
      , (1342370863,  14, True ) /* GravityStatus */
      , (1342370863,  19, True ) /* Attackable */
      , (1342370863,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342370863,   1, 'Bartz') /* Name */;
+VALUES (1342370863,   1, 'Bartz') /* Name */
+     , (1342370863,  21, 'Warlord The impossible girl') /* MonarchsTitle */
+     , (1342370863,  35, 'Aetheling Karesta') /* PatronsTitle */
+     , (1342370863,  43, '01 April 2000') /* DateOfBirth */
+     , (1342370863,  47, 'New Knights Reborn') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342370863,   1,   33554433) /* Setup */
@@ -27,16 +49,22 @@ VALUES (1342370863,   1,   33554433) /* Setup */
      , (1342370863,   3,  536870913) /* SoundTable */
      , (1342370863,   6,   67108990) /* PaletteBase */
      , (1342370863,   8,  100667446) /* Icon */
+     , (1342370863,   9,   83890516) /* EyesTexture */
+     , (1342370863,  10,   83890528) /* NoseTexture */
+     , (1342370863,  11,   83890642) /* MouthTexture */
+     , (1342370863,  15,   67117028) /* HairPalette */
+     , (1342370863,  16,   67110063) /* EyesPalette */
+     , (1342370863,  17,   67110048) /* SkinPalette */
      , (1342370863,  22,  872415236) /* PhysicsEffectTable */
      , (1342370863, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342370863, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
-     , (1342370863, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
+     , (1342370863, 8005,     104451) /* PCAPRecordedPhysicsDesc - CSetup, MTable, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1342370863, 1, 12583325, 79.36788, -96.33684, 0.004999995, 0.08533514, 0, 0, -0.9963523) /* Location */
 /* @teleloc 0x00C0019D [79.367880 -96.336840 0.005000] 0.085335 0.000000 0.000000 -0.996352 */
-     , (1342370863, 8040, 12583324, 80, -90, 0.004999995, -4.371139E-08, 0, 0, -1) /* PCAPRecordedLocation */
-/* @teleloc 0x00C0019C [80.000000 -90.000000 0.005000] 0.000000 0.000000 0.000000 -1.000000 */;
+     , (1342370863, 8040, 12583490, 80.14001, -10.00199, 6.005, -4.371139E-08, 0, 0, -1) /* PCAPRecordedLocation */
+/* @teleloc 0x00C00242 [80.140010 -10.001990 6.005000] 0.000000 0.000000 0.000000 -1.000000 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342370863,  26, 1343273604) /* Monarch */

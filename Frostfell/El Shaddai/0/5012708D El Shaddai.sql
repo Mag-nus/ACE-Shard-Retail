@@ -3,11 +3,19 @@ VALUES (1343385741, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343385741,   1,         16) /* ItemType - Creature */
+     , (1343385741,   2,         31) /* CreatureType - Human */
      , (1343385741,   6,        102) /* ItemsCapacity */
      , (1343385741,   7,          7) /* ContainersCapacity */
      , (1343385741,  16,          1) /* ItemUseable - No */
+     , (1343385741,  25,        106) /* Level */
      , (1343385741,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343385741, 113,          1) /* Gender - Male */
      , (1343385741, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343385741, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343385741, 188,          3) /* HeritageGroup - Sho */
+     , (1343385741, 261,        451) /* CharacterTitleId */
+     , (1343385741, 307,          5) /* DamageRating */
+     , (1343385741, 390,          0) /* Enlightenment */
      , (1343385741, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +27,8 @@ VALUES (1343385741,   1, True ) /* Stuck */
      , (1343385741,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343385741,   1, 'El Shaddai') /* Name */;
+VALUES (1343385741,   1, 'El Shaddai') /* Name */
+     , (1343385741,  10, 'The Suttbecks McGees') /* Fellowship */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343385741,   1,   33554433) /* Setup */
@@ -27,6 +36,12 @@ VALUES (1343385741,   1,   33554433) /* Setup */
      , (1343385741,   3,  536870913) /* SoundTable */
      , (1343385741,   6,   67108990) /* PaletteBase */
      , (1343385741,   8,  100667446) /* Icon */
+     , (1343385741,   9,   83890450) /* EyesTexture */
+     , (1343385741,  10,   83890523) /* NoseTexture */
+     , (1343385741,  11,   83890566) /* MouthTexture */
+     , (1343385741,  15,   67117028) /* HairPalette */
+     , (1343385741,  16,   67109565) /* EyesPalette */
+     , (1343385741,  17,   67110054) /* SkinPalette */
      , (1343385741,  22,  872415236) /* PhysicsEffectTable */
      , (1343385741, 8001,    8388630) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, RadarBehavior */
      , (1343385741, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

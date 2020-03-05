@@ -3,11 +3,19 @@ VALUES (1343195809, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343195809,   1,         16) /* ItemType - Creature */
+     , (1343195809,   2,         31) /* CreatureType - Human */
      , (1343195809,   6,        102) /* ItemsCapacity */
      , (1343195809,   7,          8) /* ContainersCapacity */
      , (1343195809,  16,          1) /* ItemUseable - No */
+     , (1343195809,  25,        275) /* Level */
+     , (1343195809,  30,          4) /* AllegianceRank */
      , (1343195809,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343195809, 113,          1) /* Gender - Male */
      , (1343195809, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343195809, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343195809, 188,         11) /* HeritageGroup - Undead */
+     , (1343195809, 261,        822) /* CharacterTitleId */
+     , (1343195809, 390,          0) /* Enlightenment */
      , (1343195809, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +27,10 @@ VALUES (1343195809,   1, True ) /* Stuck */
      , (1343195809,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343195809,   1, 'Sen''Taro') /* Name */;
+VALUES (1343195809,   1, 'Sen''Taro') /* Name */
+     , (1343195809,  21, 'Kou Hogun the grim') /* MonarchsTitle */
+     , (1343195809,  35, 'Commodore Olorin the Istari') /* PatronsTitle */
+     , (1343195809,  47, 'Immortals') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343195809,   1,   33561246) /* Setup */
@@ -27,6 +38,12 @@ VALUES (1343195809,   1,   33561246) /* Setup */
      , (1343195809,   3,  536871124) /* SoundTable */
      , (1343195809,   6,   67108990) /* PaletteBase */
      , (1343195809,   8,  100667446) /* Icon */
+     , (1343195809,   9,   83898366) /* EyesTexture */
+     , (1343195809,  10,   83898357) /* NoseTexture */
+     , (1343195809,  11,   83898370) /* MouthTexture */
+     , (1343195809,  15,   67117016) /* HairPalette */
+     , (1343195809,  16,   67116950) /* EyesPalette */
+     , (1343195809,  17,   67116945) /* SkinPalette */
      , (1343195809,  22,  872415435) /* PhysicsEffectTable */
      , (1343195809, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343195809, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

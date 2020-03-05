@@ -3,11 +3,28 @@ VALUES (1342942547, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342942547,   1,         16) /* ItemType - Creature */
+     , (1342942547,   2,         31) /* CreatureType - Human */
      , (1342942547,   6,        102) /* ItemsCapacity */
      , (1342942547,   7,          8) /* ContainersCapacity */
      , (1342942547,  16,          1) /* ItemUseable - No */
+     , (1342942547,  25,        275) /* Level */
+     , (1342942547,  30,          7) /* AllegianceRank */
      , (1342942547,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1342942547, 113,          1) /* Gender - Male */
+     , (1342942547, 125,   47978470) /* Age */
      , (1342942547, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342942547, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342942547, 188,          1) /* HeritageGroup - Aluvian */
+     , (1342942547, 261,        293) /* CharacterTitleId */
+     , (1342942547, 281,          1) /* Faction1Bits */
+     , (1342942547, 287,       1001) /* SocietyRankCelhan */
+     , (1342942547, 307,         17) /* DamageRating */
+     , (1342942547, 308,         13) /* DamageResistRating */
+     , (1342942547, 313,          1) /* CritRating */
+     , (1342942547, 314,         11) /* CritDamageRating */
+     , (1342942547, 316,          7) /* CritDamageResistRating */
+     , (1342942547, 323,         10) /* HealingBoostRating */
+     , (1342942547, 390,          0) /* Enlightenment */
      , (1342942547, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +36,11 @@ VALUES (1342942547,   1, True ) /* Stuck */
      , (1342942547,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342942547,   1, 'Farquad') /* Name */;
+VALUES (1342942547,   1, 'Farquad') /* Name */
+     , (1342942547,  21, 'Taikou Wysteria Witchblade') /* MonarchsTitle */
+     , (1342942547,  35, 'Taikou Wysteria Witchblade') /* PatronsTitle */
+     , (1342942547,  43, '08 September 2002') /* DateOfBirth */
+     , (1342942547,  47, 'Knights of Honor') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342942547,   1,   33554433) /* Setup */
@@ -27,6 +48,12 @@ VALUES (1342942547,   1,   33554433) /* Setup */
      , (1342942547,   3,  536870913) /* SoundTable */
      , (1342942547,   6,   67108990) /* PaletteBase */
      , (1342942547,   8,  100667446) /* Icon */
+     , (1342942547,   9,   83890509) /* EyesTexture */
+     , (1342942547,  10,   83890555) /* NoseTexture */
+     , (1342942547,  11,   83890628) /* MouthTexture */
+     , (1342942547,  15,   67116859) /* HairPalette */
+     , (1342942547,  16,   67109567) /* EyesPalette */
+     , (1342942547,  17,   67109561) /* SkinPalette */
      , (1342942547,  22,  872415236) /* PhysicsEffectTable */
      , (1342942547, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342942547, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
@@ -35,8 +62,8 @@ VALUES (1342942547,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1342942547, 1, 19202318, 28.26069, -25.79461, 0.004999995, -0.9989319, 0, 0, -0.04620519) /* Location */
 /* @teleloc 0x0125010E [28.260690 -25.794610 0.005000] -0.998932 0.000000 0.000000 -0.046205 */
-     , (1342942547, 8040, 2847146026, 143.3782, 42.4981, 94.005, 0.4959031, 0, 0, -0.8683779) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B4002A [143.378200 42.498100 94.005000] 0.495903 0.000000 0.000000 -0.868378 */;
+     , (1342942547, 8040, 19202342, 30, -60, 6.005, 1, 0, 0, 0) /* PCAPRecordedLocation */
+/* @teleloc 0x01250126 [30.000000 -60.000000 6.005000] 1.000000 0.000000 0.000000 0.000000 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342942547,  26, 1343141845) /* Monarch */

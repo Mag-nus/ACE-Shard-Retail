@@ -3,11 +3,26 @@ VALUES (1342688005, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342688005,   1,         16) /* ItemType - Creature */
+     , (1342688005,   2,         31) /* CreatureType - Human */
      , (1342688005,   6,        102) /* ItemsCapacity */
      , (1342688005,   7,          7) /* ContainersCapacity */
      , (1342688005,  16,          1) /* ItemUseable - No */
+     , (1342688005,  25,        250) /* Level */
+     , (1342688005,  30,          3) /* AllegianceRank */
+     , (1342688005,  43,        260) /* NumDeaths */
      , (1342688005,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342688005, 113,          1) /* Gender - Male */
+     , (1342688005, 125,    8436203) /* Age */
      , (1342688005, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342688005, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342688005, 181,       1612) /* ChessRank */
+     , (1342688005, 188,          2) /* HeritageGroup - Gharundim */
+     , (1342688005, 192,          9) /* FakeFishingSkill */
+     , (1342688005, 261,        767) /* CharacterTitleId */
+     , (1342688005, 262,        100) /* NumCharacterTitles */
+     , (1342688005, 307,          8) /* DamageRating */
+     , (1342688005, 314,          3) /* CritDamageRating */
+     , (1342688005, 390,          0) /* Enlightenment */
      , (1342688005, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +34,11 @@ VALUES (1342688005,   1, True ) /* Stuck */
      , (1342688005,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342688005,   1, 'Wise Magus') /* Name */;
+VALUES (1342688005,   1, 'Wise Magus') /* Name */
+     , (1342688005,  21, 'Jo-ou Tika Waylen') /* MonarchsTitle */
+     , (1342688005,  35, 'Thane Riggor II') /* PatronsTitle */
+     , (1342688005,  43, '31 March 2001') /* DateOfBirth */
+     , (1342688005,  47, 'The Dragon Moon Clan') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342688005,   1,   33554433) /* Setup */
@@ -27,6 +46,12 @@ VALUES (1342688005,   1,   33554433) /* Setup */
      , (1342688005,   3,  536870913) /* SoundTable */
      , (1342688005,   6,   67108990) /* PaletteBase */
      , (1342688005,   8,  100667446) /* Icon */
+     , (1342688005,   9,   83890510) /* EyesTexture */
+     , (1342688005,  10,   83890559) /* NoseTexture */
+     , (1342688005,  11,   83890564) /* MouthTexture */
+     , (1342688005,  15,   67109621) /* HairPalette */
+     , (1342688005,  16,   67110063) /* EyesPalette */
+     , (1342688005,  17,   67109553) /* SkinPalette */
      , (1342688005,  22,  872415236) /* PhysicsEffectTable */
      , (1342688005, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342688005, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

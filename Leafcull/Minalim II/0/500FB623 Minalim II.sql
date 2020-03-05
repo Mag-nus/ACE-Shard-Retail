@@ -3,11 +3,20 @@ VALUES (1343206947, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343206947,   1,         16) /* ItemType - Creature */
+     , (1343206947,   2,         31) /* CreatureType - Human */
      , (1343206947,   6,        102) /* ItemsCapacity */
      , (1343206947,   7,          7) /* ContainersCapacity */
      , (1343206947,  16,          1) /* ItemUseable - No */
+     , (1343206947,  25,         12) /* Level */
      , (1343206947,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343206947, 113,          1) /* Gender - Male */
      , (1343206947, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343206947, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343206947, 188,          5) /* HeritageGroup - Shadowbound */
+     , (1343206947, 261,         12) /* CharacterTitleId */
+     , (1343206947, 307,          5) /* DamageRating */
+     , (1343206947, 313,          1) /* CritRating */
+     , (1343206947, 390,          0) /* Enlightenment */
      , (1343206947, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -27,6 +36,12 @@ VALUES (1343206947,   1,   33560943) /* Setup */
      , (1343206947,   3,  536870913) /* SoundTable */
      , (1343206947,   6,   67108990) /* PaletteBase */
      , (1343206947,   8,  100667446) /* Icon */
+     , (1343206947,   9,   83890513) /* EyesTexture */
+     , (1343206947,  10,   83890521) /* NoseTexture */
+     , (1343206947,  11,   83890587) /* MouthTexture */
+     , (1343206947,  15,   67117069) /* HairPalette */
+     , (1343206947,  16,   67116854) /* EyesPalette */
+     , (1343206947,  17,   67116846) /* SkinPalette */
      , (1343206947,  22,  872415433) /* PhysicsEffectTable */
      , (1343206947, 8001,    8388630) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, RadarBehavior */
      , (1343206947, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

@@ -3,11 +3,28 @@ VALUES (1342546094, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342546094,   1,         16) /* ItemType - Creature */
+     , (1342546094,   2,         31) /* CreatureType - Human */
      , (1342546094,   6,        102) /* ItemsCapacity */
      , (1342546094,   7,          7) /* ContainersCapacity */
      , (1342546094,  16,          1) /* ItemUseable - No */
+     , (1342546094,  25,        238) /* Level */
+     , (1342546094,  30,          1) /* AllegianceRank */
+     , (1342546094,  43,        278) /* NumDeaths */
      , (1342546094,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342546094, 113,          1) /* Gender - Male */
+     , (1342546094, 125,    3725589) /* Age */
      , (1342546094, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342546094, 134,         64) /* PlayerKillerStatus - PKLite */
+     , (1342546094, 188,          2) /* HeritageGroup - Gharundim */
+     , (1342546094, 261,          1) /* CharacterTitleId */
+     , (1342546094, 262,         40) /* NumCharacterTitles */
+     , (1342546094, 307,         15) /* DamageRating */
+     , (1342546094, 308,          8) /* DamageResistRating */
+     , (1342546094, 313,          1) /* CritRating */
+     , (1342546094, 314,         10) /* CritDamageRating */
+     , (1342546094, 316,          6) /* CritDamageResistRating */
+     , (1342546094, 323,          4) /* HealingBoostRating */
+     , (1342546094, 390,          0) /* Enlightenment */
      , (1342546094, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +36,11 @@ VALUES (1342546094,   1, True ) /* Stuck */
      , (1342546094,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342546094,   1, 'Govinda') /* Name */;
+VALUES (1342546094,   1, 'Govinda') /* Name */
+     , (1342546094,  21, 'Taikou Butterflygolem') /* MonarchsTitle */
+     , (1342546094,  35, 'Banner Niro''s I I I') /* PatronsTitle */
+     , (1342546094,  43, '04 October 2000') /* DateOfBirth */
+     , (1342546094,  47, 'Jello Fighters') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342546094,   1,   33554433) /* Setup */
@@ -27,6 +48,12 @@ VALUES (1342546094,   1,   33554433) /* Setup */
      , (1342546094,   3,  536870913) /* SoundTable */
      , (1342546094,   6,   67108990) /* PaletteBase */
      , (1342546094,   8,  100667446) /* Icon */
+     , (1342546094,   9,   83890485) /* EyesTexture */
+     , (1342546094,  10,   83890562) /* NoseTexture */
+     , (1342546094,  11,   83890659) /* MouthTexture */
+     , (1342546094,  15,   67109618) /* HairPalette */
+     , (1342546094,  16,   67110063) /* EyesPalette */
+     , (1342546094,  17,   67109557) /* SkinPalette */
      , (1342546094,  22,  872415236) /* PhysicsEffectTable */
      , (1342546094, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342546094, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

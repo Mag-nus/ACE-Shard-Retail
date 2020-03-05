@@ -3,11 +3,31 @@ VALUES (1342664488, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342664488,   1,         16) /* ItemType - Creature */
+     , (1342664488,   2,         31) /* CreatureType - Human */
      , (1342664488,   6,        102) /* ItemsCapacity */
      , (1342664488,   7,          8) /* ContainersCapacity */
      , (1342664488,  16,          1) /* ItemUseable - No */
+     , (1342664488,  25,        275) /* Level */
+     , (1342664488,  30,          5) /* AllegianceRank */
+     , (1342664488,  43,       1001) /* NumDeaths */
      , (1342664488,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342664488, 113,          1) /* Gender - Male */
+     , (1342664488, 125,   10268008) /* Age */
      , (1342664488, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342664488, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342664488, 188,          1) /* HeritageGroup - Aluvian */
+     , (1342664488, 192,        700) /* FakeFishingSkill */
+     , (1342664488, 261,        456) /* CharacterTitleId */
+     , (1342664488, 262,         90) /* NumCharacterTitles */
+     , (1342664488, 281,          4) /* Faction1Bits */
+     , (1342664488, 289,       1001) /* SocietyRankRadblo */
+     , (1342664488, 307,         45) /* DamageRating */
+     , (1342664488, 308,         15) /* DamageResistRating */
+     , (1342664488, 313,          1) /* CritRating */
+     , (1342664488, 314,         10) /* CritDamageRating */
+     , (1342664488, 316,          8) /* CritDamageResistRating */
+     , (1342664488, 323,         10) /* HealingBoostRating */
+     , (1342664488, 390,          0) /* Enlightenment */
      , (1342664488, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +39,11 @@ VALUES (1342664488,   1, True ) /* Stuck */
      , (1342664488,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342664488,   1, 'Tintalieau''s Squire') /* Name */;
+VALUES (1342664488,   1, 'Tintalieau''s Squire') /* Name */
+     , (1342664488,  21, 'Qadi Ba-Bu') /* MonarchsTitle */
+     , (1342664488,  35, 'Ealdor Tintix') /* PatronsTitle */
+     , (1342664488,  43, '10 April 2001') /* DateOfBirth */
+     , (1342664488,  47, 'Blue Blaze Irregulars') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342664488,   1,   33554433) /* Setup */
@@ -27,6 +51,12 @@ VALUES (1342664488,   1,   33554433) /* Setup */
      , (1342664488,   3,  536870913) /* SoundTable */
      , (1342664488,   6,   67108990) /* PaletteBase */
      , (1342664488,   8,  100667446) /* Icon */
+     , (1342664488,   9,   83890464) /* EyesTexture */
+     , (1342664488,  10,   83890518) /* NoseTexture */
+     , (1342664488,  11,   83890642) /* MouthTexture */
+     , (1342664488,  15,   67109597) /* HairPalette */
+     , (1342664488,  16,   67110064) /* EyesPalette */
+     , (1342664488,  17,   67109560) /* SkinPalette */
      , (1342664488,  22,  872415236) /* PhysicsEffectTable */
      , (1342664488, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342664488, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

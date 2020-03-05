@@ -3,11 +3,28 @@ VALUES (1343002762, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343002762,   1,         16) /* ItemType - Creature */
+     , (1343002762,   2,         31) /* CreatureType - Human */
      , (1343002762,   6,        102) /* ItemsCapacity */
      , (1343002762,   7,          7) /* ContainersCapacity */
      , (1343002762,  16,          1) /* ItemUseable - No */
+     , (1343002762,  25,        269) /* Level */
+     , (1343002762,  30,          5) /* AllegianceRank */
+     , (1343002762,  43,        825) /* NumDeaths */
      , (1343002762,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343002762, 113,          1) /* Gender - Male */
+     , (1343002762, 125,   10109730) /* Age */
      , (1343002762, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343002762, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343002762, 188,          1) /* HeritageGroup - Aluvian */
+     , (1343002762, 192,        126) /* FakeFishingSkill */
+     , (1343002762, 261,        119) /* CharacterTitleId */
+     , (1343002762, 307,         13) /* DamageRating */
+     , (1343002762, 308,          4) /* DamageResistRating */
+     , (1343002762, 313,          1) /* CritRating */
+     , (1343002762, 314,         10) /* CritDamageRating */
+     , (1343002762, 316,          2) /* CritDamageResistRating */
+     , (1343002762, 351,         12) /* LifeResistRating */
+     , (1343002762, 390,          0) /* Enlightenment */
      , (1343002762, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +36,11 @@ VALUES (1343002762,   1, True ) /* Stuck */
      , (1343002762,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343002762,   1, 'Simon Snowlocke') /* Name */;
+VALUES (1343002762,   1, 'Simon Snowlocke') /* Name */
+     , (1343002762,  21, 'Jo-ou Tika Waylen') /* MonarchsTitle */
+     , (1343002762,  35, 'Thane Merlinus') /* PatronsTitle */
+     , (1343002762,  43, '24 September 2002') /* DateOfBirth */
+     , (1343002762,  47, 'The Dragon Moon Clan') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343002762,   1,   33554433) /* Setup */
@@ -27,6 +48,12 @@ VALUES (1343002762,   1,   33554433) /* Setup */
      , (1343002762,   3,  536870913) /* SoundTable */
      , (1343002762,   6,   67108990) /* PaletteBase */
      , (1343002762,   8,  100667446) /* Icon */
+     , (1343002762,   9,   83890445) /* EyesTexture */
+     , (1343002762,  10,   83890550) /* NoseTexture */
+     , (1343002762,  11,   83890578) /* MouthTexture */
+     , (1343002762,  15,   67109614) /* HairPalette */
+     , (1343002762,  16,   67110064) /* EyesPalette */
+     , (1343002762,  17,   67109560) /* SkinPalette */
      , (1343002762,  22,  872415236) /* PhysicsEffectTable */
      , (1343002762, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343002762, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

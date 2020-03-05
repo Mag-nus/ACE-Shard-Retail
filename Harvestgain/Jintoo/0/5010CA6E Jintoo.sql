@@ -3,11 +3,25 @@ VALUES (1343277678, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343277678,   1,         16) /* ItemType - Creature */
+     , (1343277678,   2,         31) /* CreatureType - Human */
      , (1343277678,   6,        102) /* ItemsCapacity */
      , (1343277678,   7,          7) /* ContainersCapacity */
      , (1343277678,  16,          1) /* ItemUseable - No */
+     , (1343277678,  25,        224) /* Level */
+     , (1343277678,  30,          5) /* AllegianceRank */
      , (1343277678,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343277678, 113,          1) /* Gender - Male */
+     , (1343277678, 125,    1023665) /* Age */
      , (1343277678, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343277678, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343277678, 188,          3) /* HeritageGroup - Sho */
+     , (1343277678, 261,        771) /* CharacterTitleId */
+     , (1343277678, 307,          6) /* DamageRating */
+     , (1343277678, 308,          3) /* DamageResistRating */
+     , (1343277678, 314,          6) /* CritDamageRating */
+     , (1343277678, 316,          1) /* CritDamageResistRating */
+     , (1343277678, 323,          1) /* HealingBoostRating */
+     , (1343277678, 390,          0) /* Enlightenment */
      , (1343277678, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +33,11 @@ VALUES (1343277678,   1, True ) /* Stuck */
      , (1343277678,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343277678,   1, 'Jintoo') /* Name */;
+VALUES (1343277678,   1, 'Jintoo') /* Name */
+     , (1343277678,  21, 'Aetheling Forgetmenot') /* MonarchsTitle */
+     , (1343277678,  35, 'Kun-chueh Bluewater') /* PatronsTitle */
+     , (1343277678,  43, '16 June 2015') /* DateOfBirth */
+     , (1343277678,  47, 'THE UNFORGOTTEN') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343277678,   1,   33554433) /* Setup */
@@ -27,6 +45,12 @@ VALUES (1343277678,   1,   33554433) /* Setup */
      , (1343277678,   3,  536870913) /* SoundTable */
      , (1343277678,   6,   67108990) /* PaletteBase */
      , (1343277678,   8,  100667446) /* Icon */
+     , (1343277678,   9,   83890446) /* EyesTexture */
+     , (1343277678,  10,   83890530) /* NoseTexture */
+     , (1343277678,  11,   83890665) /* MouthTexture */
+     , (1343277678,  15,   67116991) /* HairPalette */
+     , (1343277678,  16,   67110062) /* EyesPalette */
+     , (1343277678,  17,   67110056) /* SkinPalette */
      , (1343277678,  22,  872415236) /* PhysicsEffectTable */
      , (1343277678, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343277678, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

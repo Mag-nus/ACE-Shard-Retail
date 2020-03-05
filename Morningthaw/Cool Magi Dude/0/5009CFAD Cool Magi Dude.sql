@@ -3,11 +3,29 @@ VALUES (1342820269, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342820269,   1,         16) /* ItemType - Creature */
+     , (1342820269,   2,         31) /* CreatureType - Human */
      , (1342820269,   6,        102) /* ItemsCapacity */
      , (1342820269,   7,          7) /* ContainersCapacity */
      , (1342820269,  16,          1) /* ItemUseable - No */
+     , (1342820269,  25,        275) /* Level */
+     , (1342820269,  30,          6) /* AllegianceRank */
+     , (1342820269,  43,       1752) /* NumDeaths */
      , (1342820269,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342820269, 113,          1) /* Gender - Male */
+     , (1342820269, 125,   13063949) /* Age */
      , (1342820269, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342820269, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342820269, 188,          1) /* HeritageGroup - Aluvian */
+     , (1342820269, 261,        237) /* CharacterTitleId */
+     , (1342820269, 281,          2) /* Faction1Bits */
+     , (1342820269, 288,          1) /* SocietyRankEldweb */
+     , (1342820269, 307,         47) /* DamageRating */
+     , (1342820269, 308,         24) /* DamageResistRating */
+     , (1342820269, 313,          1) /* CritRating */
+     , (1342820269, 314,         25) /* CritDamageRating */
+     , (1342820269, 316,         19) /* CritDamageResistRating */
+     , (1342820269, 323,          5) /* HealingBoostRating */
+     , (1342820269, 390,          0) /* Enlightenment */
      , (1342820269, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +37,11 @@ VALUES (1342820269,   1, True ) /* Stuck */
      , (1342820269,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342820269,   1, 'Cool Magi Dude') /* Name */;
+VALUES (1342820269,   1, 'Cool Magi Dude') /* Name */
+     , (1342820269,  21, 'Rea Darktide Invades') /* MonarchsTitle */
+     , (1342820269,  35, 'Kun-chueh Dark Cheetah II') /* PatronsTitle */
+     , (1342820269,  43, '26 December 2001') /* DateOfBirth */
+     , (1342820269,  47, 'I l I l I l I l I l I l I l I l') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342820269,   1,   33554433) /* Setup */
@@ -27,6 +49,12 @@ VALUES (1342820269,   1,   33554433) /* Setup */
      , (1342820269,   3,  536870913) /* SoundTable */
      , (1342820269,   6,   67108990) /* PaletteBase */
      , (1342820269,   8,  100667446) /* Icon */
+     , (1342820269,   9,   83890508) /* EyesTexture */
+     , (1342820269,  10,   83890546) /* NoseTexture */
+     , (1342820269,  11,   83890638) /* MouthTexture */
+     , (1342820269,  15,   67109625) /* HairPalette */
+     , (1342820269,  16,   67110064) /* EyesPalette */
+     , (1342820269,  17,   67109560) /* SkinPalette */
      , (1342820269,  22,  872415236) /* PhysicsEffectTable */
      , (1342820269, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342820269, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

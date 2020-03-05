@@ -15,6 +15,14 @@ VALUES (1342775377,   1,         16) /* ItemType - Creature */
      , (1342775377, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342775377, 188,          1) /* HeritageGroup - Aluvian */
      , (1342775377, 261,          1) /* CharacterTitleId */
+     , (1342775377, 281,          2) /* Faction1Bits */
+     , (1342775377, 288,       1001) /* SocietyRankEldweb */
+     , (1342775377, 307,         28) /* DamageRating */
+     , (1342775377, 308,         32) /* DamageResistRating */
+     , (1342775377, 313,          1) /* CritRating */
+     , (1342775377, 314,         16) /* CritDamageRating */
+     , (1342775377, 316,         10) /* CritDamageResistRating */
+     , (1342775377, 323,         10) /* HealingBoostRating */
      , (1342775377, 390,          2) /* Enlightenment */
      , (1342775377, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
@@ -28,6 +36,7 @@ VALUES (1342775377,   1, True ) /* Stuck */
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1342775377,   1, 'Winter''s Boon') /* Name */
+     , (1342775377,  10, 'Zdvvzxc') /* Fellowship */
      , (1342775377,  21, 'Malik Tao Roo Chingon II') /* MonarchsTitle */
      , (1342775377,  35, 'Ealdor Danali') /* PatronsTitle */
      , (1342775377,  47, 'The Spirits of the Mountain') /* AllegianceName */;

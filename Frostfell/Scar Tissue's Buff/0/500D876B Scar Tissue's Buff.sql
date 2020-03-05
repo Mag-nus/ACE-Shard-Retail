@@ -3,11 +3,28 @@ VALUES (1343063915, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343063915,   1,         16) /* ItemType - Creature */
+     , (1343063915,   2,         31) /* CreatureType - Human */
      , (1343063915,   6,        102) /* ItemsCapacity */
      , (1343063915,   7,          7) /* ContainersCapacity */
      , (1343063915,  16,          1) /* ItemUseable - No */
+     , (1343063915,  25,        275) /* Level */
+     , (1343063915,  30,          2) /* AllegianceRank */
      , (1343063915,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343063915, 113,          2) /* Gender - Female */
+     , (1343063915, 125,    8641454) /* Age */
      , (1343063915, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343063915, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343063915, 188,          2) /* HeritageGroup - Gharundim */
+     , (1343063915, 261,        662) /* CharacterTitleId */
+     , (1343063915, 281,          2) /* Faction1Bits */
+     , (1343063915, 288,       1001) /* SocietyRankEldweb */
+     , (1343063915, 307,         25) /* DamageRating */
+     , (1343063915, 308,         15) /* DamageResistRating */
+     , (1343063915, 313,          1) /* CritRating */
+     , (1343063915, 314,          9) /* CritDamageRating */
+     , (1343063915, 316,          4) /* CritDamageResistRating */
+     , (1343063915, 323,          3) /* HealingBoostRating */
+     , (1343063915, 390,          0) /* Enlightenment */
      , (1343063915, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +36,11 @@ VALUES (1343063915,   1, True ) /* Stuck */
      , (1343063915,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343063915,   1, 'Scar Tissue''s Buff') /* Name */;
+VALUES (1343063915,   1, 'Scar Tissue''s Buff') /* Name */
+     , (1343063915,  10, 'Solh') /* Fellowship */
+     , (1343063915,  21, 'Ealdor Grade A') /* MonarchsTitle */
+     , (1343063915,  35, 'Kun-chueh Generic Death') /* PatronsTitle */
+     , (1343063915,  43, '03 June 2003') /* DateOfBirth */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343063915,   1,   33554510) /* Setup */
@@ -27,6 +48,12 @@ VALUES (1343063915,   1,   33554510) /* Setup */
      , (1343063915,   3,  536870914) /* SoundTable */
      , (1343063915,   6,   67108990) /* PaletteBase */
      , (1343063915,   8,  100667446) /* Icon */
+     , (1343063915,   9,   83890241) /* EyesTexture */
+     , (1343063915,  10,   83890292) /* NoseTexture */
+     , (1343063915,  11,   83890337) /* MouthTexture */
+     , (1343063915,  15,   67109596) /* HairPalette */
+     , (1343063915,  16,   67110062) /* EyesPalette */
+     , (1343063915,  17,   67109557) /* SkinPalette */
      , (1343063915,  22,  872415236) /* PhysicsEffectTable */
      , (1343063915, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343063915, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

@@ -7,12 +7,14 @@ VALUES (1344175347,   1,         16) /* ItemType - Creature */
      , (1344175347,   6,        102) /* ItemsCapacity */
      , (1344175347,   7,          7) /* ContainersCapacity */
      , (1344175347,  16,          1) /* ItemUseable - No */
+     , (1344175347,  25,         15) /* Level */
      , (1344175347,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
      , (1344175347, 113,          1) /* Gender - Male */
      , (1344175347, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1344175347, 134,          4) /* PlayerKillerStatus - PK */
      , (1344175347, 188,          3) /* HeritageGroup - Sho */
      , (1344175347, 261,          1) /* CharacterTitleId */
+     , (1344175347, 307,          5) /* DamageRating */
      , (1344175347, 390,          0) /* Enlightenment */
      , (1344175347, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
@@ -25,8 +27,7 @@ VALUES (1344175347,   1, True ) /* Stuck */
      , (1344175347,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1344175347,   1, 'Sholdslastridelc') /* Name */
-     , (1344175347,  10, 'Qq') /* Fellowship */;
+VALUES (1344175347,   1, 'Sholdslastridelc') /* Name */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1344175347,   1,   33554433) /* Setup */

@@ -6,13 +6,13 @@ VALUES (1343355605,   1,         16) /* ItemType - Creature */
      , (1343355605,   6,        102) /* ItemsCapacity */
      , (1343355605,   7,          7) /* ContainersCapacity */
      , (1343355605,  16,          1) /* ItemUseable - No */
-     , (1343355605,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343355605,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1343355605, 133,          4) /* ShowableOnRadar - ShowAlways */
-     , (1343355605, 8007,          0) /* PCAPRecordedAutonomousMovement */;
+     , (1343355605, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1343355605,   1, True ) /* Stuck */
-     , (1343355605,  11, True ) /* IgnoreCollisions */
+     , (1343355605,  12, True ) /* ReportCollisions */
      , (1343355605,  13, False) /* Ethereal */
      , (1343355605,  14, True ) /* GravityStatus */
      , (1343355605,  19, True ) /* Attackable */
@@ -35,8 +35,8 @@ VALUES (1343355605,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343355605, 1, 459076, 74.83897, -66.13253, 0.004999995, 0.493138, 0, 0, 0.8699511) /* Location */
 /* @teleloc 0x00070144 [74.838970 -66.132530 0.005000] 0.493138 0.000000 0.000000 0.869951 */
-     , (1343355605, 8040, 459075, 70, -60, 0.004999995, -4.371139E-08, 0, 0, -1) /* PCAPRecordedLocation */
-/* @teleloc 0x00070143 [70.000000 -60.000000 0.005000] 0.000000 0.000000 0.000000 -1.000000 */;
+     , (1343355605, 8040, 459075, 71.66948, -63.11411, 0.004999995, -0.0981062, 0, 0, -0.995176) /* PCAPRecordedLocation */
+/* @teleloc 0x00070143 [71.669480 -63.114110 0.005000] -0.098106 0.000000 0.000000 -0.995176 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343355605,  26, 1342200341) /* Monarch */

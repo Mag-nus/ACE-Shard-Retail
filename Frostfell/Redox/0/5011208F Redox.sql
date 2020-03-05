@@ -12,14 +12,14 @@ VALUES (1343299727,   1,         16) /* ItemType - Creature */
      , (1343299727,  43,        208) /* NumDeaths */
      , (1343299727,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
      , (1343299727, 113,          1) /* Gender - Male */
-     , (1343299727, 125,   12995597) /* Age */
+     , (1343299727, 125,   13009217) /* Age */
      , (1343299727, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343299727, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343299727, 188,          4) /* HeritageGroup - Viamontian */
      , (1343299727, 261,        465) /* CharacterTitleId */
      , (1343299727, 281,          4) /* Faction1Bits */
      , (1343299727, 289,          1) /* SocietyRankRadblo */
-     , (1343299727, 307,         16) /* DamageRating */
+     , (1343299727, 307,         14) /* DamageRating */
      , (1343299727, 308,         22) /* DamageResistRating */
      , (1343299727, 313,          1) /* CritRating */
      , (1343299727, 314,          8) /* CritDamageRating */
@@ -38,6 +38,7 @@ VALUES (1343299727,   1, True ) /* Stuck */
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343299727,   1, 'Redox') /* Name */
+     , (1343299727,  10, 'X') /* Fellowship */
      , (1343299727,  21, 'Queen Evil-Lady') /* MonarchsTitle */
      , (1343299727,  35, 'Viscount Oldschool') /* PatronsTitle */
      , (1343299727,  43, '31 March 2010') /* DateOfBirth */

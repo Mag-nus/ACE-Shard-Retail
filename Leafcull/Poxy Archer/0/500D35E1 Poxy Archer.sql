@@ -3,11 +3,26 @@ VALUES (1343043041, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343043041,   1,         16) /* ItemType - Creature */
+     , (1343043041,   2,         31) /* CreatureType - Human */
      , (1343043041,   6,        102) /* ItemsCapacity */
      , (1343043041,   7,          8) /* ContainersCapacity */
      , (1343043041,  16,          1) /* ItemUseable - No */
+     , (1343043041,  25,        275) /* Level */
+     , (1343043041,  30,          3) /* AllegianceRank */
+     , (1343043041,  43,        136) /* NumDeaths */
      , (1343043041,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343043041, 113,          1) /* Gender - Male */
+     , (1343043041, 125,    3075290) /* Age */
      , (1343043041, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343043041, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343043041, 188,          1) /* HeritageGroup - Aluvian */
+     , (1343043041, 261,        494) /* CharacterTitleId */
+     , (1343043041, 307,         10) /* DamageRating */
+     , (1343043041, 308,          4) /* DamageResistRating */
+     , (1343043041, 313,          1) /* CritRating */
+     , (1343043041, 314,          6) /* CritDamageRating */
+     , (1343043041, 323,          1) /* HealingBoostRating */
+     , (1343043041, 390,          0) /* Enlightenment */
      , (1343043041, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +34,11 @@ VALUES (1343043041,   1, True ) /* Stuck */
      , (1343043041,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343043041,   1, 'Poxy Archer') /* Name */;
+VALUES (1343043041,   1, 'Poxy Archer') /* Name */
+     , (1343043041,  21, 'King Cobra-Con') /* MonarchsTitle */
+     , (1343043041,  35, 'Maulan Officer Obie') /* PatronsTitle */
+     , (1343043041,  43, '02 May 2004') /* DateOfBirth */
+     , (1343043041,  47, 'Cobra''s Crew') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343043041,   1,   33554433) /* Setup */
@@ -27,6 +46,12 @@ VALUES (1343043041,   1,   33554433) /* Setup */
      , (1343043041,   3,  536870913) /* SoundTable */
      , (1343043041,   6,   67108990) /* PaletteBase */
      , (1343043041,   8,  100667446) /* Icon */
+     , (1343043041,   9,   83890451) /* EyesTexture */
+     , (1343043041,  10,   83890549) /* NoseTexture */
+     , (1343043041,  11,   83890643) /* MouthTexture */
+     , (1343043041,  15,   67109595) /* HairPalette */
+     , (1343043041,  16,   67110064) /* EyesPalette */
+     , (1343043041,  17,   67109562) /* SkinPalette */
      , (1343043041,  22,  872415236) /* PhysicsEffectTable */
      , (1343043041, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343043041, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

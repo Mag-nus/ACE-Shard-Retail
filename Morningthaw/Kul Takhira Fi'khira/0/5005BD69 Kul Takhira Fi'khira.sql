@@ -3,11 +3,22 @@ VALUES (1342553449, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342553449,   1,         16) /* ItemType - Creature */
+     , (1342553449,   2,         31) /* CreatureType - Human */
      , (1342553449,   6,        102) /* ItemsCapacity */
      , (1342553449,   7,          7) /* ContainersCapacity */
      , (1342553449,  16,          1) /* ItemUseable - No */
+     , (1342553449,  25,        216) /* Level */
+     , (1342553449,  30,          1) /* AllegianceRank */
      , (1342553449,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342553449, 113,          1) /* Gender - Male */
      , (1342553449, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342553449, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342553449, 188,          3) /* HeritageGroup - Sho */
+     , (1342553449, 261,        765) /* CharacterTitleId */
+     , (1342553449, 307,          9) /* DamageRating */
+     , (1342553449, 314,          3) /* CritDamageRating */
+     , (1342553449, 323,          1) /* HealingBoostRating */
+     , (1342553449, 390,          0) /* Enlightenment */
      , (1342553449, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +30,11 @@ VALUES (1342553449,   1, True ) /* Stuck */
      , (1342553449,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342553449,   1, 'Kul Takhira Fi''khira') /* Name */;
+VALUES (1342553449,   1, 'Kul Takhira Fi''khira') /* Name */
+     , (1342553449,  21, 'High King He who is called I Am') /* MonarchsTitle */
+     , (1342553449,  35, 'Shayk Gomer Pyle') /* PatronsTitle */
+     , (1342553449,  43, '02 November 2000') /* DateOfBirth */
+     , (1342553449,  47, 'Untalented Circus Midgets') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342553449,   1,   33554433) /* Setup */
@@ -27,6 +42,12 @@ VALUES (1342553449,   1,   33554433) /* Setup */
      , (1342553449,   3,  536870913) /* SoundTable */
      , (1342553449,   6,   67108990) /* PaletteBase */
      , (1342553449,   8,  100667446) /* Icon */
+     , (1342553449,   9,   83890514) /* EyesTexture */
+     , (1342553449,  10,   83890561) /* NoseTexture */
+     , (1342553449,  11,   83890635) /* MouthTexture */
+     , (1342553449,  15,   67109618) /* HairPalette */
+     , (1342553449,  16,   67109565) /* EyesPalette */
+     , (1342553449,  17,   67110059) /* SkinPalette */
      , (1342553449,  22,  872415236) /* PhysicsEffectTable */
      , (1342553449, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342553449, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

@@ -3,11 +3,24 @@ VALUES (1343221679, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343221679,   1,         16) /* ItemType - Creature */
+     , (1343221679,   2,         31) /* CreatureType - Human */
      , (1343221679,   6,        102) /* ItemsCapacity */
      , (1343221679,   7,          8) /* ContainersCapacity */
      , (1343221679,  16,          1) /* ItemUseable - No */
+     , (1343221679,  25,        275) /* Level */
+     , (1343221679,  30,          3) /* AllegianceRank */
      , (1343221679,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343221679, 113,          1) /* Gender - Male */
      , (1343221679, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343221679, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343221679, 188,         11) /* HeritageGroup - Undead */
+     , (1343221679, 261,          1) /* CharacterTitleId */
+     , (1343221679, 307,          8) /* DamageRating */
+     , (1343221679, 308,          3) /* DamageResistRating */
+     , (1343221679, 314,          9) /* CritDamageRating */
+     , (1343221679, 316,          1) /* CritDamageResistRating */
+     , (1343221679, 323,          2) /* HealingBoostRating */
+     , (1343221679, 390,          0) /* Enlightenment */
      , (1343221679, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +32,10 @@ VALUES (1343221679,   1, True ) /* Stuck */
      , (1343221679,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343221679,   1, 'Sole Crafter') /* Name */;
+VALUES (1343221679,   1, 'Sole Crafter') /* Name */
+     , (1343221679,  21, 'Taikou Wysteria Witchblade') /* MonarchsTitle */
+     , (1343221679,  35, 'Shi-chueh Khor-Zan') /* PatronsTitle */
+     , (1343221679,  47, 'Knights of Honor') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343221679,   1,   33561245) /* Setup */
@@ -27,6 +43,12 @@ VALUES (1343221679,   1,   33561245) /* Setup */
      , (1343221679,   3,  536871124) /* SoundTable */
      , (1343221679,   6,   67108990) /* PaletteBase */
      , (1343221679,   8,  100667446) /* Icon */
+     , (1343221679,   9,   83898481) /* EyesTexture */
+     , (1343221679,  10,   83898487) /* NoseTexture */
+     , (1343221679,  11,   83898504) /* MouthTexture */
+     , (1343221679,  15,   67117086) /* HairPalette */
+     , (1343221679,  16,   67116953) /* EyesPalette */
+     , (1343221679,  17,   67116931) /* SkinPalette */
      , (1343221679,  22,  872415435) /* PhysicsEffectTable */
      , (1343221679, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343221679, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

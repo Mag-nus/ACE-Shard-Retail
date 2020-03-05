@@ -6,13 +6,13 @@ VALUES (1342859869,   1,         16) /* ItemType - Creature */
      , (1342859869,   6,        102) /* ItemsCapacity */
      , (1342859869,   7,          7) /* ContainersCapacity */
      , (1342859869,  16,          1) /* ItemUseable - No */
-     , (1342859869,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1342859869,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1342859869, 133,          4) /* ShowableOnRadar - ShowAlways */
-     , (1342859869, 8007,          0) /* PCAPRecordedAutonomousMovement */;
+     , (1342859869, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1342859869,   1, True ) /* Stuck */
-     , (1342859869,  11, True ) /* IgnoreCollisions */
+     , (1342859869,  12, True ) /* ReportCollisions */
      , (1342859869,  13, False) /* Ethereal */
      , (1342859869,  14, True ) /* GravityStatus */
      , (1342859869,  19, True ) /* Attackable */
@@ -35,8 +35,8 @@ VALUES (1342859869,   1,   33554510) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1342859869, 1, 459053, 60.33165, -4.942245, 0.004999995, -0.9990427, 0, 0, -0.04374551) /* Location */
 /* @teleloc 0x0007012D [60.331650 -4.942245 0.005000] -0.999043 0.000000 0.000000 -0.043746 */
-     , (1342859869, 8040, 459077, 70, -80, 0.004999995, 1, 0, 0, 0) /* PCAPRecordedLocation */
-/* @teleloc 0x00070145 [70.000000 -80.000000 0.005000] 1.000000 0.000000 0.000000 0.000000 */;
+     , (1342859869, 8040, 459073, 66.30366, -42.39553, 0.004999995, 0.8419732, 0, 0, 0.5395194) /* PCAPRecordedLocation */
+/* @teleloc 0x00070141 [66.303660 -42.395530 0.005000] 0.841973 0.000000 0.000000 0.539519 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342859869,  26, 1343164535) /* Monarch */

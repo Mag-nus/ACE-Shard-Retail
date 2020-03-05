@@ -3,11 +3,28 @@ VALUES (1342779532, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342779532,   1,         16) /* ItemType - Creature */
+     , (1342779532,   2,         31) /* CreatureType - Human */
      , (1342779532,   6,        102) /* ItemsCapacity */
      , (1342779532,   7,          8) /* ContainersCapacity */
      , (1342779532,  16,          1) /* ItemUseable - No */
+     , (1342779532,  25,        275) /* Level */
+     , (1342779532,  30,          9) /* AllegianceRank */
+     , (1342779532,  35,       7248) /* AllegianceFollowers */
      , (1342779532,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342779532, 113,          1) /* Gender - Male */
      , (1342779532, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342779532, 134,         64) /* PlayerKillerStatus - PKLite */
+     , (1342779532, 188,          1) /* HeritageGroup - Aluvian */
+     , (1342779532, 261,        380) /* CharacterTitleId */
+     , (1342779532, 281,          2) /* Faction1Bits */
+     , (1342779532, 288,       1001) /* SocietyRankEldweb */
+     , (1342779532, 307,         10) /* DamageRating */
+     , (1342779532, 308,          6) /* DamageResistRating */
+     , (1342779532, 313,          1) /* CritRating */
+     , (1342779532, 314,         13) /* CritDamageRating */
+     , (1342779532, 316,          2) /* CritDamageResistRating */
+     , (1342779532, 323,          2) /* HealingBoostRating */
+     , (1342779532, 390,          2) /* Enlightenment */
      , (1342779532, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +36,8 @@ VALUES (1342779532,   1, True ) /* Stuck */
      , (1342779532,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342779532,   1, 'Cobra-Con') /* Name */;
+VALUES (1342779532,   1, 'Cobra-Con') /* Name */
+     , (1342779532,  47, 'Cobra''s Crew') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342779532,   1,   33554433) /* Setup */
@@ -27,6 +45,12 @@ VALUES (1342779532,   1,   33554433) /* Setup */
      , (1342779532,   3,  536870913) /* SoundTable */
      , (1342779532,   6,   67108990) /* PaletteBase */
      , (1342779532,   8,  100667446) /* Icon */
+     , (1342779532,   9,   83890481) /* EyesTexture */
+     , (1342779532,  10,   83890557) /* NoseTexture */
+     , (1342779532,  11,   83890658) /* MouthTexture */
+     , (1342779532,  15,   67109603) /* HairPalette */
+     , (1342779532,  16,   67110062) /* EyesPalette */
+     , (1342779532,  17,   67109560) /* SkinPalette */
      , (1342779532,  22,  872415236) /* PhysicsEffectTable */
      , (1342779532, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342779532, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

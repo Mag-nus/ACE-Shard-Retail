@@ -3,11 +3,27 @@ VALUES (1343223532, 1, 10, 6738241) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343223532,   1,         16) /* ItemType - Creature */
+     , (1343223532,   2,         31) /* CreatureType - Human */
      , (1343223532,   6,        102) /* ItemsCapacity */
      , (1343223532,   7,          8) /* ContainersCapacity */
      , (1343223532,  16,          1) /* ItemUseable - No */
+     , (1343223532,  25,        275) /* Level */
+     , (1343223532,  30,          7) /* AllegianceRank */
      , (1343223532,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343223532, 113,          2) /* Gender - Female */
      , (1343223532, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343223532, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343223532, 188,          9) /* HeritageGroup - Empyrean */
+     , (1343223532, 261,          1) /* CharacterTitleId */
+     , (1343223532, 281,          1) /* Faction1Bits */
+     , (1343223532, 287,       1001) /* SocietyRankCelhan */
+     , (1343223532, 307,         11) /* DamageRating */
+     , (1343223532, 308,         24) /* DamageResistRating */
+     , (1343223532, 313,          1) /* CritRating */
+     , (1343223532, 314,         10) /* CritDamageRating */
+     , (1343223532, 316,          7) /* CritDamageResistRating */
+     , (1343223532, 323,          7) /* HealingBoostRating */
+     , (1343223532, 390,          2) /* Enlightenment */
      , (1343223532, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -22,7 +38,11 @@ INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (1343223532,  39, 1.14999997615814) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343223532,   1, 'Silos Savant') /* Name */;
+VALUES (1343223532,   1, 'Silos Savant') /* Name */
+     , (1343223532,  10, 'Silostoybox') /* Fellowship */
+     , (1343223532,  21, 'Malika Legend of Cragstone') /* MonarchsTitle */
+     , (1343223532,  35, 'Mushira Silos Slave II') /* PatronsTitle */
+     , (1343223532,  47, 'The Legends of Cragstone') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343223532,   1,   33561104) /* Setup */
@@ -30,6 +50,12 @@ VALUES (1343223532,   1,   33561104) /* Setup */
      , (1343223532,   3,  536870914) /* SoundTable */
      , (1343223532,   6,   67108990) /* PaletteBase */
      , (1343223532,   8,  100667446) /* Icon */
+     , (1343223532,   9,   83890258) /* EyesTexture */
+     , (1343223532,  10,   83890289) /* NoseTexture */
+     , (1343223532,  11,   83890327) /* MouthTexture */
+     , (1343223532,  15,   67117096) /* HairPalette */
+     , (1343223532,  16,   67116856) /* EyesPalette */
+     , (1343223532,  17,   67116971) /* SkinPalette */
      , (1343223532,  22,  872415236) /* PhysicsEffectTable */
      , (1343223532, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343223532, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

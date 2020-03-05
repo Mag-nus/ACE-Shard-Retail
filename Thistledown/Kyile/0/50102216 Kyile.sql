@@ -3,11 +3,26 @@ VALUES (1343234582, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343234582,   1,         16) /* ItemType - Creature */
+     , (1343234582,   2,         31) /* CreatureType - Human */
      , (1343234582,   6,        102) /* ItemsCapacity */
      , (1343234582,   7,          8) /* ContainersCapacity */
      , (1343234582,  16,          1) /* ItemUseable - No */
+     , (1343234582,  25,        275) /* Level */
+     , (1343234582,  30,          4) /* AllegianceRank */
      , (1343234582,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343234582, 113,          2) /* Gender - Female */
      , (1343234582, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343234582, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343234582, 188,          1) /* HeritageGroup - Aluvian */
+     , (1343234582, 261,        458) /* CharacterTitleId */
+     , (1343234582, 281,          2) /* Faction1Bits */
+     , (1343234582, 288,          1) /* SocietyRankEldweb */
+     , (1343234582, 307,         16) /* DamageRating */
+     , (1343234582, 308,          6) /* DamageResistRating */
+     , (1343234582, 313,          1) /* CritRating */
+     , (1343234582, 314,          7) /* CritDamageRating */
+     , (1343234582, 323,          1) /* HealingBoostRating */
+     , (1343234582, 390,          0) /* Enlightenment */
      , (1343234582, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +34,11 @@ VALUES (1343234582,   1, True ) /* Stuck */
      , (1343234582,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343234582,   1, 'Kyile') /* Name */;
+VALUES (1343234582,   1, 'Kyile') /* Name */
+     , (1343234582,  10, 'Xp') /* Fellowship */
+     , (1343234582,  21, 'Marquise Dystra') /* MonarchsTitle */
+     , (1343234582,  35, 'Naquib Merit') /* PatronsTitle */
+     , (1343234582,  47, 'Rangers of Anla''Shok') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343234582,   1,   33554510) /* Setup */
@@ -27,6 +46,12 @@ VALUES (1343234582,   1,   33554510) /* Setup */
      , (1343234582,   3,  536870914) /* SoundTable */
      , (1343234582,   6,   67108990) /* PaletteBase */
      , (1343234582,   8,  100667446) /* Icon */
+     , (1343234582,   9,   83890255) /* EyesTexture */
+     , (1343234582,  10,   83890300) /* NoseTexture */
+     , (1343234582,  11,   83890356) /* MouthTexture */
+     , (1343234582,  15,   67116996) /* HairPalette */
+     , (1343234582,  16,   67109564) /* EyesPalette */
+     , (1343234582,  17,   67109562) /* SkinPalette */
      , (1343234582,  22,  872415236) /* PhysicsEffectTable */
      , (1343234582, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343234582, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

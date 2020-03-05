@@ -3,11 +3,28 @@ VALUES (1342972300, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342972300,   1,         16) /* ItemType - Creature */
+     , (1342972300,   2,         31) /* CreatureType - Human */
      , (1342972300,   6,        102) /* ItemsCapacity */
      , (1342972300,   7,          8) /* ContainersCapacity */
      , (1342972300,  16,          1) /* ItemUseable - No */
+     , (1342972300,  25,        275) /* Level */
+     , (1342972300,  30,          8) /* AllegianceRank */
+     , (1342972300,  35,       9451) /* AllegianceFollowers */
      , (1342972300,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342972300, 113,          1) /* Gender - Male */
      , (1342972300, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342972300, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342972300, 188,          2) /* HeritageGroup - Gharundim */
+     , (1342972300, 261,        799) /* CharacterTitleId */
+     , (1342972300, 281,          1) /* Faction1Bits */
+     , (1342972300, 287,       1001) /* SocietyRankCelhan */
+     , (1342972300, 307,         18) /* DamageRating */
+     , (1342972300, 308,         15) /* DamageResistRating */
+     , (1342972300, 313,          1) /* CritRating */
+     , (1342972300, 314,         10) /* CritDamageRating */
+     , (1342972300, 316,          5) /* CritDamageResistRating */
+     , (1342972300, 323,          9) /* HealingBoostRating */
+     , (1342972300, 390,          0) /* Enlightenment */
      , (1342972300, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +36,9 @@ VALUES (1342972300,   1, True ) /* Stuck */
      , (1342972300,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342972300,   1, 'Gone''s Mage') /* Name */;
+VALUES (1342972300,   1, 'Gone''s Mage') /* Name */
+     , (1342972300,  43, '08 July 2002') /* DateOfBirth */
+     , (1342972300,  47, 'Clan Takada') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342972300,   1,   33554433) /* Setup */
@@ -27,6 +46,12 @@ VALUES (1342972300,   1,   33554433) /* Setup */
      , (1342972300,   3,  536870913) /* SoundTable */
      , (1342972300,   6,   67108990) /* PaletteBase */
      , (1342972300,   8,  100667446) /* Icon */
+     , (1342972300,   9,   83890464) /* EyesTexture */
+     , (1342972300,  10,   83890559) /* NoseTexture */
+     , (1342972300,  11,   83890576) /* MouthTexture */
+     , (1342972300,  15,   67116990) /* HairPalette */
+     , (1342972300,  16,   67110063) /* EyesPalette */
+     , (1342972300,  17,   67109557) /* SkinPalette */
      , (1342972300,  22,  872415236) /* PhysicsEffectTable */
      , (1342972300, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342972300, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

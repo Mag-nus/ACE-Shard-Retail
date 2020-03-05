@@ -3,11 +3,23 @@ VALUES (1342305223, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342305223,   1,         16) /* ItemType - Creature */
+     , (1342305223,   2,         31) /* CreatureType - Human */
      , (1342305223,   6,        102) /* ItemsCapacity */
      , (1342305223,   7,          7) /* ContainersCapacity */
      , (1342305223,  16,          1) /* ItemUseable - No */
+     , (1342305223,  25,        226) /* Level */
+     , (1342305223,  30,          2) /* AllegianceRank */
+     , (1342305223,  43,        645) /* NumDeaths */
      , (1342305223,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342305223, 113,          1) /* Gender - Male */
+     , (1342305223, 125,   15090610) /* Age */
      , (1342305223, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342305223, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342305223, 188,          3) /* HeritageGroup - Sho */
+     , (1342305223, 261,        443) /* CharacterTitleId */
+     , (1342305223, 281,          1) /* Faction1Bits */
+     , (1342305223, 287,        965) /* SocietyRankCelhan */
+     , (1342305223, 390,          0) /* Enlightenment */
      , (1342305223, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +31,11 @@ VALUES (1342305223,   1, True ) /* Stuck */
      , (1342305223,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342305223,   1, 'Yek Yai Edward') /* Name */;
+VALUES (1342305223,   1, 'Yek Yai Edward') /* Name */
+     , (1342305223,  21, 'Sultana Nythak I') /* MonarchsTitle */
+     , (1342305223,  35, 'Thane Teshi') /* PatronsTitle */
+     , (1342305223,  43, '31 January 2000') /* DateOfBirth */
+     , (1342305223,  47, 'Royal Court') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342305223,   1,   33554433) /* Setup */
@@ -27,16 +43,22 @@ VALUES (1342305223,   1,   33554433) /* Setup */
      , (1342305223,   3,  536870913) /* SoundTable */
      , (1342305223,   6,   67108990) /* PaletteBase */
      , (1342305223,   8,  100667446) /* Icon */
+     , (1342305223,   9,   83890449) /* EyesTexture */
+     , (1342305223,  10,   83890550) /* NoseTexture */
+     , (1342305223,  11,   83890657) /* MouthTexture */
+     , (1342305223,  15,   67109633) /* HairPalette */
+     , (1342305223,  16,   67109565) /* EyesPalette */
+     , (1342305223,  17,   67110049) /* SkinPalette */
      , (1342305223,  22,  872415236) /* PhysicsEffectTable */
      , (1342305223, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342305223, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
-     , (1342305223, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
+     , (1342305223, 8005,     104451) /* PCAPRecordedPhysicsDesc - CSetup, MTable, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1342305223, 1, 23855554, 61.89089, -33.39702, 0.004999995, -0.7220174, 0, 0, -0.6918749) /* Location */
 /* @teleloc 0x016C01C2 [61.890890 -33.397020 0.005000] -0.722017 0.000000 0.000000 -0.691875 */
-     , (1342305223, 8040, 23855555, 62.18909, -36.65179, 0.004999995, -0.7487702, 0, 0, -0.6628298) /* PCAPRecordedLocation */
-/* @teleloc 0x016C01C3 [62.189090 -36.651790 0.005000] -0.748770 0.000000 0.000000 -0.662830 */;
+     , (1342305223, 8040, 23855555, 58.32549, -41.80993, 0.004999995, -0.922658, 0, 0, -0.3856193) /* PCAPRecordedLocation */
+/* @teleloc 0x016C01C3 [58.325490 -41.809930 0.005000] -0.922658 0.000000 0.000000 -0.385619 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342305223,  26, 1343164535) /* Monarch */

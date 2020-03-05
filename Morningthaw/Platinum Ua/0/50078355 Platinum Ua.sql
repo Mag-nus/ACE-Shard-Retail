@@ -3,11 +3,24 @@ VALUES (1342669653, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342669653,   1,         16) /* ItemType - Creature */
+     , (1342669653,   2,         31) /* CreatureType - Human */
      , (1342669653,   6,        102) /* ItemsCapacity */
      , (1342669653,   7,          7) /* ContainersCapacity */
      , (1342669653,  16,          1) /* ItemUseable - No */
+     , (1342669653,  25,         88) /* Level */
+     , (1342669653,  30,          5) /* AllegianceRank */
+     , (1342669653,  43,        286) /* NumDeaths */
      , (1342669653,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342669653, 113,          1) /* Gender - Male */
+     , (1342669653, 125,    6109132) /* Age */
      , (1342669653, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342669653, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342669653, 181,       1498) /* ChessRank */
+     , (1342669653, 188,          3) /* HeritageGroup - Sho */
+     , (1342669653, 192,        700) /* FakeFishingSkill */
+     , (1342669653, 261,        154) /* CharacterTitleId */
+     , (1342669653, 307,          5) /* DamageRating */
+     , (1342669653, 390,          0) /* Enlightenment */
      , (1342669653, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +32,11 @@ VALUES (1342669653,   1, True ) /* Stuck */
      , (1342669653,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342669653,   1, 'Platinum Ua') /* Name */;
+VALUES (1342669653,   1, 'Platinum Ua') /* Name */
+     , (1342669653,  21, 'Taikou Wysteria Witchblade') /* MonarchsTitle */
+     , (1342669653,  35, 'Count Mackk VI') /* PatronsTitle */
+     , (1342669653,  43, '19 April 2001') /* DateOfBirth */
+     , (1342669653,  47, 'Knights of Honor') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342669653,   1,   33554433) /* Setup */
@@ -27,6 +44,12 @@ VALUES (1342669653,   1,   33554433) /* Setup */
      , (1342669653,   3,  536870913) /* SoundTable */
      , (1342669653,   6,   67108990) /* PaletteBase */
      , (1342669653,   8,  100667446) /* Icon */
+     , (1342669653,   9,   83890446) /* EyesTexture */
+     , (1342669653,  10,   83890525) /* NoseTexture */
+     , (1342669653,  11,   83890571) /* MouthTexture */
+     , (1342669653,  15,   67109618) /* HairPalette */
+     , (1342669653,  16,   67110063) /* EyesPalette */
+     , (1342669653,  17,   67110047) /* SkinPalette */
      , (1342669653,  22,  872415236) /* PhysicsEffectTable */
      , (1342669653, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342669653, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

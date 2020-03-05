@@ -3,11 +3,29 @@ VALUES (1343274105, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343274105,   1,         16) /* ItemType - Creature */
+     , (1343274105,   2,         31) /* CreatureType - Human */
      , (1343274105,   6,        102) /* ItemsCapacity */
      , (1343274105,   7,          8) /* ContainersCapacity */
      , (1343274105,  16,          1) /* ItemUseable - No */
+     , (1343274105,  25,        275) /* Level */
+     , (1343274105,  30,          6) /* AllegianceRank */
+     , (1343274105,  43,        407) /* NumDeaths */
      , (1343274105,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343274105, 113,          1) /* Gender - Male */
+     , (1343274105, 125,    7898221) /* Age */
      , (1343274105, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343274105, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343274105, 188,          4) /* HeritageGroup - Viamontian */
+     , (1343274105, 261,        492) /* CharacterTitleId */
+     , (1343274105, 262,        131) /* NumCharacterTitles */
+     , (1343274105, 281,          2) /* Faction1Bits */
+     , (1343274105, 288,       1001) /* SocietyRankEldweb */
+     , (1343274105, 307,         12) /* DamageRating */
+     , (1343274105, 308,         17) /* DamageResistRating */
+     , (1343274105, 313,          1) /* CritRating */
+     , (1343274105, 314,          8) /* CritDamageRating */
+     , (1343274105, 316,          3) /* CritDamageResistRating */
+     , (1343274105, 390,          0) /* Enlightenment */
      , (1343274105, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +37,11 @@ VALUES (1343274105,   1, True ) /* Stuck */
      , (1343274105,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343274105,   1, 'Nun-chi') /* Name */;
+VALUES (1343274105,   1, 'Nun-chi') /* Name */
+     , (1343274105,  10, 'Rrrr') /* Fellowship */
+     , (1343274105,  21, 'Ealdor Adroc') /* MonarchsTitle */
+     , (1343274105,  35, 'Ealdor Adroc') /* PatronsTitle */
+     , (1343274105,  43, '26 April 2009') /* DateOfBirth */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343274105,   1,   33554433) /* Setup */
@@ -27,6 +49,12 @@ VALUES (1343274105,   1,   33554433) /* Setup */
      , (1343274105,   3,  536870913) /* SoundTable */
      , (1343274105,   6,   67108990) /* PaletteBase */
      , (1343274105,   8,  100667446) /* Icon */
+     , (1343274105,   9,   83890506) /* EyesTexture */
+     , (1343274105,  10,   83890551) /* NoseTexture */
+     , (1343274105,  11,   83890637) /* MouthTexture */
+     , (1343274105,  15,   67109625) /* HairPalette */
+     , (1343274105,  16,   67110064) /* EyesPalette */
+     , (1343274105,  17,   67115906) /* SkinPalette */
      , (1343274105,  22,  872415236) /* PhysicsEffectTable */
      , (1343274105, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343274105, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

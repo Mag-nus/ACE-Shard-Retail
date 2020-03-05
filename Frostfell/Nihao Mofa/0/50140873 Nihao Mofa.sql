@@ -3,11 +3,28 @@ VALUES (1343490163, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343490163,   1,         16) /* ItemType - Creature */
+     , (1343490163,   2,         31) /* CreatureType - Human */
      , (1343490163,   6,        102) /* ItemsCapacity */
      , (1343490163,   7,          7) /* ContainersCapacity */
      , (1343490163,  16,          1) /* ItemUseable - No */
+     , (1343490163,  25,        275) /* Level */
+     , (1343490163,  30,          2) /* AllegianceRank */
      , (1343490163,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343490163, 113,          1) /* Gender - Male */
      , (1343490163, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343490163, 134,         64) /* PlayerKillerStatus - PKLite */
+     , (1343490163, 188,          2) /* HeritageGroup - Gharundim */
+     , (1343490163, 261,          1) /* CharacterTitleId */
+     , (1343490163, 281,          4) /* Faction1Bits */
+     , (1343490163, 289,        595) /* SocietyRankRadblo */
+     , (1343490163, 307,         31) /* DamageRating */
+     , (1343490163, 308,         27) /* DamageResistRating */
+     , (1343490163, 314,         21) /* CritDamageRating */
+     , (1343490163, 316,         11) /* CritDamageResistRating */
+     , (1343490163, 323,          4) /* HealingBoostRating */
+     , (1343490163, 381,          5) /* PKDamageRating */
+     , (1343490163, 382,          5) /* PKDamageResistRating */
+     , (1343490163, 390,          0) /* Enlightenment */
      , (1343490163, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +36,10 @@ VALUES (1343490163,   1, True ) /* Stuck */
      , (1343490163,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343490163,   1, 'Nihao Mofa') /* Name */;
+VALUES (1343490163,   1, 'Nihao Mofa') /* Name */
+     , (1343490163,  21, 'King Aerfall') /* MonarchsTitle */
+     , (1343490163,  35, 'Jo-chueh Nihao Er') /* PatronsTitle */
+     , (1343490163,  47, 'Autobotz') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343490163,   1,   33554433) /* Setup */
@@ -27,6 +47,12 @@ VALUES (1343490163,   1,   33554433) /* Setup */
      , (1343490163,   3,  536870913) /* SoundTable */
      , (1343490163,   6,   67108990) /* PaletteBase */
      , (1343490163,   8,  100667446) /* Icon */
+     , (1343490163,   9,   83890516) /* EyesTexture */
+     , (1343490163,  10,   83890539) /* NoseTexture */
+     , (1343490163,  11,   83890630) /* MouthTexture */
+     , (1343490163,  15,   67117017) /* HairPalette */
+     , (1343490163,  16,   67110062) /* EyesPalette */
+     , (1343490163,  17,   67109555) /* SkinPalette */
      , (1343490163,  22,  872415236) /* PhysicsEffectTable */
      , (1343490163, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343490163, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

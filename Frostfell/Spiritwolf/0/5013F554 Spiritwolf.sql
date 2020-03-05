@@ -16,7 +16,7 @@ VALUES (1343485268,   1,         16) /* ItemType - Creature */
      , (1343485268, 261,         12) /* CharacterTitleId */
      , (1343485268, 307,          5) /* DamageRating */
      , (1343485268, 390,          0) /* Enlightenment */
-     , (1343485268, 8007,          0) /* PCAPRecordedAutonomousMovement */;
+     , (1343485268, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1343485268,   1, True ) /* Stuck */

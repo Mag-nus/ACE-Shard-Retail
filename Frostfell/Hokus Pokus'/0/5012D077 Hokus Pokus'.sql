@@ -3,11 +3,24 @@ VALUES (1343410295, 1, 10, 6738241) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343410295,   1,         16) /* ItemType - Creature */
+     , (1343410295,   2,         31) /* CreatureType - Human */
      , (1343410295,   6,        102) /* ItemsCapacity */
      , (1343410295,   7,          7) /* ContainersCapacity */
      , (1343410295,  16,          1) /* ItemUseable - No */
+     , (1343410295,  25,        275) /* Level */
      , (1343410295,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343410295, 113,          1) /* Gender - Male */
      , (1343410295, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343410295, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343410295, 188,          9) /* HeritageGroup - Empyrean */
+     , (1343410295, 261,          1) /* CharacterTitleId */
+     , (1343410295, 307,         13) /* DamageRating */
+     , (1343410295, 308,         12) /* DamageResistRating */
+     , (1343410295, 313,          1) /* CritRating */
+     , (1343410295, 314,          4) /* CritDamageRating */
+     , (1343410295, 323,         12) /* HealingBoostRating */
+     , (1343410295, 350,         36) /* DotResistRating */
+     , (1343410295, 390,          0) /* Enlightenment */
      , (1343410295, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -30,6 +43,12 @@ VALUES (1343410295,   1,   33561110) /* Setup */
      , (1343410295,   3,  536870913) /* SoundTable */
      , (1343410295,   6,   67108990) /* PaletteBase */
      , (1343410295,   8,  100667446) /* Icon */
+     , (1343410295,   9,   83890508) /* EyesTexture */
+     , (1343410295,  10,   83890551) /* NoseTexture */
+     , (1343410295,  11,   83890570) /* MouthTexture */
+     , (1343410295,  15,   67117016) /* HairPalette */
+     , (1343410295,  16,   67116858) /* EyesPalette */
+     , (1343410295,  17,   67115901) /* SkinPalette */
      , (1343410295,  22,  872415236) /* PhysicsEffectTable */
      , (1343410295, 8001,    8388630) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, RadarBehavior */
      , (1343410295, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

@@ -7,14 +7,13 @@ VALUES (1342616819,   1,         16) /* ItemType - Creature */
      , (1342616819,   6,        102) /* ItemsCapacity */
      , (1342616819,   7,          8) /* ContainersCapacity */
      , (1342616819,  16,          1) /* ItemUseable - No */
-     , (1342616819,  25,        275) /* Level */
      , (1342616819,  30,          7) /* AllegianceRank */
      , (1342616819,  43,       3256) /* NumDeaths */
      , (1342616819,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
      , (1342616819, 113,          1) /* Gender - Male */
-     , (1342616819, 125,   23993071) /* Age */
+     , (1342616819, 125,   24001147) /* Age */
      , (1342616819, 133,          4) /* ShowableOnRadar - ShowAlways */
-     , (1342616819, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342616819, 134,          4) /* PlayerKillerStatus - PK */
      , (1342616819, 188,          2) /* HeritageGroup - Gharundim */
      , (1342616819, 261,        715) /* CharacterTitleId */
      , (1342616819, 262,        102) /* NumCharacterTitles */

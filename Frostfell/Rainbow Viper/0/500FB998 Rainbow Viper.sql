@@ -9,7 +9,7 @@ VALUES (1343207832,   1,         16) /* ItemType - Creature */
      , (1343207832,  16,          1) /* ItemUseable - No */
      , (1343207832,  25,         17) /* Level */
      , (1343207832,  30,          1) /* AllegianceRank */
-     , (1343207832,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343207832,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
      , (1343207832, 113,          2) /* Gender - Female */
      , (1343207832, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343207832, 134,          2) /* PlayerKillerStatus - NPK */
@@ -17,11 +17,11 @@ VALUES (1343207832,   1,         16) /* ItemType - Creature */
      , (1343207832, 261,          1) /* CharacterTitleId */
      , (1343207832, 307,          5) /* DamageRating */
      , (1343207832, 390,          0) /* Enlightenment */
-     , (1343207832, 8007,          1) /* PCAPRecordedAutonomousMovement */;
+     , (1343207832, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1343207832,   1, True ) /* Stuck */
-     , (1343207832,  12, True ) /* ReportCollisions */
+     , (1343207832,  11, True ) /* IgnoreCollisions */
      , (1343207832,  13, False) /* Ethereal */
      , (1343207832,  14, True ) /* GravityStatus */
      , (1343207832,  19, True ) /* Attackable */

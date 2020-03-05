@@ -29,7 +29,7 @@ VALUES (1344175351,   1, True ) /* Stuck */
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1344175351,   1, 'Omnismash') /* Name */
-     , (1344175351,  10, 'X') /* Fellowship */
+     , (1344175351,  10, 'Asfd') /* Fellowship */
      , (1344175351,  21, 'Nan-chueh Shojin-ri') /* MonarchsTitle */
      , (1344175351,  35, 'Jo-chueh Olthoi Pest Patrol') /* PatronsTitle */;
 

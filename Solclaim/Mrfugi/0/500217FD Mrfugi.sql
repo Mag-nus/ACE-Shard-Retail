@@ -3,11 +3,26 @@ VALUES (1342314493, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342314493,   1,         16) /* ItemType - Creature */
+     , (1342314493,   2,         31) /* CreatureType - Human */
      , (1342314493,   6,        102) /* ItemsCapacity */
      , (1342314493,   7,          7) /* ContainersCapacity */
      , (1342314493,  16,          1) /* ItemUseable - No */
+     , (1342314493,  25,        242) /* Level */
+     , (1342314493,  30,          4) /* AllegianceRank */
+     , (1342314493,  43,       1083) /* NumDeaths */
      , (1342314493,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342314493, 113,          1) /* Gender - Male */
+     , (1342314493, 125,   12324798) /* Age */
      , (1342314493, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342314493, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342314493, 188,          3) /* HeritageGroup - Sho */
+     , (1342314493, 192,        313) /* FakeFishingSkill */
+     , (1342314493, 261,        559) /* CharacterTitleId */
+     , (1342314493, 307,          8) /* DamageRating */
+     , (1342314493, 308,          3) /* DamageResistRating */
+     , (1342314493, 314,          3) /* CritDamageRating */
+     , (1342314493, 316,          4) /* CritDamageResistRating */
+     , (1342314493, 390,          0) /* Enlightenment */
      , (1342314493, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +34,10 @@ VALUES (1342314493,   1, True ) /* Stuck */
      , (1342314493,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342314493,   1, 'Mrfugi') /* Name */;
+VALUES (1342314493,   1, 'Mrfugi') /* Name */
+     , (1342314493,  21, 'Ealdor Squire John') /* MonarchsTitle */
+     , (1342314493,  35, 'Ealdor S J') /* PatronsTitle */
+     , (1342314493,  43, '26 July 2000') /* DateOfBirth */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342314493,   1,   33554433) /* Setup */
@@ -27,6 +45,12 @@ VALUES (1342314493,   1,   33554433) /* Setup */
      , (1342314493,   3,  536870913) /* SoundTable */
      , (1342314493,   6,   67108990) /* PaletteBase */
      , (1342314493,   8,  100667446) /* Icon */
+     , (1342314493,   9,   83890446) /* EyesTexture */
+     , (1342314493,  10,   83890522) /* NoseTexture */
+     , (1342314493,  11,   83890594) /* MouthTexture */
+     , (1342314493,  15,   67109625) /* HairPalette */
+     , (1342314493,  16,   67109565) /* EyesPalette */
+     , (1342314493,  17,   67110053) /* SkinPalette */
      , (1342314493,  22,  872415236) /* PhysicsEffectTable */
      , (1342314493, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342314493, 8003,   33554460) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable, PkLiteStatus */

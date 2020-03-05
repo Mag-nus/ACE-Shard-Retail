@@ -3,11 +3,27 @@ VALUES (1343276185, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343276185,   1,         16) /* ItemType - Creature */
+     , (1343276185,   2,         31) /* CreatureType - Human */
      , (1343276185,   6,        102) /* ItemsCapacity */
      , (1343276185,   7,          8) /* ContainersCapacity */
      , (1343276185,  16,          1) /* ItemUseable - No */
+     , (1343276185,  25,        275) /* Level */
+     , (1343276185,  30,          1) /* AllegianceRank */
      , (1343276185,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343276185, 113,          1) /* Gender - Male */
      , (1343276185, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343276185, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343276185, 188,          1) /* HeritageGroup - Aluvian */
+     , (1343276185, 261,        886) /* CharacterTitleId */
+     , (1343276185, 281,          2) /* Faction1Bits */
+     , (1343276185, 288,       1001) /* SocietyRankEldweb */
+     , (1343276185, 307,         22) /* DamageRating */
+     , (1343276185, 308,         42) /* DamageResistRating */
+     , (1343276185, 313,          1) /* CritRating */
+     , (1343276185, 314,         10) /* CritDamageRating */
+     , (1343276185, 316,         20) /* CritDamageResistRating */
+     , (1343276185, 323,          7) /* HealingBoostRating */
+     , (1343276185, 390,          0) /* Enlightenment */
      , (1343276185, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +35,10 @@ VALUES (1343276185,   1, True ) /* Stuck */
      , (1343276185,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343276185,   1, 'Pietro Maximoff') /* Name */;
+VALUES (1343276185,   1, 'Pietro Maximoff') /* Name */
+     , (1343276185,  21, 'Kou Hogun the grim') /* MonarchsTitle */
+     , (1343276185,  35, 'Duchess Klien Rox') /* PatronsTitle */
+     , (1343276185,  47, 'Immortals') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343276185,   1,   33554433) /* Setup */
@@ -27,6 +46,12 @@ VALUES (1343276185,   1,   33554433) /* Setup */
      , (1343276185,   3,  536870913) /* SoundTable */
      , (1343276185,   6,   67108990) /* PaletteBase */
      , (1343276185,   8,  100667446) /* Icon */
+     , (1343276185,   9,   83890509) /* EyesTexture */
+     , (1343276185,  10,   83890561) /* NoseTexture */
+     , (1343276185,  11,   83890649) /* MouthTexture */
+     , (1343276185,  15,   67117028) /* HairPalette */
+     , (1343276185,  16,   67110062) /* EyesPalette */
+     , (1343276185,  17,   67109559) /* SkinPalette */
      , (1343276185,  22,  872415236) /* PhysicsEffectTable */
      , (1343276185, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343276185, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

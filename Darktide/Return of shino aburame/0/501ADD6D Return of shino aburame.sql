@@ -15,7 +15,7 @@ VALUES (1343937901,   1,         16) /* ItemType - Creature */
      , (1343937901, 188,         12) /* HeritageGroup - Olthoi */
      , (1343937901, 261,        711) /* CharacterTitleId */
      , (1343937901, 390,          0) /* Enlightenment */
-     , (1343937901, 8007,          0) /* PCAPRecordedAutonomousMovement */;
+     , (1343937901, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1343937901,   1, True ) /* Stuck */
@@ -51,8 +51,8 @@ VALUES (1343937901,   1,   33561121) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343937901, 1, 3872587790, 37.8814, 136.1783, 218, -0.8660254, 0, 0, -0.5000001) /* Location */
 /* @teleloc 0xE6D3000E [37.881400 136.178300 218.000000] -0.866025 0.000000 0.000000 -0.500000 */
-     , (1343937901, 8040, 2847080480, 86.28085, 189.2778, 94.22685, 0.7001005, 0, 0, 0.7140443) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B30020 [86.280850 189.277800 94.226850] 0.700101 0.000000 0.000000 0.714044 */;
+     , (1343937901, 8040, 3316056119, 155.0259, 167.9212, 42.00657, 0.8725501, 0, 0, -0.4885247) /* PCAPRecordedLocation */
+/* @teleloc 0xC5A70037 [155.025900 167.921200 42.006570] 0.872550 0.000000 0.000000 -0.488525 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343937901, 8000, 1343937901) /* PCAPRecordedObjectIID */;

@@ -3,12 +3,25 @@ VALUES (1343474582, 1, 10, 6738241) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343474582,   1,         16) /* ItemType - Creature */
+     , (1343474582,   2,         31) /* CreatureType - Human */
      , (1343474582,   6,        102) /* ItemsCapacity */
      , (1343474582,   7,          7) /* ContainersCapacity */
      , (1343474582,  16,          1) /* ItemUseable - No */
+     , (1343474582,  25,        235) /* Level */
+     , (1343474582,  30,          2) /* AllegianceRank */
      , (1343474582,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343474582, 113,          2) /* Gender - Female */
      , (1343474582, 133,          4) /* ShowableOnRadar - ShowAlways */
-     , (1343474582, 8007,          1) /* PCAPRecordedAutonomousMovement */;
+     , (1343474582, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343474582, 188,          9) /* HeritageGroup - Empyrean */
+     , (1343474582, 261,          1) /* CharacterTitleId */
+     , (1343474582, 281,          1) /* Faction1Bits */
+     , (1343474582, 287,          1) /* SocietyRankCelhan */
+     , (1343474582, 307,          5) /* DamageRating */
+     , (1343474582, 314,          1) /* CritDamageRating */
+     , (1343474582, 351,         16) /* LifeResistRating */
+     , (1343474582, 390,          0) /* Enlightenment */
+     , (1343474582, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1343474582,   1, True ) /* Stuck */
@@ -22,7 +35,11 @@ INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (1343474582,  39, 1.14999997615814) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343474582,   1, 'Snake''s Void Witch') /* Name */;
+VALUES (1343474582,   1, 'Snake''s Void Witch') /* Name */
+     , (1343474582,  10, 'End of the World') /* Fellowship */
+     , (1343474582,  21, 'Duke Grog''') /* MonarchsTitle */
+     , (1343474582,  35, 'Nan-chueh Power of the Adilek') /* PatronsTitle */
+     , (1343474582,  47, 'Lords of Grogtown') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343474582,   1,   33561104) /* Setup */
@@ -30,6 +47,12 @@ VALUES (1343474582,   1,   33561104) /* Setup */
      , (1343474582,   3,  536870914) /* SoundTable */
      , (1343474582,   6,   67108990) /* PaletteBase */
      , (1343474582,   8,  100667446) /* Icon */
+     , (1343474582,   9,   83890259) /* EyesTexture */
+     , (1343474582,  10,   83890310) /* NoseTexture */
+     , (1343474582,  11,   83890356) /* MouthTexture */
+     , (1343474582,  15,   67117105) /* HairPalette */
+     , (1343474582,  16,   67116855) /* EyesPalette */
+     , (1343474582,  17,   67116958) /* SkinPalette */
      , (1343474582,  22,  872415236) /* PhysicsEffectTable */
      , (1343474582, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343474582, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
@@ -38,8 +61,8 @@ VALUES (1343474582,   1,   33561104) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343474582, 1, 3332964380, 85.15674, 73.70359, 42.00575, -0.9018162, 0, 0, -0.4321198) /* Location */
 /* @teleloc 0xC6A9001C [85.156740 73.703590 42.005750] -0.901816 0.000000 0.000000 -0.432120 */
-     , (1343474582, 8040, 459077, 70, -80, 0.005749941, 1, 0, 0, 0) /* PCAPRecordedLocation */
-/* @teleloc 0x00070145 [70.000000 -80.000000 0.005750] 1.000000 0.000000 0.000000 0.000000 */;
+     , (1343474582, 8040, 3332964380, 80.4637, 83.85192, 42.00575, -0.9999852, 0, 0, 0.005434721) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A9001C [80.463700 83.851920 42.005750] -0.999985 0.000000 0.000000 0.005435 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343474582,  26, 1342926850) /* Monarch */

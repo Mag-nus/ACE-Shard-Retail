@@ -7,7 +7,7 @@ VALUES (1343143634,   1,         16) /* ItemType - Creature */
      , (1343143634,   6,        102) /* ItemsCapacity */
      , (1343143634,   7,          7) /* ContainersCapacity */
      , (1343143634,  16,          1) /* ItemUseable - No */
-     , (1343143634,  25,         71) /* Level */
+     , (1343143634,  25,         73) /* Level */
      , (1343143634,  30,          2) /* AllegianceRank */
      , (1343143634,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
      , (1343143634, 113,          1) /* Gender - Male */
@@ -29,7 +29,6 @@ VALUES (1343143634,   1, True ) /* Stuck */
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343143634,   1, 'Plorfnizzle') /* Name */
-     , (1343143634,  10, 'Lexaurina is Slow') /* Fellowship */
      , (1343143634,  21, 'Kou Semiramis') /* MonarchsTitle */
      , (1343143634,  35, 'Baronet Lexaurina') /* PatronsTitle */
      , (1343143634,  47, 'The Assembly') /* AllegianceName */;

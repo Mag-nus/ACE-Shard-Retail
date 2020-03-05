@@ -3,23 +3,34 @@ VALUES (1343357400, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343357400,   1,         16) /* ItemType - Creature */
+     , (1343357400,   2,         31) /* CreatureType - Human */
      , (1343357400,   6,        102) /* ItemsCapacity */
      , (1343357400,   7,          7) /* ContainersCapacity */
      , (1343357400,  16,          1) /* ItemUseable - No */
-     , (1343357400,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343357400,  25,         32) /* Level */
+     , (1343357400,  30,          1) /* AllegianceRank */
+     , (1343357400,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343357400, 113,          1) /* Gender - Male */
      , (1343357400, 133,          4) /* ShowableOnRadar - ShowAlways */
-     , (1343357400, 8007,          1) /* PCAPRecordedAutonomousMovement */;
+     , (1343357400, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343357400, 188,          2) /* HeritageGroup - Gharundim */
+     , (1343357400, 261,        765) /* CharacterTitleId */
+     , (1343357400, 390,          0) /* Enlightenment */
+     , (1343357400, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1343357400,   1, True ) /* Stuck */
-     , (1343357400,  12, True ) /* ReportCollisions */
+     , (1343357400,  11, True ) /* IgnoreCollisions */
      , (1343357400,  13, False) /* Ethereal */
      , (1343357400,  14, True ) /* GravityStatus */
      , (1343357400,  19, True ) /* Attackable */
      , (1343357400,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343357400,   1, 'Loomster') /* Name */;
+VALUES (1343357400,   1, 'Loomster') /* Name */
+     , (1343357400,  21, 'Warlord The impossible girl') /* MonarchsTitle */
+     , (1343357400,  35, 'Shi-chueh Tsabo Tavoc II') /* PatronsTitle */
+     , (1343357400,  47, 'New Knights Reborn') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343357400,   1,   33554433) /* Setup */
@@ -27,6 +38,12 @@ VALUES (1343357400,   1,   33554433) /* Setup */
      , (1343357400,   3,  536870913) /* SoundTable */
      , (1343357400,   6,   67108990) /* PaletteBase */
      , (1343357400,   8,  100667446) /* Icon */
+     , (1343357400,   9,   83890505) /* EyesTexture */
+     , (1343357400,  10,   83890530) /* NoseTexture */
+     , (1343357400,  11,   83890623) /* MouthTexture */
+     , (1343357400,  15,   67117069) /* HairPalette */
+     , (1343357400,  16,   67110063) /* EyesPalette */
+     , (1343357400,  17,   67109557) /* SkinPalette */
      , (1343357400,  22,  872415236) /* PhysicsEffectTable */
      , (1343357400, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343357400, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
@@ -35,8 +52,8 @@ VALUES (1343357400,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343357400, 1, 459074, 69.96617, -54.64876, 0.004999995, 0.9999683, 0, 0, -0.007957896) /* Location */
 /* @teleloc 0x00070142 [69.966170 -54.648760 0.005000] 0.999968 0.000000 0.000000 -0.007958 */
-     , (1343357400, 8040, 23855555, 64.52005, -40.09754, 0.5175021, -0.7627653, 0, 0, -0.6466753) /* PCAPRecordedLocation */
-/* @teleloc 0x016C01C3 [64.520050 -40.097540 0.517502] -0.762765 0.000000 0.000000 -0.646675 */;
+     , (1343357400, 8040, 459075, 70, -60, 0.004999995, -4.371139E-08, 0, 0, -1) /* PCAPRecordedLocation */
+/* @teleloc 0x00070143 [70.000000 -60.000000 0.005000] 0.000000 0.000000 0.000000 -1.000000 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343357400,  26, 1343273604) /* Monarch */

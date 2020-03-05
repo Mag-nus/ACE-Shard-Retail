@@ -3,11 +3,18 @@ VALUES (1343584357, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343584357,   1,         16) /* ItemType - Creature */
+     , (1343584357,   2,         31) /* CreatureType - Human */
      , (1343584357,   6,        102) /* ItemsCapacity */
      , (1343584357,   7,          7) /* ContainersCapacity */
      , (1343584357,  16,          1) /* ItemUseable - No */
+     , (1343584357,  30,          1) /* AllegianceRank */
      , (1343584357,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343584357, 113,          1) /* Gender - Male */
      , (1343584357, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343584357, 134,          4) /* PlayerKillerStatus - PK */
+     , (1343584357, 188,          3) /* HeritageGroup - Sho */
+     , (1343584357, 261,          1) /* CharacterTitleId */
+     , (1343584357, 390,          0) /* Enlightenment */
      , (1343584357, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +26,9 @@ VALUES (1343584357,   1, True ) /* Stuck */
      , (1343584357,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343584357,   1, 'Tzao Mazzakki') /* Name */;
+VALUES (1343584357,   1, 'Tzao Mazzakki') /* Name */
+     , (1343584357,  21, 'Jinin Mule Massakki') /* MonarchsTitle */
+     , (1343584357,  35, 'Jinin Tinker Massakki') /* PatronsTitle */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343584357,   1,   33554433) /* Setup */
@@ -27,16 +36,22 @@ VALUES (1343584357,   1,   33554433) /* Setup */
      , (1343584357,   3,  536870913) /* SoundTable */
      , (1343584357,   6,   67108990) /* PaletteBase */
      , (1343584357,   8,  100667446) /* Icon */
+     , (1343584357,   9,   83890449) /* EyesTexture */
+     , (1343584357,  10,   83890554) /* NoseTexture */
+     , (1343584357,  11,   83890624) /* MouthTexture */
+     , (1343584357,  15,   67109621) /* HairPalette */
+     , (1343584357,  16,   67110062) /* EyesPalette */
+     , (1343584357,  17,   67110050) /* SkinPalette */
      , (1343584357,  22,  872415236) /* PhysicsEffectTable */
      , (1343584357, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
-     , (1343584357, 8003,         60) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable, PlayerKiller */
+     , (1343584357, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
      , (1343584357, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343584357, 1, 3663003669, 58.2871, 96.054, 20.005, -0.9996626, 0, 0, -0.02597268) /* Location */
 /* @teleloc 0xDA550015 [58.287100 96.054000 20.005000] -0.999663 0.000000 0.000000 -0.025973 */
-     , (1343584357, 8040, 3663003677, 82.15807, 99.51482, 20.005, 0.8435105, 0, 0, -0.5371127) /* PCAPRecordedLocation */
-/* @teleloc 0xDA55001D [82.158070 99.514820 20.005000] 0.843511 0.000000 0.000000 -0.537113 */;
+     , (1343584357, 8040, 3663003676, 85.8675, 94.46881, 20.005, 0.985078, 0, 0, -0.1721087) /* PCAPRecordedLocation */
+/* @teleloc 0xDA55001C [85.867500 94.468810 20.005000] 0.985078 0.000000 0.000000 -0.172109 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343584357,  26, 1343579007) /* Monarch */

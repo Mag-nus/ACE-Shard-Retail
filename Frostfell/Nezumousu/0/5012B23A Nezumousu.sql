@@ -11,16 +11,11 @@ VALUES (1343402554,   1,         16) /* ItemType - Creature */
      , (1343402554,  30,          2) /* AllegianceRank */
      , (1343402554,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
      , (1343402554, 113,          1) /* Gender - Male */
-     , (1343402554, 125,    1961573) /* Age */
+     , (1343402554, 125,    1961578) /* Age */
      , (1343402554, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343402554, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343402554, 188,          1) /* HeritageGroup - Aluvian */
      , (1343402554, 261,          1) /* CharacterTitleId */
-     , (1343402554, 281,          2) /* Faction1Bits */
-     , (1343402554, 288,          1) /* SocietyRankEldweb */
-     , (1343402554, 307,         13) /* DamageRating */
-     , (1343402554, 314,          7) /* CritDamageRating */
-     , (1343402554, 316,          1) /* CritDamageResistRating */
      , (1343402554, 390,          0) /* Enlightenment */
      , (1343402554, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 

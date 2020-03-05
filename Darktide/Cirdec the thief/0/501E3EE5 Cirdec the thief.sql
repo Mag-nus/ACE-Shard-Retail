@@ -12,10 +12,9 @@ VALUES (1344159461,   1,         16) /* ItemType - Creature */
      , (1344159461,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1344159461, 113,          2) /* Gender - Female */
      , (1344159461, 133,          4) /* ShowableOnRadar - ShowAlways */
-     , (1344159461, 134,          4) /* PlayerKillerStatus - PK */
+     , (1344159461, 134,          2) /* PlayerKillerStatus - NPK */
      , (1344159461, 188,          3) /* HeritageGroup - Sho */
      , (1344159461, 261,          9) /* CharacterTitleId */
-     , (1344159461, 307,          5) /* DamageRating */
      , (1344159461, 390,          0) /* Enlightenment */
      , (1344159461, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 

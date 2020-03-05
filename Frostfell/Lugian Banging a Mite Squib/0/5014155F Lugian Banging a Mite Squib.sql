@@ -14,7 +14,6 @@ VALUES (1343493471,   1,         16) /* ItemType - Creature */
      , (1343493471, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343493471, 188,          8) /* HeritageGroup - Lugian */
      , (1343493471, 261,          1) /* CharacterTitleId */
-     , (1343493471, 307,          5) /* DamageRating */
      , (1343493471, 390,          0) /* Enlightenment */
      , (1343493471, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 

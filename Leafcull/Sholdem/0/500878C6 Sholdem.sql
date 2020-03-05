@@ -3,23 +3,37 @@ VALUES (1342732486, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342732486,   1,         16) /* ItemType - Creature */
+     , (1342732486,   2,         31) /* CreatureType - Human */
      , (1342732486,   6,        102) /* ItemsCapacity */
      , (1342732486,   7,          8) /* ContainersCapacity */
      , (1342732486,  16,          1) /* ItemUseable - No */
-     , (1342732486,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342732486,  25,        275) /* Level */
+     , (1342732486,  30,          4) /* AllegianceRank */
+     , (1342732486,  43,       2348) /* NumDeaths */
+     , (1342732486,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1342732486, 113,          1) /* Gender - Male */
+     , (1342732486, 125,   17282586) /* Age */
      , (1342732486, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342732486, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342732486, 188,          3) /* HeritageGroup - Sho */
+     , (1342732486, 261,        660) /* CharacterTitleId */
+     , (1342732486, 390,          0) /* Enlightenment */
      , (1342732486, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1342732486,   1, True ) /* Stuck */
-     , (1342732486,  12, True ) /* ReportCollisions */
+     , (1342732486,  11, True ) /* IgnoreCollisions */
      , (1342732486,  13, False) /* Ethereal */
      , (1342732486,  14, True ) /* GravityStatus */
      , (1342732486,  19, True ) /* Attackable */
      , (1342732486,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342732486,   1, 'Sholdem') /* Name */;
+VALUES (1342732486,   1, 'Sholdem') /* Name */
+     , (1342732486,  21, 'Duke Firebird II') /* MonarchsTitle */
+     , (1342732486,  35, 'Duke Firebird II') /* PatronsTitle */
+     , (1342732486,  43, '26 July 2001') /* DateOfBirth */
+     , (1342732486,  47, 'The Phoenix Guards') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342732486,   1,   33554433) /* Setup */
@@ -27,6 +41,12 @@ VALUES (1342732486,   1,   33554433) /* Setup */
      , (1342732486,   3,  536870913) /* SoundTable */
      , (1342732486,   6,   67108990) /* PaletteBase */
      , (1342732486,   8,  100667446) /* Icon */
+     , (1342732486,   9,   83890448) /* EyesTexture */
+     , (1342732486,  10,   83890522) /* NoseTexture */
+     , (1342732486,  11,   83890583) /* MouthTexture */
+     , (1342732486,  15,   67109625) /* HairPalette */
+     , (1342732486,  16,   67109565) /* EyesPalette */
+     , (1342732486,  17,   67110059) /* SkinPalette */
      , (1342732486,  22,  872415236) /* PhysicsEffectTable */
      , (1342732486, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342732486, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
@@ -35,8 +55,8 @@ VALUES (1342732486,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1342732486, 1, 3212836916, 155.9768, 83.76209, 44.22706, 0.2943674, 0, 0, -0.9556924) /* Location */
 /* @teleloc 0xBF800034 [155.976800 83.762090 44.227060] 0.294367 0.000000 0.000000 -0.955692 */
-     , (1342732486, 8040, 3332964371, 70.45327, 68.4933, 42.005, 0.8548632, 0, 0, -0.5188535) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A90013 [70.453270 68.493300 42.005000] 0.854863 0.000000 0.000000 -0.518854 */;
+     , (1342732486, 8040, 3229614087, 11.723, 155.56, 33.02808, -0.402363, 0, 0, -0.9154802) /* PCAPRecordedLocation */
+/* @teleloc 0xC0800007 [11.723000 155.560000 33.028080] -0.402363 0.000000 0.000000 -0.915480 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342732486,  26, 1342731521) /* Monarch */

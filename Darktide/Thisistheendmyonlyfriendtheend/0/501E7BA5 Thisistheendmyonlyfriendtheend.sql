@@ -11,7 +11,7 @@ VALUES (1344175013,   1,         16) /* ItemType - Creature */
      , (1344175013,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1344175013, 113,          1) /* Gender - Male */
      , (1344175013, 133,          4) /* ShowableOnRadar - ShowAlways */
-     , (1344175013, 134,          4) /* PlayerKillerStatus - PK */
+     , (1344175013, 134,          2) /* PlayerKillerStatus - NPK */
      , (1344175013, 188,         10) /* HeritageGroup - Penumbraen */
      , (1344175013, 261,         11) /* CharacterTitleId */
      , (1344175013, 307,          5) /* DamageRating */

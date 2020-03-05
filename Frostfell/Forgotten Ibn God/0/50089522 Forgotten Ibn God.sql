@@ -12,7 +12,7 @@ VALUES (1342739746,   1,         16) /* ItemType - Creature */
      , (1342739746,  43,        594) /* NumDeaths */
      , (1342739746,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1342739746, 113,          1) /* Gender - Male */
-     , (1342739746, 125,   12736440) /* Age */
+     , (1342739746, 125,   12741498) /* Age */
      , (1342739746, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342739746, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342739746, 181,       1500) /* ChessRank */
@@ -20,7 +20,6 @@ VALUES (1342739746,   1,         16) /* ItemType - Creature */
      , (1342739746, 192,         32) /* FakeFishingSkill */
      , (1342739746, 261,        110) /* CharacterTitleId */
      , (1342739746, 262,          2) /* NumCharacterTitles */
-     , (1342739746, 307,          5) /* DamageRating */
      , (1342739746, 390,          0) /* Enlightenment */
      , (1342739746, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 

@@ -12,7 +12,7 @@ VALUES (1343184154,   1,         16) /* ItemType - Creature */
      , (1343184154,  43,        145) /* NumDeaths */
      , (1343184154,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1343184154, 113,          1) /* Gender - Male */
-     , (1343184154, 125,  144706829) /* Age */
+     , (1343184154, 125,  144725502) /* Age */
      , (1343184154, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343184154, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343184154, 188,          2) /* HeritageGroup - Gharundim */

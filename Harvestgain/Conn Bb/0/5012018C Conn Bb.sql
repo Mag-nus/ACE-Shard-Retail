@@ -7,7 +7,7 @@ VALUES (1343357324,   1,         16) /* ItemType - Creature */
      , (1343357324,   6,        102) /* ItemsCapacity */
      , (1343357324,   7,          7) /* ContainersCapacity */
      , (1343357324,  16,          1) /* ItemUseable - No */
-     , (1343357324,  25,         65) /* Level */
+     , (1343357324,  25,        158) /* Level */
      , (1343357324,  30,          1) /* AllegianceRank */
      , (1343357324,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
      , (1343357324, 113,          1) /* Gender - Male */
@@ -29,8 +29,9 @@ VALUES (1343357324,   1, True ) /* Stuck */
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343357324,   1, 'Conn Bb') /* Name */
-     , (1343357324,  21, 'Sayyid Demon''s Mage') /* MonarchsTitle */
-     , (1343357324,  35, 'Sayyid Demon''s Mage') /* PatronsTitle */;
+     , (1343357324,  21, 'King Paul Mua''dib') /* MonarchsTitle */
+     , (1343357324,  35, 'Shayk Demon''s Mage') /* PatronsTitle */
+     , (1343357324,  47, 'Archangels of Armageddon') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343357324,   1,   33554433) /* Setup */

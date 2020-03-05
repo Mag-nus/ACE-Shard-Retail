@@ -3,11 +3,24 @@ VALUES (1342334068, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342334068,   1,         16) /* ItemType - Creature */
+     , (1342334068,   2,         31) /* CreatureType - Human */
      , (1342334068,   6,        102) /* ItemsCapacity */
      , (1342334068,   7,          7) /* ContainersCapacity */
      , (1342334068,  16,          1) /* ItemUseable - No */
+     , (1342334068,  25,        247) /* Level */
+     , (1342334068,  30,          4) /* AllegianceRank */
+     , (1342334068,  43,        488) /* NumDeaths */
      , (1342334068,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342334068, 113,          1) /* Gender - Male */
+     , (1342334068, 125,    5657522) /* Age */
      , (1342334068, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342334068, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342334068, 188,          2) /* HeritageGroup - Gharundim */
+     , (1342334068, 261,         18) /* CharacterTitleId */
+     , (1342334068, 262,         11) /* NumCharacterTitles */
+     , (1342334068, 307,         16) /* DamageRating */
+     , (1342334068, 323,          3) /* HealingBoostRating */
+     , (1342334068, 390,          0) /* Enlightenment */
      , (1342334068, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +32,11 @@ VALUES (1342334068,   1, True ) /* Stuck */
      , (1342334068,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342334068,   1, 'Solar Bear') /* Name */;
+VALUES (1342334068,   1, 'Solar Bear') /* Name */
+     , (1342334068,  21, 'Amir Gone''s Mage') /* MonarchsTitle */
+     , (1342334068,  35, 'Reeve Worker Bear') /* PatronsTitle */
+     , (1342334068,  43, '23 February 2000') /* DateOfBirth */
+     , (1342334068,  47, 'Clan Takada') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342334068,   1,   33554433) /* Setup */
@@ -27,6 +44,12 @@ VALUES (1342334068,   1,   33554433) /* Setup */
      , (1342334068,   3,  536870913) /* SoundTable */
      , (1342334068,   6,   67108990) /* PaletteBase */
      , (1342334068,   8,  100667446) /* Icon */
+     , (1342334068,   9,   83890511) /* EyesTexture */
+     , (1342334068,  10,   83890537) /* NoseTexture */
+     , (1342334068,  11,   83890564) /* MouthTexture */
+     , (1342334068,  15,   67109629) /* HairPalette */
+     , (1342334068,  16,   67110063) /* EyesPalette */
+     , (1342334068,  17,   67109557) /* SkinPalette */
      , (1342334068,  22,  872415236) /* PhysicsEffectTable */
      , (1342334068, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342334068, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

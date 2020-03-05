@@ -3,11 +3,23 @@ VALUES (1343005046, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343005046,   1,         16) /* ItemType - Creature */
+     , (1343005046,   2,         31) /* CreatureType - Human */
      , (1343005046,   6,        102) /* ItemsCapacity */
      , (1343005046,   7,          7) /* ContainersCapacity */
      , (1343005046,  16,          1) /* ItemUseable - No */
+     , (1343005046,  25,        225) /* Level */
+     , (1343005046,  30,          2) /* AllegianceRank */
+     , (1343005046,  43,       2238) /* NumDeaths */
      , (1343005046,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343005046, 113,          1) /* Gender - Male */
+     , (1343005046, 125,    5341777) /* Age */
      , (1343005046, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343005046, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343005046, 188,          2) /* HeritageGroup - Gharundim */
+     , (1343005046, 261,        764) /* CharacterTitleId */
+     , (1343005046, 307,          5) /* DamageRating */
+     , (1343005046, 308,          3) /* DamageResistRating */
+     , (1343005046, 390,          0) /* Enlightenment */
      , (1343005046, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +31,10 @@ VALUES (1343005046,   1, True ) /* Stuck */
      , (1343005046,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343005046,   1, 'Albert Hoffman') /* Name */;
+VALUES (1343005046,   1, 'Albert Hoffman') /* Name */
+     , (1343005046,  21, 'King Aerfall') /* MonarchsTitle */
+     , (1343005046,  35, 'Kun-chueh Damien Ash') /* PatronsTitle */
+     , (1343005046,  47, 'Autobotz') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343005046,   1,   33554433) /* Setup */
@@ -27,6 +42,12 @@ VALUES (1343005046,   1,   33554433) /* Setup */
      , (1343005046,   3,  536870913) /* SoundTable */
      , (1343005046,   6,   67108990) /* PaletteBase */
      , (1343005046,   8,  100667446) /* Icon */
+     , (1343005046,   9,   83890510) /* EyesTexture */
+     , (1343005046,  10,   83890555) /* NoseTexture */
+     , (1343005046,  11,   83890658) /* MouthTexture */
+     , (1343005046,  15,   67109625) /* HairPalette */
+     , (1343005046,  16,   67110062) /* EyesPalette */
+     , (1343005046,  17,   67109557) /* SkinPalette */
      , (1343005046,  22,  872415236) /* PhysicsEffectTable */
      , (1343005046, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343005046, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
@@ -35,8 +56,8 @@ VALUES (1343005046,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343005046, 1, 2818805, 420.0207, -95.31096, -11.995, -0.1584943, 0, 0, -0.9873599) /* Location */
 /* @teleloc 0x002B02F5 [420.020700 -95.310960 -11.995000] -0.158494 0.000000 0.000000 -0.987360 */
-     , (1343005046, 8040, 2818864, 511.2708, -83.32633, -11.995, 0.1749628, 0, 0, -0.984575) /* PCAPRecordedLocation */
-/* @teleloc 0x002B0330 [511.270800 -83.326330 -11.995000] 0.174963 0.000000 0.000000 -0.984575 */;
+     , (1343005046, 8040, 722599969, 109.1771, 7.50233, 48.005, 0.998233, 0, 0, -0.05942086) /* PCAPRecordedLocation */
+/* @teleloc 0x2B120021 [109.177100 7.502330 48.005000] 0.998233 0.000000 0.000000 -0.059421 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343005046,  26, 1343449966) /* Monarch */
@@ -91,11 +112,11 @@ VALUES (1343005046, 0, 83889072, 83886685, 10)
      , (1343005046, 16, 83886668, 83890510, 1)
      , (1343005046, 16, 83886837, 83890555, 2)
      , (1343005046, 16, 83886684, 83890658, 3)
-     , (1343005046, 29, 83898657, 83898659, 30)
-     , (1343005046, 30, 83898657, 83898659, 31)
-     , (1343005046, 31, 83898657, 83898659, 32)
-     , (1343005046, 32, 83898657, 83898659, 33)
-     , (1343005046, 33, 83898657, 83898659, 34);
+     , (1343005046, 29, 83898657, 83898661, 30)
+     , (1343005046, 30, 83898657, 83898661, 31)
+     , (1343005046, 31, 83898657, 83898661, 32)
+     , (1343005046, 32, 83898657, 83898661, 33)
+     , (1343005046, 33, 83898657, 83898661, 34);
 
 INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, `order`)
 VALUES (1343005046, 0, 16783894, 12)

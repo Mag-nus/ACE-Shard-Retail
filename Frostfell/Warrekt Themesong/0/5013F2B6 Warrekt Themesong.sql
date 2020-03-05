@@ -11,7 +11,7 @@ VALUES (1343484598,   1,         16) /* ItemType - Creature */
      , (1343484598,  30,          2) /* AllegianceRank */
      , (1343484598,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
      , (1343484598, 113,          1) /* Gender - Male */
-     , (1343484598, 125,    3851541) /* Age */
+     , (1343484598, 125,    3851554) /* Age */
      , (1343484598, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343484598, 134,         64) /* PlayerKillerStatus - PKLite */
      , (1343484598, 188,         11) /* HeritageGroup - Undead */

@@ -3,11 +3,28 @@ VALUES (1343380192, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343380192,   1,         16) /* ItemType - Creature */
+     , (1343380192,   2,         31) /* CreatureType - Human */
      , (1343380192,   6,        102) /* ItemsCapacity */
      , (1343380192,   7,          7) /* ContainersCapacity */
      , (1343380192,  16,          1) /* ItemUseable - No */
+     , (1343380192,  25,        275) /* Level */
+     , (1343380192,  30,          4) /* AllegianceRank */
      , (1343380192,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343380192, 113,          1) /* Gender - Male */
+     , (1343380192, 125,     779782) /* Age */
      , (1343380192, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343380192, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343380192, 188,         10) /* HeritageGroup - Penumbraen */
+     , (1343380192, 261,        646) /* CharacterTitleId */
+     , (1343380192, 281,          1) /* Faction1Bits */
+     , (1343380192, 287,       1001) /* SocietyRankCelhan */
+     , (1343380192, 307,         31) /* DamageRating */
+     , (1343380192, 308,          9) /* DamageResistRating */
+     , (1343380192, 313,          1) /* CritRating */
+     , (1343380192, 314,          6) /* CritDamageRating */
+     , (1343380192, 316,          1) /* CritDamageResistRating */
+     , (1343380192, 323,          4) /* HealingBoostRating */
+     , (1343380192, 390,          0) /* Enlightenment */
      , (1343380192, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +36,11 @@ VALUES (1343380192,   1, True ) /* Stuck */
      , (1343380192,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343380192,   1, 'Lossa') /* Name */;
+VALUES (1343380192,   1, 'Lossa') /* Name */
+     , (1343380192,  21, 'Queen Evil-Lady') /* MonarchsTitle */
+     , (1343380192,  35, 'Captain Enchanted Lady of Ff') /* PatronsTitle */
+     , (1343380192,  43, '14 April 2013') /* DateOfBirth */
+     , (1343380192,  47, 'Mischievous Misfits') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343380192,   1,   33560942) /* Setup */
@@ -27,6 +48,12 @@ VALUES (1343380192,   1,   33560942) /* Setup */
      , (1343380192,   3,  536870913) /* SoundTable */
      , (1343380192,   6,   67108990) /* PaletteBase */
      , (1343380192,   8,  100667446) /* Icon */
+     , (1343380192,   9,   83890479) /* EyesTexture */
+     , (1343380192,  10,   83890518) /* NoseTexture */
+     , (1343380192,  11,   83890589) /* MouthTexture */
+     , (1343380192,  15,   67117020) /* HairPalette */
+     , (1343380192,  16,   67116856) /* EyesPalette */
+     , (1343380192,  17,   67116848) /* SkinPalette */
      , (1343380192,  22,  872415433) /* PhysicsEffectTable */
      , (1343380192, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343380192, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

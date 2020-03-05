@@ -3,11 +3,26 @@ VALUES (1342716348, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342716348,   1,         16) /* ItemType - Creature */
+     , (1342716348,   2,         31) /* CreatureType - Human */
      , (1342716348,   6,        102) /* ItemsCapacity */
      , (1342716348,   7,          7) /* ContainersCapacity */
      , (1342716348,  16,          1) /* ItemUseable - No */
+     , (1342716348,  25,        208) /* Level */
+     , (1342716348,  30,          2) /* AllegianceRank */
+     , (1342716348,  43,        603) /* NumDeaths */
      , (1342716348,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1342716348, 113,          1) /* Gender - Male */
+     , (1342716348, 125,    4070111) /* Age */
      , (1342716348, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342716348, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342716348, 188,          2) /* HeritageGroup - Gharundim */
+     , (1342716348, 192,          0) /* FakeFishingSkill */
+     , (1342716348, 261,         90) /* CharacterTitleId */
+     , (1342716348, 262,         24) /* NumCharacterTitles */
+     , (1342716348, 307,          5) /* DamageRating */
+     , (1342716348, 308,          1) /* DamageResistRating */
+     , (1342716348, 323,          2) /* HealingBoostRating */
+     , (1342716348, 390,          0) /* Enlightenment */
      , (1342716348, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +34,11 @@ VALUES (1342716348,   1, True ) /* Stuck */
      , (1342716348,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342716348,   1, 'Firestarter') /* Name */;
+VALUES (1342716348,   1, 'Firestarter') /* Name */
+     , (1342716348,  21, 'Jo-ou Tika Waylen') /* MonarchsTitle */
+     , (1342716348,  35, 'Shi-chueh Kel'' Shando II') /* PatronsTitle */
+     , (1342716348,  43, '11 May 2001') /* DateOfBirth */
+     , (1342716348,  47, 'The Dragon Moon Clan') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342716348,   1,   33554433) /* Setup */
@@ -27,6 +46,12 @@ VALUES (1342716348,   1,   33554433) /* Setup */
      , (1342716348,   3,  536870913) /* SoundTable */
      , (1342716348,   6,   67108990) /* PaletteBase */
      , (1342716348,   8,  100667446) /* Icon */
+     , (1342716348,   9,   83890516) /* EyesTexture */
+     , (1342716348,  10,   83890531) /* NoseTexture */
+     , (1342716348,  11,   83890630) /* MouthTexture */
+     , (1342716348,  15,   67109618) /* HairPalette */
+     , (1342716348,  16,   67110062) /* EyesPalette */
+     , (1342716348,  17,   67109557) /* SkinPalette */
      , (1342716348,  22,  872415236) /* PhysicsEffectTable */
      , (1342716348, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342716348, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

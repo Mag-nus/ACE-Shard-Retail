@@ -3,11 +3,22 @@ VALUES (1342562332, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342562332,   1,         16) /* ItemType - Creature */
+     , (1342562332,   2,         31) /* CreatureType - Human */
      , (1342562332,   6,        102) /* ItemsCapacity */
      , (1342562332,   7,          7) /* ContainersCapacity */
      , (1342562332,  16,          1) /* ItemUseable - No */
+     , (1342562332,  25,        105) /* Level */
+     , (1342562332,  30,          2) /* AllegianceRank */
+     , (1342562332,  43,        715) /* NumDeaths */
      , (1342562332,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342562332, 113,          1) /* Gender - Male */
+     , (1342562332, 125,    8472623) /* Age */
      , (1342562332, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342562332, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342562332, 188,          2) /* HeritageGroup - Gharundim */
+     , (1342562332, 261,         92) /* CharacterTitleId */
+     , (1342562332, 307,          5) /* DamageRating */
+     , (1342562332, 390,          0) /* Enlightenment */
      , (1342562332, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +30,11 @@ VALUES (1342562332,   1, True ) /* Stuck */
      , (1342562332,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342562332,   1, 'Rummel the brave') /* Name */;
+VALUES (1342562332,   1, 'Rummel the brave') /* Name */
+     , (1342562332,  21, 'Duke Keeper of the Golden Flame') /* MonarchsTitle */
+     , (1342562332,  35, 'Mushir Wigdahl II') /* PatronsTitle */
+     , (1342562332,  43, '29 October 2000') /* DateOfBirth */
+     , (1342562332,  47, 'Keepers of the Golden Flame') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342562332,   1,   33554433) /* Setup */
@@ -27,6 +42,12 @@ VALUES (1342562332,   1,   33554433) /* Setup */
      , (1342562332,   3,  536870913) /* SoundTable */
      , (1342562332,   6,   67108990) /* PaletteBase */
      , (1342562332,   8,  100667446) /* Icon */
+     , (1342562332,   9,   83890514) /* EyesTexture */
+     , (1342562332,  10,   83890536) /* NoseTexture */
+     , (1342562332,  11,   83890621) /* MouthTexture */
+     , (1342562332,  15,   67109602) /* HairPalette */
+     , (1342562332,  16,   67109567) /* EyesPalette */
+     , (1342562332,  17,   67109557) /* SkinPalette */
      , (1342562332,  22,  872415236) /* PhysicsEffectTable */
      , (1342562332, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342562332, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

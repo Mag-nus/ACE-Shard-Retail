@@ -8,7 +8,6 @@ VALUES (1343252937,   1,         16) /* ItemType - Creature */
      , (1343252937,   7,          7) /* ContainersCapacity */
      , (1343252937,  16,          1) /* ItemUseable - No */
      , (1343252937,  25,         35) /* Level */
-     , (1343252937,  30,          1) /* AllegianceRank */
      , (1343252937,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1343252937, 113,          1) /* Gender - Male */
      , (1343252937, 133,          4) /* ShowableOnRadar - ShowAlways */
@@ -30,10 +29,7 @@ INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (1343252937,  39, 1.29999995231628) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343252937,   1, 'Ms-L-Jules Five') /* Name */
-     , (1343252937,  21, 'High King Mr Adventure') /* MonarchsTitle */
-     , (1343252937,  35, 'Laigus Ar-L-Armor Eight') /* PatronsTitle */
-     , (1343252937,  47, 'Knights of Fortune') /* AllegianceName */;
+VALUES (1343252937,   1, 'Ms-L-Jules Five') /* Name */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343252937,   1,   33561112) /* Setup */

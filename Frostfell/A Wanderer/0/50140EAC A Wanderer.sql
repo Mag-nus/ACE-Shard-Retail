@@ -3,11 +3,20 @@ VALUES (1343491756, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343491756,   1,         16) /* ItemType - Creature */
+     , (1343491756,   2,         31) /* CreatureType - Human */
      , (1343491756,   6,        102) /* ItemsCapacity */
      , (1343491756,   7,          7) /* ContainersCapacity */
      , (1343491756,  16,          1) /* ItemUseable - No */
+     , (1343491756,  25,        170) /* Level */
+     , (1343491756,  30,          2) /* AllegianceRank */
      , (1343491756,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343491756, 113,          1) /* Gender - Male */
      , (1343491756, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343491756, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343491756, 188,          2) /* HeritageGroup - Gharundim */
+     , (1343491756, 261,        766) /* CharacterTitleId */
+     , (1343491756, 307,          9) /* DamageRating */
+     , (1343491756, 390,          0) /* Enlightenment */
      , (1343491756, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +28,10 @@ VALUES (1343491756,   1, True ) /* Stuck */
      , (1343491756,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343491756,   1, 'A Wanderer') /* Name */;
+VALUES (1343491756,   1, 'A Wanderer') /* Name */
+     , (1343491756,  21, 'Queen Evil-Lady') /* MonarchsTitle */
+     , (1343491756,  35, 'Jo-chueh Tomas Longshanks') /* PatronsTitle */
+     , (1343491756,  47, 'Mischievous Misfits') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343491756,   1,   33554433) /* Setup */
@@ -27,6 +39,12 @@ VALUES (1343491756,   1,   33554433) /* Setup */
      , (1343491756,   3,  536870913) /* SoundTable */
      , (1343491756,   6,   67108990) /* PaletteBase */
      , (1343491756,   8,  100667446) /* Icon */
+     , (1343491756,   9,   83890460) /* EyesTexture */
+     , (1343491756,  10,   83890534) /* NoseTexture */
+     , (1343491756,  11,   83890637) /* MouthTexture */
+     , (1343491756,  15,   67116998) /* HairPalette */
+     , (1343491756,  16,   67109567) /* EyesPalette */
+     , (1343491756,  17,   67109557) /* SkinPalette */
      , (1343491756,  22,  872415236) /* PhysicsEffectTable */
      , (1343491756, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343491756, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

@@ -3,11 +3,19 @@ VALUES (1343182493, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343182493,   1,         16) /* ItemType - Creature */
+     , (1343182493,   2,         31) /* CreatureType - Human */
      , (1343182493,   6,        102) /* ItemsCapacity */
      , (1343182493,   7,          7) /* ContainersCapacity */
      , (1343182493,  16,          1) /* ItemUseable - No */
+     , (1343182493,  25,          9) /* Level */
      , (1343182493,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343182493, 113,          1) /* Gender - Male */
      , (1343182493, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343182493, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343182493, 188,          2) /* HeritageGroup - Gharundim */
+     , (1343182493, 261,          1) /* CharacterTitleId */
+     , (1343182493, 307,          5) /* DamageRating */
+     , (1343182493, 390,          0) /* Enlightenment */
      , (1343182493, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -27,6 +35,12 @@ VALUES (1343182493,   1,   33554433) /* Setup */
      , (1343182493,   3,  536870913) /* SoundTable */
      , (1343182493,   6,   67108990) /* PaletteBase */
      , (1343182493,   8,  100667446) /* Icon */
+     , (1343182493,   9,   83890457) /* EyesTexture */
+     , (1343182493,  10,   83890534) /* NoseTexture */
+     , (1343182493,  11,   83890623) /* MouthTexture */
+     , (1343182493,  15,   67116993) /* HairPalette */
+     , (1343182493,  16,   67110063) /* EyesPalette */
+     , (1343182493,  17,   67109550) /* SkinPalette */
      , (1343182493,  22,  872415236) /* PhysicsEffectTable */
      , (1343182493, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343182493, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

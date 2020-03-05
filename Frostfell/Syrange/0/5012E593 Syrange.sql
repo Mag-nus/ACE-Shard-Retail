@@ -3,16 +3,24 @@ VALUES (1343415699, 1, 10, 6738241) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343415699,   1,         16) /* ItemType - Creature */
+     , (1343415699,   2,         31) /* CreatureType - Human */
      , (1343415699,   6,        102) /* ItemsCapacity */
      , (1343415699,   7,          7) /* ContainersCapacity */
      , (1343415699,  16,          1) /* ItemUseable - No */
-     , (1343415699,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343415699,  25,        275) /* Level */
+     , (1343415699,  30,          1) /* AllegianceRank */
+     , (1343415699,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343415699, 113,          1) /* Gender - Male */
      , (1343415699, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343415699, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343415699, 188,          9) /* HeritageGroup - Empyrean */
+     , (1343415699, 261,        116) /* CharacterTitleId */
+     , (1343415699, 390,          0) /* Enlightenment */
      , (1343415699, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1343415699,   1, True ) /* Stuck */
-     , (1343415699,  11, True ) /* IgnoreCollisions */
+     , (1343415699,  12, True ) /* ReportCollisions */
      , (1343415699,  13, False) /* Ethereal */
      , (1343415699,  14, True ) /* GravityStatus */
      , (1343415699,  19, True ) /* Attackable */
@@ -22,7 +30,11 @@ INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (1343415699,  39, 1.20000004768372) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343415699,   1, 'Syrange') /* Name */;
+VALUES (1343415699,   1, 'Syrange') /* Name */
+     , (1343415699,  10, 'O') /* Fellowship */
+     , (1343415699,  21, 'Jo-ou Tika Waylen') /* MonarchsTitle */
+     , (1343415699,  35, 'Squire Ulqrim') /* PatronsTitle */
+     , (1343415699,  47, 'The Dragon Moon Clan') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343415699,   1,   33561110) /* Setup */
@@ -30,6 +42,12 @@ VALUES (1343415699,   1,   33561110) /* Setup */
      , (1343415699,   3,  536870913) /* SoundTable */
      , (1343415699,   6,   67108990) /* PaletteBase */
      , (1343415699,   8,  100667446) /* Icon */
+     , (1343415699,   9,   83890465) /* EyesTexture */
+     , (1343415699,  10,   83890518) /* NoseTexture */
+     , (1343415699,  11,   83890570) /* MouthTexture */
+     , (1343415699,  15,   67117028) /* HairPalette */
+     , (1343415699,  16,   67116856) /* EyesPalette */
+     , (1343415699,  17,   67109558) /* SkinPalette */
      , (1343415699,  22,  872415236) /* PhysicsEffectTable */
      , (1343415699, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343415699, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
@@ -38,8 +56,8 @@ VALUES (1343415699,   1,   33561110) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343415699, 1, 722534439, 107.8639, 167.9174, 48.006, 0.3076678, 0, 0, -0.9514938) /* Location */
 /* @teleloc 0x2B110027 [107.863900 167.917400 48.006000] 0.307668 0.000000 0.000000 -0.951494 */
-     , (1343415699, 8040, 3332964380, 79.67134, 79.80144, 42.006, -0.2021141, 0, 0, -0.979362) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001C [79.671340 79.801440 42.006000] -0.202114 0.000000 0.000000 -0.979362 */;
+     , (1343415699, 8040, 1210908682, 26.47328, 25.67567, 11.285, -0.9998409, 0, 0, -0.01783697) /* PCAPRecordedLocation */
+/* @teleloc 0x482D000A [26.473280 25.675670 11.285000] -0.999841 0.000000 0.000000 -0.017837 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343415699,  26, 1343089867) /* Monarch */

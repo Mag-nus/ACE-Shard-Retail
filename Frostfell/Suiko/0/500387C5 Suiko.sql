@@ -13,7 +13,7 @@ VALUES (1342408645,   1,         16) /* ItemType - Creature */
      , (1342408645,  43,        690) /* NumDeaths */
      , (1342408645,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1342408645, 113,          1) /* Gender - Male */
-     , (1342408645, 125,    2746403) /* Age */
+     , (1342408645, 125,    2746417) /* Age */
      , (1342408645, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342408645, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342408645, 188,          3) /* HeritageGroup - Sho */
@@ -55,8 +55,8 @@ VALUES (1342408645,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1342408645, 1, 3443589148, 83.5755, 84.0811, 54, 0.430868, 0, 0, 0.902415) /* Location */
 /* @teleloc 0xCD41001C [83.575500 84.081100 54.000000] 0.430868 0.000000 0.000000 0.902415 */
-     , (1342408645, 8040, 3583574079, 188.3089, 162.0727, 374.005, -0.9941092, 0, 0, -0.1083831) /* PCAPRecordedLocation */
-/* @teleloc 0xD599003F [188.308900 162.072700 374.005000] -0.994109 0.000000 0.000000 -0.108383 */;
+     , (1342408645, 8040, 3583574079, 183.4949, 155.0316, 374.005, 0.9287764, 0, 0, -0.3706406) /* PCAPRecordedLocation */
+/* @teleloc 0xD599003F [183.494900 155.031600 374.005000] 0.928776 0.000000 0.000000 -0.370641 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342408645,  26, 1342408645) /* Monarch */

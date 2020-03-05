@@ -3,11 +3,20 @@ VALUES (1343484850, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343484850,   1,         16) /* ItemType - Creature */
+     , (1343484850,   2,         31) /* CreatureType - Human */
      , (1343484850,   6,        102) /* ItemsCapacity */
      , (1343484850,   7,          7) /* ContainersCapacity */
      , (1343484850,  16,          1) /* ItemUseable - No */
+     , (1343484850,  25,         64) /* Level */
+     , (1343484850,  30,          1) /* AllegianceRank */
      , (1343484850,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343484850, 113,          1) /* Gender - Male */
      , (1343484850, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343484850, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343484850, 188,          3) /* HeritageGroup - Sho */
+     , (1343484850, 261,        122) /* CharacterTitleId */
+     , (1343484850, 307,          5) /* DamageRating */
+     , (1343484850, 390,          0) /* Enlightenment */
      , (1343484850, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +28,9 @@ VALUES (1343484850,   1, True ) /* Stuck */
      , (1343484850,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343484850,   1, 'Tawaranor') /* Name */;
+VALUES (1343484850,   1, 'Tawaranor') /* Name */
+     , (1343484850,  21, 'Yeoman Ardowan') /* MonarchsTitle */
+     , (1343484850,  35, 'Yeoman Ardowan') /* PatronsTitle */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343484850,   1,   33554433) /* Setup */
@@ -27,6 +38,12 @@ VALUES (1343484850,   1,   33554433) /* Setup */
      , (1343484850,   3,  536870913) /* SoundTable */
      , (1343484850,   6,   67108990) /* PaletteBase */
      , (1343484850,   8,  100667446) /* Icon */
+     , (1343484850,   9,   83890450) /* EyesTexture */
+     , (1343484850,  10,   83890519) /* NoseTexture */
+     , (1343484850,  11,   83890567) /* MouthTexture */
+     , (1343484850,  15,   67116992) /* HairPalette */
+     , (1343484850,  16,   67109565) /* EyesPalette */
+     , (1343484850,  17,   67110061) /* SkinPalette */
      , (1343484850,  22,  872415236) /* PhysicsEffectTable */
      , (1343484850, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343484850, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

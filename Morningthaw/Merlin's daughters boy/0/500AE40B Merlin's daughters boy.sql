@@ -3,11 +3,24 @@ VALUES (1342891019, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342891019,   1,         16) /* ItemType - Creature */
+     , (1342891019,   2,         31) /* CreatureType - Human */
      , (1342891019,   6,        102) /* ItemsCapacity */
      , (1342891019,   7,          7) /* ContainersCapacity */
      , (1342891019,  16,          1) /* ItemUseable - No */
+     , (1342891019,  25,        212) /* Level */
+     , (1342891019,  30,          2) /* AllegianceRank */
      , (1342891019,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1342891019, 113,          1) /* Gender - Male */
      , (1342891019, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342891019, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342891019, 188,          1) /* HeritageGroup - Aluvian */
+     , (1342891019, 261,         57) /* CharacterTitleId */
+     , (1342891019, 281,          1) /* Faction1Bits */
+     , (1342891019, 287,        205) /* SocietyRankCelhan */
+     , (1342891019, 307,          9) /* DamageRating */
+     , (1342891019, 308,          3) /* DamageResistRating */
+     , (1342891019, 323,          1) /* HealingBoostRating */
+     , (1342891019, 390,          0) /* Enlightenment */
      , (1342891019, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +32,10 @@ VALUES (1342891019,   1, True ) /* Stuck */
      , (1342891019,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342891019,   1, 'Merlin''s daughters boy') /* Name */;
+VALUES (1342891019,   1, 'Merlin''s daughters boy') /* Name */
+     , (1342891019,  21, 'High King Mr Adventure') /* MonarchsTitle */
+     , (1342891019,  35, 'Shi-chueh A Good Woman') /* PatronsTitle */
+     , (1342891019,  47, 'Knights of Fortune') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342891019,   1,   33554433) /* Setup */
@@ -27,6 +43,12 @@ VALUES (1342891019,   1,   33554433) /* Setup */
      , (1342891019,   3,  536870913) /* SoundTable */
      , (1342891019,   6,   67108990) /* PaletteBase */
      , (1342891019,   8,  100667446) /* Icon */
+     , (1342891019,   9,   83890448) /* EyesTexture */
+     , (1342891019,  10,   83890557) /* NoseTexture */
+     , (1342891019,  11,   83890649) /* MouthTexture */
+     , (1342891019,  15,   67116990) /* HairPalette */
+     , (1342891019,  16,   67110062) /* EyesPalette */
+     , (1342891019,  17,   67109562) /* SkinPalette */
      , (1342891019,  22,  872415236) /* PhysicsEffectTable */
      , (1342891019, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342891019, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

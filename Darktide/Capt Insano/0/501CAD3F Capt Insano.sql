@@ -3,11 +3,20 @@ VALUES (1344056639, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1344056639,   1,         16) /* ItemType - Creature */
+     , (1344056639,   2,         31) /* CreatureType - Human */
      , (1344056639,   6,        102) /* ItemsCapacity */
      , (1344056639,   7,          7) /* ContainersCapacity */
      , (1344056639,  16,          1) /* ItemUseable - No */
+     , (1344056639,  25,         50) /* Level */
+     , (1344056639,  30,          1) /* AllegianceRank */
      , (1344056639,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1344056639, 113,          1) /* Gender - Male */
      , (1344056639, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1344056639, 134,          4) /* PlayerKillerStatus - PK */
+     , (1344056639, 188,          3) /* HeritageGroup - Sho */
+     , (1344056639, 261,          1) /* CharacterTitleId */
+     , (1344056639, 307,          5) /* DamageRating */
+     , (1344056639, 390,          0) /* Enlightenment */
      , (1344056639, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +28,11 @@ VALUES (1344056639,   1, True ) /* Stuck */
      , (1344056639,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1344056639,   1, 'Capt Insano') /* Name */;
+VALUES (1344056639,   1, 'Capt Insano') /* Name */
+     , (1344056639,  10, 'Games death bed lol') /* Fellowship */
+     , (1344056639,  21, 'Archduke Fright Night') /* MonarchsTitle */
+     , (1344056639,  35, 'Squire Sushi Whirlpool') /* PatronsTitle */
+     , (1344056639,  47, 'CHAZ RETURNS') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1344056639,   1,   33554433) /* Setup */
@@ -27,6 +40,12 @@ VALUES (1344056639,   1,   33554433) /* Setup */
      , (1344056639,   3,  536870913) /* SoundTable */
      , (1344056639,   6,   67108990) /* PaletteBase */
      , (1344056639,   8,  100667446) /* Icon */
+     , (1344056639,   9,   83890452) /* EyesTexture */
+     , (1344056639,  10,   83890544) /* NoseTexture */
+     , (1344056639,  11,   83890659) /* MouthTexture */
+     , (1344056639,  15,   67117079) /* HairPalette */
+     , (1344056639,  16,   67110063) /* EyesPalette */
+     , (1344056639,  17,   67110052) /* SkinPalette */
      , (1344056639,  22,  872415236) /* PhysicsEffectTable */
      , (1344056639, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1344056639, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

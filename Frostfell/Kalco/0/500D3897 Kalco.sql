@@ -3,11 +3,26 @@ VALUES (1343043735, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343043735,   1,         16) /* ItemType - Creature */
+     , (1343043735,   2,         31) /* CreatureType - Human */
      , (1343043735,   6,        102) /* ItemsCapacity */
      , (1343043735,   7,          7) /* ContainersCapacity */
      , (1343043735,  16,          1) /* ItemUseable - No */
+     , (1343043735,  25,        220) /* Level */
+     , (1343043735,  30,          2) /* AllegianceRank */
+     , (1343043735,  43,         29) /* NumDeaths */
      , (1343043735,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343043735, 113,          2) /* Gender - Female */
      , (1343043735, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343043735, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343043735, 188,          1) /* HeritageGroup - Aluvian */
+     , (1343043735, 261,         40) /* CharacterTitleId */
+     , (1343043735, 281,          2) /* Faction1Bits */
+     , (1343043735, 288,          1) /* SocietyRankEldweb */
+     , (1343043735, 307,          5) /* DamageRating */
+     , (1343043735, 308,          1) /* DamageResistRating */
+     , (1343043735, 314,          2) /* CritDamageRating */
+     , (1343043735, 382,          1) /* PKDamageResistRating */
+     , (1343043735, 390,          0) /* Enlightenment */
      , (1343043735, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +34,11 @@ VALUES (1343043735,   1, True ) /* Stuck */
      , (1343043735,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343043735,   1, 'Kalco') /* Name */;
+VALUES (1343043735,   1, 'Kalco') /* Name */
+     , (1343043735,  10, 'Q') /* Fellowship */
+     , (1343043735,  21, 'Maulan Do''h') /* MonarchsTitle */
+     , (1343043735,  35, 'Maulan Do''h') /* PatronsTitle */
+     , (1343043735,  43, '22 February 2003') /* DateOfBirth */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343043735,   1,   33554510) /* Setup */
@@ -27,6 +46,12 @@ VALUES (1343043735,   1,   33554510) /* Setup */
      , (1343043735,   3,  536870914) /* SoundTable */
      , (1343043735,   6,   67108990) /* PaletteBase */
      , (1343043735,   8,  100667446) /* Icon */
+     , (1343043735,   9,   83890261) /* EyesTexture */
+     , (1343043735,  10,   83890287) /* NoseTexture */
+     , (1343043735,  11,   83890347) /* MouthTexture */
+     , (1343043735,  15,   67109595) /* HairPalette */
+     , (1343043735,  16,   67109566) /* EyesPalette */
+     , (1343043735,  17,   67109562) /* SkinPalette */
      , (1343043735,  22,  872415236) /* PhysicsEffectTable */
      , (1343043735, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343043735, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

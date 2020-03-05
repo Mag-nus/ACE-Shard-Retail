@@ -7,7 +7,7 @@ VALUES (1343254499,   1,         16) /* ItemType - Creature */
      , (1343254499,   6,        102) /* ItemsCapacity */
      , (1343254499,   7,          7) /* ContainersCapacity */
      , (1343254499,  16,          1) /* ItemUseable - No */
-     , (1343254499,  25,        234) /* Level */
+     , (1343254499,  25,        237) /* Level */
      , (1343254499,  30,          1) /* AllegianceRank */
      , (1343254499,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1343254499, 113,          2) /* Gender - Female */
@@ -20,10 +20,10 @@ VALUES (1343254499,   1,         16) /* ItemType - Creature */
      , (1343254499, 307,          9) /* DamageRating */
      , (1343254499, 308,          5) /* DamageResistRating */
      , (1343254499, 313,          1) /* CritRating */
-     , (1343254499, 314,          2) /* CritDamageRating */
+     , (1343254499, 314,          3) /* CritDamageRating */
      , (1343254499, 316,          2) /* CritDamageResistRating */
      , (1343254499, 323,          2) /* HealingBoostRating */
-     , (1343254499, 351,          8) /* LifeResistRating */
+     , (1343254499, 351,         16) /* LifeResistRating */
      , (1343254499, 390,          0) /* Enlightenment */
      , (1343254499, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
@@ -37,7 +37,6 @@ VALUES (1343254499,   1, True ) /* Stuck */
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343254499,   1, 'Noveny') /* Name */
-     , (1343254499,  10, 'Lgfgl') /* Fellowship */
      , (1343254499,  21, 'Malik Tao Roo Chingon II') /* MonarchsTitle */
      , (1343254499,  35, 'Raigus Ruut') /* PatronsTitle */
      , (1343254499,  47, 'The Spirits of the Mountain') /* AllegianceName */;

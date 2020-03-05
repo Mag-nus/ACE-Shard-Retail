@@ -7,14 +7,12 @@ VALUES (1343633055,   1,         16) /* ItemType - Creature */
      , (1343633055,   6,        102) /* ItemsCapacity */
      , (1343633055,   7,          7) /* ContainersCapacity */
      , (1343633055,  16,          1) /* ItemUseable - No */
-     , (1343633055,  25,         25) /* Level */
      , (1343633055,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1343633055, 113,          1) /* Gender - Male */
      , (1343633055, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343633055, 134,          4) /* PlayerKillerStatus - PK */
      , (1343633055, 188,          3) /* HeritageGroup - Sho */
      , (1343633055, 261,          1) /* CharacterTitleId */
-     , (1343633055, 307,          5) /* DamageRating */
      , (1343633055, 390,          0) /* Enlightenment */
      , (1343633055, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 

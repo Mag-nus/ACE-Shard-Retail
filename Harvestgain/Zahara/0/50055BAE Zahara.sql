@@ -9,25 +9,19 @@ VALUES (1342528430,   1,         16) /* ItemType - Creature */
      , (1342528430,  16,          1) /* ItemUseable - No */
      , (1342528430,  25,        275) /* Level */
      , (1342528430,  30,          5) /* AllegianceRank */
-     , (1342528430,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1342528430,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1342528430, 113,          1) /* Gender - Male */
-     , (1342528430, 125,   27720186) /* Age */
+     , (1342528430, 125,   27768633) /* Age */
      , (1342528430, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342528430, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342528430, 188,          2) /* HeritageGroup - Gharundim */
      , (1342528430, 261,        889) /* CharacterTitleId */
-     , (1342528430, 281,          0) /* Faction1Bits */
-     , (1342528430, 307,         21) /* DamageRating */
-     , (1342528430, 308,          7) /* DamageResistRating */
-     , (1342528430, 313,          1) /* CritRating */
-     , (1342528430, 314,         15) /* CritDamageRating */
-     , (1342528430, 316,          3) /* CritDamageResistRating */
      , (1342528430, 390,          1) /* Enlightenment */
      , (1342528430, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1342528430,   1, True ) /* Stuck */
-     , (1342528430,  11, True ) /* IgnoreCollisions */
+     , (1342528430,  12, True ) /* ReportCollisions */
      , (1342528430,  13, False) /* Ethereal */
      , (1342528430,  14, True ) /* GravityStatus */
      , (1342528430,  19, True ) /* Attackable */
@@ -35,6 +29,7 @@ VALUES (1342528430,   1, True ) /* Stuck */
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1342528430,   1, 'Zahara') /* Name */
+     , (1342528430,  10, 'Z') /* Fellowship */
      , (1342528430,  21, 'Kun-chueh Rex') /* MonarchsTitle */
      , (1342528430,  35, 'Kun-chueh Rex') /* PatronsTitle */
      , (1342528430,  43, '27 September 2000') /* DateOfBirth */;
@@ -59,8 +54,8 @@ VALUES (1342528430,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1342528430, 1, 3895263261, 90.3577, 96.35798, 78.005, -0.999689, 0, 0, 0.0249504) /* Location */
 /* @teleloc 0xE82D001D [90.357700 96.357980 78.005000] -0.999689 0.000000 0.000000 0.024950 */
-     , (1342528430, 8040, 3332964361, 46.805, 4.219, 42.005, 1, 0, 0, 0) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A90009 [46.805000 4.219000 42.005000] 1.000000 0.000000 0.000000 0.000000 */;
+     , (1342528430, 8040, 3332964379, 91.63039, 71.86841, 42.005, -0.4713348, 0, 0, -0.8819544) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A9001B [91.630390 71.868410 42.005000] -0.471335 0.000000 0.000000 -0.881954 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342528430,  26, 1342396066) /* Monarch */

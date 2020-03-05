@@ -3,11 +3,26 @@ VALUES (1343486774, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343486774,   1,         16) /* ItemType - Creature */
+     , (1343486774,   2,         31) /* CreatureType - Human */
      , (1343486774,   6,        102) /* ItemsCapacity */
      , (1343486774,   7,          8) /* ContainersCapacity */
      , (1343486774,  16,          1) /* ItemUseable - No */
+     , (1343486774,  25,        275) /* Level */
+     , (1343486774,  30,          2) /* AllegianceRank */
      , (1343486774,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343486774, 113,          2) /* Gender - Female */
      , (1343486774, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343486774, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343486774, 188,          1) /* HeritageGroup - Aluvian */
+     , (1343486774, 261,          1) /* CharacterTitleId */
+     , (1343486774, 281,          2) /* Faction1Bits */
+     , (1343486774, 288,         95) /* SocietyRankEldweb */
+     , (1343486774, 307,          9) /* DamageRating */
+     , (1343486774, 308,          3) /* DamageResistRating */
+     , (1343486774, 314,          5) /* CritDamageRating */
+     , (1343486774, 316,          4) /* CritDamageResistRating */
+     , (1343486774, 323,          1) /* HealingBoostRating */
+     , (1343486774, 390,          0) /* Enlightenment */
      , (1343486774, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +34,11 @@ VALUES (1343486774,   1, True ) /* Stuck */
      , (1343486774,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343486774,   1, 'Miss Kleo') /* Name */;
+VALUES (1343486774,   1, 'Miss Kleo') /* Name */
+     , (1343486774,  10, 'C') /* Fellowship */
+     , (1343486774,  21, 'King Aerfall') /* MonarchsTitle */
+     , (1343486774,  35, 'Maulan Broken Bone') /* PatronsTitle */
+     , (1343486774,  47, 'Autobotz') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343486774,   1,   33554510) /* Setup */
@@ -27,6 +46,12 @@ VALUES (1343486774,   1,   33554510) /* Setup */
      , (1343486774,   3,  536870914) /* SoundTable */
      , (1343486774,   6,   67108990) /* PaletteBase */
      , (1343486774,   8,  100667446) /* Icon */
+     , (1343486774,   9,   83890261) /* EyesTexture */
+     , (1343486774,  10,   83890289) /* NoseTexture */
+     , (1343486774,  11,   83890326) /* MouthTexture */
+     , (1343486774,  15,   67117021) /* HairPalette */
+     , (1343486774,  16,   67109566) /* EyesPalette */
+     , (1343486774,  17,   67109558) /* SkinPalette */
      , (1343486774,  22,  872415236) /* PhysicsEffectTable */
      , (1343486774, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343486774, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

@@ -3,11 +3,28 @@ VALUES (1343200291, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343200291,   1,         16) /* ItemType - Creature */
+     , (1343200291,   2,         31) /* CreatureType - Human */
      , (1343200291,   6,        102) /* ItemsCapacity */
      , (1343200291,   7,          8) /* ContainersCapacity */
      , (1343200291,  16,          1) /* ItemUseable - No */
+     , (1343200291,  25,        275) /* Level */
+     , (1343200291,  30,          1) /* AllegianceRank */
      , (1343200291,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343200291, 113,          2) /* Gender - Female */
      , (1343200291, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343200291, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343200291, 188,          3) /* HeritageGroup - Sho */
+     , (1343200291, 261,          1) /* CharacterTitleId */
+     , (1343200291, 281,          1) /* Faction1Bits */
+     , (1343200291, 287,       1001) /* SocietyRankCelhan */
+     , (1343200291, 307,         21) /* DamageRating */
+     , (1343200291, 308,          7) /* DamageResistRating */
+     , (1343200291, 313,          1) /* CritRating */
+     , (1343200291, 314,          9) /* CritDamageRating */
+     , (1343200291, 316,          3) /* CritDamageResistRating */
+     , (1343200291, 323,          4) /* HealingBoostRating */
+     , (1343200291, 351,         16) /* LifeResistRating */
+     , (1343200291, 390,          0) /* Enlightenment */
      , (1343200291, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +36,10 @@ VALUES (1343200291,   1, True ) /* Stuck */
      , (1343200291,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343200291,   1, 'Nomsen Es'' Gorgon') /* Name */;
+VALUES (1343200291,   1, 'Nomsen Es'' Gorgon') /* Name */
+     , (1343200291,  21, 'Malik Ryo Ni') /* MonarchsTitle */
+     , (1343200291,  35, 'Jo-chueh Nomsen es''Crafter') /* PatronsTitle */
+     , (1343200291,  47, 'Pied Pipers') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343200291,   1,   33554510) /* Setup */
@@ -27,6 +47,12 @@ VALUES (1343200291,   1,   33554510) /* Setup */
      , (1343200291,   3,  536870914) /* SoundTable */
      , (1343200291,   6,   67108990) /* PaletteBase */
      , (1343200291,   8,  100667446) /* Icon */
+     , (1343200291,   9,   83890283) /* EyesTexture */
+     , (1343200291,  10,   83890310) /* NoseTexture */
+     , (1343200291,  11,   83890353) /* MouthTexture */
+     , (1343200291,  15,   67117080) /* HairPalette */
+     , (1343200291,  16,   67109565) /* EyesPalette */
+     , (1343200291,  17,   67110054) /* SkinPalette */
      , (1343200291,  22,  872415236) /* PhysicsEffectTable */
      , (1343200291, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343200291, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

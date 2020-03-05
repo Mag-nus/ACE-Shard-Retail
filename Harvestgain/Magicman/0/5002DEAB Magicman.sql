@@ -3,11 +3,26 @@ VALUES (1342365355, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342365355,   1,         16) /* ItemType - Creature */
+     , (1342365355,   2,         31) /* CreatureType - Human */
      , (1342365355,   6,        102) /* ItemsCapacity */
      , (1342365355,   7,          7) /* ContainersCapacity */
      , (1342365355,  16,          1) /* ItemUseable - No */
+     , (1342365355,  25,        238) /* Level */
+     , (1342365355,  30,          3) /* AllegianceRank */
      , (1342365355,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342365355, 113,          1) /* Gender - Male */
+     , (1342365355, 125,    8735583) /* Age */
      , (1342365355, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342365355, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342365355, 188,          2) /* HeritageGroup - Gharundim */
+     , (1342365355, 192,        700) /* FakeFishingSkill */
+     , (1342365355, 261,        458) /* CharacterTitleId */
+     , (1342365355, 307,          7) /* DamageRating */
+     , (1342365355, 308,          7) /* DamageResistRating */
+     , (1342365355, 314,          8) /* CritDamageRating */
+     , (1342365355, 316,          4) /* CritDamageResistRating */
+     , (1342365355, 323,          7) /* HealingBoostRating */
+     , (1342365355, 390,          0) /* Enlightenment */
      , (1342365355, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +34,11 @@ VALUES (1342365355,   1, True ) /* Stuck */
      , (1342365355,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342365355,   1, 'Magicman') /* Name */;
+VALUES (1342365355,   1, 'Magicman') /* Name */
+     , (1342365355,  21, 'Ou Sins') /* MonarchsTitle */
+     , (1342365355,  35, 'Mu''allim Bowsins') /* PatronsTitle */
+     , (1342365355,  43, '27 March 2000') /* DateOfBirth */
+     , (1342365355,  47, 'House of Sins') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342365355,   1,   33554433) /* Setup */
@@ -27,6 +46,12 @@ VALUES (1342365355,   1,   33554433) /* Setup */
      , (1342365355,   3,  536870913) /* SoundTable */
      , (1342365355,   6,   67108990) /* PaletteBase */
      , (1342365355,   8,  100667446) /* Icon */
+     , (1342365355,   9,   83890485) /* EyesTexture */
+     , (1342365355,  10,   83890562) /* NoseTexture */
+     , (1342365355,  11,   83890659) /* MouthTexture */
+     , (1342365355,  15,   67109603) /* HairPalette */
+     , (1342365355,  16,   67110063) /* EyesPalette */
+     , (1342365355,  17,   67109557) /* SkinPalette */
      , (1342365355,  22,  872415236) /* PhysicsEffectTable */
      , (1342365355, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342365355, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
@@ -35,8 +60,8 @@ VALUES (1342365355,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1342365355, 1, 3111059485, 86.53087, 109.271, 17.80971, -0.5731308, 0, 0, -0.8194639) /* Location */
 /* @teleloc 0xB96F001D [86.530870 109.271000 17.809710] -0.573131 0.000000 0.000000 -0.819464 */
-     , (1342365355, 8040, 3144745006, 127, 127, 10.005, 1, 0, 0, 0) /* PCAPRecordedLocation */
-/* @teleloc 0xBB71002E [127.000000 127.000000 10.005000] 1.000000 0.000000 0.000000 0.000000 */;
+     , (1342365355, 8040, 3111059485, 84.22362, 107.8267, 18.51741, 0.2373908, 0, 0, -0.9714143) /* PCAPRecordedLocation */
+/* @teleloc 0xB96F001D [84.223620 107.826700 18.517410] 0.237391 0.000000 0.000000 -0.971414 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342365355,  26, 1342477242) /* Monarch */

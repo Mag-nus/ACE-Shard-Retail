@@ -35,6 +35,7 @@ VALUES (1343235635,   1, True ) /* Stuck */
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343235635,   1, 'Reddee') /* Name */
+     , (1343235635,  10, 'Xp') /* Fellowship */
      , (1343235635,  21, 'Marquise Dystra') /* MonarchsTitle */
      , (1343235635,  35, 'Count Tradnor Jr') /* PatronsTitle */
      , (1343235635,  47, 'Rangers of Anla''Shok') /* AllegianceName */;

@@ -3,11 +3,26 @@ VALUES (1342389137, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342389137,   1,         16) /* ItemType - Creature */
+     , (1342389137,   2,         31) /* CreatureType - Human */
      , (1342389137,   6,        102) /* ItemsCapacity */
      , (1342389137,   7,          8) /* ContainersCapacity */
      , (1342389137,  16,          1) /* ItemUseable - No */
+     , (1342389137,  25,        275) /* Level */
+     , (1342389137,  30,          3) /* AllegianceRank */
      , (1342389137,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1342389137, 113,          1) /* Gender - Male */
+     , (1342389137, 125,   10621152) /* Age */
      , (1342389137, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342389137, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342389137, 188,          1) /* HeritageGroup - Aluvian */
+     , (1342389137, 261,        502) /* CharacterTitleId */
+     , (1342389137, 307,         26) /* DamageRating */
+     , (1342389137, 308,          5) /* DamageResistRating */
+     , (1342389137, 313,          1) /* CritRating */
+     , (1342389137, 314,          6) /* CritDamageRating */
+     , (1342389137, 316,          1) /* CritDamageResistRating */
+     , (1342389137, 323,          2) /* HealingBoostRating */
+     , (1342389137, 390,          0) /* Enlightenment */
      , (1342389137, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +34,11 @@ VALUES (1342389137,   1, True ) /* Stuck */
      , (1342389137,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342389137,   1, 'Uber') /* Name */;
+VALUES (1342389137,   1, 'Uber') /* Name */
+     , (1342389137,  21, 'Reeve Victorious Secret') /* MonarchsTitle */
+     , (1342389137,  35, 'Reeve Victorious Secret') /* PatronsTitle */
+     , (1342389137,  43, '11 April 2000') /* DateOfBirth */
+     , (1342389137,  47, 'Victorious') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342389137,   1,   33554433) /* Setup */
@@ -27,6 +46,12 @@ VALUES (1342389137,   1,   33554433) /* Setup */
      , (1342389137,   3,  536870913) /* SoundTable */
      , (1342389137,   6,   67108990) /* PaletteBase */
      , (1342389137,   8,  100667446) /* Icon */
+     , (1342389137,   9,   83890451) /* EyesTexture */
+     , (1342389137,  10,   83890548) /* NoseTexture */
+     , (1342389137,  11,   83890633) /* MouthTexture */
+     , (1342389137,  15,   67109618) /* HairPalette */
+     , (1342389137,  16,   67109564) /* EyesPalette */
+     , (1342389137,  17,   67109558) /* SkinPalette */
      , (1342389137,  22,  872415236) /* PhysicsEffectTable */
      , (1342389137, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342389137, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

@@ -12,7 +12,7 @@ VALUES (1343205700,   1,         16) /* ItemType - Creature */
      , (1343205700,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1343205700, 113,          2) /* Gender - Female */
      , (1343205700, 133,          4) /* ShowableOnRadar - ShowAlways */
-     , (1343205700, 134,         64) /* PlayerKillerStatus - PKLite */
+     , (1343205700, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343205700, 188,          6) /* HeritageGroup - Gearknight */
      , (1343205700, 261,         11) /* CharacterTitleId */
      , (1343205700, 307,          5) /* DamageRating */
@@ -33,6 +33,7 @@ VALUES (1343205700,  39, 1.10000002384186) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343205700,   1, 'Verdantium') /* Name */
+     , (1343205700,  10, 'Aaf') /* Fellowship */
      , (1343205700,  21, 'Mushir Eminent') /* MonarchsTitle */
      , (1343205700,  35, 'Banner Viamonticus') /* PatronsTitle */;
 

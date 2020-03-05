@@ -3,11 +3,20 @@ VALUES (1343174001, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343174001,   1,         16) /* ItemType - Creature */
+     , (1343174001,   2,         31) /* CreatureType - Human */
      , (1343174001,   6,        102) /* ItemsCapacity */
      , (1343174001,   7,          7) /* ContainersCapacity */
      , (1343174001,  16,          1) /* ItemUseable - No */
+     , (1343174001,  25,        214) /* Level */
+     , (1343174001,  30,          4) /* AllegianceRank */
+     , (1343174001,  35,         23) /* AllegianceFollowers */
      , (1343174001,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343174001, 113,          1) /* Gender - Male */
      , (1343174001, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343174001, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343174001, 188,          2) /* HeritageGroup - Gharundim */
+     , (1343174001, 261,        646) /* CharacterTitleId */
+     , (1343174001, 390,          0) /* Enlightenment */
      , (1343174001, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +28,9 @@ VALUES (1343174001,   1, True ) /* Stuck */
      , (1343174001,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343174001,   1, 'Sentori') /* Name */;
+VALUES (1343174001,   1, 'Sentori') /* Name */
+     , (1343174001,  10, 'Asd') /* Fellowship */
+     , (1343174001,  47, 'Decorus Hall') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343174001,   1,   33554433) /* Setup */
@@ -27,6 +38,12 @@ VALUES (1343174001,   1,   33554433) /* Setup */
      , (1343174001,   3,  536870913) /* SoundTable */
      , (1343174001,   6,   67108990) /* PaletteBase */
      , (1343174001,   8,  100667446) /* Icon */
+     , (1343174001,   9,   83890484) /* EyesTexture */
+     , (1343174001,  10,   83890539) /* NoseTexture */
+     , (1343174001,  11,   83890638) /* MouthTexture */
+     , (1343174001,  15,   67117016) /* HairPalette */
+     , (1343174001,  16,   67110063) /* EyesPalette */
+     , (1343174001,  17,   67109552) /* SkinPalette */
      , (1343174001,  22,  872415236) /* PhysicsEffectTable */
      , (1343174001, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343174001, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

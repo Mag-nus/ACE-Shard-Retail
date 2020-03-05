@@ -12,7 +12,7 @@ VALUES (1343176282,   1,         16) /* ItemType - Creature */
      , (1343176282,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1343176282, 113,          1) /* Gender - Male */
      , (1343176282, 133,          4) /* ShowableOnRadar - ShowAlways */
-     , (1343176282, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343176282, 134,         64) /* PlayerKillerStatus - PKLite */
      , (1343176282, 188,          9) /* HeritageGroup - Empyrean */
      , (1343176282, 261,        646) /* CharacterTitleId */
      , (1343176282, 281,          2) /* Faction1Bits */

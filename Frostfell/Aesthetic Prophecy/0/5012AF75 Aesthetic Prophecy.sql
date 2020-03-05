@@ -3,11 +3,27 @@ VALUES (1343401845, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343401845,   1,         16) /* ItemType - Creature */
+     , (1343401845,   2,         31) /* CreatureType - Human */
      , (1343401845,   6,        102) /* ItemsCapacity */
      , (1343401845,   7,          8) /* ContainersCapacity */
      , (1343401845,  16,          1) /* ItemUseable - No */
+     , (1343401845,  25,        275) /* Level */
+     , (1343401845,  30,          7) /* AllegianceRank */
      , (1343401845,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343401845, 113,          1) /* Gender - Male */
      , (1343401845, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343401845, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343401845, 188,          1) /* HeritageGroup - Aluvian */
+     , (1343401845, 261,        888) /* CharacterTitleId */
+     , (1343401845, 281,          4) /* Faction1Bits */
+     , (1343401845, 289,          1) /* SocietyRankRadblo */
+     , (1343401845, 307,         14) /* DamageRating */
+     , (1343401845, 308,         32) /* DamageResistRating */
+     , (1343401845, 313,          1) /* CritRating */
+     , (1343401845, 314,          8) /* CritDamageRating */
+     , (1343401845, 316,          5) /* CritDamageResistRating */
+     , (1343401845, 323,          4) /* HealingBoostRating */
+     , (1343401845, 390,          0) /* Enlightenment */
      , (1343401845, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +35,11 @@ VALUES (1343401845,   1, True ) /* Stuck */
      , (1343401845,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343401845,   1, 'Aesthetic Prophecy') /* Name */;
+VALUES (1343401845,   1, 'Aesthetic Prophecy') /* Name */
+     , (1343401845,  10, 'Rrrr') /* Fellowship */
+     , (1343401845,  21, 'Ou Sausage Javelins') /* MonarchsTitle */
+     , (1343401845,  35, 'Duke Xass') /* PatronsTitle */
+     , (1343401845,  47, 'R o G') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343401845,   1,   33554433) /* Setup */
@@ -27,6 +47,12 @@ VALUES (1343401845,   1,   33554433) /* Setup */
      , (1343401845,   3,  536870913) /* SoundTable */
      , (1343401845,   6,   67108990) /* PaletteBase */
      , (1343401845,   8,  100667446) /* Icon */
+     , (1343401845,   9,   83890496) /* EyesTexture */
+     , (1343401845,  10,   83890555) /* NoseTexture */
+     , (1343401845,  11,   83890627) /* MouthTexture */
+     , (1343401845,  15,   67117028) /* HairPalette */
+     , (1343401845,  16,   67110064) /* EyesPalette */
+     , (1343401845,  17,   67109561) /* SkinPalette */
      , (1343401845,  22,  872415236) /* PhysicsEffectTable */
      , (1343401845, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343401845, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

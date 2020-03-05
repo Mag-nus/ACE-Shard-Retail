@@ -12,7 +12,7 @@ VALUES (1342534083,   1,         16) /* ItemType - Creature */
      , (1342534083,  43,         42) /* NumDeaths */
      , (1342534083,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
      , (1342534083, 113,          1) /* Gender - Male */
-     , (1342534083, 125,     552020) /* Age */
+     , (1342534083, 125,     552025) /* Age */
      , (1342534083, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342534083, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342534083, 188,          1) /* HeritageGroup - Aluvian */

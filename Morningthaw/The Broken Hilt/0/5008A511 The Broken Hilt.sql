@@ -3,11 +3,29 @@ VALUES (1342743825, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342743825,   1,         16) /* ItemType - Creature */
+     , (1342743825,   2,         31) /* CreatureType - Human */
      , (1342743825,   6,        102) /* ItemsCapacity */
      , (1342743825,   7,          8) /* ContainersCapacity */
      , (1342743825,  16,          1) /* ItemUseable - No */
+     , (1342743825,  25,        275) /* Level */
+     , (1342743825,  30,          1) /* AllegianceRank */
      , (1342743825,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1342743825, 113,          1) /* Gender - Male */
      , (1342743825, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342743825, 134,         64) /* PlayerKillerStatus - PKLite */
+     , (1342743825, 188,          1) /* HeritageGroup - Aluvian */
+     , (1342743825, 261,        878) /* CharacterTitleId */
+     , (1342743825, 281,          2) /* Faction1Bits */
+     , (1342743825, 288,       1001) /* SocietyRankEldweb */
+     , (1342743825, 307,         46) /* DamageRating */
+     , (1342743825, 308,         19) /* DamageResistRating */
+     , (1342743825, 313,          1) /* CritRating */
+     , (1342743825, 314,         24) /* CritDamageRating */
+     , (1342743825, 316,          8) /* CritDamageResistRating */
+     , (1342743825, 323,          7) /* HealingBoostRating */
+     , (1342743825, 381,          1) /* PKDamageRating */
+     , (1342743825, 382,          2) /* PKDamageResistRating */
+     , (1342743825, 390,          0) /* Enlightenment */
      , (1342743825, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +37,10 @@ VALUES (1342743825,   1, True ) /* Stuck */
      , (1342743825,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342743825,   1, 'The Broken Hilt') /* Name */;
+VALUES (1342743825,   1, 'The Broken Hilt') /* Name */
+     , (1342743825,  21, 'High King He who is called I Am') /* MonarchsTitle */
+     , (1342743825,  35, 'Count The Hand of Doom') /* PatronsTitle */
+     , (1342743825,  47, 'Untalented Circus Midgets') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342743825,   1,   33554433) /* Setup */
@@ -27,6 +48,12 @@ VALUES (1342743825,   1,   33554433) /* Setup */
      , (1342743825,   3,  536870913) /* SoundTable */
      , (1342743825,   6,   67108990) /* PaletteBase */
      , (1342743825,   8,  100667446) /* Icon */
+     , (1342743825,   9,   83890485) /* EyesTexture */
+     , (1342743825,  10,   83890558) /* NoseTexture */
+     , (1342743825,  11,   83890643) /* MouthTexture */
+     , (1342743825,  15,   67116980) /* HairPalette */
+     , (1342743825,  16,   67109566) /* EyesPalette */
+     , (1342743825,  17,   67109558) /* SkinPalette */
      , (1342743825,  22,  872415236) /* PhysicsEffectTable */
      , (1342743825, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342743825, 8003,         60) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable, PlayerKiller */

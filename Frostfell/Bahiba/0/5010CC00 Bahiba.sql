@@ -3,11 +3,27 @@ VALUES (1343278080, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343278080,   1,         16) /* ItemType - Creature */
+     , (1343278080,   2,         31) /* CreatureType - Human */
      , (1343278080,   6,        102) /* ItemsCapacity */
      , (1343278080,   7,          8) /* ContainersCapacity */
      , (1343278080,  16,          1) /* ItemUseable - No */
+     , (1343278080,  25,        275) /* Level */
+     , (1343278080,  30,          3) /* AllegianceRank */
      , (1343278080,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343278080, 113,          1) /* Gender - Male */
      , (1343278080, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343278080, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343278080, 188,          3) /* HeritageGroup - Sho */
+     , (1343278080, 261,        536) /* CharacterTitleId */
+     , (1343278080, 281,          2) /* Faction1Bits */
+     , (1343278080, 288,        375) /* SocietyRankEldweb */
+     , (1343278080, 307,         21) /* DamageRating */
+     , (1343278080, 308,          8) /* DamageResistRating */
+     , (1343278080, 313,          1) /* CritRating */
+     , (1343278080, 314,         13) /* CritDamageRating */
+     , (1343278080, 316,          7) /* CritDamageResistRating */
+     , (1343278080, 323,          6) /* HealingBoostRating */
+     , (1343278080, 390,          0) /* Enlightenment */
      , (1343278080, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +35,10 @@ VALUES (1343278080,   1, True ) /* Stuck */
      , (1343278080,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343278080,   1, 'Bahiba') /* Name */;
+VALUES (1343278080,   1, 'Bahiba') /* Name */
+     , (1343278080,  21, 'Jo-ou Tika Waylen') /* MonarchsTitle */
+     , (1343278080,  35, 'Thane Hanniki') /* PatronsTitle */
+     , (1343278080,  47, 'The Dragon Moon Clan') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343278080,   1,   33554433) /* Setup */
@@ -27,6 +46,12 @@ VALUES (1343278080,   1,   33554433) /* Setup */
      , (1343278080,   3,  536870913) /* SoundTable */
      , (1343278080,   6,   67108990) /* PaletteBase */
      , (1343278080,   8,  100667446) /* Icon */
+     , (1343278080,   9,   83890443) /* EyesTexture */
+     , (1343278080,  10,   83890528) /* NoseTexture */
+     , (1343278080,  11,   83890568) /* MouthTexture */
+     , (1343278080,  15,   67109614) /* HairPalette */
+     , (1343278080,  16,   67109565) /* EyesPalette */
+     , (1343278080,  17,   67110059) /* SkinPalette */
      , (1343278080,  22,  872415236) /* PhysicsEffectTable */
      , (1343278080, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343278080, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

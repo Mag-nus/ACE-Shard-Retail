@@ -14,8 +14,6 @@ VALUES (1344175015,   1,         16) /* ItemType - Creature */
      , (1344175015, 134,          2) /* PlayerKillerStatus - NPK */
      , (1344175015, 188,          6) /* HeritageGroup - Gearknight */
      , (1344175015, 261,          9) /* CharacterTitleId */
-     , (1344175015, 307,          5) /* DamageRating */
-     , (1344175015, 308,          3) /* DamageResistRating */
      , (1344175015, 390,          0) /* Enlightenment */
      , (1344175015, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 

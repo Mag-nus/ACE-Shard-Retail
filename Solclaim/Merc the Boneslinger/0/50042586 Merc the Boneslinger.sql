@@ -3,11 +3,26 @@ VALUES (1342449030, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342449030,   1,         16) /* ItemType - Creature */
+     , (1342449030,   2,         31) /* CreatureType - Human */
      , (1342449030,   6,        102) /* ItemsCapacity */
      , (1342449030,   7,          8) /* ContainersCapacity */
      , (1342449030,  16,          1) /* ItemUseable - No */
+     , (1342449030,  25,        275) /* Level */
+     , (1342449030,  30,          6) /* AllegianceRank */
      , (1342449030,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1342449030, 113,          1) /* Gender - Male */
      , (1342449030, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342449030, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342449030, 188,          1) /* HeritageGroup - Aluvian */
+     , (1342449030, 261,        447) /* CharacterTitleId */
+     , (1342449030, 262,         86) /* NumCharacterTitles */
+     , (1342449030, 281,          1) /* Faction1Bits */
+     , (1342449030, 287,       1001) /* SocietyRankCelhan */
+     , (1342449030, 307,         12) /* DamageRating */
+     , (1342449030, 308,          6) /* DamageResistRating */
+     , (1342449030, 313,          1) /* CritRating */
+     , (1342449030, 314,          6) /* CritDamageRating */
+     , (1342449030, 390,          0) /* Enlightenment */
      , (1342449030, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +34,10 @@ VALUES (1342449030,   1, True ) /* Stuck */
      , (1342449030,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342449030,   1, 'Merc the Boneslinger') /* Name */;
+VALUES (1342449030,   1, 'Merc the Boneslinger') /* Name */
+     , (1342449030,  21, 'Aetheling Ion Storm') /* MonarchsTitle */
+     , (1342449030,  35, 'Qadiya Ethereal Power') /* PatronsTitle */
+     , (1342449030,  47, 'Riders on the Storm') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342449030,   1,   33554433) /* Setup */
@@ -27,6 +45,12 @@ VALUES (1342449030,   1,   33554433) /* Setup */
      , (1342449030,   3,  536870913) /* SoundTable */
      , (1342449030,   6,   67108990) /* PaletteBase */
      , (1342449030,   8,  100667446) /* Icon */
+     , (1342449030,   9,   83890451) /* EyesTexture */
+     , (1342449030,  10,   83890548) /* NoseTexture */
+     , (1342449030,  11,   83890630) /* MouthTexture */
+     , (1342449030,  15,   67109638) /* HairPalette */
+     , (1342449030,  16,   67109564) /* EyesPalette */
+     , (1342449030,  17,   67109561) /* SkinPalette */
      , (1342449030,  22,  872415236) /* PhysicsEffectTable */
      , (1342449030, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342449030, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

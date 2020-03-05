@@ -3,11 +3,23 @@ VALUES (1343396220, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343396220,   1,         16) /* ItemType - Creature */
+     , (1343396220,   2,         31) /* CreatureType - Human */
      , (1343396220,   6,        102) /* ItemsCapacity */
      , (1343396220,   7,          7) /* ContainersCapacity */
      , (1343396220,  16,          1) /* ItemUseable - No */
+     , (1343396220,  25,        275) /* Level */
+     , (1343396220,  30,          2) /* AllegianceRank */
+     , (1343396220,  35,         23) /* AllegianceFollowers */
+     , (1343396220,  43,         28) /* NumDeaths */
      , (1343396220,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343396220, 113,          1) /* Gender - Male */
+     , (1343396220, 125,    7551530) /* Age */
      , (1343396220, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343396220, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343396220, 188,          2) /* HeritageGroup - Gharundim */
+     , (1343396220, 261,        517) /* CharacterTitleId */
+     , (1343396220, 262,         18) /* NumCharacterTitles */
+     , (1343396220, 390,          0) /* Enlightenment */
      , (1343396220, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +31,8 @@ VALUES (1343396220,   1, True ) /* Stuck */
      , (1343396220,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343396220,   1, 'Mooy') /* Name */;
+VALUES (1343396220,   1, 'Mooy') /* Name */
+     , (1343396220,  43, '16 April 2014') /* DateOfBirth */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343396220,   1,   33554433) /* Setup */
@@ -27,6 +40,12 @@ VALUES (1343396220,   1,   33554433) /* Setup */
      , (1343396220,   3,  536870913) /* SoundTable */
      , (1343396220,   6,   67108990) /* PaletteBase */
      , (1343396220,   8,  100667446) /* Icon */
+     , (1343396220,   9,   83890483) /* EyesTexture */
+     , (1343396220,  10,   83890539) /* NoseTexture */
+     , (1343396220,  11,   83890623) /* MouthTexture */
+     , (1343396220,  15,   67117022) /* HairPalette */
+     , (1343396220,  16,   67109567) /* EyesPalette */
+     , (1343396220,  17,   67109553) /* SkinPalette */
      , (1343396220,  22,  872415236) /* PhysicsEffectTable */
      , (1343396220, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343396220, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

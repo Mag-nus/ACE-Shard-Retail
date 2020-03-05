@@ -9,7 +9,7 @@ VALUES (1343241155,   1,         16) /* ItemType - Creature */
      , (1343241155,  16,          1) /* ItemUseable - No */
      , (1343241155,  25,         74) /* Level */
      , (1343241155,  30,          2) /* AllegianceRank */
-     , (1343241155,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343241155,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
      , (1343241155, 113,          2) /* Gender - Female */
      , (1343241155, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343241155, 134,          2) /* PlayerKillerStatus - NPK */
@@ -21,7 +21,7 @@ VALUES (1343241155,   1,         16) /* ItemType - Creature */
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1343241155,   1, True ) /* Stuck */
-     , (1343241155,  12, True ) /* ReportCollisions */
+     , (1343241155,  11, True ) /* IgnoreCollisions */
      , (1343241155,  13, False) /* Ethereal */
      , (1343241155,  14, True ) /* GravityStatus */
      , (1343241155,  19, True ) /* Attackable */

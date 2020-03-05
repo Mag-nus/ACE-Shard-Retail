@@ -7,21 +7,32 @@ VALUES (1343393173,   1,         16) /* ItemType - Creature */
      , (1343393173,   6,        102) /* ItemsCapacity */
      , (1343393173,   7,          8) /* ContainersCapacity */
      , (1343393173,  16,          1) /* ItemUseable - No */
+     , (1343393173,  25,        275) /* Level */
      , (1343393173,  30,          7) /* AllegianceRank */
-     , (1343393173,  35,       1208) /* AllegianceFollowers */
-     , (1343393173,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343393173,  35,       1172) /* AllegianceFollowers */
+     , (1343393173,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1343393173, 113,          1) /* Gender - Male */
      , (1343393173, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343393173, 134,          4) /* PlayerKillerStatus - PK */
      , (1343393173, 188,          3) /* HeritageGroup - Sho */
      , (1343393173, 261,        893) /* CharacterTitleId */
      , (1343393173, 262,        144) /* NumCharacterTitles */
+     , (1343393173, 281,          4) /* Faction1Bits */
+     , (1343393173, 289,       1001) /* SocietyRankRadblo */
+     , (1343393173, 307,         34) /* DamageRating */
+     , (1343393173, 308,         13) /* DamageResistRating */
+     , (1343393173, 313,          1) /* CritRating */
+     , (1343393173, 314,         28) /* CritDamageRating */
+     , (1343393173, 316,         12) /* CritDamageResistRating */
+     , (1343393173, 323,          9) /* HealingBoostRating */
+     , (1343393173, 381,          5) /* PKDamageRating */
+     , (1343393173, 382,          5) /* PKDamageResistRating */
      , (1343393173, 390,          5) /* Enlightenment */
      , (1343393173, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1343393173,   1, True ) /* Stuck */
-     , (1343393173,  11, True ) /* IgnoreCollisions */
+     , (1343393173,  12, True ) /* ReportCollisions */
      , (1343393173,  13, False) /* Ethereal */
      , (1343393173,  14, True ) /* GravityStatus */
      , (1343393173,  19, True ) /* Attackable */
@@ -52,8 +63,8 @@ VALUES (1343393173,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343393173, 1, 2847145987, 17.05804, 60.38694, 78.005, -0.1050603, 0, 0, -0.9944658) /* Location */
 /* @teleloc 0xA9B40003 [17.058040 60.386940 78.005000] -0.105060 0.000000 0.000000 -0.994466 */
-     , (1343393173, 8040, 2847146009, 84, 7.1, 94.005, 0.9969173, 0, 0, -0.0784591) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B40019 [84.000000 7.100000 94.005000] 0.996917 0.000000 0.000000 -0.078459 */;
+     , (1343393173, 8040, 2847145987, 19.39447, 71.95259, 78.005, 0.006521623, 0, 0, -0.9999787) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B40003 [19.394470 71.952590 78.005000] 0.006522 0.000000 0.000000 -0.999979 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343393173,  26, 1343393173) /* Monarch */

@@ -3,11 +3,23 @@ VALUES (1343181848, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343181848,   1,         16) /* ItemType - Creature */
+     , (1343181848,   2,         31) /* CreatureType - Human */
      , (1343181848,   6,        102) /* ItemsCapacity */
      , (1343181848,   7,          7) /* ContainersCapacity */
      , (1343181848,  16,          1) /* ItemUseable - No */
+     , (1343181848,  25,        275) /* Level */
+     , (1343181848,  30,          2) /* AllegianceRank */
      , (1343181848,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343181848, 113,          1) /* Gender - Male */
      , (1343181848, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343181848, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343181848, 188,          3) /* HeritageGroup - Sho */
+     , (1343181848, 261,          1) /* CharacterTitleId */
+     , (1343181848, 307,          5) /* DamageRating */
+     , (1343181848, 314,          2) /* CritDamageRating */
+     , (1343181848, 316,          1) /* CritDamageResistRating */
+     , (1343181848, 323,          1) /* HealingBoostRating */
+     , (1343181848, 390,          0) /* Enlightenment */
      , (1343181848, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +31,9 @@ VALUES (1343181848,   1, True ) /* Stuck */
      , (1343181848,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343181848,   1, 'Oni''Kaige Og') /* Name */;
+VALUES (1343181848,   1, 'Oni''Kaige Og') /* Name */
+     , (1343181848,  21, 'Amir Strife') /* MonarchsTitle */
+     , (1343181848,  35, 'Nan-chueh Oni''kaige II') /* PatronsTitle */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343181848,   1,   33554433) /* Setup */
@@ -27,6 +41,12 @@ VALUES (1343181848,   1,   33554433) /* Setup */
      , (1343181848,   3,  536870913) /* SoundTable */
      , (1343181848,   6,   67108990) /* PaletteBase */
      , (1343181848,   8,  100667446) /* Icon */
+     , (1343181848,   9,   83890446) /* EyesTexture */
+     , (1343181848,  10,   83890520) /* NoseTexture */
+     , (1343181848,  11,   83890630) /* MouthTexture */
+     , (1343181848,  15,   67117071) /* HairPalette */
+     , (1343181848,  16,   67109565) /* EyesPalette */
+     , (1343181848,  17,   67110056) /* SkinPalette */
      , (1343181848,  22,  872415236) /* PhysicsEffectTable */
      , (1343181848, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343181848, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

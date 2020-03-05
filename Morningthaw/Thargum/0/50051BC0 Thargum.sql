@@ -3,11 +3,29 @@ VALUES (1342512064, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342512064,   1,         16) /* ItemType - Creature */
+     , (1342512064,   2,         31) /* CreatureType - Human */
      , (1342512064,   6,        102) /* ItemsCapacity */
      , (1342512064,   7,          7) /* ContainersCapacity */
      , (1342512064,  16,          1) /* ItemUseable - No */
+     , (1342512064,  25,        239) /* Level */
+     , (1342512064,  30,          3) /* AllegianceRank */
+     , (1342512064,  43,       2437) /* NumDeaths */
      , (1342512064,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342512064, 113,          1) /* Gender - Male */
+     , (1342512064, 125,   14101526) /* Age */
      , (1342512064, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342512064, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342512064, 181,       1499) /* ChessRank */
+     , (1342512064, 188,          1) /* HeritageGroup - Aluvian */
+     , (1342512064, 192,        170) /* FakeFishingSkill */
+     , (1342512064, 261,         31) /* CharacterTitleId */
+     , (1342512064, 262,         40) /* NumCharacterTitles */
+     , (1342512064, 307,          6) /* DamageRating */
+     , (1342512064, 308,          6) /* DamageResistRating */
+     , (1342512064, 314,          1) /* CritDamageRating */
+     , (1342512064, 316,          3) /* CritDamageResistRating */
+     , (1342512064, 351,         12) /* LifeResistRating */
+     , (1342512064, 390,          0) /* Enlightenment */
      , (1342512064, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +37,11 @@ VALUES (1342512064,   1, True ) /* Stuck */
      , (1342512064,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342512064,   1, 'Thargum') /* Name */;
+VALUES (1342512064,   1, 'Thargum') /* Name */
+     , (1342512064,  21, 'Taikou Zalante') /* MonarchsTitle */
+     , (1342512064,  35, 'Squire Solo Masterful') /* PatronsTitle */
+     , (1342512064,  43, '03 September 2000') /* DateOfBirth */
+     , (1342512064,  47, 'Collective Company') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342512064,   1,   33554433) /* Setup */
@@ -27,6 +49,12 @@ VALUES (1342512064,   1,   33554433) /* Setup */
      , (1342512064,   3,  536870913) /* SoundTable */
      , (1342512064,   6,   67108990) /* PaletteBase */
      , (1342512064,   8,  100667446) /* Icon */
+     , (1342512064,   9,   83890509) /* EyesTexture */
+     , (1342512064,  10,   83890548) /* NoseTexture */
+     , (1342512064,  11,   83890570) /* MouthTexture */
+     , (1342512064,  15,   67109625) /* HairPalette */
+     , (1342512064,  16,   67110064) /* EyesPalette */
+     , (1342512064,  17,   67109558) /* SkinPalette */
      , (1342512064,  22,  872415236) /* PhysicsEffectTable */
      , (1342512064, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342512064, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

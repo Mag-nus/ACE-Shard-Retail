@@ -3,23 +3,34 @@ VALUES (1342832663, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342832663,   1,         16) /* ItemType - Creature */
+     , (1342832663,   2,         31) /* CreatureType - Human */
      , (1342832663,   6,        102) /* ItemsCapacity */
      , (1342832663,   7,          8) /* ContainersCapacity */
      , (1342832663,  16,          1) /* ItemUseable - No */
-     , (1342832663,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1342832663,  25,        275) /* Level */
+     , (1342832663,  30,          6) /* AllegianceRank */
+     , (1342832663,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342832663, 113,          1) /* Gender - Male */
      , (1342832663, 133,          4) /* ShowableOnRadar - ShowAlways */
-     , (1342832663, 8007,          0) /* PCAPRecordedAutonomousMovement */;
+     , (1342832663, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342832663, 188,          3) /* HeritageGroup - Sho */
+     , (1342832663, 261,        110) /* CharacterTitleId */
+     , (1342832663, 390,          0) /* Enlightenment */
+     , (1342832663, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1342832663,   1, True ) /* Stuck */
-     , (1342832663,  11, True ) /* IgnoreCollisions */
+     , (1342832663,  12, True ) /* ReportCollisions */
      , (1342832663,  13, False) /* Ethereal */
      , (1342832663,  14, True ) /* GravityStatus */
      , (1342832663,  19, True ) /* Attackable */
      , (1342832663,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342832663,   1, 'Keebler I') /* Name */;
+VALUES (1342832663,   1, 'Keebler I') /* Name */
+     , (1342832663,  21, 'Mushir Deadly Warlock') /* MonarchsTitle */
+     , (1342832663,  35, 'Mushir Deadly Warlock') /* PatronsTitle */
+     , (1342832663,  47, 'Keepers of Dereth') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342832663,   1,   33554433) /* Setup */
@@ -27,6 +38,12 @@ VALUES (1342832663,   1,   33554433) /* Setup */
      , (1342832663,   3,  536870913) /* SoundTable */
      , (1342832663,   6,   67108990) /* PaletteBase */
      , (1342832663,   8,  100667446) /* Icon */
+     , (1342832663,   9,   83890451) /* EyesTexture */
+     , (1342832663,  10,   83890555) /* NoseTexture */
+     , (1342832663,  11,   83890638) /* MouthTexture */
+     , (1342832663,  15,   67109629) /* HairPalette */
+     , (1342832663,  16,   67110062) /* EyesPalette */
+     , (1342832663,  17,   67110045) /* SkinPalette */
      , (1342832663,  22,  872415236) /* PhysicsEffectTable */
      , (1342832663, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342832663, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
@@ -35,8 +52,8 @@ VALUES (1342832663,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1342832663, 1, 2103705618, 53.00615, 32.1537, 12.005, 0.89883, 0, 0, -0.4382974) /* Location */
 /* @teleloc 0x7D640012 [53.006150 32.153700 12.005000] 0.898830 0.000000 0.000000 -0.438297 */
-     , (1342832663, 8040, 2103705618, 53.00615, 32.1537, 12.005, 0.89883, 0, 0, -0.4382974) /* PCAPRecordedLocation */
-/* @teleloc 0x7D640012 [53.006150 32.153700 12.005000] 0.898830 0.000000 0.000000 -0.438297 */;
+     , (1342832663, 8040, 20185358, 30.52266, -29.78282, 0.3616209, 0.9999992, 0, 0, -0.001238256) /* PCAPRecordedLocation */
+/* @teleloc 0x0134010E [30.522660 -29.782820 0.361621] 0.999999 0.000000 0.000000 -0.001238 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342832663,  26, 1343031865) /* Monarch */

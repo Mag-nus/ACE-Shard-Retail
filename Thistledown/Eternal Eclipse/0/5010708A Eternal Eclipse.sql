@@ -3,11 +3,27 @@ VALUES (1343254666, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343254666,   1,         16) /* ItemType - Creature */
+     , (1343254666,   2,         31) /* CreatureType - Human */
      , (1343254666,   6,        102) /* ItemsCapacity */
      , (1343254666,   7,          8) /* ContainersCapacity */
      , (1343254666,  16,          1) /* ItemUseable - No */
+     , (1343254666,  25,        275) /* Level */
+     , (1343254666,  30,          1) /* AllegianceRank */
      , (1343254666,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343254666, 113,          2) /* Gender - Female */
      , (1343254666, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343254666, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343254666, 188,         10) /* HeritageGroup - Penumbraen */
+     , (1343254666, 261,          1) /* CharacterTitleId */
+     , (1343254666, 281,          2) /* Faction1Bits */
+     , (1343254666, 288,       1001) /* SocietyRankEldweb */
+     , (1343254666, 307,         10) /* DamageRating */
+     , (1343254666, 308,         34) /* DamageResistRating */
+     , (1343254666, 313,          1) /* CritRating */
+     , (1343254666, 314,         10) /* CritDamageRating */
+     , (1343254666, 316,          8) /* CritDamageResistRating */
+     , (1343254666, 323,          4) /* HealingBoostRating */
+     , (1343254666, 390,          0) /* Enlightenment */
      , (1343254666, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +35,11 @@ VALUES (1343254666,   1, True ) /* Stuck */
      , (1343254666,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343254666,   1, 'Eternal Eclipse') /* Name */;
+VALUES (1343254666,   1, 'Eternal Eclipse') /* Name */
+     , (1343254666,  10, 'Safvsz') /* Fellowship */
+     , (1343254666,  21, 'Malik Tao Roo Chingon II') /* MonarchsTitle */
+     , (1343254666,  35, 'Thane Winter''s Boon') /* PatronsTitle */
+     , (1343254666,  47, 'The Spirits of the Mountain') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343254666,   1,   33560941) /* Setup */
@@ -27,6 +47,12 @@ VALUES (1343254666,   1,   33560941) /* Setup */
      , (1343254666,   3,  536870914) /* SoundTable */
      , (1343254666,   6,   67108990) /* PaletteBase */
      , (1343254666,   8,  100667446) /* Icon */
+     , (1343254666,   9,   83890278) /* EyesTexture */
+     , (1343254666,  10,   83890310) /* NoseTexture */
+     , (1343254666,  11,   83890328) /* MouthTexture */
+     , (1343254666,  15,   67117022) /* HairPalette */
+     , (1343254666,  16,   67116845) /* EyesPalette */
+     , (1343254666,  17,   67116849) /* SkinPalette */
      , (1343254666,  22,  872415433) /* PhysicsEffectTable */
      , (1343254666, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343254666, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

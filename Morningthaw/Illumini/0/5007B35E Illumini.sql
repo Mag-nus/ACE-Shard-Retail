@@ -3,11 +3,28 @@ VALUES (1342681950, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342681950,   1,         16) /* ItemType - Creature */
+     , (1342681950,   2,         31) /* CreatureType - Human */
      , (1342681950,   6,        102) /* ItemsCapacity */
      , (1342681950,   7,          7) /* ContainersCapacity */
      , (1342681950,  16,          1) /* ItemUseable - No */
+     , (1342681950,  25,        261) /* Level */
+     , (1342681950,  30,          1) /* AllegianceRank */
+     , (1342681950,  43,       1462) /* NumDeaths */
      , (1342681950,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1342681950, 113,          1) /* Gender - Male */
+     , (1342681950, 125,   14016885) /* Age */
      , (1342681950, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342681950, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342681950, 181,       1300) /* ChessRank */
+     , (1342681950, 188,          3) /* HeritageGroup - Sho */
+     , (1342681950, 192,         58) /* FakeFishingSkill */
+     , (1342681950, 261,        152) /* CharacterTitleId */
+     , (1342681950, 262,         61) /* NumCharacterTitles */
+     , (1342681950, 307,          9) /* DamageRating */
+     , (1342681950, 308,         10) /* DamageResistRating */
+     , (1342681950, 316,          3) /* CritDamageResistRating */
+     , (1342681950, 323,          1) /* HealingBoostRating */
+     , (1342681950, 390,          0) /* Enlightenment */
      , (1342681950, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +36,11 @@ VALUES (1342681950,   1, True ) /* Stuck */
      , (1342681950,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342681950,   1, 'Illumini') /* Name */;
+VALUES (1342681950,   1, 'Illumini') /* Name */
+     , (1342681950,  21, 'Ou Zitane') /* MonarchsTitle */
+     , (1342681950,  35, 'Squire New Society') /* PatronsTitle */
+     , (1342681950,  43, '12 May 2001') /* DateOfBirth */
+     , (1342681950,  47, 'The Crimson Order') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342681950,   1,   33554433) /* Setup */
@@ -27,6 +48,12 @@ VALUES (1342681950,   1,   33554433) /* Setup */
      , (1342681950,   3,  536870913) /* SoundTable */
      , (1342681950,   6,   67108990) /* PaletteBase */
      , (1342681950,   8,  100667446) /* Icon */
+     , (1342681950,   9,   83890516) /* EyesTexture */
+     , (1342681950,  10,   83890525) /* NoseTexture */
+     , (1342681950,  11,   83890629) /* MouthTexture */
+     , (1342681950,  15,   67109625) /* HairPalette */
+     , (1342681950,  16,   67109565) /* EyesPalette */
+     , (1342681950,  17,   67110049) /* SkinPalette */
      , (1342681950,  22,  872415236) /* PhysicsEffectTable */
      , (1342681950, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342681950, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

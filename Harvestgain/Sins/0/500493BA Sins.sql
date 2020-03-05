@@ -13,7 +13,7 @@ VALUES (1342477242,   1,         16) /* ItemType - Creature */
      , (1342477242,  43,       5755) /* NumDeaths */
      , (1342477242,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1342477242, 113,          1) /* Gender - Male */
-     , (1342477242, 125,   44559366) /* Age */
+     , (1342477242, 125,   44560156) /* Age */
      , (1342477242, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342477242, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342477242, 181,       1442) /* ChessRank */

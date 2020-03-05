@@ -3,11 +3,25 @@ VALUES (1342716519, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342716519,   1,         16) /* ItemType - Creature */
+     , (1342716519,   2,         31) /* CreatureType - Human */
      , (1342716519,   6,        102) /* ItemsCapacity */
      , (1342716519,   7,          7) /* ContainersCapacity */
      , (1342716519,  16,          1) /* ItemUseable - No */
+     , (1342716519,  25,        242) /* Level */
+     , (1342716519,  30,          7) /* AllegianceRank */
+     , (1342716519,  43,         66) /* NumDeaths */
      , (1342716519,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1342716519, 113,          2) /* Gender - Female */
+     , (1342716519, 125,    7127630) /* Age */
      , (1342716519, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342716519, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342716519, 188,          1) /* HeritageGroup - Aluvian */
+     , (1342716519, 261,        140) /* CharacterTitleId */
+     , (1342716519, 262,         10) /* NumCharacterTitles */
+     , (1342716519, 281,          1) /* Faction1Bits */
+     , (1342716519, 287,          1) /* SocietyRankCelhan */
+     , (1342716519, 307,          5) /* DamageRating */
+     , (1342716519, 390,          0) /* Enlightenment */
      , (1342716519, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +33,11 @@ VALUES (1342716519,   1, True ) /* Stuck */
      , (1342716519,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342716519,   1, 'Arabella') /* Name */;
+VALUES (1342716519,   1, 'Arabella') /* Name */
+     , (1342716519,  21, 'Duke Gansal') /* MonarchsTitle */
+     , (1342716519,  35, 'Duke Gansal') /* PatronsTitle */
+     , (1342716519,  43, '20 October 2001') /* DateOfBirth */
+     , (1342716519,  47, 'Order of the New Hope') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342716519,   1,   33554510) /* Setup */
@@ -27,6 +45,12 @@ VALUES (1342716519,   1,   33554510) /* Setup */
      , (1342716519,   3,  536870914) /* SoundTable */
      , (1342716519,   6,   67108990) /* PaletteBase */
      , (1342716519,   8,  100667446) /* Icon */
+     , (1342716519,   9,   83890256) /* EyesTexture */
+     , (1342716519,  10,   83890308) /* NoseTexture */
+     , (1342716519,  11,   83890352) /* MouthTexture */
+     , (1342716519,  15,   67109636) /* HairPalette */
+     , (1342716519,  16,   67110064) /* EyesPalette */
+     , (1342716519,  17,   67109562) /* SkinPalette */
      , (1342716519,  22,  872415236) /* PhysicsEffectTable */
      , (1342716519, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342716519, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

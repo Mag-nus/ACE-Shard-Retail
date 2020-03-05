@@ -8,14 +8,12 @@ VALUES (1343884819,   1,         16) /* ItemType - Creature */
      , (1343884819,   7,          7) /* ContainersCapacity */
      , (1343884819,  16,          1) /* ItemUseable - No */
      , (1343884819,  25,         18) /* Level */
-     , (1343884819,  30,          1) /* AllegianceRank */
      , (1343884819,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1343884819, 113,          1) /* Gender - Male */
      , (1343884819, 133,          4) /* ShowableOnRadar - ShowAlways */
-     , (1343884819, 134,          4) /* PlayerKillerStatus - PK */
+     , (1343884819, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343884819, 188,          4) /* HeritageGroup - Viamontian */
      , (1343884819, 261,          1) /* CharacterTitleId */
-     , (1343884819, 307,          5) /* DamageRating */
      , (1343884819, 390,          0) /* Enlightenment */
      , (1343884819, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
@@ -29,9 +27,7 @@ VALUES (1343884819,   1, True ) /* Stuck */
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343884819,   1, 'A Wilhelm Scream') /* Name */
-     , (1343884819,  10, 'Asfd') /* Fellowship */
-     , (1343884819,  21, 'Kun-chueh Truekilla') /* MonarchsTitle */
-     , (1343884819,  35, 'Yeoman I got keys and mmd''z') /* PatronsTitle */;
+     , (1343884819,  10, 'Asfd') /* Fellowship */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343884819,   1,   33554433) /* Setup */

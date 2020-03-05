@@ -3,11 +3,21 @@ VALUES (1342718951, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342718951,   1,         16) /* ItemType - Creature */
+     , (1342718951,   2,         31) /* CreatureType - Human */
      , (1342718951,   6,        102) /* ItemsCapacity */
      , (1342718951,   7,          7) /* ContainersCapacity */
      , (1342718951,  16,          1) /* ItemUseable - No */
+     , (1342718951,  25,        174) /* Level */
+     , (1342718951,  30,          4) /* AllegianceRank */
      , (1342718951,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342718951, 113,          1) /* Gender - Male */
+     , (1342718951, 125,    7572005) /* Age */
      , (1342718951, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342718951, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342718951, 188,          1) /* HeritageGroup - Aluvian */
+     , (1342718951, 261,         66) /* CharacterTitleId */
+     , (1342718951, 307,          5) /* DamageRating */
+     , (1342718951, 390,          0) /* Enlightenment */
      , (1342718951, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +29,12 @@ VALUES (1342718951,   1, True ) /* Stuck */
      , (1342718951,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342718951,   1, 'Ashren') /* Name */;
+VALUES (1342718951,   1, 'Ashren') /* Name */
+     , (1342718951,  10, 'Memories') /* Fellowship */
+     , (1342718951,  21, 'High King Mr Adventure') /* MonarchsTitle */
+     , (1342718951,  35, 'Ta-chueh Dan Harmony') /* PatronsTitle */
+     , (1342718951,  43, '15 July 2001') /* DateOfBirth */
+     , (1342718951,  47, 'Knights of Fortune') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342718951,   1,   33554433) /* Setup */
@@ -27,6 +42,12 @@ VALUES (1342718951,   1,   33554433) /* Setup */
      , (1342718951,   3,  536870913) /* SoundTable */
      , (1342718951,   6,   67108990) /* PaletteBase */
      , (1342718951,   8,  100667446) /* Icon */
+     , (1342718951,   9,   83890511) /* EyesTexture */
+     , (1342718951,  10,   83890558) /* NoseTexture */
+     , (1342718951,  11,   83890658) /* MouthTexture */
+     , (1342718951,  15,   67109603) /* HairPalette */
+     , (1342718951,  16,   67110064) /* EyesPalette */
+     , (1342718951,  17,   67109561) /* SkinPalette */
      , (1342718951,  22,  872415236) /* PhysicsEffectTable */
      , (1342718951, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342718951, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

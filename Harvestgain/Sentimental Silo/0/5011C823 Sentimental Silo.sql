@@ -3,11 +3,27 @@ VALUES (1343342627, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343342627,   1,         16) /* ItemType - Creature */
+     , (1343342627,   2,         31) /* CreatureType - Human */
      , (1343342627,   6,        102) /* ItemsCapacity */
      , (1343342627,   7,          8) /* ContainersCapacity */
      , (1343342627,  16,          1) /* ItemUseable - No */
+     , (1343342627,  25,        275) /* Level */
+     , (1343342627,  30,          1) /* AllegianceRank */
      , (1343342627,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343342627, 113,          1) /* Gender - Male */
      , (1343342627, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343342627, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343342627, 188,          1) /* HeritageGroup - Aluvian */
+     , (1343342627, 261,          1) /* CharacterTitleId */
+     , (1343342627, 281,          1) /* Faction1Bits */
+     , (1343342627, 287,         70) /* SocietyRankCelhan */
+     , (1343342627, 307,         25) /* DamageRating */
+     , (1343342627, 308,         26) /* DamageResistRating */
+     , (1343342627, 313,          1) /* CritRating */
+     , (1343342627, 314,         11) /* CritDamageRating */
+     , (1343342627, 316,          6) /* CritDamageResistRating */
+     , (1343342627, 323,          4) /* HealingBoostRating */
+     , (1343342627, 390,          0) /* Enlightenment */
      , (1343342627, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +35,11 @@ VALUES (1343342627,   1, True ) /* Stuck */
      , (1343342627,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343342627,   1, 'Sentimental Silo') /* Name */;
+VALUES (1343342627,   1, 'Sentimental Silo') /* Name */
+     , (1343342627,  10, 'Stbstb') /* Fellowship */
+     , (1343342627,  21, 'Malika Legend of Cragstone') /* MonarchsTitle */
+     , (1343342627,  35, 'Praefectus Dark Gear Knight') /* PatronsTitle */
+     , (1343342627,  47, 'The Legends of Cragstone') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343342627,   1,   33554433) /* Setup */
@@ -27,6 +47,12 @@ VALUES (1343342627,   1,   33554433) /* Setup */
      , (1343342627,   3,  536870913) /* SoundTable */
      , (1343342627,   6,   67108990) /* PaletteBase */
      , (1343342627,   8,  100667446) /* Icon */
+     , (1343342627,   9,   83890509) /* EyesTexture */
+     , (1343342627,  10,   83890561) /* NoseTexture */
+     , (1343342627,  11,   83890589) /* MouthTexture */
+     , (1343342627,  15,   67116998) /* HairPalette */
+     , (1343342627,  16,   67109564) /* EyesPalette */
+     , (1343342627,  17,   67109562) /* SkinPalette */
      , (1343342627,  22,  872415236) /* PhysicsEffectTable */
      , (1343342627, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343342627, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

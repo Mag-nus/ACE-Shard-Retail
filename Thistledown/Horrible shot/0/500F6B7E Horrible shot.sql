@@ -3,11 +3,26 @@ VALUES (1343187838, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343187838,   1,         16) /* ItemType - Creature */
+     , (1343187838,   2,         31) /* CreatureType - Human */
      , (1343187838,   6,        102) /* ItemsCapacity */
      , (1343187838,   7,          7) /* ContainersCapacity */
      , (1343187838,  16,          1) /* ItemUseable - No */
+     , (1343187838,  25,        275) /* Level */
+     , (1343187838,  30,          2) /* AllegianceRank */
      , (1343187838,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343187838, 113,          1) /* Gender - Male */
      , (1343187838, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343187838, 134,         64) /* PlayerKillerStatus - PKLite */
+     , (1343187838, 188,          1) /* HeritageGroup - Aluvian */
+     , (1343187838, 261,        448) /* CharacterTitleId */
+     , (1343187838, 281,          1) /* Faction1Bits */
+     , (1343187838, 287,        595) /* SocietyRankCelhan */
+     , (1343187838, 307,         15) /* DamageRating */
+     , (1343187838, 308,          4) /* DamageResistRating */
+     , (1343187838, 314,          4) /* CritDamageRating */
+     , (1343187838, 316,          3) /* CritDamageResistRating */
+     , (1343187838, 351,         36) /* LifeResistRating */
+     , (1343187838, 390,          0) /* Enlightenment */
      , (1343187838, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +34,10 @@ VALUES (1343187838,   1, True ) /* Stuck */
      , (1343187838,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343187838,   1, 'Horrible shot') /* Name */;
+VALUES (1343187838,   1, 'Horrible shot') /* Name */
+     , (1343187838,  21, 'Aetheling Icedancer') /* MonarchsTitle */
+     , (1343187838,  35, 'Qadi Josepi') /* PatronsTitle */
+     , (1343187838,  47, 'Obsidian Knights') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343187838,   1,   33554433) /* Setup */
@@ -27,6 +45,12 @@ VALUES (1343187838,   1,   33554433) /* Setup */
      , (1343187838,   3,  536870913) /* SoundTable */
      , (1343187838,   6,   67108990) /* PaletteBase */
      , (1343187838,   8,  100667446) /* Icon */
+     , (1343187838,   9,   83890510) /* EyesTexture */
+     , (1343187838,  10,   83890547) /* NoseTexture */
+     , (1343187838,  11,   83890649) /* MouthTexture */
+     , (1343187838,  15,   67117028) /* HairPalette */
+     , (1343187838,  16,   67109565) /* EyesPalette */
+     , (1343187838,  17,   67109558) /* SkinPalette */
      , (1343187838,  22,  872415236) /* PhysicsEffectTable */
      , (1343187838, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343187838, 8003,   33554460) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable, PkLiteStatus */

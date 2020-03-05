@@ -3,11 +3,27 @@ VALUES (1343199930, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343199930,   1,         16) /* ItemType - Creature */
+     , (1343199930,   2,         31) /* CreatureType - Human */
      , (1343199930,   6,        102) /* ItemsCapacity */
      , (1343199930,   7,          8) /* ContainersCapacity */
      , (1343199930,  16,          1) /* ItemUseable - No */
+     , (1343199930,  25,        275) /* Level */
+     , (1343199930,  30,          2) /* AllegianceRank */
      , (1343199930,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343199930, 113,          1) /* Gender - Male */
      , (1343199930, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343199930, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343199930, 188,          2) /* HeritageGroup - Gharundim */
+     , (1343199930, 261,         10) /* CharacterTitleId */
+     , (1343199930, 281,          4) /* Faction1Bits */
+     , (1343199930, 289,       1001) /* SocietyRankRadblo */
+     , (1343199930, 307,         20) /* DamageRating */
+     , (1343199930, 308,          5) /* DamageResistRating */
+     , (1343199930, 313,          1) /* CritRating */
+     , (1343199930, 314,         12) /* CritDamageRating */
+     , (1343199930, 323,          3) /* HealingBoostRating */
+     , (1343199930, 351,         20) /* LifeResistRating */
+     , (1343199930, 390,          0) /* Enlightenment */
      , (1343199930, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +35,11 @@ VALUES (1343199930,   1, True ) /* Stuck */
      , (1343199930,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343199930,   1, 'Lamest') /* Name */;
+VALUES (1343199930,   1, 'Lamest') /* Name */
+     , (1343199930,  10, 'A') /* Fellowship */
+     , (1343199930,  21, 'Sultana Scarey Mary') /* MonarchsTitle */
+     , (1343199930,  35, 'Maulana Debralyn') /* PatronsTitle */
+     , (1343199930,  47, 'Scarey''s Warriors') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343199930,   1,   33554433) /* Setup */
@@ -27,6 +47,12 @@ VALUES (1343199930,   1,   33554433) /* Setup */
      , (1343199930,   3,  536870913) /* SoundTable */
      , (1343199930,   6,   67108990) /* PaletteBase */
      , (1343199930,   8,  100667446) /* Icon */
+     , (1343199930,   9,   83890465) /* EyesTexture */
+     , (1343199930,  10,   83890539) /* NoseTexture */
+     , (1343199930,  11,   83890629) /* MouthTexture */
+     , (1343199930,  15,   67116991) /* HairPalette */
+     , (1343199930,  16,   67110062) /* EyesPalette */
+     , (1343199930,  17,   67109557) /* SkinPalette */
      , (1343199930,  22,  872415236) /* PhysicsEffectTable */
      , (1343199930, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343199930, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

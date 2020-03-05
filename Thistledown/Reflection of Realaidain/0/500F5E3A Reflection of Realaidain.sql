@@ -3,11 +3,26 @@ VALUES (1343184442, 1, 10, 6738241) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343184442,   1,         16) /* ItemType - Creature */
+     , (1343184442,   2,         31) /* CreatureType - Human */
      , (1343184442,   6,        102) /* ItemsCapacity */
      , (1343184442,   7,          8) /* ContainersCapacity */
      , (1343184442,  16,          1) /* ItemUseable - No */
+     , (1343184442,  25,        275) /* Level */
+     , (1343184442,  30,          3) /* AllegianceRank */
+     , (1343184442,  43,         87) /* NumDeaths */
      , (1343184442,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343184442, 113,          1) /* Gender - Male */
      , (1343184442, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343184442, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343184442, 188,          9) /* HeritageGroup - Empyrean */
+     , (1343184442, 261,         86) /* CharacterTitleId */
+     , (1343184442, 307,         13) /* DamageRating */
+     , (1343184442, 308,         20) /* DamageResistRating */
+     , (1343184442, 313,          1) /* CritRating */
+     , (1343184442, 314,          9) /* CritDamageRating */
+     , (1343184442, 316,          5) /* CritDamageResistRating */
+     , (1343184442, 323,          3) /* HealingBoostRating */
+     , (1343184442, 390,          0) /* Enlightenment */
      , (1343184442, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -22,7 +37,10 @@ INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (1343184442,  39, 1.20000004768372) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343184442,   1, 'Reflection of Realaidain') /* Name */;
+VALUES (1343184442,   1, 'Reflection of Realaidain') /* Name */
+     , (1343184442,  21, 'King Hot Shot''') /* MonarchsTitle */
+     , (1343184442,  35, 'Lieutenant Genesis Rhapsodos') /* PatronsTitle */
+     , (1343184442,  47, 'Neverending Portalstorms') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343184442,   1,   33561110) /* Setup */
@@ -30,6 +48,12 @@ VALUES (1343184442,   1,   33561110) /* Setup */
      , (1343184442,   3,  536870913) /* SoundTable */
      , (1343184442,   6,   67108990) /* PaletteBase */
      , (1343184442,   8,  100667446) /* Icon */
+     , (1343184442,   9,   83890515) /* EyesTexture */
+     , (1343184442,  10,   83890561) /* NoseTexture */
+     , (1343184442,  11,   83890643) /* MouthTexture */
+     , (1343184442,  15,   67109625) /* HairPalette */
+     , (1343184442,  16,   67116856) /* EyesPalette */
+     , (1343184442,  17,   67109561) /* SkinPalette */
      , (1343184442,  22,  872415236) /* PhysicsEffectTable */
      , (1343184442, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343184442, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

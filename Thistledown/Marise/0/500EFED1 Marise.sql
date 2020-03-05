@@ -3,11 +3,28 @@ VALUES (1343160017, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343160017,   1,         16) /* ItemType - Creature */
+     , (1343160017,   2,         31) /* CreatureType - Human */
      , (1343160017,   6,        102) /* ItemsCapacity */
      , (1343160017,   7,          8) /* ContainersCapacity */
      , (1343160017,  16,          1) /* ItemUseable - No */
+     , (1343160017,  25,        275) /* Level */
+     , (1343160017,  30,          3) /* AllegianceRank */
      , (1343160017,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343160017, 113,          2) /* Gender - Female */
+     , (1343160017, 125,    8203865) /* Age */
      , (1343160017, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343160017, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343160017, 188,          3) /* HeritageGroup - Sho */
+     , (1343160017, 261,        791) /* CharacterTitleId */
+     , (1343160017, 281,          1) /* Faction1Bits */
+     , (1343160017, 287,        590) /* SocietyRankCelhan */
+     , (1343160017, 307,         12) /* DamageRating */
+     , (1343160017, 308,          9) /* DamageResistRating */
+     , (1343160017, 313,          1) /* CritRating */
+     , (1343160017, 314,          7) /* CritDamageRating */
+     , (1343160017, 316,          2) /* CritDamageResistRating */
+     , (1343160017, 323,          2) /* HealingBoostRating */
+     , (1343160017, 390,          0) /* Enlightenment */
      , (1343160017, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +36,11 @@ VALUES (1343160017,   1, True ) /* Stuck */
      , (1343160017,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343160017,   1, 'Marise') /* Name */;
+VALUES (1343160017,   1, 'Marise') /* Name */
+     , (1343160017,  21, 'Malik Tao Roo Chingon II') /* MonarchsTitle */
+     , (1343160017,  35, 'Baron Scurvy Url') /* PatronsTitle */
+     , (1343160017,  43, '03 April 2009') /* DateOfBirth */
+     , (1343160017,  47, 'The Spirits of the Mountain') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343160017,   1,   33554510) /* Setup */
@@ -27,6 +48,12 @@ VALUES (1343160017,   1,   33554510) /* Setup */
      , (1343160017,   3,  536870914) /* SoundTable */
      , (1343160017,   6,   67108990) /* PaletteBase */
      , (1343160017,   8,  100667446) /* Icon */
+     , (1343160017,   9,   83890241) /* EyesTexture */
+     , (1343160017,  10,   83890308) /* NoseTexture */
+     , (1343160017,  11,   83890330) /* MouthTexture */
+     , (1343160017,  15,   67117000) /* HairPalette */
+     , (1343160017,  16,   67109565) /* EyesPalette */
+     , (1343160017,  17,   67110061) /* SkinPalette */
      , (1343160017,  22,  872415236) /* PhysicsEffectTable */
      , (1343160017, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343160017, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

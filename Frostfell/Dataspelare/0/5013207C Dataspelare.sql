@@ -3,11 +3,21 @@ VALUES (1343430780, 1, 10, 6738241) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343430780,   1,         16) /* ItemType - Creature */
+     , (1343430780,   2,         31) /* CreatureType - Human */
      , (1343430780,   6,        102) /* ItemsCapacity */
      , (1343430780,   7,          7) /* ContainersCapacity */
      , (1343430780,  16,          1) /* ItemUseable - No */
+     , (1343430780,  25,        225) /* Level */
+     , (1343430780,  30,          2) /* AllegianceRank */
+     , (1343430780,  35,          9) /* AllegianceFollowers */
      , (1343430780,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343430780, 113,          1) /* Gender - Male */
      , (1343430780, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343430780, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343430780, 188,          9) /* HeritageGroup - Empyrean */
+     , (1343430780, 261,          1) /* CharacterTitleId */
+     , (1343430780, 307,          7) /* DamageRating */
+     , (1343430780, 390,          0) /* Enlightenment */
      , (1343430780, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -30,6 +40,12 @@ VALUES (1343430780,   1,   33561110) /* Setup */
      , (1343430780,   3,  536870913) /* SoundTable */
      , (1343430780,   6,   67108990) /* PaletteBase */
      , (1343430780,   8,  100667446) /* Icon */
+     , (1343430780,   9,   83890509) /* EyesTexture */
+     , (1343430780,  10,   83890522) /* NoseTexture */
+     , (1343430780,  11,   83890636) /* MouthTexture */
+     , (1343430780,  15,   67117102) /* HairPalette */
+     , (1343430780,  16,   67116856) /* EyesPalette */
+     , (1343430780,  17,   67109561) /* SkinPalette */
      , (1343430780,  22,  872415236) /* PhysicsEffectTable */
      , (1343430780, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343430780, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

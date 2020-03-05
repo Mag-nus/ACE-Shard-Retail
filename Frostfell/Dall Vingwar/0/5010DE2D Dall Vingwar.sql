@@ -3,11 +3,27 @@ VALUES (1343282733, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343282733,   1,         16) /* ItemType - Creature */
+     , (1343282733,   2,         31) /* CreatureType - Human */
      , (1343282733,   6,        102) /* ItemsCapacity */
      , (1343282733,   7,          8) /* ContainersCapacity */
      , (1343282733,  16,          1) /* ItemUseable - No */
+     , (1343282733,  25,        275) /* Level */
+     , (1343282733,  30,          7) /* AllegianceRank */
      , (1343282733,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343282733, 113,          1) /* Gender - Male */
+     , (1343282733, 125,    4967422) /* Age */
      , (1343282733, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343282733, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343282733, 188,          3) /* HeritageGroup - Sho */
+     , (1343282733, 261,         74) /* CharacterTitleId */
+     , (1343282733, 262,         47) /* NumCharacterTitles */
+     , (1343282733, 307,          8) /* DamageRating */
+     , (1343282733, 308,          8) /* DamageResistRating */
+     , (1343282733, 313,          1) /* CritRating */
+     , (1343282733, 314,          7) /* CritDamageRating */
+     , (1343282733, 323,          5) /* HealingBoostRating */
+     , (1343282733, 350,         12) /* DotResistRating */
+     , (1343282733, 390,          0) /* Enlightenment */
      , (1343282733, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +35,11 @@ VALUES (1343282733,   1, True ) /* Stuck */
      , (1343282733,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343282733,   1, 'Dall Vingwar') /* Name */;
+VALUES (1343282733,   1, 'Dall Vingwar') /* Name */
+     , (1343282733,  21, 'Duke Grog''') /* MonarchsTitle */
+     , (1343282733,  35, 'Kou Grogimus') /* PatronsTitle */
+     , (1343282733,  43, '05 September 2009') /* DateOfBirth */
+     , (1343282733,  47, 'Lords of Grogtown') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343282733,   1,   33554433) /* Setup */
@@ -27,6 +47,12 @@ VALUES (1343282733,   1,   33554433) /* Setup */
      , (1343282733,   3,  536870913) /* SoundTable */
      , (1343282733,   6,   67108990) /* PaletteBase */
      , (1343282733,   8,  100667446) /* Icon */
+     , (1343282733,   9,   83890447) /* EyesTexture */
+     , (1343282733,  10,   83890518) /* NoseTexture */
+     , (1343282733,  11,   83890657) /* MouthTexture */
+     , (1343282733,  15,   67109630) /* HairPalette */
+     , (1343282733,  16,   67110063) /* EyesPalette */
+     , (1343282733,  17,   67110047) /* SkinPalette */
      , (1343282733,  22,  872415236) /* PhysicsEffectTable */
      , (1343282733, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343282733, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

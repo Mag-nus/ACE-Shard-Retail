@@ -15,13 +15,10 @@ VALUES (1343493399,   1,         16) /* ItemType - Creature */
      , (1343493399, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343493399, 188,          3) /* HeritageGroup - Sho */
      , (1343493399, 261,          1) /* CharacterTitleId */
-     , (1343493399, 307,          9) /* DamageRating */
-     , (1343493399, 308,          5) /* DamageResistRating */
-     , (1343493399, 314,          8) /* CritDamageRating */
+     , (1343493399, 307,          5) /* DamageRating */
+     , (1343493399, 314,          2) /* CritDamageRating */
      , (1343493399, 316,          2) /* CritDamageResistRating */
-     , (1343493399, 323,          4) /* HealingBoostRating */
-     , (1343493399, 381,          5) /* PKDamageRating */
-     , (1343493399, 382,          4) /* PKDamageResistRating */
+     , (1343493399, 323,          2) /* HealingBoostRating */
      , (1343493399, 390,          0) /* Enlightenment */
      , (1343493399, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
@@ -45,12 +42,12 @@ VALUES (1343493399,   1,   33554510) /* Setup */
      , (1343493399,   3,  536870914) /* SoundTable */
      , (1343493399,   6,   67108990) /* PaletteBase */
      , (1343493399,   8,  100667446) /* Icon */
-     , (1343493399,   9,   83890277) /* EyesTexture */
-     , (1343493399,  10,   83890291) /* NoseTexture */
-     , (1343493399,  11,   83890318) /* MouthTexture */
+     , (1343493399,   9,   83890235) /* EyesTexture */
+     , (1343493399,  10,   83890311) /* NoseTexture */
+     , (1343493399,  11,   83890327) /* MouthTexture */
      , (1343493399,  15,   67117068) /* HairPalette */
      , (1343493399,  16,   67110063) /* EyesPalette */
-     , (1343493399,  17,   67110052) /* SkinPalette */
+     , (1343493399,  17,   67110047) /* SkinPalette */
      , (1343493399,  22,  872415236) /* PhysicsEffectTable */
      , (1343493399, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343493399, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
@@ -59,8 +56,8 @@ VALUES (1343493399,   1,   33554510) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343493399, 1, 23855554, 60.39265, -29.22204, 0.004999995, -0.3306995, 0, 0, -0.9437361) /* Location */
 /* @teleloc 0x016C01C2 [60.392650 -29.222040 0.005000] -0.330700 0.000000 0.000000 -0.943736 */
-     , (1343493399, 8040, 23855554, 61.60207, -29.74976, 0.004999995, -0.219206, 0, 0, -0.9756786) /* PCAPRecordedLocation */
-/* @teleloc 0x016C01C2 [61.602070 -29.749760 0.005000] -0.219206 0.000000 0.000000 -0.975679 */;
+     , (1343493399, 8040, 23855554, 60.39265, -29.22204, 0.004999995, -0.3774533, 0, 0, -0.9260286) /* PCAPRecordedLocation */
+/* @teleloc 0x016C01C2 [60.392650 -29.222040 0.005000] -0.377453 0.000000 0.000000 -0.926029 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343493399,  26, 1343449966) /* Monarch */

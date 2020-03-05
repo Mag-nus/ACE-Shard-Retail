@@ -3,11 +3,19 @@ VALUES (1343357341, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343357341,   1,         16) /* ItemType - Creature */
+     , (1343357341,   2,         31) /* CreatureType - Human */
      , (1343357341,   6,        102) /* ItemsCapacity */
      , (1343357341,   7,          7) /* ContainersCapacity */
      , (1343357341,  16,          1) /* ItemUseable - No */
+     , (1343357341,  25,         18) /* Level */
+     , (1343357341,  30,          1) /* AllegianceRank */
      , (1343357341,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343357341, 113,          1) /* Gender - Male */
      , (1343357341, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343357341, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343357341, 188,          3) /* HeritageGroup - Sho */
+     , (1343357341, 261,          1) /* CharacterTitleId */
+     , (1343357341, 390,          0) /* Enlightenment */
      , (1343357341, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +27,10 @@ VALUES (1343357341,   1, True ) /* Stuck */
      , (1343357341,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343357341,   1, 'Penny Darn Dog') /* Name */;
+VALUES (1343357341,   1, 'Penny Darn Dog') /* Name */
+     , (1343357341,  21, 'Aetheling Forgetmenot') /* MonarchsTitle */
+     , (1343357341,  35, 'Baronet Insanification') /* PatronsTitle */
+     , (1343357341,  47, 'THE UNFORGOTTEN') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343357341,   1,   33554433) /* Setup */
@@ -27,6 +38,12 @@ VALUES (1343357341,   1,   33554433) /* Setup */
      , (1343357341,   3,  536870913) /* SoundTable */
      , (1343357341,   6,   67108990) /* PaletteBase */
      , (1343357341,   8,  100667446) /* Icon */
+     , (1343357341,   9,   83890453) /* EyesTexture */
+     , (1343357341,  10,   83890521) /* NoseTexture */
+     , (1343357341,  11,   83890577) /* MouthTexture */
+     , (1343357341,  15,   67117002) /* HairPalette */
+     , (1343357341,  16,   67110063) /* EyesPalette */
+     , (1343357341,  17,   67110048) /* SkinPalette */
      , (1343357341,  22,  872415236) /* PhysicsEffectTable */
      , (1343357341, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343357341, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

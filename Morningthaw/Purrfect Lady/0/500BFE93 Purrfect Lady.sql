@@ -9,10 +9,10 @@ VALUES (1342963347,   1,         16) /* ItemType - Creature */
      , (1342963347,  16,          1) /* ItemUseable - No */
      , (1342963347,  25,        275) /* Level */
      , (1342963347,  30,          6) /* AllegianceRank */
-     , (1342963347,  43,        162) /* NumDeaths */
+     , (1342963347,  43,        163) /* NumDeaths */
      , (1342963347,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1342963347, 113,          2) /* Gender - Female */
-     , (1342963347, 125,   13178255) /* Age */
+     , (1342963347, 125,   13190302) /* Age */
      , (1342963347, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342963347, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342963347, 188,          3) /* HeritageGroup - Sho */
@@ -20,8 +20,8 @@ VALUES (1342963347,   1,         16) /* ItemType - Creature */
      , (1342963347, 262,        129) /* NumCharacterTitles */
      , (1342963347, 281,          1) /* Faction1Bits */
      , (1342963347, 287,       1001) /* SocietyRankCelhan */
-     , (1342963347, 307,         45) /* DamageRating */
-     , (1342963347, 308,         14) /* DamageResistRating */
+     , (1342963347, 307,         35) /* DamageRating */
+     , (1342963347, 308,          9) /* DamageResistRating */
      , (1342963347, 313,          1) /* CritRating */
      , (1342963347, 314,          9) /* CritDamageRating */
      , (1342963347, 316,         12) /* CritDamageResistRating */
@@ -39,7 +39,6 @@ VALUES (1342963347,   1, True ) /* Stuck */
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1342963347,   1, 'Purrfect Lady') /* Name */
-     , (1342963347,  10, 'Gman') /* Fellowship */
      , (1342963347,  21, 'Taikou Zalante') /* MonarchsTitle */
      , (1342963347,  35, 'Ealdor Runners') /* PatronsTitle */
      , (1342963347,  43, '24 November 2002') /* DateOfBirth */
@@ -65,8 +64,8 @@ VALUES (1342963347,   1,   33554510) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1342963347, 1, 19398926, 30.50857, -27.50928, 0.004999995, -0.06760924, 0, 0, -0.9977119) /* Location */
 /* @teleloc 0x0128010E [30.508570 -27.509280 0.005000] -0.067609 0.000000 0.000000 -0.997712 */
-     , (1342963347, 8040, 19398926, 29.60065, -29.49608, 0.215185, -0.9988455, 0, 0, -0.04803921) /* PCAPRecordedLocation */
-/* @teleloc 0x0128010E [29.600650 -29.496080 0.215185] -0.998846 0.000000 0.000000 -0.048039 */;
+     , (1342963347, 8040, 19398926, 29.93175, -29.47981, 0.206873, -0.9997342, 0, 0, -0.02305581) /* PCAPRecordedLocation */
+/* @teleloc 0x0128010E [29.931750 -29.479810 0.206873] -0.999734 0.000000 0.000000 -0.023056 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342963347,  26, 1342548926) /* Monarch */

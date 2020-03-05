@@ -3,11 +3,27 @@ VALUES (1343191644, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343191644,   1,         16) /* ItemType - Creature */
+     , (1343191644,   2,         31) /* CreatureType - Human */
      , (1343191644,   6,        102) /* ItemsCapacity */
      , (1343191644,   7,          8) /* ContainersCapacity */
      , (1343191644,  16,          1) /* ItemUseable - No */
+     , (1343191644,  25,        275) /* Level */
+     , (1343191644,  30,          3) /* AllegianceRank */
      , (1343191644,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343191644, 113,          2) /* Gender - Female */
      , (1343191644, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343191644, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343191644, 188,          7) /* HeritageGroup - Tumerok */
+     , (1343191644, 261,        407) /* CharacterTitleId */
+     , (1343191644, 281,          2) /* Faction1Bits */
+     , (1343191644, 288,       1001) /* SocietyRankEldweb */
+     , (1343191644, 307,         28) /* DamageRating */
+     , (1343191644, 308,         11) /* DamageResistRating */
+     , (1343191644, 313,          1) /* CritRating */
+     , (1343191644, 314,         13) /* CritDamageRating */
+     , (1343191644, 316,          6) /* CritDamageResistRating */
+     , (1343191644, 323,          9) /* HealingBoostRating */
+     , (1343191644, 390,          0) /* Enlightenment */
      , (1343191644, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +35,11 @@ VALUES (1343191644,   1, True ) /* Stuck */
      , (1343191644,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343191644,   1, 'Clarmas') /* Name */;
+VALUES (1343191644,   1, 'Clarmas') /* Name */
+     , (1343191644,  10, 'Sneux is God') /* Fellowship */
+     , (1343191644,  21, 'King Paul Mua''dib') /* MonarchsTitle */
+     , (1343191644,  35, 'Kou Xopenex') /* PatronsTitle */
+     , (1343191644,  47, 'Archangels of Armageddon') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343191644,   1,   33561108) /* Setup */
@@ -27,6 +47,12 @@ VALUES (1343191644,   1,   33561108) /* Setup */
      , (1343191644,   3,  536871127) /* SoundTable */
      , (1343191644,   6,   67108990) /* PaletteBase */
      , (1343191644,   8,  100667446) /* Icon */
+     , (1343191644,   9,   83898680) /* EyesTexture */
+     , (1343191644,  10,   83898687) /* NoseTexture */
+     , (1343191644,  11,   83898688) /* MouthTexture */
+     , (1343191644,  15,   67117063) /* HairPalette */
+     , (1343191644,  16,   67109564) /* EyesPalette */
+     , (1343191644,  17,   67116901) /* SkinPalette */
      , (1343191644,  22,  872415441) /* PhysicsEffectTable */
      , (1343191644, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343191644, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

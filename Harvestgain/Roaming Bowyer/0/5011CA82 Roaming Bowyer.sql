@@ -17,11 +17,10 @@ VALUES (1343343234,   1,         16) /* ItemType - Creature */
      , (1343343234, 261,        878) /* CharacterTitleId */
      , (1343343234, 281,          2) /* Faction1Bits */
      , (1343343234, 288,          1) /* SocietyRankEldweb */
-     , (1343343234, 307,         21) /* DamageRating */
-     , (1343343234, 308,          2) /* DamageResistRating */
+     , (1343343234, 307,         24) /* DamageRating */
      , (1343343234, 314,         13) /* CritDamageRating */
      , (1343343234, 316,          4) /* CritDamageResistRating */
-     , (1343343234, 323,          3) /* HealingBoostRating */
+     , (1343343234, 323,          1) /* HealingBoostRating */
      , (1343343234, 390,          0) /* Enlightenment */
      , (1343343234, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 

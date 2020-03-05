@@ -3,11 +3,26 @@ VALUES (1343487641, 1, 10, 6738241) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343487641,   1,         16) /* ItemType - Creature */
+     , (1343487641,   2,         31) /* CreatureType - Human */
      , (1343487641,   6,        102) /* ItemsCapacity */
      , (1343487641,   7,          7) /* ContainersCapacity */
      , (1343487641,  16,          1) /* ItemUseable - No */
+     , (1343487641,  25,        251) /* Level */
+     , (1343487641,  30,          2) /* AllegianceRank */
      , (1343487641,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343487641, 113,          2) /* Gender - Female */
      , (1343487641, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343487641, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343487641, 188,          9) /* HeritageGroup - Empyrean */
+     , (1343487641, 261,        112) /* CharacterTitleId */
+     , (1343487641, 281,          2) /* Faction1Bits */
+     , (1343487641, 288,        295) /* SocietyRankEldweb */
+     , (1343487641, 307,         18) /* DamageRating */
+     , (1343487641, 308,          7) /* DamageResistRating */
+     , (1343487641, 314,          1) /* CritDamageRating */
+     , (1343487641, 316,          1) /* CritDamageResistRating */
+     , (1343487641, 323,          1) /* HealingBoostRating */
+     , (1343487641, 390,          0) /* Enlightenment */
      , (1343487641, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -22,7 +37,11 @@ INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (1343487641,  39, 1.14999997615814) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343487641,   1, 'Tresdin') /* Name */;
+VALUES (1343487641,   1, 'Tresdin') /* Name */
+     , (1343487641,  10, 'Smellssmells') /* Fellowship */
+     , (1343487641,  21, 'Jo-ou Tika Waylen') /* MonarchsTitle */
+     , (1343487641,  35, 'Nan-chueh Kun pow') /* PatronsTitle */
+     , (1343487641,  47, 'The Dragon Moon Clan') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343487641,   1,   33561104) /* Setup */
@@ -30,6 +49,12 @@ VALUES (1343487641,   1,   33561104) /* Setup */
      , (1343487641,   3,  536870914) /* SoundTable */
      , (1343487641,   6,   67108990) /* PaletteBase */
      , (1343487641,   8,  100667446) /* Icon */
+     , (1343487641,   9,   83890276) /* EyesTexture */
+     , (1343487641,  10,   83890294) /* NoseTexture */
+     , (1343487641,  11,   83890342) /* MouthTexture */
+     , (1343487641,  15,   67117079) /* HairPalette */
+     , (1343487641,  16,   67116858) /* EyesPalette */
+     , (1343487641,  17,   67109559) /* SkinPalette */
      , (1343487641,  22,  872415236) /* PhysicsEffectTable */
      , (1343487641, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343487641, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

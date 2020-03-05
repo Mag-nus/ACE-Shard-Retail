@@ -12,7 +12,7 @@ VALUES (1342908955,   1,         16) /* ItemType - Creature */
      , (1342908955,  43,         65) /* NumDeaths */
      , (1342908955,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
      , (1342908955, 113,          1) /* Gender - Male */
-     , (1342908955, 125,    1800868) /* Age */
+     , (1342908955, 125,    1803107) /* Age */
      , (1342908955, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342908955, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342908955, 188,          1) /* HeritageGroup - Aluvian */
@@ -31,6 +31,7 @@ VALUES (1342908955,   1, True ) /* Stuck */
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1342908955,   1, 'Jeremiah Johnson') /* Name */
+     , (1342908955,  10, 'Memories') /* Fellowship */
      , (1342908955,  21, 'High King Mr Adventure') /* MonarchsTitle */
      , (1342908955,  35, 'Ta-chueh Dan Harmony') /* PatronsTitle */
      , (1342908955,  43, '20 June 2002') /* DateOfBirth */

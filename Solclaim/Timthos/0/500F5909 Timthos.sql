@@ -15,7 +15,6 @@ VALUES (1343183113,   1,         16) /* ItemType - Creature */
      , (1343183113, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343183113, 188,          1) /* HeritageGroup - Aluvian */
      , (1343183113, 261,          1) /* CharacterTitleId */
-     , (1343183113, 307,          5) /* DamageRating */
      , (1343183113, 390,          0) /* Enlightenment */
      , (1343183113, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 

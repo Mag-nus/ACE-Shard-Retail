@@ -6,13 +6,13 @@ VALUES (1343360831,   1,         16) /* ItemType - Creature */
      , (1343360831,   6,        102) /* ItemsCapacity */
      , (1343360831,   7,          8) /* ContainersCapacity */
      , (1343360831,  16,          1) /* ItemUseable - No */
-     , (1343360831,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343360831,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1343360831, 133,          4) /* ShowableOnRadar - ShowAlways */
-     , (1343360831, 8007,          0) /* PCAPRecordedAutonomousMovement */;
+     , (1343360831, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1343360831,   1, True ) /* Stuck */
-     , (1343360831,  11, True ) /* IgnoreCollisions */
+     , (1343360831,  12, True ) /* ReportCollisions */
      , (1343360831,  13, False) /* Ethereal */
      , (1343360831,  14, True ) /* GravityStatus */
      , (1343360831,  19, True ) /* Attackable */
@@ -35,8 +35,8 @@ VALUES (1343360831,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343360831, 1, 459108, 85.12248, -70.39565, 0.004999995, 0.7086735, 0, 0, -0.7055367) /* Location */
 /* @teleloc 0x00070164 [85.122480 -70.395650 0.005000] 0.708674 0.000000 0.000000 -0.705537 */
-     , (1343360831, 8040, 459094, 80, -70, 0.004999995, -0.7071068, 0, 0, -0.7071068) /* PCAPRecordedLocation */
-/* @teleloc 0x00070156 [80.000000 -70.000000 0.005000] -0.707107 0.000000 0.000000 -0.707107 */;
+     , (1343360831, 8040, 2847146026, 127.5561, 41.47101, 94.005, -0.9829378, 0, 0, -0.1839382) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B4002A [127.556100 41.471010 94.005000] -0.982938 0.000000 0.000000 -0.183938 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343360831,  26, 1343089867) /* Monarch */

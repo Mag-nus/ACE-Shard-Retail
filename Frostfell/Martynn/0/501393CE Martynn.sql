@@ -3,11 +3,28 @@ VALUES (1343460302, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343460302,   1,         16) /* ItemType - Creature */
+     , (1343460302,   2,         31) /* CreatureType - Human */
      , (1343460302,   6,        102) /* ItemsCapacity */
      , (1343460302,   7,          8) /* ContainersCapacity */
      , (1343460302,  16,          1) /* ItemUseable - No */
+     , (1343460302,  25,        275) /* Level */
+     , (1343460302,  30,          3) /* AllegianceRank */
+     , (1343460302,  35,         33) /* AllegianceFollowers */
      , (1343460302,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343460302, 113,          1) /* Gender - Male */
+     , (1343460302, 125,    2894692) /* Age */
      , (1343460302, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343460302, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343460302, 188,          2) /* HeritageGroup - Gharundim */
+     , (1343460302, 261,        775) /* CharacterTitleId */
+     , (1343460302, 281,          2) /* Faction1Bits */
+     , (1343460302, 288,          1) /* SocietyRankEldweb */
+     , (1343460302, 307,         24) /* DamageRating */
+     , (1343460302, 308,         10) /* DamageResistRating */
+     , (1343460302, 314,         18) /* CritDamageRating */
+     , (1343460302, 316,          4) /* CritDamageResistRating */
+     , (1343460302, 323,          2) /* HealingBoostRating */
+     , (1343460302, 390,          0) /* Enlightenment */
      , (1343460302, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +36,8 @@ VALUES (1343460302,   1, True ) /* Stuck */
      , (1343460302,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343460302,   1, 'Martynn') /* Name */;
+VALUES (1343460302,   1, 'Martynn') /* Name */
+     , (1343460302,  43, '06 November 2015') /* DateOfBirth */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343460302,   1,   33554433) /* Setup */
@@ -27,6 +45,12 @@ VALUES (1343460302,   1,   33554433) /* Setup */
      , (1343460302,   3,  536870913) /* SoundTable */
      , (1343460302,   6,   67108990) /* PaletteBase */
      , (1343460302,   8,  100667446) /* Icon */
+     , (1343460302,   9,   83890457) /* EyesTexture */
+     , (1343460302,  10,   83890534) /* NoseTexture */
+     , (1343460302,  11,   83890638) /* MouthTexture */
+     , (1343460302,  15,   67117019) /* HairPalette */
+     , (1343460302,  16,   67110063) /* EyesPalette */
+     , (1343460302,  17,   67109557) /* SkinPalette */
      , (1343460302,  22,  872415236) /* PhysicsEffectTable */
      , (1343460302, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343460302, 8003,   33554460) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable, PkLiteStatus */

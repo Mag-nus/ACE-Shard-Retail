@@ -3,11 +3,18 @@ VALUES (1343479616, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343479616,   1,         16) /* ItemType - Creature */
+     , (1343479616,   2,         31) /* CreatureType - Human */
      , (1343479616,   6,        102) /* ItemsCapacity */
      , (1343479616,   7,          8) /* ContainersCapacity */
      , (1343479616,  16,          1) /* ItemUseable - No */
+     , (1343479616,  30,          7) /* AllegianceRank */
      , (1343479616,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343479616, 113,          2) /* Gender - Female */
      , (1343479616, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343479616, 134,         64) /* PlayerKillerStatus - PKLite */
+     , (1343479616, 188,         10) /* HeritageGroup - Penumbraen */
+     , (1343479616, 261,        795) /* CharacterTitleId */
+     , (1343479616, 390,          0) /* Enlightenment */
      , (1343479616, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +26,11 @@ VALUES (1343479616,   1, True ) /* Stuck */
      , (1343479616,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343479616,   1, 'Dread Ninjada') /* Name */;
+VALUES (1343479616,   1, 'Dread Ninjada') /* Name */
+     , (1343479616,  10, 'D') /* Fellowship */
+     , (1343479616,  21, 'King Aerfall') /* MonarchsTitle */
+     , (1343479616,  35, 'Duke Mentel Mage') /* PatronsTitle */
+     , (1343479616,  47, 'Autobotz') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343479616,   1,   33561180) /* Setup */
@@ -27,6 +38,12 @@ VALUES (1343479616,   1,   33561180) /* Setup */
      , (1343479616,   3,  536870914) /* SoundTable */
      , (1343479616,   6,   67108990) /* PaletteBase */
      , (1343479616,   8,  100667446) /* Icon */
+     , (1343479616,   9,   83890263) /* EyesTexture */
+     , (1343479616,  10,   83890292) /* NoseTexture */
+     , (1343479616,  11,   83890340) /* MouthTexture */
+     , (1343479616,  15,   67117028) /* HairPalette */
+     , (1343479616,  16,   67116857) /* EyesPalette */
+     , (1343479616,  17,   67116846) /* SkinPalette */
      , (1343479616,  22,  872415433) /* PhysicsEffectTable */
      , (1343479616, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343479616, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

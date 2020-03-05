@@ -11,21 +11,13 @@ VALUES (1342757625,   1,         16) /* ItemType - Creature */
      , (1342757625,  30,          7) /* AllegianceRank */
      , (1342757625,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1342757625, 113,          1) /* Gender - Male */
-     , (1342757625, 125,   22423467) /* Age */
+     , (1342757625, 125,   22426519) /* Age */
      , (1342757625, 133,          4) /* ShowableOnRadar - ShowAlways */
-     , (1342757625, 134,         64) /* PlayerKillerStatus - PKLite */
+     , (1342757625, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342757625, 188,          3) /* HeritageGroup - Sho */
      , (1342757625, 192,        700) /* FakeFishingSkill */
      , (1342757625, 261,        672) /* CharacterTitleId */
      , (1342757625, 262,        430) /* NumCharacterTitles */
-     , (1342757625, 281,          4) /* Faction1Bits */
-     , (1342757625, 289,       1001) /* SocietyRankRadblo */
-     , (1342757625, 307,         24) /* DamageRating */
-     , (1342757625, 308,         31) /* DamageResistRating */
-     , (1342757625, 313,          1) /* CritRating */
-     , (1342757625, 314,         15) /* CritDamageRating */
-     , (1342757625, 316,         12) /* CritDamageResistRating */
-     , (1342757625, 323,          9) /* HealingBoostRating */
      , (1342757625, 390,          0) /* Enlightenment */
      , (1342757625, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 

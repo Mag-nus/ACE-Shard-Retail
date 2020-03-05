@@ -3,11 +3,23 @@ VALUES (1342665569, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342665569,   1,         16) /* ItemType - Creature */
+     , (1342665569,   2,         31) /* CreatureType - Human */
      , (1342665569,   6,        102) /* ItemsCapacity */
      , (1342665569,   7,          8) /* ContainersCapacity */
      , (1342665569,  16,          1) /* ItemUseable - No */
+     , (1342665569,  25,        275) /* Level */
+     , (1342665569,  30,          4) /* AllegianceRank */
+     , (1342665569,  43,       1337) /* NumDeaths */
      , (1342665569,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342665569, 113,          2) /* Gender - Female */
+     , (1342665569, 125,   13902602) /* Age */
      , (1342665569, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342665569, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342665569, 188,          3) /* HeritageGroup - Sho */
+     , (1342665569, 192,        420) /* FakeFishingSkill */
+     , (1342665569, 261,        433) /* CharacterTitleId */
+     , (1342665569, 262,        192) /* NumCharacterTitles */
+     , (1342665569, 390,          1) /* Enlightenment */
      , (1342665569, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +31,11 @@ VALUES (1342665569,   1, True ) /* Stuck */
      , (1342665569,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342665569,   1, 'Countess Bathory') /* Name */;
+VALUES (1342665569,   1, 'Countess Bathory') /* Name */
+     , (1342665569,  21, 'High King Mr Adventure') /* MonarchsTitle */
+     , (1342665569,  35, 'Thane Excaliber') /* PatronsTitle */
+     , (1342665569,  43, '12 April 2001') /* DateOfBirth */
+     , (1342665569,  47, 'Knights of Fortune') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342665569,   1,   33554510) /* Setup */
@@ -27,6 +43,12 @@ VALUES (1342665569,   1,   33554510) /* Setup */
      , (1342665569,   3,  536870914) /* SoundTable */
      , (1342665569,   6,   67108990) /* PaletteBase */
      , (1342665569,   8,  100667446) /* Icon */
+     , (1342665569,   9,   83890276) /* EyesTexture */
+     , (1342665569,  10,   83890291) /* NoseTexture */
+     , (1342665569,  11,   83890327) /* MouthTexture */
+     , (1342665569,  15,   67109629) /* HairPalette */
+     , (1342665569,  16,   67109565) /* EyesPalette */
+     , (1342665569,  17,   67110054) /* SkinPalette */
      , (1342665569,  22,  872415236) /* PhysicsEffectTable */
      , (1342665569, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342665569, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

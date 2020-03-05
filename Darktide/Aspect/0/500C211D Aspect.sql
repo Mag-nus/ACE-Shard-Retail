@@ -9,10 +9,10 @@ VALUES (1342972189,   1,         16) /* ItemType - Creature */
      , (1342972189,  16,          1) /* ItemUseable - No */
      , (1342972189,  25,        211) /* Level */
      , (1342972189,  30,          3) /* AllegianceRank */
-     , (1342972189,  43,       1233) /* NumDeaths */
+     , (1342972189,  43,       1234) /* NumDeaths */
      , (1342972189,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
      , (1342972189, 113,          1) /* Gender - Male */
-     , (1342972189, 125,   20036508) /* Age */
+     , (1342972189, 125,   20036518) /* Age */
      , (1342972189, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342972189, 134,          4) /* PlayerKillerStatus - PK */
      , (1342972189, 188,          3) /* HeritageGroup - Sho */

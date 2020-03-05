@@ -3,12 +3,20 @@ VALUES (1342436798, 1, 10, 6738241) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342436798,   1,         16) /* ItemType - Creature */
+     , (1342436798,   2,         31) /* CreatureType - Human */
      , (1342436798,   6,        102) /* ItemsCapacity */
      , (1342436798,   7,          7) /* ContainersCapacity */
      , (1342436798,  16,          1) /* ItemUseable - No */
+     , (1342436798,  25,          6) /* Level */
      , (1342436798,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342436798, 113,          2) /* Gender - Female */
      , (1342436798, 133,          4) /* ShowableOnRadar - ShowAlways */
-     , (1342436798, 8007,          1) /* PCAPRecordedAutonomousMovement */;
+     , (1342436798, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342436798, 188,          9) /* HeritageGroup - Empyrean */
+     , (1342436798, 261,          1) /* CharacterTitleId */
+     , (1342436798, 307,          5) /* DamageRating */
+     , (1342436798, 390,          0) /* Enlightenment */
+     , (1342436798, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1342436798,   1, True ) /* Stuck */
@@ -30,6 +38,12 @@ VALUES (1342436798,   1,   33561104) /* Setup */
      , (1342436798,   3,  536870914) /* SoundTable */
      , (1342436798,   6,   67108990) /* PaletteBase */
      , (1342436798,   8,  100667446) /* Icon */
+     , (1342436798,   9,   83890283) /* EyesTexture */
+     , (1342436798,  10,   83890295) /* NoseTexture */
+     , (1342436798,  11,   83890326) /* MouthTexture */
+     , (1342436798,  15,   67116997) /* HairPalette */
+     , (1342436798,  16,   67116856) /* EyesPalette */
+     , (1342436798,  17,   67109562) /* SkinPalette */
      , (1342436798,  22,  872415236) /* PhysicsEffectTable */
      , (1342436798, 8001,    8388630) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, RadarBehavior */
      , (1342436798, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
@@ -38,8 +52,8 @@ VALUES (1342436798,   1,   33561104) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1342436798, 1, 2847146034, 148.9528, 39.16556, 94.00575, -0.147944, 0, 0, -0.9889957) /* Location */
 /* @teleloc 0xA9B40032 [148.952800 39.165560 94.005750] -0.147944 0.000000 0.000000 -0.988996 */
-     , (1342436798, 8040, 2847146034, 150.3445, 40.15347, 94.00575, 0.2717193, 0, 0, -0.9623765) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B40032 [150.344500 40.153470 94.005750] 0.271719 0.000000 0.000000 -0.962377 */;
+     , (1342436798, 8040, 2847146034, 148.9528, 39.16556, 94.00575, -0.147944, 0, 0, -0.9889957) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B40032 [148.952800 39.165560 94.005750] -0.147944 0.000000 0.000000 -0.988996 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342436798, 8000, 1342436798) /* PCAPRecordedObjectIID */;

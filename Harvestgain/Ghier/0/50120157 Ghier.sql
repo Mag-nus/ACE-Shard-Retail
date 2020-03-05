@@ -3,11 +3,27 @@ VALUES (1343357271, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343357271,   1,         16) /* ItemType - Creature */
+     , (1343357271,   2,         31) /* CreatureType - Human */
      , (1343357271,   6,        102) /* ItemsCapacity */
      , (1343357271,   7,          7) /* ContainersCapacity */
      , (1343357271,  16,          1) /* ItemUseable - No */
+     , (1343357271,  25,        206) /* Level */
+     , (1343357271,  30,          1) /* AllegianceRank */
+     , (1343357271,  43,          0) /* NumDeaths */
      , (1343357271,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343357271, 113,          1) /* Gender - Male */
+     , (1343357271, 125,     667602) /* Age */
      , (1343357271, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343357271, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343357271, 188,         10) /* HeritageGroup - Penumbraen */
+     , (1343357271, 261,          1) /* CharacterTitleId */
+     , (1343357271, 307,         11) /* DamageRating */
+     , (1343357271, 308,          2) /* DamageResistRating */
+     , (1343357271, 313,          1) /* CritRating */
+     , (1343357271, 314,          1) /* CritDamageRating */
+     , (1343357271, 316,          3) /* CritDamageResistRating */
+     , (1343357271, 323,          4) /* HealingBoostRating */
+     , (1343357271, 390,          0) /* Enlightenment */
      , (1343357271, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +35,12 @@ VALUES (1343357271,   1, True ) /* Stuck */
      , (1343357271,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343357271,   1, 'Ghier') /* Name */;
+VALUES (1343357271,   1, 'Ghier') /* Name */
+     , (1343357271,  10, 'Xp') /* Fellowship */
+     , (1343357271,  21, 'Kou Hogun the grim') /* MonarchsTitle */
+     , (1343357271,  35, 'Squire Lunation') /* PatronsTitle */
+     , (1343357271,  43, '14 January 2017') /* DateOfBirth */
+     , (1343357271,  47, 'Immortals') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343357271,   1,   33561181) /* Setup */
@@ -27,6 +48,12 @@ VALUES (1343357271,   1,   33561181) /* Setup */
      , (1343357271,   3,  536870913) /* SoundTable */
      , (1343357271,   6,   67108990) /* PaletteBase */
      , (1343357271,   8,  100667446) /* Icon */
+     , (1343357271,   9,   83890505) /* EyesTexture */
+     , (1343357271,  10,   83890557) /* NoseTexture */
+     , (1343357271,  11,   83890645) /* MouthTexture */
+     , (1343357271,  15,   67117016) /* HairPalette */
+     , (1343357271,  16,   67116845) /* EyesPalette */
+     , (1343357271,  17,   67116846) /* SkinPalette */
      , (1343357271,  22,  872415433) /* PhysicsEffectTable */
      , (1343357271, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343357271, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

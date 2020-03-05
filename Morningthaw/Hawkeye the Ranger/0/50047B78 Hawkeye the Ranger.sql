@@ -3,23 +3,40 @@ VALUES (1342471032, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342471032,   1,         16) /* ItemType - Creature */
+     , (1342471032,   2,         31) /* CreatureType - Human */
      , (1342471032,   6,        102) /* ItemsCapacity */
      , (1342471032,   7,          8) /* ContainersCapacity */
      , (1342471032,  16,          1) /* ItemUseable - No */
-     , (1342471032,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1342471032,  25,        275) /* Level */
+     , (1342471032,  30,          5) /* AllegianceRank */
+     , (1342471032,  43,       1678) /* NumDeaths */
+     , (1342471032,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342471032, 113,          1) /* Gender - Male */
+     , (1342471032, 125,   18115447) /* Age */
      , (1342471032, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342471032, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342471032, 181,       1300) /* ChessRank */
+     , (1342471032, 188,          1) /* HeritageGroup - Aluvian */
+     , (1342471032, 192,        368) /* FakeFishingSkill */
+     , (1342471032, 261,         31) /* CharacterTitleId */
+     , (1342471032, 262,        173) /* NumCharacterTitles */
+     , (1342471032, 390,          0) /* Enlightenment */
      , (1342471032, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1342471032,   1, True ) /* Stuck */
-     , (1342471032,  11, True ) /* IgnoreCollisions */
+     , (1342471032,  12, True ) /* ReportCollisions */
      , (1342471032,  13, False) /* Ethereal */
      , (1342471032,  14, True ) /* GravityStatus */
      , (1342471032,  19, True ) /* Attackable */
      , (1342471032,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342471032,   1, 'Hawkeye the Ranger') /* Name */;
+VALUES (1342471032,   1, 'Hawkeye the Ranger') /* Name */
+     , (1342471032,  21, 'High King He who is called I Am') /* MonarchsTitle */
+     , (1342471032,  35, 'High Queen Treasure Chest') /* PatronsTitle */
+     , (1342471032,  43, '09 July 2000') /* DateOfBirth */
+     , (1342471032,  47, 'Untalented Circus Midgets') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342471032,   1,   33554433) /* Setup */
@@ -27,6 +44,12 @@ VALUES (1342471032,   1,   33554433) /* Setup */
      , (1342471032,   3,  536870913) /* SoundTable */
      , (1342471032,   6,   67108990) /* PaletteBase */
      , (1342471032,   8,  100667446) /* Icon */
+     , (1342471032,   9,   83890451) /* EyesTexture */
+     , (1342471032,  10,   83890518) /* NoseTexture */
+     , (1342471032,  11,   83890635) /* MouthTexture */
+     , (1342471032,  15,   67109618) /* HairPalette */
+     , (1342471032,  16,   67109564) /* EyesPalette */
+     , (1342471032,  17,   67109562) /* SkinPalette */
      , (1342471032,  22,  872415236) /* PhysicsEffectTable */
      , (1342471032, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342471032, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
@@ -35,8 +58,8 @@ VALUES (1342471032,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1342471032, 1, 3482648630, 146.905, 136.3522, 20.005, -0.9903731, 0, 0, 0.138424) /* Location */
 /* @teleloc 0xCF950036 [146.905000 136.352200 20.005000] -0.990373 0.000000 0.000000 0.138424 */
-     , (1342471032, 8040, 2847146009, 84, 7.1, 94.005, 0.9969173, 0, 0, -0.0784591) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B40019 [84.000000 7.100000 94.005000] 0.996917 0.000000 0.000000 -0.078459 */;
+     , (1342471032, 8040, 2847080464, 29.66331, 175.1235, 92.81775, -0.8130056, 0, 0, -0.5822558) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B30010 [29.663310 175.123500 92.817750] -0.813006 0.000000 0.000000 -0.582256 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342471032,  26, 1343082018) /* Monarch */

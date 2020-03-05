@@ -7,7 +7,6 @@ VALUES (1343774859,   1,         16) /* ItemType - Creature */
      , (1343774859,   6,        102) /* ItemsCapacity */
      , (1343774859,   7,          8) /* ContainersCapacity */
      , (1343774859,  16,          1) /* ItemUseable - No */
-     , (1343774859,  25,        275) /* Level */
      , (1343774859,  30,          4) /* AllegianceRank */
      , (1343774859,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1343774859, 113,          1) /* Gender - Male */
@@ -15,16 +14,6 @@ VALUES (1343774859,   1,         16) /* ItemType - Creature */
      , (1343774859, 134,          4) /* PlayerKillerStatus - PK */
      , (1343774859, 188,          1) /* HeritageGroup - Aluvian */
      , (1343774859, 261,        774) /* CharacterTitleId */
-     , (1343774859, 281,          2) /* Faction1Bits */
-     , (1343774859, 288,       1001) /* SocietyRankEldweb */
-     , (1343774859, 307,         44) /* DamageRating */
-     , (1343774859, 308,         27) /* DamageResistRating */
-     , (1343774859, 313,          1) /* CritRating */
-     , (1343774859, 314,         33) /* CritDamageRating */
-     , (1343774859, 316,          9) /* CritDamageResistRating */
-     , (1343774859, 323,          9) /* HealingBoostRating */
-     , (1343774859, 381,          5) /* PKDamageRating */
-     , (1343774859, 382,          5) /* PKDamageResistRating */
      , (1343774859, 390,          0) /* Enlightenment */
      , (1343774859, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
@@ -38,7 +27,7 @@ VALUES (1343774859,   1, True ) /* Stuck */
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343774859,   1, 'God Mods') /* Name */
-     , (1343774859,  10, 'Fdas') /* Fellowship */
+     , (1343774859,  10, 'Judgedtide') /* Fellowship */
      , (1343774859,  21, 'Aetheling Judged') /* MonarchsTitle */
      , (1343774859,  35, 'Shi-chueh Atikus Rem') /* PatronsTitle */
      , (1343774859,  47, 'There Will Be Blood') /* AllegianceName */;
@@ -63,8 +52,8 @@ VALUES (1343774859,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343774859, 1, 3332964379, 80.57545, 60.57283, 42.005, 0.2923928, 0, 0, 0.9562983) /* Location */
 /* @teleloc 0xC6A9001B [80.575450 60.572830 42.005000] 0.292393 0.000000 0.000000 0.956298 */
-     , (1343774859, 8040, 3332898824, 5.470004, 176.0747, 42.005, 0.5920817, 0, 0, -0.805878) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A80008 [5.470004 176.074700 42.005000] 0.592082 0.000000 0.000000 -0.805878 */;
+     , (1343774859, 8040, 3332964363, 44.4595, 71.85851, 42.005, 0.6013221, 0, 0, -0.7990067) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A9000B [44.459500 71.858510 42.005000] 0.601322 0.000000 0.000000 -0.799007 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343774859,  26, 1344015960) /* Monarch */

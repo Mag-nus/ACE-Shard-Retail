@@ -7,7 +7,6 @@ VALUES (1343962149,   1,         16) /* ItemType - Creature */
      , (1343962149,   6,        102) /* ItemsCapacity */
      , (1343962149,   7,          7) /* ContainersCapacity */
      , (1343962149,  16,          1) /* ItemUseable - No */
-     , (1343962149,  25,         17) /* Level */
      , (1343962149,  30,          1) /* AllegianceRank */
      , (1343962149,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
      , (1343962149, 113,          1) /* Gender - Male */
@@ -15,7 +14,6 @@ VALUES (1343962149,   1,         16) /* ItemType - Creature */
      , (1343962149, 134,          4) /* PlayerKillerStatus - PK */
      , (1343962149, 188,          1) /* HeritageGroup - Aluvian */
      , (1343962149, 261,          1) /* CharacterTitleId */
-     , (1343962149, 307,          5) /* DamageRating */
      , (1343962149, 390,          0) /* Enlightenment */
      , (1343962149, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 

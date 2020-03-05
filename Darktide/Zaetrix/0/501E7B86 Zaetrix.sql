@@ -14,7 +14,7 @@ VALUES (1344174982,   1,         16) /* ItemType - Creature */
      , (1344174982, 188,          4) /* HeritageGroup - Viamontian */
      , (1344174982, 261,          1) /* CharacterTitleId */
      , (1344174982, 390,          0) /* Enlightenment */
-     , (1344174982, 8007,          1) /* PCAPRecordedAutonomousMovement */;
+     , (1344174982, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1344174982,   1, True ) /* Stuck */
@@ -48,8 +48,8 @@ VALUES (1344174982,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1344174982, 1, 2847146009, 77.1056, 15.62922, 94.005, 0.4266487, 0, 0, -0.9044175) /* Location */
 /* @teleloc 0xA9B40019 [77.105600 15.629220 94.005000] 0.426649 0.000000 0.000000 -0.904418 */
-     , (1344174982, 8040, 2847080463, 45.02143, 153.0004, 94.00501, 0.913453, 0, 0, -0.4069442) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B3000F [45.021430 153.000400 94.005010] 0.913453 0.000000 0.000000 -0.406944 */;
+     , (1344174982, 8040, 2847145987, 1.68448, 64.86274, 78.005, 0.9803568, 0, 0, -0.1972323) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B40003 [1.684480 64.862740 78.005000] 0.980357 0.000000 0.000000 -0.197232 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1344174982, 8000, 1344174982) /* PCAPRecordedObjectIID */;

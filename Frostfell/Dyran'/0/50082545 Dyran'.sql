@@ -3,11 +3,23 @@ VALUES (1342711109, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342711109,   1,         16) /* ItemType - Creature */
+     , (1342711109,   2,         31) /* CreatureType - Human */
      , (1342711109,   6,        102) /* ItemsCapacity */
      , (1342711109,   7,          8) /* ContainersCapacity */
      , (1342711109,  16,          1) /* ItemUseable - No */
+     , (1342711109,  25,        245) /* Level */
+     , (1342711109,  30,          4) /* AllegianceRank */
      , (1342711109,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342711109, 113,          2) /* Gender - Female */
      , (1342711109, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342711109, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342711109, 188,          3) /* HeritageGroup - Sho */
+     , (1342711109, 261,        110) /* CharacterTitleId */
+     , (1342711109, 307,          5) /* DamageRating */
+     , (1342711109, 308,          1) /* DamageResistRating */
+     , (1342711109, 323,          3) /* HealingBoostRating */
+     , (1342711109, 350,         12) /* DotResistRating */
+     , (1342711109, 390,          0) /* Enlightenment */
      , (1342711109, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +31,10 @@ VALUES (1342711109,   1, True ) /* Stuck */
      , (1342711109,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342711109,   1, 'Dyran''') /* Name */;
+VALUES (1342711109,   1, 'Dyran''') /* Name */
+     , (1342711109,  21, 'King Aerfall') /* MonarchsTitle */
+     , (1342711109,  35, 'Mu''allim Jcgoblue') /* PatronsTitle */
+     , (1342711109,  47, 'Autobotz') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342711109,   1,   33554510) /* Setup */
@@ -27,6 +42,12 @@ VALUES (1342711109,   1,   33554510) /* Setup */
      , (1342711109,   3,  536870914) /* SoundTable */
      , (1342711109,   6,   67108990) /* PaletteBase */
      , (1342711109,   8,  100667446) /* Icon */
+     , (1342711109,   9,   83890263) /* EyesTexture */
+     , (1342711109,  10,   83890287) /* NoseTexture */
+     , (1342711109,  11,   83890321) /* MouthTexture */
+     , (1342711109,  15,   67109625) /* HairPalette */
+     , (1342711109,  16,   67109565) /* EyesPalette */
+     , (1342711109,  17,   67110056) /* SkinPalette */
      , (1342711109,  22,  872415236) /* PhysicsEffectTable */
      , (1342711109, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342711109, 8003,         60) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable, PlayerKiller */

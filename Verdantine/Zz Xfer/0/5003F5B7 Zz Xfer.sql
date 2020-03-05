@@ -3,11 +3,20 @@ VALUES (1342436791, 1, 10, 6738241) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342436791,   1,         16) /* ItemType - Creature */
+     , (1342436791,   2,         31) /* CreatureType - Human */
      , (1342436791,   6,        102) /* ItemsCapacity */
      , (1342436791,   7,          7) /* ContainersCapacity */
      , (1342436791,  16,          1) /* ItemUseable - No */
+     , (1342436791,  25,          6) /* Level */
      , (1342436791,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342436791, 113,          2) /* Gender - Female */
      , (1342436791, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342436791, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342436791, 188,          6) /* HeritageGroup - Gearknight */
+     , (1342436791, 261,          1) /* CharacterTitleId */
+     , (1342436791, 307,          5) /* DamageRating */
+     , (1342436791, 308,          3) /* DamageResistRating */
+     , (1342436791, 390,          0) /* Enlightenment */
      , (1342436791, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -30,6 +39,12 @@ VALUES (1342436791,   1,   33561069) /* Setup */
      , (1342436791,   3,  536871123) /* SoundTable */
      , (1342436791,   6,   67108990) /* PaletteBase */
      , (1342436791,   8,  100667446) /* Icon */
+     , (1342436791,   9,   83891927) /* EyesTexture */
+     , (1342436791,  10,   83891927) /* NoseTexture */
+     , (1342436791,  11,   83891927) /* MouthTexture */
+     , (1342436791,  15,   67116910) /* HairPalette */
+     , (1342436791,  16,   67116915) /* EyesPalette */
+     , (1342436791,  17,   67116894) /* SkinPalette */
      , (1342436791,  22,  872415434) /* PhysicsEffectTable */
      , (1342436791, 8001,    8388630) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, RadarBehavior */
      , (1342436791, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

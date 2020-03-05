@@ -22,7 +22,7 @@ VALUES (1343839833,   1,         16) /* ItemType - Creature */
      , (1343839833, 323,          2) /* HealingBoostRating */
      , (1343839833, 351,         12) /* LifeResistRating */
      , (1343839833, 390,          0) /* Enlightenment */
-     , (1343839833, 8007,          1) /* PCAPRecordedAutonomousMovement */;
+     , (1343839833, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1343839833,   1, True ) /* Stuck */
@@ -52,14 +52,14 @@ VALUES (1343839833,   1,   33554433) /* Setup */
      , (1343839833,  17,   67109556) /* SkinPalette */
      , (1343839833,  22,  872415236) /* PhysicsEffectTable */
      , (1343839833, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
-     , (1343839833, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
+     , (1343839833, 8003,         60) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable, PlayerKiller */
      , (1343839833, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343839833, 1, 2847080488, 109.9215, 177.7601, 98.72511, 0.9776374, 0, 0, -0.2102979) /* Location */
 /* @teleloc 0xA9B30028 [109.921500 177.760100 98.725110] 0.977637 0.000000 0.000000 -0.210298 */
-     , (1343839833, 8040, 2847146026, 130.0497, 31.2033, 94.005, 0.551505, 0, 0, 0.8341716) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B4002A [130.049700 31.203300 94.005000] 0.551505 0.000000 0.000000 0.834172 */;
+     , (1343839833, 8040, 2847145987, 5.171649, 70.2394, 78.005, -0.7257944, 0, 0, -0.6879117) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B40003 [5.171649 70.239400 78.005000] -0.725794 0.000000 0.000000 -0.687912 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343839833,  26, 1344015960) /* Monarch */

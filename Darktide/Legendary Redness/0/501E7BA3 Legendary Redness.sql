@@ -7,14 +7,12 @@ VALUES (1344175011,   1,         16) /* ItemType - Creature */
      , (1344175011,   6,        102) /* ItemsCapacity */
      , (1344175011,   7,          7) /* ContainersCapacity */
      , (1344175011,  16,          1) /* ItemUseable - No */
-     , (1344175011,  25,          7) /* Level */
      , (1344175011,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
      , (1344175011, 113,          1) /* Gender - Male */
      , (1344175011, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1344175011, 134,          4) /* PlayerKillerStatus - PK */
      , (1344175011, 188,          2) /* HeritageGroup - Gharundim */
      , (1344175011, 261,         10) /* CharacterTitleId */
-     , (1344175011, 307,          5) /* DamageRating */
      , (1344175011, 390,          0) /* Enlightenment */
      , (1344175011, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 

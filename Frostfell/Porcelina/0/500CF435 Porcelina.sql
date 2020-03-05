@@ -3,11 +3,28 @@ VALUES (1343026229, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343026229,   1,         16) /* ItemType - Creature */
+     , (1343026229,   2,         31) /* CreatureType - Human */
      , (1343026229,   6,        102) /* ItemsCapacity */
      , (1343026229,   7,          8) /* ContainersCapacity */
      , (1343026229,  16,          1) /* ItemUseable - No */
+     , (1343026229,  25,        275) /* Level */
+     , (1343026229,  30,          6) /* AllegianceRank */
      , (1343026229,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343026229, 113,          2) /* Gender - Female */
+     , (1343026229, 125,   16425321) /* Age */
      , (1343026229, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343026229, 134,         64) /* PlayerKillerStatus - PKLite */
+     , (1343026229, 188,          2) /* HeritageGroup - Gharundim */
+     , (1343026229, 261,        402) /* CharacterTitleId */
+     , (1343026229, 281,          1) /* Faction1Bits */
+     , (1343026229, 287,       1001) /* SocietyRankCelhan */
+     , (1343026229, 307,         21) /* DamageRating */
+     , (1343026229, 308,          6) /* DamageResistRating */
+     , (1343026229, 313,          1) /* CritRating */
+     , (1343026229, 314,          5) /* CritDamageRating */
+     , (1343026229, 316,          2) /* CritDamageResistRating */
+     , (1343026229, 323,          4) /* HealingBoostRating */
+     , (1343026229, 390,          0) /* Enlightenment */
      , (1343026229, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +36,12 @@ VALUES (1343026229,   1, True ) /* Stuck */
      , (1343026229,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343026229,   1, 'Porcelina') /* Name */;
+VALUES (1343026229,   1, 'Porcelina') /* Name */
+     , (1343026229,  10, 'Tsf') /* Fellowship */
+     , (1343026229,  21, 'Taikou Ling Mei') /* MonarchsTitle */
+     , (1343026229,  35, 'Kun-chueh Oz Pk') /* PatronsTitle */
+     , (1343026229,  43, '21 December 2002') /* DateOfBirth */
+     , (1343026229,  47, 'Soul Survivors') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343026229,   1,   33554510) /* Setup */
@@ -27,6 +49,12 @@ VALUES (1343026229,   1,   33554510) /* Setup */
      , (1343026229,   3,  536870914) /* SoundTable */
      , (1343026229,   6,   67108990) /* PaletteBase */
      , (1343026229,   8,  100667446) /* Icon */
+     , (1343026229,   9,   83890231) /* EyesTexture */
+     , (1343026229,  10,   83890290) /* NoseTexture */
+     , (1343026229,  11,   83890328) /* MouthTexture */
+     , (1343026229,  15,   67117016) /* HairPalette */
+     , (1343026229,  16,   67110063) /* EyesPalette */
+     , (1343026229,  17,   67109557) /* SkinPalette */
      , (1343026229,  22,  872415236) /* PhysicsEffectTable */
      , (1343026229, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343026229, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

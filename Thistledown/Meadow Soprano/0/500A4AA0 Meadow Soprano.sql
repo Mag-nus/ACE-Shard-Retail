@@ -3,11 +3,26 @@ VALUES (1342851744, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342851744,   1,         16) /* ItemType - Creature */
+     , (1342851744,   2,         31) /* CreatureType - Human */
      , (1342851744,   6,        102) /* ItemsCapacity */
      , (1342851744,   7,          8) /* ContainersCapacity */
      , (1342851744,  16,          1) /* ItemUseable - No */
+     , (1342851744,  25,        275) /* Level */
+     , (1342851744,  30,          3) /* AllegianceRank */
      , (1342851744,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342851744, 113,          2) /* Gender - Female */
      , (1342851744, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342851744, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342851744, 188,          1) /* HeritageGroup - Aluvian */
+     , (1342851744, 261,        112) /* CharacterTitleId */
+     , (1342851744, 262,         65) /* NumCharacterTitles */
+     , (1342851744, 307,          6) /* DamageRating */
+     , (1342851744, 308,          5) /* DamageResistRating */
+     , (1342851744, 314,          6) /* CritDamageRating */
+     , (1342851744, 316,          2) /* CritDamageResistRating */
+     , (1342851744, 323,          1) /* HealingBoostRating */
+     , (1342851744, 351,         12) /* LifeResistRating */
+     , (1342851744, 390,          0) /* Enlightenment */
      , (1342851744, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +34,11 @@ VALUES (1342851744,   1, True ) /* Stuck */
      , (1342851744,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342851744,   1, 'Meadow Soprano') /* Name */;
+VALUES (1342851744,   1, 'Meadow Soprano') /* Name */
+     , (1342851744,  21, 'Sultana Nythak I') /* MonarchsTitle */
+     , (1342851744,  35, 'Reeve E R I C A') /* PatronsTitle */
+     , (1342851744,  43, '20 February 2002') /* DateOfBirth */
+     , (1342851744,  47, 'Royal Court') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342851744,   1,   33554510) /* Setup */
@@ -27,6 +46,12 @@ VALUES (1342851744,   1,   33554510) /* Setup */
      , (1342851744,   3,  536870914) /* SoundTable */
      , (1342851744,   6,   67108990) /* PaletteBase */
      , (1342851744,   8,  100667446) /* Icon */
+     , (1342851744,   9,   83890280) /* EyesTexture */
+     , (1342851744,  10,   83890291) /* NoseTexture */
+     , (1342851744,  11,   83890330) /* MouthTexture */
+     , (1342851744,  15,   67117077) /* HairPalette */
+     , (1342851744,  16,   67109564) /* EyesPalette */
+     , (1342851744,  17,   67109558) /* SkinPalette */
      , (1342851744,  22,  872415236) /* PhysicsEffectTable */
      , (1342851744, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342851744, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

@@ -3,11 +3,27 @@ VALUES (1343185633, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343185633,   1,         16) /* ItemType - Creature */
+     , (1343185633,   2,         31) /* CreatureType - Human */
      , (1343185633,   6,        102) /* ItemsCapacity */
      , (1343185633,   7,          8) /* ContainersCapacity */
      , (1343185633,  16,          1) /* ItemUseable - No */
+     , (1343185633,  25,        275) /* Level */
+     , (1343185633,  30,          3) /* AllegianceRank */
      , (1343185633,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343185633, 113,          1) /* Gender - Male */
      , (1343185633, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343185633, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343185633, 188,          1) /* HeritageGroup - Aluvian */
+     , (1343185633, 261,        693) /* CharacterTitleId */
+     , (1343185633, 281,          2) /* Faction1Bits */
+     , (1343185633, 288,       1001) /* SocietyRankEldweb */
+     , (1343185633, 307,         11) /* DamageRating */
+     , (1343185633, 308,         31) /* DamageResistRating */
+     , (1343185633, 313,          1) /* CritRating */
+     , (1343185633, 314,         13) /* CritDamageRating */
+     , (1343185633, 316,         10) /* CritDamageResistRating */
+     , (1343185633, 323,          9) /* HealingBoostRating */
+     , (1343185633, 390,          0) /* Enlightenment */
      , (1343185633, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +35,10 @@ VALUES (1343185633,   1, True ) /* Stuck */
      , (1343185633,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343185633,   1, 'The Chaos Lord') /* Name */;
+VALUES (1343185633,   1, 'The Chaos Lord') /* Name */
+     , (1343185633,  21, 'Kou Carlon') /* MonarchsTitle */
+     , (1343185633,  35, 'Nan-chueh My Platemail') /* PatronsTitle */
+     , (1343185633,  47, 'RIP AC TDFORLIFE') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343185633,   1,   33554433) /* Setup */
@@ -27,6 +46,12 @@ VALUES (1343185633,   1,   33554433) /* Setup */
      , (1343185633,   3,  536870913) /* SoundTable */
      , (1343185633,   6,   67108990) /* PaletteBase */
      , (1343185633,   8,  100667446) /* Icon */
+     , (1343185633,   9,   83890508) /* EyesTexture */
+     , (1343185633,  10,   83890555) /* NoseTexture */
+     , (1343185633,  11,   83890633) /* MouthTexture */
+     , (1343185633,  15,   67109612) /* HairPalette */
+     , (1343185633,  16,   67110064) /* EyesPalette */
+     , (1343185633,  17,   67109560) /* SkinPalette */
      , (1343185633,  22,  872415236) /* PhysicsEffectTable */
      , (1343185633, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343185633, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

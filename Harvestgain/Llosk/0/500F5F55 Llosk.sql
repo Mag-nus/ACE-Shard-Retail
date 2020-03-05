@@ -6,13 +6,13 @@ VALUES (1343184725,   1,         16) /* ItemType - Creature */
      , (1343184725,   6,        102) /* ItemsCapacity */
      , (1343184725,   7,          8) /* ContainersCapacity */
      , (1343184725,  16,          1) /* ItemUseable - No */
-     , (1343184725,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343184725,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1343184725, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343184725, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1343184725,   1, True ) /* Stuck */
-     , (1343184725,  11, True ) /* IgnoreCollisions */
+     , (1343184725,  12, True ) /* ReportCollisions */
      , (1343184725,  13, False) /* Ethereal */
      , (1343184725,  14, True ) /* GravityStatus */
      , (1343184725,  19, True ) /* Attackable */

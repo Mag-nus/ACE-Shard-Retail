@@ -14,11 +14,11 @@ VALUES (1343455386,   1,         16) /* ItemType - Creature */
      , (1343455386, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343455386, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343455386, 188,          2) /* HeritageGroup - Gharundim */
-     , (1343455386, 261,          1) /* CharacterTitleId */
+     , (1343455386, 261,        765) /* CharacterTitleId */
      , (1343455386, 307,         11) /* DamageRating */
      , (1343455386, 323,          2) /* HealingBoostRating */
      , (1343455386, 390,          0) /* Enlightenment */
-     , (1343455386, 8007,          0) /* PCAPRecordedAutonomousMovement */;
+     , (1343455386, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1343455386,   1, True ) /* Stuck */

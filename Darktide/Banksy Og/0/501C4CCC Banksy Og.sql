@@ -3,11 +3,19 @@ VALUES (1344031948, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1344031948,   1,         16) /* ItemType - Creature */
+     , (1344031948,   2,         31) /* CreatureType - Human */
      , (1344031948,   6,        102) /* ItemsCapacity */
      , (1344031948,   7,          8) /* ContainersCapacity */
      , (1344031948,  16,          1) /* ItemUseable - No */
+     , (1344031948,  30,          2) /* AllegianceRank */
+     , (1344031948,  35,          2) /* AllegianceFollowers */
      , (1344031948,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1344031948, 113,          1) /* Gender - Male */
      , (1344031948, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1344031948, 134,          4) /* PlayerKillerStatus - PK */
+     , (1344031948, 188,          2) /* HeritageGroup - Gharundim */
+     , (1344031948, 261,        444) /* CharacterTitleId */
+     , (1344031948, 390,          0) /* Enlightenment */
      , (1344031948, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +27,8 @@ VALUES (1344031948,   1, True ) /* Stuck */
      , (1344031948,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1344031948,   1, 'Banksy Og') /* Name */;
+VALUES (1344031948,   1, 'Banksy Og') /* Name */
+     , (1344031948,  10, 'Q') /* Fellowship */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1344031948,   1,   33554433) /* Setup */
@@ -27,6 +36,12 @@ VALUES (1344031948,   1,   33554433) /* Setup */
      , (1344031948,   3,  536870913) /* SoundTable */
      , (1344031948,   6,   67108990) /* PaletteBase */
      , (1344031948,   8,  100667446) /* Icon */
+     , (1344031948,   9,   83890456) /* EyesTexture */
+     , (1344031948,  10,   83890540) /* NoseTexture */
+     , (1344031948,  11,   83890575) /* MouthTexture */
+     , (1344031948,  15,   67117016) /* HairPalette */
+     , (1344031948,  16,   67109567) /* EyesPalette */
+     , (1344031948,  17,   67109556) /* SkinPalette */
      , (1344031948,  22,  872415236) /* PhysicsEffectTable */
      , (1344031948, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1344031948, 8003,         60) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable, PlayerKiller */

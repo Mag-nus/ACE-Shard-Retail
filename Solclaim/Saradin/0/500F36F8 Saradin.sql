@@ -3,11 +3,24 @@ VALUES (1343174392, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343174392,   1,         16) /* ItemType - Creature */
+     , (1343174392,   2,         31) /* CreatureType - Human */
      , (1343174392,   6,        102) /* ItemsCapacity */
      , (1343174392,   7,          8) /* ContainersCapacity */
      , (1343174392,  16,          1) /* ItemUseable - No */
+     , (1343174392,  25,        275) /* Level */
+     , (1343174392,  30,          4) /* AllegianceRank */
      , (1343174392,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343174392, 113,          2) /* Gender - Female */
      , (1343174392, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343174392, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343174392, 188,          3) /* HeritageGroup - Sho */
+     , (1343174392, 261,          1) /* CharacterTitleId */
+     , (1343174392, 307,          5) /* DamageRating */
+     , (1343174392, 308,          3) /* DamageResistRating */
+     , (1343174392, 314,          1) /* CritDamageRating */
+     , (1343174392, 316,          2) /* CritDamageResistRating */
+     , (1343174392, 323,          2) /* HealingBoostRating */
+     , (1343174392, 390,          0) /* Enlightenment */
      , (1343174392, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +32,10 @@ VALUES (1343174392,   1, True ) /* Stuck */
      , (1343174392,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343174392,   1, 'Saradin') /* Name */;
+VALUES (1343174392,   1, 'Saradin') /* Name */
+     , (1343174392,  21, 'Ealdor Debo II') /* MonarchsTitle */
+     , (1343174392,  35, 'Thane Slust II') /* PatronsTitle */
+     , (1343174392,  47, 'I AM The Way The Truth And The Life') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343174392,   1,   33554510) /* Setup */
@@ -27,6 +43,12 @@ VALUES (1343174392,   1,   33554510) /* Setup */
      , (1343174392,   3,  536870914) /* SoundTable */
      , (1343174392,   6,   67108990) /* PaletteBase */
      , (1343174392,   8,  100667446) /* Icon */
+     , (1343174392,   9,   83890241) /* EyesTexture */
+     , (1343174392,  10,   83890317) /* NoseTexture */
+     , (1343174392,  11,   83890351) /* MouthTexture */
+     , (1343174392,  15,   67116995) /* HairPalette */
+     , (1343174392,  16,   67109565) /* EyesPalette */
+     , (1343174392,  17,   67110056) /* SkinPalette */
      , (1343174392,  22,  872415236) /* PhysicsEffectTable */
      , (1343174392, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343174392, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

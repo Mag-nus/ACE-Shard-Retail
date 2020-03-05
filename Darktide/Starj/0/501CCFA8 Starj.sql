@@ -11,9 +11,11 @@ VALUES (1344065448,   1,         16) /* ItemType - Creature */
      , (1344065448,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
      , (1344065448, 113,          1) /* Gender - Male */
      , (1344065448, 133,          4) /* ShowableOnRadar - ShowAlways */
-     , (1344065448, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1344065448, 134,          4) /* PlayerKillerStatus - PK */
      , (1344065448, 188,          5) /* HeritageGroup - Shadowbound */
      , (1344065448, 261,          1) /* CharacterTitleId */
+     , (1344065448, 307,          5) /* DamageRating */
+     , (1344065448, 313,          1) /* CritRating */
      , (1344065448, 390,          0) /* Enlightenment */
      , (1344065448, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
@@ -26,8 +28,7 @@ VALUES (1344065448,   1, True ) /* Stuck */
      , (1344065448,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1344065448,   1, 'Starj') /* Name */
-     , (1344065448,  10, 'We got this') /* Fellowship */;
+VALUES (1344065448,   1, 'Starj') /* Name */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1344065448,   1,   33560943) /* Setup */

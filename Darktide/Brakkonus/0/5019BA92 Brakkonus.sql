@@ -8,15 +8,14 @@ VALUES (1343863442,   1,         16) /* ItemType - Creature */
      , (1343863442,   7,          7) /* ContainersCapacity */
      , (1343863442,  16,          1) /* ItemUseable - No */
      , (1343863442,  25,         10) /* Level */
+     , (1343863442,  30,          1) /* AllegianceRank */
+     , (1343863442,  35,          2) /* AllegianceFollowers */
      , (1343863442,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1343863442, 113,          1) /* Gender - Male */
      , (1343863442, 133,          4) /* ShowableOnRadar - ShowAlways */
-     , (1343863442, 134,          4) /* PlayerKillerStatus - PK */
+     , (1343863442, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343863442, 188,          3) /* HeritageGroup - Sho */
      , (1343863442, 261,          1) /* CharacterTitleId */
-     , (1343863442, 307,         15) /* DamageRating */
-     , (1343863442, 381,          1) /* PKDamageRating */
-     , (1343863442, 382,          1) /* PKDamageResistRating */
      , (1343863442, 390,          0) /* Enlightenment */
      , (1343863442, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
@@ -29,8 +28,7 @@ VALUES (1343863442,   1, True ) /* Stuck */
      , (1343863442,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343863442,   1, 'Brakkonus') /* Name */
-     , (1343863442,  10, 'X') /* Fellowship */;
+VALUES (1343863442,   1, 'Brakkonus') /* Name */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343863442,   1,   33554433) /* Setup */

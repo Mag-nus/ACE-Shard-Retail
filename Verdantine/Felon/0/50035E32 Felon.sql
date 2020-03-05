@@ -3,11 +3,28 @@ VALUES (1342398002, 1, 10, 6738241) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342398002,   1,         16) /* ItemType - Creature */
+     , (1342398002,   2,         31) /* CreatureType - Human */
      , (1342398002,   6,        102) /* ItemsCapacity */
      , (1342398002,   7,          8) /* ContainersCapacity */
      , (1342398002,  16,          1) /* ItemUseable - No */
+     , (1342398002,  25,        275) /* Level */
+     , (1342398002,  30,          4) /* AllegianceRank */
+     , (1342398002,  35,         21) /* AllegianceFollowers */
      , (1342398002,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342398002, 113,          1) /* Gender - Male */
      , (1342398002, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342398002, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342398002, 188,          9) /* HeritageGroup - Empyrean */
+     , (1342398002, 261,        562) /* CharacterTitleId */
+     , (1342398002, 281,          1) /* Faction1Bits */
+     , (1342398002, 287,       1001) /* SocietyRankCelhan */
+     , (1342398002, 307,         31) /* DamageRating */
+     , (1342398002, 308,         25) /* DamageResistRating */
+     , (1342398002, 313,          1) /* CritRating */
+     , (1342398002, 314,         16) /* CritDamageRating */
+     , (1342398002, 316,          6) /* CritDamageResistRating */
+     , (1342398002, 323,         16) /* HealingBoostRating */
+     , (1342398002, 390,          0) /* Enlightenment */
      , (1342398002, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -30,6 +47,12 @@ VALUES (1342398002,   1,   33561110) /* Setup */
      , (1342398002,   3,  536870913) /* SoundTable */
      , (1342398002,   6,   67108990) /* PaletteBase */
      , (1342398002,   8,  100667446) /* Icon */
+     , (1342398002,   9,   83890509) /* EyesTexture */
+     , (1342398002,  10,   83890555) /* NoseTexture */
+     , (1342398002,  11,   83890636) /* MouthTexture */
+     , (1342398002,  15,   67117095) /* HairPalette */
+     , (1342398002,  16,   67116855) /* EyesPalette */
+     , (1342398002,  17,   67116969) /* SkinPalette */
      , (1342398002,  22,  872415236) /* PhysicsEffectTable */
      , (1342398002, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342398002, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

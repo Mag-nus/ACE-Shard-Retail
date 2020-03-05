@@ -3,11 +3,27 @@ VALUES (1342648856, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342648856,   1,         16) /* ItemType - Creature */
+     , (1342648856,   2,         31) /* CreatureType - Human */
      , (1342648856,   6,        102) /* ItemsCapacity */
      , (1342648856,   7,          8) /* ContainersCapacity */
      , (1342648856,  16,          1) /* ItemUseable - No */
+     , (1342648856,  25,        275) /* Level */
+     , (1342648856,  30,          8) /* AllegianceRank */
      , (1342648856,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342648856, 113,          2) /* Gender - Female */
      , (1342648856, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342648856, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342648856, 188,          2) /* HeritageGroup - Gharundim */
+     , (1342648856, 261,         81) /* CharacterTitleId */
+     , (1342648856, 281,          4) /* Faction1Bits */
+     , (1342648856, 289,        101) /* SocietyRankRadblo */
+     , (1342648856, 307,         16) /* DamageRating */
+     , (1342648856, 308,         13) /* DamageResistRating */
+     , (1342648856, 313,          1) /* CritRating */
+     , (1342648856, 314,          6) /* CritDamageRating */
+     , (1342648856, 316,          2) /* CritDamageResistRating */
+     , (1342648856, 323,          4) /* HealingBoostRating */
+     , (1342648856, 390,          0) /* Enlightenment */
      , (1342648856, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +35,10 @@ VALUES (1342648856,   1, True ) /* Stuck */
      , (1342648856,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342648856,   1, 'Persephony') /* Name */;
+VALUES (1342648856,   1, 'Persephony') /* Name */
+     , (1342648856,  21, 'Malika Legend of Cragstone') /* MonarchsTitle */
+     , (1342648856,  35, 'Malika Legend of Cragstone') /* PatronsTitle */
+     , (1342648856,  47, 'The Legends of Cragstone') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342648856,   1,   33554510) /* Setup */
@@ -27,6 +46,12 @@ VALUES (1342648856,   1,   33554510) /* Setup */
      , (1342648856,   3,  536870914) /* SoundTable */
      , (1342648856,   6,   67108990) /* PaletteBase */
      , (1342648856,   8,  100667446) /* Icon */
+     , (1342648856,   9,   83890263) /* EyesTexture */
+     , (1342648856,  10,   83890297) /* NoseTexture */
+     , (1342648856,  11,   83890356) /* MouthTexture */
+     , (1342648856,  15,   67109618) /* HairPalette */
+     , (1342648856,  16,   67109567) /* EyesPalette */
+     , (1342648856,  17,   67109555) /* SkinPalette */
      , (1342648856,  22,  872415236) /* PhysicsEffectTable */
      , (1342648856, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342648856, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

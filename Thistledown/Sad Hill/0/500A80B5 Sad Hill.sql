@@ -3,11 +3,29 @@ VALUES (1342865589, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342865589,   1,         16) /* ItemType - Creature */
+     , (1342865589,   2,         31) /* CreatureType - Human */
      , (1342865589,   6,        102) /* ItemsCapacity */
      , (1342865589,   7,          7) /* ContainersCapacity */
      , (1342865589,  16,          1) /* ItemUseable - No */
+     , (1342865589,  25,        275) /* Level */
+     , (1342865589,  30,          4) /* AllegianceRank */
      , (1342865589,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1342865589, 113,          1) /* Gender - Male */
      , (1342865589, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342865589, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342865589, 188,          1) /* HeritageGroup - Aluvian */
+     , (1342865589, 261,         17) /* CharacterTitleId */
+     , (1342865589, 281,          4) /* Faction1Bits */
+     , (1342865589, 289,        101) /* SocietyRankRadblo */
+     , (1342865589, 307,         33) /* DamageRating */
+     , (1342865589, 308,         16) /* DamageResistRating */
+     , (1342865589, 313,          1) /* CritRating */
+     , (1342865589, 314,          5) /* CritDamageRating */
+     , (1342865589, 316,          1) /* CritDamageResistRating */
+     , (1342865589, 323,          7) /* HealingBoostRating */
+     , (1342865589, 350,         12) /* DotResistRating */
+     , (1342865589, 351,         16) /* LifeResistRating */
+     , (1342865589, 390,          0) /* Enlightenment */
      , (1342865589, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +37,11 @@ VALUES (1342865589,   1, True ) /* Stuck */
      , (1342865589,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342865589,   1, 'Sad Hill') /* Name */;
+VALUES (1342865589,   1, 'Sad Hill') /* Name */
+     , (1342865589,  10, 'Ttkt Killerz') /* Fellowship */
+     , (1342865589,  21, 'Malik Tao Roo Chingon II') /* MonarchsTitle */
+     , (1342865589,  35, 'Naquib Stramus') /* PatronsTitle */
+     , (1342865589,  47, 'The Spirits of the Mountain') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342865589,   1,   33554433) /* Setup */
@@ -27,6 +49,12 @@ VALUES (1342865589,   1,   33554433) /* Setup */
      , (1342865589,   3,  536870913) /* SoundTable */
      , (1342865589,   6,   67108990) /* PaletteBase */
      , (1342865589,   8,  100667446) /* Icon */
+     , (1342865589,   9,   83890516) /* EyesTexture */
+     , (1342865589,  10,   83890521) /* NoseTexture */
+     , (1342865589,  11,   83890651) /* MouthTexture */
+     , (1342865589,  15,   67109625) /* HairPalette */
+     , (1342865589,  16,   67110064) /* EyesPalette */
+     , (1342865589,  17,   67109559) /* SkinPalette */
      , (1342865589,  22,  872415236) /* PhysicsEffectTable */
      , (1342865589, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342865589, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

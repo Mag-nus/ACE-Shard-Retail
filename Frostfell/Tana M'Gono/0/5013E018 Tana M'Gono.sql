@@ -3,11 +3,19 @@ VALUES (1343479832, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343479832,   1,         16) /* ItemType - Creature */
+     , (1343479832,   2,         31) /* CreatureType - Human */
      , (1343479832,   6,        102) /* ItemsCapacity */
      , (1343479832,   7,          7) /* ContainersCapacity */
      , (1343479832,  16,          1) /* ItemUseable - No */
+     , (1343479832,  25,         56) /* Level */
      , (1343479832,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343479832, 113,          2) /* Gender - Female */
      , (1343479832, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343479832, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343479832, 188,          3) /* HeritageGroup - Sho */
+     , (1343479832, 261,          1) /* CharacterTitleId */
+     , (1343479832, 307,          5) /* DamageRating */
+     , (1343479832, 390,          0) /* Enlightenment */
      , (1343479832, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +27,8 @@ VALUES (1343479832,   1, True ) /* Stuck */
      , (1343479832,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343479832,   1, 'Tana M''Gono') /* Name */;
+VALUES (1343479832,   1, 'Tana M''Gono') /* Name */
+     , (1343479832,  10, 'For Love') /* Fellowship */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343479832,   1,   33554510) /* Setup */
@@ -27,6 +36,12 @@ VALUES (1343479832,   1,   33554510) /* Setup */
      , (1343479832,   3,  536870914) /* SoundTable */
      , (1343479832,   6,   67108990) /* PaletteBase */
      , (1343479832,   8,  100667446) /* Icon */
+     , (1343479832,   9,   83890235) /* EyesTexture */
+     , (1343479832,  10,   83890286) /* NoseTexture */
+     , (1343479832,  11,   83890328) /* MouthTexture */
+     , (1343479832,  15,   67117002) /* HairPalette */
+     , (1343479832,  16,   67109565) /* EyesPalette */
+     , (1343479832,  17,   67110057) /* SkinPalette */
      , (1343479832,  22,  872415236) /* PhysicsEffectTable */
      , (1343479832, 8001,    8388630) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, RadarBehavior */
      , (1343479832, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

@@ -3,11 +3,29 @@ VALUES (1342947954, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342947954,   1,         16) /* ItemType - Creature */
+     , (1342947954,   2,         31) /* CreatureType - Human */
      , (1342947954,   6,        102) /* ItemsCapacity */
      , (1342947954,   7,          8) /* ContainersCapacity */
      , (1342947954,  16,          1) /* ItemUseable - No */
+     , (1342947954,  25,        275) /* Level */
+     , (1342947954,  30,          6) /* AllegianceRank */
+     , (1342947954,  43,       1085) /* NumDeaths */
      , (1342947954,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342947954, 113,          2) /* Gender - Female */
+     , (1342947954, 125,    9775627) /* Age */
      , (1342947954, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342947954, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342947954, 188,          1) /* HeritageGroup - Aluvian */
+     , (1342947954, 192,         58) /* FakeFishingSkill */
+     , (1342947954, 261,        511) /* CharacterTitleId */
+     , (1342947954, 262,        116) /* NumCharacterTitles */
+     , (1342947954, 281,          2) /* Faction1Bits */
+     , (1342947954, 288,        995) /* SocietyRankEldweb */
+     , (1342947954, 307,          5) /* DamageRating */
+     , (1342947954, 323,          4) /* HealingBoostRating */
+     , (1342947954, 350,         16) /* DotResistRating */
+     , (1342947954, 351,          8) /* LifeResistRating */
+     , (1342947954, 390,          0) /* Enlightenment */
      , (1342947954, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +37,11 @@ VALUES (1342947954,   1, True ) /* Stuck */
      , (1342947954,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342947954,   1, 'Moo im a fish') /* Name */;
+VALUES (1342947954,   1, 'Moo im a fish') /* Name */
+     , (1342947954,  21, 'Malik Tao Roo Chingon II') /* MonarchsTitle */
+     , (1342947954,  35, 'Malika Eowyn Windsong') /* PatronsTitle */
+     , (1342947954,  43, '01 October 2002') /* DateOfBirth */
+     , (1342947954,  47, 'The Spirits of the Mountain') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342947954,   1,   33554510) /* Setup */
@@ -27,6 +49,12 @@ VALUES (1342947954,   1,   33554510) /* Setup */
      , (1342947954,   3,  536870914) /* SoundTable */
      , (1342947954,   6,   67108990) /* PaletteBase */
      , (1342947954,   8,  100667446) /* Icon */
+     , (1342947954,   9,   83890259) /* EyesTexture */
+     , (1342947954,  10,   83890317) /* NoseTexture */
+     , (1342947954,  11,   83890358) /* MouthTexture */
+     , (1342947954,  15,   67116859) /* HairPalette */
+     , (1342947954,  16,   67109567) /* EyesPalette */
+     , (1342947954,  17,   67109559) /* SkinPalette */
      , (1342947954,  22,  872415236) /* PhysicsEffectTable */
      , (1342947954, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342947954, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

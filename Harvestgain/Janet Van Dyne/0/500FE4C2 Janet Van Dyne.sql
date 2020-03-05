@@ -3,11 +3,27 @@ VALUES (1343218882, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343218882,   1,         16) /* ItemType - Creature */
+     , (1343218882,   2,         31) /* CreatureType - Human */
      , (1343218882,   6,        102) /* ItemsCapacity */
      , (1343218882,   7,          8) /* ContainersCapacity */
      , (1343218882,  16,          1) /* ItemUseable - No */
+     , (1343218882,  25,        275) /* Level */
+     , (1343218882,  30,          2) /* AllegianceRank */
      , (1343218882,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343218882, 113,          2) /* Gender - Female */
      , (1343218882, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343218882, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343218882, 188,          1) /* HeritageGroup - Aluvian */
+     , (1343218882, 261,        881) /* CharacterTitleId */
+     , (1343218882, 281,          2) /* Faction1Bits */
+     , (1343218882, 288,       1001) /* SocietyRankEldweb */
+     , (1343218882, 307,         52) /* DamageRating */
+     , (1343218882, 308,         29) /* DamageResistRating */
+     , (1343218882, 313,          1) /* CritRating */
+     , (1343218882, 314,         33) /* CritDamageRating */
+     , (1343218882, 316,         14) /* CritDamageResistRating */
+     , (1343218882, 323,          9) /* HealingBoostRating */
+     , (1343218882, 390,          0) /* Enlightenment */
      , (1343218882, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +35,10 @@ VALUES (1343218882,   1, True ) /* Stuck */
      , (1343218882,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343218882,   1, 'Janet Van Dyne') /* Name */;
+VALUES (1343218882,   1, 'Janet Van Dyne') /* Name */
+     , (1343218882,  21, 'Kou Hogun the grim') /* MonarchsTitle */
+     , (1343218882,  35, 'Duchess Klien Rox') /* PatronsTitle */
+     , (1343218882,  47, 'Immortals') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343218882,   1,   33554510) /* Setup */
@@ -27,6 +46,12 @@ VALUES (1343218882,   1,   33554510) /* Setup */
      , (1343218882,   3,  536870914) /* SoundTable */
      , (1343218882,   6,   67108990) /* PaletteBase */
      , (1343218882,   8,  100667446) /* Icon */
+     , (1343218882,   9,   83890277) /* EyesTexture */
+     , (1343218882,  10,   83890300) /* NoseTexture */
+     , (1343218882,  11,   83890350) /* MouthTexture */
+     , (1343218882,  15,   67117072) /* HairPalette */
+     , (1343218882,  16,   67110065) /* EyesPalette */
+     , (1343218882,  17,   67109559) /* SkinPalette */
      , (1343218882,  22,  872415236) /* PhysicsEffectTable */
      , (1343218882, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343218882, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

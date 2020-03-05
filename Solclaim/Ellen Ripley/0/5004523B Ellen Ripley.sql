@@ -3,23 +3,36 @@ VALUES (1342460475, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342460475,   1,         16) /* ItemType - Creature */
+     , (1342460475,   2,         31) /* CreatureType - Human */
      , (1342460475,   6,        102) /* ItemsCapacity */
      , (1342460475,   7,          8) /* ContainersCapacity */
      , (1342460475,  16,          1) /* ItemUseable - No */
-     , (1342460475,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1342460475,  25,        275) /* Level */
+     , (1342460475,  30,          7) /* AllegianceRank */
+     , (1342460475,  35,       1671) /* AllegianceFollowers */
+     , (1342460475,  43,        176) /* NumDeaths */
+     , (1342460475,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342460475, 113,          2) /* Gender - Female */
+     , (1342460475, 125,   13812781) /* Age */
      , (1342460475, 133,          4) /* ShowableOnRadar - ShowAlways */
-     , (1342460475, 8007,          0) /* PCAPRecordedAutonomousMovement */;
+     , (1342460475, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342460475, 188,          3) /* HeritageGroup - Sho */
+     , (1342460475, 261,        101) /* CharacterTitleId */
+     , (1342460475, 390,          0) /* Enlightenment */
+     , (1342460475, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1342460475,   1, True ) /* Stuck */
-     , (1342460475,  11, True ) /* IgnoreCollisions */
+     , (1342460475,  12, True ) /* ReportCollisions */
      , (1342460475,  13, False) /* Ethereal */
      , (1342460475,  14, True ) /* GravityStatus */
      , (1342460475,  19, True ) /* Attackable */
      , (1342460475,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342460475,   1, 'Ellen Ripley') /* Name */;
+VALUES (1342460475,   1, 'Ellen Ripley') /* Name */
+     , (1342460475,  43, '24 November 2000') /* DateOfBirth */
+     , (1342460475,  47, 'The Renegade Guild') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342460475,   1,   33554510) /* Setup */
@@ -27,6 +40,12 @@ VALUES (1342460475,   1,   33554510) /* Setup */
      , (1342460475,   3,  536870914) /* SoundTable */
      , (1342460475,   6,   67108990) /* PaletteBase */
      , (1342460475,   8,  100667446) /* Icon */
+     , (1342460475,   9,   83890276) /* EyesTexture */
+     , (1342460475,  10,   83890294) /* NoseTexture */
+     , (1342460475,  11,   83890328) /* MouthTexture */
+     , (1342460475,  15,   67109629) /* HairPalette */
+     , (1342460475,  16,   67109565) /* EyesPalette */
+     , (1342460475,  17,   67110053) /* SkinPalette */
      , (1342460475,  22,  872415236) /* PhysicsEffectTable */
      , (1342460475, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342460475, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
@@ -35,8 +54,8 @@ VALUES (1342460475,   1,   33554510) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1342460475, 1, 3281977372, 72.5257, 76.9859, 8.009999, -0.999011, 0, 0, 0.0444747) /* Location */
 /* @teleloc 0xC39F001C [72.525700 76.985900 8.009999] -0.999011 0.000000 0.000000 0.044475 */
-     , (1342460475, 8040, 2103705618, 53.65533, 30.53823, 12.005, 0.9963933, 0, 0, -0.0848546) /* PCAPRecordedLocation */
-/* @teleloc 0x7D640012 [53.655330 30.538230 12.005000] 0.996393 0.000000 0.000000 -0.084855 */;
+     , (1342460475, 8040, 20185358, 25.15686, -29.09327, 0.004999995, 0.9818845, 0, 0, -0.1894803) /* PCAPRecordedLocation */
+/* @teleloc 0x0134010E [25.156860 -29.093270 0.005000] 0.981885 0.000000 0.000000 -0.189480 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342460475,  26, 1342460475) /* Monarch */

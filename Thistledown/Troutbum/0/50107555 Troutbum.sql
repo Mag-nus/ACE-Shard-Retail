@@ -3,11 +3,20 @@ VALUES (1343255893, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343255893,   1,         16) /* ItemType - Creature */
+     , (1343255893,   2,         31) /* CreatureType - Human */
      , (1343255893,   6,        102) /* ItemsCapacity */
      , (1343255893,   7,          7) /* ContainersCapacity */
      , (1343255893,  16,          1) /* ItemUseable - No */
+     , (1343255893,  25,         49) /* Level */
+     , (1343255893,  30,          2) /* AllegianceRank */
+     , (1343255893,  35,         10) /* AllegianceFollowers */
      , (1343255893,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343255893, 113,          1) /* Gender - Male */
      , (1343255893, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343255893, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343255893, 188,          3) /* HeritageGroup - Sho */
+     , (1343255893, 261,          1) /* CharacterTitleId */
+     , (1343255893, 390,          0) /* Enlightenment */
      , (1343255893, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +28,8 @@ VALUES (1343255893,   1, True ) /* Stuck */
      , (1343255893,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343255893,   1, 'Troutbum') /* Name */;
+VALUES (1343255893,   1, 'Troutbum') /* Name */
+     , (1343255893,  47, 'The Vanilla Exploration Society') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343255893,   1,   33554433) /* Setup */
@@ -27,6 +37,12 @@ VALUES (1343255893,   1,   33554433) /* Setup */
      , (1343255893,   3,  536870913) /* SoundTable */
      , (1343255893,   6,   67108990) /* PaletteBase */
      , (1343255893,   8,  100667446) /* Icon */
+     , (1343255893,   9,   83890458) /* EyesTexture */
+     , (1343255893,  10,   83890527) /* NoseTexture */
+     , (1343255893,  11,   83890634) /* MouthTexture */
+     , (1343255893,  15,   67116994) /* HairPalette */
+     , (1343255893,  16,   67110063) /* EyesPalette */
+     , (1343255893,  17,   67110056) /* SkinPalette */
      , (1343255893,  22,  872415236) /* PhysicsEffectTable */
      , (1343255893, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343255893, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

@@ -7,25 +7,21 @@ VALUES (1342194742,   1,         16) /* ItemType - Creature */
      , (1342194742,   6,        102) /* ItemsCapacity */
      , (1342194742,   7,          8) /* ContainersCapacity */
      , (1342194742,  16,          1) /* ItemUseable - No */
-     , (1342194742,  25,        244) /* Level */
      , (1342194742,  30,          2) /* AllegianceRank */
-     , (1342194742,  43,       1624) /* NumDeaths */
-     , (1342194742,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1342194742,  43,       1633) /* NumDeaths */
+     , (1342194742,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1342194742, 113,          1) /* Gender - Male */
-     , (1342194742, 125,    7705635) /* Age */
+     , (1342194742, 125,    7712583) /* Age */
      , (1342194742, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342194742, 134,          4) /* PlayerKillerStatus - PK */
      , (1342194742, 188,          1) /* HeritageGroup - Aluvian */
      , (1342194742, 261,         17) /* CharacterTitleId */
-     , (1342194742, 281,          2) /* Faction1Bits */
-     , (1342194742, 288,          1) /* SocietyRankEldweb */
-     , (1342194742, 307,          5) /* DamageRating */
      , (1342194742, 390,          0) /* Enlightenment */
      , (1342194742, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1342194742,   1, True ) /* Stuck */
-     , (1342194742,  11, True ) /* IgnoreCollisions */
+     , (1342194742,  12, True ) /* ReportCollisions */
      , (1342194742,  13, False) /* Ethereal */
      , (1342194742,  14, True ) /* GravityStatus */
      , (1342194742,  19, True ) /* Attackable */
@@ -36,7 +32,7 @@ VALUES (1342194742,   1, 'Attaque') /* Name */
      , (1342194742,  21, 'Archduke Fright Night') /* MonarchsTitle */
      , (1342194742,  35, 'Nan-chueh Death Support') /* PatronsTitle */
      , (1342194742,  43, '24 November 1999') /* DateOfBirth */
-     , (1342194742,  47, 'Bright Eyes') /* AllegianceName */;
+     , (1342194742,  47, 'CHAZ RETURNS') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342194742,   1,   33554433) /* Setup */
@@ -58,8 +54,8 @@ VALUES (1342194742,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1342194742, 1, 2847146034, 158.3541, 30.81518, 94.005, -0.71732, 0, 0, -0.6967438) /* Location */
 /* @teleloc 0xA9B40032 [158.354100 30.815180 94.005000] -0.717320 0.000000 0.000000 -0.696744 */
-     , (1342194742, 8040, 459094, 80, -70, 0.004999995, -0.7071068, 0, 0, -0.7071068) /* PCAPRecordedLocation */
-/* @teleloc 0x00070156 [80.000000 -70.000000 0.005000] -0.707107 0.000000 0.000000 -0.707107 */;
+     , (1342194742, 8040, 2847146042, 177.7519, 45.12624, 89.12905, -0.5953529, 0, 0, -0.8034644) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B4003A [177.751900 45.126240 89.129050] -0.595353 0.000000 0.000000 -0.803464 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342194742,  26, 1343917496) /* Monarch */

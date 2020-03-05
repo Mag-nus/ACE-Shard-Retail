@@ -7,7 +7,6 @@ VALUES (1343821436,   1,         16) /* ItemType - Creature */
      , (1343821436,   6,        102) /* ItemsCapacity */
      , (1343821436,   7,          8) /* ContainersCapacity */
      , (1343821436,  16,          1) /* ItemUseable - No */
-     , (1343821436,  25,        275) /* Level */
      , (1343821436,  30,          4) /* AllegianceRank */
      , (1343821436,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
      , (1343821436, 113,          1) /* Gender - Male */
@@ -15,16 +14,6 @@ VALUES (1343821436,   1,         16) /* ItemType - Creature */
      , (1343821436, 134,          4) /* PlayerKillerStatus - PK */
      , (1343821436, 188,          4) /* HeritageGroup - Viamontian */
      , (1343821436, 261,        450) /* CharacterTitleId */
-     , (1343821436, 281,          2) /* Faction1Bits */
-     , (1343821436, 288,       1001) /* SocietyRankEldweb */
-     , (1343821436, 307,         68) /* DamageRating */
-     , (1343821436, 308,         25) /* DamageResistRating */
-     , (1343821436, 313,          1) /* CritRating */
-     , (1343821436, 314,         33) /* CritDamageRating */
-     , (1343821436, 316,         19) /* CritDamageResistRating */
-     , (1343821436, 323,          9) /* HealingBoostRating */
-     , (1343821436, 381,          6) /* PKDamageRating */
-     , (1343821436, 382,          6) /* PKDamageResistRating */
      , (1343821436, 390,          0) /* Enlightenment */
      , (1343821436, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 

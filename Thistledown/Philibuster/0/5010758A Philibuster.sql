@@ -1,27 +1,22 @@
 INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
-VALUES (1343255946, 1, 10, 6738241) /* Creature */;
+VALUES (1343255946, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343255946,   1,         16) /* ItemType - Creature */
      , (1343255946,   6,        102) /* ItemsCapacity */
      , (1343255946,   7,          7) /* ContainersCapacity */
      , (1343255946,  16,          1) /* ItemUseable - No */
-     , (1343255946,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343255946,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1343255946, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343255946, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1343255946,   1, True ) /* Stuck */
-     , (1343255946,  11, True ) /* IgnoreCollisions */
+     , (1343255946,  12, True ) /* ReportCollisions */
      , (1343255946,  13, False) /* Ethereal */
      , (1343255946,  14, True ) /* GravityStatus */
      , (1343255946,  19, True ) /* Attackable */
      , (1343255946,  42, True ) /* AllowEdgeSlide */;
-
-INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343255946, 8010, 0.298868775367737) /* PCAPRecordedVelocityX */
-     , (1343255946, 8011, 0.448743999004364) /* PCAPRecordedVelocityY */
-     , (1343255946, 8012,       0) /* PCAPRecordedVelocityZ */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343255946,   1, 'Philibuster') /* Name */;
@@ -35,13 +30,13 @@ VALUES (1343255946,   1,   33554433) /* Setup */
      , (1343255946,  22,  872415236) /* PhysicsEffectTable */
      , (1343255946, 8001,    8388630) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, RadarBehavior */
      , (1343255946, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
-     , (1343255946, 8005,     104455) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Velocity, STable, PeTable, Position, Movement */;
+     , (1343255946, 8005,     104451) /* PCAPRecordedPhysicsDesc - CSetup, MTable, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343255946, 1, 3381395496, 113.6656, 190.259, 22.005, -0.7071068, 0, 0, -0.7071068) /* Location */
 /* @teleloc 0xC98C0028 [113.665600 190.259000 22.005000] -0.707107 0.000000 0.000000 -0.707107 */
-     , (1343255946, 8040, 459075, 70, -60, 0.004999995, -4.371139E-08, 0, 0, -1) /* PCAPRecordedLocation */
-/* @teleloc 0x00070143 [70.000000 -60.000000 0.005000] 0.000000 0.000000 0.000000 -1.000000 */;
+     , (1343255946, 8040, 459089, 81.45268, -11.16769, 0.004999995, 0.9892516, 0, 0, -0.1462236) /* PCAPRecordedLocation */
+/* @teleloc 0x00070151 [81.452680 -11.167690 0.005000] 0.989252 0.000000 0.000000 -0.146224 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343255946, 8000, 1343255946) /* PCAPRecordedObjectIID */;

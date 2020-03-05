@@ -3,11 +3,25 @@ VALUES (1343319664, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343319664,   1,         16) /* ItemType - Creature */
+     , (1343319664,   2,         31) /* CreatureType - Human */
      , (1343319664,   6,        102) /* ItemsCapacity */
      , (1343319664,   7,          7) /* ContainersCapacity */
      , (1343319664,  16,          1) /* ItemUseable - No */
+     , (1343319664,  25,        275) /* Level */
+     , (1343319664,  30,          7) /* AllegianceRank */
      , (1343319664,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343319664, 113,          1) /* Gender - Male */
+     , (1343319664, 125,   10113896) /* Age */
      , (1343319664, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343319664, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343319664, 188,         10) /* HeritageGroup - Penumbraen */
+     , (1343319664, 261,        651) /* CharacterTitleId */
+     , (1343319664, 281,          2) /* Faction1Bits */
+     , (1343319664, 288,       1001) /* SocietyRankEldweb */
+     , (1343319664, 307,         12) /* DamageRating */
+     , (1343319664, 308,          8) /* DamageResistRating */
+     , (1343319664, 313,          1) /* CritRating */
+     , (1343319664, 390,          0) /* Enlightenment */
      , (1343319664, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +33,12 @@ VALUES (1343319664,   1, True ) /* Stuck */
      , (1343319664,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343319664,   1, 'Failed to Apply') /* Name */;
+VALUES (1343319664,   1, 'Failed to Apply') /* Name */
+     , (1343319664,  10, 'Best lookin toons in Ac') /* Fellowship */
+     , (1343319664,  21, 'Amir Gone''s Mage') /* MonarchsTitle */
+     , (1343319664,  35, 'Amir Gone''s Mage') /* PatronsTitle */
+     , (1343319664,  43, '22 November 2010') /* DateOfBirth */
+     , (1343319664,  47, 'Clan Takada') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343319664,   1,   33560942) /* Setup */
@@ -27,6 +46,12 @@ VALUES (1343319664,   1,   33560942) /* Setup */
      , (1343319664,   3,  536870913) /* SoundTable */
      , (1343319664,   6,   67108990) /* PaletteBase */
      , (1343319664,   8,  100667446) /* Icon */
+     , (1343319664,   9,   83890499) /* EyesTexture */
+     , (1343319664,  10,   83890561) /* NoseTexture */
+     , (1343319664,  11,   83890640) /* MouthTexture */
+     , (1343319664,  15,   67116859) /* HairPalette */
+     , (1343319664,  16,   67116858) /* EyesPalette */
+     , (1343319664,  17,   67116846) /* SkinPalette */
      , (1343319664,  22,  872415433) /* PhysicsEffectTable */
      , (1343319664, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343319664, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
@@ -35,8 +60,8 @@ VALUES (1343319664,   1,   33560942) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343319664, 1, 23855554, 55.20797, -28.9912, 0.004999995, -0.779997, 0, 0, 0.6257833) /* Location */
 /* @teleloc 0x016C01C2 [55.207970 -28.991200 0.005000] -0.779997 0.000000 0.000000 0.625783 */
-     , (1343319664, 8040, 23855555, 55.85518, -40.19786, 0.004999995, 0.6353756, 0, 0, 0.7722033) /* PCAPRecordedLocation */
-/* @teleloc 0x016C01C3 [55.855180 -40.197860 0.005000] 0.635376 0.000000 0.000000 0.772203 */;
+     , (1343319664, 8040, 23855554, 58.66706, -28.87494, 0.004999995, 0.5976516, 0, 0, -0.801756) /* PCAPRecordedLocation */
+/* @teleloc 0x016C01C2 [58.667060 -28.874940 0.005000] 0.597652 0.000000 0.000000 -0.801756 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343319664,  26, 1342972300) /* Monarch */

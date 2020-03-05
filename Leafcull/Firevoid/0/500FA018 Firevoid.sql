@@ -3,11 +3,19 @@ VALUES (1343201304, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343201304,   1,         16) /* ItemType - Creature */
+     , (1343201304,   2,         31) /* CreatureType - Human */
      , (1343201304,   6,        102) /* ItemsCapacity */
      , (1343201304,   7,          8) /* ContainersCapacity */
      , (1343201304,  16,          1) /* ItemUseable - No */
+     , (1343201304,  25,        275) /* Level */
+     , (1343201304,  30,          2) /* AllegianceRank */
      , (1343201304,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343201304, 113,          2) /* Gender - Female */
      , (1343201304, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343201304, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343201304, 188,          2) /* HeritageGroup - Gharundim */
+     , (1343201304, 261,        878) /* CharacterTitleId */
+     , (1343201304, 390,          0) /* Enlightenment */
      , (1343201304, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +27,9 @@ VALUES (1343201304,   1, True ) /* Stuck */
      , (1343201304,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343201304,   1, 'Firevoid') /* Name */;
+VALUES (1343201304,   1, 'Firevoid') /* Name */
+     , (1343201304,  21, 'Kun-chueh Firedance') /* MonarchsTitle */
+     , (1343201304,  35, 'Commodore Ms Fire') /* PatronsTitle */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343201304,   1,   33554510) /* Setup */
@@ -27,6 +37,12 @@ VALUES (1343201304,   1,   33554510) /* Setup */
      , (1343201304,   3,  536870914) /* SoundTable */
      , (1343201304,   6,   67108990) /* PaletteBase */
      , (1343201304,   8,  100667446) /* Icon */
+     , (1343201304,   9,   83890264) /* EyesTexture */
+     , (1343201304,  10,   83890304) /* NoseTexture */
+     , (1343201304,  11,   83890349) /* MouthTexture */
+     , (1343201304,  15,   67117016) /* HairPalette */
+     , (1343201304,  16,   67110063) /* EyesPalette */
+     , (1343201304,  17,   67109553) /* SkinPalette */
      , (1343201304,  22,  872415236) /* PhysicsEffectTable */
      , (1343201304, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343201304, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

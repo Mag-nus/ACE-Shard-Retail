@@ -7,7 +7,7 @@ VALUES (1343113110,   1,         16) /* ItemType - Creature */
      , (1343113110,   6,        102) /* ItemsCapacity */
      , (1343113110,   7,          7) /* ContainersCapacity */
      , (1343113110,  16,          1) /* ItemUseable - No */
-     , (1343113110,  25,         20) /* Level */
+     , (1343113110,  25,         40) /* Level */
      , (1343113110,  30,          1) /* AllegianceRank */
      , (1343113110,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1343113110, 113,          2) /* Gender - Female */

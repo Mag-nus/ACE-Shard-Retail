@@ -19,9 +19,9 @@ VALUES (1343255219,   1, True ) /* Stuck */
      , (1343255219,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343255219, 8010, -10.8445901870728) /* PCAPRecordedVelocityX */
-     , (1343255219, 8011, 1.39117479324341) /* PCAPRecordedVelocityY */
-     , (1343255219, 8012, 3.40233898162842) /* PCAPRecordedVelocityZ */;
+VALUES (1343255219, 8010, 0.375104784965515) /* PCAPRecordedVelocityX */
+     , (1343255219, 8011, 1.07364499568939) /* PCAPRecordedVelocityY */
+     , (1343255219, 8012,       0) /* PCAPRecordedVelocityZ */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343255219,   1, 'Norteco') /* Name */;
@@ -35,7 +35,7 @@ VALUES (1343255219,   1,   33554433) /* Setup */
      , (1343255219,  22,  872415236) /* PhysicsEffectTable */
      , (1343255219, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343255219, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
-     , (1343255219, 8005,     104455) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Velocity, STable, PeTable, Position, Movement */;
+     , (1343255219, 8005,     104519) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Velocity, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343255219, 1, 2315387330, 59.6239, -56.62857, 0.004999995, 0.9948972, 0, 0, 0.1008937) /* Location */

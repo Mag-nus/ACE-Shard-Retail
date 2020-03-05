@@ -3,11 +3,26 @@ VALUES (1343246762, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343246762,   1,         16) /* ItemType - Creature */
+     , (1343246762,   2,         31) /* CreatureType - Human */
      , (1343246762,   6,        102) /* ItemsCapacity */
      , (1343246762,   7,          7) /* ContainersCapacity */
      , (1343246762,  16,          1) /* ItemUseable - No */
+     , (1343246762,  25,        275) /* Level */
+     , (1343246762,  30,          1) /* AllegianceRank */
      , (1343246762,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343246762, 113,          2) /* Gender - Female */
      , (1343246762, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343246762, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343246762, 188,          3) /* HeritageGroup - Sho */
+     , (1343246762, 261,          1) /* CharacterTitleId */
+     , (1343246762, 281,          1) /* Faction1Bits */
+     , (1343246762, 287,         50) /* SocietyRankCelhan */
+     , (1343246762, 307,          8) /* DamageRating */
+     , (1343246762, 308,          3) /* DamageResistRating */
+     , (1343246762, 314,          2) /* CritDamageRating */
+     , (1343246762, 316,          1) /* CritDamageResistRating */
+     , (1343246762, 351,         36) /* LifeResistRating */
+     , (1343246762, 390,          0) /* Enlightenment */
      , (1343246762, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +34,10 @@ VALUES (1343246762,   1, True ) /* Stuck */
      , (1343246762,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343246762,   1, 'Aibell') /* Name */;
+VALUES (1343246762,   1, 'Aibell') /* Name */
+     , (1343246762,  21, 'High King Mr Adventure') /* MonarchsTitle */
+     , (1343246762,  35, 'Maulana Friendlytoad') /* PatronsTitle */
+     , (1343246762,  47, 'Knights of Fortune') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343246762,   1,   33554510) /* Setup */
@@ -27,6 +45,12 @@ VALUES (1343246762,   1,   33554510) /* Setup */
      , (1343246762,   3,  536870914) /* SoundTable */
      , (1343246762,   6,   67108990) /* PaletteBase */
      , (1343246762,   8,  100667446) /* Icon */
+     , (1343246762,   9,   83890275) /* EyesTexture */
+     , (1343246762,  10,   83890308) /* NoseTexture */
+     , (1343246762,  11,   83890358) /* MouthTexture */
+     , (1343246762,  15,   67117027) /* HairPalette */
+     , (1343246762,  16,   67110063) /* EyesPalette */
+     , (1343246762,  17,   67110052) /* SkinPalette */
      , (1343246762,  22,  872415236) /* PhysicsEffectTable */
      , (1343246762, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343246762, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

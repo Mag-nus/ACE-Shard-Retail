@@ -3,11 +3,29 @@ VALUES (1343238597, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343238597,   1,         16) /* ItemType - Creature */
+     , (1343238597,   2,         31) /* CreatureType - Human */
      , (1343238597,   6,        102) /* ItemsCapacity */
      , (1343238597,   7,          8) /* ContainersCapacity */
      , (1343238597,  16,          1) /* ItemUseable - No */
+     , (1343238597,  25,        275) /* Level */
+     , (1343238597,  30,          5) /* AllegianceRank */
      , (1343238597,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343238597, 113,          1) /* Gender - Male */
      , (1343238597, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343238597, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343238597, 188,          3) /* HeritageGroup - Sho */
+     , (1343238597, 261,        772) /* CharacterTitleId */
+     , (1343238597, 281,          1) /* Faction1Bits */
+     , (1343238597, 287,       1001) /* SocietyRankCelhan */
+     , (1343238597, 307,         41) /* DamageRating */
+     , (1343238597, 308,         40) /* DamageResistRating */
+     , (1343238597, 313,          1) /* CritRating */
+     , (1343238597, 314,         31) /* CritDamageRating */
+     , (1343238597, 316,         21) /* CritDamageResistRating */
+     , (1343238597, 323,         10) /* HealingBoostRating */
+     , (1343238597, 381,          6) /* PKDamageRating */
+     , (1343238597, 382,          6) /* PKDamageResistRating */
+     , (1343238597, 390,          0) /* Enlightenment */
      , (1343238597, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +37,9 @@ VALUES (1343238597,   1, True ) /* Stuck */
      , (1343238597,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343238597,   1, 'Thudd') /* Name */;
+VALUES (1343238597,   1, 'Thudd') /* Name */
+     , (1343238597,  21, 'Commodore Darktide Invades') /* MonarchsTitle */
+     , (1343238597,  35, 'Commodore Darktide Invades') /* PatronsTitle */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343238597,   1,   33554433) /* Setup */
@@ -27,6 +47,12 @@ VALUES (1343238597,   1,   33554433) /* Setup */
      , (1343238597,   3,  536870913) /* SoundTable */
      , (1343238597,   6,   67108990) /* PaletteBase */
      , (1343238597,   8,  100667446) /* Icon */
+     , (1343238597,   9,   83890458) /* EyesTexture */
+     , (1343238597,  10,   83890528) /* NoseTexture */
+     , (1343238597,  11,   83890594) /* MouthTexture */
+     , (1343238597,  15,   67109596) /* HairPalette */
+     , (1343238597,  16,   67110063) /* EyesPalette */
+     , (1343238597,  17,   67110050) /* SkinPalette */
      , (1343238597,  22,  872415236) /* PhysicsEffectTable */
      , (1343238597, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343238597, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

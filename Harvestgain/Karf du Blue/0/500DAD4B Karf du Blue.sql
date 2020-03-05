@@ -3,11 +3,25 @@ VALUES (1343073611, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343073611,   1,         16) /* ItemType - Creature */
+     , (1343073611,   2,         31) /* CreatureType - Human */
      , (1343073611,   6,        102) /* ItemsCapacity */
      , (1343073611,   7,          7) /* ContainersCapacity */
      , (1343073611,  16,          1) /* ItemUseable - No */
+     , (1343073611,  25,        201) /* Level */
+     , (1343073611,  30,          2) /* AllegianceRank */
+     , (1343073611,  43,        161) /* NumDeaths */
      , (1343073611,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343073611, 113,          1) /* Gender - Male */
+     , (1343073611, 125,    2170116) /* Age */
      , (1343073611, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343073611, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343073611, 181,       1332) /* ChessRank */
+     , (1343073611, 188,          4) /* HeritageGroup - Viamontian */
+     , (1343073611, 192,          4) /* FakeFishingSkill */
+     , (1343073611, 261,         60) /* CharacterTitleId */
+     , (1343073611, 262,         34) /* NumCharacterTitles */
+     , (1343073611, 307,          5) /* DamageRating */
+     , (1343073611, 390,          0) /* Enlightenment */
      , (1343073611, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +33,12 @@ VALUES (1343073611,   1, True ) /* Stuck */
      , (1343073611,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343073611,   1, 'Karf du Blue') /* Name */;
+VALUES (1343073611,   1, 'Karf du Blue') /* Name */
+     , (1343073611,  10, 'Levels') /* Fellowship */
+     , (1343073611,  21, 'Aetheling Ninavie') /* MonarchsTitle */
+     , (1343073611,  35, 'Shayka Alchemiss') /* PatronsTitle */
+     , (1343073611,  43, '29 July 2005') /* DateOfBirth */
+     , (1343073611,  47, 'The Isparian Dragons') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343073611,   1,   33554433) /* Setup */
@@ -27,6 +46,12 @@ VALUES (1343073611,   1,   33554433) /* Setup */
      , (1343073611,   3,  536870913) /* SoundTable */
      , (1343073611,   6,   67108990) /* PaletteBase */
      , (1343073611,   8,  100667446) /* Icon */
+     , (1343073611,   9,   83890510) /* EyesTexture */
+     , (1343073611,  10,   83890561) /* NoseTexture */
+     , (1343073611,  11,   83890639) /* MouthTexture */
+     , (1343073611,  15,   67115916) /* HairPalette */
+     , (1343073611,  16,   67109564) /* EyesPalette */
+     , (1343073611,  17,   67115906) /* SkinPalette */
      , (1343073611,  22,  872415236) /* PhysicsEffectTable */
      , (1343073611, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343073611, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

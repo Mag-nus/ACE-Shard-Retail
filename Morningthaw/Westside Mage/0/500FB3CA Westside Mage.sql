@@ -10,9 +10,9 @@ VALUES (1343206346,   1,         16) /* ItemType - Creature */
      , (1343206346,  25,        275) /* Level */
      , (1343206346,  30,          3) /* AllegianceRank */
      , (1343206346,  43,        350) /* NumDeaths */
-     , (1343206346,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343206346,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1343206346, 113,          1) /* Gender - Male */
-     , (1343206346, 125,    5419769) /* Age */
+     , (1343206346, 125,    5423370) /* Age */
      , (1343206346, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343206346, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343206346, 188,          2) /* HeritageGroup - Gharundim */
@@ -22,14 +22,15 @@ VALUES (1343206346,   1,         16) /* ItemType - Creature */
      , (1343206346, 287,         90) /* SocietyRankCelhan */
      , (1343206346, 307,          8) /* DamageRating */
      , (1343206346, 308,          2) /* DamageResistRating */
+     , (1343206346, 314,          2) /* CritDamageRating */
      , (1343206346, 323,          7) /* HealingBoostRating */
      , (1343206346, 350,         20) /* DotResistRating */
      , (1343206346, 390,          0) /* Enlightenment */
-     , (1343206346, 8007,          0) /* PCAPRecordedAutonomousMovement */;
+     , (1343206346, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1343206346,   1, True ) /* Stuck */
-     , (1343206346,  11, True ) /* IgnoreCollisions */
+     , (1343206346,  12, True ) /* ReportCollisions */
      , (1343206346,  13, False) /* Ethereal */
      , (1343206346,  14, True ) /* GravityStatus */
      , (1343206346,  19, True ) /* Attackable */
@@ -38,7 +39,7 @@ VALUES (1343206346,   1, True ) /* Stuck */
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343206346,   1, 'Westside Mage') /* Name */
      , (1343206346,  21, 'Taikou Zalante') /* MonarchsTitle */
-     , (1343206346,  35, 'Baron Westside Warrior III') /* PatronsTitle */
+     , (1343206346,  35, 'Baron Thargum') /* PatronsTitle */
      , (1343206346,  43, '04 February 2013') /* DateOfBirth */
      , (1343206346,  47, 'Collective Company') /* AllegianceName */;
 
@@ -62,8 +63,8 @@ VALUES (1343206346,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343206346, 1, 23855555, 61.22808, -35.67301, 0.004999995, 0.7515513, 0, 0, 0.6596746) /* Location */
 /* @teleloc 0x016C01C3 [61.228080 -35.673010 0.005000] 0.751551 0.000000 0.000000 0.659675 */
-     , (1343206346, 8040, 23855548, 49.206, -31.935, 0.004999995, 0.7071068, 0, 0, -0.7071068) /* PCAPRecordedLocation */
-/* @teleloc 0x016C01BC [49.206000 -31.935000 0.005000] 0.707107 0.000000 0.000000 -0.707107 */;
+     , (1343206346, 8040, 23855548, 47.52448, -34.96055, 0.004999995, 0.6775625, 0, 0, -0.7354652) /* PCAPRecordedLocation */
+/* @teleloc 0x016C01BC [47.524480 -34.960550 0.005000] 0.677563 0.000000 0.000000 -0.735465 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343206346,  26, 1342548926) /* Monarch */

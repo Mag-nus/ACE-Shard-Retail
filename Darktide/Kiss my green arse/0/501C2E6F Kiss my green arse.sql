@@ -6,13 +6,13 @@ VALUES (1344024175,   1,         16) /* ItemType - Creature */
      , (1344024175,   6,        102) /* ItemsCapacity */
      , (1344024175,   7,          8) /* ContainersCapacity */
      , (1344024175,  16,          1) /* ItemUseable - No */
-     , (1344024175,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1344024175,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1344024175, 133,          4) /* ShowableOnRadar - ShowAlways */
-     , (1344024175, 8007,          0) /* PCAPRecordedAutonomousMovement */;
+     , (1344024175, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1344024175,   1, True ) /* Stuck */
-     , (1344024175,  11, True ) /* IgnoreCollisions */
+     , (1344024175,  12, True ) /* ReportCollisions */
      , (1344024175,  13, False) /* Ethereal */
      , (1344024175,  14, True ) /* GravityStatus */
      , (1344024175,  19, True ) /* Attackable */
@@ -38,8 +38,8 @@ VALUES (1344024175,   1,   33561114) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1344024175, 1, 3299475500, 120.2225, 91.65469, 84.51997, 0.6711684, 0, 0, -0.7413049) /* Location */
 /* @teleloc 0xC4AA002C [120.222500 91.654690 84.519970] 0.671168 0.000000 0.000000 -0.741305 */
-     , (1344024175, 8040, 3332964361, 46.805, 4.219, 42.0055, 1, 0, 0, 0) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A90009 [46.805000 4.219000 42.005500] 1.000000 0.000000 0.000000 0.000000 */;
+     , (1344024175, 8040, 3316187137, 20.57134, 7.668645, 52.0055, -0.9911968, 0, 0, -0.1323971) /* PCAPRecordedLocation */
+/* @teleloc 0xC5A90001 [20.571340 7.668645 52.005500] -0.991197 0.000000 0.000000 -0.132397 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1344024175,  26, 1343793956) /* Monarch */

@@ -3,11 +3,19 @@ VALUES (1344175352, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1344175352,   1,         16) /* ItemType - Creature */
+     , (1344175352,   2,         31) /* CreatureType - Human */
      , (1344175352,   6,        102) /* ItemsCapacity */
      , (1344175352,   7,          7) /* ContainersCapacity */
      , (1344175352,  16,          1) /* ItemUseable - No */
+     , (1344175352,  25,         13) /* Level */
      , (1344175352,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1344175352, 113,          1) /* Gender - Male */
      , (1344175352, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1344175352, 134,          4) /* PlayerKillerStatus - PK */
+     , (1344175352, 188,          2) /* HeritageGroup - Gharundim */
+     , (1344175352, 261,         13) /* CharacterTitleId */
+     , (1344175352, 307,          5) /* DamageRating */
+     , (1344175352, 390,          0) /* Enlightenment */
      , (1344175352, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +27,8 @@ VALUES (1344175352,   1, True ) /* Stuck */
      , (1344175352,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1344175352,   1, 'Dharal ibn Vane') /* Name */;
+VALUES (1344175352,   1, 'Dharal ibn Vane') /* Name */
+     , (1344175352,  10, 'Qq') /* Fellowship */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1344175352,   1,   33554433) /* Setup */
@@ -27,6 +36,12 @@ VALUES (1344175352,   1,   33554433) /* Setup */
      , (1344175352,   3,  536870913) /* SoundTable */
      , (1344175352,   6,   67108990) /* PaletteBase */
      , (1344175352,   8,  100667446) /* Icon */
+     , (1344175352,   9,   83890514) /* EyesTexture */
+     , (1344175352,  10,   83890559) /* NoseTexture */
+     , (1344175352,  11,   83890576) /* MouthTexture */
+     , (1344175352,  15,   67117071) /* HairPalette */
+     , (1344175352,  16,   67110063) /* EyesPalette */
+     , (1344175352,  17,   67109557) /* SkinPalette */
      , (1344175352,  22,  872415236) /* PhysicsEffectTable */
      , (1344175352, 8001,    8388630) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, RadarBehavior */
      , (1344175352, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

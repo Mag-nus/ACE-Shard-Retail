@@ -3,23 +3,36 @@ VALUES (1342937339, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342937339,   1,         16) /* ItemType - Creature */
+     , (1342937339,   2,         31) /* CreatureType - Human */
      , (1342937339,   6,        102) /* ItemsCapacity */
      , (1342937339,   7,          8) /* ContainersCapacity */
      , (1342937339,  16,          1) /* ItemUseable - No */
-     , (1342937339,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1342937339,  25,        275) /* Level */
+     , (1342937339,  30,          3) /* AllegianceRank */
+     , (1342937339,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342937339, 113,          1) /* Gender - Male */
+     , (1342937339, 125,   20424968) /* Age */
      , (1342937339, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342937339, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342937339, 188,          2) /* HeritageGroup - Gharundim */
+     , (1342937339, 261,         81) /* CharacterTitleId */
+     , (1342937339, 390,          0) /* Enlightenment */
      , (1342937339, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1342937339,   1, True ) /* Stuck */
-     , (1342937339,  11, True ) /* IgnoreCollisions */
+     , (1342937339,  12, True ) /* ReportCollisions */
      , (1342937339,  13, False) /* Ethereal */
      , (1342937339,  14, True ) /* GravityStatus */
      , (1342937339,  19, True ) /* Attackable */
      , (1342937339,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342937339,   1, 'Super Guppy') /* Name */;
+VALUES (1342937339,   1, 'Super Guppy') /* Name */
+     , (1342937339,  21, 'Qadi Ba-Bu') /* MonarchsTitle */
+     , (1342937339,  35, 'Reeve Tinker Joe') /* PatronsTitle */
+     , (1342937339,  43, '23 August 2002') /* DateOfBirth */
+     , (1342937339,  47, 'Blue Blaze Irregulars') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342937339,   1,   33554433) /* Setup */
@@ -27,6 +40,12 @@ VALUES (1342937339,   1,   33554433) /* Setup */
      , (1342937339,   3,  536870913) /* SoundTable */
      , (1342937339,   6,   67108990) /* PaletteBase */
      , (1342937339,   8,  100667446) /* Icon */
+     , (1342937339,   9,   83890482) /* EyesTexture */
+     , (1342937339,  10,   83890561) /* NoseTexture */
+     , (1342937339,  11,   83890637) /* MouthTexture */
+     , (1342937339,  15,   67109621) /* HairPalette */
+     , (1342937339,  16,   67110063) /* EyesPalette */
+     , (1342937339,  17,   67109552) /* SkinPalette */
      , (1342937339,  22,  872415236) /* PhysicsEffectTable */
      , (1342937339, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342937339, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
@@ -35,8 +54,8 @@ VALUES (1342937339,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1342937339, 1, 3332964371, 60.60414, 70.69975, 42.005, -0.7618902, 0, 0, 0.6477063) /* Location */
 /* @teleloc 0xC6A90013 [60.604140 70.699750 42.005000] -0.761890 0.000000 0.000000 0.647706 */
-     , (1342937339, 8040, 3332964361, 46.805, 4.219, 42.005, 1, 0, 0, 0) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A90009 [46.805000 4.219000 42.005000] 1.000000 0.000000 0.000000 0.000000 */;
+     , (1342937339, 8040, 3332964361, 47.41901, 0.3013, 42.005, -0.999769, 0, 0, -0.02149305) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A90009 [47.419010 0.301300 42.005000] -0.999769 0.000000 0.000000 -0.021493 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342937339,  26, 1342937333) /* Monarch */

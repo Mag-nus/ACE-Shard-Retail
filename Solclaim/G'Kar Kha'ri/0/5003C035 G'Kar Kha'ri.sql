@@ -3,11 +3,21 @@ VALUES (1342423093, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342423093,   1,         16) /* ItemType - Creature */
+     , (1342423093,   2,         31) /* CreatureType - Human */
      , (1342423093,   6,        102) /* ItemsCapacity */
      , (1342423093,   7,          7) /* ContainersCapacity */
      , (1342423093,  16,          1) /* ItemUseable - No */
+     , (1342423093,  25,        231) /* Level */
+     , (1342423093,  30,          3) /* AllegianceRank */
+     , (1342423093,  43,        114) /* NumDeaths */
      , (1342423093,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342423093, 113,          1) /* Gender - Male */
+     , (1342423093, 125,    7355850) /* Age */
      , (1342423093, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342423093, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342423093, 188,          3) /* HeritageGroup - Sho */
+     , (1342423093, 261,        799) /* CharacterTitleId */
+     , (1342423093, 390,          0) /* Enlightenment */
      , (1342423093, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +29,11 @@ VALUES (1342423093,   1, True ) /* Stuck */
      , (1342423093,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342423093,   1, 'G''Kar Kha''ri') /* Name */;
+VALUES (1342423093,   1, 'G''Kar Kha''ri') /* Name */
+     , (1342423093,  21, 'High King Laris Bloodsong') /* MonarchsTitle */
+     , (1342423093,  35, 'Maulan Ryelee') /* PatronsTitle */
+     , (1342423093,  43, '21 October 2000') /* DateOfBirth */
+     , (1342423093,  47, 'Saints of Solclaim') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342423093,   1,   33554433) /* Setup */
@@ -27,6 +41,12 @@ VALUES (1342423093,   1,   33554433) /* Setup */
      , (1342423093,   3,  536870913) /* SoundTable */
      , (1342423093,   6,   67108990) /* PaletteBase */
      , (1342423093,   8,  100667446) /* Icon */
+     , (1342423093,   9,   83890451) /* EyesTexture */
+     , (1342423093,  10,   83890561) /* NoseTexture */
+     , (1342423093,  11,   83890641) /* MouthTexture */
+     , (1342423093,  15,   67116990) /* HairPalette */
+     , (1342423093,  16,   67110063) /* EyesPalette */
+     , (1342423093,  17,   67110050) /* SkinPalette */
      , (1342423093,  22,  872415236) /* PhysicsEffectTable */
      , (1342423093, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342423093, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

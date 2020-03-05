@@ -3,11 +3,27 @@ VALUES (1343477254, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343477254,   1,         16) /* ItemType - Creature */
+     , (1343477254,   2,         31) /* CreatureType - Human */
      , (1343477254,   6,        102) /* ItemsCapacity */
      , (1343477254,   7,          8) /* ContainersCapacity */
      , (1343477254,  16,          1) /* ItemUseable - No */
+     , (1343477254,  25,        275) /* Level */
+     , (1343477254,  30,          2) /* AllegianceRank */
      , (1343477254,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343477254, 113,          2) /* Gender - Female */
      , (1343477254, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343477254, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343477254, 188,          3) /* HeritageGroup - Sho */
+     , (1343477254, 261,        764) /* CharacterTitleId */
+     , (1343477254, 281,          2) /* Faction1Bits */
+     , (1343477254, 288,         20) /* SocietyRankEldweb */
+     , (1343477254, 307,         13) /* DamageRating */
+     , (1343477254, 308,          5) /* DamageResistRating */
+     , (1343477254, 314,          3) /* CritDamageRating */
+     , (1343477254, 316,          6) /* CritDamageResistRating */
+     , (1343477254, 323,          7) /* HealingBoostRating */
+     , (1343477254, 350,         20) /* DotResistRating */
+     , (1343477254, 390,          0) /* Enlightenment */
      , (1343477254, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +35,10 @@ VALUES (1343477254,   1, True ) /* Stuck */
      , (1343477254,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343477254,   1, 'Blaziken') /* Name */;
+VALUES (1343477254,   1, 'Blaziken') /* Name */
+     , (1343477254,  21, 'King Aerfall') /* MonarchsTitle */
+     , (1343477254,  35, 'Banner Engarde') /* PatronsTitle */
+     , (1343477254,  47, 'Autobotz') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343477254,   1,   33554510) /* Setup */
@@ -27,6 +46,12 @@ VALUES (1343477254,   1,   33554510) /* Setup */
      , (1343477254,   3,  536870914) /* SoundTable */
      , (1343477254,   6,   67108990) /* PaletteBase */
      , (1343477254,   8,  100667446) /* Icon */
+     , (1343477254,   9,   83890236) /* EyesTexture */
+     , (1343477254,  10,   83890286) /* NoseTexture */
+     , (1343477254,  11,   83890319) /* MouthTexture */
+     , (1343477254,  15,   67117017) /* HairPalette */
+     , (1343477254,  16,   67110062) /* EyesPalette */
+     , (1343477254,  17,   67110047) /* SkinPalette */
      , (1343477254,  22,  872415236) /* PhysicsEffectTable */
      , (1343477254, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343477254, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

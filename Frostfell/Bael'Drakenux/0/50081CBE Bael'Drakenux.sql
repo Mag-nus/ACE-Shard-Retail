@@ -3,11 +3,29 @@ VALUES (1342708926, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342708926,   1,         16) /* ItemType - Creature */
+     , (1342708926,   2,         31) /* CreatureType - Human */
      , (1342708926,   6,        102) /* ItemsCapacity */
      , (1342708926,   7,          8) /* ContainersCapacity */
      , (1342708926,  16,          1) /* ItemUseable - No */
+     , (1342708926,  25,        275) /* Level */
+     , (1342708926,  30,          7) /* AllegianceRank */
      , (1342708926,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342708926, 113,          1) /* Gender - Male */
+     , (1342708926, 125,   45094832) /* Age */
      , (1342708926, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342708926, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342708926, 188,          3) /* HeritageGroup - Sho */
+     , (1342708926, 261,         82) /* CharacterTitleId */
+     , (1342708926, 281,          1) /* Faction1Bits */
+     , (1342708926, 287,       1001) /* SocietyRankCelhan */
+     , (1342708926, 307,         13) /* DamageRating */
+     , (1342708926, 308,         20) /* DamageResistRating */
+     , (1342708926, 313,          1) /* CritRating */
+     , (1342708926, 314,         12) /* CritDamageRating */
+     , (1342708926, 316,          7) /* CritDamageResistRating */
+     , (1342708926, 323,          7) /* HealingBoostRating */
+     , (1342708926, 351,         16) /* LifeResistRating */
+     , (1342708926, 390,          0) /* Enlightenment */
      , (1342708926, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +37,11 @@ VALUES (1342708926,   1, True ) /* Stuck */
      , (1342708926,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342708926,   1, 'Bael''Drakenux') /* Name */;
+VALUES (1342708926,   1, 'Bael''Drakenux') /* Name */
+     , (1342708926,  21, 'King Aerfall') /* MonarchsTitle */
+     , (1342708926,  35, 'Mushir D''evil Herodes') /* PatronsTitle */
+     , (1342708926,  43, '30 April 2001') /* DateOfBirth */
+     , (1342708926,  47, 'Autobotz') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342708926,   1,   33554433) /* Setup */
@@ -27,6 +49,12 @@ VALUES (1342708926,   1,   33554433) /* Setup */
      , (1342708926,   3,  536870913) /* SoundTable */
      , (1342708926,   6,   67108990) /* PaletteBase */
      , (1342708926,   8,  100667446) /* Icon */
+     , (1342708926,   9,   83890446) /* EyesTexture */
+     , (1342708926,  10,   83890522) /* NoseTexture */
+     , (1342708926,  11,   83890578) /* MouthTexture */
+     , (1342708926,  15,   67109618) /* HairPalette */
+     , (1342708926,  16,   67110062) /* EyesPalette */
+     , (1342708926,  17,   67110054) /* SkinPalette */
      , (1342708926,  22,  872415236) /* PhysicsEffectTable */
      , (1342708926, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342708926, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

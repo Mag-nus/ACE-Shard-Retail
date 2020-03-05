@@ -3,11 +3,27 @@ VALUES (1342415374, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342415374,   1,         16) /* ItemType - Creature */
+     , (1342415374,   2,         31) /* CreatureType - Human */
      , (1342415374,   6,        102) /* ItemsCapacity */
      , (1342415374,   7,          8) /* ContainersCapacity */
      , (1342415374,  16,          1) /* ItemUseable - No */
+     , (1342415374,  25,        275) /* Level */
+     , (1342415374,  30,          3) /* AllegianceRank */
      , (1342415374,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1342415374, 113,          1) /* Gender - Male */
      , (1342415374, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342415374, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342415374, 188,          2) /* HeritageGroup - Gharundim */
+     , (1342415374, 261,          1) /* CharacterTitleId */
+     , (1342415374, 281,          2) /* Faction1Bits */
+     , (1342415374, 288,        601) /* SocietyRankEldweb */
+     , (1342415374, 307,         17) /* DamageRating */
+     , (1342415374, 308,          8) /* DamageResistRating */
+     , (1342415374, 313,          1) /* CritRating */
+     , (1342415374, 314,          2) /* CritDamageRating */
+     , (1342415374, 323,          5) /* HealingBoostRating */
+     , (1342415374, 350,         20) /* DotResistRating */
+     , (1342415374, 390,          0) /* Enlightenment */
      , (1342415374, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +35,10 @@ VALUES (1342415374,   1, True ) /* Stuck */
      , (1342415374,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342415374,   1, 'Tuatha') /* Name */;
+VALUES (1342415374,   1, 'Tuatha') /* Name */
+     , (1342415374,  21, 'Queen Evil-Lady') /* MonarchsTitle */
+     , (1342415374,  35, 'Commander Mogwai''s Nookie') /* PatronsTitle */
+     , (1342415374,  47, 'Mischievous Misfits') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342415374,   1,   33554433) /* Setup */
@@ -27,6 +46,12 @@ VALUES (1342415374,   1,   33554433) /* Setup */
      , (1342415374,   3,  536870913) /* SoundTable */
      , (1342415374,   6,   67108990) /* PaletteBase */
      , (1342415374,   8,  100667446) /* Icon */
+     , (1342415374,   9,   83890514) /* EyesTexture */
+     , (1342415374,  10,   83890537) /* NoseTexture */
+     , (1342415374,  11,   83890657) /* MouthTexture */
+     , (1342415374,  15,   67109633) /* HairPalette */
+     , (1342415374,  16,   67110063) /* EyesPalette */
+     , (1342415374,  17,   67109557) /* SkinPalette */
      , (1342415374,  22,  872415236) /* PhysicsEffectTable */
      , (1342415374, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342415374, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

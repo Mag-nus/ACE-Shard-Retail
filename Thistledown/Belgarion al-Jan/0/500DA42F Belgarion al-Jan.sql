@@ -3,11 +3,26 @@ VALUES (1343071279, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343071279,   1,         16) /* ItemType - Creature */
+     , (1343071279,   2,         31) /* CreatureType - Human */
      , (1343071279,   6,        102) /* ItemsCapacity */
      , (1343071279,   7,          7) /* ContainersCapacity */
      , (1343071279,  16,          1) /* ItemUseable - No */
+     , (1343071279,  25,        232) /* Level */
+     , (1343071279,  30,          5) /* AllegianceRank */
+     , (1343071279,  43,         10) /* NumDeaths */
      , (1343071279,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343071279, 113,          1) /* Gender - Male */
+     , (1343071279, 125,    2694550) /* Age */
      , (1343071279, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343071279, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343071279, 188,          2) /* HeritageGroup - Gharundim */
+     , (1343071279, 261,          1) /* CharacterTitleId */
+     , (1343071279, 307,          9) /* DamageRating */
+     , (1343071279, 314,          1) /* CritDamageRating */
+     , (1343071279, 316,          1) /* CritDamageResistRating */
+     , (1343071279, 323,          4) /* HealingBoostRating */
+     , (1343071279, 350,         16) /* DotResistRating */
+     , (1343071279, 390,          0) /* Enlightenment */
      , (1343071279, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +34,11 @@ VALUES (1343071279,   1, True ) /* Stuck */
      , (1343071279,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343071279,   1, 'Belgarion al-Jan') /* Name */;
+VALUES (1343071279,   1, 'Belgarion al-Jan') /* Name */
+     , (1343071279,  21, 'Qadiya Poledra al-Jan') /* MonarchsTitle */
+     , (1343071279,  35, 'Qadiya Poledra al-Jan') /* PatronsTitle */
+     , (1343071279,  43, '09 October 2004') /* DateOfBirth */
+     , (1343071279,  47, 'Light and Shadow') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343071279,   1,   33554433) /* Setup */
@@ -27,6 +46,12 @@ VALUES (1343071279,   1,   33554433) /* Setup */
      , (1343071279,   3,  536870913) /* SoundTable */
      , (1343071279,   6,   67108990) /* PaletteBase */
      , (1343071279,   8,  100667446) /* Icon */
+     , (1343071279,   9,   83890456) /* EyesTexture */
+     , (1343071279,  10,   83890559) /* NoseTexture */
+     , (1343071279,  11,   83890599) /* MouthTexture */
+     , (1343071279,  15,   67109596) /* HairPalette */
+     , (1343071279,  16,   67110062) /* EyesPalette */
+     , (1343071279,  17,   67109556) /* SkinPalette */
      , (1343071279,  22,  872415236) /* PhysicsEffectTable */
      , (1343071279, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343071279, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

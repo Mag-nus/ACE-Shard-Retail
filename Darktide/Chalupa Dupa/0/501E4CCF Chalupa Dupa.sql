@@ -3,23 +3,34 @@ VALUES (1344163023, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1344163023,   1,         16) /* ItemType - Creature */
+     , (1344163023,   2,         31) /* CreatureType - Human */
      , (1344163023,   6,        102) /* ItemsCapacity */
      , (1344163023,   7,          8) /* ContainersCapacity */
      , (1344163023,  16,          1) /* ItemUseable - No */
-     , (1344163023,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1344163023,  30,          1) /* AllegianceRank */
+     , (1344163023,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1344163023, 113,          1) /* Gender - Male */
      , (1344163023, 133,          4) /* ShowableOnRadar - ShowAlways */
-     , (1344163023, 8007,          0) /* PCAPRecordedAutonomousMovement */;
+     , (1344163023, 134,          4) /* PlayerKillerStatus - PK */
+     , (1344163023, 188,          3) /* HeritageGroup - Sho */
+     , (1344163023, 261,        682) /* CharacterTitleId */
+     , (1344163023, 390,          0) /* Enlightenment */
+     , (1344163023, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1344163023,   1, True ) /* Stuck */
-     , (1344163023,  11, True ) /* IgnoreCollisions */
+     , (1344163023,  12, True ) /* ReportCollisions */
      , (1344163023,  13, False) /* Ethereal */
      , (1344163023,  14, True ) /* GravityStatus */
      , (1344163023,  19, True ) /* Attackable */
      , (1344163023,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1344163023,   1, 'Chalupa Dupa') /* Name */;
+VALUES (1344163023,   1, 'Chalupa Dupa') /* Name */
+     , (1344163023,  10, 'Sucq My Koc Ac') /* Fellowship */
+     , (1344163023,  21, 'Kou Charlie Chan') /* MonarchsTitle */
+     , (1344163023,  35, 'Shi-chueh Hotdog Face') /* PatronsTitle */
+     , (1344163023,  47, 'Charlie Chan''s The Legacy of Dark Tide') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1344163023,   1,   33554433) /* Setup */
@@ -27,6 +38,12 @@ VALUES (1344163023,   1,   33554433) /* Setup */
      , (1344163023,   3,  536870913) /* SoundTable */
      , (1344163023,   6,   67108990) /* PaletteBase */
      , (1344163023,   8,  100667446) /* Icon */
+     , (1344163023,   9,   83890458) /* EyesTexture */
+     , (1344163023,  10,   83890528) /* NoseTexture */
+     , (1344163023,  11,   83890629) /* MouthTexture */
+     , (1344163023,  15,   67117070) /* HairPalette */
+     , (1344163023,  16,   67110062) /* EyesPalette */
+     , (1344163023,  17,   67110049) /* SkinPalette */
      , (1344163023,  22,  872415236) /* PhysicsEffectTable */
      , (1344163023, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1344163023, 8003,         60) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable, PlayerKiller */
@@ -35,8 +52,8 @@ VALUES (1344163023,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1344163023, 1, 3370713122, 104.8198, 24.22115, 0.004999995, 0.9869896, 0, 0, 0.1607844) /* Location */
 /* @teleloc 0xC8E90022 [104.819800 24.221150 0.005000] 0.986990 0.000000 0.000000 0.160784 */
-     , (1344163023, 8040, 459077, 71.1547, -79.33334, 0.004999995, 1, 0, 0, 0) /* PCAPRecordedLocation */
-/* @teleloc 0x00070145 [71.154700 -79.333340 0.005000] 1.000000 0.000000 0.000000 0.000000 */;
+     , (1344163023, 8040, 3420520458, 25.89481, 31.52619, 0.004999995, 0.7366812, 0, 0, -0.6762401) /* PCAPRecordedLocation */
+/* @teleloc 0xCBE1000A [25.894810 31.526190 0.005000] 0.736681 0.000000 0.000000 -0.676240 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1344163023,  26, 1343793956) /* Monarch */

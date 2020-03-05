@@ -3,11 +3,27 @@ VALUES (1343202419, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343202419,   1,         16) /* ItemType - Creature */
+     , (1343202419,   2,         31) /* CreatureType - Human */
      , (1343202419,   6,        102) /* ItemsCapacity */
      , (1343202419,   7,          8) /* ContainersCapacity */
      , (1343202419,  16,          1) /* ItemUseable - No */
+     , (1343202419,  25,        275) /* Level */
+     , (1343202419,  30,          1) /* AllegianceRank */
      , (1343202419,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343202419, 113,          1) /* Gender - Male */
      , (1343202419, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343202419, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343202419, 188,          3) /* HeritageGroup - Sho */
+     , (1343202419, 261,        535) /* CharacterTitleId */
+     , (1343202419, 281,          1) /* Faction1Bits */
+     , (1343202419, 287,       1001) /* SocietyRankCelhan */
+     , (1343202419, 307,         21) /* DamageRating */
+     , (1343202419, 308,          8) /* DamageResistRating */
+     , (1343202419, 313,          1) /* CritRating */
+     , (1343202419, 314,          3) /* CritDamageRating */
+     , (1343202419, 316,          1) /* CritDamageResistRating */
+     , (1343202419, 351,         16) /* LifeResistRating */
+     , (1343202419, 390,          0) /* Enlightenment */
      , (1343202419, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +35,10 @@ VALUES (1343202419,   1, True ) /* Stuck */
      , (1343202419,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343202419,   1, 'Laputan') /* Name */;
+VALUES (1343202419,   1, 'Laputan') /* Name */
+     , (1343202419,  21, 'Queen Evil-Lady') /* MonarchsTitle */
+     , (1343202419,  35, 'Jo-chueh Solfae') /* PatronsTitle */
+     , (1343202419,  47, 'Mischievous Misfits') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343202419,   1,   33554433) /* Setup */
@@ -27,6 +46,12 @@ VALUES (1343202419,   1,   33554433) /* Setup */
      , (1343202419,   3,  536870913) /* SoundTable */
      , (1343202419,   6,   67108990) /* PaletteBase */
      , (1343202419,   8,  100667446) /* Icon */
+     , (1343202419,   9,   83890478) /* EyesTexture */
+     , (1343202419,  10,   83890561) /* NoseTexture */
+     , (1343202419,  11,   83890571) /* MouthTexture */
+     , (1343202419,  15,   67109633) /* HairPalette */
+     , (1343202419,  16,   67109565) /* EyesPalette */
+     , (1343202419,  17,   67110059) /* SkinPalette */
      , (1343202419,  22,  872415236) /* PhysicsEffectTable */
      , (1343202419, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343202419, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

@@ -8,7 +8,7 @@ VALUES (1343257357,   1,         16) /* ItemType - Creature */
      , (1343257357,  16,          1) /* ItemUseable - No */
      , (1343257357,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1343257357, 133,          4) /* ShowableOnRadar - ShowAlways */
-     , (1343257357, 8007,          1) /* PCAPRecordedAutonomousMovement */;
+     , (1343257357, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1343257357,   1, True ) /* Stuck */
@@ -33,8 +33,8 @@ VALUES (1343257357,   1,   33554510) /* Setup */
      , (1343257357, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343257357, 8040, 3465871413, 158.9579, 102.5691, 20.005, -0.9990074, 0, 0, 0.04454459) /* PCAPRecordedLocation */
-/* @teleloc 0xCE950035 [158.957900 102.569100 20.005000] -0.999007 0.000000 0.000000 0.044545 */;
+VALUES (1343257357, 8040, 3465871413, 159.058, 102.6952, 20.005, -0.8390117, 0, 0, -0.5441135) /* PCAPRecordedLocation */
+/* @teleloc 0xCE950035 [159.058000 102.695200 20.005000] -0.839012 0.000000 0.000000 -0.544114 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343257357,  26, 1343359843) /* Monarch */
@@ -100,11 +100,11 @@ VALUES (1343257357, 0, 83889072, 83886792, 20)
      , (1343257357, 16, 83886837, 83890287, 2)
      , (1343257357, 16, 83886684, 83890328, 3)
      , (1343257357, 16, 83886825, 83886825, 29)
-     , (1343257357, 29, 83898657, 83898665, 30)
-     , (1343257357, 30, 83898657, 83898665, 31)
-     , (1343257357, 31, 83898657, 83898665, 32)
-     , (1343257357, 32, 83898657, 83898665, 33)
-     , (1343257357, 33, 83898657, 83898665, 34);
+     , (1343257357, 29, 83898657, 83898663, 30)
+     , (1343257357, 30, 83898657, 83898663, 31)
+     , (1343257357, 31, 83898657, 83898663, 32)
+     , (1343257357, 32, 83898657, 83898663, 33)
+     , (1343257357, 33, 83898657, 83898663, 34);
 
 INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, `order`)
 VALUES (1343257357, 0, 16789976, 25)

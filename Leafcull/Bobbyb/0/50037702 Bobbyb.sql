@@ -9,22 +9,22 @@ VALUES (1342404354,   1,         16) /* ItemType - Creature */
      , (1342404354,  16,          1) /* ItemUseable - No */
      , (1342404354,  25,        275) /* Level */
      , (1342404354,  30,          6) /* AllegianceRank */
-     , (1342404354,  43,       4398) /* NumDeaths */
+     , (1342404354,  43,       4400) /* NumDeaths */
      , (1342404354,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1342404354, 113,          1) /* Gender - Male */
-     , (1342404354, 125,   32793841) /* Age */
+     , (1342404354, 125,   32804591) /* Age */
      , (1342404354, 133,          4) /* ShowableOnRadar - ShowAlways */
-     , (1342404354, 134,         64) /* PlayerKillerStatus - PKLite */
+     , (1342404354, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342404354, 188,          1) /* HeritageGroup - Aluvian */
      , (1342404354, 261,         81) /* CharacterTitleId */
-     , (1342404354, 262,        130) /* NumCharacterTitles */
+     , (1342404354, 262,        140) /* NumCharacterTitles */
      , (1342404354, 281,          1) /* Faction1Bits */
      , (1342404354, 287,       1001) /* SocietyRankCelhan */
-     , (1342404354, 307,         21) /* DamageRating */
-     , (1342404354, 308,         21) /* DamageResistRating */
+     , (1342404354, 307,         18) /* DamageRating */
+     , (1342404354, 308,         20) /* DamageResistRating */
      , (1342404354, 313,          1) /* CritRating */
      , (1342404354, 314,         14) /* CritDamageRating */
-     , (1342404354, 316,         12) /* CritDamageResistRating */
+     , (1342404354, 316,         10) /* CritDamageResistRating */
      , (1342404354, 323,          9) /* HealingBoostRating */
      , (1342404354, 390,          3) /* Enlightenment */
      , (1342404354, 8007,          0) /* PCAPRecordedAutonomousMovement */;

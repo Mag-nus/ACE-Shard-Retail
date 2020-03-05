@@ -3,11 +3,29 @@ VALUES (1343031865, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343031865,   1,         16) /* ItemType - Creature */
+     , (1343031865,   2,         31) /* CreatureType - Human */
      , (1343031865,   6,        102) /* ItemsCapacity */
      , (1343031865,   7,          8) /* ContainersCapacity */
      , (1343031865,  16,          1) /* ItemUseable - No */
+     , (1343031865,  25,        275) /* Level */
+     , (1343031865,  30,          7) /* AllegianceRank */
+     , (1343031865,  35,       2858) /* AllegianceFollowers */
      , (1343031865,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343031865, 113,          1) /* Gender - Male */
      , (1343031865, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343031865, 134,         64) /* PlayerKillerStatus - PKLite */
+     , (1343031865, 188,          2) /* HeritageGroup - Gharundim */
+     , (1343031865, 261,        893) /* CharacterTitleId */
+     , (1343031865, 281,          1) /* Faction1Bits */
+     , (1343031865, 287,       1001) /* SocietyRankCelhan */
+     , (1343031865, 307,         13) /* DamageRating */
+     , (1343031865, 308,         14) /* DamageResistRating */
+     , (1343031865, 313,          1) /* CritRating */
+     , (1343031865, 314,         11) /* CritDamageRating */
+     , (1343031865, 316,          6) /* CritDamageResistRating */
+     , (1343031865, 323,         14) /* HealingBoostRating */
+     , (1343031865, 350,         36) /* DotResistRating */
+     , (1343031865, 390,          5) /* Enlightenment */
      , (1343031865, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +37,9 @@ VALUES (1343031865,   1, True ) /* Stuck */
      , (1343031865,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343031865,   1, 'Deadly Warlock') /* Name */;
+VALUES (1343031865,   1, 'Deadly Warlock') /* Name */
+     , (1343031865,  10, 'Mooooooooooooooooooooooooooo') /* Fellowship */
+     , (1343031865,  47, 'Keepers of Dereth') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343031865,   1,   33554433) /* Setup */
@@ -27,6 +47,12 @@ VALUES (1343031865,   1,   33554433) /* Setup */
      , (1343031865,   3,  536870913) /* SoundTable */
      , (1343031865,   6,   67108990) /* PaletteBase */
      , (1343031865,   8,  100667446) /* Icon */
+     , (1343031865,   9,   83890516) /* EyesTexture */
+     , (1343031865,  10,   83890541) /* NoseTexture */
+     , (1343031865,  11,   83890659) /* MouthTexture */
+     , (1343031865,  15,   67109625) /* HairPalette */
+     , (1343031865,  16,   67110063) /* EyesPalette */
+     , (1343031865,  17,   67109557) /* SkinPalette */
      , (1343031865,  22,  872415236) /* PhysicsEffectTable */
      , (1343031865, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343031865, 8003,   33554460) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable, PkLiteStatus */

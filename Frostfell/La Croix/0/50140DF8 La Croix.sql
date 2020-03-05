@@ -3,11 +3,21 @@ VALUES (1343491576, 1, 10, 6738241) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343491576,   1,         16) /* ItemType - Creature */
+     , (1343491576,   2,         31) /* CreatureType - Human */
      , (1343491576,   6,        102) /* ItemsCapacity */
      , (1343491576,   7,          7) /* ContainersCapacity */
      , (1343491576,  16,          1) /* ItemUseable - No */
+     , (1343491576,  25,        232) /* Level */
+     , (1343491576,  30,          2) /* AllegianceRank */
      , (1343491576,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343491576, 113,          1) /* Gender - Male */
+     , (1343491576, 125,    3155066) /* Age */
      , (1343491576, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343491576, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343491576, 188,          9) /* HeritageGroup - Empyrean */
+     , (1343491576, 261,        434) /* CharacterTitleId */
+     , (1343491576, 307,         12) /* DamageRating */
+     , (1343491576, 390,          0) /* Enlightenment */
      , (1343491576, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -22,7 +32,12 @@ INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (1343491576,  39, 1.20000004768372) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343491576,   1, 'La Croix') /* Name */;
+VALUES (1343491576,   1, 'La Croix') /* Name */
+     , (1343491576,  10, 'Sonofpookie') /* Fellowship */
+     , (1343491576,  21, 'High King Sinned') /* MonarchsTitle */
+     , (1343491576,  35, 'Corporal Og Spade II') /* PatronsTitle */
+     , (1343491576,  43, '03 December 2016') /* DateOfBirth */
+     , (1343491576,  47, 'The Arcane Order') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343491576,   1,   33561110) /* Setup */
@@ -30,6 +45,12 @@ VALUES (1343491576,   1,   33561110) /* Setup */
      , (1343491576,   3,  536870913) /* SoundTable */
      , (1343491576,   6,   67108990) /* PaletteBase */
      , (1343491576,   8,  100667446) /* Icon */
+     , (1343491576,   9,   83890495) /* EyesTexture */
+     , (1343491576,  10,   83890549) /* NoseTexture */
+     , (1343491576,  11,   83890629) /* MouthTexture */
+     , (1343491576,  15,   67117023) /* HairPalette */
+     , (1343491576,  16,   67116857) /* EyesPalette */
+     , (1343491576,  17,   67116964) /* SkinPalette */
      , (1343491576,  22,  872415236) /* PhysicsEffectTable */
      , (1343491576, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343491576, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

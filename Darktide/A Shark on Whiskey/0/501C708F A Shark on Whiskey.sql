@@ -3,11 +3,28 @@ VALUES (1344041103, 1, 10, 6738241) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1344041103,   1,         16) /* ItemType - Creature */
+     , (1344041103,   2,         31) /* CreatureType - Human */
      , (1344041103,   6,        102) /* ItemsCapacity */
      , (1344041103,   7,          8) /* ContainersCapacity */
      , (1344041103,  16,          1) /* ItemUseable - No */
+     , (1344041103,  25,        275) /* Level */
+     , (1344041103,  30,          7) /* AllegianceRank */
      , (1344041103,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1344041103, 113,          2) /* Gender - Female */
      , (1344041103, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1344041103, 134,          4) /* PlayerKillerStatus - PK */
+     , (1344041103, 188,          6) /* HeritageGroup - Gearknight */
+     , (1344041103, 261,        795) /* CharacterTitleId */
+     , (1344041103, 281,          1) /* Faction1Bits */
+     , (1344041103, 287,       1001) /* SocietyRankCelhan */
+     , (1344041103, 307,         42) /* DamageRating */
+     , (1344041103, 308,         20) /* DamageResistRating */
+     , (1344041103, 313,          1) /* CritRating */
+     , (1344041103, 314,         22) /* CritDamageRating */
+     , (1344041103, 316,          2) /* CritDamageResistRating */
+     , (1344041103, 323,          2) /* HealingBoostRating */
+     , (1344041103, 381,          2) /* PKDamageRating */
+     , (1344041103, 390,          0) /* Enlightenment */
      , (1344041103, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -22,7 +39,11 @@ INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (1344041103,  39, 1.10000002384186) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1344041103,   1, 'A Shark on Whiskey') /* Name */;
+VALUES (1344041103,   1, 'A Shark on Whiskey') /* Name */
+     , (1344041103,  10, 'Games death bed lol') /* Fellowship */
+     , (1344041103,  21, 'Archduke Fright Night') /* MonarchsTitle */
+     , (1344041103,  35, 'Kou Yuffy') /* PatronsTitle */
+     , (1344041103,  47, 'CHAZ RETURNS') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1344041103,   1,   33561069) /* Setup */
@@ -30,6 +51,12 @@ VALUES (1344041103,   1,   33561069) /* Setup */
      , (1344041103,   3,  536871123) /* SoundTable */
      , (1344041103,   6,   67108990) /* PaletteBase */
      , (1344041103,   8,  100667446) /* Icon */
+     , (1344041103,   9,   83891927) /* EyesTexture */
+     , (1344041103,  10,   83891927) /* NoseTexture */
+     , (1344041103,  11,   83891927) /* MouthTexture */
+     , (1344041103,  15,   67116897) /* HairPalette */
+     , (1344041103,  16,   67116871) /* EyesPalette */
+     , (1344041103,  17,   67116871) /* SkinPalette */
      , (1344041103,  22,  872415434) /* PhysicsEffectTable */
      , (1344041103, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1344041103, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

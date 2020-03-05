@@ -3,11 +3,19 @@ VALUES (1343375529, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343375529,   1,         16) /* ItemType - Creature */
+     , (1343375529,   2,         31) /* CreatureType - Human */
      , (1343375529,   6,        102) /* ItemsCapacity */
      , (1343375529,   7,          7) /* ContainersCapacity */
      , (1343375529,  16,          1) /* ItemUseable - No */
+     , (1343375529,  25,         12) /* Level */
      , (1343375529,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343375529, 113,          1) /* Gender - Male */
      , (1343375529, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343375529, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343375529, 188,          4) /* HeritageGroup - Viamontian */
+     , (1343375529, 261,          1) /* CharacterTitleId */
+     , (1343375529, 307,          5) /* DamageRating */
+     , (1343375529, 390,          0) /* Enlightenment */
      , (1343375529, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -27,6 +35,12 @@ VALUES (1343375529,   1,   33554433) /* Setup */
      , (1343375529,   3,  536870913) /* SoundTable */
      , (1343375529,   6,   67108990) /* PaletteBase */
      , (1343375529,   8,  100667446) /* Icon */
+     , (1343375529,   9,   83890457) /* EyesTexture */
+     , (1343375529,  10,   83890550) /* NoseTexture */
+     , (1343375529,  11,   83890639) /* MouthTexture */
+     , (1343375529,  15,   67116981) /* HairPalette */
+     , (1343375529,  16,   67109564) /* EyesPalette */
+     , (1343375529,  17,   67115901) /* SkinPalette */
      , (1343375529,  22,  872415236) /* PhysicsEffectTable */
      , (1343375529, 8001,    8388630) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, RadarBehavior */
      , (1343375529, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

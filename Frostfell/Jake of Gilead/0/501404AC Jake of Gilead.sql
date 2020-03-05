@@ -3,11 +3,28 @@ VALUES (1343489196, 1, 10, 6738241) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343489196,   1,         16) /* ItemType - Creature */
+     , (1343489196,   2,         31) /* CreatureType - Human */
      , (1343489196,   6,        102) /* ItemsCapacity */
      , (1343489196,   7,          7) /* ContainersCapacity */
      , (1343489196,  16,          1) /* ItemUseable - No */
+     , (1343489196,  25,        275) /* Level */
+     , (1343489196,  30,          4) /* AllegianceRank */
      , (1343489196,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343489196, 113,          1) /* Gender - Male */
      , (1343489196, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343489196, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343489196, 188,          9) /* HeritageGroup - Empyrean */
+     , (1343489196, 261,        646) /* CharacterTitleId */
+     , (1343489196, 281,          1) /* Faction1Bits */
+     , (1343489196, 287,       1001) /* SocietyRankCelhan */
+     , (1343489196, 307,         19) /* DamageRating */
+     , (1343489196, 308,          5) /* DamageResistRating */
+     , (1343489196, 313,          1) /* CritRating */
+     , (1343489196, 314,          6) /* CritDamageRating */
+     , (1343489196, 316,         10) /* CritDamageResistRating */
+     , (1343489196, 323,         10) /* HealingBoostRating */
+     , (1343489196, 350,         28) /* DotResistRating */
+     , (1343489196, 390,          0) /* Enlightenment */
      , (1343489196, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -22,7 +39,11 @@ INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (1343489196,  39, 1.20000004768372) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343489196,   1, 'Jake of Gilead') /* Name */;
+VALUES (1343489196,   1, 'Jake of Gilead') /* Name */
+     , (1343489196,  10, 'Questing to the end') /* Fellowship */
+     , (1343489196,  21, 'King Aerfall') /* MonarchsTitle */
+     , (1343489196,  35, 'Reeve Brian of Gilead') /* PatronsTitle */
+     , (1343489196,  47, 'Autobotz') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343489196,   1,   33561110) /* Setup */
@@ -30,6 +51,12 @@ VALUES (1343489196,   1,   33561110) /* Setup */
      , (1343489196,   3,  536870913) /* SoundTable */
      , (1343489196,   6,   67108990) /* PaletteBase */
      , (1343489196,   8,  100667446) /* Icon */
+     , (1343489196,   9,   83890448) /* EyesTexture */
+     , (1343489196,  10,   83890518) /* NoseTexture */
+     , (1343489196,  11,   83890587) /* MouthTexture */
+     , (1343489196,  15,   67116981) /* HairPalette */
+     , (1343489196,  16,   67116858) /* EyesPalette */
+     , (1343489196,  17,   67116964) /* SkinPalette */
      , (1343489196,  22,  872415236) /* PhysicsEffectTable */
      , (1343489196, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343489196, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

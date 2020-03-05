@@ -3,11 +3,29 @@ VALUES (1343348258, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343348258,   1,         16) /* ItemType - Creature */
+     , (1343348258,   2,         31) /* CreatureType - Human */
      , (1343348258,   6,        102) /* ItemsCapacity */
      , (1343348258,   7,          8) /* ContainersCapacity */
      , (1343348258,  16,          1) /* ItemUseable - No */
+     , (1343348258,  25,        275) /* Level */
+     , (1343348258,  30,          2) /* AllegianceRank */
      , (1343348258,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343348258, 113,          2) /* Gender - Female */
      , (1343348258, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343348258, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343348258, 188,          1) /* HeritageGroup - Aluvian */
+     , (1343348258, 192,        555) /* FakeFishingSkill */
+     , (1343348258, 261,        481) /* CharacterTitleId */
+     , (1343348258, 262,        100) /* NumCharacterTitles */
+     , (1343348258, 281,          2) /* Faction1Bits */
+     , (1343348258, 288,       1001) /* SocietyRankEldweb */
+     , (1343348258, 307,         34) /* DamageRating */
+     , (1343348258, 308,         24) /* DamageResistRating */
+     , (1343348258, 313,          1) /* CritRating */
+     , (1343348258, 314,         28) /* CritDamageRating */
+     , (1343348258, 316,          7) /* CritDamageResistRating */
+     , (1343348258, 323,         13) /* HealingBoostRating */
+     , (1343348258, 390,          1) /* Enlightenment */
      , (1343348258, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +37,10 @@ VALUES (1343348258,   1, True ) /* Stuck */
      , (1343348258,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343348258,   1, 'Sharpie Sniffer') /* Name */;
+VALUES (1343348258,   1, 'Sharpie Sniffer') /* Name */
+     , (1343348258,  21, 'Kou Hogun the grim') /* MonarchsTitle */
+     , (1343348258,  35, 'Baronet Wandering Archmage') /* PatronsTitle */
+     , (1343348258,  47, 'Immortals') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343348258,   1,   33554510) /* Setup */
@@ -27,6 +48,12 @@ VALUES (1343348258,   1,   33554510) /* Setup */
      , (1343348258,   3,  536870914) /* SoundTable */
      , (1343348258,   6,   67108990) /* PaletteBase */
      , (1343348258,   8,  100667446) /* Icon */
+     , (1343348258,   9,   83890279) /* EyesTexture */
+     , (1343348258,  10,   83890294) /* NoseTexture */
+     , (1343348258,  11,   83890339) /* MouthTexture */
+     , (1343348258,  15,   67117068) /* HairPalette */
+     , (1343348258,  16,   67110063) /* EyesPalette */
+     , (1343348258,  17,   67109558) /* SkinPalette */
      , (1343348258,  22,  872415236) /* PhysicsEffectTable */
      , (1343348258, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343348258, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

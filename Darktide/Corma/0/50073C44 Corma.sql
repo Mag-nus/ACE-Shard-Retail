@@ -34,6 +34,7 @@ VALUES (1342651460,   1, True ) /* Stuck */
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1342651460,   1, 'Corma') /* Name */
+     , (1342651460,  10, 'Qwe') /* Fellowship */
      , (1342651460,  21, 'Aetheling Judged') /* MonarchsTitle */
      , (1342651460,  35, 'Qadi Deuce Dropper') /* PatronsTitle */
      , (1342651460,  43, '20 October 2000') /* DateOfBirth */

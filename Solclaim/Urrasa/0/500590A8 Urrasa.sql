@@ -3,11 +3,28 @@ VALUES (1342541992, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342541992,   1,         16) /* ItemType - Creature */
+     , (1342541992,   2,         31) /* CreatureType - Human */
      , (1342541992,   6,        102) /* ItemsCapacity */
      , (1342541992,   7,          8) /* ContainersCapacity */
      , (1342541992,  16,          1) /* ItemUseable - No */
+     , (1342541992,  25,        275) /* Level */
+     , (1342541992,  30,          4) /* AllegianceRank */
+     , (1342541992,  43,       1320) /* NumDeaths */
      , (1342541992,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342541992, 113,          2) /* Gender - Female */
+     , (1342541992, 125,   26195033) /* Age */
      , (1342541992, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342541992, 134,         64) /* PlayerKillerStatus - PKLite */
+     , (1342541992, 188,          1) /* HeritageGroup - Aluvian */
+     , (1342541992, 261,        433) /* CharacterTitleId */
+     , (1342541992, 281,          1) /* Faction1Bits */
+     , (1342541992, 287,         70) /* SocietyRankCelhan */
+     , (1342541992, 307,          9) /* DamageRating */
+     , (1342541992, 308,         11) /* DamageResistRating */
+     , (1342541992, 313,          1) /* CritRating */
+     , (1342541992, 314,         10) /* CritDamageRating */
+     , (1342541992, 323,          2) /* HealingBoostRating */
+     , (1342541992, 390,          0) /* Enlightenment */
      , (1342541992, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +36,11 @@ VALUES (1342541992,   1, True ) /* Stuck */
      , (1342541992,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342541992,   1, 'Urrasa') /* Name */;
+VALUES (1342541992,   1, 'Urrasa') /* Name */
+     , (1342541992,  21, 'High King Laris Bloodsong') /* MonarchsTitle */
+     , (1342541992,  35, 'Reeve Raedean') /* PatronsTitle */
+     , (1342541992,  43, '29 January 2001') /* DateOfBirth */
+     , (1342541992,  47, 'Saints of Solclaim') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342541992,   1,   33554510) /* Setup */
@@ -27,6 +48,12 @@ VALUES (1342541992,   1,   33554510) /* Setup */
      , (1342541992,   3,  536870914) /* SoundTable */
      , (1342541992,   6,   67108990) /* PaletteBase */
      , (1342541992,   8,  100667446) /* Icon */
+     , (1342541992,   9,   83890276) /* EyesTexture */
+     , (1342541992,  10,   83890302) /* NoseTexture */
+     , (1342541992,  11,   83890319) /* MouthTexture */
+     , (1342541992,  15,   67109603) /* HairPalette */
+     , (1342541992,  16,   67110065) /* EyesPalette */
+     , (1342541992,  17,   67109559) /* SkinPalette */
      , (1342541992,  22,  872415236) /* PhysicsEffectTable */
      , (1342541992, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342541992, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

@@ -3,12 +3,25 @@ VALUES (1342822058, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342822058,   1,         16) /* ItemType - Creature */
+     , (1342822058,   2,         31) /* CreatureType - Human */
      , (1342822058,   6,        102) /* ItemsCapacity */
      , (1342822058,   7,          8) /* ContainersCapacity */
      , (1342822058,  16,          1) /* ItemUseable - No */
+     , (1342822058,  25,        275) /* Level */
+     , (1342822058,  30,          1) /* AllegianceRank */
      , (1342822058,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342822058, 113,          1) /* Gender - Male */
      , (1342822058, 133,          4) /* ShowableOnRadar - ShowAlways */
-     , (1342822058, 8007,          0) /* PCAPRecordedAutonomousMovement */;
+     , (1342822058, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342822058, 188,          1) /* HeritageGroup - Aluvian */
+     , (1342822058, 261,          1) /* CharacterTitleId */
+     , (1342822058, 307,         17) /* DamageRating */
+     , (1342822058, 308,         21) /* DamageResistRating */
+     , (1342822058, 313,          1) /* CritRating */
+     , (1342822058, 314,          9) /* CritDamageRating */
+     , (1342822058, 316,          5) /* CritDamageResistRating */
+     , (1342822058, 390,          0) /* Enlightenment */
+     , (1342822058, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1342822058,   1, True ) /* Stuck */
@@ -19,7 +32,11 @@ VALUES (1342822058,   1, True ) /* Stuck */
      , (1342822058,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342822058,   1, 'God') /* Name */;
+VALUES (1342822058,   1, 'God') /* Name */
+     , (1342822058,  21, 'Nan-chueh Guthrum') /* MonarchsTitle */
+     , (1342822058,  35, 'Maulan Traboe') /* PatronsTitle */
+     , (1342822058,  43, '04 May 2002') /* DateOfBirth */
+     , (1342822058,  47, 'The White Company') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342822058,   1,   33554433) /* Setup */
@@ -27,6 +44,12 @@ VALUES (1342822058,   1,   33554433) /* Setup */
      , (1342822058,   3,  536870913) /* SoundTable */
      , (1342822058,   6,   67108990) /* PaletteBase */
      , (1342822058,   8,  100667446) /* Icon */
+     , (1342822058,   9,   83890451) /* EyesTexture */
+     , (1342822058,  10,   83890547) /* NoseTexture */
+     , (1342822058,  11,   83890628) /* MouthTexture */
+     , (1342822058,  15,   67109618) /* HairPalette */
+     , (1342822058,  16,   67110063) /* EyesPalette */
+     , (1342822058,  17,   67109560) /* SkinPalette */
      , (1342822058,  22,  872415236) /* PhysicsEffectTable */
      , (1342822058, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342822058, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
@@ -35,8 +58,8 @@ VALUES (1342822058,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1342822058, 1, 4095213824, 36.84892, 80.08458, 169.805, -0.9906967, 0, 0, 0.1360886) /* Location */
 /* @teleloc 0xF4180100 [36.848920 80.084580 169.805000] -0.990697 0.000000 0.000000 0.136089 */
-     , (1342822058, 8040, 4061528110, 127.101, 123.7065, 0.004999995, 0.9921977, 0, 0, 0.1246747) /* PCAPRecordedLocation */
-/* @teleloc 0xF216002E [127.101000 123.706500 0.005000] 0.992198 0.000000 0.000000 0.124675 */;
+     , (1342822058, 8040, 4095213580, 35.07389, 94.86004, 160.6888, -0.9999337, 0, 0, 0.0115119) /* PCAPRecordedLocation */
+/* @teleloc 0xF418000C [35.073890 94.860040 160.688800] -0.999934 0.000000 0.000000 0.011512 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342822058,  26, 1342747447) /* Monarch */

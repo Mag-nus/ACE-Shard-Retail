@@ -3,11 +3,28 @@ VALUES (1342643972, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342643972,   1,         16) /* ItemType - Creature */
+     , (1342643972,   2,         31) /* CreatureType - Human */
      , (1342643972,   6,        102) /* ItemsCapacity */
      , (1342643972,   7,          8) /* ContainersCapacity */
      , (1342643972,  16,          1) /* ItemUseable - No */
+     , (1342643972,  25,        275) /* Level */
+     , (1342643972,  30,          5) /* AllegianceRank */
      , (1342643972,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342643972, 113,          1) /* Gender - Male */
+     , (1342643972, 125,   19772277) /* Age */
      , (1342643972, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342643972, 134,         64) /* PlayerKillerStatus - PKLite */
+     , (1342643972, 188,          3) /* HeritageGroup - Sho */
+     , (1342643972, 261,        771) /* CharacterTitleId */
+     , (1342643972, 281,          4) /* Faction1Bits */
+     , (1342643972, 289,         60) /* SocietyRankRadblo */
+     , (1342643972, 307,         15) /* DamageRating */
+     , (1342643972, 308,          3) /* DamageResistRating */
+     , (1342643972, 313,          1) /* CritRating */
+     , (1342643972, 314,          4) /* CritDamageRating */
+     , (1342643972, 323,          3) /* HealingBoostRating */
+     , (1342643972, 350,         12) /* DotResistRating */
+     , (1342643972, 390,          0) /* Enlightenment */
      , (1342643972, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +36,11 @@ VALUES (1342643972,   1, True ) /* Stuck */
      , (1342643972,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342643972,   1, 'Debo''') /* Name */;
+VALUES (1342643972,   1, 'Debo''') /* Name */
+     , (1342643972,  21, 'Ealdor Debo II') /* MonarchsTitle */
+     , (1342643972,  35, 'Ealdor Debo II') /* PatronsTitle */
+     , (1342643972,  43, '27 June 2001') /* DateOfBirth */
+     , (1342643972,  47, 'I AM The Way The Truth And The Life') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342643972,   1,   33554433) /* Setup */
@@ -27,6 +48,12 @@ VALUES (1342643972,   1,   33554433) /* Setup */
      , (1342643972,   3,  536870913) /* SoundTable */
      , (1342643972,   6,   67108990) /* PaletteBase */
      , (1342643972,   8,  100667446) /* Icon */
+     , (1342643972,   9,   83890457) /* EyesTexture */
+     , (1342643972,  10,   83890521) /* NoseTexture */
+     , (1342643972,  11,   83890589) /* MouthTexture */
+     , (1342643972,  15,   67116990) /* HairPalette */
+     , (1342643972,  16,   67109565) /* EyesPalette */
+     , (1342643972,  17,   67110054) /* SkinPalette */
      , (1342643972,  22,  872415236) /* PhysicsEffectTable */
      , (1342643972, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342643972, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

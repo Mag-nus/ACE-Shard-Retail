@@ -39,6 +39,7 @@ VALUES (1343954636,  39, 1.20000004768372) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343954636,   1, 'Pillule II') /* Name */
+     , (1343954636,  10, 'Juidged') /* Fellowship */
      , (1343954636,  21, 'Qadi Uncle Boots') /* MonarchsTitle */
      , (1343954636,  35, 'Jo-chueh Gnarcher') /* PatronsTitle */;
 
@@ -62,8 +63,8 @@ VALUES (1343954636,   1,   33560839) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343954636, 1, 459059, 61.72183, -70.96213, 0.005999982, 0.9950068, 0, 0, -0.09980703) /* Location */
 /* @teleloc 0x00070133 [61.721830 -70.962130 0.006000] 0.995007 0.000000 0.000000 -0.099807 */
-     , (1343954636, 8040, 3316187177, 141.8839, 10.48812, 42.006, 0.9997936, 0, 0, -0.0203171) /* PCAPRecordedLocation */
-/* @teleloc 0xC5A90029 [141.883900 10.488120 42.006000] 0.999794 0.000000 0.000000 -0.020317 */;
+     , (1343954636, 8040, 459060, 63.12865, -80.6558, 0.005999982, 0.8273182, 0, 0, 0.5617336) /* PCAPRecordedLocation */
+/* @teleloc 0x00070134 [63.128650 -80.655800 0.006000] 0.827318 0.000000 0.000000 0.561734 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343954636,  26, 1344151710) /* Monarch */

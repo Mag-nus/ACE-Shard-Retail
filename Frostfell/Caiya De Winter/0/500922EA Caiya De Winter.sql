@@ -30,13 +30,13 @@ VALUES (1342776042,   1,   33554510) /* Setup */
      , (1342776042,  22,  872415236) /* PhysicsEffectTable */
      , (1342776042, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342776042, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
-     , (1342776042, 8005,     104451) /* PCAPRecordedPhysicsDesc - CSetup, MTable, STable, PeTable, Position, Movement */;
+     , (1342776042, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1342776042, 1, 1210908932, 86.8, 137.6, -14.795, 1, 0, 0, 0) /* Location */
 /* @teleloc 0x482D0104 [86.800000 137.600000 -14.795000] 1.000000 0.000000 0.000000 0.000000 */
-     , (1342776042, 8040, 2535587877, 109.9981, 107.6721, 116.0863, -0.3383771, 0, 0, -0.9410106) /* PCAPRecordedLocation */
-/* @teleloc 0x97220025 [109.998100 107.672100 116.086300] -0.338377 0.000000 0.000000 -0.941011 */;
+     , (1342776042, 8040, 2535587877, 108.6318, 108.2337, 116.0863, 0.2456415, 0, 0, -0.9693608) /* PCAPRecordedLocation */
+/* @teleloc 0x97220025 [108.631800 108.233700 116.086300] 0.245642 0.000000 0.000000 -0.969361 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342776042,  26, 1342764876) /* Monarch */

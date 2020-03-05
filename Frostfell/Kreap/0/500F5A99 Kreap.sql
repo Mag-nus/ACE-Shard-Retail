@@ -3,11 +3,26 @@ VALUES (1343183513, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343183513,   1,         16) /* ItemType - Creature */
+     , (1343183513,   2,         31) /* CreatureType - Human */
      , (1343183513,   6,        102) /* ItemsCapacity */
      , (1343183513,   7,          8) /* ContainersCapacity */
      , (1343183513,  16,          1) /* ItemUseable - No */
+     , (1343183513,  25,        275) /* Level */
+     , (1343183513,  30,          2) /* AllegianceRank */
+     , (1343183513,  43,        161) /* NumDeaths */
      , (1343183513,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343183513, 113,          1) /* Gender - Male */
      , (1343183513, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343183513, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343183513, 188,          2) /* HeritageGroup - Gharundim */
+     , (1343183513, 261,         10) /* CharacterTitleId */
+     , (1343183513, 307,         19) /* DamageRating */
+     , (1343183513, 308,         26) /* DamageResistRating */
+     , (1343183513, 313,          1) /* CritRating */
+     , (1343183513, 314,          7) /* CritDamageRating */
+     , (1343183513, 316,          5) /* CritDamageResistRating */
+     , (1343183513, 323,          1) /* HealingBoostRating */
+     , (1343183513, 390,          0) /* Enlightenment */
      , (1343183513, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +34,10 @@ VALUES (1343183513,   1, True ) /* Stuck */
      , (1343183513,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343183513,   1, 'Kreap') /* Name */;
+VALUES (1343183513,   1, 'Kreap') /* Name */
+     , (1343183513,  21, 'Queen Evil-Lady') /* MonarchsTitle */
+     , (1343183513,  35, 'Viscount Redox') /* PatronsTitle */
+     , (1343183513,  47, 'Mischievous Misfits') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343183513,   1,   33554433) /* Setup */
@@ -27,6 +45,12 @@ VALUES (1343183513,   1,   33554433) /* Setup */
      , (1343183513,   3,  536870913) /* SoundTable */
      , (1343183513,   6,   67108990) /* PaletteBase */
      , (1343183513,   8,  100667446) /* Icon */
+     , (1343183513,   9,   83890457) /* EyesTexture */
+     , (1343183513,  10,   83890561) /* NoseTexture */
+     , (1343183513,  11,   83890576) /* MouthTexture */
+     , (1343183513,  15,   67109625) /* HairPalette */
+     , (1343183513,  16,   67109567) /* EyesPalette */
+     , (1343183513,  17,   67109557) /* SkinPalette */
      , (1343183513,  22,  872415236) /* PhysicsEffectTable */
      , (1343183513, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343183513, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

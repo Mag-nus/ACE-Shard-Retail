@@ -3,23 +3,35 @@ VALUES (1342789651, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342789651,   1,         16) /* ItemType - Creature */
+     , (1342789651,   2,         31) /* CreatureType - Human */
      , (1342789651,   6,        102) /* ItemsCapacity */
      , (1342789651,   7,          7) /* ContainersCapacity */
      , (1342789651,  16,          1) /* ItemUseable - No */
-     , (1342789651,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342789651,  25,        243) /* Level */
+     , (1342789651,  30,          2) /* AllegianceRank */
+     , (1342789651,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1342789651, 113,          1) /* Gender - Male */
      , (1342789651, 133,          4) /* ShowableOnRadar - ShowAlways */
-     , (1342789651, 8007,          1) /* PCAPRecordedAutonomousMovement */;
+     , (1342789651, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342789651, 188,          3) /* HeritageGroup - Sho */
+     , (1342789651, 261,          1) /* CharacterTitleId */
+     , (1342789651, 307,          5) /* DamageRating */
+     , (1342789651, 390,          0) /* Enlightenment */
+     , (1342789651, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1342789651,   1, True ) /* Stuck */
-     , (1342789651,  12, True ) /* ReportCollisions */
+     , (1342789651,  11, True ) /* IgnoreCollisions */
      , (1342789651,  13, False) /* Ethereal */
      , (1342789651,  14, True ) /* GravityStatus */
      , (1342789651,  19, True ) /* Attackable */
      , (1342789651,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342789651,   1, 'Kilo-one') /* Name */;
+VALUES (1342789651,   1, 'Kilo-one') /* Name */
+     , (1342789651,  21, 'High King Mr Adventure') /* MonarchsTitle */
+     , (1342789651,  35, 'Maulana Elari') /* PatronsTitle */
+     , (1342789651,  47, 'Knights of Fortune') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342789651,   1,   33554433) /* Setup */
@@ -27,6 +39,12 @@ VALUES (1342789651,   1,   33554433) /* Setup */
      , (1342789651,   3,  536870913) /* SoundTable */
      , (1342789651,   6,   67108990) /* PaletteBase */
      , (1342789651,   8,  100667446) /* Icon */
+     , (1342789651,   9,   83890454) /* EyesTexture */
+     , (1342789651,  10,   83890525) /* NoseTexture */
+     , (1342789651,  11,   83890664) /* MouthTexture */
+     , (1342789651,  15,   67109629) /* HairPalette */
+     , (1342789651,  16,   67110063) /* EyesPalette */
+     , (1342789651,  17,   67110055) /* SkinPalette */
      , (1342789651,  22,  872415236) /* PhysicsEffectTable */
      , (1342789651, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342789651, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
@@ -35,8 +53,8 @@ VALUES (1342789651,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1342789651, 1, 2847146025, 120.1904, 17.13143, 94.005, -0.6402996, 0, 0, -0.7681252) /* Location */
 /* @teleloc 0xA9B40029 [120.190400 17.131430 94.005000] -0.640300 0.000000 0.000000 -0.768125 */
-     , (1342789651, 8040, 2847146017, 119.9767, 16.72733, 94.005, -0.8253677, 0, 0, -0.5645955) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B40021 [119.976700 16.727330 94.005000] -0.825368 0.000000 0.000000 -0.564596 */;
+     , (1342789651, 8040, 2847146025, 120.1904, 17.13143, 94.005, -0.6402996, 0, 0, -0.7681252) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B40029 [120.190400 17.131430 94.005000] -0.640300 0.000000 0.000000 -0.768125 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342789651,  26, 1342708235) /* Monarch */

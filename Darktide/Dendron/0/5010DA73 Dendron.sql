@@ -14,7 +14,6 @@ VALUES (1343281779,   1,         16) /* ItemType - Creature */
      , (1343281779, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343281779, 188,          3) /* HeritageGroup - Sho */
      , (1343281779, 261,          1) /* CharacterTitleId */
-     , (1343281779, 307,          5) /* DamageRating */
      , (1343281779, 390,          0) /* Enlightenment */
      , (1343281779, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
@@ -28,7 +27,7 @@ VALUES (1343281779,   1, True ) /* Stuck */
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343281779,   1, 'Dendron') /* Name */
-     , (1343281779,  10, 'We got this') /* Fellowship */;
+     , (1343281779,  10, 'Bffs Forever') /* Fellowship */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343281779,   1,   33554433) /* Setup */

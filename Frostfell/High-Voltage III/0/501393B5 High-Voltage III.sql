@@ -3,11 +3,25 @@ VALUES (1343460277, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343460277,   1,         16) /* ItemType - Creature */
+     , (1343460277,   2,         31) /* CreatureType - Human */
      , (1343460277,   6,        102) /* ItemsCapacity */
      , (1343460277,   7,          8) /* ContainersCapacity */
      , (1343460277,  16,          1) /* ItemUseable - No */
+     , (1343460277,  25,        275) /* Level */
+     , (1343460277,  30,          4) /* AllegianceRank */
      , (1343460277,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343460277, 113,          1) /* Gender - Male */
      , (1343460277, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343460277, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343460277, 188,          3) /* HeritageGroup - Sho */
+     , (1343460277, 261,          1) /* CharacterTitleId */
+     , (1343460277, 307,         16) /* DamageRating */
+     , (1343460277, 308,         27) /* DamageResistRating */
+     , (1343460277, 313,          1) /* CritRating */
+     , (1343460277, 314,          6) /* CritDamageRating */
+     , (1343460277, 316,          9) /* CritDamageResistRating */
+     , (1343460277, 323,          2) /* HealingBoostRating */
+     , (1343460277, 390,          0) /* Enlightenment */
      , (1343460277, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +33,11 @@ VALUES (1343460277,   1, True ) /* Stuck */
      , (1343460277,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343460277,   1, 'High-Voltage III') /* Name */;
+VALUES (1343460277,   1, 'High-Voltage III') /* Name */
+     , (1343460277,  10, 'Quest') /* Fellowship */
+     , (1343460277,  21, 'Ou Sausage Javelins') /* MonarchsTitle */
+     , (1343460277,  35, 'Ta-chueh High-Voltage II') /* PatronsTitle */
+     , (1343460277,  47, 'R o G') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343460277,   1,   33554433) /* Setup */
@@ -27,6 +45,12 @@ VALUES (1343460277,   1,   33554433) /* Setup */
      , (1343460277,   3,  536870913) /* SoundTable */
      , (1343460277,   6,   67108990) /* PaletteBase */
      , (1343460277,   8,  100667446) /* Icon */
+     , (1343460277,   9,   83890488) /* EyesTexture */
+     , (1343460277,  10,   83890523) /* NoseTexture */
+     , (1343460277,  11,   83890587) /* MouthTexture */
+     , (1343460277,  15,   67117016) /* HairPalette */
+     , (1343460277,  16,   67110062) /* EyesPalette */
+     , (1343460277,  17,   67110055) /* SkinPalette */
      , (1343460277,  22,  872415236) /* PhysicsEffectTable */
      , (1343460277, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343460277, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
@@ -35,8 +59,8 @@ VALUES (1343460277,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343460277, 1, 3332964372, 56.76414, 92.64258, 42.005, -0.7071068, 0, 0, -0.7071068) /* Location */
 /* @teleloc 0xC6A90014 [56.764140 92.642580 42.005000] -0.707107 0.000000 0.000000 -0.707107 */
-     , (1343460277, 8040, 4150001682, 67.17126, 28.43985, 20.005, 0.939194, 0, 0, -0.3433872) /* PCAPRecordedLocation */
-/* @teleloc 0xF75C0012 [67.171260 28.439850 20.005000] 0.939194 0.000000 0.000000 -0.343387 */;
+     , (1343460277, 8040, 4166778913, 117.1471, 15.82339, 8.004999, 0.1992236, 0, 0, -0.9799541) /* PCAPRecordedLocation */
+/* @teleloc 0xF85C0021 [117.147100 15.823390 8.004999] 0.199224 0.000000 0.000000 -0.979954 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343460277,  26, 1343239842) /* Monarch */

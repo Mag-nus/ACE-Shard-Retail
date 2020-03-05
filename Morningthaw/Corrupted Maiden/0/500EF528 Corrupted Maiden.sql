@@ -3,11 +3,27 @@ VALUES (1343157544, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343157544,   1,         16) /* ItemType - Creature */
+     , (1343157544,   2,         31) /* CreatureType - Human */
      , (1343157544,   6,        102) /* ItemsCapacity */
      , (1343157544,   7,          8) /* ContainersCapacity */
      , (1343157544,  16,          1) /* ItemUseable - No */
+     , (1343157544,  25,        275) /* Level */
+     , (1343157544,  30,         10) /* AllegianceRank */
      , (1343157544,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343157544, 113,          2) /* Gender - Female */
      , (1343157544, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343157544, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343157544, 188,          4) /* HeritageGroup - Viamontian */
+     , (1343157544, 261,          9) /* CharacterTitleId */
+     , (1343157544, 281,          1) /* Faction1Bits */
+     , (1343157544, 287,          1) /* SocietyRankCelhan */
+     , (1343157544, 307,         45) /* DamageRating */
+     , (1343157544, 308,         18) /* DamageResistRating */
+     , (1343157544, 313,          1) /* CritRating */
+     , (1343157544, 314,         17) /* CritDamageRating */
+     , (1343157544, 316,          7) /* CritDamageResistRating */
+     , (1343157544, 323,         11) /* HealingBoostRating */
+     , (1343157544, 390,          0) /* Enlightenment */
      , (1343157544, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +35,10 @@ VALUES (1343157544,   1, True ) /* Stuck */
      , (1343157544,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343157544,   1, 'Corrupted Maiden') /* Name */;
+VALUES (1343157544,   1, 'Corrupted Maiden') /* Name */
+     , (1343157544,  21, 'High King He who is called I Am') /* MonarchsTitle */
+     , (1343157544,  35, 'High Queen Rynthid Sorceress') /* PatronsTitle */
+     , (1343157544,  47, 'Untalented Circus Midgets') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343157544,   1,   33554510) /* Setup */
@@ -27,6 +46,12 @@ VALUES (1343157544,   1,   33554510) /* Setup */
      , (1343157544,   3,  536870914) /* SoundTable */
      , (1343157544,   6,   67108990) /* PaletteBase */
      , (1343157544,   8,  100667446) /* Icon */
+     , (1343157544,   9,   83890279) /* EyesTexture */
+     , (1343157544,  10,   83890312) /* NoseTexture */
+     , (1343157544,  11,   83890348) /* MouthTexture */
+     , (1343157544,  15,   67109591) /* HairPalette */
+     , (1343157544,  16,   67109564) /* EyesPalette */
+     , (1343157544,  17,   67115904) /* SkinPalette */
      , (1343157544,  22,  872415236) /* PhysicsEffectTable */
      , (1343157544, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343157544, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

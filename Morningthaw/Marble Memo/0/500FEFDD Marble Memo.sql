@@ -3,11 +3,27 @@ VALUES (1343221725, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343221725,   1,         16) /* ItemType - Creature */
+     , (1343221725,   2,         31) /* CreatureType - Human */
      , (1343221725,   6,        102) /* ItemsCapacity */
      , (1343221725,   7,          8) /* ContainersCapacity */
      , (1343221725,  16,          1) /* ItemUseable - No */
+     , (1343221725,  25,        275) /* Level */
+     , (1343221725,  30,          3) /* AllegianceRank */
      , (1343221725,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343221725, 113,          1) /* Gender - Male */
      , (1343221725, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343221725, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343221725, 188,         10) /* HeritageGroup - Penumbraen */
+     , (1343221725, 261,        380) /* CharacterTitleId */
+     , (1343221725, 281,          4) /* Faction1Bits */
+     , (1343221725, 289,       1001) /* SocietyRankRadblo */
+     , (1343221725, 307,         25) /* DamageRating */
+     , (1343221725, 308,         10) /* DamageResistRating */
+     , (1343221725, 313,          1) /* CritRating */
+     , (1343221725, 314,         16) /* CritDamageRating */
+     , (1343221725, 316,          3) /* CritDamageResistRating */
+     , (1343221725, 323,          8) /* HealingBoostRating */
+     , (1343221725, 390,          0) /* Enlightenment */
      , (1343221725, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +35,10 @@ VALUES (1343221725,   1, True ) /* Stuck */
      , (1343221725,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343221725,   1, 'Marble Memo') /* Name */;
+VALUES (1343221725,   1, 'Marble Memo') /* Name */
+     , (1343221725,  21, 'High King He who is called I Am') /* MonarchsTitle */
+     , (1343221725,  35, 'Nan-chueh Brycter') /* PatronsTitle */
+     , (1343221725,  47, 'Untalented Circus Midgets') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343221725,   1,   33560942) /* Setup */
@@ -27,6 +46,12 @@ VALUES (1343221725,   1,   33560942) /* Setup */
      , (1343221725,   3,  536870913) /* SoundTable */
      , (1343221725,   6,   67108990) /* PaletteBase */
      , (1343221725,   8,  100667446) /* Icon */
+     , (1343221725,   9,   83890506) /* EyesTexture */
+     , (1343221725,  10,   83890555) /* NoseTexture */
+     , (1343221725,  11,   83890629) /* MouthTexture */
+     , (1343221725,  15,   67117075) /* HairPalette */
+     , (1343221725,  16,   67116845) /* EyesPalette */
+     , (1343221725,  17,   67116848) /* SkinPalette */
      , (1343221725,  22,  872415433) /* PhysicsEffectTable */
      , (1343221725, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343221725, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

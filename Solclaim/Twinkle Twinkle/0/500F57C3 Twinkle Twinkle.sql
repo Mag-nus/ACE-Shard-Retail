@@ -7,6 +7,7 @@ VALUES (1343182787,   1,         16) /* ItemType - Creature */
      , (1343182787,   6,        102) /* ItemsCapacity */
      , (1343182787,   7,          7) /* ContainersCapacity */
      , (1343182787,  16,          1) /* ItemUseable - No */
+     , (1343182787,  25,        164) /* Level */
      , (1343182787,  30,          4) /* AllegianceRank */
      , (1343182787,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
      , (1343182787, 113,          2) /* Gender - Female */
@@ -14,6 +15,7 @@ VALUES (1343182787,   1,         16) /* ItemType - Creature */
      , (1343182787, 134,          4) /* PlayerKillerStatus - PK */
      , (1343182787, 188,          2) /* HeritageGroup - Gharundim */
      , (1343182787, 261,          1) /* CharacterTitleId */
+     , (1343182787, 307,          5) /* DamageRating */
      , (1343182787, 390,          0) /* Enlightenment */
      , (1343182787, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
@@ -27,7 +29,6 @@ VALUES (1343182787,   1, True ) /* Stuck */
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343182787,   1, 'Twinkle Twinkle') /* Name */
-     , (1343182787,  10, 'Claudes mind') /* Fellowship */
      , (1343182787,  21, 'Ealdor Tzepesh') /* MonarchsTitle */
      , (1343182787,  35, 'Reeve Tinkertinker') /* PatronsTitle */;
 

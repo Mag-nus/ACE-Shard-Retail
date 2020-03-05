@@ -3,11 +3,17 @@ VALUES (1344175384, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1344175384,   1,         16) /* ItemType - Creature */
+     , (1344175384,   2,         31) /* CreatureType - Human */
      , (1344175384,   6,        102) /* ItemsCapacity */
      , (1344175384,   7,          7) /* ContainersCapacity */
      , (1344175384,  16,          1) /* ItemUseable - No */
      , (1344175384,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1344175384, 113,          1) /* Gender - Male */
      , (1344175384, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1344175384, 134,          4) /* PlayerKillerStatus - PK */
+     , (1344175384, 188,          2) /* HeritageGroup - Gharundim */
+     , (1344175384, 261,          1) /* CharacterTitleId */
+     , (1344175384, 390,          0) /* Enlightenment */
      , (1344175384, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -27,6 +33,12 @@ VALUES (1344175384,   1,   33554433) /* Setup */
      , (1344175384,   3,  536870913) /* SoundTable */
      , (1344175384,   6,   67108990) /* PaletteBase */
      , (1344175384,   8,  100667446) /* Icon */
+     , (1344175384,   9,   83890457) /* EyesTexture */
+     , (1344175384,  10,   83890539) /* NoseTexture */
+     , (1344175384,  11,   83890638) /* MouthTexture */
+     , (1344175384,  15,   67117070) /* HairPalette */
+     , (1344175384,  16,   67110063) /* EyesPalette */
+     , (1344175384,  17,   67109557) /* SkinPalette */
      , (1344175384,  22,  872415236) /* PhysicsEffectTable */
      , (1344175384, 8001,    8388630) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, RadarBehavior */
      , (1344175384, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

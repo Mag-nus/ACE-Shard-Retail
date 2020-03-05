@@ -3,11 +3,23 @@ VALUES (1342680574, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342680574,   1,         16) /* ItemType - Creature */
+     , (1342680574,   2,         31) /* CreatureType - Human */
      , (1342680574,   6,        102) /* ItemsCapacity */
      , (1342680574,   7,          7) /* ContainersCapacity */
      , (1342680574,  16,          1) /* ItemUseable - No */
+     , (1342680574,  25,        175) /* Level */
+     , (1342680574,  30,          2) /* AllegianceRank */
+     , (1342680574,  43,        204) /* NumDeaths */
      , (1342680574,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1342680574, 113,          1) /* Gender - Male */
+     , (1342680574, 125,    5202205) /* Age */
      , (1342680574, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342680574, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342680574, 188,          1) /* HeritageGroup - Aluvian */
+     , (1342680574, 261,        110) /* CharacterTitleId */
+     , (1342680574, 262,         27) /* NumCharacterTitles */
+     , (1342680574, 307,          5) /* DamageRating */
+     , (1342680574, 390,          0) /* Enlightenment */
      , (1342680574, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +31,11 @@ VALUES (1342680574,   1, True ) /* Stuck */
      , (1342680574,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342680574,   1, 'Archtype') /* Name */;
+VALUES (1342680574,   1, 'Archtype') /* Name */
+     , (1342680574,  21, 'Sultana Mari Elisa') /* MonarchsTitle */
+     , (1342680574,  35, 'Maulana Archmule II') /* PatronsTitle */
+     , (1342680574,  43, '22 April 2001') /* DateOfBirth */
+     , (1342680574,  47, 'Guardians of the Lifestone') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342680574,   1,   33554433) /* Setup */
@@ -27,6 +43,12 @@ VALUES (1342680574,   1,   33554433) /* Setup */
      , (1342680574,   3,  536870913) /* SoundTable */
      , (1342680574,   6,   67108990) /* PaletteBase */
      , (1342680574,   8,  100667446) /* Icon */
+     , (1342680574,   9,   83890514) /* EyesTexture */
+     , (1342680574,  10,   83890557) /* NoseTexture */
+     , (1342680574,  11,   83890659) /* MouthTexture */
+     , (1342680574,  15,   67109610) /* HairPalette */
+     , (1342680574,  16,   67110064) /* EyesPalette */
+     , (1342680574,  17,   67109559) /* SkinPalette */
      , (1342680574,  22,  872415236) /* PhysicsEffectTable */
      , (1342680574, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342680574, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

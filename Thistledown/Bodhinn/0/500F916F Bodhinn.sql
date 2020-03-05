@@ -3,11 +3,28 @@ VALUES (1343197551, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343197551,   1,         16) /* ItemType - Creature */
+     , (1343197551,   2,         31) /* CreatureType - Human */
      , (1343197551,   6,        102) /* ItemsCapacity */
      , (1343197551,   7,          8) /* ContainersCapacity */
      , (1343197551,  16,          1) /* ItemUseable - No */
+     , (1343197551,  25,        275) /* Level */
+     , (1343197551,  30,          1) /* AllegianceRank */
      , (1343197551,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343197551, 113,          1) /* Gender - Male */
      , (1343197551, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343197551, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343197551, 188,          5) /* HeritageGroup - Shadowbound */
+     , (1343197551, 261,        862) /* CharacterTitleId */
+     , (1343197551, 262,         98) /* NumCharacterTitles */
+     , (1343197551, 281,          1) /* Faction1Bits */
+     , (1343197551, 287,       1001) /* SocietyRankCelhan */
+     , (1343197551, 307,         20) /* DamageRating */
+     , (1343197551, 308,         13) /* DamageResistRating */
+     , (1343197551, 313,          1) /* CritRating */
+     , (1343197551, 314,         12) /* CritDamageRating */
+     , (1343197551, 316,          5) /* CritDamageResistRating */
+     , (1343197551, 323,         12) /* HealingBoostRating */
+     , (1343197551, 390,          0) /* Enlightenment */
      , (1343197551, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +36,10 @@ VALUES (1343197551,   1, True ) /* Stuck */
      , (1343197551,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343197551,   1, 'Bodhinn') /* Name */;
+VALUES (1343197551,   1, 'Bodhinn') /* Name */
+     , (1343197551,  21, 'Sultana Mari Elisa') /* MonarchsTitle */
+     , (1343197551,  35, 'Archduchess Flower In The Attic') /* PatronsTitle */
+     , (1343197551,  47, 'Guardians of the Lifestone') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343197551,   1,   33560943) /* Setup */
@@ -27,6 +47,12 @@ VALUES (1343197551,   1,   33560943) /* Setup */
      , (1343197551,   3,  536870913) /* SoundTable */
      , (1343197551,   6,   67108990) /* PaletteBase */
      , (1343197551,   8,  100667446) /* Icon */
+     , (1343197551,   9,   83890437) /* EyesTexture */
+     , (1343197551,  10,   83890555) /* NoseTexture */
+     , (1343197551,  11,   83890639) /* MouthTexture */
+     , (1343197551,  15,   67117028) /* HairPalette */
+     , (1343197551,  16,   67116856) /* EyesPalette */
+     , (1343197551,  17,   67116846) /* SkinPalette */
      , (1343197551,  22,  872415433) /* PhysicsEffectTable */
      , (1343197551, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343197551, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

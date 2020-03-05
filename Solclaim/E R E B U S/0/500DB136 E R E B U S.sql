@@ -9,7 +9,7 @@ VALUES (1343074614,   1,         16) /* ItemType - Creature */
      , (1343074614,  16,          1) /* ItemUseable - No */
      , (1343074614,  25,        275) /* Level */
      , (1343074614,  30,          4) /* AllegianceRank */
-     , (1343074614,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343074614,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1343074614, 113,          1) /* Gender - Male */
      , (1343074614, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343074614, 134,          2) /* PlayerKillerStatus - NPK */
@@ -20,7 +20,7 @@ VALUES (1343074614,   1,         16) /* ItemType - Creature */
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1343074614,   1, True ) /* Stuck */
-     , (1343074614,  11, True ) /* IgnoreCollisions */
+     , (1343074614,  12, True ) /* ReportCollisions */
      , (1343074614,  13, False) /* Ethereal */
      , (1343074614,  14, True ) /* GravityStatus */
      , (1343074614,  19, True ) /* Attackable */
@@ -52,8 +52,8 @@ VALUES (1343074614,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343074614, 1, 23855548, 50.01838, -31.81588, 0.004999995, 0.1225888, 0, 0, -0.9924576) /* Location */
 /* @teleloc 0x016C01BC [50.018380 -31.815880 0.005000] 0.122589 0.000000 0.000000 -0.992458 */
-     , (1343074614, 8040, 23855548, 49.206, -30.60167, 0.004999995, 0.7071068, 0, 0, -0.7071068) /* PCAPRecordedLocation */
-/* @teleloc 0x016C01BC [49.206000 -30.601670 0.005000] 0.707107 0.000000 0.000000 -0.707107 */;
+     , (1343074614, 8040, 23855554, 58.06718, -31.66056, 0.004999995, -0.6316351, 0, 0, -0.7752659) /* PCAPRecordedLocation */
+/* @teleloc 0x016C01C2 [58.067180 -31.660560 0.005000] -0.631635 0.000000 0.000000 -0.775266 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343074614,  26, 1342996201) /* Monarch */

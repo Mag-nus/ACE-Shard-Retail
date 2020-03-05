@@ -7,19 +7,29 @@ VALUES (1343610056,   1,         16) /* ItemType - Creature */
      , (1343610056,   6,        102) /* ItemsCapacity */
      , (1343610056,   7,          8) /* ContainersCapacity */
      , (1343610056,  16,          1) /* ItemUseable - No */
+     , (1343610056,  25,        275) /* Level */
      , (1343610056,  30,          8) /* AllegianceRank */
-     , (1343610056,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343610056,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1343610056, 113,          2) /* Gender - Female */
      , (1343610056, 133,          4) /* ShowableOnRadar - ShowAlways */
-     , (1343610056, 134,          4) /* PlayerKillerStatus - PK */
+     , (1343610056, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343610056, 188,          3) /* HeritageGroup - Sho */
      , (1343610056, 261,          1) /* CharacterTitleId */
+     , (1343610056, 281,          4) /* Faction1Bits */
+     , (1343610056, 289,       1001) /* SocietyRankRadblo */
+     , (1343610056, 307,         43) /* DamageRating */
+     , (1343610056, 308,         51) /* DamageResistRating */
+     , (1343610056, 314,         37) /* CritDamageRating */
+     , (1343610056, 316,         18) /* CritDamageResistRating */
+     , (1343610056, 323,          5) /* HealingBoostRating */
+     , (1343610056, 381,          6) /* PKDamageRating */
+     , (1343610056, 382,          6) /* PKDamageResistRating */
      , (1343610056, 390,          0) /* Enlightenment */
-     , (1343610056, 8007,          0) /* PCAPRecordedAutonomousMovement */;
+     , (1343610056, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1343610056,   1, True ) /* Stuck */
-     , (1343610056,  11, True ) /* IgnoreCollisions */
+     , (1343610056,  12, True ) /* ReportCollisions */
      , (1343610056,  13, False) /* Ethereal */
      , (1343610056,  14, True ) /* GravityStatus */
      , (1343610056,  19, True ) /* Attackable */
@@ -27,6 +37,7 @@ VALUES (1343610056,   1, True ) /* Stuck */
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343610056,   1, 'Eowyn The Hottie') /* Name */
+     , (1343610056,  10, 'F') /* Fellowship */
      , (1343610056,  21, 'Ou Khao') /* MonarchsTitle */
      , (1343610056,  35, 'Taikou Mowf al''Zorro') /* PatronsTitle */
      , (1343610056,  47, 'The Last Stand') /* AllegianceName */;
@@ -45,14 +56,14 @@ VALUES (1343610056,   1,   33554510) /* Setup */
      , (1343610056,  17,   67110048) /* SkinPalette */
      , (1343610056,  22,  872415236) /* PhysicsEffectTable */
      , (1343610056, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
-     , (1343610056, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
+     , (1343610056, 8003,         60) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable, PlayerKiller */
      , (1343610056, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343610056, 1, 3370713108, 49.72722, 95.99839, -0.09500003, 0.5930608, 0, 0, -0.8051577) /* Location */
 /* @teleloc 0xC8E90014 [49.727220 95.998390 -0.095000] 0.593061 0.000000 0.000000 -0.805158 */
-     , (1343610056, 8040, 459075, 70, -60, 0.004999995, -4.371139E-08, 0, 0, -1) /* PCAPRecordedLocation */
-/* @teleloc 0x00070143 [70.000000 -60.000000 0.005000] 0.000000 0.000000 0.000000 -1.000000 */;
+     , (1343610056, 8040, 3370713131, 125.521, 57.39727, 0.005000025, -0.756356, 0, 0, 0.6541603) /* PCAPRecordedLocation */
+/* @teleloc 0xC8E9002B [125.521000 57.397270 0.005000] -0.756356 0.000000 0.000000 0.654160 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343610056,  26, 1342716280) /* Monarch */

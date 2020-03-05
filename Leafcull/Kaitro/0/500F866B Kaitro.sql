@@ -3,11 +3,28 @@ VALUES (1343194731, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343194731,   1,         16) /* ItemType - Creature */
+     , (1343194731,   2,         31) /* CreatureType - Human */
      , (1343194731,   6,        102) /* ItemsCapacity */
      , (1343194731,   7,          8) /* ContainersCapacity */
      , (1343194731,  16,          1) /* ItemUseable - No */
+     , (1343194731,  25,        275) /* Level */
+     , (1343194731,  30,          3) /* AllegianceRank */
      , (1343194731,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343194731, 113,          1) /* Gender - Male */
      , (1343194731, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343194731, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343194731, 188,          2) /* HeritageGroup - Gharundim */
+     , (1343194731, 261,          1) /* CharacterTitleId */
+     , (1343194731, 281,          1) /* Faction1Bits */
+     , (1343194731, 287,          1) /* SocietyRankCelhan */
+     , (1343194731, 307,          8) /* DamageRating */
+     , (1343194731, 308,          3) /* DamageResistRating */
+     , (1343194731, 313,          1) /* CritRating */
+     , (1343194731, 314,          3) /* CritDamageRating */
+     , (1343194731, 316,          1) /* CritDamageResistRating */
+     , (1343194731, 323,          9) /* HealingBoostRating */
+     , (1343194731, 350,         32) /* DotResistRating */
+     , (1343194731, 390,          0) /* Enlightenment */
      , (1343194731, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +36,10 @@ VALUES (1343194731,   1, True ) /* Stuck */
      , (1343194731,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343194731,   1, 'Kaitro') /* Name */;
+VALUES (1343194731,   1, 'Kaitro') /* Name */
+     , (1343194731,  21, 'Taikou Butterflygolem') /* MonarchsTitle */
+     , (1343194731,  35, 'Arintoth Alphonse Shinobi') /* PatronsTitle */
+     , (1343194731,  47, 'Jello Fighters') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343194731,   1,   33554433) /* Setup */
@@ -27,6 +47,12 @@ VALUES (1343194731,   1,   33554433) /* Setup */
      , (1343194731,   3,  536870913) /* SoundTable */
      , (1343194731,   6,   67108990) /* PaletteBase */
      , (1343194731,   8,  100667446) /* Icon */
+     , (1343194731,   9,   83890510) /* EyesTexture */
+     , (1343194731,  10,   83890562) /* NoseTexture */
+     , (1343194731,  11,   83890659) /* MouthTexture */
+     , (1343194731,  15,   67117016) /* HairPalette */
+     , (1343194731,  16,   67110063) /* EyesPalette */
+     , (1343194731,  17,   67109552) /* SkinPalette */
      , (1343194731,  22,  872415236) /* PhysicsEffectTable */
      , (1343194731, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343194731, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

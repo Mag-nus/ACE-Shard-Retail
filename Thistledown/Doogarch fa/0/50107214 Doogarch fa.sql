@@ -3,11 +3,26 @@ VALUES (1343255060, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343255060,   1,         16) /* ItemType - Creature */
+     , (1343255060,   2,         31) /* CreatureType - Human */
      , (1343255060,   6,        102) /* ItemsCapacity */
      , (1343255060,   7,          7) /* ContainersCapacity */
      , (1343255060,  16,          1) /* ItemUseable - No */
+     , (1343255060,  25,        275) /* Level */
+     , (1343255060,  30,          2) /* AllegianceRank */
      , (1343255060,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343255060, 113,          1) /* Gender - Male */
      , (1343255060, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343255060, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343255060, 188,          1) /* HeritageGroup - Aluvian */
+     , (1343255060, 261,          1) /* CharacterTitleId */
+     , (1343255060, 281,          2) /* Faction1Bits */
+     , (1343255060, 288,         30) /* SocietyRankEldweb */
+     , (1343255060, 307,          7) /* DamageRating */
+     , (1343255060, 308,          5) /* DamageResistRating */
+     , (1343255060, 314,         14) /* CritDamageRating */
+     , (1343255060, 316,          3) /* CritDamageResistRating */
+     , (1343255060, 323,          2) /* HealingBoostRating */
+     , (1343255060, 390,          0) /* Enlightenment */
      , (1343255060, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +34,10 @@ VALUES (1343255060,   1, True ) /* Stuck */
      , (1343255060,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343255060,   1, 'Doogarch fa') /* Name */;
+VALUES (1343255060,   1, 'Doogarch fa') /* Name */
+     , (1343255060,  21, 'Sultana Nythak I') /* MonarchsTitle */
+     , (1343255060,  35, 'Shayk Doogws') /* PatronsTitle */
+     , (1343255060,  47, 'Royal Court') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343255060,   1,   33554433) /* Setup */
@@ -27,6 +45,12 @@ VALUES (1343255060,   1,   33554433) /* Setup */
      , (1343255060,   3,  536870913) /* SoundTable */
      , (1343255060,   6,   67108990) /* PaletteBase */
      , (1343255060,   8,  100667446) /* Icon */
+     , (1343255060,   9,   83890437) /* EyesTexture */
+     , (1343255060,  10,   83890562) /* NoseTexture */
+     , (1343255060,  11,   83890663) /* MouthTexture */
+     , (1343255060,  15,   67116988) /* HairPalette */
+     , (1343255060,  16,   67110064) /* EyesPalette */
+     , (1343255060,  17,   67109562) /* SkinPalette */
      , (1343255060,  22,  872415236) /* PhysicsEffectTable */
      , (1343255060, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343255060, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

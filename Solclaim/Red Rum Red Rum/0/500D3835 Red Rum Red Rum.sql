@@ -3,23 +3,39 @@ VALUES (1343043637, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343043637,   1,         16) /* ItemType - Creature */
+     , (1343043637,   2,         31) /* CreatureType - Human */
      , (1343043637,   6,        102) /* ItemsCapacity */
      , (1343043637,   7,          7) /* ContainersCapacity */
      , (1343043637,  16,          1) /* ItemUseable - No */
-     , (1343043637,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343043637,  25,        219) /* Level */
+     , (1343043637,  30,          3) /* AllegianceRank */
+     , (1343043637,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343043637, 113,          1) /* Gender - Male */
      , (1343043637, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343043637, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343043637, 188,          1) /* HeritageGroup - Aluvian */
+     , (1343043637, 261,         64) /* CharacterTitleId */
+     , (1343043637, 307,         12) /* DamageRating */
+     , (1343043637, 308,          1) /* DamageResistRating */
+     , (1343043637, 314,          1) /* CritDamageRating */
+     , (1343043637, 316,          1) /* CritDamageResistRating */
+     , (1343043637, 390,          0) /* Enlightenment */
      , (1343043637, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1343043637,   1, True ) /* Stuck */
-     , (1343043637,  11, True ) /* IgnoreCollisions */
+     , (1343043637,  12, True ) /* ReportCollisions */
      , (1343043637,  13, False) /* Ethereal */
      , (1343043637,  14, True ) /* GravityStatus */
      , (1343043637,  19, True ) /* Attackable */
      , (1343043637,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343043637,   1, 'Red Rum Red Rum') /* Name */;
+VALUES (1343043637,   1, 'Red Rum Red Rum') /* Name */
+     , (1343043637,  10, 'Q') /* Fellowship */
+     , (1343043637,  21, 'Aetheling Ion Storm') /* MonarchsTitle */
+     , (1343043637,  35, 'Qadiya Ethereal Power') /* PatronsTitle */
+     , (1343043637,  47, 'Riders on the Storm') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343043637,   1,   33554433) /* Setup */
@@ -27,6 +43,12 @@ VALUES (1343043637,   1,   33554433) /* Setup */
      , (1343043637,   3,  536870913) /* SoundTable */
      , (1343043637,   6,   67108990) /* PaletteBase */
      , (1343043637,   8,  100667446) /* Icon */
+     , (1343043637,   9,   83890510) /* EyesTexture */
+     , (1343043637,  10,   83890520) /* NoseTexture */
+     , (1343043637,  11,   83890657) /* MouthTexture */
+     , (1343043637,  15,   67109618) /* HairPalette */
+     , (1343043637,  16,   67110062) /* EyesPalette */
+     , (1343043637,  17,   67109558) /* SkinPalette */
      , (1343043637,  22,  872415236) /* PhysicsEffectTable */
      , (1343043637, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343043637, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
@@ -35,8 +57,8 @@ VALUES (1343043637,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343043637, 1, 20185357, 31.45785, -17.24895, 0.004999995, -0.03454539, 0, 0, -0.9994031) /* Location */
 /* @teleloc 0x0134010D [31.457850 -17.248950 0.005000] -0.034545 0.000000 0.000000 -0.999403 */
-     , (1343043637, 8040, 20185382, 30, -60, 6.005, 1, 0, 0, 0) /* PCAPRecordedLocation */
-/* @teleloc 0x01340126 [30.000000 -60.000000 6.005000] 1.000000 0.000000 0.000000 0.000000 */;
+     , (1343043637, 8040, 20185380, 32.66936, -41.42061, 6.005, -0.9965295, 0, 0, -0.08324032) /* PCAPRecordedLocation */
+/* @teleloc 0x01340124 [32.669360 -41.420610 6.005000] -0.996530 0.000000 0.000000 -0.083240 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343043637,  26, 1342560917) /* Monarch */

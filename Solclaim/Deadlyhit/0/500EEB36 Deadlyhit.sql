@@ -3,11 +3,27 @@ VALUES (1343154998, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343154998,   1,         16) /* ItemType - Creature */
+     , (1343154998,   2,         31) /* CreatureType - Human */
      , (1343154998,   6,        102) /* ItemsCapacity */
      , (1343154998,   7,          8) /* ContainersCapacity */
      , (1343154998,  16,          1) /* ItemUseable - No */
+     , (1343154998,  25,        275) /* Level */
+     , (1343154998,  30,          4) /* AllegianceRank */
      , (1343154998,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343154998, 113,          1) /* Gender - Male */
      , (1343154998, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343154998, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343154998, 188,          3) /* HeritageGroup - Sho */
+     , (1343154998, 261,          1) /* CharacterTitleId */
+     , (1343154998, 281,          4) /* Faction1Bits */
+     , (1343154998, 289,        595) /* SocietyRankRadblo */
+     , (1343154998, 307,         22) /* DamageRating */
+     , (1343154998, 308,          9) /* DamageResistRating */
+     , (1343154998, 313,          1) /* CritRating */
+     , (1343154998, 314,         12) /* CritDamageRating */
+     , (1343154998, 323,          4) /* HealingBoostRating */
+     , (1343154998, 350,         16) /* DotResistRating */
+     , (1343154998, 390,          0) /* Enlightenment */
      , (1343154998, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +35,10 @@ VALUES (1343154998,   1, True ) /* Stuck */
      , (1343154998,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343154998,   1, 'Deadlyhit') /* Name */;
+VALUES (1343154998,   1, 'Deadlyhit') /* Name */
+     , (1343154998,  21, 'High King Laris Bloodsong') /* MonarchsTitle */
+     , (1343154998,  35, 'Commander Endless misery') /* PatronsTitle */
+     , (1343154998,  47, 'Saints of Solclaim') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343154998,   1,   33554433) /* Setup */
@@ -27,6 +46,12 @@ VALUES (1343154998,   1,   33554433) /* Setup */
      , (1343154998,   3,  536870913) /* SoundTable */
      , (1343154998,   6,   67108990) /* PaletteBase */
      , (1343154998,   8,  100667446) /* Icon */
+     , (1343154998,   9,   83890447) /* EyesTexture */
+     , (1343154998,  10,   83890518) /* NoseTexture */
+     , (1343154998,  11,   83890567) /* MouthTexture */
+     , (1343154998,  15,   67117072) /* HairPalette */
+     , (1343154998,  16,   67110063) /* EyesPalette */
+     , (1343154998,  17,   67110052) /* SkinPalette */
      , (1343154998,  22,  872415236) /* PhysicsEffectTable */
      , (1343154998, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343154998, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

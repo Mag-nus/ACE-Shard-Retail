@@ -3,11 +3,27 @@ VALUES (1342993232, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342993232,   1,         16) /* ItemType - Creature */
+     , (1342993232,   2,         31) /* CreatureType - Human */
      , (1342993232,   6,        102) /* ItemsCapacity */
      , (1342993232,   7,          8) /* ContainersCapacity */
      , (1342993232,  16,          1) /* ItemUseable - No */
+     , (1342993232,  25,        275) /* Level */
+     , (1342993232,  30,          3) /* AllegianceRank */
      , (1342993232,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1342993232, 113,          1) /* Gender - Male */
      , (1342993232, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342993232, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342993232, 188,          2) /* HeritageGroup - Gharundim */
+     , (1342993232, 261,          1) /* CharacterTitleId */
+     , (1342993232, 281,          1) /* Faction1Bits */
+     , (1342993232, 287,       1001) /* SocietyRankCelhan */
+     , (1342993232, 307,         20) /* DamageRating */
+     , (1342993232, 308,         23) /* DamageResistRating */
+     , (1342993232, 313,          1) /* CritRating */
+     , (1342993232, 314,          8) /* CritDamageRating */
+     , (1342993232, 316,          5) /* CritDamageResistRating */
+     , (1342993232, 323,          7) /* HealingBoostRating */
+     , (1342993232, 390,          1) /* Enlightenment */
      , (1342993232, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +35,10 @@ VALUES (1342993232,   1, True ) /* Stuck */
      , (1342993232,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342993232,   1, 'Bok Fu Do') /* Name */;
+VALUES (1342993232,   1, 'Bok Fu Do') /* Name */
+     , (1342993232,  21, 'Malik Tao Roo Chingon II') /* MonarchsTitle */
+     , (1342993232,  35, 'Maulan Dar al-Jari') /* PatronsTitle */
+     , (1342993232,  47, 'The Spirits of the Mountain') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342993232,   1,   33554433) /* Setup */
@@ -27,6 +46,12 @@ VALUES (1342993232,   1,   33554433) /* Setup */
      , (1342993232,   3,  536870913) /* SoundTable */
      , (1342993232,   6,   67108990) /* PaletteBase */
      , (1342993232,   8,  100667446) /* Icon */
+     , (1342993232,   9,   83890439) /* EyesTexture */
+     , (1342993232,  10,   83890531) /* NoseTexture */
+     , (1342993232,  11,   83890601) /* MouthTexture */
+     , (1342993232,  15,   67109603) /* HairPalette */
+     , (1342993232,  16,   67110063) /* EyesPalette */
+     , (1342993232,  17,   67109557) /* SkinPalette */
      , (1342993232,  22,  872415236) /* PhysicsEffectTable */
      , (1342993232, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342993232, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

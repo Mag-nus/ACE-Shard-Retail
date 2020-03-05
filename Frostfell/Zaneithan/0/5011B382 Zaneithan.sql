@@ -3,11 +3,25 @@ VALUES (1343337346, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343337346,   1,         16) /* ItemType - Creature */
+     , (1343337346,   2,         31) /* CreatureType - Human */
      , (1343337346,   6,        102) /* ItemsCapacity */
      , (1343337346,   7,          7) /* ContainersCapacity */
      , (1343337346,  16,          1) /* ItemUseable - No */
+     , (1343337346,  25,        254) /* Level */
+     , (1343337346,  30,          1) /* AllegianceRank */
      , (1343337346,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343337346, 113,          1) /* Gender - Male */
+     , (1343337346, 125,    3113157) /* Age */
      , (1343337346, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343337346, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343337346, 188,          3) /* HeritageGroup - Sho */
+     , (1343337346, 261,        646) /* CharacterTitleId */
+     , (1343337346, 281,          1) /* Faction1Bits */
+     , (1343337346, 287,        700) /* SocietyRankCelhan */
+     , (1343337346, 307,         13) /* DamageRating */
+     , (1343337346, 308,          3) /* DamageResistRating */
+     , (1343337346, 314,          3) /* CritDamageRating */
+     , (1343337346, 390,          0) /* Enlightenment */
      , (1343337346, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +33,10 @@ VALUES (1343337346,   1, True ) /* Stuck */
      , (1343337346,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343337346,   1, 'Zaneithan') /* Name */;
+VALUES (1343337346,   1, 'Zaneithan') /* Name */
+     , (1343337346,  21, 'King Aerfall') /* MonarchsTitle */
+     , (1343337346,  35, 'Kun-chueh Damien Ash') /* PatronsTitle */
+     , (1343337346,  47, 'Autobotz') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343337346,   1,   33554433) /* Setup */
@@ -27,6 +44,12 @@ VALUES (1343337346,   1,   33554433) /* Setup */
      , (1343337346,   3,  536870913) /* SoundTable */
      , (1343337346,   6,   67108990) /* PaletteBase */
      , (1343337346,   8,  100667446) /* Icon */
+     , (1343337346,   9,   83890458) /* EyesTexture */
+     , (1343337346,  10,   83890523) /* NoseTexture */
+     , (1343337346,  11,   83890585) /* MouthTexture */
+     , (1343337346,  15,   67117016) /* HairPalette */
+     , (1343337346,  16,   67110063) /* EyesPalette */
+     , (1343337346,  17,   67110048) /* SkinPalette */
      , (1343337346,  22,  872415236) /* PhysicsEffectTable */
      , (1343337346, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343337346, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

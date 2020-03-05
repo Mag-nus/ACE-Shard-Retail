@@ -7,7 +7,7 @@ VALUES (1343255631,   1,         16) /* ItemType - Creature */
      , (1343255631,   6,        102) /* ItemsCapacity */
      , (1343255631,   7,          7) /* ContainersCapacity */
      , (1343255631,  16,          1) /* ItemUseable - No */
-     , (1343255631,  25,        246) /* Level */
+     , (1343255631,  25,        275) /* Level */
      , (1343255631,  30,          2) /* AllegianceRank */
      , (1343255631,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1343255631, 113,          1) /* Gender - Male */
@@ -15,10 +15,10 @@ VALUES (1343255631,   1,         16) /* ItemType - Creature */
      , (1343255631, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343255631, 188,          9) /* HeritageGroup - Empyrean */
      , (1343255631, 261,          1) /* CharacterTitleId */
-     , (1343255631, 307,         34) /* DamageRating */
-     , (1343255631, 308,          9) /* DamageResistRating */
-     , (1343255631, 314,          1) /* CritDamageRating */
-     , (1343255631, 316,          1) /* CritDamageResistRating */
+     , (1343255631, 307,         30) /* DamageRating */
+     , (1343255631, 308,         14) /* DamageResistRating */
+     , (1343255631, 314,         10) /* CritDamageRating */
+     , (1343255631, 316,          3) /* CritDamageResistRating */
      , (1343255631, 390,          0) /* Enlightenment */
      , (1343255631, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 

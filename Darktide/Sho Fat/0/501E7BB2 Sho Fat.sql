@@ -8,7 +8,7 @@ VALUES (1344175026,   1,         16) /* ItemType - Creature */
      , (1344175026,   7,          7) /* ContainersCapacity */
      , (1344175026,  16,          1) /* ItemUseable - No */
      , (1344175026,  25,          7) /* Level */
-     , (1344175026,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1344175026,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1344175026, 113,          1) /* Gender - Male */
      , (1344175026, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1344175026, 134,          4) /* PlayerKillerStatus - PK */
@@ -20,7 +20,7 @@ VALUES (1344175026,   1,         16) /* ItemType - Creature */
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1344175026,   1, True ) /* Stuck */
-     , (1344175026,  11, True ) /* IgnoreCollisions */
+     , (1344175026,  12, True ) /* ReportCollisions */
      , (1344175026,  13, False) /* Ethereal */
      , (1344175026,  14, True ) /* GravityStatus */
      , (1344175026,  19, True ) /* Attackable */
@@ -43,14 +43,14 @@ VALUES (1344175026,   1,   33554433) /* Setup */
      , (1344175026,  17,   67110059) /* SkinPalette */
      , (1344175026,  22,  872415236) /* PhysicsEffectTable */
      , (1344175026, 8001,    8388630) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, RadarBehavior */
-     , (1344175026, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
+     , (1344175026, 8003,         60) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable, PlayerKiller */
      , (1344175026, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1344175026, 1, 23200105, 65.00848, -119.3206, 6.005, -0.9307258, 0, 0, 0.3657178) /* Location */
 /* @teleloc 0x01620169 [65.008480 -119.320600 6.005000] -0.930726 0.000000 0.000000 0.365718 */
-     , (1344175026, 8040, 23200210, 60, -10, 12.005, -4.371139E-08, 0, 0, -1) /* PCAPRecordedLocation */
-/* @teleloc 0x016201D2 [60.000000 -10.000000 12.005000] 0.000000 0.000000 0.000000 -1.000000 */;
+     , (1344175026, 8040, 23200092, 60.14618, -138.2733, 6.005, 0.4803289, 0, 0, -0.8770884) /* PCAPRecordedLocation */
+/* @teleloc 0x0162015C [60.146180 -138.273300 6.005000] 0.480329 0.000000 0.000000 -0.877088 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1344175026, 8000, 1344175026) /* PCAPRecordedObjectIID */;
@@ -63,13 +63,13 @@ VALUES (1344175026, 67110015, 136, 16)
      , (1344175026, 67110015, 174, 66)
      , (1344175026, 67110015, 168, 6)
      , (1344175026, 67110015, 160, 8)
-     , (1344175026, 67110015, 240, 10)
-     , (1344175026, 67110024, 72, 8)
      , (1344175026, 67110059, 0, 24)
      , (1344175026, 67110063, 32, 8)
      , (1344175026, 67110348, 92, 4)
+     , (1344175026, 67110368, 250, 6)
      , (1344175026, 67110375, 40, 24)
-     , (1344175026, 67111303, 64, 8)
+     , (1344175026, 67115691, 72, 8)
+     , (1344175026, 67115719, 64, 8)
      , (1344175026, 67116990, 24, 8);
 
 INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
@@ -97,7 +97,7 @@ VALUES (1344175026, 0, 83889072, 83886815, 12)
      , (1344175026, 16, 83886668, 83890471, 1)
      , (1344175026, 16, 83886837, 83890529, 2)
      , (1344175026, 16, 83886684, 83890582, 3)
-     , (1344175026, 16, 83887048, 83887048, 24);
+     , (1344175026, 16, 83886825, 83886825, 24);
 
 INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, `order`)
 VALUES (1344175026, 0, 16781842, 22)
@@ -116,7 +116,7 @@ VALUES (1344175026, 0, 16781842, 22)
      , (1344175026, 13, 16781828, 24)
      , (1344175026, 14, 16781813, 26)
      , (1344175026, 15, 16777335, 27)
-     , (1344175026, 16, 16778414, 33)
+     , (1344175026, 16, 16778594, 33)
      , (1344175026, 17, 16777708, 0)
      , (1344175026, 18, 16777708, 1)
      , (1344175026, 19, 16777708, 2)

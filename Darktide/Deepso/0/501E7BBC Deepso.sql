@@ -7,13 +7,14 @@ VALUES (1344175036,   1,         16) /* ItemType - Creature */
      , (1344175036,   6,        102) /* ItemsCapacity */
      , (1344175036,   7,          7) /* ContainersCapacity */
      , (1344175036,  16,          1) /* ItemUseable - No */
-     , (1344175036,  25,          5) /* Level */
+     , (1344175036,  25,          7) /* Level */
      , (1344175036,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
      , (1344175036, 113,          1) /* Gender - Male */
      , (1344175036, 133,          4) /* ShowableOnRadar - ShowAlways */
-     , (1344175036, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1344175036, 134,          4) /* PlayerKillerStatus - PK */
      , (1344175036, 188,          9) /* HeritageGroup - Empyrean */
      , (1344175036, 261,          1) /* CharacterTitleId */
+     , (1344175036, 307,          5) /* DamageRating */
      , (1344175036, 390,          0) /* Enlightenment */
      , (1344175036, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 

@@ -3,11 +3,28 @@ VALUES (1343167095, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343167095,   1,         16) /* ItemType - Creature */
+     , (1343167095,   2,         31) /* CreatureType - Human */
      , (1343167095,   6,        102) /* ItemsCapacity */
      , (1343167095,   7,          7) /* ContainersCapacity */
      , (1343167095,  16,          1) /* ItemUseable - No */
+     , (1343167095,  25,        275) /* Level */
+     , (1343167095,  30,          2) /* AllegianceRank */
      , (1343167095,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343167095, 113,          2) /* Gender - Female */
+     , (1343167095, 125,    6577162) /* Age */
      , (1343167095, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343167095, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343167095, 188,          3) /* HeritageGroup - Sho */
+     , (1343167095, 261,        768) /* CharacterTitleId */
+     , (1343167095, 262,         59) /* NumCharacterTitles */
+     , (1343167095, 281,          1) /* Faction1Bits */
+     , (1343167095, 287,       1001) /* SocietyRankCelhan */
+     , (1343167095, 307,          6) /* DamageRating */
+     , (1343167095, 308,         15) /* DamageResistRating */
+     , (1343167095, 314,          2) /* CritDamageRating */
+     , (1343167095, 316,          3) /* CritDamageResistRating */
+     , (1343167095, 323,          2) /* HealingBoostRating */
+     , (1343167095, 390,          0) /* Enlightenment */
      , (1343167095, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +36,11 @@ VALUES (1343167095,   1, True ) /* Stuck */
      , (1343167095,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343167095,   1, 'Electra The Blue') /* Name */;
+VALUES (1343167095,   1, 'Electra The Blue') /* Name */
+     , (1343167095,  21, 'High King Laris Bloodsong') /* MonarchsTitle */
+     , (1343167095,  35, 'Captain Oncore') /* PatronsTitle */
+     , (1343167095,  43, '25 March 2015') /* DateOfBirth */
+     , (1343167095,  47, 'Saints of Solclaim') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343167095,   1,   33554510) /* Setup */
@@ -27,6 +48,12 @@ VALUES (1343167095,   1,   33554510) /* Setup */
      , (1343167095,   3,  536870914) /* SoundTable */
      , (1343167095,   6,   67108990) /* PaletteBase */
      , (1343167095,   8,  100667446) /* Icon */
+     , (1343167095,   9,   83890281) /* EyesTexture */
+     , (1343167095,  10,   83890292) /* NoseTexture */
+     , (1343167095,  11,   83890330) /* MouthTexture */
+     , (1343167095,  15,   67117070) /* HairPalette */
+     , (1343167095,  16,   67110063) /* EyesPalette */
+     , (1343167095,  17,   67110055) /* SkinPalette */
      , (1343167095,  22,  872415236) /* PhysicsEffectTable */
      , (1343167095, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343167095, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

@@ -6,13 +6,13 @@ VALUES (1343183512,   1,         16) /* ItemType - Creature */
      , (1343183512,   6,        102) /* ItemsCapacity */
      , (1343183512,   7,          8) /* ContainersCapacity */
      , (1343183512,  16,          1) /* ItemUseable - No */
-     , (1343183512,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343183512,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1343183512, 133,          4) /* ShowableOnRadar - ShowAlways */
-     , (1343183512, 8007,          0) /* PCAPRecordedAutonomousMovement */;
+     , (1343183512, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1343183512,   1, True ) /* Stuck */
-     , (1343183512,  11, True ) /* IgnoreCollisions */
+     , (1343183512,  12, True ) /* ReportCollisions */
      , (1343183512,  13, False) /* Ethereal */
      , (1343183512,  14, True ) /* GravityStatus */
      , (1343183512,  19, True ) /* Attackable */
@@ -35,8 +35,8 @@ VALUES (1343183512,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343183512, 1, 1068761098, 29.02265, 32.19678, 0.004999995, -0.4628996, 0, 0, -0.8864107) /* Location */
 /* @teleloc 0x3FB4000A [29.022650 32.196780 0.005000] -0.462900 0.000000 0.000000 -0.886411 */
-     , (1343183512, 8040, 1068761098, 29.02265, 32.19678, 0.004999995, -0.9734579, 0, 0, -0.228866) /* PCAPRecordedLocation */
-/* @teleloc 0x3FB4000A [29.022650 32.196780 0.005000] -0.973458 0.000000 0.000000 -0.228866 */;
+     , (1343183512, 8040, 1068761098, 29.02265, 32.19678, 0.004999995, -0.8219827, 0, 0, -0.5695124) /* PCAPRecordedLocation */
+/* @teleloc 0x3FB4000A [29.022650 32.196780 0.005000] -0.821983 0.000000 0.000000 -0.569512 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343183512,  26, 1342200341) /* Monarch */

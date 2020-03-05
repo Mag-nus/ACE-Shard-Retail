@@ -3,11 +3,27 @@ VALUES (1343084399, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343084399,   1,         16) /* ItemType - Creature */
+     , (1343084399,   2,         31) /* CreatureType - Human */
      , (1343084399,   6,        102) /* ItemsCapacity */
      , (1343084399,   7,          8) /* ContainersCapacity */
      , (1343084399,  16,          1) /* ItemUseable - No */
+     , (1343084399,  25,        275) /* Level */
+     , (1343084399,  30,          1) /* AllegianceRank */
      , (1343084399,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343084399, 113,          1) /* Gender - Male */
      , (1343084399, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343084399, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343084399, 188,          3) /* HeritageGroup - Sho */
+     , (1343084399, 261,        879) /* CharacterTitleId */
+     , (1343084399, 281,          4) /* Faction1Bits */
+     , (1343084399, 289,       1001) /* SocietyRankRadblo */
+     , (1343084399, 307,         18) /* DamageRating */
+     , (1343084399, 308,         24) /* DamageResistRating */
+     , (1343084399, 313,          1) /* CritRating */
+     , (1343084399, 314,         14) /* CritDamageRating */
+     , (1343084399, 316,         17) /* CritDamageResistRating */
+     , (1343084399, 323,          8) /* HealingBoostRating */
+     , (1343084399, 390,          1) /* Enlightenment */
      , (1343084399, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +35,10 @@ VALUES (1343084399,   1, True ) /* Stuck */
      , (1343084399,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343084399,   1, 'Des of the Sword') /* Name */;
+VALUES (1343084399,   1, 'Des of the Sword') /* Name */
+     , (1343084399,  21, 'Legatus Blaez''s') /* MonarchsTitle */
+     , (1343084399,  35, 'Jo-chueh Des the Almighty Lord') /* PatronsTitle */
+     , (1343084399,  47, 'Des the Dark Knight') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343084399,   1,   33554433) /* Setup */
@@ -27,6 +46,12 @@ VALUES (1343084399,   1,   33554433) /* Setup */
      , (1343084399,   3,  536870913) /* SoundTable */
      , (1343084399,   6,   67108990) /* PaletteBase */
      , (1343084399,   8,  100667446) /* Icon */
+     , (1343084399,   9,   83890457) /* EyesTexture */
+     , (1343084399,  10,   83890517) /* NoseTexture */
+     , (1343084399,  11,   83890656) /* MouthTexture */
+     , (1343084399,  15,   67116990) /* HairPalette */
+     , (1343084399,  16,   67109565) /* EyesPalette */
+     , (1343084399,  17,   67110050) /* SkinPalette */
      , (1343084399,  22,  872415236) /* PhysicsEffectTable */
      , (1343084399, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343084399, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
@@ -35,8 +60,8 @@ VALUES (1343084399,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343084399, 1, 3332964380, 82.76916, 77.63132, 42.005, 0.9842573, 0, 0, -0.1767414) /* Location */
 /* @teleloc 0xC6A9001C [82.769160 77.631320 42.005000] 0.984257 0.000000 0.000000 -0.176741 */
-     , (1343084399, 8040, 3332964380, 83.632, 78.25121, 42.005, -0.3536496, 0, 0, -0.935378) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001C [83.632000 78.251210 42.005000] -0.353650 0.000000 0.000000 -0.935378 */;
+     , (1343084399, 8040, 3332964380, 82.40009, 76.79384, 42.005, -0.06205317, 0, 0, -0.9980729) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A9001C [82.400090 76.793840 42.005000] -0.062053 0.000000 0.000000 -0.998073 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343084399,  26, 1343177811) /* Monarch */

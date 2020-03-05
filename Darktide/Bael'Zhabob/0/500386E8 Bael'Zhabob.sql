@@ -8,7 +8,7 @@ VALUES (1342408424,   1,         16) /* ItemType - Creature */
      , (1342408424,   7,          7) /* ContainersCapacity */
      , (1342408424,  16,          1) /* ItemUseable - No */
      , (1342408424,  25,         18) /* Level */
-     , (1342408424,  43,         60) /* NumDeaths */
+     , (1342408424,  43,         61) /* NumDeaths */
      , (1342408424,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1342408424, 113,          1) /* Gender - Male */
      , (1342408424, 125,     271476) /* Age */

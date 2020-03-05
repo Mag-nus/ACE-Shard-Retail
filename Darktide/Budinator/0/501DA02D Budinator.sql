@@ -1,5 +1,5 @@
 INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
-VALUES (1344118829, 1, 10, 6738241) /* Creature */;
+VALUES (1344118829, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1344118829,   1,         16) /* ItemType - Creature */
@@ -9,7 +9,7 @@ VALUES (1344118829,   1,         16) /* ItemType - Creature */
      , (1344118829,  16,          1) /* ItemUseable - No */
      , (1344118829,  30,          4) /* AllegianceRank */
      , (1344118829,  43,       1218) /* NumDeaths */
-     , (1344118829,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1344118829,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1344118829, 113,          1) /* Gender - Male */
      , (1344118829, 125,    5723329) /* Age */
      , (1344118829, 133,          4) /* ShowableOnRadar - ShowAlways */
@@ -18,20 +18,15 @@ VALUES (1344118829,   1,         16) /* ItemType - Creature */
      , (1344118829, 261,          1) /* CharacterTitleId */
      , (1344118829, 262,         21) /* NumCharacterTitles */
      , (1344118829, 390,          0) /* Enlightenment */
-     , (1344118829, 8007,          1) /* PCAPRecordedAutonomousMovement */;
+     , (1344118829, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1344118829,   1, True ) /* Stuck */
-     , (1344118829,  11, True ) /* IgnoreCollisions */
+     , (1344118829,  12, True ) /* ReportCollisions */
      , (1344118829,  13, False) /* Ethereal */
      , (1344118829,  14, True ) /* GravityStatus */
      , (1344118829,  19, True ) /* Attackable */
      , (1344118829,  42, True ) /* AllowEdgeSlide */;
-
-INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1344118829, 8010, -12.1287813186646) /* PCAPRecordedVelocityX */
-     , (1344118829, 8011, -0.0505028367042542) /* PCAPRecordedVelocityY */
-     , (1344118829, 8012, 0.650149881839752) /* PCAPRecordedVelocityZ */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1344118829,   1, 'Budinator') /* Name */
@@ -56,13 +51,13 @@ VALUES (1344118829,   1,   33554433) /* Setup */
      , (1344118829,  22,  872415236) /* PhysicsEffectTable */
      , (1344118829, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1344118829, 8003,         60) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable, PlayerKiller */
-     , (1344118829, 8005,     104519) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Velocity, Children, STable, PeTable, Position, Movement */;
+     , (1344118829, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1344118829, 1, 3370713121, 108.003, 4.593708, 0.005000025, -0.3693955, 0, 0, -0.9292723) /* Location */
 /* @teleloc 0xC8E90021 [108.003000 4.593708 0.005000] -0.369396 0.000000 0.000000 -0.929272 */
-     , (1344118829, 8040, 2847146009, 84, 8.433333, 94.005, 0.9969173, 0, 0, -0.0784591) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B40019 [84.000000 8.433333 94.005000] 0.996917 0.000000 0.000000 -0.078459 */;
+     , (1344118829, 8040, 3370713123, 119.0761, 66.30191, 0.004999995, 0.5542396, 0, 0, -0.8323572) /* PCAPRecordedLocation */
+/* @teleloc 0xC8E90023 [119.076100 66.301910 0.005000] 0.554240 0.000000 0.000000 -0.832357 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1344118829,  26, 1343793956) /* Monarch */

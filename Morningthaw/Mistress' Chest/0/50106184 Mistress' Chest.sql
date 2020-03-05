@@ -3,11 +3,27 @@ VALUES (1343250820, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343250820,   1,         16) /* ItemType - Creature */
+     , (1343250820,   2,         31) /* CreatureType - Human */
      , (1343250820,   6,        102) /* ItemsCapacity */
      , (1343250820,   7,          8) /* ContainersCapacity */
      , (1343250820,  16,          1) /* ItemUseable - No */
+     , (1343250820,  25,        275) /* Level */
+     , (1343250820,  30,          1) /* AllegianceRank */
      , (1343250820,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343250820, 113,          2) /* Gender - Female */
      , (1343250820, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343250820, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343250820, 188,          1) /* HeritageGroup - Aluvian */
+     , (1343250820, 261,        878) /* CharacterTitleId */
+     , (1343250820, 281,          1) /* Faction1Bits */
+     , (1343250820, 287,        150) /* SocietyRankCelhan */
+     , (1343250820, 307,         47) /* DamageRating */
+     , (1343250820, 308,         18) /* DamageResistRating */
+     , (1343250820, 313,          1) /* CritRating */
+     , (1343250820, 314,         18) /* CritDamageRating */
+     , (1343250820, 316,          8) /* CritDamageResistRating */
+     , (1343250820, 323,          9) /* HealingBoostRating */
+     , (1343250820, 390,          0) /* Enlightenment */
      , (1343250820, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +35,10 @@ VALUES (1343250820,   1, True ) /* Stuck */
      , (1343250820,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343250820,   1, 'Mistress'' Chest') /* Name */;
+VALUES (1343250820,   1, 'Mistress'' Chest') /* Name */
+     , (1343250820,  21, 'Duchess Clarissap') /* MonarchsTitle */
+     , (1343250820,  35, 'Laigus Tcs Mule') /* PatronsTitle */
+     , (1343250820,  47, 'Meta-tastic Empire') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343250820,   1,   33554510) /* Setup */
@@ -27,6 +46,12 @@ VALUES (1343250820,   1,   33554510) /* Setup */
      , (1343250820,   3,  536870914) /* SoundTable */
      , (1343250820,   6,   67108990) /* PaletteBase */
      , (1343250820,   8,  100667446) /* Icon */
+     , (1343250820,   9,   83890284) /* EyesTexture */
+     , (1343250820,  10,   83890292) /* NoseTexture */
+     , (1343250820,  11,   83890354) /* MouthTexture */
+     , (1343250820,  15,   67116988) /* HairPalette */
+     , (1343250820,  16,   67110064) /* EyesPalette */
+     , (1343250820,  17,   67109561) /* SkinPalette */
      , (1343250820,  22,  872415236) /* PhysicsEffectTable */
      , (1343250820, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343250820, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

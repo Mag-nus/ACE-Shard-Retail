@@ -7,25 +7,26 @@ VALUES (1342808535,   1,         16) /* ItemType - Creature */
      , (1342808535,   6,        102) /* ItemsCapacity */
      , (1342808535,   7,          7) /* ContainersCapacity */
      , (1342808535,  16,          1) /* ItemUseable - No */
-     , (1342808535,  25,        262) /* Level */
+     , (1342808535,  25,        266) /* Level */
      , (1342808535,  30,          2) /* AllegianceRank */
      , (1342808535,  43,        430) /* NumDeaths */
-     , (1342808535,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342808535,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
      , (1342808535, 113,          1) /* Gender - Male */
-     , (1342808535, 125,   18829783) /* Age */
+     , (1342808535, 125,   18891211) /* Age */
      , (1342808535, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342808535, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342808535, 188,          2) /* HeritageGroup - Gharundim */
      , (1342808535, 192,          0) /* FakeFishingSkill */
      , (1342808535, 261,        110) /* CharacterTitleId */
      , (1342808535, 262,         19) /* NumCharacterTitles */
-     , (1342808535, 307,          5) /* DamageRating */
+     , (1342808535, 307,          7) /* DamageRating */
+     , (1342808535, 308,          1) /* DamageResistRating */
      , (1342808535, 390,          0) /* Enlightenment */
      , (1342808535, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1342808535,   1, True ) /* Stuck */
-     , (1342808535,  12, True ) /* ReportCollisions */
+     , (1342808535,  11, True ) /* IgnoreCollisions */
      , (1342808535,  13, False) /* Ethereal */
      , (1342808535,  14, True ) /* GravityStatus */
      , (1342808535,  19, True ) /* Attackable */
@@ -33,6 +34,7 @@ VALUES (1342808535,   1, True ) /* Stuck */
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1342808535,   1, 'Rizgar') /* Name */
+     , (1342808535,  10, 'Thx') /* Fellowship */
      , (1342808535,  21, 'Ealdor Dekuro') /* MonarchsTitle */
      , (1342808535,  35, 'Baron America') /* PatronsTitle */
      , (1342808535,  43, '03 December 2001') /* DateOfBirth */
@@ -58,8 +60,8 @@ VALUES (1342808535,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1342808535, 1, 3135766557, 84, 105, 26, 1, 0, 0, -1) /* Location */
 /* @teleloc 0xBAE8001D [84.000000 105.000000 26.000000] 1.000000 0.000000 0.000000 -1.000000 */
-     , (1342808535, 8040, 2847146026, 139.2375, 28.36026, 96.21, 0.2377317, 0, 0, -0.9713309) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B4002A [139.237500 28.360260 96.210000] 0.237732 0.000000 0.000000 -0.971331 */;
+     , (1342808535, 8040, 19202342, 30, -60, 6.005, 1, 0, 0, 0) /* PCAPRecordedLocation */
+/* @teleloc 0x01250126 [30.000000 -60.000000 6.005000] 1.000000 0.000000 0.000000 0.000000 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342808535,  26, 1342666585) /* Monarch */

@@ -17,7 +17,7 @@ VALUES (1343237213,   1,         16) /* ItemType - Creature */
      , (1343237213, 261,        448) /* CharacterTitleId */
      , (1343237213, 281,          4) /* Faction1Bits */
      , (1343237213, 289,       1001) /* SocietyRankRadblo */
-     , (1343237213, 307,         12) /* DamageRating */
+     , (1343237213, 307,         17) /* DamageRating */
      , (1343237213, 308,         15) /* DamageResistRating */
      , (1343237213, 313,          1) /* CritRating */
      , (1343237213, 314,          7) /* CritDamageRating */

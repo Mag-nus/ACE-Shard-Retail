@@ -3,11 +3,19 @@ VALUES (1342739201, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342739201,   1,         16) /* ItemType - Creature */
+     , (1342739201,   2,         31) /* CreatureType - Human */
      , (1342739201,   6,        102) /* ItemsCapacity */
      , (1342739201,   7,          8) /* ContainersCapacity */
      , (1342739201,  16,          1) /* ItemUseable - No */
+     , (1342739201,  25,        254) /* Level */
+     , (1342739201,  30,          6) /* AllegianceRank */
      , (1342739201,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342739201, 113,          1) /* Gender - Male */
      , (1342739201, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342739201, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342739201, 188,          2) /* HeritageGroup - Gharundim */
+     , (1342739201, 261,        831) /* CharacterTitleId */
+     , (1342739201, 390,          0) /* Enlightenment */
      , (1342739201, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +27,11 @@ VALUES (1342739201,   1, True ) /* Stuck */
      , (1342739201,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342739201,   1, 'Akuma Bokuhi') /* Name */;
+VALUES (1342739201,   1, 'Akuma Bokuhi') /* Name */
+     , (1342739201,  21, 'Ealdor Maki Izumi') /* MonarchsTitle */
+     , (1342739201,  35, 'Marquise Katsarugi') /* PatronsTitle */
+     , (1342739201,  43, '11 June 2001') /* DateOfBirth */
+     , (1342739201,  47, 'House of Maki Izumi') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342739201,   1,   33554433) /* Setup */
@@ -27,16 +39,22 @@ VALUES (1342739201,   1,   33554433) /* Setup */
      , (1342739201,   3,  536870913) /* SoundTable */
      , (1342739201,   6,   67108990) /* PaletteBase */
      , (1342739201,   8,  100667446) /* Icon */
+     , (1342739201,   9,   83890476) /* EyesTexture */
+     , (1342739201,  10,   83890540) /* NoseTexture */
+     , (1342739201,  11,   83890638) /* MouthTexture */
+     , (1342739201,  15,   67116859) /* HairPalette */
+     , (1342739201,  16,   67110062) /* EyesPalette */
+     , (1342739201,  17,   67109553) /* SkinPalette */
      , (1342739201,  22,  872415236) /* PhysicsEffectTable */
      , (1342739201, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342739201, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
-     , (1342739201, 8005,     104451) /* PCAPRecordedPhysicsDesc - CSetup, MTable, STable, PeTable, Position, Movement */;
+     , (1342739201, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1342739201, 1, 2847146034, 148.0542, 38.18622, 94.005, -0.7226306, 0, 0, -0.6912344) /* Location */
 /* @teleloc 0xA9B40032 [148.054200 38.186220 94.005000] -0.722631 0.000000 0.000000 -0.691234 */
-     , (1342739201, 8040, 2847146034, 148.0542, 38.18622, 94.005, -0.7226306, 0, 0, -0.6912344) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B40032 [148.054200 38.186220 94.005000] -0.722631 0.000000 0.000000 -0.691234 */;
+     , (1342739201, 8040, 2847146034, 146.3726, 38.26094, 94.005, -0.7226306, 0, 0, -0.6912344) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B40032 [146.372600 38.260940 94.005000] -0.722631 0.000000 0.000000 -0.691234 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342739201,  26, 1342919555) /* Monarch */

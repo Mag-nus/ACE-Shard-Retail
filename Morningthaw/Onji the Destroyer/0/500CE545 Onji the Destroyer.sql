@@ -3,11 +3,27 @@ VALUES (1343022405, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343022405,   1,         16) /* ItemType - Creature */
+     , (1343022405,   2,         31) /* CreatureType - Human */
      , (1343022405,   6,        102) /* ItemsCapacity */
      , (1343022405,   7,          8) /* ContainersCapacity */
      , (1343022405,  16,          1) /* ItemUseable - No */
+     , (1343022405,  25,        275) /* Level */
+     , (1343022405,  30,          1) /* AllegianceRank */
      , (1343022405,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343022405, 113,          1) /* Gender - Male */
      , (1343022405, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343022405, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343022405, 188,          1) /* HeritageGroup - Aluvian */
+     , (1343022405, 261,        775) /* CharacterTitleId */
+     , (1343022405, 281,          1) /* Faction1Bits */
+     , (1343022405, 287,       1001) /* SocietyRankCelhan */
+     , (1343022405, 307,         31) /* DamageRating */
+     , (1343022405, 308,         13) /* DamageResistRating */
+     , (1343022405, 313,          1) /* CritRating */
+     , (1343022405, 314,         13) /* CritDamageRating */
+     , (1343022405, 316,          3) /* CritDamageResistRating */
+     , (1343022405, 323,          3) /* HealingBoostRating */
+     , (1343022405, 390,          0) /* Enlightenment */
      , (1343022405, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +35,10 @@ VALUES (1343022405,   1, True ) /* Stuck */
      , (1343022405,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343022405,   1, 'Onji the Destroyer') /* Name */;
+VALUES (1343022405,   1, 'Onji the Destroyer') /* Name */
+     , (1343022405,  21, 'High King Mr Adventure') /* MonarchsTitle */
+     , (1343022405,  35, 'Shi-chueh Jin Sabi') /* PatronsTitle */
+     , (1343022405,  47, 'Knights of Fortune') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343022405,   1,   33554433) /* Setup */
@@ -27,6 +46,12 @@ VALUES (1343022405,   1,   33554433) /* Setup */
      , (1343022405,   3,  536870913) /* SoundTable */
      , (1343022405,   6,   67108990) /* PaletteBase */
      , (1343022405,   8,  100667446) /* Icon */
+     , (1343022405,   9,   83890464) /* EyesTexture */
+     , (1343022405,  10,   83890551) /* NoseTexture */
+     , (1343022405,  11,   83890566) /* MouthTexture */
+     , (1343022405,  15,   67109618) /* HairPalette */
+     , (1343022405,  16,   67110064) /* EyesPalette */
+     , (1343022405,  17,   67109559) /* SkinPalette */
      , (1343022405,  22,  872415236) /* PhysicsEffectTable */
      , (1343022405, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343022405, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

@@ -8,7 +8,7 @@ VALUES (1343245479,   1,         16) /* ItemType - Creature */
      , (1343245479,  16,          1) /* ItemUseable - No */
      , (1343245479,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1343245479, 133,          4) /* ShowableOnRadar - ShowAlways */
-     , (1343245479, 8007,          1) /* PCAPRecordedAutonomousMovement */;
+     , (1343245479, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1343245479,   1, True ) /* Stuck */

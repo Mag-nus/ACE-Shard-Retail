@@ -3,11 +3,25 @@ VALUES (1343467248, 1, 10, 6738241) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343467248,   1,         16) /* ItemType - Creature */
+     , (1343467248,   2,         31) /* CreatureType - Human */
      , (1343467248,   6,        102) /* ItemsCapacity */
      , (1343467248,   7,          7) /* ContainersCapacity */
      , (1343467248,  16,          1) /* ItemUseable - No */
+     , (1343467248,  25,        275) /* Level */
+     , (1343467248,  30,          2) /* AllegianceRank */
      , (1343467248,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343467248, 113,          1) /* Gender - Male */
      , (1343467248, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343467248, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343467248, 188,          9) /* HeritageGroup - Empyrean */
+     , (1343467248, 261,        446) /* CharacterTitleId */
+     , (1343467248, 281,          1) /* Faction1Bits */
+     , (1343467248, 287,       1001) /* SocietyRankCelhan */
+     , (1343467248, 307,          9) /* DamageRating */
+     , (1343467248, 308,         21) /* DamageResistRating */
+     , (1343467248, 314,          9) /* CritDamageRating */
+     , (1343467248, 316,          5) /* CritDamageResistRating */
+     , (1343467248, 390,          0) /* Enlightenment */
      , (1343467248, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -22,7 +36,12 @@ INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (1343467248,  39, 1.20000004768372) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343467248,   1, 'Raven Magi') /* Name */;
+VALUES (1343467248,   1, 'Raven Magi') /* Name */
+     , (1343467248,  10, 'Questing to the end') /* Fellowship */
+     , (1343467248,  21, 'King Aerfall') /* MonarchsTitle */
+     , (1343467248,  35, 'Naquib Alza The Mage') /* PatronsTitle */
+     , (1343467248,  43, '13 February 2016') /* DateOfBirth */
+     , (1343467248,  47, 'Autobotz') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343467248,   1,   33561110) /* Setup */
@@ -30,6 +49,12 @@ VALUES (1343467248,   1,   33561110) /* Setup */
      , (1343467248,   3,  536870913) /* SoundTable */
      , (1343467248,   6,   67108990) /* PaletteBase */
      , (1343467248,   8,  100667446) /* Icon */
+     , (1343467248,   9,   83890464) /* EyesTexture */
+     , (1343467248,  10,   83890549) /* NoseTexture */
+     , (1343467248,  11,   83890665) /* MouthTexture */
+     , (1343467248,  15,   67117018) /* HairPalette */
+     , (1343467248,  16,   67116855) /* EyesPalette */
+     , (1343467248,  17,   67116968) /* SkinPalette */
      , (1343467248,  22,  872415236) /* PhysicsEffectTable */
      , (1343467248, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343467248, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

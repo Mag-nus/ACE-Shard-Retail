@@ -15,16 +15,6 @@ VALUES (1343771943,   1,         16) /* ItemType - Creature */
      , (1343771943, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343771943, 188,          3) /* HeritageGroup - Sho */
      , (1343771943, 261,        118) /* CharacterTitleId */
-     , (1343771943, 281,          4) /* Faction1Bits */
-     , (1343771943, 289,       1001) /* SocietyRankRadblo */
-     , (1343771943, 307,         37) /* DamageRating */
-     , (1343771943, 308,         14) /* DamageResistRating */
-     , (1343771943, 313,          1) /* CritRating */
-     , (1343771943, 314,         22) /* CritDamageRating */
-     , (1343771943, 316,         16) /* CritDamageResistRating */
-     , (1343771943, 323,          9) /* HealingBoostRating */
-     , (1343771943, 381,          5) /* PKDamageRating */
-     , (1343771943, 382,          5) /* PKDamageResistRating */
      , (1343771943, 390,          0) /* Enlightenment */
      , (1343771943, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 

@@ -3,11 +3,29 @@ VALUES (1343141604, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343141604,   1,         16) /* ItemType - Creature */
+     , (1343141604,   2,         31) /* CreatureType - Human */
      , (1343141604,   6,        102) /* ItemsCapacity */
      , (1343141604,   7,          8) /* ContainersCapacity */
      , (1343141604,  16,          1) /* ItemUseable - No */
+     , (1343141604,  25,        275) /* Level */
+     , (1343141604,  30,          7) /* AllegianceRank */
+     , (1343141604,  35,        128) /* AllegianceFollowers */
+     , (1343141604,  43,        292) /* NumDeaths */
      , (1343141604,  93,    4211728) /* PhysicsState - IgnoreCollisions, Gravity, Hidden, EdgeSlide */
+     , (1343141604, 113,          1) /* Gender - Male */
+     , (1343141604, 125,    6261634) /* Age */
      , (1343141604, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343141604, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343141604, 188,          4) /* HeritageGroup - Viamontian */
+     , (1343141604, 261,        545) /* CharacterTitleId */
+     , (1343141604, 262,         59) /* NumCharacterTitles */
+     , (1343141604, 281,          2) /* Faction1Bits */
+     , (1343141604, 288,       1001) /* SocietyRankEldweb */
+     , (1343141604, 307,          7) /* DamageRating */
+     , (1343141604, 308,         10) /* DamageResistRating */
+     , (1343141604, 313,          1) /* CritRating */
+     , (1343141604, 316,          1) /* CritDamageResistRating */
+     , (1343141604, 390,          0) /* Enlightenment */
      , (1343141604, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +37,8 @@ VALUES (1343141604,   1, True ) /* Stuck */
      , (1343141604,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343141604,   1, 'Dan''s Bm II') /* Name */;
+VALUES (1343141604,   1, 'Dan''s Bm II') /* Name */
+     , (1343141604,  43, '21 February 2008') /* DateOfBirth */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343141604,   1,   33554433) /* Setup */
@@ -27,6 +46,12 @@ VALUES (1343141604,   1,   33554433) /* Setup */
      , (1343141604,   3,  536870913) /* SoundTable */
      , (1343141604,   6,   67108990) /* PaletteBase */
      , (1343141604,   8,  100667446) /* Icon */
+     , (1343141604,   9,   83890457) /* EyesTexture */
+     , (1343141604,  10,   83890550) /* NoseTexture */
+     , (1343141604,  11,   83890664) /* MouthTexture */
+     , (1343141604,  15,   67109638) /* HairPalette */
+     , (1343141604,  16,   67110063) /* EyesPalette */
+     , (1343141604,  17,   67115902) /* SkinPalette */
      , (1343141604,  22,  872415236) /* PhysicsEffectTable */
      , (1343141604, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343141604, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

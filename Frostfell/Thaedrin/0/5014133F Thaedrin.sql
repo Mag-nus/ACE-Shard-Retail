@@ -7,7 +7,7 @@ VALUES (1343492927,   1,         16) /* ItemType - Creature */
      , (1343492927,   6,        102) /* ItemsCapacity */
      , (1343492927,   7,          7) /* ContainersCapacity */
      , (1343492927,  16,          1) /* ItemUseable - No */
-     , (1343492927,  25,        106) /* Level */
+     , (1343492927,  25,        112) /* Level */
      , (1343492927,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1343492927, 113,          1) /* Gender - Male */
      , (1343492927, 133,          4) /* ShowableOnRadar - ShowAlways */

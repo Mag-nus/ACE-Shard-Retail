@@ -3,11 +3,18 @@ VALUES (1342995317, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342995317,   1,         16) /* ItemType - Creature */
+     , (1342995317,   2,         31) /* CreatureType - Human */
      , (1342995317,   6,        102) /* ItemsCapacity */
      , (1342995317,   7,          8) /* ContainersCapacity */
      , (1342995317,  16,          1) /* ItemUseable - No */
+     , (1342995317,  30,          2) /* AllegianceRank */
      , (1342995317,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342995317, 113,          1) /* Gender - Male */
      , (1342995317, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342995317, 134,         64) /* PlayerKillerStatus - PKLite */
+     , (1342995317, 188,          2) /* HeritageGroup - Gharundim */
+     , (1342995317, 261,        774) /* CharacterTitleId */
+     , (1342995317, 390,          0) /* Enlightenment */
      , (1342995317, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +26,11 @@ VALUES (1342995317,   1, True ) /* Stuck */
      , (1342995317,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342995317,   1, 'Drailoch') /* Name */;
+VALUES (1342995317,   1, 'Drailoch') /* Name */
+     , (1342995317,  21, 'King Hot Shot''') /* MonarchsTitle */
+     , (1342995317,  35, 'Ealdor Fatal Precision') /* PatronsTitle */
+     , (1342995317,  43, '12 April 2003') /* DateOfBirth */
+     , (1342995317,  47, 'Neverending Portalstorms') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342995317,   1,   33554433) /* Setup */
@@ -27,6 +38,12 @@ VALUES (1342995317,   1,   33554433) /* Setup */
      , (1342995317,   3,  536870913) /* SoundTable */
      , (1342995317,   6,   67108990) /* PaletteBase */
      , (1342995317,   8,  100667446) /* Icon */
+     , (1342995317,   9,   83890479) /* EyesTexture */
+     , (1342995317,  10,   83890561) /* NoseTexture */
+     , (1342995317,  11,   83890638) /* MouthTexture */
+     , (1342995317,  15,   67117016) /* HairPalette */
+     , (1342995317,  16,   67110063) /* EyesPalette */
+     , (1342995317,  17,   67109557) /* SkinPalette */
      , (1342995317,  22,  872415236) /* PhysicsEffectTable */
      , (1342995317, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342995317, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

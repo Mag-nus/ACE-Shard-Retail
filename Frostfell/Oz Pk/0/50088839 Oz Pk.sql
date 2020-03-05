@@ -3,11 +3,22 @@ VALUES (1342736441, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342736441,   1,         16) /* ItemType - Creature */
+     , (1342736441,   2,         31) /* CreatureType - Human */
      , (1342736441,   6,        102) /* ItemsCapacity */
      , (1342736441,   7,          8) /* ContainersCapacity */
      , (1342736441,  16,          1) /* ItemUseable - No */
+     , (1342736441,  25,        275) /* Level */
+     , (1342736441,  30,          6) /* AllegianceRank */
      , (1342736441,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342736441, 113,          1) /* Gender - Male */
+     , (1342736441, 125,   21119744) /* Age */
      , (1342736441, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342736441, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342736441, 188,          3) /* HeritageGroup - Sho */
+     , (1342736441, 192,        700) /* FakeFishingSkill */
+     , (1342736441, 261,        363) /* CharacterTitleId */
+     , (1342736441, 262,         88) /* NumCharacterTitles */
+     , (1342736441, 390,          0) /* Enlightenment */
      , (1342736441, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +30,12 @@ VALUES (1342736441,   1, True ) /* Stuck */
      , (1342736441,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342736441,   1, 'Oz Pk') /* Name */;
+VALUES (1342736441,   1, 'Oz Pk') /* Name */
+     , (1342736441,  10, 'D') /* Fellowship */
+     , (1342736441,  21, 'Taikou Ling Mei') /* MonarchsTitle */
+     , (1342736441,  35, 'Kun-chueh Lunessa') /* PatronsTitle */
+     , (1342736441,  43, '07 June 2001') /* DateOfBirth */
+     , (1342736441,  47, 'Soul Survivors') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342736441,   1,   33554433) /* Setup */
@@ -27,6 +43,12 @@ VALUES (1342736441,   1,   33554433) /* Setup */
      , (1342736441,   3,  536870913) /* SoundTable */
      , (1342736441,   6,   67108990) /* PaletteBase */
      , (1342736441,   8,  100667446) /* Icon */
+     , (1342736441,   9,   83890447) /* EyesTexture */
+     , (1342736441,  10,   83890555) /* NoseTexture */
+     , (1342736441,  11,   83890660) /* MouthTexture */
+     , (1342736441,  15,   67109632) /* HairPalette */
+     , (1342736441,  16,   67109565) /* EyesPalette */
+     , (1342736441,  17,   67110055) /* SkinPalette */
      , (1342736441,  22,  872415236) /* PhysicsEffectTable */
      , (1342736441, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342736441, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
@@ -35,8 +57,8 @@ VALUES (1342736441,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1342736441, 1, 3465871413, 160.1523, 96.1017, 20.005, -0.5209995, 0, 0, -0.853557) /* Location */
 /* @teleloc 0xCE950035 [160.152300 96.101700 20.005000] -0.521000 0.000000 0.000000 -0.853557 */
-     , (1342736441, 8040, 23855548, 50.63237, -29.94996, 0.004999995, 0.5341865, 0, 0, -0.8453667) /* PCAPRecordedLocation */
-/* @teleloc 0x016C01BC [50.632370 -29.949960 0.005000] 0.534187 0.000000 0.000000 -0.845367 */;
+     , (1342736441, 8040, 23855548, 50.82465, -29.94537, 0.004999995, 0.4144057, 0, 0, -0.9100922) /* PCAPRecordedLocation */
+/* @teleloc 0x016C01BC [50.824650 -29.945370 0.005000] 0.414406 0.000000 0.000000 -0.910092 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342736441,  26, 1342526715) /* Monarch */

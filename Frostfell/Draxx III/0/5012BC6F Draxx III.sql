@@ -3,11 +3,21 @@ VALUES (1343405167, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343405167,   1,         16) /* ItemType - Creature */
+     , (1343405167,   2,         31) /* CreatureType - Human */
      , (1343405167,   6,        102) /* ItemsCapacity */
      , (1343405167,   7,          7) /* ContainersCapacity */
      , (1343405167,  16,          1) /* ItemUseable - No */
+     , (1343405167,  25,        155) /* Level */
+     , (1343405167,  30,          1) /* AllegianceRank */
      , (1343405167,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343405167, 113,          2) /* Gender - Female */
      , (1343405167, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343405167, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343405167, 188,          7) /* HeritageGroup - Tumerok */
+     , (1343405167, 261,          1) /* CharacterTitleId */
+     , (1343405167, 307,          5) /* DamageRating */
+     , (1343405167, 314,          3) /* CritDamageRating */
+     , (1343405167, 390,          0) /* Enlightenment */
      , (1343405167, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +29,10 @@ VALUES (1343405167,   1, True ) /* Stuck */
      , (1343405167,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343405167,   1, 'Draxx III') /* Name */;
+VALUES (1343405167,   1, 'Draxx III') /* Name */
+     , (1343405167,  21, 'King Oompa Loompa') /* MonarchsTitle */
+     , (1343405167,  35, 'Qadi Sarushin') /* PatronsTitle */
+     , (1343405167,  47, 'LOG START AFK') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343405167,   1,   33561108) /* Setup */
@@ -27,6 +40,12 @@ VALUES (1343405167,   1,   33561108) /* Setup */
      , (1343405167,   3,  536871127) /* SoundTable */
      , (1343405167,   6,   67108990) /* PaletteBase */
      , (1343405167,   8,  100667446) /* Icon */
+     , (1343405167,   9,   83898684) /* EyesTexture */
+     , (1343405167,  10,   83898687) /* NoseTexture */
+     , (1343405167,  11,   83898689) /* MouthTexture */
+     , (1343405167,  15,   67117028) /* HairPalette */
+     , (1343405167,  16,   67110063) /* EyesPalette */
+     , (1343405167,  17,   67116900) /* SkinPalette */
      , (1343405167,  22,  872415441) /* PhysicsEffectTable */
      , (1343405167, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343405167, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

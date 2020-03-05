@@ -3,11 +3,22 @@ VALUES (1342967485, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342967485,   1,         16) /* ItemType - Creature */
+     , (1342967485,   2,         31) /* CreatureType - Human */
      , (1342967485,   6,        102) /* ItemsCapacity */
      , (1342967485,   7,          7) /* ContainersCapacity */
      , (1342967485,  16,          1) /* ItemUseable - No */
+     , (1342967485,  25,        275) /* Level */
+     , (1342967485,  30,          3) /* AllegianceRank */
+     , (1342967485,  43,       1287) /* NumDeaths */
      , (1342967485,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342967485, 113,          1) /* Gender - Male */
      , (1342967485, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342967485, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342967485, 181,       1453) /* ChessRank */
+     , (1342967485, 188,          2) /* HeritageGroup - Gharundim */
+     , (1342967485, 261,        772) /* CharacterTitleId */
+     , (1342967485, 262,         76) /* NumCharacterTitles */
+     , (1342967485, 390,          0) /* Enlightenment */
      , (1342967485, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +30,10 @@ VALUES (1342967485,   1, True ) /* Stuck */
      , (1342967485,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342967485,   1, 'Chunky Puff') /* Name */;
+VALUES (1342967485,   1, 'Chunky Puff') /* Name */
+     , (1342967485,  21, 'Ou Zitane') /* MonarchsTitle */
+     , (1342967485,  35, 'Amploth Lethal Legend') /* PatronsTitle */
+     , (1342967485,  47, 'The Crimson Order') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342967485,   1,   33554433) /* Setup */
@@ -27,6 +41,12 @@ VALUES (1342967485,   1,   33554433) /* Setup */
      , (1342967485,   3,  536870913) /* SoundTable */
      , (1342967485,   6,   67108990) /* PaletteBase */
      , (1342967485,   8,  100667446) /* Icon */
+     , (1342967485,   9,   83890481) /* EyesTexture */
+     , (1342967485,  10,   83890544) /* NoseTexture */
+     , (1342967485,  11,   83890595) /* MouthTexture */
+     , (1342967485,  15,   67116859) /* HairPalette */
+     , (1342967485,  16,   67110062) /* EyesPalette */
+     , (1342967485,  17,   67109557) /* SkinPalette */
      , (1342967485,  22,  872415236) /* PhysicsEffectTable */
      , (1342967485, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342967485, 8003,   33554460) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable, PkLiteStatus */

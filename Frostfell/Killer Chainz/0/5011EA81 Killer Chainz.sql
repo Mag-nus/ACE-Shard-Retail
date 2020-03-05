@@ -3,11 +3,23 @@ VALUES (1343351425, 1, 10, 6738241) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343351425,   1,         16) /* ItemType - Creature */
+     , (1343351425,   2,         31) /* CreatureType - Human */
      , (1343351425,   6,        102) /* ItemsCapacity */
      , (1343351425,   7,          7) /* ContainersCapacity */
      , (1343351425,  16,          1) /* ItemUseable - No */
+     , (1343351425,  25,        232) /* Level */
+     , (1343351425,  30,          4) /* AllegianceRank */
      , (1343351425,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343351425, 113,          1) /* Gender - Male */
      , (1343351425, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343351425, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343351425, 188,          7) /* HeritageGroup - Tumerok */
+     , (1343351425, 261,          1) /* CharacterTitleId */
+     , (1343351425, 307,          5) /* DamageRating */
+     , (1343351425, 308,          4) /* DamageResistRating */
+     , (1343351425, 314,          3) /* CritDamageRating */
+     , (1343351425, 316,          1) /* CritDamageResistRating */
+     , (1343351425, 390,          0) /* Enlightenment */
      , (1343351425, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -22,7 +34,11 @@ INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (1343351425,  39, 1.10000002384186) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343351425,   1, 'Killer Chainz') /* Name */;
+VALUES (1343351425,   1, 'Killer Chainz') /* Name */
+     , (1343351425,  10, 'I love totoro') /* Fellowship */
+     , (1343351425,  21, 'Amir Gone''s Mage') /* MonarchsTitle */
+     , (1343351425,  35, 'Shi-chueh Triceratops') /* PatronsTitle */
+     , (1343351425,  47, 'Clan Takada') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343351425,   1,   33561114) /* Setup */
@@ -30,6 +46,12 @@ VALUES (1343351425,   1,   33561114) /* Setup */
      , (1343351425,   3,  536871127) /* SoundTable */
      , (1343351425,   6,   67108990) /* PaletteBase */
      , (1343351425,   8,  100667446) /* Icon */
+     , (1343351425,   9,   83898684) /* EyesTexture */
+     , (1343351425,  10,   83898686) /* NoseTexture */
+     , (1343351425,  11,   83898689) /* MouthTexture */
+     , (1343351425,  15,   67117104) /* HairPalette */
+     , (1343351425,  16,   67110062) /* EyesPalette */
+     , (1343351425,  17,   67116898) /* SkinPalette */
      , (1343351425,  22,  872415441) /* PhysicsEffectTable */
      , (1343351425, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343351425, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

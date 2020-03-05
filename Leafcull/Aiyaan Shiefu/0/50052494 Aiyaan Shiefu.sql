@@ -8,7 +8,7 @@ VALUES (1342514324,   1,         16) /* ItemType - Creature */
      , (1342514324,  16,          1) /* ItemUseable - No */
      , (1342514324,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
      , (1342514324, 133,          4) /* ShowableOnRadar - ShowAlways */
-     , (1342514324, 8007,          0) /* PCAPRecordedAutonomousMovement */;
+     , (1342514324, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1342514324,   1, True ) /* Stuck */
@@ -35,8 +35,8 @@ VALUES (1342514324,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1342514324, 1, 2103705613, 34.34778, 104.4172, 12.005, 0.8299085, 0, 0, -0.5578995) /* Location */
 /* @teleloc 0x7D64000D [34.347780 104.417200 12.005000] 0.829909 0.000000 0.000000 -0.557900 */
-     , (1342514324, 8040, 3583574079, 190.8925, 160.7046, 374.005, -0.3623395, 0, 0, -0.9320462) /* PCAPRecordedLocation */
-/* @teleloc 0xD599003F [190.892500 160.704600 374.005000] -0.362340 0.000000 0.000000 -0.932046 */;
+     , (1342514324, 8040, 3465805880, 164.5357, 181.4823, 20.005, 0.9416034, 0, 0, -0.3367241) /* PCAPRecordedLocation */
+/* @teleloc 0xCE940038 [164.535700 181.482300 20.005000] 0.941603 0.000000 0.000000 -0.336724 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342514324,  26, 1342194852) /* Monarch */

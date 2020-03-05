@@ -3,11 +3,26 @@ VALUES (1343186099, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343186099,   1,         16) /* ItemType - Creature */
+     , (1343186099,   2,         31) /* CreatureType - Human */
      , (1343186099,   6,        102) /* ItemsCapacity */
      , (1343186099,   7,          7) /* ContainersCapacity */
      , (1343186099,  16,          1) /* ItemUseable - No */
+     , (1343186099,  25,        275) /* Level */
+     , (1343186099,  30,          2) /* AllegianceRank */
      , (1343186099,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343186099, 113,          1) /* Gender - Male */
      , (1343186099, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343186099, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343186099, 188,          2) /* HeritageGroup - Gharundim */
+     , (1343186099, 261,        380) /* CharacterTitleId */
+     , (1343186099, 281,          1) /* Faction1Bits */
+     , (1343186099, 287,       1001) /* SocietyRankCelhan */
+     , (1343186099, 308,          5) /* DamageResistRating */
+     , (1343186099, 313,          1) /* CritRating */
+     , (1343186099, 314,          7) /* CritDamageRating */
+     , (1343186099, 323,          1) /* HealingBoostRating */
+     , (1343186099, 351,         12) /* LifeResistRating */
+     , (1343186099, 390,          0) /* Enlightenment */
      , (1343186099, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +34,9 @@ VALUES (1343186099,   1, True ) /* Stuck */
      , (1343186099,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343186099,   1, 'Slipper One') /* Name */;
+VALUES (1343186099,   1, 'Slipper One') /* Name */
+     , (1343186099,  21, 'Kun-chueh Firedance') /* MonarchsTitle */
+     , (1343186099,  35, 'Nan-chueh Shorena') /* PatronsTitle */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343186099,   1,   33554433) /* Setup */
@@ -27,6 +44,12 @@ VALUES (1343186099,   1,   33554433) /* Setup */
      , (1343186099,   3,  536870913) /* SoundTable */
      , (1343186099,   6,   67108990) /* PaletteBase */
      , (1343186099,   8,  100667446) /* Icon */
+     , (1343186099,   9,   83890500) /* EyesTexture */
+     , (1343186099,  10,   83890561) /* NoseTexture */
+     , (1343186099,  11,   83890601) /* MouthTexture */
+     , (1343186099,  15,   67117070) /* HairPalette */
+     , (1343186099,  16,   67110063) /* EyesPalette */
+     , (1343186099,  17,   67109555) /* SkinPalette */
      , (1343186099,  22,  872415236) /* PhysicsEffectTable */
      , (1343186099, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343186099, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

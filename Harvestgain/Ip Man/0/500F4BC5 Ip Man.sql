@@ -3,11 +3,28 @@ VALUES (1343179717, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1343179717,   1,         16) /* ItemType - Creature */
+     , (1343179717,   2,         31) /* CreatureType - Human */
      , (1343179717,   6,        102) /* ItemsCapacity */
      , (1343179717,   7,          7) /* ContainersCapacity */
      , (1343179717,  16,          1) /* ItemUseable - No */
+     , (1343179717,  25,        260) /* Level */
+     , (1343179717,  30,          3) /* AllegianceRank */
+     , (1343179717,  43,        501) /* NumDeaths */
      , (1343179717,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1343179717, 113,          1) /* Gender - Male */
      , (1343179717, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1343179717, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1343179717, 181,       1456) /* ChessRank */
+     , (1343179717, 188,          3) /* HeritageGroup - Sho */
+     , (1343179717, 261,        158) /* CharacterTitleId */
+     , (1343179717, 262,         90) /* NumCharacterTitles */
+     , (1343179717, 281,          4) /* Faction1Bits */
+     , (1343179717, 289,          1) /* SocietyRankRadblo */
+     , (1343179717, 307,          6) /* DamageRating */
+     , (1343179717, 308,         12) /* DamageResistRating */
+     , (1343179717, 314,          1) /* CritDamageRating */
+     , (1343179717, 316,          1) /* CritDamageResistRating */
+     , (1343179717, 390,          0) /* Enlightenment */
      , (1343179717, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +36,10 @@ VALUES (1343179717,   1, True ) /* Stuck */
      , (1343179717,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1343179717,   1, 'Ip Man') /* Name */;
+VALUES (1343179717,   1, 'Ip Man') /* Name */
+     , (1343179717,  10, 'A o A') /* Fellowship */
+     , (1343179717,  21, 'Baron Cataclysm') /* MonarchsTitle */
+     , (1343179717,  35, 'Baron Cataclysm') /* PatronsTitle */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343179717,   1,   33554433) /* Setup */
@@ -27,6 +47,12 @@ VALUES (1343179717,   1,   33554433) /* Setup */
      , (1343179717,   3,  536870913) /* SoundTable */
      , (1343179717,   6,   67108990) /* PaletteBase */
      , (1343179717,   8,  100667446) /* Icon */
+     , (1343179717,   9,   83890447) /* EyesTexture */
+     , (1343179717,  10,   83890550) /* NoseTexture */
+     , (1343179717,  11,   83890635) /* MouthTexture */
+     , (1343179717,  15,   67116990) /* HairPalette */
+     , (1343179717,  16,   67109565) /* EyesPalette */
+     , (1343179717,  17,   67110052) /* SkinPalette */
      , (1343179717,  22,  872415236) /* PhysicsEffectTable */
      , (1343179717, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1343179717, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */

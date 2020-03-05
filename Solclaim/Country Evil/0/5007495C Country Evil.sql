@@ -3,11 +3,30 @@ VALUES (1342654812, 1, 10, 6734145) /* Creature */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1342654812,   1,         16) /* ItemType - Creature */
+     , (1342654812,   2,         31) /* CreatureType - Human */
      , (1342654812,   6,        102) /* ItemsCapacity */
      , (1342654812,   7,          8) /* ContainersCapacity */
      , (1342654812,  16,          1) /* ItemUseable - No */
+     , (1342654812,  25,        275) /* Level */
+     , (1342654812,  30,          8) /* AllegianceRank */
+     , (1342654812,  43,        831) /* NumDeaths */
      , (1342654812,  93,    4195336) /* PhysicsState - ReportCollisions, Gravity, EdgeSlide */
+     , (1342654812, 113,          1) /* Gender - Male */
+     , (1342654812, 125,    8875247) /* Age */
      , (1342654812, 133,          4) /* ShowableOnRadar - ShowAlways */
+     , (1342654812, 134,          2) /* PlayerKillerStatus - NPK */
+     , (1342654812, 188,          3) /* HeritageGroup - Sho */
+     , (1342654812, 261,        584) /* CharacterTitleId */
+     , (1342654812, 262,        120) /* NumCharacterTitles */
+     , (1342654812, 281,          4) /* Faction1Bits */
+     , (1342654812, 289,        665) /* SocietyRankRadblo */
+     , (1342654812, 307,         21) /* DamageRating */
+     , (1342654812, 308,          6) /* DamageResistRating */
+     , (1342654812, 313,          1) /* CritRating */
+     , (1342654812, 314,          4) /* CritDamageRating */
+     , (1342654812, 316,          2) /* CritDamageResistRating */
+     , (1342654812, 351,         16) /* LifeResistRating */
+     , (1342654812, 390,          0) /* Enlightenment */
      , (1342654812, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -19,7 +38,11 @@ VALUES (1342654812,   1, True ) /* Stuck */
      , (1342654812,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1342654812,   1, 'Country Evil') /* Name */;
+VALUES (1342654812,   1, 'Country Evil') /* Name */
+     , (1342654812,  21, 'High King Laris Bloodsong') /* MonarchsTitle */
+     , (1342654812,  35, 'Taikou Jelly Belly') /* PatronsTitle */
+     , (1342654812,  43, '15 July 2001') /* DateOfBirth */
+     , (1342654812,  47, 'Saints of Solclaim') /* AllegianceName */;
 
 INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342654812,   1,   33554433) /* Setup */
@@ -27,6 +50,12 @@ VALUES (1342654812,   1,   33554433) /* Setup */
      , (1342654812,   3,  536870913) /* SoundTable */
      , (1342654812,   6,   67108990) /* PaletteBase */
      , (1342654812,   8,  100667446) /* Icon */
+     , (1342654812,   9,   83890487) /* EyesTexture */
+     , (1342654812,  10,   83890521) /* NoseTexture */
+     , (1342654812,  11,   83890566) /* MouthTexture */
+     , (1342654812,  15,   67109604) /* HairPalette */
+     , (1342654812,  16,   67110063) /* EyesPalette */
+     , (1342654812,  17,   67110057) /* SkinPalette */
      , (1342654812,  22,  872415236) /* PhysicsEffectTable */
      , (1342654812, 8001,    8388694) /* PCAPRecordedWeenieHeader - ItemsCapacity, ContainersCapacity, Usable, Monarch, RadarBehavior */
      , (1342654812, 8003,         28) /* PCAPRecordedObjectDesc - Stuck, Player, Attackable */
