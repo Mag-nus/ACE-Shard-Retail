@@ -1,0 +1,39 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (2649692152, 8552, 0, 3199232) /* Undef */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (2649692152,   1,      32768) /* ItemType - Caster */
+     , (2649692152,   5,         50) /* EncumbranceVal */
+     , (2649692152,   9,   16777216) /* ValidLocations - Held */
+     , (2649692152,  18,          1) /* UiEffects - Magical */
+     , (2649692152,  19,       5400) /* Value */
+     , (2649692152,  94,          0) /* TargetType - None */
+     , (2649692152, 106,        225) /* ItemSpellcraft */
+     , (2649692152, 107,        771) /* ItemCurMana */
+     , (2649692152, 108,       1200) /* ItemMaxMana */
+     , (2649692152, 109,        105) /* ItemDifficulty */
+     , (2649692152, 115,        245) /* ItemSkillLevelLimit */
+     , (2649692152, 151,          2) /* HookType - Wall */
+     , (2649692152, 176,         33) /* AppraisalItemSkill */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (2649692152,   5,   -0.05) /* ManaRate */
+     , (2649692152,  29,       1) /* WeaponDefense */
+     , (2649692152, 144,    0.05) /* ManaConversionMod */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (2649692152,   1, 'The Healer''s Heart') /* Name */
+     , (2649692152,  16, 'A magical orb found in the cathedral of Ithaenc. This artifact was crafted by Lady Adja, a member of the Yalaini Council of Five, for use by her religious order.') /* LongDesc */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (2649692152,   8,       7917) /* Icon */
+     , (2649692152,  28,       1166) /* Spell - HealOther6 */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (2649692152,   2, 2649660961) /* Container */;
+
+INSERT INTO `biota_properties_spell_book` (`object_Id`, `spell`, `probability`)
+VALUES (2649692152,   170,      2) 
+     , (2649692152,   879,      2) 
+     , (2649692152,  1166,      2) 
+     , (2649692152,  1997,      2) ;

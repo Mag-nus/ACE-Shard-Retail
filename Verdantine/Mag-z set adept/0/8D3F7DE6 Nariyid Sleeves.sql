@@ -1,0 +1,59 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (2369748454, 27232, 2, 3199296) /* Clothing */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (2369748454,   1,          2) /* ItemType - Armor */
+     , (2369748454,   4,      12288) /* ClothingPriority - OuterwearUpperArms, OuterwearLowerArms */
+     , (2369748454,   5,        887) /* EncumbranceVal */
+     , (2369748454,   9,       6144) /* ValidLocations - UpperArmArmor, LowerArmArmor */
+     , (2369748454,  18,          1) /* UiEffects - Magical */
+     , (2369748454,  19,      28307) /* Value */
+     , (2369748454,  28,        254) /* ArmorLevel */
+     , (2369748454, 105,          8) /* ItemWorkmanship */
+     , (2369748454, 106,        370) /* ItemSpellcraft */
+     , (2369748454, 107,       2134) /* ItemCurMana */
+     , (2369748454, 108,       2134) /* ItemMaxMana */
+     , (2369748454, 109,        218) /* ItemDifficulty */
+     , (2369748454, 110,          0) /* ItemAllegianceRankLimit */
+     , (2369748454, 115,        390) /* ItemSkillLevelLimit */
+     , (2369748454, 131,         59) /* MaterialType - Copper */
+     , (2369748454, 158,          7) /* WieldRequirements - Level */
+     , (2369748454, 159,          1) /* WieldSkillType - Axe */
+     , (2369748454, 160,        180) /* WieldDifficulty */
+     , (2369748454, 172,          1) /* AppraisalLongDescDecoration */
+     , (2369748454, 176,          6) /* AppraisalItemSkill */
+     , (2369748454, 265,         14) /* EquipmentSetId - Adepts */
+     , (2369748454, 374,          1) /* GearCritDamage */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (2369748454, 100, True ) /* Dyable */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (2369748454,   5, -0.0666666666666667) /* ManaRate */
+     , (2369748454,  13, 1.29999995231628) /* ArmorModVsSlash */
+     , (2369748454,  14,       1) /* ArmorModVsPierce */
+     , (2369748454,  15,       1) /* ArmorModVsBludgeon */
+     , (2369748454,  16, 0.71687650680542) /* ArmorModVsCold */
+     , (2369748454,  17, 0.400000005960464) /* ArmorModVsFire */
+     , (2369748454,  18, 1.11918866634369) /* ArmorModVsAcid */
+     , (2369748454,  19, 0.400000005960464) /* ArmorModVsElectric */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (2369748454,   1, 'Nariyid Sleeves') /* Name */
+     , (2369748454,  16, 'Nariyid Sleeves of Endurance') /* LongDesc */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (2369748454,   1,   33554655) /* Setup */
+     , (2369748454,   8,      12970) /* Icon */
+     , (2369748454, 8003,         16) /* PCAPRecordedObjectDesc - Attackable */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (2369748454,   2, 2369594825) /* Container */
+     , (2369748454,   3,          0) /* Wielder */;
+
+INSERT INTO `biota_properties_spell_book` (`object_Id`, `spell`, `probability`)
+VALUES (2369748454,  2061,      2) 
+     , (2369748454,  2104,      2) 
+     , (2369748454,  4407,      2) 
+     , (2369748454,  4412,      2) 
+     , (2369748454,  6079,      2) ;

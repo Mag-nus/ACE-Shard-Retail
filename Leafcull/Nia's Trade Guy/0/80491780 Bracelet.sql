@@ -1,0 +1,44 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (2152273792, 295, 1, 3199232) /* Generic */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (2152273792,   1,          8) /* ItemType - Jewelry */
+     , (2152273792,   5,         60) /* EncumbranceVal */
+     , (2152273792,   9,     196608) /* ValidLocations - WristWear */
+     , (2152273792,  18,          1) /* UiEffects - Magical */
+     , (2152273792,  19,      32531) /* Value */
+     , (2152273792, 105,          9) /* ItemWorkmanship */
+     , (2152273792, 106,        370) /* ItemSpellcraft */
+     , (2152273792, 107,       2721) /* ItemCurMana */
+     , (2152273792, 108,       2721) /* ItemMaxMana */
+     , (2152273792, 109,        436) /* ItemDifficulty */
+     , (2152273792, 110,          0) /* ItemAllegianceRankLimit */
+     , (2152273792, 115,          0) /* ItemSkillLevelLimit */
+     , (2152273792, 131,         26) /* MaterialType - ImperialTopaz */
+     , (2152273792, 158,          7) /* WieldRequirements - Level */
+     , (2152273792, 159,          1) /* WieldSkillType - Axe */
+     , (2152273792, 160,        150) /* WieldDifficulty */
+     , (2152273792, 172,          5) /* AppraisalLongDescDecoration */
+     , (2152273792, 177,          2) /* GemCount */
+     , (2152273792, 178,         21) /* GemType */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (2152273792,   5, -0.0666666666666667) /* ManaRate */
+     , (2152273792,  39,       0) /* DefaultScale */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (2152273792,   1, 'Bracelet') /* Name */
+     , (2152273792,  16, 'Bracelet of Bludgeon Protection') /* LongDesc */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (2152273792,   1,   33554683) /* Setup */
+     , (2152273792,   8,       5326) /* Icon */
+     , (2152273792, 8003,         16) /* PCAPRecordedObjectDesc - Attackable */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (2152273792,   2, 2152273768) /* Container */;
+
+INSERT INTO `biota_properties_spell_book` (`object_Id`, `spell`, `probability`)
+VALUES (2152273792,  2153,      2) 
+     , (2152273792,  4472,      2) 
+     , (2152273792,  4700,      2) ;

@@ -1,0 +1,22 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (2864360633, 8897, 32, 2146560) /* SpellComponent */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (2864360633,   1,       4096) /* ItemType - SpellComponents */
+     , (2864360633,   5,         44) /* EncumbranceVal */
+     , (2864360633,  11,        100) /* MaxStackSize */
+     , (2864360633,  12,         10) /* StackSize */
+     , (2864360633,  19,     100000) /* Value */
+     , (2864360633,  33,          1) /* Bonded - Bonded */
+     , (2864360633, 151,          2) /* HookType - Wall */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (2864360633,   1, 'Platinum Scarab') /* Name */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (2864360633,   1,   33555211) /* Setup */
+     , (2864360633,   8,       8033) /* Icon */
+     , (2864360633, 8003,          1) /* PCAPRecordedObjectDesc - Openable */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (2864360633,   2, 2816765099) /* Container */;

@@ -1,0 +1,48 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (2169397299, 8904, 35, 3199296) /* Caster */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (2169397299,   1,      32768) /* ItemType - Caster */
+     , (2169397299,   5,         10) /* EncumbranceVal */
+     , (2169397299,   9,   16777216) /* ValidLocations - Held */
+     , (2169397299,  18,          1) /* UiEffects - Magical */
+     , (2169397299,  19,       3000) /* Value */
+     , (2169397299,  33,          1) /* Bonded - Bonded */
+     , (2169397299,  94,         16) /* TargetType - Creature */
+     , (2169397299, 106,        200) /* ItemSpellcraft */
+     , (2169397299, 107,       6709) /* ItemCurMana */
+     , (2169397299, 108,      13131) /* ItemMaxMana */
+     , (2169397299, 109,        121) /* ItemDifficulty */
+     , (2169397299, 110,          0) /* ItemAllegianceRankLimit */
+     , (2169397299, 114,          1) /* Attuned - Attuned */
+     , (2169397299, 151,          2) /* HookType - Wall */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (2169397299,  69, False) /* IsSellable */
+     , (2169397299,  94, True ) /* AppraisalHasAllowedActivator */
+     , (2169397299,  99, True ) /* Ivoryable */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (2169397299,   5, -0.0500000007450581) /* ManaRate */
+     , (2169397299,  29,       1) /* WeaponDefense */
+     , (2169397299,  39,       0) /* DefaultScale */
+     , (2169397299, 144, 1.07182467761669E-314) /* ManaConversionMod */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (2169397299,   1, 'Focusing Stone') /* Name */
+     , (2169397299,  16, 'A small stone with strange markings on the side. The stone has been imbued with strong magical abilities.') /* LongDesc */
+     , (2169397299,  25, 'Digiorno') /* CraftsmanName */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (2169397299,   1,   33556976) /* Setup */
+     , (2169397299,   8,       8078) /* Icon */
+     , (2169397299,  28,       2348) /* Spell - BrillianceOther */
+     , (2169397299, 8003,         16) /* PCAPRecordedObjectDesc - Attackable */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (2169397299,   2, 1343095253) /* Container */;
+
+INSERT INTO `biota_properties_spell_book` (`object_Id`, `spell`, `probability`)
+VALUES (2169397299,  2346,      2) 
+     , (2169397299,  2347,      2) 
+     , (2169397299,  2348,      2) ;

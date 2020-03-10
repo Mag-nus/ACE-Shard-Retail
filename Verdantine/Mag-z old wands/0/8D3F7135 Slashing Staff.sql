@@ -1,0 +1,52 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (2369745205, 37223, 35, 3199232) /* Caster */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (2369745205,   1,      32768) /* ItemType - Caster */
+     , (2369745205,   5,         50) /* EncumbranceVal */
+     , (2369745205,   9,   16777216) /* ValidLocations - Held */
+     , (2369745205,  18,       1025) /* UiEffects - Magical, Slashing */
+     , (2369745205,  19,      20494) /* Value */
+     , (2369745205,  45,          1) /* DamageType - Slash */
+     , (2369745205,  94,         16) /* TargetType - Creature */
+     , (2369745205, 105,          6) /* ItemWorkmanship */
+     , (2369745205, 106,        370) /* ItemSpellcraft */
+     , (2369745205, 107,       2995) /* ItemCurMana */
+     , (2369745205, 108,       2995) /* ItemMaxMana */
+     , (2369745205, 109,        290) /* ItemDifficulty */
+     , (2369745205, 110,          0) /* ItemAllegianceRankLimit */
+     , (2369745205, 115,          0) /* ItemSkillLevelLimit */
+     , (2369745205, 131,         21) /* MaterialType - Emerald */
+     , (2369745205, 151,          2) /* HookType - Wall */
+     , (2369745205, 158,          2) /* WieldRequirements - RawSkill */
+     , (2369745205, 159,         34) /* WieldSkillType - WarMagic */
+     , (2369745205, 160,        375) /* WieldDifficulty */
+     , (2369745205, 172,          5) /* AppraisalLongDescDecoration */
+     , (2369745205, 177,          3) /* GemCount */
+     , (2369745205, 178,         21) /* GemType */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (2369745205,   5, -0.0666666666666667) /* ManaRate */
+     , (2369745205,  29,     1.2) /* WeaponDefense */
+     , (2369745205,  39,       0) /* DefaultScale */
+     , (2369745205, 144,    0.07) /* ManaConversionMod */
+     , (2369745205, 152,    1.12) /* ElementalDamageMod */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (2369745205,   1, 'Slashing Staff') /* Name */
+     , (2369745205,  16, 'Slashing Staff of Shockwave') /* LongDesc */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (2369745205,   1,   33560656) /* Setup */
+     , (2369745205,   8,      26709) /* Icon */
+     , (2369745205,  28,       2144) /* Spell - ShockWave7 */
+     , (2369745205, 8003,         16) /* PCAPRecordedObjectDesc - Attackable */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (2369745205,   2, 1342393360) /* Container */;
+
+INSERT INTO `biota_properties_spell_book` (`object_Id`, `spell`, `probability`)
+VALUES (2369745205,   610,      2) 
+     , (2369745205,  2144,      2) 
+     , (2369745205,  2577,      2) 
+     , (2369745205,  4418,      2) ;

@@ -1,0 +1,34 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (3206920850, 127, 2, 2150720) /* Clothing */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (3206920850,   1,          4) /* ItemType - Clothing */
+     , (3206920850,   4,         22) /* ClothingPriority - UnderwearUpperLegs, UnderwearLowerLegs, UnderwearAbdomen */
+     , (3206920850,   5,        135) /* EncumbranceVal */
+     , (3206920850,   9,        196) /* ValidLocations - AbdomenWear, UpperLegWear, LowerLegWear */
+     , (3206920850,  10,        196) /* CurrentWieldedLocation - AbdomenWear, UpperLegWear, LowerLegWear */
+     , (3206920850,  19,         30) /* Value */
+     , (3206920850,  28,          0) /* ArmorLevel */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (3206920850, 100, True ) /* Dyable */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (3206920850,  13, 0.800000011920929) /* ArmorModVsSlash */
+     , (3206920850,  14, 0.800000011920929) /* ArmorModVsPierce */
+     , (3206920850,  15,       1) /* ArmorModVsBludgeon */
+     , (3206920850,  16, 0.200000002980232) /* ArmorModVsCold */
+     , (3206920850,  17, 0.200000002980232) /* ArmorModVsFire */
+     , (3206920850,  18, 0.100000001490116) /* ArmorModVsAcid */
+     , (3206920850,  19, 0.200000002980232) /* ArmorModVsElectric */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (3206920850,   1, 'Pants') /* Name */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (3206920850,   1,   33554653) /* Setup */
+     , (3206920850,   8,       4073) /* Icon */
+     , (3206920850, 8003,         16) /* PCAPRecordedObjectDesc - Attackable */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (3206920850,   3, 1343252937) /* Wielder */;

@@ -1,0 +1,38 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (2614654582, 31000, 38, 3199296) /* Gem */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (2614654582,   1,       2048) /* ItemType - Gem */
+     , (2614654582,   5,          0) /* EncumbranceVal */
+     , (2614654582,  11,          1) /* MaxStackSize */
+     , (2614654582,  12,          1) /* StackSize */
+     , (2614654582,  18,          1) /* UiEffects - Magical */
+     , (2614654582,  19,         -1) /* Value */
+     , (2614654582,  33,          1) /* Bonded - Bonded */
+     , (2614654582,  94,         16) /* TargetType - Creature */
+     , (2614654582, 114,          1) /* Attuned - Attuned */
+     , (2614654582, 151,         11) /* HookType - Floor, Wall, Yard */
+     , (2614654582, 280,          3) /* SharedCooldown */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (2614654582,  63, True ) /* UnlimitedUse */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (2614654582, 167,      30) /* CooldownDuration */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (2614654582,   1, 'Blackmoor''s Favor') /* Name */
+     , (2614654582,  16, 'A gift from the late Antius Blackmoor and his Page in Arwic. This gem is eternal. You can use it as often as you like.') /* LongDesc */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (2614654582,   1,   33554809) /* Setup */
+     , (2614654582,   8,      19853) /* Icon */
+     , (2614654582,  28,       3811) /* Spell - BlackmoorsFavor */
+     , (2614654582,  52,          0) /* IconUnderlay */
+     , (2614654582, 8003,         17) /* PCAPRecordedObjectDesc - Openable, Attackable */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (2614654582,   2, 2653821591) /* Container */;
+
+INSERT INTO `biota_properties_spell_book` (`object_Id`, `spell`, `probability`)
+VALUES (2614654582,  3811,      2) ;

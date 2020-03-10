@@ -1,0 +1,40 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (3133119458, 36708, 38, 3195200) /* Gem */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (3133119458,   1,       2048) /* ItemType - Gem */
+     , (3133119458,   5,        465) /* EncumbranceVal */
+     , (3133119458,  11,        100) /* MaxStackSize */
+     , (3133119458,  12,         93) /* StackSize */
+     , (3133119458,  18,          1) /* UiEffects - Magical */
+     , (3133119458,  19,        465) /* Value */
+     , (3133119458,  33,          1) /* Bonded - Bonded */
+     , (3133119458,  94,         16) /* TargetType - Creature */
+     , (3133119458, 106,        325) /* ItemSpellcraft */
+     , (3133119458, 107,      10000) /* ItemCurMana */
+     , (3133119458, 108,      10000) /* ItemMaxMana */
+     , (3133119458, 109,          0) /* ItemDifficulty */
+     , (3133119458, 114,          1) /* Attuned - Attuned */
+     , (3133119458, 151,         11) /* HookType - Floor, Wall, Yard */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (3133119458,  69, False) /* IsSellable */
+     , (3133119458, 108, True ) /* RareUsesTimer */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (3133119458,   1, 'Spectral Crystal of the Life Giver') /* Name */
+     , (3133119458,  16, 'Using this gem will increase your Life Magic skill by 150 for 9 minutes.') /* LongDesc */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (3133119458,   1,   33554809) /* Setup */
+     , (3133119458,   8,      23401) /* Icon */
+     , (3133119458,  28,       4221) /* Spell - LifeMagicMasterySpectral */
+     , (3133119458,  50,      23368) /* IconOverlay */
+     , (3133119458,  52,      23308) /* IconUnderlay */
+     , (3133119458, 8003,          1) /* PCAPRecordedObjectDesc - Openable */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (3133119458,   2, 3132899185) /* Container */;
+
+INSERT INTO `biota_properties_spell_book` (`object_Id`, `spell`, `probability`)
+VALUES (3133119458,  4221,      2) ;

@@ -1,0 +1,59 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (2408117628, 132, 2, 3199296) /* Clothing */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (2408117628,   1,          4) /* ItemType - Clothing */
+     , (2408117628,   4,      65536) /* ClothingPriority - Feet */
+     , (2408117628,   5,         49) /* EncumbranceVal */
+     , (2408117628,   9,        256) /* ValidLocations - FootWear */
+     , (2408117628,  18,          1) /* UiEffects - Magical */
+     , (2408117628,  19,      43798) /* Value */
+     , (2408117628,  28,        288) /* ArmorLevel */
+     , (2408117628, 105,          8) /* ItemWorkmanship */
+     , (2408117628, 106,        370) /* ItemSpellcraft */
+     , (2408117628, 107,       1423) /* ItemCurMana */
+     , (2408117628, 108,       1423) /* ItemMaxMana */
+     , (2408117628, 109,        315) /* ItemDifficulty */
+     , (2408117628, 110,          0) /* ItemAllegianceRankLimit */
+     , (2408117628, 115,          0) /* ItemSkillLevelLimit */
+     , (2408117628, 131,         54) /* MaterialType - GromnieHide */
+     , (2408117628, 158,          7) /* WieldRequirements - Level */
+     , (2408117628, 159,          1) /* WieldSkillType - Axe */
+     , (2408117628, 160,        180) /* WieldDifficulty */
+     , (2408117628, 172,          5) /* AppraisalLongDescDecoration */
+     , (2408117628, 177,          2) /* GemCount */
+     , (2408117628, 178,         39) /* GemType */
+     , (2408117628, 265,         21) /* EquipmentSetId - Wise */
+     , (2408117628, 375,          1) /* GearCritDamageResist */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (2408117628, 100, True ) /* Dyable */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (2408117628,   5, -0.0666666666666667) /* ManaRate */
+     , (2408117628,  13, 1.20000004768372) /* ArmorModVsSlash */
+     , (2408117628,  14, 0.800000011920929) /* ArmorModVsPierce */
+     , (2408117628,  15,       1) /* ArmorModVsBludgeon */
+     , (2408117628,  16, 1.19330072402954) /* ArmorModVsCold */
+     , (2408117628,  17,     0.5) /* ArmorModVsFire */
+     , (2408117628,  18, 0.300000011920929) /* ArmorModVsAcid */
+     , (2408117628,  19, 1.13149273395538) /* ArmorModVsElectric */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (2408117628,   1, 'Shoes') /* Name */
+     , (2408117628,  16, 'Shoes of Mana Mastery') /* LongDesc */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (2408117628,   1,   33554654) /* Setup */
+     , (2408117628,   8,       5900) /* Icon */
+     , (2408117628, 8003,         16) /* PCAPRecordedObjectDesc - Attackable */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (2408117628,   2, 1342392433) /* Container */;
+
+INSERT INTO `biota_properties_spell_book` (`object_Id`, `spell`, `probability`)
+VALUES (2408117628,  2102,      2) 
+     , (2408117628,  2113,      2) 
+     , (2408117628,  2287,      2) 
+     , (2408117628,  4407,      2) 
+     , (2408117628,  6105,      2) ;

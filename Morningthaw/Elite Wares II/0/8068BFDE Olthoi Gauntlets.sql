@@ -1,0 +1,64 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (2154348510, 37191, 2, 3199296) /* Clothing */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (2154348510,   1,          2) /* ItemType - Armor */
+     , (2154348510,   4,      32768) /* ClothingPriority - Hands */
+     , (2154348510,   5,        463) /* EncumbranceVal */
+     , (2154348510,   9,         32) /* ValidLocations - HandWear */
+     , (2154348510,  18,          1) /* UiEffects - Magical */
+     , (2154348510,  19,      44709) /* Value */
+     , (2154348510,  28,        513) /* ArmorLevel */
+     , (2154348510,  36,       9999) /* ResistMagic */
+     , (2154348510, 105,          8) /* ItemWorkmanship */
+     , (2154348510, 106,        370) /* ItemSpellcraft */
+     , (2154348510, 107,       1138) /* ItemCurMana */
+     , (2154348510, 108,       1138) /* ItemMaxMana */
+     , (2154348510, 109,        402) /* ItemDifficulty */
+     , (2154348510, 110,          0) /* ItemAllegianceRankLimit */
+     , (2154348510, 115,          0) /* ItemSkillLevelLimit */
+     , (2154348510, 131,         63) /* MaterialType - Silver */
+     , (2154348510, 158,          2) /* WieldRequirements - RawSkill */
+     , (2154348510, 159,          6) /* WieldSkillType - MeleeDefense */
+     , (2154348510, 160,        410) /* WieldDifficulty */
+     , (2154348510, 172,          5) /* AppraisalLongDescDecoration */
+     , (2154348510, 177,          2) /* GemCount */
+     , (2154348510, 178,         21) /* GemType */
+     , (2154348510, 265,         16) /* EquipmentSetId - Defenders */
+     , (2154348510, 270,          7) /* WieldRequirements2 - Level */
+     , (2154348510, 271,          1) /* WieldSkillType2 - Axe */
+     , (2154348510, 272,        180) /* WieldDifficulty2 */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (2154348510, 100, True ) /* Dyable */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (2154348510,   5, -0.0666666666666667) /* ManaRate */
+     , (2154348510,  13, 1.29999995231628) /* ArmorModVsSlash */
+     , (2154348510,  14, 1.29999995231628) /* ArmorModVsPierce */
+     , (2154348510,  15, 1.29999995231628) /* ArmorModVsBludgeon */
+     , (2154348510,  16, 0.800000011920929) /* ArmorModVsCold */
+     , (2154348510,  17,       1) /* ArmorModVsFire */
+     , (2154348510,  18, 0.600000023841858) /* ArmorModVsAcid */
+     , (2154348510,  19, 0.600000023841858) /* ArmorModVsElectric */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (2154348510,   1, 'Olthoi Gauntlets') /* Name */
+     , (2154348510,  16, 'Olthoi Gauntlets of Missile Weapon Mastery') /* LongDesc */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (2154348510,   1,   33554648) /* Setup */
+     , (2154348510,   8,      11359) /* Icon */
+     , (2154348510, 8003,         16) /* PCAPRecordedObjectDesc - Attackable */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (2154348510,   2, 2154348308) /* Container */
+     , (2154348510,   3,          0) /* Wielder */;
+
+INSERT INTO `biota_properties_spell_book` (`object_Id`, `spell`, `probability`)
+VALUES (2154348510,  2094,      2) 
+     , (2154348510,  2207,      2) 
+     , (2154348510,  4401,      2) 
+     , (2154348510,  4407,      2) 
+     , (2154348510,  4412,      2) 
+     , (2154348510,  6053,      2) ;

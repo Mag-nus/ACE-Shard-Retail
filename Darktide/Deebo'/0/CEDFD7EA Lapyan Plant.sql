@@ -1,0 +1,24 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (3470776298, 8644, 51, 2150656) /* Stackable */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (3470776298,   1,    4194304) /* ItemType - CraftCookingBase */
+     , (3470776298,   5,         15) /* EncumbranceVal */
+     , (3470776298,  11,        100) /* MaxStackSize */
+     , (3470776298,  12,          3) /* StackSize */
+     , (3470776298,  19,         30) /* Value */
+     , (3470776298, 151,          9) /* HookType - Floor, Yard */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (3470776298,  39,       0) /* DefaultScale */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (3470776298,   1, 'Lapyan Plant') /* Name */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (3470776298,   1,   33556750) /* Setup */
+     , (3470776298,   8,       9039) /* Icon */
+     , (3470776298, 8003,          1) /* PCAPRecordedObjectDesc - Openable */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (3470776298,   2, 1343587494) /* Container */;

@@ -1,0 +1,30 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (2167624623, 44713, 44, 2150656) /* CraftTool */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (2167624623,   1,        128) /* ItemType - Misc */
+     , (2167624623,   5,        150) /* EncumbranceVal */
+     , (2167624623,  19,       1000) /* Value */
+     , (2167624623,  90,        100) /* BoostValue */
+     , (2167624623,  91,         50) /* MaxStructure */
+     , (2167624623,  92,         50) /* Structure */
+     , (2167624623,  94,         16) /* TargetType - Creature */
+     , (2167624623, 107,          0) /* ItemCurMana */
+     , (2167624623, 108,          0) /* ItemMaxMana */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (2167624623, 100,     1.6) /* HealkitMod */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (2167624623,   1, 'Lesser Mana Kit') /* Name */
+     , (2167624623,  14, 'Use this item on a person to restore mana.') /* Use */
+     , (2167624623,  15, 'A mana kit which provides resonable restoration.') /* ShortDesc */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (2167624623,   1,   33555194) /* Setup */
+     , (2167624623,   8,      28818) /* Icon */
+     , (2167624623, 8003,         48) /* PCAPRecordedObjectDesc - Attackable, PlayerKiller */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (2167624623,   2, 2446460950) /* Container */
+     , (2167624623,   3,          0) /* Wielder */;

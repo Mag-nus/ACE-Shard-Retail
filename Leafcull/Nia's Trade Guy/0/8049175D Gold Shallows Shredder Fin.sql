@@ -1,0 +1,21 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (2152273757, 31904, 1, 2146560) /* Generic */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (2152273757,   1,        128) /* ItemType - Misc */
+     , (2152273757,   5,         50) /* EncumbranceVal */
+     , (2152273757,  19,         -1) /* Value */
+     , (2152273757,  33,          0) /* Bonded - Normal */
+     , (2152273757, 114,          0) /* Attuned - Normal */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (2152273757,   1, 'Gold Shallows Shredder Fin') /* Name */
+     , (2152273757,  16, 'A glistening Gold Shallows Shredder Fin that used to be attached to the rare endangered Gold Shallows Shredder.') /* LongDesc */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (2152273757,   1,   33554817) /* Setup */
+     , (2152273757,   8,      25100) /* Icon */
+     , (2152273757, 8003,         16) /* PCAPRecordedObjectDesc - Attackable */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (2152273757,   2, 2152273740) /* Container */;

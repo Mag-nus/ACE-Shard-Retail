@@ -1,0 +1,56 @@
+INSERT INTO `biota` (`id`, `weenie_Class_Id`, `weenie_Type`, `populated_Collection_Flags`)
+VALUES (3266260379, 105, 2, 3199296) /* Clothing */;
+
+INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
+VALUES (3266260379,   1,          2) /* ItemType - Armor */
+     , (3266260379,   4,      12288) /* ClothingPriority - OuterwearUpperArms, OuterwearLowerArms */
+     , (3266260379,   5,        461) /* EncumbranceVal */
+     , (3266260379,   9,       6144) /* ValidLocations - UpperArmArmor, LowerArmArmor */
+     , (3266260379,  18,          1) /* UiEffects - Magical */
+     , (3266260379,  19,      22802) /* Value */
+     , (3266260379,  28,        280) /* ArmorLevel */
+     , (3266260379, 105,          8) /* ItemWorkmanship */
+     , (3266260379, 106,        370) /* ItemSpellcraft */
+     , (3266260379, 107,       1423) /* ItemCurMana */
+     , (3266260379, 108,       1423) /* ItemMaxMana */
+     , (3266260379, 109,        325) /* ItemDifficulty */
+     , (3266260379, 110,          0) /* ItemAllegianceRankLimit */
+     , (3266260379, 115,          0) /* ItemSkillLevelLimit */
+     , (3266260379, 131,         52) /* MaterialType - Leather */
+     , (3266260379, 158,          7) /* WieldRequirements - Level */
+     , (3266260379, 159,          1) /* WieldSkillType - Axe */
+     , (3266260379, 160,        180) /* WieldDifficulty */
+     , (3266260379, 172,          1) /* AppraisalLongDescDecoration */
+     , (3266260379, 265,         28) /* EquipmentSetId - Coldproof */
+     , (3266260379, 375,          2) /* GearCritDamageResist */;
+
+INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
+VALUES (3266260379, 100, True ) /* Dyable */;
+
+INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
+VALUES (3266260379,   5, -0.0666666666666667) /* ManaRate */
+     , (3266260379,  13, 1.20000004768372) /* ArmorModVsSlash */
+     , (3266260379,  14, 1.10000002384186) /* ArmorModVsPierce */
+     , (3266260379,  15,       1) /* ArmorModVsBludgeon */
+     , (3266260379,  16, 0.881653904914856) /* ArmorModVsCold */
+     , (3266260379,  17, 0.699999988079071) /* ArmorModVsFire */
+     , (3266260379,  18, 0.300000011920929) /* ArmorModVsAcid */
+     , (3266260379,  19, 0.653318583965302) /* ArmorModVsElectric */;
+
+INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
+VALUES (3266260379,   1, 'Studded Leather Sleeves') /* Name */
+     , (3266260379,  16, 'Studded Leather Sleeves of Magic Resistance') /* LongDesc */;
+
+INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
+VALUES (3266260379,   1,   33554655) /* Setup */
+     , (3266260379,   8,       4827) /* Icon */
+     , (3266260379, 8003,         16) /* PCAPRecordedObjectDesc - Attackable */;
+
+INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
+VALUES (3266260379,   2, 1343239710) /* Container */;
+
+INSERT INTO `biota_properties_spell_book` (`object_Id`, `spell`, `probability`)
+VALUES (3266260379,  2098,      2) 
+     , (3266260379,  2281,      2) 
+     , (3266260379,  4407,      2) 
+     , (3266260379,  6085,      2) ;
