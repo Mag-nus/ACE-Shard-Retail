@@ -25,8 +25,8 @@ VALUES (2931887745,   1,          1) /* ItemType - MeleeWeapon */
      , (2931887745, 115,         22) /* ItemSkillLevelLimit */
      , (2931887745, 131,         75) /* MaterialType - Oak */
      , (2931887745, 151,          2) /* HookType - Wall */
-     , (2931887745, 172,          7) /* AppraisalLongDescDecoration */
-     , (2931887745, 176,         45) /* AppraisalItemSkill */
+     , (2931887745, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (2931887745, 176,         45) /* AppraisalItemSkill - LightWeapons */
      , (2931887745, 177,          1) /* GemCount */
      , (2931887745, 178,         36) /* GemType */
      , (2931887745, 353,          3) /* WeaponType - Axe */

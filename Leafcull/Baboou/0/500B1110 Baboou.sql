@@ -14,7 +14,7 @@ VALUES (1342902544,   1,         16) /* ItemType - Creature */
      , (1342902544, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342902544, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342902544, 188,          2) /* HeritageGroup - Gharundim */
-     , (1342902544, 261,         31) /* CharacterTitleId */
+     , (1342902544, 261,         31) /* CharacterTitleId - BunnyMaster */
      , (1342902544, 307,          5) /* DamageRating */
      , (1342902544, 390,          0) /* Enlightenment */
      , (1342902544, 8007,          0) /* PCAPRecordedAutonomousMovement */;

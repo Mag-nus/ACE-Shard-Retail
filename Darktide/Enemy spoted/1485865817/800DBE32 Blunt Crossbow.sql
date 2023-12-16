@@ -13,7 +13,7 @@ VALUES (2148384306,   1,        256) /* ItemType - MissileWeapon */
      , (2148384306,  48,         47) /* WeaponSkill - MissileWeapons */
      , (2148384306,  49,        105) /* WeaponTime */
      , (2148384306,  50,          2) /* AmmoType - Bolt */
-     , (2148384306,  51,          2) /* CombatUse - Missle */
+     , (2148384306,  51,          2) /* CombatUse - Missile */
      , (2148384306,  65,        101) /* Placement - Resting */
      , (2148384306,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2148384306, 105,          8) /* ItemWorkmanship */
@@ -30,8 +30,8 @@ VALUES (2148384306,   1,        256) /* ItemType - MissileWeapon */
      , (2148384306, 160,        385) /* WieldDifficulty */
      , (2148384306, 166,         30) /* SlayerCreatureType - Skeleton */
      , (2148384306, 171,         10) /* NumTimesTinkered */
-     , (2148384306, 172,          5) /* AppraisalLongDescDecoration */
-     , (2148384306, 176,         47) /* AppraisalItemSkill */
+     , (2148384306, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
+     , (2148384306, 176,         47) /* AppraisalItemSkill - MissileWeapons */
      , (2148384306, 177,          1) /* GemCount */
      , (2148384306, 178,         23) /* GemType */
      , (2148384306, 179,         32) /* ImbuedEffect - BludgeonRending */

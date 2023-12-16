@@ -19,7 +19,7 @@ VALUES (1343458693,   1, True ) /* Stuck */
      , (1343458693,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343458693,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1343458693,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343458693,   1, 'Hyde Park') /* Name */;
@@ -37,9 +37,9 @@ VALUES (1343458693,   1,   33561110) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343458693, 1, 1571487762, 70.6843, 32.1823, 126.01, 0.700798, 0, 0, 0.71336) /* Location */
-/* @teleloc 0x5DAB0012 [70.684300 32.182300 126.010000] 0.700798 0.000000 0.000000 0.713360 */
-     , (1343458693, 8040, 23855548, 48.97557, -28.46767, 0.005999982, 0.4359503, 0, 0, -0.8999707) /* PCAPRecordedLocation */
-/* @teleloc 0x016C01BC [48.975570 -28.467670 0.006000] 0.435950 0.000000 0.000000 -0.899971 */;
+/* @teleloc 0x5DAB0012 [70.684303 32.182301 126.010002] 0.700798 0.000000 0.000000 0.713360 */
+     , (1343458693, 8040, 23855548, 48.97557, -28.467667, 0.0059999824, 0.43595034, 0, 0, -0.8999707) /* PCAPRecordedLocation */
+/* @teleloc 0x016C01BC [48.975571 -28.467667 0.006000] 0.435950 0.000000 0.000000 -0.899971 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343458693,  26, 1343396126) /* Monarch */

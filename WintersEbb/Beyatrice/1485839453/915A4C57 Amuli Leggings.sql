@@ -22,8 +22,8 @@ VALUES (2438614103,   1,          2) /* ItemType - Armor */
      , (2438614103, 115,        217) /* ItemSkillLevelLimit */
      , (2438614103, 131,         55) /* MaterialType - ReedSharkHide */
      , (2438614103, 171,          9) /* NumTimesTinkered */
-     , (2438614103, 172,          1) /* AppraisalLongDescDecoration */
-     , (2438614103, 176,          6) /* AppraisalItemSkill */;
+     , (2438614103, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (2438614103, 176,          6) /* AppraisalItemSkill - MeleeDefense */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (2438614103,   1, False) /* Stuck */

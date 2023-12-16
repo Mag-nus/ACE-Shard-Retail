@@ -23,7 +23,7 @@ VALUES (1343215098,   1,         16) /* ItemType - Creature */
      , (1343215098, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343215098, 139,        105) /* DeathLevel */
      , (1343215098, 188,          4) /* HeritageGroup - Viamontian */
-     , (1343215098, 261,         86) /* CharacterTitleId */
+     , (1343215098, 261,         86) /* CharacterTitleId - Lightbringer */
      , (1343215098, 307,          0) /* DamageRating */
      , (1343215098, 308,          0) /* DamageResistRating */
      , (1343215098, 312,          0) /* HealOverTime */

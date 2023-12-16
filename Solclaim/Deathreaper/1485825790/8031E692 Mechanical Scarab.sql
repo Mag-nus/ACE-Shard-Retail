@@ -19,7 +19,7 @@ VALUES (2150753938,   1,          8) /* ItemType - Jewelry */
      , (2150753938, 115,          0) /* ItemSkillLevelLimit */
      , (2150753938, 131,         17) /* MaterialType - Bloodstone */
      , (2150753938, 171,          3) /* NumTimesTinkered */
-     , (2150753938, 172,          7) /* AppraisalLongDescDecoration */
+     , (2150753938, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2150753938, 177,          2) /* GemCount */
      , (2150753938, 178,         12) /* GemType */
      , (2150753938, 179,       8192) /* ImbuedEffect - Spellbook */

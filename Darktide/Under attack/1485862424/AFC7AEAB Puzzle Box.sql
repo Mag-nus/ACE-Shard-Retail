@@ -19,7 +19,7 @@ VALUES (2949099179,   1,          8) /* ItemType - Jewelry */
      , (2949099179, 115,          0) /* ItemSkillLevelLimit */
      , (2949099179, 131,         19) /* MaterialType - Citrine */
      , (2949099179, 171,          2) /* NumTimesTinkered */
-     , (2949099179, 172,          7) /* AppraisalLongDescDecoration */
+     , (2949099179, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2949099179, 177,          3) /* GemCount */
      , (2949099179, 178,         32) /* GemType */
      , (2949099179, 303,       8192) /* ImbuedEffect2 - Spellbook */

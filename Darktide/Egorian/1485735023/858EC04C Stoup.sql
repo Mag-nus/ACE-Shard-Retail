@@ -12,7 +12,7 @@ VALUES (2240725068,   1,        256) /* ItemType - MissileWeapon */
      , (2240725068,  45,          4) /* DamageType - Bludgeon */
      , (2240725068,  48,         47) /* WeaponSkill - MissileWeapons */
      , (2240725068,  49,         10) /* WeaponTime */
-     , (2240725068,  51,          2) /* CombatUse - Missle */
+     , (2240725068,  51,          2) /* CombatUse - Missile */
      , (2240725068,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (2240725068, 105,          4) /* ItemWorkmanship */
      , (2240725068, 106,         52) /* ItemSpellcraft */
@@ -23,7 +23,7 @@ VALUES (2240725068,   1,        256) /* ItemType - MissileWeapon */
      , (2240725068, 115,          0) /* ItemSkillLevelLimit */
      , (2240725068, 131,          1) /* MaterialType - Ceramic */
      , (2240725068, 151,          1) /* HookType - Floor */
-     , (2240725068, 172,          3) /* AppraisalLongDescDecoration */
+     , (2240725068, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2240725068, 188,          2) /* HeritageGroup - Gharundim */
      , (2240725068, 353,         10) /* WeaponType - Thrown */
      , (2240725068, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */

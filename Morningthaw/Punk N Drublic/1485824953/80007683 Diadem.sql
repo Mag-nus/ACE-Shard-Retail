@@ -25,7 +25,7 @@ VALUES (2147513987,   1,          2) /* ItemType - Armor */
      , (2147513987, 158,          7) /* WieldRequirements - Level */
      , (2147513987, 159,          1) /* WieldSkillType - Axe */
      , (2147513987, 160,        180) /* WieldDifficulty */
-     , (2147513987, 172,          5) /* AppraisalLongDescDecoration */
+     , (2147513987, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2147513987, 177,          5) /* GemCount */
      , (2147513987, 178,         33) /* GemType */
      , (2147513987, 265,         14) /* EquipmentSetId - Adepts */;

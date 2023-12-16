@@ -8,7 +8,7 @@ VALUES (3261434784,   1,        256) /* ItemType - MissileWeapon */
      , (3261434784,  16,          1) /* ItemUseable - No */
      , (3261434784,  18,          1) /* UiEffects - Magical */
      , (3261434784,  19,       2180) /* Value */
-     , (3261434784,  51,          2) /* CombatUse - Missle */
+     , (3261434784,  51,          2) /* CombatUse - Missile */
      , (3261434784,  65,        101) /* Placement - Resting */
      , (3261434784,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (3261434784, 131,         66) /* MaterialType - Alabaster */

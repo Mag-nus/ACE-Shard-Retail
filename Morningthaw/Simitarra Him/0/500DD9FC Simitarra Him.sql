@@ -16,8 +16,8 @@ VALUES (1343085052,   1,         16) /* ItemType - Creature */
      , (1343085052, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343085052, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343085052, 188,          2) /* HeritageGroup - Gharundim */
-     , (1343085052, 261,        651) /* CharacterTitleId */
-     , (1343085052, 281,          4) /* Faction1Bits */
+     , (1343085052, 261,        651) /* CharacterTitleId - Gifted */
+     , (1343085052, 281,          4) /* Faction1Bits - RadiantBlood */
      , (1343085052, 289,         20) /* SocietyRankRadblo */
      , (1343085052, 307,         10) /* DamageRating */
      , (1343085052, 308,          5) /* DamageResistRating */
@@ -62,10 +62,10 @@ VALUES (1343085052,   1,   33554510) /* Setup */
      , (1343085052, 8005,     104451) /* PCAPRecordedPhysicsDesc - CSetup, MTable, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343085052, 1, 4095213828, 36.9, 48.7, 169.8, -0.9807853, 0, 0, -0.1950903) /* Location */
-/* @teleloc 0xF4180104 [36.900000 48.700000 169.800000] -0.980785 0.000000 0.000000 -0.195090 */
-     , (1343085052, 8040, 19398926, 29.32538, -30.69012, 0.8249823, 0.999749, 0, 0, -0.02240336) /* PCAPRecordedLocation */
-/* @teleloc 0x0128010E [29.325380 -30.690120 0.824982] 0.999749 0.000000 0.000000 -0.022403 */;
+VALUES (1343085052, 1, 4095213828, 36.9, 48.7, 169.8, -0.9807853, 0, 0, -0.19509031) /* Location */
+/* @teleloc 0xF4180104 [36.900002 48.700001 169.800003] -0.980785 0.000000 0.000000 -0.195090 */
+     , (1343085052, 8040, 19398926, 29.32538, -30.690117, 0.82498235, 0.999749, 0, 0, -0.022403361) /* PCAPRecordedLocation */
+/* @teleloc 0x0128010E [29.325380 -30.690117 0.824982] 0.999749 0.000000 0.000000 -0.022403 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343085052,  26, 1342330347) /* Monarch */

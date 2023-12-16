@@ -14,7 +14,7 @@ VALUES (1343357311,   1,         16) /* ItemType - Creature */
      , (1343357311, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343357311, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343357311, 188,          8) /* HeritageGroup - Lugian */
-     , (1343357311, 261,        447) /* CharacterTitleId */
+     , (1343357311, 261,        447) /* CharacterTitleId - ColosseumChampion */
      , (1343357311, 390,          0) /* Enlightenment */
      , (1343357311, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
@@ -27,7 +27,7 @@ VALUES (1343357311,   1, True ) /* Stuck */
      , (1343357311,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343357311,  39, 1.29999995231628) /* DefaultScale */;
+VALUES (1343357311,  39, 1.2999999523162842) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343357311,   1, 'A-Lo') /* Name */
@@ -53,8 +53,8 @@ VALUES (1343357311,   1,   33561112) /* Setup */
      , (1343357311, 8005,     104643) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343357311, 8040, 3465871413, 162.8457, 100.2925, 20.0065, -0.7663592, 0, 0, -0.6424124) /* PCAPRecordedLocation */
-/* @teleloc 0xCE950035 [162.845700 100.292500 20.006500] -0.766359 0.000000 0.000000 -0.642412 */;
+VALUES (1343357311, 8040, 3465871413, 162.8457, 100.29251, 20.0065, -0.76635915, 0, -0, -0.6424124) /* PCAPRecordedLocation */
+/* @teleloc 0xCE950035 [162.845703 100.292511 20.006500] -0.766359 0.000000 -0.000000 -0.642412 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343357311,  26, 1343449966) /* Monarch */

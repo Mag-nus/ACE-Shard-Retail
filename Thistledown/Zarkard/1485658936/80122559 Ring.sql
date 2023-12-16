@@ -19,7 +19,7 @@ VALUES (2148672857,   1,          8) /* ItemType - Jewelry */
      , (2148672857, 110,          0) /* ItemAllegianceRankLimit */
      , (2148672857, 115,          0) /* ItemSkillLevelLimit */
      , (2148672857, 131,         51) /* MaterialType - Ivory */
-     , (2148672857, 172,          7) /* AppraisalLongDescDecoration */
+     , (2148672857, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2148672857, 177,          1) /* GemCount */
      , (2148672857, 178,         26) /* GemType */
      , (2148672857, 188,          3) /* HeritageGroup - Sho */;

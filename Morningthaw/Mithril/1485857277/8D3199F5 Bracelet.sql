@@ -11,7 +11,7 @@ VALUES (2368838133,   1,          8) /* ItemType - Jewelry */
      , (2368838133,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2368838133, 105,          9) /* ItemWorkmanship */
      , (2368838133, 131,         20) /* MaterialType - Diamond */
-     , (2368838133, 172,          7) /* AppraisalLongDescDecoration */
+     , (2368838133, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2368838133, 177,          2) /* GemCount */
      , (2368838133, 178,         33) /* GemType */
      , (2368838133, 9015,         60) /* InventoryOrder */;
@@ -25,7 +25,7 @@ VALUES (2368838133,   1, False) /* Stuck */
      , (2368838133,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2368838133,  39, 0.670000016689301) /* DefaultScale */
+VALUES (2368838133,  39, 0.6700000166893005) /* DefaultScale */
      , (2368838133, 8004,       9) /* PCAPRecordedWorkmanship */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)

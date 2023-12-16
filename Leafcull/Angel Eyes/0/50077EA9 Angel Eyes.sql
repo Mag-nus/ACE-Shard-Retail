@@ -16,9 +16,9 @@ VALUES (1342668457,   1,         16) /* ItemType - Creature */
      , (1342668457, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342668457, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342668457, 188,          2) /* HeritageGroup - Gharundim */
-     , (1342668457, 261,          6) /* CharacterTitleId */
+     , (1342668457, 261,          6) /* CharacterTitleId - Sorcerer */
      , (1342668457, 262,         35) /* NumCharacterTitles */
-     , (1342668457, 281,          1) /* Faction1Bits */
+     , (1342668457, 281,          1) /* Faction1Bits - CelestialHand */
      , (1342668457, 287,       1001) /* SocietyRankCelhan */
      , (1342668457, 307,         13) /* DamageRating */
      , (1342668457, 308,         13) /* DamageResistRating */
@@ -63,10 +63,10 @@ VALUES (1342668457,   1,   33554433) /* Setup */
      , (1342668457, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1342668457, 1, 3332964380, 80.4637, 83.85192, 42.005, -0.9999852, 0, 0, 0.005434721) /* Location */
-/* @teleloc 0xC6A9001C [80.463700 83.851920 42.005000] -0.999985 0.000000 0.000000 0.005435 */
-     , (1342668457, 8040, 1925775417, 188.3353, 0.1959305, 81.41055, -0.9093557, 0, 0, -0.4160195) /* PCAPRecordedLocation */
-/* @teleloc 0x72C90039 [188.335300 0.195931 81.410550] -0.909356 0.000000 0.000000 -0.416020 */;
+VALUES (1342668457, 1, 3332964380, 80.4637, 83.85192, 42.005, -0.9999852, 0, 0, 0.0054347212) /* Location */
+/* @teleloc 0xC6A9001C [80.463699 83.851921 42.005001] -0.999985 0.000000 0.000000 0.005435 */
+     , (1342668457, 8040, 1925775417, 188.33528, 0.19593048, 81.410545, -0.9093557, 0, 0, -0.41601953) /* PCAPRecordedLocation */
+/* @teleloc 0x72C90039 [188.335281 0.195930 81.410545] -0.909356 0.000000 0.000000 -0.416020 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342668457,  26, 1342779532) /* Monarch */

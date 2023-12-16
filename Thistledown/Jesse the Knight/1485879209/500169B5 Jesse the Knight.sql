@@ -28,7 +28,7 @@ VALUES (1342269877,   1,         16) /* ItemType - Creature */
      , (1342269877, 199, 1427994583) /* HousePurchaseTimestamp */
      , (1342269877, 231,          3) /* AugmentationLessDeathItemLoss */
      , (1342269877, 232,          1) /* AugmentationSpellsRemainPastDeath */
-     , (1342269877, 261,          8) /* CharacterTitleId */
+     , (1342269877, 261,          8) /* CharacterTitleId - Warrior */
      , (1342269877, 262,         51) /* NumCharacterTitles */
      , (1342269877, 300,          1) /* AugmentationSkilledMelee */
      , (1342269877, 307,          7) /* DamageRating */

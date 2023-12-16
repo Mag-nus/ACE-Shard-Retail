@@ -12,7 +12,7 @@ VALUES (2931887676,   1,          8) /* ItemType - Jewelry */
      , (2931887676,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2931887676, 105,          2) /* ItemWorkmanship */
      , (2931887676, 131,         57) /* MaterialType - Brass */
-     , (2931887676, 172,          3) /* AppraisalLongDescDecoration */;
+     , (2931887676, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (2931887676,   1, False) /* Stuck */

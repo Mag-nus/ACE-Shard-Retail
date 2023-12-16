@@ -23,7 +23,7 @@ VALUES (3377475891,   1,          2) /* ItemType - Armor */
      , (3377475891, 158,          7) /* WieldRequirements - Level */
      , (3377475891, 159,          1) /* WieldSkillType - Axe */
      , (3377475891, 160,        180) /* WieldDifficulty */
-     , (3377475891, 172,          5) /* AppraisalLongDescDecoration */
+     , (3377475891, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (3377475891, 177,          2) /* GemCount */
      , (3377475891, 178,         34) /* GemType */
      , (3377475891, 265,         29) /* EquipmentSetId - Lightningproof */

@@ -32,9 +32,9 @@ VALUES (1343025989,   1,         16) /* ItemType - Creature */
      , (1343025989, 232,          1) /* AugmentationSpellsRemainPastDeath */
      , (1343025989, 233,          1) /* AugmentationCriticalDefense */
      , (1343025989, 238,          5) /* AugmentationIncreasedSpellDuration */
-     , (1343025989, 261,        545) /* CharacterTitleId */
+     , (1343025989, 261,        545) /* CharacterTitleId - DeathKnight */
      , (1343025989, 262,        135) /* NumCharacterTitles */
-     , (1343025989, 281,          1) /* Faction1Bits */
+     , (1343025989, 281,          1) /* Faction1Bits - CelestialHand */
      , (1343025989, 287,        135) /* SocietyRankCelhan */
      , (1343025989, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1343025989, 295,          1) /* AugmentationInfusedItemMagic */

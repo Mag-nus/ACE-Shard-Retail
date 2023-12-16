@@ -14,8 +14,8 @@ VALUES (1343425050,   1,         16) /* ItemType - Creature */
      , (1343425050, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343425050, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343425050, 188,          1) /* HeritageGroup - Aluvian */
-     , (1343425050, 261,        890) /* CharacterTitleId */
-     , (1343425050, 281,          1) /* Faction1Bits */
+     , (1343425050, 261,        890) /* CharacterTitleId - Enlightened */
+     , (1343425050, 281,          1) /* Faction1Bits - CelestialHand */
      , (1343425050, 287,       1001) /* SocietyRankCelhan */
      , (1343425050, 307,         17) /* DamageRating */
      , (1343425050, 308,         24) /* DamageResistRating */
@@ -61,8 +61,8 @@ VALUES (1343425050,   1,   33554510) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343425050, 1, 459077, 70, -80, 0.01, 1, 0, 0, 0) /* Location */
 /* @teleloc 0x00070145 [70.000000 -80.000000 0.010000] 1.000000 0.000000 0.000000 0.000000 */
-     , (1343425050, 8040, 4135714866, 148.197, 45.90409, 57.83034, -0.8729346, 0, 0, -0.4878373) /* PCAPRecordedLocation */
-/* @teleloc 0xF6820032 [148.197000 45.904090 57.830340] -0.872935 0.000000 0.000000 -0.487837 */;
+     , (1343425050, 8040, 4135714866, 148.19698, 45.904095, 57.83034, -0.8729346, 0, -0, -0.48783734) /* PCAPRecordedLocation */
+/* @teleloc 0xF6820032 [148.196976 45.904095 57.830341] -0.872935 0.000000 -0.000000 -0.487837 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343425050,  26, 1343089867) /* Monarch */

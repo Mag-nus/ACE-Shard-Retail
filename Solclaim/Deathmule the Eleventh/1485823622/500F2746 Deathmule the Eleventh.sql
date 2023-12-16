@@ -20,7 +20,7 @@ VALUES (1343170374,   1,         16) /* ItemType - Creature */
      , (1343170374, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343170374, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343170374, 188,          6) /* HeritageGroup - Gearknight */
-     , (1343170374, 261,         11) /* CharacterTitleId */
+     , (1343170374, 261,         11) /* CharacterTitleId - Soldier */
      , (1343170374, 307,          0) /* DamageRating */
      , (1343170374, 308,          3) /* DamageResistRating */
      , (1343170374, 310,          1) /* AugmentationDamageReduction */

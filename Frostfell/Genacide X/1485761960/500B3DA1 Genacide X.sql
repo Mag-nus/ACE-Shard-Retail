@@ -29,7 +29,7 @@ VALUES (1342913953,   1,         16) /* ItemType - Creature */
      , (1342913953, 192,          0) /* FakeFishingSkill */
      , (1342913953, 199, 1426969639) /* HousePurchaseTimestamp */
      , (1342913953, 231,          2) /* AugmentationLessDeathItemLoss */
-     , (1342913953, 261,         66) /* CharacterTitleId */
+     , (1342913953, 261,         66) /* CharacterTitleId - HeartRipper */
      , (1342913953, 262,         22) /* NumCharacterTitles */
      , (1342913953, 307,          5) /* DamageRating */
      , (1342913953, 308,          0) /* DamageResistRating */

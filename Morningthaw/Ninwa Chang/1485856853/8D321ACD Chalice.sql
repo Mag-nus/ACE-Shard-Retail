@@ -11,13 +11,13 @@ VALUES (2368871117,   1,        256) /* ItemType - MissileWeapon */
      , (2368871117,  45,          4) /* DamageType - Bludgeon */
      , (2368871117,  48,         47) /* WeaponSkill - MissileWeapons */
      , (2368871117,  49,         10) /* WeaponTime */
-     , (2368871117,  51,          2) /* CombatUse - Missle */
+     , (2368871117,  51,          2) /* CombatUse - Missile */
      , (2368871117,  65,        101) /* Placement - Resting */
      , (2368871117,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (2368871117, 105,          6) /* ItemWorkmanship */
      , (2368871117, 131,         49) /* MaterialType - YellowTopaz */
      , (2368871117, 151,          1) /* HookType - Floor */
-     , (2368871117, 172,          7) /* AppraisalLongDescDecoration */
+     , (2368871117, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2368871117, 177,          4) /* GemCount */
      , (2368871117, 178,         13) /* GemType */
      , (2368871117, 353,         10) /* WeaponType - Thrown */

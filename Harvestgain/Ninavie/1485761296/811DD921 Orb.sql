@@ -21,7 +21,7 @@ VALUES (2166216993,   1,      32768) /* ItemType - Caster */
      , (2166216993, 131,         20) /* MaterialType - Diamond */
      , (2166216993, 151,          2) /* HookType - Wall */
      , (2166216993, 171,          5) /* NumTimesTinkered */
-     , (2166216993, 172,          7) /* AppraisalLongDescDecoration */
+     , (2166216993, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2166216993, 177,          7) /* GemCount */
      , (2166216993, 178,         39) /* GemType */
      , (2166216993, 9015,          8) /* InventoryOrder */;

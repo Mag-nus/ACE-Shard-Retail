@@ -16,7 +16,7 @@ VALUES (3231346659,   1,          4) /* ItemType - Clothing */
      , (3231346659, 131,          6) /* MaterialType - Silk */
      , (3231346659, 151,          2) /* HookType - Wall */
      , (3231346659, 171,          6) /* NumTimesTinkered */
-     , (3231346659, 172,          7) /* AppraisalLongDescDecoration */
+     , (3231346659, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3231346659, 177,          1) /* GemCount */
      , (3231346659, 178,         38) /* GemType */
      , (3231346659, 179,       1024) /* ImbuedEffect - MeleeDefense */;

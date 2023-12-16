@@ -43,8 +43,8 @@ VALUES (1342545824,   1,         16) /* ItemType - Creature */
      , (1342545824, 237,          2) /* AugmentationFasterRegen */
      , (1342545824, 238,          5) /* AugmentationIncreasedSpellDuration */
      , (1342545824, 243,          2) /* AugmentationResistanceAcid */
-     , (1342545824, 261,        420) /* CharacterTitleId */
-     , (1342545824, 281,          4) /* Faction1Bits */
+     , (1342545824, 261,        420) /* CharacterTitleId - CarraidasAvenger */
+     , (1342545824, 281,          4) /* Faction1Bits - RadiantBlood */
      , (1342545824, 289,       1001) /* SocietyRankRadblo */
      , (1342545824, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1342545824, 295,          1) /* AugmentationInfusedItemMagic */

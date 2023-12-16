@@ -23,7 +23,7 @@ VALUES (2282285262,   1,          1) /* ItemType - MeleeWeapon */
      , (2282285262, 158,          7) /* WieldRequirements - Level */
      , (2282285262, 159,          1) /* WieldSkillType - Axe */
      , (2282285262, 160,        140) /* WieldDifficulty */
-     , (2282285262, 263,          1) /* ResistanceModifierType */
+     , (2282285262, 263,          1) /* ResistanceModifierType - Slash */
      , (2282285262, 353,          2) /* WeaponType - Sword */
      , (2282285262, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (2282285262, 9015,          6) /* InventoryOrder */;

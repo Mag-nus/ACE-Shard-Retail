@@ -24,7 +24,7 @@ VALUES (2282670610,   1,          2) /* ItemType - Armor */
      , (2282670610, 159,          1) /* WieldSkillType - Axe */
      , (2282670610, 160,        150) /* WieldDifficulty */
      , (2282670610, 171,          9) /* NumTimesTinkered */
-     , (2282670610, 172,          3) /* AppraisalLongDescDecoration */
+     , (2282670610, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2282670610, 9015,          8) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

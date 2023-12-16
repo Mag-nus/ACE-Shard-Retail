@@ -15,7 +15,7 @@ VALUES (3331550932,   1,          2) /* ItemType - Armor */
      , (3331550932, 105,          6) /* ItemWorkmanship */
      , (3331550932, 131,         57) /* MaterialType - Brass */
      , (3331550932, 171,          6) /* NumTimesTinkered */
-     , (3331550932, 172,          3) /* AppraisalLongDescDecoration */;
+     , (3331550932, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (3331550932,   1, False) /* Stuck */

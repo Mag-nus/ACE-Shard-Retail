@@ -9,7 +9,7 @@ VALUES (3710971343,   1,        256) /* ItemType - MissileWeapon */
      , (3710971343,  18,       2049) /* UiEffects - Magical, Piercing */
      , (3710971343,  19,      20632) /* Value */
      , (3710971343,  50,          2) /* AmmoType - Bolt */
-     , (3710971343,  51,          2) /* CombatUse - Missle */
+     , (3710971343,  51,          2) /* CombatUse - Missile */
      , (3710971343,  65,        101) /* Placement - Resting */
      , (3710971343,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3710971343, 131,         51) /* MaterialType - Ivory */

@@ -24,7 +24,7 @@ VALUES (3522942266,   1,          2) /* ItemType - Armor */
      , (3522942266, 159,          1) /* WieldSkillType - Axe */
      , (3522942266, 160,        180) /* WieldDifficulty */
      , (3522942266, 171,          8) /* NumTimesTinkered */
-     , (3522942266, 172,          1) /* AppraisalLongDescDecoration */
+     , (3522942266, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (3522942266, 265,         14) /* EquipmentSetId - Adepts */
      , (3522942266, 9015,         14) /* InventoryOrder */;
 

@@ -29,8 +29,8 @@ VALUES (1343102817,   1,         16) /* ItemType - Creature */
      , (1343102817, 232,          1) /* AugmentationSpellsRemainPastDeath */
      , (1343102817, 233,          1) /* AugmentationCriticalDefense */
      , (1343102817, 238,          5) /* AugmentationIncreasedSpellDuration */
-     , (1343102817, 261,        562) /* CharacterTitleId */
-     , (1343102817, 281,          2) /* Faction1Bits */
+     , (1343102817, 261,        562) /* CharacterTitleId - GoldFarmer */
+     , (1343102817, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1343102817, 288,        515) /* SocietyRankEldweb */
      , (1343102817, 301,          1) /* AugmentationSkilledMissile */
      , (1343102817, 302,          1) /* AugmentationSkilledMagic */

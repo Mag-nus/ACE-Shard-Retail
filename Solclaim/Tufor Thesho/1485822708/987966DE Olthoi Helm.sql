@@ -15,7 +15,7 @@ VALUES (2558093022,   1,          2) /* ItemType - Armor */
      , (2558093022, 105,          7) /* ItemWorkmanship */
      , (2558093022, 131,         53) /* MaterialType - ArmoredilloHide */
      , (2558093022, 151,          2) /* HookType - Wall */
-     , (2558093022, 172,          5) /* AppraisalLongDescDecoration */
+     , (2558093022, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2558093022, 177,          1) /* GemCount */
      , (2558093022, 178,         17) /* GemType */;
 

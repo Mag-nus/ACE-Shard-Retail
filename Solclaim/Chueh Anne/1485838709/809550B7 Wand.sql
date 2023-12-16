@@ -21,7 +21,7 @@ VALUES (2157269175,   1,      32768) /* ItemType - Caster */
      , (2157269175, 131,         32) /* MaterialType - Onyx */
      , (2157269175, 151,          2) /* HookType - Wall */
      , (2157269175, 171,          1) /* NumTimesTinkered */
-     , (2157269175, 172,          3) /* AppraisalLongDescDecoration */
+     , (2157269175, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2157269175, 179,        256) /* ImbuedEffect - ElectricRending */
      , (2157269175, 9015,          7) /* InventoryOrder */;
 

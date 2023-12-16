@@ -21,7 +21,7 @@ VALUES (2149143188,   1,          4) /* ItemType - Clothing */
      , (2149143188, 110,          0) /* ItemAllegianceRankLimit */
      , (2149143188, 115,          0) /* ItemSkillLevelLimit */
      , (2149143188, 131,          6) /* MaterialType - Silk */
-     , (2149143188, 172,          7) /* AppraisalLongDescDecoration */
+     , (2149143188, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2149143188, 177,          3) /* GemCount */
      , (2149143188, 178,         26) /* GemType */
      , (2149143188, 188,          1) /* HeritageGroup - Aluvian */;

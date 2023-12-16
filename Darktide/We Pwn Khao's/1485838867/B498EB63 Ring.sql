@@ -19,7 +19,7 @@ VALUES (3029920611,   1,          8) /* ItemType - Jewelry */
      , (3029920611, 110,          0) /* ItemAllegianceRankLimit */
      , (3029920611, 115,          0) /* ItemSkillLevelLimit */
      , (3029920611, 131,         57) /* MaterialType - Brass */
-     , (3029920611, 172,          7) /* AppraisalLongDescDecoration */
+     , (3029920611, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3029920611, 177,          1) /* GemCount */
      , (3029920611, 178,         38) /* GemType */;
 

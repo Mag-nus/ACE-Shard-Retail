@@ -22,8 +22,8 @@ VALUES (2164445616,   1,          2) /* ItemType - Armor */
      , (2164445616, 158,          7) /* WieldRequirements - Level */
      , (2164445616, 159,          1) /* WieldSkillType - Axe */
      , (2164445616, 160,        150) /* WieldDifficulty */
-     , (2164445616, 172,          1) /* AppraisalLongDescDecoration */
-     , (2164445616, 176,          6) /* AppraisalItemSkill */
+     , (2164445616, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (2164445616, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (2164445616, 265,         23) /* EquipmentSetId - Hardened */
      , (2164445616, 9015,          2) /* InventoryOrder */;
 

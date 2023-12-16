@@ -25,7 +25,7 @@ VALUES (3351524969,   1,          2) /* ItemType - Armor */
      , (3351524969, 159,          6) /* WieldSkillType - MeleeDefense */
      , (3351524969, 160,        400) /* WieldDifficulty */
      , (3351524969, 171,          1) /* NumTimesTinkered */
-     , (3351524969, 172,          3) /* AppraisalLongDescDecoration */
+     , (3351524969, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (3351524969, 179,       4096) /* ImbuedEffect - MagicDefense */
      , (3351524969, 9015,         35) /* InventoryOrder */;
 

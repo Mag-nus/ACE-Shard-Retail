@@ -14,7 +14,7 @@ VALUES (1343466091,   1,         16) /* ItemType - Creature */
      , (1343466091, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343466091, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343466091, 188,          9) /* HeritageGroup - Empyrean */
-     , (1343466091, 261,         33) /* CharacterTitleId */
+     , (1343466091, 261,         33) /* CharacterTitleId - ChainBreaker */
      , (1343466091, 307,         11) /* DamageRating */
      , (1343466091, 390,          0) /* Enlightenment */
      , (1343466091, 8007,          1) /* PCAPRecordedAutonomousMovement */;
@@ -28,7 +28,7 @@ VALUES (1343466091,   1, True ) /* Stuck */
      , (1343466091,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343466091,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1343466091,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343466091,   1, 'Jon Space') /* Name */
@@ -56,8 +56,8 @@ VALUES (1343466091,   1,   33561110) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343466091, 1, 459075, 70, -60, 0.01, 1, 0, 0, -1) /* Location */
 /* @teleloc 0x00070143 [70.000000 -60.000000 0.010000] 1.000000 0.000000 0.000000 -1.000000 */
-     , (1343466091, 8040, 2847146009, 84, 7.1, 94.006, 0.9969173, 0, 0, -0.0784591) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B40019 [84.000000 7.100000 94.006000] 0.996917 0.000000 0.000000 -0.078459 */;
+     , (1343466091, 8040, 2847146009, 84, 7.1, 94.006004, 0.9969173, 0, 0, -0.0784591) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B40019 [84.000000 7.100000 94.006004] 0.996917 0.000000 0.000000 -0.078459 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343466091,  26, 1342200341) /* Monarch */

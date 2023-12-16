@@ -17,7 +17,7 @@ VALUES (1343229918,   1,         16) /* ItemType - Creature */
      , (1343229918, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343229918, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343229918, 188,          4) /* HeritageGroup - Viamontian */
-     , (1343229918, 261,         13) /* CharacterTitleId */
+     , (1343229918, 261,         13) /* CharacterTitleId - WarMage */
      , (1343229918, 307,          0) /* DamageRating */
      , (1343229918, 308,          0) /* DamageResistRating */
      , (1343229918, 312,          0) /* HealOverTime */

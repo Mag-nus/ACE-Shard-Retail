@@ -25,8 +25,8 @@ VALUES (2158100556,   1,          2) /* ItemType - Armor */
      , (2158100556, 158,          2) /* WieldRequirements - RawSkill */
      , (2158100556, 159,         15) /* WieldSkillType - MagicDefense */
      , (2158100556, 160,        245) /* WieldDifficulty */
-     , (2158100556, 172,          7) /* AppraisalLongDescDecoration */
-     , (2158100556, 176,          7) /* AppraisalItemSkill */
+     , (2158100556, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (2158100556, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (2158100556, 177,          3) /* GemCount */
      , (2158100556, 178,         13) /* GemType */
      , (2158100556, 188,          3) /* HeritageGroup - Sho */

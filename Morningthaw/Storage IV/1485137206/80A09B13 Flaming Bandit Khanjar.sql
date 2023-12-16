@@ -27,7 +27,7 @@ VALUES (2158009107,   1,          1) /* ItemType - MeleeWeapon */
      , (2158009107, 115,        184) /* ItemSkillLevelLimit */
      , (2158009107, 131,         60) /* MaterialType - Gold */
      , (2158009107, 151,          2) /* HookType - Wall */
-     , (2158009107, 176,         46) /* AppraisalItemSkill */
+     , (2158009107, 176,         46) /* AppraisalItemSkill - FinesseWeapons */
      , (2158009107, 188,          2) /* HeritageGroup - Gharundim */
      , (2158009107, 353,          6) /* WeaponType - Dagger */
      , (2158009107, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */

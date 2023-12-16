@@ -25,11 +25,11 @@ VALUES (2147669772,   1,      32768) /* ItemType - Caster */
      , (2147669772, 159,         34) /* WieldSkillType - WarMagic */
      , (2147669772, 160,        385) /* WieldDifficulty */
      , (2147669772, 171,         10) /* NumTimesTinkered */
-     , (2147669772, 172,          5) /* AppraisalLongDescDecoration */
+     , (2147669772, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2147669772, 177,          4) /* GemCount */
      , (2147669772, 178,         23) /* GemType */
      , (2147669772, 179,          1) /* ImbuedEffect - CriticalStrike */
-     , (2147669772, 265,        139) /* EquipmentSetId - UNKNOWN_139 */
+     , (2147669772, 265,        139) /* EquipmentSetId - ParagonCaster */
      , (2147669772, 319,          5) /* ItemMaxLevel */
      , (2147669772, 320,          1) /* ItemXpStyle - Fixed */
      , (2147669772, 9015,          5) /* InventoryOrder */;

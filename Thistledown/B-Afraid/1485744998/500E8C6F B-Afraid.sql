@@ -23,7 +23,7 @@ VALUES (1343130735,   1,         16) /* ItemType - Creature */
      , (1343130735, 139,         68) /* DeathLevel */
      , (1343130735, 188,          1) /* HeritageGroup - Aluvian */
      , (1343130735, 199, 1421501042) /* HousePurchaseTimestamp */
-     , (1343130735, 261,        138) /* CharacterTitleId */
+     , (1343130735, 261,        138) /* CharacterTitleId - Sureshot */
      , (1343130735, 307,          0) /* DamageRating */
      , (1343130735, 308,          0) /* DamageResistRating */
      , (1343130735, 312,          0) /* HealOverTime */

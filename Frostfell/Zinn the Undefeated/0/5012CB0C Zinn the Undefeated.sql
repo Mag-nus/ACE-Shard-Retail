@@ -16,7 +16,7 @@ VALUES (1343408908,   1,         16) /* ItemType - Creature */
      , (1343408908, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343408908, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343408908, 188,          1) /* HeritageGroup - Aluvian */
-     , (1343408908, 261,          1) /* CharacterTitleId */
+     , (1343408908, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343408908, 307,          5) /* DamageRating */
      , (1343408908, 390,          0) /* Enlightenment */
      , (1343408908, 8007,          0) /* PCAPRecordedAutonomousMovement */;

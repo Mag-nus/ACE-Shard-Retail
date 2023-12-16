@@ -20,7 +20,7 @@ VALUES (2881822187,   1,          2) /* ItemType - Armor */
      , (2881822187, 110,          0) /* ItemAllegianceRankLimit */
      , (2881822187, 115,        180) /* ItemSkillLevelLimit */
      , (2881822187, 131,         60) /* MaterialType - Gold */
-     , (2881822187, 176,          6) /* AppraisalItemSkill */
+     , (2881822187, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (2881822187, 188,          3) /* HeritageGroup - Sho */
      , (2881822187, 9015,          9) /* InventoryOrder */;
 

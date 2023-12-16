@@ -16,9 +16,9 @@ VALUES (1342648927,   1,         16) /* ItemType - Creature */
      , (1342648927, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342648927, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342648927, 188,          1) /* HeritageGroup - Aluvian */
-     , (1342648927, 261,        795) /* CharacterTitleId */
+     , (1342648927, 261,        795) /* CharacterTitleId - MenderoftheRift */
      , (1342648927, 262,         97) /* NumCharacterTitles */
-     , (1342648927, 281,          4) /* Faction1Bits */
+     , (1342648927, 281,          4) /* Faction1Bits - RadiantBlood */
      , (1342648927, 289,       1001) /* SocietyRankRadblo */
      , (1342648927, 307,         17) /* DamageRating */
      , (1342648927, 308,         18) /* DamageResistRating */
@@ -64,9 +64,9 @@ VALUES (1342648927,   1,   33554433) /* Setup */
      , (1342648927, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1342648927, 1, 459043, 54.61999, -28.90676, 0.004999995, 0.6438844, 0, 0, 0.7651228) /* Location */
-/* @teleloc 0x00070123 [54.619990 -28.906760 0.005000] 0.643884 0.000000 0.000000 0.765123 */
-     , (1342648927, 8040, 459059, 60, -70, 0.004999995, 0.7071068, 0, 0, -0.7071068) /* PCAPRecordedLocation */
+VALUES (1342648927, 1, 459043, 54.619987, -28.906761, 0.004999995, 0.64388436, 0, 0, 0.76512283) /* Location */
+/* @teleloc 0x00070123 [54.619987 -28.906761 0.005000] 0.643884 0.000000 0.000000 0.765123 */
+     , (1342648927, 8040, 459059, 60, -70, 0.004999995, 0.70710677, 0, 0, -0.70710677) /* PCAPRecordedLocation */
 /* @teleloc 0x00070133 [60.000000 -70.000000 0.005000] 0.707107 0.000000 0.000000 -0.707107 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)

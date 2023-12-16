@@ -19,7 +19,7 @@ VALUES (1343485561,   1, True ) /* Stuck */
      , (1343485561,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343485561,  39, 1.29999995231628) /* DefaultScale */;
+VALUES (1343485561,  39, 1.2999999523162842) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343485561,   1, 'Decrovid') /* Name */;
@@ -36,8 +36,8 @@ VALUES (1343485561,   1,   33561112) /* Setup */
      , (1343485561, 8005,     104579) /* PCAPRecordedPhysicsDesc - CSetup, MTable, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343485561, 8040, 3332964380, 76.48577, 91.15902, 42.0065, 0.9403422, 0, 0, -0.3402302) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001C [76.485770 91.159020 42.006500] 0.940342 0.000000 0.000000 -0.340230 */;
+VALUES (1343485561, 8040, 3332964380, 76.48577, 91.15902, 42.0065, 0.9403422, 0, 0, -0.34023023) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A9001C [76.485771 91.159019 42.006500] 0.940342 0.000000 0.000000 -0.340230 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343485561, 8000, 1343485561) /* PCAPRecordedObjectIID */;

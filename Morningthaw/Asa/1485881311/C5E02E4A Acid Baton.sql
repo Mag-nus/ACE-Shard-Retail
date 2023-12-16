@@ -25,7 +25,7 @@ VALUES (3319803466,   1,      32768) /* ItemType - Caster */
      , (3319803466, 159,         34) /* WieldSkillType - WarMagic */
      , (3319803466, 160,        310) /* WieldDifficulty */
      , (3319803466, 171,          1) /* NumTimesTinkered */
-     , (3319803466, 172,          7) /* AppraisalLongDescDecoration */
+     , (3319803466, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3319803466, 177,          4) /* GemCount */
      , (3319803466, 178,         49) /* GemType */
      , (3319803466, 179,         64) /* ImbuedEffect - AcidRending */

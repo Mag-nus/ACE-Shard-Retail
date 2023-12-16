@@ -20,7 +20,7 @@ VALUES (1343256005,   1,         16) /* ItemType - Creature */
      , (1343256005, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343256005, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343256005, 188,          1) /* HeritageGroup - Aluvian */
-     , (1343256005, 261,         13) /* CharacterTitleId */
+     , (1343256005, 261,         13) /* CharacterTitleId - WarMage */
      , (1343256005, 307,          5) /* DamageRating */
      , (1343256005, 308,          0) /* DamageResistRating */
      , (1343256005, 312,          0) /* HealOverTime */

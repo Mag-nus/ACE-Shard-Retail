@@ -18,7 +18,7 @@ VALUES (2368871164,   1,          8) /* ItemType - Jewelry */
      , (2368871164, 110,          0) /* ItemAllegianceRankLimit */
      , (2368871164, 115,          0) /* ItemSkillLevelLimit */
      , (2368871164, 131,         37) /* MaterialType - RoseQuartz */
-     , (2368871164, 172,          7) /* AppraisalLongDescDecoration */
+     , (2368871164, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2368871164, 177,          1) /* GemCount */
      , (2368871164, 178,         40) /* GemType */
      , (2368871164, 9015,         35) /* InventoryOrder */;

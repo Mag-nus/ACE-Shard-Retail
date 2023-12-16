@@ -19,7 +19,7 @@ VALUES (1343184809,   1, True ) /* Stuck */
      , (1343184809,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343184809,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1343184809,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343184809,   1, 'Mike Hext the Legend') /* Name */;
@@ -36,10 +36,10 @@ VALUES (1343184809,   1,   33561110) /* Setup */
      , (1343184809, 8005,     104643) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343184809, 1, 19202311, 22.13143, -26.48363, 0.005999982, -0.7568807, 0, 0, 0.653553) /* Location */
-/* @teleloc 0x01250107 [22.131430 -26.483630 0.006000] -0.756881 0.000000 0.000000 0.653553 */
-     , (1343184809, 8040, 19202342, 30, -60, 6.006, 1, 0, 0, 0) /* PCAPRecordedLocation */
-/* @teleloc 0x01250126 [30.000000 -60.000000 6.006000] 1.000000 0.000000 0.000000 0.000000 */;
+VALUES (1343184809, 1, 19202311, 22.131426, -26.483633, 0.0059999824, -0.7568807, 0, 0, 0.653553) /* Location */
+/* @teleloc 0x01250107 [22.131426 -26.483633 0.006000] -0.756881 0.000000 0.000000 0.653553 */
+     , (1343184809, 8040, 19202342, 30, -60, 6.006, 1, 0, 0, -0) /* PCAPRecordedLocation */
+/* @teleloc 0x01250126 [30.000000 -60.000000 6.006000] 1.000000 0.000000 0.000000 -0.000000 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343184809,  26, 1342949386) /* Monarch */

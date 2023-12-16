@@ -30,9 +30,9 @@ VALUES (1343226628,   1,         16) /* ItemType - Creature */
      , (1343226628, 231,          3) /* AugmentationLessDeathItemLoss */
      , (1343226628, 232,          1) /* AugmentationSpellsRemainPastDeath */
      , (1343226628, 233,          1) /* AugmentationCriticalDefense */
-     , (1343226628, 261,        429) /* CharacterTitleId */
+     , (1343226628, 261,        429) /* CharacterTitleId - ChampionofDaemal */
      , (1343226628, 262,         24) /* NumCharacterTitles */
-     , (1343226628, 281,          4) /* Faction1Bits */
+     , (1343226628, 281,          4) /* Faction1Bits - RadiantBlood */
      , (1343226628, 289,          1) /* SocietyRankRadblo */
      , (1343226628, 301,          1) /* AugmentationSkilledMissile */
      , (1343226628, 302,          1) /* AugmentationSkilledMagic */

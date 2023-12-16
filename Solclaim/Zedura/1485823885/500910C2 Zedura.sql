@@ -38,8 +38,8 @@ VALUES (1342771394,   1,         16) /* ItemType - Creature */
      , (1342771394, 238,          5) /* AugmentationIncreasedSpellDuration */
      , (1342771394, 242,          1) /* AugmentationResistanceBlunt */
      , (1342771394, 244,          1) /* AugmentationResistanceFire */
-     , (1342771394, 261,         58) /* CharacterTitleId */
-     , (1342771394, 281,          1) /* Faction1Bits */
+     , (1342771394, 261,         58) /* CharacterTitleId - GardenerWeeder */
+     , (1342771394, 281,          1) /* Faction1Bits - CelestialHand */
      , (1342771394, 287,        601) /* SocietyRankCelhan */
      , (1342771394, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1342771394, 295,          1) /* AugmentationInfusedItemMagic */

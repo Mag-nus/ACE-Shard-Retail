@@ -23,7 +23,7 @@ VALUES (2369790277,   1,          1) /* ItemType - MeleeWeapon */
      , (2369790277, 159,         44) /* WieldSkillType - HeavyWeapons */
      , (2369790277, 160,        400) /* WieldDifficulty */
      , (2369790277, 171,          7) /* NumTimesTinkered */
-     , (2369790277, 172,          7) /* AppraisalLongDescDecoration */
+     , (2369790277, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2369790277, 177,          2) /* GemCount */
      , (2369790277, 178,         38) /* GemType */
      , (2369790277, 179,        256) /* ImbuedEffect - ElectricRending */

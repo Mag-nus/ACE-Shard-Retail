@@ -13,7 +13,7 @@ VALUES (2210529947,   1,        256) /* ItemType - MissileWeapon */
      , (2210529947,  48,         47) /* WeaponSkill - MissileWeapons */
      , (2210529947,  49,         92) /* WeaponTime */
      , (2210529947,  50,          2) /* AmmoType - Bolt */
-     , (2210529947,  51,          2) /* CombatUse - Missle */
+     , (2210529947,  51,          2) /* CombatUse - Missile */
      , (2210529947,  65,        101) /* Placement - Resting */
      , (2210529947,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2210529947, 105,          6) /* ItemWorkmanship */
@@ -30,8 +30,8 @@ VALUES (2210529947,   1,        256) /* ItemType - MissileWeapon */
      , (2210529947, 160,        375) /* WieldDifficulty */
      , (2210529947, 166,        101) /* SlayerCreatureType - Anekshay */
      , (2210529947, 171,         10) /* NumTimesTinkered */
-     , (2210529947, 172,          5) /* AppraisalLongDescDecoration */
-     , (2210529947, 176,         47) /* AppraisalItemSkill */
+     , (2210529947, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
+     , (2210529947, 176,         47) /* AppraisalItemSkill - MissileWeapons */
      , (2210529947, 177,          4) /* GemCount */
      , (2210529947, 178,         38) /* GemType */
      , (2210529947, 179,          4) /* ImbuedEffect - ArmorRending */

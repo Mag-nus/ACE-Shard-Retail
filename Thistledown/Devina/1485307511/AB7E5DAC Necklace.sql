@@ -12,7 +12,7 @@ VALUES (2877185452,   1,          8) /* ItemType - Jewelry */
      , (2877185452,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2877185452, 105,          3) /* ItemWorkmanship */
      , (2877185452, 131,         59) /* MaterialType - Copper */
-     , (2877185452, 172,          7) /* AppraisalLongDescDecoration */
+     , (2877185452, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2877185452, 177,          1) /* GemCount */
      , (2877185452, 178,         13) /* GemType */;
 

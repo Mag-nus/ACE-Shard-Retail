@@ -19,7 +19,7 @@ VALUES (1343489484,   1, True ) /* Stuck */
      , (1343489484,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343489484,  39, 1.29999995231628) /* DefaultScale */;
+VALUES (1343489484,  39, 1.2999999523162842) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343489484,   1, 'Sluringstrawberryrose I') /* Name */;
@@ -36,10 +36,10 @@ VALUES (1343489484,   1,   33561112) /* Setup */
      , (1343489484, 8005,     104643) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343489484, 1, 3332964371, 48.77745, 66.33945, 42.0065, 0.6616897, 0, 0, -0.7497778) /* Location */
-/* @teleloc 0xC6A90013 [48.777450 66.339450 42.006500] 0.661690 0.000000 0.000000 -0.749778 */
-     , (1343489484, 8040, 3332964371, 48.77745, 66.33945, 42.0065, 0.6616897, 0, 0, -0.7497778) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A90013 [48.777450 66.339450 42.006500] 0.661690 0.000000 0.000000 -0.749778 */;
+VALUES (1343489484, 1, 3332964371, 48.777454, 66.33945, 42.0065, 0.6616897, 0, 0, -0.7497778) /* Location */
+/* @teleloc 0xC6A90013 [48.777454 66.339447 42.006500] 0.661690 0.000000 0.000000 -0.749778 */
+     , (1343489484, 8040, 3332964371, 48.777454, 66.33945, 42.0065, 0.6616897, 0, 0, -0.7497778) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A90013 [48.777454 66.339447 42.006500] 0.661690 0.000000 0.000000 -0.749778 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343489484,  26, 1343358373) /* Monarch */

@@ -19,7 +19,7 @@ VALUES (2923096122,   1,          4) /* ItemType - Clothing */
      , (2923096122, 158,          7) /* WieldRequirements - Level */
      , (2923096122, 159,          1) /* WieldSkillType - Axe */
      , (2923096122, 160,         90) /* WieldDifficulty */
-     , (2923096122, 172,          1) /* AppraisalLongDescDecoration */
+     , (2923096122, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (2923096122, 265,         68) /* EquipmentSetId - CloakMagicDefense */
      , (2923096122, 319,          3) /* ItemMaxLevel */
      , (2923096122, 320,          2) /* ItemXpStyle - ScalesWithLevel */

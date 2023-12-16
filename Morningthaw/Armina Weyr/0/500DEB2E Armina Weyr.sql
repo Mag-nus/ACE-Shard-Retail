@@ -14,8 +14,8 @@ VALUES (1343089454,   1,         16) /* ItemType - Creature */
      , (1343089454, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343089454, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343089454, 188,          3) /* HeritageGroup - Sho */
-     , (1343089454, 261,        878) /* CharacterTitleId */
-     , (1343089454, 281,          1) /* Faction1Bits */
+     , (1343089454, 261,        878) /* CharacterTitleId - GauntletChampion */
+     , (1343089454, 281,          1) /* Faction1Bits - CelestialHand */
      , (1343089454, 287,       1001) /* SocietyRankCelhan */
      , (1343089454, 307,         10) /* DamageRating */
      , (1343089454, 308,          9) /* DamageResistRating */
@@ -60,8 +60,8 @@ VALUES (1343089454,   1,   33554510) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343089454, 1, 459077, 70, -80, 0.004999995, 1, 0, 0, 0) /* Location */
 /* @teleloc 0x00070145 [70.000000 -80.000000 0.005000] 1.000000 0.000000 0.000000 0.000000 */
-     , (1343089454, 8040, 35389715, 16.75583, -26.74183, -5.995, 0.4288593, 0, 0, -0.9033713) /* PCAPRecordedLocation */
-/* @teleloc 0x021C0113 [16.755830 -26.741830 -5.995000] 0.428859 0.000000 0.000000 -0.903371 */;
+     , (1343089454, 8040, 35389715, 16.755825, -26.741825, -5.995, 0.42885926, 0, 0, -0.90337133) /* PCAPRecordedLocation */
+/* @teleloc 0x021C0113 [16.755825 -26.741825 -5.995000] 0.428859 0.000000 0.000000 -0.903371 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343089454,  26, 1343082018) /* Monarch */

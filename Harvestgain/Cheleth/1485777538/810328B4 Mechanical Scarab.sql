@@ -18,7 +18,7 @@ VALUES (2164467892,   1,          8) /* ItemType - Jewelry */
      , (2164467892, 110,          0) /* ItemAllegianceRankLimit */
      , (2164467892, 115,          0) /* ItemSkillLevelLimit */
      , (2164467892, 131,         51) /* MaterialType - Ivory */
-     , (2164467892, 172,          5) /* AppraisalLongDescDecoration */
+     , (2164467892, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2164467892, 177,          1) /* GemCount */
      , (2164467892, 178,         15) /* GemType */
      , (2164467892, 9015,          6) /* InventoryOrder */;

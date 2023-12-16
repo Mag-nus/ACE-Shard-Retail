@@ -21,8 +21,8 @@ VALUES (3584893464,   1,          2) /* ItemType - Armor */
      , (3584893464, 110,          0) /* ItemAllegianceRankLimit */
      , (3584893464, 115,        288) /* ItemSkillLevelLimit */
      , (3584893464, 131,         57) /* MaterialType - Brass */
-     , (3584893464, 172,          5) /* AppraisalLongDescDecoration */
-     , (3584893464, 176,          6) /* AppraisalItemSkill */
+     , (3584893464, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
+     , (3584893464, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (3584893464, 177,          1) /* GemCount */
      , (3584893464, 178,         18) /* GemType */;
 

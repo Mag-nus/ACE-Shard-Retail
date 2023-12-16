@@ -33,7 +33,7 @@ VALUES (1342826683,   1,         16) /* ItemType - Creature */
      , (1342826683, 230,          5) /* AugmentationIncreasedCarryingCapacity */
      , (1342826683, 233,          1) /* AugmentationCriticalDefense */
      , (1342826683, 238,          5) /* AugmentationIncreasedSpellDuration */
-     , (1342826683, 261,         34) /* CharacterTitleId */
+     , (1342826683, 261,         34) /* CharacterTitleId - ChampionofDereth */
      , (1342826683, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1342826683, 295,          1) /* AugmentationInfusedItemMagic */
      , (1342826683, 296,          1) /* AugmentationInfusedLifeMagic */

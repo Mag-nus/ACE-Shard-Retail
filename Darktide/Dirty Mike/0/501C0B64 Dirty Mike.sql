@@ -16,9 +16,9 @@ VALUES (1344015204,   1,         16) /* ItemType - Creature */
      , (1344015204, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1344015204, 134,          4) /* PlayerKillerStatus - PK */
      , (1344015204, 188,          1) /* HeritageGroup - Aluvian */
-     , (1344015204, 261,          1) /* CharacterTitleId */
+     , (1344015204, 261,          1) /* CharacterTitleId - Adventurer */
      , (1344015204, 262,         60) /* NumCharacterTitles */
-     , (1344015204, 281,          2) /* Faction1Bits */
+     , (1344015204, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1344015204, 288,        485) /* SocietyRankEldweb */
      , (1344015204, 307,         36) /* DamageRating */
      , (1344015204, 308,         24) /* DamageResistRating */
@@ -40,9 +40,9 @@ VALUES (1344015204,   1, True ) /* Stuck */
      , (1344015204,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1344015204, 8010, -7.86895132064819) /* PCAPRecordedVelocityX */
-     , (1344015204, 8011, 9.53421974182129) /* PCAPRecordedVelocityY */
-     , (1344015204, 8012, 7.50482225418091) /* PCAPRecordedVelocityZ */;
+VALUES (1344015204, 8010, -7.868951320648193) /* PCAPRecordedVelocityX */
+     , (1344015204, 8011, 9.534219741821289) /* PCAPRecordedVelocityY */
+     , (1344015204, 8012, 7.504822254180908) /* PCAPRecordedVelocityZ */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1344015204,   1, 'Dirty Mike') /* Name */
@@ -70,9 +70,9 @@ VALUES (1344015204,   1,   33554433) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1344015204, 1, 2046820958, 157.984, -110, 0.01, 0.707107, 0, 0, 0.707107) /* Location */
-/* @teleloc 0x7A00025E [157.984000 -110.000000 0.010000] 0.707107 0.000000 0.000000 0.707107 */
-     , (1344015204, 8040, 3332964385, 119.7929, 23.96612, 65.06064, 0.9410753, 0, 0, 0.3381971) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A90021 [119.792900 23.966120 65.060640] 0.941075 0.000000 0.000000 0.338197 */;
+/* @teleloc 0x7A00025E [157.983994 -110.000000 0.010000] 0.707107 0.000000 0.000000 0.707107 */
+     , (1344015204, 8040, 3332964385, 119.79292, 23.966122, 65.06064, 0.94107527, 0, 0, 0.33819714) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A90021 [119.792923 23.966122 65.060638] 0.941075 0.000000 0.000000 0.338197 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1344015204,  26, 1343917496) /* Monarch */

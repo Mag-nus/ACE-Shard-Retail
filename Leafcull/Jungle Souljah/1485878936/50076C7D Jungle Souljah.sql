@@ -28,8 +28,8 @@ VALUES (1342663805,   1,         16) /* ItemType - Creature */
      , (1342663805, 192,         12) /* FakeFishingSkill */
      , (1342663805, 199,          0) /* HousePurchaseTimestamp */
      , (1342663805, 219,          1) /* AugmentationInnateEndurance */
-     , (1342663805, 261,         31) /* CharacterTitleId */
-     , (1342663805, 281,          1) /* Faction1Bits */
+     , (1342663805, 261,         31) /* CharacterTitleId - BunnyMaster */
+     , (1342663805, 281,          1) /* Faction1Bits - CelestialHand */
      , (1342663805, 287,        945) /* SocietyRankCelhan */
      , (1342663805, 296,          1) /* AugmentationInfusedLifeMagic */
      , (1342663805, 300,          1) /* AugmentationSkilledMelee */

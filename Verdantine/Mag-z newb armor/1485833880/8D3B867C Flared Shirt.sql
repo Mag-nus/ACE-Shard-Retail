@@ -23,7 +23,7 @@ VALUES (2369488508,   1,          4) /* ItemType - Clothing */
      , (2369488508, 158,          7) /* WieldRequirements - Level */
      , (2369488508, 159,          1) /* WieldSkillType - Axe */
      , (2369488508, 160,        150) /* WieldDifficulty */
-     , (2369488508, 172,          7) /* AppraisalLongDescDecoration */
+     , (2369488508, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2369488508, 177,          3) /* GemCount */
      , (2369488508, 178,         16) /* GemType */
      , (2369488508, 9015,         55) /* InventoryOrder */;

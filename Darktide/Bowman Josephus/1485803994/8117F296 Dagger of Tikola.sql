@@ -23,7 +23,7 @@ VALUES (2165830294,   1,          1) /* ItemType - MeleeWeapon */
      , (2165830294, 114,          1) /* Attuned - Attuned */
      , (2165830294, 115,        125) /* ItemSkillLevelLimit */
      , (2165830294, 151,          2) /* HookType - Wall */
-     , (2165830294, 176,         45) /* AppraisalItemSkill */
+     , (2165830294, 176,         45) /* AppraisalItemSkill - LightWeapons */
      , (2165830294, 353,          6) /* WeaponType - Dagger */
      , (2165830294, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (2165830294, 9015,          0) /* InventoryOrder */;

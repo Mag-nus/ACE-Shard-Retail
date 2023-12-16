@@ -28,8 +28,8 @@ VALUES (2452927022,   1,          1) /* ItemType - MeleeWeapon */
      , (2452927022, 158,          2) /* WieldRequirements - RawSkill */
      , (2452927022, 159,         46) /* WieldSkillType - FinesseWeapons */
      , (2452927022, 160,        400) /* WieldDifficulty */
-     , (2452927022, 172,          5) /* AppraisalLongDescDecoration */
-     , (2452927022, 176,         46) /* AppraisalItemSkill */
+     , (2452927022, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
+     , (2452927022, 176,         46) /* AppraisalItemSkill - FinesseWeapons */
      , (2452927022, 177,          3) /* GemCount */
      , (2452927022, 178,         33) /* GemType */
      , (2452927022, 353,          3) /* WeaponType - Axe */

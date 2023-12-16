@@ -26,7 +26,7 @@ VALUES (1343270995,   1,         16) /* ItemType - Creature */
      , (1343270995, 188,          4) /* HeritageGroup - Viamontian */
      , (1343270995, 199, 1430093218) /* HousePurchaseTimestamp */
      , (1343270995, 232,          1) /* AugmentationSpellsRemainPastDeath */
-     , (1343270995, 261,        670) /* CharacterTitleId */
+     , (1343270995, 261,        670) /* CharacterTitleId - BurningSoul */
      , (1343270995, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1343270995, 307,          0) /* DamageRating */
      , (1343270995, 308,          0) /* DamageResistRating */

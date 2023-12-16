@@ -25,7 +25,7 @@ VALUES (1343123964,   1,         16) /* ItemType - Creature */
      , (1343123964, 139,        110) /* DeathLevel */
      , (1343123964, 188,          1) /* HeritageGroup - Aluvian */
      , (1343123964, 199, 1426969639) /* HousePurchaseTimestamp */
-     , (1343123964, 261,        112) /* CharacterTitleId */
+     , (1343123964, 261,        112) /* CharacterTitleId - RedFury */
      , (1343123964, 307,          0) /* DamageRating */
      , (1343123964, 308,          0) /* DamageResistRating */
      , (1343123964, 312,          0) /* HealOverTime */

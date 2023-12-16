@@ -20,7 +20,7 @@ VALUES (1343220613,   1,         16) /* ItemType - Creature */
      , (1343220613, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343220613, 188,          5) /* HeritageGroup - Shadowbound */
      , (1343220613, 199, 1411923548) /* HousePurchaseTimestamp */
-     , (1343220613, 261,          1) /* CharacterTitleId */
+     , (1343220613, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343220613, 298,          1) /* AugmentationCriticalExpertise */
      , (1343220613, 307,          0) /* DamageRating */
      , (1343220613, 308,          0) /* DamageResistRating */

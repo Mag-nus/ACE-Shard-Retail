@@ -10,7 +10,7 @@ VALUES (2207306818,   1,        256) /* ItemType - MissileWeapon */
      , (2207306818,  18,        257) /* UiEffects - Magical, Acid */
      , (2207306818,  19,      16816) /* Value */
      , (2207306818,  50,          2) /* AmmoType - Bolt */
-     , (2207306818,  51,          2) /* CombatUse - Missle */
+     , (2207306818,  51,          2) /* CombatUse - Missile */
      , (2207306818,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2207306818, 131,         21) /* MaterialType - Emerald */
      , (2207306818, 151,          2) /* HookType - Wall */;

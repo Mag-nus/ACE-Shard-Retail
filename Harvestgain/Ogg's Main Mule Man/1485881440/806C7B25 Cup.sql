@@ -7,7 +7,7 @@ VALUES (2154593061,   1,        256) /* ItemType - MissileWeapon */
      , (2154593061,   9,    4194304) /* ValidLocations - MissileWeapon */
      , (2154593061,  16,          1) /* ItemUseable - No */
      , (2154593061,  19,        285) /* Value */
-     , (2154593061,  51,          2) /* CombatUse - Missle */
+     , (2154593061,  51,          2) /* CombatUse - Missile */
      , (2154593061,  65,        101) /* Placement - Resting */
      , (2154593061,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (2154593061, 131,         71) /* MaterialType - Serpentine */

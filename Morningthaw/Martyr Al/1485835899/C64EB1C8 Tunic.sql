@@ -20,7 +20,7 @@ VALUES (3327046088,   1,          4) /* ItemType - Clothing */
      , (3327046088, 110,          0) /* ItemAllegianceRankLimit */
      , (3327046088, 115,          0) /* ItemSkillLevelLimit */
      , (3327046088, 131,          6) /* MaterialType - Silk */
-     , (3327046088, 172,          7) /* AppraisalLongDescDecoration */
+     , (3327046088, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3327046088, 177,          3) /* GemCount */
      , (3327046088, 178,         39) /* GemType */
      , (3327046088, 188,          3) /* HeritageGroup - Sho */

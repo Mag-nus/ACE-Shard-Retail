@@ -3,13 +3,13 @@ VALUES (2619674021, 166, 21, 6472001) /* Container */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (2619674021,   1,        512) /* ItemType - Container */
-     , (2619674021,   5,         15) /* EncumbranceVal */
+     , (2619674021,   5,         26) /* EncumbranceVal */
      , (2619674021,   6,         24) /* ItemsCapacity */
      , (2619674021,  16,         56) /* ItemUseable - ContainedViewedRemote */
      , (2619674021,  19,         65) /* Value */
      , (2619674021,  65,        101) /* Placement - Resting */
      , (2619674021,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
-     , (2619674021, 9015,         33) /* InventoryOrder */;
+     , (2619674021, 9015,         45) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (2619674021,   1, False) /* Stuck */

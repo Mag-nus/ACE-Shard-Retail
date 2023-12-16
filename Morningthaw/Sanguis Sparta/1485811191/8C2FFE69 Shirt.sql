@@ -21,7 +21,7 @@ VALUES (2351955561,   1,          4) /* ItemType - Clothing */
      , (2351955561, 110,          0) /* ItemAllegianceRankLimit */
      , (2351955561, 115,          0) /* ItemSkillLevelLimit */
      , (2351955561, 131,          7) /* MaterialType - Velvet */
-     , (2351955561, 172,          7) /* AppraisalLongDescDecoration */
+     , (2351955561, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2351955561, 177,          3) /* GemCount */
      , (2351955561, 178,         21) /* GemType */
      , (2351955561, 188,          3) /* HeritageGroup - Sho */;

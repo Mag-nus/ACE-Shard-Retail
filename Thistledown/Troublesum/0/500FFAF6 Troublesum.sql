@@ -14,7 +14,7 @@ VALUES (1343224566,   1,         16) /* ItemType - Creature */
      , (1343224566, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343224566, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343224566, 188,          2) /* HeritageGroup - Gharundim */
-     , (1343224566, 261,        646) /* CharacterTitleId */
+     , (1343224566, 261,        646) /* CharacterTitleId - DerethsElite */
      , (1343224566, 390,          0) /* Enlightenment */
      , (1343224566, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 

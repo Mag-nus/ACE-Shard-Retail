@@ -18,7 +18,7 @@ VALUES (2164388285,   1,          8) /* ItemType - Jewelry */
      , (2164388285, 110,          0) /* ItemAllegianceRankLimit */
      , (2164388285, 115,          0) /* ItemSkillLevelLimit */
      , (2164388285, 131,         47) /* MaterialType - WhiteSapphire */
-     , (2164388285, 172,          5) /* AppraisalLongDescDecoration */
+     , (2164388285, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2164388285, 177,          2) /* GemCount */
      , (2164388285, 178,         26) /* GemType */
      , (2164388285, 9015,         25) /* InventoryOrder */;

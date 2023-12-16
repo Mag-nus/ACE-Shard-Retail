@@ -8,7 +8,7 @@ VALUES (3331387219,   1,        256) /* ItemType - MissileWeapon */
      , (3331387219,  16,          1) /* ItemUseable - No */
      , (3331387219,  19,       4000) /* Value */
      , (3331387219,  50,        128) /* AmmoType - BoltChorizite */
-     , (3331387219,  51,          2) /* CombatUse - Missle */
+     , (3331387219,  51,          2) /* CombatUse - Missile */
      , (3331387219,  65,        101) /* Placement - Resting */
      , (3331387219,  93,       3092) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, LightingOn */
      , (3331387219, 151,          2) /* HookType - Wall */

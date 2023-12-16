@@ -21,7 +21,7 @@ VALUES (2158100545,   1,      32768) /* ItemType - Caster */
      , (2158100545, 131,         63) /* MaterialType - Silver */
      , (2158100545, 151,          2) /* HookType - Wall */
      , (2158100545, 171,          4) /* NumTimesTinkered */
-     , (2158100545, 172,          7) /* AppraisalLongDescDecoration */
+     , (2158100545, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2158100545, 177,          6) /* GemCount */
      , (2158100545, 178,         38) /* GemType */
      , (2158100545, 179,         32) /* ImbuedEffect - BludgeonRending */

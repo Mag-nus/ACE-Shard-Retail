@@ -17,7 +17,7 @@ VALUES (1343206889,   1,         16) /* ItemType - Creature */
      , (1343206889, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343206889, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343206889, 188,          3) /* HeritageGroup - Sho */
-     , (1343206889, 261,         12) /* CharacterTitleId */
+     , (1343206889, 261,         12) /* CharacterTitleId - Swashbuckler */
      , (1343206889, 307,          5) /* DamageRating */
      , (1343206889, 308,          0) /* DamageResistRating */
      , (1343206889, 312,          0) /* HealOverTime */

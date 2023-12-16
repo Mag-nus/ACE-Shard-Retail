@@ -26,7 +26,7 @@ VALUES (1343220631,   1,         16) /* ItemType - Creature */
      , (1343220631, 181,       1300) /* ChessRank */
      , (1343220631, 188,          1) /* HeritageGroup - Aluvian */
      , (1343220631, 199, 1411923548) /* HousePurchaseTimestamp */
-     , (1343220631, 261,         33) /* CharacterTitleId */
+     , (1343220631, 261,         33) /* CharacterTitleId - ChainBreaker */
      , (1343220631, 307,          0) /* DamageRating */
      , (1343220631, 308,          0) /* DamageResistRating */
      , (1343220631, 312,          0) /* HealOverTime */

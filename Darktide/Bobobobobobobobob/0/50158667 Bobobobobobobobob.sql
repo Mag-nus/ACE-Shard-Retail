@@ -14,8 +14,8 @@ VALUES (1343587943,   1,         16) /* ItemType - Creature */
      , (1343587943, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343587943, 134,          4) /* PlayerKillerStatus - PK */
      , (1343587943, 188,          3) /* HeritageGroup - Sho */
-     , (1343587943, 261,        146) /* CharacterTitleId */
-     , (1343587943, 281,          2) /* Faction1Bits */
+     , (1343587943, 261,        146) /* CharacterTitleId - UnarmedBrawler */
+     , (1343587943, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1343587943, 288,          1) /* SocietyRankEldweb */
      , (1343587943, 307,          9) /* DamageRating */
      , (1343587943, 308,          4) /* DamageResistRating */
@@ -52,10 +52,10 @@ VALUES (1343587943,   1,   33554433) /* Setup */
      , (1343587943, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343587943, 1, 3316252673, 4.92819, 0.0005950928, 60.00505, 0.7662802, 0, 0, 0.6425065) /* Location */
-/* @teleloc 0xC5AA0001 [4.928190 0.000595 60.005050] 0.766280 0.000000 0.000000 0.642507 */
-     , (1343587943, 8040, 3332964394, 133.3, 32.3, 42.005, 0.9890159, 0, 0, -0.1478094) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9002A [133.300000 32.300000 42.005000] 0.989016 0.000000 0.000000 -0.147809 */;
+VALUES (1343587943, 1, 3316252673, 4.92819, 0.0005950928, 60.00505, 0.76628023, 0, 0, 0.6425065) /* Location */
+/* @teleloc 0xC5AA0001 [4.928190 0.000595 60.005051] 0.766280 0.000000 0.000000 0.642506 */
+     , (1343587943, 8040, 3332964394, 133.3, 32.3, 42.005, 0.9890159, 0, 0, -0.14780937) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A9002A [133.300003 32.299999 42.005001] 0.989016 0.000000 0.000000 -0.147809 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343587943, 8000, 1343587943) /* PCAPRecordedObjectIID */;

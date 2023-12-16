@@ -36,7 +36,7 @@ INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell
 VALUES (1343141240, 1, 459075, 70, -60, 0.01, 1, 0, 0, -1) /* Location */
 /* @teleloc 0x00070143 [70.000000 -60.000000 0.010000] 1.000000 0.000000 0.000000 -1.000000 */
      , (1343141240, 8040, 3332964361, 46.805, 4.219, 42.005, 1, 0, 0, 0) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A90009 [46.805000 4.219000 42.005000] 1.000000 0.000000 0.000000 0.000000 */;
+/* @teleloc 0xC6A90009 [46.805000 4.219000 42.005001] 1.000000 0.000000 0.000000 0.000000 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343141240,  26, 1343273604) /* Monarch */

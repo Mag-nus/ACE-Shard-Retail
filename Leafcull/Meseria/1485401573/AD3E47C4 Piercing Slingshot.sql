@@ -9,7 +9,7 @@ VALUES (2906539972,   1,        256) /* ItemType - MissileWeapon */
      , (2906539972,  18,       2049) /* UiEffects - Magical, Piercing */
      , (2906539972,  19,       6120) /* Value */
      , (2906539972,  50,          4) /* AmmoType - Atlatl */
-     , (2906539972,  51,          2) /* CombatUse - Missle */
+     , (2906539972,  51,          2) /* CombatUse - Missile */
      , (2906539972,  65,        101) /* Placement - Resting */
      , (2906539972,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2906539972, 131,         74) /* MaterialType - Mahogany */

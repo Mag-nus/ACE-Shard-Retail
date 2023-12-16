@@ -16,8 +16,8 @@ VALUES (1342683965,   1,         16) /* ItemType - Creature */
      , (1342683965, 134,         64) /* PlayerKillerStatus - PKLite */
      , (1342683965, 188,          2) /* HeritageGroup - Gharundim */
      , (1342683965, 192,        700) /* FakeFishingSkill */
-     , (1342683965, 261,        853) /* CharacterTitleId */
-     , (1342683965, 281,          2) /* Faction1Bits */
+     , (1342683965, 261,        853) /* CharacterTitleId - Doomsayer */
+     , (1342683965, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1342683965, 288,       1001) /* SocietyRankEldweb */
      , (1342683965, 307,         23) /* DamageRating */
      , (1342683965, 308,         20) /* DamageResistRating */
@@ -62,9 +62,9 @@ VALUES (1342683965,   1,   33554433) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1342683965, 1, 3111190574, 127, 127, 16.005, 1, 0, 0, 0) /* Location */
-/* @teleloc 0xB971002E [127.000000 127.000000 16.005000] 1.000000 0.000000 0.000000 0.000000 */
-     , (1342683965, 8040, 3111059485, 82.96999, 104.8797, 18.35445, 0.8789735, 0, 0, -0.4768707) /* PCAPRecordedLocation */
-/* @teleloc 0xB96F001D [82.969990 104.879700 18.354450] 0.878974 0.000000 0.000000 -0.476871 */;
+/* @teleloc 0xB971002E [127.000000 127.000000 16.004999] 1.000000 0.000000 0.000000 0.000000 */
+     , (1342683965, 8040, 3111059485, 82.969986, 104.8797, 18.354448, 0.8789735, 0, 0, -0.47687066) /* PCAPRecordedLocation */
+/* @teleloc 0xB96F001D [82.969986 104.879700 18.354448] 0.878973 0.000000 0.000000 -0.476871 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342683965,  26, 1342205575) /* Monarch */

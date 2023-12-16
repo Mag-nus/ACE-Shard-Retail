@@ -14,7 +14,7 @@ VALUES (1343201630,   1,         16) /* ItemType - Creature */
      , (1343201630, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343201630, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343201630, 188,          8) /* HeritageGroup - Lugian */
-     , (1343201630, 261,          1) /* CharacterTitleId */
+     , (1343201630, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343201630, 307,          5) /* DamageRating */
      , (1343201630, 390,          0) /* Enlightenment */
      , (1343201630, 8007,          1) /* PCAPRecordedAutonomousMovement */;
@@ -28,7 +28,7 @@ VALUES (1343201630,   1, True ) /* Stuck */
      , (1343201630,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343201630,  39, 1.29999995231628) /* DefaultScale */;
+VALUES (1343201630,  39, 1.2999999523162842) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343201630,   1, 'Legendary Larry') /* Name */
@@ -54,8 +54,8 @@ VALUES (1343201630,   1,   33561112) /* Setup */
      , (1343201630, 8005,     104643) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343201630, 1, 3332964380, 84.06712, 80.60048, 42.0065, 0.1254441, 0, 0, -0.9921007) /* Location */
-/* @teleloc 0xC6A9001C [84.067120 80.600480 42.006500] 0.125444 0.000000 0.000000 -0.992101 */
+VALUES (1343201630, 1, 3332964380, 84.067116, 80.60048, 42.0065, 0.12544405, 0, 0, -0.9921007) /* Location */
+/* @teleloc 0xC6A9001C [84.067116 80.600479 42.006500] 0.125444 0.000000 0.000000 -0.992101 */
      , (1343201630, 8040, 3332964361, 46.805, 4.219, 42.0065, 1, 0, 0, 0) /* PCAPRecordedLocation */
 /* @teleloc 0xC6A90009 [46.805000 4.219000 42.006500] 1.000000 0.000000 0.000000 0.000000 */;
 

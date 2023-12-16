@@ -21,7 +21,7 @@ VALUES (3333411839,   1,          2) /* ItemType - Armor */
      , (3333411839, 115,          0) /* ItemSkillLevelLimit */
      , (3333411839, 131,         59) /* MaterialType - Copper */
      , (3333411839, 151,          2) /* HookType - Wall */
-     , (3333411839, 172,          5) /* AppraisalLongDescDecoration */
+     , (3333411839, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (3333411839, 177,          3) /* GemCount */
      , (3333411839, 178,         21) /* GemType */
      , (3333411839, 9015,          0) /* InventoryOrder */;

@@ -16,7 +16,7 @@ VALUES (3231369800,   1,          2) /* ItemType - Armor */
      , (3231369800, 131,         61) /* MaterialType - Iron */
      , (3231369800, 151,          2) /* HookType - Wall */
      , (3231369800, 171,         10) /* NumTimesTinkered */
-     , (3231369800, 172,          7) /* AppraisalLongDescDecoration */
+     , (3231369800, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3231369800, 177,          2) /* GemCount */
      , (3231369800, 178,         20) /* GemType */
      , (3231369800, 179,       1024) /* ImbuedEffect - MeleeDefense */;

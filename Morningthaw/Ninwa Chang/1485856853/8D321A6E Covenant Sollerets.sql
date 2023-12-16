@@ -24,7 +24,7 @@ VALUES (2368871022,   1,          2) /* ItemType - Armor */
      , (2368871022, 158,          2) /* WieldRequirements - RawSkill */
      , (2368871022, 159,          7) /* WieldSkillType - MissileDefense */
      , (2368871022, 160,        270) /* WieldDifficulty */
-     , (2368871022, 172,          3) /* AppraisalLongDescDecoration */
+     , (2368871022, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2368871022, 188,          1) /* HeritageGroup - Aluvian */
      , (2368871022, 9015,         21) /* InventoryOrder */;
 

@@ -25,8 +25,8 @@ VALUES (2166168319,   1,          1) /* ItemType - MeleeWeapon */
      , (2166168319, 115,        202) /* ItemSkillLevelLimit */
      , (2166168319, 131,         75) /* MaterialType - Oak */
      , (2166168319, 151,          2) /* HookType - Wall */
-     , (2166168319, 172,          1) /* AppraisalLongDescDecoration */
-     , (2166168319, 176,         44) /* AppraisalItemSkill */
+     , (2166168319, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (2166168319, 176,         44) /* AppraisalItemSkill - HeavyWeapons */
      , (2166168319, 353,          5) /* WeaponType - Spear */
      , (2166168319, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (2166168319, 9015,          8) /* InventoryOrder */;

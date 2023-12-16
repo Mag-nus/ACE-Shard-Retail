@@ -26,7 +26,7 @@ VALUES (2856129858,   1,          1) /* ItemType - MeleeWeapon */
      , (2856129858, 115,        112) /* ItemSkillLevelLimit */
      , (2856129858, 131,         21) /* MaterialType - Emerald */
      , (2856129858, 151,          2) /* HookType - Wall */
-     , (2856129858, 176,         44) /* AppraisalItemSkill */
+     , (2856129858, 176,         44) /* AppraisalItemSkill - HeavyWeapons */
      , (2856129858, 353,          2) /* WeaponType - Sword */
      , (2856129858, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */;
 

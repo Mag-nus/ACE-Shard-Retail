@@ -13,7 +13,7 @@ VALUES (2157267483,   1,        256) /* ItemType - MissileWeapon */
      , (2157267483,  48,         47) /* WeaponSkill - MissileWeapons */
      , (2157267483,  49,         54) /* WeaponTime */
      , (2157267483,  50,          2) /* AmmoType - Bolt */
-     , (2157267483,  51,          2) /* CombatUse - Missle */
+     , (2157267483,  51,          2) /* CombatUse - Missile */
      , (2157267483,  65,        101) /* Placement - Resting */
      , (2157267483,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2157267483, 105,          4) /* ItemWorkmanship */
@@ -29,8 +29,8 @@ VALUES (2157267483,   1,        256) /* ItemType - MissileWeapon */
      , (2157267483, 159,         47) /* WieldSkillType - MissileWeapons */
      , (2157267483, 160,        290) /* WieldDifficulty */
      , (2157267483, 171,          5) /* NumTimesTinkered */
-     , (2157267483, 172,          3) /* AppraisalLongDescDecoration */
-     , (2157267483, 176,         47) /* AppraisalItemSkill */
+     , (2157267483, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (2157267483, 176,         47) /* AppraisalItemSkill - MissileWeapons */
      , (2157267483, 179,        512) /* ImbuedEffect - FireRending */
      , (2157267483, 353,          9) /* WeaponType - Crossbow */
      , (2157267483, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */

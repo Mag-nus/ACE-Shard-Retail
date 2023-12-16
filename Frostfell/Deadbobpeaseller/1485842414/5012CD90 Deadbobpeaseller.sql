@@ -23,7 +23,7 @@ VALUES (1343409552,   1,         16) /* ItemType - Creature */
      , (1343409552, 188,         11) /* HeritageGroup - Undead */
      , (1343409552, 199, 1460084209) /* HousePurchaseTimestamp */
      , (1343409552, 233,          1) /* AugmentationCriticalDefense */
-     , (1343409552, 261,          1) /* CharacterTitleId */
+     , (1343409552, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343409552, 307,          0) /* DamageRating */
      , (1343409552, 308,          0) /* DamageResistRating */
      , (1343409552, 312,          0) /* HealOverTime */

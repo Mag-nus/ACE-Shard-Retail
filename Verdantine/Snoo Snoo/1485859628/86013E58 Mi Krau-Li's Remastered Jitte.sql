@@ -26,7 +26,7 @@ VALUES (2248228440,   1,          1) /* ItemType - MeleeWeapon */
      , (2248228440, 158,          2) /* WieldRequirements - RawSkill */
      , (2248228440, 159,         46) /* WieldSkillType - FinesseWeapons */
      , (2248228440, 160,        300) /* WieldDifficulty */
-     , (2248228440, 263,          4) /* ResistanceModifierType */
+     , (2248228440, 263,          4) /* ResistanceModifierType - Bludgeon */
      , (2248228440, 353,          4) /* WeaponType - Mace */
      , (2248228440, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */;
 

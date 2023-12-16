@@ -13,7 +13,7 @@ VALUES (3668514044,   1,        256) /* ItemType - MissileWeapon */
      , (3668514044,  48,         47) /* WeaponSkill - MissileWeapons */
      , (3668514044,  49,         36) /* WeaponTime */
      , (3668514044,  50,          1) /* AmmoType - Arrow */
-     , (3668514044,  51,          2) /* CombatUse - Missle */
+     , (3668514044,  51,          2) /* CombatUse - Missile */
      , (3668514044,  65,        101) /* Placement - Resting */
      , (3668514044,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3668514044, 105,          6) /* ItemWorkmanship */
@@ -28,8 +28,8 @@ VALUES (3668514044,   1,        256) /* ItemType - MissileWeapon */
      , (3668514044, 158,          2) /* WieldRequirements - RawSkill */
      , (3668514044, 159,         47) /* WieldSkillType - MissileWeapons */
      , (3668514044, 160,        315) /* WieldDifficulty */
-     , (3668514044, 172,          3) /* AppraisalLongDescDecoration */
-     , (3668514044, 176,         47) /* AppraisalItemSkill */
+     , (3668514044, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (3668514044, 176,         47) /* AppraisalItemSkill - MissileWeapons */
      , (3668514044, 188,          4) /* HeritageGroup - Viamontian */
      , (3668514044, 204,          2) /* ElementalDamageBonus */
      , (3668514044, 353,          8) /* WeaponType - Bow */

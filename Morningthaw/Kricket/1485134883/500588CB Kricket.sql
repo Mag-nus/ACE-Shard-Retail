@@ -27,7 +27,7 @@ VALUES (1342539979,   1,         16) /* ItemType - Creature */
      , (1342539979, 192,         20) /* FakeFishingSkill */
      , (1342539979, 199, 1103271546) /* HousePurchaseTimestamp */
      , (1342539979, 238,          5) /* AugmentationIncreasedSpellDuration */
-     , (1342539979, 261,        567) /* CharacterTitleId */
+     , (1342539979, 261,        567) /* CharacterTitleId - Xenophobic */
      , (1342539979, 307,          0) /* DamageRating */
      , (1342539979, 308,          0) /* DamageResistRating */
      , (1342539979, 312,          0) /* HealOverTime */

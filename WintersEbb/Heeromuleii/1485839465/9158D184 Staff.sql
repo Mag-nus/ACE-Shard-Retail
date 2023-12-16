@@ -20,7 +20,7 @@ VALUES (2438517124,   1,      32768) /* ItemType - Caster */
      , (2438517124, 115,          0) /* ItemSkillLevelLimit */
      , (2438517124, 131,         41) /* MaterialType - Sunstone */
      , (2438517124, 151,          2) /* HookType - Wall */
-     , (2438517124, 172,          7) /* AppraisalLongDescDecoration */
+     , (2438517124, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2438517124, 177,          4) /* GemCount */
      , (2438517124, 178,         16) /* GemType */
      , (2438517124, 188,          1) /* HeritageGroup - Aluvian */

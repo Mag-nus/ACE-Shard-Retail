@@ -25,8 +25,8 @@ VALUES (3358902487,   1,          1) /* ItemType - MeleeWeapon */
      , (3358902487, 115,        122) /* ItemSkillLevelLimit */
      , (3358902487, 131,         76) /* MaterialType - Pine */
      , (3358902487, 151,          2) /* HookType - Wall */
-     , (3358902487, 172,          1) /* AppraisalLongDescDecoration */
-     , (3358902487, 176,         46) /* AppraisalItemSkill */
+     , (3358902487, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (3358902487, 176,         46) /* AppraisalItemSkill - FinesseWeapons */
      , (3358902487, 353,          3) /* WeaponType - Axe */
      , (3358902487, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (3358902487, 9015,         14) /* InventoryOrder */;

@@ -26,7 +26,7 @@ VALUES (1344048207,   1,         16) /* ItemType - Creature */
      , (1344048207, 188,          2) /* HeritageGroup - Gharundim */
      , (1344048207, 192,          0) /* FakeFishingSkill */
      , (1344048207, 199, 1409599108) /* HousePurchaseTimestamp */
-     , (1344048207, 261,          1) /* CharacterTitleId */
+     , (1344048207, 261,          1) /* CharacterTitleId - Adventurer */
      , (1344048207, 307,          5) /* DamageRating */
      , (1344048207, 308,          0) /* DamageResistRating */
      , (1344048207, 312,          0) /* HealOverTime */

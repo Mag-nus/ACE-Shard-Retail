@@ -19,7 +19,7 @@ VALUES (2157273693,   1,          8) /* ItemType - Jewelry */
      , (2157273693, 115,          0) /* ItemSkillLevelLimit */
      , (2157273693, 131,         16) /* MaterialType - BlackOpal */
      , (2157273693, 171,          1) /* NumTimesTinkered */
-     , (2157273693, 172,          7) /* AppraisalLongDescDecoration */
+     , (2157273693, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2157273693, 177,          4) /* GemCount */
      , (2157273693, 178,         38) /* GemType */
      , (2157273693, 188,          3) /* HeritageGroup - Sho */

@@ -19,7 +19,7 @@ VALUES (2967526586,   1,          8) /* ItemType - Jewelry */
      , (2967526586, 115,          0) /* ItemSkillLevelLimit */
      , (2967526586, 131,         21) /* MaterialType - Emerald */
      , (2967526586, 171,          1) /* NumTimesTinkered */
-     , (2967526586, 172,          7) /* AppraisalLongDescDecoration */
+     , (2967526586, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2967526586, 177,          1) /* GemCount */
      , (2967526586, 178,         33) /* GemType */
      , (2967526586, 188,          4) /* HeritageGroup - Viamontian */

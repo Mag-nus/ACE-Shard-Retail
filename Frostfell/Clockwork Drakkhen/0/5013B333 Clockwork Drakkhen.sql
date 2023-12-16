@@ -19,7 +19,7 @@ VALUES (1343468339,   1, True ) /* Stuck */
      , (1343468339,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343468339,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1343468339,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343468339,   1, 'Clockwork Drakkhen') /* Name */;
@@ -37,9 +37,9 @@ VALUES (1343468339,   1,   33560839) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343468339, 1, 2496528419, 112.279, 70.6333, 220.01, 0.0173988, 0, 0, 0.999849) /* Location */
-/* @teleloc 0x94CE0023 [112.279000 70.633300 220.010000] 0.017399 0.000000 0.000000 0.999849 */
-     , (1343468339, 8040, 3332964380, 78.53727, 95.11526, 42.006, 0.6419199, 0, 0, -0.7667717) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001C [78.537270 95.115260 42.006000] 0.641920 0.000000 0.000000 -0.766772 */;
+/* @teleloc 0x94CE0023 [112.278999 70.633301 220.009995] 0.017399 0.000000 0.000000 0.999849 */
+     , (1343468339, 8040, 3332964380, 78.53727, 95.115265, 42.006, 0.64191985, 0, 0, -0.76677173) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A9001C [78.537270 95.115265 42.006001] 0.641920 0.000000 0.000000 -0.766772 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343468339,  26, 1342806416) /* Monarch */

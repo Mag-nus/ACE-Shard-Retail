@@ -21,7 +21,7 @@ VALUES (3696736063,   1,      32768) /* ItemType - Caster */
      , (3696736063, 131,         41) /* MaterialType - Sunstone */
      , (3696736063, 151,          2) /* HookType - Wall */
      , (3696736063, 171,          1) /* NumTimesTinkered */
-     , (3696736063, 172,          7) /* AppraisalLongDescDecoration */
+     , (3696736063, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3696736063, 177,          4) /* GemCount */
      , (3696736063, 178,         34) /* GemType */
      , (3696736063, 179,        128) /* ImbuedEffect - ColdRending */

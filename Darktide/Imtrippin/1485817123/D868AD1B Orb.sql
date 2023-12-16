@@ -20,7 +20,7 @@ VALUES (3630738715,   1,      32768) /* ItemType - Caster */
      , (3630738715, 115,          0) /* ItemSkillLevelLimit */
      , (3630738715, 131,         41) /* MaterialType - Sunstone */
      , (3630738715, 151,          2) /* HookType - Wall */
-     , (3630738715, 172,          5) /* AppraisalLongDescDecoration */
+     , (3630738715, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (3630738715, 177,          5) /* GemCount */
      , (3630738715, 178,         23) /* GemType */
      , (3630738715, 9015,         12) /* InventoryOrder */;

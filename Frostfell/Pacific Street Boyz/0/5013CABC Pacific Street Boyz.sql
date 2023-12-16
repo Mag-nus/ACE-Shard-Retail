@@ -19,7 +19,7 @@ VALUES (1343474364,   1, True ) /* Stuck */
      , (1343474364,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343474364,  39, 1.29999995231628) /* DefaultScale */;
+VALUES (1343474364,  39, 1.2999999523162842) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343474364,   1, 'Pacific Street Boyz') /* Name */;
@@ -36,10 +36,10 @@ VALUES (1343474364,   1,   33561112) /* Setup */
      , (1343474364, 8005,     104643) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343474364, 1, 23855548, 51.66902, -32.68082, 0.006500006, -0.4317646, 0, 0, -0.9019863) /* Location */
-/* @teleloc 0x016C01BC [51.669020 -32.680820 0.006500] -0.431765 0.000000 0.000000 -0.901986 */
-     , (1343474364, 8040, 23855548, 49.206, -31.935, 0.006500006, 0.7071068, 0, 0, -0.7071068) /* PCAPRecordedLocation */
-/* @teleloc 0x016C01BC [49.206000 -31.935000 0.006500] 0.707107 0.000000 0.000000 -0.707107 */;
+VALUES (1343474364, 1, 23855548, 51.66902, -32.680824, 0.0065000057, -0.43176463, 0, 0, -0.9019863) /* Location */
+/* @teleloc 0x016C01BC [51.669022 -32.680824 0.006500] -0.431765 0.000000 0.000000 -0.901986 */
+     , (1343474364, 8040, 23855548, 49.206, -31.935, 0.0065000057, 0.70710677, 0, 0, -0.70710677) /* PCAPRecordedLocation */
+/* @teleloc 0x016C01BC [49.206001 -31.934999 0.006500] 0.707107 0.000000 0.000000 -0.707107 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343474364,  26, 1343233525) /* Monarch */

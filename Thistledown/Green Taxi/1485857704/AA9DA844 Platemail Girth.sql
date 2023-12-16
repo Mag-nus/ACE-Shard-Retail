@@ -20,7 +20,7 @@ VALUES (2862458948,   1,          2) /* ItemType - Armor */
      , (2862458948, 110,          0) /* ItemAllegianceRankLimit */
      , (2862458948, 115,          0) /* ItemSkillLevelLimit */
      , (2862458948, 131,         59) /* MaterialType - Copper */
-     , (2862458948, 172,          1) /* AppraisalLongDescDecoration */
+     , (2862458948, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (2862458948, 9015,          7) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

@@ -15,8 +15,8 @@ VALUES (1344017358,   1,         16) /* ItemType - Creature */
      , (1344017358, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1344017358, 134,          4) /* PlayerKillerStatus - PK */
      , (1344017358, 188,          2) /* HeritageGroup - Gharundim */
-     , (1344017358, 261,        791) /* CharacterTitleId */
-     , (1344017358, 281,          2) /* Faction1Bits */
+     , (1344017358, 261,        791) /* CharacterTitleId - EmotionalWreck */
+     , (1344017358, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1344017358, 288,       1001) /* SocietyRankEldweb */
      , (1344017358, 307,         44) /* DamageRating */
      , (1344017358, 308,         36) /* DamageResistRating */
@@ -64,9 +64,9 @@ VALUES (1344017358,   1,   33554510) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1344017358, 1, 459094, 75.0437, -68.41844, 0.004999995, -0.7499286, 0, 0, -0.6615188) /* Location */
-/* @teleloc 0x00070156 [75.043700 -68.418440 0.005000] -0.749929 0.000000 0.000000 -0.661519 */
-     , (1344017358, 8040, 3332898832, 40.26432, 168.101, 54.505, -0.9345564, 0, 0, -0.3558151) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A80010 [40.264320 168.101000 54.505000] -0.934556 0.000000 0.000000 -0.355815 */;
+/* @teleloc 0x00070156 [75.043701 -68.418442 0.005000] -0.749929 0.000000 0.000000 -0.661519 */
+     , (1344017358, 8040, 3332898832, 40.264324, 168.101, 54.505, -0.93455637, 0, -0, -0.35581514) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A80010 [40.264324 168.100998 54.505001] -0.934556 0.000000 -0.000000 -0.355815 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1344017358,  26, 1343917496) /* Monarch */

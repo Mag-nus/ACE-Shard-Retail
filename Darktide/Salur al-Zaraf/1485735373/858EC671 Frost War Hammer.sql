@@ -19,7 +19,7 @@ VALUES (2240726641,   1,          1) /* ItemType - MeleeWeapon */
      , (2240726641, 105,          2) /* ItemWorkmanship */
      , (2240726641, 131,         76) /* MaterialType - Pine */
      , (2240726641, 151,          2) /* HookType - Wall */
-     , (2240726641, 172,          3) /* AppraisalLongDescDecoration */
+     , (2240726641, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2240726641, 353,          3) /* WeaponType - Axe */
      , (2240726641, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (2240726641, 9015,         77) /* InventoryOrder */;

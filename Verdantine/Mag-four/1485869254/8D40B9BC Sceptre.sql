@@ -21,7 +21,7 @@ VALUES (2369829308,   1,      32768) /* ItemType - Caster */
      , (2369829308, 131,         16) /* MaterialType - BlackOpal */
      , (2369829308, 151,          2) /* HookType - Wall */
      , (2369829308, 171,          9) /* NumTimesTinkered */
-     , (2369829308, 172,          7) /* AppraisalLongDescDecoration */
+     , (2369829308, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2369829308, 177,          3) /* GemCount */
      , (2369829308, 178,         13) /* GemType */
      , (2369829308, 9015,          8) /* InventoryOrder */;

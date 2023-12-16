@@ -25,7 +25,7 @@ VALUES (2596951471,   1,          1) /* ItemType - MeleeWeapon */
      , (2596951471, 115,         73) /* ItemSkillLevelLimit */
      , (2596951471, 131,         63) /* MaterialType - Silver */
      , (2596951471, 151,          2) /* HookType - Wall */
-     , (2596951471, 176,         45) /* AppraisalItemSkill */
+     , (2596951471, 176,         45) /* AppraisalItemSkill - LightWeapons */
      , (2596951471, 353,          1) /* WeaponType - Unarmed */
      , (2596951471, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (2596951471, 9015,         22) /* InventoryOrder */;

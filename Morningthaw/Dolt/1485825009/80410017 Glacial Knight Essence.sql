@@ -16,9 +16,9 @@ VALUES (2151743511,   1,        128) /* ItemType - Misc */
      , (2151743511, 105,          9) /* ItemWorkmanship */
      , (2151743511, 114,          0) /* Attuned - Normal */
      , (2151743511, 280,        213) /* SharedCooldown */
-     , (2151743511, 366,         54) /* UseRequiresSkill */
+     , (2151743511, 366,         54) /* UseRequiresSkill - Summoning */
      , (2151743511, 367,        570) /* UseRequiresSkillLevel */
-     , (2151743511, 368,         54) /* UseRequiresSkillSpec */
+     , (2151743511, 368,         54) /* UseRequiresSkillSpec - Summoning */
      , (2151743511, 369,        185) /* UseRequiresLevel */
      , (2151743511, 370,         16) /* GearDamage */
      , (2151743511, 373,          6) /* GearCritResist */

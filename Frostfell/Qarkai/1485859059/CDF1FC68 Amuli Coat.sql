@@ -22,8 +22,8 @@ VALUES (3455188072,   1,          2) /* ItemType - Armor */
      , (3455188072, 115,        233) /* ItemSkillLevelLimit */
      , (3455188072, 131,         58) /* MaterialType - Bronze */
      , (3455188072, 171,          7) /* NumTimesTinkered */
-     , (3455188072, 172,          7) /* AppraisalLongDescDecoration */
-     , (3455188072, 176,          7) /* AppraisalItemSkill */
+     , (3455188072, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (3455188072, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (3455188072, 177,          3) /* GemCount */
      , (3455188072, 178,         21) /* GemType */;
 

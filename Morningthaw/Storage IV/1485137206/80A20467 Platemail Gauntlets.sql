@@ -13,7 +13,7 @@ VALUES (2158101607,   1,          2) /* ItemType - Armor */
      , (2158101607,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2158101607, 105,          6) /* ItemWorkmanship */
      , (2158101607, 131,         60) /* MaterialType - Gold */
-     , (2158101607, 172,          7) /* AppraisalLongDescDecoration */
+     , (2158101607, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2158101607, 177,          2) /* GemCount */
      , (2158101607, 178,         21) /* GemType */
      , (2158101607, 9015,          3) /* InventoryOrder */;

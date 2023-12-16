@@ -25,7 +25,7 @@ VALUES (2289501315,   1,      32768) /* ItemType - Caster */
      , (2289501315, 159,         34) /* WieldSkillType - WarMagic */
      , (2289501315, 160,        385) /* WieldDifficulty */
      , (2289501315, 171,         10) /* NumTimesTinkered */
-     , (2289501315, 172,          5) /* AppraisalLongDescDecoration */
+     , (2289501315, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2289501315, 177,          4) /* GemCount */
      , (2289501315, 178,         13) /* GemType */
      , (2289501315, 179,          1) /* ImbuedEffect - CriticalStrike */

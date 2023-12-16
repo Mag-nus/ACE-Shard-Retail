@@ -14,8 +14,8 @@ VALUES (1342976838,   1,         16) /* ItemType - Creature */
      , (1342976838, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342976838, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342976838, 188,          3) /* HeritageGroup - Sho */
-     , (1342976838, 261,        110) /* CharacterTitleId */
-     , (1342976838, 281,          1) /* Faction1Bits */
+     , (1342976838, 261,        110) /* CharacterTitleId - Queenslayer */
+     , (1342976838, 281,          1) /* Faction1Bits - CelestialHand */
      , (1342976838, 287,       1001) /* SocietyRankCelhan */
      , (1342976838, 307,         11) /* DamageRating */
      , (1342976838, 308,          7) /* DamageResistRating */
@@ -58,10 +58,10 @@ VALUES (1342976838,   1,   33554433) /* Setup */
      , (1342976838, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1342976838, 1, 4095213828, 36.9, 48.7, 169.805, -0.9807853, 0, 0, -0.1950903) /* Location */
-/* @teleloc 0xF4180104 [36.900000 48.700000 169.805000] -0.980785 0.000000 0.000000 -0.195090 */
-     , (1342976838, 8040, 3482648630, 148.1974, 131.4112, 20.005, 0.8656938, 0, 0, -0.5005739) /* PCAPRecordedLocation */
-/* @teleloc 0xCF950036 [148.197400 131.411200 20.005000] 0.865694 0.000000 0.000000 -0.500574 */;
+VALUES (1342976838, 1, 4095213828, 36.9, 48.7, 169.805, -0.9807853, 0, 0, -0.19509031) /* Location */
+/* @teleloc 0xF4180104 [36.900002 48.700001 169.804993] -0.980785 0.000000 0.000000 -0.195090 */
+     , (1342976838, 8040, 3482648630, 148.19745, 131.41118, 20.005, 0.8656938, 0, 0, -0.5005739) /* PCAPRecordedLocation */
+/* @teleloc 0xCF950036 [148.197449 131.411179 20.004999] 0.865694 0.000000 0.000000 -0.500574 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342976838,  26, 1342499688) /* Monarch */

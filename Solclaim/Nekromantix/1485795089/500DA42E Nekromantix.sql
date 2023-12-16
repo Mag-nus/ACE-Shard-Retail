@@ -38,8 +38,8 @@ VALUES (1343071278,   1,         16) /* ItemType - Creature */
      , (1343071278, 238,          5) /* AugmentationIncreasedSpellDuration */
      , (1343071278, 242,          1) /* AugmentationResistanceBlunt */
      , (1343071278, 244,          1) /* AugmentationResistanceFire */
-     , (1343071278, 261,         25) /* CharacterTitleId */
-     , (1343071278, 281,          1) /* Faction1Bits */
+     , (1343071278, 261,         25) /* CharacterTitleId - BloodShrethButcher */
+     , (1343071278, 281,          1) /* Faction1Bits - CelestialHand */
      , (1343071278, 287,        185) /* SocietyRankCelhan */
      , (1343071278, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1343071278, 295,          1) /* AugmentationInfusedItemMagic */

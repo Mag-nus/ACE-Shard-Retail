@@ -25,8 +25,8 @@ VALUES (3633376975,   1,          1) /* ItemType - MeleeWeapon */
      , (3633376975, 115,         21) /* ItemSkillLevelLimit */
      , (3633376975, 131,         75) /* MaterialType - Oak */
      , (3633376975, 151,          2) /* HookType - Wall */
-     , (3633376975, 172,          3) /* AppraisalLongDescDecoration */
-     , (3633376975, 176,         45) /* AppraisalItemSkill */
+     , (3633376975, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (3633376975, 176,         45) /* AppraisalItemSkill - LightWeapons */
      , (3633376975, 188,          3) /* HeritageGroup - Sho */
      , (3633376975, 353,          4) /* WeaponType - Mace */
      , (3633376975, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */

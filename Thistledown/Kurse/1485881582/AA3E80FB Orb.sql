@@ -20,7 +20,7 @@ VALUES (2856222971,   1,      32768) /* ItemType - Caster */
      , (2856222971, 115,          0) /* ItemSkillLevelLimit */
      , (2856222971, 131,         60) /* MaterialType - Gold */
      , (2856222971, 151,          2) /* HookType - Wall */
-     , (2856222971, 172,          7) /* AppraisalLongDescDecoration */
+     , (2856222971, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2856222971, 177,          5) /* GemCount */
      , (2856222971, 178,         15) /* GemType */
      , (2856222971, 9015,          0) /* InventoryOrder */;

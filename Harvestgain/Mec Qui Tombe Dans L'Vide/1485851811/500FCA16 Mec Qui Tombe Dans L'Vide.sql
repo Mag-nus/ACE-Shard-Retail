@@ -23,7 +23,7 @@ VALUES (1343212054,   1,         16) /* ItemType - Creature */
      , (1343212054, 139,         36) /* DeathLevel */
      , (1343212054, 188,          2) /* HeritageGroup - Gharundim */
      , (1343212054, 199, 1217068930) /* HousePurchaseTimestamp */
-     , (1343212054, 261,         17) /* CharacterTitleId */
+     , (1343212054, 261,         17) /* CharacterTitleId - Annihilator */
      , (1343212054, 307,          0) /* DamageRating */
      , (1343212054, 308,          0) /* DamageResistRating */
      , (1343212054, 312,          0) /* HealOverTime */

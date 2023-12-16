@@ -28,8 +28,8 @@ VALUES (2368875739,   1,          1) /* ItemType - MeleeWeapon */
      , (2368875739, 158,          2) /* WieldRequirements - RawSkill */
      , (2368875739, 159,         46) /* WieldSkillType - FinesseWeapons */
      , (2368875739, 160,        325) /* WieldDifficulty */
-     , (2368875739, 172,          3) /* AppraisalLongDescDecoration */
-     , (2368875739, 176,         46) /* AppraisalItemSkill */
+     , (2368875739, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (2368875739, 176,         46) /* AppraisalItemSkill - FinesseWeapons */
      , (2368875739, 188,          4) /* HeritageGroup - Viamontian */
      , (2368875739, 353,          6) /* WeaponType - Dagger */
      , (2368875739, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */

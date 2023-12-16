@@ -32,7 +32,7 @@ VALUES (1343211716,   1,         16) /* ItemType - Creature */
      , (1343211716, 233,          1) /* AugmentationCriticalDefense */
      , (1343211716, 236,          1) /* AugmentationBonusImbueChance */
      , (1343211716, 238,          5) /* AugmentationIncreasedSpellDuration */
-     , (1343211716, 261,        765) /* CharacterTitleId */
+     , (1343211716, 261,        765) /* CharacterTitleId - DerethianNewbie */
      , (1343211716, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1343211716, 295,          1) /* AugmentationInfusedItemMagic */
      , (1343211716, 296,          1) /* AugmentationInfusedLifeMagic */

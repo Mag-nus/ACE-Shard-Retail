@@ -9,7 +9,7 @@ VALUES (2184777163,   1,        256) /* ItemType - MissileWeapon */
      , (2184777163,  18,         65) /* UiEffects - Magical, Lightning */
      , (2184777163,  19,      11475) /* Value */
      , (2184777163,  50,          2) /* AmmoType - Bolt */
-     , (2184777163,  51,          2) /* CombatUse - Missle */
+     , (2184777163,  51,          2) /* CombatUse - Missile */
      , (2184777163,  65,        101) /* Placement - Resting */
      , (2184777163,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2184777163, 131,         63) /* MaterialType - Silver */

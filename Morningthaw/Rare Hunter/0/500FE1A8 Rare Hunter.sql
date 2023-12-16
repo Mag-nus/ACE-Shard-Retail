@@ -13,8 +13,8 @@ VALUES (1343218088,   1,         16) /* ItemType - Creature */
      , (1343218088, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343218088, 134,         64) /* PlayerKillerStatus - PKLite */
      , (1343218088, 188,          3) /* HeritageGroup - Sho */
-     , (1343218088, 261,          1) /* CharacterTitleId */
-     , (1343218088, 281,          2) /* Faction1Bits */
+     , (1343218088, 261,          1) /* CharacterTitleId - Adventurer */
+     , (1343218088, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1343218088, 288,       1001) /* SocietyRankEldweb */
      , (1343218088, 307,         72) /* DamageRating */
      , (1343218088, 308,         23) /* DamageResistRating */
@@ -56,10 +56,10 @@ VALUES (1343218088,   1,   33554433) /* Setup */
      , (1343218088, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343218088, 1, 3370713130, 132.3602, 36.22935, 0.004999995, 0.9995828, 0, 0, -0.02888473) /* Location */
-/* @teleloc 0xC8E9002A [132.360200 36.229350 0.005000] 0.999583 0.000000 0.000000 -0.028885 */
-     , (1343218088, 8040, 19398927, 28.95243, -37.76368, 4.217409, 0.9988347, 0, 0, -0.04826216) /* PCAPRecordedLocation */
-/* @teleloc 0x0128010F [28.952430 -37.763680 4.217409] 0.998835 0.000000 0.000000 -0.048262 */;
+VALUES (1343218088, 1, 3370713130, 132.3602, 36.229355, 0.004999995, 0.99958277, 0, 0, -0.028884731) /* Location */
+/* @teleloc 0xC8E9002A [132.360199 36.229355 0.005000] 0.999583 0.000000 0.000000 -0.028885 */
+     , (1343218088, 8040, 19398927, 28.95243, -37.763683, 4.2174087, 0.9988347, 0, 0, -0.048262157) /* PCAPRecordedLocation */
+/* @teleloc 0x0128010F [28.952431 -37.763683 4.217409] 0.998835 0.000000 0.000000 -0.048262 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343218088, 8000, 1343218088) /* PCAPRecordedObjectIID */;

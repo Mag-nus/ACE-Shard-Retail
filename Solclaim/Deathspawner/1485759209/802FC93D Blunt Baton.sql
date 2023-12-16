@@ -26,7 +26,7 @@ VALUES (2150615357,   1,      32768) /* ItemType - Caster */
      , (2150615357, 160,        375) /* WieldDifficulty */
      , (2150615357, 166,         30) /* SlayerCreatureType - Skeleton */
      , (2150615357, 171,         10) /* NumTimesTinkered */
-     , (2150615357, 172,          7) /* AppraisalLongDescDecoration */
+     , (2150615357, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2150615357, 177,          3) /* GemCount */
      , (2150615357, 178,         39) /* GemType */
      , (2150615357, 179,         32) /* ImbuedEffect - BludgeonRending */

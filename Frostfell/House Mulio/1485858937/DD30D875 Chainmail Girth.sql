@@ -24,8 +24,8 @@ VALUES (3710965877,   1,          2) /* ItemType - Armor */
      , (3710965877, 159,          1) /* WieldSkillType - Axe */
      , (3710965877, 160,        180) /* WieldDifficulty */
      , (3710965877, 171,          8) /* NumTimesTinkered */
-     , (3710965877, 172,          3) /* AppraisalLongDescDecoration */
-     , (3710965877, 176,          6) /* AppraisalItemSkill */
+     , (3710965877, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (3710965877, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (3710965877, 188,          1) /* HeritageGroup - Aluvian */
      , (3710965877, 265,         14) /* EquipmentSetId - Adepts */
      , (3710965877, 9015,          6) /* InventoryOrder */;

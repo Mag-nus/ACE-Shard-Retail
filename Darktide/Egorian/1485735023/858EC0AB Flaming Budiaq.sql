@@ -19,7 +19,7 @@ VALUES (2240725163,   1,          1) /* ItemType - MeleeWeapon */
      , (2240725163, 105,          3) /* ItemWorkmanship */
      , (2240725163, 131,         64) /* MaterialType - Steel */
      , (2240725163, 151,          2) /* HookType - Wall */
-     , (2240725163, 172,          3) /* AppraisalLongDescDecoration */
+     , (2240725163, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2240725163, 353,          5) /* WeaponType - Spear */
      , (2240725163, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (2240725163, 9015,          7) /* InventoryOrder */;

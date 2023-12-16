@@ -14,7 +14,7 @@ VALUES (1343492156,   1,         16) /* ItemType - Creature */
      , (1343492156, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343492156, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343492156, 188,          8) /* HeritageGroup - Lugian */
-     , (1343492156, 261,          1) /* CharacterTitleId */
+     , (1343492156, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343492156, 307,          5) /* DamageRating */
      , (1343492156, 390,          0) /* Enlightenment */
      , (1343492156, 8007,          1) /* PCAPRecordedAutonomousMovement */;
@@ -28,7 +28,7 @@ VALUES (1343492156,   1, True ) /* Stuck */
      , (1343492156,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343492156,  39, 1.29999995231628) /* DefaultScale */;
+VALUES (1343492156,  39, 1.2999999523162842) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343492156,   1, 'Bradeth') /* Name */
@@ -56,8 +56,8 @@ VALUES (1343492156,   1,   33561112) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343492156, 1, 459075, 70, -60, 0.01, 1, 0, 0, -1) /* Location */
 /* @teleloc 0x00070143 [70.000000 -60.000000 0.010000] 1.000000 0.000000 0.000000 -1.000000 */
-     , (1343492156, 8040, 3332964371, 48.53117, 50.33221, 42.0065, 0.9840425, 0, 0, -0.1779336) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A90013 [48.531170 50.332210 42.006500] 0.984043 0.000000 0.000000 -0.177934 */;
+     , (1343492156, 8040, 3332964371, 48.53117, 50.33221, 42.0065, 0.98404247, 0, 0, -0.17793362) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A90013 [48.531170 50.332211 42.006500] 0.984042 0.000000 0.000000 -0.177934 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343492156,  26, 1343089867) /* Monarch */

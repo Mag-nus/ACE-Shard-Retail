@@ -19,7 +19,7 @@ VALUES (1344175178,   1, True ) /* Stuck */
      , (1344175178,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1344175178,  39, 0.899999976158142) /* DefaultScale */;
+VALUES (1344175178,  39, 0.8999999761581421) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1344175178,   1, 'Socail Justice Warrior') /* Name */;
@@ -36,10 +36,10 @@ VALUES (1344175178,   1,   33561121) /* Setup */
      , (1344175178, 8005,     104579) /* PCAPRecordedPhysicsDesc - CSetup, MTable, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1344175178, 1, 3872587790, 38.77493, 133.7514, 218, 0.9885607, 0, 0, -0.1508235) /* Location */
-/* @teleloc 0xE6D3000E [38.774930 133.751400 218.000000] 0.988561 0.000000 0.000000 -0.150824 */
-     , (1344175178, 8040, 3872587790, 38.77493, 133.7514, 218, -0.8660254, 0, 0, -0.5000001) /* PCAPRecordedLocation */
-/* @teleloc 0xE6D3000E [38.774930 133.751400 218.000000] -0.866025 0.000000 0.000000 -0.500000 */;
+VALUES (1344175178, 1, 3872587790, 38.774925, 133.75143, 218, 0.98856074, 0, 0, -0.15082346) /* Location */
+/* @teleloc 0xE6D3000E [38.774925 133.751434 218.000000] 0.988561 0.000000 0.000000 -0.150823 */
+     , (1344175178, 8040, 3872587790, 38.774925, 133.75143, 218, -0.8660254, 0, -0, -0.50000006) /* PCAPRecordedLocation */
+/* @teleloc 0xE6D3000E [38.774925 133.751434 218.000000] -0.866025 0.000000 -0.000000 -0.500000 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1344175178, 8000, 1344175178) /* PCAPRecordedObjectIID */;

@@ -18,7 +18,7 @@ VALUES (2974259189,   1,          8) /* ItemType - Jewelry */
      , (2974259189, 110,          0) /* ItemAllegianceRankLimit */
      , (2974259189, 115,          0) /* ItemSkillLevelLimit */
      , (2974259189, 131,         24) /* MaterialType - GreenJade */
-     , (2974259189, 172,          5) /* AppraisalLongDescDecoration */
+     , (2974259189, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2974259189, 177,          3) /* GemCount */
      , (2974259189, 178,         43) /* GemType */
      , (2974259189, 9015,          2) /* InventoryOrder */;

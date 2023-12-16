@@ -21,7 +21,7 @@ VALUES (1343055496,   1,         16) /* ItemType - Creature */
      , (1343055496, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343055496, 188,          2) /* HeritageGroup - Gharundim */
      , (1343055496, 199, 1460006158) /* HousePurchaseTimestamp */
-     , (1343055496, 261,          9) /* CharacterTitleId */
+     , (1343055496, 261,          9) /* CharacterTitleId - BowHunter */
      , (1343055496, 307,          0) /* DamageRating */
      , (1343055496, 308,          0) /* DamageResistRating */
      , (1343055496, 312,          0) /* HealOverTime */

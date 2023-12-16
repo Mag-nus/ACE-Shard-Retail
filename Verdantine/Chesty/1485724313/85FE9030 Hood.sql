@@ -21,7 +21,7 @@ VALUES (2248052784,   1,          4) /* ItemType - Clothing */
      , (2248052784, 115,          0) /* ItemSkillLevelLimit */
      , (2248052784, 131,          5) /* MaterialType - Satin */
      , (2248052784, 151,          2) /* HookType - Wall */
-     , (2248052784, 172,          5) /* AppraisalLongDescDecoration */
+     , (2248052784, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2248052784, 177,          1) /* GemCount */
      , (2248052784, 178,         39) /* GemType */
      , (2248052784, 9015,         16) /* InventoryOrder */;

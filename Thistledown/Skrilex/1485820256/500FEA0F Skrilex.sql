@@ -24,7 +24,7 @@ VALUES (1343220239,   1,         16) /* ItemType - Creature */
      , (1343220239, 139,         53) /* DeathLevel */
      , (1343220239, 188,          3) /* HeritageGroup - Sho */
      , (1343220239, 199, 1411923548) /* HousePurchaseTimestamp */
-     , (1343220239, 261,         61) /* CharacterTitleId */
+     , (1343220239, 261,         61) /* CharacterTitleId - GoldenGod */
      , (1343220239, 307,          0) /* DamageRating */
      , (1343220239, 308,          0) /* DamageResistRating */
      , (1343220239, 312,          0) /* HealOverTime */

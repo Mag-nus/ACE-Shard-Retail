@@ -21,8 +21,8 @@ VALUES (2929242732,   1,          2) /* ItemType - Armor */
      , (2929242732, 115,        237) /* ItemSkillLevelLimit */
      , (2929242732, 131,         58) /* MaterialType - Bronze */
      , (2929242732, 151,          2) /* HookType - Wall */
-     , (2929242732, 172,          1) /* AppraisalLongDescDecoration */
-     , (2929242732, 176,          6) /* AppraisalItemSkill */
+     , (2929242732, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (2929242732, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (2929242732, 9015,          4) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

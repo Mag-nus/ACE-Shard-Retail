@@ -22,7 +22,7 @@ VALUES (2210356780,   1,          1) /* ItemType - MeleeWeapon */
      , (2210356780, 158,          7) /* WieldRequirements - Level */
      , (2210356780, 159,          1) /* WieldSkillType - Axe */
      , (2210356780, 160,        140) /* WieldDifficulty */
-     , (2210356780, 263,          4) /* ResistanceModifierType */
+     , (2210356780, 263,          4) /* ResistanceModifierType - Bludgeon */
      , (2210356780, 353,          7) /* WeaponType - Staff */
      , (2210356780, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (2210356780, 9015,         11) /* InventoryOrder */;

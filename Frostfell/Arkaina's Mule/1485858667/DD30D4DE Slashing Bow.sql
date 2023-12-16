@@ -9,7 +9,7 @@ VALUES (3710964958,   1,        256) /* ItemType - MissileWeapon */
      , (3710964958,  18,       1024) /* UiEffects - Slashing */
      , (3710964958,  19,       3847) /* Value */
      , (3710964958,  50,          1) /* AmmoType - Arrow */
-     , (3710964958,  51,          2) /* CombatUse - Missle */
+     , (3710964958,  51,          2) /* CombatUse - Missile */
      , (3710964958,  65,        101) /* Placement - Resting */
      , (3710964958,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3710964958, 131,         59) /* MaterialType - Copper */

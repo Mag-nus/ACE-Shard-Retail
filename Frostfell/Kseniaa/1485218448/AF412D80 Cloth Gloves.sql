@@ -21,7 +21,7 @@ VALUES (2940284288,   1,          4) /* ItemType - Clothing */
      , (2940284288, 115,          0) /* ItemSkillLevelLimit */
      , (2940284288, 131,         52) /* MaterialType - Leather */
      , (2940284288, 171,          2) /* NumTimesTinkered */
-     , (2940284288, 172,          5) /* AppraisalLongDescDecoration */
+     , (2940284288, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2940284288, 177,          2) /* GemCount */
      , (2940284288, 178,         26) /* GemType */
      , (2940284288, 9015,         10) /* InventoryOrder */;

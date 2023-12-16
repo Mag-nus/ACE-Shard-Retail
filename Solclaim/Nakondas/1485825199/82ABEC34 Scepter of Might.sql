@@ -22,7 +22,7 @@ VALUES (2192305204,   1,          1) /* ItemType - MeleeWeapon */
      , (2192305204, 110,          0) /* ItemAllegianceRankLimit */
      , (2192305204, 115,        180) /* ItemSkillLevelLimit */
      , (2192305204, 151,          2) /* HookType - Wall */
-     , (2192305204, 176,          6) /* AppraisalItemSkill */
+     , (2192305204, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (2192305204, 353,          4) /* WeaponType - Mace */
      , (2192305204, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (2192305204, 9015,          7) /* InventoryOrder */;

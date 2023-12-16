@@ -15,7 +15,7 @@ VALUES (1343662361,   1,         16) /* ItemType - Creature */
      , (1343662361, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343662361, 134,          4) /* PlayerKillerStatus - PK */
      , (1343662361, 188,          3) /* HeritageGroup - Sho */
-     , (1343662361, 261,        503) /* CharacterTitleId */
+     , (1343662361, 261,        503) /* CharacterTitleId - KnightoftheWindmill */
      , (1343662361, 390,          0) /* Enlightenment */
      , (1343662361, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
@@ -51,10 +51,10 @@ VALUES (1343662361,   1,   33554433) /* Setup */
      , (1343662361, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343662361, 1, 3595894836, 156.2767, 84.96062, 44.005, 0.8185979, 0, 0, -0.5743671) /* Location */
-/* @teleloc 0xD6550034 [156.276700 84.960620 44.005000] 0.818598 0.000000 0.000000 -0.574367 */
-     , (1343662361, 8040, 3595894836, 157.0544, 84.14838, 44.005, 0.8884416, 0, 0, -0.4589897) /* PCAPRecordedLocation */
-/* @teleloc 0xD6550034 [157.054400 84.148380 44.005000] 0.888442 0.000000 0.000000 -0.458990 */;
+VALUES (1343662361, 1, 3595894836, 156.27673, 84.96062, 44.005, 0.81859785, 0, 0, -0.5743671) /* Location */
+/* @teleloc 0xD6550034 [156.276733 84.960617 44.005001] 0.818598 0.000000 0.000000 -0.574367 */
+     , (1343662361, 8040, 3595894836, 157.05435, 84.148384, 44.005, 0.8884416, 0, 0, -0.45898968) /* PCAPRecordedLocation */
+/* @teleloc 0xD6550034 [157.054352 84.148384 44.005001] 0.888442 0.000000 0.000000 -0.458990 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343662361,  26, 1343838431) /* Monarch */

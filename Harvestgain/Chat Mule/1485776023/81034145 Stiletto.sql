@@ -28,8 +28,8 @@ VALUES (2164474181,   1,          1) /* ItemType - MeleeWeapon */
      , (2164474181, 158,          2) /* WieldRequirements - RawSkill */
      , (2164474181, 159,         44) /* WieldSkillType - HeavyWeapons */
      , (2164474181, 160,        325) /* WieldDifficulty */
-     , (2164474181, 172,          1) /* AppraisalLongDescDecoration */
-     , (2164474181, 176,         44) /* AppraisalItemSkill */
+     , (2164474181, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (2164474181, 176,         44) /* AppraisalItemSkill - HeavyWeapons */
      , (2164474181, 353,          6) /* WeaponType - Dagger */
      , (2164474181, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (2164474181, 9015,          5) /* InventoryOrder */;

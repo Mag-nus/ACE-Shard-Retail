@@ -21,7 +21,7 @@ VALUES (2283126093,   1,          8) /* ItemType - Jewelry */
      , (2283126093, 158,          7) /* WieldRequirements - Level */
      , (2283126093, 159,          1) /* WieldSkillType - Axe */
      , (2283126093, 160,        150) /* WieldDifficulty */
-     , (2283126093, 172,          7) /* AppraisalLongDescDecoration */
+     , (2283126093, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2283126093, 177,          2) /* GemCount */
      , (2283126093, 178,         33) /* GemType */
      , (2283126093, 188,          4) /* HeritageGroup - Viamontian */

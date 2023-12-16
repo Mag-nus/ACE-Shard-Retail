@@ -11,7 +11,7 @@ VALUES (2619674022,   1,  536870912) /* ItemType - TinkeringTool */
      , (2619674022,  65,        101) /* Placement - Resting */
      , (2619674022,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2619674022, 151,          2) /* HookType - Wall */
-     , (2619674022, 9015,         29) /* InventoryOrder */;
+     , (2619674022, 9015,         41) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (2619674022,   1, False) /* Stuck */

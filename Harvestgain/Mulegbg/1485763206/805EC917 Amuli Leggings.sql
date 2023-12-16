@@ -21,7 +21,7 @@ VALUES (2153695511,   1,          2) /* ItemType - Armor */
      , (2153695511, 110,          0) /* ItemAllegianceRankLimit */
      , (2153695511, 115,          0) /* ItemSkillLevelLimit */
      , (2153695511, 131,         52) /* MaterialType - Leather */
-     , (2153695511, 172,          3) /* AppraisalLongDescDecoration */
+     , (2153695511, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2153695511, 188,          2) /* HeritageGroup - Gharundim */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

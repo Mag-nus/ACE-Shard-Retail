@@ -9,7 +9,7 @@ VALUES (3422399192,   1,        256) /* ItemType - MissileWeapon */
      , (3422399192,  18,        256) /* UiEffects - Acid */
      , (3422399192,  19,        705) /* Value */
      , (3422399192,  50,          1) /* AmmoType - Arrow */
-     , (3422399192,  51,          2) /* CombatUse - Missle */
+     , (3422399192,  51,          2) /* CombatUse - Missile */
      , (3422399192,  65,        101) /* Placement - Resting */
      , (3422399192,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3422399192, 131,         76) /* MaterialType - Pine */

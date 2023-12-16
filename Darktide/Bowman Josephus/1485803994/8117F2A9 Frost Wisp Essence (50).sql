@@ -16,7 +16,7 @@ VALUES (2165830313,   1,        128) /* ItemType - Misc */
      , (2165830313, 105,          4) /* ItemWorkmanship */
      , (2165830313, 114,          0) /* Attuned - Normal */
      , (2165830313, 280,        213) /* SharedCooldown */
-     , (2165830313, 366,         54) /* UseRequiresSkill */
+     , (2165830313, 366,         54) /* UseRequiresSkill - Summoning */
      , (2165830313, 367,        310) /* UseRequiresSkillLevel */
      , (2165830313, 369,         40) /* UseRequiresLevel */
      , (2165830313, 9015,          5) /* InventoryOrder */;

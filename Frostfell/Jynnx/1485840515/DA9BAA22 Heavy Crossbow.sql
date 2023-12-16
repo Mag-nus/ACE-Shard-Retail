@@ -8,7 +8,7 @@ VALUES (3667634722,   1,        256) /* ItemType - MissileWeapon */
      , (3667634722,  16,          1) /* ItemUseable - No */
      , (3667634722,  19,       2519) /* Value */
      , (3667634722,  50,          2) /* AmmoType - Bolt */
-     , (3667634722,  51,          2) /* CombatUse - Missle */
+     , (3667634722,  51,          2) /* CombatUse - Missile */
      , (3667634722,  65,        101) /* Placement - Resting */
      , (3667634722,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3667634722, 131,         77) /* MaterialType - Teak */

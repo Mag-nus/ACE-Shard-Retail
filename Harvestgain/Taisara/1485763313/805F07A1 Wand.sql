@@ -20,7 +20,7 @@ VALUES (2153711521,   1,      32768) /* ItemType - Caster */
      , (2153711521, 115,          0) /* ItemSkillLevelLimit */
      , (2153711521, 131,         23) /* MaterialType - GreenGarnet */
      , (2153711521, 151,          2) /* HookType - Wall */
-     , (2153711521, 172,          3) /* AppraisalLongDescDecoration */
+     , (2153711521, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2153711521, 188,          2) /* HeritageGroup - Gharundim */
      , (2153711521, 9015,          8) /* InventoryOrder */;
 

@@ -15,8 +15,8 @@ VALUES (1342708926,   1,         16) /* ItemType - Creature */
      , (1342708926, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342708926, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342708926, 188,          3) /* HeritageGroup - Sho */
-     , (1342708926, 261,         82) /* CharacterTitleId */
-     , (1342708926, 281,          1) /* Faction1Bits */
+     , (1342708926, 261,         82) /* CharacterTitleId - KireeKiller */
+     , (1342708926, 281,          1) /* Faction1Bits - CelestialHand */
      , (1342708926, 287,       1001) /* SocietyRankCelhan */
      , (1342708926, 307,         13) /* DamageRating */
      , (1342708926, 308,         20) /* DamageResistRating */
@@ -61,10 +61,10 @@ VALUES (1342708926,   1,   33554433) /* Setup */
      , (1342708926, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1342708926, 1, 3482648630, 157.4428, 143.5489, 20.005, -0.9981483, 0, 0, -0.06082679) /* Location */
-/* @teleloc 0xCF950036 [157.442800 143.548900 20.005000] -0.998148 0.000000 0.000000 -0.060827 */
-     , (1342708926, 8040, 3482648630, 158.032, 143.719, 20.005, 0.9653186, 0, 0, -0.2610749) /* PCAPRecordedLocation */
-/* @teleloc 0xCF950036 [158.032000 143.719000 20.005000] 0.965319 0.000000 0.000000 -0.261075 */;
+VALUES (1342708926, 1, 3482648630, 157.44283, 143.54893, 20.005, -0.9981483, 0, 0, -0.06082679) /* Location */
+/* @teleloc 0xCF950036 [157.442825 143.548935 20.004999] -0.998148 0.000000 0.000000 -0.060827 */
+     , (1342708926, 8040, 3482648630, 158.03203, 143.71902, 20.005, 0.96531856, 0, 0, -0.26107487) /* PCAPRecordedLocation */
+/* @teleloc 0xCF950036 [158.032028 143.719025 20.004999] 0.965319 0.000000 0.000000 -0.261075 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342708926,  26, 1343449966) /* Monarch */

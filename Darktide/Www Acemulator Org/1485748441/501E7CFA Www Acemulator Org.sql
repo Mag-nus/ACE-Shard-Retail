@@ -24,7 +24,7 @@ VALUES (1344175354,   1,         16) /* ItemType - Creature */
      , (1344175354, 139,         13) /* DeathLevel */
      , (1344175354, 188,          3) /* HeritageGroup - Sho */
      , (1344175354, 192,          0) /* FakeFishingSkill */
-     , (1344175354, 261,         13) /* CharacterTitleId */
+     , (1344175354, 261,         13) /* CharacterTitleId - WarMage */
      , (1344175354, 307,          5) /* DamageRating */
      , (1344175354, 308,          0) /* DamageResistRating */
      , (1344175354, 312,          0) /* HealOverTime */

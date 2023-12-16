@@ -20,7 +20,7 @@ VALUES (1344029443,   1,         16) /* ItemType - Creature */
      , (1344029443, 134,          4) /* PlayerKillerStatus - PK */
      , (1344029443, 188,          1) /* HeritageGroup - Aluvian */
      , (1344029443, 199, 1396057990) /* HousePurchaseTimestamp */
-     , (1344029443, 261,         10) /* CharacterTitleId */
+     , (1344029443, 261,         10) /* CharacterTitleId - LifeCaster */
      , (1344029443, 307,          0) /* DamageRating */
      , (1344029443, 308,          0) /* DamageResistRating */
      , (1344029443, 312,          0) /* HealOverTime */

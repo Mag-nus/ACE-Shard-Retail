@@ -24,8 +24,8 @@ VALUES (1344026664,   1,         16) /* ItemType - Creature */
      , (1344026664, 139,        205) /* DeathLevel */
      , (1344026664, 188,          3) /* HeritageGroup - Sho */
      , (1344026664, 199, 1396057990) /* HousePurchaseTimestamp */
-     , (1344026664, 261,          1) /* CharacterTitleId */
-     , (1344026664, 281,          4) /* Faction1Bits */
+     , (1344026664, 261,          1) /* CharacterTitleId - Adventurer */
+     , (1344026664, 281,          4) /* Faction1Bits - RadiantBlood */
      , (1344026664, 289,          1) /* SocietyRankRadblo */
      , (1344026664, 301,          1) /* AugmentationSkilledMissile */
      , (1344026664, 307,          0) /* DamageRating */

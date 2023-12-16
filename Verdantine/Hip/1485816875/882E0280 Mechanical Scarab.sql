@@ -11,7 +11,7 @@ VALUES (2284716672,   1,          8) /* ItemType - Jewelry */
      , (2284716672,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2284716672, 105,          7) /* ItemWorkmanship */
      , (2284716672, 131,         16) /* MaterialType - BlackOpal */
-     , (2284716672, 172,          5) /* AppraisalLongDescDecoration */
+     , (2284716672, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2284716672, 177,          4) /* GemCount */
      , (2284716672, 178,         16) /* GemType */
      , (2284716672, 9015,          3) /* InventoryOrder */;

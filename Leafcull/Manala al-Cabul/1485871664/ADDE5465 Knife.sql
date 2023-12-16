@@ -25,7 +25,7 @@ VALUES (2917028965,   1,          1) /* ItemType - MeleeWeapon */
      , (2917028965, 115,        114) /* ItemSkillLevelLimit */
      , (2917028965, 131,         51) /* MaterialType - Ivory */
      , (2917028965, 151,          2) /* HookType - Wall */
-     , (2917028965, 176,         46) /* AppraisalItemSkill */
+     , (2917028965, 176,         46) /* AppraisalItemSkill - FinesseWeapons */
      , (2917028965, 353,          6) /* WeaponType - Dagger */
      , (2917028965, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (2917028965, 9015,         46) /* InventoryOrder */;

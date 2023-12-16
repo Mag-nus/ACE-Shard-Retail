@@ -20,7 +20,7 @@ VALUES (2164447146,   1,          8) /* ItemType - Jewelry */
      , (2164447146, 115,          0) /* ItemSkillLevelLimit */
      , (2164447146, 131,         61) /* MaterialType - Iron */
      , (2164447146, 171,          1) /* NumTimesTinkered */
-     , (2164447146, 172,          7) /* AppraisalLongDescDecoration */
+     , (2164447146, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2164447146, 177,          6) /* GemCount */
      , (2164447146, 178,         38) /* GemType */
      , (2164447146, 188,          3) /* HeritageGroup - Sho */;

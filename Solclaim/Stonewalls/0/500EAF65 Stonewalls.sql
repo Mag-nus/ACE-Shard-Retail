@@ -15,9 +15,9 @@ VALUES (1343139685,   1,         16) /* ItemType - Creature */
      , (1343139685, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343139685, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343139685, 188,          3) /* HeritageGroup - Sho */
-     , (1343139685, 261,        764) /* CharacterTitleId */
+     , (1343139685, 261,        764) /* CharacterTitleId - VanquisheroftheTitan */
      , (1343139685, 262,         72) /* NumCharacterTitles */
-     , (1343139685, 281,          1) /* Faction1Bits */
+     , (1343139685, 281,          1) /* Faction1Bits - CelestialHand */
      , (1343139685, 287,         50) /* SocietyRankCelhan */
      , (1343139685, 307,         11) /* DamageRating */
      , (1343139685, 308,          3) /* DamageResistRating */
@@ -63,9 +63,9 @@ VALUES (1343139685,   1,   33554433) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343139685, 1, 2324824090, 72.7474, 29.7887, 124, -0.999988, 0, 0, 0.00480921) /* Location */
-/* @teleloc 0x8A92001A [72.747400 29.788700 124.000000] -0.999988 0.000000 0.000000 0.004809 */
-     , (1343139685, 8040, 20185358, 26.72566, -33.90324, 2.801682, 0.9830912, 0, 0, -0.1831166) /* PCAPRecordedLocation */
-/* @teleloc 0x0134010E [26.725660 -33.903240 2.801682] 0.983091 0.000000 0.000000 -0.183117 */;
+/* @teleloc 0x8A92001A [72.747398 29.788700 124.000000] -0.999988 0.000000 0.000000 0.004809 */
+     , (1343139685, 8040, 20185358, 26.725662, -33.903236, 2.8016818, 0.9830912, 0, 0, -0.18311659) /* PCAPRecordedLocation */
+/* @teleloc 0x0134010E [26.725662 -33.903236 2.801682] 0.983091 0.000000 0.000000 -0.183117 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343139685,  26, 1342560917) /* Monarch */

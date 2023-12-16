@@ -15,8 +15,8 @@ VALUES (1343380192,   1,         16) /* ItemType - Creature */
      , (1343380192, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343380192, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343380192, 188,         10) /* HeritageGroup - Penumbraen */
-     , (1343380192, 261,        646) /* CharacterTitleId */
-     , (1343380192, 281,          1) /* Faction1Bits */
+     , (1343380192, 261,        646) /* CharacterTitleId - DerethsElite */
+     , (1343380192, 281,          1) /* Faction1Bits - CelestialHand */
      , (1343380192, 287,       1001) /* SocietyRankCelhan */
      , (1343380192, 307,         31) /* DamageRating */
      , (1343380192, 308,          9) /* DamageResistRating */
@@ -60,10 +60,10 @@ VALUES (1343380192,   1,   33560942) /* Setup */
      , (1343380192, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343380192, 1, 3583574079, 189.0725, 160.7814, 374.005, 0.6917013, 0, 0, 0.7221838) /* Location */
-/* @teleloc 0xD599003F [189.072500 160.781400 374.005000] 0.691701 0.000000 0.000000 0.722184 */
+VALUES (1343380192, 1, 3583574079, 189.0725, 160.78145, 374.005, 0.6917013, 0, 0, 0.72218376) /* Location */
+/* @teleloc 0xD599003F [189.072495 160.781448 374.005005] 0.691701 0.000000 0.000000 0.722184 */
      , (1343380192, 8040, 3599958021, 18.435, 113.644, -0.09500003, 1, 0, 0, 0) /* PCAPRecordedLocation */
-/* @teleloc 0xD6930005 [18.435000 113.644000 -0.095000] 1.000000 0.000000 0.000000 0.000000 */;
+/* @teleloc 0xD6930005 [18.434999 113.643997 -0.095000] 1.000000 0.000000 0.000000 0.000000 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343380192,  26, 1342200341) /* Monarch */

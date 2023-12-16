@@ -15,7 +15,7 @@ VALUES (3710969924,   1,          2) /* ItemType - Armor */
      , (3710969924, 105,          6) /* ItemWorkmanship */
      , (3710969924, 131,         58) /* MaterialType - Bronze */
      , (3710969924, 171,          7) /* NumTimesTinkered */
-     , (3710969924, 172,          7) /* AppraisalLongDescDecoration */
+     , (3710969924, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3710969924, 177,          2) /* GemCount */
      , (3710969924, 178,         39) /* GemType */;
 

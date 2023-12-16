@@ -21,7 +21,7 @@ VALUES (2156008210,   1,          2) /* ItemType - Armor */
      , (2156008210, 115,          0) /* ItemSkillLevelLimit */
      , (2156008210, 131,         54) /* MaterialType - GromnieHide */
      , (2156008210, 151,          2) /* HookType - Wall */
-     , (2156008210, 172,          7) /* AppraisalLongDescDecoration */
+     , (2156008210, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2156008210, 177,          2) /* GemCount */
      , (2156008210, 178,         38) /* GemType */
      , (2156008210, 188,          3) /* HeritageGroup - Sho */

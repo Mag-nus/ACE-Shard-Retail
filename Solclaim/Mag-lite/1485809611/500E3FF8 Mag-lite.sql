@@ -30,8 +30,8 @@ VALUES (1343111160,   1,         16) /* ItemType - Creature */
      , (1343111160, 232,          1) /* AugmentationSpellsRemainPastDeath */
      , (1343111160, 233,          1) /* AugmentationCriticalDefense */
      , (1343111160, 238,          1) /* AugmentationIncreasedSpellDuration */
-     , (1343111160, 261,        470) /* CharacterTitleId */
-     , (1343111160, 281,          2) /* Faction1Bits */
+     , (1343111160, 261,        470) /* CharacterTitleId - MasterChampionRingX */
+     , (1343111160, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1343111160, 288,          1) /* SocietyRankEldweb */
      , (1343111160, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1343111160, 295,          1) /* AugmentationInfusedItemMagic */

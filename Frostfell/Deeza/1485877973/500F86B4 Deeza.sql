@@ -32,8 +32,8 @@ VALUES (1343194804,   1,         16) /* ItemType - Creature */
      , (1343194804, 232,          1) /* AugmentationSpellsRemainPastDeath */
      , (1343194804, 233,          1) /* AugmentationCriticalDefense */
      , (1343194804, 238,          5) /* AugmentationIncreasedSpellDuration */
-     , (1343194804, 261,        861) /* CharacterTitleId */
-     , (1343194804, 281,          4) /* Faction1Bits */
+     , (1343194804, 261,        861) /* CharacterTitleId - HolidayHero */
+     , (1343194804, 281,          4) /* Faction1Bits - RadiantBlood */
      , (1343194804, 289,        165) /* SocietyRankRadblo */
      , (1343194804, 298,          1) /* AugmentationCriticalExpertise */
      , (1343194804, 299,          1) /* AugmentationCriticalPower */

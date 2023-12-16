@@ -22,7 +22,7 @@ VALUES (2149225950,   1,          2) /* ItemType - Armor */
      , (2149225950, 131,         60) /* MaterialType - Gold */
      , (2149225950, 151,          2) /* HookType - Wall */
      , (2149225950, 171,          6) /* NumTimesTinkered */
-     , (2149225950, 172,          7) /* AppraisalLongDescDecoration */
+     , (2149225950, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2149225950, 177,          6) /* GemCount */
      , (2149225950, 178,         38) /* GemType */
      , (2149225950, 188,          2) /* HeritageGroup - Gharundim */

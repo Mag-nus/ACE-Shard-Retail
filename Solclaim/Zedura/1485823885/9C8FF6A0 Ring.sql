@@ -21,7 +21,7 @@ VALUES (2626680480,   1,          8) /* ItemType - Jewelry */
      , (2626680480, 158,          7) /* WieldRequirements - Level */
      , (2626680480, 159,          1) /* WieldSkillType - Axe */
      , (2626680480, 160,        180) /* WieldDifficulty */
-     , (2626680480, 172,          1) /* AppraisalLongDescDecoration */
+     , (2626680480, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (2626680480, 9015,          0) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

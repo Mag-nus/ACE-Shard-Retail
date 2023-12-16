@@ -14,8 +14,8 @@ VALUES (1342651460,   1,         16) /* ItemType - Creature */
      , (1342651460, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342651460, 134,          4) /* PlayerKillerStatus - PK */
      , (1342651460, 188,          1) /* HeritageGroup - Aluvian */
-     , (1342651460, 261,         58) /* CharacterTitleId */
-     , (1342651460, 281,          4) /* Faction1Bits */
+     , (1342651460, 261,         58) /* CharacterTitleId - GardenerWeeder */
+     , (1342651460, 281,          4) /* Faction1Bits - RadiantBlood */
      , (1342651460, 289,        360) /* SocietyRankRadblo */
      , (1342651460, 307,         15) /* DamageRating */
      , (1342651460, 308,          8) /* DamageResistRating */
@@ -58,10 +58,10 @@ VALUES (1342651460,   1,   33554433) /* Setup */
      , (1342651460, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1342651460, 1, 1053097995, 31.54086, 66.13337, 10.99834, 0.522245, 0, 0, -0.8527955) /* Location */
-/* @teleloc 0x3EC5000B [31.540860 66.133370 10.998340] 0.522245 0.000000 0.000000 -0.852796 */
-     , (1342651460, 8040, 3332964361, 46.805, 5.552333, 42.005, 1, 0, 0, 0) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A90009 [46.805000 5.552333 42.005000] 1.000000 0.000000 0.000000 0.000000 */;
+VALUES (1342651460, 1, 1053097995, 31.540861, 66.13337, 10.998336, 0.522245, 0, 0, -0.8527955) /* Location */
+/* @teleloc 0x3EC5000B [31.540861 66.133369 10.998336] 0.522245 0.000000 0.000000 -0.852795 */
+     , (1342651460, 8040, 3332964361, 46.805, 5.5523334, 42.005, 1, 0, 0, 0) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A90009 [46.805000 5.552333 42.005001] 1.000000 0.000000 0.000000 0.000000 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342651460,  26, 1344015960) /* Monarch */

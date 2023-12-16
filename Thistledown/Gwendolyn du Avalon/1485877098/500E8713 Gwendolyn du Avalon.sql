@@ -38,9 +38,9 @@ VALUES (1343129363,   1,         16) /* ItemType - Creature */
      , (1343129363, 238,          5) /* AugmentationIncreasedSpellDuration */
      , (1343129363, 243,          1) /* AugmentationResistanceAcid */
      , (1343129363, 244,          1) /* AugmentationResistanceFire */
-     , (1343129363, 261,         50) /* CharacterTitleId */
+     , (1343129363, 261,         50) /* CharacterTitleId - Explorer */
      , (1343129363, 262,        113) /* NumCharacterTitles */
-     , (1343129363, 281,          2) /* Faction1Bits */
+     , (1343129363, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1343129363, 288,       1001) /* SocietyRankEldweb */
      , (1343129363, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1343129363, 295,          1) /* AugmentationInfusedItemMagic */

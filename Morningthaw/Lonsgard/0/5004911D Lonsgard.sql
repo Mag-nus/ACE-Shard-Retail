@@ -18,9 +18,9 @@ VALUES (1342476573,   1,         16) /* ItemType - Creature */
      , (1342476573, 181,       1633) /* ChessRank */
      , (1342476573, 188,          1) /* HeritageGroup - Aluvian */
      , (1342476573, 192,         19) /* FakeFishingSkill */
-     , (1342476573, 261,        380) /* CharacterTitleId */
+     , (1342476573, 261,        380) /* CharacterTitleId - ThunderChickenSlayer */
      , (1342476573, 262,         93) /* NumCharacterTitles */
-     , (1342476573, 281,          1) /* Faction1Bits */
+     , (1342476573, 281,          1) /* Faction1Bits - CelestialHand */
      , (1342476573, 287,       1001) /* SocietyRankCelhan */
      , (1342476573, 307,         14) /* DamageRating */
      , (1342476573, 308,          9) /* DamageResistRating */
@@ -63,8 +63,8 @@ VALUES (1342476573,   1,   33554433) /* Setup */
      , (1342476573, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1342476573, 1, 459122, 105.0749, -57.44485, 0.004999995, 0.8463754, 0, 0, -0.5325868) /* Location */
-/* @teleloc 0x00070172 [105.074900 -57.444850 0.005000] 0.846375 0.000000 0.000000 -0.532587 */
+VALUES (1342476573, 1, 459122, 105.07493, -57.444855, 0.004999995, 0.8463754, 0, 0, -0.5325868) /* Location */
+/* @teleloc 0x00070172 [105.074928 -57.444855 0.005000] 0.846375 0.000000 0.000000 -0.532587 */
      , (1342476573, 8040, 459077, 70, -80, 0.004999995, 1, 0, 0, 0) /* PCAPRecordedLocation */
 /* @teleloc 0x00070145 [70.000000 -80.000000 0.005000] 1.000000 0.000000 0.000000 0.000000 */;
 

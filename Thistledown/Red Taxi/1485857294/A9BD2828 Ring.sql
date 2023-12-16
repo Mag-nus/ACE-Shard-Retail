@@ -12,7 +12,7 @@ VALUES (2847746088,   1,          8) /* ItemType - Jewelry */
      , (2847746088,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2847746088, 105,          8) /* ItemWorkmanship */
      , (2847746088, 131,         34) /* MaterialType - Peridot */
-     , (2847746088, 172,          1) /* AppraisalLongDescDecoration */;
+     , (2847746088, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (2847746088,   1, False) /* Stuck */

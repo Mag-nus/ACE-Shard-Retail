@@ -15,8 +15,8 @@ VALUES (1343160017,   1,         16) /* ItemType - Creature */
      , (1343160017, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343160017, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343160017, 188,          3) /* HeritageGroup - Sho */
-     , (1343160017, 261,        791) /* CharacterTitleId */
-     , (1343160017, 281,          1) /* Faction1Bits */
+     , (1343160017, 261,        791) /* CharacterTitleId - EmotionalWreck */
+     , (1343160017, 281,          1) /* Faction1Bits - CelestialHand */
      , (1343160017, 287,        590) /* SocietyRankCelhan */
      , (1343160017, 307,         12) /* DamageRating */
      , (1343160017, 308,          9) /* DamageResistRating */
@@ -60,10 +60,10 @@ VALUES (1343160017,   1,   33554510) /* Setup */
      , (1343160017, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343160017, 1, 459074, 70.4334, -54.9515, 0.004999995, 0.981408, 0, 0, 0.1919331) /* Location */
-/* @teleloc 0x00070142 [70.433400 -54.951500 0.005000] 0.981408 0.000000 0.000000 0.191933 */
-     , (1343160017, 8040, 459075, 70, -60, 0.004999995, -4.371139E-08, 0, 0, -1) /* PCAPRecordedLocation */
-/* @teleloc 0x00070143 [70.000000 -60.000000 0.005000] 0.000000 0.000000 0.000000 -1.000000 */;
+VALUES (1343160017, 1, 459074, 70.433395, -54.9515, 0.004999995, 0.981408, 0, 0, 0.19193311) /* Location */
+/* @teleloc 0x00070142 [70.433395 -54.951500 0.005000] 0.981408 0.000000 0.000000 0.191933 */
+     , (1343160017, 8040, 459075, 70, -60, 0.004999995, -4.371139E-08, 0, -0, -1) /* PCAPRecordedLocation */
+/* @teleloc 0x00070143 [70.000000 -60.000000 0.005000] -0.000000 0.000000 -0.000000 -1.000000 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343160017,  26, 1342499688) /* Monarch */

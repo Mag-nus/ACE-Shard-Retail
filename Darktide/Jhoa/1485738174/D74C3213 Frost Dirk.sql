@@ -26,8 +26,8 @@ VALUES (3612094995,   1,          1) /* ItemType - MeleeWeapon */
      , (3612094995, 115,         22) /* ItemSkillLevelLimit */
      , (3612094995, 131,         51) /* MaterialType - Ivory */
      , (3612094995, 151,          2) /* HookType - Wall */
-     , (3612094995, 172,          3) /* AppraisalLongDescDecoration */
-     , (3612094995, 176,         46) /* AppraisalItemSkill */
+     , (3612094995, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (3612094995, 176,         46) /* AppraisalItemSkill - FinesseWeapons */
      , (3612094995, 353,          6) /* WeaponType - Dagger */
      , (3612094995, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */;
 

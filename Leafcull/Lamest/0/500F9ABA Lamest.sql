@@ -14,8 +14,8 @@ VALUES (1343199930,   1,         16) /* ItemType - Creature */
      , (1343199930, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343199930, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343199930, 188,          2) /* HeritageGroup - Gharundim */
-     , (1343199930, 261,         10) /* CharacterTitleId */
-     , (1343199930, 281,          4) /* Faction1Bits */
+     , (1343199930, 261,         10) /* CharacterTitleId - LifeCaster */
+     , (1343199930, 281,          4) /* Faction1Bits - RadiantBlood */
      , (1343199930, 289,       1001) /* SocietyRankRadblo */
      , (1343199930, 307,         20) /* DamageRating */
      , (1343199930, 308,          5) /* DamageResistRating */

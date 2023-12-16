@@ -21,7 +21,7 @@ VALUES (3711056306,   1,          8) /* ItemType - Jewelry */
      , (3711056306, 158,          7) /* WieldRequirements - Level */
      , (3711056306, 159,          1) /* WieldSkillType - Axe */
      , (3711056306, 160,        180) /* WieldDifficulty */
-     , (3711056306, 172,          1) /* AppraisalLongDescDecoration */
+     , (3711056306, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (3711056306, 379,          1) /* GearMaxHealth */
      , (3711056306, 9015,         51) /* InventoryOrder */;
 

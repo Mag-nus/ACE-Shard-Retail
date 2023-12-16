@@ -15,8 +15,8 @@ VALUES (1343761430,   1,         16) /* ItemType - Creature */
      , (1343761430, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343761430, 134,          4) /* PlayerKillerStatus - PK */
      , (1343761430, 188,          2) /* HeritageGroup - Gharundim */
-     , (1343761430, 261,        494) /* CharacterTitleId */
-     , (1343761430, 281,          4) /* Faction1Bits */
+     , (1343761430, 261,        494) /* CharacterTitleId - FuzzyBunnySlayer */
+     , (1343761430, 281,          4) /* Faction1Bits - RadiantBlood */
      , (1343761430, 289,       1001) /* SocietyRankRadblo */
      , (1343761430, 307,         17) /* DamageRating */
      , (1343761430, 308,          5) /* DamageResistRating */
@@ -59,9 +59,9 @@ VALUES (1343761430,   1,   33554433) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343761430, 1, 3482648631, 147.78, 144.0152, 20.005, -0.7637732, 0, 0, 0.6454847) /* Location */
-/* @teleloc 0xCF950037 [147.780000 144.015200 20.005000] -0.763773 0.000000 0.000000 0.645485 */
-     , (1343761430, 8040, 2103705613, 32.67612, 105.7125, 11.91863, -0.8188851, 0, 0, -0.5739574) /* PCAPRecordedLocation */
-/* @teleloc 0x7D64000D [32.676120 105.712500 11.918630] -0.818885 0.000000 0.000000 -0.573957 */;
+/* @teleloc 0xCF950037 [147.779999 144.015198 20.004999] -0.763773 0.000000 0.000000 0.645485 */
+     , (1343761430, 8040, 2103705613, 32.676125, 105.71251, 11.918634, -0.81888515, 0, -0, -0.57395744) /* PCAPRecordedLocation */
+/* @teleloc 0x7D64000D [32.676125 105.712509 11.918634] -0.818885 0.000000 -0.000000 -0.573957 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343761430,  26, 1343841671) /* Monarch */

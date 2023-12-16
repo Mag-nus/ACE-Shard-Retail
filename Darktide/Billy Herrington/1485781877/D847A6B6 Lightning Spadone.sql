@@ -25,8 +25,8 @@ VALUES (3628574390,   1,          1) /* ItemType - MeleeWeapon */
      , (3628574390, 115,         71) /* ItemSkillLevelLimit */
      , (3628574390, 131,         58) /* MaterialType - Bronze */
      , (3628574390, 151,          2) /* HookType - Wall */
-     , (3628574390, 172,          1) /* AppraisalLongDescDecoration */
-     , (3628574390, 176,         41) /* AppraisalItemSkill */
+     , (3628574390, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (3628574390, 176,         41) /* AppraisalItemSkill - TwoHandedCombat */
      , (3628574390, 292,          2) /* Cleaving */
      , (3628574390, 353,         11) /* WeaponType - TwoHanded */
      , (3628574390, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */

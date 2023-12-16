@@ -23,7 +23,7 @@ VALUES (1342514441,   1,         16) /* ItemType - Creature */
      , (1342514441, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342514441, 139,         13) /* DeathLevel */
      , (1342514441, 188,          1) /* HeritageGroup - Aluvian */
-     , (1342514441, 261,          1) /* CharacterTitleId */
+     , (1342514441, 261,          1) /* CharacterTitleId - Adventurer */
      , (1342514441, 307,          0) /* DamageRating */
      , (1342514441, 308,          0) /* DamageResistRating */
      , (1342514441, 312,          0) /* HealOverTime */

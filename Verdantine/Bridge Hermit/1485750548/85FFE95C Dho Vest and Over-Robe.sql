@@ -13,7 +13,7 @@ VALUES (2248141148,   1,          2) /* ItemType - Armor */
      , (2248141148,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2248141148, 105,          8) /* ItemWorkmanship */
      , (2248141148, 131,         55) /* MaterialType - ReedSharkHide */
-     , (2248141148, 172,          5) /* AppraisalLongDescDecoration */
+     , (2248141148, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2248141148, 177,          4) /* GemCount */
      , (2248141148, 178,         38) /* GemType */
      , (2248141148, 9015,         44) /* InventoryOrder */;

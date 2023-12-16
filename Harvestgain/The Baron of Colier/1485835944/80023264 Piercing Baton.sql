@@ -26,7 +26,7 @@ VALUES (2147627620,   1,      32768) /* ItemType - Caster */
      , (2147627620, 160,        375) /* WieldDifficulty */
      , (2147627620, 166,         14) /* SlayerCreatureType - Undead */
      , (2147627620, 171,          6) /* NumTimesTinkered */
-     , (2147627620, 172,          5) /* AppraisalLongDescDecoration */
+     , (2147627620, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2147627620, 177,          4) /* GemCount */
      , (2147627620, 178,         38) /* GemType */
      , (2147627620, 179,         16) /* ImbuedEffect - PierceRending */

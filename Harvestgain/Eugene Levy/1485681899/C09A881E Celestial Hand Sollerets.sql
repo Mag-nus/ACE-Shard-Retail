@@ -25,7 +25,7 @@ VALUES (3231352862,   1,          2) /* ItemType - Armor */
      , (3231352862, 159,        287) /* WieldSkillType */
      , (3231352862, 160,          1) /* WieldDifficulty */
      , (3231352862, 171,         10) /* NumTimesTinkered */
-     , (3231352862, 172,          3) /* AppraisalLongDescDecoration */
+     , (3231352862, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (3231352862, 265,         30) /* EquipmentSetId - SocietyArmor */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

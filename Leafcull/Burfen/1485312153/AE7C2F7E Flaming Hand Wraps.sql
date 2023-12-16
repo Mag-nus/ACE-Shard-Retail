@@ -19,7 +19,7 @@ VALUES (2927374206,   1,          1) /* ItemType - MeleeWeapon */
      , (2927374206, 105,          5) /* ItemWorkmanship */
      , (2927374206, 131,         63) /* MaterialType - Silver */
      , (2927374206, 151,          2) /* HookType - Wall */
-     , (2927374206, 172,          1) /* AppraisalLongDescDecoration */
+     , (2927374206, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (2927374206, 353,          1) /* WeaponType - Unarmed */
      , (2927374206, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (2927374206, 9015,         10) /* InventoryOrder */;

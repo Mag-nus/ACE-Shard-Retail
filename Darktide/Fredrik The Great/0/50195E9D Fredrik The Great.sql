@@ -14,7 +14,7 @@ VALUES (1343839901,   1,         16) /* ItemType - Creature */
      , (1343839901, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343839901, 134,          4) /* PlayerKillerStatus - PK */
      , (1343839901, 188,          3) /* HeritageGroup - Sho */
-     , (1343839901, 261,        691) /* CharacterTitleId */
+     , (1343839901, 261,        691) /* CharacterTitleId - KnightoftheNorthwestTower */
      , (1343839901, 390,          0) /* Enlightenment */
      , (1343839901, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 

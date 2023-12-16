@@ -9,7 +9,7 @@ VALUES (2166085385,   1,        256) /* ItemType - MissileWeapon */
      , (2166085385,  18,        256) /* UiEffects - Acid */
      , (2166085385,  19,       8757) /* Value */
      , (2166085385,  50,          4) /* AmmoType - Atlatl */
-     , (2166085385,  51,          2) /* CombatUse - Missle */
+     , (2166085385,  51,          2) /* CombatUse - Missile */
      , (2166085385,  65,        101) /* Placement - Resting */
      , (2166085385,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2166085385, 131,         77) /* MaterialType - Teak */

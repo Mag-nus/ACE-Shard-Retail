@@ -26,7 +26,7 @@ VALUES (1343016169,   1,         16) /* ItemType - Creature */
      , (1343016169, 188,          3) /* HeritageGroup - Sho */
      , (1343016169, 199, 1435984631) /* HousePurchaseTimestamp */
      , (1343016169, 230,          5) /* AugmentationIncreasedCarryingCapacity */
-     , (1343016169, 261,         50) /* CharacterTitleId */
+     , (1343016169, 261,         50) /* CharacterTitleId - Explorer */
      , (1343016169, 307,          0) /* DamageRating */
      , (1343016169, 308,          0) /* DamageResistRating */
      , (1343016169, 312,          0) /* HealOverTime */

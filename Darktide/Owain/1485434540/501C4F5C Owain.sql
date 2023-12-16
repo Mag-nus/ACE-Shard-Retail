@@ -29,8 +29,8 @@ VALUES (1344032604,   1,         16) /* ItemType - Creature */
      , (1344032604, 199, 1451927193) /* HousePurchaseTimestamp */
      , (1344032604, 232,          1) /* AugmentationSpellsRemainPastDeath */
      , (1344032604, 233,          1) /* AugmentationCriticalDefense */
-     , (1344032604, 261,          1) /* CharacterTitleId */
-     , (1344032604, 281,          1) /* Faction1Bits */
+     , (1344032604, 261,          1) /* CharacterTitleId - Adventurer */
+     , (1344032604, 281,          1) /* Faction1Bits - CelestialHand */
      , (1344032604, 287,          1) /* SocietyRankCelhan */
      , (1344032604, 298,          1) /* AugmentationCriticalExpertise */
      , (1344032604, 299,          1) /* AugmentationCriticalPower */

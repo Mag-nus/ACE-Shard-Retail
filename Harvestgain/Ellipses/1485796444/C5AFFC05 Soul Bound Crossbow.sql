@@ -14,7 +14,7 @@ VALUES (3316644869,   1,        256) /* ItemType - MissileWeapon */
      , (3316644869,  48,         47) /* WeaponSkill - MissileWeapons */
      , (3316644869,  49,          0) /* WeaponTime */
      , (3316644869,  50,          2) /* AmmoType - Bolt */
-     , (3316644869,  51,          2) /* CombatUse - Missle */
+     , (3316644869,  51,          2) /* CombatUse - Missile */
      , (3316644869,  65,        101) /* Placement - Resting */
      , (3316644869,  93,       3092) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, LightingOn */
      , (3316644869, 106,        475) /* ItemSpellcraft */
@@ -26,7 +26,7 @@ VALUES (3316644869,   1,        256) /* ItemType - MissileWeapon */
      , (3316644869, 159,         47) /* WieldSkillType - MissileWeapons */
      , (3316644869, 160,        360) /* WieldDifficulty */
      , (3316644869, 166,         77) /* SlayerCreatureType - Ghost */
-     , (3316644869, 265,        138) /* EquipmentSetId - UNKNOWN_138 */
+     , (3316644869, 265,        138) /* EquipmentSetId - ParagonMissile */
      , (3316644869, 319,          2) /* ItemMaxLevel */
      , (3316644869, 320,          1) /* ItemXpStyle - Fixed */
      , (3316644869, 353,          9) /* WeaponType - Crossbow */

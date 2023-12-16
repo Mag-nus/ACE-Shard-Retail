@@ -19,9 +19,9 @@ VALUES (1343203920,   1, True ) /* Stuck */
      , (1343203920,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343203920, 8010, 0.5254145860672) /* PCAPRecordedVelocityX */
-     , (1343203920, 8011, 10.2553663253784) /* PCAPRecordedVelocityY */
-     , (1343203920, 8012, -1.21795320510864) /* PCAPRecordedVelocityZ */;
+VALUES (1343203920, 8010, 0.5254145860671997) /* PCAPRecordedVelocityX */
+     , (1343203920, 8011, 10.255366325378418) /* PCAPRecordedVelocityY */
+     , (1343203920, 8012, -1.2179532051086426) /* PCAPRecordedVelocityZ */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343203920,   1, 'Sgt Nova') /* Name */;
@@ -38,10 +38,10 @@ VALUES (1343203920,   1,   33554433) /* Setup */
      , (1343203920, 8005,     104519) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Velocity, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343203920, 1, 3332964362, 45.04037, 39.55698, 42.005, -0.09288378, 0, 0, -0.9956769) /* Location */
-/* @teleloc 0xC6A9000A [45.040370 39.556980 42.005000] -0.092884 0.000000 0.000000 -0.995677 */
-     , (1343203920, 8040, 3332898840, 48.29065, 184.8232, 46.4084, 0.9996725, 0, 0, -0.0255914) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A80018 [48.290650 184.823200 46.408400] 0.999673 0.000000 0.000000 -0.025591 */;
+VALUES (1343203920, 1, 3332964362, 45.040375, 39.55698, 42.005, -0.09288378, 0, 0, -0.99567693) /* Location */
+/* @teleloc 0xC6A9000A [45.040375 39.556980 42.005001] -0.092884 0.000000 0.000000 -0.995677 */
+     , (1343203920, 8040, 3332898840, 48.290653, 184.82315, 46.408398, 0.9996725, 0, 0, -0.025591396) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A80018 [48.290653 184.823151 46.408398] 0.999672 0.000000 0.000000 -0.025591 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343203920,  26, 1343154536) /* Monarch */

@@ -17,7 +17,7 @@ VALUES (1342436809,   1,         16) /* ItemType - Creature */
      , (1342436809, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342436809, 134,         64) /* PlayerKillerStatus - PKLite */
      , (1342436809, 188,          4) /* HeritageGroup - Viamontian */
-     , (1342436809, 261,         11) /* CharacterTitleId */
+     , (1342436809, 261,         11) /* CharacterTitleId - Soldier */
      , (1342436809, 307,          0) /* DamageRating */
      , (1342436809, 308,          0) /* DamageResistRating */
      , (1342436809, 312,          0) /* HealOverTime */

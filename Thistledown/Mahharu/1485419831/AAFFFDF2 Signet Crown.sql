@@ -14,7 +14,7 @@ VALUES (2868903410,   1,          2) /* ItemType - Armor */
      , (2868903410, 105,          9) /* ItemWorkmanship */
      , (2868903410, 131,         57) /* MaterialType - Brass */
      , (2868903410, 151,          2) /* HookType - Wall */
-     , (2868903410, 172,          7) /* AppraisalLongDescDecoration */
+     , (2868903410, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2868903410, 177,          8) /* GemCount */
      , (2868903410, 178,         21) /* GemType */
      , (2868903410, 9015,         27) /* InventoryOrder */;

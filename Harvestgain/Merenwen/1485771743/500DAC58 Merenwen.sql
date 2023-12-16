@@ -27,7 +27,7 @@ VALUES (1343073368,   1,         16) /* ItemType - Creature */
      , (1343073368, 220,          1) /* AugmentationInnateCoordination */
      , (1343073368, 221,          1) /* AugmentationInnateQuickness */
      , (1343073368, 230,          1) /* AugmentationIncreasedCarryingCapacity */
-     , (1343073368, 261,          1) /* CharacterTitleId */
+     , (1343073368, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343073368, 262,         34) /* NumCharacterTitles */
      , (1343073368, 302,          1) /* AugmentationSkilledMagic */
      , (1343073368, 307,          5) /* DamageRating */

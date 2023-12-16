@@ -26,7 +26,7 @@ VALUES (2881823472,   1,          1) /* ItemType - MeleeWeapon */
      , (2881823472, 115,        238) /* ItemSkillLevelLimit */
      , (2881823472, 131,         47) /* MaterialType - WhiteSapphire */
      , (2881823472, 151,          2) /* HookType - Wall */
-     , (2881823472, 176,         44) /* AppraisalItemSkill */
+     , (2881823472, 176,         44) /* AppraisalItemSkill - HeavyWeapons */
      , (2881823472, 353,          2) /* WeaponType - Sword */
      , (2881823472, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */;
 

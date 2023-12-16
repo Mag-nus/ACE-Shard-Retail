@@ -27,7 +27,7 @@ VALUES (1342834610,   1,         16) /* ItemType - Creature */
      , (1342834610, 229,          1) /* AugmentationExtraPackSlot */
      , (1342834610, 230,          5) /* AugmentationIncreasedCarryingCapacity */
      , (1342834610, 233,          1) /* AugmentationCriticalDefense */
-     , (1342834610, 261,          1) /* CharacterTitleId */
+     , (1342834610, 261,          1) /* CharacterTitleId - Adventurer */
      , (1342834610, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1342834610, 295,          1) /* AugmentationInfusedItemMagic */
      , (1342834610, 296,          1) /* AugmentationInfusedLifeMagic */

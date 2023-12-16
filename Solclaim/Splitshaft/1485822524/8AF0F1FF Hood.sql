@@ -22,7 +22,7 @@ VALUES (2331046399,   1,          4) /* ItemType - Clothing */
      , (2331046399, 131,          4) /* MaterialType - Linen */
      , (2331046399, 151,          2) /* HookType - Wall */
      , (2331046399, 171,         10) /* NumTimesTinkered */
-     , (2331046399, 172,          5) /* AppraisalLongDescDecoration */
+     , (2331046399, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2331046399, 177,          1) /* GemCount */
      , (2331046399, 178,         36) /* GemType */
      , (2331046399, 9015,         10) /* InventoryOrder */;

@@ -24,7 +24,7 @@ VALUES (1342183662,   1,         16) /* ItemType - Creature */
      , (1342183662, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342183662, 139,         53) /* DeathLevel */
      , (1342183662, 188,          1) /* HeritageGroup - Aluvian */
-     , (1342183662, 261,         76) /* CharacterTitleId */
+     , (1342183662, 261,         76) /* CharacterTitleId - IronChef */
      , (1342183662, 307,          0) /* DamageRating */
      , (1342183662, 308,          0) /* DamageResistRating */
      , (1342183662, 312,          0) /* HealOverTime */

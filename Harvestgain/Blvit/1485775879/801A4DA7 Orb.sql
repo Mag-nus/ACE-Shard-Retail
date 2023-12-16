@@ -21,7 +21,7 @@ VALUES (2149207463,   1,      32768) /* ItemType - Caster */
      , (2149207463, 115,          0) /* ItemSkillLevelLimit */
      , (2149207463, 131,         67) /* MaterialType - Granite */
      , (2149207463, 151,          2) /* HookType - Wall */
-     , (2149207463, 172,          5) /* AppraisalLongDescDecoration */
+     , (2149207463, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2149207463, 177,          1) /* GemCount */
      , (2149207463, 178,         13) /* GemType */;
 

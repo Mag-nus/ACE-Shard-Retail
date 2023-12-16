@@ -25,8 +25,8 @@ VALUES (2217299821,   1,          2) /* ItemType - Armor */
      , (2217299821, 159,          1) /* WieldSkillType - Axe */
      , (2217299821, 160,        180) /* WieldDifficulty */
      , (2217299821, 171,         10) /* NumTimesTinkered */
-     , (2217299821, 172,          5) /* AppraisalLongDescDecoration */
-     , (2217299821, 176,          7) /* AppraisalItemSkill */
+     , (2217299821, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
+     , (2217299821, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (2217299821, 177,          2) /* GemCount */
      , (2217299821, 178,         21) /* GemType */;
 

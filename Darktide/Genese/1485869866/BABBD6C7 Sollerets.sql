@@ -25,7 +25,7 @@ VALUES (3132872391,   1,          2) /* ItemType - Armor */
      , (3132872391, 159,          1) /* WieldSkillType - Axe */
      , (3132872391, 160,        180) /* WieldDifficulty */
      , (3132872391, 171,         10) /* NumTimesTinkered */
-     , (3132872391, 172,          1) /* AppraisalLongDescDecoration */
+     , (3132872391, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (3132872391, 265,         19) /* EquipmentSetId - Hearty */
      , (3132872391, 370,          1) /* GearDamage */
      , (3132872391, 375,          1) /* GearCritDamageResist */

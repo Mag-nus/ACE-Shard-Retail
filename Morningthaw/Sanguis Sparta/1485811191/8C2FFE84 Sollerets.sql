@@ -22,7 +22,7 @@ VALUES (2351955588,   1,          2) /* ItemType - Armor */
      , (2351955588, 115,          0) /* ItemSkillLevelLimit */
      , (2351955588, 131,         64) /* MaterialType - Steel */
      , (2351955588, 171,          7) /* NumTimesTinkered */
-     , (2351955588, 172,          3) /* AppraisalLongDescDecoration */
+     , (2351955588, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2351955588, 188,          3) /* HeritageGroup - Sho */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

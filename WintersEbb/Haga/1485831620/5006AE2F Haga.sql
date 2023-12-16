@@ -25,7 +25,7 @@ VALUES (1342615087,   1,         16) /* ItemType - Creature */
      , (1342615087, 139,         30) /* DeathLevel */
      , (1342615087, 188,          3) /* HeritageGroup - Sho */
      , (1342615087, 199,          0) /* HousePurchaseTimestamp */
-     , (1342615087, 261,         30) /* CharacterTitleId */
+     , (1342615087, 261,         30) /* CharacterTitleId - Bugstomper */
      , (1342615087, 307,          0) /* DamageRating */
      , (1342615087, 308,          0) /* DamageResistRating */
      , (1342615087, 312,          0) /* HealOverTime */

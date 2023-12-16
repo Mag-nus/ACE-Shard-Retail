@@ -41,7 +41,7 @@ VALUES (1343430166,   1,         16) /* ItemType - Creature */
      , (1343430166, 244,          0) /* AugmentationResistanceFire */
      , (1343430166, 245,          0) /* AugmentationResistanceFrost */
      , (1343430166, 246,          2) /* AugmentationResistanceLightning */
-     , (1343430166, 261,        407) /* CharacterTitleId */
+     , (1343430166, 261,        407) /* CharacterTitleId - GuardianoftheDark */
      , (1343430166, 262,        167) /* NumCharacterTitles */
      , (1343430166, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1343430166, 295,          1) /* AugmentationInfusedItemMagic */

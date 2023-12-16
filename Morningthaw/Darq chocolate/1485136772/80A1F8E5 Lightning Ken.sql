@@ -28,8 +28,8 @@ VALUES (2158098661,   1,          1) /* ItemType - MeleeWeapon */
      , (2158098661, 158,          2) /* WieldRequirements - RawSkill */
      , (2158098661, 159,         44) /* WieldSkillType - HeavyWeapons */
      , (2158098661, 160,        250) /* WieldDifficulty */
-     , (2158098661, 172,          3) /* AppraisalLongDescDecoration */
-     , (2158098661, 176,         44) /* AppraisalItemSkill */
+     , (2158098661, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (2158098661, 176,         44) /* AppraisalItemSkill - HeavyWeapons */
      , (2158098661, 188,          3) /* HeritageGroup - Sho */
      , (2158098661, 353,          2) /* WeaponType - Sword */
      , (2158098661, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */

@@ -14,7 +14,7 @@ VALUES (2361687701,   1,          2) /* ItemType - Armor */
      , (2361687701,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2361687701, 105,          7) /* ItemWorkmanship */
      , (2361687701, 131,         52) /* MaterialType - Leather */
-     , (2361687701, 172,          5) /* AppraisalLongDescDecoration */
+     , (2361687701, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2361687701, 177,          3) /* GemCount */
      , (2361687701, 178,         20) /* GemType */;
 

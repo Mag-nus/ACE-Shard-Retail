@@ -13,7 +13,7 @@ VALUES (2248037844,   1,      32768) /* ItemType - Caster */
      , (2248037844, 105,          5) /* ItemWorkmanship */
      , (2248037844, 131,         51) /* MaterialType - Ivory */
      , (2248037844, 151,          2) /* HookType - Wall */
-     , (2248037844, 172,          3) /* AppraisalLongDescDecoration */
+     , (2248037844, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2248037844, 9015,          0) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

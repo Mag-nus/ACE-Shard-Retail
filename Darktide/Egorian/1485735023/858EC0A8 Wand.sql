@@ -20,7 +20,7 @@ VALUES (2240725160,   1,      32768) /* ItemType - Caster */
      , (2240725160, 115,          0) /* ItemSkillLevelLimit */
      , (2240725160, 131,         58) /* MaterialType - Bronze */
      , (2240725160, 151,          2) /* HookType - Wall */
-     , (2240725160, 172,          3) /* AppraisalLongDescDecoration */
+     , (2240725160, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2240725160, 188,          1) /* HeritageGroup - Aluvian */
      , (2240725160, 9015,         10) /* InventoryOrder */;
 

@@ -7,7 +7,7 @@ VALUES (2148672013,   1,        256) /* ItemType - MissileWeapon */
      , (2148672013,   9,    4194304) /* ValidLocations - MissileWeapon */
      , (2148672013,  16,          1) /* ItemUseable - No */
      , (2148672013,  19,      30525) /* Value */
-     , (2148672013,  51,          2) /* CombatUse - Missle */
+     , (2148672013,  51,          2) /* CombatUse - Missile */
      , (2148672013,  65,        101) /* Placement - Resting */
      , (2148672013,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (2148672013, 131,         38) /* MaterialType - Ruby */

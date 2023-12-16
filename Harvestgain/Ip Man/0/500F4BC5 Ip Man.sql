@@ -16,9 +16,9 @@ VALUES (1343179717,   1,         16) /* ItemType - Creature */
      , (1343179717, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343179717, 181,       1456) /* ChessRank */
      , (1343179717, 188,          3) /* HeritageGroup - Sho */
-     , (1343179717, 261,        158) /* CharacterTitleId */
+     , (1343179717, 261,        158) /* CharacterTitleId - DryreachMilitia */
      , (1343179717, 262,         90) /* NumCharacterTitles */
-     , (1343179717, 281,          4) /* Faction1Bits */
+     , (1343179717, 281,          4) /* Faction1Bits - RadiantBlood */
      , (1343179717, 289,          1) /* SocietyRankRadblo */
      , (1343179717, 307,          6) /* DamageRating */
      , (1343179717, 308,         12) /* DamageResistRating */
@@ -60,9 +60,9 @@ VALUES (1343179717,   1,   33554433) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343179717, 1, 722599969, 109.413, 9.47661, 48, 0.864827, 0, 0, -0.50207) /* Location */
-/* @teleloc 0x2B120021 [109.413000 9.476610 48.000000] 0.864827 0.000000 0.000000 -0.502070 */
-     , (1343179717, 8040, 1682309455, 121.8073, -11.55431, -125.995, -0.8393027, 0, 0, -0.5436645) /* PCAPRecordedLocation */
-/* @teleloc 0x6446014F [121.807300 -11.554310 -125.995000] -0.839303 0.000000 0.000000 -0.543665 */;
+/* @teleloc 0x2B120021 [109.413002 9.476610 48.000000] 0.864827 0.000000 0.000000 -0.502070 */
+     , (1343179717, 8040, 1682309455, 121.80733, -11.554313, -125.994995, -0.83930266, 0, 0, -0.54366446) /* PCAPRecordedLocation */
+/* @teleloc 0x6446014F [121.807327 -11.554313 -125.994995] -0.839303 0.000000 0.000000 -0.543664 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343179717,  26, 1342872018) /* Monarch */

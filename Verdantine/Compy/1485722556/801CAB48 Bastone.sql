@@ -28,8 +28,8 @@ VALUES (2149362504,   1,          1) /* ItemType - MeleeWeapon */
      , (2149362504, 158,          2) /* WieldRequirements - RawSkill */
      , (2149362504, 159,         46) /* WieldSkillType - FinesseWeapons */
      , (2149362504, 160,        400) /* WieldDifficulty */
-     , (2149362504, 172,          5) /* AppraisalLongDescDecoration */
-     , (2149362504, 176,         46) /* AppraisalItemSkill */
+     , (2149362504, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
+     , (2149362504, 176,         46) /* AppraisalItemSkill - FinesseWeapons */
      , (2149362504, 177,          3) /* GemCount */
      , (2149362504, 178,         34) /* GemType */
      , (2149362504, 353,          7) /* WeaponType - Staff */

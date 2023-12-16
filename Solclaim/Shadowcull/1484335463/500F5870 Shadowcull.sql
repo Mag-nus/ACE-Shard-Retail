@@ -16,7 +16,7 @@ VALUES (1343182960,   1,         16) /* ItemType - Creature */
      , (1343182960, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343182960, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343182960, 188,          6) /* HeritageGroup - Gearknight */
-     , (1343182960, 261,          1) /* CharacterTitleId */
+     , (1343182960, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343182960, 307,          0) /* DamageRating */
      , (1343182960, 308,          0) /* DamageResistRating */
      , (1343182960, 310,          1) /* AugmentationDamageReduction */

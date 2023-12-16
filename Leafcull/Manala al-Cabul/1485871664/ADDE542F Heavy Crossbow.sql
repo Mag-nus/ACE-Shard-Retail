@@ -13,7 +13,7 @@ VALUES (2917028911,   1,        256) /* ItemType - MissileWeapon */
      , (2917028911,  48,         47) /* WeaponSkill - MissileWeapons */
      , (2917028911,  49,        113) /* WeaponTime */
      , (2917028911,  50,          2) /* AmmoType - Bolt */
-     , (2917028911,  51,          2) /* CombatUse - Missle */
+     , (2917028911,  51,          2) /* CombatUse - Missile */
      , (2917028911,  65,        101) /* Placement - Resting */
      , (2917028911,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2917028911, 105,          2) /* ItemWorkmanship */
@@ -25,7 +25,7 @@ VALUES (2917028911,   1,        256) /* ItemType - MissileWeapon */
      , (2917028911, 115,        130) /* ItemSkillLevelLimit */
      , (2917028911, 131,         58) /* MaterialType - Bronze */
      , (2917028911, 151,          2) /* HookType - Wall */
-     , (2917028911, 176,         47) /* AppraisalItemSkill */
+     , (2917028911, 176,         47) /* AppraisalItemSkill - MissileWeapons */
      , (2917028911, 188,          3) /* HeritageGroup - Sho */
      , (2917028911, 353,          9) /* WeaponType - Crossbow */
      , (2917028911, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */

@@ -9,7 +9,7 @@ VALUES (2783172618,   1,        256) /* ItemType - MissileWeapon */
      , (2783172618,  18,        257) /* UiEffects - Magical, Acid */
      , (2783172618,  19,      19600) /* Value */
      , (2783172618,  50,          2) /* AmmoType - Bolt */
-     , (2783172618,  51,          2) /* CombatUse - Missle */
+     , (2783172618,  51,          2) /* CombatUse - Missile */
      , (2783172618,  65,        101) /* Placement - Resting */
      , (2783172618,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2783172618, 131,         41) /* MaterialType - Sunstone */

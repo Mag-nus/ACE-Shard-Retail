@@ -22,7 +22,7 @@ VALUES (3633432153,   1,          1) /* ItemType - MeleeWeapon */
      , (3633432153, 107,       9985) /* ItemCurMana */
      , (3633432153, 108,      10000) /* ItemMaxMana */
      , (3633432153, 114,          0) /* Attuned - Normal */
-     , (3633432153, 263,          2) /* ResistanceModifierType */
+     , (3633432153, 263,          2) /* ResistanceModifierType - Pierce */
      , (3633432153, 267,      10800) /* Lifespan */
      , (3633432153, 268,       7186) /* RemainingLifespan */
      , (3633432153, 353,          5) /* WeaponType - Spear */

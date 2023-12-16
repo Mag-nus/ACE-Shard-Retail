@@ -26,7 +26,7 @@ VALUES (1343382061,   1,         16) /* ItemType - Creature */
      , (1343382061, 188,          8) /* HeritageGroup - Lugian */
      , (1343382061, 199, 1460183024) /* HousePurchaseTimestamp */
      , (1343382061, 230,          1) /* AugmentationIncreasedCarryingCapacity */
-     , (1343382061, 261,        676) /* CharacterTitleId */
+     , (1343382061, 261,        676) /* CharacterTitleId - SureStep */
      , (1343382061, 307,          7) /* DamageRating */
      , (1343382061, 308,          0) /* DamageResistRating */
      , (1343382061, 312,          0) /* HealOverTime */

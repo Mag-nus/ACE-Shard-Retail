@@ -25,7 +25,7 @@ VALUES (2861382549,   1,          1) /* ItemType - MeleeWeapon */
      , (2861382549, 115,        209) /* ItemSkillLevelLimit */
      , (2861382549, 131,         51) /* MaterialType - Ivory */
      , (2861382549, 151,          2) /* HookType - Wall */
-     , (2861382549, 176,         45) /* AppraisalItemSkill */
+     , (2861382549, 176,         45) /* AppraisalItemSkill - LightWeapons */
      , (2861382549, 188,          2) /* HeritageGroup - Gharundim */
      , (2861382549, 353,          1) /* WeaponType - Unarmed */
      , (2861382549, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */

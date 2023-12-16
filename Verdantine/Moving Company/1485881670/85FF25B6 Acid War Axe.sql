@@ -20,7 +20,7 @@ VALUES (2248091062,   1,          1) /* ItemType - MeleeWeapon */
      , (2248091062, 131,         76) /* MaterialType - Pine */
      , (2248091062, 151,          2) /* HookType - Wall */
      , (2248091062, 171,          1) /* NumTimesTinkered */
-     , (2248091062, 172,          3) /* AppraisalLongDescDecoration */
+     , (2248091062, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2248091062, 179,         64) /* ImbuedEffect - AcidRending */
      , (2248091062, 353,          3) /* WeaponType - Axe */
      , (2248091062, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */

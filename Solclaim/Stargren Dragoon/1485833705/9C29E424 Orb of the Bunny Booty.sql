@@ -26,8 +26,8 @@ VALUES (2619991076,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2619991076,  29,       1) /* WeaponDefense */
-     , (2619991076,  39, 1.60000002384186) /* DefaultScale */
-     , (2619991076, 144, 1.29444758306224E-314) /* ManaConversionMod */;
+     , (2619991076,  39, 1.600000023841858) /* DefaultScale */
+     , (2619991076, 144, 1.294447583E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2619991076,   1, 'Orb of the Bunny Booty') /* Name */
@@ -46,8 +46,8 @@ VALUES (2619991076,   1,   33556870) /* Setup */
      , (2619991076, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (2619991076, 8040, 3370713130, 129.4861, 37.41502, -0.071, 0.5257645, 0.5257645, -0.4728337, -0.4728337) /* PCAPRecordedLocation */
-/* @teleloc 0xC8E9002A [129.486100 37.415020 -0.071000] 0.525765 0.525765 -0.472834 -0.472834 */;
+VALUES (2619991076, 8040, 3370713130, 129.48615, 37.415016, -0.071, 0.5257645, 0.5257645, -0.47283366, -0.47283366) /* PCAPRecordedLocation */
+/* @teleloc 0xC8E9002A [129.486145 37.415016 -0.071000] 0.525765 0.525765 -0.472834 -0.472834 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2619991076,   1, 2619990947) /* Owner */

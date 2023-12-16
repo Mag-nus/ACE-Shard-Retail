@@ -9,7 +9,7 @@ VALUES (3710970161,   1,        256) /* ItemType - MissileWeapon */
      , (3710970161,  18,         65) /* UiEffects - Magical, Lightning */
      , (3710970161,  19,      12009) /* Value */
      , (3710970161,  50,          4) /* AmmoType - Atlatl */
-     , (3710970161,  51,          2) /* CombatUse - Missle */
+     , (3710970161,  51,          2) /* CombatUse - Missile */
      , (3710970161,  65,        101) /* Placement - Resting */
      , (3710970161,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3710970161, 131,         60) /* MaterialType - Gold */

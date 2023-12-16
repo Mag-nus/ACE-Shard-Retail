@@ -15,7 +15,7 @@ VALUES (2158714458,   1,      32768) /* ItemType - Caster */
      , (2158714458, 131,         68) /* MaterialType - Marble */
      , (2158714458, 151,          2) /* HookType - Wall */
      , (2158714458, 171,         10) /* NumTimesTinkered */
-     , (2158714458, 172,          7) /* AppraisalLongDescDecoration */
+     , (2158714458, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2158714458, 177,          8) /* GemCount */
      , (2158714458, 178,         38) /* GemType */
      , (2158714458, 179,          1) /* ImbuedEffect - CriticalStrike */;

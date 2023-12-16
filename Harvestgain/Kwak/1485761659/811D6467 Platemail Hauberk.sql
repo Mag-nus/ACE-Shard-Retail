@@ -20,8 +20,8 @@ VALUES (2166187111,   1,          2) /* ItemType - Armor */
      , (2166187111, 110,          0) /* ItemAllegianceRankLimit */
      , (2166187111, 115,        144) /* ItemSkillLevelLimit */
      , (2166187111, 131,         60) /* MaterialType - Gold */
-     , (2166187111, 172,          7) /* AppraisalLongDescDecoration */
-     , (2166187111, 176,          7) /* AppraisalItemSkill */
+     , (2166187111, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (2166187111, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (2166187111, 177,          2) /* GemCount */
      , (2166187111, 178,         23) /* GemType */
      , (2166187111, 188,          1) /* HeritageGroup - Aluvian */

@@ -21,7 +21,7 @@ VALUES (3070936528,   1,          2) /* ItemType - Armor */
      , (3070936528, 115,          0) /* ItemSkillLevelLimit */
      , (3070936528, 131,         60) /* MaterialType - Gold */
      , (3070936528, 151,          2) /* HookType - Wall */
-     , (3070936528, 172,          5) /* AppraisalLongDescDecoration */
+     , (3070936528, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (3070936528, 177,          5) /* GemCount */
      , (3070936528, 178,         38) /* GemType */
      , (3070936528, 9015,         15) /* InventoryOrder */;

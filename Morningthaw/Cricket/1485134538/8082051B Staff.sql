@@ -21,7 +21,7 @@ VALUES (2156004635,   1,      32768) /* ItemType - Caster */
      , (2156004635, 131,         35) /* MaterialType - RedGarnet */
      , (2156004635, 151,          2) /* HookType - Wall */
      , (2156004635, 171,          6) /* NumTimesTinkered */
-     , (2156004635, 172,          7) /* AppraisalLongDescDecoration */
+     , (2156004635, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2156004635, 177,          2) /* GemCount */
      , (2156004635, 178,         38) /* GemType */
      , (2156004635, 9015,          8) /* InventoryOrder */;
@@ -35,10 +35,10 @@ VALUES (2156004635,   1, False) /* Stuck */
      , (2156004635,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2156004635,   5, -0.0416666666666667) /* ManaRate */
+VALUES (2156004635,   5, -0.041666666666666664) /* ManaRate */
      , (2156004635,  29,       1) /* WeaponDefense */
      , (2156004635,  39, 0.800000011920929) /* DefaultScale */
-     , (2156004635, 144, 1.065207822428E-314) /* ManaConversionMod */
+     , (2156004635, 144, 1.0652078224E-314) /* ManaConversionMod */
      , (2156004635, 8004,       6) /* PCAPRecordedWorkmanship */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)

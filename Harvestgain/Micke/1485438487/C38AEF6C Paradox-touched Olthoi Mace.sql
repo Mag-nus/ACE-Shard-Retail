@@ -26,7 +26,7 @@ VALUES (3280662380,   1,          1) /* ItemType - MeleeWeapon */
      , (3280662380, 159,         46) /* WieldSkillType - FinesseWeapons */
      , (3280662380, 160,        400) /* WieldDifficulty */
      , (3280662380, 166,          1) /* SlayerCreatureType - Olthoi */
-     , (3280662380, 263,          1) /* ResistanceModifierType */
+     , (3280662380, 263,          1) /* ResistanceModifierType - Slash */
      , (3280662380, 353,          4) /* WeaponType - Mace */
      , (3280662380, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (3280662380, 9015,          0) /* InventoryOrder */;

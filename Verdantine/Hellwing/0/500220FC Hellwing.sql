@@ -14,8 +14,8 @@ VALUES (1342316796,   1,         16) /* ItemType - Creature */
      , (1342316796, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342316796, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342316796, 188,          1) /* HeritageGroup - Aluvian */
-     , (1342316796, 261,        822) /* CharacterTitleId */
-     , (1342316796, 281,          4) /* Faction1Bits */
+     , (1342316796, 261,        822) /* CharacterTitleId - HarbingerofMadness */
+     , (1342316796, 281,          4) /* Faction1Bits - RadiantBlood */
      , (1342316796, 289,       1001) /* SocietyRankRadblo */
      , (1342316796, 307,         19) /* DamageRating */
      , (1342316796, 308,         21) /* DamageResistRating */
@@ -59,10 +59,10 @@ VALUES (1342316796,   1,   33554433) /* Setup */
      , (1342316796, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1342316796, 1, 2847146026, 131.5555, 47.86797, 94.005, 1, 0, 0, -1) /* Location */
-/* @teleloc 0xA9B4002A [131.555500 47.867970 94.005000] 1.000000 0.000000 0.000000 -1.000000 */
-     , (1342316796, 8040, 2847146026, 133.822, 47.99675, 94.005, -4.371139E-08, 0, 0, -1) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B4002A [133.822000 47.996750 94.005000] 0.000000 0.000000 0.000000 -1.000000 */;
+VALUES (1342316796, 1, 2847146026, 131.55554, 47.86797, 94.005005, 1, 0, 0, -1) /* Location */
+/* @teleloc 0xA9B4002A [131.555542 47.867970 94.005005] 1.000000 0.000000 0.000000 -1.000000 */
+     , (1342316796, 8040, 2847146026, 133.82199, 47.99675, 94.005005, -4.371139E-08, 0, -0, -1) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B4002A [133.821991 47.996750 94.005005] -0.000000 0.000000 -0.000000 -1.000000 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342316796,  26, 1342337034) /* Monarch */

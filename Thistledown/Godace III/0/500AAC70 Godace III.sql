@@ -15,8 +15,8 @@ VALUES (1342876784,   1,         16) /* ItemType - Creature */
      , (1342876784, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342876784, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342876784, 188,          2) /* HeritageGroup - Gharundim */
-     , (1342876784, 261,        110) /* CharacterTitleId */
-     , (1342876784, 281,          4) /* Faction1Bits */
+     , (1342876784, 261,        110) /* CharacterTitleId - Queenslayer */
+     , (1342876784, 281,          4) /* Faction1Bits - RadiantBlood */
      , (1342876784, 289,          1) /* SocietyRankRadblo */
      , (1342876784, 307,          9) /* DamageRating */
      , (1342876784, 308,          3) /* DamageResistRating */
@@ -61,10 +61,10 @@ VALUES (1342876784,   1,   33554433) /* Setup */
      , (1342876784, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1342876784, 1, 4128899118, 127, 127, 94.005, 1, 0, 0, 0) /* Location */
-/* @teleloc 0xF61A002E [127.000000 127.000000 94.005000] 1.000000 0.000000 0.000000 0.000000 */
-     , (1342876784, 8040, 4095213581, 35.62169, 99.71107, 160.005, -0.005073212, 0, 0, -0.9999871) /* PCAPRecordedLocation */
-/* @teleloc 0xF418000D [35.621690 99.711070 160.005000] -0.005073 0.000000 0.000000 -0.999987 */;
+VALUES (1342876784, 1, 4128899118, 127, 127, 94.005005, 1, 0, 0, 0) /* Location */
+/* @teleloc 0xF61A002E [127.000000 127.000000 94.005005] 1.000000 0.000000 0.000000 0.000000 */
+     , (1342876784, 8040, 4095213581, 35.621693, 99.711075, 160.00499, -0.0050732116, 0, -0, -0.9999871) /* PCAPRecordedLocation */
+/* @teleloc 0xF418000D [35.621693 99.711075 160.004990] -0.005073 0.000000 -0.000000 -0.999987 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342876784,  26, 1342499688) /* Monarch */

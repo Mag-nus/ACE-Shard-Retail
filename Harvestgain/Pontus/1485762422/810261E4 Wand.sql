@@ -20,7 +20,7 @@ VALUES (2164416996,   1,      32768) /* ItemType - Caster */
      , (2164416996, 115,          0) /* ItemSkillLevelLimit */
      , (2164416996, 131,         22) /* MaterialType - FireOpal */
      , (2164416996, 151,          2) /* HookType - Wall */
-     , (2164416996, 172,          7) /* AppraisalLongDescDecoration */
+     , (2164416996, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2164416996, 177,          4) /* GemCount */
      , (2164416996, 178,         45) /* GemType */
      , (2164416996, 188,          1) /* HeritageGroup - Aluvian */

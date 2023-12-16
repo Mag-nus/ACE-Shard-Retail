@@ -7,7 +7,7 @@ VALUES (2166000529,   1,        256) /* ItemType - MissileWeapon */
      , (2166000529,   9,    4194304) /* ValidLocations - MissileWeapon */
      , (2166000529,  16,          1) /* ItemUseable - No */
      , (2166000529,  19,       9974) /* Value */
-     , (2166000529,  51,          2) /* CombatUse - Missle */
+     , (2166000529,  51,          2) /* CombatUse - Missile */
      , (2166000529,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (2166000529, 131,         66) /* MaterialType - Alabaster */
      , (2166000529, 151,          1) /* HookType - Floor */

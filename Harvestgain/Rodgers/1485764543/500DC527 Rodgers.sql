@@ -28,7 +28,7 @@ VALUES (1343079719,   1,         16) /* ItemType - Creature */
      , (1343079719, 199, 1446483827) /* HousePurchaseTimestamp */
      , (1343079719, 219,          2) /* AugmentationInnateEndurance */
      , (1343079719, 220,          2) /* AugmentationInnateCoordination */
-     , (1343079719, 261,         60) /* CharacterTitleId */
+     , (1343079719, 261,         60) /* CharacterTitleId - GlendenWoodMilitia */
      , (1343079719, 262,         41) /* NumCharacterTitles */
      , (1343079719, 307,          5) /* DamageRating */
      , (1343079719, 308,          0) /* DamageResistRating */

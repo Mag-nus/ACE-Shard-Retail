@@ -20,7 +20,7 @@ VALUES (2368837974,   1,          4) /* ItemType - Clothing */
      , (2368837974, 110,          0) /* ItemAllegianceRankLimit */
      , (2368837974, 115,          0) /* ItemSkillLevelLimit */
      , (2368837974, 131,         55) /* MaterialType - ReedSharkHide */
-     , (2368837974, 172,          7) /* AppraisalLongDescDecoration */
+     , (2368837974, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2368837974, 177,          2) /* GemCount */
      , (2368837974, 178,         50) /* GemType */
      , (2368837974, 188,          4) /* HeritageGroup - Viamontian */

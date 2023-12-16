@@ -22,7 +22,7 @@ VALUES (2541837582,   1,          2) /* ItemType - Armor */
      , (2541837582, 131,         63) /* MaterialType - Silver */
      , (2541837582, 151,          2) /* HookType - Wall */
      , (2541837582, 171,          2) /* NumTimesTinkered */
-     , (2541837582, 172,          7) /* AppraisalLongDescDecoration */
+     , (2541837582, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2541837582, 177,          3) /* GemCount */
      , (2541837582, 178,         39) /* GemType */
      , (2541837582, 9015,          7) /* InventoryOrder */;

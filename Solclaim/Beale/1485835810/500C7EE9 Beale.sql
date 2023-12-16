@@ -43,8 +43,8 @@ VALUES (1342996201,   1,         16) /* ItemType - Creature */
      , (1342996201, 244,          0) /* AugmentationResistanceFire */
      , (1342996201, 245,          0) /* AugmentationResistanceFrost */
      , (1342996201, 246,          2) /* AugmentationResistanceLightning */
-     , (1342996201, 261,        889) /* CharacterTitleId */
-     , (1342996201, 281,          0) /* Faction1Bits */
+     , (1342996201, 261,        889) /* CharacterTitleId - Awakened */
+     , (1342996201, 281,          0) /* Faction1Bits - None */
      , (1342996201, 287,          0) /* SocietyRankCelhan */
      , (1342996201, 288,          0) /* SocietyRankEldweb */
      , (1342996201, 289,          0) /* SocietyRankRadblo */

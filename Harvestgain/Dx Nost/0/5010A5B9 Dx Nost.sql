@@ -14,8 +14,8 @@ VALUES (1343268281,   1,         16) /* ItemType - Creature */
      , (1343268281, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343268281, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343268281, 188,         10) /* HeritageGroup - Penumbraen */
-     , (1343268281, 261,        765) /* CharacterTitleId */
-     , (1343268281, 281,          1) /* Faction1Bits */
+     , (1343268281, 261,        765) /* CharacterTitleId - DerethianNewbie */
+     , (1343268281, 281,          1) /* Faction1Bits - CelestialHand */
      , (1343268281, 287,       1001) /* SocietyRankCelhan */
      , (1343268281, 307,         24) /* DamageRating */
      , (1343268281, 308,         27) /* DamageResistRating */

@@ -24,7 +24,7 @@ VALUES (1343174539,   1,         16) /* ItemType - Creature */
      , (1343174539, 139,         71) /* DeathLevel */
      , (1343174539, 188,         10) /* HeritageGroup - Penumbraen */
      , (1343174539, 199, 1217068930) /* HousePurchaseTimestamp */
-     , (1343174539, 261,        669) /* CharacterTitleId */
+     , (1343174539, 261,        669) /* CharacterTitleId - WispWhipper */
      , (1343174539, 298,          1) /* AugmentationCriticalExpertise */
      , (1343174539, 307,          0) /* DamageRating */
      , (1343174539, 308,          0) /* DamageResistRating */

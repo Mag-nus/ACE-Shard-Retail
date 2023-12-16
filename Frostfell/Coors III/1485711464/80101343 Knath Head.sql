@@ -26,7 +26,7 @@ VALUES (2148537155,   1,          4) /* ItemType - Clothing */
      , (2148537155, 159,          1) /* WieldSkillType - Axe */
      , (2148537155, 160,        180) /* WieldDifficulty */
      , (2148537155, 171,         10) /* NumTimesTinkered */
-     , (2148537155, 172,          1) /* AppraisalLongDescDecoration */
+     , (2148537155, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (2148537155, 179,       4096) /* ImbuedEffect - MagicDefense */
      , (2148537155, 265,         16) /* EquipmentSetId - Defenders */
      , (2148537155, 374,          1) /* GearCritDamage */;

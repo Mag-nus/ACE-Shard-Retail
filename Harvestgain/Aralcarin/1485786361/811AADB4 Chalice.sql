@@ -7,7 +7,7 @@ VALUES (2166009268,   1,        256) /* ItemType - MissileWeapon */
      , (2166009268,   9,    4194304) /* ValidLocations - MissileWeapon */
      , (2166009268,  16,          1) /* ItemUseable - No */
      , (2166009268,  19,       3217) /* Value */
-     , (2166009268,  51,          2) /* CombatUse - Missle */
+     , (2166009268,  51,          2) /* CombatUse - Missile */
      , (2166009268,  65,        101) /* Placement - Resting */
      , (2166009268,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (2166009268, 131,         13) /* MaterialType - Aquamarine */

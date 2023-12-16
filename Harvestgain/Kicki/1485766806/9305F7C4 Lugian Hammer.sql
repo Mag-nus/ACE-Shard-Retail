@@ -28,8 +28,8 @@ VALUES (2466641860,   1,          1) /* ItemType - MeleeWeapon */
      , (2466641860, 158,          2) /* WieldRequirements - RawSkill */
      , (2466641860, 159,         44) /* WieldSkillType - HeavyWeapons */
      , (2466641860, 160,        300) /* WieldDifficulty */
-     , (2466641860, 172,          1) /* AppraisalLongDescDecoration */
-     , (2466641860, 176,         44) /* AppraisalItemSkill */
+     , (2466641860, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (2466641860, 176,         44) /* AppraisalItemSkill - HeavyWeapons */
      , (2466641860, 353,          3) /* WeaponType - Axe */
      , (2466641860, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (2466641860, 9015,         34) /* InventoryOrder */;

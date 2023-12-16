@@ -20,7 +20,7 @@ VALUES (3231350543,   1,          8) /* ItemType - Jewelry */
      , (3231350543, 115,          0) /* ItemSkillLevelLimit */
      , (3231350543, 131,         63) /* MaterialType - Silver */
      , (3231350543, 171,          3) /* NumTimesTinkered */
-     , (3231350543, 172,          7) /* AppraisalLongDescDecoration */
+     , (3231350543, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3231350543, 177,          2) /* GemCount */
      , (3231350543, 178,         13) /* GemType */
      , (3231350543, 179,       8192) /* ImbuedEffect - Spellbook */
@@ -36,8 +36,8 @@ VALUES (3231350543,   1, False) /* Stuck */
      , (3231350543,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3231350543,   5, -0.0555555555555556) /* ManaRate */
-     , (3231350543,  39, 0.400000005960464) /* DefaultScale */
+VALUES (3231350543,   5, -0.05555555555555555) /* ManaRate */
+     , (3231350543,  39, 0.4000000059604645) /* DefaultScale */
      , (3231350543, 8004,       6) /* PCAPRecordedWorkmanship */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)

@@ -20,7 +20,7 @@ VALUES (2776286325,   1,      32768) /* ItemType - Caster */
      , (2776286325, 115,          0) /* ItemSkillLevelLimit */
      , (2776286325, 131,         22) /* MaterialType - FireOpal */
      , (2776286325, 151,          2) /* HookType - Wall */
-     , (2776286325, 172,          7) /* AppraisalLongDescDecoration */
+     , (2776286325, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2776286325, 177,          5) /* GemCount */
      , (2776286325, 178,         34) /* GemType */
      , (2776286325, 9015,          1) /* InventoryOrder */;

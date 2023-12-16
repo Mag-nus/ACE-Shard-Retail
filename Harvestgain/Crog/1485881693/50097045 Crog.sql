@@ -37,8 +37,8 @@ VALUES (1342795845,   1,         16) /* ItemType - Creature */
      , (1342795845, 234,          1) /* AugmentationBonusXp */
      , (1342795845, 235,          4) /* AugmentationBonusSalvage */
      , (1342795845, 238,          5) /* AugmentationIncreasedSpellDuration */
-     , (1342795845, 261,        774) /* CharacterTitleId */
-     , (1342795845, 281,          2) /* Faction1Bits */
+     , (1342795845, 261,        774) /* CharacterTitleId - Heretic */
+     , (1342795845, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1342795845, 287,          0) /* SocietyRankCelhan */
      , (1342795845, 288,       1001) /* SocietyRankEldweb */
      , (1342795845, 289,          0) /* SocietyRankRadblo */

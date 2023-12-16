@@ -26,7 +26,7 @@ VALUES (1342988711,   1,         16) /* ItemType - Creature */
      , (1342988711, 139,         93) /* DeathLevel */
      , (1342988711, 188,          5) /* HeritageGroup - Shadowbound */
      , (1342988711, 199, 1403396263) /* HousePurchaseTimestamp */
-     , (1342988711, 261,        467) /* CharacterTitleId */
+     , (1342988711, 261,        467) /* CharacterTitleId - ChampionRingVI */
      , (1342988711, 298,          1) /* AugmentationCriticalExpertise */
      , (1342988711, 307,          0) /* DamageRating */
      , (1342988711, 308,          0) /* DamageResistRating */

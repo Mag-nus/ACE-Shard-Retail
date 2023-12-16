@@ -12,14 +12,14 @@ VALUES (3351155260,   1,        256) /* ItemType - MissileWeapon */
      , (3351155260,  48,         47) /* WeaponSkill - MissileWeapons */
      , (3351155260,  49,         14) /* WeaponTime */
      , (3351155260,  50,          4) /* AmmoType - Atlatl */
-     , (3351155260,  51,          2) /* CombatUse - Missle */
+     , (3351155260,  51,          2) /* CombatUse - Missile */
      , (3351155260,  65,        101) /* Placement - Resting */
      , (3351155260,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3351155260, 105,          6) /* ItemWorkmanship */
      , (3351155260, 131,         63) /* MaterialType - Silver */
      , (3351155260, 151,          2) /* HookType - Wall */
      , (3351155260, 171,          8) /* NumTimesTinkered */
-     , (3351155260, 172,          3) /* AppraisalLongDescDecoration */
+     , (3351155260, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (3351155260, 179,         32) /* ImbuedEffect - BludgeonRending */
      , (3351155260, 353,         10) /* WeaponType - Thrown */
      , (3351155260, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */

@@ -20,7 +20,7 @@ VALUES (3231369776,   1,          8) /* ItemType - Jewelry */
      , (3231369776, 115,          0) /* ItemSkillLevelLimit */
      , (3231369776, 131,         60) /* MaterialType - Gold */
      , (3231369776, 171,          1) /* NumTimesTinkered */
-     , (3231369776, 172,          7) /* AppraisalLongDescDecoration */
+     , (3231369776, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3231369776, 177,          2) /* GemCount */
      , (3231369776, 178,         22) /* GemType */
      , (3231369776, 179,       8192) /* ImbuedEffect - Spellbook */;

@@ -27,7 +27,7 @@ VALUES (1343389476,   1,         16) /* ItemType - Creature */
      , (1343389476, 231,          3) /* AugmentationLessDeathItemLoss */
      , (1343389476, 232,          1) /* AugmentationSpellsRemainPastDeath */
      , (1343389476, 233,          1) /* AugmentationCriticalDefense */
-     , (1343389476, 261,          1) /* CharacterTitleId */
+     , (1343389476, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343389476, 298,          1) /* AugmentationCriticalExpertise */
      , (1343389476, 299,          1) /* AugmentationCriticalPower */
      , (1343389476, 301,          1) /* AugmentationSkilledMissile */

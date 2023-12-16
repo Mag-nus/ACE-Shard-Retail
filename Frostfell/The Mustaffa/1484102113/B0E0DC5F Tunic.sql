@@ -20,7 +20,7 @@ VALUES (2967526495,   1,          4) /* ItemType - Clothing */
      , (2967526495, 110,          0) /* ItemAllegianceRankLimit */
      , (2967526495, 115,          0) /* ItemSkillLevelLimit */
      , (2967526495, 131,          7) /* MaterialType - Velvet */
-     , (2967526495, 172,          7) /* AppraisalLongDescDecoration */
+     , (2967526495, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2967526495, 177,          3) /* GemCount */
      , (2967526495, 178,         39) /* GemType */
      , (2967526495, 9015,         14) /* InventoryOrder */;

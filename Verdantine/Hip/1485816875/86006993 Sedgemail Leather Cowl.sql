@@ -24,7 +24,7 @@ VALUES (2248173971,   1,          2) /* ItemType - Armor */
      , (2248173971, 158,          7) /* WieldRequirements - Level */
      , (2248173971, 159,          1) /* WieldSkillType - Axe */
      , (2248173971, 160,        180) /* WieldDifficulty */
-     , (2248173971, 172,          1) /* AppraisalLongDescDecoration */
+     , (2248173971, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (2248173971, 265,         17) /* EquipmentSetId - Tinkers */
      , (2248173971, 9015,         76) /* InventoryOrder */;
 

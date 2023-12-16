@@ -21,7 +21,7 @@ VALUES (3621362648,   1,      32768) /* ItemType - Caster */
      , (3621362648, 131,         63) /* MaterialType - Silver */
      , (3621362648, 151,          2) /* HookType - Wall */
      , (3621362648, 171,          1) /* NumTimesTinkered */
-     , (3621362648, 172,          3) /* AppraisalLongDescDecoration */
+     , (3621362648, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (3621362648, 179,        512) /* ImbuedEffect - FireRending */
      , (3621362648, 9015,         10) /* InventoryOrder */;
 

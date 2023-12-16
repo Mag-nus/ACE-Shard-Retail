@@ -24,7 +24,7 @@ VALUES (3711105325,   1,          4) /* ItemType - Clothing */
      , (3711105325, 158,          7) /* WieldRequirements - Level */
      , (3711105325, 159,          1) /* WieldSkillType - Axe */
      , (3711105325, 160,        150) /* WieldDifficulty */
-     , (3711105325, 172,          1) /* AppraisalLongDescDecoration */
+     , (3711105325, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (3711105325, 265,         25) /* EquipmentSetId - Interlocking */
      , (3711105325, 9015,          4) /* InventoryOrder */;
 

@@ -17,7 +17,7 @@ VALUES (2909033583,   1,      32768) /* ItemType - Caster */
      , (2909033583, 108,       2000) /* ItemMaxMana */
      , (2909033583, 115,        250) /* ItemSkillLevelLimit */
      , (2909033583, 151,          2) /* HookType - Wall */
-     , (2909033583, 176,         33) /* AppraisalItemSkill */;
+     , (2909033583, 176,         33) /* AppraisalItemSkill - LifeMagic */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (2909033583,   1, False) /* Stuck */
@@ -29,9 +29,9 @@ VALUES (2909033583,   1, False) /* Stuck */
      , (2909033583,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2909033583,   5, -0.0500000007450581) /* ManaRate */
+VALUES (2909033583,   5, -0.05000000074505806) /* ManaRate */
      , (2909033583,  29,       1) /* WeaponDefense */
-     , (2909033583, 144, 1.43725355595877E-314) /* ManaConversionMod */;
+     , (2909033583, 144, 1.437253556E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2909033583,   1, 'Dark Sorcerer''s Phylactery') /* Name */
@@ -48,8 +48,8 @@ VALUES (2909033583,   1,   33557338) /* Setup */
      , (2909033583, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (2909033583, 8040, 2749825071, 130.2545, 153.8974, 51.929, -0.01597148, -0.01597148, -0.7069264, -0.7069264) /* PCAPRecordedLocation */
-/* @teleloc 0xA3E7002F [130.254500 153.897400 51.929000] -0.015971 -0.015971 -0.706926 -0.706926 */;
+VALUES (2909033583, 8040, 2749825071, 130.25447, 153.89737, 51.929, -0.015971484, -0.015971484, -0.7069264, -0.7069264) /* PCAPRecordedLocation */
+/* @teleloc 0xA3E7002F [130.254471 153.897369 51.929001] -0.015971 -0.015971 -0.706926 -0.706926 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2909033583,   3, 1343810636) /* Wielder */

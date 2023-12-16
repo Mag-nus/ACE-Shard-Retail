@@ -24,7 +24,7 @@ VALUES (1343228296,   1,         16) /* ItemType - Creature */
      , (1343228296, 139,         96) /* DeathLevel */
      , (1343228296, 188,          3) /* HeritageGroup - Sho */
      , (1343228296, 199, 1395492609) /* HousePurchaseTimestamp */
-     , (1343228296, 261,          9) /* CharacterTitleId */
+     , (1343228296, 261,          9) /* CharacterTitleId - BowHunter */
      , (1343228296, 307,          5) /* DamageRating */
      , (1343228296, 308,          0) /* DamageResistRating */
      , (1343228296, 312,          0) /* HealOverTime */

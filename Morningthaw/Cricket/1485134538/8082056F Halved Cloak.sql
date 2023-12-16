@@ -19,7 +19,7 @@ VALUES (2156004719,   1,          4) /* ItemType - Clothing */
      , (2156004719, 158,          7) /* WieldRequirements - Level */
      , (2156004719, 159,          1) /* WieldSkillType - Axe */
      , (2156004719, 160,         60) /* WieldDifficulty */
-     , (2156004719, 172,          1) /* AppraisalLongDescDecoration */
+     , (2156004719, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (2156004719, 265,         73) /* EquipmentSetId - CloakSalvaging */
      , (2156004719, 319,          2) /* ItemMaxLevel */
      , (2156004719, 320,          2) /* ItemXpStyle - ScalesWithLevel */

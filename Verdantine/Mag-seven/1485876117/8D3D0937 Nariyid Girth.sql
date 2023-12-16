@@ -25,8 +25,8 @@ VALUES (2369587511,   1,          2) /* ItemType - Armor */
      , (2369587511, 159,          1) /* WieldSkillType - Axe */
      , (2369587511, 160,        180) /* WieldDifficulty */
      , (2369587511, 171,         10) /* NumTimesTinkered */
-     , (2369587511, 172,          1) /* AppraisalLongDescDecoration */
-     , (2369587511, 176,          6) /* AppraisalItemSkill */
+     , (2369587511, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (2369587511, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (2369587511, 179,       4096) /* ImbuedEffect - MagicDefense */
      , (2369587511, 265,         16) /* EquipmentSetId - Defenders */;
 

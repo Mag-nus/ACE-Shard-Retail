@@ -25,7 +25,7 @@ VALUES (1343256006,   1,         16) /* ItemType - Creature */
      , (1343256006, 139,         20) /* DeathLevel */
      , (1343256006, 188,          1) /* HeritageGroup - Aluvian */
      , (1343256006, 192,          0) /* FakeFishingSkill */
-     , (1343256006, 261,        433) /* CharacterTitleId */
+     , (1343256006, 261,        433) /* CharacterTitleId - ObviouslyBored */
      , (1343256006, 307,          5) /* DamageRating */
      , (1343256006, 308,          0) /* DamageResistRating */
      , (1343256006, 312,          0) /* HealOverTime */

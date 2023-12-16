@@ -20,7 +20,7 @@ VALUES (1343182243,   1,         16) /* ItemType - Creature */
      , (1343182243, 188,          8) /* HeritageGroup - Lugian */
      , (1343182243, 199, 1332711298) /* HousePurchaseTimestamp */
      , (1343182243, 230,          1) /* AugmentationIncreasedCarryingCapacity */
-     , (1343182243, 261,         12) /* CharacterTitleId */
+     , (1343182243, 261,         12) /* CharacterTitleId - Swashbuckler */
      , (1343182243, 307,          0) /* DamageRating */
      , (1343182243, 308,          0) /* DamageResistRating */
      , (1343182243, 312,          0) /* HealOverTime */

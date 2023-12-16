@@ -8,7 +8,7 @@ VALUES (3629879632,   1,        256) /* ItemType - MissileWeapon */
      , (3629879632,  16,          1) /* ItemUseable - No */
      , (3629879632,  19,       7850) /* Value */
      , (3629879632,  50,          2) /* AmmoType - Bolt */
-     , (3629879632,  51,          2) /* CombatUse - Missle */
+     , (3629879632,  51,          2) /* CombatUse - Missile */
      , (3629879632,  65,        101) /* Placement - Resting */
      , (3629879632,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3629879632, 131,         41) /* MaterialType - Sunstone */

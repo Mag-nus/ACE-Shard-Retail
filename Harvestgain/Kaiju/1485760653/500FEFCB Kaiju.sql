@@ -23,7 +23,7 @@ VALUES (1343221707,   1,         16) /* ItemType - Creature */
      , (1343221707, 188,          8) /* HeritageGroup - Lugian */
      , (1343221707, 199, 1471419197) /* HousePurchaseTimestamp */
      , (1343221707, 230,          1) /* AugmentationIncreasedCarryingCapacity */
-     , (1343221707, 261,        433) /* CharacterTitleId */
+     , (1343221707, 261,        433) /* CharacterTitleId - ObviouslyBored */
      , (1343221707, 307,          0) /* DamageRating */
      , (1343221707, 308,          0) /* DamageResistRating */
      , (1343221707, 312,          0) /* HealOverTime */

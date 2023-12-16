@@ -24,7 +24,7 @@ VALUES (2153706705,   1,          2) /* ItemType - Armor */
      , (2153706705, 158,          2) /* WieldRequirements - RawSkill */
      , (2153706705, 159,         15) /* WieldSkillType - MagicDefense */
      , (2153706705, 160,        280) /* WieldDifficulty */
-     , (2153706705, 172,          3) /* AppraisalLongDescDecoration */
+     , (2153706705, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2153706705, 188,          2) /* HeritageGroup - Gharundim */
      , (2153706705, 9015,          0) /* InventoryOrder */;
 

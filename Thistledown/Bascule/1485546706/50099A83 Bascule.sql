@@ -24,7 +24,7 @@ VALUES (1342806659,   1,         16) /* ItemType - Creature */
      , (1342806659, 139,         39) /* DeathLevel */
      , (1342806659, 188,          1) /* HeritageGroup - Aluvian */
      , (1342806659, 199, 1097360957) /* HousePurchaseTimestamp */
-     , (1342806659, 261,        139) /* CharacterTitleId */
+     , (1342806659, 261,        139) /* CharacterTitleId - Swordfighter */
      , (1342806659, 307,          0) /* DamageRating */
      , (1342806659, 308,          0) /* DamageResistRating */
      , (1342806659, 312,          0) /* HealOverTime */

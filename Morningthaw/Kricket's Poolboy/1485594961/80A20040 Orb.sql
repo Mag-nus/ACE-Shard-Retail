@@ -21,7 +21,7 @@ VALUES (2158100544,   1,      32768) /* ItemType - Caster */
      , (2158100544, 131,         43) /* MaterialType - Tourmaline */
      , (2158100544, 151,          2) /* HookType - Wall */
      , (2158100544, 171,          8) /* NumTimesTinkered */
-     , (2158100544, 172,          3) /* AppraisalLongDescDecoration */
+     , (2158100544, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2158100544, 179,         32) /* ImbuedEffect - BludgeonRending */
      , (2158100544, 9015,         53) /* InventoryOrder */;
 

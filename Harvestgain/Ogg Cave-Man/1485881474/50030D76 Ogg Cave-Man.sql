@@ -38,8 +38,8 @@ VALUES (1342377334,   1,         16) /* ItemType - Creature */
      , (1342377334, 237,          2) /* AugmentationFasterRegen */
      , (1342377334, 238,          5) /* AugmentationIncreasedSpellDuration */
      , (1342377334, 244,          2) /* AugmentationResistanceFire */
-     , (1342377334, 261,        109) /* CharacterTitleId */
-     , (1342377334, 281,          1) /* Faction1Bits */
+     , (1342377334, 261,        109) /* CharacterTitleId - Pugilist */
+     , (1342377334, 281,          1) /* Faction1Bits - CelestialHand */
      , (1342377334, 287,       1001) /* SocietyRankCelhan */
      , (1342377334, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1342377334, 295,          1) /* AugmentationInfusedItemMagic */

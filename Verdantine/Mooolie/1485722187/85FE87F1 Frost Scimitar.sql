@@ -20,7 +20,7 @@ VALUES (2248050673,   1,          1) /* ItemType - MeleeWeapon */
      , (2248050673, 131,         59) /* MaterialType - Copper */
      , (2248050673, 151,          2) /* HookType - Wall */
      , (2248050673, 171,          1) /* NumTimesTinkered */
-     , (2248050673, 172,          7) /* AppraisalLongDescDecoration */
+     , (2248050673, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2248050673, 177,          1) /* GemCount */
      , (2248050673, 178,         28) /* GemType */
      , (2248050673, 179,        128) /* ImbuedEffect - ColdRending */

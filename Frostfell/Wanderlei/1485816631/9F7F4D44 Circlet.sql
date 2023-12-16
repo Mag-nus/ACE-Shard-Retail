@@ -24,7 +24,7 @@ VALUES (2675920196,   1,          2) /* ItemType - Armor */
      , (2675920196, 158,          7) /* WieldRequirements - Level */
      , (2675920196, 159,          1) /* WieldSkillType - Axe */
      , (2675920196, 160,        150) /* WieldDifficulty */
-     , (2675920196, 172,          7) /* AppraisalLongDescDecoration */
+     , (2675920196, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2675920196, 177,          5) /* GemCount */
      , (2675920196, 178,         38) /* GemType */
      , (2675920196, 9015,         44) /* InventoryOrder */;

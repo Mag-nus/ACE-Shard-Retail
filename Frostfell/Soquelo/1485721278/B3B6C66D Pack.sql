@@ -3,7 +3,7 @@ VALUES (3015100013, 136, 21, 6476097) /* Container */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (3015100013,   1,        512) /* ItemType - Container */
-     , (3015100013,   5,       4191) /* EncumbranceVal */
+     , (3015100013,   5,       4185) /* EncumbranceVal */
      , (3015100013,   6,         24) /* ItemsCapacity */
      , (3015100013,  16,         56) /* ItemUseable - ContainedViewedRemote */
      , (3015100013,  19,         65) /* Value */

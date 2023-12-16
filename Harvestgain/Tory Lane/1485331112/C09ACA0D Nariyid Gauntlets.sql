@@ -15,7 +15,7 @@ VALUES (3231369741,   1,          2) /* ItemType - Armor */
      , (3231369741, 105,          5) /* ItemWorkmanship */
      , (3231369741, 131,         59) /* MaterialType - Copper */
      , (3231369741, 171,         10) /* NumTimesTinkered */
-     , (3231369741, 172,          7) /* AppraisalLongDescDecoration */
+     , (3231369741, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3231369741, 177,          2) /* GemCount */
      , (3231369741, 178,         22) /* GemType */
      , (3231369741, 179,       1024) /* ImbuedEffect - MeleeDefense */;

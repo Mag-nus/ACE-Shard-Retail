@@ -9,7 +9,7 @@ VALUES (2164331995,   1,        256) /* ItemType - MissileWeapon */
      , (2164331995,  18,       1025) /* UiEffects - Magical, Slashing */
      , (2164331995,  19,       7815) /* Value */
      , (2164331995,  50,          1) /* AmmoType - Arrow */
-     , (2164331995,  51,          2) /* CombatUse - Missle */
+     , (2164331995,  51,          2) /* CombatUse - Missile */
      , (2164331995,  65,        101) /* Placement - Resting */
      , (2164331995,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2164331995, 131,         43) /* MaterialType - Tourmaline */

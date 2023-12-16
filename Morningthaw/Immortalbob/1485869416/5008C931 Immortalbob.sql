@@ -46,9 +46,9 @@ VALUES (1342753073,   1,         16) /* ItemType - Creature */
      , (1342753073, 244,          0) /* AugmentationResistanceFire */
      , (1342753073, 245,          1) /* AugmentationResistanceFrost */
      , (1342753073, 246,          0) /* AugmentationResistanceLightning */
-     , (1342753073, 261,        428) /* CharacterTitleId */
+     , (1342753073, 261,        428) /* CharacterTitleId - WarBeast */
      , (1342753073, 262,        440) /* NumCharacterTitles */
-     , (1342753073, 281,          2) /* Faction1Bits */
+     , (1342753073, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1342753073, 288,       1001) /* SocietyRankEldweb */
      , (1342753073, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1342753073, 295,          1) /* AugmentationInfusedItemMagic */

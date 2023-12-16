@@ -21,7 +21,7 @@ VALUES (2149243779,   1,          2) /* ItemType - Armor */
      , (2149243779, 115,          0) /* ItemSkillLevelLimit */
      , (2149243779, 131,         58) /* MaterialType - Bronze */
      , (2149243779, 171,          2) /* NumTimesTinkered */
-     , (2149243779, 172,          5) /* AppraisalLongDescDecoration */
+     , (2149243779, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2149243779, 177,          2) /* GemCount */
      , (2149243779, 178,         16) /* GemType */;
 

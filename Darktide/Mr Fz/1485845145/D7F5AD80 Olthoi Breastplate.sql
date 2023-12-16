@@ -24,7 +24,7 @@ VALUES (3623202176,   1,          2) /* ItemType - Armor */
      , (3623202176, 158,          2) /* WieldRequirements - RawSkill */
      , (3623202176, 159,          6) /* WieldSkillType - MeleeDefense */
      , (3623202176, 160,        325) /* WieldDifficulty */
-     , (3623202176, 172,          5) /* AppraisalLongDescDecoration */
+     , (3623202176, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (3623202176, 177,          4) /* GemCount */
      , (3623202176, 178,         38) /* GemType */
      , (3623202176, 265,         20) /* EquipmentSetId - Dexterous */

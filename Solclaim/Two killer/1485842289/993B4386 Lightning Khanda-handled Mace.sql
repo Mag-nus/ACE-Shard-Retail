@@ -28,8 +28,8 @@ VALUES (2570797958,   1,          1) /* ItemType - MeleeWeapon */
      , (2570797958, 158,          2) /* WieldRequirements - RawSkill */
      , (2570797958, 159,         41) /* WieldSkillType - TwoHandedCombat */
      , (2570797958, 160,        325) /* WieldDifficulty */
-     , (2570797958, 172,          1) /* AppraisalLongDescDecoration */
-     , (2570797958, 176,         41) /* AppraisalItemSkill */
+     , (2570797958, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (2570797958, 176,         41) /* AppraisalItemSkill - TwoHandedCombat */
      , (2570797958, 292,          2) /* Cleaving */
      , (2570797958, 353,         11) /* WeaponType - TwoHanded */
      , (2570797958, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */

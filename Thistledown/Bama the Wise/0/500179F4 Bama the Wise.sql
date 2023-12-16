@@ -16,8 +16,8 @@ VALUES (1342274036,   1,         16) /* ItemType - Creature */
      , (1342274036, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342274036, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342274036, 188,          1) /* HeritageGroup - Aluvian */
-     , (1342274036, 261,        458) /* CharacterTitleId */
-     , (1342274036, 281,          1) /* Faction1Bits */
+     , (1342274036, 261,        458) /* CharacterTitleId - WarrioroftheSeventhCircle */
+     , (1342274036, 281,          1) /* Faction1Bits - CelestialHand */
      , (1342274036, 287,          1) /* SocietyRankCelhan */
      , (1342274036, 307,          9) /* DamageRating */
      , (1342274036, 308,          3) /* DamageResistRating */

@@ -19,7 +19,7 @@ VALUES (1343200951,   1, True ) /* Stuck */
      , (1343200951,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343200951,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1343200951,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343200951,   1, 'Chief Cook and Bottle Washer') /* Name */;
@@ -36,10 +36,10 @@ VALUES (1343200951,   1,   33560839) /* Setup */
      , (1343200951, 8005,     104643) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343200951, 1, 23855548, 53.17112, -27.80711, 0.005999982, -0.04358, 0, 0, -0.99905) /* Location */
-/* @teleloc 0x016C01BC [53.171120 -27.807110 0.006000] -0.043580 0.000000 0.000000 -0.999050 */
-     , (1343200951, 8040, 23855548, 53.17112, -27.80711, 0.005999982, -0.04358, 0, 0, -0.99905) /* PCAPRecordedLocation */
-/* @teleloc 0x016C01BC [53.171120 -27.807110 0.006000] -0.043580 0.000000 0.000000 -0.999050 */;
+VALUES (1343200951, 1, 23855548, 53.171116, -27.807106, 0.0059999824, -0.043580003, 0, 0, -0.99904996) /* Location */
+/* @teleloc 0x016C01BC [53.171116 -27.807106 0.006000] -0.043580 0.000000 0.000000 -0.999050 */
+     , (1343200951, 8040, 23855548, 53.171116, -27.807106, 0.0059999824, -0.043580003, 0, -0, -0.99904996) /* PCAPRecordedLocation */
+/* @teleloc 0x016C01BC [53.171116 -27.807106 0.006000] -0.043580 0.000000 -0.000000 -0.999050 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343200951,  26, 1342593253) /* Monarch */

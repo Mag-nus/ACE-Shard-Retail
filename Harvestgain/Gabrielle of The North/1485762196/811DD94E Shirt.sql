@@ -20,7 +20,7 @@ VALUES (2166217038,   1,          4) /* ItemType - Clothing */
      , (2166217038, 110,          0) /* ItemAllegianceRankLimit */
      , (2166217038, 115,          0) /* ItemSkillLevelLimit */
      , (2166217038, 131,          6) /* MaterialType - Silk */
-     , (2166217038, 172,          7) /* AppraisalLongDescDecoration */
+     , (2166217038, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2166217038, 177,          3) /* GemCount */
      , (2166217038, 178,         38) /* GemType */
      , (2166217038, 9015,          2) /* InventoryOrder */;

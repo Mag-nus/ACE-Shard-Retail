@@ -25,9 +25,9 @@ VALUES (2563258453,   1,          2) /* ItemType - Armor */
      , (2563258453, 159,          1) /* WieldSkillType - Axe */
      , (2563258453, 160,        180) /* WieldDifficulty */
      , (2563258453, 171,         10) /* NumTimesTinkered */
-     , (2563258453, 172,          1) /* AppraisalLongDescDecoration */
+     , (2563258453, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (2563258453, 265,         19) /* EquipmentSetId - Hearty */
-     , (2563258453, 324,          6) /* HeritageSpecificArmor */
+     , (2563258453, 324,          6) /* HeritageSpecificArmor - Gearknight */
      , (2563258453, 374,          1) /* GearCritDamage */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

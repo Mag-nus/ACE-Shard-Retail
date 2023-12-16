@@ -13,7 +13,7 @@ VALUES (3344012565,   1,        256) /* ItemType - MissileWeapon */
      , (3344012565,  48,         47) /* WeaponSkill - MissileWeapons */
      , (3344012565,  49,         40) /* WeaponTime */
      , (3344012565,  50,          4) /* AmmoType - Atlatl */
-     , (3344012565,  51,          2) /* CombatUse - Missle */
+     , (3344012565,  51,          2) /* CombatUse - Missile */
      , (3344012565,  65,          1) /* Placement - RightHandCombat */
      , (3344012565,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3344012565, 151,          2) /* HookType - Wall */

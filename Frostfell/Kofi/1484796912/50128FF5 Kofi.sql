@@ -20,7 +20,7 @@ VALUES (1343393781,   1,         16) /* ItemType - Creature */
      , (1343393781, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343393781, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343393781, 188,          2) /* HeritageGroup - Gharundim */
-     , (1343393781, 261,          9) /* CharacterTitleId */
+     , (1343393781, 261,          9) /* CharacterTitleId - BowHunter */
      , (1343393781, 307,          0) /* DamageRating */
      , (1343393781, 308,          0) /* DamageResistRating */
      , (1343393781, 312,          0) /* HealOverTime */

@@ -19,7 +19,7 @@ VALUES (2507681434,   1,          8) /* ItemType - Jewelry */
      , (2507681434, 110,          0) /* ItemAllegianceRankLimit */
      , (2507681434, 115,          0) /* ItemSkillLevelLimit */
      , (2507681434, 131,         58) /* MaterialType - Bronze */
-     , (2507681434, 172,          1) /* AppraisalLongDescDecoration */;
+     , (2507681434, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (2507681434,   1, False) /* Stuck */

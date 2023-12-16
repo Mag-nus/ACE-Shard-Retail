@@ -13,7 +13,7 @@ VALUES (2622394065,   1,        128) /* ItemType - Misc */
      , (2622394065,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2622394065,  94,      33025) /* TargetType - WeaponOrCaster */
      , (2622394065, 114,          1) /* Attuned - Attuned */
-     , (2622394065, 9015,         23) /* InventoryOrder */;
+     , (2622394065, 9015,         34) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (2622394065,   1, False) /* Stuck */

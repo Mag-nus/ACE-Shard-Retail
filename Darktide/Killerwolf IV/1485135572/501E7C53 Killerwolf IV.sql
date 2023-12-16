@@ -21,7 +21,7 @@ VALUES (1344175187,   1,         16) /* ItemType - Creature */
      , (1344175187, 134,          4) /* PlayerKillerStatus - PK */
      , (1344175187, 139,        180) /* DeathLevel */
      , (1344175187, 188,         13) /* HeritageGroup - OlthoiAcid */
-     , (1344175187, 261,        712) /* CharacterTitleId */
+     , (1344175187, 261,        712) /* CharacterTitleId - AcidSpitter */
      , (1344175187, 307,          0) /* DamageRating */
      , (1344175187, 308,          0) /* DamageResistRating */
      , (1344175187, 312,          0) /* HealOverTime */

@@ -20,7 +20,7 @@ VALUES (2153711517,   1,      32768) /* ItemType - Caster */
      , (2153711517, 115,          0) /* ItemSkillLevelLimit */
      , (2153711517, 131,         20) /* MaterialType - Diamond */
      , (2153711517, 151,          2) /* HookType - Wall */
-     , (2153711517, 172,          7) /* AppraisalLongDescDecoration */
+     , (2153711517, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2153711517, 177,          4) /* GemCount */
      , (2153711517, 178,         13) /* GemType */
      , (2153711517, 188,          3) /* HeritageGroup - Sho */

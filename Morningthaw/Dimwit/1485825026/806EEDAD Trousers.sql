@@ -24,8 +24,8 @@ VALUES (2154753453,   1,          4) /* ItemType - Clothing */
      , (2154753453, 158,          7) /* WieldRequirements - Level */
      , (2154753453, 159,          1) /* WieldSkillType - Axe */
      , (2154753453, 160,        180) /* WieldDifficulty */
-     , (2154753453, 172,          1) /* AppraisalLongDescDecoration */
-     , (2154753453, 324,          6) /* HeritageSpecificArmor */
+     , (2154753453, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (2154753453, 324,          6) /* HeritageSpecificArmor - Gearknight */
      , (2154753453, 370,          3) /* GearDamage */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

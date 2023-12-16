@@ -20,7 +20,7 @@ VALUES (2205245570,   1,          1) /* ItemType - MeleeWeapon */
      , (2205245570, 131,         59) /* MaterialType - Copper */
      , (2205245570, 151,          2) /* HookType - Wall */
      , (2205245570, 171,          7) /* NumTimesTinkered */
-     , (2205245570, 172,          1) /* AppraisalLongDescDecoration */
+     , (2205245570, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (2205245570, 179,        512) /* ImbuedEffect - FireRending */
      , (2205245570, 292,          2) /* Cleaving */
      , (2205245570, 353,         11) /* WeaponType - TwoHanded */

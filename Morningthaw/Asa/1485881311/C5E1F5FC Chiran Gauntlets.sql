@@ -22,8 +22,8 @@ VALUES (3319920124,   1,          2) /* ItemType - Armor */
      , (3319920124, 115,        262) /* ItemSkillLevelLimit */
      , (3319920124, 131,          7) /* MaterialType - Velvet */
      , (3319920124, 171,          7) /* NumTimesTinkered */
-     , (3319920124, 172,          7) /* AppraisalLongDescDecoration */
-     , (3319920124, 176,          6) /* AppraisalItemSkill */
+     , (3319920124, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (3319920124, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (3319920124, 177,          2) /* GemCount */
      , (3319920124, 178,         35) /* GemType */;
 

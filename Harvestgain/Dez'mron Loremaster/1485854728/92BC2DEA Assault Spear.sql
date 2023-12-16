@@ -22,7 +22,7 @@ VALUES (2461806058,   1,          1) /* ItemType - MeleeWeapon */
      , (2461806058, 109,        120) /* ItemDifficulty */
      , (2461806058, 115,        225) /* ItemSkillLevelLimit */
      , (2461806058, 151,          2) /* HookType - Wall */
-     , (2461806058, 176,         45) /* AppraisalItemSkill */
+     , (2461806058, 176,         45) /* AppraisalItemSkill - LightWeapons */
      , (2461806058, 353,          5) /* WeaponType - Spear */
      , (2461806058, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (2461806058, 9015,         12) /* InventoryOrder */;

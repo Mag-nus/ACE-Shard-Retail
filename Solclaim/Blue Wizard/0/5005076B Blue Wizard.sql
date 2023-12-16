@@ -17,9 +17,9 @@ VALUES (1342506859,   1,         16) /* ItemType - Creature */
      , (1342506859, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342506859, 181,       1623) /* ChessRank */
      , (1342506859, 188,          2) /* HeritageGroup - Gharundim */
-     , (1342506859, 261,        767) /* CharacterTitleId */
+     , (1342506859, 261,        767) /* CharacterTitleId - NotableCitizen */
      , (1342506859, 262,         89) /* NumCharacterTitles */
-     , (1342506859, 281,          1) /* Faction1Bits */
+     , (1342506859, 281,          1) /* Faction1Bits - CelestialHand */
      , (1342506859, 287,       1001) /* SocietyRankCelhan */
      , (1342506859, 307,         15) /* DamageRating */
      , (1342506859, 308,         14) /* DamageResistRating */
@@ -61,10 +61,10 @@ VALUES (1342506859,   1,   33554433) /* Setup */
      , (1342506859, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1342506859, 1, 20185358, 32.32912, -31.66789, 1.324334, 0.9987503, 0, 0, -0.04997912) /* Location */
-/* @teleloc 0x0134010E [32.329120 -31.667890 1.324334] 0.998750 0.000000 0.000000 -0.049979 */
-     , (1342506859, 8040, 20185358, 32.32912, -31.66789, 1.324334, 0.9987503, 0, 0, -0.04997913) /* PCAPRecordedLocation */
-/* @teleloc 0x0134010E [32.329120 -31.667890 1.324334] 0.998750 0.000000 0.000000 -0.049979 */;
+VALUES (1342506859, 1, 20185358, 32.329117, -31.667889, 1.3243341, 0.99875027, 0, 0, -0.049979124) /* Location */
+/* @teleloc 0x0134010E [32.329117 -31.667889 1.324334] 0.998750 0.000000 0.000000 -0.049979 */
+     , (1342506859, 8040, 20185358, 32.329117, -31.667889, 1.3243341, 0.99875027, 0, 0, -0.049979128) /* PCAPRecordedLocation */
+/* @teleloc 0x0134010E [32.329117 -31.667889 1.324334] 0.998750 0.000000 0.000000 -0.049979 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342506859,  26, 1342195194) /* Monarch */

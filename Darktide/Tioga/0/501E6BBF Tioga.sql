@@ -13,7 +13,7 @@ VALUES (1344170943,   1,         16) /* ItemType - Creature */
      , (1344170943, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1344170943, 134,          4) /* PlayerKillerStatus - PK */
      , (1344170943, 188,          1) /* HeritageGroup - Aluvian */
-     , (1344170943, 261,        125) /* CharacterTitleId */
+     , (1344170943, 261,        125) /* CharacterTitleId - Shredder */
      , (1344170943, 390,          0) /* Enlightenment */
      , (1344170943, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
@@ -49,8 +49,8 @@ VALUES (1344170943,   1,   33554433) /* Setup */
      , (1344170943, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1344170943, 1, 28049695, 35.69075, -19.70675, 0.004999995, 0.6826805, 0, 0, -0.7307169) /* Location */
-/* @teleloc 0x01AC011F [35.690750 -19.706750 0.005000] 0.682681 0.000000 0.000000 -0.730717 */
+VALUES (1344170943, 1, 28049695, 35.690754, -19.70675, 0.004999995, 0.68268055, 0, 0, -0.73071694) /* Location */
+/* @teleloc 0x01AC011F [35.690754 -19.706751 0.005000] 0.682681 0.000000 0.000000 -0.730717 */
      , (1344170943, 8040, 459077, 70, -80, 0.004999995, 1, 0, 0, 0) /* PCAPRecordedLocation */
 /* @teleloc 0x00070145 [70.000000 -80.000000 0.005000] 1.000000 0.000000 0.000000 0.000000 */;
 

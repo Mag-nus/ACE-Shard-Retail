@@ -16,7 +16,7 @@ VALUES (1343256137,   1,         16) /* ItemType - Creature */
      , (1343256137, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343256137, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343256137, 188,          1) /* HeritageGroup - Aluvian */
-     , (1343256137, 261,         10) /* CharacterTitleId */
+     , (1343256137, 261,         10) /* CharacterTitleId - LifeCaster */
      , (1343256137, 307,          0) /* DamageRating */
      , (1343256137, 308,          0) /* DamageResistRating */
      , (1343256137, 312,          0) /* HealOverTime */

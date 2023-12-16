@@ -25,7 +25,7 @@ VALUES (1343670165,   1,         16) /* ItemType - Creature */
      , (1343670165, 139,         83) /* DeathLevel */
      , (1343670165, 188,          3) /* HeritageGroup - Sho */
      , (1343670165, 199, 1119662180) /* HousePurchaseTimestamp */
-     , (1343670165, 261,         31) /* CharacterTitleId */
+     , (1343670165, 261,         31) /* CharacterTitleId - BunnyMaster */
      , (1343670165, 307,          0) /* DamageRating */
      , (1343670165, 308,          0) /* DamageResistRating */
      , (1343670165, 312,          0) /* HealOverTime */

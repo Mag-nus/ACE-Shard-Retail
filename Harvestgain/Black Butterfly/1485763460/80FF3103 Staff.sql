@@ -21,7 +21,7 @@ VALUES (2164207875,   1,      32768) /* ItemType - Caster */
      , (2164207875, 115,          0) /* ItemSkillLevelLimit */
      , (2164207875, 131,         12) /* MaterialType - Amethyst */
      , (2164207875, 151,          2) /* HookType - Wall */
-     , (2164207875, 172,          5) /* AppraisalLongDescDecoration */
+     , (2164207875, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2164207875, 177,          5) /* GemCount */
      , (2164207875, 178,         49) /* GemType */;
 

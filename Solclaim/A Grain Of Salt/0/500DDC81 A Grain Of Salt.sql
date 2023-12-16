@@ -14,8 +14,8 @@ VALUES (1343085697,   1,         16) /* ItemType - Creature */
      , (1343085697, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343085697, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343085697, 188,          3) /* HeritageGroup - Sho */
-     , (1343085697, 261,        878) /* CharacterTitleId */
-     , (1343085697, 281,          4) /* Faction1Bits */
+     , (1343085697, 261,        878) /* CharacterTitleId - GauntletChampion */
+     , (1343085697, 281,          4) /* Faction1Bits - RadiantBlood */
      , (1343085697, 289,        595) /* SocietyRankRadblo */
      , (1343085697, 307,         28) /* DamageRating */
      , (1343085697, 308,         12) /* DamageResistRating */
@@ -58,9 +58,9 @@ VALUES (1343085697,   1,   33554433) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343085697, 1, 1925840933, 104.5, 116, 94.67167, 1, 0, 0, -1) /* Location */
-/* @teleloc 0x72CA0025 [104.500000 116.000000 94.671670] 1.000000 0.000000 0.000000 -1.000000 */
-     , (1343085697, 8040, 2103705613, 37.7105, 108.0102, 12.005, 0.6609458, 0, 0, -0.7504337) /* PCAPRecordedLocation */
-/* @teleloc 0x7D64000D [37.710500 108.010200 12.005000] 0.660946 0.000000 0.000000 -0.750434 */;
+/* @teleloc 0x72CA0025 [104.500000 116.000000 94.671669] 1.000000 0.000000 0.000000 -1.000000 */
+     , (1343085697, 8040, 2103705613, 37.7105, 108.01022, 12.004999, 0.6609458, 0, 0, -0.7504337) /* PCAPRecordedLocation */
+/* @teleloc 0x7D64000D [37.710499 108.010223 12.004999] 0.660946 0.000000 0.000000 -0.750434 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343085697,  26, 1343115197) /* Monarch */

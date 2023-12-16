@@ -21,7 +21,7 @@ VALUES (2153710005,   1,      32768) /* ItemType - Caster */
      , (2153710005, 115,          0) /* ItemSkillLevelLimit */
      , (2153710005, 131,         22) /* MaterialType - FireOpal */
      , (2153710005, 151,          2) /* HookType - Wall */
-     , (2153710005, 172,          7) /* AppraisalLongDescDecoration */
+     , (2153710005, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2153710005, 177,          2) /* GemCount */
      , (2153710005, 178,         13) /* GemType */;
 

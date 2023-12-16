@@ -25,7 +25,7 @@ VALUES (3708731274,   1,          2) /* ItemType - Armor */
      , (3708731274, 158,          2) /* WieldRequirements - RawSkill */
      , (3708731274, 159,          6) /* WieldSkillType - MeleeDefense */
      , (3708731274, 160,        325) /* WieldDifficulty */
-     , (3708731274, 172,          7) /* AppraisalLongDescDecoration */
+     , (3708731274, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3708731274, 177,          2) /* GemCount */
      , (3708731274, 178,         13) /* GemType */
      , (3708731274, 188,          3) /* HeritageGroup - Sho */;

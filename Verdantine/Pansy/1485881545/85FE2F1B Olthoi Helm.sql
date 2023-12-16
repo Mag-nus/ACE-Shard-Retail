@@ -25,8 +25,8 @@ VALUES (2248027931,   1,          2) /* ItemType - Armor */
      , (2248027931, 158,          2) /* WieldRequirements - RawSkill */
      , (2248027931, 159,          6) /* WieldSkillType - MeleeDefense */
      , (2248027931, 160,        400) /* WieldDifficulty */
-     , (2248027931, 172,          5) /* AppraisalLongDescDecoration */
-     , (2248027931, 176,          6) /* AppraisalItemSkill */
+     , (2248027931, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
+     , (2248027931, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (2248027931, 177,          2) /* GemCount */
      , (2248027931, 178,         23) /* GemType */
      , (2248027931, 265,         25) /* EquipmentSetId - Interlocking */

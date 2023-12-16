@@ -20,7 +20,7 @@ VALUES (2156006051,   1,      32768) /* ItemType - Caster */
      , (2156006051, 159,         34) /* WieldSkillType - WarMagic */
      , (2156006051, 160,        330) /* WieldDifficulty */
      , (2156006051, 171,          7) /* NumTimesTinkered */
-     , (2156006051, 172,          7) /* AppraisalLongDescDecoration */
+     , (2156006051, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2156006051, 177,          4) /* GemCount */
      , (2156006051, 178,         34) /* GemType */
      , (2156006051, 179,         32) /* ImbuedEffect - BludgeonRending */;

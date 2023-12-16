@@ -26,8 +26,8 @@ VALUES (2217850129,   1,          1) /* ItemType - MeleeWeapon */
      , (2217850129, 131,         76) /* MaterialType - Pine */
      , (2217850129, 151,          2) /* HookType - Wall */
      , (2217850129, 171,          7) /* NumTimesTinkered */
-     , (2217850129, 172,          1) /* AppraisalLongDescDecoration */
-     , (2217850129, 176,         46) /* AppraisalItemSkill */
+     , (2217850129, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (2217850129, 176,         46) /* AppraisalItemSkill - FinesseWeapons */
      , (2217850129, 179,         32) /* ImbuedEffect - BludgeonRending */
      , (2217850129, 353,          7) /* WeaponType - Staff */
      , (2217850129, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */

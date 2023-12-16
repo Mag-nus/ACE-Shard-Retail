@@ -31,7 +31,7 @@ VALUES (1342620788,   1,         16) /* ItemType - Creature */
      , (1342620788, 231,          3) /* AugmentationLessDeathItemLoss */
      , (1342620788, 235,          4) /* AugmentationBonusSalvage */
      , (1342620788, 238,          5) /* AugmentationIncreasedSpellDuration */
-     , (1342620788, 261,        517) /* CharacterTitleId */
+     , (1342620788, 261,        517) /* CharacterTitleId - ParadoxtouchedQueenslayer */
      , (1342620788, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1342620788, 295,          1) /* AugmentationInfusedItemMagic */
      , (1342620788, 296,          1) /* AugmentationInfusedLifeMagic */

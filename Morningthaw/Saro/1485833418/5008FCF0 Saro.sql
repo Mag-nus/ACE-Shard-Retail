@@ -27,7 +27,7 @@ VALUES (1342766320,   1,         16) /* ItemType - Creature */
      , (1342766320, 181,       1625) /* ChessRank */
      , (1342766320, 188,          1) /* HeritageGroup - Aluvian */
      , (1342766320, 199, 1384226881) /* HousePurchaseTimestamp */
-     , (1342766320, 261,         46) /* CharacterTitleId */
+     , (1342766320, 261,         46) /* CharacterTitleId - Duelist */
      , (1342766320, 307,          6) /* DamageRating */
      , (1342766320, 308,          0) /* DamageResistRating */
      , (1342766320, 312,          0) /* HealOverTime */

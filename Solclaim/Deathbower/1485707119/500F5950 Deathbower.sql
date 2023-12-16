@@ -17,7 +17,7 @@ VALUES (1343183184,   1,         16) /* ItemType - Creature */
      , (1343183184, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343183184, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343183184, 188,          1) /* HeritageGroup - Aluvian */
-     , (1343183184, 261,          9) /* CharacterTitleId */
+     , (1343183184, 261,          9) /* CharacterTitleId - BowHunter */
      , (1343183184, 307,          5) /* DamageRating */
      , (1343183184, 308,          0) /* DamageResistRating */
      , (1343183184, 312,          0) /* HealOverTime */

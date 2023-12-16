@@ -9,7 +9,7 @@ VALUES (2147656045,   1,        256) /* ItemType - MissileWeapon */
      , (2147656045,  18,       1025) /* UiEffects - Magical, Slashing */
      , (2147656045,  19,       9400) /* Value */
      , (2147656045,  50,          1) /* AmmoType - Arrow */
-     , (2147656045,  51,          2) /* CombatUse - Missle */
+     , (2147656045,  51,          2) /* CombatUse - Missile */
      , (2147656045,  65,        101) /* Placement - Resting */
      , (2147656045,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2147656045, 131,         63) /* MaterialType - Silver */

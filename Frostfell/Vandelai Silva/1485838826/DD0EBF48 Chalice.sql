@@ -8,7 +8,7 @@ VALUES (3708731208,   1,        256) /* ItemType - MissileWeapon */
      , (3708731208,  16,          1) /* ItemUseable - No */
      , (3708731208,  18,          1) /* UiEffects - Magical */
      , (3708731208,  19,      30854) /* Value */
-     , (3708731208,  51,          2) /* CombatUse - Missle */
+     , (3708731208,  51,          2) /* CombatUse - Missile */
      , (3708731208,  65,        101) /* Placement - Resting */
      , (3708731208,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (3708731208, 131,         57) /* MaterialType - Brass */

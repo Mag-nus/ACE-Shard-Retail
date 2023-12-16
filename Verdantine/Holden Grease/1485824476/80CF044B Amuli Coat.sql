@@ -21,7 +21,7 @@ VALUES (2161050699,   1,          2) /* ItemType - Armor */
      , (2161050699, 110,          0) /* ItemAllegianceRankLimit */
      , (2161050699, 115,          0) /* ItemSkillLevelLimit */
      , (2161050699, 131,         64) /* MaterialType - Steel */
-     , (2161050699, 172,          5) /* AppraisalLongDescDecoration */
+     , (2161050699, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2161050699, 177,          1) /* GemCount */
      , (2161050699, 178,         23) /* GemType */;
 

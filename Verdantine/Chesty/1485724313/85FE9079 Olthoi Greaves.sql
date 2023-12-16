@@ -24,7 +24,7 @@ VALUES (2248052857,   1,          2) /* ItemType - Armor */
      , (2248052857, 158,          2) /* WieldRequirements - RawSkill */
      , (2248052857, 159,          7) /* WieldSkillType - MissileDefense */
      , (2248052857, 160,        280) /* WieldDifficulty */
-     , (2248052857, 172,          1) /* AppraisalLongDescDecoration */
+     , (2248052857, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (2248052857, 265,         13) /* EquipmentSetId - Soldiers */
      , (2248052857, 270,          7) /* WieldRequirements2 - Level */
      , (2248052857, 271,          1) /* WieldSkillType2 - Axe */

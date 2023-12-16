@@ -18,7 +18,7 @@ VALUES (2583880775,   1,          4) /* ItemType - Clothing */
      , (2583880775, 158,          7) /* WieldRequirements - Level */
      , (2583880775, 159,          1) /* WieldSkillType - Axe */
      , (2583880775, 160,        150) /* WieldDifficulty */
-     , (2583880775, 172,          1) /* AppraisalLongDescDecoration */
+     , (2583880775, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (2583880775, 265,         60) /* EquipmentSetId - CloakFletching */
      , (2583880775, 319,          5) /* ItemMaxLevel */
      , (2583880775, 320,          2) /* ItemXpStyle - ScalesWithLevel */

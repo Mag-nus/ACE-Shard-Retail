@@ -23,7 +23,7 @@ VALUES (2150466762,   1,          2) /* ItemType - Armor */
      , (2150466762, 158,          7) /* WieldRequirements - Level */
      , (2150466762, 159,          1) /* WieldSkillType - Axe */
      , (2150466762, 160,        180) /* WieldDifficulty */
-     , (2150466762, 172,          1) /* AppraisalLongDescDecoration */
+     , (2150466762, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (2150466762, 265,         28) /* EquipmentSetId - Coldproof */
      , (2150466762, 374,          1) /* GearCritDamage */
      , (2150466762, 9015,         17) /* InventoryOrder */;

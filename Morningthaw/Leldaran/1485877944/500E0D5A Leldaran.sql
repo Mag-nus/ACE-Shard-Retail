@@ -20,7 +20,7 @@ VALUES (1343098202,   1,         16) /* ItemType - Creature */
      , (1343098202, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343098202, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343098202, 188,          3) /* HeritageGroup - Sho */
-     , (1343098202, 261,         13) /* CharacterTitleId */
+     , (1343098202, 261,         13) /* CharacterTitleId - WarMage */
      , (1343098202, 307,          5) /* DamageRating */
      , (1343098202, 308,          0) /* DamageResistRating */
      , (1343098202, 312,          0) /* HealOverTime */

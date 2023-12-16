@@ -22,7 +22,7 @@ VALUES (3625867225,   1,          1) /* ItemType - MeleeWeapon */
      , (3625867225, 158,          2) /* WieldRequirements - RawSkill */
      , (3625867225, 159,         45) /* WieldSkillType - LightWeapons */
      , (3625867225, 160,        250) /* WieldDifficulty */
-     , (3625867225, 172,          3) /* AppraisalLongDescDecoration */
+     , (3625867225, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (3625867225, 353,          5) /* WeaponType - Spear */
      , (3625867225, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (3625867225, 9015,         37) /* InventoryOrder */;

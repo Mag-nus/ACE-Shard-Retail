@@ -25,7 +25,7 @@ VALUES (1343226457,   1,         16) /* ItemType - Creature */
      , (1343226457, 139,         16) /* DeathLevel */
      , (1343226457, 188,          4) /* HeritageGroup - Viamontian */
      , (1343226457, 199, 1395492609) /* HousePurchaseTimestamp */
-     , (1343226457, 261,         12) /* CharacterTitleId */
+     , (1343226457, 261,         12) /* CharacterTitleId - Swashbuckler */
      , (1343226457, 307,          5) /* DamageRating */
      , (1343226457, 308,          0) /* DamageResistRating */
      , (1343226457, 312,          0) /* HealOverTime */

@@ -30,7 +30,7 @@ VALUES (1342720060,   1,         16) /* ItemType - Creature */
      , (1342720060, 199, 1456731790) /* HousePurchaseTimestamp */
      , (1342720060, 220,          2) /* AugmentationInnateCoordination */
      , (1342720060, 238,          3) /* AugmentationIncreasedSpellDuration */
-     , (1342720060, 261,        568) /* CharacterTitleId */
+     , (1342720060, 261,        568) /* CharacterTitleId - ShadowSunderer */
      , (1342720060, 297,          1) /* AugmentationInfusedWarMagic */
      , (1342720060, 307,          5) /* DamageRating */
      , (1342720060, 308,          0) /* DamageResistRating */

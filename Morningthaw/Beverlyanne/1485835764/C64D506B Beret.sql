@@ -21,7 +21,7 @@ VALUES (3326955627,   1,          4) /* ItemType - Clothing */
      , (3326955627, 115,          0) /* ItemSkillLevelLimit */
      , (3326955627, 131,          7) /* MaterialType - Velvet */
      , (3326955627, 151,          2) /* HookType - Wall */
-     , (3326955627, 172,          7) /* AppraisalLongDescDecoration */
+     , (3326955627, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3326955627, 177,          1) /* GemCount */
      , (3326955627, 178,         38) /* GemType */
      , (3326955627, 188,          4) /* HeritageGroup - Viamontian */

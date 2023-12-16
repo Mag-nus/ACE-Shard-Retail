@@ -23,7 +23,7 @@ VALUES (1344067096,   1,         16) /* ItemType - Creature */
      , (1344067096, 139,        180) /* DeathLevel */
      , (1344067096, 188,         12) /* HeritageGroup - Olthoi */
      , (1344067096, 199, 1092442027) /* HousePurchaseTimestamp */
-     , (1344067096, 261,        711) /* CharacterTitleId */
+     , (1344067096, 261,        711) /* CharacterTitleId - Ripper */
      , (1344067096, 307,          0) /* DamageRating */
      , (1344067096, 308,          0) /* DamageResistRating */
      , (1344067096, 312,          0) /* HealOverTime */

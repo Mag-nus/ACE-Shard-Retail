@@ -14,7 +14,7 @@ VALUES (1343751717,   1,         16) /* ItemType - Creature */
      , (1343751717, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343751717, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343751717, 188,          3) /* HeritageGroup - Sho */
-     , (1343751717, 261,         60) /* CharacterTitleId */
+     , (1343751717, 261,         60) /* CharacterTitleId - GlendenWoodMilitia */
      , (1343751717, 307,          5) /* DamageRating */
      , (1343751717, 390,          0) /* Enlightenment */
      , (1343751717, 8007,          0) /* PCAPRecordedAutonomousMovement */;

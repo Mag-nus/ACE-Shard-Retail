@@ -18,7 +18,7 @@ VALUES (2293228467,   1,          4) /* ItemType - Clothing */
      , (2293228467, 108,        250) /* ItemMaxMana */
      , (2293228467, 109,         20) /* ItemDifficulty */
      , (2293228467, 115,         70) /* ItemSkillLevelLimit */
-     , (2293228467, 176,         32) /* AppraisalItemSkill */
+     , (2293228467, 176,         32) /* AppraisalItemSkill - ItemEnchantment */
      , (2293228467, 188,          1) /* HeritageGroup - Aluvian */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

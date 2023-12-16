@@ -22,8 +22,8 @@ VALUES (2153703733,   1,          2) /* ItemType - Armor */
      , (2153703733, 115,        295) /* ItemSkillLevelLimit */
      , (2153703733, 131,         60) /* MaterialType - Gold */
      , (2153703733, 171,          9) /* NumTimesTinkered */
-     , (2153703733, 172,          7) /* AppraisalLongDescDecoration */
-     , (2153703733, 176,          6) /* AppraisalItemSkill */
+     , (2153703733, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (2153703733, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (2153703733, 177,          3) /* GemCount */
      , (2153703733, 178,         33) /* GemType */;
 

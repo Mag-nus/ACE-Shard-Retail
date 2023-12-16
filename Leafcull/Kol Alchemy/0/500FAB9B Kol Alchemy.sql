@@ -15,8 +15,8 @@ VALUES (1343204251,   1,         16) /* ItemType - Creature */
      , (1343204251, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343204251, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343204251, 188,          2) /* HeritageGroup - Gharundim */
-     , (1343204251, 261,        791) /* CharacterTitleId */
-     , (1343204251, 281,          4) /* Faction1Bits */
+     , (1343204251, 261,        791) /* CharacterTitleId - EmotionalWreck */
+     , (1343204251, 281,          4) /* Faction1Bits - RadiantBlood */
      , (1343204251, 289,        170) /* SocietyRankRadblo */
      , (1343204251, 307,          8) /* DamageRating */
      , (1343204251, 308,          9) /* DamageResistRating */
@@ -60,8 +60,8 @@ VALUES (1343204251,   1,   33554510) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343204251, 1, 1925709861, 108, 107, 170, 1, 0, 0, 0) /* Location */
 /* @teleloc 0x72C80025 [108.000000 107.000000 170.000000] 1.000000 0.000000 0.000000 0.000000 */
-     , (1343204251, 8040, 3465805878, 144.6603, 120.3277, 18.08733, -0.9758295, 0, 0, -0.218533) /* PCAPRecordedLocation */
-/* @teleloc 0xCE940036 [144.660300 120.327700 18.087330] -0.975830 0.000000 0.000000 -0.218533 */;
+     , (1343204251, 8040, 3465805878, 144.66028, 120.32768, 18.08733, -0.97582954, 0, 0, -0.21853296) /* PCAPRecordedLocation */
+/* @teleloc 0xCE940036 [144.660278 120.327682 18.087330] -0.975830 0.000000 0.000000 -0.218533 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343204251,  26, 1342338105) /* Monarch */

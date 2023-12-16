@@ -20,7 +20,7 @@ VALUES (2765659278,   1,          2) /* ItemType - Armor */
      , (2765659278, 110,          0) /* ItemAllegianceRankLimit */
      , (2765659278, 115,        272) /* ItemSkillLevelLimit */
      , (2765659278, 131,         53) /* MaterialType - ArmoredilloHide */
-     , (2765659278, 176,          6) /* AppraisalItemSkill */
+     , (2765659278, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (2765659278, 188,          3) /* HeritageGroup - Sho */
      , (2765659278, 9015,         80) /* InventoryOrder */;
 

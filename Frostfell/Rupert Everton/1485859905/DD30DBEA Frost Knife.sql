@@ -25,8 +25,8 @@ VALUES (3710966762,   1,          1) /* ItemType - MeleeWeapon */
      , (3710966762, 115,        331) /* ItemSkillLevelLimit */
      , (3710966762, 131,         38) /* MaterialType - Ruby */
      , (3710966762, 151,          2) /* HookType - Wall */
-     , (3710966762, 172,          7) /* AppraisalLongDescDecoration */
-     , (3710966762, 176,         46) /* AppraisalItemSkill */
+     , (3710966762, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (3710966762, 176,         46) /* AppraisalItemSkill - FinesseWeapons */
      , (3710966762, 177,          1) /* GemCount */
      , (3710966762, 178,         20) /* GemType */
      , (3710966762, 188,          4) /* HeritageGroup - Viamontian */

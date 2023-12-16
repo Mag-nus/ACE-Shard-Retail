@@ -13,7 +13,7 @@ VALUES (1343206934,   1,         16) /* ItemType - Creature */
      , (1343206934, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343206934, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343206934, 188,          6) /* HeritageGroup - Gearknight */
-     , (1343206934, 261,         11) /* CharacterTitleId */
+     , (1343206934, 261,         11) /* CharacterTitleId - Soldier */
      , (1343206934, 307,          5) /* DamageRating */
      , (1343206934, 308,          3) /* DamageResistRating */
      , (1343206934, 390,          0) /* Enlightenment */
@@ -28,7 +28,7 @@ VALUES (1343206934,   1, True ) /* Stuck */
      , (1343206934,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343206934,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1343206934,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343206934,   1, 'One Last Run') /* Name */;
@@ -53,8 +53,8 @@ VALUES (1343206934,   1,   33560839) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343206934, 1, 27132180, 10, -40, 0, 1, 0, 0, 0) /* Location */
 /* @teleloc 0x019E0114 [10.000000 -40.000000 0.000000] 1.000000 0.000000 0.000000 0.000000 */
-     , (1343206934, 8040, 2847146009, 84.15182, 11.83987, 94.006, -0.9990789, 0, 0, -0.04290971) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B40019 [84.151820 11.839870 94.006000] -0.999079 0.000000 0.000000 -0.042910 */;
+     , (1343206934, 8040, 2847146009, 84.151825, 11.839866, 94.006004, -0.9990789, 0, -0, -0.042909708) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B40019 [84.151825 11.839866 94.006004] -0.999079 0.000000 -0.000000 -0.042910 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343206934, 8000, 1343206934) /* PCAPRecordedObjectIID */;

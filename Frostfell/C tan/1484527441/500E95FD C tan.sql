@@ -26,7 +26,7 @@ VALUES (1343133181,   1,         16) /* ItemType - Creature */
      , (1343133181, 188,          1) /* HeritageGroup - Aluvian */
      , (1343133181, 192,          5) /* FakeFishingSkill */
      , (1343133181, 199, 1171342382) /* HousePurchaseTimestamp */
-     , (1343133181, 261,         40) /* CharacterTitleId */
+     , (1343133181, 261,         40) /* CharacterTitleId - Deadeye */
      , (1343133181, 307,          0) /* DamageRating */
      , (1343133181, 308,          0) /* DamageResistRating */
      , (1343133181, 312,          0) /* HealOverTime */

@@ -21,7 +21,7 @@ VALUES (2570515713,   1,          4) /* ItemType - Clothing */
      , (2570515713, 110,          0) /* ItemAllegianceRankLimit */
      , (2570515713, 115,          0) /* ItemSkillLevelLimit */
      , (2570515713, 131,          5) /* MaterialType - Satin */
-     , (2570515713, 172,          5) /* AppraisalLongDescDecoration */
+     , (2570515713, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2570515713, 177,          2) /* GemCount */
      , (2570515713, 178,         49) /* GemType */;
 

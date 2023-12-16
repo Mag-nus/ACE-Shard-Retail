@@ -21,8 +21,8 @@ VALUES (2401127779,   1,          2) /* ItemType - Armor */
      , (2401127779, 110,          0) /* ItemAllegianceRankLimit */
      , (2401127779, 115,        158) /* ItemSkillLevelLimit */
      , (2401127779, 131,         57) /* MaterialType - Brass */
-     , (2401127779, 172,          7) /* AppraisalLongDescDecoration */
-     , (2401127779, 176,          7) /* AppraisalItemSkill */
+     , (2401127779, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (2401127779, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (2401127779, 177,          2) /* GemCount */
      , (2401127779, 178,         38) /* GemType */
      , (2401127779, 188,          1) /* HeritageGroup - Aluvian */;

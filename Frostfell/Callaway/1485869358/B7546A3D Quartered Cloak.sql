@@ -18,7 +18,7 @@ VALUES (3075762749,   1,          4) /* ItemType - Clothing */
      , (3075762749, 158,          7) /* WieldRequirements - Level */
      , (3075762749, 159,          1) /* WieldSkillType - Axe */
      , (3075762749, 160,        180) /* WieldDifficulty */
-     , (3075762749, 172,          1) /* AppraisalLongDescDecoration */
+     , (3075762749, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (3075762749, 265,         78) /* EquipmentSetId - CloakTwoHandedCombat */
      , (3075762749, 319,          5) /* ItemMaxLevel */
      , (3075762749, 320,          2) /* ItemXpStyle - ScalesWithLevel */

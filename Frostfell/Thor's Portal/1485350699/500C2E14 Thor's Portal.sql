@@ -24,7 +24,7 @@ VALUES (1342975508,   1,         16) /* ItemType - Creature */
      , (1342975508, 139,         61) /* DeathLevel */
      , (1342975508, 188,          2) /* HeritageGroup - Gharundim */
      , (1342975508, 199, 1274414087) /* HousePurchaseTimestamp */
-     , (1342975508, 261,         30) /* CharacterTitleId */
+     , (1342975508, 261,         30) /* CharacterTitleId - Bugstomper */
      , (1342975508, 307,          0) /* DamageRating */
      , (1342975508, 308,          0) /* DamageResistRating */
      , (1342975508, 312,          0) /* HealOverTime */

@@ -21,7 +21,7 @@ VALUES (2438516464,   1,      32768) /* ItemType - Caster */
      , (2438516464, 131,         23) /* MaterialType - GreenGarnet */
      , (2438516464, 151,          2) /* HookType - Wall */
      , (2438516464, 171,          1) /* NumTimesTinkered */
-     , (2438516464, 172,          7) /* AppraisalLongDescDecoration */
+     , (2438516464, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2438516464, 177,          6) /* GemCount */
      , (2438516464, 178,         35) /* GemType */
      , (2438516464, 179,         32) /* ImbuedEffect - BludgeonRending */

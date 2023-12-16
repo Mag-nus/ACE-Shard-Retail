@@ -14,10 +14,10 @@ VALUES (2166168425,   1,          4) /* ItemType - Clothing */
      , (2166168425,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2166168425, 105,          5) /* ItemWorkmanship */
      , (2166168425, 131,         52) /* MaterialType - Leather */
-     , (2166168425, 172,          5) /* AppraisalLongDescDecoration */
+     , (2166168425, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2166168425, 177,          2) /* GemCount */
      , (2166168425, 178,         44) /* GemType */
-     , (2166168425, 324,          6) /* HeritageSpecificArmor */;
+     , (2166168425, 324,          6) /* HeritageSpecificArmor - Gearknight */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (2166168425,   1, False) /* Stuck */

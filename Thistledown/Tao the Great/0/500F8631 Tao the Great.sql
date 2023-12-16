@@ -19,7 +19,7 @@ VALUES (1343194673,   1, True ) /* Stuck */
      , (1343194673,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343194673,  39, 1.29999995231628) /* DefaultScale */;
+VALUES (1343194673,  39, 1.2999999523162842) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343194673,   1, 'Tao the Great') /* Name */;
@@ -36,10 +36,10 @@ VALUES (1343194673,   1,   33561112) /* Setup */
      , (1343194673, 8005,     104643) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343194673, 1, 3465871412, 150.1161, 93.65372, 20.0065, 0.3941036, 0, 0, -0.919066) /* Location */
-/* @teleloc 0xCE950034 [150.116100 93.653720 20.006500] 0.394104 0.000000 0.000000 -0.919066 */
-     , (1343194673, 8040, 3465871412, 154.782, 94.0352, 20.0065, 0.8041148, 0, 0, -0.5944741) /* PCAPRecordedLocation */
-/* @teleloc 0xCE950034 [154.782000 94.035200 20.006500] 0.804115 0.000000 0.000000 -0.594474 */;
+VALUES (1343194673, 1, 3465871412, 150.11615, 93.653725, 20.0065, 0.39410362, 0, 0, -0.919066) /* Location */
+/* @teleloc 0xCE950034 [150.116150 93.653725 20.006500] 0.394104 0.000000 0.000000 -0.919066 */
+     , (1343194673, 8040, 3465871412, 154.78195, 94.0352, 20.0065, 0.80411476, 0, 0, -0.59447414) /* PCAPRecordedLocation */
+/* @teleloc 0xCE950034 [154.781952 94.035202 20.006500] 0.804115 0.000000 0.000000 -0.594474 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343194673,  26, 1342499688) /* Monarch */

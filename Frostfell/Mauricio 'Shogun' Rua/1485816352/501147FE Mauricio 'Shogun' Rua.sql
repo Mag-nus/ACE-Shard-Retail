@@ -25,7 +25,7 @@ VALUES (1343309822,   1,         16) /* ItemType - Creature */
      , (1343309822, 139,        228) /* DeathLevel */
      , (1343309822, 188,          3) /* HeritageGroup - Sho */
      , (1343309822, 199, 1280368231) /* HousePurchaseTimestamp */
-     , (1343309822, 261,         86) /* CharacterTitleId */
+     , (1343309822, 261,         86) /* CharacterTitleId - Lightbringer */
      , (1343309822, 307,          6) /* DamageRating */
      , (1343309822, 308,          0) /* DamageResistRating */
      , (1343309822, 312,          0) /* HealOverTime */

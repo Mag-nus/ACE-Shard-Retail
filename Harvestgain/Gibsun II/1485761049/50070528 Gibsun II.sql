@@ -26,7 +26,7 @@ VALUES (1342637352,   1,         16) /* ItemType - Creature */
      , (1342637352, 188,          2) /* HeritageGroup - Gharundim */
      , (1342637352, 192,          0) /* FakeFishingSkill */
      , (1342637352, 199, 1397585825) /* HousePurchaseTimestamp */
-     , (1342637352, 261,        100) /* CharacterTitleId */
+     , (1342637352, 261,        100) /* CharacterTitleId - ParagonofDeath */
      , (1342637352, 307,          0) /* DamageRating */
      , (1342637352, 308,          0) /* DamageResistRating */
      , (1342637352, 312,          0) /* HealOverTime */

@@ -21,7 +21,7 @@ VALUES (2158094048,   1,      32768) /* ItemType - Caster */
      , (2158094048, 131,         21) /* MaterialType - Emerald */
      , (2158094048, 151,          2) /* HookType - Wall */
      , (2158094048, 171,          1) /* NumTimesTinkered */
-     , (2158094048, 172,          7) /* AppraisalLongDescDecoration */
+     , (2158094048, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2158094048, 177,          4) /* GemCount */
      , (2158094048, 178,         27) /* GemType */
      , (2158094048, 179,         16) /* ImbuedEffect - PierceRending */

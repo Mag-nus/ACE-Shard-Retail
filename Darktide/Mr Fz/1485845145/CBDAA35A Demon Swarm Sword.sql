@@ -26,7 +26,7 @@ VALUES (3420103514,   1,          1) /* ItemType - MeleeWeapon */
      , (3420103514, 158,          2) /* WieldRequirements - RawSkill */
      , (3420103514, 159,         45) /* WieldSkillType - LightWeapons */
      , (3420103514, 160,        350) /* WieldDifficulty */
-     , (3420103514, 263,          1) /* ResistanceModifierType */
+     , (3420103514, 263,          1) /* ResistanceModifierType - Slash */
      , (3420103514, 353,          2) /* WeaponType - Sword */
      , (3420103514, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */;
 

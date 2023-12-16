@@ -18,7 +18,7 @@ VALUES (2164419546,   1,          8) /* ItemType - Jewelry */
      , (2164419546, 110,          0) /* ItemAllegianceRankLimit */
      , (2164419546, 115,          0) /* ItemSkillLevelLimit */
      , (2164419546, 131,         62) /* MaterialType - Pyreal */
-     , (2164419546, 172,          7) /* AppraisalLongDescDecoration */
+     , (2164419546, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2164419546, 177,          4) /* GemCount */
      , (2164419546, 178,         20) /* GemType */
      , (2164419546, 188,          2) /* HeritageGroup - Gharundim */

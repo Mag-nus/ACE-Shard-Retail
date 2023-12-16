@@ -19,7 +19,7 @@ VALUES (1343170338,   1, True ) /* Stuck */
      , (1343170338,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343170338,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1343170338,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343170338,   1, 'Heckenschutze') /* Name */;
@@ -36,9 +36,9 @@ VALUES (1343170338,   1,   33561110) /* Setup */
      , (1343170338, 8005,     104643) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343170338, 1, 459075, 66.1948, -64.97179, 0.005999982, -0.9720616, 0, 0, 0.2347259) /* Location */
-/* @teleloc 0x00070143 [66.194800 -64.971790 0.006000] -0.972062 0.000000 0.000000 0.234726 */
-     , (1343170338, 8040, 459077, 70, -80, 0.005999982, 1, 0, 0, 0) /* PCAPRecordedLocation */
+VALUES (1343170338, 1, 459075, 66.1948, -64.97179, 0.0059999824, -0.97206163, 0, 0, 0.23472588) /* Location */
+/* @teleloc 0x00070143 [66.194801 -64.971786 0.006000] -0.972062 0.000000 0.000000 0.234726 */
+     , (1343170338, 8040, 459077, 70, -80, 0.0059999824, 1, 0, 0, 0) /* PCAPRecordedLocation */
 /* @teleloc 0x00070145 [70.000000 -80.000000 0.006000] 1.000000 0.000000 0.000000 0.000000 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)

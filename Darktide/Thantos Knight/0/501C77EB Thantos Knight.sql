@@ -15,7 +15,7 @@ VALUES (1344042987,   1,         16) /* ItemType - Creature */
      , (1344042987, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1344042987, 134,          4) /* PlayerKillerStatus - PK */
      , (1344042987, 188,         11) /* HeritageGroup - Undead */
-     , (1344042987, 261,        563) /* CharacterTitleId */
+     , (1344042987, 261,        563) /* CharacterTitleId - ThirdEyeBlinder */
      , (1344042987, 262,         46) /* NumCharacterTitles */
      , (1344042987, 390,          0) /* Enlightenment */
      , (1344042987, 8007,          1) /* PCAPRecordedAutonomousMovement */;
@@ -55,9 +55,9 @@ VALUES (1344042987,   1,   33561238) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1344042987, 1, 1210908932, 86.8, 137.6, -14.795, 1, 0, 0, 0) /* Location */
-/* @teleloc 0x482D0104 [86.800000 137.600000 -14.795000] 1.000000 0.000000 0.000000 0.000000 */
-     , (1344042987, 8040, 3370713130, 132.6041, 44.99101, 0.004999975, -0.7401537, 0, 0, -0.6724377) /* PCAPRecordedLocation */
-/* @teleloc 0xC8E9002A [132.604100 44.991010 0.005000] -0.740154 0.000000 0.000000 -0.672438 */;
+/* @teleloc 0x482D0104 [86.800003 137.600006 -14.795000] 1.000000 0.000000 0.000000 0.000000 */
+     , (1344042987, 8040, 3370713130, 132.60408, 44.99101, 0.0049999747, -0.74015373, 0, 0, -0.67243767) /* PCAPRecordedLocation */
+/* @teleloc 0xC8E9002A [132.604080 44.991009 0.005000] -0.740154 0.000000 0.000000 -0.672438 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1344042987,  26, 1343917496) /* Monarch */

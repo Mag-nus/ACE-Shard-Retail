@@ -17,7 +17,7 @@ VALUES (3710967745,   1,          4) /* ItemType - Clothing */
      , (3710967745, 158,          7) /* WieldRequirements - Level */
      , (3710967745, 159,          1) /* WieldSkillType - Axe */
      , (3710967745, 160,        180) /* WieldDifficulty */
-     , (3710967745, 172,          3) /* AppraisalLongDescDecoration */
+     , (3710967745, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (3710967745, 265,         22) /* EquipmentSetId - Swift */
      , (3710967745, 9015,         61) /* InventoryOrder */;
 

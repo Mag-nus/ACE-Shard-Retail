@@ -28,8 +28,8 @@ VALUES (2368871174,   1,          1) /* ItemType - MeleeWeapon */
      , (2368871174, 158,          2) /* WieldRequirements - RawSkill */
      , (2368871174, 159,         45) /* WieldSkillType - LightWeapons */
      , (2368871174, 160,        250) /* WieldDifficulty */
-     , (2368871174, 172,          3) /* AppraisalLongDescDecoration */
-     , (2368871174, 176,         45) /* AppraisalItemSkill */
+     , (2368871174, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (2368871174, 176,         45) /* AppraisalItemSkill - LightWeapons */
      , (2368871174, 188,          3) /* HeritageGroup - Sho */
      , (2368871174, 353,          1) /* WeaponType - Unarmed */
      , (2368871174, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */

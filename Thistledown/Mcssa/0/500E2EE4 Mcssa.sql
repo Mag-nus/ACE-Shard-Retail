@@ -16,9 +16,9 @@ VALUES (1343106788,   1,         16) /* ItemType - Creature */
      , (1343106788, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343106788, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343106788, 188,          4) /* HeritageGroup - Viamontian */
-     , (1343106788, 261,         33) /* CharacterTitleId */
+     , (1343106788, 261,         33) /* CharacterTitleId - ChainBreaker */
      , (1343106788, 262,         59) /* NumCharacterTitles */
-     , (1343106788, 281,          2) /* Faction1Bits */
+     , (1343106788, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1343106788, 288,          1) /* SocietyRankEldweb */
      , (1343106788, 390,          0) /* Enlightenment */
      , (1343106788, 8007,          1) /* PCAPRecordedAutonomousMovement */;
@@ -53,10 +53,10 @@ VALUES (1343106788,   1,   33554433) /* Setup */
      , (1343106788, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343106788, 1, 6750503, 60, -30, 0.005, -0.7071068, 0, 0, -0.7071068) /* Location */
+VALUES (1343106788, 1, 6750503, 60, -30, 0.005, -0.70710677, 0, 0, -0.70710677) /* Location */
 /* @teleloc 0x00670127 [60.000000 -30.000000 0.005000] -0.707107 0.000000 0.000000 -0.707107 */
-     , (1343106788, 8040, 3370713130, 128.1609, 41.54991, 0.00500001, 0.4528137, 0, 0, -0.8916051) /* PCAPRecordedLocation */
-/* @teleloc 0xC8E9002A [128.160900 41.549910 0.005000] 0.452814 0.000000 0.000000 -0.891605 */;
+     , (1343106788, 8040, 3370713130, 128.16095, 41.54991, 0.00500001, 0.45281368, 0, 0, -0.89160514) /* PCAPRecordedLocation */
+/* @teleloc 0xC8E9002A [128.160950 41.549911 0.005000] 0.452814 0.000000 0.000000 -0.891605 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343106788,  26, 1342595878) /* Monarch */

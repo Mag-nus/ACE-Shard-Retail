@@ -9,7 +9,7 @@ VALUES (2153713560,   1,        256) /* ItemType - MissileWeapon */
      , (2153713560,  18,       2048) /* UiEffects - Piercing */
      , (2153713560,  19,      20906) /* Value */
      , (2153713560,  50,          2) /* AmmoType - Bolt */
-     , (2153713560,  51,          2) /* CombatUse - Missle */
+     , (2153713560,  51,          2) /* CombatUse - Missile */
      , (2153713560,  65,        101) /* Placement - Resting */
      , (2153713560,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2153713560, 131,         26) /* MaterialType - ImperialTopaz */

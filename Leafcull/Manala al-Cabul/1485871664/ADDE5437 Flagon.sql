@@ -11,7 +11,7 @@ VALUES (2917028919,   1,        256) /* ItemType - MissileWeapon */
      , (2917028919,  45,          4) /* DamageType - Bludgeon */
      , (2917028919,  48,         47) /* WeaponSkill - MissileWeapons */
      , (2917028919,  49,         10) /* WeaponTime */
-     , (2917028919,  51,          2) /* CombatUse - Missle */
+     , (2917028919,  51,          2) /* CombatUse - Missile */
      , (2917028919,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (2917028919, 105,          2) /* ItemWorkmanship */
      , (2917028919, 131,         71) /* MaterialType - Serpentine */

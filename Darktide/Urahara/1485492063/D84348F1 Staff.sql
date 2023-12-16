@@ -13,7 +13,7 @@ VALUES (3628288241,   1,      32768) /* ItemType - Caster */
      , (3628288241, 105,          4) /* ItemWorkmanship */
      , (3628288241, 131,         63) /* MaterialType - Silver */
      , (3628288241, 151,          2) /* HookType - Wall */
-     , (3628288241, 172,          3) /* AppraisalLongDescDecoration */
+     , (3628288241, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (3628288241, 9015,          2) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

@@ -23,7 +23,7 @@ VALUES (2776699866,   1,          1) /* ItemType - MeleeWeapon */
      , (2776699866, 159,         46) /* WieldSkillType - FinesseWeapons */
      , (2776699866, 160,        325) /* WieldDifficulty */
      , (2776699866, 171,          1) /* NumTimesTinkered */
-     , (2776699866, 172,          7) /* AppraisalLongDescDecoration */
+     , (2776699866, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2776699866, 177,          1) /* GemCount */
      , (2776699866, 178,         16) /* GemType */
      , (2776699866, 179,          2) /* ImbuedEffect - CripplingBlow */

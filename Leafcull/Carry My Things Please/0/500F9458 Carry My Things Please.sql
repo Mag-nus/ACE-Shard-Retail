@@ -13,7 +13,7 @@ VALUES (1343198296,   1,         16) /* ItemType - Creature */
      , (1343198296, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343198296, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343198296, 188,          8) /* HeritageGroup - Lugian */
-     , (1343198296, 261,          1) /* CharacterTitleId */
+     , (1343198296, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343198296, 390,          0) /* Enlightenment */
      , (1343198296, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
@@ -26,7 +26,7 @@ VALUES (1343198296,   1, True ) /* Stuck */
      , (1343198296,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343198296,  39, 1.29999995231628) /* DefaultScale */;
+VALUES (1343198296,  39, 1.2999999523162842) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343198296,   1, 'Carry My Things Please') /* Name */;
@@ -51,7 +51,7 @@ VALUES (1343198296,   1,   33561112) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343198296, 1, 2847146009, 84, 7.1, 94, 0.9969173, 0, 0, -0.0784591) /* Location */
 /* @teleloc 0xA9B40019 [84.000000 7.100000 94.000000] 0.996917 0.000000 0.000000 -0.078459 */
-     , (1343198296, 8040, 459059, 60, -70, 0.006500006, 0.7071068, 0, 0, -0.7071068) /* PCAPRecordedLocation */
+     , (1343198296, 8040, 459059, 60, -70, 0.0065000057, 0.70710677, 0, 0, -0.70710677) /* PCAPRecordedLocation */
 /* @teleloc 0x00070133 [60.000000 -70.000000 0.006500] 0.707107 0.000000 0.000000 -0.707107 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)

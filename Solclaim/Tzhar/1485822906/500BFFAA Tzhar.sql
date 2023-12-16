@@ -44,8 +44,8 @@ VALUES (1342963626,   1,         16) /* ItemType - Creature */
      , (1342963626, 244,          1) /* AugmentationResistanceFire */
      , (1342963626, 245,          0) /* AugmentationResistanceFrost */
      , (1342963626, 246,          1) /* AugmentationResistanceLightning */
-     , (1342963626, 261,        878) /* CharacterTitleId */
-     , (1342963626, 281,          4) /* Faction1Bits */
+     , (1342963626, 261,        878) /* CharacterTitleId - GauntletChampion */
+     , (1342963626, 281,          4) /* Faction1Bits - RadiantBlood */
      , (1342963626, 289,       1001) /* SocietyRankRadblo */
      , (1342963626, 298,          1) /* AugmentationCriticalExpertise */
      , (1342963626, 299,          1) /* AugmentationCriticalPower */

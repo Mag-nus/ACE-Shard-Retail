@@ -24,7 +24,7 @@ VALUES (1344065414,   1,         16) /* ItemType - Creature */
      , (1344065414, 139,          6) /* DeathLevel */
      , (1344065414, 188,          5) /* HeritageGroup - Shadowbound */
      , (1344065414, 199, 1415050594) /* HousePurchaseTimestamp */
-     , (1344065414, 261,          1) /* CharacterTitleId */
+     , (1344065414, 261,          1) /* CharacterTitleId - Adventurer */
      , (1344065414, 298,          1) /* AugmentationCriticalExpertise */
      , (1344065414, 307,          5) /* DamageRating */
      , (1344065414, 308,          0) /* DamageResistRating */

@@ -30,8 +30,8 @@ VALUES (2167239353,   1,          1) /* ItemType - MeleeWeapon */
      , (2167239353, 160,        430) /* WieldDifficulty */
      , (2167239353, 166,        101) /* SlayerCreatureType - Anekshay */
      , (2167239353, 171,         10) /* NumTimesTinkered */
-     , (2167239353, 172,          5) /* AppraisalLongDescDecoration */
-     , (2167239353, 176,         44) /* AppraisalItemSkill */
+     , (2167239353, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
+     , (2167239353, 176,         44) /* AppraisalItemSkill - HeavyWeapons */
      , (2167239353, 177,          2) /* GemCount */
      , (2167239353, 178,         39) /* GemType */
      , (2167239353, 179,         64) /* ImbuedEffect - AcidRending */

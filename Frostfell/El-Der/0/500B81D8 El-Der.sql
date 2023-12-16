@@ -16,9 +16,9 @@ VALUES (1342931416,   1,         16) /* ItemType - Creature */
      , (1342931416, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342931416, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342931416, 188,          2) /* HeritageGroup - Gharundim */
-     , (1342931416, 261,        657) /* CharacterTitleId */
+     , (1342931416, 261,        657) /* CharacterTitleId - EliteExplorer */
      , (1342931416, 262,         67) /* NumCharacterTitles */
-     , (1342931416, 281,          1) /* Faction1Bits */
+     , (1342931416, 281,          1) /* Faction1Bits - CelestialHand */
      , (1342931416, 287,       1001) /* SocietyRankCelhan */
      , (1342931416, 307,         20) /* DamageRating */
      , (1342931416, 308,          3) /* DamageResistRating */
@@ -59,10 +59,10 @@ VALUES (1342931416,   1,   33554433) /* Setup */
      , (1342931416, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1342931416, 1, 3583705134, 127, 127, 129.4217, 1, 0, 0, 0) /* Location */
-/* @teleloc 0xD59B002E [127.000000 127.000000 129.421700] 1.000000 0.000000 0.000000 0.000000 */
-     , (1342931416, 8040, 3583574079, 183.2469, 165.9959, 374.005, -0.1200203, 0, 0, -0.9927714) /* PCAPRecordedLocation */
-/* @teleloc 0xD599003F [183.246900 165.995900 374.005000] -0.120020 0.000000 0.000000 -0.992771 */;
+VALUES (1342931416, 1, 3583705134, 127, 127, 129.42166, 1, 0, 0, 0) /* Location */
+/* @teleloc 0xD59B002E [127.000000 127.000000 129.421661] 1.000000 0.000000 0.000000 0.000000 */
+     , (1342931416, 8040, 3583574079, 183.24692, 165.99588, 374.005, -0.12002032, 0, -0, -0.99277145) /* PCAPRecordedLocation */
+/* @teleloc 0xD599003F [183.246918 165.995880 374.005005] -0.120020 0.000000 -0.000000 -0.992771 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342931416,  26, 1343468823) /* Monarch */

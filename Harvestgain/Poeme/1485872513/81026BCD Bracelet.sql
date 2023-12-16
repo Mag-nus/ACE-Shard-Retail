@@ -18,7 +18,7 @@ VALUES (2164419533,   1,          8) /* ItemType - Jewelry */
      , (2164419533, 110,          0) /* ItemAllegianceRankLimit */
      , (2164419533, 115,          0) /* ItemSkillLevelLimit */
      , (2164419533, 131,         34) /* MaterialType - Peridot */
-     , (2164419533, 172,          7) /* AppraisalLongDescDecoration */
+     , (2164419533, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2164419533, 177,          1) /* GemCount */
      , (2164419533, 178,         39) /* GemType */
      , (2164419533, 188,          1) /* HeritageGroup - Aluvian */

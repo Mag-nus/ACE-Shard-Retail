@@ -35,8 +35,8 @@ VALUES (1343179227,   1,         16) /* ItemType - Creature */
      , (1343179227, 233,          1) /* AugmentationCriticalDefense */
      , (1343179227, 238,          5) /* AugmentationIncreasedSpellDuration */
      , (1343179227, 244,          2) /* AugmentationResistanceFire */
-     , (1343179227, 261,         57) /* CharacterTitleId */
-     , (1343179227, 281,          1) /* Faction1Bits */
+     , (1343179227, 261,         57) /* CharacterTitleId - GaerlanSlayer */
+     , (1343179227, 281,          1) /* Faction1Bits - CelestialHand */
      , (1343179227, 287,       1001) /* SocietyRankCelhan */
      , (1343179227, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1343179227, 295,          1) /* AugmentationInfusedItemMagic */

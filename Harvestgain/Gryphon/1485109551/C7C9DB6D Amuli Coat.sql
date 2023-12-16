@@ -20,8 +20,8 @@ VALUES (3351894893,   1,          2) /* ItemType - Armor */
      , (3351894893, 110,          0) /* ItemAllegianceRankLimit */
      , (3351894893, 115,        249) /* ItemSkillLevelLimit */
      , (3351894893, 131,         60) /* MaterialType - Gold */
-     , (3351894893, 172,          7) /* AppraisalLongDescDecoration */
-     , (3351894893, 176,          6) /* AppraisalItemSkill */
+     , (3351894893, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (3351894893, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (3351894893, 177,          4) /* GemCount */
      , (3351894893, 178,         34) /* GemType */
      , (3351894893, 188,          2) /* HeritageGroup - Gharundim */

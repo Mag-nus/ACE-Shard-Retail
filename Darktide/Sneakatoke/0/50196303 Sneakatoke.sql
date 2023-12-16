@@ -16,7 +16,7 @@ VALUES (1343841027,   1,         16) /* ItemType - Creature */
      , (1343841027, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343841027, 134,          4) /* PlayerKillerStatus - PK */
      , (1343841027, 188,          3) /* HeritageGroup - Sho */
-     , (1343841027, 261,          1) /* CharacterTitleId */
+     , (1343841027, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343841027, 390,          0) /* Enlightenment */
      , (1343841027, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
@@ -29,9 +29,9 @@ VALUES (1343841027,   1, True ) /* Stuck */
      , (1343841027,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343841027, 8010, -11.6844863891602) /* PCAPRecordedVelocityX */
-     , (1343841027, 8011, -2.7276463508606) /* PCAPRecordedVelocityY */
-     , (1343841027, 8012, 6.71130037307739) /* PCAPRecordedVelocityZ */;
+VALUES (1343841027, 8010, -11.684486389160156) /* PCAPRecordedVelocityX */
+     , (1343841027, 8011, -2.7276463508605957) /* PCAPRecordedVelocityY */
+     , (1343841027, 8012, 6.711300373077393) /* PCAPRecordedVelocityZ */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343841027,   1, 'Sneakatoke') /* Name */
@@ -55,10 +55,10 @@ VALUES (1343841027,   1,   33554433) /* Setup */
      , (1343841027, 8005,     104519) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Velocity, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343841027, 1, 3316252681, 36.24017, 0.1109924, 58.99424, -0.867826, 0, 0, -0.4968682) /* Location */
-/* @teleloc 0xC5AA0009 [36.240170 0.110992 58.994240] -0.867826 0.000000 0.000000 -0.496868 */
-     , (1343841027, 8040, 3332964353, 18.64686, 7.559246, 46.21228, 0.6215587, 0, 0, 0.7833676) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A90001 [18.646860 7.559246 46.212280] 0.621559 0.000000 0.000000 0.783368 */;
+VALUES (1343841027, 1, 3316252681, 36.240166, 0.11099243, 58.994236, -0.867826, 0, 0, -0.4968682) /* Location */
+/* @teleloc 0xC5AA0009 [36.240166 0.110992 58.994236] -0.867826 0.000000 0.000000 -0.496868 */
+     , (1343841027, 8040, 3332964353, 18.646858, 7.559246, 46.21228, 0.62155867, 0, 0, 0.78336763) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A90001 [18.646858 7.559246 46.212280] 0.621559 0.000000 0.000000 0.783368 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343841027,  26, 1343841027) /* Monarch */

@@ -26,7 +26,7 @@ VALUES (1342526335,   1,         16) /* ItemType - Creature */
      , (1342526335, 139,        175) /* DeathLevel */
      , (1342526335, 188,          1) /* HeritageGroup - Aluvian */
      , (1342526335, 199,          0) /* HousePurchaseTimestamp */
-     , (1342526335, 261,         75) /* CharacterTitleId */
+     , (1342526335, 261,         75) /* CharacterTitleId - InvadersBane */
      , (1342526335, 307,          5) /* DamageRating */
      , (1342526335, 308,          0) /* DamageResistRating */
      , (1342526335, 312,          0) /* HealOverTime */

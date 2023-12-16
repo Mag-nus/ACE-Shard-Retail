@@ -16,8 +16,8 @@ VALUES (1343093466,   1,         16) /* ItemType - Creature */
      , (1343093466, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343093466, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343093466, 188,          3) /* HeritageGroup - Sho */
-     , (1343093466, 261,        688) /* CharacterTitleId */
-     , (1343093466, 281,          4) /* Faction1Bits */
+     , (1343093466, 261,        688) /* CharacterTitleId - OneforAll */
+     , (1343093466, 281,          4) /* Faction1Bits - RadiantBlood */
      , (1343093466, 289,       1001) /* SocietyRankRadblo */
      , (1343093466, 307,         47) /* DamageRating */
      , (1343093466, 308,         22) /* DamageResistRating */

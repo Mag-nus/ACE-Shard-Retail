@@ -15,7 +15,7 @@ VALUES (3422471537,   1,          4) /* ItemType - Clothing */
      , (3422471537, 105,          5) /* ItemWorkmanship */
      , (3422471537, 131,         52) /* MaterialType - Leather */
      , (3422471537, 171,          2) /* NumTimesTinkered */
-     , (3422471537, 172,          5) /* AppraisalLongDescDecoration */
+     , (3422471537, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (3422471537, 177,          2) /* GemCount */
      , (3422471537, 178,         34) /* GemType */;
 

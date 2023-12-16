@@ -27,7 +27,7 @@ VALUES (1342750361,   1,         16) /* ItemType - Creature */
      , (1342750361, 188,          3) /* HeritageGroup - Sho */
      , (1342750361, 192,          0) /* FakeFishingSkill */
      , (1342750361, 199, 1211107428) /* HousePurchaseTimestamp */
-     , (1342750361, 261,         62) /* CharacterTitleId */
+     , (1342750361, 261,         62) /* CharacterTitleId - GraveRobber */
      , (1342750361, 307,          5) /* DamageRating */
      , (1342750361, 308,          0) /* DamageResistRating */
      , (1342750361, 312,          0) /* HealOverTime */

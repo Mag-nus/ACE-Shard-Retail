@@ -29,8 +29,8 @@ VALUES (2148223168,   1,          1) /* ItemType - MeleeWeapon */
      , (2148223168, 159,         45) /* WieldSkillType - LightWeapons */
      , (2148223168, 160,        420) /* WieldDifficulty */
      , (2148223168, 171,          8) /* NumTimesTinkered */
-     , (2148223168, 172,          5) /* AppraisalLongDescDecoration */
-     , (2148223168, 176,         45) /* AppraisalItemSkill */
+     , (2148223168, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
+     , (2148223168, 176,         45) /* AppraisalItemSkill - LightWeapons */
      , (2148223168, 177,          1) /* GemCount */
      , (2148223168, 178,         16) /* GemType */
      , (2148223168, 179,          2) /* ImbuedEffect - CripplingBlow */

@@ -25,7 +25,7 @@ VALUES (1343220891,   1,         16) /* ItemType - Creature */
      , (1343220891, 139,         43) /* DeathLevel */
      , (1343220891, 188,          3) /* HeritageGroup - Sho */
      , (1343220891, 199, 1395492609) /* HousePurchaseTimestamp */
-     , (1343220891, 261,         12) /* CharacterTitleId */
+     , (1343220891, 261,         12) /* CharacterTitleId - Swashbuckler */
      , (1343220891, 307,          5) /* DamageRating */
      , (1343220891, 308,          0) /* DamageResistRating */
      , (1343220891, 312,          0) /* HealOverTime */

@@ -14,7 +14,7 @@ VALUES (1343035469,   1,         16) /* ItemType - Creature */
      , (1343035469, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343035469, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343035469, 188,          1) /* HeritageGroup - Aluvian */
-     , (1343035469, 261,         58) /* CharacterTitleId */
+     , (1343035469, 261,         58) /* CharacterTitleId - GardenerWeeder */
      , (1343035469, 390,          0) /* Enlightenment */
      , (1343035469, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
@@ -50,10 +50,10 @@ VALUES (1343035469,   1,   33554510) /* Setup */
      , (1343035469, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343035469, 1, 3229614087, 11.723, 155.56, 33.028, -0.402363, 0, 0, -0.9154802) /* Location */
-/* @teleloc 0xC0800007 [11.723000 155.560000 33.028000] -0.402363 0.000000 0.000000 -0.915480 */
-     , (1343035469, 8040, 3212836886, 48.87109, 121.5022, 54.005, 0.6839098, 0, 0, -0.7295665) /* PCAPRecordedLocation */
-/* @teleloc 0xBF800016 [48.871090 121.502200 54.005000] 0.683910 0.000000 0.000000 -0.729567 */;
+VALUES (1343035469, 1, 3229614087, 11.723, 155.56, 33.028, -0.40236297, 0, 0, -0.9154802) /* Location */
+/* @teleloc 0xC0800007 [11.723000 155.559998 33.028000] -0.402363 0.000000 0.000000 -0.915480 */
+     , (1343035469, 8040, 3212836886, 48.871086, 121.502174, 54.005, 0.68390983, 0, 0, -0.7295665) /* PCAPRecordedLocation */
+/* @teleloc 0xBF800016 [48.871086 121.502174 54.005001] 0.683910 0.000000 0.000000 -0.729567 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343035469,  26, 1342826185) /* Monarch */

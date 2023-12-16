@@ -21,7 +21,7 @@ VALUES (3447699492,   1,          2) /* ItemType - Armor */
      , (3447699492, 115,          0) /* ItemSkillLevelLimit */
      , (3447699492, 131,         54) /* MaterialType - GromnieHide */
      , (3447699492, 171,          4) /* NumTimesTinkered */
-     , (3447699492, 172,          5) /* AppraisalLongDescDecoration */
+     , (3447699492, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (3447699492, 177,          4) /* GemCount */
      , (3447699492, 178,         39) /* GemType */
      , (3447699492, 9015,          5) /* InventoryOrder */;

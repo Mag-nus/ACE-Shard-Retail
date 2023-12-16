@@ -16,7 +16,7 @@ VALUES (1342610830,   1,         16) /* ItemType - Creature */
      , (1342610830, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342610830, 188,          2) /* HeritageGroup - Gharundim */
      , (1342610830, 192,         79) /* FakeFishingSkill */
-     , (1342610830, 261,         76) /* CharacterTitleId */
+     , (1342610830, 261,         76) /* CharacterTitleId - IronChef */
      , (1342610830, 307,          5) /* DamageRating */
      , (1342610830, 390,          0) /* Enlightenment */
      , (1342610830, 8007,          1) /* PCAPRecordedAutonomousMovement */;
@@ -51,10 +51,10 @@ VALUES (1342610830,   1,   33554510) /* Setup */
      , (1342610830, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1342610830, 1, 3299475514, 191.7956, 37.632, 66.29403, 0.9474224, 0, 0, 0.3199857) /* Location */
-/* @teleloc 0xC4AA003A [191.795600 37.632000 66.294030] 0.947422 0.000000 0.000000 0.319986 */
-     , (1342610830, 8040, 3332964361, 46.805, 4.219, 42.005, 1, 0, 0, 0) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A90009 [46.805000 4.219000 42.005000] 1.000000 0.000000 0.000000 0.000000 */;
+VALUES (1342610830, 1, 3299475514, 191.79562, 37.632004, 66.29403, 0.9474224, 0, 0, 0.31998566) /* Location */
+/* @teleloc 0xC4AA003A [191.795624 37.632004 66.294029] 0.947422 0.000000 0.000000 0.319986 */
+     , (1342610830, 8040, 3332964361, 46.805, 4.219, 42.005, 1, 0, 0, -0) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A90009 [46.805000 4.219000 42.005001] 1.000000 0.000000 0.000000 -0.000000 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342610830, 8000, 1342610830) /* PCAPRecordedObjectIID */;

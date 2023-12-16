@@ -26,7 +26,7 @@ VALUES (1342889789,   1,         16) /* ItemType - Creature */
      , (1342889789, 139,        110) /* DeathLevel */
      , (1342889789, 188,          1) /* HeritageGroup - Aluvian */
      , (1342889789, 199, 1395492609) /* HousePurchaseTimestamp */
-     , (1342889789, 261,         29) /* CharacterTitleId */
+     , (1342889789, 261,         29) /* CharacterTitleId - BugButcher */
      , (1342889789, 307,          5) /* DamageRating */
      , (1342889789, 308,          0) /* DamageResistRating */
      , (1342889789, 312,          0) /* HealOverTime */

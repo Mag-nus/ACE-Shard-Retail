@@ -40,8 +40,8 @@ VALUES (1343193128,   1,         16) /* ItemType - Creature */
      , (1343193128, 244,          0) /* AugmentationResistanceFire */
      , (1343193128, 245,          0) /* AugmentationResistanceFrost */
      , (1343193128, 246,          2) /* AugmentationResistanceLightning */
-     , (1343193128, 261,         31) /* CharacterTitleId */
-     , (1343193128, 281,          2) /* Faction1Bits */
+     , (1343193128, 261,         31) /* CharacterTitleId - BunnyMaster */
+     , (1343193128, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1343193128, 288,       1001) /* SocietyRankEldweb */
      , (1343193128, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1343193128, 295,          1) /* AugmentationInfusedItemMagic */

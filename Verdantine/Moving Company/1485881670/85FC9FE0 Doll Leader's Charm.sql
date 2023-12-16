@@ -17,7 +17,7 @@ VALUES (2247925728,   1,          8) /* ItemType - Jewelry */
      , (2247925728, 108,        600) /* ItemMaxMana */
      , (2247925728, 109,        100) /* ItemDifficulty */
      , (2247925728, 115,        190) /* ItemSkillLevelLimit */
-     , (2247925728, 176,         34) /* AppraisalItemSkill */;
+     , (2247925728, 176,         34) /* AppraisalItemSkill - WarMagic */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (2247925728,   1, False) /* Stuck */

@@ -31,7 +31,7 @@ VALUES (1342220523,   1,         16) /* ItemType - Creature */
      , (1342220523, 233,          1) /* AugmentationCriticalDefense */
      , (1342220523, 234,          1) /* AugmentationBonusXp */
      , (1342220523, 238,          3) /* AugmentationIncreasedSpellDuration */
-     , (1342220523, 261,         40) /* CharacterTitleId */
+     , (1342220523, 261,         40) /* CharacterTitleId - Deadeye */
      , (1342220523, 301,          1) /* AugmentationSkilledMissile */
      , (1342220523, 307,          0) /* DamageRating */
      , (1342220523, 308,          0) /* DamageResistRating */

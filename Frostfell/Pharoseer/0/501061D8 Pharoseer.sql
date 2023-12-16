@@ -16,7 +16,7 @@ VALUES (1343250904,   1,         16) /* ItemType - Creature */
      , (1343250904, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343250904, 188,          3) /* HeritageGroup - Sho */
      , (1343250904, 192,        127) /* FakeFishingSkill */
-     , (1343250904, 261,        106) /* CharacterTitleId */
+     , (1343250904, 261,        106) /* CharacterTitleId - PondScum */
      , (1343250904, 262,         66) /* NumCharacterTitles */
      , (1343250904, 390,          0) /* Enlightenment */
      , (1343250904, 8007,          1) /* PCAPRecordedAutonomousMovement */;
@@ -53,8 +53,8 @@ VALUES (1343250904,   1,   33554433) /* Setup */
      , (1343250904, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343250904, 1, 9896410, 2.630579, -30.83017, -11.995, 0.355578, 0, 0, -0.9346466) /* Location */
-/* @teleloc 0x009701DA [2.630579 -30.830170 -11.995000] 0.355578 0.000000 0.000000 -0.934647 */
+VALUES (1343250904, 1, 9896410, 2.6305792, -30.83017, -11.995001, 0.35557798, 0, 0, -0.9346466) /* Location */
+/* @teleloc 0x009701DA [2.630579 -30.830170 -11.995001] 0.355578 0.000000 0.000000 -0.934647 */
      , (1343250904, 8040, 459077, 70, -80, 0.004999995, 1, 0, 0, 0) /* PCAPRecordedLocation */
 /* @teleloc 0x00070145 [70.000000 -80.000000 0.005000] 1.000000 0.000000 0.000000 0.000000 */;
 

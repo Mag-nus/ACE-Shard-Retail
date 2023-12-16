@@ -24,7 +24,7 @@ VALUES (2248052888,   1,          2) /* ItemType - Armor */
      , (2248052888, 158,          7) /* WieldRequirements - Level */
      , (2248052888, 159,          1) /* WieldSkillType - Axe */
      , (2248052888, 160,        180) /* WieldDifficulty */
-     , (2248052888, 172,          5) /* AppraisalLongDescDecoration */
+     , (2248052888, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2248052888, 177,          8) /* GemCount */
      , (2248052888, 178,         34) /* GemType */
      , (2248052888, 265,         29) /* EquipmentSetId - Lightningproof */

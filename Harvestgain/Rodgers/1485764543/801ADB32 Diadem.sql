@@ -21,7 +21,7 @@ VALUES (2149243698,   1,          2) /* ItemType - Armor */
      , (2149243698, 115,          0) /* ItemSkillLevelLimit */
      , (2149243698, 131,         62) /* MaterialType - Pyreal */
      , (2149243698, 151,          2) /* HookType - Wall */
-     , (2149243698, 172,          7) /* AppraisalLongDescDecoration */
+     , (2149243698, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2149243698, 177,          8) /* GemCount */
      , (2149243698, 178,         21) /* GemType */
      , (2149243698, 9015,          3) /* InventoryOrder */;

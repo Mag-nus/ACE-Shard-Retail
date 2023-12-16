@@ -21,7 +21,7 @@ VALUES (2149231580,   1,          2) /* ItemType - Armor */
      , (2149231580, 115,          0) /* ItemSkillLevelLimit */
      , (2149231580, 131,         58) /* MaterialType - Bronze */
      , (2149231580, 171,          8) /* NumTimesTinkered */
-     , (2149231580, 172,          3) /* AppraisalLongDescDecoration */
+     , (2149231580, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2149231580, 188,          3) /* HeritageGroup - Sho */
      , (2149231580, 9015,          0) /* InventoryOrder */;
 

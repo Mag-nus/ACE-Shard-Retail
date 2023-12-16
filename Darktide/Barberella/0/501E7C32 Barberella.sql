@@ -19,7 +19,7 @@ VALUES (1344175154,   1, True ) /* Stuck */
      , (1344175154,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1344175154,  39, 0.899999976158142) /* DefaultScale */;
+VALUES (1344175154,  39, 0.8999999761581421) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1344175154,   1, 'Barberella') /* Name */;
@@ -36,10 +36,10 @@ VALUES (1344175154,   1,   33561121) /* Setup */
      , (1344175154, 8005,     104579) /* PCAPRecordedPhysicsDesc - CSetup, MTable, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1344175154, 1, 3855548444, 73.49079, 95.92033, 9.875768, -0.4488153, 0, 0, -0.8936245) /* Location */
-/* @teleloc 0xE5CF001C [73.490790 95.920330 9.875768] -0.448815 0.000000 0.000000 -0.893625 */
-     , (1344175154, 8040, 3855482935, 150.484, 146.4956, 10.20797, 0.2866794, 0, 0, -0.9580266) /* PCAPRecordedLocation */
-/* @teleloc 0xE5CE0037 [150.484000 146.495600 10.207970] 0.286679 0.000000 0.000000 -0.958027 */;
+VALUES (1344175154, 1, 3855548444, 73.49079, 95.92033, 9.875768, -0.44881535, 0, 0, -0.8936245) /* Location */
+/* @teleloc 0xE5CF001C [73.490791 95.920326 9.875768] -0.448815 0.000000 0.000000 -0.893624 */
+     , (1344175154, 8040, 3855482935, 150.484, 146.49564, 10.20797, 0.2866794, 0, 0, -0.9580266) /* PCAPRecordedLocation */
+/* @teleloc 0xE5CE0037 [150.483994 146.495636 10.207970] 0.286679 0.000000 0.000000 -0.958027 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1344175154, 8000, 1344175154) /* PCAPRecordedObjectIID */;

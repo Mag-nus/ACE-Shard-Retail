@@ -20,7 +20,7 @@ VALUES (1343357430,   1,         16) /* ItemType - Creature */
      , (1343357430, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343357430, 188,         10) /* HeritageGroup - Penumbraen */
      , (1343357430, 199, 1088277142) /* HousePurchaseTimestamp */
-     , (1343357430, 261,         33) /* CharacterTitleId */
+     , (1343357430, 261,         33) /* CharacterTitleId - ChainBreaker */
      , (1343357430, 298,          1) /* AugmentationCriticalExpertise */
      , (1343357430, 307,          0) /* DamageRating */
      , (1343357430, 308,          0) /* DamageResistRating */

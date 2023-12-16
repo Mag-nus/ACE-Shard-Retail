@@ -19,7 +19,7 @@ VALUES (1343493788,   1, True ) /* Stuck */
      , (1343493788,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343493788,  39, 1.29999995231628) /* DefaultScale */;
+VALUES (1343493788,  39, 1.2999999523162842) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343493788,   1, 'Hachiroku Trueno') /* Name */;
@@ -36,8 +36,8 @@ VALUES (1343493788,   1,   33561112) /* Setup */
      , (1343493788, 8005,     104579) /* PCAPRecordedPhysicsDesc - CSetup, MTable, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343493788, 8040, 2847146241, 79.33706, 134.1313, 69.5065, -0.9528555, 0, 0, -0.3034246) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B40101 [79.337060 134.131300 69.506500] -0.952856 0.000000 0.000000 -0.303425 */;
+VALUES (1343493788, 8040, 2847146241, 79.33706, 134.13132, 69.5065, -0.95285547, 0, -0, -0.30342463) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B40101 [79.337059 134.131317 69.506500] -0.952855 0.000000 -0.000000 -0.303425 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343493788,  26, 1343275916) /* Monarch */

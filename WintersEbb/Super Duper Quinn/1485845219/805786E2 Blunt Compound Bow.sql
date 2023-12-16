@@ -9,7 +9,7 @@ VALUES (2153219810,   1,        256) /* ItemType - MissileWeapon */
      , (2153219810,  18,        512) /* UiEffects - Bludgeoning */
      , (2153219810,  19,       4713) /* Value */
      , (2153219810,  50,          1) /* AmmoType - Arrow */
-     , (2153219810,  51,          2) /* CombatUse - Missle */
+     , (2153219810,  51,          2) /* CombatUse - Missile */
      , (2153219810,  65,        101) /* Placement - Resting */
      , (2153219810,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2153219810, 131,         73) /* MaterialType - Ebony */

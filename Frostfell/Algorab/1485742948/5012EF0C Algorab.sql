@@ -24,7 +24,7 @@ VALUES (1343418124,   1,         16) /* ItemType - Creature */
      , (1343418124, 139,        187) /* DeathLevel */
      , (1343418124, 188,          2) /* HeritageGroup - Gharundim */
      , (1343418124, 199,          0) /* HousePurchaseTimestamp */
-     , (1343418124, 261,        562) /* CharacterTitleId */
+     , (1343418124, 261,        562) /* CharacterTitleId - GoldFarmer */
      , (1343418124, 307,          0) /* DamageRating */
      , (1343418124, 308,          0) /* DamageResistRating */
      , (1343418124, 312,          0) /* HealOverTime */

@@ -27,8 +27,8 @@ VALUES (1342423741,   1,         16) /* ItemType - Creature */
      , (1342423741, 192,          0) /* FakeFishingSkill */
      , (1342423741, 199, 1244258805) /* HousePurchaseTimestamp */
      , (1342423741, 231,          3) /* AugmentationLessDeathItemLoss */
-     , (1342423741, 261,        572) /* CharacterTitleId */
-     , (1342423741, 281,          1) /* Faction1Bits */
+     , (1342423741, 261,        572) /* CharacterTitleId - HopeofthePast */
+     , (1342423741, 281,          1) /* Faction1Bits - CelestialHand */
      , (1342423741, 287,         40) /* SocietyRankCelhan */
      , (1342423741, 307,          0) /* DamageRating */
      , (1342423741, 308,          0) /* DamageResistRating */

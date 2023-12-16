@@ -22,7 +22,7 @@ VALUES (1343937960,   1,         16) /* ItemType - Creature */
      , (1343937960, 139,        180) /* DeathLevel */
      , (1343937960, 188,         13) /* HeritageGroup - OlthoiAcid */
      , (1343937960, 199,          0) /* HousePurchaseTimestamp */
-     , (1343937960, 261,        712) /* CharacterTitleId */
+     , (1343937960, 261,        712) /* CharacterTitleId - AcidSpitter */
      , (1343937960, 307,          0) /* DamageRating */
      , (1343937960, 308,          0) /* DamageResistRating */
      , (1343937960, 312,          0) /* HealOverTime */

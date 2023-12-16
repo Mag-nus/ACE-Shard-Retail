@@ -18,7 +18,7 @@ VALUES (2149213621,   1,          8) /* ItemType - Jewelry */
      , (2149213621, 110,          0) /* ItemAllegianceRankLimit */
      , (2149213621, 115,          0) /* ItemSkillLevelLimit */
      , (2149213621, 131,         64) /* MaterialType - Steel */
-     , (2149213621, 172,          7) /* AppraisalLongDescDecoration */
+     , (2149213621, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2149213621, 177,          3) /* GemCount */
      , (2149213621, 178,         34) /* GemType */
      , (2149213621, 9015,          3) /* InventoryOrder */;

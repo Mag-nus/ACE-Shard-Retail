@@ -13,7 +13,7 @@ VALUES (1343484438,   1,         16) /* ItemType - Creature */
      , (1343484438, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343484438, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343484438, 188,          8) /* HeritageGroup - Lugian */
-     , (1343484438, 261,         10) /* CharacterTitleId */
+     , (1343484438, 261,         10) /* CharacterTitleId - LifeCaster */
      , (1343484438, 390,          0) /* Enlightenment */
      , (1343484438, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
@@ -26,7 +26,7 @@ VALUES (1343484438,   1, True ) /* Stuck */
      , (1343484438,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343484438,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1343484438,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343484438,   1, 'Tom Jones III') /* Name */;
@@ -49,10 +49,10 @@ VALUES (1343484438,   1,   33561106) /* Setup */
      , (1343484438, 8005,     104579) /* PCAPRecordedPhysicsDesc - CSetup, MTable, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343484438, 1, 3332964380, 78.03796, 91.97737, 42.006, 0.5748466, 0, 0, -0.8182612) /* Location */
-/* @teleloc 0xC6A9001C [78.037960 91.977370 42.006000] 0.574847 0.000000 0.000000 -0.818261 */
+VALUES (1343484438, 1, 3332964380, 78.037964, 91.97737, 42.006, 0.57484657, 0, 0, -0.8182612) /* Location */
+/* @teleloc 0xC6A9001C [78.037964 91.977371 42.006001] 0.574847 0.000000 0.000000 -0.818261 */
      , (1343484438, 8040, 3332964361, 46.805, 4.219, 42.006, 1, 0, 0, 0) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A90009 [46.805000 4.219000 42.006000] 1.000000 0.000000 0.000000 0.000000 */;
+/* @teleloc 0xC6A90009 [46.805000 4.219000 42.006001] 1.000000 0.000000 0.000000 0.000000 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343484438, 8000, 1343484438) /* PCAPRecordedObjectIID */;

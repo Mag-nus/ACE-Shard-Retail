@@ -14,8 +14,8 @@ VALUES (1343115917,   1,         16) /* ItemType - Creature */
      , (1343115917, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343115917, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343115917, 188,          2) /* HeritageGroup - Gharundim */
-     , (1343115917, 261,         62) /* CharacterTitleId */
-     , (1343115917, 281,          1) /* Faction1Bits */
+     , (1343115917, 261,         62) /* CharacterTitleId - GraveRobber */
+     , (1343115917, 281,          1) /* Faction1Bits - CelestialHand */
      , (1343115917, 287,        120) /* SocietyRankCelhan */
      , (1343115917, 307,          8) /* DamageRating */
      , (1343115917, 390,          0) /* Enlightenment */
@@ -54,9 +54,9 @@ VALUES (1343115917,   1,   33554433) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343115917, 1, 3332964361, 46.805, 4.219, 42.005, 1, 0, 0, 0) /* Location */
-/* @teleloc 0xC6A90009 [46.805000 4.219000 42.005000] 1.000000 0.000000 0.000000 0.000000 */
-     , (1343115917, 8040, 722599969, 109.413, 11.69883, 48.005, 0.864827, 0, 0, -0.50207) /* PCAPRecordedLocation */
-/* @teleloc 0x2B120021 [109.413000 11.698830 48.005000] 0.864827 0.000000 0.000000 -0.502070 */;
+/* @teleloc 0xC6A90009 [46.805000 4.219000 42.005001] 1.000000 0.000000 0.000000 0.000000 */
+     , (1343115917, 8040, 722599969, 109.413, 11.6988325, 48.005, 0.864827, 0, 0, -0.50207) /* PCAPRecordedLocation */
+/* @teleloc 0x2B120021 [109.413002 11.698833 48.005001] 0.864827 0.000000 0.000000 -0.502070 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343115917,  26, 1343424572) /* Monarch */

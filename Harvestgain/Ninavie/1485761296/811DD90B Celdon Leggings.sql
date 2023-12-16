@@ -20,7 +20,7 @@ VALUES (2166216971,   1,          2) /* ItemType - Armor */
      , (2166216971, 110,          0) /* ItemAllegianceRankLimit */
      , (2166216971, 115,          0) /* ItemSkillLevelLimit */
      , (2166216971, 131,         59) /* MaterialType - Copper */
-     , (2166216971, 172,          3) /* AppraisalLongDescDecoration */
+     , (2166216971, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2166216971, 188,          1) /* HeritageGroup - Aluvian */
      , (2166216971, 9015,         20) /* InventoryOrder */;
 

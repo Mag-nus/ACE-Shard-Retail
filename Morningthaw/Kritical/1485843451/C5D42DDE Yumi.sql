@@ -8,7 +8,7 @@ VALUES (3319016926,   1,        256) /* ItemType - MissileWeapon */
      , (3319016926,  16,          1) /* ItemUseable - No */
      , (3319016926,  19,        541) /* Value */
      , (3319016926,  50,          1) /* AmmoType - Arrow */
-     , (3319016926,  51,          2) /* CombatUse - Missle */
+     , (3319016926,  51,          2) /* CombatUse - Missile */
      , (3319016926,  65,        101) /* Placement - Resting */
      , (3319016926,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3319016926, 131,         37) /* MaterialType - RoseQuartz */

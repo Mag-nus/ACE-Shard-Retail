@@ -18,7 +18,7 @@ VALUES (3327046051,   1,          8) /* ItemType - Jewelry */
      , (3327046051, 110,          0) /* ItemAllegianceRankLimit */
      , (3327046051, 115,          0) /* ItemSkillLevelLimit */
      , (3327046051, 131,         15) /* MaterialType - BlackGarnet */
-     , (3327046051, 172,          7) /* AppraisalLongDescDecoration */
+     , (3327046051, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3327046051, 177,          3) /* GemCount */
      , (3327046051, 178,         49) /* GemType */
      , (3327046051, 9015,         95) /* InventoryOrder */;

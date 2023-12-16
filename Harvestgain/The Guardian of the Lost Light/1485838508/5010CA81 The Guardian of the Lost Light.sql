@@ -29,7 +29,7 @@ VALUES (1343277697,   1,         16) /* ItemType - Creature */
      , (1343277697, 231,          3) /* AugmentationLessDeathItemLoss */
      , (1343277697, 232,          1) /* AugmentationSpellsRemainPastDeath */
      , (1343277697, 233,          1) /* AugmentationCriticalDefense */
-     , (1343277697, 261,         31) /* CharacterTitleId */
+     , (1343277697, 261,         31) /* CharacterTitleId - BunnyMaster */
      , (1343277697, 295,          1) /* AugmentationInfusedItemMagic */
      , (1343277697, 300,          1) /* AugmentationSkilledMelee */
      , (1343277697, 307,          0) /* DamageRating */

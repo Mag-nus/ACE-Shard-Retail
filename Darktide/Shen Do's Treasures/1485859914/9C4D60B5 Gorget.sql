@@ -18,7 +18,7 @@ VALUES (2622316725,   1,          8) /* ItemType - Jewelry */
      , (2622316725, 110,          0) /* ItemAllegianceRankLimit */
      , (2622316725, 115,          0) /* ItemSkillLevelLimit */
      , (2622316725, 131,         63) /* MaterialType - Silver */
-     , (2622316725, 172,          7) /* AppraisalLongDescDecoration */
+     , (2622316725, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2622316725, 177,          7) /* GemCount */
      , (2622316725, 178,         41) /* GemType */
      , (2622316725, 188,          1) /* HeritageGroup - Aluvian */

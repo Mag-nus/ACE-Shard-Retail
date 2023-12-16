@@ -21,7 +21,7 @@ VALUES (2164151181,   1,      32768) /* ItemType - Caster */
      , (2164151181, 131,         51) /* MaterialType - Ivory */
      , (2164151181, 151,          2) /* HookType - Wall */
      , (2164151181, 171,          3) /* NumTimesTinkered */
-     , (2164151181, 172,          7) /* AppraisalLongDescDecoration */
+     , (2164151181, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2164151181, 177,          1) /* GemCount */
      , (2164151181, 178,         47) /* GemType */
      , (2164151181, 179,          1) /* ImbuedEffect - CriticalStrike */

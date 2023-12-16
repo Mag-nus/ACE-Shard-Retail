@@ -16,7 +16,7 @@ VALUES (1342829474,   1,         16) /* ItemType - Creature */
      , (1342829474, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342829474, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342829474, 188,          2) /* HeritageGroup - Gharundim */
-     , (1342829474, 261,         34) /* CharacterTitleId */
+     , (1342829474, 261,         34) /* CharacterTitleId - ChampionofDereth */
      , (1342829474, 307,          7) /* DamageRating */
      , (1342829474, 390,          0) /* Enlightenment */
      , (1342829474, 8007,          1) /* PCAPRecordedAutonomousMovement */;
@@ -54,8 +54,8 @@ VALUES (1342829474,   1,   33554433) /* Setup */
      , (1342829474, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1342829474, 1, 459117, 98.68264, -64.9966, 0.004999995, 0.9998897, 0, 0, -0.01484949) /* Location */
-/* @teleloc 0x0007016D [98.682640 -64.996600 0.005000] 0.999890 0.000000 0.000000 -0.014849 */
+VALUES (1342829474, 1, 459117, 98.68264, -64.9966, 0.004999995, 0.99988973, 0, 0, -0.014849492) /* Location */
+/* @teleloc 0x0007016D [98.682640 -64.996597 0.005000] 0.999890 0.000000 0.000000 -0.014849 */
      , (1342829474, 8040, 459077, 70, -80, 0.004999995, 1, 0, 0, 0) /* PCAPRecordedLocation */
 /* @teleloc 0x00070145 [70.000000 -80.000000 0.005000] 1.000000 0.000000 0.000000 0.000000 */;
 

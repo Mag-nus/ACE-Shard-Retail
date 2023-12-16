@@ -25,7 +25,7 @@ VALUES (3658097098,   1,          1) /* ItemType - MeleeWeapon */
      , (3658097098, 115,        170) /* ItemSkillLevelLimit */
      , (3658097098, 131,         23) /* MaterialType - GreenGarnet */
      , (3658097098, 151,          2) /* HookType - Wall */
-     , (3658097098, 176,         45) /* AppraisalItemSkill */
+     , (3658097098, 176,         45) /* AppraisalItemSkill - LightWeapons */
      , (3658097098, 353,          3) /* WeaponType - Axe */
      , (3658097098, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (3658097098, 9015,         21) /* InventoryOrder */;

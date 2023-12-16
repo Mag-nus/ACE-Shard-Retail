@@ -24,7 +24,7 @@ VALUES (1343306436,   1,         16) /* ItemType - Creature */
      , (1343306436, 139,         28) /* DeathLevel */
      , (1343306436, 188,          5) /* HeritageGroup - Shadowbound */
      , (1343306436, 199, 1459129844) /* HousePurchaseTimestamp */
-     , (1343306436, 261,         11) /* CharacterTitleId */
+     , (1343306436, 261,         11) /* CharacterTitleId - Soldier */
      , (1343306436, 298,          1) /* AugmentationCriticalExpertise */
      , (1343306436, 307,          0) /* DamageRating */
      , (1343306436, 308,          0) /* DamageResistRating */

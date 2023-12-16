@@ -20,7 +20,7 @@ VALUES (1343490247,   1,         16) /* ItemType - Creature */
      , (1343490247, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343490247, 188,          3) /* HeritageGroup - Sho */
      , (1343490247, 192,          0) /* FakeFishingSkill */
-     , (1343490247, 261,         10) /* CharacterTitleId */
+     , (1343490247, 261,         10) /* CharacterTitleId - LifeCaster */
      , (1343490247, 307,          0) /* DamageRating */
      , (1343490247, 308,          0) /* DamageResistRating */
      , (1343490247, 312,          0) /* HealOverTime */

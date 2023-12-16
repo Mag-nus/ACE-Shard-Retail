@@ -17,7 +17,7 @@ VALUES (2148947244,   1,      32768) /* ItemType - Caster */
      , (2148947244, 108,       2000) /* ItemMaxMana */
      , (2148947244, 115,        225) /* ItemSkillLevelLimit */
      , (2148947244, 151,          2) /* HookType - Wall */
-     , (2148947244, 176,         34) /* AppraisalItemSkill */;
+     , (2148947244, 176,         34) /* AppraisalItemSkill - WarMagic */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (2148947244,   1, False) /* Stuck */
@@ -50,7 +50,7 @@ VALUES (2148947244,   1,   33558240) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (2148947244, 8040, 3332964373, 70.26752, 96.16352, 41.929, -0.4977206, -0.4977206, -0.502269, -0.502269) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A90015 [70.267520 96.163520 41.929000] -0.497721 -0.497721 -0.502269 -0.502269 */;
+/* @teleloc 0xC6A90015 [70.267517 96.163521 41.929001] -0.497721 -0.497721 -0.502269 -0.502269 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2148947244,   3, 1343228661) /* Wielder */

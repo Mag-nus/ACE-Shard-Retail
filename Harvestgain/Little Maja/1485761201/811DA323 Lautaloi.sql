@@ -9,7 +9,7 @@ VALUES (2166203171,   1,        256) /* ItemType - MissileWeapon */
      , (2166203171,  18,          1) /* UiEffects - Magical */
      , (2166203171,  19,       4000) /* Value */
      , (2166203171,  50,          1) /* AmmoType - Arrow */
-     , (2166203171,  51,          2) /* CombatUse - Missle */
+     , (2166203171,  51,          2) /* CombatUse - Missile */
      , (2166203171,  65,        101) /* Placement - Resting */
      , (2166203171,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2166203171, 151,          2) /* HookType - Wall */

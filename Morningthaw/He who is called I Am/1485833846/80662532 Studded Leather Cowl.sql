@@ -26,7 +26,7 @@ VALUES (2154177842,   1,          2) /* ItemType - Armor */
      , (2154177842, 159,          1) /* WieldSkillType - Axe */
      , (2154177842, 160,        180) /* WieldDifficulty */
      , (2154177842, 171,         10) /* NumTimesTinkered */
-     , (2154177842, 172,          5) /* AppraisalLongDescDecoration */
+     , (2154177842, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2154177842, 177,          3) /* GemCount */
      , (2154177842, 178,         26) /* GemType */
      , (2154177842, 265,         13) /* EquipmentSetId - Soldiers */

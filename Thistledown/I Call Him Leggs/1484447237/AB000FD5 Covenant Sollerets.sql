@@ -24,7 +24,7 @@ VALUES (2868907989,   1,          2) /* ItemType - Armor */
      , (2868907989, 158,          2) /* WieldRequirements - RawSkill */
      , (2868907989, 159,         15) /* WieldSkillType - MagicDefense */
      , (2868907989, 160,        245) /* WieldDifficulty */
-     , (2868907989, 172,          3) /* AppraisalLongDescDecoration */
+     , (2868907989, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2868907989, 270,          7) /* WieldRequirements2 - Level */
      , (2868907989, 271,          1) /* WieldSkillType2 - Axe */
      , (2868907989, 272,        150) /* WieldDifficulty2 */

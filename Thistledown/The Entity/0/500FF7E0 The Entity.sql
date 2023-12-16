@@ -14,7 +14,7 @@ VALUES (1343223776,   1,         16) /* ItemType - Creature */
      , (1343223776, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343223776, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343223776, 188,          2) /* HeritageGroup - Gharundim */
-     , (1343223776, 261,         58) /* CharacterTitleId */
+     , (1343223776, 261,         58) /* CharacterTitleId - GardenerWeeder */
      , (1343223776, 390,          0) /* Enlightenment */
      , (1343223776, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
@@ -52,8 +52,8 @@ VALUES (1343223776,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343223776, 1, 459108, 85.20858, -70.25132, 0.004999995, 0.6314692, 0, 0, -0.775401) /* Location */
 /* @teleloc 0x00070164 [85.208580 -70.251320 0.005000] 0.631469 0.000000 0.000000 -0.775401 */
-     , (1343223776, 8040, 49349095, 160.4939, -153.3145, 12.005, 0.9984108, 0, 0, -0.05635497) /* PCAPRecordedLocation */
-/* @teleloc 0x02F101E7 [160.493900 -153.314500 12.005000] 0.998411 0.000000 0.000000 -0.056355 */;
+     , (1343223776, 8040, 49349095, 160.49385, -153.31445, 12.004999, 0.9984108, 0, 0, -0.056354966) /* PCAPRecordedLocation */
+/* @teleloc 0x02F101E7 [160.493851 -153.314453 12.004999] 0.998411 0.000000 0.000000 -0.056355 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343223776,  26, 1343223078) /* Monarch */

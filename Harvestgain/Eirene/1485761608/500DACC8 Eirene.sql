@@ -23,7 +23,7 @@ VALUES (1343073480,   1,         16) /* ItemType - Creature */
      , (1343073480, 139,         49) /* DeathLevel */
      , (1343073480, 188,          4) /* HeritageGroup - Viamontian */
      , (1343073480, 199, 1446483795) /* HousePurchaseTimestamp */
-     , (1343073480, 261,         56) /* CharacterTitleId */
+     , (1343073480, 261,         56) /* CharacterTitleId - FriendofSilyun */
      , (1343073480, 307,          0) /* DamageRating */
      , (1343073480, 308,          0) /* DamageResistRating */
      , (1343073480, 312,          0) /* HealOverTime */

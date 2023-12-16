@@ -25,7 +25,7 @@ VALUES (2151382141,   1,      32768) /* ItemType - Caster */
      , (2151382141, 159,         34) /* WieldSkillType - WarMagic */
      , (2151382141, 160,        385) /* WieldDifficulty */
      , (2151382141, 171,         10) /* NumTimesTinkered */
-     , (2151382141, 172,          5) /* AppraisalLongDescDecoration */
+     , (2151382141, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2151382141, 177,          4) /* GemCount */
      , (2151382141, 178,         47) /* GemType */
      , (2151382141, 179,         64) /* ImbuedEffect - AcidRending */

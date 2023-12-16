@@ -14,7 +14,7 @@ VALUES (1343405170,   1,         16) /* ItemType - Creature */
      , (1343405170, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343405170, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343405170, 188,          7) /* HeritageGroup - Tumerok */
-     , (1343405170, 261,          1) /* CharacterTitleId */
+     , (1343405170, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343405170, 307,          5) /* DamageRating */
      , (1343405170, 314,          3) /* CritDamageRating */
      , (1343405170, 351,          8) /* LifeResistRating */
@@ -30,7 +30,7 @@ VALUES (1343405170,   1, True ) /* Stuck */
      , (1343405170,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343405170,  39, 1.10000002384186) /* DefaultScale */;
+VALUES (1343405170,  39, 1.100000023841858) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343405170,   1, 'Draxx V') /* Name */
@@ -57,9 +57,9 @@ VALUES (1343405170,   1,   33561114) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343405170, 1, 722599969, 109.413, 9.47661, 48, 0.864827, 0, 0, -0.50207) /* Location */
-/* @teleloc 0x2B120021 [109.413000 9.476610 48.000000] 0.864827 0.000000 0.000000 -0.502070 */
-     , (1343405170, 8040, 3600351239, 1.128519, 157.5536, 374.0055, -0.6127473, 0, 0, -0.7902789) /* PCAPRecordedLocation */
-/* @teleloc 0xD6990007 [1.128519 157.553600 374.005500] -0.612747 0.000000 0.000000 -0.790279 */;
+/* @teleloc 0x2B120021 [109.413002 9.476610 48.000000] 0.864827 0.000000 0.000000 -0.502070 */
+     , (1343405170, 8040, 3600351239, 1.1285187, 157.55356, 374.00552, -0.61274725, 0, -0, -0.7902789) /* PCAPRecordedLocation */
+/* @teleloc 0xD6990007 [1.128519 157.553558 374.005524] -0.612747 0.000000 -0.000000 -0.790279 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343405170,  26, 1342645687) /* Monarch */

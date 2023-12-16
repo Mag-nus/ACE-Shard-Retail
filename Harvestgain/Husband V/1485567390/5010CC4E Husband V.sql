@@ -27,7 +27,7 @@ VALUES (1343278158,   1,         16) /* ItemType - Creature */
      , (1343278158, 199, 1437405259) /* HousePurchaseTimestamp */
      , (1343278158, 231,          3) /* AugmentationLessDeathItemLoss */
      , (1343278158, 238,          5) /* AugmentationIncreasedSpellDuration */
-     , (1343278158, 261,          1) /* CharacterTitleId */
+     , (1343278158, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343278158, 300,          1) /* AugmentationSkilledMelee */
      , (1343278158, 307,          0) /* DamageRating */
      , (1343278158, 308,          0) /* DamageResistRating */

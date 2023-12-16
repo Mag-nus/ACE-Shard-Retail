@@ -19,10 +19,10 @@ VALUES (1343396167,   1, True ) /* Stuck */
      , (1343396167,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343396167,  39, 1.20000004768372) /* DefaultScale */
-     , (1343396167, 8010, 2.63671207427979) /* PCAPRecordedVelocityX */
-     , (1343396167, 8011, -10.3054504394531) /* PCAPRecordedVelocityY */
-     , (1343396167, 8012, 7.10231590270996) /* PCAPRecordedVelocityZ */;
+VALUES (1343396167,  39, 1.2000000476837158) /* DefaultScale */
+     , (1343396167, 8010, 2.636712074279785) /* PCAPRecordedVelocityX */
+     , (1343396167, 8011, -10.305450439453125) /* PCAPRecordedVelocityY */
+     , (1343396167, 8012, 7.102315902709961) /* PCAPRecordedVelocityZ */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343396167,   1, 'Chaoveyn') /* Name */;
@@ -41,8 +41,8 @@ VALUES (1343396167,   1,   33560839) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343396167, 1, 459075, 70, -60, 0.01, 1, 0, 0, -1) /* Location */
 /* @teleloc 0x00070143 [70.000000 -60.000000 0.010000] 1.000000 0.000000 0.000000 -1.000000 */
-     , (1343396167, 8040, 2847146013, 94.72591, 119.9719, 71.06718, 0.1249142, 0, 0, -0.9921675) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B4001D [94.725910 119.971900 71.067180] 0.124914 0.000000 0.000000 -0.992168 */;
+     , (1343396167, 8040, 2847146013, 94.72591, 119.97189, 71.067184, 0.124914154, 0, 0, -0.99216753) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B4001D [94.725906 119.971893 71.067184] 0.124914 0.000000 0.000000 -0.992168 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343396167,  26, 1343396256) /* Monarch */

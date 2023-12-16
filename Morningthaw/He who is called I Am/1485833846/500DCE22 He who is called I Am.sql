@@ -28,7 +28,7 @@ VALUES (1343082018,   1,         16) /* ItemType - Creature */
      , (1343082018, 231,          3) /* AugmentationLessDeathItemLoss */
      , (1343082018, 232,          1) /* AugmentationSpellsRemainPastDeath */
      , (1343082018, 233,          1) /* AugmentationCriticalDefense */
-     , (1343082018, 261,        773) /* CharacterTitleId */
+     , (1343082018, 261,        773) /* CharacterTitleId - AnAubereanLegend */
      , (1343082018, 298,          1) /* AugmentationCriticalExpertise */
      , (1343082018, 299,          1) /* AugmentationCriticalPower */
      , (1343082018, 300,          1) /* AugmentationSkilledMelee */

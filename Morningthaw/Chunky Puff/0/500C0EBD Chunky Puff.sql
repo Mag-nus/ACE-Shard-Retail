@@ -16,7 +16,7 @@ VALUES (1342967485,   1,         16) /* ItemType - Creature */
      , (1342967485, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342967485, 181,       1453) /* ChessRank */
      , (1342967485, 188,          2) /* HeritageGroup - Gharundim */
-     , (1342967485, 261,        772) /* CharacterTitleId */
+     , (1342967485, 261,        772) /* CharacterTitleId - ParagonofNewAluvia */
      , (1342967485, 262,         76) /* NumCharacterTitles */
      , (1342967485, 390,          0) /* Enlightenment */
      , (1342967485, 8007,          1) /* PCAPRecordedAutonomousMovement */;
@@ -53,10 +53,10 @@ VALUES (1342967485,   1,   33554433) /* Setup */
      , (1342967485, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1342967485, 1, 19202317, 28.58919, -22.35696, 0.5175017, 0.1104559, 0, 0, -0.993881) /* Location */
+VALUES (1342967485, 1, 19202317, 28.58919, -22.35696, 0.5175017, 0.110455886, 0, 0, -0.99388105) /* Location */
 /* @teleloc 0x0125010D [28.589190 -22.356960 0.517502] 0.110456 0.000000 0.000000 -0.993881 */
      , (1342967485, 8040, 19202317, 28.58919, -22.35696, 0.5175017, 0.5246248, 0, 0, -0.8513335) /* PCAPRecordedLocation */
-/* @teleloc 0x0125010D [28.589190 -22.356960 0.517502] 0.524625 0.000000 0.000000 -0.851334 */;
+/* @teleloc 0x0125010D [28.589190 -22.356960 0.517502] 0.524625 0.000000 0.000000 -0.851333 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342967485,  26, 1342451060) /* Monarch */

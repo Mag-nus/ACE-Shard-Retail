@@ -29,8 +29,8 @@ VALUES (2148424436,   1,          1) /* ItemType - MeleeWeapon */
      , (2148424436, 159,         45) /* WieldSkillType - LightWeapons */
      , (2148424436, 160,        325) /* WieldDifficulty */
      , (2148424436, 171,          1) /* NumTimesTinkered */
-     , (2148424436, 172,          1) /* AppraisalLongDescDecoration */
-     , (2148424436, 176,         45) /* AppraisalItemSkill */
+     , (2148424436, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (2148424436, 176,         45) /* AppraisalItemSkill - LightWeapons */
      , (2148424436, 179,        256) /* ImbuedEffect - ElectricRending */
      , (2148424436, 353,          2) /* WeaponType - Sword */
      , (2148424436, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */

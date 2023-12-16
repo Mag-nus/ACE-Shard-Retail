@@ -23,7 +23,7 @@ VALUES (1343464366,   1,         16) /* ItemType - Creature */
      , (1343464366, 139,         10) /* DeathLevel */
      , (1343464366, 188,         11) /* HeritageGroup - Undead */
      , (1343464366, 233,          1) /* AugmentationCriticalDefense */
-     , (1343464366, 261,         14) /* CharacterTitleId */
+     , (1343464366, 261,         14) /* CharacterTitleId - Wayfarer */
      , (1343464366, 307,          0) /* DamageRating */
      , (1343464366, 308,          0) /* DamageResistRating */
      , (1343464366, 312,          0) /* HealOverTime */

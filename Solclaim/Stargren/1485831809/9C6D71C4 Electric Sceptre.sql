@@ -25,7 +25,7 @@ VALUES (2624418244,   1,      32768) /* ItemType - Caster */
      , (2624418244, 159,         34) /* WieldSkillType - WarMagic */
      , (2624418244, 160,        330) /* WieldDifficulty */
      , (2624418244, 171,          1) /* NumTimesTinkered */
-     , (2624418244, 172,          7) /* AppraisalLongDescDecoration */
+     , (2624418244, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2624418244, 177,          3) /* GemCount */
      , (2624418244, 178,         49) /* GemType */
      , (2624418244, 179,        256) /* ImbuedEffect - ElectricRending */

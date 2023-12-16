@@ -26,7 +26,7 @@ VALUES (1342852089,   1,         16) /* ItemType - Creature */
      , (1342852089, 139,        219) /* DeathLevel */
      , (1342852089, 188,          1) /* HeritageGroup - Aluvian */
      , (1342852089, 192,          0) /* FakeFishingSkill */
-     , (1342852089, 261,         12) /* CharacterTitleId */
+     , (1342852089, 261,         12) /* CharacterTitleId - Swashbuckler */
      , (1342852089, 307,          5) /* DamageRating */
      , (1342852089, 308,          0) /* DamageResistRating */
      , (1342852089, 312,          0) /* HealOverTime */

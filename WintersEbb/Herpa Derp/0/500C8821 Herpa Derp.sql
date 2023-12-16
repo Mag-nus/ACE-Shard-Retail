@@ -19,7 +19,7 @@ VALUES (1342998561,   1, True ) /* Stuck */
      , (1342998561,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1342998561,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1342998561,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1342998561,   1, 'Herpa Derp') /* Name */;
@@ -36,10 +36,10 @@ VALUES (1342998561,   1,   33561110) /* Setup */
      , (1342998561, 8005,     104643) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1342998561, 1, 3465871404, 125.1816, 80.57815, 20.006, 0.9507859, 0, 0, -0.3098485) /* Location */
-/* @teleloc 0xCE95002C [125.181600 80.578150 20.006000] 0.950786 0.000000 0.000000 -0.309849 */
-     , (1342998561, 8040, 3465871406, 123.349, 136.8555, 20.006, -0.8767199, 0, 0, -0.4810013) /* PCAPRecordedLocation */
-/* @teleloc 0xCE95002E [123.349000 136.855500 20.006000] -0.876720 0.000000 0.000000 -0.481001 */;
+VALUES (1342998561, 1, 3465871404, 125.18157, 80.57815, 20.005999, 0.95078593, 0, 0, -0.30984852) /* Location */
+/* @teleloc 0xCE95002C [125.181572 80.578148 20.005999] 0.950786 0.000000 0.000000 -0.309849 */
+     , (1342998561, 8040, 3465871406, 123.349045, 136.85545, 20.005999, -0.8767199, 0, -0, -0.48100126) /* PCAPRecordedLocation */
+/* @teleloc 0xCE95002E [123.349045 136.855453 20.005999] -0.876720 0.000000 -0.000000 -0.481001 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342998561,  26, 1343003249) /* Monarch */

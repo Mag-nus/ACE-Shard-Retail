@@ -13,7 +13,7 @@ VALUES (1343792086,   1,         16) /* ItemType - Creature */
      , (1343792086, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343792086, 134,          4) /* PlayerKillerStatus - PK */
      , (1343792086, 188,          3) /* HeritageGroup - Sho */
-     , (1343792086, 261,        509) /* CharacterTitleId */
+     , (1343792086, 261,        509) /* CharacterTitleId - CragstoneFirefighter */
      , (1343792086, 390,          0) /* Enlightenment */
      , (1343792086, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
@@ -50,9 +50,9 @@ VALUES (1343792086,   1,   33554433) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343792086, 1, 1398866864, 90, -47.984, 6.01, 1, 0, 0, 0) /* Location */
-/* @teleloc 0x536103B0 [90.000000 -47.984000 6.010000] 1.000000 0.000000 0.000000 0.000000 */
-     , (1343792086, 8040, 3316187156, 64.32484, 83.71227, 49.28419, 0.3225573, 0, 0, -0.94655) /* PCAPRecordedLocation */
-/* @teleloc 0xC5A90014 [64.324840 83.712270 49.284190] 0.322557 0.000000 0.000000 -0.946550 */;
+/* @teleloc 0x536103B0 [90.000000 -47.984001 6.010000] 1.000000 0.000000 0.000000 0.000000 */
+     , (1343792086, 8040, 3316187156, 64.324844, 83.712265, 49.284195, 0.3225573, 0, 0, -0.94654995) /* PCAPRecordedLocation */
+/* @teleloc 0xC5A90014 [64.324844 83.712265 49.284195] 0.322557 0.000000 0.000000 -0.946550 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343792086,  26, 1343793956) /* Monarch */

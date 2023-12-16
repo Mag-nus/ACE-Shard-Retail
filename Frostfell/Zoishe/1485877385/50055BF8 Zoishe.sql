@@ -28,7 +28,7 @@ VALUES (1342528504,   1,         16) /* ItemType - Creature */
      , (1342528504, 199, 1426969639) /* HousePurchaseTimestamp */
      , (1342528504, 231,          3) /* AugmentationLessDeathItemLoss */
      , (1342528504, 232,          1) /* AugmentationSpellsRemainPastDeath */
-     , (1342528504, 261,        681) /* CharacterTitleId */
+     , (1342528504, 261,        681) /* CharacterTitleId - BeginningsEnd */
      , (1342528504, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1342528504, 295,          1) /* AugmentationInfusedItemMagic */
      , (1342528504, 296,          1) /* AugmentationInfusedLifeMagic */

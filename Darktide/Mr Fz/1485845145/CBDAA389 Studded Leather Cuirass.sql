@@ -14,7 +14,7 @@ VALUES (3420103561,   1,          2) /* ItemType - Armor */
      , (3420103561, 105,          6) /* ItemWorkmanship */
      , (3420103561, 131,         52) /* MaterialType - Leather */
      , (3420103561, 171,          4) /* NumTimesTinkered */
-     , (3420103561, 172,          5) /* AppraisalLongDescDecoration */
+     , (3420103561, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (3420103561, 177,          3) /* GemCount */
      , (3420103561, 178,         33) /* GemType */
      , (3420103561, 9015,         16) /* InventoryOrder */;

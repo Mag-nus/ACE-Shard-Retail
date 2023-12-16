@@ -11,7 +11,7 @@ VALUES (3633376914,   1,          8) /* ItemType - Jewelry */
      , (3633376914,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3633376914, 105,          8) /* ItemWorkmanship */
      , (3633376914, 131,         63) /* MaterialType - Silver */
-     , (3633376914, 172,          7) /* AppraisalLongDescDecoration */
+     , (3633376914, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3633376914, 177,          6) /* GemCount */
      , (3633376914, 178,         36) /* GemType */
      , (3633376914, 9015,         23) /* InventoryOrder */;

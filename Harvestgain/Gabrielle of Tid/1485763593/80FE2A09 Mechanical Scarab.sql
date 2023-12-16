@@ -19,7 +19,7 @@ VALUES (2164140553,   1,          8) /* ItemType - Jewelry */
      , (2164140553, 110,          0) /* ItemAllegianceRankLimit */
      , (2164140553, 115,          0) /* ItemSkillLevelLimit */
      , (2164140553, 131,         32) /* MaterialType - Onyx */
-     , (2164140553, 172,          5) /* AppraisalLongDescDecoration */
+     , (2164140553, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2164140553, 177,          3) /* GemCount */
      , (2164140553, 178,         14) /* GemType */;
 

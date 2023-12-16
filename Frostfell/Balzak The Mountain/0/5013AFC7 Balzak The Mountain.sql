@@ -19,7 +19,7 @@ VALUES (1343467463,   1, True ) /* Stuck */
      , (1343467463,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343467463,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1343467463,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343467463,   1, 'Balzak The Mountain') /* Name */;
@@ -36,10 +36,10 @@ VALUES (1343467463,   1,   33560839) /* Setup */
      , (1343467463, 8005,     104579) /* PCAPRecordedPhysicsDesc - CSetup, MTable, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343467463, 1, 459108, 85.18758, -69.1661, 0.005999982, 0.680301, 0, 0, -0.7329329) /* Location */
-/* @teleloc 0x00070164 [85.187580 -69.166100 0.006000] 0.680301 0.000000 0.000000 -0.732933 */
-     , (1343467463, 8040, 23855555, 57.98555, -41.52632, 0.005999982, -0.9997916, 0, 0, -0.02041499) /* PCAPRecordedLocation */
-/* @teleloc 0x016C01C3 [57.985550 -41.526320 0.006000] -0.999792 0.000000 0.000000 -0.020415 */;
+VALUES (1343467463, 1, 459108, 85.187584, -69.1661, 0.0059999824, 0.68030095, 0, 0, -0.7329329) /* Location */
+/* @teleloc 0x00070164 [85.187584 -69.166100 0.006000] 0.680301 0.000000 0.000000 -0.732933 */
+     , (1343467463, 8040, 23855555, 57.985546, -41.526318, 0.0059999824, -0.99979156, 0, -0, -0.020414993) /* PCAPRecordedLocation */
+/* @teleloc 0x016C01C3 [57.985546 -41.526318 0.006000] -0.999792 0.000000 -0.000000 -0.020415 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343467463,  26, 1342200341) /* Monarch */

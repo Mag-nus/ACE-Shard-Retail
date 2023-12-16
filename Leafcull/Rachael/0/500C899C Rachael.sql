@@ -15,7 +15,7 @@ VALUES (1342998940,   1,         16) /* ItemType - Creature */
      , (1342998940, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342998940, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342998940, 188,          3) /* HeritageGroup - Sho */
-     , (1342998940, 261,        682) /* CharacterTitleId */
+     , (1342998940, 261,        682) /* CharacterTitleId - NexusCrawler */
      , (1342998940, 390,          0) /* Enlightenment */
      , (1342998940, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
@@ -52,9 +52,9 @@ VALUES (1342998940,   1,   33554510) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1342998940, 1, 2316173349, 96.7635, 102.75, 226, -0.999389, 0, 0, 0.0349511) /* Location */
-/* @teleloc 0x8A0E0025 [96.763500 102.750000 226.000000] -0.999389 0.000000 0.000000 0.034951 */
-     , (1342998940, 8040, 3583574079, 185.0925, 161.6163, 374.005, -0.289897, 0, 0, -0.9570579) /* PCAPRecordedLocation */
-/* @teleloc 0xD599003F [185.092500 161.616300 374.005000] -0.289897 0.000000 0.000000 -0.957058 */;
+/* @teleloc 0x8A0E0025 [96.763496 102.750000 226.000000] -0.999389 0.000000 0.000000 0.034951 */
+     , (1342998940, 8040, 3583574079, 185.09253, 161.61633, 374.005, -0.28989697, 0, -0, -0.9570579) /* PCAPRecordedLocation */
+/* @teleloc 0xD599003F [185.092529 161.616333 374.005005] -0.289897 0.000000 -0.000000 -0.957058 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342998940,  26, 1342747180) /* Monarch */

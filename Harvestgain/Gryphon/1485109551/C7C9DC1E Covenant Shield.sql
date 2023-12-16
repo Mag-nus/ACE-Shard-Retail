@@ -18,7 +18,7 @@ VALUES (3351895070,   1,          2) /* ItemType - Armor */
      , (3351895070, 158,          2) /* WieldRequirements - RawSkill */
      , (3351895070, 159,          6) /* WieldSkillType - MeleeDefense */
      , (3351895070, 160,        343) /* WieldDifficulty */
-     , (3351895070, 172,          7) /* AppraisalLongDescDecoration */
+     , (3351895070, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3351895070, 177,          3) /* GemCount */
      , (3351895070, 178,         13) /* GemType */;
 

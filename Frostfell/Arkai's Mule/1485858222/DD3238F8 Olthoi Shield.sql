@@ -25,8 +25,8 @@ VALUES (3711056120,   1,          2) /* ItemType - Armor */
      , (3711056120, 158,          2) /* WieldRequirements - RawSkill */
      , (3711056120, 159,          7) /* WieldSkillType - MissileDefense */
      , (3711056120, 160,        205) /* WieldDifficulty */
-     , (3711056120, 172,          7) /* AppraisalLongDescDecoration */
-     , (3711056120, 176,          7) /* AppraisalItemSkill */
+     , (3711056120, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (3711056120, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (3711056120, 177,          4) /* GemCount */
      , (3711056120, 178,         22) /* GemType */
      , (3711056120, 188,          1) /* HeritageGroup - Aluvian */

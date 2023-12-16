@@ -25,7 +25,7 @@ VALUES (2273394346,   1,          1) /* ItemType - MeleeWeapon */
      , (2273394346, 115,        172) /* ItemSkillLevelLimit */
      , (2273394346, 131,         51) /* MaterialType - Ivory */
      , (2273394346, 151,          2) /* HookType - Wall */
-     , (2273394346, 176,         44) /* AppraisalItemSkill */
+     , (2273394346, 176,         44) /* AppraisalItemSkill - HeavyWeapons */
      , (2273394346, 188,          2) /* HeritageGroup - Gharundim */
      , (2273394346, 353,          2) /* WeaponType - Sword */
      , (2273394346, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */

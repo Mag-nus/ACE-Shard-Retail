@@ -25,8 +25,8 @@ VALUES (3330344525,   1,          1) /* ItemType - MeleeWeapon */
      , (3330344525, 115,         69) /* ItemSkillLevelLimit */
      , (3330344525, 131,         74) /* MaterialType - Mahogany */
      , (3330344525, 151,          2) /* HookType - Wall */
-     , (3330344525, 172,          1) /* AppraisalLongDescDecoration */
-     , (3330344525, 176,         45) /* AppraisalItemSkill */
+     , (3330344525, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (3330344525, 176,         45) /* AppraisalItemSkill - LightWeapons */
      , (3330344525, 353,          4) /* WeaponType - Mace */
      , (3330344525, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (3330344525, 9015,         11) /* InventoryOrder */;

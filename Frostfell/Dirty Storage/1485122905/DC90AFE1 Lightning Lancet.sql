@@ -28,8 +28,8 @@ VALUES (3700469729,   1,          1) /* ItemType - MeleeWeapon */
      , (3700469729, 158,          2) /* WieldRequirements - RawSkill */
      , (3700469729, 159,         46) /* WieldSkillType - FinesseWeapons */
      , (3700469729, 160,        430) /* WieldDifficulty */
-     , (3700469729, 172,          5) /* AppraisalLongDescDecoration */
-     , (3700469729, 176,         46) /* AppraisalItemSkill */
+     , (3700469729, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
+     , (3700469729, 176,         46) /* AppraisalItemSkill - FinesseWeapons */
      , (3700469729, 177,          1) /* GemCount */
      , (3700469729, 178,         26) /* GemType */
      , (3700469729, 353,          6) /* WeaponType - Dagger */

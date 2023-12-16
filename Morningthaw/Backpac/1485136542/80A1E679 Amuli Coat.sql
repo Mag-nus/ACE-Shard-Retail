@@ -20,7 +20,7 @@ VALUES (2158093945,   1,          2) /* ItemType - Armor */
      , (2158093945, 110,          0) /* ItemAllegianceRankLimit */
      , (2158093945, 115,          0) /* ItemSkillLevelLimit */
      , (2158093945, 131,         60) /* MaterialType - Gold */
-     , (2158093945, 172,          7) /* AppraisalLongDescDecoration */
+     , (2158093945, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2158093945, 177,          1) /* GemCount */
      , (2158093945, 178,         23) /* GemType */
      , (2158093945, 9015,         13) /* InventoryOrder */;

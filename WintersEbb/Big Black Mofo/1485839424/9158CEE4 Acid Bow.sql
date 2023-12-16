@@ -9,7 +9,7 @@ VALUES (2438516452,   1,        256) /* ItemType - MissileWeapon */
      , (2438516452,  18,        257) /* UiEffects - Magical, Acid */
      , (2438516452,  19,      12153) /* Value */
      , (2438516452,  50,          1) /* AmmoType - Arrow */
-     , (2438516452,  51,          2) /* CombatUse - Missle */
+     , (2438516452,  51,          2) /* CombatUse - Missile */
      , (2438516452,  65,        101) /* Placement - Resting */
      , (2438516452,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2438516452, 131,         49) /* MaterialType - YellowTopaz */

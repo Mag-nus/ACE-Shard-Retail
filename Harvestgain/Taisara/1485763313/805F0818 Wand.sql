@@ -20,7 +20,7 @@ VALUES (2153711640,   1,      32768) /* ItemType - Caster */
      , (2153711640, 115,          0) /* ItemSkillLevelLimit */
      , (2153711640, 131,         16) /* MaterialType - BlackOpal */
      , (2153711640, 151,          2) /* HookType - Wall */
-     , (2153711640, 172,          7) /* AppraisalLongDescDecoration */
+     , (2153711640, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2153711640, 177,          3) /* GemCount */
      , (2153711640, 178,         41) /* GemType */
      , (2153711640, 188,          2) /* HeritageGroup - Gharundim */

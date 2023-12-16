@@ -17,7 +17,7 @@ VALUES (1343229917,   1,         16) /* ItemType - Creature */
      , (1343229917, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343229917, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343229917, 188,          3) /* HeritageGroup - Sho */
-     , (1343229917, 261,         11) /* CharacterTitleId */
+     , (1343229917, 261,         11) /* CharacterTitleId - Soldier */
      , (1343229917, 307,          0) /* DamageRating */
      , (1343229917, 308,          0) /* DamageResistRating */
      , (1343229917, 312,          0) /* HealOverTime */

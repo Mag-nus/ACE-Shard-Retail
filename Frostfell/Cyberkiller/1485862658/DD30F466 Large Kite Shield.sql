@@ -21,7 +21,7 @@ VALUES (3710973030,   1,          2) /* ItemType - Armor */
      , (3710973030, 115,        351) /* ItemSkillLevelLimit */
      , (3710973030, 131,         60) /* MaterialType - Gold */
      , (3710973030, 151,          2) /* HookType - Wall */
-     , (3710973030, 176,          6) /* AppraisalItemSkill */
+     , (3710973030, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (3710973030, 188,          1) /* HeritageGroup - Aluvian */
      , (3710973030, 9015,         63) /* InventoryOrder */;
 

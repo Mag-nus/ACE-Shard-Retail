@@ -13,7 +13,7 @@ VALUES (3700104140,   1,      32768) /* ItemType - Caster */
      , (3700104140, 105,          8) /* ItemWorkmanship */
      , (3700104140, 131,         51) /* MaterialType - Ivory */
      , (3700104140, 151,          2) /* HookType - Wall */
-     , (3700104140, 172,          5) /* AppraisalLongDescDecoration */
+     , (3700104140, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (3700104140, 177,          1) /* GemCount */
      , (3700104140, 178,         17) /* GemType */
      , (3700104140, 9015,          4) /* InventoryOrder */;

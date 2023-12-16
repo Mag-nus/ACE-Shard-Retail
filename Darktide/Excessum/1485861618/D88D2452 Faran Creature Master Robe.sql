@@ -17,7 +17,7 @@ VALUES (3633128530,   1,          4) /* ItemType - Clothing */
      , (3633128530, 108,        416) /* ItemMaxMana */
      , (3633128530, 109,        158) /* ItemDifficulty */
      , (3633128530, 115,        190) /* ItemSkillLevelLimit */
-     , (3633128530, 176,         31) /* AppraisalItemSkill */
+     , (3633128530, 176,         31) /* AppraisalItemSkill - CreatureEnchantment */
      , (3633128530, 188,          1) /* HeritageGroup - Aluvian */
      , (3633128530, 9015,          3) /* InventoryOrder */;
 

@@ -20,7 +20,7 @@ VALUES (2868903480,   1,          8) /* ItemType - Jewelry */
      , (2868903480, 115,          0) /* ItemSkillLevelLimit */
      , (2868903480, 131,         48) /* MaterialType - YellowGarnet */
      , (2868903480, 171,          3) /* NumTimesTinkered */
-     , (2868903480, 172,          7) /* AppraisalLongDescDecoration */
+     , (2868903480, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2868903480, 177,          4) /* GemCount */
      , (2868903480, 178,         34) /* GemType */
      , (2868903480, 179,       8192) /* ImbuedEffect - Spellbook */

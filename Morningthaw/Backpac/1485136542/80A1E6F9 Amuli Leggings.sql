@@ -20,8 +20,8 @@ VALUES (2158094073,   1,          2) /* ItemType - Armor */
      , (2158094073, 110,          0) /* ItemAllegianceRankLimit */
      , (2158094073, 115,        274) /* ItemSkillLevelLimit */
      , (2158094073, 131,         53) /* MaterialType - ArmoredilloHide */
-     , (2158094073, 172,          3) /* AppraisalLongDescDecoration */
-     , (2158094073, 176,          6) /* AppraisalItemSkill */
+     , (2158094073, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (2158094073, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (2158094073, 188,          2) /* HeritageGroup - Gharundim */
      , (2158094073, 9015,         51) /* InventoryOrder */;
 

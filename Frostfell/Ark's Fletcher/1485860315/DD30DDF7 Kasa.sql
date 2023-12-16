@@ -24,7 +24,7 @@ VALUES (3710967287,   1,          4) /* ItemType - Clothing */
      , (3710967287, 158,          7) /* WieldRequirements - Level */
      , (3710967287, 159,          1) /* WieldSkillType - Axe */
      , (3710967287, 160,        180) /* WieldDifficulty */
-     , (3710967287, 172,          5) /* AppraisalLongDescDecoration */
+     , (3710967287, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (3710967287, 177,          1) /* GemCount */
      , (3710967287, 178,         39) /* GemType */
      , (3710967287, 265,         22) /* EquipmentSetId - Swift */

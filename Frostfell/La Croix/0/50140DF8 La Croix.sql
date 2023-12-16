@@ -15,7 +15,7 @@ VALUES (1343491576,   1,         16) /* ItemType - Creature */
      , (1343491576, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343491576, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343491576, 188,          9) /* HeritageGroup - Empyrean */
-     , (1343491576, 261,        434) /* CharacterTitleId */
+     , (1343491576, 261,        434) /* CharacterTitleId - ZefirZapper */
      , (1343491576, 307,         12) /* DamageRating */
      , (1343491576, 390,          0) /* Enlightenment */
      , (1343491576, 8007,          0) /* PCAPRecordedAutonomousMovement */;
@@ -29,7 +29,7 @@ VALUES (1343491576,   1, True ) /* Stuck */
      , (1343491576,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343491576,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1343491576,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343491576,   1, 'La Croix') /* Name */
@@ -57,9 +57,9 @@ VALUES (1343491576,   1,   33561110) /* Setup */
      , (1343491576, 8005,     104643) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343491576, 1, 459076, 65.41536, -65.06936, 0.005999982, 0.3939138, 0, 0, 0.9191474) /* Location */
-/* @teleloc 0x00070144 [65.415360 -65.069360 0.006000] 0.393914 0.000000 0.000000 0.919147 */
-     , (1343491576, 8040, 459077, 70, -80, 0.005999982, 1, 0, 0, 0) /* PCAPRecordedLocation */
+VALUES (1343491576, 1, 459076, 65.41536, -65.06936, 0.0059999824, 0.39391378, 0, 0, 0.91914743) /* Location */
+/* @teleloc 0x00070144 [65.415359 -65.069359 0.006000] 0.393914 0.000000 0.000000 0.919147 */
+     , (1343491576, 8040, 459077, 70, -80, 0.0059999824, 1, 0, 0, 0) /* PCAPRecordedLocation */
 /* @teleloc 0x00070145 [70.000000 -80.000000 0.006000] 1.000000 0.000000 0.000000 0.000000 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)

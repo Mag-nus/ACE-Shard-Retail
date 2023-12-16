@@ -20,7 +20,7 @@ VALUES (3231352879,   1,          8) /* ItemType - Jewelry */
      , (3231352879, 115,          0) /* ItemSkillLevelLimit */
      , (3231352879, 131,         57) /* MaterialType - Brass */
      , (3231352879, 171,          1) /* NumTimesTinkered */
-     , (3231352879, 172,          7) /* AppraisalLongDescDecoration */
+     , (3231352879, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3231352879, 177,          1) /* GemCount */
      , (3231352879, 178,         47) /* GemType */;
 

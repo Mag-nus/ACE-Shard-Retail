@@ -20,8 +20,8 @@ VALUES (2166187016,   1,          2) /* ItemType - Armor */
      , (2166187016, 110,          0) /* ItemAllegianceRankLimit */
      , (2166187016, 115,        232) /* ItemSkillLevelLimit */
      , (2166187016, 131,         63) /* MaterialType - Silver */
-     , (2166187016, 172,          7) /* AppraisalLongDescDecoration */
-     , (2166187016, 176,          7) /* AppraisalItemSkill */
+     , (2166187016, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (2166187016, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (2166187016, 177,          3) /* GemCount */
      , (2166187016, 178,         39) /* GemType */
      , (2166187016, 188,          2) /* HeritageGroup - Gharundim */

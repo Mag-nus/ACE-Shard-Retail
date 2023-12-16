@@ -9,7 +9,7 @@ VALUES (3710969421,   1,        256) /* ItemType - MissileWeapon */
      , (3710969421,  18,       1025) /* UiEffects - Magical, Slashing */
      , (3710969421,  19,      17571) /* Value */
      , (3710969421,  50,          1) /* AmmoType - Arrow */
-     , (3710969421,  51,          2) /* CombatUse - Missle */
+     , (3710969421,  51,          2) /* CombatUse - Missile */
      , (3710969421,  65,        101) /* Placement - Resting */
      , (3710969421,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3710969421, 131,         21) /* MaterialType - Emerald */

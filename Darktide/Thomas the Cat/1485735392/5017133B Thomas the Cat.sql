@@ -26,7 +26,7 @@ VALUES (1343689531,   1,         16) /* ItemType - Creature */
      , (1343689531, 181,       1628) /* ChessRank */
      , (1343689531, 188,          1) /* HeritageGroup - Aluvian */
      , (1343689531, 199, 1468182492) /* HousePurchaseTimestamp */
-     , (1343689531, 261,         58) /* CharacterTitleId */
+     , (1343689531, 261,         58) /* CharacterTitleId - GardenerWeeder */
      , (1343689531, 307,          0) /* DamageRating */
      , (1343689531, 308,          0) /* DamageResistRating */
      , (1343689531, 312,          0) /* HealOverTime */

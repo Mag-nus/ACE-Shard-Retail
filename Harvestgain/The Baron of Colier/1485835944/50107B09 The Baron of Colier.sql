@@ -38,8 +38,8 @@ VALUES (1343257353,   1,         16) /* ItemType - Creature */
      , (1343257353, 238,          5) /* AugmentationIncreasedSpellDuration */
      , (1343257353, 242,          1) /* AugmentationResistanceBlunt */
      , (1343257353, 244,          1) /* AugmentationResistanceFire */
-     , (1343257353, 261,        650) /* CharacterTitleId */
-     , (1343257353, 281,          2) /* Faction1Bits */
+     , (1343257353, 261,        650) /* CharacterTitleId - BaneoftheBlight */
+     , (1343257353, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1343257353, 288,       1001) /* SocietyRankEldweb */
      , (1343257353, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1343257353, 295,          1) /* AugmentationInfusedItemMagic */

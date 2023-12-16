@@ -19,7 +19,7 @@ VALUES (1344116486,   1, True ) /* Stuck */
      , (1344116486,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1344116486,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1344116486,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1344116486,   1, 'Super Saiyan Naruto') /* Name */;
@@ -36,10 +36,10 @@ VALUES (1344116486,   1,   33561110) /* Setup */
      , (1344116486, 8005,     104643) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1344116486, 1, 2380464133, 20.42736, 119.4947, 50.34583, 0.766407, 0, 0, -0.6423554) /* Location */
-/* @teleloc 0x8DE30005 [20.427360 119.494700 50.345830] 0.766407 0.000000 0.000000 -0.642355 */
-     , (1344116486, 8040, 2380464135, 23.51718, 147.8596, 46.12671, -0.2219065, 0, 0, 0.975068) /* PCAPRecordedLocation */
-/* @teleloc 0x8DE30007 [23.517180 147.859600 46.126710] -0.221907 0.000000 0.000000 0.975068 */;
+VALUES (1344116486, 1, 2380464133, 20.427359, 119.49473, 50.345825, 0.76640695, 0, 0, -0.6423554) /* Location */
+/* @teleloc 0x8DE30005 [20.427359 119.494728 50.345825] 0.766407 0.000000 0.000000 -0.642355 */
+     , (1344116486, 8040, 2380464135, 23.51718, 147.85956, 46.126705, -0.22190651, 0, 0, 0.975068) /* PCAPRecordedLocation */
+/* @teleloc 0x8DE30007 [23.517179 147.859558 46.126705] -0.221907 0.000000 0.000000 0.975068 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1344116486, 8000, 1344116486) /* PCAPRecordedObjectIID */;

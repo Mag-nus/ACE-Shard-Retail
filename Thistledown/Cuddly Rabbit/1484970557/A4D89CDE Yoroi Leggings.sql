@@ -20,7 +20,7 @@ VALUES (2765659358,   1,          2) /* ItemType - Armor */
      , (2765659358, 110,          0) /* ItemAllegianceRankLimit */
      , (2765659358, 115,        126) /* ItemSkillLevelLimit */
      , (2765659358, 131,         62) /* MaterialType - Pyreal */
-     , (2765659358, 176,          7) /* AppraisalItemSkill */
+     , (2765659358, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (2765659358, 188,          3) /* HeritageGroup - Sho */
      , (2765659358, 9015,          4) /* InventoryOrder */;
 

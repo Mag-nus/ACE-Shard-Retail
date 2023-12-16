@@ -25,8 +25,8 @@ VALUES (3582654243,   1,          1) /* ItemType - MeleeWeapon */
      , (3582654243, 115,        119) /* ItemSkillLevelLimit */
      , (3582654243, 131,         76) /* MaterialType - Pine */
      , (3582654243, 151,          2) /* HookType - Wall */
-     , (3582654243, 172,          5) /* AppraisalLongDescDecoration */
-     , (3582654243, 176,         44) /* AppraisalItemSkill */
+     , (3582654243, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
+     , (3582654243, 176,         44) /* AppraisalItemSkill - HeavyWeapons */
      , (3582654243, 177,          1) /* GemCount */
      , (3582654243, 178,         40) /* GemType */
      , (3582654243, 353,          4) /* WeaponType - Mace */

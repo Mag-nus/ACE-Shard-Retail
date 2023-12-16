@@ -19,7 +19,7 @@ VALUES (2343279801,   1,          8) /* ItemType - Jewelry */
      , (2343279801, 115,          0) /* ItemSkillLevelLimit */
      , (2343279801, 131,         63) /* MaterialType - Silver */
      , (2343279801, 171,          1) /* NumTimesTinkered */
-     , (2343279801, 172,          1) /* AppraisalLongDescDecoration */
+     , (2343279801, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (2343279801, 304,       8192) /* ImbuedEffect3 - Spellbook */
      , (2343279801, 9015,          9) /* InventoryOrder */;
 

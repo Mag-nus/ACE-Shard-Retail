@@ -23,7 +23,7 @@ VALUES (2624395389,   1,          2) /* ItemType - Armor */
      , (2624395389, 158,          7) /* WieldRequirements - Level */
      , (2624395389, 159,          1) /* WieldSkillType - Axe */
      , (2624395389, 160,        180) /* WieldDifficulty */
-     , (2624395389, 172,          3) /* AppraisalLongDescDecoration */
+     , (2624395389, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2624395389, 188,          2) /* HeritageGroup - Gharundim */
      , (2624395389, 265,         15) /* EquipmentSetId - Archers */
      , (2624395389, 9015,         46) /* InventoryOrder */;

@@ -14,7 +14,7 @@ VALUES (2158093914,   1,      32768) /* ItemType - Caster */
      , (2158093914, 131,         66) /* MaterialType - Alabaster */
      , (2158093914, 151,          2) /* HookType - Wall */
      , (2158093914, 171,          1) /* NumTimesTinkered */
-     , (2158093914, 172,          7) /* AppraisalLongDescDecoration */
+     , (2158093914, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2158093914, 177,          2) /* GemCount */
      , (2158093914, 178,         31) /* GemType */
      , (2158093914, 179,        128) /* ImbuedEffect - ColdRending */

@@ -21,7 +21,7 @@ VALUES (2164419604,   1,          4) /* ItemType - Clothing */
      , (2164419604, 110,          0) /* ItemAllegianceRankLimit */
      , (2164419604, 115,          0) /* ItemSkillLevelLimit */
      , (2164419604, 131,         53) /* MaterialType - ArmoredilloHide */
-     , (2164419604, 172,          7) /* AppraisalLongDescDecoration */
+     , (2164419604, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2164419604, 177,          2) /* GemCount */
      , (2164419604, 178,         20) /* GemType */
      , (2164419604, 188,          1) /* HeritageGroup - Aluvian */;

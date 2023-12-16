@@ -19,7 +19,7 @@ VALUES (1343477962,   1, True ) /* Stuck */
      , (1343477962,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343477962,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1343477962,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343477962,   1, 'Mcadoo Zoo Emu') /* Name */;
@@ -37,9 +37,9 @@ VALUES (1343477962,   1,   33560839) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343477962, 1, 3332964379, 77.66408, 65.53494, 42.006, 0.04373189, 0, 0, -0.9990433) /* Location */
-/* @teleloc 0xC6A9001B [77.664080 65.534940 42.006000] 0.043732 0.000000 0.000000 -0.999043 */
-     , (1343477962, 8040, 3332964380, 79.3339, 80.00062, 42.006, -0.9173338, 0, 0, -0.3981188) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001C [79.333900 80.000620 42.006000] -0.917334 0.000000 0.000000 -0.398119 */;
+/* @teleloc 0xC6A9001B [77.664078 65.534943 42.006001] 0.043732 0.000000 0.000000 -0.999043 */
+     , (1343477962, 8040, 3332964380, 79.3339, 80.00062, 42.006, -0.91733384, 0, -0, -0.39811882) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A9001C [79.333900 80.000618 42.006001] -0.917334 0.000000 -0.000000 -0.398119 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343477962,  26, 1342926850) /* Monarch */

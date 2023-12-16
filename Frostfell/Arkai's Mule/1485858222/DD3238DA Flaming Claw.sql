@@ -28,8 +28,8 @@ VALUES (3711056090,   1,          1) /* ItemType - MeleeWeapon */
      , (3711056090, 158,          2) /* WieldRequirements - RawSkill */
      , (3711056090, 159,         45) /* WieldSkillType - LightWeapons */
      , (3711056090, 160,        250) /* WieldDifficulty */
-     , (3711056090, 172,          3) /* AppraisalLongDescDecoration */
-     , (3711056090, 176,         45) /* AppraisalItemSkill */
+     , (3711056090, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (3711056090, 176,         45) /* AppraisalItemSkill - LightWeapons */
      , (3711056090, 188,          2) /* HeritageGroup - Gharundim */
      , (3711056090, 353,          1) /* WeaponType - Unarmed */
      , (3711056090, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */

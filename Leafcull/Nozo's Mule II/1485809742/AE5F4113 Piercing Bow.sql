@@ -9,7 +9,7 @@ VALUES (2925478163,   1,        256) /* ItemType - MissileWeapon */
      , (2925478163,  18,       2049) /* UiEffects - Magical, Piercing */
      , (2925478163,  19,      13383) /* Value */
      , (2925478163,  50,          1) /* AmmoType - Arrow */
-     , (2925478163,  51,          2) /* CombatUse - Missle */
+     , (2925478163,  51,          2) /* CombatUse - Missile */
      , (2925478163,  65,        101) /* Placement - Resting */
      , (2925478163,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2925478163, 131,         33) /* MaterialType - Opal */

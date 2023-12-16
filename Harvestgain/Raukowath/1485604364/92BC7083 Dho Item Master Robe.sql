@@ -17,7 +17,7 @@ VALUES (2461823107,   1,          4) /* ItemType - Clothing */
      , (2461823107, 108,        416) /* ItemMaxMana */
      , (2461823107, 109,        158) /* ItemDifficulty */
      , (2461823107, 115,        190) /* ItemSkillLevelLimit */
-     , (2461823107, 176,         32) /* AppraisalItemSkill */
+     , (2461823107, 176,         32) /* AppraisalItemSkill - ItemEnchantment */
      , (2461823107, 188,          2) /* HeritageGroup - Gharundim */
      , (2461823107, 9015,         10) /* InventoryOrder */;
 

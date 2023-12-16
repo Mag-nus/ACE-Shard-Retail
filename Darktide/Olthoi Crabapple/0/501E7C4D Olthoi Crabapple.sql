@@ -19,7 +19,7 @@ VALUES (1344175181,   1, True ) /* Stuck */
      , (1344175181,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1344175181,  39, 0.600000023841858) /* DefaultScale */;
+VALUES (1344175181,  39, 0.6000000238418579) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1344175181,   1, 'Olthoi Crabapple') /* Name */;
@@ -36,10 +36,10 @@ VALUES (1344175181,   1,   33561120) /* Setup */
      , (1344175181, 8005,     104579) /* PCAPRecordedPhysicsDesc - CSetup, MTable, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1344175181, 1, 3316121656, 167.9903, 176.0427, 41.9961, -0.998364, 0, 0, -0.0571776) /* Location */
-/* @teleloc 0xC5A80038 [167.990300 176.042700 41.996100] -0.998364 0.000000 0.000000 -0.057178 */
-     , (1344175181, 8040, 3316121658, 172.3523, 25.82688, 41.9961, -0.9774974, 0, 0, -0.2109474) /* PCAPRecordedLocation */
-/* @teleloc 0xC5A8003A [172.352300 25.826880 41.996100] -0.977497 0.000000 0.000000 -0.210947 */;
+VALUES (1344175181, 1, 3316121656, 167.99031, 176.04274, 41.9961, -0.99836403, 0, 0, -0.0571776) /* Location */
+/* @teleloc 0xC5A80038 [167.990311 176.042740 41.996101] -0.998364 0.000000 0.000000 -0.057178 */
+     , (1344175181, 8040, 3316121658, 172.35226, 25.826881, 41.9961, -0.9774974, 0, 0, -0.21094744) /* PCAPRecordedLocation */
+/* @teleloc 0xC5A8003A [172.352264 25.826881 41.996101] -0.977497 0.000000 0.000000 -0.210947 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1344175181, 8000, 1344175181) /* PCAPRecordedObjectIID */;

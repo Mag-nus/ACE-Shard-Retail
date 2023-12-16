@@ -25,7 +25,7 @@ VALUES (1343226030,   1,         16) /* ItemType - Creature */
      , (1343226030, 139,         16) /* DeathLevel */
      , (1343226030, 188,          3) /* HeritageGroup - Sho */
      , (1343226030, 192,          0) /* FakeFishingSkill */
-     , (1343226030, 261,          1) /* CharacterTitleId */
+     , (1343226030, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343226030, 307,          0) /* DamageRating */
      , (1343226030, 308,          0) /* DamageResistRating */
      , (1343226030, 312,          0) /* HealOverTime */

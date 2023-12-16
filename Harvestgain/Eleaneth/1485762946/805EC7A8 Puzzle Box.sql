@@ -18,7 +18,7 @@ VALUES (2153695144,   1,          8) /* ItemType - Jewelry */
      , (2153695144, 110,          0) /* ItemAllegianceRankLimit */
      , (2153695144, 115,          0) /* ItemSkillLevelLimit */
      , (2153695144, 131,         27) /* MaterialType - Jet */
-     , (2153695144, 172,          5) /* AppraisalLongDescDecoration */
+     , (2153695144, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2153695144, 177,          3) /* GemCount */
      , (2153695144, 178,         21) /* GemType */
      , (2153695144, 9015,          0) /* InventoryOrder */;

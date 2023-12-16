@@ -19,7 +19,7 @@ VALUES (1343227079,   1, True ) /* Stuck */
      , (1343227079,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343227079,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1343227079,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343227079,   1, 'Ezzelino') /* Name */;

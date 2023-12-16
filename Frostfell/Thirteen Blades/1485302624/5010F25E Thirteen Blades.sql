@@ -21,7 +21,7 @@ VALUES (1343287902,   1,         16) /* ItemType - Creature */
      , (1343287902, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343287902, 188,          3) /* HeritageGroup - Sho */
      , (1343287902, 199, 1432842474) /* HousePurchaseTimestamp */
-     , (1343287902, 261,         25) /* CharacterTitleId */
+     , (1343287902, 261,         25) /* CharacterTitleId - BloodShrethButcher */
      , (1343287902, 307,          0) /* DamageRating */
      , (1343287902, 308,          0) /* DamageResistRating */
      , (1343287902, 312,          0) /* HealOverTime */

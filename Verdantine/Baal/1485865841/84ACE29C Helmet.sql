@@ -22,7 +22,7 @@ VALUES (2225922716,   1,          2) /* ItemType - Armor */
      , (2225922716, 115,          0) /* ItemSkillLevelLimit */
      , (2225922716, 131,         59) /* MaterialType - Copper */
      , (2225922716, 151,          2) /* HookType - Wall */
-     , (2225922716, 172,          7) /* AppraisalLongDescDecoration */
+     , (2225922716, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2225922716, 177,          3) /* GemCount */
      , (2225922716, 178,         34) /* GemType */;
 

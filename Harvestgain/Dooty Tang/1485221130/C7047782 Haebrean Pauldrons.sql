@@ -25,8 +25,8 @@ VALUES (3338958722,   1,          2) /* ItemType - Armor */
      , (3338958722, 159,          1) /* WieldSkillType - Axe */
      , (3338958722, 160,        150) /* WieldDifficulty */
      , (3338958722, 171,          7) /* NumTimesTinkered */
-     , (3338958722, 172,          1) /* AppraisalLongDescDecoration */
-     , (3338958722, 176,          6) /* AppraisalItemSkill */
+     , (3338958722, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (3338958722, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (3338958722, 179,       1024) /* ImbuedEffect - MeleeDefense */
      , (3338958722, 265,         26) /* EquipmentSetId - Flameproof */;
 

@@ -15,7 +15,7 @@ VALUES (3673002882,   1,        128) /* ItemType - Misc */
      , (3673002882,  94,         16) /* TargetType - Creature */
      , (3673002882, 114,          0) /* Attuned - Normal */
      , (3673002882, 280,        213) /* SharedCooldown */
-     , (3673002882, 366,         54) /* UseRequiresSkill */
+     , (3673002882, 366,         54) /* UseRequiresSkill - Summoning */
      , (3673002882, 367,        220) /* UseRequiresSkillLevel */
      , (3673002882, 369,         20) /* UseRequiresLevel */
      , (3673002882, 9015,         14) /* InventoryOrder */;

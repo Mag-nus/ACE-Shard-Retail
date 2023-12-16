@@ -28,7 +28,7 @@ VALUES (1343005478,   1,         16) /* ItemType - Creature */
      , (1343005478, 188,          3) /* HeritageGroup - Sho */
      , (1343005478, 192,         18) /* FakeFishingSkill */
      , (1343005478, 199,          0) /* HousePurchaseTimestamp */
-     , (1343005478, 261,         21) /* CharacterTitleId */
+     , (1343005478, 261,         21) /* CharacterTitleId - Artifex */
      , (1343005478, 307,          0) /* DamageRating */
      , (1343005478, 308,          0) /* DamageResistRating */
      , (1343005478, 312,          0) /* HealOverTime */

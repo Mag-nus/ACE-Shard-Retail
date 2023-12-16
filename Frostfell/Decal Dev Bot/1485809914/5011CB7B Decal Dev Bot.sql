@@ -19,7 +19,7 @@ VALUES (1343343483,   1,         16) /* ItemType - Creature */
      , (1343343483, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343343483, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343343483, 188,          3) /* HeritageGroup - Sho */
-     , (1343343483, 261,         10) /* CharacterTitleId */
+     , (1343343483, 261,         10) /* CharacterTitleId - LifeCaster */
      , (1343343483, 307,          0) /* DamageRating */
      , (1343343483, 308,          0) /* DamageResistRating */
      , (1343343483, 312,          0) /* HealOverTime */

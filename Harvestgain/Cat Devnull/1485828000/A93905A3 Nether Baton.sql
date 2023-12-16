@@ -26,7 +26,7 @@ VALUES (2839086499,   1,      32768) /* ItemType - Caster */
      , (2839086499, 160,        385) /* WieldDifficulty */
      , (2839086499, 166,         89) /* SlayerCreatureType - Mukkir */
      , (2839086499, 171,         10) /* NumTimesTinkered */
-     , (2839086499, 172,          5) /* AppraisalLongDescDecoration */
+     , (2839086499, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2839086499, 177,          4) /* GemCount */
      , (2839086499, 178,         39) /* GemType */
      , (2839086499, 179,          1) /* ImbuedEffect - CriticalStrike */
@@ -43,7 +43,7 @@ VALUES (2839086499,   1, False) /* Stuck */
      , (2839086499,  91, True ) /* Retained */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2839086499,   5, -0.0666666666666667) /* ManaRate */
+VALUES (2839086499,   5, -0.06666666666666667) /* ManaRate */
      , (2839086499,  29,    1.18) /* WeaponDefense */
      , (2839086499,  39,     1.5) /* DefaultScale */
      , (2839086499, 144,    0.08) /* ManaConversionMod */

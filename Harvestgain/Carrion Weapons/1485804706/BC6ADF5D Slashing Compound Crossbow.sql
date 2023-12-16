@@ -9,7 +9,7 @@ VALUES (3161120605,   1,        256) /* ItemType - MissileWeapon */
      , (3161120605,  18,       1025) /* UiEffects - Magical, Slashing */
      , (3161120605,  19,      12037) /* Value */
      , (3161120605,  50,          2) /* AmmoType - Bolt */
-     , (3161120605,  51,          2) /* CombatUse - Missle */
+     , (3161120605,  51,          2) /* CombatUse - Missile */
      , (3161120605,  65,        101) /* Placement - Resting */
      , (3161120605,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3161120605, 131,         77) /* MaterialType - Teak */

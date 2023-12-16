@@ -15,7 +15,7 @@ VALUES (1342789655,   1,         16) /* ItemType - Creature */
      , (1342789655, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342789655, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342789655, 188,          3) /* HeritageGroup - Sho */
-     , (1342789655, 261,          1) /* CharacterTitleId */
+     , (1342789655, 261,          1) /* CharacterTitleId - Adventurer */
      , (1342789655, 307,          5) /* DamageRating */
      , (1342789655, 316,          2) /* CritDamageResistRating */
      , (1342789655, 390,          0) /* Enlightenment */
@@ -53,10 +53,10 @@ VALUES (1342789655,   1,   33554433) /* Setup */
      , (1342789655, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1342789655, 1, 2847146025, 120.3283, 16.76046, 94.005, -0.8205057, 0, 0, -0.5716382) /* Location */
-/* @teleloc 0xA9B40029 [120.328300 16.760460 94.005000] -0.820506 0.000000 0.000000 -0.571638 */
-     , (1342789655, 8040, 2847146025, 120.3283, 16.76046, 94.005, -0.8205057, 0, 0, -0.5716382) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B40029 [120.328300 16.760460 94.005000] -0.820506 0.000000 0.000000 -0.571638 */;
+VALUES (1342789655, 1, 2847146025, 120.32829, 16.760464, 94.005005, -0.82050574, 0, 0, -0.5716382) /* Location */
+/* @teleloc 0xA9B40029 [120.328293 16.760464 94.005005] -0.820506 0.000000 0.000000 -0.571638 */
+     , (1342789655, 8040, 2847146025, 120.32829, 16.760462, 94.005005, -0.82050574, 0, -0, -0.5716382) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B40029 [120.328293 16.760462 94.005005] -0.820506 0.000000 -0.000000 -0.571638 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342789655,  26, 1342708235) /* Monarch */

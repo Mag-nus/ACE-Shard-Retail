@@ -26,7 +26,7 @@ VALUES (1343202515,   1,         16) /* ItemType - Creature */
      , (1343202515, 188,          7) /* HeritageGroup - Tumerok */
      , (1343202515, 192,          0) /* FakeFishingSkill */
      , (1343202515, 199, 1158551826) /* HousePurchaseTimestamp */
-     , (1343202515, 261,        157) /* CharacterTitleId */
+     , (1343202515, 261,        157) /* CharacterTitleId - WorkerObliterator */
      , (1343202515, 299,          1) /* AugmentationCriticalPower */
      , (1343202515, 307,          0) /* DamageRating */
      , (1343202515, 308,          0) /* DamageResistRating */

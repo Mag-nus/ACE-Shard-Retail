@@ -19,7 +19,7 @@ VALUES (1343187949,   1, True ) /* Stuck */
      , (1343187949,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343187949,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1343187949,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343187949,   1, 'Soldier of Light and Darkness') /* Name */;
@@ -36,10 +36,10 @@ VALUES (1343187949,   1,   33560839) /* Setup */
      , (1343187949, 8005,     104643) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343187949, 1, 459074, 69.62976, -54.66882, 0.005999982, 0.9770731, 0, 0, 0.2129039) /* Location */
-/* @teleloc 0x00070142 [69.629760 -54.668820 0.006000] 0.977073 0.000000 0.000000 0.212904 */
-     , (1343187949, 8040, 3332964361, 46.805, 4.219, 42.006, 1, 0, 0, 0) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A90009 [46.805000 4.219000 42.006000] 1.000000 0.000000 0.000000 0.000000 */;
+VALUES (1343187949, 1, 459074, 69.62976, -54.66882, 0.0059999824, 0.97707313, 0, 0, 0.21290395) /* Location */
+/* @teleloc 0x00070142 [69.629761 -54.668819 0.006000] 0.977073 0.000000 0.000000 0.212904 */
+     , (1343187949, 8040, 3332964361, 46.805, 4.219, 42.006, 1, 0, 0, -0) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A90009 [46.805000 4.219000 42.006001] 1.000000 0.000000 0.000000 -0.000000 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343187949,  26, 1343177811) /* Monarch */

@@ -31,8 +31,8 @@ VALUES (1343492054,   1,         16) /* ItemType - Creature */
      , (1343492054, 232,          1) /* AugmentationSpellsRemainPastDeath */
      , (1343492054, 233,          1) /* AugmentationCriticalDefense */
      , (1343492054, 238,          4) /* AugmentationIncreasedSpellDuration */
-     , (1343492054, 261,          1) /* CharacterTitleId */
-     , (1343492054, 281,          4) /* Faction1Bits */
+     , (1343492054, 261,          1) /* CharacterTitleId - Adventurer */
+     , (1343492054, 281,          4) /* Faction1Bits - RadiantBlood */
      , (1343492054, 289,        435) /* SocietyRankRadblo */
      , (1343492054, 295,          1) /* AugmentationInfusedItemMagic */
      , (1343492054, 296,          1) /* AugmentationInfusedLifeMagic */

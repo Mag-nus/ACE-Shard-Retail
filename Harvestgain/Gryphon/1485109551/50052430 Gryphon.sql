@@ -26,7 +26,7 @@ VALUES (1342514224,   1,         16) /* ItemType - Creature */
      , (1342514224, 139,        192) /* DeathLevel */
      , (1342514224, 181,       1300) /* ChessRank */
      , (1342514224, 188,          1) /* HeritageGroup - Aluvian */
-     , (1342514224, 261,        110) /* CharacterTitleId */
+     , (1342514224, 261,        110) /* CharacterTitleId - Queenslayer */
      , (1342514224, 307,          5) /* DamageRating */
      , (1342514224, 308,          0) /* DamageResistRating */
      , (1342514224, 312,          0) /* HealOverTime */

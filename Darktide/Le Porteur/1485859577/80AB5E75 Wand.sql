@@ -21,7 +21,7 @@ VALUES (2158714485,   1,      32768) /* ItemType - Caster */
      , (2158714485, 131,         57) /* MaterialType - Brass */
      , (2158714485, 151,          2) /* HookType - Wall */
      , (2158714485, 171,          1) /* NumTimesTinkered */
-     , (2158714485, 172,          3) /* AppraisalLongDescDecoration */
+     , (2158714485, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2158714485, 179,        128) /* ImbuedEffect - ColdRending */
      , (2158714485, 9015,          8) /* InventoryOrder */;
 

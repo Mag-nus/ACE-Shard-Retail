@@ -14,7 +14,7 @@ VALUES (1342180799,   1,         16) /* ItemType - Creature */
      , (1342180799, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342180799, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342180799, 188,          1) /* HeritageGroup - Aluvian */
-     , (1342180799, 261,        599) /* CharacterTitleId */
+     , (1342180799, 261,        599) /* CharacterTitleId - UlgrimsHappyHundredth */
      , (1342180799, 307,          5) /* DamageRating */
      , (1342180799, 390,          0) /* Enlightenment */
      , (1342180799, 8007,          1) /* PCAPRecordedAutonomousMovement */;
@@ -53,9 +53,9 @@ VALUES (1342180799,   1,   33554510) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1342180799, 1, 2022440988, 72.8095, 77.8046, 154, 0.999911, 0, 0, 0.0133653) /* Location */
-/* @teleloc 0x788C001C [72.809500 77.804600 154.000000] 0.999911 0.000000 0.000000 0.013365 */
+/* @teleloc 0x788C001C [72.809502 77.804604 154.000000] 0.999911 0.000000 0.000000 0.013365 */
      , (1342180799, 8040, 3332964361, 46.805, 4.219, 42.005, 1, 0, 0, 0) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A90009 [46.805000 4.219000 42.005000] 1.000000 0.000000 0.000000 0.000000 */;
+/* @teleloc 0xC6A90009 [46.805000 4.219000 42.005001] 1.000000 0.000000 0.000000 0.000000 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342180799,  26, 1342797755) /* Monarch */

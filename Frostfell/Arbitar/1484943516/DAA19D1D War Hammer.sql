@@ -29,8 +29,8 @@ VALUES (3668024605,   1,          1) /* ItemType - MeleeWeapon */
      , (3668024605, 159,         45) /* WieldSkillType - LightWeapons */
      , (3668024605, 160,        300) /* WieldDifficulty */
      , (3668024605, 171,          1) /* NumTimesTinkered */
-     , (3668024605, 172,          3) /* AppraisalLongDescDecoration */
-     , (3668024605, 176,         45) /* AppraisalItemSkill */
+     , (3668024605, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (3668024605, 176,         45) /* AppraisalItemSkill - LightWeapons */
      , (3668024605, 179,         32) /* ImbuedEffect - BludgeonRending */
      , (3668024605, 353,          3) /* WeaponType - Axe */
      , (3668024605, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */

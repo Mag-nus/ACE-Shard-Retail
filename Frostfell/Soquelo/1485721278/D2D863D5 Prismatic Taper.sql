@@ -3,11 +3,11 @@ VALUES (3537396693, 20631, 32, 6340929) /* SpellComponent */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (3537396693,   1,       4096) /* ItemType - SpellComponents */
-     , (3537396693,   5,       3096) /* EncumbranceVal */
+     , (3537396693,   5,       3090) /* EncumbranceVal */
      , (3537396693,  11,       1000) /* MaxStackSize */
-     , (3537396693,  12,        516) /* StackSize */
+     , (3537396693,  12,        515) /* StackSize */
      , (3537396693,  16,          1) /* ItemUseable - No */
-     , (3537396693,  19,      11352) /* Value */
+     , (3537396693,  19,      11330) /* Value */
      , (3537396693,  65,        101) /* Placement - Resting */
      , (3537396693,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3537396693, 9015,          0) /* InventoryOrder */;

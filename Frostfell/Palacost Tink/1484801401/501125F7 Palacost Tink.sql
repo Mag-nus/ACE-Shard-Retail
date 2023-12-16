@@ -30,7 +30,7 @@ VALUES (1343301111,   1,         16) /* ItemType - Creature */
      , (1343301111, 229,          1) /* AugmentationExtraPackSlot */
      , (1343301111, 231,          2) /* AugmentationLessDeathItemLoss */
      , (1343301111, 236,          1) /* AugmentationBonusImbueChance */
-     , (1343301111, 261,          1) /* CharacterTitleId */
+     , (1343301111, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343301111, 295,          1) /* AugmentationInfusedItemMagic */
      , (1343301111, 298,          1) /* AugmentationCriticalExpertise */
      , (1343301111, 307,          0) /* DamageRating */

@@ -24,7 +24,7 @@ VALUES (2620961555,   1,          2) /* ItemType - Armor */
      , (2620961555, 158,          7) /* WieldRequirements - Level */
      , (2620961555, 159,          1) /* WieldSkillType - Axe */
      , (2620961555, 160,        180) /* WieldDifficulty */
-     , (2620961555, 172,          1) /* AppraisalLongDescDecoration */
+     , (2620961555, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (2620961555, 188,          2) /* HeritageGroup - Gharundim */
      , (2620961555, 265,         21) /* EquipmentSetId - Wise */;
 

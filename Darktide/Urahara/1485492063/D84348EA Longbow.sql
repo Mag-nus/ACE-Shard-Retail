@@ -12,13 +12,13 @@ VALUES (3628288234,   1,        256) /* ItemType - MissileWeapon */
      , (3628288234,  48,         47) /* WeaponSkill - MissileWeapons */
      , (3628288234,  49,         42) /* WeaponTime */
      , (3628288234,  50,          1) /* AmmoType - Arrow */
-     , (3628288234,  51,          2) /* CombatUse - Missle */
+     , (3628288234,  51,          2) /* CombatUse - Missile */
      , (3628288234,  65,        101) /* Placement - Resting */
      , (3628288234,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3628288234, 105,          5) /* ItemWorkmanship */
      , (3628288234, 131,         61) /* MaterialType - Iron */
      , (3628288234, 151,          2) /* HookType - Wall */
-     , (3628288234, 172,          3) /* AppraisalLongDescDecoration */
+     , (3628288234, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (3628288234, 353,          8) /* WeaponType - Bow */
      , (3628288234, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (3628288234, 9015,          8) /* InventoryOrder */;

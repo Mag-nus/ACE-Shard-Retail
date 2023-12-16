@@ -24,7 +24,7 @@ VALUES (1343092190,   1,         16) /* ItemType - Creature */
      , (1343092190, 139,         23) /* DeathLevel */
      , (1343092190, 188,          4) /* HeritageGroup - Viamontian */
      , (1343092190, 199, 1427994583) /* HousePurchaseTimestamp */
-     , (1343092190, 261,         31) /* CharacterTitleId */
+     , (1343092190, 261,         31) /* CharacterTitleId - BunnyMaster */
      , (1343092190, 302,          1) /* AugmentationSkilledMagic */
      , (1343092190, 307,          0) /* DamageRating */
      , (1343092190, 308,          0) /* DamageResistRating */

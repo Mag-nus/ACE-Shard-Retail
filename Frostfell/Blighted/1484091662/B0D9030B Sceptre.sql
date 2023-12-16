@@ -13,7 +13,7 @@ VALUES (2967012107,   1,      32768) /* ItemType - Caster */
      , (2967012107, 105,          6) /* ItemWorkmanship */
      , (2967012107, 131,         35) /* MaterialType - RedGarnet */
      , (2967012107, 151,          2) /* HookType - Wall */
-     , (2967012107, 172,          5) /* AppraisalLongDescDecoration */
+     , (2967012107, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2967012107, 177,          2) /* GemCount */
      , (2967012107, 178,         40) /* GemType */
      , (2967012107, 9015,         19) /* InventoryOrder */;

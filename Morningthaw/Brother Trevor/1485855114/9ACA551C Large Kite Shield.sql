@@ -21,8 +21,8 @@ VALUES (2596951324,   1,          2) /* ItemType - Armor */
      , (2596951324, 115,        259) /* ItemSkillLevelLimit */
      , (2596951324, 131,         59) /* MaterialType - Copper */
      , (2596951324, 151,          2) /* HookType - Wall */
-     , (2596951324, 172,          7) /* AppraisalLongDescDecoration */
-     , (2596951324, 176,          6) /* AppraisalItemSkill */
+     , (2596951324, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (2596951324, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (2596951324, 177,          1) /* GemCount */
      , (2596951324, 178,         35) /* GemType */
      , (2596951324, 188,          1) /* HeritageGroup - Aluvian */

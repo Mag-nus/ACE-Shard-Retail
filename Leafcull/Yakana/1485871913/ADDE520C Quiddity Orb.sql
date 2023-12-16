@@ -19,7 +19,7 @@ VALUES (2917028364,   1,      32768) /* ItemType - Caster */
      , (2917028364, 114,          1) /* Attuned - Attuned */
      , (2917028364, 115,        200) /* ItemSkillLevelLimit */
      , (2917028364, 151,          2) /* HookType - Wall */
-     , (2917028364, 176,         16) /* AppraisalItemSkill */;
+     , (2917028364, 176,         16) /* AppraisalItemSkill - ManaConversion */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (2917028364,   1, False) /* Stuck */
@@ -36,7 +36,7 @@ INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2917028364,   5,   -0.05) /* ManaRate */
      , (2917028364,  29,       1) /* WeaponDefense */
      , (2917028364,  76,     0.5) /* Translucency */
-     , (2917028364, 144, 1.44120350259689E-314) /* ManaConversionMod */;
+     , (2917028364, 144, 1.4412035026E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2917028364,   1, 'Quiddity Orb') /* Name */
@@ -56,8 +56,8 @@ VALUES (2917028364,   1,   33557050) /* Setup */
      , (2917028364, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (2917028364, 8040, 2513829916, 76.0356, 84.78518, 99.92901, -0.6539454, -0.6539454, -0.2689896, -0.2689896) /* PCAPRecordedLocation */
-/* @teleloc 0x95D6001C [76.035600 84.785180 99.929010] -0.653945 -0.653945 -0.268990 -0.268990 */;
+VALUES (2917028364, 8040, 2513829916, 76.0356, 84.78518, 99.92901, -0.65394545, -0.65394545, -0.26898956, -0.26898956) /* PCAPRecordedLocation */
+/* @teleloc 0x95D6001C [76.035599 84.785179 99.929008] -0.653945 -0.653945 -0.268990 -0.268990 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2917028364,   3, 1342644320) /* Wielder */

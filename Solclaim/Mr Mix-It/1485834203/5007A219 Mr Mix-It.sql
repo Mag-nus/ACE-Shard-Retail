@@ -24,7 +24,7 @@ VALUES (1342677529,   1,         16) /* ItemType - Creature */
      , (1342677529, 139,         47) /* DeathLevel */
      , (1342677529, 188,          3) /* HeritageGroup - Sho */
      , (1342677529, 199,          0) /* HousePurchaseTimestamp */
-     , (1342677529, 261,         76) /* CharacterTitleId */
+     , (1342677529, 261,         76) /* CharacterTitleId - IronChef */
      , (1342677529, 307,          0) /* DamageRating */
      , (1342677529, 308,          0) /* DamageResistRating */
      , (1342677529, 312,          0) /* HealOverTime */

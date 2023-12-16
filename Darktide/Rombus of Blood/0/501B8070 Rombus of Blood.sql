@@ -13,7 +13,7 @@ VALUES (1343979632,   1,         16) /* ItemType - Creature */
      , (1343979632, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343979632, 134,          4) /* PlayerKillerStatus - PK */
      , (1343979632, 188,          9) /* HeritageGroup - Empyrean */
-     , (1343979632, 261,        795) /* CharacterTitleId */
+     , (1343979632, 261,        795) /* CharacterTitleId - MenderoftheRift */
      , (1343979632, 390,          0) /* Enlightenment */
      , (1343979632, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
@@ -26,7 +26,7 @@ VALUES (1343979632,   1, True ) /* Stuck */
      , (1343979632,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343979632,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1343979632,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343979632,   1, 'Rombus of Blood') /* Name */
@@ -54,9 +54,9 @@ VALUES (1343979632,   1,   33561110) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343979632, 1, 2483028783, 102.016, -50, 6.01, 0.707107, 0, 0, -0.707107) /* Location */
-/* @teleloc 0x9400032F [102.016000 -50.000000 6.010000] 0.707107 0.000000 0.000000 -0.707107 */
-     , (1343979632, 8040, 2847146001, 57.80804, 10.38002, 89.04567, 0.08622243, 0, 0, -0.9962759) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B40011 [57.808040 10.380020 89.045670] 0.086222 0.000000 0.000000 -0.996276 */;
+/* @teleloc 0x9400032F [102.015999 -50.000000 6.010000] 0.707107 0.000000 0.000000 -0.707107 */
+     , (1343979632, 8040, 2847146001, 57.808037, 10.380016, 89.04567, 0.08622243, 0, 0, -0.9962759) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B40011 [57.808037 10.380016 89.045670] 0.086222 0.000000 0.000000 -0.996276 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343979632,  26, 1343793956) /* Monarch */

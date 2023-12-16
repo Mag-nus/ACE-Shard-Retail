@@ -24,7 +24,7 @@ VALUES (1343153514,   1,         16) /* ItemType - Creature */
      , (1343153514, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343153514, 139,        214) /* DeathLevel */
      , (1343153514, 188,          3) /* HeritageGroup - Sho */
-     , (1343153514, 261,        517) /* CharacterTitleId */
+     , (1343153514, 261,        517) /* CharacterTitleId - ParadoxtouchedQueenslayer */
      , (1343153514, 307,          0) /* DamageRating */
      , (1343153514, 308,          0) /* DamageResistRating */
      , (1343153514, 312,          0) /* HealOverTime */

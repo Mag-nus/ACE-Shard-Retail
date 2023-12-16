@@ -8,7 +8,7 @@ VALUES (3351894947,   1,        256) /* ItemType - MissileWeapon */
      , (3351894947,  16,          1) /* ItemUseable - No */
      , (3351894947,  18,          1) /* UiEffects - Magical */
      , (3351894947,  19,      20866) /* Value */
-     , (3351894947,  51,          2) /* CombatUse - Missle */
+     , (3351894947,  51,          2) /* CombatUse - Missile */
      , (3351894947,  65,        101) /* Placement - Resting */
      , (3351894947,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (3351894947, 131,         13) /* MaterialType - Aquamarine */

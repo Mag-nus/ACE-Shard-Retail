@@ -20,7 +20,7 @@ VALUES (2192279553,   1,      32768) /* ItemType - Caster */
      , (2192279553, 115,          0) /* ItemSkillLevelLimit */
      , (2192279553, 131,         10) /* MaterialType - Agate */
      , (2192279553, 151,          2) /* HookType - Wall */
-     , (2192279553, 172,          7) /* AppraisalLongDescDecoration */
+     , (2192279553, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2192279553, 177,          4) /* GemCount */
      , (2192279553, 178,         18) /* GemType */
      , (2192279553, 9015,         14) /* InventoryOrder */;

@@ -21,8 +21,8 @@ VALUES (2442569420,   1,          2) /* ItemType - Armor */
      , (2442569420, 110,          0) /* ItemAllegianceRankLimit */
      , (2442569420, 115,        248) /* ItemSkillLevelLimit */
      , (2442569420, 131,         61) /* MaterialType - Iron */
-     , (2442569420, 172,          3) /* AppraisalLongDescDecoration */
-     , (2442569420, 176,          6) /* AppraisalItemSkill */
+     , (2442569420, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (2442569420, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (2442569420, 188,          3) /* HeritageGroup - Sho */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

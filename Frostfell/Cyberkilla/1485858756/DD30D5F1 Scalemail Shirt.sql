@@ -23,7 +23,7 @@ VALUES (3710965233,   1,          2) /* ItemType - Armor */
      , (3710965233, 158,          7) /* WieldRequirements - Level */
      , (3710965233, 159,          1) /* WieldSkillType - Axe */
      , (3710965233, 160,        180) /* WieldDifficulty */
-     , (3710965233, 172,          5) /* AppraisalLongDescDecoration */
+     , (3710965233, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (3710965233, 177,          4) /* GemCount */
      , (3710965233, 178,         33) /* GemType */
      , (3710965233, 265,         26) /* EquipmentSetId - Flameproof */

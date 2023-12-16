@@ -22,8 +22,8 @@ VALUES (3227231601,   1,          2) /* ItemType - Armor */
      , (3227231601, 158,          7) /* WieldRequirements - Level */
      , (3227231601, 159,          1) /* WieldSkillType - Axe */
      , (3227231601, 160,        180) /* WieldDifficulty */
-     , (3227231601, 172,          1) /* AppraisalLongDescDecoration */
-     , (3227231601, 176,          7) /* AppraisalItemSkill */
+     , (3227231601, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (3227231601, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (3227231601, 265,         28) /* EquipmentSetId - Coldproof */
      , (3227231601, 375,          1) /* GearCritDamageResist */
      , (3227231601, 9015,          1) /* InventoryOrder */;

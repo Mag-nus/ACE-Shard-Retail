@@ -19,7 +19,7 @@ VALUES (1343168606,   1, True ) /* Stuck */
      , (1343168606,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343168606,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1343168606,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343168606,   1, 'San''s-Lugi') /* Name */;
@@ -36,10 +36,10 @@ VALUES (1343168606,   1,   33561106) /* Setup */
      , (1343168606, 8005,     104643) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343168606, 1, 3332964379, 93.19418, 69.41285, 42.006, -0.8899727, 0, 0, -0.4560137) /* Location */
-/* @teleloc 0xC6A9001B [93.194180 69.412850 42.006000] -0.889973 0.000000 0.000000 -0.456014 */
-     , (1343168606, 8040, 3332964379, 92.72189, 70.72327, 42.006, -0.526408, 0, 0, -0.8502321) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001B [92.721890 70.723270 42.006000] -0.526408 0.000000 0.000000 -0.850232 */;
+VALUES (1343168606, 1, 3332964379, 93.19418, 69.41285, 42.006, -0.88997275, 0, 0, -0.45601368) /* Location */
+/* @teleloc 0xC6A9001B [93.194183 69.412849 42.006001] -0.889973 0.000000 0.000000 -0.456014 */
+     , (1343168606, 8040, 3332964379, 92.721886, 70.72327, 42.006, -0.526408, 0, -0, -0.85023206) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A9001B [92.721886 70.723267 42.006001] -0.526408 0.000000 -0.000000 -0.850232 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343168606,  26, 1342194852) /* Monarch */

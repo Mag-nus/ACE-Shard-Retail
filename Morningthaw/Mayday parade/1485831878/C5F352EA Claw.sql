@@ -19,7 +19,7 @@ VALUES (3321058026,   1,          1) /* ItemType - MeleeWeapon */
      , (3321058026, 131,         57) /* MaterialType - Brass */
      , (3321058026, 151,          2) /* HookType - Wall */
      , (3321058026, 171,         10) /* NumTimesTinkered */
-     , (3321058026, 172,          3) /* AppraisalLongDescDecoration */
+     , (3321058026, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (3321058026, 179,          4) /* ImbuedEffect - ArmorRending */
      , (3321058026, 353,          1) /* WeaponType - Unarmed */
      , (3321058026, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */;

@@ -15,7 +15,7 @@ VALUES (3231346707,   1,      32768) /* ItemType - Caster */
      , (3231346707, 131,         48) /* MaterialType - YellowGarnet */
      , (3231346707, 151,          2) /* HookType - Wall */
      , (3231346707, 171,         10) /* NumTimesTinkered */
-     , (3231346707, 172,          7) /* AppraisalLongDescDecoration */
+     , (3231346707, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3231346707, 177,          3) /* GemCount */
      , (3231346707, 178,         26) /* GemType */;
 

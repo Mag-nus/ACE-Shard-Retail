@@ -19,7 +19,7 @@ VALUES (2877253942,   1,          1) /* ItemType - MeleeWeapon */
      , (2877253942, 105,          4) /* ItemWorkmanship */
      , (2877253942, 131,         16) /* MaterialType - BlackOpal */
      , (2877253942, 151,          2) /* HookType - Wall */
-     , (2877253942, 172,          7) /* AppraisalLongDescDecoration */
+     , (2877253942, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2877253942, 177,          2) /* GemCount */
      , (2877253942, 178,         47) /* GemType */
      , (2877253942, 353,          2) /* WeaponType - Sword */

@@ -19,7 +19,7 @@ VALUES (1343024219,   1, True ) /* Stuck */
      , (1343024219,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343024219,  39, 1.29999995231628) /* DefaultScale */;
+VALUES (1343024219,  39, 1.2999999523162842) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343024219,   1, 'Kaimerik') /* Name */;
@@ -37,9 +37,9 @@ VALUES (1343024219,   1,   33561112) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343024219, 1, 3599958021, 18.435, 113.644, -0.09350002, 1, 0, 0, 0) /* Location */
-/* @teleloc 0xD6930005 [18.435000 113.644000 -0.093500] 1.000000 0.000000 0.000000 0.000000 */
-     , (1343024219, 8040, 3465805877, 151.053, 112.61, 17.41875, -0.9365774, 0, 0, -0.3504609) /* PCAPRecordedLocation */
-/* @teleloc 0xCE940035 [151.053000 112.610000 17.418750] -0.936577 0.000000 0.000000 -0.350461 */;
+/* @teleloc 0xD6930005 [18.434999 113.643997 -0.093500] 1.000000 0.000000 0.000000 0.000000 */
+     , (1343024219, 8040, 3465805877, 151.053, 112.61, 17.41875, -0.9365774, 0, -0, -0.35046086) /* PCAPRecordedLocation */
+/* @teleloc 0xCE940035 [151.052994 112.610001 17.418751] -0.936577 0.000000 -0.000000 -0.350461 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343024219,  26, 1343014883) /* Monarch */

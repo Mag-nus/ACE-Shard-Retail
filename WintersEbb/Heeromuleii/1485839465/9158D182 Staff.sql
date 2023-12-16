@@ -20,7 +20,7 @@ VALUES (2438517122,   1,      32768) /* ItemType - Caster */
      , (2438517122, 115,          0) /* ItemSkillLevelLimit */
      , (2438517122, 131,         51) /* MaterialType - Ivory */
      , (2438517122, 151,          2) /* HookType - Wall */
-     , (2438517122, 172,          7) /* AppraisalLongDescDecoration */
+     , (2438517122, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2438517122, 177,          5) /* GemCount */
      , (2438517122, 178,         13) /* GemType */
      , (2438517122, 188,          2) /* HeritageGroup - Gharundim */

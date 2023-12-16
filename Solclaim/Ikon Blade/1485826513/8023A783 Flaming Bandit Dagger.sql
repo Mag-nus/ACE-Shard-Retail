@@ -21,7 +21,7 @@ VALUES (2149820291,   1,          1) /* ItemType - MeleeWeapon */
      , (2149820291, 114,          0) /* Attuned - Normal */
      , (2149820291, 131,         58) /* MaterialType - Bronze */
      , (2149820291, 151,          2) /* HookType - Wall */
-     , (2149820291, 172,          7) /* AppraisalLongDescDecoration */
+     , (2149820291, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2149820291, 177,          1) /* GemCount */
      , (2149820291, 178,         12) /* GemType */
      , (2149820291, 353,          6) /* WeaponType - Dagger */

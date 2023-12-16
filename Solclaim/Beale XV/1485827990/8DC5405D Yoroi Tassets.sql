@@ -25,8 +25,8 @@ VALUES (2378514525,   1,          2) /* ItemType - Armor */
      , (2378514525, 159,          1) /* WieldSkillType - Axe */
      , (2378514525, 160,        180) /* WieldDifficulty */
      , (2378514525, 171,         10) /* NumTimesTinkered */
-     , (2378514525, 172,          1) /* AppraisalLongDescDecoration */
-     , (2378514525, 176,          6) /* AppraisalItemSkill */
+     , (2378514525, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (2378514525, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (2378514525, 265,         16) /* EquipmentSetId - Defenders */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

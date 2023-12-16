@@ -14,8 +14,8 @@ VALUES (1344028993,   1,         16) /* ItemType - Creature */
      , (1344028993, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1344028993, 134,          4) /* PlayerKillerStatus - PK */
      , (1344028993, 188,          4) /* HeritageGroup - Viamontian */
-     , (1344028993, 261,        569) /* CharacterTitleId */
-     , (1344028993, 281,          1) /* Faction1Bits */
+     , (1344028993, 261,        569) /* CharacterTitleId - DireHuntsman */
+     , (1344028993, 281,          1) /* Faction1Bits - CelestialHand */
      , (1344028993, 287,          1) /* SocietyRankCelhan */
      , (1344028993, 307,          4) /* DamageRating */
      , (1344028993, 390,          0) /* Enlightenment */
@@ -54,9 +54,9 @@ VALUES (1344028993,   1,   33554433) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1344028993, 1, 459045, 54.50686, -70.32121, 0.004999995, 0.8067125, 0, 0, 0.5909441) /* Location */
-/* @teleloc 0x00070125 [54.506860 -70.321210 0.005000] 0.806713 0.000000 0.000000 0.590944 */
-     , (1344028993, 8040, 459077, 70, -78.66666, 0.004999995, 1, 0, 0, 0) /* PCAPRecordedLocation */
-/* @teleloc 0x00070145 [70.000000 -78.666660 0.005000] 1.000000 0.000000 0.000000 0.000000 */;
+/* @teleloc 0x00070125 [54.506859 -70.321213 0.005000] 0.806713 0.000000 0.000000 0.590944 */
+     , (1344028993, 8040, 459077, 70, -78.666664, 0.004999995, 1, 0, 0, 0) /* PCAPRecordedLocation */
+/* @teleloc 0x00070145 [70.000000 -78.666664 0.005000] 1.000000 0.000000 0.000000 0.000000 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1344028993,  26, 1344032635) /* Monarch */

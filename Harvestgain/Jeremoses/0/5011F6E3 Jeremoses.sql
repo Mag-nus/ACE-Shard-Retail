@@ -19,7 +19,7 @@ VALUES (1343354595,   1, True ) /* Stuck */
      , (1343354595,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343354595,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1343354595,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343354595,   1, 'Jeremoses') /* Name */;
@@ -36,8 +36,8 @@ VALUES (1343354595,   1,   33561110) /* Setup */
      , (1343354595, 8005,     104643) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343354595, 8040, 2847146017, 117.4897, 18.4637, 94.006, -0.7186103, 0, 0, -0.695413) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B40021 [117.489700 18.463700 94.006000] -0.718610 0.000000 0.000000 -0.695413 */;
+VALUES (1343354595, 8040, 2847146017, 117.48969, 18.463703, 94.006004, -0.7186103, 0, -0, -0.695413) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B40021 [117.489693 18.463703 94.006004] -0.718610 0.000000 -0.000000 -0.695413 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343354595,  26, 1342386738) /* Monarch */

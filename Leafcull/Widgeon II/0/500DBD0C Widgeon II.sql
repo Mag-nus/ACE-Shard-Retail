@@ -15,7 +15,7 @@ VALUES (1343077644,   1,         16) /* ItemType - Creature */
      , (1343077644, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343077644, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343077644, 188,          2) /* HeritageGroup - Gharundim */
-     , (1343077644, 261,        599) /* CharacterTitleId */
+     , (1343077644, 261,        599) /* CharacterTitleId - UlgrimsHappyHundredth */
      , (1343077644, 262,         81) /* NumCharacterTitles */
      , (1343077644, 390,          0) /* Enlightenment */
      , (1343077644, 8007,          0) /* PCAPRecordedAutonomousMovement */;
@@ -53,8 +53,8 @@ VALUES (1343077644,   1,   33554433) /* Setup */
      , (1343077644, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343077644, 1, 1925775395, 111.2026, 48.10528, 78.005, 0.9972025, 0, 0, 0.07474732) /* Location */
-/* @teleloc 0x72C90023 [111.202600 48.105280 78.005000] 0.997203 0.000000 0.000000 0.074747 */
+VALUES (1343077644, 1, 1925775395, 111.20261, 48.105278, 78.005005, 0.9972025, 0, 0, 0.07474732) /* Location */
+/* @teleloc 0x72C90023 [111.202606 48.105278 78.005005] 0.997203 0.000000 0.000000 0.074747 */
      , (1343077644, 8040, 459077, 70, -80, 0.004999995, 1, 0, 0, 0) /* PCAPRecordedLocation */
 /* @teleloc 0x00070145 [70.000000 -80.000000 0.005000] 1.000000 0.000000 0.000000 0.000000 */;
 

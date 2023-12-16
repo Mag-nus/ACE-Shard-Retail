@@ -15,7 +15,7 @@ VALUES (1343402554,   1,         16) /* ItemType - Creature */
      , (1343402554, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343402554, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343402554, 188,          1) /* HeritageGroup - Aluvian */
-     , (1343402554, 261,          1) /* CharacterTitleId */
+     , (1343402554, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343402554, 390,          0) /* Enlightenment */
      , (1343402554, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
@@ -28,8 +28,8 @@ VALUES (1343402554,   1, True ) /* Stuck */
      , (1343402554,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343402554, 8010, 4.34369134902954) /* PCAPRecordedVelocityX */
-     , (1343402554, 8011, -11.5704746246338) /* PCAPRecordedVelocityY */
+VALUES (1343402554, 8010, 4.343691349029541) /* PCAPRecordedVelocityX */
+     , (1343402554, 8011, -11.570474624633789) /* PCAPRecordedVelocityY */
      , (1343402554, 8012, -8.43226146697998) /* PCAPRecordedVelocityZ */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
@@ -57,8 +57,8 @@ VALUES (1343402554,   1,   33554433) /* Setup */
      , (1343402554, 8005,     104519) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Velocity, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343402554, 1, 3332898832, 41.52889, 191.8339, 42.005, -0.09244656, 0, 0, -0.9957176) /* Location */
-/* @teleloc 0xC6A80010 [41.528890 191.833900 42.005000] -0.092447 0.000000 0.000000 -0.995718 */
+VALUES (1343402554, 1, 3332898832, 41.528893, 191.83388, 42.005, -0.09244656, 0, 0, -0.99571764) /* Location */
+/* @teleloc 0xC6A80010 [41.528893 191.833878 42.005001] -0.092447 0.000000 0.000000 -0.995718 */
      , (1343402554, 8040, 459077, 70, -80, 0.004999995, 1, 0, 0, 0) /* PCAPRecordedLocation */
 /* @teleloc 0x00070145 [70.000000 -80.000000 0.005000] 1.000000 0.000000 0.000000 0.000000 */;
 

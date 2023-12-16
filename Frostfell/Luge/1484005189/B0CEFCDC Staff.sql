@@ -15,7 +15,7 @@ VALUES (2966355164,   1,      32768) /* ItemType - Caster */
      , (2966355164, 131,         33) /* MaterialType - Opal */
      , (2966355164, 151,          2) /* HookType - Wall */
      , (2966355164, 171,          8) /* NumTimesTinkered */
-     , (2966355164, 172,          7) /* AppraisalLongDescDecoration */
+     , (2966355164, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2966355164, 177,          3) /* GemCount */
      , (2966355164, 178,         39) /* GemType */;
 

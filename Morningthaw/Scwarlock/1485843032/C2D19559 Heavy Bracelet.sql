@@ -19,7 +19,7 @@ VALUES (3268515161,   1,          8) /* ItemType - Jewelry */
      , (3268515161, 110,          0) /* ItemAllegianceRankLimit */
      , (3268515161, 115,          0) /* ItemSkillLevelLimit */
      , (3268515161, 131,         62) /* MaterialType - Pyreal */
-     , (3268515161, 172,          5) /* AppraisalLongDescDecoration */
+     , (3268515161, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (3268515161, 177,          1) /* GemCount */
      , (3268515161, 178,         38) /* GemType */;
 

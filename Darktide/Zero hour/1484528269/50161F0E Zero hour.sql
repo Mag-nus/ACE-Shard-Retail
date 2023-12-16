@@ -19,7 +19,7 @@ VALUES (1343627022,   1,         16) /* ItemType - Creature */
      , (1343627022, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343627022, 134,          4) /* PlayerKillerStatus - PK */
      , (1343627022, 188,          1) /* HeritageGroup - Aluvian */
-     , (1343627022, 261,          1) /* CharacterTitleId */
+     , (1343627022, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343627022, 307,          0) /* DamageRating */
      , (1343627022, 308,          0) /* DamageResistRating */
      , (1343627022, 312,          0) /* HealOverTime */

@@ -23,8 +23,8 @@ VALUES (2147529151,   1,      32768) /* ItemType - Caster */
      , (2147529151, 159,          1) /* WieldSkillType - Axe */
      , (2147529151, 160,        130) /* WieldDifficulty */
      , (2147529151, 166,          8) /* SlayerCreatureType - Tusker */
-     , (2147529151, 176,         16) /* AppraisalItemSkill */
-     , (2147529151, 265,        139) /* EquipmentSetId - UNKNOWN_139 */
+     , (2147529151, 176,         16) /* AppraisalItemSkill - ManaConversion */
+     , (2147529151, 265,        139) /* EquipmentSetId - ParagonCaster */
      , (2147529151, 319,          1) /* ItemMaxLevel */
      , (2147529151, 320,          1) /* ItemXpStyle - Fixed */
      , (2147529151, 9015,          0) /* InventoryOrder */;

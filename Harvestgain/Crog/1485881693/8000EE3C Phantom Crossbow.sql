@@ -14,7 +14,7 @@ VALUES (2147544636,   1,        256) /* ItemType - MissileWeapon */
      , (2147544636,  48,         47) /* WeaponSkill - MissileWeapons */
      , (2147544636,  49,         60) /* WeaponTime */
      , (2147544636,  50,        128) /* AmmoType - BoltChorizite */
-     , (2147544636,  51,          2) /* CombatUse - Missle */
+     , (2147544636,  51,          2) /* CombatUse - Missile */
      , (2147544636,  65,        101) /* Placement - Resting */
      , (2147544636,  93,       3092) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, LightingOn */
      , (2147544636, 114,          0) /* Attuned - Normal */

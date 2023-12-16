@@ -9,7 +9,7 @@ VALUES (2807507469,   1,        256) /* ItemType - MissileWeapon */
      , (2807507469,  18,         16) /* UiEffects - BoostStamina */
      , (2807507469,  19,       6500) /* Value */
      , (2807507469,  50,          4) /* AmmoType - Atlatl */
-     , (2807507469,  51,          2) /* CombatUse - Missle */
+     , (2807507469,  51,          2) /* CombatUse - Missile */
      , (2807507469,  65,        101) /* Placement - Resting */
      , (2807507469,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2807507469, 151,          2) /* HookType - Wall */

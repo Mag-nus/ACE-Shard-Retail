@@ -23,8 +23,8 @@ VALUES (3710971371,   1,          2) /* ItemType - Armor */
      , (3710971371, 158,          7) /* WieldRequirements - Level */
      , (3710971371, 159,          1) /* WieldSkillType - Axe */
      , (3710971371, 160,        180) /* WieldDifficulty */
-     , (3710971371, 172,          5) /* AppraisalLongDescDecoration */
-     , (3710971371, 176,          7) /* AppraisalItemSkill */
+     , (3710971371, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
+     , (3710971371, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (3710971371, 177,          2) /* GemCount */
      , (3710971371, 178,         49) /* GemType */
      , (3710971371, 265,         26) /* EquipmentSetId - Flameproof */

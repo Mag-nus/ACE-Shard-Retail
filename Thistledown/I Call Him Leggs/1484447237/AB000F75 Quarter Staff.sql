@@ -21,7 +21,7 @@ VALUES (2868907893,   1,          1) /* ItemType - MeleeWeapon */
      , (2868907893, 158,          2) /* WieldRequirements - RawSkill */
      , (2868907893, 159,         45) /* WieldSkillType - LightWeapons */
      , (2868907893, 160,        400) /* WieldDifficulty */
-     , (2868907893, 172,          7) /* AppraisalLongDescDecoration */
+     , (2868907893, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2868907893, 177,          4) /* GemCount */
      , (2868907893, 178,         21) /* GemType */
      , (2868907893, 353,          7) /* WeaponType - Staff */

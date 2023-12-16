@@ -25,7 +25,7 @@ VALUES (2765481249,   1,          1) /* ItemType - MeleeWeapon */
      , (2765481249, 115,        185) /* ItemSkillLevelLimit */
      , (2765481249, 131,         51) /* MaterialType - Ivory */
      , (2765481249, 151,          2) /* HookType - Wall */
-     , (2765481249, 176,         45) /* AppraisalItemSkill */
+     , (2765481249, 176,         45) /* AppraisalItemSkill - LightWeapons */
      , (2765481249, 353,          4) /* WeaponType - Mace */
      , (2765481249, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (2765481249, 9015,          3) /* InventoryOrder */;

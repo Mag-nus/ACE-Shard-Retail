@@ -21,7 +21,7 @@ VALUES (2879209413,   1,          2) /* ItemType - Armor */
      , (2879209413, 110,          0) /* ItemAllegianceRankLimit */
      , (2879209413, 115,          0) /* ItemSkillLevelLimit */
      , (2879209413, 131,         59) /* MaterialType - Copper */
-     , (2879209413, 172,          7) /* AppraisalLongDescDecoration */
+     , (2879209413, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2879209413, 177,          4) /* GemCount */
      , (2879209413, 178,         38) /* GemType */
      , (2879209413, 188,          1) /* HeritageGroup - Aluvian */;

@@ -9,7 +9,7 @@ VALUES (2288285240,   1,        256) /* ItemType - MissileWeapon */
      , (2288285240,  12,          7) /* StackSize */
      , (2288285240,  16,          1) /* ItemUseable - No */
      , (2288285240,  19,      35000) /* Value */
-     , (2288285240,  51,          2) /* CombatUse - Missle */
+     , (2288285240,  51,          2) /* CombatUse - Missile */
      , (2288285240,  65,        101) /* Placement - Resting */
      , (2288285240,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (2288285240, 9015,          5) /* InventoryOrder */;

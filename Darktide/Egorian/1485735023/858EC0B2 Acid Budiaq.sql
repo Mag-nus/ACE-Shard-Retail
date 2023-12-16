@@ -25,8 +25,8 @@ VALUES (2240725170,   1,          1) /* ItemType - MeleeWeapon */
      , (2240725170, 115,        127) /* ItemSkillLevelLimit */
      , (2240725170, 131,         63) /* MaterialType - Silver */
      , (2240725170, 151,          2) /* HookType - Wall */
-     , (2240725170, 172,          3) /* AppraisalLongDescDecoration */
-     , (2240725170, 176,         45) /* AppraisalItemSkill */
+     , (2240725170, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (2240725170, 176,         45) /* AppraisalItemSkill - LightWeapons */
      , (2240725170, 353,          5) /* WeaponType - Spear */
      , (2240725170, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (2240725170, 9015,          0) /* InventoryOrder */;

@@ -24,7 +24,7 @@ VALUES (3706533703,   1,      32768) /* ItemType - Caster */
      , (3706533703, 158,          8) /* WieldRequirements - Training */
      , (3706533703, 159,         34) /* WieldSkillType - WarMagic */
      , (3706533703, 160,          2) /* WieldDifficulty */
-     , (3706533703, 263,         16) /* ResistanceModifierType */;
+     , (3706533703, 263,         16) /* ResistanceModifierType - Fire */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (3706533703,   1, False) /* Stuck */

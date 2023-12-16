@@ -9,7 +9,7 @@ VALUES (2153707774,   1,        256) /* ItemType - MissileWeapon */
      , (2153707774,  18,        512) /* UiEffects - Bludgeoning */
      , (2153707774,  19,       6612) /* Value */
      , (2153707774,  50,          4) /* AmmoType - Atlatl */
-     , (2153707774,  51,          2) /* CombatUse - Missle */
+     , (2153707774,  51,          2) /* CombatUse - Missile */
      , (2153707774,  65,        101) /* Placement - Resting */
      , (2153707774,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2153707774, 131,         58) /* MaterialType - Bronze */

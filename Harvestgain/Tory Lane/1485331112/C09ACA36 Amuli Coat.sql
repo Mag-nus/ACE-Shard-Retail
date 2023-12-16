@@ -15,7 +15,7 @@ VALUES (3231369782,   1,          2) /* ItemType - Armor */
      , (3231369782, 105,          6) /* ItemWorkmanship */
      , (3231369782, 131,         60) /* MaterialType - Gold */
      , (3231369782, 171,         10) /* NumTimesTinkered */
-     , (3231369782, 172,          7) /* AppraisalLongDescDecoration */
+     , (3231369782, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3231369782, 177,          1) /* GemCount */
      , (3231369782, 178,         25) /* GemType */
      , (3231369782, 179,       1024) /* ImbuedEffect - MeleeDefense */;

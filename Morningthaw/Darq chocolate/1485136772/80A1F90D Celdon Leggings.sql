@@ -20,8 +20,8 @@ VALUES (2158098701,   1,          2) /* ItemType - Armor */
      , (2158098701, 110,          0) /* ItemAllegianceRankLimit */
      , (2158098701, 115,        156) /* ItemSkillLevelLimit */
      , (2158098701, 131,         57) /* MaterialType - Brass */
-     , (2158098701, 172,          3) /* AppraisalLongDescDecoration */
-     , (2158098701, 176,          7) /* AppraisalItemSkill */
+     , (2158098701, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (2158098701, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (2158098701, 9015,          4) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

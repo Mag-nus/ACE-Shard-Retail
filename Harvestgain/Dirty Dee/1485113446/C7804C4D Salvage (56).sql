@@ -29,8 +29,8 @@ VALUES (3347074125,   1, 1073741824) /* ItemType - TinkeringMaterial */
      , (3347074125, 158,          2) /* WieldRequirements - RawSkill */
      , (3347074125, 159,         47) /* WieldSkillType - MissileWeapons */
      , (3347074125, 160,        360) /* WieldDifficulty */
-     , (3347074125, 172,          5) /* AppraisalLongDescDecoration */
-     , (3347074125, 176,         47) /* AppraisalItemSkill */
+     , (3347074125, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
+     , (3347074125, 176,         47) /* AppraisalItemSkill - MissileWeapons */
      , (3347074125, 177,          4) /* GemCount */
      , (3347074125, 178,         13) /* GemType */
      , (3347074125, 204,         14) /* ElementalDamageBonus */

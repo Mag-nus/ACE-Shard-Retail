@@ -25,7 +25,7 @@ VALUES (2166235523,   1,          1) /* ItemType - MeleeWeapon */
      , (2166235523, 115,        212) /* ItemSkillLevelLimit */
      , (2166235523, 131,         60) /* MaterialType - Gold */
      , (2166235523, 151,          2) /* HookType - Wall */
-     , (2166235523, 176,         44) /* AppraisalItemSkill */
+     , (2166235523, 176,         44) /* AppraisalItemSkill - HeavyWeapons */
      , (2166235523, 353,          2) /* WeaponType - Sword */
      , (2166235523, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (2166235523, 9015,         10) /* InventoryOrder */;

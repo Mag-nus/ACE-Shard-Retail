@@ -15,8 +15,8 @@ VALUES (1342752987,   1,         16) /* ItemType - Creature */
      , (1342752987, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342752987, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342752987, 188,          2) /* HeritageGroup - Gharundim */
-     , (1342752987, 261,         17) /* CharacterTitleId */
-     , (1342752987, 281,          1) /* Faction1Bits */
+     , (1342752987, 261,         17) /* CharacterTitleId - Annihilator */
+     , (1342752987, 281,          1) /* Faction1Bits - CelestialHand */
      , (1342752987, 287,       1001) /* SocietyRankCelhan */
      , (1342752987, 307,         16) /* DamageRating */
      , (1342752987, 308,         20) /* DamageResistRating */
@@ -61,10 +61,10 @@ VALUES (1342752987,   1,   33554433) /* Setup */
      , (1342752987, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1342752987, 1, 3482648631, 152.4565, 150.1075, 20.005, 0.2293077, 0, 0, -0.973354) /* Location */
-/* @teleloc 0xCF950037 [152.456500 150.107500 20.005000] 0.229308 0.000000 0.000000 -0.973354 */
-     , (1342752987, 8040, 3482648631, 152.4565, 150.1075, 20.005, 0.2293077, 0, 0, -0.973354) /* PCAPRecordedLocation */
-/* @teleloc 0xCF950037 [152.456500 150.107500 20.005000] 0.229308 0.000000 0.000000 -0.973354 */;
+VALUES (1342752987, 1, 3482648631, 152.4565, 150.10754, 20.005, 0.22930768, 0, 0, -0.973354) /* Location */
+/* @teleloc 0xCF950037 [152.456497 150.107544 20.004999] 0.229308 0.000000 0.000000 -0.973354 */
+     , (1342752987, 8040, 3482648631, 152.4565, 150.10754, 20.005, 0.22930768, 0, 0, -0.973354) /* PCAPRecordedLocation */
+/* @teleloc 0xCF950037 [152.456497 150.107544 20.004999] 0.229308 0.000000 0.000000 -0.973354 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342752987,  26, 1343449966) /* Monarch */

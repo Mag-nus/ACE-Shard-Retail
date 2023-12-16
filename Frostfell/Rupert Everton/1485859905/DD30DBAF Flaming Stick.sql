@@ -28,8 +28,8 @@ VALUES (3710966703,   1,          1) /* ItemType - MeleeWeapon */
      , (3710966703, 158,          2) /* WieldRequirements - RawSkill */
      , (3710966703, 159,         45) /* WieldSkillType - LightWeapons */
      , (3710966703, 160,        350) /* WieldDifficulty */
-     , (3710966703, 172,          7) /* AppraisalLongDescDecoration */
-     , (3710966703, 176,         45) /* AppraisalItemSkill */
+     , (3710966703, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (3710966703, 176,         45) /* AppraisalItemSkill - LightWeapons */
      , (3710966703, 177,          4) /* GemCount */
      , (3710966703, 178,         38) /* GemType */
      , (3710966703, 188,          1) /* HeritageGroup - Aluvian */

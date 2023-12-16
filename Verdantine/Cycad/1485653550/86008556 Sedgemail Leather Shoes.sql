@@ -21,8 +21,8 @@ VALUES (2248181078,   1,          2) /* ItemType - Armor */
      , (2248181078, 110,          0) /* ItemAllegianceRankLimit */
      , (2248181078, 115,        214) /* ItemSkillLevelLimit */
      , (2248181078, 131,         54) /* MaterialType - GromnieHide */
-     , (2248181078, 172,          5) /* AppraisalLongDescDecoration */
-     , (2248181078, 176,          7) /* AppraisalItemSkill */
+     , (2248181078, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
+     , (2248181078, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (2248181078, 177,          2) /* GemCount */
      , (2248181078, 178,         39) /* GemType */;
 

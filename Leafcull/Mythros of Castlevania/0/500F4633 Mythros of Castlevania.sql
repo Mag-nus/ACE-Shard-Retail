@@ -19,7 +19,7 @@ VALUES (1343178291,   1, True ) /* Stuck */
      , (1343178291,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343178291,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1343178291,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343178291,   1, 'Mythros of Castlevania') /* Name */;
@@ -36,10 +36,10 @@ VALUES (1343178291,   1,   33560839) /* Setup */
      , (1343178291, 8005,     104643) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343178291, 1, 3413508146, 153.629, 41.2347, 22.006, 0.734716, 0, 0, -0.678374) /* Location */
-/* @teleloc 0xCB760032 [153.629000 41.234700 22.006000] 0.734716 0.000000 0.000000 -0.678374 */
-     , (1343178291, 8040, 3332964380, 76.32313, 92.97233, 42.006, 0.6852357, 0, 0, -0.7283213) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001C [76.323130 92.972330 42.006000] 0.685236 0.000000 0.000000 -0.728321 */;
+VALUES (1343178291, 1, 3413508146, 153.629, 41.2347, 22.005999, 0.734716, 0, 0, -0.678374) /* Location */
+/* @teleloc 0xCB760032 [153.628998 41.234699 22.005999] 0.734716 0.000000 0.000000 -0.678374 */
+     , (1343178291, 8040, 3332964380, 76.32313, 92.97233, 42.006, 0.68523574, 0, 0, -0.7283213) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A9001C [76.323128 92.972328 42.006001] 0.685236 0.000000 0.000000 -0.728321 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343178291,  26, 1342177453) /* Monarch */

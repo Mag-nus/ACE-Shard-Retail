@@ -22,7 +22,7 @@ VALUES (2975899263,   1,          2) /* ItemType - Armor */
      , (2975899263, 115,          0) /* ItemSkillLevelLimit */
      , (2975899263, 131,         59) /* MaterialType - Copper */
      , (2975899263, 151,          2) /* HookType - Wall */
-     , (2975899263, 172,          1) /* AppraisalLongDescDecoration */;
+     , (2975899263, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (2975899263,   1, False) /* Stuck */

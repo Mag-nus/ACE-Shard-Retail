@@ -26,11 +26,11 @@ VALUES (3580914000,   1,      32768) /* ItemType - Caster */
      , (3580914000, 159,          1) /* WieldSkillType - Axe */
      , (3580914000, 160,        180) /* WieldDifficulty */
      , (3580914000, 171,         10) /* NumTimesTinkered */
-     , (3580914000, 172,          5) /* AppraisalLongDescDecoration */
+     , (3580914000, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (3580914000, 177,          4) /* GemCount */
      , (3580914000, 178,         38) /* GemType */
      , (3580914000, 179,          1) /* ImbuedEffect - CriticalStrike */
-     , (3580914000, 265,        139) /* EquipmentSetId - UNKNOWN_139 */
+     , (3580914000, 265,        139) /* EquipmentSetId - ParagonCaster */
      , (3580914000, 319,         41) /* ItemMaxLevel */
      , (3580914000, 320,          1) /* ItemXpStyle - Fixed */
      , (3580914000, 383,          1) /* GearPKDamageRating */

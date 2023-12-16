@@ -31,8 +31,8 @@ VALUES (1342181790,   1,         16) /* ItemType - Creature */
      , (1342181790, 230,          1) /* AugmentationIncreasedCarryingCapacity */
      , (1342181790, 231,          3) /* AugmentationLessDeathItemLoss */
      , (1342181790, 232,          1) /* AugmentationSpellsRemainPastDeath */
-     , (1342181790, 261,        407) /* CharacterTitleId */
-     , (1342181790, 281,          4) /* Faction1Bits */
+     , (1342181790, 261,        407) /* CharacterTitleId - GuardianoftheDark */
+     , (1342181790, 281,          4) /* Faction1Bits - RadiantBlood */
      , (1342181790, 289,        630) /* SocietyRankRadblo */
      , (1342181790, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1342181790, 295,          1) /* AugmentationInfusedItemMagic */

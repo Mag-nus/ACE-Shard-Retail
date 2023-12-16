@@ -23,7 +23,7 @@ VALUES (2746808034,   1,      32768) /* ItemType - Caster */
      , (2746808034, 159,          1) /* WieldSkillType - Axe */
      , (2746808034, 160,        130) /* WieldDifficulty */
      , (2746808034, 166,          8) /* SlayerCreatureType - Tusker */
-     , (2746808034, 176,         16) /* AppraisalItemSkill */
+     , (2746808034, 176,         16) /* AppraisalItemSkill - ManaConversion */
      , (2746808034, 9015,          5) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

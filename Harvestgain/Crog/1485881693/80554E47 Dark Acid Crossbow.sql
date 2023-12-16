@@ -13,7 +13,7 @@ VALUES (2153074247,   1,        256) /* ItemType - MissileWeapon */
      , (2153074247,  48,         47) /* WeaponSkill - MissileWeapons */
      , (2153074247,  49,         90) /* WeaponTime */
      , (2153074247,  50,          2) /* AmmoType - Bolt */
-     , (2153074247,  51,          2) /* CombatUse - Missle */
+     , (2153074247,  51,          2) /* CombatUse - Missile */
      , (2153074247,  65,        101) /* Placement - Resting */
      , (2153074247,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2153074247, 105,          6) /* ItemWorkmanship */
@@ -30,13 +30,13 @@ VALUES (2153074247,   1,        256) /* ItemType - MissileWeapon */
      , (2153074247, 159,         47) /* WieldSkillType - MissileWeapons */
      , (2153074247, 160,        385) /* WieldDifficulty */
      , (2153074247, 171,         10) /* NumTimesTinkered */
-     , (2153074247, 172,          5) /* AppraisalLongDescDecoration */
-     , (2153074247, 176,         47) /* AppraisalItemSkill */
+     , (2153074247, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
+     , (2153074247, 176,         47) /* AppraisalItemSkill - MissileWeapons */
      , (2153074247, 177,          4) /* GemCount */
      , (2153074247, 178,         34) /* GemType */
      , (2153074247, 179,  536870913) /* ImbuedEffect - CriticalStrike, IgnoreSomeMagicProjectileDamage */
      , (2153074247, 204,         22) /* ElementalDamageBonus */
-     , (2153074247, 265,        138) /* EquipmentSetId - UNKNOWN_138 */
+     , (2153074247, 265,        138) /* EquipmentSetId - ParagonMissile */
      , (2153074247, 319,          6) /* ItemMaxLevel */
      , (2153074247, 320,          1) /* ItemXpStyle - Fixed */
      , (2153074247, 353,          9) /* WeaponType - Crossbow */

@@ -19,7 +19,7 @@ VALUES (1343235636,   1, True ) /* Stuck */
      , (1343235636,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343235636,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1343235636,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343235636,   1, 'Bunnu''s Melee Weapon Mule') /* Name */;
@@ -36,10 +36,10 @@ VALUES (1343235636,   1,   33561106) /* Setup */
      , (1343235636, 8005,     104579) /* PCAPRecordedPhysicsDesc - CSetup, MTable, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343235636, 1, 3332964380, 74.91757, 84.96474, 42.006, -0.0228519, 0, 0, -0.9997389) /* Location */
-/* @teleloc 0xC6A9001C [74.917570 84.964740 42.006000] -0.022852 0.000000 0.000000 -0.999739 */
-     , (1343235636, 8040, 3332964380, 76.2502, 84.36401, 42.006, -0.1543548, 0, 0, -0.9880155) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001C [76.250200 84.364010 42.006000] -0.154355 0.000000 0.000000 -0.988016 */;
+VALUES (1343235636, 1, 3332964380, 74.91757, 84.96474, 42.006, -0.022851905, 0, 0, -0.9997389) /* Location */
+/* @teleloc 0xC6A9001C [74.917572 84.964737 42.006001] -0.022852 0.000000 0.000000 -0.999739 */
+     , (1343235636, 8040, 3332964380, 76.2502, 84.364006, 42.006, -0.1543548, 0, -0, -0.9880155) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A9001C [76.250198 84.364006 42.006001] -0.154355 0.000000 -0.000000 -0.988015 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343235636,  26, 1343164535) /* Monarch */

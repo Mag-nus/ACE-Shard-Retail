@@ -15,7 +15,7 @@ VALUES (2931458094,   1,        256) /* ItemType - MissileWeapon */
      , (2931458094,  48,         47) /* WeaponSkill - MissileWeapons */
      , (2931458094,  49,        200) /* WeaponTime */
      , (2931458094,  50,          2) /* AmmoType - Bolt */
-     , (2931458094,  51,          2) /* CombatUse - Missle */
+     , (2931458094,  51,          2) /* CombatUse - Missile */
      , (2931458094,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2931458094,  98, 1485827789) /* CreationTimestamp */
      , (2931458094, 106,        500) /* ItemSpellcraft */
@@ -23,7 +23,7 @@ VALUES (2931458094,   1,        256) /* ItemType - MissileWeapon */
      , (2931458094, 108,      10000) /* ItemMaxMana */
      , (2931458094, 114,          0) /* Attuned - Normal */
      , (2931458094, 204,         16) /* ElementalDamageBonus */
-     , (2931458094, 263,          2) /* ResistanceModifierType */
+     , (2931458094, 263,          2) /* ResistanceModifierType - Pierce */
      , (2931458094, 267,      10800) /* Lifespan */
      , (2931458094, 268,     -32944) /* RemainingLifespan */
      , (2931458094, 353,          9) /* WeaponType - Crossbow */

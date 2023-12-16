@@ -18,7 +18,7 @@ VALUES (2965434277,   1,          8) /* ItemType - Jewelry */
      , (2965434277, 110,          0) /* ItemAllegianceRankLimit */
      , (2965434277, 115,          0) /* ItemSkillLevelLimit */
      , (2965434277, 131,         13) /* MaterialType - Aquamarine */
-     , (2965434277, 172,          7) /* AppraisalLongDescDecoration */
+     , (2965434277, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2965434277, 177,          4) /* GemCount */
      , (2965434277, 178,         22) /* GemType */
      , (2965434277, 9015,          9) /* InventoryOrder */;

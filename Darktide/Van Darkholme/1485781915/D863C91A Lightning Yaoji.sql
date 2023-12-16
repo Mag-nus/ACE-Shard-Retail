@@ -20,7 +20,7 @@ VALUES (3630418202,   1,          1) /* ItemType - MeleeWeapon */
      , (3630418202, 105,          3) /* ItemWorkmanship */
      , (3630418202, 131,         57) /* MaterialType - Brass */
      , (3630418202, 151,          2) /* HookType - Wall */
-     , (3630418202, 172,          1) /* AppraisalLongDescDecoration */
+     , (3630418202, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (3630418202, 353,          2) /* WeaponType - Sword */
      , (3630418202, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */;
 

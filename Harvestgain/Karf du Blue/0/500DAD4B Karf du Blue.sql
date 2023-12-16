@@ -18,7 +18,7 @@ VALUES (1343073611,   1,         16) /* ItemType - Creature */
      , (1343073611, 181,       1332) /* ChessRank */
      , (1343073611, 188,          4) /* HeritageGroup - Viamontian */
      , (1343073611, 192,          4) /* FakeFishingSkill */
-     , (1343073611, 261,         60) /* CharacterTitleId */
+     , (1343073611, 261,         60) /* CharacterTitleId - GlendenWoodMilitia */
      , (1343073611, 262,         34) /* NumCharacterTitles */
      , (1343073611, 307,          5) /* DamageRating */
      , (1343073611, 390,          0) /* Enlightenment */
@@ -58,10 +58,10 @@ VALUES (1343073611,   1,   33554433) /* Setup */
      , (1343073611, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343073611, 1, 3332964770, 106.6287, 60.06865, 42.005, 0.9993258, 0, 0, -0.03671574) /* Location */
-/* @teleloc 0xC6A901A2 [106.628700 60.068650 42.005000] 0.999326 0.000000 0.000000 -0.036716 */
+VALUES (1343073611, 1, 3332964770, 106.62873, 60.068645, 42.005, 0.99932575, 0, 0, -0.03671574) /* Location */
+/* @teleloc 0xC6A901A2 [106.628731 60.068645 42.005001] 0.999326 0.000000 0.000000 -0.036716 */
      , (1343073611, 8040, 3332964361, 46.805, 4.219, 42.005, 1, 0, 0, 0) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A90009 [46.805000 4.219000 42.005000] 1.000000 0.000000 0.000000 0.000000 */;
+/* @teleloc 0xC6A90009 [46.805000 4.219000 42.005001] 1.000000 0.000000 0.000000 0.000000 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343073611,  26, 1342689120) /* Monarch */

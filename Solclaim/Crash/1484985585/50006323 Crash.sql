@@ -28,7 +28,7 @@ VALUES (1342202659,   1,         16) /* ItemType - Creature */
      , (1342202659, 199, 1456731790) /* HousePurchaseTimestamp */
      , (1342202659, 221,          5) /* AugmentationInnateQuickness */
      , (1342202659, 222,          1) /* AugmentationInnateFocus */
-     , (1342202659, 261,        771) /* CharacterTitleId */
+     , (1342202659, 261,        771) /* CharacterTitleId - EpicWarrior */
      , (1342202659, 301,          1) /* AugmentationSkilledMissile */
      , (1342202659, 307,         11) /* DamageRating */
      , (1342202659, 308,          3) /* DamageResistRating */

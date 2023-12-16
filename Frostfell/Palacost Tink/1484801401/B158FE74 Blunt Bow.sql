@@ -13,7 +13,7 @@ VALUES (2975399540,   1,        256) /* ItemType - MissileWeapon */
      , (2975399540,  48,         47) /* WeaponSkill - MissileWeapons */
      , (2975399540,  49,         38) /* WeaponTime */
      , (2975399540,  50,          1) /* AmmoType - Arrow */
-     , (2975399540,  51,          2) /* CombatUse - Missle */
+     , (2975399540,  51,          2) /* CombatUse - Missile */
      , (2975399540,  65,        101) /* Placement - Resting */
      , (2975399540,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2975399540, 105,          6) /* ItemWorkmanship */
@@ -29,8 +29,8 @@ VALUES (2975399540,   1,        256) /* ItemType - MissileWeapon */
      , (2975399540, 159,         47) /* WieldSkillType - MissileWeapons */
      , (2975399540, 160,        315) /* WieldDifficulty */
      , (2975399540, 171,          1) /* NumTimesTinkered */
-     , (2975399540, 172,          1) /* AppraisalLongDescDecoration */
-     , (2975399540, 176,         47) /* AppraisalItemSkill */
+     , (2975399540, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (2975399540, 176,         47) /* AppraisalItemSkill - MissileWeapons */
      , (2975399540, 179,         32) /* ImbuedEffect - BludgeonRending */
      , (2975399540, 204,          2) /* ElementalDamageBonus */
      , (2975399540, 353,          8) /* WeaponType - Bow */

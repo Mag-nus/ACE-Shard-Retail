@@ -25,7 +25,7 @@ VALUES (3420103633,   1,          2) /* ItemType - Armor */
      , (3420103633, 159,          1) /* WieldSkillType - Axe */
      , (3420103633, 160,        150) /* WieldDifficulty */
      , (3420103633, 171,         10) /* NumTimesTinkered */
-     , (3420103633, 172,          3) /* AppraisalLongDescDecoration */
+     , (3420103633, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (3420103633, 188,          1) /* HeritageGroup - Aluvian */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

@@ -26,8 +26,8 @@ VALUES (2461826711,   1,          1) /* ItemType - MeleeWeapon */
      , (2461826711, 131,         62) /* MaterialType - Pyreal */
      , (2461826711, 151,          2) /* HookType - Wall */
      , (2461826711, 171,          6) /* NumTimesTinkered */
-     , (2461826711, 172,          7) /* AppraisalLongDescDecoration */
-     , (2461826711, 176,         46) /* AppraisalItemSkill */
+     , (2461826711, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (2461826711, 176,         46) /* AppraisalItemSkill - FinesseWeapons */
      , (2461826711, 177,          2) /* GemCount */
      , (2461826711, 178,         39) /* GemType */
      , (2461826711, 353,          6) /* WeaponType - Dagger */

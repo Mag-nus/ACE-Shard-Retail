@@ -12,7 +12,7 @@ VALUES (2462654513,   1,       2048) /* ItemType - Gem */
      , (2462654513,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2462654513, 105,          4) /* ItemWorkmanship */
      , (2462654513, 131,         40) /* MaterialType - SmokeyQuartz */
-     , (2462654513, 172,          1) /* AppraisalLongDescDecoration */
+     , (2462654513, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (2462654513, 9015,         88) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

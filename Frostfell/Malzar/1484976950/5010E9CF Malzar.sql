@@ -22,7 +22,7 @@ VALUES (1343285711,   1,         16) /* ItemType - Creature */
      , (1343285711, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343285711, 139,         19) /* DeathLevel */
      , (1343285711, 188,          4) /* HeritageGroup - Viamontian */
-     , (1343285711, 261,         58) /* CharacterTitleId */
+     , (1343285711, 261,         58) /* CharacterTitleId - GardenerWeeder */
      , (1343285711, 307,          0) /* DamageRating */
      , (1343285711, 308,          0) /* DamageResistRating */
      , (1343285711, 312,          0) /* HealOverTime */

@@ -28,7 +28,7 @@ VALUES (1342644518,   1,         16) /* ItemType - Creature */
      , (1342644518, 188,          2) /* HeritageGroup - Gharundim */
      , (1342644518, 199, 1244258805) /* HousePurchaseTimestamp */
      , (1342644518, 231,          2) /* AugmentationLessDeathItemLoss */
-     , (1342644518, 261,        681) /* CharacterTitleId */
+     , (1342644518, 261,        681) /* CharacterTitleId - BeginningsEnd */
      , (1342644518, 262,         23) /* NumCharacterTitles */
      , (1342644518, 307,          5) /* DamageRating */
      , (1342644518, 308,          0) /* DamageResistRating */

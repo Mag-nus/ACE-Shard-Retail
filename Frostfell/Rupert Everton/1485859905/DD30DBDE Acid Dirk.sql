@@ -28,8 +28,8 @@ VALUES (3710966750,   1,          1) /* ItemType - MeleeWeapon */
      , (3710966750, 158,          2) /* WieldRequirements - RawSkill */
      , (3710966750, 159,         46) /* WieldSkillType - FinesseWeapons */
      , (3710966750, 160,        400) /* WieldDifficulty */
-     , (3710966750, 172,          7) /* AppraisalLongDescDecoration */
-     , (3710966750, 176,         46) /* AppraisalItemSkill */
+     , (3710966750, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (3710966750, 176,         46) /* AppraisalItemSkill - FinesseWeapons */
      , (3710966750, 177,          2) /* GemCount */
      , (3710966750, 178,         21) /* GemType */
      , (3710966750, 188,          1) /* HeritageGroup - Aluvian */

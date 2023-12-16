@@ -24,7 +24,7 @@ VALUES (1343357334,   1,         16) /* ItemType - Creature */
      , (1343357334, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343357334, 139,         15) /* DeathLevel */
      , (1343357334, 188,          4) /* HeritageGroup - Viamontian */
-     , (1343357334, 261,          1) /* CharacterTitleId */
+     , (1343357334, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343357334, 307,          5) /* DamageRating */
      , (1343357334, 308,          0) /* DamageResistRating */
      , (1343357334, 312,          0) /* HealOverTime */

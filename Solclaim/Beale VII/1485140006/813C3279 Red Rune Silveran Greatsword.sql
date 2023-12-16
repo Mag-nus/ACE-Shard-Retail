@@ -23,7 +23,7 @@ VALUES (2168205945,   1,          1) /* ItemType - MeleeWeapon */
      , (2168205945, 158,          7) /* WieldRequirements - Level */
      , (2168205945, 159,         41) /* WieldSkillType - TwoHandedCombat */
      , (2168205945, 160,        140) /* WieldDifficulty */
-     , (2168205945, 263,          1) /* ResistanceModifierType */
+     , (2168205945, 263,          1) /* ResistanceModifierType - Slash */
      , (2168205945, 292,          2) /* Cleaving */
      , (2168205945, 353,         11) /* WeaponType - TwoHanded */
      , (2168205945, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */

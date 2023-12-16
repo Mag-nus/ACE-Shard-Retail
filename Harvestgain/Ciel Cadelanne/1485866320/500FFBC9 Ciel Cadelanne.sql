@@ -25,7 +25,7 @@ VALUES (1343224777,   1,         16) /* ItemType - Creature */
      , (1343224777, 188,          9) /* HeritageGroup - Empyrean */
      , (1343224777, 199, 1476224380) /* HousePurchaseTimestamp */
      , (1343224777, 231,          3) /* AugmentationLessDeathItemLoss */
-     , (1343224777, 261,        765) /* CharacterTitleId */
+     , (1343224777, 261,        765) /* CharacterTitleId - DerethianNewbie */
      , (1343224777, 296,          1) /* AugmentationInfusedLifeMagic */
      , (1343224777, 302,          1) /* AugmentationSkilledMagic */
      , (1343224777, 307,          0) /* DamageRating */

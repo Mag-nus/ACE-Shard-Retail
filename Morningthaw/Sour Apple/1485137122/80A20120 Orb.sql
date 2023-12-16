@@ -20,7 +20,7 @@ VALUES (2158100768,   1,      32768) /* ItemType - Caster */
      , (2158100768, 115,          0) /* ItemSkillLevelLimit */
      , (2158100768, 131,         68) /* MaterialType - Marble */
      , (2158100768, 151,          2) /* HookType - Wall */
-     , (2158100768, 172,          7) /* AppraisalLongDescDecoration */
+     , (2158100768, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2158100768, 177,          8) /* GemCount */
      , (2158100768, 178,         38) /* GemType */
      , (2158100768, 9015,          7) /* InventoryOrder */;

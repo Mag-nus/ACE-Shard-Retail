@@ -20,7 +20,7 @@ VALUES (2152240080,   1,          8) /* ItemType - Jewelry */
      , (2152240080, 115,          0) /* ItemSkillLevelLimit */
      , (2152240080, 131,         61) /* MaterialType - Iron */
      , (2152240080, 171,          3) /* NumTimesTinkered */
-     , (2152240080, 172,          3) /* AppraisalLongDescDecoration */
+     , (2152240080, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2152240080, 179,       8192) /* ImbuedEffect - Spellbook */
      , (2152240080, 303,       8192) /* ImbuedEffect2 - Spellbook */
      , (2152240080, 304,       8192) /* ImbuedEffect3 - Spellbook */;

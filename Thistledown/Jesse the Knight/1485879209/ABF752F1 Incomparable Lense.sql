@@ -31,10 +31,10 @@ VALUES (2885112561,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2885112561,   5,   -0.05) /* ManaRate */
-     , (2885112561,  29, 1.40000000298023) /* WeaponDefense */
+     , (2885112561,  29, 1.4000000029802322) /* WeaponDefense */
      , (2885112561,  39,     1.5) /* DefaultScale */
-     , (2885112561, 144, 2.56578293331304E-314) /* ManaConversionMod */
-     , (2885112561, 152, 1.07999999821186) /* ElementalDamageMod */;
+     , (2885112561, 144, 2.5657829333E-314) /* ManaConversionMod */
+     , (2885112561, 152, 1.0799999982118607) /* ElementalDamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2885112561,   1, 'Incomparable Lense') /* Name */

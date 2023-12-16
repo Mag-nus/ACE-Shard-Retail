@@ -20,7 +20,7 @@ VALUES (3351524963,   1,      32768) /* ItemType - Caster */
      , (3351524963, 115,          0) /* ItemSkillLevelLimit */
      , (3351524963, 131,         62) /* MaterialType - Pyreal */
      , (3351524963, 151,          2) /* HookType - Wall */
-     , (3351524963, 172,          7) /* AppraisalLongDescDecoration */
+     , (3351524963, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3351524963, 177,          8) /* GemCount */
      , (3351524963, 178,         39) /* GemType */
      , (3351524963, 9015,          3) /* InventoryOrder */;

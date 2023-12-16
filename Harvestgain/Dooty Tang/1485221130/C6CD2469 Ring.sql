@@ -22,7 +22,7 @@ VALUES (3335332969,   1,          8) /* ItemType - Jewelry */
      , (3335332969, 158,          7) /* WieldRequirements - Level */
      , (3335332969, 159,          1) /* WieldSkillType - Axe */
      , (3335332969, 160,        150) /* WieldDifficulty */
-     , (3335332969, 172,          1) /* AppraisalLongDescDecoration */;
+     , (3335332969, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (3335332969,   1, False) /* Stuck */
@@ -34,7 +34,7 @@ VALUES (3335332969,   1, False) /* Stuck */
      , (3335332969,  91, True ) /* Retained */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3335332969,   5, -0.0555555555555556) /* ManaRate */
+VALUES (3335332969,   5, -0.05555555555555555) /* ManaRate */
      , (3335332969,  39,     0.5) /* DefaultScale */
      , (3335332969, 8004,       5) /* PCAPRecordedWorkmanship */;
 

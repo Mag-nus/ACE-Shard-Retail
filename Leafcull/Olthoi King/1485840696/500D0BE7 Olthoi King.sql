@@ -39,8 +39,8 @@ VALUES (1343032295,   1,         16) /* ItemType - Creature */
      , (1343032295, 238,          5) /* AugmentationIncreasedSpellDuration */
      , (1343032295, 244,          1) /* AugmentationResistanceFire */
      , (1343032295, 246,          1) /* AugmentationResistanceLightning */
-     , (1343032295, 261,        761) /* CharacterTitleId */
-     , (1343032295, 281,          2) /* Faction1Bits */
+     , (1343032295, 261,        761) /* CharacterTitleId - BearerofDarkness */
+     , (1343032295, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1343032295, 288,       1001) /* SocietyRankEldweb */
      , (1343032295, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1343032295, 295,          1) /* AugmentationInfusedItemMagic */

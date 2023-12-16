@@ -16,7 +16,7 @@ VALUES (1342436814,   1,         16) /* ItemType - Creature */
      , (1342436814, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342436814, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342436814, 188,          1) /* HeritageGroup - Aluvian */
-     , (1342436814, 261,         13) /* CharacterTitleId */
+     , (1342436814, 261,         13) /* CharacterTitleId - WarMage */
      , (1342436814, 307,          0) /* DamageRating */
      , (1342436814, 308,          0) /* DamageResistRating */
      , (1342436814, 312,          0) /* HealOverTime */

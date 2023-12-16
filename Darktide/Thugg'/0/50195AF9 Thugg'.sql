@@ -13,7 +13,7 @@ VALUES (1343838969,   1,         16) /* ItemType - Creature */
      , (1343838969, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343838969, 134,          4) /* PlayerKillerStatus - PK */
      , (1343838969, 188,          3) /* HeritageGroup - Sho */
-     , (1343838969, 261,        795) /* CharacterTitleId */
+     , (1343838969, 261,        795) /* CharacterTitleId - MenderoftheRift */
      , (1343838969, 390,          0) /* Enlightenment */
      , (1343838969, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
@@ -51,10 +51,10 @@ VALUES (1343838969,   1,   33554433) /* Setup */
      , (1343838969, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343838969, 1, 44696109, 50.01295, -475.1345, 30.005, -0.0678885, 0, 0, -0.9976929) /* Location */
-/* @teleloc 0x02AA022D [50.012950 -475.134500 30.005000] -0.067889 0.000000 0.000000 -0.997693 */
-     , (1343838969, 8040, 44696108, 48.92369, -474.3885, 30.005, 0.01146668, 0, 0, -0.9999343) /* PCAPRecordedLocation */
-/* @teleloc 0x02AA022C [48.923690 -474.388500 30.005000] 0.011467 0.000000 0.000000 -0.999934 */;
+VALUES (1343838969, 1, 44696109, 50.012955, -475.1345, 30.005, -0.0678885, 0, 0, -0.99769294) /* Location */
+/* @teleloc 0x02AA022D [50.012955 -475.134491 30.004999] -0.067888 0.000000 0.000000 -0.997693 */
+     , (1343838969, 8040, 44696108, 48.92369, -474.3885, 30.005, 0.011466685, 0, 0, -0.99993426) /* PCAPRecordedLocation */
+/* @teleloc 0x02AA022C [48.923691 -474.388489 30.004999] 0.011467 0.000000 0.000000 -0.999934 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343838969,  26, 1343917496) /* Monarch */

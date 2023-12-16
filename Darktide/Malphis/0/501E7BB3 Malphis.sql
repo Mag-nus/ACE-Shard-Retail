@@ -13,7 +13,7 @@ VALUES (1344175027,   1,         16) /* ItemType - Creature */
      , (1344175027, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1344175027, 134,          2) /* PlayerKillerStatus - NPK */
      , (1344175027, 188,          1) /* HeritageGroup - Aluvian */
-     , (1344175027, 261,          9) /* CharacterTitleId */
+     , (1344175027, 261,          9) /* CharacterTitleId - BowHunter */
      , (1344175027, 307,          5) /* DamageRating */
      , (1344175027, 390,          0) /* Enlightenment */
      , (1344175027, 8007,          1) /* PCAPRecordedAutonomousMovement */;
@@ -47,10 +47,10 @@ VALUES (1344175027,   1,   33554433) /* Setup */
      , (1344175027, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1344175027, 1, 2847146009, 84, 7.1, 94.005, 0.9969173, 0, 0, -0.07845909) /* Location */
-/* @teleloc 0xA9B40019 [84.000000 7.100000 94.005000] 0.996917 0.000000 0.000000 -0.078459 */
-     , (1344175027, 8040, 2847146017, 97.76369, 2.964417, 94.005, -0.9365599, 0, 0, -0.3505078) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B40021 [97.763690 2.964417 94.005000] -0.936560 0.000000 0.000000 -0.350508 */;
+VALUES (1344175027, 1, 2847146009, 84, 7.1, 94.005005, 0.9969173, 0, 0, -0.07845909) /* Location */
+/* @teleloc 0xA9B40019 [84.000000 7.100000 94.005005] 0.996917 0.000000 0.000000 -0.078459 */
+     , (1344175027, 8040, 2847146017, 97.763695, 2.9644175, 94.005005, -0.93655986, 0, -0, -0.35050777) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B40021 [97.763695 2.964417 94.005005] -0.936560 0.000000 -0.000000 -0.350508 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1344175027, 8000, 1344175027) /* PCAPRecordedObjectIID */;

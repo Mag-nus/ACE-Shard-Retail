@@ -32,8 +32,8 @@ VALUES (1343217819,   1,         16) /* ItemType - Creature */
      , (1343217819, 233,          1) /* AugmentationCriticalDefense */
      , (1343217819, 235,          4) /* AugmentationBonusSalvage */
      , (1343217819, 238,          4) /* AugmentationIncreasedSpellDuration */
-     , (1343217819, 261,          1) /* CharacterTitleId */
-     , (1343217819, 281,          1) /* Faction1Bits */
+     , (1343217819, 261,          1) /* CharacterTitleId - Adventurer */
+     , (1343217819, 281,          1) /* Faction1Bits - CelestialHand */
      , (1343217819, 287,          1) /* SocietyRankCelhan */
      , (1343217819, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1343217819, 298,          1) /* AugmentationCriticalExpertise */

@@ -14,7 +14,7 @@ VALUES (1343144646,   1,         16) /* ItemType - Creature */
      , (1343144646, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343144646, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343144646, 188,          8) /* HeritageGroup - Lugian */
-     , (1343144646, 261,          1) /* CharacterTitleId */
+     , (1343144646, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343144646, 390,          0) /* Enlightenment */
      , (1343144646, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
@@ -27,7 +27,7 @@ VALUES (1343144646,   1, True ) /* Stuck */
      , (1343144646,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343144646,  39, 1.29999995231628) /* DefaultScale */;
+VALUES (1343144646,  39, 1.2999999523162842) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343144646,   1, 'Metal Slime') /* Name */
@@ -53,8 +53,8 @@ VALUES (1343144646,   1,   33561112) /* Setup */
      , (1343144646, 8005,     104643) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343144646, 8040, 3332964371, 53.27041, 65.09124, 42.0065, 0.7927539, 0, 0, -0.6095419) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A90013 [53.270410 65.091240 42.006500] 0.792754 0.000000 0.000000 -0.609542 */;
+VALUES (1343144646, 8040, 3332964371, 53.270412, 65.09124, 42.0065, 0.7927539, 0, 0, -0.6095419) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A90013 [53.270412 65.091240 42.006500] 0.792754 0.000000 0.000000 -0.609542 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343144646,  26, 1342460475) /* Monarch */

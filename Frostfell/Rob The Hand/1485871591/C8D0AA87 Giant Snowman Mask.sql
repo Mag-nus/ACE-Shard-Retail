@@ -22,7 +22,7 @@ VALUES (3369118343,   1,          4) /* ItemType - Clothing */
      , (3369118343, 115,          0) /* ItemSkillLevelLimit */
      , (3369118343, 131,          6) /* MaterialType - Silk */
      , (3369118343, 151,          2) /* HookType - Wall */
-     , (3369118343, 172,          5) /* AppraisalLongDescDecoration */
+     , (3369118343, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (3369118343, 177,          1) /* GemCount */
      , (3369118343, 178,         22) /* GemType */;
 

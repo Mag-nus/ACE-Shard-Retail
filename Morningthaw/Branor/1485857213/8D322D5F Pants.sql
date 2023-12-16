@@ -20,7 +20,7 @@ VALUES (2368875871,   1,          4) /* ItemType - Clothing */
      , (2368875871, 110,          0) /* ItemAllegianceRankLimit */
      , (2368875871, 115,          0) /* ItemSkillLevelLimit */
      , (2368875871, 131,          7) /* MaterialType - Velvet */
-     , (2368875871, 172,          3) /* AppraisalLongDescDecoration */
+     , (2368875871, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2368875871, 188,          3) /* HeritageGroup - Sho */
      , (2368875871, 9015,         82) /* InventoryOrder */;
 

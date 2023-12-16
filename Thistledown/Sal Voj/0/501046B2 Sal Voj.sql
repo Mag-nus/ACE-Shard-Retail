@@ -19,7 +19,7 @@ VALUES (1343243954,   1, True ) /* Stuck */
      , (1343243954,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343243954,  39, 1.29999995231628) /* DefaultScale */;
+VALUES (1343243954,  39, 1.2999999523162842) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343243954,   1, 'Sal Voj') /* Name */;
@@ -37,7 +37,7 @@ VALUES (1343243954,   1,   33561112) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343243954, 8040, 3332964380, 84.30995, 81.12836, 42.0065, 0.8904533, 0, 0, -0.4550746) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001C [84.309950 81.128360 42.006500] 0.890453 0.000000 0.000000 -0.455075 */;
+/* @teleloc 0xC6A9001C [84.309952 81.128357 42.006500] 0.890453 0.000000 0.000000 -0.455075 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343243954,  26, 1343243600) /* Monarch */

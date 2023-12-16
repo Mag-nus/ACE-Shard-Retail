@@ -15,7 +15,7 @@ VALUES (3231369847,   1,      32768) /* ItemType - Caster */
      , (3231369847, 131,         15) /* MaterialType - BlackGarnet */
      , (3231369847, 151,          2) /* HookType - Wall */
      , (3231369847, 171,          8) /* NumTimesTinkered */
-     , (3231369847, 172,          7) /* AppraisalLongDescDecoration */
+     , (3231369847, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3231369847, 177,          5) /* GemCount */
      , (3231369847, 178,         23) /* GemType */;
 

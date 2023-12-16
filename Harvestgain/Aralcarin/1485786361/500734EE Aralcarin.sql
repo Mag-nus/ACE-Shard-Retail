@@ -33,7 +33,7 @@ VALUES (1342649582,   1,         16) /* ItemType - Creature */
      , (1342649582, 231,          3) /* AugmentationLessDeathItemLoss */
      , (1342649582, 233,          1) /* AugmentationCriticalDefense */
      , (1342649582, 235,          4) /* AugmentationBonusSalvage */
-     , (1342649582, 261,         34) /* CharacterTitleId */
+     , (1342649582, 261,         34) /* CharacterTitleId - ChampionofDereth */
      , (1342649582, 300,          1) /* AugmentationSkilledMelee */
      , (1342649582, 307,          5) /* DamageRating */
      , (1342649582, 308,          0) /* DamageResistRating */

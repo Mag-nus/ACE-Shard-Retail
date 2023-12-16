@@ -23,8 +23,8 @@ VALUES (2868766523,   1,          2) /* ItemType - Armor */
      , (2868766523, 158,          7) /* WieldRequirements - Level */
      , (2868766523, 159,          1) /* WieldSkillType - Axe */
      , (2868766523, 160,        180) /* WieldDifficulty */
-     , (2868766523, 172,          3) /* AppraisalLongDescDecoration */
-     , (2868766523, 176,          6) /* AppraisalItemSkill */
+     , (2868766523, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (2868766523, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (2868766523, 265,         26) /* EquipmentSetId - Flameproof */
      , (2868766523, 9015,          6) /* InventoryOrder */;
 

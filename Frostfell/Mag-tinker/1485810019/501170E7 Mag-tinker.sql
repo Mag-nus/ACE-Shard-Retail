@@ -24,7 +24,7 @@ VALUES (1343320295,   1,         16) /* ItemType - Creature */
      , (1343320295, 226,          1) /* AugmentationSpecializeArmorTinkering */
      , (1343320295, 228,          1) /* AugmentationSpecializeWeaponTinkering */
      , (1343320295, 236,          1) /* AugmentationBonusImbueChance */
-     , (1343320295, 261,        470) /* CharacterTitleId */
+     , (1343320295, 261,        470) /* CharacterTitleId - MasterChampionRingX */
      , (1343320295, 296,          1) /* AugmentationInfusedLifeMagic */
      , (1343320295, 307,          5) /* DamageRating */
      , (1343320295, 308,          0) /* DamageResistRating */

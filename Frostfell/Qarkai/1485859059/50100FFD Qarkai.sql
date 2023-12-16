@@ -26,8 +26,8 @@ VALUES (1343229949,   1,         16) /* ItemType - Creature */
      , (1343229949, 188,          3) /* HeritageGroup - Sho */
      , (1343229949, 199, 1404414924) /* HousePurchaseTimestamp */
      , (1343229949, 233,          1) /* AugmentationCriticalDefense */
-     , (1343229949, 261,        458) /* CharacterTitleId */
-     , (1343229949, 281,          1) /* Faction1Bits */
+     , (1343229949, 261,        458) /* CharacterTitleId - WarrioroftheSeventhCircle */
+     , (1343229949, 281,          1) /* Faction1Bits - CelestialHand */
      , (1343229949, 287,        420) /* SocietyRankCelhan */
      , (1343229949, 307,          0) /* DamageRating */
      , (1343229949, 308,          0) /* DamageResistRating */

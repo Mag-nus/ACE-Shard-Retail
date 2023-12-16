@@ -21,7 +21,7 @@ VALUES (2164308901,   1,      32768) /* ItemType - Caster */
      , (2164308901, 131,         13) /* MaterialType - Aquamarine */
      , (2164308901, 151,          2) /* HookType - Wall */
      , (2164308901, 171,          5) /* NumTimesTinkered */
-     , (2164308901, 172,          7) /* AppraisalLongDescDecoration */
+     , (2164308901, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2164308901, 177,          3) /* GemCount */
      , (2164308901, 178,         39) /* GemType */
      , (2164308901, 179,          1) /* ImbuedEffect - CriticalStrike */

@@ -20,7 +20,7 @@ VALUES (2166187007,   1,          2) /* ItemType - Armor */
      , (2166187007, 110,          0) /* ItemAllegianceRankLimit */
      , (2166187007, 115,          0) /* ItemSkillLevelLimit */
      , (2166187007, 131,         63) /* MaterialType - Silver */
-     , (2166187007, 172,          3) /* AppraisalLongDescDecoration */
+     , (2166187007, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2166187007, 188,          3) /* HeritageGroup - Sho */
      , (2166187007, 9015,          3) /* InventoryOrder */;
 

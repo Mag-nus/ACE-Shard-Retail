@@ -24,7 +24,7 @@ VALUES (1343981358,   1,         16) /* ItemType - Creature */
      , (1343981358, 139,          6) /* DeathLevel */
      , (1343981358, 188,          2) /* HeritageGroup - Gharundim */
      , (1343981358, 199, 1454940831) /* HousePurchaseTimestamp */
-     , (1343981358, 261,         14) /* CharacterTitleId */
+     , (1343981358, 261,         14) /* CharacterTitleId - Wayfarer */
      , (1343981358, 307,          0) /* DamageRating */
      , (1343981358, 308,          0) /* DamageResistRating */
      , (1343981358, 312,          0) /* HealOverTime */

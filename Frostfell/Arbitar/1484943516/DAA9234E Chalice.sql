@@ -7,7 +7,7 @@ VALUES (3668517710,   1,        256) /* ItemType - MissileWeapon */
      , (3668517710,   9,    4194304) /* ValidLocations - MissileWeapon */
      , (3668517710,  16,          1) /* ItemUseable - No */
      , (3668517710,  19,      42499) /* Value */
-     , (3668517710,  51,          2) /* CombatUse - Missle */
+     , (3668517710,  51,          2) /* CombatUse - Missile */
      , (3668517710,  65,        101) /* Placement - Resting */
      , (3668517710,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (3668517710, 131,         23) /* MaterialType - GreenGarnet */

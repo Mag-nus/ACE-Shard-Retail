@@ -14,7 +14,7 @@ VALUES (2438520573,   1,      32768) /* ItemType - Caster */
      , (2438520573, 131,         33) /* MaterialType - Opal */
      , (2438520573, 151,          2) /* HookType - Wall */
      , (2438520573, 171,          9) /* NumTimesTinkered */
-     , (2438520573, 172,          7) /* AppraisalLongDescDecoration */
+     , (2438520573, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2438520573, 177,          3) /* GemCount */
      , (2438520573, 178,         26) /* GemType */
      , (2438520573, 179,         16) /* ImbuedEffect - PierceRending */

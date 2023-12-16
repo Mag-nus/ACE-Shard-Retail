@@ -20,7 +20,7 @@ VALUES (3231346638,   1,          8) /* ItemType - Jewelry */
      , (3231346638, 115,          0) /* ItemSkillLevelLimit */
      , (3231346638, 131,         13) /* MaterialType - Aquamarine */
      , (3231346638, 171,          1) /* NumTimesTinkered */
-     , (3231346638, 172,          7) /* AppraisalLongDescDecoration */
+     , (3231346638, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3231346638, 177,          1) /* GemCount */
      , (3231346638, 178,         39) /* GemType */
      , (3231346638, 179,       8192) /* ImbuedEffect - Spellbook */;

@@ -7,7 +7,7 @@ VALUES (2885468766,   1,        256) /* ItemType - MissileWeapon */
      , (2885468766,   9,    4194304) /* ValidLocations - MissileWeapon */
      , (2885468766,  16,          1) /* ItemUseable - No */
      , (2885468766,  19,      16148) /* Value */
-     , (2885468766,  51,          2) /* CombatUse - Missle */
+     , (2885468766,  51,          2) /* CombatUse - Missile */
      , (2885468766,  65,        101) /* Placement - Resting */
      , (2885468766,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (2885468766, 131,         12) /* MaterialType - Amethyst */

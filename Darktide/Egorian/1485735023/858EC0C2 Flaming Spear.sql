@@ -26,8 +26,8 @@ VALUES (2240725186,   1,          1) /* ItemType - MeleeWeapon */
      , (2240725186, 115,         73) /* ItemSkillLevelLimit */
      , (2240725186, 131,         63) /* MaterialType - Silver */
      , (2240725186, 151,          2) /* HookType - Wall */
-     , (2240725186, 172,          3) /* AppraisalLongDescDecoration */
-     , (2240725186, 176,         45) /* AppraisalItemSkill */
+     , (2240725186, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (2240725186, 176,         45) /* AppraisalItemSkill - LightWeapons */
      , (2240725186, 188,          1) /* HeritageGroup - Aluvian */
      , (2240725186, 353,          5) /* WeaponType - Spear */
      , (2240725186, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */;

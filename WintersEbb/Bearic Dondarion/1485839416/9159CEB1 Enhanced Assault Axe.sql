@@ -25,7 +25,7 @@ VALUES (2438581937,   1,          1) /* ItemType - MeleeWeapon */
      , (2438581937, 159,         44) /* WieldSkillType - HeavyWeapons */
      , (2438581937, 160,        400) /* WieldDifficulty */
      , (2438581937, 166,          6) /* SlayerCreatureType - Tumerok */
-     , (2438581937, 263,          1) /* ResistanceModifierType */
+     , (2438581937, 263,          1) /* ResistanceModifierType - Slash */
      , (2438581937, 353,          3) /* WeaponType - Axe */
      , (2438581937, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (2438581937, 9015,          2) /* InventoryOrder */;

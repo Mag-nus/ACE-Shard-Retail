@@ -34,8 +34,8 @@ VALUES (1343445347,   1,         16) /* ItemType - Creature */
      , (1343445347, 235,          4) /* AugmentationBonusSalvage */
      , (1343445347, 238,          5) /* AugmentationIncreasedSpellDuration */
      , (1343445347, 244,          2) /* AugmentationResistanceFire */
-     , (1343445347, 261,        723) /* CharacterTitleId */
-     , (1343445347, 281,          1) /* Faction1Bits */
+     , (1343445347, 261,        723) /* CharacterTitleId - Hopebringer */
+     , (1343445347, 281,          1) /* Faction1Bits - CelestialHand */
      , (1343445347, 287,       1001) /* SocietyRankCelhan */
      , (1343445347, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1343445347, 295,          1) /* AugmentationInfusedItemMagic */

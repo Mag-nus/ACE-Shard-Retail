@@ -23,7 +23,7 @@ VALUES (1343220328,   1,         16) /* ItemType - Creature */
      , (1343220328, 139,         14) /* DeathLevel */
      , (1343220328, 188,          9) /* HeritageGroup - Empyrean */
      , (1343220328, 199, 1158551826) /* HousePurchaseTimestamp */
-     , (1343220328, 261,          1) /* CharacterTitleId */
+     , (1343220328, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343220328, 296,          1) /* AugmentationInfusedLifeMagic */
      , (1343220328, 307,          0) /* DamageRating */
      , (1343220328, 308,          0) /* DamageResistRating */

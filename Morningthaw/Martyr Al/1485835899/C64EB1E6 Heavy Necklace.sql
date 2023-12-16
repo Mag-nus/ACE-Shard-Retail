@@ -18,7 +18,7 @@ VALUES (3327046118,   1,          8) /* ItemType - Jewelry */
      , (3327046118, 110,          0) /* ItemAllegianceRankLimit */
      , (3327046118, 115,          0) /* ItemSkillLevelLimit */
      , (3327046118, 131,         59) /* MaterialType - Copper */
-     , (3327046118, 172,          7) /* AppraisalLongDescDecoration */
+     , (3327046118, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3327046118, 177,          3) /* GemCount */
      , (3327046118, 178,         39) /* GemType */
      , (3327046118, 188,          3) /* HeritageGroup - Sho */

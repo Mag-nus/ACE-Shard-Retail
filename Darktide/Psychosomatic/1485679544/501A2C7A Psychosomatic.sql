@@ -25,7 +25,7 @@ VALUES (1343892602,   1,         16) /* ItemType - Creature */
      , (1343892602, 139,         31) /* DeathLevel */
      , (1343892602, 188,          4) /* HeritageGroup - Viamontian */
      , (1343892602, 199, 1472987826) /* HousePurchaseTimestamp */
-     , (1343892602, 261,          1) /* CharacterTitleId */
+     , (1343892602, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343892602, 307,          0) /* DamageRating */
      , (1343892602, 308,          0) /* DamageResistRating */
      , (1343892602, 312,          0) /* HealOverTime */

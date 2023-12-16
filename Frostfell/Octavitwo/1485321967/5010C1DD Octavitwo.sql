@@ -22,7 +22,7 @@ VALUES (1343275485,   1,         16) /* ItemType - Creature */
      , (1343275485, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343275485, 188,          4) /* HeritageGroup - Viamontian */
      , (1343275485, 199, 1484943763) /* HousePurchaseTimestamp */
-     , (1343275485, 261,         11) /* CharacterTitleId */
+     , (1343275485, 261,         11) /* CharacterTitleId - Soldier */
      , (1343275485, 307,          0) /* DamageRating */
      , (1343275485, 308,          0) /* DamageResistRating */
      , (1343275485, 312,          0) /* HealOverTime */

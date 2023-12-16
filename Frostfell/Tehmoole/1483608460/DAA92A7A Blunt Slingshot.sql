@@ -9,7 +9,7 @@ VALUES (3668519546,   1,        256) /* ItemType - MissileWeapon */
      , (3668519546,  18,        513) /* UiEffects - Magical, Bludgeoning */
      , (3668519546,  19,      26775) /* Value */
      , (3668519546,  50,          4) /* AmmoType - Atlatl */
-     , (3668519546,  51,          2) /* CombatUse - Missle */
+     , (3668519546,  51,          2) /* CombatUse - Missile */
      , (3668519546,  65,        101) /* Placement - Resting */
      , (3668519546,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3668519546, 131,         23) /* MaterialType - GreenGarnet */

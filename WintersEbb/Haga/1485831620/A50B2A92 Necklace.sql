@@ -18,7 +18,7 @@ VALUES (2768972434,   1,          8) /* ItemType - Jewelry */
      , (2768972434, 110,          0) /* ItemAllegianceRankLimit */
      , (2768972434, 115,          0) /* ItemSkillLevelLimit */
      , (2768972434, 131,         59) /* MaterialType - Copper */
-     , (2768972434, 172,          3) /* AppraisalLongDescDecoration */
+     , (2768972434, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2768972434, 188,          3) /* HeritageGroup - Sho */
      , (2768972434, 9015,         45) /* InventoryOrder */;
 

@@ -28,11 +28,11 @@ VALUES (3165780126,   1,      32768) /* ItemType - Caster */
      , (3165780126, 160,        385) /* WieldDifficulty */
      , (3165780126, 166,         89) /* SlayerCreatureType - Mukkir */
      , (3165780126, 171,         10) /* NumTimesTinkered */
-     , (3165780126, 172,          5) /* AppraisalLongDescDecoration */
+     , (3165780126, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (3165780126, 177,          2) /* GemCount */
      , (3165780126, 178,         20) /* GemType */
      , (3165780126, 179,          1) /* ImbuedEffect - CriticalStrike */
-     , (3165780126, 265,        139) /* EquipmentSetId - UNKNOWN_139 */
+     , (3165780126, 265,        139) /* EquipmentSetId - ParagonCaster */
      , (3165780126, 319,         50) /* ItemMaxLevel */
      , (3165780126, 320,          1) /* ItemXpStyle - Fixed */
      , (3165780126, 383,          1) /* GearPKDamageRating */

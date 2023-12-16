@@ -14,7 +14,7 @@ VALUES (1343310691,   1,         16) /* ItemType - Creature */
      , (1343310691, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343310691, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343310691, 188,          3) /* HeritageGroup - Sho */
-     , (1343310691, 261,        119) /* CharacterTitleId */
+     , (1343310691, 261,        119) /* CharacterTitleId - SezzhereiSlayer */
      , (1343310691, 307,          7) /* DamageRating */
      , (1343310691, 308,          3) /* DamageResistRating */
      , (1343310691, 390,          0) /* Enlightenment */
@@ -52,10 +52,10 @@ VALUES (1343310691,   1,   33554433) /* Setup */
      , (1343310691, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343310691, 1, 2847146026, 131.3361, 32.54897, 94.005, 0.7713886, 0, 0, -0.6363643) /* Location */
-/* @teleloc 0xA9B4002A [131.336100 32.548970 94.005000] 0.771389 0.000000 0.000000 -0.636364 */
-     , (1343310691, 8040, 2847146026, 134.0497, 47.3982, 94.005, 0.7555476, 0, 0, -0.6550937) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B4002A [134.049700 47.398200 94.005000] 0.755548 0.000000 0.000000 -0.655094 */;
+VALUES (1343310691, 1, 2847146026, 131.33612, 32.54897, 94.005005, 0.77138865, 0, 0, -0.63636434) /* Location */
+/* @teleloc 0xA9B4002A [131.336121 32.548969 94.005005] 0.771389 0.000000 0.000000 -0.636364 */
+     , (1343310691, 8040, 2847146026, 134.04971, 47.398205, 94.005005, 0.75554764, 0, 0, -0.65509367) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B4002A [134.049713 47.398205 94.005005] 0.755548 0.000000 0.000000 -0.655094 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343310691,  26, 1342394661) /* Monarch */

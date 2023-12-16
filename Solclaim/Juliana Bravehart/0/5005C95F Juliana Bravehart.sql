@@ -18,7 +18,7 @@ VALUES (1342556511,   1,         16) /* ItemType - Creature */
      , (1342556511, 181,       1204) /* ChessRank */
      , (1342556511, 188,          1) /* HeritageGroup - Aluvian */
      , (1342556511, 192,         71) /* FakeFishingSkill */
-     , (1342556511, 261,        646) /* CharacterTitleId */
+     , (1342556511, 261,        646) /* CharacterTitleId - DerethsElite */
      , (1342556511, 262,         22) /* NumCharacterTitles */
      , (1342556511, 390,          0) /* Enlightenment */
      , (1342556511, 8007,          1) /* PCAPRecordedAutonomousMovement */;
@@ -57,7 +57,7 @@ VALUES (1342556511,   1,   33554510) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1342556511, 1, 601489452, 140.9, 86, 2.005, -0.4067367, 0, 0, -0.9135454) /* Location */
-/* @teleloc 0x23DA002C [140.900000 86.000000 2.005000] -0.406737 0.000000 0.000000 -0.913545 */
+/* @teleloc 0x23DA002C [140.899994 86.000000 2.005000] -0.406737 0.000000 0.000000 -0.913545 */
      , (1342556511, 8040, 459077, 70, -80, 0.004999995, 1, 0, 0, 0) /* PCAPRecordedLocation */
 /* @teleloc 0x00070145 [70.000000 -80.000000 0.005000] 1.000000 0.000000 0.000000 0.000000 */;
 

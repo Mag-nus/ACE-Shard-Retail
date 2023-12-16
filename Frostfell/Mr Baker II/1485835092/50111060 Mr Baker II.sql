@@ -43,9 +43,9 @@ VALUES (1343295584,   1,         16) /* ItemType - Creature */
      , (1343295584, 244,          0) /* AugmentationResistanceFire */
      , (1343295584, 245,          1) /* AugmentationResistanceFrost */
      , (1343295584, 246,          0) /* AugmentationResistanceLightning */
-     , (1343295584, 261,        681) /* CharacterTitleId */
+     , (1343295584, 261,        681) /* CharacterTitleId - BeginningsEnd */
      , (1343295584, 262,        104) /* NumCharacterTitles */
-     , (1343295584, 281,          2) /* Faction1Bits */
+     , (1343295584, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1343295584, 287,          0) /* SocietyRankCelhan */
      , (1343295584, 288,       1001) /* SocietyRankEldweb */
      , (1343295584, 289,          0) /* SocietyRankRadblo */

@@ -31,7 +31,7 @@ VALUES (1343320613,   1,         16) /* ItemType - Creature */
      , (1343320613, 232,          1) /* AugmentationSpellsRemainPastDeath */
      , (1343320613, 233,          1) /* AugmentationCriticalDefense */
      , (1343320613, 238,          1) /* AugmentationIncreasedSpellDuration */
-     , (1343320613, 261,        470) /* CharacterTitleId */
+     , (1343320613, 261,        470) /* CharacterTitleId - MasterChampionRingX */
      , (1343320613, 296,          1) /* AugmentationInfusedLifeMagic */
      , (1343320613, 302,          1) /* AugmentationSkilledMagic */
      , (1343320613, 307,         10) /* DamageRating */

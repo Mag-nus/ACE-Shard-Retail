@@ -18,7 +18,7 @@ VALUES (1342557104,   1,         16) /* ItemType - Creature */
      , (1342557104, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342557104, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342557104, 188,          1) /* HeritageGroup - Aluvian */
-     , (1342557104, 261,          2) /* CharacterTitleId */
+     , (1342557104, 261,          2) /* CharacterTitleId - Archer */
      , (1342557104, 307,          0) /* DamageRating */
      , (1342557104, 308,          0) /* DamageResistRating */
      , (1342557104, 312,          0) /* HealOverTime */

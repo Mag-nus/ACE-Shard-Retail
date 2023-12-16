@@ -38,8 +38,8 @@ VALUES (1343346493,   1,         16) /* ItemType - Creature */
      , (1343346493, 238,          5) /* AugmentationIncreasedSpellDuration */
      , (1343346493, 244,          1) /* AugmentationResistanceFire */
      , (1343346493, 246,          1) /* AugmentationResistanceLightning */
-     , (1343346493, 261,        445) /* CharacterTitleId */
-     , (1343346493, 281,          4) /* Faction1Bits */
+     , (1343346493, 261,        445) /* CharacterTitleId - MasterofthePorcelainAltar */
+     , (1343346493, 281,          4) /* Faction1Bits - RadiantBlood */
      , (1343346493, 287,          0) /* SocietyRankCelhan */
      , (1343346493, 288,          0) /* SocietyRankEldweb */
      , (1343346493, 289,       1001) /* SocietyRankRadblo */

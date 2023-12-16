@@ -15,8 +15,8 @@ VALUES (1343074620,   1,         16) /* ItemType - Creature */
      , (1343074620, 134,         64) /* PlayerKillerStatus - PKLite */
      , (1343074620, 188,          2) /* HeritageGroup - Gharundim */
      , (1343074620, 192,         56) /* FakeFishingSkill */
-     , (1343074620, 261,        494) /* CharacterTitleId */
-     , (1343074620, 281,          4) /* Faction1Bits */
+     , (1343074620, 261,        494) /* CharacterTitleId - FuzzyBunnySlayer */
+     , (1343074620, 281,          4) /* Faction1Bits - RadiantBlood */
      , (1343074620, 289,       1001) /* SocietyRankRadblo */
      , (1343074620, 307,         25) /* DamageRating */
      , (1343074620, 308,         13) /* DamageResistRating */
@@ -59,10 +59,10 @@ VALUES (1343074620,   1,   33554433) /* Setup */
      , (1343074620, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343074620, 1, 2103705613, 31.9, 104.6, 11.94667, 0.5771452, 0, 0, -0.8166416) /* Location */
-/* @teleloc 0x7D64000D [31.900000 104.600000 11.946670] 0.577145 0.000000 0.000000 -0.816642 */
-     , (1343074620, 8040, 459075, 70, -60, 0.004999995, -4.371139E-08, 0, 0, -1) /* PCAPRecordedLocation */
-/* @teleloc 0x00070143 [70.000000 -60.000000 0.005000] 0.000000 0.000000 0.000000 -1.000000 */;
+VALUES (1343074620, 1, 2103705613, 31.9, 104.6, 11.946667, 0.57714516, 0, 0, -0.81664157) /* Location */
+/* @teleloc 0x7D64000D [31.900000 104.599998 11.946667] 0.577145 0.000000 0.000000 -0.816642 */
+     , (1343074620, 8040, 459075, 70, -60, 0.004999995, -4.371139E-08, 0, -0, -1) /* PCAPRecordedLocation */
+/* @teleloc 0x00070143 [70.000000 -60.000000 0.005000] -0.000000 0.000000 -0.000000 -1.000000 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343074620,  26, 1342996201) /* Monarch */

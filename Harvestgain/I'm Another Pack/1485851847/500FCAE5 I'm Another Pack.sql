@@ -25,7 +25,7 @@ VALUES (1343212261,   1,         16) /* ItemType - Creature */
      , (1343212261, 188,          8) /* HeritageGroup - Lugian */
      , (1343212261, 199, 1217068930) /* HousePurchaseTimestamp */
      , (1343212261, 230,          1) /* AugmentationIncreasedCarryingCapacity */
-     , (1343212261, 261,         11) /* CharacterTitleId */
+     , (1343212261, 261,         11) /* CharacterTitleId - Soldier */
      , (1343212261, 307,          0) /* DamageRating */
      , (1343212261, 308,          0) /* DamageResistRating */
      , (1343212261, 312,          0) /* HealOverTime */

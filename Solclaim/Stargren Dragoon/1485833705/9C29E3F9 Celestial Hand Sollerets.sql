@@ -24,7 +24,7 @@ VALUES (2619991033,   1,          2) /* ItemType - Armor */
      , (2619991033, 159,        287) /* WieldSkillType */
      , (2619991033, 160,          1) /* WieldDifficulty */
      , (2619991033, 171,         10) /* NumTimesTinkered */
-     , (2619991033, 172,          3) /* AppraisalLongDescDecoration */
+     , (2619991033, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2619991033, 265,         30) /* EquipmentSetId - SocietyArmor */
      , (2619991033, 9015,          1) /* InventoryOrder */;
 

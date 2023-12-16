@@ -20,7 +20,7 @@ VALUES (3327046149,   1,          4) /* ItemType - Clothing */
      , (3327046149, 110,          0) /* ItemAllegianceRankLimit */
      , (3327046149, 115,          0) /* ItemSkillLevelLimit */
      , (3327046149, 131,          7) /* MaterialType - Velvet */
-     , (3327046149, 172,          7) /* AppraisalLongDescDecoration */
+     , (3327046149, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3327046149, 177,          2) /* GemCount */
      , (3327046149, 178,         35) /* GemType */
      , (3327046149, 188,          1) /* HeritageGroup - Aluvian */

@@ -9,7 +9,7 @@ VALUES (2248181002,   1,        256) /* ItemType - MissileWeapon */
      , (2248181002,  18,          1) /* UiEffects - Magical */
      , (2248181002,  19,          1) /* Value */
      , (2248181002,  50,          4) /* AmmoType - Atlatl */
-     , (2248181002,  51,          2) /* CombatUse - Missle */
+     , (2248181002,  51,          2) /* CombatUse - Missile */
      , (2248181002,  65,        101) /* Placement - Resting */
      , (2248181002,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2248181002, 151,          2) /* HookType - Wall */

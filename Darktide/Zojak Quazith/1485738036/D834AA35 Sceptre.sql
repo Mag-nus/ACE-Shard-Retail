@@ -21,7 +21,7 @@ VALUES (3627330101,   1,      32768) /* ItemType - Caster */
      , (3627330101, 131,         59) /* MaterialType - Copper */
      , (3627330101, 151,          2) /* HookType - Wall */
      , (3627330101, 171,          1) /* NumTimesTinkered */
-     , (3627330101, 172,          1) /* AppraisalLongDescDecoration */
+     , (3627330101, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (3627330101, 179,          8) /* ImbuedEffect - SlashRending */
      , (3627330101, 9015,          1) /* InventoryOrder */;
 

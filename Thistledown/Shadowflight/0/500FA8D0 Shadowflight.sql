@@ -19,7 +19,7 @@ VALUES (1343203536,   1, True ) /* Stuck */
      , (1343203536,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343203536,  39, 1.29999995231628) /* DefaultScale */;
+VALUES (1343203536,  39, 1.2999999523162842) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343203536,   1, 'Shadowflight') /* Name */;

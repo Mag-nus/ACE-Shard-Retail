@@ -14,7 +14,7 @@ VALUES (2158714484,   1,      32768) /* ItemType - Caster */
      , (2158714484, 131,         25) /* MaterialType - Hematite */
      , (2158714484, 151,          2) /* HookType - Wall */
      , (2158714484, 171,          1) /* NumTimesTinkered */
-     , (2158714484, 172,          7) /* AppraisalLongDescDecoration */
+     , (2158714484, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2158714484, 177,          2) /* GemCount */
      , (2158714484, 178,         34) /* GemType */
      , (2158714484, 179,          1) /* ImbuedEffect - CriticalStrike */

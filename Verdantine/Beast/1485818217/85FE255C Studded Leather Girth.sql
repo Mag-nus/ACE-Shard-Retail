@@ -23,8 +23,8 @@ VALUES (2248025436,   1,          2) /* ItemType - Armor */
      , (2248025436, 158,          7) /* WieldRequirements - Level */
      , (2248025436, 159,          1) /* WieldSkillType - Axe */
      , (2248025436, 160,        180) /* WieldDifficulty */
-     , (2248025436, 172,          1) /* AppraisalLongDescDecoration */
-     , (2248025436, 176,          7) /* AppraisalItemSkill */
+     , (2248025436, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (2248025436, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (2248025436, 265,         23) /* EquipmentSetId - Hardened */
      , (2248025436, 9015,         50) /* InventoryOrder */;
 

@@ -13,7 +13,7 @@ VALUES (1343255204,   1,         16) /* ItemType - Creature */
      , (1343255204, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343255204, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343255204, 188,          3) /* HeritageGroup - Sho */
-     , (1343255204, 261,         61) /* CharacterTitleId */
+     , (1343255204, 261,         61) /* CharacterTitleId - GoldenGod */
      , (1343255204, 390,          0) /* Enlightenment */
      , (1343255204, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
@@ -47,9 +47,9 @@ VALUES (1343255204,   1,   33554433) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343255204, 1, 2746941483, 129.646, 64.9618, 32.005, 0.677347, 0, 0, -0.735664) /* Location */
-/* @teleloc 0xA3BB002B [129.646000 64.961800 32.005000] 0.677347 0.000000 0.000000 -0.735664 */
-     , (1343255204, 8040, 2847146263, 148.9229, 131.9978, 66.005, 0.9722864, 0, 0, -0.2337929) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B40117 [148.922900 131.997800 66.005000] 0.972286 0.000000 0.000000 -0.233793 */;
+/* @teleloc 0xA3BB002B [129.645996 64.961800 32.005001] 0.677347 0.000000 0.000000 -0.735664 */
+     , (1343255204, 8040, 2847146263, 148.92293, 131.99783, 66.005005, 0.9722864, 0, 0, -0.23379286) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B40117 [148.922928 131.997833 66.005005] 0.972286 0.000000 0.000000 -0.233793 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343255204, 8000, 1343255204) /* PCAPRecordedObjectIID */;

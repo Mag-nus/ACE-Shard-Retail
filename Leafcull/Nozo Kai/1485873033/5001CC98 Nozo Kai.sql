@@ -35,8 +35,8 @@ VALUES (1342295192,   1,         16) /* ItemType - Creature */
      , (1342295192, 235,          4) /* AugmentationBonusSalvage */
      , (1342295192, 238,          5) /* AugmentationIncreasedSpellDuration */
      , (1342295192, 244,          2) /* AugmentationResistanceFire */
-     , (1342295192, 261,        761) /* CharacterTitleId */
-     , (1342295192, 281,          1) /* Faction1Bits */
+     , (1342295192, 261,        761) /* CharacterTitleId - BearerofDarkness */
+     , (1342295192, 281,          1) /* Faction1Bits - CelestialHand */
      , (1342295192, 287,       1001) /* SocietyRankCelhan */
      , (1342295192, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1342295192, 295,          1) /* AugmentationInfusedItemMagic */

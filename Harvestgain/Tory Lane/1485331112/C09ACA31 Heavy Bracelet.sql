@@ -19,7 +19,7 @@ VALUES (3231369777,   1,          8) /* ItemType - Jewelry */
      , (3231369777, 110,          0) /* ItemAllegianceRankLimit */
      , (3231369777, 115,          0) /* ItemSkillLevelLimit */
      , (3231369777, 131,         12) /* MaterialType - Amethyst */
-     , (3231369777, 172,          7) /* AppraisalLongDescDecoration */
+     , (3231369777, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3231369777, 177,          3) /* GemCount */
      , (3231369777, 178,         41) /* GemType */;
 

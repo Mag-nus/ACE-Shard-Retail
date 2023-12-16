@@ -35,8 +35,8 @@ VALUES (1342607074,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1342607074, 1, 3499425838, 127, 127, 0.8383332, 1, 0, 0, 0) /* Location */
 /* @teleloc 0xD095002E [127.000000 127.000000 0.838333] 1.000000 0.000000 0.000000 0.000000 */
-     , (1342607074, 8040, 3465871404, 137.5715, 86.58975, 20.005, -0.4886513, 0, 0, -0.8724791) /* PCAPRecordedLocation */
-/* @teleloc 0xCE95002C [137.571500 86.589750 20.005000] -0.488651 0.000000 0.000000 -0.872479 */;
+     , (1342607074, 8040, 3465871404, 137.57147, 86.58975, 20.005, -0.4886513, 0, -0, -0.87247914) /* PCAPRecordedLocation */
+/* @teleloc 0xCE95002C [137.571472 86.589752 20.004999] -0.488651 0.000000 -0.000000 -0.872479 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342607074,  26, 1342607074) /* Monarch */

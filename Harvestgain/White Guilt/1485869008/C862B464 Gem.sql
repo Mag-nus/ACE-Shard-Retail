@@ -20,7 +20,7 @@ VALUES (3361911908,   1,       2048) /* ItemType - Gem */
      , (3361911908, 115,          0) /* ItemSkillLevelLimit */
      , (3361911908, 117,         75) /* ItemManaCost */
      , (3361911908, 131,         18) /* MaterialType - Carnelian */
-     , (3361911908, 172,          1) /* AppraisalLongDescDecoration */
+     , (3361911908, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (3361911908, 9015,         10) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

@@ -19,7 +19,7 @@ VALUES (1343256129,   1, True ) /* Stuck */
      , (1343256129,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343256129,  39, 1.10000002384186) /* DefaultScale */;
+VALUES (1343256129,  39, 1.100000023841858) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343256129,   1, 'Keoki Al-Maya') /* Name */;
@@ -36,10 +36,10 @@ VALUES (1343256129,   1,   33561069) /* Setup */
      , (1343256129, 8005,     104579) /* PCAPRecordedPhysicsDesc - CSetup, MTable, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343256129, 1, 2847146026, 135.5835, 34.19534, 94.0055, 0.6394796, 0, 0, -0.7688081) /* Location */
-/* @teleloc 0xA9B4002A [135.583500 34.195340 94.005500] 0.639480 0.000000 0.000000 -0.768808 */
-     , (1343256129, 8040, 2847146026, 139.3392, 32.59074, 94.0055, 0.2640561, 0, 0, -0.9645073) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B4002A [139.339200 32.590740 94.005500] 0.264056 0.000000 0.000000 -0.964507 */;
+VALUES (1343256129, 1, 2847146026, 135.5835, 34.195335, 94.0055, 0.63947964, 0, 0, -0.76880807) /* Location */
+/* @teleloc 0xA9B4002A [135.583496 34.195335 94.005501] 0.639480 0.000000 0.000000 -0.768808 */
+     , (1343256129, 8040, 2847146026, 139.33923, 32.590744, 94.0055, 0.26405606, 0, 0, -0.96450734) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B4002A [139.339233 32.590744 94.005501] 0.264056 0.000000 0.000000 -0.964507 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343256129, 8000, 1343256129) /* PCAPRecordedObjectIID */;

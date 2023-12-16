@@ -13,7 +13,7 @@ VALUES (3710969444,   1,        256) /* ItemType - MissileWeapon */
      , (3710969444,  48,         47) /* WeaponSkill - MissileWeapons */
      , (3710969444,  49,         21) /* WeaponTime */
      , (3710969444,  50,          4) /* AmmoType - Atlatl */
-     , (3710969444,  51,          2) /* CombatUse - Missle */
+     , (3710969444,  51,          2) /* CombatUse - Missile */
      , (3710969444,  65,        101) /* Placement - Resting */
      , (3710969444,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3710969444, 105,          7) /* ItemWorkmanship */
@@ -28,8 +28,8 @@ VALUES (3710969444,   1,        256) /* ItemType - MissileWeapon */
      , (3710969444, 158,          2) /* WieldRequirements - RawSkill */
      , (3710969444, 159,         47) /* WieldSkillType - MissileWeapons */
      , (3710969444, 160,        315) /* WieldDifficulty */
-     , (3710969444, 172,          7) /* AppraisalLongDescDecoration */
-     , (3710969444, 176,         47) /* AppraisalItemSkill */
+     , (3710969444, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (3710969444, 176,         47) /* AppraisalItemSkill - MissileWeapons */
      , (3710969444, 177,          2) /* GemCount */
      , (3710969444, 178,         20) /* GemType */
      , (3710969444, 188,          4) /* HeritageGroup - Viamontian */

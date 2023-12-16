@@ -21,7 +21,7 @@ VALUES (2156004728,   1,      32768) /* ItemType - Caster */
      , (2156004728, 131,         38) /* MaterialType - Ruby */
      , (2156004728, 151,          2) /* HookType - Wall */
      , (2156004728, 171,          2) /* NumTimesTinkered */
-     , (2156004728, 172,          7) /* AppraisalLongDescDecoration */
+     , (2156004728, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2156004728, 177,          5) /* GemCount */
      , (2156004728, 178,         29) /* GemType */
      , (2156004728, 9015,          9) /* InventoryOrder */;

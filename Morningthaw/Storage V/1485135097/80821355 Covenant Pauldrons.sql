@@ -24,8 +24,8 @@ VALUES (2156008277,   1,          2) /* ItemType - Armor */
      , (2156008277, 158,          2) /* WieldRequirements - RawSkill */
      , (2156008277, 159,          6) /* WieldSkillType - MeleeDefense */
      , (2156008277, 160,        400) /* WieldDifficulty */
-     , (2156008277, 172,          3) /* AppraisalLongDescDecoration */
-     , (2156008277, 176,          6) /* AppraisalItemSkill */
+     , (2156008277, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (2156008277, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (2156008277, 188,          2) /* HeritageGroup - Gharundim */
      , (2156008277, 9015,         28) /* InventoryOrder */;
 

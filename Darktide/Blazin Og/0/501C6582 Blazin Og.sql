@@ -14,7 +14,7 @@ VALUES (1344038274,   1,         16) /* ItemType - Creature */
      , (1344038274, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1344038274, 134,          4) /* PlayerKillerStatus - PK */
      , (1344038274, 188,          2) /* HeritageGroup - Gharundim */
-     , (1344038274, 261,        141) /* CharacterTitleId */
+     , (1344038274, 261,        141) /* CharacterTitleId - ThrungusReaper */
      , (1344038274, 390,          0) /* Enlightenment */
      , (1344038274, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
@@ -51,10 +51,10 @@ VALUES (1344038274,   1,   33554433) /* Setup */
      , (1344038274, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1344038274, 1, 3370713131, 134.6564, 58.76403, 0.004999995, 0.5804884, 0, 0, 0.8142685) /* Location */
-/* @teleloc 0xC8E9002B [134.656400 58.764030 0.005000] 0.580488 0.000000 0.000000 0.814269 */
-     , (1344038274, 8040, 3482648630, 144.9585, 133.6685, 20.005, 0.7844423, 0, 0, -0.6202018) /* PCAPRecordedLocation */
-/* @teleloc 0xCF950036 [144.958500 133.668500 20.005000] 0.784442 0.000000 0.000000 -0.620202 */;
+VALUES (1344038274, 1, 3370713131, 134.65642, 58.76403, 0.004999995, 0.5804884, 0, 0, 0.8142685) /* Location */
+/* @teleloc 0xC8E9002B [134.656418 58.764030 0.005000] 0.580488 0.000000 0.000000 0.814269 */
+     , (1344038274, 8040, 3482648630, 144.95845, 133.66849, 20.005, 0.7844423, 0, 0, -0.62020177) /* PCAPRecordedLocation */
+/* @teleloc 0xCF950036 [144.958450 133.668488 20.004999] 0.784442 0.000000 0.000000 -0.620202 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1344038274,  26, 1344015960) /* Monarch */

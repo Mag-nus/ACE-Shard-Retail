@@ -15,7 +15,7 @@ VALUES (2313923044,   1,        256) /* ItemType - MissileWeapon */
      , (2313923044,  48,         47) /* WeaponSkill - MissileWeapons */
      , (2313923044,  49,          1) /* WeaponTime */
      , (2313923044,  50,          1) /* AmmoType - Arrow */
-     , (2313923044,  51,          2) /* CombatUse - Missle */
+     , (2313923044,  51,          2) /* CombatUse - Missile */
      , (2313923044,  65,        101) /* Placement - Resting */
      , (2313923044,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2313923044, 114,          0) /* Attuned - Normal */
@@ -25,7 +25,7 @@ VALUES (2313923044,   1,        256) /* ItemType - MissileWeapon */
      , (2313923044, 160,        360) /* WieldDifficulty */
      , (2313923044, 166,         22) /* SlayerCreatureType - Shadow */
      , (2313923044, 204,         12) /* ElementalDamageBonus */
-     , (2313923044, 265,        138) /* EquipmentSetId - UNKNOWN_138 */
+     , (2313923044, 265,        138) /* EquipmentSetId - ParagonMissile */
      , (2313923044, 319,          2) /* ItemMaxLevel */
      , (2313923044, 320,          1) /* ItemXpStyle - Fixed */
      , (2313923044, 353,          8) /* WeaponType - Bow */

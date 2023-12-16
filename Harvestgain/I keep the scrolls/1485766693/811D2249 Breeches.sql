@@ -20,7 +20,7 @@ VALUES (2166170185,   1,          4) /* ItemType - Clothing */
      , (2166170185, 110,          0) /* ItemAllegianceRankLimit */
      , (2166170185, 115,          0) /* ItemSkillLevelLimit */
      , (2166170185, 131,          6) /* MaterialType - Silk */
-     , (2166170185, 172,          3) /* AppraisalLongDescDecoration */
+     , (2166170185, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2166170185, 188,          3) /* HeritageGroup - Sho */
      , (2166170185, 9015,         35) /* InventoryOrder */;
 

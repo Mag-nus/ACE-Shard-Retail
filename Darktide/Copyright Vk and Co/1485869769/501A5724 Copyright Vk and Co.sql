@@ -34,7 +34,7 @@ VALUES (1343903524,   1,         16) /* ItemType - Creature */
      , (1343903524, 234,          1) /* AugmentationBonusXp */
      , (1343903524, 236,          1) /* AugmentationBonusImbueChance */
      , (1343903524, 238,          5) /* AugmentationIncreasedSpellDuration */
-     , (1343903524, 261,        767) /* CharacterTitleId */
+     , (1343903524, 261,        767) /* CharacterTitleId - NotableCitizen */
      , (1343903524, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1343903524, 295,          1) /* AugmentationInfusedItemMagic */
      , (1343903524, 296,          1) /* AugmentationInfusedLifeMagic */

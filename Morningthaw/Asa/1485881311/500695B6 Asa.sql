@@ -25,7 +25,7 @@ VALUES (1342608822,   1,         16) /* ItemType - Creature */
      , (1342608822, 139,        108) /* DeathLevel */
      , (1342608822, 188,          2) /* HeritageGroup - Gharundim */
      , (1342608822, 199, 1158551826) /* HousePurchaseTimestamp */
-     , (1342608822, 261,         29) /* CharacterTitleId */
+     , (1342608822, 261,         29) /* CharacterTitleId - BugButcher */
      , (1342608822, 307,          0) /* DamageRating */
      , (1342608822, 308,          0) /* DamageResistRating */
      , (1342608822, 312,          0) /* HealOverTime */

@@ -14,7 +14,7 @@ VALUES (1343152161,   1,         16) /* ItemType - Creature */
      , (1343152161, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343152161, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343152161, 188,          1) /* HeritageGroup - Aluvian */
-     , (1343152161, 261,         12) /* CharacterTitleId */
+     , (1343152161, 261,         12) /* CharacterTitleId - Swashbuckler */
      , (1343152161, 307,          5) /* DamageRating */
      , (1343152161, 390,          0) /* Enlightenment */
      , (1343152161, 8007,          0) /* PCAPRecordedAutonomousMovement */;
@@ -51,9 +51,9 @@ VALUES (1343152161,   1,   33554433) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343152161, 1, 23855549, 48.32107, -39.71711, 0.004999995, 0.2988688, 0, 0, -0.9542942) /* Location */
-/* @teleloc 0x016C01BD [48.321070 -39.717110 0.005000] 0.298869 0.000000 0.000000 -0.954294 */
+/* @teleloc 0x016C01BD [48.321072 -39.717110 0.005000] 0.298869 0.000000 0.000000 -0.954294 */
      , (1343152161, 8040, 23855549, 48.32107, -39.71711, 0.004999995, 0.2988688, 0, 0, -0.9542942) /* PCAPRecordedLocation */
-/* @teleloc 0x016C01BD [48.321070 -39.717110 0.005000] 0.298869 0.000000 0.000000 -0.954294 */;
+/* @teleloc 0x016C01BD [48.321072 -39.717110 0.005000] 0.298869 0.000000 0.000000 -0.954294 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343152161,  26, 1342287919) /* Monarch */

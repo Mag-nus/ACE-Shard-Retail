@@ -28,7 +28,7 @@ VALUES (3710297032,   1,          1) /* ItemType - MeleeWeapon */
      , (3710297032, 158,          2) /* WieldRequirements - RawSkill */
      , (3710297032, 159,         44) /* WieldSkillType - HeavyWeapons */
      , (3710297032, 160,        250) /* WieldDifficulty */
-     , (3710297032, 176,         44) /* AppraisalItemSkill */
+     , (3710297032, 176,         44) /* AppraisalItemSkill - HeavyWeapons */
      , (3710297032, 188,          3) /* HeritageGroup - Sho */
      , (3710297032, 353,          2) /* WeaponType - Sword */
      , (3710297032, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */

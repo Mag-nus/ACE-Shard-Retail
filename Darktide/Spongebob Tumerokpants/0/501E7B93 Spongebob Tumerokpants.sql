@@ -12,7 +12,7 @@ VALUES (1344174995,   1,         16) /* ItemType - Creature */
      , (1344174995, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1344174995, 134,          4) /* PlayerKillerStatus - PK */
      , (1344174995, 188,          7) /* HeritageGroup - Tumerok */
-     , (1344174995, 261,          1) /* CharacterTitleId */
+     , (1344174995, 261,          1) /* CharacterTitleId - Adventurer */
      , (1344174995, 390,          0) /* Enlightenment */
      , (1344174995, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
@@ -25,7 +25,7 @@ VALUES (1344174995,   1, True ) /* Stuck */
      , (1344174995,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1344174995,  39, 1.10000002384186) /* DefaultScale */;
+VALUES (1344174995,  39, 1.100000023841858) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1344174995,   1, 'Spongebob Tumerokpants') /* Name */;
@@ -48,10 +48,10 @@ VALUES (1344174995,   1,   33561114) /* Setup */
      , (1344174995, 8005,     104643) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1344174995, 1, 2847080472, 49.18018, 172.3871, 93.37266, 0.9381697, 0, 0, 0.3461758) /* Location */
-/* @teleloc 0xA9B30018 [49.180180 172.387100 93.372660] 0.938170 0.000000 0.000000 0.346176 */
-     , (1344174995, 8040, 2847080480, 79.9091, 188.5892, 94.28974, 0.5940908, 0, 0, -0.8043979) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B30020 [79.909100 188.589200 94.289740] 0.594091 0.000000 0.000000 -0.804398 */;
+VALUES (1344174995, 1, 2847080472, 49.180183, 172.38715, 93.37266, 0.93816966, 0, 0, 0.34617585) /* Location */
+/* @teleloc 0xA9B30018 [49.180183 172.387146 93.372658] 0.938170 0.000000 0.000000 0.346176 */
+     , (1344174995, 8040, 2847080480, 79.9091, 188.58917, 94.28974, 0.5940908, 0, 0, -0.80439794) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B30020 [79.909103 188.589172 94.289742] 0.594091 0.000000 0.000000 -0.804398 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1344174995, 8000, 1344174995) /* PCAPRecordedObjectIID */;

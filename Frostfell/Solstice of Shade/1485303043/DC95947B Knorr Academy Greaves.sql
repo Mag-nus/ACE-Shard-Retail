@@ -25,7 +25,7 @@ VALUES (3700790395,   1,          2) /* ItemType - Armor */
      , (3700790395, 159,          1) /* WieldSkillType - Axe */
      , (3700790395, 160,        180) /* WieldDifficulty */
      , (3700790395, 171,         10) /* NumTimesTinkered */
-     , (3700790395, 172,          1) /* AppraisalLongDescDecoration */
+     , (3700790395, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (3700790395, 265,         16) /* EquipmentSetId - Defenders */
      , (3700790395, 379,          1) /* GearMaxHealth */;
 

@@ -21,7 +21,7 @@ VALUES (2164419467,   1,          2) /* ItemType - Armor */
      , (2164419467, 115,          0) /* ItemSkillLevelLimit */
      , (2164419467, 131,         60) /* MaterialType - Gold */
      , (2164419467, 151,          2) /* HookType - Wall */
-     , (2164419467, 172,          7) /* AppraisalLongDescDecoration */
+     , (2164419467, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2164419467, 177,          7) /* GemCount */
      , (2164419467, 178,         21) /* GemType */
      , (2164419467, 188,          1) /* HeritageGroup - Aluvian */

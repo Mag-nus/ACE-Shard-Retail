@@ -25,7 +25,7 @@ VALUES (2149233573,   1,      32768) /* ItemType - Caster */
      , (2149233573, 159,         34) /* WieldSkillType - WarMagic */
      , (2149233573, 160,        310) /* WieldDifficulty */
      , (2149233573, 171,          4) /* NumTimesTinkered */
-     , (2149233573, 172,          7) /* AppraisalLongDescDecoration */
+     , (2149233573, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2149233573, 177,          4) /* GemCount */
      , (2149233573, 178,         21) /* GemType */
      , (2149233573, 188,          4) /* HeritageGroup - Viamontian */

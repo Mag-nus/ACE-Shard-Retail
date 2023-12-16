@@ -22,7 +22,7 @@ VALUES (2369590633,   1,      32768) /* ItemType - Caster */
      , (2369590633, 131,         63) /* MaterialType - Silver */
      , (2369590633, 151,          2) /* HookType - Wall */
      , (2369590633, 171,         10) /* NumTimesTinkered */
-     , (2369590633, 172,          7) /* AppraisalLongDescDecoration */
+     , (2369590633, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2369590633, 177,          2) /* GemCount */
      , (2369590633, 178,         16) /* GemType */;
 

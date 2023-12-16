@@ -29,7 +29,7 @@ VALUES (1342814975,   1,         16) /* ItemType - Creature */
      , (1342814975, 231,          3) /* AugmentationLessDeathItemLoss */
      , (1342814975, 232,          1) /* AugmentationSpellsRemainPastDeath */
      , (1342814975, 233,          1) /* AugmentationCriticalDefense */
-     , (1342814975, 261,         85) /* CharacterTitleId */
+     , (1342814975, 261,         85) /* CharacterTitleId - LifeAdept */
      , (1342814975, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1342814975, 295,          1) /* AugmentationInfusedItemMagic */
      , (1342814975, 296,          1) /* AugmentationInfusedLifeMagic */

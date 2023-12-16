@@ -26,7 +26,7 @@ VALUES (1343556164,   1,         16) /* ItemType - Creature */
      , (1343556164, 188,          3) /* HeritageGroup - Sho */
      , (1343556164, 192,          0) /* FakeFishingSkill */
      , (1343556164, 199, 1119662180) /* HousePurchaseTimestamp */
-     , (1343556164, 261,         57) /* CharacterTitleId */
+     , (1343556164, 261,         57) /* CharacterTitleId - GaerlanSlayer */
      , (1343556164, 307,          0) /* DamageRating */
      , (1343556164, 308,          0) /* DamageResistRating */
      , (1343556164, 312,          0) /* HealOverTime */

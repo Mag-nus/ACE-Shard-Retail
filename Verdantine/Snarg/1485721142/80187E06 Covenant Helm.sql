@@ -25,7 +25,7 @@ VALUES (2149088774,   1,          2) /* ItemType - Armor */
      , (2149088774, 158,          2) /* WieldRequirements - RawSkill */
      , (2149088774, 159,         15) /* WieldSkillType - MagicDefense */
      , (2149088774, 160,        300) /* WieldDifficulty */
-     , (2149088774, 172,          5) /* AppraisalLongDescDecoration */
+     , (2149088774, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2149088774, 177,          1) /* GemCount */
      , (2149088774, 178,         22) /* GemType */
      , (2149088774, 9015,          7) /* InventoryOrder */;

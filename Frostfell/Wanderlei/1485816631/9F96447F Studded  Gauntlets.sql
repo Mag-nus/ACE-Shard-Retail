@@ -23,7 +23,7 @@ VALUES (2677425279,   1,          2) /* ItemType - Armor */
      , (2677425279, 158,          7) /* WieldRequirements - Level */
      , (2677425279, 159,          1) /* WieldSkillType - Axe */
      , (2677425279, 160,        180) /* WieldDifficulty */
-     , (2677425279, 172,          5) /* AppraisalLongDescDecoration */
+     , (2677425279, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2677425279, 177,          2) /* GemCount */
      , (2677425279, 178,         21) /* GemType */
      , (2677425279, 265,         18) /* EquipmentSetId - Crafters */

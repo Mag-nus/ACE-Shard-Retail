@@ -20,7 +20,7 @@ VALUES (2166199589,   1,      32768) /* ItemType - Caster */
      , (2166199589, 115,          0) /* ItemSkillLevelLimit */
      , (2166199589, 131,         60) /* MaterialType - Gold */
      , (2166199589, 151,          2) /* HookType - Wall */
-     , (2166199589, 172,          7) /* AppraisalLongDescDecoration */
+     , (2166199589, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2166199589, 177,          6) /* GemCount */
      , (2166199589, 178,         21) /* GemType */
      , (2166199589, 188,          2) /* HeritageGroup - Gharundim */

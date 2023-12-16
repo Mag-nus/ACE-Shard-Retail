@@ -20,8 +20,8 @@ VALUES (2149207447,   1,          2) /* ItemType - Armor */
      , (2149207447, 110,          0) /* ItemAllegianceRankLimit */
      , (2149207447, 115,        201) /* ItemSkillLevelLimit */
      , (2149207447, 131,         64) /* MaterialType - Steel */
-     , (2149207447, 172,          3) /* AppraisalLongDescDecoration */
-     , (2149207447, 176,          6) /* AppraisalItemSkill */
+     , (2149207447, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (2149207447, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (2149207447, 188,          1) /* HeritageGroup - Aluvian */
      , (2149207447, 9015,         11) /* InventoryOrder */;
 

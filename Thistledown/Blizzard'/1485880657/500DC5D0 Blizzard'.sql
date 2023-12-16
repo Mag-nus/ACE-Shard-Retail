@@ -28,8 +28,8 @@ VALUES (1343079888,   1,         16) /* ItemType - Creature */
      , (1343079888, 231,          3) /* AugmentationLessDeathItemLoss */
      , (1343079888, 232,          1) /* AugmentationSpellsRemainPastDeath */
      , (1343079888, 233,          1) /* AugmentationCriticalDefense */
-     , (1343079888, 261,         31) /* CharacterTitleId */
-     , (1343079888, 281,          2) /* Faction1Bits */
+     , (1343079888, 261,         31) /* CharacterTitleId - BunnyMaster */
+     , (1343079888, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1343079888, 288,        915) /* SocietyRankEldweb */
      , (1343079888, 295,          1) /* AugmentationInfusedItemMagic */
      , (1343079888, 300,          1) /* AugmentationSkilledMelee */

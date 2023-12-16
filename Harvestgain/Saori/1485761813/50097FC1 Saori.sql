@@ -28,7 +28,7 @@ VALUES (1342799809,   1,         16) /* ItemType - Creature */
      , (1342799809, 199, 1446483795) /* HousePurchaseTimestamp */
      , (1342799809, 230,          1) /* AugmentationIncreasedCarryingCapacity */
      , (1342799809, 238,          2) /* AugmentationIncreasedSpellDuration */
-     , (1342799809, 261,        131) /* CharacterTitleId */
+     , (1342799809, 261,        131) /* CharacterTitleId - Slicer */
      , (1342799809, 307,          5) /* DamageRating */
      , (1342799809, 308,          0) /* DamageResistRating */
      , (1342799809, 312,          0) /* HealOverTime */

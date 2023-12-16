@@ -19,7 +19,7 @@ VALUES (2624395200,   1,          1) /* ItemType - MeleeWeapon */
      , (2624395200, 105,          7) /* ItemWorkmanship */
      , (2624395200, 131,         74) /* MaterialType - Mahogany */
      , (2624395200, 151,          2) /* HookType - Wall */
-     , (2624395200, 172,          7) /* AppraisalLongDescDecoration */
+     , (2624395200, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2624395200, 177,          6) /* GemCount */
      , (2624395200, 178,         23) /* GemType */
      , (2624395200, 353,          4) /* WeaponType - Mace */

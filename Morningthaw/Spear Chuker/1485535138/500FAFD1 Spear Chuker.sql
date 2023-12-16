@@ -21,7 +21,7 @@ VALUES (1343205329,   1,         16) /* ItemType - Creature */
      , (1343205329, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343205329, 188,          7) /* HeritageGroup - Tumerok */
      , (1343205329, 199, 1274235194) /* HousePurchaseTimestamp */
-     , (1343205329, 261,          1) /* CharacterTitleId */
+     , (1343205329, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343205329, 299,          1) /* AugmentationCriticalPower */
      , (1343205329, 307,          0) /* DamageRating */
      , (1343205329, 308,          0) /* DamageResistRating */

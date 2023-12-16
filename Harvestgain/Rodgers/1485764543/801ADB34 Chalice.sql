@@ -12,7 +12,7 @@ VALUES (2149243700,   1,        256) /* ItemType - MissileWeapon */
      , (2149243700,  45,          4) /* DamageType - Bludgeon */
      , (2149243700,  48,         47) /* WeaponSkill - MissileWeapons */
      , (2149243700,  49,         10) /* WeaponTime */
-     , (2149243700,  51,          2) /* CombatUse - Missle */
+     , (2149243700,  51,          2) /* CombatUse - Missile */
      , (2149243700,  65,        101) /* Placement - Resting */
      , (2149243700,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (2149243700, 105,          9) /* ItemWorkmanship */
@@ -24,7 +24,7 @@ VALUES (2149243700,   1,        256) /* ItemType - MissileWeapon */
      , (2149243700, 115,          0) /* ItemSkillLevelLimit */
      , (2149243700, 131,         38) /* MaterialType - Ruby */
      , (2149243700, 151,          1) /* HookType - Floor */
-     , (2149243700, 172,          7) /* AppraisalLongDescDecoration */
+     , (2149243700, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2149243700, 177,          8) /* GemCount */
      , (2149243700, 178,         38) /* GemType */
      , (2149243700, 353,         10) /* WeaponType - Thrown */
@@ -41,7 +41,7 @@ VALUES (2149243700,   1, False) /* Stuck */
      , (2149243700,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2149243700,   5, -0.0555555555555556) /* ManaRate */
+VALUES (2149243700,   5, -0.05555555555555555) /* ManaRate */
      , (2149243700,  21,       0) /* WeaponLength */
      , (2149243700,  22,    0.25) /* DamageVariance */
      , (2149243700,  26,       0) /* MaximumVelocity */

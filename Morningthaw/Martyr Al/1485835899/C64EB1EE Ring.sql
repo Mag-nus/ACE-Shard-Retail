@@ -18,7 +18,7 @@ VALUES (3327046126,   1,          8) /* ItemType - Jewelry */
      , (3327046126, 110,          0) /* ItemAllegianceRankLimit */
      , (3327046126, 115,          0) /* ItemSkillLevelLimit */
      , (3327046126, 131,         62) /* MaterialType - Pyreal */
-     , (3327046126, 172,          7) /* AppraisalLongDescDecoration */
+     , (3327046126, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3327046126, 177,          1) /* GemCount */
      , (3327046126, 178,         20) /* GemType */
      , (3327046126, 188,          1) /* HeritageGroup - Aluvian */

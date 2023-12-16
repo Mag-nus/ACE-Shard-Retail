@@ -20,7 +20,7 @@ VALUES (2156004286,   1,          8) /* ItemType - Jewelry */
      , (2156004286, 115,          0) /* ItemSkillLevelLimit */
      , (2156004286, 131,         16) /* MaterialType - BlackOpal */
      , (2156004286, 171,          1) /* NumTimesTinkered */
-     , (2156004286, 172,          7) /* AppraisalLongDescDecoration */
+     , (2156004286, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2156004286, 177,          1) /* GemCount */
      , (2156004286, 178,         47) /* GemType */
      , (2156004286, 179,       8192) /* ImbuedEffect - Spellbook */;

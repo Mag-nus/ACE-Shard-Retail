@@ -13,7 +13,7 @@ VALUES (3710969326,   1,        256) /* ItemType - MissileWeapon */
      , (3710969326,  45,          4) /* DamageType - Bludgeon */
      , (3710969326,  48,         47) /* WeaponSkill - MissileWeapons */
      , (3710969326,  49,         10) /* WeaponTime */
-     , (3710969326,  51,          2) /* CombatUse - Missle */
+     , (3710969326,  51,          2) /* CombatUse - Missile */
      , (3710969326,  65,        101) /* Placement - Resting */
      , (3710969326,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (3710969326, 151,         11) /* HookType - Floor, Wall, Yard */

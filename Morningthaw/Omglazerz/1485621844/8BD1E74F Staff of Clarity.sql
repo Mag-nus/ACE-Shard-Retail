@@ -21,8 +21,8 @@ VALUES (2345789263,   1,      32768) /* ItemType - Caster */
      , (2345789263, 158,          7) /* WieldRequirements - Level */
      , (2345789263, 159,          1) /* WieldSkillType - Axe */
      , (2345789263, 160,        120) /* WieldDifficulty */
-     , (2345789263, 176,         16) /* AppraisalItemSkill */
-     , (2345789263, 263,          4) /* ResistanceModifierType */
+     , (2345789263, 176,         16) /* AppraisalItemSkill - ManaConversion */
+     , (2345789263, 263,          4) /* ResistanceModifierType - Bludgeon */
      , (2345789263, 265,         10) /* EquipmentSetId - ArmMindHeart */
      , (2345789263, 9015,         32) /* InventoryOrder */;
 

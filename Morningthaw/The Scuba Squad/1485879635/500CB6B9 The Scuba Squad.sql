@@ -27,7 +27,7 @@ VALUES (1343010489,   1,         16) /* ItemType - Creature */
      , (1343010489, 188,          2) /* HeritageGroup - Gharundim */
      , (1343010489, 192,          2) /* FakeFishingSkill */
      , (1343010489, 199, 1485525299) /* HousePurchaseTimestamp */
-     , (1343010489, 261,         35) /* CharacterTitleId */
+     , (1343010489, 261,         35) /* CharacterTitleId - ChampionofSanamar */
      , (1343010489, 307,          5) /* DamageRating */
      , (1343010489, 308,          0) /* DamageResistRating */
      , (1343010489, 312,          0) /* HealOverTime */

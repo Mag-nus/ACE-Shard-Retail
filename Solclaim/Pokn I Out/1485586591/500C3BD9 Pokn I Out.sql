@@ -28,8 +28,8 @@ VALUES (1342979033,   1,         16) /* ItemType - Creature */
      , (1342979033, 231,          2) /* AugmentationLessDeathItemLoss */
      , (1342979033, 233,          1) /* AugmentationCriticalDefense */
      , (1342979033, 238,          3) /* AugmentationIncreasedSpellDuration */
-     , (1342979033, 261,        442) /* CharacterTitleId */
-     , (1342979033, 281,          2) /* Faction1Bits */
+     , (1342979033, 261,        442) /* CharacterTitleId - Reanimator */
+     , (1342979033, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1342979033, 288,          1) /* SocietyRankEldweb */
      , (1342979033, 307,          5) /* DamageRating */
      , (1342979033, 308,          0) /* DamageResistRating */

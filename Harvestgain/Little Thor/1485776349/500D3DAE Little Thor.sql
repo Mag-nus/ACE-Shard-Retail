@@ -43,7 +43,7 @@ VALUES (1343045038,   1,         16) /* ItemType - Creature */
      , (1343045038, 238,          5) /* AugmentationIncreasedSpellDuration */
      , (1343045038, 243,          1) /* AugmentationResistanceAcid */
      , (1343045038, 246,          1) /* AugmentationResistanceLightning */
-     , (1343045038, 261,         56) /* CharacterTitleId */
+     , (1343045038, 261,         56) /* CharacterTitleId - FriendofSilyun */
      , (1343045038, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1343045038, 295,          1) /* AugmentationInfusedItemMagic */
      , (1343045038, 296,          1) /* AugmentationInfusedLifeMagic */

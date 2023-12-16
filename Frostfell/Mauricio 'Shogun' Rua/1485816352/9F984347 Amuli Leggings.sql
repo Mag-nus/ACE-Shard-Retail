@@ -25,7 +25,7 @@ VALUES (2677556039,   1,          2) /* ItemType - Armor */
      , (2677556039, 159,          1) /* WieldSkillType - Axe */
      , (2677556039, 160,        180) /* WieldDifficulty */
      , (2677556039, 171,         10) /* NumTimesTinkered */
-     , (2677556039, 172,          3) /* AppraisalLongDescDecoration */
+     , (2677556039, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2677556039, 188,          3) /* HeritageGroup - Sho */
      , (2677556039, 265,         20) /* EquipmentSetId - Dexterous */;
 

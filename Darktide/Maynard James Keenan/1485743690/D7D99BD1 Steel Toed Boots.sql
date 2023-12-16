@@ -13,7 +13,7 @@ VALUES (3621362641,   1,          2) /* ItemType - Armor */
      , (3621362641,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3621362641, 105,          8) /* ItemWorkmanship */
      , (3621362641, 131,         52) /* MaterialType - Leather */
-     , (3621362641, 172,          7) /* AppraisalLongDescDecoration */
+     , (3621362641, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3621362641, 177,          2) /* GemCount */
      , (3621362641, 178,         34) /* GemType */
      , (3621362641, 9015,          3) /* InventoryOrder */;

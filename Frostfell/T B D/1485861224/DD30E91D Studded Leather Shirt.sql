@@ -23,8 +23,8 @@ VALUES (3710970141,   1,          2) /* ItemType - Armor */
      , (3710970141, 158,          7) /* WieldRequirements - Level */
      , (3710970141, 159,          1) /* WieldSkillType - Axe */
      , (3710970141, 160,        150) /* WieldDifficulty */
-     , (3710970141, 172,          5) /* AppraisalLongDescDecoration */
-     , (3710970141, 176,          6) /* AppraisalItemSkill */
+     , (3710970141, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
+     , (3710970141, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (3710970141, 177,          4) /* GemCount */
      , (3710970141, 178,         22) /* GemType */
      , (3710970141, 265,         22) /* EquipmentSetId - Swift */

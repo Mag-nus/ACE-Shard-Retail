@@ -19,7 +19,7 @@ VALUES (1343416659,   1, True ) /* Stuck */
      , (1343416659,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343416659,  39, 1.10000002384186) /* DefaultScale */;
+VALUES (1343416659,  39, 1.100000023841858) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343416659,   1, 'Virtual Burrito') /* Name */;
@@ -36,10 +36,10 @@ VALUES (1343416659,   1,   33561069) /* Setup */
      , (1343416659, 8005,     104643) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343416659, 1, 2975662116, 96.31956, 90.14555, 36.0055, -0.4517235, 0, 0, -0.892158) /* Location */
-/* @teleloc 0xB15D0024 [96.319560 90.145550 36.005500] -0.451724 0.000000 0.000000 -0.892158 */
-     , (1343416659, 8040, 2975662116, 96.31956, 90.14555, 36.0055, -0.4517235, 0, 0, -0.892158) /* PCAPRecordedLocation */
-/* @teleloc 0xB15D0024 [96.319560 90.145550 36.005500] -0.451724 0.000000 0.000000 -0.892158 */;
+VALUES (1343416659, 1, 2975662116, 96.319565, 90.14555, 36.005497, -0.45172355, 0, 0, -0.892158) /* Location */
+/* @teleloc 0xB15D0024 [96.319565 90.145554 36.005497] -0.451724 0.000000 0.000000 -0.892158 */
+     , (1343416659, 8040, 2975662116, 96.319565, 90.14555, 36.005497, -0.45172355, 0, -0, -0.892158) /* PCAPRecordedLocation */
+/* @teleloc 0xB15D0024 [96.319565 90.145554 36.005497] -0.451724 0.000000 -0.000000 -0.892158 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343416659,  26, 1343400912) /* Monarch */

@@ -24,7 +24,7 @@ VALUES (1343357115,   1,         16) /* ItemType - Creature */
      , (1343357115, 139,         27) /* DeathLevel */
      , (1343357115, 188,          1) /* HeritageGroup - Aluvian */
      , (1343357115, 199, 1479371036) /* HousePurchaseTimestamp */
-     , (1343357115, 261,         12) /* CharacterTitleId */
+     , (1343357115, 261,         12) /* CharacterTitleId - Swashbuckler */
      , (1343357115, 307,          0) /* DamageRating */
      , (1343357115, 308,          0) /* DamageResistRating */
      , (1343357115, 312,          0) /* HealOverTime */

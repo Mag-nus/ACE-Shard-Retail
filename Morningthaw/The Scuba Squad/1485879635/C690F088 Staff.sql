@@ -22,7 +22,7 @@ VALUES (3331387528,   1,      32768) /* ItemType - Caster */
      , (3331387528, 131,         51) /* MaterialType - Ivory */
      , (3331387528, 151,          2) /* HookType - Wall */
      , (3331387528, 171,          4) /* NumTimesTinkered */
-     , (3331387528, 172,          7) /* AppraisalLongDescDecoration */
+     , (3331387528, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3331387528, 177,          4) /* GemCount */
      , (3331387528, 178,         34) /* GemType */
      , (3331387528, 179,         16) /* ImbuedEffect - PierceRending */;

@@ -25,7 +25,7 @@ VALUES (1342791712,   1,         16) /* ItemType - Creature */
      , (1342791712, 139,         42) /* DeathLevel */
      , (1342791712, 188,          1) /* HeritageGroup - Aluvian */
      , (1342791712, 199,          0) /* HousePurchaseTimestamp */
-     , (1342791712, 261,         86) /* CharacterTitleId */
+     , (1342791712, 261,         86) /* CharacterTitleId - Lightbringer */
      , (1342791712, 307,          0) /* DamageRating */
      , (1342791712, 308,          0) /* DamageResistRating */
      , (1342791712, 312,          0) /* HealOverTime */

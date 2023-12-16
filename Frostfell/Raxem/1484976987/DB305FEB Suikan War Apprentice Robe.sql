@@ -18,7 +18,7 @@ VALUES (3677380587,   1,          4) /* ItemType - Clothing */
      , (3677380587, 108,        250) /* ItemMaxMana */
      , (3677380587, 109,         20) /* ItemDifficulty */
      , (3677380587, 115,         70) /* ItemSkillLevelLimit */
-     , (3677380587, 176,         34) /* AppraisalItemSkill */
+     , (3677380587, 176,         34) /* AppraisalItemSkill - WarMagic */
      , (3677380587, 188,          3) /* HeritageGroup - Sho */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

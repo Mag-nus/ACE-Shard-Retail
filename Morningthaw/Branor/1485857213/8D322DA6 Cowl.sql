@@ -21,7 +21,7 @@ VALUES (2368875942,   1,          4) /* ItemType - Clothing */
      , (2368875942, 115,          0) /* ItemSkillLevelLimit */
      , (2368875942, 131,          7) /* MaterialType - Velvet */
      , (2368875942, 151,          2) /* HookType - Wall */
-     , (2368875942, 172,          3) /* AppraisalLongDescDecoration */
+     , (2368875942, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2368875942, 188,          1) /* HeritageGroup - Aluvian */
      , (2368875942, 9015,          8) /* InventoryOrder */;
 

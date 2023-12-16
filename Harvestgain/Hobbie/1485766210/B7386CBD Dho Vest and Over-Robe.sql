@@ -21,8 +21,8 @@ VALUES (3073928381,   1,          2) /* ItemType - Armor */
      , (3073928381, 110,          0) /* ItemAllegianceRankLimit */
      , (3073928381, 115,        160) /* ItemSkillLevelLimit */
      , (3073928381, 131,         55) /* MaterialType - ReedSharkHide */
-     , (3073928381, 172,          5) /* AppraisalLongDescDecoration */
-     , (3073928381, 176,          7) /* AppraisalItemSkill */
+     , (3073928381, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
+     , (3073928381, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (3073928381, 177,          1) /* GemCount */
      , (3073928381, 178,         23) /* GemType */;
 

@@ -26,7 +26,7 @@ VALUES (1342918388,   1,         16) /* ItemType - Creature */
      , (1342918388, 139,         42) /* DeathLevel */
      , (1342918388, 188,          3) /* HeritageGroup - Sho */
      , (1342918388, 199, 1416114418) /* HousePurchaseTimestamp */
-     , (1342918388, 261,         57) /* CharacterTitleId */
+     , (1342918388, 261,         57) /* CharacterTitleId - GaerlanSlayer */
      , (1342918388, 307,          5) /* DamageRating */
      , (1342918388, 308,          0) /* DamageResistRating */
      , (1342918388, 312,          0) /* HealOverTime */

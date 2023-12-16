@@ -18,7 +18,7 @@ VALUES (2868913218,   1,          1) /* ItemType - MeleeWeapon */
      , (2868913218, 105,          5) /* ItemWorkmanship */
      , (2868913218, 131,         51) /* MaterialType - Ivory */
      , (2868913218, 151,          2) /* HookType - Wall */
-     , (2868913218, 172,          3) /* AppraisalLongDescDecoration */
+     , (2868913218, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2868913218, 353,          6) /* WeaponType - Dagger */
      , (2868913218, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (2868913218, 9015,         21) /* InventoryOrder */;

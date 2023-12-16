@@ -27,7 +27,7 @@ VALUES (1342641273,   1,         16) /* ItemType - Creature */
      , (1342641273, 188,          1) /* HeritageGroup - Aluvian */
      , (1342641273, 192,          6) /* FakeFishingSkill */
      , (1342641273, 199, 1403396263) /* HousePurchaseTimestamp */
-     , (1342641273, 261,         49) /* CharacterTitleId */
+     , (1342641273, 261,         49) /* CharacterTitleId - Evoker */
      , (1342641273, 307,          5) /* DamageRating */
      , (1342641273, 308,          0) /* DamageResistRating */
      , (1342641273, 312,          0) /* HealOverTime */

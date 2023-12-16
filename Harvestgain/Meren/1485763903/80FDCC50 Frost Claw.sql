@@ -29,8 +29,8 @@ VALUES (2164116560,   1,          1) /* ItemType - MeleeWeapon */
      , (2164116560, 159,         45) /* WieldSkillType - LightWeapons */
      , (2164116560, 160,        350) /* WieldDifficulty */
      , (2164116560, 171,          2) /* NumTimesTinkered */
-     , (2164116560, 172,          3) /* AppraisalLongDescDecoration */
-     , (2164116560, 176,         45) /* AppraisalItemSkill */
+     , (2164116560, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (2164116560, 176,         45) /* AppraisalItemSkill - LightWeapons */
      , (2164116560, 179,        128) /* ImbuedEffect - ColdRending */
      , (2164116560, 353,          1) /* WeaponType - Unarmed */
      , (2164116560, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */

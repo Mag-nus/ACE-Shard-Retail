@@ -22,7 +22,7 @@ VALUES (2248037869,   1,          2) /* ItemType - Armor */
      , (2248037869, 158,          7) /* WieldRequirements - Level */
      , (2248037869, 159,          1) /* WieldSkillType - Axe */
      , (2248037869, 160,         50) /* WieldDifficulty */
-     , (2248037869, 176,         24) /* AppraisalItemSkill */;
+     , (2248037869, 176,         24) /* AppraisalItemSkill - Run */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (2248037869,   1, False) /* Stuck */
@@ -34,7 +34,7 @@ VALUES (2248037869,   1, False) /* Stuck */
      , (2248037869, 100, True ) /* Dyable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2248037869,   5, -0.0500000007450581) /* ManaRate */
+VALUES (2248037869,   5, -0.05000000074505806) /* ManaRate */
      , (2248037869,  13,     1.5) /* ArmorModVsSlash */
      , (2248037869,  14,     1.5) /* ArmorModVsPierce */
      , (2248037869,  15,     1.5) /* ArmorModVsBludgeon */

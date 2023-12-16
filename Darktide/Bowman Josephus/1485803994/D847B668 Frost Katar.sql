@@ -28,8 +28,8 @@ VALUES (3628578408,   1,          1) /* ItemType - MeleeWeapon */
      , (3628578408, 158,          2) /* WieldRequirements - RawSkill */
      , (3628578408, 159,         45) /* WieldSkillType - LightWeapons */
      , (3628578408, 160,        300) /* WieldDifficulty */
-     , (3628578408, 172,          5) /* AppraisalLongDescDecoration */
-     , (3628578408, 176,         45) /* AppraisalItemSkill */
+     , (3628578408, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
+     , (3628578408, 176,         45) /* AppraisalItemSkill - LightWeapons */
      , (3628578408, 177,          2) /* GemCount */
      , (3628578408, 178,         16) /* GemType */
      , (3628578408, 353,          1) /* WeaponType - Unarmed */

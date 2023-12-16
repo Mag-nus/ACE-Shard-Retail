@@ -26,7 +26,7 @@ VALUES (1343045349,   1,         16) /* ItemType - Creature */
      , (1343045349, 188,          1) /* HeritageGroup - Aluvian */
      , (1343045349, 199, 1446483827) /* HousePurchaseTimestamp */
      , (1343045349, 222,          1) /* AugmentationInnateFocus */
-     , (1343045349, 261,         29) /* CharacterTitleId */
+     , (1343045349, 261,         29) /* CharacterTitleId - BugButcher */
      , (1343045349, 307,          5) /* DamageRating */
      , (1343045349, 308,          0) /* DamageResistRating */
      , (1343045349, 312,          0) /* HealOverTime */

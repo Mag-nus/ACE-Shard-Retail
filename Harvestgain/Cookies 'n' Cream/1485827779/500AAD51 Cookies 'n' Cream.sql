@@ -30,8 +30,8 @@ VALUES (1342877009,   1,         16) /* ItemType - Creature */
      , (1342877009, 230,          2) /* AugmentationIncreasedCarryingCapacity */
      , (1342877009, 231,          3) /* AugmentationLessDeathItemLoss */
      , (1342877009, 238,          5) /* AugmentationIncreasedSpellDuration */
-     , (1342877009, 261,        646) /* CharacterTitleId */
-     , (1342877009, 281,          1) /* Faction1Bits */
+     , (1342877009, 261,        646) /* CharacterTitleId - DerethsElite */
+     , (1342877009, 281,          1) /* Faction1Bits - CelestialHand */
      , (1342877009, 287,         20) /* SocietyRankCelhan */
      , (1342877009, 307,          0) /* DamageRating */
      , (1342877009, 308,          0) /* DamageResistRating */

@@ -33,10 +33,10 @@ VALUES (1343493357,   1,   33554433) /* Setup */
      , (1343493357, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343493357, 1, 3829202961, 48.04947, 8.046304, 69.905, -0.8834588, 0, 0, 0.4685088) /* Location */
-/* @teleloc 0xE43D0011 [48.049470 8.046304 69.905000] -0.883459 0.000000 0.000000 0.468509 */
-     , (1343493357, 8040, 3829203206, 63.99931, 6.519285, 69.905, 0.7864939, 0, 0, 0.617598) /* PCAPRecordedLocation */
-/* @teleloc 0xE43D0106 [63.999310 6.519285 69.905000] 0.786494 0.000000 0.000000 0.617598 */;
+VALUES (1343493357, 1, 3829202961, 48.04947, 8.046304, 69.905, -0.8834588, 0, 0, 0.46850884) /* Location */
+/* @teleloc 0xE43D0011 [48.049469 8.046304 69.904999] -0.883459 0.000000 0.000000 0.468509 */
+     , (1343493357, 8040, 3829203206, 63.999306, 6.519285, 69.905, 0.7864939, 0, 0, 0.617598) /* PCAPRecordedLocation */
+/* @teleloc 0xE43D0106 [63.999306 6.519285 69.904999] 0.786494 0.000000 0.000000 0.617598 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343493357, 8000, 1343493357) /* PCAPRecordedObjectIID */;

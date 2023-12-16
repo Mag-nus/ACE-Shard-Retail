@@ -19,9 +19,9 @@ VALUES (1343219244,   1, True ) /* Stuck */
      , (1343219244,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343219244, 8010, 2.96629667282104) /* PCAPRecordedVelocityX */
-     , (1343219244, 8011, 11.1475238800049) /* PCAPRecordedVelocityY */
-     , (1343219244, 8012, -13.083966255188) /* PCAPRecordedVelocityZ */;
+VALUES (1343219244, 8010, 2.966296672821045) /* PCAPRecordedVelocityX */
+     , (1343219244, 8011, 11.147523880004883) /* PCAPRecordedVelocityY */
+     , (1343219244, 8012, -13.083966255187988) /* PCAPRecordedVelocityZ */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343219244,   1, 'Gnarshralped') /* Name */;
@@ -38,10 +38,10 @@ VALUES (1343219244,   1,   33560943) /* Setup */
      , (1343219244, 8005,     104519) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Velocity, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343219244, 1, 3206086692, 114.853, 87.1415, 88.005, -0.0345636, 0, 0, -0.999403) /* Location */
-/* @teleloc 0xBF190024 [114.853000 87.141500 88.005000] -0.034564 0.000000 0.000000 -0.999403 */
-     , (1343219244, 8040, 1925775401, 133.9768, 0.1889954, 158.2211, 0.9915575, 0, 0, -0.129668) /* PCAPRecordedLocation */
-/* @teleloc 0x72C90029 [133.976800 0.188995 158.221100] 0.991558 0.000000 0.000000 -0.129668 */;
+VALUES (1343219244, 1, 3206086692, 114.853, 87.1415, 88.005005, -0.0345636, 0, 0, -0.999403) /* Location */
+/* @teleloc 0xBF190024 [114.852997 87.141502 88.005005] -0.034564 0.000000 0.000000 -0.999403 */
+     , (1343219244, 8040, 1925775401, 133.9768, 0.18899536, 158.22113, 0.9915575, 0, 0, -0.129668) /* PCAPRecordedLocation */
+/* @teleloc 0x72C90029 [133.976807 0.188995 158.221130] 0.991557 0.000000 0.000000 -0.129668 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343219244,  26, 1342378704) /* Monarch */

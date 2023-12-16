@@ -15,7 +15,7 @@ VALUES (1343091553,   1,         16) /* ItemType - Creature */
      , (1343091553, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343091553, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343091553, 188,          4) /* HeritageGroup - Viamontian */
-     , (1343091553, 261,         60) /* CharacterTitleId */
+     , (1343091553, 261,         60) /* CharacterTitleId - GlendenWoodMilitia */
      , (1343091553, 307,          5) /* DamageRating */
      , (1343091553, 390,          0) /* Enlightenment */
      , (1343091553, 8007,          0) /* PCAPRecordedAutonomousMovement */;
@@ -53,10 +53,10 @@ VALUES (1343091553,   1,   33554510) /* Setup */
      , (1343091553, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343091553, 1, 23855549, 54.75591, -38.42592, 0.004999995, 0.1071237, 0, 0, -0.9942457) /* Location */
-/* @teleloc 0x016C01BD [54.755910 -38.425920 0.005000] 0.107124 0.000000 0.000000 -0.994246 */
-     , (1343091553, 8040, 23855549, 47.24763, -38.15386, 0.004999995, 0.8725501, 0, 0, -0.4885246) /* PCAPRecordedLocation */
-/* @teleloc 0x016C01BD [47.247630 -38.153860 0.005000] 0.872550 0.000000 0.000000 -0.488525 */;
+VALUES (1343091553, 1, 23855549, 54.755913, -38.42592, 0.004999995, 0.10712373, 0, 0, -0.9942457) /* Location */
+/* @teleloc 0x016C01BD [54.755913 -38.425919 0.005000] 0.107124 0.000000 0.000000 -0.994246 */
+     , (1343091553, 8040, 23855549, 47.24763, -38.15386, 0.004999995, 0.8725501, 0, 0, -0.48852465) /* PCAPRecordedLocation */
+/* @teleloc 0x016C01BD [47.247631 -38.153858 0.005000] 0.872550 0.000000 0.000000 -0.488525 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343091553,  26, 1342595878) /* Monarch */

@@ -8,7 +8,7 @@ VALUES (3708731214,   1,        256) /* ItemType - MissileWeapon */
      , (3708731214,  16,          1) /* ItemUseable - No */
      , (3708731214,  18,          1) /* UiEffects - Magical */
      , (3708731214,  19,      19633) /* Value */
-     , (3708731214,  51,          2) /* CombatUse - Missle */
+     , (3708731214,  51,          2) /* CombatUse - Missile */
      , (3708731214,  65,        101) /* Placement - Resting */
      , (3708731214,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (3708731214, 131,         34) /* MaterialType - Peridot */

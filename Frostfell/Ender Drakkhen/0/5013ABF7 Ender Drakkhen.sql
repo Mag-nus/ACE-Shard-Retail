@@ -14,7 +14,7 @@ VALUES (1343466487,   1,         16) /* ItemType - Creature */
      , (1343466487, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343466487, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343466487, 188,          9) /* HeritageGroup - Empyrean */
-     , (1343466487, 261,         13) /* CharacterTitleId */
+     , (1343466487, 261,         13) /* CharacterTitleId - WarMage */
      , (1343466487, 307,         14) /* DamageRating */
      , (1343466487, 308,          3) /* DamageResistRating */
      , (1343466487, 390,          0) /* Enlightenment */
@@ -29,7 +29,7 @@ VALUES (1343466487,   1, True ) /* Stuck */
      , (1343466487,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343466487,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1343466487,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343466487,   1, 'Ender Drakkhen') /* Name */
@@ -55,10 +55,10 @@ VALUES (1343466487,   1,   33561110) /* Setup */
      , (1343466487, 8005,     104643) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343466487, 1, 459092, 81.04209, -40.21436, 0.005999982, 0.8016785, 0, 0, -0.5977554) /* Location */
-/* @teleloc 0x00070154 [81.042090 -40.214360 0.006000] 0.801679 0.000000 0.000000 -0.597755 */
+VALUES (1343466487, 1, 459092, 81.04209, -40.21436, 0.0059999824, 0.8016785, 0, 0, -0.59775543) /* Location */
+/* @teleloc 0x00070154 [81.042091 -40.214359 0.006000] 0.801678 0.000000 0.000000 -0.597755 */
      , (1343466487, 8040, 3332964380, 73.2128, 91.57737, 42.006, 0.7097966, 0, 0, -0.7044067) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001C [73.212800 91.577370 42.006000] 0.709797 0.000000 0.000000 -0.704407 */;
+/* @teleloc 0xC6A9001C [73.212799 91.577370 42.006001] 0.709797 0.000000 0.000000 -0.704407 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343466487,  26, 1342806416) /* Monarch */

@@ -24,7 +24,7 @@ VALUES (3711105441,   1,          2) /* ItemType - Armor */
      , (3711105441, 158,          7) /* WieldRequirements - Level */
      , (3711105441, 159,          1) /* WieldSkillType - Axe */
      , (3711105441, 160,        150) /* WieldDifficulty */
-     , (3711105441, 172,          7) /* AppraisalLongDescDecoration */
+     , (3711105441, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3711105441, 177,          3) /* GemCount */
      , (3711105441, 178,         38) /* GemType */
      , (3711105441, 188,          3) /* HeritageGroup - Sho */

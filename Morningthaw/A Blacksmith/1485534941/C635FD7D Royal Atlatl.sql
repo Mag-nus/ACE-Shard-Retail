@@ -10,7 +10,7 @@ VALUES (3325427069,   1,        256) /* ItemType - MissileWeapon */
      , (3325427069,  18,          1) /* UiEffects - Magical */
      , (3325427069,  19,        593) /* Value */
      , (3325427069,  50,          4) /* AmmoType - Atlatl */
-     , (3325427069,  51,          2) /* CombatUse - Missle */
+     , (3325427069,  51,          2) /* CombatUse - Missile */
      , (3325427069,  65,          1) /* Placement - RightHandCombat */
      , (3325427069,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3325427069, 131,         76) /* MaterialType - Pine */

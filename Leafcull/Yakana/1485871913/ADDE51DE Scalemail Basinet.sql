@@ -21,7 +21,7 @@ VALUES (2917028318,   1,          2) /* ItemType - Armor */
      , (2917028318, 115,        128) /* ItemSkillLevelLimit */
      , (2917028318, 131,         60) /* MaterialType - Gold */
      , (2917028318, 151,          2) /* HookType - Wall */
-     , (2917028318, 176,          7) /* AppraisalItemSkill */
+     , (2917028318, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (2917028318, 188,          2) /* HeritageGroup - Gharundim */
      , (2917028318, 9015,         44) /* InventoryOrder */;
 

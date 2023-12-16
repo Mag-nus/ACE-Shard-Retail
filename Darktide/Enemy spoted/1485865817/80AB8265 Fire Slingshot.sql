@@ -9,7 +9,7 @@ VALUES (2158723685,   1,        256) /* ItemType - MissileWeapon */
      , (2158723685,  18,         33) /* UiEffects - Magical, Fire */
      , (2158723685,  19,      15168) /* Value */
      , (2158723685,  50,          4) /* AmmoType - Atlatl */
-     , (2158723685,  51,          2) /* CombatUse - Missle */
+     , (2158723685,  51,          2) /* CombatUse - Missile */
      , (2158723685,  65,        101) /* Placement - Resting */
      , (2158723685,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2158723685, 131,         16) /* MaterialType - BlackOpal */

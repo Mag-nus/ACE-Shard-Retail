@@ -19,7 +19,7 @@ VALUES (1343418683,   1, True ) /* Stuck */
      , (1343418683,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343418683,  39, 1.29999995231628) /* DefaultScale */;
+VALUES (1343418683,  39, 1.2999999523162842) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343418683,   1, 'Toy Chews Puller') /* Name */;
@@ -36,10 +36,10 @@ VALUES (1343418683,   1,   33561112) /* Setup */
      , (1343418683, 8005,     104643) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343418683, 1, 3332964380, 78.7237, 95.45867, 42.0065, 0.5810714, 0, 0, -0.8138525) /* Location */
-/* @teleloc 0xC6A9001C [78.723700 95.458670 42.006500] 0.581071 0.000000 0.000000 -0.813853 */
+VALUES (1343418683, 1, 3332964380, 78.7237, 95.45867, 42.0065, 0.58107144, 0, 0, -0.81385255) /* Location */
+/* @teleloc 0xC6A9001C [78.723701 95.458672 42.006500] 0.581071 0.000000 0.000000 -0.813853 */
      , (1343418683, 8040, 3332964380, 78.7237, 95.45867, 42.0065, 0.5708531, 0, 0, -0.8210522) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001C [78.723700 95.458670 42.006500] 0.570853 0.000000 0.000000 -0.821052 */;
+/* @teleloc 0xC6A9001C [78.723701 95.458672 42.006500] 0.570853 0.000000 0.000000 -0.821052 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343418683,  26, 1343089867) /* Monarch */

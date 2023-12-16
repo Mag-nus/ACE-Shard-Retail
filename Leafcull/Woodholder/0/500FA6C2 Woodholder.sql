@@ -19,7 +19,7 @@ VALUES (1343203010,   1, True ) /* Stuck */
      , (1343203010,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343203010,  39, 1.29999995231628) /* DefaultScale */;
+VALUES (1343203010,  39, 1.2999999523162842) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343203010,   1, 'Woodholder') /* Name */;
@@ -37,7 +37,7 @@ VALUES (1343203010,   1,   33561112) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343203010, 8040, 3332964380, 78.35154, 95.52634, 42.0065, 0.5313558, 0, 0, -0.8471488) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001C [78.351540 95.526340 42.006500] 0.531356 0.000000 0.000000 -0.847149 */;
+/* @teleloc 0xC6A9001C [78.351540 95.526337 42.006500] 0.531356 0.000000 0.000000 -0.847149 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343203010,  26, 1342194852) /* Monarch */

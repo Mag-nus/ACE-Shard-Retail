@@ -18,7 +18,7 @@ VALUES (2369491757,   1,          8) /* ItemType - Jewelry */
      , (2369491757, 110,          0) /* ItemAllegianceRankLimit */
      , (2369491757, 115,          0) /* ItemSkillLevelLimit */
      , (2369491757, 131,         46) /* MaterialType - WhiteQuartz */
-     , (2369491757, 172,          5) /* AppraisalLongDescDecoration */
+     , (2369491757, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2369491757, 177,          1) /* GemCount */
      , (2369491757, 178,         11) /* GemType */
      , (2369491757, 9015,          5) /* InventoryOrder */;

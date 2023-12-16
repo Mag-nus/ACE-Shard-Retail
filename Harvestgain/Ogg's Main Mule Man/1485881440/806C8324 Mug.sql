@@ -7,7 +7,7 @@ VALUES (2154595108,   1,        256) /* ItemType - MissileWeapon */
      , (2154595108,   9,    4194304) /* ValidLocations - MissileWeapon */
      , (2154595108,  16,          1) /* ItemUseable - No */
      , (2154595108,  19,        337) /* Value */
-     , (2154595108,  51,          2) /* CombatUse - Missle */
+     , (2154595108,  51,          2) /* CombatUse - Missile */
      , (2154595108,  65,        101) /* Placement - Resting */
      , (2154595108,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (2154595108, 131,         17) /* MaterialType - Bloodstone */

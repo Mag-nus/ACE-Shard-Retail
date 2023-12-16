@@ -28,8 +28,8 @@ VALUES (2158100554,   1,          1) /* ItemType - MeleeWeapon */
      , (2158100554, 158,          2) /* WieldRequirements - RawSkill */
      , (2158100554, 159,         45) /* WieldSkillType - LightWeapons */
      , (2158100554, 160,        325) /* WieldDifficulty */
-     , (2158100554, 172,          3) /* AppraisalLongDescDecoration */
-     , (2158100554, 176,         45) /* AppraisalItemSkill */
+     , (2158100554, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (2158100554, 176,         45) /* AppraisalItemSkill - LightWeapons */
      , (2158100554, 188,          3) /* HeritageGroup - Sho */
      , (2158100554, 353,          3) /* WeaponType - Axe */
      , (2158100554, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */

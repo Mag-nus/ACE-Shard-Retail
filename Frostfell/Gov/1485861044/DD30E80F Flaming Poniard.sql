@@ -28,8 +28,8 @@ VALUES (3710969871,   1,          1) /* ItemType - MeleeWeapon */
      , (3710969871, 158,          2) /* WieldRequirements - RawSkill */
      , (3710969871, 159,         46) /* WieldSkillType - FinesseWeapons */
      , (3710969871, 160,        420) /* WieldDifficulty */
-     , (3710969871, 172,          7) /* AppraisalLongDescDecoration */
-     , (3710969871, 176,         46) /* AppraisalItemSkill */
+     , (3710969871, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (3710969871, 176,         46) /* AppraisalItemSkill - FinesseWeapons */
      , (3710969871, 177,          1) /* GemCount */
      , (3710969871, 178,         26) /* GemType */
      , (3710969871, 188,          4) /* HeritageGroup - Viamontian */

@@ -34,8 +34,8 @@ VALUES (1342391399,   1,         16) /* ItemType - Creature */
      , (1342391399, 235,          4) /* AugmentationBonusSalvage */
      , (1342391399, 238,          5) /* AugmentationIncreasedSpellDuration */
      , (1342391399, 244,          2) /* AugmentationResistanceFire */
-     , (1342391399, 261,        470) /* CharacterTitleId */
-     , (1342391399, 281,          4) /* Faction1Bits */
+     , (1342391399, 261,        470) /* CharacterTitleId - MasterChampionRingX */
+     , (1342391399, 281,          4) /* Faction1Bits - RadiantBlood */
      , (1342391399, 289,          1) /* SocietyRankRadblo */
      , (1342391399, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1342391399, 295,          1) /* AugmentationInfusedItemMagic */

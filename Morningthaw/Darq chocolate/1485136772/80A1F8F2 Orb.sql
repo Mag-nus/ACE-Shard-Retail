@@ -20,7 +20,7 @@ VALUES (2158098674,   1,      32768) /* ItemType - Caster */
      , (2158098674, 115,          0) /* ItemSkillLevelLimit */
      , (2158098674, 131,         58) /* MaterialType - Bronze */
      , (2158098674, 151,          2) /* HookType - Wall */
-     , (2158098674, 172,          3) /* AppraisalLongDescDecoration */
+     , (2158098674, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2158098674, 188,          3) /* HeritageGroup - Sho */
      , (2158098674, 9015,          6) /* InventoryOrder */;
 

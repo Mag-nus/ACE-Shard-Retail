@@ -14,7 +14,7 @@ VALUES (1343055712,   1,         16) /* ItemType - Creature */
      , (1343055712, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343055712, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343055712, 188,          3) /* HeritageGroup - Sho */
-     , (1343055712, 261,        560) /* CharacterTitleId */
+     , (1343055712, 261,        560) /* CharacterTitleId - WarriorofthePast */
      , (1343055712, 390,          0) /* Enlightenment */
      , (1343055712, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
@@ -51,9 +51,9 @@ VALUES (1343055712,   1,   33554433) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343055712, 1, 3563520045, 121.483, 101.412, 52, -0.999908, 0, 0, 0.0135857) /* Location */
-/* @teleloc 0xD467002D [121.483000 101.412000 52.000000] -0.999908 0.000000 0.000000 0.013586 */
-     , (1343055712, 8040, 3863871542, 152.257, 140.9642, 19.12818, -0.7983268, 0, 0, -0.6022244) /* PCAPRecordedLocation */
-/* @teleloc 0xE64E0036 [152.257000 140.964200 19.128180] -0.798327 0.000000 0.000000 -0.602224 */;
+/* @teleloc 0xD467002D [121.483002 101.412003 52.000000] -0.999908 0.000000 0.000000 0.013586 */
+     , (1343055712, 8040, 3863871542, 152.25697, 140.96417, 19.128176, -0.79832685, 0, -0, -0.6022244) /* PCAPRecordedLocation */
+/* @teleloc 0xE64E0036 [152.256973 140.964172 19.128176] -0.798327 0.000000 -0.000000 -0.602224 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343055712,  26, 1343025072) /* Monarch */

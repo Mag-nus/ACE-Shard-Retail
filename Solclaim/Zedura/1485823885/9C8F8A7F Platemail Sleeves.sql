@@ -23,8 +23,8 @@ VALUES (2626652799,   1,          2) /* ItemType - Armor */
      , (2626652799, 158,          7) /* WieldRequirements - Level */
      , (2626652799, 159,          1) /* WieldSkillType - Axe */
      , (2626652799, 160,        180) /* WieldDifficulty */
-     , (2626652799, 172,          1) /* AppraisalLongDescDecoration */
-     , (2626652799, 176,          6) /* AppraisalItemSkill */
+     , (2626652799, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (2626652799, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (2626652799, 265,         21) /* EquipmentSetId - Wise */
      , (2626652799, 9015,         11) /* InventoryOrder */;
 

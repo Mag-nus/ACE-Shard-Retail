@@ -19,7 +19,7 @@ VALUES (1343222469,   1, True ) /* Stuck */
      , (1343222469,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343222469,  39, 1.10000002384186) /* DefaultScale */;
+VALUES (1343222469,  39, 1.100000023841858) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343222469,   1, 'Hurtin'' for a Squirtin') /* Name */;
@@ -36,8 +36,8 @@ VALUES (1343222469,   1,   33561114) /* Setup */
      , (1343222469, 8005,     104643) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343222469, 8040, 3332964381, 91.94518, 100.2085, 47.94123, -0.7004609, 0, 0, -0.7136908) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001D [91.945180 100.208500 47.941230] -0.700461 0.000000 0.000000 -0.713691 */;
+VALUES (1343222469, 8040, 3332964381, 91.945175, 100.20846, 47.94123, -0.7004609, 0, -0, -0.71369076) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A9001D [91.945175 100.208458 47.941231] -0.700461 0.000000 -0.000000 -0.713691 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343222469,  26, 1342595878) /* Monarch */

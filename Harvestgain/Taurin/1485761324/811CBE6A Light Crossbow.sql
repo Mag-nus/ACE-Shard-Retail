@@ -13,7 +13,7 @@ VALUES (2166144618,   1,        256) /* ItemType - MissileWeapon */
      , (2166144618,  48,         47) /* WeaponSkill - MissileWeapons */
      , (2166144618,  49,         49) /* WeaponTime */
      , (2166144618,  50,          2) /* AmmoType - Bolt */
-     , (2166144618,  51,          2) /* CombatUse - Missle */
+     , (2166144618,  51,          2) /* CombatUse - Missile */
      , (2166144618,  65,        101) /* Placement - Resting */
      , (2166144618,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2166144618, 105,          3) /* ItemWorkmanship */
@@ -28,8 +28,8 @@ VALUES (2166144618,   1,        256) /* ItemType - MissileWeapon */
      , (2166144618, 158,          2) /* WieldRequirements - RawSkill */
      , (2166144618, 159,         47) /* WieldSkillType - MissileWeapons */
      , (2166144618, 160,        290) /* WieldDifficulty */
-     , (2166144618, 172,          3) /* AppraisalLongDescDecoration */
-     , (2166144618, 176,         47) /* AppraisalItemSkill */
+     , (2166144618, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (2166144618, 176,         47) /* AppraisalItemSkill - MissileWeapons */
      , (2166144618, 188,          1) /* HeritageGroup - Aluvian */
      , (2166144618, 353,          9) /* WeaponType - Crossbow */
      , (2166144618, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */

@@ -19,7 +19,7 @@ VALUES (1343247650,   1, True ) /* Stuck */
      , (1343247650,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343247650,  39, 1.29999995231628) /* DefaultScale */;
+VALUES (1343247650,  39, 1.2999999523162842) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343247650,   1, 'Batman Kills Robin') /* Name */;
@@ -36,10 +36,10 @@ VALUES (1343247650,   1,   33561112) /* Setup */
      , (1343247650, 8005,     104643) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343247650, 1, 3332964380, 80.32632, 91.91705, 42.0065, -0.9928323, 0, 0, -0.1195158) /* Location */
-/* @teleloc 0xC6A9001C [80.326320 91.917050 42.006500] -0.992832 0.000000 0.000000 -0.119516 */
-     , (1343247650, 8040, 3332964380, 80.32632, 91.91705, 42.0065, 0.9860431, 0, 0, -0.1664903) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001C [80.326320 91.917050 42.006500] 0.986043 0.000000 0.000000 -0.166490 */;
+VALUES (1343247650, 1, 3332964380, 80.326324, 91.91705, 42.0065, -0.9928323, 0, 0, -0.11951578) /* Location */
+/* @teleloc 0xC6A9001C [80.326324 91.917053 42.006500] -0.992832 0.000000 0.000000 -0.119516 */
+     , (1343247650, 8040, 3332964380, 80.326324, 91.91705, 42.0065, 0.9860431, 0, 0, -0.16649027) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A9001C [80.326324 91.917053 42.006500] 0.986043 0.000000 0.000000 -0.166490 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343247650,  26, 1343177811) /* Monarch */

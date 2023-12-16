@@ -25,7 +25,7 @@ VALUES (2458484849,   1,          2) /* ItemType - Armor */
      , (2458484849, 159,          1) /* WieldSkillType - Axe */
      , (2458484849, 160,        180) /* WieldDifficulty */
      , (2458484849, 171,         10) /* NumTimesTinkered */
-     , (2458484849, 172,          1) /* AppraisalLongDescDecoration */
+     , (2458484849, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (2458484849, 179,       1024) /* ImbuedEffect - MeleeDefense */
      , (2458484849, 265,         16) /* EquipmentSetId - Defenders */
      , (2458484849, 375,          1) /* GearCritDamageResist */

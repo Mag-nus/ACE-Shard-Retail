@@ -14,8 +14,8 @@ VALUES (1342806227,   1,         16) /* ItemType - Creature */
      , (1342806227, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342806227, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342806227, 188,          3) /* HeritageGroup - Sho */
-     , (1342806227, 261,        412) /* CharacterTitleId */
-     , (1342806227, 281,          1) /* Faction1Bits */
+     , (1342806227, 261,        412) /* CharacterTitleId - MasteroftheElements */
+     , (1342806227, 281,          1) /* Faction1Bits - CelestialHand */
      , (1342806227, 287,       1001) /* SocietyRankCelhan */
      , (1342806227, 307,         11) /* DamageRating */
      , (1342806227, 308,         15) /* DamageResistRating */
@@ -59,10 +59,10 @@ VALUES (1342806227,   1,   33554510) /* Setup */
      , (1342806227, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1342806227, 1, 459058, 64.84068, -64.36492, 0.004999995, 0.460874, 0, 0, 0.8874655) /* Location */
-/* @teleloc 0x00070132 [64.840680 -64.364920 0.005000] 0.460874 0.000000 0.000000 0.887466 */
-     , (1342806227, 8040, 459075, 70, -60, 0.004999995, -4.371139E-08, 0, 0, -1) /* PCAPRecordedLocation */
-/* @teleloc 0x00070143 [70.000000 -60.000000 0.005000] 0.000000 0.000000 0.000000 -1.000000 */;
+VALUES (1342806227, 1, 459058, 64.84068, -64.36492, 0.004999995, 0.46087402, 0, 0, 0.88746554) /* Location */
+/* @teleloc 0x00070132 [64.840683 -64.364922 0.005000] 0.460874 0.000000 0.000000 0.887466 */
+     , (1342806227, 8040, 459075, 70, -60, 0.004999995, -4.371139E-08, 0, -0, -1) /* PCAPRecordedLocation */
+/* @teleloc 0x00070143 [70.000000 -60.000000 0.005000] -0.000000 0.000000 -0.000000 -1.000000 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342806227,  26, 1342194852) /* Monarch */

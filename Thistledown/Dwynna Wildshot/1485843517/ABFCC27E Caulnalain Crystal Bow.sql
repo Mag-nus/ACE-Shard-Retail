@@ -9,7 +9,7 @@ VALUES (2885468798,   1,        256) /* ItemType - MissileWeapon */
      , (2885468798,  18,          1) /* UiEffects - Magical */
      , (2885468798,  19,       2000) /* Value */
      , (2885468798,  50,          8) /* AmmoType - ArrowCrystal */
-     , (2885468798,  51,          2) /* CombatUse - Missle */
+     , (2885468798,  51,          2) /* CombatUse - Missile */
      , (2885468798,  65,        101) /* Placement - Resting */
      , (2885468798,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2885468798, 9015,         17) /* InventoryOrder */;

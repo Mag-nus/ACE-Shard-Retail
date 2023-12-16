@@ -23,8 +23,8 @@ VALUES (2676336328,   1,          2) /* ItemType - Armor */
      , (2676336328, 158,          7) /* WieldRequirements - Level */
      , (2676336328, 159,          1) /* WieldSkillType - Axe */
      , (2676336328, 160,        180) /* WieldDifficulty */
-     , (2676336328, 172,          3) /* AppraisalLongDescDecoration */
-     , (2676336328, 176,          7) /* AppraisalItemSkill */
+     , (2676336328, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (2676336328, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (2676336328, 265,         15) /* EquipmentSetId - Archers */
      , (2676336328, 9015,         19) /* InventoryOrder */;
 

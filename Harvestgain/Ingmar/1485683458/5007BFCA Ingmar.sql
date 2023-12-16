@@ -33,8 +33,8 @@ VALUES (1342685130,   1,         16) /* ItemType - Creature */
      , (1342685130, 232,          1) /* AugmentationSpellsRemainPastDeath */
      , (1342685130, 234,          1) /* AugmentationBonusXp */
      , (1342685130, 238,          3) /* AugmentationIncreasedSpellDuration */
-     , (1342685130, 261,        580) /* CharacterTitleId */
-     , (1342685130, 281,          1) /* Faction1Bits */
+     , (1342685130, 261,        580) /* CharacterTitleId - MarbleWrangler */
+     , (1342685130, 281,          1) /* Faction1Bits - CelestialHand */
      , (1342685130, 287,       1001) /* SocietyRankCelhan */
      , (1342685130, 295,          1) /* AugmentationInfusedItemMagic */
      , (1342685130, 298,          1) /* AugmentationCriticalExpertise */

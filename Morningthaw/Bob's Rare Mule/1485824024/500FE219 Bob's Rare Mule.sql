@@ -25,7 +25,7 @@ VALUES (1343218201,   1,         16) /* ItemType - Creature */
      , (1343218201, 188,          8) /* HeritageGroup - Lugian */
      , (1343218201, 199, 1446999698) /* HousePurchaseTimestamp */
      , (1343218201, 230,          1) /* AugmentationIncreasedCarryingCapacity */
-     , (1343218201, 261,          1) /* CharacterTitleId */
+     , (1343218201, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343218201, 307,          0) /* DamageRating */
      , (1343218201, 308,          0) /* DamageResistRating */
      , (1343218201, 312,          0) /* HealOverTime */

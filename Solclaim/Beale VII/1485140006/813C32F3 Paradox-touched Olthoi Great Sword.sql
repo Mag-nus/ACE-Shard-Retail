@@ -26,7 +26,7 @@ VALUES (2168206067,   1,          1) /* ItemType - MeleeWeapon */
      , (2168206067, 159,         41) /* WieldSkillType - TwoHandedCombat */
      , (2168206067, 160,        400) /* WieldDifficulty */
      , (2168206067, 166,          1) /* SlayerCreatureType - Olthoi */
-     , (2168206067, 263,          1) /* ResistanceModifierType */
+     , (2168206067, 263,          1) /* ResistanceModifierType - Slash */
      , (2168206067, 292,          2) /* Cleaving */
      , (2168206067, 353,         11) /* WeaponType - TwoHanded */
      , (2168206067, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */

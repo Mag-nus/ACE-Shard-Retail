@@ -23,7 +23,7 @@ VALUES (1342971122,   1,         16) /* ItemType - Creature */
      , (1342971122, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342971122, 139,          4) /* DeathLevel */
      , (1342971122, 188,          3) /* HeritageGroup - Sho */
-     , (1342971122, 261,         30) /* CharacterTitleId */
+     , (1342971122, 261,         30) /* CharacterTitleId - Bugstomper */
      , (1342971122, 307,          0) /* DamageRating */
      , (1342971122, 308,          0) /* DamageResistRating */
      , (1342971122, 312,          0) /* HealOverTime */

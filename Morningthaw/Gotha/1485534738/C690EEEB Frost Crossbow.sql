@@ -9,7 +9,7 @@ VALUES (3331387115,   1,        256) /* ItemType - MissileWeapon */
      , (3331387115,  18,        129) /* UiEffects - Magical, Frost */
      , (3331387115,  19,      22428) /* Value */
      , (3331387115,  50,          2) /* AmmoType - Bolt */
-     , (3331387115,  51,          2) /* CombatUse - Missle */
+     , (3331387115,  51,          2) /* CombatUse - Missile */
      , (3331387115,  65,        101) /* Placement - Resting */
      , (3331387115,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3331387115, 131,         26) /* MaterialType - ImperialTopaz */

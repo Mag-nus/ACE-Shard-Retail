@@ -21,7 +21,7 @@ VALUES (2879204536,   1,      32768) /* ItemType - Caster */
      , (2879204536, 115,          0) /* ItemSkillLevelLimit */
      , (2879204536, 131,         51) /* MaterialType - Ivory */
      , (2879204536, 151,          2) /* HookType - Wall */
-     , (2879204536, 172,          3) /* AppraisalLongDescDecoration */;
+     , (2879204536, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (2879204536,   1, False) /* Stuck */

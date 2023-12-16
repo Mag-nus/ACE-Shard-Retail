@@ -34,8 +34,8 @@ VALUES (1343094282,   1,         16) /* ItemType - Creature */
      , (1343094282, 233,          1) /* AugmentationCriticalDefense */
      , (1343094282, 238,          2) /* AugmentationIncreasedSpellDuration */
      , (1343094282, 243,          1) /* AugmentationResistanceAcid */
-     , (1343094282, 261,        470) /* CharacterTitleId */
-     , (1343094282, 281,          1) /* Faction1Bits */
+     , (1343094282, 261,        470) /* CharacterTitleId - MasterChampionRingX */
+     , (1343094282, 281,          1) /* Faction1Bits - CelestialHand */
      , (1343094282, 287,       1001) /* SocietyRankCelhan */
      , (1343094282, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1343094282, 295,          1) /* AugmentationInfusedItemMagic */

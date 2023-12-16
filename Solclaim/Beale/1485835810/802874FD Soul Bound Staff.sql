@@ -23,8 +23,8 @@ VALUES (2150135037,   1,      32768) /* ItemType - Caster */
      , (2150135037, 159,          1) /* WieldSkillType - Axe */
      , (2150135037, 160,        160) /* WieldDifficulty */
      , (2150135037, 166,         77) /* SlayerCreatureType - Ghost */
-     , (2150135037, 263,          2) /* ResistanceModifierType */
-     , (2150135037, 265,        139) /* EquipmentSetId - UNKNOWN_139 */
+     , (2150135037, 263,          2) /* ResistanceModifierType - Pierce */
+     , (2150135037, 265,        139) /* EquipmentSetId - ParagonCaster */
      , (2150135037, 319,         50) /* ItemMaxLevel */
      , (2150135037, 320,          1) /* ItemXpStyle - Fixed */;
 

@@ -21,7 +21,7 @@ VALUES (2166100829,   1,      32768) /* ItemType - Caster */
      , (2166100829, 131,         60) /* MaterialType - Gold */
      , (2166100829, 151,          2) /* HookType - Wall */
      , (2166100829, 171,          5) /* NumTimesTinkered */
-     , (2166100829, 172,          7) /* AppraisalLongDescDecoration */
+     , (2166100829, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2166100829, 177,          4) /* GemCount */
      , (2166100829, 178,         20) /* GemType */
      , (2166100829, 179,        256) /* ImbuedEffect - ElectricRending */

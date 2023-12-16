@@ -8,7 +8,7 @@ VALUES (2153692116,   1,        256) /* ItemType - MissileWeapon */
      , (2153692116,  16,          1) /* ItemUseable - No */
      , (2153692116,  18,          1) /* UiEffects - Magical */
      , (2153692116,  19,      26111) /* Value */
-     , (2153692116,  51,          2) /* CombatUse - Missle */
+     , (2153692116,  51,          2) /* CombatUse - Missile */
      , (2153692116,  65,        101) /* Placement - Resting */
      , (2153692116,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (2153692116, 131,         20) /* MaterialType - Diamond */

@@ -7,7 +7,7 @@ VALUES (3621362661,   1,        256) /* ItemType - MissileWeapon */
      , (3621362661,   9,    4194304) /* ValidLocations - MissileWeapon */
      , (3621362661,  16,          1) /* ItemUseable - No */
      , (3621362661,  19,      37883) /* Value */
-     , (3621362661,  51,          2) /* CombatUse - Missle */
+     , (3621362661,  51,          2) /* CombatUse - Missile */
      , (3621362661,  65,        101) /* Placement - Resting */
      , (3621362661,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (3621362661, 131,         26) /* MaterialType - ImperialTopaz */

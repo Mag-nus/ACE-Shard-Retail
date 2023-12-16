@@ -13,7 +13,7 @@ VALUES (2891052076,   1,        256) /* ItemType - MissileWeapon */
      , (2891052076,  48,         47) /* WeaponSkill - MissileWeapons */
      , (2891052076,  49,         98) /* WeaponTime */
      , (2891052076,  50,          2) /* AmmoType - Bolt */
-     , (2891052076,  51,          2) /* CombatUse - Missle */
+     , (2891052076,  51,          2) /* CombatUse - Missile */
      , (2891052076,  65,        101) /* Placement - Resting */
      , (2891052076,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2891052076, 105,          8) /* ItemWorkmanship */
@@ -29,8 +29,8 @@ VALUES (2891052076,   1,        256) /* ItemType - MissileWeapon */
      , (2891052076, 159,         47) /* WieldSkillType - MissileWeapons */
      , (2891052076, 160,        385) /* WieldDifficulty */
      , (2891052076, 171,          7) /* NumTimesTinkered */
-     , (2891052076, 172,          5) /* AppraisalLongDescDecoration */
-     , (2891052076, 176,         47) /* AppraisalItemSkill */
+     , (2891052076, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
+     , (2891052076, 176,         47) /* AppraisalItemSkill - MissileWeapons */
      , (2891052076, 177,          4) /* GemCount */
      , (2891052076, 178,         38) /* GemType */
      , (2891052076, 179,        256) /* ImbuedEffect - ElectricRending */
@@ -48,7 +48,7 @@ VALUES (2891052076,   1, False) /* Stuck */
      , (2891052076,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2891052076,   5, -0.0666666666666667) /* ManaRate */
+VALUES (2891052076,   5, -0.06666666666666667) /* ManaRate */
      , (2891052076,  21,       0) /* WeaponLength */
      , (2891052076,  22,       0) /* DamageVariance */
      , (2891052076,  26,    27.3) /* MaximumVelocity */

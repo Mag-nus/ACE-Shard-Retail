@@ -22,7 +22,7 @@ VALUES (2158099936,   1,      32768) /* ItemType - Caster */
      , (2158099936, 131,         59) /* MaterialType - Copper */
      , (2158099936, 151,          2) /* HookType - Wall */
      , (2158099936, 171,          1) /* NumTimesTinkered */
-     , (2158099936, 172,          7) /* AppraisalLongDescDecoration */
+     , (2158099936, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2158099936, 177,          5) /* GemCount */
      , (2158099936, 178,         16) /* GemType */
      , (2158099936, 179,        256) /* ImbuedEffect - ElectricRending */;

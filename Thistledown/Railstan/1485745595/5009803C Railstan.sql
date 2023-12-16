@@ -25,7 +25,7 @@ VALUES (1342799932,   1,         16) /* ItemType - Creature */
      , (1342799932, 139,        109) /* DeathLevel */
      , (1342799932, 188,          1) /* HeritageGroup - Aluvian */
      , (1342799932, 199, 1421501042) /* HousePurchaseTimestamp */
-     , (1342799932, 261,        152) /* CharacterTitleId */
+     , (1342799932, 261,        152) /* CharacterTitleId - Warlock */
      , (1342799932, 307,          0) /* DamageRating */
      , (1342799932, 308,          0) /* DamageResistRating */
      , (1342799932, 312,          0) /* HealOverTime */

@@ -24,7 +24,7 @@ VALUES (1343905155,   1,         16) /* ItemType - Creature */
      , (1343905155, 139,        101) /* DeathLevel */
      , (1343905155, 188,          1) /* HeritageGroup - Aluvian */
      , (1343905155, 199, 1402011270) /* HousePurchaseTimestamp */
-     , (1343905155, 261,        767) /* CharacterTitleId */
+     , (1343905155, 261,        767) /* CharacterTitleId - NotableCitizen */
      , (1343905155, 307,          0) /* DamageRating */
      , (1343905155, 308,          0) /* DamageResistRating */
      , (1343905155, 312,          0) /* HealOverTime */

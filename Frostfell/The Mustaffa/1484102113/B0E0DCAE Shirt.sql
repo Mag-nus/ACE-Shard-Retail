@@ -20,7 +20,7 @@ VALUES (2967526574,   1,          4) /* ItemType - Clothing */
      , (2967526574, 110,          0) /* ItemAllegianceRankLimit */
      , (2967526574, 115,          0) /* ItemSkillLevelLimit */
      , (2967526574, 131,          5) /* MaterialType - Satin */
-     , (2967526574, 172,          7) /* AppraisalLongDescDecoration */
+     , (2967526574, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2967526574, 177,          2) /* GemCount */
      , (2967526574, 178,         21) /* GemType */
      , (2967526574, 188,          1) /* HeritageGroup - Aluvian */

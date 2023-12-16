@@ -17,7 +17,7 @@ VALUES (2976077672,   1,      32768) /* ItemType - Caster */
      , (2976077672, 109,        140) /* ItemDifficulty */
      , (2976077672, 115,        140) /* ItemSkillLevelLimit */
      , (2976077672, 151,          2) /* HookType - Wall */
-     , (2976077672, 176,         16) /* AppraisalItemSkill */
+     , (2976077672, 176,         16) /* AppraisalItemSkill - ManaConversion */
      , (2976077672, 9015,          5) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

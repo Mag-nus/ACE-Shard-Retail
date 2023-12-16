@@ -25,7 +25,7 @@ VALUES (1343012784,   1,         16) /* ItemType - Creature */
      , (1343012784, 139,         49) /* DeathLevel */
      , (1343012784, 188,          3) /* HeritageGroup - Sho */
      , (1343012784, 199, 1217068930) /* HousePurchaseTimestamp */
-     , (1343012784, 261,        126) /* CharacterTitleId */
+     , (1343012784, 261,        126) /* CharacterTitleId - SilverSerf */
      , (1343012784, 307,          0) /* DamageRating */
      , (1343012784, 308,          0) /* DamageResistRating */
      , (1343012784, 312,          0) /* HealOverTime */

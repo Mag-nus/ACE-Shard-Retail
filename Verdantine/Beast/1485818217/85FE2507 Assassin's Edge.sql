@@ -25,7 +25,7 @@ VALUES (2248025351,   1,          1) /* ItemType - MeleeWeapon */
      , (2248025351, 158,          2) /* WieldRequirements - RawSkill */
      , (2248025351, 159,         44) /* WieldSkillType - HeavyWeapons */
      , (2248025351, 160,        370) /* WieldDifficulty */
-     , (2248025351, 176,         44) /* AppraisalItemSkill */
+     , (2248025351, 176,         44) /* AppraisalItemSkill - HeavyWeapons */
      , (2248025351, 353,          6) /* WeaponType - Dagger */
      , (2248025351, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (2248025351, 9015,          1) /* InventoryOrder */;

@@ -23,7 +23,7 @@ VALUES (1343354693,   1,         16) /* ItemType - Creature */
      , (1343354693, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343354693, 139,         57) /* DeathLevel */
      , (1343354693, 188,          1) /* HeritageGroup - Aluvian */
-     , (1343354693, 261,         86) /* CharacterTitleId */
+     , (1343354693, 261,         86) /* CharacterTitleId - Lightbringer */
      , (1343354693, 307,          0) /* DamageRating */
      , (1343354693, 308,          0) /* DamageResistRating */
      , (1343354693, 312,          0) /* HealOverTime */

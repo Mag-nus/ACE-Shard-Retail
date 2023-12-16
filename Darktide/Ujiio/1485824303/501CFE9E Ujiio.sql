@@ -25,7 +25,7 @@ VALUES (1344077470,   1,         16) /* ItemType - Creature */
      , (1344077470, 188,          3) /* HeritageGroup - Sho */
      , (1344077470, 192,          0) /* FakeFishingSkill */
      , (1344077470, 199, 1485045976) /* HousePurchaseTimestamp */
-     , (1344077470, 261,        152) /* CharacterTitleId */
+     , (1344077470, 261,        152) /* CharacterTitleId - Warlock */
      , (1344077470, 307,          0) /* DamageRating */
      , (1344077470, 308,          0) /* DamageResistRating */
      , (1344077470, 312,          0) /* HealOverTime */

@@ -32,7 +32,7 @@ VALUES (1342829312,   1,         16) /* ItemType - Creature */
      , (1342829312, 232,          1) /* AugmentationSpellsRemainPastDeath */
      , (1342829312, 233,          1) /* AugmentationCriticalDefense */
      , (1342829312, 246,          2) /* AugmentationResistanceLightning */
-     , (1342829312, 261,        152) /* CharacterTitleId */
+     , (1342829312, 261,        152) /* CharacterTitleId - Warlock */
      , (1342829312, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1342829312, 298,          1) /* AugmentationCriticalExpertise */
      , (1342829312, 299,          1) /* AugmentationCriticalPower */

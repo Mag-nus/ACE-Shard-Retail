@@ -39,8 +39,8 @@ VALUES (1342807732,   1,         16) /* ItemType - Creature */
      , (1342807732, 238,          5) /* AugmentationIncreasedSpellDuration */
      , (1342807732, 242,          1) /* AugmentationResistanceBlunt */
      , (1342807732, 244,          1) /* AugmentationResistanceFire */
-     , (1342807732, 261,        542) /* CharacterTitleId */
-     , (1342807732, 281,          1) /* Faction1Bits */
+     , (1342807732, 261,        542) /* CharacterTitleId - HarvesterHarvester */
+     , (1342807732, 281,          1) /* Faction1Bits - CelestialHand */
      , (1342807732, 287,       1001) /* SocietyRankCelhan */
      , (1342807732, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1342807732, 295,          1) /* AugmentationInfusedItemMagic */

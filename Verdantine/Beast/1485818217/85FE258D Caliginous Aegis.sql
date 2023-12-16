@@ -20,7 +20,7 @@ VALUES (2248025485,   1,          2) /* ItemType - Armor */
      , (2248025485, 158,          7) /* WieldRequirements - Level */
      , (2248025485, 159,          1) /* WieldSkillType - Axe */
      , (2248025485, 160,        100) /* WieldDifficulty */
-     , (2248025485, 176,          6) /* AppraisalItemSkill */
+     , (2248025485, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (2248025485, 9015,          2) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

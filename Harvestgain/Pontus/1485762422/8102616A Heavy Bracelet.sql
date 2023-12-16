@@ -19,7 +19,7 @@ VALUES (2164416874,   1,          8) /* ItemType - Jewelry */
      , (2164416874, 110,          0) /* ItemAllegianceRankLimit */
      , (2164416874, 115,          0) /* ItemSkillLevelLimit */
      , (2164416874, 131,         38) /* MaterialType - Ruby */
-     , (2164416874, 172,          7) /* AppraisalLongDescDecoration */
+     , (2164416874, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2164416874, 177,          4) /* GemCount */
      , (2164416874, 178,         39) /* GemType */;
 

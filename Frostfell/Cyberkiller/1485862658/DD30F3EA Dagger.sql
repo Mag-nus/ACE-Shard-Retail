@@ -25,7 +25,7 @@ VALUES (3710972906,   1,          1) /* ItemType - MeleeWeapon */
      , (3710972906, 115,        166) /* ItemSkillLevelLimit */
      , (3710972906, 131,         63) /* MaterialType - Silver */
      , (3710972906, 151,          2) /* HookType - Wall */
-     , (3710972906, 176,         46) /* AppraisalItemSkill */
+     , (3710972906, 176,         46) /* AppraisalItemSkill - FinesseWeapons */
      , (3710972906, 353,          6) /* WeaponType - Dagger */
      , (3710972906, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (3710972906, 9015,         23) /* InventoryOrder */;

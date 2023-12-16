@@ -32,7 +32,7 @@ VALUES (1342983694,   1,         16) /* ItemType - Creature */
      , (1342983694, 231,          3) /* AugmentationLessDeathItemLoss */
      , (1342983694, 232,          1) /* AugmentationSpellsRemainPastDeath */
      , (1342983694, 236,          1) /* AugmentationBonusImbueChance */
-     , (1342983694, 261,         18) /* CharacterTitleId */
+     , (1342983694, 261,         18) /* CharacterTitleId - Apothecary */
      , (1342983694, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1342983694, 307,          0) /* DamageRating */
      , (1342983694, 308,          0) /* DamageResistRating */

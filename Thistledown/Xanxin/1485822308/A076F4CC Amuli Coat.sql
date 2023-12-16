@@ -15,7 +15,7 @@ VALUES (2692150476,   1,          2) /* ItemType - Armor */
      , (2692150476, 105,          4) /* ItemWorkmanship */
      , (2692150476, 131,         57) /* MaterialType - Brass */
      , (2692150476, 171,         10) /* NumTimesTinkered */
-     , (2692150476, 172,          5) /* AppraisalLongDescDecoration */
+     , (2692150476, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2692150476, 177,          1) /* GemCount */
      , (2692150476, 178,         34) /* GemType */;
 

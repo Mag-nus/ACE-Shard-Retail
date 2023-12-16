@@ -19,7 +19,7 @@ VALUES (1343334504,   1, True ) /* Stuck */
      , (1343334504,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343334504,  39, 1.14999997615814) /* DefaultScale */;
+VALUES (1343334504,  39, 1.149999976158142) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343334504,   1, 'Crimson Scars') /* Name */;
@@ -36,8 +36,8 @@ VALUES (1343334504,   1,   33561104) /* Setup */
      , (1343334504, 8005,     104643) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343334504, 1, 459092, 84.25697, -40.37193, 0.00575, 0.8583052, 0, 0, -0.5131395) /* Location */
-/* @teleloc 0x00070154 [84.256970 -40.371930 0.005750] 0.858305 0.000000 0.000000 -0.513140 */
+VALUES (1343334504, 1, 459092, 84.25697, -40.371933, 0.0057500005, 0.8583052, 0, 0, -0.51313955) /* Location */
+/* @teleloc 0x00070154 [84.256973 -40.371933 0.005750] 0.858305 0.000000 0.000000 -0.513140 */
      , (1343334504, 8040, 459077, 70, -80, 0.005749941, 1, 0, 0, 0) /* PCAPRecordedLocation */
 /* @teleloc 0x00070145 [70.000000 -80.000000 0.005750] 1.000000 0.000000 0.000000 0.000000 */;
 

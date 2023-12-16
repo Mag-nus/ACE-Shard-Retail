@@ -28,7 +28,7 @@ VALUES (1342909078,   1,         16) /* ItemType - Creature */
      , (1342909078, 188,          1) /* HeritageGroup - Aluvian */
      , (1342909078, 192,        460) /* FakeFishingSkill */
      , (1342909078, 199, 1140859209) /* HousePurchaseTimestamp */
-     , (1342909078, 261,        131) /* CharacterTitleId */
+     , (1342909078, 261,        131) /* CharacterTitleId - Slicer */
      , (1342909078, 307,          5) /* DamageRating */
      , (1342909078, 308,          0) /* DamageResistRating */
      , (1342909078, 312,          0) /* HealOverTime */

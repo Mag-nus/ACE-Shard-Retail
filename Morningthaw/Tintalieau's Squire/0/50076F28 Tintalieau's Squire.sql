@@ -17,9 +17,9 @@ VALUES (1342664488,   1,         16) /* ItemType - Creature */
      , (1342664488, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342664488, 188,          1) /* HeritageGroup - Aluvian */
      , (1342664488, 192,        700) /* FakeFishingSkill */
-     , (1342664488, 261,        456) /* CharacterTitleId */
+     , (1342664488, 261,        456) /* CharacterTitleId - HostileCombatant */
      , (1342664488, 262,         90) /* NumCharacterTitles */
-     , (1342664488, 281,          4) /* Faction1Bits */
+     , (1342664488, 281,          4) /* Faction1Bits - RadiantBlood */
      , (1342664488, 289,       1001) /* SocietyRankRadblo */
      , (1342664488, 307,         45) /* DamageRating */
      , (1342664488, 308,         15) /* DamageResistRating */
@@ -63,10 +63,10 @@ VALUES (1342664488,   1,   33554433) /* Setup */
      , (1342664488, 8005,     104451) /* PCAPRecordedPhysicsDesc - CSetup, MTable, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1342664488, 1, 2847146026, 136.4329, 42.1697, 94.005, 0.1382004, 0, 0, -0.9904043) /* Location */
-/* @teleloc 0xA9B4002A [136.432900 42.169700 94.005000] 0.138200 0.000000 0.000000 -0.990404 */
-     , (1342664488, 8040, 2847146026, 134.464, 38.41111, 94.005, 0.9182523, 0, 0, -0.3959959) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B4002A [134.464000 38.411110 94.005000] 0.918252 0.000000 0.000000 -0.395996 */;
+VALUES (1342664488, 1, 2847146026, 136.4329, 42.169697, 94.005005, 0.13820043, 0, 0, -0.9904043) /* Location */
+/* @teleloc 0xA9B4002A [136.432907 42.169697 94.005005] 0.138200 0.000000 0.000000 -0.990404 */
+     , (1342664488, 8040, 2847146026, 134.464, 38.411106, 94.005005, 0.9182523, 0, 0, -0.3959959) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B4002A [134.464005 38.411106 94.005005] 0.918252 0.000000 0.000000 -0.395996 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342664488,  26, 1342937333) /* Monarch */

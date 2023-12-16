@@ -23,8 +23,8 @@ VALUES (2462559095,   1,          2) /* ItemType - Armor */
      , (2462559095, 158,          7) /* WieldRequirements - Level */
      , (2462559095, 159,          1) /* WieldSkillType - Axe */
      , (2462559095, 160,        180) /* WieldDifficulty */
-     , (2462559095, 172,          1) /* AppraisalLongDescDecoration */
-     , (2462559095, 176,          6) /* AppraisalItemSkill */
+     , (2462559095, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (2462559095, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (2462559095, 265,         22) /* EquipmentSetId - Swift */
      , (2462559095, 9015,          9) /* InventoryOrder */;
 

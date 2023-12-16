@@ -15,8 +15,8 @@ VALUES (1343599524,   1,         16) /* ItemType - Creature */
      , (1343599524, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343599524, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343599524, 188,          3) /* HeritageGroup - Sho */
-     , (1343599524, 261,        580) /* CharacterTitleId */
-     , (1343599524, 281,          2) /* Faction1Bits */
+     , (1343599524, 261,        580) /* CharacterTitleId - MarbleWrangler */
+     , (1343599524, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1343599524, 288,       1001) /* SocietyRankEldweb */
      , (1343599524, 307,         54) /* DamageRating */
      , (1343599524, 308,         23) /* DamageResistRating */
@@ -62,9 +62,9 @@ VALUES (1343599524,   1,   33554433) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343599524, 1, 2399142494, 157.984, -110, 0.01, 0.707107, 0, 0, 0.707107) /* Location */
-/* @teleloc 0x8F00025E [157.984000 -110.000000 0.010000] 0.707107 0.000000 0.000000 0.707107 */
-     , (1343599524, 8040, 3370713139, 161.3863, 50.31384, 0.004999992, -0.390194, 0, 0, -0.9207327) /* PCAPRecordedLocation */
-/* @teleloc 0xC8E90033 [161.386300 50.313840 0.005000] -0.390194 0.000000 0.000000 -0.920733 */;
+/* @teleloc 0x8F00025E [157.983994 -110.000000 0.010000] 0.707107 0.000000 0.000000 0.707107 */
+     , (1343599524, 8040, 3370713139, 161.3863, 50.313843, 0.0049999915, -0.39019403, 0, 0, -0.9207327) /* PCAPRecordedLocation */
+/* @teleloc 0xC8E90033 [161.386307 50.313843 0.005000] -0.390194 0.000000 0.000000 -0.920733 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343599524,  26, 1344159787) /* Monarch */

@@ -17,7 +17,7 @@ VALUES (1342997428,   1,         16) /* ItemType - Creature */
      , (1342997428, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342997428, 188,          2) /* HeritageGroup - Gharundim */
      , (1342997428, 192,        700) /* FakeFishingSkill */
-     , (1342997428, 261,        444) /* CharacterTitleId */
+     , (1342997428, 261,        444) /* CharacterTitleId - UlgrimsDrinkingBuddy */
      , (1342997428, 262,         55) /* NumCharacterTitles */
      , (1342997428, 307,         22) /* DamageRating */
      , (1342997428, 308,          6) /* DamageResistRating */
@@ -60,10 +60,10 @@ VALUES (1342997428,   1,   33554433) /* Setup */
      , (1342997428, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1342997428, 1, 1068761090, 16.82754, 34.27837, 0.004999995, 0.5763764, 0, 0, -0.8171843) /* Location */
-/* @teleloc 0x3FB40002 [16.827540 34.278370 0.005000] 0.576376 0.000000 0.000000 -0.817184 */
-     , (1342997428, 8040, 1068761089, 1.617698, 17.13091, -0.09500003, -0.3073704, 0, 0, -0.9515899) /* PCAPRecordedLocation */
-/* @teleloc 0x3FB40001 [1.617698 17.130910 -0.095000] -0.307370 0.000000 0.000000 -0.951590 */;
+VALUES (1342997428, 1, 1068761090, 16.827543, 34.27837, 0.004999995, 0.5763764, 0, 0, -0.8171843) /* Location */
+/* @teleloc 0x3FB40002 [16.827543 34.278370 0.005000] 0.576376 0.000000 0.000000 -0.817184 */
+     , (1342997428, 8040, 1068761089, 1.6176984, 17.130909, -0.09500003, -0.30737042, 0, -0, -0.95158994) /* PCAPRecordedLocation */
+/* @teleloc 0x3FB40001 [1.617698 17.130909 -0.095000] -0.307370 0.000000 -0.000000 -0.951590 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342997428,  26, 1342200341) /* Monarch */

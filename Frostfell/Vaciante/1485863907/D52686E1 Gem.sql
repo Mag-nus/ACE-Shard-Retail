@@ -12,7 +12,7 @@ VALUES (3576071905,   1,       2048) /* ItemType - Gem */
      , (3576071905,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3576071905, 105,          3) /* ItemWorkmanship */
      , (3576071905, 131,         14) /* MaterialType - Azurite */
-     , (3576071905, 172,          1) /* AppraisalLongDescDecoration */
+     , (3576071905, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (3576071905, 9015,          6) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

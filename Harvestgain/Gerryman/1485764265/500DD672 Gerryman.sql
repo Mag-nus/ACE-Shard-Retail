@@ -22,7 +22,7 @@ VALUES (1343084146,   1,         16) /* ItemType - Creature */
      , (1343084146, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343084146, 188,          4) /* HeritageGroup - Viamontian */
      , (1343084146, 199, 1446483827) /* HousePurchaseTimestamp */
-     , (1343084146, 261,         30) /* CharacterTitleId */
+     , (1343084146, 261,         30) /* CharacterTitleId - Bugstomper */
      , (1343084146, 307,          5) /* DamageRating */
      , (1343084146, 308,          0) /* DamageResistRating */
      , (1343084146, 312,          0) /* HealOverTime */

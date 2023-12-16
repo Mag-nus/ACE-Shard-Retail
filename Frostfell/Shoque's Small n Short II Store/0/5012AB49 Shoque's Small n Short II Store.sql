@@ -19,7 +19,7 @@ VALUES (1343400777,   1, True ) /* Stuck */
      , (1343400777,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343400777,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1343400777,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343400777,   1, 'Shoque''s Small n Short II Store') /* Name */;
@@ -37,9 +37,9 @@ VALUES (1343400777,   1,   33561106) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343400777, 1, 2427060252, 79.7371, 90.6763, 54.006, 0.691702, 0, 0, -0.722183) /* Location */
-/* @teleloc 0x90AA001C [79.737100 90.676300 54.006000] 0.691702 0.000000 0.000000 -0.722183 */
-     , (1343400777, 8040, 3332964380, 79.7011, 92.44645, 42.006, -0.9997541, 0, 0, -0.02217627) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001C [79.701100 92.446450 42.006000] -0.999754 0.000000 0.000000 -0.022176 */;
+/* @teleloc 0x90AA001C [79.737099 90.676300 54.006001] 0.691702 0.000000 0.000000 -0.722183 */
+     , (1343400777, 8040, 3332964380, 79.7011, 92.44645, 42.006, -0.9997541, 0, -0, -0.022176268) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A9001C [79.701103 92.446449 42.006001] -0.999754 0.000000 -0.000000 -0.022176 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343400777,  26, 1343089867) /* Monarch */

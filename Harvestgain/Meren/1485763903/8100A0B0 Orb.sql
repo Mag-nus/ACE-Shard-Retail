@@ -15,7 +15,7 @@ VALUES (2164302000,   1,      32768) /* ItemType - Caster */
      , (2164302000, 131,         20) /* MaterialType - Diamond */
      , (2164302000, 151,          2) /* HookType - Wall */
      , (2164302000, 171,          6) /* NumTimesTinkered */
-     , (2164302000, 172,          7) /* AppraisalLongDescDecoration */
+     , (2164302000, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2164302000, 177,          6) /* GemCount */
      , (2164302000, 178,         39) /* GemType */
      , (2164302000, 179,          2) /* ImbuedEffect - CripplingBlow */;

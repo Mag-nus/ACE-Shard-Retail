@@ -35,7 +35,7 @@ VALUES (1342831127,   1,         16) /* ItemType - Creature */
      , (1342831127, 232,          1) /* AugmentationSpellsRemainPastDeath */
      , (1342831127, 244,          1) /* AugmentationResistanceFire */
      , (1342831127, 246,          1) /* AugmentationResistanceLightning */
-     , (1342831127, 261,         21) /* CharacterTitleId */
+     , (1342831127, 261,         21) /* CharacterTitleId - Artifex */
      , (1342831127, 295,          1) /* AugmentationInfusedItemMagic */
      , (1342831127, 296,          1) /* AugmentationInfusedLifeMagic */
      , (1342831127, 302,          1) /* AugmentationSkilledMagic */

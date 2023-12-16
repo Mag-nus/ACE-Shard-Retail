@@ -26,7 +26,7 @@ VALUES (1342638361,   1,         16) /* ItemType - Creature */
      , (1342638361, 139,        135) /* DeathLevel */
      , (1342638361, 188,          3) /* HeritageGroup - Sho */
      , (1342638361, 199, 1387782652) /* HousePurchaseTimestamp */
-     , (1342638361, 261,        139) /* CharacterTitleId */
+     , (1342638361, 261,        139) /* CharacterTitleId - Swordfighter */
      , (1342638361, 307,          7) /* DamageRating */
      , (1342638361, 308,          0) /* DamageResistRating */
      , (1342638361, 312,          0) /* HealOverTime */

@@ -26,8 +26,8 @@ VALUES (3351525070,   1,          1) /* ItemType - MeleeWeapon */
      , (3351525070, 131,         75) /* MaterialType - Oak */
      , (3351525070, 151,          2) /* HookType - Wall */
      , (3351525070, 171,          6) /* NumTimesTinkered */
-     , (3351525070, 172,          3) /* AppraisalLongDescDecoration */
-     , (3351525070, 176,         45) /* AppraisalItemSkill */
+     , (3351525070, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (3351525070, 176,         45) /* AppraisalItemSkill - LightWeapons */
      , (3351525070, 179,         32) /* ImbuedEffect - BludgeonRending */
      , (3351525070, 188,          4) /* HeritageGroup - Viamontian */
      , (3351525070, 353,          7) /* WeaponType - Staff */

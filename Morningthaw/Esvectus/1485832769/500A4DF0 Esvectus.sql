@@ -24,7 +24,7 @@ VALUES (1342852592,   1,         16) /* ItemType - Creature */
      , (1342852592, 139,         45) /* DeathLevel */
      , (1342852592, 188,          1) /* HeritageGroup - Aluvian */
      , (1342852592, 199, 1384226881) /* HousePurchaseTimestamp */
-     , (1342852592, 261,         40) /* CharacterTitleId */
+     , (1342852592, 261,         40) /* CharacterTitleId - Deadeye */
      , (1342852592, 307,          0) /* DamageRating */
      , (1342852592, 308,          0) /* DamageResistRating */
      , (1342852592, 312,          0) /* HealOverTime */

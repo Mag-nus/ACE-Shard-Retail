@@ -23,8 +23,8 @@ VALUES (3711105339,   1,          2) /* ItemType - Armor */
      , (3711105339, 158,          7) /* WieldRequirements - Level */
      , (3711105339, 159,          1) /* WieldSkillType - Axe */
      , (3711105339, 160,        150) /* WieldDifficulty */
-     , (3711105339, 172,          7) /* AppraisalLongDescDecoration */
-     , (3711105339, 176,          7) /* AppraisalItemSkill */
+     , (3711105339, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (3711105339, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (3711105339, 177,          3) /* GemCount */
      , (3711105339, 178,         21) /* GemType */
      , (3711105339, 188,          2) /* HeritageGroup - Gharundim */

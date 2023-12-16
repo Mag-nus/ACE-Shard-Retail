@@ -25,7 +25,7 @@ VALUES (2485667464,   1,          2) /* ItemType - Armor */
      , (2485667464, 159,          1) /* WieldSkillType - Axe */
      , (2485667464, 160,        180) /* WieldDifficulty */
      , (2485667464, 171,         10) /* NumTimesTinkered */
-     , (2485667464, 172,          1) /* AppraisalLongDescDecoration */
+     , (2485667464, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (2485667464, 265,         20) /* EquipmentSetId - Dexterous */
      , (2485667464, 375,          1) /* GearCritDamageResist */;
 

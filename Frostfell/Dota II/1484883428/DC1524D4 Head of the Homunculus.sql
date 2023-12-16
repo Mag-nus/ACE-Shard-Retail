@@ -22,7 +22,7 @@ VALUES (3692373204,   1,      32768) /* ItemType - Caster */
      , (3692373204, 158,          7) /* WieldRequirements - Level */
      , (3692373204, 159,          1) /* WieldSkillType - Axe */
      , (3692373204, 160,         70) /* WieldDifficulty */
-     , (3692373204, 176,         34) /* AppraisalItemSkill */;
+     , (3692373204, 176,         34) /* AppraisalItemSkill - WarMagic */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (3692373204,   1, False) /* Stuck */

@@ -20,7 +20,7 @@ VALUES (2438257535,   1,      32768) /* ItemType - Caster */
      , (2438257535, 115,          0) /* ItemSkillLevelLimit */
      , (2438257535, 131,         64) /* MaterialType - Steel */
      , (2438257535, 151,          2) /* HookType - Wall */
-     , (2438257535, 172,          7) /* AppraisalLongDescDecoration */
+     , (2438257535, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2438257535, 177,          4) /* GemCount */
      , (2438257535, 178,         23) /* GemType */
      , (2438257535, 188,          4) /* HeritageGroup - Viamontian */

@@ -20,7 +20,7 @@ VALUES (2173456285,   1,          8) /* ItemType - Jewelry */
      , (2173456285, 115,          0) /* ItemSkillLevelLimit */
      , (2173456285, 131,         51) /* MaterialType - Ivory */
      , (2173456285, 171,          3) /* NumTimesTinkered */
-     , (2173456285, 172,          7) /* AppraisalLongDescDecoration */
+     , (2173456285, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2173456285, 177,          1) /* GemCount */
      , (2173456285, 178,         26) /* GemType */
      , (2173456285, 188,          1) /* HeritageGroup - Aluvian */;

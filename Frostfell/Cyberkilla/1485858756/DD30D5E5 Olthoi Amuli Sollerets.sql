@@ -23,8 +23,8 @@ VALUES (3710965221,   1,          2) /* ItemType - Armor */
      , (3710965221, 158,          7) /* WieldRequirements - Level */
      , (3710965221, 159,          1) /* WieldSkillType - Axe */
      , (3710965221, 160,        180) /* WieldDifficulty */
-     , (3710965221, 172,          1) /* AppraisalLongDescDecoration */
-     , (3710965221, 176,          6) /* AppraisalItemSkill */
+     , (3710965221, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (3710965221, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (3710965221, 265,         18) /* EquipmentSetId - Crafters */
      , (3710965221, 374,          1) /* GearCritDamage */
      , (3710965221, 9015,          6) /* InventoryOrder */;

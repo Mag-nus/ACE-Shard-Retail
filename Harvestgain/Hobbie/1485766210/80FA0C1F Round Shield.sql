@@ -22,8 +22,8 @@ VALUES (2163870751,   1,          2) /* ItemType - Armor */
      , (2163870751, 131,         59) /* MaterialType - Copper */
      , (2163870751, 151,          2) /* HookType - Wall */
      , (2163870751, 171,          1) /* NumTimesTinkered */
-     , (2163870751, 172,          7) /* AppraisalLongDescDecoration */
-     , (2163870751, 176,          7) /* AppraisalItemSkill */
+     , (2163870751, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (2163870751, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (2163870751, 177,          3) /* GemCount */
      , (2163870751, 178,         23) /* GemType */
      , (2163870751, 9015,          0) /* InventoryOrder */;

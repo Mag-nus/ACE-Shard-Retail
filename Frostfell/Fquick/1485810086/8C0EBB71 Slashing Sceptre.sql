@@ -25,7 +25,7 @@ VALUES (2349775729,   1,      32768) /* ItemType - Caster */
      , (2349775729, 159,         34) /* WieldSkillType - WarMagic */
      , (2349775729, 160,        375) /* WieldDifficulty */
      , (2349775729, 171,         10) /* NumTimesTinkered */
-     , (2349775729, 172,          5) /* AppraisalLongDescDecoration */
+     , (2349775729, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2349775729, 177,          4) /* GemCount */
      , (2349775729, 178,         21) /* GemType */
      , (2349775729, 179,          8) /* ImbuedEffect - SlashRending */

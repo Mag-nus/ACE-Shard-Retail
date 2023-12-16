@@ -23,7 +23,7 @@ VALUES (1342410232,   1,         16) /* ItemType - Creature */
      , (1342410232, 188,          8) /* HeritageGroup - Lugian */
      , (1342410232, 199, 1452058873) /* HousePurchaseTimestamp */
      , (1342410232, 230,          1) /* AugmentationIncreasedCarryingCapacity */
-     , (1342410232, 261,         14) /* CharacterTitleId */
+     , (1342410232, 261,         14) /* CharacterTitleId - Wayfarer */
      , (1342410232, 307,          5) /* DamageRating */
      , (1342410232, 308,          0) /* DamageResistRating */
      , (1342410232, 312,          0) /* HealOverTime */

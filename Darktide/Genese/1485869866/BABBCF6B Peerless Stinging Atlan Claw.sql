@@ -30,12 +30,12 @@ VALUES (3132870507,   1,          1) /* ItemType - MeleeWeapon */
      , (3132870507, 159,         44) /* WieldSkillType - HeavyWeapons */
      , (3132870507, 160,        430) /* WieldDifficulty */
      , (3132870507, 171,         10) /* NumTimesTinkered */
-     , (3132870507, 172,          5) /* AppraisalLongDescDecoration */
-     , (3132870507, 176,         44) /* AppraisalItemSkill */
+     , (3132870507, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
+     , (3132870507, 176,         44) /* AppraisalItemSkill - HeavyWeapons */
      , (3132870507, 177,          2) /* GemCount */
      , (3132870507, 178,         34) /* GemType */
      , (3132870507, 179,          4) /* ImbuedEffect - ArmorRending */
-     , (3132870507, 265,        140) /* EquipmentSetId - UNKNOWN_140 */
+     , (3132870507, 265,        140) /* EquipmentSetId - ParagonMelee */
      , (3132870507, 319,         41) /* ItemMaxLevel */
      , (3132870507, 320,          1) /* ItemXpStyle - Fixed */
      , (3132870507, 353,          1) /* WeaponType - Unarmed */

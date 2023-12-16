@@ -21,7 +21,7 @@ VALUES (2401430673,   1,          2) /* ItemType - Armor */
      , (2401430673, 110,          0) /* ItemAllegianceRankLimit */
      , (2401430673, 115,          0) /* ItemSkillLevelLimit */
      , (2401430673, 131,         59) /* MaterialType - Copper */
-     , (2401430673, 172,          7) /* AppraisalLongDescDecoration */
+     , (2401430673, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2401430673, 177,          2) /* GemCount */
      , (2401430673, 178,         21) /* GemType */
      , (2401430673, 188,          2) /* HeritageGroup - Gharundim */;

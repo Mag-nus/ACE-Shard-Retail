@@ -19,7 +19,7 @@ VALUES (1343242117,   1, True ) /* Stuck */
      , (1343242117,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343242117,  39, 1.29999995231628) /* DefaultScale */;
+VALUES (1343242117,  39, 1.2999999523162842) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343242117,   1, 'Big Randy') /* Name */;
@@ -37,9 +37,9 @@ VALUES (1343242117,   1,   33561112) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343242117, 1, 1210908932, 86.8, 137.6, -14.795, 1, 0, 0, 0) /* Location */
-/* @teleloc 0x482D0104 [86.800000 137.600000 -14.795000] 1.000000 0.000000 0.000000 0.000000 */
-     , (1343242117, 8040, 2847146009, 84.00001, 7.099999, 94.0065, 0.9969173, 0, 0, -0.0784591) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B40019 [84.000010 7.099999 94.006500] 0.996917 0.000000 0.000000 -0.078459 */;
+/* @teleloc 0x482D0104 [86.800003 137.600006 -14.795000] 1.000000 0.000000 0.000000 0.000000 */
+     , (1343242117, 8040, 2847146009, 84.00001, 7.0999994, 94.0065, 0.9969173, 0, 0, -0.0784591) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B40019 [84.000008 7.099999 94.006500] 0.996917 0.000000 0.000000 -0.078459 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343242117,  26, 1342809802) /* Monarch */

@@ -22,7 +22,7 @@ VALUES (3710967649,   1,          2) /* ItemType - Armor */
      , (3710967649, 158,          7) /* WieldRequirements - Level */
      , (3710967649, 159,          1) /* WieldSkillType - Axe */
      , (3710967649, 160,        180) /* WieldDifficulty */
-     , (3710967649, 172,          3) /* AppraisalLongDescDecoration */
+     , (3710967649, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (3710967649, 188,          4) /* HeritageGroup - Viamontian */
      , (3710967649, 265,         19) /* EquipmentSetId - Hearty */
      , (3710967649, 9015,         82) /* InventoryOrder */;

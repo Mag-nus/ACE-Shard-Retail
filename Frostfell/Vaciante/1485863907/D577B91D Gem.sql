@@ -12,7 +12,7 @@ VALUES (3581393181,   1,       2048) /* ItemType - Gem */
      , (3581393181,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3581393181, 105,          4) /* ItemWorkmanship */
      , (3581393181, 131,         29) /* MaterialType - LavenderJade */
-     , (3581393181, 172,          1) /* AppraisalLongDescDecoration */
+     , (3581393181, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (3581393181, 9015,          7) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

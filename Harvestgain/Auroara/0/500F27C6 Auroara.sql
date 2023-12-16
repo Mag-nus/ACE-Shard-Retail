@@ -14,7 +14,7 @@ VALUES (1343170502,   1,         16) /* ItemType - Creature */
      , (1343170502, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343170502, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343170502, 188,          4) /* HeritageGroup - Viamontian */
-     , (1343170502, 261,         94) /* CharacterTitleId */
+     , (1343170502, 261,         94) /* CharacterTitleId - MoraleSmasher */
      , (1343170502, 307,          5) /* DamageRating */
      , (1343170502, 390,          0) /* Enlightenment */
      , (1343170502, 8007,          1) /* PCAPRecordedAutonomousMovement */;
@@ -52,9 +52,9 @@ VALUES (1343170502,   1,   33554510) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343170502, 1, 3332964361, 46.805, 4.219, 42.005, 1, 0, 0, 0) /* Location */
-/* @teleloc 0xC6A90009 [46.805000 4.219000 42.005000] 1.000000 0.000000 0.000000 0.000000 */
-     , (1343170502, 8040, 459072, 66.76428, -27.95133, 0.004999995, -0.9841088, 0, 0, -0.1775666) /* PCAPRecordedLocation */
-/* @teleloc 0x00070140 [66.764280 -27.951330 0.005000] -0.984109 0.000000 0.000000 -0.177567 */;
+/* @teleloc 0xC6A90009 [46.805000 4.219000 42.005001] 1.000000 0.000000 0.000000 0.000000 */
+     , (1343170502, 8040, 459072, 66.76428, -27.951328, 0.004999995, -0.9841088, 0, -0, -0.1775666) /* PCAPRecordedLocation */
+/* @teleloc 0x00070140 [66.764282 -27.951328 0.005000] -0.984109 0.000000 -0.000000 -0.177567 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343170502,  26, 1342285662) /* Monarch */

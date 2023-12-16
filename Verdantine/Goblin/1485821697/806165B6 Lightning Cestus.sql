@@ -23,7 +23,7 @@ VALUES (2153866678,   1,          1) /* ItemType - MeleeWeapon */
      , (2153866678, 159,         45) /* WieldSkillType - LightWeapons */
      , (2153866678, 160,        325) /* WieldDifficulty */
      , (2153866678, 171,          4) /* NumTimesTinkered */
-     , (2153866678, 172,          7) /* AppraisalLongDescDecoration */
+     , (2153866678, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2153866678, 177,          1) /* GemCount */
      , (2153866678, 178,         38) /* GemType */
      , (2153866678, 179,          4) /* ImbuedEffect - ArmorRending */

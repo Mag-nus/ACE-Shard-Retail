@@ -14,7 +14,7 @@ VALUES (1342556464,   1,         16) /* ItemType - Creature */
      , (1342556464, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342556464, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342556464, 188,          2) /* HeritageGroup - Gharundim */
-     , (1342556464, 261,        548) /* CharacterTitleId */
+     , (1342556464, 261,        548) /* CharacterTitleId - DojiroSangisSavior */
      , (1342556464, 390,          0) /* Enlightenment */
      , (1342556464, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
@@ -50,10 +50,10 @@ VALUES (1342556464,   1,   33554433) /* Setup */
      , (1342556464, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1342556464, 1, 3316318257, 155.1443, 0.3014526, 52.005, 0.9999996, 0, 0, 0.0008772109) /* Location */
-/* @teleloc 0xC5AB0031 [155.144300 0.301453 52.005000] 1.000000 0.000000 0.000000 0.000877 */
-     , (1342556464, 8040, 459059, 62.40359, -73.32154, 0.004999995, 0.7648422, 0, 0, -0.6442177) /* PCAPRecordedLocation */
-/* @teleloc 0x00070133 [62.403590 -73.321540 0.005000] 0.764842 0.000000 0.000000 -0.644218 */;
+VALUES (1342556464, 1, 3316318257, 155.14432, 0.30145264, 52.005, 0.99999964, 0, 0, 0.0008772109) /* Location */
+/* @teleloc 0xC5AB0031 [155.144318 0.301453 52.005001] 1.000000 0.000000 0.000000 0.000877 */
+     , (1342556464, 8040, 459059, 62.403587, -73.32154, 0.004999995, 0.7648422, 0, 0, -0.64421767) /* PCAPRecordedLocation */
+/* @teleloc 0x00070133 [62.403587 -73.321541 0.005000] 0.764842 0.000000 0.000000 -0.644218 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342556464,  26, 1343089867) /* Monarch */

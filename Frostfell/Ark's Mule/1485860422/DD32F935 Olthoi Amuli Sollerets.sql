@@ -23,7 +23,7 @@ VALUES (3711105333,   1,          2) /* ItemType - Armor */
      , (3711105333, 158,          7) /* WieldRequirements - Level */
      , (3711105333, 159,          1) /* WieldSkillType - Axe */
      , (3711105333, 160,        180) /* WieldDifficulty */
-     , (3711105333, 172,          3) /* AppraisalLongDescDecoration */
+     , (3711105333, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (3711105333, 265,         19) /* EquipmentSetId - Hearty */
      , (3711105333, 9015,         21) /* InventoryOrder */;
 

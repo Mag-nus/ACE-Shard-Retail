@@ -19,7 +19,7 @@ VALUES (1343162879,   1, True ) /* Stuck */
      , (1343162879,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343162879,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1343162879,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343162879,   1, 'Deathmule the Fifth') /* Name */;
@@ -36,10 +36,10 @@ VALUES (1343162879,   1,   33560839) /* Setup */
      , (1343162879, 8005,     104579) /* PCAPRecordedPhysicsDesc - CSetup, MTable, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343162879, 1, 2103705618, 64.4727, 41.87669, 12.006, 0.6177394, 0, 0, 0.7863829) /* Location */
-/* @teleloc 0x7D640012 [64.472700 41.876690 12.006000] 0.617739 0.000000 0.000000 0.786383 */
-     , (1343162879, 8040, 2103705618, 53.65533, 30.53823, 12.006, -0.9959489, 0, 0, -0.08992159) /* PCAPRecordedLocation */
-/* @teleloc 0x7D640012 [53.655330 30.538230 12.006000] -0.995949 0.000000 0.000000 -0.089922 */;
+VALUES (1343162879, 1, 2103705618, 64.4727, 41.876694, 12.0060005, 0.6177394, 0, 0, 0.7863829) /* Location */
+/* @teleloc 0x7D640012 [64.472702 41.876694 12.006001] 0.617739 0.000000 0.000000 0.786383 */
+     , (1343162879, 8040, 2103705618, 53.65533, 30.538235, 12.0060005, -0.99594885, 0, -0, -0.08992159) /* PCAPRecordedLocation */
+/* @teleloc 0x7D640012 [53.655331 30.538235 12.006001] -0.995949 0.000000 -0.000000 -0.089922 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343162879,  26, 1342460475) /* Monarch */

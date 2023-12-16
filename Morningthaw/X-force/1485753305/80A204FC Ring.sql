@@ -20,7 +20,7 @@ VALUES (2158101756,   1,          8) /* ItemType - Jewelry */
      , (2158101756, 115,          0) /* ItemSkillLevelLimit */
      , (2158101756, 131,         57) /* MaterialType - Brass */
      , (2158101756, 171,          2) /* NumTimesTinkered */
-     , (2158101756, 172,          3) /* AppraisalLongDescDecoration */
+     , (2158101756, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2158101756, 179,       8192) /* ImbuedEffect - Spellbook */
      , (2158101756, 188,          3) /* HeritageGroup - Sho */;
 

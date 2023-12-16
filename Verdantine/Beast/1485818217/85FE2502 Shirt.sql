@@ -20,7 +20,7 @@ VALUES (2248025346,   1,          4) /* ItemType - Clothing */
      , (2248025346, 110,          0) /* ItemAllegianceRankLimit */
      , (2248025346, 115,          0) /* ItemSkillLevelLimit */
      , (2248025346, 131,          7) /* MaterialType - Velvet */
-     , (2248025346, 172,          7) /* AppraisalLongDescDecoration */
+     , (2248025346, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2248025346, 177,          2) /* GemCount */
      , (2248025346, 178,         41) /* GemType */
      , (2248025346, 188,          2) /* HeritageGroup - Gharundim */

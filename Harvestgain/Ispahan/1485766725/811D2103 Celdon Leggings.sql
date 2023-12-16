@@ -20,7 +20,7 @@ VALUES (2166169859,   1,          2) /* ItemType - Armor */
      , (2166169859, 110,          0) /* ItemAllegianceRankLimit */
      , (2166169859, 115,          0) /* ItemSkillLevelLimit */
      , (2166169859, 131,         63) /* MaterialType - Silver */
-     , (2166169859, 172,          3) /* AppraisalLongDescDecoration */
+     , (2166169859, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2166169859, 188,          1) /* HeritageGroup - Aluvian */
      , (2166169859, 9015,          9) /* InventoryOrder */;
 

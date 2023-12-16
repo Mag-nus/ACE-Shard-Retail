@@ -30,8 +30,8 @@ VALUES (2155931640,   1,          1) /* ItemType - MeleeWeapon */
      , (2155931640, 160,        420) /* WieldDifficulty */
      , (2155931640, 166,         89) /* SlayerCreatureType - Mukkir */
      , (2155931640, 171,         10) /* NumTimesTinkered */
-     , (2155931640, 172,          5) /* AppraisalLongDescDecoration */
-     , (2155931640, 176,         44) /* AppraisalItemSkill */
+     , (2155931640, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
+     , (2155931640, 176,         44) /* AppraisalItemSkill - HeavyWeapons */
      , (2155931640, 177,          2) /* GemCount */
      , (2155931640, 178,         47) /* GemType */
      , (2155931640, 179,         16) /* ImbuedEffect - PierceRending */

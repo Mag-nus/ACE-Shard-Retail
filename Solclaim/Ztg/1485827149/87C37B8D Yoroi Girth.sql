@@ -25,7 +25,7 @@ VALUES (2277735309,   1,          2) /* ItemType - Armor */
      , (2277735309, 159,          1) /* WieldSkillType - Axe */
      , (2277735309, 160,        180) /* WieldDifficulty */
      , (2277735309, 171,         10) /* NumTimesTinkered */
-     , (2277735309, 172,          1) /* AppraisalLongDescDecoration */
+     , (2277735309, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (2277735309, 179,       1024) /* ImbuedEffect - MeleeDefense */
      , (2277735309, 265,         20) /* EquipmentSetId - Dexterous */
      , (2277735309, 379,          1) /* GearMaxHealth */;

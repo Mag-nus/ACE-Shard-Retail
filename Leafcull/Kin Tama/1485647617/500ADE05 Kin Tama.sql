@@ -32,8 +32,8 @@ VALUES (1342889477,   1,         16) /* ItemType - Creature */
      , (1342889477, 232,          1) /* AugmentationSpellsRemainPastDeath */
      , (1342889477, 233,          1) /* AugmentationCriticalDefense */
      , (1342889477, 238,          3) /* AugmentationIncreasedSpellDuration */
-     , (1342889477, 261,        100) /* CharacterTitleId */
-     , (1342889477, 281,          2) /* Faction1Bits */
+     , (1342889477, 261,        100) /* CharacterTitleId - ParagonofDeath */
+     , (1342889477, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1342889477, 288,       1001) /* SocietyRankEldweb */
      , (1342889477, 295,          1) /* AugmentationInfusedItemMagic */
      , (1342889477, 296,          1) /* AugmentationInfusedLifeMagic */

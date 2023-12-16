@@ -27,8 +27,8 @@ VALUES (2166170226,   1,          1) /* ItemType - MeleeWeapon */
      , (2166170226, 131,         58) /* MaterialType - Bronze */
      , (2166170226, 151,          2) /* HookType - Wall */
      , (2166170226, 171,          4) /* NumTimesTinkered */
-     , (2166170226, 172,          3) /* AppraisalLongDescDecoration */
-     , (2166170226, 176,         45) /* AppraisalItemSkill */
+     , (2166170226, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (2166170226, 176,         45) /* AppraisalItemSkill - LightWeapons */
      , (2166170226, 179,         32) /* ImbuedEffect - BludgeonRending */
      , (2166170226, 353,          1) /* WeaponType - Unarmed */
      , (2166170226, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */;

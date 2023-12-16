@@ -24,7 +24,7 @@ VALUES (1343239388,   1,         16) /* ItemType - Creature */
      , (1343239388, 134,          4) /* PlayerKillerStatus - PK */
      , (1343239388, 139,          5) /* DeathLevel */
      , (1343239388, 188,          1) /* HeritageGroup - Aluvian */
-     , (1343239388, 261,         58) /* CharacterTitleId */
+     , (1343239388, 261,         58) /* CharacterTitleId - GardenerWeeder */
      , (1343239388, 262,          1) /* NumCharacterTitles */
      , (1343239388, 307,          5) /* DamageRating */
      , (1343239388, 308,          0) /* DamageResistRating */

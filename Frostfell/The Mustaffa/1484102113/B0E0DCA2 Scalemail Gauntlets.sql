@@ -20,7 +20,7 @@ VALUES (2967526562,   1,          2) /* ItemType - Armor */
      , (2967526562, 110,          0) /* ItemAllegianceRankLimit */
      , (2967526562, 115,          0) /* ItemSkillLevelLimit */
      , (2967526562, 131,         63) /* MaterialType - Silver */
-     , (2967526562, 172,          7) /* AppraisalLongDescDecoration */
+     , (2967526562, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2967526562, 177,          2) /* GemCount */
      , (2967526562, 178,         39) /* GemType */
      , (2967526562, 188,          2) /* HeritageGroup - Gharundim */

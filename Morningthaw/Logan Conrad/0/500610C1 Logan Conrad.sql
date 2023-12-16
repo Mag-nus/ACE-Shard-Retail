@@ -16,7 +16,7 @@ VALUES (1342574785,   1,         16) /* ItemType - Creature */
      , (1342574785, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342574785, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342574785, 188,          3) /* HeritageGroup - Sho */
-     , (1342574785, 261,        439) /* CharacterTitleId */
+     , (1342574785, 261,        439) /* CharacterTitleId - EliteHeadHunter */
      , (1342574785, 262,        130) /* NumCharacterTitles */
      , (1342574785, 307,          9) /* DamageRating */
      , (1342574785, 308,          2) /* DamageResistRating */
@@ -59,8 +59,8 @@ VALUES (1342574785,   1,   33554433) /* Setup */
      , (1342574785, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1342574785, 1, 19202342, 31.66152, -60.85047, 6.005, -0.1936401, 0, 0, -0.9810726) /* Location */
-/* @teleloc 0x01250126 [31.661520 -60.850470 6.005000] -0.193640 0.000000 0.000000 -0.981073 */
+VALUES (1342574785, 1, 19202342, 31.661516, -60.85047, 6.005, -0.19364013, 0, 0, -0.9810726) /* Location */
+/* @teleloc 0x01250126 [31.661516 -60.850471 6.005000] -0.193640 0.000000 0.000000 -0.981073 */
      , (1342574785, 8040, 19202342, 30, -60, 6.005, 1, 0, 0, 0) /* PCAPRecordedLocation */
 /* @teleloc 0x01250126 [30.000000 -60.000000 6.005000] 1.000000 0.000000 0.000000 0.000000 */;
 

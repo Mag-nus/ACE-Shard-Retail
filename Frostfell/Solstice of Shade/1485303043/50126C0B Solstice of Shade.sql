@@ -41,8 +41,8 @@ VALUES (1343384587,   1,         16) /* ItemType - Creature */
      , (1343384587, 244,          0) /* AugmentationResistanceFire */
      , (1343384587, 245,          0) /* AugmentationResistanceFrost */
      , (1343384587, 246,          2) /* AugmentationResistanceLightning */
-     , (1343384587, 261,        857) /* CharacterTitleId */
-     , (1343384587, 281,          1) /* Faction1Bits */
+     , (1343384587, 261,        857) /* CharacterTitleId - PresentProtector */
+     , (1343384587, 281,          1) /* Faction1Bits - CelestialHand */
      , (1343384587, 287,       1001) /* SocietyRankCelhan */
      , (1343384587, 288,          0) /* SocietyRankEldweb */
      , (1343384587, 289,          0) /* SocietyRankRadblo */

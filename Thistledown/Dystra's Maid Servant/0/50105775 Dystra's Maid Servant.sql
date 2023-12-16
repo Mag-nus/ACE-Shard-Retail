@@ -19,9 +19,9 @@ VALUES (1343248245,   1, True ) /* Stuck */
      , (1343248245,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343248245, 8010, -0.198402732610703) /* PCAPRecordedVelocityX */
+VALUES (1343248245, 8010, -0.19840273261070251) /* PCAPRecordedVelocityX */
      , (1343248245, 8011, 9.87498664855957) /* PCAPRecordedVelocityY */
-     , (1343248245, 8012, -20.4251003265381) /* PCAPRecordedVelocityZ */;
+     , (1343248245, 8012, -20.425100326538086) /* PCAPRecordedVelocityZ */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343248245,   1, 'Dystra''s Maid Servant') /* Name */;
@@ -38,10 +38,10 @@ VALUES (1343248245,   1,   33554510) /* Setup */
      , (1343248245, 8005,     104519) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Velocity, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343248245, 1, 1925775396, 119.7499, 83.37495, 78.02584, 0.8597087, 0, 0, 0.5107846) /* Location */
-/* @teleloc 0x72C90024 [119.749900 83.374950 78.025840] 0.859709 0.000000 0.000000 0.510785 */
-     , (1343248245, 8040, 1925775401, 135.9778, 0.4416373, 140.2628, 0.9999496, 0, 0, 0.0100442) /* PCAPRecordedLocation */
-/* @teleloc 0x72C90029 [135.977800 0.441637 140.262800] 0.999950 0.000000 0.000000 0.010044 */;
+VALUES (1343248245, 1, 1925775396, 119.749916, 83.37495, 78.02584, 0.8597087, 0, 0, 0.51078457) /* Location */
+/* @teleloc 0x72C90024 [119.749916 83.374947 78.025841] 0.859709 0.000000 0.000000 0.510785 */
+     , (1343248245, 8040, 1925775401, 135.97775, 0.44163728, 140.2628, 0.9999496, 0, 0, 0.0100442) /* PCAPRecordedLocation */
+/* @teleloc 0x72C90029 [135.977753 0.441637 140.262802] 0.999950 0.000000 0.000000 0.010044 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343248245,  26, 1343236234) /* Monarch */

@@ -21,7 +21,7 @@ VALUES (2166233957,   1,          4) /* ItemType - Clothing */
      , (2166233957, 115,          0) /* ItemSkillLevelLimit */
      , (2166233957, 131,          7) /* MaterialType - Velvet */
      , (2166233957, 151,          2) /* HookType - Wall */
-     , (2166233957, 172,          3) /* AppraisalLongDescDecoration */
+     , (2166233957, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2166233957, 188,          3) /* HeritageGroup - Sho */
      , (2166233957, 9015,          1) /* InventoryOrder */;
 

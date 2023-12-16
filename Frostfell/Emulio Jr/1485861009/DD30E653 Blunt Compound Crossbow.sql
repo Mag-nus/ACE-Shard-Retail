@@ -9,7 +9,7 @@ VALUES (3710969427,   1,        256) /* ItemType - MissileWeapon */
      , (3710969427,  18,        513) /* UiEffects - Magical, Bludgeoning */
      , (3710969427,  19,      10539) /* Value */
      , (3710969427,  50,          2) /* AmmoType - Bolt */
-     , (3710969427,  51,          2) /* CombatUse - Missle */
+     , (3710969427,  51,          2) /* CombatUse - Missile */
      , (3710969427,  65,        101) /* Placement - Resting */
      , (3710969427,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3710969427, 131,         75) /* MaterialType - Oak */

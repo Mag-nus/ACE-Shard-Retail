@@ -21,7 +21,7 @@ VALUES (3422561404,   1,          4) /* ItemType - Clothing */
      , (3422561404, 115,          0) /* ItemSkillLevelLimit */
      , (3422561404, 131,          8) /* MaterialType - Wool */
      , (3422561404, 151,          2) /* HookType - Wall */
-     , (3422561404, 172,          1) /* AppraisalLongDescDecoration */
+     , (3422561404, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (3422561404, 9015,         43) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

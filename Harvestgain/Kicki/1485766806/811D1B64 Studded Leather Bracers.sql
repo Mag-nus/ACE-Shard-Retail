@@ -21,9 +21,9 @@ VALUES (2166168420,   1,          2) /* ItemType - Armor */
      , (2166168420, 110,          0) /* ItemAllegianceRankLimit */
      , (2166168420, 115,        237) /* ItemSkillLevelLimit */
      , (2166168420, 131,         52) /* MaterialType - Leather */
-     , (2166168420, 172,          1) /* AppraisalLongDescDecoration */
-     , (2166168420, 176,          6) /* AppraisalItemSkill */
-     , (2166168420, 324,          6) /* HeritageSpecificArmor */;
+     , (2166168420, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (2166168420, 176,          6) /* AppraisalItemSkill - MeleeDefense */
+     , (2166168420, 324,          6) /* HeritageSpecificArmor - Gearknight */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (2166168420,   1, False) /* Stuck */

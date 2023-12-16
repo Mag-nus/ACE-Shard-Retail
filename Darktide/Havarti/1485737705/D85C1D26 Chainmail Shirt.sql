@@ -21,8 +21,8 @@ VALUES (3629915430,   1,          2) /* ItemType - Armor */
      , (3629915430, 110,          0) /* ItemAllegianceRankLimit */
      , (3629915430, 115,        163) /* ItemSkillLevelLimit */
      , (3629915430, 131,         60) /* MaterialType - Gold */
-     , (3629915430, 172,          7) /* AppraisalLongDescDecoration */
-     , (3629915430, 176,          7) /* AppraisalItemSkill */
+     , (3629915430, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (3629915430, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (3629915430, 177,          4) /* GemCount */
      , (3629915430, 178,         33) /* GemType */;
 

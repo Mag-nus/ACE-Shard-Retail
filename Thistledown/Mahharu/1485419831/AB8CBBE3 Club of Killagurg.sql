@@ -25,7 +25,7 @@ VALUES (2878127075,   1,          1) /* ItemType - MeleeWeapon */
      , (2878127075, 158,          2) /* WieldRequirements - RawSkill */
      , (2878127075, 159,         44) /* WieldSkillType - HeavyWeapons */
      , (2878127075, 160,        300) /* WieldDifficulty */
-     , (2878127075, 263,          2) /* ResistanceModifierType */
+     , (2878127075, 263,          2) /* ResistanceModifierType - Pierce */
      , (2878127075, 353,          4) /* WeaponType - Mace */
      , (2878127075, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (2878127075, 9015,         15) /* InventoryOrder */;

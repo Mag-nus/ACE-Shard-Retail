@@ -11,7 +11,7 @@ VALUES (2622499560,   1,       4096) /* ItemType - SpellComponents */
      , (2622499560,  65,        101) /* Placement - Resting */
      , (2622499560,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2622499560, 151,          2) /* HookType - Wall */
-     , (2622499560, 9015,         31) /* InventoryOrder */;
+     , (2622499560, 9015,         43) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (2622499560,   1, False) /* Stuck */

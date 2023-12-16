@@ -19,7 +19,7 @@ VALUES (1343196580,   1, True ) /* Stuck */
      , (1343196580,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343196580,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1343196580,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343196580,   1, 'Gentuu') /* Name */;
@@ -37,9 +37,9 @@ VALUES (1343196580,   1,   33561106) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343196580, 1, 1591279639, 48.6291, 150.425, 182, 0.705748, 0, 0, -0.708463) /* Location */
-/* @teleloc 0x5ED90017 [48.629100 150.425000 182.000000] 0.705748 0.000000 0.000000 -0.708463 */
-     , (1343196580, 8040, 3332964380, 77.62507, 95.33481, 42.006, 0.631224, 0, 0, -0.7756006) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001C [77.625070 95.334810 42.006000] 0.631224 0.000000 0.000000 -0.775601 */;
+/* @teleloc 0x5ED90017 [48.629101 150.425003 182.000000] 0.705748 0.000000 0.000000 -0.708463 */
+     , (1343196580, 8040, 3332964380, 77.62507, 95.33481, 42.006, 0.63122404, 0, 0, -0.77560055) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A9001C [77.625069 95.334808 42.006001] 0.631224 0.000000 0.000000 -0.775601 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343196580,  26, 1342396066) /* Monarch */

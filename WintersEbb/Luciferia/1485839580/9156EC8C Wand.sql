@@ -21,7 +21,7 @@ VALUES (2438392972,   1,      32768) /* ItemType - Caster */
      , (2438392972, 131,         51) /* MaterialType - Ivory */
      , (2438392972, 151,          2) /* HookType - Wall */
      , (2438392972, 171,          2) /* NumTimesTinkered */
-     , (2438392972, 172,          3) /* AppraisalLongDescDecoration */
+     , (2438392972, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2438392972, 179,         16) /* ImbuedEffect - PierceRending */
      , (2438392972, 9015,         14) /* InventoryOrder */;
 

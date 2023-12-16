@@ -12,7 +12,7 @@ VALUES (3581435603,   1,       2048) /* ItemType - Gem */
      , (3581435603,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3581435603, 105,          5) /* ItemWorkmanship */
      , (3581435603, 131,         42) /* MaterialType - TigerEye */
-     , (3581435603, 172,          1) /* AppraisalLongDescDecoration */
+     , (3581435603, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (3581435603, 9015,         10) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

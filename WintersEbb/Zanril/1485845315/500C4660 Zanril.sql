@@ -25,7 +25,7 @@ VALUES (1342981728,   1,         16) /* ItemType - Creature */
      , (1342981728, 139,         92) /* DeathLevel */
      , (1342981728, 188,          9) /* HeritageGroup - Empyrean */
      , (1342981728, 199, 1400391063) /* HousePurchaseTimestamp */
-     , (1342981728, 261,        561) /* CharacterTitleId */
+     , (1342981728, 261,        561) /* CharacterTitleId - Anthropologist */
      , (1342981728, 296,          1) /* AugmentationInfusedLifeMagic */
      , (1342981728, 307,          0) /* DamageRating */
      , (1342981728, 308,          0) /* DamageResistRating */

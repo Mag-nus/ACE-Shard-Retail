@@ -20,7 +20,7 @@ VALUES (2368871005,   1,          4) /* ItemType - Clothing */
      , (2368871005, 110,          0) /* ItemAllegianceRankLimit */
      , (2368871005, 115,          0) /* ItemSkillLevelLimit */
      , (2368871005, 131,          4) /* MaterialType - Linen */
-     , (2368871005, 172,          3) /* AppraisalLongDescDecoration */
+     , (2368871005, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2368871005, 188,          4) /* HeritageGroup - Viamontian */
      , (2368871005, 9015,         15) /* InventoryOrder */;
 

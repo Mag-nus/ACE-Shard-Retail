@@ -11,7 +11,7 @@ VALUES (3658163555,   1,        256) /* ItemType - MissileWeapon */
      , (3658163555,  45,          1) /* DamageType - Slash */
      , (3658163555,  48,         47) /* WeaponSkill - MissileWeapons */
      , (3658163555,  49,         10) /* WeaponTime */
-     , (3658163555,  51,          2) /* CombatUse - Missle */
+     , (3658163555,  51,          2) /* CombatUse - Missile */
      , (3658163555,  65,        101) /* Placement - Resting */
      , (3658163555,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (3658163555, 105,          1) /* ItemWorkmanship */

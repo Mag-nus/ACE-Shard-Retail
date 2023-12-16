@@ -24,7 +24,7 @@ VALUES (3326955670,   1,          2) /* ItemType - Armor */
      , (3326955670, 158,          2) /* WieldRequirements - RawSkill */
      , (3326955670, 159,          6) /* WieldSkillType - MeleeDefense */
      , (3326955670, 160,        370) /* WieldDifficulty */
-     , (3326955670, 172,          7) /* AppraisalLongDescDecoration */
+     , (3326955670, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3326955670, 177,          2) /* GemCount */
      , (3326955670, 178,         33) /* GemType */
      , (3326955670, 188,          1) /* HeritageGroup - Aluvian */

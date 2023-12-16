@@ -12,7 +12,7 @@ VALUES (2149243691,   1,        256) /* ItemType - MissileWeapon */
      , (2149243691,  45,          4) /* DamageType - Bludgeon */
      , (2149243691,  48,         47) /* WeaponSkill - MissileWeapons */
      , (2149243691,  49,         10) /* WeaponTime */
-     , (2149243691,  51,          2) /* CombatUse - Missle */
+     , (2149243691,  51,          2) /* CombatUse - Missile */
      , (2149243691,  65,        101) /* Placement - Resting */
      , (2149243691,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (2149243691, 105,         10) /* ItemWorkmanship */
@@ -24,7 +24,7 @@ VALUES (2149243691,   1,        256) /* ItemType - MissileWeapon */
      , (2149243691, 115,          0) /* ItemSkillLevelLimit */
      , (2149243691, 131,         38) /* MaterialType - Ruby */
      , (2149243691, 151,          1) /* HookType - Floor */
-     , (2149243691, 172,          7) /* AppraisalLongDescDecoration */
+     , (2149243691, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2149243691, 177,          6) /* GemCount */
      , (2149243691, 178,         39) /* GemType */
      , (2149243691, 353,         10) /* WeaponType - Thrown */

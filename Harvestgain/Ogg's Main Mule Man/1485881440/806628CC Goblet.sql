@@ -7,7 +7,7 @@ VALUES (2154178764,   1,        256) /* ItemType - MissileWeapon */
      , (2154178764,   9,    4194304) /* ValidLocations - MissileWeapon */
      , (2154178764,  16,          1) /* ItemUseable - No */
      , (2154178764,  19,        492) /* Value */
-     , (2154178764,  51,          2) /* CombatUse - Missle */
+     , (2154178764,  51,          2) /* CombatUse - Missile */
      , (2154178764,  65,        101) /* Placement - Resting */
      , (2154178764,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (2154178764, 131,         51) /* MaterialType - Ivory */

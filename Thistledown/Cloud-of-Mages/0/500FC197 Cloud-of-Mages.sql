@@ -14,7 +14,7 @@ VALUES (1343209879,   1,         16) /* ItemType - Creature */
      , (1343209879, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343209879, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343209879, 188,          2) /* HeritageGroup - Gharundim */
-     , (1343209879, 261,        522) /* CharacterTitleId */
+     , (1343209879, 261,        522) /* CharacterTitleId - ProdigalShadowSlayer */
      , (1343209879, 307,          3) /* DamageRating */
      , (1343209879, 308,          3) /* DamageResistRating */
      , (1343209879, 314,          3) /* CritDamageRating */
@@ -55,8 +55,8 @@ VALUES (1343209879,   1,   33554433) /* Setup */
      , (1343209879, 8005,     104451) /* PCAPRecordedPhysicsDesc - CSetup, MTable, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343209879, 8040, 23855549, 53.48715, -36.24729, 0.004999995, -0.9578764, 0, 0, -0.2871808) /* PCAPRecordedLocation */
-/* @teleloc 0x016C01BD [53.487150 -36.247290 0.005000] -0.957876 0.000000 0.000000 -0.287181 */;
+VALUES (1343209879, 8040, 23855549, 53.48715, -36.24729, 0.004999995, -0.9578764, 0, -0, -0.28718078) /* PCAPRecordedLocation */
+/* @teleloc 0x016C01BD [53.487148 -36.247292 0.005000] -0.957876 0.000000 -0.000000 -0.287181 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343209879,  26, 1343044191) /* Monarch */

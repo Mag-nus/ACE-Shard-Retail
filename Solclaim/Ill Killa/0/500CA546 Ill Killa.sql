@@ -17,8 +17,8 @@ VALUES (1343006022,   1,         16) /* ItemType - Creature */
      , (1343006022, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343006022, 188,          3) /* HeritageGroup - Sho */
      , (1343006022, 192,          0) /* FakeFishingSkill */
-     , (1343006022, 261,        458) /* CharacterTitleId */
-     , (1343006022, 281,          4) /* Faction1Bits */
+     , (1343006022, 261,        458) /* CharacterTitleId - WarrioroftheSeventhCircle */
+     , (1343006022, 281,          4) /* Faction1Bits - RadiantBlood */
      , (1343006022, 289,       1001) /* SocietyRankRadblo */
      , (1343006022, 307,          9) /* DamageRating */
      , (1343006022, 308,          7) /* DamageResistRating */
@@ -61,10 +61,10 @@ VALUES (1343006022,   1,   33554433) /* Setup */
      , (1343006022, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343006022, 1, 20185385, 34.96905, -59.35038, 6.005, 0.3608557, 0, 0, 0.9326217) /* Location */
-/* @teleloc 0x01340129 [34.969050 -59.350380 6.005000] 0.360856 0.000000 0.000000 0.932622 */
-     , (1343006022, 8040, 20185359, 31.70465, -35.7543, 3.411281, 0.9968534, 0, 0, -0.07926822) /* PCAPRecordedLocation */
-/* @teleloc 0x0134010F [31.704650 -35.754300 3.411281] 0.996853 0.000000 0.000000 -0.079268 */;
+VALUES (1343006022, 1, 20185385, 34.969048, -59.350376, 6.005, 0.36085567, 0, 0, 0.93262166) /* Location */
+/* @teleloc 0x01340129 [34.969048 -59.350376 6.005000] 0.360856 0.000000 0.000000 0.932622 */
+     , (1343006022, 8040, 20185359, 31.704647, -35.7543, 3.4112806, 0.99685335, 0, 0, -0.07926822) /* PCAPRecordedLocation */
+/* @teleloc 0x0134010F [31.704647 -35.754299 3.411281] 0.996853 0.000000 0.000000 -0.079268 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343006022,  26, 1342673688) /* Monarch */

@@ -29,8 +29,8 @@ VALUES (2461740296,   1,          1) /* ItemType - MeleeWeapon */
      , (2461740296, 159,         46) /* WieldSkillType - FinesseWeapons */
      , (2461740296, 160,        420) /* WieldDifficulty */
      , (2461740296, 171,          1) /* NumTimesTinkered */
-     , (2461740296, 172,          5) /* AppraisalLongDescDecoration */
-     , (2461740296, 176,         46) /* AppraisalItemSkill */
+     , (2461740296, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
+     , (2461740296, 176,         46) /* AppraisalItemSkill - FinesseWeapons */
      , (2461740296, 177,          2) /* GemCount */
      , (2461740296, 178,         21) /* GemType */
      , (2461740296, 179,          8) /* ImbuedEffect - SlashRending */

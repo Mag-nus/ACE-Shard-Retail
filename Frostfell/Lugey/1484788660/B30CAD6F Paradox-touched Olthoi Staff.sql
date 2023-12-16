@@ -26,7 +26,7 @@ VALUES (3003952495,   1,          1) /* ItemType - MeleeWeapon */
      , (3003952495, 159,         44) /* WieldSkillType - HeavyWeapons */
      , (3003952495, 160,        400) /* WieldDifficulty */
      , (3003952495, 166,          1) /* SlayerCreatureType - Olthoi */
-     , (3003952495, 263,          4) /* ResistanceModifierType */
+     , (3003952495, 263,          4) /* ResistanceModifierType - Bludgeon */
      , (3003952495, 353,          7) /* WeaponType - Staff */
      , (3003952495, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (3003952495, 9015,         25) /* InventoryOrder */;

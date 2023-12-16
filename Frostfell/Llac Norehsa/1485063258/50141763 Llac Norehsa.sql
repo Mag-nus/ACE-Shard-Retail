@@ -18,7 +18,7 @@ VALUES (1343493987,   1,         16) /* ItemType - Creature */
      , (1343493987, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343493987, 188,          8) /* HeritageGroup - Lugian */
      , (1343493987, 230,          1) /* AugmentationIncreasedCarryingCapacity */
-     , (1343493987, 261,         12) /* CharacterTitleId */
+     , (1343493987, 261,         12) /* CharacterTitleId - Swashbuckler */
      , (1343493987, 307,          0) /* DamageRating */
      , (1343493987, 308,          0) /* DamageResistRating */
      , (1343493987, 312,          0) /* HealOverTime */

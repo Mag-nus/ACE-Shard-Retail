@@ -21,7 +21,7 @@ VALUES (3697773102,   1,          2) /* ItemType - Armor */
      , (3697773102, 110,          0) /* ItemAllegianceRankLimit */
      , (3697773102, 115,          0) /* ItemSkillLevelLimit */
      , (3697773102, 131,         60) /* MaterialType - Gold */
-     , (3697773102, 172,          7) /* AppraisalLongDescDecoration */
+     , (3697773102, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3697773102, 177,          2) /* GemCount */
      , (3697773102, 178,         29) /* GemType */
      , (3697773102, 188,          2) /* HeritageGroup - Gharundim */;

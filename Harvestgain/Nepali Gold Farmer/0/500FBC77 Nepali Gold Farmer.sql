@@ -19,7 +19,7 @@ VALUES (1343208567,   1, True ) /* Stuck */
      , (1343208567,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343208567,  39, 1.29999995231628) /* DefaultScale */;
+VALUES (1343208567,  39, 1.2999999523162842) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343208567,   1, 'Nepali Gold Farmer') /* Name */;
@@ -36,10 +36,10 @@ VALUES (1343208567,   1,   33561112) /* Setup */
      , (1343208567, 8005,     104643) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343208567, 1, 23855645, 91.72583, -60.284, 0.006500006, -0.9556538, 0, 0, -0.2944924) /* Location */
+VALUES (1343208567, 1, 23855645, 91.72583, -60.284, 0.0065000057, -0.9556538, 0, 0, -0.29449242) /* Location */
 /* @teleloc 0x016C021D [91.725830 -60.284000 0.006500] -0.955654 0.000000 0.000000 -0.294492 */
-     , (1343208567, 8040, 23855535, 25.63397, -73.34628, 0.006500006, 0.996198, 0, 0, -0.08711778) /* PCAPRecordedLocation */
-/* @teleloc 0x016C01AF [25.633970 -73.346280 0.006500] 0.996198 0.000000 0.000000 -0.087118 */;
+     , (1343208567, 8040, 23855535, 25.633966, -73.346275, 0.0065000057, 0.996198, 0, 0, -0.08711778) /* PCAPRecordedLocation */
+/* @teleloc 0x016C01AF [25.633966 -73.346275 0.006500] 0.996198 0.000000 0.000000 -0.087118 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343208567,  26, 1342205575) /* Monarch */

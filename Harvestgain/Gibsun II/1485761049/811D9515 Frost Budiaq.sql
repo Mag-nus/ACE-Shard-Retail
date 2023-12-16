@@ -23,7 +23,7 @@ VALUES (2166199573,   1,          1) /* ItemType - MeleeWeapon */
      , (2166199573, 159,         45) /* WieldSkillType - LightWeapons */
      , (2166199573, 160,        325) /* WieldDifficulty */
      , (2166199573, 171,          6) /* NumTimesTinkered */
-     , (2166199573, 172,          3) /* AppraisalLongDescDecoration */
+     , (2166199573, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2166199573, 179,          4) /* ImbuedEffect - ArmorRending */
      , (2166199573, 353,          5) /* WeaponType - Spear */
      , (2166199573, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */

@@ -22,7 +22,7 @@ VALUES (2169471179,   1,          8) /* ItemType - Jewelry */
      , (2169471179, 158,          7) /* WieldRequirements - Level */
      , (2169471179, 159,          1) /* WieldSkillType - Axe */
      , (2169471179, 160,        180) /* WieldDifficulty */
-     , (2169471179, 172,          1) /* AppraisalLongDescDecoration */
+     , (2169471179, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (2169471179, 376,          1) /* GearHealingBoost */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

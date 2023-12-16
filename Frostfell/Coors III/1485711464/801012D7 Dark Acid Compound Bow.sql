@@ -13,7 +13,7 @@ VALUES (2148537047,   1,        256) /* ItemType - MissileWeapon */
      , (2148537047,  48,         47) /* WeaponSkill - MissileWeapons */
      , (2148537047,  49,         35) /* WeaponTime */
      , (2148537047,  50,          1) /* AmmoType - Arrow */
-     , (2148537047,  51,          2) /* CombatUse - Missle */
+     , (2148537047,  51,          2) /* CombatUse - Missile */
      , (2148537047,  65,        101) /* Placement - Resting */
      , (2148537047,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2148537047, 105,          9) /* ItemWorkmanship */
@@ -30,11 +30,11 @@ VALUES (2148537047,   1,        256) /* ItemType - MissileWeapon */
      , (2148537047, 159,         47) /* WieldSkillType - MissileWeapons */
      , (2148537047, 160,        385) /* WieldDifficulty */
      , (2148537047, 171,         10) /* NumTimesTinkered */
-     , (2148537047, 172,          1) /* AppraisalLongDescDecoration */
-     , (2148537047, 176,         47) /* AppraisalItemSkill */
+     , (2148537047, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (2148537047, 176,         47) /* AppraisalItemSkill - MissileWeapons */
      , (2148537047, 179,  536870913) /* ImbuedEffect - CriticalStrike, IgnoreSomeMagicProjectileDamage */
      , (2148537047, 204,         22) /* ElementalDamageBonus */
-     , (2148537047, 265,        138) /* EquipmentSetId - UNKNOWN_138 */
+     , (2148537047, 265,        138) /* EquipmentSetId - ParagonMissile */
      , (2148537047, 319,          6) /* ItemMaxLevel */
      , (2148537047, 320,          1) /* ItemXpStyle - Fixed */
      , (2148537047, 353,          8) /* WeaponType - Bow */

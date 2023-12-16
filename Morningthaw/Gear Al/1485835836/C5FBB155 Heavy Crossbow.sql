@@ -8,7 +8,7 @@ VALUES (3321606485,   1,        256) /* ItemType - MissileWeapon */
      , (3321606485,  16,          1) /* ItemUseable - No */
      , (3321606485,  19,       1301) /* Value */
      , (3321606485,  50,          2) /* AmmoType - Bolt */
-     , (3321606485,  51,          2) /* CombatUse - Missle */
+     , (3321606485,  51,          2) /* CombatUse - Missile */
      , (3321606485,  65,        101) /* Placement - Resting */
      , (3321606485,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3321606485, 131,         76) /* MaterialType - Pine */

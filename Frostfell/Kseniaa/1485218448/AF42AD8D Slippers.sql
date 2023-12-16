@@ -21,7 +21,7 @@ VALUES (2940382605,   1,          4) /* ItemType - Clothing */
      , (2940382605, 115,          0) /* ItemSkillLevelLimit */
      , (2940382605, 131,          7) /* MaterialType - Velvet */
      , (2940382605, 171,          3) /* NumTimesTinkered */
-     , (2940382605, 172,          5) /* AppraisalLongDescDecoration */
+     , (2940382605, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2940382605, 177,          2) /* GemCount */
      , (2940382605, 178,         39) /* GemType */
      , (2940382605, 9015,         19) /* InventoryOrder */;

@@ -19,7 +19,7 @@ VALUES (1343226478,   1, True ) /* Stuck */
      , (1343226478,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343226478,  39, 1.10000002384186) /* DefaultScale */;
+VALUES (1343226478,  39, 1.100000023841858) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343226478,   1, 'Gwendolen Lightheart') /* Name */;
@@ -36,10 +36,10 @@ VALUES (1343226478,   1,   33561069) /* Setup */
      , (1343226478, 8005,     104643) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343226478, 1, 3229614087, 11.723, 155.56, 33.028, -0.402363, 0, 0, -0.9154802) /* Location */
-/* @teleloc 0xC0800007 [11.723000 155.560000 33.028000] -0.402363 0.000000 0.000000 -0.915480 */
-     , (1343226478, 8040, 459075, 70, -60, 0.005499959, -4.371139E-08, 0, 0, -1) /* PCAPRecordedLocation */
-/* @teleloc 0x00070143 [70.000000 -60.000000 0.005500] 0.000000 0.000000 0.000000 -1.000000 */;
+VALUES (1343226478, 1, 3229614087, 11.723, 155.56, 33.028, -0.40236297, 0, 0, -0.9154802) /* Location */
+/* @teleloc 0xC0800007 [11.723000 155.559998 33.028000] -0.402363 0.000000 0.000000 -0.915480 */
+     , (1343226478, 8040, 459075, 70, -60, 0.005499959, -4.371139E-08, 0, -0, -1) /* PCAPRecordedLocation */
+/* @teleloc 0x00070143 [70.000000 -60.000000 0.005500] -0.000000 0.000000 -0.000000 -1.000000 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343226478,  26, 1342258210) /* Monarch */

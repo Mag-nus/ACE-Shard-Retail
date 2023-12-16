@@ -26,11 +26,11 @@ VALUES (2147529195,   1,      32768) /* ItemType - Caster */
      , (2147529195, 159,         43) /* WieldSkillType - VoidMagic */
      , (2147529195, 160,        385) /* WieldDifficulty */
      , (2147529195, 171,         10) /* NumTimesTinkered */
-     , (2147529195, 172,          5) /* AppraisalLongDescDecoration */
+     , (2147529195, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2147529195, 177,          3) /* GemCount */
      , (2147529195, 178,         33) /* GemType */
      , (2147529195, 179,          1) /* ImbuedEffect - CriticalStrike */
-     , (2147529195, 265,        139) /* EquipmentSetId - UNKNOWN_139 */
+     , (2147529195, 265,        139) /* EquipmentSetId - ParagonCaster */
      , (2147529195, 319,         46) /* ItemMaxLevel */
      , (2147529195, 320,          1) /* ItemXpStyle - Fixed */
      , (2147529195, 9015,          1) /* InventoryOrder */;

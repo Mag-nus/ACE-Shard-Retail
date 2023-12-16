@@ -29,8 +29,8 @@ VALUES (2148442568,   1,          1) /* ItemType - MeleeWeapon */
      , (2148442568, 159,         41) /* WieldSkillType - TwoHandedCombat */
      , (2148442568, 160,        420) /* WieldDifficulty */
      , (2148442568, 171,         10) /* NumTimesTinkered */
-     , (2148442568, 172,          5) /* AppraisalLongDescDecoration */
-     , (2148442568, 176,         41) /* AppraisalItemSkill */
+     , (2148442568, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
+     , (2148442568, 176,         41) /* AppraisalItemSkill - TwoHandedCombat */
      , (2148442568, 177,          4) /* GemCount */
      , (2148442568, 178,         33) /* GemType */
      , (2148442568, 179,         64) /* ImbuedEffect - AcidRending */
@@ -48,7 +48,7 @@ VALUES (2148442568,   1, False) /* Stuck */
      , (2148442568,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2148442568,   5, -0.0555555555555556) /* ManaRate */
+VALUES (2148442568,   5, -0.05555555555555555) /* ManaRate */
      , (2148442568,  21,       0) /* WeaponLength */
      , (2148442568,  22,    0.35) /* DamageVariance */
      , (2148442568,  26,       0) /* MaximumVelocity */

@@ -17,9 +17,9 @@ VALUES (1342890516,   1,         16) /* ItemType - Creature */
      , (1342890516, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342890516, 188,          3) /* HeritageGroup - Sho */
      , (1342890516, 192,        286) /* FakeFishingSkill */
-     , (1342890516, 261,        681) /* CharacterTitleId */
+     , (1342890516, 261,        681) /* CharacterTitleId - BeginningsEnd */
      , (1342890516, 262,        136) /* NumCharacterTitles */
-     , (1342890516, 281,          1) /* Faction1Bits */
+     , (1342890516, 281,          1) /* Faction1Bits - CelestialHand */
      , (1342890516, 287,       1001) /* SocietyRankCelhan */
      , (1342890516, 307,         14) /* DamageRating */
      , (1342890516, 308,         15) /* DamageResistRating */
@@ -66,10 +66,10 @@ VALUES (1342890516,   1,   33554433) /* Setup */
      , (1342890516, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1342890516, 1, 3111059486, 95.8998, 121.0056, 9.996649, 0.8515862, 0, 0, 0.5242145) /* Location */
-/* @teleloc 0xB96F001E [95.899800 121.005600 9.996649] 0.851586 0.000000 0.000000 0.524215 */
-     , (1342890516, 8040, 3111059486, 85.0065, 131.1596, 9.088875, -0.2451924, 0, 0, -0.9694744) /* PCAPRecordedLocation */
-/* @teleloc 0xB96F001E [85.006500 131.159600 9.088875] -0.245192 0.000000 0.000000 -0.969474 */;
+VALUES (1342890516, 1, 3111059486, 95.899796, 121.00562, 9.996649, 0.8515862, 0, 0, 0.5242145) /* Location */
+/* @teleloc 0xB96F001E [95.899796 121.005623 9.996649] 0.851586 0.000000 0.000000 0.524215 */
+     , (1342890516, 8040, 3111059486, 85.0065, 131.15956, 9.088875, -0.2451924, 0, -0, -0.96947443) /* PCAPRecordedLocation */
+/* @teleloc 0xB96F001E [85.006500 131.159561 9.088875] -0.245192 0.000000 -0.000000 -0.969474 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342890516,  26, 1342386738) /* Monarch */

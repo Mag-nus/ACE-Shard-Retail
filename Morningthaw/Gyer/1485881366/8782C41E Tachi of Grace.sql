@@ -27,7 +27,7 @@ VALUES (2273494046,   1,          1) /* ItemType - MeleeWeapon */
      , (2273494046, 158,          2) /* WieldRequirements - RawSkill */
      , (2273494046, 159,         44) /* WieldSkillType - HeavyWeapons */
      , (2273494046, 160,        350) /* WieldDifficulty */
-     , (2273494046, 176,          6) /* AppraisalItemSkill */
+     , (2273494046, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (2273494046, 353,          2) /* WeaponType - Sword */
      , (2273494046, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */;
 

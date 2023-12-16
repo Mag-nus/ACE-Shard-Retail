@@ -13,7 +13,7 @@ VALUES (1344175036,   1,         16) /* ItemType - Creature */
      , (1344175036, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1344175036, 134,          4) /* PlayerKillerStatus - PK */
      , (1344175036, 188,          9) /* HeritageGroup - Empyrean */
-     , (1344175036, 261,          1) /* CharacterTitleId */
+     , (1344175036, 261,          1) /* CharacterTitleId - Adventurer */
      , (1344175036, 307,          5) /* DamageRating */
      , (1344175036, 390,          0) /* Enlightenment */
      , (1344175036, 8007,          0) /* PCAPRecordedAutonomousMovement */;
@@ -27,7 +27,7 @@ VALUES (1344175036,   1, True ) /* Stuck */
      , (1344175036,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1344175036,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1344175036,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1344175036,   1, 'Deepso') /* Name */;
@@ -52,8 +52,8 @@ VALUES (1344175036,   1,   33561110) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1344175036, 1, 2847146009, 84, 7.1, 94, 0.9969173, 0, 0, -0.0784591) /* Location */
 /* @teleloc 0xA9B40019 [84.000000 7.100000 94.000000] 0.996917 0.000000 0.000000 -0.078459 */
-     , (1344175036, 8040, 2847146009, 85.26526, 7.323099, 94.006, 0.9969173, 0, 0, -0.0784591) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B40019 [85.265260 7.323099 94.006000] 0.996917 0.000000 0.000000 -0.078459 */;
+     , (1344175036, 8040, 2847146009, 85.26526, 7.3230987, 94.006004, 0.9969173, 0, 0, -0.0784591) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B40019 [85.265259 7.323099 94.006004] 0.996917 0.000000 0.000000 -0.078459 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1344175036, 8000, 1344175036) /* PCAPRecordedObjectIID */;

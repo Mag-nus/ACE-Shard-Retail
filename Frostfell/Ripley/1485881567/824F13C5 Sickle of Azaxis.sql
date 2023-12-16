@@ -26,7 +26,7 @@ VALUES (2186220485,   1,          1) /* ItemType - MeleeWeapon */
      , (2186220485, 158,          2) /* WieldRequirements - RawSkill */
      , (2186220485, 159,         46) /* WieldSkillType - FinesseWeapons */
      , (2186220485, 160,        250) /* WieldDifficulty */
-     , (2186220485, 263,          1) /* ResistanceModifierType */
+     , (2186220485, 263,          1) /* ResistanceModifierType - Slash */
      , (2186220485, 353,          3) /* WeaponType - Axe */
      , (2186220485, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (2186220485, 9015,         19) /* InventoryOrder */;

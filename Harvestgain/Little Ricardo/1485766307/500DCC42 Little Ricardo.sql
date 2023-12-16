@@ -32,7 +32,7 @@ VALUES (1343081538,   1,         16) /* ItemType - Creature */
      , (1343081538, 223,          1) /* AugmentationInnateSelf */
      , (1343081538, 230,          1) /* AugmentationIncreasedCarryingCapacity */
      , (1343081538, 238,          2) /* AugmentationIncreasedSpellDuration */
-     , (1343081538, 261,         57) /* CharacterTitleId */
+     , (1343081538, 261,         57) /* CharacterTitleId - GaerlanSlayer */
      , (1343081538, 301,          1) /* AugmentationSkilledMissile */
      , (1343081538, 307,          5) /* DamageRating */
      , (1343081538, 308,          0) /* DamageResistRating */

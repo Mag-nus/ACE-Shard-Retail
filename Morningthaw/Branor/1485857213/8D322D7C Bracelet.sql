@@ -18,7 +18,7 @@ VALUES (2368875900,   1,          8) /* ItemType - Jewelry */
      , (2368875900, 110,          0) /* ItemAllegianceRankLimit */
      , (2368875900, 115,          0) /* ItemSkillLevelLimit */
      , (2368875900, 131,         60) /* MaterialType - Gold */
-     , (2368875900, 172,          3) /* AppraisalLongDescDecoration */
+     , (2368875900, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2368875900, 188,          2) /* HeritageGroup - Gharundim */
      , (2368875900, 9015,         55) /* InventoryOrder */;
 

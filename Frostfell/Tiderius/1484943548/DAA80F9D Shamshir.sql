@@ -28,7 +28,7 @@ VALUES (3668447133,   1,          1) /* ItemType - MeleeWeapon */
      , (3668447133, 158,          2) /* WieldRequirements - RawSkill */
      , (3668447133, 159,         44) /* WieldSkillType - HeavyWeapons */
      , (3668447133, 160,        250) /* WieldDifficulty */
-     , (3668447133, 176,         44) /* AppraisalItemSkill */
+     , (3668447133, 176,         44) /* AppraisalItemSkill - HeavyWeapons */
      , (3668447133, 188,          2) /* HeritageGroup - Gharundim */
      , (3668447133, 353,          2) /* WeaponType - Sword */
      , (3668447133, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */

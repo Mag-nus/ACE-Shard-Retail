@@ -23,7 +23,7 @@ VALUES (1343170141,   1,         16) /* ItemType - Creature */
      , (1343170141, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343170141, 139,        100) /* DeathLevel */
      , (1343170141, 188,          3) /* HeritageGroup - Sho */
-     , (1343170141, 261,        112) /* CharacterTitleId */
+     , (1343170141, 261,        112) /* CharacterTitleId - RedFury */
      , (1343170141, 307,          0) /* DamageRating */
      , (1343170141, 308,          0) /* DamageResistRating */
      , (1343170141, 312,          0) /* HealOverTime */

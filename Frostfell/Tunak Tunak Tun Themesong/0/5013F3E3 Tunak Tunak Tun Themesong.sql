@@ -16,8 +16,8 @@ VALUES (1343484899,   1,         16) /* ItemType - Creature */
      , (1343484899, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343484899, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343484899, 188,         10) /* HeritageGroup - Penumbraen */
-     , (1343484899, 261,          1) /* CharacterTitleId */
-     , (1343484899, 281,          2) /* Faction1Bits */
+     , (1343484899, 261,          1) /* CharacterTitleId - Adventurer */
+     , (1343484899, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1343484899, 288,         95) /* SocietyRankEldweb */
      , (1343484899, 307,         11) /* DamageRating */
      , (1343484899, 308,          4) /* DamageResistRating */
@@ -62,10 +62,10 @@ VALUES (1343484899,   1,   33560942) /* Setup */
      , (1343484899, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343484899, 1, 151388217, 171.8601, 0.3035889, 27.52559, 0.9449512, 0, 0, -0.3272112) /* Location */
-/* @teleloc 0x09060039 [171.860100 0.303589 27.525590] 0.944951 0.000000 0.000000 -0.327211 */
-     , (1343484899, 8040, 151257096, 12.25705, 189.6214, 87.7, -0.9963453, 0, 0, -0.08541692) /* PCAPRecordedLocation */
-/* @teleloc 0x09040008 [12.257050 189.621400 87.700000] -0.996345 0.000000 0.000000 -0.085417 */;
+VALUES (1343484899, 1, 151388217, 171.86008, 0.30358887, 27.52559, 0.94495124, 0, 0, -0.32721123) /* Location */
+/* @teleloc 0x09060039 [171.860077 0.303589 27.525591] 0.944951 0.000000 0.000000 -0.327211 */
+     , (1343484899, 8040, 151257096, 12.25705, 189.6214, 87.7, -0.9963453, 0, -0, -0.08541692) /* PCAPRecordedLocation */
+/* @teleloc 0x09040008 [12.257050 189.621399 87.699997] -0.996345 0.000000 -0.000000 -0.085417 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343484899,  26, 1343449966) /* Monarch */

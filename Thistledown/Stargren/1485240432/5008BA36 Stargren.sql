@@ -21,7 +21,7 @@ VALUES (1342749238,   1,         16) /* ItemType - Creature */
      , (1342749238, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342749238, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342749238, 188,          2) /* HeritageGroup - Gharundim */
-     , (1342749238, 261,         14) /* CharacterTitleId */
+     , (1342749238, 261,         14) /* CharacterTitleId - Wayfarer */
      , (1342749238, 307,          5) /* DamageRating */
      , (1342749238, 308,          0) /* DamageResistRating */
      , (1342749238, 312,          0) /* HealOverTime */

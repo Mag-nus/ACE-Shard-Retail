@@ -25,7 +25,7 @@ VALUES (1342321228,   1,         16) /* ItemType - Creature */
      , (1342321228, 139,         37) /* DeathLevel */
      , (1342321228, 188,          1) /* HeritageGroup - Aluvian */
      , (1342321228, 199, 1400391063) /* HousePurchaseTimestamp */
-     , (1342321228, 261,          1) /* CharacterTitleId */
+     , (1342321228, 261,          1) /* CharacterTitleId - Adventurer */
      , (1342321228, 307,          0) /* DamageRating */
      , (1342321228, 308,          0) /* DamageResistRating */
      , (1342321228, 312,          0) /* HealOverTime */

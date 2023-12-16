@@ -19,7 +19,7 @@ VALUES (1343023684,   1, True ) /* Stuck */
      , (1343023684,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343023684,  39, 1.29999995231628) /* DefaultScale */;
+VALUES (1343023684,  39, 1.2999999523162842) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343023684,   1, 'Chans Weapons') /* Name */;
@@ -38,8 +38,8 @@ VALUES (1343023684,   1,   33561112) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343023684, 1, 459075, 70, -60, 0.01, 1, 0, 0, -1) /* Location */
 /* @teleloc 0x00070143 [70.000000 -60.000000 0.010000] 1.000000 0.000000 0.000000 -1.000000 */
-     , (1343023684, 8040, 3465871413, 147.757, 96.72054, 20.0065, 0.2635276, 0, 0, -0.9646519) /* PCAPRecordedLocation */
-/* @teleloc 0xCE950035 [147.757000 96.720540 20.006500] 0.263528 0.000000 0.000000 -0.964652 */;
+     , (1343023684, 8040, 3465871413, 147.75699, 96.72054, 20.0065, 0.26352757, 0, 0, -0.9646519) /* PCAPRecordedLocation */
+/* @teleloc 0xCE950035 [147.756989 96.720543 20.006500] 0.263528 0.000000 0.000000 -0.964652 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343023684,  26, 1343003249) /* Monarch */

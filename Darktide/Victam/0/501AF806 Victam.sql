@@ -13,7 +13,7 @@ VALUES (1343944710,   1,         16) /* ItemType - Creature */
      , (1343944710, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343944710, 134,          4) /* PlayerKillerStatus - PK */
      , (1343944710, 188,         10) /* HeritageGroup - Penumbraen */
-     , (1343944710, 261,        446) /* CharacterTitleId */
+     , (1343944710, 261,        446) /* CharacterTitleId - MasteroftheMysticalMug */
      , (1343944710, 390,          0) /* Enlightenment */
      , (1343944710, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
@@ -49,10 +49,10 @@ VALUES (1343944710,   1,   33560941) /* Setup */
      , (1343944710, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343944710, 1, 3316187195, 190.3738, 69.7056, 42.005, -0.8980721, 0, 0, -0.4398484) /* Location */
-/* @teleloc 0xC5A9003B [190.373800 69.705600 42.005000] -0.898072 0.000000 0.000000 -0.439848 */
-     , (1343944710, 8040, 3316187148, 37.68283, 91.46239, 52.005, 0.3288069, 0, 0, -0.9443972) /* PCAPRecordedLocation */
-/* @teleloc 0xC5A9000C [37.682830 91.462390 52.005000] 0.328807 0.000000 0.000000 -0.944397 */;
+VALUES (1343944710, 1, 3316187195, 190.37378, 69.7056, 42.005, -0.89807206, 0, 0, -0.43984836) /* Location */
+/* @teleloc 0xC5A9003B [190.373779 69.705597 42.005001] -0.898072 0.000000 0.000000 -0.439848 */
+     , (1343944710, 8040, 3316187148, 37.68283, 91.46239, 52.005, 0.32880688, 0, 0, -0.9443972) /* PCAPRecordedLocation */
+/* @teleloc 0xC5A9000C [37.682831 91.462387 52.005001] 0.328807 0.000000 0.000000 -0.944397 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343944710,  26, 1343793956) /* Monarch */

@@ -14,7 +14,7 @@ VALUES (1343255210,   1,         16) /* ItemType - Creature */
      , (1343255210, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343255210, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343255210, 188,          9) /* HeritageGroup - Empyrean */
-     , (1343255210, 261,          1) /* CharacterTitleId */
+     , (1343255210, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343255210, 307,         16) /* DamageRating */
      , (1343255210, 390,          0) /* Enlightenment */
      , (1343255210, 8007,          1) /* PCAPRecordedAutonomousMovement */;
@@ -28,7 +28,7 @@ VALUES (1343255210,   1, True ) /* Stuck */
      , (1343255210,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343255210,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1343255210,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343255210,   1, 'Kiviov') /* Name */
@@ -56,8 +56,8 @@ VALUES (1343255210,   1,   33561110) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343255210, 1, 11469080, 40, -13.1651, 0.005, 1, 0, 0, 0) /* Location */
 /* @teleloc 0x00AF0118 [40.000000 -13.165100 0.005000] 1.000000 0.000000 0.000000 0.000000 */
-     , (1343255210, 8040, 3316187148, 41.54995, 89.5012, 52.006, -0.6016776, 0, 0, -0.798739) /* PCAPRecordedLocation */
-/* @teleloc 0xC5A9000C [41.549950 89.501200 52.006000] -0.601678 0.000000 0.000000 -0.798739 */;
+     , (1343255210, 8040, 3316187148, 41.54995, 89.5012, 52.006, -0.6016776, 0, -0, -0.798739) /* PCAPRecordedLocation */
+/* @teleloc 0xC5A9000C [41.549950 89.501198 52.006001] -0.601678 0.000000 -0.000000 -0.798739 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343255210,  26, 1342548926) /* Monarch */

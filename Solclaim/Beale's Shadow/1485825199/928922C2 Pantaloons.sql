@@ -24,7 +24,7 @@ VALUES (2458460866,   1,          4) /* ItemType - Clothing */
      , (2458460866, 158,          7) /* WieldRequirements - Level */
      , (2458460866, 159,          1) /* WieldSkillType - Axe */
      , (2458460866, 160,        180) /* WieldDifficulty */
-     , (2458460866, 172,          1) /* AppraisalLongDescDecoration */
+     , (2458460866, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (2458460866, 370,          2) /* GearDamage */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

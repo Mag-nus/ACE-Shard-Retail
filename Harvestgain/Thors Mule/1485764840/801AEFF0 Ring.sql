@@ -19,7 +19,7 @@ VALUES (2149249008,   1,          8) /* ItemType - Jewelry */
      , (2149249008, 110,          0) /* ItemAllegianceRankLimit */
      , (2149249008, 115,          0) /* ItemSkillLevelLimit */
      , (2149249008, 131,         35) /* MaterialType - RedGarnet */
-     , (2149249008, 172,          5) /* AppraisalLongDescDecoration */
+     , (2149249008, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2149249008, 177,          1) /* GemCount */
      , (2149249008, 178,         49) /* GemType */;
 

@@ -17,7 +17,7 @@ VALUES (2868907960,   1,          2) /* ItemType - Armor */
      , (2868907960, 158,          7) /* WieldRequirements - Level */
      , (2868907960, 159,          1) /* WieldSkillType - Axe */
      , (2868907960, 160,        100) /* WieldDifficulty */
-     , (2868907960, 324,          6) /* HeritageSpecificArmor */
+     , (2868907960, 324,          6) /* HeritageSpecificArmor - Gearknight */
      , (2868907960, 9015,         56) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

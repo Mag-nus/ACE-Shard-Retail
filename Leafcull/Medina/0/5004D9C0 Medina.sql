@@ -16,9 +16,9 @@ VALUES (1342495168,   1,         16) /* ItemType - Creature */
      , (1342495168, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342495168, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342495168, 188,          2) /* HeritageGroup - Gharundim */
-     , (1342495168, 261,        657) /* CharacterTitleId */
+     , (1342495168, 261,        657) /* CharacterTitleId - EliteExplorer */
      , (1342495168, 262,        101) /* NumCharacterTitles */
-     , (1342495168, 281,          1) /* Faction1Bits */
+     , (1342495168, 281,          1) /* Faction1Bits - CelestialHand */
      , (1342495168, 287,       1001) /* SocietyRankCelhan */
      , (1342495168, 307,          7) /* DamageRating */
      , (1342495168, 308,          1) /* DamageResistRating */
@@ -60,10 +60,10 @@ VALUES (1342495168,   1,   33554510) /* Setup */
      , (1342495168, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1342495168, 1, 3332964356, 4.015977, 72.64546, 42.005, 0.7133683, 0, 0, -0.7007893) /* Location */
-/* @teleloc 0xC6A90004 [4.015977 72.645460 42.005000] 0.713368 0.000000 0.000000 -0.700789 */
-     , (1342495168, 8040, 3316187172, 97.65736, 73.68291, 42.005, 0.7044392, 0, 0, -0.7097643) /* PCAPRecordedLocation */
-/* @teleloc 0xC5A90024 [97.657360 73.682910 42.005000] 0.704439 0.000000 0.000000 -0.709764 */;
+VALUES (1342495168, 1, 3332964356, 4.0159774, 72.64546, 42.005, 0.7133683, 0, 0, -0.70078933) /* Location */
+/* @teleloc 0xC6A90004 [4.015977 72.645462 42.005001] 0.713368 0.000000 0.000000 -0.700789 */
+     , (1342495168, 8040, 3316187172, 97.657364, 73.68291, 42.005, 0.7044392, 0, 0, -0.7097643) /* PCAPRecordedLocation */
+/* @teleloc 0xC5A90024 [97.657364 73.682907 42.005001] 0.704439 0.000000 0.000000 -0.709764 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342495168,  26, 1342747180) /* Monarch */

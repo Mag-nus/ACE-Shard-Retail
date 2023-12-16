@@ -23,7 +23,7 @@ VALUES (2149213648,   1,          2) /* ItemType - Armor */
      , (2149213648, 158,          7) /* WieldRequirements - Level */
      , (2149213648, 159,          1) /* WieldSkillType - Axe */
      , (2149213648, 160,        150) /* WieldDifficulty */
-     , (2149213648, 172,          5) /* AppraisalLongDescDecoration */
+     , (2149213648, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2149213648, 177,          4) /* GemCount */
      , (2149213648, 178,         39) /* GemType */
      , (2149213648, 265,         23) /* EquipmentSetId - Hardened */

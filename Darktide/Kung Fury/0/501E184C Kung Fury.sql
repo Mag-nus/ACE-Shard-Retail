@@ -14,7 +14,7 @@ VALUES (1344149580,   1,         16) /* ItemType - Creature */
      , (1344149580, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1344149580, 134,          4) /* PlayerKillerStatus - PK */
      , (1344149580, 188,          9) /* HeritageGroup - Empyrean */
-     , (1344149580, 261,        764) /* CharacterTitleId */
+     , (1344149580, 261,        764) /* CharacterTitleId - VanquisheroftheTitan */
      , (1344149580, 262,         32) /* NumCharacterTitles */
      , (1344149580, 390,          0) /* Enlightenment */
      , (1344149580, 8007,          1) /* PCAPRecordedAutonomousMovement */;
@@ -28,7 +28,7 @@ VALUES (1344149580,   1, True ) /* Stuck */
      , (1344149580,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1344149580,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1344149580,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1344149580,   1, 'Kung Fury') /* Name */
@@ -56,9 +56,9 @@ VALUES (1344149580,   1,   33561110) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1344149580, 1, 3081633828, 96.3416, 78.1671, 110, 0.999889, 0, 0, -0.0148858) /* Location */
-/* @teleloc 0xB7AE0024 [96.341600 78.167100 110.000000] 0.999889 0.000000 0.000000 -0.014886 */
-     , (1344149580, 8040, 2847146030, 141.2029, 120.6066, 66.006, 0.7042711, 0, 0, -0.7099311) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B4002E [141.202900 120.606600 66.006000] 0.704271 0.000000 0.000000 -0.709931 */;
+/* @teleloc 0xB7AE0024 [96.341599 78.167099 110.000000] 0.999889 0.000000 0.000000 -0.014886 */
+     , (1344149580, 8040, 2847146030, 141.20294, 120.606575, 66.006004, 0.70427114, 0, 0, -0.70993114) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B4002E [141.202942 120.606575 66.006004] 0.704271 0.000000 0.000000 -0.709931 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1344149580,  26, 1343793956) /* Monarch */

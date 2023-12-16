@@ -26,7 +26,7 @@ VALUES (2439827644,   1,          4) /* ItemType - Clothing */
      , (2439827644, 159,          1) /* WieldSkillType - Axe */
      , (2439827644, 160,        180) /* WieldDifficulty */
      , (2439827644, 171,          7) /* NumTimesTinkered */
-     , (2439827644, 172,          5) /* AppraisalLongDescDecoration */
+     , (2439827644, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2439827644, 177,          1) /* GemCount */
      , (2439827644, 178,         39) /* GemType */
      , (2439827644, 265,         14) /* EquipmentSetId - Adepts */

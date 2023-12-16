@@ -16,9 +16,9 @@ VALUES (1343227398,   1,         16) /* ItemType - Creature */
      , (1343227398, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343227398, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343227398, 188,          4) /* HeritageGroup - Viamontian */
-     , (1343227398, 261,        646) /* CharacterTitleId */
+     , (1343227398, 261,        646) /* CharacterTitleId - DerethsElite */
      , (1343227398, 262,         21) /* NumCharacterTitles */
-     , (1343227398, 281,          2) /* Faction1Bits */
+     , (1343227398, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1343227398, 288,          1) /* SocietyRankEldweb */
      , (1343227398, 307,         16) /* DamageRating */
      , (1343227398, 308,          4) /* DamageResistRating */
@@ -63,8 +63,8 @@ VALUES (1343227398,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343227398, 1, 459075, 70, -60, 0.01, 1, 0, 0, -1) /* Location */
 /* @teleloc 0x00070143 [70.000000 -60.000000 0.010000] 1.000000 0.000000 0.000000 -1.000000 */
-     , (1343227398, 8040, 459075, 70, -60, 0.004999995, -4.371139E-08, 0, 0, -1) /* PCAPRecordedLocation */
-/* @teleloc 0x00070143 [70.000000 -60.000000 0.005000] 0.000000 0.000000 0.000000 -1.000000 */;
+     , (1343227398, 8040, 459075, 70, -60, 0.004999995, -4.371139E-08, 0, -0, -1) /* PCAPRecordedLocation */
+/* @teleloc 0x00070143 [70.000000 -60.000000 0.005000] -0.000000 0.000000 -0.000000 -1.000000 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343227398,  26, 1343273604) /* Monarch */

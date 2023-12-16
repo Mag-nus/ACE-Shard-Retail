@@ -19,7 +19,7 @@ VALUES (1343204934,   1, True ) /* Stuck */
      , (1343204934,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343204934,  39, 1.10000002384186) /* DefaultScale */;
+VALUES (1343204934,  39, 1.100000023841858) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343204934,   1, 'Blue Hand of Death') /* Name */;
@@ -36,10 +36,10 @@ VALUES (1343204934,   1,   33561114) /* Setup */
      , (1343204934, 8005,     104643) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343204934, 1, 459074, 69.76804, -54.88447, 0.005500019, 1, 0, 0, 0) /* Location */
-/* @teleloc 0x00070142 [69.768040 -54.884470 0.005500] 1.000000 0.000000 0.000000 0.000000 */
+VALUES (1343204934, 1, 459074, 69.768036, -54.88447, 0.0055000186, 1, 0, 0, 0) /* Location */
+/* @teleloc 0x00070142 [69.768036 -54.884472 0.005500] 1.000000 0.000000 0.000000 0.000000 */
      , (1343204934, 8040, 2847146009, 84, 7.1, 94.0055, 0.9969173, 0, 0, -0.0784591) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B40019 [84.000000 7.100000 94.005500] 0.996917 0.000000 0.000000 -0.078459 */;
+/* @teleloc 0xA9B40019 [84.000000 7.100000 94.005501] 0.996917 0.000000 0.000000 -0.078459 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343204934,  26, 1343163697) /* Monarch */

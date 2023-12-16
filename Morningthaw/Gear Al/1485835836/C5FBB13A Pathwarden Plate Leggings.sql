@@ -18,7 +18,7 @@ VALUES (3321606458,   1,          2) /* ItemType - Armor */
      , (3321606458, 108,       1000) /* ItemMaxMana */
      , (3321606458, 109,          0) /* ItemDifficulty */
      , (3321606458, 114,          1) /* Attuned - Attuned */
-     , (3321606458, 324,          6) /* HeritageSpecificArmor */;
+     , (3321606458, 324,          6) /* HeritageSpecificArmor - Gearknight */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (3321606458,   1, False) /* Stuck */

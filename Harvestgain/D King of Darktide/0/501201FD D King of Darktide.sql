@@ -15,7 +15,7 @@ VALUES (1343357437,   1,         16) /* ItemType - Creature */
      , (1343357437, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343357437, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343357437, 188,          3) /* HeritageGroup - Sho */
-     , (1343357437, 261,         60) /* CharacterTitleId */
+     , (1343357437, 261,         60) /* CharacterTitleId - GlendenWoodMilitia */
      , (1343357437, 307,         11) /* DamageRating */
      , (1343357437, 308,          6) /* DamageResistRating */
      , (1343357437, 314,          1) /* CritDamageRating */
@@ -54,10 +54,10 @@ VALUES (1343357437,   1,   33554433) /* Setup */
      , (1343357437, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343357437, 1, 49349142, 234.8991, -90.05074, 12.02423, -0.6850091, 0, 0, -0.7285346) /* Location */
-/* @teleloc 0x02F10216 [234.899100 -90.050740 12.024230] -0.685009 0.000000 0.000000 -0.728535 */
-     , (1343357437, 8040, 23855555, 57.99285, -35.35429, 0.004999995, 0.7662659, 0, 0, 0.6425236) /* PCAPRecordedLocation */
-/* @teleloc 0x016C01C3 [57.992850 -35.354290 0.005000] 0.766266 0.000000 0.000000 0.642524 */;
+VALUES (1343357437, 1, 49349142, 234.89911, -90.050735, 12.024235, -0.68500906, 0, 0, -0.7285346) /* Location */
+/* @teleloc 0x02F10216 [234.899109 -90.050735 12.024235] -0.685009 0.000000 0.000000 -0.728535 */
+     , (1343357437, 8040, 23855555, 57.99285, -35.354294, 0.004999995, 0.7662659, 0, 0, 0.6425236) /* PCAPRecordedLocation */
+/* @teleloc 0x016C01C3 [57.992851 -35.354294 0.005000] 0.766266 0.000000 0.000000 0.642524 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343357437,  26, 1343357437) /* Monarch */

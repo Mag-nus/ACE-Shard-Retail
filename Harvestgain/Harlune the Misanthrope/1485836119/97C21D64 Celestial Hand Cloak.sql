@@ -18,7 +18,7 @@ VALUES (2546081124,   1,          4) /* ItemType - Clothing */
      , (2546081124, 158,          7) /* WieldRequirements - Level */
      , (2546081124, 159,          1) /* WieldSkillType - Axe */
      , (2546081124, 160,        180) /* WieldDifficulty */
-     , (2546081124, 172,          1) /* AppraisalLongDescDecoration */
+     , (2546081124, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (2546081124, 265,         80) /* EquipmentSetId - CloakVoidMagic */
      , (2546081124, 276,          9) /* WieldRequirements4 - IntStat */
      , (2546081124, 277,        287) /* WieldSkillType4 */

@@ -25,7 +25,7 @@ VALUES (2917028326,   1,          1) /* ItemType - MeleeWeapon */
      , (2917028326, 115,        221) /* ItemSkillLevelLimit */
      , (2917028326, 131,         51) /* MaterialType - Ivory */
      , (2917028326, 151,          2) /* HookType - Wall */
-     , (2917028326, 176,         46) /* AppraisalItemSkill */
+     , (2917028326, 176,         46) /* AppraisalItemSkill - FinesseWeapons */
      , (2917028326, 188,          1) /* HeritageGroup - Aluvian */
      , (2917028326, 353,          6) /* WeaponType - Dagger */
      , (2917028326, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */

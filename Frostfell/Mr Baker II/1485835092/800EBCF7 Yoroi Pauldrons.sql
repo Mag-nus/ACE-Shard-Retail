@@ -24,7 +24,7 @@ VALUES (2148449527,   1,          2) /* ItemType - Armor */
      , (2148449527, 159,          1) /* WieldSkillType - Axe */
      , (2148449527, 160,        180) /* WieldDifficulty */
      , (2148449527, 171,         10) /* NumTimesTinkered */
-     , (2148449527, 172,          1) /* AppraisalLongDescDecoration */
+     , (2148449527, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (2148449527, 265,         25) /* EquipmentSetId - Interlocking */
      , (2148449527, 9015,          7) /* InventoryOrder */;
 

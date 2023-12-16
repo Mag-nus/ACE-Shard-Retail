@@ -35,8 +35,8 @@ VALUES (1343100156,   1,         16) /* ItemType - Creature */
      , (1343100156, 232,          1) /* AugmentationSpellsRemainPastDeath */
      , (1343100156, 235,          4) /* AugmentationBonusSalvage */
      , (1343100156, 238,          5) /* AugmentationIncreasedSpellDuration */
-     , (1343100156, 261,        791) /* CharacterTitleId */
-     , (1343100156, 281,          4) /* Faction1Bits */
+     , (1343100156, 261,        791) /* CharacterTitleId - EmotionalWreck */
+     , (1343100156, 281,          4) /* Faction1Bits - RadiantBlood */
      , (1343100156, 289,       1001) /* SocietyRankRadblo */
      , (1343100156, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1343100156, 295,          1) /* AugmentationInfusedItemMagic */

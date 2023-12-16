@@ -18,7 +18,7 @@ VALUES (2386370198,   1,          4) /* ItemType - Clothing */
      , (2386370198, 158,          7) /* WieldRequirements - Level */
      , (2386370198, 159,          1) /* WieldSkillType - Axe */
      , (2386370198, 160,         90) /* WieldDifficulty */
-     , (2386370198, 172,          1) /* AppraisalLongDescDecoration */
+     , (2386370198, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (2386370198, 265,         61) /* EquipmentSetId - CloakHealing */
      , (2386370198, 319,          3) /* ItemMaxLevel */
      , (2386370198, 320,          2) /* ItemXpStyle - ScalesWithLevel */

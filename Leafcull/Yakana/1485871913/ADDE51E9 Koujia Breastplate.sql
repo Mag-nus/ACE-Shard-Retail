@@ -20,7 +20,7 @@ VALUES (2917028329,   1,          2) /* ItemType - Armor */
      , (2917028329, 110,          0) /* ItemAllegianceRankLimit */
      , (2917028329, 115,         86) /* ItemSkillLevelLimit */
      , (2917028329, 131,         58) /* MaterialType - Bronze */
-     , (2917028329, 176,          7) /* AppraisalItemSkill */
+     , (2917028329, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (2917028329, 188,          3) /* HeritageGroup - Sho */
      , (2917028329, 9015,         35) /* InventoryOrder */;
 

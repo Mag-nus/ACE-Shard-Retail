@@ -17,7 +17,7 @@ VALUES (3327046192,   1,          2) /* ItemType - Armor */
      , (3327046192, 108,        700) /* ItemMaxMana */
      , (3327046192, 109,        100) /* ItemDifficulty */
      , (3327046192, 115,        250) /* ItemSkillLevelLimit */
-     , (3327046192, 176,         45) /* AppraisalItemSkill */
+     , (3327046192, 176,         45) /* AppraisalItemSkill - LightWeapons */
      , (3327046192, 9015,        100) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -49,7 +49,7 @@ VALUES (3327046192,   1,   33554655) /* Setup */
      , (3327046192,   6,   67108990) /* PaletteBase */
      , (3327046192,   8,  100671481) /* Icon */
      , (3327046192,  22,  872415275) /* PhysicsEffectTable */
-     , (3327046192,  41,         45) /* ItemSpecializedOnly */
+     , (3327046192,  41,         45) /* ItemSpecializedOnly - LightWeapons */
      , (3327046192, 8001,    2441368) /* PCAPRecordedWeenieHeader - Value, Usable, UiEffects, Container, ValidLocations, Priority, Burden */
      , (3327046192, 8003,         18) /* PCAPRecordedObjectDesc - Inscribable, Attackable */
      , (3327046192, 8005,     135169) /* PCAPRecordedPhysicsDesc - CSetup, PeTable, AnimationFrame */;

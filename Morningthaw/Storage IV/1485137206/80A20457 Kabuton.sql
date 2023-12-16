@@ -23,7 +23,7 @@ VALUES (2158101591,   1,          2) /* ItemType - Armor */
      , (2158101591, 131,         57) /* MaterialType - Brass */
      , (2158101591, 151,          2) /* HookType - Wall */
      , (2158101591, 171,          1) /* NumTimesTinkered */
-     , (2158101591, 172,          7) /* AppraisalLongDescDecoration */
+     , (2158101591, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2158101591, 177,          2) /* GemCount */
      , (2158101591, 178,         38) /* GemType */;
 

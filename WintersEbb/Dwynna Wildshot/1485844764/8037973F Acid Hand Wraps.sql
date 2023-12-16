@@ -28,8 +28,8 @@ VALUES (2151126847,   1,          1) /* ItemType - MeleeWeapon */
      , (2151126847, 158,          2) /* WieldRequirements - RawSkill */
      , (2151126847, 159,         46) /* WieldSkillType - FinesseWeapons */
      , (2151126847, 160,        300) /* WieldDifficulty */
-     , (2151126847, 172,          1) /* AppraisalLongDescDecoration */
-     , (2151126847, 176,         46) /* AppraisalItemSkill */
+     , (2151126847, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (2151126847, 176,         46) /* AppraisalItemSkill - FinesseWeapons */
      , (2151126847, 353,          1) /* WeaponType - Unarmed */
      , (2151126847, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (2151126847, 9015,         18) /* InventoryOrder */;

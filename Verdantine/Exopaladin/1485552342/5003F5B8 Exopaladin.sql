@@ -20,7 +20,7 @@ VALUES (1342436792,   1,         16) /* ItemType - Creature */
      , (1342436792, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342436792, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342436792, 188,          9) /* HeritageGroup - Empyrean */
-     , (1342436792, 261,          1) /* CharacterTitleId */
+     , (1342436792, 261,          1) /* CharacterTitleId - Adventurer */
      , (1342436792, 296,          1) /* AugmentationInfusedLifeMagic */
      , (1342436792, 307,          5) /* DamageRating */
      , (1342436792, 308,          0) /* DamageResistRating */

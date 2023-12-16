@@ -24,7 +24,7 @@ VALUES (2282261492,   1,          2) /* ItemType - Armor */
      , (2282261492, 159,          1) /* WieldSkillType - Axe */
      , (2282261492, 160,        180) /* WieldDifficulty */
      , (2282261492, 171,          9) /* NumTimesTinkered */
-     , (2282261492, 172,          7) /* AppraisalLongDescDecoration */
+     , (2282261492, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2282261492, 177,          2) /* GemCount */
      , (2282261492, 178,         33) /* GemType */
      , (2282261492, 265,         27) /* EquipmentSetId - Acidproof */;

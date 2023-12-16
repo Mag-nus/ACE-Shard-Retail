@@ -24,8 +24,8 @@ VALUES (2151382199,   1,          2) /* ItemType - Armor */
      , (2151382199, 158,          7) /* WieldRequirements - Level */
      , (2151382199, 159,          1) /* WieldSkillType - Axe */
      , (2151382199, 160,        180) /* WieldDifficulty */
-     , (2151382199, 172,          1) /* AppraisalLongDescDecoration */
-     , (2151382199, 176,          7) /* AppraisalItemSkill */
+     , (2151382199, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (2151382199, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (2151382199, 265,         14) /* EquipmentSetId - Adepts */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

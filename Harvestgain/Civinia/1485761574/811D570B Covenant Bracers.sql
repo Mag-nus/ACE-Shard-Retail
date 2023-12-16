@@ -24,8 +24,8 @@ VALUES (2166183691,   1,          2) /* ItemType - Armor */
      , (2166183691, 158,          2) /* WieldRequirements - RawSkill */
      , (2166183691, 159,          6) /* WieldSkillType - MeleeDefense */
      , (2166183691, 160,        370) /* WieldDifficulty */
-     , (2166183691, 172,          7) /* AppraisalLongDescDecoration */
-     , (2166183691, 176,          6) /* AppraisalItemSkill */
+     , (2166183691, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (2166183691, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (2166183691, 177,          2) /* GemCount */
      , (2166183691, 178,         22) /* GemType */
      , (2166183691, 9015,         10) /* InventoryOrder */;

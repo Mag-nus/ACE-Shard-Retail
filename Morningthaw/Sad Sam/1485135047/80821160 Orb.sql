@@ -20,7 +20,7 @@ VALUES (2156007776,   1,      32768) /* ItemType - Caster */
      , (2156007776, 115,          0) /* ItemSkillLevelLimit */
      , (2156007776, 131,         71) /* MaterialType - Serpentine */
      , (2156007776, 151,          2) /* HookType - Wall */
-     , (2156007776, 172,          7) /* AppraisalLongDescDecoration */
+     , (2156007776, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2156007776, 177,          2) /* GemCount */
      , (2156007776, 178,         15) /* GemType */
      , (2156007776, 9015,          0) /* InventoryOrder */;

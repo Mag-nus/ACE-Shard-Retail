@@ -21,7 +21,7 @@ VALUES (2153705649,   1,          2) /* ItemType - Armor */
      , (2153705649, 115,          0) /* ItemSkillLevelLimit */
      , (2153705649, 131,         63) /* MaterialType - Silver */
      , (2153705649, 151,          2) /* HookType - Wall */
-     , (2153705649, 172,          7) /* AppraisalLongDescDecoration */
+     , (2153705649, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2153705649, 177,          2) /* GemCount */
      , (2153705649, 178,         39) /* GemType */
      , (2153705649, 188,          4) /* HeritageGroup - Viamontian */

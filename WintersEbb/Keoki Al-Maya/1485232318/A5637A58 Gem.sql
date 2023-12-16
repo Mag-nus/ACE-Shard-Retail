@@ -20,7 +20,7 @@ VALUES (2774760024,   1,       2048) /* ItemType - Gem */
      , (2774760024, 115,          0) /* ItemSkillLevelLimit */
      , (2774760024, 117,        150) /* ItemManaCost */
      , (2774760024, 131,         30) /* MaterialType - Malachite */
-     , (2774760024, 172,          1) /* AppraisalLongDescDecoration */
+     , (2774760024, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (2774760024, 9015,          1) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

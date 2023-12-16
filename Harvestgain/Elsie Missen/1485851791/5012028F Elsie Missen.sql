@@ -16,7 +16,7 @@ VALUES (1343357583,   1,         16) /* ItemType - Creature */
      , (1343357583, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343357583, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343357583, 188,          1) /* HeritageGroup - Aluvian */
-     , (1343357583, 261,         11) /* CharacterTitleId */
+     , (1343357583, 261,         11) /* CharacterTitleId - Soldier */
      , (1343357583, 307,          0) /* DamageRating */
      , (1343357583, 308,          0) /* DamageResistRating */
      , (1343357583, 312,          0) /* HealOverTime */

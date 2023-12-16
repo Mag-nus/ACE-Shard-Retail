@@ -23,8 +23,8 @@ VALUES (3710969917,   1,          2) /* ItemType - Armor */
      , (3710969917, 158,          7) /* WieldRequirements - Level */
      , (3710969917, 159,          1) /* WieldSkillType - Axe */
      , (3710969917, 160,        180) /* WieldDifficulty */
-     , (3710969917, 172,          1) /* AppraisalLongDescDecoration */
-     , (3710969917, 176,          6) /* AppraisalItemSkill */
+     , (3710969917, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (3710969917, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (3710969917, 265,         27) /* EquipmentSetId - Acidproof */
      , (3710969917, 9015,          2) /* InventoryOrder */;
 

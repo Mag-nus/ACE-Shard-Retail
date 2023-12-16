@@ -12,7 +12,7 @@ VALUES (3422402942,   1,        256) /* ItemType - MissileWeapon */
      , (3422402942,  48,         47) /* WeaponSkill - MissileWeapons */
      , (3422402942,  49,         37) /* WeaponTime */
      , (3422402942,  50,          1) /* AmmoType - Arrow */
-     , (3422402942,  51,          2) /* CombatUse - Missle */
+     , (3422402942,  51,          2) /* CombatUse - Missile */
      , (3422402942,  65,        101) /* Placement - Resting */
      , (3422402942,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3422402942, 105,          6) /* ItemWorkmanship */
@@ -22,7 +22,7 @@ VALUES (3422402942,   1,        256) /* ItemType - MissileWeapon */
      , (3422402942, 159,         47) /* WieldSkillType - MissileWeapons */
      , (3422402942, 160,        290) /* WieldDifficulty */
      , (3422402942, 171,          1) /* NumTimesTinkered */
-     , (3422402942, 172,          5) /* AppraisalLongDescDecoration */
+     , (3422402942, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (3422402942, 177,          1) /* GemCount */
      , (3422402942, 178,         17) /* GemType */
      , (3422402942, 179,        256) /* ImbuedEffect - ElectricRending */

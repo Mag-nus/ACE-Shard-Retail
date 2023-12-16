@@ -35,7 +35,7 @@ VALUES (1343088114,   1,         16) /* ItemType - Creature */
      , (1343088114, 236,          1) /* AugmentationBonusImbueChance */
      , (1343088114, 238,          5) /* AugmentationIncreasedSpellDuration */
      , (1343088114, 240,          2) /* AugmentationResistanceSlash */
-     , (1343088114, 261,         61) /* CharacterTitleId */
+     , (1343088114, 261,         61) /* CharacterTitleId - GoldenGod */
      , (1343088114, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1343088114, 295,          1) /* AugmentationInfusedItemMagic */
      , (1343088114, 296,          1) /* AugmentationInfusedLifeMagic */

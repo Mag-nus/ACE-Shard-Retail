@@ -16,7 +16,7 @@ VALUES (1342696534,   1,         16) /* ItemType - Creature */
      , (1342696534, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342696534, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342696534, 188,          1) /* HeritageGroup - Aluvian */
-     , (1342696534, 261,        130) /* CharacterTitleId */
+     , (1342696534, 261,        130) /* CharacterTitleId - Skullsplitter */
      , (1342696534, 262,         61) /* NumCharacterTitles */
      , (1342696534, 307,          5) /* DamageRating */
      , (1342696534, 323,          1) /* HealingBoostRating */
@@ -58,9 +58,9 @@ VALUES (1342696534,   1,   33554433) /* Setup */
      , (1342696534, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1342696534, 1, 459074, 70.8297, -54.79562, 0.004999995, 0.9999365, 0, 0, 0.01127306) /* Location */
-/* @teleloc 0x00070142 [70.829700 -54.795620 0.005000] 0.999937 0.000000 0.000000 0.011273 */
-     , (1342696534, 8040, 459077, 70, -80, 0.004999995, 0.04578035, 0, 0, -0.9989516) /* PCAPRecordedLocation */
+VALUES (1342696534, 1, 459074, 70.829704, -54.795616, 0.004999995, 0.99993646, 0, 0, 0.011273065) /* Location */
+/* @teleloc 0x00070142 [70.829704 -54.795616 0.005000] 0.999936 0.000000 0.000000 0.011273 */
+     , (1342696534, 8040, 459077, 70, -80, 0.004999995, 0.045780346, 0, 0, -0.99895155) /* PCAPRecordedLocation */
 /* @teleloc 0x00070145 [70.000000 -80.000000 0.005000] 0.045780 0.000000 0.000000 -0.998952 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)

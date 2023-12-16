@@ -15,7 +15,7 @@ VALUES (2457886458,   1,      32768) /* ItemType - Caster */
      , (2457886458, 131,         59) /* MaterialType - Copper */
      , (2457886458, 151,          2) /* HookType - Wall */
      , (2457886458, 171,          6) /* NumTimesTinkered */
-     , (2457886458, 172,          7) /* AppraisalLongDescDecoration */
+     , (2457886458, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2457886458, 177,          2) /* GemCount */
      , (2457886458, 178,         48) /* GemType */;
 

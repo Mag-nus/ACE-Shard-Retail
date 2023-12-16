@@ -1,18 +1,15 @@
 Source: 
-C:\ACEmulator\Logs Unpacked\02-01-2017\l_vorenus_brialmont_captures_readme_for_youtubelinks\brialf4.pcapng
+C:\ACEmulator\Logs Unpacked\02-01-2017\l_vorenus_brialmont_captures_readme_for_youtubelinks\brialf2.pcapng
 
 Alternate sources:
 C:\ACEmulator\Logs Unpacked\02-01-2017\l_vorenus_brialmont_captures_readme_for_youtubelinks\brialf1.pcapng
-C:\ACEmulator\Logs Unpacked\02-01-2017\l_vorenus_brialmont_captures_readme_for_youtubelinks\brialf2.pcapng
 C:\ACEmulator\Logs Unpacked\02-01-2017\l_vorenus_brialmont_captures_readme_for_youtubelinks\brialf3.pcapng
+C:\ACEmulator\Logs Unpacked\02-01-2017\l_vorenus_brialmont_captures_readme_for_youtubelinks\brialf4.pcapng
 
 Partial Exports - Missing appraisal info:
-9C250DA4:Pyreal
 9C250DA2:Wide Breeches
+9C250DA4:Pyreal
 9C250DA5:Sack
-9C4E8D42:Blackmoor's Favor
-9C4E8E79:Facility Hub Portal Gem
-9C50422B:Trade Note (100,000)
 9C250DA6:Ust
 9C250DA7:Calling Stone
 9C250DAA:Foci of Verdancy
@@ -20,31 +17,40 @@ Partial Exports - Missing appraisal info:
 9C250DAC:Lead Scarab
 9C250DAD:Letter From Home
 9C250DAE:Bread
-9C45C072:Pathwarden Gauntlets
+9C4E8D42:Blackmoor's Favor
+9C4E8E79:Facility Hub Portal Gem
 9C45C070:Great Mana Charge
+9C45C072:Pathwarden Gauntlets
+9C4E8F90:Apple
 9C45C06E:Pathwarden Trinket
 9C4E9343:Sturdy Iron Key
 9C4E935B:Salvage
 9C474B8C:Salvage
 9C4E8BDC:Sturdy Iron Key
-9C4E8F90:Apple
+9C50285E:Pyreal
 9C502AE8:Iron Scarab
 9C508B71:Scroll of Cold Protection Self II
+9C50CA7F:Pyreal
+9C4F7BE5:Pyreal
+9C5113E6:Pyreal
 9C50DC75:Mana Draught
-9C50441D:Pyreal
-9C504886:Pyreal
-9C5A3D2A:Pyreal
-9C5060D2:Gem
-9C50794D:Ring
-9C507968:Bracelet
-9C506DA8:Academy Stamp
-9C5A3C26:Renald the Eldest's Reply
-9C5AA6EC:Pyreal
-9C5AA741:Pyreal
-9C5A3E76:Pyreal
-9C5923CC:Pyreal
-9C57F2AD:May'ad ibn Ibsar's Reply
-9C59809F:Nen Ai's Reply
-9C58207E:Turien Di Furza's Reply
+9C4E7E17:Pyreal
+9C5117FE:Pyreal
+9C5120C9:Leather Boots
+9C512601:Studded Leather Cowl
+9C512B2C:Smock
+9C512B2B:Chainmail Gauntlets
+9C51348A:Doublet
+9C51348B:Pants
+9C4E81D0:Scroll of Fire Protection Self III
+9C5153BC:Cloth Cap
+9C5153BB:Steel Toed Boots
+9C51621B:Studded Leather Girth
+9C516841:Studded Leather Bracers
+9C517229:Dinner Plate
+9C516D83:Studded Leather Greaves
+9C517D22:Leather Pauldrons
+9C4EA885:Trousers
+9C4A1DB3:Leather Boots
 
 Missing Exports - Possessed items that were not found:

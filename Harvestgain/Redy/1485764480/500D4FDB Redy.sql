@@ -28,7 +28,7 @@ VALUES (1343049691,   1,         16) /* ItemType - Creature */
      , (1343049691, 219,          3) /* AugmentationInnateEndurance */
      , (1343049691, 222,          4) /* AugmentationInnateFocus */
      , (1343049691, 223,          1) /* AugmentationInnateSelf */
-     , (1343049691, 261,         69) /* CharacterTitleId */
+     , (1343049691, 261,         69) /* CharacterTitleId - HeroofSilyun */
      , (1343049691, 307,          5) /* DamageRating */
      , (1343049691, 308,          0) /* DamageResistRating */
      , (1343049691, 312,          0) /* HealOverTime */

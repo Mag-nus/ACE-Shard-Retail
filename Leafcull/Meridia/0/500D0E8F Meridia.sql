@@ -16,9 +16,9 @@ VALUES (1343032975,   1,         16) /* ItemType - Creature */
      , (1343032975, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343032975, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343032975, 188,          2) /* HeritageGroup - Gharundim */
-     , (1343032975, 261,        135) /* CharacterTitleId */
+     , (1343032975, 261,        135) /* CharacterTitleId - SpringCleaner */
      , (1343032975, 262,         57) /* NumCharacterTitles */
-     , (1343032975, 281,          2) /* Faction1Bits */
+     , (1343032975, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1343032975, 288,        295) /* SocietyRankEldweb */
      , (1343032975, 307,          5) /* DamageRating */
      , (1343032975, 314,          4) /* CritDamageRating */
@@ -60,7 +60,7 @@ VALUES (1343032975,   1,   33554510) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343032975, 1, 459139, 144.6619, -78.70485, 0.004999995, 0.6705178, 0, 0, -0.7418934) /* Location */
-/* @teleloc 0x00070183 [144.661900 -78.704850 0.005000] 0.670518 0.000000 0.000000 -0.741893 */
+/* @teleloc 0x00070183 [144.661896 -78.704849 0.005000] 0.670518 0.000000 0.000000 -0.741893 */
      , (1343032975, 8040, 459077, 70, -80, 0.004999995, 1, 0, 0, 0) /* PCAPRecordedLocation */
 /* @teleloc 0x00070145 [70.000000 -80.000000 0.005000] 1.000000 0.000000 0.000000 0.000000 */;
 

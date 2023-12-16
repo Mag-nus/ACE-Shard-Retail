@@ -21,8 +21,8 @@ VALUES (2164417075,   1,          2) /* ItemType - Armor */
      , (2164417075, 110,          0) /* ItemAllegianceRankLimit */
      , (2164417075, 115,        302) /* ItemSkillLevelLimit */
      , (2164417075, 131,         62) /* MaterialType - Pyreal */
-     , (2164417075, 172,          5) /* AppraisalLongDescDecoration */
-     , (2164417075, 176,          6) /* AppraisalItemSkill */
+     , (2164417075, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
+     , (2164417075, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (2164417075, 177,          4) /* GemCount */
      , (2164417075, 178,         26) /* GemType */;
 

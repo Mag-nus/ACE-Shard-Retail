@@ -11,7 +11,7 @@ VALUES (3675490031,   1,          8) /* ItemType - Jewelry */
      , (3675490031,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3675490031, 105,          6) /* ItemWorkmanship */
      , (3675490031, 131,         17) /* MaterialType - Bloodstone */
-     , (3675490031, 172,          5) /* AppraisalLongDescDecoration */
+     , (3675490031, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (3675490031, 177,          1) /* GemCount */
      , (3675490031, 178,         46) /* GemType */
      , (3675490031, 9015,         62) /* InventoryOrder */;

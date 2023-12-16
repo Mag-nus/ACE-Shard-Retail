@@ -24,7 +24,7 @@ VALUES (1343073506,   1,         16) /* ItemType - Creature */
      , (1343073506, 139,         94) /* DeathLevel */
      , (1343073506, 188,          4) /* HeritageGroup - Viamontian */
      , (1343073506, 199, 1395303467) /* HousePurchaseTimestamp */
-     , (1343073506, 261,        137) /* CharacterTitleId */
+     , (1343073506, 261,        137) /* CharacterTitleId - Stonebreaker */
      , (1343073506, 307,          0) /* DamageRating */
      , (1343073506, 308,          0) /* DamageResistRating */
      , (1343073506, 312,          0) /* HealOverTime */

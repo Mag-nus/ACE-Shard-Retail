@@ -14,8 +14,8 @@ VALUES (1342998228,   1,         16) /* ItemType - Creature */
      , (1342998228, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342998228, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342998228, 188,          1) /* HeritageGroup - Aluvian */
-     , (1342998228, 261,        110) /* CharacterTitleId */
-     , (1342998228, 281,          1) /* Faction1Bits */
+     , (1342998228, 261,        110) /* CharacterTitleId - Queenslayer */
+     , (1342998228, 281,          1) /* Faction1Bits - CelestialHand */
      , (1342998228, 287,       1001) /* SocietyRankCelhan */
      , (1342998228, 307,         18) /* DamageRating */
      , (1342998228, 308,          5) /* DamageResistRating */
@@ -57,9 +57,9 @@ VALUES (1342998228,   1,   33554433) /* Setup */
      , (1342998228, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1342998228, 1, 23855549, 50.47081, -40.85146, 0.004999995, 0.9787943, 0, 0, -0.2048454) /* Location */
+VALUES (1342998228, 1, 23855549, 50.47081, -40.85146, 0.004999995, 0.97879434, 0, 0, -0.20484541) /* Location */
 /* @teleloc 0x016C01BD [50.470810 -40.851460 0.005000] 0.978794 0.000000 0.000000 -0.204845 */
-     , (1342998228, 8040, 23855549, 50.47081, -40.85146, 0.004999995, 0.9787943, 0, 0, -0.2048454) /* PCAPRecordedLocation */
+     , (1342998228, 8040, 23855549, 50.47081, -40.85146, 0.004999995, 0.97879434, 0, 0, -0.20484541) /* PCAPRecordedLocation */
 /* @teleloc 0x016C01BD [50.470810 -40.851460 0.005000] 0.978794 0.000000 0.000000 -0.204845 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)

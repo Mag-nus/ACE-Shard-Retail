@@ -25,7 +25,7 @@ VALUES (3337363186,   1,          2) /* ItemType - Armor */
      , (3337363186, 159,          1) /* WieldSkillType - Axe */
      , (3337363186, 160,        150) /* WieldDifficulty */
      , (3337363186, 171,         10) /* NumTimesTinkered */
-     , (3337363186, 172,          1) /* AppraisalLongDescDecoration */
+     , (3337363186, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (3337363186, 179,       4096) /* ImbuedEffect - MagicDefense */
      , (3337363186, 265,         24) /* EquipmentSetId - Reinforced */;
 

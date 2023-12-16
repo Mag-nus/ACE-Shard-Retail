@@ -25,7 +25,7 @@ VALUES (1342347497,   1,         16) /* ItemType - Creature */
      , (1342347497, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342347497, 139,         71) /* DeathLevel */
      , (1342347497, 188,          2) /* HeritageGroup - Gharundim */
-     , (1342347497, 261,         29) /* CharacterTitleId */
+     , (1342347497, 261,         29) /* CharacterTitleId - BugButcher */
      , (1342347497, 262,          3) /* NumCharacterTitles */
      , (1342347497, 307,          5) /* DamageRating */
      , (1342347497, 308,          0) /* DamageResistRating */

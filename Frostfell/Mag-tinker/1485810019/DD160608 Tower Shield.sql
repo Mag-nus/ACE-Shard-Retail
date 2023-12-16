@@ -21,8 +21,8 @@ VALUES (3709208072,   1,          2) /* ItemType - Armor */
      , (3709208072, 115,        185) /* ItemSkillLevelLimit */
      , (3709208072, 131,         64) /* MaterialType - Steel */
      , (3709208072, 151,          2) /* HookType - Wall */
-     , (3709208072, 172,          7) /* AppraisalLongDescDecoration */
-     , (3709208072, 176,          7) /* AppraisalItemSkill */
+     , (3709208072, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (3709208072, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (3709208072, 177,          2) /* GemCount */
      , (3709208072, 178,         33) /* GemType */
      , (3709208072, 9015,          2) /* InventoryOrder */;

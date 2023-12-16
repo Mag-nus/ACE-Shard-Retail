@@ -26,7 +26,7 @@ VALUES (1342696490,   1,         16) /* ItemType - Creature */
      , (1342696490, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342696490, 139,        135) /* DeathLevel */
      , (1342696490, 188,          3) /* HeritageGroup - Sho */
-     , (1342696490, 261,        646) /* CharacterTitleId */
+     , (1342696490, 261,        646) /* CharacterTitleId - DerethsElite */
      , (1342696490, 262,          9) /* NumCharacterTitles */
      , (1342696490, 307,          5) /* DamageRating */
      , (1342696490, 308,          0) /* DamageResistRating */

@@ -24,8 +24,8 @@ VALUES (3700469798,   1,          2) /* ItemType - Armor */
      , (3700469798, 158,          7) /* WieldRequirements - Level */
      , (3700469798, 159,          1) /* WieldSkillType - Axe */
      , (3700469798, 160,        180) /* WieldDifficulty */
-     , (3700469798, 172,          5) /* AppraisalLongDescDecoration */
-     , (3700469798, 176,          7) /* AppraisalItemSkill */
+     , (3700469798, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
+     , (3700469798, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (3700469798, 177,          2) /* GemCount */
      , (3700469798, 178,         21) /* GemType */
      , (3700469798, 375,          1) /* GearCritDamageResist */

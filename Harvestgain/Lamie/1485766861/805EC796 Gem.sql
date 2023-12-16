@@ -20,7 +20,7 @@ VALUES (2153695126,   1,       2048) /* ItemType - Gem */
      , (2153695126, 115,          0) /* ItemSkillLevelLimit */
      , (2153695126, 117,        300) /* ItemManaCost */
      , (2153695126, 131,         27) /* MaterialType - Jet */
-     , (2153695126, 172,          1) /* AppraisalLongDescDecoration */
+     , (2153695126, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (2153695126, 9015,          0) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

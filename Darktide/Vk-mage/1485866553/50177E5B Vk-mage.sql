@@ -26,7 +26,7 @@ VALUES (1343716955,   1,         16) /* ItemType - Creature */
      , (1343716955, 139,         52) /* DeathLevel */
      , (1343716955, 188,          3) /* HeritageGroup - Sho */
      , (1343716955, 199, 1415050594) /* HousePurchaseTimestamp */
-     , (1343716955, 261,         10) /* CharacterTitleId */
+     , (1343716955, 261,         10) /* CharacterTitleId - LifeCaster */
      , (1343716955, 307,          5) /* DamageRating */
      , (1343716955, 308,          0) /* DamageResistRating */
      , (1343716955, 312,          0) /* HealOverTime */

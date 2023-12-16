@@ -14,7 +14,7 @@ VALUES (1342693371,   1,         16) /* ItemType - Creature */
      , (1342693371, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342693371, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342693371, 188,          1) /* HeritageGroup - Aluvian */
-     , (1342693371, 261,         32) /* CharacterTitleId */
+     , (1342693371, 261,         32) /* CharacterTitleId - CarenziSlayer */
      , (1342693371, 307,          5) /* DamageRating */
      , (1342693371, 390,          0) /* Enlightenment */
      , (1342693371, 8007,          1) /* PCAPRecordedAutonomousMovement */;
@@ -52,8 +52,8 @@ VALUES (1342693371,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1342693371, 1, 1415447005, 20, -80, 0.004999995, 1, 0, 0, 0) /* Location */
 /* @teleloc 0x545E01DD [20.000000 -80.000000 0.005000] 1.000000 0.000000 0.000000 0.000000 */
-     , (1342693371, 8040, 2103705620, 52.07419, 72.53547, 12.005, -0.0116122, 0, 0, -0.9999326) /* PCAPRecordedLocation */
-/* @teleloc 0x7D640014 [52.074190 72.535470 12.005000] -0.011612 0.000000 0.000000 -0.999933 */;
+     , (1342693371, 8040, 2103705620, 52.074192, 72.53547, 12.004999, -0.011612198, 0, -0, -0.9999326) /* PCAPRecordedLocation */
+/* @teleloc 0x7D640014 [52.074192 72.535469 12.004999] -0.011612 0.000000 -0.000000 -0.999933 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342693371,  26, 1342184629) /* Monarch */

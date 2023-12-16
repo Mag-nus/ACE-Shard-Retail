@@ -18,7 +18,7 @@ VALUES (2368838044,   1,          8) /* ItemType - Jewelry */
      , (2368838044, 110,          0) /* ItemAllegianceRankLimit */
      , (2368838044, 115,          0) /* ItemSkillLevelLimit */
      , (2368838044, 131,         64) /* MaterialType - Steel */
-     , (2368838044, 172,          7) /* AppraisalLongDescDecoration */
+     , (2368838044, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2368838044, 177,          1) /* GemCount */
      , (2368838044, 178,         33) /* GemType */
      , (2368838044, 188,          3) /* HeritageGroup - Sho */

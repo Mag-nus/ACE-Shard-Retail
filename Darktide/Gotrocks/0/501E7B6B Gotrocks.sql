@@ -19,9 +19,9 @@ VALUES (1344174955,   1, True ) /* Stuck */
      , (1344174955,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1344174955,  39, 1.20000004768372) /* DefaultScale */
-     , (1344174955, 8010, -2.12742638587952) /* PCAPRecordedVelocityX */
-     , (1344174955, 8011, -3.11538577079773) /* PCAPRecordedVelocityY */
+VALUES (1344174955,  39, 1.2000000476837158) /* DefaultScale */
+     , (1344174955, 8010, -2.1274263858795166) /* PCAPRecordedVelocityX */
+     , (1344174955, 8011, -3.1153857707977295) /* PCAPRecordedVelocityY */
      , (1344174955, 8012,       0) /* PCAPRecordedVelocityZ */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
@@ -39,10 +39,10 @@ VALUES (1344174955,   1,   33561106) /* Setup */
      , (1344174955, 8005,     104647) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Velocity, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1344174955, 1, 2847146026, 123.5112, 44.15485, 94.006, -0.8651654, 0, 0, -0.5014865) /* Location */
-/* @teleloc 0xA9B4002A [123.511200 44.154850 94.006000] -0.865165 0.000000 0.000000 -0.501487 */
-     , (1344174955, 8040, 2847146010, 87.44159, 25.13133, 94.006, 0.3879056, 0, 0, -0.9216991) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B4001A [87.441590 25.131330 94.006000] 0.387906 0.000000 0.000000 -0.921699 */;
+VALUES (1344174955, 1, 2847146026, 123.51119, 44.154846, 94.006004, -0.8651654, 0, 0, -0.50148654) /* Location */
+/* @teleloc 0xA9B4002A [123.511192 44.154846 94.006004] -0.865165 0.000000 0.000000 -0.501487 */
+     , (1344174955, 8040, 2847146010, 87.44159, 25.131334, 94.006004, 0.38790563, 0, 0, -0.9216991) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B4001A [87.441589 25.131334 94.006004] 0.387906 0.000000 0.000000 -0.921699 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1344174955, 8000, 1344174955) /* PCAPRecordedObjectIID */;

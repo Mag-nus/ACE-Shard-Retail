@@ -35,8 +35,8 @@ VALUES (1342716353,   1,         16) /* ItemType - Creature */
      , (1342716353, 233,          1) /* AugmentationCriticalDefense */
      , (1342716353, 235,          4) /* AugmentationBonusSalvage */
      , (1342716353, 238,          5) /* AugmentationIncreasedSpellDuration */
-     , (1342716353, 261,        438) /* CharacterTitleId */
-     , (1342716353, 281,          1) /* Faction1Bits */
+     , (1342716353, 261,        438) /* CharacterTitleId - ExpertFallenHunter */
+     , (1342716353, 281,          1) /* Faction1Bits - CelestialHand */
      , (1342716353, 287,        955) /* SocietyRankCelhan */
      , (1342716353, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1342716353, 295,          1) /* AugmentationInfusedItemMagic */

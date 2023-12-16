@@ -19,10 +19,10 @@ VALUES (1343369264,   1, True ) /* Stuck */
      , (1343369264,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343369264,  39, 1.20000004768372) /* DefaultScale */
-     , (1343369264, 8010, -2.68953728675842) /* PCAPRecordedVelocityX */
-     , (1343369264, 8011, 4.58500576019287) /* PCAPRecordedVelocityY */
-     , (1343369264, 8012, -1.15772998332977) /* PCAPRecordedVelocityZ */;
+VALUES (1343369264,  39, 1.2000000476837158) /* DefaultScale */
+     , (1343369264, 8010, -2.689537286758423) /* PCAPRecordedVelocityX */
+     , (1343369264, 8011, 4.585005760192871) /* PCAPRecordedVelocityY */
+     , (1343369264, 8012, -1.157729983329773) /* PCAPRecordedVelocityZ */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343369264,   1, 'Fudo-Myo') /* Name */;
@@ -39,10 +39,10 @@ VALUES (1343369264,   1,   33561110) /* Setup */
      , (1343369264, 8005,     104583) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Velocity, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343369264, 1, 23855554, 57.03175, -34.51584, 0.005999982, -0.9451673, 0, 0, -0.3265866) /* Location */
-/* @teleloc 0x016C01C2 [57.031750 -34.515840 0.006000] -0.945167 0.000000 0.000000 -0.326587 */
-     , (1343369264, 8040, 23855555, 61.16963, -38.49966, 5.488507, 0.2621524, 0, 0, -0.9650265) /* PCAPRecordedLocation */
-/* @teleloc 0x016C01C3 [61.169630 -38.499660 5.488507] 0.262152 0.000000 0.000000 -0.965027 */;
+VALUES (1343369264, 1, 23855554, 57.031754, -34.51584, 0.0059999824, -0.9451673, 0, 0, -0.32658663) /* Location */
+/* @teleloc 0x016C01C2 [57.031754 -34.515839 0.006000] -0.945167 0.000000 0.000000 -0.326587 */
+     , (1343369264, 8040, 23855555, 61.169632, -38.499664, 5.488507, 0.2621524, 0, 0, -0.9650265) /* PCAPRecordedLocation */
+/* @teleloc 0x016C01C3 [61.169632 -38.499664 5.488507] 0.262152 0.000000 0.000000 -0.965026 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343369264,  26, 1342200341) /* Monarch */

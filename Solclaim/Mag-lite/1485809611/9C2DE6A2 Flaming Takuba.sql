@@ -30,8 +30,8 @@ VALUES (2620253858,   1,          1) /* ItemType - MeleeWeapon */
      , (2620253858, 160,        420) /* WieldDifficulty */
      , (2620253858, 166,         14) /* SlayerCreatureType - Undead */
      , (2620253858, 171,         10) /* NumTimesTinkered */
-     , (2620253858, 172,          7) /* AppraisalLongDescDecoration */
-     , (2620253858, 176,         44) /* AppraisalItemSkill */
+     , (2620253858, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (2620253858, 176,         44) /* AppraisalItemSkill - HeavyWeapons */
      , (2620253858, 177,          4) /* GemCount */
      , (2620253858, 178,         23) /* GemType */
      , (2620253858, 179,        512) /* ImbuedEffect - FireRending */

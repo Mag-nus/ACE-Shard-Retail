@@ -19,7 +19,7 @@ VALUES (2158100541,   1,          8) /* ItemType - Jewelry */
      , (2158100541, 110,          0) /* ItemAllegianceRankLimit */
      , (2158100541, 115,          0) /* ItemSkillLevelLimit */
      , (2158100541, 131,         58) /* MaterialType - Bronze */
-     , (2158100541, 172,          7) /* AppraisalLongDescDecoration */
+     , (2158100541, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2158100541, 177,          2) /* GemCount */
      , (2158100541, 178,         22) /* GemType */
      , (2158100541, 188,          2) /* HeritageGroup - Gharundim */;

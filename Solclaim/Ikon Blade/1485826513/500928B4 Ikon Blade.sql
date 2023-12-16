@@ -40,7 +40,7 @@ VALUES (1342777524,   1,         16) /* ItemType - Creature */
      , (1342777524, 238,          5) /* AugmentationIncreasedSpellDuration */
      , (1342777524, 245,          1) /* AugmentationResistanceFrost */
      , (1342777524, 246,          1) /* AugmentationResistanceLightning */
-     , (1342777524, 261,        442) /* CharacterTitleId */
+     , (1342777524, 261,        442) /* CharacterTitleId - Reanimator */
      , (1342777524, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1342777524, 295,          1) /* AugmentationInfusedItemMagic */
      , (1342777524, 296,          1) /* AugmentationInfusedLifeMagic */

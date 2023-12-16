@@ -25,7 +25,7 @@ VALUES (2164289756,   1,      32768) /* ItemType - Caster */
      , (2164289756, 158,          2) /* WieldRequirements - RawSkill */
      , (2164289756, 159,         43) /* WieldSkillType - VoidMagic */
      , (2164289756, 160,        290) /* WieldDifficulty */
-     , (2164289756, 172,          5) /* AppraisalLongDescDecoration */
+     , (2164289756, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2164289756, 177,          3) /* GemCount */
      , (2164289756, 178,         18) /* GemType */;
 
@@ -62,7 +62,7 @@ VALUES (2164289756,   1,   33561138) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (2164289756, 8040, 3332964380, 77.15137, 94.87038, 41.929, 0.5032295, 0.5032295, -0.4967495, -0.4967495) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001C [77.151370 94.870380 41.929000] 0.503230 0.503230 -0.496750 -0.496750 */;
+/* @teleloc 0xC6A9001C [77.151367 94.870377 41.929001] 0.503229 0.503229 -0.496749 -0.496749 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2164289756,   3, 1343221547) /* Wielder */

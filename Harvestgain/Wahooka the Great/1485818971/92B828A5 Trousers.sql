@@ -22,7 +22,7 @@ VALUES (2461542565,   1,          4) /* ItemType - Clothing */
      , (2461542565, 115,          0) /* ItemSkillLevelLimit */
      , (2461542565, 131,          7) /* MaterialType - Velvet */
      , (2461542565, 171,          1) /* NumTimesTinkered */
-     , (2461542565, 172,          3) /* AppraisalLongDescDecoration */
+     , (2461542565, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2461542565, 188,          2) /* HeritageGroup - Gharundim */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

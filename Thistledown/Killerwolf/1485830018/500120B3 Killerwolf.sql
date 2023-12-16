@@ -26,7 +26,7 @@ VALUES (1342251187,   1,         16) /* ItemType - Creature */
      , (1342251187, 134,          4) /* PlayerKillerStatus - PK */
      , (1342251187, 139,         80) /* DeathLevel */
      , (1342251187, 188,          3) /* HeritageGroup - Sho */
-     , (1342251187, 261,         29) /* CharacterTitleId */
+     , (1342251187, 261,         29) /* CharacterTitleId - BugButcher */
      , (1342251187, 307,          5) /* DamageRating */
      , (1342251187, 308,          0) /* DamageResistRating */
      , (1342251187, 312,          0) /* HealOverTime */

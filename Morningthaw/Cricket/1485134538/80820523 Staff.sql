@@ -21,7 +21,7 @@ VALUES (2156004643,   1,      32768) /* ItemType - Caster */
      , (2156004643, 131,         47) /* MaterialType - WhiteSapphire */
      , (2156004643, 151,          2) /* HookType - Wall */
      , (2156004643, 171,          6) /* NumTimesTinkered */
-     , (2156004643, 172,          7) /* AppraisalLongDescDecoration */
+     , (2156004643, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2156004643, 177,          3) /* GemCount */
      , (2156004643, 178,         41) /* GemType */
      , (2156004643, 9015,          0) /* InventoryOrder */;

@@ -23,7 +23,7 @@ VALUES (2247874654,   1,          4) /* ItemType - Clothing */
      , (2247874654, 158,          7) /* WieldRequirements - Level */
      , (2247874654, 159,          1) /* WieldSkillType - Axe */
      , (2247874654, 160,        180) /* WieldDifficulty */
-     , (2247874654, 172,          1) /* AppraisalLongDescDecoration */
+     , (2247874654, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (2247874654, 370,          3) /* GearDamage */
      , (2247874654, 9015,         83) /* InventoryOrder */;
 

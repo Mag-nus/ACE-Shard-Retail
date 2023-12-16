@@ -20,7 +20,7 @@ VALUES (1343493796,   1,         16) /* ItemType - Creature */
      , (1343493796, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343493796, 188,          1) /* HeritageGroup - Aluvian */
      , (1343493796, 199, 1484434477) /* HousePurchaseTimestamp */
-     , (1343493796, 261,         13) /* CharacterTitleId */
+     , (1343493796, 261,         13) /* CharacterTitleId - WarMage */
      , (1343493796, 307,          0) /* DamageRating */
      , (1343493796, 308,          0) /* DamageResistRating */
      , (1343493796, 312,          0) /* HealOverTime */

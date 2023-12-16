@@ -19,7 +19,7 @@ VALUES (1343484997,   1, True ) /* Stuck */
      , (1343484997,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343484997,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1343484997,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343484997,   1, 'Kylanar Dal''athien') /* Name */;
@@ -36,10 +36,10 @@ VALUES (1343484997,   1,   33561110) /* Setup */
      , (1343484997, 8005,     104643) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343484997, 1, 2847146026, 130.5348, 40.69558, 94.006, -0.6254972, 0, 0, -0.7802264) /* Location */
-/* @teleloc 0xA9B4002A [130.534800 40.695580 94.006000] -0.625497 0.000000 0.000000 -0.780226 */
-     , (1343484997, 8040, 2847146026, 130.5348, 40.69558, 94.006, 0.7785558, 0, 0, 0.6275753) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B4002A [130.534800 40.695580 94.006000] 0.778556 0.000000 0.000000 0.627575 */;
+VALUES (1343484997, 1, 2847146026, 130.53482, 40.69558, 94.006004, -0.62549716, 0, 0, -0.7802264) /* Location */
+/* @teleloc 0xA9B4002A [130.534821 40.695580 94.006004] -0.625497 0.000000 0.000000 -0.780226 */
+     , (1343484997, 8040, 2847146026, 130.53482, 40.69558, 94.006004, 0.7785558, 0, 0, 0.62757534) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B4002A [130.534821 40.695580 94.006004] 0.778556 0.000000 0.000000 0.627575 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343484997,  26, 1343449966) /* Monarch */

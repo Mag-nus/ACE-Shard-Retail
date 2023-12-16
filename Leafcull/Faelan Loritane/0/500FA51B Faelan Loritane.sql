@@ -19,7 +19,7 @@ VALUES (1343202587,   1, True ) /* Stuck */
      , (1343202587,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343202587,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1343202587,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343202587,   1, 'Faelan Loritane') /* Name */;
@@ -37,9 +37,9 @@ VALUES (1343202587,   1,   33561110) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343202587, 1, 2315387410, 58.6391, -89.9231, 6.005, 1, 0, 0, 0) /* Location */
-/* @teleloc 0x8A020212 [58.639100 -89.923100 6.005000] 1.000000 0.000000 0.000000 0.000000 */
-     , (1343202587, 8040, 3465871409, 150.1032, 18.98153, 20.006, -0.8176866, 0, 0, -0.5756637) /* PCAPRecordedLocation */
-/* @teleloc 0xCE950031 [150.103200 18.981530 20.006000] -0.817687 0.000000 0.000000 -0.575664 */;
+/* @teleloc 0x8A020212 [58.639099 -89.923103 6.005000] 1.000000 0.000000 0.000000 0.000000 */
+     , (1343202587, 8040, 3465871409, 150.10324, 18.98153, 20.005999, -0.81768656, 0, -0, -0.57566375) /* PCAPRecordedLocation */
+/* @teleloc 0xCE950031 [150.103241 18.981529 20.005999] -0.817687 0.000000 -0.000000 -0.575664 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343202587,  26, 1342747180) /* Monarch */

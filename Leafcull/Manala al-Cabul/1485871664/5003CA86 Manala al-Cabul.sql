@@ -24,7 +24,7 @@ VALUES (1342425734,   1,         16) /* ItemType - Creature */
      , (1342425734, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342425734, 139,         11) /* DeathLevel */
      , (1342425734, 188,          2) /* HeritageGroup - Gharundim */
-     , (1342425734, 261,          6) /* CharacterTitleId */
+     , (1342425734, 261,          6) /* CharacterTitleId - Sorcerer */
      , (1342425734, 307,          0) /* DamageRating */
      , (1342425734, 308,          0) /* DamageResistRating */
      , (1342425734, 312,          0) /* HealOverTime */

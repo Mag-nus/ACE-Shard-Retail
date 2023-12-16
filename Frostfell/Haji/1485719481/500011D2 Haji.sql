@@ -24,7 +24,7 @@ VALUES (1342181842,   1,         16) /* ItemType - Creature */
      , (1342181842, 139,         16) /* DeathLevel */
      , (1342181842, 188,          3) /* HeritageGroup - Sho */
      , (1342181842, 199, 1432842474) /* HousePurchaseTimestamp */
-     , (1342181842, 261,        765) /* CharacterTitleId */
+     , (1342181842, 261,        765) /* CharacterTitleId - DerethianNewbie */
      , (1342181842, 307,          0) /* DamageRating */
      , (1342181842, 308,          0) /* DamageResistRating */
      , (1342181842, 312,          0) /* HealOverTime */

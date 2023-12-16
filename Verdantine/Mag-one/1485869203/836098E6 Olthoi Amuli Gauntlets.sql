@@ -25,8 +25,8 @@ VALUES (2204145894,   1,          2) /* ItemType - Armor */
      , (2204145894, 159,          1) /* WieldSkillType - Axe */
      , (2204145894, 160,        180) /* WieldDifficulty */
      , (2204145894, 171,         10) /* NumTimesTinkered */
-     , (2204145894, 172,          5) /* AppraisalLongDescDecoration */
-     , (2204145894, 176,          6) /* AppraisalItemSkill */
+     , (2204145894, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
+     , (2204145894, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (2204145894, 177,          2) /* GemCount */
      , (2204145894, 178,         39) /* GemType */
      , (2204145894, 179,       4096) /* ImbuedEffect - MagicDefense */

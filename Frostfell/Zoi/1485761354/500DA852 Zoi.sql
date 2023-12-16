@@ -24,7 +24,7 @@ VALUES (1343072338,   1,         16) /* ItemType - Creature */
      , (1343072338, 139,         55) /* DeathLevel */
      , (1343072338, 188,          3) /* HeritageGroup - Sho */
      , (1343072338, 199, 1426969639) /* HousePurchaseTimestamp */
-     , (1343072338, 261,        112) /* CharacterTitleId */
+     , (1343072338, 261,        112) /* CharacterTitleId - RedFury */
      , (1343072338, 307,          0) /* DamageRating */
      , (1343072338, 308,          0) /* DamageResistRating */
      , (1343072338, 312,          0) /* HealOverTime */

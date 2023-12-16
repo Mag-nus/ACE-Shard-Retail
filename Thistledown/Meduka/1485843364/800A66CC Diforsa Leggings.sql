@@ -24,7 +24,7 @@ VALUES (2148165324,   1,          2) /* ItemType - Armor */
      , (2148165324, 159,          1) /* WieldSkillType - Axe */
      , (2148165324, 160,        180) /* WieldDifficulty */
      , (2148165324, 171,         10) /* NumTimesTinkered */
-     , (2148165324, 172,          1) /* AppraisalLongDescDecoration */
+     , (2148165324, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (2148165324, 179,       4096) /* ImbuedEffect - MagicDefense */
      , (2148165324, 265,         20) /* EquipmentSetId - Dexterous */;
 

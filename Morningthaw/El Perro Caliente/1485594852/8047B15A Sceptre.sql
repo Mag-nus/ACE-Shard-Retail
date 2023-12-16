@@ -21,7 +21,7 @@ VALUES (2152182106,   1,      32768) /* ItemType - Caster */
      , (2152182106, 131,         58) /* MaterialType - Bronze */
      , (2152182106, 151,          2) /* HookType - Wall */
      , (2152182106, 171,          1) /* NumTimesTinkered */
-     , (2152182106, 172,          7) /* AppraisalLongDescDecoration */
+     , (2152182106, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2152182106, 177,          4) /* GemCount */
      , (2152182106, 178,         38) /* GemType */
      , (2152182106, 179,         64) /* ImbuedEffect - AcidRending */

@@ -16,7 +16,7 @@ VALUES (1343145006,   1,         16) /* ItemType - Creature */
      , (1343145006, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343145006, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343145006, 188,          1) /* HeritageGroup - Aluvian */
-     , (1343145006, 261,        669) /* CharacterTitleId */
+     , (1343145006, 261,        669) /* CharacterTitleId - WispWhipper */
      , (1343145006, 307,          8) /* DamageRating */
      , (1343145006, 323,          3) /* HealingBoostRating */
      , (1343145006, 350,         12) /* DotResistRating */
@@ -56,10 +56,10 @@ VALUES (1343145006,   1,   33554433) /* Setup */
      , (1343145006, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343145006, 1, 23855554, 59.84434, -34.96367, 0.004999995, -0.1687961, 0, 0, -0.985651) /* Location */
-/* @teleloc 0x016C01C2 [59.844340 -34.963670 0.005000] -0.168796 0.000000 0.000000 -0.985651 */
-     , (1343145006, 8040, 23855549, 52.49599, -42.83619, 0.004999995, 0.9349299, 0, 0, -0.3548324) /* PCAPRecordedLocation */
-/* @teleloc 0x016C01BD [52.495990 -42.836190 0.005000] 0.934930 0.000000 0.000000 -0.354832 */;
+VALUES (1343145006, 1, 23855554, 59.844337, -34.96367, 0.004999995, -0.16879614, 0, 0, -0.98565096) /* Location */
+/* @teleloc 0x016C01C2 [59.844337 -34.963669 0.005000] -0.168796 0.000000 0.000000 -0.985651 */
+     , (1343145006, 8040, 23855549, 52.495995, -42.836193, 0.004999995, 0.9349299, 0, 0, -0.3548324) /* PCAPRecordedLocation */
+/* @teleloc 0x016C01BD [52.495995 -42.836193 0.005000] 0.934930 0.000000 0.000000 -0.354832 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343145006,  26, 1343142873) /* Monarch */

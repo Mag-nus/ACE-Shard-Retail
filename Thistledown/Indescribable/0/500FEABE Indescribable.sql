@@ -14,7 +14,7 @@ VALUES (1343220414,   1,         16) /* ItemType - Creature */
      , (1343220414, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343220414, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343220414, 188,         11) /* HeritageGroup - Undead */
-     , (1343220414, 261,         61) /* CharacterTitleId */
+     , (1343220414, 261,         61) /* CharacterTitleId - GoldenGod */
      , (1343220414, 307,         11) /* DamageRating */
      , (1343220414, 308,          4) /* DamageResistRating */
      , (1343220414, 313,          1) /* CritRating */
@@ -57,9 +57,9 @@ VALUES (1343220414,   1,   33561244) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343220414, 1, 1925775389, 95.45376, 98.02883, 79.79041, 0.9721186, 0, 0, -0.2344897) /* Location */
-/* @teleloc 0x72C9001D [95.453760 98.028830 79.790410] 0.972119 0.000000 0.000000 -0.234490 */
-     , (1343220414, 8040, 1925775389, 95.45376, 98.02883, 79.79041, -0.8442782, 0, 0, -0.5359052) /* PCAPRecordedLocation */
-/* @teleloc 0x72C9001D [95.453760 98.028830 79.790410] -0.844278 0.000000 0.000000 -0.535905 */;
+/* @teleloc 0x72C9001D [95.453758 98.028831 79.790413] 0.972119 0.000000 0.000000 -0.234490 */
+     , (1343220414, 8040, 1925775389, 95.45376, 98.02883, 79.79041, -0.84427816, 0, -0, -0.53590524) /* PCAPRecordedLocation */
+/* @teleloc 0x72C9001D [95.453758 98.028831 79.790413] -0.844278 0.000000 -0.000000 -0.535905 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343220414,  26, 1342331005) /* Monarch */

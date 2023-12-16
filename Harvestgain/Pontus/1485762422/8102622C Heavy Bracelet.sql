@@ -11,7 +11,7 @@ VALUES (2164417068,   1,          8) /* ItemType - Jewelry */
      , (2164417068,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2164417068, 105,          8) /* ItemWorkmanship */
      , (2164417068, 131,         20) /* MaterialType - Diamond */
-     , (2164417068, 172,          7) /* AppraisalLongDescDecoration */
+     , (2164417068, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2164417068, 177,          3) /* GemCount */
      , (2164417068, 178,         20) /* GemType */
      , (2164417068, 9015,         42) /* InventoryOrder */;

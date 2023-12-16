@@ -21,7 +21,7 @@ VALUES (2923387723,   1,      32768) /* ItemType - Caster */
      , (2923387723, 159,          1) /* WieldSkillType - Axe */
      , (2923387723, 160,        130) /* WieldDifficulty */
      , (2923387723, 166,          6) /* SlayerCreatureType - Tumerok */
-     , (2923387723, 263,          1) /* ResistanceModifierType */
+     , (2923387723, 263,          1) /* ResistanceModifierType - Slash */
      , (2923387723, 9015,          5) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

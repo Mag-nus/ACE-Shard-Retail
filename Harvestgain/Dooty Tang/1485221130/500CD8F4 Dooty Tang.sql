@@ -37,9 +37,9 @@ VALUES (1343019252,   1,         16) /* ItemType - Creature */
      , (1343019252, 238,          2) /* AugmentationIncreasedSpellDuration */
      , (1343019252, 240,          1) /* AugmentationResistanceSlash */
      , (1343019252, 245,          1) /* AugmentationResistanceFrost */
-     , (1343019252, 261,          9) /* CharacterTitleId */
+     , (1343019252, 261,          9) /* CharacterTitleId - BowHunter */
      , (1343019252, 262,         50) /* NumCharacterTitles */
-     , (1343019252, 281,          1) /* Faction1Bits */
+     , (1343019252, 281,          1) /* Faction1Bits - CelestialHand */
      , (1343019252, 287,        850) /* SocietyRankCelhan */
      , (1343019252, 295,          1) /* AugmentationInfusedItemMagic */
      , (1343019252, 296,          1) /* AugmentationInfusedLifeMagic */

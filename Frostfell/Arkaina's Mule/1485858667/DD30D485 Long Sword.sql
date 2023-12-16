@@ -18,7 +18,7 @@ VALUES (3710964869,   1,          1) /* ItemType - MeleeWeapon */
      , (3710964869, 105,          4) /* ItemWorkmanship */
      , (3710964869, 131,         57) /* MaterialType - Brass */
      , (3710964869, 151,          2) /* HookType - Wall */
-     , (3710964869, 172,          7) /* AppraisalLongDescDecoration */
+     , (3710964869, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3710964869, 177,          1) /* GemCount */
      , (3710964869, 178,         27) /* GemType */
      , (3710964869, 353,          2) /* WeaponType - Sword */

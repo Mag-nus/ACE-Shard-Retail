@@ -16,7 +16,7 @@ VALUES (2856818069,   1,          4) /* ItemType - Clothing */
      , (2856818069, 108,       1000) /* ItemMaxMana */
      , (2856818069, 109,         10) /* ItemDifficulty */
      , (2856818069, 115,        200) /* ItemSkillLevelLimit */
-     , (2856818069, 176,         39) /* AppraisalItemSkill */
+     , (2856818069, 176,         39) /* AppraisalItemSkill - Cooking */
      , (2856818069, 9015,          7) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

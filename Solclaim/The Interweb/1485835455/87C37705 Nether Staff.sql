@@ -26,7 +26,7 @@ VALUES (2277734149,   1,      32768) /* ItemType - Caster */
      , (2277734149, 160,        385) /* WieldDifficulty */
      , (2277734149, 166,         89) /* SlayerCreatureType - Mukkir */
      , (2277734149, 171,         10) /* NumTimesTinkered */
-     , (2277734149, 172,          5) /* AppraisalLongDescDecoration */
+     , (2277734149, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2277734149, 177,          4) /* GemCount */
      , (2277734149, 178,         39) /* GemType */
      , (2277734149, 179,          1) /* ImbuedEffect - CriticalStrike */

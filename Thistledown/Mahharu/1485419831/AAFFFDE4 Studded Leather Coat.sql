@@ -13,7 +13,7 @@ VALUES (2868903396,   1,          2) /* ItemType - Armor */
      , (2868903396,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2868903396, 105,          6) /* ItemWorkmanship */
      , (2868903396, 131,         54) /* MaterialType - GromnieHide */
-     , (2868903396, 172,          7) /* AppraisalLongDescDecoration */
+     , (2868903396, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2868903396, 177,          4) /* GemCount */
      , (2868903396, 178,         38) /* GemType */
      , (2868903396, 9015,         24) /* InventoryOrder */;

@@ -22,7 +22,7 @@ VALUES (3710296103,   1,          2) /* ItemType - Armor */
      , (3710296103, 115,        288) /* ItemSkillLevelLimit */
      , (3710296103, 131,         60) /* MaterialType - Gold */
      , (3710296103, 151,          2) /* HookType - Wall */
-     , (3710296103, 176,          7) /* AppraisalItemSkill */
+     , (3710296103, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (3710296103, 188,          1) /* HeritageGroup - Aluvian */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

@@ -9,7 +9,7 @@ VALUES (2166200799,   1,        256) /* ItemType - MissileWeapon */
      , (2166200799,  18,        128) /* UiEffects - Frost */
      , (2166200799,  19,      20939) /* Value */
      , (2166200799,  50,          2) /* AmmoType - Bolt */
-     , (2166200799,  51,          2) /* CombatUse - Missle */
+     , (2166200799,  51,          2) /* CombatUse - Missile */
      , (2166200799,  65,        101) /* Placement - Resting */
      , (2166200799,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2166200799, 131,         23) /* MaterialType - GreenGarnet */

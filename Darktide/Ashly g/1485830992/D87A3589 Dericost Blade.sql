@@ -29,8 +29,8 @@ VALUES (3631887753,   1,          1) /* ItemType - MeleeWeapon */
      , (3631887753, 159,         45) /* WieldSkillType - LightWeapons */
      , (3631887753, 160,        300) /* WieldDifficulty */
      , (3631887753, 171,          6) /* NumTimesTinkered */
-     , (3631887753, 172,          1) /* AppraisalLongDescDecoration */
-     , (3631887753, 176,         45) /* AppraisalItemSkill */
+     , (3631887753, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (3631887753, 176,         45) /* AppraisalItemSkill - LightWeapons */
      , (3631887753, 353,          2) /* WeaponType - Sword */
      , (3631887753, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (3631887753, 9015,         14) /* InventoryOrder */;

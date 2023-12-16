@@ -22,7 +22,7 @@ VALUES (2148671736,   1,          2) /* ItemType - Armor */
      , (2148671736, 131,         60) /* MaterialType - Gold */
      , (2148671736, 151,          2) /* HookType - Wall */
      , (2148671736, 171,         10) /* NumTimesTinkered */
-     , (2148671736, 176,          6) /* AppraisalItemSkill */
+     , (2148671736, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (2148671736, 188,          1) /* HeritageGroup - Aluvian */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

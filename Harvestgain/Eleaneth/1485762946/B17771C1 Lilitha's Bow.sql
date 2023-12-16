@@ -8,7 +8,7 @@ VALUES (2977395137,   1,        256) /* ItemType - MissileWeapon */
      , (2977395137,  16,          1) /* ItemUseable - No */
      , (2977395137,  19,        875) /* Value */
      , (2977395137,  50,          1) /* AmmoType - Arrow */
-     , (2977395137,  51,          2) /* CombatUse - Missle */
+     , (2977395137,  51,          2) /* CombatUse - Missile */
      , (2977395137,  65,        101) /* Placement - Resting */
      , (2977395137,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2977395137, 151,          2) /* HookType - Wall */

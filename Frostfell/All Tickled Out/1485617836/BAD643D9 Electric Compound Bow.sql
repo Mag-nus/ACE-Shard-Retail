@@ -9,7 +9,7 @@ VALUES (3134604249,   1,        256) /* ItemType - MissileWeapon */
      , (3134604249,  18,         65) /* UiEffects - Magical, Lightning */
      , (3134604249,  19,       8451) /* Value */
      , (3134604249,  50,          1) /* AmmoType - Arrow */
-     , (3134604249,  51,          2) /* CombatUse - Missle */
+     , (3134604249,  51,          2) /* CombatUse - Missile */
      , (3134604249,  65,        101) /* Placement - Resting */
      , (3134604249,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3134604249, 131,         77) /* MaterialType - Teak */

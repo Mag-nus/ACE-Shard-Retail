@@ -22,7 +22,7 @@ VALUES (2151524021,   1,      32768) /* ItemType - Caster */
      , (2151524021, 159,          1) /* WieldSkillType - Axe */
      , (2151524021, 160,        160) /* WieldDifficulty */
      , (2151524021, 166,         77) /* SlayerCreatureType - Ghost */
-     , (2151524021, 263,          2) /* ResistanceModifierType */
+     , (2151524021, 263,          2) /* ResistanceModifierType - Pierce */
      , (2151524021, 9015,         11) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

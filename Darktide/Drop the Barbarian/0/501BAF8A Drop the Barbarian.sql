@@ -13,7 +13,7 @@ VALUES (1343991690,   1,         16) /* ItemType - Creature */
      , (1343991690, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343991690, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343991690, 188,          8) /* HeritageGroup - Lugian */
-     , (1343991690, 261,          1) /* CharacterTitleId */
+     , (1343991690, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343991690, 390,          0) /* Enlightenment */
      , (1343991690, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
@@ -26,7 +26,7 @@ VALUES (1343991690,   1, True ) /* Stuck */
      , (1343991690,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343991690,  39, 1.29999995231628) /* DefaultScale */;
+VALUES (1343991690,  39, 1.2999999523162842) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343991690,   1, 'Drop the Barbarian') /* Name */;
@@ -49,10 +49,10 @@ VALUES (1343991690,   1,   33561112) /* Setup */
      , (1343991690, 8005,     104643) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343991690, 1, 2847146009, 76.88422, 14.05528, 94.0065, 0.7599476, 0, 0, -0.6499844) /* Location */
-/* @teleloc 0xA9B40019 [76.884220 14.055280 94.006500] 0.759948 0.000000 0.000000 -0.649984 */
-     , (1343991690, 8040, 2847080472, 70.70036, 191.7736, 93.80876, -0.9999596, 0, 0, -0.008984596) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B30018 [70.700360 191.773600 93.808760] -0.999960 0.000000 0.000000 -0.008985 */;
+VALUES (1343991690, 1, 2847146009, 76.88422, 14.0552845, 94.0065, 0.7599476, 0, 0, -0.64998436) /* Location */
+/* @teleloc 0xA9B40019 [76.884216 14.055285 94.006500] 0.759948 0.000000 0.000000 -0.649984 */
+     , (1343991690, 8040, 2847080472, 70.70036, 191.77359, 93.80876, -0.99995965, 0, -0, -0.008984596) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B30018 [70.700363 191.773590 93.808762] -0.999960 0.000000 -0.000000 -0.008985 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343991690, 8000, 1343991690) /* PCAPRecordedObjectIID */;

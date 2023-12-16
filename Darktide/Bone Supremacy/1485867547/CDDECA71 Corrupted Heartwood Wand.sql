@@ -26,7 +26,7 @@ VALUES (3453930097,   1,      32768) /* ItemType - Caster */
      , (3453930097, 160,        385) /* WieldDifficulty */
      , (3453930097, 171,         10) /* NumTimesTinkered */
      , (3453930097, 179,          1) /* ImbuedEffect - CriticalStrike */
-     , (3453930097, 265,        139) /* EquipmentSetId - UNKNOWN_139 */
+     , (3453930097, 265,        139) /* EquipmentSetId - ParagonCaster */
      , (3453930097, 319,         41) /* ItemMaxLevel */
      , (3453930097, 320,          1) /* ItemXpStyle - Fixed */;
 

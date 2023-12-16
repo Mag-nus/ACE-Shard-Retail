@@ -18,7 +18,7 @@ VALUES (2369712546,   1,          8) /* ItemType - Jewelry */
      , (2369712546, 110,          0) /* ItemAllegianceRankLimit */
      , (2369712546, 115,          0) /* ItemSkillLevelLimit */
      , (2369712546, 131,         62) /* MaterialType - Pyreal */
-     , (2369712546, 172,          7) /* AppraisalLongDescDecoration */
+     , (2369712546, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2369712546, 177,          5) /* GemCount */
      , (2369712546, 178,         38) /* GemType */
      , (2369712546, 9015,          9) /* InventoryOrder */;

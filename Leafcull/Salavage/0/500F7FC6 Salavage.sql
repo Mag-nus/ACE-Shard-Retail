@@ -19,7 +19,7 @@ VALUES (1343193030,   1, True ) /* Stuck */
      , (1343193030,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343193030,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1343193030,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343193030,   1, 'Salavage') /* Name */;
@@ -37,9 +37,9 @@ VALUES (1343193030,   1,   33561106) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343193030, 1, 3332964380, 77.2612, 95.362, 42.006, 0.6389295, 0, 0, -0.7692653) /* Location */
-/* @teleloc 0xC6A9001C [77.261200 95.362000 42.006000] 0.638930 0.000000 0.000000 -0.769265 */
+/* @teleloc 0xC6A9001C [77.261200 95.362000 42.006001] 0.638929 0.000000 0.000000 -0.769265 */
      , (1343193030, 8040, 3332964380, 77.27339, 94.86963, 42.006, 0.7158029, 0, 0, -0.6983023) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001C [77.273390 94.869630 42.006000] 0.715803 0.000000 0.000000 -0.698302 */;
+/* @teleloc 0xC6A9001C [77.273392 94.869629 42.006001] 0.715803 0.000000 0.000000 -0.698302 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343193030, 8000, 1343193030) /* PCAPRecordedObjectIID */;

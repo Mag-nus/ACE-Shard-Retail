@@ -25,7 +25,7 @@ VALUES (1343357091,   1,         16) /* ItemType - Creature */
      , (1343357091, 139,         44) /* DeathLevel */
      , (1343357091, 188,          6) /* HeritageGroup - Gearknight */
      , (1343357091, 192,          0) /* FakeFishingSkill */
-     , (1343357091, 261,          1) /* CharacterTitleId */
+     , (1343357091, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343357091, 307,          5) /* DamageRating */
      , (1343357091, 308,          3) /* DamageResistRating */
      , (1343357091, 310,          1) /* AugmentationDamageReduction */

@@ -19,7 +19,7 @@ VALUES (1343469632,   1, True ) /* Stuck */
      , (1343469632,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343469632,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1343469632,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343469632,   1, 'Junkyard Drakkhen') /* Name */;
@@ -37,9 +37,9 @@ VALUES (1343469632,   1,   33560839) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343469632, 1, 3332964380, 78.23907, 92.5131, 42.006, -0.4667719, 0, 0, -0.8843777) /* Location */
-/* @teleloc 0xC6A9001C [78.239070 92.513100 42.006000] -0.466772 0.000000 0.000000 -0.884378 */
-     , (1343469632, 8040, 3332964380, 78.99094, 93.02695, 42.006, -0.623919, 0, 0, -0.7814891) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001C [78.990940 93.026950 42.006000] -0.623919 0.000000 0.000000 -0.781489 */;
+/* @teleloc 0xC6A9001C [78.239067 92.513100 42.006001] -0.466772 0.000000 0.000000 -0.884378 */
+     , (1343469632, 8040, 3332964380, 78.990944, 93.02695, 42.006, -0.62391895, 0, -0, -0.7814891) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A9001C [78.990944 93.026947 42.006001] -0.623919 0.000000 -0.000000 -0.781489 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343469632,  26, 1342806416) /* Monarch */

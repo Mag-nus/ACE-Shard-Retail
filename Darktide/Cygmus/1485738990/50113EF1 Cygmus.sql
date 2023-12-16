@@ -28,7 +28,7 @@ VALUES (1343307505,   1,         16) /* ItemType - Creature */
      , (1343307505, 188,          1) /* HeritageGroup - Aluvian */
      , (1343307505, 192,          0) /* FakeFishingSkill */
      , (1343307505, 199, 1092442027) /* HousePurchaseTimestamp */
-     , (1343307505, 261,          1) /* CharacterTitleId */
+     , (1343307505, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343307505, 307,          5) /* DamageRating */
      , (1343307505, 308,          0) /* DamageResistRating */
      , (1343307505, 312,          0) /* HealOverTime */

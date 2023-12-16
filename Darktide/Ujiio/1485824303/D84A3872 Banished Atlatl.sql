@@ -8,7 +8,7 @@ VALUES (3628742770,   1,        256) /* ItemType - MissileWeapon */
      , (3628742770,  16,          1) /* ItemUseable - No */
      , (3628742770,  19,       8000) /* Value */
      , (3628742770,  50,          4) /* AmmoType - Atlatl */
-     , (3628742770,  51,          2) /* CombatUse - Missle */
+     , (3628742770,  51,          2) /* CombatUse - Missile */
      , (3628742770,  65,        101) /* Placement - Resting */
      , (3628742770,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3628742770, 151,          2) /* HookType - Wall */

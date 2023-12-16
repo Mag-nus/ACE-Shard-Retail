@@ -21,8 +21,8 @@ VALUES (2156008286,   1,          2) /* ItemType - Armor */
      , (2156008286, 115,        242) /* ItemSkillLevelLimit */
      , (2156008286, 131,         60) /* MaterialType - Gold */
      , (2156008286, 151,          2) /* HookType - Wall */
-     , (2156008286, 172,          3) /* AppraisalLongDescDecoration */
-     , (2156008286, 176,          7) /* AppraisalItemSkill */
+     , (2156008286, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (2156008286, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (2156008286, 9015,         20) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

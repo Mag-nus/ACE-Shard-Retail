@@ -27,7 +27,7 @@ VALUES (1343488764,   1,         16) /* ItemType - Creature */
      , (1343488764, 223,          4) /* AugmentationInnateSelf */
      , (1343488764, 231,          3) /* AugmentationLessDeathItemLoss */
      , (1343488764, 232,          1) /* AugmentationSpellsRemainPastDeath */
-     , (1343488764, 261,          1) /* CharacterTitleId */
+     , (1343488764, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343488764, 307,          0) /* DamageRating */
      , (1343488764, 308,          0) /* DamageResistRating */
      , (1343488764, 312,          0) /* HealOverTime */

@@ -14,7 +14,7 @@ VALUES (2158099968,   1,          2) /* ItemType - Armor */
      , (2158099968, 105,          5) /* ItemWorkmanship */
      , (2158099968, 131,         61) /* MaterialType - Iron */
      , (2158099968, 171,          1) /* NumTimesTinkered */
-     , (2158099968, 172,          7) /* AppraisalLongDescDecoration */
+     , (2158099968, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2158099968, 177,          2) /* GemCount */
      , (2158099968, 178,         39) /* GemType */
      , (2158099968, 9015,          7) /* InventoryOrder */;

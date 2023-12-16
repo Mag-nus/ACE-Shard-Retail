@@ -25,8 +25,8 @@ VALUES (2161047818,   1,          2) /* ItemType - Armor */
      , (2161047818, 159,        287) /* WieldSkillType */
      , (2161047818, 160,          1) /* WieldDifficulty */
      , (2161047818, 171,          3) /* NumTimesTinkered */
-     , (2161047818, 172,          1) /* AppraisalLongDescDecoration */
-     , (2161047818, 176,          6) /* AppraisalItemSkill */
+     , (2161047818, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (2161047818, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (2161047818, 265,         30) /* EquipmentSetId - SocietyArmor */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

@@ -27,8 +27,8 @@ VALUES (1343104435,   1,         16) /* ItemType - Creature */
      , (1343104435, 229,          1) /* AugmentationExtraPackSlot */
      , (1343104435, 230,          2) /* AugmentationIncreasedCarryingCapacity */
      , (1343104435, 231,          3) /* AugmentationLessDeathItemLoss */
-     , (1343104435, 261,          1) /* CharacterTitleId */
-     , (1343104435, 281,          1) /* Faction1Bits */
+     , (1343104435, 261,          1) /* CharacterTitleId - Adventurer */
+     , (1343104435, 281,          1) /* Faction1Bits - CelestialHand */
      , (1343104435, 287,        410) /* SocietyRankCelhan */
      , (1343104435, 295,          1) /* AugmentationInfusedItemMagic */
      , (1343104435, 307,          0) /* DamageRating */

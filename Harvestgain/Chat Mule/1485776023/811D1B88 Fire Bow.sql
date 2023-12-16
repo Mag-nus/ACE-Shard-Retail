@@ -9,7 +9,7 @@ VALUES (2166168456,   1,        256) /* ItemType - MissileWeapon */
      , (2166168456,  18,         33) /* UiEffects - Magical, Fire */
      , (2166168456,  19,       6953) /* Value */
      , (2166168456,  50,          1) /* AmmoType - Arrow */
-     , (2166168456,  51,          2) /* CombatUse - Missle */
+     , (2166168456,  51,          2) /* CombatUse - Missile */
      , (2166168456,  65,        101) /* Placement - Resting */
      , (2166168456,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2166168456, 131,         13) /* MaterialType - Aquamarine */

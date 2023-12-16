@@ -25,7 +25,7 @@ VALUES (3710972945,   1,          1) /* ItemType - MeleeWeapon */
      , (3710972945, 115,        121) /* ItemSkillLevelLimit */
      , (3710972945, 131,         51) /* MaterialType - Ivory */
      , (3710972945, 151,          2) /* HookType - Wall */
-     , (3710972945, 176,         44) /* AppraisalItemSkill */
+     , (3710972945, 176,         44) /* AppraisalItemSkill - HeavyWeapons */
      , (3710972945, 188,          1) /* HeritageGroup - Aluvian */
      , (3710972945, 353,          2) /* WeaponType - Sword */
      , (3710972945, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */

@@ -21,7 +21,7 @@ VALUES (2166217033,   1,          4) /* ItemType - Clothing */
      , (2166217033, 115,          0) /* ItemSkillLevelLimit */
      , (2166217033, 131,          5) /* MaterialType - Satin */
      , (2166217033, 171,          1) /* NumTimesTinkered */
-     , (2166217033, 172,          3) /* AppraisalLongDescDecoration */
+     , (2166217033, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2166217033, 188,          1) /* HeritageGroup - Aluvian */
      , (2166217033, 9015,          1) /* InventoryOrder */;
 

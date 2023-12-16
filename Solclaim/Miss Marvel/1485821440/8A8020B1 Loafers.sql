@@ -15,7 +15,7 @@ VALUES (2323652785,   1,          4) /* ItemType - Clothing */
      , (2323652785, 105,          7) /* ItemWorkmanship */
      , (2323652785, 131,         52) /* MaterialType - Leather */
      , (2323652785, 171,          6) /* NumTimesTinkered */
-     , (2323652785, 172,          5) /* AppraisalLongDescDecoration */
+     , (2323652785, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2323652785, 177,          2) /* GemCount */
      , (2323652785, 178,         30) /* GemType */;
 

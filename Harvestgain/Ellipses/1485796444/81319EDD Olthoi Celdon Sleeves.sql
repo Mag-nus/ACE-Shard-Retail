@@ -25,8 +25,8 @@ VALUES (2167512797,   1,          2) /* ItemType - Armor */
      , (2167512797, 159,          1) /* WieldSkillType - Axe */
      , (2167512797, 160,        180) /* WieldDifficulty */
      , (2167512797, 171,         10) /* NumTimesTinkered */
-     , (2167512797, 172,          1) /* AppraisalLongDescDecoration */
-     , (2167512797, 176,          6) /* AppraisalItemSkill */
+     , (2167512797, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (2167512797, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (2167512797, 265,         15) /* EquipmentSetId - Archers */
      , (2167512797, 374,          1) /* GearCritDamage */;
 

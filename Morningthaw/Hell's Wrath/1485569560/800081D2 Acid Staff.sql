@@ -27,11 +27,11 @@ VALUES (2147516882,   1,      32768) /* ItemType - Caster */
      , (2147516882, 160,        375) /* WieldDifficulty */
      , (2147516882, 166,        101) /* SlayerCreatureType - Anekshay */
      , (2147516882, 171,         10) /* NumTimesTinkered */
-     , (2147516882, 172,          5) /* AppraisalLongDescDecoration */
+     , (2147516882, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2147516882, 177,          2) /* GemCount */
      , (2147516882, 178,         49) /* GemType */
      , (2147516882, 179,         64) /* ImbuedEffect - AcidRending */
-     , (2147516882, 265,        139) /* EquipmentSetId - UNKNOWN_139 */
+     , (2147516882, 265,        139) /* EquipmentSetId - ParagonCaster */
      , (2147516882, 319,         50) /* ItemMaxLevel */
      , (2147516882, 320,          1) /* ItemXpStyle - Fixed */
      , (2147516882, 9015,          6) /* InventoryOrder */;

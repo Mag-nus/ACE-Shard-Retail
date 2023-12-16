@@ -19,7 +19,7 @@ VALUES (1343473089,   1, True ) /* Stuck */
      , (1343473089,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343473089,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1343473089,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343473089,   1, 'Rynthid Tailors') /* Name */;
@@ -36,10 +36,10 @@ VALUES (1343473089,   1,   33561106) /* Setup */
      , (1343473089, 8005,     104579) /* PCAPRecordedPhysicsDesc - CSetup, MTable, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343473089, 1, 23855549, 51.25356, -37.57057, 0.005999982, 0.9476392, 0, 0, -0.3193429) /* Location */
-/* @teleloc 0x016C01BD [51.253560 -37.570570 0.006000] 0.947639 0.000000 0.000000 -0.319343 */
-     , (1343473089, 8040, 23855549, 51.25356, -37.57057, 0.005999982, 0.9476392, 0, 0, -0.3193429) /* PCAPRecordedLocation */
-/* @teleloc 0x016C01BD [51.253560 -37.570570 0.006000] 0.947639 0.000000 0.000000 -0.319343 */;
+VALUES (1343473089, 1, 23855549, 51.253555, -37.570568, 0.0059999824, 0.9476392, 0, 0, -0.31934288) /* Location */
+/* @teleloc 0x016C01BD [51.253555 -37.570568 0.006000] 0.947639 0.000000 0.000000 -0.319343 */
+     , (1343473089, 8040, 23855549, 51.253555, -37.570568, 0.0059999824, 0.9476392, 0, 0, -0.31934288) /* PCAPRecordedLocation */
+/* @teleloc 0x016C01BD [51.253555 -37.570568 0.006000] 0.947639 0.000000 0.000000 -0.319343 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343473089, 8000, 1343473089) /* PCAPRecordedObjectIID */;

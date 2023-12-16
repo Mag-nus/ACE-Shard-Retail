@@ -36,8 +36,8 @@ VALUES (1343228164,   1,         16) /* ItemType - Creature */
      , (1343228164, 233,          1) /* AugmentationCriticalDefense */
      , (1343228164, 235,          4) /* AugmentationBonusSalvage */
      , (1343228164, 238,          5) /* AugmentationIncreasedSpellDuration */
-     , (1343228164, 261,        454) /* CharacterTitleId */
-     , (1343228164, 281,          1) /* Faction1Bits */
+     , (1343228164, 261,        454) /* CharacterTitleId - PitFighter */
+     , (1343228164, 281,          1) /* Faction1Bits - CelestialHand */
      , (1343228164, 287,       1001) /* SocietyRankCelhan */
      , (1343228164, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1343228164, 295,          1) /* AugmentationInfusedItemMagic */

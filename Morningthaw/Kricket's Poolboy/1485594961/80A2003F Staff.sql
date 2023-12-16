@@ -21,7 +21,7 @@ VALUES (2158100543,   1,      32768) /* ItemType - Caster */
      , (2158100543, 131,         63) /* MaterialType - Silver */
      , (2158100543, 151,          2) /* HookType - Wall */
      , (2158100543, 171,          8) /* NumTimesTinkered */
-     , (2158100543, 172,          7) /* AppraisalLongDescDecoration */
+     , (2158100543, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2158100543, 177,          5) /* GemCount */
      , (2158100543, 178,         23) /* GemType */
      , (2158100543, 179,          1) /* ImbuedEffect - CriticalStrike */

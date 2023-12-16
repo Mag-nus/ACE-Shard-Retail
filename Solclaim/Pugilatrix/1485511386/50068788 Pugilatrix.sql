@@ -31,8 +31,8 @@ VALUES (1342605192,   1,         16) /* ItemType - Creature */
      , (1342605192, 232,          1) /* AugmentationSpellsRemainPastDeath */
      , (1342605192, 233,          1) /* AugmentationCriticalDefense */
      , (1342605192, 238,          2) /* AugmentationIncreasedSpellDuration */
-     , (1342605192, 261,         17) /* CharacterTitleId */
-     , (1342605192, 281,          4) /* Faction1Bits */
+     , (1342605192, 261,         17) /* CharacterTitleId - Annihilator */
+     , (1342605192, 281,          4) /* Faction1Bits - RadiantBlood */
      , (1342605192, 289,          1) /* SocietyRankRadblo */
      , (1342605192, 300,          1) /* AugmentationSkilledMelee */
      , (1342605192, 302,          1) /* AugmentationSkilledMagic */

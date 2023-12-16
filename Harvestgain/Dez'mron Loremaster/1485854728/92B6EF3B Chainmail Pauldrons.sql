@@ -21,7 +21,7 @@ VALUES (2461462331,   1,          2) /* ItemType - Armor */
      , (2461462331, 115,          0) /* ItemSkillLevelLimit */
      , (2461462331, 131,         63) /* MaterialType - Silver */
      , (2461462331, 171,          7) /* NumTimesTinkered */
-     , (2461462331, 172,          3) /* AppraisalLongDescDecoration */
+     , (2461462331, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2461462331, 188,          2) /* HeritageGroup - Gharundim */
      , (2461462331, 9015,         44) /* InventoryOrder */;
 

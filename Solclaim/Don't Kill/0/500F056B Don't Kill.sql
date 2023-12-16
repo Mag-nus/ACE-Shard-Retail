@@ -14,7 +14,7 @@ VALUES (1343161707,   1,         16) /* ItemType - Creature */
      , (1343161707, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343161707, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343161707, 188,          3) /* HeritageGroup - Sho */
-     , (1343161707, 261,          1) /* CharacterTitleId */
+     , (1343161707, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343161707, 307,          8) /* DamageRating */
      , (1343161707, 308,          6) /* DamageResistRating */
      , (1343161707, 313,          1) /* CritRating */
@@ -58,7 +58,7 @@ VALUES (1343161707,   1,   33554433) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343161707, 8040, 3332964380, 79.52178, 91.97307, 42.005, 0.01735977, 0, 0, -0.9998493) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001C [79.521780 91.973070 42.005000] 0.017360 0.000000 0.000000 -0.999849 */;
+/* @teleloc 0xC6A9001C [79.521782 91.973068 42.005001] 0.017360 0.000000 0.000000 -0.999849 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343161707,  26, 1342426723) /* Monarch */

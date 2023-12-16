@@ -22,7 +22,7 @@ VALUES (2164477287,   1,          4) /* ItemType - Clothing */
      , (2164477287, 115,          0) /* ItemSkillLevelLimit */
      , (2164477287, 131,         54) /* MaterialType - GromnieHide */
      , (2164477287, 171,          6) /* NumTimesTinkered */
-     , (2164477287, 172,          7) /* AppraisalLongDescDecoration */
+     , (2164477287, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2164477287, 177,          2) /* GemCount */
      , (2164477287, 178,         38) /* GemType */;
 

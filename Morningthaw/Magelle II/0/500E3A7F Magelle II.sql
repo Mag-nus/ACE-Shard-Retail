@@ -16,7 +16,7 @@ VALUES (1343109759,   1,         16) /* ItemType - Creature */
      , (1343109759, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343109759, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343109759, 188,          3) /* HeritageGroup - Sho */
-     , (1343109759, 261,        799) /* CharacterTitleId */
+     , (1343109759, 261,        799) /* CharacterTitleId - FanOfAsheron */
      , (1343109759, 307,          5) /* DamageRating */
      , (1343109759, 390,          0) /* Enlightenment */
      , (1343109759, 8007,          0) /* PCAPRecordedAutonomousMovement */;
@@ -54,10 +54,10 @@ VALUES (1343109759,   1,   33554510) /* Setup */
      , (1343109759, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343109759, 1, 2847080480, 90.29281, 191.6882, 94.03099, -0.6047543, 0, 0, -0.7964121) /* Location */
-/* @teleloc 0xA9B30020 [90.292810 191.688200 94.030990] -0.604754 0.000000 0.000000 -0.796412 */
-     , (1343109759, 8040, 2847080480, 90.47128, 191.615, 94.03709, -0.6018151, 0, 0, -0.7986355) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B30020 [90.471280 191.615000 94.037090] -0.601815 0.000000 0.000000 -0.798636 */;
+VALUES (1343109759, 1, 2847080480, 90.29281, 191.68822, 94.03099, -0.6047543, 0, 0, -0.79641205) /* Location */
+/* @teleloc 0xA9B30020 [90.292809 191.688217 94.030991] -0.604754 0.000000 0.000000 -0.796412 */
+     , (1343109759, 8040, 2847080480, 90.471275, 191.61499, 94.03709, -0.6018151, 0, -0, -0.7986355) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B30020 [90.471275 191.614990 94.037086] -0.601815 0.000000 -0.000000 -0.798635 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343109759,  26, 1342708235) /* Monarch */

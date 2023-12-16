@@ -31,8 +31,8 @@ VALUES (1343085550,   1,         16) /* ItemType - Creature */
      , (1343085550, 232,          1) /* AugmentationSpellsRemainPastDeath */
      , (1343085550, 234,          1) /* AugmentationBonusXp */
      , (1343085550, 238,          1) /* AugmentationIncreasedSpellDuration */
-     , (1343085550, 261,          1) /* CharacterTitleId */
-     , (1343085550, 281,          1) /* Faction1Bits */
+     , (1343085550, 261,          1) /* CharacterTitleId - Adventurer */
+     , (1343085550, 281,          1) /* Faction1Bits - CelestialHand */
      , (1343085550, 287,       1001) /* SocietyRankCelhan */
      , (1343085550, 295,          1) /* AugmentationInfusedItemMagic */
      , (1343085550, 307,          0) /* DamageRating */

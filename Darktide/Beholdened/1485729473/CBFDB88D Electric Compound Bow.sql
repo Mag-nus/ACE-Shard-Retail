@@ -9,7 +9,7 @@ VALUES (3422402701,   1,        256) /* ItemType - MissileWeapon */
      , (3422402701,  18,         64) /* UiEffects - Lightning */
      , (3422402701,  19,       2151) /* Value */
      , (3422402701,  50,          1) /* AmmoType - Arrow */
-     , (3422402701,  51,          2) /* CombatUse - Missle */
+     , (3422402701,  51,          2) /* CombatUse - Missile */
      , (3422402701,  65,        101) /* Placement - Resting */
      , (3422402701,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3422402701, 131,         75) /* MaterialType - Oak */

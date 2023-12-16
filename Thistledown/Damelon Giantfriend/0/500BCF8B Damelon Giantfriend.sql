@@ -16,7 +16,7 @@ VALUES (1342951307,   1,         16) /* ItemType - Creature */
      , (1342951307, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342951307, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342951307, 188,          1) /* HeritageGroup - Aluvian */
-     , (1342951307, 261,        458) /* CharacterTitleId */
+     , (1342951307, 261,        458) /* CharacterTitleId - WarrioroftheSeventhCircle */
      , (1342951307, 262,         32) /* NumCharacterTitles */
      , (1342951307, 307,          5) /* DamageRating */
      , (1342951307, 308,          1) /* DamageResistRating */
@@ -58,8 +58,8 @@ VALUES (1342951307,   1,   33554433) /* Setup */
      , (1342951307, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1342951307, 8040, 23855549, 49.57357, -37.15297, 0.004999995, 0.7820187, 0, 0, -0.623255) /* PCAPRecordedLocation */
-/* @teleloc 0x016C01BD [49.573570 -37.152970 0.005000] 0.782019 0.000000 0.000000 -0.623255 */;
+VALUES (1342951307, 8040, 23855549, 49.573574, -37.152973, 0.004999995, 0.78201866, 0, 0, -0.623255) /* PCAPRecordedLocation */
+/* @teleloc 0x016C01BD [49.573574 -37.152973 0.005000] 0.782019 0.000000 0.000000 -0.623255 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342951307,  26, 1343154536) /* Monarch */

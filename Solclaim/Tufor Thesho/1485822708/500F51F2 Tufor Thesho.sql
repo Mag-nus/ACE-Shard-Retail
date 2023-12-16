@@ -24,7 +24,7 @@ VALUES (1343181298,   1,         16) /* ItemType - Creature */
      , (1343181298, 139,         67) /* DeathLevel */
      , (1343181298, 188,          3) /* HeritageGroup - Sho */
      , (1343181298, 199, 1478550737) /* HousePurchaseTimestamp */
-     , (1343181298, 261,        669) /* CharacterTitleId */
+     , (1343181298, 261,        669) /* CharacterTitleId - WispWhipper */
      , (1343181298, 307,          5) /* DamageRating */
      , (1343181298, 308,          0) /* DamageResistRating */
      , (1343181298, 312,          0) /* HealOverTime */

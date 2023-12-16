@@ -20,7 +20,7 @@ VALUES (3319914811,   1,      32768) /* ItemType - Caster */
      , (3319914811, 115,          0) /* ItemSkillLevelLimit */
      , (3319914811, 131,         51) /* MaterialType - Ivory */
      , (3319914811, 151,          2) /* HookType - Wall */
-     , (3319914811, 172,          7) /* AppraisalLongDescDecoration */
+     , (3319914811, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3319914811, 177,          2) /* GemCount */
      , (3319914811, 178,         50) /* GemType */
      , (3319914811, 188,          1) /* HeritageGroup - Aluvian */

@@ -19,7 +19,7 @@ VALUES (1343224204,   1, True ) /* Stuck */
      , (1343224204,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343224204,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1343224204,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343224204,   1, 'Donkey of Legendaries VIII') /* Name */;
@@ -36,10 +36,10 @@ VALUES (1343224204,   1,   33561106) /* Setup */
      , (1343224204, 8005,     104579) /* PCAPRecordedPhysicsDesc - CSetup, MTable, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343224204, 1, 3332964379, 72.98343, 71.47871, 42.006, 0.2418804, 0, 0, -0.9703061) /* Location */
-/* @teleloc 0xC6A9001B [72.983430 71.478710 42.006000] 0.241880 0.000000 0.000000 -0.970306 */
-     , (1343224204, 8040, 3332964380, 72.9037, 76.4292, 42.006, -0.816716, 0, 0, -0.5770398) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001C [72.903700 76.429200 42.006000] -0.816716 0.000000 0.000000 -0.577040 */;
+VALUES (1343224204, 1, 3332964379, 72.98343, 71.478714, 42.006, 0.24188037, 0, 0, -0.9703061) /* Location */
+/* @teleloc 0xC6A9001B [72.983429 71.478714 42.006001] 0.241880 0.000000 0.000000 -0.970306 */
+     , (1343224204, 8040, 3332964380, 72.9037, 76.4292, 42.006, -0.816716, 0, -0, -0.57703984) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A9001C [72.903702 76.429199 42.006001] -0.816716 0.000000 -0.000000 -0.577040 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343224204,  26, 1342548926) /* Monarch */

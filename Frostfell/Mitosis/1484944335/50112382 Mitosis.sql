@@ -25,7 +25,7 @@ VALUES (1343300482,   1,         16) /* ItemType - Creature */
      , (1343300482, 139,         69) /* DeathLevel */
      , (1343300482, 188,          5) /* HeritageGroup - Shadowbound */
      , (1343300482, 199, 1332375348) /* HousePurchaseTimestamp */
-     , (1343300482, 261,         31) /* CharacterTitleId */
+     , (1343300482, 261,         31) /* CharacterTitleId - BunnyMaster */
      , (1343300482, 262,         18) /* NumCharacterTitles */
      , (1343300482, 298,          1) /* AugmentationCriticalExpertise */
      , (1343300482, 307,          5) /* DamageRating */

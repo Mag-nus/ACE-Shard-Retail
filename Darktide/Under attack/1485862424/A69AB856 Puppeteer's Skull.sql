@@ -27,11 +27,11 @@ VALUES (2795157590,   1,      32768) /* ItemType - Caster */
      , (2795157590, 160,        385) /* WieldDifficulty */
      , (2795157590, 166,         14) /* SlayerCreatureType - Undead */
      , (2795157590, 171,         10) /* NumTimesTinkered */
-     , (2795157590, 172,          5) /* AppraisalLongDescDecoration */
+     , (2795157590, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2795157590, 177,          2) /* GemCount */
      , (2795157590, 178,         38) /* GemType */
      , (2795157590, 179,          1) /* ImbuedEffect - CriticalStrike */
-     , (2795157590, 265,        139) /* EquipmentSetId - UNKNOWN_139 */
+     , (2795157590, 265,        139) /* EquipmentSetId - ParagonCaster */
      , (2795157590, 319,         50) /* ItemMaxLevel */
      , (2795157590, 320,          1) /* ItemXpStyle - Fixed */
      , (2795157590, 383,          1) /* GearPKDamageRating */

@@ -43,9 +43,9 @@ VALUES (1343177206,   1,         16) /* ItemType - Creature */
      , (1343177206, 244,          0) /* AugmentationResistanceFire */
      , (1343177206, 245,          0) /* AugmentationResistanceFrost */
      , (1343177206, 246,          0) /* AugmentationResistanceLightning */
-     , (1343177206, 261,        671) /* CharacterTitleId */
+     , (1343177206, 261,        671) /* CharacterTitleId - FrozenFighter */
      , (1343177206, 262,        105) /* NumCharacterTitles */
-     , (1343177206, 281,          2) /* Faction1Bits */
+     , (1343177206, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1343177206, 288,       1001) /* SocietyRankEldweb */
      , (1343177206, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1343177206, 295,          1) /* AugmentationInfusedItemMagic */

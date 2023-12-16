@@ -18,7 +18,7 @@ VALUES (2169471032,   1,          4) /* ItemType - Clothing */
      , (2169471032, 158,          7) /* WieldRequirements - Level */
      , (2169471032, 159,          1) /* WieldSkillType - Axe */
      , (2169471032, 160,        180) /* WieldDifficulty */
-     , (2169471032, 172,          1) /* AppraisalLongDescDecoration */
+     , (2169471032, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (2169471032, 265,         50) /* EquipmentSetId - CloakArcaneLore */
      , (2169471032, 319,          4) /* ItemMaxLevel */
      , (2169471032, 320,          2) /* ItemXpStyle - ScalesWithLevel */

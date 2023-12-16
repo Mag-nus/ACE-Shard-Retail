@@ -13,7 +13,7 @@ VALUES (1344023822,   1,         16) /* ItemType - Creature */
      , (1344023822, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1344023822, 134,          4) /* PlayerKillerStatus - PK */
      , (1344023822, 188,          2) /* HeritageGroup - Gharundim */
-     , (1344023822, 261,        774) /* CharacterTitleId */
+     , (1344023822, 261,        774) /* CharacterTitleId - Heretic */
      , (1344023822, 390,          0) /* Enlightenment */
      , (1344023822, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
@@ -26,9 +26,9 @@ VALUES (1344023822,   1, True ) /* Stuck */
      , (1344023822,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1344023822, 8010, 5.20846796035767) /* PCAPRecordedVelocityX */
-     , (1344023822, 8011, -1.22917187213898) /* PCAPRecordedVelocityY */
-     , (1344023822, 8012, 1.30211687088013) /* PCAPRecordedVelocityZ */;
+VALUES (1344023822, 8010, 5.208467960357666) /* PCAPRecordedVelocityX */
+     , (1344023822, 8011, -1.229171872138977) /* PCAPRecordedVelocityY */
+     , (1344023822, 8012, 1.302116870880127) /* PCAPRecordedVelocityZ */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1344023822,   1, 'The Blind Hobo') /* Name */
@@ -54,10 +54,10 @@ VALUES (1344023822,   1,   33554433) /* Setup */
      , (1344023822, 8005,     104519) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Velocity, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1344023822, 1, 3370713139, 145.8412, 61.22119, 0.00500001, 0.9772134, 0, 0, -0.212259) /* Location */
-/* @teleloc 0xC8E90033 [145.841200 61.221190 0.005000] 0.977213 0.000000 0.000000 -0.212259 */
-     , (1344023822, 8040, 3370713139, 155.8739, 59.11029, 3.297346, 0.9829547, 0, 0, -0.1838479) /* PCAPRecordedLocation */
-/* @teleloc 0xC8E90033 [155.873900 59.110290 3.297346] 0.982955 0.000000 0.000000 -0.183848 */;
+VALUES (1344023822, 1, 3370713139, 145.8412, 61.22119, 0.00500001, 0.97721344, 0, 0, -0.21225904) /* Location */
+/* @teleloc 0xC8E90033 [145.841202 61.221191 0.005000] 0.977213 0.000000 0.000000 -0.212259 */
+     , (1344023822, 8040, 3370713139, 155.87386, 59.110294, 3.2973464, 0.9829547, 0, 0, -0.18384793) /* PCAPRecordedLocation */
+/* @teleloc 0xC8E90033 [155.873856 59.110294 3.297346] 0.982955 0.000000 0.000000 -0.183848 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1344023822,  26, 1344160090) /* Monarch */

@@ -13,7 +13,7 @@ VALUES (2927374170,   1,        256) /* ItemType - MissileWeapon */
      , (2927374170,  48,         47) /* WeaponSkill - MissileWeapons */
      , (2927374170,  49,         35) /* WeaponTime */
      , (2927374170,  50,          1) /* AmmoType - Arrow */
-     , (2927374170,  51,          2) /* CombatUse - Missle */
+     , (2927374170,  51,          2) /* CombatUse - Missile */
      , (2927374170,  65,          3) /* Placement - LeftHand */
      , (2927374170,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2927374170, 151,          2) /* HookType - Wall */

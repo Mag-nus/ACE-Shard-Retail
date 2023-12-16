@@ -29,8 +29,8 @@ VALUES (2181543905,   1,          1) /* ItemType - MeleeWeapon */
      , (2181543905, 159,         44) /* WieldSkillType - HeavyWeapons */
      , (2181543905, 160,        430) /* WieldDifficulty */
      , (2181543905, 171,         10) /* NumTimesTinkered */
-     , (2181543905, 172,          5) /* AppraisalLongDescDecoration */
-     , (2181543905, 176,         44) /* AppraisalItemSkill */
+     , (2181543905, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
+     , (2181543905, 176,         44) /* AppraisalItemSkill - HeavyWeapons */
      , (2181543905, 177,          2) /* GemCount */
      , (2181543905, 178,         26) /* GemType */
      , (2181543905, 179,          1) /* ImbuedEffect - CriticalStrike */

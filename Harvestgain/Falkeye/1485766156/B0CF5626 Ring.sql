@@ -18,7 +18,7 @@ VALUES (2966378022,   1,          8) /* ItemType - Jewelry */
      , (2966378022, 110,          0) /* ItemAllegianceRankLimit */
      , (2966378022, 115,          0) /* ItemSkillLevelLimit */
      , (2966378022, 131,         51) /* MaterialType - Ivory */
-     , (2966378022, 172,          1) /* AppraisalLongDescDecoration */
+     , (2966378022, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (2966378022, 9015,         24) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -30,7 +30,7 @@ VALUES (2966378022,   1, False) /* Stuck */
      , (2966378022,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2966378022,   5, -0.0555555555555556) /* ManaRate */
+VALUES (2966378022,   5, -0.05555555555555555) /* ManaRate */
      , (2966378022,  39,     0.5) /* DefaultScale */
      , (2966378022, 8004,       6) /* PCAPRecordedWorkmanship */;
 

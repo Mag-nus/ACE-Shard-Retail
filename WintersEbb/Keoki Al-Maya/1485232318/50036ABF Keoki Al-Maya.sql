@@ -27,7 +27,7 @@ VALUES (1342401215,   1,         16) /* ItemType - Creature */
      , (1342401215, 139,        127) /* DeathLevel */
      , (1342401215, 188,          2) /* HeritageGroup - Gharundim */
      , (1342401215, 199,          0) /* HousePurchaseTimestamp */
-     , (1342401215, 261,        100) /* CharacterTitleId */
+     , (1342401215, 261,        100) /* CharacterTitleId - ParagonofDeath */
      , (1342401215, 307,          5) /* DamageRating */
      , (1342401215, 308,          0) /* DamageResistRating */
      , (1342401215, 312,          0) /* HealOverTime */

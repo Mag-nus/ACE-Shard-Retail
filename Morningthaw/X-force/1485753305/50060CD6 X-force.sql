@@ -27,7 +27,7 @@ VALUES (1342573782,   1,         16) /* ItemType - Creature */
      , (1342573782, 188,          3) /* HeritageGroup - Sho */
      , (1342573782, 199, 1479592783) /* HousePurchaseTimestamp */
      , (1342573782, 238,          5) /* AugmentationIncreasedSpellDuration */
-     , (1342573782, 261,         17) /* CharacterTitleId */
+     , (1342573782, 261,         17) /* CharacterTitleId - Annihilator */
      , (1342573782, 307,          5) /* DamageRating */
      , (1342573782, 308,          0) /* DamageResistRating */
      , (1342573782, 312,          0) /* HealOverTime */

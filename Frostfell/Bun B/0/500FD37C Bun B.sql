@@ -14,8 +14,8 @@ VALUES (1343214460,   1,         16) /* ItemType - Creature */
      , (1343214460, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343214460, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343214460, 188,          2) /* HeritageGroup - Gharundim */
-     , (1343214460, 261,        773) /* CharacterTitleId */
-     , (1343214460, 281,          4) /* Faction1Bits */
+     , (1343214460, 261,        773) /* CharacterTitleId - AnAubereanLegend */
+     , (1343214460, 281,          4) /* Faction1Bits - RadiantBlood */
      , (1343214460, 289,        480) /* SocietyRankRadblo */
      , (1343214460, 307,         13) /* DamageRating */
      , (1343214460, 308,          5) /* DamageResistRating */
@@ -57,8 +57,8 @@ VALUES (1343214460,   1,   33554433) /* Setup */
      , (1343214460, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343214460, 1, 459073, 70.16211, -44.91703, 0.004999995, 0.9997295, 0, 0, 0.02325646) /* Location */
-/* @teleloc 0x00070141 [70.162110 -44.917030 0.005000] 0.999730 0.000000 0.000000 0.023256 */
+VALUES (1343214460, 1, 459073, 70.16211, -44.91703, 0.004999995, 0.9997295, 0, 0, 0.023256456) /* Location */
+/* @teleloc 0x00070141 [70.162109 -44.917030 0.005000] 0.999730 0.000000 0.000000 0.023256 */
      , (1343214460, 8040, 459077, 70, -80, 0.004999995, 1, 0, 0, 0) /* PCAPRecordedLocation */
 /* @teleloc 0x00070145 [70.000000 -80.000000 0.005000] 1.000000 0.000000 0.000000 0.000000 */;
 

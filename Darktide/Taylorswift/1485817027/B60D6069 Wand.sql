@@ -23,7 +23,7 @@ VALUES (3054329961,   1,      32768) /* ItemType - Caster */
      , (3054329961, 158,          7) /* WieldRequirements - Level */
      , (3054329961, 159,          1) /* WieldSkillType - Axe */
      , (3054329961, 160,        180) /* WieldDifficulty */
-     , (3054329961, 172,          5) /* AppraisalLongDescDecoration */
+     , (3054329961, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (3054329961, 177,          4) /* GemCount */
      , (3054329961, 178,         23) /* GemType */
      , (3054329961, 9015,         71) /* InventoryOrder */;
@@ -37,7 +37,7 @@ VALUES (3054329961,   1, False) /* Stuck */
      , (3054329961,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3054329961,   5, -0.0555555555555556) /* ManaRate */
+VALUES (3054329961,   5, -0.05555555555555555) /* ManaRate */
      , (3054329961,  29,    1.15) /* WeaponDefense */
      , (3054329961, 144,    0.07) /* ManaConversionMod */
      , (3054329961, 8004,       7) /* PCAPRecordedWorkmanship */;

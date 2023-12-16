@@ -23,7 +23,7 @@ VALUES (2164134159,   1,          1) /* ItemType - MeleeWeapon */
      , (2164134159, 159,         45) /* WieldSkillType - LightWeapons */
      , (2164134159, 160,        250) /* WieldDifficulty */
      , (2164134159, 171,          1) /* NumTimesTinkered */
-     , (2164134159, 172,          3) /* AppraisalLongDescDecoration */
+     , (2164134159, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2164134159, 179,        512) /* ImbuedEffect - FireRending */
      , (2164134159, 353,          1) /* WeaponType - Unarmed */
      , (2164134159, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */

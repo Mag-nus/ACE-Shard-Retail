@@ -14,8 +14,8 @@ VALUES (1343457467,   1,         16) /* ItemType - Creature */
      , (1343457467, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343457467, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343457467, 188,          4) /* HeritageGroup - Viamontian */
-     , (1343457467, 261,          1) /* CharacterTitleId */
-     , (1343457467, 281,          1) /* Faction1Bits */
+     , (1343457467, 261,          1) /* CharacterTitleId - Adventurer */
+     , (1343457467, 281,          1) /* Faction1Bits - CelestialHand */
      , (1343457467, 287,          1) /* SocietyRankCelhan */
      , (1343457467, 307,         39) /* DamageRating */
      , (1343457467, 308,          8) /* DamageResistRating */

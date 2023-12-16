@@ -25,7 +25,7 @@ VALUES (1344175294,   1,         16) /* ItemType - Creature */
      , (1344175294, 188,         10) /* HeritageGroup - Penumbraen */
      , (1344175294, 192,          0) /* FakeFishingSkill */
      , (1344175294, 199, 1248051653) /* HousePurchaseTimestamp */
-     , (1344175294, 261,          1) /* CharacterTitleId */
+     , (1344175294, 261,          1) /* CharacterTitleId - Adventurer */
      , (1344175294, 298,          1) /* AugmentationCriticalExpertise */
      , (1344175294, 307,          0) /* DamageRating */
      , (1344175294, 308,          0) /* DamageResistRating */

@@ -22,7 +22,7 @@ VALUES (2461428865,   1,          1) /* ItemType - MeleeWeapon */
      , (2461428865, 109,        100) /* ItemDifficulty */
      , (2461428865, 115,        200) /* ItemSkillLevelLimit */
      , (2461428865, 151,          2) /* HookType - Wall */
-     , (2461428865, 176,         44) /* AppraisalItemSkill */
+     , (2461428865, 176,         44) /* AppraisalItemSkill - HeavyWeapons */
      , (2461428865, 353,          5) /* WeaponType - Spear */
      , (2461428865, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (2461428865, 9015,         14) /* InventoryOrder */;
@@ -54,7 +54,7 @@ INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (2461428865,   1,   33557008) /* Setup */
      , (2461428865,   8,  100671499) /* Icon */
      , (2461428865,  22,  872415275) /* PhysicsEffectTable */
-     , (2461428865,  41,         44) /* ItemSpecializedOnly */
+     , (2461428865,  41,         44) /* ItemSpecializedOnly - HeavyWeapons */
      , (2461428865, 8001,  270615192) /* PCAPRecordedWeenieHeader - Value, Usable, UiEffects, CombatUse, Container, ValidLocations, Burden, HookType */
      , (2461428865, 8003,         18) /* PCAPRecordedObjectDesc - Inscribable, Attackable */
      , (2461428865, 8005,     135169) /* PCAPRecordedPhysicsDesc - CSetup, PeTable, AnimationFrame */;

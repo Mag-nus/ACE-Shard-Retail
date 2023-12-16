@@ -19,7 +19,7 @@ VALUES (2879172669,   1,      32768) /* ItemType - Caster */
      , (2879172669, 159,         34) /* WieldSkillType - WarMagic */
      , (2879172669, 160,        290) /* WieldDifficulty */
      , (2879172669, 171,          1) /* NumTimesTinkered */
-     , (2879172669, 172,          1) /* AppraisalLongDescDecoration */
+     , (2879172669, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (2879172669, 179,        512) /* ImbuedEffect - FireRending */
      , (2879172669, 9015,          0) /* InventoryOrder */;
 

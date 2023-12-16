@@ -7,7 +7,7 @@ VALUES (3704725749,   1,        256) /* ItemType - MissileWeapon */
      , (3704725749,   9,    4194304) /* ValidLocations - MissileWeapon */
      , (3704725749,  16,          1) /* ItemUseable - No */
      , (3704725749,  19,       8711) /* Value */
-     , (3704725749,  51,          2) /* CombatUse - Missle */
+     , (3704725749,  51,          2) /* CombatUse - Missile */
      , (3704725749,  65,        101) /* Placement - Resting */
      , (3704725749,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (3704725749, 131,         62) /* MaterialType - Pyreal */

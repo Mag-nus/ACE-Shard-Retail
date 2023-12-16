@@ -9,7 +9,7 @@ VALUES (2298681880,   1,        256) /* ItemType - MissileWeapon */
      , (2298681880,  18,         33) /* UiEffects - Magical, Fire */
      , (2298681880,  19,       8127) /* Value */
      , (2298681880,  50,          1) /* AmmoType - Arrow */
-     , (2298681880,  51,          2) /* CombatUse - Missle */
+     , (2298681880,  51,          2) /* CombatUse - Missile */
      , (2298681880,  65,        101) /* Placement - Resting */
      , (2298681880,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2298681880, 131,         51) /* MaterialType - Ivory */

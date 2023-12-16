@@ -27,7 +27,7 @@ VALUES (1342479658,   1,         16) /* ItemType - Creature */
      , (1342479658, 139,        126) /* DeathLevel */
      , (1342479658, 188,          3) /* HeritageGroup - Sho */
      , (1342479658, 199,          0) /* HousePurchaseTimestamp */
-     , (1342479658, 261,        133) /* CharacterTitleId */
+     , (1342479658, 261,        133) /* CharacterTitleId - SoldierSlaughterer */
      , (1342479658, 307,          0) /* DamageRating */
      , (1342479658, 308,          0) /* DamageResistRating */
      , (1342479658, 312,          0) /* HealOverTime */

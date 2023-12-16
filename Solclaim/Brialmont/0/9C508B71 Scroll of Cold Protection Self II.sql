@@ -8,7 +8,7 @@ VALUES (2622524273,   1,       8192) /* ItemType - Writable */
      , (2622524273,  19,          5) /* Value */
      , (2622524273,  65,        101) /* Placement - Resting */
      , (2622524273,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
-     , (2622524273, 9015,         16) /* InventoryOrder */;
+     , (2622524273, 9015,         24) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (2622524273,   1, False) /* Stuck */

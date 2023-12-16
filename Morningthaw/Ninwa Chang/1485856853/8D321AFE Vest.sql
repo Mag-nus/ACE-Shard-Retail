@@ -20,7 +20,7 @@ VALUES (2368871166,   1,          4) /* ItemType - Clothing */
      , (2368871166, 110,          0) /* ItemAllegianceRankLimit */
      , (2368871166, 115,          0) /* ItemSkillLevelLimit */
      , (2368871166, 131,          5) /* MaterialType - Satin */
-     , (2368871166, 172,          7) /* AppraisalLongDescDecoration */
+     , (2368871166, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2368871166, 177,          1) /* GemCount */
      , (2368871166, 178,         37) /* GemType */
      , (2368871166, 188,          4) /* HeritageGroup - Viamontian */

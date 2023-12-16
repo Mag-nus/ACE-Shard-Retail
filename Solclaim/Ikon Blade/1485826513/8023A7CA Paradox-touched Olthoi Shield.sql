@@ -20,7 +20,7 @@ VALUES (2149820362,   1,          2) /* ItemType - Armor */
      , (2149820362, 158,          7) /* WieldRequirements - Level */
      , (2149820362, 159,          1) /* WieldSkillType - Axe */
      , (2149820362, 160,        100) /* WieldDifficulty */
-     , (2149820362, 176,          6) /* AppraisalItemSkill */
+     , (2149820362, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (2149820362, 276,          0) /* WieldRequirements4 - Invalid */
      , (2149820362, 277,          0) /* WieldSkillType4 - None */
      , (2149820362, 278,          0) /* WieldDifficulty4 */

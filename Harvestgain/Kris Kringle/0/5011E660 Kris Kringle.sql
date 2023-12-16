@@ -19,7 +19,7 @@ VALUES (1343350368,   1, True ) /* Stuck */
      , (1343350368,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343350368,  39, 1.14999997615814) /* DefaultScale */;
+VALUES (1343350368,  39, 1.149999976158142) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343350368,   1, 'Kris Kringle') /* Name */;
@@ -36,10 +36,10 @@ VALUES (1343350368,   1,   33561104) /* Setup */
      , (1343350368, 8005,     104643) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343350368, 1, 3465871413, 156.0344, 99.9119, 20.00575, 0.6357451, 0, 0, -0.771899) /* Location */
-/* @teleloc 0xCE950035 [156.034400 99.911900 20.005750] 0.635745 0.000000 0.000000 -0.771899 */
-     , (1343350368, 8040, 3465871413, 165.7459, 111.4586, 20.00575, -0.7482657, 0, 0, -0.6633992) /* PCAPRecordedLocation */
-/* @teleloc 0xCE950035 [165.745900 111.458600 20.005750] -0.748266 0.000000 0.000000 -0.663399 */;
+VALUES (1343350368, 1, 3465871413, 156.03444, 99.911896, 20.005749, 0.6357451, 0, 0, -0.77189904) /* Location */
+/* @teleloc 0xCE950035 [156.034439 99.911896 20.005749] 0.635745 0.000000 0.000000 -0.771899 */
+     , (1343350368, 8040, 3465871413, 165.74586, 111.458595, 20.005749, -0.7482657, 0, -0, -0.6633992) /* PCAPRecordedLocation */
+/* @teleloc 0xCE950035 [165.745865 111.458595 20.005749] -0.748266 0.000000 -0.000000 -0.663399 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343350368,  26, 1342466362) /* Monarch */

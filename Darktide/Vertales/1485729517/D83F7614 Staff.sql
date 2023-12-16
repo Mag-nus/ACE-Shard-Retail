@@ -20,7 +20,7 @@ VALUES (3628037652,   1,      32768) /* ItemType - Caster */
      , (3628037652, 115,          0) /* ItemSkillLevelLimit */
      , (3628037652, 131,         24) /* MaterialType - GreenJade */
      , (3628037652, 151,          2) /* HookType - Wall */
-     , (3628037652, 172,          5) /* AppraisalLongDescDecoration */
+     , (3628037652, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (3628037652, 177,          5) /* GemCount */
      , (3628037652, 178,         34) /* GemType */
      , (3628037652, 9015,          4) /* InventoryOrder */;

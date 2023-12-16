@@ -9,7 +9,7 @@ VALUES (3018611358,   1,        256) /* ItemType - MissileWeapon */
      , (3018611358,  18,       2049) /* UiEffects - Magical, Piercing */
      , (3018611358,  19,      17862) /* Value */
      , (3018611358,  50,          4) /* AmmoType - Atlatl */
-     , (3018611358,  51,          2) /* CombatUse - Missle */
+     , (3018611358,  51,          2) /* CombatUse - Missile */
      , (3018611358,  65,        101) /* Placement - Resting */
      , (3018611358,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3018611358, 131,         41) /* MaterialType - Sunstone */

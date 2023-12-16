@@ -26,7 +26,7 @@ VALUES (1342873181,   1,         16) /* ItemType - Creature */
      , (1342873181, 139,         35) /* DeathLevel */
      , (1342873181, 188,          2) /* HeritageGroup - Gharundim */
      , (1342873181, 199, 1397585825) /* HousePurchaseTimestamp */
-     , (1342873181, 261,         58) /* CharacterTitleId */
+     , (1342873181, 261,         58) /* CharacterTitleId - GardenerWeeder */
      , (1342873181, 307,          0) /* DamageRating */
      , (1342873181, 308,          0) /* DamageResistRating */
      , (1342873181, 312,          0) /* HealOverTime */

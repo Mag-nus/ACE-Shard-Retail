@@ -27,7 +27,7 @@ VALUES (1343220394,   1,         16) /* ItemType - Creature */
      , (1343220394, 199, 1446483827) /* HousePurchaseTimestamp */
      , (1343220394, 218,          1) /* AugmentationInnateStrength */
      , (1343220394, 219,          1) /* AugmentationInnateEndurance */
-     , (1343220394, 261,          1) /* CharacterTitleId */
+     , (1343220394, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343220394, 307,          0) /* DamageRating */
      , (1343220394, 308,          0) /* DamageResistRating */
      , (1343220394, 312,          0) /* HealOverTime */

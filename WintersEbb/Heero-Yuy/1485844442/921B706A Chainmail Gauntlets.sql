@@ -25,7 +25,7 @@ VALUES (2451271786,   1,          2) /* ItemType - Armor */
      , (2451271786, 159,          1) /* WieldSkillType - Axe */
      , (2451271786, 160,        180) /* WieldDifficulty */
      , (2451271786, 171,          5) /* NumTimesTinkered */
-     , (2451271786, 172,          5) /* AppraisalLongDescDecoration */
+     , (2451271786, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2451271786, 177,          2) /* GemCount */
      , (2451271786, 178,         13) /* GemType */
      , (2451271786, 265,         21) /* EquipmentSetId - Wise */

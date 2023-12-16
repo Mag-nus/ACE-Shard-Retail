@@ -48,9 +48,9 @@ VALUES (1342589188,   1,         16) /* ItemType - Creature */
      , (1342589188, 244,          0) /* AugmentationResistanceFire */
      , (1342589188, 245,          0) /* AugmentationResistanceFrost */
      , (1342589188, 246,          2) /* AugmentationResistanceLightning */
-     , (1342589188, 261,        130) /* CharacterTitleId */
+     , (1342589188, 261,        130) /* CharacterTitleId - Skullsplitter */
      , (1342589188, 262,        240) /* NumCharacterTitles */
-     , (1342589188, 281,          0) /* Faction1Bits */
+     , (1342589188, 281,          0) /* Faction1Bits - None */
      , (1342589188, 287,          0) /* SocietyRankCelhan */
      , (1342589188, 288,          0) /* SocietyRankEldweb */
      , (1342589188, 289,          0) /* SocietyRankRadblo */

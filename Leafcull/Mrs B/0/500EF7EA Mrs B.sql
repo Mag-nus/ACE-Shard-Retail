@@ -14,8 +14,8 @@ VALUES (1343158250,   1,         16) /* ItemType - Creature */
      , (1343158250, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343158250, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343158250, 188,          3) /* HeritageGroup - Sho */
-     , (1343158250, 261,        112) /* CharacterTitleId */
-     , (1343158250, 281,          1) /* Faction1Bits */
+     , (1343158250, 261,        112) /* CharacterTitleId - RedFury */
+     , (1343158250, 281,          1) /* Faction1Bits - CelestialHand */
      , (1343158250, 287,         70) /* SocietyRankCelhan */
      , (1343158250, 307,         11) /* DamageRating */
      , (1343158250, 308,         14) /* DamageResistRating */
@@ -57,9 +57,9 @@ VALUES (1343158250,   1,   33554510) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343158250, 1, 2316173349, 96.7635, 102.75, 226, -0.999389, 0, 0, 0.0349511) /* Location */
-/* @teleloc 0x8A0E0025 [96.763500 102.750000 226.000000] -0.999389 0.000000 0.000000 0.034951 */
-     , (1343158250, 8040, 18809126, 30, -60, 6.005, 1, 0, 0, 0) /* PCAPRecordedLocation */
-/* @teleloc 0x011F0126 [30.000000 -60.000000 6.005000] 1.000000 0.000000 0.000000 0.000000 */;
+/* @teleloc 0x8A0E0025 [96.763496 102.750000 226.000000] -0.999389 0.000000 0.000000 0.034951 */
+     , (1343158250, 8040, 18809126, 30, -60, 6.005, 1, 0, 0, -0) /* PCAPRecordedLocation */
+/* @teleloc 0x011F0126 [30.000000 -60.000000 6.005000] 1.000000 0.000000 0.000000 -0.000000 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343158250,  26, 1342747180) /* Monarch */

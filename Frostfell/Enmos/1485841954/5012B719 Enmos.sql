@@ -28,8 +28,8 @@ VALUES (1343403801,   1,         16) /* ItemType - Creature */
      , (1343403801, 231,          1) /* AugmentationLessDeathItemLoss */
      , (1343403801, 232,          1) /* AugmentationSpellsRemainPastDeath */
      , (1343403801, 233,          1) /* AugmentationCriticalDefense */
-     , (1343403801, 261,          1) /* CharacterTitleId */
-     , (1343403801, 281,          1) /* Faction1Bits */
+     , (1343403801, 261,          1) /* CharacterTitleId - Adventurer */
+     , (1343403801, 281,          1) /* Faction1Bits - CelestialHand */
      , (1343403801, 287,         50) /* SocietyRankCelhan */
      , (1343403801, 296,          1) /* AugmentationInfusedLifeMagic */
      , (1343403801, 300,          1) /* AugmentationSkilledMelee */

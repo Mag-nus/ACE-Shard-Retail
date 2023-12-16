@@ -23,7 +23,7 @@ VALUES (1343240325,   1,         16) /* ItemType - Creature */
      , (1343240325, 134,          4) /* PlayerKillerStatus - PK */
      , (1343240325, 139,         12) /* DeathLevel */
      , (1343240325, 188,          3) /* HeritageGroup - Sho */
-     , (1343240325, 261,         32) /* CharacterTitleId */
+     , (1343240325, 261,         32) /* CharacterTitleId - CarenziSlayer */
      , (1343240325, 307,          0) /* DamageRating */
      , (1343240325, 308,          0) /* DamageResistRating */
      , (1343240325, 312,          0) /* HealOverTime */

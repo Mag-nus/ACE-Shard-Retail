@@ -9,7 +9,7 @@ VALUES (3073323830,   1,        256) /* ItemType - MissileWeapon */
      , (3073323830,  18,       1025) /* UiEffects - Magical, Slashing */
      , (3073323830,  19,      13782) /* Value */
      , (3073323830,  50,          2) /* AmmoType - Bolt */
-     , (3073323830,  51,          2) /* CombatUse - Missle */
+     , (3073323830,  51,          2) /* CombatUse - Missile */
      , (3073323830,  65,        101) /* Placement - Resting */
      , (3073323830,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3073323830, 131,         16) /* MaterialType - BlackOpal */

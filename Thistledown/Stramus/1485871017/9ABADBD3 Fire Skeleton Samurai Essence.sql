@@ -16,9 +16,9 @@ VALUES (2595937235,   1,        128) /* ItemType - Misc */
      , (2595937235, 105,          6) /* ItemWorkmanship */
      , (2595937235, 114,          0) /* Attuned - Normal */
      , (2595937235, 280,        213) /* SharedCooldown */
-     , (2595937235, 366,         54) /* UseRequiresSkill */
+     , (2595937235, 366,         54) /* UseRequiresSkill - Summoning */
      , (2595937235, 367,        570) /* UseRequiresSkillLevel */
-     , (2595937235, 368,         54) /* UseRequiresSkillSpec */
+     , (2595937235, 368,         54) /* UseRequiresSkillSpec - Summoning */
      , (2595937235, 369,        185) /* UseRequiresLevel */
      , (2595937235, 370,         15) /* GearDamage */
      , (2595937235, 371,         20) /* GearDamageResist */
@@ -36,7 +36,7 @@ VALUES (2595937235,   1, False) /* Stuck */
      , (2595937235,  69, True ) /* IsSellable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2595937235,  39, 0.400000005960464) /* DefaultScale */
+VALUES (2595937235,  39, 0.4000000059604645) /* DefaultScale */
      , (2595937235, 167,      45) /* CooldownDuration */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)

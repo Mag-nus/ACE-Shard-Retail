@@ -25,8 +25,8 @@ VALUES (2230482206,   1,          1) /* ItemType - MeleeWeapon */
      , (2230482206, 115,        210) /* ItemSkillLevelLimit */
      , (2230482206, 131,         57) /* MaterialType - Brass */
      , (2230482206, 151,          2) /* HookType - Wall */
-     , (2230482206, 172,          3) /* AppraisalLongDescDecoration */
-     , (2230482206, 176,         46) /* AppraisalItemSkill */
+     , (2230482206, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (2230482206, 176,         46) /* AppraisalItemSkill - FinesseWeapons */
      , (2230482206, 353,          6) /* WeaponType - Dagger */
      , (2230482206, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (2230482206, 9015,         12) /* InventoryOrder */;

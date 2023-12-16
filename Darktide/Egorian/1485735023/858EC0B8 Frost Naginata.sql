@@ -25,8 +25,8 @@ VALUES (2240725176,   1,          1) /* ItemType - MeleeWeapon */
      , (2240725176, 115,        122) /* ItemSkillLevelLimit */
      , (2240725176, 131,         76) /* MaterialType - Pine */
      , (2240725176, 151,          2) /* HookType - Wall */
-     , (2240725176, 172,          3) /* AppraisalLongDescDecoration */
-     , (2240725176, 176,         45) /* AppraisalItemSkill */
+     , (2240725176, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (2240725176, 176,         45) /* AppraisalItemSkill - LightWeapons */
      , (2240725176, 188,          2) /* HeritageGroup - Gharundim */
      , (2240725176, 353,          5) /* WeaponType - Spear */
      , (2240725176, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */

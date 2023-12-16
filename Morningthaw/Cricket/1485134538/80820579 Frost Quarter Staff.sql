@@ -28,8 +28,8 @@ VALUES (2156004729,   1,          1) /* ItemType - MeleeWeapon */
      , (2156004729, 158,          2) /* WieldRequirements - RawSkill */
      , (2156004729, 159,         45) /* WieldSkillType - LightWeapons */
      , (2156004729, 160,        250) /* WieldDifficulty */
-     , (2156004729, 172,          1) /* AppraisalLongDescDecoration */
-     , (2156004729, 176,         45) /* AppraisalItemSkill */
+     , (2156004729, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (2156004729, 176,         45) /* AppraisalItemSkill - LightWeapons */
      , (2156004729, 353,          7) /* WeaponType - Staff */
      , (2156004729, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (2156004729, 9015,          8) /* InventoryOrder */;

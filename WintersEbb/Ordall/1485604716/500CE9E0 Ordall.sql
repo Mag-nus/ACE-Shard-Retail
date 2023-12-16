@@ -25,8 +25,8 @@ VALUES (1343023584,   1,         16) /* ItemType - Creature */
      , (1343023584, 188,          1) /* HeritageGroup - Aluvian */
      , (1343023584, 199, 1472825635) /* HousePurchaseTimestamp */
      , (1343023584, 232,          1) /* AugmentationSpellsRemainPastDeath */
-     , (1343023584, 261,          1) /* CharacterTitleId */
-     , (1343023584, 281,          2) /* Faction1Bits */
+     , (1343023584, 261,          1) /* CharacterTitleId - Adventurer */
+     , (1343023584, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1343023584, 288,          1) /* SocietyRankEldweb */
      , (1343023584, 307,          0) /* DamageRating */
      , (1343023584, 308,          0) /* DamageResistRating */

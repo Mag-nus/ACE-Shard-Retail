@@ -18,9 +18,9 @@ VALUES (1342713135,   1,         16) /* ItemType - Creature */
      , (1342713135, 181,       1427) /* ChessRank */
      , (1342713135, 188,          3) /* HeritageGroup - Sho */
      , (1342713135, 192,         48) /* FakeFishingSkill */
-     , (1342713135, 261,        443) /* CharacterTitleId */
+     , (1342713135, 261,        443) /* CharacterTitleId - ZombieIncursionSurvivor */
      , (1342713135, 262,         58) /* NumCharacterTitles */
-     , (1342713135, 281,          2) /* Faction1Bits */
+     , (1342713135, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1342713135, 288,       1001) /* SocietyRankEldweb */
      , (1342713135, 307,         21) /* DamageRating */
      , (1342713135, 308,          5) /* DamageResistRating */
@@ -65,8 +65,8 @@ VALUES (1342713135,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1342713135, 1, 459077, 70, -80, 0.01, 1, 0, 0, 0) /* Location */
 /* @teleloc 0x00070145 [70.000000 -80.000000 0.010000] 1.000000 0.000000 0.000000 0.000000 */
-     , (1342713135, 8040, 2847146017, 112.7228, 8.017779, 94.005, 0.3466931, 0, 0, -0.9379786) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B40021 [112.722800 8.017779 94.005000] 0.346693 0.000000 0.000000 -0.937979 */;
+     , (1342713135, 8040, 2847146017, 112.72285, 8.017779, 94.005005, 0.34669307, 0, 0, -0.9379786) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B40021 [112.722847 8.017779 94.005005] 0.346693 0.000000 0.000000 -0.937979 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342713135,  26, 1343082018) /* Monarch */

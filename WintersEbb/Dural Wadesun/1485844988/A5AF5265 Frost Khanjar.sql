@@ -20,7 +20,7 @@ VALUES (2779730533,   1,          1) /* ItemType - MeleeWeapon */
      , (2779730533, 105,          7) /* ItemWorkmanship */
      , (2779730533, 131,         64) /* MaterialType - Steel */
      , (2779730533, 151,          2) /* HookType - Wall */
-     , (2779730533, 172,          7) /* AppraisalLongDescDecoration */
+     , (2779730533, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2779730533, 177,          2) /* GemCount */
      , (2779730533, 178,         49) /* GemType */
      , (2779730533, 353,          6) /* WeaponType - Dagger */

@@ -13,7 +13,7 @@ VALUES (3048423187,   1,          2) /* ItemType - Armor */
      , (3048423187,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3048423187, 105,          6) /* ItemWorkmanship */
      , (3048423187, 131,         58) /* MaterialType - Bronze */
-     , (3048423187, 172,          5) /* AppraisalLongDescDecoration */
+     , (3048423187, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (3048423187, 177,          2) /* GemCount */
      , (3048423187, 178,         14) /* GemType */
      , (3048423187, 9015,          1) /* InventoryOrder */;

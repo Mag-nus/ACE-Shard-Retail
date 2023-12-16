@@ -29,8 +29,8 @@ VALUES (2925319019,   1,          1) /* ItemType - MeleeWeapon */
      , (2925319019, 159,         45) /* WieldSkillType - LightWeapons */
      , (2925319019, 160,        250) /* WieldDifficulty */
      , (2925319019, 171,          9) /* NumTimesTinkered */
-     , (2925319019, 172,          3) /* AppraisalLongDescDecoration */
-     , (2925319019, 176,         45) /* AppraisalItemSkill */
+     , (2925319019, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (2925319019, 176,         45) /* AppraisalItemSkill - LightWeapons */
      , (2925319019, 179,        512) /* ImbuedEffect - FireRending */
      , (2925319019, 188,          1) /* HeritageGroup - Aluvian */
      , (2925319019, 353,          1) /* WeaponType - Unarmed */

@@ -22,8 +22,8 @@ VALUES (2158101757,   1,          2) /* ItemType - Armor */
      , (2158101757, 115,        320) /* ItemSkillLevelLimit */
      , (2158101757, 131,         64) /* MaterialType - Steel */
      , (2158101757, 171,          9) /* NumTimesTinkered */
-     , (2158101757, 172,          7) /* AppraisalLongDescDecoration */
-     , (2158101757, 176,          6) /* AppraisalItemSkill */
+     , (2158101757, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (2158101757, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (2158101757, 177,          2) /* GemCount */
      , (2158101757, 178,         39) /* GemType */
      , (2158101757, 179,       1024) /* ImbuedEffect - MeleeDefense */

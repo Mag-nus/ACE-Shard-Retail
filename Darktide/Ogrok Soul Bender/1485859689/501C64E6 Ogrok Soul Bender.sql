@@ -27,7 +27,7 @@ VALUES (1344038118,   1,         16) /* ItemType - Creature */
      , (1344038118, 188,          8) /* HeritageGroup - Lugian */
      , (1344038118, 199, 1413256385) /* HousePurchaseTimestamp */
      , (1344038118, 230,          1) /* AugmentationIncreasedCarryingCapacity */
-     , (1344038118, 261,        765) /* CharacterTitleId */
+     , (1344038118, 261,        765) /* CharacterTitleId - DerethianNewbie */
      , (1344038118, 307,          0) /* DamageRating */
      , (1344038118, 308,          0) /* DamageResistRating */
      , (1344038118, 312,          0) /* HealOverTime */

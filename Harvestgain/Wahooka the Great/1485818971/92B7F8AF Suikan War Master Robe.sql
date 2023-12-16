@@ -17,7 +17,7 @@ VALUES (2461530287,   1,          4) /* ItemType - Clothing */
      , (2461530287, 108,        416) /* ItemMaxMana */
      , (2461530287, 109,        158) /* ItemDifficulty */
      , (2461530287, 115,        190) /* ItemSkillLevelLimit */
-     , (2461530287, 176,         34) /* AppraisalItemSkill */
+     , (2461530287, 176,         34) /* AppraisalItemSkill - WarMagic */
      , (2461530287, 188,          3) /* HeritageGroup - Sho */
      , (2461530287, 9015,          3) /* InventoryOrder */;
 

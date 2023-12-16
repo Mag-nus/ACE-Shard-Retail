@@ -19,7 +19,7 @@ VALUES (2248050674,   1,          1) /* ItemType - MeleeWeapon */
      , (2248050674, 131,         58) /* MaterialType - Bronze */
      , (2248050674, 151,          2) /* HookType - Wall */
      , (2248050674, 171,          1) /* NumTimesTinkered */
-     , (2248050674, 172,          7) /* AppraisalLongDescDecoration */
+     , (2248050674, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2248050674, 177,          1) /* GemCount */
      , (2248050674, 178,         28) /* GemType */
      , (2248050674, 179,         16) /* ImbuedEffect - PierceRending */

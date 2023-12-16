@@ -25,7 +25,7 @@ VALUES (2521108609,   1,          1) /* ItemType - MeleeWeapon */
      , (2521108609, 159,         45) /* WieldSkillType - LightWeapons */
      , (2521108609, 160,        400) /* WieldDifficulty */
      , (2521108609, 166,          6) /* SlayerCreatureType - Tumerok */
-     , (2521108609, 263,          4) /* ResistanceModifierType */
+     , (2521108609, 263,          4) /* ResistanceModifierType - Bludgeon */
      , (2521108609, 353,          1) /* WeaponType - Unarmed */
      , (2521108609, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (2521108609, 9015,          4) /* InventoryOrder */;

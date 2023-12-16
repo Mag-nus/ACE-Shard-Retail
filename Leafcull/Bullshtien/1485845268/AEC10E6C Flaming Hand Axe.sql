@@ -25,8 +25,8 @@ VALUES (2931887724,   1,          1) /* ItemType - MeleeWeapon */
      , (2931887724, 115,        130) /* ItemSkillLevelLimit */
      , (2931887724, 131,         76) /* MaterialType - Pine */
      , (2931887724, 151,          2) /* HookType - Wall */
-     , (2931887724, 172,          3) /* AppraisalLongDescDecoration */
-     , (2931887724, 176,         45) /* AppraisalItemSkill */
+     , (2931887724, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (2931887724, 176,         45) /* AppraisalItemSkill - LightWeapons */
      , (2931887724, 188,          1) /* HeritageGroup - Aluvian */
      , (2931887724, 353,          3) /* WeaponType - Axe */
      , (2931887724, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */

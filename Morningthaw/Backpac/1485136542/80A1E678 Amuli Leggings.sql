@@ -20,7 +20,7 @@ VALUES (2158093944,   1,          2) /* ItemType - Armor */
      , (2158093944, 110,          6) /* ItemAllegianceRankLimit */
      , (2158093944, 115,          0) /* ItemSkillLevelLimit */
      , (2158093944, 131,         52) /* MaterialType - Leather */
-     , (2158093944, 172,          3) /* AppraisalLongDescDecoration */
+     , (2158093944, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2158093944, 188,          2) /* HeritageGroup - Gharundim */
      , (2158093944, 9015,         14) /* InventoryOrder */;
 

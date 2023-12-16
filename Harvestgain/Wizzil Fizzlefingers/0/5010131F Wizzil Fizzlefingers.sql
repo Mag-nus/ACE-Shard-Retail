@@ -19,7 +19,7 @@ VALUES (1343230751,   1, True ) /* Stuck */
      , (1343230751,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343230751,  39, 1.10000002384186) /* DefaultScale */;
+VALUES (1343230751,  39, 1.100000023841858) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343230751,   1, 'Wizzil Fizzlefingers') /* Name */;
@@ -36,10 +36,10 @@ VALUES (1343230751,   1,   33561114) /* Setup */
      , (1343230751, 8005,     104643) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343230751, 1, 3332964380, 74.86223, 88.85094, 42.0055, -0.9926399, 0, 0, -0.1211035) /* Location */
-/* @teleloc 0xC6A9001C [74.862230 88.850940 42.005500] -0.992640 0.000000 0.000000 -0.121104 */
-     , (1343230751, 8040, 3332964380, 75.2098, 91.86129, 42.0055, 0.4265485, 0, 0, -0.9044647) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001C [75.209800 91.861290 42.005500] 0.426549 0.000000 0.000000 -0.904465 */;
+VALUES (1343230751, 1, 3332964380, 74.86223, 88.850945, 42.0055, -0.9926399, 0, 0, -0.12110347) /* Location */
+/* @teleloc 0xC6A9001C [74.862228 88.850945 42.005501] -0.992640 0.000000 0.000000 -0.121103 */
+     , (1343230751, 8040, 3332964380, 75.2098, 91.86129, 42.0055, 0.42654854, 0, 0, -0.90446466) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A9001C [75.209801 91.861290 42.005501] 0.426549 0.000000 0.000000 -0.904465 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343230751,  26, 1343009402) /* Monarch */

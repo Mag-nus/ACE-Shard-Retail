@@ -26,8 +26,8 @@ VALUES (2927335282,   1,          1) /* ItemType - MeleeWeapon */
      , (2927335282, 131,         61) /* MaterialType - Iron */
      , (2927335282, 151,          2) /* HookType - Wall */
      , (2927335282, 171,         10) /* NumTimesTinkered */
-     , (2927335282, 172,          1) /* AppraisalLongDescDecoration */
-     , (2927335282, 176,         41) /* AppraisalItemSkill */
+     , (2927335282, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (2927335282, 176,         41) /* AppraisalItemSkill - TwoHandedCombat */
      , (2927335282, 179,        256) /* ImbuedEffect - ElectricRending */
      , (2927335282, 292,          2) /* Cleaving */
      , (2927335282, 353,         11) /* WeaponType - TwoHanded */

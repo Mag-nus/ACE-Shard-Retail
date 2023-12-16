@@ -22,7 +22,7 @@ VALUES (2166217032,   1,          2) /* ItemType - Armor */
      , (2166217032, 115,          0) /* ItemSkillLevelLimit */
      , (2166217032, 131,         62) /* MaterialType - Pyreal */
      , (2166217032, 171,         10) /* NumTimesTinkered */
-     , (2166217032, 172,          7) /* AppraisalLongDescDecoration */
+     , (2166217032, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2166217032, 177,          2) /* GemCount */
      , (2166217032, 178,         20) /* GemType */
      , (2166217032, 188,          1) /* HeritageGroup - Aluvian */;

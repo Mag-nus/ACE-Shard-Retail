@@ -36,8 +36,8 @@ VALUES (1343111516,   1,         16) /* ItemType - Creature */
      , (1343111516, 238,          5) /* AugmentationIncreasedSpellDuration */
      , (1343111516, 243,          1) /* AugmentationResistanceAcid */
      , (1343111516, 244,          1) /* AugmentationResistanceFire */
-     , (1343111516, 261,        110) /* CharacterTitleId */
-     , (1343111516, 281,          4) /* Faction1Bits */
+     , (1343111516, 261,        110) /* CharacterTitleId - Queenslayer */
+     , (1343111516, 281,          4) /* Faction1Bits - RadiantBlood */
      , (1343111516, 289,        690) /* SocietyRankRadblo */
      , (1343111516, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1343111516, 295,          1) /* AugmentationInfusedItemMagic */

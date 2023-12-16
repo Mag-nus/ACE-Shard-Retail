@@ -23,7 +23,7 @@ VALUES (3710966805,   1,          2) /* ItemType - Armor */
      , (3710966805, 158,          7) /* WieldRequirements - Level */
      , (3710966805, 159,          1) /* WieldSkillType - Axe */
      , (3710966805, 160,        180) /* WieldDifficulty */
-     , (3710966805, 172,          5) /* AppraisalLongDescDecoration */
+     , (3710966805, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (3710966805, 177,          3) /* GemCount */
      , (3710966805, 178,         39) /* GemType */
      , (3710966805, 265,         19) /* EquipmentSetId - Hearty */

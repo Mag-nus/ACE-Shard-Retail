@@ -18,7 +18,7 @@ VALUES (2872904447,   1,          8) /* ItemType - Jewelry */
      , (2872904447, 110,          0) /* ItemAllegianceRankLimit */
      , (2872904447, 115,          0) /* ItemSkillLevelLimit */
      , (2872904447, 131,         34) /* MaterialType - Peridot */
-     , (2872904447, 172,          1) /* AppraisalLongDescDecoration */;
+     , (2872904447, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (2872904447,   1, False) /* Stuck */

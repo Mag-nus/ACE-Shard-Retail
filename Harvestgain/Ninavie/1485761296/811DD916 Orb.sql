@@ -21,7 +21,7 @@ VALUES (2166216982,   1,      32768) /* ItemType - Caster */
      , (2166216982, 131,         51) /* MaterialType - Ivory */
      , (2166216982, 151,          2) /* HookType - Wall */
      , (2166216982, 171,          3) /* NumTimesTinkered */
-     , (2166216982, 172,          7) /* AppraisalLongDescDecoration */
+     , (2166216982, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2166216982, 177,          8) /* GemCount */
      , (2166216982, 178,         39) /* GemType */
      , (2166216982, 9015,          0) /* InventoryOrder */;
@@ -37,7 +37,7 @@ VALUES (2166216982,   1, False) /* Stuck */
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2166216982,   5,   -0.05) /* ManaRate */
      , (2166216982,  29,       1) /* WeaponDefense */
-     , (2166216982,  39, 0.600000023841858) /* DefaultScale */
+     , (2166216982,  39, 0.6000000238418579) /* DefaultScale */
      , (2166216982, 144,    0.07) /* ManaConversionMod */
      , (2166216982, 8004,       9) /* PCAPRecordedWorkmanship */;
 

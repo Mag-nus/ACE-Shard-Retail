@@ -22,8 +22,8 @@ VALUES (3007403050,   1,          2) /* ItemType - Armor */
      , (3007403050, 115,        329) /* ItemSkillLevelLimit */
      , (3007403050, 131,         58) /* MaterialType - Bronze */
      , (3007403050, 151,          2) /* HookType - Wall */
-     , (3007403050, 172,          5) /* AppraisalLongDescDecoration */
-     , (3007403050, 176,          6) /* AppraisalItemSkill */
+     , (3007403050, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
+     , (3007403050, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (3007403050, 177,          3) /* GemCount */
      , (3007403050, 178,         47) /* GemType */;
 

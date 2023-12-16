@@ -13,7 +13,7 @@ VALUES (2168212964,   1,        256) /* ItemType - MissileWeapon */
      , (2168212964,  48,         47) /* WeaponSkill - MissileWeapons */
      , (2168212964,  49,         39) /* WeaponTime */
      , (2168212964,  50,          1) /* AmmoType - Arrow */
-     , (2168212964,  51,          2) /* CombatUse - Missle */
+     , (2168212964,  51,          2) /* CombatUse - Missile */
      , (2168212964,  65,        101) /* Placement - Resting */
      , (2168212964,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2168212964, 105,          4) /* ItemWorkmanship */
@@ -30,8 +30,8 @@ VALUES (2168212964,   1,        256) /* ItemType - MissileWeapon */
      , (2168212964, 160,        375) /* WieldDifficulty */
      , (2168212964, 166,         89) /* SlayerCreatureType - Mukkir */
      , (2168212964, 171,          2) /* NumTimesTinkered */
-     , (2168212964, 172,          1) /* AppraisalLongDescDecoration */
-     , (2168212964, 176,         47) /* AppraisalItemSkill */
+     , (2168212964, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (2168212964, 176,         47) /* AppraisalItemSkill - MissileWeapons */
      , (2168212964, 179,         16) /* ImbuedEffect - PierceRending */
      , (2168212964, 204,         19) /* ElementalDamageBonus */
      , (2168212964, 353,          8) /* WeaponType - Bow */

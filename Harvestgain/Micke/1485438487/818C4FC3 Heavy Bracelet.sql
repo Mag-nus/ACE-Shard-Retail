@@ -19,7 +19,7 @@ VALUES (2173456323,   1,          8) /* ItemType - Jewelry */
      , (2173456323, 110,          0) /* ItemAllegianceRankLimit */
      , (2173456323, 115,          0) /* ItemSkillLevelLimit */
      , (2173456323, 131,         34) /* MaterialType - Peridot */
-     , (2173456323, 172,          7) /* AppraisalLongDescDecoration */
+     , (2173456323, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2173456323, 177,          2) /* GemCount */
      , (2173456323, 178,         21) /* GemType */;
 

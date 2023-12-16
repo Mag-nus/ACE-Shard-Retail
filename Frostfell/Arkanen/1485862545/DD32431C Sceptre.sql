@@ -15,7 +15,7 @@ VALUES (3711058716,   1,      32768) /* ItemType - Caster */
      , (3711058716, 131,         58) /* MaterialType - Bronze */
      , (3711058716, 151,          2) /* HookType - Wall */
      , (3711058716, 171,          6) /* NumTimesTinkered */
-     , (3711058716, 172,          7) /* AppraisalLongDescDecoration */
+     , (3711058716, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3711058716, 177,          2) /* GemCount */
      , (3711058716, 178,         38) /* GemType */;
 

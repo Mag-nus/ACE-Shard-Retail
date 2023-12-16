@@ -25,7 +25,7 @@ VALUES (1342378857,   1,         16) /* ItemType - Creature */
      , (1342378857, 139,         84) /* DeathLevel */
      , (1342378857, 188,          1) /* HeritageGroup - Aluvian */
      , (1342378857, 199, 1103271546) /* HousePurchaseTimestamp */
-     , (1342378857, 261,         51) /* CharacterTitleId */
+     , (1342378857, 261,         51) /* CharacterTitleId - Exterminator */
      , (1342378857, 307,          0) /* DamageRating */
      , (1342378857, 308,          0) /* DamageResistRating */
      , (1342378857, 312,          0) /* HealOverTime */

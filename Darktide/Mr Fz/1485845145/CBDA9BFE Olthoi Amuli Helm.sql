@@ -26,7 +26,7 @@ VALUES (3420101630,   1,          4) /* ItemType - Clothing */
      , (3420101630, 159,          1) /* WieldSkillType - Axe */
      , (3420101630, 160,        180) /* WieldDifficulty */
      , (3420101630, 171,         10) /* NumTimesTinkered */
-     , (3420101630, 172,          3) /* AppraisalLongDescDecoration */
+     , (3420101630, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (3420101630, 188,          4) /* HeritageGroup - Viamontian */
      , (3420101630, 265,         20) /* EquipmentSetId - Dexterous */;
 

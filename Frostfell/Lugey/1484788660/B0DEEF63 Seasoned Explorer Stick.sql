@@ -25,7 +25,7 @@ VALUES (2967400291,   1,          1) /* ItemType - MeleeWeapon */
      , (2967400291, 158,          2) /* WieldRequirements - RawSkill */
      , (2967400291, 159,         44) /* WieldSkillType - HeavyWeapons */
      , (2967400291, 160,        325) /* WieldDifficulty */
-     , (2967400291, 263,          4) /* ResistanceModifierType */
+     , (2967400291, 263,          4) /* ResistanceModifierType - Bludgeon */
      , (2967400291, 353,          7) /* WeaponType - Staff */
      , (2967400291, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (2967400291, 9015,         55) /* InventoryOrder */;

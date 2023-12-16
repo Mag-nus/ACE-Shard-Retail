@@ -9,7 +9,7 @@ VALUES (3711056176,   1,        256) /* ItemType - MissileWeapon */
      , (3711056176,  18,        257) /* UiEffects - Magical, Acid */
      , (3711056176,  19,       9376) /* Value */
      , (3711056176,  50,          4) /* AmmoType - Atlatl */
-     , (3711056176,  51,          2) /* CombatUse - Missle */
+     , (3711056176,  51,          2) /* CombatUse - Missile */
      , (3711056176,  65,        101) /* Placement - Resting */
      , (3711056176,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3711056176, 131,         57) /* MaterialType - Brass */

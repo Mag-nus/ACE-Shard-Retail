@@ -17,7 +17,7 @@ VALUES (2624395220,   1,          2) /* ItemType - Armor */
      , (2624395220, 108,       2000) /* ItemMaxMana */
      , (2624395220, 109,         50) /* ItemDifficulty */
      , (2624395220, 115,        270) /* ItemSkillLevelLimit */
-     , (2624395220, 176,         34) /* AppraisalItemSkill */
+     , (2624395220, 176,         34) /* AppraisalItemSkill - WarMagic */
      , (2624395220, 9015,         22) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

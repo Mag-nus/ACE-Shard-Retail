@@ -24,7 +24,7 @@ VALUES (2158094050,   1,      32768) /* ItemType - Caster */
      , (2158094050, 158,          2) /* WieldRequirements - RawSkill */
      , (2158094050, 159,         34) /* WieldSkillType - WarMagic */
      , (2158094050, 160,        310) /* WieldDifficulty */
-     , (2158094050, 172,          3) /* AppraisalLongDescDecoration */
+     , (2158094050, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2158094050, 9015,         62) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

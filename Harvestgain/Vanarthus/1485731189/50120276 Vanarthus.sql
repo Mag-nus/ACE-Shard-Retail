@@ -17,7 +17,7 @@ VALUES (1343357558,   1,         16) /* ItemType - Creature */
      , (1343357558, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343357558, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343357558, 188,          9) /* HeritageGroup - Empyrean */
-     , (1343357558, 261,         11) /* CharacterTitleId */
+     , (1343357558, 261,         11) /* CharacterTitleId - Soldier */
      , (1343357558, 296,          1) /* AugmentationInfusedLifeMagic */
      , (1343357558, 307,          5) /* DamageRating */
      , (1343357558, 308,          0) /* DamageResistRating */

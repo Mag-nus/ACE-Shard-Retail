@@ -16,7 +16,7 @@ VALUES (1342639002,   1,         16) /* ItemType - Creature */
      , (1342639002, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342639002, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342639002, 188,          2) /* HeritageGroup - Gharundim */
-     , (1342639002, 261,        433) /* CharacterTitleId */
+     , (1342639002, 261,        433) /* CharacterTitleId - ObviouslyBored */
      , (1342639002, 307,          5) /* DamageRating */
      , (1342639002, 323,          1) /* HealingBoostRating */
      , (1342639002, 350,          4) /* DotResistRating */
@@ -58,8 +58,8 @@ VALUES (1342639002,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1342639002, 1, 459077, 70, -80, 0.01, 1, 0, 0, 0) /* Location */
 /* @teleloc 0x00070145 [70.000000 -80.000000 0.010000] 1.000000 0.000000 0.000000 0.000000 */
-     , (1342639002, 8040, 23855554, 58.00133, -26.38839, 0.004999995, -0.07150317, 0, 0, -0.9974404) /* PCAPRecordedLocation */
-/* @teleloc 0x016C01C2 [58.001330 -26.388390 0.005000] -0.071503 0.000000 0.000000 -0.997440 */;
+     , (1342639002, 8040, 23855554, 58.001328, -26.388388, 0.004999995, -0.07150317, 0, -0, -0.9974404) /* PCAPRecordedLocation */
+/* @teleloc 0x016C01C2 [58.001328 -26.388388 0.005000] -0.071503 0.000000 -0.000000 -0.997440 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342639002,  26, 1342502235) /* Monarch */

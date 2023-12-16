@@ -23,7 +23,7 @@ VALUES (3710427141,   1,          2) /* ItemType - Armor */
      , (3710427141, 158,          7) /* WieldRequirements - Level */
      , (3710427141, 159,          1) /* WieldSkillType - Axe */
      , (3710427141, 160,        180) /* WieldDifficulty */
-     , (3710427141, 172,          1) /* AppraisalLongDescDecoration */
+     , (3710427141, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (3710427141, 374,          1) /* GearCritDamage */
      , (3710427141, 9015,          5) /* InventoryOrder */;
 

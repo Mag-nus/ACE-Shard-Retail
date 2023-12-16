@@ -9,7 +9,7 @@ VALUES (2591090201,   1,        256) /* ItemType - MissileWeapon */
      , (2591090201,  18,        257) /* UiEffects - Magical, Acid */
      , (2591090201,  19,      19278) /* Value */
      , (2591090201,  50,          1) /* AmmoType - Arrow */
-     , (2591090201,  51,          2) /* CombatUse - Missle */
+     , (2591090201,  51,          2) /* CombatUse - Missile */
      , (2591090201,  65,        101) /* Placement - Resting */
      , (2591090201,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2591090201, 131,         23) /* MaterialType - GreenGarnet */

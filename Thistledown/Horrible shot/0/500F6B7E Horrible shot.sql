@@ -14,8 +14,8 @@ VALUES (1343187838,   1,         16) /* ItemType - Creature */
      , (1343187838, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343187838, 134,         64) /* PlayerKillerStatus - PKLite */
      , (1343187838, 188,          1) /* HeritageGroup - Aluvian */
-     , (1343187838, 261,        448) /* CharacterTitleId */
-     , (1343187838, 281,          1) /* Faction1Bits */
+     , (1343187838, 261,        448) /* CharacterTitleId - Titan */
+     , (1343187838, 281,          1) /* Faction1Bits - CelestialHand */
      , (1343187838, 287,        595) /* SocietyRankCelhan */
      , (1343187838, 307,         15) /* DamageRating */
      , (1343187838, 308,          4) /* DamageResistRating */
@@ -57,10 +57,10 @@ VALUES (1343187838,   1,   33554433) /* Setup */
      , (1343187838, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343187838, 1, 3583574079, 178.687, 165.6779, 374.005, -0.2664081, 0, 0, -0.9638603) /* Location */
-/* @teleloc 0xD599003F [178.687000 165.677900 374.005000] -0.266408 0.000000 0.000000 -0.963860 */
-     , (1343187838, 8040, 3583574079, 183.0414, 159.2762, 374.005, 0.8937998, 0, 0, -0.4484661) /* PCAPRecordedLocation */
-/* @teleloc 0xD599003F [183.041400 159.276200 374.005000] 0.893800 0.000000 0.000000 -0.448466 */;
+VALUES (1343187838, 1, 3583574079, 178.68695, 165.67786, 374.005, -0.26640815, 0, 0, -0.96386033) /* Location */
+/* @teleloc 0xD599003F [178.686951 165.677856 374.005005] -0.266408 0.000000 0.000000 -0.963860 */
+     , (1343187838, 8040, 3583574079, 183.04138, 159.27623, 374.005, 0.89379984, 0, 0, -0.44846612) /* PCAPRecordedLocation */
+/* @teleloc 0xD599003F [183.041382 159.276230 374.005005] 0.893800 0.000000 0.000000 -0.448466 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343187838,  26, 1342179762) /* Monarch */

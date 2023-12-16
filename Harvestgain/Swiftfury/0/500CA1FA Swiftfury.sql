@@ -14,7 +14,7 @@ VALUES (1343005178,   1,         16) /* ItemType - Creature */
      , (1343005178, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343005178, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343005178, 188,          1) /* HeritageGroup - Aluvian */
-     , (1343005178, 261,         58) /* CharacterTitleId */
+     , (1343005178, 261,         58) /* CharacterTitleId - GardenerWeeder */
      , (1343005178, 307,          5) /* DamageRating */
      , (1343005178, 314,          2) /* CritDamageRating */
      , (1343005178, 390,          0) /* Enlightenment */
@@ -55,7 +55,7 @@ INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell
 VALUES (1343005178, 1, 459075, 70, -60, 0.01, 1, 0, 0, -1) /* Location */
 /* @teleloc 0x00070143 [70.000000 -60.000000 0.010000] 1.000000 0.000000 0.000000 -1.000000 */
      , (1343005178, 8040, 3332964380, 87.26161, 81.95825, 42.005, 0.9730256, 0, 0, 0.230697) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001C [87.261610 81.958250 42.005000] 0.973026 0.000000 0.000000 0.230697 */;
+/* @teleloc 0xC6A9001C [87.261612 81.958252 42.005001] 0.973026 0.000000 0.000000 0.230697 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343005178,  26, 1342315200) /* Monarch */

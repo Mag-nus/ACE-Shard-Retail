@@ -35,10 +35,10 @@ VALUES (3420103525,   1, False) /* Stuck */
      , (3420103525,  69, False) /* IsSellable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3420103525,  29, 1.20000000298023) /* WeaponDefense */
-     , (3420103525,  39, 0.600000023841858) /* DefaultScale */
-     , (3420103525, 144, 3.04156010192879E-314) /* ManaConversionMod */
-     , (3420103525, 152, 1.07999999821186) /* ElementalDamageMod */;
+VALUES (3420103525,  29, 1.2000000029802322) /* WeaponDefense */
+     , (3420103525,  39, 0.6000000238418579) /* DefaultScale */
+     , (3420103525, 144, 3.041560102E-314) /* ManaConversionMod */
+     , (3420103525, 152, 1.0799999982118607) /* ElementalDamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3420103525,   1, 'Teleportation Device') /* Name */

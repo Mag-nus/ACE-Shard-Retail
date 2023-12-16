@@ -18,7 +18,7 @@ VALUES (3352976173,   1,      32768) /* ItemType - Caster */
      , (3352976173, 109,        100) /* ItemDifficulty */
      , (3352976173, 115,        200) /* ItemSkillLevelLimit */
      , (3352976173, 151,          2) /* HookType - Wall */
-     , (3352976173, 176,         16) /* AppraisalItemSkill */;
+     , (3352976173, 176,         16) /* AppraisalItemSkill - ManaConversion */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (3352976173,   1, False) /* Stuck */
@@ -44,7 +44,7 @@ INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (3352976173,   1,   33557010) /* Setup */
      , (3352976173,   8,  100671492) /* Icon */
      , (3352976173,  22,  872415275) /* PhysicsEffectTable */
-     , (3352976173,  41,         16) /* ItemSpecializedOnly */
+     , (3352976173,  41,         16) /* ItemSpecializedOnly - ManaConversion */
      , (3352976173, 8001,  271286424) /* PCAPRecordedWeenieHeader - Value, Usable, UiEffects, Wielder, ValidLocations, CurrentlyWieldedLocation, TargetType, Burden, HookType */
      , (3352976173, 8003,         18) /* PCAPRecordedObjectDesc - Inscribable, Attackable */
      , (3352976173, 8005,     167969) /* PCAPRecordedPhysicsDesc - CSetup, Parent, PeTable, Position, AnimationFrame */

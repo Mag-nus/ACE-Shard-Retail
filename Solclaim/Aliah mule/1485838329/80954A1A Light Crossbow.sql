@@ -13,7 +13,7 @@ VALUES (2157267482,   1,        256) /* ItemType - MissileWeapon */
      , (2157267482,  48,         47) /* WeaponSkill - MissileWeapons */
      , (2157267482,  49,         57) /* WeaponTime */
      , (2157267482,  50,          2) /* AmmoType - Bolt */
-     , (2157267482,  51,          2) /* CombatUse - Missle */
+     , (2157267482,  51,          2) /* CombatUse - Missile */
      , (2157267482,  65,        101) /* Placement - Resting */
      , (2157267482,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2157267482, 105,          5) /* ItemWorkmanship */
@@ -26,8 +26,8 @@ VALUES (2157267482,   1,        256) /* ItemType - MissileWeapon */
      , (2157267482, 131,         63) /* MaterialType - Silver */
      , (2157267482, 151,          2) /* HookType - Wall */
      , (2157267482, 171,          1) /* NumTimesTinkered */
-     , (2157267482, 172,          3) /* AppraisalLongDescDecoration */
-     , (2157267482, 176,         47) /* AppraisalItemSkill */
+     , (2157267482, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (2157267482, 176,         47) /* AppraisalItemSkill - MissileWeapons */
      , (2157267482, 179,         32) /* ImbuedEffect - BludgeonRending */
      , (2157267482, 188,          1) /* HeritageGroup - Aluvian */
      , (2157267482, 353,          9) /* WeaponType - Crossbow */

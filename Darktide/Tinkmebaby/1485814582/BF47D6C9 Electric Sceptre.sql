@@ -25,7 +25,7 @@ VALUES (3209156297,   1,      32768) /* ItemType - Caster */
      , (3209156297, 159,         34) /* WieldSkillType - WarMagic */
      , (3209156297, 160,        355) /* WieldDifficulty */
      , (3209156297, 171,          1) /* NumTimesTinkered */
-     , (3209156297, 172,          5) /* AppraisalLongDescDecoration */
+     , (3209156297, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (3209156297, 177,          3) /* GemCount */
      , (3209156297, 178,         39) /* GemType */
      , (3209156297, 179,          2) /* ImbuedEffect - CripplingBlow */

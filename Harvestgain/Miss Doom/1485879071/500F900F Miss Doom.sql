@@ -29,7 +29,7 @@ VALUES (1343197199,   1,         16) /* ItemType - Creature */
      , (1343197199, 233,          1) /* AugmentationCriticalDefense */
      , (1343197199, 234,          1) /* AugmentationBonusXp */
      , (1343197199, 238,          5) /* AugmentationIncreasedSpellDuration */
-     , (1343197199, 261,         99) /* CharacterTitleId */
+     , (1343197199, 261,         99) /* CharacterTitleId - OlthoiRipperReducer */
      , (1343197199, 296,          1) /* AugmentationInfusedLifeMagic */
      , (1343197199, 302,          1) /* AugmentationSkilledMagic */
      , (1343197199, 307,          0) /* DamageRating */

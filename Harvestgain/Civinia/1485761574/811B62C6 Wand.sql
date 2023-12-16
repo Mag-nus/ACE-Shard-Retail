@@ -20,7 +20,7 @@ VALUES (2166055622,   1,      32768) /* ItemType - Caster */
      , (2166055622, 115,          0) /* ItemSkillLevelLimit */
      , (2166055622, 131,         38) /* MaterialType - Ruby */
      , (2166055622, 151,          2) /* HookType - Wall */
-     , (2166055622, 172,          7) /* AppraisalLongDescDecoration */
+     , (2166055622, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2166055622, 177,          4) /* GemCount */
      , (2166055622, 178,         16) /* GemType */
      , (2166055622, 188,          1) /* HeritageGroup - Aluvian */

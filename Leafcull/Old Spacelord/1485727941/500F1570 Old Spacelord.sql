@@ -25,7 +25,7 @@ VALUES (1343165808,   1,         16) /* ItemType - Creature */
      , (1343165808, 139,         12) /* DeathLevel */
      , (1343165808, 188,          2) /* HeritageGroup - Gharundim */
      , (1343165808, 199, 1359768140) /* HousePurchaseTimestamp */
-     , (1343165808, 261,        139) /* CharacterTitleId */
+     , (1343165808, 261,        139) /* CharacterTitleId - Swordfighter */
      , (1343165808, 307,          5) /* DamageRating */
      , (1343165808, 308,          0) /* DamageResistRating */
      , (1343165808, 312,          0) /* HealOverTime */

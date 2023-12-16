@@ -24,7 +24,7 @@ VALUES (1343239390,   1,         16) /* ItemType - Creature */
      , (1343239390, 134,          4) /* PlayerKillerStatus - PK */
      , (1343239390, 139,         17) /* DeathLevel */
      , (1343239390, 188,          3) /* HeritageGroup - Sho */
-     , (1343239390, 261,         58) /* CharacterTitleId */
+     , (1343239390, 261,         58) /* CharacterTitleId - GardenerWeeder */
      , (1343239390, 262,          1) /* NumCharacterTitles */
      , (1343239390, 307,          5) /* DamageRating */
      , (1343239390, 308,          0) /* DamageResistRating */

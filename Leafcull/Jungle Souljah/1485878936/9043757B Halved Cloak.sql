@@ -18,7 +18,7 @@ VALUES (2420340091,   1,          4) /* ItemType - Clothing */
      , (2420340091, 158,          7) /* WieldRequirements - Level */
      , (2420340091, 159,          1) /* WieldSkillType - Axe */
      , (2420340091, 160,         90) /* WieldDifficulty */
-     , (2420340091, 172,          1) /* AppraisalLongDescDecoration */
+     , (2420340091, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (2420340091, 265,         55) /* EquipmentSetId - CloakCooking */
      , (2420340091, 319,          3) /* ItemMaxLevel */
      , (2420340091, 320,          2) /* ItemXpStyle - ScalesWithLevel */

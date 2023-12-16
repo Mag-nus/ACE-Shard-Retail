@@ -19,7 +19,7 @@ VALUES (1344175131,   1, True ) /* Stuck */
      , (1344175131,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1344175131,  39, 0.600000023841858) /* DefaultScale */;
+VALUES (1344175131,  39, 0.6000000238418579) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1344175131,   1, 'Trump''s Americaa Now') /* Name */;
@@ -36,10 +36,10 @@ VALUES (1344175131,   1,   33561120) /* Setup */
      , (1344175131, 8005,     104579) /* PCAPRecordedPhysicsDesc - CSetup, MTable, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1344175131, 1, 3872587790, 38.23467, 135.9843, 217.9961, 0.5996627, 0, 0, -0.8002529) /* Location */
-/* @teleloc 0xE6D3000E [38.234670 135.984300 217.996100] 0.599663 0.000000 0.000000 -0.800253 */
-     , (1344175131, 8040, 3316121655, 166.0132, 166.7511, 41.9961, 0.2918308, 0, 0, -0.95647) /* PCAPRecordedLocation */
-/* @teleloc 0xC5A80037 [166.013200 166.751100 41.996100] 0.291831 0.000000 0.000000 -0.956470 */;
+VALUES (1344175131, 1, 3872587790, 38.234673, 135.98428, 217.9961, 0.5996627, 0, 0, -0.80025285) /* Location */
+/* @teleloc 0xE6D3000E [38.234673 135.984283 217.996094] 0.599663 0.000000 0.000000 -0.800253 */
+     , (1344175131, 8040, 3316121655, 166.01324, 166.75113, 41.9961, 0.29183078, 0, 0, -0.95646995) /* PCAPRecordedLocation */
+/* @teleloc 0xC5A80037 [166.013245 166.751129 41.996101] 0.291831 0.000000 0.000000 -0.956470 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1344175131, 8000, 1344175131) /* PCAPRecordedObjectIID */;

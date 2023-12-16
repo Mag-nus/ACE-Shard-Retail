@@ -15,7 +15,7 @@ VALUES (2812607940,   1,        256) /* ItemType - MissileWeapon */
      , (2812607940,  48,         47) /* WeaponSkill - MissileWeapons */
      , (2812607940,  49,         20) /* WeaponTime */
      , (2812607940,  50,          2) /* AmmoType - Bolt */
-     , (2812607940,  51,          2) /* CombatUse - Missle */
+     , (2812607940,  51,          2) /* CombatUse - Missile */
      , (2812607940,  65,        101) /* Placement - Resting */
      , (2812607940,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2812607940, 114,          1) /* Attuned - Attuned */

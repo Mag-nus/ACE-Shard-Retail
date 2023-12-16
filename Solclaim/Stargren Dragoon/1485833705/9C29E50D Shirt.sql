@@ -25,7 +25,7 @@ VALUES (2619991309,   1,          4) /* ItemType - Clothing */
      , (2619991309, 159,          1) /* WieldSkillType - Axe */
      , (2619991309, 160,        150) /* WieldDifficulty */
      , (2619991309, 171,          1) /* NumTimesTinkered */
-     , (2619991309, 172,          7) /* AppraisalLongDescDecoration */
+     , (2619991309, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2619991309, 177,          3) /* GemCount */
      , (2619991309, 178,         23) /* GemType */
      , (2619991309, 188,          2) /* HeritageGroup - Gharundim */;

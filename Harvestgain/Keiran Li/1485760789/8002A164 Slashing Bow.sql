@@ -9,7 +9,7 @@ VALUES (2147656036,   1,        256) /* ItemType - MissileWeapon */
      , (2147656036,  18,       1024) /* UiEffects - Slashing */
      , (2147656036,  19,       7381) /* Value */
      , (2147656036,  50,          1) /* AmmoType - Arrow */
-     , (2147656036,  51,          2) /* CombatUse - Missle */
+     , (2147656036,  51,          2) /* CombatUse - Missile */
      , (2147656036,  65,        101) /* Placement - Resting */
      , (2147656036,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2147656036, 131,         33) /* MaterialType - Opal */

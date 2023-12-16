@@ -21,7 +21,7 @@ VALUES (3321456640,   1,          2) /* ItemType - Armor */
      , (3321456640, 110,          0) /* ItemAllegianceRankLimit */
      , (3321456640, 115,        211) /* ItemSkillLevelLimit */
      , (3321456640, 131,         62) /* MaterialType - Pyreal */
-     , (3321456640, 176,          6) /* AppraisalItemSkill */
+     , (3321456640, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (3321456640, 188,          1) /* HeritageGroup - Aluvian */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

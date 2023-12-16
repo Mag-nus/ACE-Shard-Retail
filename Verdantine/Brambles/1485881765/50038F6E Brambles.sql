@@ -28,7 +28,7 @@ VALUES (1342410606,   1,         16) /* ItemType - Creature */
      , (1342410606, 231,          3) /* AugmentationLessDeathItemLoss */
      , (1342410606, 232,          1) /* AugmentationSpellsRemainPastDeath */
      , (1342410606, 241,          1) /* AugmentationResistancePierce */
-     , (1342410606, 261,        112) /* CharacterTitleId */
+     , (1342410606, 261,        112) /* CharacterTitleId - RedFury */
      , (1342410606, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1342410606, 295,          1) /* AugmentationInfusedItemMagic */
      , (1342410606, 296,          1) /* AugmentationInfusedLifeMagic */

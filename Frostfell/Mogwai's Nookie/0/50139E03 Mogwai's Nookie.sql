@@ -14,8 +14,8 @@ VALUES (1343462915,   1,         16) /* ItemType - Creature */
      , (1343462915, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343462915, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343462915, 188,          9) /* HeritageGroup - Empyrean */
-     , (1343462915, 261,          1) /* CharacterTitleId */
-     , (1343462915, 281,          2) /* Faction1Bits */
+     , (1343462915, 261,          1) /* CharacterTitleId - Adventurer */
+     , (1343462915, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1343462915, 288,        601) /* SocietyRankEldweb */
      , (1343462915, 307,         11) /* DamageRating */
      , (1343462915, 308,         12) /* DamageResistRating */
@@ -35,7 +35,7 @@ VALUES (1343462915,   1, True ) /* Stuck */
      , (1343462915,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343462915,  39, 1.14999997615814) /* DefaultScale */;
+VALUES (1343462915,  39, 1.149999976158142) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343462915,   1, 'Mogwai''s Nookie') /* Name */
@@ -64,8 +64,8 @@ VALUES (1343462915,   1,   33561104) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343462915, 1, 11469080, 40, -13.1651, 0.005, 1, 0, 0, 0) /* Location */
 /* @teleloc 0x00AF0118 [40.000000 -13.165100 0.005000] 1.000000 0.000000 0.000000 0.000000 */
-     , (1343462915, 8040, 23855548, 49.206, -31.935, 0.00575, 0.7071068, 0, 0, -0.7071068) /* PCAPRecordedLocation */
-/* @teleloc 0x016C01BC [49.206000 -31.935000 0.005750] 0.707107 0.000000 0.000000 -0.707107 */;
+     , (1343462915, 8040, 23855548, 49.206, -31.935, 0.0057500005, 0.70710677, 0, 0, -0.70710677) /* PCAPRecordedLocation */
+/* @teleloc 0x016C01BC [49.206001 -31.934999 0.005750] 0.707107 0.000000 0.000000 -0.707107 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343462915,  26, 1342200341) /* Monarch */

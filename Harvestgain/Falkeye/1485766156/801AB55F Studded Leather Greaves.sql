@@ -21,8 +21,8 @@ VALUES (2149234015,   1,          2) /* ItemType - Armor */
      , (2149234015, 115,        259) /* ItemSkillLevelLimit */
      , (2149234015, 131,         53) /* MaterialType - ArmoredilloHide */
      , (2149234015, 171,          7) /* NumTimesTinkered */
-     , (2149234015, 172,          3) /* AppraisalLongDescDecoration */
-     , (2149234015, 176,          6) /* AppraisalItemSkill */
+     , (2149234015, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (2149234015, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (2149234015, 188,          1) /* HeritageGroup - Aluvian */
      , (2149234015, 9015,          8) /* InventoryOrder */;
 

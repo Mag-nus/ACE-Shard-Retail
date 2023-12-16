@@ -25,7 +25,7 @@ VALUES (2149248964,   1,          2) /* ItemType - Armor */
      , (2149248964, 159,          1) /* WieldSkillType - Axe */
      , (2149248964, 160,        150) /* WieldDifficulty */
      , (2149248964, 171,          4) /* NumTimesTinkered */
-     , (2149248964, 172,          5) /* AppraisalLongDescDecoration */
+     , (2149248964, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2149248964, 177,          2) /* GemCount */
      , (2149248964, 178,         26) /* GemType */
      , (2149248964, 265,         18) /* EquipmentSetId - Crafters */

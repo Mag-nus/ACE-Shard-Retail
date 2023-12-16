@@ -25,8 +25,8 @@ VALUES (2165416778,   1,          1) /* ItemType - MeleeWeapon */
      , (2165416778, 115,         74) /* ItemSkillLevelLimit */
      , (2165416778, 131,         59) /* MaterialType - Copper */
      , (2165416778, 151,          2) /* HookType - Wall */
-     , (2165416778, 172,          3) /* AppraisalLongDescDecoration */
-     , (2165416778, 176,         45) /* AppraisalItemSkill */
+     , (2165416778, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (2165416778, 176,         45) /* AppraisalItemSkill - LightWeapons */
      , (2165416778, 188,          2) /* HeritageGroup - Gharundim */
      , (2165416778, 353,          3) /* WeaponType - Axe */
      , (2165416778, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */

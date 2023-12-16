@@ -9,7 +9,7 @@ VALUES (3351525018,   1,        256) /* ItemType - MissileWeapon */
      , (3351525018,  18,         64) /* UiEffects - Lightning */
      , (3351525018,  19,      11189) /* Value */
      , (3351525018,  50,          2) /* AmmoType - Bolt */
-     , (3351525018,  51,          2) /* CombatUse - Missle */
+     , (3351525018,  51,          2) /* CombatUse - Missile */
      , (3351525018,  65,        101) /* Placement - Resting */
      , (3351525018,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3351525018, 131,         77) /* MaterialType - Teak */

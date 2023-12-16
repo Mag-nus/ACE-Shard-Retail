@@ -25,7 +25,7 @@ VALUES (1343190293,   1,         16) /* ItemType - Creature */
      , (1343190293, 139,         24) /* DeathLevel */
      , (1343190293, 188,          1) /* HeritageGroup - Aluvian */
      , (1343190293, 199, 1103271546) /* HousePurchaseTimestamp */
-     , (1343190293, 261,          9) /* CharacterTitleId */
+     , (1343190293, 261,          9) /* CharacterTitleId - BowHunter */
      , (1343190293, 307,          0) /* DamageRating */
      , (1343190293, 308,          0) /* DamageResistRating */
      , (1343190293, 312,          0) /* HealOverTime */

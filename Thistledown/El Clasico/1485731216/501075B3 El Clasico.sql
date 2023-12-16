@@ -22,7 +22,7 @@ VALUES (1343255987,   1,         16) /* ItemType - Creature */
      , (1343255987, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343255987, 139,         75) /* DeathLevel */
      , (1343255987, 188,          2) /* HeritageGroup - Gharundim */
-     , (1343255987, 261,        568) /* CharacterTitleId */
+     , (1343255987, 261,        568) /* CharacterTitleId - ShadowSunderer */
      , (1343255987, 307,          0) /* DamageRating */
      , (1343255987, 308,          0) /* DamageResistRating */
      , (1343255987, 312,          0) /* HealOverTime */

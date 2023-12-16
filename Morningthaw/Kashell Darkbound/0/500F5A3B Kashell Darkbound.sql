@@ -14,7 +14,7 @@ VALUES (1343183419,   1,         16) /* ItemType - Creature */
      , (1343183419, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343183419, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343183419, 188,         10) /* HeritageGroup - Penumbraen */
-     , (1343183419, 261,        793) /* CharacterTitleId */
+     , (1343183419, 261,        793) /* CharacterTitleId - RynthidWrecker */
      , (1343183419, 262,         98) /* NumCharacterTitles */
      , (1343183419, 390,          0) /* Enlightenment */
      , (1343183419, 8007,          1) /* PCAPRecordedAutonomousMovement */;
@@ -51,8 +51,8 @@ VALUES (1343183419,   1,   33561181) /* Setup */
      , (1343183419, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343183419, 8040, 2847146034, 156.9185, 35.66462, 103.9797, -0.9723996, 0, 0, -0.2333218) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B40032 [156.918500 35.664620 103.979700] -0.972400 0.000000 0.000000 -0.233322 */;
+VALUES (1343183419, 8040, 2847146034, 156.91852, 35.66462, 103.979706, -0.9723996, 0, -0, -0.2333218) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B40032 [156.918518 35.664619 103.979706] -0.972400 0.000000 -0.000000 -0.233322 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343183419,  26, 1342708235) /* Monarch */

@@ -25,7 +25,7 @@ VALUES (1343093075,   1,         16) /* ItemType - Creature */
      , (1343093075, 139,        140) /* DeathLevel */
      , (1343093075, 188,          1) /* HeritageGroup - Aluvian */
      , (1343093075, 199, 1158551826) /* HousePurchaseTimestamp */
-     , (1343093075, 261,         17) /* CharacterTitleId */
+     , (1343093075, 261,         17) /* CharacterTitleId - Annihilator */
      , (1343093075, 307,          0) /* DamageRating */
      , (1343093075, 308,          0) /* DamageResistRating */
      , (1343093075, 312,          0) /* HealOverTime */

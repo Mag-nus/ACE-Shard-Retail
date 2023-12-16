@@ -25,7 +25,7 @@ VALUES (2369868887,   1,          2) /* ItemType - Armor */
      , (2369868887, 159,          1) /* WieldSkillType - Axe */
      , (2369868887, 160,        180) /* WieldDifficulty */
      , (2369868887, 171,         10) /* NumTimesTinkered */
-     , (2369868887, 172,          1) /* AppraisalLongDescDecoration */
+     , (2369868887, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (2369868887, 179,       4096) /* ImbuedEffect - MagicDefense */
      , (2369868887, 265,         19) /* EquipmentSetId - Hearty */;
 

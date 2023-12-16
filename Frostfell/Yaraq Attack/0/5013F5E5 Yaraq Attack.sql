@@ -19,7 +19,7 @@ VALUES (1343485413,   1, True ) /* Stuck */
      , (1343485413,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343485413,  39, 1.10000002384186) /* DefaultScale */;
+VALUES (1343485413,  39, 1.100000023841858) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343485413,   1, 'Yaraq Attack') /* Name */;
@@ -36,10 +36,10 @@ VALUES (1343485413,   1,   33561114) /* Setup */
      , (1343485413, 8005,     104643) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343485413, 1, 3332964380, 80.23615, 92.77223, 42.0055, -0.98944, 0, 0, -0.1449431) /* Location */
-/* @teleloc 0xC6A9001C [80.236150 92.772230 42.005500] -0.989440 0.000000 0.000000 -0.144943 */
-     , (1343485413, 8040, 3332964380, 80.23615, 92.77223, 42.0055, -0.98944, 0, 0, -0.1449431) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001C [80.236150 92.772230 42.005500] -0.989440 0.000000 0.000000 -0.144943 */;
+VALUES (1343485413, 1, 3332964380, 80.23615, 92.77223, 42.0055, -0.98943996, 0, 0, -0.14494315) /* Location */
+/* @teleloc 0xC6A9001C [80.236153 92.772232 42.005501] -0.989440 0.000000 0.000000 -0.144943 */
+     , (1343485413, 8040, 3332964380, 80.23615, 92.77223, 42.0055, -0.98943996, 0, -0, -0.14494315) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A9001C [80.236153 92.772232 42.005501] -0.989440 0.000000 -0.000000 -0.144943 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343485413, 8000, 1343485413) /* PCAPRecordedObjectIID */;

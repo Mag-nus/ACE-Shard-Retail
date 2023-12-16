@@ -13,7 +13,7 @@ VALUES (3326955680,   1,        256) /* ItemType - MissileWeapon */
      , (3326955680,  45,         16) /* DamageType - Fire */
      , (3326955680,  48,         47) /* WeaponSkill - MissileWeapons */
      , (3326955680,  49,         10) /* WeaponTime */
-     , (3326955680,  51,          2) /* CombatUse - Missle */
+     , (3326955680,  51,          2) /* CombatUse - Missile */
      , (3326955680,  65,        101) /* Placement - Resting */
      , (3326955680,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (3326955680, 151,         11) /* HookType - Floor, Wall, Yard */

@@ -27,8 +27,8 @@ VALUES (1342678173,   1,         16) /* ItemType - Creature */
      , (1342678173, 188,          3) /* HeritageGroup - Sho */
      , (1342678173, 192,         11) /* FakeFishingSkill */
      , (1342678173, 199, 1421501042) /* HousePurchaseTimestamp */
-     , (1342678173, 261,        646) /* CharacterTitleId */
-     , (1342678173, 281,          2) /* Faction1Bits */
+     , (1342678173, 261,        646) /* CharacterTitleId - DerethsElite */
+     , (1342678173, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1342678173, 288,        101) /* SocietyRankEldweb */
      , (1342678173, 307,          0) /* DamageRating */
      , (1342678173, 308,          0) /* DamageResistRating */

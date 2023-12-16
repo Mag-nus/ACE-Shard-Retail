@@ -24,7 +24,7 @@ VALUES (3332358304,   1,          1) /* ItemType - MeleeWeapon */
      , (3332358304, 158,          2) /* WieldRequirements - RawSkill */
      , (3332358304, 159,         41) /* WieldSkillType - TwoHandedCombat */
      , (3332358304, 160,        400) /* WieldDifficulty */
-     , (3332358304, 263,          1) /* ResistanceModifierType */
+     , (3332358304, 263,          1) /* ResistanceModifierType - Slash */
      , (3332358304, 292,          3) /* Cleaving */
      , (3332358304, 353,         11) /* WeaponType - TwoHanded */
      , (3332358304, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */

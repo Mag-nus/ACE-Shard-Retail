@@ -14,8 +14,8 @@ VALUES (1343179793,   1,         16) /* ItemType - Creature */
      , (1343179793, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343179793, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343179793, 188,         10) /* HeritageGroup - Penumbraen */
-     , (1343179793, 261,        458) /* CharacterTitleId */
-     , (1343179793, 281,          2) /* Faction1Bits */
+     , (1343179793, 261,        458) /* CharacterTitleId - WarrioroftheSeventhCircle */
+     , (1343179793, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1343179793, 288,       1001) /* SocietyRankEldweb */
      , (1343179793, 307,          6) /* DamageRating */
      , (1343179793, 308,          4) /* DamageResistRating */
@@ -58,9 +58,9 @@ VALUES (1343179793,   1,   33560941) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343179793, 1, 3332964380, 76.6407, 90.01588, 42.005, -0.09737847, 0, 0, -0.9952474) /* Location */
-/* @teleloc 0xC6A9001C [76.640700 90.015880 42.005000] -0.097378 0.000000 0.000000 -0.995247 */
-     , (1343179793, 8040, 3332964380, 77.07294, 89.83659, 42.005, 0.0807063, 0, 0, -0.9967379) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001C [77.072940 89.836590 42.005000] 0.080706 0.000000 0.000000 -0.996738 */;
+/* @teleloc 0xC6A9001C [76.640701 90.015877 42.005001] -0.097378 0.000000 0.000000 -0.995247 */
+     , (1343179793, 8040, 3332964380, 77.07294, 89.836586, 42.005, 0.0807063, 0, 0, -0.9967379) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A9001C [77.072937 89.836586 42.005001] 0.080706 0.000000 0.000000 -0.996738 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343179793,  26, 1342593253) /* Monarch */

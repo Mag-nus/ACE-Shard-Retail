@@ -9,7 +9,7 @@ VALUES (3706065846,   1,        256) /* ItemType - MissileWeapon */
      , (3706065846,  18,       1025) /* UiEffects - Magical, Slashing */
      , (3706065846,  19,      17234) /* Value */
      , (3706065846,  50,          4) /* AmmoType - Atlatl */
-     , (3706065846,  51,          2) /* CombatUse - Missle */
+     , (3706065846,  51,          2) /* CombatUse - Missile */
      , (3706065846,  65,        101) /* Placement - Resting */
      , (3706065846,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3706065846, 131,         51) /* MaterialType - Ivory */

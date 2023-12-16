@@ -20,7 +20,7 @@ VALUES (2263435802,   1,      32768) /* ItemType - Caster */
      , (2263435802, 115,          0) /* ItemSkillLevelLimit */
      , (2263435802, 131,         13) /* MaterialType - Aquamarine */
      , (2263435802, 151,          2) /* HookType - Wall */
-     , (2263435802, 172,          5) /* AppraisalLongDescDecoration */
+     , (2263435802, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2263435802, 177,          3) /* GemCount */
      , (2263435802, 178,         20) /* GemType */
      , (2263435802, 9015,          3) /* InventoryOrder */;

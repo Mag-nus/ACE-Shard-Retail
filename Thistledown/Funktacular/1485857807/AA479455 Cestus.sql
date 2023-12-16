@@ -25,7 +25,7 @@ VALUES (2856817749,   1,          1) /* ItemType - MeleeWeapon */
      , (2856817749, 115,        204) /* ItemSkillLevelLimit */
      , (2856817749, 131,         51) /* MaterialType - Ivory */
      , (2856817749, 151,          2) /* HookType - Wall */
-     , (2856817749, 176,         45) /* AppraisalItemSkill */
+     , (2856817749, 176,         45) /* AppraisalItemSkill - LightWeapons */
      , (2856817749, 188,          1) /* HeritageGroup - Aluvian */
      , (2856817749, 353,          1) /* WeaponType - Unarmed */
      , (2856817749, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */

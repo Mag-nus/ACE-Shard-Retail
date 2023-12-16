@@ -20,7 +20,7 @@ VALUES (3711105492,   1,      32768) /* ItemType - Caster */
      , (3711105492, 115,          0) /* ItemSkillLevelLimit */
      , (3711105492, 131,         60) /* MaterialType - Gold */
      , (3711105492, 151,          2) /* HookType - Wall */
-     , (3711105492, 172,          7) /* AppraisalLongDescDecoration */
+     , (3711105492, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3711105492, 177,          8) /* GemCount */
      , (3711105492, 178,         21) /* GemType */
      , (3711105492, 188,          3) /* HeritageGroup - Sho */

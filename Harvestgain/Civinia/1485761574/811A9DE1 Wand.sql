@@ -20,7 +20,7 @@ VALUES (2166005217,   1,      32768) /* ItemType - Caster */
      , (2166005217, 115,          0) /* ItemSkillLevelLimit */
      , (2166005217, 131,         38) /* MaterialType - Ruby */
      , (2166005217, 151,          2) /* HookType - Wall */
-     , (2166005217, 172,          7) /* AppraisalLongDescDecoration */
+     , (2166005217, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2166005217, 177,          3) /* GemCount */
      , (2166005217, 178,         47) /* GemType */
      , (2166005217, 188,          2) /* HeritageGroup - Gharundim */

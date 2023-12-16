@@ -9,7 +9,7 @@ VALUES (2165059975,   1,        256) /* ItemType - MissileWeapon */
      , (2165059975,  18,          1) /* UiEffects - Magical */
      , (2165059975,  19,      44662) /* Value */
      , (2165059975,  50,          4) /* AmmoType - Atlatl */
-     , (2165059975,  51,          2) /* CombatUse - Missle */
+     , (2165059975,  51,          2) /* CombatUse - Missile */
      , (2165059975,  65,        101) /* Placement - Resting */
      , (2165059975,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2165059975, 131,         39) /* MaterialType - Sapphire */

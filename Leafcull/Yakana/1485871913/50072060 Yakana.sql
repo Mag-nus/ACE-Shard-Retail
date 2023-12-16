@@ -25,7 +25,7 @@ VALUES (1342644320,   1,         16) /* ItemType - Creature */
      , (1342644320, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342644320, 139,         37) /* DeathLevel */
      , (1342644320, 188,          1) /* HeritageGroup - Aluvian */
-     , (1342644320, 261,         40) /* CharacterTitleId */
+     , (1342644320, 261,         40) /* CharacterTitleId - Deadeye */
      , (1342644320, 307,          5) /* DamageRating */
      , (1342644320, 308,          0) /* DamageResistRating */
      , (1342644320, 312,          0) /* HealOverTime */

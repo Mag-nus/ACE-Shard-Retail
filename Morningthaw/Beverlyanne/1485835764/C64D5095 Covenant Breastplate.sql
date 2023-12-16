@@ -24,7 +24,7 @@ VALUES (3326955669,   1,          2) /* ItemType - Armor */
      , (3326955669, 158,          2) /* WieldRequirements - RawSkill */
      , (3326955669, 159,          7) /* WieldSkillType - MissileDefense */
      , (3326955669, 160,        305) /* WieldDifficulty */
-     , (3326955669, 172,          7) /* AppraisalLongDescDecoration */
+     , (3326955669, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3326955669, 177,          3) /* GemCount */
      , (3326955669, 178,         39) /* GemType */
      , (3326955669, 188,          2) /* HeritageGroup - Gharundim */

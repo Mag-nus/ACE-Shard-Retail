@@ -20,7 +20,7 @@ VALUES (1343231429,   1,         16) /* ItemType - Creature */
      , (1343231429, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343231429, 188,          2) /* HeritageGroup - Gharundim */
      , (1343231429, 199, 1404414924) /* HousePurchaseTimestamp */
-     , (1343231429, 261,          1) /* CharacterTitleId */
+     , (1343231429, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343231429, 307,          0) /* DamageRating */
      , (1343231429, 308,          0) /* DamageResistRating */
      , (1343231429, 312,          0) /* HealOverTime */

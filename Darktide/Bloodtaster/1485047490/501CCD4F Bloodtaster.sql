@@ -19,7 +19,7 @@ VALUES (1344064847,   1,         16) /* ItemType - Creature */
      , (1344064847, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1344064847, 134,          4) /* PlayerKillerStatus - PK */
      , (1344064847, 188,         12) /* HeritageGroup - Olthoi */
-     , (1344064847, 261,        711) /* CharacterTitleId */
+     , (1344064847, 261,        711) /* CharacterTitleId - Ripper */
      , (1344064847, 307,          0) /* DamageRating */
      , (1344064847, 308,          0) /* DamageResistRating */
      , (1344064847, 312,          0) /* HealOverTime */

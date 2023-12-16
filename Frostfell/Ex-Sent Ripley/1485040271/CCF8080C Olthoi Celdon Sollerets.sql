@@ -23,7 +23,7 @@ VALUES (3438807052,   1,          2) /* ItemType - Armor */
      , (3438807052, 158,          7) /* WieldRequirements - Level */
      , (3438807052, 159,          1) /* WieldSkillType - Axe */
      , (3438807052, 160,        150) /* WieldDifficulty */
-     , (3438807052, 172,          1) /* AppraisalLongDescDecoration */
+     , (3438807052, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (3438807052, 265,         20) /* EquipmentSetId - Dexterous */
      , (3438807052, 9015,          5) /* InventoryOrder */;
 

@@ -9,7 +9,7 @@ VALUES (2906758987,   1,        256) /* ItemType - MissileWeapon */
      , (2906758987,  18,       1025) /* UiEffects - Magical, Slashing */
      , (2906758987,  19,      14273) /* Value */
      , (2906758987,  50,          2) /* AmmoType - Bolt */
-     , (2906758987,  51,          2) /* CombatUse - Missle */
+     , (2906758987,  51,          2) /* CombatUse - Missile */
      , (2906758987,  65,        101) /* Placement - Resting */
      , (2906758987,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2906758987, 131,         51) /* MaterialType - Ivory */

@@ -24,8 +24,8 @@ VALUES (3020473200,   1,          2) /* ItemType - Armor */
      , (3020473200, 158,          2) /* WieldRequirements - RawSkill */
      , (3020473200, 159,          6) /* WieldSkillType - MeleeDefense */
      , (3020473200, 160,        325) /* WieldDifficulty */
-     , (3020473200, 172,          1) /* AppraisalLongDescDecoration */
-     , (3020473200, 176,          6) /* AppraisalItemSkill */
+     , (3020473200, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (3020473200, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (3020473200, 270,          7) /* WieldRequirements2 - Level */
      , (3020473200, 271,          1) /* WieldSkillType2 - Axe */
      , (3020473200, 272,        150) /* WieldDifficulty2 */

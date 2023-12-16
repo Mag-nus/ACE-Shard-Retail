@@ -22,7 +22,7 @@ VALUES (1342410852,   1,         16) /* ItemType - Creature */
      , (1342410852, 188,          8) /* HeritageGroup - Lugian */
      , (1342410852, 199, 1485652064) /* HousePurchaseTimestamp */
      , (1342410852, 230,          1) /* AugmentationIncreasedCarryingCapacity */
-     , (1342410852, 261,          9) /* CharacterTitleId */
+     , (1342410852, 261,          9) /* CharacterTitleId - BowHunter */
      , (1342410852, 307,          0) /* DamageRating */
      , (1342410852, 308,          0) /* DamageResistRating */
      , (1342410852, 312,          0) /* HealOverTime */

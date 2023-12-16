@@ -7,7 +7,7 @@ VALUES (2166105347,   1,        256) /* ItemType - MissileWeapon */
      , (2166105347,   9,    4194304) /* ValidLocations - MissileWeapon */
      , (2166105347,  16,          1) /* ItemUseable - No */
      , (2166105347,  19,      51320) /* Value */
-     , (2166105347,  51,          2) /* CombatUse - Missle */
+     , (2166105347,  51,          2) /* CombatUse - Missile */
      , (2166105347,  65,        101) /* Placement - Resting */
      , (2166105347,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (2166105347, 131,         49) /* MaterialType - YellowTopaz */

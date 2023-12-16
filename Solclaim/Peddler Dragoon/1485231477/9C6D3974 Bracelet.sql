@@ -18,7 +18,7 @@ VALUES (2624403828,   1,          8) /* ItemType - Jewelry */
      , (2624403828, 110,          0) /* ItemAllegianceRankLimit */
      , (2624403828, 115,          0) /* ItemSkillLevelLimit */
      , (2624403828, 131,         21) /* MaterialType - Emerald */
-     , (2624403828, 172,          7) /* AppraisalLongDescDecoration */
+     , (2624403828, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2624403828, 177,          1) /* GemCount */
      , (2624403828, 178,         39) /* GemType */
      , (2624403828, 188,          2) /* HeritageGroup - Gharundim */

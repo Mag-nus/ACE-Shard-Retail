@@ -22,8 +22,8 @@ VALUES (2622014290,   1,          2) /* ItemType - Armor */
      , (2622014290, 115,        198) /* ItemSkillLevelLimit */
      , (2622014290, 131,         61) /* MaterialType - Iron */
      , (2622014290, 171,         10) /* NumTimesTinkered */
-     , (2622014290, 172,          3) /* AppraisalLongDescDecoration */
-     , (2622014290, 176,          7) /* AppraisalItemSkill */;
+     , (2622014290, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (2622014290, 176,          7) /* AppraisalItemSkill - MissileDefense */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (2622014290,   1, False) /* Stuck */

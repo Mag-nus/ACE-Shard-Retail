@@ -22,8 +22,8 @@ VALUES (3710969921,   1,          2) /* ItemType - Armor */
      , (3710969921, 115,        235) /* ItemSkillLevelLimit */
      , (3710969921, 131,         61) /* MaterialType - Iron */
      , (3710969921, 171,          8) /* NumTimesTinkered */
-     , (3710969921, 172,          7) /* AppraisalLongDescDecoration */
-     , (3710969921, 176,          7) /* AppraisalItemSkill */
+     , (3710969921, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (3710969921, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (3710969921, 177,          4) /* GemCount */
      , (3710969921, 178,         39) /* GemType */
      , (3710969921, 188,          2) /* HeritageGroup - Gharundim */;

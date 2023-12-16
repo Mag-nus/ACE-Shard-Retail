@@ -22,7 +22,7 @@ VALUES (1342843153,   1,         16) /* ItemType - Creature */
      , (1342843153, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342843153, 188,          1) /* HeritageGroup - Aluvian */
      , (1342843153, 199, 1103271546) /* HousePurchaseTimestamp */
-     , (1342843153, 261,        765) /* CharacterTitleId */
+     , (1342843153, 261,        765) /* CharacterTitleId - DerethianNewbie */
      , (1342843153, 307,          0) /* DamageRating */
      , (1342843153, 308,          0) /* DamageResistRating */
      , (1342843153, 312,          0) /* HealOverTime */

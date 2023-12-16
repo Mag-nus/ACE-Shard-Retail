@@ -26,8 +26,8 @@ VALUES (2369831637,   1,          2) /* ItemType - Armor */
      , (2369831637, 159,          7) /* WieldSkillType - MissileDefense */
      , (2369831637, 160,        270) /* WieldDifficulty */
      , (2369831637, 171,          9) /* NumTimesTinkered */
-     , (2369831637, 172,          7) /* AppraisalLongDescDecoration */
-     , (2369831637, 176,          6) /* AppraisalItemSkill */
+     , (2369831637, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (2369831637, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (2369831637, 177,          4) /* GemCount */
      , (2369831637, 178,         39) /* GemType */
      , (2369831637, 9015,          5) /* InventoryOrder */;

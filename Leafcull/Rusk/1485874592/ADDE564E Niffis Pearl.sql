@@ -17,7 +17,7 @@ VALUES (2917029454,   1,      32768) /* ItemType - Caster */
      , (2917029454, 108,        600) /* ItemMaxMana */
      , (2917029454, 115,         80) /* ItemSkillLevelLimit */
      , (2917029454, 151,          2) /* HookType - Wall */
-     , (2917029454, 176,         16) /* AppraisalItemSkill */;
+     , (2917029454, 176,         16) /* AppraisalItemSkill - ManaConversion */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (2917029454,   1, False) /* Stuck */
@@ -31,8 +31,8 @@ VALUES (2917029454,   1, False) /* Stuck */
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2917029454,   5,  -0.025) /* ManaRate */
      , (2917029454,  29,       1) /* WeaponDefense */
-     , (2917029454,  39, 0.899999976158142) /* DefaultScale */
-     , (2917029454, 144, 1.44120404112845E-314) /* ManaConversionMod */;
+     , (2917029454,  39, 0.8999999761581421) /* DefaultScale */
+     , (2917029454, 144, 1.441204041E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2917029454,   1, 'Niffis Pearl') /* Name */
@@ -53,8 +53,8 @@ VALUES (2917029454,   1,   33558259) /* Setup */
      , (2917029454, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (2917029454, 8040, 3063676956, 91.07876, 85.686, 61.07041, 0.689336, 0.689336, -0.1575305, -0.1575305) /* PCAPRecordedLocation */
-/* @teleloc 0xB69C001C [91.078760 85.686000 61.070410] 0.689336 0.689336 -0.157531 -0.157531 */;
+VALUES (2917029454, 8040, 3063676956, 91.07876, 85.686005, 61.070408, 0.689336, 0.689336, -0.15753052, -0.15753052) /* PCAPRecordedLocation */
+/* @teleloc 0xB69C001C [91.078758 85.686005 61.070408] 0.689336 0.689336 -0.157531 -0.157531 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2917029454,   3, 1342741106) /* Wielder */

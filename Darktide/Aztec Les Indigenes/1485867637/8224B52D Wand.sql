@@ -13,7 +13,7 @@ VALUES (2183443757,   1,      32768) /* ItemType - Caster */
      , (2183443757, 105,          6) /* ItemWorkmanship */
      , (2183443757, 131,         60) /* MaterialType - Gold */
      , (2183443757, 151,          2) /* HookType - Wall */
-     , (2183443757, 172,          7) /* AppraisalLongDescDecoration */
+     , (2183443757, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2183443757, 177,          4) /* GemCount */
      , (2183443757, 178,         23) /* GemType */
      , (2183443757, 9015,          6) /* InventoryOrder */;

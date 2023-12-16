@@ -21,7 +21,7 @@ VALUES (1342217300,   1,         16) /* ItemType - Creature */
      , (1342217300, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342217300, 188,          1) /* HeritageGroup - Aluvian */
      , (1342217300, 199, 1456002582) /* HousePurchaseTimestamp */
-     , (1342217300, 261,          8) /* CharacterTitleId */
+     , (1342217300, 261,          8) /* CharacterTitleId - Warrior */
      , (1342217300, 307,          0) /* DamageRating */
      , (1342217300, 308,          0) /* DamageResistRating */
      , (1342217300, 312,          0) /* HealOverTime */

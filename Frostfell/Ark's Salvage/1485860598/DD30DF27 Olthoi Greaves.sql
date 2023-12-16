@@ -24,8 +24,8 @@ VALUES (3710967591,   1,          2) /* ItemType - Armor */
      , (3710967591, 158,          2) /* WieldRequirements - RawSkill */
      , (3710967591, 159,          6) /* WieldSkillType - MeleeDefense */
      , (3710967591, 160,        325) /* WieldDifficulty */
-     , (3710967591, 172,          3) /* AppraisalLongDescDecoration */
-     , (3710967591, 176,          6) /* AppraisalItemSkill */
+     , (3710967591, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (3710967591, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (3710967591, 265,         19) /* EquipmentSetId - Hearty */
      , (3710967591, 270,          7) /* WieldRequirements2 - Level */
      , (3710967591, 271,          1) /* WieldSkillType2 - Axe */

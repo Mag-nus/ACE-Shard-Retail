@@ -11,7 +11,7 @@ VALUES (2777994075,   1,          8) /* ItemType - Jewelry */
      , (2777994075,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2777994075, 105,          3) /* ItemWorkmanship */
      , (2777994075, 131,         59) /* MaterialType - Copper */
-     , (2777994075, 172,          3) /* AppraisalLongDescDecoration */
+     , (2777994075, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2777994075, 9015,         10) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

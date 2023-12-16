@@ -25,7 +25,7 @@ VALUES (1343084956,   1,         16) /* ItemType - Creature */
      , (1343084956, 139,         44) /* DeathLevel */
      , (1343084956, 188,          2) /* HeritageGroup - Gharundim */
      , (1343084956, 199, 1359768140) /* HousePurchaseTimestamp */
-     , (1343084956, 261,        150) /* CharacterTitleId */
+     , (1343084956, 261,        150) /* CharacterTitleId - WarAdept */
      , (1343084956, 307,          0) /* DamageRating */
      , (1343084956, 308,          0) /* DamageResistRating */
      , (1343084956, 312,          0) /* HealOverTime */

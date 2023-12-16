@@ -24,7 +24,7 @@ VALUES (2164419605,   1,          2) /* ItemType - Armor */
      , (2164419605, 158,          2) /* WieldRequirements - RawSkill */
      , (2164419605, 159,          6) /* WieldSkillType - MeleeDefense */
      , (2164419605, 160,        370) /* WieldDifficulty */
-     , (2164419605, 172,          3) /* AppraisalLongDescDecoration */
+     , (2164419605, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2164419605, 188,          1) /* HeritageGroup - Aluvian */
      , (2164419605, 9015,         19) /* InventoryOrder */;
 

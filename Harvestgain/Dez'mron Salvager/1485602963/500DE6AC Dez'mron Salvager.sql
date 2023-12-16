@@ -26,7 +26,7 @@ VALUES (1343088300,   1,         16) /* ItemType - Creature */
      , (1343088300, 139,         54) /* DeathLevel */
      , (1343088300, 188,          2) /* HeritageGroup - Gharundim */
      , (1343088300, 199, 1421280772) /* HousePurchaseTimestamp */
-     , (1343088300, 261,         11) /* CharacterTitleId */
+     , (1343088300, 261,         11) /* CharacterTitleId - Soldier */
      , (1343088300, 262,          9) /* NumCharacterTitles */
      , (1343088300, 307,          0) /* DamageRating */
      , (1343088300, 308,          0) /* DamageResistRating */

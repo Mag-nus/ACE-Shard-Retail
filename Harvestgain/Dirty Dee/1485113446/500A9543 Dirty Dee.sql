@@ -34,9 +34,9 @@ VALUES (1342870851,   1,         16) /* ItemType - Creature */
      , (1342870851, 232,          1) /* AugmentationSpellsRemainPastDeath */
      , (1342870851, 234,          1) /* AugmentationBonusXp */
      , (1342870851, 238,          4) /* AugmentationIncreasedSpellDuration */
-     , (1342870851, 261,        122) /* CharacterTitleId */
+     , (1342870851, 261,        122) /* CharacterTitleId - Sharpshooter */
      , (1342870851, 262,         46) /* NumCharacterTitles */
-     , (1342870851, 281,          1) /* Faction1Bits */
+     , (1342870851, 281,          1) /* Faction1Bits - CelestialHand */
      , (1342870851, 287,        315) /* SocietyRankCelhan */
      , (1342870851, 295,          1) /* AugmentationInfusedItemMagic */
      , (1342870851, 299,          1) /* AugmentationCriticalPower */

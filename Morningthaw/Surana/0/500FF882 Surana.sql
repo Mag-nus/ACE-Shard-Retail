@@ -14,7 +14,7 @@ VALUES (1343223938,   1,         16) /* ItemType - Creature */
      , (1343223938, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343223938, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343223938, 188,          2) /* HeritageGroup - Gharundim */
-     , (1343223938, 261,        434) /* CharacterTitleId */
+     , (1343223938, 261,        434) /* CharacterTitleId - ZefirZapper */
      , (1343223938, 390,          0) /* Enlightenment */
      , (1343223938, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
@@ -50,8 +50,8 @@ VALUES (1343223938,   1,   33554510) /* Setup */
      , (1343223938, 8005,     104451) /* PCAPRecordedPhysicsDesc - CSetup, MTable, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343223938, 1, 19202316, 25.17684, -5.509109, 0.004999995, 0.993644, 0, 0, 0.1125682) /* Location */
-/* @teleloc 0x0125010C [25.176840 -5.509109 0.005000] 0.993644 0.000000 0.000000 0.112568 */
+VALUES (1343223938, 1, 19202316, 25.176842, -5.509109, 0.004999995, 0.993644, 0, 0, 0.11256816) /* Location */
+/* @teleloc 0x0125010C [25.176842 -5.509109 0.005000] 0.993644 0.000000 0.000000 0.112568 */
      , (1343223938, 8040, 19202342, 30, -60, 6.005, 1, 0, 0, 0) /* PCAPRecordedLocation */
 /* @teleloc 0x01250126 [30.000000 -60.000000 6.005000] 1.000000 0.000000 0.000000 0.000000 */;
 

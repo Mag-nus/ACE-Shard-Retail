@@ -21,7 +21,7 @@ VALUES (2765486101,   1,          2) /* ItemType - Armor */
      , (2765486101, 115,          0) /* ItemSkillLevelLimit */
      , (2765486101, 131,         64) /* MaterialType - Steel */
      , (2765486101, 151,          2) /* HookType - Wall */
-     , (2765486101, 172,          3) /* AppraisalLongDescDecoration */
+     , (2765486101, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2765486101, 188,          1) /* HeritageGroup - Aluvian */
      , (2765486101, 9015,         39) /* InventoryOrder */;
 

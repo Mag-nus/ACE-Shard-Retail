@@ -23,8 +23,8 @@ VALUES (3711105338,   1,          2) /* ItemType - Armor */
      , (3711105338, 158,          7) /* WieldRequirements - Level */
      , (3711105338, 159,          1) /* WieldSkillType - Axe */
      , (3711105338, 160,        150) /* WieldDifficulty */
-     , (3711105338, 172,          7) /* AppraisalLongDescDecoration */
-     , (3711105338, 176,          6) /* AppraisalItemSkill */
+     , (3711105338, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (3711105338, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (3711105338, 177,          4) /* GemCount */
      , (3711105338, 178,         49) /* GemType */
      , (3711105338, 188,          1) /* HeritageGroup - Aluvian */

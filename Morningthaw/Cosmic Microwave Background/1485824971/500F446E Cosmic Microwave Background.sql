@@ -37,8 +37,8 @@ VALUES (1343177838,   1,         16) /* ItemType - Creature */
      , (1343177838, 237,          2) /* AugmentationFasterRegen */
      , (1343177838, 238,          5) /* AugmentationIncreasedSpellDuration */
      , (1343177838, 244,          2) /* AugmentationResistanceFire */
-     , (1343177838, 261,        657) /* CharacterTitleId */
-     , (1343177838, 281,          2) /* Faction1Bits */
+     , (1343177838, 261,        657) /* CharacterTitleId - EliteExplorer */
+     , (1343177838, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1343177838, 288,       1001) /* SocietyRankEldweb */
      , (1343177838, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1343177838, 295,          1) /* AugmentationInfusedItemMagic */

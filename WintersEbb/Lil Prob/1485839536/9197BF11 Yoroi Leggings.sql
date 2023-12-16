@@ -21,7 +21,7 @@ VALUES (2442641169,   1,          2) /* ItemType - Armor */
      , (2442641169, 110,          0) /* ItemAllegianceRankLimit */
      , (2442641169, 115,        273) /* ItemSkillLevelLimit */
      , (2442641169, 131,         64) /* MaterialType - Steel */
-     , (2442641169, 176,          6) /* AppraisalItemSkill */
+     , (2442641169, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (2442641169, 188,          3) /* HeritageGroup - Sho */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

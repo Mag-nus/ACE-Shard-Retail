@@ -21,7 +21,7 @@ VALUES (1343235106,   1,         16) /* ItemType - Creature */
      , (1343235106, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343235106, 181,       1300) /* ChessRank */
      , (1343235106, 188,         10) /* HeritageGroup - Penumbraen */
-     , (1343235106, 261,          1) /* CharacterTitleId */
+     , (1343235106, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343235106, 298,          1) /* AugmentationCriticalExpertise */
      , (1343235106, 307,          0) /* DamageRating */
      , (1343235106, 308,          0) /* DamageResistRating */

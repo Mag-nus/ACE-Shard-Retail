@@ -18,7 +18,7 @@ VALUES (2240725144,   1,          8) /* ItemType - Jewelry */
      , (2240725144, 110,          0) /* ItemAllegianceRankLimit */
      , (2240725144, 115,          0) /* ItemSkillLevelLimit */
      , (2240725144, 131,         63) /* MaterialType - Silver */
-     , (2240725144, 172,          3) /* AppraisalLongDescDecoration */
+     , (2240725144, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2240725144, 9015,          1) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

@@ -31,12 +31,12 @@ VALUES (3565241270,   1,          1) /* ItemType - MeleeWeapon */
      , (3565241270, 160,        430) /* WieldDifficulty */
      , (3565241270, 166,        101) /* SlayerCreatureType - Anekshay */
      , (3565241270, 171,         10) /* NumTimesTinkered */
-     , (3565241270, 172,          5) /* AppraisalLongDescDecoration */
-     , (3565241270, 176,         41) /* AppraisalItemSkill */
+     , (3565241270, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
+     , (3565241270, 176,         41) /* AppraisalItemSkill - TwoHandedCombat */
      , (3565241270, 177,          2) /* GemCount */
      , (3565241270, 178,         38) /* GemType */
      , (3565241270, 179,         64) /* ImbuedEffect - AcidRending */
-     , (3565241270, 265,        140) /* EquipmentSetId - UNKNOWN_140 */
+     , (3565241270, 265,        140) /* EquipmentSetId - ParagonMelee */
      , (3565241270, 319,         50) /* ItemMaxLevel */
      , (3565241270, 320,          1) /* ItemXpStyle - Fixed */
      , (3565241270, 353,         11) /* WeaponType - TwoHanded */

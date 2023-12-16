@@ -25,8 +25,8 @@ VALUES (3628581301,   1,          1) /* ItemType - MeleeWeapon */
      , (3628581301, 115,        185) /* ItemSkillLevelLimit */
      , (3628581301, 131,         76) /* MaterialType - Pine */
      , (3628581301, 151,          2) /* HookType - Wall */
-     , (3628581301, 172,          1) /* AppraisalLongDescDecoration */
-     , (3628581301, 176,         41) /* AppraisalItemSkill */
+     , (3628581301, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (3628581301, 176,         41) /* AppraisalItemSkill - TwoHandedCombat */
      , (3628581301, 292,          2) /* Cleaving */
      , (3628581301, 353,         11) /* WeaponType - TwoHanded */
      , (3628581301, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */

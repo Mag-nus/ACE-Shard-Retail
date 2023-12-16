@@ -25,7 +25,7 @@ VALUES (1343248943,   1,         16) /* ItemType - Creature */
      , (1343248943, 139,        107) /* DeathLevel */
      , (1343248943, 188,          2) /* HeritageGroup - Gharundim */
      , (1343248943, 199, 1469984433) /* HousePurchaseTimestamp */
-     , (1343248943, 261,         33) /* CharacterTitleId */
+     , (1343248943, 261,         33) /* CharacterTitleId - ChainBreaker */
      , (1343248943, 307,          5) /* DamageRating */
      , (1343248943, 308,          0) /* DamageResistRating */
      , (1343248943, 312,          0) /* HealOverTime */

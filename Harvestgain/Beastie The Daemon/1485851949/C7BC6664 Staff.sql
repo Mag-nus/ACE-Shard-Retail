@@ -21,7 +21,7 @@ VALUES (3351012964,   1,      32768) /* ItemType - Caster */
      , (3351012964, 131,         21) /* MaterialType - Emerald */
      , (3351012964, 151,          2) /* HookType - Wall */
      , (3351012964, 171,          8) /* NumTimesTinkered */
-     , (3351012964, 172,          7) /* AppraisalLongDescDecoration */
+     , (3351012964, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3351012964, 177,          5) /* GemCount */
      , (3351012964, 178,         39) /* GemType */
      , (3351012964, 179,         32) /* ImbuedEffect - BludgeonRending */

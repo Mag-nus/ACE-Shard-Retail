@@ -9,7 +9,7 @@ VALUES (2181173854,   1,        256) /* ItemType - MissileWeapon */
      , (2181173854,  18,        129) /* UiEffects - Magical, Frost */
      , (2181173854,  19,      18308) /* Value */
      , (2181173854,  50,          1) /* AmmoType - Arrow */
-     , (2181173854,  51,          2) /* CombatUse - Missle */
+     , (2181173854,  51,          2) /* CombatUse - Missile */
      , (2181173854,  65,        101) /* Placement - Resting */
      , (2181173854,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2181173854, 131,         34) /* MaterialType - Peridot */

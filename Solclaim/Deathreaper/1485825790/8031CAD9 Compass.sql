@@ -19,7 +19,7 @@ VALUES (2150746841,   1,          8) /* ItemType - Jewelry */
      , (2150746841, 115,          0) /* ItemSkillLevelLimit */
      , (2150746841, 131,         59) /* MaterialType - Copper */
      , (2150746841, 171,          1) /* NumTimesTinkered */
-     , (2150746841, 172,          7) /* AppraisalLongDescDecoration */
+     , (2150746841, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2150746841, 177,          4) /* GemCount */
      , (2150746841, 178,         38) /* GemType */
      , (2150746841, 304,       8192) /* ImbuedEffect3 - Spellbook */

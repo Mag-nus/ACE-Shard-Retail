@@ -22,7 +22,7 @@ VALUES (3710973149,   1,      32768) /* ItemType - Caster */
      , (3710973149, 115,        270) /* ItemSkillLevelLimit */
      , (3710973149, 117,        150) /* ItemManaCost */
      , (3710973149, 151,          2) /* HookType - Wall */
-     , (3710973149, 176,         34) /* AppraisalItemSkill */
+     , (3710973149, 176,         34) /* AppraisalItemSkill - WarMagic */
      , (3710973149, 188,          2) /* HeritageGroup - Gharundim */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

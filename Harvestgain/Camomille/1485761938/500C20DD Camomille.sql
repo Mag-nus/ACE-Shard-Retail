@@ -37,7 +37,7 @@ VALUES (1342972125,   1,         16) /* ItemType - Creature */
      , (1342972125, 236,          1) /* AugmentationBonusImbueChance */
      , (1342972125, 243,          1) /* AugmentationResistanceAcid */
      , (1342972125, 246,          1) /* AugmentationResistanceLightning */
-     , (1342972125, 261,         34) /* CharacterTitleId */
+     , (1342972125, 261,         34) /* CharacterTitleId - ChampionofDereth */
      , (1342972125, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1342972125, 295,          1) /* AugmentationInfusedItemMagic */
      , (1342972125, 300,          1) /* AugmentationSkilledMelee */

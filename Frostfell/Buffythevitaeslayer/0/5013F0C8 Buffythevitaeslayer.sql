@@ -17,7 +17,7 @@ VALUES (1343484104,   1,         16) /* ItemType - Creature */
      , (1343484104, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343484104, 181,       1400) /* ChessRank */
      , (1343484104, 188,          9) /* HeritageGroup - Empyrean */
-     , (1343484104, 261,          1) /* CharacterTitleId */
+     , (1343484104, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343484104, 262,          9) /* NumCharacterTitles */
      , (1343484104, 307,         11) /* DamageRating */
      , (1343484104, 308,          1) /* DamageResistRating */
@@ -34,7 +34,7 @@ VALUES (1343484104,   1, True ) /* Stuck */
      , (1343484104,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343484104,  39, 1.14999997615814) /* DefaultScale */;
+VALUES (1343484104,  39, 1.149999976158142) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343484104,   1, 'Buffythevitaeslayer') /* Name */

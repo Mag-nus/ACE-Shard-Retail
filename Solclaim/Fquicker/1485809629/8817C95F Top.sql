@@ -23,7 +23,7 @@ VALUES (2283260255,   1,          8) /* ItemType - Jewelry */
      , (2283260255, 159,          1) /* WieldSkillType - Axe */
      , (2283260255, 160,        150) /* WieldDifficulty */
      , (2283260255, 171,          1) /* NumTimesTinkered */
-     , (2283260255, 172,          7) /* AppraisalLongDescDecoration */
+     , (2283260255, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2283260255, 177,          4) /* GemCount */
      , (2283260255, 178,         41) /* GemType */
      , (2283260255, 304,       8192) /* ImbuedEffect3 - Spellbook */;

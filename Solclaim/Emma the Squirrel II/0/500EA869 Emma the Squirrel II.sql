@@ -15,7 +15,7 @@ VALUES (1343137897,   1,         16) /* ItemType - Creature */
      , (1343137897, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343137897, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343137897, 188,         10) /* HeritageGroup - Penumbraen */
-     , (1343137897, 261,        562) /* CharacterTitleId */
+     , (1343137897, 261,        562) /* CharacterTitleId - GoldFarmer */
      , (1343137897, 307,          5) /* DamageRating */
      , (1343137897, 313,          1) /* CritRating */
      , (1343137897, 316,          2) /* CritDamageResistRating */
@@ -56,9 +56,9 @@ VALUES (1343137897,   1,   33560941) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343137897, 1, 1925840933, 104.5, 116, 94.67167, 1, 0, 0, -1) /* Location */
-/* @teleloc 0x72CA0025 [104.500000 116.000000 94.671670] 1.000000 0.000000 0.000000 -1.000000 */
-     , (1343137897, 8040, 2103705618, 54.08027, 31.40448, 12.005, 0.9998081, 0, 0, -0.01959009) /* PCAPRecordedLocation */
-/* @teleloc 0x7D640012 [54.080270 31.404480 12.005000] 0.999808 0.000000 0.000000 -0.019590 */;
+/* @teleloc 0x72CA0025 [104.500000 116.000000 94.671669] 1.000000 0.000000 0.000000 -1.000000 */
+     , (1343137897, 8040, 2103705618, 54.080265, 31.404476, 12.004999, 0.9998081, 0, 0, -0.019590087) /* PCAPRecordedLocation */
+/* @teleloc 0x7D640012 [54.080265 31.404476 12.004999] 0.999808 0.000000 0.000000 -0.019590 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343137897,  26, 1342195194) /* Monarch */

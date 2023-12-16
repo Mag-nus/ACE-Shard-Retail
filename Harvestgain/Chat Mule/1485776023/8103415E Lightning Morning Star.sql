@@ -22,7 +22,7 @@ VALUES (2164474206,   1,          1) /* ItemType - MeleeWeapon */
      , (2164474206, 158,          2) /* WieldRequirements - RawSkill */
      , (2164474206, 159,         44) /* WieldSkillType - HeavyWeapons */
      , (2164474206, 160,        250) /* WieldDifficulty */
-     , (2164474206, 172,          1) /* AppraisalLongDescDecoration */
+     , (2164474206, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (2164474206, 353,          4) /* WeaponType - Mace */
      , (2164474206, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (2164474206, 9015,         23) /* InventoryOrder */;

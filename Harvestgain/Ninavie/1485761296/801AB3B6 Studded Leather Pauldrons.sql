@@ -20,7 +20,7 @@ VALUES (2149233590,   1,          2) /* ItemType - Armor */
      , (2149233590, 110,          0) /* ItemAllegianceRankLimit */
      , (2149233590, 115,          0) /* ItemSkillLevelLimit */
      , (2149233590, 131,         54) /* MaterialType - GromnieHide */
-     , (2149233590, 172,          1) /* AppraisalLongDescDecoration */
+     , (2149233590, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (2149233590, 9015,          2) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

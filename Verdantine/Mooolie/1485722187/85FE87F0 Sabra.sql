@@ -26,8 +26,8 @@ VALUES (2248050672,   1,          1) /* ItemType - MeleeWeapon */
      , (2248050672, 131,         59) /* MaterialType - Copper */
      , (2248050672, 151,          2) /* HookType - Wall */
      , (2248050672, 171,          1) /* NumTimesTinkered */
-     , (2248050672, 172,          3) /* AppraisalLongDescDecoration */
-     , (2248050672, 176,         44) /* AppraisalItemSkill */
+     , (2248050672, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (2248050672, 176,         44) /* AppraisalItemSkill - HeavyWeapons */
      , (2248050672, 179,          8) /* ImbuedEffect - SlashRending */
      , (2248050672, 188,          4) /* HeritageGroup - Viamontian */
      , (2248050672, 353,          2) /* WeaponType - Sword */

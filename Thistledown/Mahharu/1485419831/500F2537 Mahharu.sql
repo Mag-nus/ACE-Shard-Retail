@@ -24,7 +24,7 @@ VALUES (1343169847,   1,         16) /* ItemType - Creature */
      , (1343169847, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343169847, 139,        224) /* DeathLevel */
      , (1343169847, 188,          2) /* HeritageGroup - Gharundim */
-     , (1343169847, 261,        164) /* CharacterTitleId */
+     , (1343169847, 261,        164) /* CharacterTitleId - NymphManiac */
      , (1343169847, 307,          0) /* DamageRating */
      , (1343169847, 308,          0) /* DamageResistRating */
      , (1343169847, 312,          0) /* HealOverTime */

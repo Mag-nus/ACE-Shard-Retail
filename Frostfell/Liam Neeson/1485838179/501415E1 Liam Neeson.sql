@@ -20,7 +20,7 @@ VALUES (1343493601,   1,         16) /* ItemType - Creature */
      , (1343493601, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343493601, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343493601, 188,          4) /* HeritageGroup - Viamontian */
-     , (1343493601, 261,          9) /* CharacterTitleId */
+     , (1343493601, 261,          9) /* CharacterTitleId - BowHunter */
      , (1343493601, 307,          5) /* DamageRating */
      , (1343493601, 308,          0) /* DamageResistRating */
      , (1343493601, 312,          0) /* HealOverTime */

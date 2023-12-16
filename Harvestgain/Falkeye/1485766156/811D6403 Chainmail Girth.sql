@@ -20,8 +20,8 @@ VALUES (2166187011,   1,          2) /* ItemType - Armor */
      , (2166187011, 110,          0) /* ItemAllegianceRankLimit */
      , (2166187011, 115,        324) /* ItemSkillLevelLimit */
      , (2166187011, 131,         63) /* MaterialType - Silver */
-     , (2166187011, 172,          3) /* AppraisalLongDescDecoration */
-     , (2166187011, 176,          6) /* AppraisalItemSkill */
+     , (2166187011, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (2166187011, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (2166187011, 188,          4) /* HeritageGroup - Viamontian */
      , (2166187011, 9015,         13) /* InventoryOrder */;
 

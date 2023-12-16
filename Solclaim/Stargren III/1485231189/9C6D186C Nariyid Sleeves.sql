@@ -23,8 +23,8 @@ VALUES (2624395372,   1,          2) /* ItemType - Armor */
      , (2624395372, 158,          7) /* WieldRequirements - Level */
      , (2624395372, 159,          1) /* WieldSkillType - Axe */
      , (2624395372, 160,        150) /* WieldDifficulty */
-     , (2624395372, 172,          3) /* AppraisalLongDescDecoration */
-     , (2624395372, 176,          7) /* AppraisalItemSkill */
+     , (2624395372, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (2624395372, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (2624395372, 188,          2) /* HeritageGroup - Gharundim */
      , (2624395372, 9015,         57) /* InventoryOrder */;
 

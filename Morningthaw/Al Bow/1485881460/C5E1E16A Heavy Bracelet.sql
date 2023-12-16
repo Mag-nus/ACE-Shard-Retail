@@ -19,7 +19,7 @@ VALUES (3319914858,   1,          8) /* ItemType - Jewelry */
      , (3319914858, 110,          0) /* ItemAllegianceRankLimit */
      , (3319914858, 115,          0) /* ItemSkillLevelLimit */
      , (3319914858, 131,         43) /* MaterialType - Tourmaline */
-     , (3319914858, 172,          7) /* AppraisalLongDescDecoration */
+     , (3319914858, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3319914858, 177,          3) /* GemCount */
      , (3319914858, 178,         33) /* GemType */;
 

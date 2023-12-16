@@ -34,8 +34,8 @@ VALUES (1342705221,   1,         16) /* ItemType - Creature */
      , (1342705221, 230,          2) /* AugmentationIncreasedCarryingCapacity */
      , (1342705221, 231,          3) /* AugmentationLessDeathItemLoss */
      , (1342705221, 236,          1) /* AugmentationBonusImbueChance */
-     , (1342705221, 261,         51) /* CharacterTitleId */
-     , (1342705221, 281,          1) /* Faction1Bits */
+     , (1342705221, 261,         51) /* CharacterTitleId - Exterminator */
+     , (1342705221, 281,          1) /* Faction1Bits - CelestialHand */
      , (1342705221, 287,        295) /* SocietyRankCelhan */
      , (1342705221, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1342705221, 295,          1) /* AugmentationInfusedItemMagic */

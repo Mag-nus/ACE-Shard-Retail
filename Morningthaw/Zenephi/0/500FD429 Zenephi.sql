@@ -19,9 +19,9 @@ VALUES (1343214633,   1, True ) /* Stuck */
      , (1343214633,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343214633, 8010, 8.42142581939697) /* PCAPRecordedVelocityX */
-     , (1343214633, 8011, -8.63651943206787) /* PCAPRecordedVelocityY */
-     , (1343214633, 8012, -16.4705276489258) /* PCAPRecordedVelocityZ */;
+VALUES (1343214633, 8010, 8.421425819396973) /* PCAPRecordedVelocityX */
+     , (1343214633, 8011, -8.636519432067871) /* PCAPRecordedVelocityY */
+     , (1343214633, 8012, -16.47052764892578) /* PCAPRecordedVelocityZ */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343214633,   1, 'Zenephi') /* Name */;
@@ -38,8 +38,8 @@ VALUES (1343214633,   1,   33554433) /* Setup */
      , (1343214633, 8005,     104519) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Velocity, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343214633, 1, 459078, 69.994, -85.00683, 0.004999995, -0.02815956, 0, 0, -0.9996035) /* Location */
-/* @teleloc 0x00070146 [69.994000 -85.006830 0.005000] -0.028160 0.000000 0.000000 -0.999604 */
+VALUES (1343214633, 1, 459078, 69.994, -85.00683, 0.004999995, -0.028159559, 0, 0, -0.99960345) /* Location */
+/* @teleloc 0x00070146 [69.994003 -85.006828 0.005000] -0.028160 0.000000 0.000000 -0.999603 */
      , (1343214633, 8040, 459077, 70, -80, 0.004999995, 1, 0, 0, 0) /* PCAPRecordedLocation */
 /* @teleloc 0x00070145 [70.000000 -80.000000 0.005000] 1.000000 0.000000 0.000000 0.000000 */;
 

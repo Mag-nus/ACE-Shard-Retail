@@ -26,7 +26,7 @@ VALUES (1342574622,   1,         16) /* ItemType - Creature */
      , (1342574622, 139,        119) /* DeathLevel */
      , (1342574622, 188,          2) /* HeritageGroup - Gharundim */
      , (1342574622, 199, 1421280772) /* HousePurchaseTimestamp */
-     , (1342574622, 261,         31) /* CharacterTitleId */
+     , (1342574622, 261,         31) /* CharacterTitleId - BunnyMaster */
      , (1342574622, 262,         14) /* NumCharacterTitles */
      , (1342574622, 307,          5) /* DamageRating */
      , (1342574622, 308,          0) /* DamageResistRating */

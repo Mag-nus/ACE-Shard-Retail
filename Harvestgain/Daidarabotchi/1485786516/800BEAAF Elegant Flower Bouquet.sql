@@ -13,7 +13,7 @@ VALUES (2148264623,   1,        256) /* ItemType - MissileWeapon */
      , (2148264623,  45,          4) /* DamageType - Bludgeon */
      , (2148264623,  48,         47) /* WeaponSkill - MissileWeapons */
      , (2148264623,  49,         10) /* WeaponTime */
-     , (2148264623,  51,          2) /* CombatUse - Missle */
+     , (2148264623,  51,          2) /* CombatUse - Missile */
      , (2148264623,  65,        101) /* Placement - Resting */
      , (2148264623,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (2148264623, 151,          2) /* HookType - Wall */
@@ -35,7 +35,7 @@ VALUES (2148264623,  21,       0) /* WeaponLength */
      , (2148264623,  22,     0.5) /* DamageVariance */
      , (2148264623,  26,       0) /* MaximumVelocity */
      , (2148264623,  29,       1) /* WeaponDefense */
-     , (2148264623,  39, 0.600000023841858) /* DefaultScale */
+     , (2148264623,  39, 0.6000000238418579) /* DefaultScale */
      , (2148264623,  62,       1) /* WeaponOffense */
      , (2148264623,  63,       1) /* DamageMod */
      , (2148264623,  78,       1) /* Friction */

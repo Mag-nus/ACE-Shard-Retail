@@ -24,7 +24,7 @@ VALUES (3710967712,   1,          2) /* ItemType - Armor */
      , (3710967712, 158,          7) /* WieldRequirements - Level */
      , (3710967712, 159,          1) /* WieldSkillType - Axe */
      , (3710967712, 160,        180) /* WieldDifficulty */
-     , (3710967712, 172,          7) /* AppraisalLongDescDecoration */
+     , (3710967712, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3710967712, 177,          3) /* GemCount */
      , (3710967712, 178,         21) /* GemType */
      , (3710967712, 188,          2) /* HeritageGroup - Gharundim */

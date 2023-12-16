@@ -19,7 +19,7 @@ VALUES (1343192695,   1, True ) /* Stuck */
      , (1343192695,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343192695,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1343192695,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343192695,   1, 'Draxamus') /* Name */;
@@ -36,10 +36,10 @@ VALUES (1343192695,   1,   33561110) /* Setup */
      , (1343192695, 8005,     104643) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343192695, 1, 19202311, 23.32191, -27.03463, 0.005999982, 0.9572901, 0, 0, -0.2891292) /* Location */
-/* @teleloc 0x01250107 [23.321910 -27.034630 0.006000] 0.957290 0.000000 0.000000 -0.289129 */
-     , (1343192695, 8040, 19202342, 30, -60, 6.006, 1, 0, 0, 0) /* PCAPRecordedLocation */
-/* @teleloc 0x01250126 [30.000000 -60.000000 6.006000] 1.000000 0.000000 0.000000 0.000000 */;
+VALUES (1343192695, 1, 19202311, 23.321907, -27.03463, 0.0059999824, 0.9572901, 0, 0, -0.2891292) /* Location */
+/* @teleloc 0x01250107 [23.321907 -27.034630 0.006000] 0.957290 0.000000 0.000000 -0.289129 */
+     , (1343192695, 8040, 19202342, 30, -60, 6.006, 1, 0, 0, -0) /* PCAPRecordedLocation */
+/* @teleloc 0x01250126 [30.000000 -60.000000 6.006000] 1.000000 0.000000 0.000000 -0.000000 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343192695,  26, 1342708235) /* Monarch */

@@ -26,7 +26,7 @@ VALUES (2282659120,   1,          1) /* ItemType - MeleeWeapon */
      , (2282659120, 159,         45) /* WieldSkillType - LightWeapons */
      , (2282659120, 160,        400) /* WieldDifficulty */
      , (2282659120, 166,          1) /* SlayerCreatureType - Olthoi */
-     , (2282659120, 263,          2) /* ResistanceModifierType */
+     , (2282659120, 263,          2) /* ResistanceModifierType - Pierce */
      , (2282659120, 353,          1) /* WeaponType - Unarmed */
      , (2282659120, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (2282659120, 9015,          2) /* InventoryOrder */;

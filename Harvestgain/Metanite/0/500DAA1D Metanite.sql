@@ -14,7 +14,7 @@ VALUES (1343072797,   1,         16) /* ItemType - Creature */
      , (1343072797, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343072797, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343072797, 188,          4) /* HeritageGroup - Viamontian */
-     , (1343072797, 261,        110) /* CharacterTitleId */
+     , (1343072797, 261,        110) /* CharacterTitleId - Queenslayer */
      , (1343072797, 262,        267) /* NumCharacterTitles */
      , (1343072797, 390,          0) /* Enlightenment */
      , (1343072797, 8007,          1) /* PCAPRecordedAutonomousMovement */;
@@ -51,9 +51,9 @@ VALUES (1343072797,   1,   33554433) /* Setup */
      , (1343072797, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343072797, 1, 3127705646, 127, 127, 7.421667, 1, 0, 0, 0) /* Location */
+VALUES (1343072797, 1, 3127705646, 127, 127, 7.4216666, 1, 0, 0, 0) /* Location */
 /* @teleloc 0xBA6D002E [127.000000 127.000000 7.421667] 1.000000 0.000000 0.000000 0.000000 */
-     , (1343072797, 8040, 3127705646, 127, 127, 7.421667, 1, 0, 0, 0) /* PCAPRecordedLocation */
+     , (1343072797, 8040, 3127705646, 127, 127, 7.4216666, 1, 0, 0, 0) /* PCAPRecordedLocation */
 /* @teleloc 0xBA6D002E [127.000000 127.000000 7.421667] 1.000000 0.000000 0.000000 0.000000 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)

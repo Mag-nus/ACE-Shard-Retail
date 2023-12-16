@@ -28,7 +28,7 @@ VALUES (1342411621,   1,         16) /* ItemType - Creature */
      , (1342411621, 231,          3) /* AugmentationLessDeathItemLoss */
      , (1342411621, 232,          1) /* AugmentationSpellsRemainPastDeath */
      , (1342411621, 233,          1) /* AugmentationCriticalDefense */
-     , (1342411621, 261,         33) /* CharacterTitleId */
+     , (1342411621, 261,         33) /* CharacterTitleId - ChainBreaker */
      , (1342411621, 302,          1) /* AugmentationSkilledMagic */
      , (1342411621, 307,          6) /* DamageRating */
      , (1342411621, 308,          5) /* DamageResistRating */

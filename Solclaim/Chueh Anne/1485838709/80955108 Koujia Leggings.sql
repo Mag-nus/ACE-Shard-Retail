@@ -20,7 +20,7 @@ VALUES (2157269256,   1,          2) /* ItemType - Armor */
      , (2157269256, 110,          0) /* ItemAllegianceRankLimit */
      , (2157269256, 115,          0) /* ItemSkillLevelLimit */
      , (2157269256, 131,         59) /* MaterialType - Copper */
-     , (2157269256, 172,          3) /* AppraisalLongDescDecoration */
+     , (2157269256, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2157269256, 188,          3) /* HeritageGroup - Sho */
      , (2157269256, 9015,         93) /* InventoryOrder */;
 

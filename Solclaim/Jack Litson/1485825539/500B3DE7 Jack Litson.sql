@@ -25,7 +25,7 @@ VALUES (1342914023,   1,         16) /* ItemType - Creature */
      , (1342914023, 139,         43) /* DeathLevel */
      , (1342914023, 188,          1) /* HeritageGroup - Aluvian */
      , (1342914023, 199, 1356232155) /* HousePurchaseTimestamp */
-     , (1342914023, 261,        131) /* CharacterTitleId */
+     , (1342914023, 261,        131) /* CharacterTitleId - Slicer */
      , (1342914023, 307,          0) /* DamageRating */
      , (1342914023, 308,          0) /* DamageResistRating */
      , (1342914023, 312,          0) /* HealOverTime */

@@ -31,8 +31,8 @@ VALUES (1343124787,   1,         16) /* ItemType - Creature */
      , (1343124787, 232,          1) /* AugmentationSpellsRemainPastDeath */
      , (1343124787, 233,          1) /* AugmentationCriticalDefense */
      , (1343124787, 238,          2) /* AugmentationIncreasedSpellDuration */
-     , (1343124787, 261,        517) /* CharacterTitleId */
-     , (1343124787, 281,          2) /* Faction1Bits */
+     , (1343124787, 261,        517) /* CharacterTitleId - ParadoxtouchedQueenslayer */
+     , (1343124787, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1343124787, 288,        200) /* SocietyRankEldweb */
      , (1343124787, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1343124787, 295,          1) /* AugmentationInfusedItemMagic */

@@ -18,7 +18,7 @@ VALUES (1343467573,   1,         16) /* ItemType - Creature */
      , (1343467573, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343467573, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343467573, 188,          2) /* HeritageGroup - Gharundim */
-     , (1343467573, 261,          1) /* CharacterTitleId */
+     , (1343467573, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343467573, 307,          0) /* DamageRating */
      , (1343467573, 308,          0) /* DamageResistRating */
      , (1343467573, 312,          0) /* HealOverTime */

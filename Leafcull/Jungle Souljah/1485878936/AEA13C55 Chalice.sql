@@ -8,7 +8,7 @@ VALUES (2929802325,   1,        256) /* ItemType - MissileWeapon */
      , (2929802325,  16,          1) /* ItemUseable - No */
      , (2929802325,  18,          1) /* UiEffects - Magical */
      , (2929802325,  19,      27256) /* Value */
-     , (2929802325,  51,          2) /* CombatUse - Missle */
+     , (2929802325,  51,          2) /* CombatUse - Missile */
      , (2929802325,  65,        101) /* Placement - Resting */
      , (2929802325,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (2929802325, 131,         26) /* MaterialType - ImperialTopaz */

@@ -19,7 +19,7 @@ VALUES (2164337483,   1,          4) /* ItemType - Clothing */
      , (2164337483, 158,          7) /* WieldRequirements - Level */
      , (2164337483, 159,          1) /* WieldSkillType - Axe */
      , (2164337483, 160,         60) /* WieldDifficulty */
-     , (2164337483, 172,          1) /* AppraisalLongDescDecoration */
+     , (2164337483, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (2164337483, 265,         71) /* EquipmentSetId - CloakMeleeDefense */
      , (2164337483, 319,          2) /* ItemMaxLevel */
      , (2164337483, 320,          2) /* ItemXpStyle - ScalesWithLevel */

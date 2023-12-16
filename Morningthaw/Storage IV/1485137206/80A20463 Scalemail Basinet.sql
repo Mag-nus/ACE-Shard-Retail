@@ -21,7 +21,7 @@ VALUES (2158101603,   1,          2) /* ItemType - Armor */
      , (2158101603, 115,          0) /* ItemSkillLevelLimit */
      , (2158101603, 131,         60) /* MaterialType - Gold */
      , (2158101603, 151,          2) /* HookType - Wall */
-     , (2158101603, 172,          3) /* AppraisalLongDescDecoration */
+     , (2158101603, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2158101603, 188,          2) /* HeritageGroup - Gharundim */
      , (2158101603, 9015,          4) /* InventoryOrder */;
 

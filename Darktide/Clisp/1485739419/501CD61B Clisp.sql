@@ -25,7 +25,7 @@ VALUES (1344067099,   1,         16) /* ItemType - Creature */
      , (1344067099, 139,          7) /* DeathLevel */
      , (1344067099, 188,          7) /* HeritageGroup - Tumerok */
      , (1344067099, 199, 1092442027) /* HousePurchaseTimestamp */
-     , (1344067099, 261,          1) /* CharacterTitleId */
+     , (1344067099, 261,          1) /* CharacterTitleId - Adventurer */
      , (1344067099, 299,          1) /* AugmentationCriticalPower */
      , (1344067099, 307,          5) /* DamageRating */
      , (1344067099, 308,          0) /* DamageResistRating */

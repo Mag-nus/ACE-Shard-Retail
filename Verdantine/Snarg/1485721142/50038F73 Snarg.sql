@@ -20,7 +20,7 @@ VALUES (1342410611,   1,         16) /* ItemType - Creature */
      , (1342410611, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342410611, 188,          6) /* HeritageGroup - Gearknight */
      , (1342410611, 199, 1431744042) /* HousePurchaseTimestamp */
-     , (1342410611, 261,         11) /* CharacterTitleId */
+     , (1342410611, 261,         11) /* CharacterTitleId - Soldier */
      , (1342410611, 307,          0) /* DamageRating */
      , (1342410611, 308,          0) /* DamageResistRating */
      , (1342410611, 310,          1) /* AugmentationDamageReduction */

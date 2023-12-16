@@ -32,8 +32,8 @@ VALUES (1343487988,   1,         16) /* ItemType - Creature */
      , (1343487988, 238,          5) /* AugmentationIncreasedSpellDuration */
      , (1343487988, 245,          1) /* AugmentationResistanceFrost */
      , (1343487988, 246,          1) /* AugmentationResistanceLightning */
-     , (1343487988, 261,         13) /* CharacterTitleId */
-     , (1343487988, 281,          4) /* Faction1Bits */
+     , (1343487988, 261,         13) /* CharacterTitleId - WarMage */
+     , (1343487988, 281,          4) /* Faction1Bits - RadiantBlood */
      , (1343487988, 289,        175) /* SocietyRankRadblo */
      , (1343487988, 298,          1) /* AugmentationCriticalExpertise */
      , (1343487988, 299,          1) /* AugmentationCriticalPower */

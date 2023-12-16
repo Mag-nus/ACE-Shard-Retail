@@ -28,7 +28,7 @@ VALUES (1343413463,   1,         16) /* ItemType - Creature */
      , (1343413463, 220,          2) /* AugmentationInnateCoordination */
      , (1343413463, 233,          1) /* AugmentationCriticalDefense */
      , (1343413463, 235,          1) /* AugmentationBonusSalvage */
-     , (1343413463, 261,        152) /* CharacterTitleId */
+     , (1343413463, 261,        152) /* CharacterTitleId - Warlock */
      , (1343413463, 262,         35) /* NumCharacterTitles */
      , (1343413463, 302,          1) /* AugmentationSkilledMagic */
      , (1343413463, 307,          5) /* DamageRating */

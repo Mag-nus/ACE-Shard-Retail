@@ -21,7 +21,7 @@ VALUES (2164198626,   1,      32768) /* ItemType - Caster */
      , (2164198626, 131,         20) /* MaterialType - Diamond */
      , (2164198626, 151,          2) /* HookType - Wall */
      , (2164198626, 171,          4) /* NumTimesTinkered */
-     , (2164198626, 172,          7) /* AppraisalLongDescDecoration */
+     , (2164198626, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2164198626, 177,          4) /* GemCount */
      , (2164198626, 178,         41) /* GemType */
      , (2164198626, 179,        512) /* ImbuedEffect - FireRending */

@@ -22,7 +22,7 @@ VALUES (1343049960,   1,         16) /* ItemType - Creature */
      , (1343049960, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343049960, 139,          5) /* DeathLevel */
      , (1343049960, 188,          3) /* HeritageGroup - Sho */
-     , (1343049960, 261,          1) /* CharacterTitleId */
+     , (1343049960, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343049960, 307,          0) /* DamageRating */
      , (1343049960, 308,          0) /* DamageResistRating */
      , (1343049960, 312,          0) /* HealOverTime */

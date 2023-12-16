@@ -21,7 +21,7 @@ VALUES (2156004632,   1,      32768) /* ItemType - Caster */
      , (2156004632, 131,         41) /* MaterialType - Sunstone */
      , (2156004632, 151,          2) /* HookType - Wall */
      , (2156004632, 171,          3) /* NumTimesTinkered */
-     , (2156004632, 172,          7) /* AppraisalLongDescDecoration */
+     , (2156004632, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2156004632, 177,          4) /* GemCount */
      , (2156004632, 178,         39) /* GemType */
      , (2156004632, 9015,         11) /* InventoryOrder */;

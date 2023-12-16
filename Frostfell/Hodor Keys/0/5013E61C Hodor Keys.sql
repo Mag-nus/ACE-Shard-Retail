@@ -14,7 +14,7 @@ VALUES (1343481372,   1,         16) /* ItemType - Creature */
      , (1343481372, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343481372, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343481372, 188,          4) /* HeritageGroup - Viamontian */
-     , (1343481372, 261,         12) /* CharacterTitleId */
+     , (1343481372, 261,         12) /* CharacterTitleId - Swashbuckler */
      , (1343481372, 390,          0) /* Enlightenment */
      , (1343481372, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
@@ -51,9 +51,9 @@ VALUES (1343481372,   1,   33554433) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343481372, 1, 3332964380, 77.70671, 79.84708, 42.005, 0.8783422, 0, 0, -0.4780324) /* Location */
-/* @teleloc 0xC6A9001C [77.706710 79.847080 42.005000] 0.878342 0.000000 0.000000 -0.478032 */
+/* @teleloc 0xC6A9001C [77.706711 79.847076 42.005001] 0.878342 0.000000 0.000000 -0.478032 */
      , (1343481372, 8040, 3332964380, 77.70671, 79.84708, 42.005, 0.8783422, 0, 0, -0.4780324) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001C [77.706710 79.847080 42.005000] 0.878342 0.000000 0.000000 -0.478032 */;
+/* @teleloc 0xC6A9001C [77.706711 79.847076 42.005001] 0.878342 0.000000 0.000000 -0.478032 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343481372,  26, 1343449966) /* Monarch */

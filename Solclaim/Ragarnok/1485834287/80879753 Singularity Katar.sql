@@ -24,7 +24,7 @@ VALUES (2156369747,   1,          1) /* ItemType - MeleeWeapon */
      , (2156369747, 114,          1) /* Attuned - Attuned */
      , (2156369747, 115,        300) /* ItemSkillLevelLimit */
      , (2156369747, 151,          2) /* HookType - Wall */
-     , (2156369747, 176,         46) /* AppraisalItemSkill */
+     , (2156369747, 176,         46) /* AppraisalItemSkill - FinesseWeapons */
      , (2156369747, 353,          1) /* WeaponType - Unarmed */
      , (2156369747, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (2156369747, 9015,         20) /* InventoryOrder */;

@@ -20,7 +20,7 @@ VALUES (2438182510,   1,      32768) /* ItemType - Caster */
      , (2438182510, 115,          0) /* ItemSkillLevelLimit */
      , (2438182510, 131,         26) /* MaterialType - ImperialTopaz */
      , (2438182510, 151,          2) /* HookType - Wall */
-     , (2438182510, 172,          7) /* AppraisalLongDescDecoration */
+     , (2438182510, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2438182510, 177,          6) /* GemCount */
      , (2438182510, 178,         38) /* GemType */
      , (2438182510, 9015,          7) /* InventoryOrder */;

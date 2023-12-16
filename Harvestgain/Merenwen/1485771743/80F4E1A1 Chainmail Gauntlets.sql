@@ -22,7 +22,7 @@ VALUES (2163532193,   1,          2) /* ItemType - Armor */
      , (2163532193, 115,          0) /* ItemSkillLevelLimit */
      , (2163532193, 131,         57) /* MaterialType - Brass */
      , (2163532193, 171,          6) /* NumTimesTinkered */
-     , (2163532193, 172,          7) /* AppraisalLongDescDecoration */
+     , (2163532193, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2163532193, 177,          2) /* GemCount */
      , (2163532193, 178,         20) /* GemType */
      , (2163532193, 188,          4) /* HeritageGroup - Viamontian */;

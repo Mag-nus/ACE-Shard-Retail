@@ -18,7 +18,7 @@ VALUES (3327046062,   1,          8) /* ItemType - Jewelry */
      , (3327046062, 110,          0) /* ItemAllegianceRankLimit */
      , (3327046062, 115,          0) /* ItemSkillLevelLimit */
      , (3327046062, 131,         57) /* MaterialType - Brass */
-     , (3327046062, 172,          7) /* AppraisalLongDescDecoration */
+     , (3327046062, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3327046062, 177,          1) /* GemCount */
      , (3327046062, 178,         33) /* GemType */
      , (3327046062, 188,          1) /* HeritageGroup - Aluvian */

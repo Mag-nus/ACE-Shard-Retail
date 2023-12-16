@@ -15,7 +15,7 @@ VALUES (2156005978,   1,          2) /* ItemType - Armor */
      , (2156005978, 105,          6) /* ItemWorkmanship */
      , (2156005978, 131,         60) /* MaterialType - Gold */
      , (2156005978, 171,          7) /* NumTimesTinkered */
-     , (2156005978, 172,          3) /* AppraisalLongDescDecoration */
+     , (2156005978, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2156005978, 179,       1024) /* ImbuedEffect - MeleeDefense */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

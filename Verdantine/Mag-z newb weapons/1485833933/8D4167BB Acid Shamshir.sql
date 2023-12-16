@@ -22,7 +22,7 @@ VALUES (2369873851,   1,          1) /* ItemType - MeleeWeapon */
      , (2369873851, 158,          2) /* WieldRequirements - RawSkill */
      , (2369873851, 159,         44) /* WieldSkillType - HeavyWeapons */
      , (2369873851, 160,        400) /* WieldDifficulty */
-     , (2369873851, 172,          7) /* AppraisalLongDescDecoration */
+     , (2369873851, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2369873851, 177,          6) /* GemCount */
      , (2369873851, 178,         22) /* GemType */
      , (2369873851, 353,          2) /* WeaponType - Sword */

@@ -27,7 +27,7 @@ VALUES (1343075994,   1,         16) /* ItemType - Creature */
      , (1343075994, 188,          3) /* HeritageGroup - Sho */
      , (1343075994, 192,         10) /* FakeFishingSkill */
      , (1343075994, 199, 1471419197) /* HousePurchaseTimestamp */
-     , (1343075994, 261,        154) /* CharacterTitleId */
+     , (1343075994, 261,        154) /* CharacterTitleId - WarriorVanquisher */
      , (1343075994, 307,          5) /* DamageRating */
      , (1343075994, 308,          0) /* DamageResistRating */
      , (1343075994, 312,          0) /* HealOverTime */

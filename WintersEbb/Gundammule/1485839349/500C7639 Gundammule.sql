@@ -21,7 +21,7 @@ VALUES (1342993977,   1,         16) /* ItemType - Creature */
      , (1342993977, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342993977, 188,          6) /* HeritageGroup - Gearknight */
      , (1342993977, 199, 1461543802) /* HousePurchaseTimestamp */
-     , (1342993977, 261,          1) /* CharacterTitleId */
+     , (1342993977, 261,          1) /* CharacterTitleId - Adventurer */
      , (1342993977, 307,          0) /* DamageRating */
      , (1342993977, 308,          0) /* DamageResistRating */
      , (1342993977, 310,          1) /* AugmentationDamageReduction */

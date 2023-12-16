@@ -14,8 +14,8 @@ VALUES (1343157544,   1,         16) /* ItemType - Creature */
      , (1343157544, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343157544, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343157544, 188,          4) /* HeritageGroup - Viamontian */
-     , (1343157544, 261,          9) /* CharacterTitleId */
-     , (1343157544, 281,          1) /* Faction1Bits */
+     , (1343157544, 261,          9) /* CharacterTitleId - BowHunter */
+     , (1343157544, 281,          1) /* Faction1Bits - CelestialHand */
      , (1343157544, 287,          1) /* SocietyRankCelhan */
      , (1343157544, 307,         45) /* DamageRating */
      , (1343157544, 308,         18) /* DamageResistRating */
@@ -60,7 +60,7 @@ VALUES (1343157544,   1,   33554510) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343157544, 1, 459077, 70, -80, 0.004999995, 1, 0, 0, 0) /* Location */
 /* @teleloc 0x00070145 [70.000000 -80.000000 0.005000] 1.000000 0.000000 0.000000 0.000000 */
-     , (1343157544, 8040, 35389774, 50, -50, -5.995, -0.6892104, 0, 0, -0.7245613) /* PCAPRecordedLocation */
+     , (1343157544, 8040, 35389774, 50, -50, -5.995, -0.68921036, 0, 0, -0.72456133) /* PCAPRecordedLocation */
 /* @teleloc 0x021C014E [50.000000 -50.000000 -5.995000] -0.689210 0.000000 0.000000 -0.724561 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)

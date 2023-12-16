@@ -14,7 +14,7 @@ VALUES (2149227359,   1,          2) /* ItemType - Armor */
      , (2149227359,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2149227359, 105,          4) /* ItemWorkmanship */
      , (2149227359, 131,         53) /* MaterialType - ArmoredilloHide */
-     , (2149227359, 172,          5) /* AppraisalLongDescDecoration */
+     , (2149227359, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2149227359, 177,          2) /* GemCount */
      , (2149227359, 178,         31) /* GemType */;
 

@@ -21,8 +21,8 @@ VALUES (3711083299,   1,          2) /* ItemType - Armor */
      , (3711083299, 115,        197) /* ItemSkillLevelLimit */
      , (3711083299, 131,         60) /* MaterialType - Gold */
      , (3711083299, 151,          2) /* HookType - Wall */
-     , (3711083299, 172,          7) /* AppraisalLongDescDecoration */
-     , (3711083299, 176,          7) /* AppraisalItemSkill */
+     , (3711083299, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (3711083299, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (3711083299, 177,          3) /* GemCount */
      , (3711083299, 178,         47) /* GemType */
      , (3711083299, 188,          3) /* HeritageGroup - Sho */;

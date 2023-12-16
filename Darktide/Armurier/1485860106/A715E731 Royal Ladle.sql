@@ -14,7 +14,7 @@ VALUES (2803230513,   1,        256) /* ItemType - MissileWeapon */
      , (2803230513,  48,         47) /* WeaponSkill - MissileWeapons */
      , (2803230513,  49,          0) /* WeaponTime */
      , (2803230513,  50,          4) /* AmmoType - Atlatl */
-     , (2803230513,  51,          2) /* CombatUse - Missle */
+     , (2803230513,  51,          2) /* CombatUse - Missile */
      , (2803230513,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2803230513, 106,        350) /* ItemSpellcraft */
      , (2803230513, 107,       1282) /* ItemCurMana */

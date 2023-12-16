@@ -12,14 +12,14 @@ VALUES (3701654300,   1,        256) /* ItemType - MissileWeapon */
      , (3701654300,  48,         47) /* WeaponSkill - MissileWeapons */
      , (3701654300,  49,         32) /* WeaponTime */
      , (3701654300,  50,          1) /* AmmoType - Arrow */
-     , (3701654300,  51,          2) /* CombatUse - Missle */
+     , (3701654300,  51,          2) /* CombatUse - Missile */
      , (3701654300,  65,        101) /* Placement - Resting */
      , (3701654300,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3701654300, 105,          4) /* ItemWorkmanship */
      , (3701654300, 131,         59) /* MaterialType - Copper */
      , (3701654300, 151,          2) /* HookType - Wall */
      , (3701654300, 171,          2) /* NumTimesTinkered */
-     , (3701654300, 172,          3) /* AppraisalLongDescDecoration */
+     , (3701654300, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (3701654300, 179,          8) /* ImbuedEffect - SlashRending */
      , (3701654300, 353,          8) /* WeaponType - Bow */
      , (3701654300, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */

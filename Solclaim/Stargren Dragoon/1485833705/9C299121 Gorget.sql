@@ -21,7 +21,7 @@ VALUES (2619969825,   1,          8) /* ItemType - Jewelry */
      , (2619969825, 158,          7) /* WieldRequirements - Level */
      , (2619969825, 159,          1) /* WieldSkillType - Axe */
      , (2619969825, 160,        150) /* WieldDifficulty */
-     , (2619969825, 172,          7) /* AppraisalLongDescDecoration */
+     , (2619969825, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2619969825, 177,          5) /* GemCount */
      , (2619969825, 178,         39) /* GemType */
      , (2619969825, 188,          2) /* HeritageGroup - Gharundim */

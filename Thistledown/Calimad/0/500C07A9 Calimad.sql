@@ -16,9 +16,9 @@ VALUES (1342965673,   1,         16) /* ItemType - Creature */
      , (1342965673, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342965673, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342965673, 188,          1) /* HeritageGroup - Aluvian */
-     , (1342965673, 261,        443) /* CharacterTitleId */
+     , (1342965673, 261,        443) /* CharacterTitleId - ZombieIncursionSurvivor */
      , (1342965673, 262,         85) /* NumCharacterTitles */
-     , (1342965673, 281,          2) /* Faction1Bits */
+     , (1342965673, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1342965673, 288,         95) /* SocietyRankEldweb */
      , (1342965673, 307,          8) /* DamageRating */
      , (1342965673, 308,          3) /* DamageResistRating */
@@ -59,8 +59,8 @@ VALUES (1342965673,   1,   33554510) /* Setup */
      , (1342965673, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1342965673, 8040, 23855555, 59.89681, -38.88807, 0.004999995, -0.9079318, 0, 0, -0.4191179) /* PCAPRecordedLocation */
-/* @teleloc 0x016C01C3 [59.896810 -38.888070 0.005000] -0.907932 0.000000 0.000000 -0.419118 */;
+VALUES (1342965673, 8040, 23855555, 59.896812, -38.888073, 0.004999995, -0.9079318, 0, -0, -0.41911793) /* PCAPRecordedLocation */
+/* @teleloc 0x016C01C3 [59.896812 -38.888073 0.005000] -0.907932 0.000000 -0.000000 -0.419118 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342965673,  26, 1342499688) /* Monarch */

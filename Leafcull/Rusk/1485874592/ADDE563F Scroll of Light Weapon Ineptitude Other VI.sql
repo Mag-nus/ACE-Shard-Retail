@@ -28,7 +28,7 @@ INSERT INTO `biota_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (2917029439,   1,   33554826) /* Setup */
      , (2917029439,   8,  100692249) /* Icon */
      , (2917029439,  22,  872415275) /* PhysicsEffectTable */
-     , (2917029439,  28,        309) /* Spell - AxeIneptitudeOther6 */
+     , (2917029439,  28,        309) /* Spell - LightWeaponsIneptitudeOther6 */
      , (2917029439, 8001,    6307864) /* PCAPRecordedWeenieHeader - Value, Usable, Container, Burden, Spell */
      , (2917029439, 8003,         18) /* PCAPRecordedObjectDesc - Inscribable, Attackable */
      , (2917029439, 8005,     135297) /* PCAPRecordedPhysicsDesc - CSetup, ObjScale, PeTable, AnimationFrame */;

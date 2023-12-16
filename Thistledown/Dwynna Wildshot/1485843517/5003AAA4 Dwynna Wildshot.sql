@@ -26,7 +26,7 @@ VALUES (1342417572,   1,         16) /* ItemType - Creature */
      , (1342417572, 139,         42) /* DeathLevel */
      , (1342417572, 188,          1) /* HeritageGroup - Aluvian */
      , (1342417572, 199,          0) /* HousePurchaseTimestamp */
-     , (1342417572, 261,         53) /* CharacterTitleId */
+     , (1342417572, 261,         53) /* CharacterTitleId - Fletcher */
      , (1342417572, 307,          0) /* DamageRating */
      , (1342417572, 308,          0) /* DamageResistRating */
      , (1342417572, 312,          0) /* HealOverTime */

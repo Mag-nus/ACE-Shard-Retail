@@ -22,7 +22,7 @@ VALUES (2851351938,   1,          4) /* ItemType - Clothing */
      , (2851351938, 115,          0) /* ItemSkillLevelLimit */
      , (2851351938, 131,          4) /* MaterialType - Linen */
      , (2851351938, 151,          2) /* HookType - Wall */
-     , (2851351938, 172,          1) /* AppraisalLongDescDecoration */;
+     , (2851351938, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (2851351938,   1, False) /* Stuck */

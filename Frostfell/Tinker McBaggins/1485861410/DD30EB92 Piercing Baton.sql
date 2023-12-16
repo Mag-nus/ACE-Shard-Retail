@@ -20,7 +20,7 @@ VALUES (3710970770,   1,      32768) /* ItemType - Caster */
      , (3710970770, 159,         34) /* WieldSkillType - WarMagic */
      , (3710970770, 160,        310) /* WieldDifficulty */
      , (3710970770, 171,          8) /* NumTimesTinkered */
-     , (3710970770, 172,          7) /* AppraisalLongDescDecoration */
+     , (3710970770, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3710970770, 177,          2) /* GemCount */
      , (3710970770, 178,         39) /* GemType */
      , (3710970770, 179,         16) /* ImbuedEffect - PierceRending */;

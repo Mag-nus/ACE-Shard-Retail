@@ -26,8 +26,8 @@ VALUES (2315814706,   1,          2) /* ItemType - Armor */
      , (2315814706, 159,          6) /* WieldSkillType - MeleeDefense */
      , (2315814706, 160,        335) /* WieldDifficulty */
      , (2315814706, 171,          4) /* NumTimesTinkered */
-     , (2315814706, 172,          5) /* AppraisalLongDescDecoration */
-     , (2315814706, 176,          6) /* AppraisalItemSkill */
+     , (2315814706, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
+     , (2315814706, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (2315814706, 177,          4) /* GemCount */
      , (2315814706, 178,         21) /* GemType */
      , (2315814706, 265,         21) /* EquipmentSetId - Wise */

@@ -20,7 +20,7 @@ VALUES (3691353700,   1,      32768) /* ItemType - Caster */
      , (3691353700, 160,        375) /* WieldDifficulty */
      , (3691353700, 166,         89) /* SlayerCreatureType - Mukkir */
      , (3691353700, 171,         10) /* NumTimesTinkered */
-     , (3691353700, 172,          7) /* AppraisalLongDescDecoration */
+     , (3691353700, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3691353700, 177,          2) /* GemCount */
      , (3691353700, 178,         22) /* GemType */
      , (3691353700, 179,         16) /* ImbuedEffect - PierceRending */

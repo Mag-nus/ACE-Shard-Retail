@@ -27,7 +27,7 @@ VALUES (1342727958,   1,         16) /* ItemType - Creature */
      , (1342727958, 188,          1) /* HeritageGroup - Aluvian */
      , (1342727958, 192,         42) /* FakeFishingSkill */
      , (1342727958, 199,          0) /* HousePurchaseTimestamp */
-     , (1342727958, 261,         89) /* CharacterTitleId */
+     , (1342727958, 261,         89) /* CharacterTitleId - MasterFletcher */
      , (1342727958, 307,          0) /* DamageRating */
      , (1342727958, 308,          0) /* DamageResistRating */
      , (1342727958, 312,          0) /* HealOverTime */

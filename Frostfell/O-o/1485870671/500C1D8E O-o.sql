@@ -26,7 +26,7 @@ VALUES (1342971278,   1,         16) /* ItemType - Creature */
      , (1342971278, 139,         63) /* DeathLevel */
      , (1342971278, 188,          2) /* HeritageGroup - Gharundim */
      , (1342971278, 199, 1485456325) /* HousePurchaseTimestamp */
-     , (1342971278, 261,        140) /* CharacterTitleId */
+     , (1342971278, 261,        140) /* CharacterTitleId - Theurgist */
      , (1342971278, 307,          5) /* DamageRating */
      , (1342971278, 308,          0) /* DamageResistRating */
      , (1342971278, 312,          0) /* HealOverTime */

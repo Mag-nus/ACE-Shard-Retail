@@ -21,7 +21,7 @@ VALUES (2156007375,   1,          2) /* ItemType - Armor */
      , (2156007375, 115,          0) /* ItemSkillLevelLimit */
      , (2156007375, 131,         58) /* MaterialType - Bronze */
      , (2156007375, 171,          4) /* NumTimesTinkered */
-     , (2156007375, 172,          3) /* AppraisalLongDescDecoration */
+     , (2156007375, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2156007375, 188,          2) /* HeritageGroup - Gharundim */
      , (2156007375, 9015,          9) /* InventoryOrder */;
 

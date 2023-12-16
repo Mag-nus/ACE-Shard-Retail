@@ -23,7 +23,7 @@ VALUES (3709146201,   1,          2) /* ItemType - Armor */
      , (3709146201, 158,          7) /* WieldRequirements - Level */
      , (3709146201, 159,          1) /* WieldSkillType - Axe */
      , (3709146201, 160,        180) /* WieldDifficulty */
-     , (3709146201, 172,          1) /* AppraisalLongDescDecoration */
+     , (3709146201, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (3709146201, 265,         27) /* EquipmentSetId - Acidproof */
      , (3709146201, 9015,         28) /* InventoryOrder */;
 

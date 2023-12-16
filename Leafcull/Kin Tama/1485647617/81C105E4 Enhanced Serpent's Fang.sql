@@ -23,7 +23,7 @@ VALUES (2176910820,   1,          1) /* ItemType - MeleeWeapon */
      , (2176910820, 158,          2) /* WieldRequirements - RawSkill */
      , (2176910820, 159,         45) /* WieldSkillType - LightWeapons */
      , (2176910820, 160,        325) /* WieldDifficulty */
-     , (2176910820, 263,         32) /* ResistanceModifierType */
+     , (2176910820, 263,         32) /* ResistanceModifierType - Acid */
      , (2176910820, 353,          5) /* WeaponType - Spear */
      , (2176910820, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (2176910820, 9015,          4) /* InventoryOrder */;

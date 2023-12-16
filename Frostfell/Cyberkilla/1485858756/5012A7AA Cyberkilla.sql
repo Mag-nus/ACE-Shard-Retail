@@ -21,7 +21,7 @@ VALUES (1343399850,   1,         16) /* ItemType - Creature */
      , (1343399850, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343399850, 188,          3) /* HeritageGroup - Sho */
      , (1343399850, 199, 1404414924) /* HousePurchaseTimestamp */
-     , (1343399850, 261,          1) /* CharacterTitleId */
+     , (1343399850, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343399850, 307,          0) /* DamageRating */
      , (1343399850, 308,          0) /* DamageResistRating */
      , (1343399850, 312,          0) /* HealOverTime */

@@ -38,8 +38,8 @@ VALUES (1343350748,   1,         16) /* ItemType - Creature */
      , (1343350748, 238,          5) /* AugmentationIncreasedSpellDuration */
      , (1343350748, 244,          1) /* AugmentationResistanceFire */
      , (1343350748, 246,          1) /* AugmentationResistanceLightning */
-     , (1343350748, 261,          1) /* CharacterTitleId */
-     , (1343350748, 281,          4) /* Faction1Bits */
+     , (1343350748, 261,          1) /* CharacterTitleId - Adventurer */
+     , (1343350748, 281,          4) /* Faction1Bits - RadiantBlood */
      , (1343350748, 287,          0) /* SocietyRankCelhan */
      , (1343350748, 288,          0) /* SocietyRankEldweb */
      , (1343350748, 289,       1001) /* SocietyRankRadblo */

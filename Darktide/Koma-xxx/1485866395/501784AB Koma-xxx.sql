@@ -27,7 +27,7 @@ VALUES (1343718571,   1,         16) /* ItemType - Creature */
      , (1343718571, 188,          3) /* HeritageGroup - Sho */
      , (1343718571, 192,          0) /* FakeFishingSkill */
      , (1343718571, 199, 1415050594) /* HousePurchaseTimestamp */
-     , (1343718571, 261,        770) /* CharacterTitleId */
+     , (1343718571, 261,        770) /* CharacterTitleId - SupremeSoldier */
      , (1343718571, 307,          5) /* DamageRating */
      , (1343718571, 308,          0) /* DamageResistRating */
      , (1343718571, 312,          0) /* HealOverTime */

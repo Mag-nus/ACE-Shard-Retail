@@ -26,7 +26,7 @@ VALUES (1342796731,   1,         16) /* ItemType - Creature */
      , (1342796731, 181,       1300) /* ChessRank */
      , (1342796731, 188,          2) /* HeritageGroup - Gharundim */
      , (1342796731, 199, 1482974776) /* HousePurchaseTimestamp */
-     , (1342796731, 261,         31) /* CharacterTitleId */
+     , (1342796731, 261,         31) /* CharacterTitleId - BunnyMaster */
      , (1342796731, 307,          0) /* DamageRating */
      , (1342796731, 308,          0) /* DamageResistRating */
      , (1342796731, 312,          0) /* HealOverTime */

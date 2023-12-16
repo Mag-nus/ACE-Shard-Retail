@@ -38,8 +38,8 @@ VALUES (1343000500,   1,         16) /* ItemType - Creature */
      , (1343000500, 235,          4) /* AugmentationBonusSalvage */
      , (1343000500, 236,          1) /* AugmentationBonusImbueChance */
      , (1343000500, 238,          5) /* AugmentationIncreasedSpellDuration */
-     , (1343000500, 261,        651) /* CharacterTitleId */
-     , (1343000500, 281,          1) /* Faction1Bits */
+     , (1343000500, 261,        651) /* CharacterTitleId - Gifted */
+     , (1343000500, 281,          1) /* Faction1Bits - CelestialHand */
      , (1343000500, 287,        905) /* SocietyRankCelhan */
      , (1343000500, 288,          0) /* SocietyRankEldweb */
      , (1343000500, 289,          0) /* SocietyRankRadblo */

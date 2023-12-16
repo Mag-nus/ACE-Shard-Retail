@@ -9,7 +9,7 @@ VALUES (3698417419,   1,        256) /* ItemType - MissileWeapon */
      , (3698417419,  18,        513) /* UiEffects - Magical, Bludgeoning */
      , (3698417419,  19,      12992) /* Value */
      , (3698417419,  50,          4) /* AmmoType - Atlatl */
-     , (3698417419,  51,          2) /* CombatUse - Missle */
+     , (3698417419,  51,          2) /* CombatUse - Missile */
      , (3698417419,  65,        101) /* Placement - Resting */
      , (3698417419,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3698417419, 131,         63) /* MaterialType - Silver */

@@ -23,8 +23,8 @@ VALUES (2282858118,   1,          2) /* ItemType - Armor */
      , (2282858118, 158,          7) /* WieldRequirements - Level */
      , (2282858118, 159,          1) /* WieldSkillType - Axe */
      , (2282858118, 160,        150) /* WieldDifficulty */
-     , (2282858118, 172,          3) /* AppraisalLongDescDecoration */
-     , (2282858118, 176,          7) /* AppraisalItemSkill */
+     , (2282858118, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (2282858118, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (2282858118, 188,          4) /* HeritageGroup - Viamontian */
      , (2282858118, 9015,          2) /* InventoryOrder */;
 

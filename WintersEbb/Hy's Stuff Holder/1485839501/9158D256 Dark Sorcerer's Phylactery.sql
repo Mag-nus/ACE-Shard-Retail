@@ -17,7 +17,7 @@ VALUES (2438517334,   1,      32768) /* ItemType - Caster */
      , (2438517334, 108,       2000) /* ItemMaxMana */
      , (2438517334, 115,        250) /* ItemSkillLevelLimit */
      , (2438517334, 151,          2) /* HookType - Wall */
-     , (2438517334, 176,         33) /* AppraisalItemSkill */;
+     , (2438517334, 176,         33) /* AppraisalItemSkill - LifeMagic */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (2438517334,   1, False) /* Stuck */
@@ -31,7 +31,7 @@ VALUES (2438517334,   1, False) /* Stuck */
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2438517334,   5,   -0.05) /* ManaRate */
      , (2438517334,  29,       1) /* WeaponDefense */
-     , (2438517334, 144, 1.20478764151778E-314) /* ManaConversionMod */;
+     , (2438517334, 144, 1.2047876415E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2438517334,   1, 'Dark Sorcerer''s Phylactery') /* Name */
@@ -50,8 +50,8 @@ VALUES (2438517334,   1,   33557338) /* Setup */
      , (2438517334, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (2438517334, 8040, 3465871404, 140.4172, 91.33885, 19.929, -0.7046338, -0.7046338, -0.05908659, -0.05908659) /* PCAPRecordedLocation */
-/* @teleloc 0xCE95002C [140.417200 91.338850 19.929000] -0.704634 -0.704634 -0.059087 -0.059087 */;
+VALUES (2438517334, 8040, 3465871404, 140.41724, 91.33885, 19.928999, -0.7046338, -0.7046338, -0.05908659, -0.05908659) /* PCAPRecordedLocation */
+/* @teleloc 0xCE95002C [140.417236 91.338852 19.928999] -0.704634 -0.704634 -0.059087 -0.059087 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2438517334,   3, 1342299258) /* Wielder */

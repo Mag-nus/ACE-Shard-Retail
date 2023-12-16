@@ -26,7 +26,7 @@ VALUES (1343137762,   1,         16) /* ItemType - Creature */
      , (1343137762, 139,         57) /* DeathLevel */
      , (1343137762, 188,          3) /* HeritageGroup - Sho */
      , (1343137762, 199, 1392026607) /* HousePurchaseTimestamp */
-     , (1343137762, 261,         58) /* CharacterTitleId */
+     , (1343137762, 261,         58) /* CharacterTitleId - GardenerWeeder */
      , (1343137762, 307,          5) /* DamageRating */
      , (1343137762, 308,          0) /* DamageResistRating */
      , (1343137762, 312,          0) /* HealOverTime */

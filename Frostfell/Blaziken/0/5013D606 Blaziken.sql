@@ -14,8 +14,8 @@ VALUES (1343477254,   1,         16) /* ItemType - Creature */
      , (1343477254, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343477254, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343477254, 188,          3) /* HeritageGroup - Sho */
-     , (1343477254, 261,        764) /* CharacterTitleId */
-     , (1343477254, 281,          2) /* Faction1Bits */
+     , (1343477254, 261,        764) /* CharacterTitleId - VanquisheroftheTitan */
+     , (1343477254, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1343477254, 288,         20) /* SocietyRankEldweb */
      , (1343477254, 307,         13) /* DamageRating */
      , (1343477254, 308,          5) /* DamageResistRating */
@@ -58,10 +58,10 @@ VALUES (1343477254,   1,   33554510) /* Setup */
      , (1343477254, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343477254, 1, 3583705134, 127, 127, 129.4217, 1, 0, 0, 0) /* Location */
-/* @teleloc 0xD59B002E [127.000000 127.000000 129.421700] 1.000000 0.000000 0.000000 0.000000 */
-     , (1343477254, 8040, 3583574079, 176.4337, 164.8852, 374.005, -0.4333295, 0, 0, 0.9012356) /* PCAPRecordedLocation */
-/* @teleloc 0xD599003F [176.433700 164.885200 374.005000] -0.433330 0.000000 0.000000 0.901236 */;
+VALUES (1343477254, 1, 3583705134, 127, 127, 129.42166, 1, 0, 0, 0) /* Location */
+/* @teleloc 0xD59B002E [127.000000 127.000000 129.421661] 1.000000 0.000000 0.000000 0.000000 */
+     , (1343477254, 8040, 3583574079, 176.43367, 164.88516, 374.005, -0.43332952, 0, 0, 0.9012356) /* PCAPRecordedLocation */
+/* @teleloc 0xD599003F [176.433670 164.885162 374.005005] -0.433330 0.000000 0.000000 0.901236 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343477254,  26, 1343449966) /* Monarch */

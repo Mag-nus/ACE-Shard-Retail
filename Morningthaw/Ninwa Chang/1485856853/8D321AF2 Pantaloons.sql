@@ -20,7 +20,7 @@ VALUES (2368871154,   1,          4) /* ItemType - Clothing */
      , (2368871154, 110,          0) /* ItemAllegianceRankLimit */
      , (2368871154, 115,          0) /* ItemSkillLevelLimit */
      , (2368871154, 131,          4) /* MaterialType - Linen */
-     , (2368871154, 172,          3) /* AppraisalLongDescDecoration */
+     , (2368871154, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2368871154, 188,          2) /* HeritageGroup - Gharundim */
      , (2368871154, 9015,         43) /* InventoryOrder */;
 

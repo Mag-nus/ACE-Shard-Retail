@@ -21,7 +21,7 @@ VALUES (1343176359,   1,         16) /* ItemType - Creature */
      , (1343176359, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343176359, 188,          1) /* HeritageGroup - Aluvian */
      , (1343176359, 199, 1484434477) /* HousePurchaseTimestamp */
-     , (1343176359, 261,         12) /* CharacterTitleId */
+     , (1343176359, 261,         12) /* CharacterTitleId - Swashbuckler */
      , (1343176359, 307,          0) /* DamageRating */
      , (1343176359, 308,          0) /* DamageResistRating */
      , (1343176359, 312,          0) /* HealOverTime */

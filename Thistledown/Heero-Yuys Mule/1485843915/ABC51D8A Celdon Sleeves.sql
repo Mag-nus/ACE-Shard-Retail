@@ -21,7 +21,7 @@ VALUES (2881822090,   1,          2) /* ItemType - Armor */
      , (2881822090, 110,          0) /* ItemAllegianceRankLimit */
      , (2881822090, 115,        122) /* ItemSkillLevelLimit */
      , (2881822090, 131,         60) /* MaterialType - Gold */
-     , (2881822090, 176,          6) /* AppraisalItemSkill */;
+     , (2881822090, 176,          6) /* AppraisalItemSkill - MeleeDefense */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (2881822090,   1, False) /* Stuck */

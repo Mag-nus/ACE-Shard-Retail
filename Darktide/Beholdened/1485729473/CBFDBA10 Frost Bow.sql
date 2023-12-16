@@ -13,7 +13,7 @@ VALUES (3422403088,   1,        256) /* ItemType - MissileWeapon */
      , (3422403088,  48,         47) /* WeaponSkill - MissileWeapons */
      , (3422403088,  49,         37) /* WeaponTime */
      , (3422403088,  50,          1) /* AmmoType - Arrow */
-     , (3422403088,  51,          2) /* CombatUse - Missle */
+     , (3422403088,  51,          2) /* CombatUse - Missile */
      , (3422403088,  65,        101) /* Placement - Resting */
      , (3422403088,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3422403088, 105,          8) /* ItemWorkmanship */
@@ -29,8 +29,8 @@ VALUES (3422403088,   1,        256) /* ItemType - MissileWeapon */
      , (3422403088, 159,         47) /* WieldSkillType - MissileWeapons */
      , (3422403088, 160,        360) /* WieldDifficulty */
      , (3422403088, 171,          8) /* NumTimesTinkered */
-     , (3422403088, 172,          3) /* AppraisalLongDescDecoration */
-     , (3422403088, 176,         47) /* AppraisalItemSkill */
+     , (3422403088, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (3422403088, 176,         47) /* AppraisalItemSkill - MissileWeapons */
      , (3422403088, 179,        128) /* ImbuedEffect - ColdRending */
      , (3422403088, 188,          2) /* HeritageGroup - Gharundim */
      , (3422403088, 204,         12) /* ElementalDamageBonus */

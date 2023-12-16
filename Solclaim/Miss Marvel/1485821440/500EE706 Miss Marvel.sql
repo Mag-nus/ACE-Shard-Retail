@@ -23,7 +23,7 @@ VALUES (1343153926,   1,         16) /* ItemType - Creature */
      , (1343153926, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343153926, 139,         30) /* DeathLevel */
      , (1343153926, 188,          2) /* HeritageGroup - Gharundim */
-     , (1343153926, 261,         13) /* CharacterTitleId */
+     , (1343153926, 261,         13) /* CharacterTitleId - WarMage */
      , (1343153926, 307,          5) /* DamageRating */
      , (1343153926, 308,          0) /* DamageResistRating */
      , (1343153926, 312,          0) /* HealOverTime */

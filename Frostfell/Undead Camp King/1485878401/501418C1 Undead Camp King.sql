@@ -21,7 +21,7 @@ VALUES (1343494337,   1,         16) /* ItemType - Creature */
      , (1343494337, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343494337, 188,          9) /* HeritageGroup - Empyrean */
      , (1343494337, 199, 1485456325) /* HousePurchaseTimestamp */
-     , (1343494337, 261,          1) /* CharacterTitleId */
+     , (1343494337, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343494337, 296,          1) /* AugmentationInfusedLifeMagic */
      , (1343494337, 307,          5) /* DamageRating */
      , (1343494337, 308,          0) /* DamageResistRating */

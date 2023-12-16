@@ -9,7 +9,7 @@ VALUES (3422573931,   1,        256) /* ItemType - MissileWeapon */
      , (3422573931,  18,       2049) /* UiEffects - Magical, Piercing */
      , (3422573931,  19,      15312) /* Value */
      , (3422573931,  50,          2) /* AmmoType - Bolt */
-     , (3422573931,  51,          2) /* CombatUse - Missle */
+     , (3422573931,  51,          2) /* CombatUse - Missile */
      , (3422573931,  65,        101) /* Placement - Resting */
      , (3422573931,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3422573931, 131,         13) /* MaterialType - Aquamarine */

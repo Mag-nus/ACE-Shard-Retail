@@ -7,7 +7,7 @@ VALUES (2765460150,   1,        256) /* ItemType - MissileWeapon */
      , (2765460150,   9,    4194304) /* ValidLocations - MissileWeapon */
      , (2765460150,  16,          1) /* ItemUseable - No */
      , (2765460150,  19,      12100) /* Value */
-     , (2765460150,  51,          2) /* CombatUse - Missle */
+     , (2765460150,  51,          2) /* CombatUse - Missile */
      , (2765460150,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (2765460150, 131,         51) /* MaterialType - Ivory */
      , (2765460150, 151,          1) /* HookType - Floor */

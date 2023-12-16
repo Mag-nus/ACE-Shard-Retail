@@ -19,7 +19,7 @@ VALUES (1344175177,   1, True ) /* Stuck */
      , (1344175177,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1344175177,  39, 0.899999976158142) /* DefaultScale */;
+VALUES (1344175177,  39, 0.8999999761581421) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1344175177,   1, 'Rock Perching Olthoi') /* Name */;
@@ -36,10 +36,10 @@ VALUES (1344175177,   1,   33561121) /* Setup */
      , (1344175177, 8005,     104579) /* PCAPRecordedPhysicsDesc - CSetup, MTable, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1344175177, 1, 3872587790, 24.03695, 143.8086, 218.0386, -0.3537457, 0, 0, 0.9353417) /* Location */
-/* @teleloc 0xE6D3000E [24.036950 143.808600 218.038600] -0.353746 0.000000 0.000000 0.935342 */
-     , (1344175177, 8040, 3872587790, 37.8814, 136.1783, 218, -0.8660254, 0, 0, -0.5000001) /* PCAPRecordedLocation */
-/* @teleloc 0xE6D3000E [37.881400 136.178300 218.000000] -0.866025 0.000000 0.000000 -0.500000 */;
+VALUES (1344175177, 1, 3872587790, 24.036947, 143.8086, 218.0386, -0.35374573, 0, 0, 0.93534166) /* Location */
+/* @teleloc 0xE6D3000E [24.036947 143.808594 218.038605] -0.353746 0.000000 0.000000 0.935342 */
+     , (1344175177, 8040, 3872587790, 37.881405, 136.17827, 218, -0.8660254, 0, -0, -0.50000006) /* PCAPRecordedLocation */
+/* @teleloc 0xE6D3000E [37.881405 136.178268 218.000000] -0.866025 0.000000 -0.000000 -0.500000 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1344175177, 8000, 1344175177) /* PCAPRecordedObjectIID */;

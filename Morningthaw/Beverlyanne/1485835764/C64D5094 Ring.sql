@@ -18,7 +18,7 @@ VALUES (3326955668,   1,          8) /* ItemType - Jewelry */
      , (3326955668, 110,          0) /* ItemAllegianceRankLimit */
      , (3326955668, 115,          0) /* ItemSkillLevelLimit */
      , (3326955668, 131,         60) /* MaterialType - Gold */
-     , (3326955668, 172,          7) /* AppraisalLongDescDecoration */
+     , (3326955668, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3326955668, 177,          1) /* GemCount */
      , (3326955668, 178,         38) /* GemType */
      , (3326955668, 9015,         13) /* InventoryOrder */;

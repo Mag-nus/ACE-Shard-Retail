@@ -9,7 +9,7 @@ VALUES (2315814788,   1,        256) /* ItemType - MissileWeapon */
      , (2315814788,  18,        513) /* UiEffects - Magical, Bludgeoning */
      , (2315814788,  19,       6968) /* Value */
      , (2315814788,  50,          2) /* AmmoType - Bolt */
-     , (2315814788,  51,          2) /* CombatUse - Missle */
+     , (2315814788,  51,          2) /* CombatUse - Missile */
      , (2315814788,  65,        101) /* Placement - Resting */
      , (2315814788,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2315814788, 131,         76) /* MaterialType - Pine */

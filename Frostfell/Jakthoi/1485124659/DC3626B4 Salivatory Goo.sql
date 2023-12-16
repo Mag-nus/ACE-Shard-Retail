@@ -14,7 +14,7 @@ VALUES (3694536372,   1,      32768) /* ItemType - Caster */
      , (3694536372,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3694536372,  94,         16) /* TargetType - Creature */
      , (3694536372, 114,          1) /* Attuned - Attuned */
-     , (3694536372, 324,         13) /* HeritageSpecificArmor */
+     , (3694536372, 324,         13) /* HeritageSpecificArmor - OlthoiAcid */
      , (3694536372, 9015,          4) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

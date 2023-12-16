@@ -14,8 +14,8 @@ VALUES (1343490163,   1,         16) /* ItemType - Creature */
      , (1343490163, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343490163, 134,         64) /* PlayerKillerStatus - PKLite */
      , (1343490163, 188,          2) /* HeritageGroup - Gharundim */
-     , (1343490163, 261,          1) /* CharacterTitleId */
-     , (1343490163, 281,          4) /* Faction1Bits */
+     , (1343490163, 261,          1) /* CharacterTitleId - Adventurer */
+     , (1343490163, 281,          4) /* Faction1Bits - RadiantBlood */
      , (1343490163, 289,        595) /* SocietyRankRadblo */
      , (1343490163, 307,         31) /* DamageRating */
      , (1343490163, 308,         27) /* DamageResistRating */
@@ -59,10 +59,10 @@ VALUES (1343490163,   1,   33554433) /* Setup */
      , (1343490163, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343490163, 1, 2241527852, 122.0921, 79.95378, 114.005, -0.9868895, 0, 0, -0.1613976) /* Location */
-/* @teleloc 0x859B002C [122.092100 79.953780 114.005000] -0.986890 0.000000 0.000000 -0.161398 */
-     , (1343490163, 8040, 2241527853, 120.86, 101.084, 114.005, 0.9997364, 0, 0, 0.02296161) /* PCAPRecordedLocation */
-/* @teleloc 0x859B002D [120.860000 101.084000 114.005000] 0.999736 0.000000 0.000000 0.022962 */;
+VALUES (1343490163, 1, 2241527852, 122.0921, 79.95378, 114.005005, -0.9868895, 0, 0, -0.1613976) /* Location */
+/* @teleloc 0x859B002C [122.092102 79.953781 114.005005] -0.986889 0.000000 0.000000 -0.161398 */
+     , (1343490163, 8040, 2241527853, 120.86, 101.084, 114.005005, 0.99973637, 0, 0, 0.022961607) /* PCAPRecordedLocation */
+/* @teleloc 0x859B002D [120.860001 101.084000 114.005005] 0.999736 0.000000 0.000000 0.022962 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343490163,  26, 1343449966) /* Monarch */

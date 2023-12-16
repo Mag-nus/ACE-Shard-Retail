@@ -14,8 +14,8 @@ VALUES (1343251171,   1,         16) /* ItemType - Creature */
      , (1343251171, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343251171, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343251171, 188,          4) /* HeritageGroup - Viamontian */
-     , (1343251171, 261,          1) /* CharacterTitleId */
-     , (1343251171, 281,          2) /* Faction1Bits */
+     , (1343251171, 261,          1) /* CharacterTitleId - Adventurer */
+     , (1343251171, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1343251171, 288,       1001) /* SocietyRankEldweb */
      , (1343251171, 307,          8) /* DamageRating */
      , (1343251171, 308,          5) /* DamageResistRating */
@@ -55,10 +55,10 @@ VALUES (1343251171,   1,   33554433) /* Setup */
      , (1343251171, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343251171, 1, 23855554, 55.5594, -34.39391, 0.004999995, -0.07501396, 0, 0, -0.9971825) /* Location */
-/* @teleloc 0x016C01C2 [55.559400 -34.393910 0.005000] -0.075014 0.000000 0.000000 -0.997183 */
-     , (1343251171, 8040, 23855554, 55.5594, -34.39391, 0.004999995, -0.6249635, 0, 0, -0.780654) /* PCAPRecordedLocation */
-/* @teleloc 0x016C01C2 [55.559400 -34.393910 0.005000] -0.624964 0.000000 0.000000 -0.780654 */;
+VALUES (1343251171, 1, 23855554, 55.559402, -34.393906, 0.004999995, -0.07501396, 0, 0, -0.9971825) /* Location */
+/* @teleloc 0x016C01C2 [55.559402 -34.393906 0.005000] -0.075014 0.000000 0.000000 -0.997182 */
+     , (1343251171, 8040, 23855554, 55.559402, -34.393906, 0.004999995, -0.62496346, 0, -0, -0.780654) /* PCAPRecordedLocation */
+/* @teleloc 0x016C01C2 [55.559402 -34.393906 0.005000] -0.624963 0.000000 -0.000000 -0.780654 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343251171,  26, 1343364493) /* Monarch */

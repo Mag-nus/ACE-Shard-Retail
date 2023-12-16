@@ -20,7 +20,7 @@ VALUES (2164337433,   1,          4) /* ItemType - Clothing */
      , (2164337433, 110,          0) /* ItemAllegianceRankLimit */
      , (2164337433, 115,          0) /* ItemSkillLevelLimit */
      , (2164337433, 131,          4) /* MaterialType - Linen */
-     , (2164337433, 172,          3) /* AppraisalLongDescDecoration */
+     , (2164337433, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2164337433, 188,          1) /* HeritageGroup - Aluvian */
      , (2164337433, 9015,         11) /* InventoryOrder */;
 

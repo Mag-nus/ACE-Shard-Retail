@@ -19,7 +19,7 @@ VALUES (1343189114,   1, True ) /* Stuck */
      , (1343189114,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343189114,  39, 1.14999997615814) /* DefaultScale */;
+VALUES (1343189114,  39, 1.149999976158142) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343189114,   1, 'Dilly Dallying') /* Name */;
@@ -36,10 +36,10 @@ VALUES (1343189114,   1,   33561104) /* Setup */
      , (1343189114, 8005,     104643) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343189114, 1, 3417440271, 37.7811, 153.171, 214.0058, 0.999948, 0, 0, -0.0102155) /* Location */
-/* @teleloc 0xCBB2000F [37.781100 153.171000 214.005800] 0.999948 0.000000 0.000000 -0.010216 */
+VALUES (1343189114, 1, 3417440271, 37.7811, 153.171, 214.00575, 0.999948, 0, 0, -0.0102155) /* Location */
+/* @teleloc 0xCBB2000F [37.781101 153.171005 214.005753] 0.999948 0.000000 0.000000 -0.010216 */
      , (1343189114, 8040, 3332964380, 78.51277, 92.355, 42.00575, 0.9994916, 0, 0, -0.03188425) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001C [78.512770 92.355000 42.005750] 0.999492 0.000000 0.000000 -0.031884 */;
+/* @teleloc 0xC6A9001C [78.512772 92.355003 42.005749] 0.999492 0.000000 0.000000 -0.031884 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343189114,  26, 1342595878) /* Monarch */

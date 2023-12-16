@@ -23,7 +23,7 @@ VALUES (1344009669,   1,         16) /* ItemType - Creature */
      , (1344009669, 139,          5) /* DeathLevel */
      , (1344009669, 188,          8) /* HeritageGroup - Lugian */
      , (1344009669, 230,          1) /* AugmentationIncreasedCarryingCapacity */
-     , (1344009669, 261,          1) /* CharacterTitleId */
+     , (1344009669, 261,          1) /* CharacterTitleId - Adventurer */
      , (1344009669, 307,          0) /* DamageRating */
      , (1344009669, 308,          0) /* DamageResistRating */
      , (1344009669, 312,          0) /* HealOverTime */

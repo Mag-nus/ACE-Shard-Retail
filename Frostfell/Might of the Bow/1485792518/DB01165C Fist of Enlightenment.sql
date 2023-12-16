@@ -24,7 +24,7 @@ VALUES (3674281564,   1,          1) /* ItemType - MeleeWeapon */
      , (3674281564, 158,          2) /* WieldRequirements - RawSkill */
      , (3674281564, 159,         45) /* WieldSkillType - LightWeapons */
      , (3674281564, 160,        400) /* WieldDifficulty */
-     , (3674281564, 263,         16) /* ResistanceModifierType */
+     , (3674281564, 263,         16) /* ResistanceModifierType - Fire */
      , (3674281564, 353,          1) /* WeaponType - Unarmed */
      , (3674281564, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (3674281564, 9015,         41) /* InventoryOrder */;

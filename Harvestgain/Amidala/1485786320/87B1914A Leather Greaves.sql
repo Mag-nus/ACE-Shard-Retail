@@ -21,8 +21,8 @@ VALUES (2276561226,   1,          2) /* ItemType - Armor */
      , (2276561226, 115,        172) /* ItemSkillLevelLimit */
      , (2276561226, 131,         54) /* MaterialType - GromnieHide */
      , (2276561226, 171,          3) /* NumTimesTinkered */
-     , (2276561226, 172,          1) /* AppraisalLongDescDecoration */
-     , (2276561226, 176,          7) /* AppraisalItemSkill */
+     , (2276561226, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (2276561226, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (2276561226, 9015,         16) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

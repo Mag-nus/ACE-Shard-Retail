@@ -15,7 +15,7 @@ VALUES (3583060416,   1,          4) /* ItemType - Clothing */
      , (3583060416, 105,          8) /* ItemWorkmanship */
      , (3583060416, 131,          4) /* MaterialType - Linen */
      , (3583060416, 151,          2) /* HookType - Wall */
-     , (3583060416, 172,          5) /* AppraisalLongDescDecoration */
+     , (3583060416, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (3583060416, 177,          1) /* GemCount */
      , (3583060416, 178,         11) /* GemType */;
 

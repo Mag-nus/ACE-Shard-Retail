@@ -27,7 +27,7 @@ VALUES (1342795556,   1,         16) /* ItemType - Creature */
      , (1342795556, 188,          3) /* HeritageGroup - Sho */
      , (1342795556, 192,          0) /* FakeFishingSkill */
      , (1342795556, 199, 1426969639) /* HousePurchaseTimestamp */
-     , (1342795556, 261,         12) /* CharacterTitleId */
+     , (1342795556, 261,         12) /* CharacterTitleId - Swashbuckler */
      , (1342795556, 307,          0) /* DamageRating */
      , (1342795556, 308,          0) /* DamageResistRating */
      , (1342795556, 312,          0) /* HealOverTime */

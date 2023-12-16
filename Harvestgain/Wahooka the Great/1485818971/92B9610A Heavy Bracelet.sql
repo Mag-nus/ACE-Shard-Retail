@@ -20,7 +20,7 @@ VALUES (2461622538,   1,          8) /* ItemType - Jewelry */
      , (2461622538, 115,          0) /* ItemSkillLevelLimit */
      , (2461622538, 131,         38) /* MaterialType - Ruby */
      , (2461622538, 171,          3) /* NumTimesTinkered */
-     , (2461622538, 172,          7) /* AppraisalLongDescDecoration */
+     , (2461622538, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2461622538, 177,          1) /* GemCount */
      , (2461622538, 178,         38) /* GemType */
      , (2461622538, 188,          2) /* HeritageGroup - Gharundim */;

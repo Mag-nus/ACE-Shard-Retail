@@ -20,7 +20,7 @@ VALUES (3455188071,   1,          8) /* ItemType - Jewelry */
      , (3455188071, 115,          0) /* ItemSkillLevelLimit */
      , (3455188071, 131,         26) /* MaterialType - ImperialTopaz */
      , (3455188071, 171,          1) /* NumTimesTinkered */
-     , (3455188071, 172,          7) /* AppraisalLongDescDecoration */
+     , (3455188071, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3455188071, 177,          2) /* GemCount */
      , (3455188071, 178,         20) /* GemType */
      , (3455188071, 188,          3) /* HeritageGroup - Sho */;

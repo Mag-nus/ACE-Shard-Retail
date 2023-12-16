@@ -24,7 +24,7 @@ VALUES (3191894735,   1,          2) /* ItemType - Armor */
      , (3191894735, 158,          7) /* WieldRequirements - Level */
      , (3191894735, 159,          1) /* WieldSkillType - Axe */
      , (3191894735, 160,        180) /* WieldDifficulty */
-     , (3191894735, 172,          5) /* AppraisalLongDescDecoration */
+     , (3191894735, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (3191894735, 177,          7) /* GemCount */
      , (3191894735, 178,         38) /* GemType */
      , (3191894735, 265,         25) /* EquipmentSetId - Interlocking */

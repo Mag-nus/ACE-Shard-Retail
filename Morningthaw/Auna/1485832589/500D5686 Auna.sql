@@ -41,9 +41,9 @@ VALUES (1343051398,   1,         16) /* ItemType - Creature */
      , (1343051398, 237,          2) /* AugmentationFasterRegen */
      , (1343051398, 238,          5) /* AugmentationIncreasedSpellDuration */
      , (1343051398, 244,          2) /* AugmentationResistanceFire */
-     , (1343051398, 261,         71) /* CharacterTitleId */
+     , (1343051398, 261,         71) /* CharacterTitleId - HonoraryWindreave */
      , (1343051398, 262,        121) /* NumCharacterTitles */
-     , (1343051398, 281,          1) /* Faction1Bits */
+     , (1343051398, 281,          1) /* Faction1Bits - CelestialHand */
      , (1343051398, 287,       1001) /* SocietyRankCelhan */
      , (1343051398, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1343051398, 295,          1) /* AugmentationInfusedItemMagic */

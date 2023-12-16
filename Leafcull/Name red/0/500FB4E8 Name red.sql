@@ -15,7 +15,7 @@ VALUES (1343206632,   1,         16) /* ItemType - Creature */
      , (1343206632, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343206632, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343206632, 188,          7) /* HeritageGroup - Tumerok */
-     , (1343206632, 261,          1) /* CharacterTitleId */
+     , (1343206632, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343206632, 262,          7) /* NumCharacterTitles */
      , (1343206632, 307,          5) /* DamageRating */
      , (1343206632, 314,          3) /* CritDamageRating */
@@ -55,10 +55,10 @@ VALUES (1343206632,   1,   33561108) /* Setup */
      , (1343206632, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343206632, 1, 2315387305, 40.3608, -54.50122, 0.004999995, -0.9998056, 0, 0, -0.01971492) /* Location */
-/* @teleloc 0x8A0201A9 [40.360800 -54.501220 0.005000] -0.999806 0.000000 0.000000 -0.019715 */
+VALUES (1343206632, 1, 2315387305, 40.3608, -54.50122, 0.004999995, -0.9998056, 0, 0, -0.019714922) /* Location */
+/* @teleloc 0x8A0201A9 [40.360802 -54.501221 0.005000] -0.999806 0.000000 0.000000 -0.019715 */
      , (1343206632, 8040, 2315387410, 58.6391, -89.9231, 6.005, 1, 0, 0, 0) /* PCAPRecordedLocation */
-/* @teleloc 0x8A020212 [58.639100 -89.923100 6.005000] 1.000000 0.000000 0.000000 0.000000 */;
+/* @teleloc 0x8A020212 [58.639099 -89.923103 6.005000] 1.000000 0.000000 0.000000 0.000000 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343206632,  26, 1342779532) /* Monarch */

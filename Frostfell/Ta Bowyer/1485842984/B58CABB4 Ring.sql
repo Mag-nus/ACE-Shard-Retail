@@ -22,7 +22,7 @@ VALUES (3045895092,   1,          8) /* ItemType - Jewelry */
      , (3045895092, 158,          7) /* WieldRequirements - Level */
      , (3045895092, 159,          1) /* WieldSkillType - Axe */
      , (3045895092, 160,        180) /* WieldDifficulty */
-     , (3045895092, 172,          1) /* AppraisalLongDescDecoration */
+     , (3045895092, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (3045895092, 379,          3) /* GearMaxHealth */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

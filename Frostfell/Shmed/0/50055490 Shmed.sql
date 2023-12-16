@@ -17,7 +17,7 @@ VALUES (1342526608,   1,         16) /* ItemType - Creature */
      , (1342526608, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342526608, 181,       1500) /* ChessRank */
      , (1342526608, 188,          2) /* HeritageGroup - Gharundim */
-     , (1342526608, 261,        561) /* CharacterTitleId */
+     , (1342526608, 261,        561) /* CharacterTitleId - Anthropologist */
      , (1342526608, 307,          5) /* DamageRating */
      , (1342526608, 390,          0) /* Enlightenment */
      , (1342526608, 8007,          1) /* PCAPRecordedAutonomousMovement */;
@@ -55,8 +55,8 @@ VALUES (1342526608,   1,   33554433) /* Setup */
      , (1342526608, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1342526608, 1, 459056, 59.73009, -34.97118, 2.778452, -0.9079146, 0, 0, -0.4191552) /* Location */
-/* @teleloc 0x00070130 [59.730090 -34.971180 2.778452] -0.907915 0.000000 0.000000 -0.419155 */
+VALUES (1342526608, 1, 459056, 59.730095, -34.971176, 2.7784524, -0.90791464, 0, 0, -0.41915515) /* Location */
+/* @teleloc 0x00070130 [59.730095 -34.971176 2.778452] -0.907915 0.000000 0.000000 -0.419155 */
      , (1342526608, 8040, 459077, 70, -80, 0.004999995, 1, 0, 0, 0) /* PCAPRecordedLocation */
 /* @teleloc 0x00070145 [70.000000 -80.000000 0.005000] 1.000000 0.000000 0.000000 0.000000 */;
 

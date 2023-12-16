@@ -24,8 +24,8 @@ VALUES (3231346664,   1,          2) /* ItemType - Armor */
      , (3231346664, 159,          1) /* WieldSkillType - Axe */
      , (3231346664, 160,        150) /* WieldDifficulty */
      , (3231346664, 171,          7) /* NumTimesTinkered */
-     , (3231346664, 172,          7) /* AppraisalLongDescDecoration */
-     , (3231346664, 176,          6) /* AppraisalItemSkill */
+     , (3231346664, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (3231346664, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (3231346664, 177,          2) /* GemCount */
      , (3231346664, 178,         41) /* GemType */
      , (3231346664, 188,          4) /* HeritageGroup - Viamontian */;

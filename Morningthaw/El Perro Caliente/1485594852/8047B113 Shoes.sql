@@ -22,7 +22,7 @@ VALUES (2152182035,   1,          4) /* ItemType - Clothing */
      , (2152182035, 115,          0) /* ItemSkillLevelLimit */
      , (2152182035, 131,         52) /* MaterialType - Leather */
      , (2152182035, 171,          5) /* NumTimesTinkered */
-     , (2152182035, 172,          7) /* AppraisalLongDescDecoration */
+     , (2152182035, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2152182035, 177,          2) /* GemCount */
      , (2152182035, 178,         39) /* GemType */
      , (2152182035, 188,          1) /* HeritageGroup - Aluvian */;

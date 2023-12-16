@@ -19,7 +19,7 @@ VALUES (1343171717,   1, True ) /* Stuck */
      , (1343171717,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343171717,  39, 1.14999997615814) /* DefaultScale */;
+VALUES (1343171717,  39, 1.149999976158142) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343171717,   1, 'Bridge of Darkness') /* Name */;
@@ -36,8 +36,8 @@ VALUES (1343171717,   1,   33561104) /* Setup */
      , (1343171717, 8005,     104643) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343171717, 1, 459115, 85.13921, -169.518, 0.00575, -0.3328223, 0, 0, 0.9429896) /* Location */
-/* @teleloc 0x0007016B [85.139210 -169.518000 0.005750] -0.332822 0.000000 0.000000 0.942990 */
+VALUES (1343171717, 1, 459115, 85.139206, -169.518, 0.0057500005, -0.33282226, 0, 0, 0.9429896) /* Location */
+/* @teleloc 0x0007016B [85.139206 -169.518005 0.005750] -0.332822 0.000000 0.000000 0.942990 */
      , (1343171717, 8040, 459077, 70, -80, 0.005749941, 1, 0, 0, 0) /* PCAPRecordedLocation */
 /* @teleloc 0x00070145 [70.000000 -80.000000 0.005750] 1.000000 0.000000 0.000000 0.000000 */;
 

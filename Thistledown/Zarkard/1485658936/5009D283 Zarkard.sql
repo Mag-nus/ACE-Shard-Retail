@@ -25,7 +25,7 @@ VALUES (1342820995,   1,         16) /* ItemType - Creature */
      , (1342820995, 139,         54) /* DeathLevel */
      , (1342820995, 188,          3) /* HeritageGroup - Sho */
      , (1342820995, 199, 1427994583) /* HousePurchaseTimestamp */
-     , (1342820995, 261,        146) /* CharacterTitleId */
+     , (1342820995, 261,        146) /* CharacterTitleId - UnarmedBrawler */
      , (1342820995, 307,          0) /* DamageRating */
      , (1342820995, 308,          0) /* DamageResistRating */
      , (1342820995, 312,          0) /* HealOverTime */

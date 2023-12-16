@@ -13,7 +13,7 @@ VALUES (2457901176,   1,      32768) /* ItemType - Caster */
      , (2457901176, 105,          9) /* ItemWorkmanship */
      , (2457901176, 131,         26) /* MaterialType - ImperialTopaz */
      , (2457901176, 151,          2) /* HookType - Wall */
-     , (2457901176, 172,          7) /* AppraisalLongDescDecoration */
+     , (2457901176, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2457901176, 177,          4) /* GemCount */
      , (2457901176, 178,         39) /* GemType */
      , (2457901176, 9015,         16) /* InventoryOrder */;

@@ -20,7 +20,7 @@ VALUES (2976434260,   1,          1) /* ItemType - MeleeWeapon */
      , (2976434260, 131,         76) /* MaterialType - Pine */
      , (2976434260, 151,          2) /* HookType - Wall */
      , (2976434260, 171,          1) /* NumTimesTinkered */
-     , (2976434260, 172,          3) /* AppraisalLongDescDecoration */
+     , (2976434260, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2976434260, 179,          8) /* ImbuedEffect - SlashRending */
      , (2976434260, 292,          2) /* Cleaving */
      , (2976434260, 353,         11) /* WeaponType - TwoHanded */

@@ -20,7 +20,7 @@ VALUES (1344175188,   1, True ) /* Stuck */
      , (1344175188,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1344175188,  39, 0.899999976158142) /* DefaultScale */;
+VALUES (1344175188,  39, 0.8999999761581421) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1344175188,   1, 'Dwight Schrute''') /* Name */;
@@ -37,10 +37,10 @@ VALUES (1344175188,   1,   33561121) /* Setup */
      , (1344175188, 8005,     104579) /* PCAPRecordedPhysicsDesc - CSetup, MTable, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1344175188, 1, 3316121654, 167.9705, 128.8824, 42, -0.9463992, 0, 0, -0.3229992) /* Location */
-/* @teleloc 0xC5A80036 [167.970500 128.882400 42.000000] -0.946399 0.000000 0.000000 -0.322999 */
-     , (1344175188, 8040, 3872587790, 39.46547, 138.9218, 218, -0.8660254, 0, 0, -0.5000001) /* PCAPRecordedLocation */
-/* @teleloc 0xE6D3000E [39.465470 138.921800 218.000000] -0.866025 0.000000 0.000000 -0.500000 */;
+VALUES (1344175188, 1, 3316121654, 167.9705, 128.88235, 42, -0.9463992, 0, 0, -0.3229992) /* Location */
+/* @teleloc 0xC5A80036 [167.970505 128.882355 42.000000] -0.946399 0.000000 0.000000 -0.322999 */
+     , (1344175188, 8040, 3872587790, 39.465473, 138.92183, 218, -0.8660254, 0, -0, -0.50000006) /* PCAPRecordedLocation */
+/* @teleloc 0xE6D3000E [39.465473 138.921829 218.000000] -0.866025 0.000000 -0.000000 -0.500000 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1344175188, 8000, 1344175188) /* PCAPRecordedObjectIID */;

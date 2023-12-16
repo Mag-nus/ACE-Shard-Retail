@@ -23,8 +23,8 @@ VALUES (3711105427,   1,          2) /* ItemType - Armor */
      , (3711105427, 158,          7) /* WieldRequirements - Level */
      , (3711105427, 159,          1) /* WieldSkillType - Axe */
      , (3711105427, 160,        180) /* WieldDifficulty */
-     , (3711105427, 172,          3) /* AppraisalLongDescDecoration */
-     , (3711105427, 176,          7) /* AppraisalItemSkill */
+     , (3711105427, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (3711105427, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (3711105427, 188,          1) /* HeritageGroup - Aluvian */
      , (3711105427, 265,         19) /* EquipmentSetId - Hearty */
      , (3711105427, 9015,          8) /* InventoryOrder */;

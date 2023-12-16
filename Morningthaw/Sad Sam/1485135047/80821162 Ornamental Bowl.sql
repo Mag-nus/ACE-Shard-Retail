@@ -11,14 +11,14 @@ VALUES (2156007778,   1,        256) /* ItemType - MissileWeapon */
      , (2156007778,  45,          4) /* DamageType - Bludgeon */
      , (2156007778,  48,         47) /* WeaponSkill - MissileWeapons */
      , (2156007778,  49,         10) /* WeaponTime */
-     , (2156007778,  51,          2) /* CombatUse - Missle */
+     , (2156007778,  51,          2) /* CombatUse - Missile */
      , (2156007778,  65,        101) /* Placement - Resting */
      , (2156007778,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (2156007778, 105,          7) /* ItemWorkmanship */
      , (2156007778, 131,         29) /* MaterialType - LavenderJade */
      , (2156007778, 151,          2) /* HookType - Wall */
      , (2156007778, 171,          5) /* NumTimesTinkered */
-     , (2156007778, 172,          7) /* AppraisalLongDescDecoration */
+     , (2156007778, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2156007778, 177,          6) /* GemCount */
      , (2156007778, 178,         21) /* GemType */
      , (2156007778, 353,         10) /* WeaponType - Thrown */

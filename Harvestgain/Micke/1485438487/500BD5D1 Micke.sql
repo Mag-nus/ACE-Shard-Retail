@@ -31,7 +31,7 @@ VALUES (1342952913,   1,         16) /* ItemType - Creature */
      , (1342952913, 230,          1) /* AugmentationIncreasedCarryingCapacity */
      , (1342952913, 236,          1) /* AugmentationBonusImbueChance */
      , (1342952913, 238,          3) /* AugmentationIncreasedSpellDuration */
-     , (1342952913, 261,         76) /* CharacterTitleId */
+     , (1342952913, 261,         76) /* CharacterTitleId - IronChef */
      , (1342952913, 307,          5) /* DamageRating */
      , (1342952913, 308,          0) /* DamageResistRating */
      , (1342952913, 312,          0) /* HealOverTime */

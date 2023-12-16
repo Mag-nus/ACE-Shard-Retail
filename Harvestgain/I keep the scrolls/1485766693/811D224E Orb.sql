@@ -20,7 +20,7 @@ VALUES (2166170190,   1,      32768) /* ItemType - Caster */
      , (2166170190, 115,          0) /* ItemSkillLevelLimit */
      , (2166170190, 131,         67) /* MaterialType - Granite */
      , (2166170190, 151,          2) /* HookType - Wall */
-     , (2166170190, 172,          3) /* AppraisalLongDescDecoration */
+     , (2166170190, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2166170190, 188,          3) /* HeritageGroup - Sho */
      , (2166170190, 9015,         29) /* InventoryOrder */;
 

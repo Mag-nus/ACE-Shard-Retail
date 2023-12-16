@@ -14,8 +14,8 @@ VALUES (1343252258,   1,         16) /* ItemType - Creature */
      , (1343252258, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343252258, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343252258, 188,          9) /* HeritageGroup - Empyrean */
-     , (1343252258, 261,          1) /* CharacterTitleId */
-     , (1343252258, 281,          2) /* Faction1Bits */
+     , (1343252258, 261,          1) /* CharacterTitleId - Adventurer */
+     , (1343252258, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1343252258, 288,        200) /* SocietyRankEldweb */
      , (1343252258, 307,          9) /* DamageRating */
      , (1343252258, 308,          9) /* DamageResistRating */
@@ -34,7 +34,7 @@ VALUES (1343252258,   1, True ) /* Stuck */
      , (1343252258,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343252258,  39, 1.14999997615814) /* DefaultScale */;
+VALUES (1343252258,  39, 1.149999976158142) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343252258,   1, 'Syrenn') /* Name */
@@ -62,9 +62,9 @@ VALUES (1343252258,   1,   33561104) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343252258, 1, 1591279666, 161.473, 24.5782, 82.01, -1, 0, 0, -0.000929478) /* Location */
-/* @teleloc 0x5ED90032 [161.473000 24.578200 82.010000] -1.000000 0.000000 0.000000 -0.000929 */
-     , (1343252258, 8040, 1483145542, 178.8022, -120.5664, -59.99425, -0.8941301, 0, 0, -0.4478073) /* PCAPRecordedLocation */
-/* @teleloc 0x58670146 [178.802200 -120.566400 -59.994250] -0.894130 0.000000 0.000000 -0.447807 */;
+/* @teleloc 0x5ED90032 [161.473007 24.578199 82.010002] -1.000000 0.000000 0.000000 -0.000929 */
+     , (1343252258, 8040, 1483145542, 178.80225, -120.5664, -59.99425, -0.8941301, 0, -0, -0.4478073) /* PCAPRecordedLocation */
+/* @teleloc 0x58670146 [178.802246 -120.566399 -59.994251] -0.894130 0.000000 -0.000000 -0.447807 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343252258,  26, 1342499688) /* Monarch */

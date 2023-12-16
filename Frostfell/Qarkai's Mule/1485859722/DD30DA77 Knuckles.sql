@@ -28,8 +28,8 @@ VALUES (3710966391,   1,          1) /* ItemType - MeleeWeapon */
      , (3710966391, 158,          2) /* WieldRequirements - RawSkill */
      , (3710966391, 159,         45) /* WieldSkillType - LightWeapons */
      , (3710966391, 160,        400) /* WieldDifficulty */
-     , (3710966391, 172,          7) /* AppraisalLongDescDecoration */
-     , (3710966391, 176,         45) /* AppraisalItemSkill */
+     , (3710966391, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (3710966391, 176,         45) /* AppraisalItemSkill - LightWeapons */
      , (3710966391, 177,          2) /* GemCount */
      , (3710966391, 178,         49) /* GemType */
      , (3710966391, 188,          4) /* HeritageGroup - Viamontian */

@@ -24,7 +24,7 @@ VALUES (2619991060,   1,          4) /* ItemType - Clothing */
      , (2619991060, 159,          1) /* WieldSkillType - Axe */
      , (2619991060, 160,        150) /* WieldDifficulty */
      , (2619991060, 171,          1) /* NumTimesTinkered */
-     , (2619991060, 172,          3) /* AppraisalLongDescDecoration */
+     , (2619991060, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2619991060, 188,          2) /* HeritageGroup - Gharundim */
      , (2619991060, 9015,         69) /* InventoryOrder */;
 

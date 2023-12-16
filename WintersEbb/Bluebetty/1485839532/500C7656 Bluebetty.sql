@@ -20,7 +20,7 @@ VALUES (1342994006,   1,         16) /* ItemType - Creature */
      , (1342994006, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342994006, 188,          4) /* HeritageGroup - Viamontian */
      , (1342994006, 199, 1461210587) /* HousePurchaseTimestamp */
-     , (1342994006, 261,         13) /* CharacterTitleId */
+     , (1342994006, 261,         13) /* CharacterTitleId - WarMage */
      , (1342994006, 307,          0) /* DamageRating */
      , (1342994006, 308,          0) /* DamageResistRating */
      , (1342994006, 312,          0) /* HealOverTime */

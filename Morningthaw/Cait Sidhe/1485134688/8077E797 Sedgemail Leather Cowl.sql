@@ -14,7 +14,7 @@ VALUES (2155341719,   1,          2) /* ItemType - Armor */
      , (2155341719, 105,          7) /* ItemWorkmanship */
      , (2155341719, 131,         54) /* MaterialType - GromnieHide */
      , (2155341719, 151,          2) /* HookType - Wall */
-     , (2155341719, 172,          1) /* AppraisalLongDescDecoration */
+     , (2155341719, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (2155341719, 9015,          7) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

@@ -19,7 +19,7 @@ VALUES (1343251118,   1, True ) /* Stuck */
      , (1343251118,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343251118,  39, 1.29999995231628) /* DefaultScale */;
+VALUES (1343251118,  39, 1.2999999523162842) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343251118,   1, 'Snorri Bodad') /* Name */;
@@ -39,7 +39,7 @@ INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell
 VALUES (1343251118, 1, 459075, 70, -60, 0.01, 1, 0, 0, -1) /* Location */
 /* @teleloc 0x00070143 [70.000000 -60.000000 0.010000] 1.000000 0.000000 0.000000 -1.000000 */
      , (1343251118, 8040, 3332964380, 78.31674, 80.99873, 42.0065, 0.9141145, 0, 0, -0.4054562) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001C [78.316740 80.998730 42.006500] 0.914115 0.000000 0.000000 -0.405456 */;
+/* @teleloc 0xC6A9001C [78.316742 80.998734 42.006500] 0.914114 0.000000 0.000000 -0.405456 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343251118,  26, 1343251013) /* Monarch */

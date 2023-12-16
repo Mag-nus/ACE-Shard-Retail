@@ -29,8 +29,8 @@ VALUES (2561707484,   1,          1) /* ItemType - MeleeWeapon */
      , (2561707484, 159,         41) /* WieldSkillType - TwoHandedCombat */
      , (2561707484, 160,        300) /* WieldDifficulty */
      , (2561707484, 171,          1) /* NumTimesTinkered */
-     , (2561707484, 172,          1) /* AppraisalLongDescDecoration */
-     , (2561707484, 176,         41) /* AppraisalItemSkill */
+     , (2561707484, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (2561707484, 176,         41) /* AppraisalItemSkill - TwoHandedCombat */
      , (2561707484, 179,         32) /* ImbuedEffect - BludgeonRending */
      , (2561707484, 292,          2) /* Cleaving */
      , (2561707484, 353,         11) /* WeaponType - TwoHanded */

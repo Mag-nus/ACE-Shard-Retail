@@ -25,7 +25,7 @@ VALUES (1343267365,   1,         16) /* ItemType - Creature */
      , (1343267365, 188,          3) /* HeritageGroup - Sho */
      , (1343267365, 199, 1463350874) /* HousePurchaseTimestamp */
      , (1343267365, 219,          1) /* AugmentationInnateEndurance */
-     , (1343267365, 261,          1) /* CharacterTitleId */
+     , (1343267365, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343267365, 307,          5) /* DamageRating */
      , (1343267365, 308,          0) /* DamageResistRating */
      , (1343267365, 312,          0) /* HealOverTime */

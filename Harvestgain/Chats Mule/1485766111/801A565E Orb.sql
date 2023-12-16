@@ -20,7 +20,7 @@ VALUES (2149209694,   1,      32768) /* ItemType - Caster */
      , (2149209694, 115,          0) /* ItemSkillLevelLimit */
      , (2149209694, 131,         63) /* MaterialType - Silver */
      , (2149209694, 151,          2) /* HookType - Wall */
-     , (2149209694, 172,          7) /* AppraisalLongDescDecoration */
+     , (2149209694, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2149209694, 177,          7) /* GemCount */
      , (2149209694, 178,         38) /* GemType */
      , (2149209694, 9015,          9) /* InventoryOrder */;

@@ -27,7 +27,7 @@ VALUES (1342997067,   1,         16) /* ItemType - Creature */
      , (1342997067, 199, 1478292396) /* HousePurchaseTimestamp */
      , (1342997067, 231,          2) /* AugmentationLessDeathItemLoss */
      , (1342997067, 232,          1) /* AugmentationSpellsRemainPastDeath */
-     , (1342997067, 261,        646) /* CharacterTitleId */
+     , (1342997067, 261,        646) /* CharacterTitleId - DerethsElite */
      , (1342997067, 307,          0) /* DamageRating */
      , (1342997067, 308,          0) /* DamageResistRating */
      , (1342997067, 312,          0) /* HealOverTime */

@@ -21,8 +21,8 @@ VALUES (2158096699,   1,          2) /* ItemType - Armor */
      , (2158096699, 115,        215) /* ItemSkillLevelLimit */
      , (2158096699, 131,         57) /* MaterialType - Brass */
      , (2158096699, 171,          3) /* NumTimesTinkered */
-     , (2158096699, 172,          3) /* AppraisalLongDescDecoration */
-     , (2158096699, 176,          6) /* AppraisalItemSkill */
+     , (2158096699, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (2158096699, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (2158096699, 188,          1) /* HeritageGroup - Aluvian */
      , (2158096699, 9015,          1) /* InventoryOrder */;
 

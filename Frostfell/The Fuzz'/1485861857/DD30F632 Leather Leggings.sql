@@ -23,7 +23,7 @@ VALUES (3710973490,   1,          2) /* ItemType - Armor */
      , (3710973490, 158,          7) /* WieldRequirements - Level */
      , (3710973490, 159,          1) /* WieldSkillType - Axe */
      , (3710973490, 160,        150) /* WieldDifficulty */
-     , (3710973490, 172,          1) /* AppraisalLongDescDecoration */
+     , (3710973490, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (3710973490, 265,         23) /* EquipmentSetId - Hardened */
      , (3710973490, 9015,         16) /* InventoryOrder */;
 

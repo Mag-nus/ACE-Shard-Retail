@@ -27,8 +27,8 @@ VALUES (1343402794,   1,         16) /* ItemType - Creature */
      , (1343402794, 231,          2) /* AugmentationLessDeathItemLoss */
      , (1343402794, 232,          1) /* AugmentationSpellsRemainPastDeath */
      , (1343402794, 233,          1) /* AugmentationCriticalDefense */
-     , (1343402794, 261,         61) /* CharacterTitleId */
-     , (1343402794, 281,          4) /* Faction1Bits */
+     , (1343402794, 261,         61) /* CharacterTitleId - GoldenGod */
+     , (1343402794, 281,          4) /* Faction1Bits - RadiantBlood */
      , (1343402794, 289,         90) /* SocietyRankRadblo */
      , (1343402794, 298,          1) /* AugmentationCriticalExpertise */
      , (1343402794, 301,          1) /* AugmentationSkilledMissile */

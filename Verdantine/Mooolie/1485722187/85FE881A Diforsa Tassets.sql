@@ -22,7 +22,7 @@ VALUES (2248050714,   1,          2) /* ItemType - Armor */
      , (2248050714, 158,          7) /* WieldRequirements - Level */
      , (2248050714, 159,          1) /* WieldSkillType - Axe */
      , (2248050714, 160,        180) /* WieldDifficulty */
-     , (2248050714, 172,          1) /* AppraisalLongDescDecoration */
+     , (2248050714, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (2248050714, 265,         26) /* EquipmentSetId - Flameproof */
      , (2248050714, 9015,         31) /* InventoryOrder */;
 

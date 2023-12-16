@@ -21,7 +21,7 @@ VALUES (2438176838,   1,      32768) /* ItemType - Caster */
      , (2438176838, 131,         61) /* MaterialType - Iron */
      , (2438176838, 151,          2) /* HookType - Wall */
      , (2438176838, 171,          9) /* NumTimesTinkered */
-     , (2438176838, 172,          7) /* AppraisalLongDescDecoration */
+     , (2438176838, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2438176838, 177,          2) /* GemCount */
      , (2438176838, 178,         49) /* GemType */
      , (2438176838, 179,          8) /* ImbuedEffect - SlashRending */

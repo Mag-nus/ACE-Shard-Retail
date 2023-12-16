@@ -22,7 +22,7 @@ VALUES (2188954823,   1,      32768) /* ItemType - Caster */
      , (2188954823, 159,         34) /* WieldSkillType - WarMagic */
      , (2188954823, 160,        355) /* WieldDifficulty */
      , (2188954823, 166,          1) /* SlayerCreatureType - Olthoi */
-     , (2188954823, 263,          2) /* ResistanceModifierType */
+     , (2188954823, 263,          2) /* ResistanceModifierType - Pierce */
      , (2188954823, 9015,         18) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

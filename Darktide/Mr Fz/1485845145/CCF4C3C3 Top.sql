@@ -20,7 +20,7 @@ VALUES (3438592963,   1,          8) /* ItemType - Jewelry */
      , (3438592963, 115,          0) /* ItemSkillLevelLimit */
      , (3438592963, 131,         51) /* MaterialType - Ivory */
      , (3438592963, 171,          3) /* NumTimesTinkered */
-     , (3438592963, 172,          5) /* AppraisalLongDescDecoration */
+     , (3438592963, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (3438592963, 177,          2) /* GemCount */
      , (3438592963, 178,         15) /* GemType */
      , (3438592963, 179,       8192) /* ImbuedEffect - Spellbook */

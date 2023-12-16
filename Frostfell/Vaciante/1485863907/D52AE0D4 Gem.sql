@@ -20,7 +20,7 @@ VALUES (3576357076,   1,       2048) /* ItemType - Gem */
      , (3576357076, 115,          0) /* ItemSkillLevelLimit */
      , (3576357076, 117,        200) /* ItemManaCost */
      , (3576357076, 131,         46) /* MaterialType - WhiteQuartz */
-     , (3576357076, 172,          1) /* AppraisalLongDescDecoration */
+     , (3576357076, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (3576357076, 9015,          5) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

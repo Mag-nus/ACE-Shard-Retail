@@ -37,8 +37,8 @@ VALUES (1343003682,   1,         16) /* ItemType - Creature */
      , (1343003682, 238,          5) /* AugmentationIncreasedSpellDuration */
      , (1343003682, 243,          1) /* AugmentationResistanceAcid */
      , (1343003682, 244,          1) /* AugmentationResistanceFire */
-     , (1343003682, 261,        850) /* CharacterTitleId */
-     , (1343003682, 281,          2) /* Faction1Bits */
+     , (1343003682, 261,        850) /* CharacterTitleId - PumpkinLord */
+     , (1343003682, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1343003682, 288,          1) /* SocietyRankEldweb */
      , (1343003682, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1343003682, 295,          1) /* AugmentationInfusedItemMagic */

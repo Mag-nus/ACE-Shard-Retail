@@ -9,7 +9,7 @@ VALUES (3351894904,   1,        256) /* ItemType - MissileWeapon */
      , (3351894904,  18,        512) /* UiEffects - Bludgeoning */
      , (3351894904,  19,      15922) /* Value */
      , (3351894904,  50,          4) /* AmmoType - Atlatl */
-     , (3351894904,  51,          2) /* CombatUse - Missle */
+     , (3351894904,  51,          2) /* CombatUse - Missile */
      , (3351894904,  65,        101) /* Placement - Resting */
      , (3351894904,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3351894904, 131,         21) /* MaterialType - Emerald */

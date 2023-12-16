@@ -19,7 +19,7 @@ VALUES (1343493905,   1, True ) /* Stuck */
      , (1343493905,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343493905,  39, 1.29999995231628) /* DefaultScale */;
+VALUES (1343493905,  39, 1.2999999523162842) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343493905,   1, 'Salty mule IV') /* Name */;
@@ -36,8 +36,8 @@ VALUES (1343493905,   1,   33561112) /* Setup */
      , (1343493905, 8005,     104579) /* PCAPRecordedPhysicsDesc - CSetup, MTable, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343493905, 8040, 3332964388, 98.04311, 93.45203, 42.0065, 0.4597047, 0, 0, -0.8880718) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A90024 [98.043110 93.452030 42.006500] 0.459705 0.000000 0.000000 -0.888072 */;
+VALUES (1343493905, 8040, 3332964388, 98.04311, 93.452034, 42.0065, 0.4597047, 0, 0, -0.88807184) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A90024 [98.043114 93.452034 42.006500] 0.459705 0.000000 0.000000 -0.888072 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343493905, 8000, 1343493905) /* PCAPRecordedObjectIID */;

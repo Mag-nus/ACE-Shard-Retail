@@ -23,7 +23,7 @@ VALUES (2463213241,   1,          4) /* ItemType - Clothing */
      , (2463213241, 158,          7) /* WieldRequirements - Level */
      , (2463213241, 159,          1) /* WieldSkillType - Axe */
      , (2463213241, 160,        180) /* WieldDifficulty */
-     , (2463213241, 172,          5) /* AppraisalLongDescDecoration */
+     , (2463213241, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2463213241, 177,          2) /* GemCount */
      , (2463213241, 178,         16) /* GemType */
      , (2463213241, 265,         27) /* EquipmentSetId - Acidproof */

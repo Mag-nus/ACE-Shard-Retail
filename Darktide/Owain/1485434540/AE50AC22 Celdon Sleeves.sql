@@ -25,8 +25,8 @@ VALUES (2924522530,   1,          2) /* ItemType - Armor */
      , (2924522530, 159,          1) /* WieldSkillType - Axe */
      , (2924522530, 160,        180) /* WieldDifficulty */
      , (2924522530, 171,         10) /* NumTimesTinkered */
-     , (2924522530, 172,          5) /* AppraisalLongDescDecoration */
-     , (2924522530, 176,          6) /* AppraisalItemSkill */
+     , (2924522530, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
+     , (2924522530, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (2924522530, 177,          4) /* GemCount */
      , (2924522530, 178,         21) /* GemType */
      , (2924522530, 265,         20) /* EquipmentSetId - Dexterous */;

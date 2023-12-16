@@ -20,8 +20,8 @@ VALUES (2165803963,   1,          2) /* ItemType - Armor */
      , (2165803963, 110,          0) /* ItemAllegianceRankLimit */
      , (2165803963, 115,        225) /* ItemSkillLevelLimit */
      , (2165803963, 131,          6) /* MaterialType - Silk */
-     , (2165803963, 172,          3) /* AppraisalLongDescDecoration */
-     , (2165803963, 176,          7) /* AppraisalItemSkill */
+     , (2165803963, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (2165803963, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (2165803963, 188,          3) /* HeritageGroup - Sho */
      , (2165803963, 9015,         10) /* InventoryOrder */;
 

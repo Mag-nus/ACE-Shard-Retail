@@ -24,7 +24,7 @@ VALUES (1342993488,   1,         16) /* ItemType - Creature */
      , (1342993488, 139,        106) /* DeathLevel */
      , (1342993488, 188,          1) /* HeritageGroup - Aluvian */
      , (1342993488, 199, 1211107428) /* HousePurchaseTimestamp */
-     , (1342993488, 261,         15) /* CharacterTitleId */
+     , (1342993488, 261,         15) /* CharacterTitleId - AbhorrentWarrior */
      , (1342993488, 307,          0) /* DamageRating */
      , (1342993488, 308,          0) /* DamageResistRating */
      , (1342993488, 312,          0) /* HealOverTime */

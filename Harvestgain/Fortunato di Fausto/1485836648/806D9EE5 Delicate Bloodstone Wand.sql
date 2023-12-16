@@ -21,7 +21,7 @@ VALUES (2154667749,   1,      32768) /* ItemType - Caster */
      , (2154667749, 158,          8) /* WieldRequirements - Training */
      , (2154667749, 159,         33) /* WieldSkillType - LifeMagic */
      , (2154667749, 160,          3) /* WieldDifficulty */
-     , (2154667749, 263,         32) /* ResistanceModifierType */
+     , (2154667749, 263,         32) /* ResistanceModifierType - Acid */
      , (2154667749, 270,          2) /* WieldRequirements2 - RawSkill */
      , (2154667749, 271,         33) /* WieldSkillType2 - LifeMagic */
      , (2154667749, 272,        355) /* WieldDifficulty2 */

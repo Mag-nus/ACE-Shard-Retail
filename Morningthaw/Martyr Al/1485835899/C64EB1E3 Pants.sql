@@ -20,7 +20,7 @@ VALUES (3327046115,   1,          4) /* ItemType - Clothing */
      , (3327046115, 110,          0) /* ItemAllegianceRankLimit */
      , (3327046115, 115,          0) /* ItemSkillLevelLimit */
      , (3327046115, 131,          7) /* MaterialType - Velvet */
-     , (3327046115, 172,          3) /* AppraisalLongDescDecoration */
+     , (3327046115, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (3327046115, 188,          4) /* HeritageGroup - Viamontian */
      , (3327046115, 9015,         16) /* InventoryOrder */;
 

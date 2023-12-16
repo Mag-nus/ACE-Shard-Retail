@@ -14,7 +14,7 @@ VALUES (3629469831,   1,        256) /* ItemType - MissileWeapon */
      , (3629469831,  48,         47) /* WeaponSkill - MissileWeapons */
      , (3629469831,  49,         30) /* WeaponTime */
      , (3629469831,  50,         64) /* AmmoType - ArrowChorizite */
-     , (3629469831,  51,          2) /* CombatUse - Missle */
+     , (3629469831,  51,          2) /* CombatUse - Missile */
      , (3629469831,  65,        101) /* Placement - Resting */
      , (3629469831,  93,       3092) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, LightingOn */
      , (3629469831, 114,          1) /* Attuned - Attuned */

@@ -25,7 +25,7 @@ VALUES (2148384223,   1,          2) /* ItemType - Armor */
      , (2148384223, 159,          1) /* WieldSkillType - Axe */
      , (2148384223, 160,        180) /* WieldDifficulty */
      , (2148384223, 171,         10) /* NumTimesTinkered */
-     , (2148384223, 172,          5) /* AppraisalLongDescDecoration */
+     , (2148384223, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2148384223, 177,          2) /* GemCount */
      , (2148384223, 178,         26) /* GemType */
      , (2148384223, 265,         20) /* EquipmentSetId - Dexterous */

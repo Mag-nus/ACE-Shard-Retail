@@ -14,7 +14,7 @@ VALUES (1342709282,   1,         16) /* ItemType - Creature */
      , (1342709282, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342709282, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342709282, 188,          1) /* HeritageGroup - Aluvian */
-     , (1342709282, 261,         66) /* CharacterTitleId */
+     , (1342709282, 261,         66) /* CharacterTitleId - HeartRipper */
      , (1342709282, 390,          0) /* Enlightenment */
      , (1342709282, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
@@ -52,8 +52,8 @@ VALUES (1342709282,   1,   33554510) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1342709282, 1, 2847146009, 84, 7.1, 94, 0.9969173, 0, 0, -0.0784591) /* Location */
 /* @teleloc 0xA9B40019 [84.000000 7.100000 94.000000] 0.996917 0.000000 0.000000 -0.078459 */
-     , (1342709282, 8040, 19202321, 39.49335, -18.87288, 0.5174974, -0.9424233, 0, 0, -0.3344225) /* PCAPRecordedLocation */
-/* @teleloc 0x01250111 [39.493350 -18.872880 0.517497] -0.942423 0.000000 0.000000 -0.334423 */;
+     , (1342709282, 8040, 19202321, 39.493347, -18.872875, 0.51749736, -0.9424233, 0, -0, -0.33442247) /* PCAPRecordedLocation */
+/* @teleloc 0x01250111 [39.493347 -18.872875 0.517497] -0.942423 0.000000 -0.000000 -0.334422 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342709282,  26, 1342556710) /* Monarch */

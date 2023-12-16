@@ -30,8 +30,8 @@ VALUES (1343091543,   1,         16) /* ItemType - Creature */
      , (1343091543, 233,          1) /* AugmentationCriticalDefense */
      , (1343091543, 238,          5) /* AugmentationIncreasedSpellDuration */
      , (1343091543, 244,          2) /* AugmentationResistanceFire */
-     , (1343091543, 261,        783) /* CharacterTitleId */
-     , (1343091543, 281,          1) /* Faction1Bits */
+     , (1343091543, 261,        783) /* CharacterTitleId - StoneColdKiller */
+     , (1343091543, 281,          1) /* Faction1Bits - CelestialHand */
      , (1343091543, 287,       1001) /* SocietyRankCelhan */
      , (1343091543, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1343091543, 295,          1) /* AugmentationInfusedItemMagic */

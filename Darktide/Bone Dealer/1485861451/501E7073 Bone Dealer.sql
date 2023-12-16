@@ -26,7 +26,7 @@ VALUES (1344172147,   1,         16) /* ItemType - Creature */
      , (1344172147, 199, 1402011270) /* HousePurchaseTimestamp */
      , (1344172147, 233,          1) /* AugmentationCriticalDefense */
      , (1344172147, 234,          1) /* AugmentationBonusXp */
-     , (1344172147, 261,          1) /* CharacterTitleId */
+     , (1344172147, 261,          1) /* CharacterTitleId - Adventurer */
      , (1344172147, 302,          1) /* AugmentationSkilledMagic */
      , (1344172147, 307,          5) /* DamageRating */
      , (1344172147, 308,          0) /* DamageResistRating */

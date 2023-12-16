@@ -18,7 +18,7 @@ VALUES (2368837983,   1,          8) /* ItemType - Jewelry */
      , (2368837983, 110,          0) /* ItemAllegianceRankLimit */
      , (2368837983, 115,          0) /* ItemSkillLevelLimit */
      , (2368837983, 131,         20) /* MaterialType - Diamond */
-     , (2368837983, 172,          7) /* AppraisalLongDescDecoration */
+     , (2368837983, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2368837983, 177,          1) /* GemCount */
      , (2368837983, 178,         21) /* GemType */
      , (2368837983, 9015,         21) /* InventoryOrder */;

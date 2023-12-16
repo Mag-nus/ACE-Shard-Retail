@@ -9,7 +9,7 @@ VALUES (2619674023,   1,       2048) /* ItemType - Gem */
      , (2619674023,  16,          1) /* ItemUseable - No */
      , (2619674023,  65,        101) /* Placement - Resting */
      , (2619674023,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
-     , (2619674023, 9015,         28) /* InventoryOrder */;
+     , (2619674023, 9015,         40) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (2619674023,   1, False) /* Stuck */

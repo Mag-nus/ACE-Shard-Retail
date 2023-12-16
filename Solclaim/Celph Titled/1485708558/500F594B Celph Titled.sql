@@ -18,7 +18,7 @@ VALUES (1343183179,   1,         16) /* ItemType - Creature */
      , (1343183179, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343183179, 188,          4) /* HeritageGroup - Viamontian */
      , (1343183179, 199, 1478550737) /* HousePurchaseTimestamp */
-     , (1343183179, 261,         14) /* CharacterTitleId */
+     , (1343183179, 261,         14) /* CharacterTitleId - Wayfarer */
      , (1343183179, 307,          0) /* DamageRating */
      , (1343183179, 308,          0) /* DamageResistRating */
      , (1343183179, 312,          0) /* HealOverTime */

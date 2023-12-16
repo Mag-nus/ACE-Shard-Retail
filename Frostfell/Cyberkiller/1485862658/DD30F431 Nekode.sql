@@ -25,7 +25,7 @@ VALUES (3710972977,   1,          1) /* ItemType - MeleeWeapon */
      , (3710972977, 115,        123) /* ItemSkillLevelLimit */
      , (3710972977, 131,         24) /* MaterialType - GreenJade */
      , (3710972977, 151,          2) /* HookType - Wall */
-     , (3710972977, 176,         45) /* AppraisalItemSkill */
+     , (3710972977, 176,         45) /* AppraisalItemSkill - LightWeapons */
      , (3710972977, 353,          1) /* WeaponType - Unarmed */
      , (3710972977, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (3710972977, 9015,         16) /* InventoryOrder */;

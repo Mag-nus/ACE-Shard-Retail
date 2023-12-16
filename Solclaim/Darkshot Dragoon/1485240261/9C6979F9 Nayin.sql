@@ -9,7 +9,7 @@ VALUES (2624158201,   1,        256) /* ItemType - MissileWeapon */
      , (2624158201,  18,          1) /* UiEffects - Magical */
      , (2624158201,  19,       9701) /* Value */
      , (2624158201,  50,          1) /* AmmoType - Arrow */
-     , (2624158201,  51,          2) /* CombatUse - Missle */
+     , (2624158201,  51,          2) /* CombatUse - Missile */
      , (2624158201,  65,        101) /* Placement - Resting */
      , (2624158201,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2624158201, 131,         77) /* MaterialType - Teak */

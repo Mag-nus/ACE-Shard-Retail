@@ -22,7 +22,7 @@ VALUES (3231350439,   1,          2) /* ItemType - Armor */
      , (3231350439, 131,         58) /* MaterialType - Bronze */
      , (3231350439, 151,          2) /* HookType - Wall */
      , (3231350439, 171,         10) /* NumTimesTinkered */
-     , (3231350439, 172,          7) /* AppraisalLongDescDecoration */
+     , (3231350439, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3231350439, 177,          1) /* GemCount */
      , (3231350439, 178,         35) /* GemType */
      , (3231350439, 188,          2) /* HeritageGroup - Gharundim */

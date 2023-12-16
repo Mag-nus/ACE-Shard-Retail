@@ -15,7 +15,7 @@ VALUES (3575776028,   1,    4194304) /* ItemType - CraftCookingBase */
      , (3575776028, 115,          0) /* ItemSkillLevelLimit */
      , (3575776028, 131,          1) /* MaterialType - Ceramic */
      , (3575776028, 151,          1) /* HookType - Floor */
-     , (3575776028, 172,          1) /* AppraisalLongDescDecoration */
+     , (3575776028, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (3575776028, 9015,          7) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

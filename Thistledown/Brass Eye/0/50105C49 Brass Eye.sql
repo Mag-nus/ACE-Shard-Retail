@@ -13,7 +13,7 @@ VALUES (1343249481,   1,         16) /* ItemType - Creature */
      , (1343249481, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343249481, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343249481, 188,          2) /* HeritageGroup - Gharundim */
-     , (1343249481, 261,        112) /* CharacterTitleId */
+     , (1343249481, 261,        112) /* CharacterTitleId - RedFury */
      , (1343249481, 307,          5) /* DamageRating */
      , (1343249481, 314,          1) /* CritDamageRating */
      , (1343249481, 390,          0) /* Enlightenment */
@@ -49,9 +49,9 @@ VALUES (1343249481,   1,   33554433) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343249481, 1, 3332964379, 80.1034, 65.27443, 42.005, -0.07084835, 0, 0, -0.9974871) /* Location */
-/* @teleloc 0xC6A9001B [80.103400 65.274430 42.005000] -0.070848 0.000000 0.000000 -0.997487 */
-     , (1343249481, 8040, 3332964361, 46.805, 4.219, 42.005, 1, 0, 0, 0) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A90009 [46.805000 4.219000 42.005000] 1.000000 0.000000 0.000000 0.000000 */;
+/* @teleloc 0xC6A9001B [80.103401 65.274429 42.005001] -0.070848 0.000000 0.000000 -0.997487 */
+     , (1343249481, 8040, 3332964361, 46.805, 4.219, 42.005, 1, 0, 0, -0) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A90009 [46.805000 4.219000 42.005001] 1.000000 0.000000 0.000000 -0.000000 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343249481, 8000, 1343249481) /* PCAPRecordedObjectIID */;

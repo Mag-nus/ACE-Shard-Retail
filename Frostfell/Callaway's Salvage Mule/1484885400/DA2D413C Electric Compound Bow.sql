@@ -9,7 +9,7 @@ VALUES (3660398908,   1,        256) /* ItemType - MissileWeapon */
      , (3660398908,  18,         65) /* UiEffects - Magical, Lightning */
      , (3660398908,  19,       5630) /* Value */
      , (3660398908,  50,          1) /* AmmoType - Arrow */
-     , (3660398908,  51,          2) /* CombatUse - Missle */
+     , (3660398908,  51,          2) /* CombatUse - Missile */
      , (3660398908,  65,        101) /* Placement - Resting */
      , (3660398908,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3660398908, 131,         58) /* MaterialType - Bronze */

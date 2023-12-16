@@ -26,7 +26,7 @@ VALUES (3707733890,   1,          1) /* ItemType - MeleeWeapon */
      , (3707733890, 159,         41) /* WieldSkillType - TwoHandedCombat */
      , (3707733890, 160,        400) /* WieldDifficulty */
      , (3707733890, 166,         14) /* SlayerCreatureType - Undead */
-     , (3707733890, 263,         16) /* ResistanceModifierType */
+     , (3707733890, 263,         16) /* ResistanceModifierType - Fire */
      , (3707733890, 292,          2) /* Cleaving */
      , (3707733890, 353,         11) /* WeaponType - TwoHanded */
      , (3707733890, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */

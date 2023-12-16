@@ -34,8 +34,8 @@ VALUES (1342596079,   1,         16) /* ItemType - Creature */
      , (1342596079, 235,          2) /* AugmentationBonusSalvage */
      , (1342596079, 236,          1) /* AugmentationBonusImbueChance */
      , (1342596079, 238,          1) /* AugmentationIncreasedSpellDuration */
-     , (1342596079, 261,         90) /* CharacterTitleId */
-     , (1342596079, 281,          1) /* Faction1Bits */
+     , (1342596079, 261,         90) /* CharacterTitleId - MasterofSlaughter */
+     , (1342596079, 281,          1) /* Faction1Bits - CelestialHand */
      , (1342596079, 287,       1001) /* SocietyRankCelhan */
      , (1342596079, 298,          1) /* AugmentationCriticalExpertise */
      , (1342596079, 299,          1) /* AugmentationCriticalPower */

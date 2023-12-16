@@ -14,7 +14,7 @@ VALUES (1343192777,   1,         16) /* ItemType - Creature */
      , (1343192777, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343192777, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343192777, 188,          7) /* HeritageGroup - Tumerok */
-     , (1343192777, 261,          1) /* CharacterTitleId */
+     , (1343192777, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343192777, 314,          3) /* CritDamageRating */
      , (1343192777, 390,          0) /* Enlightenment */
      , (1343192777, 8007,          1) /* PCAPRecordedAutonomousMovement */;
@@ -28,7 +28,7 @@ VALUES (1343192777,   1, True ) /* Stuck */
      , (1343192777,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343192777,  39, 1.10000002384186) /* DefaultScale */;
+VALUES (1343192777,  39, 1.100000023841858) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343192777,   1, 'Simply Salvage') /* Name */
@@ -54,8 +54,8 @@ VALUES (1343192777,   1,   33561114) /* Setup */
      , (1343192777, 8005,     104579) /* PCAPRecordedPhysicsDesc - CSetup, MTable, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343192777, 8040, 23855548, 54.16425, -32.76314, 0.005500019, 0.2014109, 0, 0, -0.9795069) /* PCAPRecordedLocation */
-/* @teleloc 0x016C01BC [54.164250 -32.763140 0.005500] 0.201411 0.000000 0.000000 -0.979507 */;
+VALUES (1343192777, 8040, 23855548, 54.164246, -32.76314, 0.0055000186, 0.20141086, 0, 0, -0.97950685) /* PCAPRecordedLocation */
+/* @teleloc 0x016C01BC [54.164246 -32.763142 0.005500] 0.201411 0.000000 0.000000 -0.979507 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343192777,  26, 1343177811) /* Monarch */

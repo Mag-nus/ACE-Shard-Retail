@@ -25,7 +25,7 @@ VALUES (3710973038,   1,          1) /* ItemType - MeleeWeapon */
      , (3710973038, 115,        120) /* ItemSkillLevelLimit */
      , (3710973038, 131,         63) /* MaterialType - Silver */
      , (3710973038, 151,          2) /* HookType - Wall */
-     , (3710973038, 176,         44) /* AppraisalItemSkill */
+     , (3710973038, 176,         44) /* AppraisalItemSkill - HeavyWeapons */
      , (3710973038, 353,          2) /* WeaponType - Sword */
      , (3710973038, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (3710973038, 9015,         75) /* InventoryOrder */;

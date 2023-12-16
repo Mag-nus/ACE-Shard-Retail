@@ -29,9 +29,9 @@ VALUES (1342938221,   1,         16) /* ItemType - Creature */
      , (1342938221, 192,          9) /* FakeFishingSkill */
      , (1342938221, 199, 1217068930) /* HousePurchaseTimestamp */
      , (1342938221, 232,          1) /* AugmentationSpellsRemainPastDeath */
-     , (1342938221, 261,         21) /* CharacterTitleId */
+     , (1342938221, 261,         21) /* CharacterTitleId - Artifex */
      , (1342938221, 262,         48) /* NumCharacterTitles */
-     , (1342938221, 281,          1) /* Faction1Bits */
+     , (1342938221, 281,          1) /* Faction1Bits - CelestialHand */
      , (1342938221, 287,          1) /* SocietyRankCelhan */
      , (1342938221, 302,          1) /* AugmentationSkilledMagic */
      , (1342938221, 307,          5) /* DamageRating */

@@ -25,7 +25,7 @@ VALUES (2917029857,   1,          1) /* ItemType - MeleeWeapon */
      , (2917029857, 115,        163) /* ItemSkillLevelLimit */
      , (2917029857, 131,         63) /* MaterialType - Silver */
      , (2917029857, 151,          2) /* HookType - Wall */
-     , (2917029857, 176,         44) /* AppraisalItemSkill */
+     , (2917029857, 176,         44) /* AppraisalItemSkill - HeavyWeapons */
      , (2917029857, 353,          2) /* WeaponType - Sword */
      , (2917029857, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (2917029857, 9015,         84) /* InventoryOrder */;
@@ -41,7 +41,7 @@ VALUES (2917029857,   1, False) /* Stuck */
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2917029857,   5, -0.0416666679084301) /* ManaRate */
      , (2917029857,  21,       0) /* WeaponLength */
-     , (2917029857,  22, 0.587497115135193) /* DamageVariance */
+     , (2917029857,  22, 0.5874971151351929) /* DamageVariance */
      , (2917029857,  26,       0) /* MaximumVelocity */
      , (2917029857,  29,       1) /* WeaponDefense */
      , (2917029857,  62,       1) /* WeaponOffense */

@@ -28,8 +28,8 @@ VALUES (2156007784,   1,          1) /* ItemType - MeleeWeapon */
      , (2156007784, 158,          2) /* WieldRequirements - RawSkill */
      , (2156007784, 159,         45) /* WieldSkillType - LightWeapons */
      , (2156007784, 160,        325) /* WieldDifficulty */
-     , (2156007784, 172,          3) /* AppraisalLongDescDecoration */
-     , (2156007784, 176,         45) /* AppraisalItemSkill */
+     , (2156007784, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (2156007784, 176,         45) /* AppraisalItemSkill - LightWeapons */
      , (2156007784, 353,          5) /* WeaponType - Spear */
      , (2156007784, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (2156007784, 9015,         25) /* InventoryOrder */;

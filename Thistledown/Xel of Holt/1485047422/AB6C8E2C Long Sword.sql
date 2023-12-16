@@ -26,8 +26,8 @@ VALUES (2876018220,   1,          1) /* ItemType - MeleeWeapon */
      , (2876018220, 115,        123) /* ItemSkillLevelLimit */
      , (2876018220, 131,         63) /* MaterialType - Silver */
      , (2876018220, 151,          2) /* HookType - Wall */
-     , (2876018220, 172,          1) /* AppraisalLongDescDecoration */
-     , (2876018220, 176,         44) /* AppraisalItemSkill */
+     , (2876018220, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (2876018220, 176,         44) /* AppraisalItemSkill - HeavyWeapons */
      , (2876018220, 353,          2) /* WeaponType - Sword */
      , (2876018220, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */;
 

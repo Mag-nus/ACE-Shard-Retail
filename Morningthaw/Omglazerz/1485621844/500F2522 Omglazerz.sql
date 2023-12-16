@@ -28,9 +28,9 @@ VALUES (1343169826,   1,         16) /* ItemType - Creature */
      , (1343169826, 199, 1387051974) /* HousePurchaseTimestamp */
      , (1343169826, 231,          3) /* AugmentationLessDeathItemLoss */
      , (1343169826, 232,          1) /* AugmentationSpellsRemainPastDeath */
-     , (1343169826, 261,        469) /* CharacterTitleId */
+     , (1343169826, 261,        469) /* CharacterTitleId - ChampionRingXII */
      , (1343169826, 262,         45) /* NumCharacterTitles */
-     , (1343169826, 281,          4) /* Faction1Bits */
+     , (1343169826, 281,          4) /* Faction1Bits - RadiantBlood */
      , (1343169826, 289,        155) /* SocietyRankRadblo */
      , (1343169826, 302,          1) /* AugmentationSkilledMagic */
      , (1343169826, 307,          8) /* DamageRating */

@@ -13,7 +13,7 @@ VALUES (2156005089,   1,        256) /* ItemType - MissileWeapon */
      , (2156005089,  48,         47) /* WeaponSkill - MissileWeapons */
      , (2156005089,  49,         49) /* WeaponTime */
      , (2156005089,  50,          2) /* AmmoType - Bolt */
-     , (2156005089,  51,          2) /* CombatUse - Missle */
+     , (2156005089,  51,          2) /* CombatUse - Missile */
      , (2156005089,  65,        101) /* Placement - Resting */
      , (2156005089,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2156005089, 105,          7) /* ItemWorkmanship */
@@ -29,8 +29,8 @@ VALUES (2156005089,   1,        256) /* ItemType - MissileWeapon */
      , (2156005089, 159,         47) /* WieldSkillType - MissileWeapons */
      , (2156005089, 160,        290) /* WieldDifficulty */
      , (2156005089, 171,          5) /* NumTimesTinkered */
-     , (2156005089, 172,          3) /* AppraisalLongDescDecoration */
-     , (2156005089, 176,         47) /* AppraisalItemSkill */
+     , (2156005089, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (2156005089, 176,         47) /* AppraisalItemSkill - MissileWeapons */
      , (2156005089, 179,          1) /* ImbuedEffect - CriticalStrike */
      , (2156005089, 188,          3) /* HeritageGroup - Sho */
      , (2156005089, 353,          9) /* WeaponType - Crossbow */

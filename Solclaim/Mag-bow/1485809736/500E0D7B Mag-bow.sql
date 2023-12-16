@@ -29,7 +29,7 @@ VALUES (1343098235,   1,         16) /* ItemType - Creature */
      , (1343098235, 231,          3) /* AugmentationLessDeathItemLoss */
      , (1343098235, 232,          1) /* AugmentationSpellsRemainPastDeath */
      , (1343098235, 238,          1) /* AugmentationIncreasedSpellDuration */
-     , (1343098235, 261,        447) /* CharacterTitleId */
+     , (1343098235, 261,        447) /* CharacterTitleId - ColosseumChampion */
      , (1343098235, 301,          1) /* AugmentationSkilledMissile */
      , (1343098235, 307,          0) /* DamageRating */
      , (1343098235, 308,          0) /* DamageResistRating */

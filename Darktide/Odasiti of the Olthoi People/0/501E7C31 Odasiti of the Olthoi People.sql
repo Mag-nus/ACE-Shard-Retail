@@ -19,7 +19,7 @@ VALUES (1344175153,   1, True ) /* Stuck */
      , (1344175153,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1344175153,  39, 0.600000023841858) /* DefaultScale */;
+VALUES (1344175153,  39, 0.6000000238418579) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1344175153,   1, 'Odasiti of the Olthoi People') /* Name */;
@@ -36,10 +36,10 @@ VALUES (1344175153,   1,   33561120) /* Setup */
      , (1344175153, 8005,     104579) /* PCAPRecordedPhysicsDesc - CSetup, MTable, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1344175153, 1, 3872194602, 135.0099, 47.95252, 3.748569, 0.06130596, 0, 0, -0.998119) /* Location */
-/* @teleloc 0xE6CD002A [135.009900 47.952520 3.748569] 0.061306 0.000000 0.000000 -0.998119 */
-     , (1344175153, 8040, 3872587790, 38.85633, 134.2415, 217.9961, -0.8660254, 0, 0, -0.5000001) /* PCAPRecordedLocation */
-/* @teleloc 0xE6D3000E [38.856330 134.241500 217.996100] -0.866025 0.000000 0.000000 -0.500000 */;
+VALUES (1344175153, 1, 3872194602, 135.00987, 47.95252, 3.7485685, 0.06130596, 0, 0, -0.998119) /* Location */
+/* @teleloc 0xE6CD002A [135.009872 47.952518 3.748569] 0.061306 0.000000 0.000000 -0.998119 */
+     , (1344175153, 8040, 3872587790, 38.856335, 134.24147, 217.9961, -0.8660254, 0, -0, -0.50000006) /* PCAPRecordedLocation */
+/* @teleloc 0xE6D3000E [38.856335 134.241470 217.996094] -0.866025 0.000000 -0.000000 -0.500000 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1344175153, 8000, 1344175153) /* PCAPRecordedObjectIID */;

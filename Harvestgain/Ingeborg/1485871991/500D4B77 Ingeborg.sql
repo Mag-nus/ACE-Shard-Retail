@@ -33,7 +33,7 @@ VALUES (1343048567,   1,         16) /* ItemType - Creature */
      , (1343048567, 231,          1) /* AugmentationLessDeathItemLoss */
      , (1343048567, 233,          1) /* AugmentationCriticalDefense */
      , (1343048567, 238,          5) /* AugmentationIncreasedSpellDuration */
-     , (1343048567, 261,         56) /* CharacterTitleId */
+     , (1343048567, 261,         56) /* CharacterTitleId - FriendofSilyun */
      , (1343048567, 301,          1) /* AugmentationSkilledMissile */
      , (1343048567, 307,          5) /* DamageRating */
      , (1343048567, 308,          0) /* DamageResistRating */

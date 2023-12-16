@@ -24,8 +24,8 @@ VALUES (3695923232,   1,          2) /* ItemType - Armor */
      , (3695923232, 158,          2) /* WieldRequirements - RawSkill */
      , (3695923232, 159,          6) /* WieldSkillType - MeleeDefense */
      , (3695923232, 160,        410) /* WieldDifficulty */
-     , (3695923232, 172,          1) /* AppraisalLongDescDecoration */
-     , (3695923232, 176,          7) /* AppraisalItemSkill */
+     , (3695923232, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (3695923232, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (3695923232, 270,          7) /* WieldRequirements2 - Level */
      , (3695923232, 271,          1) /* WieldSkillType2 - Axe */
      , (3695923232, 272,        180) /* WieldDifficulty2 */

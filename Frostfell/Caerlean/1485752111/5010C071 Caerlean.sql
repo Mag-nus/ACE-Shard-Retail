@@ -25,7 +25,7 @@ VALUES (1343275121,   1,         16) /* ItemType - Creature */
      , (1343275121, 139,        112) /* DeathLevel */
      , (1343275121, 188,          3) /* HeritageGroup - Sho */
      , (1343275121, 199, 1484943763) /* HousePurchaseTimestamp */
-     , (1343275121, 261,        494) /* CharacterTitleId */
+     , (1343275121, 261,        494) /* CharacterTitleId - FuzzyBunnySlayer */
      , (1343275121, 307,          0) /* DamageRating */
      , (1343275121, 308,          0) /* DamageResistRating */
      , (1343275121, 312,          0) /* HealOverTime */

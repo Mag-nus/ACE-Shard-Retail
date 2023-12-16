@@ -14,8 +14,8 @@ VALUES (1343246695,   1,         16) /* ItemType - Creature */
      , (1343246695, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343246695, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343246695, 188,          2) /* HeritageGroup - Gharundim */
-     , (1343246695, 261,          1) /* CharacterTitleId */
-     , (1343246695, 281,          1) /* Faction1Bits */
+     , (1343246695, 261,          1) /* CharacterTitleId - Adventurer */
+     , (1343246695, 281,          1) /* Faction1Bits - CelestialHand */
      , (1343246695, 287,       1001) /* SocietyRankCelhan */
      , (1343246695, 307,         24) /* DamageRating */
      , (1343246695, 308,         11) /* DamageResistRating */
@@ -57,10 +57,10 @@ VALUES (1343246695,   1,   33554433) /* Setup */
      , (1343246695, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343246695, 1, 3550085166, 127, 127, 20.58833, 1, 0, 0, 0) /* Location */
-/* @teleloc 0xD39A002E [127.000000 127.000000 20.588330] 1.000000 0.000000 0.000000 0.000000 */
-     , (1343246695, 8040, 3583574079, 172.6885, 157.8632, 374.005, 0.3588979, 0, 0, -0.9333768) /* PCAPRecordedLocation */
-/* @teleloc 0xD599003F [172.688500 157.863200 374.005000] 0.358898 0.000000 0.000000 -0.933377 */;
+VALUES (1343246695, 1, 3550085166, 127, 127, 20.588333, 1, 0, 0, 0) /* Location */
+/* @teleloc 0xD39A002E [127.000000 127.000000 20.588333] 1.000000 0.000000 0.000000 0.000000 */
+     , (1343246695, 8040, 3583574079, 172.68854, 157.86322, 374.005, 0.3588979, 0, 0, -0.93337685) /* PCAPRecordedLocation */
+/* @teleloc 0xD599003F [172.688538 157.863220 374.005005] 0.358898 0.000000 0.000000 -0.933377 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343246695,  26, 1342258962) /* Monarch */

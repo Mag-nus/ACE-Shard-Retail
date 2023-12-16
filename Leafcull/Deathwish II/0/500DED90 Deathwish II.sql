@@ -16,7 +16,7 @@ VALUES (1343090064,   1,         16) /* ItemType - Creature */
      , (1343090064, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343090064, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343090064, 188,          3) /* HeritageGroup - Sho */
-     , (1343090064, 261,        765) /* CharacterTitleId */
+     , (1343090064, 261,        765) /* CharacterTitleId - DerethianNewbie */
      , (1343090064, 262,          2) /* NumCharacterTitles */
      , (1343090064, 307,          5) /* DamageRating */
      , (1343090064, 390,          0) /* Enlightenment */
@@ -55,9 +55,9 @@ VALUES (1343090064,   1,   33554433) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343090064, 1, 3299409966, 127, 127, 57.42167, 1, 0, 0, 0) /* Location */
-/* @teleloc 0xC4A9002E [127.000000 127.000000 57.421670] 1.000000 0.000000 0.000000 0.000000 */
-     , (1343090064, 8040, 3332964380, 79.81662, 85.24416, 42.005, -0.1998756, 0, 0, -0.9798213) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001C [79.816620 85.244160 42.005000] -0.199876 0.000000 0.000000 -0.979821 */;
+/* @teleloc 0xC4A9002E [127.000000 127.000000 57.421669] 1.000000 0.000000 0.000000 0.000000 */
+     , (1343090064, 8040, 3332964380, 79.81662, 85.24416, 42.005, -0.19987556, 0, -0, -0.97982126) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A9001C [79.816620 85.244164 42.005001] -0.199876 0.000000 -0.000000 -0.979821 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343090064,  26, 1342180363) /* Monarch */

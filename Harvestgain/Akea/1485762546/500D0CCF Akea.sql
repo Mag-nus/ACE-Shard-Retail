@@ -25,7 +25,7 @@ VALUES (1343032527,   1,         16) /* ItemType - Creature */
      , (1343032527, 139,         92) /* DeathLevel */
      , (1343032527, 188,          1) /* HeritageGroup - Aluvian */
      , (1343032527, 199, 1395303467) /* HousePurchaseTimestamp */
-     , (1343032527, 261,         70) /* CharacterTitleId */
+     , (1343032527, 261,         70) /* CharacterTitleId - HonorarySnowman */
      , (1343032527, 307,          5) /* DamageRating */
      , (1343032527, 308,          0) /* DamageResistRating */
      , (1343032527, 312,          0) /* HealOverTime */

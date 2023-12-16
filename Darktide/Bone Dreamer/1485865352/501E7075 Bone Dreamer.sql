@@ -25,7 +25,7 @@ VALUES (1344172149,   1,         16) /* ItemType - Creature */
      , (1344172149, 188,          9) /* HeritageGroup - Empyrean */
      , (1344172149, 199, 1415050594) /* HousePurchaseTimestamp */
      , (1344172149, 234,          1) /* AugmentationBonusXp */
-     , (1344172149, 261,        112) /* CharacterTitleId */
+     , (1344172149, 261,        112) /* CharacterTitleId - RedFury */
      , (1344172149, 296,          1) /* AugmentationInfusedLifeMagic */
      , (1344172149, 307,          5) /* DamageRating */
      , (1344172149, 308,          0) /* DamageResistRating */

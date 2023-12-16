@@ -25,7 +25,7 @@ VALUES (1343011521,   1,         16) /* ItemType - Creature */
      , (1343011521, 139,        131) /* DeathLevel */
      , (1343011521, 188,          2) /* HeritageGroup - Gharundim */
      , (1343011521, 199, 1485525299) /* HousePurchaseTimestamp */
-     , (1343011521, 261,        152) /* CharacterTitleId */
+     , (1343011521, 261,        152) /* CharacterTitleId - Warlock */
      , (1343011521, 307,          0) /* DamageRating */
      , (1343011521, 308,          0) /* DamageResistRating */
      , (1343011521, 312,          0) /* HealOverTime */

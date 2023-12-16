@@ -10,7 +10,7 @@ VALUES (3545663088,   1,        256) /* ItemType - MissileWeapon */
      , (3545663088,  18,        129) /* UiEffects - Magical, Frost */
      , (3545663088,  19,       5147) /* Value */
      , (3545663088,  50,          1) /* AmmoType - Arrow */
-     , (3545663088,  51,          2) /* CombatUse - Missle */
+     , (3545663088,  51,          2) /* CombatUse - Missile */
      , (3545663088,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3545663088, 131,         59) /* MaterialType - Copper */
      , (3545663088, 151,          2) /* HookType - Wall */;

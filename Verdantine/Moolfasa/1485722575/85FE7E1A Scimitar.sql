@@ -22,7 +22,7 @@ VALUES (2248048154,   1,          1) /* ItemType - MeleeWeapon */
      , (2248048154, 159,         44) /* WieldSkillType - HeavyWeapons */
      , (2248048154, 160,        400) /* WieldDifficulty */
      , (2248048154, 171,          1) /* NumTimesTinkered */
-     , (2248048154, 172,          7) /* AppraisalLongDescDecoration */
+     , (2248048154, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2248048154, 177,          3) /* GemCount */
      , (2248048154, 178,         39) /* GemType */
      , (2248048154, 179,          8) /* ImbuedEffect - SlashRending */

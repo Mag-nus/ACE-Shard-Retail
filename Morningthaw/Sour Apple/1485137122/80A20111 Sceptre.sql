@@ -20,7 +20,7 @@ VALUES (2158100753,   1,      32768) /* ItemType - Caster */
      , (2158100753, 115,          0) /* ItemSkillLevelLimit */
      , (2158100753, 131,         23) /* MaterialType - GreenGarnet */
      , (2158100753, 151,          2) /* HookType - Wall */
-     , (2158100753, 172,          7) /* AppraisalLongDescDecoration */
+     , (2158100753, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2158100753, 177,          4) /* GemCount */
      , (2158100753, 178,         22) /* GemType */
      , (2158100753, 9015,         17) /* InventoryOrder */;

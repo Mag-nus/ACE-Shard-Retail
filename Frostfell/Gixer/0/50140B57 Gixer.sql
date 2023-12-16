@@ -14,7 +14,7 @@ VALUES (1343490903,   1,         16) /* ItemType - Creature */
      , (1343490903, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343490903, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343490903, 188,          1) /* HeritageGroup - Aluvian */
-     , (1343490903, 261,          1) /* CharacterTitleId */
+     , (1343490903, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343490903, 307,          8) /* DamageRating */
      , (1343490903, 323,          1) /* HealingBoostRating */
      , (1343490903, 390,          0) /* Enlightenment */
@@ -53,10 +53,10 @@ VALUES (1343490903,   1,   33554510) /* Setup */
      , (1343490903, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343490903, 1, 3929014314, 126.5, 37, 121, 0.6883546, 0, 0, -0.7253743) /* Location */
+VALUES (1343490903, 1, 3929014314, 126.5, 37, 121, 0.68835455, 0, 0, -0.72537434) /* Location */
 /* @teleloc 0xEA30002A [126.500000 37.000000 121.000000] 0.688355 0.000000 0.000000 -0.725374 */
-     , (1343490903, 8040, 2847146009, 84, 7.1, 94.005, 0.9969173, 0, 0, -0.0784591) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B40019 [84.000000 7.100000 94.005000] 0.996917 0.000000 0.000000 -0.078459 */;
+     , (1343490903, 8040, 2847146009, 84, 7.1, 94.005005, 0.9969173, 0, 0, -0.0784591) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B40019 [84.000000 7.100000 94.005005] 0.996917 0.000000 0.000000 -0.078459 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343490903,  26, 1343449966) /* Monarch */

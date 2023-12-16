@@ -24,7 +24,7 @@ VALUES (2156008236,   1,      32768) /* ItemType - Caster */
      , (2156008236, 158,          2) /* WieldRequirements - RawSkill */
      , (2156008236, 159,         34) /* WieldSkillType - WarMagic */
      , (2156008236, 160,        330) /* WieldDifficulty */
-     , (2156008236, 172,          7) /* AppraisalLongDescDecoration */
+     , (2156008236, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2156008236, 177,          4) /* GemCount */
      , (2156008236, 178,         20) /* GemType */
      , (2156008236, 188,          2) /* HeritageGroup - Gharundim */

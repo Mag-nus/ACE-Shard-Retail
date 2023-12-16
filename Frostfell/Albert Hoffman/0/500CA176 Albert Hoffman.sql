@@ -16,7 +16,7 @@ VALUES (1343005046,   1,         16) /* ItemType - Creature */
      , (1343005046, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343005046, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343005046, 188,          2) /* HeritageGroup - Gharundim */
-     , (1343005046, 261,        764) /* CharacterTitleId */
+     , (1343005046, 261,        764) /* CharacterTitleId - VanquisheroftheTitan */
      , (1343005046, 307,          5) /* DamageRating */
      , (1343005046, 308,          3) /* DamageResistRating */
      , (1343005046, 390,          0) /* Enlightenment */
@@ -54,10 +54,10 @@ VALUES (1343005046,   1,   33554433) /* Setup */
      , (1343005046, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343005046, 1, 2818805, 420.0207, -95.31096, -11.995, -0.1584943, 0, 0, -0.9873599) /* Location */
-/* @teleloc 0x002B02F5 [420.020700 -95.310960 -11.995000] -0.158494 0.000000 0.000000 -0.987360 */
-     , (1343005046, 8040, 722599969, 109.1771, 7.50233, 48.005, 0.998233, 0, 0, -0.05942086) /* PCAPRecordedLocation */
-/* @teleloc 0x2B120021 [109.177100 7.502330 48.005000] 0.998233 0.000000 0.000000 -0.059421 */;
+VALUES (1343005046, 1, 2818805, 420.02066, -95.31096, -11.995001, -0.1584943, 0, 0, -0.9873599) /* Location */
+/* @teleloc 0x002B02F5 [420.020660 -95.310959 -11.995001] -0.158494 0.000000 0.000000 -0.987360 */
+     , (1343005046, 8040, 722599969, 109.177124, 7.50233, 48.005, 0.998233, 0, 0, -0.05942086) /* PCAPRecordedLocation */
+/* @teleloc 0x2B120021 [109.177124 7.502330 48.005001] 0.998233 0.000000 0.000000 -0.059421 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343005046,  26, 1343449966) /* Monarch */

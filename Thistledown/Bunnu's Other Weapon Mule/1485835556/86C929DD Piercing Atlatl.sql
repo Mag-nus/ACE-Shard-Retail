@@ -9,7 +9,7 @@ VALUES (2261330397,   1,        256) /* ItemType - MissileWeapon */
      , (2261330397,  18,       2049) /* UiEffects - Magical, Piercing */
      , (2261330397,  19,       8181) /* Value */
      , (2261330397,  50,          4) /* AmmoType - Atlatl */
-     , (2261330397,  51,          2) /* CombatUse - Missle */
+     , (2261330397,  51,          2) /* CombatUse - Missile */
      , (2261330397,  65,        101) /* Placement - Resting */
      , (2261330397,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2261330397, 131,         75) /* MaterialType - Oak */

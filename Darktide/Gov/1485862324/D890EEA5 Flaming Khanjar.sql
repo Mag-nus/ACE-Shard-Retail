@@ -25,8 +25,8 @@ VALUES (3633376933,   1,          1) /* ItemType - MeleeWeapon */
      , (3633376933, 115,        182) /* ItemSkillLevelLimit */
      , (3633376933, 131,         51) /* MaterialType - Ivory */
      , (3633376933, 151,          2) /* HookType - Wall */
-     , (3633376933, 172,          3) /* AppraisalLongDescDecoration */
-     , (3633376933, 176,         46) /* AppraisalItemSkill */
+     , (3633376933, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (3633376933, 176,         46) /* AppraisalItemSkill - FinesseWeapons */
      , (3633376933, 188,          2) /* HeritageGroup - Gharundim */
      , (3633376933, 353,          6) /* WeaponType - Dagger */
      , (3633376933, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */

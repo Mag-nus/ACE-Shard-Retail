@@ -18,7 +18,7 @@ VALUES (3326955610,   1,          8) /* ItemType - Jewelry */
      , (3326955610, 110,          0) /* ItemAllegianceRankLimit */
      , (3326955610, 115,          0) /* ItemSkillLevelLimit */
      , (3326955610, 131,         33) /* MaterialType - Opal */
-     , (3326955610, 172,          5) /* AppraisalLongDescDecoration */
+     , (3326955610, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (3326955610, 177,          1) /* GemCount */
      , (3326955610, 178,         49) /* GemType */
      , (3326955610, 9015,         62) /* InventoryOrder */;

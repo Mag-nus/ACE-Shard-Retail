@@ -13,7 +13,7 @@ VALUES (2156007744,   1,          2) /* ItemType - Armor */
      , (2156007744,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2156007744, 105,          6) /* ItemWorkmanship */
      , (2156007744, 131,         58) /* MaterialType - Bronze */
-     , (2156007744, 172,          3) /* AppraisalLongDescDecoration */
+     , (2156007744, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2156007744, 9015,         11) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

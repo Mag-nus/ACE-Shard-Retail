@@ -21,7 +21,7 @@ VALUES (1343309000,   1,         16) /* ItemType - Creature */
      , (1343309000, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343309000, 188,         10) /* HeritageGroup - Penumbraen */
      , (1343309000, 199, 1280368231) /* HousePurchaseTimestamp */
-     , (1343309000, 261,          1) /* CharacterTitleId */
+     , (1343309000, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343309000, 298,          1) /* AugmentationCriticalExpertise */
      , (1343309000, 307,          0) /* DamageRating */
      , (1343309000, 308,          0) /* DamageResistRating */

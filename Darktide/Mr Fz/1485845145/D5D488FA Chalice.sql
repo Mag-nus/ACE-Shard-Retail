@@ -8,7 +8,7 @@ VALUES (3587475706,   1,        256) /* ItemType - MissileWeapon */
      , (3587475706,  16,          1) /* ItemUseable - No */
      , (3587475706,  18,          1) /* UiEffects - Magical */
      , (3587475706,  19,      35067) /* Value */
-     , (3587475706,  51,          2) /* CombatUse - Missle */
+     , (3587475706,  51,          2) /* CombatUse - Missile */
      , (3587475706,  65,        101) /* Placement - Resting */
      , (3587475706,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (3587475706, 131,         16) /* MaterialType - BlackOpal */

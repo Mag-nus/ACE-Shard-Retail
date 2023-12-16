@@ -24,7 +24,7 @@ VALUES (1343211934,   1,         16) /* ItemType - Creature */
      , (1343211934, 139,         65) /* DeathLevel */
      , (1343211934, 188,          1) /* HeritageGroup - Aluvian */
      , (1343211934, 199, 1384226881) /* HousePurchaseTimestamp */
-     , (1343211934, 261,         43) /* CharacterTitleId */
+     , (1343211934, 261,         43) /* CharacterTitleId - Deliverer */
      , (1343211934, 307,          0) /* DamageRating */
      , (1343211934, 308,          0) /* DamageResistRating */
      , (1343211934, 312,          0) /* HealOverTime */

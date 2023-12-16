@@ -24,8 +24,8 @@ VALUES (2154371467,   1,          2) /* ItemType - Armor */
      , (2154371467, 158,          2) /* WieldRequirements - RawSkill */
      , (2154371467, 159,         15) /* WieldSkillType - MagicDefense */
      , (2154371467, 160,        290) /* WieldDifficulty */
-     , (2154371467, 172,          1) /* AppraisalLongDescDecoration */
-     , (2154371467, 176,          6) /* AppraisalItemSkill */
+     , (2154371467, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (2154371467, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (2154371467, 265,         15) /* EquipmentSetId - Archers */
      , (2154371467, 270,          7) /* WieldRequirements2 - Level */
      , (2154371467, 271,          1) /* WieldSkillType2 - Axe */

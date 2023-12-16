@@ -17,9 +17,9 @@ VALUES (1342340969,   1,         16) /* ItemType - Creature */
      , (1342340969, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342340969, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342340969, 188,          1) /* HeritageGroup - Aluvian */
-     , (1342340969, 261,        491) /* CharacterTitleId */
+     , (1342340969, 261,        491) /* CharacterTitleId - AsheronsSavior */
      , (1342340969, 262,        267) /* NumCharacterTitles */
-     , (1342340969, 281,          1) /* Faction1Bits */
+     , (1342340969, 281,          1) /* Faction1Bits - CelestialHand */
      , (1342340969, 287,        301) /* SocietyRankCelhan */
      , (1342340969, 307,         16) /* DamageRating */
      , (1342340969, 308,         16) /* DamageResistRating */
@@ -63,9 +63,9 @@ VALUES (1342340969,   1,   33554433) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1342340969, 1, 3071606837, 144.812, 101.541, 108, -0.999476, 0, 0, -0.0323732) /* Location */
-/* @teleloc 0xB7150035 [144.812000 101.541000 108.000000] -0.999476 0.000000 0.000000 -0.032373 */
-     , (1342340969, 8040, 19202316, 25.14096, -14.36127, 0.5175107, 0.9120836, 0, 0, -0.4100042) /* PCAPRecordedLocation */
-/* @teleloc 0x0125010C [25.140960 -14.361270 0.517511] 0.912084 0.000000 0.000000 -0.410004 */;
+/* @teleloc 0xB7150035 [144.811996 101.541000 108.000000] -0.999476 0.000000 0.000000 -0.032373 */
+     , (1342340969, 8040, 19202316, 25.140965, -14.361266, 0.5175107, 0.9120836, 0, 0, -0.4100042) /* PCAPRecordedLocation */
+/* @teleloc 0x0125010C [25.140965 -14.361266 0.517511] 0.912084 0.000000 0.000000 -0.410004 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342340969,  26, 1342340969) /* Monarch */

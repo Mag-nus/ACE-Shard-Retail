@@ -9,7 +9,7 @@ VALUES (2154323271,   1,        256) /* ItemType - MissileWeapon */
      , (2154323271,  18,          1) /* UiEffects - Magical */
      , (2154323271,  19,        971) /* Value */
      , (2154323271,  50,          2) /* AmmoType - Bolt */
-     , (2154323271,  51,          2) /* CombatUse - Missle */
+     , (2154323271,  51,          2) /* CombatUse - Missile */
      , (2154323271,  65,        101) /* Placement - Resting */
      , (2154323271,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2154323271, 131,         30) /* MaterialType - Malachite */

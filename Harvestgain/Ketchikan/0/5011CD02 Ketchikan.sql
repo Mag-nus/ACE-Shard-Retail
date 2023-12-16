@@ -14,7 +14,7 @@ VALUES (1343343874,   1,         16) /* ItemType - Creature */
      , (1343343874, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343343874, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343343874, 188,          8) /* HeritageGroup - Lugian */
-     , (1343343874, 261,          1) /* CharacterTitleId */
+     , (1343343874, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343343874, 390,          0) /* Enlightenment */
      , (1343343874, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
@@ -27,7 +27,7 @@ VALUES (1343343874,   1, True ) /* Stuck */
      , (1343343874,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343343874,  39, 1.29999995231628) /* DefaultScale */;
+VALUES (1343343874,  39, 1.2999999523162842) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343343874,   1, 'Ketchikan') /* Name */
@@ -55,8 +55,8 @@ VALUES (1343343874,   1,   33561112) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343343874, 1, 1959133230, 127, 127, 178.0065, 1, 0, 0, 0) /* Location */
 /* @teleloc 0x74C6002E [127.000000 127.000000 178.006500] 1.000000 0.000000 0.000000 0.000000 */
-     , (1343343874, 8040, 1925775389, 92.45451, 101.1257, 79.2839, -0.2163168, 0, 0, -0.9763232) /* PCAPRecordedLocation */
-/* @teleloc 0x72C9001D [92.454510 101.125700 79.283900] -0.216317 0.000000 0.000000 -0.976323 */;
+     , (1343343874, 8040, 1925775389, 92.454506, 101.12575, 79.2839, -0.21631683, 0, -0, -0.97632325) /* PCAPRecordedLocation */
+/* @teleloc 0x72C9001D [92.454506 101.125748 79.283897] -0.216317 0.000000 -0.000000 -0.976323 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343343874,  26, 1342386738) /* Monarch */

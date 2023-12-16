@@ -20,7 +20,7 @@ VALUES (2967526589,   1,          4) /* ItemType - Clothing */
      , (2967526589, 110,          0) /* ItemAllegianceRankLimit */
      , (2967526589, 115,          0) /* ItemSkillLevelLimit */
      , (2967526589, 131,         54) /* MaterialType - GromnieHide */
-     , (2967526589, 172,          7) /* AppraisalLongDescDecoration */
+     , (2967526589, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2967526589, 177,          2) /* GemCount */
      , (2967526589, 178,         38) /* GemType */
      , (2967526589, 9015,          8) /* InventoryOrder */;

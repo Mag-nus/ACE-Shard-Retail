@@ -20,7 +20,7 @@ VALUES (3231348863,   1,          8) /* ItemType - Jewelry */
      , (3231348863, 115,          0) /* ItemSkillLevelLimit */
      , (3231348863, 131,         58) /* MaterialType - Bronze */
      , (3231348863, 171,          1) /* NumTimesTinkered */
-     , (3231348863, 172,          3) /* AppraisalLongDescDecoration */
+     , (3231348863, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (3231348863, 304,       8192) /* ImbuedEffect3 - Spellbook */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

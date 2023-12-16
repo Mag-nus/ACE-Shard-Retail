@@ -19,7 +19,7 @@ VALUES (1343264887,   1, True ) /* Stuck */
      , (1343264887,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343264887,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1343264887,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343264887,   1, 'Prodigal Pyrotechnician') /* Name */;
@@ -36,10 +36,10 @@ VALUES (1343264887,   1,   33561110) /* Setup */
      , (1343264887, 8005,     104579) /* PCAPRecordedPhysicsDesc - CSetup, MTable, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343264887, 1, 1925775388, 95.5598, 95.09545, 79.93062, 0.9993634, 0, 0, -0.0356778) /* Location */
-/* @teleloc 0x72C9001C [95.559800 95.095450 79.930620] 0.999363 0.000000 0.000000 -0.035678 */
-     , (1343264887, 8040, 1925775388, 95.53426, 93.78423, 79.82135, -0.9998695, 0, 0, -0.01615851) /* PCAPRecordedLocation */
-/* @teleloc 0x72C9001C [95.534260 93.784230 79.821350] -0.999870 0.000000 0.000000 -0.016159 */;
+VALUES (1343264887, 1, 1925775388, 95.5598, 95.09545, 79.93062, 0.99936336, 0, 0, -0.035677798) /* Location */
+/* @teleloc 0x72C9001C [95.559799 95.095451 79.930618] 0.999363 0.000000 0.000000 -0.035678 */
+     , (1343264887, 8040, 1925775388, 95.53426, 93.784225, 79.82135, -0.99986947, 0, -0, -0.016158506) /* PCAPRecordedLocation */
+/* @teleloc 0x72C9001C [95.534264 93.784225 79.821350] -0.999869 0.000000 -0.000000 -0.016159 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343264887,  26, 1343196415) /* Monarch */

@@ -24,8 +24,8 @@ VALUES (3710967721,   1,          2) /* ItemType - Armor */
      , (3710967721, 158,          2) /* WieldRequirements - RawSkill */
      , (3710967721, 159,          6) /* WieldSkillType - MeleeDefense */
      , (3710967721, 160,        370) /* WieldDifficulty */
-     , (3710967721, 172,          3) /* AppraisalLongDescDecoration */
-     , (3710967721, 176,          6) /* AppraisalItemSkill */
+     , (3710967721, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (3710967721, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (3710967721, 188,          4) /* HeritageGroup - Viamontian */
      , (3710967721, 265,         27) /* EquipmentSetId - Acidproof */
      , (3710967721, 270,          7) /* WieldRequirements2 - Level */

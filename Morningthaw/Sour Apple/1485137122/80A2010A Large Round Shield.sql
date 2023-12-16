@@ -21,8 +21,8 @@ VALUES (2158100746,   1,          2) /* ItemType - Armor */
      , (2158100746, 115,        124) /* ItemSkillLevelLimit */
      , (2158100746, 131,         58) /* MaterialType - Bronze */
      , (2158100746, 151,          2) /* HookType - Wall */
-     , (2158100746, 172,          7) /* AppraisalLongDescDecoration */
-     , (2158100746, 176,          7) /* AppraisalItemSkill */
+     , (2158100746, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (2158100746, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (2158100746, 177,          2) /* GemCount */
      , (2158100746, 178,         39) /* GemType */
      , (2158100746, 188,          2) /* HeritageGroup - Gharundim */

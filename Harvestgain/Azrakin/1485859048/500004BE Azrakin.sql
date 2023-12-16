@@ -40,8 +40,8 @@ VALUES (1342178494,   1,         16) /* ItemType - Creature */
      , (1342178494, 238,          5) /* AugmentationIncreasedSpellDuration */
      , (1342178494, 244,          1) /* AugmentationResistanceFire */
      , (1342178494, 246,          1) /* AugmentationResistanceLightning */
-     , (1342178494, 261,        352) /* CharacterTitleId */
-     , (1342178494, 281,          1) /* Faction1Bits */
+     , (1342178494, 261,        352) /* CharacterTitleId - ShadowHunter */
+     , (1342178494, 281,          1) /* Faction1Bits - CelestialHand */
      , (1342178494, 287,       1001) /* SocietyRankCelhan */
      , (1342178494, 295,          1) /* AugmentationInfusedItemMagic */
      , (1342178494, 298,          1) /* AugmentationCriticalExpertise */

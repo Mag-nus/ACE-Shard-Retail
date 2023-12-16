@@ -19,7 +19,7 @@ VALUES (1343370497,   1, True ) /* Stuck */
      , (1343370497,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343370497,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1343370497,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343370497,   1, 'Stabby Mc Stabbington') /* Name */;
@@ -36,10 +36,10 @@ VALUES (1343370497,   1,   33561110) /* Setup */
      , (1343370497, 8005,     104643) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343370497, 1, 3332964380, 79.047, 93.93131, 42.006, 0.1945254, 0, 0, -0.9808975) /* Location */
-/* @teleloc 0xC6A9001C [79.047000 93.931310 42.006000] 0.194525 0.000000 0.000000 -0.980898 */
-     , (1343370497, 8040, 3332964380, 79.047, 93.93131, 42.006, 0.9689068, 0, 0, -0.247426) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001C [79.047000 93.931310 42.006000] 0.968907 0.000000 0.000000 -0.247426 */;
+VALUES (1343370497, 1, 3332964380, 79.047, 93.93131, 42.006, 0.19452538, 0, 0, -0.9808975) /* Location */
+/* @teleloc 0xC6A9001C [79.046997 93.931313 42.006001] 0.194525 0.000000 0.000000 -0.980897 */
+     , (1343370497, 8040, 3332964380, 79.047, 93.93131, 42.006, 0.9689068, 0, 0, -0.24742596) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A9001C [79.046997 93.931313 42.006001] 0.968907 0.000000 0.000000 -0.247426 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343370497,  26, 1343089867) /* Monarch */

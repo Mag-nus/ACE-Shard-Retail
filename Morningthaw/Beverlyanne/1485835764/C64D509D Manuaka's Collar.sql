@@ -16,7 +16,7 @@ VALUES (3326955677,   1,          8) /* ItemType - Jewelry */
      , (3326955677, 109,          0) /* ItemDifficulty */
      , (3326955677, 110,          1) /* ItemAllegianceRankLimit */
      , (3326955677, 115,         87) /* ItemSkillLevelLimit */
-     , (3326955677, 176,         36) /* AppraisalItemSkill */
+     , (3326955677, 176,         36) /* AppraisalItemSkill - Loyalty */
      , (3326955677, 9015,         34) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

@@ -14,7 +14,7 @@ VALUES (1343151992,   1,         16) /* ItemType - Creature */
      , (1343151992, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343151992, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343151992, 188,          7) /* HeritageGroup - Tumerok */
-     , (1343151992, 261,         11) /* CharacterTitleId */
+     , (1343151992, 261,         11) /* CharacterTitleId - Soldier */
      , (1343151992, 390,          0) /* Enlightenment */
      , (1343151992, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
@@ -27,7 +27,7 @@ VALUES (1343151992,   1, True ) /* Stuck */
      , (1343151992,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343151992,  39, 1.10000002384186) /* DefaultScale */;
+VALUES (1343151992,  39, 1.100000023841858) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343151992,   1, 'Aun Khari') /* Name */
@@ -53,8 +53,8 @@ VALUES (1343151992,   1,   33561114) /* Setup */
      , (1343151992, 8005,     104643) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343151992, 8040, 3332964718, 104.3666, 83.96587, 46.8055, -0.6808935, 0, 0, -0.7323825) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9016E [104.366600 83.965870 46.805500] -0.680894 0.000000 0.000000 -0.732383 */;
+VALUES (1343151992, 8040, 3332964718, 104.36659, 83.96587, 46.8055, -0.6808935, 0, -0, -0.7323825) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A9016E [104.366592 83.965874 46.805500] -0.680893 0.000000 -0.000000 -0.732382 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343151992,  26, 1342195194) /* Monarch */

@@ -23,8 +23,8 @@ VALUES (3710973610,   1,          2) /* ItemType - Armor */
      , (3710973610, 158,          7) /* WieldRequirements - Level */
      , (3710973610, 159,          1) /* WieldSkillType - Axe */
      , (3710973610, 160,        150) /* WieldDifficulty */
-     , (3710973610, 172,          1) /* AppraisalLongDescDecoration */
-     , (3710973610, 176,          7) /* AppraisalItemSkill */
+     , (3710973610, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (3710973610, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (3710973610, 265,         20) /* EquipmentSetId - Dexterous */
      , (3710973610, 9015,          5) /* InventoryOrder */;
 

@@ -15,7 +15,7 @@ VALUES (1343493906,   1,         16) /* ItemType - Creature */
      , (1343493906, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343493906, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343493906, 188,          2) /* HeritageGroup - Gharundim */
-     , (1343493906, 261,        380) /* CharacterTitleId */
+     , (1343493906, 261,        380) /* CharacterTitleId - ThunderChickenSlayer */
      , (1343493906, 307,          5) /* DamageRating */
      , (1343493906, 351,         28) /* LifeResistRating */
      , (1343493906, 390,          0) /* Enlightenment */
@@ -54,10 +54,10 @@ VALUES (1343493906,   1,   33554433) /* Setup */
      , (1343493906, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343493906, 1, 459108, 85.17879, -69.17896, 0.004999995, 0.5328802, 0, 0, -0.8461907) /* Location */
-/* @teleloc 0x00070164 [85.178790 -69.178960 0.005000] 0.532880 0.000000 0.000000 -0.846191 */
-     , (1343493906, 8040, 459075, 70, -60, 0.004999995, -4.371139E-08, 0, 0, -1) /* PCAPRecordedLocation */
-/* @teleloc 0x00070143 [70.000000 -60.000000 0.005000] 0.000000 0.000000 0.000000 -1.000000 */;
+VALUES (1343493906, 1, 459108, 85.178795, -69.178955, 0.004999995, 0.53288025, 0, 0, -0.8461907) /* Location */
+/* @teleloc 0x00070164 [85.178795 -69.178955 0.005000] 0.532880 0.000000 0.000000 -0.846191 */
+     , (1343493906, 8040, 459075, 70, -60, 0.004999995, -4.371139E-08, 0, -0, -1) /* PCAPRecordedLocation */
+/* @teleloc 0x00070143 [70.000000 -60.000000 0.005000] -0.000000 0.000000 -0.000000 -1.000000 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343493906,  26, 1343204161) /* Monarch */

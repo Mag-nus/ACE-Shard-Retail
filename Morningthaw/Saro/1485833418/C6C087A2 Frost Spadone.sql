@@ -29,8 +29,8 @@ VALUES (3334506402,   1,          1) /* ItemType - MeleeWeapon */
      , (3334506402, 159,         41) /* WieldSkillType - TwoHandedCombat */
      , (3334506402, 160,        350) /* WieldDifficulty */
      , (3334506402, 171,          9) /* NumTimesTinkered */
-     , (3334506402, 172,          5) /* AppraisalLongDescDecoration */
-     , (3334506402, 176,         41) /* AppraisalItemSkill */
+     , (3334506402, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
+     , (3334506402, 176,         41) /* AppraisalItemSkill - TwoHandedCombat */
      , (3334506402, 177,          4) /* GemCount */
      , (3334506402, 178,         26) /* GemType */
      , (3334506402, 179,        128) /* ImbuedEffect - ColdRending */

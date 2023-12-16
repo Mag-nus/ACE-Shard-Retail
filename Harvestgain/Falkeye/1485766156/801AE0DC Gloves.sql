@@ -21,7 +21,7 @@ VALUES (2149245148,   1,          4) /* ItemType - Clothing */
      , (2149245148, 115,          0) /* ItemSkillLevelLimit */
      , (2149245148, 131,         52) /* MaterialType - Leather */
      , (2149245148, 171,          1) /* NumTimesTinkered */
-     , (2149245148, 172,          3) /* AppraisalLongDescDecoration */
+     , (2149245148, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2149245148, 188,          3) /* HeritageGroup - Sho */
      , (2149245148, 9015,         73) /* InventoryOrder */;
 

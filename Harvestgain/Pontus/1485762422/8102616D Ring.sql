@@ -19,7 +19,7 @@ VALUES (2164416877,   1,          8) /* ItemType - Jewelry */
      , (2164416877, 110,          0) /* ItemAllegianceRankLimit */
      , (2164416877, 115,          0) /* ItemSkillLevelLimit */
      , (2164416877, 131,         22) /* MaterialType - FireOpal */
-     , (2164416877, 172,          7) /* AppraisalLongDescDecoration */
+     , (2164416877, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2164416877, 177,          1) /* GemCount */
      , (2164416877, 178,         41) /* GemType */;
 

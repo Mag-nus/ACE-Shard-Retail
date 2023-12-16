@@ -34,9 +34,9 @@ VALUES (1343301116,   1,         16) /* ItemType - Creature */
      , (1343301116, 233,          1) /* AugmentationCriticalDefense */
      , (1343301116, 238,          5) /* AugmentationIncreasedSpellDuration */
      , (1343301116, 246,          1) /* AugmentationResistanceLightning */
-     , (1343301116, 261,        681) /* CharacterTitleId */
+     , (1343301116, 261,        681) /* CharacterTitleId - BeginningsEnd */
      , (1343301116, 262,         96) /* NumCharacterTitles */
-     , (1343301116, 281,          4) /* Faction1Bits */
+     , (1343301116, 281,          4) /* Faction1Bits - RadiantBlood */
      , (1343301116, 289,       1001) /* SocietyRankRadblo */
      , (1343301116, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1343301116, 295,          1) /* AugmentationInfusedItemMagic */

@@ -7,7 +7,7 @@ VALUES (2881089068,   1,        256) /* ItemType - MissileWeapon */
      , (2881089068,   9,    4194304) /* ValidLocations - MissileWeapon */
      , (2881089068,  16,          1) /* ItemUseable - No */
      , (2881089068,  19,      40896) /* Value */
-     , (2881089068,  51,          2) /* CombatUse - Missle */
+     , (2881089068,  51,          2) /* CombatUse - Missile */
      , (2881089068,  65,        101) /* Placement - Resting */
      , (2881089068,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (2881089068, 131,         47) /* MaterialType - WhiteSapphire */

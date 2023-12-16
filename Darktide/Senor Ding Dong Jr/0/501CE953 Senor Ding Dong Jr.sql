@@ -13,7 +13,7 @@ VALUES (1344072019,   1,         16) /* ItemType - Creature */
      , (1344072019, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1344072019, 134,          4) /* PlayerKillerStatus - PK */
      , (1344072019, 188,          3) /* HeritageGroup - Sho */
-     , (1344072019, 261,        118) /* CharacterTitleId */
+     , (1344072019, 261,        118) /* CharacterTitleId - ServantofTheDeep */
      , (1344072019, 390,          0) /* Enlightenment */
      , (1344072019, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
@@ -49,10 +49,10 @@ VALUES (1344072019,   1,   33554433) /* Setup */
      , (1344072019, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1344072019, 1, 3332964381, 81.4895, 119.8748, 42.005, -0.2360322, 0, 0, 0.9717453) /* Location */
-/* @teleloc 0xC6A9001D [81.489500 119.874800 42.005000] -0.236032 0.000000 0.000000 0.971745 */
-     , (1344072019, 8040, 3370713130, 132.475, 40.43642, 0.004999995, -0.9432769, 0, 0, -0.332007) /* PCAPRecordedLocation */
-/* @teleloc 0xC8E9002A [132.475000 40.436420 0.005000] -0.943277 0.000000 0.000000 -0.332007 */;
+VALUES (1344072019, 1, 3332964381, 81.4895, 119.87481, 42.005, -0.23603217, 0, 0, 0.97174525) /* Location */
+/* @teleloc 0xC6A9001D [81.489502 119.874809 42.005001] -0.236032 0.000000 0.000000 0.971745 */
+     , (1344072019, 8040, 3370713130, 132.475, 40.43642, 0.004999995, -0.94327694, 0, 0, -0.33200696) /* PCAPRecordedLocation */
+/* @teleloc 0xC8E9002A [132.475006 40.436420 0.005000] -0.943277 0.000000 0.000000 -0.332007 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1344072019,  26, 1343793956) /* Monarch */

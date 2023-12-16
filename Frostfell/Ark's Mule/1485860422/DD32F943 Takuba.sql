@@ -28,8 +28,8 @@ VALUES (3711105347,   1,          1) /* ItemType - MeleeWeapon */
      , (3711105347, 158,          2) /* WieldRequirements - RawSkill */
      , (3711105347, 159,         44) /* WieldSkillType - HeavyWeapons */
      , (3711105347, 160,        370) /* WieldDifficulty */
-     , (3711105347, 172,          7) /* AppraisalLongDescDecoration */
-     , (3711105347, 176,         44) /* AppraisalItemSkill */
+     , (3711105347, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (3711105347, 176,         44) /* AppraisalItemSkill - HeavyWeapons */
      , (3711105347, 177,          2) /* GemCount */
      , (3711105347, 178,         21) /* GemType */
      , (3711105347, 188,          2) /* HeritageGroup - Gharundim */

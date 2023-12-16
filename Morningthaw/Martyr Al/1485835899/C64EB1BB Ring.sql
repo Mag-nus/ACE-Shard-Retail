@@ -18,7 +18,7 @@ VALUES (3327046075,   1,          8) /* ItemType - Jewelry */
      , (3327046075, 110,          0) /* ItemAllegianceRankLimit */
      , (3327046075, 115,          0) /* ItemSkillLevelLimit */
      , (3327046075, 131,         38) /* MaterialType - Ruby */
-     , (3327046075, 172,          7) /* AppraisalLongDescDecoration */
+     , (3327046075, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3327046075, 177,          1) /* GemCount */
      , (3327046075, 178,         15) /* GemType */
      , (3327046075, 9015,         54) /* InventoryOrder */;

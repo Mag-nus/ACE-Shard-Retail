@@ -28,8 +28,8 @@ VALUES (2156005045,   1,          1) /* ItemType - MeleeWeapon */
      , (2156005045, 158,          2) /* WieldRequirements - RawSkill */
      , (2156005045, 159,         45) /* WieldSkillType - LightWeapons */
      , (2156005045, 160,        300) /* WieldDifficulty */
-     , (2156005045, 172,          7) /* AppraisalLongDescDecoration */
-     , (2156005045, 176,         45) /* AppraisalItemSkill */
+     , (2156005045, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (2156005045, 176,         45) /* AppraisalItemSkill - LightWeapons */
      , (2156005045, 177,          3) /* GemCount */
      , (2156005045, 178,         47) /* GemType */
      , (2156005045, 188,          2) /* HeritageGroup - Gharundim */

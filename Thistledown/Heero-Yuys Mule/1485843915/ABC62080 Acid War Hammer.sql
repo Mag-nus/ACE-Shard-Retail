@@ -25,7 +25,7 @@ VALUES (2881888384,   1,          1) /* ItemType - MeleeWeapon */
      , (2881888384, 115,        218) /* ItemSkillLevelLimit */
      , (2881888384, 131,         51) /* MaterialType - Ivory */
      , (2881888384, 151,          2) /* HookType - Wall */
-     , (2881888384, 176,         45) /* AppraisalItemSkill */
+     , (2881888384, 176,         45) /* AppraisalItemSkill - LightWeapons */
      , (2881888384, 353,          3) /* WeaponType - Axe */
      , (2881888384, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (2881888384, 9015,          6) /* InventoryOrder */;

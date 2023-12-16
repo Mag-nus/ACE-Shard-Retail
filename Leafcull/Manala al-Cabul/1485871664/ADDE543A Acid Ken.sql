@@ -25,7 +25,7 @@ VALUES (2917028922,   1,          1) /* ItemType - MeleeWeapon */
      , (2917028922, 115,        210) /* ItemSkillLevelLimit */
      , (2917028922, 131,         38) /* MaterialType - Ruby */
      , (2917028922, 151,          2) /* HookType - Wall */
-     , (2917028922, 176,         44) /* AppraisalItemSkill */
+     , (2917028922, 176,         44) /* AppraisalItemSkill - HeavyWeapons */
      , (2917028922, 188,          3) /* HeritageGroup - Sho */
      , (2917028922, 353,          2) /* WeaponType - Sword */
      , (2917028922, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */

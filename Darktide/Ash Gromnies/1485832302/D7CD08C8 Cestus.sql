@@ -25,8 +25,8 @@ VALUES (3620538568,   1,          1) /* ItemType - MeleeWeapon */
      , (3620538568, 115,        179) /* ItemSkillLevelLimit */
      , (3620538568, 131,         58) /* MaterialType - Bronze */
      , (3620538568, 151,          2) /* HookType - Wall */
-     , (3620538568, 172,          7) /* AppraisalLongDescDecoration */
-     , (3620538568, 176,         45) /* AppraisalItemSkill */
+     , (3620538568, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (3620538568, 176,         45) /* AppraisalItemSkill - LightWeapons */
      , (3620538568, 177,          1) /* GemCount */
      , (3620538568, 178,         21) /* GemType */
      , (3620538568, 353,          1) /* WeaponType - Unarmed */

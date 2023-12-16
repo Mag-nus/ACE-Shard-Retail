@@ -26,7 +26,7 @@ VALUES (1343053305,   1,         16) /* ItemType - Creature */
      , (1343053305, 139,         84) /* DeathLevel */
      , (1343053305, 188,          3) /* HeritageGroup - Sho */
      , (1343053305, 199, 1455090422) /* HousePurchaseTimestamp */
-     , (1343053305, 261,          1) /* CharacterTitleId */
+     , (1343053305, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343053305, 262,         10) /* NumCharacterTitles */
      , (1343053305, 307,          5) /* DamageRating */
      , (1343053305, 308,          0) /* DamageResistRating */

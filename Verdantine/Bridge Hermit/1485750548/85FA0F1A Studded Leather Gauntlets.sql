@@ -20,8 +20,8 @@ VALUES (2247757594,   1,          2) /* ItemType - Armor */
      , (2247757594, 110,          0) /* ItemAllegianceRankLimit */
      , (2247757594, 115,        328) /* ItemSkillLevelLimit */
      , (2247757594, 131,         53) /* MaterialType - ArmoredilloHide */
-     , (2247757594, 172,          5) /* AppraisalLongDescDecoration */
-     , (2247757594, 176,          6) /* AppraisalItemSkill */
+     , (2247757594, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
+     , (2247757594, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (2247757594, 177,          2) /* GemCount */
      , (2247757594, 178,         23) /* GemType */
      , (2247757594, 9015,         50) /* InventoryOrder */;

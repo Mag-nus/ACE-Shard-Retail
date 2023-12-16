@@ -14,7 +14,7 @@ VALUES (3655171647,   1,          2) /* ItemType - Armor */
      , (3655171647, 105,          3) /* ItemWorkmanship */
      , (3655171647, 131,         63) /* MaterialType - Silver */
      , (3655171647, 171,         10) /* NumTimesTinkered */
-     , (3655171647, 172,          3) /* AppraisalLongDescDecoration */
+     , (3655171647, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (3655171647, 9015,          7) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

@@ -17,7 +17,7 @@ VALUES (2438654130,   1,      32768) /* ItemType - Caster */
      , (2438654130, 109,        105) /* ItemDifficulty */
      , (2438654130, 115,        245) /* ItemSkillLevelLimit */
      , (2438654130, 151,          2) /* HookType - Wall */
-     , (2438654130, 176,         33) /* AppraisalItemSkill */
+     , (2438654130, 176,         33) /* AppraisalItemSkill - LifeMagic */
      , (2438654130, 9015,          9) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -32,7 +32,7 @@ VALUES (2438654130,   1, False) /* Stuck */
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2438654130,   5,   -0.05) /* ManaRate */
      , (2438654130,  29,       1) /* WeaponDefense */
-     , (2438654130,  76, 0.200000002980232) /* Translucency */
+     , (2438654130,  76, 0.20000000298023224) /* Translucency */
      , (2438654130, 144,    0.05) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)

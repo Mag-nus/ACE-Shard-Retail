@@ -21,7 +21,7 @@ VALUES (3326447707,   1,          4) /* ItemType - Clothing */
      , (3326447707, 115,          0) /* ItemSkillLevelLimit */
      , (3326447707, 131,          6) /* MaterialType - Silk */
      , (3326447707, 151,          2) /* HookType - Wall */
-     , (3326447707, 172,          7) /* AppraisalLongDescDecoration */
+     , (3326447707, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3326447707, 177,          1) /* GemCount */
      , (3326447707, 178,         23) /* GemType */
      , (3326447707, 188,          2) /* HeritageGroup - Gharundim */

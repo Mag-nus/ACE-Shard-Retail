@@ -21,7 +21,7 @@ VALUES (2166189964,   1,      32768) /* ItemType - Caster */
      , (2166189964, 131,         48) /* MaterialType - YellowGarnet */
      , (2166189964, 151,          2) /* HookType - Wall */
      , (2166189964, 171,          1) /* NumTimesTinkered */
-     , (2166189964, 172,          7) /* AppraisalLongDescDecoration */
+     , (2166189964, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2166189964, 177,          2) /* GemCount */
      , (2166189964, 178,         26) /* GemType */
      , (2166189964, 179,        128) /* ImbuedEffect - ColdRending */

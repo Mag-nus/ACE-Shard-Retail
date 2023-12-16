@@ -25,7 +25,7 @@ VALUES (1342696477,   1,         16) /* ItemType - Creature */
      , (1342696477, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342696477, 139,         63) /* DeathLevel */
      , (1342696477, 188,          3) /* HeritageGroup - Sho */
-     , (1342696477, 261,        109) /* CharacterTitleId */
+     , (1342696477, 261,        109) /* CharacterTitleId - Pugilist */
      , (1342696477, 262,          1) /* NumCharacterTitles */
      , (1342696477, 307,          5) /* DamageRating */
      , (1342696477, 308,          0) /* DamageResistRating */

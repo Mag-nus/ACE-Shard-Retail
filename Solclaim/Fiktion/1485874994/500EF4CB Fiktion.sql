@@ -32,7 +32,7 @@ VALUES (1343157451,   1,         16) /* ItemType - Creature */
      , (1343157451, 233,          1) /* AugmentationCriticalDefense */
      , (1343157451, 234,          1) /* AugmentationBonusXp */
      , (1343157451, 238,          5) /* AugmentationIncreasedSpellDuration */
-     , (1343157451, 261,        112) /* CharacterTitleId */
+     , (1343157451, 261,        112) /* CharacterTitleId - RedFury */
      , (1343157451, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1343157451, 295,          1) /* AugmentationInfusedItemMagic */
      , (1343157451, 296,          1) /* AugmentationInfusedLifeMagic */

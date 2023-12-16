@@ -22,7 +22,7 @@ VALUES (3582964726,   1,          2) /* ItemType - Armor */
      , (3582964726, 115,          0) /* ItemSkillLevelLimit */
      , (3582964726, 131,         55) /* MaterialType - ReedSharkHide */
      , (3582964726, 151,          2) /* HookType - Wall */
-     , (3582964726, 172,          5) /* AppraisalLongDescDecoration */
+     , (3582964726, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (3582964726, 177,          1) /* GemCount */
      , (3582964726, 178,         31) /* GemType */;
 

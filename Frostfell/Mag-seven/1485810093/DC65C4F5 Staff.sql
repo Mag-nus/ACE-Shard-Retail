@@ -21,7 +21,7 @@ VALUES (3697657077,   1,      32768) /* ItemType - Caster */
      , (3697657077, 131,         22) /* MaterialType - FireOpal */
      , (3697657077, 151,          2) /* HookType - Wall */
      , (3697657077, 171,          4) /* NumTimesTinkered */
-     , (3697657077, 172,          7) /* AppraisalLongDescDecoration */
+     , (3697657077, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3697657077, 177,          6) /* GemCount */
      , (3697657077, 178,         41) /* GemType */
      , (3697657077, 188,          2) /* HeritageGroup - Gharundim */

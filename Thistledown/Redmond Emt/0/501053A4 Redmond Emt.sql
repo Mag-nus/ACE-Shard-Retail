@@ -19,9 +19,9 @@ VALUES (1343247268,   1, True ) /* Stuck */
      , (1343247268,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343247268, 8010, 0.599758088588715) /* PCAPRecordedVelocityX */
-     , (1343247268, 8011, 12.1862678527832) /* PCAPRecordedVelocityY */
-     , (1343247268, 8012, 4.5142183303833) /* PCAPRecordedVelocityZ */;
+VALUES (1343247268, 8010, 0.5997580885887146) /* PCAPRecordedVelocityX */
+     , (1343247268, 8011, 12.186267852783203) /* PCAPRecordedVelocityY */
+     , (1343247268, 8012, 4.514218330383301) /* PCAPRecordedVelocityZ */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343247268,   1, 'Redmond Emt') /* Name */;
@@ -39,9 +39,9 @@ VALUES (1343247268,   1,   33554433) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343247268, 1, 1925775389, 95.39734, 98.90187, 79.71296, -0.07355055, 0, 0, -0.9972915) /* Location */
-/* @teleloc 0x72C9001D [95.397340 98.901870 79.712960] -0.073551 0.000000 0.000000 -0.997292 */
-     , (1343247268, 8040, 1925709863, 113.3077, 155.0286, 165.2823, 0.9996977, 0, 0, -0.02458563) /* PCAPRecordedLocation */
-/* @teleloc 0x72C80027 [113.307700 155.028600 165.282300] 0.999698 0.000000 0.000000 -0.024586 */;
+/* @teleloc 0x72C9001D [95.397339 98.901871 79.712959] -0.073551 0.000000 0.000000 -0.997292 */
+     , (1343247268, 8040, 1925709863, 113.307686, 155.02864, 165.28227, 0.99969774, 0, 0, -0.02458563) /* PCAPRecordedLocation */
+/* @teleloc 0x72C80027 [113.307686 155.028641 165.282272] 0.999698 0.000000 0.000000 -0.024586 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343247268,  26, 1343164535) /* Monarch */

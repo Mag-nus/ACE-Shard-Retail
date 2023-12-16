@@ -26,7 +26,7 @@ VALUES (1343088240,   1,         16) /* ItemType - Creature */
      , (1343088240, 188,          4) /* HeritageGroup - Viamontian */
      , (1343088240, 199, 1446483981) /* HousePurchaseTimestamp */
      , (1343088240, 219,          1) /* AugmentationInnateEndurance */
-     , (1343088240, 261,         30) /* CharacterTitleId */
+     , (1343088240, 261,         30) /* CharacterTitleId - Bugstomper */
      , (1343088240, 262,         24) /* NumCharacterTitles */
      , (1343088240, 307,          5) /* DamageRating */
      , (1343088240, 308,          0) /* DamageResistRating */

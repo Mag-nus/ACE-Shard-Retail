@@ -14,7 +14,7 @@ VALUES (1342642800,   1,         16) /* ItemType - Creature */
      , (1342642800, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342642800, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342642800, 188,          3) /* HeritageGroup - Sho */
-     , (1342642800, 261,         57) /* CharacterTitleId */
+     , (1342642800, 261,         57) /* CharacterTitleId - GaerlanSlayer */
      , (1342642800, 307,          7) /* DamageRating */
      , (1342642800, 308,          1) /* DamageResistRating */
      , (1342642800, 390,          0) /* Enlightenment */
@@ -53,10 +53,10 @@ VALUES (1342642800,   1,   33554510) /* Setup */
      , (1342642800, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1342642800, 1, 1925775396, 101.222, 93.59801, 79.56983, -0.934282, 0, 0, -0.3565349) /* Location */
-/* @teleloc 0x72C90024 [101.222000 93.598010 79.569830] -0.934282 0.000000 0.000000 -0.356535 */
-     , (1342642800, 8040, 1925775396, 101.222, 93.59801, 79.56983, -0.934282, 0, 0, -0.3565349) /* PCAPRecordedLocation */
-/* @teleloc 0x72C90024 [101.222000 93.598010 79.569830] -0.934282 0.000000 0.000000 -0.356535 */;
+VALUES (1342642800, 1, 1925775396, 101.222046, 93.598015, 79.56983, -0.934282, 0, 0, -0.35653493) /* Location */
+/* @teleloc 0x72C90024 [101.222046 93.598015 79.569832] -0.934282 0.000000 0.000000 -0.356535 */
+     , (1342642800, 8040, 1925775396, 101.222046, 93.598015, 79.56983, -0.934282, 0, -0, -0.35653493) /* PCAPRecordedLocation */
+/* @teleloc 0x72C90024 [101.222046 93.598015 79.569832] -0.934282 0.000000 -0.000000 -0.356535 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342642800,  26, 1342499688) /* Monarch */

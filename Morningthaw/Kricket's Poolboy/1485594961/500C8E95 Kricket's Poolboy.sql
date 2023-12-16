@@ -24,7 +24,7 @@ VALUES (1343000213,   1,         16) /* ItemType - Creature */
      , (1343000213, 139,         28) /* DeathLevel */
      , (1343000213, 188,          2) /* HeritageGroup - Gharundim */
      , (1343000213, 199, 1479592783) /* HousePurchaseTimestamp */
-     , (1343000213, 261,        766) /* CharacterTitleId */
+     , (1343000213, 261,        766) /* CharacterTitleId - NoviceWanderer */
      , (1343000213, 307,          0) /* DamageRating */
      , (1343000213, 308,          0) /* DamageResistRating */
      , (1343000213, 312,          0) /* HealOverTime */

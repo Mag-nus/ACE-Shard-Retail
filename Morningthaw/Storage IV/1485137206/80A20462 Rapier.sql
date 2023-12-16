@@ -25,8 +25,8 @@ VALUES (2158101602,   1,          1) /* ItemType - MeleeWeapon */
      , (2158101602, 115,        250) /* ItemSkillLevelLimit */
      , (2158101602, 131,         62) /* MaterialType - Pyreal */
      , (2158101602, 151,          2) /* HookType - Wall */
-     , (2158101602, 172,          7) /* AppraisalLongDescDecoration */
-     , (2158101602, 176,         44) /* AppraisalItemSkill */
+     , (2158101602, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (2158101602, 176,         44) /* AppraisalItemSkill - HeavyWeapons */
      , (2158101602, 177,          5) /* GemCount */
      , (2158101602, 178,         38) /* GemType */
      , (2158101602, 353,          2) /* WeaponType - Sword */

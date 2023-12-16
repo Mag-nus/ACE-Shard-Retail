@@ -26,7 +26,7 @@ VALUES (1342340997,   1,         16) /* ItemType - Creature */
      , (1342340997, 139,         22) /* DeathLevel */
      , (1342340997, 188,          3) /* HeritageGroup - Sho */
      , (1342340997, 199, 1471419197) /* HousePurchaseTimestamp */
-     , (1342340997, 261,          3) /* CharacterTitleId */
+     , (1342340997, 261,          3) /* CharacterTitleId - Blademaster */
      , (1342340997, 307,          5) /* DamageRating */
      , (1342340997, 308,          0) /* DamageResistRating */
      , (1342340997, 312,          0) /* HealOverTime */

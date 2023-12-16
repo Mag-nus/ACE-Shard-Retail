@@ -26,7 +26,7 @@ VALUES (2155897991,   1,      32768) /* ItemType - Caster */
      , (2155897991, 160,        385) /* WieldDifficulty */
      , (2155897991, 166,        101) /* SlayerCreatureType - Anekshay */
      , (2155897991, 171,         10) /* NumTimesTinkered */
-     , (2155897991, 172,          5) /* AppraisalLongDescDecoration */
+     , (2155897991, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2155897991, 177,          2) /* GemCount */
      , (2155897991, 178,         39) /* GemType */
      , (2155897991, 179,         64) /* ImbuedEffect - AcidRending */

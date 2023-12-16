@@ -22,7 +22,7 @@ VALUES (3710964867,   1,          1) /* ItemType - MeleeWeapon */
      , (3710964867, 158,          2) /* WieldRequirements - RawSkill */
      , (3710964867, 159,         44) /* WieldSkillType - HeavyWeapons */
      , (3710964867, 160,        250) /* WieldDifficulty */
-     , (3710964867, 172,          3) /* AppraisalLongDescDecoration */
+     , (3710964867, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (3710964867, 353,          2) /* WeaponType - Sword */
      , (3710964867, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (3710964867, 9015,         19) /* InventoryOrder */;

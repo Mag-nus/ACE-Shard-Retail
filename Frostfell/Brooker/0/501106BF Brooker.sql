@@ -15,7 +15,7 @@ VALUES (1343293119,   1,         16) /* ItemType - Creature */
      , (1343293119, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343293119, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343293119, 188,          1) /* HeritageGroup - Aluvian */
-     , (1343293119, 261,        380) /* CharacterTitleId */
+     , (1343293119, 261,        380) /* CharacterTitleId - ThunderChickenSlayer */
      , (1343293119, 307,         17) /* DamageRating */
      , (1343293119, 308,          1) /* DamageResistRating */
      , (1343293119, 314,          3) /* CritDamageRating */
@@ -55,10 +55,10 @@ VALUES (1343293119,   1,   33554433) /* Setup */
      , (1343293119, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343293119, 1, 3460366343, 12.6, 152.8, 55.1, -0.5446391, 0, 0, -0.8386706) /* Location */
-/* @teleloc 0xCE410007 [12.600000 152.800000 55.100000] -0.544639 0.000000 0.000000 -0.838671 */
-     , (1343293119, 8040, 459077, 70.05561, -81.75124, 0.004999995, 0.9289953, 0, 0, -0.3700914) /* PCAPRecordedLocation */
-/* @teleloc 0x00070145 [70.055610 -81.751240 0.005000] 0.928995 0.000000 0.000000 -0.370091 */;
+VALUES (1343293119, 1, 3460366343, 12.6, 152.8, 55.1, -0.54463905, 0, 0, -0.83867055) /* Location */
+/* @teleloc 0xCE410007 [12.600000 152.800003 55.099998] -0.544639 0.000000 0.000000 -0.838671 */
+     , (1343293119, 8040, 459077, 70.05561, -81.75124, 0.004999995, 0.9289953, 0, 0, -0.37009144) /* PCAPRecordedLocation */
+/* @teleloc 0x00070145 [70.055611 -81.751244 0.005000] 0.928995 0.000000 0.000000 -0.370091 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343293119,  26, 1342972300) /* Monarch */

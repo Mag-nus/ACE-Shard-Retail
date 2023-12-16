@@ -9,7 +9,7 @@ VALUES (2156009453,   1,        256) /* ItemType - MissileWeapon */
      , (2156009453,  12,          1) /* StackSize */
      , (2156009453,  16,          1) /* ItemUseable - No */
      , (2156009453,  19,         30) /* Value */
-     , (2156009453,  51,          2) /* CombatUse - Missle */
+     , (2156009453,  51,          2) /* CombatUse - Missile */
      , (2156009453,  65,        101) /* Placement - Resting */
      , (2156009453,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (2156009453, 151,          2) /* HookType - Wall */

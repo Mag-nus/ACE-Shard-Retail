@@ -19,10 +19,10 @@ VALUES (1343956363,   1, True ) /* Stuck */
      , (1343956363,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343956363,  39, 1.20000004768372) /* DefaultScale */
-     , (1343956363, 8010, -5.84986972808838) /* PCAPRecordedVelocityX */
-     , (1343956363, 8011, 10.5583028793335) /* PCAPRecordedVelocityY */
-     , (1343956363, 8012, 8.38356590270996) /* PCAPRecordedVelocityZ */;
+VALUES (1343956363,  39, 1.2000000476837158) /* DefaultScale */
+     , (1343956363, 8010, -5.849869728088379) /* PCAPRecordedVelocityX */
+     , (1343956363, 8011, 10.558302879333496) /* PCAPRecordedVelocityY */
+     , (1343956363, 8012, 8.383565902709961) /* PCAPRecordedVelocityZ */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343956363,   1, 'Night Spirits Revenge') /* Name */;
@@ -39,10 +39,10 @@ VALUES (1343956363,   1,   33561110) /* Setup */
      , (1343956363, 8005,     104647) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Velocity, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343956363, 1, 3370713121, 98.3099, 10.54044, 0.005999982, 0.9782653, 0, 0, -0.2073573) /* Location */
-/* @teleloc 0xC8E90021 [98.309900 10.540440 0.006000] 0.978265 0.000000 0.000000 -0.207357 */
-     , (1343956363, 8040, 3370713089, 12.31594, 17.38824, 3.468204, 0.8092188, 0, 0, 0.5875075) /* PCAPRecordedLocation */
-/* @teleloc 0xC8E90001 [12.315940 17.388240 3.468204] 0.809219 0.000000 0.000000 0.587508 */;
+VALUES (1343956363, 1, 3370713121, 98.3099, 10.5404415, 0.0059999824, 0.9782653, 0, 0, -0.20735732) /* Location */
+/* @teleloc 0xC8E90021 [98.309898 10.540442 0.006000] 0.978265 0.000000 0.000000 -0.207357 */
+     , (1343956363, 8040, 3370713089, 12.315937, 17.388237, 3.4682045, 0.80921876, 0, 0, 0.5875075) /* PCAPRecordedLocation */
+/* @teleloc 0xC8E90001 [12.315937 17.388237 3.468204] 0.809219 0.000000 0.000000 0.587507 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343956363,  26, 1343971679) /* Monarch */

@@ -15,7 +15,7 @@ VALUES (2158101748,   1,          2) /* ItemType - Armor */
      , (2158101748, 105,          4) /* ItemWorkmanship */
      , (2158101748, 131,         63) /* MaterialType - Silver */
      , (2158101748, 171,          8) /* NumTimesTinkered */
-     , (2158101748, 172,          7) /* AppraisalLongDescDecoration */
+     , (2158101748, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2158101748, 177,          2) /* GemCount */
      , (2158101748, 178,         26) /* GemType */;
 

@@ -33,8 +33,8 @@ VALUES (1342259520,   1,         16) /* ItemType - Creature */
      , (1342259520, 232,          1) /* AugmentationSpellsRemainPastDeath */
      , (1342259520, 233,          1) /* AugmentationCriticalDefense */
      , (1342259520, 238,          1) /* AugmentationIncreasedSpellDuration */
-     , (1342259520, 261,        110) /* CharacterTitleId */
-     , (1342259520, 281,          1) /* Faction1Bits */
+     , (1342259520, 261,        110) /* CharacterTitleId - Queenslayer */
+     , (1342259520, 281,          1) /* Faction1Bits - CelestialHand */
      , (1342259520, 287,       1001) /* SocietyRankCelhan */
      , (1342259520, 302,          1) /* AugmentationSkilledMagic */
      , (1342259520, 307,         16) /* DamageRating */

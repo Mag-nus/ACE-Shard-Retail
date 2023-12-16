@@ -14,7 +14,7 @@ VALUES (2163902958,   1,          2) /* ItemType - Armor */
      , (2163902958,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2163902958, 105,          9) /* ItemWorkmanship */
      , (2163902958, 131,         54) /* MaterialType - GromnieHide */
-     , (2163902958, 172,          3) /* AppraisalLongDescDecoration */;
+     , (2163902958, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (2163902958,   1, False) /* Stuck */

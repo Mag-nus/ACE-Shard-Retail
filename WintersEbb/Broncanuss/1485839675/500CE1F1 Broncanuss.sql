@@ -24,7 +24,7 @@ VALUES (1343021553,   1,         16) /* ItemType - Creature */
      , (1343021553, 139,        227) /* DeathLevel */
      , (1343021553, 188,          5) /* HeritageGroup - Shadowbound */
      , (1343021553, 233,          1) /* AugmentationCriticalDefense */
-     , (1343021553, 261,          1) /* CharacterTitleId */
+     , (1343021553, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343021553, 298,          1) /* AugmentationCriticalExpertise */
      , (1343021553, 302,          1) /* AugmentationSkilledMagic */
      , (1343021553, 307,          0) /* DamageRating */

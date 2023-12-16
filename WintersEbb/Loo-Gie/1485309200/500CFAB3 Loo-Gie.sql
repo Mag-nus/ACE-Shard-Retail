@@ -17,7 +17,7 @@ VALUES (1343027891,   1,         16) /* ItemType - Creature */
      , (1343027891, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343027891, 188,          8) /* HeritageGroup - Lugian */
      , (1343027891, 230,          1) /* AugmentationIncreasedCarryingCapacity */
-     , (1343027891, 261,          1) /* CharacterTitleId */
+     , (1343027891, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343027891, 307,          0) /* DamageRating */
      , (1343027891, 308,          0) /* DamageResistRating */
      , (1343027891, 312,          0) /* HealOverTime */

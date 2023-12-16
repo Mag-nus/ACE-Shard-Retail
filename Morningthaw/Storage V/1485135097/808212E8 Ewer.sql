@@ -12,7 +12,7 @@ VALUES (2156008168,   1,        256) /* ItemType - MissileWeapon */
      , (2156008168,  45,          4) /* DamageType - Bludgeon */
      , (2156008168,  48,         47) /* WeaponSkill - MissileWeapons */
      , (2156008168,  49,         10) /* WeaponTime */
-     , (2156008168,  51,          2) /* CombatUse - Missle */
+     , (2156008168,  51,          2) /* CombatUse - Missile */
      , (2156008168,  65,        101) /* Placement - Resting */
      , (2156008168,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (2156008168, 105,          8) /* ItemWorkmanship */
@@ -24,7 +24,7 @@ VALUES (2156008168,   1,        256) /* ItemType - MissileWeapon */
      , (2156008168, 115,          0) /* ItemSkillLevelLimit */
      , (2156008168, 131,         68) /* MaterialType - Marble */
      , (2156008168, 151,          1) /* HookType - Floor */
-     , (2156008168, 172,          7) /* AppraisalLongDescDecoration */
+     , (2156008168, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2156008168, 177,          6) /* GemCount */
      , (2156008168, 178,         21) /* GemType */
      , (2156008168, 188,          1) /* HeritageGroup - Aluvian */

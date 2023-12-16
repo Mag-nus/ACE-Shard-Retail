@@ -27,8 +27,8 @@ VALUES (1343249084,   1,         16) /* ItemType - Creature */
      , (1343249084, 199, 1462481908) /* HousePurchaseTimestamp */
      , (1343249084, 231,          3) /* AugmentationLessDeathItemLoss */
      , (1343249084, 232,          1) /* AugmentationSpellsRemainPastDeath */
-     , (1343249084, 261,        448) /* CharacterTitleId */
-     , (1343249084, 281,          1) /* Faction1Bits */
+     , (1343249084, 261,        448) /* CharacterTitleId - Titan */
+     , (1343249084, 281,          1) /* Faction1Bits - CelestialHand */
      , (1343249084, 287,        135) /* SocietyRankCelhan */
      , (1343249084, 300,          1) /* AugmentationSkilledMelee */
      , (1343249084, 307,          7) /* DamageRating */

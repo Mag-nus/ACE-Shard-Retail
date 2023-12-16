@@ -21,7 +21,7 @@ VALUES (2153713523,   1,      32768) /* ItemType - Caster */
      , (2153713523, 115,          0) /* ItemSkillLevelLimit */
      , (2153713523, 131,         41) /* MaterialType - Sunstone */
      , (2153713523, 151,          2) /* HookType - Wall */
-     , (2153713523, 172,          7) /* AppraisalLongDescDecoration */
+     , (2153713523, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2153713523, 177,          6) /* GemCount */
      , (2153713523, 178,         21) /* GemType */;
 

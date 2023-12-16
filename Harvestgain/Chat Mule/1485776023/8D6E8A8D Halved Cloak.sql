@@ -18,8 +18,8 @@ VALUES (2372831885,   1,          4) /* ItemType - Clothing */
      , (2372831885, 158,          7) /* WieldRequirements - Level */
      , (2372831885, 159,          1) /* WieldSkillType - Axe */
      , (2372831885, 160,         60) /* WieldDifficulty */
-     , (2372831885, 172,          1) /* AppraisalLongDescDecoration */
-     , (2372831885, 265,         58) /* EquipmentSetId - CloakDagger */
+     , (2372831885, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (2372831885, 265,         58) /* EquipmentSetId - CloakFinesseWeapons */
      , (2372831885, 319,          2) /* ItemMaxLevel */
      , (2372831885, 320,          2) /* ItemXpStyle - ScalesWithLevel */
      , (2372831885, 352,          2) /* CloakWeaveProc */

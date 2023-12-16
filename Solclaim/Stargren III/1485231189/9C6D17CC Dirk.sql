@@ -25,8 +25,8 @@ VALUES (2624395212,   1,          1) /* ItemType - MeleeWeapon */
      , (2624395212, 115,        158) /* ItemSkillLevelLimit */
      , (2624395212, 131,         60) /* MaterialType - Gold */
      , (2624395212, 151,          2) /* HookType - Wall */
-     , (2624395212, 172,          7) /* AppraisalLongDescDecoration */
-     , (2624395212, 176,         46) /* AppraisalItemSkill */
+     , (2624395212, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (2624395212, 176,         46) /* AppraisalItemSkill - FinesseWeapons */
      , (2624395212, 177,          2) /* GemCount */
      , (2624395212, 178,         38) /* GemType */
      , (2624395212, 188,          3) /* HeritageGroup - Sho */

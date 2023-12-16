@@ -23,8 +23,8 @@ VALUES (3231189357,   1,          2) /* ItemType - Armor */
      , (3231189357, 158,          9) /* WieldRequirements - IntStat */
      , (3231189357, 159,        287) /* WieldSkillType */
      , (3231189357, 160,          1) /* WieldDifficulty */
-     , (3231189357, 172,          3) /* AppraisalLongDescDecoration */
-     , (3231189357, 176,          6) /* AppraisalItemSkill */
+     , (3231189357, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (3231189357, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (3231189357, 265,         30) /* EquipmentSetId - SocietyArmor */
      , (3231189357, 9015,         18) /* InventoryOrder */;
 

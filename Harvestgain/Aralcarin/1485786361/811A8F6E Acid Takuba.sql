@@ -23,7 +23,7 @@ VALUES (2166001518,   1,          1) /* ItemType - MeleeWeapon */
      , (2166001518, 159,         44) /* WieldSkillType - HeavyWeapons */
      , (2166001518, 160,        325) /* WieldDifficulty */
      , (2166001518, 171,          1) /* NumTimesTinkered */
-     , (2166001518, 172,          7) /* AppraisalLongDescDecoration */
+     , (2166001518, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2166001518, 177,          6) /* GemCount */
      , (2166001518, 178,         48) /* GemType */
      , (2166001518, 179,         64) /* ImbuedEffect - AcidRending */

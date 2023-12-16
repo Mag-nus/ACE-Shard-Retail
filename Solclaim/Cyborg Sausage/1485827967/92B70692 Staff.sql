@@ -25,7 +25,7 @@ VALUES (2461468306,   1,      32768) /* ItemType - Caster */
      , (2461468306, 160,        180) /* WieldDifficulty */
      , (2461468306, 166,        101) /* SlayerCreatureType - Anekshay */
      , (2461468306, 171,         10) /* NumTimesTinkered */
-     , (2461468306, 172,          5) /* AppraisalLongDescDecoration */
+     , (2461468306, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2461468306, 177,          8) /* GemCount */
      , (2461468306, 178,         26) /* GemType */
      , (2461468306, 9015,          2) /* InventoryOrder */;

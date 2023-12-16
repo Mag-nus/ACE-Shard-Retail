@@ -30,11 +30,11 @@ VALUES (2176910940,   1, False) /* Stuck */
      , (2176910940,  69, True ) /* IsSellable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2176910940,   5, -0.0500000007450581) /* ManaRate */
-     , (2176910940,  29, 1.40000005066395) /* WeaponDefense */
+VALUES (2176910940,   5, -0.05000000074505806) /* ManaRate */
+     , (2176910940,  29, 1.400000050663948) /* WeaponDefense */
      , (2176910940,  39,     1.5) /* DefaultScale */
-     , (2176910940, 144, 1.93596638573513E-314) /* ManaConversionMod */
-     , (2176910940, 152, 1.07000000029802) /* ElementalDamageMod */;
+     , (2176910940, 144, 1.9359663857E-314) /* ManaConversionMod */
+     , (2176910940, 152, 1.0700000002980232) /* ElementalDamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2176910940,   1, 'Utterly Flawless Lense') /* Name */

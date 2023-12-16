@@ -18,8 +18,8 @@ VALUES (2151523991,   1,          4) /* ItemType - Clothing */
      , (2151523991, 158,          7) /* WieldRequirements - Level */
      , (2151523991, 159,          1) /* WieldSkillType - Axe */
      , (2151523991, 160,        150) /* WieldDifficulty */
-     , (2151523991, 172,          1) /* AppraisalLongDescDecoration */
-     , (2151523991, 265,         53) /* EquipmentSetId - CloakAxe */
+     , (2151523991, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (2151523991, 265,         53) /* EquipmentSetId - CloakLightWeapons */
      , (2151523991, 319,          5) /* ItemMaxLevel */
      , (2151523991, 320,          2) /* ItemXpStyle - ScalesWithLevel */
      , (2151523991, 352,          1) /* CloakWeaveProc */

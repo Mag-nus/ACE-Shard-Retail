@@ -42,8 +42,8 @@ VALUES (1344013931,   1,         16) /* ItemType - Creature */
      , (1344013931, 244,          0) /* AugmentationResistanceFire */
      , (1344013931, 245,          0) /* AugmentationResistanceFrost */
      , (1344013931, 246,          0) /* AugmentationResistanceLightning */
-     , (1344013931, 261,         60) /* CharacterTitleId */
-     , (1344013931, 281,          4) /* Faction1Bits */
+     , (1344013931, 261,         60) /* CharacterTitleId - GlendenWoodMilitia */
+     , (1344013931, 281,          4) /* Faction1Bits - RadiantBlood */
      , (1344013931, 289,        215) /* SocietyRankRadblo */
      , (1344013931, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1344013931, 295,          1) /* AugmentationInfusedItemMagic */

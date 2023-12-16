@@ -21,7 +21,7 @@ VALUES (2904491316,   1,          4) /* ItemType - Clothing */
      , (2904491316, 115,          0) /* ItemSkillLevelLimit */
      , (2904491316, 131,         53) /* MaterialType - ArmoredilloHide */
      , (2904491316, 171,          5) /* NumTimesTinkered */
-     , (2904491316, 172,          1) /* AppraisalLongDescDecoration */
+     , (2904491316, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (2904491316, 9015,         22) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

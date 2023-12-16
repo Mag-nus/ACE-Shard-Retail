@@ -22,7 +22,7 @@ VALUES (2368871116,   1,          1) /* ItemType - MeleeWeapon */
      , (2368871116, 109,        140) /* ItemDifficulty */
      , (2368871116, 115,        250) /* ItemSkillLevelLimit */
      , (2368871116, 151,          2) /* HookType - Wall */
-     , (2368871116, 176,         46) /* AppraisalItemSkill */
+     , (2368871116, 176,         46) /* AppraisalItemSkill - FinesseWeapons */
      , (2368871116, 353,          3) /* WeaponType - Axe */
      , (2368871116, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (2368871116, 9015,         81) /* InventoryOrder */;

@@ -27,7 +27,7 @@ VALUES (1342480205,   1,         16) /* ItemType - Creature */
      , (1342480205, 181,       1541) /* ChessRank */
      , (1342480205, 188,          2) /* HeritageGroup - Gharundim */
      , (1342480205, 199,          0) /* HousePurchaseTimestamp */
-     , (1342480205, 261,         29) /* CharacterTitleId */
+     , (1342480205, 261,         29) /* CharacterTitleId - BugButcher */
      , (1342480205, 262,         15) /* NumCharacterTitles */
      , (1342480205, 307,          5) /* DamageRating */
      , (1342480205, 308,          3) /* DamageResistRating */

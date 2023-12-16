@@ -20,7 +20,7 @@ VALUES (2624403939,   1,          2) /* ItemType - Armor */
      , (2624403939, 110,          0) /* ItemAllegianceRankLimit */
      , (2624403939, 115,          0) /* ItemSkillLevelLimit */
      , (2624403939, 131,         59) /* MaterialType - Copper */
-     , (2624403939, 172,          3) /* AppraisalLongDescDecoration */
+     , (2624403939, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2624403939, 188,          2) /* HeritageGroup - Gharundim */
      , (2624403939, 9015,         61) /* InventoryOrder */;
 

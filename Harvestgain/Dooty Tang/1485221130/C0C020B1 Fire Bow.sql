@@ -9,7 +9,7 @@ VALUES (3233816753,   1,        256) /* ItemType - MissileWeapon */
      , (3233816753,  18,         32) /* UiEffects - Fire */
      , (3233816753,  19,       5011) /* Value */
      , (3233816753,  50,          1) /* AmmoType - Arrow */
-     , (3233816753,  51,          2) /* CombatUse - Missle */
+     , (3233816753,  51,          2) /* CombatUse - Missile */
      , (3233816753,  65,        101) /* Placement - Resting */
      , (3233816753,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3233816753, 131,         73) /* MaterialType - Ebony */

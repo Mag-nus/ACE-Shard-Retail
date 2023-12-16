@@ -16,7 +16,7 @@ VALUES (2962430652,   1,      32768) /* ItemType - Caster */
      , (2962430652, 108,       2000) /* ItemMaxMana */
      , (2962430652, 115,        250) /* ItemSkillLevelLimit */
      , (2962430652, 151,          2) /* HookType - Wall */
-     , (2962430652, 176,         33) /* AppraisalItemSkill */
+     , (2962430652, 176,         33) /* AppraisalItemSkill - LifeMagic */
      , (2962430652, 9015,          7) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -30,9 +30,9 @@ VALUES (2962430652,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2962430652,   5,   -0.05) /* ManaRate */
-     , (2962430652,  29, 1.17000000178814) /* WeaponDefense */
-     , (2962430652, 144, 2.48817993263818E-314) /* ManaConversionMod */
-     , (2962430652, 152, 1.07000000029802) /* ElementalDamageMod */;
+     , (2962430652,  29, 1.1700000017881393) /* WeaponDefense */
+     , (2962430652, 144, 2.4881799326E-314) /* ManaConversionMod */
+     , (2962430652, 152, 1.0700000002980232) /* ElementalDamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2962430652,   1, 'Dark Sorcerer''s Phylactery') /* Name */

@@ -23,8 +23,8 @@ VALUES (3710964814,   1,          2) /* ItemType - Armor */
      , (3710964814, 131,         64) /* MaterialType - Steel */
      , (3710964814, 151,          2) /* HookType - Wall */
      , (3710964814, 171,          8) /* NumTimesTinkered */
-     , (3710964814, 172,          7) /* AppraisalLongDescDecoration */
-     , (3710964814, 176,          6) /* AppraisalItemSkill */
+     , (3710964814, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (3710964814, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (3710964814, 177,          2) /* GemCount */
      , (3710964814, 178,         38) /* GemType */
      , (3710964814, 188,          1) /* HeritageGroup - Aluvian */;

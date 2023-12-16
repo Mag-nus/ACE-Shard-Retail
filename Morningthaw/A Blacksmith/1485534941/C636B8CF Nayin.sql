@@ -8,7 +8,7 @@ VALUES (3325475023,   1,        256) /* ItemType - MissileWeapon */
      , (3325475023,  16,          1) /* ItemUseable - No */
      , (3325475023,  19,      12321) /* Value */
      , (3325475023,  50,          1) /* AmmoType - Arrow */
-     , (3325475023,  51,          2) /* CombatUse - Missle */
+     , (3325475023,  51,          2) /* CombatUse - Missile */
      , (3325475023,  65,        101) /* Placement - Resting */
      , (3325475023,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3325475023, 131,         49) /* MaterialType - YellowTopaz */

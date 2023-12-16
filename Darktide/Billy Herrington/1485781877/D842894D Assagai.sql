@@ -25,8 +25,8 @@ VALUES (3628239181,   1,          1) /* ItemType - MeleeWeapon */
      , (3628239181, 115,         71) /* ItemSkillLevelLimit */
      , (3628239181, 131,         59) /* MaterialType - Copper */
      , (3628239181, 151,          2) /* HookType - Wall */
-     , (3628239181, 172,          1) /* AppraisalLongDescDecoration */
-     , (3628239181, 176,         41) /* AppraisalItemSkill */
+     , (3628239181, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (3628239181, 176,         41) /* AppraisalItemSkill - TwoHandedCombat */
      , (3628239181, 353,         11) /* WeaponType - TwoHanded */
      , (3628239181, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */;
 

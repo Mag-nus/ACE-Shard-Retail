@@ -21,7 +21,7 @@ VALUES (2868903438,   1,          4) /* ItemType - Clothing */
      , (2868903438, 110,          0) /* ItemAllegianceRankLimit */
      , (2868903438, 115,          0) /* ItemSkillLevelLimit */
      , (2868903438, 131,         55) /* MaterialType - ReedSharkHide */
-     , (2868903438, 172,          7) /* AppraisalLongDescDecoration */
+     , (2868903438, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2868903438, 177,          2) /* GemCount */
      , (2868903438, 178,         16) /* GemType */;
 

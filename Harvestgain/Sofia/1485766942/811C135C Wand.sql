@@ -21,7 +21,7 @@ VALUES (2166100828,   1,      32768) /* ItemType - Caster */
      , (2166100828, 131,         45) /* MaterialType - WhiteJade */
      , (2166100828, 151,          2) /* HookType - Wall */
      , (2166100828, 171,          1) /* NumTimesTinkered */
-     , (2166100828, 172,          3) /* AppraisalLongDescDecoration */
+     , (2166100828, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2166100828, 179,          1) /* ImbuedEffect - CriticalStrike */
      , (2166100828, 9015,          6) /* InventoryOrder */;
 

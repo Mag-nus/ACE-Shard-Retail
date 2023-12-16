@@ -25,8 +25,8 @@ VALUES (2155792548,   1,          1) /* ItemType - MeleeWeapon */
      , (2155792548, 115,         68) /* ItemSkillLevelLimit */
      , (2155792548, 131,         63) /* MaterialType - Silver */
      , (2155792548, 151,          2) /* HookType - Wall */
-     , (2155792548, 172,          1) /* AppraisalLongDescDecoration */
-     , (2155792548, 176,         44) /* AppraisalItemSkill */
+     , (2155792548, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (2155792548, 176,         44) /* AppraisalItemSkill - HeavyWeapons */
      , (2155792548, 353,          4) /* WeaponType - Mace */
      , (2155792548, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (2155792548, 9015,          8) /* InventoryOrder */;

@@ -7,7 +7,7 @@ VALUES (2156549259,   1,        256) /* ItemType - MissileWeapon */
      , (2156549259,   9,    4194304) /* ValidLocations - MissileWeapon */
      , (2156549259,  16,          1) /* ItemUseable - No */
      , (2156549259,  19,       1065) /* Value */
-     , (2156549259,  51,          2) /* CombatUse - Missle */
+     , (2156549259,  51,          2) /* CombatUse - Missile */
      , (2156549259,  65,        101) /* Placement - Resting */
      , (2156549259,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (2156549259, 131,         15) /* MaterialType - BlackGarnet */

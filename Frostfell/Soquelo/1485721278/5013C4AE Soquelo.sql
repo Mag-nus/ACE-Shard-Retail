@@ -25,7 +25,7 @@ VALUES (1343472814,   1,         16) /* ItemType - Creature */
      , (1343472814, 139,         98) /* DeathLevel */
      , (1343472814, 188,          2) /* HeritageGroup - Gharundim */
      , (1343472814, 199, 1485055650) /* HousePurchaseTimestamp */
-     , (1343472814, 261,        445) /* CharacterTitleId */
+     , (1343472814, 261,        445) /* CharacterTitleId - MasterofthePorcelainAltar */
      , (1343472814, 307,          5) /* DamageRating */
      , (1343472814, 308,          0) /* DamageResistRating */
      , (1343472814, 312,          0) /* HealOverTime */

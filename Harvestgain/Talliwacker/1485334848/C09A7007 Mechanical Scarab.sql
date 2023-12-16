@@ -20,7 +20,7 @@ VALUES (3231346695,   1,          8) /* ItemType - Jewelry */
      , (3231346695, 115,          0) /* ItemSkillLevelLimit */
      , (3231346695, 131,         21) /* MaterialType - Emerald */
      , (3231346695, 171,          2) /* NumTimesTinkered */
-     , (3231346695, 172,          7) /* AppraisalLongDescDecoration */
+     , (3231346695, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3231346695, 177,          2) /* GemCount */
      , (3231346695, 178,         39) /* GemType */
      , (3231346695, 303,       8192) /* ImbuedEffect2 - Spellbook */

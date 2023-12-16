@@ -25,8 +25,8 @@ VALUES (3356664168,   1,          2) /* ItemType - Armor */
      , (3356664168, 159,          1) /* WieldSkillType - Axe */
      , (3356664168, 160,        150) /* WieldDifficulty */
      , (3356664168, 171,          1) /* NumTimesTinkered */
-     , (3356664168, 172,          5) /* AppraisalLongDescDecoration */
-     , (3356664168, 176,          6) /* AppraisalItemSkill */
+     , (3356664168, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
+     , (3356664168, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (3356664168, 177,          2) /* GemCount */
      , (3356664168, 178,         13) /* GemType */
      , (3356664168, 265,         28) /* EquipmentSetId - Coldproof */;

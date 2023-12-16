@@ -16,7 +16,7 @@ VALUES (1344164310,   1,         16) /* ItemType - Creature */
      , (1344164310, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1344164310, 134,          2) /* PlayerKillerStatus - NPK */
      , (1344164310, 188,          3) /* HeritageGroup - Sho */
-     , (1344164310, 261,         69) /* CharacterTitleId */
+     , (1344164310, 261,         69) /* CharacterTitleId - HeroofSilyun */
      , (1344164310, 262,         28) /* NumCharacterTitles */
      , (1344164310, 390,          0) /* Enlightenment */
      , (1344164310, 8007,          0) /* PCAPRecordedAutonomousMovement */;
@@ -55,9 +55,9 @@ VALUES (1344164310,   1,   33554510) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1344164310, 1, 3081633828, 96.3416, 78.1671, 110, 0.999889, 0, 0, -0.0148858) /* Location */
-/* @teleloc 0xB7AE0024 [96.341600 78.167100 110.000000] 0.999889 0.000000 0.000000 -0.014886 */
-     , (1344164310, 8040, 3332964380, 77.84291, 79.46126, 42.005, 0.915203, 0, 0, -0.402993) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001C [77.842910 79.461260 42.005000] 0.915203 0.000000 0.000000 -0.402993 */;
+/* @teleloc 0xB7AE0024 [96.341599 78.167099 110.000000] 0.999889 0.000000 0.000000 -0.014886 */
+     , (1344164310, 8040, 3332964380, 77.84291, 79.46126, 42.005, 0.91520303, 0, 0, -0.402993) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A9001C [77.842911 79.461258 42.005001] 0.915203 0.000000 0.000000 -0.402993 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1344164310,  26, 1343793956) /* Monarch */

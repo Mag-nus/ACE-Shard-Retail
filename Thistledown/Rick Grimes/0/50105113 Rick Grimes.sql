@@ -19,9 +19,9 @@ VALUES (1343246611,   1, True ) /* Stuck */
      , (1343246611,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343246611, 8010, -0.599762141704559) /* PCAPRecordedVelocityX */
-     , (1343246611, 8011, 12.2892951965332) /* PCAPRecordedVelocityY */
-     , (1343246611, 8012, -0.277259707450867) /* PCAPRecordedVelocityZ */;
+VALUES (1343246611, 8010, -0.5997621417045593) /* PCAPRecordedVelocityX */
+     , (1343246611, 8011, 12.289295196533203) /* PCAPRecordedVelocityY */
+     , (1343246611, 8012, -0.2772597074508667) /* PCAPRecordedVelocityZ */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343246611,   1, 'Rick Grimes') /* Name */;
@@ -38,10 +38,10 @@ VALUES (1343246611,   1,   33554433) /* Setup */
      , (1343246611, 8005,     104519) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Velocity, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343246611, 1, 1925775397, 96.49525, 99.67958, 79.6571, -0.1652441, 0, 0, -0.9862527) /* Location */
-/* @teleloc 0x72C90025 [96.495250 99.679580 79.657100] -0.165244 0.000000 0.000000 -0.986253 */
-     , (1343246611, 8040, 1925709864, 113.1497, 168.0393, 165.2157, 0.9997028, 0, 0, 0.02438005) /* PCAPRecordedLocation */
-/* @teleloc 0x72C80028 [113.149700 168.039300 165.215700] 0.999703 0.000000 0.000000 0.024380 */;
+VALUES (1343246611, 1, 1925775397, 96.495255, 99.67958, 79.6571, -0.16524413, 0, 0, -0.98625267) /* Location */
+/* @teleloc 0x72C90025 [96.495255 99.679581 79.657097] -0.165244 0.000000 0.000000 -0.986253 */
+     , (1343246611, 8040, 1925709864, 113.14966, 168.03928, 165.21573, 0.99970275, 0, 0, 0.02438005) /* PCAPRecordedLocation */
+/* @teleloc 0x72C80028 [113.149658 168.039276 165.215729] 0.999703 0.000000 0.000000 0.024380 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343246611,  26, 1343164535) /* Monarch */

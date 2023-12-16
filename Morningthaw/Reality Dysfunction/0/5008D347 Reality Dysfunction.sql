@@ -18,7 +18,7 @@ VALUES (1342755655,   1,         16) /* ItemType - Creature */
      , (1342755655, 181,       1533) /* ChessRank */
      , (1342755655, 188,          1) /* HeritageGroup - Aluvian */
      , (1342755655, 192,        548) /* FakeFishingSkill */
-     , (1342755655, 261,        444) /* CharacterTitleId */
+     , (1342755655, 261,        444) /* CharacterTitleId - UlgrimsDrinkingBuddy */
      , (1342755655, 262,         49) /* NumCharacterTitles */
      , (1342755655, 390,          0) /* Enlightenment */
      , (1342755655, 8007,          0) /* PCAPRecordedAutonomousMovement */;
@@ -56,10 +56,10 @@ VALUES (1342755655,   1,   33554433) /* Setup */
      , (1342755655, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1342755655, 1, 19202318, 32.18074, -34.41396, 2.726764, -0.9974006, 0, 0, -0.0720557) /* Location */
+VALUES (1342755655, 1, 19202318, 32.18074, -34.41396, 2.7267637, -0.9974006, 0, 0, -0.0720557) /* Location */
 /* @teleloc 0x0125010E [32.180740 -34.413960 2.726764] -0.997401 0.000000 0.000000 -0.072056 */
-     , (1342755655, 8040, 19202318, 31.01294, -32.6922, 1.847456, 0.9988902, 0, 0, 0.04710052) /* PCAPRecordedLocation */
-/* @teleloc 0x0125010E [31.012940 -32.692200 1.847456] 0.998890 0.000000 0.000000 0.047101 */;
+     , (1342755655, 8040, 19202318, 31.012938, -32.692204, 1.8474559, 0.99889016, 0, 0, 0.047100518) /* PCAPRecordedLocation */
+/* @teleloc 0x0125010E [31.012938 -32.692204 1.847456] 0.998890 0.000000 0.000000 0.047101 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342755655,  26, 1343082018) /* Monarch */

@@ -26,7 +26,7 @@ VALUES (2924319523,   1,          1) /* ItemType - MeleeWeapon */
      , (2924319523, 159,         46) /* WieldSkillType - FinesseWeapons */
      , (2924319523, 160,        400) /* WieldDifficulty */
      , (2924319523, 166,          1) /* SlayerCreatureType - Olthoi */
-     , (2924319523, 263,          2) /* ResistanceModifierType */
+     , (2924319523, 263,          2) /* ResistanceModifierType - Pierce */
      , (2924319523, 353,          5) /* WeaponType - Spear */
      , (2924319523, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (2924319523, 9015,         14) /* InventoryOrder */;

@@ -24,8 +24,8 @@ VALUES (3061343995,   1,          2) /* ItemType - Armor */
      , (3061343995, 158,          2) /* WieldRequirements - RawSkill */
      , (3061343995, 159,         15) /* WieldSkillType - MagicDefense */
      , (3061343995, 160,        300) /* WieldDifficulty */
-     , (3061343995, 172,          5) /* AppraisalLongDescDecoration */
-     , (3061343995, 176,          7) /* AppraisalItemSkill */
+     , (3061343995, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
+     , (3061343995, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (3061343995, 177,          2) /* GemCount */
      , (3061343995, 178,         20) /* GemType */
      , (3061343995, 270,          7) /* WieldRequirements2 - Level */

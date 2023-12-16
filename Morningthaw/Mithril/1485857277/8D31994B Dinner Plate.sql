@@ -12,7 +12,7 @@ VALUES (2368837963,   1,        256) /* ItemType - MissileWeapon */
      , (2368837963,  45,          1) /* DamageType - Slash */
      , (2368837963,  48,         47) /* WeaponSkill - MissileWeapons */
      , (2368837963,  49,         10) /* WeaponTime */
-     , (2368837963,  51,          2) /* CombatUse - Missle */
+     , (2368837963,  51,          2) /* CombatUse - Missile */
      , (2368837963,  65,        101) /* Placement - Resting */
      , (2368837963,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (2368837963, 105,          9) /* ItemWorkmanship */
@@ -24,7 +24,7 @@ VALUES (2368837963,   1,        256) /* ItemType - MissileWeapon */
      , (2368837963, 115,          0) /* ItemSkillLevelLimit */
      , (2368837963, 131,          2) /* MaterialType - Porcelain */
      , (2368837963, 151,          2) /* HookType - Wall */
-     , (2368837963, 172,          7) /* AppraisalLongDescDecoration */
+     , (2368837963, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2368837963, 177,          4) /* GemCount */
      , (2368837963, 178,         38) /* GemType */
      , (2368837963, 353,         10) /* WeaponType - Thrown */

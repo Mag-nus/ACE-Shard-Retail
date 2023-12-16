@@ -8,7 +8,7 @@ VALUES (3261434827,   1,        256) /* ItemType - MissileWeapon */
      , (3261434827,  16,          1) /* ItemUseable - No */
      , (3261434827,  18,          1) /* UiEffects - Magical */
      , (3261434827,  19,       3594) /* Value */
-     , (3261434827,  51,          2) /* CombatUse - Missle */
+     , (3261434827,  51,          2) /* CombatUse - Missile */
      , (3261434827,  65,        101) /* Placement - Resting */
      , (3261434827,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (3261434827, 131,         69) /* MaterialType - Obsidian */

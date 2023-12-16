@@ -9,7 +9,7 @@ VALUES (3416243333,   1,        256) /* ItemType - MissileWeapon */
      , (3416243333,  18,          1) /* UiEffects - Magical */
      , (3416243333,  19,       1500) /* Value */
      , (3416243333,  50,          2) /* AmmoType - Bolt */
-     , (3416243333,  51,          2) /* CombatUse - Missle */
+     , (3416243333,  51,          2) /* CombatUse - Missile */
      , (3416243333,  65,        101) /* Placement - Resting */
      , (3416243333,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3416243333, 151,          2) /* HookType - Wall */

@@ -23,7 +23,7 @@ VALUES (3709185757,   1,          2) /* ItemType - Armor */
      , (3709185757, 158,          7) /* WieldRequirements - Level */
      , (3709185757, 159,          1) /* WieldSkillType - Axe */
      , (3709185757, 160,        180) /* WieldDifficulty */
-     , (3709185757, 172,          3) /* AppraisalLongDescDecoration */
+     , (3709185757, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (3709185757, 265,         21) /* EquipmentSetId - Wise */
      , (3709185757, 9015,          1) /* InventoryOrder */;
 

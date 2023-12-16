@@ -26,7 +26,7 @@ VALUES (1342441436,   1,         16) /* ItemType - Creature */
      , (1342441436, 188,          3) /* HeritageGroup - Sho */
      , (1342441436, 192,        700) /* FakeFishingSkill */
      , (1342441436, 199, 1461543802) /* HousePurchaseTimestamp */
-     , (1342441436, 261,         94) /* CharacterTitleId */
+     , (1342441436, 261,         94) /* CharacterTitleId - MoraleSmasher */
      , (1342441436, 307,          0) /* DamageRating */
      , (1342441436, 308,          0) /* DamageResistRating */
      , (1342441436, 312,          0) /* HealOverTime */

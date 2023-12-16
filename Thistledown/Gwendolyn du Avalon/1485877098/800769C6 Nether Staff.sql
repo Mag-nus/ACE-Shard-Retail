@@ -26,7 +26,7 @@ VALUES (2147969478,   1,      32768) /* ItemType - Caster */
      , (2147969478, 160,        375) /* WieldDifficulty */
      , (2147969478, 166,         30) /* SlayerCreatureType - Skeleton */
      , (2147969478, 171,          8) /* NumTimesTinkered */
-     , (2147969478, 172,          7) /* AppraisalLongDescDecoration */
+     , (2147969478, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2147969478, 177,          4) /* GemCount */
      , (2147969478, 178,         38) /* GemType */
      , (2147969478, 179,          1) /* ImbuedEffect - CriticalStrike */

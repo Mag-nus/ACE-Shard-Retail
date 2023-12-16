@@ -19,7 +19,7 @@ VALUES (1343467627,   1, True ) /* Stuck */
      , (1343467627,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343467627,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1343467627,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343467627,   1, 'Enkazin Asha''man') /* Name */;
@@ -36,10 +36,10 @@ VALUES (1343467627,   1,   33561110) /* Setup */
      , (1343467627, 8005,     104643) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343467627, 1, 1068761099, 25.0025, 53.5667, -3.72529E-09, -0.997246, 0, 0, 0.0741677) /* Location */
-/* @teleloc 0x3FB4000B [25.002500 53.566700 0.000000] -0.997246 0.000000 0.000000 0.074168 */
-     , (1343467627, 8040, 3550085166, 123.8106, 123.8592, 20.3195, -0.9093592, 0, 0, 0.4160118) /* PCAPRecordedLocation */
-/* @teleloc 0xD39A002E [123.810600 123.859200 20.319500] -0.909359 0.000000 0.000000 0.416012 */;
+VALUES (1343467627, 1, 1068761099, 25.0025, 53.5667, -3.7252903E-09, -0.997246, 0, 0, 0.0741677) /* Location */
+/* @teleloc 0x3FB4000B [25.002501 53.566700 -0.000000] -0.997246 0.000000 0.000000 0.074168 */
+     , (1343467627, 8040, 3550085166, 123.810585, 123.85921, 20.319496, -0.9093592, 0, 0, 0.41601178) /* PCAPRecordedLocation */
+/* @teleloc 0xD39A002E [123.810585 123.859207 20.319496] -0.909359 0.000000 0.000000 0.416012 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343467627,  26, 1342200341) /* Monarch */

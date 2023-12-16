@@ -12,7 +12,7 @@ VALUES (2166168416,   1,          4) /* ItemType - Clothing */
      , (2166168416,  28,          0) /* ArmorLevel */
      , (2166168416,  65,        101) /* Placement - Resting */
      , (2166168416,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
-     , (2166168416, 324,          6) /* HeritageSpecificArmor */;
+     , (2166168416, 324,          6) /* HeritageSpecificArmor - Gearknight */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (2166168416,   1, False) /* Stuck */

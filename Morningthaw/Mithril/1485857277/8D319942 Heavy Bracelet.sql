@@ -18,7 +18,7 @@ VALUES (2368837954,   1,          8) /* ItemType - Jewelry */
      , (2368837954, 110,          0) /* ItemAllegianceRankLimit */
      , (2368837954, 115,          0) /* ItemSkillLevelLimit */
      , (2368837954, 131,         39) /* MaterialType - Sapphire */
-     , (2368837954, 172,          7) /* AppraisalLongDescDecoration */
+     , (2368837954, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2368837954, 177,          4) /* GemCount */
      , (2368837954, 178,         34) /* GemType */
      , (2368837954, 9015,         15) /* InventoryOrder */;

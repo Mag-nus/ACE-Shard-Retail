@@ -25,8 +25,8 @@ VALUES (3326955574,   1,          1) /* ItemType - MeleeWeapon */
      , (3326955574, 115,        202) /* ItemSkillLevelLimit */
      , (3326955574, 131,         63) /* MaterialType - Silver */
      , (3326955574, 151,          2) /* HookType - Wall */
-     , (3326955574, 172,          3) /* AppraisalLongDescDecoration */
-     , (3326955574, 176,         45) /* AppraisalItemSkill */
+     , (3326955574, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (3326955574, 176,         45) /* AppraisalItemSkill - LightWeapons */
      , (3326955574, 353,          1) /* WeaponType - Unarmed */
      , (3326955574, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (3326955574, 9015,         85) /* InventoryOrder */;

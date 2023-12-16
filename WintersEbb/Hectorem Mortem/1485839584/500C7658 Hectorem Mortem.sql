@@ -21,7 +21,7 @@ VALUES (1342994008,   1,         16) /* ItemType - Creature */
      , (1342994008, 188,         11) /* HeritageGroup - Undead */
      , (1342994008, 199, 1461210587) /* HousePurchaseTimestamp */
      , (1342994008, 233,          1) /* AugmentationCriticalDefense */
-     , (1342994008, 261,         11) /* CharacterTitleId */
+     , (1342994008, 261,         11) /* CharacterTitleId - Soldier */
      , (1342994008, 307,          0) /* DamageRating */
      , (1342994008, 308,          0) /* DamageResistRating */
      , (1342994008, 312,          0) /* HealOverTime */

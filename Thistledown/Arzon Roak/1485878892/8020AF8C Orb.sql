@@ -22,7 +22,7 @@ VALUES (2149625740,   1,      32768) /* ItemType - Caster */
      , (2149625740, 131,         51) /* MaterialType - Ivory */
      , (2149625740, 151,          2) /* HookType - Wall */
      , (2149625740, 171,          1) /* NumTimesTinkered */
-     , (2149625740, 172,          7) /* AppraisalLongDescDecoration */
+     , (2149625740, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2149625740, 177,          8) /* GemCount */
      , (2149625740, 178,         22) /* GemType */
      , (2149625740, 179,         32) /* ImbuedEffect - BludgeonRending */;

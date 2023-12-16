@@ -14,7 +14,7 @@ VALUES (1343493359,   1,         16) /* ItemType - Creature */
      , (1343493359, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343493359, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343493359, 188,          4) /* HeritageGroup - Viamontian */
-     , (1343493359, 261,          1) /* CharacterTitleId */
+     , (1343493359, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343493359, 307,         10) /* DamageRating */
      , (1343493359, 308,          5) /* DamageResistRating */
      , (1343493359, 390,          0) /* Enlightenment */
@@ -29,9 +29,9 @@ VALUES (1343493359,   1, True ) /* Stuck */
      , (1343493359,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343493359, 8010, 1.4946608543396) /* PCAPRecordedVelocityX */
-     , (1343493359, 8011, 10.149151802063) /* PCAPRecordedVelocityY */
-     , (1343493359, 8012, 5.37143993377686) /* PCAPRecordedVelocityZ */;
+VALUES (1343493359, 8010, 1.4946608543395996) /* PCAPRecordedVelocityX */
+     , (1343493359, 8011, 10.149151802062988) /* PCAPRecordedVelocityY */
+     , (1343493359, 8012, 5.3714399337768555) /* PCAPRecordedVelocityZ */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343493359,   1, 'Archie Summons') /* Name */
@@ -58,10 +58,10 @@ VALUES (1343493359,   1,   33554433) /* Setup */
      , (1343493359, 8005,     104455) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Velocity, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343493359, 1, 1925775397, 97.06639, 96.01944, 79.91451, 0.961657, 0, 0, 0.2742552) /* Location */
-/* @teleloc 0x72C90025 [97.066390 96.019440 79.914510] 0.961657 0.000000 0.000000 0.274255 */
-     , (1343493359, 8040, 1925709864, 118.2037, 168.0956, 164.6922, 0.9973287, 0, 0, -0.07304414) /* PCAPRecordedLocation */
-/* @teleloc 0x72C80028 [118.203700 168.095600 164.692200] 0.997329 0.000000 0.000000 -0.073044 */;
+VALUES (1343493359, 1, 1925775397, 97.06639, 96.01944, 79.91451, 0.961657, 0, 0, 0.27425516) /* Location */
+/* @teleloc 0x72C90025 [97.066391 96.019440 79.914513] 0.961657 0.000000 0.000000 0.274255 */
+     , (1343493359, 8040, 1925709864, 118.20372, 168.09555, 164.69217, 0.9973287, 0, 0, -0.07304414) /* PCAPRecordedLocation */
+/* @teleloc 0x72C80028 [118.203720 168.095551 164.692169] 0.997329 0.000000 0.000000 -0.073044 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343493359,  26, 1342972300) /* Monarch */

@@ -25,7 +25,7 @@ VALUES (2596953823,   1,          1) /* ItemType - MeleeWeapon */
      , (2596953823, 115,        171) /* ItemSkillLevelLimit */
      , (2596953823, 131,         51) /* MaterialType - Ivory */
      , (2596953823, 151,          2) /* HookType - Wall */
-     , (2596953823, 176,         45) /* AppraisalItemSkill */
+     , (2596953823, 176,         45) /* AppraisalItemSkill - LightWeapons */
      , (2596953823, 188,          3) /* HeritageGroup - Sho */
      , (2596953823, 353,          1) /* WeaponType - Unarmed */
      , (2596953823, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */

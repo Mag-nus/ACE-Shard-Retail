@@ -24,8 +24,8 @@ VALUES (2148776899,   1,          2) /* ItemType - Armor */
      , (2148776899, 159,          1) /* WieldSkillType - Axe */
      , (2148776899, 160,        180) /* WieldDifficulty */
      , (2148776899, 171,         10) /* NumTimesTinkered */
-     , (2148776899, 172,          1) /* AppraisalLongDescDecoration */
-     , (2148776899, 176,          7) /* AppraisalItemSkill */
+     , (2148776899, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (2148776899, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (2148776899, 375,          1) /* GearCritDamageResist */
      , (2148776899, 9015,         11) /* InventoryOrder */;
 

@@ -31,8 +31,8 @@ VALUES (1342754882,   1,         16) /* ItemType - Creature */
      , (1342754882, 227,          1) /* AugmentationSpecializeMagicItemTinkering */
      , (1342754882, 228,          1) /* AugmentationSpecializeWeaponTinkering */
      , (1342754882, 236,          1) /* AugmentationBonusImbueChance */
-     , (1342754882, 261,         34) /* CharacterTitleId */
-     , (1342754882, 281,          2) /* Faction1Bits */
+     , (1342754882, 261,         34) /* CharacterTitleId - ChampionofDereth */
+     , (1342754882, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1342754882, 288,         30) /* SocietyRankEldweb */
      , (1342754882, 307,          0) /* DamageRating */
      , (1342754882, 308,          0) /* DamageResistRating */

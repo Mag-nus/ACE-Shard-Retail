@@ -25,8 +25,8 @@ VALUES (2368694146,   1,          1) /* ItemType - MeleeWeapon */
      , (2368694146, 115,        129) /* ItemSkillLevelLimit */
      , (2368694146, 131,         59) /* MaterialType - Copper */
      , (2368694146, 151,          2) /* HookType - Wall */
-     , (2368694146, 172,          1) /* AppraisalLongDescDecoration */
-     , (2368694146, 176,         46) /* AppraisalItemSkill */
+     , (2368694146, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (2368694146, 176,         46) /* AppraisalItemSkill - FinesseWeapons */
      , (2368694146, 353,          2) /* WeaponType - Sword */
      , (2368694146, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (2368694146, 9015,          2) /* InventoryOrder */;

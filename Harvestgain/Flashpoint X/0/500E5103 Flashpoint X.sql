@@ -14,8 +14,8 @@ VALUES (1343115523,   1,         16) /* ItemType - Creature */
      , (1343115523, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343115523, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343115523, 188,          3) /* HeritageGroup - Sho */
-     , (1343115523, 261,        446) /* CharacterTitleId */
-     , (1343115523, 281,          1) /* Faction1Bits */
+     , (1343115523, 261,        446) /* CharacterTitleId - MasteroftheMysticalMug */
+     , (1343115523, 281,          1) /* Faction1Bits - CelestialHand */
      , (1343115523, 287,       1001) /* SocietyRankCelhan */
      , (1343115523, 307,         19) /* DamageRating */
      , (1343115523, 308,          3) /* DamageResistRating */
@@ -56,10 +56,10 @@ VALUES (1343115523,   1,   33554433) /* Setup */
      , (1343115523, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343115523, 1, 19202319, 27.16972, -37.71675, 4.482682, 0.9982952, 0, 0, -0.05836604) /* Location */
-/* @teleloc 0x0125010F [27.169720 -37.716750 4.482682] 0.998295 0.000000 0.000000 -0.058366 */
-     , (1343115523, 8040, 19202342, 30, -60, 6.005, 1, 0, 0, 0) /* PCAPRecordedLocation */
-/* @teleloc 0x01250126 [30.000000 -60.000000 6.005000] 1.000000 0.000000 0.000000 0.000000 */;
+VALUES (1343115523, 1, 19202319, 27.169716, -37.716755, 4.482682, 0.99829525, 0, 0, -0.05836604) /* Location */
+/* @teleloc 0x0125010F [27.169716 -37.716755 4.482682] 0.998295 0.000000 0.000000 -0.058366 */
+     , (1343115523, 8040, 19202342, 30, -60, 6.005, 1, 0, 0, -0) /* PCAPRecordedLocation */
+/* @teleloc 0x01250126 [30.000000 -60.000000 6.005000] 1.000000 0.000000 0.000000 -0.000000 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343115523,  26, 1342205575) /* Monarch */

@@ -18,7 +18,7 @@ VALUES (2345789267,   1,      32768) /* ItemType - Caster */
      , (2345789267, 158,          2) /* WieldRequirements - RawSkill */
      , (2345789267, 159,         34) /* WieldSkillType - WarMagic */
      , (2345789267, 160,        355) /* WieldDifficulty */
-     , (2345789267, 263,          8) /* ResistanceModifierType */
+     , (2345789267, 263,          8) /* ResistanceModifierType - Cold */
      , (2345789267, 9015,         33) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

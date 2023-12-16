@@ -22,8 +22,8 @@ VALUES (3711057697,   1,          2) /* ItemType - Armor */
      , (3711057697, 115,        207) /* ItemSkillLevelLimit */
      , (3711057697, 131,         58) /* MaterialType - Bronze */
      , (3711057697, 171,          7) /* NumTimesTinkered */
-     , (3711057697, 172,          3) /* AppraisalLongDescDecoration */
-     , (3711057697, 176,          7) /* AppraisalItemSkill */
+     , (3711057697, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (3711057697, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (3711057697, 188,          2) /* HeritageGroup - Gharundim */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

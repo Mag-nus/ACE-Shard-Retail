@@ -16,7 +16,7 @@ VALUES (2943497041,   1,          8) /* ItemType - Jewelry */
      , (2943497041, 108,        374) /* ItemMaxMana */
      , (2943497041, 109,        150) /* ItemDifficulty */
      , (2943497041, 115,        170) /* ItemSkillLevelLimit */
-     , (2943497041, 176,         31) /* AppraisalItemSkill */
+     , (2943497041, 176,         31) /* AppraisalItemSkill - CreatureEnchantment */
      , (2943497041, 9015,          3) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

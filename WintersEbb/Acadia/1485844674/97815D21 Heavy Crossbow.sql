@@ -8,7 +8,7 @@ VALUES (2541837601,   1,        256) /* ItemType - MissileWeapon */
      , (2541837601,  16,          1) /* ItemUseable - No */
      , (2541837601,  19,       6647) /* Value */
      , (2541837601,  50,          2) /* AmmoType - Bolt */
-     , (2541837601,  51,          2) /* CombatUse - Missle */
+     , (2541837601,  51,          2) /* CombatUse - Missile */
      , (2541837601,  65,        101) /* Placement - Resting */
      , (2541837601,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2541837601, 131,         62) /* MaterialType - Pyreal */

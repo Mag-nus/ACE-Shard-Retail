@@ -21,8 +21,8 @@ VALUES (2438516360,   1,          2) /* ItemType - Armor */
      , (2438516360, 110,          4) /* ItemAllegianceRankLimit */
      , (2438516360, 115,        118) /* ItemSkillLevelLimit */
      , (2438516360, 131,         59) /* MaterialType - Copper */
-     , (2438516360, 172,          3) /* AppraisalLongDescDecoration */
-     , (2438516360, 176,          6) /* AppraisalItemSkill */;
+     , (2438516360, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (2438516360, 176,          6) /* AppraisalItemSkill - MeleeDefense */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (2438516360,   1, False) /* Stuck */

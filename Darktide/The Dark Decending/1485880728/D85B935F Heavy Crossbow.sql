@@ -8,7 +8,7 @@ VALUES (3629880159,   1,        256) /* ItemType - MissileWeapon */
      , (3629880159,  16,          1) /* ItemUseable - No */
      , (3629880159,  19,       6374) /* Value */
      , (3629880159,  50,          2) /* AmmoType - Bolt */
-     , (3629880159,  51,          2) /* CombatUse - Missle */
+     , (3629880159,  51,          2) /* CombatUse - Missile */
      , (3629880159,  65,        101) /* Placement - Resting */
      , (3629880159,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3629880159, 131,         13) /* MaterialType - Aquamarine */

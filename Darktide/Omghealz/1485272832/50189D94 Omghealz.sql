@@ -22,7 +22,7 @@ VALUES (1343790484,   1,         16) /* ItemType - Creature */
      , (1343790484, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343790484, 139,          5) /* DeathLevel */
      , (1343790484, 188,          2) /* HeritageGroup - Gharundim */
-     , (1343790484, 261,         10) /* CharacterTitleId */
+     , (1343790484, 261,         10) /* CharacterTitleId - LifeCaster */
      , (1343790484, 307,          0) /* DamageRating */
      , (1343790484, 308,          0) /* DamageResistRating */
      , (1343790484, 312,          0) /* HealOverTime */

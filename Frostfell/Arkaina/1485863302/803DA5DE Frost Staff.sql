@@ -24,7 +24,7 @@ VALUES (2151523806,   1,      32768) /* ItemType - Caster */
      , (2151523806, 158,          2) /* WieldRequirements - RawSkill */
      , (2151523806, 159,         34) /* WieldSkillType - WarMagic */
      , (2151523806, 160,        385) /* WieldDifficulty */
-     , (2151523806, 172,          5) /* AppraisalLongDescDecoration */
+     , (2151523806, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2151523806, 177,          3) /* GemCount */
      , (2151523806, 178,         21) /* GemType */
      , (2151523806, 9015,         17) /* InventoryOrder */;

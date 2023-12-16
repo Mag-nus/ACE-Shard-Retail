@@ -25,7 +25,7 @@ VALUES (1343123318,   1,         16) /* ItemType - Creature */
      , (1343123318, 139,         65) /* DeathLevel */
      , (1343123318, 188,          3) /* HeritageGroup - Sho */
      , (1343123318, 199, 1217068930) /* HousePurchaseTimestamp */
-     , (1343123318, 261,         51) /* CharacterTitleId */
+     , (1343123318, 261,         51) /* CharacterTitleId - Exterminator */
      , (1343123318, 307,          0) /* DamageRating */
      , (1343123318, 308,          0) /* DamageResistRating */
      , (1343123318, 312,          0) /* HealOverTime */

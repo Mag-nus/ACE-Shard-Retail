@@ -24,7 +24,7 @@ VALUES (1343014189,   1,         16) /* ItemType - Creature */
      , (1343014189, 139,         47) /* DeathLevel */
      , (1343014189, 188,          3) /* HeritageGroup - Sho */
      , (1343014189, 199, 1274414087) /* HousePurchaseTimestamp */
-     , (1343014189, 261,         94) /* CharacterTitleId */
+     , (1343014189, 261,         94) /* CharacterTitleId - MoraleSmasher */
      , (1343014189, 307,          0) /* DamageRating */
      , (1343014189, 308,          0) /* DamageResistRating */
      , (1343014189, 312,          0) /* HealOverTime */

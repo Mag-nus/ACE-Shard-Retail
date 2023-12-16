@@ -22,7 +22,7 @@ VALUES (2620104041,   1,          8) /* ItemType - Jewelry */
      , (2620104041, 158,          7) /* WieldRequirements - Level */
      , (2620104041, 159,          1) /* WieldSkillType - Axe */
      , (2620104041, 160,        150) /* WieldDifficulty */
-     , (2620104041, 172,          7) /* AppraisalLongDescDecoration */
+     , (2620104041, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2620104041, 177,          8) /* GemCount */
      , (2620104041, 178,         16) /* GemType */;
 

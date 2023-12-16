@@ -21,7 +21,7 @@ VALUES (2157269180,   1,      32768) /* ItemType - Caster */
      , (2157269180, 131,         71) /* MaterialType - Serpentine */
      , (2157269180, 151,          2) /* HookType - Wall */
      , (2157269180, 171,          2) /* NumTimesTinkered */
-     , (2157269180, 172,          7) /* AppraisalLongDescDecoration */
+     , (2157269180, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2157269180, 177,          6) /* GemCount */
      , (2157269180, 178,         21) /* GemType */
      , (2157269180, 179,          1) /* ImbuedEffect - CriticalStrike */

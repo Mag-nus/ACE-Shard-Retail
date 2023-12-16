@@ -20,7 +20,7 @@ VALUES (2877166462,   1,      32768) /* ItemType - Caster */
      , (2877166462, 115,          0) /* ItemSkillLevelLimit */
      , (2877166462, 131,         69) /* MaterialType - Obsidian */
      , (2877166462, 151,          2) /* HookType - Wall */
-     , (2877166462, 172,          7) /* AppraisalLongDescDecoration */
+     , (2877166462, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2877166462, 177,          1) /* GemCount */
      , (2877166462, 178,         18) /* GemType */
      , (2877166462, 9015,         20) /* InventoryOrder */;

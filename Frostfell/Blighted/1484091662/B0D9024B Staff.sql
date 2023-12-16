@@ -21,7 +21,7 @@ VALUES (2967011915,   1,      32768) /* ItemType - Caster */
      , (2967011915, 115,          0) /* ItemSkillLevelLimit */
      , (2967011915, 131,         48) /* MaterialType - YellowGarnet */
      , (2967011915, 151,          2) /* HookType - Wall */
-     , (2967011915, 172,          5) /* AppraisalLongDescDecoration */
+     , (2967011915, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2967011915, 177,          5) /* GemCount */
      , (2967011915, 178,         34) /* GemType */;
 

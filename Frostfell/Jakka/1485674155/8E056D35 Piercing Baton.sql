@@ -25,7 +25,7 @@ VALUES (2382720309,   1,      32768) /* ItemType - Caster */
      , (2382720309, 159,         34) /* WieldSkillType - WarMagic */
      , (2382720309, 160,        310) /* WieldDifficulty */
      , (2382720309, 171,          1) /* NumTimesTinkered */
-     , (2382720309, 172,          5) /* AppraisalLongDescDecoration */
+     , (2382720309, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2382720309, 177,          3) /* GemCount */
      , (2382720309, 178,         41) /* GemType */
      , (2382720309, 179,         16) /* ImbuedEffect - PierceRending */

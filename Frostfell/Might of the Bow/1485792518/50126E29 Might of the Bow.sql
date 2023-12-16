@@ -26,7 +26,7 @@ VALUES (1343385129,   1,         16) /* ItemType - Creature */
      , (1343385129, 188,         11) /* HeritageGroup - Undead */
      , (1343385129, 199, 1460183024) /* HousePurchaseTimestamp */
      , (1343385129, 233,          1) /* AugmentationCriticalDefense */
-     , (1343385129, 261,          9) /* CharacterTitleId */
+     , (1343385129, 261,          9) /* CharacterTitleId - BowHunter */
      , (1343385129, 307,          0) /* DamageRating */
      , (1343385129, 308,          1) /* DamageResistRating */
      , (1343385129, 312,          0) /* HealOverTime */

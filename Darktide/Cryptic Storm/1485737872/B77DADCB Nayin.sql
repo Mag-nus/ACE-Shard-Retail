@@ -8,7 +8,7 @@ VALUES (3078467019,   1,        256) /* ItemType - MissileWeapon */
      , (3078467019,  16,          1) /* ItemUseable - No */
      , (3078467019,  19,       2298) /* Value */
      , (3078467019,  50,          1) /* AmmoType - Arrow */
-     , (3078467019,  51,          2) /* CombatUse - Missle */
+     , (3078467019,  51,          2) /* CombatUse - Missile */
      , (3078467019,  65,        101) /* Placement - Resting */
      , (3078467019,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3078467019, 131,         74) /* MaterialType - Mahogany */

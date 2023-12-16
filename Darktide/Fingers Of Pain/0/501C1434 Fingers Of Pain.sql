@@ -19,7 +19,7 @@ VALUES (1344017460,   1, True ) /* Stuck */
      , (1344017460,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1344017460,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1344017460,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1344017460,   1, 'Fingers Of Pain') /* Name */;
@@ -36,10 +36,10 @@ VALUES (1344017460,   1,   33561110) /* Setup */
      , (1344017460, 8005,     104643) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1344017460, 1, 459076, 72.6163, -69.6384, 0.397006, -0.292233, 0, 0, -0.9563472) /* Location */
-/* @teleloc 0x00070144 [72.616300 -69.638400 0.397006] -0.292233 0.000000 0.000000 -0.956347 */
-     , (1344017460, 8040, 459076, 68.47456, -68.73592, 0.397006, 0.9720951, 0, 0, -0.2345872) /* PCAPRecordedLocation */
-/* @teleloc 0x00070144 [68.474560 -68.735920 0.397006] 0.972095 0.000000 0.000000 -0.234587 */;
+VALUES (1344017460, 1, 459076, 72.6163, -69.6384, 0.39700598, -0.292233, 0, 0, -0.95634717) /* Location */
+/* @teleloc 0x00070144 [72.616302 -69.638397 0.397006] -0.292233 0.000000 0.000000 -0.956347 */
+     , (1344017460, 8040, 459076, 68.474556, -68.73592, 0.39700598, 0.9720951, 0, 0, -0.23458724) /* PCAPRecordedLocation */
+/* @teleloc 0x00070144 [68.474556 -68.735924 0.397006] 0.972095 0.000000 0.000000 -0.234587 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1344017460,  26, 1343305494) /* Monarch */

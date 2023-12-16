@@ -22,8 +22,8 @@ VALUES (2290961490,   1,          2) /* ItemType - Armor */
      , (2290961490, 115,        221) /* ItemSkillLevelLimit */
      , (2290961490, 131,         63) /* MaterialType - Silver */
      , (2290961490, 151,          2) /* HookType - Wall */
-     , (2290961490, 172,          7) /* AppraisalLongDescDecoration */
-     , (2290961490, 176,          6) /* AppraisalItemSkill */
+     , (2290961490, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (2290961490, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (2290961490, 177,          3) /* GemCount */
      , (2290961490, 178,         16) /* GemType */;
 

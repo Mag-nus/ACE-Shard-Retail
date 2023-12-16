@@ -20,7 +20,7 @@ VALUES (2152182067,   1,      32768) /* ItemType - Caster */
      , (2152182067, 115,          0) /* ItemSkillLevelLimit */
      , (2152182067, 131,         34) /* MaterialType - Peridot */
      , (2152182067, 151,          2) /* HookType - Wall */
-     , (2152182067, 172,          7) /* AppraisalLongDescDecoration */
+     , (2152182067, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2152182067, 177,          6) /* GemCount */
      , (2152182067, 178,         21) /* GemType */
      , (2152182067, 9015,         16) /* InventoryOrder */;

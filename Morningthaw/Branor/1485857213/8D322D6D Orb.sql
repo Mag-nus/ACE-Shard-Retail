@@ -20,7 +20,7 @@ VALUES (2368875885,   1,      32768) /* ItemType - Caster */
      , (2368875885, 115,          0) /* ItemSkillLevelLimit */
      , (2368875885, 131,         22) /* MaterialType - FireOpal */
      , (2368875885, 151,          2) /* HookType - Wall */
-     , (2368875885, 172,          3) /* AppraisalLongDescDecoration */
+     , (2368875885, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2368875885, 188,          3) /* HeritageGroup - Sho */
      , (2368875885, 9015,         15) /* InventoryOrder */;
 

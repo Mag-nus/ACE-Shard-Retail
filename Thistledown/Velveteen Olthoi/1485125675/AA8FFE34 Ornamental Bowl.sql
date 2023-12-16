@@ -7,7 +7,7 @@ VALUES (2861563444,   1,        256) /* ItemType - MissileWeapon */
      , (2861563444,   9,    4194304) /* ValidLocations - MissileWeapon */
      , (2861563444,  16,          1) /* ItemUseable - No */
      , (2861563444,  19,      10921) /* Value */
-     , (2861563444,  51,          2) /* CombatUse - Missle */
+     , (2861563444,  51,          2) /* CombatUse - Missile */
      , (2861563444,  65,        101) /* Placement - Resting */
      , (2861563444,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (2861563444, 131,         33) /* MaterialType - Opal */

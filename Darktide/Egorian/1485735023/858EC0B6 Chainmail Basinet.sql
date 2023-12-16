@@ -22,8 +22,8 @@ VALUES (2240725174,   1,          2) /* ItemType - Armor */
      , (2240725174, 115,         51) /* ItemSkillLevelLimit */
      , (2240725174, 131,         57) /* MaterialType - Brass */
      , (2240725174, 151,          2) /* HookType - Wall */
-     , (2240725174, 172,          3) /* AppraisalLongDescDecoration */
-     , (2240725174, 176,          7) /* AppraisalItemSkill */
+     , (2240725174, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (2240725174, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (2240725174, 188,          3) /* HeritageGroup - Sho */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

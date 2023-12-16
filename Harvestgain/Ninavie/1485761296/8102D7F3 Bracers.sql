@@ -21,7 +21,7 @@ VALUES (2164447219,   1,          2) /* ItemType - Armor */
      , (2164447219, 115,          0) /* ItemSkillLevelLimit */
      , (2164447219, 131,         52) /* MaterialType - Leather */
      , (2164447219, 171,          6) /* NumTimesTinkered */
-     , (2164447219, 172,          5) /* AppraisalLongDescDecoration */
+     , (2164447219, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2164447219, 177,          2) /* GemCount */
      , (2164447219, 178,         21) /* GemType */
      , (2164447219, 9015,          3) /* InventoryOrder */;

@@ -9,7 +9,7 @@ VALUES (2166168462,   1,        256) /* ItemType - MissileWeapon */
      , (2166168462,  18,       1024) /* UiEffects - Slashing */
      , (2166168462,  19,      13812) /* Value */
      , (2166168462,  50,          1) /* AmmoType - Arrow */
-     , (2166168462,  51,          2) /* CombatUse - Missle */
+     , (2166168462,  51,          2) /* CombatUse - Missile */
      , (2166168462,  65,        101) /* Placement - Resting */
      , (2166168462,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2166168462, 131,         26) /* MaterialType - ImperialTopaz */

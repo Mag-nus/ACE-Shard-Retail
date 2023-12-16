@@ -25,8 +25,8 @@ VALUES (3328700266,   1,          2) /* ItemType - Armor */
      , (3328700266, 159,          1) /* WieldSkillType - Axe */
      , (3328700266, 160,        150) /* WieldDifficulty */
      , (3328700266, 171,         10) /* NumTimesTinkered */
-     , (3328700266, 172,          1) /* AppraisalLongDescDecoration */
-     , (3328700266, 176,          6) /* AppraisalItemSkill */
+     , (3328700266, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (3328700266, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (3328700266, 179,       1024) /* ImbuedEffect - MeleeDefense */
      , (3328700266, 265,         18) /* EquipmentSetId - Crafters */;
 

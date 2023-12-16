@@ -26,7 +26,7 @@ VALUES (1342873741,   1,         16) /* ItemType - Creature */
      , (1342873741, 188,          2) /* HeritageGroup - Gharundim */
      , (1342873741, 192,        203) /* FakeFishingSkill */
      , (1342873741, 199, 1158551826) /* HousePurchaseTimestamp */
-     , (1342873741, 261,        106) /* CharacterTitleId */
+     , (1342873741, 261,        106) /* CharacterTitleId - PondScum */
      , (1342873741, 307,          0) /* DamageRating */
      , (1342873741, 308,          0) /* DamageResistRating */
      , (1342873741, 312,          0) /* HealOverTime */

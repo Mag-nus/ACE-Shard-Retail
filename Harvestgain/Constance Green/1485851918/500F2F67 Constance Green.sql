@@ -23,7 +23,7 @@ VALUES (1343172455,   1,         16) /* ItemType - Creature */
      , (1343172455, 139,         45) /* DeathLevel */
      , (1343172455, 188,         10) /* HeritageGroup - Penumbraen */
      , (1343172455, 199, 1217068930) /* HousePurchaseTimestamp */
-     , (1343172455, 261,         33) /* CharacterTitleId */
+     , (1343172455, 261,         33) /* CharacterTitleId - ChainBreaker */
      , (1343172455, 298,          1) /* AugmentationCriticalExpertise */
      , (1343172455, 307,          0) /* DamageRating */
      , (1343172455, 308,          0) /* DamageResistRating */

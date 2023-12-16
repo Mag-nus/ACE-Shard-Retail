@@ -21,7 +21,7 @@ VALUES (2437762394,   1,      32768) /* ItemType - Caster */
      , (2437762394, 131,         41) /* MaterialType - Sunstone */
      , (2437762394, 151,          2) /* HookType - Wall */
      , (2437762394, 171,          1) /* NumTimesTinkered */
-     , (2437762394, 172,          7) /* AppraisalLongDescDecoration */
+     , (2437762394, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2437762394, 177,          4) /* GemCount */
      , (2437762394, 178,         21) /* GemType */
      , (2437762394, 179,         32) /* ImbuedEffect - BludgeonRending */

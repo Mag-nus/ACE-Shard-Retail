@@ -22,8 +22,8 @@ VALUES (2881475076,   1,          2) /* ItemType - Armor */
      , (2881475076, 115,        173) /* ItemSkillLevelLimit */
      , (2881475076, 131,         57) /* MaterialType - Brass */
      , (2881475076, 151,          2) /* HookType - Wall */
-     , (2881475076, 172,          7) /* AppraisalLongDescDecoration */
-     , (2881475076, 176,          6) /* AppraisalItemSkill */
+     , (2881475076, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (2881475076, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (2881475076, 177,          2) /* GemCount */
      , (2881475076, 178,         31) /* GemType */;
 

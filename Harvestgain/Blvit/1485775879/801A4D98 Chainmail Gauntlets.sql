@@ -20,8 +20,8 @@ VALUES (2149207448,   1,          2) /* ItemType - Armor */
      , (2149207448, 110,          0) /* ItemAllegianceRankLimit */
      , (2149207448, 115,        188) /* ItemSkillLevelLimit */
      , (2149207448, 131,         60) /* MaterialType - Gold */
-     , (2149207448, 172,          7) /* AppraisalLongDescDecoration */
-     , (2149207448, 176,          7) /* AppraisalItemSkill */
+     , (2149207448, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (2149207448, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (2149207448, 177,          2) /* GemCount */
      , (2149207448, 178,         21) /* GemType */
      , (2149207448, 188,          4) /* HeritageGroup - Viamontian */

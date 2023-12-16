@@ -9,7 +9,7 @@ VALUES (2438169144,   1,        256) /* ItemType - MissileWeapon */
      , (2438169144,  18,        513) /* UiEffects - Magical, Bludgeoning */
      , (2438169144,  19,      18827) /* Value */
      , (2438169144,  50,          2) /* AmmoType - Bolt */
-     , (2438169144,  51,          2) /* CombatUse - Missle */
+     , (2438169144,  51,          2) /* CombatUse - Missile */
      , (2438169144,  65,        101) /* Placement - Resting */
      , (2438169144,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2438169144, 131,         26) /* MaterialType - ImperialTopaz */

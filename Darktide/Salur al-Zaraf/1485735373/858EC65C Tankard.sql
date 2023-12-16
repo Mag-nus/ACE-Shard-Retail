@@ -8,7 +8,7 @@ VALUES (2240726620,   1,        256) /* ItemType - MissileWeapon */
      , (2240726620,  16,          1) /* ItemUseable - No */
      , (2240726620,  18,          1) /* UiEffects - Magical */
      , (2240726620,  19,       1137) /* Value */
-     , (2240726620,  51,          2) /* CombatUse - Missle */
+     , (2240726620,  51,          2) /* CombatUse - Missile */
      , (2240726620,  65,        101) /* Placement - Resting */
      , (2240726620,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (2240726620, 131,         70) /* MaterialType - Sandstone */

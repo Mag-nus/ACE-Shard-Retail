@@ -9,7 +9,7 @@ VALUES (3440851063,   1,        256) /* ItemType - MissileWeapon */
      , (3440851063,  18,         32) /* UiEffects - Fire */
      , (3440851063,  19,      10216) /* Value */
      , (3440851063,  50,          4) /* AmmoType - Atlatl */
-     , (3440851063,  51,          2) /* CombatUse - Missle */
+     , (3440851063,  51,          2) /* CombatUse - Missile */
      , (3440851063,  65,        101) /* Placement - Resting */
      , (3440851063,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3440851063, 131,         33) /* MaterialType - Opal */

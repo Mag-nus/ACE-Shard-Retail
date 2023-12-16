@@ -25,7 +25,7 @@ VALUES (2147969451,   1,      32768) /* ItemType - Caster */
      , (2147969451, 159,         43) /* WieldSkillType - VoidMagic */
      , (2147969451, 160,        385) /* WieldDifficulty */
      , (2147969451, 171,          1) /* NumTimesTinkered */
-     , (2147969451, 172,          5) /* AppraisalLongDescDecoration */
+     , (2147969451, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2147969451, 177,          2) /* GemCount */
      , (2147969451, 178,         39) /* GemType */
      , (2147969451, 179,          1) /* ImbuedEffect - CriticalStrike */

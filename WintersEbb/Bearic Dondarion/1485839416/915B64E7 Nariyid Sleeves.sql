@@ -24,7 +24,7 @@ VALUES (2438685927,   1,          2) /* ItemType - Armor */
      , (2438685927, 158,          7) /* WieldRequirements - Level */
      , (2438685927, 159,          1) /* WieldSkillType - Axe */
      , (2438685927, 160,        180) /* WieldDifficulty */
-     , (2438685927, 172,          1) /* AppraisalLongDescDecoration */
+     , (2438685927, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (2438685927, 265,         20) /* EquipmentSetId - Dexterous */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

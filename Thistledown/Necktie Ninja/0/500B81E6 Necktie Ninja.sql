@@ -14,7 +14,7 @@ VALUES (1342931430,   1,         16) /* ItemType - Creature */
      , (1342931430, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342931430, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342931430, 188,          2) /* HeritageGroup - Gharundim */
-     , (1342931430, 261,         30) /* CharacterTitleId */
+     , (1342931430, 261,         30) /* CharacterTitleId - Bugstomper */
      , (1342931430, 307,          5) /* DamageRating */
      , (1342931430, 390,          0) /* Enlightenment */
      , (1342931430, 8007,          1) /* PCAPRecordedAutonomousMovement */;
@@ -50,10 +50,10 @@ VALUES (1342931430,   1,   33554433) /* Setup */
      , (1342931430, 8005,     104451) /* PCAPRecordedPhysicsDesc - CSetup, MTable, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1342931430, 1, 3231383573, 64.2, 119.3, 1.905, 0.8290376, 0, 0, -0.5591929) /* Location */
-/* @teleloc 0xC09B0015 [64.200000 119.300000 1.905000] 0.829038 0.000000 0.000000 -0.559193 */
-     , (1342931430, 8040, 3164537174, 180.5496, 121.0845, 32.005, 0.9755415, 0, 0, -0.2198151) /* PCAPRecordedLocation */
-/* @teleloc 0xBC9F0156 [180.549600 121.084500 32.005000] 0.975542 0.000000 0.000000 -0.219815 */;
+VALUES (1342931430, 1, 3231383573, 64.2, 119.3, 1.9050001, 0.8290376, 0, 0, -0.5591929) /* Location */
+/* @teleloc 0xC09B0015 [64.199997 119.300003 1.905000] 0.829038 0.000000 0.000000 -0.559193 */
+     , (1342931430, 8040, 3164537174, 180.5496, 121.08449, 32.005, 0.97554153, 0, 0, -0.21981512) /* PCAPRecordedLocation */
+/* @teleloc 0xBC9F0156 [180.549606 121.084488 32.005001] 0.975542 0.000000 0.000000 -0.219815 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342931430,  26, 1342687615) /* Monarch */

@@ -25,7 +25,7 @@ VALUES (2925380355,   1,          1) /* ItemType - MeleeWeapon */
      , (2925380355, 115,        160) /* ItemSkillLevelLimit */
      , (2925380355, 131,         43) /* MaterialType - Tourmaline */
      , (2925380355, 151,          2) /* HookType - Wall */
-     , (2925380355, 176,         45) /* AppraisalItemSkill */
+     , (2925380355, 176,         45) /* AppraisalItemSkill - LightWeapons */
      , (2925380355, 353,          3) /* WeaponType - Axe */
      , (2925380355, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (2925380355, 9015,         20) /* InventoryOrder */;

@@ -26,7 +26,7 @@ VALUES (1343011194,   1,         16) /* ItemType - Creature */
      , (1343011194, 188,          3) /* HeritageGroup - Sho */
      , (1343011194, 192,        700) /* FakeFishingSkill */
      , (1343011194, 199, 1274235194) /* HousePurchaseTimestamp */
-     , (1343011194, 261,        107) /* CharacterTitleId */
+     , (1343011194, 261,        107) /* CharacterTitleId - ProFisherman */
      , (1343011194, 307,          5) /* DamageRating */
      , (1343011194, 308,          0) /* DamageResistRating */
      , (1343011194, 312,          0) /* HealOverTime */

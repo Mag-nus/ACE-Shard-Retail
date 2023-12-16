@@ -19,7 +19,7 @@ VALUES (2438259232,   1,          8) /* ItemType - Jewelry */
      , (2438259232, 110,          0) /* ItemAllegianceRankLimit */
      , (2438259232, 115,          0) /* ItemSkillLevelLimit */
      , (2438259232, 131,         63) /* MaterialType - Silver */
-     , (2438259232, 172,          7) /* AppraisalLongDescDecoration */
+     , (2438259232, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2438259232, 177,          3) /* GemCount */
      , (2438259232, 178,         43) /* GemType */;
 

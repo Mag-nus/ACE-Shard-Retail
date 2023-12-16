@@ -23,7 +23,7 @@ VALUES (3674521601,   1,          2) /* ItemType - Armor */
      , (3674521601, 158,          7) /* WieldRequirements - Level */
      , (3674521601, 159,          1) /* WieldSkillType - Axe */
      , (3674521601, 160,        100) /* WieldDifficulty */
-     , (3674521601, 176,          6) /* AppraisalItemSkill */
+     , (3674521601, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (3674521601, 179,  536870912) /* ImbuedEffect - IgnoreSomeMagicProjectileDamage */
      , (3674521601, 9015,          4) /* InventoryOrder */;
 

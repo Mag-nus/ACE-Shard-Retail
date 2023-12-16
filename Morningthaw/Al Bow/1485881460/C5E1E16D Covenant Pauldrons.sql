@@ -26,8 +26,8 @@ VALUES (3319914861,   1,          2) /* ItemType - Armor */
      , (3319914861, 159,          6) /* WieldSkillType - MeleeDefense */
      , (3319914861, 160,        370) /* WieldDifficulty */
      , (3319914861, 171,          7) /* NumTimesTinkered */
-     , (3319914861, 172,          3) /* AppraisalLongDescDecoration */
-     , (3319914861, 176,          7) /* AppraisalItemSkill */
+     , (3319914861, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (3319914861, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (3319914861, 179,       1024) /* ImbuedEffect - MeleeDefense */
      , (3319914861, 188,          1) /* HeritageGroup - Aluvian */;
 

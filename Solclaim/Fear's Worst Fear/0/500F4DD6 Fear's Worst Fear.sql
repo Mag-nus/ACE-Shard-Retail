@@ -19,7 +19,7 @@ VALUES (1343180246,   1, True ) /* Stuck */
      , (1343180246,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343180246,  39, 1.10000002384186) /* DefaultScale */;
+VALUES (1343180246,  39, 1.100000023841858) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343180246,   1, 'Fear''s Worst Fear') /* Name */;
@@ -37,7 +37,7 @@ VALUES (1343180246,   1,   33561114) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343180246, 1, 2998468613, 15.786, 114.29, 118.845, 0.9329787, 0, 0, -0.3599316) /* Location */
-/* @teleloc 0xB2B90005 [15.786000 114.290000 118.845000] 0.932979 0.000000 0.000000 -0.359932 */
+/* @teleloc 0xB2B90005 [15.786000 114.290001 118.845001] 0.932979 0.000000 0.000000 -0.359932 */
      , (1343180246, 8040, 20185382, 30, -60, 6.0055, 1, 0, 0, 0) /* PCAPRecordedLocation */
 /* @teleloc 0x01340126 [30.000000 -60.000000 6.005500] 1.000000 0.000000 0.000000 0.000000 */;
 

@@ -13,7 +13,7 @@ VALUES (2166200740,   1,      32768) /* ItemType - Caster */
      , (2166200740, 105,          6) /* ItemWorkmanship */
      , (2166200740, 131,         13) /* MaterialType - Aquamarine */
      , (2166200740, 151,          2) /* HookType - Wall */
-     , (2166200740, 172,          7) /* AppraisalLongDescDecoration */
+     , (2166200740, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2166200740, 177,          1) /* GemCount */
      , (2166200740, 178,         41) /* GemType */
      , (2166200740, 9015,         16) /* InventoryOrder */;

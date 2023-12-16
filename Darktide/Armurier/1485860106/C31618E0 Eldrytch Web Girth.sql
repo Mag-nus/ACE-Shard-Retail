@@ -23,7 +23,7 @@ VALUES (3273005280,   1,          2) /* ItemType - Armor */
      , (3273005280, 158,          9) /* WieldRequirements - IntStat */
      , (3273005280, 159,        288) /* WieldSkillType */
      , (3273005280, 160,        601) /* WieldDifficulty */
-     , (3273005280, 172,          1) /* AppraisalLongDescDecoration */
+     , (3273005280, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (3273005280, 265,         30) /* EquipmentSetId - SocietyArmor */
      , (3273005280, 9015,          1) /* InventoryOrder */;
 

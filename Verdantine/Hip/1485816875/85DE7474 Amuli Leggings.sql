@@ -20,7 +20,7 @@ VALUES (2245948532,   1,          2) /* ItemType - Armor */
      , (2245948532, 110,          0) /* ItemAllegianceRankLimit */
      , (2245948532, 115,          0) /* ItemSkillLevelLimit */
      , (2245948532, 131,         55) /* MaterialType - ReedSharkHide */
-     , (2245948532, 172,          1) /* AppraisalLongDescDecoration */
+     , (2245948532, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (2245948532, 9015,         71) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

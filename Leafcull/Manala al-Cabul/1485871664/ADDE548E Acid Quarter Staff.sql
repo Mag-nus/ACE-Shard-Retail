@@ -25,7 +25,7 @@ VALUES (2917029006,   1,          1) /* ItemType - MeleeWeapon */
      , (2917029006, 115,        166) /* ItemSkillLevelLimit */
      , (2917029006, 131,         77) /* MaterialType - Teak */
      , (2917029006, 151,          2) /* HookType - Wall */
-     , (2917029006, 176,         45) /* AppraisalItemSkill */
+     , (2917029006, 176,         45) /* AppraisalItemSkill - LightWeapons */
      , (2917029006, 188,          1) /* HeritageGroup - Aluvian */
      , (2917029006, 353,          7) /* WeaponType - Staff */
      , (2917029006, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */

@@ -24,7 +24,7 @@ VALUES (1343340493,   1,         16) /* ItemType - Creature */
      , (1343340493, 139,         34) /* DeathLevel */
      , (1343340493, 188,          9) /* HeritageGroup - Empyrean */
      , (1343340493, 199, 1463350874) /* HousePurchaseTimestamp */
-     , (1343340493, 261,         14) /* CharacterTitleId */
+     , (1343340493, 261,         14) /* CharacterTitleId - Wayfarer */
      , (1343340493, 296,          1) /* AugmentationInfusedLifeMagic */
      , (1343340493, 307,          0) /* DamageRating */
      , (1343340493, 308,          0) /* DamageResistRating */

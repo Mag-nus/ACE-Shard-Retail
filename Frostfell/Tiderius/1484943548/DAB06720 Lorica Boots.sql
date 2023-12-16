@@ -20,8 +20,8 @@ VALUES (3668993824,   1,          2) /* ItemType - Armor */
      , (3668993824, 110,          0) /* ItemAllegianceRankLimit */
      , (3668993824, 115,        312) /* ItemSkillLevelLimit */
      , (3668993824, 131,         60) /* MaterialType - Gold */
-     , (3668993824, 172,          3) /* AppraisalLongDescDecoration */
-     , (3668993824, 176,          6) /* AppraisalItemSkill */
+     , (3668993824, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (3668993824, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (3668993824, 188,          1) /* HeritageGroup - Aluvian */
      , (3668993824, 9015,         33) /* InventoryOrder */;
 

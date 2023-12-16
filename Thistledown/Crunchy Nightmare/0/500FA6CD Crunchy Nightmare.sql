@@ -19,7 +19,7 @@ VALUES (1343203021,   1, True ) /* Stuck */
      , (1343203021,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343203021,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1343203021,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343203021,   1, 'Crunchy Nightmare') /* Name */;
@@ -38,8 +38,8 @@ VALUES (1343203021,   1,   33560839) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343203021, 1, 459075, 70, -60, 0.01, 1, 0, 0, -1) /* Location */
 /* @teleloc 0x00070143 [70.000000 -60.000000 0.010000] 1.000000 0.000000 0.000000 -1.000000 */
-     , (1343203021, 8040, 3381395496, 113.6656, 190.259, 22.006, -0.7071068, 0, 0, -0.7071068) /* PCAPRecordedLocation */
-/* @teleloc 0xC98C0028 [113.665600 190.259000 22.006000] -0.707107 0.000000 0.000000 -0.707107 */;
+     , (1343203021, 8040, 3381395496, 113.6656, 190.259, 22.005999, -0.70710677, 0, -0, -0.70710677) /* PCAPRecordedLocation */
+/* @teleloc 0xC98C0028 [113.665604 190.259003 22.005999] -0.707107 0.000000 -0.000000 -0.707107 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343203021,  26, 1343044191) /* Monarch */

@@ -13,7 +13,7 @@ VALUES (3668024727,   1,        256) /* ItemType - MissileWeapon */
      , (3668024727,  48,         47) /* WeaponSkill - MissileWeapons */
      , (3668024727,  49,         38) /* WeaponTime */
      , (3668024727,  50,          1) /* AmmoType - Arrow */
-     , (3668024727,  51,          2) /* CombatUse - Missle */
+     , (3668024727,  51,          2) /* CombatUse - Missile */
      , (3668024727,  65,        101) /* Placement - Resting */
      , (3668024727,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3668024727, 105,          4) /* ItemWorkmanship */
@@ -28,8 +28,8 @@ VALUES (3668024727,   1,        256) /* ItemType - MissileWeapon */
      , (3668024727, 158,          2) /* WieldRequirements - RawSkill */
      , (3668024727, 159,         47) /* WieldSkillType - MissileWeapons */
      , (3668024727, 160,        250) /* WieldDifficulty */
-     , (3668024727, 172,          3) /* AppraisalLongDescDecoration */
-     , (3668024727, 176,         47) /* AppraisalItemSkill */
+     , (3668024727, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (3668024727, 176,         47) /* AppraisalItemSkill - MissileWeapons */
      , (3668024727, 188,          2) /* HeritageGroup - Gharundim */
      , (3668024727, 353,          8) /* WeaponType - Bow */
      , (3668024727, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */

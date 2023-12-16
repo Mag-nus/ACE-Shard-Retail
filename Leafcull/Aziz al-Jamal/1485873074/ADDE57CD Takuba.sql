@@ -25,7 +25,7 @@ VALUES (2917029837,   1,          1) /* ItemType - MeleeWeapon */
      , (2917029837, 115,        179) /* ItemSkillLevelLimit */
      , (2917029837, 131,         60) /* MaterialType - Gold */
      , (2917029837, 151,          2) /* HookType - Wall */
-     , (2917029837, 176,         44) /* AppraisalItemSkill */
+     , (2917029837, 176,         44) /* AppraisalItemSkill - HeavyWeapons */
      , (2917029837, 188,          2) /* HeritageGroup - Gharundim */
      , (2917029837, 353,          2) /* WeaponType - Sword */
      , (2917029837, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */

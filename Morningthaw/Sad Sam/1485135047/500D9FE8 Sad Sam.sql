@@ -25,7 +25,7 @@ VALUES (1343070184,   1,         16) /* ItemType - Creature */
      , (1343070184, 181,       1400) /* ChessRank */
      , (1343070184, 188,          2) /* HeritageGroup - Gharundim */
      , (1343070184, 199, 1103271546) /* HousePurchaseTimestamp */
-     , (1343070184, 261,         58) /* CharacterTitleId */
+     , (1343070184, 261,         58) /* CharacterTitleId - GardenerWeeder */
      , (1343070184, 307,          0) /* DamageRating */
      , (1343070184, 308,          0) /* DamageResistRating */
      , (1343070184, 312,          0) /* HealOverTime */

@@ -14,7 +14,7 @@ VALUES (2997903002,   1,          2) /* ItemType - Armor */
      , (2997903002,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2997903002, 105,          6) /* ItemWorkmanship */
      , (2997903002, 131,         57) /* MaterialType - Brass */
-     , (2997903002, 172,          5) /* AppraisalLongDescDecoration */
+     , (2997903002, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2997903002, 177,          4) /* GemCount */
      , (2997903002, 178,         38) /* GemType */;
 

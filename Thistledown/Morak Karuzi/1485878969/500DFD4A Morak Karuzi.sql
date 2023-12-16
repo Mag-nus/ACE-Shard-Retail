@@ -24,7 +24,7 @@ VALUES (1343094090,   1,         16) /* ItemType - Creature */
      , (1343094090, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343094090, 188,          4) /* HeritageGroup - Viamontian */
      , (1343094090, 199, 1427994583) /* HousePurchaseTimestamp */
-     , (1343094090, 261,        129) /* CharacterTitleId */
+     , (1343094090, 261,        129) /* CharacterTitleId - Skullcrusher */
      , (1343094090, 262,         50) /* NumCharacterTitles */
      , (1343094090, 307,          8) /* DamageRating */
      , (1343094090, 308,          0) /* DamageResistRating */

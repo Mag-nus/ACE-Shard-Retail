@@ -20,7 +20,7 @@ VALUES (2192312198,   1,          2) /* ItemType - Armor */
      , (2192312198, 110,          0) /* ItemAllegianceRankLimit */
      , (2192312198, 115,          0) /* ItemSkillLevelLimit */
      , (2192312198, 131,         55) /* MaterialType - ReedSharkHide */
-     , (2192312198, 172,          3) /* AppraisalLongDescDecoration */
+     , (2192312198, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2192312198, 188,          1) /* HeritageGroup - Aluvian */
      , (2192312198, 9015,          6) /* InventoryOrder */;
 

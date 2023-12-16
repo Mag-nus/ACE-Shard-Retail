@@ -12,7 +12,7 @@ VALUES (2622393977,   1,       2048) /* ItemType - Gem */
      , (2622393977,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2622393977,  94,         16) /* TargetType - Creature */
      , (2622393977, 280,        221) /* SharedCooldown */
-     , (2622393977, 9015,          2) /* InventoryOrder */;
+     , (2622393977, 9015,         33) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (2622393977,   1, False) /* Stuck */
@@ -42,8 +42,8 @@ VALUES (2622393977,   1,   33556769) /* Setup */
      , (2622393977, 8005,     399361) /* PCAPRecordedPhysicsDesc - CSetup, STable, PeTable, AnimationFrame, Translucency */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
-VALUES (2622393977,   1, 2619674021) /* Owner */
-     , (2622393977,   2, 2619674021) /* Container */
+VALUES (2622393977,   1, 1343183052) /* Owner */
+     , (2622393977,   2, 1343183052) /* Container */
      , (2622393977, 8000, 2622393977) /* PCAPRecordedObjectIID */;
 
 INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)

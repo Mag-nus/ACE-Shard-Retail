@@ -20,7 +20,7 @@ VALUES (2967526647,   1,          2) /* ItemType - Armor */
      , (2967526647, 110,          0) /* ItemAllegianceRankLimit */
      , (2967526647, 115,          0) /* ItemSkillLevelLimit */
      , (2967526647, 131,         60) /* MaterialType - Gold */
-     , (2967526647, 172,          3) /* AppraisalLongDescDecoration */
+     , (2967526647, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2967526647, 9015,          2) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

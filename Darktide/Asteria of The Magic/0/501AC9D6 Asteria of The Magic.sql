@@ -16,9 +16,9 @@ VALUES (1343932886,   1,         16) /* ItemType - Creature */
      , (1343932886, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343932886, 134,          4) /* PlayerKillerStatus - PK */
      , (1343932886, 188,         11) /* HeritageGroup - Undead */
-     , (1343932886, 261,        851) /* CharacterTitleId */
+     , (1343932886, 261,        851) /* CharacterTitleId - Haunted */
      , (1343932886, 262,         59) /* NumCharacterTitles */
-     , (1343932886, 281,          2) /* Faction1Bits */
+     , (1343932886, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1343932886, 288,       1001) /* SocietyRankEldweb */
      , (1343932886, 307,         42) /* DamageRating */
      , (1343932886, 308,         23) /* DamageResistRating */
@@ -64,8 +64,8 @@ VALUES (1343932886,   1,   33561248) /* Setup */
      , (1343932886, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343932886, 1, 4135714867, 145.7, 49.855, 58.005, -0.4675441, 0, 0, -0.8839698) /* Location */
-/* @teleloc 0xF6820033 [145.700000 49.855000 58.005000] -0.467544 0.000000 0.000000 -0.883970 */
+VALUES (1343932886, 1, 4135714867, 145.7, 49.855, 58.005, -0.46754408, 0, 0, -0.8839698) /* Location */
+/* @teleloc 0xF6820033 [145.699997 49.855000 58.005001] -0.467544 0.000000 0.000000 -0.883970 */
      , (1343932886, 8040, 459077, 70, -80, 0.004999995, 1, 0, 0, 0) /* PCAPRecordedLocation */
 /* @teleloc 0x00070145 [70.000000 -80.000000 0.005000] 1.000000 0.000000 0.000000 0.000000 */;
 

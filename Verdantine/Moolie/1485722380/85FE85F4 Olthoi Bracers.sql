@@ -24,7 +24,7 @@ VALUES (2248050164,   1,          2) /* ItemType - Armor */
      , (2248050164, 158,          2) /* WieldRequirements - RawSkill */
      , (2248050164, 159,          7) /* WieldSkillType - MissileDefense */
      , (2248050164, 160,        205) /* WieldDifficulty */
-     , (2248050164, 172,          5) /* AppraisalLongDescDecoration */
+     , (2248050164, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2248050164, 177,          2) /* GemCount */
      , (2248050164, 178,         38) /* GemType */
      , (2248050164, 265,         15) /* EquipmentSetId - Archers */

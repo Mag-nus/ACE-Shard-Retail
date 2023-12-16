@@ -14,8 +14,8 @@ VALUES (1343156687,   1,         16) /* ItemType - Creature */
      , (1343156687, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343156687, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343156687, 188,         10) /* HeritageGroup - Penumbraen */
-     , (1343156687, 261,        112) /* CharacterTitleId */
-     , (1343156687, 281,          4) /* Faction1Bits */
+     , (1343156687, 261,        112) /* CharacterTitleId - RedFury */
+     , (1343156687, 281,          4) /* Faction1Bits - RadiantBlood */
      , (1343156687, 289,          1) /* SocietyRankRadblo */
      , (1343156687, 307,         25) /* DamageRating */
      , (1343156687, 308,         13) /* DamageResistRating */
@@ -58,9 +58,9 @@ VALUES (1343156687,   1,   33561180) /* Setup */
      , (1343156687, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343156687, 1, 2103705618, 54.08027, 31.40448, 12.005, 0.9998081, 0, 0, -0.01959009) /* Location */
-/* @teleloc 0x7D640012 [54.080270 31.404480 12.005000] 0.999808 0.000000 0.000000 -0.019590 */
-     , (1343156687, 8040, 2070216750, 127, 127, 1.171666, 1, 0, 0, 0) /* PCAPRecordedLocation */
+VALUES (1343156687, 1, 2103705618, 54.080265, 31.404476, 12.004999, 0.9998081, 0, 0, -0.01959009) /* Location */
+/* @teleloc 0x7D640012 [54.080265 31.404476 12.004999] 0.999808 0.000000 0.000000 -0.019590 */
+     , (1343156687, 8040, 2070216750, 127, 127, 1.1716659, 1, 0, 0, 0) /* PCAPRecordedLocation */
 /* @teleloc 0x7B65002E [127.000000 127.000000 1.171666] 1.000000 0.000000 0.000000 0.000000 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)

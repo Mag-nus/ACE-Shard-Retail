@@ -25,7 +25,7 @@ VALUES (2856818024,   1,          1) /* ItemType - MeleeWeapon */
      , (2856818024, 115,        218) /* ItemSkillLevelLimit */
      , (2856818024, 131,         73) /* MaterialType - Ebony */
      , (2856818024, 151,          2) /* HookType - Wall */
-     , (2856818024, 176,         45) /* AppraisalItemSkill */
+     , (2856818024, 176,         45) /* AppraisalItemSkill - LightWeapons */
      , (2856818024, 188,          2) /* HeritageGroup - Gharundim */
      , (2856818024, 353,          7) /* WeaponType - Staff */
      , (2856818024, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */

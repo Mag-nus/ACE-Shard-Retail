@@ -13,7 +13,7 @@ VALUES (2476079450,   1,        256) /* ItemType - MissileWeapon */
      , (2476079450,  48,         47) /* WeaponSkill - MissileWeapons */
      , (2476079450,  49,         40) /* WeaponTime */
      , (2476079450,  50,          1) /* AmmoType - Arrow */
-     , (2476079450,  51,          2) /* CombatUse - Missle */
+     , (2476079450,  51,          2) /* CombatUse - Missile */
      , (2476079450,  65,        101) /* Placement - Resting */
      , (2476079450,  93,       3092) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, LightingOn */
      , (2476079450, 106,        400) /* ItemSpellcraft */
@@ -25,7 +25,7 @@ VALUES (2476079450,   1,        256) /* ItemType - MissileWeapon */
      , (2476079450, 159,         47) /* WieldSkillType - MissileWeapons */
      , (2476079450, 160,        360) /* WieldDifficulty */
      , (2476079450, 166,          6) /* SlayerCreatureType - Tumerok */
-     , (2476079450, 263,          2) /* ResistanceModifierType */
+     , (2476079450, 263,          2) /* ResistanceModifierType - Pierce */
      , (2476079450, 353,          8) /* WeaponType - Bow */
      , (2476079450, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (2476079450, 9015,         24) /* InventoryOrder */;

@@ -26,7 +26,7 @@ VALUES (1342802120,   1,         16) /* ItemType - Creature */
      , (1342802120, 139,         50) /* DeathLevel */
      , (1342802120, 188,          1) /* HeritageGroup - Aluvian */
      , (1342802120, 199, 1395303467) /* HousePurchaseTimestamp */
-     , (1342802120, 261,         58) /* CharacterTitleId */
+     , (1342802120, 261,         58) /* CharacterTitleId - GardenerWeeder */
      , (1342802120, 307,          5) /* DamageRating */
      , (1342802120, 308,          0) /* DamageResistRating */
      , (1342802120, 312,          0) /* HealOverTime */

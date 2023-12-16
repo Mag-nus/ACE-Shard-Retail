@@ -21,7 +21,7 @@ VALUES (3710966380,   1,      32768) /* ItemType - Caster */
      , (3710966380, 131,         20) /* MaterialType - Diamond */
      , (3710966380, 151,          2) /* HookType - Wall */
      , (3710966380, 171,          1) /* NumTimesTinkered */
-     , (3710966380, 172,          7) /* AppraisalLongDescDecoration */
+     , (3710966380, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3710966380, 177,          1) /* GemCount */
      , (3710966380, 178,         21) /* GemType */
      , (3710966380, 179,         64) /* ImbuedEffect - AcidRending */

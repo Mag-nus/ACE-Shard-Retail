@@ -7,7 +7,7 @@ VALUES (2154599123,   1,        256) /* ItemType - MissileWeapon */
      , (2154599123,   9,    4194304) /* ValidLocations - MissileWeapon */
      , (2154599123,  16,          1) /* ItemUseable - No */
      , (2154599123,  19,        319) /* Value */
-     , (2154599123,  51,          2) /* CombatUse - Missle */
+     , (2154599123,  51,          2) /* CombatUse - Missile */
      , (2154599123,  65,        101) /* Placement - Resting */
      , (2154599123,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (2154599123, 131,         31) /* MaterialType - Moonstone */

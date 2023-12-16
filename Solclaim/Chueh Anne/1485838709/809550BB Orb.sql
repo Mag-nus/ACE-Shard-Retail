@@ -21,7 +21,7 @@ VALUES (2157269179,   1,      32768) /* ItemType - Caster */
      , (2157269179, 131,         36) /* MaterialType - RedJade */
      , (2157269179, 151,          2) /* HookType - Wall */
      , (2157269179, 171,          1) /* NumTimesTinkered */
-     , (2157269179, 172,          7) /* AppraisalLongDescDecoration */
+     , (2157269179, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2157269179, 177,          4) /* GemCount */
      , (2157269179, 178,         20) /* GemType */
      , (2157269179, 179,          2) /* ImbuedEffect - CripplingBlow */

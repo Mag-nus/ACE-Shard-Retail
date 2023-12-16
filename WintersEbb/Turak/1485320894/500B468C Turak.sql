@@ -27,7 +27,7 @@ VALUES (1342916236,   1,         16) /* ItemType - Creature */
      , (1342916236, 188,          3) /* HeritageGroup - Sho */
      , (1342916236, 192,          0) /* FakeFishingSkill */
      , (1342916236, 199, 1403396263) /* HousePurchaseTimestamp */
-     , (1342916236, 261,        109) /* CharacterTitleId */
+     , (1342916236, 261,        109) /* CharacterTitleId - Pugilist */
      , (1342916236, 307,          5) /* DamageRating */
      , (1342916236, 308,          0) /* DamageResistRating */
      , (1342916236, 312,          0) /* HealOverTime */

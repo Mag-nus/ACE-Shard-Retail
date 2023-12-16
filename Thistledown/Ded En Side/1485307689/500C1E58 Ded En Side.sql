@@ -19,7 +19,7 @@ VALUES (1342971480,   1,         16) /* ItemType - Creature */
      , (1342971480, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342971480, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342971480, 188,          3) /* HeritageGroup - Sho */
-     , (1342971480, 261,          1) /* CharacterTitleId */
+     , (1342971480, 261,          1) /* CharacterTitleId - Adventurer */
      , (1342971480, 307,          0) /* DamageRating */
      , (1342971480, 308,          0) /* DamageResistRating */
      , (1342971480, 312,          0) /* HealOverTime */

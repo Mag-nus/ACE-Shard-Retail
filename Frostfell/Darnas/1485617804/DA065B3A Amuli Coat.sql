@@ -14,7 +14,7 @@ VALUES (3657849658,   1,          2) /* ItemType - Armor */
      , (3657849658,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3657849658, 105,          7) /* ItemWorkmanship */
      , (3657849658, 131,         60) /* MaterialType - Gold */
-     , (3657849658, 172,          3) /* AppraisalLongDescDecoration */;
+     , (3657849658, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (3657849658,   1, False) /* Stuck */

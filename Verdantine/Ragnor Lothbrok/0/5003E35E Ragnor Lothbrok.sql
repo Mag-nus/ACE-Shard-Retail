@@ -19,7 +19,7 @@ VALUES (1342432094,   1, True ) /* Stuck */
      , (1342432094,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1342432094,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1342432094,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1342432094,   1, 'Ragnor Lothbrok') /* Name */;
@@ -36,10 +36,10 @@ VALUES (1342432094,   1,   33561110) /* Setup */
      , (1342432094, 8005,     104643) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1342432094, 1, 2847146026, 136.2892, 41.53601, 94.006, 0.6412198, 0, 0, -0.7673573) /* Location */
-/* @teleloc 0xA9B4002A [136.289200 41.536010 94.006000] 0.641220 0.000000 0.000000 -0.767357 */
-     , (1342432094, 8040, 2847146009, 84, 7.1, 94.006, 0.9969173, 0, 0, -0.0784591) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B40019 [84.000000 7.100000 94.006000] 0.996917 0.000000 0.000000 -0.078459 */;
+VALUES (1342432094, 1, 2847146026, 136.28918, 41.536007, 94.006004, 0.6412198, 0, 0, -0.7673573) /* Location */
+/* @teleloc 0xA9B4002A [136.289185 41.536007 94.006004] 0.641220 0.000000 0.000000 -0.767357 */
+     , (1342432094, 8040, 2847146009, 84, 7.1, 94.006004, 0.9969173, 0, 0, -0.0784591) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B40019 [84.000000 7.100000 94.006004] 0.996917 0.000000 0.000000 -0.078459 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342432094,  26, 1342431071) /* Monarch */

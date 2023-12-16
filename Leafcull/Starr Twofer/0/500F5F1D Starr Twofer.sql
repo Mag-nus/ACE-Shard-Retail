@@ -19,7 +19,7 @@ VALUES (1343184669,   1, True ) /* Stuck */
      , (1343184669,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343184669,  39, 1.10000002384186) /* DefaultScale */;
+VALUES (1343184669,  39, 1.100000023841858) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343184669,   1, 'Starr Twofer') /* Name */;
@@ -37,7 +37,7 @@ VALUES (1343184669,   1,   33561114) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343184669, 8040, 3332964380, 76.09666, 95.68088, 42.0055, 0.7375969, 0, 0, -0.6752413) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001C [76.096660 95.680880 42.005500] 0.737597 0.000000 0.000000 -0.675241 */;
+/* @teleloc 0xC6A9001C [76.096657 95.680878 42.005501] 0.737597 0.000000 0.000000 -0.675241 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343184669,  26, 1342747180) /* Monarch */

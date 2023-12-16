@@ -27,7 +27,7 @@ VALUES (1342411004,   1,         16) /* ItemType - Creature */
      , (1342411004, 188,          1) /* HeritageGroup - Aluvian */
      , (1342411004, 192,          2) /* FakeFishingSkill */
      , (1342411004, 199, 1400391063) /* HousePurchaseTimestamp */
-     , (1342411004, 261,        110) /* CharacterTitleId */
+     , (1342411004, 261,        110) /* CharacterTitleId - Queenslayer */
      , (1342411004, 262,         27) /* NumCharacterTitles */
      , (1342411004, 307,          5) /* DamageRating */
      , (1342411004, 308,          0) /* DamageResistRating */

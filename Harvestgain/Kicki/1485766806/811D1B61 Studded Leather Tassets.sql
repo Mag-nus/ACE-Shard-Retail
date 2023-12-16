@@ -14,8 +14,8 @@ VALUES (2166168417,   1,          2) /* ItemType - Armor */
      , (2166168417,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2166168417, 105,          5) /* ItemWorkmanship */
      , (2166168417, 131,         52) /* MaterialType - Leather */
-     , (2166168417, 172,          1) /* AppraisalLongDescDecoration */
-     , (2166168417, 324,          6) /* HeritageSpecificArmor */;
+     , (2166168417, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (2166168417, 324,          6) /* HeritageSpecificArmor - Gearknight */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (2166168417,   1, False) /* Stuck */

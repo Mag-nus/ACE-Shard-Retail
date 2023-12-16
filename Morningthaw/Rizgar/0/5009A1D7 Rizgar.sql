@@ -17,7 +17,7 @@ VALUES (1342808535,   1,         16) /* ItemType - Creature */
      , (1342808535, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342808535, 188,          2) /* HeritageGroup - Gharundim */
      , (1342808535, 192,          0) /* FakeFishingSkill */
-     , (1342808535, 261,        110) /* CharacterTitleId */
+     , (1342808535, 261,        110) /* CharacterTitleId - Queenslayer */
      , (1342808535, 262,         19) /* NumCharacterTitles */
      , (1342808535, 307,          7) /* DamageRating */
      , (1342808535, 308,          1) /* DamageResistRating */

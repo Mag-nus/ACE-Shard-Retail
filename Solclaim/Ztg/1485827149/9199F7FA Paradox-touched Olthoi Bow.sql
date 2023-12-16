@@ -14,7 +14,7 @@ VALUES (2442786810,   1,        256) /* ItemType - MissileWeapon */
      , (2442786810,  48,         47) /* WeaponSkill - MissileWeapons */
      , (2442786810,  49,         45) /* WeaponTime */
      , (2442786810,  50,          1) /* AmmoType - Arrow */
-     , (2442786810,  51,          2) /* CombatUse - Missle */
+     , (2442786810,  51,          2) /* CombatUse - Missile */
      , (2442786810,  65,        101) /* Placement - Resting */
      , (2442786810,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2442786810, 106,        450) /* ItemSpellcraft */
@@ -27,7 +27,7 @@ VALUES (2442786810,   1,        256) /* ItemType - MissileWeapon */
      , (2442786810, 160,        360) /* WieldDifficulty */
      , (2442786810, 166,          1) /* SlayerCreatureType - Olthoi */
      , (2442786810, 204,         12) /* ElementalDamageBonus */
-     , (2442786810, 263,          2) /* ResistanceModifierType */
+     , (2442786810, 263,          2) /* ResistanceModifierType - Pierce */
      , (2442786810, 353,          8) /* WeaponType - Bow */
      , (2442786810, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (2442786810, 9015,         17) /* InventoryOrder */;

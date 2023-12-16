@@ -21,7 +21,7 @@ VALUES (1343414683,   1,         16) /* ItemType - Creature */
      , (1343414683, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343414683, 188,          7) /* HeritageGroup - Tumerok */
      , (1343414683, 199, 1332375348) /* HousePurchaseTimestamp */
-     , (1343414683, 261,         14) /* CharacterTitleId */
+     , (1343414683, 261,         14) /* CharacterTitleId - Wayfarer */
      , (1343414683, 299,          1) /* AugmentationCriticalPower */
      , (1343414683, 307,          0) /* DamageRating */
      , (1343414683, 308,          0) /* DamageResistRating */

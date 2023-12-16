@@ -25,7 +25,7 @@ VALUES (1342801896,   1,         16) /* ItemType - Creature */
      , (1342801896, 139,        100) /* DeathLevel */
      , (1342801896, 188,          2) /* HeritageGroup - Gharundim */
      , (1342801896, 199,          0) /* HousePurchaseTimestamp */
-     , (1342801896, 261,         90) /* CharacterTitleId */
+     , (1342801896, 261,         90) /* CharacterTitleId - MasterofSlaughter */
      , (1342801896, 307,          0) /* DamageRating */
      , (1342801896, 308,          0) /* DamageResistRating */
      , (1342801896, 312,          0) /* HealOverTime */

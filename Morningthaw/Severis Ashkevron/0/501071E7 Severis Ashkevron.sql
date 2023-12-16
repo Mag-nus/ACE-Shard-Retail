@@ -19,7 +19,7 @@ VALUES (1343255015,   1, True ) /* Stuck */
      , (1343255015,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343255015,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1343255015,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343255015,   1, 'Severis Ashkevron') /* Name */;
@@ -36,10 +36,10 @@ VALUES (1343255015,   1,   33561110) /* Setup */
      , (1343255015, 8005,     104643) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343255015, 1, 19202318, 30.44184, -32.98604, 1.998518, -0.9997566, 0, 0, -0.02206233) /* Location */
-/* @teleloc 0x0125010E [30.441840 -32.986040 1.998518] -0.999757 0.000000 0.000000 -0.022062 */
-     , (1343255015, 8040, 19202318, 30.17579, -33.88649, 2.458385, -0.9998339, 0, 0, -0.01822457) /* PCAPRecordedLocation */
-/* @teleloc 0x0125010E [30.175790 -33.886490 2.458385] -0.999834 0.000000 0.000000 -0.018225 */;
+VALUES (1343255015, 1, 19202318, 30.441843, -32.98604, 1.9985185, -0.9997566, 0, 0, -0.022062331) /* Location */
+/* @teleloc 0x0125010E [30.441843 -32.986038 1.998518] -0.999757 0.000000 0.000000 -0.022062 */
+     , (1343255015, 8040, 19202318, 30.175787, -33.886494, 2.4583848, -0.99983394, 0, -0, -0.018224573) /* PCAPRecordedLocation */
+/* @teleloc 0x0125010E [30.175787 -33.886494 2.458385] -0.999834 0.000000 -0.000000 -0.018225 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343255015, 8000, 1343255015) /* PCAPRecordedObjectIID */;

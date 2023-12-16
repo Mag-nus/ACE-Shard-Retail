@@ -20,7 +20,7 @@ VALUES (3327045979,   1,      32768) /* ItemType - Caster */
      , (3327045979, 115,          0) /* ItemSkillLevelLimit */
      , (3327045979, 131,         59) /* MaterialType - Copper */
      , (3327045979, 151,          2) /* HookType - Wall */
-     , (3327045979, 172,          7) /* AppraisalLongDescDecoration */
+     , (3327045979, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3327045979, 177,          2) /* GemCount */
      , (3327045979, 178,         14) /* GemType */
      , (3327045979, 9015,         69) /* InventoryOrder */;
@@ -34,10 +34,10 @@ VALUES (3327045979,   1, False) /* Stuck */
      , (3327045979,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3327045979,   5, -0.025000000372529) /* ManaRate */
-     , (3327045979,  29, 1.00999999046326) /* WeaponDefense */
+VALUES (3327045979,   5, -0.02500000037252903) /* ManaRate */
+     , (3327045979,  29, 1.0099999904632568) /* WeaponDefense */
      , (3327045979,  39, 0.800000011920929) /* DefaultScale */
-     , (3327045979, 144, 1.64377912035816E-314) /* ManaConversionMod */
+     , (3327045979, 144, 1.6437791204E-314) /* ManaConversionMod */
      , (3327045979, 8004,       4) /* PCAPRecordedWorkmanship */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)

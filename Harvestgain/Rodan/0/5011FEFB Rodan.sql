@@ -13,7 +13,7 @@ VALUES (1343356667,   1,         16) /* ItemType - Creature */
      , (1343356667, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343356667, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343356667, 188,          9) /* HeritageGroup - Empyrean */
-     , (1343356667, 261,         12) /* CharacterTitleId */
+     , (1343356667, 261,         12) /* CharacterTitleId - Swashbuckler */
      , (1343356667, 390,          0) /* Enlightenment */
      , (1343356667, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
@@ -26,7 +26,7 @@ VALUES (1343356667,   1, True ) /* Stuck */
      , (1343356667,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343356667,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1343356667,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343356667,   1, 'Rodan') /* Name */;
@@ -51,8 +51,8 @@ VALUES (1343356667,   1,   33561110) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343356667, 1, 2847146009, 84, 7.1, 94, 0.9969173, 0, 0, -0.0784591) /* Location */
 /* @teleloc 0xA9B40019 [84.000000 7.100000 94.000000] 0.996917 0.000000 0.000000 -0.078459 */
-     , (1343356667, 8040, 19202310, 20.2219, -24.51989, 0.005999982, 0.8350965, 0, 0, -0.5501035) /* PCAPRecordedLocation */
-/* @teleloc 0x01250106 [20.221900 -24.519890 0.006000] 0.835097 0.000000 0.000000 -0.550104 */;
+     , (1343356667, 8040, 19202310, 20.221895, -24.519892, 0.0059999824, 0.8350965, 0, 0, -0.5501035) /* PCAPRecordedLocation */
+/* @teleloc 0x01250106 [20.221895 -24.519892 0.006000] 0.835096 0.000000 0.000000 -0.550103 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343356667, 8000, 1343356667) /* PCAPRecordedObjectIID */;

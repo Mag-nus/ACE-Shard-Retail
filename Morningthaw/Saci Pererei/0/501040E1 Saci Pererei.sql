@@ -19,7 +19,7 @@ VALUES (1343242465,   1, True ) /* Stuck */
      , (1343242465,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343242465,  39, 1.10000002384186) /* DefaultScale */;
+VALUES (1343242465,  39, 1.100000023841858) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343242465,   1, 'Saci Pererei') /* Name */;
@@ -38,8 +38,8 @@ VALUES (1343242465,   1,   33561114) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343242465, 1, 459075, 70, -60, 0.01, 1, 0, 0, -1) /* Location */
 /* @teleloc 0x00070143 [70.000000 -60.000000 0.010000] 1.000000 0.000000 0.000000 -1.000000 */
-     , (1343242465, 8040, 2847146034, 145.9421, 40.29668, 94.0055, -0.947481, 0, 0, -0.3198119) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B40032 [145.942100 40.296680 94.005500] -0.947481 0.000000 0.000000 -0.319812 */;
+     , (1343242465, 8040, 2847146034, 145.94212, 40.296684, 94.0055, -0.94748104, 0, -0, -0.31981188) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B40032 [145.942123 40.296684 94.005501] -0.947481 0.000000 -0.000000 -0.319812 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343242465,  26, 1342708235) /* Monarch */

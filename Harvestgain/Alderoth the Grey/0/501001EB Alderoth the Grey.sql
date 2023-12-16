@@ -19,7 +19,7 @@ VALUES (1343226347,   1, True ) /* Stuck */
      , (1343226347,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343226347,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1343226347,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343226347,   1, 'Alderoth the Grey') /* Name */;
@@ -36,9 +36,9 @@ VALUES (1343226347,   1,   33561110) /* Setup */
      , (1343226347, 8005,     104643) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343226347, 1, 2156920850, 71.62626, 38.82647, 124.006, -0.7617223, 0, 0, -0.6479037) /* Location */
-/* @teleloc 0x80900012 [71.626260 38.826470 124.006000] -0.761722 0.000000 0.000000 -0.647904 */
-     , (1343226347, 8040, 459077, 70, -80, 0.005999982, 1, 0, 0, 0) /* PCAPRecordedLocation */
+VALUES (1343226347, 1, 2156920850, 71.62626, 38.826473, 124.006004, -0.76172227, 0, 0, -0.6479037) /* Location */
+/* @teleloc 0x80900012 [71.626259 38.826473 124.006004] -0.761722 0.000000 0.000000 -0.647904 */
+     , (1343226347, 8040, 459077, 70, -80, 0.0059999824, 1, 0, 0, 0) /* PCAPRecordedLocation */
 /* @teleloc 0x00070145 [70.000000 -80.000000 0.006000] 1.000000 0.000000 0.000000 0.000000 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)

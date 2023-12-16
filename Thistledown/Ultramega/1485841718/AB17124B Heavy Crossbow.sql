@@ -9,7 +9,7 @@ VALUES (2870415947,   1,        256) /* ItemType - MissileWeapon */
      , (2870415947,  18,          1) /* UiEffects - Magical */
      , (2870415947,  19,       4297) /* Value */
      , (2870415947,  50,          2) /* AmmoType - Bolt */
-     , (2870415947,  51,          2) /* CombatUse - Missle */
+     , (2870415947,  51,          2) /* CombatUse - Missile */
      , (2870415947,  65,        101) /* Placement - Resting */
      , (2870415947,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2870415947, 131,         12) /* MaterialType - Amethyst */

@@ -19,7 +19,7 @@ VALUES (1343022668,   1, True ) /* Stuck */
      , (1343022668,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343022668,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1343022668,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343022668,   1, 'Enigmatic Moon') /* Name */;
@@ -36,8 +36,8 @@ VALUES (1343022668,   1,   33561110) /* Setup */
      , (1343022668, 8005,     104643) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343022668, 8040, 3465871412, 146.3663, 92.82862, 20.006, -0.8764284, 0, 0, -0.4815323) /* PCAPRecordedLocation */
-/* @teleloc 0xCE950034 [146.366300 92.828620 20.006000] -0.876428 0.000000 0.000000 -0.481532 */;
+VALUES (1343022668, 8040, 3465871412, 146.36632, 92.82862, 20.005999, -0.87642837, 0, -0, -0.4815323) /* PCAPRecordedLocation */
+/* @teleloc 0xCE950034 [146.366318 92.828621 20.005999] -0.876428 0.000000 -0.000000 -0.481532 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343022668,  26, 1343003249) /* Monarch */

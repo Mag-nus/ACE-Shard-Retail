@@ -25,8 +25,8 @@ VALUES (1344172148,   1,         16) /* ItemType - Creature */
      , (1344172148, 188,         10) /* HeritageGroup - Penumbraen */
      , (1344172148, 199, 1422546149) /* HousePurchaseTimestamp */
      , (1344172148, 234,          1) /* AugmentationBonusXp */
-     , (1344172148, 261,         33) /* CharacterTitleId */
-     , (1344172148, 281,          2) /* Faction1Bits */
+     , (1344172148, 261,         33) /* CharacterTitleId - ChainBreaker */
+     , (1344172148, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1344172148, 288,          1) /* SocietyRankEldweb */
      , (1344172148, 298,          1) /* AugmentationCriticalExpertise */
      , (1344172148, 302,          1) /* AugmentationSkilledMagic */

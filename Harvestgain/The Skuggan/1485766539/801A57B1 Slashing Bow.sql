@@ -9,7 +9,7 @@ VALUES (2149210033,   1,        256) /* ItemType - MissileWeapon */
      , (2149210033,  18,       1025) /* UiEffects - Magical, Slashing */
      , (2149210033,  19,       6217) /* Value */
      , (2149210033,  50,          1) /* AmmoType - Arrow */
-     , (2149210033,  51,          2) /* CombatUse - Missle */
+     , (2149210033,  51,          2) /* CombatUse - Missile */
      , (2149210033,  65,        101) /* Placement - Resting */
      , (2149210033,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2149210033, 131,         45) /* MaterialType - WhiteJade */

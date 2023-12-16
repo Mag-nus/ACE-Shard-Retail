@@ -13,7 +13,7 @@ VALUES (1343774260,   1,         16) /* ItemType - Creature */
      , (1343774260, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343774260, 134,          4) /* PlayerKillerStatus - PK */
      , (1343774260, 188,          3) /* HeritageGroup - Sho */
-     , (1343774260, 261,        458) /* CharacterTitleId */
+     , (1343774260, 261,        458) /* CharacterTitleId - WarrioroftheSeventhCircle */
      , (1343774260, 390,          0) /* Enlightenment */
      , (1343774260, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
@@ -50,9 +50,9 @@ VALUES (1343774260,   1,   33554433) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343774260, 1, 1912603263, 170, -177.984, 0.01, 1, 0, 0, 0) /* Location */
-/* @teleloc 0x7200027F [170.000000 -177.984000 0.010000] 1.000000 0.000000 0.000000 0.000000 */
-     , (1343774260, 8040, 3387490307, 10.98039, 64.89902, -0.09499998, -0.5651605, 0, 0, -0.824981) /* PCAPRecordedLocation */
-/* @teleloc 0xC9E90003 [10.980390 64.899020 -0.095000] -0.565161 0.000000 0.000000 -0.824981 */;
+/* @teleloc 0x7200027F [170.000000 -177.983994 0.010000] 1.000000 0.000000 0.000000 0.000000 */
+     , (1343774260, 8040, 3387490307, 10.980386, 64.89902, -0.09499998, -0.5651605, 0, -0, -0.824981) /* PCAPRecordedLocation */
+/* @teleloc 0xC9E90003 [10.980386 64.899017 -0.095000] -0.565161 0.000000 -0.000000 -0.824981 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343774260,  26, 1344015960) /* Monarch */

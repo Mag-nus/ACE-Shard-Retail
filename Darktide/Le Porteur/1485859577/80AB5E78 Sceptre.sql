@@ -14,7 +14,7 @@ VALUES (2158714488,   1,      32768) /* ItemType - Caster */
      , (2158714488, 131,         19) /* MaterialType - Citrine */
      , (2158714488, 151,          2) /* HookType - Wall */
      , (2158714488, 171,          6) /* NumTimesTinkered */
-     , (2158714488, 172,          3) /* AppraisalLongDescDecoration */
+     , (2158714488, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2158714488, 179,         16) /* ImbuedEffect - PierceRending */
      , (2158714488, 9015,         25) /* InventoryOrder */;
 

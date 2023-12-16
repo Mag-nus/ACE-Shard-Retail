@@ -9,7 +9,7 @@ VALUES (2164189743,   1,        256) /* ItemType - MissileWeapon */
      , (2164189743,  18,       2048) /* UiEffects - Piercing */
      , (2164189743,  19,       3346) /* Value */
      , (2164189743,  50,          1) /* AmmoType - Arrow */
-     , (2164189743,  51,          2) /* CombatUse - Missle */
+     , (2164189743,  51,          2) /* CombatUse - Missile */
      , (2164189743,  65,        101) /* Placement - Resting */
      , (2164189743,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2164189743, 131,         74) /* MaterialType - Mahogany */

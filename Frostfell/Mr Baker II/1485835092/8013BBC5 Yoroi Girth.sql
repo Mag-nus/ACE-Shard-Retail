@@ -24,8 +24,8 @@ VALUES (2148776901,   1,          2) /* ItemType - Armor */
      , (2148776901, 159,          1) /* WieldSkillType - Axe */
      , (2148776901, 160,        180) /* WieldDifficulty */
      , (2148776901, 171,         10) /* NumTimesTinkered */
-     , (2148776901, 172,          1) /* AppraisalLongDescDecoration */
-     , (2148776901, 176,          7) /* AppraisalItemSkill */
+     , (2148776901, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (2148776901, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (2148776901, 265,         22) /* EquipmentSetId - Swift */
      , (2148776901, 375,          1) /* GearCritDamageResist */
      , (2148776901, 9015,          9) /* InventoryOrder */;

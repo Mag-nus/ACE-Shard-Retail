@@ -11,7 +11,7 @@ VALUES (3628288218,   1,          8) /* ItemType - Jewelry */
      , (3628288218,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3628288218, 105,          2) /* ItemWorkmanship */
      , (3628288218, 131,         58) /* MaterialType - Bronze */
-     , (3628288218, 172,          3) /* AppraisalLongDescDecoration */
+     , (3628288218, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (3628288218, 9015,         22) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

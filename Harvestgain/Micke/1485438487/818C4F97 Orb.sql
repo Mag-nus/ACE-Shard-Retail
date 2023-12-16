@@ -21,7 +21,7 @@ VALUES (2173456279,   1,      32768) /* ItemType - Caster */
      , (2173456279, 131,         51) /* MaterialType - Ivory */
      , (2173456279, 151,          2) /* HookType - Wall */
      , (2173456279, 171,         10) /* NumTimesTinkered */
-     , (2173456279, 172,          7) /* AppraisalLongDescDecoration */
+     , (2173456279, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2173456279, 177,          7) /* GemCount */
      , (2173456279, 178,         21) /* GemType */
      , (2173456279, 188,          1) /* HeritageGroup - Aluvian */

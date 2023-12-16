@@ -19,10 +19,10 @@ VALUES (1343255819,   1, True ) /* Stuck */
      , (1343255819,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343255819,  39, 1.20000004768372) /* DefaultScale */
-     , (1343255819, 8010, -5.9461784362793) /* PCAPRecordedVelocityX */
-     , (1343255819, 8011, 2.55753922462463) /* PCAPRecordedVelocityY */
-     , (1343255819, 8012, -1.45261693000793) /* PCAPRecordedVelocityZ */;
+VALUES (1343255819,  39, 1.2000000476837158) /* DefaultScale */
+     , (1343255819, 8010, -5.946178436279297) /* PCAPRecordedVelocityX */
+     , (1343255819, 8011, 2.557539224624634) /* PCAPRecordedVelocityY */
+     , (1343255819, 8012, -1.4526169300079346) /* PCAPRecordedVelocityZ */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343255819,   1, 'Red and Gold Letters') /* Name */;
@@ -39,10 +39,10 @@ VALUES (1343255819,   1,   33561110) /* Setup */
      , (1343255819, 8005,     104583) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Velocity, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343255819, 1, 459092, 80.88273, -40.43932, 0.005999982, 0.6944677, 0, 0, -0.7195239) /* Location */
-/* @teleloc 0x00070154 [80.882730 -40.439320 0.006000] 0.694468 0.000000 0.000000 -0.719524 */
-     , (1343255819, 8040, 459075, 70, -60, 0.005999982, -4.371139E-08, 0, 0, -1) /* PCAPRecordedLocation */
-/* @teleloc 0x00070143 [70.000000 -60.000000 0.006000] 0.000000 0.000000 0.000000 -1.000000 */;
+VALUES (1343255819, 1, 459092, 80.88273, -40.439323, 0.0059999824, 0.6944677, 0, 0, -0.7195239) /* Location */
+/* @teleloc 0x00070154 [80.882729 -40.439323 0.006000] 0.694468 0.000000 0.000000 -0.719524 */
+     , (1343255819, 8040, 459075, 70, -60, 0.0059999824, -4.371139E-08, 0, -0, -1) /* PCAPRecordedLocation */
+/* @teleloc 0x00070143 [70.000000 -60.000000 0.006000] -0.000000 0.000000 -0.000000 -1.000000 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343255819, 8000, 1343255819) /* PCAPRecordedObjectIID */;

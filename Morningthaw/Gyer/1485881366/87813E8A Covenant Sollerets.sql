@@ -25,7 +25,7 @@ VALUES (2273394314,   1,          2) /* ItemType - Armor */
      , (2273394314, 158,          2) /* WieldRequirements - RawSkill */
      , (2273394314, 159,          7) /* WieldSkillType - MissileDefense */
      , (2273394314, 160,        184) /* WieldDifficulty */
-     , (2273394314, 172,          3) /* AppraisalLongDescDecoration */
+     , (2273394314, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2273394314, 188,          2) /* HeritageGroup - Gharundim */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

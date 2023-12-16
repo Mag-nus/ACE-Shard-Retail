@@ -24,7 +24,7 @@ VALUES (2621945344,   1,          2) /* ItemType - Armor */
      , (2621945344, 158,          7) /* WieldRequirements - Level */
      , (2621945344, 159,          1) /* WieldSkillType - Axe */
      , (2621945344, 160,        180) /* WieldDifficulty */
-     , (2621945344, 172,          3) /* AppraisalLongDescDecoration */
+     , (2621945344, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2621945344, 188,          4) /* HeritageGroup - Viamontian */
      , (2621945344, 265,         17) /* EquipmentSetId - Tinkers */;
 

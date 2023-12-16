@@ -21,7 +21,7 @@ VALUES (2149225138,   1,          2) /* ItemType - Armor */
      , (2149225138, 115,          0) /* ItemSkillLevelLimit */
      , (2149225138, 131,         54) /* MaterialType - GromnieHide */
      , (2149225138, 171,          7) /* NumTimesTinkered */
-     , (2149225138, 172,          7) /* AppraisalLongDescDecoration */
+     , (2149225138, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2149225138, 177,          2) /* GemCount */
      , (2149225138, 178,         23) /* GemType */
      , (2149225138, 188,          3) /* HeritageGroup - Sho */

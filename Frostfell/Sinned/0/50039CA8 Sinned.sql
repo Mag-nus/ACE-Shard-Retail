@@ -18,9 +18,9 @@ VALUES (1342413992,   1,         16) /* ItemType - Creature */
      , (1342413992, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342413992, 188,          1) /* HeritageGroup - Aluvian */
      , (1342413992, 192,        700) /* FakeFishingSkill */
-     , (1342413992, 261,        817) /* CharacterTitleId */
+     , (1342413992, 261,        817) /* CharacterTitleId - HauntsYourDreams */
      , (1342413992, 262,        282) /* NumCharacterTitles */
-     , (1342413992, 281,          1) /* Faction1Bits */
+     , (1342413992, 281,          1) /* Faction1Bits - CelestialHand */
      , (1342413992, 287,       1001) /* SocietyRankCelhan */
      , (1342413992, 307,         18) /* DamageRating */
      , (1342413992, 308,          3) /* DamageResistRating */
@@ -62,10 +62,10 @@ VALUES (1342413992,   1,   33554433) /* Setup */
      , (1342413992, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1342413992, 1, 2847146026, 125.8414, 45.05185, 94.005, 0.6427876, 0, 0, -0.7660444) /* Location */
-/* @teleloc 0xA9B4002A [125.841400 45.051850 94.005000] 0.642788 0.000000 0.000000 -0.766044 */
-     , (1342413992, 8040, 2847146026, 125.8414, 45.05185, 94.005, 0.6427876, 0, 0, -0.7660444) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B4002A [125.841400 45.051850 94.005000] 0.642788 0.000000 0.000000 -0.766044 */;
+VALUES (1342413992, 1, 2847146026, 125.84142, 45.051853, 94.005005, 0.64278764, 0, 0, -0.76604444) /* Location */
+/* @teleloc 0xA9B4002A [125.841423 45.051853 94.005005] 0.642788 0.000000 0.000000 -0.766044 */
+     , (1342413992, 8040, 2847146026, 125.84142, 45.051853, 94.005005, 0.64278764, 0, 0, -0.76604444) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B4002A [125.841423 45.051853 94.005005] 0.642788 0.000000 0.000000 -0.766044 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342413992,  26, 1342413992) /* Monarch */

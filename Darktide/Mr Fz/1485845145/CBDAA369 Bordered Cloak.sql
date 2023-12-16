@@ -19,7 +19,7 @@ VALUES (3420103529,   1,          4) /* ItemType - Clothing */
      , (3420103529, 158,          7) /* WieldRequirements - Level */
      , (3420103529, 159,          1) /* WieldSkillType - Axe */
      , (3420103529, 160,         90) /* WieldDifficulty */
-     , (3420103529, 172,          1) /* AppraisalLongDescDecoration */
+     , (3420103529, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (3420103529, 265,         57) /* EquipmentSetId - CloakCrossbow */
      , (3420103529, 319,          3) /* ItemMaxLevel */
      , (3420103529, 320,          2) /* ItemXpStyle - ScalesWithLevel */

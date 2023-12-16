@@ -19,7 +19,7 @@ VALUES (3175237199,   1,          8) /* ItemType - Jewelry */
      , (3175237199, 110,          0) /* ItemAllegianceRankLimit */
      , (3175237199, 115,          0) /* ItemSkillLevelLimit */
      , (3175237199, 131,         21) /* MaterialType - Emerald */
-     , (3175237199, 172,          5) /* AppraisalLongDescDecoration */
+     , (3175237199, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (3175237199, 177,          1) /* GemCount */
      , (3175237199, 178,         49) /* GemType */;
 

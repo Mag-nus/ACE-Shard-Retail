@@ -24,7 +24,7 @@ VALUES (1343163382,   1,         16) /* ItemType - Creature */
      , (1343163382, 139,         28) /* DeathLevel */
      , (1343163382, 188,          4) /* HeritageGroup - Viamontian */
      , (1343163382, 199, 1419451407) /* HousePurchaseTimestamp */
-     , (1343163382, 261,        585) /* CharacterTitleId */
+     , (1343163382, 261,        585) /* CharacterTitleId - NoviceoftheSea */
      , (1343163382, 307,          0) /* DamageRating */
      , (1343163382, 308,          0) /* DamageResistRating */
      , (1343163382, 312,          0) /* HealOverTime */

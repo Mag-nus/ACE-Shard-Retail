@@ -19,7 +19,7 @@ VALUES (3611343956,   1,          8) /* ItemType - Jewelry */
      , (3611343956, 110,          3) /* ItemAllegianceRankLimit */
      , (3611343956, 115,          0) /* ItemSkillLevelLimit */
      , (3611343956, 131,         63) /* MaterialType - Silver */
-     , (3611343956, 172,          3) /* AppraisalLongDescDecoration */
+     , (3611343956, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (3611343956, 188,          1) /* HeritageGroup - Aluvian */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

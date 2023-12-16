@@ -18,7 +18,7 @@ VALUES (3327046213,   1,          8) /* ItemType - Jewelry */
      , (3327046213, 110,          0) /* ItemAllegianceRankLimit */
      , (3327046213, 115,          0) /* ItemSkillLevelLimit */
      , (3327046213, 131,         23) /* MaterialType - GreenGarnet */
-     , (3327046213, 172,          7) /* AppraisalLongDescDecoration */
+     , (3327046213, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3327046213, 177,          3) /* GemCount */
      , (3327046213, 178,         26) /* GemType */
      , (3327046213, 9015,         10) /* InventoryOrder */;

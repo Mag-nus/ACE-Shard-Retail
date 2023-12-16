@@ -21,7 +21,7 @@ VALUES (3319914867,   1,          2) /* ItemType - Armor */
      , (3319914867, 110,          0) /* ItemAllegianceRankLimit */
      , (3319914867, 115,          0) /* ItemSkillLevelLimit */
      , (3319914867, 131,         60) /* MaterialType - Gold */
-     , (3319914867, 172,          7) /* AppraisalLongDescDecoration */
+     , (3319914867, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3319914867, 177,          2) /* GemCount */
      , (3319914867, 178,         38) /* GemType */
      , (3319914867, 188,          1) /* HeritageGroup - Aluvian */;

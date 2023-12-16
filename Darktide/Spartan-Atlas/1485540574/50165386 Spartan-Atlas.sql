@@ -25,7 +25,7 @@ VALUES (1343640454,   1,         16) /* ItemType - Creature */
      , (1343640454, 139,        112) /* DeathLevel */
      , (1343640454, 188,          2) /* HeritageGroup - Gharundim */
      , (1343640454, 199, 1248051653) /* HousePurchaseTimestamp */
-     , (1343640454, 261,         86) /* CharacterTitleId */
+     , (1343640454, 261,         86) /* CharacterTitleId - Lightbringer */
      , (1343640454, 307,          0) /* DamageRating */
      , (1343640454, 308,          0) /* DamageResistRating */
      , (1343640454, 312,          0) /* HealOverTime */

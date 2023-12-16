@@ -50,7 +50,7 @@ VALUES (3630617567,   1,   33554647) /* Setup */
      , (3630617567,   6,   67108990) /* PaletteBase */
      , (3630617567,   8,  100671349) /* Icon */
      , (3630617567,  22,  872415275) /* PhysicsEffectTable */
-     , (3630617567,  41,         34) /* ItemSpecializedOnly */
+     , (3630617567,  41,         34) /* ItemSpecializedOnly - WarMagic */
      , (3630617567, 8001,    2441368) /* PCAPRecordedWeenieHeader - Value, Usable, UiEffects, Container, ValidLocations, Priority, Burden */
      , (3630617567, 8003,         18) /* PCAPRecordedObjectDesc - Inscribable, Attackable */
      , (3630617567, 8005,     137217) /* PCAPRecordedPhysicsDesc - CSetup, STable, PeTable, AnimationFrame */;

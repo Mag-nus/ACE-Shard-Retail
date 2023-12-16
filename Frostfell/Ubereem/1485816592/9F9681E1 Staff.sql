@@ -21,7 +21,7 @@ VALUES (2677440993,   1,      32768) /* ItemType - Caster */
      , (2677440993, 131,         63) /* MaterialType - Silver */
      , (2677440993, 151,          2) /* HookType - Wall */
      , (2677440993, 171,          8) /* NumTimesTinkered */
-     , (2677440993, 172,          7) /* AppraisalLongDescDecoration */
+     , (2677440993, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2677440993, 177,          6) /* GemCount */
      , (2677440993, 178,         15) /* GemType */
      , (2677440993, 179,        512) /* ImbuedEffect - FireRending */
@@ -40,7 +40,7 @@ INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2677440993,   5, -0.0555555559694767) /* ManaRate */
      , (2677440993,  29,       1) /* WeaponDefense */
      , (2677440993,  39, 0.800000011920929) /* DefaultScale */
-     , (2677440993, 144, 0.150000005960464) /* ManaConversionMod */
+     , (2677440993, 144, 0.15000000596046448) /* ManaConversionMod */
      , (2677440993, 8004,       4) /* PCAPRecordedWorkmanship */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)

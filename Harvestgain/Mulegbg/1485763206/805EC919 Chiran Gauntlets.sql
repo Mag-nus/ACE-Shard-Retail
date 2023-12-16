@@ -21,8 +21,8 @@ VALUES (2153695513,   1,          2) /* ItemType - Armor */
      , (2153695513, 110,          8) /* ItemAllegianceRankLimit */
      , (2153695513, 115,        201) /* ItemSkillLevelLimit */
      , (2153695513, 131,          6) /* MaterialType - Silk */
-     , (2153695513, 172,          7) /* AppraisalLongDescDecoration */
-     , (2153695513, 176,          7) /* AppraisalItemSkill */
+     , (2153695513, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (2153695513, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (2153695513, 177,          2) /* GemCount */
      , (2153695513, 178,         20) /* GemType */
      , (2153695513, 188,          3) /* HeritageGroup - Sho */;

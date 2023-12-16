@@ -24,7 +24,7 @@ VALUES (3681936187,   1,          4) /* ItemType - Clothing */
      , (3681936187, 158,          7) /* WieldRequirements - Level */
      , (3681936187, 159,          1) /* WieldSkillType - Axe */
      , (3681936187, 160,        180) /* WieldDifficulty */
-     , (3681936187, 172,          1) /* AppraisalLongDescDecoration */
+     , (3681936187, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (3681936187, 265,         18) /* EquipmentSetId - Crafters */
      , (3681936187, 374,          1) /* GearCritDamage */
      , (3681936187, 9015,          3) /* InventoryOrder */;

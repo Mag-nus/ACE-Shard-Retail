@@ -26,7 +26,7 @@ VALUES (1342772034,   1,         16) /* ItemType - Creature */
      , (1342772034, 188,          3) /* HeritageGroup - Sho */
      , (1342772034, 192,          0) /* FakeFishingSkill */
      , (1342772034, 199,          0) /* HousePurchaseTimestamp */
-     , (1342772034, 261,         31) /* CharacterTitleId */
+     , (1342772034, 261,         31) /* CharacterTitleId - BunnyMaster */
      , (1342772034, 307,          0) /* DamageRating */
      , (1342772034, 308,          0) /* DamageResistRating */
      , (1342772034, 312,          0) /* HealOverTime */

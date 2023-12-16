@@ -23,7 +23,7 @@ VALUES (2965276647,   1,          1) /* ItemType - MeleeWeapon */
      , (2965276647, 158,          7) /* WieldRequirements - Level */
      , (2965276647, 159,          1) /* WieldSkillType - Axe */
      , (2965276647, 160,        140) /* WieldDifficulty */
-     , (2965276647, 263,          2) /* ResistanceModifierType */
+     , (2965276647, 263,          2) /* ResistanceModifierType - Pierce */
      , (2965276647, 353,          6) /* WeaponType - Dagger */
      , (2965276647, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (2965276647, 9015,         12) /* InventoryOrder */;

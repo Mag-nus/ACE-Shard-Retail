@@ -29,7 +29,7 @@ VALUES (1343479509,   1,         16) /* ItemType - Creature */
      , (1343479509, 232,          1) /* AugmentationSpellsRemainPastDeath */
      , (1343479509, 235,          4) /* AugmentationBonusSalvage */
      , (1343479509, 238,          5) /* AugmentationIncreasedSpellDuration */
-     , (1343479509, 261,          1) /* CharacterTitleId */
+     , (1343479509, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343479509, 298,          1) /* AugmentationCriticalExpertise */
      , (1343479509, 299,          1) /* AugmentationCriticalPower */
      , (1343479509, 300,          1) /* AugmentationSkilledMelee */

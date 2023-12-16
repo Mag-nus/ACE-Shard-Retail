@@ -21,7 +21,7 @@ VALUES (1343170292,   1,         16) /* ItemType - Creature */
      , (1343170292, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343170292, 188,          6) /* HeritageGroup - Gearknight */
      , (1343170292, 199, 1478550737) /* HousePurchaseTimestamp */
-     , (1343170292, 261,         13) /* CharacterTitleId */
+     , (1343170292, 261,         13) /* CharacterTitleId - WarMage */
      , (1343170292, 307,          0) /* DamageRating */
      , (1343170292, 308,          3) /* DamageResistRating */
      , (1343170292, 310,          1) /* AugmentationDamageReduction */

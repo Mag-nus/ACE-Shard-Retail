@@ -22,8 +22,8 @@ VALUES (2166168424,   1,          2) /* ItemType - Armor */
      , (2166168424, 115,          0) /* ItemSkillLevelLimit */
      , (2166168424, 131,         61) /* MaterialType - Iron */
      , (2166168424, 151,          2) /* HookType - Wall */
-     , (2166168424, 172,          1) /* AppraisalLongDescDecoration */
-     , (2166168424, 324,          6) /* HeritageSpecificArmor */;
+     , (2166168424, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (2166168424, 324,          6) /* HeritageSpecificArmor - Gearknight */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (2166168424,   1, False) /* Stuck */

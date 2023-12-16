@@ -14,7 +14,7 @@ VALUES (2166113612,   1,        256) /* ItemType - MissileWeapon */
      , (2166113612,  48,         47) /* WeaponSkill - MissileWeapons */
      , (2166113612,  49,        111) /* WeaponTime */
      , (2166113612,  50,          2) /* AmmoType - Bolt */
-     , (2166113612,  51,          2) /* CombatUse - Missle */
+     , (2166113612,  51,          2) /* CombatUse - Missile */
      , (2166113612,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2166113612, 105,          2) /* ItemWorkmanship */
      , (2166113612, 106,         53) /* ItemSpellcraft */
@@ -25,8 +25,8 @@ VALUES (2166113612,   1,        256) /* ItemType - MissileWeapon */
      , (2166113612, 115,         73) /* ItemSkillLevelLimit */
      , (2166113612, 131,         76) /* MaterialType - Pine */
      , (2166113612, 151,          2) /* HookType - Wall */
-     , (2166113612, 172,          3) /* AppraisalLongDescDecoration */
-     , (2166113612, 176,         47) /* AppraisalItemSkill */
+     , (2166113612, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (2166113612, 176,         47) /* AppraisalItemSkill - MissileWeapons */
      , (2166113612, 188,          4) /* HeritageGroup - Viamontian */
      , (2166113612, 353,          9) /* WeaponType - Crossbow */
      , (2166113612, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */;

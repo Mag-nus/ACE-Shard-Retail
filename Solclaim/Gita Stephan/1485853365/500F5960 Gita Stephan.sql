@@ -16,7 +16,7 @@ VALUES (1343183200,   1,         16) /* ItemType - Creature */
      , (1343183200, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343183200, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343183200, 188,          1) /* HeritageGroup - Aluvian */
-     , (1343183200, 261,         13) /* CharacterTitleId */
+     , (1343183200, 261,         13) /* CharacterTitleId - WarMage */
      , (1343183200, 307,          0) /* DamageRating */
      , (1343183200, 308,          0) /* DamageResistRating */
      , (1343183200, 312,          0) /* HealOverTime */
@@ -115,8 +115,6 @@ VALUES (1343183200,   1,   33554510) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343183200, 1, 2265121197, 12.3199, -28.482, 0.004999995, -0.33894593, 0, 0, -0.94080585) /* Location */
 /* @teleloc 0x870301AD [12.319900 -28.482000 0.005000] -0.338946 0.000000 0.000000 -0.940806 */
-     , (1343183200, 8040, 2265121197, 12.3199, -28.482, 0.004999995, 0.33894598, 0, 0, 0.94080585) /* PCAPRecordedLocation */
-/* @teleloc 0x870301AD [12.319900 -28.482000 0.005000] 0.338946 0.000000 0.000000 0.940806 */
      , (1343183200, 8040, 2265121197, 12.3199, -28.482, 0.004999995, 0.33894598, 0, 0, 0.94080585) /* PCAPRecordedLocation */
 /* @teleloc 0x870301AD [12.319900 -28.482000 0.005000] 0.338946 0.000000 0.000000 0.940806 */;
 

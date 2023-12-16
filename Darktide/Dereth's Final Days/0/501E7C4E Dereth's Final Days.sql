@@ -19,7 +19,7 @@ VALUES (1344175182,   1, True ) /* Stuck */
      , (1344175182,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1344175182,  39, 0.600000023841858) /* DefaultScale */;
+VALUES (1344175182,  39, 0.6000000238418579) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1344175182,   1, 'Dereth''s Final Days') /* Name */;
@@ -36,10 +36,10 @@ VALUES (1344175182,   1,   33561120) /* Setup */
      , (1344175182, 8005,     104579) /* PCAPRecordedPhysicsDesc - CSetup, MTable, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1344175182, 1, 3872587798, 71.80183, 130.8867, 217.9961, -0.7433834, 0, 0, -0.6688656) /* Location */
-/* @teleloc 0xE6D30016 [71.801830 130.886700 217.996100] -0.743383 0.000000 0.000000 -0.668866 */
-     , (1344175182, 8040, 3872587798, 52.71112, 132.0432, 217.9961, -0.7879987, 0, 0, -0.6156769) /* PCAPRecordedLocation */
-/* @teleloc 0xE6D30016 [52.711120 132.043200 217.996100] -0.787999 0.000000 0.000000 -0.615677 */;
+VALUES (1344175182, 1, 3872587798, 71.801834, 130.88675, 217.9961, -0.7433834, 0, 0, -0.66886556) /* Location */
+/* @teleloc 0xE6D30016 [71.801834 130.886749 217.996094] -0.743383 0.000000 0.000000 -0.668866 */
+     , (1344175182, 8040, 3872587798, 52.71112, 132.04317, 217.9961, -0.78799874, 0, -0, -0.6156769) /* PCAPRecordedLocation */
+/* @teleloc 0xE6D30016 [52.711121 132.043167 217.996094] -0.787999 0.000000 -0.000000 -0.615677 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1344175182, 8000, 1344175182) /* PCAPRecordedObjectIID */;

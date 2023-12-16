@@ -23,7 +23,7 @@ VALUES (3710969334,   1,          2) /* ItemType - Armor */
      , (3710969334, 158,          7) /* WieldRequirements - Level */
      , (3710969334, 159,          1) /* WieldSkillType - Axe */
      , (3710969334, 160,        150) /* WieldDifficulty */
-     , (3710969334, 172,          5) /* AppraisalLongDescDecoration */
+     , (3710969334, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (3710969334, 177,          2) /* GemCount */
      , (3710969334, 178,         16) /* GemType */
      , (3710969334, 265,         13) /* EquipmentSetId - Soldiers */

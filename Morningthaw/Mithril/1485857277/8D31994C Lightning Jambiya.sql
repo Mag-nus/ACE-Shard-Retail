@@ -25,8 +25,8 @@ VALUES (2368837964,   1,          1) /* ItemType - MeleeWeapon */
      , (2368837964, 115,        295) /* ItemSkillLevelLimit */
      , (2368837964, 131,         47) /* MaterialType - WhiteSapphire */
      , (2368837964, 151,          2) /* HookType - Wall */
-     , (2368837964, 172,          7) /* AppraisalLongDescDecoration */
-     , (2368837964, 176,         46) /* AppraisalItemSkill */
+     , (2368837964, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (2368837964, 176,         46) /* AppraisalItemSkill - FinesseWeapons */
      , (2368837964, 177,          2) /* GemCount */
      , (2368837964, 178,         20) /* GemType */
      , (2368837964, 188,          2) /* HeritageGroup - Gharundim */

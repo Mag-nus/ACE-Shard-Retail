@@ -16,7 +16,7 @@ VALUES (1343206962,   1,         16) /* ItemType - Creature */
      , (1343206962, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343206962, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343206962, 188,          1) /* HeritageGroup - Aluvian */
-     , (1343206962, 261,         14) /* CharacterTitleId */
+     , (1343206962, 261,         14) /* CharacterTitleId - Wayfarer */
      , (1343206962, 307,          0) /* DamageRating */
      , (1343206962, 308,          0) /* DamageResistRating */
      , (1343206962, 312,          0) /* HealOverTime */

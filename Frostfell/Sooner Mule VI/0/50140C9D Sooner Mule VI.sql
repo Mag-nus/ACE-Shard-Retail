@@ -19,7 +19,7 @@ VALUES (1343491229,   1, True ) /* Stuck */
      , (1343491229,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343491229,  39, 1.29999995231628) /* DefaultScale */;
+VALUES (1343491229,  39, 1.2999999523162842) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343491229,   1, 'Sooner Mule VI') /* Name */;
@@ -37,9 +37,9 @@ VALUES (1343491229,   1,   33561112) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343491229, 1, 3332964381, 79.24204, 97.05019, 42.0065, 0.7716494, 0, 0, -0.6360481) /* Location */
-/* @teleloc 0xC6A9001D [79.242040 97.050190 42.006500] 0.771649 0.000000 0.000000 -0.636048 */
-     , (1343491229, 8040, 3332964380, 78.69616, 94.53533, 42.0065, 0.8369498, 0, 0, -0.5472797) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001C [78.696160 94.535330 42.006500] 0.836950 0.000000 0.000000 -0.547280 */;
+/* @teleloc 0xC6A9001D [79.242043 97.050194 42.006500] 0.771649 0.000000 0.000000 -0.636048 */
+     , (1343491229, 8040, 3332964380, 78.69616, 94.53533, 42.0065, 0.8369498, 0, 0, -0.54727966) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A9001C [78.696159 94.535332 42.006500] 0.836950 0.000000 0.000000 -0.547280 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343491229,  26, 1343089867) /* Monarch */

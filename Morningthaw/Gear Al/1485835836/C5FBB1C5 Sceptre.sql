@@ -14,7 +14,7 @@ VALUES (3321606597,   1,      32768) /* ItemType - Caster */
      , (3321606597, 105,          5) /* ItemWorkmanship */
      , (3321606597, 131,         61) /* MaterialType - Iron */
      , (3321606597, 151,          2) /* HookType - Wall */
-     , (3321606597, 172,          3) /* AppraisalLongDescDecoration */;
+     , (3321606597, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (3321606597,   1, False) /* Stuck */

@@ -22,7 +22,7 @@ VALUES (1343357531,   1,         16) /* ItemType - Creature */
      , (1343357531, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343357531, 188,          3) /* HeritageGroup - Sho */
      , (1343357531, 199, 1397585825) /* HousePurchaseTimestamp */
-     , (1343357531, 261,         11) /* CharacterTitleId */
+     , (1343357531, 261,         11) /* CharacterTitleId - Soldier */
      , (1343357531, 307,          5) /* DamageRating */
      , (1343357531, 308,          0) /* DamageResistRating */
      , (1343357531, 312,          0) /* HealOverTime */

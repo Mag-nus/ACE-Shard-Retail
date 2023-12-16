@@ -9,7 +9,7 @@ VALUES (2249825515,   1,        256) /* ItemType - MissileWeapon */
      , (2249825515,  18,        129) /* UiEffects - Magical, Frost */
      , (2249825515,  19,       7399) /* Value */
      , (2249825515,  50,          1) /* AmmoType - Arrow */
-     , (2249825515,  51,          2) /* CombatUse - Missle */
+     , (2249825515,  51,          2) /* CombatUse - Missile */
      , (2249825515,  65,        101) /* Placement - Resting */
      , (2249825515,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2249825515, 131,         64) /* MaterialType - Steel */

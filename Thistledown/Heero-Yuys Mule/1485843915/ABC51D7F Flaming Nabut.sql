@@ -25,7 +25,7 @@ VALUES (2881822079,   1,          1) /* ItemType - MeleeWeapon */
      , (2881822079, 115,        253) /* ItemSkillLevelLimit */
      , (2881822079, 131,         13) /* MaterialType - Aquamarine */
      , (2881822079, 151,          2) /* HookType - Wall */
-     , (2881822079, 176,         45) /* AppraisalItemSkill */
+     , (2881822079, 176,         45) /* AppraisalItemSkill - LightWeapons */
      , (2881822079, 188,          2) /* HeritageGroup - Gharundim */
      , (2881822079, 353,          7) /* WeaponType - Staff */
      , (2881822079, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */

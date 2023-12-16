@@ -12,7 +12,7 @@ VALUES (2240725110,   1,        256) /* ItemType - MissileWeapon */
      , (2240725110,  45,          1) /* DamageType - Slash */
      , (2240725110,  48,         47) /* WeaponSkill - MissileWeapons */
      , (2240725110,  49,         10) /* WeaponTime */
-     , (2240725110,  51,          2) /* CombatUse - Missle */
+     , (2240725110,  51,          2) /* CombatUse - Missile */
      , (2240725110,  65,        101) /* Placement - Resting */
      , (2240725110,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (2240725110, 105,          3) /* ItemWorkmanship */
@@ -24,7 +24,7 @@ VALUES (2240725110,   1,        256) /* ItemType - MissileWeapon */
      , (2240725110, 115,          0) /* ItemSkillLevelLimit */
      , (2240725110, 131,          1) /* MaterialType - Ceramic */
      , (2240725110, 151,          2) /* HookType - Wall */
-     , (2240725110, 172,          3) /* AppraisalLongDescDecoration */
+     , (2240725110, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2240725110, 353,         10) /* WeaponType - Thrown */
      , (2240725110, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (2240725110, 9015,         36) /* InventoryOrder */;

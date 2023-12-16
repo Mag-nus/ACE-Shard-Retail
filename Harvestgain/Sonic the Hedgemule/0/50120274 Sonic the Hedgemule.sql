@@ -19,7 +19,7 @@ VALUES (1343357556,   1, True ) /* Stuck */
      , (1343357556,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343357556,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1343357556,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343357556,   1, 'Sonic the Hedgemule') /* Name */;
@@ -36,10 +36,10 @@ VALUES (1343357556,   1,   33561110) /* Setup */
      , (1343357556, 8005,     104643) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343357556, 1, 23855459, 17.49089, -15.19706, 0.005999982, 0.6814669, 0, 0, -0.7318489) /* Location */
-/* @teleloc 0x016C0163 [17.490890 -15.197060 0.006000] 0.681467 0.000000 0.000000 -0.731849 */
-     , (1343357556, 8040, 23855459, 21.69988, -18.26408, 0.005999982, 0.9960907, 0, 0, -0.08833697) /* PCAPRecordedLocation */
-/* @teleloc 0x016C0163 [21.699880 -18.264080 0.006000] 0.996091 0.000000 0.000000 -0.088337 */;
+VALUES (1343357556, 1, 23855459, 17.490892, -15.197056, 0.0059999824, 0.68146694, 0, 0, -0.7318489) /* Location */
+/* @teleloc 0x016C0163 [17.490892 -15.197056 0.006000] 0.681467 0.000000 0.000000 -0.731849 */
+     , (1343357556, 8040, 23855459, 21.69988, -18.264082, 0.0059999824, 0.99609065, 0, 0, -0.08833697) /* PCAPRecordedLocation */
+/* @teleloc 0x016C0163 [21.699881 -18.264082 0.006000] 0.996091 0.000000 0.000000 -0.088337 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343357556, 8000, 1343357556) /* PCAPRecordedObjectIID */;

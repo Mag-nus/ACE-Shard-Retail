@@ -23,7 +23,7 @@ VALUES (3710967710,   1,          2) /* ItemType - Armor */
      , (3710967710, 158,          7) /* WieldRequirements - Level */
      , (3710967710, 159,          1) /* WieldSkillType - Axe */
      , (3710967710, 160,        180) /* WieldDifficulty */
-     , (3710967710, 172,          3) /* AppraisalLongDescDecoration */
+     , (3710967710, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (3710967710, 188,          4) /* HeritageGroup - Viamontian */
      , (3710967710, 265,         24) /* EquipmentSetId - Reinforced */
      , (3710967710, 9015,          3) /* InventoryOrder */;

@@ -14,8 +14,8 @@ VALUES (1343909865,   1,         16) /* ItemType - Creature */
      , (1343909865, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343909865, 134,          4) /* PlayerKillerStatus - PK */
      , (1343909865, 188,          1) /* HeritageGroup - Aluvian */
-     , (1343909865, 261,        646) /* CharacterTitleId */
-     , (1343909865, 281,          2) /* Faction1Bits */
+     , (1343909865, 261,        646) /* CharacterTitleId - DerethsElite */
+     , (1343909865, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1343909865, 288,       1001) /* SocietyRankEldweb */
      , (1343909865, 307,         48) /* DamageRating */
      , (1343909865, 308,         27) /* DamageResistRating */
@@ -63,9 +63,9 @@ VALUES (1343909865,   1,   33554433) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343909865, 1, 3370713131, 128.2559, 59.24827, 0.004999995, 0.6947371, 0, 0, -0.7192638) /* Location */
-/* @teleloc 0xC8E9002B [128.255900 59.248270 0.005000] 0.694737 0.000000 0.000000 -0.719264 */
-     , (1343909865, 8040, 3370713130, 132.475, 40.43642, 0.004999995, -0.9432769, 0, 0, -0.332007) /* PCAPRecordedLocation */
-/* @teleloc 0xC8E9002A [132.475000 40.436420 0.005000] -0.943277 0.000000 0.000000 -0.332007 */;
+/* @teleloc 0xC8E9002B [128.255905 59.248268 0.005000] 0.694737 0.000000 0.000000 -0.719264 */
+     , (1343909865, 8040, 3370713130, 132.475, 40.43642, 0.004999995, -0.94327694, 0, 0, -0.33200696) /* PCAPRecordedLocation */
+/* @teleloc 0xC8E9002A [132.475006 40.436420 0.005000] -0.943277 0.000000 0.000000 -0.332007 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343909865,  26, 1343917496) /* Monarch */

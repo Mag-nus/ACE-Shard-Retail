@@ -26,7 +26,7 @@ VALUES (2248068177,   1,      32768) /* ItemType - Caster */
      , (2248068177, 160,        385) /* WieldDifficulty */
      , (2248068177, 166,        101) /* SlayerCreatureType - Anekshay */
      , (2248068177, 171,         10) /* NumTimesTinkered */
-     , (2248068177, 172,          5) /* AppraisalLongDescDecoration */
+     , (2248068177, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2248068177, 177,          2) /* GemCount */
      , (2248068177, 178,         41) /* GemType */
      , (2248068177, 179,          1) /* ImbuedEffect - CriticalStrike */

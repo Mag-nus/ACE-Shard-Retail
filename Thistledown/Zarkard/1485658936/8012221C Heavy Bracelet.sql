@@ -19,7 +19,7 @@ VALUES (2148672028,   1,          8) /* ItemType - Jewelry */
      , (2148672028, 110,          0) /* ItemAllegianceRankLimit */
      , (2148672028, 115,          0) /* ItemSkillLevelLimit */
      , (2148672028, 131,         63) /* MaterialType - Silver */
-     , (2148672028, 172,          7) /* AppraisalLongDescDecoration */
+     , (2148672028, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2148672028, 177,          4) /* GemCount */
      , (2148672028, 178,         38) /* GemType */
      , (2148672028, 188,          3) /* HeritageGroup - Sho */;

@@ -27,7 +27,7 @@ VALUES (1342642440,   1,         16) /* ItemType - Creature */
      , (1342642440, 188,          1) /* HeritageGroup - Aluvian */
      , (1342642440, 192,          7) /* FakeFishingSkill */
      , (1342642440, 199, 1455091535) /* HousePurchaseTimestamp */
-     , (1342642440, 261,         22) /* CharacterTitleId */
+     , (1342642440, 261,         22) /* CharacterTitleId - AxeWarrior */
      , (1342642440, 307,          5) /* DamageRating */
      , (1342642440, 308,          0) /* DamageResistRating */
      , (1342642440, 312,          0) /* HealOverTime */

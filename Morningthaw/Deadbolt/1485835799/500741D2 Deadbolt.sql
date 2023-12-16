@@ -25,7 +25,7 @@ VALUES (1342652882,   1,         16) /* ItemType - Creature */
      , (1342652882, 139,         60) /* DeathLevel */
      , (1342652882, 188,          1) /* HeritageGroup - Aluvian */
      , (1342652882, 199, 1158551826) /* HousePurchaseTimestamp */
-     , (1342652882, 261,        133) /* CharacterTitleId */
+     , (1342652882, 261,        133) /* CharacterTitleId - SoldierSlaughterer */
      , (1342652882, 307,          0) /* DamageRating */
      , (1342652882, 308,          0) /* DamageResistRating */
      , (1342652882, 312,          0) /* HealOverTime */

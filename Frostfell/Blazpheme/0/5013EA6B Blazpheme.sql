@@ -14,7 +14,7 @@ VALUES (1343482475,   1,         16) /* ItemType - Creature */
      , (1343482475, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343482475, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343482475, 188,         10) /* HeritageGroup - Penumbraen */
-     , (1343482475, 261,        764) /* CharacterTitleId */
+     , (1343482475, 261,        764) /* CharacterTitleId - VanquisheroftheTitan */
      , (1343482475, 307,         10) /* DamageRating */
      , (1343482475, 308,         15) /* DamageResistRating */
      , (1343482475, 313,          1) /* CritRating */
@@ -55,10 +55,10 @@ VALUES (1343482475,   1,   33560942) /* Setup */
      , (1343482475, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343482475, 1, 3583574079, 190.1964, 154.9552, 374.005, -0.9811892, 0, 0, -0.1930487) /* Location */
-/* @teleloc 0xD599003F [190.196400 154.955200 374.005000] -0.981189 0.000000 0.000000 -0.193049 */
-     , (1343482475, 8040, 3583574072, 167.1994, 169.4223, 374.005, -0.3920892, 0, 0, 0.9199272) /* PCAPRecordedLocation */
-/* @teleloc 0xD5990038 [167.199400 169.422300 374.005000] -0.392089 0.000000 0.000000 0.919927 */;
+VALUES (1343482475, 1, 3583574079, 190.19635, 154.95523, 374.005, -0.9811892, 0, 0, -0.19304873) /* Location */
+/* @teleloc 0xD599003F [190.196350 154.955231 374.005005] -0.981189 0.000000 0.000000 -0.193049 */
+     , (1343482475, 8040, 3583574072, 167.19945, 169.42229, 374.005, -0.39208922, 0, 0, 0.9199272) /* PCAPRecordedLocation */
+/* @teleloc 0xD5990038 [167.199448 169.422287 374.005005] -0.392089 0.000000 0.000000 0.919927 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343482475,  26, 1343468823) /* Monarch */

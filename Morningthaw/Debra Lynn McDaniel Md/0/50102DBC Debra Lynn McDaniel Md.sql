@@ -19,7 +19,7 @@ VALUES (1343237564,   1, True ) /* Stuck */
      , (1343237564,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343237564,  39, 1.14999997615814) /* DefaultScale */;
+VALUES (1343237564,  39, 1.149999976158142) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343237564,   1, 'Debra Lynn McDaniel Md') /* Name */;
@@ -36,10 +36,10 @@ VALUES (1343237564,   1,   33561104) /* Setup */
      , (1343237564, 8005,     104643) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343237564, 1, 2847146026, 139.2925, 38.28777, 94.00575, 0.9987753, 0, 0, -0.04947661) /* Location */
-/* @teleloc 0xA9B4002A [139.292500 38.287770 94.005750] 0.998775 0.000000 0.000000 -0.049477 */
-     , (1343237564, 8040, 2847146026, 138.605, 37.78625, 94.00575, -0.4531475, 0, 0, -0.8914356) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B4002A [138.605000 37.786250 94.005750] -0.453148 0.000000 0.000000 -0.891436 */;
+VALUES (1343237564, 1, 2847146026, 139.29253, 38.28777, 94.00575, 0.9987753, 0, 0, -0.049476612) /* Location */
+/* @teleloc 0xA9B4002A [139.292526 38.287769 94.005753] 0.998775 0.000000 0.000000 -0.049477 */
+     , (1343237564, 8040, 2847146026, 138.60503, 37.78625, 94.00575, -0.45314747, 0, -0, -0.89143556) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B4002A [138.605026 37.786251 94.005753] -0.453147 0.000000 -0.000000 -0.891436 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343237564,  26, 1342177779) /* Monarch */

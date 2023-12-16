@@ -20,7 +20,7 @@ VALUES (2917029804,   1,          2) /* ItemType - Armor */
      , (2917029804, 110,          0) /* ItemAllegianceRankLimit */
      , (2917029804, 115,        109) /* ItemSkillLevelLimit */
      , (2917029804, 131,         63) /* MaterialType - Silver */
-     , (2917029804, 176,          7) /* AppraisalItemSkill */
+     , (2917029804, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (2917029804, 188,          2) /* HeritageGroup - Gharundim */
      , (2917029804, 9015,          4) /* InventoryOrder */;
 

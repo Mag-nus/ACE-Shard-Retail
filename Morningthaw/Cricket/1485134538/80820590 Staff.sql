@@ -21,7 +21,7 @@ VALUES (2156004752,   1,      32768) /* ItemType - Caster */
      , (2156004752, 115,          0) /* ItemSkillLevelLimit */
      , (2156004752, 131,         29) /* MaterialType - LavenderJade */
      , (2156004752, 151,          2) /* HookType - Wall */
-     , (2156004752, 172,          7) /* AppraisalLongDescDecoration */
+     , (2156004752, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2156004752, 177,          5) /* GemCount */
      , (2156004752, 178,         38) /* GemType */;
 

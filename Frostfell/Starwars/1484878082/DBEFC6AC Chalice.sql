@@ -8,7 +8,7 @@ VALUES (3689924268,   1,        256) /* ItemType - MissileWeapon */
      , (3689924268,  16,          1) /* ItemUseable - No */
      , (3689924268,  18,          1) /* UiEffects - Magical */
      , (3689924268,  19,      24859) /* Value */
-     , (3689924268,  51,          2) /* CombatUse - Missle */
+     , (3689924268,  51,          2) /* CombatUse - Missile */
      , (3689924268,  65,        101) /* Placement - Resting */
      , (3689924268,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (3689924268, 131,         26) /* MaterialType - ImperialTopaz */

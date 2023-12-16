@@ -14,7 +14,7 @@ VALUES (1343198779,   1,         16) /* ItemType - Creature */
      , (1343198779, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343198779, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343198779, 188,          9) /* HeritageGroup - Empyrean */
-     , (1343198779, 261,        771) /* CharacterTitleId */
+     , (1343198779, 261,        771) /* CharacterTitleId - EpicWarrior */
      , (1343198779, 390,          0) /* Enlightenment */
      , (1343198779, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
@@ -27,7 +27,7 @@ VALUES (1343198779,   1, True ) /* Stuck */
      , (1343198779,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343198779,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1343198779,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343198779,   1, 'Epic Void') /* Name */
@@ -54,9 +54,9 @@ VALUES (1343198779,   1,   33561110) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343198779, 1, 3332964380, 78.93441, 91.11578, 42.006, 0.996364, 0, 0, -0.0851988) /* Location */
-/* @teleloc 0xC6A9001C [78.934410 91.115780 42.006000] 0.996364 0.000000 0.000000 -0.085199 */
+/* @teleloc 0xC6A9001C [78.934410 91.115784 42.006001] 0.996364 0.000000 0.000000 -0.085199 */
      , (1343198779, 8040, 3332964380, 78.93441, 91.11578, 42.006, 0.996364, 0, 0, -0.0851988) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001C [78.934410 91.115780 42.006000] 0.996364 0.000000 0.000000 -0.085199 */;
+/* @teleloc 0xC6A9001C [78.934410 91.115784 42.006001] 0.996364 0.000000 0.000000 -0.085199 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343198779,  26, 1343273604) /* Monarch */

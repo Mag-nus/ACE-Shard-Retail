@@ -24,8 +24,8 @@ VALUES (2247766869,   1,          2) /* ItemType - Armor */
      , (2247766869, 158,          2) /* WieldRequirements - RawSkill */
      , (2247766869, 159,          6) /* WieldSkillType - MeleeDefense */
      , (2247766869, 160,        400) /* WieldDifficulty */
-     , (2247766869, 172,          1) /* AppraisalLongDescDecoration */
-     , (2247766869, 176,          7) /* AppraisalItemSkill */
+     , (2247766869, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (2247766869, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (2247766869, 265,         29) /* EquipmentSetId - Lightningproof */
      , (2247766869, 270,          7) /* WieldRequirements2 - Level */
      , (2247766869, 271,          1) /* WieldSkillType2 - Axe */

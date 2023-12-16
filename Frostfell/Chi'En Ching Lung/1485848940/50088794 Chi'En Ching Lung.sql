@@ -36,7 +36,7 @@ VALUES (1342736276,   1,         16) /* ItemType - Creature */
      , (1342736276, 238,          2) /* AugmentationIncreasedSpellDuration */
      , (1342736276, 241,          1) /* AugmentationResistancePierce */
      , (1342736276, 246,          1) /* AugmentationResistanceLightning */
-     , (1342736276, 261,        450) /* CharacterTitleId */
+     , (1342736276, 261,        450) /* CharacterTitleId - MasterGladiator */
      , (1342736276, 307,          4) /* DamageRating */
      , (1342736276, 308,          0) /* DamageResistRating */
      , (1342736276, 312,          0) /* HealOverTime */

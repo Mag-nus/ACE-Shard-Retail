@@ -25,7 +25,7 @@ VALUES (1342929567,   1,         16) /* ItemType - Creature */
      , (1342929567, 139,        144) /* DeathLevel */
      , (1342929567, 188,          1) /* HeritageGroup - Aluvian */
      , (1342929567, 199, 1403396263) /* HousePurchaseTimestamp */
-     , (1342929567, 261,        352) /* CharacterTitleId */
+     , (1342929567, 261,        352) /* CharacterTitleId - ShadowHunter */
      , (1342929567, 307,          0) /* DamageRating */
      , (1342929567, 308,          0) /* DamageResistRating */
      , (1342929567, 312,          0) /* HealOverTime */

@@ -32,8 +32,8 @@ VALUES (1342919958,   1,         16) /* ItemType - Creature */
      , (1342919958, 238,          5) /* AugmentationIncreasedSpellDuration */
      , (1342919958, 242,          1) /* AugmentationResistanceBlunt */
      , (1342919958, 244,          1) /* AugmentationResistanceFire */
-     , (1342919958, 261,          1) /* CharacterTitleId */
-     , (1342919958, 281,          1) /* Faction1Bits */
+     , (1342919958, 261,          1) /* CharacterTitleId - Adventurer */
+     , (1342919958, 281,          1) /* Faction1Bits - CelestialHand */
      , (1342919958, 287,       1001) /* SocietyRankCelhan */
      , (1342919958, 298,          1) /* AugmentationCriticalExpertise */
      , (1342919958, 299,          1) /* AugmentationCriticalPower */

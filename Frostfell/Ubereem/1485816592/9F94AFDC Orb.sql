@@ -14,7 +14,7 @@ VALUES (2677321692,   1,      32768) /* ItemType - Caster */
      , (2677321692, 131,         67) /* MaterialType - Granite */
      , (2677321692, 151,          2) /* HookType - Wall */
      , (2677321692, 171,          1) /* NumTimesTinkered */
-     , (2677321692, 172,          3) /* AppraisalLongDescDecoration */
+     , (2677321692, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2677321692, 179,         32) /* ImbuedEffect - BludgeonRending */
      , (2677321692, 9015,         13) /* InventoryOrder */;
 

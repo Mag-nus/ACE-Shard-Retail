@@ -27,8 +27,8 @@ VALUES (2596951386,   1,          1) /* ItemType - MeleeWeapon */
      , (2596951386, 115,        161) /* ItemSkillLevelLimit */
      , (2596951386, 131,         60) /* MaterialType - Gold */
      , (2596951386, 151,          2) /* HookType - Wall */
-     , (2596951386, 172,          7) /* AppraisalLongDescDecoration */
-     , (2596951386, 176,         46) /* AppraisalItemSkill */
+     , (2596951386, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (2596951386, 176,         46) /* AppraisalItemSkill - FinesseWeapons */
      , (2596951386, 177,          1) /* GemCount */
      , (2596951386, 178,         36) /* GemType */
      , (2596951386, 353,          6) /* WeaponType - Dagger */

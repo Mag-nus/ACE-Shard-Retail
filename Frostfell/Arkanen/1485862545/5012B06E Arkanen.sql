@@ -24,8 +24,8 @@ VALUES (1343402094,   1,         16) /* ItemType - Creature */
      , (1343402094, 188,          2) /* HeritageGroup - Gharundim */
      , (1343402094, 230,          1) /* AugmentationIncreasedCarryingCapacity */
      , (1343402094, 231,          3) /* AugmentationLessDeathItemLoss */
-     , (1343402094, 261,          1) /* CharacterTitleId */
-     , (1343402094, 281,          1) /* Faction1Bits */
+     , (1343402094, 261,          1) /* CharacterTitleId - Adventurer */
+     , (1343402094, 281,          1) /* Faction1Bits - CelestialHand */
      , (1343402094, 287,          1) /* SocietyRankCelhan */
      , (1343402094, 302,          1) /* AugmentationSkilledMagic */
      , (1343402094, 307,          0) /* DamageRating */

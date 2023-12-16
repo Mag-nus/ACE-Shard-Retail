@@ -19,7 +19,7 @@ VALUES (2153705622,   1,          8) /* ItemType - Jewelry */
      , (2153705622, 110,          0) /* ItemAllegianceRankLimit */
      , (2153705622, 115,          0) /* ItemSkillLevelLimit */
      , (2153705622, 131,         21) /* MaterialType - Emerald */
-     , (2153705622, 172,          3) /* AppraisalLongDescDecoration */
+     , (2153705622, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2153705622, 188,          2) /* HeritageGroup - Gharundim */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

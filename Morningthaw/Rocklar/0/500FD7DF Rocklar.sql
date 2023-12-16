@@ -19,7 +19,7 @@ VALUES (1343215583,   1, True ) /* Stuck */
      , (1343215583,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343215583,  39, 1.29999995231628) /* DefaultScale */;
+VALUES (1343215583,  39, 1.2999999523162842) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343215583,   1, 'Rocklar') /* Name */;
@@ -37,7 +37,7 @@ VALUES (1343215583,   1,   33561112) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343215583, 1, 3071606837, 144.812, 101.541, 108.0065, -0.999476, 0, 0, -0.0323732) /* Location */
-/* @teleloc 0xB7150035 [144.812000 101.541000 108.006500] -0.999476 0.000000 0.000000 -0.032373 */
+/* @teleloc 0xB7150035 [144.811996 101.541000 108.006500] -0.999476 0.000000 0.000000 -0.032373 */
      , (1343215583, 8040, 2847146009, 84, 7.1, 94.0065, 0.9969173, 0, 0, -0.0784591) /* PCAPRecordedLocation */
 /* @teleloc 0xA9B40019 [84.000000 7.100000 94.006500] 0.996917 0.000000 0.000000 -0.078459 */;
 

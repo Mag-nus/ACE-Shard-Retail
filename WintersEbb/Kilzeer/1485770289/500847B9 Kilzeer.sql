@@ -39,8 +39,8 @@ VALUES (1342719929,   1,         16) /* ItemType - Creature */
      , (1342719929, 235,          4) /* AugmentationBonusSalvage */
      , (1342719929, 237,          1) /* AugmentationFasterRegen */
      , (1342719929, 238,          5) /* AugmentationIncreasedSpellDuration */
-     , (1342719929, 261,          1) /* CharacterTitleId */
-     , (1342719929, 281,          4) /* Faction1Bits */
+     , (1342719929, 261,          1) /* CharacterTitleId - Adventurer */
+     , (1342719929, 281,          4) /* Faction1Bits - RadiantBlood */
      , (1342719929, 289,       1001) /* SocietyRankRadblo */
      , (1342719929, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1342719929, 295,          1) /* AugmentationInfusedItemMagic */

@@ -25,7 +25,7 @@ VALUES (3658160628,   1,          1) /* ItemType - MeleeWeapon */
      , (3658160628, 115,        108) /* ItemSkillLevelLimit */
      , (3658160628, 131,         63) /* MaterialType - Silver */
      , (3658160628, 151,          2) /* HookType - Wall */
-     , (3658160628, 176,         44) /* AppraisalItemSkill */
+     , (3658160628, 176,         44) /* AppraisalItemSkill - HeavyWeapons */
      , (3658160628, 188,          3) /* HeritageGroup - Sho */
      , (3658160628, 353,          2) /* WeaponType - Sword */
      , (3658160628, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */

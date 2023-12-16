@@ -21,7 +21,7 @@ VALUES (2164423565,   1,          2) /* ItemType - Armor */
      , (2164423565, 110,          0) /* ItemAllegianceRankLimit */
      , (2164423565, 115,          0) /* ItemSkillLevelLimit */
      , (2164423565, 131,         61) /* MaterialType - Iron */
-     , (2164423565, 172,          3) /* AppraisalLongDescDecoration */
+     , (2164423565, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2164423565, 188,          1) /* HeritageGroup - Aluvian */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

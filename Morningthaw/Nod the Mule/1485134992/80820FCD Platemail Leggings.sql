@@ -21,8 +21,8 @@ VALUES (2156007373,   1,          2) /* ItemType - Armor */
      , (2156007373, 115,        229) /* ItemSkillLevelLimit */
      , (2156007373, 131,         63) /* MaterialType - Silver */
      , (2156007373, 171,          7) /* NumTimesTinkered */
-     , (2156007373, 172,          3) /* AppraisalLongDescDecoration */
-     , (2156007373, 176,          6) /* AppraisalItemSkill */
+     , (2156007373, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (2156007373, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (2156007373, 188,          1) /* HeritageGroup - Aluvian */
      , (2156007373, 9015,         11) /* InventoryOrder */;
 

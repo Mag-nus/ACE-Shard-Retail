@@ -9,7 +9,7 @@ VALUES (3321671223,   1,        256) /* ItemType - MissileWeapon */
      , (3321671223,  18,       2048) /* UiEffects - Piercing */
      , (3321671223,  19,      10842) /* Value */
      , (3321671223,  50,          1) /* AmmoType - Arrow */
-     , (3321671223,  51,          2) /* CombatUse - Missle */
+     , (3321671223,  51,          2) /* CombatUse - Missile */
      , (3321671223,  65,        101) /* Placement - Resting */
      , (3321671223,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3321671223, 131,         26) /* MaterialType - ImperialTopaz */

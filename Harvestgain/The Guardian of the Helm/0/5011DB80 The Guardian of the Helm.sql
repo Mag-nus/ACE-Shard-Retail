@@ -14,8 +14,8 @@ VALUES (1343347584,   1,         16) /* ItemType - Creature */
      , (1343347584, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343347584, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343347584, 188,         11) /* HeritageGroup - Undead */
-     , (1343347584, 261,        502) /* CharacterTitleId */
-     , (1343347584, 281,          2) /* Faction1Bits */
+     , (1343347584, 261,        502) /* CharacterTitleId - GuardianofCragstone */
+     , (1343347584, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1343347584, 288,        710) /* SocietyRankEldweb */
      , (1343347584, 307,          5) /* DamageRating */
      , (1343347584, 308,         20) /* DamageResistRating */
@@ -59,9 +59,9 @@ VALUES (1343347584,   1,   33561244) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343347584, 1, 2315387410, 58.6391, -89.9231, 6.005, 1, 0, 0, 0) /* Location */
-/* @teleloc 0x8A020212 [58.639100 -89.923100 6.005000] 1.000000 0.000000 0.000000 0.000000 */
-     , (1343347584, 8040, 2592145460, 150.398, 95.93174, 42.005, 0.0170705, 0, 0, 0.9998543) /* PCAPRecordedLocation */
-/* @teleloc 0x9A810034 [150.398000 95.931740 42.005000] 0.017071 0.000000 0.000000 0.999854 */;
+/* @teleloc 0x8A020212 [58.639099 -89.923103 6.005000] 1.000000 0.000000 0.000000 0.000000 */
+     , (1343347584, 8040, 2592145460, 150.398, 95.93174, 42.005, 0.017070504, 0, 0, 0.99985427) /* PCAPRecordedLocation */
+/* @teleloc 0x9A810034 [150.397995 95.931740 42.005001] 0.017071 0.000000 0.000000 0.999854 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343347584,  26, 1343257353) /* Monarch */

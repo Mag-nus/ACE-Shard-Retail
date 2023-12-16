@@ -19,7 +19,7 @@ VALUES (1343182683,   1, True ) /* Stuck */
      , (1343182683,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343182683,  39, 1.29999995231628) /* DefaultScale */;
+VALUES (1343182683,  39, 1.2999999523162842) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343182683,   1, 'Simple Mule of Opi') /* Name */;
@@ -37,7 +37,7 @@ VALUES (1343182683,   1,   33561112) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343182683, 1, 3332964372, 67.5367, 92.72442, 42.0065, 0.677817, 0, 0, -0.7352307) /* Location */
-/* @teleloc 0xC6A90014 [67.536700 92.724420 42.006500] 0.677817 0.000000 0.000000 -0.735231 */
+/* @teleloc 0xC6A90014 [67.536697 92.724419 42.006500] 0.677817 0.000000 0.000000 -0.735231 */
      , (1343182683, 8040, 3332964380, 77.13562, 95.6856, 42.0065, 0.3780916, 0, 0, -0.9257682) /* PCAPRecordedLocation */
 /* @teleloc 0xC6A9001C [77.135620 95.685600 42.006500] 0.378092 0.000000 0.000000 -0.925768 */;
 

@@ -23,7 +23,7 @@ VALUES (3206116841,   1,          4) /* ItemType - Clothing */
      , (3206116841, 158,          7) /* WieldRequirements - Level */
      , (3206116841, 159,          1) /* WieldSkillType - Axe */
      , (3206116841, 160,        150) /* WieldDifficulty */
-     , (3206116841, 172,          5) /* AppraisalLongDescDecoration */
+     , (3206116841, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (3206116841, 177,          2) /* GemCount */
      , (3206116841, 178,         21) /* GemType */
      , (3206116841, 265,         15) /* EquipmentSetId - Archers */

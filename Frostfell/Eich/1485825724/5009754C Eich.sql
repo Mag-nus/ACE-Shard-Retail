@@ -23,7 +23,7 @@ VALUES (1342797132,   1,         16) /* ItemType - Creature */
      , (1342797132, 139,         12) /* DeathLevel */
      , (1342797132, 188,          2) /* HeritageGroup - Gharundim */
      , (1342797132, 199, 1228158940) /* HousePurchaseTimestamp */
-     , (1342797132, 261,         32) /* CharacterTitleId */
+     , (1342797132, 261,         32) /* CharacterTitleId - CarenziSlayer */
      , (1342797132, 307,          0) /* DamageRating */
      , (1342797132, 308,          0) /* DamageResistRating */
      , (1342797132, 312,          0) /* HealOverTime */

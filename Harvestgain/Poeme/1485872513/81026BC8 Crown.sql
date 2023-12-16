@@ -14,7 +14,7 @@ VALUES (2164419528,   1,          2) /* ItemType - Armor */
      , (2164419528, 105,          6) /* ItemWorkmanship */
      , (2164419528, 131,         60) /* MaterialType - Gold */
      , (2164419528, 151,          2) /* HookType - Wall */
-     , (2164419528, 172,          7) /* AppraisalLongDescDecoration */
+     , (2164419528, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2164419528, 177,          7) /* GemCount */
      , (2164419528, 178,         20) /* GemType */
      , (2164419528, 9015,         21) /* InventoryOrder */;

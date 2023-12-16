@@ -21,8 +21,8 @@ VALUES (2149243775,   1,          2) /* ItemType - Armor */
      , (2149243775, 115,        295) /* ItemSkillLevelLimit */
      , (2149243775, 131,         60) /* MaterialType - Gold */
      , (2149243775, 171,          7) /* NumTimesTinkered */
-     , (2149243775, 172,          3) /* AppraisalLongDescDecoration */
-     , (2149243775, 176,          6) /* AppraisalItemSkill */
+     , (2149243775, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (2149243775, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (2149243775, 188,          3) /* HeritageGroup - Sho */
      , (2149243775, 9015,          5) /* InventoryOrder */;
 

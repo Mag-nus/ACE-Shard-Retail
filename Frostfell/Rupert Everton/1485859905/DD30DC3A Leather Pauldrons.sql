@@ -23,8 +23,8 @@ VALUES (3710966842,   1,          2) /* ItemType - Armor */
      , (3710966842, 158,          7) /* WieldRequirements - Level */
      , (3710966842, 159,          1) /* WieldSkillType - Axe */
      , (3710966842, 160,        180) /* WieldDifficulty */
-     , (3710966842, 172,          1) /* AppraisalLongDescDecoration */
-     , (3710966842, 176,          7) /* AppraisalItemSkill */
+     , (3710966842, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (3710966842, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (3710966842, 265,         28) /* EquipmentSetId - Coldproof */
      , (3710966842, 9015,         61) /* InventoryOrder */;
 

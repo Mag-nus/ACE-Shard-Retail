@@ -22,7 +22,7 @@ VALUES (3710966404,   1,          2) /* ItemType - Armor */
      , (3710966404, 158,          7) /* WieldRequirements - Level */
      , (3710966404, 159,          1) /* WieldSkillType - Axe */
      , (3710966404, 160,        180) /* WieldDifficulty */
-     , (3710966404, 172,          1) /* AppraisalLongDescDecoration */
+     , (3710966404, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (3710966404, 265,         15) /* EquipmentSetId - Archers */
      , (3710966404, 9015,         12) /* InventoryOrder */;
 

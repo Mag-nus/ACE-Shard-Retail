@@ -9,7 +9,7 @@ VALUES (2988040994,   1,        256) /* ItemType - MissileWeapon */
      , (2988040994,  18,         65) /* UiEffects - Magical, Lightning */
      , (2988040994,  19,      21553) /* Value */
      , (2988040994,  50,          2) /* AmmoType - Bolt */
-     , (2988040994,  51,          2) /* CombatUse - Missle */
+     , (2988040994,  51,          2) /* CombatUse - Missile */
      , (2988040994,  65,        101) /* Placement - Resting */
      , (2988040994,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2988040994, 131,         26) /* MaterialType - ImperialTopaz */

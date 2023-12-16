@@ -26,7 +26,7 @@ VALUES (1343880489,   1,         16) /* ItemType - Creature */
      , (1343880489, 139,         63) /* DeathLevel */
      , (1343880489, 188,          1) /* HeritageGroup - Aluvian */
      , (1343880489, 199, 1422546149) /* HousePurchaseTimestamp */
-     , (1343880489, 261,        435) /* CharacterTitleId */
+     , (1343880489, 261,        435) /* CharacterTitleId - TuskerBlight */
      , (1343880489, 307,          0) /* DamageRating */
      , (1343880489, 308,          0) /* DamageResistRating */
      , (1343880489, 312,          0) /* HealOverTime */

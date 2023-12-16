@@ -25,7 +25,7 @@ VALUES (1342894293,   1,         16) /* ItemType - Creature */
      , (1342894293, 139,        184) /* DeathLevel */
      , (1342894293, 188,          2) /* HeritageGroup - Gharundim */
      , (1342894293, 199, 1479592783) /* HousePurchaseTimestamp */
-     , (1342894293, 261,         51) /* CharacterTitleId */
+     , (1342894293, 261,         51) /* CharacterTitleId - Exterminator */
      , (1342894293, 307,          0) /* DamageRating */
      , (1342894293, 308,          0) /* DamageResistRating */
      , (1342894293, 312,          0) /* HealOverTime */

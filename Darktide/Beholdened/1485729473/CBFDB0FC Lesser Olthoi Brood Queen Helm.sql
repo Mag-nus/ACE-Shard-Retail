@@ -22,8 +22,8 @@ VALUES (3422400764,   1,          2) /* ItemType - Armor */
      , (3422400764, 131,         53) /* MaterialType - ArmoredilloHide */
      , (3422400764, 151,          2) /* HookType - Wall */
      , (3422400764, 171,          1) /* NumTimesTinkered */
-     , (3422400764, 172,          5) /* AppraisalLongDescDecoration */
-     , (3422400764, 176,          6) /* AppraisalItemSkill */
+     , (3422400764, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
+     , (3422400764, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (3422400764, 177,          4) /* GemCount */
      , (3422400764, 178,         22) /* GemType */
      , (3422400764, 9015,          2) /* InventoryOrder */;

@@ -19,9 +19,9 @@ VALUES (1342683792,   1, True ) /* Stuck */
      , (1342683792,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1342683792, 8010, 2.37211108207703) /* PCAPRecordedVelocityX */
-     , (1342683792, 8011, 8.7576732635498) /* PCAPRecordedVelocityY */
-     , (1342683792, 8012, -19.6681499481201) /* PCAPRecordedVelocityZ */;
+VALUES (1342683792, 8010, 2.3721110820770264) /* PCAPRecordedVelocityX */
+     , (1342683792, 8011, 8.757673263549805) /* PCAPRecordedVelocityY */
+     , (1342683792, 8012, -19.668149948120117) /* PCAPRecordedVelocityZ */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1342683792,   1, 'Inahwen') /* Name */;
@@ -38,10 +38,10 @@ VALUES (1342683792,   1,   33554510) /* Setup */
      , (1342683792, 8005,     104455) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Velocity, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1342683792, 1, 3206086690, 113.87, 37.0794, 78.005, -0.0133072, 0, 0, -0.999911) /* Location */
-/* @teleloc 0xBF190022 [113.870000 37.079400 78.005000] -0.013307 0.000000 0.000000 -0.999911 */
-     , (1342683792, 8040, 1925775401, 135.286, 0.1462097, 144.6481, 0.9998049, 0, 0, -0.01975575) /* PCAPRecordedLocation */
-/* @teleloc 0x72C90029 [135.286000 0.146210 144.648100] 0.999805 0.000000 0.000000 -0.019756 */;
+VALUES (1342683792, 1, 3206086690, 113.87, 37.0794, 78.005005, -0.0133072, 0, 0, -0.999911) /* Location */
+/* @teleloc 0xBF190022 [113.870003 37.079399 78.005005] -0.013307 0.000000 0.000000 -0.999911 */
+     , (1342683792, 8040, 1925775401, 135.28604, 0.14620972, 144.64813, 0.99980485, 0, 0, -0.019755745) /* PCAPRecordedLocation */
+/* @teleloc 0x72C90029 [135.286041 0.146210 144.648132] 0.999805 0.000000 0.000000 -0.019756 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342683792,  26, 1342378704) /* Monarch */

@@ -25,11 +25,11 @@ VALUES (2160083669,   1,          2) /* ItemType - Armor */
      , (2160083669, 159,          1) /* WieldSkillType - Axe */
      , (2160083669, 160,        180) /* WieldDifficulty */
      , (2160083669, 171,         10) /* NumTimesTinkered */
-     , (2160083669, 172,          5) /* AppraisalLongDescDecoration */
+     , (2160083669, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2160083669, 177,          2) /* GemCount */
      , (2160083669, 178,         47) /* GemType */
      , (2160083669, 265,         14) /* EquipmentSetId - Adepts */
-     , (2160083669, 324,          6) /* HeritageSpecificArmor */;
+     , (2160083669, 324,          6) /* HeritageSpecificArmor - Gearknight */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (2160083669,   1, False) /* Stuck */

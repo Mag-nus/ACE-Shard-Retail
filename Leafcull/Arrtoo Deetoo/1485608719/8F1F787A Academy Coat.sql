@@ -13,7 +13,7 @@ VALUES (2401204346,   1,          2) /* ItemType - Armor */
      , (2401204346,  33,          1) /* Bonded - Bonded */
      , (2401204346,  65,        101) /* Placement - Resting */
      , (2401204346,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
-     , (2401204346, 324,          6) /* HeritageSpecificArmor */;
+     , (2401204346, 324,          6) /* HeritageSpecificArmor - Gearknight */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (2401204346,   1, False) /* Stuck */

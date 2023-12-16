@@ -18,7 +18,7 @@ VALUES (2368838042,   1,          8) /* ItemType - Jewelry */
      , (2368838042, 110,          0) /* ItemAllegianceRankLimit */
      , (2368838042, 115,          0) /* ItemSkillLevelLimit */
      , (2368838042, 131,         59) /* MaterialType - Copper */
-     , (2368838042, 172,          7) /* AppraisalLongDescDecoration */
+     , (2368838042, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2368838042, 177,          1) /* GemCount */
      , (2368838042, 178,         39) /* GemType */
      , (2368838042, 188,          4) /* HeritageGroup - Viamontian */

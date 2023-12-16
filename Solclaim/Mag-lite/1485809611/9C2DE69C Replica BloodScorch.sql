@@ -26,7 +26,7 @@ VALUES (2620253852,   1,          1) /* ItemType - MeleeWeapon */
      , (2620253852, 159,         44) /* WieldSkillType - HeavyWeapons */
      , (2620253852, 160,        400) /* WieldDifficulty */
      , (2620253852, 166,         14) /* SlayerCreatureType - Undead */
-     , (2620253852, 263,         16) /* ResistanceModifierType */
+     , (2620253852, 263,         16) /* ResistanceModifierType - Fire */
      , (2620253852, 353,          2) /* WeaponType - Sword */
      , (2620253852, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (2620253852, 9015,          1) /* InventoryOrder */;

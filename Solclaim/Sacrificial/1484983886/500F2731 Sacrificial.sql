@@ -24,7 +24,7 @@ VALUES (1343170353,   1,         16) /* ItemType - Creature */
      , (1343170353, 139,         45) /* DeathLevel */
      , (1343170353, 188,          1) /* HeritageGroup - Aluvian */
      , (1343170353, 199, 1456731790) /* HousePurchaseTimestamp */
-     , (1343170353, 261,        116) /* CharacterTitleId */
+     , (1343170353, 261,        116) /* CharacterTitleId - ResistanceFighter */
      , (1343170353, 307,          5) /* DamageRating */
      , (1343170353, 308,          0) /* DamageResistRating */
      , (1343170353, 312,          0) /* HealOverTime */

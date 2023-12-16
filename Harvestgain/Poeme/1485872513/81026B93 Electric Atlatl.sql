@@ -13,7 +13,7 @@ VALUES (2164419475,   1,        256) /* ItemType - MissileWeapon */
      , (2164419475,  48,         47) /* WeaponSkill - MissileWeapons */
      , (2164419475,  49,         21) /* WeaponTime */
      , (2164419475,  50,          4) /* AmmoType - Atlatl */
-     , (2164419475,  51,          2) /* CombatUse - Missle */
+     , (2164419475,  51,          2) /* CombatUse - Missile */
      , (2164419475,  65,        101) /* Placement - Resting */
      , (2164419475,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2164419475, 105,          6) /* ItemWorkmanship */
@@ -28,8 +28,8 @@ VALUES (2164419475,   1,        256) /* ItemType - MissileWeapon */
      , (2164419475, 158,          2) /* WieldRequirements - RawSkill */
      , (2164419475, 159,         47) /* WieldSkillType - MissileWeapons */
      , (2164419475, 160,        315) /* WieldDifficulty */
-     , (2164419475, 172,          7) /* AppraisalLongDescDecoration */
-     , (2164419475, 176,         47) /* AppraisalItemSkill */
+     , (2164419475, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (2164419475, 176,         47) /* AppraisalItemSkill - MissileWeapons */
      , (2164419475, 177,          3) /* GemCount */
      , (2164419475, 178,         39) /* GemType */
      , (2164419475, 188,          1) /* HeritageGroup - Aluvian */

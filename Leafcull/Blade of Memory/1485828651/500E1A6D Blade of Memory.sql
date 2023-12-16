@@ -30,9 +30,9 @@ VALUES (1343101549,   1,         16) /* ItemType - Creature */
      , (1343101549, 199, 1210539722) /* HousePurchaseTimestamp */
      , (1343101549, 231,          3) /* AugmentationLessDeathItemLoss */
      , (1343101549, 232,          1) /* AugmentationSpellsRemainPastDeath */
-     , (1343101549, 261,        445) /* CharacterTitleId */
+     , (1343101549, 261,        445) /* CharacterTitleId - MasterofthePorcelainAltar */
      , (1343101549, 262,         69) /* NumCharacterTitles */
-     , (1343101549, 281,          2) /* Faction1Bits */
+     , (1343101549, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1343101549, 288,        455) /* SocietyRankEldweb */
      , (1343101549, 307,          5) /* DamageRating */
      , (1343101549, 308,          0) /* DamageResistRating */

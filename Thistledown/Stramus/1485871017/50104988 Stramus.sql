@@ -39,9 +39,9 @@ VALUES (1343244680,   1,         16) /* ItemType - Creature */
      , (1343244680, 238,          5) /* AugmentationIncreasedSpellDuration */
      , (1343244680, 243,          1) /* AugmentationResistanceAcid */
      , (1343244680, 246,          1) /* AugmentationResistanceLightning */
-     , (1343244680, 261,        808) /* CharacterTitleId */
+     , (1343244680, 261,        808) /* CharacterTitleId - LikesAsheron */
      , (1343244680, 262,        108) /* NumCharacterTitles */
-     , (1343244680, 281,          1) /* Faction1Bits */
+     , (1343244680, 281,          1) /* Faction1Bits - CelestialHand */
      , (1343244680, 287,       1001) /* SocietyRankCelhan */
      , (1343244680, 288,          0) /* SocietyRankEldweb */
      , (1343244680, 289,          0) /* SocietyRankRadblo */

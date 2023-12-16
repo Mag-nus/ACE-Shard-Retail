@@ -19,7 +19,7 @@ VALUES (1343224631,   1, True ) /* Stuck */
      , (1343224631,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343224631,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1343224631,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343224631,   1, 'Donkey of Legendaries IX') /* Name */;
@@ -37,9 +37,9 @@ VALUES (1343224631,   1,   33561106) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343224631, 1, 3332964380, 73.3781, 78.60611, 42.006, -0.5415384, 0, 0, -0.840676) /* Location */
-/* @teleloc 0xC6A9001C [73.378100 78.606110 42.006000] -0.541538 0.000000 0.000000 -0.840676 */
-     , (1343224631, 8040, 3332964380, 73.3781, 78.60611, 42.006, -0.7816246, 0, 0, -0.6237492) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001C [73.378100 78.606110 42.006000] -0.781625 0.000000 0.000000 -0.623749 */;
+/* @teleloc 0xC6A9001C [73.378098 78.606110 42.006001] -0.541538 0.000000 0.000000 -0.840676 */
+     , (1343224631, 8040, 3332964380, 73.3781, 78.60611, 42.006, -0.78162456, 0, -0, -0.6237492) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A9001C [73.378098 78.606110 42.006001] -0.781625 0.000000 -0.000000 -0.623749 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343224631,  26, 1342548926) /* Monarch */

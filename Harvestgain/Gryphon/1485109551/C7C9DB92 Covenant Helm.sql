@@ -25,7 +25,7 @@ VALUES (3351894930,   1,          2) /* ItemType - Armor */
      , (3351894930, 158,          2) /* WieldRequirements - RawSkill */
      , (3351894930, 159,         15) /* WieldSkillType - MagicDefense */
      , (3351894930, 160,        225) /* WieldDifficulty */
-     , (3351894930, 172,          7) /* AppraisalLongDescDecoration */
+     , (3351894930, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3351894930, 177,          2) /* GemCount */
      , (3351894930, 178,         21) /* GemType */
      , (3351894930, 188,          4) /* HeritageGroup - Viamontian */

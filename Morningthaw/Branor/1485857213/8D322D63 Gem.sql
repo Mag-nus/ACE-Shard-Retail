@@ -20,7 +20,7 @@ VALUES (2368875875,   1,       2048) /* ItemType - Gem */
      , (2368875875, 115,          0) /* ItemSkillLevelLimit */
      , (2368875875, 117,         70) /* ItemManaCost */
      , (2368875875, 131,         26) /* MaterialType - ImperialTopaz */
-     , (2368875875, 172,          1) /* AppraisalLongDescDecoration */
+     , (2368875875, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (2368875875, 9015,         78) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

@@ -16,9 +16,9 @@ VALUES (1343017863,   1,         16) /* ItemType - Creature */
      , (1343017863, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343017863, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343017863, 188,          1) /* HeritageGroup - Aluvian */
-     , (1343017863, 261,        584) /* CharacterTitleId */
+     , (1343017863, 261,        584) /* CharacterTitleId - Expendable */
      , (1343017863, 262,         76) /* NumCharacterTitles */
-     , (1343017863, 281,          1) /* Faction1Bits */
+     , (1343017863, 281,          1) /* Faction1Bits - CelestialHand */
      , (1343017863, 287,       1001) /* SocietyRankCelhan */
      , (1343017863, 307,         15) /* DamageRating */
      , (1343017863, 308,         12) /* DamageResistRating */
@@ -62,10 +62,10 @@ VALUES (1343017863,   1,   33554433) /* Setup */
      , (1343017863, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343017863, 1, 2847145996, 24.03055, 95.87418, 70.04694, 0.1023187, 0, 0, 0.9947517) /* Location */
-/* @teleloc 0xA9B4000C [24.030550 95.874180 70.046940] 0.102319 0.000000 0.000000 0.994752 */
-     , (1343017863, 8040, 3332964380, 77.38612, 78.91342, 42.005, 0.9110384, 0, 0, -0.4123216) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001C [77.386120 78.913420 42.005000] 0.911038 0.000000 0.000000 -0.412322 */;
+VALUES (1343017863, 1, 2847145996, 24.030552, 95.874176, 70.04694, 0.10231869, 0, 0, 0.9947517) /* Location */
+/* @teleloc 0xA9B4000C [24.030552 95.874176 70.046944] 0.102319 0.000000 0.000000 0.994752 */
+     , (1343017863, 8040, 3332964380, 77.38612, 78.91342, 42.005, 0.9110384, 0, 0, -0.41232157) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A9001C [77.386124 78.913422 42.005001] 0.911038 0.000000 0.000000 -0.412322 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343017863,  26, 1343164535) /* Monarch */

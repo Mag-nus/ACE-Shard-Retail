@@ -18,9 +18,9 @@ VALUES (1342762145,   1,         16) /* ItemType - Creature */
      , (1342762145, 181,       1609) /* ChessRank */
      , (1342762145, 188,          3) /* HeritageGroup - Sho */
      , (1342762145, 192,         42) /* FakeFishingSkill */
-     , (1342762145, 261,         33) /* CharacterTitleId */
+     , (1342762145, 261,         33) /* CharacterTitleId - ChainBreaker */
      , (1342762145, 262,        201) /* NumCharacterTitles */
-     , (1342762145, 281,          1) /* Faction1Bits */
+     , (1342762145, 281,          1) /* Faction1Bits - CelestialHand */
      , (1342762145, 287,       1001) /* SocietyRankCelhan */
      , (1342762145, 307,         20) /* DamageRating */
      , (1342762145, 308,         12) /* DamageResistRating */
@@ -64,8 +64,8 @@ VALUES (1342762145,   1,   33554510) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1342762145, 1, 459075, 70, -60, 0.01, 1, 0, 0, -1) /* Location */
 /* @teleloc 0x00070143 [70.000000 -60.000000 0.010000] 1.000000 0.000000 0.000000 -1.000000 */
-     , (1342762145, 8040, 459075, 70, -60, 0.004999995, -4.371139E-08, 0, 0, -1) /* PCAPRecordedLocation */
-/* @teleloc 0x00070143 [70.000000 -60.000000 0.005000] 0.000000 0.000000 0.000000 -1.000000 */;
+     , (1342762145, 8040, 459075, 70, -60, 0.004999995, -4.371139E-08, 0, -0, -1) /* PCAPRecordedLocation */
+/* @teleloc 0x00070143 [70.000000 -60.000000 0.005000] -0.000000 0.000000 -0.000000 -1.000000 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342762145,  26, 1342782635) /* Monarch */

@@ -18,7 +18,7 @@ VALUES (2624395407,   1,          8) /* ItemType - Jewelry */
      , (2624395407, 110,          0) /* ItemAllegianceRankLimit */
      , (2624395407, 115,          0) /* ItemSkillLevelLimit */
      , (2624395407, 131,         41) /* MaterialType - Sunstone */
-     , (2624395407, 172,          7) /* AppraisalLongDescDecoration */
+     , (2624395407, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2624395407, 177,          4) /* GemCount */
      , (2624395407, 178,         39) /* GemType */
      , (2624395407, 9015,         23) /* InventoryOrder */;

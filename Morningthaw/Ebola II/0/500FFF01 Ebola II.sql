@@ -14,8 +14,8 @@ VALUES (1343225601,   1,         16) /* ItemType - Creature */
      , (1343225601, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343225601, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343225601, 188,          1) /* HeritageGroup - Aluvian */
-     , (1343225601, 261,          1) /* CharacterTitleId */
-     , (1343225601, 281,          4) /* Faction1Bits */
+     , (1343225601, 261,          1) /* CharacterTitleId - Adventurer */
+     , (1343225601, 281,          4) /* Faction1Bits - RadiantBlood */
      , (1343225601, 289,         60) /* SocietyRankRadblo */
      , (1343225601, 307,         33) /* DamageRating */
      , (1343225601, 308,          8) /* DamageResistRating */
@@ -59,10 +59,10 @@ VALUES (1343225601,   1,   33554510) /* Setup */
      , (1343225601, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343225601, 1, 2847146009, 93.64268, 4.177308, 94.005, -0.9396926, 0, 0, -0.3420202) /* Location */
-/* @teleloc 0xA9B40019 [93.642680 4.177308 94.005000] -0.939693 0.000000 0.000000 -0.342020 */
-     , (1343225601, 8040, 2847146009, 93.65993, 4.374544, 94.005, 0.4226182, 0, 0, -0.9063078) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B40019 [93.659930 4.374544 94.005000] 0.422618 0.000000 0.000000 -0.906308 */;
+VALUES (1343225601, 1, 2847146009, 93.64268, 4.1773076, 94.005005, -0.9396926, 0, 0, -0.3420202) /* Location */
+/* @teleloc 0xA9B40019 [93.642677 4.177308 94.005005] -0.939693 0.000000 0.000000 -0.342020 */
+     , (1343225601, 8040, 2847146009, 93.65993, 4.3745437, 94.005005, 0.42261824, 0, 0, -0.9063078) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B40019 [93.659927 4.374544 94.005005] 0.422618 0.000000 0.000000 -0.906308 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343225601,  26, 1342451060) /* Monarch */

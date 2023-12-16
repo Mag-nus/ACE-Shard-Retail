@@ -34,10 +34,10 @@ VALUES (2274298805,   1, False) /* Stuck */
      , (2274298805,  99, True ) /* Ivoryable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2274298805,   5, -0.0333329997956753) /* ManaRate */
-     , (2274298805,  29, 1.08000004291534) /* WeaponDefense */
-     , (2274298805,  39, 1.10000002384186) /* DefaultScale */
-     , (2274298805, 144, 1.1236529079283E-314) /* ManaConversionMod */;
+VALUES (2274298805,   5, -0.03333299979567528) /* ManaRate */
+     , (2274298805,  29, 1.0800000429153442) /* WeaponDefense */
+     , (2274298805,  39, 1.100000023841858) /* DefaultScale */
+     , (2274298805, 144, 1.123652908E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2274298805,   1, 'Volkama''s Buadren of the Rivers') /* Name */

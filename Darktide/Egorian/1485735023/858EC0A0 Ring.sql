@@ -18,7 +18,7 @@ VALUES (2240725152,   1,          8) /* ItemType - Jewelry */
      , (2240725152, 110,          0) /* ItemAllegianceRankLimit */
      , (2240725152, 115,          0) /* ItemSkillLevelLimit */
      , (2240725152, 131,         59) /* MaterialType - Copper */
-     , (2240725152, 172,          3) /* AppraisalLongDescDecoration */
+     , (2240725152, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2240725152, 188,          2) /* HeritageGroup - Gharundim */
      , (2240725152, 9015,         18) /* InventoryOrder */;
 

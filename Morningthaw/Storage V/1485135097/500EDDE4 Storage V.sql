@@ -21,7 +21,7 @@ VALUES (1343151588,   1,         16) /* ItemType - Creature */
      , (1343151588, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343151588, 188,          2) /* HeritageGroup - Gharundim */
      , (1343151588, 199, 1103271546) /* HousePurchaseTimestamp */
-     , (1343151588, 261,        591) /* CharacterTitleId */
+     , (1343151588, 261,        591) /* CharacterTitleId - DefeaterOfTheBlight */
      , (1343151588, 307,          0) /* DamageRating */
      , (1343151588, 308,          0) /* DamageResistRating */
      , (1343151588, 312,          0) /* HealOverTime */

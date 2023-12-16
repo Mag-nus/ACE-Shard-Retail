@@ -25,8 +25,8 @@ VALUES (3499562030,   1,          2) /* ItemType - Armor */
      , (3499562030, 159,          1) /* WieldSkillType - Axe */
      , (3499562030, 160,        180) /* WieldDifficulty */
      , (3499562030, 171,         10) /* NumTimesTinkered */
-     , (3499562030, 172,          1) /* AppraisalLongDescDecoration */
-     , (3499562030, 176,          6) /* AppraisalItemSkill */
+     , (3499562030, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (3499562030, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (3499562030, 265,         25) /* EquipmentSetId - Interlocking */
      , (3499562030, 374,          2) /* GearCritDamage */
      , (3499562030, 375,          1) /* GearCritDamageResist */

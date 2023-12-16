@@ -19,7 +19,7 @@ VALUES (2779769019,   1,          8) /* ItemType - Jewelry */
      , (2779769019, 115,          0) /* ItemSkillLevelLimit */
      , (2779769019, 131,         60) /* MaterialType - Gold */
      , (2779769019, 171,          1) /* NumTimesTinkered */
-     , (2779769019, 172,          7) /* AppraisalLongDescDecoration */
+     , (2779769019, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2779769019, 177,          4) /* GemCount */
      , (2779769019, 178,         29) /* GemType */
      , (2779769019, 9015,          0) /* InventoryOrder */;

@@ -7,7 +7,7 @@ VALUES (2154238392,   1,        256) /* ItemType - MissileWeapon */
      , (2154238392,   9,    4194304) /* ValidLocations - MissileWeapon */
      , (2154238392,  16,          1) /* ItemUseable - No */
      , (2154238392,  19,        605) /* Value */
-     , (2154238392,  51,          2) /* CombatUse - Missle */
+     , (2154238392,  51,          2) /* CombatUse - Missile */
      , (2154238392,  65,        101) /* Placement - Resting */
      , (2154238392,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (2154238392, 131,         60) /* MaterialType - Gold */

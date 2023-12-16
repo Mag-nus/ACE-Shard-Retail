@@ -19,7 +19,7 @@ VALUES (1343206958,   1, True ) /* Stuck */
      , (1343206958,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343206958,  39, 1.29999995231628) /* DefaultScale */;
+VALUES (1343206958,  39, 1.2999999523162842) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343206958,   1, 'Das Uber Twink Level Mule Squire') /* Name */;
@@ -36,10 +36,10 @@ VALUES (1343206958,   1,   33561112) /* Setup */
      , (1343206958, 8005,     104579) /* PCAPRecordedPhysicsDesc - CSetup, MTable, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343206958, 1, 3164471308, 28.46675, 95.7691, 69.79484, 0.1742395, 0, 0, -0.9847033) /* Location */
-/* @teleloc 0xBC9E000C [28.466750 95.769100 69.794840] 0.174240 0.000000 0.000000 -0.984703 */
-     , (1343206958, 8040, 3164536843, 27.62253, 62.96047, 54.0065, 0.9472486, 0, 0, -0.3204996) /* PCAPRecordedLocation */
-/* @teleloc 0xBC9F000B [27.622530 62.960470 54.006500] 0.947249 0.000000 0.000000 -0.320500 */;
+VALUES (1343206958, 1, 3164471308, 28.466751, 95.7691, 69.79484, 0.17423955, 0, 0, -0.9847033) /* Location */
+/* @teleloc 0xBC9E000C [28.466751 95.769096 69.794838] 0.174240 0.000000 0.000000 -0.984703 */
+     , (1343206958, 8040, 3164536843, 27.622526, 62.96047, 54.0065, 0.94724864, 0, 0, -0.32049963) /* PCAPRecordedLocation */
+/* @teleloc 0xBC9F000B [27.622526 62.960468 54.006500] 0.947249 0.000000 0.000000 -0.320500 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343206958, 8000, 1343206958) /* PCAPRecordedObjectIID */;

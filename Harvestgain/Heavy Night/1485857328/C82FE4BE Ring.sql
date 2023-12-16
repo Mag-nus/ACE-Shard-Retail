@@ -18,7 +18,7 @@ VALUES (3358581950,   1,          8) /* ItemType - Jewelry */
      , (3358581950, 110,          0) /* ItemAllegianceRankLimit */
      , (3358581950, 115,          0) /* ItemSkillLevelLimit */
      , (3358581950, 131,         25) /* MaterialType - Hematite */
-     , (3358581950, 172,          5) /* AppraisalLongDescDecoration */
+     , (3358581950, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (3358581950, 177,          1) /* GemCount */
      , (3358581950, 178,         26) /* GemType */
      , (3358581950, 9015,          8) /* InventoryOrder */;

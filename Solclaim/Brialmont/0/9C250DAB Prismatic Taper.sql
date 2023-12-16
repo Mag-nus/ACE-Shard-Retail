@@ -3,14 +3,14 @@ VALUES (2619674027, 20631, 32, 6340929) /* SpellComponent */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (2619674027,   1,       4096) /* ItemType - SpellComponents */
-     , (2619674027,   5,        150) /* EncumbranceVal */
+     , (2619674027,   5,        126) /* EncumbranceVal */
      , (2619674027,  11,       1000) /* MaxStackSize */
-     , (2619674027,  12,         25) /* StackSize */
+     , (2619674027,  12,         21) /* StackSize */
      , (2619674027,  16,          1) /* ItemUseable - No */
-     , (2619674027,  19,        550) /* Value */
+     , (2619674027,  19,        462) /* Value */
      , (2619674027,  65,        101) /* Placement - Resting */
      , (2619674027,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
-     , (2619674027, 9015,         27) /* InventoryOrder */;
+     , (2619674027, 9015,         39) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (2619674027,   1, False) /* Stuck */

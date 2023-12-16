@@ -20,7 +20,7 @@ VALUES (2967526566,   1,          4) /* ItemType - Clothing */
      , (2967526566, 110,          0) /* ItemAllegianceRankLimit */
      , (2967526566, 115,          0) /* ItemSkillLevelLimit */
      , (2967526566, 131,         52) /* MaterialType - Leather */
-     , (2967526566, 172,          7) /* AppraisalLongDescDecoration */
+     , (2967526566, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2967526566, 177,          2) /* GemCount */
      , (2967526566, 178,         20) /* GemType */
      , (2967526566, 188,          3) /* HeritageGroup - Sho */

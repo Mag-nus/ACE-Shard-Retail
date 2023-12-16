@@ -14,7 +14,7 @@ VALUES (1343175887,   1,         16) /* ItemType - Creature */
      , (1343175887, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343175887, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343175887, 188,          4) /* HeritageGroup - Viamontian */
-     , (1343175887, 261,        129) /* CharacterTitleId */
+     , (1343175887, 261,        129) /* CharacterTitleId - Skullcrusher */
      , (1343175887, 307,          5) /* DamageRating */
      , (1343175887, 390,          0) /* Enlightenment */
      , (1343175887, 8007,          1) /* PCAPRecordedAutonomousMovement */;
@@ -51,9 +51,9 @@ VALUES (1343175887,   1,   33554433) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343175887, 1, 2847146009, 81.3304, 11.7974, 94, 0.839091, 0, 0, -0.543991) /* Location */
-/* @teleloc 0xA9B40019 [81.330400 11.797400 94.000000] 0.839091 0.000000 0.000000 -0.543991 */
-     , (1343175887, 8040, 33096167, 55.78571, -60.8315, 12.005, -0.5913004, 0, 0, 0.8064514) /* PCAPRecordedLocation */
-/* @teleloc 0x01F901E7 [55.785710 -60.831500 12.005000] -0.591300 0.000000 0.000000 0.806451 */;
+/* @teleloc 0xA9B40019 [81.330399 11.797400 94.000000] 0.839091 0.000000 0.000000 -0.543991 */
+     , (1343175887, 8040, 33096167, 55.785713, -60.831497, 12.004999, -0.59130037, 0, 0, 0.8064514) /* PCAPRecordedLocation */
+/* @teleloc 0x01F901E7 [55.785713 -60.831497 12.004999] -0.591300 0.000000 0.000000 0.806451 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343175887,  26, 1343396256) /* Monarch */

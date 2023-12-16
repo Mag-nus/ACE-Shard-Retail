@@ -13,7 +13,7 @@ VALUES (2157269301,   1,        256) /* ItemType - MissileWeapon */
      , (2157269301,  45,          8) /* DamageType - Cold */
      , (2157269301,  48,         47) /* WeaponSkill - MissileWeapons */
      , (2157269301,  49,         20) /* WeaponTime */
-     , (2157269301,  51,          2) /* CombatUse - Missle */
+     , (2157269301,  51,          2) /* CombatUse - Missile */
      , (2157269301,  65,        101) /* Placement - Resting */
      , (2157269301,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (2157269301, 151,          2) /* HookType - Wall */

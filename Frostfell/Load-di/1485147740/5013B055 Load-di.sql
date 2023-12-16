@@ -20,7 +20,7 @@ VALUES (1343467605,   1,         16) /* ItemType - Creature */
      , (1343467605, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343467605, 188,          8) /* HeritageGroup - Lugian */
      , (1343467605, 230,          1) /* AugmentationIncreasedCarryingCapacity */
-     , (1343467605, 261,         14) /* CharacterTitleId */
+     , (1343467605, 261,         14) /* CharacterTitleId - Wayfarer */
      , (1343467605, 307,          0) /* DamageRating */
      , (1343467605, 308,          0) /* DamageResistRating */
      , (1343467605, 312,          0) /* HealOverTime */

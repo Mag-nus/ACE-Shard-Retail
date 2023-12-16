@@ -16,7 +16,7 @@ VALUES (2210356824,   1,      32768) /* ItemType - Caster */
      , (2210356824, 109,          0) /* ItemDifficulty */
      , (2210356824, 115,        350) /* ItemSkillLevelLimit */
      , (2210356824, 151,          2) /* HookType - Wall */
-     , (2210356824, 176,         32) /* AppraisalItemSkill */
+     , (2210356824, 176,         32) /* AppraisalItemSkill - ItemEnchantment */
      , (2210356824, 179,         16) /* ImbuedEffect - PierceRending */
      , (2210356824, 9015,          0) /* InventoryOrder */;
 

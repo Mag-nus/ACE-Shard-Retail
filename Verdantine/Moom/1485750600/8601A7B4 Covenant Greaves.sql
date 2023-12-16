@@ -24,7 +24,7 @@ VALUES (2248255412,   1,          2) /* ItemType - Armor */
      , (2248255412, 158,          2) /* WieldRequirements - RawSkill */
      , (2248255412, 159,          6) /* WieldSkillType - MeleeDefense */
      , (2248255412, 160,        370) /* WieldDifficulty */
-     , (2248255412, 172,          3) /* AppraisalLongDescDecoration */
+     , (2248255412, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2248255412, 188,          3) /* HeritageGroup - Sho */
      , (2248255412, 9015,         40) /* InventoryOrder */;
 

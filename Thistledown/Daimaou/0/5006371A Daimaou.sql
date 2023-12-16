@@ -15,8 +15,8 @@ VALUES (1342584602,   1,         16) /* ItemType - Creature */
      , (1342584602, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342584602, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342584602, 188,          2) /* HeritageGroup - Gharundim */
-     , (1342584602, 261,        447) /* CharacterTitleId */
-     , (1342584602, 281,          4) /* Faction1Bits */
+     , (1342584602, 261,        447) /* CharacterTitleId - ColosseumChampion */
+     , (1342584602, 281,          4) /* Faction1Bits - RadiantBlood */
      , (1342584602, 289,          1) /* SocietyRankRadblo */
      , (1342584602, 307,          8) /* DamageRating */
      , (1342584602, 308,          1) /* DamageResistRating */
@@ -57,10 +57,10 @@ VALUES (1342584602,   1,   33554433) /* Setup */
      , (1342584602, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1342584602, 1, 23855555, 61.49942, -35.91241, 0.004999995, -0.6781033, 0, 0, -0.7349666) /* Location */
-/* @teleloc 0x016C01C3 [61.499420 -35.912410 0.005000] -0.678103 0.000000 0.000000 -0.734967 */
-     , (1342584602, 8040, 23855555, 61.49942, -35.91241, 0.004999995, -0.6781033, 0, 0, -0.7349666) /* PCAPRecordedLocation */
-/* @teleloc 0x016C01C3 [61.499420 -35.912410 0.005000] -0.678103 0.000000 0.000000 -0.734967 */;
+VALUES (1342584602, 1, 23855555, 61.499424, -35.912407, 0.004999995, -0.67810327, 0, 0, -0.73496664) /* Location */
+/* @teleloc 0x016C01C3 [61.499424 -35.912407 0.005000] -0.678103 0.000000 0.000000 -0.734967 */
+     , (1342584602, 8040, 23855555, 61.499424, -35.912407, 0.004999995, -0.67810327, 0, -0, -0.73496664) /* PCAPRecordedLocation */
+/* @teleloc 0x016C01C3 [61.499424 -35.912407 0.005000] -0.678103 0.000000 -0.000000 -0.734967 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342584602,  26, 1343225824) /* Monarch */

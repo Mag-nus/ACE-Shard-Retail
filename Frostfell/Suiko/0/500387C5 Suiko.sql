@@ -17,7 +17,7 @@ VALUES (1342408645,   1,         16) /* ItemType - Creature */
      , (1342408645, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342408645, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342408645, 188,          3) /* HeritageGroup - Sho */
-     , (1342408645, 261,        671) /* CharacterTitleId */
+     , (1342408645, 261,        671) /* CharacterTitleId - FrozenFighter */
      , (1342408645, 262,          6) /* NumCharacterTitles */
      , (1342408645, 307,          5) /* DamageRating */
      , (1342408645, 390,          0) /* Enlightenment */
@@ -55,8 +55,8 @@ VALUES (1342408645,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1342408645, 1, 3443589148, 83.5755, 84.0811, 54, 0.430868, 0, 0, 0.902415) /* Location */
 /* @teleloc 0xCD41001C [83.575500 84.081100 54.000000] 0.430868 0.000000 0.000000 0.902415 */
-     , (1342408645, 8040, 3583574079, 183.4949, 155.0316, 374.005, 0.9287764, 0, 0, -0.3706406) /* PCAPRecordedLocation */
-/* @teleloc 0xD599003F [183.494900 155.031600 374.005000] 0.928776 0.000000 0.000000 -0.370641 */;
+     , (1342408645, 8040, 3583574079, 183.49495, 155.03165, 374.005, 0.9287764, 0, 0, -0.37064064) /* PCAPRecordedLocation */
+/* @teleloc 0xD599003F [183.494949 155.031647 374.005005] 0.928776 0.000000 0.000000 -0.370641 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342408645,  26, 1342408645) /* Monarch */

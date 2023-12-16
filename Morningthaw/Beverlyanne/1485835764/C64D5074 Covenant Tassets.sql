@@ -24,8 +24,8 @@ VALUES (3326955636,   1,          2) /* ItemType - Armor */
      , (3326955636, 158,          2) /* WieldRequirements - RawSkill */
      , (3326955636, 159,         15) /* WieldSkillType - MagicDefense */
      , (3326955636, 160,        265) /* WieldDifficulty */
-     , (3326955636, 172,          3) /* AppraisalLongDescDecoration */
-     , (3326955636, 176,          6) /* AppraisalItemSkill */
+     , (3326955636, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (3326955636, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (3326955636, 9015,         46) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

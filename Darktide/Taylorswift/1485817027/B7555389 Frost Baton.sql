@@ -24,7 +24,7 @@ VALUES (3075822473,   1,      32768) /* ItemType - Caster */
      , (3075822473, 158,          2) /* WieldRequirements - RawSkill */
      , (3075822473, 159,         34) /* WieldSkillType - WarMagic */
      , (3075822473, 160,        375) /* WieldDifficulty */
-     , (3075822473, 172,          5) /* AppraisalLongDescDecoration */
+     , (3075822473, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (3075822473, 177,          4) /* GemCount */
      , (3075822473, 178,         49) /* GemType */
      , (3075822473, 9015,         67) /* InventoryOrder */;
@@ -38,7 +38,7 @@ VALUES (3075822473,   1, False) /* Stuck */
      , (3075822473,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3075822473,   5, -0.0555555555555556) /* ManaRate */
+VALUES (3075822473,   5, -0.05555555555555555) /* ManaRate */
      , (3075822473,  29,    1.13) /* WeaponDefense */
      , (3075822473,  39,     1.5) /* DefaultScale */
      , (3075822473, 144,     0.1) /* ManaConversionMod */

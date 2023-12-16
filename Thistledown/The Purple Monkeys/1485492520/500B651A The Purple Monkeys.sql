@@ -23,7 +23,7 @@ VALUES (1342924058,   1,         16) /* ItemType - Creature */
      , (1342924058, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342924058, 139,          2) /* DeathLevel */
      , (1342924058, 188,          1) /* HeritageGroup - Aluvian */
-     , (1342924058, 261,         12) /* CharacterTitleId */
+     , (1342924058, 261,         12) /* CharacterTitleId - Swashbuckler */
      , (1342924058, 307,          0) /* DamageRating */
      , (1342924058, 308,          0) /* DamageResistRating */
      , (1342924058, 312,          0) /* HealOverTime */

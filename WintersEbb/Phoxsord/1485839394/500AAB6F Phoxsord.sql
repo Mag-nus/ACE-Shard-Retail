@@ -26,7 +26,7 @@ VALUES (1342876527,   1,         16) /* ItemType - Creature */
      , (1342876527, 188,          2) /* HeritageGroup - Gharundim */
      , (1342876527, 199, 1462142980) /* HousePurchaseTimestamp */
      , (1342876527, 233,          1) /* AugmentationCriticalDefense */
-     , (1342876527, 261,        125) /* CharacterTitleId */
+     , (1342876527, 261,        125) /* CharacterTitleId - Shredder */
      , (1342876527, 307,          0) /* DamageRating */
      , (1342876527, 308,          0) /* DamageResistRating */
      , (1342876527, 312,          0) /* HealOverTime */

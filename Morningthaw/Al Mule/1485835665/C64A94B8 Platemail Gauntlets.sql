@@ -14,7 +14,7 @@ VALUES (3326776504,   1,          2) /* ItemType - Armor */
      , (3326776504,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3326776504, 105,          6) /* ItemWorkmanship */
      , (3326776504, 131,         59) /* MaterialType - Copper */
-     , (3326776504, 172,          7) /* AppraisalLongDescDecoration */
+     , (3326776504, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3326776504, 177,          2) /* GemCount */
      , (3326776504, 178,         49) /* GemType */;
 

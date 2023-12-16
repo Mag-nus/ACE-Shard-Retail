@@ -21,8 +21,8 @@ VALUES (2675393792,   1,          2) /* ItemType - Armor */
      , (2675393792, 110,          0) /* ItemAllegianceRankLimit */
      , (2675393792, 115,        238) /* ItemSkillLevelLimit */
      , (2675393792, 131,         59) /* MaterialType - Copper */
-     , (2675393792, 172,          7) /* AppraisalLongDescDecoration */
-     , (2675393792, 176,          7) /* AppraisalItemSkill */
+     , (2675393792, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (2675393792, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (2675393792, 177,          1) /* GemCount */
      , (2675393792, 178,         26) /* GemType */;
 

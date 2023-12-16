@@ -22,7 +22,7 @@ VALUES (1343228528,   1,         16) /* ItemType - Creature */
      , (1343228528, 188,          3) /* HeritageGroup - Sho */
      , (1343228528, 192,          0) /* FakeFishingSkill */
      , (1343228528, 199, 1471419197) /* HousePurchaseTimestamp */
-     , (1343228528, 261,          1) /* CharacterTitleId */
+     , (1343228528, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343228528, 307,          5) /* DamageRating */
      , (1343228528, 308,          0) /* DamageResistRating */
      , (1343228528, 312,          0) /* HealOverTime */

@@ -8,7 +8,7 @@ VALUES (2556935774,   1,        256) /* ItemType - MissileWeapon */
      , (2556935774,  16,          1) /* ItemUseable - No */
      , (2556935774,  19,       1746) /* Value */
      , (2556935774,  50,          1) /* AmmoType - Arrow */
-     , (2556935774,  51,          2) /* CombatUse - Missle */
+     , (2556935774,  51,          2) /* CombatUse - Missile */
      , (2556935774,  65,        101) /* Placement - Resting */
      , (2556935774,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2556935774, 131,         77) /* MaterialType - Teak */

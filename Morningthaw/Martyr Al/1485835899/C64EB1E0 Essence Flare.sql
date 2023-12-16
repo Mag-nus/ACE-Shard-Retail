@@ -16,7 +16,7 @@ VALUES (3327046112,   1,      32768) /* ItemType - Caster */
      , (3327046112, 108,       1200) /* ItemMaxMana */
      , (3327046112, 115,        150) /* ItemSkillLevelLimit */
      , (3327046112, 151,          2) /* HookType - Wall */
-     , (3327046112, 176,         16) /* AppraisalItemSkill */
+     , (3327046112, 176,         16) /* AppraisalItemSkill - ManaConversion */
      , (3327046112, 9015,         19) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
@@ -31,7 +31,7 @@ VALUES (3327046112,   1, False) /* Stuck */
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (3327046112,   5,   -0.05) /* ManaRate */
      , (3327046112,  29,       1) /* WeaponDefense */
-     , (3327046112,  39, 1.20000004768372) /* DefaultScale */
+     , (3327046112,  39, 1.2000000476837158) /* DefaultScale */
      , (3327046112,  76,     0.5) /* Translucency */
      , (3327046112, 144,    0.05) /* ManaConversionMod */;
 

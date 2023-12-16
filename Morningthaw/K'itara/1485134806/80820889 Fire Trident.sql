@@ -28,8 +28,8 @@ VALUES (2156005513,   1,          1) /* ItemType - MeleeWeapon */
      , (2156005513, 158,          2) /* WieldRequirements - RawSkill */
      , (2156005513, 159,         44) /* WieldSkillType - HeavyWeapons */
      , (2156005513, 160,        325) /* WieldDifficulty */
-     , (2156005513, 172,          5) /* AppraisalLongDescDecoration */
-     , (2156005513, 176,         44) /* AppraisalItemSkill */
+     , (2156005513, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
+     , (2156005513, 176,         44) /* AppraisalItemSkill - HeavyWeapons */
      , (2156005513, 177,          1) /* GemCount */
      , (2156005513, 178,         15) /* GemType */
      , (2156005513, 353,          5) /* WeaponType - Spear */

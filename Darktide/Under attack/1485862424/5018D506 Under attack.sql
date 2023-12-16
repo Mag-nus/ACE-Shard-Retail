@@ -38,8 +38,8 @@ VALUES (1343804678,   1,         16) /* ItemType - Creature */
      , (1343804678, 238,          5) /* AugmentationIncreasedSpellDuration */
      , (1343804678, 242,          1) /* AugmentationResistanceBlunt */
      , (1343804678, 243,          1) /* AugmentationResistanceAcid */
-     , (1343804678, 261,         61) /* CharacterTitleId */
-     , (1343804678, 281,          2) /* Faction1Bits */
+     , (1343804678, 261,         61) /* CharacterTitleId - GoldenGod */
+     , (1343804678, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1343804678, 288,       1001) /* SocietyRankEldweb */
      , (1343804678, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1343804678, 295,          1) /* AugmentationInfusedItemMagic */

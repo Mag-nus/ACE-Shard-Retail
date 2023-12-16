@@ -10,7 +10,7 @@ VALUES (2967711560,   1,        256) /* ItemType - MissileWeapon */
      , (2967711560,  16,          1) /* ItemUseable - No */
      , (2967711560,  18,         64) /* UiEffects - Lightning */
      , (2967711560,  19,        380) /* Value */
-     , (2967711560,  51,          2) /* CombatUse - Missle */
+     , (2967711560,  51,          2) /* CombatUse - Missile */
      , (2967711560,  65,        101) /* Placement - Resting */
      , (2967711560,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (2967711560, 151,          2) /* HookType - Wall */

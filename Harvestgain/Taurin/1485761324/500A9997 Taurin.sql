@@ -26,7 +26,7 @@ VALUES (1342871959,   1,         16) /* ItemType - Creature */
      , (1342871959, 139,         47) /* DeathLevel */
      , (1342871959, 188,          1) /* HeritageGroup - Aluvian */
      , (1342871959, 199, 1397585825) /* HousePurchaseTimestamp */
-     , (1342871959, 261,        126) /* CharacterTitleId */
+     , (1342871959, 261,        126) /* CharacterTitleId - SilverSerf */
      , (1342871959, 307,          5) /* DamageRating */
      , (1342871959, 308,          0) /* DamageResistRating */
      , (1342871959, 312,          0) /* HealOverTime */

@@ -26,7 +26,7 @@ VALUES (2168240578,   1,          1) /* ItemType - MeleeWeapon */
      , (2168240578, 158,          2) /* WieldRequirements - RawSkill */
      , (2168240578, 159,         44) /* WieldSkillType - HeavyWeapons */
      , (2168240578, 160,        400) /* WieldDifficulty */
-     , (2168240578, 263,         64) /* ResistanceModifierType */
+     , (2168240578, 263,         64) /* ResistanceModifierType - Electric */
      , (2168240578, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (2168240578, 9015,         20) /* InventoryOrder */;
 

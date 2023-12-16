@@ -29,8 +29,8 @@ VALUES (2953530861,   1,          1) /* ItemType - MeleeWeapon */
      , (2953530861, 158,          2) /* WieldRequirements - RawSkill */
      , (2953530861, 159,         44) /* WieldSkillType - HeavyWeapons */
      , (2953530861, 160,        300) /* WieldDifficulty */
-     , (2953530861, 172,          5) /* AppraisalLongDescDecoration */
-     , (2953530861, 176,         44) /* AppraisalItemSkill */
+     , (2953530861, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
+     , (2953530861, 176,         44) /* AppraisalItemSkill - HeavyWeapons */
      , (2953530861, 177,          1) /* GemCount */
      , (2953530861, 178,         27) /* GemType */
      , (2953530861, 353,          6) /* WeaponType - Dagger */

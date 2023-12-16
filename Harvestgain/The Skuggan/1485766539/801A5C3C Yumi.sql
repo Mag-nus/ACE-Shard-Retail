@@ -8,7 +8,7 @@ VALUES (2149211196,   1,        256) /* ItemType - MissileWeapon */
      , (2149211196,  16,          1) /* ItemUseable - No */
      , (2149211196,  19,       3174) /* Value */
      , (2149211196,  50,          1) /* AmmoType - Arrow */
-     , (2149211196,  51,          2) /* CombatUse - Missle */
+     , (2149211196,  51,          2) /* CombatUse - Missile */
      , (2149211196,  65,        101) /* Placement - Resting */
      , (2149211196,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2149211196, 131,         50) /* MaterialType - Zircon */

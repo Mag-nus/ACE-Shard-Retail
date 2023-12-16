@@ -8,7 +8,7 @@ VALUES (3358901673,   1,        256) /* ItemType - MissileWeapon */
      , (3358901673,  16,          1) /* ItemUseable - No */
      , (3358901673,  18,          1) /* UiEffects - Magical */
      , (3358901673,  19,        882) /* Value */
-     , (3358901673,  51,          2) /* CombatUse - Missle */
+     , (3358901673,  51,          2) /* CombatUse - Missile */
      , (3358901673,  65,        101) /* Placement - Resting */
      , (3358901673,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (3358901673, 131,         67) /* MaterialType - Granite */

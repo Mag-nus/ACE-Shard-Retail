@@ -9,7 +9,7 @@ VALUES (2940791901,   1,        256) /* ItemType - MissileWeapon */
      , (2940791901,  18,         33) /* UiEffects - Magical, Fire */
      , (2940791901,  19,      12257) /* Value */
      , (2940791901,  50,          2) /* AmmoType - Bolt */
-     , (2940791901,  51,          2) /* CombatUse - Missle */
+     , (2940791901,  51,          2) /* CombatUse - Missile */
      , (2940791901,  65,        101) /* Placement - Resting */
      , (2940791901,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2940791901, 131,         59) /* MaterialType - Copper */

@@ -25,7 +25,7 @@ VALUES (1342940568,   1,         16) /* ItemType - Creature */
      , (1342940568, 139,        207) /* DeathLevel */
      , (1342940568, 188,          1) /* HeritageGroup - Aluvian */
      , (1342940568, 199, 1211107428) /* HousePurchaseTimestamp */
-     , (1342940568, 261,        100) /* CharacterTitleId */
+     , (1342940568, 261,        100) /* CharacterTitleId - ParagonofDeath */
      , (1342940568, 307,          5) /* DamageRating */
      , (1342940568, 308,          0) /* DamageResistRating */
      , (1342940568, 312,          0) /* HealOverTime */

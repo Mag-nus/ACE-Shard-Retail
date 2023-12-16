@@ -14,8 +14,8 @@ VALUES (1343245504,   1,         16) /* ItemType - Creature */
      , (1343245504, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343245504, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343245504, 188,          1) /* HeritageGroup - Aluvian */
-     , (1343245504, 261,        886) /* CharacterTitleId */
-     , (1343245504, 281,          1) /* Faction1Bits */
+     , (1343245504, 261,        886) /* CharacterTitleId - Idolized */
+     , (1343245504, 281,          1) /* Faction1Bits - CelestialHand */
      , (1343245504, 287,       1001) /* SocietyRankCelhan */
      , (1343245504, 307,         40) /* DamageRating */
      , (1343245504, 308,         28) /* DamageResistRating */
@@ -58,8 +58,8 @@ VALUES (1343245504,   1,   33554510) /* Setup */
      , (1343245504, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343245504, 1, 35389774, 54.0006, -45.99814, -5.995, 0.8824989, 0, 0, -0.4703145) /* Location */
-/* @teleloc 0x021C014E [54.000600 -45.998140 -5.995000] 0.882499 0.000000 0.000000 -0.470315 */
+VALUES (1343245504, 1, 35389774, 54.000595, -45.99814, -5.995, 0.88249886, 0, 0, -0.4703145) /* Location */
+/* @teleloc 0x021C014E [54.000595 -45.998138 -5.995000] 0.882499 0.000000 0.000000 -0.470315 */
      , (1343245504, 8040, 35389774, 50, -50, -5.995, -0.68921, 0, 0, -0.724561) /* PCAPRecordedLocation */
 /* @teleloc 0x021C014E [50.000000 -50.000000 -5.995000] -0.689210 0.000000 0.000000 -0.724561 */;
 

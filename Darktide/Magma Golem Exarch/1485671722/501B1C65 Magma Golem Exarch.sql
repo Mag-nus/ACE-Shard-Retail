@@ -33,8 +33,8 @@ VALUES (1343954021,   1,         16) /* ItemType - Creature */
      , (1343954021, 233,          1) /* AugmentationCriticalDefense */
      , (1343954021, 240,          1) /* AugmentationResistanceSlash */
      , (1343954021, 241,          1) /* AugmentationResistancePierce */
-     , (1343954021, 261,         94) /* CharacterTitleId */
-     , (1343954021, 281,          2) /* Faction1Bits */
+     , (1343954021, 261,         94) /* CharacterTitleId - MoraleSmasher */
+     , (1343954021, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1343954021, 288,         50) /* SocietyRankEldweb */
      , (1343954021, 298,          1) /* AugmentationCriticalExpertise */
      , (1343954021, 299,          1) /* AugmentationCriticalPower */

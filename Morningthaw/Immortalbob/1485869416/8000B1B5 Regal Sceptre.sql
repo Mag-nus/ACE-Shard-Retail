@@ -21,7 +21,7 @@ VALUES (2147529141,   1,      32768) /* ItemType - Caster */
      , (2147529141, 159,         16) /* WieldSkillType - ManaConversion */
      , (2147529141, 160,        255) /* WieldDifficulty */
      , (2147529141, 166,         75) /* SlayerCreatureType - Burun */
-     , (2147529141, 265,        139) /* EquipmentSetId - UNKNOWN_139 */
+     , (2147529141, 265,        139) /* EquipmentSetId - ParagonCaster */
      , (2147529141, 319,          2) /* ItemMaxLevel */
      , (2147529141, 320,          1) /* ItemXpStyle - Fixed */
      , (2147529141, 9015,          4) /* InventoryOrder */;

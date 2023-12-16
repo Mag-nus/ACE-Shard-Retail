@@ -30,8 +30,8 @@ VALUES (1343386099,   1,         16) /* ItemType - Creature */
      , (1343386099, 232,          1) /* AugmentationSpellsRemainPastDeath */
      , (1343386099, 233,          1) /* AugmentationCriticalDefense */
      , (1343386099, 238,          5) /* AugmentationIncreasedSpellDuration */
-     , (1343386099, 261,         86) /* CharacterTitleId */
-     , (1343386099, 281,          4) /* Faction1Bits */
+     , (1343386099, 261,         86) /* CharacterTitleId - Lightbringer */
+     , (1343386099, 281,          4) /* Faction1Bits - RadiantBlood */
      , (1343386099, 289,          1) /* SocietyRankRadblo */
      , (1343386099, 298,          1) /* AugmentationCriticalExpertise */
      , (1343386099, 299,          1) /* AugmentationCriticalPower */

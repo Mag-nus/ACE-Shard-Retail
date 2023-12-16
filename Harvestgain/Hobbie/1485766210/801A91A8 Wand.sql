@@ -21,7 +21,7 @@ VALUES (2149224872,   1,      32768) /* ItemType - Caster */
      , (2149224872, 115,          0) /* ItemSkillLevelLimit */
      , (2149224872, 131,         49) /* MaterialType - YellowTopaz */
      , (2149224872, 151,          2) /* HookType - Wall */
-     , (2149224872, 172,          5) /* AppraisalLongDescDecoration */
+     , (2149224872, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2149224872, 177,          3) /* GemCount */
      , (2149224872, 178,         38) /* GemType */;
 

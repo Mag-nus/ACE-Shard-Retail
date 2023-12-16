@@ -20,7 +20,7 @@ VALUES (3710970633,   1,          8) /* ItemType - Jewelry */
      , (3710970633, 115,          0) /* ItemSkillLevelLimit */
      , (3710970633, 131,         63) /* MaterialType - Silver */
      , (3710970633, 171,          2) /* NumTimesTinkered */
-     , (3710970633, 172,          7) /* AppraisalLongDescDecoration */
+     , (3710970633, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3710970633, 177,          4) /* GemCount */
      , (3710970633, 178,         21) /* GemType */
      , (3710970633, 179,          0) /* ImbuedEffect - Undef */

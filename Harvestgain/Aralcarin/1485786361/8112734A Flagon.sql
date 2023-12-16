@@ -7,7 +7,7 @@ VALUES (2165470026,   1,        256) /* ItemType - MissileWeapon */
      , (2165470026,   9,    4194304) /* ValidLocations - MissileWeapon */
      , (2165470026,  16,          1) /* ItemUseable - No */
      , (2165470026,  19,       2666) /* Value */
-     , (2165470026,  51,          2) /* CombatUse - Missle */
+     , (2165470026,  51,          2) /* CombatUse - Missile */
      , (2165470026,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (2165470026, 131,         67) /* MaterialType - Granite */
      , (2165470026, 151,          1) /* HookType - Floor */

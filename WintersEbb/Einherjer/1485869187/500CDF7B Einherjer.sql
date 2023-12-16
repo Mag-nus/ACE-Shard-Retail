@@ -36,8 +36,8 @@ VALUES (1343020923,   1,         16) /* ItemType - Creature */
      , (1343020923, 238,          5) /* AugmentationIncreasedSpellDuration */
      , (1343020923, 244,          1) /* AugmentationResistanceFire */
      , (1343020923, 246,          1) /* AugmentationResistanceLightning */
-     , (1343020923, 261,        791) /* CharacterTitleId */
-     , (1343020923, 281,          2) /* Faction1Bits */
+     , (1343020923, 261,        791) /* CharacterTitleId - EmotionalWreck */
+     , (1343020923, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1343020923, 288,       1001) /* SocietyRankEldweb */
      , (1343020923, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1343020923, 295,          1) /* AugmentationInfusedItemMagic */

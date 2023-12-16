@@ -25,7 +25,7 @@ VALUES (1343186046,   1,         16) /* ItemType - Creature */
      , (1343186046, 139,         36) /* DeathLevel */
      , (1343186046, 188,         10) /* HeritageGroup - Penumbraen */
      , (1343186046, 199, 1436811929) /* HousePurchaseTimestamp */
-     , (1343186046, 261,        773) /* CharacterTitleId */
+     , (1343186046, 261,        773) /* CharacterTitleId - AnAubereanLegend */
      , (1343186046, 298,          1) /* AugmentationCriticalExpertise */
      , (1343186046, 307,          0) /* DamageRating */
      , (1343186046, 308,          0) /* DamageResistRating */

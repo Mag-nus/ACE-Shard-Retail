@@ -21,7 +21,7 @@ VALUES (3319999897,   1,      32768) /* ItemType - Caster */
      , (3319999897, 115,        270) /* ItemSkillLevelLimit */
      , (3319999897, 117,        150) /* ItemManaCost */
      , (3319999897, 151,          2) /* HookType - Wall */
-     , (3319999897, 176,         34) /* AppraisalItemSkill */
+     , (3319999897, 176,         34) /* AppraisalItemSkill - WarMagic */
      , (3319999897, 188,          2) /* HeritageGroup - Gharundim */
      , (3319999897, 9015,         17) /* InventoryOrder */;
 

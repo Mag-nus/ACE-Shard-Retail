@@ -9,7 +9,7 @@ VALUES (3623501903,   1,        256) /* ItemType - MissileWeapon */
      , (3623501903,  12,          1) /* StackSize */
      , (3623501903,  16,          1) /* ItemUseable - No */
      , (3623501903,  19,         90) /* Value */
-     , (3623501903,  51,          2) /* CombatUse - Missle */
+     , (3623501903,  51,          2) /* CombatUse - Missile */
      , (3623501903,  65,        101) /* Placement - Resting */
      , (3623501903,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (3623501903, 131,          1) /* MaterialType - Ceramic */

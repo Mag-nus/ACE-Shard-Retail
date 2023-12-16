@@ -8,7 +8,7 @@ VALUES (3351895060,   1,        256) /* ItemType - MissileWeapon */
      , (3351895060,  16,          1) /* ItemUseable - No */
      , (3351895060,  18,          1) /* UiEffects - Magical */
      , (3351895060,  19,      22844) /* Value */
-     , (3351895060,  51,          2) /* CombatUse - Missle */
+     , (3351895060,  51,          2) /* CombatUse - Missile */
      , (3351895060,  65,        101) /* Placement - Resting */
      , (3351895060,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (3351895060, 131,         38) /* MaterialType - Ruby */

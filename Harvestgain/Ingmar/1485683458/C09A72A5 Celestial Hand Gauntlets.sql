@@ -25,8 +25,8 @@ VALUES (3231347365,   1,          2) /* ItemType - Armor */
      , (3231347365, 159,        287) /* WieldSkillType */
      , (3231347365, 160,          1) /* WieldDifficulty */
      , (3231347365, 171,          8) /* NumTimesTinkered */
-     , (3231347365, 172,          7) /* AppraisalLongDescDecoration */
-     , (3231347365, 176,          6) /* AppraisalItemSkill */
+     , (3231347365, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (3231347365, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (3231347365, 177,          2) /* GemCount */
      , (3231347365, 178,         47) /* GemType */
      , (3231347365, 265,         30) /* EquipmentSetId - SocietyArmor */;

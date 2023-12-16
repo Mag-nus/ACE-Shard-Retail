@@ -26,8 +26,8 @@ VALUES (1343214780,   1,         16) /* ItemType - Creature */
      , (1343214780, 188,          3) /* HeritageGroup - Sho */
      , (1343214780, 192,          0) /* FakeFishingSkill */
      , (1343214780, 199, 1106092019) /* HousePurchaseTimestamp */
-     , (1343214780, 261,          1) /* CharacterTitleId */
-     , (1343214780, 281,          4) /* Faction1Bits */
+     , (1343214780, 261,          1) /* CharacterTitleId - Adventurer */
+     , (1343214780, 281,          4) /* Faction1Bits - RadiantBlood */
      , (1343214780, 289,         10) /* SocietyRankRadblo */
      , (1343214780, 307,          0) /* DamageRating */
      , (1343214780, 308,          0) /* DamageResistRating */

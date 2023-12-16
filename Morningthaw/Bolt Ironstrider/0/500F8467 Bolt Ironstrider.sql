@@ -19,7 +19,7 @@ VALUES (1343194215,   1, True ) /* Stuck */
      , (1343194215,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343194215,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1343194215,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343194215,   1, 'Bolt Ironstrider') /* Name */;
@@ -38,8 +38,8 @@ VALUES (1343194215,   1,   33560839) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343194215, 1, 2847146009, 84, 7.1, 94, 0.9969173, 0, 0, -0.0784591) /* Location */
 /* @teleloc 0xA9B40019 [84.000000 7.100000 94.000000] 0.996917 0.000000 0.000000 -0.078459 */
-     , (1343194215, 8040, 19202318, 29.33496, -34.93439, 2.993548, 0.9994817, 0, 0, -0.03219094) /* PCAPRecordedLocation */
-/* @teleloc 0x0125010E [29.334960 -34.934390 2.993548] 0.999482 0.000000 0.000000 -0.032191 */;
+     , (1343194215, 8040, 19202318, 29.334965, -34.934387, 2.9935482, 0.99948174, 0, 0, -0.03219094) /* PCAPRecordedLocation */
+/* @teleloc 0x0125010E [29.334965 -34.934387 2.993548] 0.999482 0.000000 0.000000 -0.032191 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343194215, 8000, 1343194215) /* PCAPRecordedObjectIID */;

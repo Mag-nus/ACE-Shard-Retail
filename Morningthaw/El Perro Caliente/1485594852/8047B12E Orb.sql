@@ -21,7 +21,7 @@ VALUES (2152182062,   1,      32768) /* ItemType - Caster */
      , (2152182062, 131,         36) /* MaterialType - RedJade */
      , (2152182062, 151,          2) /* HookType - Wall */
      , (2152182062, 171,          3) /* NumTimesTinkered */
-     , (2152182062, 172,          7) /* AppraisalLongDescDecoration */
+     , (2152182062, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2152182062, 177,          8) /* GemCount */
      , (2152182062, 178,         39) /* GemType */
      , (2152182062, 9015,         12) /* InventoryOrder */;

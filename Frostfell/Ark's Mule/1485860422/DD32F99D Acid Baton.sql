@@ -24,7 +24,7 @@ VALUES (3711105437,   1,      32768) /* ItemType - Caster */
      , (3711105437, 158,          2) /* WieldRequirements - RawSkill */
      , (3711105437, 159,         34) /* WieldSkillType - WarMagic */
      , (3711105437, 160,        355) /* WieldDifficulty */
-     , (3711105437, 172,          7) /* AppraisalLongDescDecoration */
+     , (3711105437, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3711105437, 177,          4) /* GemCount */
      , (3711105437, 178,         39) /* GemType */
      , (3711105437, 188,          1) /* HeritageGroup - Aluvian */

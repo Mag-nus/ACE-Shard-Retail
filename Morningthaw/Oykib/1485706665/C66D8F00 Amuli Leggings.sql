@@ -24,8 +24,8 @@ VALUES (3329068800,   1,          2) /* ItemType - Armor */
      , (3329068800, 158,          7) /* WieldRequirements - Level */
      , (3329068800, 159,          1) /* WieldSkillType - Axe */
      , (3329068800, 160,        150) /* WieldDifficulty */
-     , (3329068800, 172,          1) /* AppraisalLongDescDecoration */
-     , (3329068800, 176,          6) /* AppraisalItemSkill */;
+     , (3329068800, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (3329068800, 176,          6) /* AppraisalItemSkill - MeleeDefense */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (3329068800,   1, False) /* Stuck */

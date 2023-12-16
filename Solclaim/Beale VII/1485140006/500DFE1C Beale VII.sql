@@ -35,8 +35,8 @@ VALUES (1343094300,   1,         16) /* ItemType - Creature */
      , (1343094300, 238,          5) /* AugmentationIncreasedSpellDuration */
      , (1343094300, 243,          1) /* AugmentationResistanceAcid */
      , (1343094300, 244,          1) /* AugmentationResistanceFire */
-     , (1343094300, 261,        110) /* CharacterTitleId */
-     , (1343094300, 281,          2) /* Faction1Bits */
+     , (1343094300, 261,        110) /* CharacterTitleId - Queenslayer */
+     , (1343094300, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1343094300, 288,       1001) /* SocietyRankEldweb */
      , (1343094300, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1343094300, 295,          1) /* AugmentationInfusedItemMagic */

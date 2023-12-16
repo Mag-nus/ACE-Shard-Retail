@@ -24,7 +24,7 @@ VALUES (2624395391,   1,          2) /* ItemType - Armor */
      , (2624395391, 158,          2) /* WieldRequirements - RawSkill */
      , (2624395391, 159,          6) /* WieldSkillType - MeleeDefense */
      , (2624395391, 160,        350) /* WieldDifficulty */
-     , (2624395391, 172,          7) /* AppraisalLongDescDecoration */
+     , (2624395391, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2624395391, 177,          3) /* GemCount */
      , (2624395391, 178,         13) /* GemType */
      , (2624395391, 188,          4) /* HeritageGroup - Viamontian */

@@ -21,7 +21,7 @@ VALUES (2380401204,   1,          2) /* ItemType - Armor */
      , (2380401204, 110,          0) /* ItemAllegianceRankLimit */
      , (2380401204, 115,          0) /* ItemSkillLevelLimit */
      , (2380401204, 131,          5) /* MaterialType - Satin */
-     , (2380401204, 172,          5) /* AppraisalLongDescDecoration */
+     , (2380401204, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2380401204, 177,          2) /* GemCount */
      , (2380401204, 178,         39) /* GemType */;
 

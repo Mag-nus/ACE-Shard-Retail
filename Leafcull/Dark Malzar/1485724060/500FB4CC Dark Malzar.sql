@@ -24,7 +24,7 @@ VALUES (1343206604,   1,         16) /* ItemType - Creature */
      , (1343206604, 139,         46) /* DeathLevel */
      , (1343206604, 188,          2) /* HeritageGroup - Gharundim */
      , (1343206604, 199, 1484066064) /* HousePurchaseTimestamp */
-     , (1343206604, 261,         13) /* CharacterTitleId */
+     , (1343206604, 261,         13) /* CharacterTitleId - WarMage */
      , (1343206604, 307,          0) /* DamageRating */
      , (1343206604, 308,          0) /* DamageResistRating */
      , (1343206604, 312,          0) /* HealOverTime */

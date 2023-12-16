@@ -21,7 +21,7 @@ VALUES (2173456237,   1,      32768) /* ItemType - Caster */
      , (2173456237, 131,         62) /* MaterialType - Pyreal */
      , (2173456237, 151,          2) /* HookType - Wall */
      , (2173456237, 171,          7) /* NumTimesTinkered */
-     , (2173456237, 172,          7) /* AppraisalLongDescDecoration */
+     , (2173456237, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2173456237, 177,          7) /* GemCount */
      , (2173456237, 178,         41) /* GemType */
      , (2173456237, 188,          1) /* HeritageGroup - Aluvian */

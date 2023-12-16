@@ -24,8 +24,8 @@ VALUES (2622247469,   1,          2) /* ItemType - Armor */
      , (2622247469, 158,          7) /* WieldRequirements - Level */
      , (2622247469, 159,          1) /* WieldSkillType - Axe */
      , (2622247469, 160,        180) /* WieldDifficulty */
-     , (2622247469, 172,          7) /* AppraisalLongDescDecoration */
-     , (2622247469, 176,          6) /* AppraisalItemSkill */
+     , (2622247469, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (2622247469, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (2622247469, 177,          2) /* GemCount */
      , (2622247469, 178,         26) /* GemType */
      , (2622247469, 265,         17) /* EquipmentSetId - Tinkers */;

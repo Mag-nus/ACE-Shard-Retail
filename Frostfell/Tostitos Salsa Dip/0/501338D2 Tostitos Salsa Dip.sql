@@ -19,7 +19,7 @@ VALUES (1343437010,   1, True ) /* Stuck */
      , (1343437010,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343437010,  39, 1.10000002384186) /* DefaultScale */;
+VALUES (1343437010,  39, 1.100000023841858) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343437010,   1, 'Tostitos Salsa Dip') /* Name */;
@@ -36,10 +36,10 @@ VALUES (1343437010,   1,   33561114) /* Setup */
      , (1343437010, 8005,     104643) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343437010, 1, 23855554, 59.24457, -34.10338, 0.005500019, -0.6245392, 0, 0, -0.7809935) /* Location */
-/* @teleloc 0x016C01C2 [59.244570 -34.103380 0.005500] -0.624539 0.000000 0.000000 -0.780994 */
-     , (1343437010, 8040, 23855555, 56.00717, -35.20864, 0.005500019, 0.8857509, 0, 0, -0.4641609) /* PCAPRecordedLocation */
-/* @teleloc 0x016C01C3 [56.007170 -35.208640 0.005500] 0.885751 0.000000 0.000000 -0.464161 */;
+VALUES (1343437010, 1, 23855554, 59.244568, -34.103382, 0.0055000186, -0.6245392, 0, 0, -0.78099346) /* Location */
+/* @teleloc 0x016C01C2 [59.244568 -34.103382 0.005500] -0.624539 0.000000 0.000000 -0.780993 */
+     , (1343437010, 8040, 23855555, 56.007168, -35.208645, 0.0055000186, 0.8857509, 0, 0, -0.46416092) /* PCAPRecordedLocation */
+/* @teleloc 0x016C01C3 [56.007168 -35.208645 0.005500] 0.885751 0.000000 0.000000 -0.464161 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343437010,  26, 1343449966) /* Monarch */

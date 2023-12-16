@@ -8,7 +8,7 @@ VALUES (3621650722,   1,        256) /* ItemType - MissileWeapon */
      , (3621650722,  16,          1) /* ItemUseable - No */
      , (3621650722,  18,          1) /* UiEffects - Magical */
      , (3621650722,  19,        411) /* Value */
-     , (3621650722,  51,          2) /* CombatUse - Missle */
+     , (3621650722,  51,          2) /* CombatUse - Missile */
      , (3621650722,  65,        101) /* Placement - Resting */
      , (3621650722,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (3621650722, 131,          2) /* MaterialType - Porcelain */

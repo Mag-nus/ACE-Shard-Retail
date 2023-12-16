@@ -21,7 +21,7 @@ VALUES (2158096669,   1,      32768) /* ItemType - Caster */
      , (2158096669, 131,         21) /* MaterialType - Emerald */
      , (2158096669, 151,          2) /* HookType - Wall */
      , (2158096669, 171,          7) /* NumTimesTinkered */
-     , (2158096669, 172,          7) /* AppraisalLongDescDecoration */
+     , (2158096669, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2158096669, 177,          3) /* GemCount */
      , (2158096669, 178,         38) /* GemType */
      , (2158096669, 9015,          0) /* InventoryOrder */;

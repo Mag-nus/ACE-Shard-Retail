@@ -24,7 +24,7 @@ VALUES (2248174025,   1,          2) /* ItemType - Armor */
      , (2248174025, 158,          2) /* WieldRequirements - RawSkill */
      , (2248174025, 159,         15) /* WieldSkillType - MagicDefense */
      , (2248174025, 160,        310) /* WieldDifficulty */
-     , (2248174025, 172,          1) /* AppraisalLongDescDecoration */
+     , (2248174025, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (2248174025, 265,         25) /* EquipmentSetId - Interlocking */
      , (2248174025, 270,          7) /* WieldRequirements2 - Level */
      , (2248174025, 271,          1) /* WieldSkillType2 - Axe */

@@ -21,7 +21,7 @@ VALUES (2368871145,   1,          4) /* ItemType - Clothing */
      , (2368871145, 110,          0) /* ItemAllegianceRankLimit */
      , (2368871145, 115,          0) /* ItemSkillLevelLimit */
      , (2368871145, 131,          6) /* MaterialType - Silk */
-     , (2368871145, 172,          3) /* AppraisalLongDescDecoration */;
+     , (2368871145, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (2368871145,   1, False) /* Stuck */

@@ -18,7 +18,7 @@ VALUES (2676333657,   1,          8) /* ItemType - Jewelry */
      , (2676333657, 110,          0) /* ItemAllegianceRankLimit */
      , (2676333657, 115,          0) /* ItemSkillLevelLimit */
      , (2676333657, 131,         59) /* MaterialType - Copper */
-     , (2676333657, 172,          7) /* AppraisalLongDescDecoration */
+     , (2676333657, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2676333657, 177,          6) /* GemCount */
      , (2676333657, 178,         21) /* GemType */
      , (2676333657, 9015,          6) /* InventoryOrder */;

@@ -18,7 +18,7 @@ VALUES (2149234004,   1,          8) /* ItemType - Jewelry */
      , (2149234004, 110,          0) /* ItemAllegianceRankLimit */
      , (2149234004, 115,          0) /* ItemSkillLevelLimit */
      , (2149234004, 131,         16) /* MaterialType - BlackOpal */
-     , (2149234004, 172,          5) /* AppraisalLongDescDecoration */
+     , (2149234004, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2149234004, 177,          3) /* GemCount */
      , (2149234004, 178,         41) /* GemType */
      , (2149234004, 9015,          3) /* InventoryOrder */;

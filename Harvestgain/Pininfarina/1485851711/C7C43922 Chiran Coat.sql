@@ -22,7 +22,7 @@ VALUES (3351525666,   1,          2) /* ItemType - Armor */
      , (3351525666, 115,          0) /* ItemSkillLevelLimit */
      , (3351525666, 131,          6) /* MaterialType - Silk */
      , (3351525666, 171,          9) /* NumTimesTinkered */
-     , (3351525666, 172,          7) /* AppraisalLongDescDecoration */
+     , (3351525666, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3351525666, 177,          1) /* GemCount */
      , (3351525666, 178,         21) /* GemType */;
 

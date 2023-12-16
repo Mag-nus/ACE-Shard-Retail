@@ -28,8 +28,8 @@ VALUES (2368837994,   1,          1) /* ItemType - MeleeWeapon */
      , (2368837994, 158,          2) /* WieldRequirements - RawSkill */
      , (2368837994, 159,         46) /* WieldSkillType - FinesseWeapons */
      , (2368837994, 160,        400) /* WieldDifficulty */
-     , (2368837994, 172,          7) /* AppraisalLongDescDecoration */
-     , (2368837994, 176,         46) /* AppraisalItemSkill */
+     , (2368837994, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (2368837994, 176,         46) /* AppraisalItemSkill - FinesseWeapons */
      , (2368837994, 177,          1) /* GemCount */
      , (2368837994, 178,         33) /* GemType */
      , (2368837994, 188,          2) /* HeritageGroup - Gharundim */

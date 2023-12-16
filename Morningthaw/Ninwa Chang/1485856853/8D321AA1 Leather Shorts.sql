@@ -20,8 +20,8 @@ VALUES (2368871073,   1,          2) /* ItemType - Armor */
      , (2368871073, 110,          0) /* ItemAllegianceRankLimit */
      , (2368871073, 115,        188) /* ItemSkillLevelLimit */
      , (2368871073, 131,         55) /* MaterialType - ReedSharkHide */
-     , (2368871073, 172,          3) /* AppraisalLongDescDecoration */
-     , (2368871073, 176,          7) /* AppraisalItemSkill */
+     , (2368871073, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (2368871073, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (2368871073, 188,          1) /* HeritageGroup - Aluvian */
      , (2368871073, 9015,          3) /* InventoryOrder */;
 

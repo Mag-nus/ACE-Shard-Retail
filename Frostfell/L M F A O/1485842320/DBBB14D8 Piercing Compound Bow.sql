@@ -9,7 +9,7 @@ VALUES (3686470872,   1,        256) /* ItemType - MissileWeapon */
      , (3686470872,  18,       2049) /* UiEffects - Magical, Piercing */
      , (3686470872,  19,       9003) /* Value */
      , (3686470872,  50,          1) /* AmmoType - Arrow */
-     , (3686470872,  51,          2) /* CombatUse - Missle */
+     , (3686470872,  51,          2) /* CombatUse - Missile */
      , (3686470872,  65,        101) /* Placement - Resting */
      , (3686470872,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3686470872, 131,         60) /* MaterialType - Gold */

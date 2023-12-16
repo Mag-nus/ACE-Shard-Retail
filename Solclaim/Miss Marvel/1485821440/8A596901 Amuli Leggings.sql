@@ -22,7 +22,7 @@ VALUES (2321115393,   1,          2) /* ItemType - Armor */
      , (2321115393, 115,          0) /* ItemSkillLevelLimit */
      , (2321115393, 131,         54) /* MaterialType - GromnieHide */
      , (2321115393, 171,         10) /* NumTimesTinkered */
-     , (2321115393, 172,          3) /* AppraisalLongDescDecoration */;
+     , (2321115393, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (2321115393,   1, False) /* Stuck */

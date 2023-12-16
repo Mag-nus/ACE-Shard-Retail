@@ -17,7 +17,7 @@ VALUES (3658160310,   1,          4) /* ItemType - Clothing */
      , (3658160310, 108,        416) /* ItemMaxMana */
      , (3658160310, 109,        158) /* ItemDifficulty */
      , (3658160310, 115,        190) /* ItemSkillLevelLimit */
-     , (3658160310, 176,         33) /* AppraisalItemSkill */
+     , (3658160310, 176,         33) /* AppraisalItemSkill - LifeMagic */
      , (3658160310, 188,          2) /* HeritageGroup - Gharundim */
      , (3658160310, 9015,          4) /* InventoryOrder */;
 

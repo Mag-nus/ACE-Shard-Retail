@@ -14,7 +14,7 @@ VALUES (1343476855,   1,         16) /* ItemType - Creature */
      , (1343476855, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343476855, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343476855, 188,          9) /* HeritageGroup - Empyrean */
-     , (1343476855, 261,          1) /* CharacterTitleId */
+     , (1343476855, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343476855, 307,         20) /* DamageRating */
      , (1343476855, 308,          3) /* DamageResistRating */
      , (1343476855, 313,          1) /* CritRating */
@@ -31,7 +31,7 @@ VALUES (1343476855,   1, True ) /* Stuck */
      , (1343476855,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343476855,  39, 1.14999997615814) /* DefaultScale */;
+VALUES (1343476855,  39, 1.149999976158142) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343476855,   1, 'Archangel Ariel') /* Name */

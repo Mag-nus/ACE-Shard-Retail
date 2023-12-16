@@ -20,7 +20,7 @@ VALUES (2774619322,   1,      32768) /* ItemType - Caster */
      , (2774619322, 115,          0) /* ItemSkillLevelLimit */
      , (2774619322, 131,         17) /* MaterialType - Bloodstone */
      , (2774619322, 151,          2) /* HookType - Wall */
-     , (2774619322, 172,          7) /* AppraisalLongDescDecoration */
+     , (2774619322, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2774619322, 177,          2) /* GemCount */
      , (2774619322, 178,         17) /* GemType */
      , (2774619322, 9015,         62) /* InventoryOrder */;

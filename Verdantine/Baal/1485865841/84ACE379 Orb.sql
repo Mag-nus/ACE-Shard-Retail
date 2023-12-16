@@ -20,7 +20,7 @@ VALUES (2225922937,   1,      32768) /* ItemType - Caster */
      , (2225922937, 115,          0) /* ItemSkillLevelLimit */
      , (2225922937, 131,         68) /* MaterialType - Marble */
      , (2225922937, 151,          2) /* HookType - Wall */
-     , (2225922937, 172,          7) /* AppraisalLongDescDecoration */
+     , (2225922937, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2225922937, 177,          2) /* GemCount */
      , (2225922937, 178,         32) /* GemType */
      , (2225922937, 188,          1) /* HeritageGroup - Aluvian */

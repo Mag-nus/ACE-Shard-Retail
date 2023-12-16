@@ -16,7 +16,7 @@ VALUES (1342809974,   1,         16) /* ItemType - Creature */
      , (1342809974, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342809974, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342809974, 188,          3) /* HeritageGroup - Sho */
-     , (1342809974, 261,        675) /* CharacterTitleId */
+     , (1342809974, 261,        675) /* CharacterTitleId - BridgeJumper */
      , (1342809974, 307,          5) /* DamageRating */
      , (1342809974, 308,          3) /* DamageResistRating */
      , (1342809974, 313,          1) /* CritRating */
@@ -57,10 +57,10 @@ VALUES (1342809974,   1,   33554433) /* Setup */
      , (1342809974, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1342809974, 1, 3111059510, 146.614, 129.6287, 10.005, 0.2463384, 0, 0, -0.9691839) /* Location */
-/* @teleloc 0xB96F0036 [146.614000 129.628700 10.005000] 0.246338 0.000000 0.000000 -0.969184 */
-     , (1342809974, 8040, 151257096, 11.4, 188.6, 87.52167, -0.9963453, 0, 0, -0.08541692) /* PCAPRecordedLocation */
-/* @teleloc 0x09040008 [11.400000 188.600000 87.521670] -0.996345 0.000000 0.000000 -0.085417 */;
+VALUES (1342809974, 1, 3111059510, 146.61398, 129.62868, 10.004999, 0.24633837, 0, 0, -0.96918386) /* Location */
+/* @teleloc 0xB96F0036 [146.613983 129.628677 10.004999] 0.246338 0.000000 0.000000 -0.969184 */
+     , (1342809974, 8040, 151257096, 11.4, 188.6, 87.52167, -0.9963453, 0, -0, -0.08541692) /* PCAPRecordedLocation */
+/* @teleloc 0x09040008 [11.400000 188.600006 87.521667] -0.996345 0.000000 -0.000000 -0.085417 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342809974,  26, 1342205575) /* Monarch */

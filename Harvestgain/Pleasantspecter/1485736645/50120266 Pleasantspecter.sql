@@ -24,7 +24,7 @@ VALUES (1343357542,   1,         16) /* ItemType - Creature */
      , (1343357542, 139,          9) /* DeathLevel */
      , (1343357542, 188,          1) /* HeritageGroup - Aluvian */
      , (1343357542, 192,          0) /* FakeFishingSkill */
-     , (1343357542, 261,         11) /* CharacterTitleId */
+     , (1343357542, 261,         11) /* CharacterTitleId - Soldier */
      , (1343357542, 307,          0) /* DamageRating */
      , (1343357542, 308,          0) /* DamageResistRating */
      , (1343357542, 312,          0) /* HealOverTime */

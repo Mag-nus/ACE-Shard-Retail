@@ -26,7 +26,7 @@ VALUES (1342814022,   1,         16) /* ItemType - Creature */
      , (1342814022, 139,        166) /* DeathLevel */
      , (1342814022, 188,          2) /* HeritageGroup - Gharundim */
      , (1342814022, 199, 1455091535) /* HousePurchaseTimestamp */
-     , (1342814022, 261,        126) /* CharacterTitleId */
+     , (1342814022, 261,        126) /* CharacterTitleId - SilverSerf */
      , (1342814022, 307,          5) /* DamageRating */
      , (1342814022, 308,          0) /* DamageResistRating */
      , (1342814022, 312,          0) /* HealOverTime */

@@ -18,7 +18,7 @@ VALUES (3327046218,   1,          8) /* ItemType - Jewelry */
      , (3327046218, 110,          0) /* ItemAllegianceRankLimit */
      , (3327046218, 115,          0) /* ItemSkillLevelLimit */
      , (3327046218, 131,         26) /* MaterialType - ImperialTopaz */
-     , (3327046218, 172,          7) /* AppraisalLongDescDecoration */
+     , (3327046218, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3327046218, 177,          1) /* GemCount */
      , (3327046218, 178,         16) /* GemType */
      , (3327046218, 9015,          5) /* InventoryOrder */;

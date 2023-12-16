@@ -18,7 +18,7 @@ VALUES (1343027856,   1,         16) /* ItemType - Creature */
      , (1343027856, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343027856, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343027856, 188,          9) /* HeritageGroup - Empyrean */
-     , (1343027856, 261,         13) /* CharacterTitleId */
+     , (1343027856, 261,         13) /* CharacterTitleId - WarMage */
      , (1343027856, 296,          1) /* AugmentationInfusedLifeMagic */
      , (1343027856, 307,          5) /* DamageRating */
      , (1343027856, 308,          0) /* DamageResistRating */

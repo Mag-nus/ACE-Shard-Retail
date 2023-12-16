@@ -15,7 +15,7 @@ VALUES (1343103234,   1,         16) /* ItemType - Creature */
      , (1343103234, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343103234, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343103234, 188,          4) /* HeritageGroup - Viamontian */
-     , (1343103234, 261,        444) /* CharacterTitleId */
+     , (1343103234, 261,        444) /* CharacterTitleId - UlgrimsDrinkingBuddy */
      , (1343103234, 262,         37) /* NumCharacterTitles */
      , (1343103234, 307,          5) /* DamageRating */
      , (1343103234, 390,          0) /* Enlightenment */
@@ -55,9 +55,9 @@ VALUES (1343103234,   1,   33554433) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343103234, 1, 3081633828, 96.3416, 78.1671, 110, 0.999889, 0, 0, -0.0148858) /* Location */
-/* @teleloc 0xB7AE0024 [96.341600 78.167100 110.000000] 0.999889 0.000000 0.000000 -0.014886 */
-     , (1343103234, 8040, 19202318, 31.57341, -29.48554, 0.2098021, 0.999653, 0, 0, -0.02634102) /* PCAPRecordedLocation */
-/* @teleloc 0x0125010E [31.573410 -29.485540 0.209802] 0.999653 0.000000 0.000000 -0.026341 */;
+/* @teleloc 0xB7AE0024 [96.341599 78.167099 110.000000] 0.999889 0.000000 0.000000 -0.014886 */
+     , (1343103234, 8040, 19202318, 31.573406, -29.485544, 0.20980206, 0.99965304, 0, 0, -0.026341023) /* PCAPRecordedLocation */
+/* @teleloc 0x0125010E [31.573406 -29.485544 0.209802] 0.999653 0.000000 0.000000 -0.026341 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343103234,  26, 1343164535) /* Monarch */

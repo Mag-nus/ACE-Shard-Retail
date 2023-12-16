@@ -12,7 +12,7 @@ VALUES (2153691883,   1,          8) /* ItemType - Jewelry */
      , (2153691883,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2153691883, 105,          7) /* ItemWorkmanship */
      , (2153691883, 131,         62) /* MaterialType - Pyreal */
-     , (2153691883, 172,          7) /* AppraisalLongDescDecoration */
+     , (2153691883, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2153691883, 177,          8) /* GemCount */
      , (2153691883, 178,         21) /* GemType */;
 

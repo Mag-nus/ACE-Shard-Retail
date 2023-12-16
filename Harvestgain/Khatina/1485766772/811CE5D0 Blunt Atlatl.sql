@@ -9,7 +9,7 @@ VALUES (2166154704,   1,        256) /* ItemType - MissileWeapon */
      , (2166154704,  18,        513) /* UiEffects - Magical, Bludgeoning */
      , (2166154704,  19,      18153) /* Value */
      , (2166154704,  50,          4) /* AmmoType - Atlatl */
-     , (2166154704,  51,          2) /* CombatUse - Missle */
+     , (2166154704,  51,          2) /* CombatUse - Missile */
      , (2166154704,  65,        101) /* Placement - Resting */
      , (2166154704,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2166154704, 131,         77) /* MaterialType - Teak */

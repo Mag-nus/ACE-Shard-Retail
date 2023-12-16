@@ -19,7 +19,7 @@ VALUES (1343255127,   1, True ) /* Stuck */
      , (1343255127,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343255127,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1343255127,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343255127,   1, 'Cheese Curds Mule') /* Name */;
@@ -36,10 +36,10 @@ VALUES (1343255127,   1,   33561106) /* Setup */
      , (1343255127, 8005,     104643) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343255127, 1, 2847146315, 132.1115, 10.83311, 97.006, 0.2057564, 0, 0, -0.9786032) /* Location */
-/* @teleloc 0xA9B4014B [132.111500 10.833110 97.006000] 0.205756 0.000000 0.000000 -0.978603 */
-     , (1343255127, 8040, 2847146025, 138.2103, 22.85998, 94.006, 0.572309, 0, 0, -0.8200381) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B40029 [138.210300 22.859980 94.006000] 0.572309 0.000000 0.000000 -0.820038 */;
+VALUES (1343255127, 1, 2847146315, 132.11147, 10.833114, 97.006004, 0.20575643, 0, 0, -0.97860324) /* Location */
+/* @teleloc 0xA9B4014B [132.111465 10.833114 97.006004] 0.205756 0.000000 0.000000 -0.978603 */
+     , (1343255127, 8040, 2847146025, 138.21031, 22.859976, 94.006004, 0.572309, 0, 0, -0.8200381) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B40029 [138.210312 22.859976 94.006004] 0.572309 0.000000 0.000000 -0.820038 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343255127, 8000, 1343255127) /* PCAPRecordedObjectIID */;

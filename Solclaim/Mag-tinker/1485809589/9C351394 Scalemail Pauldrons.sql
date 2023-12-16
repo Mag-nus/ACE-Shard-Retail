@@ -24,8 +24,8 @@ VALUES (2620724116,   1,          2) /* ItemType - Armor */
      , (2620724116, 158,          7) /* WieldRequirements - Level */
      , (2620724116, 159,          1) /* WieldSkillType - Axe */
      , (2620724116, 160,        180) /* WieldDifficulty */
-     , (2620724116, 172,          3) /* AppraisalLongDescDecoration */
-     , (2620724116, 176,          6) /* AppraisalItemSkill */
+     , (2620724116, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (2620724116, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (2620724116, 188,          2) /* HeritageGroup - Gharundim */
      , (2620724116, 265,         21) /* EquipmentSetId - Wise */;
 

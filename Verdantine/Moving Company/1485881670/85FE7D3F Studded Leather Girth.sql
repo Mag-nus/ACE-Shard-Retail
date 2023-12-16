@@ -23,7 +23,7 @@ VALUES (2248047935,   1,          2) /* ItemType - Armor */
      , (2248047935, 158,          7) /* WieldRequirements - Level */
      , (2248047935, 159,          1) /* WieldSkillType - Axe */
      , (2248047935, 160,        180) /* WieldDifficulty */
-     , (2248047935, 172,          1) /* AppraisalLongDescDecoration */
+     , (2248047935, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (2248047935, 265,         18) /* EquipmentSetId - Crafters */
      , (2248047935, 9015,         14) /* InventoryOrder */;
 

@@ -36,8 +36,8 @@ VALUES (1343803904,   1,         16) /* ItemType - Creature */
      , (1343803904, 238,          5) /* AugmentationIncreasedSpellDuration */
      , (1343803904, 241,          1) /* AugmentationResistancePierce */
      , (1343803904, 244,          1) /* AugmentationResistanceFire */
-     , (1343803904, 261,        770) /* CharacterTitleId */
-     , (1343803904, 281,          2) /* Faction1Bits */
+     , (1343803904, 261,        770) /* CharacterTitleId - SupremeSoldier */
+     , (1343803904, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1343803904, 288,       1001) /* SocietyRankEldweb */
      , (1343803904, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1343803904, 295,          1) /* AugmentationInfusedItemMagic */

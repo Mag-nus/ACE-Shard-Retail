@@ -14,8 +14,8 @@ VALUES (1343235635,   1,         16) /* ItemType - Creature */
      , (1343235635, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343235635, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343235635, 188,          2) /* HeritageGroup - Gharundim */
-     , (1343235635, 261,        435) /* CharacterTitleId */
-     , (1343235635, 281,          1) /* Faction1Bits */
+     , (1343235635, 261,        435) /* CharacterTitleId - TuskerBlight */
+     , (1343235635, 281,          1) /* Faction1Bits - CelestialHand */
      , (1343235635, 287,          1) /* SocietyRankCelhan */
      , (1343235635, 307,          8) /* DamageRating */
      , (1343235635, 308,         13) /* DamageResistRating */
@@ -59,9 +59,9 @@ VALUES (1343235635,   1,   33554433) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343235635, 1, 459072, 69.93631, -34.82133, 0.004999995, -0.9990325, 0, 0, -0.04397743) /* Location */
-/* @teleloc 0x00070140 [69.936310 -34.821330 0.005000] -0.999033 0.000000 0.000000 -0.043977 */
-     , (1343235635, 8040, 595656962, 110.1845, 106.0041, 220.005, -0.255962, 0, 0, -0.9666868) /* PCAPRecordedLocation */
-/* @teleloc 0x23810102 [110.184500 106.004100 220.005000] -0.255962 0.000000 0.000000 -0.966687 */;
+/* @teleloc 0x00070140 [69.936310 -34.821331 0.005000] -0.999032 0.000000 0.000000 -0.043977 */
+     , (1343235635, 8040, 595656962, 110.18447, 106.00412, 220.00499, -0.25596198, 0, -0, -0.96668684) /* PCAPRecordedLocation */
+/* @teleloc 0x23810102 [110.184471 106.004120 220.004990] -0.255962 0.000000 -0.000000 -0.966687 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343235635,  26, 1343236234) /* Monarch */

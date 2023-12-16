@@ -16,8 +16,8 @@ VALUES (1342737139,   1,         16) /* ItemType - Creature */
      , (1342737139, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342737139, 181,       1621) /* ChessRank */
      , (1342737139, 188,          2) /* HeritageGroup - Gharundim */
-     , (1342737139, 261,         91) /* CharacterTitleId */
-     , (1342737139, 281,          2) /* Faction1Bits */
+     , (1342737139, 261,         91) /* CharacterTitleId - MasterofStaves */
+     , (1342737139, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1342737139, 288,          1) /* SocietyRankEldweb */
      , (1342737139, 307,         34) /* DamageRating */
      , (1342737139, 308,         29) /* DamageResistRating */
@@ -63,10 +63,10 @@ VALUES (1342737139,   1,   33554433) /* Setup */
      , (1342737139, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1342737139, 1, 19202321, 35.55537, -20.68612, 0.004999995, -0.4063316, 0, 0, -0.9137257) /* Location */
-/* @teleloc 0x01250111 [35.555370 -20.686120 0.005000] -0.406332 0.000000 0.000000 -0.913726 */
-     , (1342737139, 8040, 19202342, 30, -60, 6.005, 1, 0, 0, 0) /* PCAPRecordedLocation */
-/* @teleloc 0x01250126 [30.000000 -60.000000 6.005000] 1.000000 0.000000 0.000000 0.000000 */;
+VALUES (1342737139, 1, 19202321, 35.55537, -20.686125, 0.004999995, -0.40633163, 0, 0, -0.9137257) /* Location */
+/* @teleloc 0x01250111 [35.555370 -20.686125 0.005000] -0.406332 0.000000 0.000000 -0.913726 */
+     , (1342737139, 8040, 19202342, 30, -60, 6.005, 1, 0, 0, -0) /* PCAPRecordedLocation */
+/* @teleloc 0x01250126 [30.000000 -60.000000 6.005000] 1.000000 0.000000 0.000000 -0.000000 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342737139,  26, 1343164535) /* Monarch */

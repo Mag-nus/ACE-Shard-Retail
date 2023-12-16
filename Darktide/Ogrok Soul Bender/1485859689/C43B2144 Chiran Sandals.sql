@@ -23,7 +23,7 @@ VALUES (3292209476,   1,          2) /* ItemType - Armor */
      , (3292209476, 158,          7) /* WieldRequirements - Level */
      , (3292209476, 159,          1) /* WieldSkillType - Axe */
      , (3292209476, 160,        180) /* WieldDifficulty */
-     , (3292209476, 172,          1) /* AppraisalLongDescDecoration */
+     , (3292209476, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (3292209476, 265,         29) /* EquipmentSetId - Lightningproof */
      , (3292209476, 375,          1) /* GearCritDamageResist */
      , (3292209476, 9015,         34) /* InventoryOrder */;

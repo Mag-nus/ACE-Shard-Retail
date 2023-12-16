@@ -26,7 +26,7 @@ VALUES (1342911958,   1,         16) /* ItemType - Creature */
      , (1342911958, 188,          2) /* HeritageGroup - Gharundim */
      , (1342911958, 199, 1103271546) /* HousePurchaseTimestamp */
      , (1342911958, 238,          1) /* AugmentationIncreasedSpellDuration */
-     , (1342911958, 261,        502) /* CharacterTitleId */
+     , (1342911958, 261,        502) /* CharacterTitleId - GuardianofCragstone */
      , (1342911958, 307,          0) /* DamageRating */
      , (1342911958, 308,          0) /* DamageResistRating */
      , (1342911958, 312,          0) /* HealOverTime */

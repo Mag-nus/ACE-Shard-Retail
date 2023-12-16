@@ -23,8 +23,8 @@ VALUES (2626649541,   1,          2) /* ItemType - Armor */
      , (2626649541, 158,          7) /* WieldRequirements - Level */
      , (2626649541, 159,          1) /* WieldSkillType - Axe */
      , (2626649541, 160,        180) /* WieldDifficulty */
-     , (2626649541, 172,          5) /* AppraisalLongDescDecoration */
-     , (2626649541, 176,          7) /* AppraisalItemSkill */
+     , (2626649541, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
+     , (2626649541, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (2626649541, 177,          2) /* GemCount */
      , (2626649541, 178,         39) /* GemType */
      , (2626649541, 265,         19) /* EquipmentSetId - Hearty */

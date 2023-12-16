@@ -25,7 +25,7 @@ VALUES (2151384568,   1,          2) /* ItemType - Armor */
      , (2151384568, 158,          7) /* WieldRequirements - Level */
      , (2151384568, 159,          1) /* WieldSkillType - Axe */
      , (2151384568, 160,        180) /* WieldDifficulty */
-     , (2151384568, 172,          5) /* AppraisalLongDescDecoration */
+     , (2151384568, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2151384568, 177,          5) /* GemCount */
      , (2151384568, 178,         38) /* GemType */
      , (2151384568, 265,         16) /* EquipmentSetId - Defenders */;

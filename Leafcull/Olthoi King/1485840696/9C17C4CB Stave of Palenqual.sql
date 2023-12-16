@@ -24,7 +24,7 @@ VALUES (2618803403,   1,      32768) /* ItemType - Caster */
      , (2618803403, 159,          1) /* WieldSkillType - Axe */
      , (2618803403, 160,        180) /* WieldDifficulty */
      , (2618803403, 171,         10) /* NumTimesTinkered */
-     , (2618803403, 172,          5) /* AppraisalLongDescDecoration */
+     , (2618803403, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2618803403, 177,          4) /* GemCount */
      , (2618803403, 178,         39) /* GemType */
      , (2618803403, 9015,          7) /* InventoryOrder */;

@@ -25,7 +25,7 @@ VALUES (2868903477,   1,          2) /* ItemType - Armor */
      , (2868903477, 159,          1) /* WieldSkillType - Axe */
      , (2868903477, 160,        150) /* WieldDifficulty */
      , (2868903477, 171,         10) /* NumTimesTinkered */
-     , (2868903477, 172,          3) /* AppraisalLongDescDecoration */
+     , (2868903477, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2868903477, 188,          2) /* HeritageGroup - Gharundim */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

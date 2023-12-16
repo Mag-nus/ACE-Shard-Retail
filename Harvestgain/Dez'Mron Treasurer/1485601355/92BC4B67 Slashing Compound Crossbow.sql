@@ -13,7 +13,7 @@ VALUES (2461813607,   1,        256) /* ItemType - MissileWeapon */
      , (2461813607,  48,         47) /* WeaponSkill - MissileWeapons */
      , (2461813607,  49,        108) /* WeaponTime */
      , (2461813607,  50,          2) /* AmmoType - Bolt */
-     , (2461813607,  51,          2) /* CombatUse - Missle */
+     , (2461813607,  51,          2) /* CombatUse - Missile */
      , (2461813607,  65,        101) /* Placement - Resting */
      , (2461813607,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2461813607, 105,          7) /* ItemWorkmanship */
@@ -28,8 +28,8 @@ VALUES (2461813607,   1,        256) /* ItemType - MissileWeapon */
      , (2461813607, 158,          2) /* WieldRequirements - RawSkill */
      , (2461813607, 159,         47) /* WieldSkillType - MissileWeapons */
      , (2461813607, 160,        375) /* WieldDifficulty */
-     , (2461813607, 172,          5) /* AppraisalLongDescDecoration */
-     , (2461813607, 176,         47) /* AppraisalItemSkill */
+     , (2461813607, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
+     , (2461813607, 176,         47) /* AppraisalItemSkill - MissileWeapons */
      , (2461813607, 177,          1) /* GemCount */
      , (2461813607, 178,         39) /* GemType */
      , (2461813607, 204,         18) /* ElementalDamageBonus */

@@ -16,9 +16,9 @@ VALUES (1343248021,   1,         16) /* ItemType - Creature */
      , (1343248021, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343248021, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343248021, 188,          1) /* HeritageGroup - Aluvian */
-     , (1343248021, 261,        568) /* CharacterTitleId */
+     , (1343248021, 261,        568) /* CharacterTitleId - ShadowSunderer */
      , (1343248021, 262,         40) /* NumCharacterTitles */
-     , (1343248021, 281,          2) /* Faction1Bits */
+     , (1343248021, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1343248021, 288,        155) /* SocietyRankEldweb */
      , (1343248021, 307,          5) /* DamageRating */
      , (1343248021, 308,         11) /* DamageResistRating */
@@ -58,10 +58,10 @@ VALUES (1343248021,   1,   33554510) /* Setup */
      , (1343248021, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343248021, 1, 2863792174, 127, 127, 109.4217, 1, 0, 0, 0) /* Location */
-/* @teleloc 0xAAB2002E [127.000000 127.000000 109.421700] 1.000000 0.000000 0.000000 0.000000 */
-     , (1343248021, 8040, 2863792174, 127, 127, 109.4217, 1, 0, 0, 0) /* PCAPRecordedLocation */
-/* @teleloc 0xAAB2002E [127.000000 127.000000 109.421700] 1.000000 0.000000 0.000000 0.000000 */;
+VALUES (1343248021, 1, 2863792174, 127, 127, 109.42167, 1, 0, 0, 0) /* Location */
+/* @teleloc 0xAAB2002E [127.000000 127.000000 109.421669] 1.000000 0.000000 0.000000 0.000000 */
+     , (1343248021, 8040, 2863792174, 127, 127, 109.42167, 1, 0, 0, 0) /* PCAPRecordedLocation */
+/* @teleloc 0xAAB2002E [127.000000 127.000000 109.421669] 1.000000 0.000000 0.000000 0.000000 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343248021,  26, 1342795060) /* Monarch */

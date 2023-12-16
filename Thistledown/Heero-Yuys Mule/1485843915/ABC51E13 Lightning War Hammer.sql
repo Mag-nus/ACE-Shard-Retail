@@ -25,7 +25,7 @@ VALUES (2881822227,   1,          1) /* ItemType - MeleeWeapon */
      , (2881822227, 115,        289) /* ItemSkillLevelLimit */
      , (2881822227, 131,         77) /* MaterialType - Teak */
      , (2881822227, 151,          2) /* HookType - Wall */
-     , (2881822227, 176,         45) /* AppraisalItemSkill */
+     , (2881822227, 176,         45) /* AppraisalItemSkill - LightWeapons */
      , (2881822227, 188,          3) /* HeritageGroup - Sho */
      , (2881822227, 353,          3) /* WeaponType - Axe */
      , (2881822227, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */

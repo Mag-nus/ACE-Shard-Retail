@@ -20,7 +20,7 @@ VALUES (2924631760,   1,          1) /* ItemType - MeleeWeapon */
      , (2924631760, 105,          2) /* ItemWorkmanship */
      , (2924631760, 131,         59) /* MaterialType - Copper */
      , (2924631760, 151,          2) /* HookType - Wall */
-     , (2924631760, 172,          1) /* AppraisalLongDescDecoration */
+     , (2924631760, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (2924631760, 353,          1) /* WeaponType - Unarmed */
      , (2924631760, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */;
 

@@ -18,7 +18,7 @@ VALUES (2457886411,   1,          8) /* ItemType - Jewelry */
      , (2457886411, 110,          0) /* ItemAllegianceRankLimit */
      , (2457886411, 115,          0) /* ItemSkillLevelLimit */
      , (2457886411, 131,         49) /* MaterialType - YellowTopaz */
-     , (2457886411, 172,          7) /* AppraisalLongDescDecoration */
+     , (2457886411, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2457886411, 177,          2) /* GemCount */
      , (2457886411, 178,         21) /* GemType */
      , (2457886411, 9015,          5) /* InventoryOrder */;

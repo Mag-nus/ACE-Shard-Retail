@@ -27,8 +27,8 @@ VALUES (1343401883,   1,         16) /* ItemType - Creature */
      , (1343401883, 231,          2) /* AugmentationLessDeathItemLoss */
      , (1343401883, 232,          1) /* AugmentationSpellsRemainPastDeath */
      , (1343401883, 233,          1) /* AugmentationCriticalDefense */
-     , (1343401883, 261,         90) /* CharacterTitleId */
-     , (1343401883, 281,          4) /* Faction1Bits */
+     , (1343401883, 261,         90) /* CharacterTitleId - MasterofSlaughter */
+     , (1343401883, 281,          4) /* Faction1Bits - RadiantBlood */
      , (1343401883, 289,         95) /* SocietyRankRadblo */
      , (1343401883, 299,          1) /* AugmentationCriticalPower */
      , (1343401883, 300,          1) /* AugmentationSkilledMelee */

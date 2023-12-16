@@ -21,7 +21,7 @@ VALUES (2149225947,   1,      32768) /* ItemType - Caster */
      , (2149225947, 131,         39) /* MaterialType - Sapphire */
      , (2149225947, 151,          2) /* HookType - Wall */
      , (2149225947, 171,          4) /* NumTimesTinkered */
-     , (2149225947, 172,          7) /* AppraisalLongDescDecoration */
+     , (2149225947, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2149225947, 177,          8) /* GemCount */
      , (2149225947, 178,         21) /* GemType */
      , (2149225947, 188,          1) /* HeritageGroup - Aluvian */

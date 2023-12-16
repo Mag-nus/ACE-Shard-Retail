@@ -21,7 +21,7 @@ VALUES (3626408542,   1,          1) /* ItemType - MeleeWeapon */
      , (3626408542, 158,          2) /* WieldRequirements - RawSkill */
      , (3626408542, 159,         45) /* WieldSkillType - LightWeapons */
      , (3626408542, 160,        300) /* WieldDifficulty */
-     , (3626408542, 172,          1) /* AppraisalLongDescDecoration */
+     , (3626408542, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (3626408542, 353,          1) /* WeaponType - Unarmed */
      , (3626408542, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (3626408542, 9015,         11) /* InventoryOrder */;

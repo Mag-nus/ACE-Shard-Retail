@@ -19,7 +19,7 @@ VALUES (2166217028,   1,          8) /* ItemType - Jewelry */
      , (2166217028, 115,          0) /* ItemSkillLevelLimit */
      , (2166217028, 131,         38) /* MaterialType - Ruby */
      , (2166217028, 171,          1) /* NumTimesTinkered */
-     , (2166217028, 172,          7) /* AppraisalLongDescDecoration */
+     , (2166217028, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2166217028, 177,          1) /* GemCount */
      , (2166217028, 178,         39) /* GemType */
      , (2166217028, 188,          1) /* HeritageGroup - Aluvian */

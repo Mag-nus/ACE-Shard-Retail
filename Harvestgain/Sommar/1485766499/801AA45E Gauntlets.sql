@@ -21,7 +21,7 @@ VALUES (2149229662,   1,          2) /* ItemType - Armor */
      , (2149229662, 115,          0) /* ItemSkillLevelLimit */
      , (2149229662, 131,         52) /* MaterialType - Leather */
      , (2149229662, 171,          7) /* NumTimesTinkered */
-     , (2149229662, 172,          5) /* AppraisalLongDescDecoration */
+     , (2149229662, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2149229662, 177,          2) /* GemCount */
      , (2149229662, 178,         21) /* GemType */
      , (2149229662, 188,          3) /* HeritageGroup - Sho */

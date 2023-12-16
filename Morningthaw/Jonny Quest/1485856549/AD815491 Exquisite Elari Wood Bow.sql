@@ -13,7 +13,7 @@ VALUES (2910934161,   1,        256) /* ItemType - MissileWeapon */
      , (2910934161,  48,         47) /* WeaponSkill - MissileWeapons */
      , (2910934161,  49,         40) /* WeaponTime */
      , (2910934161,  50,          1) /* AmmoType - Arrow */
-     , (2910934161,  51,          2) /* CombatUse - Missle */
+     , (2910934161,  51,          2) /* CombatUse - Missile */
      , (2910934161,  65,        101) /* Placement - Resting */
      , (2910934161,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2910934161, 106,        225) /* ItemSpellcraft */
@@ -53,7 +53,7 @@ VALUES (2910934161,   1,   33557228) /* Setup */
      , (2910934161,   3,  536870932) /* SoundTable */
      , (2910934161,   8,  100671861) /* Icon */
      , (2910934161,  22,  872415275) /* PhysicsEffectTable */
-     , (2910934161,  41,         47) /* ItemSpecializedOnly */
+     , (2910934161,  41,         47) /* ItemSpecializedOnly - MissileWeapons */
      , (2910934161, 8001,  270615448) /* PCAPRecordedWeenieHeader - Value, Usable, UiEffects, AmmoType, CombatUse, Container, ValidLocations, Burden, HookType */
      , (2910934161, 8003,         18) /* PCAPRecordedObjectDesc - Inscribable, Attackable */
      , (2910934161, 8005,     137345) /* PCAPRecordedPhysicsDesc - CSetup, ObjScale, STable, PeTable, AnimationFrame */;

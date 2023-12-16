@@ -37,8 +37,8 @@ VALUES (1343177209,   1,         16) /* ItemType - Creature */
      , (1343177209, 238,          5) /* AugmentationIncreasedSpellDuration */
      , (1343177209, 244,          1) /* AugmentationResistanceFire */
      , (1343177209, 246,          1) /* AugmentationResistanceLightning */
-     , (1343177209, 261,        878) /* CharacterTitleId */
-     , (1343177209, 281,          4) /* Faction1Bits */
+     , (1343177209, 261,        878) /* CharacterTitleId - GauntletChampion */
+     , (1343177209, 281,          4) /* Faction1Bits - RadiantBlood */
      , (1343177209, 289,         60) /* SocietyRankRadblo */
      , (1343177209, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1343177209, 295,          1) /* AugmentationInfusedItemMagic */

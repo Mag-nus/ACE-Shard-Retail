@@ -19,8 +19,8 @@ VALUES (2181543925,   1,          4) /* ItemType - Clothing */
      , (2181543925, 158,          7) /* WieldRequirements - Level */
      , (2181543925, 159,          1) /* WieldSkillType - Axe */
      , (2181543925, 160,         90) /* WieldDifficulty */
-     , (2181543925, 172,          3) /* AppraisalLongDescDecoration */
-     , (2181543925, 265,         76) /* EquipmentSetId - CloakSword */
+     , (2181543925, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (2181543925, 265,         76) /* EquipmentSetId - CloakHeavyWeapons */
      , (2181543925, 276,          9) /* WieldRequirements4 - IntStat */
      , (2181543925, 277,        287) /* WieldSkillType4 */
      , (2181543925, 278,          1) /* WieldDifficulty4 */

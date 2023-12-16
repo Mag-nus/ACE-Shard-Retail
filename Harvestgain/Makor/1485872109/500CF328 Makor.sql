@@ -34,7 +34,7 @@ VALUES (1343025960,   1,         16) /* ItemType - Creature */
      , (1343025960, 238,          5) /* AugmentationIncreasedSpellDuration */
      , (1343025960, 243,          1) /* AugmentationResistanceAcid */
      , (1343025960, 246,          1) /* AugmentationResistanceLightning */
-     , (1343025960, 261,         69) /* CharacterTitleId */
+     , (1343025960, 261,         69) /* CharacterTitleId - HeroofSilyun */
      , (1343025960, 296,          1) /* AugmentationInfusedLifeMagic */
      , (1343025960, 301,          1) /* AugmentationSkilledMissile */
      , (1343025960, 307,          5) /* DamageRating */

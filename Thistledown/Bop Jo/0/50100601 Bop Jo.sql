@@ -14,7 +14,7 @@ VALUES (1343227393,   1,         16) /* ItemType - Creature */
      , (1343227393, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343227393, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343227393, 188,          7) /* HeritageGroup - Tumerok */
-     , (1343227393, 261,         74) /* CharacterTitleId */
+     , (1343227393, 261,         74) /* CharacterTitleId - InsatiableSlayer */
      , (1343227393, 307,         15) /* DamageRating */
      , (1343227393, 308,          5) /* DamageResistRating */
      , (1343227393, 313,          1) /* CritRating */
@@ -57,10 +57,10 @@ VALUES (1343227393,   1,   33561108) /* Setup */
      , (1343227393, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343227393, 1, 1925775389, 94.84618, 96.81327, 79.84108, 0.9727876, 0, 0, -0.2316985) /* Location */
-/* @teleloc 0x72C9001D [94.846180 96.813270 79.841080] 0.972788 0.000000 0.000000 -0.231699 */
-     , (1343227393, 8040, 1925775389, 94.84618, 96.81327, 79.84108, -0.932517, 0, 0, -0.3611262) /* PCAPRecordedLocation */
-/* @teleloc 0x72C9001D [94.846180 96.813270 79.841080] -0.932517 0.000000 0.000000 -0.361126 */;
+VALUES (1343227393, 1, 1925775389, 94.84618, 96.81327, 79.84108, 0.9727876, 0, 0, -0.23169853) /* Location */
+/* @teleloc 0x72C9001D [94.846184 96.813271 79.841080] 0.972788 0.000000 0.000000 -0.231699 */
+     , (1343227393, 8040, 1925775389, 94.84618, 96.81327, 79.84108, -0.932517, 0, -0, -0.36112615) /* PCAPRecordedLocation */
+/* @teleloc 0x72C9001D [94.846184 96.813271 79.841080] -0.932517 0.000000 -0.000000 -0.361126 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343227393,  26, 1342331005) /* Monarch */

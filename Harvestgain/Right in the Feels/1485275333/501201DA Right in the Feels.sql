@@ -22,7 +22,7 @@ VALUES (1343357402,   1,         16) /* ItemType - Creature */
      , (1343357402, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343357402, 188,         11) /* HeritageGroup - Undead */
      , (1343357402, 233,          1) /* AugmentationCriticalDefense */
-     , (1343357402, 261,          1) /* CharacterTitleId */
+     , (1343357402, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343357402, 307,          5) /* DamageRating */
      , (1343357402, 308,          0) /* DamageResistRating */
      , (1343357402, 312,          0) /* HealOverTime */

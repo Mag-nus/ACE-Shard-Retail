@@ -33,7 +33,7 @@ VALUES (1343235265,   1,         16) /* ItemType - Creature */
      , (1343235265, 232,          1) /* AugmentationSpellsRemainPastDeath */
      , (1343235265, 235,          4) /* AugmentationBonusSalvage */
      , (1343235265, 238,          5) /* AugmentationIncreasedSpellDuration */
-     , (1343235265, 261,        646) /* CharacterTitleId */
+     , (1343235265, 261,        646) /* CharacterTitleId - DerethsElite */
      , (1343235265, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1343235265, 295,          1) /* AugmentationInfusedItemMagic */
      , (1343235265, 296,          1) /* AugmentationInfusedLifeMagic */

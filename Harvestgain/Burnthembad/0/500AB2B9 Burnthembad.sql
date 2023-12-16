@@ -17,9 +17,9 @@ VALUES (1342878393,   1,         16) /* ItemType - Creature */
      , (1342878393, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342878393, 188,          3) /* HeritageGroup - Sho */
      , (1342878393, 192,         28) /* FakeFishingSkill */
-     , (1342878393, 261,        686) /* CharacterTitleId */
+     , (1342878393, 261,        686) /* CharacterTitleId - NoCageCouldHoldMe */
      , (1342878393, 262,        105) /* NumCharacterTitles */
-     , (1342878393, 281,          2) /* Faction1Bits */
+     , (1342878393, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1342878393, 288,       1001) /* SocietyRankEldweb */
      , (1342878393, 307,          5) /* DamageRating */
      , (1342878393, 308,          7) /* DamageResistRating */
@@ -59,10 +59,10 @@ VALUES (1342878393,   1,   33554433) /* Setup */
      , (1342878393, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1342878393, 1, 3332964372, 69.96571, 86.44388, 42.005, 0.8716725, 0, 0, -0.4900888) /* Location */
-/* @teleloc 0xC6A90014 [69.965710 86.443880 42.005000] 0.871673 0.000000 0.000000 -0.490089 */
-     , (1342878393, 8040, 3316187156, 50.03291, 85.91149, 51.66618, 0.6259096, 0, 0, -0.7798956) /* PCAPRecordedLocation */
-/* @teleloc 0xC5A90014 [50.032910 85.911490 51.666180] 0.625910 0.000000 0.000000 -0.779896 */;
+VALUES (1342878393, 1, 3332964372, 69.96571, 86.44388, 42.005, 0.8716725, 0, 0, -0.49008876) /* Location */
+/* @teleloc 0xC6A90014 [69.965714 86.443878 42.005001] 0.871673 0.000000 0.000000 -0.490089 */
+     , (1342878393, 8040, 3316187156, 50.03291, 85.91149, 51.666183, 0.6259096, 0, 0, -0.7798956) /* PCAPRecordedLocation */
+/* @teleloc 0xC5A90014 [50.032909 85.911491 51.666183] 0.625910 0.000000 0.000000 -0.779896 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342878393,  26, 1342386738) /* Monarch */

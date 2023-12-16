@@ -24,7 +24,7 @@ VALUES (2856222973,   1,          1) /* ItemType - MeleeWeapon */
      , (2856222973, 114,          1) /* Attuned - Attuned */
      , (2856222973, 115,        280) /* ItemSkillLevelLimit */
      , (2856222973, 151,          2) /* HookType - Wall */
-     , (2856222973, 176,         44) /* AppraisalItemSkill */
+     , (2856222973, 176,         44) /* AppraisalItemSkill - HeavyWeapons */
      , (2856222973, 353,          2) /* WeaponType - Sword */
      , (2856222973, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (2856222973, 9015,         56) /* InventoryOrder */;

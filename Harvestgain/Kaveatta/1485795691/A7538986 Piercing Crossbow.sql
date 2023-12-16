@@ -13,7 +13,7 @@ VALUES (2807269766,   1,        256) /* ItemType - MissileWeapon */
      , (2807269766,  48,         47) /* WeaponSkill - MissileWeapons */
      , (2807269766,  49,         96) /* WeaponTime */
      , (2807269766,  50,          2) /* AmmoType - Bolt */
-     , (2807269766,  51,          2) /* CombatUse - Missle */
+     , (2807269766,  51,          2) /* CombatUse - Missile */
      , (2807269766,  65,        101) /* Placement - Resting */
      , (2807269766,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2807269766, 105,          5) /* ItemWorkmanship */
@@ -30,8 +30,8 @@ VALUES (2807269766,   1,        256) /* ItemType - MissileWeapon */
      , (2807269766, 160,        385) /* WieldDifficulty */
      , (2807269766, 166,         89) /* SlayerCreatureType - Mukkir */
      , (2807269766, 171,         10) /* NumTimesTinkered */
-     , (2807269766, 172,          5) /* AppraisalLongDescDecoration */
-     , (2807269766, 176,         47) /* AppraisalItemSkill */
+     , (2807269766, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
+     , (2807269766, 176,         47) /* AppraisalItemSkill - MissileWeapons */
      , (2807269766, 177,          4) /* GemCount */
      , (2807269766, 178,         13) /* GemType */
      , (2807269766, 179,         16) /* ImbuedEffect - PierceRending */

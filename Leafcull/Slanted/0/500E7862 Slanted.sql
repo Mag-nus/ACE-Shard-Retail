@@ -14,7 +14,7 @@ VALUES (1343125602,   1,         16) /* ItemType - Creature */
      , (1343125602, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343125602, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343125602, 188,          3) /* HeritageGroup - Sho */
-     , (1343125602, 261,        517) /* CharacterTitleId */
+     , (1343125602, 261,        517) /* CharacterTitleId - ParadoxtouchedQueenslayer */
      , (1343125602, 390,          0) /* Enlightenment */
      , (1343125602, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
@@ -51,9 +51,9 @@ VALUES (1343125602,   1,   33554433) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343125602, 1, 3299409966, 127, 127, 57.42167, 1, 0, 0, 0) /* Location */
-/* @teleloc 0xC4A9002E [127.000000 127.000000 57.421670] 1.000000 0.000000 0.000000 0.000000 */
-     , (1343125602, 8040, 3332964363, 42.92432, 71.27374, 42.005, 0.6731272, 0, 0, -0.7395267) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9000B [42.924320 71.273740 42.005000] 0.673127 0.000000 0.000000 -0.739527 */;
+/* @teleloc 0xC4A9002E [127.000000 127.000000 57.421669] 1.000000 0.000000 0.000000 0.000000 */
+     , (1343125602, 8040, 3332964363, 42.92432, 71.27374, 42.005, 0.6731272, 0, 0, -0.73952675) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A9000B [42.924320 71.273743 42.005001] 0.673127 0.000000 0.000000 -0.739527 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343125602,  26, 1343204290) /* Monarch */

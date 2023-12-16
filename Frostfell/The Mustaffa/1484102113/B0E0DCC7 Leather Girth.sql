@@ -20,8 +20,8 @@ VALUES (2967526599,   1,          2) /* ItemType - Armor */
      , (2967526599, 110,          0) /* ItemAllegianceRankLimit */
      , (2967526599, 115,        204) /* ItemSkillLevelLimit */
      , (2967526599, 131,         54) /* MaterialType - GromnieHide */
-     , (2967526599, 172,          3) /* AppraisalLongDescDecoration */
-     , (2967526599, 176,          7) /* AppraisalItemSkill */
+     , (2967526599, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (2967526599, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (2967526599, 188,          3) /* HeritageGroup - Sho */
      , (2967526599, 9015,          8) /* InventoryOrder */;
 

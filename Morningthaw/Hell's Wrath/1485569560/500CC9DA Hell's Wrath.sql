@@ -41,8 +41,8 @@ VALUES (1343015386,   1,         16) /* ItemType - Creature */
      , (1343015386, 238,          5) /* AugmentationIncreasedSpellDuration */
      , (1343015386, 244,          1) /* AugmentationResistanceFire */
      , (1343015386, 246,          1) /* AugmentationResistanceLightning */
-     , (1343015386, 261,        525) /* CharacterTitleId */
-     , (1343015386, 281,          4) /* Faction1Bits */
+     , (1343015386, 261,        525) /* CharacterTitleId - StormRider */
+     , (1343015386, 281,          4) /* Faction1Bits - RadiantBlood */
      , (1343015386, 287,          0) /* SocietyRankCelhan */
      , (1343015386, 288,          0) /* SocietyRankEldweb */
      , (1343015386, 289,       1001) /* SocietyRankRadblo */

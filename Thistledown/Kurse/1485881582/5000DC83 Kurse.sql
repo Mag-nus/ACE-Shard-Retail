@@ -25,7 +25,7 @@ VALUES (1342233731,   1,         16) /* ItemType - Creature */
      , (1342233731, 139,         79) /* DeathLevel */
      , (1342233731, 188,          1) /* HeritageGroup - Aluvian */
      , (1342233731, 199,          0) /* HousePurchaseTimestamp */
-     , (1342233731, 261,        137) /* CharacterTitleId */
+     , (1342233731, 261,        137) /* CharacterTitleId - Stonebreaker */
      , (1342233731, 307,          0) /* DamageRating */
      , (1342233731, 308,          0) /* DamageResistRating */
      , (1342233731, 312,          0) /* HealOverTime */

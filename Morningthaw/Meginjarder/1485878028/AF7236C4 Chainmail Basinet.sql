@@ -21,8 +21,8 @@ VALUES (2943497924,   1,          2) /* ItemType - Armor */
      , (2943497924, 115,        154) /* ItemSkillLevelLimit */
      , (2943497924, 131,         64) /* MaterialType - Steel */
      , (2943497924, 151,          2) /* HookType - Wall */
-     , (2943497924, 172,          7) /* AppraisalLongDescDecoration */
-     , (2943497924, 176,          7) /* AppraisalItemSkill */
+     , (2943497924, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (2943497924, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (2943497924, 177,          1) /* GemCount */
      , (2943497924, 178,         33) /* GemType */
      , (2943497924, 188,          1) /* HeritageGroup - Aluvian */

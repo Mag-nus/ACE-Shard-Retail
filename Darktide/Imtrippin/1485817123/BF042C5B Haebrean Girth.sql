@@ -24,8 +24,8 @@ VALUES (3204721755,   1,          2) /* ItemType - Armor */
      , (3204721755, 158,          7) /* WieldRequirements - Level */
      , (3204721755, 159,          1) /* WieldSkillType - Axe */
      , (3204721755, 160,        150) /* WieldDifficulty */
-     , (3204721755, 172,          1) /* AppraisalLongDescDecoration */
-     , (3204721755, 176,          6) /* AppraisalItemSkill */
+     , (3204721755, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (3204721755, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (3204721755, 265,         17) /* EquipmentSetId - Tinkers */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

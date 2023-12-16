@@ -26,7 +26,7 @@ VALUES (2151739724,   1,      32768) /* ItemType - Caster */
      , (2151739724, 160,        355) /* WieldDifficulty */
      , (2151739724, 166,         14) /* SlayerCreatureType - Undead */
      , (2151739724, 171,         10) /* NumTimesTinkered */
-     , (2151739724, 172,          5) /* AppraisalLongDescDecoration */
+     , (2151739724, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2151739724, 177,          4) /* GemCount */
      , (2151739724, 178,         33) /* GemType */
      , (2151739724, 179,        512) /* ImbuedEffect - FireRending */

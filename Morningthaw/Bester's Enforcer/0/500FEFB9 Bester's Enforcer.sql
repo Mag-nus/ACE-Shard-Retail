@@ -13,7 +13,7 @@ VALUES (1343221689,   1,         16) /* ItemType - Creature */
      , (1343221689, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343221689, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343221689, 188,          8) /* HeritageGroup - Lugian */
-     , (1343221689, 261,          1) /* CharacterTitleId */
+     , (1343221689, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343221689, 307,          5) /* DamageRating */
      , (1343221689, 390,          0) /* Enlightenment */
      , (1343221689, 8007,          0) /* PCAPRecordedAutonomousMovement */;
@@ -27,7 +27,7 @@ VALUES (1343221689,   1, True ) /* Stuck */
      , (1343221689,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343221689,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1343221689,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343221689,   1, 'Bester''s Enforcer') /* Name */;
@@ -52,8 +52,8 @@ VALUES (1343221689,   1,   33561106) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343221689, 1, 18809126, 30, -60, 6, 1, 0, 0, 0) /* Location */
 /* @teleloc 0x011F0126 [30.000000 -60.000000 6.000000] 1.000000 0.000000 0.000000 0.000000 */
-     , (1343221689, 8040, 3332964380, 74.3032, 95.43813, 42.006, 0.6651946, 0, 0, -0.7466701) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001C [74.303200 95.438130 42.006000] 0.665195 0.000000 0.000000 -0.746670 */;
+     , (1343221689, 8040, 3332964380, 74.3032, 95.438126, 42.006, 0.6651946, 0, 0, -0.74667007) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A9001C [74.303200 95.438126 42.006001] 0.665195 0.000000 0.000000 -0.746670 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343221689, 8000, 1343221689) /* PCAPRecordedObjectIID */;

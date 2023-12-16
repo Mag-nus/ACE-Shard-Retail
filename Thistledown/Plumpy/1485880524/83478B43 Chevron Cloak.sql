@@ -19,7 +19,7 @@ VALUES (2202504003,   1,          4) /* ItemType - Clothing */
      , (2202504003, 158,          7) /* WieldRequirements - Level */
      , (2202504003, 159,          1) /* WieldSkillType - Axe */
      , (2202504003, 160,        150) /* WieldDifficulty */
-     , (2202504003, 172,          1) /* AppraisalLongDescDecoration */
+     , (2202504003, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (2202504003, 265,         82) /* EquipmentSetId - CloakWeaponTinkering */
      , (2202504003, 319,          5) /* ItemMaxLevel */
      , (2202504003, 320,          2) /* ItemXpStyle - ScalesWithLevel */

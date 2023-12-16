@@ -11,14 +11,14 @@ VALUES (2156007789,   1,        256) /* ItemType - MissileWeapon */
      , (2156007789,  45,          1) /* DamageType - Slash */
      , (2156007789,  48,         47) /* WeaponSkill - MissileWeapons */
      , (2156007789,  49,         10) /* WeaponTime */
-     , (2156007789,  51,          2) /* CombatUse - Missle */
+     , (2156007789,  51,          2) /* CombatUse - Missile */
      , (2156007789,  65,        101) /* Placement - Resting */
      , (2156007789,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (2156007789, 105,          6) /* ItemWorkmanship */
      , (2156007789, 131,         38) /* MaterialType - Ruby */
      , (2156007789, 151,          2) /* HookType - Wall */
      , (2156007789, 171,          5) /* NumTimesTinkered */
-     , (2156007789, 172,          7) /* AppraisalLongDescDecoration */
+     , (2156007789, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2156007789, 177,          4) /* GemCount */
      , (2156007789, 178,         21) /* GemType */
      , (2156007789, 353,         10) /* WeaponType - Thrown */

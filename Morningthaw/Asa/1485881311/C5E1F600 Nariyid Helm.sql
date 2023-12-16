@@ -16,7 +16,7 @@ VALUES (3319920128,   1,          2) /* ItemType - Armor */
      , (3319920128, 131,         63) /* MaterialType - Silver */
      , (3319920128, 151,          2) /* HookType - Wall */
      , (3319920128, 171,         10) /* NumTimesTinkered */
-     , (3319920128, 172,          7) /* AppraisalLongDescDecoration */
+     , (3319920128, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3319920128, 177,          3) /* GemCount */
      , (3319920128, 178,         49) /* GemType */;
 

@@ -7,7 +7,7 @@ VALUES (3611373184,   1,        256) /* ItemType - MissileWeapon */
      , (3611373184,   9,    4194304) /* ValidLocations - MissileWeapon */
      , (3611373184,  16,          1) /* ItemUseable - No */
      , (3611373184,  19,        602) /* Value */
-     , (3611373184,  51,          2) /* CombatUse - Missle */
+     , (3611373184,  51,          2) /* CombatUse - Missile */
      , (3611373184,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (3611373184, 131,         68) /* MaterialType - Marble */
      , (3611373184, 151,          1) /* HookType - Floor */

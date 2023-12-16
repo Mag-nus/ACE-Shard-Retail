@@ -21,10 +21,10 @@ VALUES (2149088872,   1,          4) /* ItemType - Clothing */
      , (2149088872, 110,          0) /* ItemAllegianceRankLimit */
      , (2149088872, 115,          0) /* ItemSkillLevelLimit */
      , (2149088872, 131,          6) /* MaterialType - Silk */
-     , (2149088872, 172,          5) /* AppraisalLongDescDecoration */
+     , (2149088872, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2149088872, 177,          3) /* GemCount */
      , (2149088872, 178,         20) /* GemType */
-     , (2149088872, 324,          6) /* HeritageSpecificArmor */;
+     , (2149088872, 324,          6) /* HeritageSpecificArmor - Gearknight */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (2149088872,   1, False) /* Stuck */

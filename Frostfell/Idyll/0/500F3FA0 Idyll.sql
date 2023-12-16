@@ -14,8 +14,8 @@ VALUES (1343176608,   1,         16) /* ItemType - Creature */
      , (1343176608, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343176608, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343176608, 188,          2) /* HeritageGroup - Gharundim */
-     , (1343176608, 261,        118) /* CharacterTitleId */
-     , (1343176608, 281,          4) /* Faction1Bits */
+     , (1343176608, 261,        118) /* CharacterTitleId - ServantofTheDeep */
+     , (1343176608, 281,          4) /* Faction1Bits - RadiantBlood */
      , (1343176608, 289,       1001) /* SocietyRankRadblo */
      , (1343176608, 307,         40) /* DamageRating */
      , (1343176608, 308,         29) /* DamageResistRating */
@@ -61,9 +61,9 @@ VALUES (1343176608,   1,   33554433) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343176608, 1, 2112356362, 37.2144, 40.3213, 42.01, 0.0271529, 0, 0, -0.999631) /* Location */
-/* @teleloc 0x7DE8000A [37.214400 40.321300 42.010000] 0.027153 0.000000 0.000000 -0.999631 */
-     , (1343176608, 8040, 23855548, 49.206, -31.935, 0.004999995, 0.7071068, 0, 0, -0.7071068) /* PCAPRecordedLocation */
-/* @teleloc 0x016C01BC [49.206000 -31.935000 0.005000] 0.707107 0.000000 0.000000 -0.707107 */;
+/* @teleloc 0x7DE8000A [37.214401 40.321301 42.009998] 0.027153 0.000000 0.000000 -0.999631 */
+     , (1343176608, 8040, 23855548, 49.206, -31.935, 0.004999995, 0.70710677, 0, 0, -0.70710677) /* PCAPRecordedLocation */
+/* @teleloc 0x016C01BC [49.206001 -31.934999 0.005000] 0.707107 0.000000 0.000000 -0.707107 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343176608,  26, 1342200341) /* Monarch */

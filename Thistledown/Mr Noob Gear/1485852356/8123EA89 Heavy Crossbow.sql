@@ -13,7 +13,7 @@ VALUES (2166614665,   1,        256) /* ItemType - MissileWeapon */
      , (2166614665,  48,         47) /* WeaponSkill - MissileWeapons */
      , (2166614665,  49,        107) /* WeaponTime */
      , (2166614665,  50,          2) /* AmmoType - Bolt */
-     , (2166614665,  51,          2) /* CombatUse - Missle */
+     , (2166614665,  51,          2) /* CombatUse - Missile */
      , (2166614665,  65,        101) /* Placement - Resting */
      , (2166614665,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2166614665, 105,          6) /* ItemWorkmanship */
@@ -26,8 +26,8 @@ VALUES (2166614665,   1,        256) /* ItemType - MissileWeapon */
      , (2166614665, 131,         60) /* MaterialType - Gold */
      , (2166614665, 151,          2) /* HookType - Wall */
      , (2166614665, 171,          1) /* NumTimesTinkered */
-     , (2166614665, 172,          7) /* AppraisalLongDescDecoration */
-     , (2166614665, 176,         47) /* AppraisalItemSkill */
+     , (2166614665, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (2166614665, 176,         47) /* AppraisalItemSkill - MissileWeapons */
      , (2166614665, 177,          4) /* GemCount */
      , (2166614665, 178,         39) /* GemType */
      , (2166614665, 179,         16) /* ImbuedEffect - PierceRending */

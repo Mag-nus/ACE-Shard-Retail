@@ -20,7 +20,7 @@ VALUES (2151229223,   1,          8) /* ItemType - Jewelry */
      , (2151229223, 115,          0) /* ItemSkillLevelLimit */
      , (2151229223, 131,         61) /* MaterialType - Iron */
      , (2151229223, 171,          2) /* NumTimesTinkered */
-     , (2151229223, 172,          3) /* AppraisalLongDescDecoration */
+     , (2151229223, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2151229223, 179,          0) /* ImbuedEffect - Undef */
      , (2151229223, 303,          1) /* ImbuedEffect2 - CriticalStrike */
      , (2151229223, 304,          1) /* ImbuedEffect3 - CriticalStrike */;

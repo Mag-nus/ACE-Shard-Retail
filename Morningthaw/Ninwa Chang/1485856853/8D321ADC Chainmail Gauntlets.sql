@@ -20,7 +20,7 @@ VALUES (2368871132,   1,          2) /* ItemType - Armor */
      , (2368871132, 110,          0) /* ItemAllegianceRankLimit */
      , (2368871132, 115,        287) /* ItemSkillLevelLimit */
      , (2368871132, 131,         60) /* MaterialType - Gold */
-     , (2368871132, 176,          6) /* AppraisalItemSkill */
+     , (2368871132, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (2368871132, 188,          1) /* HeritageGroup - Aluvian */
      , (2368871132, 9015,         62) /* InventoryOrder */;
 

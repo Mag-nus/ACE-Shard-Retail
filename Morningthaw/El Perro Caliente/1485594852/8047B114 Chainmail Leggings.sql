@@ -22,8 +22,8 @@ VALUES (2152182036,   1,          2) /* ItemType - Armor */
      , (2152182036, 115,        280) /* ItemSkillLevelLimit */
      , (2152182036, 131,         60) /* MaterialType - Gold */
      , (2152182036, 171,          8) /* NumTimesTinkered */
-     , (2152182036, 172,          3) /* AppraisalLongDescDecoration */
-     , (2152182036, 176,          6) /* AppraisalItemSkill */
+     , (2152182036, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (2152182036, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (2152182036, 188,          1) /* HeritageGroup - Aluvian */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

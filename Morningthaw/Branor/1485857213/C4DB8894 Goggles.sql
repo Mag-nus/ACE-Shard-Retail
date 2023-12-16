@@ -11,7 +11,7 @@ VALUES (3302721684,   1,          8) /* ItemType - Jewelry */
      , (3302721684,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3302721684, 105,         10) /* ItemWorkmanship */
      , (3302721684, 131,         41) /* MaterialType - Sunstone */
-     , (3302721684, 172,          5) /* AppraisalLongDescDecoration */
+     , (3302721684, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (3302721684, 177,          4) /* GemCount */
      , (3302721684, 178,         38) /* GemType */
      , (3302721684, 9015,          2) /* InventoryOrder */;

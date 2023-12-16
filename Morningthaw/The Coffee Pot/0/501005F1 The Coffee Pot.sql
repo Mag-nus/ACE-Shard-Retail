@@ -19,7 +19,7 @@ VALUES (1343227377,   1, True ) /* Stuck */
      , (1343227377,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343227377,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1343227377,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343227377,   1, 'The Coffee Pot') /* Name */;
@@ -36,10 +36,10 @@ VALUES (1343227377,   1,   33560839) /* Setup */
      , (1343227377, 8005,     104579) /* PCAPRecordedPhysicsDesc - CSetup, MTable, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343227377, 1, 19202319, 32.12283, -35.18605, 3.122074, -0.9992931, 0, 0, -0.037593) /* Location */
-/* @teleloc 0x0125010F [32.122830 -35.186050 3.122074] -0.999293 0.000000 0.000000 -0.037593 */
-     , (1343227377, 8040, 19202319, 32.12283, -35.18605, 3.122074, -0.9992931, 0, 0, -0.037593) /* PCAPRecordedLocation */
-/* @teleloc 0x0125010F [32.122830 -35.186050 3.122074] -0.999293 0.000000 0.000000 -0.037593 */;
+VALUES (1343227377, 1, 19202319, 32.12283, -35.18605, 3.1220737, -0.99929315, 0, 0, -0.037593) /* Location */
+/* @teleloc 0x0125010F [32.122829 -35.186050 3.122074] -0.999293 0.000000 0.000000 -0.037593 */
+     , (1343227377, 8040, 19202319, 32.12283, -35.18605, 3.1220737, -0.99929315, 0, -0, -0.037593) /* PCAPRecordedLocation */
+/* @teleloc 0x0125010F [32.122829 -35.186050 3.122074] -0.999293 0.000000 -0.000000 -0.037593 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343227377,  26, 1342708235) /* Monarch */

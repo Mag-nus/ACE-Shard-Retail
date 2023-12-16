@@ -21,8 +21,8 @@ VALUES (3571308847,   1,          2) /* ItemType - Armor */
      , (3571308847, 115,        197) /* ItemSkillLevelLimit */
      , (3571308847, 131,         52) /* MaterialType - Leather */
      , (3571308847, 171,          2) /* NumTimesTinkered */
-     , (3571308847, 172,          5) /* AppraisalLongDescDecoration */
-     , (3571308847, 176,          7) /* AppraisalItemSkill */
+     , (3571308847, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
+     , (3571308847, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (3571308847, 177,          2) /* GemCount */
      , (3571308847, 178,         41) /* GemType */
      , (3571308847, 9015,         17) /* InventoryOrder */;

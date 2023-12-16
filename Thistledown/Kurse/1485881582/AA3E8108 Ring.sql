@@ -18,7 +18,7 @@ VALUES (2856222984,   1,          8) /* ItemType - Jewelry */
      , (2856222984, 110,          0) /* ItemAllegianceRankLimit */
      , (2856222984, 115,          0) /* ItemSkillLevelLimit */
      , (2856222984, 131,         50) /* MaterialType - Zircon */
-     , (2856222984, 172,          7) /* AppraisalLongDescDecoration */
+     , (2856222984, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2856222984, 177,          1) /* GemCount */
      , (2856222984, 178,         33) /* GemType */
      , (2856222984, 9015,         21) /* InventoryOrder */;

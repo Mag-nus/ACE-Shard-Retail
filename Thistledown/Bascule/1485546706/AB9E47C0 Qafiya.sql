@@ -21,7 +21,7 @@ VALUES (2879276992,   1,          4) /* ItemType - Clothing */
      , (2879276992, 115,          0) /* ItemSkillLevelLimit */
      , (2879276992, 131,          8) /* MaterialType - Wool */
      , (2879276992, 151,          2) /* HookType - Wall */
-     , (2879276992, 172,          3) /* AppraisalLongDescDecoration */
+     , (2879276992, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2879276992, 188,          2) /* HeritageGroup - Gharundim */
      , (2879276992, 9015,         15) /* InventoryOrder */;
 

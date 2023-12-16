@@ -23,7 +23,7 @@ VALUES (3324323108,   1,          2) /* ItemType - Armor */
      , (3324323108, 158,          7) /* WieldRequirements - Level */
      , (3324323108, 159,          1) /* WieldSkillType - Axe */
      , (3324323108, 160,        150) /* WieldDifficulty */
-     , (3324323108, 172,          5) /* AppraisalLongDescDecoration */
+     , (3324323108, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (3324323108, 177,          4) /* GemCount */
      , (3324323108, 178,         49) /* GemType */
      , (3324323108, 265,         22) /* EquipmentSetId - Swift */

@@ -20,8 +20,8 @@ VALUES (2227002882,   1,          2) /* ItemType - Armor */
      , (2227002882, 110,          0) /* ItemAllegianceRankLimit */
      , (2227002882, 115,        290) /* ItemSkillLevelLimit */
      , (2227002882, 131,         63) /* MaterialType - Silver */
-     , (2227002882, 172,          7) /* AppraisalLongDescDecoration */
-     , (2227002882, 176,          6) /* AppraisalItemSkill */
+     , (2227002882, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (2227002882, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (2227002882, 177,          1) /* GemCount */
      , (2227002882, 178,         13) /* GemType */
      , (2227002882, 188,          1) /* HeritageGroup - Aluvian */

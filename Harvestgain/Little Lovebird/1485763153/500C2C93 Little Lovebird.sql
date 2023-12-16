@@ -29,7 +29,7 @@ VALUES (1342975123,   1,         16) /* ItemType - Creature */
      , (1342975123, 230,          1) /* AugmentationIncreasedCarryingCapacity */
      , (1342975123, 233,          1) /* AugmentationCriticalDefense */
      , (1342975123, 238,          5) /* AugmentationIncreasedSpellDuration */
-     , (1342975123, 261,         29) /* CharacterTitleId */
+     , (1342975123, 261,         29) /* CharacterTitleId - BugButcher */
      , (1342975123, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1342975123, 295,          1) /* AugmentationInfusedItemMagic */
      , (1342975123, 296,          1) /* AugmentationInfusedLifeMagic */

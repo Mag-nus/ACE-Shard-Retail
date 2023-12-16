@@ -15,7 +15,7 @@ VALUES (2621918092,   1, 1073741824) /* ItemType - TinkeringMaterial */
      , (2621918092,  94,          6) /* TargetType - Vestements */
      , (2621918092, 131,         64) /* MaterialType - Steel */
      , (2621918092, 151,          9) /* HookType - Floor, Yard */
-     , (2621918092, 9015,         20) /* InventoryOrder */;
+     , (2621918092, 9015,         30) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (2621918092,   1, False) /* Stuck */

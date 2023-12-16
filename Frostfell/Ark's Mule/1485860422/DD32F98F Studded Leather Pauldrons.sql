@@ -23,8 +23,8 @@ VALUES (3711105423,   1,          2) /* ItemType - Armor */
      , (3711105423, 158,          7) /* WieldRequirements - Level */
      , (3711105423, 159,          1) /* WieldSkillType - Axe */
      , (3711105423, 160,        150) /* WieldDifficulty */
-     , (3711105423, 172,          3) /* AppraisalLongDescDecoration */
-     , (3711105423, 176,          6) /* AppraisalItemSkill */
+     , (3711105423, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (3711105423, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (3711105423, 188,          4) /* HeritageGroup - Viamontian */
      , (3711105423, 9015,         12) /* InventoryOrder */;
 

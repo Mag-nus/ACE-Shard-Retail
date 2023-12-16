@@ -23,7 +23,7 @@ VALUES (1343185796,   1,         16) /* ItemType - Creature */
      , (1343185796, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343185796, 139,          6) /* DeathLevel */
      , (1343185796, 188,          3) /* HeritageGroup - Sho */
-     , (1343185796, 261,          9) /* CharacterTitleId */
+     , (1343185796, 261,          9) /* CharacterTitleId - BowHunter */
      , (1343185796, 307,          5) /* DamageRating */
      , (1343185796, 308,          0) /* DamageResistRating */
      , (1343185796, 312,          0) /* HealOverTime */

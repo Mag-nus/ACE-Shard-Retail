@@ -20,7 +20,7 @@ VALUES (3326955619,   1,          4) /* ItemType - Clothing */
      , (3326955619, 110,          0) /* ItemAllegianceRankLimit */
      , (3326955619, 115,          0) /* ItemSkillLevelLimit */
      , (3326955619, 131,         55) /* MaterialType - ReedSharkHide */
-     , (3326955619, 172,          5) /* AppraisalLongDescDecoration */
+     , (3326955619, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (3326955619, 177,          2) /* GemCount */
      , (3326955619, 178,         26) /* GemType */
      , (3326955619, 9015,         67) /* InventoryOrder */;

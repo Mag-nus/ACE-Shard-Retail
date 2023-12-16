@@ -21,7 +21,7 @@ VALUES (2158714467,   1,      32768) /* ItemType - Caster */
      , (2158714467, 131,         63) /* MaterialType - Silver */
      , (2158714467, 151,          2) /* HookType - Wall */
      , (2158714467, 171,          6) /* NumTimesTinkered */
-     , (2158714467, 172,          3) /* AppraisalLongDescDecoration */
+     , (2158714467, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2158714467, 179,         32) /* ImbuedEffect - BludgeonRending */
      , (2158714467, 9015,         23) /* InventoryOrder */;
 

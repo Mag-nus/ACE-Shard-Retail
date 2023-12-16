@@ -12,13 +12,13 @@ VALUES (3351895020,   1,        256) /* ItemType - MissileWeapon */
      , (3351895020,  48,         47) /* WeaponSkill - MissileWeapons */
      , (3351895020,  49,         25) /* WeaponTime */
      , (3351895020,  50,          4) /* AmmoType - Atlatl */
-     , (3351895020,  51,          2) /* CombatUse - Missle */
+     , (3351895020,  51,          2) /* CombatUse - Missile */
      , (3351895020,  65,        101) /* Placement - Resting */
      , (3351895020,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3351895020, 105,          4) /* ItemWorkmanship */
      , (3351895020, 131,         75) /* MaterialType - Oak */
      , (3351895020, 151,          2) /* HookType - Wall */
-     , (3351895020, 172,          3) /* AppraisalLongDescDecoration */
+     , (3351895020, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (3351895020, 353,         10) /* WeaponType - Thrown */
      , (3351895020, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (3351895020, 9015,         48) /* InventoryOrder */;

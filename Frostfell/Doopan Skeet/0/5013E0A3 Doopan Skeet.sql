@@ -14,7 +14,7 @@ VALUES (1343479971,   1,         16) /* ItemType - Creature */
      , (1343479971, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343479971, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343479971, 188,          8) /* HeritageGroup - Lugian */
-     , (1343479971, 261,         11) /* CharacterTitleId */
+     , (1343479971, 261,         11) /* CharacterTitleId - Soldier */
      , (1343479971, 390,          0) /* Enlightenment */
      , (1343479971, 8007,          0) /* PCAPRecordedAutonomousMovement */;
 
@@ -27,7 +27,7 @@ VALUES (1343479971,   1, True ) /* Stuck */
      , (1343479971,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343479971,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1343479971,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343479971,   1, 'Doopan Skeet') /* Name */
@@ -54,9 +54,9 @@ VALUES (1343479971,   1,   33561106) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343479971, 1, 3332964380, 80.28957, 90.33959, 42.006, 0.8990892, 0, 0, -0.4377654) /* Location */
-/* @teleloc 0xC6A9001C [80.289570 90.339590 42.006000] 0.899089 0.000000 0.000000 -0.437765 */
+/* @teleloc 0xC6A9001C [80.289574 90.339592 42.006001] 0.899089 0.000000 0.000000 -0.437765 */
      , (1343479971, 8040, 3332964380, 77.98738, 79.76962, 42.006, 0.8945911, 0, 0, -0.4468857) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001C [77.987380 79.769620 42.006000] 0.894591 0.000000 0.000000 -0.446886 */;
+/* @teleloc 0xC6A9001C [77.987381 79.769623 42.006001] 0.894591 0.000000 0.000000 -0.446886 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343479971,  26, 1343449966) /* Monarch */

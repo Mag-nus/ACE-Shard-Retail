@@ -25,7 +25,7 @@ VALUES (1343342055,   1,         16) /* ItemType - Creature */
      , (1343342055, 188,          9) /* HeritageGroup - Empyrean */
      , (1343342055, 232,          1) /* AugmentationSpellsRemainPastDeath */
      , (1343342055, 233,          1) /* AugmentationCriticalDefense */
-     , (1343342055, 261,          1) /* CharacterTitleId */
+     , (1343342055, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343342055, 296,          1) /* AugmentationInfusedLifeMagic */
      , (1343342055, 302,          1) /* AugmentationSkilledMagic */
      , (1343342055, 307,          5) /* DamageRating */

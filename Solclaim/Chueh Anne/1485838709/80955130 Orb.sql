@@ -21,7 +21,7 @@ VALUES (2157269296,   1,      32768) /* ItemType - Caster */
      , (2157269296, 131,         63) /* MaterialType - Silver */
      , (2157269296, 151,          2) /* HookType - Wall */
      , (2157269296, 171,          1) /* NumTimesTinkered */
-     , (2157269296, 172,          7) /* AppraisalLongDescDecoration */
+     , (2157269296, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2157269296, 177,          3) /* GemCount */
      , (2157269296, 178,         34) /* GemType */
      , (2157269296, 179,        128) /* ImbuedEffect - ColdRending */

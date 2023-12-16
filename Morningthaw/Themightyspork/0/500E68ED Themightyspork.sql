@@ -18,9 +18,9 @@ VALUES (1343121645,   1,         16) /* ItemType - Creature */
      , (1343121645, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343121645, 188,          2) /* HeritageGroup - Gharundim */
      , (1343121645, 192,         13) /* FakeFishingSkill */
-     , (1343121645, 261,         90) /* CharacterTitleId */
+     , (1343121645, 261,         90) /* CharacterTitleId - MasterofSlaughter */
      , (1343121645, 262,         74) /* NumCharacterTitles */
-     , (1343121645, 281,          1) /* Faction1Bits */
+     , (1343121645, 281,          1) /* Faction1Bits - CelestialHand */
      , (1343121645, 287,         60) /* SocietyRankCelhan */
      , (1343121645, 323,          6) /* HealingBoostRating */
      , (1343121645, 350,         24) /* DotResistRating */
@@ -36,9 +36,9 @@ VALUES (1343121645,   1, True ) /* Stuck */
      , (1343121645,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343121645, 8010, -0.0255329106003046) /* PCAPRecordedVelocityX */
-     , (1343121645, 8011, -1.55979084968567) /* PCAPRecordedVelocityY */
-     , (1343121645, 8012, -1.45795094966888) /* PCAPRecordedVelocityZ */;
+VALUES (1343121645, 8010, -0.025532910600304604) /* PCAPRecordedVelocityX */
+     , (1343121645, 8011, -1.559790849685669) /* PCAPRecordedVelocityY */
+     , (1343121645, 8012, -1.4579509496688843) /* PCAPRecordedVelocityZ */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343121645,   1, 'Themightyspork') /* Name */
@@ -63,10 +63,10 @@ VALUES (1343121645,   1,   33554433) /* Setup */
      , (1343121645, 8005,     104519) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Velocity, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343121645, 1, 3370713130, 129.4358, 38.15999, 0.00500001, 0.9475013, 0, 0, -0.319752) /* Location */
-/* @teleloc 0xC8E9002A [129.435800 38.159990 0.005000] 0.947501 0.000000 0.000000 -0.319752 */
-     , (1343121645, 8040, 19202318, 33.86062, -28.45728, 2.21, -0.7128699, 0, 0, -0.7012962) /* PCAPRecordedLocation */
-/* @teleloc 0x0125010E [33.860620 -28.457280 2.210000] -0.712870 0.000000 0.000000 -0.701296 */;
+VALUES (1343121645, 1, 3370713130, 129.43579, 38.159992, 0.00500001, 0.9475013, 0, 0, -0.31975198) /* Location */
+/* @teleloc 0xC8E9002A [129.435791 38.159992 0.005000] 0.947501 0.000000 0.000000 -0.319752 */
+     , (1343121645, 8040, 19202318, 33.860622, -28.457277, 2.2100003, -0.71286994, 0, -0, -0.7012962) /* PCAPRecordedLocation */
+/* @teleloc 0x0125010E [33.860622 -28.457277 2.210000] -0.712870 0.000000 -0.000000 -0.701296 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343121645,  26, 1343121645) /* Monarch */

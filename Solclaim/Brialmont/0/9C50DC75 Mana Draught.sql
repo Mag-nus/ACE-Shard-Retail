@@ -11,7 +11,7 @@ VALUES (2622545013,   1,        128) /* ItemType - Misc */
      , (2622545013,  65,        101) /* Placement - Resting */
      , (2622545013,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2622545013, 151,         11) /* HookType - Floor, Wall, Yard */
-     , (2622545013, 9015,         15) /* InventoryOrder */;
+     , (2622545013, 9015,         20) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (2622545013,   1, False) /* Stuck */

@@ -22,7 +22,7 @@ VALUES (3230854845,   1,      32768) /* ItemType - Caster */
      , (3230854845, 131,         39) /* MaterialType - Sapphire */
      , (3230854845, 151,          2) /* HookType - Wall */
      , (3230854845, 171,         10) /* NumTimesTinkered */
-     , (3230854845, 172,          7) /* AppraisalLongDescDecoration */
+     , (3230854845, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3230854845, 177,          3) /* GemCount */
      , (3230854845, 178,         21) /* GemType */;
 

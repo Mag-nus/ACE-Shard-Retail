@@ -28,8 +28,8 @@ VALUES (2368875821,   1,          1) /* ItemType - MeleeWeapon */
      , (2368875821, 158,          2) /* WieldRequirements - RawSkill */
      , (2368875821, 159,         46) /* WieldSkillType - FinesseWeapons */
      , (2368875821, 160,        325) /* WieldDifficulty */
-     , (2368875821, 172,          3) /* AppraisalLongDescDecoration */
-     , (2368875821, 176,         46) /* AppraisalItemSkill */
+     , (2368875821, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (2368875821, 176,         46) /* AppraisalItemSkill - FinesseWeapons */
      , (2368875821, 188,          1) /* HeritageGroup - Aluvian */
      , (2368875821, 353,          6) /* WeaponType - Dagger */
      , (2368875821, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */

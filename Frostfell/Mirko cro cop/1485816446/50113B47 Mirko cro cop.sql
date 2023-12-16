@@ -24,7 +24,7 @@ VALUES (1343306567,   1,         16) /* ItemType - Creature */
      , (1343306567, 139,        206) /* DeathLevel */
      , (1343306567, 188,          3) /* HeritageGroup - Sho */
      , (1343306567, 199, 1280368231) /* HousePurchaseTimestamp */
-     , (1343306567, 261,         74) /* CharacterTitleId */
+     , (1343306567, 261,         74) /* CharacterTitleId - InsatiableSlayer */
      , (1343306567, 307,          0) /* DamageRating */
      , (1343306567, 308,          0) /* DamageResistRating */
      , (1343306567, 312,          0) /* HealOverTime */

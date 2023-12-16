@@ -19,7 +19,7 @@ VALUES (1343493243,   1, True ) /* Stuck */
      , (1343493243,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343493243,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1343493243,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343493243,   1, 'Wholy Salvage Batman') /* Name */;
@@ -36,9 +36,9 @@ VALUES (1343493243,   1,   33561106) /* Setup */
      , (1343493243, 8005,     104643) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343493243, 1, 23855548, 48.82843, -26.95352, 0.005999982, 0.2465249, 0, 0, -0.9691364) /* Location */
+VALUES (1343493243, 1, 23855548, 48.82843, -26.95352, 0.0059999824, 0.24652494, 0, 0, -0.9691364) /* Location */
 /* @teleloc 0x016C01BC [48.828430 -26.953520 0.006000] 0.246525 0.000000 0.000000 -0.969136 */
-     , (1343493243, 8040, 23855548, 48.82843, -26.95352, 0.005999982, 0.2465249, 0, 0, -0.9691364) /* PCAPRecordedLocation */
+     , (1343493243, 8040, 23855548, 48.82843, -26.95352, 0.0059999824, 0.24652494, 0, 0, -0.9691364) /* PCAPRecordedLocation */
 /* @teleloc 0x016C01BC [48.828430 -26.953520 0.006000] 0.246525 0.000000 0.000000 -0.969136 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)

@@ -24,7 +24,7 @@ VALUES (3711026974,   1,      32768) /* ItemType - Caster */
      , (3711026974, 158,          2) /* WieldRequirements - RawSkill */
      , (3711026974, 159,         43) /* WieldSkillType - VoidMagic */
      , (3711026974, 160,        385) /* WieldDifficulty */
-     , (3711026974, 172,          5) /* AppraisalLongDescDecoration */
+     , (3711026974, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (3711026974, 177,          2) /* GemCount */
      , (3711026974, 178,         41) /* GemType */
      , (3711026974, 9015,         24) /* InventoryOrder */;

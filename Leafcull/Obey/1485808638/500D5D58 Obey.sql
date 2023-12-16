@@ -28,7 +28,7 @@ VALUES (1343053144,   1,         16) /* ItemType - Creature */
      , (1343053144, 231,          3) /* AugmentationLessDeathItemLoss */
      , (1343053144, 232,          1) /* AugmentationSpellsRemainPastDeath */
      , (1343053144, 238,          5) /* AugmentationIncreasedSpellDuration */
-     , (1343053144, 261,          1) /* CharacterTitleId */
+     , (1343053144, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343053144, 300,          1) /* AugmentationSkilledMelee */
      , (1343053144, 307,          0) /* DamageRating */
      , (1343053144, 308,          0) /* DamageResistRating */

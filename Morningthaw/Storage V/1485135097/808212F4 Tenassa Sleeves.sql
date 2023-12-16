@@ -19,7 +19,7 @@ VALUES (2156008180,   1,          2) /* ItemType - Armor */
      , (2156008180, 110,          0) /* ItemAllegianceRankLimit */
      , (2156008180, 115,          0) /* ItemSkillLevelLimit */
      , (2156008180, 131,         60) /* MaterialType - Gold */
-     , (2156008180, 172,          3) /* AppraisalLongDescDecoration */
+     , (2156008180, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2156008180, 188,          4) /* HeritageGroup - Viamontian */
      , (2156008180, 9015,         21) /* InventoryOrder */;
 

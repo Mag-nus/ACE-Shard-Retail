@@ -19,7 +19,7 @@ VALUES (2153713549,   1,          8) /* ItemType - Jewelry */
      , (2153713549, 110,          0) /* ItemAllegianceRankLimit */
      , (2153713549, 115,          0) /* ItemSkillLevelLimit */
      , (2153713549, 131,         20) /* MaterialType - Diamond */
-     , (2153713549, 172,          7) /* AppraisalLongDescDecoration */
+     , (2153713549, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2153713549, 177,          2) /* GemCount */
      , (2153713549, 178,         15) /* GemType */
      , (2153713549, 188,          4) /* HeritageGroup - Viamontian */;

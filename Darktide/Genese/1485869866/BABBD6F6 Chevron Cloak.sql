@@ -19,7 +19,7 @@ VALUES (3132872438,   1,          4) /* ItemType - Clothing */
      , (3132872438, 158,          7) /* WieldRequirements - Level */
      , (3132872438, 159,          1) /* WieldSkillType - Axe */
      , (3132872438, 160,        180) /* WieldDifficulty */
-     , (3132872438, 172,          1) /* AppraisalLongDescDecoration */
+     , (3132872438, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (3132872438, 265,         88) /* EquipmentSetId - CloakSneakAttack */
      , (3132872438, 319,          5) /* ItemMaxLevel */
      , (3132872438, 320,          2) /* ItemXpStyle - ScalesWithLevel */

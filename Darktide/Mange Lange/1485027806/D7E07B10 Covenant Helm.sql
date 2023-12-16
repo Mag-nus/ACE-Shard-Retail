@@ -25,7 +25,7 @@ VALUES (3621813008,   1,          2) /* ItemType - Armor */
      , (3621813008, 158,          2) /* WieldRequirements - RawSkill */
      , (3621813008, 159,          7) /* WieldSkillType - MissileDefense */
      , (3621813008, 160,        270) /* WieldDifficulty */
-     , (3621813008, 172,          3) /* AppraisalLongDescDecoration */
+     , (3621813008, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (3621813008, 188,          2) /* HeritageGroup - Gharundim */
      , (3621813008, 9015,         55) /* InventoryOrder */;
 

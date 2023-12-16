@@ -9,7 +9,7 @@ VALUES (2454724101,   1,        256) /* ItemType - MissileWeapon */
      , (2454724101,  18,       1025) /* UiEffects - Magical, Slashing */
      , (2454724101,  19,      11601) /* Value */
      , (2454724101,  50,          2) /* AmmoType - Bolt */
-     , (2454724101,  51,          2) /* CombatUse - Missle */
+     , (2454724101,  51,          2) /* CombatUse - Missile */
      , (2454724101,  65,        101) /* Placement - Resting */
      , (2454724101,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2454724101, 131,         49) /* MaterialType - YellowTopaz */

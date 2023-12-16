@@ -13,7 +13,7 @@ VALUES (2248025341,   1,      32768) /* ItemType - Caster */
      , (2248025341, 105,          4) /* ItemWorkmanship */
      , (2248025341, 131,         28) /* MaterialType - LapisLazuli */
      , (2248025341, 151,          2) /* HookType - Wall */
-     , (2248025341, 172,          7) /* AppraisalLongDescDecoration */
+     , (2248025341, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2248025341, 177,          3) /* GemCount */
      , (2248025341, 178,         31) /* GemType */
      , (2248025341, 9015,         10) /* InventoryOrder */;

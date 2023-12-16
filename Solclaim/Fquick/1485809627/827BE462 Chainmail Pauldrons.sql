@@ -25,8 +25,8 @@ VALUES (2189157474,   1,          2) /* ItemType - Armor */
      , (2189157474, 159,          1) /* WieldSkillType - Axe */
      , (2189157474, 160,        180) /* WieldDifficulty */
      , (2189157474, 171,          9) /* NumTimesTinkered */
-     , (2189157474, 172,          3) /* AppraisalLongDescDecoration */
-     , (2189157474, 176,          6) /* AppraisalItemSkill */
+     , (2189157474, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (2189157474, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (2189157474, 188,          2) /* HeritageGroup - Gharundim */
      , (2189157474, 265,         14) /* EquipmentSetId - Adepts */;
 

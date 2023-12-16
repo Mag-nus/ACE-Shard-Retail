@@ -9,7 +9,7 @@ VALUES (2258805285,   1,        256) /* ItemType - MissileWeapon */
      , (2258805285,  18,         64) /* UiEffects - Lightning */
      , (2258805285,  19,       7643) /* Value */
      , (2258805285,  50,          4) /* AmmoType - Atlatl */
-     , (2258805285,  51,          2) /* CombatUse - Missle */
+     , (2258805285,  51,          2) /* CombatUse - Missile */
      , (2258805285,  65,        101) /* Placement - Resting */
      , (2258805285,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2258805285, 131,         77) /* MaterialType - Teak */

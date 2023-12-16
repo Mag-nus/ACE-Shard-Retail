@@ -21,7 +21,7 @@ VALUES (1343491243,   1,         16) /* ItemType - Creature */
      , (1343491243, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343491243, 188,         11) /* HeritageGroup - Undead */
      , (1343491243, 233,          1) /* AugmentationCriticalDefense */
-     , (1343491243, 261,          1) /* CharacterTitleId */
+     , (1343491243, 261,          1) /* CharacterTitleId - Adventurer */
      , (1343491243, 307,          0) /* DamageRating */
      , (1343491243, 308,          0) /* DamageResistRating */
      , (1343491243, 312,          0) /* HealOverTime */

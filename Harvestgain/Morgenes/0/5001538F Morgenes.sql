@@ -19,9 +19,9 @@ VALUES (1342264207,   1, True ) /* Stuck */
      , (1342264207,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1342264207, 8010, 2.9646635055542) /* PCAPRecordedVelocityX */
-     , (1342264207, 8011, 10.8677387237549) /* PCAPRecordedVelocityY */
-     , (1342264207, 8012, 10.0541706085205) /* PCAPRecordedVelocityZ */;
+VALUES (1342264207, 8010, 2.964663505554199) /* PCAPRecordedVelocityX */
+     , (1342264207, 8011, 10.867738723754883) /* PCAPRecordedVelocityY */
+     , (1342264207, 8012, 10.054170608520508) /* PCAPRecordedVelocityZ */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1342264207,   1, 'Morgenes') /* Name */;
@@ -38,10 +38,10 @@ VALUES (1342264207,   1,   33554433) /* Setup */
      , (1342264207, 8005,     104519) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Velocity, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1342264207, 1, 3205824562, 159.712, 46.5639, 140.005, 0.00718716, 0, 0, 0.999974) /* Location */
-/* @teleloc 0xBF150032 [159.712000 46.563900 140.005000] 0.007187 0.000000 0.000000 0.999974 */
-     , (1342264207, 8040, 1925709872, 123.6865, 168.1017, 162.2333, 0.9911476, 0, 0, -0.1327644) /* PCAPRecordedLocation */
-/* @teleloc 0x72C80030 [123.686500 168.101700 162.233300] 0.991148 0.000000 0.000000 -0.132764 */;
+VALUES (1342264207, 1, 3205824562, 159.712, 46.5639, 140.00499, 0.00718716, 0, 0, 0.999974) /* Location */
+/* @teleloc 0xBF150032 [159.712006 46.563900 140.004990] 0.007187 0.000000 0.000000 0.999974 */
+     , (1342264207, 8040, 1925709872, 123.68651, 168.10168, 162.23329, 0.99114764, 0, 0, -0.13276435) /* PCAPRecordedLocation */
+/* @teleloc 0x72C80030 [123.686508 168.101685 162.233292] 0.991148 0.000000 0.000000 -0.132764 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342264207,  26, 1342378704) /* Monarch */

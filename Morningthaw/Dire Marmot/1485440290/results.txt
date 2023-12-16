@@ -1,8 +1,8 @@
 Source: 
-C:\ACEmulator\Logs Unpacked\trello_datamining\1_TreeMarmot-2017-1-26-Shoushi-Academy.pcap
+C:\ACEmulator\Logs Unpacked\01-31-2017\TreeMarmot-2017-1-26-Shoushi-Academy\pkt_2017-1-26_1485439899_log.pcap
 
 Alternate sources:
-C:\ACEmulator\Logs Unpacked\01-31-2017\TreeMarmot-2017-1-26-Shoushi-Academy\pkt_2017-1-26_1485439899_log.pcap
+C:\ACEmulator\Logs Unpacked\trello_datamining\1_TreeMarmot-2017-1-26-Shoushi-Academy.pcap
 
 Partial Exports - Missing appraisal info:
 C66B7FD6:Pyreal

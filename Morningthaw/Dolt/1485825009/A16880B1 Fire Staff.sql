@@ -26,7 +26,7 @@ VALUES (2707980465,   1,      32768) /* ItemType - Caster */
      , (2707980465, 160,        375) /* WieldDifficulty */
      , (2707980465, 166,         14) /* SlayerCreatureType - Undead */
      , (2707980465, 171,         10) /* NumTimesTinkered */
-     , (2707980465, 172,          5) /* AppraisalLongDescDecoration */
+     , (2707980465, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2707980465, 177,          4) /* GemCount */
      , (2707980465, 178,         22) /* GemType */
      , (2707980465, 179,          1) /* ImbuedEffect - CriticalStrike */

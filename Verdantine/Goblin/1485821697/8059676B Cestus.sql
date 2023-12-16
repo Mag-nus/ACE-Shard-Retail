@@ -28,8 +28,8 @@ VALUES (2153342827,   1,          1) /* ItemType - MeleeWeapon */
      , (2153342827, 158,          2) /* WieldRequirements - RawSkill */
      , (2153342827, 159,         45) /* WieldSkillType - LightWeapons */
      , (2153342827, 160,        325) /* WieldDifficulty */
-     , (2153342827, 172,          3) /* AppraisalLongDescDecoration */
-     , (2153342827, 176,         45) /* AppraisalItemSkill */
+     , (2153342827, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (2153342827, 176,         45) /* AppraisalItemSkill - LightWeapons */
      , (2153342827, 188,          1) /* HeritageGroup - Aluvian */
      , (2153342827, 353,          1) /* WeaponType - Unarmed */
      , (2153342827, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */

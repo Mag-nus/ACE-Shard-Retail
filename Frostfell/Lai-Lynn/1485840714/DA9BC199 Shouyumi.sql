@@ -8,7 +8,7 @@ VALUES (3667640729,   1,        256) /* ItemType - MissileWeapon */
      , (3667640729,  16,          1) /* ItemUseable - No */
      , (3667640729,  19,       1024) /* Value */
      , (3667640729,  50,          1) /* AmmoType - Arrow */
-     , (3667640729,  51,          2) /* CombatUse - Missle */
+     , (3667640729,  51,          2) /* CombatUse - Missile */
      , (3667640729,  65,        101) /* Placement - Resting */
      , (3667640729,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3667640729, 131,         51) /* MaterialType - Ivory */

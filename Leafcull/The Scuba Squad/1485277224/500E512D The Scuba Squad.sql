@@ -25,7 +25,7 @@ VALUES (1343115565,   1,         16) /* ItemType - Creature */
      , (1343115565, 139,         60) /* DeathLevel */
      , (1343115565, 188,          3) /* HeritageGroup - Sho */
      , (1343115565, 199, 1176695944) /* HousePurchaseTimestamp */
-     , (1343115565, 261,        500) /* CharacterTitleId */
+     , (1343115565, 261,        500) /* CharacterTitleId - CragstoneMilitia */
      , (1343115565, 307,          0) /* DamageRating */
      , (1343115565, 308,          0) /* DamageResistRating */
      , (1343115565, 312,          0) /* HealOverTime */

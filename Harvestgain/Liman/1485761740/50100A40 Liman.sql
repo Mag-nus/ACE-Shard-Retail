@@ -21,7 +21,7 @@ VALUES (1343228480,   1,         16) /* ItemType - Creature */
      , (1343228480, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343228480, 188,          4) /* HeritageGroup - Viamontian */
      , (1343228480, 199, 1446483795) /* HousePurchaseTimestamp */
-     , (1343228480, 261,         12) /* CharacterTitleId */
+     , (1343228480, 261,         12) /* CharacterTitleId - Swashbuckler */
      , (1343228480, 307,          0) /* DamageRating */
      , (1343228480, 308,          0) /* DamageResistRating */
      , (1343228480, 312,          0) /* HealOverTime */

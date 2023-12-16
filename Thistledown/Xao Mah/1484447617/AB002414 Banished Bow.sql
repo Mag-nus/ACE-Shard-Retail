@@ -12,7 +12,7 @@ VALUES (2868913172,   1,        256) /* ItemType - MissileWeapon */
      , (2868913172,  48,         47) /* WeaponSkill - MissileWeapons */
      , (2868913172,  49,         40) /* WeaponTime */
      , (2868913172,  50,          1) /* AmmoType - Arrow */
-     , (2868913172,  51,          2) /* CombatUse - Missle */
+     , (2868913172,  51,          2) /* CombatUse - Missile */
      , (2868913172,  65,        101) /* Placement - Resting */
      , (2868913172,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2868913172, 106,        250) /* ItemSpellcraft */

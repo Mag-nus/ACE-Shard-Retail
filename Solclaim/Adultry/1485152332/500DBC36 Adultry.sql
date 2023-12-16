@@ -36,8 +36,8 @@ VALUES (1343077430,   1,         16) /* ItemType - Creature */
      , (1343077430, 237,          2) /* AugmentationFasterRegen */
      , (1343077430, 238,          5) /* AugmentationIncreasedSpellDuration */
      , (1343077430, 246,          2) /* AugmentationResistanceLightning */
-     , (1343077430, 261,        686) /* CharacterTitleId */
-     , (1343077430, 281,          4) /* Faction1Bits */
+     , (1343077430, 261,        686) /* CharacterTitleId - NoCageCouldHoldMe */
+     , (1343077430, 281,          4) /* Faction1Bits - RadiantBlood */
      , (1343077430, 289,       1001) /* SocietyRankRadblo */
      , (1343077430, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1343077430, 295,          1) /* AugmentationInfusedItemMagic */

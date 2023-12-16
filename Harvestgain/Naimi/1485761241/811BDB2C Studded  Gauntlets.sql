@@ -22,7 +22,7 @@ VALUES (2166086444,   1,          2) /* ItemType - Armor */
      , (2166086444, 115,          0) /* ItemSkillLevelLimit */
      , (2166086444, 131,         52) /* MaterialType - Leather */
      , (2166086444, 171,          6) /* NumTimesTinkered */
-     , (2166086444, 172,          5) /* AppraisalLongDescDecoration */
+     , (2166086444, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2166086444, 177,          2) /* GemCount */
      , (2166086444, 178,         41) /* GemType */;
 

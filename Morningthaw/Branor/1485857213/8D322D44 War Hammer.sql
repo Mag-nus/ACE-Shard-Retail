@@ -22,7 +22,7 @@ VALUES (2368875844,   1,          1) /* ItemType - MeleeWeapon */
      , (2368875844, 159,         45) /* WieldSkillType - LightWeapons */
      , (2368875844, 160,        250) /* WieldDifficulty */
      , (2368875844, 171,          1) /* NumTimesTinkered */
-     , (2368875844, 172,          7) /* AppraisalLongDescDecoration */
+     , (2368875844, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2368875844, 177,          3) /* GemCount */
      , (2368875844, 178,         34) /* GemType */
      , (2368875844, 179,          1) /* ImbuedEffect - CriticalStrike */

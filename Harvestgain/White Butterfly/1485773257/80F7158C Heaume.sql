@@ -23,7 +23,7 @@ VALUES (2163676556,   1,          2) /* ItemType - Armor */
      , (2163676556, 131,         60) /* MaterialType - Gold */
      , (2163676556, 151,          2) /* HookType - Wall */
      , (2163676556, 171,          2) /* NumTimesTinkered */
-     , (2163676556, 176,          6) /* AppraisalItemSkill */;
+     , (2163676556, 176,          6) /* AppraisalItemSkill - MeleeDefense */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (2163676556,   1, False) /* Stuck */

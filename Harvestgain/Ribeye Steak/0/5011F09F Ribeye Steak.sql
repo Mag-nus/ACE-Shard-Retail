@@ -19,7 +19,7 @@ VALUES (1343352991,   1, True ) /* Stuck */
      , (1343352991,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343352991,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1343352991,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1343352991,   1, 'Ribeye Steak') /* Name */;
@@ -36,8 +36,8 @@ VALUES (1343352991,   1,   33561110) /* Setup */
      , (1343352991, 8005,     104643) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343352991, 8040, 2847146010, 88.68805, 24.90984, 94.006, -0.05863171, 0, 0, 0.9982797) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B4001A [88.688050 24.909840 94.006000] -0.058632 0.000000 0.000000 0.998280 */;
+VALUES (1343352991, 8040, 2847146010, 88.68805, 24.909838, 94.006004, -0.058631707, 0, 0, 0.9982797) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B4001A [88.688049 24.909838 94.006004] -0.058632 0.000000 0.000000 0.998280 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343352991,  26, 1342386738) /* Monarch */

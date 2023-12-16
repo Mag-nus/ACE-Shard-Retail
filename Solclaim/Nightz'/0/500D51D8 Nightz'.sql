@@ -15,9 +15,9 @@ VALUES (1343050200,   1,         16) /* ItemType - Creature */
      , (1343050200, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343050200, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343050200, 188,          4) /* HeritageGroup - Viamontian */
-     , (1343050200, 261,        451) /* CharacterTitleId */
+     , (1343050200, 261,        451) /* CharacterTitleId - Fearless */
      , (1343050200, 262,        106) /* NumCharacterTitles */
-     , (1343050200, 281,          2) /* Faction1Bits */
+     , (1343050200, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1343050200, 288,       1001) /* SocietyRankEldweb */
      , (1343050200, 307,         31) /* DamageRating */
      , (1343050200, 308,         20) /* DamageResistRating */
@@ -62,10 +62,10 @@ VALUES (1343050200,   1,   33554433) /* Setup */
      , (1343050200, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343050200, 1, 2103705619, 67.8684, 65.04777, 12.005, -0.7564663, 0, 0, -0.6540326) /* Location */
-/* @teleloc 0x7D640013 [67.868400 65.047770 12.005000] -0.756466 0.000000 0.000000 -0.654033 */
-     , (1343050200, 8040, 2070282301, 170.2987, 114.7711, 11.81344, -0.5536515, 0, 0, 0.8327485) /* PCAPRecordedLocation */
-/* @teleloc 0x7B66003D [170.298700 114.771100 11.813440] -0.553652 0.000000 0.000000 0.832749 */;
+VALUES (1343050200, 1, 2103705619, 67.8684, 65.04777, 12.004999, -0.7564663, 0, 0, -0.65403265) /* Location */
+/* @teleloc 0x7D640013 [67.868401 65.047768 12.004999] -0.756466 0.000000 0.000000 -0.654033 */
+     , (1343050200, 8040, 2070282301, 170.29869, 114.771095, 11.813442, -0.55365145, 0, 0, 0.83274853) /* PCAPRecordedLocation */
+/* @teleloc 0x7B66003D [170.298691 114.771095 11.813442] -0.553651 0.000000 0.000000 0.832749 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343050200,  26, 1342195194) /* Monarch */

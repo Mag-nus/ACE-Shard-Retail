@@ -24,8 +24,8 @@ VALUES (3711056846,   1,          2) /* ItemType - Armor */
      , (3711056846, 158,          7) /* WieldRequirements - Level */
      , (3711056846, 159,          1) /* WieldSkillType - Axe */
      , (3711056846, 160,        180) /* WieldDifficulty */
-     , (3711056846, 172,          1) /* AppraisalLongDescDecoration */
-     , (3711056846, 176,          6) /* AppraisalItemSkill */
+     , (3711056846, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (3711056846, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (3711056846, 265,         17) /* EquipmentSetId - Tinkers */
      , (3711056846, 375,          1) /* GearCritDamageResist */;
 

@@ -15,7 +15,7 @@ VALUES (1342937339,   1,         16) /* ItemType - Creature */
      , (1342937339, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1342937339, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342937339, 188,          2) /* HeritageGroup - Gharundim */
-     , (1342937339, 261,         81) /* CharacterTitleId */
+     , (1342937339, 261,         81) /* CharacterTitleId - Kingslayer */
      , (1342937339, 390,          0) /* Enlightenment */
      , (1342937339, 8007,          1) /* PCAPRecordedAutonomousMovement */;
 
@@ -52,10 +52,10 @@ VALUES (1342937339,   1,   33554433) /* Setup */
      , (1342937339, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1342937339, 1, 3332964371, 60.60414, 70.69975, 42.005, -0.7618902, 0, 0, 0.6477063) /* Location */
-/* @teleloc 0xC6A90013 [60.604140 70.699750 42.005000] -0.761890 0.000000 0.000000 0.647706 */
-     , (1342937339, 8040, 3332964361, 47.41901, 0.3013, 42.005, -0.999769, 0, 0, -0.02149305) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A90009 [47.419010 0.301300 42.005000] -0.999769 0.000000 0.000000 -0.021493 */;
+VALUES (1342937339, 1, 3332964371, 60.60414, 70.699745, 42.005, -0.7618902, 0, 0, 0.6477063) /* Location */
+/* @teleloc 0xC6A90013 [60.604141 70.699745 42.005001] -0.761890 0.000000 0.000000 0.647706 */
+     , (1342937339, 8040, 3332964361, 47.419006, 0.30130005, 42.005, -0.999769, 0, 0, -0.021493053) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A90009 [47.419006 0.301300 42.005001] -0.999769 0.000000 0.000000 -0.021493 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1342937339,  26, 1342937333) /* Monarch */

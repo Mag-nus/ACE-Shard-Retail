@@ -17,7 +17,7 @@ VALUES (1343494006,   1,         16) /* ItemType - Creature */
      , (1343494006, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343494006, 134,          4) /* PlayerKillerStatus - PK */
      , (1343494006, 188,         13) /* HeritageGroup - OlthoiAcid */
-     , (1343494006, 261,        712) /* CharacterTitleId */
+     , (1343494006, 261,        712) /* CharacterTitleId - AcidSpitter */
      , (1343494006, 307,          5) /* DamageRating */
      , (1343494006, 308,          0) /* DamageResistRating */
      , (1343494006, 312,          0) /* HealOverTime */

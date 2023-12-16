@@ -8,7 +8,7 @@ VALUES (2556934272,   1,        256) /* ItemType - MissileWeapon */
      , (2556934272,  16,          1) /* ItemUseable - No */
      , (2556934272,  19,       7048) /* Value */
      , (2556934272,  50,          2) /* AmmoType - Bolt */
-     , (2556934272,  51,          2) /* CombatUse - Missle */
+     , (2556934272,  51,          2) /* CombatUse - Missile */
      , (2556934272,  65,        101) /* Placement - Resting */
      , (2556934272,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2556934272, 131,         47) /* MaterialType - WhiteSapphire */

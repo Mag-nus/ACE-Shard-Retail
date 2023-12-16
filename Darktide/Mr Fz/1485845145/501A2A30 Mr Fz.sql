@@ -38,9 +38,9 @@ VALUES (1343892016,   1,         16) /* ItemType - Creature */
      , (1343892016, 234,          1) /* AugmentationBonusXp */
      , (1343892016, 235,          4) /* AugmentationBonusSalvage */
      , (1343892016, 238,          5) /* AugmentationIncreasedSpellDuration */
-     , (1343892016, 261,         61) /* CharacterTitleId */
+     , (1343892016, 261,         61) /* CharacterTitleId - GoldenGod */
      , (1343892016, 262,        121) /* NumCharacterTitles */
-     , (1343892016, 281,          2) /* Faction1Bits */
+     , (1343892016, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1343892016, 288,       1001) /* SocietyRankEldweb */
      , (1343892016, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1343892016, 295,          1) /* AugmentationInfusedItemMagic */

@@ -23,7 +23,7 @@ VALUES (2624418209,   1,          4) /* ItemType - Clothing */
      , (2624418209, 131,          5) /* MaterialType - Satin */
      , (2624418209, 151,          2) /* HookType - Wall */
      , (2624418209, 171,          5) /* NumTimesTinkered */
-     , (2624418209, 172,          7) /* AppraisalLongDescDecoration */
+     , (2624418209, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2624418209, 177,          3) /* GemCount */
      , (2624418209, 178,         16) /* GemType */
      , (2624418209, 188,          2) /* HeritageGroup - Gharundim */;

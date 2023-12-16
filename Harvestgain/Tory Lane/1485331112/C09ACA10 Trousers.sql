@@ -21,7 +21,7 @@ VALUES (3231369744,   1,          4) /* ItemType - Clothing */
      , (3231369744, 110,          0) /* ItemAllegianceRankLimit */
      , (3231369744, 115,          0) /* ItemSkillLevelLimit */
      , (3231369744, 131,          7) /* MaterialType - Velvet */
-     , (3231369744, 172,          3) /* AppraisalLongDescDecoration */
+     , (3231369744, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (3231369744, 188,          4) /* HeritageGroup - Viamontian */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

@@ -25,8 +25,8 @@ VALUES (2622663689,   1,          2) /* ItemType - Armor */
      , (2622663689, 159,          1) /* WieldSkillType - Axe */
      , (2622663689, 160,        180) /* WieldDifficulty */
      , (2622663689, 171,         10) /* NumTimesTinkered */
-     , (2622663689, 172,          1) /* AppraisalLongDescDecoration */
-     , (2622663689, 176,          7) /* AppraisalItemSkill */
+     , (2622663689, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (2622663689, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (2622663689, 265,         19) /* EquipmentSetId - Hearty */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

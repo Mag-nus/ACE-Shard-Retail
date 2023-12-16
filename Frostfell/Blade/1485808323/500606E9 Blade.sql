@@ -25,7 +25,7 @@ VALUES (1342572265,   1,         16) /* ItemType - Creature */
      , (1342572265, 139,         53) /* DeathLevel */
      , (1342572265, 188,          2) /* HeritageGroup - Gharundim */
      , (1342572265, 199, 1432842474) /* HousePurchaseTimestamp */
-     , (1342572265, 261,        772) /* CharacterTitleId */
+     , (1342572265, 261,        772) /* CharacterTitleId - ParagonofNewAluvia */
      , (1342572265, 262,         21) /* NumCharacterTitles */
      , (1342572265, 307,          5) /* DamageRating */
      , (1342572265, 308,          0) /* DamageResistRating */

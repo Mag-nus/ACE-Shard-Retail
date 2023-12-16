@@ -24,7 +24,7 @@ VALUES (1342925278,   1,         16) /* ItemType - Creature */
      , (1342925278, 139,         11) /* DeathLevel */
      , (1342925278, 188,          3) /* HeritageGroup - Sho */
      , (1342925278, 199,          0) /* HousePurchaseTimestamp */
-     , (1342925278, 261,         18) /* CharacterTitleId */
+     , (1342925278, 261,         18) /* CharacterTitleId - Apothecary */
      , (1342925278, 307,          0) /* DamageRating */
      , (1342925278, 308,          0) /* DamageResistRating */
      , (1342925278, 312,          0) /* HealOverTime */

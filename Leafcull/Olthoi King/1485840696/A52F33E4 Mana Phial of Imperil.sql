@@ -13,7 +13,7 @@ VALUES (2771334116,   1,        256) /* ItemType - MissileWeapon */
      , (2771334116,  45,          4) /* DamageType - Bludgeon */
      , (2771334116,  48,         47) /* WeaponSkill - MissileWeapons */
      , (2771334116,  49,          0) /* WeaponTime */
-     , (2771334116,  51,          2) /* CombatUse - Missle */
+     , (2771334116,  51,          2) /* CombatUse - Missile */
      , (2771334116,  65,        101) /* Placement - Resting */
      , (2771334116,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (2771334116, 106,        520) /* ItemSpellcraft */

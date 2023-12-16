@@ -18,7 +18,7 @@ VALUES (3583140300,   1,          4) /* ItemType - Clothing */
      , (3583140300, 158,          7) /* WieldRequirements - Level */
      , (3583140300, 159,          1) /* WieldSkillType - Axe */
      , (3583140300, 160,         60) /* WieldDifficulty */
-     , (3583140300, 172,          1) /* AppraisalLongDescDecoration */
+     , (3583140300, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (3583140300, 265,         56) /* EquipmentSetId - CloakCreatureEnchantment */
      , (3583140300, 319,          2) /* ItemMaxLevel */
      , (3583140300, 320,          2) /* ItemXpStyle - ScalesWithLevel */

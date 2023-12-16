@@ -14,7 +14,7 @@ VALUES (3621362640,   1,      32768) /* ItemType - Caster */
      , (3621362640, 131,         68) /* MaterialType - Marble */
      , (3621362640, 151,          2) /* HookType - Wall */
      , (3621362640, 171,          5) /* NumTimesTinkered */
-     , (3621362640, 172,          7) /* AppraisalLongDescDecoration */
+     , (3621362640, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3621362640, 177,          4) /* GemCount */
      , (3621362640, 178,         29) /* GemType */
      , (3621362640, 179,        256) /* ImbuedEffect - ElectricRending */

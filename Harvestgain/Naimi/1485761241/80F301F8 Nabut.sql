@@ -30,8 +30,8 @@ VALUES (2163409400,   1,          1) /* ItemType - MeleeWeapon */
      , (2163409400, 159,         44) /* WieldSkillType - HeavyWeapons */
      , (2163409400, 160,        300) /* WieldDifficulty */
      , (2163409400, 171,          1) /* NumTimesTinkered */
-     , (2163409400, 172,          1) /* AppraisalLongDescDecoration */
-     , (2163409400, 176,         44) /* AppraisalItemSkill */
+     , (2163409400, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (2163409400, 176,         44) /* AppraisalItemSkill - HeavyWeapons */
      , (2163409400, 179,         32) /* ImbuedEffect - BludgeonRending */
      , (2163409400, 353,          7) /* WeaponType - Staff */
      , (2163409400, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */;

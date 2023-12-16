@@ -31,7 +31,7 @@ VALUES (1343047950,   1,         16) /* ItemType - Creature */
      , (1343047950, 229,          1) /* AugmentationExtraPackSlot */
      , (1343047950, 230,          2) /* AugmentationIncreasedCarryingCapacity */
      , (1343047950, 238,          5) /* AugmentationIncreasedSpellDuration */
-     , (1343047950, 261,         69) /* CharacterTitleId */
+     , (1343047950, 261,         69) /* CharacterTitleId - HeroofSilyun */
      , (1343047950, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1343047950, 295,          1) /* AugmentationInfusedItemMagic */
      , (1343047950, 296,          1) /* AugmentationInfusedLifeMagic */

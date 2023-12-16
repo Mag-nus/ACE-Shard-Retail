@@ -24,7 +24,7 @@ VALUES (1342191277,   1,         16) /* ItemType - Creature */
      , (1342191277, 134,          2) /* PlayerKillerStatus - NPK */
      , (1342191277, 139,          9) /* DeathLevel */
      , (1342191277, 188,          2) /* HeritageGroup - Gharundim */
-     , (1342191277, 261,          1) /* CharacterTitleId */
+     , (1342191277, 261,          1) /* CharacterTitleId - Adventurer */
      , (1342191277, 307,          5) /* DamageRating */
      , (1342191277, 308,          0) /* DamageResistRating */
      , (1342191277, 312,          0) /* HealOverTime */

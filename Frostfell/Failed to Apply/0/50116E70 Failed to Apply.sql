@@ -15,8 +15,8 @@ VALUES (1343319664,   1,         16) /* ItemType - Creature */
      , (1343319664, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343319664, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343319664, 188,         10) /* HeritageGroup - Penumbraen */
-     , (1343319664, 261,        651) /* CharacterTitleId */
-     , (1343319664, 281,          2) /* Faction1Bits */
+     , (1343319664, 261,        651) /* CharacterTitleId - Gifted */
+     , (1343319664, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1343319664, 288,       1001) /* SocietyRankEldweb */
      , (1343319664, 307,         12) /* DamageRating */
      , (1343319664, 308,          8) /* DamageResistRating */
@@ -58,10 +58,10 @@ VALUES (1343319664,   1,   33560942) /* Setup */
      , (1343319664, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343319664, 1, 23855554, 55.20797, -28.9912, 0.004999995, -0.779997, 0, 0, 0.6257833) /* Location */
-/* @teleloc 0x016C01C2 [55.207970 -28.991200 0.005000] -0.779997 0.000000 0.000000 0.625783 */
-     , (1343319664, 8040, 23855554, 58.66706, -28.87494, 0.004999995, 0.5976516, 0, 0, -0.801756) /* PCAPRecordedLocation */
-/* @teleloc 0x016C01C2 [58.667060 -28.874940 0.005000] 0.597652 0.000000 0.000000 -0.801756 */;
+VALUES (1343319664, 1, 23855554, 55.20797, -28.9912, 0.004999995, -0.779997, 0, 0, 0.62578326) /* Location */
+/* @teleloc 0x016C01C2 [55.207970 -28.991199 0.005000] -0.779997 0.000000 0.000000 0.625783 */
+     , (1343319664, 8040, 23855554, 58.667057, -28.874943, 0.004999995, 0.5976516, 0, 0, -0.80175596) /* PCAPRecordedLocation */
+/* @teleloc 0x016C01C2 [58.667057 -28.874943 0.005000] 0.597652 0.000000 0.000000 -0.801756 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343319664,  26, 1342972300) /* Monarch */

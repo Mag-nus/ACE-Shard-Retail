@@ -8,7 +8,7 @@ VALUES (3627346832,   1,        256) /* ItemType - MissileWeapon */
      , (3627346832,  16,          1) /* ItemUseable - No */
      , (3627346832,  18,          1) /* UiEffects - Magical */
      , (3627346832,  19,      15402) /* Value */
-     , (3627346832,  51,          2) /* CombatUse - Missle */
+     , (3627346832,  51,          2) /* CombatUse - Missile */
      , (3627346832,  65,        101) /* Placement - Resting */
      , (3627346832,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (3627346832, 131,         71) /* MaterialType - Serpentine */

@@ -19,7 +19,7 @@ VALUES (2902864763,   1,          8) /* ItemType - Jewelry */
      , (2902864763, 110,          0) /* ItemAllegianceRankLimit */
      , (2902864763, 115,          0) /* ItemSkillLevelLimit */
      , (2902864763, 131,         14) /* MaterialType - Azurite */
-     , (2902864763, 172,          5) /* AppraisalLongDescDecoration */
+     , (2902864763, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
      , (2902864763, 177,          1) /* GemCount */
      , (2902864763, 178,         24) /* GemType */;
 

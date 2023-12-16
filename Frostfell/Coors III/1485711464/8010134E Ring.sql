@@ -23,7 +23,7 @@ VALUES (2148537166,   1,          8) /* ItemType - Jewelry */
      , (2148537166, 159,          1) /* WieldSkillType - Axe */
      , (2148537166, 160,        180) /* WieldDifficulty */
      , (2148537166, 171,          1) /* NumTimesTinkered */
-     , (2148537166, 172,          1) /* AppraisalLongDescDecoration */
+     , (2148537166, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (2148537166, 179,       8192) /* ImbuedEffect - Spellbook */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

@@ -28,8 +28,8 @@ VALUES (2273377713,   1,          1) /* ItemType - MeleeWeapon */
      , (2273377713, 158,          2) /* WieldRequirements - RawSkill */
      , (2273377713, 159,         41) /* WieldSkillType - TwoHandedCombat */
      , (2273377713, 160,        300) /* WieldDifficulty */
-     , (2273377713, 172,          5) /* AppraisalLongDescDecoration */
-     , (2273377713, 176,         41) /* AppraisalItemSkill */
+     , (2273377713, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
+     , (2273377713, 176,         41) /* AppraisalItemSkill - TwoHandedCombat */
      , (2273377713, 177,          4) /* GemCount */
      , (2273377713, 178,         48) /* GemType */
      , (2273377713, 292,          2) /* Cleaving */

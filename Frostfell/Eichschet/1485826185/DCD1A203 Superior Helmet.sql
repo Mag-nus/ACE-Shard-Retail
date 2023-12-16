@@ -18,7 +18,7 @@ VALUES (3704726019,   1,          2) /* ItemType - Armor */
      , (3704726019, 109,         57) /* ItemDifficulty */
      , (3704726019, 115,        153) /* ItemSkillLevelLimit */
      , (3704726019, 151,          2) /* HookType - Wall */
-     , (3704726019, 176,          6) /* AppraisalItemSkill */
+     , (3704726019, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (3704726019, 9015,          4) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

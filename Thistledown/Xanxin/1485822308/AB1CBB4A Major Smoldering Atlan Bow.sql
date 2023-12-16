@@ -15,7 +15,7 @@ VALUES (2870786890,   1,        256) /* ItemType - MissileWeapon */
      , (2870786890,  48,         47) /* WeaponSkill - MissileWeapons */
      , (2870786890,  49,          0) /* WeaponTime */
      , (2870786890,  50,          1) /* AmmoType - Arrow */
-     , (2870786890,  51,          2) /* CombatUse - Missle */
+     , (2870786890,  51,          2) /* CombatUse - Missile */
      , (2870786890,  65,          3) /* Placement - LeftHand */
      , (2870786890,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2870786890, 106,        300) /* ItemSpellcraft */
@@ -28,7 +28,7 @@ VALUES (2870786890,   1,        256) /* ItemType - MissileWeapon */
      , (2870786890, 159,         47) /* WieldSkillType - MissileWeapons */
      , (2870786890, 160,        315) /* WieldDifficulty */
      , (2870786890, 204,          3) /* ElementalDamageBonus */
-     , (2870786890, 263,         16) /* ResistanceModifierType */
+     , (2870786890, 263,         16) /* ResistanceModifierType - Fire */
      , (2870786890, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

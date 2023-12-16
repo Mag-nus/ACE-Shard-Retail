@@ -13,7 +13,7 @@ VALUES (3711056181,   1,        256) /* ItemType - MissileWeapon */
      , (3711056181,  48,         47) /* WeaponSkill - MissileWeapons */
      , (3711056181,  49,        103) /* WeaponTime */
      , (3711056181,  50,          2) /* AmmoType - Bolt */
-     , (3711056181,  51,          2) /* CombatUse - Missle */
+     , (3711056181,  51,          2) /* CombatUse - Missile */
      , (3711056181,  65,        101) /* Placement - Resting */
      , (3711056181,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3711056181, 105,          7) /* ItemWorkmanship */
@@ -28,8 +28,8 @@ VALUES (3711056181,   1,        256) /* ItemType - MissileWeapon */
      , (3711056181, 158,          2) /* WieldRequirements - RawSkill */
      , (3711056181, 159,         47) /* WieldSkillType - MissileWeapons */
      , (3711056181, 160,        360) /* WieldDifficulty */
-     , (3711056181, 172,          7) /* AppraisalLongDescDecoration */
-     , (3711056181, 176,         47) /* AppraisalItemSkill */
+     , (3711056181, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (3711056181, 176,         47) /* AppraisalItemSkill - MissileWeapons */
      , (3711056181, 177,          2) /* GemCount */
      , (3711056181, 178,         22) /* GemType */
      , (3711056181, 188,          2) /* HeritageGroup - Gharundim */

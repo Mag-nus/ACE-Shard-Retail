@@ -9,7 +9,7 @@ VALUES (2158714472,   1,        256) /* ItemType - MissileWeapon */
      , (2158714472,  18,        512) /* UiEffects - Bludgeoning */
      , (2158714472,  19,      12303) /* Value */
      , (2158714472,  50,          2) /* AmmoType - Bolt */
-     , (2158714472,  51,          2) /* CombatUse - Missle */
+     , (2158714472,  51,          2) /* CombatUse - Missile */
      , (2158714472,  65,        101) /* Placement - Resting */
      , (2158714472,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2158714472, 131,         60) /* MaterialType - Gold */

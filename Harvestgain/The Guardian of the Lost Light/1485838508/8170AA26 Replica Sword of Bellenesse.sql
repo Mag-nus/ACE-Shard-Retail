@@ -27,7 +27,7 @@ VALUES (2171644454,   1,          1) /* ItemType - MeleeWeapon */
      , (2171644454, 159,         45) /* WieldSkillType - LightWeapons */
      , (2171644454, 160,        370) /* WieldDifficulty */
      , (2171644454, 166,         83) /* SlayerCreatureType - ViamontianKnight */
-     , (2171644454, 176,          6) /* AppraisalItemSkill */
+     , (2171644454, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (2171644454, 353,          2) /* WeaponType - Sword */
      , (2171644454, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (2171644454, 9015,          7) /* InventoryOrder */;

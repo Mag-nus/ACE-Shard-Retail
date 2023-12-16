@@ -21,8 +21,8 @@ VALUES (2166154552,   1,          4) /* ItemType - Clothing */
      , (2166154552, 115,        207) /* ItemSkillLevelLimit */
      , (2166154552, 131,         55) /* MaterialType - ReedSharkHide */
      , (2166154552, 151,          2) /* HookType - Wall */
-     , (2166154552, 172,          5) /* AppraisalLongDescDecoration */
-     , (2166154552, 176,          7) /* AppraisalItemSkill */
+     , (2166154552, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
+     , (2166154552, 176,          7) /* AppraisalItemSkill - MissileDefense */
      , (2166154552, 177,          1) /* GemCount */
      , (2166154552, 178,         21) /* GemType */
      , (2166154552, 9015,         60) /* InventoryOrder */;

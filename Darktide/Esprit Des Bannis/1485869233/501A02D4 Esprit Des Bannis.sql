@@ -35,8 +35,8 @@ VALUES (1343881940,   1,         16) /* ItemType - Creature */
      , (1343881940, 238,          5) /* AugmentationIncreasedSpellDuration */
      , (1343881940, 244,          1) /* AugmentationResistanceFire */
      , (1343881940, 246,          1) /* AugmentationResistanceLightning */
-     , (1343881940, 261,        559) /* CharacterTitleId */
-     , (1343881940, 281,          2) /* Faction1Bits */
+     , (1343881940, 261,        559) /* CharacterTitleId - ProtectorofthePast */
+     , (1343881940, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1343881940, 288,       1001) /* SocietyRankEldweb */
      , (1343881940, 294,          1) /* AugmentationInfusedCreatureMagic */
      , (1343881940, 295,          1) /* AugmentationInfusedItemMagic */

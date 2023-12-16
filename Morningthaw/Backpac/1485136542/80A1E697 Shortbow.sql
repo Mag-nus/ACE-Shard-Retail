@@ -13,7 +13,7 @@ VALUES (2158093975,   1,        256) /* ItemType - MissileWeapon */
      , (2158093975,  48,         47) /* WeaponSkill - MissileWeapons */
      , (2158093975,  49,         35) /* WeaponTime */
      , (2158093975,  50,          1) /* AmmoType - Arrow */
-     , (2158093975,  51,          2) /* CombatUse - Missle */
+     , (2158093975,  51,          2) /* CombatUse - Missile */
      , (2158093975,  65,        101) /* Placement - Resting */
      , (2158093975,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2158093975, 105,          7) /* ItemWorkmanship */
@@ -28,8 +28,8 @@ VALUES (2158093975,   1,        256) /* ItemType - MissileWeapon */
      , (2158093975, 158,          2) /* WieldRequirements - RawSkill */
      , (2158093975, 159,         47) /* WieldSkillType - MissileWeapons */
      , (2158093975, 160,        270) /* WieldDifficulty */
-     , (2158093975, 172,          3) /* AppraisalLongDescDecoration */
-     , (2158093975, 176,         47) /* AppraisalItemSkill */
+     , (2158093975, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (2158093975, 176,         47) /* AppraisalItemSkill - MissileWeapons */
      , (2158093975, 353,          8) /* WeaponType - Bow */
      , (2158093975, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (2158093975, 9015,          4) /* InventoryOrder */;

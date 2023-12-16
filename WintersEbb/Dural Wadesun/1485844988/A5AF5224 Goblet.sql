@@ -7,7 +7,7 @@ VALUES (2779730468,   1,        256) /* ItemType - MissileWeapon */
      , (2779730468,   9,    4194304) /* ValidLocations - MissileWeapon */
      , (2779730468,  16,          1) /* ItemUseable - No */
      , (2779730468,  19,      10103) /* Value */
-     , (2779730468,  51,          2) /* CombatUse - Missle */
+     , (2779730468,  51,          2) /* CombatUse - Missile */
      , (2779730468,  65,        101) /* Placement - Resting */
      , (2779730468,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (2779730468, 131,         34) /* MaterialType - Peridot */

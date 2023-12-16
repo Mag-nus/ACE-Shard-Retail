@@ -21,7 +21,7 @@ VALUES (2152182105,   1,          2) /* ItemType - Armor */
      , (2152182105, 115,          0) /* ItemSkillLevelLimit */
      , (2152182105, 131,         53) /* MaterialType - ArmoredilloHide */
      , (2152182105, 171,          4) /* NumTimesTinkered */
-     , (2152182105, 172,          7) /* AppraisalLongDescDecoration */
+     , (2152182105, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2152182105, 177,          4) /* GemCount */
      , (2152182105, 178,         13) /* GemType */
      , (2152182105, 188,          3) /* HeritageGroup - Sho */

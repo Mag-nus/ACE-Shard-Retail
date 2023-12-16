@@ -29,8 +29,8 @@ VALUES (2624395229,   1,          1) /* ItemType - MeleeWeapon */
      , (2624395229, 159,         44) /* WieldSkillType - HeavyWeapons */
      , (2624395229, 160,        325) /* WieldDifficulty */
      , (2624395229, 171,          6) /* NumTimesTinkered */
-     , (2624395229, 172,          7) /* AppraisalLongDescDecoration */
-     , (2624395229, 176,         44) /* AppraisalItemSkill */
+     , (2624395229, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
+     , (2624395229, 176,         44) /* AppraisalItemSkill - HeavyWeapons */
      , (2624395229, 177,          6) /* GemCount */
      , (2624395229, 178,         34) /* GemType */
      , (2624395229, 179,        128) /* ImbuedEffect - ColdRending */

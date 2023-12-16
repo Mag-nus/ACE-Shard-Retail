@@ -9,7 +9,7 @@ VALUES (3343602597,   1,        256) /* ItemType - MissileWeapon */
      , (3343602597,  18,         33) /* UiEffects - Magical, Fire */
      , (3343602597,  19,      13943) /* Value */
      , (3343602597,  50,          2) /* AmmoType - Bolt */
-     , (3343602597,  51,          2) /* CombatUse - Missle */
+     , (3343602597,  51,          2) /* CombatUse - Missile */
      , (3343602597,  65,        101) /* Placement - Resting */
      , (3343602597,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (3343602597, 131,         34) /* MaterialType - Peridot */

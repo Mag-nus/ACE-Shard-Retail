@@ -15,8 +15,8 @@ VALUES (1343204735,   1,         16) /* ItemType - Creature */
      , (1343204735, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343204735, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343204735, 188,          5) /* HeritageGroup - Shadowbound */
-     , (1343204735, 261,        888) /* CharacterTitleId */
-     , (1343204735, 281,          4) /* Faction1Bits */
+     , (1343204735, 261,        888) /* CharacterTitleId - TitanSlayer */
+     , (1343204735, 281,          4) /* Faction1Bits - RadiantBlood */
      , (1343204735, 289,       1001) /* SocietyRankRadblo */
      , (1343204735, 307,         47) /* DamageRating */
      , (1343204735, 308,         19) /* DamageResistRating */
@@ -61,8 +61,8 @@ VALUES (1343204735,   1,   33560944) /* Setup */
      , (1343204735, 8005,     104515) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343204735, 1, 19398927, 27.54304, -37.12871, 4.304718, 1, 0, 0, 0) /* Location */
-/* @teleloc 0x0128010F [27.543040 -37.128710 4.304718] 1.000000 0.000000 0.000000 0.000000 */
+VALUES (1343204735, 1, 19398927, 27.543036, -37.12871, 4.3047185, 1, 0, 0, 0) /* Location */
+/* @teleloc 0x0128010F [27.543036 -37.128712 4.304718] 1.000000 0.000000 0.000000 0.000000 */
      , (1343204735, 8040, 19398950, 30, -60, 6.005, 1, 0, 0, 0) /* PCAPRecordedLocation */
 /* @teleloc 0x01280126 [30.000000 -60.000000 6.005000] 1.000000 0.000000 0.000000 0.000000 */;
 

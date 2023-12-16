@@ -21,7 +21,7 @@ VALUES (1343357223,   1,         16) /* ItemType - Creature */
      , (1343357223, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343357223, 188,         10) /* HeritageGroup - Penumbraen */
      , (1343357223, 199, 1479371036) /* HousePurchaseTimestamp */
-     , (1343357223, 261,         11) /* CharacterTitleId */
+     , (1343357223, 261,         11) /* CharacterTitleId - Soldier */
      , (1343357223, 298,          1) /* AugmentationCriticalExpertise */
      , (1343357223, 307,          5) /* DamageRating */
      , (1343357223, 308,          0) /* DamageResistRating */

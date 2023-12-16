@@ -20,7 +20,7 @@ VALUES (3628578415,   1,      32768) /* ItemType - Caster */
      , (3628578415, 115,          0) /* ItemSkillLevelLimit */
      , (3628578415, 131,         67) /* MaterialType - Granite */
      , (3628578415, 151,          2) /* HookType - Wall */
-     , (3628578415, 172,          1) /* AppraisalLongDescDecoration */
+     , (3628578415, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (3628578415, 9015,         32) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)

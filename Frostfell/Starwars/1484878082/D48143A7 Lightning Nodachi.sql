@@ -31,12 +31,12 @@ VALUES (3565241255,   1,          1) /* ItemType - MeleeWeapon */
      , (3565241255, 160,        430) /* WieldDifficulty */
      , (3565241255, 166,         30) /* SlayerCreatureType - Skeleton */
      , (3565241255, 171,         10) /* NumTimesTinkered */
-     , (3565241255, 172,          5) /* AppraisalLongDescDecoration */
-     , (3565241255, 176,         41) /* AppraisalItemSkill */
+     , (3565241255, 172,          5) /* AppraisalLongDescDecoration - PrependWorkmanship, AppendGemInfo */
+     , (3565241255, 176,         41) /* AppraisalItemSkill - TwoHandedCombat */
      , (3565241255, 177,          4) /* GemCount */
      , (3565241255, 178,         20) /* GemType */
      , (3565241255, 179,        256) /* ImbuedEffect - ElectricRending */
-     , (3565241255, 265,        140) /* EquipmentSetId - UNKNOWN_140 */
+     , (3565241255, 265,        140) /* EquipmentSetId - ParagonMelee */
      , (3565241255, 292,          2) /* Cleaving */
      , (3565241255, 319,         50) /* ItemMaxLevel */
      , (3565241255, 320,          1) /* ItemXpStyle - Fixed */

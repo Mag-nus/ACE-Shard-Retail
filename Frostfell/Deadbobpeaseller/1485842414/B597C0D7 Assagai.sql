@@ -19,7 +19,7 @@ VALUES (3046621399,   1,          1) /* ItemType - MeleeWeapon */
      , (3046621399, 105,          2) /* ItemWorkmanship */
      , (3046621399, 131,         76) /* MaterialType - Pine */
      , (3046621399, 151,          2) /* HookType - Wall */
-     , (3046621399, 172,          1) /* AppraisalLongDescDecoration */
+     , (3046621399, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
      , (3046621399, 353,         11) /* WeaponType - TwoHanded */
      , (3046621399, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */;
 

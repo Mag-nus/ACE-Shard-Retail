@@ -28,7 +28,7 @@ VALUES (1342236569,   1,         16) /* ItemType - Creature */
      , (1342236569, 226,          1) /* AugmentationSpecializeArmorTinkering */
      , (1342236569, 228,          1) /* AugmentationSpecializeWeaponTinkering */
      , (1342236569, 236,          1) /* AugmentationBonusImbueChance */
-     , (1342236569, 261,          1) /* CharacterTitleId */
+     , (1342236569, 261,          1) /* CharacterTitleId - Adventurer */
      , (1342236569, 307,          0) /* DamageRating */
      , (1342236569, 308,          0) /* DamageResistRating */
      , (1342236569, 312,          0) /* HealOverTime */

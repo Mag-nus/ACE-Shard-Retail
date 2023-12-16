@@ -14,7 +14,7 @@ VALUES (2147509968,   1,        256) /* ItemType - MissileWeapon */
      , (2147509968,  48,         47) /* WeaponSkill - MissileWeapons */
      , (2147509968,  49,         35) /* WeaponTime */
      , (2147509968,  50,          1) /* AmmoType - Arrow */
-     , (2147509968,  51,          2) /* CombatUse - Missle */
+     , (2147509968,  51,          2) /* CombatUse - Missile */
      , (2147509968,  65,        101) /* Placement - Resting */
      , (2147509968,  93,       3092) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, LightingOn */
      , (2147509968, 106,        475) /* ItemSpellcraft */
@@ -26,7 +26,7 @@ VALUES (2147509968,   1,        256) /* ItemType - MissileWeapon */
      , (2147509968, 159,         47) /* WieldSkillType - MissileWeapons */
      , (2147509968, 160,        360) /* WieldDifficulty */
      , (2147509968, 166,         77) /* SlayerCreatureType - Ghost */
-     , (2147509968, 265,        138) /* EquipmentSetId - UNKNOWN_138 */
+     , (2147509968, 265,        138) /* EquipmentSetId - ParagonMissile */
      , (2147509968, 319,         46) /* ItemMaxLevel */
      , (2147509968, 320,          1) /* ItemXpStyle - Fixed */
      , (2147509968, 353,          8) /* WeaponType - Bow */
@@ -50,13 +50,13 @@ VALUES (2147509968,   1, False) /* Stuck */
      , (2147509968,  99, False) /* Ivoryable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2147509968,   5, -0.0500000007450581) /* ManaRate */
+VALUES (2147509968,   5, -0.05000000074505806) /* ManaRate */
      , (2147509968,  21,       0) /* WeaponLength */
      , (2147509968,  22,       0) /* DamageVariance */
      , (2147509968,  26,    26.3) /* MaximumVelocity */
-     , (2147509968,  29, 1.20000004768372) /* WeaponDefense */
+     , (2147509968,  29, 1.2000000476837158) /* WeaponDefense */
      , (2147509968,  62,       1) /* WeaponOffense */
-     , (2147509968,  63, 2.70000004768372) /* DamageMod */
+     , (2147509968,  63, 2.700000047683716) /* DamageMod */
      , (2147509968,  76, 0.699999988079071) /* Translucency */
      , (2147509968, 136,       1) /* CriticalMultiplier */
      , (2147509968, 155,       1) /* IgnoreArmor */;

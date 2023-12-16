@@ -26,7 +26,7 @@ VALUES (1342808663,   1,         16) /* ItemType - Creature */
      , (1342808663, 188,          3) /* HeritageGroup - Sho */
      , (1342808663, 192,         20) /* FakeFishingSkill */
      , (1342808663, 199, 1462142980) /* HousePurchaseTimestamp */
-     , (1342808663, 261,        125) /* CharacterTitleId */
+     , (1342808663, 261,        125) /* CharacterTitleId - Shredder */
      , (1342808663, 307,          0) /* DamageRating */
      , (1342808663, 308,          0) /* DamageResistRating */
      , (1342808663, 312,          0) /* HealOverTime */

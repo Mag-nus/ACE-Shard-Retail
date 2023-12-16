@@ -12,7 +12,7 @@ VALUES (2240725069,   1,        256) /* ItemType - MissileWeapon */
      , (2240725069,  45,          4) /* DamageType - Bludgeon */
      , (2240725069,  48,         47) /* WeaponSkill - MissileWeapons */
      , (2240725069,  49,         10) /* WeaponTime */
-     , (2240725069,  51,          2) /* CombatUse - Missle */
+     , (2240725069,  51,          2) /* CombatUse - Missile */
      , (2240725069,  65,        101) /* Placement - Resting */
      , (2240725069,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (2240725069, 105,          4) /* ItemWorkmanship */
@@ -24,7 +24,7 @@ VALUES (2240725069,   1,        256) /* ItemType - MissileWeapon */
      , (2240725069, 115,          0) /* ItemSkillLevelLimit */
      , (2240725069, 131,         67) /* MaterialType - Granite */
      , (2240725069, 151,          1) /* HookType - Floor */
-     , (2240725069, 172,          3) /* AppraisalLongDescDecoration */
+     , (2240725069, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
      , (2240725069, 353,         10) /* WeaponType - Thrown */
      , (2240725069, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */
      , (2240725069, 9015,         73) /* InventoryOrder */;

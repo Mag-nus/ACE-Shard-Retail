@@ -27,7 +27,7 @@ VALUES (1342822780,   1,         16) /* ItemType - Creature */
      , (1342822780, 181,       1251) /* ChessRank */
      , (1342822780, 188,          1) /* HeritageGroup - Aluvian */
      , (1342822780, 199, 1378615919) /* HousePurchaseTimestamp */
-     , (1342822780, 261,         31) /* CharacterTitleId */
+     , (1342822780, 261,         31) /* CharacterTitleId - BunnyMaster */
      , (1342822780, 307,          0) /* DamageRating */
      , (1342822780, 308,          0) /* DamageResistRating */
      , (1342822780, 312,          0) /* HealOverTime */

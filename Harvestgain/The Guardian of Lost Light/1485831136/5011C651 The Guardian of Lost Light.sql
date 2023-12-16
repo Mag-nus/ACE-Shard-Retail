@@ -33,8 +33,8 @@ VALUES (1343342161,   1,         16) /* ItemType - Creature */
      , (1343342161, 233,          1) /* AugmentationCriticalDefense */
      , (1343342161, 235,          4) /* AugmentationBonusSalvage */
      , (1343342161, 238,          1) /* AugmentationIncreasedSpellDuration */
-     , (1343342161, 261,        500) /* CharacterTitleId */
-     , (1343342161, 281,          2) /* Faction1Bits */
+     , (1343342161, 261,        500) /* CharacterTitleId - CragstoneMilitia */
+     , (1343342161, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1343342161, 288,         60) /* SocietyRankEldweb */
      , (1343342161, 295,          1) /* AugmentationInfusedItemMagic */
      , (1343342161, 300,          1) /* AugmentationSkilledMelee */

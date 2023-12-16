@@ -21,7 +21,7 @@ VALUES (2165851928,   1,      32768) /* ItemType - Caster */
      , (2165851928, 131,         63) /* MaterialType - Silver */
      , (2165851928, 151,          2) /* HookType - Wall */
      , (2165851928, 171,          1) /* NumTimesTinkered */
-     , (2165851928, 172,          7) /* AppraisalLongDescDecoration */
+     , (2165851928, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (2165851928, 177,          1) /* GemCount */
      , (2165851928, 178,         26) /* GemType */
      , (2165851928, 179,          2) /* ImbuedEffect - CripplingBlow */

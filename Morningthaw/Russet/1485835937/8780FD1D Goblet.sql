@@ -7,7 +7,7 @@ VALUES (2273377565,   1,        256) /* ItemType - MissileWeapon */
      , (2273377565,   9,    4194304) /* ValidLocations - MissileWeapon */
      , (2273377565,  16,          1) /* ItemUseable - No */
      , (2273377565,  19,        554) /* Value */
-     , (2273377565,  51,          2) /* CombatUse - Missle */
+     , (2273377565,  51,          2) /* CombatUse - Missile */
      , (2273377565,  65,        101) /* Placement - Resting */
      , (2273377565,  93,     132116) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, Inelastic */
      , (2273377565, 131,         68) /* MaterialType - Marble */

@@ -28,8 +28,8 @@ VALUES (1343290911,   1,         16) /* ItemType - Creature */
      , (1343290911, 199, 1271807979) /* HousePurchaseTimestamp */
      , (1343290911, 231,          3) /* AugmentationLessDeathItemLoss */
      , (1343290911, 232,          1) /* AugmentationSpellsRemainPastDeath */
-     , (1343290911, 261,          1) /* CharacterTitleId */
-     , (1343290911, 281,          2) /* Faction1Bits */
+     , (1343290911, 261,          1) /* CharacterTitleId - Adventurer */
+     , (1343290911, 281,          2) /* Faction1Bits - EldrytchWeb */
      , (1343290911, 288,          1) /* SocietyRankEldweb */
      , (1343290911, 307,          0) /* DamageRating */
      , (1343290911, 308,          0) /* DamageResistRating */

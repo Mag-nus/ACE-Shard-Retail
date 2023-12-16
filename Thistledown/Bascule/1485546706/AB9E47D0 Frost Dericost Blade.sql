@@ -25,8 +25,8 @@ VALUES (2879277008,   1,          1) /* ItemType - MeleeWeapon */
      , (2879277008, 115,         68) /* ItemSkillLevelLimit */
      , (2879277008, 131,         64) /* MaterialType - Steel */
      , (2879277008, 151,          2) /* HookType - Wall */
-     , (2879277008, 172,          3) /* AppraisalLongDescDecoration */
-     , (2879277008, 176,         44) /* AppraisalItemSkill */
+     , (2879277008, 172,          3) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial */
+     , (2879277008, 176,         44) /* AppraisalItemSkill - HeavyWeapons */
      , (2879277008, 188,          3) /* HeritageGroup - Sho */
      , (2879277008, 353,          2) /* WeaponType - Sword */
      , (2879277008, 8030,          0) /* PCAPRecordedMaxVelocityEstimated */

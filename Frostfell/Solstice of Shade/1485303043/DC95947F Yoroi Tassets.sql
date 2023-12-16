@@ -25,8 +25,8 @@ VALUES (3700790399,   1,          2) /* ItemType - Armor */
      , (3700790399, 159,          1) /* WieldSkillType - Axe */
      , (3700790399, 160,        180) /* WieldDifficulty */
      , (3700790399, 171,         10) /* NumTimesTinkered */
-     , (3700790399, 172,          1) /* AppraisalLongDescDecoration */
-     , (3700790399, 176,          6) /* AppraisalItemSkill */
+     , (3700790399, 172,          1) /* AppraisalLongDescDecoration - PrependWorkmanship */
+     , (3700790399, 176,          6) /* AppraisalItemSkill - MeleeDefense */
      , (3700790399, 265,         14) /* EquipmentSetId - Adepts */
      , (3700790399, 374,          1) /* GearCritDamage */
      , (3700790399, 379,          1) /* GearMaxHealth */;

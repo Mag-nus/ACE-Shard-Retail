@@ -16,7 +16,7 @@ VALUES (1343256141,   1,         16) /* ItemType - Creature */
      , (1343256141, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343256141, 134,          2) /* PlayerKillerStatus - NPK */
      , (1343256141, 188,          3) /* HeritageGroup - Sho */
-     , (1343256141, 261,         14) /* CharacterTitleId */
+     , (1343256141, 261,         14) /* CharacterTitleId - Wayfarer */
      , (1343256141, 307,          0) /* DamageRating */
      , (1343256141, 308,          0) /* DamageResistRating */
      , (1343256141, 312,          0) /* HealOverTime */

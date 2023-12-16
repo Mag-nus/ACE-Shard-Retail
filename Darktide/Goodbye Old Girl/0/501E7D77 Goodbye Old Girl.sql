@@ -15,7 +15,7 @@ VALUES (1344175479,   1,         16) /* ItemType - Creature */
      , (1344175479, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1344175479, 134,          2) /* PlayerKillerStatus - NPK */
      , (1344175479, 188,          9) /* HeritageGroup - Empyrean */
-     , (1344175479, 261,          1) /* CharacterTitleId */
+     , (1344175479, 261,          1) /* CharacterTitleId - Adventurer */
      , (1344175479, 262,          1) /* NumCharacterTitles */
      , (1344175479, 390,          0) /* Enlightenment */
      , (1344175479, 8007,          0) /* PCAPRecordedAutonomousMovement */;
@@ -29,7 +29,7 @@ VALUES (1344175479,   1, True ) /* Stuck */
      , (1344175479,  42, True ) /* AllowEdgeSlide */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1344175479,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (1344175479,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1344175479,   1, 'Goodbye Old Girl') /* Name */
@@ -55,8 +55,8 @@ VALUES (1344175479,   1,   33561110) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1344175479, 1, 459075, 70, -60, 0.01, 1, 0, 0, -1) /* Location */
 /* @teleloc 0x00070143 [70.000000 -60.000000 0.010000] 1.000000 0.000000 0.000000 -1.000000 */
-     , (1344175479, 8040, 2847146009, 84, 7.1, 94.006, 0.9969173, 0, 0, -0.07845909) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B40019 [84.000000 7.100000 94.006000] 0.996917 0.000000 0.000000 -0.078459 */;
+     , (1344175479, 8040, 2847146009, 84, 7.1, 94.006004, 0.9969173, 0, 0, -0.07845909) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B40019 [84.000000 7.100000 94.006004] 0.996917 0.000000 0.000000 -0.078459 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1344175479, 8000, 1344175479) /* PCAPRecordedObjectIID */;

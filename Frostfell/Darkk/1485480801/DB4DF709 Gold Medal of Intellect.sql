@@ -14,7 +14,7 @@ VALUES (3679319817,   1,       2048) /* ItemType - Gem */
      , (3679319817,  94,         16) /* TargetType - Creature */
      , (3679319817, 115,        125) /* ItemSkillLevelLimit */
      , (3679319817, 151,         11) /* HookType - Floor, Wall, Yard */
-     , (3679319817, 176,         36) /* AppraisalItemSkill */
+     , (3679319817, 176,         36) /* AppraisalItemSkill - Loyalty */
      , (3679319817, 280,          8) /* SharedCooldown */
      , (3679319817, 9015,         89) /* InventoryOrder */;
 

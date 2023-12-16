@@ -24,7 +24,7 @@ VALUES (3711105419,   1,      32768) /* ItemType - Caster */
      , (3711105419, 158,          2) /* WieldRequirements - RawSkill */
      , (3711105419, 159,         34) /* WieldSkillType - WarMagic */
      , (3711105419, 160,        330) /* WieldDifficulty */
-     , (3711105419, 172,          7) /* AppraisalLongDescDecoration */
+     , (3711105419, 172,          7) /* AppraisalLongDescDecoration - PrependWorkmanship, PrependMaterial, AppendGemInfo */
      , (3711105419, 177,          4) /* GemCount */
      , (3711105419, 178,         26) /* GemType */
      , (3711105419, 188,          3) /* HeritageGroup - Sho */

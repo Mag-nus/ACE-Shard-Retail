@@ -26,7 +26,7 @@ VALUES (1342993737,   1,         16) /* ItemType - Creature */
      , (1342993737, 188,          3) /* HeritageGroup - Sho */
      , (1342993737, 199, 1415915554) /* HousePurchaseTimestamp */
      , (1342993737, 218,          1) /* AugmentationInnateStrength */
-     , (1342993737, 261,         26) /* CharacterTitleId */
+     , (1342993737, 261,         26) /* CharacterTitleId - Bloodletter */
      , (1342993737, 307,          5) /* DamageRating */
      , (1342993737, 308,          0) /* DamageResistRating */
      , (1342993737, 312,          0) /* HealOverTime */

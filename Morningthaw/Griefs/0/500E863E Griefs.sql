@@ -14,7 +14,7 @@ VALUES (1343129150,   1,         16) /* ItemType - Creature */
      , (1343129150, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (1343129150, 134,          4) /* PlayerKillerStatus - PK */
      , (1343129150, 188,          1) /* HeritageGroup - Aluvian */
-     , (1343129150, 261,        448) /* CharacterTitleId */
+     , (1343129150, 261,        448) /* CharacterTitleId - Titan */
      , (1343129150, 307,         20) /* DamageRating */
      , (1343129150, 308,          7) /* DamageResistRating */
      , (1343129150, 323,          3) /* HealingBoostRating */
@@ -55,8 +55,8 @@ VALUES (1343129150,   1,   33554433) /* Setup */
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1343129150, 1, 459075, 70, -60, 0.01, 1, 0, 0, -1) /* Location */
 /* @teleloc 0x00070143 [70.000000 -60.000000 0.010000] 1.000000 0.000000 0.000000 -1.000000 */
-     , (1343129150, 8040, 2847146005, 63.18484, 108.7005, 69.77151, -0.09057833, 0, 0, 0.9958893) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B40015 [63.184840 108.700500 69.771510] -0.090578 0.000000 0.000000 0.995889 */;
+     , (1343129150, 8040, 2847146005, 63.184837, 108.70046, 69.771515, -0.090578325, 0, 0, 0.9958893) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B40015 [63.184837 108.700462 69.771515] -0.090578 0.000000 0.000000 0.995889 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343129150,  26, 1343025881) /* Monarch */
