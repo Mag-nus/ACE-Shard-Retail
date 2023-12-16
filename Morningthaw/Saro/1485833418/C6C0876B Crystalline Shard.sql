@@ -18,7 +18,7 @@ VALUES (3334506347,   1, False) /* Stuck */
      , (3334506347,  19, True ) /* Attackable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3334506347,  39, 0.300000011920929) /* DefaultScale */;
+VALUES (3334506347,  39, 0.30000001192092896) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3334506347,   1, 'Crystalline Shard') /* Name */;

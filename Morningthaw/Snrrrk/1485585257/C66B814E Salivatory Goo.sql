@@ -27,8 +27,8 @@ VALUES (3328934222,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (3328934222,  29,       1) /* WeaponDefense */
-     , (3328934222,  39, 0.100000001490116) /* DefaultScale */
-     , (3328934222, 144, 1.64471203635546E-314) /* ManaConversionMod */;
+     , (3328934222,  39, 0.10000000149011612) /* DefaultScale */
+     , (3328934222, 144, 1.6447120364E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3328934222,   1, 'Salivatory Goo') /* Name */

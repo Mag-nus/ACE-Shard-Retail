@@ -23,7 +23,7 @@ VALUES (2967723649,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2967723649,  39, 0.699999988079071) /* DefaultScale */
-     , (2967723649,  76, 0.300000011920929) /* Translucency */;
+     , (2967723649,  76, 0.30000001192092896) /* Translucency */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2967723649,   1, 'Shield of Truth') /* Name */;

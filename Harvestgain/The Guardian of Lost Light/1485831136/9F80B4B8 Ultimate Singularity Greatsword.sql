@@ -23,7 +23,7 @@ VALUES (2676012216,   1, False) /* Stuck */
      , (2676012216,  91, True ) /* Retained */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2676012216,  39, 1.29999995231628) /* DefaultScale */;
+VALUES (2676012216,  39, 1.2999999523162842) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2676012216,   1, 'Ultimate Singularity Greatsword') /* Name */;

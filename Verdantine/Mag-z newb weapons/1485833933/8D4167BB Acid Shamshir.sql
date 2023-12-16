@@ -39,10 +39,10 @@ VALUES (2369873851,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2369873851,  21,       0) /* WeaponLength */
-     , (2369873851,  22, 0.558122235157159) /* DamageVariance */
+     , (2369873851,  22, 0.5581222351571594) /* DamageVariance */
      , (2369873851,  26,       0) /* MaximumVelocity */
      , (2369873851,  29,    1.15) /* WeaponDefense */
-     , (2369873851,  39, 1.10000002384186) /* DefaultScale */
+     , (2369873851,  39, 1.100000023841858) /* DefaultScale */
      , (2369873851,  62,    1.15) /* WeaponOffense */
      , (2369873851,  63,       1) /* DamageMod */
      , (2369873851, 8004,       7) /* PCAPRecordedWorkmanship */;

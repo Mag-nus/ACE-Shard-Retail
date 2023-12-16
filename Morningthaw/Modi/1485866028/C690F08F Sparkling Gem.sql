@@ -22,7 +22,7 @@ VALUES (3331387535,   1, False) /* Stuck */
      , (3331387535,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3331387535,  39, 1.29999995231628) /* DefaultScale */;
+VALUES (3331387535,  39, 1.2999999523162842) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3331387535,   1, 'Sparkling Gem') /* Name */;

@@ -89,7 +89,7 @@ VALUES (1344175400,   1, True ) /* Stuck */
      , (1344175400, 125, True ) /* LoginAtLifestone */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1344175400,  39, 0.899999976158142) /* DefaultScale */
+VALUES (1344175400,  39, 0.8999999761581421) /* DefaultScale */
      , (1344175400, 125,       1) /* ResistHealthDrain */
      , (1344175400, 163,       1) /* GlobalXpMod */
      , (1344175400, 168,       0) /* WeaponAuraOffense */
@@ -121,10 +121,10 @@ VALUES (1344175400,   1,   33561121) /* Setup */
      , (1344175400, 8005,     104579) /* PCAPRecordedPhysicsDesc - CSetup, MTable, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1344175400, 1, 3872391216, 120.7506, 184.0253, -0.09999999, 0.691093, 0, 0, -0.7227659) /* Location */
-/* @teleloc 0xE6D00030 [120.750600 184.025300 -0.100000] 0.691093 0.000000 0.000000 -0.722766 */
-     , (1344175400, 8040, 3872587806, 90.35706, 130.1648, 227.1785, -0.735414, 0, 0, -0.677618) /* PCAPRecordedLocation */
-/* @teleloc 0xE6D3001E [90.357060 130.164800 227.178500] -0.735414 0.000000 0.000000 -0.677618 */;
+VALUES (1344175400, 1, 3872391216, 120.750626, 184.0253, -0.099999994, 0.691093, 0, 0, -0.72276586) /* Location */
+/* @teleloc 0xE6D00030 [120.750626 184.025299 -0.100000] 0.691093 0.000000 0.000000 -0.722766 */
+     , (1344175400, 8040, 3872587806, 90.35706, 130.16484, 227.17853, -0.735414, 0, 0, -0.677618) /* PCAPRecordedLocation */
+/* @teleloc 0xE6D3001E [90.357063 130.164841 227.178528] -0.735414 0.000000 0.000000 -0.677618 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1344175400, 8000, 1344175400) /* PCAPRecordedObjectIID */;
@@ -143,18 +143,18 @@ VALUES (1344175400,   2,   325, 0, 0, 500) /* Health */
      , (1344175400,   6,     0, 0, 0, 200) /* Mana */;
 
 INSERT INTO `biota_properties_skill` (`object_Id`, `type`, `level_From_P_P`, `s_a_c`, `p_p`, `init_Level`, `resistance_At_Last_Check`, `last_Used_Time`)
-VALUES (1344175400,  6,   0, 3,           0, 270,   0, 536095786.646048) /* MeleeDefense        Specialized */
-     , (1344175400,  7,   0, 3,           0, 230,   0, 536095786.646048) /* MissileDefense      Specialized */
-     , (1344175400, 15,   0, 3,           0, 300,   0, 536095786.646048) /* MagicDefense        Specialized */
-     , (1344175400, 19,   0, 2,           0, 200,   0, 536095786.646048) /* AssessPerson        Trained */
-     , (1344175400, 21,   0, 2,           0, 250,   0, 536095786.646048) /* Healing             Trained */
-     , (1344175400, 22,   0, 2,           0,  10,   0, 536095786.646048) /* Jump                Trained */
-     , (1344175400, 24,   0, 2,           0, 210,   0, 536095786.646048) /* Run                 Trained */
-     , (1344175400, 27,   0, 2,           0, 200,   0, 536095786.646048) /* AssessCreature      Trained */
-     , (1344175400, 45,   0, 3,           0, 480,   0, 536095786.646048) /* LightWeapons        Specialized */
-     , (1344175400, 50,   0, 3,           0, 480,   0, 536095786.646048) /* Recklessness        Specialized */
-     , (1344175400, 51,   0, 3,           0, 480,   0, 536095786.646048) /* SneakAttack         Specialized */
-     , (1344175400, 52,   0, 3,           0, 480,   0, 536095786.646048) /* DirtyFighting       Specialized */;
+VALUES (1344175400,  6,   0, 3,           0, 270,   0, 536095786.64604765) /* MeleeDefense        Specialized */
+     , (1344175400,  7,   0, 3,           0, 230,   0, 536095786.64604765) /* MissileDefense      Specialized */
+     , (1344175400, 15,   0, 3,           0, 300,   0, 536095786.64604765) /* MagicDefense        Specialized */
+     , (1344175400, 19,   0, 2,           0, 200,   0, 536095786.64604765) /* AssessPerson        Trained */
+     , (1344175400, 21,   0, 2,           0, 250,   0, 536095786.64604765) /* Healing             Trained */
+     , (1344175400, 22,   0, 2,           0,  10,   0, 536095786.64604765) /* Jump                Trained */
+     , (1344175400, 24,   0, 2,           0, 210,   0, 536095786.64604765) /* Run                 Trained */
+     , (1344175400, 27,   0, 2,           0, 200,   0, 536095786.64604765) /* AssessCreature      Trained */
+     , (1344175400, 45,   0, 3,           0, 480,   0, 536095786.64604765) /* LightWeapons        Specialized */
+     , (1344175400, 50,   0, 3,           0, 480,   0, 536095786.64604765) /* Recklessness        Specialized */
+     , (1344175400, 51,   0, 3,           0, 480,   0, 536095786.64604765) /* SneakAttack         Specialized */
+     , (1344175400, 52,   0, 3,           0, 480,   0, 536095786.64604765) /* DirtyFighting       Specialized */;
 
 INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
 VALUES (1344175400, 67116845, 32, 8)

@@ -33,7 +33,7 @@ VALUES (2158100552,  21,       0) /* WeaponLength */
      , (2158100552,  22,     0.5) /* DamageVariance */
      , (2158100552,  26,       0) /* MaximumVelocity */
      , (2158100552,  29,    1.05) /* WeaponDefense */
-     , (2158100552,  39, 1.10000002384186) /* DefaultScale */
+     , (2158100552,  39, 1.100000023841858) /* DefaultScale */
      , (2158100552,  62,    1.05) /* WeaponOffense */
      , (2158100552,  63,       1) /* DamageMod */;
 

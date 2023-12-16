@@ -34,12 +34,12 @@ VALUES (3690319435,   1, False) /* Stuck */
      , (3690319435,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3690319435,   5, -0.0333329997956753) /* ManaRate */
-     , (3690319435,  29, 1.31999997794628) /* WeaponDefense */
-     , (3690319435,  39, 1.29999995231628) /* DefaultScale */
-     , (3690319435,  76, 0.600000023841858) /* Translucency */
-     , (3690319435, 144, 0.510000034570695) /* ManaConversionMod */
-     , (3690319435, 152, 1.27000004798174) /* ElementalDamageMod */;
+VALUES (3690319435,   5, -0.03333299979567528) /* ManaRate */
+     , (3690319435,  29, 1.3199999779462814) /* WeaponDefense */
+     , (3690319435,  39, 1.2999999523162842) /* DefaultScale */
+     , (3690319435,  76, 0.6000000238418579) /* Translucency */
+     , (3690319435, 144, 0.5100000345706945) /* ManaConversionMod */
+     , (3690319435, 152, 1.270000047981739) /* ElementalDamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3690319435,   1, 'Drudge Scrying Orb') /* Name */
@@ -59,8 +59,8 @@ VALUES (3690319435,   1,   33558259) /* Setup */
      , (3690319435, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (3690319435, 8040, 26084219, 11.568, -149.879, -0.07000002, 0.5, 0.5, -0.5, -0.5) /* PCAPRecordedLocation */
-/* @teleloc 0x018E037B [11.568000 -149.879000 -0.070000] 0.500000 0.500000 -0.500000 -0.500000 */;
+VALUES (3690319435, 8040, 26084219, 11.567999, -149.87901, -0.070000015, 0.5, 0.5, -0.5, -0.5) /* PCAPRecordedLocation */
+/* @teleloc 0x018E037B [11.567999 -149.879013 -0.070000] 0.500000 0.500000 -0.500000 -0.500000 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (3690319435,   3, 1343320456) /* Wielder */

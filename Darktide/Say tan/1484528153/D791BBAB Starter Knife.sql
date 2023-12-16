@@ -22,7 +22,7 @@ VALUES (3616652203,   1, False) /* Stuck */
      , (3616652203,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3616652203,  39, 1.08000004291534) /* DefaultScale */;
+VALUES (3616652203,  39, 1.0800000429153442) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3616652203,   1, 'Starter Knife') /* Name */;
@@ -38,8 +38,8 @@ VALUES (3616652203,   1,   33554745) /* Setup */
      , (3616652203, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (3616652203, 8040, 733282353, 152.4213, 16.23109, 98.92901, -0.7036883, -0.7036883, -0.06944596, -0.06944596) /* PCAPRecordedLocation */
-/* @teleloc 0x2BB50031 [152.421300 16.231090 98.929010] -0.703688 -0.703688 -0.069446 -0.069446 */;
+VALUES (3616652203, 8040, 733282353, 152.4213, 16.231089, 98.92901, -0.7036883, -0.7036883, -0.06944596, -0.06944596) /* PCAPRecordedLocation */
+/* @teleloc 0x2BB50031 [152.421295 16.231089 98.929008] -0.703688 -0.703688 -0.069446 -0.069446 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (3616652203,   3, 1343695867) /* Wielder */

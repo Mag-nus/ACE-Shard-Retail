@@ -19,7 +19,7 @@ VALUES (3351325223,   1, False) /* Stuck */
      , (3351325223,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3351325223,  39, 0.300000011920929) /* DefaultScale */;
+VALUES (3351325223,  39, 0.30000001192092896) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3351325223,   1, 'Rock') /* Name */;

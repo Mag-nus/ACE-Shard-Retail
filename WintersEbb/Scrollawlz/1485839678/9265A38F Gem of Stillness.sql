@@ -22,7 +22,7 @@ VALUES (2456134543,   1, False) /* Stuck */
      , (2456134543,  19, True ) /* Attackable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2456134543,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (2456134543,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2456134543,   1, 'Gem of Stillness') /* Name */

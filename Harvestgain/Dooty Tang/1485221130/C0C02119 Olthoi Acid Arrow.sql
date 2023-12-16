@@ -26,7 +26,7 @@ VALUES (3233816857,   1, False) /* Stuck */
      , (3233816857,  19, True ) /* Attackable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3233816857,  39, 1.10000002384186) /* DefaultScale */
+VALUES (3233816857,  39, 1.100000023841858) /* DefaultScale */
      , (3233816857,  78,       1) /* Friction */
      , (3233816857,  79,       0) /* Elasticity */;
 

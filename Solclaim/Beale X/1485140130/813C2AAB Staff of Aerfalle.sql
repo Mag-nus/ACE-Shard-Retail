@@ -33,10 +33,10 @@ VALUES (2168203947,   1, False) /* Stuck */
      , (2168203947,  99, True ) /* Ivoryable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2168203947,   5, -0.0829999968409538) /* ManaRate */
-     , (2168203947,  29, 1.23999996483326) /* WeaponDefense */
+VALUES (2168203947,   5, -0.08299999684095383) /* ManaRate */
+     , (2168203947,  29, 1.2399999648332596) /* WeaponDefense */
      , (2168203947, 144, 0.107999994724989) /* ManaConversionMod */
-     , (2168203947, 152, 1.07999999821186) /* ElementalDamageMod */;
+     , (2168203947, 152, 1.0799999982118607) /* ElementalDamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2168203947,   1, 'Staff of Aerfalle') /* Name */
@@ -57,8 +57,8 @@ VALUES (2168203947,   1,   33556630) /* Setup */
      , (2168203947, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (2168203947, 8040, 1415184700, 6.061746, -50.15308, 5.93, 0.6130947, 0.6130947, -0.3522994, -0.3522994) /* PCAPRecordedLocation */
-/* @teleloc 0x545A013C [6.061746 -50.153080 5.930000] 0.613095 0.613095 -0.352299 -0.352299 */;
+VALUES (2168203947, 8040, 1415184700, 6.061746, -50.153076, 5.93, 0.61309475, 0.61309475, -0.3522994, -0.3522994) /* PCAPRecordedLocation */
+/* @teleloc 0x545A013C [6.061746 -50.153076 5.930000] 0.613095 0.613095 -0.352299 -0.352299 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2168203947,   3, 1343124787) /* Wielder */

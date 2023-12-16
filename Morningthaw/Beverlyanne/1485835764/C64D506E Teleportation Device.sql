@@ -36,8 +36,8 @@ VALUES (3326955630,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (3326955630,  29,       1) /* WeaponDefense */
-     , (3326955630,  39, 0.600000023841858) /* DefaultScale */
-     , (3326955630, 144, 1.64373448202112E-314) /* ManaConversionMod */;
+     , (3326955630,  39, 0.6000000238418579) /* DefaultScale */
+     , (3326955630, 144, 1.643734482E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3326955630,   1, 'Teleportation Device') /* Name */

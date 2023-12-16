@@ -30,14 +30,14 @@ VALUES (2620104252,   1, False) /* Stuck */
      , (2620104252,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2620104252,   5, -0.025000000372529) /* ManaRate */
+VALUES (2620104252,   5, -0.02500000037252903) /* ManaRate */
      , (2620104252,  13,       3) /* ArmorModVsSlash */
-     , (2620104252,  14, 3.79999995231628) /* ArmorModVsPierce */
-     , (2620104252,  15, 3.79999995231628) /* ArmorModVsBludgeon */
+     , (2620104252,  14, 3.799999952316284) /* ArmorModVsPierce */
+     , (2620104252,  15, 3.799999952316284) /* ArmorModVsBludgeon */
      , (2620104252,  16,       4) /* ArmorModVsCold */
-     , (2620104252,  17, 2.79999995231628) /* ArmorModVsFire */
+     , (2620104252,  17, 2.799999952316284) /* ArmorModVsFire */
      , (2620104252,  18,       3) /* ArmorModVsAcid */
-     , (2620104252,  19, 2.79999995231628) /* ArmorModVsElectric */
+     , (2620104252,  19, 2.799999952316284) /* ArmorModVsElectric */
      , (2620104252, 159,       1) /* AbsorbMagicDamage */
      , (2620104252, 165,       1) /* ArmorModVsNether */;
 
@@ -57,8 +57,8 @@ VALUES (2620104252,   1,   33559923) /* Setup */
      , (2620104252, 8009,          3) /* PCAPRecordedParentLocation - Shield */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (2620104252, 8040, 168296453, 23.75915, 119.8196, 57.65673, 0.5210828, 0.3367517, -0.7723873, 0.1359742) /* PCAPRecordedLocation */
-/* @teleloc 0x0A080005 [23.759150 119.819600 57.656730] 0.521083 0.336752 -0.772387 0.135974 */;
+VALUES (2620104252, 8040, 168296453, 23.759148, 119.81962, 57.656727, 0.52108276, 0.33675167, -0.77238727, 0.13597417) /* PCAPRecordedLocation */
+/* @teleloc 0x0A080005 [23.759148 119.819618 57.656727] 0.521083 0.336752 -0.772387 0.135974 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2620104252,   3, 1343094282) /* Wielder */

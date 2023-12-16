@@ -20,7 +20,7 @@ VALUES (2461428613,   1, False) /* Stuck */
      , (2461428613,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2461428613,  39, 0.170000001788139) /* DefaultScale */;
+VALUES (2461428613,  39, 0.17000000178813934) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2461428613,   1, 'Holiday Present') /* Name */;

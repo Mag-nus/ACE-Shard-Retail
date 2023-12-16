@@ -25,7 +25,7 @@ VALUES (2156004696,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2156004696,  29,       1) /* WeaponDefense */
-     , (2156004696, 144, 1.065207852566E-314) /* ManaConversionMod */;
+     , (2156004696, 144, 1.0652078526E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2156004696,   1, 'Buadren') /* Name */

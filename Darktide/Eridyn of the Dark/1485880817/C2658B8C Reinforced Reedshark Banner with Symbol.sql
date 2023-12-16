@@ -29,9 +29,9 @@ VALUES (3261434764,   1, False) /* Stuck */
      , (3261434764,  69, False) /* IsSellable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3261434764,   5, -0.0329999998211861) /* ManaRate */
-     , (3261434764,  29, 1.12999999523163) /* WeaponDefense */
-     , (3261434764, 144, 1.61136287304475E-314) /* ManaConversionMod */;
+VALUES (3261434764,   5, -0.032999999821186066) /* ManaRate */
+     , (3261434764,  29, 1.1299999952316284) /* WeaponDefense */
+     , (3261434764, 144, 1.611362873E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3261434764,   1, 'Reinforced Reedshark Banner with Symbol') /* Name */

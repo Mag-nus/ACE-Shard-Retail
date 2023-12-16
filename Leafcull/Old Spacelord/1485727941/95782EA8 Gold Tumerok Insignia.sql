@@ -19,7 +19,7 @@ VALUES (2507681448,   1, False) /* Stuck */
      , (2507681448,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2507681448,  39, 0.370000004768372) /* DefaultScale */;
+VALUES (2507681448,  39, 0.3700000047683716) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2507681448,   1, 'Gold Tumerok Insignia') /* Name */;

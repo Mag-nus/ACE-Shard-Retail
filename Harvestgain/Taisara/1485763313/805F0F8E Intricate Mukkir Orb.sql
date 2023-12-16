@@ -29,7 +29,7 @@ VALUES (2153713550,   1, False) /* Stuck */
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2153713550,   5,   -0.05) /* ManaRate */
      , (2153713550,  29,       1) /* WeaponDefense */
-     , (2153713550, 144, 1.06407587603779E-314) /* ManaConversionMod */;
+     , (2153713550, 144, 1.064075876E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2153713550,   1, 'Intricate Mukkir Orb') /* Name */

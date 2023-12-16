@@ -20,7 +20,7 @@ VALUES (3625866221,   1, False) /* Stuck */
      , (3625866221,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3625866221,  39, 1.10000002384186) /* DefaultScale */;
+VALUES (3625866221,  39, 1.100000023841858) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3625866221,   1, 'White Phyntos Wasp Wing') /* Name */;

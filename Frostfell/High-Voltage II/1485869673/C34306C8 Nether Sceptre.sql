@@ -42,11 +42,11 @@ VALUES (3275949768,   1, False) /* Stuck */
      , (3275949768,  85, True ) /* AppraisalHasAllowedWielder */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3275949768,   5, -0.0666666701436043) /* ManaRate */
-     , (3275949768,  29, 1.27999997138977) /* WeaponDefense */
-     , (3275949768, 144, 0.100000001490116) /* ManaConversionMod */
+VALUES (3275949768,   5, -0.06666667014360428) /* ManaRate */
+     , (3275949768,  29, 1.2799999713897705) /* WeaponDefense */
+     , (3275949768, 144, 0.10000000149011612) /* ManaConversionMod */
      , (3275949768, 150,   1.005) /* WeaponMagicDefense */
-     , (3275949768, 152, 1.1599999666214) /* ElementalDamageMod */
+     , (3275949768, 152, 1.159999966621399) /* ElementalDamageMod */
      , (3275949768, 8004,       6) /* PCAPRecordedWorkmanship */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)

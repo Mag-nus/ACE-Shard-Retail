@@ -26,8 +26,8 @@ VALUES (2624395345,  13,     0.5) /* ArmorModVsSlash */
      , (2624395345,  14,     0.5) /* ArmorModVsPierce */
      , (2624395345,  15,    0.75) /* ArmorModVsBludgeon */
      , (2624395345,  16, 0.550000011920929) /* ArmorModVsCold */
-     , (2624395345,  17, 0.300000011920929) /* ArmorModVsFire */
-     , (2624395345,  18, 0.300000011920929) /* ArmorModVsAcid */
+     , (2624395345,  17, 0.30000001192092896) /* ArmorModVsFire */
+     , (2624395345,  18, 0.30000001192092896) /* ArmorModVsAcid */
      , (2624395345,  19, 0.550000011920929) /* ArmorModVsElectric */
      , (2624395345, 165,       1) /* ArmorModVsNether */;
 

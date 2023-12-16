@@ -22,7 +22,7 @@ VALUES (2928705557,   1, False) /* Stuck */
      , (2928705557,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2928705557,  39, 0.560000002384186) /* DefaultScale */;
+VALUES (2928705557,  39, 0.5600000023841858) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2928705557,   1, 'Starter Nabut') /* Name */;

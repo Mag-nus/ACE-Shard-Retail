@@ -30,13 +30,13 @@ VALUES (2858270020,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2858270020,   5,  -0.066) /* ManaRate */
-     , (2858270020,  13, 1.20000004768372) /* ArmorModVsSlash */
-     , (2858270020,  14, 1.10000002384186) /* ArmorModVsPierce */
-     , (2858270020,  15, 1.20000004768372) /* ArmorModVsBludgeon */
+     , (2858270020,  13, 1.2000000476837158) /* ArmorModVsSlash */
+     , (2858270020,  14, 1.100000023841858) /* ArmorModVsPierce */
+     , (2858270020,  15, 1.2000000476837158) /* ArmorModVsBludgeon */
      , (2858270020,  16,     0.5) /* ArmorModVsCold */
-     , (2858270020,  17, 0.899999976158142) /* ArmorModVsFire */
-     , (2858270020,  18, 0.300000011920929) /* ArmorModVsAcid */
-     , (2858270020,  19, 0.600000023841858) /* ArmorModVsElectric */
+     , (2858270020,  17, 0.8999999761581421) /* ArmorModVsFire */
+     , (2858270020,  18, 0.30000001192092896) /* ArmorModVsAcid */
+     , (2858270020,  19, 0.6000000238418579) /* ArmorModVsElectric */
      , (2858270020,  39,    0.75) /* DefaultScale */
      , (2858270020, 165,       1) /* ArmorModVsNether */;
 
@@ -55,8 +55,8 @@ VALUES (2858270020,   1,   33555416) /* Setup */
      , (2858270020, 8009,          3) /* PCAPRecordedParentLocation - Shield */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (2858270020, 8040, 1691680781, 31.25239, 112.9575, 77.926, -0.1212823, -0.8404663, 0.06000221, -0.5246968) /* PCAPRecordedLocation */
-/* @teleloc 0x64D5000D [31.252390 112.957500 77.926000] -0.121282 -0.840466 0.060002 -0.524697 */;
+VALUES (2858270020, 8040, 1691680781, 31.252386, 112.95745, 77.926, -0.12128235, -0.84046626, 0.060002208, -0.5246968) /* PCAPRecordedLocation */
+/* @teleloc 0x64D5000D [31.252386 112.957451 77.926003] -0.121282 -0.840466 0.060002 -0.524697 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2858270020,   3, 1343255624) /* Wielder */

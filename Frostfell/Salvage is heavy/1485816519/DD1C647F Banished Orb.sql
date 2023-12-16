@@ -26,7 +26,7 @@ VALUES (3709625471,   1, False) /* Stuck */
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (3709625471,   5,  -0.033) /* ManaRate */
      , (3709625471,  29,       1) /* WeaponDefense */
-     , (3709625471, 144, 1.83279850415875E-314) /* ManaConversionMod */;
+     , (3709625471, 144, 1.832798504E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3709625471,   1, 'Banished Orb') /* Name */
@@ -44,8 +44,8 @@ VALUES (3709625471,   1,   33559253) /* Setup */
      , (3709625471, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (3709625471, 8040, 23855554, 55.32689, -27.55453, -0.071, -0.6673772, -0.6673772, 0.2336829, 0.2336829) /* PCAPRecordedLocation */
-/* @teleloc 0x016C01C2 [55.326890 -27.554530 -0.071000] -0.667377 -0.667377 0.233683 0.233683 */;
+VALUES (3709625471, 8040, 23855554, 55.326893, -27.554525, -0.071, -0.6673772, -0.6673772, 0.23368293, 0.23368293) /* PCAPRecordedLocation */
+/* @teleloc 0x016C01C2 [55.326893 -27.554525 -0.071000] -0.667377 -0.667377 0.233683 0.233683 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (3709625471,   3, 1343308425) /* Wielder */

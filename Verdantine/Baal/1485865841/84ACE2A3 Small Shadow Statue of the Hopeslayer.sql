@@ -22,7 +22,7 @@ VALUES (2225922723,   1, False) /* Stuck */
      , (2225922723,  69, False) /* IsSellable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2225922723,  39, 0.200000002980232) /* DefaultScale */;
+VALUES (2225922723,  39, 0.20000000298023224) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2225922723,   1, 'Small Shadow Statue of the Hopeslayer') /* Name */

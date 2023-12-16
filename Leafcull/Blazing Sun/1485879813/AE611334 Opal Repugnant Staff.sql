@@ -30,11 +30,11 @@ VALUES (2925597492,   1, False) /* Stuck */
      , (2925597492,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2925597492,   5, -0.0500000007450581) /* ManaRate */
-     , (2925597492,  29, 1.16999995708466) /* WeaponDefense */
+VALUES (2925597492,   5, -0.05000000074505806) /* ManaRate */
+     , (2925597492,  29, 1.1699999570846558) /* WeaponDefense */
      , (2925597492,  39,    0.25) /* DefaultScale */
      , (2925597492, 136,       1) /* CriticalMultiplier */
-     , (2925597492, 144, 0.200000002980232) /* ManaConversionMod */;
+     , (2925597492, 144, 0.20000000298023224) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2925597492,   1, 'Opal Repugnant Staff') /* Name */

@@ -18,7 +18,7 @@ VALUES (3673379056,   1, False) /* Stuck */
      , (3673379056,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3673379056,  39, 1.60000002384186) /* DefaultScale */;
+VALUES (3673379056,  39, 1.600000023841858) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3673379056,   1, 'Little Green Seeds') /* Name */;

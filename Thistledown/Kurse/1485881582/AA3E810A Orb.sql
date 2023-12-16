@@ -31,10 +31,10 @@ VALUES (2856222986,   1, False) /* Stuck */
      , (2856222986,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2856222986,   5, -0.0416666666666667) /* ManaRate */
+VALUES (2856222986,   5, -0.041666666666666664) /* ManaRate */
      , (2856222986,  29,       1) /* WeaponDefense */
-     , (2856222986,  39, 0.600000023841858) /* DefaultScale */
-     , (2856222986, 144, 1.4111616542447E-314) /* ManaConversionMod */
+     , (2856222986,  39, 0.6000000238418579) /* DefaultScale */
+     , (2856222986, 144, 1.411161654E-314) /* ManaConversionMod */
      , (2856222986, 8004,       5) /* PCAPRecordedWorkmanship */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)

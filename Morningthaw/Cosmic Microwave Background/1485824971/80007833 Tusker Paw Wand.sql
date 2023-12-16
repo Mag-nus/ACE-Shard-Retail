@@ -37,10 +37,10 @@ VALUES (2147514419,   1, False) /* Stuck */
      , (2147514419,  99, True ) /* Ivoryable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2147514419,   5, -0.0165999997407198) /* ManaRate */
-     , (2147514419,  29, 1.1499999910593) /* WeaponDefense */
-     , (2147514419, 144, 0.179999997913837) /* ManaConversionMod */
-     , (2147514419, 152, 1.18000002205372) /* ElementalDamageMod */;
+VALUES (2147514419,   5, -0.016599999740719795) /* ManaRate */
+     , (2147514419,  29, 1.1499999910593033) /* WeaponDefense */
+     , (2147514419, 144, 0.17999999791383736) /* ManaConversionMod */
+     , (2147514419, 152, 1.1800000220537186) /* ElementalDamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2147514419,   1, 'Tusker Paw Wand') /* Name */

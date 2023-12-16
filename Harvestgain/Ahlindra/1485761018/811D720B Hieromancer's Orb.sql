@@ -28,9 +28,9 @@ VALUES (2166190603,   1, False) /* Stuck */
      , (2166190603,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2166190603,   5, -0.0500000007450581) /* ManaRate */
+VALUES (2166190603,   5, -0.05000000074505806) /* ManaRate */
      , (2166190603,  29,       1) /* WeaponDefense */
-     , (2166190603, 144, 0.0500000007450581) /* ManaConversionMod */;
+     , (2166190603, 144, 0.05000000074505806) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2166190603,   1, 'Hieromancer''s Orb') /* Name */

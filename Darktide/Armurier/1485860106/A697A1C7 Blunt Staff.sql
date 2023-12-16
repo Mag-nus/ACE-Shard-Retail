@@ -52,12 +52,12 @@ VALUES (2794955207,   1, False) /* Stuck */
      , (2794955207,  99, False) /* Ivoryable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2794955207,   5, -0.0666666701436043) /* ManaRate */
-     , (2794955207,  29, 1.19000005722046) /* WeaponDefense */
-     , (2794955207,  39, 0.600000023841858) /* DefaultScale */
-     , (2794955207, 144, 0.0900000035762787) /* ManaConversionMod */
+VALUES (2794955207,   5, -0.06666667014360428) /* ManaRate */
+     , (2794955207,  29, 1.190000057220459) /* WeaponDefense */
+     , (2794955207,  39, 0.6000000238418579) /* DefaultScale */
+     , (2794955207, 144, 0.09000000357627869) /* ManaConversionMod */
      , (2794955207, 150,   1.045) /* WeaponMagicDefense */
-     , (2794955207, 152, 1.28999996185303) /* ElementalDamageMod */
+     , (2794955207, 152, 1.2899999618530273) /* ElementalDamageMod */
      , (2794955207, 8004,       9) /* PCAPRecordedWorkmanship */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)

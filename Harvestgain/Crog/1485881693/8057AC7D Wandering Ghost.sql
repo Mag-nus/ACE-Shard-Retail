@@ -20,7 +20,7 @@ VALUES (2153229437,   1, False) /* Stuck */
      , (2153229437,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2153229437,  39, 0.300000011920929) /* DefaultScale */
+VALUES (2153229437,  39, 0.30000001192092896) /* DefaultScale */
      , (2153229437,  76, 0.699999988079071) /* Translucency */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)

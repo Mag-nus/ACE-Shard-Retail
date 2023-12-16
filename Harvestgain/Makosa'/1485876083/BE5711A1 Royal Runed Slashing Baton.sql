@@ -32,13 +32,13 @@ VALUES (3193377185,   1, False) /* Stuck */
      , (3193377185,  69, True ) /* IsSellable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3193377185,   5, -0.0500000007450581) /* ManaRate */
+VALUES (3193377185,   5, -0.05000000074505806) /* ManaRate */
      , (3193377185,  29,       1) /* WeaponDefense */
      , (3193377185,  39,     1.5) /* DefaultScale */
-     , (3193377185, 144, 0.200000002980232) /* ManaConversionMod */
+     , (3193377185, 144, 0.20000000298023224) /* ManaConversionMod */
      , (3193377185, 147,       1) /* CriticalFrequency */
      , (3193377185, 150,   1.025) /* WeaponMagicDefense */
-     , (3193377185, 152, 1.20000004768372) /* ElementalDamageMod */;
+     , (3193377185, 152, 1.2000000476837158) /* ElementalDamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3193377185,   1, 'Royal Runed Slashing Baton') /* Name */

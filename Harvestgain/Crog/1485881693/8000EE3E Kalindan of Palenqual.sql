@@ -42,14 +42,14 @@ VALUES (2147544638,   1, False) /* Stuck */
      , (2147544638,  99, False) /* Ivoryable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2147544638,   5, -0.0500000007450581) /* ManaRate */
+VALUES (2147544638,   5, -0.05000000074505806) /* ManaRate */
      , (2147544638,  21,       0) /* WeaponLength */
      , (2147544638,  22,       0) /* DamageVariance */
      , (2147544638,  26,    27.3) /* MaximumVelocity */
-     , (2147544638,  29, 1.25000002980232) /* WeaponDefense */
+     , (2147544638,  29, 1.2500000298023224) /* WeaponDefense */
      , (2147544638,  39,    1.25) /* DefaultScale */
      , (2147544638,  62,       1) /* WeaponOffense */
-     , (2147544638,  63, 2.70000004768372) /* DamageMod */;
+     , (2147544638,  63, 2.700000047683716) /* DamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2147544638,   1, 'Kalindan of Palenqual') /* Name */

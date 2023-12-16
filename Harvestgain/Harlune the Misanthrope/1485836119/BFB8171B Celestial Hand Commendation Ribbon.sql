@@ -18,7 +18,7 @@ VALUES (3216512795,   1, False) /* Stuck */
      , (3216512795,  19, True ) /* Attackable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3216512795,  39, 0.400000005960464) /* DefaultScale */;
+VALUES (3216512795,  39, 0.4000000059604645) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3216512795,   1, 'Celestial Hand Commendation Ribbon') /* Name */;

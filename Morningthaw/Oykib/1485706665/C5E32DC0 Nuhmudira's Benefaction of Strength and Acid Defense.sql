@@ -35,7 +35,7 @@ VALUES (3319999936,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (3319999936,   5,  -0.033) /* ManaRate */
-     , (3319999936,  39, 0.670000016689301) /* DefaultScale */;
+     , (3319999936,  39, 0.6700000166893005) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3319999936,   1, 'Nuhmudira''s Benefaction of Strength and Acid Defense') /* Name */

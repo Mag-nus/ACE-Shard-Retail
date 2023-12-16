@@ -24,7 +24,7 @@ VALUES (2345789176,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2345789176,  29,       1) /* WeaponDefense */
-     , (2345789176, 144, 1.15897384424785E-314) /* ManaConversionMod */;
+     , (2345789176, 144, 1.1589738442E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2345789176,   1, 'Globe of Auberean') /* Name */

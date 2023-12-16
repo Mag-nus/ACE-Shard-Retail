@@ -32,9 +32,9 @@ VALUES (2187177961,   1, False) /* Stuck */
      , (2187177961,  99, False) /* Ivoryable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2187177961,   5, -0.0500000007450581) /* ManaRate */
+VALUES (2187177961,   5, -0.05000000074505806) /* ManaRate */
      , (2187177961,  29,       1) /* WeaponDefense */
-     , (2187177961, 144, 0.0700000002980232) /* ManaConversionMod */;
+     , (2187177961, 144, 0.07000000029802322) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2187177961,   1, 'Stave of Palenqual') /* Name */

@@ -18,7 +18,7 @@ VALUES (2443982016,   1, False) /* Stuck */
      , (2443982016,  19, True ) /* Attackable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2443982016,  39, 1.29999995231628) /* DefaultScale */;
+VALUES (2443982016,  39, 1.2999999523162842) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2443982016,   1, 'Daimyo Nobanuga''s Shattered Helm') /* Name */;

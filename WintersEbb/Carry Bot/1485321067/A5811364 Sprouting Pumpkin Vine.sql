@@ -24,7 +24,7 @@ VALUES (2776699748,   1, False) /* Stuck */
      , (2776699748,  69, False) /* IsSellable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2776699748,  39, 0.600000023841858) /* DefaultScale */;
+VALUES (2776699748,  39, 0.6000000238418579) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2776699748,   1, 'Sprouting Pumpkin Vine') /* Name */

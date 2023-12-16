@@ -31,7 +31,7 @@ VALUES (3655574533,   1, False) /* Stuck */
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (3655574533,   5,   -0.05) /* ManaRate */
      , (3655574533,  29,       1) /* WeaponDefense */
-     , (3655574533,  39, 1.20000004768372) /* DefaultScale */
+     , (3655574533,  39, 1.2000000476837158) /* DefaultScale */
      , (3655574533,  76,     0.5) /* Translucency */
      , (3655574533, 144,    0.05) /* ManaConversionMod */;
 

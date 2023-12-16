@@ -35,7 +35,7 @@ INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2779768882,   5,   -0.05) /* ManaRate */
      , (2779768882,  29,       1) /* WeaponDefense */
      , (2779768882,  76,     0.5) /* Translucency */
-     , (2779768882, 144, 1.37338830797473E-314) /* ManaConversionMod */;
+     , (2779768882, 144, 1.373388308E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2779768882,   1, 'Shendolain Crystal Orb') /* Name */

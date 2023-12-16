@@ -24,8 +24,8 @@ VALUES (2765663593,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2765663593,  29,       1) /* WeaponDefense */
-     , (2765663593,  39, 1.20000004768372) /* DefaultScale */
-     , (2765663593, 144, 1.36641936925517E-314) /* ManaConversionMod */;
+     , (2765663593,  39, 1.2000000476837158) /* DefaultScale */
+     , (2765663593, 144, 1.3664193693E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2765663593,   1, 'Tusker Wand') /* Name */

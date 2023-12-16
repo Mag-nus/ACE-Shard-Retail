@@ -33,10 +33,10 @@ VALUES (2337094438,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2337094438,   5, -0.0334) /* ManaRate */
-     , (2337094438,  29, 1.29000000298023) /* WeaponDefense */
-     , (2337094438, 144, 0.107999997138977) /* ManaConversionMod */
+     , (2337094438,  29, 1.2900000029802323) /* WeaponDefense */
+     , (2337094438, 144, 0.10799999713897705) /* ManaConversionMod */
      , (2337094438, 147,       1) /* CriticalFrequency */
-     , (2337094438, 152, 1.07999999821186) /* ElementalDamageMod */;
+     , (2337094438, 152, 1.0799999982118607) /* ElementalDamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2337094438,   1, 'Burun Slaying Sceptre') /* Name */
@@ -54,8 +54,8 @@ VALUES (2337094438,   1,   33558929) /* Setup */
      , (2337094438, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (2337094438, 8040, 1500184840, 114.4943, -24.53674, -0.07000002, 0.2730454, 0.2730454, -0.6522624, -0.6522624) /* PCAPRecordedLocation */
-/* @teleloc 0x596B0108 [114.494300 -24.536740 -0.070000] 0.273045 0.273045 -0.652262 -0.652262 */;
+VALUES (2337094438, 8040, 1500184840, 114.49428, -24.536736, -0.070000015, 0.2730454, 0.2730454, -0.6522624, -0.6522624) /* PCAPRecordedLocation */
+/* @teleloc 0x596B0108 [114.494278 -24.536736 -0.070000] 0.273045 0.273045 -0.652262 -0.652262 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2337094438,   3, 1343218051) /* Wielder */

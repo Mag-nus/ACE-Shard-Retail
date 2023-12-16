@@ -21,7 +21,7 @@ VALUES (2394047483,   1, False) /* Stuck */
      , (2394047483,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2394047483,  39, 1.33000004291534) /* DefaultScale */;
+VALUES (2394047483,  39, 1.3300000429153442) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2394047483,   1, 'Olthoi Tassets') /* Name */;

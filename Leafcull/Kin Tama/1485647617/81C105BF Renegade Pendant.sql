@@ -21,7 +21,7 @@ VALUES (2176910783,   1, False) /* Stuck */
      , (2176910783,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2176910783,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (2176910783,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2176910783,   1, 'Renegade Pendant') /* Name */;

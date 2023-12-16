@@ -19,7 +19,7 @@ VALUES (3637409433,   1, False) /* Stuck */
      , (3637409433,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3637409433,  39, 1.22000002861023) /* DefaultScale */;
+VALUES (3637409433,  39, 1.2200000286102295) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3637409433,   1, 'Aun Shimauri''s Instructions') /* Name */;

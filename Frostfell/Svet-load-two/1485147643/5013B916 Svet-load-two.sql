@@ -94,7 +94,7 @@ VALUES (1343469846,   1, True ) /* Stuck */
      , (1343469846, 127, True ) /* Account15Days */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343469846,  39, 1.20000004768372) /* DefaultScale */
+VALUES (1343469846,  39, 1.2000000476837158) /* DefaultScale */
      , (1343469846, 125,       1) /* ResistHealthDrain */
      , (1343469846, 163,       1) /* GlobalXpMod */
      , (1343469846, 168,       0) /* WeaponAuraOffense */
@@ -120,10 +120,10 @@ VALUES (1343469846,   1,   33561106) /* Setup */
      , (1343469846, 8005,     104579) /* PCAPRecordedPhysicsDesc - CSetup, MTable, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343469846, 1, 2847146018, 106.738, 24.51939, 94.006, 0.6352136, 0, 0, -0.7723365) /* Location */
-/* @teleloc 0xA9B40022 [106.738000 24.519390 94.006000] 0.635214 0.000000 0.000000 -0.772337 */
-     , (1343469846, 8040, 2847146018, 106.738, 24.51939, 94.006, 0.6352136, 0, 0, -0.7723365) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B40022 [106.738000 24.519390 94.006000] 0.635214 0.000000 0.000000 -0.772337 */;
+VALUES (1343469846, 1, 2847146018, 106.73804, 24.51939, 94.006004, 0.63521355, 0, 0, -0.77233654) /* Location */
+/* @teleloc 0xA9B40022 [106.738037 24.519390 94.006004] 0.635214 0.000000 0.000000 -0.772337 */
+     , (1343469846, 8040, 2847146018, 106.73804, 24.51939, 94.006004, 0.63521355, 0, 0, -0.77233654) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B40022 [106.738037 24.519390 94.006004] 0.635214 0.000000 0.000000 -0.772337 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343469846, 8000, 1343469846) /* PCAPRecordedObjectIID */;

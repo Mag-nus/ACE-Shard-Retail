@@ -33,9 +33,9 @@ VALUES (2153503776,   1, False) /* Stuck */
      , (2153503776,  99, True ) /* Ivoryable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2153503776,   5, -0.0829999968409538) /* ManaRate */
-     , (2153503776,  29, 1.03999996185303) /* WeaponDefense */
-     , (2153503776, 144, 0.0599999986588955) /* ManaConversionMod */;
+VALUES (2153503776,   5, -0.08299999684095383) /* ManaRate */
+     , (2153503776,  29, 1.0399999618530273) /* WeaponDefense */
+     , (2153503776, 144, 0.05999999865889549) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2153503776,   1, 'Staff of Aerfalle') /* Name */

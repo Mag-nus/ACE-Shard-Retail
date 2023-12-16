@@ -34,9 +34,9 @@ VALUES (2151523747,   1, False) /* Stuck */
      , (2151523747,  99, False) /* Ivoryable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2151523747,  29, 1.28999996185303) /* WeaponDefense */
-     , (2151523747, 144, 0.203999996185303) /* ManaConversionMod */
-     , (2151523747, 152, 1.16999995708466) /* ElementalDamageMod */;
+VALUES (2151523747,  29, 1.2899999618530273) /* WeaponDefense */
+     , (2151523747, 144, 0.20399999618530273) /* ManaConversionMod */
+     , (2151523747, 152, 1.1699999570846558) /* ElementalDamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2151523747,   1, 'Shadowfire Isparian Wand') /* Name */

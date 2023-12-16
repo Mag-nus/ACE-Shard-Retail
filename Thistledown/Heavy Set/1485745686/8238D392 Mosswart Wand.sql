@@ -23,7 +23,7 @@ VALUES (2184762258,   1, False) /* Stuck */
      , (2184762258,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2184762258,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (2184762258,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2184762258,   1, 'Mosswart Wand') /* Name */;
@@ -39,8 +39,8 @@ VALUES (2184762258,   1,   33557370) /* Setup */
      , (2184762258, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (2184762258, 8040, 3482583043, 22.08042, 58.33919, 13.929, 0.5579293, 0.5579293, -0.4344133, -0.4344133) /* PCAPRecordedLocation */
-/* @teleloc 0xCF940003 [22.080420 58.339190 13.929000] 0.557929 0.557929 -0.434413 -0.434413 */;
+VALUES (2184762258, 8040, 3482583043, 22.080416, 58.33919, 13.928999, 0.55792934, 0.55792934, -0.43441325, -0.43441325) /* PCAPRecordedLocation */
+/* @teleloc 0xCF940003 [22.080416 58.339191 13.928999] 0.557929 0.557929 -0.434413 -0.434413 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2184762258,   3, 1342884371) /* Wielder */

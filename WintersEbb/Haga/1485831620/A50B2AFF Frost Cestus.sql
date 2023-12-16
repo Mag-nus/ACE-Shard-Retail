@@ -37,7 +37,7 @@ VALUES (2768972543,  21,       0) /* WeaponLength */
      , (2768972543,  26,       0) /* MaximumVelocity */
      , (2768972543,  29,    1.05) /* WeaponDefense */
      , (2768972543,  39, 0.800000011920929) /* DefaultScale */
-     , (2768972543,  62, 1.08452825248241) /* WeaponOffense */
+     , (2768972543,  62, 1.0845282524824142) /* WeaponOffense */
      , (2768972543,  63,       1) /* DamageMod */
      , (2768972543, 8004,       2) /* PCAPRecordedWorkmanship */;
 

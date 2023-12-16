@@ -21,7 +21,7 @@ VALUES (2438513855,   1, False) /* Stuck */
      , (2438513855,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2438513855,  39, 1.79999995231628) /* DefaultScale */;
+VALUES (2438513855,  39, 1.7999999523162842) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2438513855,   1, 'Bronze Large Kite Shield') /* Name */;
@@ -38,8 +38,8 @@ VALUES (2438513855,   1,   33554788) /* Setup */
      , (2438513855, 8009,          3) /* PCAPRecordedParentLocation - Shield */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (2438513855, 8040, 3465871405, 136.3533, 96.46728, 19.926, 0.2781983, -0.6451397, -0.5420135, -0.4611094) /* PCAPRecordedLocation */
-/* @teleloc 0xCE95002D [136.353300 96.467280 19.926000] 0.278198 -0.645140 -0.542014 -0.461109 */;
+VALUES (2438513855, 8040, 3465871405, 136.35327, 96.46728, 19.925999, 0.2781983, -0.6451397, -0.54201347, -0.4611094) /* PCAPRecordedLocation */
+/* @teleloc 0xCE95002D [136.353271 96.467278 19.925999] 0.278198 -0.645140 -0.542013 -0.461109 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2438513855,   3, 1342183844) /* Wielder */

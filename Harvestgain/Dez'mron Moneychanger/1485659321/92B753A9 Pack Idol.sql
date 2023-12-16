@@ -22,7 +22,7 @@ VALUES (2461488041,   1, False) /* Stuck */
      , (2461488041,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2461488041,  39, 0.300000011920929) /* DefaultScale */;
+VALUES (2461488041,  39, 0.30000001192092896) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2461488041,   1, 'Pack Idol') /* Name */

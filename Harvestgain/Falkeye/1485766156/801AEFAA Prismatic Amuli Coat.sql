@@ -32,7 +32,7 @@ VALUES (2149248938,   1, False) /* Stuck */
      , (2149248938,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2149248938,   5, -0.0833000019192696) /* ManaRate */
+VALUES (2149248938,   5, -0.08330000191926956) /* ManaRate */
      , (2149248938,  13,     0.5) /* ArmorModVsSlash */
      , (2149248938,  14,     0.5) /* ArmorModVsPierce */
      , (2149248938,  15,     0.5) /* ArmorModVsBludgeon */

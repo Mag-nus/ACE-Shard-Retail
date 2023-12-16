@@ -17,7 +17,7 @@ VALUES (3319016837,   1, False) /* Stuck */
      , (3319016837,  19, True ) /* Attackable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3319016837,  39, 1.22000002861023) /* DefaultScale */;
+VALUES (3319016837,  39, 1.2200000286102295) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3319016837,   1, 'Holtburg Information Guide') /* Name */;

@@ -32,9 +32,9 @@ VALUES (2765659363,   1, False) /* Stuck */
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2765659363,   5,   -0.05) /* ManaRate */
      , (2765659363,  29,       1) /* WeaponDefense */
-     , (2765659363,  39, 1.39999997615814) /* DefaultScale */
+     , (2765659363,  39, 1.399999976158142) /* DefaultScale */
      , (2765659363,  76,     0.5) /* Translucency */
-     , (2765659363, 144, 1.36641727935749E-314) /* ManaConversionMod */;
+     , (2765659363, 144, 1.3664172794E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2765659363,   1, 'Dark Heart') /* Name */
@@ -54,8 +54,8 @@ VALUES (2765659363,   1,   33556933) /* Setup */
      , (2765659363, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (2765659363, 8040, 3443589165, 134.4056, 115.5536, 53.929, -0.5816801, -0.5816801, -0.4020551, -0.4020551) /* PCAPRecordedLocation */
-/* @teleloc 0xCD41002D [134.405600 115.553600 53.929000] -0.581680 -0.581680 -0.402055 -0.402055 */;
+VALUES (2765659363, 8040, 3443589165, 134.40556, 115.55365, 53.929, -0.58168006, -0.58168006, -0.4020551, -0.4020551) /* PCAPRecordedLocation */
+/* @teleloc 0xCD41002D [134.405563 115.553650 53.929001] -0.581680 -0.581680 -0.402055 -0.402055 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2765659363,   3, 1342691093) /* Wielder */

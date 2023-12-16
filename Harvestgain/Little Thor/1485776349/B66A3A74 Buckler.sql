@@ -40,12 +40,12 @@ VALUES (3060415092,   1, False) /* Stuck */
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (3060415092,   5, -0.0555555559694767) /* ManaRate */
      , (3060415092,  13,       3) /* ArmorModVsSlash */
-     , (3060415092,  14, 2.79999995231628) /* ArmorModVsPierce */
-     , (3060415092,  15, 3.20000004768372) /* ArmorModVsBludgeon */
-     , (3060415092,  16, 3.1590211391449) /* ArmorModVsCold */
-     , (3060415092,  17, 2.94804787635803) /* ArmorModVsFire */
+     , (3060415092,  14, 2.799999952316284) /* ArmorModVsPierce */
+     , (3060415092,  15, 3.200000047683716) /* ArmorModVsBludgeon */
+     , (3060415092,  16, 3.1590211391448975) /* ArmorModVsCold */
+     , (3060415092,  17, 2.9480478763580322) /* ArmorModVsFire */
      , (3060415092,  18,       3) /* ArmorModVsAcid */
-     , (3060415092,  19, 2.59999990463257) /* ArmorModVsElectric */
+     , (3060415092,  19, 2.5999999046325684) /* ArmorModVsElectric */
      , (3060415092,  39,     0.5) /* DefaultScale */
      , (3060415092, 165,       1) /* ArmorModVsNether */
      , (3060415092, 8004,       8) /* PCAPRecordedWorkmanship */;
@@ -65,8 +65,8 @@ VALUES (3060415092,   1,   33554786) /* Setup */
      , (3060415092, 8009,          3) /* PCAPRecordedParentLocation - Shield */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (3060415092, 8040, 9831201, 66.97411, -40.46536, -0.07400001, 0.508068, 0.3994108, -0.7419264, 0.1785583) /* PCAPRecordedLocation */
-/* @teleloc 0x00960321 [66.974110 -40.465360 -0.074000] 0.508068 0.399411 -0.741926 0.178558 */;
+VALUES (3060415092, 8040, 9831201, 66.974106, -40.465363, -0.07400001, 0.508068, 0.3994108, -0.74192643, 0.1785583) /* PCAPRecordedLocation */
+/* @teleloc 0x00960321 [66.974106 -40.465363 -0.074000] 0.508068 0.399411 -0.741926 0.178558 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (3060415092,   3, 1343045038) /* Wielder */

@@ -37,13 +37,13 @@ VALUES (3580914007,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (3580914007,   5, -0.0333000011742115) /* ManaRate */
-     , (3580914007,  13, 0.899999976158142) /* ArmorModVsSlash */
-     , (3580914007,  14, 0.899999976158142) /* ArmorModVsPierce */
-     , (3580914007,  15, 0.899999976158142) /* ArmorModVsBludgeon */
-     , (3580914007,  16, 1.10000002384186) /* ArmorModVsCold */
-     , (3580914007,  17, 1.39999997615814) /* ArmorModVsFire */
-     , (3580914007,  18, 1.29999995231628) /* ArmorModVsAcid */
-     , (3580914007,  19, 1.20000004768372) /* ArmorModVsElectric */
+     , (3580914007,  13, 0.8999999761581421) /* ArmorModVsSlash */
+     , (3580914007,  14, 0.8999999761581421) /* ArmorModVsPierce */
+     , (3580914007,  15, 0.8999999761581421) /* ArmorModVsBludgeon */
+     , (3580914007,  16, 1.100000023841858) /* ArmorModVsCold */
+     , (3580914007,  17, 1.399999976158142) /* ArmorModVsFire */
+     , (3580914007,  18, 1.2999999523162842) /* ArmorModVsAcid */
+     , (3580914007,  19, 1.2000000476837158) /* ArmorModVsElectric */
      , (3580914007, 159,       1) /* AbsorbMagicDamage */
      , (3580914007, 165,       1) /* ArmorModVsNether */;
 

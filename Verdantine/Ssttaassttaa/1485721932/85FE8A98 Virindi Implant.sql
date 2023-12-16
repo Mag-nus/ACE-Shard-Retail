@@ -29,9 +29,9 @@ VALUES (2248051352,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2248051352,   5,   -0.05) /* ManaRate */
-     , (2248051352,  29, 1.17000000178814) /* WeaponDefense */
-     , (2248051352, 144, 0.0899999976158142) /* ManaConversionMod */
-     , (2248051352, 152, 1.07000000029802) /* ElementalDamageMod */;
+     , (2248051352,  29, 1.1700000017881393) /* WeaponDefense */
+     , (2248051352, 144, 0.08999999761581422) /* ManaConversionMod */
+     , (2248051352, 152, 1.0700000002980232) /* ElementalDamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2248051352,   1, 'Virindi Implant') /* Name */
@@ -49,8 +49,8 @@ VALUES (2248051352,   1,   33557223) /* Setup */
      , (2248051352, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (2248051352, 8040, 2847146026, 141.4453, 35.98061, 93.92901, -0.7059091, -0.7059091, -0.04113781, -0.04113781) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B4002A [141.445300 35.980610 93.929010] -0.705909 -0.705909 -0.041138 -0.041138 */;
+VALUES (2248051352, 8040, 2847146026, 141.44525, 35.98061, 93.92901, -0.70590913, -0.70590913, -0.04113781, -0.04113781) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B4002A [141.445251 35.980610 93.929008] -0.705909 -0.705909 -0.041138 -0.041138 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2248051352,   3, 1342263323) /* Wielder */

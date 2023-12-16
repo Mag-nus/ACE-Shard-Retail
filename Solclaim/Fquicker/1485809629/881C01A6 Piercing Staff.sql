@@ -34,11 +34,11 @@ VALUES (2283536806,   1, False) /* Stuck */
      , (2283536806,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2283536806,  29, 1.27999997138977) /* WeaponDefense */
-     , (2283536806,  39, 0.600000023841858) /* DefaultScale */
-     , (2283536806, 144, 0.0700000002980232) /* ManaConversionMod */
+VALUES (2283536806,  29, 1.2799999713897705) /* WeaponDefense */
+     , (2283536806,  39, 0.6000000238418579) /* DefaultScale */
+     , (2283536806, 144, 0.07000000029802322) /* ManaConversionMod */
      , (2283536806, 149,   1.025) /* WeaponMissileDefense */
-     , (2283536806, 152, 1.11000001430511) /* ElementalDamageMod */
+     , (2283536806, 152, 1.1100000143051147) /* ElementalDamageMod */
      , (2283536806, 8004,       4) /* PCAPRecordedWorkmanship */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)

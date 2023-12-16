@@ -33,10 +33,10 @@ VALUES (2156369582,   1, False) /* Stuck */
      , (2156369582,  99, True ) /* Ivoryable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2156369582,   5, -0.0500000007450581) /* ManaRate */
+VALUES (2156369582,   5, -0.05000000074505806) /* ManaRate */
      , (2156369582,  29,       1) /* WeaponDefense */
      , (2156369582,  76,     0.5) /* Translucency */
-     , (2156369582, 144, 1.06538813020325E-314) /* ManaConversionMod */;
+     , (2156369582, 144, 1.06538813E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2156369582,   1, 'Quiddity Orb') /* Name */

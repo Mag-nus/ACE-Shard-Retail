@@ -24,7 +24,7 @@ VALUES (2807507560,   1, False) /* Stuck */
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2807507560,  29,       1) /* WeaponDefense */
      , (2807507560,  39,     1.5) /* DefaultScale */
-     , (2807507560, 144, 1.38709303583558E-314) /* ManaConversionMod */;
+     , (2807507560, 144, 1.387093036E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2807507560,   1, 'Orange Anniversary Sparkler') /* Name */
@@ -41,8 +41,8 @@ VALUES (2807507560,   1,   33560117) /* Setup */
      , (2807507560, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (2807507560, 8040, 2749825077, 151.708, 104.7327, 55.929, -0.536693, -0.536693, -0.4603918, -0.4603918) /* PCAPRecordedLocation */
-/* @teleloc 0xA3E70035 [151.708000 104.732700 55.929000] -0.536693 -0.536693 -0.460392 -0.460392 */;
+VALUES (2807507560, 8040, 2749825077, 151.708, 104.73269, 55.929, -0.53669304, -0.53669304, -0.46039176, -0.46039176) /* PCAPRecordedLocation */
+/* @teleloc 0xA3E70035 [151.707993 104.732689 55.929001] -0.536693 -0.536693 -0.460392 -0.460392 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2807507560,   3, 1343890286) /* Wielder */

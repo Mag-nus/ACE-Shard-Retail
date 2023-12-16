@@ -30,14 +30,14 @@ VALUES (3571510494,   1, False) /* Stuck */
      , (3571510494,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3571510494,   5, -0.0500000007450581) /* ManaRate */
-     , (3571510494,  13, 2.70000004768372) /* ArmorModVsSlash */
-     , (3571510494,  14, 2.80000019073486) /* ArmorModVsPierce */
-     , (3571510494,  15, 2.70000004768372) /* ArmorModVsBludgeon */
-     , (3571510494,  16, 2.20000004768372) /* ArmorModVsCold */
+VALUES (3571510494,   5, -0.05000000074505806) /* ManaRate */
+     , (3571510494,  13, 2.700000047683716) /* ArmorModVsSlash */
+     , (3571510494,  14, 2.8000001907348633) /* ArmorModVsPierce */
+     , (3571510494,  15, 2.700000047683716) /* ArmorModVsBludgeon */
+     , (3571510494,  16, 2.200000047683716) /* ArmorModVsCold */
      , (3571510494,  17,     2.5) /* ArmorModVsFire */
      , (3571510494,  18,     2.5) /* ArmorModVsAcid */
-     , (3571510494,  19, 2.20000004768372) /* ArmorModVsElectric */
+     , (3571510494,  19, 2.200000047683716) /* ArmorModVsElectric */
      , (3571510494, 165,       1) /* ArmorModVsNether */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
@@ -55,8 +55,8 @@ VALUES (3571510494,   1,   33559808) /* Setup */
      , (3571510494, 8009,          3) /* PCAPRecordedParentLocation - Shield */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (3571510494, 8040, 2847146009, 84.05467, 7.058436, 93.926, 0.4303953, 0.6048694, -0.5866148, 0.3236914) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B40019 [84.054670 7.058436 93.926000] 0.430395 0.604869 -0.586615 0.323691 */;
+VALUES (3571510494, 8040, 2847146009, 84.05467, 7.058436, 93.926, 0.43039528, 0.60486937, -0.5866148, 0.32369137) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B40019 [84.054672 7.058436 93.926003] 0.430395 0.604869 -0.586615 0.323691 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (3571510494,   1, 1343488764) /* Owner */

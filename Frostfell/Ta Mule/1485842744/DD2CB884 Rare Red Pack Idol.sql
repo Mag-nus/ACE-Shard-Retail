@@ -21,7 +21,7 @@ VALUES (3710695556,   1, False) /* Stuck */
      , (3710695556,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3710695556,  39, 0.300000011920929) /* DefaultScale */;
+VALUES (3710695556,  39, 0.30000001192092896) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3710695556,   1, 'Rare Red Pack Idol') /* Name */;

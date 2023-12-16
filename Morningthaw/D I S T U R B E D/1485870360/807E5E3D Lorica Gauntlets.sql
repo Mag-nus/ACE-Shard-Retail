@@ -44,10 +44,10 @@ VALUES (2155765309,   5, -0.0555555559694767) /* ManaRate */
      , (2155765309,  13,       3) /* ArmorModVsSlash */
      , (2155765309,  14,       1) /* ArmorModVsPierce */
      , (2155765309,  15,       1) /* ArmorModVsBludgeon */
-     , (2155765309,  16, 0.945957005023956) /* ArmorModVsCold */
-     , (2155765309,  17, 1.27169919013977) /* ArmorModVsFire */
-     , (2155765309,  18, 0.600000023841858) /* ArmorModVsAcid */
-     , (2155765309,  19, 0.400000005960464) /* ArmorModVsElectric */
+     , (2155765309,  16, 0.9459570050239563) /* ArmorModVsCold */
+     , (2155765309,  17, 1.2716991901397705) /* ArmorModVsFire */
+     , (2155765309,  18, 0.6000000238418579) /* ArmorModVsAcid */
+     , (2155765309,  19, 0.4000000059604645) /* ArmorModVsElectric */
      , (2155765309, 165,       1) /* ArmorModVsNether */
      , (2155765309, 8004,       6) /* PCAPRecordedWorkmanship */;
 

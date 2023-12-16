@@ -20,7 +20,7 @@ VALUES (2151229180,   1, False) /* Stuck */
      , (2151229180,  19, True ) /* Attackable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2151229180,  39, 0.899999976158142) /* DefaultScale */;
+VALUES (2151229180,  39, 0.8999999761581421) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2151229180,   1, 'Lady Tairla''s Ancient Emblem of Mhoire') /* Name */;

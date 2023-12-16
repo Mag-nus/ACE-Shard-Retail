@@ -36,7 +36,7 @@ INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2507682031,   5,   -0.05) /* ManaRate */
      , (2507682031,  29,       1) /* WeaponDefense */
      , (2507682031,  76,     0.5) /* Translucency */
-     , (2507682031, 144, 1.2389595422105E-314) /* ManaConversionMod */;
+     , (2507682031, 144, 1.238959542E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2507682031,   1, 'Quiddity Orb') /* Name */
@@ -54,8 +54,8 @@ VALUES (2507682031,   1,   33557050) /* Setup */
      , (2507682031, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (2507682031, 8040, 23855549, 55.00321, -37.78595, -0.071, -0.6823637, -0.6823637, -0.185418, -0.185418) /* PCAPRecordedLocation */
-/* @teleloc 0x016C01BD [55.003210 -37.785950 -0.071000] -0.682364 -0.682364 -0.185418 -0.185418 */;
+VALUES (2507682031, 8040, 23855549, 55.003212, -37.785954, -0.071, -0.6823637, -0.6823637, -0.18541797, -0.18541797) /* PCAPRecordedLocation */
+/* @teleloc 0x016C01BD [55.003212 -37.785954 -0.071000] -0.682364 -0.682364 -0.185418 -0.185418 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2507682031,   3, 1343084956) /* Wielder */

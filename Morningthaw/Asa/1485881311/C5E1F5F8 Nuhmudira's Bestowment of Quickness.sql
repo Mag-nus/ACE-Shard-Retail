@@ -33,7 +33,7 @@ VALUES (3319920120,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (3319920120,   5,  -0.033) /* ManaRate */
-     , (3319920120,  39, 0.670000016689301) /* DefaultScale */;
+     , (3319920120,  39, 0.6700000166893005) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3319920120,   1, 'Nuhmudira''s Bestowment of Quickness') /* Name */

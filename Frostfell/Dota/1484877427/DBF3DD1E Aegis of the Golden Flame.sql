@@ -44,7 +44,7 @@ VALUES (3690192158,   5, -0.0333000011742115) /* ManaRate */
      , (3690192158,  16,     0.5) /* ArmorModVsCold */
      , (3690192158,  17,       2) /* ArmorModVsFire */
      , (3690192158,  18, 0.800000011920929) /* ArmorModVsAcid */
-     , (3690192158,  19, 1.20000004768372) /* ArmorModVsElectric */
+     , (3690192158,  19, 1.2000000476837158) /* ArmorModVsElectric */
      , (3690192158, 159,       1) /* AbsorbMagicDamage */
      , (3690192158, 165,       1) /* ArmorModVsNether */;
 

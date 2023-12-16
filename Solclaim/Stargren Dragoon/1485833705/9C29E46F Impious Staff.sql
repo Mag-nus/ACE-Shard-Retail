@@ -36,7 +36,7 @@ VALUES (2619991151,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2619991151,  29,       1) /* WeaponDefense */
-     , (2619991151, 144, 1.29444762011717E-314) /* ManaConversionMod */;
+     , (2619991151, 144, 1.29444762E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2619991151,   1, 'Impious Staff') /* Name */

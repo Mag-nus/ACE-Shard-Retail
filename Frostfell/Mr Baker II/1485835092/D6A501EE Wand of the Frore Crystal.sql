@@ -39,11 +39,11 @@ VALUES (3601138158,   1, False) /* Stuck */
      , (3601138158,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3601138158,   5, -0.0333333015441895) /* ManaRate */
-     , (3601138158,  29, 1.17999994754791) /* WeaponDefense */
-     , (3601138158, 144, 0.180000007152557) /* ManaConversionMod */
+VALUES (3601138158,   5, -0.03333330154418945) /* ManaRate */
+     , (3601138158,  29, 1.1799999475479126) /* WeaponDefense */
+     , (3601138158, 144, 0.18000000715255737) /* ManaConversionMod */
      , (3601138158, 147,       1) /* CriticalFrequency */
-     , (3601138158, 152, 1.26999998092651) /* ElementalDamageMod */;
+     , (3601138158, 152, 1.2699999809265137) /* ElementalDamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3601138158,   1, 'Wand of the Frore Crystal') /* Name */
@@ -64,8 +64,8 @@ VALUES (3601138158,   1,   33559423) /* Setup */
      , (3601138158, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (3601138158, 8040, 306577664, 131.7302, 68.7602, 46.729, 0.6374912, 0.6374912, -0.3059493, -0.3059493) /* PCAPRecordedLocation */
-/* @teleloc 0x12460100 [131.730200 68.760200 46.729000] 0.637491 0.637491 -0.305949 -0.305949 */;
+VALUES (3601138158, 8040, 306577664, 131.73018, 68.7602, 46.729, 0.63749117, 0.63749117, -0.30594933, -0.30594933) /* PCAPRecordedLocation */
+/* @teleloc 0x12460100 [131.730179 68.760201 46.729000] 0.637491 0.637491 -0.305949 -0.305949 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (3601138158,   3, 1343295584) /* Wielder */

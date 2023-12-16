@@ -23,7 +23,7 @@ VALUES (3695615248,   1, False) /* Stuck */
      , (3695615248,  69, False) /* IsSellable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3695615248,  39, 0.400000005960464) /* DefaultScale */;
+VALUES (3695615248,  39, 0.4000000059604645) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3695615248,   1, 'A''nekshay Token') /* Name */

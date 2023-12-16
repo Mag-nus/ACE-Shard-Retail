@@ -18,7 +18,7 @@ VALUES (2153220781,   1, False) /* Stuck */
      , (2153220781,  19, True ) /* Attackable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2153220781,  39, 1.22000002861023) /* DefaultScale */;
+VALUES (2153220781,  39, 1.2200000286102295) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2153220781,   1, 'A Dry Withered Leather Bound Journal') /* Name */;

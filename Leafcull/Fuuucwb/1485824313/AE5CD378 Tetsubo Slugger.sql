@@ -22,7 +22,7 @@ VALUES (2925319032,   1, False) /* Stuck */
      , (2925319032,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2925319032,  39, 0.649999976158142) /* DefaultScale */;
+VALUES (2925319032,  39, 0.6499999761581421) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2925319032,   1, 'Tetsubo Slugger') /* Name */;

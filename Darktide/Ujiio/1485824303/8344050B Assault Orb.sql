@@ -33,11 +33,11 @@ VALUES (2202273035,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2202273035,   5,  -0.025) /* ManaRate */
-     , (2202273035,  29, 1.17000000178814) /* WeaponDefense */
+     , (2202273035,  29, 1.1700000017881393) /* WeaponDefense */
      , (2202273035,  39, 0.800000011920929) /* DefaultScale */
      , (2202273035,  77,       1) /* PhysicsScriptIntensity */
-     , (2202273035, 144, 1.84971471602919E-314) /* ManaConversionMod */
-     , (2202273035, 152, 1.07000000029802) /* ElementalDamageMod */;
+     , (2202273035, 144, 1.849714716E-314) /* ManaConversionMod */
+     , (2202273035, 152, 1.0700000002980232) /* ElementalDamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2202273035,   1, 'Assault Orb') /* Name */

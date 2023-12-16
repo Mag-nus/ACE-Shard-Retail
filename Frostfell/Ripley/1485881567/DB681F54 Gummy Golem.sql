@@ -30,8 +30,8 @@ VALUES (3681034068,   1, False) /* Stuck */
      , (3681034068,  69, False) /* IsSellable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3681034068,  39, 0.100000001490116) /* DefaultScale */
-     , (3681034068,  76, 0.600000023841858) /* Translucency */;
+VALUES (3681034068,  39, 0.10000000149011612) /* DefaultScale */
+     , (3681034068,  76, 0.6000000238418579) /* Translucency */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3681034068,   1, 'Gummy Golem') /* Name */

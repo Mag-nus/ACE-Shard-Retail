@@ -39,13 +39,13 @@ VALUES (2153229031,   1, False) /* Stuck */
      , (2153229031,  69, False) /* IsSellable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2153229031,   5, -0.0500000007450581) /* ManaRate */
+VALUES (2153229031,   5, -0.05000000074505806) /* ManaRate */
      , (2153229031,  21,       0) /* WeaponLength */
      , (2153229031,  22,       0) /* DamageVariance */
      , (2153229031,  26,    27.3) /* MaximumVelocity */
-     , (2153229031,  29, 1.21000003814697) /* WeaponDefense */
+     , (2153229031,  29, 1.2100000381469727) /* WeaponDefense */
      , (2153229031,  62,       1) /* WeaponOffense */
-     , (2153229031,  63, 2.20000004768372) /* DamageMod */;
+     , (2153229031,  63, 2.200000047683716) /* DamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2153229031,   1, 'Superb Isparian Bow') /* Name */;

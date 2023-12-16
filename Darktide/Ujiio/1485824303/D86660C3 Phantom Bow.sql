@@ -64,8 +64,8 @@ VALUES (3630588099,   1,   33554728) /* Setup */
      , (3630588099, 8019,         88) /* PCAPRecordedDefaultScript */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (3630588099, 8040, 2380464146, 55.79338, 46.12017, 51.93, 0.9796871, 0, 0, -0.2005321) /* PCAPRecordedLocation */
-/* @teleloc 0x8DE30012 [55.793380 46.120170 51.930000] 0.979687 0.000000 0.000000 -0.200532 */;
+VALUES (3630588099, 8040, 2380464146, 55.793377, 46.120167, 51.93, 0.9796871, 0, 0, -0.20053214) /* PCAPRecordedLocation */
+/* @teleloc 0x8DE30012 [55.793377 46.120167 51.930000] 0.979687 0.000000 0.000000 -0.200532 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (3630588099,   1, 1344077470) /* Owner */

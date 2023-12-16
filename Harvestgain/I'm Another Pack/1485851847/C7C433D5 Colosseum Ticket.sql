@@ -20,7 +20,7 @@ VALUES (3351524309,   1, False) /* Stuck */
      , (3351524309,  19, True ) /* Attackable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3351524309,  39, 0.670000016689301) /* DefaultScale */;
+VALUES (3351524309,  39, 0.6700000166893005) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3351524309,   1, 'Colosseum Ticket') /* Name */;

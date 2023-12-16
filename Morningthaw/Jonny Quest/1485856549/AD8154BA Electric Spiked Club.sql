@@ -35,8 +35,8 @@ INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2910934202,  21,       0) /* WeaponLength */
      , (2910934202,  22,     0.5) /* DamageVariance */
      , (2910934202,  26,       0) /* MaximumVelocity */
-     , (2910934202,  29, 1.05201554298401) /* WeaponDefense */
-     , (2910934202,  62, 1.04541647434235) /* WeaponOffense */
+     , (2910934202,  29, 1.0520155429840088) /* WeaponDefense */
+     , (2910934202,  62, 1.0454164743423462) /* WeaponOffense */
      , (2910934202,  63,       1) /* DamageMod */
      , (2910934202, 8004,       3) /* PCAPRecordedWorkmanship */;
 

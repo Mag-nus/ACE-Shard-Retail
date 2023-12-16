@@ -31,10 +31,10 @@ VALUES (2158094127,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2158094127,   5,   -0.05) /* ManaRate */
-     , (2158094127,  29, 1.17000000178814) /* WeaponDefense */
-     , (2158094127,  76, 0.200000002980232) /* Translucency */
-     , (2158094127, 144, 0.0899999976158142) /* ManaConversionMod */
-     , (2158094127, 152, 1.07000000029802) /* ElementalDamageMod */;
+     , (2158094127,  29, 1.1700000017881393) /* WeaponDefense */
+     , (2158094127,  76, 0.20000000298023224) /* Translucency */
+     , (2158094127, 144, 0.08999999761581422) /* ManaConversionMod */
+     , (2158094127, 152, 1.0700000002980232) /* ElementalDamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2158094127,   1, 'The Healer''s Heart') /* Name */
@@ -55,8 +55,8 @@ VALUES (2158094127,   1,   33556909) /* Setup */
      , (2158094127, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (2158094127, 8040, 2795962422, 161.3503, 142.9185, 104.0202, -0.1900115, -0.1900115, -0.6810989, -0.6810989) /* PCAPRecordedLocation */
-/* @teleloc 0xA6A70036 [161.350300 142.918500 104.020200] -0.190012 -0.190012 -0.681099 -0.681099 */;
+VALUES (2158094127, 8040, 2795962422, 161.35025, 142.91852, 104.02021, -0.19001146, -0.19001146, -0.6810989, -0.6810989) /* PCAPRecordedLocation */
+/* @teleloc 0xA6A70036 [161.350250 142.918518 104.020210] -0.190011 -0.190011 -0.681099 -0.681099 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2158094127,   3, 1343106077) /* Wielder */

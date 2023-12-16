@@ -35,8 +35,8 @@ VALUES (3422464075,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (3422464075,  29,       1) /* WeaponDefense */
-     , (3422464075,  39, 0.600000023841858) /* DefaultScale */
-     , (3422464075, 144, 1.69092192358334E-314) /* ManaConversionMod */;
+     , (3422464075,  39, 0.6000000238418579) /* DefaultScale */
+     , (3422464075, 144, 1.6909219236E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3422464075,   1, 'Impious Staff') /* Name */
@@ -55,8 +55,8 @@ VALUES (3422464075,   1,   33557877) /* Setup */
      , (3422464075, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (3422464075, 8040, 2847014941, 78.93241, 118.9614, 93.92901, -0.703764, -0.703764, -0.06867551, -0.06867551) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B2001D [78.932410 118.961400 93.929010] -0.703764 -0.703764 -0.068676 -0.068676 */;
+VALUES (3422464075, 8040, 2847014941, 78.93241, 118.96136, 93.92901, -0.70376396, -0.70376396, -0.06867551, -0.06867551) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B2001D [78.932411 118.961357 93.929008] -0.703764 -0.703764 -0.068676 -0.068676 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (3422464075,   3, 1344026664) /* Wielder */

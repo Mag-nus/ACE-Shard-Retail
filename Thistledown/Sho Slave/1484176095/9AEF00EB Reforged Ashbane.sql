@@ -23,7 +23,7 @@ VALUES (2599354603,   1, False) /* Stuck */
      , (2599354603,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2599354603,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (2599354603,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2599354603,   1, 'Reforged Ashbane') /* Name */;

@@ -33,8 +33,8 @@ VALUES (2166216998,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2166216998,  29,       1) /* WeaponDefense */
-     , (2166216998,  39, 0.600000023841858) /* DefaultScale */
-     , (2166216998, 144, 1.07025340014916E-314) /* ManaConversionMod */;
+     , (2166216998,  39, 0.6000000238418579) /* DefaultScale */
+     , (2166216998, 144, 1.0702534E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2166216998,   1, 'Glenden Wood Recall Orb') /* Name */

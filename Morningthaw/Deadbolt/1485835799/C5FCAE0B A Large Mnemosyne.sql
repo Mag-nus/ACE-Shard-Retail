@@ -18,7 +18,7 @@ VALUES (3321671179,   1, False) /* Stuck */
      , (3321671179,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3321671179,  39, 1.29999995231628) /* DefaultScale */;
+VALUES (3321671179,  39, 1.2999999523162842) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3321671179,   1, 'A Large Mnemosyne') /* Name */;

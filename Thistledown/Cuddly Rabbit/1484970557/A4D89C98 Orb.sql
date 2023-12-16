@@ -23,8 +23,8 @@ VALUES (2765659288,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2765659288,  29,       1) /* WeaponDefense */
-     , (2765659288,  39, 0.600000023841858) /* DefaultScale */
-     , (2765659288, 144, 1.36641724230256E-314) /* ManaConversionMod */;
+     , (2765659288,  39, 0.6000000238418579) /* DefaultScale */
+     , (2765659288, 144, 1.3664172423E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2765659288,   1, 'Orb') /* Name */

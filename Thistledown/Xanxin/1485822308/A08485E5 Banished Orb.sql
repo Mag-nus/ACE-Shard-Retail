@@ -27,7 +27,7 @@ VALUES (2693039589,   1, False) /* Stuck */
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2693039589,   5,  -0.033) /* ManaRate */
      , (2693039589,  29,       1) /* WeaponDefense */
-     , (2693039589, 144, 1.33053834381533E-314) /* ManaConversionMod */;
+     , (2693039589, 144, 1.330538344E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2693039589,   1, 'Banished Orb') /* Name */;

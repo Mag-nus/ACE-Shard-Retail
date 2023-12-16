@@ -24,8 +24,8 @@ VALUES (3697657091,   1, False) /* Stuck */
      , (3697657091,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3697657091,  39, 1.29999995231628) /* DefaultScale */
-     , (3697657091,  76, 0.600000023841858) /* Translucency */;
+VALUES (3697657091,  39, 1.2999999523162842) /* DefaultScale */
+     , (3697657091,  76, 0.6000000238418579) /* Translucency */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3697657091,   1, 'Drudge Scrying Orb') /* Name */;

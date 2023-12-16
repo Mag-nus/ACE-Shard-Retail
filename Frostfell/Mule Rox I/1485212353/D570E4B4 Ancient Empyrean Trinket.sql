@@ -20,7 +20,7 @@ VALUES (3580945588,   1, False) /* Stuck */
      , (3580945588,  19, True ) /* Attackable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3580945588,  39, 0.400000005960464) /* DefaultScale */;
+VALUES (3580945588,  39, 0.4000000059604645) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3580945588,   1, 'Ancient Empyrean Trinket') /* Name */;

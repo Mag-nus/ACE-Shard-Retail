@@ -33,9 +33,9 @@ VALUES (2147969473,   1, False) /* Stuck */
      , (2147969473,  99, True ) /* Ivoryable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2147969473,  29, 1.28999996185303) /* WeaponDefense */
-     , (2147969473, 144, 0.203999996185303) /* ManaConversionMod */
-     , (2147969473, 152, 1.0900000333786) /* ElementalDamageMod */;
+VALUES (2147969473,  29, 1.2899999618530273) /* WeaponDefense */
+     , (2147969473, 144, 0.20399999618530273) /* ManaConversionMod */
+     , (2147969473, 152, 1.090000033378601) /* ElementalDamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2147969473,   1, 'Shadownether Isparian Wand') /* Name */

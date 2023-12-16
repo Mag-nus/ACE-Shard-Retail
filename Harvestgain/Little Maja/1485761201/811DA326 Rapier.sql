@@ -35,8 +35,8 @@ VALUES (2166203174,  21,       0) /* WeaponLength */
      , (2166203174,  22,     0.5) /* DamageVariance */
      , (2166203174,  26,       0) /* MaximumVelocity */
      , (2166203174,  29,       1) /* WeaponDefense */
-     , (2166203174,  39, 1.10000002384186) /* DefaultScale */
-     , (2166203174,  62, 1.07735241949558) /* WeaponOffense */
+     , (2166203174,  39, 1.100000023841858) /* DefaultScale */
+     , (2166203174,  62, 1.0773524194955826) /* WeaponOffense */
      , (2166203174,  63,       1) /* DamageMod */
      , (2166203174, 8004,       5) /* PCAPRecordedWorkmanship */;
 

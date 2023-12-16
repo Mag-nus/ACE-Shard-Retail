@@ -18,8 +18,8 @@ VALUES (2596953882,   1, False) /* Stuck */
      , (2596953882,  19, True ) /* Attackable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2596953882,  39, 1.22000002861023) /* DefaultScale */
-     , (2596953882,  54, 0.300000011920929) /* UseRadius */;
+VALUES (2596953882,  39, 1.2200000286102295) /* DefaultScale */
+     , (2596953882,  54, 0.30000001192092896) /* UseRadius */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2596953882,   1, 'Unreadable Text') /* Name */;

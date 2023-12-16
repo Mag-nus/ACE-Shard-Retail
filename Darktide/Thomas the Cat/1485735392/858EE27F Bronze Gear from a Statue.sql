@@ -18,7 +18,7 @@ VALUES (2240733823,   1, False) /* Stuck */
      , (2240733823,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2240733823,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (2240733823,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2240733823,   1, 'Bronze Gear from a Statue') /* Name */;

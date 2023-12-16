@@ -28,9 +28,9 @@ VALUES (2187178030,   1, False) /* Stuck */
      , (2187178030,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2187178030,   5, -0.0500000007450581) /* ManaRate */
+VALUES (2187178030,   5, -0.05000000074505806) /* ManaRate */
      , (2187178030,  29,       1) /* WeaponDefense */
-     , (2187178030, 144, 0.0500000007450581) /* ManaConversionMod */;
+     , (2187178030, 144, 0.05000000074505806) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2187178030,   1, 'Virindi Implant') /* Name */

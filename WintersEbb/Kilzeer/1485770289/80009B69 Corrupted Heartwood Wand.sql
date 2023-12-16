@@ -46,13 +46,13 @@ VALUES (2147523433,   1, False) /* Stuck */
      , (2147523433,  99, False) /* Ivoryable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2147523433,   5, -0.025000000372529) /* ManaRate */
-     , (2147523433,  29, 1.56000001728535) /* WeaponDefense */
-     , (2147523433,  39, 1.60000002384186) /* DefaultScale */
-     , (2147523433, 144, 0.233999985218048) /* ManaConversionMod */
+VALUES (2147523433,   5, -0.02500000037252903) /* ManaRate */
+     , (2147523433,  29, 1.560000017285347) /* WeaponDefense */
+     , (2147523433,  39, 1.600000023841858) /* DefaultScale */
+     , (2147523433, 144, 0.23399998521804832) /* ManaConversionMod */
      , (2147523433, 149,    1.01) /* WeaponMissileDefense */
      , (2147523433, 150,    1.01) /* WeaponMagicDefense */
-     , (2147523433, 152, 1.25999994575977) /* ElementalDamageMod */
+     , (2147523433, 152, 1.2599999457597733) /* ElementalDamageMod */
      , (2147523433, 8004,       8) /* PCAPRecordedWorkmanship */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
@@ -77,8 +77,8 @@ VALUES (2147523433,   1,   33561674) /* Setup */
      , (2147523433, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (2147523433, 8040, 2711879703, 67.96482, 144.6879, 49.929, -0.7070988, -0.7070988, -0.003354646, -0.003354646) /* PCAPRecordedLocation */
-/* @teleloc 0xA1A40017 [67.964820 144.687900 49.929000] -0.707099 -0.707099 -0.003355 -0.003355 */;
+VALUES (2147523433, 8040, 2711879703, 67.96482, 144.68794, 49.929, -0.70709884, -0.70709884, -0.0033546463, -0.0033546463) /* PCAPRecordedLocation */
+/* @teleloc 0xA1A40017 [67.964821 144.687943 49.929001] -0.707099 -0.707099 -0.003355 -0.003355 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2147523433,   3, 1342719929) /* Wielder */

@@ -37,7 +37,7 @@ VALUES (2157272776,   1, False) /* Stuck */
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2157272776,   5,  -0.083) /* ManaRate */
      , (2157272776,  29,       1) /* WeaponDefense */
-     , (2157272776, 144, 1.06583436733018E-314) /* ManaConversionMod */;
+     , (2157272776, 144, 1.0658343673E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2157272776,   1, 'Staff of Aerfalle') /* Name */

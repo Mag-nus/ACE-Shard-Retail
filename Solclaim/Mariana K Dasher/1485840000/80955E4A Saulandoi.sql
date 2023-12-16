@@ -35,7 +35,7 @@ VALUES (2157272650,   1, False) /* Stuck */
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2157272650,   5,    -0.2) /* ManaRate */
      , (2157272650,  29,       1) /* WeaponDefense */
-     , (2157272650, 144, 1.06583430507791E-314) /* ManaConversionMod */;
+     , (2157272650, 144, 1.065834305E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2157272650,   1, 'Saulandoi') /* Name */
@@ -54,7 +54,7 @@ VALUES (2157272650,   1,   33557968) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (2157272650, 8040, 3332964380, 77.78149, 93.36594, 41.929, 0.7067187, 0.7067187, -0.02342423, -0.02342423) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001C [77.781490 93.365940 41.929000] 0.706719 0.706719 -0.023424 -0.023424 */;
+/* @teleloc 0xC6A9001C [77.781487 93.365936 41.929001] 0.706719 0.706719 -0.023424 -0.023424 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2157272650,   3, 1342939433) /* Wielder */

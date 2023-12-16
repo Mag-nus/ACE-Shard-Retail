@@ -22,7 +22,7 @@ VALUES (2283005286,   1, False) /* Stuck */
      , (2283005286,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2283005286,  39, 1.10000002384186) /* DefaultScale */;
+VALUES (2283005286,  39, 1.100000023841858) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2283005286,   1, 'Broad Sword') /* Name */;
@@ -39,7 +39,7 @@ VALUES (2283005286,   1,   33554758) /* Setup */
      , (2283005286, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (2283005286, 8040, 23855752, 6.916658, -1.986812, 5.929, 0.4909298, 0.4909298, -0.5089086, -0.5089086) /* PCAPRecordedLocation */
+VALUES (2283005286, 8040, 23855752, 6.9166584, -1.9868115, 5.929, 0.49092978, 0.49092978, -0.50890857, -0.50890857) /* PCAPRecordedLocation */
 /* @teleloc 0x016C0288 [6.916658 -1.986812 5.929000] 0.490930 0.490930 -0.508909 -0.508909 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)

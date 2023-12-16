@@ -22,7 +22,7 @@ VALUES (2748574673,   1, False) /* Stuck */
      , (2748574673,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2748574673,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (2748574673,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2748574673,   1, 'Training Tungi') /* Name */;
@@ -39,8 +39,8 @@ VALUES (2748574673,   1,   33554938) /* Setup */
      , (2748574673, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (2748574673, 8040, 23855554, 60.5917, -33.72726, -0.071, -0.4243734, -0.4243734, -0.5656034, -0.5656034) /* PCAPRecordedLocation */
-/* @teleloc 0x016C01C2 [60.591700 -33.727260 -0.071000] -0.424373 -0.424373 -0.565603 -0.565603 */;
+VALUES (2748574673, 8040, 23855554, 60.591698, -33.727257, -0.071, -0.42437336, -0.42437336, -0.56560344, -0.56560344) /* PCAPRecordedLocation */
+/* @teleloc 0x016C01C2 [60.591698 -33.727257 -0.071000] -0.424373 -0.424373 -0.565603 -0.565603 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2748574673,   3, 1343464366) /* Wielder */

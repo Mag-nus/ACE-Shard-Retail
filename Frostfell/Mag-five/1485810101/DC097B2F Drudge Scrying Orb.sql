@@ -34,12 +34,12 @@ VALUES (3691608879,   1, False) /* Stuck */
      , (3691608879,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3691608879,   5, -0.0333329997956753) /* ManaRate */
-     , (3691608879,  29, 1.14999997615814) /* WeaponDefense */
-     , (3691608879,  39, 1.29999995231628) /* DefaultScale */
-     , (3691608879,  76, 0.600000023841858) /* Translucency */
-     , (3691608879, 144, 0.300000011920929) /* ManaConversionMod */
-     , (3691608879, 152, 1.20000004768372) /* ElementalDamageMod */;
+VALUES (3691608879,   5, -0.03333299979567528) /* ManaRate */
+     , (3691608879,  29, 1.149999976158142) /* WeaponDefense */
+     , (3691608879,  39, 1.2999999523162842) /* DefaultScale */
+     , (3691608879,  76, 0.6000000238418579) /* Translucency */
+     , (3691608879, 144, 0.30000001192092896) /* ManaConversionMod */
+     , (3691608879, 152, 1.2000000476837158) /* ElementalDamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3691608879,   1, 'Drudge Scrying Orb') /* Name */

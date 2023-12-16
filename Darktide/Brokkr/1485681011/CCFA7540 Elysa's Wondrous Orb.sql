@@ -33,7 +33,7 @@ VALUES (3438966080,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (3438966080,  29,       1) /* WeaponDefense */
-     , (3438966080, 144, 1.69907499734134E-314) /* ManaConversionMod */;
+     , (3438966080, 144, 1.6990749973E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3438966080,   1, 'Elysa''s Wondrous Orb') /* Name */

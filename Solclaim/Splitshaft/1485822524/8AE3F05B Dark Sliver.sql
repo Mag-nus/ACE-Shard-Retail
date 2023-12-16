@@ -24,7 +24,7 @@ VALUES (2330194011,   1, False) /* Stuck */
      , (2330194011,  69, False) /* IsSellable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2330194011,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (2330194011,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2330194011,   1, 'Dark Sliver') /* Name */

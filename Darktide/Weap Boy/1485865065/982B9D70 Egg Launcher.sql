@@ -30,7 +30,7 @@ VALUES (2552995184,   1, False) /* Stuck */
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2552995184,  29,       1) /* WeaponDefense */
      , (2552995184,  39, 0.699999988079071) /* DefaultScale */
-     , (2552995184, 144, 1.26134721441255E-314) /* ManaConversionMod */;
+     , (2552995184, 144, 1.2613472144E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2552995184,   1, 'Egg Launcher') /* Name */

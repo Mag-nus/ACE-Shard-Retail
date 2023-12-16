@@ -33,14 +33,14 @@ VALUES (3015048082,   1, False) /* Stuck */
      , (3015048082,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3015048082,   5, -0.0500000007450581) /* ManaRate */
-     , (3015048082,  13, 2.70000004768372) /* ArmorModVsSlash */
+VALUES (3015048082,   5, -0.05000000074505806) /* ManaRate */
+     , (3015048082,  13, 2.700000047683716) /* ArmorModVsSlash */
      , (3015048082,  14,     2.5) /* ArmorModVsPierce */
-     , (3015048082,  15, 2.90000009536743) /* ArmorModVsBludgeon */
-     , (3015048082,  16, 0.600000023841858) /* ArmorModVsCold */
-     , (3015048082,  17, 0.600000023841858) /* ArmorModVsFire */
+     , (3015048082,  15, 2.9000000953674316) /* ArmorModVsBludgeon */
+     , (3015048082,  16, 0.6000000238418579) /* ArmorModVsCold */
+     , (3015048082,  17, 0.6000000238418579) /* ArmorModVsFire */
      , (3015048082,  18,       1) /* ArmorModVsAcid */
-     , (3015048082,  19, 0.600000023841858) /* ArmorModVsElectric */
+     , (3015048082,  19, 0.6000000238418579) /* ArmorModVsElectric */
      , (3015048082,  39,    1.25) /* DefaultScale */
      , (3015048082, 165,       1) /* ArmorModVsNether */
      , (3015048082, 8004,       4) /* PCAPRecordedWorkmanship */;
@@ -61,8 +61,8 @@ VALUES (3015048082,   1,   33554786) /* Setup */
      , (3015048082, 8009,          3) /* PCAPRecordedParentLocation - Shield */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (3015048082, 8040, 3332964380, 78.73885, 95.45222, 41.926, 0.4992979, -0.1906046, -0.8207641, -0.2017867) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001C [78.738850 95.452220 41.926000] 0.499298 -0.190605 -0.820764 -0.201787 */;
+VALUES (3015048082, 8040, 3332964380, 78.738846, 95.45222, 41.926003, 0.49929786, -0.19060464, -0.82076406, -0.20178665) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A9001C [78.738846 95.452217 41.926003] 0.499298 -0.190605 -0.820764 -0.201787 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (3015048082,   3, 1342992102) /* Wielder */

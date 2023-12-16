@@ -31,7 +31,7 @@ VALUES (2159173807,   1, False) /* Stuck */
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2159173807,   5,   -0.05) /* ManaRate */
      , (2159173807,  29,       1) /* WeaponDefense */
-     , (2159173807, 144, 1.06677360143896E-314) /* ManaConversionMod */;
+     , (2159173807, 144, 1.0667736014E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2159173807,   1, 'Dark Sorcerer''s Phylactery') /* Name */
@@ -48,8 +48,8 @@ VALUES (2159173807,   1,   33557338) /* Setup */
      , (2159173807, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (2159173807, 8040, 2592145426, 55.84925, 31.71242, 41.237, -0.5126674, -0.5126674, -0.4870033, -0.4870033) /* PCAPRecordedLocation */
-/* @teleloc 0x9A810012 [55.849250 31.712420 41.237000] -0.512667 -0.512667 -0.487003 -0.487003 */;
+VALUES (2159173807, 8040, 2592145426, 55.84925, 31.712416, 41.236996, -0.51266736, -0.51266736, -0.48700327, -0.48700327) /* PCAPRecordedLocation */
+/* @teleloc 0x9A810012 [55.849251 31.712416 41.236996] -0.512667 -0.512667 -0.487003 -0.487003 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2159173807,   3, 1343277742) /* Wielder */

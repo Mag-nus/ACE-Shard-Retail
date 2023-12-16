@@ -31,7 +31,7 @@ INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (3710972930,   5,  -0.025) /* ManaRate */
      , (3710972930,  29,       1) /* WeaponDefense */
      , (3710972930,  39, 0.800000011920929) /* DefaultScale */
-     , (3710972930, 144,    0.03) /* ManaConversionMod */;
+     , (3710972930, 144, 0.030000000000000027) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3710972930,   1, 'Wand of Black Fire') /* Name */

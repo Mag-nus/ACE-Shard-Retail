@@ -18,7 +18,7 @@ VALUES (2248052947,   1, False) /* Stuck */
      , (2248052947,  19, True ) /* Attackable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2248052947,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (2248052947,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2248052947,   1, 'Luminance, and the Paths of the Empyrean') /* Name */;

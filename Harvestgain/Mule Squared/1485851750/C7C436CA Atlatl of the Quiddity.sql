@@ -35,13 +35,13 @@ VALUES (3351525066,   1, False) /* Stuck */
      , (3351525066,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3351525066,   5, -0.025000000372529) /* ManaRate */
+VALUES (3351525066,   5, -0.02500000037252903) /* ManaRate */
      , (3351525066,  21,       0) /* WeaponLength */
      , (3351525066,  22,       0) /* DamageVariance */
      , (3351525066,  26,    24.9) /* MaximumVelocity */
      , (3351525066,  29,       1) /* WeaponDefense */
      , (3351525066,  62,       1) /* WeaponOffense */
-     , (3351525066,  63, 2.13000011444092) /* DamageMod */;
+     , (3351525066,  63, 2.130000114440918) /* DamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3351525066,   1, 'Atlatl of the Quiddity') /* Name */

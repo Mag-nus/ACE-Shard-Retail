@@ -32,7 +32,7 @@ INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2157272733,   5,  -0.025) /* ManaRate */
      , (2157272733,  29,       1) /* WeaponDefense */
      , (2157272733,  76,     0.5) /* Translucency */
-     , (2157272733, 144, 1.06583434608536E-314) /* ManaConversionMod */;
+     , (2157272733, 144, 1.065834346E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2157272733,   1, 'Essence Flicker') /* Name */

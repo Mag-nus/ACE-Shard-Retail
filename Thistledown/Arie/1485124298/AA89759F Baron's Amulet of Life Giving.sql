@@ -25,7 +25,7 @@ VALUES (2861135263,   1, False) /* Stuck */
      , (2861135263,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2861135263,   5, -0.0333329997956753) /* ManaRate */
+VALUES (2861135263,   5, -0.03333299979567528) /* ManaRate */
      , (2861135263,  39, 0.800000011920929) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)

@@ -29,11 +29,11 @@ VALUES (2865240964,   1, False) /* Stuck */
      , (2865240964,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2865240964,   5, -0.0500000007450581) /* ManaRate */
+VALUES (2865240964,   5, -0.05000000074505806) /* ManaRate */
      , (2865240964,  29,       1) /* WeaponDefense */
-     , (2865240964,  39, 1.20000004768372) /* DefaultScale */
+     , (2865240964,  39, 1.2000000476837158) /* DefaultScale */
      , (2865240964,  76,     0.5) /* Translucency */
-     , (2865240964, 144, 0.0500000007450581) /* ManaConversionMod */;
+     , (2865240964, 144, 0.05000000074505806) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2865240964,   1, 'Essence Flare') /* Name */

@@ -25,7 +25,7 @@ VALUES (2868907784,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2868907784,   5, -0.0125) /* ManaRate */
-     , (2868907784,  39, 0.670000016689301) /* DefaultScale */;
+     , (2868907784,  39, 0.6700000166893005) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2868907784,   1, 'Viamontian Guardian Bracelet') /* Name */

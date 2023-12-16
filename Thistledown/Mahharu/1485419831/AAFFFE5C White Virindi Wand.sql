@@ -32,7 +32,7 @@ VALUES (2868903516,   5,  -0.033) /* ManaRate */
      , (2868903516,  29,       1) /* WeaponDefense */
      , (2868903516,  39, 0.800000011920929) /* DefaultScale */
      , (2868903516, 144,    0.05) /* ManaConversionMod */
-     , (2868903516, 152, 1.07000000029802) /* ElementalDamageMod */;
+     , (2868903516, 152, 1.0700000002980232) /* ElementalDamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2868903516,   1, 'White Virindi Wand') /* Name */;

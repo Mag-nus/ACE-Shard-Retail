@@ -38,8 +38,8 @@ VALUES (2293225367,   1,   33554786) /* Setup */
      , (2293225367, 8009,          3) /* PCAPRecordedParentLocation - Shield */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (2293225367, 8040, 2847080488, 114.0925, 185.0654, 96.22038, 0.5300993, -0.01795131, -0.8424141, -0.09492567) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B30028 [114.092500 185.065400 96.220380] 0.530099 -0.017951 -0.842414 -0.094926 */;
+VALUES (2293225367, 8040, 2847080488, 114.09245, 185.06541, 96.220375, 0.53009933, -0.017951306, -0.84241414, -0.09492567) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B30028 [114.092453 185.065414 96.220375] 0.530099 -0.017951 -0.842414 -0.094926 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2293225367,   3, 1342368999) /* Wielder */

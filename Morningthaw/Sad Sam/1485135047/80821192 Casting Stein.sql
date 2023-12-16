@@ -24,7 +24,7 @@ VALUES (2156007826,   1, False) /* Stuck */
      , (2156007826,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2156007826,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (2156007826,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2156007826,   1, 'Casting Stein') /* Name */;
@@ -41,8 +41,8 @@ VALUES (2156007826,   1,   33558217) /* Setup */
      , (2156007826, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (2156007826, 8040, 3332964380, 80.48275, 94.50373, 41.929, -0.7046986, -0.7046986, -0.05830839, -0.05830839) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001C [80.482750 94.503730 41.929000] -0.704699 -0.704699 -0.058308 -0.058308 */;
+VALUES (2156007826, 8040, 3332964380, 80.48275, 94.50373, 41.929, -0.7046986, -0.7046986, -0.058308393, -0.058308393) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A9001C [80.482750 94.503731 41.929001] -0.704699 -0.704699 -0.058308 -0.058308 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2156007826,   3, 1343070184) /* Wielder */

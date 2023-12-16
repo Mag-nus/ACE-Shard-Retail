@@ -37,11 +37,11 @@ VALUES (2150887312,   1, False) /* Stuck */
      , (2150887312,  99, False) /* Ivoryable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2150887312,   5, -0.025000000372529) /* ManaRate */
-     , (2150887312,  29, 1.13999998569489) /* WeaponDefense */
-     , (2150887312, 144, 0.0799999982118607) /* ManaConversionMod */
+VALUES (2150887312,   5, -0.02500000037252903) /* ManaRate */
+     , (2150887312,  29, 1.1399999856948853) /* WeaponDefense */
+     , (2150887312, 144, 0.07999999821186066) /* ManaConversionMod */
      , (2150887312, 147,       1) /* CriticalFrequency */
-     , (2150887312, 152, 1.19000005722046) /* ElementalDamageMod */;
+     , (2150887312, 152, 1.190000057220459) /* ElementalDamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2150887312,   1, 'Enhanced Dissolving Isparian Wand') /* Name */

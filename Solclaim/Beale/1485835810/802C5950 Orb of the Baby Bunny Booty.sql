@@ -32,11 +32,11 @@ VALUES (2150390096,   1, False) /* Stuck */
      , (2150390096,  99, False) /* Ivoryable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2150390096,   5, -0.0199999995529652) /* ManaRate */
-     , (2150390096,  29, 1.20000000298023) /* WeaponDefense */
+VALUES (2150390096,   5, -0.019999999552965164) /* ManaRate */
+     , (2150390096,  29, 1.2000000029802322) /* WeaponDefense */
      , (2150390096,  39,     0.5) /* DefaultScale */
-     , (2150390096, 144, 0.449999988079071) /* ManaConversionMod */
-     , (2150390096, 152, 1.07999999821186) /* ElementalDamageMod */;
+     , (2150390096, 144, 0.44999998807907104) /* ManaConversionMod */
+     , (2150390096, 152, 1.0799999982118607) /* ElementalDamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2150390096,   1, 'Orb of the Baby Bunny Booty') /* Name */

@@ -30,8 +30,8 @@ VALUES (2461542935,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2461542935,  29,       1) /* WeaponDefense */
-     , (2461542935,  39, 1.20000004768372) /* DefaultScale */
-     , (2461542935, 144, 0.0700000002980232) /* ManaConversionMod */;
+     , (2461542935,  39, 1.2000000476837158) /* DefaultScale */
+     , (2461542935, 144, 0.07000000029802322) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2461542935,   1, 'Casting Stein') /* Name */

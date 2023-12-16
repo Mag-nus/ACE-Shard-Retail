@@ -27,8 +27,8 @@ VALUES (2461716362,   1, False) /* Stuck */
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2461716362,  13,       1) /* ArmorModVsSlash */
      , (2461716362,  14, 0.800000011920929) /* ArmorModVsPierce */
-     , (2461716362,  15, 0.600000023841858) /* ArmorModVsBludgeon */
-     , (2461716362,  16, 0.600000023841858) /* ArmorModVsCold */
+     , (2461716362,  15, 0.6000000238418579) /* ArmorModVsBludgeon */
+     , (2461716362,  16, 0.6000000238418579) /* ArmorModVsCold */
      , (2461716362,  17,       1) /* ArmorModVsFire */
      , (2461716362,  18, 0.800000011920929) /* ArmorModVsAcid */
      , (2461716362,  19,       1) /* ArmorModVsElectric */

@@ -18,7 +18,7 @@ VALUES (2248052951,   1, False) /* Stuck */
      , (2248052951,  19, True ) /* Attackable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2248052951,  39, 1.10000002384186) /* DefaultScale */;
+VALUES (2248052951,  39, 1.100000023841858) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2248052951,   1, 'Innate Ability Switching') /* Name */;

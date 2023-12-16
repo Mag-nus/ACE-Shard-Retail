@@ -23,7 +23,7 @@ VALUES (2906539995,   1, False) /* Stuck */
      , (2906539995,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2906539995,  39, 1.29999995231628) /* DefaultScale */;
+VALUES (2906539995,  39, 1.2999999523162842) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2906539995,   1, 'Sword of Lost Light') /* Name */;
@@ -39,8 +39,8 @@ VALUES (2906539995,   1,   33558416) /* Setup */
      , (2906539995, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (2906539995, 8040, 3332964380, 72.39559, 94.39713, 41.929, 0.2550222, 0.2550222, -0.6595178, -0.6595178) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001C [72.395590 94.397130 41.929000] 0.255022 0.255022 -0.659518 -0.659518 */;
+VALUES (2906539995, 8040, 3332964380, 72.39559, 94.397125, 41.929, 0.25502217, 0.25502217, -0.65951777, -0.65951777) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A9001C [72.395592 94.397125 41.929001] 0.255022 0.255022 -0.659518 -0.659518 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2906539995,   3, 1343126529) /* Wielder */

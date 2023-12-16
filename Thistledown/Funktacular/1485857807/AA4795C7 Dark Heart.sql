@@ -32,9 +32,9 @@ VALUES (2856818119,   1, False) /* Stuck */
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2856818119,   5,   -0.05) /* ManaRate */
      , (2856818119,  29,       1) /* WeaponDefense */
-     , (2856818119,  39, 1.39999997615814) /* DefaultScale */
+     , (2856818119,  39, 1.399999976158142) /* DefaultScale */
      , (2856818119,  76,     0.5) /* Translucency */
-     , (2856818119, 144, 1.41145568901471E-314) /* ManaConversionMod */;
+     , (2856818119, 144, 1.411455689E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2856818119,   1, 'Dark Heart') /* Name */

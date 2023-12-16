@@ -29,9 +29,9 @@ VALUES (2248037911,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2248037911,   5,   -0.05) /* ManaRate */
-     , (2248037911,  29, 1.17000000178814) /* WeaponDefense */
-     , (2248037911, 144, 0.0899999976158142) /* ManaConversionMod */
-     , (2248037911, 152, 1.07000000029802) /* ElementalDamageMod */;
+     , (2248037911,  29, 1.1700000017881393) /* WeaponDefense */
+     , (2248037911, 144, 0.08999999761581422) /* ManaConversionMod */
+     , (2248037911, 152, 1.0700000002980232) /* ElementalDamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2248037911,   1, 'Hieromancer''s Orb') /* Name */
@@ -53,8 +53,8 @@ VALUES (2248037911,   1,   33556965) /* Setup */
      , (2248037911, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (2248037911, 8040, 2847146026, 139.0139, 39.91153, 93.92901, -0.6402848, -0.6402848, -0.3000588, -0.3000588) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B4002A [139.013900 39.911530 93.929010] -0.640285 -0.640285 -0.300059 -0.300059 */;
+VALUES (2248037911, 8040, 2847146026, 139.01385, 39.911533, 93.92901, -0.64028484, -0.64028484, -0.30005884, -0.30005884) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B4002A [139.013855 39.911533 93.929008] -0.640285 -0.640285 -0.300059 -0.300059 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2248037911,   3, 1342257025) /* Wielder */

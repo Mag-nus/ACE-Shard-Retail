@@ -50,7 +50,7 @@ VALUES (2868913095,   5,   -0.05) /* ManaRate */
      , (2868913095,  22,    0.35) /* DamageVariance */
      , (2868913095,  26,       0) /* MaximumVelocity */
      , (2868913095,  29,    1.16) /* WeaponDefense */
-     , (2868913095,  62,    1.14) /* WeaponOffense */
+     , (2868913095,  62, 1.1400000000000001) /* WeaponOffense */
      , (2868913095,  63,       1) /* DamageMod */
      , (2868913095, 149,    1.04) /* WeaponMissileDefense */
      , (2868913095, 150,   1.035) /* WeaponMagicDefense */

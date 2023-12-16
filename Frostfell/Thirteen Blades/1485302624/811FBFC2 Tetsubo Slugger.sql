@@ -21,7 +21,7 @@ VALUES (2166341570,   1, False) /* Stuck */
      , (2166341570,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2166341570,  39, 0.649999976158142) /* DefaultScale */;
+VALUES (2166341570,  39, 0.6499999761581421) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2166341570,   1, 'Tetsubo Slugger') /* Name */;
@@ -38,8 +38,8 @@ VALUES (2166341570,   1,   33560728) /* Setup */
      , (2166341570, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (2166341570, 8040, 3332964372, 70.9231, 91.351, 41.929, -0.3360488, -0.3360488, -0.6221504, -0.6221504) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A90014 [70.923100 91.351000 41.929000] -0.336049 -0.336049 -0.622150 -0.622150 */;
+VALUES (2166341570, 8040, 3332964372, 70.9231, 91.351, 41.929, -0.33604884, -0.33604884, -0.6221504, -0.6221504) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A90014 [70.923103 91.350998 41.929001] -0.336049 -0.336049 -0.622150 -0.622150 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2166341570,   3, 1343287902) /* Wielder */

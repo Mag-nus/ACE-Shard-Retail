@@ -19,7 +19,7 @@ VALUES (2153621366,   1, False) /* Stuck */
      , (2153621366,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2153621366,  39, 1.66999995708466) /* DefaultScale */;
+VALUES (2153621366,  39, 1.6699999570846558) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2153621366,   1, 'Completed Advanced Sword Skill Puzzle') /* Name */;

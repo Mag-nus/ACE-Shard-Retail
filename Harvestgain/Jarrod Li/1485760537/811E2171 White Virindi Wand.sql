@@ -31,7 +31,7 @@ INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2166235505,   5,  -0.033) /* ManaRate */
      , (2166235505,  29,       1) /* WeaponDefense */
      , (2166235505,  39, 0.800000011920929) /* DefaultScale */
-     , (2166235505, 144,    0.05) /* ManaConversionMod */;
+     , (2166235505, 144, 0.050000000000000044) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2166235505,   1, 'White Virindi Wand') /* Name */;

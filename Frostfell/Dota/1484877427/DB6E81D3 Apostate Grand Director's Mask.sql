@@ -31,14 +31,14 @@ VALUES (3681452499,   1, False) /* Stuck */
      , (3681452499,  99, True ) /* Ivoryable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3681452499,   5, -0.0500000007450581) /* ManaRate */
+VALUES (3681452499,   5, -0.05000000074505806) /* ManaRate */
      , (3681452499,  13,       1) /* ArmorModVsSlash */
      , (3681452499,  14,       1) /* ArmorModVsPierce */
      , (3681452499,  15,       1) /* ArmorModVsBludgeon */
      , (3681452499,  16, 0.800000011920929) /* ArmorModVsCold */
      , (3681452499,  17, 0.800000011920929) /* ArmorModVsFire */
-     , (3681452499,  18, 0.600000023841858) /* ArmorModVsAcid */
-     , (3681452499,  19, 1.20000004768372) /* ArmorModVsElectric */
+     , (3681452499,  18, 0.6000000238418579) /* ArmorModVsAcid */
+     , (3681452499,  19, 1.2000000476837158) /* ArmorModVsElectric */
      , (3681452499, 165,       1) /* ArmorModVsNether */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)

@@ -30,7 +30,7 @@ VALUES (2677292821,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2677292821,   5,   -0.04) /* ManaRate */
-     , (2677292821,  39, 0.670000016689301) /* DefaultScale */;
+     , (2677292821,  39, 0.6700000166893005) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2677292821,   1, 'Glittering Bracelet of Acid Protection') /* Name */

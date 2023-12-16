@@ -18,8 +18,8 @@ VALUES (2166235508,   1, False) /* Stuck */
      , (2166235508,  19, True ) /* Attackable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2166235508,  39, 1.22000002861023) /* DefaultScale */
-     , (2166235508,  54, 0.300000011920929) /* UseRadius */;
+VALUES (2166235508,  39, 1.2200000286102295) /* DefaultScale */
+     , (2166235508,  54, 0.30000001192092896) /* UseRadius */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2166235508,   1, 'The Story of Koji''s Sword') /* Name */;

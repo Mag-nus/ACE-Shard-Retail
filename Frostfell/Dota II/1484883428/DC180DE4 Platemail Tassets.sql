@@ -21,7 +21,7 @@ VALUES (3692563940,   1, False) /* Stuck */
      , (3692563940,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3692563940,  39, 1.33000004291534) /* DefaultScale */;
+VALUES (3692563940,  39, 1.3300000429153442) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3692563940,   1, 'Platemail Tassets') /* Name */;

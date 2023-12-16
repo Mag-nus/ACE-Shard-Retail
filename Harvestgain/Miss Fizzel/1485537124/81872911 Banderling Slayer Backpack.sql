@@ -19,7 +19,7 @@ VALUES (2173118737,   1, False) /* Stuck */
      , (2173118737,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2173118737,  39, 1.29999995231628) /* DefaultScale */;
+VALUES (2173118737,  39, 1.2999999523162842) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2173118737,   1, 'Banderling Slayer Backpack') /* Name */;

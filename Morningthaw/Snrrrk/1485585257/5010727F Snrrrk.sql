@@ -88,7 +88,7 @@ VALUES (1343255167,   1, True ) /* Stuck */
      , (1343255167, 125, True ) /* LoginAtLifestone */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343255167,  39, 0.600000023841858) /* DefaultScale */
+VALUES (1343255167,  39, 0.6000000238418579) /* DefaultScale */
      , (1343255167, 125,       1) /* ResistHealthDrain */
      , (1343255167, 163,       1) /* GlobalXpMod */
      , (1343255167, 168,       0) /* WeaponAuraOffense */
@@ -114,10 +114,10 @@ VALUES (1343255167,   1,   33561120) /* Setup */
      , (1343255167, 8005,     104579) /* PCAPRecordedPhysicsDesc - CSetup, MTable, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343255167, 1, 3906076687, 47.52431, 167.0244, 1.85612, -0.9524484, 0, 0, 0.3046998) /* Location */
-/* @teleloc 0xE8D2000F [47.524310 167.024400 1.856120] -0.952448 0.000000 0.000000 0.304700 */
-     , (1343255167, 8040, 3872587806, 90.35706, 130.1648, 227.1746, -0.735414, 0, 0, -0.677618) /* PCAPRecordedLocation */
-/* @teleloc 0xE6D3001E [90.357060 130.164800 227.174600] -0.735414 0.000000 0.000000 -0.677618 */;
+VALUES (1343255167, 1, 3906076687, 47.52431, 167.02444, 1.8561203, -0.9524484, 0, 0, 0.3046998) /* Location */
+/* @teleloc 0xE8D2000F [47.524311 167.024445 1.856120] -0.952448 0.000000 0.000000 0.304700 */
+     , (1343255167, 8040, 3872587806, 90.35706, 130.16484, 227.17464, -0.735414, 0, 0, -0.677618) /* PCAPRecordedLocation */
+/* @teleloc 0xE6D3001E [90.357063 130.164841 227.174637] -0.735414 0.000000 0.000000 -0.677618 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343255167, 8000, 1343255167) /* PCAPRecordedObjectIID */;
@@ -136,16 +136,16 @@ VALUES (1343255167,   2,   400, 0, 0, 500) /* Health */
      , (1343255167,   6,   400, 0, 0, 800) /* Mana */;
 
 INSERT INTO `biota_properties_skill` (`object_Id`, `type`, `level_From_P_P`, `s_a_c`, `p_p`, `init_Level`, `resistance_At_Last_Check`, `last_Used_Time`)
-VALUES (1343255167,  6,   0, 3,           0, 250,   0, 671653804.00742) /* MeleeDefense        Specialized */
-     , (1343255167,  7,   0, 3,           0, 300,   0, 671653804.00742) /* MissileDefense      Specialized */
-     , (1343255167, 15,   0, 3,           0, 250,   0, 671653804.00742) /* MagicDefense        Specialized */
-     , (1343255167, 16,   0, 2,           0, 200,   0, 671653804.00742) /* ManaConversion      Trained */
-     , (1343255167, 19,   0, 2,           0, 200,   0, 671653804.00742) /* AssessPerson        Trained */
-     , (1343255167, 21,   0, 2,           0, 250,   0, 671653804.00742) /* Healing             Trained */
-     , (1343255167, 22,   0, 2,           0,  10,   0, 671653804.00742) /* Jump                Trained */
-     , (1343255167, 24,   0, 2,           0, 210,   0, 671653804.00742) /* Run                 Trained */
-     , (1343255167, 27,   0, 2,           0, 200,   0, 671653804.00742) /* AssessCreature      Trained */
-     , (1343255167, 34,   0, 3,           0, 330,   0, 671653804.00742) /* WarMagic            Specialized */;
+VALUES (1343255167,  6,   0, 3,           0, 250,   0, 671653804.0074203) /* MeleeDefense        Specialized */
+     , (1343255167,  7,   0, 3,           0, 300,   0, 671653804.0074203) /* MissileDefense      Specialized */
+     , (1343255167, 15,   0, 3,           0, 250,   0, 671653804.0074203) /* MagicDefense        Specialized */
+     , (1343255167, 16,   0, 2,           0, 200,   0, 671653804.0074203) /* ManaConversion      Trained */
+     , (1343255167, 19,   0, 2,           0, 200,   0, 671653804.0074203) /* AssessPerson        Trained */
+     , (1343255167, 21,   0, 2,           0, 250,   0, 671653804.0074203) /* Healing             Trained */
+     , (1343255167, 22,   0, 2,           0,  10,   0, 671653804.0074203) /* Jump                Trained */
+     , (1343255167, 24,   0, 2,           0, 210,   0, 671653804.0074203) /* Run                 Trained */
+     , (1343255167, 27,   0, 2,           0, 200,   0, 671653804.0074203) /* AssessCreature      Trained */
+     , (1343255167, 34,   0, 3,           0, 330,   0, 671653804.0074203) /* WarMagic            Specialized */;
 
 INSERT INTO `biota_properties_spell_book` (`object_Id`, `spell`, `probability`)
 VALUES (1343255167,  5439,      2) 

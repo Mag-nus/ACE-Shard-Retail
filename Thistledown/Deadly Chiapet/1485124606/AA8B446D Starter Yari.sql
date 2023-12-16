@@ -22,7 +22,7 @@ VALUES (2861253741,   1, False) /* Stuck */
      , (2861253741,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2861253741,  39, 0.829999983310699) /* DefaultScale */;
+VALUES (2861253741,  39, 0.8299999833106995) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2861253741,   1, 'Starter Yari') /* Name */;

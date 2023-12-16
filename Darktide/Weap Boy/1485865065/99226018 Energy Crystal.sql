@@ -29,10 +29,10 @@ VALUES (2569166872,   1, False) /* Stuck */
      , (2569166872,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2569166872,   5, -0.0500000007450581) /* ManaRate */
+VALUES (2569166872,   5, -0.05000000074505806) /* ManaRate */
      , (2569166872,  29,       1) /* WeaponDefense */
      , (2569166872,  76,     0.5) /* Translucency */
-     , (2569166872, 144, 1.26933708988862E-314) /* ManaConversionMod */;
+     , (2569166872, 144, 1.26933709E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2569166872,   1, 'Energy Crystal') /* Name */

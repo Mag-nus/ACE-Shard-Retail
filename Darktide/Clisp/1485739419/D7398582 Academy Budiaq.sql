@@ -54,8 +54,8 @@ VALUES (3610871170,   1,   33554756) /* Setup */
      , (3610871170, 8009,          8) /* PCAPRecordedParentLocation - LeftWeapon */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (3610871170, 8040, 2847146009, 81.14027, 5.394258, 93.9295, -0.654528, -0.654528, -0.2675689, -0.2675689) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B40019 [81.140270 5.394258 93.929500] -0.654528 -0.654528 -0.267569 -0.267569 */;
+VALUES (3610871170, 8040, 2847146009, 81.14027, 5.3942585, 93.929504, -0.65452796, -0.65452796, -0.2675689, -0.2675689) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B40019 [81.140266 5.394258 93.929504] -0.654528 -0.654528 -0.267569 -0.267569 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (3610871170,   3, 1344067099) /* Wielder */

@@ -35,12 +35,12 @@ VALUES (3231190177,   1, False) /* Stuck */
      , (3231190177,  99, True ) /* Ivoryable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3231190177,   5, -0.0500000007450581) /* ManaRate */
-     , (3231190177,  29, 1.17000000178814) /* WeaponDefense */
+VALUES (3231190177,   5, -0.05000000074505806) /* ManaRate */
+     , (3231190177,  29, 1.1700000017881393) /* WeaponDefense */
      , (3231190177,  39, 0.699999988079071) /* DefaultScale */
-     , (3231190177,  76, 0.200000002980232) /* Translucency */
-     , (3231190177, 144, 2.87355603505523E-314) /* ManaConversionMod */
-     , (3231190177, 152, 1.07000000029802) /* ElementalDamageMod */;
+     , (3231190177,  76, 0.20000000298023224) /* Translucency */
+     , (3231190177, 144, 2.873556035E-314) /* ManaConversionMod */
+     , (3231190177, 152, 1.0700000002980232) /* ElementalDamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3231190177,   1, 'Focusing Stone') /* Name */
@@ -62,8 +62,8 @@ VALUES (3231190177,   1,   33556976) /* Setup */
      , (3231190177, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (3231190177, 8040, 1364394240, -2.971734, -41.32568, -6.071, -0.6908751, -0.6908751, -0.1506374, -0.1506374) /* PCAPRecordedLocation */
-/* @teleloc 0x51530100 [-2.971734 -41.325680 -6.071000] -0.690875 -0.690875 -0.150637 -0.150637 */;
+VALUES (3231190177, 8040, 1364394240, -2.9717338, -41.325676, -6.071, -0.69087505, -0.69087505, -0.15063743, -0.15063743) /* PCAPRecordedLocation */
+/* @teleloc 0x51530100 [-2.971734 -41.325676 -6.071000] -0.690875 -0.690875 -0.150637 -0.150637 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (3231190177,   3, 1342705221) /* Wielder */

@@ -30,7 +30,7 @@ VALUES (3357759348,   1, False) /* Stuck */
      , (3357759348,  69, True ) /* IsSellable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3357759348,  39, 0.400000005960464) /* DefaultScale */
+VALUES (3357759348,  39, 0.4000000059604645) /* DefaultScale */
      , (3357759348, 167,      45) /* CooldownDuration */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)

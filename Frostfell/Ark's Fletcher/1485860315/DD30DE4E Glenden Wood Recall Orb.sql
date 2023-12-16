@@ -33,8 +33,8 @@ VALUES (3710967374,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (3710967374,  29,       1) /* WeaponDefense */
-     , (3710967374,  39, 0.600000023841858) /* DefaultScale */
-     , (3710967374, 144, 1.8334614923311E-314) /* ManaConversionMod */;
+     , (3710967374,  39, 0.6000000238418579) /* DefaultScale */
+     , (3710967374, 144, 1.8334614923E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3710967374,   1, 'Glenden Wood Recall Orb') /* Name */
@@ -53,8 +53,8 @@ VALUES (3710967374,   1,   33554669) /* Setup */
      , (3710967374, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (3710967374, 8040, 23855430, 11.80407, -10.33146, -0.071, -0.3061511, -0.3061511, -0.6373943, -0.6373943) /* PCAPRecordedLocation */
-/* @teleloc 0x016C0146 [11.804070 -10.331460 -0.071000] -0.306151 -0.306151 -0.637394 -0.637394 */;
+VALUES (3710967374, 8040, 23855430, 11.804068, -10.331462, -0.071, -0.30615106, -0.30615106, -0.6373943, -0.6373943) /* PCAPRecordedLocation */
+/* @teleloc 0x016C0146 [11.804068 -10.331462 -0.071000] -0.306151 -0.306151 -0.637394 -0.637394 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (3710967374,   3, 1343237802) /* Wielder */

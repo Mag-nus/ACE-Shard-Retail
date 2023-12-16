@@ -30,14 +30,14 @@ VALUES (2321313107,   1, False) /* Stuck */
      , (2321313107, 100, True ) /* Dyable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2321313107,   5, -0.0329999998211861) /* ManaRate */
-     , (2321313107,  13, 2.70000004768372) /* ArmorModVsSlash */
-     , (2321313107,  14, 2.70000004768372) /* ArmorModVsPierce */
-     , (2321313107,  15, 2.70000004768372) /* ArmorModVsBludgeon */
-     , (2321313107,  16, 2.70000004768372) /* ArmorModVsCold */
-     , (2321313107,  17, 2.70000004768372) /* ArmorModVsFire */
+VALUES (2321313107,   5, -0.032999999821186066) /* ManaRate */
+     , (2321313107,  13, 2.700000047683716) /* ArmorModVsSlash */
+     , (2321313107,  14, 2.700000047683716) /* ArmorModVsPierce */
+     , (2321313107,  15, 2.700000047683716) /* ArmorModVsBludgeon */
+     , (2321313107,  16, 2.700000047683716) /* ArmorModVsCold */
+     , (2321313107,  17, 2.700000047683716) /* ArmorModVsFire */
      , (2321313107,  18,       1) /* ArmorModVsAcid */
-     , (2321313107,  19, 2.70000004768372) /* ArmorModVsElectric */
+     , (2321313107,  19, 2.700000047683716) /* ArmorModVsElectric */
      , (2321313107, 165,       1) /* ArmorModVsNether */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)

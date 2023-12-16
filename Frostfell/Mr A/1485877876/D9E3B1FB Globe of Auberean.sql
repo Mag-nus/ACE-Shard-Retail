@@ -24,7 +24,7 @@ VALUES (3655578107,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (3655578107,  29,       1) /* WeaponDefense */
-     , (3655578107, 144, 1.80609555835808E-314) /* ManaConversionMod */;
+     , (3655578107, 144, 1.8060955584E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3655578107,   1, 'Globe of Auberean') /* Name */
@@ -42,8 +42,8 @@ VALUES (3655578107,   1,   33556967) /* Setup */
      , (3655578107, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (3655578107, 8040, 23855554, 55.43918, -34.29266, -0.071, 0.4953452, 0.4953452, -0.5046118, -0.5046118) /* PCAPRecordedLocation */
-/* @teleloc 0x016C01C2 [55.439180 -34.292660 -0.071000] 0.495345 0.495345 -0.504612 -0.504612 */;
+VALUES (3655578107, 8040, 23855554, 55.439182, -34.29266, -0.071, 0.4953452, 0.4953452, -0.50461185, -0.50461185) /* PCAPRecordedLocation */
+/* @teleloc 0x016C01C2 [55.439182 -34.292660 -0.071000] 0.495345 0.495345 -0.504612 -0.504612 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (3655578107,   3, 1343204614) /* Wielder */

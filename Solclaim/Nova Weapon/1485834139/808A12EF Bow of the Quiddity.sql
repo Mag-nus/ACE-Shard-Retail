@@ -35,13 +35,13 @@ VALUES (2156532463,   1, False) /* Stuck */
      , (2156532463,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2156532463,   5, -0.025000000372529) /* ManaRate */
+VALUES (2156532463,   5, -0.02500000037252903) /* ManaRate */
      , (2156532463,  21,       0) /* WeaponLength */
      , (2156532463,  22,       0) /* DamageVariance */
      , (2156532463,  26,    26.3) /* MaximumVelocity */
      , (2156532463,  29,       1) /* WeaponDefense */
      , (2156532463,  62,       1) /* WeaponOffense */
-     , (2156532463,  63, 2.13000011444092) /* DamageMod */;
+     , (2156532463,  63, 2.130000114440918) /* DamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2156532463,   1, 'Bow of the Quiddity') /* Name */

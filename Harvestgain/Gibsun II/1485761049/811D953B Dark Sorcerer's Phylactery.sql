@@ -31,7 +31,7 @@ VALUES (2166199611,   1, False) /* Stuck */
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2166199611,   5,   -0.05) /* ManaRate */
      , (2166199611,  29,       1) /* WeaponDefense */
-     , (2166199611, 144, 1.07024480982977E-314) /* ManaConversionMod */;
+     , (2166199611, 144, 1.07024481E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2166199611,   1, 'Dark Sorcerer''s Phylactery') /* Name */

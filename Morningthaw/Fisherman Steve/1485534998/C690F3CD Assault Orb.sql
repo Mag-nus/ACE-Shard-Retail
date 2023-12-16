@@ -32,11 +32,11 @@ VALUES (3331388365,   1, False) /* Stuck */
      , (3331388365,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3331388365,   5, -0.025000000372529) /* ManaRate */
+VALUES (3331388365,   5, -0.02500000037252903) /* ManaRate */
      , (3331388365,  29,       1) /* WeaponDefense */
      , (3331388365,  39, 0.800000011920929) /* DefaultScale */
      , (3331388365,  77,       1) /* PhysicsScriptIntensity */
-     , (3331388365, 144, 1.64592454410174E-314) /* ManaConversionMod */;
+     , (3331388365, 144, 1.645924544E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3331388365,   1, 'Assault Orb') /* Name */
@@ -56,8 +56,8 @@ VALUES (3331388365,   1,   33558211) /* Setup */
      , (3331388365, 8019,         88) /* PCAPRecordedDefaultScript */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (3331388365, 8040, 23855554, 56.39446, -30.17331, -0.071, -0.4958346, -0.4958346, -0.504131, -0.504131) /* PCAPRecordedLocation */
-/* @teleloc 0x016C01C2 [56.394460 -30.173310 -0.071000] -0.495835 -0.495835 -0.504131 -0.504131 */;
+VALUES (3331388365, 8040, 23855554, 56.39446, -30.173307, -0.071, -0.49583462, -0.49583462, -0.50413096, -0.50413096) /* PCAPRecordedLocation */
+/* @teleloc 0x016C01C2 [56.394459 -30.173307 -0.071000] -0.495835 -0.495835 -0.504131 -0.504131 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (3331388365,   3, 1343011194) /* Wielder */

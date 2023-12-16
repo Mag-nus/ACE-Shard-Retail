@@ -34,11 +34,11 @@ VALUES (3576291585,   1, False) /* Stuck */
      , (3576291585,  99, True ) /* Ivoryable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3576291585,   5, -0.025000000372529) /* ManaRate */
-     , (3576291585,  29, 1.40000005066395) /* WeaponDefense */
-     , (3576291585,  39, 0.600000023841858) /* DefaultScale */
-     , (3576291585, 144, 0.449999988079071) /* ManaConversionMod */
-     , (3576291585, 152, 1.07999999821186) /* ElementalDamageMod */;
+VALUES (3576291585,   5, -0.02500000037252903) /* ManaRate */
+     , (3576291585,  29, 1.400000050663948) /* WeaponDefense */
+     , (3576291585,  39, 0.6000000238418579) /* DefaultScale */
+     , (3576291585, 144, 0.44999998807907104) /* ManaConversionMod */
+     , (3576291585, 152, 1.0799999982118607) /* ElementalDamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3576291585,   1, 'Legendary Seed of Twilight') /* Name */

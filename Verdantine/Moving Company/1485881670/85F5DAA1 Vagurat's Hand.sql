@@ -40,8 +40,8 @@ VALUES (2247482017,   5, -0.0333000011742115) /* ManaRate */
      , (2247482017,  21,       0) /* WeaponLength */
      , (2247482017,  22,     0.5) /* DamageVariance */
      , (2247482017,  26,       0) /* MaximumVelocity */
-     , (2247482017,  29, 1.02999997138977) /* WeaponDefense */
-     , (2247482017,  62, 1.02999997138977) /* WeaponOffense */
+     , (2247482017,  29, 1.0299999713897705) /* WeaponDefense */
+     , (2247482017,  62, 1.0299999713897705) /* WeaponOffense */
      , (2247482017,  63,       1) /* DamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)

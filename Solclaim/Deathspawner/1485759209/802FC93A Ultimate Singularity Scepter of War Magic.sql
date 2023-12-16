@@ -36,11 +36,11 @@ VALUES (2150615354,   1, False) /* Stuck */
      , (2150615354,  99, False) /* Ivoryable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2150615354,   5, -0.0329999998211861) /* ManaRate */
-     , (2150615354,  29, 1.14999997615814) /* WeaponDefense */
-     , (2150615354, 144, 0.150000005960464) /* ManaConversionMod */
+VALUES (2150615354,   5, -0.032999999821186066) /* ManaRate */
+     , (2150615354,  29, 1.149999976158142) /* WeaponDefense */
+     , (2150615354, 144, 0.15000000596046448) /* ManaConversionMod */
      , (2150615354, 147,       1) /* CriticalFrequency */
-     , (2150615354, 152, 1.14999997615814) /* ElementalDamageMod */;
+     , (2150615354, 152, 1.149999976158142) /* ElementalDamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2150615354,   1, 'Ultimate Singularity Scepter of War Magic') /* Name */

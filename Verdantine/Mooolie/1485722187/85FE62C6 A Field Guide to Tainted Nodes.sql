@@ -17,8 +17,8 @@ VALUES (2248041158,   1, False) /* Stuck */
      , (2248041158,  19, True ) /* Attackable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2248041158,  39, 1.22000002861023) /* DefaultScale */
-     , (2248041158,  54, 0.300000011920929) /* UseRadius */;
+VALUES (2248041158,  39, 1.2200000286102295) /* DefaultScale */
+     , (2248041158,  54, 0.30000001192092896) /* UseRadius */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2248041158,   1, 'A Field Guide to Tainted Nodes') /* Name */;

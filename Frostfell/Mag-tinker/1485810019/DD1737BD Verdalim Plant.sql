@@ -20,7 +20,7 @@ VALUES (3709286333,   1, False) /* Stuck */
      , (3709286333,  19, True ) /* Attackable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3709286333,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (3709286333,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3709286333,   1, 'Verdalim Plant') /* Name */

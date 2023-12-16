@@ -40,11 +40,11 @@ VALUES (3580914008,   1, False) /* Stuck */
      , (3580914008,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3580914008,   5, -0.0333333015441895) /* ManaRate */
-     , (3580914008,  29, 1.17999994754791) /* WeaponDefense */
-     , (3580914008, 144, 0.180000007152557) /* ManaConversionMod */
+VALUES (3580914008,   5, -0.03333330154418945) /* ManaRate */
+     , (3580914008,  29, 1.1799999475479126) /* WeaponDefense */
+     , (3580914008, 144, 0.18000000715255737) /* ManaConversionMod */
      , (3580914008, 147,       1) /* CriticalFrequency */
-     , (3580914008, 152, 1.22000002861023) /* ElementalDamageMod */;
+     , (3580914008, 152, 1.2200000286102295) /* ElementalDamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3580914008,   1, 'Orb of the Ironsea') /* Name */

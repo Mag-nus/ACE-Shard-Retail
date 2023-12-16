@@ -34,14 +34,14 @@ VALUES (3710970373,   1, False) /* Stuck */
      , (3710970373,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3710970373,   5, -0.0555555555555556) /* ManaRate */
+VALUES (3710970373,   5, -0.05555555555555555) /* ManaRate */
      , (3710970373,  13,       1) /* ArmorModVsSlash */
      , (3710970373,  14, 0.800000011920929) /* ArmorModVsPierce */
-     , (3710970373,  15, 1.20000004768372) /* ArmorModVsBludgeon */
-     , (3710970373,  16, 0.600000023841858) /* ArmorModVsCold */
-     , (3710970373,  17, 0.600000023841858) /* ArmorModVsFire */
+     , (3710970373,  15, 1.2000000476837158) /* ArmorModVsBludgeon */
+     , (3710970373,  16, 0.6000000238418579) /* ArmorModVsCold */
+     , (3710970373,  17, 0.6000000238418579) /* ArmorModVsFire */
      , (3710970373,  18,       1) /* ArmorModVsAcid */
-     , (3710970373,  19, 0.600000023841858) /* ArmorModVsElectric */
+     , (3710970373,  19, 0.6000000238418579) /* ArmorModVsElectric */
      , (3710970373, 165,       1) /* ArmorModVsNether */
      , (3710970373, 8004,       7) /* PCAPRecordedWorkmanship */;
 
@@ -61,8 +61,8 @@ VALUES (3710970373,   1,   33554785) /* Setup */
      , (3710970373, 8009,          3) /* PCAPRecordedParentLocation - Shield */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (3710970373, 8040, 23855430, 13.85463, -13.05619, -0.07400001, 0.3405742, -0.5620618, -0.6277502, -0.4171635) /* PCAPRecordedLocation */
-/* @teleloc 0x016C0146 [13.854630 -13.056190 -0.074000] 0.340574 -0.562062 -0.627750 -0.417164 */;
+VALUES (3710970373, 8040, 23855430, 13.8546295, -13.056194, -0.07400001, 0.3405742, -0.5620618, -0.6277502, -0.41716352) /* PCAPRecordedLocation */
+/* @teleloc 0x016C0146 [13.854630 -13.056194 -0.074000] 0.340574 -0.562062 -0.627750 -0.417164 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (3710970373,   3, 1343238738) /* Wielder */

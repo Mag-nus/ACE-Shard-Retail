@@ -24,8 +24,8 @@ VALUES (2624395351,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2624395351,  29,       1) /* WeaponDefense */
-     , (2624395351,  39, 1.20000004768372) /* DefaultScale */
-     , (2624395351, 144, 1.29662358403458E-314) /* ManaConversionMod */;
+     , (2624395351,  39, 1.2000000476837158) /* DefaultScale */
+     , (2624395351, 144, 1.296623584E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2624395351,   1, 'Banderling Wand') /* Name */

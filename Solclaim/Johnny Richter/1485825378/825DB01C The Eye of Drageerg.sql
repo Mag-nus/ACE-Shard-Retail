@@ -30,9 +30,9 @@ VALUES (2187178012,   1, False) /* Stuck */
      , (2187178012,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2187178012,   5, -0.00999999977648258) /* ManaRate */
+VALUES (2187178012,   5, -0.009999999776482582) /* ManaRate */
      , (2187178012,  29,       1) /* WeaponDefense */
-     , (2187178012, 144, 0.0299999993294477) /* ManaConversionMod */;
+     , (2187178012, 144, 0.029999999329447746) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2187178012,   1, 'The Eye of Drageerg') /* Name */

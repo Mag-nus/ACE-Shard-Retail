@@ -24,7 +24,7 @@ VALUES (3422319916,   1, False) /* Stuck */
      , (3422319916,  99, False) /* Ivoryable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3422319916,  39, 0.400000005960464) /* DefaultScale */;
+VALUES (3422319916,  39, 0.4000000059604645) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3422319916,   1, 'Coruscating Olthoi Scent Gland') /* Name */

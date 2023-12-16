@@ -24,7 +24,7 @@ VALUES (2878192020,   1, False) /* Stuck */
      , (2878192020,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2878192020,  39, 1.10000002384186) /* DefaultScale */;
+VALUES (2878192020,  39, 1.100000023841858) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2878192020,   1, 'Composite Bow with Handle') /* Name */;
@@ -41,8 +41,8 @@ VALUES (2878192020,   1,   33556600) /* Setup */
      , (2878192020, 8009,          2) /* PCAPRecordedParentLocation - LeftHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (2878192020, 8040, 2847146034, 151.5429, 27.04384, 93.93001, -0.8317882, 0, 0, -0.5550931) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B40032 [151.542900 27.043840 93.930010] -0.831788 0.000000 0.000000 -0.555093 */;
+VALUES (2878192020, 8040, 2847146034, 151.5429, 27.043837, 93.93001, -0.83178824, 0, -0, -0.5550931) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B40032 [151.542892 27.043837 93.930008] -0.831788 0.000000 -0.000000 -0.555093 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2878192020,   3, 1342750361) /* Wielder */

@@ -31,8 +31,8 @@ VALUES (2975608602,   5,  -0.033) /* ManaRate */
      , (2975608602,  14, 0.800000011920929) /* ArmorModVsPierce */
      , (2975608602,  15, 0.800000011920929) /* ArmorModVsBludgeon */
      , (2975608602,  16,       1) /* ArmorModVsCold */
-     , (2975608602,  17, 1.20000004768372) /* ArmorModVsFire */
-     , (2975608602,  18, 1.20000004768372) /* ArmorModVsAcid */
+     , (2975608602,  17, 1.2000000476837158) /* ArmorModVsFire */
+     , (2975608602,  18, 1.2000000476837158) /* ArmorModVsAcid */
      , (2975608602,  19,       1) /* ArmorModVsElectric */
      , (2975608602, 165,       1) /* ArmorModVsNether */;
 

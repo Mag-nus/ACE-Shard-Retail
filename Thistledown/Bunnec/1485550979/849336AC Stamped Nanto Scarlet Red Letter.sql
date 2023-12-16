@@ -18,7 +18,7 @@ VALUES (2224240300,   1, False) /* Stuck */
      , (2224240300,  19, True ) /* Attackable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2224240300,  39, 1.22000002861023) /* DefaultScale */;
+VALUES (2224240300,  39, 1.2200000286102295) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2224240300,   1, 'Stamped Nanto Scarlet Red Letter') /* Name */;

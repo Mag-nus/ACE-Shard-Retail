@@ -49,13 +49,13 @@ VALUES (2153508646,   1, False) /* Stuck */
      , (2153508646,  91, True ) /* Retained */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2153508646,   5, -0.0666666701436043) /* ManaRate */
+VALUES (2153508646,   5, -0.06666667014360428) /* ManaRate */
      , (2153508646,  21,       0) /* WeaponLength */
-     , (2153508646,  22, 0.127506837248802) /* DamageVariance */
+     , (2153508646,  22, 0.12750683724880219) /* DamageVariance */
      , (2153508646,  26,       0) /* MaximumVelocity */
-     , (2153508646,  29, 1.37999995052814) /* WeaponDefense */
-     , (2153508646,  39, 1.20000004768372) /* DefaultScale */
-     , (2153508646,  62, 1.42000003159046) /* WeaponOffense */
+     , (2153508646,  29, 1.3799999505281448) /* WeaponDefense */
+     , (2153508646,  39, 1.2000000476837158) /* DefaultScale */
+     , (2153508646,  62, 1.4200000315904617) /* WeaponOffense */
      , (2153508646,  63,       1) /* DamageMod */
      , (2153508646, 150,    1.03) /* WeaponMagicDefense */
      , (2153508646, 8004,       7) /* PCAPRecordedWorkmanship */;
@@ -84,8 +84,8 @@ VALUES (2153508646,   1,   33559631) /* Setup */
      , (2153508646, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (2153508646, 8040, 3381395472, 28.80623, 175.3931, 26.67812, 0.03879032, 0.03879032, -0.706042, -0.706042) /* PCAPRecordedLocation */
-/* @teleloc 0xC98C0010 [28.806230 175.393100 26.678120] 0.038790 0.038790 -0.706042 -0.706042 */;
+VALUES (2153508646, 8040, 3381395472, 28.80623, 175.39305, 26.678122, 0.038790315, 0.038790315, -0.706042, -0.706042) /* PCAPRecordedLocation */
+/* @teleloc 0xC98C0010 [28.806231 175.393051 26.678122] 0.038790 0.038790 -0.706042 -0.706042 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2153508646,   3, 1342589188) /* Wielder */

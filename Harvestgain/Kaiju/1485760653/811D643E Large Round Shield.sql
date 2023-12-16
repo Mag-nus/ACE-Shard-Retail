@@ -35,14 +35,14 @@ VALUES (2166187070,   1, False) /* Stuck */
      , (2166187070,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2166187070,   5, -0.0555555555555556) /* ManaRate */
+VALUES (2166187070,   5, -0.05555555555555555) /* ManaRate */
      , (2166187070,  13,       1) /* ArmorModVsSlash */
      , (2166187070,  14, 0.800000011920929) /* ArmorModVsPierce */
-     , (2166187070,  15, 1.20000004768372) /* ArmorModVsBludgeon */
-     , (2166187070,  16, 1.14406192302704) /* ArmorModVsCold */
-     , (2166187070,  17, 1.15775370597839) /* ArmorModVsFire */
+     , (2166187070,  15, 1.2000000476837158) /* ArmorModVsBludgeon */
+     , (2166187070,  16, 1.1440619230270386) /* ArmorModVsCold */
+     , (2166187070,  17, 1.1577537059783936) /* ArmorModVsFire */
      , (2166187070,  18,       1) /* ArmorModVsAcid */
-     , (2166187070,  19, 1.26392149925232) /* ArmorModVsElectric */
+     , (2166187070,  19, 1.2639214992523193) /* ArmorModVsElectric */
      , (2166187070,  39,    1.25) /* DefaultScale */
      , (2166187070, 165,       1) /* ArmorModVsNether */
      , (2166187070, 8004,       6) /* PCAPRecordedWorkmanship */;
@@ -63,8 +63,8 @@ VALUES (2166187070,   1,   33554786) /* Setup */
      , (2166187070, 8009,          3) /* PCAPRecordedParentLocation - Shield */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (2166187070, 8040, 3332964380, 77.56634, 94.76855, 41.9275, 0.5381453, 0.09920707, -0.8367447, -0.02039204) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001C [77.566340 94.768550 41.927500] 0.538145 0.099207 -0.836745 -0.020392 */;
+VALUES (2166187070, 8040, 3332964380, 77.56634, 94.768555, 41.9275, 0.5381453, 0.09920707, -0.8367447, -0.020392038) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A9001C [77.566338 94.768555 41.927502] 0.538145 0.099207 -0.836745 -0.020392 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2166187070,   3, 1343221707) /* Wielder */

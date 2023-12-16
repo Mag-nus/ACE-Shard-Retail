@@ -21,7 +21,7 @@ VALUES (2153709878,   1, False) /* Stuck */
      , (2153709878,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2153709878,  39, 0.370000004768372) /* DefaultScale */;
+VALUES (2153709878,  39, 0.3700000047683716) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2153709878,   1, 'Renegade Bone Charm') /* Name */;

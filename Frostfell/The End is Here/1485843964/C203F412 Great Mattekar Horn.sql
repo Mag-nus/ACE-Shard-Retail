@@ -22,7 +22,7 @@ VALUES (3255038994,   1, False) /* Stuck */
      , (3255038994,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3255038994,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (3255038994,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3255038994,   1, 'Great Mattekar Horn') /* Name */;

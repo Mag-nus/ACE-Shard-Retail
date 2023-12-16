@@ -24,8 +24,8 @@ VALUES (3707930607,   1, False) /* Stuck */
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (3707930607,  29,       1) /* WeaponDefense */
      , (3707930607,  39,    0.25) /* DefaultScale */
-     , (3707930607, 144, 1.83196113008198E-314) /* ManaConversionMod */
-     , (3707930607, 152, 1.07999999821186) /* ElementalDamageMod */;
+     , (3707930607, 144, 1.83196113E-314) /* ManaConversionMod */
+     , (3707930607, 152, 1.0799999982118607) /* ElementalDamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3707930607,   1, 'Repugnant Spellcasting Staff') /* Name */;

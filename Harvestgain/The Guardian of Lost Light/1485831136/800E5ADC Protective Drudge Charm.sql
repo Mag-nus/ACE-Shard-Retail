@@ -22,7 +22,7 @@ VALUES (2148424412,   1, False) /* Stuck */
      , (2148424412,  91, True ) /* Retained */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2148424412,  39, 0.370000004768372) /* DefaultScale */;
+VALUES (2148424412,  39, 0.3700000047683716) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2148424412,   1, 'Protective Drudge Charm') /* Name */;

@@ -26,7 +26,7 @@ VALUES (3078465917,   1, False) /* Stuck */
      , (3078465917,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3078465917, 8004, 5.51999998092651) /* PCAPRecordedWorkmanship */;
+VALUES (3078465917, 8004, 5.519999980926514) /* PCAPRecordedWorkmanship */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3078465917,   1, 'Salvaged  (100)') /* Name */;

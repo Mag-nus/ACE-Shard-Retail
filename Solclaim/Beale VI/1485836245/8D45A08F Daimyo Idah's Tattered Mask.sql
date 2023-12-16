@@ -21,7 +21,7 @@ VALUES (2370150543,   1, False) /* Stuck */
      , (2370150543,  69, False) /* IsSellable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2370150543,  39, 1.29999995231628) /* DefaultScale */;
+VALUES (2370150543,  39, 1.2999999523162842) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2370150543,   1, 'Daimyo Idah''s Tattered Mask') /* Name */

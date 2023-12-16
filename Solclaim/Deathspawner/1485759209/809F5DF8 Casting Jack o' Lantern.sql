@@ -25,7 +25,7 @@ VALUES (2157927928,   1, False) /* Stuck */
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2157927928,  29,     1.1) /* WeaponDefense */
      , (2157927928,  39,    0.75) /* DefaultScale */
-     , (2157927928, 144, 1.06615805542618E-314) /* ManaConversionMod */;
+     , (2157927928, 144, 1.0661580554E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2157927928,   1, 'Casting Jack o'' Lantern') /* Name */

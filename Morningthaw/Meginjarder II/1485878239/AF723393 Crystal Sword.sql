@@ -22,7 +22,7 @@ VALUES (2943497107,   1, False) /* Stuck */
      , (2943497107,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2943497107,  39, 1.10000002384186) /* DefaultScale */;
+VALUES (2943497107,  39, 1.100000023841858) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2943497107,   1, 'Crystal Sword') /* Name */;
@@ -39,8 +39,8 @@ VALUES (2943497107,   1,   33557340) /* Setup */
      , (2943497107, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (2943497107, 8040, 1491599404, 123.3165, 83.83207, 7.928999, -0.3535641, -0.3535641, -0.6123663, -0.6123663) /* PCAPRecordedLocation */
-/* @teleloc 0x58E8002C [123.316500 83.832070 7.928999] -0.353564 -0.353564 -0.612366 -0.612366 */;
+VALUES (2943497107, 8040, 1491599404, 123.31649, 83.83207, 7.928999, -0.35356408, -0.35356408, -0.61236626, -0.61236626) /* PCAPRecordedLocation */
+/* @teleloc 0x58E8002C [123.316490 83.832069 7.928999] -0.353564 -0.353564 -0.612366 -0.612366 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2943497107,   3, 1342921688) /* Wielder */

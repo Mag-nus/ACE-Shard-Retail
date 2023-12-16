@@ -32,10 +32,10 @@ VALUES (2861382528,   1, False) /* Stuck */
      , (2861382528,  99, True ) /* Ivoryable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2861382528,   5, -0.0500000007450581) /* ManaRate */
+VALUES (2861382528,   5, -0.05000000074505806) /* ManaRate */
      , (2861382528,  29,       1) /* WeaponDefense */
      , (2861382528,  76,     0.5) /* Translucency */
-     , (2861382528, 144, 1.41371080669518E-314) /* ManaConversionMod */;
+     , (2861382528, 144, 1.4137108067E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2861382528,   1, 'Shendolain Crystal Orb') /* Name */
@@ -55,8 +55,8 @@ VALUES (2861382528,   1,   33556767) /* Setup */
      , (2861382528, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (2861382528, 8040, 3457679423, 191.9629, 147.4691, -0.171, -0.1419209, -0.1419209, -0.6927181, -0.6927181) /* PCAPRecordedLocation */
-/* @teleloc 0xCE18003F [191.962900 147.469100 -0.171000] -0.141921 -0.141921 -0.692718 -0.692718 */;
+VALUES (2861382528, 8040, 3457679423, 191.9629, 147.46913, -0.17100003, -0.14192088, -0.14192088, -0.69271815, -0.69271815) /* PCAPRecordedLocation */
+/* @teleloc 0xCE18003F [191.962906 147.469131 -0.171000] -0.141921 -0.141921 -0.692718 -0.692718 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2861382528,   3, 1342696477) /* Wielder */

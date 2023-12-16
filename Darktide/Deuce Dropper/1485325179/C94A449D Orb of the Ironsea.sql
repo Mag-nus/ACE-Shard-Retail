@@ -39,11 +39,11 @@ VALUES (3377087645,   1, False) /* Stuck */
      , (3377087645,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3377087645,   5, -0.0333333015441895) /* ManaRate */
-     , (3377087645,  29, 1.41999991238117) /* WeaponDefense */
-     , (3377087645, 144, 0.324000004291534) /* ManaConversionMod */
+VALUES (3377087645,   5, -0.03333330154418945) /* ManaRate */
+     , (3377087645,  29, 1.4199999123811722) /* WeaponDefense */
+     , (3377087645, 144, 0.3240000042915341) /* ManaConversionMod */
      , (3377087645, 147,       1) /* CriticalFrequency */
-     , (3377087645, 152, 1.34999997913837) /* ElementalDamageMod */;
+     , (3377087645, 152, 1.3499999791383743) /* ElementalDamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3377087645,   1, 'Orb of the Ironsea') /* Name */
@@ -66,8 +66,8 @@ VALUES (3377087645,   1,   33559424) /* Setup */
      , (3377087645, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (3377087645, 8040, 563740700, 84.50111, 81.19704, 29.929, 0.7061471, 0.7061471, -0.03682702, -0.03682702) /* PCAPRecordedLocation */
-/* @teleloc 0x219A001C [84.501110 81.197040 29.929000] 0.706147 0.706147 -0.036827 -0.036827 */;
+VALUES (3377087645, 8040, 563740700, 84.501114, 81.197044, 29.928999, 0.70614713, 0.70614713, -0.036827017, -0.036827017) /* PCAPRecordedLocation */
+/* @teleloc 0x219A001C [84.501114 81.197044 29.928999] 0.706147 0.706147 -0.036827 -0.036827 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (3377087645,   3, 1344013931) /* Wielder */

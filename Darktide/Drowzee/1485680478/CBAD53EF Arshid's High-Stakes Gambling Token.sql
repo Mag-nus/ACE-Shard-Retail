@@ -20,7 +20,7 @@ VALUES (3417134063,   1, False) /* Stuck */
      , (3417134063,  19, True ) /* Attackable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3417134063,  39, 0.670000016689301) /* DefaultScale */;
+VALUES (3417134063,  39, 0.6700000166893005) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3417134063,   1, 'Arshid''s High-Stakes Gambling Token') /* Name */;

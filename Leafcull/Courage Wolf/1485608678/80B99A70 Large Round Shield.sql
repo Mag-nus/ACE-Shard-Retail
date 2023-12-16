@@ -33,14 +33,14 @@ VALUES (2159647344,   1, False) /* Stuck */
      , (2159647344,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2159647344,   5, -0.025000000372529) /* ManaRate */
+VALUES (2159647344,   5, -0.02500000037252903) /* ManaRate */
      , (2159647344,  13,       1) /* ArmorModVsSlash */
      , (2159647344,  14, 0.800000011920929) /* ArmorModVsPierce */
-     , (2159647344,  15, 1.20000004768372) /* ArmorModVsBludgeon */
-     , (2159647344,  16, 0.600000023841858) /* ArmorModVsCold */
-     , (2159647344,  17, 0.600000023841858) /* ArmorModVsFire */
+     , (2159647344,  15, 1.2000000476837158) /* ArmorModVsBludgeon */
+     , (2159647344,  16, 0.6000000238418579) /* ArmorModVsCold */
+     , (2159647344,  17, 0.6000000238418579) /* ArmorModVsFire */
      , (2159647344,  18,       1) /* ArmorModVsAcid */
-     , (2159647344,  19, 0.600000023841858) /* ArmorModVsElectric */
+     , (2159647344,  19, 0.6000000238418579) /* ArmorModVsElectric */
      , (2159647344,  39,    1.25) /* DefaultScale */
      , (2159647344, 165,       1) /* ArmorModVsNether */
      , (2159647344, 8004,       3) /* PCAPRecordedWorkmanship */;
@@ -60,8 +60,8 @@ VALUES (2159647344,   1,   33554786) /* Setup */
      , (2159647344, 8009,          3) /* PCAPRecordedParentLocation - Shield */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (2159647344, 8040, 2036727867, 170.015, 48.50125, 49.926, 0.4901446, -0.2257745, -0.8117941, -0.223102) /* PCAPRecordedLocation */
-/* @teleloc 0x7966003B [170.015000 48.501250 49.926000] 0.490145 -0.225775 -0.811794 -0.223102 */;
+VALUES (2159647344, 8040, 2036727867, 170.01505, 48.50125, 49.926003, 0.49014458, -0.22577448, -0.8117941, -0.22310199) /* PCAPRecordedLocation */
+/* @teleloc 0x7966003B [170.015045 48.501251 49.926003] 0.490145 -0.225774 -0.811794 -0.223102 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2159647344,   3, 1343186237) /* Wielder */

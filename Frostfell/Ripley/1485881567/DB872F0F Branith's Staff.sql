@@ -29,11 +29,11 @@ VALUES (3683069711,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (3683069711,   5,  -0.025) /* ManaRate */
-     , (3683069711,  29, 1.20000000298023) /* WeaponDefense */
+     , (3683069711,  29, 1.2000000029802322) /* WeaponDefense */
      , (3683069711,  39, 0.699999988079071) /* DefaultScale */
-     , (3683069711, 144, 3.27542070094165E-314) /* ManaConversionMod */
+     , (3683069711, 144, 3.275420701E-314) /* ManaConversionMod */
      , (3683069711, 147,       1) /* CriticalFrequency */
-     , (3683069711, 152, 1.07999999821186) /* ElementalDamageMod */;
+     , (3683069711, 152, 1.0799999982118607) /* ElementalDamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3683069711,   1, 'Branith''s Staff') /* Name */
@@ -51,8 +51,8 @@ VALUES (3683069711,   1,   33558283) /* Setup */
      , (3683069711, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (3683069711, 8040, 3583574079, 188.2676, 160.3833, 373.929, -0.2127781, -0.2127781, -0.6743333, -0.6743333) /* PCAPRecordedLocation */
-/* @teleloc 0xD599003F [188.267600 160.383300 373.929000] -0.212778 -0.212778 -0.674333 -0.674333 */;
+VALUES (3683069711, 8040, 3583574079, 188.26764, 160.38326, 373.92902, -0.21277812, -0.21277812, -0.67433333, -0.67433333) /* PCAPRecordedLocation */
+/* @teleloc 0xD599003F [188.267639 160.383255 373.929016] -0.212778 -0.212778 -0.674333 -0.674333 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (3683069711,   3, 1342814975) /* Wielder */

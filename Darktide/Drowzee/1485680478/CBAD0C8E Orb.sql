@@ -23,7 +23,7 @@ VALUES (3417115790,   1, False) /* Stuck */
      , (3417115790,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3417115790,  39, 0.600000023841858) /* DefaultScale */
+VALUES (3417115790,  39, 0.6000000238418579) /* DefaultScale */
      , (3417115790, 8004,       2) /* PCAPRecordedWorkmanship */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
@@ -41,8 +41,8 @@ VALUES (3417115790,   1,   33554669) /* Setup */
      , (3417115790, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (3417115790, 8040, 2311651340, 42.16759, 86.85584, 107.929, -0.005400591, -0.005400591, -0.7070861, -0.7070861) /* PCAPRecordedLocation */
-/* @teleloc 0x89C9000C [42.167590 86.855840 107.929000] -0.005401 -0.005401 -0.707086 -0.707086 */;
+VALUES (3417115790, 8040, 2311651340, 42.16759, 86.85584, 107.92901, -0.005400591, -0.005400591, -0.70708615, -0.70708615) /* PCAPRecordedLocation */
+/* @teleloc 0x89C9000C [42.167591 86.855843 107.929008] -0.005401 -0.005401 -0.707086 -0.707086 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (3417115790,   3, 1343894174) /* Wielder */

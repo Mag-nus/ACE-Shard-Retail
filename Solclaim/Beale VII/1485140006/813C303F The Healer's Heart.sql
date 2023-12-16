@@ -30,10 +30,10 @@ VALUES (2168205375,   1, False) /* Stuck */
      , (2168205375,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2168205375,   5, -0.0500000007450581) /* ManaRate */
+VALUES (2168205375,   5, -0.05000000074505806) /* ManaRate */
      , (2168205375,  29,       1) /* WeaponDefense */
-     , (2168205375,  76, 0.200000002980232) /* Translucency */
-     , (2168205375, 144, 0.0500000007450581) /* ManaConversionMod */;
+     , (2168205375,  76, 0.20000000298023224) /* Translucency */
+     , (2168205375, 144, 0.05000000074505806) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2168205375,   1, 'The Healer''s Heart') /* Name */

@@ -35,10 +35,10 @@ VALUES (2911329067,   1, False) /* Stuck */
      , (2911329067,  99, False) /* Ivoryable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2911329067,   5, -0.025000000372529) /* ManaRate */
-     , (2911329067,  29, 1.20000004768372) /* WeaponDefense */
-     , (2911329067,  39, 0.600000023841858) /* DefaultScale */
-     , (2911329067, 144, 0.200000002980232) /* ManaConversionMod */;
+VALUES (2911329067,   5, -0.02500000037252903) /* ManaRate */
+     , (2911329067,  29, 1.2000000476837158) /* WeaponDefense */
+     , (2911329067,  39, 0.6000000238418579) /* DefaultScale */
+     , (2911329067, 144, 0.20000000298023224) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2911329067,   1, 'Legendary Seed of Twilight') /* Name */

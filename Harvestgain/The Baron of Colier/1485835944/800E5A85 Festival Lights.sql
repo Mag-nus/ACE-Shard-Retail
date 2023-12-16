@@ -20,8 +20,8 @@ VALUES (2148424325,   1, False) /* Stuck */
      , (2148424325,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2148424325,  39, 0.300000011920929) /* DefaultScale */
-     , (2148424325,  76, 0.300000011920929) /* Translucency */;
+VALUES (2148424325,  39, 0.30000001192092896) /* DefaultScale */
+     , (2148424325,  76, 0.30000001192092896) /* Translucency */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2148424325,   1, 'Festival Lights') /* Name */;

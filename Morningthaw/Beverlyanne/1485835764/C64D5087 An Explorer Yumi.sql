@@ -34,14 +34,14 @@ VALUES (3326955655,   1, False) /* Stuck */
      , (3326955655,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3326955655,   5, -0.025000000372529) /* ManaRate */
+VALUES (3326955655,   5, -0.02500000037252903) /* ManaRate */
      , (3326955655,  21,       0) /* WeaponLength */
      , (3326955655,  22,       0) /* DamageVariance */
      , (3326955655,  26,    27.3) /* MaximumVelocity */
      , (3326955655,  29,       1) /* WeaponDefense */
-     , (3326955655,  39, 1.10000002384186) /* DefaultScale */
+     , (3326955655,  39, 1.100000023841858) /* DefaultScale */
      , (3326955655,  62,       1) /* WeaponOffense */
-     , (3326955655,  63, 1.89999997615814) /* DamageMod */;
+     , (3326955655,  63, 1.899999976158142) /* DamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3326955655,   1, 'An Explorer Yumi') /* Name */;

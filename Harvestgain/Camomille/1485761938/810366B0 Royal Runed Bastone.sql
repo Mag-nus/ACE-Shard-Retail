@@ -36,12 +36,12 @@ VALUES (2164483760,   1, False) /* Stuck */
      , (2164483760,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2164483760,   5, -0.0500000007450581) /* ManaRate */
+VALUES (2164483760,   5, -0.05000000074505806) /* ManaRate */
      , (2164483760,  21,       0) /* WeaponLength */
-     , (2164483760,  22, 0.400000005960464) /* DamageVariance */
+     , (2164483760,  22, 0.4000000059604645) /* DamageVariance */
      , (2164483760,  26,       0) /* MaximumVelocity */
-     , (2164483760,  29, 1.14999997615814) /* WeaponDefense */
-     , (2164483760,  62, 1.10000002384186) /* WeaponOffense */
+     , (2164483760,  29, 1.149999976158142) /* WeaponDefense */
+     , (2164483760,  62, 1.100000023841858) /* WeaponOffense */
      , (2164483760,  63,       1) /* DamageMod */
      , (2164483760, 136,       1) /* CriticalMultiplier */
      , (2164483760, 147,       1) /* CriticalFrequency */;

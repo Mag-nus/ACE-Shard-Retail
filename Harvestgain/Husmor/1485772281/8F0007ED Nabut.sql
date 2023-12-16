@@ -42,9 +42,9 @@ INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2399143917,  21,       0) /* WeaponLength */
      , (2399143917,  22,    0.42) /* DamageVariance */
      , (2399143917,  26,       0) /* MaximumVelocity */
-     , (2399143917,  29, 1.26000000178814) /* WeaponDefense */
+     , (2399143917,  29, 1.2600000017881394) /* WeaponDefense */
      , (2399143917,  39, 0.800000011920929) /* DefaultScale */
-     , (2399143917,  62, 1.17000000178814) /* WeaponOffense */
+     , (2399143917,  62, 1.1700000017881393) /* WeaponOffense */
      , (2399143917,  63,       1) /* DamageMod */
      , (2399143917, 150,   1.015) /* WeaponMagicDefense */
      , (2399143917, 8004,       4) /* PCAPRecordedWorkmanship */;
@@ -69,7 +69,7 @@ VALUES (2399143917,   1,   33558064) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (2399143917, 8040, 3332964380, 77.76524, 94.60841, 41.929, 0.5381905, 0.5381905, -0.4586404, -0.4586404) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001C [77.765240 94.608410 41.929000] 0.538191 0.538191 -0.458640 -0.458640 */;
+/* @teleloc 0xC6A9001C [77.765244 94.608414 41.929001] 0.538190 0.538190 -0.458640 -0.458640 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2399143917,   3, 1343112384) /* Wielder */

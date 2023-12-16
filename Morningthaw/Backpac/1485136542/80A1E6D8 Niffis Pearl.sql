@@ -31,8 +31,8 @@ VALUES (2158094040,   1, False) /* Stuck */
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2158094040,   5,  -0.025) /* ManaRate */
      , (2158094040,  29,       1) /* WeaponDefense */
-     , (2158094040,  39, 0.899999976158142) /* DefaultScale */
-     , (2158094040, 144, 1.06624012565874E-314) /* ManaConversionMod */;
+     , (2158094040,  39, 0.8999999761581421) /* DefaultScale */
+     , (2158094040, 144, 1.0662401257E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2158094040,   1, 'Niffis Pearl') /* Name */

@@ -37,7 +37,7 @@ VALUES (3319999996,   1, False) /* Stuck */
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (3319999996,   5,    -0.1) /* ManaRate */
      , (3319999996,  29,       1) /* WeaponDefense */
-     , (3319999996, 144, 1.64029794221668E-314) /* ManaConversionMod */;
+     , (3319999996, 144, 1.640297942E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3319999996,   1, 'Perfect Shimmering Isparian Wand') /* Name */;

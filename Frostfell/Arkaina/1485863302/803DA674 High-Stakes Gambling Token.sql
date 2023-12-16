@@ -22,7 +22,7 @@ VALUES (2151523956,   1, False) /* Stuck */
      , (2151523956,  69, False) /* IsSellable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2151523956,  39, 0.670000016689301) /* DefaultScale */;
+VALUES (2151523956,  39, 0.6700000166893005) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2151523956,   1, 'High-Stakes Gambling Token') /* Name */

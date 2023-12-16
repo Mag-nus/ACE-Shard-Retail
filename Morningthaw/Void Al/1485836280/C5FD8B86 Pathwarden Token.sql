@@ -19,7 +19,7 @@ VALUES (3321727878,   1, False) /* Stuck */
      , (3321727878,  19, True ) /* Attackable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3321727878,  39, 0.670000016689301) /* DefaultScale */;
+VALUES (3321727878,  39, 0.6700000166893005) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3321727878,   1, 'Pathwarden Token') /* Name */;

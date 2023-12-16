@@ -20,7 +20,7 @@ VALUES (2448208909,   1, False) /* Stuck */
      , (2448208909,  19, True ) /* Attackable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2448208909,  39, 1.22000002861023) /* DefaultScale */;
+VALUES (2448208909,  39, 1.2200000286102295) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2448208909,   1, 'Natural Order') /* Name */;

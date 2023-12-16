@@ -33,14 +33,14 @@ VALUES (3701772240,   1, False) /* Stuck */
      , (3701772240,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3701772240,   5, -0.0500000007450581) /* ManaRate */
+VALUES (3701772240,   5, -0.05000000074505806) /* ManaRate */
      , (3701772240,  13,       1) /* ArmorModVsSlash */
      , (3701772240,  14, 0.800000011920929) /* ArmorModVsPierce */
-     , (3701772240,  15, 1.20000004768372) /* ArmorModVsBludgeon */
-     , (3701772240,  16, 0.600000023841858) /* ArmorModVsCold */
-     , (3701772240,  17, 0.600000023841858) /* ArmorModVsFire */
+     , (3701772240,  15, 1.2000000476837158) /* ArmorModVsBludgeon */
+     , (3701772240,  16, 0.6000000238418579) /* ArmorModVsCold */
+     , (3701772240,  17, 0.6000000238418579) /* ArmorModVsFire */
      , (3701772240,  18,       1) /* ArmorModVsAcid */
-     , (3701772240,  19, 0.600000023841858) /* ArmorModVsElectric */
+     , (3701772240,  19, 0.6000000238418579) /* ArmorModVsElectric */
      , (3701772240,  39,     0.5) /* DefaultScale */
      , (3701772240, 165,       1) /* ArmorModVsNether */
      , (3701772240, 8004,       5) /* PCAPRecordedWorkmanship */;
@@ -61,8 +61,8 @@ VALUES (3701772240,   1,   33554786) /* Setup */
      , (3701772240, 8009,          3) /* PCAPRecordedParentLocation - Shield */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (3701772240, 8040, 869859341, 33.40237, 118.6106, 51.926, -0.4769867, 0.2705455, 0.7979906, 0.2499997) /* PCAPRecordedLocation */
-/* @teleloc 0x33D9000D [33.402370 118.610600 51.926000] -0.476987 0.270546 0.797991 0.250000 */;
+VALUES (3701772240, 8040, 869859341, 33.402367, 118.61061, 51.926003, -0.47698674, 0.27054554, 0.79799056, 0.24999969) /* PCAPRecordedLocation */
+/* @teleloc 0x33D9000D [33.402367 118.610611 51.926003] -0.476987 0.270546 0.797991 0.250000 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (3701772240,   1, 1342572265) /* Owner */

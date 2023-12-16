@@ -23,7 +23,7 @@ VALUES (2158100628,   1, False) /* Stuck */
      , (2158100628,  69, False) /* IsSellable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2158100628,  39, 1.60000002384186) /* DefaultScale */;
+VALUES (2158100628,  39, 1.600000023841858) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2158100628,   1, 'Scintillating Gem') /* Name */

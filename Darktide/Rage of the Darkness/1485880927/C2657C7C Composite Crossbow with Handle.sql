@@ -39,14 +39,14 @@ VALUES (3261430908,   1, False) /* Stuck */
      , (3261430908,  99, True ) /* Ivoryable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3261430908,   5, -0.0500000007450581) /* ManaRate */
+VALUES (3261430908,   5, -0.05000000074505806) /* ManaRate */
      , (3261430908,  21,       0) /* WeaponLength */
      , (3261430908,  22,       0) /* DamageVariance */
      , (3261430908,  26,    27.3) /* MaximumVelocity */
-     , (3261430908,  29, 1.01999998092651) /* WeaponDefense */
+     , (3261430908,  29, 1.0199999809265137) /* WeaponDefense */
      , (3261430908,  39,    1.25) /* DefaultScale */
-     , (3261430908,  62, 1.05999994277954) /* WeaponOffense */
-     , (3261430908,  63, 2.40000009536743) /* DamageMod */;
+     , (3261430908,  62, 1.059999942779541) /* WeaponOffense */
+     , (3261430908,  63, 2.4000000953674316) /* DamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3261430908,   1, 'Composite Crossbow with Handle') /* Name */

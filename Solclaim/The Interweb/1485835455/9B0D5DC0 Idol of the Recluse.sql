@@ -34,10 +34,10 @@ VALUES (2601344448,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2601344448,   5,  -0.025) /* ManaRate */
-     , (2601344448,  29, 1.40000000298023) /* WeaponDefense */
-     , (2601344448,  39, 0.400000005960464) /* DefaultScale */
-     , (2601344448, 144, 0.179999995231628) /* ManaConversionMod */
-     , (2601344448, 152, 1.07999999821186) /* ElementalDamageMod */;
+     , (2601344448,  29, 1.4000000029802322) /* WeaponDefense */
+     , (2601344448,  39, 0.4000000059604645) /* DefaultScale */
+     , (2601344448, 144, 0.17999999523162843) /* ManaConversionMod */
+     , (2601344448, 152, 1.0799999982118607) /* ElementalDamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2601344448,   1, 'Idol of the Recluse') /* Name */
@@ -55,8 +55,8 @@ VALUES (2601344448,   1,   33561621) /* Setup */
      , (2601344448, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (2601344448, 8040, 2480930839, 70.70963, 149.4735, 131.9003, -0.3422879, -0.3422879, -0.6187398, -0.6187398) /* PCAPRecordedLocation */
-/* @teleloc 0x93E00017 [70.709630 149.473500 131.900300] -0.342288 -0.342288 -0.618740 -0.618740 */;
+VALUES (2601344448, 8040, 2480930839, 70.709625, 149.47346, 131.90033, -0.3422879, -0.3422879, -0.61873984, -0.61873984) /* PCAPRecordedLocation */
+/* @teleloc 0x93E00017 [70.709625 149.473465 131.900330] -0.342288 -0.342288 -0.618740 -0.618740 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2601344448,   3, 1343084377) /* Wielder */

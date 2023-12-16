@@ -19,8 +19,8 @@ VALUES (3420103605,   1, False) /* Stuck */
      , (3420103605,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3420103605,  39, 0.200000002980232) /* DefaultScale */
-     , (3420103605,  76, 0.600000023841858) /* Translucency */;
+VALUES (3420103605,  39, 0.20000000298023224) /* DefaultScale */
+     , (3420103605,  76, 0.6000000238418579) /* Translucency */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3420103605,   1, 'Piece of K''nath Core') /* Name */;

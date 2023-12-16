@@ -21,7 +21,7 @@ VALUES (2156007766,   1, False) /* Stuck */
      , (2156007766,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2156007766,  39, 0.300000011920929) /* DefaultScale */;
+VALUES (2156007766,  39, 0.30000001192092896) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2156007766,   1, 'Pack Golem') /* Name */

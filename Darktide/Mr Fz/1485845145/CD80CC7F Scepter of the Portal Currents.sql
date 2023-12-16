@@ -35,10 +35,10 @@ VALUES (3447770239,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (3447770239,   5,   -0.05) /* ManaRate */
-     , (3447770239,  29, 1.20000000298023) /* WeaponDefense */
-     , (3447770239, 144, 0.179999995231628) /* ManaConversionMod */
+     , (3447770239,  29, 1.2000000029802322) /* WeaponDefense */
+     , (3447770239, 144, 0.17999999523162843) /* ManaConversionMod */
      , (3447770239, 147,       1) /* CriticalFrequency */
-     , (3447770239, 152, 1.07999999821186) /* ElementalDamageMod */;
+     , (3447770239, 152, 1.0799999982118607) /* ElementalDamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3447770239,   1, 'Scepter of the Portal Currents') /* Name */

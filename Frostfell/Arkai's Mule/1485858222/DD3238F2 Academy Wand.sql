@@ -30,9 +30,9 @@ VALUES (3711056114,   1, False) /* Stuck */
      , (3711056114,  69, False) /* IsSellable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3711056114,   5, -0.033330000936985) /* ManaRate */
+VALUES (3711056114,   5, -0.033330000936985016) /* ManaRate */
      , (3711056114,  29,       1) /* WeaponDefense */
-     , (3711056114, 144, 1.83350533571652E-314) /* ManaConversionMod */;
+     , (3711056114, 144, 1.8335053357E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3711056114,   1, 'Academy Wand') /* Name */

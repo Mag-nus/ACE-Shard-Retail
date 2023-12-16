@@ -22,7 +22,7 @@ VALUES (2624418260,   1, False) /* Stuck */
      , (2624418260,  69, False) /* IsSellable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2624418260,  39, 0.300000011920929) /* DefaultScale */;
+VALUES (2624418260,  39, 0.30000001192092896) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2624418260,   1, 'Rare Crystalline Shard') /* Name */

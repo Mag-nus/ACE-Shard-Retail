@@ -30,7 +30,7 @@ VALUES (2192145279,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2192145279,  29,       1) /* WeaponDefense */
-     , (2192145279, 144, 1.08306367304697E-314) /* ManaConversionMod */;
+     , (2192145279, 144, 1.083063673E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2192145279,   1, 'Orb of Eternal Frost') /* Name */

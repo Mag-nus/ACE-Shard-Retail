@@ -21,7 +21,7 @@ VALUES (3470637018,   1, False) /* Stuck */
      , (3470637018,  19, True ) /* Attackable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3470637018,  39, 0.379999995231628) /* DefaultScale */;
+VALUES (3470637018,  39, 0.3799999952316284) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3470637018,   1, 'Spectral Chill Arrow Bundle') /* Name */;

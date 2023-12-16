@@ -40,14 +40,14 @@ VALUES (2165993811,   1, False) /* Stuck */
      , (2165993811,  91, True ) /* Retained */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2165993811,   5, -0.0500000007450581) /* ManaRate */
-     , (2165993811,  13, 1.60000002384186) /* ArmorModVsSlash */
-     , (2165993811,  14, 1.70000004768372) /* ArmorModVsPierce */
-     , (2165993811,  15, 1.89999997615814) /* ArmorModVsBludgeon */
-     , (2165993811,  16, 1.60000002384186) /* ArmorModVsCold */
-     , (2165993811,  17, 1.60000002384186) /* ArmorModVsFire */
-     , (2165993811,  18, 1.60000002384186) /* ArmorModVsAcid */
-     , (2165993811,  19, 1.79999995231628) /* ArmorModVsElectric */
+VALUES (2165993811,   5, -0.05000000074505806) /* ManaRate */
+     , (2165993811,  13, 1.600000023841858) /* ArmorModVsSlash */
+     , (2165993811,  14, 1.7000000476837158) /* ArmorModVsPierce */
+     , (2165993811,  15, 1.899999976158142) /* ArmorModVsBludgeon */
+     , (2165993811,  16, 1.600000023841858) /* ArmorModVsCold */
+     , (2165993811,  17, 1.600000023841858) /* ArmorModVsFire */
+     , (2165993811,  18, 1.600000023841858) /* ArmorModVsAcid */
+     , (2165993811,  19, 1.7999999523162842) /* ArmorModVsElectric */
      , (2165993811,  39,    0.75) /* DefaultScale */
      , (2165993811, 165,       1) /* ArmorModVsNether */
      , (2165993811, 8004,       7) /* PCAPRecordedWorkmanship */;
@@ -72,8 +72,8 @@ VALUES (2165993811,   1,   33557878) /* Setup */
      , (2165993811, 8009,          3) /* PCAPRecordedParentLocation - Shield */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (2165993811, 8040, 3332964381, 76.12112, 96.2039, 41.926, 0.5222507, -0.07626102, -0.8391472, -0.1314169) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001D [76.121120 96.203900 41.926000] 0.522251 -0.076261 -0.839147 -0.131417 */;
+VALUES (2165993811, 8040, 3332964381, 76.12112, 96.2039, 41.926003, 0.5222507, -0.07626102, -0.8391472, -0.13141689) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A9001D [76.121117 96.203903 41.926003] 0.522251 -0.076261 -0.839147 -0.131417 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2165993811,   1, 1342649582) /* Owner */

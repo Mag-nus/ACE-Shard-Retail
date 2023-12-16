@@ -36,7 +36,7 @@ VALUES (3351325220,   5,  -0.025) /* ManaRate */
      , (3351325220,  29,       1) /* WeaponDefense */
      , (3351325220,  39, 0.800000011920929) /* DefaultScale */
      , (3351325220,  77,       1) /* PhysicsScriptIntensity */
-     , (3351325220, 144, 1.65577465924336E-314) /* ManaConversionMod */;
+     , (3351325220, 144, 1.655774659E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3351325220,   1, 'Assault Orb') /* Name */

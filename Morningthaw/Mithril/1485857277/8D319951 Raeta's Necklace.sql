@@ -28,7 +28,7 @@ VALUES (2368837969,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2368837969,   5, -0.0333333) /* ManaRate */
-     , (2368837969,  39, 0.469999998807907) /* DefaultScale */;
+     , (2368837969,  39, 0.4699999988079071) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2368837969,   1, 'Raeta''s Necklace') /* Name */

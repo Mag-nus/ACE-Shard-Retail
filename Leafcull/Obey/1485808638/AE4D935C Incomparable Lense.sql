@@ -33,7 +33,7 @@ INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2924319580,   5,   -0.05) /* ManaRate */
      , (2924319580,  29,     1.2) /* WeaponDefense */
      , (2924319580,  39,     1.5) /* DefaultScale */
-     , (2924319580, 144, 1.4448058419389E-314) /* ManaConversionMod */;
+     , (2924319580, 144, 1.444805842E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2924319580,   1, 'Incomparable Lense') /* Name */

@@ -35,7 +35,7 @@ VALUES (2189157688,   1, False) /* Stuck */
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2189157688,   5,      -1) /* ManaRate */
      , (2189157688,  29,       1) /* WeaponDefense */
-     , (2189157688, 144, 1.08158760697005E-314) /* ManaConversionMod */;
+     , (2189157688, 144, 1.081587607E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2189157688,   1, 'Taulandoi') /* Name */

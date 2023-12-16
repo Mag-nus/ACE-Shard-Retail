@@ -40,13 +40,13 @@ VALUES (2402932517,   1, False) /* Stuck */
      , (2402932517,  69, False) /* IsSellable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2402932517,   5, -0.100000001490116) /* ManaRate */
+VALUES (2402932517,   5, -0.10000000149011612) /* ManaRate */
      , (2402932517,  21,       0) /* WeaponLength */
      , (2402932517,  22,       0) /* DamageVariance */
      , (2402932517,  26,    27.3) /* MaximumVelocity */
      , (2402932517,  29,    1.25) /* WeaponDefense */
      , (2402932517,  62,       1) /* WeaponOffense */
-     , (2402932517,  63, 2.29999995231628) /* DamageMod */;
+     , (2402932517,  63, 2.299999952316284) /* DamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2402932517,   1, 'Perfect Shimmering Isparian Bow') /* Name */;

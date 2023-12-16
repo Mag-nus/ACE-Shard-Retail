@@ -24,7 +24,7 @@ VALUES (3674902500,   1, False) /* Stuck */
      , (3674902500,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3674902500,  39, 1.10000002384186) /* DefaultScale */;
+VALUES (3674902500,  39, 1.100000023841858) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3674902500,   1, 'Unerring Strike Bow') /* Name */;

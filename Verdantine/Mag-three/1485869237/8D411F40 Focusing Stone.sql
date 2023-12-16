@@ -25,7 +25,7 @@ VALUES (2369855296,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2369855296,  39, 0.699999988079071) /* DefaultScale */
-     , (2369855296,  76, 0.200000002980232) /* Translucency */;
+     , (2369855296,  76, 0.20000000298023224) /* Translucency */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2369855296,   1, 'Focusing Stone') /* Name */;

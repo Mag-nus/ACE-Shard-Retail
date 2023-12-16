@@ -35,11 +35,11 @@ VALUES (2147514421,   1, False) /* Stuck */
      , (2147514421,  99, True ) /* Ivoryable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2147514421,   5, -0.0329999998211861) /* ManaRate */
-     , (2147514421,  29, 1.42000003159046) /* WeaponDefense */
-     , (2147514421, 144, 0.449999988079071) /* ManaConversionMod */
+VALUES (2147514421,   5, -0.032999999821186066) /* ManaRate */
+     , (2147514421,  29, 1.4200000315904617) /* WeaponDefense */
+     , (2147514421, 144, 0.44999998807907104) /* ManaConversionMod */
      , (2147514421, 147,       1) /* CriticalFrequency */
-     , (2147514421, 152, 1.21999998390675) /* ElementalDamageMod */;
+     , (2147514421, 152, 1.219999983906746) /* ElementalDamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2147514421,   1, 'Life-attuned Rynthid Tentacle Wand') /* Name */

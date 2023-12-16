@@ -23,7 +23,7 @@ VALUES (3231094822,   1, False) /* Stuck */
      , (3231094822,  69, False) /* IsSellable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3231094822,  39, 0.400000005960464) /* DefaultScale */;
+VALUES (3231094822,  39, 0.4000000059604645) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3231094822,   1, 'Small Olthoi Venom Sac') /* Name */

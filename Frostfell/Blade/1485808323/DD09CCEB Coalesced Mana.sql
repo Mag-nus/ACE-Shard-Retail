@@ -18,7 +18,7 @@ VALUES (3708407019,   1, False) /* Stuck */
      , (3708407019,  19, True ) /* Attackable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3708407019,  39, 0.300000011920929) /* DefaultScale */;
+VALUES (3708407019,  39, 0.30000001192092896) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3708407019,   1, 'Coalesced Mana') /* Name */

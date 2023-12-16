@@ -37,8 +37,8 @@ INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2151229199,   5,   -0.05) /* ManaRate */
      , (2151229199,  29,       1) /* WeaponDefense */
      , (2151229199,  39, 0.699999988079071) /* DefaultScale */
-     , (2151229199,  76, 0.200000002980232) /* Translucency */
-     , (2151229199, 144, 1.06284844355648E-314) /* ManaConversionMod */;
+     , (2151229199,  76, 0.20000000298023224) /* Translucency */
+     , (2151229199, 144, 1.0628484436E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2151229199,   1, 'Focusing Stone') /* Name */

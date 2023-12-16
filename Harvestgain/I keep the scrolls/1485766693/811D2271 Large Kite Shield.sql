@@ -27,13 +27,13 @@ VALUES (2166170225,   1, False) /* Stuck */
      , (2166170225,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2166170225,  13, 2.70000004768372) /* ArmorModVsSlash */
+VALUES (2166170225,  13, 2.700000047683716) /* ArmorModVsSlash */
      , (2166170225,  14,     2.5) /* ArmorModVsPierce */
-     , (2166170225,  15, 2.90000009536743) /* ArmorModVsBludgeon */
-     , (2166170225,  16, 1.14255464076996) /* ArmorModVsCold */
-     , (2166170225,  17, 0.600000023841858) /* ArmorModVsFire */
-     , (2166170225,  18, 1.60534989833832) /* ArmorModVsAcid */
-     , (2166170225,  19, 0.600000023841858) /* ArmorModVsElectric */
+     , (2166170225,  15, 2.9000000953674316) /* ArmorModVsBludgeon */
+     , (2166170225,  16, 1.1425546407699585) /* ArmorModVsCold */
+     , (2166170225,  17, 0.6000000238418579) /* ArmorModVsFire */
+     , (2166170225,  18, 1.6053498983383179) /* ArmorModVsAcid */
+     , (2166170225,  19, 0.6000000238418579) /* ArmorModVsElectric */
      , (2166170225, 165,       1) /* ArmorModVsNether */
      , (2166170225, 8004,       8) /* PCAPRecordedWorkmanship */;
 
@@ -53,8 +53,8 @@ VALUES (2166170225,   1,   33554788) /* Setup */
      , (2166170225, 8009,          3) /* PCAPRecordedParentLocation - Shield */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (2166170225, 8040, 3332964380, 75.69916, 94.94874, 41.926, 0.5371125, 0.0700881, -0.8396853, -0.03906887) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001C [75.699160 94.948740 41.926000] 0.537113 0.070088 -0.839685 -0.039069 */;
+VALUES (2166170225, 8040, 3332964380, 75.69916, 94.94874, 41.926003, 0.5371125, 0.0700881, -0.8396853, -0.039068867) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A9001C [75.699158 94.948738 41.926003] 0.537112 0.070088 -0.839685 -0.039069 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2166170225,   3, 1342992105) /* Wielder */

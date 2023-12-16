@@ -25,7 +25,7 @@ VALUES (2147529142,   1, False) /* Stuck */
      , (2147529142,  91, True ) /* Retained */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2147529142,  39, 0.600000023841858) /* DefaultScale */;
+VALUES (2147529142,  39, 0.6000000238418579) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2147529142,   1, 'Rossu Morta Chapterhouse Recall Orb') /* Name */;

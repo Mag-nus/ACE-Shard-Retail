@@ -22,9 +22,9 @@ VALUES (2147529144,   1, False) /* Stuck */
      , (2147529144,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2147529144,  29, 1.20000000298023) /* WeaponDefense */
-     , (2147529144, 144, 1.90983662179436E-314) /* ManaConversionMod */
-     , (2147529144, 152, 1.07999999821186) /* ElementalDamageMod */;
+VALUES (2147529144,  29, 1.2000000029802322) /* WeaponDefense */
+     , (2147529144, 144, 1.909836622E-314) /* ManaConversionMod */
+     , (2147529144, 152, 1.0799999982118607) /* ElementalDamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2147529144,   1, 'Caulnalain Staff of the Lightbringer') /* Name */
@@ -43,8 +43,8 @@ VALUES (2147529144,   1,   33556940) /* Setup */
      , (2147529144, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (2147529144, 8040, 2544238607, 39.27694, 156.0476, 51.20191, -0.5197011, -0.5197011, -0.4794901, -0.4794901) /* PCAPRecordedLocation */
-/* @teleloc 0x97A6000F [39.276940 156.047600 51.201910] -0.519701 -0.519701 -0.479490 -0.479490 */;
+VALUES (2147529144, 8040, 2544238607, 39.276943, 156.04759, 51.201912, -0.5197011, -0.5197011, -0.47949007, -0.47949007) /* PCAPRecordedLocation */
+/* @teleloc 0x97A6000F [39.276943 156.047592 51.201912] -0.519701 -0.519701 -0.479490 -0.479490 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2147529144,   3, 1342753073) /* Wielder */

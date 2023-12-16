@@ -19,7 +19,7 @@ VALUES (3679820199,   1, False) /* Stuck */
      , (3679820199,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3679820199,  39, 0.370000004768372) /* DefaultScale */;
+VALUES (3679820199,  39, 0.3700000047683716) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3679820199,   1, 'Mystic Drudge Charm') /* Name */;

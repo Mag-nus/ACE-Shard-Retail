@@ -25,7 +25,7 @@ VALUES (2927238415,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2927238415,   5,  -0.049) /* ManaRate */
-     , (2927238415,  39, 0.670000016689301) /* DefaultScale */;
+     , (2927238415,  39, 0.6700000166893005) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2927238415,   1, 'Pathwarden Trinket') /* Name */

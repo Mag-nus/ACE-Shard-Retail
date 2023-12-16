@@ -24,7 +24,7 @@ VALUES (2158098731,   1, False) /* Stuck */
      , (2158098731,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2158098731,  39, 0.600000023841858) /* DefaultScale */;
+VALUES (2158098731,  39, 0.6000000238418579) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2158098731,   1, 'Teleportation Device') /* Name */;
@@ -42,8 +42,8 @@ VALUES (2158098731,   1,   33554669) /* Setup */
      , (2158098731, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (2158098731, 8040, 2795962680, 154.8313, 159.2838, 103.929, -0.7045525, -0.7045525, -0.06004798, -0.06004798) /* PCAPRecordedLocation */
-/* @teleloc 0xA6A70138 [154.831300 159.283800 103.929000] -0.704553 -0.704553 -0.060048 -0.060048 */;
+VALUES (2158098731, 8040, 2795962680, 154.83125, 159.28378, 103.92901, -0.70455253, -0.70455253, -0.060047984, -0.060047984) /* PCAPRecordedLocation */
+/* @teleloc 0xA6A70138 [154.831253 159.283783 103.929008] -0.704553 -0.704553 -0.060048 -0.060048 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2158098731,   3, 1343190271) /* Wielder */

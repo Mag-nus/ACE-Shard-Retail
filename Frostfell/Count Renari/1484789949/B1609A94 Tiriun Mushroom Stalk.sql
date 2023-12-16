@@ -20,7 +20,7 @@ VALUES (2975898260,   1, False) /* Stuck */
      , (2975898260,  19, True ) /* Attackable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2975898260,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (2975898260,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2975898260,   1, 'Tiriun Mushroom Stalk') /* Name */

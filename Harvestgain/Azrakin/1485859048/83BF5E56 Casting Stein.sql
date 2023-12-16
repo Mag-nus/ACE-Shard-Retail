@@ -31,8 +31,8 @@ VALUES (2210356822,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2210356822,  29,       1) /* WeaponDefense */
-     , (2210356822,  39, 1.20000004768372) /* DefaultScale */
-     , (2210356822, 144, 0.0700000002980232) /* ManaConversionMod */;
+     , (2210356822,  39, 1.2000000476837158) /* DefaultScale */
+     , (2210356822, 144, 0.07000000029802322) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2210356822,   1, 'Casting Stein') /* Name */
@@ -52,8 +52,8 @@ VALUES (2210356822,   1,   33558217) /* Setup */
      , (2210356822, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (2210356822, 8040, 3164537156, 85.51308, 112.6269, 54.459, 0.7069105, 0.7069105, -0.01665959, -0.01665959) /* PCAPRecordedLocation */
-/* @teleloc 0xBC9F0144 [85.513080 112.626900 54.459000] 0.706911 0.706911 -0.016660 -0.016660 */;
+VALUES (2210356822, 8040, 3164537156, 85.513084, 112.62692, 54.459, 0.7069105, 0.7069105, -0.016659593, -0.016659593) /* PCAPRecordedLocation */
+/* @teleloc 0xBC9F0144 [85.513084 112.626923 54.459000] 0.706910 0.706910 -0.016660 -0.016660 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2210356822,   3, 1342178494) /* Wielder */

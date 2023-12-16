@@ -29,7 +29,7 @@ VALUES (2151009797,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2151009797,  29,       1) /* WeaponDefense */
-     , (2151009797, 144, 1.06274004456565E-314) /* ManaConversionMod */;
+     , (2151009797, 144, 1.0627400446E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2151009797,   1, 'Aerbax''s Defeat') /* Name */

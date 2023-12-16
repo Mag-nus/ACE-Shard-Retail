@@ -21,7 +21,7 @@ VALUES (2881089187,   1, False) /* Stuck */
      , (2881089187,  19, True ) /* Attackable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2881089187,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (2881089187,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2881089187,   1, 'Trade Mana Elixir') /* Name */;

@@ -20,7 +20,7 @@ VALUES (2609854388,   1, False) /* Stuck */
      , (2609854388,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2609854388,  39, 0.200000002980232) /* DefaultScale */;
+VALUES (2609854388,  39, 0.20000000298023224) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2609854388,   1, 'Sluice Gate Bar') /* Name */

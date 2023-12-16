@@ -118,10 +118,10 @@ VALUES (1344175210,   1,   33554433) /* Setup */
      , (1344175210, 8005,     104451) /* PCAPRecordedPhysicsDesc - CSetup, MTable, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1344175210, 1, 2847080471, 50.77655, 164.938, 94.23637, -0.9263934, 0, 0, -0.3765569) /* Location */
-/* @teleloc 0xA9B30017 [50.776550 164.938000 94.236370] -0.926393 0.000000 0.000000 -0.376557 */
-     , (1344175210, 8040, 2847146009, 85.15538, 14.36637, 94.005, -0.9592038, 0, 0, -0.2827157) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B40019 [85.155380 14.366370 94.005000] -0.959204 0.000000 0.000000 -0.282716 */;
+VALUES (1344175210, 1, 2847080471, 50.776554, 164.93805, 94.236374, -0.92639345, 0, 0, -0.37655693) /* Location */
+/* @teleloc 0xA9B30017 [50.776554 164.938049 94.236374] -0.926393 0.000000 0.000000 -0.376557 */
+     , (1344175210, 8040, 2847146009, 85.15538, 14.366366, 94.005005, -0.9592038, 0, 0, -0.28271568) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B40019 [85.155380 14.366366 94.005005] -0.959204 0.000000 0.000000 -0.282716 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1344175210, 8000, 1344175210) /* PCAPRecordedObjectIID */;
@@ -246,4 +246,4 @@ VALUES (1344175210, 0, 16781835, 25)
      , (1344175210, 33, 16777708, 21);
 
 INSERT INTO `biota_properties_enchantment_registry` (`object_Id`, `enchantment_Category`, `spell_Id`, `layer_Id`, `has_Spell_Set_Id`, `spell_Category`, `power_Level`, `start_Time`, `duration`, `caster_Object_Id`, `degrade_Modifier`, `degrade_Limit`, `last_Time_Degraded`, `stat_Mod_Type`, `stat_Mod_Key`, `stat_Mod_Value`, `spell_Set_Id`)
-VALUES (1344175210, 0, 3811, 1, True, 519, 100, -51.8684632778168, 86400, 1344175210, 0, -666, -535523426.513863, 33595520, 0, 50, 0);
+VALUES (1344175210, 0, 3811, 1, True, 519, 100, -51.86846327781677, 86400, 1344175210, 0, -666, -535523426.51386315, 33595520, 0, 50, 0);

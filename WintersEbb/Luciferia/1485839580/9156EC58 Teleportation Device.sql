@@ -36,8 +36,8 @@ VALUES (2438392920,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2438392920,  29,       1) /* WeaponDefense */
-     , (2438392920,  39, 0.600000023841858) /* DefaultScale */
-     , (2438392920, 144, 1.20472617283452E-314) /* ManaConversionMod */;
+     , (2438392920,  39, 0.6000000238418579) /* DefaultScale */
+     , (2438392920, 144, 1.204726173E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2438392920,   1, 'Teleportation Device') /* Name */
@@ -60,8 +60,8 @@ VALUES (2438392920,   1,   33554669) /* Setup */
      , (2438392920, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (2438392920, 8040, 471072804, 110.6569, 94.59192, 40.16682, -0.2131712, -0.2131712, -0.6742092, -0.6742092) /* PCAPRecordedLocation */
-/* @teleloc 0x1C140024 [110.656900 94.591920 40.166820] -0.213171 -0.213171 -0.674209 -0.674209 */;
+VALUES (2438392920, 8040, 471072804, 110.65688, 94.59192, 40.166824, -0.21317118, -0.21317118, -0.6742092, -0.6742092) /* PCAPRecordedLocation */
+/* @teleloc 0x1C140024 [110.656883 94.591919 40.166824] -0.213171 -0.213171 -0.674209 -0.674209 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2438392920,   3, 1342993568) /* Wielder */

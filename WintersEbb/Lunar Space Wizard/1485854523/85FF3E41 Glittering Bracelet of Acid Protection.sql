@@ -21,7 +21,7 @@ VALUES (2248097345,   1, False) /* Stuck */
      , (2248097345,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2248097345,  39, 0.670000016689301) /* DefaultScale */;
+VALUES (2248097345,  39, 0.6700000166893005) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2248097345,   1, 'Glittering Bracelet of Acid Protection') /* Name */;

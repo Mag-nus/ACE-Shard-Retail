@@ -22,7 +22,7 @@ VALUES (2927367455,   1, False) /* Stuck */
      , (2927367455,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2927367455,  39, 1.08000004291534) /* DefaultScale */;
+VALUES (2927367455,  39, 1.0800000429153442) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2927367455,   1, 'Starter Knife') /* Name */;

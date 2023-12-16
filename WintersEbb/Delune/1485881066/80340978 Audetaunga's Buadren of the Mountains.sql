@@ -34,10 +34,10 @@ VALUES (2150893944,   1, False) /* Stuck */
      , (2150893944,  99, True ) /* Ivoryable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2150893944,   5, -0.0333329997956753) /* ManaRate */
-     , (2150893944,  29, 1.08000004291534) /* WeaponDefense */
-     , (2150893944,  39, 1.10000002384186) /* DefaultScale */
-     , (2150893944, 144, 0.100000001490116) /* ManaConversionMod */;
+VALUES (2150893944,   5, -0.03333299979567528) /* ManaRate */
+     , (2150893944,  29, 1.0800000429153442) /* WeaponDefense */
+     , (2150893944,  39, 1.100000023841858) /* DefaultScale */
+     , (2150893944, 144, 0.10000000149011612) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2150893944,   1, 'Audetaunga''s Buadren of the Mountains') /* Name */

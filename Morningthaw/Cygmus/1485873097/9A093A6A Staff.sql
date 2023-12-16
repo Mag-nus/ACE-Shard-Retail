@@ -34,7 +34,7 @@ INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2584296042,   5, -0.0125) /* ManaRate */
      , (2584296042,  29,       1) /* WeaponDefense */
      , (2584296042,  39, 0.800000011920929) /* DefaultScale */
-     , (2584296042, 144, 1.27681189303571E-314) /* ManaConversionMod */
+     , (2584296042, 144, 1.276811893E-314) /* ManaConversionMod */
      , (2584296042, 8004,       1) /* PCAPRecordedWorkmanship */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)

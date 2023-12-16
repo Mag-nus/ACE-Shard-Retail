@@ -35,7 +35,7 @@ VALUES (2368871244,   1, False) /* Stuck */
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2368871244,   5, -0.0333000011742115) /* ManaRate */
      , (2368871244,  29,       1) /* WeaponDefense */
-     , (2368871244, 144, 0.0500000007450581) /* ManaConversionMod */;
+     , (2368871244, 144, 0.05000000074505806) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2368871244,   1, 'Asteliary Orb') /* Name */

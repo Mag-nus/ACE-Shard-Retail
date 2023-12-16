@@ -34,12 +34,12 @@ VALUES (3691364995,   1, False) /* Stuck */
      , (3691364995,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3691364995,   5, -0.0333329997956753) /* ManaRate */
-     , (3691364995,  29, 1.31999997794628) /* WeaponDefense */
-     , (3691364995,  39, 1.29999995231628) /* DefaultScale */
-     , (3691364995,  76, 0.600000023841858) /* Translucency */
-     , (3691364995, 144, 0.510000034570695) /* ManaConversionMod */
-     , (3691364995, 152, 1.27000004798174) /* ElementalDamageMod */;
+VALUES (3691364995,   5, -0.03333299979567528) /* ManaRate */
+     , (3691364995,  29, 1.3199999779462814) /* WeaponDefense */
+     , (3691364995,  39, 1.2999999523162842) /* DefaultScale */
+     , (3691364995,  76, 0.6000000238418579) /* Translucency */
+     , (3691364995, 144, 0.5100000345706945) /* ManaConversionMod */
+     , (3691364995, 152, 1.270000047981739) /* ElementalDamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3691364995,   1, 'Drudge Scrying Orb') /* Name */
@@ -59,8 +59,8 @@ VALUES (3691364995,   1,   33558259) /* Setup */
      , (3691364995, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (3691364995, 8040, 23855554, 61.54181, -34.82231, -0.07000002, -0.5065686, -0.5065686, -0.4933439, -0.4933439) /* PCAPRecordedLocation */
-/* @teleloc 0x016C01C2 [61.541810 -34.822310 -0.070000] -0.506569 -0.506569 -0.493344 -0.493344 */;
+VALUES (3691364995, 8040, 23855554, 61.54181, -34.82231, -0.070000015, -0.5065686, -0.5065686, -0.49334392, -0.49334392) /* PCAPRecordedLocation */
+/* @teleloc 0x016C01C2 [61.541809 -34.822311 -0.070000] -0.506569 -0.506569 -0.493344 -0.493344 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (3691364995,   3, 1343320424) /* Wielder */

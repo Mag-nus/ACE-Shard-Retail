@@ -33,9 +33,9 @@ VALUES (3196330651,   1, False) /* Stuck */
      , (3196330651,  99, True ) /* Ivoryable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3196330651,  29, 1.28999996185303) /* WeaponDefense */
-     , (3196330651, 144, 0.203999996185303) /* ManaConversionMod */
-     , (3196330651, 152, 1.16999995708466) /* ElementalDamageMod */;
+VALUES (3196330651,  29, 1.2899999618530273) /* WeaponDefense */
+     , (3196330651, 144, 0.20399999618530273) /* ManaConversionMod */
+     , (3196330651, 152, 1.1699999570846558) /* ElementalDamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3196330651,   1, 'Shadowfire Isparian Wand') /* Name */
@@ -55,8 +55,8 @@ VALUES (3196330651,   1,   33559826) /* Setup */
      , (3196330651, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (3196330651, 8040, 23855549, 53.32067, -36.91917, -0.071, 0.7071059, 0.7071059, -0.001102957, -0.001102957) /* PCAPRecordedLocation */
-/* @teleloc 0x016C01BD [53.320670 -36.919170 -0.071000] 0.707106 0.707106 -0.001103 -0.001103 */;
+VALUES (3196330651, 8040, 23855549, 53.32067, -36.91917, -0.071, 0.70710593, 0.70710593, -0.0011029574, -0.0011029574) /* PCAPRecordedLocation */
+/* @teleloc 0x016C01BD [53.320671 -36.919170 -0.071000] 0.707106 0.707106 -0.001103 -0.001103 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (3196330651,   1, 1342938221) /* Owner */

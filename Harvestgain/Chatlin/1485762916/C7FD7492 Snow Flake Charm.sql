@@ -30,7 +30,7 @@ VALUES (3355276434,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (3355276434,   5,   -0.05) /* ManaRate */
-     , (3355276434,  39, 0.100000001490116) /* DefaultScale */;
+     , (3355276434,  39, 0.10000000149011612) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3355276434,   1, 'Snow Flake Charm') /* Name */

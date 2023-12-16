@@ -22,10 +22,10 @@ VALUES (2153229049,   1, False) /* Stuck */
      , (2153229049,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2153229049,  29, 1.23999996483326) /* WeaponDefense */
+VALUES (2153229049,  29, 1.2399999648332596) /* WeaponDefense */
      , (2153229049,  39,     1.5) /* DefaultScale */
-     , (2153229049, 144, 1.91490565083546E-314) /* ManaConversionMod */
-     , (2153229049, 152, 1.07000000029802) /* ElementalDamageMod */;
+     , (2153229049, 144, 1.914905651E-314) /* ManaConversionMod */
+     , (2153229049, 152, 1.0700000002980232) /* ElementalDamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2153229049,   1, 'Red Anniversary Sparkler') /* Name */
@@ -42,8 +42,8 @@ VALUES (2153229049,   1,   33560119) /* Setup */
      , (2153229049, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (2153229049, 8040, 2847146026, 135.6491, 43.57038, 93.92901, -0.06639346, -0.06639346, -0.7039829, -0.7039829) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B4002A [135.649100 43.570380 93.929010] -0.066393 -0.066393 -0.703983 -0.703983 */;
+VALUES (2153229049, 8040, 2847146026, 135.64914, 43.570377, 93.92901, -0.06639346, -0.06639346, -0.7039829, -0.7039829) /* PCAPRecordedLocation */
+/* @teleloc 0xA9B4002A [135.649139 43.570377 93.929008] -0.066393 -0.066393 -0.703983 -0.703983 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2153229049,   3, 1342181790) /* Wielder */

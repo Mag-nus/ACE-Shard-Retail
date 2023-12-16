@@ -30,8 +30,8 @@ VALUES (3656750337,  13,       1) /* ArmorModVsSlash */
      , (3656750337,  15,       1) /* ArmorModVsBludgeon */
      , (3656750337,  16,     0.5) /* ArmorModVsCold */
      , (3656750337,  17,     0.5) /* ArmorModVsFire */
-     , (3656750337,  18, 0.300000011920929) /* ArmorModVsAcid */
-     , (3656750337,  19, 0.600000023841858) /* ArmorModVsElectric */
+     , (3656750337,  18, 0.30000001192092896) /* ArmorModVsAcid */
+     , (3656750337,  19, 0.6000000238418579) /* ArmorModVsElectric */
      , (3656750337, 165,       1) /* ArmorModVsNether */
      , (3656750337, 8004,       1) /* PCAPRecordedWorkmanship */;
 

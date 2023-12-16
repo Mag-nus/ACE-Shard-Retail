@@ -40,9 +40,9 @@ INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2677368908,  21,       0) /* WeaponLength */
      , (2677368908,  22,       0) /* DamageVariance */
      , (2677368908,  26,    27.3) /* MaximumVelocity */
-     , (2677368908,  29, 1.05999994277954) /* WeaponDefense */
+     , (2677368908,  29, 1.059999942779541) /* WeaponDefense */
      , (2677368908,  62,       1) /* WeaponOffense */
-     , (2677368908,  63, 2.0699999332428) /* DamageMod */
+     , (2677368908,  63, 2.069999933242798) /* DamageMod */
      , (2677368908, 8004,       5) /* PCAPRecordedWorkmanship */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)

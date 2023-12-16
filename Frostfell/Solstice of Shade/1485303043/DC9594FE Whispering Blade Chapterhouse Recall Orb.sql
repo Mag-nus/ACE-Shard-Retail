@@ -34,10 +34,10 @@ VALUES (3700790526,   1, False) /* Stuck */
      , (3700790526,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3700790526,  29, 1.20000000298023) /* WeaponDefense */
-     , (3700790526,  39, 0.600000023841858) /* DefaultScale */
-     , (3700790526, 144, 3.29118014308164E-314) /* ManaConversionMod */
-     , (3700790526, 152, 1.07999999821186) /* ElementalDamageMod */;
+VALUES (3700790526,  29, 1.2000000029802322) /* WeaponDefense */
+     , (3700790526,  39, 0.6000000238418579) /* DefaultScale */
+     , (3700790526, 144, 3.291180143E-314) /* ManaConversionMod */
+     , (3700790526, 152, 1.0799999982118607) /* ElementalDamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3700790526,   1, 'Whispering Blade Chapterhouse Recall Orb') /* Name */
@@ -56,8 +56,8 @@ VALUES (3700790526,   1,   33554669) /* Setup */
      , (3700790526, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (3700790526, 8040, 3332964363, 47.89935, 63.06183, 41.929, -0.6427605, -0.6427605, -0.2947184, -0.2947184) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9000B [47.899350 63.061830 41.929000] -0.642761 -0.642761 -0.294718 -0.294718 */;
+VALUES (3700790526, 8040, 3332964363, 47.89935, 63.06183, 41.929, -0.6427605, -0.6427605, -0.29471838, -0.29471838) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A9000B [47.899349 63.061829 41.929001] -0.642761 -0.642761 -0.294718 -0.294718 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (3700790526,   3, 1343384587) /* Wielder */

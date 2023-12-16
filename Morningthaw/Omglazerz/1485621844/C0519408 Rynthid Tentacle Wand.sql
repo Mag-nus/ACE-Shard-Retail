@@ -36,10 +36,10 @@ VALUES (3226571784,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (3226571784,   5,  -0.033) /* ManaRate */
-     , (3226571784,  29, 1.40000000298023) /* WeaponDefense */
-     , (3226571784, 144, 0.340000009536743) /* ManaConversionMod */
+     , (3226571784,  29, 1.4000000029802322) /* WeaponDefense */
+     , (3226571784, 144, 0.3400000095367432) /* ManaConversionMod */
      , (3226571784, 147,       1) /* CriticalFrequency */
-     , (3226571784, 152, 1.23999999821186) /* ElementalDamageMod */;
+     , (3226571784, 152, 1.2399999982118606) /* ElementalDamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3226571784,   1, 'Rynthid Tentacle Wand') /* Name */

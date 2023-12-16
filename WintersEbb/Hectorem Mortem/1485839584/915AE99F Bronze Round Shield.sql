@@ -24,12 +24,12 @@ VALUES (2438654367,   1, False) /* Stuck */
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2438654367,  13,       1) /* ArmorModVsSlash */
      , (2438654367,  14, 0.800000011920929) /* ArmorModVsPierce */
-     , (2438654367,  15, 1.20000004768372) /* ArmorModVsBludgeon */
-     , (2438654367,  16, 0.600000023841858) /* ArmorModVsCold */
-     , (2438654367,  17, 0.600000023841858) /* ArmorModVsFire */
+     , (2438654367,  15, 1.2000000476837158) /* ArmorModVsBludgeon */
+     , (2438654367,  16, 0.6000000238418579) /* ArmorModVsCold */
+     , (2438654367,  17, 0.6000000238418579) /* ArmorModVsFire */
      , (2438654367,  18,       1) /* ArmorModVsAcid */
-     , (2438654367,  19, 0.600000023841858) /* ArmorModVsElectric */
-     , (2438654367,  39, 1.79999995231628) /* DefaultScale */
+     , (2438654367,  19, 0.6000000238418579) /* ArmorModVsElectric */
+     , (2438654367,  39, 1.7999999523162842) /* DefaultScale */
      , (2438654367, 165,       1) /* ArmorModVsNether */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
@@ -47,8 +47,8 @@ VALUES (2438654367,   1,   33554786) /* Setup */
      , (2438654367, 8009,          3) /* PCAPRecordedParentLocation - Shield */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (2438654367, 8040, 2347893004, 154.7592, 86.25488, 1.897, 0.4628373, -0.3131103, -0.7822696, -0.2753141) /* PCAPRecordedLocation */
-/* @teleloc 0x8BF2010C [154.759200 86.254880 1.897000] 0.462837 -0.313110 -0.782270 -0.275314 */;
+VALUES (2438654367, 8040, 2347893004, 154.75919, 86.25488, 1.8970001, 0.46283728, -0.31311032, -0.7822696, -0.27531412) /* PCAPRecordedLocation */
+/* @teleloc 0x8BF2010C [154.759186 86.254883 1.897000] 0.462837 -0.313110 -0.782270 -0.275314 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2438654367,   3, 1342994008) /* Wielder */

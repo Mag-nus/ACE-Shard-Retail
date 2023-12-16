@@ -47,7 +47,7 @@ VALUES (2881888442,   5,   -0.05) /* ManaRate */
      , (2881888442,  29,       1) /* WeaponDefense */
      , (2881888442,  39,    1.25) /* DefaultScale */
      , (2881888442,  62,       1) /* WeaponOffense */
-     , (2881888442,  63,     2.1) /* DamageMod */
+     , (2881888442,  63, 2.0999999999999996) /* DamageMod */
      , (2881888442, 8004,       2) /* PCAPRecordedWorkmanship */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)

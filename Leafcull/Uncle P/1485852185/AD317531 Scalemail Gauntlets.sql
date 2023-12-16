@@ -26,13 +26,13 @@ VALUES (2905699633,   1, False) /* Stuck */
      , (2905699633, 100, True ) /* Dyable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2905699633,  13, 2.70000004768372) /* ArmorModVsSlash */
+VALUES (2905699633,  13, 2.700000047683716) /* ArmorModVsSlash */
      , (2905699633,  14,       3) /* ArmorModVsPierce */
-     , (2905699633,  15, 2.70000004768372) /* ArmorModVsBludgeon */
-     , (2905699633,  16, 2.10000014305115) /* ArmorModVsCold */
-     , (2905699633,  17, 2.10000014305115) /* ArmorModVsFire */
-     , (2905699633,  18, 2.30000019073486) /* ArmorModVsAcid */
-     , (2905699633,  19, 2.10000014305115) /* ArmorModVsElectric */
+     , (2905699633,  15, 2.700000047683716) /* ArmorModVsBludgeon */
+     , (2905699633,  16, 2.1000001430511475) /* ArmorModVsCold */
+     , (2905699633,  17, 2.1000001430511475) /* ArmorModVsFire */
+     , (2905699633,  18, 2.3000001907348633) /* ArmorModVsAcid */
+     , (2905699633,  19, 2.1000001430511475) /* ArmorModVsElectric */
      , (2905699633, 165,       1) /* ArmorModVsNether */
      , (2905699633, 8004,       3) /* PCAPRecordedWorkmanship */;
 

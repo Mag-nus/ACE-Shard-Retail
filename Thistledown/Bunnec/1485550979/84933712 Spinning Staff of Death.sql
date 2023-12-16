@@ -24,7 +24,7 @@ VALUES (2224240402,   1, False) /* Stuck */
      , (2224240402, 130, True ) /* AutowieldLeft */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2224240402,  39, 0.670000016689301) /* DefaultScale */;
+VALUES (2224240402,  39, 0.6700000166893005) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2224240402,   1, 'Spinning Staff of Death') /* Name */;

@@ -32,9 +32,9 @@ VALUES (2581345472,   1, False) /* Stuck */
      , (2581345472,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2581345472,   5, -0.0500000007450581) /* ManaRate */
+VALUES (2581345472,   5, -0.05000000074505806) /* ManaRate */
      , (2581345472,  29,       1) /* WeaponDefense */
-     , (2581345472, 144, 1.27535411776306E-314) /* ManaConversionMod */;
+     , (2581345472, 144, 1.275354118E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2581345472,   1, 'Buadren') /* Name */

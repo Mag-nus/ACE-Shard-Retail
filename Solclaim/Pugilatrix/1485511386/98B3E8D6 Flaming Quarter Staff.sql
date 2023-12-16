@@ -49,13 +49,13 @@ VALUES (2561927382,   1, False) /* Stuck */
      , (2561927382,  85, True ) /* AppraisalHasAllowedWielder */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2561927382,   5, -0.0555555555555556) /* ManaRate */
+VALUES (2561927382,   5, -0.05555555555555555) /* ManaRate */
      , (2561927382,  21,       0) /* WeaponLength */
-     , (2561927382,  22, 0.131072) /* DamageVariance */
+     , (2561927382,  22, 0.13107200000000005) /* DamageVariance */
      , (2561927382,  26,       0) /* MaximumVelocity */
-     , (2561927382,  29, 1.41000000178814) /* WeaponDefense */
+     , (2561927382,  29, 1.4100000017881393) /* WeaponDefense */
      , (2561927382,  39, 0.800000011920929) /* DefaultScale */
-     , (2561927382,  62, 1.35000000298023) /* WeaponOffense */
+     , (2561927382,  62, 1.3500000029802321) /* WeaponOffense */
      , (2561927382,  63,       1) /* DamageMod */
      , (2561927382, 150,    1.04) /* WeaponMagicDefense */
      , (2561927382, 8004,       9) /* PCAPRecordedWorkmanship */;
@@ -82,8 +82,8 @@ VALUES (2561927382,   1,   33558066) /* Setup */
      , (2561927382, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (2561927382, 8040, 2103705618, 65.27988, 31.19456, 11.929, -0.6449423, -0.6449423, -0.2899128, -0.2899128) /* PCAPRecordedLocation */
-/* @teleloc 0x7D640012 [65.279880 31.194560 11.929000] -0.644942 -0.644942 -0.289913 -0.289913 */;
+VALUES (2561927382, 8040, 2103705618, 65.27988, 31.194565, 11.928999, -0.6449423, -0.6449423, -0.28991282, -0.28991282) /* PCAPRecordedLocation */
+/* @teleloc 0x7D640012 [65.279877 31.194565 11.928999] -0.644942 -0.644942 -0.289913 -0.289913 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2561927382,   3, 1342605192) /* Wielder */

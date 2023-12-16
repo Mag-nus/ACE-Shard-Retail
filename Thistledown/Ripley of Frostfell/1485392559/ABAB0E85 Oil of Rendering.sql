@@ -21,7 +21,7 @@ VALUES (2880114309,   1, False) /* Stuck */
      , (2880114309,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2880114309,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (2880114309,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2880114309,   1, 'Oil of Rendering') /* Name */;

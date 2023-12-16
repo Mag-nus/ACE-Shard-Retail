@@ -38,7 +38,7 @@ VALUES (2156007780,   1, False) /* Stuck */
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2156007780,   5, -0.0416666679084301) /* ManaRate */
      , (2156007780,  29,       1) /* WeaponDefense */
-     , (2156007780, 144, 0.100000001490116) /* ManaConversionMod */
+     , (2156007780, 144, 0.10000000149011612) /* ManaConversionMod */
      , (2156007780, 8004,       4) /* PCAPRecordedWorkmanship */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)

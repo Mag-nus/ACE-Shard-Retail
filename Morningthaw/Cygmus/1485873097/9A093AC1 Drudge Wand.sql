@@ -24,8 +24,8 @@ VALUES (2584296129,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2584296129,  29,       1) /* WeaponDefense */
-     , (2584296129,  39, 1.20000004768372) /* DefaultScale */
-     , (2584296129, 144, 1.27681193601942E-314) /* ManaConversionMod */;
+     , (2584296129,  39, 1.2000000476837158) /* DefaultScale */
+     , (2584296129, 144, 1.276811936E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2584296129,   1, 'Drudge Wand') /* Name */

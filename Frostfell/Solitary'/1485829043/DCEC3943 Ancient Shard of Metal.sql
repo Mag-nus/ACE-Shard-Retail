@@ -18,7 +18,7 @@ VALUES (3706468675,   1, False) /* Stuck */
      , (3706468675,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3706468675,  39, 0.370000004768372) /* DefaultScale */;
+VALUES (3706468675,  39, 0.3700000047683716) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3706468675,   1, 'Ancient Shard of Metal') /* Name */;

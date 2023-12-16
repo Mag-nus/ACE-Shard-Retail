@@ -24,7 +24,7 @@ VALUES (3710537781,   1, False) /* Stuck */
      , (3710537781,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3710537781,  39, 1.10000002384186) /* DefaultScale */;
+VALUES (3710537781,  39, 1.100000023841858) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3710537781,   1, 'Composite Bow with Exquisite Handle') /* Name */;

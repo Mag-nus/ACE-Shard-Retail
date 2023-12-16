@@ -34,14 +34,14 @@ VALUES (3077779714,   1, False) /* Stuck */
      , (3077779714,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3077779714,   5, -0.0333333015441895) /* ManaRate */
-     , (3077779714,  13, 3.09999990463257) /* ArmorModVsSlash */
-     , (3077779714,  14, 2.90000009536743) /* ArmorModVsPierce */
-     , (3077779714,  15, 3.29999995231628) /* ArmorModVsBludgeon */
-     , (3077779714,  16, 2.90000009536743) /* ArmorModVsCold */
-     , (3077779714,  17, 2.90000009536743) /* ArmorModVsFire */
-     , (3077779714,  18, 3.09999990463257) /* ArmorModVsAcid */
-     , (3077779714,  19, 2.90000009536743) /* ArmorModVsElectric */
+VALUES (3077779714,   5, -0.03333330154418945) /* ManaRate */
+     , (3077779714,  13, 3.0999999046325684) /* ArmorModVsSlash */
+     , (3077779714,  14, 2.9000000953674316) /* ArmorModVsPierce */
+     , (3077779714,  15, 3.299999952316284) /* ArmorModVsBludgeon */
+     , (3077779714,  16, 2.9000000953674316) /* ArmorModVsCold */
+     , (3077779714,  17, 2.9000000953674316) /* ArmorModVsFire */
+     , (3077779714,  18, 3.0999999046325684) /* ArmorModVsAcid */
+     , (3077779714,  19, 2.9000000953674316) /* ArmorModVsElectric */
      , (3077779714, 165,       1) /* ArmorModVsNether */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
@@ -61,8 +61,8 @@ VALUES (3077779714,   1,   33559418) /* Setup */
      , (3077779714, 8009,          3) /* PCAPRecordedParentLocation - Shield */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (3077779714, 8040, 2975662117, 97.0182, 104.1746, 41.924, 0.3428979, -0.5585484, -0.6308783, -0.4152557) /* PCAPRecordedLocation */
-/* @teleloc 0xB15D0025 [97.018200 104.174600 41.924000] 0.342898 -0.558548 -0.630878 -0.415256 */;
+VALUES (3077779714, 8040, 2975662117, 97.0182, 104.17459, 41.924004, 0.34289786, -0.5585484, -0.6308783, -0.41525567) /* PCAPRecordedLocation */
+/* @teleloc 0xB15D0025 [97.018204 104.174591 41.924004] 0.342898 -0.558548 -0.630878 -0.415256 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (3077779714,   3, 1343892016) /* Wielder */

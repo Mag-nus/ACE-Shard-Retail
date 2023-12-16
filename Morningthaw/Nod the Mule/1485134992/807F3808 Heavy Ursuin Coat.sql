@@ -29,7 +29,7 @@ VALUES (2155821064,  13,       1) /* ArmorModVsSlash */
      , (2155821064,  16,       2) /* ArmorModVsCold */
      , (2155821064,  17, 0.699999988079071) /* ArmorModVsFire */
      , (2155821064,  18,       1) /* ArmorModVsAcid */
-     , (2155821064,  19, 2.40000009536743) /* ArmorModVsElectric */
+     , (2155821064,  19, 2.4000000953674316) /* ArmorModVsElectric */
      , (2155821064, 165,       1) /* ArmorModVsNether */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)

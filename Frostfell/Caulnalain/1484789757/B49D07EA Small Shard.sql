@@ -24,7 +24,7 @@ VALUES (3030190058,   1, False) /* Stuck */
      , (3030190058,  69, False) /* IsSellable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3030190058,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (3030190058,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3030190058,   1, 'Small Shard') /* Name */

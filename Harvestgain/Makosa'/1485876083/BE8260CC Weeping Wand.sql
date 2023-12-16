@@ -37,9 +37,9 @@ VALUES (3196215500,   1, False) /* Stuck */
      , (3196215500,  99, True ) /* Ivoryable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3196215500,   5, -0.025000000372529) /* ManaRate */
+VALUES (3196215500,   5, -0.02500000037252903) /* ManaRate */
      , (3196215500,  29,       1) /* WeaponDefense */
-     , (3196215500, 144, 0.0179999992251396) /* ManaConversionMod */;
+     , (3196215500, 144, 0.017999999225139618) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3196215500,   1, 'Weeping Wand') /* Name */

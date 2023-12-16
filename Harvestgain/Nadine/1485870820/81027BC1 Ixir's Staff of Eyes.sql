@@ -31,10 +31,10 @@ VALUES (2164423617,   1, False) /* Stuck */
      , (2164423617,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2164423617,   5, -0.0500000007450581) /* ManaRate */
+VALUES (2164423617,   5, -0.05000000074505806) /* ManaRate */
      , (2164423617,  29,       1) /* WeaponDefense */
-     , (2164423617,  39, 0.600000023841858) /* DefaultScale */
-     , (2164423617, 144, 0.100000001490116) /* ManaConversionMod */;
+     , (2164423617,  39, 0.6000000238418579) /* DefaultScale */
+     , (2164423617, 144, 0.10000000149011612) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2164423617,   1, 'Ixir''s Staff of Eyes') /* Name */

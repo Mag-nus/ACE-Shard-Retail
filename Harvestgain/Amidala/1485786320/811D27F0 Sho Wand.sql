@@ -24,7 +24,7 @@ VALUES (2166171632,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2166171632,  29,       1) /* WeaponDefense */
-     , (2166171632, 144, 1.07023098636707E-314) /* ManaConversionMod */;
+     , (2166171632, 144, 1.0702309864E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2166171632,   1, 'Sho Wand') /* Name */;
@@ -41,8 +41,8 @@ VALUES (2166171632,   1,   33555999) /* Setup */
      , (2166171632, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (2166171632, 8040, 3332964380, 77.39826, 95.67075, 41.929, 0.4082765, 0.4082765, -0.5773303, -0.5773303) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001C [77.398260 95.670750 41.929000] 0.408277 0.408277 -0.577330 -0.577330 */;
+VALUES (2166171632, 8040, 3332964380, 77.39826, 95.670746, 41.929, 0.4082765, 0.4082765, -0.5773303, -0.5773303) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A9001C [77.398262 95.670746 41.929001] 0.408276 0.408276 -0.577330 -0.577330 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2166171632,   3, 1342975195) /* Wielder */

@@ -22,7 +22,7 @@ VALUES (3325301372,   1, False) /* Stuck */
      , (3325301372,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3325301372,  39, 1.29999995231628) /* DefaultScale */;
+VALUES (3325301372,  39, 1.2999999523162842) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3325301372,   1, 'Nefane Shield') /* Name */;

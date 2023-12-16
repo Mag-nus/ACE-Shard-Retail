@@ -35,8 +35,8 @@ VALUES (3455188033,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (3455188033,  29,       1) /* WeaponDefense */
-     , (3455188033,  39, 0.600000023841858) /* DefaultScale */
-     , (3455188033, 144, 1.70708970702709E-314) /* ManaConversionMod */;
+     , (3455188033,  39, 0.6000000238418579) /* DefaultScale */
+     , (3455188033, 144, 1.707089707E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3455188033,   1, 'Rossu Morta Chapterhouse Recall Orb') /* Name */

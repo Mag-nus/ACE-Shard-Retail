@@ -29,7 +29,7 @@ VALUES (3710970574,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (3710970574,   5,  -0.033) /* ManaRate */
-     , (3710970574,  39, 0.370000004768372) /* DefaultScale */;
+     , (3710970574,  39, 0.3700000047683716) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3710970574,   1, 'Protective Drudge Charm') /* Name */

@@ -26,7 +26,7 @@ VALUES (3231193254,   1, False) /* Stuck */
      , (3231193254,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3231193254, 8004, 6.94736862182617) /* PCAPRecordedWorkmanship */;
+VALUES (3231193254, 8004, 6.947368621826172) /* PCAPRecordedWorkmanship */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3231193254,   1, 'Salvaged Reedshark Hide (100)') /* Name */;

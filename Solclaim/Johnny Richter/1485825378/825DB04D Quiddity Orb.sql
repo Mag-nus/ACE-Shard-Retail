@@ -37,7 +37,7 @@ INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2187178061,   5,   -0.05) /* ManaRate */
      , (2187178061,  29,       1) /* WeaponDefense */
      , (2187178061,  76,     0.5) /* Translucency */
-     , (2187178061, 144, 1.08060954127777E-314) /* ManaConversionMod */;
+     , (2187178061, 144, 1.0806095413E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2187178061,   1, 'Quiddity Orb') /* Name */

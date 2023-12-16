@@ -21,7 +21,7 @@ VALUES (3222712833,   1, False) /* Stuck */
      , (3222712833,  19, True ) /* Attackable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3222712833,  39, 0.300000011920929) /* DefaultScale */;
+VALUES (3222712833,  39, 0.30000001192092896) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3222712833,   1, 'Strange Stick') /* Name */;

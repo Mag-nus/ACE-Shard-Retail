@@ -29,7 +29,7 @@ VALUES (2210356985,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2210356985,   5, -0.0333333) /* ManaRate */
-     , (2210356985,  39, 0.670000016689301) /* DefaultScale */;
+     , (2210356985,  39, 0.6700000166893005) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2210356985,   1, 'Bracelet of Coordination') /* Name */

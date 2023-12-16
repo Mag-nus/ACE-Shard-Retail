@@ -29,11 +29,11 @@ VALUES (2148242918,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2148242918,   5,   -0.05) /* ManaRate */
-     , (2148242918,  29, 1.20000000298023) /* WeaponDefense */
+     , (2148242918,  29, 1.2000000029802322) /* WeaponDefense */
      , (2148242918,  76,     0.5) /* Translucency */
-     , (2148242918, 144, 1.91047139387768E-314) /* ManaConversionMod */
+     , (2148242918, 144, 1.910471394E-314) /* ManaConversionMod */
      , (2148242918, 147,       1) /* CriticalFrequency */
-     , (2148242918, 152, 1.07999999821186) /* ElementalDamageMod */;
+     , (2148242918, 152, 1.0799999982118607) /* ElementalDamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2148242918,   1, 'Fenmalain Crystal Orb') /* Name */
@@ -51,8 +51,8 @@ VALUES (2148242918,   1,   33556767) /* Setup */
      , (2148242918, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (2148242918, 8040, 4095213581, 34.72919, 96.63048, 159.929, 0.7071062, 0.7071062, -0.000859837, -0.000859837) /* PCAPRecordedLocation */
-/* @teleloc 0xF418000D [34.729190 96.630480 159.929000] 0.707106 0.707106 -0.000860 -0.000860 */;
+VALUES (2148242918, 8040, 4095213581, 34.729195, 96.63048, 159.92899, 0.70710623, 0.70710623, -0.00085983705, -0.00085983705) /* PCAPRecordedLocation */
+/* @teleloc 0xF418000D [34.729195 96.630478 159.928986] 0.707106 0.707106 -0.000860 -0.000860 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2148242918,   1, 1343177209) /* Owner */

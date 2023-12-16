@@ -32,14 +32,14 @@ VALUES (2240725187,   1, False) /* Stuck */
      , (2240725187,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2240725187,   5, -0.0333333350718021) /* ManaRate */
+VALUES (2240725187,   5, -0.03333333507180214) /* ManaRate */
      , (2240725187,  13,       1) /* ArmorModVsSlash */
      , (2240725187,  14, 0.800000011920929) /* ArmorModVsPierce */
-     , (2240725187,  15, 1.20000004768372) /* ArmorModVsBludgeon */
-     , (2240725187,  16, 0.600000023841858) /* ArmorModVsCold */
-     , (2240725187,  17, 0.600000023841858) /* ArmorModVsFire */
+     , (2240725187,  15, 1.2000000476837158) /* ArmorModVsBludgeon */
+     , (2240725187,  16, 0.6000000238418579) /* ArmorModVsCold */
+     , (2240725187,  17, 0.6000000238418579) /* ArmorModVsFire */
      , (2240725187,  18,       1) /* ArmorModVsAcid */
-     , (2240725187,  19, 0.600000023841858) /* ArmorModVsElectric */
+     , (2240725187,  19, 0.6000000238418579) /* ArmorModVsElectric */
      , (2240725187, 165,       1) /* ArmorModVsNether */
      , (2240725187, 8004,       4) /* PCAPRecordedWorkmanship */;
 
@@ -61,8 +61,8 @@ VALUES (2240725187,   1,   33554785) /* Setup */
      , (2240725187, 8009,          3) /* PCAPRecordedParentLocation - Shield */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (2240725187, 8040, 3332964355, 9.400739, 71.61694, 41.926, -0.08421069, -0.8426048, 0.0009505054, -0.5319067) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A90003 [9.400739 71.616940 41.926000] -0.084211 -0.842605 0.000951 -0.531907 */;
+VALUES (2240725187, 8040, 3332964355, 9.400739, 71.61694, 41.926003, -0.08421069, -0.8426048, 0.00095050543, -0.5319067) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A90003 [9.400739 71.616943 41.926003] -0.084211 -0.842605 0.000951 -0.531907 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2240725187,   3, 1343690013) /* Wielder */

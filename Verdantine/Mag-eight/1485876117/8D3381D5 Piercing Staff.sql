@@ -25,7 +25,7 @@ VALUES (2368963029,   1, False) /* Stuck */
      , (2368963029,  91, True ) /* Retained */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2368963029,  39, 0.600000023841858) /* DefaultScale */
+VALUES (2368963029,  39, 0.6000000238418579) /* DefaultScale */
      , (2368963029, 8004,       8) /* PCAPRecordedWorkmanship */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)

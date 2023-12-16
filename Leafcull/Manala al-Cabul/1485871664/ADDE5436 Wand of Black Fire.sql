@@ -28,10 +28,10 @@ VALUES (2917028918,   1, False) /* Stuck */
      , (2917028918,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2917028918,   5, -0.025000000372529) /* ManaRate */
+VALUES (2917028918,   5, -0.02500000037252903) /* ManaRate */
      , (2917028918,  29,       1) /* WeaponDefense */
      , (2917028918,  39, 0.800000011920929) /* DefaultScale */
-     , (2917028918, 144, 0.0299999993294477) /* ManaConversionMod */;
+     , (2917028918, 144, 0.029999999329447746) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2917028918,   1, 'Wand of Black Fire') /* Name */

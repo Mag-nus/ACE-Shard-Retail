@@ -32,9 +32,9 @@ VALUES (2473392661,   1, False) /* Stuck */
      , (2473392661,  94, True ) /* AppraisalHasAllowedActivator */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2473392661,   5, -0.0333999991416931) /* ManaRate */
-     , (2473392661,  29, 1.0900000333786) /* WeaponDefense */
-     , (2473392661, 144, 0.0599999986588955) /* ManaConversionMod */
+VALUES (2473392661,   5, -0.033399999141693115) /* ManaRate */
+     , (2473392661,  29, 1.090000033378601) /* WeaponDefense */
+     , (2473392661, 144, 0.05999999865889549) /* ManaConversionMod */
      , (2473392661, 147,       1) /* CriticalFrequency */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)

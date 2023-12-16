@@ -23,7 +23,7 @@ VALUES (2765113845,   1, False) /* Stuck */
      , (2765113845,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2765113845,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (2765113845,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2765113845,   1, 'Drudge Wand') /* Name */;
@@ -39,8 +39,8 @@ VALUES (2765113845,   1,   33557369) /* Setup */
      , (2765113845, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (2765113845, 8040, 3457679423, 191.0762, 154.3631, -0.171, -0.5471652, -0.5471652, -0.4478953, -0.4478953) /* PCAPRecordedLocation */
-/* @teleloc 0xCE18003F [191.076200 154.363100 -0.171000] -0.547165 -0.547165 -0.447895 -0.447895 */;
+VALUES (2765113845, 8040, 3457679423, 191.07622, 154.3631, -0.17100003, -0.5471652, -0.5471652, -0.44789532, -0.44789532) /* PCAPRecordedLocation */
+/* @teleloc 0xCE18003F [191.076218 154.363098 -0.171000] -0.547165 -0.547165 -0.447895 -0.447895 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2765113845,   1, 1342251187) /* Owner */

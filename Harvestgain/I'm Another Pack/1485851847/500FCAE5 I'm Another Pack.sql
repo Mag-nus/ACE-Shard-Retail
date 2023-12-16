@@ -99,7 +99,7 @@ VALUES (1343212261,   1, True ) /* Stuck */
      , (1343212261, 127, True ) /* Account15Days */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343212261,  39, 1.29999995231628) /* DefaultScale */
+VALUES (1343212261,  39, 1.2999999523162842) /* DefaultScale */
      , (1343212261, 125,       1) /* ResistHealthDrain */
      , (1343212261, 163,       1) /* GlobalXpMod */
      , (1343212261, 168,       0) /* WeaponAuraOffense */
@@ -125,10 +125,10 @@ VALUES (1343212261,   1,   33561112) /* Setup */
      , (1343212261, 8005,     104579) /* PCAPRecordedPhysicsDesc - CSetup, MTable, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343212261, 1, 23855555, 63.76287, -43.83899, 0.5189961, 0.4127723, 0, 0, -0.9108343) /* Location */
-/* @teleloc 0x016C01C3 [63.762870 -43.838990 0.518996] 0.412772 0.000000 0.000000 -0.910834 */
-     , (1343212261, 8040, 23855555, 64.49515, -44.49617, 0.006500006, 0.407485, 0, 0, -0.9132119) /* PCAPRecordedLocation */
-/* @teleloc 0x016C01C3 [64.495150 -44.496170 0.006500] 0.407485 0.000000 0.000000 -0.913212 */;
+VALUES (1343212261, 1, 23855555, 63.762875, -43.838993, 0.5189961, 0.41277233, 0, 0, -0.91083425) /* Location */
+/* @teleloc 0x016C01C3 [63.762875 -43.838993 0.518996] 0.412772 0.000000 0.000000 -0.910834 */
+     , (1343212261, 8040, 23855555, 64.49515, -44.49617, 0.0065000057, 0.40748498, 0, 0, -0.91321194) /* PCAPRecordedLocation */
+/* @teleloc 0x016C01C3 [64.495148 -44.496170 0.006500] 0.407485 0.000000 0.000000 -0.913212 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343212261, 8000, 1343212261) /* PCAPRecordedObjectIID */;
@@ -257,4 +257,4 @@ VALUES (1343212261, 0, 16796328, 20)
      , (1343212261, 33, 16777708, 19);
 
 INSERT INTO `biota_properties_enchantment_registry` (`object_Id`, `enchantment_Category`, `spell_Id`, `layer_Id`, `has_Spell_Set_Id`, `spell_Category`, `power_Level`, `start_Time`, `duration`, `caster_Object_Id`, `degrade_Modifier`, `degrade_Limit`, `last_Time_Degraded`, `stat_Mod_Type`, `stat_Mod_Key`, `stat_Mod_Value`, `spell_Set_Id`)
-VALUES (1343212261, 0, 2086, 1, True, 1, 300, -5011.02669727802, 7200, 1342997625, 0, -666, -435499639.439805, 33591297, 1, 40, 0);
+VALUES (1343212261, 0, 2086, 1, True, 1, 300, -5011.026697278023, 7200, 1342997625, 0, -666, -435499639.4398048, 33591297, 1, 40, 0);

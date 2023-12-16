@@ -32,7 +32,7 @@ VALUES (2438513848,   1, False) /* Stuck */
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2438513848,   5, -0.03333) /* ManaRate */
      , (2438513848,  29,       1) /* WeaponDefense */
-     , (2438513848, 144, 1.20478591920494E-314) /* ManaConversionMod */;
+     , (2438513848, 144, 1.204785919E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2438513848,   1, 'Academy Wand') /* Name */

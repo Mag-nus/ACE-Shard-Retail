@@ -60,15 +60,15 @@ VALUES (2148384326,   1, False) /* Stuck */
      , (2148384326,  99, False) /* Ivoryable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2148384326,   5, -0.0666666701436043) /* ManaRate */
+VALUES (2148384326,   5, -0.06666667014360428) /* ManaRate */
      , (2148384326,  21,       0) /* WeaponLength */
      , (2148384326,  22,       0) /* DamageVariance */
      , (2148384326,  26,    27.3) /* MaximumVelocity */
-     , (2148384326,  29, 1.07999992370605) /* WeaponDefense */
+     , (2148384326,  29, 1.0799999237060547) /* WeaponDefense */
      , (2148384326,  39,    1.25) /* DefaultScale */
-     , (2148384326,  62, 1.03999996185303) /* WeaponOffense */
-     , (2148384326,  63, 3.02999997138977) /* DamageMod */
-     , (2148384326, 150,    1.04) /* WeaponMagicDefense */
+     , (2148384326,  62, 1.0399999618530273) /* WeaponOffense */
+     , (2148384326,  63, 3.0299999713897705) /* DamageMod */
+     , (2148384326, 150, 1.0399999999999998) /* WeaponMagicDefense */
      , (2148384326, 159,       1) /* AbsorbMagicDamage */
      , (2148384326, 8004,       8) /* PCAPRecordedWorkmanship */;
 
@@ -101,8 +101,8 @@ VALUES (2148384326,   1,   33560184) /* Setup */
      , (2148384326, 8009,          2) /* PCAPRecordedParentLocation - LeftHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (2148384326, 8040, 2749825061, 119.5389, 116.569, 54.2141, -0.8465846, 0, 0, -0.5322542) /* PCAPRecordedLocation */
-/* @teleloc 0xA3E70025 [119.538900 116.569000 54.214100] -0.846585 0.000000 0.000000 -0.532254 */;
+VALUES (2148384326, 8040, 2749825061, 119.538895, 116.569046, 54.214104, -0.84658456, 0, -0, -0.5322542) /* PCAPRecordedLocation */
+/* @teleloc 0xA3E70025 [119.538895 116.569046 54.214104] -0.846585 0.000000 -0.000000 -0.532254 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2148384326,   1, 1343881940) /* Owner */

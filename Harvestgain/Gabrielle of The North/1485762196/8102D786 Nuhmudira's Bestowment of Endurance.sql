@@ -32,8 +32,8 @@ VALUES (2164447110,   1, False) /* Stuck */
      , (2164447110,  94, True ) /* AppraisalHasAllowedActivator */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2164447110,   5, -0.0329999998211861) /* ManaRate */
-     , (2164447110,  39, 0.670000016689301) /* DefaultScale */;
+VALUES (2164447110,   5, -0.032999999821186066) /* ManaRate */
+     , (2164447110,  39, 0.6700000166893005) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2164447110,   1, 'Nuhmudira''s Bestowment of Endurance') /* Name */

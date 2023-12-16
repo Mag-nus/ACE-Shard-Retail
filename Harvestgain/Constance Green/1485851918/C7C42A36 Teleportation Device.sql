@@ -24,7 +24,7 @@ VALUES (3351521846,   1, False) /* Stuck */
      , (3351521846,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3351521846,  39, 0.600000023841858) /* DefaultScale */;
+VALUES (3351521846,  39, 0.6000000238418579) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3351521846,   1, 'Teleportation Device') /* Name */;

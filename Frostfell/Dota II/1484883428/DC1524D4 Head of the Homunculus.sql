@@ -34,9 +34,9 @@ VALUES (3692373204,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (3692373204,   5, -0.0333) /* ManaRate */
-     , (3692373204,  29, 1.17000000178814) /* WeaponDefense */
-     , (3692373204, 144, 0.204000005722046) /* ManaConversionMod */
-     , (3692373204, 152, 1.07000000029802) /* ElementalDamageMod */;
+     , (3692373204,  29, 1.1700000017881393) /* WeaponDefense */
+     , (3692373204, 144, 0.20400000572204588) /* ManaConversionMod */
+     , (3692373204, 152, 1.0700000002980232) /* ElementalDamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3692373204,   1, 'Head of the Homunculus') /* Name */
@@ -54,8 +54,8 @@ VALUES (3692373204,   1,   33558746) /* Setup */
      , (3692373204, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (3692373204, 8040, 2241527852, 127.9401, 89.89038, 113.9305, -0.3747041, -0.3747041, -0.5996639, -0.5996639) /* PCAPRecordedLocation */
-/* @teleloc 0x859B002C [127.940100 89.890380 113.930500] -0.374704 -0.374704 -0.599664 -0.599664 */;
+VALUES (3692373204, 8040, 2241527852, 127.94015, 89.89038, 113.930504, -0.37470412, -0.37470412, -0.5996639, -0.5996639) /* PCAPRecordedLocation */
+/* @teleloc 0x859B002C [127.940147 89.890381 113.930504] -0.374704 -0.374704 -0.599664 -0.599664 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (3692373204,   3, 1343492795) /* Wielder */

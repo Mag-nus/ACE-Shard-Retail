@@ -17,7 +17,7 @@ VALUES (2248228635,   1, False) /* Stuck */
      , (2248228635,  19, True ) /* Attackable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2248228635,  39, 1.22000002861023) /* DefaultScale */;
+VALUES (2248228635,  39, 1.2200000286102295) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2248228635,   1, 'A Book of Quests for Young Explorers') /* Name */;

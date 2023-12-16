@@ -3,12 +3,12 @@ VALUES (2580017169, 9193, 38, 6476097) /* Gem */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (2580017169,   1,       2048) /* ItemType - Gem */
-     , (2580017169,   5,        250) /* EncumbranceVal */
+     , (2580017169,   5,        220) /* EncumbranceVal */
      , (2580017169,  11,         25) /* MaxStackSize */
-     , (2580017169,  12,         25) /* StackSize */
+     , (2580017169,  12,         22) /* StackSize */
      , (2580017169,  16,          8) /* ItemUseable - Contained */
      , (2580017169,  18,          1) /* UiEffects - Magical */
-     , (2580017169,  19,      25000) /* Value */
+     , (2580017169,  19,      22000) /* Value */
      , (2580017169,  65,        101) /* Placement - Resting */
      , (2580017169,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2580017169,  94,         16) /* TargetType - Creature */
@@ -22,7 +22,7 @@ VALUES (2580017169,   1, False) /* Stuck */
      , (2580017169,  19, True ) /* Attackable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2580017169,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (2580017169,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2580017169,   1, 'Gem of Stillness') /* Name */

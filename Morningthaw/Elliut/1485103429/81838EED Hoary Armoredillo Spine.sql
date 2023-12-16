@@ -22,7 +22,7 @@ VALUES (2172882669,   1, False) /* Stuck */
      , (2172882669,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2172882669,  39, 0.400000005960464) /* DefaultScale */;
+VALUES (2172882669,  39, 0.4000000059604645) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2172882669,   1, 'Hoary Armoredillo Spine') /* Name */;

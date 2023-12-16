@@ -29,7 +29,7 @@ VALUES (2153711798,   1, False) /* Stuck */
      , (2153711798,  69, False) /* IsSellable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2153711798,   5, -0.034000001847744) /* ManaRate */;
+VALUES (2153711798,   5, -0.03400000184774399) /* ManaRate */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2153711798,   1, 'Ring of Intellect') /* Name */

@@ -25,7 +25,7 @@ VALUES (3621812953,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (3621812953,  39, 0.699999988079071) /* DefaultScale */
-     , (3621812953,  76, 0.200000002980232) /* Translucency */;
+     , (3621812953,  76, 0.20000000298023224) /* Translucency */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3621812953,   1, 'Focusing Stone') /* Name */;
@@ -43,8 +43,8 @@ VALUES (3621812953,   1,   33556976) /* Setup */
      , (3621812953, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (3621812953, 8040, 3183083582, 175.2233, 143.844, 389.7507, -0.2055093, -0.2055093, 0.676584, 0.676584) /* PCAPRecordedLocation */
-/* @teleloc 0xBDBA003E [175.223300 143.844000 389.750700] -0.205509 -0.205509 0.676584 0.676584 */;
+VALUES (3621812953, 8040, 3183083582, 175.22328, 143.84396, 389.75067, -0.20550935, -0.20550935, 0.676584, 0.676584) /* PCAPRecordedLocation */
+/* @teleloc 0xBDBA003E [175.223282 143.843964 389.750671] -0.205509 -0.205509 0.676584 0.676584 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (3621812953,   3, 1343670165) /* Wielder */

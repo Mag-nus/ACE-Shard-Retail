@@ -34,10 +34,10 @@ VALUES (3710970770,   1, False) /* Stuck */
      , (3710970770,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3710970770,  29, 1.22000002861023) /* WeaponDefense */
+VALUES (3710970770,  29, 1.2200000286102295) /* WeaponDefense */
      , (3710970770,  39,     1.5) /* DefaultScale */
-     , (3710970770, 144, 0.100000001490116) /* ManaConversionMod */
-     , (3710970770, 152, 1.03999996185303) /* ElementalDamageMod */
+     , (3710970770, 144, 0.10000000149011612) /* ManaConversionMod */
+     , (3710970770, 152, 1.0399999618530273) /* ElementalDamageMod */
      , (3710970770, 8004,       6) /* PCAPRecordedWorkmanship */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
@@ -62,8 +62,8 @@ VALUES (3710970770,   1,   33559698) /* Setup */
      , (3710970770, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (3710970770, 8040, 23855431, 10.83617, -15.31475, -0.071, -0.120184, -0.120184, -0.6968184, -0.6968184) /* PCAPRecordedLocation */
-/* @teleloc 0x016C0147 [10.836170 -15.314750 -0.071000] -0.120184 -0.120184 -0.696818 -0.696818 */;
+VALUES (3710970770, 8040, 23855431, 10.83617, -15.314754, -0.071, -0.120184, -0.120184, -0.69681835, -0.69681835) /* PCAPRecordedLocation */
+/* @teleloc 0x016C0147 [10.836170 -15.314754 -0.071000] -0.120184 -0.120184 -0.696818 -0.696818 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (3710970770,   3, 1343287005) /* Wielder */

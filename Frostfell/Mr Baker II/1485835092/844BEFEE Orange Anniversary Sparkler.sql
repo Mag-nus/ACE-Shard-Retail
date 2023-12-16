@@ -24,7 +24,7 @@ VALUES (2219569134,   1, False) /* Stuck */
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2219569134,  29,       1) /* WeaponDefense */
      , (2219569134,  39,     1.5) /* DefaultScale */
-     , (2219569134, 144, 1.09661285767901E-314) /* ManaConversionMod */;
+     , (2219569134, 144, 1.0966128577E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2219569134,   1, 'Orange Anniversary Sparkler') /* Name */

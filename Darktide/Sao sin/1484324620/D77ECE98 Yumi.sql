@@ -45,7 +45,7 @@ VALUES (3615411864,   5,  -0.025) /* ManaRate */
      , (3615411864,  22,       0) /* DamageVariance */
      , (3615411864,  26,    27.3) /* MaximumVelocity */
      , (3615411864,  29,    1.05) /* WeaponDefense */
-     , (3615411864,  39, 1.10000002384186) /* DefaultScale */
+     , (3615411864,  39, 1.100000023841858) /* DefaultScale */
      , (3615411864,  62,       1) /* WeaponOffense */
      , (3615411864,  63,     1.5) /* DamageMod */
      , (3615411864, 8004,       4) /* PCAPRecordedWorkmanship */;

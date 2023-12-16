@@ -33,10 +33,10 @@ VALUES (2340834230,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2340834230,   5, -0.0334) /* ManaRate */
-     , (2340834230,  29, 1.30000000298023) /* WeaponDefense */
-     , (2340834230, 144, 0.215999994277954) /* ManaConversionMod */
+     , (2340834230,  29, 1.3000000029802323) /* WeaponDefense */
+     , (2340834230, 144, 0.2159999942779541) /* ManaConversionMod */
      , (2340834230, 147,       1) /* CriticalFrequency */
-     , (2340834230, 152, 1.07999999821186) /* ElementalDamageMod */;
+     , (2340834230, 152, 1.0799999982118607) /* ElementalDamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2340834230,   1, 'Regal Sceptre') /* Name */

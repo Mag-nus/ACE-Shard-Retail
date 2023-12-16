@@ -30,12 +30,12 @@ VALUES (2273394408,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2273394408,   5,  -0.025) /* ManaRate */
-     , (2273394408,  13, 1.29999995231628) /* ArmorModVsSlash */
-     , (2273394408,  14, 1.20000004768372) /* ArmorModVsPierce */
-     , (2273394408,  15, 1.29999995231628) /* ArmorModVsBludgeon */
-     , (2273394408,  16, 1.20000004768372) /* ArmorModVsCold */
-     , (2273394408,  17, 1.29999995231628) /* ArmorModVsFire */
-     , (2273394408,  18, 1.20000004768372) /* ArmorModVsAcid */
+     , (2273394408,  13, 1.2999999523162842) /* ArmorModVsSlash */
+     , (2273394408,  14, 1.2000000476837158) /* ArmorModVsPierce */
+     , (2273394408,  15, 1.2999999523162842) /* ArmorModVsBludgeon */
+     , (2273394408,  16, 1.2000000476837158) /* ArmorModVsCold */
+     , (2273394408,  17, 1.2999999523162842) /* ArmorModVsFire */
+     , (2273394408,  18, 1.2000000476837158) /* ArmorModVsAcid */
      , (2273394408,  19,       1) /* ArmorModVsElectric */
      , (2273394408, 165,       1) /* ArmorModVsNether */;
 
@@ -54,8 +54,8 @@ VALUES (2273394408,   1,   33559252) /* Setup */
      , (2273394408, 8009,          3) /* PCAPRecordedParentLocation - Shield */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (2273394408, 8040, 2323578907, 83.85143, 61.77624, 62.90815, -0.3666173, -0.6987789, 0.4708416, -0.3944717) /* PCAPRecordedLocation */
-/* @teleloc 0x8A7F001B [83.851430 61.776240 62.908150] -0.366617 -0.698779 0.470842 -0.394472 */;
+VALUES (2273394408, 8040, 2323578907, 83.85143, 61.776237, 62.908146, -0.3666173, -0.6987789, 0.4708416, -0.39447173) /* PCAPRecordedLocation */
+/* @teleloc 0x8A7F001B [83.851433 61.776237 62.908146] -0.366617 -0.698779 0.470842 -0.394472 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2273394408,   3, 1342873741) /* Wielder */

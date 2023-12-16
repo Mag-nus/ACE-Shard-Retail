@@ -34,10 +34,10 @@ VALUES (2966355142,   1, False) /* Stuck */
      , (2966355142,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2966355142,  29, 1.17000000178814) /* WeaponDefense */
-     , (2966355142,  39, 0.600000023841858) /* DefaultScale */
-     , (2966355142, 144, 2.49147615730514E-314) /* ManaConversionMod */
-     , (2966355142, 152, 1.07000000029802) /* ElementalDamageMod */;
+VALUES (2966355142,  29, 1.1700000017881393) /* WeaponDefense */
+     , (2966355142,  39, 0.6000000238418579) /* DefaultScale */
+     , (2966355142, 144, 2.4914761573E-314) /* ManaConversionMod */
+     , (2966355142, 152, 1.0700000002980232) /* ElementalDamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2966355142,   1, 'Whispering Blade Chapterhouse Recall Orb') /* Name */

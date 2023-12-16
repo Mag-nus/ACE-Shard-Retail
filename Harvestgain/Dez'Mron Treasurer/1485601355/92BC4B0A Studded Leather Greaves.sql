@@ -37,15 +37,15 @@ VALUES (2461813514,   1, False) /* Stuck */
      , (2461813514, 100, True ) /* Dyable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2461813514,   5, -0.0666666666666667) /* ManaRate */
-     , (2461813514,  13, 1.20000004768372) /* ArmorModVsSlash */
-     , (2461813514,  14, 1.10000002384186) /* ArmorModVsPierce */
+VALUES (2461813514,   5, -0.06666666666666667) /* ManaRate */
+     , (2461813514,  13, 1.2000000476837158) /* ArmorModVsSlash */
+     , (2461813514,  14, 1.100000023841858) /* ArmorModVsPierce */
      , (2461813514,  15,       1) /* ArmorModVsBludgeon */
-     , (2461813514,  16, 0.400000005960464) /* ArmorModVsCold */
-     , (2461813514,  17, 1.53525519371033) /* ArmorModVsFire */
-     , (2461813514,  18, 0.741637766361237) /* ArmorModVsAcid */
-     , (2461813514,  19, 0.665656924247742) /* ArmorModVsElectric */
-     , (2461813514,  39, 1.33000004291534) /* DefaultScale */
+     , (2461813514,  16, 0.4000000059604645) /* ArmorModVsCold */
+     , (2461813514,  17, 1.5352551937103271) /* ArmorModVsFire */
+     , (2461813514,  18, 0.7416377663612366) /* ArmorModVsAcid */
+     , (2461813514,  19, 0.6656569242477417) /* ArmorModVsElectric */
+     , (2461813514,  39, 1.3300000429153442) /* DefaultScale */
      , (2461813514, 165,       1) /* ArmorModVsNether */
      , (2461813514, 8004,       5) /* PCAPRecordedWorkmanship */;
 

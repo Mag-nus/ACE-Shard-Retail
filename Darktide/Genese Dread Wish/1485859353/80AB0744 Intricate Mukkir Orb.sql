@@ -27,9 +27,9 @@ VALUES (2158692164,   1, False) /* Stuck */
      , (2158692164,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2158692164,   5, -0.0500000007450581) /* ManaRate */
+VALUES (2158692164,   5, -0.05000000074505806) /* ManaRate */
      , (2158692164,  29,       1) /* WeaponDefense */
-     , (2158692164, 144, 1.0665356381791E-314) /* ManaConversionMod */;
+     , (2158692164, 144, 1.066535638E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2158692164,   1, 'Intricate Mukkir Orb') /* Name */
@@ -48,8 +48,8 @@ VALUES (2158692164,   1,   33559761) /* Setup */
      , (2158692164, 8009,          1) /* PCAPRecordedParentLocation - RightHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (2158692164, 8040, 2749825341, 105.5092, 36.74007, 61.93, -0.6741579, -0.6741579, -0.2133335, -0.2133335) /* PCAPRecordedLocation */
-/* @teleloc 0xA3E7013D [105.509200 36.740070 61.930000] -0.674158 -0.674158 -0.213334 -0.213334 */;
+VALUES (2158692164, 8040, 2749825341, 105.50916, 36.74007, 61.93, -0.67415786, -0.67415786, -0.21333353, -0.21333353) /* PCAPRecordedLocation */
+/* @teleloc 0xA3E7013D [105.509163 36.740070 61.930000] -0.674158 -0.674158 -0.213334 -0.213334 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2158692164,   3, 1343881666) /* Wielder */

@@ -19,7 +19,7 @@ VALUES (3632723482,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (3632723482,  39,       2) /* DefaultScale */
-     , (3632723482,  76, 0.300000011920929) /* Translucency */;
+     , (3632723482,  76, 0.30000001192092896) /* Translucency */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3632723482,   1, 'Runic Skull') /* Name */;

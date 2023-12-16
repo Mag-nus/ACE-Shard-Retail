@@ -24,7 +24,7 @@ VALUES (3623699269,   1, False) /* Stuck */
      , (3623699269,  69, False) /* IsSellable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3623699269,  39, 0.300000011920929) /* DefaultScale */
+VALUES (3623699269,  39, 0.30000001192092896) /* DefaultScale */
      , (3623699269,  54,       1) /* UseRadius */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)

@@ -40,7 +40,7 @@ VALUES (3708942933,  21,       0) /* WeaponLength */
      , (3708942933,  22,    0.75) /* DamageVariance */
      , (3708942933,  26,       0) /* MaximumVelocity */
      , (3708942933,  29,       1) /* WeaponDefense */
-     , (3708942933,  62, 1.10000002384186) /* WeaponOffense */
+     , (3708942933,  62, 1.100000023841858) /* WeaponOffense */
      , (3708942933,  63,       1) /* DamageMod */
      , (3708942933,  76, 0.699999988079071) /* Translucency */;
 

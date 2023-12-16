@@ -42,7 +42,7 @@ VALUES (2881822007,   1, False) /* Stuck */
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2881822007,   5, -0.0416666679084301) /* ManaRate */
      , (2881822007,  21,       0) /* WeaponLength */
-     , (2881822007,  22, 0.587497115135193) /* DamageVariance */
+     , (2881822007,  22, 0.5874971151351929) /* DamageVariance */
      , (2881822007,  26,       0) /* MaximumVelocity */
      , (2881822007,  29,       1) /* WeaponDefense */
      , (2881822007,  62,       1) /* WeaponOffense */

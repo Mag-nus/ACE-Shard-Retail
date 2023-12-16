@@ -24,7 +24,7 @@ VALUES (2930181547,   1, False) /* Stuck */
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2930181547,  29,       1) /* WeaponDefense */
      , (2930181547,  39,     1.5) /* DefaultScale */
-     , (2930181547, 144, 1.44770203845066E-314) /* ManaConversionMod */;
+     , (2930181547, 144, 1.4477020385E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2930181547,   1, 'Blue Anniversary Sparkler') /* Name */
@@ -42,7 +42,7 @@ VALUES (2930181547,   1,   33560115) /* Setup */
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (2930181547, 8040, 2847146009, 84.02469, 7.096089, 93.92901, 0.704927, 0.704927, -0.05547896, -0.05547896) /* PCAPRecordedLocation */
-/* @teleloc 0xA9B40019 [84.024690 7.096089 93.929010] 0.704927 0.704927 -0.055479 -0.055479 */;
+/* @teleloc 0xA9B40019 [84.024689 7.096089 93.929008] 0.704927 0.704927 -0.055479 -0.055479 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2930181547,   3, 1343103920) /* Wielder */

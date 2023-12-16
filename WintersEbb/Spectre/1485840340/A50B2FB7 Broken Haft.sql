@@ -21,7 +21,7 @@ VALUES (2768973751,   1, False) /* Stuck */
      , (2768973751,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2768973751,  39, 1.20000004768372) /* DefaultScale */;
+VALUES (2768973751,  39, 1.2000000476837158) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2768973751,   1, 'Broken Haft') /* Name */;

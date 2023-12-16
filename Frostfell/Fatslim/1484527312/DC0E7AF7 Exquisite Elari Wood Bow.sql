@@ -24,7 +24,7 @@ VALUES (3691936503,   1, False) /* Stuck */
      , (3691936503,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3691936503,  39, 1.10000002384186) /* DefaultScale */;
+VALUES (3691936503,  39, 1.100000023841858) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3691936503,   1, 'Exquisite Elari Wood Bow') /* Name */;
@@ -40,8 +40,8 @@ VALUES (3691936503,   1,   33557228) /* Setup */
      , (3691936503, 8009,          2) /* PCAPRecordedParentLocation - LeftHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (3691936503, 8040, 2444754987, 143.1049, 51.64413, 75.54902, -0.2937086, 0, 0, -0.955895) /* PCAPRecordedLocation */
-/* @teleloc 0x91B8002B [143.104900 51.644130 75.549020] -0.293709 0.000000 0.000000 -0.955895 */;
+VALUES (3691936503, 8040, 2444754987, 143.1049, 51.644127, 75.54902, -0.29370856, 0, 0, -0.955895) /* PCAPRecordedLocation */
+/* @teleloc 0x91B8002B [143.104904 51.644127 75.549019] -0.293709 0.000000 0.000000 -0.955895 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (3691936503,   3, 1343206948) /* Wielder */

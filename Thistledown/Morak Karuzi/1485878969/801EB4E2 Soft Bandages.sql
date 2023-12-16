@@ -20,7 +20,7 @@ VALUES (2149496034,   1, False) /* Stuck */
      , (2149496034,  19, True ) /* Attackable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2149496034,  39, 1.39999997615814) /* DefaultScale */;
+VALUES (2149496034,  39, 1.399999976158142) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2149496034,   1, 'Soft Bandages') /* Name */

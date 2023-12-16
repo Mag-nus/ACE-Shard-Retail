@@ -30,7 +30,7 @@ VALUES (2975610717,   1, False) /* Stuck */
      , (2975610717,  69, False) /* IsSellable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2975610717,  39, 0.200000002980232) /* DefaultScale */;
+VALUES (2975610717,  39, 0.20000000298023224) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2975610717,   1, 'Caramel Kukuur') /* Name */

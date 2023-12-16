@@ -26,8 +26,8 @@ VALUES (2189157658,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2189157658,  29,       1) /* WeaponDefense */
-     , (2189157658,  39, 1.60000002384186) /* DefaultScale */
-     , (2189157658, 144, 1.08158759214808E-314) /* ManaConversionMod */;
+     , (2189157658,  39, 1.600000023841858) /* DefaultScale */
+     , (2189157658, 144, 1.081587592E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2189157658,   1, 'Orb of the Bunny Booty') /* Name */;

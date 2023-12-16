@@ -23,7 +23,7 @@ VALUES (3334907867,   1, False) /* Stuck */
      , (3334907867,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3334907867,  39, 1.10000002384186) /* DefaultScale */;
+VALUES (3334907867,  39, 1.100000023841858) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3334907867,   1, 'Yumi') /* Name */;
@@ -40,8 +40,8 @@ VALUES (3334907867,   1,   33554728) /* Setup */
      , (3334907867, 8009,          2) /* PCAPRecordedParentLocation - LeftHand */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (3334907867, 8040, 3862036482, 1.789138, 33.99699, 27.93, -0.9900945, 0, 0, -0.1404027) /* PCAPRecordedLocation */
-/* @teleloc 0xE6320002 [1.789138 33.996990 27.930000] -0.990095 0.000000 0.000000 -0.140403 */;
+VALUES (3334907867, 8040, 3862036482, 1.7891381, 33.996986, 27.929998, -0.9900945, 0, -0, -0.14040267) /* PCAPRecordedLocation */
+/* @teleloc 0xE6320002 [1.789138 33.996986 27.929998] -0.990094 0.000000 -0.000000 -0.140403 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (3334907867,   3, 1342602465) /* Wielder */

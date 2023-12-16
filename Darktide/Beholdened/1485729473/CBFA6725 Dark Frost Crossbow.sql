@@ -47,7 +47,7 @@ VALUES (3422185253,  21,       0) /* WeaponLength */
      , (3422185253,  29,       1) /* WeaponDefense */
      , (3422185253,  39,    1.25) /* DefaultScale */
      , (3422185253,  62,       1) /* WeaponOffense */
-     , (3422185253,  63, 2.91000008583069) /* DamageMod */
+     , (3422185253,  63, 2.9100000858306885) /* DamageMod */
      , (3422185253, 150,   1.025) /* WeaponMagicDefense */
      , (3422185253, 159,       1) /* AbsorbMagicDamage */
      , (3422185253, 8004,       6) /* PCAPRecordedWorkmanship */;

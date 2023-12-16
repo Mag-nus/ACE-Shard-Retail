@@ -21,7 +21,7 @@ VALUES (3710965684,   1, False) /* Stuck */
      , (3710965684,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3710965684,  39, 1.39999997615814) /* DefaultScale */;
+VALUES (3710965684,  39, 1.399999976158142) /* DefaultScale */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3710965684,   1, 'Fiun Crown') /* Name */;

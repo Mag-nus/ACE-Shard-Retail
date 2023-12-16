@@ -96,7 +96,7 @@ VALUES (1343179856,   1, True ) /* Stuck */
      , (1343179856, 127, True ) /* Account15Days */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1343179856,  39, 1.29999995231628) /* DefaultScale */
+VALUES (1343179856,  39, 1.2999999523162842) /* DefaultScale */
      , (1343179856, 125,       1) /* ResistHealthDrain */
      , (1343179856, 163,       1) /* GlobalXpMod */
      , (1343179856, 168,       0) /* WeaponAuraOffense */
@@ -122,10 +122,10 @@ VALUES (1343179856,   1,   33561112) /* Setup */
      , (1343179856, 8005,     104643) /* PCAPRecordedPhysicsDesc - CSetup, MTable, Children, ObjScale, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343179856, 1, 3332964380, 80.24635, 92.72466, 42.0065, 0.5975236, 0, 0, -0.8018513) /* Location */
-/* @teleloc 0xC6A9001C [80.246350 92.724660 42.006500] 0.597524 0.000000 0.000000 -0.801851 */
-     , (1343179856, 8040, 3332964380, 80.24635, 92.72466, 42.0065, -0.0595556, 0, 0, -0.998225) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001C [80.246350 92.724660 42.006500] -0.059556 0.000000 0.000000 -0.998225 */;
+VALUES (1343179856, 1, 3332964380, 80.24635, 92.72466, 42.0065, 0.59752357, 0, 0, -0.80185133) /* Location */
+/* @teleloc 0xC6A9001C [80.246353 92.724663 42.006500] 0.597524 0.000000 0.000000 -0.801851 */
+     , (1343179856, 8040, 3332964380, 80.24635, 92.72466, 42.0065, -0.059555598, 0, -0, -0.998225) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A9001C [80.246353 92.724663 42.006500] -0.059556 0.000000 -0.000000 -0.998225 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343179856, 8000, 1343179856) /* PCAPRecordedObjectIID */;
@@ -254,6 +254,6 @@ VALUES (1343179856, 0, 16796328, 28)
      , (1343179856, 33, 16777708, 23);
 
 INSERT INTO `biota_properties_enchantment_registry` (`object_Id`, `enchantment_Category`, `spell_Id`, `layer_Id`, `has_Spell_Set_Id`, `spell_Category`, `power_Level`, `start_Time`, `duration`, `caster_Object_Id`, `degrade_Modifier`, `degrade_Limit`, `last_Time_Degraded`, `stat_Mod_Type`, `stat_Mod_Key`, `stat_Mod_Value`, `spell_Set_Id`)
-VALUES (1343179856, 0, 3978, 1, True, 9, 400, -186.036133408546, 10800, 2528517388, 0, -666, -533176938.625435, 33591297, 5, 45, 0)
-     , (1343179856, 0, 3977, 1, True, 7, 400, -186.036133408546, 10800, 2528517388, 0, -666, -533176938.625435, 33591297, 4, 45, 0)
-     , (1343179856, 0, 3979, 1, True, 1, 400, -186.036133408546, 10800, 2528517388, 0, -666, -533176938.625435, 33591297, 1, 45, 0);
+VALUES (1343179856, 0, 3978, 1, True, 9, 400, -186.03613340854645, 10800, 2528517388, 0, -666, -533176938.62543476, 33591297, 5, 45, 0)
+     , (1343179856, 0, 3977, 1, True, 7, 400, -186.03613340854645, 10800, 2528517388, 0, -666, -533176938.62543476, 33591297, 4, 45, 0)
+     , (1343179856, 0, 3979, 1, True, 1, 400, -186.03613340854645, 10800, 2528517388, 0, -666, -533176938.62543476, 33591297, 1, 45, 0);

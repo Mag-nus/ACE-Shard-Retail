@@ -34,10 +34,10 @@ VALUES (2151523746,   1, False) /* Stuck */
      , (2151523746,  99, True ) /* Ivoryable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2151523746,   5, -0.025000000372529) /* ManaRate */
-     , (2151523746,  29, 1.20000004768372) /* WeaponDefense */
-     , (2151523746,  39, 0.600000023841858) /* DefaultScale */
-     , (2151523746, 144, 0.200000002980232) /* ManaConversionMod */;
+VALUES (2151523746,   5, -0.02500000037252903) /* ManaRate */
+     , (2151523746,  29, 1.2000000476837158) /* WeaponDefense */
+     , (2151523746,  39, 0.6000000238418579) /* DefaultScale */
+     , (2151523746, 144, 0.20000000298023224) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2151523746,   1, 'Legendary Seed of Mornings') /* Name */

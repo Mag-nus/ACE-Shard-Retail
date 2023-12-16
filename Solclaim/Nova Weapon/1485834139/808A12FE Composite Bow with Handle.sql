@@ -39,14 +39,14 @@ VALUES (2156532478,   1, False) /* Stuck */
      , (2156532478,  99, True ) /* Ivoryable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2156532478,   5, -0.0500000007450581) /* ManaRate */
+VALUES (2156532478,   5, -0.05000000074505806) /* ManaRate */
      , (2156532478,  21,       0) /* WeaponLength */
      , (2156532478,  22,       0) /* DamageVariance */
      , (2156532478,  26,    27.3) /* MaximumVelocity */
-     , (2156532478,  29, 1.05999994277954) /* WeaponDefense */
-     , (2156532478,  39, 1.10000002384186) /* DefaultScale */
-     , (2156532478,  62, 1.05999994277954) /* WeaponOffense */
-     , (2156532478,  63, 2.09999990463257) /* DamageMod */;
+     , (2156532478,  29, 1.059999942779541) /* WeaponDefense */
+     , (2156532478,  39, 1.100000023841858) /* DefaultScale */
+     , (2156532478,  62, 1.059999942779541) /* WeaponOffense */
+     , (2156532478,  63, 2.0999999046325684) /* DamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2156532478,   1, 'Composite Bow with Handle') /* Name */

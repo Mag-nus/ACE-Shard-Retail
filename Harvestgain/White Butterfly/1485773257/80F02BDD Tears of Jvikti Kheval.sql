@@ -29,7 +29,7 @@ VALUES (2163223517,   1, False) /* Stuck */
      , (2163223517,  69, False) /* IsSellable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2163223517,   5, -0.0333329997956753) /* ManaRate */;
+VALUES (2163223517,   5, -0.03333299979567528) /* ManaRate */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2163223517,   1, 'Tears of Jvikti Kheval') /* Name */

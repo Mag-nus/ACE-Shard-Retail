@@ -34,11 +34,11 @@ VALUES (2620104064,   1, False) /* Stuck */
      , (2620104064,  99, True ) /* Ivoryable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2620104064,   5, -0.0500000007450581) /* ManaRate */
+VALUES (2620104064,   5, -0.05000000074505806) /* ManaRate */
      , (2620104064,  29,       1) /* WeaponDefense */
      , (2620104064,  39, 0.699999988079071) /* DefaultScale */
-     , (2620104064,  76, 0.200000002980232) /* Translucency */
-     , (2620104064, 144, 1.29450340655143E-314) /* ManaConversionMod */;
+     , (2620104064,  76, 0.20000000298023224) /* Translucency */
+     , (2620104064, 144, 1.2945034066E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2620104064,   1, 'Focusing Stone') /* Name */

@@ -34,14 +34,14 @@ VALUES (2148671736,   1, False) /* Stuck */
      , (2148671736,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2148671736,   5, -0.025000000372529) /* ManaRate */
+VALUES (2148671736,   5, -0.02500000037252903) /* ManaRate */
      , (2148671736,  13,       1) /* ArmorModVsSlash */
      , (2148671736,  14, 0.800000011920929) /* ArmorModVsPierce */
-     , (2148671736,  15, 1.20000004768372) /* ArmorModVsBludgeon */
-     , (2148671736,  16, 0.600000023841858) /* ArmorModVsCold */
-     , (2148671736,  17, 0.600000023841858) /* ArmorModVsFire */
+     , (2148671736,  15, 1.2000000476837158) /* ArmorModVsBludgeon */
+     , (2148671736,  16, 0.6000000238418579) /* ArmorModVsCold */
+     , (2148671736,  17, 0.6000000238418579) /* ArmorModVsFire */
      , (2148671736,  18,       1) /* ArmorModVsAcid */
-     , (2148671736,  19, 0.600000023841858) /* ArmorModVsElectric */
+     , (2148671736,  19, 0.6000000238418579) /* ArmorModVsElectric */
      , (2148671736, 165,       1) /* ArmorModVsNether */
      , (2148671736, 8004,       2) /* PCAPRecordedWorkmanship */;
 
@@ -64,8 +64,8 @@ VALUES (2148671736,   1,   33554788) /* Setup */
      , (2148671736, 8009,          3) /* PCAPRecordedParentLocation - Shield */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (2148671736, 8040, 3332964380, 79.73197, 93.56882, 41.926, -0.3929642, -0.6646225, 0.5179389, -0.3682328) /* PCAPRecordedLocation */
-/* @teleloc 0xC6A9001C [79.731970 93.568820 41.926000] -0.392964 -0.664623 0.517939 -0.368233 */;
+VALUES (2148671736, 8040, 3332964380, 79.73197, 93.56882, 41.926003, -0.39296418, -0.6646225, 0.5179389, -0.36823276) /* PCAPRecordedLocation */
+/* @teleloc 0xC6A9001C [79.731972 93.568817 41.926003] -0.392964 -0.664622 0.517939 -0.368233 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2148671736,   3, 1342820995) /* Wielder */

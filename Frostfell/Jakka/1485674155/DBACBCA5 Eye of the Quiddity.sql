@@ -34,7 +34,7 @@ INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (3685530789,   5,  -0.025) /* ManaRate */
      , (3685530789,  29,       1) /* WeaponDefense */
      , (3685530789,  39, 0.800000011920929) /* DefaultScale */
-     , (3685530789, 144, 1.82089414953508E-314) /* ManaConversionMod */;
+     , (3685530789, 144, 1.8208941495E-314) /* ManaConversionMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (3685530789,   1, 'Eye of the Quiddity') /* Name */

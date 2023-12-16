@@ -30,7 +30,7 @@ VALUES (3361697675,   1, False) /* Stuck */
      , (3361697675,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3361697675,   5, -0.0333333333333333) /* ManaRate */
+VALUES (3361697675,   5, -0.03333333333333333) /* ManaRate */
      , (3361697675,  39,     0.5) /* DefaultScale */
      , (3361697675, 8004,       5) /* PCAPRecordedWorkmanship */;
 

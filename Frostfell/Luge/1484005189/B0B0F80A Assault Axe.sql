@@ -24,7 +24,7 @@ VALUES (2964387850,   1, False) /* Stuck */
      , (2964387850,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2964387850,  39, 1.20000004768372) /* DefaultScale */
+VALUES (2964387850,  39, 1.2000000476837158) /* DefaultScale */
      , (2964387850,  77,       1) /* PhysicsScriptIntensity */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)

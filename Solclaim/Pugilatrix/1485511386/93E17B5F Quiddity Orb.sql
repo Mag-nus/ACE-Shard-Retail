@@ -34,10 +34,10 @@ VALUES (2481027935,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2481027935,   5,   -0.05) /* ManaRate */
-     , (2481027935,  29, 1.17000000178814) /* WeaponDefense */
+     , (2481027935,  29, 1.1700000017881393) /* WeaponDefense */
      , (2481027935,  76,     0.5) /* Translucency */
-     , (2481027935, 144, 2.20642314600096E-314) /* ManaConversionMod */
-     , (2481027935, 152, 1.07999999821186) /* ElementalDamageMod */;
+     , (2481027935, 144, 2.206423146E-314) /* ManaConversionMod */
+     , (2481027935, 152, 1.0799999982118607) /* ElementalDamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2481027935,   1, 'Quiddity Orb') /* Name */

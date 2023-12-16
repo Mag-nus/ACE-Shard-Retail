@@ -22,13 +22,13 @@ VALUES (3327051128,   1, False) /* Stuck */
      , (3327051128,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (3327051128,  13, 2.70000004768372) /* ArmorModVsSlash */
+VALUES (3327051128,  13, 2.700000047683716) /* ArmorModVsSlash */
      , (3327051128,  14,     2.5) /* ArmorModVsPierce */
-     , (3327051128,  15, 2.90000009536743) /* ArmorModVsBludgeon */
-     , (3327051128,  16, 2.30000019073486) /* ArmorModVsCold */
-     , (3327051128,  17, 2.30000019073486) /* ArmorModVsFire */
-     , (3327051128,  18, 2.70000004768372) /* ArmorModVsAcid */
-     , (3327051128,  19, 2.30000019073486) /* ArmorModVsElectric */
+     , (3327051128,  15, 2.9000000953674316) /* ArmorModVsBludgeon */
+     , (3327051128,  16, 2.3000001907348633) /* ArmorModVsCold */
+     , (3327051128,  17, 2.3000001907348633) /* ArmorModVsFire */
+     , (3327051128,  18, 2.700000047683716) /* ArmorModVsAcid */
+     , (3327051128,  19, 2.3000001907348633) /* ArmorModVsElectric */
      , (3327051128,  39,     0.5) /* DefaultScale */
      , (3327051128, 165,       1) /* ArmorModVsNether */;
 
@@ -47,8 +47,8 @@ VALUES (3327051128,   1,   33554786) /* Setup */
      , (3327051128, 8009,          3) /* PCAPRecordedParentLocation - Shield */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (3327051128, 8040, 1398866841, 80.53581, -41.08904, 5.926, 0.4083209, 0.6419134, -0.5458306, 0.3511271) /* PCAPRecordedLocation */
-/* @teleloc 0x53610399 [80.535810 -41.089040 5.926000] 0.408321 0.641913 -0.545831 0.351127 */;
+VALUES (3327051128, 8040, 1398866841, 80.53581, -41.089043, 5.926, 0.40832093, 0.64191335, -0.5458306, 0.3511271) /* PCAPRecordedLocation */
+/* @teleloc 0x53610399 [80.535812 -41.089043 5.926000] 0.408321 0.641913 -0.545831 0.351127 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (3327051128,   3, 1343181888) /* Wielder */

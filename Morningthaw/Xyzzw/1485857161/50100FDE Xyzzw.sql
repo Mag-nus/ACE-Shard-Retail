@@ -115,10 +115,10 @@ VALUES (1343229918,   1,   33554433) /* Setup */
      , (1343229918, 8005,     104451) /* PCAPRecordedPhysicsDesc - CSetup, MTable, STable, PeTable, Position, Movement */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (1343229918, 1, 1912734125, 9.740467, -28.45006, 0.004999995, -0.78093, 0, 0, -0.6246185) /* Location */
-/* @teleloc 0x720201AD [9.740467 -28.450060 0.005000] -0.780930 0.000000 0.000000 -0.624619 */
-     , (1343229918, 8040, 1912734125, 9.740467, -28.45006, 0.004999995, -0.78093, 0, 0, -0.6246185) /* PCAPRecordedLocation */
-/* @teleloc 0x720201AD [9.740467 -28.450060 0.005000] -0.780930 0.000000 0.000000 -0.624619 */;
+VALUES (1343229918, 1, 1912734125, 9.740467, -28.450058, 0.004999995, -0.78093004, 0, 0, -0.62461853) /* Location */
+/* @teleloc 0x720201AD [9.740467 -28.450058 0.005000] -0.780930 0.000000 0.000000 -0.624619 */
+     , (1343229918, 8040, 1912734125, 9.740467, -28.450058, 0.004999995, -0.78093004, 0, -0, -0.62461853) /* PCAPRecordedLocation */
+/* @teleloc 0x720201AD [9.740467 -28.450058 0.005000] -0.780930 0.000000 -0.000000 -0.624619 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343229918, 8000, 1343229918) /* PCAPRecordedObjectIID */;
@@ -137,44 +137,44 @@ VALUES (1343229918,   2,     0, 0, 0, 20) /* Health */
      , (1343229918,   6,     0, 0, 0, 100) /* Mana */;
 
 INSERT INTO `biota_properties_skill` (`object_Id`, `type`, `level_From_P_P`, `s_a_c`, `p_p`, `init_Level`, `resistance_At_Last_Check`, `last_Used_Time`)
-VALUES (1343229918,  6,   0, 1,           0,   0,   0, 614032069.917157) /* MeleeDefense        Untrained */
-     , (1343229918,  7,   0, 1,           0,   0,   0, 614032069.917157) /* MissileDefense      Untrained */
-     , (1343229918, 14,   5, 2,         526,   0,   0, 614032069.917157) /* ArcaneLore          Trained */
-     , (1343229918, 15,   5, 2,         526,   0,   0, 614032069.917157) /* MagicDefense        Trained */
-     , (1343229918, 16,   0, 3,           0,  10,   0, 614032069.917157) /* ManaConversion      Specialized */
-     , (1343229918, 18,   0, 1,           0,   0,   0, 614032069.917157) /* ItemTinkering       Untrained */
-     , (1343229918, 19,   0, 1,           0,   0,   0, 614032069.917157) /* AssessPerson        Untrained */
-     , (1343229918, 20,   0, 1,           0,   0,   0, 614032069.917157) /* Deception           Untrained */
-     , (1343229918, 21,   0, 1,           0,   0,   0, 614032069.917157) /* Healing             Untrained */
-     , (1343229918, 22,   5, 2,         526,   0,   0, 614032069.917157) /* Jump                Trained */
-     , (1343229918, 23,   0, 1,           0,   0,   0, 614032069.917157) /* Lockpick            Untrained */
-     , (1343229918, 24,   5, 2,         526,   0,   0, 614032069.917157) /* Run                 Trained */
-     , (1343229918, 27,   0, 1,           0,   0,   0, 614032069.917157) /* AssessCreature      Untrained */
-     , (1343229918, 28,   0, 1,           0,   0,   0, 614032069.917157) /* WeaponTinkering     Untrained */
-     , (1343229918, 29,   0, 1,           0,   0,   0, 614032069.917157) /* ArmorTinkering      Untrained */
-     , (1343229918, 30,   0, 1,           0,   0,   0, 614032069.917157) /* MagicItemTinkering  Untrained */
-     , (1343229918, 31,   0, 1,           0,   0,   0, 614032069.917157) /* CreatureEnchantment Untrained */
-     , (1343229918, 32,   0, 1,           0,   0,   0, 614032069.917157) /* ItemEnchantment     Untrained */
-     , (1343229918, 33,   5, 2,         526,   0,   0, 614032069.917157) /* LifeMagic           Trained */
-     , (1343229918, 34,   0, 3,           0,  10,   0, 614032069.917157) /* WarMagic            Specialized */
-     , (1343229918, 35,   0, 1,           0,   0,   0, 614032069.917157) /* Leadership          Untrained */
-     , (1343229918, 36,   5, 2,         526,   0,   0, 614032069.917157) /* Loyalty             Trained */
-     , (1343229918, 37,   0, 1,           0,   0,   0, 614032069.917157) /* Fletching           Untrained */
-     , (1343229918, 38,   0, 1,           0,   0,   0, 614032069.917157) /* Alchemy             Untrained */
-     , (1343229918, 39,   0, 1,           0,   0,   0, 614032069.917157) /* Cooking             Untrained */
-     , (1343229918, 40,   5, 2,         526,   0,   0, 614032069.917157) /* Salvaging           Trained */
-     , (1343229918, 41,   0, 1,           0,   0,   0, 614032069.917157) /* TwoHandedCombat     Untrained */
-     , (1343229918, 43,   0, 1,           0,   0,   0, 614032069.917157) /* VoidMagic           Untrained */
-     , (1343229918, 44,   0, 1,           0,   0,   0, 614032069.917157) /* HeavyWeapons        Untrained */
-     , (1343229918, 45,   0, 1,           0,   0,   0, 614032069.917157) /* LightWeapons        Untrained */
-     , (1343229918, 46,   0, 1,           0,   0,   0, 614032069.917157) /* FinesseWeapons      Untrained */
-     , (1343229918, 47,   0, 1,           0,   0,   0, 614032069.917157) /* MissileWeapons      Untrained */
-     , (1343229918, 48,   0, 1,           0,   0,   0, 614032069.917157) /* Shield              Untrained */
-     , (1343229918, 49,   0, 1,           0,   0,   0, 614032069.917157) /* DualWield           Untrained */
-     , (1343229918, 50,   0, 1,           0,   0,   0, 614032069.917157) /* Recklessness        Untrained */
-     , (1343229918, 51,   0, 1,           0,   0,   0, 614032069.917157) /* SneakAttack         Untrained */
-     , (1343229918, 52,   0, 1,           0,   0,   0, 614032069.917157) /* DirtyFighting       Untrained */
-     , (1343229918, 54,   0, 1,           0,   0,   0, 614032069.917157) /* Summoning           Untrained */;
+VALUES (1343229918,  6,   0, 1,           0,   0,   0, 614032069.9171566) /* MeleeDefense        Untrained */
+     , (1343229918,  7,   0, 1,           0,   0,   0, 614032069.9171566) /* MissileDefense      Untrained */
+     , (1343229918, 14,   5, 2,         526,   0,   0, 614032069.9171566) /* ArcaneLore          Trained */
+     , (1343229918, 15,   5, 2,         526,   0,   0, 614032069.9171566) /* MagicDefense        Trained */
+     , (1343229918, 16,   0, 3,           0,  10,   0, 614032069.9171566) /* ManaConversion      Specialized */
+     , (1343229918, 18,   0, 1,           0,   0,   0, 614032069.9171566) /* ItemTinkering       Untrained */
+     , (1343229918, 19,   0, 1,           0,   0,   0, 614032069.9171566) /* AssessPerson        Untrained */
+     , (1343229918, 20,   0, 1,           0,   0,   0, 614032069.9171566) /* Deception           Untrained */
+     , (1343229918, 21,   0, 1,           0,   0,   0, 614032069.9171566) /* Healing             Untrained */
+     , (1343229918, 22,   5, 2,         526,   0,   0, 614032069.9171566) /* Jump                Trained */
+     , (1343229918, 23,   0, 1,           0,   0,   0, 614032069.9171566) /* Lockpick            Untrained */
+     , (1343229918, 24,   5, 2,         526,   0,   0, 614032069.9171566) /* Run                 Trained */
+     , (1343229918, 27,   0, 1,           0,   0,   0, 614032069.9171566) /* AssessCreature      Untrained */
+     , (1343229918, 28,   0, 1,           0,   0,   0, 614032069.9171566) /* WeaponTinkering     Untrained */
+     , (1343229918, 29,   0, 1,           0,   0,   0, 614032069.9171566) /* ArmorTinkering      Untrained */
+     , (1343229918, 30,   0, 1,           0,   0,   0, 614032069.9171566) /* MagicItemTinkering  Untrained */
+     , (1343229918, 31,   0, 1,           0,   0,   0, 614032069.9171566) /* CreatureEnchantment Untrained */
+     , (1343229918, 32,   0, 1,           0,   0,   0, 614032069.9171566) /* ItemEnchantment     Untrained */
+     , (1343229918, 33,   5, 2,         526,   0,   0, 614032069.9171566) /* LifeMagic           Trained */
+     , (1343229918, 34,   0, 3,           0,  10,   0, 614032069.9171566) /* WarMagic            Specialized */
+     , (1343229918, 35,   0, 1,           0,   0,   0, 614032069.9171566) /* Leadership          Untrained */
+     , (1343229918, 36,   5, 2,         526,   0,   0, 614032069.9171566) /* Loyalty             Trained */
+     , (1343229918, 37,   0, 1,           0,   0,   0, 614032069.9171566) /* Fletching           Untrained */
+     , (1343229918, 38,   0, 1,           0,   0,   0, 614032069.9171566) /* Alchemy             Untrained */
+     , (1343229918, 39,   0, 1,           0,   0,   0, 614032069.9171566) /* Cooking             Untrained */
+     , (1343229918, 40,   5, 2,         526,   0,   0, 614032069.9171566) /* Salvaging           Trained */
+     , (1343229918, 41,   0, 1,           0,   0,   0, 614032069.9171566) /* TwoHandedCombat     Untrained */
+     , (1343229918, 43,   0, 1,           0,   0,   0, 614032069.9171566) /* VoidMagic           Untrained */
+     , (1343229918, 44,   0, 1,           0,   0,   0, 614032069.9171566) /* HeavyWeapons        Untrained */
+     , (1343229918, 45,   0, 1,           0,   0,   0, 614032069.9171566) /* LightWeapons        Untrained */
+     , (1343229918, 46,   0, 1,           0,   0,   0, 614032069.9171566) /* FinesseWeapons      Untrained */
+     , (1343229918, 47,   0, 1,           0,   0,   0, 614032069.9171566) /* MissileWeapons      Untrained */
+     , (1343229918, 48,   0, 1,           0,   0,   0, 614032069.9171566) /* Shield              Untrained */
+     , (1343229918, 49,   0, 1,           0,   0,   0, 614032069.9171566) /* DualWield           Untrained */
+     , (1343229918, 50,   0, 1,           0,   0,   0, 614032069.9171566) /* Recklessness        Untrained */
+     , (1343229918, 51,   0, 1,           0,   0,   0, 614032069.9171566) /* SneakAttack         Untrained */
+     , (1343229918, 52,   0, 1,           0,   0,   0, 614032069.9171566) /* DirtyFighting       Untrained */
+     , (1343229918, 54,   0, 1,           0,   0,   0, 614032069.9171566) /* Summoning           Untrained */;
 
 INSERT INTO `biota_properties_spell_book` (`object_Id`, `spell`, `probability`)
 VALUES (1343229918,     5,      2) 

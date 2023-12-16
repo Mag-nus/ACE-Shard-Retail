@@ -52,8 +52,8 @@ VALUES (2924522465,   5, -0.0555555559694767) /* ManaRate */
      , (2924522465,  21,       0) /* WeaponLength */
      , (2924522465,  22,     0.5) /* DamageVariance */
      , (2924522465,  26,       0) /* MaximumVelocity */
-     , (2924522465,  29, 1.39000006020069) /* WeaponDefense */
-     , (2924522465,  62, 1.38000003993511) /* WeaponOffense */
+     , (2924522465,  29, 1.3900000602006912) /* WeaponDefense */
+     , (2924522465,  62, 1.380000039935112) /* WeaponOffense */
      , (2924522465,  63,       1) /* DamageMod */
      , (2924522465, 150,   1.035) /* WeaponMagicDefense */
      , (2924522465, 8004,       6) /* PCAPRecordedWorkmanship */;

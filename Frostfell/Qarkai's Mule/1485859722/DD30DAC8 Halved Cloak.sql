@@ -42,10 +42,10 @@ INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (3710966472,  13, 0.800000011920929) /* ArmorModVsSlash */
      , (3710966472,  14, 0.800000011920929) /* ArmorModVsPierce */
      , (3710966472,  15,       1) /* ArmorModVsBludgeon */
-     , (3710966472,  16, 0.200000002980232) /* ArmorModVsCold */
-     , (3710966472,  17, 0.200000002980232) /* ArmorModVsFire */
-     , (3710966472,  18, 0.100000001490116) /* ArmorModVsAcid */
-     , (3710966472,  19, 0.200000002980232) /* ArmorModVsElectric */
+     , (3710966472,  16, 0.20000000298023224) /* ArmorModVsCold */
+     , (3710966472,  17, 0.20000000298023224) /* ArmorModVsFire */
+     , (3710966472,  18, 0.10000000149011612) /* ArmorModVsAcid */
+     , (3710966472,  19, 0.20000000298023224) /* ArmorModVsElectric */
      , (3710966472, 165,       1) /* ArmorModVsNether */
      , (3710966472, 8004,       8) /* PCAPRecordedWorkmanship */;
 

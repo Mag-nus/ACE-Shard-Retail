@@ -29,14 +29,14 @@ VALUES (2163359545,   1, False) /* Stuck */
      , (2163359545,  22, True ) /* Inscribable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2163359545,   5, -0.0500000007450581) /* ManaRate */
+VALUES (2163359545,   5, -0.05000000074505806) /* ManaRate */
      , (2163359545,  13,       1) /* ArmorModVsSlash */
      , (2163359545,  14,       1) /* ArmorModVsPierce */
-     , (2163359545,  15, 1.20000004768372) /* ArmorModVsBludgeon */
-     , (2163359545,  16, 0.600000023841858) /* ArmorModVsCold */
-     , (2163359545,  17, 0.600000023841858) /* ArmorModVsFire */
-     , (2163359545,  18, 0.600000023841858) /* ArmorModVsAcid */
-     , (2163359545,  19, 0.600000023841858) /* ArmorModVsElectric */
+     , (2163359545,  15, 1.2000000476837158) /* ArmorModVsBludgeon */
+     , (2163359545,  16, 0.6000000238418579) /* ArmorModVsCold */
+     , (2163359545,  17, 0.6000000238418579) /* ArmorModVsFire */
+     , (2163359545,  18, 0.6000000238418579) /* ArmorModVsAcid */
+     , (2163359545,  19, 0.6000000238418579) /* ArmorModVsElectric */
      , (2163359545,  39,     1.5) /* DefaultScale */
      , (2163359545, 165,       1) /* ArmorModVsNether */;
 
@@ -55,8 +55,8 @@ VALUES (2163359545,   1,   33557043) /* Setup */
      , (2163359545, 8009,          3) /* PCAPRecordedParentLocation - Shield */;
 
 INSERT INTO `biota_properties_position` (`object_Id`, `position_Type`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (2163359545, 8040, 42205558, 124.1016, -91.014, -12.074, 0.4686866, -0.2961089, -0.788862, -0.265234) /* PCAPRecordedLocation */
-/* @teleloc 0x02840176 [124.101600 -91.014000 -12.074000] 0.468687 -0.296109 -0.788862 -0.265234 */;
+VALUES (2163359545, 8040, 42205558, 124.10156, -91.014, -12.074001, 0.4686866, -0.29610893, -0.78886205, -0.26523402) /* PCAPRecordedLocation */
+/* @teleloc 0x02840176 [124.101562 -91.014000 -12.074001] 0.468687 -0.296109 -0.788862 -0.265234 */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2163359545,   3, 1343494030) /* Wielder */

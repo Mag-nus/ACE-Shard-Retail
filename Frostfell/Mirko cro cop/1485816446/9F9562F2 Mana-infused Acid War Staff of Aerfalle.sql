@@ -39,10 +39,10 @@ VALUES (2677367538,   1, False) /* Stuck */
      , (2677367538,  99, False) /* Ivoryable */;
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
-VALUES (2677367538,   5, -0.0829999968409538) /* ManaRate */
-     , (2677367538,  29, 1.12000000476837) /* WeaponDefense */
-     , (2677367538, 144, 0.150000005960464) /* ManaConversionMod */
-     , (2677367538, 152, 1.12000000476837) /* ElementalDamageMod */;
+VALUES (2677367538,   5, -0.08299999684095383) /* ManaRate */
+     , (2677367538,  29, 1.1200000047683716) /* WeaponDefense */
+     , (2677367538, 144, 0.15000000596046448) /* ManaConversionMod */
+     , (2677367538, 152, 1.1200000047683716) /* ElementalDamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2677367538,   1, 'Mana-infused Acid War Staff of Aerfalle') /* Name */

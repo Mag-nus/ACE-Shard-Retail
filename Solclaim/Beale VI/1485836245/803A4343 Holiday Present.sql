@@ -28,10 +28,10 @@ VALUES (2151301955,   1, False) /* Stuck */
 
 INSERT INTO `biota_properties_float` (`object_Id`, `type`, `value`)
 VALUES (2151301955,   5,  -0.025) /* ManaRate */
-     , (2151301955,  29, 1.40000000298023) /* WeaponDefense */
-     , (2151301955,  39, 0.170000001788139) /* DefaultScale */
-     , (2151301955, 144, 0.179999995231628) /* ManaConversionMod */
-     , (2151301955, 152, 1.07999999821186) /* ElementalDamageMod */;
+     , (2151301955,  29, 1.4000000029802322) /* WeaponDefense */
+     , (2151301955,  39, 0.17000000178813934) /* DefaultScale */
+     , (2151301955, 144, 0.17999999523162843) /* ManaConversionMod */
+     , (2151301955, 152, 1.0799999982118607) /* ElementalDamageMod */;
 
 INSERT INTO `biota_properties_string` (`object_Id`, `type`, `value`)
 VALUES (2151301955,   1, 'Holiday Present') /* Name */
