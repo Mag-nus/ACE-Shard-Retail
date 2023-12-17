@@ -42,10 +42,10 @@ INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (2163456731,   3, 1343051398) /* Wielder */
      , (2163456731, 8000, 2163456731) /* PCAPRecordedObjectIID */;
 
-INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
-VALUES (2163456731, 67109966, 186, 12)
-     , (2163456731, 67109966, 174, 12)
-     , (2163456731, 67109978, 216, 24);
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`, `order`)
+VALUES (2163456731, 67109978, 216, 24, 0)
+     , (2163456731, 67109966, 186, 12, 1)
+     , (2163456731, 67109966, 174, 12, 2);
 
 INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
 VALUES (2163456731, 0, 83887061, 83886237, 0)

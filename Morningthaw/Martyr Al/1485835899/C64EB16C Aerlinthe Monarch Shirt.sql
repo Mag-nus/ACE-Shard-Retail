@@ -60,9 +60,9 @@ VALUES (3327045996,   3, 1343112254) /* Wielder */
 INSERT INTO `biota_properties_spell_book` (`object_Id`, `spell`, `probability`)
 VALUES (3327045996,   955,      2) ;
 
-INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
-VALUES (3327045996, 67112889, 174, 12)
-     , (3327045996, 67112889, 216, 24);
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`, `order`)
+VALUES (3327045996, 67112889, 174, 12, 0)
+     , (3327045996, 67112889, 216, 24, 1);
 
 INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
 VALUES (3327045996, 0, 83887061, 83892586, 0)

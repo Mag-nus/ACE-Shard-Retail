@@ -212,10 +212,10 @@ VALUES (1342811053,     5,      2)
      , (1342811053,    51,      2) 
      , (1342811053,  1511,      2) ;
 
-INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
-VALUES (1342811053, 67109565, 32, 8)
-     , (1342811053, 67109618, 24, 8)
-     , (1342811053, 67110057, 0, 24);
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`, `order`)
+VALUES (1342811053, 67110057, 0, 24, 0)
+     , (1342811053, 67109618, 24, 8, 1)
+     , (1342811053, 67109565, 32, 8, 2);
 
 INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
 VALUES (1342811053, 16, 83886232, 83890359, 0)
@@ -227,12 +227,8 @@ INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, 
 VALUES (1342811053, 0, 16777294, 0)
      , (1342811053, 1, 16777295, 1)
      , (1342811053, 2, 16777293, 2)
-     , (1342811053, 3, 16793227, 30)
-     , (1342811053, 4, 16793229, 32)
      , (1342811053, 5, 16777299, 3)
      , (1342811053, 6, 16777297, 4)
-     , (1342811053, 7, 16793228, 31)
-     , (1342811053, 8, 16793230, 33)
      , (1342811053, 9, 16777300, 5)
      , (1342811053, 10, 16777301, 6)
      , (1342811053, 11, 16777302, 7)
@@ -257,7 +253,11 @@ VALUES (1342811053, 0, 16777294, 0)
      , (1342811053, 30, 16777708, 26)
      , (1342811053, 31, 16777708, 27)
      , (1342811053, 32, 16777708, 28)
-     , (1342811053, 33, 16777708, 29);
+     , (1342811053, 33, 16777708, 29)
+     , (1342811053, 3, 16793227, 30)
+     , (1342811053, 7, 16793228, 31)
+     , (1342811053, 4, 16793229, 32)
+     , (1342811053, 8, 16793230, 33);
 
 INSERT INTO `biota_properties_enchantment_registry` (`object_Id`, `enchantment_Category`, `spell_Id`, `layer_Id`, `has_Spell_Set_Id`, `spell_Category`, `power_Level`, `start_Time`, `duration`, `caster_Object_Id`, `degrade_Modifier`, `degrade_Limit`, `last_Time_Degraded`, `stat_Mod_Type`, `stat_Mod_Key`, `stat_Mod_Value`, `spell_Set_Id`)
 VALUES (1342811053, 0, 2300, 1, True, 77, 300, -1461.5281034111977, 7200, 1343015495, 0, -666, -473921017.1465047, 33591312, 24, 40, 0)

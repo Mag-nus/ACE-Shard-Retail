@@ -64,15 +64,15 @@ VALUES (2461693251,   3, 1342853657) /* Wielder */
 INSERT INTO `biota_properties_spell_book` (`object_Id`, `spell`, `probability`)
 VALUES (2461693251,  2610,      2) ;
 
-INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
-VALUES (2461693251, 67110000, 96, 12)
-     , (2461693251, 67110000, 116, 12)
-     , (2461693251, 67110000, 186, 12)
-     , (2461693251, 67110000, 206, 10)
-     , (2461693251, 67110000, 108, 8)
-     , (2461693251, 67110021, 216, 24)
-     , (2461693251, 67110354, 128, 8)
-     , (2461693251, 67110354, 174, 12);
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`, `order`)
+VALUES (2461693251, 67110021, 216, 24, 0)
+     , (2461693251, 67110354, 128, 8, 1)
+     , (2461693251, 67110354, 174, 12, 2)
+     , (2461693251, 67110000, 96, 12, 3)
+     , (2461693251, 67110000, 116, 12, 4)
+     , (2461693251, 67110000, 186, 12, 5)
+     , (2461693251, 67110000, 206, 10, 6)
+     , (2461693251, 67110000, 108, 8, 7);
 
 INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
 VALUES (2461693251, 0, 83887061, 83892375, 0)

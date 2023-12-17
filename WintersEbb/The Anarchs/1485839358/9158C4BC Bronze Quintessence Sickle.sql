@@ -48,8 +48,8 @@ VALUES (2438513852,   3, 1342183844) /* Wielder */
      , (2438513852, 8000, 2438513852) /* PCAPRecordedObjectIID */
      , (2438513852, 8008, 1342183844) /* PCAPRecordedParentIID */;
 
-INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
-VALUES (2438513852, 67111920, 0, 0);
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`, `order`)
+VALUES (2438513852, 67111920, 0, 0, 0);
 
 INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, `order`)
 VALUES (2438513852, 0, 16785974, 0);

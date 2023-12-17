@@ -61,5 +61,5 @@ VALUES (2157271626,   3, 1343112573) /* Wielder */
      , (2157271626, 8000, 2157271626) /* PCAPRecordedObjectIID */
      , (2157271626, 8008, 1343112573) /* PCAPRecordedParentIID */;
 
-INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
-VALUES (2157271626, 67116389, 0, 0);
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`, `order`)
+VALUES (2157271626, 67116389, 0, 0, 0);

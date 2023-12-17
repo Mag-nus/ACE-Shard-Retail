@@ -79,6 +79,6 @@ VALUES (2401204054,  1516,      2)
      , (2401204054,  4667,      2) 
      , (2401204054,  6072,      2) ;
 
-INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
-VALUES (2401204054, 67116223, 174, 66)
-     , (2401204054, 67116223, 72, 24);
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`, `order`)
+VALUES (2401204054, 67116223, 174, 66, 0)
+     , (2401204054, 67116223, 72, 24, 1);

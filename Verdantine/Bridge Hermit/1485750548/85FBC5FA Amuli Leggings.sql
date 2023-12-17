@@ -69,11 +69,11 @@ INSERT INTO `biota_properties_spell_book` (`object_Id`, `spell`, `probability`)
 VALUES (2247869946,  1486,      2) 
      , (2247869946,  2621,      2) ;
 
-INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
-VALUES (2247869946, 67110384, 136, 16)
-     , (2247869946, 67110384, 80, 12)
-     , (2247869946, 67110550, 152, 8)
-     , (2247869946, 67110550, 72, 8);
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`, `order`)
+VALUES (2247869946, 67110384, 136, 16, 0)
+     , (2247869946, 67110384, 80, 12, 1)
+     , (2247869946, 67110550, 152, 8, 2)
+     , (2247869946, 67110550, 72, 8, 3);
 
 INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
 VALUES (2247869946, 0, 83887064, 83892374, 0)

@@ -11,7 +11,7 @@ VALUES (2622393308,   1,      16384) /* ItemType - Key */
      , (2622393308,  92,          1) /* Structure */
      , (2622393308,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2622393308,  94,        640) /* TargetType - LockableMagicTarget */
-     , (2622393308, 9015,         28) /* InventoryOrder */;
+     , (2622393308, 9015,         18) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (2622393308,   1, False) /* Stuck */

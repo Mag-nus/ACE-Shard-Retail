@@ -81,9 +81,9 @@ VALUES (3038709351,  2104,      2)
      , (3038709351,  4319,      2) 
      , (3038709351,  6060,      2) ;
 
-INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
-VALUES (3038709351, 67116592, 160, 4)
-     , (3038709351, 67116607, 164, 4);
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`, `order`)
+VALUES (3038709351, 67116592, 160, 4, 0)
+     , (3038709351, 67116607, 164, 4, 1);
 
 INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
 VALUES (3038709351, 0, 83889344, 83894687, 0)

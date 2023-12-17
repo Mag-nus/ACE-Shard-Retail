@@ -11,7 +11,7 @@ VALUES (2621816944,   1,     524288) /* ItemType - ManaStone */
      , (2621816944,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2621816944,  94,      35103) /* TargetType - Jewelry, Creature, Gem, RedirectableItemEnchantmentTarget */
      , (2621816944, 151,          2) /* HookType - Wall */
-     , (2621816944, 9015,         32) /* InventoryOrder */;
+     , (2621816944, 9015,         22) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (2621816944,   1, False) /* Stuck */

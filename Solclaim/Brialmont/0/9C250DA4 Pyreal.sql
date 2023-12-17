@@ -4,12 +4,12 @@ VALUES (2619674020, 273, 9, 2146624) /* Coin */;
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (2619674020,   1,         64) /* ItemType - Money */
      , (2619674020,  11,      25000) /* MaxStackSize */
-     , (2619674020,  12,       4804) /* StackSize */
+     , (2619674020,  12,      10000) /* StackSize */
      , (2619674020,  16,          1) /* ItemUseable - No */
-     , (2619674020,  19,       4804) /* Value */
+     , (2619674020,  19,      10000) /* Value */
      , (2619674020,  65,        101) /* Placement - Resting */
      , (2619674020,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
-     , (2619674020, 9015,         42) /* InventoryOrder */;
+     , (2619674020, 9015,         30) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (2619674020,   1, False) /* Stuck */

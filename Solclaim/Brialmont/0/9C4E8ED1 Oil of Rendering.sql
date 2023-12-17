@@ -13,7 +13,7 @@ VALUES (2622394065,   1,        128) /* ItemType - Misc */
      , (2622394065,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2622394065,  94,      33025) /* TargetType - WeaponOrCaster */
      , (2622394065, 114,          1) /* Attuned - Attuned */
-     , (2622394065, 9015,         34) /* InventoryOrder */;
+     , (2622394065, 9015,         23) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (2622394065,   1, False) /* Stuck */
@@ -46,8 +46,8 @@ VALUES (2622394065,   1, 1343183052) /* Owner */
      , (2622394065,   2, 1343183052) /* Container */
      , (2622394065, 8000, 2622394065) /* PCAPRecordedObjectIID */;
 
-INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
-VALUES (2622394065, 67111920, 0, 0);
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`, `order`)
+VALUES (2622394065, 67111920, 0, 0, 0);
 
 INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
 VALUES (2622394065, 0, 83890051, 83890051, 0)

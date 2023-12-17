@@ -79,8 +79,8 @@ VALUES (2248255547,  2102,      2)
      , (2248255547,  4689,      2) 
      , (2248255547,  5808,      2) ;
 
-INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
-VALUES (2248255547, 67114638, 240, 16);
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`, `order`)
+VALUES (2248255547, 67114638, 240, 16, 0);
 
 INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, `order`)
 VALUES (2248255547, 0, 16789653, 0);

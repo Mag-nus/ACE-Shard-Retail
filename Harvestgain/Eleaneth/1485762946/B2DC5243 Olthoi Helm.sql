@@ -44,9 +44,9 @@ VALUES (3000783427,   1, 2970322308) /* Owner */
      , (3000783427,   2, 2970322308) /* Container */
      , (3000783427, 8000, 3000783427) /* PCAPRecordedObjectIID */;
 
-INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
-VALUES (3000783427, 67114454, 250, 6)
-     , (3000783427, 67116568, 240, 10);
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`, `order`)
+VALUES (3000783427, 67116568, 240, 10, 0)
+     , (3000783427, 67114454, 250, 6, 1);
 
 INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, `order`)
 VALUES (3000783427, 0, 16789360, 0);

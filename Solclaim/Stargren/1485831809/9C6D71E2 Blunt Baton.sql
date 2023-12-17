@@ -81,10 +81,10 @@ VALUES (2624418274,    63,      2)
      , (2624418274,  1605,      2) 
      , (2624418274,  3258,      2) ;
 
-INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
-VALUES (2624418274, 67116700, 1, 100)
-     , (2624418274, 67116708, 101, 100)
-     , (2624418274, 67116709, 201, 55);
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`, `order`)
+VALUES (2624418274, 67116700, 1, 100, 0)
+     , (2624418274, 67116708, 101, 100, 1)
+     , (2624418274, 67116709, 201, 55, 2);
 
 INSERT INTO `biota_properties_enchantment_registry` (`object_Id`, `enchantment_Category`, `spell_Id`, `layer_Id`, `has_Spell_Set_Id`, `spell_Category`, `power_Level`, `start_Time`, `duration`, `caster_Object_Id`, `degrade_Modifier`, `degrade_Limit`, `last_Time_Degraded`, `stat_Mod_Type`, `stat_Mod_Key`, `stat_Mod_Value`, `spell_Set_Id`)
 VALUES (2624418274, 0, 2108, 0, False, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);

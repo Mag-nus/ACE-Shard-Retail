@@ -3,15 +3,15 @@ VALUES (2619674028, 691, 32, 6472001) /* SpellComponent */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (2619674028,   1,       4096) /* ItemType - SpellComponents */
-     , (2619674028,   5,         40) /* EncumbranceVal */
+     , (2619674028,   5,         20) /* EncumbranceVal */
      , (2619674028,  11,        100) /* MaxStackSize */
-     , (2619674028,  12,         10) /* StackSize */
+     , (2619674028,  12,          5) /* StackSize */
      , (2619674028,  16,          1) /* ItemUseable - No */
-     , (2619674028,  19,        100) /* Value */
+     , (2619674028,  19,         50) /* Value */
      , (2619674028,  65,        101) /* Placement - Resting */
      , (2619674028,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2619674028, 151,          2) /* HookType - Wall */
-     , (2619674028, 9015,         38) /* InventoryOrder */;
+     , (2619674028, 9015,         26) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (2619674028,   1, False) /* Stuck */
@@ -38,8 +38,8 @@ VALUES (2619674028,   1, 1343183052) /* Owner */
      , (2619674028,   2, 1343183052) /* Container */
      , (2619674028, 8000, 2619674028) /* PCAPRecordedObjectIID */;
 
-INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
-VALUES (2619674028, 67111919, 0, 0);
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`, `order`)
+VALUES (2619674028, 67111919, 0, 0, 0);
 
 INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
 VALUES (2619674028, 0, 83890047, 83890047, 0);

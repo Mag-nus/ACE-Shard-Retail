@@ -199,10 +199,10 @@ VALUES (1343343392,  1,   0, 1,           0,   0,   0, 371054518.6547231) /* Axe
      , (1343343392, 52,   0, 1,           0,   0,   0, 458214783.819129) /* DirtyFighting       Untrained */
      , (1343343392, 54,   0, 1,           0,   0,   0, 458214783.819129) /* Summoning           Untrained */;
 
-INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
-VALUES (1343343392, 67116857, 32, 8)
-     , (1343343392, 67116965, 0, 24)
-     , (1343343392, 67117000, 24, 8);
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`, `order`)
+VALUES (1343343392, 67116965, 0, 24, 0)
+     , (1343343392, 67117000, 24, 8, 1)
+     , (1343343392, 67116857, 32, 8, 2);
 
 INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
 VALUES (1343343392, 16, 83886232, 83890685, 0)

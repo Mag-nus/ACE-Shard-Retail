@@ -49,8 +49,8 @@ VALUES (2628671710,   3, 1344175125) /* Wielder */
      , (2628671710, 8000, 2628671710) /* PCAPRecordedObjectIID */
      , (2628671710, 8008, 1344175125) /* PCAPRecordedParentIID */;
 
-INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
-VALUES (2628671710, 67111922, 0, 0);
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`, `order`)
+VALUES (2628671710, 67111922, 0, 0, 0);
 
 INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
 VALUES (2628671710, 0, 83889679, 83889679, 0)

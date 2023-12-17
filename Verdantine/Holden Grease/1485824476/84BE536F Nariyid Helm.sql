@@ -67,9 +67,9 @@ VALUES (2227065711,   1, 1342410903) /* Owner */
 INSERT INTO `biota_properties_spell_book` (`object_Id`, `spell`, `probability`)
 VALUES (2227065711,  1485,      2) ;
 
-INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
-VALUES (2227065711, 67115067, 240, 10)
-     , (2227065711, 67115097, 250, 6);
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`, `order`)
+VALUES (2227065711, 67115097, 250, 6, 0)
+     , (2227065711, 67115067, 240, 10, 1);
 
 INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, `order`)
 VALUES (2227065711, 0, 16790022, 0);

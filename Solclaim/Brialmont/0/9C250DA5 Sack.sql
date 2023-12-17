@@ -3,13 +3,13 @@ VALUES (2619674021, 166, 21, 6472001) /* Container */;
 
 INSERT INTO `biota_properties_int` (`object_Id`, `type`, `value`)
 VALUES (2619674021,   1,        512) /* ItemType - Container */
-     , (2619674021,   5,         26) /* EncumbranceVal */
+     , (2619674021,   5,         15) /* EncumbranceVal */
      , (2619674021,   6,         24) /* ItemsCapacity */
      , (2619674021,  16,         56) /* ItemUseable - ContainedViewedRemote */
      , (2619674021,  19,         65) /* Value */
      , (2619674021,  65,        101) /* Placement - Resting */
      , (2619674021,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
-     , (2619674021, 9015,         45) /* InventoryOrder */;
+     , (2619674021, 9015,         33) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (2619674021,   1, False) /* Stuck */
@@ -37,8 +37,8 @@ VALUES (2619674021,   1, 1343183052) /* Owner */
      , (2619674021,   2, 1343183052) /* Container */
      , (2619674021, 8000, 2619674021) /* PCAPRecordedObjectIID */;
 
-INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
-VALUES (2619674021, 67111919, 0, 0);
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`, `order`)
+VALUES (2619674021, 67111919, 0, 0, 0);
 
 INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
 VALUES (2619674021, 0, 83890064, 83890064, 0);

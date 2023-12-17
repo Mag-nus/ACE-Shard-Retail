@@ -12,7 +12,7 @@ VALUES (2622393666,   1,       2048) /* ItemType - Gem */
      , (2622393666,  94,         16) /* TargetType - Creature */
      , (2622393666, 151,         11) /* HookType - Floor, Wall, Yard */
      , (2622393666, 280,          3) /* SharedCooldown */
-     , (2622393666, 9015,         35) /* InventoryOrder */;
+     , (2622393666, 9015,          1) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (2622393666,   1, False) /* Stuck */
@@ -40,6 +40,6 @@ VALUES (2622393666,   1,   33554809) /* Setup */
      , (2622393666, 8005,     137217) /* PCAPRecordedPhysicsDesc - CSetup, STable, PeTable, AnimationFrame */;
 
 INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
-VALUES (2622393666,   1, 1343183052) /* Owner */
-     , (2622393666,   2, 1343183052) /* Container */
+VALUES (2622393666,   1, 2619674021) /* Owner */
+     , (2622393666,   2, 2619674021) /* Container */
      , (2622393666, 8000, 2622393666) /* PCAPRecordedObjectIID */;

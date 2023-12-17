@@ -76,6 +76,6 @@ VALUES (3338957783,  2094,      2)
      , (3338957783,  4407,      2) 
      , (3338957783,  4677,      2) ;
 
-INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
-VALUES (3338957783, 67116293, 216, 24)
-     , (3338957783, 67116320, 174, 42);
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`, `order`)
+VALUES (3338957783, 67116320, 174, 42, 0)
+     , (3338957783, 67116293, 216, 24, 1);

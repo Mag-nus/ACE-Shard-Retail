@@ -69,9 +69,9 @@ INSERT INTO `biota_properties_anim_part` (`object_Id`, `index`, `animation_Id`, 
 VALUES (2151229222, 0, 16797170, 0)
      , (2151229222, 1, 16797171, 1)
      , (2151229222, 2, 16797172, 2)
-     , (2151229222, 3, 16797175, 5)
      , (2151229222, 4, 16797173, 3)
-     , (2151229222, 5, 16797174, 4);
+     , (2151229222, 5, 16797174, 4)
+     , (2151229222, 3, 16797175, 5);
 
 INSERT INTO `biota_properties_enchantment_registry` (`object_Id`, `enchantment_Category`, `spell_Id`, `layer_Id`, `has_Spell_Set_Id`, `spell_Category`, `power_Level`, `start_Time`, `duration`, `caster_Object_Id`, `degrade_Modifier`, `degrade_Limit`, `last_Time_Degraded`, `stat_Mod_Type`, `stat_Mod_Key`, `stat_Mod_Value`, `spell_Set_Id`)
 VALUES (2151229222, 0, 2092, 0, False, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)

@@ -15,7 +15,7 @@ VALUES (2622395227,   1, 1073741824) /* ItemType - TinkeringMaterial */
      , (2622395227,  94,        257) /* TargetType - Weapon */
      , (2622395227, 131,         67) /* MaterialType - Granite */
      , (2622395227, 151,          9) /* HookType - Floor, Yard */
-     , (2622395227, 9015,         31) /* InventoryOrder */;
+     , (2622395227, 9015,         21) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (2622395227,   1, False) /* Stuck */
@@ -46,8 +46,8 @@ VALUES (2622395227,   1, 1343183052) /* Owner */
      , (2622395227,   2, 1343183052) /* Container */
      , (2622395227, 8000, 2622395227) /* PCAPRecordedObjectIID */;
 
-INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
-VALUES (2622395227, 67111920, 0, 0);
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`, `order`)
+VALUES (2622395227, 67111920, 0, 0, 0);
 
 INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
 VALUES (2622395227, 0, 83890064, 83894153, 0);

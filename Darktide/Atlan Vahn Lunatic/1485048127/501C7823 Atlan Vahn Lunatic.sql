@@ -160,15 +160,14 @@ VALUES (1344043043,  6,   0, 3,           0, 270,   0, 535400776.34121567) /* Me
      , (1344043043, 51,   0, 3,           0, 480,   0, 535400776.34121567) /* SneakAttack         Specialized */
      , (1344043043, 52,   0, 3,           0, 480,   0, 535400776.34121567) /* DirtyFighting       Specialized */;
 
-INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
-VALUES (1344043043, 67116858, 32, 8)
-     , (1344043043, 67116865, 0, 24)
-     , (1344043043, 67116878, 24, 8);
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`, `order`)
+VALUES (1344043043, 67116865, 0, 24, 0)
+     , (1344043043, 67116878, 24, 8, 1)
+     , (1344043043, 67116858, 32, 8, 2);
 
 INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
 VALUES (1344043043, 0, 83898333, 83898333, 0)
      , (1344043043, 1, 83898335, 83898335, 1)
-     , (1344043043, 1, 83891927, 83891927, 29)
      , (1344043043, 2, 83898332, 83898332, 2)
      , (1344043043, 2, 83898334, 83898334, 3)
      , (1344043043, 3, 83898332, 83898332, 4)
@@ -195,7 +194,8 @@ VALUES (1344043043, 0, 83898333, 83898333, 0)
      , (1344043043, 21, 83898336, 83898336, 25)
      , (1344043043, 22, 83898336, 83898336, 26)
      , (1344043043, 23, 83898332, 83898332, 27)
-     , (1344043043, 24, 83898332, 83898332, 28);
+     , (1344043043, 24, 83898332, 83898332, 28)
+     , (1344043043, 1, 83891927, 83891927, 29);
 
 INSERT INTO `biota_properties_enchantment_registry` (`object_Id`, `enchantment_Category`, `spell_Id`, `layer_Id`, `has_Spell_Set_Id`, `spell_Category`, `power_Level`, `start_Time`, `duration`, `caster_Object_Id`, `degrade_Modifier`, `degrade_Limit`, `last_Time_Degraded`, `stat_Mod_Type`, `stat_Mod_Key`, `stat_Mod_Value`, `spell_Set_Id`)
 VALUES (1344043043, 0, 5476, 2, True, 49, 400, -65.75736379623413, 10800, 4083274367, 0, -666, -458738613.0555155, 33591312, 34, 45, 0)

@@ -70,6 +70,6 @@ INSERT INTO `biota_properties_spell_book` (`object_Id`, `spell`, `probability`)
 VALUES (2457886414,   683,      2) 
      , (2457886414,  1486,      2) ;
 
-INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
-VALUES (2457886414, 67110320, 240, 10)
-     , (2457886414, 67110332, 250, 6);
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`, `order`)
+VALUES (2457886414, 67110320, 240, 10, 0)
+     , (2457886414, 67110332, 250, 6, 1);

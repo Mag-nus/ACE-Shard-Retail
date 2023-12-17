@@ -48,5 +48,5 @@ VALUES (3334906292,   3, 1342595263) /* Wielder */
      , (3334906292, 8000, 3334906292) /* PCAPRecordedObjectIID */
      , (3334906292, 8008, 1342595263) /* PCAPRecordedParentIID */;
 
-INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
-VALUES (3334906292, 67111920, 0, 0);
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`, `order`)
+VALUES (3334906292, 67111920, 0, 0, 0);

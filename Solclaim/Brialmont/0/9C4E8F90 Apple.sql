@@ -10,7 +10,7 @@ VALUES (2622394256,   1,         32) /* ItemType - Food */
      , (2622394256,  19,         42) /* Value */
      , (2622394256,  65,        101) /* Placement - Resting */
      , (2622394256,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
-     , (2622394256, 9015,         27) /* InventoryOrder */;
+     , (2622394256, 9015,         17) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (2622394256,   1, False) /* Stuck */

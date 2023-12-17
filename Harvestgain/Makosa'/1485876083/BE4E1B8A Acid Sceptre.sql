@@ -64,9 +64,9 @@ VALUES (3192789898,   1, 1342938221) /* Owner */
      , (3192789898,   2, 1342938221) /* Container */
      , (3192789898, 8000, 3192789898) /* PCAPRecordedObjectIID */;
 
-INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
-VALUES (3192789898, 67115359, 1, 55)
-     , (3192789898, 67115366, 56, 200);
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`, `order`)
+VALUES (3192789898, 67115359, 1, 55, 0)
+     , (3192789898, 67115366, 56, 200, 1);
 
 INSERT INTO `biota_properties_enchantment_registry` (`object_Id`, `enchantment_Category`, `spell_Id`, `layer_Id`, `has_Spell_Set_Id`, `spell_Category`, `power_Level`, `start_Time`, `duration`, `caster_Object_Id`, `degrade_Modifier`, `degrade_Limit`, `last_Time_Degraded`, `stat_Mod_Type`, `stat_Mod_Key`, `stat_Mod_Value`, `spell_Set_Id`)
 VALUES (3192789898, 0, 6035, 0, False, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);

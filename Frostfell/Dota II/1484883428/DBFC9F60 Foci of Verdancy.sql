@@ -45,8 +45,8 @@ VALUES (3690766176,   1, 1343492795) /* Owner */
      , (3690766176,   2, 1343492795) /* Container */
      , (3690766176, 8000, 3690766176) /* PCAPRecordedObjectIID */;
 
-INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
-VALUES (3690766176, 67111922, 0, 0);
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`, `order`)
+VALUES (3690766176, 67111922, 0, 0, 0);
 
 INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
 VALUES (3690766176, 0, 83886723, 83886723, 0)

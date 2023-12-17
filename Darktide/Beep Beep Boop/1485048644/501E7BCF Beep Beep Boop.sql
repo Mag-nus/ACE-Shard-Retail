@@ -194,10 +194,10 @@ VALUES (1344175055,  6,   0, 3,           0,  10,   0, 535400763.77920824) /* Me
      , (1344175055, 52,   0, 1,           0,   0,   0, 535400763.77920824) /* DirtyFighting       Untrained */
      , (1344175055, 54,   0, 1,           0,   0,   0, 535400763.77920824) /* Summoning           Untrained */;
 
-INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
-VALUES (1344175055, 67116866, 0, 24)
-     , (1344175055, 67116881, 32, 8)
-     , (1344175055, 67116883, 24, 8);
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`, `order`)
+VALUES (1344175055, 67116866, 0, 24, 0)
+     , (1344175055, 67116883, 24, 8, 1)
+     , (1344175055, 67116881, 32, 8, 2);
 
 INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
 VALUES (1344175055, 0, 83898241, 83898241, 0)

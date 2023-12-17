@@ -60,10 +60,10 @@ INSERT INTO `biota_properties_i_i_d` (`object_Id`, `type`, `value`)
 VALUES (1343229426,  26, 1342205575) /* Monarch */
      , (1343229426, 8000, 1343229426) /* PCAPRecordedObjectIID */;
 
-INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
-VALUES (1343229426, 67109560, 0, 24)
-     , (1343229426, 67109564, 32, 8)
-     , (1343229426, 67117020, 24, 8);
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`, `order`)
+VALUES (1343229426, 67109560, 0, 24, 0)
+     , (1343229426, 67117020, 24, 8, 1)
+     , (1343229426, 67109564, 32, 8, 2);
 
 INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
 VALUES (1343229426, 16, 83886232, 83890685, 0)

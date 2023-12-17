@@ -11,7 +11,7 @@ VALUES (2622545013,   1,        128) /* ItemType - Misc */
      , (2622545013,  65,        101) /* Placement - Resting */
      , (2622545013,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (2622545013, 151,         11) /* HookType - Floor, Wall, Yard */
-     , (2622545013, 9015,         20) /* InventoryOrder */;
+     , (2622545013, 9015,         15) /* InventoryOrder */;
 
 INSERT INTO `biota_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (2622545013,   1, False) /* Stuck */
@@ -38,8 +38,8 @@ VALUES (2622545013,   1, 1343183052) /* Owner */
      , (2622545013,   2, 1343183052) /* Container */
      , (2622545013, 8000, 2622545013) /* PCAPRecordedObjectIID */;
 
-INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`)
-VALUES (2622545013, 67111919, 0, 0);
+INSERT INTO `biota_properties_palette` (`object_Id`, `sub_Palette_Id`, `offset`, `length`, `order`)
+VALUES (2622545013, 67111919, 0, 0, 0);
 
 INSERT INTO `biota_properties_texture_map` (`object_Id`, `index`, `old_Id`, `new_Id`, `order`)
 VALUES (2622545013, 0, 83889126, 83889126, 0)
